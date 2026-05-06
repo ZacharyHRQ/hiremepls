@@ -16,3 +16,18 @@ export interface Job {
 }
 
 export type SeenState = Record<string, string[]>;
+
+export interface SnapshotError {
+  company: string;
+  message: string;
+}
+
+export interface JobsSnapshot {
+  generatedAt: string;
+  companyCount: number;
+  okCount: number;
+  jobCount: number;
+  firstSeen: Record<string, string>;
+  jobs: Job[];
+  errors: SnapshotError[];
+}

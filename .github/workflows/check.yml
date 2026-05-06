@@ -12,15 +12,18 @@ concurrency:
   group: check-internships
   cancel-in-progress: false
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
 jobs:
   check:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         with:
-          node-version: "20"
+          node-version: "24"
           cache: "npm"
 
       - run: npm install --no-audit --no-fund
@@ -31,14 +34,14 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: npm run check
 
-      - name: Commit updated seen.json
+      - name: Commit updated snapshot
         run: |
-          if git diff --quiet seen.json; then
+          git add seen.json jobs.json JOBS.md
+          if git diff --cached --quiet; then
             echo "no changes"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add seen.json
-          git commit -m "chore: update seen jobs"
+          git commit -m "chore: update jobs snapshot"
           git push

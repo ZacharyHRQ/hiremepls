@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "check": "tsx src/index.ts",
+    "list": "tsx src/list.ts",
     "chat-id": "tsx scripts/get-chat-id.ts"
   },
   "devDependencies": {
