@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-06T17:47:30.912Z",
+  "generatedAt": "2026-05-06T19:29:35.344Z",
   "companyCount": 60,
   "okCount": 59,
-  "jobCount": 180,
+  "jobCount": 176,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -23,7 +23,6 @@
     "7296923": "2026-05-06T06:42:07.596Z",
     "7296929": "2026-05-06T06:42:07.596Z",
     "7340843": "2026-05-06T06:42:07.596Z",
-    "7358525": "2026-05-06T06:42:07.596Z",
     "7359136": "2026-05-06T06:42:07.596Z",
     "7359147": "2026-05-06T06:42:07.596Z",
     "7362113": "2026-05-06T06:42:07.596Z",
@@ -71,7 +70,6 @@
     "7738800": "2026-05-06T06:42:07.596Z",
     "7738938": "2026-05-06T06:42:07.596Z",
     "7743202": "2026-05-06T06:42:07.596Z",
-    "7748959": "2026-05-06T06:42:07.596Z",
     "7748961": "2026-05-06T06:42:07.596Z",
     "7748964": "2026-05-06T06:42:07.596Z",
     "7751595": "2026-05-06T06:42:07.596Z",
@@ -97,8 +95,6 @@
     "7799138": "2026-05-06T06:42:07.596Z",
     "7799344": "2026-05-06T06:42:07.596Z",
     "7802906": "2026-05-06T06:42:07.596Z",
-    "7818807": "2026-05-06T06:42:07.596Z",
-    "7818811": "2026-05-06T06:42:07.596Z",
     "7818817": "2026-05-06T06:42:07.596Z",
     "7822643": "2026-05-06T06:42:07.596Z",
     "7822659": "2026-05-06T06:42:07.596Z",
@@ -843,18 +839,18 @@
       "company": "Stripe"
     },
     {
-      "id": "7285974",
-      "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
-      "department": "",
-      "company": "Stripe"
-    },
-    {
       "id": "7874965",
       "title": "PhD Data Scientist, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=7874965",
       "location": "San Francisco, New York City, Seattle, Chicago",
+      "department": "",
+      "company": "Stripe"
+    },
+    {
+      "id": "7285974",
+      "title": "PhD Data Scientist, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe"
     },
@@ -1020,7 +1016,7 @@
     },
     {
       "id": "7786702",
-      "title": "CxTP Executive Intelligence & Engagement - Intern (Summer/Spring/Fall 2026)",
+      "title": "CxO Transformation Partners Intern - (Summer/Spring/Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7786702?gh_jid=7786702",
       "location": "In-Office",
       "department": "",
@@ -1067,17 +1063,17 @@
       "company": "Cloudflare"
     },
     {
-      "id": "7578549",
+      "id": "7577564",
       "title": "GRC Team Intern (Summer 2026) ",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7578549?gh_jid=7578549",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7577564?gh_jid=7577564",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
     },
     {
-      "id": "7577564",
+      "id": "7578549",
       "title": "GRC Team Intern (Summer 2026) ",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7577564?gh_jid=7577564",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7578549?gh_jid=7578549",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
@@ -1171,9 +1167,9 @@
       "company": "Cloudflare"
     },
     {
-      "id": "7606240",
+      "id": "7708660",
       "title": "People Team Intern - HR Operations & AI Innovation (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7708660?gh_jid=7708660",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
@@ -1187,9 +1183,9 @@
       "company": "Cloudflare"
     },
     {
-      "id": "7708660",
+      "id": "7606240",
       "title": "People Team Intern - HR Operations & AI Innovation (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7708660?gh_jid=7708660",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
@@ -1267,14 +1263,6 @@
       "company": "Cloudflare"
     },
     {
-      "id": "7358525",
-      "title": "Research Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7358525?gh_jid=7358525",
-      "location": "In-Office",
-      "department": "",
-      "company": "Cloudflare"
-    },
-    {
       "id": "7359147",
       "title": "Research Engineer Intern (Summer 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7359147?gh_jid=7359147",
@@ -1315,6 +1303,14 @@
       "company": "Cloudflare"
     },
     {
+      "id": "7582150",
+      "title": "Security Engineer Intern (Summer 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150",
+      "location": "In-Office",
+      "department": "",
+      "company": "Cloudflare"
+    },
+    {
       "id": "7582157",
       "title": "Security Engineer Intern (Summer 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7582157?gh_jid=7582157",
@@ -1326,14 +1322,6 @@
       "id": "7582169",
       "title": "Security Engineer Intern (Summer 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169",
-      "location": "In-Office",
-      "department": "",
-      "company": "Cloudflare"
-    },
-    {
-      "id": "7582150",
-      "title": "Security Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
@@ -1395,9 +1383,9 @@
       "company": "Cloudflare"
     },
     {
-      "id": "7726977",
+      "id": "7726879",
       "title": "Technical Support Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726977?gh_jid=7726977",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
@@ -1411,17 +1399,9 @@
       "company": "Cloudflare"
     },
     {
-      "id": "7726879",
+      "id": "7726977",
       "title": "Technical Support Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879",
-      "location": "In-Office",
-      "department": "",
-      "company": "Cloudflare"
-    },
-    {
-      "id": "7578761",
-      "title": "Threat Detection and Incident Response Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7578761?gh_jid=7578761",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726977?gh_jid=7726977",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
@@ -1435,20 +1415,20 @@
       "company": "Cloudflare"
     },
     {
+      "id": "7578761",
+      "title": "Threat Detection and Incident Response Intern (Summer 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7578761?gh_jid=7578761",
+      "location": "In-Office",
+      "department": "",
+      "company": "Cloudflare"
+    },
+    {
       "id": "7802906",
       "title": "U.S. Public Policy and AI Innovation Intern (Summer 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7802906?gh_jid=7802906",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
-    },
-    {
-      "id": "7391788",
-      "title": "IT Support Technician Intern",
-      "url": "https://careers.datadoghq.com/detail/7391788/?gh_jid=7391788",
-      "location": "Boston, Massachusetts, USA",
-      "department": "",
-      "company": "Datadog"
     },
     {
       "id": "7826176",
@@ -1459,20 +1439,20 @@
       "company": "Datadog"
     },
     {
+      "id": "7391788",
+      "title": "IT Support Technician Intern",
+      "url": "https://careers.datadoghq.com/detail/7391788/?gh_jid=7391788",
+      "location": "Boston, Massachusetts, USA",
+      "department": "",
+      "company": "Datadog"
+    },
+    {
       "id": "67fadb77-43d8-4449-954b-d4cf2c6d3b8b",
       "title": "Software Engineer Internship, Android ",
       "url": "https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b",
       "location": "",
       "department": "",
       "company": "Ramp"
-    },
-    {
-      "id": "7748959",
-      "title": "Analyst Relations Intern",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/7748959",
-      "location": "Remote - US",
-      "department": "",
-      "company": "Twilio"
     },
     {
       "id": "7728956",
@@ -1579,14 +1559,6 @@
       "company": "Instacart"
     },
     {
-      "id": "7818807",
-      "title": "AI Content Operations Intern (Summer 2026)",
-      "url": "https://www.okta.com/company/careers/opportunity/7818807?gh_jid=7818807",
-      "location": "Chicago, Illinois",
-      "department": "",
-      "company": "Okta"
-    },
-    {
       "id": "7646155",
       "title": "Customer Success Intern (Summer 2026)",
       "url": "https://www.okta.com/company/careers/opportunity/7646155?gh_jid=7646155",
@@ -1607,14 +1579,6 @@
       "title": "Enablement Communications & Events Coordinator Intern",
       "url": "https://www.okta.com/company/careers/opportunity/7818817?gh_jid=7818817",
       "location": "Bellevue, Washington; Chicago, Illinois",
-      "department": "",
-      "company": "Okta"
-    },
-    {
-      "id": "7818811",
-      "title": "Social Media Engagement Intern (Summer 2026)",
-      "url": "https://www.okta.com/company/careers/opportunity/7818811?gh_jid=7818811",
-      "location": "Chicago, Illinois",
       "department": "",
       "company": "Okta"
     },
