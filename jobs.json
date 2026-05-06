@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T19:29:35.344Z",
+  "generatedAt": "2026-05-06T21:06:55.193Z",
   "companyCount": 60,
   "okCount": 59,
   "jobCount": 176,
@@ -543,18 +543,18 @@
       "company": "Point72"
     },
     {
-      "id": "7297598002",
-      "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
-      "department": "",
-      "company": "Point72"
-    },
-    {
       "id": "7297611002",
       "title": "Cubist Quantitative Researcher Intern",
       "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
       "location": "Hong Kong",
+      "department": "",
+      "company": "Point72"
+    },
+    {
+      "id": "7297598002",
+      "title": "Cubist Quantitative Researcher Intern",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72"
     },
