@@ -16,7 +16,6 @@
 - [Man Group](#man-group) (5)
 - [Mistral](#mistral) (3)
 - [Okta](#okta) (4)
-- [OpenAI](#openai) (1)
 - [Perplexity](#perplexity) (5)
 - [Pinterest](#pinterest) (2)
 - [Point72](#point72) (30)
@@ -25,7 +24,7 @@
 - [Scale AI](#scale-ai) (3)
 - [Schonfeld](#schonfeld) (3)
 - [Snowflake](#snowflake) (6)
-- [Squarepoint Capital](#squarepoint-capital) (5)
+- [Squarepoint Capital](#squarepoint-capital) (6)
 - [Stripe](#stripe) (8)
 - [Tower Research Capital](#tower-research-capital) (6)
 - [Twilio](#twilio) (5)
@@ -186,12 +185,6 @@
 | [Enablement Communications & Events Coordinator Intern](https://www.okta.com/company/careers/opportunity/7818817?gh_jid=7818817) | Bellevue, Washington; Chicago, Illinois | — | 2026-05-06 |
 | [Technical Account Management Intern (Summer 2026)](https://www.okta.com/company/careers/opportunity/7549331?gh_jid=7549331) | Chicago, Illinois | — | 2026-05-06 |
 
-## OpenAI
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Business Insights Intern](https://jobs.ashbyhq.com/openai/821168d6-c97c-457a-9187-88a2cb95ba32) | — | — | 2026-05-06 |
-
 ## Perplexity
 
 | Title | Location | Department | First seen |
@@ -289,6 +282,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Intern Software Developer - Fall 2026](https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463) | Montreal | — | 2026-05-07 |
 | [Graduate Platform Specialist](https://www.squarepoint-capital.com/open-opportunities?id=7340843&gh_jid=7340843) | Hong Kong, London, Montreal, Singapore | — | 2026-05-06 |
 | [Graduate Software Developer](https://www.squarepoint-capital.com/open-opportunities?id=6040910&gh_jid=6040910) | London, Montreal, Singapore | — | 2026-05-06 |
 | [Graduate Support Specialist](https://www.squarepoint-capital.com/open-opportunities?id=6100081&gh_jid=6100081) | London, Montreal, New York, Houston, Hong Kong | — | 2026-05-06 |
@@ -300,8 +294,8 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | Mexico City, Mexico | — | 2026-05-06 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7216664) | San Francisco, New York City, Seattle | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineer, Intern (Summer)](https://stripe.com/jobs/search?gh_jid=7210115) | San Francisco, Seattle, New York City | — | 2026-05-06 |
