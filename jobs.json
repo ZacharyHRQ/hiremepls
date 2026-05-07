@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-07T06:31:54.534Z",
+  "generatedAt": "2026-05-07T10:18:49.383Z",
   "companyCount": 60,
   "okCount": 59,
-  "jobCount": 177,
+  "jobCount": 176,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -56,7 +56,6 @@
     "7708637": "2026-05-06T06:42:07.596Z",
     "7708660": "2026-05-06T06:42:07.596Z",
     "7718947": "2026-05-06T06:42:07.596Z",
-    "7726055": "2026-05-06T06:42:07.596Z",
     "7726879": "2026-05-06T06:42:07.596Z",
     "7726977": "2026-05-06T06:42:07.596Z",
     "7728956": "2026-05-06T06:42:07.596Z",
@@ -840,18 +839,18 @@
       "company": "Stripe"
     },
     {
-      "id": "7285974",
-      "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
-      "department": "",
-      "company": "Stripe"
-    },
-    {
       "id": "7874965",
       "title": "PhD Data Scientist, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=7874965",
       "location": "San Francisco, New York City, Seattle, Chicago",
+      "department": "",
+      "company": "Stripe"
+    },
+    {
+      "id": "7285974",
+      "title": "PhD Data Scientist, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe"
     },
@@ -1137,7 +1136,7 @@
     },
     {
       "id": "7736919",
-      "title": "Marketing Events and Campaigns Intern (July to Dec 2026)",
+      "title": "Marketing Events and Campaigns Intern (Mid-Year 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7736919?gh_jid=7736919",
       "location": "In-Office",
       "department": "",
@@ -1336,17 +1335,17 @@
       "company": "Cloudflare"
     },
     {
-      "id": "7296929",
+      "id": "7296923",
       "title": "Software Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7296929?gh_jid=7296929",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7296923?gh_jid=7296923",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
     },
     {
-      "id": "7296923",
+      "id": "7296929",
       "title": "Software Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7296923?gh_jid=7296923",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7296929?gh_jid=7296929",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
@@ -1392,14 +1391,6 @@
       "company": "Cloudflare"
     },
     {
-      "id": "7726055",
-      "title": "Technical Support Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726055?gh_jid=7726055",
-      "location": "In-Office",
-      "department": "",
-      "company": "Cloudflare"
-    },
-    {
       "id": "7726977",
       "title": "Technical Support Engineer Intern (Summer 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7726977?gh_jid=7726977",
@@ -1416,17 +1407,17 @@
       "company": "Cloudflare"
     },
     {
-      "id": "7577205",
+      "id": "7578761",
       "title": "Threat Detection and Incident Response Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7577205?gh_jid=7577205",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7578761?gh_jid=7578761",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
     },
     {
-      "id": "7578761",
+      "id": "7577205",
       "title": "Threat Detection and Incident Response Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7578761?gh_jid=7578761",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7577205?gh_jid=7577205",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
@@ -1440,18 +1431,18 @@
       "company": "Cloudflare"
     },
     {
-      "id": "7826176",
-      "title": "IT Support Technician Intern",
-      "url": "https://careers.datadoghq.com/detail/7826176/?gh_jid=7826176",
-      "location": "Paris, France",
-      "department": "",
-      "company": "Datadog"
-    },
-    {
       "id": "7391788",
       "title": "IT Support Technician Intern",
       "url": "https://careers.datadoghq.com/detail/7391788/?gh_jid=7391788",
       "location": "Boston, Massachusetts, USA",
+      "department": "",
+      "company": "Datadog"
+    },
+    {
+      "id": "7826176",
+      "title": "IT Support Technician Intern",
+      "url": "https://careers.datadoghq.com/detail/7826176/?gh_jid=7826176",
+      "location": "Paris, France",
       "department": "",
       "company": "Datadog"
     },
