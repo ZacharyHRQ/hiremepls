@@ -1,6 +1,6 @@
 # Open Internships
 
-**174** internships across **59/60** companies — last updated 2026-05-07.
+**173** internships across **59/60** companies — last updated 2026-05-07.
 
 ## Companies
 
@@ -25,7 +25,7 @@
 - [Schonfeld](#schonfeld) (3)
 - [Snowflake](#snowflake) (6)
 - [Squarepoint Capital](#squarepoint-capital) (6)
-- [Stripe](#stripe) (8)
+- [Stripe](#stripe) (7)
 - [Tower Research Capital](#tower-research-capital) (6)
 - [Twilio](#twilio) (5)
 
@@ -72,9 +72,9 @@
 | [Marketing: AI Discoverability & Optimization Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7729719?gh_jid=7729719) | In-Office | — | 2026-05-06 |
 | [People Operations Intern (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7855832?gh_jid=7855832) | In-Office | — | 2026-05-06 |
 | [People Team Business Partner intern (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7855864?gh_jid=7855864) | In-Office | — | 2026-05-06 |
+| [People Team Intern - HR Operations & AI Innovation (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7708637?gh_jid=7708637) | In-Office | — | 2026-05-06 |
 | [People Team Intern - HR Operations & AI Innovation (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240) | In-Office | — | 2026-05-06 |
 | [People Team Intern - HR Operations & AI Innovation (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7708660?gh_jid=7708660) | In-Office | — | 2026-05-06 |
-| [People Team Intern - HR Operations & AI Innovation (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7708637?gh_jid=7708637) | In-Office | — | 2026-05-06 |
 | [Procurement Analyst Intern](https://boards.greenhouse.io/cloudflare/jobs/7822668?gh_jid=7822668) | Hybrid | — | 2026-05-06 |
 | [Procurement Intern (JD)](https://boards.greenhouse.io/cloudflare/jobs/7822659?gh_jid=7822659) | Hybrid | — | 2026-05-06 |
 | [Procurement Strategy & Operations Intern](https://boards.greenhouse.io/cloudflare/jobs/7822643?gh_jid=7822643) | Hybrid | — | 2026-05-06 |
@@ -93,15 +93,15 @@
 | [Security Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169) | In-Office | — | 2026-05-06 |
 | [Software Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7296929?gh_jid=7296929) | In-Office | — | 2026-05-06 |
 | [Software Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7296923?gh_jid=7296923) | In-Office | — | 2026-05-06 |
-| [Solutions Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7738938?gh_jid=7738938) | In-Office | — | 2026-05-06 |
 | [Solutions Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7738800?gh_jid=7738800) | In-Office | — | 2026-05-06 |
+| [Solutions Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7738938?gh_jid=7738938) | In-Office | — | 2026-05-06 |
 | [Technical Innovation Analyst Summer Intern - 3 months](https://boards.greenhouse.io/cloudflare/jobs/7791676?gh_jid=7791676) | In-Office | — | 2026-05-06 |
 | [Technical Marketing Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7733496?gh_jid=7733496) | In-Office | — | 2026-05-06 |
 | [Technical Program Manager Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7702476?gh_jid=7702476) | In-Office | — | 2026-05-06 |
-| [Technical Support Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7726977?gh_jid=7726977) | In-Office | — | 2026-05-06 |
 | [Technical Support Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879) | In-Office | — | 2026-05-06 |
-| [Threat Detection and Incident Response Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7577205?gh_jid=7577205) | In-Office | — | 2026-05-06 |
+| [Technical Support Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7726977?gh_jid=7726977) | In-Office | — | 2026-05-06 |
 | [Threat Detection and Incident Response Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7578761?gh_jid=7578761) | In-Office | — | 2026-05-06 |
+| [Threat Detection and Incident Response Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7577205?gh_jid=7577205) | In-Office | — | 2026-05-06 |
 | [U.S. Public Policy and AI Innovation Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7802906?gh_jid=7802906) | In-Office | — | 2026-05-06 |
 
 ## Databricks
@@ -294,11 +294,10 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | Mexico City, Mexico | — | 2026-05-06 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | Toronto, Ontario, Canada | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7216664) | San Francisco, New York City, Seattle | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | Sydney, Australia | — | 2026-05-06 |
-| [Software Engineer, Intern (Summer)](https://stripe.com/jobs/search?gh_jid=7210115) | San Francisco, Seattle, New York City | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | Singapore | — | 2026-05-06 |
 | [Tech Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7718947) | Mexico City, Mexico | — | 2026-05-06 |
 
