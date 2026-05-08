@@ -1,6 +1,6 @@
 # Open Internships
 
-**154** internships across **59/60** companies — last updated 2026-05-08.
+**158** internships across **59/60** companies — last updated 2026-05-08.
 
 ## Companies
 
@@ -18,12 +18,12 @@
 - [Okta](#okta) (4)
 - [Perplexity](#perplexity) (5)
 - [Pinterest](#pinterest) (2)
-- [Point72](#point72) (30)
+- [Point72](#point72) (29)
 - [Ramp](#ramp) (1)
 - [Replit](#replit) (3)
 - [Scale AI](#scale-ai) (3)
 - [Schonfeld](#schonfeld) (3)
-- [Snowflake](#snowflake) (6)
+- [Snowflake](#snowflake) (11)
 - [Squarepoint Capital](#squarepoint-capital) (6)
 - [Stripe](#stripe) (7)
 - [Tower Research Capital](#tower-research-capital) (6)
@@ -114,8 +114,8 @@
 | [Graduate Broker Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4608590101) | Chicago, United States | — | 2026-05-06 |
 | [Graduate Floor Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4786701101) | Chicago, United States; Miami, United States; New York, United States; Philadelphia, United States; San Francisco, United States | — | 2026-05-06 |
 | [Graduate Site Reliability Engineer, 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4540358101) | Sydney,  Australia | — | 2026-05-06 |
-| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | Amsterdam, Netherlands | — | 2026-05-06 |
+| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
 | [Graduate Trader (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564495101) | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Graduate Trading Operations Specialist](https://job-boards.eu.greenhouse.io/imc/jobs/4608591101) | Chicago, United States | — | 2026-05-06 |
 | [Hardware Engineer Intern 2026/27](https://job-boards.eu.greenhouse.io/imc/jobs/4742629101) | Sydney,  Australia | — | 2026-05-06 |
@@ -133,8 +133,8 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Campus Crypto Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7362318) | London | — | 2026-05-06 |
 | [Campus Crypto Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7362347) | Chicago | — | 2026-05-06 |
+| [Campus Crypto Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7362318) | London | — | 2026-05-06 |
 | [Campus Software Engineer (Dec 2026 - Feb 2027 Intern)](https://www.jumptrading.com/hr/job?gh_jid=7543377) | Sydney; Singapore | — | 2026-05-06 |
 | [Campus Tech Ops Engineer (Dec 2026 - Feb 2027 Intern)](https://www.jumptrading.com/hr/job?gh_jid=7543260) | Sydney | — | 2026-05-06 |
 | [Campus Trading Team Software Engineer  (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7565728) | Hong Kong | — | 2026-05-06 |
@@ -194,7 +194,6 @@
 | [2026 Finance Summer Internship, Warsaw](https://boards.greenhouse.io/point72/jobs/8429635002?gh_jid=8429635002) | Warsaw | — | 2026-05-06 |
 | [2026 Finance Summer Internship, Warsaw (Payroll)](https://boards.greenhouse.io/point72/jobs/8505843002?gh_jid=8505843002) | Warsaw | — | 2026-05-06 |
 | [2026 Internship - Transportation Strategy, Metropolitan Park](https://boards.greenhouse.io/point72/jobs/8455101002?gh_jid=8455101002) | New York, NY | — | 2026-05-06 |
-| [2026 Summer Internship - Third Party Risk Management](https://boards.greenhouse.io/point72/jobs/8230738002?gh_jid=8230738002) | New York | — | 2026-05-06 |
 | [2026 Summer Internship – Data Engineer, Long/Short Equities](https://boards.greenhouse.io/point72/jobs/8183047002?gh_jid=8183047002) | London | — | 2026-05-06 |
 | [2026 Technology Internship – Software Engineer](https://boards.greenhouse.io/point72/jobs/8406727002?gh_jid=8406727002) | Warsaw, Poland | — | 2026-05-06 |
 | [2026 Technology Internship – UI/UX Engineer (Full Stack)](https://boards.greenhouse.io/point72/jobs/8465224002?gh_jid=8465224002) | New York, NY | — | 2026-05-06 |
@@ -206,8 +205,8 @@
 | [2027 Point72 Academy Investment Analyst Summer Internship Program - Japan](https://boards.greenhouse.io/point72/jobs/8491138002?gh_jid=8491138002) | Japan | — | 2026-05-06 |
 | [2027 Point72 Academy Investment Analyst Summer Internship Program - Singapore](https://boards.greenhouse.io/point72/jobs/8491128002?gh_jid=8491128002) | Singapore | — | 2026-05-06 |
 | [2027 Point72 Academy Investment Analyst Summer Internship Program - US](https://boards.greenhouse.io/point72/jobs/8295501002?gh_jid=8295501002) | United States | — | 2026-05-06 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | Singapore | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | Hong Kong | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | Singapore | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | New York | — | 2026-05-06 |
 | [Quantitative Research Intern](https://boards.greenhouse.io/point72/jobs/7297667002?gh_jid=7297667002) | New York, Seattle | — | 2026-05-06 |
@@ -252,6 +251,11 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Software Engineer Intern (AI/ML) - Fall 2026](https://jobs.ashbyhq.com/snowflake/be659b54-08a1-4acf-b86c-f003ef6343ea) | — | — | 2026-05-08 |
+| [Software Engineer Intern (Core Engineering) - Fall 2026](https://jobs.ashbyhq.com/snowflake/4f34aefa-681b-4aa8-a0ea-28ce56c9f1a5) | — | — | 2026-05-08 |
+| [Software Engineer Intern (Database Engineering) - Fall 2026](https://jobs.ashbyhq.com/snowflake/fd76a37f-868d-467b-a256-0b6746b9e961) | — | — | 2026-05-08 |
+| [Software Engineer Intern (Infrastructure Automation) - Fall 2026](https://jobs.ashbyhq.com/snowflake/bbdee8bd-443c-456f-a4f0-1b363d843310) | — | — | 2026-05-08 |
+| [Software Engineer Intern (Security) - Fall 2026](https://jobs.ashbyhq.com/snowflake/a488959b-6874-4563-acb2-af747c3dc6f7) | — | — | 2026-05-08 |
 | [Account Engineer Intern - Summer 2026](https://jobs.ashbyhq.com/snowflake/aff4210d-127f-45d3-844b-9313b4e86edd) | — | — | 2026-05-06 |
 | [Data Engineer Intern - Pune (2026)](https://jobs.ashbyhq.com/snowflake/8904ed85-75d6-48cf-b01b-7941677fde4a) | — | — | 2026-05-06 |
 | [Research Intern (AI) - 2026](https://jobs.ashbyhq.com/snowflake/e2412cd5-19dd-44f8-addd-c9ef3c99ff82) | — | — | 2026-05-06 |
@@ -275,8 +279,8 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | Mexico City, Mexico | — | 2026-05-06 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | Toronto, Ontario, Canada | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7216664) | San Francisco, New York City, Seattle | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | Singapore | — | 2026-05-06 |

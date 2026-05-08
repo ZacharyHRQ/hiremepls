@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-08T17:08:50.335Z",
+  "generatedAt": "2026-05-08T19:09:40.576Z",
   "companyCount": 60,
   "okCount": 59,
-  "jobCount": 154,
+  "jobCount": 158,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -104,7 +104,6 @@
     "8505843002": "2026-05-06T06:42:07.596Z",
     "8455101002": "2026-05-06T06:42:07.596Z",
     "8183047002": "2026-05-06T06:42:07.596Z",
-    "8230738002": "2026-05-06T06:42:07.596Z",
     "8406727002": "2026-05-06T06:42:07.596Z",
     "8465224002": "2026-05-06T06:42:07.596Z",
     "8209323002": "2026-05-06T06:42:07.596Z",
@@ -157,7 +156,12 @@
     "aff4210d-127f-45d3-844b-9313b4e86edd": "2026-05-06T06:42:07.596Z",
     "8904ed85-75d6-48cf-b01b-7941677fde4a": "2026-05-06T06:42:07.596Z",
     "67fadb77-43d8-4449-954b-d4cf2c6d3b8b": "2026-05-06T06:42:07.596Z",
-    "8435134002": "2026-05-07T19:38:12.824Z"
+    "8435134002": "2026-05-07T19:38:12.824Z",
+    "be659b54-08a1-4acf-b86c-f003ef6343ea": "2026-05-08T19:09:40.576Z",
+    "4f34aefa-681b-4aa8-a0ea-28ce56c9f1a5": "2026-05-08T19:09:40.576Z",
+    "fd76a37f-868d-467b-a256-0b6746b9e961": "2026-05-08T19:09:40.576Z",
+    "bbdee8bd-443c-456f-a4f0-1b363d843310": "2026-05-08T19:09:40.576Z",
+    "a488959b-6874-4563-acb2-af747c3dc6f7": "2026-05-08T19:09:40.576Z"
   },
   "jobs": [
     {
@@ -233,18 +237,18 @@
       "company": "IMC Trading"
     },
     {
-      "id": "4635938101",
-      "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
-      "department": "",
-      "company": "IMC Trading"
-    },
-    {
       "id": "4564480101",
       "title": "Graduate Software Engineer (2026)",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
       "location": "Amsterdam, Netherlands",
+      "department": "",
+      "company": "IMC Trading"
+    },
+    {
+      "id": "4635938101",
+      "title": "Graduate Software Engineer (2026)",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading"
     },
@@ -289,18 +293,18 @@
       "company": "IMC Trading"
     },
     {
-      "id": "7362318",
-      "title": "Campus Crypto Researcher (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7362318",
-      "location": "London",
-      "department": "",
-      "company": "Jump Trading"
-    },
-    {
       "id": "7362347",
       "title": "Campus Crypto Researcher (Intern)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=7362347",
       "location": "Chicago",
+      "department": "",
+      "company": "Jump Trading"
+    },
+    {
+      "id": "7362318",
+      "title": "Campus Crypto Researcher (Intern)",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7362318",
+      "location": "London",
       "department": "",
       "company": "Jump Trading"
     },
@@ -441,14 +445,6 @@
       "company": "Point72"
     },
     {
-      "id": "8230738002",
-      "title": "2026 Summer Internship - Third Party Risk Management",
-      "url": "https://boards.greenhouse.io/point72/jobs/8230738002?gh_jid=8230738002",
-      "location": "New York",
-      "department": "",
-      "company": "Point72"
-    },
-    {
       "id": "8406727002",
       "title": "2026 Technology Internship – Software Engineer ",
       "url": "https://boards.greenhouse.io/point72/jobs/8406727002?gh_jid=8406727002",
@@ -537,18 +533,18 @@
       "company": "Point72"
     },
     {
-      "id": "7297598002",
-      "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
-      "department": "",
-      "company": "Point72"
-    },
-    {
       "id": "7297611002",
       "title": "Cubist Quantitative Researcher Intern",
       "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
       "location": "Hong Kong",
+      "department": "",
+      "company": "Point72"
+    },
+    {
+      "id": "7297598002",
+      "title": "Cubist Quantitative Researcher Intern",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72"
     },
@@ -825,18 +821,18 @@
       "company": "Stripe"
     },
     {
-      "id": "7874965",
-      "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
-      "department": "",
-      "company": "Stripe"
-    },
-    {
       "id": "7285974",
       "title": "PhD Data Scientist, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=7285974",
       "location": "Toronto, Ontario, Canada",
+      "department": "",
+      "company": "Stripe"
+    },
+    {
+      "id": "7874965",
+      "title": "PhD Data Scientist, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe"
     },
@@ -940,6 +936,46 @@
       "id": "8904ed85-75d6-48cf-b01b-7941677fde4a",
       "title": "Data Engineer Intern - Pune (2026)",
       "url": "https://jobs.ashbyhq.com/snowflake/8904ed85-75d6-48cf-b01b-7941677fde4a",
+      "location": "",
+      "department": "",
+      "company": "Snowflake"
+    },
+    {
+      "id": "be659b54-08a1-4acf-b86c-f003ef6343ea",
+      "title": "Software Engineer Intern (AI/ML) - Fall 2026 ",
+      "url": "https://jobs.ashbyhq.com/snowflake/be659b54-08a1-4acf-b86c-f003ef6343ea",
+      "location": "",
+      "department": "",
+      "company": "Snowflake"
+    },
+    {
+      "id": "4f34aefa-681b-4aa8-a0ea-28ce56c9f1a5",
+      "title": "Software Engineer Intern (Core Engineering) - Fall 2026 ",
+      "url": "https://jobs.ashbyhq.com/snowflake/4f34aefa-681b-4aa8-a0ea-28ce56c9f1a5",
+      "location": "",
+      "department": "",
+      "company": "Snowflake"
+    },
+    {
+      "id": "fd76a37f-868d-467b-a256-0b6746b9e961",
+      "title": "Software Engineer Intern (Database Engineering) - Fall 2026",
+      "url": "https://jobs.ashbyhq.com/snowflake/fd76a37f-868d-467b-a256-0b6746b9e961",
+      "location": "",
+      "department": "",
+      "company": "Snowflake"
+    },
+    {
+      "id": "bbdee8bd-443c-456f-a4f0-1b363d843310",
+      "title": "Software Engineer Intern (Infrastructure Automation) - Fall 2026 ",
+      "url": "https://jobs.ashbyhq.com/snowflake/bbdee8bd-443c-456f-a4f0-1b363d843310",
+      "location": "",
+      "department": "",
+      "company": "Snowflake"
+    },
+    {
+      "id": "a488959b-6874-4563-acb2-af747c3dc6f7",
+      "title": "Software Engineer Intern (Security) - Fall 2026",
+      "url": "https://jobs.ashbyhq.com/snowflake/a488959b-6874-4563-acb2-af747c3dc6f7",
       "location": "",
       "department": "",
       "company": "Snowflake"
