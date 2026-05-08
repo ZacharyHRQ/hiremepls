@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-08T20:53:38.687Z",
+  "generatedAt": "2026-05-08T22:52:22.604Z",
   "companyCount": 60,
   "okCount": 59,
-  "jobCount": 159,
+  "jobCount": 158,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -157,7 +157,6 @@
     "8904ed85-75d6-48cf-b01b-7941677fde4a": "2026-05-06T06:42:07.596Z",
     "67fadb77-43d8-4449-954b-d4cf2c6d3b8b": "2026-05-06T06:42:07.596Z",
     "8435134002": "2026-05-07T19:38:12.824Z",
-    "be659b54-08a1-4acf-b86c-f003ef6343ea": "2026-05-08T19:09:40.576Z",
     "4f34aefa-681b-4aa8-a0ea-28ce56c9f1a5": "2026-05-08T19:09:40.576Z",
     "fd76a37f-868d-467b-a256-0b6746b9e961": "2026-05-08T19:09:40.576Z",
     "bbdee8bd-443c-456f-a4f0-1b363d843310": "2026-05-08T19:09:40.576Z",
@@ -822,18 +821,18 @@
       "company": "Stripe"
     },
     {
-      "id": "7874965",
-      "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
-      "department": "",
-      "company": "Stripe"
-    },
-    {
       "id": "7285974",
       "title": "PhD Data Scientist, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=7285974",
       "location": "Toronto, Ontario, Canada",
+      "department": "",
+      "company": "Stripe"
+    },
+    {
+      "id": "7874965",
+      "title": "PhD Data Scientist, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe"
     },
@@ -937,14 +936,6 @@
       "id": "8904ed85-75d6-48cf-b01b-7941677fde4a",
       "title": "Data Engineer Intern - Pune (2026)",
       "url": "https://jobs.ashbyhq.com/snowflake/8904ed85-75d6-48cf-b01b-7941677fde4a",
-      "location": "",
-      "department": "",
-      "company": "Snowflake"
-    },
-    {
-      "id": "be659b54-08a1-4acf-b86c-f003ef6343ea",
-      "title": "Software Engineer Intern (AI/ML) - Fall 2026 ",
-      "url": "https://jobs.ashbyhq.com/snowflake/be659b54-08a1-4acf-b86c-f003ef6343ea",
       "location": "",
       "department": "",
       "company": "Snowflake"
@@ -1270,18 +1261,18 @@
       "company": "Cloudflare"
     },
     {
-      "id": "7826176",
-      "title": "IT Support Technician Intern",
-      "url": "https://careers.datadoghq.com/detail/7826176/?gh_jid=7826176",
-      "location": "Paris, France",
-      "department": "",
-      "company": "Datadog"
-    },
-    {
       "id": "7391788",
       "title": "IT Support Technician Intern",
       "url": "https://careers.datadoghq.com/detail/7391788/?gh_jid=7391788",
       "location": "Boston, Massachusetts, USA",
+      "department": "",
+      "company": "Datadog"
+    },
+    {
+      "id": "7826176",
+      "title": "IT Support Technician Intern",
+      "url": "https://careers.datadoghq.com/detail/7826176/?gh_jid=7826176",
+      "location": "Paris, France",
       "department": "",
       "company": "Datadog"
     },

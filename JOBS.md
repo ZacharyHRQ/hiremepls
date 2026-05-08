@@ -1,6 +1,6 @@
 # Open Internships
 
-**159** internships across **59/60** companies — last updated 2026-05-08.
+**158** internships across **59/60** companies — last updated 2026-05-08.
 
 ## Companies
 
@@ -24,7 +24,7 @@
 - [Replit](#replit) (3)
 - [Scale AI](#scale-ai) (3)
 - [Schonfeld](#schonfeld) (3)
-- [Snowflake](#snowflake) (11)
+- [Snowflake](#snowflake) (10)
 - [Squarepoint Capital](#squarepoint-capital) (6)
 - [Stripe](#stripe) (7)
 - [Tower Research Capital](#tower-research-capital) (6)
@@ -104,8 +104,8 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [IT Support Technician Intern](https://careers.datadoghq.com/detail/7826176/?gh_jid=7826176) | Paris, France | — | 2026-05-06 |
 | [IT Support Technician Intern](https://careers.datadoghq.com/detail/7391788/?gh_jid=7391788) | Boston, Massachusetts, USA | — | 2026-05-06 |
+| [IT Support Technician Intern](https://careers.datadoghq.com/detail/7826176/?gh_jid=7826176) | Paris, France | — | 2026-05-06 |
 
 ## GSA Capital
 
@@ -258,7 +258,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Software Engineer Intern (AI/ML) - Fall 2026](https://jobs.ashbyhq.com/snowflake/be659b54-08a1-4acf-b86c-f003ef6343ea) | — | — | 2026-05-08 |
 | [Software Engineer Intern (Core Engineering) - Fall 2026](https://jobs.ashbyhq.com/snowflake/4f34aefa-681b-4aa8-a0ea-28ce56c9f1a5) | — | — | 2026-05-08 |
 | [Software Engineer Intern (Database Engineering) - Fall 2026](https://jobs.ashbyhq.com/snowflake/fd76a37f-868d-467b-a256-0b6746b9e961) | — | — | 2026-05-08 |
 | [Software Engineer Intern (Infrastructure Automation) - Fall 2026](https://jobs.ashbyhq.com/snowflake/bbdee8bd-443c-456f-a4f0-1b363d843310) | — | — | 2026-05-08 |
@@ -286,8 +285,8 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | Mexico City, Mexico | — | 2026-05-06 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | Toronto, Ontario, Canada | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7216664) | San Francisco, New York City, Seattle | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | Singapore | — | 2026-05-06 |
