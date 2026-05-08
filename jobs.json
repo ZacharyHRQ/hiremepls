@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T22:56:55.748Z",
+  "generatedAt": "2026-05-08T02:33:30.214Z",
   "companyCount": 60,
   "okCount": 59,
   "jobCount": 173,
@@ -844,18 +844,18 @@
       "company": "Stripe"
     },
     {
-      "id": "7285974",
-      "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
-      "department": "",
-      "company": "Stripe"
-    },
-    {
       "id": "7874965",
       "title": "PhD Data Scientist, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=7874965",
       "location": "San Francisco, New York City, Seattle, Chicago",
+      "department": "",
+      "company": "Stripe"
+    },
+    {
+      "id": "7285974",
+      "title": "PhD Data Scientist, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe"
     },
@@ -1036,17 +1036,17 @@
       "company": "Cloudflare"
     },
     {
-      "id": "7799138",
+      "id": "7797931",
       "title": "Global Trade Compliance Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7799138?gh_jid=7799138",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7797931?gh_jid=7797931",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
     },
     {
-      "id": "7797931",
+      "id": "7799138",
       "title": "Global Trade Compliance Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7797931?gh_jid=7797931",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7799138?gh_jid=7799138",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
@@ -1156,14 +1156,6 @@
       "company": "Cloudflare"
     },
     {
-      "id": "7708637",
-      "title": "People Team Intern - HR Operations & AI Innovation (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7708637?gh_jid=7708637",
-      "location": "In-Office",
-      "department": "",
-      "company": "Cloudflare"
-    },
-    {
       "id": "7606240",
       "title": "People Team Intern - HR Operations & AI Innovation (Summer 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240",
@@ -1175,6 +1167,14 @@
       "id": "7708660",
       "title": "People Team Intern - HR Operations & AI Innovation (Summer 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7708660?gh_jid=7708660",
+      "location": "In-Office",
+      "department": "",
+      "company": "Cloudflare"
+    },
+    {
+      "id": "7708637",
+      "title": "People Team Intern - HR Operations & AI Innovation (Summer 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7708637?gh_jid=7708637",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
@@ -1308,17 +1308,17 @@
       "company": "Cloudflare"
     },
     {
-      "id": "7296929",
+      "id": "7296923",
       "title": "Software Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7296929?gh_jid=7296929",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7296923?gh_jid=7296923",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
     },
     {
-      "id": "7296923",
+      "id": "7296929",
       "title": "Software Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7296923?gh_jid=7296923",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7296929?gh_jid=7296929",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
@@ -1364,14 +1364,6 @@
       "company": "Cloudflare"
     },
     {
-      "id": "7726879",
-      "title": "Technical Support Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879",
-      "location": "In-Office",
-      "department": "",
-      "company": "Cloudflare"
-    },
-    {
       "id": "7726977",
       "title": "Technical Support Engineer Intern (Summer 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7726977?gh_jid=7726977",
@@ -1380,9 +1372,9 @@
       "company": "Cloudflare"
     },
     {
-      "id": "7578761",
-      "title": "Threat Detection and Incident Response Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7578761?gh_jid=7578761",
+      "id": "7726879",
+      "title": "Technical Support Engineer Intern (Summer 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
@@ -1391,6 +1383,14 @@
       "id": "7577205",
       "title": "Threat Detection and Incident Response Intern (Summer 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7577205?gh_jid=7577205",
+      "location": "In-Office",
+      "department": "",
+      "company": "Cloudflare"
+    },
+    {
+      "id": "7578761",
+      "title": "Threat Detection and Incident Response Intern (Summer 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7578761?gh_jid=7578761",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
