@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-08T19:09:40.576Z",
+  "generatedAt": "2026-05-08T20:53:38.687Z",
   "companyCount": 60,
   "okCount": 59,
-  "jobCount": 158,
+  "jobCount": 159,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -161,7 +161,8 @@
     "4f34aefa-681b-4aa8-a0ea-28ce56c9f1a5": "2026-05-08T19:09:40.576Z",
     "fd76a37f-868d-467b-a256-0b6746b9e961": "2026-05-08T19:09:40.576Z",
     "bbdee8bd-443c-456f-a4f0-1b363d843310": "2026-05-08T19:09:40.576Z",
-    "a488959b-6874-4563-acb2-af747c3dc6f7": "2026-05-08T19:09:40.576Z"
+    "a488959b-6874-4563-acb2-af747c3dc6f7": "2026-05-08T19:09:40.576Z",
+    "5807803004": "2026-05-08T20:53:38.687Z"
   },
   "jobs": [
     {
@@ -821,18 +822,18 @@
       "company": "Stripe"
     },
     {
-      "id": "7285974",
-      "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
-      "department": "",
-      "company": "Stripe"
-    },
-    {
       "id": "7874965",
       "title": "PhD Data Scientist, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=7874965",
       "location": "San Francisco, New York City, Seattle, Chicago",
+      "department": "",
+      "company": "Stripe"
+    },
+    {
+      "id": "7285974",
+      "title": "PhD Data Scientist, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe"
     },
@@ -1269,18 +1270,18 @@
       "company": "Cloudflare"
     },
     {
-      "id": "7391788",
-      "title": "IT Support Technician Intern",
-      "url": "https://careers.datadoghq.com/detail/7391788/?gh_jid=7391788",
-      "location": "Boston, Massachusetts, USA",
-      "department": "",
-      "company": "Datadog"
-    },
-    {
       "id": "7826176",
       "title": "IT Support Technician Intern",
       "url": "https://careers.datadoghq.com/detail/7826176/?gh_jid=7826176",
       "location": "Paris, France",
+      "department": "",
+      "company": "Datadog"
+    },
+    {
+      "id": "7391788",
+      "title": "IT Support Technician Intern",
+      "url": "https://careers.datadoghq.com/detail/7391788/?gh_jid=7391788",
+      "location": "Boston, Massachusetts, USA",
       "department": "",
       "company": "Datadog"
     },
@@ -1427,6 +1428,14 @@
       "location": "Chicago, Illinois",
       "department": "",
       "company": "Okta"
+    },
+    {
+      "id": "5807803004",
+      "title": "Customer Experience Ops Intern",
+      "url": "https://cribl.io/job-detail/?gh_jid=5807803004",
+      "location": "Remote - San Francisco, California",
+      "department": "",
+      "company": "Cribl"
     }
   ],
   "errors": [

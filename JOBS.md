@@ -1,12 +1,13 @@
 # Open Internships
 
-**158** internships across **59/60** companies — last updated 2026-05-08.
+**159** internships across **59/60** companies — last updated 2026-05-08.
 
 ## Companies
 
 - [Akuna Capital](#akuna-capital) (1)
 - [Asana](#asana) (4)
 - [Cloudflare](#cloudflare) (36)
+- [Cribl](#cribl) (1)
 - [Databricks](#databricks) (3)
 - [Datadog](#datadog) (2)
 - [GSA Capital](#gsa-capital) (2)
@@ -85,6 +86,12 @@
 | [Threat Detection and Incident Response Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7577205?gh_jid=7577205) | In-Office | — | 2026-05-06 |
 | [U.S. Public Policy and AI Innovation Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7802906?gh_jid=7802906) | In-Office | — | 2026-05-06 |
 
+## Cribl
+
+| Title | Location | Department | First seen |
+| --- | --- | --- | --- |
+| [Customer Experience Ops Intern](https://cribl.io/job-detail/?gh_jid=5807803004) | Remote - San Francisco, California | — | 2026-05-08 |
+
 ## Databricks
 
 | Title | Location | Department | First seen |
@@ -97,8 +104,8 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [IT Support Technician Intern](https://careers.datadoghq.com/detail/7391788/?gh_jid=7391788) | Boston, Massachusetts, USA | — | 2026-05-06 |
 | [IT Support Technician Intern](https://careers.datadoghq.com/detail/7826176/?gh_jid=7826176) | Paris, France | — | 2026-05-06 |
+| [IT Support Technician Intern](https://careers.datadoghq.com/detail/7391788/?gh_jid=7391788) | Boston, Massachusetts, USA | — | 2026-05-06 |
 
 ## GSA Capital
 
@@ -279,8 +286,8 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | Mexico City, Mexico | — | 2026-05-06 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7216664) | San Francisco, New York City, Seattle | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | Singapore | — | 2026-05-06 |
