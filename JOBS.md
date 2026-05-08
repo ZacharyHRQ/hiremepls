@@ -1,12 +1,12 @@
 # Open Internships
 
-**173** internships across **59/60** companies — last updated 2026-05-08.
+**154** internships across **59/60** companies — last updated 2026-05-08.
 
 ## Companies
 
 - [Akuna Capital](#akuna-capital) (1)
 - [Asana](#asana) (4)
-- [Cloudflare](#cloudflare) (55)
+- [Cloudflare](#cloudflare) (36)
 - [Databricks](#databricks) (3)
 - [Datadog](#datadog) (2)
 - [GSA Capital](#gsa-capital) (2)
@@ -58,13 +58,9 @@
 | [Data Analytics Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7668989?gh_jid=7668989) | In-Office | — | 2026-05-06 |
 | [DCSC Automation Coordinator Intern](https://boards.greenhouse.io/cloudflare/jobs/7751595?gh_jid=7751595) | In-Office | — | 2026-05-06 |
 | [Developer GTM Intern – Enterprise Sales & AI Automation (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7789256?gh_jid=7789256) | In-Office | — | 2026-05-06 |
-| [Global Trade Compliance Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7797931?gh_jid=7797931) | In-Office | — | 2026-05-06 |
 | [Global Trade Compliance Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7799138?gh_jid=7799138) | In-Office | — | 2026-05-06 |
 | [GRC Team Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7577564?gh_jid=7577564) | In-Office | — | 2026-05-06 |
-| [GRC Team Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7578549?gh_jid=7578549) | In-Office | — | 2026-05-06 |
-| [Infrastructure Deployment Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/7759602?gh_jid=7759602) | In-Office | — | 2026-05-06 |
 | [Internal Audit Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7652742?gh_jid=7652742) | In-Office | — | 2026-05-06 |
-| [Legal Compliance Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7766813?gh_jid=7766813) | In-Office | — | 2026-05-06 |
 | [Legal Intern – Policy & Public Sector (AI & Cybersecurity Focus) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7779151?gh_jid=7779151) | In-Office | — | 2026-05-06 |
 | [Marketing Campaigns & Account-Based Marketing (ABM) Intern - 3 months (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7838607?gh_jid=7838607) | In-Office | — | 2026-05-06 |
 | [Marketing Events and Campaigns Intern (Summer/Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7733327?gh_jid=7733327) | In-Office | — | 2026-05-06 |
@@ -74,34 +70,19 @@
 | [People Team Business Partner intern (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7855864?gh_jid=7855864) | In-Office | — | 2026-05-06 |
 | [People Team Intern - HR Operations & AI Innovation (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240) | In-Office | — | 2026-05-06 |
 | [People Team Intern - HR Operations & AI Innovation (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7708660?gh_jid=7708660) | In-Office | — | 2026-05-06 |
-| [People Team Intern - HR Operations & AI Innovation (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7708637?gh_jid=7708637) | In-Office | — | 2026-05-06 |
-| [Procurement Analyst Intern](https://boards.greenhouse.io/cloudflare/jobs/7822668?gh_jid=7822668) | Hybrid | — | 2026-05-06 |
-| [Procurement Intern (JD)](https://boards.greenhouse.io/cloudflare/jobs/7822659?gh_jid=7822659) | Hybrid | — | 2026-05-06 |
-| [Procurement Strategy & Operations Intern](https://boards.greenhouse.io/cloudflare/jobs/7822643?gh_jid=7822643) | Hybrid | — | 2026-05-06 |
 | [Product Manager Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7362113?gh_jid=7362113) | In-Office | — | 2026-05-06 |
 | [Product Marketing Engineer Intern (AI & Automation) - Intern (Summer/Spring/Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7781953?gh_jid=7781953) | In-Office | — | 2026-05-06 |
 | [Program Operations Analyst Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7799344?gh_jid=7799344) | In-Office | — | 2026-05-06 |
 | [Public Policy Intern, APJC (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7863831?gh_jid=7863831) | In-Office | — | 2026-05-06 |
-| [Research Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7359136?gh_jid=7359136) | In-Office | — | 2026-05-06 |
-| [Research Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7359147?gh_jid=7359147) | In-Office | — | 2026-05-06 |
 | [Revenue Operations Intern - Enablement (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7761397?gh_jid=7761397) | In-Office | — | 2026-05-06 |
-| [Revenue Operations Intern (Summer or Fall) - Systems & Tools - 3 months](https://boards.greenhouse.io/cloudflare/jobs/7796003?gh_jid=7796003) | In-Office | — | 2026-05-06 |
 | [Sales Project Manager Intern (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7773799?gh_jid=7773799) | In-Office | — | 2026-05-06 |
 | [Sales: Solutions Engineer - Intern (Summer & Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7792962?gh_jid=7792962) | In-Office | — | 2026-05-06 |
 | [Security Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150) | In-Office | — | 2026-05-06 |
-| [Security Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7582157?gh_jid=7582157) | In-Office | — | 2026-05-06 |
 | [Security Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169) | In-Office | — | 2026-05-06 |
-| [Software Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7296923?gh_jid=7296923) | In-Office | — | 2026-05-06 |
-| [Software Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7296929?gh_jid=7296929) | In-Office | — | 2026-05-06 |
 | [Solutions Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7738800?gh_jid=7738800) | In-Office | — | 2026-05-06 |
-| [Solutions Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7738938?gh_jid=7738938) | In-Office | — | 2026-05-06 |
-| [Technical Innovation Analyst Summer Intern - 3 months](https://boards.greenhouse.io/cloudflare/jobs/7791676?gh_jid=7791676) | In-Office | — | 2026-05-06 |
 | [Technical Marketing Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7733496?gh_jid=7733496) | In-Office | — | 2026-05-06 |
-| [Technical Program Manager Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7702476?gh_jid=7702476) | In-Office | — | 2026-05-06 |
-| [Technical Support Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7726977?gh_jid=7726977) | In-Office | — | 2026-05-06 |
 | [Technical Support Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879) | In-Office | — | 2026-05-06 |
 | [Threat Detection and Incident Response Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7577205?gh_jid=7577205) | In-Office | — | 2026-05-06 |
-| [Threat Detection and Incident Response Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7578761?gh_jid=7578761) | In-Office | — | 2026-05-06 |
 | [U.S. Public Policy and AI Innovation Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7802906?gh_jid=7802906) | In-Office | — | 2026-05-06 |
 
 ## Databricks
@@ -116,8 +97,8 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [IT Support Technician Intern](https://careers.datadoghq.com/detail/7391788/?gh_jid=7391788) | Boston, Massachusetts, USA | — | 2026-05-06 |
 | [IT Support Technician Intern](https://careers.datadoghq.com/detail/7826176/?gh_jid=7826176) | Paris, France | — | 2026-05-06 |
+| [IT Support Technician Intern](https://careers.datadoghq.com/detail/7391788/?gh_jid=7391788) | Boston, Massachusetts, USA | — | 2026-05-06 |
 
 ## GSA Capital
 
@@ -133,8 +114,8 @@
 | [Graduate Broker Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4608590101) | Chicago, United States | — | 2026-05-06 |
 | [Graduate Floor Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4786701101) | Chicago, United States; Miami, United States; New York, United States; Philadelphia, United States; San Francisco, United States | — | 2026-05-06 |
 | [Graduate Site Reliability Engineer, 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4540358101) | Sydney,  Australia | — | 2026-05-06 |
-| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
+| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Graduate Trader (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564495101) | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Graduate Trading Operations Specialist](https://job-boards.eu.greenhouse.io/imc/jobs/4608591101) | Chicago, United States | — | 2026-05-06 |
 | [Hardware Engineer Intern 2026/27](https://job-boards.eu.greenhouse.io/imc/jobs/4742629101) | Sydney,  Australia | — | 2026-05-06 |
