@@ -4,7 +4,15 @@ import { fetchLever } from "./ats/lever.ts";
 import { fetchAshby } from "./ats/ashby.ts";
 import { fetchWorkday } from "./ats/workday.ts";
 import { fetchSimplify } from "./ats/simplify.ts";
-import { isInternship } from "./filter.ts";
+import { fetchVanshb03 } from "./ats/vanshb03.ts";
+import { fetchSmartRecruiters } from "./ats/smartrecruiters.ts";
+import { fetchWorkable } from "./ats/workable.ts";
+import {
+  isInternship,
+  isSoftwareEngineering,
+  passesLocation,
+  parseLocationFilter,
+} from "./filter.ts";
 import { sendJob } from "./notifier.ts";
 import { renderMarkdown } from "./render/markdown.ts";
 import type {
@@ -34,6 +42,9 @@ async function fetchCompany(c: Company): Promise<Job[]> {
   if (c.ats === "ashby") return fetchAshby(c);
   if (c.ats === "workday") return fetchWorkday(c);
   if (c.ats === "simplify") return fetchSimplify(c);
+  if (c.ats === "vanshb03") return fetchVanshb03(c);
+  if (c.ats === "smartrecruiters") return fetchSmartRecruiters(c);
+  if (c.ats === "workable") return fetchWorkable(c);
   throw new Error(`unknown ats: ${c.ats}`);
 }
 
@@ -68,6 +79,21 @@ async function main() {
   let okCount = 0;
   let totalNew = 0;
 
+  const sweOnly = process.env.SWE_ONLY === "true";
+  const locationFilter = parseLocationFilter(process.env.LOCATION_FILTER);
+  if (sweOnly || locationFilter) {
+    console.log(
+      `Filters: ${sweOnly ? "SWE_ONLY " : ""}${locationFilter ? `LOCATION="${locationFilter.join(",")}"` : ""}`.trim(),
+    );
+  }
+
+  const matchesAll = (j: Job): boolean => {
+    if (!isInternship(j)) return false;
+    if (sweOnly && !isSoftwareEngineering(j)) return false;
+    if (locationFilter && !passesLocation(j, locationFilter)) return false;
+    return true;
+  };
+
   for (const company of companies) {
     let jobs: Job[];
     try {
@@ -80,7 +106,7 @@ async function main() {
     }
     okCount++;
 
-    const interns = jobs.filter(isInternship);
+    const interns = jobs.filter(matchesAll);
     allInterns.push(...interns);
     const ids = interns.map((j) => j.id);
     const hasHistory = company.name in seen;

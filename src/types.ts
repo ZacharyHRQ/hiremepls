@@ -3,7 +3,10 @@ export type AtsKind =
   | "lever"
   | "ashby"
   | "workday"
-  | "simplify";
+  | "simplify"
+  | "vanshb03"
+  | "smartrecruiters"
+  | "workable";
 
 export interface Company {
   name: string;

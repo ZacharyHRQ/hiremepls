@@ -63,5 +63,8 @@
 
   { "name": "BlackRock", "ats": "workday", "slug": "blackrock", "cluster": "wd1", "site": "BlackRock_Professional" },
 
-  { "name": "SimplifyJobs", "ats": "simplify", "slug": "" }
+  { "name": "Visa", "ats": "smartrecruiters", "slug": "Visa" },
+
+  { "name": "SimplifyJobs", "ats": "simplify", "slug": "" },
+  { "name": "vanshb03", "ats": "vanshb03", "slug": "" }
 ]
