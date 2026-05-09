@@ -1,6 +1,6 @@
 # Open Internships
 
-**3194** internships across **63/63** companies — last updated 2026-05-09.
+**3193** internships across **63/63** companies — last updated 2026-05-09.
 
 ## Companies
 
@@ -1053,7 +1053,7 @@
 - [Thomson Reuters](#thomson-reuters) (2)
 - [ThredUp](#thredup) (1)
 - [Thrivent](#thrivent) (1)
-- [thyssenkrupp](#thyssenkrupp) (2)
+- [thyssenkrupp](#thyssenkrupp) (1)
 - [TIFIN](#tifin) (1)
 - [Tiktok](#tiktok) (1)
 - [TikTok](#tiktok) (187)
@@ -9174,7 +9174,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Data Intern](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Santa-Fe-Springs-California-USA/Data-Intern_JR105025) | Downey, CA | AI/ML/Data | 2026-05-09 |
 | [Sustainability Systems Intern](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Sustainability-Systems-Intern_JR104148) | Cleveland, OH | AI/ML/Data | 2026-05-09 |
 
 ## TIFIN
