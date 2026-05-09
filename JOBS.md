@@ -1,6 +1,6 @@
 # Open Internships
 
-**3193** internships across **63/63** companies — last updated 2026-05-09.
+**3185** internships across **63/63** companies — last updated 2026-05-09.
 
 ## Companies
 
@@ -357,7 +357,7 @@
 - [Elayne](#elayne) (1)
 - [Electronic Arts](#electronic-arts) (14)
 - [Elf Beauty](#elf-beauty) (1)
-- [Eluvio](#eluvio) (1)
+- [Eluvio](#eluvio) (2)
 - [Ember](#ember) (1)
 - [Emerson](#emerson) (1)
 - [Emerson Electric](#emerson-electric) (4)
@@ -394,8 +394,8 @@
 - [Eversource Energy](#eversource-energy) (1)
 - [Exegy](#exegy) (2)
 - [Exiger](#exiger) (2)
-- [EXL](#exl) (3)
-- [Expedia Group](#expedia-group) (9)
+- [EXL](#exl) (2)
+- [Expedia Group](#expedia-group) (8)
 - [Expedition Technology](#expedition-technology) (1)
 - [Experian](#experian) (5)
 - [Eyebot](#eyebot) (1)
@@ -588,7 +588,7 @@
 - [Jump Trading](#jump-trading) (11)
 - [Juniper Square](#juniper-square) (1)
 - [K1](#k1) (1)
-- [Kaiser Permanente](#kaiser-permanente) (8)
+- [Kaiser Permanente](#kaiser-permanente) (7)
 - [Kargo](#kargo) (1)
 - [KBR](#kbr) (13)
 - [Kearney&Company](#kearney-company) (1)
@@ -619,7 +619,7 @@
 - [Layup Parts](#layup-parts) (1)
 - [Lazard](#lazard) (4)
 - [Legrand](#legrand) (1)
-- [Leidos](#leidos) (5)
+- [Leidos](#leidos) (4)
 - [Lennox](#lennox) (1)
 - [Lennox International](#lennox-international) (1)
 - [Lenovo](#lenovo) (2)
@@ -647,7 +647,6 @@
 - [Lunar Energy](#lunar-energy) (1)
 - [Lyft](#lyft) (7)
 - [Lynk](#lynk) (1)
-- [Lynker](#lynker) (1)
 - [M&T Bank](#m-t-bank) (2)
 - [Mach9](#mach9) (2)
 - [Mackenzie Investments](#mackenzie-investments) (5)
@@ -791,7 +790,7 @@
 - [PennState University](#pennstate-university) (2)
 - [Pennsylvania State University](#pennsylvania-state-university) (7)
 - [PepsiCo](#pepsico) (1)
-- [Peraton](#peraton) (3)
+- [Peraton](#peraton) (2)
 - [Perpay](#perpay) (1)
 - [Perplexity](#perplexity) (5)
 - [Perplexity AI](#perplexity-ai) (1)
@@ -1163,7 +1162,6 @@
 - [Wex](#wex) (1)
 - [Whatnot](#whatnot) (2)
 - [WhiteWater Midstream](#whitewater-midstream) (1)
-- [Wilbur-Ellis](#wilbur-ellis) (1)
 - [Williams-Sonoma, Inc.](#williams-sonoma-inc) (1)
 - [Wind River](#wind-river) (1)
 - [WindBorne Systems](#windborne-systems) (1)
@@ -1190,7 +1188,7 @@
 - [Zip](#zip) (2)
 - [Zoetis](#zoetis) (1)
 - [Zola](#zola) (1)
-- [Zoox](#zoox) (6)
+- [Zoox](#zoox) (4)
 
 ##  PrizePicks
 
@@ -3821,6 +3819,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [AI Machine Learning Intern - Gen AI - Multimodal](https://apply.workable.com/eluvio/j/F70F3473E7/apply) | Berkeley, CA | AI/ML/Data | 2026-05-09 |
 | [AI Machine Learning Intern - Gen AI - Multimodal](https://apply.workable.com/eluvio/j/B37F02D08D/apply) | Berkeley, CA | — | 2026-05-09 |
 
 ## Ember
@@ -4072,7 +4071,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Analytics & AI Solutions Intern](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/13851) | United States | AI/ML/Data | 2026-05-09 |
 | [Artificial Intelligence / Machine Learning Intern - ML/AI Agent Development](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/13700) | United States | AI/ML/Data | 2026-05-09 |
 | [Intern Analytics & AI - Data Management](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/10272) | NYC | AI/ML/Data | 2026-05-09 |
 
@@ -4081,7 +4079,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Cloud Engineering Intern](https://careers.expediagroup.com/jobs/job/?Cloud+Engineering+Intern+-+2026+-+Austin%2C+San+Jose-Austin-Texas-j-R-98634) | Austin, TX / San Jose, CA | — | 2026-05-09 |
-| [Data Science Analytics Intern](https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Data-Science--Analytics-Intern---2026---Seattle_R-98638) | Seattle, WA | AI/ML/Data | 2026-05-09 |
 | [Machine Learning Science Intern](https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Machine-Learning-Science-Intern---PhD---2026---Austin--San-Jose_R-98585) | San Jose, CA / Austin, TX | AI/ML/Data | 2026-05-09 |
 | [Machine Learning Science Intern - Masters - 2026','Austin','San Jose](https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Machine-Learning-Science-Intern---Masters---2026---Austin--San-Jose_R-98584) | San Jose, CA / Austin, TX | AI/ML/Data | 2026-05-09 |
 | [Machine Learning Science Intern, Masters](https://careers.expediagroup.com/jobs/job/?Machine+Learning+Science+Intern+-+Masters+-+2026+-+Austin%2C+San+Jose-Austin-Texas-j-R-98584) | Austin, TX / San Jose, CA | — | 2026-05-09 |
@@ -5503,7 +5500,6 @@
 | [Process Improvement Intern](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1410120) | Pasadena, CA | AI/ML/Data | 2026-05-09 |
 | [Process Improvement Master's Intern](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1404990) | Pasadena, CA | AI/ML/Data | 2026-05-09 |
 | [Reporting Analytics Master's Intern](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1411470) | Lake Oswego, OR / Pleasanton, CA | AI/ML/Data | 2026-05-09 |
-| [Reporting Master's Intern](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1409179) | Pleasanton, CA | AI/ML/Data | 2026-05-09 |
 | [Testing and Automation Master's Intern](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1408079) | Pleasanton, CA | AI/ML/Data | 2026-05-09 |
 | [Utility Solutions Intern](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1408936) | Pleasanton, CA | Software | 2026-05-09 |
 
@@ -5750,7 +5746,6 @@
 | --- | --- | --- | --- |
 | [Junior Cyber Electromagnetic Activities Software Engineer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Lawton-OK/Junior-CEMA-Software-Engineer-Intern_R-00182554) | Stillwater, OK / Edmond, OK / Oklahoma City, OK / Lawton, OK / Norman, OK | Software | 2026-05-09 |
 | [Data Engineer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00180867) | Fort Belvoir, VA | AI/ML/Data | 2026-05-09 |
-| [Full Stack Development Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/Full-Stack-Development-Intern_R-00182542) | Orlando, FL | Software | 2026-05-09 |
 | [Software Developer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00181646) | Annapolis Junction, MD | Software | 2026-05-09 |
 | [Software Engineer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Software-Engineer-Intern_R-00182680-1) | Morgantown, WV / Reston, VA | Software | 2026-05-09 |
 
@@ -5953,12 +5948,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Telecommunications Intern](https://jobs.ashbyhq.com/Lynk/c7f7e208-f784-4970-980b-9a0c7b0e8ec7) | Washington DC | — | 2026-05-09 |
-
-## Lynker
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Space Weather Intern](https://careers-lynker.icims.com/jobs/1548/job?mobile=true&needsRedirect=false) | Remote in USA | AI/ML/Data | 2026-05-09 |
 
 ## M&T Bank
 
@@ -7135,7 +7124,6 @@
 | --- | --- | --- | --- |
 | [Data Science Intern](https://careers-peraton.icims.com/jobs/158534/job) | Herndon, VA / West Lafayette, IN / Blacksburg, VA | — | 2026-05-09 |
 | [Software Engineer Intern](https://careers-peraton.icims.com/jobs/158532/job) | Herndon, VA | — | 2026-05-09 |
-| [Summer 2026 Cyber Research Intern - Bedford - NH](https://careers-peraton.icims.com/jobs/163715/job?mobile=true&needsRedirect=false) | Bedford, NH | AI/ML/Data | 2026-05-09 |
 
 ## Perpay
 
@@ -10126,12 +10114,6 @@
 | --- | --- | --- | --- |
 | [Data Quality Intern](https://job-boards.greenhouse.io/whitewatermidstream/jobs/5123089007) | Austin, TX | AI/ML/Data | 2026-05-09 |
 
-## Wilbur-Ellis
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Branded Technologies Intern](https://wilburellis.wd12.myworkdayjobs.com/wilbur-ellis/job/Woodland-South-California-United-States/Branded-Technologies-Intern--Woodland--CA----Summer--26_R1128) | Woodland, CA | Product | 2026-05-09 |
-
 ## Williams-Sonoma, Inc.
 
 | Title | Location | Department | First seen |
@@ -10313,9 +10295,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Machine Learning Engineer Intern - Simulation](https://jobs.lever.co/zoox/f24a2d0c-bda7-48ff-9c83-9a96900128b7/apply) | San Mateo, CA | AI/ML/Data | 2026-05-09 |
 | [Mapping Software Intern](https://jobs.lever.co/zoox/f318f39e-c089-4240-b341-ebb021d86b4f/apply) | San Mateo, CA | Software | 2026-05-09 |
 | [PhD Research Intern - Multi-Modal Foundation Encoder for Perception](https://jobs.lever.co/zoox/44721ec7-87ce-4b24-95a1-b949c6d9b17c/apply) | San Mateo, CA | AI/ML/Data | 2026-05-09 |
-| [PhD Research Intern - Object Detection and Tracking](https://jobs.lever.co/zoox/b6da7d77-18ae-4ba7-a4d2-af1891c87d42/apply) | San Mateo, CA | AI/ML/Data | 2026-05-09 |
 | [PhD Research Intern - Physical AI in Perception](https://jobs.lever.co/zoox/aab5dc76-6ee6-419c-90ce-4a852d9fdeec/apply) | San Mateo, CA | AI/ML/Data | 2026-05-09 |
 | [PhD Research Intern - Vision Language Action Models](https://jobs.lever.co/zoox/2a00b538-3c7c-4217-a14b-3e7881f2a8a0/apply) | San Mateo, CA | AI/ML/Data | 2026-05-09 |
