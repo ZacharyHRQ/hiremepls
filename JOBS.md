@@ -1,6 +1,6 @@
 # Open Internships
 
-**3185** internships across **63/63** companies — last updated 2026-05-09.
+**3181** internships across **63/63** companies — last updated 2026-05-09.
 
 ## Companies
 
@@ -462,7 +462,7 @@
 - [Givelify](#givelify) (1)
 - [Global Partners](#global-partners) (1)
 - [GlobalFoundries](#globalfoundries) (2)
-- [Globalization Partners](#globalization-partners) (2)
+- [Globalization Partners](#globalization-partners) (1)
 - [GlossGenius](#glossgenius) (2)
 - [Glydways](#glydways) (1)
 - [GM financial](#gm-financial) (5)
@@ -586,7 +586,6 @@
 - [JPMorgan Chase](#jpmorgan-chase) (1)
 - [Jumio](#jumio) (1)
 - [Jump Trading](#jump-trading) (11)
-- [Juniper Square](#juniper-square) (1)
 - [K1](#k1) (1)
 - [Kaiser Permanente](#kaiser-permanente) (7)
 - [Kargo](#kargo) (1)
@@ -644,7 +643,7 @@
 - [Lumentum](#lumentum) (6)
 - [Lumeris](#lumeris) (1)
 - [Luminate](#luminate) (1)
-- [Lunar Energy](#lunar-energy) (1)
+- [Lunar Energy](#lunar-energy) (2)
 - [Lyft](#lyft) (7)
 - [Lynk](#lynk) (1)
 - [M&T Bank](#m-t-bank) (2)
@@ -866,7 +865,7 @@
 - [RESPEC](#respec) (2)
 - [Revantage Corporate Services](#revantage-corporate-services) (1)
 - [Revvity](#revvity) (1)
-- [Rilla](#rilla) (3)
+- [Rilla](#rilla) (2)
 - [Riot Games](#riot-games) (1)
 - [Rippling](#rippling) (6)
 - [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (3)
@@ -926,7 +925,7 @@
 - [SharkNinja](#sharkninja) (6)
 - [Sherwin-Williams](#sherwin-williams) (1)
 - [Shield AI](#shield-ai) (1)
-- [Shopify](#shopify) (2)
+- [Shopify](#shopify) (1)
 - [Shure](#shure) (5)
 - [SICK](#sick) (1)
 - [SID](#sid) (1)
@@ -1123,7 +1122,7 @@
 - [Verisk](#verisk) (3)
 - [Veritiv Corporation](#veritiv-corporation) (1)
 - [Verkada](#verkada) (8)
-- [Vertiv](#vertiv) (5)
+- [Vertiv](#vertiv) (4)
 - [Very Good Security](#very-good-security) (1)
 - [Veryable](#veryable) (1)
 - [Viasat](#viasat) (2)
@@ -4566,7 +4565,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [AI - Intern](https://job-boards.greenhouse.io/globalizationpartners/jobs/7720641003) | Remote in USA | AI/ML/Data | 2026-05-09 |
-| [Software Engineering Intern](https://job-boards.greenhouse.io/globalizationpartners/jobs/7714834003) | Remote in UK | Software | 2026-05-09 |
 
 ## GlossGenius
 
@@ -5479,12 +5477,6 @@
 | [Campus Tech Ops Engineer (Dec 2026 - Feb 2027 Intern)](https://www.jumptrading.com/hr/job?gh_jid=7543260) | Sydney | — | 2026-05-06 |
 | [Campus Trading Team Software Engineer  (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7565728) | Hong Kong | — | 2026-05-06 |
 
-## Juniper Square
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [AI Engineer Intern](https://jobs.ashbyhq.com/junipersquare/48d40321-aba6-46a8-a438-d58d0caba7cd/application) | Remote in USA / Remote in Canada | AI/ML/Data | 2026-05-09 |
-
 ## K1
 
 | Title | Location | Department | First seen |
@@ -5929,6 +5921,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Reliability Test Intern - Reliability Testing](https://job-boards.greenhouse.io/lunarenergy/jobs/5992527004) | Mountain View, CA | Hardware | 2026-05-09 |
 | [Test Engineering Intern](https://job-boards.greenhouse.io/lunarenergy/jobs/5983884004) | Mountain View, CA | Hardware | 2026-05-09 |
 
 ## Lyft
@@ -7676,7 +7669,6 @@
 | --- | --- | --- | --- |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/rilla/123a6a38-c7f9-4378-b00d-c6ae54688bd5) | New York, NY | Software Engineering | 2026-05-09 |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/rilla/123a6a38-c7f9-4378-b00d-c6ae54688bd5) | New York, NY | — | 2026-05-09 |
-| [Software Engineer Intern – 2027 Graduates](https://jobs.ashbyhq.com/rilla/123a6a38-c7f9-4378-b00d-c6ae54688bd5/application) | NYC | Software | 2026-05-09 |
 
 ## Riot Games
 
@@ -8161,7 +8153,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Data and Engineering Intern](https://www.shopify.com/careers/data-and-engineering-internships-fall-2026_9b2afa1b-28fa-4ae4-8f69-80ce64059065) | Montreal, QC, Canada / Toronto, ON, Canada / NYC / Bellevue, WA / Ottawa, ON, Canada | Software | 2026-05-09 |
 | [Engineering and Data Intern](https://www.shopify.com/careers/canada-engineering-internships-winter-2026_04cf2b87-6660-45c7-95f2-e734b7844612) | Remote / Canada | — | 2026-05-09 |
 
 ## Shure
@@ -9839,7 +9830,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Design Engineering Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20258307) | Delaware, OH / Fort Lauderdale, FL / Huntsville, AL | — | 2026-05-09 |
-| [Field Service Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20270449) | NYC | Hardware | 2026-05-09 |
 | [Firmware Engineering Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20256913) | Delaware, OH | — | 2026-05-09 |
 | [Hardware Design Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20256900) | New Albany, OH | — | 2026-05-09 |
 | [Software Engineering Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20256957) | Delaware, OH | — | 2026-05-09 |

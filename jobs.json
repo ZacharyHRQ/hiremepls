@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-09T22:49:27.579Z",
+  "generatedAt": "2026-05-09T23:37:20.982Z",
   "companyCount": 63,
   "okCount": 63,
-  "jobCount": 3185,
+  "jobCount": 3181,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -521,7 +521,6 @@
     "simplify:847efb51-f5ec-4972-8821-902cf74e5e29": "2026-05-09T15:28:15.527Z",
     "simplify:8ac7eb44-6399-4d0c-a4f2-b563664d76d2": "2026-05-09T15:28:15.527Z",
     "simplify:c8d01702-9baf-46fb-b887-f54a8f24a12a": "2026-05-09T15:28:15.527Z",
-    "simplify:f8ee9d50-8053-4172-9f64-534bc078ef70": "2026-05-09T15:28:15.527Z",
     "simplify:20e42ba9-f733-4af7-90db-2d2b6bf52da8": "2026-05-09T15:28:15.527Z",
     "simplify:dc6cf885-6167-4567-8cea-797b3be80c9f": "2026-05-09T15:28:15.527Z",
     "simplify:87b80f5d-0d60-4152-a777-7d4fe3e07a75": "2026-05-09T15:28:15.527Z",
@@ -820,7 +819,6 @@
     "simplify:15595611-0be2-4306-b819-62bc25f236b4": "2026-05-09T15:28:15.527Z",
     "simplify:59c5557b-cffd-4bca-b416-fb2841ef4930": "2026-05-09T15:28:15.527Z",
     "simplify:5a81a8b6-4e51-4777-aa99-078c0c47d83a": "2026-05-09T15:28:15.527Z",
-    "simplify:2287872b-dd52-4164-86fd-344fb5d68a16": "2026-05-09T15:28:15.527Z",
     "simplify:ca8dc22b-a9aa-40ba-a2cb-e4637ec3192a": "2026-05-09T15:28:15.527Z",
     "simplify:2b7c8f72-48b1-4c76-ac63-400cb8ba6b08": "2026-05-09T15:28:15.527Z",
     "simplify:69e6a885-ba62-4040-becf-35815be46d4e": "2026-05-09T15:28:15.527Z",
@@ -1390,17 +1388,14 @@
     "simplify:ae87d528-23ff-4841-8c2c-6834b05e0f5c": "2026-05-09T15:28:15.527Z",
     "simplify:532365aa-763e-4acf-8311-f08981d4c8b0": "2026-05-09T15:28:15.527Z",
     "simplify:c028a8b9-94b1-413e-8119-37e4aa83f76e": "2026-05-09T15:28:15.527Z",
-    "simplify:048d4314-64a9-4be8-aa3d-f1e9801a7c32": "2026-05-09T15:28:15.527Z",
     "simplify:a18b29f0-cf8b-4fef-8634-fb841e7de064": "2026-05-09T15:28:15.527Z",
     "simplify:3004ea7f-f93e-4af3-bd58-748b8a85387f": "2026-05-09T15:28:15.527Z",
     "simplify:21f0e3f1-3de0-45b1-a222-c16357f427ee": "2026-05-09T15:28:15.527Z",
     "simplify:a5d1db3e-914b-4ea3-ac57-0ac513ebfdad": "2026-05-09T15:28:15.527Z",
-    "simplify:1ab2ad5e-4094-4322-83b4-3949a136b9c6": "2026-05-09T15:28:15.527Z",
     "simplify:9a683339-5ca8-4ea0-b63c-9d7193375a59": "2026-05-09T15:28:15.527Z",
     "simplify:1b548209-88e9-4da5-bfe5-f0271fe60103": "2026-05-09T15:28:15.527Z",
     "simplify:b016e33e-8187-45a7-b8f2-90d031def58b": "2026-05-09T15:28:15.527Z",
     "simplify:60ffaa3c-d134-434f-bf25-883c4c228770": "2026-05-09T15:28:15.527Z",
-    "simplify:95042a1f-55e6-4ceb-a646-ca02e7bfb30e": "2026-05-09T15:28:15.527Z",
     "simplify:8258cd6e-f5a7-4f2e-9491-07d3535cc629": "2026-05-09T15:28:15.527Z",
     "simplify:04d53088-843c-42c2-a307-0e681d1a57bc": "2026-05-09T15:28:15.527Z",
     "simplify:bac17122-72f7-45cc-a027-3a7f5ff4f441": "2026-05-09T15:28:15.527Z",
@@ -3188,7 +3183,8 @@
     "simplify:c618ad2f-aacd-4b32-8f7f-9d4a27f71bc4": "2026-05-09T19:20:31.296Z",
     "simplify:cefe7686-8ed8-4de2-9e94-eb0695937318": "2026-05-09T19:20:31.296Z",
     "simplify:8e39a25b-7f83-469c-a84e-63c374d0f3cf": "2026-05-09T19:20:31.296Z",
-    "simplify:07de287a-60cf-4318-9941-284ab79b4148": "2026-05-09T22:49:27.579Z"
+    "simplify:07de287a-60cf-4318-9941-284ab79b4148": "2026-05-09T22:49:27.579Z",
+    "simplify:64612380-a652-42ec-ad96-2729e3cce269": "2026-05-09T23:37:20.982Z"
   },
   "jobs": [
     {
@@ -7384,14 +7380,6 @@
       "company": "Oracle"
     },
     {
-      "id": "simplify:f8ee9d50-8053-4172-9f64-534bc078ef70",
-      "title": "Software Engineer Intern – 2027 Graduates",
-      "url": "https://jobs.ashbyhq.com/rilla/123a6a38-c7f9-4378-b00d-c6ae54688bd5/application",
-      "location": "NYC",
-      "department": "Software",
-      "company": "Rilla"
-    },
-    {
       "id": "simplify:20e42ba9-f733-4af7-90db-2d2b6bf52da8",
       "title": "AI Engineer Internship",
       "url": "https://jobs.ashbyhq.com/solva/e336c053-5f6e-4076-ad14-f941ab5096b6/application",
@@ -9982,14 +9970,6 @@
       "location": "Boston, MA",
       "department": "Software",
       "company": "Arrowstreet Capital"
-    },
-    {
-      "id": "simplify:2287872b-dd52-4164-86fd-344fb5d68a16",
-      "title": "AI Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/junipersquare/48d40321-aba6-46a8-a438-d58d0caba7cd/application",
-      "location": "Remote in USA / Remote in Canada",
-      "department": "AI/ML/Data",
-      "company": "Juniper Square"
     },
     {
       "id": "simplify:ca8dc22b-a9aa-40ba-a2cb-e4637ec3192a",
@@ -14992,14 +14972,6 @@
       "company": "Magna"
     },
     {
-      "id": "simplify:048d4314-64a9-4be8-aa3d-f1e9801a7c32",
-      "title": "Data and Engineering Intern",
-      "url": "https://www.shopify.com/careers/data-and-engineering-internships-fall-2026_9b2afa1b-28fa-4ae4-8f69-80ce64059065",
-      "location": "Montreal, QC, Canada / Toronto, ON, Canada / NYC / Bellevue, WA / Ottawa, ON, Canada",
-      "department": "Software",
-      "company": "Shopify"
-    },
-    {
       "id": "simplify:a18b29f0-cf8b-4fef-8634-fb841e7de064",
       "title": "Data Analytics Engineering Intern",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Analytics-Engineering---Fall-2026_R240092-1",
@@ -15030,14 +15002,6 @@
       "location": "Columbia, MO",
       "department": "AI/ML/Data",
       "company": "EquipmentShare"
-    },
-    {
-      "id": "simplify:1ab2ad5e-4094-4322-83b4-3949a136b9c6",
-      "title": "Field Service Intern",
-      "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20270449",
-      "location": "NYC",
-      "department": "Hardware",
-      "company": "Vertiv"
     },
     {
       "id": "simplify:9a683339-5ca8-4ea0-b63c-9d7193375a59",
@@ -15078,14 +15042,6 @@
       "location": "Nova Scotia, Canada",
       "department": "AI/ML/Data",
       "company": "Royal Bank of Canada"
-    },
-    {
-      "id": "simplify:95042a1f-55e6-4ceb-a646-ca02e7bfb30e",
-      "title": "Software Engineering Intern",
-      "url": "https://job-boards.greenhouse.io/globalizationpartners/jobs/7714834003",
-      "location": "Remote in UK",
-      "department": "Software",
-      "company": "Globalization Partners"
     },
     {
       "id": "simplify:8258cd6e-f5a7-4f2e-9491-07d3535cc629",
@@ -18398,6 +18354,14 @@
       "location": "Berkeley, CA",
       "department": "AI/ML/Data",
       "company": "Eluvio"
+    },
+    {
+      "id": "simplify:64612380-a652-42ec-ad96-2729e3cce269",
+      "title": "Reliability Test Intern - Reliability Testing",
+      "url": "https://job-boards.greenhouse.io/lunarenergy/jobs/5992527004",
+      "location": "Mountain View, CA",
+      "department": "Hardware",
+      "company": "Lunar Energy"
     },
     {
       "id": "vansh:d2c404c8-5895-4ec0-95c2-3d17aed38beb",
