@@ -1,9 +1,16 @@
-export type AtsKind = "greenhouse" | "lever" | "ashby";
+export type AtsKind =
+  | "greenhouse"
+  | "lever"
+  | "ashby"
+  | "workday"
+  | "simplify";
 
 export interface Company {
   name: string;
   ats: AtsKind;
   slug: string;
+  cluster?: string;
+  site?: string;
 }
 
 export interface Job {

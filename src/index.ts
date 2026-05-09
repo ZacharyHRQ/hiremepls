@@ -2,6 +2,8 @@ import { readFile, writeFile } from "node:fs/promises";
 import { fetchGreenhouse } from "./ats/greenhouse.ts";
 import { fetchLever } from "./ats/lever.ts";
 import { fetchAshby } from "./ats/ashby.ts";
+import { fetchWorkday } from "./ats/workday.ts";
+import { fetchSimplify } from "./ats/simplify.ts";
 import { isInternship } from "./filter.ts";
 import { sendJob } from "./notifier.ts";
 import { renderMarkdown } from "./render/markdown.ts";
@@ -30,6 +32,8 @@ async function fetchCompany(c: Company): Promise<Job[]> {
   if (c.ats === "greenhouse") return fetchGreenhouse(c);
   if (c.ats === "lever") return fetchLever(c);
   if (c.ats === "ashby") return fetchAshby(c);
+  if (c.ats === "workday") return fetchWorkday(c);
+  if (c.ats === "simplify") return fetchSimplify(c);
   throw new Error(`unknown ats: ${c.ats}`);
 }
 
@@ -79,6 +83,7 @@ async function main() {
     const interns = jobs.filter(isInternship);
     allInterns.push(...interns);
     const ids = interns.map((j) => j.id);
+    const hasHistory = company.name in seen;
     const previous = new Set(seen[company.name] ?? []);
     const newJobs = interns.filter((j) => !previous.has(j.id));
     next[company.name] = ids;
@@ -87,7 +92,7 @@ async function main() {
       `✓ ${company.name}: ${jobs.length} total, ${interns.length} intern, ${newJobs.length} new`,
     );
 
-    if (firstRun) continue;
+    if (firstRun || !hasHistory) continue;
 
     for (const job of newJobs) {
       totalNew++;

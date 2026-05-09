@@ -33,7 +33,6 @@
   { "name": "MongoDB", "ats": "greenhouse", "slug": "mongodb" },
   { "name": "Cloudflare", "ats": "greenhouse", "slug": "cloudflare" },
   { "name": "Datadog", "ats": "greenhouse", "slug": "datadog" },
-  { "name": "Coinbase", "ats": "greenhouse", "slug": "coinbase" },
   { "name": "Robinhood", "ats": "greenhouse", "slug": "robinhood" },
   { "name": "Ramp", "ats": "ashby", "slug": "ramp" },
   { "name": "Brex", "ats": "greenhouse", "slug": "brex" },
@@ -60,5 +59,9 @@
   { "name": "PagerDuty", "ats": "greenhouse", "slug": "pagerduty" },
   { "name": "Cribl", "ats": "greenhouse", "slug": "cribl" },
   { "name": "Postman", "ats": "greenhouse", "slug": "postman" },
-  { "name": "Gusto", "ats": "greenhouse", "slug": "gusto" }
+  { "name": "Gusto", "ats": "greenhouse", "slug": "gusto" },
+
+  { "name": "BlackRock", "ats": "workday", "slug": "blackrock", "cluster": "wd1", "site": "BlackRock_Professional" },
+
+  { "name": "SimplifyJobs", "ats": "simplify", "slug": "" }
 ]
