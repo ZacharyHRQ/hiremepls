@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-09T17:12:44.619Z",
+  "generatedAt": "2026-05-09T18:04:29.781Z",
   "companyCount": 63,
   "okCount": 63,
-  "jobCount": 3153,
+  "jobCount": 3172,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -3156,7 +3156,26 @@
     "simplify:61e74368-0957-43cc-ac1e-48e75204026d": "2026-05-09T17:12:44.619Z",
     "simplify:9b41e22b-95f4-477c-a8e3-582f8525387a": "2026-05-09T17:12:44.619Z",
     "simplify:ad707d50-0570-4843-8048-54a73ff96958": "2026-05-09T17:12:44.619Z",
-    "simplify:83eff6e8-2f48-40cf-83be-b22caa536b46": "2026-05-09T17:12:44.619Z"
+    "simplify:83eff6e8-2f48-40cf-83be-b22caa536b46": "2026-05-09T17:12:44.619Z",
+    "simplify:bf67b3a9-1eda-46fd-9af5-4647b6c4e788": "2026-05-09T18:04:29.781Z",
+    "simplify:9fa12f71-5e6c-4d4d-b67c-7082ebfb45c3": "2026-05-09T18:04:29.781Z",
+    "simplify:f29b8c1d-b2ea-4bae-85ad-691372143c84": "2026-05-09T18:04:29.781Z",
+    "simplify:f9bd3523-3160-485e-9a7a-8d91620b01d0": "2026-05-09T18:04:29.781Z",
+    "simplify:9a9fa2a0-45d5-4ef9-b211-4a449f0cafbb": "2026-05-09T18:04:29.781Z",
+    "simplify:f1f4963b-bdbe-4d7d-8189-3ea0014cd978": "2026-05-09T18:04:29.781Z",
+    "simplify:b2582b69-0e76-4b8a-8365-1c7451eb0793": "2026-05-09T18:04:29.781Z",
+    "simplify:9ac10260-5a38-4306-a14f-6233a9f24656": "2026-05-09T18:04:29.781Z",
+    "simplify:ddce0399-2054-4a1c-bb04-50981c85aca4": "2026-05-09T18:04:29.781Z",
+    "simplify:a93d7bcf-e799-47e2-b223-a59480bfcf0f": "2026-05-09T18:04:29.781Z",
+    "simplify:e1b4e848-dfc6-4312-baec-5d135ef0edd5": "2026-05-09T18:04:29.781Z",
+    "simplify:e69b7443-2249-4049-9379-8124e34c6429": "2026-05-09T18:04:29.781Z",
+    "simplify:ea2aab66-0170-4f6e-8cf3-edf8dd8f81b6": "2026-05-09T18:04:29.781Z",
+    "simplify:d564cbe2-1d72-4511-b9d7-23941f576d58": "2026-05-09T18:04:29.781Z",
+    "simplify:ee96ab23-9704-4554-ab17-29ae5e380422": "2026-05-09T18:04:29.781Z",
+    "simplify:c5e1e2ee-9028-41d8-8e43-8bed2a7fddb4": "2026-05-09T18:04:29.781Z",
+    "simplify:885b612e-955f-494a-8499-26efd83e1f1b": "2026-05-09T18:04:29.781Z",
+    "simplify:87e1f406-2b57-4d98-9b4f-2b0c197085e3": "2026-05-09T18:04:29.781Z",
+    "simplify:d027f016-0c6d-4196-aec9-0e959d41da6b": "2026-05-09T18:04:29.781Z"
   },
   "jobs": [
     {
@@ -4840,6 +4859,14 @@
       "company": "Lennox International"
     },
     {
+      "id": "simplify:bf67b3a9-1eda-46fd-9af5-4647b6c4e788",
+      "title": "Intern - Applied Science - Machine Learning Engineering",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Applied-Science-Engineer_R160919",
+      "location": "SF / San Jose, CA",
+      "department": "AI/ML/Data",
+      "company": "Adobe"
+    },
+    {
       "id": "simplify:da8177ab-3b7c-4e72-b74b-3b9be8aa529b",
       "title": "Product Strategist Intern - Global Monetization Product and Technology",
       "url": "https://lifeattiktok.com/search/7553882083882797330",
@@ -5590,6 +5617,14 @@
       "location": "Kingwood, Houston, TX",
       "department": "AI/ML/Data",
       "company": "OmniSource"
+    },
+    {
+      "id": "simplify:9fa12f71-5e6c-4d4d-b67c-7082ebfb45c3",
+      "title": "Summer Intern - Software Engineering",
+      "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2026-Summer-Intern---Software-Engineer_2523683-1",
+      "location": "Chicago, IL",
+      "department": "Software",
+      "company": "CIBC"
     },
     {
       "id": "simplify:6cae6910-11fa-406d-b833-b85cd54aab12",
@@ -9280,6 +9315,14 @@
       "company": "TikTok"
     },
     {
+      "id": "simplify:f29b8c1d-b2ea-4bae-85ad-691372143c84",
+      "title": "Software Engineer Intern",
+      "url": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-Virtual-Internship_JR-259698",
+      "location": "San Ramon, CA",
+      "department": "Software",
+      "company": "Robert Half"
+    },
+    {
       "id": "simplify:b0cbc5da-9a7a-425b-82f3-5963113779c0",
       "title": "Process Improvement Intern",
       "url": "https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1410120",
@@ -9342,6 +9385,14 @@
       "location": "Ottawa, ON, Canada",
       "department": "Software",
       "company": "Noda"
+    },
+    {
+      "id": "simplify:f9bd3523-3160-485e-9a7a-8d91620b01d0",
+      "title": "Research and Development Engineering Intern",
+      "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineering-Intern_REQ_0000076214-1",
+      "location": "State College, PA",
+      "department": "Software",
+      "company": "PennState University"
     },
     {
       "id": "simplify:60bdef1d-571d-4869-88d3-ec21747a38c4",
@@ -9944,6 +9995,14 @@
       "company": "Hayden AI"
     },
     {
+      "id": "simplify:9a9fa2a0-45d5-4ef9-b211-4a449f0cafbb",
+      "title": "Health Informatics Intern",
+      "url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---Saskatchewan/Intern_R0040214",
+      "location": "Remote in Canada",
+      "department": "AI/ML/Data",
+      "company": "Harris Computer"
+    },
+    {
       "id": "simplify:66572abf-79bc-4959-81dc-2d51e16c64a4",
       "title": "Hunyuan Multimodal Reinforcement Learning Research Intern",
       "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Reinforcement-Learning-Research-Intern_R107084-1",
@@ -10400,6 +10459,14 @@
       "company": "Starz"
     },
     {
+      "id": "simplify:f1f4963b-bdbe-4d7d-8189-3ea0014cd978",
+      "title": "Starz Intern - Content Insights",
+      "url": "https://starz.wd5.myworkdayjobs.com/Starz/job/New-York-NY/STARZ-Intern--Content-Insights_JR100336",
+      "location": "NYC",
+      "department": "AI/ML/Data",
+      "company": "Starz"
+    },
+    {
       "id": "simplify:832aa476-ae91-49b2-ad86-266c36d0bb38",
       "title": "Technology Intern - UI/UX Engineer - Full Stack",
       "url": "https://boards.greenhouse.io/point72/jobs/8465224002",
@@ -10646,6 +10713,14 @@
       "location": "NYC",
       "department": "AI/ML/Data",
       "company": "Talkspace"
+    },
+    {
+      "id": "simplify:b2582b69-0e76-4b8a-8365-1c7451eb0793",
+      "title": "Transaction Tooling Intern",
+      "url": "https://meredith.wd5.myworkdayjobs.com/en-US/EXT/job/Alberta-CAN-Remote/Transaction-Tooling-Intern_JR15325",
+      "location": "Edmonton, AB, Canada / Remote in Canada",
+      "department": "Software",
+      "company": "DotDash Meredith"
     },
     {
       "id": "simplify:a2bb605a-1411-4cde-a903-4687034a3557",
@@ -11158,6 +11233,14 @@
       "location": "Toronto, ON, Canada",
       "department": "AI/ML/Data",
       "company": "Mackenzie Investments"
+    },
+    {
+      "id": "simplify:9ac10260-5a38-4306-a14f-6233a9f24656",
+      "title": "Research Intern - Applied Reinforcement Learning",
+      "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Research-Intern---Applied-Reinforcement-Learning-_JR106885",
+      "location": "Palo Alto, CA / Redmond, WA",
+      "department": "AI/ML/Data",
+      "company": "Centific"
     },
     {
       "id": "simplify:363f4e1e-f202-4b73-b674-cc6819bb718d",
@@ -13704,6 +13787,14 @@
       "company": "TikTok"
     },
     {
+      "id": "simplify:ddce0399-2054-4a1c-bb04-50981c85aca4",
+      "title": "Media Ops & Analytics Intern",
+      "url": "https://strideinc.wd1.myworkdayjobs.com/en-US/SK/job/US-Nationwide---Remote/Media-Ops---Analytics-Intern_JR114198",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "Stride"
+    },
+    {
       "id": "simplify:62f71a9a-a10d-447f-b751-1a04d9fe5392",
       "title": "AI Intern - IFS ERP & Cloud Platform",
       "url": "https://jobs.smartrecruiters.com/IFS1/744000121437472",
@@ -14368,12 +14459,28 @@
       "company": "Axway"
     },
     {
+      "id": "simplify:a93d7bcf-e799-47e2-b223-a59480bfcf0f",
+      "title": "Quantitative Analyst – Co-op/Intern - 4 Months",
+      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Analyst--Fall-2026--Co-op-Internship----4-Months_R260012627-1",
+      "location": "Toronto, ON, Canada",
+      "department": "Quant",
+      "company": "Bank of Montreal"
+    },
+    {
       "id": "simplify:77455b97-a3f6-46e8-9226-a340182c7442",
       "title": "Data Intern",
       "url": "https://job-boards.greenhouse.io/jumio/jobs/4686693005",
       "location": "Remote in USA",
       "department": "AI/ML/Data",
       "company": "Jumio"
+    },
+    {
+      "id": "simplify:e1b4e848-dfc6-4312-baec-5d135ef0edd5",
+      "title": "Data Analyst Developer Intern",
+      "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Summer---GRM--Data-Analyst-Developer-Intern--8-Months-_R-0000169171-1",
+      "location": "Toronto, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "Royal Bank of Canada"
     },
     {
       "id": "simplify:7d93f7a3-5509-4f50-b012-7692ac3b0200",
@@ -14646,6 +14753,14 @@
       "location": "San Mateo, CA",
       "department": "Software",
       "company": "Verkada"
+    },
+    {
+      "id": "simplify:e69b7443-2249-4049-9379-8124e34c6429",
+      "title": "Data Science Intern - Grm - 4 Months",
+      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Data-Science-Intern--4-Months-_R-0000169712",
+      "location": "Toronto, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "Royal Bank of Canada"
     },
     {
       "id": "simplify:66154b24-f9a8-43fb-8911-8bffb75278df",
@@ -15840,6 +15955,14 @@
       "company": "Cooper University Health Care"
     },
     {
+      "id": "simplify:ea2aab66-0170-4f6e-8cf3-edf8dd8f81b6",
+      "title": "CFO – Data Analyst Intern",
+      "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-CFO--Fall-Data-Analyst--8-months-_R-0000169702",
+      "location": "Toronto, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "Royal Bank of Canada"
+    },
+    {
       "id": "simplify:2434350c-49cd-4956-9d1d-fab686918a3f",
       "title": "AI Data Science Analyst Intern",
       "url": "https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Chicago/AI-Data-Science-Summer-Analyst_JR202600377",
@@ -16232,6 +16355,14 @@
       "company": "TikTok"
     },
     {
+      "id": "simplify:d564cbe2-1d72-4511-b9d7-23941f576d58",
+      "title": "Web Interface Software Engineer Intern",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Intern---Web-Interface-Software-Engineer--2026-_R64590",
+      "location": "LA",
+      "department": "Hardware",
+      "company": "Motorola"
+    },
+    {
       "id": "simplify:180cdc97-01ab-4340-9dbd-7d3d84a4cc85",
       "title": "Research Scientist Intern",
       "url": "https://www.metacareers.com/jobs/779670167783218",
@@ -16278,6 +16409,14 @@
       "location": "Toronto, ON, Canada",
       "department": "AI/ML/Data",
       "company": "Bank of Montreal"
+    },
+    {
+      "id": "simplify:ee96ab23-9704-4554-ab17-29ae5e380422",
+      "title": "Product & Data Engineering Intern",
+      "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Product---Data-Engineering--September-2026---12-months-_6987",
+      "location": "Toronto, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "Ontario Teachers' Pension Plan"
     },
     {
       "id": "simplify:c45f7a09-140b-4725-9506-ade3453310fa",
@@ -16456,6 +16595,14 @@
       "company": "HF Sinclair"
     },
     {
+      "id": "simplify:c5e1e2ee-9028-41d8-8e43-8bed2a7fddb4",
+      "title": "Yard Engineer Intern",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Yard-Engineering-Intern_JR108554",
+      "location": "Dallas, TX",
+      "department": "Software",
+      "company": "Copart"
+    },
+    {
       "id": "simplify:51a9d9d0-ccbd-444b-9588-fa6adbf3c727",
       "title": "MTM Data Management & Staffing Coordinator Intern",
       "url": "https://musc.wd1.myworkdayjobs.com/en-US/MUSC/job/Charleston/UNIV---Student-Intern--MTM-Data-Management---Staffing-Coordinator_R-0000061405",
@@ -16558,6 +16705,14 @@
       "location": "SF",
       "department": "Hardware",
       "company": "Astranis"
+    },
+    {
+      "id": "simplify:885b612e-955f-494a-8499-26efd83e1f1b",
+      "title": "Reference Data Analyst Intern - Cdo - Ns",
+      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/XMLNAME-2026-Fall---CDO--Reference-Data-Analyst-Intern--4-Months---Bedford--NS-_R-0000170077-2",
+      "location": "Nova Scotia, Canada",
+      "department": "AI/ML/Data",
+      "company": "Royal Bank of Canada"
     },
     {
       "id": "simplify:e25aa658-7954-4df8-a556-bb2f074c53b3",
@@ -16718,6 +16873,14 @@
       "location": "Toronto, ON, Canada / Oakville, ON, Canada / Kitchener, ON, Canada",
       "department": "Software",
       "company": "Geotab"
+    },
+    {
+      "id": "simplify:87e1f406-2b57-4d98-9b4f-2b0c197085e3",
+      "title": "Data Engineer Intern",
+      "url": "https://strideinc.wd1.myworkdayjobs.com/en-US/SK/job/US-Nationwide---Remote/Data-Engineering-Intern_JR114182",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "Stride"
     },
     {
       "id": "simplify:6138989f-798d-491a-aaf7-14a88ebc2816",
@@ -17582,6 +17745,14 @@
       "location": "SF",
       "department": "Software",
       "company": "Adobe"
+    },
+    {
+      "id": "simplify:d027f016-0c6d-4196-aec9-0e959d41da6b",
+      "title": "Data Quality Intern",
+      "url": "https://sharecare.wd1.myworkdayjobs.com/Sharecare_Careers/job/BAM---Atlanta-GA/Data-Quality-Intern---Remote_R-101874",
+      "location": "Atlanta, GA",
+      "department": "AI/ML/Data",
+      "company": "Sharecare"
     },
     {
       "id": "simplify:39d03fbd-ef14-485e-8c46-08eeba2a2e28",
