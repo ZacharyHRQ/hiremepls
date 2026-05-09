@@ -244,7 +244,6 @@
   "BlackRock": [],
   "Visa": [],
   "SimplifyJobs": [
-    "simplify:72f18cb6-cac7-4d9a-9e85-1723cd610d38",
     "simplify:56f3d864-9b3a-4ac0-9156-467c0dab8b75",
     "simplify:3c8f289f-9cf3-4eaf-bd0f-25f0ed8daf9d",
     "simplify:8b050634-a52c-4b15-bc2b-062c9fb6cdc7",
@@ -757,7 +756,6 @@
     "simplify:1cb0cdad-76bf-4e0c-b914-903b0a2a48e9",
     "simplify:2da6669d-3899-4fb0-aef3-5c6426b23b58",
     "simplify:71c8e3d3-0b53-4ca8-bec3-1305196d1154",
-    "simplify:124bb3ef-2d89-4cda-828b-203d6b042e2e",
     "simplify:8cfec360-0de7-4099-97df-66400369c836",
     "simplify:45d5e230-b45d-4742-b0e0-03639b0c8c87",
     "simplify:240f4e7f-5efb-476c-bf0b-c2aa43e4c988",
@@ -1754,7 +1752,6 @@
     "simplify:1fca6653-7184-45fb-891b-6998fb1affb7",
     "simplify:c4eb6315-4522-4bf0-b2fc-3842edddbca0",
     "simplify:3c716e20-040d-41dc-9d9d-b398aa4b7f77",
-    "simplify:9b3b3bd4-91c2-4dec-a37d-b878deeb07f9",
     "simplify:51c4a885-a755-4f56-ae3b-1cc8044eed47",
     "simplify:bec23b01-65ee-4433-8c1e-eb74b68e62a7",
     "simplify:676473d0-bfa3-44e7-a7a2-3bb6b424663a",
@@ -1945,7 +1942,6 @@
     "simplify:9b4f7a28-0dbb-4edb-a018-074ceb56e8b2",
     "simplify:c3cc64f7-4db9-4d31-b850-61d9a8f14177",
     "simplify:b462642c-bc71-425d-8c68-9b871f683033",
-    "simplify:a2d25233-f59f-4949-af98-5744d36feb30",
     "simplify:328e1324-3097-4f42-ba0b-84e286a52b73",
     "simplify:cf67b47f-ab6f-425e-aba9-52f7fbca42f3",
     "simplify:aac28e9b-37d3-4e15-a76d-945bdaf6c101",
@@ -2001,7 +1997,8 @@
     "simplify:89462b96-c069-4bf8-bbd8-f055f9d5eeab",
     "simplify:621d8a9b-9609-45e9-b8be-2a06366dcd4d",
     "simplify:f0a93583-8254-4337-b5af-f8a88d3b6748",
-    "simplify:8e39a25b-7f83-469c-a84e-63c374d0f3cf"
+    "simplify:8e39a25b-7f83-469c-a84e-63c374d0f3cf",
+    "simplify:72f18cb6-cac7-4d9a-9e85-1723cd610d38"
   ],
   "vanshb03": [
     "vansh:d2c404c8-5895-4ec0-95c2-3d17aed38beb",

@@ -1,6 +1,6 @@
 # Open Internships
 
-**3200** internships across **63/63** companies — last updated 2026-05-09.
+**3197** internships across **63/63** companies — last updated 2026-05-09.
 
 ## Companies
 
@@ -391,7 +391,7 @@
 - [Eurofins](#eurofins) (3)
 - [Eventual](#eventual) (1)
 - [Everest (F25)](#everest-f25) (1)
-- [Everlaw](#everlaw) (2)
+- [Everlaw](#everlaw) (1)
 - [Eversource Energy](#eversource-energy) (1)
 - [Exegy](#exegy) (2)
 - [Exiger](#exiger) (2)
@@ -615,7 +615,6 @@
 - [Labcorp](#labcorp) (1)
 - [Labelbox](#labelbox) (1)
 - [Lambda](#lambda) (2)
-- [Lasko Products](#lasko-products) (1)
 - [Latitude.io](#latitude-io) (1)
 - [Lawrence Livermore National Laboratory (LLNL)](#lawrence-livermore-national-laboratory-llnl) (1)
 - [Layup Parts](#layup-parts) (1)
@@ -707,7 +706,7 @@
 - [Morgan Stanley](#morgan-stanley) (2)
 - [Morph](#morph) (1)
 - [Mosaic](#mosaic) (1)
-- [Motorola](#motorola) (3)
+- [Motorola](#motorola) (2)
 - [Motorola Solutions](#motorola-solutions) (2)
 - [MSIG USA ](#msig-usa) (1)
 - [MSX International](#msx-international) (1)
@@ -4055,7 +4054,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [GTM Data Analyst Intern](https://job-boards.greenhouse.io/everlaw/jobs/4676925006) | Oakland, CA | AI/ML/Data | 2026-05-09 |
-| [Product Marketing Intern](https://job-boards.greenhouse.io/everlaw/jobs/4676680006) | Oakland, CA | Product | 2026-05-09 |
 
 ## Eversource Energy
 
@@ -5721,12 +5719,6 @@
 | [2026 Machine Learning Research Intern](https://jobs.ashbyhq.com/Lambda/264f889c-38f4-42a5-9534-064a9512a3fe) | San Francisco, CA | Data Science, AI & Machine Learning | 2026-05-09 |
 | [Machine Learning Research Intern](https://jobs.ashbyhq.com/Lambda/264f889c-38f4-42a5-9534-064a9512a3fe) | San Francisco, CA | — | 2026-05-09 |
 
-## Lasko Products
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Product Management Internship-Heaters & Air Quality](https://job-boards.greenhouse.io/laskoproducts/jobs/5050043007) | West Chester, PA | Product | 2026-05-09 |
-
 ## Latitude.io
 
 | Title | Location | Department | First seen |
@@ -6470,7 +6462,6 @@
 | --- | --- | --- | --- |
 | [Web Interface Software Engineer Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Intern---Web-Interface-Software-Engineer--2026-_R64590) | LA | Hardware | 2026-05-09 |
 | [Software Engineering Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Software-Engineering-Internship_R62644) | Glasgow, UK / Edinburgh, UK | Software | 2026-05-09 |
-| [Software Engineering Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Software-Engineering-Internship_R64722) | Edinburgh, UK / Glasgow, UK | Software | 2026-05-09 |
 
 ## Motorola Solutions
 
@@ -10006,7 +9997,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [AI Intern](https://careers-berkley.icims.com/jobs/12875/job?mobile=true&needsRedirect=false) | Wilmington, DE | AI/ML/Data | 2026-05-09 |
+| [AI Intern](https://careers-berkley.icims.com/jobs/12875/job?mobile=true&needsRedirect=false) | Manassas, VA | AI/ML/Data | 2026-05-09 |
 | [Business and Data Analyst Intern](https://careers-berkley.icims.com/jobs/13507/job?mobile=true&needsRedirect=false) | Farmington, CT | AI/ML/Data | 2026-05-09 |
 | [Business Intelligence Developer Intern](https://careers-berkley.icims.com/jobs/13878/job?mobile=true&needsRedirect=false) | Scottsdale, AZ | AI/ML/Data | 2026-05-09 |
 | [Data Analyst Summer Intern](https://careers-berkley.icims.com/jobs/13113/data-analyst-summer-intern/job) | Englewood, CO | Data Science, AI & Machine Learning | 2026-05-09 |

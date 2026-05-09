@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-09T19:20:31.296Z",
+  "generatedAt": "2026-05-09T20:06:45.181Z",
   "companyCount": 63,
   "okCount": 63,
-  "jobCount": 3200,
+  "jobCount": 3197,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -658,7 +658,6 @@
     "simplify:16874a81-71ed-42cc-a4b7-d088120c8549": "2026-05-09T15:28:15.527Z",
     "simplify:1cb0cdad-76bf-4e0c-b914-903b0a2a48e9": "2026-05-09T15:28:15.527Z",
     "simplify:2da6669d-3899-4fb0-aef3-5c6426b23b58": "2026-05-09T15:28:15.527Z",
-    "simplify:124bb3ef-2d89-4cda-828b-203d6b042e2e": "2026-05-09T15:28:15.527Z",
     "simplify:8cfec360-0de7-4099-97df-66400369c836": "2026-05-09T15:28:15.527Z",
     "simplify:45d5e230-b45d-4742-b0e0-03639b0c8c87": "2026-05-09T15:28:15.527Z",
     "simplify:240f4e7f-5efb-476c-bf0b-c2aa43e4c988": "2026-05-09T15:28:15.527Z",
@@ -1564,7 +1563,6 @@
     "simplify:1fca6653-7184-45fb-891b-6998fb1affb7": "2026-05-09T15:28:15.527Z",
     "simplify:c4eb6315-4522-4bf0-b2fc-3842edddbca0": "2026-05-09T15:28:15.527Z",
     "simplify:3c716e20-040d-41dc-9d9d-b398aa4b7f77": "2026-05-09T15:28:15.527Z",
-    "simplify:9b3b3bd4-91c2-4dec-a37d-b878deeb07f9": "2026-05-09T15:28:15.527Z",
     "simplify:51c4a885-a755-4f56-ae3b-1cc8044eed47": "2026-05-09T15:28:15.527Z",
     "simplify:bec23b01-65ee-4433-8c1e-eb74b68e62a7": "2026-05-09T15:28:15.527Z",
     "simplify:676473d0-bfa3-44e7-a7a2-3bb6b424663a": "2026-05-09T15:28:15.527Z",
@@ -1731,7 +1729,6 @@
     "simplify:c7f1c784-ada4-411c-85aa-060cd89e52c6": "2026-05-09T15:28:15.527Z",
     "simplify:c3cc64f7-4db9-4d31-b850-61d9a8f14177": "2026-05-09T15:28:15.527Z",
     "simplify:b462642c-bc71-425d-8c68-9b871f683033": "2026-05-09T15:28:15.527Z",
-    "simplify:a2d25233-f59f-4949-af98-5744d36feb30": "2026-05-09T15:28:15.527Z",
     "simplify:328e1324-3097-4f42-ba0b-84e286a52b73": "2026-05-09T15:28:15.527Z",
     "simplify:cf67b47f-ab6f-425e-aba9-52f7fbca42f3": "2026-05-09T15:28:15.527Z",
     "simplify:aac28e9b-37d3-4e15-a76d-945bdaf6c101": "2026-05-09T15:28:15.527Z",
@@ -4469,14 +4466,6 @@
       "location": "Remote - San Francisco, California",
       "department": "",
       "company": "Cribl"
-    },
-    {
-      "id": "simplify:72f18cb6-cac7-4d9a-9e85-1723cd610d38",
-      "title": "AI Intern",
-      "url": "https://careers-berkley.icims.com/jobs/12875/job?mobile=true&needsRedirect=false",
-      "location": "Wilmington, DE",
-      "department": "AI/ML/Data",
-      "company": "W.R. Berkley"
     },
     {
       "id": "simplify:56f3d864-9b3a-4ac0-9156-467c0dab8b75",
@@ -8573,14 +8562,6 @@
       "location": "Sharonville, OH",
       "department": "Software",
       "company": "Ensemble Health Partners"
-    },
-    {
-      "id": "simplify:124bb3ef-2d89-4cda-828b-203d6b042e2e",
-      "title": "Product Management Internship-Heaters & Air Quality",
-      "url": "https://job-boards.greenhouse.io/laskoproducts/jobs/5050043007",
-      "location": "West Chester, PA",
-      "department": "Product",
-      "company": "Lasko Products"
     },
     {
       "id": "simplify:8cfec360-0de7-4099-97df-66400369c836",
@@ -16551,14 +16532,6 @@
       "company": "Cohere"
     },
     {
-      "id": "simplify:9b3b3bd4-91c2-4dec-a37d-b878deeb07f9",
-      "title": "Product Marketing Intern",
-      "url": "https://job-boards.greenhouse.io/everlaw/jobs/4676680006",
-      "location": "Oakland, CA",
-      "department": "Product",
-      "company": "Everlaw"
-    },
-    {
       "id": "simplify:51c4a885-a755-4f56-ae3b-1cc8044eed47",
       "title": "GTM Data Analyst Intern",
       "url": "https://job-boards.greenhouse.io/everlaw/jobs/4676925006",
@@ -18079,14 +18052,6 @@
       "company": "Airbus"
     },
     {
-      "id": "simplify:a2d25233-f59f-4949-af98-5744d36feb30",
-      "title": "Software Engineering Intern",
-      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Software-Engineering-Internship_R64722",
-      "location": "Edinburgh, UK / Glasgow, UK",
-      "department": "Software",
-      "company": "Motorola"
-    },
-    {
       "id": "simplify:328e1324-3097-4f42-ba0b-84e286a52b73",
       "title": "Software Engineer Intern - Netsuite",
       "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/332961",
@@ -18533,6 +18498,14 @@
       "location": "O'Fallon, MO",
       "department": "AI/ML/Data",
       "company": "True Manufacturing"
+    },
+    {
+      "id": "simplify:72f18cb6-cac7-4d9a-9e85-1723cd610d38",
+      "title": "AI Intern",
+      "url": "https://careers-berkley.icims.com/jobs/12875/job?mobile=true&needsRedirect=false",
+      "location": "Manassas, VA",
+      "department": "AI/ML/Data",
+      "company": "W.R. Berkley"
     },
     {
       "id": "vansh:d2c404c8-5895-4ec0-95c2-3d17aed38beb",
