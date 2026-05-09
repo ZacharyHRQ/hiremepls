@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-09T20:06:45.181Z",
+  "generatedAt": "2026-05-09T21:01:22.100Z",
   "companyCount": 63,
   "okCount": 63,
-  "jobCount": 3197,
+  "jobCount": 3194,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -179,7 +179,6 @@
     "simplify:07034482-de7a-4324-917d-b746e275d734": "2026-05-09T15:28:15.527Z",
     "simplify:44e98270-755f-4d1c-a7a6-51ed8ba35f4e": "2026-05-09T15:28:15.527Z",
     "simplify:8bfbf59e-bf01-4b33-b367-14fa32e8eb12": "2026-05-09T15:28:15.527Z",
-    "simplify:5b2d10d4-2318-4f8f-822a-8085e9c0b108": "2026-05-09T15:28:15.527Z",
     "simplify:ecb42b72-6094-48fe-8619-10c8cace6cc1": "2026-05-09T15:28:15.527Z",
     "simplify:04c61af9-3fff-42ea-b8cb-7e2f17ca3778": "2026-05-09T15:28:15.527Z",
     "simplify:ac0de679-0dd0-42fc-bef6-1b6e42f77cdb": "2026-05-09T15:28:15.527Z",
@@ -1205,7 +1204,6 @@
     "simplify:527f6229-0830-4b0d-bebf-9b948f241b44": "2026-05-09T15:28:15.527Z",
     "simplify:0ce9e860-bd85-4ebc-b74f-5ba4c7420a61": "2026-05-09T15:28:15.527Z",
     "simplify:5554c80f-ceeb-4a82-8ca0-1c82e6c6313c": "2026-05-09T15:28:15.527Z",
-    "simplify:848b1ba8-1029-4dfd-91ea-884990c92cd9": "2026-05-09T15:28:15.527Z",
     "simplify:4531faae-9742-4b6a-a947-785fd37f87de": "2026-05-09T15:28:15.527Z",
     "simplify:37c6d738-3d93-410b-a82e-6fd883d15498": "2026-05-09T15:28:15.527Z",
     "simplify:92263bac-e025-48b2-8b7d-2ccabb3a2499": "2026-05-09T15:28:15.527Z",
@@ -1306,7 +1304,6 @@
     "simplify:234ff49d-84f7-497d-8446-e3f0904c953b": "2026-05-09T15:28:15.527Z",
     "simplify:8d5814e5-274b-4474-9d82-c8f881ef103a": "2026-05-09T15:28:15.527Z",
     "simplify:01b73789-a55c-4227-864d-4e1c9f06b059": "2026-05-09T15:28:15.527Z",
-    "simplify:0d8a1fba-98a6-4e99-93de-864cdd763c72": "2026-05-09T15:28:15.527Z",
     "simplify:41655278-a249-4e9f-b17d-f9187aacc922": "2026-05-09T15:28:15.527Z",
     "simplify:9662257d-03f7-45d9-b21e-dd15cbb221d2": "2026-05-09T15:28:15.527Z",
     "simplify:3a60f010-c46b-4eab-ab24-a2a2b005aaac": "2026-05-09T15:28:15.527Z",
@@ -4602,14 +4599,6 @@
       "location": "Cambridge, MA / Seattle, WA / Toronto, ON, Canada / SF / San Jose, CA / Hyattsville, MD / NYC",
       "department": "AI/ML/Data",
       "company": "Adobe"
-    },
-    {
-      "id": "simplify:5b2d10d4-2318-4f8f-822a-8085e9c0b108",
-      "title": "Engineering Intern",
-      "url": "https://job-boards.greenhouse.io/glossgenius/jobs/7413808003",
-      "location": "NYC",
-      "department": "Software",
-      "company": "GlossGenius"
     },
     {
       "id": "simplify:ecb42b72-6094-48fe-8619-10c8cace6cc1",
@@ -13324,14 +13313,6 @@
       "company": "Marvell"
     },
     {
-      "id": "simplify:848b1ba8-1029-4dfd-91ea-884990c92cd9",
-      "title": "Compiler Intern",
-      "url": "https://job-boards.greenhouse.io/efficientcomputer/jobs/4218297009",
-      "location": "San Jose, CA",
-      "department": "Software",
-      "company": "Efficient Computer"
-    },
-    {
       "id": "simplify:4531faae-9742-4b6a-a947-785fd37f87de",
       "title": "Applied AI Workflow Automation Intern",
       "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5104002007",
@@ -14186,14 +14167,6 @@
       "location": "NYC",
       "department": "Software",
       "company": "Haize Labs"
-    },
-    {
-      "id": "simplify:0d8a1fba-98a6-4e99-93de-864cdd763c72",
-      "title": "Data Science & Analytics Intern",
-      "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000121842437",
-      "location": "Stamford, CT",
-      "department": "AI/ML/Data",
-      "company": "NBCUniversal"
     },
     {
       "id": "simplify:41655278-a249-4e9f-b17d-f9187aacc922",

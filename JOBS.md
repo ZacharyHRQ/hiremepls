@@ -1,6 +1,6 @@
 # Open Internships
 
-**3197** internships across **63/63** companies — last updated 2026-05-09.
+**3194** internships across **63/63** companies — last updated 2026-05-09.
 
 ## Companies
 
@@ -352,7 +352,6 @@
 - [Eaton Corporation](#eaton-corporation) (2)
 - [EControls](#econtrols) (1)
 - [EdgeTrace](#edgetrace) (1)
-- [Efficient Computer](#efficient-computer) (1)
 - [Eight Sleep](#eight-sleep) (3)
 - [Ekimetrics](#ekimetrics) (1)
 - [Elayne](#elayne) (1)
@@ -464,7 +463,7 @@
 - [Global Partners](#global-partners) (1)
 - [GlobalFoundries](#globalfoundries) (2)
 - [Globalization Partners](#globalization-partners) (2)
-- [GlossGenius](#glossgenius) (3)
+- [GlossGenius](#glossgenius) (2)
 - [Glydways](#glydways) (1)
 - [GM financial](#gm-financial) (5)
 - [GM Financial](#gm-financial) (1)
@@ -715,7 +714,7 @@
 - [N1](#n1) (2)
 - [Nasa](#nasa) (1)
 - [Nasuni](#nasuni) (2)
-- [NBCUniversal](#nbcuniversal) (11)
+- [NBCUniversal](#nbcuniversal) (10)
 - [NCR Voyix](#ncr-voyix) (1)
 - [Nelnet](#nelnet) (2)
 - [Nerdio](#nerdio) (1)
@@ -3773,12 +3772,6 @@
 | --- | --- | --- | --- |
 | [AI Full-Stack Engineering Intern](https://www.workatastartup.com/jobs/86239) | San Mateo, CA | — | 2026-05-09 |
 
-## Efficient Computer
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Compiler Intern](https://job-boards.greenhouse.io/efficientcomputer/jobs/4218297009) | San Jose, CA | Software | 2026-05-09 |
-
 ## Eight Sleep
 
 | Title | Location | Department | First seen |
@@ -4582,7 +4575,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Engineering Intern](https://job-boards.greenhouse.io/glossgenius/jobs/7413808003) | NYC | Software | 2026-05-09 |
 | [Engineering Intern](https://job-boards.greenhouse.io/glossgenius/jobs/7413808003) | New York, NY | — | 2026-05-09 |
 | [Engineering Intern - Summer 2026](https://job-boards.greenhouse.io/glossgenius/jobs/7600548003) | SF | Software | 2026-05-09 |
 
@@ -6520,7 +6512,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Advertising & Partnerships Ad Products Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000121820063) | NYC | AI/ML/Data | 2026-05-09 |
-| [Data Science & Analytics Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000121842437) | Stamford, CT | AI/ML/Data | 2026-05-09 |
 | [Film Technology AR/VR Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000125422009) | North Hollywood, LA | Software | 2026-05-09 |
 | [Film Technology AR/VR Internships Intern - Academic Year](https://jobs.smartrecruiters.com/NBCUniversal3/744000121840427) | North Hollywood, LA | Software | 2026-05-09 |
 | [Software Engineer Intern](https://jobs.smartrecruiters.com/nbcuniversal3/744000092795107-media-tech-software-engineering-internships-summer-2026) | New York, NY | — | 2026-05-09 |
