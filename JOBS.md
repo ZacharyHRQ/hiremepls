@@ -1,6 +1,6 @@
 # Open Internships
 
-**3162** internships across **63/63** companies — last updated 2026-05-10.
+**3160** internships across **63/63** companies — last updated 2026-05-10.
 
 ## Companies
 
@@ -229,7 +229,7 @@
 - [Ciena](#ciena) (3)
 - [Circleback](#circleback) (1)
 - [Cirrus Logic](#cirrus-logic) (5)
-- [Cisco](#cisco) (6)
+- [Cisco](#cisco) (5)
 - [Cisive](#cisive) (1)
 - [Citadel](#citadel) (5)
 - [Citadel Securities](#citadel-securities) (10)
@@ -1085,7 +1085,7 @@
 - [Typeface](#typeface) (1)
 - [Tyson Foods](#tyson-foods) (2)
 - [U.S. Bank](#u-s-bank) (1)
-- [Uber](#uber) (3)
+- [Uber](#uber) (2)
 - [Udemy](#udemy) (1)
 - [Uhaul](#uhaul) (1)
 - [Uline](#uline) (4)
@@ -2880,7 +2880,6 @@
 | --- | --- | --- | --- |
 | [Software Engineer 1 - Intern](https://careers.cisco.com/global/en/job/2007170) | San Jose, CA | Software | 2026-05-09 |
 | [Consulting Engineer Intern](https://jobs.cisco.com/jobs/ProjectDetail/Consulting-Engineer-I-Intern-United-States/1448044) | Research Triangle Park, NC | — | 2026-05-09 |
-| [Data Science Analyst 1 – Intern - United States](https://careers.cisco.com/global/en/job/2002648) | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Product Management Specialist 1 Intern](https://jobs.cisco.com/jobs/ProjectDetail/Product-Management-Specialist-I-Intern-United-States/1448055) | San Jose, CA | — | 2026-05-09 |
 | [Security Consulting Engineer Intern](https://jobs.cisco.com/jobs/ProjectDetail/Security-Consulting-Engineer-I-Intern-United-States/) | Research Triangle Park, NC | — | 2026-05-09 |
 | [Software Engineer Full Stack & Application Development 1 – Intern - United States](https://careers.cisco.com/global/en/job/2000450) | San Jose, CA | Software | 2026-05-09 |
@@ -9566,7 +9565,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Software Engineer Intern](https://university-uber.icims.com/jobs/159161/job?mobile=true&needsRedirect=false) | SF | Software | 2026-05-09 |
 | [Software Engineer Intern](https://university-uber.icims.com/jobs/149140/job) | San Francisco, CA | — | 2026-05-09 |
 | [Software Engineering Intern](https://university-uber.icims.com/jobs/159161/job?mobile=false&width=1270&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | San Francisco, CA | — | 2026-05-09 |
 
