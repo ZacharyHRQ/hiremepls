@@ -1,6 +1,6 @@
 # Open Internships
 
-**3168** internships across **63/63** companies — last updated 2026-05-10.
+**3165** internships across **63/63** companies — last updated 2026-05-10.
 
 ## Companies
 
@@ -270,7 +270,7 @@
 - [Cook Group](#cook-group) (4)
 - [Cooper University Health Care](#cooper-university-health-care) (2)
 - [CoorsTek](#coorstek) (1)
-- [Copart](#copart) (11)
+- [Copart](#copart) (10)
 - [Copeland](#copeland) (1)
 - [Corgi](#corgi) (1)
 - [Corning](#corning) (1)
@@ -652,7 +652,7 @@
 - [Mackenzie Investments](#mackenzie-investments) (5)
 - [Macy's](#macy-s) (2)
 - [Madison Energy Infrastructure](#madison-energy-infrastructure) (1)
-- [Magna](#magna) (9)
+- [Magna](#magna) (8)
 - [Man Group](#man-group) (6)
 - [Mariana Minerals](#mariana-minerals) (3)
 - [Mark43](#mark43) (1)
@@ -1052,7 +1052,7 @@
 - [thyssenkrupp](#thyssenkrupp) (1)
 - [TIFIN](#tifin) (1)
 - [Tiktok](#tiktok) (1)
-- [TikTok](#tiktok) (186)
+- [TikTok](#tiktok) (185)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (2)
 - [TNS](#tns) (1)
@@ -3223,7 +3223,6 @@
 | [Software Engineering Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR107699) | Dallas, TX | Software | 2026-05-09 |
 | [Technology Product Analyst Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107890) | Dallas, TX | Product | 2026-05-09 |
 | [Technology Product Analyst Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR108764) | Dallas, TX | Product | 2026-05-09 |
-| [Yard Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Yard-Engineering-Intern_JR108553) | Dallas, TX | Software | 2026-05-09 |
 | [Yard Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Yard-Engineering-Intern_JR108552) | Dallas, TX | Software | 2026-05-09 |
 
 ## Copeland
@@ -5987,7 +5986,6 @@
 | [Intern Failure Analysis & Validation Engineering](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235417) | Southfield, MI | Hardware | 2026-05-09 |
 | [Intern Software Engineer - Integration and Test](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235405) | Southfield, MI | Software | 2026-05-09 |
 | [Intern Validation Engineer](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235416) | Auburn Hills, MI | Hardware | 2026-05-09 |
-| [Software Engineering Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235425) | Auburn Hills, MI | Hardware | 2026-05-09 |
 
 ## Man Group
 
@@ -9307,7 +9305,6 @@
 | [Software Engineer Intern - Recommendation Infrastructure](https://lifeattiktok.com/search/7533003732948617480) | San Jose, CA | Software | 2026-05-09 |
 | [Software Engineer Intern - Recommendation Infrastructure](https://lifeattiktok.com/search/7533010433386809607) | San Jose, CA | Software | 2026-05-09 |
 | [Software Engineer Intern - Recommendation Infrastructure](https://lifeattiktok.com/search/7537493362585979154) | Seattle, WA | Software | 2026-05-09 |
-| [Software Engineer Intern - TikTok Search Architecture - BS/MS](https://lifeattiktok.com/search/7534626306991016199) | San Jose, CA | Software | 2026-05-09 |
 | [Software Engineer Intern - Tiktok-Growth-Customer Lifecycle - BS/MS](https://lifeattiktok.com/search/7532747359991859463) | San Jose, CA | Software | 2026-05-09 |
 | [Software Engineer Intern - Video-on-Demand Algorithm - 2026 Summer](https://lifeattiktok.com/search/7538304000404244743) | San Jose, CA | Software | 2026-05-09 |
 | [Software Engineer Intern, AI Applications](https://lifeattiktok.com/search/7540823148805032210) | Seattle, WA | — | 2026-05-09 |
