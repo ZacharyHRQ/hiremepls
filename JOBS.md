@@ -1,6 +1,6 @@
 # Open Internships
 
-**3178** internships across **63/63** companies — last updated 2026-05-10.
+**3173** internships across **63/63** companies — last updated 2026-05-10.
 
 ## Companies
 
@@ -89,6 +89,7 @@
 - [Arch Capital Group](#arch-capital-group) (1)
 - [Ardian](#ardian) (1)
 - [Argonne National Laboratory](#argonne-national-laboratory) (1)
+- [Arlington County VA](#arlington-county-va) (1)
 - [Arlo](#arlo) (2)
 - [Arm](#arm) (1)
 - [Armada](#armada) (1)
@@ -171,7 +172,7 @@
 - [Booz Allen Hamilton](#booz-allen-hamilton) (2)
 - [BorgWarner](#borgwarner) (2)
 - [Bosch](#bosch) (2)
-- [Bose](#bose) (2)
+- [Bose](#bose) (1)
 - [Boston Consulting Group](#boston-consulting-group) (1)
 - [Boston Scientific](#boston-scientific) (10)
 - [Bread Financial](#bread-financial) (2)
@@ -319,6 +320,7 @@
 - [Deutsche Bank](#deutsche-bank) (2)
 - [Dexcom](#dexcom) (1)
 - [Dexcom Corporation](#dexcom-corporation) (1)
+- [DiDi Global](#didi-global) (1)
 - [Digs](#digs) (3)
 - [Diligent Corporation](#diligent-corporation) (2)
 - [DimeHealth AI](#dimehealth-ai) (1)
@@ -463,7 +465,7 @@
 - [Global Partners](#global-partners) (1)
 - [GlobalFoundries](#globalfoundries) (2)
 - [Globalization Partners](#globalization-partners) (1)
-- [GlossGenius](#glossgenius) (2)
+- [GlossGenius](#glossgenius) (1)
 - [Glydways](#glydways) (1)
 - [GM financial](#gm-financial) (5)
 - [GM Financial](#gm-financial) (1)
@@ -486,7 +488,7 @@
 - [H3X Technologies](#h3x-technologies) (1)
 - [Haize Labs](#haize-labs) (1)
 - [Halliburton](#halliburton) (3)
-- [Handshake](#handshake) (2)
+- [Handshake](#handshake) (1)
 - [Harris Computer](#harris-computer) (1)
 - [Harvey](#harvey) (1)
 - [Hayden AI](#hayden-ai) (2)
@@ -545,7 +547,7 @@
 - [Innovative Defense Technologies](#innovative-defense-technologies) (1)
 - [Innovative Defense Technologies (IDT)](#innovative-defense-technologies-idt) (2)
 - [Innovative Systems](#innovative-systems) (1)
-- [Inogen](#inogen) (3)
+- [Inogen](#inogen) (2)
 - [Insitro](#insitro) (1)
 - [Insomniac](#insomniac) (1)
 - [Inspire](#inspire) (1)
@@ -618,7 +620,7 @@
 - [Layup Parts](#layup-parts) (1)
 - [Lazard](#lazard) (4)
 - [Legrand](#legrand) (1)
-- [Leidos](#leidos) (4)
+- [Leidos](#leidos) (3)
 - [Lennox](#lennox) (1)
 - [Lennox International](#lennox-international) (1)
 - [Lenovo](#lenovo) (2)
@@ -715,7 +717,6 @@
 - [NBCUniversal](#nbcuniversal) (10)
 - [NCR Voyix](#ncr-voyix) (1)
 - [Nelnet](#nelnet) (2)
-- [Nerdio](#nerdio) (1)
 - [Netflix](#netflix) (12)
 - [Netic](#netic) (1)
 - [Neuralink](#neuralink) (4)
@@ -1126,7 +1127,7 @@
 - [Very Good Security](#very-good-security) (1)
 - [Veryable](#veryable) (1)
 - [Viasat](#viasat) (2)
-- [Viavi Solutions](#viavi-solutions) (3)
+- [Viavi Solutions](#viavi-solutions) (2)
 - [Viridien](#viridien) (1)
 - [Visa](#visa) (13)
 - [Visier Solutions](#visier-solutions) (1)
@@ -1825,6 +1826,12 @@
 | --- | --- | --- | --- |
 | [Database Operations & Reporting Intern](https://argonne.wd1.myworkdayjobs.com/EDU_PUB/job/Lemont-IL-USA/Database-Operations---Reporting-Intern_422455) | Woodridge, IL | AI/ML/Data | 2026-05-09 |
 
+## Arlington County VA
+
+| Title | Location | Department | First seen |
+| --- | --- | --- | --- |
+| [Engineering Data Management Intern](https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1477) | Arlington, VA | AI/ML/Data | 2026-05-10 |
+
 ## Arlo
 
 | Title | Location | Department | First seen |
@@ -2442,7 +2449,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Audio Machine Learning Intern](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Intern_R28343) | London, UK / Remote in USA / Framingham, MA / Stuttgart, Germany | AI/ML/Data | 2026-05-09 |
 | [Machine Learning and DSP Research Intern](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Machine-Learning-and-DSP-Research-Intern_R28324) | Framingham, MA | AI/ML/Data | 2026-05-09 |
 
 ## Boston Consulting Group
@@ -3552,6 +3558,12 @@
 | --- | --- | --- | --- |
 | [DevOps Engineering Intern, I](https://careers.dexcom.com/careers/job/38039370) | Remote | — | 2026-05-09 |
 
+## DiDi Global
+
+| Title | Location | Department | First seen |
+| --- | --- | --- | --- |
+| [Software Engineer Intern - Simulation](https://job-boards.greenhouse.io/didi/jobs/7906174) | San Jose, CA | Hardware | 2026-05-10 |
+
 ## Digs
 
 | Title | Location | Department | First seen |
@@ -4570,7 +4582,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Engineering Intern](https://job-boards.greenhouse.io/glossgenius/jobs/7413808003) | New York, NY | — | 2026-05-09 |
-| [Engineering Intern - Summer 2026](https://job-boards.greenhouse.io/glossgenius/jobs/7600548003) | SF | Software | 2026-05-09 |
 
 ## Glydways
 
@@ -4731,7 +4742,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Handshake AI Research Intern - Multiple Teams](https://jobs.ashbyhq.com/handshake/f01f09ac-4b94-4de0-bbef-e1892df4e0cb/application) | SF | AI/ML/Data | 2026-05-09 |
 | [Machine Learning Engineer Intern](https://jobs.ashbyhq.com/handshake/792a567b-db9f-4e37-8360-2cb37466e154/application) | SF | AI/ML/Data | 2026-05-09 |
 
 ## Harris Computer
@@ -5160,7 +5170,6 @@
 | --- | --- | --- | --- |
 | [Embedded Systems Engineering Intern](https://jobs.jobvite.com/careers/inogen/job/oFzUxfwp) | Plano, TX | — | 2026-05-09 |
 | [Firmware Engineering Intern](https://careers.inogen.com/jobs/16468940-firmware-engineering-intern?tm_job=1456&tm_event=view&tm_company=89058) | Plano, TX | — | 2026-05-09 |
-| [IT Mobile and Web Intern](https://jobs.jobvite.com/inogen/job/oTz6zfwR?nl=1&nl=1&fr=false) | Plano, TX | Software | 2026-05-09 |
 
 ## Insitro
 
@@ -5737,7 +5746,6 @@
 | --- | --- | --- | --- |
 | [Junior Cyber Electromagnetic Activities Software Engineer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Lawton-OK/Junior-CEMA-Software-Engineer-Intern_R-00182554) | Stillwater, OK / Edmond, OK / Oklahoma City, OK / Lawton, OK / Norman, OK | Software | 2026-05-09 |
 | [Data Engineer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00180867) | Fort Belvoir, VA | AI/ML/Data | 2026-05-09 |
-| [Software Developer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00181646) | Annapolis Junction, MD | Software | 2026-05-09 |
 | [Software Engineer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Software-Engineer-Intern_R-00182680-1) | Morgantown, WV / Reston, VA | Software | 2026-05-09 |
 
 ## Lennox
@@ -6515,12 +6523,6 @@
 | --- | --- | --- | --- |
 | [AI Developer Intern](https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Lincoln-NE/AI-Developer-Intern_R22276) | Lincoln, NE / Remote | — | 2026-05-09 |
 | [IT Software Engineer Intern](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---IT-Software-Engineer_R21836) | Lincoln, NE | — | 2026-05-09 |
-
-## Nerdio
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [People Operations & Analytics Intern](https://ats.rippling.com/nerdio-careers/jobs/ee6d6694-544b-48f8-84fe-c1ddf1fcb1c4) | Remote in USA | AI/ML/Data | 2026-05-09 |
 
 ## Netflix
 
@@ -9854,7 +9856,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Engineering Intern](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Chandler-AZ-USA/Engineering-Intern_260004229-1) | Germantown, MD / Chandler, AZ | Hardware | 2026-05-09 |
 | [PNT Intern](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Chandler-HQ-AZ-USA/Summer-PNT-Intern-Chandler_260004588-1) | Chandler, AZ | Hardware | 2026-05-09 |
 | [Wireless Network Lab Intern](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Chandler-AZ-USA/Wireless-Network-Lab-Intern_260004580-1) | Chandler, AZ | AI/ML/Data | 2026-05-09 |
 
