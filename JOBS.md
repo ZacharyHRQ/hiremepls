@@ -1,6 +1,6 @@
 # Open Internships
 
-**3165** internships across **63/63** companies — last updated 2026-05-10.
+**3162** internships across **63/63** companies — last updated 2026-05-10.
 
 ## Companies
 
@@ -132,7 +132,6 @@
 - [Axsome Therapeutics Inc](#axsome-therapeutics-inc) (1)
 - [Axway](#axway) (3)
 - [Aypa Power](#aypa-power) (1)
-- [Badger Meter](#badger-meter) (1)
 - [BAE Systems](#bae-systems) (13)
 - [Baird](#baird) (2)
 - [Baker Hughes](#baker-hughes) (2)
@@ -741,7 +740,6 @@
 - [Northspyre](#northspyre) (1)
 - [Northwestern Mutual](#northwestern-mutual) (3)
 - [Notion](#notion) (9)
-- [Nova-Tech](#nova-tech) (1)
 - [Novaflow](#novaflow) (1)
 - [Nowadays (S23)](#nowadays-s23) (2)
 - [NuHarbor Security](#nuharbor-security) (1)
@@ -931,7 +929,6 @@
 - [Siemens](#siemens) (1)
 - [Siemens Industry Software Inc.](#siemens-industry-software-inc) (1)
 - [Sierra](#sierra) (1)
-- [Sierra Nevada Coporation](#sierra-nevada-coporation) (1)
 - [Sieve](#sieve) (2)
 - [SiFive](#sifive) (2)
 - [Sift](#sift) (2)
@@ -2135,12 +2132,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Technology and Data Intern](https://job-boards.greenhouse.io/aypapower/jobs/5124955008) | Austin, TX | AI/ML/Data | 2026-05-09 |
-
-## Badger Meter
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Software Engineering Intern](https://badgermeter.wd5.myworkdayjobs.com/en-US/US_CareerSite/job/US---WI---Milwaukee-Global-Water-Center/Software-Engineering-Intern_4016) | Milwaukee, WI | Software Engineering | 2026-05-09 |
 
 ## BAE Systems
 
@@ -6717,12 +6708,6 @@
 | [Software Engineer, AI Intern](https://app.ripplematch.com/v2/public/job/968aeefe) | San Francisco, CA | — | 2026-05-09 |
 | [Software Engineer, AI Intern](https://jobs.ashbyhq.com/notion/39d70209-37f6-4623-949b-18fbd8889933) | San Francisco, CA / New York, NY | — | 2026-05-09 |
 
-## Nova-Tech
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [AI Internship](https://novatechengineering.applytojob.com/apply/k0P5ygd5a0/AI-Internship) | Willmar, MN | Data Science, AI & Machine Learning | 2026-05-09 |
-
 ## Novaflow
 
 | Title | Location | Department | First seen |
@@ -8175,12 +8160,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Intern – Agent Development](https://jobs.ashbyhq.com/Sierra/c74d600c-235c-4d42-8546-b178b7adefc2/application) | SF | Software | 2026-05-09 |
-
-## Sierra Nevada Coporation
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Data Scientist Intern](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Sparks-NV/Data-Scientist-Intern---Summer-2026_R0028397) | Sparks, NV | Data Science, AI & Machine Learning | 2026-05-09 |
 
 ## Sieve
 

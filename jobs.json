@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-10T09:10:56.434Z",
+  "generatedAt": "2026-05-10T10:36:00.095Z",
   "companyCount": 63,
   "okCount": 63,
-  "jobCount": 3165,
+  "jobCount": 3162,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -163,9 +163,6 @@
     "a488959b-6874-4563-acb2-af747c3dc6f7": "2026-05-08T19:09:40.576Z",
     "5807803004": "2026-05-08T20:53:38.687Z",
     "simplify:72f18cb6-cac7-4d9a-9e85-1723cd610d38": "2026-05-09T15:28:15.527Z",
-    "simplify:56f3d864-9b3a-4ac0-9156-467c0dab8b75": "2026-05-09T15:28:15.527Z",
-    "simplify:3c8f289f-9cf3-4eaf-bd0f-25f0ed8daf9d": "2026-05-09T15:28:15.527Z",
-    "simplify:8b050634-a52c-4b15-bc2b-062c9fb6cdc7": "2026-05-09T15:28:15.527Z",
     "simplify:f052086b-4d54-41d7-b56a-e9448b160796": "2026-05-09T15:28:15.527Z",
     "simplify:9cbd92a5-bad6-41d7-b1ee-fb170ceb8a49": "2026-05-09T15:28:15.527Z",
     "simplify:82b7337e-4cd0-4fcf-bb39-410bb8c7f212": "2026-05-09T15:28:15.527Z",
@@ -4434,30 +4431,6 @@
       "location": "Remote - San Francisco, California",
       "department": "",
       "company": "Cribl"
-    },
-    {
-      "id": "simplify:56f3d864-9b3a-4ac0-9156-467c0dab8b75",
-      "title": "Data Scientist Intern",
-      "url": "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Sparks-NV/Data-Scientist-Intern---Summer-2026_R0028397",
-      "location": "Sparks, NV",
-      "department": "Data Science, AI & Machine Learning",
-      "company": "Sierra Nevada Coporation"
-    },
-    {
-      "id": "simplify:3c8f289f-9cf3-4eaf-bd0f-25f0ed8daf9d",
-      "title": "AI Internship",
-      "url": "https://novatechengineering.applytojob.com/apply/k0P5ygd5a0/AI-Internship",
-      "location": "Willmar, MN",
-      "department": "Data Science, AI & Machine Learning",
-      "company": "Nova-Tech"
-    },
-    {
-      "id": "simplify:8b050634-a52c-4b15-bc2b-062c9fb6cdc7",
-      "title": "Software Engineering Intern",
-      "url": "https://badgermeter.wd5.myworkdayjobs.com/en-US/US_CareerSite/job/US---WI---Milwaukee-Global-Water-Center/Software-Engineering-Intern_4016",
-      "location": "Milwaukee, WI",
-      "department": "Software Engineering",
-      "company": "Badger Meter"
     },
     {
       "id": "simplify:f052086b-4d54-41d7-b56a-e9448b160796",
