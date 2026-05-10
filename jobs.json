@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-10T16:08:00.946Z",
+  "generatedAt": "2026-05-10T17:10:42.717Z",
   "companyCount": 63,
   "okCount": 63,
-  "jobCount": 3158,
+  "jobCount": 3159,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -3161,7 +3161,8 @@
     "simplify:07de287a-60cf-4318-9941-284ab79b4148": "2026-05-09T22:49:27.579Z",
     "simplify:64612380-a652-42ec-ad96-2729e3cce269": "2026-05-09T23:37:20.982Z",
     "simplify:59ce8bbc-ad44-476f-912b-d67774291a4b": "2026-05-10T04:57:30.363Z",
-    "simplify:246f708a-1831-42ca-8aaa-ec29b6c3dd90": "2026-05-10T04:57:30.363Z"
+    "simplify:246f708a-1831-42ca-8aaa-ec29b6c3dd90": "2026-05-10T04:57:30.363Z",
+    "simplify:1654684c-ca1f-4d3e-9dc0-fc8e1f470e37": "2026-05-10T17:10:42.717Z"
   },
   "jobs": [
     {
@@ -11883,6 +11884,14 @@
       "location": "Seattle, WA",
       "department": "Software",
       "company": "ByteDance"
+    },
+    {
+      "id": "simplify:1654684c-ca1f-4d3e-9dc0-fc8e1f470e37",
+      "title": "Software Engineer Intern - TikTok Search Architecture - BS/MS",
+      "url": "https://lifeattiktok.com/search/7534626306991016199",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "TikTok"
     },
     {
       "id": "simplify:8d74e58c-4516-45d6-92ed-119cad8972ae",

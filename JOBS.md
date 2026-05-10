@@ -1,6 +1,6 @@
 # Open Internships
 
-**3158** internships across **63/63** companies — last updated 2026-05-10.
+**3159** internships across **63/63** companies — last updated 2026-05-10.
 
 ## Companies
 
@@ -1048,7 +1048,7 @@
 - [thyssenkrupp](#thyssenkrupp) (1)
 - [TIFIN](#tifin) (1)
 - [Tiktok](#tiktok) (1)
-- [TikTok](#tiktok) (185)
+- [TikTok](#tiktok) (186)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (2)
 - [TNS](#tns) (1)
@@ -9116,6 +9116,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Software Engineer Intern - TikTok Search Architecture - BS/MS](https://lifeattiktok.com/search/7534626306991016199) | San Jose, CA | Software | 2026-05-10 |
 | [AI Agent Project Intern](https://lifeattiktok.com/search/7605996823695116597) | London, UK | AI/ML/Data | 2026-05-09 |
 | [AI Product Operations Intern](https://lifeattiktok.com/search/7611950589973186821) | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [AI/ML Software Engineer Intern - Data Platform](https://lifeattiktok.com/search/7499689149813950727) | San Jose, CA | Software | 2026-05-09 |
