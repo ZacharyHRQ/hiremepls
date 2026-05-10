@@ -1,6 +1,6 @@
 # Open Internships
 
-**3159** internships across **63/63** companies — last updated 2026-05-10.
+**3158** internships across **63/63** companies — last updated 2026-05-10.
 
 ## Companies
 
@@ -273,7 +273,6 @@
 - [Copeland](#copeland) (1)
 - [Corgi](#corgi) (1)
 - [Corning](#corning) (1)
-- [Corteva](#corteva) (1)
 - [CoStar Group](#costar-group) (1)
 - [Cotiviti](#cotiviti) (3)
 - [Covestro](#covestro) (1)
@@ -3231,12 +3230,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Corporate Sustainability Intern - Summer 2026](https://corningjobs.corning.com/job/Corning-Corporate-Sustainability-Intern-Summer-2026-NY-14831/1335401200/?ats=successfactors) | Elmira, NY | AI/ML/Data | 2026-05-09 |
-
-## Corteva
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Data Management and Dashboard Development Intern](https://corteva.wd5.myworkdayjobs.com/en-US/ctp/job/Grimes-Iowa-United-States/Data-Management-and-Dashboard-Development-Intern_243176W-1) | Grimes, IA | AI/ML/Data | 2026-05-09 |
 
 ## CoStar Group
 
@@ -7244,8 +7237,8 @@
 | [2027 Point72 Academy Investment Analyst Summer Internship Program - Japan](https://boards.greenhouse.io/point72/jobs/8491138002?gh_jid=8491138002) | Japan | — | 2026-05-06 |
 | [2027 Point72 Academy Investment Analyst Summer Internship Program - Singapore](https://boards.greenhouse.io/point72/jobs/8491128002?gh_jid=8491128002) | Singapore | — | 2026-05-06 |
 | [2027 Point72 Academy Investment Analyst Summer Internship Program - US](https://boards.greenhouse.io/point72/jobs/8295501002?gh_jid=8295501002) | United States | — | 2026-05-06 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | Hong Kong | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | Singapore | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | Hong Kong | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | New York | — | 2026-05-06 |
 | [Quantitative Research Intern](https://boards.greenhouse.io/point72/jobs/7297667002?gh_jid=7297667002) | New York, Seattle | — | 2026-05-06 |

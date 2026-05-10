@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-10T18:04:24.112Z",
+  "generatedAt": "2026-05-10T19:21:39.863Z",
   "companyCount": 63,
   "okCount": 63,
-  "jobCount": 3159,
+  "jobCount": 3158,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -166,7 +166,6 @@
     "simplify:9cbd92a5-bad6-41d7-b1ee-fb170ceb8a49": "2026-05-09T15:28:15.527Z",
     "simplify:0cac0d03-2600-4339-9746-f86b88e23d15": "2026-05-09T15:28:15.527Z",
     "simplify:e971a3e2-631b-4ad9-ab78-effc38c864ed": "2026-05-09T15:28:15.527Z",
-    "simplify:5e11867d-a84c-44b8-bc0e-9e59bef86842": "2026-05-09T15:28:15.527Z",
     "simplify:b46b2fc2-90e7-4bd0-8727-83a1d71ce09d": "2026-05-09T15:28:15.527Z",
     "simplify:7227ef8d-ea3a-4fc5-8432-f6ec088f3f25": "2026-05-09T15:28:15.527Z",
     "simplify:70ecddf1-c1e3-4dbf-ae3f-822bf987727a": "2026-05-09T15:28:15.527Z",
@@ -3534,18 +3533,18 @@
       "company": "Point72"
     },
     {
-      "id": "7297611002",
-      "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
-      "department": "",
-      "company": "Point72"
-    },
-    {
       "id": "7297598002",
       "title": "Cubist Quantitative Researcher Intern",
       "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
       "location": "Singapore",
+      "department": "",
+      "company": "Point72"
+    },
+    {
+      "id": "7297611002",
+      "title": "Cubist Quantitative Researcher Intern",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72"
     },
@@ -4444,14 +4443,6 @@
       "location": "Toronto, ON, Canada",
       "department": "Software",
       "company": "Tenstorrent"
-    },
-    {
-      "id": "simplify:5e11867d-a84c-44b8-bc0e-9e59bef86842",
-      "title": "Data Management and Dashboard Development Intern",
-      "url": "https://corteva.wd5.myworkdayjobs.com/en-US/ctp/job/Grimes-Iowa-United-States/Data-Management-and-Dashboard-Development-Intern_243176W-1",
-      "location": "Grimes, IA",
-      "department": "AI/ML/Data",
-      "company": "Corteva"
     },
     {
       "id": "simplify:b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
