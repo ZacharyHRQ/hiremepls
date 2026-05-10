@@ -1,6 +1,6 @@
 # Open Internships
 
-**3160** internships across **63/63** companies — last updated 2026-05-10.
+**3158** internships across **63/63** companies — last updated 2026-05-10.
 
 ## Companies
 
@@ -544,7 +544,6 @@
 - [Inizio](#inizio) (1)
 - [Innovative Defense Technologies](#innovative-defense-technologies) (1)
 - [Innovative Defense Technologies (IDT)](#innovative-defense-technologies-idt) (2)
-- [Innovative Systems](#innovative-systems) (1)
 - [Inogen](#inogen) (2)
 - [Insitro](#insitro) (1)
 - [Insomniac](#insomniac) (1)
@@ -847,7 +846,7 @@
 - [Realty Income](#realty-income) (1)
 - [Red Aspen](#red-aspen) (1)
 - [Red Bull](#red-bull) (2)
-- [Red Hat](#red-hat) (3)
+- [Red Hat](#red-hat) (2)
 - [Reframe Systems](#reframe-systems) (1)
 - [REGENT](#regent) (1)
 - [Reingold](#reingold) (1)
@@ -5137,12 +5136,6 @@
 | [Software Engineer Intern](https://jobs.jobvite.com/careers/idtus/job/oiEfyfwt/apply) | Arlington, VA / Mount Laurel, NJ | — | 2026-05-09 |
 | [Software Test Engineer Intern](https://jobs.jobvite.com/careers/idtus/job/oLGfyfwY) | Arlington, VA | — | 2026-05-09 |
 
-## Innovative Systems
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Software Engineering Intern/Co-op](https://career.innovativesystems.com/apply/XZKtjZUJ5M/InternCoop-Summer-2026-Software-Engineering) | Pittsburgh, PA | Software Engineering | 2026-05-09 |
-
 ## Inogen
 
 | Title | Location | Department | First seen |
@@ -7093,7 +7086,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Software Engineering Internship](https://job-boards.greenhouse.io/perpay/jobs/4076988007) | Philadelphia, PA | Software Engineering | 2026-05-09 |
+| [Software Engineering Intern](https://job-boards.greenhouse.io/perpay/jobs/4076988007) | Philadelphia, PA | Software | 2026-05-09 |
 
 ## Perplexity
 
@@ -7535,7 +7528,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Machine Learning Systems Research Intern - PhD - Summer 2026](https://redhat.wd5.myworkdayjobs.com/jobs/job/Boston/Machine-Learning-Systems-Research-Intern--PhD--Summer-2026_R-052520) | Boston, MA | AI/ML/Data | 2026-05-09 |
-| [Software Engineer Intern](https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Boston/Software-Engineer-Intern_R-050437) | Boston, MA | Software Engineering | 2026-05-09 |
 | [Software Engineer Intern](https://redhat.wd5.myworkdayjobs.com/en-US/jobs/details/Software-Engineer-Intern_R-050088?q=intern) | Raleigh, NC / Boston, MA / Lowell, MA | — | 2026-05-09 |
 
 ## Reframe Systems
