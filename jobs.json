@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-10T04:57:30.363Z",
+  "generatedAt": "2026-05-10T07:23:42.585Z",
   "companyCount": 63,
   "okCount": 63,
-  "jobCount": 3173,
+  "jobCount": 3168,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -504,7 +504,6 @@
     "simplify:20d5ae1c-50e7-48e9-81d2-5bb3126aafc1": "2026-05-09T15:28:15.527Z",
     "simplify:57069425-c65a-4977-9aa7-31b6c6e7fa62": "2026-05-09T15:28:15.527Z",
     "simplify:aaa52361-272d-4413-9076-7e2642ad1081": "2026-05-09T15:28:15.527Z",
-    "simplify:01314c42-df97-45a0-a758-008e520bc5df": "2026-05-09T15:28:15.527Z",
     "simplify:1e89c37c-372a-447a-ba03-5b8c0d1c2220": "2026-05-09T15:28:15.527Z",
     "simplify:137d95ae-c624-42b5-9ce6-03423cff1d22": "2026-05-09T15:28:15.527Z",
     "simplify:2d2b17a5-a5a2-45ca-8c32-a5a207c63a81": "2026-05-09T15:28:15.527Z",
@@ -551,7 +550,6 @@
     "simplify:f9741a17-06d3-4c2c-a2e5-75d3bcc10db9": "2026-05-09T15:28:15.527Z",
     "simplify:7cbf5e66-95b6-4b66-b41f-fa9cdeadcadc": "2026-05-09T15:28:15.527Z",
     "simplify:7d1ede0e-87a7-4aac-844c-13a130fc3494": "2026-05-09T15:28:15.527Z",
-    "simplify:3924f93e-81f6-4cf4-b4c9-f160bdb0181b": "2026-05-09T15:28:15.527Z",
     "simplify:44c02cb9-b6cf-4ed5-a37d-30987289d62d": "2026-05-09T15:28:15.527Z",
     "simplify:42b0f3dc-9fe2-4f26-ac9b-eaaa21075017": "2026-05-09T15:28:15.527Z",
     "simplify:d6335bab-45ee-4dc3-910a-5de5407e523f": "2026-05-09T15:28:15.527Z",
@@ -944,7 +942,6 @@
     "simplify:312255ea-ba5b-41d0-865e-d655aa4fe8b6": "2026-05-09T15:28:15.527Z",
     "simplify:e4becf68-5294-4c91-a10c-4626a344f605": "2026-05-09T15:28:15.527Z",
     "simplify:4261438c-b2b0-4cdc-a13d-9642454eef75": "2026-05-09T15:28:15.527Z",
-    "simplify:05b45fd6-9242-4831-9e4b-a3d4e4ff7f88": "2026-05-09T15:28:15.527Z",
     "simplify:d39d9a6d-4aa1-459e-ba34-6ac2ec36d2f3": "2026-05-09T15:28:15.527Z",
     "simplify:a3c5aed7-4000-47f3-b2fe-cf11f354915f": "2026-05-09T15:28:15.527Z",
     "simplify:cce7f674-04ef-491a-8e8d-9adbfff6a06f": "2026-05-09T15:28:15.527Z",
@@ -1159,7 +1156,6 @@
     "simplify:417cd806-6c44-4fa1-80fa-62572cb7caed": "2026-05-09T15:28:15.527Z",
     "simplify:113f5b27-2163-45e7-8895-44c1b2f2e666": "2026-05-09T15:28:15.527Z",
     "simplify:224f22fe-346c-4b66-bcb8-1203217bf299": "2026-05-09T15:28:15.527Z",
-    "simplify:11041930-9a70-4c9f-9146-70f98f4e4af0": "2026-05-09T15:28:15.527Z",
     "simplify:c5dae835-0ecf-41cd-9854-1f9ec35b7678": "2026-05-09T15:28:15.527Z",
     "simplify:749178b6-d191-46be-b7da-672aa53ecff9": "2026-05-09T15:28:15.527Z",
     "simplify:61c7abb1-f25a-4a8e-a600-c3d596da442d": "2026-05-09T15:28:15.527Z",
@@ -3054,7 +3050,6 @@
     "simplify:e81b17bf-6d9c-4069-a079-83bc244eaa90": "2026-05-09T16:13:52.691Z",
     "simplify:f2a2ded2-d68e-48f3-93f7-97c6a629d121": "2026-05-09T16:13:52.691Z",
     "simplify:f62a6cc8-186a-451b-a238-63a2cf46dc75": "2026-05-09T16:13:52.691Z",
-    "simplify:c364d77b-5711-4f3e-907d-2cee94f2fa7f": "2026-05-09T16:13:52.691Z",
     "simplify:d8a3bfc5-0098-485b-921d-5f013db0c28a": "2026-05-09T16:13:52.691Z",
     "simplify:60ba9adc-f6bc-4824-9dae-0905d1feed51": "2026-05-09T16:13:52.691Z",
     "simplify:d46e1fdf-916e-4bec-a994-94faf8a29609": "2026-05-09T16:13:52.691Z",
@@ -7236,14 +7231,6 @@
       "company": "GlobalFoundries"
     },
     {
-      "id": "simplify:01314c42-df97-45a0-a758-008e520bc5df",
-      "title": "Technology Intern Program",
-      "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2026-Technology-Internship-Program_R78761",
-      "location": "Buffalo, NY",
-      "department": "Software",
-      "company": "M&T Bank"
-    },
-    {
       "id": "simplify:1e89c37c-372a-447a-ba03-5b8c0d1c2220",
       "title": "Research Intern - Foundations of GenAI",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556659148",
@@ -7634,14 +7621,6 @@
       "location": "London, UK",
       "department": "AI/ML/Data",
       "company": "Boston Consulting Group"
-    },
-    {
-      "id": "simplify:3924f93e-81f6-4cf4-b4c9-f160bdb0181b",
-      "title": "Software Engineering Intern",
-      "url": "https://assaabloy.jobs2web.com/job/Salem-Software-Engineering-Intern-VA-24153/1286979601/?ats=successfactors",
-      "location": "Roanoke, VA",
-      "department": "Software",
-      "company": "ASSA ABLOY"
     },
     {
       "id": "simplify:44c02cb9-b6cf-4ed5-a37d-30987289d62d",
@@ -11044,14 +11023,6 @@
       "company": "SS&C"
     },
     {
-      "id": "simplify:05b45fd6-9242-4831-9e4b-a3d4e4ff7f88",
-      "title": "SAS Intern-2",
-      "url": "https://dallascollege.wd1.myworkdayjobs.com/Dallas_College_Careers/job/El-Centro-Campus/SAS-Intern-2_R12311",
-      "location": "Dallas, TX",
-      "department": "AI/ML/Data",
-      "company": "Dallas College"
-    },
-    {
       "id": "simplify:d39d9a6d-4aa1-459e-ba34-6ac2ec36d2f3",
       "title": "Intern – Product and Marketing Rotation",
       "url": "https://job-boards.greenhouse.io/octaura/jobs/4719079007",
@@ -12924,14 +12895,6 @@
       "company": "BillionToOne"
     },
     {
-      "id": "simplify:11041930-9a70-4c9f-9146-70f98f4e4af0",
-      "title": "Student Hourly Assistant – Intern - Data Analysis",
-      "url": "https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Student-Hourly-Assistant---Summer-Intern--Data-Analysis-_R-092347",
-      "location": "Prairie View, TX",
-      "department": "AI/ML/Data",
-      "company": "Prairie View A&M University"
-    },
-    {
       "id": "simplify:c5dae835-0ecf-41cd-9854-1f9ec35b7678",
       "title": "Intern/Co-op - Internal AI Operations",
       "url": "https://careers.hootsuite.com/job/?gh_jid=7808288",
@@ -14130,14 +14093,6 @@
       "location": "Toronto, ON, Canada",
       "department": "AI/ML/Data",
       "company": "Royal Bank of Canada"
-    },
-    {
-      "id": "simplify:c364d77b-5711-4f3e-907d-2cee94f2fa7f",
-      "title": "Student Intern - Data Analysis",
-      "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Prairie-View-TX/Student-Summer-Intern---CREDIT-Center---Data-Analysis_R-092347",
-      "location": "Prairie View, TX",
-      "department": "AI/ML/Data",
-      "company": "Texas A&M University System"
     },
     {
       "id": "simplify:d8a3bfc5-0098-485b-921d-5f013db0c28a",

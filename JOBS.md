@@ -1,6 +1,6 @@
 # Open Internships
 
-**3173** internships across **63/63** companies — last updated 2026-05-10.
+**3168** internships across **63/63** companies — last updated 2026-05-10.
 
 ## Companies
 
@@ -103,7 +103,7 @@
 - [ASM Global](#asm-global) (4)
 - [ASML](#asml) (2)
 - [AspenTech](#aspentech) (4)
-- [ASSA ABLOY](#assa-abloy) (5)
+- [ASSA ABLOY](#assa-abloy) (4)
 - [AssetMark](#assetmark) (3)
 - [Astera Labs](#astera-labs) (1)
 - [Astranis](#astranis) (5)
@@ -303,7 +303,6 @@
 - [D. E. Shaw](#d-e-shaw) (1)
 - [D.E Shaw](#d-e-shaw) (2)
 - [Dairyland Power Cooperative](#dairyland-power-cooperative) (1)
-- [Dallas College](#dallas-college) (1)
 - [Danaher Corporation](#danaher-corporation) (1)
 - [Dandy](#dandy) (1)
 - [Dark Wolf Solutions](#dark-wolf-solutions) (2)
@@ -648,7 +647,7 @@
 - [Lunar Energy](#lunar-energy) (2)
 - [Lyft](#lyft) (7)
 - [Lynk](#lynk) (1)
-- [M&T Bank](#m-t-bank) (2)
+- [M&T Bank](#m-t-bank) (1)
 - [Mach9](#mach9) (2)
 - [Mackenzie Investments](#mackenzie-investments) (5)
 - [Macy's](#macy-s) (2)
@@ -813,7 +812,6 @@
 - [Poshmark](#poshmark) (1)
 - [PowerSchool](#powerschool) (1)
 - [Practising Law Institute](#practising-law-institute) (1)
-- [Prairie View A&M University](#prairie-view-a-m-university) (1)
 - [Preferred Risk Insurance Services](#preferred-risk-insurance-services) (2)
 - [Premier](#premier) (1)
 - [Premier, Inc.](#premier-inc) (1)
@@ -1029,7 +1027,6 @@
 - [Tessera Labs](#tessera-labs) (3)
 - [TetraMem](#tetramem) (2)
 - [TETRAMEM](#tetramem) (1)
-- [Texas A&M University System](#texas-a-m-university-system) (1)
 - [Texas Farm Bureau Casualty Insurance Company](#texas-farm-bureau-casualty-insurance-company) (1)
 - [Texas Instruments](#texas-instruments) (3)
 - [Thales](#thales) (3)
@@ -1938,7 +1935,6 @@
 | [Intern](https://assaabloy.jobs2web.com/job/Monroe-Summer-Interns-NC-28112/983330801/?ats=successfactors) | Indian Trail, NC | Hardware | 2026-05-09 |
 | [Pricing and Market Analytics Intern](https://assaabloy.jobs2web.com/job/Lake-Forest-Pricing-and-Market-Analytics-Intern-CA-92610/1388105433/?ats=successfactors) | Lake Forest, CA | AI/ML/Data | 2026-05-09 |
 | [Product Management Intern](https://assaabloy.jobs2web.com/job/Cardiff-Product-Management-Intern-Wale-CF15-7AB/1389340533/?ats=successfactors) | Cardiff, UK | Product | 2026-05-09 |
-| [Software Engineering Intern](https://assaabloy.jobs2web.com/job/Salem-Software-Engineering-Intern-VA-24153/1286979601/?ats=successfactors) | Roanoke, VA | Software | 2026-05-09 |
 | [Software Product Management Intern](https://assaabloy.jobs2web.com/job/Lake-Forest-Software-Product-Management-Intern-CA-92610/1293005601/?ats=successfactors) | Lake Forest, CA | Product | 2026-05-09 |
 
 ## AssetMark
@@ -3438,12 +3434,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Regional Transmission Projects Intern](https://dairynet.wd1.myworkdayjobs.com/DPCcareers/job/La-Crosse-Wisconsin/Intern--Regional-Transmission-Projects_JR100960) | Winona, MN | AI/ML/Data | 2026-05-09 |
-
-## Dallas College
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [SAS Intern-2](https://dallascollege.wd1.myworkdayjobs.com/Dallas_College_Careers/job/El-Centro-Campus/SAS-Intern-2_R12311) | Dallas, TX | AI/ML/Data | 2026-05-09 |
 
 ## Danaher Corporation
 
@@ -5954,7 +5944,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [2026 Technology Internship Program](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2026-Technology-Internship-Program_R72035?jobFamily=8cc34509fd6910020c408e4228020000) | Buffalo, NY | — | 2026-05-09 |
-| [Technology Intern Program](https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2026-Technology-Internship-Program_R78761) | Buffalo, NY | Software | 2026-05-09 |
 
 ## Mach9
 
@@ -7309,12 +7298,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Product Management Intern](https://job-boards.greenhouse.io/practisinglawinstitute/jobs/4673072006) | NYC | Product | 2026-05-09 |
-
-## Prairie View A&M University
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Student Hourly Assistant – Intern - Data Analysis](https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Student-Hourly-Assistant---Summer-Intern--Data-Analysis-_R-092347) | Prairie View, TX | AI/ML/Data | 2026-05-09 |
 
 ## Preferred Risk Insurance Services
 
@@ -8998,12 +8981,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Software Engineer Intern, Embedded](https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job) | San Jose, CA | — | 2026-05-09 |
-
-## Texas A&M University System
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Student Intern - Data Analysis](https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Prairie-View-TX/Student-Summer-Intern---CREDIT-Center---Data-Analysis_R-092347) | Prairie View, TX | AI/ML/Data | 2026-05-09 |
 
 ## Texas Farm Bureau Casualty Insurance Company
 
