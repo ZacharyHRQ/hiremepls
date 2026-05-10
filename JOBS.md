@@ -1,6 +1,6 @@
 # Open Internships
 
-**3158** internships across **63/63** companies — last updated 2026-05-10.
+**3157** internships across **63/63** companies — last updated 2026-05-10.
 
 ## Companies
 
@@ -890,7 +890,7 @@
 - [Samsung Research America](#samsung-research-america) (3)
 - [Sandhills Global](#sandhills-global) (1)
 - [Sandisk](#sandisk) (3)
-- [Sanofi](#sanofi) (2)
+- [Sanofi](#sanofi) (1)
 - [Santander](#santander) (4)
 - [SAP](#sap) (2)
 - [Sartorius](#sartorius) (1)
@@ -7888,7 +7888,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Apprenticeship Intern - Quality Data Insight](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Gentilly/apprenticeship-12-months---quality-data-insight_R2855150) | New Orleans, LA | AI/ML/Data | 2026-05-09 |
 | [Global MSAT Automation Engineer Intern](https://jobs.sanofi.com/en/job/-/-/2649/29541565056) | Framingham, MA | — | 2026-05-09 |
 
 ## Santander

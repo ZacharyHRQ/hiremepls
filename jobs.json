@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-10T22:02:35.209Z",
+  "generatedAt": "2026-05-10T23:06:11.899Z",
   "companyCount": 63,
   "okCount": 63,
-  "jobCount": 3158,
+  "jobCount": 3157,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -1376,7 +1376,6 @@
     "simplify:60ffaa3c-d134-434f-bf25-883c4c228770": "2026-05-09T15:28:15.527Z",
     "simplify:8258cd6e-f5a7-4f2e-9491-07d3535cc629": "2026-05-09T15:28:15.527Z",
     "simplify:04d53088-843c-42c2-a307-0e681d1a57bc": "2026-05-09T15:28:15.527Z",
-    "simplify:bac17122-72f7-45cc-a027-3a7f5ff4f441": "2026-05-09T15:28:15.527Z",
     "simplify:11de0fcc-dda9-4efc-8310-e4d7f8276867": "2026-05-09T15:28:15.527Z",
     "simplify:519e5f56-ef59-4937-bceb-825f6fdbb760": "2026-05-09T15:28:15.527Z",
     "simplify:fdf66316-7107-429f-8489-abb929ab95ee": "2026-05-09T15:28:15.527Z",
@@ -14859,14 +14858,6 @@
       "location": "Nova Scotia, Canada",
       "department": "AI/ML/Data",
       "company": "Royal Bank of Canada"
-    },
-    {
-      "id": "simplify:bac17122-72f7-45cc-a027-3a7f5ff4f441",
-      "title": "Apprenticeship Intern - Quality Data Insight",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Gentilly/apprenticeship-12-months---quality-data-insight_R2855150",
-      "location": "New Orleans, LA",
-      "department": "AI/ML/Data",
-      "company": "Sanofi"
     },
     {
       "id": "simplify:11de0fcc-dda9-4efc-8310-e4d7f8276867",
