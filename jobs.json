@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-09T23:37:20.982Z",
+  "generatedAt": "2026-05-10T01:24:28.584Z",
   "companyCount": 63,
   "okCount": 63,
-  "jobCount": 3181,
+  "jobCount": 3178,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -498,7 +498,6 @@
     "simplify:f7d5b131-06e8-4d41-8a6a-3513004116da": "2026-05-09T15:28:15.527Z",
     "simplify:e5079f17-abaa-4ea4-ad12-74f4c1cd363c": "2026-05-09T15:28:15.527Z",
     "simplify:e26af8d2-048a-4565-b460-751c8fc2eaf7": "2026-05-09T15:28:15.527Z",
-    "simplify:a785abe5-ba03-4388-af75-d74873170340": "2026-05-09T15:28:15.527Z",
     "simplify:88021173-25d9-47e9-aaeb-eb4c006dda89": "2026-05-09T15:28:15.527Z",
     "simplify:926e2a24-504c-4649-8cf5-84eecf247865": "2026-05-09T15:28:15.527Z",
     "simplify:46339e2a-a055-40e1-bbdf-4dceded6cfa0": "2026-05-09T15:28:15.527Z",
@@ -727,7 +726,6 @@
     "simplify:413d4356-f795-4ec6-a74e-db82af5f19cb": "2026-05-09T15:28:15.527Z",
     "simplify:88d6275e-f9ce-4322-a25e-8665865b7db3": "2026-05-09T15:28:15.527Z",
     "simplify:5fce2534-de42-4f2b-b234-6c2b8f55c372": "2026-05-09T15:28:15.527Z",
-    "simplify:4e282982-f445-4647-a7dc-af27c23c126a": "2026-05-09T15:28:15.527Z",
     "simplify:aa19940d-1eba-4f77-9a8e-71bced5e8820": "2026-05-09T15:28:15.527Z",
     "simplify:21800393-c689-43a0-888c-74ab252cf3a3": "2026-05-09T15:28:15.527Z",
     "simplify:223463e8-92c2-40ee-861a-ab027ca852c1": "2026-05-09T15:28:15.527Z",
@@ -849,7 +847,6 @@
     "simplify:b08ddabb-7dbc-441c-abc5-cc3e817e4d82": "2026-05-09T15:28:15.527Z",
     "simplify:01c91d29-446f-42d7-9443-d6e88f5d0cb6": "2026-05-09T15:28:15.527Z",
     "simplify:efecb7b5-256b-435f-a565-b512df915e7a": "2026-05-09T15:28:15.527Z",
-    "simplify:e811ec67-6193-4537-8ffb-d851449ed537": "2026-05-09T15:28:15.527Z",
     "simplify:b8ae5631-fcba-47bf-a0d0-e14c18d4a882": "2026-05-09T15:28:15.527Z",
     "simplify:2a548980-d0dc-4f6d-bffa-4530eae92c4b": "2026-05-09T15:28:15.527Z",
     "simplify:f16bea76-aabe-4992-b704-b4655433ae5d": "2026-05-09T15:28:15.527Z",
@@ -7188,14 +7185,6 @@
       "company": "LMI "
     },
     {
-      "id": "simplify:a785abe5-ba03-4388-af75-d74873170340",
-      "title": "Intern – Generative AI Research Engineer",
-      "url": "https://careers-cotiviti.icims.com/jobs/17454/job?mobile=true&needsRedirect=false",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "Cotiviti"
-    },
-    {
       "id": "simplify:88021173-25d9-47e9-aaeb-eb4c006dda89",
       "title": "AI Engineer Intern - Usps - Summer 2026",
       "url": "https://careers-lmi.icims.com/jobs/13491/job?mobile=true&needsRedirect=false",
@@ -9188,14 +9177,6 @@
       "company": "VSP Vision"
     },
     {
-      "id": "simplify:4e282982-f445-4647-a7dc-af27c23c126a",
-      "title": "Product Operations Intern - SMB Product Vertical - BS/MS",
-      "url": "https://lifeattiktok.com/search/7582674481097853237",
-      "location": "San Jose, CA",
-      "department": "Product",
-      "company": "TikTok"
-    },
-    {
       "id": "simplify:aa19940d-1eba-4f77-9a8e-71bced5e8820",
       "title": "Utility Solutions Intern",
       "url": "https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1408936",
@@ -10242,14 +10223,6 @@
       "location": "SF",
       "department": "AI/ML/Data",
       "company": "Center for AI Safety"
-    },
-    {
-      "id": "simplify:e811ec67-6193-4537-8ffb-d851449ed537",
-      "title": "Intern - Defect Data Analysis Systems",
-      "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2504927",
-      "location": "Wappingers Falls, NY",
-      "department": "AI/ML/Data",
-      "company": "onsemi"
     },
     {
       "id": "simplify:b8ae5631-fcba-47bf-a0d0-e14c18d4a882",

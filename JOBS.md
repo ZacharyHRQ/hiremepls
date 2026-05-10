@@ -1,6 +1,6 @@
 # Open Internships
 
-**3181** internships across **63/63** companies — last updated 2026-05-09.
+**3178** internships across **63/63** companies — last updated 2026-05-10.
 
 ## Companies
 
@@ -275,7 +275,7 @@
 - [Corning](#corning) (1)
 - [Corteva](#corteva) (1)
 - [CoStar Group](#costar-group) (1)
-- [Cotiviti](#cotiviti) (4)
+- [Cotiviti](#cotiviti) (3)
 - [Covestro](#covestro) (1)
 - [Cox Automotive](#cox-automotive) (1)
 - [Cox Enterprises](#cox-enterprises) (3)
@@ -757,7 +757,7 @@
 - [OmniSource](#omnisource) (1)
 - [On the Go](#on-the-go) (1)
 - [ONE Finance](#one-finance) (1)
-- [onsemi](#onsemi) (6)
+- [onsemi](#onsemi) (5)
 - [Ontario Teachers' Pension Plan](#ontario-teachers-pension-plan) (2)
 - [Onto Innovation](#onto-innovation) (3)
 - [OpenAI](#openai) (2)
@@ -1054,7 +1054,7 @@
 - [thyssenkrupp](#thyssenkrupp) (1)
 - [TIFIN](#tifin) (1)
 - [Tiktok](#tiktok) (1)
-- [TikTok](#tiktok) (187)
+- [TikTok](#tiktok) (186)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (2)
 - [TNS](#tns) (1)
@@ -3260,7 +3260,6 @@
 | --- | --- | --- | --- |
 | [Generative AI Research Engineer Intern](https://careers-cotiviti.icims.com/jobs/18971/job?mobile=true&needsRedirect=false) | Remote in USA | AI/ML/Data | 2026-05-09 |
 | [Generative AI/Agentic AI/Research Intern](https://careers-cotiviti.icims.com/jobs/18929/job?mobile=true&needsRedirect=false) | Remote in USA | AI/ML/Data | 2026-05-09 |
-| [Intern – Generative AI Research Engineer](https://careers-cotiviti.icims.com/jobs/17454/job?mobile=true&needsRedirect=false) | Remote in USA | AI/ML/Data | 2026-05-09 |
 | [Temporary Intern - Agentic AI & Neural-Symbolic Systems - Healthcare](https://careers-cotiviti.icims.com/jobs/19075/job?mobile=true&needsRedirect=false) | Remote in USA | Software | 2026-05-09 |
 
 ## Covestro
@@ -6861,7 +6860,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Applications Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2504204) | Scottsdale, AZ | — | 2026-05-09 |
-| [Intern - Defect Data Analysis Systems](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2504927) | Wappingers Falls, NY | AI/ML/Data | 2026-05-09 |
 | [LLM Research Intern: Physics-AI-Powered Analysis of Atomistic Systems](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2503970) | Fairview, OR | AI/ML/Data | 2026-05-09 |
 | [Quality and Reliability Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2503669) | Allen, TX | AI/ML/Data | 2026-05-09 |
 | [Reticle Data Prep Software Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2504937) | Allen, TX | Hardware | 2026-05-09 |
@@ -9280,7 +9278,6 @@
 | [Product Manager Project Intern - Brand Effectiveness - Monetization Product](https://lifeattiktok.com/search/7628994830705871157) | San Jose, CA | Product | 2026-05-09 |
 | [Product Manager Project Intern - Brand Innovation - Monetization Product](https://lifeattiktok.com/search/7636024964612770101) | San Jose, CA | Product | 2026-05-09 |
 | [Product Manager Project Intern - Tiktok LIVE-Ecosystem Governance - 2026 Start](https://lifeattiktok.com/search/7598849238706735365) | San Jose, CA | Product | 2026-05-09 |
-| [Product Operations Intern - SMB Product Vertical - BS/MS](https://lifeattiktok.com/search/7582674481097853237) | San Jose, CA | Product | 2026-05-09 |
 | [Product Operations Project Intern](https://lifeattiktok.com/search/7626859143691766021) | NYC | Product | 2026-05-09 |
 | [Product Operations Project Intern - Advertising - Creative](https://lifeattiktok.com/search/7630838458010241333) | London, UK | Product | 2026-05-09 |
 | [Product Solutions and Operations Intern - Commerce Ads - BS/MS](https://lifeattiktok.com/search/7600290735611840821) | San Jose, CA | Product | 2026-05-09 |
