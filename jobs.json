@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T23:06:11.899Z",
+  "generatedAt": "2026-05-11T00:06:33.325Z",
   "companyCount": 63,
   "okCount": 63,
   "jobCount": 3157,
@@ -295,7 +295,6 @@
     "simplify:64470535-dc7e-4d7f-a6fa-66d37a4260fa": "2026-05-09T15:28:15.527Z",
     "simplify:e86ff4c9-3a3c-48b9-9994-00dc8a3453a8": "2026-05-09T15:28:15.527Z",
     "simplify:a6f17191-4de2-4b55-ae85-73056fa3b608": "2026-05-09T15:28:15.527Z",
-    "simplify:2bb44dc9-b217-44bd-b0b7-b6aebd3ad58d": "2026-05-09T15:28:15.527Z",
     "simplify:c4a9beb0-b616-4c71-a7ec-ea8276002b31": "2026-05-09T15:28:15.527Z",
     "simplify:a98da37d-f2b8-42b4-ada2-c3015f537130": "2026-05-09T15:28:15.527Z",
     "simplify:5a0de67c-94b7-4303-8869-fd2a1c1b129e": "2026-05-09T15:28:15.527Z",
@@ -3160,7 +3159,8 @@
     "simplify:64612380-a652-42ec-ad96-2729e3cce269": "2026-05-09T23:37:20.982Z",
     "simplify:59ce8bbc-ad44-476f-912b-d67774291a4b": "2026-05-10T04:57:30.363Z",
     "simplify:246f708a-1831-42ca-8aaa-ec29b6c3dd90": "2026-05-10T04:57:30.363Z",
-    "simplify:1654684c-ca1f-4d3e-9dc0-fc8e1f470e37": "2026-05-10T17:10:42.717Z"
+    "simplify:1654684c-ca1f-4d3e-9dc0-fc8e1f470e37": "2026-05-10T17:10:42.717Z",
+    "simplify:2c1b5956-4d83-4409-b595-31acfc1544f4": "2026-05-11T00:06:33.325Z"
   },
   "jobs": [
     {
@@ -4436,14 +4436,6 @@
       "company": "Tenstorrent"
     },
     {
-      "id": "simplify:e971a3e2-631b-4ad9-ab78-effc38c864ed",
-      "title": "AI Compiler Software Intern - Pey",
-      "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873659007",
-      "location": "Toronto, ON, Canada",
-      "department": "Software",
-      "company": "Tenstorrent"
-    },
-    {
       "id": "simplify:b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/rilla/123a6a38-c7f9-4378-b00d-c6ae54688bd5",
@@ -5490,14 +5482,6 @@
       "location": "Kanata, Ottawa, ON, Canada",
       "department": "AI/ML/Data",
       "company": "Honeywell"
-    },
-    {
-      "id": "simplify:2bb44dc9-b217-44bd-b0b7-b6aebd3ad58d",
-      "title": "Online Architecture Research Intern - Tiktok-Generalized Arch - 2026 Start - PhD",
-      "url": "https://lifeattiktok.com/search/7549086862464338184",
-      "location": "San Jose, CA",
-      "department": "AI/ML/Data",
-      "company": "TikTok"
     },
     {
       "id": "simplify:c4a9beb0-b616-4c71-a7ec-ea8276002b31",
@@ -18146,6 +18130,22 @@
       "location": "Philadelphia, PA",
       "department": "Software",
       "company": "Perpay"
+    },
+    {
+      "id": "simplify:2c1b5956-4d83-4409-b595-31acfc1544f4",
+      "title": "Design Verification Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873756007",
+      "location": "Boston, MA",
+      "department": "Hardware",
+      "company": "Tenstorrent"
+    },
+    {
+      "id": "simplify:e971a3e2-631b-4ad9-ab78-effc38c864ed",
+      "title": "AI Compiler Software Intern",
+      "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873659007",
+      "location": "Toronto, ON, Canada",
+      "department": "Software",
+      "company": "Tenstorrent"
     },
     {
       "id": "vansh:d2c404c8-5895-4ec0-95c2-3d17aed38beb",

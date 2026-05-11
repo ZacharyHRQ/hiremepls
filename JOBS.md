@@ -1,6 +1,6 @@
 # Open Internships
 
-**3157** internships across **63/63** companies — last updated 2026-05-10.
+**3157** internships across **63/63** companies — last updated 2026-05-11.
 
 ## Companies
 
@@ -1015,7 +1015,7 @@
 - [Tempus](#tempus) (2)
 - [Tencent](#tencent) (37)
 - [TENEX.AI](#tenex-ai) (1)
-- [Tenstorrent](#tenstorrent) (10)
+- [Tenstorrent](#tenstorrent) (11)
 - [Teradata](#teradata) (1)
 - [Teradyne](#teradyne) (1)
 - [Tesla](#tesla) (62)
@@ -1047,7 +1047,7 @@
 - [thyssenkrupp](#thyssenkrupp) (1)
 - [TIFIN](#tifin) (1)
 - [Tiktok](#tiktok) (1)
-- [TikTok](#tiktok) (186)
+- [TikTok](#tiktok) (185)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (2)
 - [TNS](#tns) (1)
@@ -8831,8 +8831,9 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Design Verification Engineer Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873756007) | Boston, MA | Hardware | 2026-05-11 |
 | [Acceleration Kernel Developer Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4668120007) | Toronto, ON, Canada | Hardware | 2026-05-09 |
-| [AI Compiler Software Intern - Pey](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873659007) | Toronto, ON, Canada | Software | 2026-05-09 |
+| [AI Compiler Software Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873659007) | Toronto, ON, Canada | Software | 2026-05-09 |
 | [Applied AI Workflow Automation Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5104002007) | Toronto, ON, Canada / Austin, TX / Santa Clara, CA / Fort Collins, CO | Software | 2026-05-09 |
 | [CPU Core Performance Verification Intern - CPU/AI Hardware](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501134007) | Austin, TX / Santa Clara, CA | Hardware | 2026-05-09 |
 | [Design Verification Intern - RISCV CPU](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501100007) | Austin, TX / Santa Clara, CA | Hardware | 2026-05-09 |
@@ -9185,7 +9186,6 @@
 | [Machine Learning Scientist Intern - Global E-Commerce Content Recommendation](https://lifeattiktok.com/search/7525650208522193159) | Seattle, WA | AI/ML/Data | 2026-05-09 |
 | [Machine Learning Scientist Intern - TikTok Recommendation](https://lifeattiktok.com/search/7519241729582516487) | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Machine Learning Scientist Intern - TikTok Recommendation](https://lifeattiktok.com/search/7625930920206272773) | San Jose, CA | AI/ML/Data | 2026-05-09 |
-| [Online Architecture Research Intern - Tiktok-Generalized Arch - 2026 Start - PhD](https://lifeattiktok.com/search/7549086862464338184) | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Online Assessment] Software Engineer Intern - Recommendation Infrastructure - 2026 Summer](https://lifeattiktok.com/search/7537491011187902727) | Seattle, WA | Software | 2026-05-09 |
 | [Platform Campaign Project Intern](https://lifeattiktok.com/search/7592014594232142085?spread=5MWH5CQ) | Seattle, WA | — | 2026-05-09 |
 | [Platform Campaign Project Intern - Tiktok-Operations - 2026 Start](https://lifeattiktok.com/search/7592014594232142085) | Seattle, WA | Product | 2026-05-09 |
