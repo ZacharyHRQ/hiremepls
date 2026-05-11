@@ -1,6 +1,6 @@
 # Open Internships
 
-**3130** internships across **63/63** companies — last updated 2026-05-11.
+**3127** internships across **63/63** companies — last updated 2026-05-11.
 
 ## Companies
 
@@ -36,7 +36,6 @@
 - [Airbnb](#airbnb) (2)
 - [Airbus](#airbus) (1)
 - [AirCapture](#aircapture) (2)
-- [Airgas](#airgas) (1)
 - [Akuna Capital](#akuna-capital) (4)
 - [Al Warren Oil Company](#al-warren-oil-company) (4)
 - [Alcon](#alcon) (1)
@@ -136,7 +135,7 @@
 - [Baker Hughes](#baker-hughes) (2)
 - [Balyasny Asset Management](#balyasny-asset-management) (5)
 - [Bank of America](#bank-of-america) (4)
-- [Bank of Montreal](#bank-of-montreal) (15)
+- [Bank of Montreal](#bank-of-montreal) (17)
 - [Barkback](#barkback) (1)
 - [Baseten](#baseten) (1)
 - [Beckman Coulter Life Sciences](#beckman-coulter-life-sciences) (1)
@@ -193,7 +192,7 @@
 - [Cambium Learning Group](#cambium-learning-group) (1)
 - [Cambridge Mobile Telematics](#cambridge-mobile-telematics) (2)
 - [Candle](#candle) (1)
-- [Canon](#canon) (7)
+- [Canon](#canon) (6)
 - [Capella](#capella) (2)
 - [Capital One](#capital-one) (9)
 - [Cardinal Health](#cardinal-health) (1)
@@ -368,7 +367,7 @@
 - [EnergyHub](#energyhub) (3)
 - [ENFOS](#enfos) (1)
 - [ENOVIS](#enovis) (1)
-- [Ensemble Health Partners](#ensemble-health-partners) (2)
+- [Ensemble Health Partners](#ensemble-health-partners) (1)
 - [Entrust](#entrust) (1)
 - [Envista](#envista) (1)
 - [Epic](#epic) (1)
@@ -424,7 +423,7 @@
 - [Flock Safety](#flock-safety) (1)
 - [Formlabs](#formlabs) (4)
 - [Fortinet](#fortinet) (2)
-- [Fortive](#fortive) (3)
+- [Fortive](#fortive) (2)
 - [Foundation ](#foundation) (1)
 - [FOX](#fox) (2)
 - [Freddie Mac](#freddie-mac) (1)
@@ -448,7 +447,7 @@
 - [General Motors Financial](#general-motors-financial) (2)
 - [Genmab](#genmab) (2)
 - [Genuine Parts Company](#genuine-parts-company) (1)
-- [Geotab](#geotab) (15)
+- [Geotab](#geotab) (14)
 - [GHD](#ghd) (1)
 - [GIGA](#giga) (1)
 - [Gimlet Labs](#gimlet-labs) (2)
@@ -546,7 +545,7 @@
 - [Instawork](#instawork) (1)
 - [Institute of Foundation Models](#institute-of-foundation-models) (1)
 - [Intact](#intact) (10)
-- [Integra FEC](#integra-fec) (4)
+- [Integra FEC](#integra-fec) (3)
 - [Integrity](#integrity) (1)
 - [Intel](#intel) (6)
 - [Intelcom | Dragonfly](#intelcom-dragonfly) (15)
@@ -752,6 +751,7 @@
 - [Optiver](#optiver) (9)
 - [OpusClip](#opusclip) (2)
 - [Oracle](#oracle) (16)
+- [OraSure Technologies](#orasure-technologies) (1)
 - [Orchids](#orchids) (1)
 - [Origami Risk](#origami-risk) (1)
 - [Oshkosh](#oshkosh) (4)
@@ -939,7 +939,7 @@
 - [Snap](#snap) (1)
 - [Snap-on](#snap-on) (2)
 - [Snorkel AI](#snorkel-ai) (1)
-- [Snowflake](#snowflake) (20)
+- [Snowflake](#snowflake) (19)
 - [Snyk](#snyk) (2)
 - [Société Générale de Surveillance (SGS)](#soci-t-g-n-rale-de-surveillance-sgs) (1)
 - [Socure](#socure) (2)
@@ -1125,7 +1125,7 @@
 - [Vulcan Materials](#vulcan-materials) (1)
 - [W.R. Berkley](#w-r-berkley) (7)
 - [Waabi](#waabi) (2)
-- [Wabtec](#wabtec) (2)
+- [Wabtec](#wabtec) (3)
 - [Walrus](#walrus) (1)
 - [Walt Disney Imagineering](#walt-disney-imagineering) (1)
 - [Wardstone](#wardstone) (1)
@@ -1397,12 +1397,6 @@
 | --- | --- | --- | --- |
 | [Climate Policy & Carbon Markets Intern](https://job-boards.greenhouse.io/aircapture/jobs/4678154006) | Berkeley, CA | Quant | 2026-05-09 |
 | [Materials Characterization Intern - Microwave Systems](https://job-boards.greenhouse.io/aircapture/jobs/4677774006) | Berkeley, CA | AI/ML/Data | 2026-05-09 |
-
-## Airgas
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Product Management Intern](https://airliquidehr.wd3.myworkdayjobs.com/airgasexternalcareer/job/Radnor-PA-Airgas-HO/Product-Management-Intern_R10085524) | Villanova, PA | Product | 2026-05-09 |
 
 ## Akuna Capital
 
@@ -2163,6 +2157,8 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Machine Learning Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Chicago-IL-USA/Machine-Learning-Intern--Fall-2026--Internship----4-months_R260014372) | Chicago, IL | AI/ML/Data | 2026-05-11 |
+| [Machine Learning Intern](https://bmo.wd3.myworkdayjobs.com/Campus/job/Chicago-IL-USA/Machine-Learning-Intern--Fall-2026--Internship----4-months_R260014372-2) | Chicago, IL | AI/ML/Data | 2026-05-11 |
 | [Analyst Co-op/Intern - Months](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Analyst--Fall-2026--Co-op-Internship----12-Months_R260013681-2) | Toronto, ON, Canada | AI/ML/Data | 2026-05-11 |
 | [Analyst Co-op/Intern - Months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Analyst--Fall-2026--Co-op-Internship----12-Months_R260013681-1) | Toronto, ON, Canada | AI/ML/Data | 2026-05-11 |
 | [Junior Software Developer Co-op/Intern](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Junior-Software-Developer--Fall-2026--Co-op-Internship----4-Months_R260013614-2) | Toronto, ON, Canada | Software | 2026-05-11 |
@@ -2612,7 +2608,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Canon Insights Internship Technology/Computer Science Intern](https://external-canoncareers.icims.com/jobs/34383/job?mobile=true&needsRedirect=false) | Plainview, NY | AI/ML/Data | 2026-05-09 |
-| [Research Intern](https://external-canoncareers.icims.com/jobs/34087/job?mobile=true&needsRedirect=false) | Irvine, CA | AI/ML/Data | 2026-05-09 |
 | [Software Imaging Intern](https://external-canoncareers.icims.com/jobs/34091/software-imaging-intern/job) | Irvine, CA | Software Engineering | 2026-05-09 |
 | [Software Intern](https://external-canoncareers.icims.com/jobs/34090/software-intern/job) | Irvine, CA | Software Engineering | 2026-05-09 |
 | [Software Intern](https://external-canoncareers.icims.com/jobs/34092/software-intern/job) | Irvine, CA | Software Engineering | 2026-05-09 |
@@ -3869,7 +3864,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Engineering Intern](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Engineering-Intern_R041252) | Sharonville, OH | Software | 2026-05-09 |
-| [Software Engineer Intern](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Engineering-Excellence-Intern_R040778) | Remote in USA | Software | 2026-05-09 |
 
 ## Entrust
 
@@ -4258,7 +4252,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Data Scientist Intern](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/9453) | Minneapolis, MN | AI/ML/Data | 2026-05-09 |
 | [Embedded Software Intern](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/7863) | Everett, WA | Hardware | 2026-05-09 |
 | [Hardware Engineering Intern](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/7840) | Everett, WA | — | 2026-05-09 |
 
@@ -4449,7 +4442,6 @@
 | [Product Coordinator Intern - Summer/May 2026 - 8 Months](https://job-boards.greenhouse.io/internshiplist2000/jobs/5019374008) | Toronto, ON, Canada / Oakville, ON, Canada / Kitchener, ON, Canada | Product | 2026-05-09 |
 | [Product Marketing Intern](https://job-boards.greenhouse.io/internshiplist2000/jobs/5184516008) | Oakville, ON, Canada | Product | 2026-05-09 |
 | [Software Developer Intern](https://job-boards.greenhouse.io/internshiplist2000/jobs/5153686008) | Toronto, ON, Canada / Oakville, ON, Canada / Kitchener, ON, Canada | Software | 2026-05-09 |
-| [Software Developer Intern - Altitude - Months](https://job-boards.greenhouse.io/internshiplist2000/jobs/5153898008) | Oakville, ON, Canada | Software | 2026-05-09 |
 | [Software Developer Intern - Prism](https://job-boards.greenhouse.io/internshiplist2000/jobs/5138225008) | Toronto, ON, Canada / Kitchener, ON, Canada | Software | 2026-05-09 |
 | [Support Engineer Intern](https://job-boards.greenhouse.io/internshiplist2000/jobs/5185232008) | Oakville, ON, Canada | Software | 2026-05-09 |
 | [Vehicle Systems Engineer Intern](https://job-boards.greenhouse.io/internshiplist2000/jobs/5145632008) | Kitchener, ON, Canada | Hardware | 2026-05-09 |
@@ -5151,7 +5143,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Data Analyst Intern](https://job-boards.greenhouse.io/integra/jobs/5134522008) | Austin, TX | AI/ML/Data | 2026-05-11 |
 | [Data Scientist Intern](https://job-boards.greenhouse.io/integrainterns/jobs/5134593008) | Austin, TX | AI/ML/Data | 2026-05-11 |
 | [Data Scientist Intern - PhD](https://job-boards.greenhouse.io/integra/jobs/5134592008) | Austin, TX | AI/ML/Data | 2026-05-11 |
 | [Data Analyst Intern](https://job-boards.greenhouse.io/integrainterns/jobs/5134523008) | Austin, TX | AI/ML/Data | 2026-05-09 |
@@ -6814,6 +6805,12 @@
 | [Technical Program Manager Intern, Oracle Cloud Infrastructure](https://careers.oracle.com/en/sites/jobsearch/job/305997/) | Austin, TX / Nashville, TN / Santa Clara, CA / Seattle, WA | — | 2026-05-09 |
 | [Undergraduate Applications Developer Intern - OPMO - Consumer Industries](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/309965) | Remote in USA | Software | 2026-05-09 |
 
+## OraSure Technologies
+
+| Title | Location | Department | First seen |
+| --- | --- | --- | --- |
+| [Enterprise Applications Intern](https://jobs.lever.co/dnagenotek/9ef3844a-5474-4990-a41e-ad1ccd654368/apply) | Bethlehem, PA | AI/ML/Data | 2026-05-11 |
+
 ## Orchids
 
 | Title | Location | Department | First seen |
@@ -8235,7 +8232,6 @@
 | [Software Engineer Intern (Database Engineering) - Fall 2026](https://jobs.ashbyhq.com/snowflake/fd76a37f-868d-467b-a256-0b6746b9e961) | — | — | 2026-05-08 |
 | [Software Engineer Intern (Infrastructure Automation) - Fall 2026](https://jobs.ashbyhq.com/snowflake/bbdee8bd-443c-456f-a4f0-1b363d843310) | — | — | 2026-05-08 |
 | [Software Engineer Intern (Security) - Fall 2026](https://jobs.ashbyhq.com/snowflake/a488959b-6874-4563-acb2-af747c3dc6f7) | — | — | 2026-05-08 |
-| [Account Engineer Intern - Summer 2026](https://jobs.ashbyhq.com/snowflake/aff4210d-127f-45d3-844b-9313b4e86edd) | — | — | 2026-05-06 |
 | [Data Engineer Intern - Pune (2026)](https://jobs.ashbyhq.com/snowflake/8904ed85-75d6-48cf-b01b-7941677fde4a) | — | — | 2026-05-06 |
 | [Research Intern (AI) - 2026](https://jobs.ashbyhq.com/snowflake/e2412cd5-19dd-44f8-addd-c9ef3c99ff82) | — | — | 2026-05-06 |
 | [Software Engineer Intern - Berlin (2026)](https://jobs.ashbyhq.com/snowflake/41e65c6c-a01e-4f40-af14-ae75d3b95e27) | — | — | 2026-05-06 |
@@ -9825,6 +9821,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Mechatronics Engineer Intern](https://jobs.smartrecruiters.com/Wabtec/3743990013068286) | London, ON, Canada | Hardware | 2026-05-11 |
 | [Digital Intern](https://jobs.smartrecruiters.com/Wabtec/3743990010828806) | Germantown, MD / Villanova, PA / Melbourne, FL / Fort Worth, TX / Norcross, GA / Jacksonville, FL / Erie, PA / Cedar Rapids, IA / Grove City, PA | Hardware | 2026-05-09 |
 | [Engineering Intern](https://jobs.smartrecruiters.com/Wabtec/3743990010925526) | Erie, PA / Grove City, PA | Hardware | 2026-05-09 |
 

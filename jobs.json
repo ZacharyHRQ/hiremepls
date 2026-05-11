@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-11T21:41:30.048Z",
+  "generatedAt": "2026-05-11T22:38:18.795Z",
   "companyCount": 63,
   "okCount": 63,
-  "jobCount": 3130,
+  "jobCount": 3127,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -145,7 +145,6 @@
     "41e65c6c-a01e-4f40-af14-ae75d3b95e27": "2026-05-06T06:42:07.596Z",
     "897e1850-c590-4462-b187-0516b65b2034": "2026-05-06T06:42:07.596Z",
     "e2412cd5-19dd-44f8-addd-c9ef3c99ff82": "2026-05-06T06:42:07.596Z",
-    "aff4210d-127f-45d3-844b-9313b4e86edd": "2026-05-06T06:42:07.596Z",
     "8904ed85-75d6-48cf-b01b-7941677fde4a": "2026-05-06T06:42:07.596Z",
     "67fadb77-43d8-4449-954b-d4cf2c6d3b8b": "2026-05-06T06:42:07.596Z",
     "8435134002": "2026-05-07T19:38:12.824Z",
@@ -948,7 +947,6 @@
     "simplify:577380e9-9967-4e82-bd6f-7e700a92f224": "2026-05-09T15:28:15.527Z",
     "simplify:b12c652c-3fc2-41f0-91b6-705ef68dcf82": "2026-05-09T15:28:15.527Z",
     "simplify:a3fc7a58-e89b-45d9-b974-7bb42ada9d3f": "2026-05-09T15:28:15.527Z",
-    "simplify:33c96e1e-ba9a-4600-a17f-3351f4d0b2f3": "2026-05-09T15:28:15.527Z",
     "simplify:411b3542-fea3-4d69-9491-dea180fbc135": "2026-05-09T15:28:15.527Z",
     "simplify:bb8619dc-9ece-472c-ba31-1325f586291c": "2026-05-09T15:28:15.527Z",
     "simplify:7db5f7fe-7d87-435c-8b0f-2d2052aeae1a": "2026-05-09T15:28:15.527Z",
@@ -1050,7 +1048,6 @@
     "simplify:26784233-d6f5-4845-b5af-e3b1350f1199": "2026-05-09T15:28:15.527Z",
     "simplify:1b2a515c-420c-4739-90eb-0ca8c93613b4": "2026-05-09T15:28:15.527Z",
     "simplify:72874aa8-4f06-4f8f-931e-a84f076d1f48": "2026-05-09T15:28:15.527Z",
-    "simplify:3330f5ed-fdaa-45cb-8c68-eeb11f52a136": "2026-05-09T15:28:15.527Z",
     "simplify:b693b1d7-b061-40b3-b7ee-a66cddbd42b6": "2026-05-09T15:28:15.527Z",
     "simplify:3188abf7-31cd-4e4e-9bc5-6f2627402f5b": "2026-05-09T15:28:15.527Z",
     "simplify:4a89f3e9-6434-44ce-a278-b9560b004712": "2026-05-09T15:28:15.527Z",
@@ -1185,7 +1182,6 @@
     "simplify:d4b91c09-3e18-431b-b681-81888ed08483": "2026-05-09T15:28:15.527Z",
     "simplify:afcd8bc1-a2bf-4b15-92e6-454d03adcd71": "2026-05-09T15:28:15.527Z",
     "simplify:f4bde942-8a53-4997-8a6e-3c3ad226eb46": "2026-05-09T15:28:15.527Z",
-    "simplify:741b5154-0768-4c0a-9f21-e05fb732f85a": "2026-05-09T15:28:15.527Z",
     "simplify:25eca41c-f475-4b9a-95e0-810654292e16": "2026-05-09T15:28:15.527Z",
     "simplify:c478f30c-eba8-48c9-a814-9ed93ee9ac72": "2026-05-09T15:28:15.527Z",
     "simplify:cb476514-34d1-435f-aadd-fe05fa1476f0": "2026-05-09T15:28:15.527Z",
@@ -1479,7 +1475,6 @@
     "simplify:56df85d5-03b7-49fc-b99a-c7e35137b4f6": "2026-05-09T15:28:15.527Z",
     "simplify:62c706de-aca8-4a93-b5ca-39599e4fad2f": "2026-05-09T15:28:15.527Z",
     "simplify:d8ef5700-d5be-4137-8205-397754a4d7fe": "2026-05-09T15:28:15.527Z",
-    "simplify:82466b54-ac34-4ba2-afa9-5080694f5894": "2026-05-09T15:28:15.527Z",
     "simplify:69315286-d689-46d5-95a7-5c4567c2a9bc": "2026-05-09T15:28:15.527Z",
     "simplify:0136846e-6997-4541-99e6-7557f582e747": "2026-05-09T15:28:15.527Z",
     "simplify:f4cc11d5-eb3b-4a08-bfe4-62251ee49fc6": "2026-05-09T15:28:15.527Z",
@@ -1587,7 +1582,6 @@
     "simplify:2fa612fb-c384-4744-9e4f-aec0e55a4348": "2026-05-09T15:28:15.527Z",
     "simplify:31229afd-d450-42b5-a816-1d9d073c2387": "2026-05-09T15:28:15.527Z",
     "simplify:617b1dea-d159-4e6d-8bb8-683cb44f80cf": "2026-05-09T15:28:15.527Z",
-    "simplify:5d6c33d1-6d0a-4416-b7d6-c47f481517c5": "2026-05-09T15:28:15.527Z",
     "simplify:809f9736-120e-4add-9258-e91d240c6288": "2026-05-09T15:28:15.527Z",
     "simplify:53f8fb29-baff-4860-abf4-e65d1cd1a500": "2026-05-09T15:28:15.527Z",
     "simplify:c1eb078d-ad63-4bd4-ac05-17a062fdd7ae": "2026-05-09T15:28:15.527Z",
@@ -3107,7 +3101,6 @@
     "simplify:c028a8b9-94b1-413e-8119-37e4aa83f76e": "2026-05-11T14:01:48.198Z",
     "simplify:7248f7be-bf62-4a1b-a01b-3e4f27918644": "2026-05-11T14:01:48.198Z",
     "simplify:ebb7f560-b3e3-4f57-b812-b0097eeb39bf": "2026-05-11T14:01:48.198Z",
-    "simplify:5e6027c1-06ff-4833-98fc-5748108833bf": "2026-05-11T14:01:48.198Z",
     "simplify:b9a99f84-c011-4f16-806a-8ad02e98b530": "2026-05-11T14:01:48.198Z",
     "simplify:7a3d5a9e-62a8-4138-9a7c-2b2db21ec77c": "2026-05-11T14:01:48.198Z",
     "simplify:e18b5659-3658-49dd-a554-9ba2b49123a9": "2026-05-11T14:01:48.198Z",
@@ -3133,7 +3126,11 @@
     "simplify:6511cfed-ce4c-45ab-8067-8f2f7842e34b": "2026-05-11T16:44:59.304Z",
     "simplify:aa0708d8-7f2e-4d51-a19f-acfd131d0d75": "2026-05-11T16:44:59.304Z",
     "vansh:26f88c07-a2f8-49b8-9a79-5a4c8c540aa5": "2026-05-11T20:13:20.995Z",
-    "vansh:05b29a0e-a42b-46a9-bb3f-1aa15c38d42c": "2026-05-11T20:13:20.995Z"
+    "vansh:05b29a0e-a42b-46a9-bb3f-1aa15c38d42c": "2026-05-11T20:13:20.995Z",
+    "simplify:e591ccd7-55ff-46c5-b206-3fb0511c632b": "2026-05-11T22:38:18.795Z",
+    "simplify:001ac4b8-e3c8-40dd-a035-c12fc1493b30": "2026-05-11T22:38:18.795Z",
+    "simplify:5e0c64b0-6901-45ea-ae43-9e35597b98a8": "2026-05-11T22:38:18.795Z",
+    "simplify:10ea6ba5-ff6a-4396-9ba5-86f0e059112c": "2026-05-11T22:38:18.795Z"
   },
   "jobs": [
     {
@@ -3753,17 +3750,17 @@
       "company": "Replit"
     },
     {
-      "id": "7544547",
+      "id": "7913505",
       "title": "Operations Associate, New Grad (Mexico)",
-      "url": "https://stripe.com/jobs/search?gh_jid=7544547",
+      "url": "https://stripe.com/jobs/search?gh_jid=7913505",
       "location": "Mexico City, Mexico",
       "department": "",
       "company": "Stripe"
     },
     {
-      "id": "7913505",
+      "id": "7544547",
       "title": "Operations Associate, New Grad (Mexico)",
-      "url": "https://stripe.com/jobs/search?gh_jid=7913505",
+      "url": "https://stripe.com/jobs/search?gh_jid=7544547",
       "location": "Mexico City, Mexico",
       "department": "",
       "company": "Stripe"
@@ -3860,14 +3857,6 @@
       "id": "e2412cd5-19dd-44f8-addd-c9ef3c99ff82",
       "title": "Research Intern (AI) - 2026",
       "url": "https://jobs.ashbyhq.com/snowflake/e2412cd5-19dd-44f8-addd-c9ef3c99ff82",
-      "location": "",
-      "department": "",
-      "company": "Snowflake"
-    },
-    {
-      "id": "aff4210d-127f-45d3-844b-9313b4e86edd",
-      "title": "Account Engineer Intern - Summer 2026",
-      "url": "https://jobs.ashbyhq.com/snowflake/aff4210d-127f-45d3-844b-9313b4e86edd",
       "location": "",
       "department": "",
       "company": "Snowflake"
@@ -11185,14 +11174,6 @@
       "company": "Atomic Semi"
     },
     {
-      "id": "simplify:33c96e1e-ba9a-4600-a17f-3351f4d0b2f3",
-      "title": "Product Management Intern",
-      "url": "https://airliquidehr.wd3.myworkdayjobs.com/airgasexternalcareer/job/Radnor-PA-Airgas-HO/Product-Management-Intern_R10085524",
-      "location": "Villanova, PA",
-      "department": "Product",
-      "company": "Airgas"
-    },
-    {
       "id": "simplify:411b3542-fea3-4d69-9491-dea180fbc135",
       "title": "Machine Learning Engineer Intern - App Ads",
       "url": "https://lifeattiktok.com/search/7623166673809770757",
@@ -12071,14 +12052,6 @@
       "location": "Boston, MA / Austin, TX / Cambridge, UK / Santa Clara, CA / Berkeley, CA / Marseille, France",
       "department": "Software",
       "company": "SiFive"
-    },
-    {
-      "id": "simplify:3330f5ed-fdaa-45cb-8c68-eeb11f52a136",
-      "title": "Data Scientist Intern",
-      "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/9453",
-      "location": "Minneapolis, MN",
-      "department": "AI/ML/Data",
-      "company": "Fortive"
     },
     {
       "id": "simplify:b999705a-0da3-486f-bf67-52950468bbe9",
@@ -13215,14 +13188,6 @@
       "location": "San Diego, CA",
       "department": "Software",
       "company": "Axos Bank"
-    },
-    {
-      "id": "simplify:741b5154-0768-4c0a-9f21-e05fb732f85a",
-      "title": "Research Intern",
-      "url": "https://external-canoncareers.icims.com/jobs/34087/job?mobile=true&needsRedirect=false",
-      "location": "Irvine, CA",
-      "department": "AI/ML/Data",
-      "company": "Canon"
     },
     {
       "id": "simplify:25eca41c-f475-4b9a-95e0-810654292e16",
@@ -14721,14 +14686,6 @@
       "company": "Schweitzer Engineering Laboratories"
     },
     {
-      "id": "simplify:5e6027c1-06ff-4833-98fc-5748108833bf",
-      "title": "Data Analyst Intern",
-      "url": "https://job-boards.greenhouse.io/integra/jobs/5134522008",
-      "location": "Austin, TX",
-      "department": "AI/ML/Data",
-      "company": "Integra FEC"
-    },
-    {
       "id": "simplify:c170da9f-75da-4e67-a22c-c39842bfed91",
       "title": "Credit Modeling & Methodology Intern",
       "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Credit-Data-Analyst---Credit-Modeling---Methodology-Intern--4-Months-_R-0000170102-1",
@@ -15993,14 +15950,6 @@
       "company": "Intact"
     },
     {
-      "id": "simplify:82466b54-ac34-4ba2-afa9-5080694f5894",
-      "title": "Software Developer Intern - Altitude - Months",
-      "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5153898008",
-      "location": "Oakville, ON, Canada",
-      "department": "Software",
-      "company": "Geotab"
-    },
-    {
       "id": "simplify:69315286-d689-46d5-95a7-5c4567c2a9bc",
       "title": "DataOps Developer Intern - Months",
       "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5155296008",
@@ -17025,14 +16974,6 @@
       "company": "Pennsylvania State University"
     },
     {
-      "id": "simplify:5d6c33d1-6d0a-4416-b7d6-c47f481517c5",
-      "title": "Software Engineer Intern",
-      "url": "https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Engineering-Excellence-Intern_R040778",
-      "location": "Remote in USA",
-      "department": "Software",
-      "company": "Ensemble Health Partners"
-    },
-    {
       "id": "simplify:809f9736-120e-4add-9258-e91d240c6288",
       "title": "Product Management Intern",
       "url": "https://jobs.ashbyhq.com/matterworks/014652db-c9fc-4424-bea3-ae5ff35d540c/application",
@@ -17887,6 +17828,38 @@
       "location": "Dallas, TX",
       "department": "Product",
       "company": "Digital Realty"
+    },
+    {
+      "id": "simplify:e591ccd7-55ff-46c5-b206-3fb0511c632b",
+      "title": "Enterprise Applications Intern",
+      "url": "https://jobs.lever.co/dnagenotek/9ef3844a-5474-4990-a41e-ad1ccd654368/apply",
+      "location": "Bethlehem, PA",
+      "department": "AI/ML/Data",
+      "company": "OraSure Technologies"
+    },
+    {
+      "id": "simplify:001ac4b8-e3c8-40dd-a035-c12fc1493b30",
+      "title": "Machine Learning Intern",
+      "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Chicago-IL-USA/Machine-Learning-Intern--Fall-2026--Internship----4-months_R260014372",
+      "location": "Chicago, IL",
+      "department": "AI/ML/Data",
+      "company": "Bank of Montreal"
+    },
+    {
+      "id": "simplify:5e0c64b0-6901-45ea-ae43-9e35597b98a8",
+      "title": "Mechatronics Engineer Intern",
+      "url": "https://jobs.smartrecruiters.com/Wabtec/3743990013068286",
+      "location": "London, ON, Canada",
+      "department": "Hardware",
+      "company": "Wabtec"
+    },
+    {
+      "id": "simplify:10ea6ba5-ff6a-4396-9ba5-86f0e059112c",
+      "title": "Machine Learning Intern",
+      "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Chicago-IL-USA/Machine-Learning-Intern--Fall-2026--Internship----4-months_R260014372-2",
+      "location": "Chicago, IL",
+      "department": "AI/ML/Data",
+      "company": "Bank of Montreal"
     },
     {
       "id": "vansh:d2c404c8-5895-4ec0-95c2-3d17aed38beb",
