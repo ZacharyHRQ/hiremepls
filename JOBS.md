@@ -1,6 +1,6 @@
 # Open Internships
 
-**3163** internships across **63/63** companies — last updated 2026-05-11.
+**3155** internships across **63/63** companies — last updated 2026-05-11.
 
 ## Companies
 
@@ -19,7 +19,7 @@
 - [ACI Worldwide ](#aci-worldwide) (3)
 - [Actian](#actian) (5)
 - [Activision Blizzard](#activision-blizzard) (2)
-- [Adobe](#adobe) (16)
+- [Adobe](#adobe) (15)
 - [ADT](#adt) (2)
 - [Adtheorant](#adtheorant) (2)
 - [Advanced Energy](#advanced-energy) (2)
@@ -243,7 +243,7 @@
 - [CLEAResult](#clearesult) (1)
 - [Clerkie](#clerkie) (1)
 - [Clever](#clever) (1)
-- [Cloudflare](#cloudflare) (41)
+- [Cloudflare](#cloudflare) (40)
 - [Cloudforce](#cloudforce) (2)
 - [Cloudglue - YC](#cloudglue-yc) (1)
 - [CME Group](#cme-group) (3)
@@ -552,7 +552,6 @@
 - [Institute of Foundation Models](#institute-of-foundation-models) (1)
 - [Intact](#intact) (10)
 - [Integra FEC](#integra-fec) (4)
-- [Integral Ad Science](#integral-ad-science) (1)
 - [Integrity](#integrity) (1)
 - [Intel](#intel) (6)
 - [Intelcom | Dragonfly](#intelcom-dragonfly) (15)
@@ -618,7 +617,6 @@
 - [Legrand](#legrand) (1)
 - [Leidos](#leidos) (2)
 - [Lennox](#lennox) (1)
-- [Lennox International](#lennox-international) (1)
 - [Lenovo](#lenovo) (2)
 - [Leonardo](#leonardo) (1)
 - [Leonardo DRS](#leonardo-drs) (5)
@@ -646,7 +644,7 @@
 - [Lynk](#lynk) (1)
 - [M&T Bank](#m-t-bank) (1)
 - [Mach9](#mach9) (2)
-- [Mackenzie Investments](#mackenzie-investments) (3)
+- [Mackenzie Investments](#mackenzie-investments) (2)
 - [Macy's](#macy-s) (2)
 - [Madison Energy Infrastructure](#madison-energy-infrastructure) (1)
 - [Magna](#magna) (9)
@@ -683,7 +681,7 @@
 - [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (3)
 - [MGIC](#mgic) (1)
 - [Michael Baker International](#michael-baker-international) (1)
-- [Microchip Technology](#microchip-technology) (3)
+- [Microchip Technology](#microchip-technology) (2)
 - [Microchip Technology Inc](#microchip-technology-inc) (1)
 - [Micron Technology](#micron-technology) (4)
 - [Microsoft](#microsoft) (67)
@@ -710,7 +708,7 @@
 - [N1](#n1) (2)
 - [Nasa](#nasa) (1)
 - [Nasuni](#nasuni) (2)
-- [NBCUniversal](#nbcuniversal) (11)
+- [NBCUniversal](#nbcuniversal) (10)
 - [NCR Voyix](#ncr-voyix) (1)
 - [Nelnet](#nelnet) (2)
 - [Netflix](#netflix) (12)
@@ -855,7 +853,7 @@
 - [Relixir](#relixir) (1)
 - [Relixir (X25)](#relixir-x25) (1)
 - [Renesas Electronics](#renesas-electronics) (2)
-- [Replit](#replit) (4)
+- [Replit](#replit) (3)
 - [Resmed](#resmed) (1)
 - [Resolve Tech Solutions](#resolve-tech-solutions) (2)
 - [RESPEC](#respec) (2)
@@ -986,7 +984,7 @@
 - [StoneX Group](#stonex-group) (1)
 - [Streamable](#streamable) (1)
 - [Stride](#stride) (2)
-- [Stripe](#stripe) (11)
+- [Stripe](#stripe) (12)
 - [SubImage - YC(W25)](#subimage-yc-w25) (1)
 - [Sun Life](#sun-life) (3)
 - [Sundt](#sundt) (1)
@@ -1109,7 +1107,7 @@
 - [Veeva Systems](#veeva-systems) (1)
 - [Vendra](#vendra) (2)
 - [Venturi Astrolab, Inc.](#venturi-astrolab-inc) (1)
-- [Veolia](#veolia) (2)
+- [Veolia](#veolia) (1)
 - [Vera Institute of Justice](#vera-institute-of-justice) (1)
 - [Vercel](#vercel) (1)
 - [Verisk](#verisk) (3)
@@ -1289,7 +1287,6 @@
 | --- | --- | --- | --- |
 | [2026 Intern - Research Scientist/Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Research-Scientist-Engineer_R160317) | Cambridge, MA / Seattle, WA / Toronto, ON, Canada / SF / San Jose, CA / Hyattsville, MD / NYC | AI/ML/Data | 2026-05-09 |
 | [AI/ML Intern - Machine Learning Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer_R158493) | Seattle, WA / SF / Austin, TX / San Jose, CA / Waltham, MA / NYC / Lehi, UT | AI/ML/Data | 2026-05-09 |
-| [2026 AI/ML Intern - Machine Learning Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer_R162027) | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [2026 Intern - Machine Learning Engineer](https://careers.adobe.com/us/en/job/ADOBUSR162228EXTERNALENUS/2026-Intern-Machine-Learning-Engineer) | San Francisco, CA | — | 2026-05-09 |
 | [AI/ML Intern - Machine Learning Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer_R160428) | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [AI/ML Machine Learning Engineer Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer_R162027) | San Jose, CA | — | 2026-05-09 |
@@ -3010,12 +3007,11 @@
 | [Legal Intern – Policy & Public Sector (AI & Cybersecurity Focus) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7779151?gh_jid=7779151) | In-Office | — | 2026-05-06 |
 | [Marketing Campaigns & Account-Based Marketing (ABM) Intern - 3 months (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7838607?gh_jid=7838607) | In-Office | — | 2026-05-06 |
 | [Marketing Events and Campaigns Intern (Summer/Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7733327?gh_jid=7733327) | In-Office | — | 2026-05-06 |
-| [Marketing Operations Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7733532?gh_jid=7733532) | In-Office | — | 2026-05-06 |
 | [Marketing: AI Discoverability & Optimization Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7729719?gh_jid=7729719) | In-Office | — | 2026-05-06 |
 | [People Operations Intern (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7855832?gh_jid=7855832) | In-Office | — | 2026-05-06 |
 | [People Team Business Partner intern (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7855864?gh_jid=7855864) | In-Office | — | 2026-05-06 |
-| [People Team Intern - HR Operations & AI Innovation (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240) | In-Office | — | 2026-05-06 |
 | [People Team Intern - HR Operations & AI Innovation (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7708660?gh_jid=7708660) | In-Office | — | 2026-05-06 |
+| [People Team Intern - HR Operations & AI Innovation (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240) | In-Office | — | 2026-05-06 |
 | [Product Manager Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7362113?gh_jid=7362113) | In-Office | — | 2026-05-06 |
 | [Product Marketing Engineer Intern (AI & Automation) - Intern (Summer/Spring/Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7781953?gh_jid=7781953) | In-Office | — | 2026-05-06 |
 | [Program Operations Analyst Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7799344?gh_jid=7799344) | In-Office | — | 2026-05-06 |
@@ -5080,8 +5076,8 @@
 | [Graduate Broker Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4608590101) | Chicago, United States | — | 2026-05-06 |
 | [Graduate Floor Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4786701101) | Chicago, United States; Miami, United States; New York, United States; Philadelphia, United States; San Francisco, United States | — | 2026-05-06 |
 | [Graduate Site Reliability Engineer, 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4540358101) | Sydney,  Australia | — | 2026-05-06 |
-| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
+| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Graduate Trader (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564495101) | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Graduate Trading Operations Specialist](https://job-boards.eu.greenhouse.io/imc/jobs/4608591101) | Chicago, United States | — | 2026-05-06 |
 | [Hardware Engineer Intern 2026/27](https://job-boards.eu.greenhouse.io/imc/jobs/4742629101) | Sydney,  Australia | — | 2026-05-06 |
@@ -5207,12 +5203,6 @@
 | [Data Scientist Intern](https://job-boards.greenhouse.io/integrainterns/jobs/5134593008) | Austin, TX | AI/ML/Data | 2026-05-11 |
 | [Data Scientist Intern - PhD](https://job-boards.greenhouse.io/integra/jobs/5134592008) | Austin, TX | AI/ML/Data | 2026-05-11 |
 | [Data Analyst Intern](https://job-boards.greenhouse.io/integrainterns/jobs/5134523008) | Austin, TX | AI/ML/Data | 2026-05-09 |
-
-## Integral Ad Science
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Software Engineer Intern](https://integralads.wd1.myworkdayjobs.com/IAScareers/job/US---San-Francisco-CA/Software-Engineer-Intern_R-101475) | SF | Software | 2026-05-09 |
 
 ## Integrity
 
@@ -5727,12 +5717,6 @@
 | --- | --- | --- | --- |
 | [Embedded Software Intern](https://uscareers-lennox.icims.com/jobs/50063/job) | Carrollton, TX | — | 2026-05-09 |
 
-## Lennox International
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Product Management Intern](https://uscareers-lennox.icims.com/jobs/50133/job?mobile=true&needsRedirect=false) | Richardson, TX | Product | 2026-05-09 |
-
 ## Lenovo
 
 | Title | Location | Department | First seen |
@@ -5941,7 +5925,6 @@
 | --- | --- | --- | --- |
 | [Fixed Income Software Developer Platform Intern](https://careersen-mackenzieinvestments.icims.com/jobs/5628/summer-2026---investment-management---fixed-income-software-developer-platform-intern/job) | Toronto, ON, CA | — | 2026-05-09 |
 | [Intern - Data Engineering Delivery](https://careersen-mackenzieinvestments.icims.com/jobs/5889/job?mobile=true&needsRedirect=false) | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
-| [Intern - Product Innovation and Development](https://careersen-mackenzieinvestments.icims.com/jobs/5866/job?mobile=true&needsRedirect=false) | Toronto, ON, Canada | Product | 2026-05-09 |
 
 ## Macy's
 
@@ -6221,7 +6204,6 @@
 | --- | --- | --- | --- |
 | [Engineering Intern - Business Intelligence](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern---Engineering--Business-Intelligence-_R1727-26) | Chandler, AZ | Software | 2026-05-09 |
 | [Intern Technician - Electronics](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/PA---Mount-Holly-Springs/Intern-Technician--Electronics-_R847-26) | Carlisle, PA | Hardware | 2026-05-09 |
-| [Process Engineering Intern - Epi](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CO---Colorado-Springs---East-Cheyenne-Mountain-Blvd/Intern--Process-Engineering--EPI-_R1854-26) | Colorado Springs, CO | Hardware | 2026-05-09 |
 
 ## Microchip Technology Inc
 
@@ -6469,7 +6451,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Advertising & Partnerships Ad Products Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000125848951) | NYC | AI/ML/Data | 2026-05-11 |
-| [Advertising & Partnerships Ad Products Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000121820063) | NYC | AI/ML/Data | 2026-05-09 |
 | [Film Technology AR/VR Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000125422009) | North Hollywood, LA | Software | 2026-05-09 |
 | [Film Technology AR/VR Internships Intern - Academic Year](https://jobs.smartrecruiters.com/NBCUniversal3/744000121840427) | North Hollywood, LA | Software | 2026-05-09 |
 | [Software Engineer Intern](https://jobs.smartrecruiters.com/nbcuniversal3/744000092795107-media-tech-software-engineering-internships-summer-2026) | New York, NY | — | 2026-05-09 |
@@ -7585,7 +7566,6 @@
 | --- | --- | --- | --- |
 | [Software Engineering Intern - Multiple Teams](https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1/application) | San Mateo, CA | Software | 2026-05-09 |
 | [Education Team Intern](https://jobs.ashbyhq.com/replit/3590c5b2-3983-40f3-a787-ef3b1bc8218c) | — | — | 2026-05-06 |
-| [Software Engineer - New Grad (Summer 2026)](https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc) | — | — | 2026-05-06 |
 | [Software Engineering Intern (Summer 2026)](https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1) | — | — | 2026-05-06 |
 
 ## Resmed
@@ -8588,6 +8568,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7913505) | Mexico City, Mexico | — | 2026-05-11 |
 | [PhD Data Scientist Intern](https://stripe.com/jobs/search?gh_jid=7874965) | Seattle, WA / SF / Chicago, IL / NYC | AI/ML/Data | 2026-05-09 |
 | [PhD Data Scientist Intern - Data Science](https://stripe.com/jobs/search?gh_jid=7285974) | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
 | [PhD Machine Learning Engineer Intern](https://stripe.com/jobs/search?gh_jid=7216664) | Seattle, WA / SF / NYC | AI/ML/Data | 2026-05-09 |
@@ -9725,7 +9706,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Application Engineering Intern](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000097610715) | Oakville, Canada | — | 2026-05-09 |
-| [Drupal Developer Intern](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000122126237) | Paramus, NJ | Software | 2026-05-09 |
 
 ## Vera Institute of Justice
 

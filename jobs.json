@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-11T16:44:59.304Z",
+  "generatedAt": "2026-05-11T18:26:15.083Z",
   "companyCount": 63,
   "okCount": 63,
-  "jobCount": 3163,
+  "jobCount": 3155,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -51,7 +51,6 @@
     "7733168": "2026-05-06T06:42:07.596Z",
     "7733327": "2026-05-06T06:42:07.596Z",
     "7733496": "2026-05-06T06:42:07.596Z",
-    "7733532": "2026-05-06T06:42:07.596Z",
     "7736919": "2026-05-07T06:31:54.534Z",
     "7738800": "2026-05-06T06:42:07.596Z",
     "7743202": "2026-05-06T06:42:07.596Z",
@@ -85,6 +84,7 @@
     "7874965": "2026-05-06T06:42:07.596Z",
     "7899062": "2026-05-11T11:24:37.304Z",
     "7905463": "2026-05-07T21:00:54.613Z",
+    "7913505": "2026-05-11T18:26:15.083Z",
     "4608590101": "2026-05-06T06:42:07.596Z",
     "4786701101": "2026-05-06T06:42:07.596Z",
     "4540358101": "2026-05-06T06:42:07.596Z",
@@ -139,7 +139,6 @@
     "4605996005": "2026-05-06T06:42:07.596Z",
     "4611533005": "2026-05-06T06:42:07.596Z",
     "12737078-74c7-4e63-98a7-5e8da1e9deb1": "2026-05-06T06:42:07.596Z",
-    "b5e81eae-06f9-4798-8988-2d06ca936dbc": "2026-05-06T06:42:07.596Z",
     "3590c5b2-3983-40f3-a787-ef3b1bc8218c": "2026-05-06T06:42:07.596Z",
     "7011263002": "2026-05-06T06:42:07.596Z",
     "7640776002": "2026-05-06T06:42:07.596Z",
@@ -198,7 +197,6 @@
     "simplify:80e8418d-11f4-4d3b-b9aa-78b3c85266ed": "2026-05-09T15:28:15.527Z",
     "simplify:7ae85f05-9781-42f6-af6a-7e385de578f5": "2026-05-09T15:28:15.527Z",
     "simplify:b1057d3b-d962-46ca-b247-75df07656361": "2026-05-09T15:28:15.527Z",
-    "simplify:41ae0603-02ac-4f36-8917-780a2c1082a1": "2026-05-09T15:28:15.527Z",
     "simplify:da8177ab-3b7c-4e72-b74b-3b9be8aa529b": "2026-05-09T15:28:15.527Z",
     "simplify:61e3734b-7ee5-4569-a6d9-7a7c0ee36478": "2026-05-09T15:28:15.527Z",
     "simplify:d21f9d67-d72c-43f6-8ce7-3b4c9e1b2fd2": "2026-05-09T15:28:15.527Z",
@@ -292,7 +290,6 @@
     "simplify:6cae6910-11fa-406d-b833-b85cd54aab12": "2026-05-09T15:28:15.527Z",
     "simplify:59309716-b288-4fac-888c-ffb592b25a43": "2026-05-09T15:28:15.527Z",
     "simplify:2458891b-6a1e-4462-83f4-2631ddf4b62b": "2026-05-09T15:28:15.527Z",
-    "simplify:51561d32-a2b4-4f87-b84d-77219edd63b8": "2026-05-09T15:28:15.527Z",
     "simplify:bacc96af-0e15-4ea1-b47c-4ad97d58c67e": "2026-05-09T15:28:15.527Z",
     "simplify:eaaaa2a1-14fb-4a6c-9052-3c815acb5cf3": "2026-05-09T15:28:15.527Z",
     "simplify:f63004ff-57a4-4c86-94d8-1f80db185047": "2026-05-09T15:28:15.527Z",
@@ -1111,7 +1108,6 @@
     "simplify:1680943d-a300-4222-ba19-0cd414184bea": "2026-05-09T15:28:15.527Z",
     "simplify:f553c9db-3713-4057-af64-1d08966b7ed4": "2026-05-09T15:28:15.527Z",
     "simplify:9192d236-f16d-4cf9-8ba9-11e6e202a763": "2026-05-09T15:28:15.527Z",
-    "simplify:c6a3b6d2-a39d-477c-a1da-f74c80d3a45c": "2026-05-09T15:28:15.527Z",
     "simplify:b8d8e6f4-168d-4714-ac46-4356d22ef0a3": "2026-05-09T15:28:15.527Z",
     "simplify:e7e30283-df3c-4082-b2b8-84380b809798": "2026-05-09T15:28:15.527Z",
     "simplify:2de4ccd4-e782-4db3-8427-6b8837912084": "2026-05-09T15:28:15.527Z",
@@ -1248,7 +1244,6 @@
     "simplify:01b73789-a55c-4227-864d-4e1c9f06b059": "2026-05-09T15:28:15.527Z",
     "simplify:41655278-a249-4e9f-b17d-f9187aacc922": "2026-05-09T15:28:15.527Z",
     "simplify:3a60f010-c46b-4eab-ab24-a2a2b005aaac": "2026-05-09T15:28:15.527Z",
-    "simplify:8747e435-55e4-448a-8137-bffca697f569": "2026-05-09T15:28:15.527Z",
     "simplify:49c93d85-ccdd-4f9f-a234-e5ed3af003c5": "2026-05-09T15:28:15.527Z",
     "simplify:14bb6e3b-26a8-4881-942d-d0d1d0924a68": "2026-05-09T15:28:15.527Z",
     "simplify:1fbdc691-dfec-4199-8f8f-02f8a8a42537": "2026-05-09T15:28:15.527Z",
@@ -1266,7 +1261,6 @@
     "simplify:82d96a08-e59e-4f51-9e70-54d3f74e23c2": "2026-05-09T15:28:15.527Z",
     "simplify:913b635e-054e-4fb0-ae27-8a27e80eee96": "2026-05-09T15:28:15.527Z",
     "simplify:f2d42428-7ccc-4bf4-b8af-e474e3e7bc0a": "2026-05-09T15:28:15.527Z",
-    "simplify:368bec52-4db9-435f-93bf-8a38e42f0c2d": "2026-05-09T15:28:15.527Z",
     "simplify:c5659f06-0509-4714-a8ff-a14f533a4d8b": "2026-05-09T15:28:15.527Z",
     "simplify:b6f25df3-c24f-4c0c-a006-dca30300431a": "2026-05-09T15:28:15.527Z",
     "simplify:554c6277-30d8-4c53-994a-8f4a76f25176": "2026-05-09T15:28:15.527Z",
@@ -1554,7 +1548,6 @@
     "simplify:f074c27e-dc13-4feb-8001-33ae0feaee8a": "2026-05-09T15:28:15.527Z",
     "simplify:c9ba9f6c-b03b-47cf-990d-1dc0fa1aabd3": "2026-05-09T15:28:15.527Z",
     "simplify:58f4848b-4edb-401c-a6f5-c3c8fc807427": "2026-05-09T15:28:15.527Z",
-    "simplify:27627937-8114-4038-b34f-4255f66a32df": "2026-05-09T15:28:15.527Z",
     "simplify:45b41842-bedd-4cd9-bd36-5d601d849222": "2026-05-09T15:28:15.527Z",
     "simplify:8d7eee88-34b8-4d87-a3e4-79928afbb867": "2026-05-09T15:28:15.527Z",
     "simplify:47e93c35-6beb-41fc-bb7f-81c35722ff8d": "2026-05-09T15:28:15.527Z",
@@ -1584,7 +1577,6 @@
     "simplify:b456dde8-8bbb-4326-be4b-3c643badfca2": "2026-05-09T15:28:15.527Z",
     "simplify:ad40f672-3d25-4211-9c11-755d2ef60a54": "2026-05-09T15:28:15.527Z",
     "simplify:3cf3f35a-365a-4b8d-bbaa-1478d7631884": "2026-05-09T15:28:15.527Z",
-    "simplify:2a478a28-8e42-4138-9b3a-e5d91d9f6a55": "2026-05-09T15:28:15.527Z",
     "simplify:dc0d4126-bde5-46bc-bc8a-1fd34b619639": "2026-05-09T15:28:15.527Z",
     "simplify:de7526c7-fa6f-4263-bcb4-7c4e8c7b945d": "2026-05-09T15:28:15.527Z",
     "simplify:f3ac2507-6a81-4a63-b24e-b1c8fa8d94b3": "2026-05-09T15:28:15.527Z",
@@ -3242,18 +3234,18 @@
       "company": "IMC Trading"
     },
     {
-      "id": "4564480101",
-      "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
-      "department": "",
-      "company": "IMC Trading"
-    },
-    {
       "id": "4635938101",
       "title": "Graduate Software Engineer (2026)",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
       "location": "Aarhus, Central Denmark Region, Denmark",
+      "department": "",
+      "company": "IMC Trading"
+    },
+    {
+      "id": "4564480101",
+      "title": "Graduate Software Engineer (2026)",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading"
     },
@@ -3778,20 +3770,20 @@
       "company": "Replit"
     },
     {
-      "id": "b5e81eae-06f9-4798-8988-2d06ca936dbc",
-      "title": "Software Engineer - New Grad (Summer 2026)",
-      "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc",
-      "location": "",
-      "department": "",
-      "company": "Replit"
-    },
-    {
       "id": "3590c5b2-3983-40f3-a787-ef3b1bc8218c",
       "title": "Education Team Intern",
       "url": "https://jobs.ashbyhq.com/replit/3590c5b2-3983-40f3-a787-ef3b1bc8218c",
       "location": "",
       "department": "",
       "company": "Replit"
+    },
+    {
+      "id": "7913505",
+      "title": "Operations Associate, New Grad (Mexico)",
+      "url": "https://stripe.com/jobs/search?gh_jid=7913505",
+      "location": "Mexico City, Mexico",
+      "department": "",
+      "company": "Stripe"
     },
     {
       "id": "7544547",
@@ -4082,14 +4074,6 @@
       "company": "Cloudflare"
     },
     {
-      "id": "7733532",
-      "title": "Marketing Operations Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7733532?gh_jid=7733532",
-      "location": "In-Office",
-      "department": "",
-      "company": "Cloudflare"
-    },
-    {
       "id": "7855832",
       "title": "People Operations Intern (July to December 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7855832?gh_jid=7855832",
@@ -4106,17 +4090,17 @@
       "company": "Cloudflare"
     },
     {
-      "id": "7606240",
+      "id": "7708660",
       "title": "People Team Intern - HR Operations & AI Innovation (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7708660?gh_jid=7708660",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
     },
     {
-      "id": "7708660",
+      "id": "7606240",
       "title": "People Team Intern - HR Operations & AI Innovation (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7708660?gh_jid=7708660",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
@@ -4704,14 +4688,6 @@
       "location": "United States",
       "department": "AI/ML/Data",
       "company": "Honeywell"
-    },
-    {
-      "id": "simplify:41ae0603-02ac-4f36-8917-780a2c1082a1",
-      "title": "Product Management Intern",
-      "url": "https://uscareers-lennox.icims.com/jobs/50133/job?mobile=true&needsRedirect=false",
-      "location": "Richardson, TX",
-      "department": "Product",
-      "company": "Lennox International"
     },
     {
       "id": "simplify:da8177ab-3b7c-4e72-b74b-3b9be8aa529b",
@@ -5480,14 +5456,6 @@
       "location": "Des Moines, IA",
       "department": "AI/ML/Data",
       "company": "Berkshire Hathaway Energy"
-    },
-    {
-      "id": "simplify:51561d32-a2b4-4f87-b84d-77219edd63b8",
-      "title": "2026 AI/ML Intern - Machine Learning Engineer",
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer_R162027",
-      "location": "San Jose, CA",
-      "department": "AI/ML/Data",
-      "company": "Adobe"
     },
     {
       "id": "simplify:bacc96af-0e15-4ea1-b47c-4ad97d58c67e",
@@ -12634,14 +12602,6 @@
       "company": "Workato"
     },
     {
-      "id": "simplify:c6a3b6d2-a39d-477c-a1da-f74c80d3a45c",
-      "title": "Intern - Product Innovation and Development",
-      "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5866/job?mobile=true&needsRedirect=false",
-      "location": "Toronto, ON, Canada",
-      "department": "Product",
-      "company": "Mackenzie Investments"
-    },
-    {
       "id": "simplify:b8d8e6f4-168d-4714-ac46-4356d22ef0a3",
       "title": "Data Product Intern",
       "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/UK-London/Data-Product-Intern_R106486-2",
@@ -13834,14 +13794,6 @@
       "company": "Toyota Research Institute"
     },
     {
-      "id": "simplify:8747e435-55e4-448a-8137-bffca697f569",
-      "title": "Advertising & Partnerships Ad Products Intern",
-      "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000121820063",
-      "location": "NYC",
-      "department": "AI/ML/Data",
-      "company": "NBCUniversal"
-    },
-    {
       "id": "simplify:49c93d85-ccdd-4f9f-a234-e5ed3af003c5",
       "title": "PhD Research Intern - Vision Language Action Models",
       "url": "https://jobs.lever.co/zoox/2a00b538-3c7c-4217-a14b-3e7881f2a8a0/apply",
@@ -14016,14 +13968,6 @@
       "location": "Dallas, TX",
       "department": "Product",
       "company": "Mohawk"
-    },
-    {
-      "id": "simplify:368bec52-4db9-435f-93bf-8a38e42f0c2d",
-      "title": "Drupal Developer Intern",
-      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000122126237",
-      "location": "Paramus, NJ",
-      "department": "Software",
-      "company": "Veolia"
     },
     {
       "id": "simplify:c5659f06-0509-4714-a8ff-a14f533a4d8b",
@@ -16754,14 +16698,6 @@
       "company": "Sandisk"
     },
     {
-      "id": "simplify:27627937-8114-4038-b34f-4255f66a32df",
-      "title": "Software Engineer Intern",
-      "url": "https://integralads.wd1.myworkdayjobs.com/IAScareers/job/US---San-Francisco-CA/Software-Engineer-Intern_R-101475",
-      "location": "SF",
-      "department": "Software",
-      "company": "Integral Ad Science"
-    },
-    {
       "id": "simplify:45b41842-bedd-4cd9-bd36-5d601d849222",
       "title": "Engine / Vehicle Embedded Controls Intern",
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000124682895",
@@ -17056,14 +16992,6 @@
       "location": "Suwanee, GA",
       "department": "Hardware",
       "company": "Société Générale de Surveillance (SGS)"
-    },
-    {
-      "id": "simplify:2a478a28-8e42-4138-9b3a-e5d91d9f6a55",
-      "title": "Process Engineering Intern - Epi",
-      "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CO---Colorado-Springs---East-Cheyenne-Mountain-Blvd/Intern--Process-Engineering--EPI-_R1854-26",
-      "location": "Colorado Springs, CO",
-      "department": "Hardware",
-      "company": "Microchip Technology"
     },
     {
       "id": "simplify:dc0d4126-bde5-46bc-bc8a-1fd34b619639",
