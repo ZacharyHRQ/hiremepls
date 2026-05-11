@@ -1,6 +1,6 @@
 # Open Internships
 
-**3158** internships across **63/63** companies — last updated 2026-05-11.
+**3167** internships across **63/63** companies — last updated 2026-05-11.
 
 ## Companies
 
@@ -137,7 +137,7 @@
 - [Baker Hughes](#baker-hughes) (2)
 - [Balyasny Asset Management](#balyasny-asset-management) (5)
 - [Bank of America](#bank-of-america) (4)
-- [Bank of Montreal](#bank-of-montreal) (7)
+- [Bank of Montreal](#bank-of-montreal) (15)
 - [Barkback](#barkback) (1)
 - [Baseten](#baseten) (1)
 - [Beckman Coulter Life Sciences](#beckman-coulter-life-sciences) (1)
@@ -269,7 +269,7 @@
 - [Cook Group](#cook-group) (4)
 - [Cooper University Health Care](#cooper-university-health-care) (2)
 - [CoorsTek](#coorstek) (1)
-- [Copart](#copart) (10)
+- [Copart](#copart) (11)
 - [Copeland](#copeland) (1)
 - [Corgi](#corgi) (1)
 - [Corning](#corning) (1)
@@ -314,6 +314,7 @@
 - [Delta Air Lines, Inc.](#delta-air-lines-inc) (1)
 - [Delta Dental](#delta-dental) (3)
 - [Deluxe](#deluxe) (3)
+- [Desjardins Group](#desjardins-group) (2)
 - [Deutsche Bank](#deutsche-bank) (2)
 - [Dexcom](#dexcom) (1)
 - [Dexcom Corporation](#dexcom-corporation) (1)
@@ -508,7 +509,7 @@
 - [HNTB](#hntb) (5)
 - [Hologic](#hologic) (1)
 - [Home Depot](#home-depot) (1)
-- [Homebase](#homebase) (2)
+- [Homebase](#homebase) (3)
 - [Hone Health](#hone-health) (1)
 - [Honeywell](#honeywell) (13)
 - [Hootsuite](#hootsuite) (1)
@@ -526,7 +527,6 @@
 - [IBM](#ibm) (3)
 - [ICD](#icd) (1)
 - [ICF](#icf) (3)
-- [ICF International](#icf-international) (1)
 - [IDeaS](#ideas) (1)
 - [IDEX](#idex) (2)
 - [IEM](#iem) (2)
@@ -646,10 +646,10 @@
 - [Lynk](#lynk) (1)
 - [M&T Bank](#m-t-bank) (1)
 - [Mach9](#mach9) (2)
-- [Mackenzie Investments](#mackenzie-investments) (5)
+- [Mackenzie Investments](#mackenzie-investments) (4)
 - [Macy's](#macy-s) (2)
 - [Madison Energy Infrastructure](#madison-energy-infrastructure) (1)
-- [Magna](#magna) (8)
+- [Magna](#magna) (9)
 - [Man Group](#man-group) (6)
 - [Mariana Minerals](#mariana-minerals) (3)
 - [Mark43](#mark43) (1)
@@ -875,7 +875,7 @@
 - [Rolls Royce](#rolls-royce) (9)
 - [Rolls-Royce Motorcars](#rolls-royce-motorcars) (6)
 - [Root Access](#root-access) (1)
-- [Royal Bank of Canada](#royal-bank-of-canada) (36)
+- [Royal Bank of Canada](#royal-bank-of-canada) (34)
 - [RTW Investments](#rtw-investments) (1)
 - [RTX](#rtx) (8)
 - [Rundoo](#rundoo) (1)
@@ -2186,6 +2186,14 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Analyst Co-op/Intern - Months](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Analyst--Fall-2026--Co-op-Internship----12-Months_R260013681-2) | Toronto, ON, Canada | AI/ML/Data | 2026-05-11 |
+| [Analyst Co-op/Intern - Months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Analyst--Fall-2026--Co-op-Internship----12-Months_R260013681-1) | Toronto, ON, Canada | AI/ML/Data | 2026-05-11 |
+| [Junior Software Developer Co-op/Intern](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Junior-Software-Developer--Fall-2026--Co-op-Internship----4-Months_R260013614-2) | Toronto, ON, Canada | Software | 2026-05-11 |
+| [Junior Software Developer Co-op/Intern](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Junior-Software-Developer--Fall-2026--Co-op-Internship----4-Months_R260013614-1) | Toronto, ON, Canada | Software | 2026-05-11 |
+| [Software Developer Co-op/Intern](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer--Fall-2026--Co-op-Internship----8-Months_R260013663-1) | Toronto, ON, Canada | Software | 2026-05-11 |
+| [Software Developer Co-op/Intern](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer--Fall-2026--Co-op-Internship----4-Months_R260013615) | Toronto, ON, Canada | Software | 2026-05-11 |
+| [Software Developer Co-op/Intern](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Software-Developer--Fall-2026--Co-op-Internship----8-Months_R260013663-2) | Toronto, ON, Canada | Software | 2026-05-11 |
+| [Software Developer Co-op/Intern](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Software-Developer--Fall-2026--Co-op-Internship----4-Months_R260013615-1) | Toronto, ON, Canada | Software | 2026-05-11 |
 | [Quantitative Analyst – Co-op/Intern - 4 Months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Analyst--Fall-2026--Co-op-Internship----4-Months_R260012627-1) | Toronto, ON, Canada | Quant | 2026-05-09 |
 | [Junior Software Developer Co-op/Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Junior-Software-Developer--Fall-2026--Co-op-Internship----4-Months_R260013614) | Toronto, ON, Canada | Software | 2026-05-09 |
 | [Analyst Co-op/Intern - Months](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Analyst--Fall-2026--Co-op-Internship----12-Months_R260013681) | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
@@ -3202,6 +3210,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Yard Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Yard-Engineering-Intern_JR108553) | Dallas, TX | Software | 2026-05-11 |
 | [Yard Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Yard-Engineering-Intern_JR108554) | Dallas, TX | Software | 2026-05-09 |
 | [Technology Product Analyst Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR108712) | Dallas, TX | Product | 2026-05-09 |
 | [Mobile Developer Intern (AI / ML)](https://copart.wd12.myworkdayjobs.com/en-US/Copart/details/Mobile-Developer-Intern--AI---ML-_JR104180?workerSubType=642abc1e87ca10098af3a23fe5090000) | Dallas, TX | — | 2026-05-09 |
@@ -3509,6 +3518,13 @@
 | [Internship - Technology & Computer Science - Fort Worth](https://deluxe.wd5.myworkdayjobs.com/en-US/USA_CAN/job/Fort-Worth-TX-USA-100-Throckmorton-St/Internship---Technology---Computer-Science---Fort-Worth_260196WD) | Fort Worth, TX | Software | 2026-05-09 |
 | [Internship - Technology & Computer Science - Atlanta](https://deluxe.wd5.myworkdayjobs.com/en-US/USA_CAN/job/Atlanta-GA-USA/Internship---Technology---Computer-Science---Atlanta_260195WD) | Atlanta, GA | Software | 2026-05-09 |
 | [Internship - Technology & Computer Science - Minneapolis](https://deluxe.wd5.myworkdayjobs.com/en-US/USA_CAN/job/Minneapolis-MN-USA/Internship---Technology---Computer-Science---Minneapolis_260197WD) | Minneapolis, MN | Software | 2026-05-09 |
+
+## Desjardins Group
+
+| Title | Location | Department | First seen |
+| --- | --- | --- | --- |
+| [Data Intern](https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Stage-en-donnes--Automne-2026_R2606248-2) | Montreal, QC, Canada / Quebec City, QC, Canada | AI/ML/Data | 2026-05-11 |
+| [Development Intern - IT sector](https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Stage--Secteur-TI--Automne-2026_R2606252-1) | Montreal, QC, Canada / Quebec City, QC, Canada | Software | 2026-05-11 |
 
 ## Deutsche Bank
 
@@ -4880,6 +4896,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [AI Engineer Intern](https://jobs.ashbyhq.com/homebase/b61bc585-57bf-4918-8154-b8be27ff5a5e/application) | SF | Software | 2026-05-11 |
 | [Forward Deployed Engineering Intern - AI-Native](https://jobs.ashbyhq.com/homebase/a7ab59c0-786e-4675-b684-2ed19b240fb2/application) | Houston, TX / SF | Software | 2026-05-09 |
 | [Forward Deployed Engineering Intern, AI-Native](https://jobs.ashbyhq.com/homebase/a7ab59c0-786e-4675-b684-2ed19b240fb2) | Houston, TX / San Francisco, CA | — | 2026-05-09 |
 
@@ -5006,12 +5023,6 @@
 | [Appian Developer Intern](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Nationwide-Remote-Office-US99/XMLNAME-2026-Summer-Intern--Appian-Developer_R2601122) | Remote | — | 2026-05-09 |
 | [Cloud Engineer Intern, AWS/Azure](https://careers.icf.com/us/en/job/IIIIIIUSR2502608EXTERNALENUS/2026-Summer-Intern-Cloud-Engineer-AWS-Azure) | Reston, VA / Rockville, MD / Remote | — | 2026-05-09 |
 | [Software Developer Intern](https://careers.icf.com/us/en/job/IIIIIIUSR2502588EXTERNALENUS/2026-Summer-Intern-Software-Developer) | Remote | — | 2026-05-09 |
-
-## ICF International
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [AI Engineering Intern](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2026-Summer-Intern--AI-Engineering_R2601656) | Reston, VA | Software | 2026-05-09 |
 
 ## IDeaS
 
@@ -5934,7 +5945,6 @@
 | [Fixed Income Software Developer Platform Intern](https://careersen-mackenzieinvestments.icims.com/jobs/5628/summer-2026---investment-management---fixed-income-software-developer-platform-intern/job) | Toronto, ON, CA | — | 2026-05-09 |
 | [Intern - Data Engineering Delivery](https://careersen-mackenzieinvestments.icims.com/jobs/5889/job?mobile=true&needsRedirect=false) | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
 | [Intern - Data Science](https://careersen-mackenzieinvestments.icims.com/jobs/5837/job?mobile=true&needsRedirect=false) | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
-| [Intern - Multiple Teams](https://careersen-mackenzieinvestments.icims.com/jobs/5832/job?mobile=true&needsRedirect=false) | Greater Toronto Area, ON, Canada | Product | 2026-05-09 |
 | [Intern - Product Innovation and Development](https://careersen-mackenzieinvestments.icims.com/jobs/5866/job?mobile=true&needsRedirect=false) | Toronto, ON, Canada | Product | 2026-05-09 |
 
 ## Macy's
@@ -5954,6 +5964,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Software Engineering Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235425) | Auburn Hills, MI | Hardware | 2026-05-11 |
 | [Computer Vision AI Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/Computer-Vision--AI-Intern--R-D-Summer-2026_R00232831-1) | Troy, MI | AI/ML/Data | 2026-05-09 |
 | [Engineering ADAS Perception Features Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235419) | Auburn Hills, MI | AI/ML/Data | 2026-05-09 |
 | [Engineering Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering-ADAS-Vehicle-Integration_R00238341) | Auburn Hills, MI | Hardware | 2026-05-09 |
@@ -7776,8 +7787,6 @@
 | [Global Risk Analytics Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Global-Risk-Analytics-Intern--4-Months-_R-0000168758-1) | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
 | [Global Risk Analytics Intern - Grm - 4 Months](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Global-Risk-Analytics-Intern--4-Months-_R-0000168758-2) | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
 | [Reference Data Analyst Intern - Cdo](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/HALIFAX-Nova-Scotia-Canada/XMLNAME-2026-Fall---CDO--Reference-Data-Analyst-Intern--4-Months---Bedford--NS-_R-0000170077) | Nova Scotia, Canada | AI/ML/Data | 2026-05-09 |
-| [Student Intern](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Fall-2026-Student---Data-Analyst--Personal-Banking_R-0000168782) | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
-| [Student Intern - Data Analyst - Commercial Banking](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Fall-2026-Student---Data-Analyst--Commercial-Banking_R-0000168978) | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
 | [Wealth Management – Digital Product Analyst Intern](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2026-Wealth-Management--Fall-Digital-Product-Analyst--4-months-_R-0000170863) | Toronto, ON, Canada | Product | 2026-05-09 |
 | [Wealth Management – Distribution Product Management Intern](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/VANCOUVER-British-Columbia-Canada/XMLNAME-2026-Wealth-Management--Fall-Distribution-Product-Management-Intern--12-months-_R-0000167778) | Vancouver, BC, Canada | Product | 2026-05-09 |
 | [Wealth Management Data Analyst Intern](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/Wellesley-Massachusetts-United-States-of-America/XMLNAME-2026-Wealth-Management-Summer-Data-Analyst--4-Months-_R-0000170593) | Needham, MA | AI/ML/Data | 2026-05-09 |

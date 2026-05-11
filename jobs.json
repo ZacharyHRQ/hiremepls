@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-11T04:22:35.150Z",
+  "generatedAt": "2026-05-11T07:59:30.777Z",
   "companyCount": 63,
   "okCount": 63,
-  "jobCount": 3158,
+  "jobCount": 3167,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -1278,13 +1278,11 @@
     "simplify:8d5814e5-274b-4474-9d82-c8f881ef103a": "2026-05-09T15:28:15.527Z",
     "simplify:01b73789-a55c-4227-864d-4e1c9f06b059": "2026-05-09T15:28:15.527Z",
     "simplify:41655278-a249-4e9f-b17d-f9187aacc922": "2026-05-09T15:28:15.527Z",
-    "simplify:9662257d-03f7-45d9-b21e-dd15cbb221d2": "2026-05-09T15:28:15.527Z",
     "simplify:3a60f010-c46b-4eab-ab24-a2a2b005aaac": "2026-05-09T15:28:15.527Z",
     "simplify:8747e435-55e4-448a-8137-bffca697f569": "2026-05-09T15:28:15.527Z",
     "simplify:49c93d85-ccdd-4f9f-a234-e5ed3af003c5": "2026-05-09T15:28:15.527Z",
     "simplify:14bb6e3b-26a8-4881-942d-d0d1d0924a68": "2026-05-09T15:28:15.527Z",
     "simplify:1fbdc691-dfec-4199-8f8f-02f8a8a42537": "2026-05-09T15:28:15.527Z",
-    "simplify:2ee69d6b-adf3-466c-ad7d-f914ba28728d": "2026-05-09T15:28:15.527Z",
     "simplify:530480fb-52da-4143-81f3-ab588836a123": "2026-05-09T15:28:15.527Z",
     "simplify:c6897c52-d777-42e4-ad53-c44a882be1a5": "2026-05-09T15:28:15.527Z",
     "simplify:4fec6e95-8408-41e9-9021-fe0cb97ba0a1": "2026-05-09T15:28:15.527Z",
@@ -1340,7 +1338,6 @@
     "simplify:48b498cd-3c0f-4131-b3ed-e3bea8492f06": "2026-05-09T15:28:15.527Z",
     "simplify:e8fe53d2-e6d7-49e3-b99e-048cc351bc8e": "2026-05-09T15:28:15.527Z",
     "simplify:177690e4-6703-4698-a2bd-350db211f356": "2026-05-09T15:28:15.527Z",
-    "simplify:3135e472-53f3-4bbd-8f08-dc2d0ca0ca6c": "2026-05-09T15:28:15.527Z",
     "simplify:6d0a99c3-26b2-432f-a176-97fe6fe5ad14": "2026-05-09T15:28:15.527Z",
     "simplify:a40eeecb-2655-4172-8dad-cedc88e6fc40": "2026-05-09T15:28:15.527Z",
     "simplify:47d0c866-7f08-4bee-83fd-ee02a2fc6b55": "2026-05-09T15:28:15.527Z",
@@ -1692,7 +1689,6 @@
     "simplify:e18daaef-be64-48f6-89a2-95fa3d13f1b5": "2026-05-09T15:28:15.527Z",
     "simplify:677b49ba-fffc-4743-9ec6-d7b5331e3faa": "2026-05-09T15:28:15.527Z",
     "simplify:917630ba-470e-4fa9-904d-c7feb21fa586": "2026-05-09T15:28:15.527Z",
-    "simplify:1dbe1875-6cf4-4459-9466-3d18eacda869": "2026-05-09T15:28:15.527Z",
     "simplify:e7caec30-fc5e-404b-9fa9-574e9ac277ff": "2026-05-09T15:28:15.527Z",
     "simplify:eff308a0-3750-44ad-8b74-5d3d486e1a64": "2026-05-09T15:28:15.527Z",
     "simplify:d98d5a4f-204d-435a-9a5f-97adde9f9146": "2026-05-09T15:28:15.527Z",
@@ -3161,7 +3157,20 @@
     "simplify:1654684c-ca1f-4d3e-9dc0-fc8e1f470e37": "2026-05-10T17:10:42.717Z",
     "simplify:2c1b5956-4d83-4409-b595-31acfc1544f4": "2026-05-11T00:06:33.325Z",
     "simplify:bac17122-72f7-45cc-a027-3a7f5ff4f441": "2026-05-11T04:22:35.150Z",
-    "simplify:2bb44dc9-b217-44bd-b0b7-b6aebd3ad58d": "2026-05-11T04:22:35.150Z"
+    "simplify:2bb44dc9-b217-44bd-b0b7-b6aebd3ad58d": "2026-05-11T04:22:35.150Z",
+    "simplify:2b9c7f6c-b77f-444c-9d11-e362925f21a3": "2026-05-11T07:59:30.777Z",
+    "simplify:2d421d61-207f-4bd9-8e65-78346e199d36": "2026-05-11T07:59:30.777Z",
+    "simplify:53c77559-a2c2-430b-a7d5-e6b47abb4467": "2026-05-11T07:59:30.777Z",
+    "simplify:fcf0fab7-54dc-482e-a996-c34c4394ca55": "2026-05-11T07:59:30.777Z",
+    "simplify:5aae3ccc-6c89-4f34-9061-d822d2927bc9": "2026-05-11T07:59:30.777Z",
+    "simplify:55cc6efa-ecc4-4a92-a7c2-310c0c39ace3": "2026-05-11T07:59:30.777Z",
+    "simplify:4c30af29-1dc2-4853-b22a-476b75b033e3": "2026-05-11T07:59:30.777Z",
+    "simplify:e41608bf-f9e1-404a-8866-34661516ddaa": "2026-05-11T07:59:30.777Z",
+    "simplify:b8011049-1548-4053-9e0a-5906cd2dbd3f": "2026-05-11T07:59:30.777Z",
+    "simplify:29f09403-c471-444f-a2f5-d509f23fb8b9": "2026-05-11T07:59:30.777Z",
+    "simplify:acf5c4c8-9361-409c-9dd1-245ba24951c9": "2026-05-11T07:59:30.777Z",
+    "simplify:6ea0efe1-9fbc-4f5f-8bd3-5bcf07c29734": "2026-05-11T07:59:30.777Z",
+    "simplify:45f14a7b-889c-4a39-a34a-c687f99e367c": "2026-05-11T07:59:30.777Z"
   },
   "jobs": [
     {
@@ -13909,14 +13918,6 @@
       "company": "NBCUniversal"
     },
     {
-      "id": "simplify:9662257d-03f7-45d9-b21e-dd15cbb221d2",
-      "title": "Student Intern - Data Analyst - Commercial Banking",
-      "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Fall-2026-Student---Data-Analyst--Commercial-Banking_R-0000168978",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Royal Bank of Canada"
-    },
-    {
       "id": "simplify:3a60f010-c46b-4eab-ab24-a2a2b005aaac",
       "title": "Human-Centered AI Intern: Human-Computer Interaction",
       "url": "https://jobs.lever.co/tri/000be2f3-b77c-4719-8476-0718c4c49a19/apply",
@@ -13971,14 +13972,6 @@
       "location": "Mt Laurel Township, NJ",
       "department": "Software",
       "company": "W.R. Berkley"
-    },
-    {
-      "id": "simplify:2ee69d6b-adf3-466c-ad7d-f914ba28728d",
-      "title": "Student Intern",
-      "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Fall-2026-Student---Data-Analyst--Personal-Banking_R-0000168782",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Royal Bank of Canada"
     },
     {
       "id": "simplify:530480fb-52da-4143-81f3-ab588836a123",
@@ -14525,14 +14518,6 @@
       "company": "TikTok"
     },
     {
-      "id": "simplify:3135e472-53f3-4bbd-8f08-dc2d0ca0ca6c",
-      "title": "Intern - Multiple Teams",
-      "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5832/job?mobile=true&needsRedirect=false",
-      "location": "Greater Toronto Area, ON, Canada",
-      "department": "Product",
-      "company": "Mackenzie Investments"
-    },
-    {
       "id": "simplify:6d0a99c3-26b2-432f-a176-97fe6fe5ad14",
       "title": "Global Asset Management – Product Management Intern",
       "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2026-Global-Asset-Management--Product-Management-Intern-Fall-Winter--8-months-_R-0000169633",
@@ -14571,6 +14556,14 @@
       "location": "San Jose, CA",
       "department": "AI/ML/Data",
       "company": "Adobe"
+    },
+    {
+      "id": "simplify:2b9c7f6c-b77f-444c-9d11-e362925f21a3",
+      "title": "Software Engineering Intern",
+      "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235425",
+      "location": "Auburn Hills, MI",
+      "department": "Hardware",
+      "company": "Magna"
     },
     {
       "id": "simplify:1ea442b9-59d2-470b-b92e-e8616bebe4b6",
@@ -16469,6 +16462,14 @@
       "company": "Tyson Foods"
     },
     {
+      "id": "simplify:2d421d61-207f-4bd9-8e65-78346e199d36",
+      "title": "Yard Engineer Intern",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Yard-Engineering-Intern_JR108553",
+      "location": "Dallas, TX",
+      "department": "Software",
+      "company": "Copart"
+    },
+    {
       "id": "simplify:27d8dc01-5978-49dd-bfcb-be4f52052b68",
       "title": "Yard Engineer Intern",
       "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Yard-Engineering-Intern_JR108552",
@@ -17701,14 +17702,6 @@
       "company": "EXL"
     },
     {
-      "id": "simplify:1dbe1875-6cf4-4459-9466-3d18eacda869",
-      "title": "AI Engineering Intern",
-      "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2026-Summer-Intern--AI-Engineering_R2601656",
-      "location": "Reston, VA",
-      "department": "Software",
-      "company": "ICF International"
-    },
-    {
       "id": "simplify:ad707d50-0570-4843-8048-54a73ff96958",
       "title": "AI Engineer Intern",
       "url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/Avis-Budget-House-HQ/AI-Engineer-Intern---Summer-2026_R0188401",
@@ -18155,6 +18148,94 @@
       "location": "Santa Clara, CA",
       "department": "AI/ML/Data",
       "company": "Tenstorrent"
+    },
+    {
+      "id": "simplify:53c77559-a2c2-430b-a7d5-e6b47abb4467",
+      "title": "AI Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/homebase/b61bc585-57bf-4918-8154-b8be27ff5a5e/application",
+      "location": "SF",
+      "department": "Software",
+      "company": "Homebase"
+    },
+    {
+      "id": "simplify:fcf0fab7-54dc-482e-a996-c34c4394ca55",
+      "title": "Analyst Co-op/Intern - Months",
+      "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Analyst--Fall-2026--Co-op-Internship----12-Months_R260013681-2",
+      "location": "Toronto, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "Bank of Montreal"
+    },
+    {
+      "id": "simplify:5aae3ccc-6c89-4f34-9061-d822d2927bc9",
+      "title": "Analyst Co-op/Intern - Months",
+      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Analyst--Fall-2026--Co-op-Internship----12-Months_R260013681-1",
+      "location": "Toronto, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "Bank of Montreal"
+    },
+    {
+      "id": "simplify:55cc6efa-ecc4-4a92-a7c2-310c0c39ace3",
+      "title": "Junior Software Developer Co-op/Intern",
+      "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Junior-Software-Developer--Fall-2026--Co-op-Internship----4-Months_R260013614-2",
+      "location": "Toronto, ON, Canada",
+      "department": "Software",
+      "company": "Bank of Montreal"
+    },
+    {
+      "id": "simplify:4c30af29-1dc2-4853-b22a-476b75b033e3",
+      "title": "Software Developer Co-op/Intern",
+      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer--Fall-2026--Co-op-Internship----8-Months_R260013663-1",
+      "location": "Toronto, ON, Canada",
+      "department": "Software",
+      "company": "Bank of Montreal"
+    },
+    {
+      "id": "simplify:e41608bf-f9e1-404a-8866-34661516ddaa",
+      "title": "Software Developer Co-op/Intern",
+      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer--Fall-2026--Co-op-Internship----4-Months_R260013615",
+      "location": "Toronto, ON, Canada",
+      "department": "Software",
+      "company": "Bank of Montreal"
+    },
+    {
+      "id": "simplify:b8011049-1548-4053-9e0a-5906cd2dbd3f",
+      "title": "Data Intern",
+      "url": "https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Stage-en-donnes--Automne-2026_R2606248-2",
+      "location": "Montreal, QC, Canada / Quebec City, QC, Canada",
+      "department": "AI/ML/Data",
+      "company": "Desjardins Group"
+    },
+    {
+      "id": "simplify:29f09403-c471-444f-a2f5-d509f23fb8b9",
+      "title": "Development Intern - IT sector",
+      "url": "https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Stage--Secteur-TI--Automne-2026_R2606252-1",
+      "location": "Montreal, QC, Canada / Quebec City, QC, Canada",
+      "department": "Software",
+      "company": "Desjardins Group"
+    },
+    {
+      "id": "simplify:acf5c4c8-9361-409c-9dd1-245ba24951c9",
+      "title": "Junior Software Developer Co-op/Intern",
+      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Junior-Software-Developer--Fall-2026--Co-op-Internship----4-Months_R260013614-1",
+      "location": "Toronto, ON, Canada",
+      "department": "Software",
+      "company": "Bank of Montreal"
+    },
+    {
+      "id": "simplify:6ea0efe1-9fbc-4f5f-8bd3-5bcf07c29734",
+      "title": "Software Developer Co-op/Intern",
+      "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Software-Developer--Fall-2026--Co-op-Internship----8-Months_R260013663-2",
+      "location": "Toronto, ON, Canada",
+      "department": "Software",
+      "company": "Bank of Montreal"
+    },
+    {
+      "id": "simplify:45f14a7b-889c-4a39-a34a-c687f99e367c",
+      "title": "Software Developer Co-op/Intern",
+      "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Software-Developer--Fall-2026--Co-op-Internship----4-Months_R260013615-1",
+      "location": "Toronto, ON, Canada",
+      "department": "Software",
+      "company": "Bank of Montreal"
     },
     {
       "id": "vansh:d2c404c8-5895-4ec0-95c2-3d17aed38beb",
