@@ -1,6 +1,6 @@
 # Open Internships
 
-**3141** internships across **63/63** companies — last updated 2026-05-11.
+**3130** internships across **63/63** companies — last updated 2026-05-11.
 
 ## Companies
 
@@ -27,7 +27,7 @@
 - [Advantest America Inc.](#advantest-america-inc) (1)
 - [Advantmed](#advantmed) (1)
 - [Aechelon Technology](#aechelon-technology) (2)
-- [AECOM](#aecom) (4)
+- [AECOM](#aecom) (3)
 - [AeroVect](#aerovect) (1)
 - [AeroVironment](#aerovironment) (2)
 - [Agility Robotics](#agility-robotics) (2)
@@ -58,7 +58,6 @@
 - [Amcor](#amcor) (1)
 - [AMD](#amd) (8)
 - [Amentum](#amentum) (3)
-- [American Bureau of Shipping](#american-bureau-of-shipping) (1)
 - [American Enterprise Institute](#american-enterprise-institute) (2)
 - [American Express](#american-express) (4)
 - [American Fidelity](#american-fidelity) (1)
@@ -134,7 +133,6 @@
 - [Axway](#axway) (3)
 - [Aypa Power](#aypa-power) (1)
 - [BAE Systems](#bae-systems) (13)
-- [Baird](#baird) (1)
 - [Baker Hughes](#baker-hughes) (2)
 - [Balyasny Asset Management](#balyasny-asset-management) (5)
 - [Bank of America](#bank-of-america) (4)
@@ -285,7 +283,6 @@
 - [Crest Industries](#crest-industries) (1)
 - [Cresta](#cresta) (3)
 - [Cribl](#cribl) (1)
-- [Critical Mass](#critical-mass) (1)
 - [CrowdStrike](#crowdstrike) (1)
 - [CrowdVolt](#crowdvolt) (1)
 - [Crowe](#crowe) (3)
@@ -445,13 +442,12 @@
 - [Generac](#generac) (1)
 - [General Astronautics](#general-astronautics) (1)
 - [General Dynamics](#general-dynamics) (1)
-- [General Dynamics Mission Systems](#general-dynamics-mission-systems) (14)
+- [General Dynamics Mission Systems](#general-dynamics-mission-systems) (13)
 - [General Dynamics Mission Systems, Inc.](#general-dynamics-mission-systems-inc) (6)
 - [General Motors](#general-motors) (2)
 - [General Motors Financial](#general-motors-financial) (2)
 - [Genmab](#genmab) (2)
 - [Genuine Parts Company](#genuine-parts-company) (1)
-- [Geosyntec Consultants](#geosyntec-consultants) (1)
 - [Geotab](#geotab) (15)
 - [GHD](#ghd) (1)
 - [GIGA](#giga) (1)
@@ -497,7 +493,7 @@
 - [Herdora](#herdora) (2)
 - [HERE Technologies](#here-technologies) (2)
 - [Hermeus](#hermeus) (7)
-- [Hewlett Packard (HP)](#hewlett-packard-hp) (7)
+- [Hewlett Packard (HP)](#hewlett-packard-hp) (6)
 - [Hewlett Packard Enterprise](#hewlett-packard-enterprise) (8)
 - [HEXAWARE](#hexaware) (1)
 - [HF Sinclair](#hf-sinclair) (2)
@@ -585,7 +581,7 @@
 - [K1](#k1) (1)
 - [Kaiser Permanente](#kaiser-permanente) (7)
 - [Kargo](#kargo) (1)
-- [KBR](#kbr) (13)
+- [KBR](#kbr) (11)
 - [Kearney&Company](#kearney-company) (1)
 - [Keysight](#keysight) (4)
 - [Keysight Technologies](#keysight-technologies) (8)
@@ -741,7 +737,6 @@
 - [Nuro](#nuro) (1)
 - [Nutanix](#nutanix) (1)
 - [NVIDIA](#nvidia) (27)
-- [NXP Semiconductors](#nxp-semiconductors) (1)
 - [OCC](#occ) (1)
 - [Octaura](#octaura) (2)
 - [Oklahoma City Thunder](#oklahoma-city-thunder) (1)
@@ -986,7 +981,6 @@
 - [Sun Life](#sun-life) (3)
 - [Sundt](#sundt) (1)
 - [Suno](#suno) (1)
-- [SupplyHouse.com](#supplyhouse-com) (1)
 - [Susquehanna](#susquehanna) (8)
 - [Susquehanna International Group (SIG)](#susquehanna-international-group-sig) (2)
 - [SWBC](#swbc) (3)
@@ -1351,7 +1345,6 @@
 | [Data Management Intern](https://jobs.smartrecruiters.com/AECOM2/744000084664630) | Oakland, CA | — | 2026-05-09 |
 | [Data Management Intern](https://jobs.smartrecruiters.com/AECOM2/744000084666005) | LA | — | 2026-05-09 |
 | [Data Management Intern](https://jobs.smartrecruiters.com/AECOM2/744000089107316) | Salt Lake City, UT | — | 2026-05-09 |
-| [Engineering Intern](https://jobs.smartrecruiters.com/AECOM2/744000124977393) | Detroit, MI | Software | 2026-05-09 |
 
 ## AeroVect
 
@@ -1588,12 +1581,6 @@
 | [Summer 2026 – SES Simulation Engineer Intern](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Summer-2026---SES-Simulation-Engineer-Intern_R0154870) | Houston, TX | Software | 2026-05-09 |
 | [AI and Robotics Intern](https://www.amentumcareers.com/jobs/ai-and-robotics-intern-huntsville-alabama-united-states-4fa685a1-2e01-42fa-8597-b9f54e5818be) | Huntsville, AL | — | 2026-05-09 |
 | [Software Engineering Intern, Spring](https://www.amentumcareers.com/jobs/spring-2026-internship-software-engineering-intern-houston-texas-united-states) | Houston, Texas, United States | — | 2026-05-09 |
-
-## American Bureau of Shipping
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Digital Intern](https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4336) | Knoxville, TN | AI/ML/Data | 2026-05-09 |
 
 ## American Enterprise Institute
 
@@ -2145,12 +2132,6 @@
 | [Software Systems Engineer Intern](https://jobs.baesystems.com/global/en/job/BAE1US117172BREXTERNAL/Technical-Intern-Software-Systems-Engineer-Summer-2026) | Broomfield, CO / Boulder, CO / Westminister, CO | — | 2026-05-09 |
 | [Summer Software Intern](https://jobs.baesystems.com/global/en/job/BAE1US119401BREXTERNAL/Summer-Software-Intern) | Fort Wayne, IN | Software Engineering | 2026-05-09 |
 | [Technical Intern, Embedded Software Engineer](https://jobs.baesystems.com/global/en/job/BAE1US117168BREXTERNAL/Technical-Intern-Embedded-Software-Engineer-Summer-2026) | Boulder, CO / Broomfield, CO / Westminister, CO | — | 2026-05-09 |
-
-## Baird
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Intern - Automation & AI Solutions](https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Automation---AI-Solutions--Milwaukee--WI-_R2026441-1) | Milwaukee, WI | Software | 2026-05-09 |
 
 ## Baker Hughes
 
@@ -3308,12 +3289,6 @@
 | --- | --- | --- | --- |
 | [Customer Experience Ops Intern](https://cribl.io/job-detail/?gh_jid=5807803004) | Remote - San Francisco, California | — | 2026-05-08 |
 
-## Critical Mass
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Marketing Science Intern](https://job-boards.greenhouse.io/criticalmass/jobs/7592477) | London, UK | AI/ML/Data | 2026-05-09 |
-
 ## CrowdStrike
 
 | Title | Location | Department | First seen |
@@ -3462,8 +3437,8 @@
 | [Software Engineering Intern](https://careers.datadoghq.com/detail/6954161/?gh_jid=6954161) | Boston, MA / New York, NY | — | 2026-05-09 |
 | [Software Engineering Intern](https://careers.datadoghq.com/detail/7158137/) | Boston, MA / New York, NY | — | 2026-05-09 |
 | [Software Engineering Intern, SRE](https://careers.datadoghq.com/detail/7367016/) | New York, NY | — | 2026-05-09 |
-| [IT Support Technician Intern](https://careers.datadoghq.com/detail/7391788/?gh_jid=7391788) | Boston, Massachusetts, USA | — | 2026-05-06 |
 | [IT Support Technician Intern](https://careers.datadoghq.com/detail/7826176/?gh_jid=7826176) | Paris, France | — | 2026-05-06 |
+| [IT Support Technician Intern](https://careers.datadoghq.com/detail/7391788/?gh_jid=7391788) | Boston, Massachusetts, USA | — | 2026-05-06 |
 
 ## DataVisor
 
@@ -4409,7 +4384,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Cyber Security Intern](https://careers-gdms.icims.com/jobs/68026/job?mobile=true&needsRedirect=false) | Colorado Springs, CO | — | 2026-05-09 |
-| [Engineer Co-op Intern](https://careers-gdms.icims.com/jobs/72242/job?mobile=true&needsRedirect=false) | Colorado Springs, CO | Hardware | 2026-05-09 |
 | [Engineering Intern](https://careers-gdms.icims.com/jobs/71307/job?mobile=true&needsRedirect=false) | McKeesport, PA | Hardware | 2026-05-09 |
 | [Environmental Test Facility Intern Engineer](https://careers-gdms.icims.com/jobs/72164/job?mobile=true&needsRedirect=false) | Scottsdale, AZ | Hardware | 2026-05-09 |
 | [Intern - (Systems, Software, Electrical Engineer)](https://careers-gdms.icims.com/jobs/72459/intern---%28systems%2c-software%2c-electrical-engineer%29/job) | Wahiawa, HI | Software Engineering | 2026-05-09 |
@@ -4460,12 +4434,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Web Developer Intern](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Web-Developer-Intern_R26_0000005457) | Birmingham, AL | Software | 2026-05-09 |
-
-## Geosyntec Consultants
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Data Scientist/Artificial Intelligence Intern - AI](https://careers-geosyntec.icims.com/jobs/4383/job?mobile=true&needsRedirect=false) | Kennesaw, GA | AI/ML/Data | 2026-05-09 |
 
 ## Geotab
 
@@ -4796,7 +4764,6 @@
 | [Cryptography Intern](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Bristol-Bristol-City-of-United-Kingdom/Cryptography-Intern_UNI3783-1) | Bristol, UK | Software | 2026-05-09 |
 | [Browser Software Engineer Intern](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Cambridge-Cambridgeshire-United-Kingdom/Browser-Software-Engineer-Intern_3160410-1) | Cambridge, UK | Hardware | 2026-05-09 |
 | [Cryptography Intern](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Bristol-Bristol-City-of-United-Kingdom/Cryptography-Intern_UNI3783) | Bristol, UK | Software | 2026-05-09 |
-| [Software Engineering Intern](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Fort-Collins-Colorado-United-States-of-America/Software-Engineering-Intern_3160714) | Fort Collins, CO | Software | 2026-05-09 |
 | [Software Security Research Intern](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Bristol-Bristol-City-of-United-Kingdom/Software-Security-Research-Intern_UNI3785-1) | Bristol, UK | Hardware | 2026-05-09 |
 | [Software Security Research Intern](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Bristol-Bristol-City-of-United-Kingdom/Software-Security-Research-Intern_UNI3785) | Bristol, UK | Hardware | 2026-05-09 |
 
@@ -5472,9 +5439,7 @@
 | [Reverse Engineer Intern](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/National-Security-Solutions--NSS----Reverse-Engineer-Intern_R2122629) | Beavercreek Township, OH | — | 2026-05-09 |
 | [Software Application Developer Intern for GOES-R Series Satellites](https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Silver-Spring-Maryland/Software-Application-Developer-Intern-for-GOES-R-Series-Satellites_R2115543) | Silver Spring, MD | Software Engineering | 2026-05-09 |
 | [Software Engineering Intern](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Columbia-Maryland/National-Security-Solutions--NSS----Software-Engineering-Internship_R2122608) | Columbia, MD | — | 2026-05-09 |
-| [Technical Intern](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Lexington-Park-Maryland/Technical-Intern_R2122836) | Patuxent River, MD | Hardware | 2026-05-09 |
 | [Technical Intern](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Lexington-Park-Maryland/Technical-Intern_R2122838) | Patuxent River, MD | Hardware | 2026-05-09 |
-| [Technical Intern - Data Science](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Lexington-Park-Maryland/Technical-Intern---Data-Science_R2122837) | Patuxent River, MD | AI/ML/Data | 2026-05-09 |
 
 ## Kearney&Company
 
@@ -6725,12 +6690,6 @@
 | [Software Engineering Intern, JAX](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745) | Santa Clara, CA | — | 2026-05-09 |
 | [Software Engineering Intern, Omniverse Replicator](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/Software-Engineering-Intern--Omniverse-Replicator---Summer-2026_JR2008720) | Toronto, Canada | — | 2026-05-09 |
 | [Systems Software Engineering Intern](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Systems-Software-Engineering_JR2003204) | Santa Clara, CA | — | 2026-05-09 |
-
-## NXP Semiconductors
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Firmware Engineer Intern](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Firmware-Engineer-Intern---Summer-2026_R-10062597) | Chandler, AZ | Hardware | 2026-05-09 |
 
 ## OCC
 
@@ -8575,12 +8534,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Software Engineering Intern](https://jobs.ashbyhq.com/suno/35b8b187-b136-4bf6-af4d-b28ff892dc53) | Cambridge, MA | — | 2026-05-09 |
-
-## SupplyHouse.com
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [AI Enablement Intern](https://boards.greenhouse.io/supplyhouse/jobs/5796909004) | Remote in USA | AI/ML/Data | 2026-05-09 |
 
 ## Susquehanna
 

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-11T20:13:20.995Z",
+  "generatedAt": "2026-05-11T21:41:30.048Z",
   "companyCount": 63,
   "okCount": 63,
-  "jobCount": 3141,
+  "jobCount": 3130,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -602,7 +602,6 @@
     "simplify:18021e71-6bb2-46a3-bcf2-55e4e3b50c5b": "2026-05-09T15:28:15.527Z",
     "simplify:394bda73-c496-43a9-835d-63def409a009": "2026-05-09T15:28:15.527Z",
     "simplify:1a72c242-9713-48b5-81a2-76aaa92548f1": "2026-05-09T15:28:15.527Z",
-    "simplify:ea9c61d2-6e61-4873-8b16-8c3aceed5962": "2026-05-09T15:28:15.527Z",
     "simplify:e7edc8a3-8756-4127-82d1-45ef3ff3cee4": "2026-05-09T15:28:15.527Z",
     "simplify:dde46a10-b1d7-43b9-bdee-f6a980d3c435": "2026-05-09T15:28:15.527Z",
     "simplify:d682d247-adfc-4dad-8a92-2194c9d88119": "2026-05-09T15:28:15.527Z",
@@ -652,7 +651,6 @@
     "simplify:690e4022-41e1-411c-bf12-489f610f12f1": "2026-05-09T15:28:15.527Z",
     "simplify:c760cbef-1835-4602-8bcf-778055d669fa": "2026-05-09T15:28:15.527Z",
     "simplify:83c142e0-55fd-47b2-bbc2-e6813317112c": "2026-05-09T15:28:15.527Z",
-    "simplify:1e7b2aeb-33dd-4ddb-8179-29114cb70b5a": "2026-05-09T15:28:15.527Z",
     "simplify:af9ab5dc-ea22-45aa-8e47-1a9dd4e899f4": "2026-05-09T15:28:15.527Z",
     "simplify:272cb1de-278a-45fe-87a1-7215f39bdd32": "2026-05-09T15:28:15.527Z",
     "simplify:18e75a98-b813-47d0-97c5-6f9c16ef9390": "2026-05-09T15:28:15.527Z",
@@ -965,7 +963,6 @@
     "simplify:55a6d68a-1d17-42a2-bfc5-d64bb4e3d98a": "2026-05-09T15:28:15.527Z",
     "simplify:9e6f6814-6fd9-427b-84d5-0c0b1944a4a0": "2026-05-09T15:28:15.527Z",
     "simplify:70ef7893-7835-41bc-a968-5ce2e7eb3ee4": "2026-05-09T15:28:15.527Z",
-    "simplify:39c85be0-261d-45d6-874f-a67540d1bfea": "2026-05-09T15:28:15.527Z",
     "simplify:b11f296d-b2ba-4686-be51-b55c495bd3eb": "2026-05-09T15:28:15.527Z",
     "simplify:66868ef6-4a70-4bef-bfc0-d2f96de2d203": "2026-05-09T15:28:15.527Z",
     "simplify:3b2df1b1-de52-40af-b5e6-97ad417126f1": "2026-05-09T15:28:15.527Z",
@@ -1093,7 +1090,6 @@
     "simplify:c48f51f5-6449-461d-84e9-d6fff8331382": "2026-05-09T15:28:15.527Z",
     "simplify:34578b2b-0330-4088-aca0-67776189ebce": "2026-05-09T15:28:15.527Z",
     "simplify:3573d36a-ea3c-46e3-aec1-3ca8d67c5f44": "2026-05-09T15:28:15.527Z",
-    "simplify:41d173ff-31eb-4a80-8240-1e481b423291": "2026-05-09T15:28:15.527Z",
     "simplify:ddd38f53-6805-453a-a682-e88205db318c": "2026-05-09T15:28:15.527Z",
     "simplify:8203f3cf-64e2-47a6-a9a0-17c104f4303a": "2026-05-09T15:28:15.527Z",
     "simplify:12b88443-b10d-4316-b1bb-44f20afa2cba": "2026-05-09T15:28:15.527Z",
@@ -1138,7 +1134,6 @@
     "simplify:1df8808f-a878-46a2-ba15-70c3fbeae304": "2026-05-09T15:28:15.527Z",
     "simplify:76360717-c141-4dda-8deb-21c0a547eade": "2026-05-09T15:28:15.527Z",
     "simplify:4b95d40c-afe4-4c27-af52-6e7cff541fa8": "2026-05-09T15:28:15.527Z",
-    "simplify:527f6229-0830-4b0d-bebf-9b948f241b44": "2026-05-09T15:28:15.527Z",
     "simplify:0ce9e860-bd85-4ebc-b74f-5ba4c7420a61": "2026-05-09T15:28:15.527Z",
     "simplify:5554c80f-ceeb-4a82-8ca0-1c82e6c6313c": "2026-05-09T15:28:15.527Z",
     "simplify:4531faae-9742-4b6a-a947-785fd37f87de": "2026-05-09T15:28:15.527Z",
@@ -1334,7 +1329,6 @@
     "simplify:f4e6b65a-c191-47b6-b02b-f2385f91d990": "2026-05-09T15:28:15.527Z",
     "simplify:c97b9c17-dda6-4c3f-a83c-9f49bb003f4e": "2026-05-09T15:28:15.527Z",
     "simplify:5a79add5-8179-4a06-85f0-04564ae20715": "2026-05-09T15:28:15.527Z",
-    "simplify:23dfd13f-ecf3-41ea-b250-b3321a94cc0d": "2026-05-09T15:28:15.527Z",
     "simplify:0718fecc-0b61-46aa-a33c-44fa02cce82a": "2026-05-09T15:28:15.527Z",
     "simplify:fe2090ae-0404-47d2-89f2-e46316098fcd": "2026-05-09T15:28:15.527Z",
     "simplify:2d7d81b9-60a2-461e-bc8b-a1e8d00a3b0e": "2026-05-09T15:28:15.527Z",
@@ -1367,7 +1361,6 @@
     "simplify:2676d8ef-927b-4526-b7aa-bb6ddf9b2633": "2026-05-09T15:28:15.527Z",
     "simplify:e9d3e4cb-148d-4b00-bde4-585ad8efc623": "2026-05-09T15:28:15.527Z",
     "simplify:159923fa-e2a9-452d-8473-d84dcca80863": "2026-05-09T15:28:15.527Z",
-    "simplify:1947c299-9c48-45c1-8d96-29867d279a80": "2026-05-09T15:28:15.527Z",
     "simplify:f19a11e1-2cc4-433f-9440-05c01f5daf32": "2026-05-09T15:28:15.527Z",
     "simplify:5b26335b-5805-4f01-9d00-8b3a3fdf323f": "2026-05-09T15:28:15.527Z",
     "simplify:944d771e-9264-4b02-ae60-f7d6269c2c2a": "2026-05-09T15:28:15.527Z",
@@ -1376,7 +1369,6 @@
     "simplify:358237a9-7866-40f8-98fc-affcbbc15651": "2026-05-09T15:28:15.527Z",
     "simplify:e2c2fcf8-db21-433c-a247-30d8a242f637": "2026-05-09T15:28:15.527Z",
     "simplify:178d4969-cbeb-433a-bc1e-ebe84d5a1b4f": "2026-05-09T15:28:15.527Z",
-    "simplify:0d8ae7a0-75a2-499f-97ac-50bafc321fb0": "2026-05-09T15:28:15.527Z",
     "simplify:e50df52b-b0be-454a-823f-9677ce36ebd9": "2026-05-09T15:28:15.527Z",
     "simplify:382d947b-1e85-457c-a2a4-4bc3ea664b54": "2026-05-09T15:28:15.527Z",
     "simplify:35066ac0-1560-4dd8-af1e-43c56f13ef8c": "2026-05-09T15:28:15.527Z",
@@ -1422,7 +1414,6 @@
     "simplify:8d4d6d58-295f-447f-864c-52e7f521a4f7": "2026-05-09T15:28:15.527Z",
     "simplify:5abb7213-e002-438e-a41f-dcc4952bd216": "2026-05-09T15:28:15.527Z",
     "simplify:aac29022-e242-4a16-a088-016abd8b78dd": "2026-05-09T15:28:15.527Z",
-    "simplify:1b389e3d-2920-4ae5-9e90-88b0e3d1a06e": "2026-05-09T15:28:15.527Z",
     "simplify:cc97ace1-10ca-445e-8a2e-c86f5f8e3448": "2026-05-09T15:28:15.527Z",
     "simplify:6c295090-14b7-4210-a8ad-9cefa3179e97": "2026-05-09T15:28:15.527Z",
     "simplify:2434350c-49cd-4956-9d1d-fab686918a3f": "2026-05-09T15:28:15.527Z",
@@ -1582,7 +1573,6 @@
     "simplify:a4914ef5-18b0-4cd6-a548-0c969b72a54d": "2026-05-09T15:28:15.527Z",
     "simplify:9155d2de-fa00-49ca-b95d-4eea0fafce7b": "2026-05-09T15:28:15.527Z",
     "simplify:452fea33-8acc-4179-a966-2aca9e9ed3ff": "2026-05-09T15:28:15.527Z",
-    "simplify:b12bccd0-623d-41e3-b42d-137c22d086c8": "2026-05-09T15:28:15.527Z",
     "simplify:66cc7db3-9c69-43b1-a27f-82d6841c1ecd": "2026-05-09T15:28:15.527Z",
     "simplify:02078445-416a-4a0e-a05d-2bc788f39dfe": "2026-05-09T15:28:15.527Z",
     "simplify:44067d74-7242-4076-a5ef-fcef52a0c07d": "2026-05-09T15:28:15.527Z",
@@ -1611,7 +1601,6 @@
     "simplify:40c84554-849d-4a30-ae45-4aa116d7cb5b": "2026-05-09T15:28:15.527Z",
     "simplify:a8394fef-9f28-44ce-a233-ed8822941ae4": "2026-05-09T15:28:15.527Z",
     "simplify:9b204bb9-aabc-4113-b825-5aa683d61f05": "2026-05-09T15:28:15.527Z",
-    "simplify:c2eb3f7a-4e62-499a-bef8-cc52ac34d586": "2026-05-09T15:28:15.527Z",
     "simplify:b4b2aa5b-2f7a-4b3e-8a47-e97ed696ce39": "2026-05-09T15:28:15.527Z",
     "simplify:39d03fbd-ef14-485e-8c46-08eeba2a2e28": "2026-05-09T15:28:15.527Z",
     "simplify:f8219cdb-e611-4b5e-9f95-f3871c3de028": "2026-05-09T15:28:15.527Z",
@@ -4212,18 +4201,18 @@
       "company": "Cloudflare"
     },
     {
-      "id": "7391788",
-      "title": "IT Support Technician Intern",
-      "url": "https://careers.datadoghq.com/detail/7391788/?gh_jid=7391788",
-      "location": "Boston, Massachusetts, USA",
-      "department": "",
-      "company": "Datadog"
-    },
-    {
       "id": "7826176",
       "title": "IT Support Technician Intern",
       "url": "https://careers.datadoghq.com/detail/7826176/?gh_jid=7826176",
       "location": "Paris, France",
+      "department": "",
+      "company": "Datadog"
+    },
+    {
+      "id": "7391788",
+      "title": "IT Support Technician Intern",
+      "url": "https://careers.datadoghq.com/detail/7391788/?gh_jid=7391788",
+      "location": "Boston, Massachusetts, USA",
       "department": "",
       "company": "Datadog"
     },
@@ -8084,14 +8073,6 @@
       "company": "Autodesk"
     },
     {
-      "id": "simplify:ea9c61d2-6e61-4873-8b16-8c3aceed5962",
-      "title": "AI Enablement Intern",
-      "url": "https://boards.greenhouse.io/supplyhouse/jobs/5796909004",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "SupplyHouse.com"
-    },
-    {
       "id": "simplify:e7edc8a3-8756-4127-82d1-45ef3ff3cee4",
       "title": "Security Software Engineer Project Intern - Product Security - 2026 Start",
       "url": "https://lifeattiktok.com/search/7600536394771564853",
@@ -8554,14 +8535,6 @@
       "location": "Wright-Patterson AFB, OH",
       "department": "AI/ML/Data",
       "company": "KBR"
-    },
-    {
-      "id": "simplify:1e7b2aeb-33dd-4ddb-8179-29114cb70b5a",
-      "title": "Marketing Science Intern",
-      "url": "https://job-boards.greenhouse.io/criticalmass/jobs/7592477",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "Critical Mass"
     },
     {
       "id": "simplify:af9ab5dc-ea22-45aa-8e47-1a9dd4e899f4",
@@ -11340,14 +11313,6 @@
       "company": "Tencent"
     },
     {
-      "id": "simplify:39c85be0-261d-45d6-874f-a67540d1bfea",
-      "title": "Firmware Engineer Intern",
-      "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Firmware-Engineer-Intern---Summer-2026_R-10062597",
-      "location": "Chandler, AZ",
-      "department": "Hardware",
-      "company": "NXP Semiconductors"
-    },
-    {
       "id": "simplify:d562a9c8-2f53-4290-a129-f4738217183e",
       "title": "Engineering Intern",
       "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Newark-CA/Engineering-Intern_REQ33479",
@@ -12436,14 +12401,6 @@
       "company": "Tradeweb"
     },
     {
-      "id": "simplify:41d173ff-31eb-4a80-8240-1e481b423291",
-      "title": "Intern - Automation & AI Solutions",
-      "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Automation---AI-Solutions--Milwaukee--WI-_R2026441-1",
-      "location": "Milwaukee, WI",
-      "department": "Software",
-      "company": "Baird"
-    },
-    {
       "id": "simplify:ddd38f53-6805-453a-a682-e88205db318c",
       "title": "AI Engineer Intern - Long/Short Equities",
       "url": "https://boards.greenhouse.io/point72/jobs/8500448002",
@@ -12810,14 +12767,6 @@
       "location": "NYC",
       "department": "Quant",
       "company": "CME Group"
-    },
-    {
-      "id": "simplify:527f6229-0830-4b0d-bebf-9b948f241b44",
-      "title": "Data Scientist/Artificial Intelligence Intern - AI",
-      "url": "https://careers-geosyntec.icims.com/jobs/4383/job?mobile=true&needsRedirect=false",
-      "location": "Kennesaw, GA",
-      "department": "AI/ML/Data",
-      "company": "Geosyntec Consultants"
     },
     {
       "id": "simplify:0ce9e860-bd85-4ebc-b74f-5ba4c7420a61",
@@ -14644,14 +14593,6 @@
       "company": "ByteDance"
     },
     {
-      "id": "simplify:23dfd13f-ecf3-41ea-b250-b3321a94cc0d",
-      "title": "Engineer Co-op Intern",
-      "url": "https://careers-gdms.icims.com/jobs/72242/job?mobile=true&needsRedirect=false",
-      "location": "Colorado Springs, CO",
-      "department": "Hardware",
-      "company": "General Dynamics Mission Systems"
-    },
-    {
       "id": "simplify:0718fecc-0b61-46aa-a33c-44fa02cce82a",
       "title": "Business Data Analytics Intern - Channel Coverage",
       "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Business-Data-Analytics-Intern--Channel-Coverage_R-544035",
@@ -14964,14 +14905,6 @@
       "company": "MSIG USA "
     },
     {
-      "id": "simplify:1947c299-9c48-45c1-8d96-29867d279a80",
-      "title": "Technical Intern",
-      "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Lexington-Park-Maryland/Technical-Intern_R2122836",
-      "location": "Patuxent River, MD",
-      "department": "Hardware",
-      "company": "KBR"
-    },
-    {
       "id": "simplify:f19a11e1-2cc4-433f-9440-05c01f5daf32",
       "title": "Build Team Intern",
       "url": "https://careers.formlabs.com/job/7863858/apply/?gh_jid=7863858",
@@ -15042,14 +14975,6 @@
       "location": "Cambridge, MA",
       "department": "Hardware",
       "company": "Formlabs"
-    },
-    {
-      "id": "simplify:0d8ae7a0-75a2-499f-97ac-50bafc321fb0",
-      "title": "Technical Intern - Data Science",
-      "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Lexington-Park-Maryland/Technical-Intern---Data-Science_R2122837",
-      "location": "Patuxent River, MD",
-      "department": "AI/ML/Data",
-      "company": "KBR"
     },
     {
       "id": "simplify:e50df52b-b0be-454a-823f-9677ce36ebd9",
@@ -15490,14 +15415,6 @@
       "location": "Newport Beach, CA",
       "department": "Hardware",
       "company": "Anduril"
-    },
-    {
-      "id": "simplify:1b389e3d-2920-4ae5-9e90-88b0e3d1a06e",
-      "title": "Software Engineering Intern",
-      "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Fort-Collins-Colorado-United-States-of-America/Software-Engineering-Intern_3160714",
-      "location": "Fort Collins, CO",
-      "department": "Software",
-      "company": "Hewlett Packard (HP)"
     },
     {
       "id": "simplify:cc97ace1-10ca-445e-8a2e-c86f5f8e3448",
@@ -16980,14 +16897,6 @@
       "company": "H3X Technologies"
     },
     {
-      "id": "simplify:b12bccd0-623d-41e3-b42d-137c22d086c8",
-      "title": "Engineering Intern",
-      "url": "https://jobs.smartrecruiters.com/AECOM2/744000124977393",
-      "location": "Detroit, MI",
-      "department": "Software",
-      "company": "AECOM"
-    },
-    {
       "id": "simplify:66cc7db3-9c69-43b1-a27f-82d6841c1ecd",
       "title": "Engineering Intern",
       "url": "https://job-boards.greenhouse.io/energyhub/jobs/8524847002",
@@ -17226,14 +17135,6 @@
       "location": "Chicago, IL",
       "department": "AI/ML/Data",
       "company": "HERE Technologies"
-    },
-    {
-      "id": "simplify:c2eb3f7a-4e62-499a-bef8-cc52ac34d586",
-      "title": "Digital Intern",
-      "url": "https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4336",
-      "location": "Knoxville, TN",
-      "department": "AI/ML/Data",
-      "company": "American Bureau of Shipping"
     },
     {
       "id": "simplify:b4b2aa5b-2f7a-4b3e-8a47-e97ed696ce39",
