@@ -1,6 +1,6 @@
 # Open Internships
 
-**3157** internships across **63/63** companies — last updated 2026-05-11.
+**3158** internships across **63/63** companies — last updated 2026-05-11.
 
 ## Companies
 
@@ -804,7 +804,7 @@
 - [Pluralsight](#pluralsight) (1)
 - [PNC](#pnc) (1)
 - [Podium](#podium) (1)
-- [Point72](#point72) (39)
+- [Point72](#point72) (38)
 - [Poshmark](#poshmark) (1)
 - [PowerSchool](#powerschool) (1)
 - [Practising Law Institute](#practising-law-institute) (1)
@@ -890,7 +890,7 @@
 - [Samsung Research America](#samsung-research-america) (3)
 - [Sandhills Global](#sandhills-global) (1)
 - [Sandisk](#sandisk) (3)
-- [Sanofi](#sanofi) (1)
+- [Sanofi](#sanofi) (2)
 - [Santander](#santander) (4)
 - [SAP](#sap) (2)
 - [Sartorius](#sartorius) (1)
@@ -1047,7 +1047,7 @@
 - [thyssenkrupp](#thyssenkrupp) (1)
 - [TIFIN](#tifin) (1)
 - [Tiktok](#tiktok) (1)
-- [TikTok](#tiktok) (185)
+- [TikTok](#tiktok) (186)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (2)
 - [TNS](#tns) (1)
@@ -3460,8 +3460,8 @@
 | [Software Engineering Intern](https://careers.datadoghq.com/detail/6954161/?gh_jid=6954161) | Boston, MA / New York, NY | — | 2026-05-09 |
 | [Software Engineering Intern](https://careers.datadoghq.com/detail/7158137/) | Boston, MA / New York, NY | — | 2026-05-09 |
 | [Software Engineering Intern, SRE](https://careers.datadoghq.com/detail/7367016/) | New York, NY | — | 2026-05-09 |
-| [IT Support Technician Intern](https://careers.datadoghq.com/detail/7391788/?gh_jid=7391788) | Boston, Massachusetts, USA | — | 2026-05-06 |
 | [IT Support Technician Intern](https://careers.datadoghq.com/detail/7826176/?gh_jid=7826176) | Paris, France | — | 2026-05-06 |
+| [IT Support Technician Intern](https://careers.datadoghq.com/detail/7391788/?gh_jid=7391788) | Boston, Massachusetts, USA | — | 2026-05-06 |
 
 ## DataVisor
 
@@ -7223,7 +7223,6 @@
 | [2026 AI Analyst Intern, Long/Short Equities](https://boards.greenhouse.io/point72/jobs/8486146002?gh_jid=8486146002) | New York, New York | — | 2026-05-06 |
 | [2026 AI Engineer Intern, Long/Short Equities](https://boards.greenhouse.io/point72/jobs/8500448002?gh_jid=8500448002) | New York, New York | — | 2026-05-06 |
 | [2026 Corporate Access Summer Intern, Hong Kong](https://boards.greenhouse.io/point72/jobs/8191183002?gh_jid=8191183002) | Hong Kong | — | 2026-05-06 |
-| [2026 Finance Summer Internship, Warsaw](https://boards.greenhouse.io/point72/jobs/8429635002?gh_jid=8429635002) | Warsaw | — | 2026-05-06 |
 | [2026 Finance Summer Internship, Warsaw (Payroll)](https://boards.greenhouse.io/point72/jobs/8505843002?gh_jid=8505843002) | Warsaw | — | 2026-05-06 |
 | [2026 Internship - Transportation Strategy, Metropolitan Park](https://boards.greenhouse.io/point72/jobs/8455101002?gh_jid=8455101002) | New York, NY | — | 2026-05-06 |
 | [2026 Summer Internship – Data Engineer, Long/Short Equities](https://boards.greenhouse.io/point72/jobs/8183047002?gh_jid=8183047002) | London | — | 2026-05-06 |
@@ -7237,8 +7236,8 @@
 | [2027 Point72 Academy Investment Analyst Summer Internship Program - Japan](https://boards.greenhouse.io/point72/jobs/8491138002?gh_jid=8491138002) | Japan | — | 2026-05-06 |
 | [2027 Point72 Academy Investment Analyst Summer Internship Program - Singapore](https://boards.greenhouse.io/point72/jobs/8491128002?gh_jid=8491128002) | Singapore | — | 2026-05-06 |
 | [2027 Point72 Academy Investment Analyst Summer Internship Program - US](https://boards.greenhouse.io/point72/jobs/8295501002?gh_jid=8295501002) | United States | — | 2026-05-06 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | Singapore | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | Hong Kong | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | Singapore | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | New York | — | 2026-05-06 |
 | [Quantitative Research Intern](https://boards.greenhouse.io/point72/jobs/7297667002?gh_jid=7297667002) | New York, Seattle | — | 2026-05-06 |
@@ -7888,6 +7887,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Apprenticeship Intern - Quality Data Insight](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Gentilly/apprenticeship-12-months---quality-data-insight_R2855150) | New Orleans, LA | AI/ML/Data | 2026-05-11 |
 | [Global MSAT Automation Engineer Intern](https://jobs.sanofi.com/en/job/-/-/2649/29541565056) | Framingham, MA | — | 2026-05-09 |
 
 ## Santander
@@ -8838,8 +8838,8 @@
 | [CPU Core Performance Verification Intern - CPU/AI Hardware](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501134007) | Austin, TX / Santa Clara, CA | Hardware | 2026-05-09 |
 | [Design Verification Intern - RISCV CPU](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501100007) | Austin, TX / Santa Clara, CA | Hardware | 2026-05-09 |
 | [Design Verification Software Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4522665007) | Austin, TX / Santa Clara, CA | Software | 2026-05-09 |
+| [Machine Learning Applications & Benchmarking Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4532863007) | Santa Clara, CA | AI/ML/Data | 2026-05-09 |
 | [Machine Learning for Physical Design Intern - CPU/AI Hardware](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501164007) | Austin, TX / Santa Clara, CA | AI/ML/Data | 2026-05-09 |
-| [ML Application & Benchmarking Intern - Pey](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4532863007) | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
 | [Physical Design Intern - CPU/AI Hardware](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4526301007) | Austin, TX / Santa Clara, CA | Hardware | 2026-05-09 |
 | [Software Intern - AI Compilers](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501189007) | Toronto, ON, Canada / Austin, TX / Santa Clara, CA | Software | 2026-05-09 |
 
@@ -9109,6 +9109,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Online Architecture Research Intern - TikTok Generalized Arch - PhD](https://lifeattiktok.com/search/7549086862464338184) | Seattle, WA | AI/ML/Data | 2026-05-11 |
 | [Software Engineer Intern - TikTok Search Architecture - BS/MS](https://lifeattiktok.com/search/7534626306991016199) | San Jose, CA | Software | 2026-05-10 |
 | [AI Agent Project Intern](https://lifeattiktok.com/search/7605996823695116597) | London, UK | AI/ML/Data | 2026-05-09 |
 | [AI Product Operations Intern](https://lifeattiktok.com/search/7611950589973186821) | San Jose, CA | AI/ML/Data | 2026-05-09 |

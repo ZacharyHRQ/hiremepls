@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-11T00:06:33.325Z",
+  "generatedAt": "2026-05-11T04:22:35.150Z",
   "companyCount": 63,
   "okCount": 63,
-  "jobCount": 3157,
+  "jobCount": 3158,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -100,7 +100,6 @@
     "8486146002": "2026-05-06T06:42:07.596Z",
     "8500448002": "2026-05-06T06:42:07.596Z",
     "8191183002": "2026-05-06T06:42:07.596Z",
-    "8429635002": "2026-05-06T06:42:07.596Z",
     "8505843002": "2026-05-06T06:42:07.596Z",
     "8455101002": "2026-05-06T06:42:07.596Z",
     "8183047002": "2026-05-06T06:42:07.596Z",
@@ -3160,7 +3159,9 @@
     "simplify:59ce8bbc-ad44-476f-912b-d67774291a4b": "2026-05-10T04:57:30.363Z",
     "simplify:246f708a-1831-42ca-8aaa-ec29b6c3dd90": "2026-05-10T04:57:30.363Z",
     "simplify:1654684c-ca1f-4d3e-9dc0-fc8e1f470e37": "2026-05-10T17:10:42.717Z",
-    "simplify:2c1b5956-4d83-4409-b595-31acfc1544f4": "2026-05-11T00:06:33.325Z"
+    "simplify:2c1b5956-4d83-4409-b595-31acfc1544f4": "2026-05-11T00:06:33.325Z",
+    "simplify:bac17122-72f7-45cc-a027-3a7f5ff4f441": "2026-05-11T04:22:35.150Z",
+    "simplify:2bb44dc9-b217-44bd-b0b7-b6aebd3ad58d": "2026-05-11T04:22:35.150Z"
   },
   "jobs": [
     {
@@ -3412,14 +3413,6 @@
       "company": "Point72"
     },
     {
-      "id": "8429635002",
-      "title": "2026 Finance Summer Internship, Warsaw ",
-      "url": "https://boards.greenhouse.io/point72/jobs/8429635002?gh_jid=8429635002",
-      "location": "Warsaw",
-      "department": "",
-      "company": "Point72"
-    },
-    {
       "id": "8505843002",
       "title": "2026 Finance Summer Internship, Warsaw (Payroll)",
       "url": "https://boards.greenhouse.io/point72/jobs/8505843002?gh_jid=8505843002",
@@ -3532,18 +3525,18 @@
       "company": "Point72"
     },
     {
-      "id": "7297598002",
-      "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
-      "department": "",
-      "company": "Point72"
-    },
-    {
       "id": "7297611002",
       "title": "Cubist Quantitative Researcher Intern",
       "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
       "location": "Hong Kong",
+      "department": "",
+      "company": "Point72"
+    },
+    {
+      "id": "7297598002",
+      "title": "Cubist Quantitative Researcher Intern",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72"
     },
@@ -4260,18 +4253,18 @@
       "company": "Cloudflare"
     },
     {
-      "id": "7391788",
-      "title": "IT Support Technician Intern",
-      "url": "https://careers.datadoghq.com/detail/7391788/?gh_jid=7391788",
-      "location": "Boston, Massachusetts, USA",
-      "department": "",
-      "company": "Datadog"
-    },
-    {
       "id": "7826176",
       "title": "IT Support Technician Intern",
       "url": "https://careers.datadoghq.com/detail/7826176/?gh_jid=7826176",
       "location": "Paris, France",
+      "department": "",
+      "company": "Datadog"
+    },
+    {
+      "id": "7391788",
+      "title": "IT Support Technician Intern",
+      "url": "https://careers.datadoghq.com/detail/7391788/?gh_jid=7391788",
+      "location": "Boston, Massachusetts, USA",
       "department": "",
       "company": "Datadog"
     },
@@ -4426,14 +4419,6 @@
       "location": "Remote - San Francisco, California",
       "department": "",
       "company": "Cribl"
-    },
-    {
-      "id": "simplify:0cac0d03-2600-4339-9746-f86b88e23d15",
-      "title": "ML Application & Benchmarking Intern - Pey",
-      "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4532863007",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Tenstorrent"
     },
     {
       "id": "simplify:b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
@@ -14844,6 +14829,14 @@
       "company": "Royal Bank of Canada"
     },
     {
+      "id": "simplify:bac17122-72f7-45cc-a027-3a7f5ff4f441",
+      "title": "Apprenticeship Intern - Quality Data Insight",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Gentilly/apprenticeship-12-months---quality-data-insight_R2855150",
+      "location": "New Orleans, LA",
+      "department": "AI/ML/Data",
+      "company": "Sanofi"
+    },
+    {
       "id": "simplify:11de0fcc-dda9-4efc-8310-e4d7f8276867",
       "title": "Data Analytics Intern",
       "url": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Milpitas-CA/Data-Analytics-Internship_R-5837",
@@ -18145,6 +18138,22 @@
       "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873659007",
       "location": "Toronto, ON, Canada",
       "department": "Software",
+      "company": "Tenstorrent"
+    },
+    {
+      "id": "simplify:2bb44dc9-b217-44bd-b0b7-b6aebd3ad58d",
+      "title": "Online Architecture Research Intern - TikTok Generalized Arch - PhD",
+      "url": "https://lifeattiktok.com/search/7549086862464338184",
+      "location": "Seattle, WA",
+      "department": "AI/ML/Data",
+      "company": "TikTok"
+    },
+    {
+      "id": "simplify:0cac0d03-2600-4339-9746-f86b88e23d15",
+      "title": "Machine Learning Applications & Benchmarking Intern",
+      "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4532863007",
+      "location": "Santa Clara, CA",
+      "department": "AI/ML/Data",
       "company": "Tenstorrent"
     },
     {
