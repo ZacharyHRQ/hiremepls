@@ -1,6 +1,6 @@
 # Open Internships
 
-**3159** internships across **63/63** companies — last updated 2026-05-12.
+**3156** internships across **63/63** companies — last updated 2026-05-12.
 
 ## Companies
 
@@ -19,7 +19,7 @@
 - [ACI Worldwide ](#aci-worldwide) (3)
 - [Actian](#actian) (5)
 - [Activision Blizzard](#activision-blizzard) (2)
-- [Adobe](#adobe) (15)
+- [Adobe](#adobe) (14)
 - [ADT](#adt) (2)
 - [Adtheorant](#adtheorant) (2)
 - [Advanced Energy](#advanced-energy) (2)
@@ -243,7 +243,7 @@
 - [CLEAResult](#clearesult) (1)
 - [Clerkie](#clerkie) (1)
 - [Clever](#clever) (1)
-- [Cloudflare](#cloudflare) (40)
+- [Cloudflare](#cloudflare) (39)
 - [Cloudforce](#cloudforce) (2)
 - [Cloudglue - YC](#cloudglue-yc) (1)
 - [CME Group](#cme-group) (3)
@@ -274,7 +274,7 @@
 - [Corgi](#corgi) (1)
 - [Corning](#corning) (1)
 - [CoStar Group](#costar-group) (1)
-- [Cotiviti](#cotiviti) (3)
+- [Cotiviti](#cotiviti) (4)
 - [Covestro](#covestro) (1)
 - [Cox Automotive](#cox-automotive) (1)
 - [Cox Enterprises](#cox-enterprises) (3)
@@ -307,6 +307,7 @@
 - [Datadog](#datadog) (6)
 - [DataVisor](#datavisor) (2)
 - [Decagon](#decagon) (1)
+- [Deckers Brands](#deckers-brands) (1)
 - [Dedalus Labs](#dedalus-labs) (1)
 - [Deloitte](#deloitte) (1)
 - [Delta Air Lines, Inc.](#delta-air-lines-inc) (1)
@@ -437,13 +438,13 @@
 - [Garmin International](#garmin-international) (1)
 - [GE Healthcare](#ge-healthcare) (1)
 - [GE Vernova](#ge-vernova) (7)
-- [Geisinger](#geisinger) (1)
+- [Geisinger](#geisinger) (2)
 - [Gelber Group](#gelber-group) (5)
 - [Gemini](#gemini) (1)
 - [Generac](#generac) (1)
 - [General Astronautics](#general-astronautics) (1)
 - [General Dynamics](#general-dynamics) (1)
-- [General Dynamics Mission Systems](#general-dynamics-mission-systems) (14)
+- [General Dynamics Mission Systems](#general-dynamics-mission-systems) (13)
 - [General Dynamics Mission Systems, Inc.](#general-dynamics-mission-systems-inc) (6)
 - [General Motors](#general-motors) (2)
 - [General Motors Financial](#general-motors-financial) (2)
@@ -560,7 +561,7 @@
 - [Intuit](#intuit) (6)
 - [Intuitive](#intuitive) (3)
 - [InvoiceCloud](#invoicecloud) (1)
-- [Ironclad](#ironclad) (2)
+- [Ironclad](#ironclad) (1)
 - [iTradeNetwork](#itradenetwork) (1)
 - [IXL Learning](#ixl-learning) (3)
 - [Jack Henry](#jack-henry) (2)
@@ -752,7 +753,7 @@
 - [OpenAI](#openai) (2)
 - [Optiver](#optiver) (9)
 - [OpusClip](#opusclip) (2)
-- [Oracle](#oracle) (16)
+- [Oracle](#oracle) (15)
 - [OraSure Technologies](#orasure-technologies) (1)
 - [Orchids](#orchids) (1)
 - [Origami Risk](#origami-risk) (1)
@@ -1070,7 +1071,6 @@
 - [Truveta](#truveta) (1)
 - [TSMC](#tsmc) (1)
 - [TTM Technologies](#ttm-technologies) (1)
-- [Tuesday Lab](#tuesday-lab) (1)
 - [Tutor Perini Corporation](#tutor-perini-corporation) (1)
 - [TWG Global](#twg-global) (1)
 - [Twilio](#twilio) (5)
@@ -1137,7 +1137,6 @@
 - [Walt Disney Imagineering](#walt-disney-imagineering) (1)
 - [Wardstone](#wardstone) (1)
 - [Wash U](#wash-u) (1)
-- [Waters Corporation](#waters-corporation) (1)
 - [Waymo](#waymo) (10)
 - [Wayne County](#wayne-county) (1)
 - [Waypoint Transit](#waypoint-transit) (1)
@@ -1158,6 +1157,7 @@
 - [Workday](#workday) (6)
 - [Workstream](#workstream) (1)
 - [Worthington Enterprises](#worthington-enterprises) (1)
+- [WSP](#wsp) (1)
 - [WTW](#wtw) (2)
 - [X Development](#x-development) (3)
 - [Xantium](#xantium) (1)
@@ -1293,7 +1293,6 @@
 | [Enterprise Architecture Analyst Intern](https://careers.adobe.com/us/en/job/R158742/2026-Intern-Enterprise-Architecture-Analyst) | New York, NY | — | 2026-05-09 |
 | [Intern - Machine Learning Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Machine-Learning-Engineer_R160621) | SF / San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Machine Learning Engineer Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706) | Seattle, WA / San Francisco, CA / San Jose, CA | — | 2026-05-09 |
-| [Machine Learning Engineer Intern - AI/ML](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706) | Seattle, WA / SF / San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Machine Learning Engineer Intern, AI/ML](https://careers.adobe.com/us/en/job/ADOBUSR158493EXTERNALENUS/2026-AI-ML-Intern-Machine-Learning-Engineer) | San Jose, CA / Waltham, MA / Austin, TX / San Francisco, CA / Lehi, UT / Seattle, WA / New York, NY | — | 2026-05-09 |
 | [MBA Intern - Product Management](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2026-MBA-Intern---Product-Manager_R160316) | SF / San Jose, CA | Product | 2026-05-09 |
 | [People Data Scientist Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---People-Data-Scientist_R161486) | San Francisco, CA / San Jose, CA | — | 2026-05-09 |
@@ -2993,7 +2992,6 @@
 | [Marketing Events and Campaigns Intern (Mid-Year 2026)](https://boards.greenhouse.io/cloudflare/jobs/7736919?gh_jid=7736919) | In-Office | — | 2026-05-07 |
 | [Business Analyst Intern, Marketing (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7729700?gh_jid=7729700) | In-Office | — | 2026-05-06 |
 | [Business Analyst Intern, Revenue Operations (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7761468?gh_jid=7761468) | In-Office | — | 2026-05-06 |
-| [Content Marketing Intern (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7733168?gh_jid=7733168) | In-Office | — | 2026-05-06 |
 | [Content Marketing Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7733145?gh_jid=7733145) | In-Office | — | 2026-05-06 |
 | [Customer Advocacy Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7743202?gh_jid=7743202) | In-Office | — | 2026-05-06 |
 | [CxO Transformation Partners Intern - (Summer/Spring/Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7786702?gh_jid=7786702) | In-Office | — | 2026-05-06 |
@@ -3018,8 +3016,8 @@
 | [Revenue Operations Intern - Enablement (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7761397?gh_jid=7761397) | In-Office | — | 2026-05-06 |
 | [Sales Project Manager Intern (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7773799?gh_jid=7773799) | In-Office | — | 2026-05-06 |
 | [Sales: Solutions Engineer - Intern (Summer & Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7792962?gh_jid=7792962) | In-Office | — | 2026-05-06 |
-| [Security Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169) | In-Office | — | 2026-05-06 |
 | [Security Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150) | In-Office | — | 2026-05-06 |
+| [Security Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169) | In-Office | — | 2026-05-06 |
 | [Solutions Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7738800?gh_jid=7738800) | In-Office | — | 2026-05-06 |
 | [Technical Marketing Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7733496?gh_jid=7733496) | In-Office | — | 2026-05-06 |
 | [Technical Support Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879) | In-Office | — | 2026-05-06 |
@@ -3244,6 +3242,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Temporary Intern - Data Analytics](https://careers-cotiviti.icims.com/jobs/18676/job?mobile=true&needsRedirect=false) | Remote in USA | AI/ML/Data | 2026-05-12 |
 | [Generative AI Research Engineer Intern](https://careers-cotiviti.icims.com/jobs/18971/job?mobile=true&needsRedirect=false) | Remote in USA | AI/ML/Data | 2026-05-09 |
 | [Generative AI/Agentic AI/Research Intern](https://careers-cotiviti.icims.com/jobs/18929/job?mobile=true&needsRedirect=false) | Remote in USA | AI/ML/Data | 2026-05-09 |
 | [Temporary Intern - Agentic AI & Neural-Symbolic Systems - Healthcare](https://careers-cotiviti.icims.com/jobs/19075/job?mobile=true&needsRedirect=false) | Remote in USA | Software | 2026-05-09 |
@@ -3463,6 +3462,12 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Agent Software Engineer Intern](https://jobs.ashbyhq.com/decagon/aa9c9d2a-aba9-429e-bf91-8303247fbcd6) | San Francisco, CA | — | 2026-05-09 |
+
+## Deckers Brands
+
+| Title | Location | Department | First seen |
+| --- | --- | --- | --- |
+| [Material Development Intern - HOKA Footwear](https://deckers.wd5.myworkdayjobs.com/Deckers/job/Portland-Oregon/Material-Development-Intern---HOKA-Footwear_20611) | Portland, OR | Product | 2026-05-12 |
 
 ## Dedalus Labs
 
@@ -4357,6 +4362,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [GME Analytics & Dashboard Development Intern](https://geisinger.wd5.myworkdayjobs.com/geisingerexternal/job/Wilkes-Barre-PA/GME-Analytics---Dashboard-Development-Intern_R-95692) | Wilkes-Barre, PA | AI/ML/Data | 2026-05-12 |
 | [Intern Undergraduate IT](https://geisinger.wd5.myworkdayjobs.com/geisingerexternal/job/Work-from-Home/Intern-Undergraduate-IT--Applications-_R-94324) | Pennsylvania | Software | 2026-05-09 |
 
 ## Gelber Group
@@ -4400,7 +4406,6 @@
 | [Software Engineer – Intern](https://careers-gdms.icims.com/jobs/72240/job?mobile=true&needsRedirect=false) | Fort Wayne, IN | Software | 2026-05-11 |
 | [Cyber Security Intern](https://careers-gdms.icims.com/jobs/68026/job?mobile=true&needsRedirect=false) | Colorado Springs, CO | — | 2026-05-09 |
 | [Engineering Intern](https://careers-gdms.icims.com/jobs/71307/job?mobile=true&needsRedirect=false) | McKeesport, PA | Hardware | 2026-05-09 |
-| [Environmental Test Facility Intern Engineer](https://careers-gdms.icims.com/jobs/72164/job?mobile=true&needsRedirect=false) | Scottsdale, AZ | Hardware | 2026-05-09 |
 | [Intern - (Systems, Software, Electrical Engineer)](https://careers-gdms.icims.com/jobs/72459/intern---%28systems%2c-software%2c-electrical-engineer%29/job) | Wahiawa, HI | Software Engineering | 2026-05-09 |
 | [Intern Engineer Co-op - May 2026 Start](https://careers-gdms.icims.com/jobs/72265/job?mobile=true&needsRedirect=false) | Fort Wayne, IN | Hardware | 2026-05-09 |
 | [Intern Engineer Co-op - May 2026 Start](https://careers-gdms.icims.com/jobs/72244/job?mobile=true&needsRedirect=false) | Fort Wayne, IN | Hardware | 2026-05-09 |
@@ -5279,7 +5284,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Software Engineer Intern](https://jobs.ashbyhq.com/ironcladhq/95ae3b0a-a061-4323-926a-7fa308b59387/application) | SF / NYC | Software | 2026-05-09 |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/ironcladhq/95ae3b0a-a061-4323-926a-7fa308b59387) | San Francisco, CA | — | 2026-05-09 |
 
 ## iTradeNetwork
@@ -6829,7 +6833,6 @@
 | [Data Science Intern, Industries](https://careers.oracle.com/en/sites/jobsearch/job/309999) | USA | — | 2026-05-09 |
 | [Oracle Pathways Software School Intern](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/318087) | Nashville, TN | Software | 2026-05-09 |
 | [Software Engineer Intern](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/305901?utm_medium=jobboard) | Redwood City, CA / Santa Clara, CA / Pleasanton, CA | — | 2026-05-09 |
-| [Software Engineer Intern - Netsuite](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/332961) | United States | Software | 2026-05-09 |
 | [Software Engineer Intern, Database Technologies](https://careers.oracle.com/en/sites/jobsearch/job/306078/) | Redwood Shores, CA | — | 2026-05-09 |
 | [Software Engineer Intern, Oracle Cloud Infrastructure (OCI)](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/305996/?location=United+States&locationId=300000000149325&selectedFlexFieldsFacets=%22AttributeChar16%7CInternSoftware%22) | Seattle, WA | — | 2026-05-09 |
 | [Software Engineer Intern, Oracle Health and Analytics](https://careers.oracle.com/en/sites/jobsearch/job/306133/) | Redwood City, CA / Santa Clara, CA / Pleasanton, CA / Seattle, WA / Kansas City, MO | — | 2026-05-09 |
@@ -9465,12 +9468,6 @@
 | --- | --- | --- | --- |
 | [Software Engineer Intern](https://ttmtech.wd5.myworkdayjobs.com/en-US/jobs/job/Farmingdale-NY/Software-Engineering-Internship_R13823) | Farmingdale, NY | — | 2026-05-09 |
 
-## Tuesday Lab
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Manipulation Co-op / Intern - Summer 2026](https://jobs.ashbyhq.com/tuesday-lab/a4d1d67e-cf1c-4990-b6c4-ead0ad5762ac/application) | NYC | AI/ML/Data | 2026-05-09 |
-
 ## Tutor Perini Corporation
 
 | Title | Location | Department | First seen |
@@ -9922,12 +9919,6 @@
 | --- | --- | --- | --- |
 | [Software Engineering Intern](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Software-Engineering-Intern--Time-Limited-Remote----WashU-IT_JR93463) | St. Louis, MO | Software | 2026-05-09 |
 
-## Waters Corporation
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Intern – Field Service](https://uscareers-waters.icims.com/jobs/25591/job?mobile=true&needsRedirect=false) | Pennsylvania | Hardware | 2026-05-09 |
-
 ## Waymo
 
 | Title | Location | Department | First seen |
@@ -10067,6 +10058,12 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Industrial Applications Developer Intern](https://fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/43017) | Columbus, OH | Software | 2026-05-09 |
+
+## WSP
+
+| Title | Location | Department | First seen |
+| --- | --- | --- | --- |
+| [Software Developer Intern](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86808) | Dallas, TX | Software | 2026-05-12 |
 
 ## WTW
 
