@@ -1,6 +1,6 @@
 # Open Internships
 
-**3153** internships across **63/63** companies — last updated 2026-05-12.
+**3162** internships across **63/63** companies — last updated 2026-05-12.
 
 ## Companies
 
@@ -60,6 +60,7 @@
 - [American Enterprise Institute](#american-enterprise-institute) (2)
 - [American Express](#american-express) (4)
 - [American Fidelity](#american-fidelity) (1)
+- [American Rare Earths](#american-rare-earths) (1)
 - [Ameritas Life Insurance Corp](#ameritas-life-insurance-corp) (1)
 - [Amplify](#amplify) (1)
 - [Amynta Group](#amynta-group) (1)
@@ -136,7 +137,7 @@
 - [Baker Hughes](#baker-hughes) (2)
 - [Balyasny Asset Management](#balyasny-asset-management) (5)
 - [Bank of America](#bank-of-america) (4)
-- [Bank of Montreal](#bank-of-montreal) (16)
+- [Bank of Montreal](#bank-of-montreal) (18)
 - [Barkback](#barkback) (1)
 - [Baseten](#baseten) (1)
 - [Beckman Coulter Life Sciences](#beckman-coulter-life-sciences) (1)
@@ -446,7 +447,7 @@
 - [General Dynamics](#general-dynamics) (1)
 - [General Dynamics Mission Systems](#general-dynamics-mission-systems) (13)
 - [General Dynamics Mission Systems, Inc.](#general-dynamics-mission-systems-inc) (6)
-- [General Motors](#general-motors) (1)
+- [General Motors](#general-motors) (2)
 - [General Motors Financial](#general-motors-financial) (2)
 - [Genmab](#genmab) (2)
 - [Genuine Parts Company](#genuine-parts-company) (1)
@@ -479,6 +480,7 @@
 - [GSA Capital](#gsa-capital) (2)
 - [Guardian RF](#guardian-rf) (1)
 - [GuideWell Mutual](#guidewell-mutual) (1)
+- [Guidewire](#guidewire) (1)
 - [Gulfstream Aerospace Corporation](#gulfstream-aerospace-corporation) (2)
 - [H&CO](#h-co) (1)
 - [H3X Technologies](#h3x-technologies) (1)
@@ -644,7 +646,7 @@
 - [Mackenzie Investments](#mackenzie-investments) (2)
 - [Macy's](#macy-s) (2)
 - [Madison Energy Infrastructure](#madison-energy-infrastructure) (1)
-- [Magna](#magna) (8)
+- [Magna](#magna) (9)
 - [Man Group](#man-group) (5)
 - [Mariana Minerals](#mariana-minerals) (3)
 - [Mark43](#mark43) (1)
@@ -665,6 +667,7 @@
 - [Medical Informatics Engineering](#medical-informatics-engineering) (1)
 - [Medical University of South Carolina](#medical-university-of-south-carolina) (1)
 - [Medpace, Inc.](#medpace-inc) (2)
+- [Medtronic](#medtronic) (1)
 - [Mercedes-Benz](#mercedes-benz) (1)
 - [Mercor](#mercor) (1)
 - [Mercury Insurance](#mercury-insurance) (1)
@@ -736,7 +739,7 @@
 - [NuHarbor Security](#nuharbor-security) (1)
 - [Nuro](#nuro) (1)
 - [Nutanix](#nutanix) (1)
-- [NVIDIA](#nvidia) (26)
+- [NVIDIA](#nvidia) (27)
 - [OCC](#occ) (1)
 - [Octaura](#octaura) (2)
 - [Oklahoma City Thunder](#oklahoma-city-thunder) (1)
@@ -811,7 +814,6 @@
 - [Prolaio](#prolaio) (1)
 - [Prologis](#prologis) (2)
 - [Promptless](#promptless) (2)
-- [Proofpoint](#proofpoint) (1)
 - [ProPharma Group](#propharma-group) (1)
 - [PSA Airlines](#psa-airlines) (1)
 - [PsiQuantum](#psiquantum) (1)
@@ -1010,7 +1012,7 @@
 - [Teledyne](#teledyne) (1)
 - [Teleo](#teleo) (1)
 - [Tempus](#tempus) (2)
-- [Tencent](#tencent) (36)
+- [Tencent](#tencent) (38)
 - [TENEX.AI](#tenex-ai) (1)
 - [Tenstorrent](#tenstorrent) (11)
 - [Teradata](#teradata) (1)
@@ -1605,6 +1607,12 @@
 | --- | --- | --- | --- |
 | [Agentic AI Intern](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Agentic-AI-Internship_JR723) | Oklahoma City, OK | Software | 2026-05-09 |
 
+## American Rare Earths
+
+| Title | Location | Department | First seen |
+| --- | --- | --- | --- |
+| [AI Engineer Intern](https://ats.rippling.com/usare/jobs/8db9bb37-aa5f-40e0-96ac-d1c4ca796aeb) | Remote in USA | Software | 2026-05-12 |
+
 ## Ameritas Life Insurance Corp
 
 | Title | Location | Department | First seen |
@@ -2174,6 +2182,8 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Machine Learning Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Chicago-IL-USA/Machine-Learning-Intern--Fall-2026--Internship----4-months_R260014372) | Chicago, IL | AI/ML/Data | 2026-05-12 |
+| [Machine Learning Intern](https://bmo.wd3.myworkdayjobs.com/Campus/job/Chicago-IL-USA/Machine-Learning-Intern--Fall-2026--Internship----4-months_R260014372-2) | Chicago, IL | AI/ML/Data | 2026-05-12 |
 | [Machine Learning Intern](https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Machine-Learning-Intern--Fall-2026--Internship----4-months_R260014372-1) | Chicago, IL | AI/ML/Data | 2026-05-11 |
 | [Analyst Co-op/Intern - Months](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Analyst--Fall-2026--Co-op-Internship----12-Months_R260013681-2) | Toronto, ON, Canada | AI/ML/Data | 2026-05-11 |
 | [Analyst Co-op/Intern - Months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Analyst--Fall-2026--Co-op-Internship----12-Months_R260013681-1) | Toronto, ON, Canada | AI/ML/Data | 2026-05-11 |
@@ -4433,6 +4443,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Intern - AI/ML Engineer - Cloud and Developer Infrastructure](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Engineer--Cloud-and-Developer-Infrastructure--Master-s-_JR-202524316) | Milford Charter Twp, MI / Austin, TX / Detroit, MI / Sunnyvale, CA / Mountain View, CA / Warren, MI | AI/ML/Data | 2026-05-12 |
 | [2026 Summer Intern - Software Engineer, Machine Learning Validation (PhD)](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Software-Engineer--Machine-Learning-Validation--PhD-_JR-202523181) | Mountain View, CA / Sunnyvale, CA | Data Science, AI & Machine Learning | 2026-05-09 |
 
 ## General Motors Financial
@@ -4667,6 +4678,12 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [IT Summer Graduate Intern](http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/41054) | Jacksonville, FL | — | 2026-05-09 |
+
+## Guidewire
+
+| Title | Location | Department | First seen |
+| --- | --- | --- | --- |
+| [Services Solutions Technical Architect Intern](https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Philadelphia-PA/Services-Solutions-Technical-Architect-Intern_JR_14531) | Philadelphia, PA | Software | 2026-05-12 |
 
 ## Gulfstream Aerospace Corporation
 
@@ -5916,6 +5933,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Intern Failure Analysis & Validation Engineering](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235417) | Southfield, MI | Hardware | 2026-05-12 |
 | [Engineering ADAS Perception Features Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235419) | Auburn Hills, MI | AI/ML/Data | 2026-05-11 |
 | [Infrared Systems & Test Engineering Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Intern---Engineering_R00235410) | Goleta, CA | Hardware | 2026-05-11 |
 | [Intern Software Engineer - Integration and Test](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235405) | Southfield, MI | Software | 2026-05-11 |
@@ -6063,6 +6081,12 @@
 | --- | --- | --- | --- |
 | [Informatics Internship/Co-Op](https://careers.medpace.com/jobs/11562?lang=en-us&icims=1) | Cincinnati, OH | — | 2026-05-09 |
 | [Web Developer Intern/Co-op](https://careers.medpace.com/jobs/11645) | Cincinnati, OH | — | 2026-05-09 |
+
+## Medtronic
+
+| Title | Location | Department | First seen |
+| --- | --- | --- | --- |
+| [Strategic Insights & Analytics Intern](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Brampton-Ontario-Canada/Strategic-Insights---Analytics-Intern_R64431) | Brampton, ON, Canada | AI/ML/Data | 2026-05-12 |
 
 ## Mercedes-Benz
 
@@ -6677,6 +6701,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Formal Verification Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Intern---Fall-2026_JR2017490) | Austin, TX / Santa Clara, CA | Hardware | 2026-05-12 |
 | [Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398) | Santa Clara, CA | AI/ML/Data | 2026-05-11 |
 | [Developer Technology Intern - High-Performance Databases](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Intern--High-Performance-Databases---Summer-2026_JR2006184) | Santa Clara, CA | AI/ML/Data | 2026-05-09 |
 | [Autonomous Vehicles and Robotics Intern](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Autonomous-Vehicles-and-Robotics_JR2003207) | Santa Clara, CA | — | 2026-05-09 |
@@ -7270,12 +7295,6 @@
 | --- | --- | --- | --- |
 | [AI Engineering Intern](https://www.workatastartup.com/jobs/80435) | San Francisco, CA | — | 2026-05-09 |
 | [Software Engineering Intern](https://www.workatastartup.com/jobs/80434) | San Francisco, CA | — | 2026-05-09 |
-
-## Proofpoint
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [AI Engineer Intern](https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Illinois/AI-Engineer-Intern_R14176) | Illinois | Software | 2026-05-09 |
 
 ## ProPharma Group
 
@@ -8759,6 +8778,8 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Data Science Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Data-Science-Intern_R106915) | Palo Alto, CA | AI/ML/Data | 2026-05-12 |
+| [Research Intern - Video World Models](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Research-Intern---Video-World-Models_R106904-1) | Palo Alto, CA | AI/ML/Data | 2026-05-12 |
 | [Software Engineer Intern - Backend Development](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Software-Engineering-Intern--Backend-Development_R107174-1) | London, UK | Software | 2026-05-11 |
 | [Game Research & Development Intern - Engine Research](https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/US-California-Los-Angeles/Game-Research---Development-Intern--Engine-Research_R107344) | LA | Software | 2026-05-11 |
 | [Hunyuan Multimodal Algorithm Researcher Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-Intern-Omni-Modal---_R107051) | Palo Alto, CA | AI/ML/Data | 2026-05-11 |
