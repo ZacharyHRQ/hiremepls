@@ -1,6 +1,6 @@
 # Open Internships
 
-**3165** internships across **63/63** companies — last updated 2026-05-11.
+**3159** internships across **63/63** companies — last updated 2026-05-12.
 
 ## Companies
 
@@ -46,7 +46,7 @@
 - [Alo Yoga](#alo-yoga) (6)
 - [Alston & Bird Law Firm](#alston-bird-law-firm) (1)
 - [Altamira Technologies Corp.](#altamira-technologies-corp) (1)
-- [Altera Corporation](#altera-corporation) (3)
+- [Altera Corporation](#altera-corporation) (2)
 - [Altice USA](#altice-usa) (2)
 - [Altom Transport](#altom-transport) (3)
 - [Altruist](#altruist) (1)
@@ -437,7 +437,7 @@
 - [Garmin International](#garmin-international) (1)
 - [GE Healthcare](#ge-healthcare) (1)
 - [GE Vernova](#ge-vernova) (7)
-- [Geisinger](#geisinger) (2)
+- [Geisinger](#geisinger) (1)
 - [Gelber Group](#gelber-group) (5)
 - [Gemini](#gemini) (1)
 - [Generac](#generac) (1)
@@ -583,9 +583,9 @@
 - [Jumio](#jumio) (1)
 - [Jump Trading](#jump-trading) (11)
 - [K1](#k1) (1)
-- [Kaiser Permanente](#kaiser-permanente) (7)
+- [Kaiser Permanente](#kaiser-permanente) (6)
 - [Kargo](#kargo) (1)
-- [KBR](#kbr) (11)
+- [KBR](#kbr) (10)
 - [Kearney&Company](#kearney-company) (1)
 - [Keysight](#keysight) (4)
 - [Keysight Technologies](#keysight-technologies) (8)
@@ -623,7 +623,6 @@
 - [Lexeo Therapeutics](#lexeo-therapeutics) (1)
 - [LHV Bank](#lhv-bank) (1)
 - [Lightmatter](#lightmatter) (1)
-- [Lindy](#lindy) (1)
 - [Linkedin](#linkedin) (1)
 - [LinkedIn](#linkedin) (3)
 - [Littelfuse](#littelfuse) (1)
@@ -631,7 +630,6 @@
 - [LMI ](#lmi) (6)
 - [Lockheed Martin](#lockheed-martin) (8)
 - [Locus Robotics](#locus-robotics) (1)
-- [Lucid Motors](#lucid-motors) (1)
 - [Lumafield](#lumafield) (3)
 - [Lumen](#lumen) (1)
 - [Lumen Technologies](#lumen-technologies) (7)
@@ -671,7 +669,6 @@
 - [Mercedes-Benz](#mercedes-benz) (1)
 - [Mercor](#mercor) (1)
 - [Mercury Insurance](#mercury-insurance) (1)
-- [Meriton](#meriton) (1)
 - [Merz](#merz) (1)
 - [Mesh](#mesh) (1)
 - [Meta](#meta) (26)
@@ -729,7 +726,7 @@
 - [Nissan Global](#nissan-global) (1)
 - [Nixo](#nixo) (1)
 - [Noda](#noda) (1)
-- [Nokia](#nokia) (25)
+- [Nokia](#nokia) (26)
 - [NorthMark Strategies](#northmark-strategies) (2)
 - [Northrop Grumman](#northrop-grumman) (1)
 - [Northspyre](#northspyre) (1)
@@ -1489,7 +1486,6 @@
 | --- | --- | --- | --- |
 | [FPGA Development Tools Engineer Intern](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/FPGA-Development-Tools-Engineer---Intern_R02448) | San Jose, CA | Software | 2026-05-09 |
 | [FPGA Digital Design & Verification – Intern](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/FPGA-Digital-Design---Verification---Intern_R02354-1) | San Jose, CA | Hardware | 2026-05-09 |
-| [Silicon Validation Graduate Intern](https://altera.wd1.myworkdayjobs.com/altera/job/Austin-Texas-United-States/Silicon-Validation-Graduate-Intern_R02471) | Austin, TX | Hardware | 2026-05-09 |
 
 ## Altice USA
 
@@ -4361,7 +4357,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [GME Analytics & Dashboard Development Intern](https://geisinger.wd5.myworkdayjobs.com/geisingerexternal/job/Wilkes-Barre-PA/GME-Analytics---Dashboard-Development-Intern_R-95692) | Wilkes-Barre, PA | AI/ML/Data | 2026-05-09 |
 | [Intern Undergraduate IT](https://geisinger.wd5.myworkdayjobs.com/geisingerexternal/job/Work-from-Home/Intern-Undergraduate-IT--Applications-_R-94324) | Pennsylvania | Software | 2026-05-09 |
 
 ## Gelber Group
@@ -5459,7 +5454,6 @@
 | [Process Improvement Intern](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1410120) | Pasadena, CA | AI/ML/Data | 2026-05-09 |
 | [Process Improvement Master's Intern](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1404990) | Pasadena, CA | AI/ML/Data | 2026-05-09 |
 | [Reporting Analytics Master's Intern](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1411470) | Lake Oswego, OR / Pleasanton, CA | AI/ML/Data | 2026-05-09 |
-| [Testing and Automation Master's Intern](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1408079) | Pleasanton, CA | AI/ML/Data | 2026-05-09 |
 | [Utility Solutions Intern](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1408936) | Pleasanton, CA | Software | 2026-05-09 |
 
 ## Kargo
@@ -5482,7 +5476,6 @@
 | [Reverse Engineer Intern](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/National-Security-Solutions--NSS----Reverse-Engineer-Intern_R2122629) | Beavercreek Township, OH | — | 2026-05-09 |
 | [Software Application Developer Intern for GOES-R Series Satellites](https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Silver-Spring-Maryland/Software-Application-Developer-Intern-for-GOES-R-Series-Satellites_R2115543) | Silver Spring, MD | Software Engineering | 2026-05-09 |
 | [Software Engineering Intern](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Columbia-Maryland/National-Security-Solutions--NSS----Software-Engineering-Internship_R2122608) | Columbia, MD | — | 2026-05-09 |
-| [Technical Intern](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Lexington-Park-Maryland/Technical-Intern_R2122838) | Patuxent River, MD | Hardware | 2026-05-09 |
 
 ## Kearney&Company
 
@@ -5756,12 +5749,6 @@
 | --- | --- | --- | --- |
 | [Reliability Test – Intern](https://boards.greenhouse.io/lightmatter/jobs/4980400008) | Mountain View, CA | Hardware | 2026-05-09 |
 
-## Lindy
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Intern Engineering](https://jobs.ashbyhq.com/lindy/a8e64e62-ecbf-4fbb-bfe8-655633710f20/application) | SF | Software | 2026-05-09 |
-
 ## Linkedin
 
 | Title | Location | Department | First seen |
@@ -5818,12 +5805,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [PhD Research Intern - AI & Computer Vision](https://job-boards.greenhouse.io/locusrobotics/jobs/5099333007) | Remote in UK | AI/ML/Data | 2026-05-09 |
-
-## Lucid Motors
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Intern Electrical Machines Testing & Data Analytics](https://job-boards.greenhouse.io/lucidmotors/jobs/4953725007) | Newark, CA | AI/ML/Data | 2026-05-09 |
 
 ## Lumafield
 
@@ -6108,12 +6089,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Marketing Data Analyst Intern](https://careers-mercuryinsurance.icims.com/jobs/6417/job?mobile=true&needsRedirect=false) | Remote in USA | AI/ML/Data | 2026-05-09 |
-
-## Meriton
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Intern – IT & Data Analytics Intern - AI/ML Focus](https://job-boards.greenhouse.io/meriton/jobs/5161948008) | Irving, TX | AI/ML/Data | 2026-05-09 |
 
 ## Merz
 
@@ -6607,6 +6582,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Web Developer Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35675) | Ottawa, ON, Canada | Software | 2026-05-12 |
 | [Data Science Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34327) | Ottawa, ON, Canada | AI/ML/Data | 2026-05-09 |
 | [DSP Firmware Engineering Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34226) | Ottawa, ON, Canada | Hardware | 2026-05-09 |
 | [Electromechanical Assembly Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34117) | Canada | Hardware | 2026-05-09 |
