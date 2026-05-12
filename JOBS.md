@@ -1,6 +1,6 @@
 # Open Internships
 
-**3126** internships across **63/63** companies — last updated 2026-05-12.
+**3118** internships across **63/63** companies — last updated 2026-05-12.
 
 ## Companies
 
@@ -17,9 +17,9 @@
 - [Accuray](#accuray) (1)
 - [AccuWeather](#accuweather) (1)
 - [ACI Worldwide ](#aci-worldwide) (3)
-- [Actian](#actian) (5)
+- [Actian](#actian) (3)
 - [Activision Blizzard](#activision-blizzard) (2)
-- [Adobe](#adobe) (15)
+- [Adobe](#adobe) (14)
 - [ADT](#adt) (2)
 - [Adtheorant](#adtheorant) (2)
 - [Advanced Energy](#advanced-energy) (1)
@@ -170,7 +170,7 @@
 - [Bombardier](#bombardier) (1)
 - [Booz Allen](#booz-allen) (3)
 - [Booz Allen Hamilton](#booz-allen-hamilton) (2)
-- [BorgWarner](#borgwarner) (2)
+- [BorgWarner](#borgwarner) (1)
 - [Bosch](#bosch) (2)
 - [Bose](#bose) (1)
 - [Boston Consulting Group](#boston-consulting-group) (1)
@@ -251,7 +251,7 @@
 - [CoBank](#cobank) (1)
 - [Cockroach Labs](#cockroach-labs) (1)
 - [Codeage](#codeage) (1)
-- [Cohere](#cohere) (4)
+- [Cohere](#cohere) (3)
 - [Cole Engineering Services](#cole-engineering-services) (1)
 - [Colgate-Palmolive](#colgate-palmolive) (1)
 - [Collabera](#collabera) (1)
@@ -673,7 +673,7 @@
 - [Michael Baker International](#michael-baker-international) (1)
 - [Microchip Technology](#microchip-technology) (2)
 - [Microchip Technology Inc](#microchip-technology-inc) (1)
-- [Micron Technology](#micron-technology) (5)
+- [Micron Technology](#micron-technology) (4)
 - [Microsoft](#microsoft) (67)
 - [Midmark ](#midmark) (1)
 - [Millennium](#millennium) (3)
@@ -882,7 +882,6 @@
 - [SAS](#sas) (2)
 - [Savannah River National Laboratory](#savannah-river-national-laboratory) (1)
 - [Saviynt LABS](#saviynt-labs) (1)
-- [SBA Communications Corporation](#sba-communications-corporation) (1)
 - [Scale AI](#scale-ai) (6)
 - [Scale.ai](#scale-ai) (1)
 - [SCAN](#scan) (2)
@@ -1146,7 +1145,7 @@
 - [Workstream](#workstream) (1)
 - [Worthington Enterprises](#worthington-enterprises) (1)
 - [WSP](#wsp) (1)
-- [WTW](#wtw) (2)
+- [WTW](#wtw) (1)
 - [X Development](#x-development) (3)
 - [Xantium](#xantium) (1)
 - [Xcel Energy](#xcel-energy) (1)
@@ -1259,8 +1258,6 @@
 | [AI Engineering Intern](https://jobs.lever.co/actian/7e55f709-5eb0-472e-bdc4-d89f93b0608f/apply) | Remote in USA | Software | 2026-05-09 |
 | [Engineering Intern - Pipeline Observability and Lineage](https://jobs.lever.co/actian/dc54b4ff-b83c-48c8-9d9c-169d3d251ef6/apply) | Remote in USA | Software | 2026-05-09 |
 | [RevOps AI Analyst Intern](https://jobs.lever.co/actian/48f59212-c512-49e3-be44-1c6f68abf188/apply) | United States | AI/ML/Data | 2026-05-09 |
-| [Software Development Intern](https://jobs.lever.co/actian/a6717e63-db81-4a37-86e2-5b5f3c41e735/apply) | Remote in USA | Software | 2026-05-09 |
-| [Software Development Intern - Vector AI](https://jobs.lever.co/actian/0e93f417-524a-4137-a3be-5e74d9db75c7/apply) | Remote in USA | Software | 2026-05-09 |
 
 ## Activision Blizzard
 
@@ -1277,7 +1274,6 @@
 | [2026 Intern - Research Scientist/Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Research-Scientist-Engineer_R160317) | Cambridge, MA / Seattle, WA / Toronto, ON, Canada / SF / San Jose, CA / Hyattsville, MD / NYC | AI/ML/Data | 2026-05-09 |
 | [AI/ML Intern - Machine Learning Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer_R158493) | Seattle, WA / SF / Austin, TX / San Jose, CA / Waltham, MA / NYC / Lehi, UT | AI/ML/Data | 2026-05-09 |
 | [2026 Intern - Machine Learning Engineer](https://careers.adobe.com/us/en/job/ADOBUSR162228EXTERNALENUS/2026-Intern-Machine-Learning-Engineer) | San Francisco, CA | — | 2026-05-09 |
-| [AI/ML Intern - Machine Learning Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer_R160428) | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [AI/ML Machine Learning Engineer Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer_R162027) | San Jose, CA | — | 2026-05-09 |
 | [Data Scientist Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2026-Intern---Data-Scientist--Predictive-Finance_R161479) | Lehi, UT | — | 2026-05-09 |
 | [Enterprise Architecture Analyst Intern](https://careers.adobe.com/us/en/job/R158742/2026-Intern-Enterprise-Architecture-Analyst) | New York, NY | — | 2026-05-09 |
@@ -2417,7 +2413,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Electronics Hardware Design Intern](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Electronics-Hardware-Design-Intern_R2025-3649) | Kokomo, IN | — | 2026-05-09 |
-| [Software Application Engineering Intern](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Application-Engineering-Intern--Year-Round-_R2026-1645) | Auburn Hills, MI | Software | 2026-05-09 |
 
 ## Bosch
 
@@ -3061,7 +3056,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Research Intern - Multiple Teams](https://jobs.ashbyhq.com/cohere/6e850172-a79d-4128-abd2-677731312857/application) | Montreal, QC, Canada / London, UK / Toronto, ON, Canada / SF | AI/ML/Data | 2026-05-09 |
 | [Research Internship](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785/application) | Montreal, QC, Canada / London, UK / Toronto, ON, Canada / SF | AI/ML/Data | 2026-05-09 |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254/application) | Toronto, ON, Canada / SF / NYC | Software | 2026-05-09 |
 | [Software Engineer Intern/Co-op - Fall](https://jobs.ashbyhq.com/cohere/b6c994c7-a435-4fd7-975b-4fb2e10a1a30) | Canada / United States | — | 2026-05-09 |
@@ -6129,7 +6123,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Intern – SSD Firmware](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---SSD-Firmware_JR83017) | San Jose, CA | Hardware | 2026-05-11 |
 | [AI Agent Development Intern](https://micron.wd1.myworkdayjobs.com/external/job/San-Jose-CA/Intern---AI-Agent-Development_JR82274) | San Jose, CA / Boise, ID | — | 2026-05-09 |
 | [Embedded Software Engineering Intern](https://careers.micron.com/careers/job/39424002?domain=micron.com) | Boise, ID | — | 2026-05-09 |
 | [Software Engineer Intern, HBM](https://careers.micron.com/careers/job/38038147) | Richardson, TX | — | 2026-05-09 |
@@ -7800,12 +7793,6 @@
 | --- | --- | --- | --- |
 | [Software Engineering Intern, R&D](https://jobs.lever.co/saviynt/17118748-6a11-44e2-9bf9-58badadb6ac0) | El Segundo, CA | — | 2026-05-09 |
 
-## SBA Communications Corporation
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Asset Development Intern](https://sbasite.wd5.myworkdayjobs.com/SBA_Communications_Careers/job/FL---Virtual/Intern---Asset-Development_JR101703) | Florida | Software | 2026-05-11 |
-
 ## Scale AI
 
 | Title | Location | Department | First seen |
@@ -8459,8 +8446,8 @@
 | [PhD Machine Learning Engineer Intern](https://stripe.com/jobs/search?gh_jid=7216664) | Seattle, WA / SF / NYC | AI/ML/Data | 2026-05-09 |
 | [Software Engineer Intern](https://stripe.com/jobs/listing/software-engineer-intern-summer-and-winter/7210115) | South San Francisco, CA / Seattle, WA / New York, NY | — | 2026-05-09 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | Mexico City, Mexico | — | 2026-05-06 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7216664) | San Francisco, New York City, Seattle | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | Singapore | — | 2026-05-06 |
@@ -9966,7 +9953,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Corporate Risk and Broking Intern - Risk & Analytics Core-2026](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202508633) | Chicago, IL | AI/ML/Data | 2026-05-09 |
 | [Software Developer Intern](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202600804) | Dorking, UK | Software | 2026-05-09 |
 
 ## X Development
