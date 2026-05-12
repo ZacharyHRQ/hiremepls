@@ -1,6 +1,6 @@
 # Open Internships
 
-**3118** internships across **63/63** companies — last updated 2026-05-12.
+**3109** internships across **63/63** companies — last updated 2026-05-12.
 
 ## Companies
 
@@ -387,7 +387,6 @@
 - [Eurofins](#eurofins) (3)
 - [Eventual](#eventual) (1)
 - [Everest (F25)](#everest-f25) (1)
-- [Everlaw](#everlaw) (1)
 - [Eversource Energy](#eversource-energy) (1)
 - [Exegy](#exegy) (2)
 - [Exiger](#exiger) (2)
@@ -443,7 +442,7 @@
 - [General Dynamics](#general-dynamics) (1)
 - [General Dynamics Mission Systems](#general-dynamics-mission-systems) (13)
 - [General Dynamics Mission Systems, Inc.](#general-dynamics-mission-systems-inc) (6)
-- [General Motors](#general-motors) (2)
+- [General Motors](#general-motors) (1)
 - [General Motors Financial](#general-motors-financial) (2)
 - [Genmab](#genmab) (2)
 - [Genuine Parts Company](#genuine-parts-company) (1)
@@ -546,7 +545,7 @@
 - [Instawork](#instawork) (1)
 - [Institute of Foundation Models](#institute-of-foundation-models) (1)
 - [Intact](#intact) (10)
-- [Integra FEC](#integra-fec) (4)
+- [Integra FEC](#integra-fec) (1)
 - [Integrity](#integrity) (2)
 - [Intel](#intel) (6)
 - [Intelcom | Dragonfly](#intelcom-dragonfly) (15)
@@ -857,8 +856,8 @@
 - [Rocket](#rocket) (1)
 - [Rocket Lawyer](#rocket-lawyer) (3)
 - [Roku](#roku) (2)
-- [Rolls Royce](#rolls-royce) (9)
-- [Rolls-Royce Motorcars](#rolls-royce-motorcars) (6)
+- [Rolls Royce](#rolls-royce) (8)
+- [Rolls-Royce Motorcars](#rolls-royce-motorcars) (5)
 - [Root Access](#root-access) (1)
 - [Royal Bank of Canada](#royal-bank-of-canada) (39)
 - [RTW Investments](#rtw-investments) (1)
@@ -953,7 +952,7 @@
 - [Speak (W17)](#speak-w17) (1)
 - [Spectrum](#spectrum) (4)
 - [Squarepoint](#squarepoint) (1)
-- [Squarepoint Capital](#squarepoint-capital) (9)
+- [Squarepoint Capital](#squarepoint-capital) (8)
 - [SRC Inc.](#src-inc) (1)
 - [SRI International](#sri-international) (1)
 - [SS&C](#ss-c) (1)
@@ -1075,7 +1074,6 @@
 - [Under Armour](#under-armour) (1)
 - [United Launch Alliance](#united-launch-alliance) (1)
 - [United Parcel Service (UPS)](#united-parcel-service-ups) (1)
-- [United Wholesale Mortgage](#united-wholesale-mortgage) (1)
 - [Unity](#unity) (1)
 - [Universal Orlando Resort](#universal-orlando-resort) (1)
 - [University Health Network](#university-health-network) (1)
@@ -3989,12 +3987,6 @@
 | --- | --- | --- | --- |
 | [Engineering Intern](https://www.workatastartup.com/jobs/80429) | San Francisco, CA | — | 2026-05-09 |
 
-## Everlaw
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [GTM Data Analyst Intern](https://job-boards.greenhouse.io/everlaw/jobs/4676925006) | Oakland, CA | AI/ML/Data | 2026-05-09 |
-
 ## Eversource Energy
 
 | Title | Location | Department | First seen |
@@ -4395,7 +4387,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Intern - AI/ML Engineer - Cloud and Developer Infrastructure](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Engineer--Cloud-and-Developer-Infrastructure--Master-s-_JR-202524316) | Milford Charter Twp, MI / Austin, TX / Detroit, MI / Sunnyvale, CA / Mountain View, CA / Warren, MI | AI/ML/Data | 2026-05-12 |
 | [2026 Summer Intern - Software Engineer, Machine Learning Validation (PhD)](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Software-Engineer--Machine-Learning-Validation--PhD-_JR-202523181) | Mountain View, CA / Sunnyvale, CA | Data Science, AI & Machine Learning | 2026-05-09 |
 
 ## General Motors Financial
@@ -5143,9 +5134,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Data Analyst Intern](https://job-boards.greenhouse.io/integra/jobs/5134522008) | Austin, TX | AI/ML/Data | 2026-05-11 |
-| [Data Scientist Intern](https://job-boards.greenhouse.io/integrainterns/jobs/5134593008) | Austin, TX | AI/ML/Data | 2026-05-11 |
-| [Data Scientist Intern - PhD](https://job-boards.greenhouse.io/integra/jobs/5134592008) | Austin, TX | AI/ML/Data | 2026-05-11 |
 | [Data Analyst Intern](https://job-boards.greenhouse.io/integrainterns/jobs/5134523008) | Austin, TX | AI/ML/Data | 2026-05-09 |
 
 ## Integrity
@@ -7578,7 +7566,6 @@
 | [Innovations Software Developer Intern](https://jobs.bmwgroup.com/job/Spartanburg-TX-S-12-Innovations-Software-Developer-Intern-Fall-2026-SC-29301/1370737533/?ats=successfactors) | Spartanburg, SC | Software | 2026-05-09 |
 | [IT Innovation & Research Intern](https://jobs.bmwgroup.com/job/Greenville-IT-Innovation-&-Research-Intern-Fall-2026-Sout/1370812633/?ats=successfactors) | Greenville, SC | AI/ML/Data | 2026-05-09 |
 | [Metrology Automation Intern/Co-op](https://jobs.bmwgroup.com/job/Greer-Metrology-Automation-Co-op-(Fall-2026)-Sout/1370727333/?ats=successfactors) | Greer, SC | Software | 2026-05-09 |
-| [Paint Shop Digitalization Developer Maintenance Planning Intern](https://jobs.bmwgroup.com/job/Spartanburg-Paint-Shop-Digitalization-Developer-Maintenance-Planning-Intern-(Fall-2026)-Sout/1370799333/?ats=successfactors) | Spartanburg, SC | AI/ML/Data | 2026-05-09 |
 | [Paint Shop Quality Intern](https://jobs.bmwgroup.com/job/Greer-Paint-Shop-Quality-Intern-(Fall-2026)-Sout/1370797133/?ats=successfactors) | Greer, SC | AI/ML/Data | 2026-05-09 |
 | [Product Engineering Intern](https://jobs.bmwgroup.com/job/Spartanburg-Product-Engineering-Intern-(Fall-2026)-Sout/1371021633/?ats=successfactors) | Spartanburg, SC | Hardware | 2026-05-09 |
 | [Quality Software Intern](https://jobs.bmwgroup.com/job/Greer-MN-80-Quality-Software-Intern-(Fall-2026)-IN/1370809433/?ats=successfactors) | Evansville, IN | Software | 2026-05-09 |
@@ -7589,7 +7576,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Data Analytics Intern](https://jobs.bmwgroup.com/job/Richmond-Hill-Data-Analytics-Intern-(12-Months)-ON/1381464133/?ats=successfactors) | Vaughan, ON, Canada | AI/ML/Data | 2026-05-09 |
 | [E-Systems & Total Vehicle Validation Intern](https://jobs.bmwgroup.com/job/Oxnard-Intern,-E-Systems-&-Total-Vehicle-Validation-Fall-2026Winter-2027-Cali/1391556233/?ats=successfactors) | Oxnard, CA | Hardware | 2026-05-09 |
 | [E-Systems & Total Vehicle Validation Intern](https://jobs.bmwgroup.com/job/Oxnard-Intern,-E-Systems-&-Total-Vehicle-Validation-Fall-2026Winter-2027-Cali/1391979933/?ats=successfactors) | Oxnard, CA | Hardware | 2026-05-09 |
 | [Innovation and Digitalization Intern/Co-op](https://jobs.bmwgroup.com/job/Greer-Innovation-and-Digitalization-Co-Op-(Fall-2026)-Sout/1376132033/?ats=successfactors) | Greer, SC | AI/ML/Data | 2026-05-09 |
@@ -8323,7 +8309,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Graduate Quant Developer](https://www.squarepoint-capital.com/open-opportunities?id=7918610&gh_jid=7918610) | London, Montreal, Singapore | — | 2026-05-12 |
-| [Software Developer Intern](https://boards.greenhouse.io/embed/job_app?token=7905463) | Montreal, QC, Canada | Software | 2026-05-11 |
 | [Intern Software Developer - Summer 2026](https://boards.greenhouse.io/embed/job_app?token=7231006) | Montreal, QC, Canada / London, UK | Software | 2026-05-09 |
 | [Intern Software Developer - Fall 2026](https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463) | Montreal | — | 2026-05-07 |
 | [Graduate Platform Specialist](https://www.squarepoint-capital.com/open-opportunities?id=7340843&gh_jid=7340843) | Hong Kong, London, Montreal, Singapore | — | 2026-05-06 |
@@ -8446,8 +8431,8 @@
 | [PhD Machine Learning Engineer Intern](https://stripe.com/jobs/search?gh_jid=7216664) | Seattle, WA / SF / NYC | AI/ML/Data | 2026-05-09 |
 | [Software Engineer Intern](https://stripe.com/jobs/listing/software-engineer-intern-summer-and-winter/7210115) | South San Francisco, CA / Seattle, WA / New York, NY | — | 2026-05-09 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | Mexico City, Mexico | — | 2026-05-06 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | Toronto, Ontario, Canada | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7216664) | San Francisco, New York City, Seattle | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | Singapore | — | 2026-05-06 |
@@ -9463,12 +9448,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [HR Intern – Data Analytics Focus](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/HR-Intern--Data-Analytics-Focus--Summer-2026-_R26013136) | Atlanta, GA | AI/ML/Data | 2026-05-09 |
-
-## United Wholesale Mortgage
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Technology Intern](https://careers-uwmcareers.icims.com/jobs/14366/job?mobile=true&needsRedirect=false) | Pontiac, MI | Software | 2026-05-12 |
 
 ## Unity
 

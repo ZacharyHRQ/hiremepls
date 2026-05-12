@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-12T22:08:03.002Z",
+  "generatedAt": "2026-05-12T23:17:14.020Z",
   "companyCount": 63,
   "okCount": 63,
-  "jobCount": 3118,
+  "jobCount": 3109,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -734,7 +734,6 @@
     "simplify:1b226056-c25a-4e1a-8aa0-65847d808c02": "2026-05-09T15:28:15.527Z",
     "simplify:1846abad-76dc-450b-aa85-2427745a272b": "2026-05-09T15:28:15.527Z",
     "simplify:f8080880-d013-40c8-ac19-30326bd50f19": "2026-05-09T15:28:15.527Z",
-    "simplify:5959e81d-35cb-4da2-a9a5-02a553b86cd0": "2026-05-09T15:28:15.527Z",
     "simplify:17f11bdb-1222-4b9b-997b-cbc2e518f510": "2026-05-09T15:28:15.527Z",
     "simplify:e931ed08-b25f-4522-a074-26419c83b8cb": "2026-05-09T15:28:15.527Z",
     "simplify:77261f70-1c17-460e-8bc8-20fe7e9cf55b": "2026-05-09T15:28:15.527Z",
@@ -1018,7 +1017,6 @@
     "simplify:614af212-1ca3-48d6-a1b7-29ea78007cb2": "2026-05-09T15:28:15.527Z",
     "simplify:6eb26908-472b-41d4-bef8-42e60ad9387c": "2026-05-09T15:28:15.527Z",
     "simplify:a81e52a9-b99a-4142-a9b5-c66ee68704fd": "2026-05-09T15:28:15.527Z",
-    "simplify:81530341-977d-475e-b37a-963c0ed32d65": "2026-05-09T15:28:15.527Z",
     "simplify:56ae60a3-da6b-407b-a4bc-e550bb8393c9": "2026-05-09T15:28:15.527Z",
     "simplify:f39b0734-e17e-4f88-b174-c8fdd7e0d48c": "2026-05-09T15:28:15.527Z",
     "simplify:4eedf593-6f08-42d5-ab62-81b6e6f5b280": "2026-05-09T15:28:15.527Z",
@@ -1401,7 +1399,6 @@
     "simplify:1fca6653-7184-45fb-891b-6998fb1affb7": "2026-05-09T15:28:15.527Z",
     "simplify:c4eb6315-4522-4bf0-b2fc-3842edddbca0": "2026-05-09T15:28:15.527Z",
     "simplify:3c716e20-040d-41dc-9d9d-b398aa4b7f77": "2026-05-09T15:28:15.527Z",
-    "simplify:51c4a885-a755-4f56-ae3b-1cc8044eed47": "2026-05-09T15:28:15.527Z",
     "simplify:bec23b01-65ee-4433-8c1e-eb74b68e62a7": "2026-05-09T15:28:15.527Z",
     "simplify:676473d0-bfa3-44e7-a7a2-3bb6b424663a": "2026-05-09T15:28:15.527Z",
     "simplify:180cdc97-01ab-4340-9dbd-7d3d84a4cc85": "2026-05-09T15:28:15.527Z",
@@ -3027,14 +3024,11 @@
     "simplify:8a0769fc-4aa4-4b2f-a6e9-d5fcc27c11a6": "2026-05-11T14:01:48.198Z",
     "simplify:c028a8b9-94b1-413e-8119-37e4aa83f76e": "2026-05-11T14:01:48.198Z",
     "simplify:7248f7be-bf62-4a1b-a01b-3e4f27918644": "2026-05-11T14:01:48.198Z",
-    "simplify:ebb7f560-b3e3-4f57-b812-b0097eeb39bf": "2026-05-11T14:01:48.198Z",
-    "simplify:b9a99f84-c011-4f16-806a-8ad02e98b530": "2026-05-11T14:01:48.198Z",
     "simplify:7a3d5a9e-62a8-4138-9a7c-2b2db21ec77c": "2026-05-11T14:01:48.198Z",
     "simplify:e18b5659-3658-49dd-a554-9ba2b49123a9": "2026-05-11T14:01:48.198Z",
     "simplify:3443ba84-151d-4603-9bac-28bf93227ed5": "2026-05-11T14:01:48.198Z",
     "simplify:b8efe27f-c76a-4d68-a3e0-7223c8e08ef8": "2026-05-11T14:01:48.198Z",
     "simplify:bebbeff8-81af-4e7a-b6f6-7658307b38b6": "2026-05-11T14:01:48.198Z",
-    "simplify:c7f1c784-ada4-411c-85aa-060cd89e52c6": "2026-05-11T14:01:48.198Z",
     "simplify:cf67b47f-ab6f-425e-aba9-52f7fbca42f3": "2026-05-11T14:01:48.198Z",
     "simplify:a24f2631-f979-41b4-8c04-ff627e0afb46": "2026-05-11T14:01:48.198Z",
     "simplify:cd2ecb0f-e6e0-4b6a-88d4-f45f6168c70b": "2026-05-11T14:01:48.198Z",
@@ -3061,7 +3055,6 @@
     "simplify:686c367c-80fc-4479-b429-30a0de25991f": "2026-05-11T23:38:25.770Z",
     "simplify:5ac53fe6-f8f7-46bc-8cc1-23ef726b61ca": "2026-05-11T23:38:25.770Z",
     "simplify:76de1d57-7c93-4833-89f9-17604295e2f3": "2026-05-11T23:38:25.770Z",
-    "simplify:5e6027c1-06ff-4833-98fc-5748108833bf": "2026-05-11T23:38:25.770Z",
     "simplify:f11a31a6-cfa0-4524-81b9-15e3ed97acaf": "2026-05-11T23:38:25.770Z",
     "simplify:b79f161e-89b5-4a62-bdab-e10e9118ca07": "2026-05-11T23:38:25.770Z",
     "simplify:b545f882-0812-48eb-b468-4550581dc0c8": "2026-05-11T23:38:25.770Z",
@@ -3108,12 +3101,10 @@
     "simplify:224e6611-9cfb-4eef-8107-822517f2d5e4": "2026-05-12T12:18:01.508Z",
     "simplify:113f5b27-2163-45e7-8895-44c1b2f2e666": "2026-05-12T12:18:01.508Z",
     "simplify:1e21833b-a6ae-48a8-88e1-c193922cb4b0": "2026-05-12T12:18:01.508Z",
-    "simplify:10529106-8f42-4165-814f-149d4a47f89e": "2026-05-12T12:18:01.508Z",
     "simplify:992b48ee-6377-47d1-a64a-325b032e4673": "2026-05-12T12:18:01.508Z",
     "simplify:001ac4b8-e3c8-40dd-a035-c12fc1493b30": "2026-05-12T12:18:01.508Z",
     "simplify:10ea6ba5-ff6a-4396-9ba5-86f0e059112c": "2026-05-12T12:18:01.508Z",
     "simplify:7b7682f7-99f1-4bed-8782-ddb3cc5d6692": "2026-05-12T15:18:26.429Z",
-    "simplify:a68e8cb3-6f0f-456e-99a0-818536ac2128": "2026-05-12T15:18:26.429Z",
     "simplify:49a613fe-0291-4b1e-9d57-00c3a580dfe0": "2026-05-12T15:18:26.429Z",
     "simplify:9285d621-2d8d-4c98-8a94-fdf5e0e17ca6": "2026-05-12T15:18:26.429Z",
     "simplify:df2258f0-6f57-4fce-a3bd-e35e85a7dc0a": "2026-05-12T15:18:26.429Z",
@@ -3725,18 +3716,18 @@
       "company": "Stripe"
     },
     {
-      "id": "7874965",
-      "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
-      "department": "",
-      "company": "Stripe"
-    },
-    {
       "id": "7285974",
       "title": "PhD Data Scientist, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=7285974",
       "location": "Toronto, Ontario, Canada",
+      "department": "",
+      "company": "Stripe"
+    },
+    {
+      "id": "7874965",
+      "title": "PhD Data Scientist, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe"
     },
@@ -9277,14 +9268,6 @@
       "company": "Rolls Royce"
     },
     {
-      "id": "simplify:5959e81d-35cb-4da2-a9a5-02a553b86cd0",
-      "title": "Paint Shop Digitalization Developer Maintenance Planning Intern",
-      "url": "https://jobs.bmwgroup.com/job/Spartanburg-Paint-Shop-Digitalization-Developer-Maintenance-Planning-Intern-(Fall-2026)-Sout/1370799333/?ats=successfactors",
-      "location": "Spartanburg, SC",
-      "department": "AI/ML/Data",
-      "company": "Rolls Royce"
-    },
-    {
       "id": "simplify:17f11bdb-1222-4b9b-997b-cbc2e518f510",
       "title": "Quality Software Intern",
       "url": "https://jobs.bmwgroup.com/job/Greer-MN-80-Quality-Software-Intern-(Fall-2026)-IN/1370809433/?ats=successfactors",
@@ -11829,14 +11812,6 @@
       "company": "Cadence Design Systems"
     },
     {
-      "id": "simplify:81530341-977d-475e-b37a-963c0ed32d65",
-      "title": "Data Analytics Intern",
-      "url": "https://jobs.bmwgroup.com/job/Richmond-Hill-Data-Analytics-Intern-(12-Months)-ON/1381464133/?ats=successfactors",
-      "location": "Vaughan, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Rolls-Royce Motorcars"
-    },
-    {
       "id": "simplify:56ae60a3-da6b-407b-a4bc-e550bb8393c9",
       "title": "Quant Risk Management Intern",
       "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/New-York---300-Vesey-Street/Quant-Risk-Management-Intern---Year-Round_34255",
@@ -13125,14 +13100,6 @@
       "company": "Caterpillar Inc."
     },
     {
-      "id": "simplify:10529106-8f42-4165-814f-149d4a47f89e",
-      "title": "Intern - AI/ML Engineer - Cloud and Developer Infrastructure",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Engineer--Cloud-and-Developer-Infrastructure--Master-s-_JR-202524316",
-      "location": "Milford Charter Twp, MI / Austin, TX / Detroit, MI / Sunnyvale, CA / Mountain View, CA / Warren, MI",
-      "department": "AI/ML/Data",
-      "company": "General Motors"
-    },
-    {
       "id": "simplify:12d5b447-e058-49ed-969e-98ec68a6ef82",
       "title": "Mobile Robots Intern - Mechatronics Vehicle Feature",
       "url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Holland-MI-United-States/Mobile-Robots-Intern---Mechatronics-Vehicle-Feature-s--R-D_JR-0088334",
@@ -14277,14 +14244,6 @@
       "company": "Viavi Solutions"
     },
     {
-      "id": "simplify:ebb7f560-b3e3-4f57-b812-b0097eeb39bf",
-      "title": "Data Scientist Intern - PhD",
-      "url": "https://job-boards.greenhouse.io/integra/jobs/5134592008",
-      "location": "Austin, TX",
-      "department": "AI/ML/Data",
-      "company": "Integra FEC"
-    },
-    {
       "id": "simplify:1d7a2077-52b3-4943-818a-2fa0ec30b52e",
       "title": "Software Engineer Intern - Compiler",
       "url": "https://apply.workable.com/quadric-dot-i-o-inc/j/4F8EDFF366/apply",
@@ -14333,28 +14292,12 @@
       "company": "Schweitzer Engineering Laboratories"
     },
     {
-      "id": "simplify:5e6027c1-06ff-4833-98fc-5748108833bf",
-      "title": "Data Analyst Intern",
-      "url": "https://job-boards.greenhouse.io/integra/jobs/5134522008",
-      "location": "Austin, TX",
-      "department": "AI/ML/Data",
-      "company": "Integra FEC"
-    },
-    {
       "id": "simplify:c170da9f-75da-4e67-a22c-c39842bfed91",
       "title": "Credit Modeling & Methodology Intern",
       "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Credit-Data-Analyst---Credit-Modeling---Methodology-Intern--4-Months-_R-0000170102-1",
       "location": "Toronto, ON, Canada",
       "department": "AI/ML/Data",
       "company": "Royal Bank of Canada"
-    },
-    {
-      "id": "simplify:b9a99f84-c011-4f16-806a-8ad02e98b530",
-      "title": "Data Scientist Intern",
-      "url": "https://job-boards.greenhouse.io/integrainterns/jobs/5134593008",
-      "location": "Austin, TX",
-      "department": "AI/ML/Data",
-      "company": "Integra FEC"
     },
     {
       "id": "simplify:8446df16-f5f1-4fe4-9c20-44f6c0661737",
@@ -15379,14 +15322,6 @@
       "location": "Montreal, QC, Canada / London, UK / Toronto, ON, Canada / SF",
       "department": "AI/ML/Data",
       "company": "Cohere"
-    },
-    {
-      "id": "simplify:51c4a885-a755-4f56-ae3b-1cc8044eed47",
-      "title": "GTM Data Analyst Intern",
-      "url": "https://job-boards.greenhouse.io/everlaw/jobs/4676925006",
-      "location": "Oakland, CA",
-      "department": "AI/ML/Data",
-      "company": "Everlaw"
     },
     {
       "id": "simplify:bec23b01-65ee-4433-8c1e-eb74b68e62a7",
@@ -16717,14 +16652,6 @@
       "company": "Microsoft"
     },
     {
-      "id": "simplify:c7f1c784-ada4-411c-85aa-060cd89e52c6",
-      "title": "Software Developer Intern",
-      "url": "https://boards.greenhouse.io/embed/job_app?token=7905463",
-      "location": "Montreal, QC, Canada",
-      "department": "Software",
-      "company": "Squarepoint Capital"
-    },
-    {
       "id": "simplify:9b4f7a28-0dbb-4edb-a018-074ceb56e8b2",
       "title": "Digital Applications Intern",
       "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Irvine/Digital-Apps-Intern_R0320993-1",
@@ -17683,14 +17610,6 @@
       "location": "Cambridge, UK",
       "department": "AI/ML/Data",
       "company": "Nokia"
-    },
-    {
-      "id": "simplify:a68e8cb3-6f0f-456e-99a0-818536ac2128",
-      "title": "Technology Intern",
-      "url": "https://careers-uwmcareers.icims.com/jobs/14366/job?mobile=true&needsRedirect=false",
-      "location": "Pontiac, MI",
-      "department": "Software",
-      "company": "United Wholesale Mortgage"
     },
     {
       "id": "simplify:49a613fe-0291-4b1e-9d57-00c3a580dfe0",
