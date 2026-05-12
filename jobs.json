@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-12T17:30:14.083Z",
+  "generatedAt": "2026-05-12T19:21:29.955Z",
   "companyCount": 63,
   "okCount": 63,
-  "jobCount": 3141,
+  "jobCount": 3134,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -709,7 +709,6 @@
     "simplify:cada7d39-4d7c-42a5-ab3d-10e28b7e2b27": "2026-05-09T15:28:15.527Z",
     "simplify:6fecfd03-e904-40de-a8ac-01b155f911de": "2026-05-09T15:28:15.527Z",
     "simplify:4ea55721-8b99-4c35-9153-70fbe060609a": "2026-05-09T15:28:15.527Z",
-    "simplify:60e44cf3-5e17-4d35-885e-355dc19c452c": "2026-05-09T15:28:15.527Z",
     "simplify:93e129b6-f644-443b-8834-ea211b995a29": "2026-05-09T15:28:15.527Z",
     "simplify:8a438e29-5a7e-4e24-a4d5-df17bd48bfb5": "2026-05-09T15:28:15.527Z",
     "simplify:3773a013-3865-41fd-ae0d-5b66938ff357": "2026-05-09T15:28:15.527Z",
@@ -764,7 +763,6 @@
     "simplify:2b7c8f72-48b1-4c76-ac63-400cb8ba6b08": "2026-05-09T15:28:15.527Z",
     "simplify:69e6a885-ba62-4040-becf-35815be46d4e": "2026-05-09T15:28:15.527Z",
     "simplify:03ab4d41-5cba-45c5-8db8-f4a6b4ccb687": "2026-05-09T15:28:15.527Z",
-    "simplify:74ffc894-b6ea-48cd-aa40-5dcd71b4d838": "2026-05-09T15:28:15.527Z",
     "simplify:8669f195-dec7-433a-b4d7-434846ae11b0": "2026-05-09T15:28:15.527Z",
     "simplify:316c721c-fe99-4857-bd17-8ab9ced89dcc": "2026-05-09T15:28:15.527Z",
     "simplify:49ea6477-d2a6-4517-b1db-910fa56415d7": "2026-05-09T15:28:15.527Z",
@@ -936,7 +934,6 @@
     "simplify:f368ace0-4abc-4c3e-98e7-3f1276b59816": "2026-05-09T15:28:15.527Z",
     "simplify:cf38fa81-3784-4e8c-9597-bd8201e54194": "2026-05-09T15:28:15.527Z",
     "simplify:83ddf672-7d1b-4ee4-b62b-63ee6d6c4396": "2026-05-09T15:28:15.527Z",
-    "simplify:8533f1eb-d296-4477-a2fc-3ad6eecb01ba": "2026-05-09T15:28:15.527Z",
     "simplify:1b1beb70-8f20-416a-be39-116834690463": "2026-05-09T15:28:15.527Z",
     "simplify:4fd120e4-2397-493c-82d8-405ed2376fc7": "2026-05-09T15:28:15.527Z",
     "simplify:4311cf55-b705-4305-9e65-131506e43845": "2026-05-09T15:28:15.527Z",
@@ -1042,7 +1039,6 @@
     "simplify:339a873e-d26f-429a-ba59-1274ad8a7afc": "2026-05-09T15:28:15.527Z",
     "simplify:6a384bfa-ee78-48df-b0f2-47d60c980b7f": "2026-05-09T15:28:15.527Z",
     "simplify:f8061283-7836-4832-afc5-5784772d0a48": "2026-05-09T15:28:15.527Z",
-    "simplify:8cea7879-b6d9-4ada-84fa-9036b14df0ef": "2026-05-09T15:28:15.527Z",
     "simplify:3d8e578e-b707-41ce-8739-9a278d11b841": "2026-05-09T15:28:15.527Z",
     "simplify:aaec15fe-ce11-45ea-bfce-ee26090ab06e": "2026-05-09T15:28:15.527Z",
     "simplify:55556c00-eb17-46a0-8914-66a19318e0f3": "2026-05-09T15:28:15.527Z",
@@ -1329,7 +1325,6 @@
     "simplify:382d947b-1e85-457c-a2a4-4bc3ea664b54": "2026-05-09T15:28:15.527Z",
     "simplify:35066ac0-1560-4dd8-af1e-43c56f13ef8c": "2026-05-09T15:28:15.527Z",
     "simplify:91f21a40-4f2d-4105-93dc-b702318427e2": "2026-05-09T15:28:15.527Z",
-    "simplify:477144ac-bb99-4912-b6da-be1ab02a8f5b": "2026-05-09T15:28:15.527Z",
     "simplify:0e234975-37c2-400b-9a17-75adbccd10b4": "2026-05-09T15:28:15.527Z",
     "simplify:fcaa44e4-dd04-4997-91e1-ff823442265e": "2026-05-09T15:28:15.527Z",
     "simplify:eaeaad91-7d21-4eaf-b0c3-a144a1f82545": "2026-05-09T15:28:15.527Z",
@@ -1348,7 +1343,6 @@
     "simplify:bc902773-1b46-4f76-97d8-2c286464ddf6": "2026-05-09T15:28:15.527Z",
     "simplify:baaedbd4-3acd-49fa-9218-3b8c3b0dcc46": "2026-05-09T15:28:15.527Z",
     "simplify:60ff2402-2f73-4588-8aff-0f7c78e9654d": "2026-05-09T15:28:15.527Z",
-    "simplify:607b4415-ebae-4f35-9ca9-6d14d2ce86ce": "2026-05-09T15:28:15.527Z",
     "simplify:f651df72-a281-46bb-a2fe-17d318ace73c": "2026-05-09T15:28:15.527Z",
     "simplify:dd0b0000-dba3-409e-abda-d8c49cf58e34": "2026-05-09T15:28:15.527Z",
     "simplify:ab243f13-7a16-4917-8e5c-23226aa7ad38": "2026-05-09T15:28:15.527Z",
@@ -2949,7 +2943,6 @@
     "simplify:baa65764-b276-4f3b-829a-1f8b40bfca9f": "2026-05-09T17:12:44.619Z",
     "simplify:fd5a8521-4005-4532-8abf-fbe39bd79e6e": "2026-05-09T17:12:44.619Z",
     "simplify:aba222a8-faad-4719-bd9c-4f3f4b0c4154": "2026-05-09T17:12:44.619Z",
-    "simplify:61e74368-0957-43cc-ac1e-48e75204026d": "2026-05-09T17:12:44.619Z",
     "simplify:9b41e22b-95f4-477c-a8e3-582f8525387a": "2026-05-09T17:12:44.619Z",
     "simplify:ad707d50-0570-4843-8048-54a73ff96958": "2026-05-09T17:12:44.619Z",
     "simplify:83eff6e8-2f48-40cf-83be-b22caa536b46": "2026-05-09T17:12:44.619Z",
@@ -3077,7 +3070,6 @@
     "simplify:6051b759-5f65-455e-874b-26ea6f910a34": "2026-05-11T23:38:25.770Z",
     "simplify:7a76e53c-f5e2-4da2-878b-da950d7b4b71": "2026-05-11T23:38:25.770Z",
     "simplify:93b9e696-bf84-478d-aaf6-b63704f87417": "2026-05-11T23:38:25.770Z",
-    "simplify:30ed129f-06d9-4358-8de5-d105e2d2b1e6": "2026-05-11T23:38:25.770Z",
     "simplify:188006b1-7120-4675-83dc-b4e558a640eb": "2026-05-11T23:38:25.770Z",
     "simplify:686c367c-80fc-4479-b429-30a0de25991f": "2026-05-11T23:38:25.770Z",
     "simplify:5ac53fe6-f8f7-46bc-8cc1-23ef726b61ca": "2026-05-11T23:38:25.770Z",
@@ -3144,7 +3136,8 @@
     "simplify:b4c975d6-997a-4634-881c-1ceacdd2bf2a": "2026-05-12T15:18:26.429Z",
     "simplify:2d438595-f937-4666-af6b-e141fa777079": "2026-05-12T15:18:26.429Z",
     "simplify:36ead7f6-c8cd-43ee-ab7f-66e1294880a1": "2026-05-12T15:18:26.429Z",
-    "simplify:0e79ef0c-9caf-4c3b-bc58-270866bd69df": "2026-05-12T15:18:26.429Z"
+    "simplify:0e79ef0c-9caf-4c3b-bc58-270866bd69df": "2026-05-12T15:18:26.429Z",
+    "26a0ae52-97a6-4a46-9216-3c382570d89b": "2026-05-12T19:21:29.955Z"
   },
   "jobs": [
     {
@@ -3831,6 +3824,14 @@
       "id": "e2412cd5-19dd-44f8-addd-c9ef3c99ff82",
       "title": "Research Intern (AI) - 2026",
       "url": "https://jobs.ashbyhq.com/snowflake/e2412cd5-19dd-44f8-addd-c9ef3c99ff82",
+      "location": "",
+      "department": "",
+      "company": "Snowflake"
+    },
+    {
+      "id": "26a0ae52-97a6-4a46-9216-3c382570d89b",
+      "title": "Software Engineer Intern - Zurich (2026)",
+      "url": "https://jobs.ashbyhq.com/snowflake/26a0ae52-97a6-4a46-9216-3c382570d89b",
       "location": "",
       "department": "",
       "company": "Snowflake"
@@ -9100,14 +9101,6 @@
       "company": "Nio"
     },
     {
-      "id": "simplify:60e44cf3-5e17-4d35-885e-355dc19c452c",
-      "title": "Summer Internship: Marketing Analytics Intern",
-      "url": "https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Summer-Internship--Marketing-Analytics-Intern--Remote-_R33611",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "BeOne"
-    },
-    {
       "id": "simplify:93e129b6-f644-443b-8834-ea211b995a29",
       "title": "Product Solutions and Operations Intern - Commerce Ads - BS/MS",
       "url": "https://lifeattiktok.com/search/7600290735611840821",
@@ -9554,14 +9547,6 @@
       "location": "Anderson, SC",
       "department": "Software",
       "company": "Techtronic Industries"
-    },
-    {
-      "id": "simplify:74ffc894-b6ea-48cd-aa40-5dcd71b4d838",
-      "title": "Intern Data Analytics & Reporting",
-      "url": "https://propharmagroup.wd1.myworkdayjobs.com/ppgcareers/job/United-States/Intern--Data-Analytics---Reporting_JR9259",
-      "location": "United States",
-      "department": "AI/ML/Data",
-      "company": "ProPharma Group"
     },
     {
       "id": "simplify:8669f195-dec7-433a-b4d7-434846ae11b0",
@@ -11172,14 +11157,6 @@
       "company": "Microsoft"
     },
     {
-      "id": "simplify:8533f1eb-d296-4477-a2fc-3ad6eecb01ba",
-      "title": "Sales Reporting and Operations Intern",
-      "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Sales-Reporting-and-Operations-Intern_JR104713",
-      "location": "Deerfield Beach, FL",
-      "department": "AI/ML/Data",
-      "company": "JM Family"
-    },
-    {
       "id": "simplify:1b1beb70-8f20-416a-be39-116834690463",
       "title": "Perception Engineering Intern",
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000118243108",
@@ -11748,14 +11725,6 @@
       "company": "Cartesian"
     },
     {
-      "id": "simplify:30ed129f-06d9-4358-8de5-d105e2d2b1e6",
-      "title": "Data Analyst Intern",
-      "url": "https://amynta.wd5.myworkdayjobs.com/global/job/Baltimore/Data-Analyst-Intern_2604-0193",
-      "location": "Baltimore, MD",
-      "department": "AI/ML/Data",
-      "company": "Amynta Group"
-    },
-    {
       "id": "simplify:64ce018d-9a34-40a5-b985-6fc26c8b6b2d",
       "title": "Enabling Technology Marketing Intern",
       "url": "https://enovis.wd5.myworkdayjobs.com/en-US/enovis/job/USA-Texas-Austin/Enabling-Technology-Marketing-Intern_R0032633",
@@ -12074,14 +12043,6 @@
       "location": "Greensboro, NC",
       "department": "Software",
       "company": "APEX Analytix"
-    },
-    {
-      "id": "simplify:8cea7879-b6d9-4ada-84fa-9036b14df0ef",
-      "title": "Software Engineer Intern",
-      "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-MI-Ypsilanti/Software-Engineering-Intern---Summer-2026_324256",
-      "location": "Van Buren Charter Township, MI",
-      "department": "Software",
-      "company": "CACI"
     },
     {
       "id": "simplify:3d8e578e-b707-41ce-8739-9a278d11b841",
@@ -14780,14 +14741,6 @@
       "company": "Robust.ai"
     },
     {
-      "id": "simplify:477144ac-bb99-4912-b6da-be1ab02a8f5b",
-      "title": "Research Intern",
-      "url": "https://ulse.wd5.myworkdayjobs.com/ulricareers/job/Columbia-MD/Research-Summer-2026-Intern---Fire-Safety-Research-Institute_JR1500-1",
-      "location": "Columbia, MD",
-      "department": "AI/ML/Data",
-      "company": "Underwriters Laboratories"
-    },
-    {
       "id": "simplify:0e234975-37c2-400b-9a17-75adbccd10b4",
       "title": "Software Application Engineering Intern",
       "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Application-Engineering-Intern--Year-Round-_R2026-1645",
@@ -14930,14 +14883,6 @@
       "location": "Ottawa, ON, Canada",
       "department": "Software",
       "company": "Nokia"
-    },
-    {
-      "id": "simplify:607b4415-ebae-4f35-9ca9-6d14d2ce86ce",
-      "title": "Robotics Software Intern - Real-Time Controls",
-      "url": "https://boards.greenhouse.io/apptronik/jobs/5985132004",
-      "location": "Austin, TX",
-      "department": "Hardware",
-      "company": "Apptronik"
     },
     {
       "id": "simplify:f651df72-a281-46bb-a2fe-17d318ace73c",
@@ -16482,14 +16427,6 @@
       "location": "Plainview, NY",
       "department": "AI/ML/Data",
       "company": "Canon"
-    },
-    {
-      "id": "simplify:61e74368-0957-43cc-ac1e-48e75204026d",
-      "title": "Product Engineering Intern",
-      "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-GA---Covington-BMD/Intern---Product-Engineering_R-544958",
-      "location": "Monroe, GA",
-      "department": "Software",
-      "company": "Becton Dickinson"
     },
     {
       "id": "simplify:b456dde8-8bbb-4326-be4b-3c643badfca2",

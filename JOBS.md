@@ -1,6 +1,6 @@
 # Open Internships
 
-**3141** internships across **63/63** companies — last updated 2026-05-12.
+**3134** internships across **63/63** companies — last updated 2026-05-12.
 
 ## Companies
 
@@ -64,7 +64,6 @@
 - [American Rare Earths](#american-rare-earths) (1)
 - [Ameritas Life Insurance Corp](#ameritas-life-insurance-corp) (1)
 - [Amplify](#amplify) (1)
-- [Amynta Group](#amynta-group) (1)
 - [Analytical Mechanics Associates](#analytical-mechanics-associates) (1)
 - [Anduril](#anduril) (1)
 - [Anima](#anima) (1)
@@ -82,7 +81,7 @@
 - [Applied Concepts, Inc.](#applied-concepts-inc) (1)
 - [Applied Intuition](#applied-intuition) (2)
 - [Applied Materials](#applied-materials) (5)
-- [Apptronik](#apptronik) (2)
+- [Apptronik](#apptronik) (1)
 - [Aptiv](#aptiv) (4)
 - [AQR Capital Management](#aqr-capital-management) (3)
 - [Arcadis](#arcadis) (1)
@@ -142,9 +141,9 @@
 - [Barkback](#barkback) (1)
 - [Baseten](#baseten) (1)
 - [Beckman Coulter Life Sciences](#beckman-coulter-life-sciences) (1)
-- [Becton Dickinson](#becton-dickinson) (2)
+- [Becton Dickinson](#becton-dickinson) (1)
 - [Benjamin Moore](#benjamin-moore) (1)
-- [BeOne](#beone) (3)
+- [BeOne](#beone) (2)
 - [Berkshire Grey](#berkshire-grey) (1)
 - [Berkshire Hathaway Energy](#berkshire-hathaway-energy) (19)
 - [Bessemer Trust](#bessemer-trust) (1)
@@ -185,7 +184,7 @@
 - [Burns & McDonnell](#burns-mcdonnell) (1)
 - [ByteDance](#bytedance) (26)
 - [C3Aero](#c3aero) (3)
-- [CACI](#caci) (6)
+- [CACI](#caci) (5)
 - [Cadence](#cadence) (3)
 - [Cadence Design Systems](#cadence-design-systems) (10)
 - [Cadent](#cadent) (2)
@@ -570,7 +569,6 @@
 - [JB&B](#jb-b) (1)
 - [Jencap](#jencap) (1)
 - [JINGDONG](#jingdong) (3)
-- [JM Family](#jm-family) (1)
 - [John Deere](#john-deere) (1)
 - [Johnson & Johnson](#johnson-johnson) (1)
 - [Johnson and Johnson](#johnson-and-johnson) (1)
@@ -811,7 +809,6 @@
 - [Prolaio](#prolaio) (1)
 - [Prologis](#prologis) (2)
 - [Promptless](#promptless) (2)
-- [ProPharma Group](#propharma-group) (1)
 - [PSA Airlines](#psa-airlines) (1)
 - [PsiQuantum](#psiquantum) (1)
 - [PTC](#ptc) (2)
@@ -942,7 +939,7 @@
 - [Snap](#snap) (1)
 - [Snap-on](#snap-on) (2)
 - [Snorkel AI](#snorkel-ai) (1)
-- [Snowflake](#snowflake) (19)
+- [Snowflake](#snowflake) (20)
 - [Snyk](#snyk) (2)
 - [Société Générale de Surveillance (SGS)](#soci-t-g-n-rale-de-surveillance-sgs) (1)
 - [Socure](#socure) (2)
@@ -1082,7 +1079,6 @@
 - [Uline](#uline) (4)
 - [Uncountable](#uncountable) (2)
 - [Under Armour](#under-armour) (1)
-- [Underwriters Laboratories](#underwriters-laboratories) (1)
 - [United Launch Alliance](#united-launch-alliance) (1)
 - [United Parcel Service (UPS)](#united-parcel-service-ups) (1)
 - [United Wholesale Mortgage](#united-wholesale-mortgage) (1)
@@ -1626,12 +1622,6 @@
 | --- | --- | --- | --- |
 | [Product Marketing Literacy Intern](https://amplify.wd1.myworkdayjobs.com/en-US/Amplify_Careers/job/Remote---United-States/Product-Marketing-Literacy-Intern_Req_12290) | Remote in USA | Product | 2026-05-09 |
 
-## Amynta Group
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Data Analyst Intern](https://amynta.wd5.myworkdayjobs.com/global/job/Baltimore/Data-Analyst-Intern_2604-0193) | Baltimore, MD | AI/ML/Data | 2026-05-11 |
-
 ## Analytical Mechanics Associates
 
 | Title | Location | Department | First seen |
@@ -1767,7 +1757,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Software Engineer Intern, ML Ops](https://job-boards.greenhouse.io/apptronik/jobs/5993905004?gh_jid=5993905004) | Austin, TX | — | 2026-05-12 |
-| [Robotics Software Intern - Real-Time Controls](https://boards.greenhouse.io/apptronik/jobs/5985132004) | Austin, TX | Hardware | 2026-05-09 |
 
 ## Aptiv
 
@@ -2226,7 +2215,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Product Engineering Intern](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-GA---Covington-BMD/Intern---Product-Engineering_R-544958) | Monroe, GA | Software | 2026-05-09 |
 | [Business Data Analytics Intern - Channel Coverage](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Business-Data-Analytics-Intern--Channel-Coverage_R-544035) | New Mexico / Washington / Kansas / Pennsylvania / North Dakota / Oregon / Delaware / Iowa / California / Washington, DC / Vermont / Wyoming / Texas / Montana / Jackson Township, NJ / Sparks, MD / Florida / Waterbury, CT / Nevada / South Carolina / South Dakota / Georgia / Concord, NH / Mississippi / Tennessee / Virginia / Arkansas / Minnesota / Colorado / Nebraska / Rhode Island / Utah / Hawaii, United States / Kentucky / West Virginia / NYC / Maryland / Wisconsin / Maine / Massachusetts / North Carolina / Oklahoma / Missouri / Ohio / Indiana / Louisiana / Alaska / Michigan / Illinois / Idaho | AI/ML/Data | 2026-05-09 |
 
 ## Benjamin Moore
@@ -2241,7 +2229,6 @@
 | --- | --- | --- | --- |
 | [Business Intelligence and Reporting Intern](https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Summer-Internship--Business-Intelligence-and--Reporting-Intern_R33739) | Remote in USA | AI/ML/Data | 2026-05-09 |
 | [Data and Analytics Intern](https://beigene.wd5.myworkdayjobs.com/beigene/job/San-Carlos/Summer-Internship--Data-and-Analytics-Intern--Hybrid---San-Carlos--CA-_R33720) | San Carlos, CA | AI/ML/Data | 2026-05-09 |
-| [Summer Internship: Marketing Analytics Intern](https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Summer-Internship--Marketing-Analytics-Intern--Remote-_R33611) | Remote in USA | AI/ML/Data | 2026-05-09 |
 
 ## Berkshire Grey
 
@@ -2557,7 +2544,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Software Engineer Intern](https://caci.wd1.myworkdayjobs.com/external/job/US-MI-Ypsilanti/Software-Engineering-Intern---Summer-2026_324256) | Van Buren Charter Township, MI | Software | 2026-05-09 |
 | [Software Engineer Intern](https://careers.caci.com/global/en/job/CACIGLOBAL316653EXTERNALENGLOBAL/Software-Engineer-Intern-Summer-2026) | Austin, TX | — | 2026-05-09 |
 | [Software Engineering Intern](https://caci.wd1.myworkdayjobs.com/external/job/US-MI-Ypsilanti/Software-Engineering-Intern---Summer-2026_324254) | Van Buren Charter Township, MI | Software | 2026-05-09 |
 | [Software Engineering Intern](https://caci.wd1.myworkdayjobs.com/external/job/US-MI-Ypsilanti/Software-Engineering-Intern---Summer-2026_324253) | Van Buren Charter Township, MI | Software | 2026-05-09 |
@@ -5352,12 +5338,6 @@
 | [JD Young AI Data Analyst Intern](https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/GBR-England-Greater-London-London/JD-Young-AI-Data-Analyst-Internship_JR102354) | London, UK | AI/ML/Data | 2026-05-09 |
 | [Young Service Product Intern](https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/GBR-England-Greater-London-London/JD-Young-Service-Product-Internship_JR102501) | London, UK | Product | 2026-05-09 |
 
-## JM Family
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Sales Reporting and Operations Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Sales-Reporting-and-Operations-Intern_JR104713) | Deerfield Beach, FL | AI/ML/Data | 2026-05-09 |
-
 ## John Deere
 
 | Title | Location | Department | First seen |
@@ -7261,12 +7241,6 @@
 | [AI Engineering Intern](https://www.workatastartup.com/jobs/80435) | San Francisco, CA | — | 2026-05-09 |
 | [Software Engineering Intern](https://www.workatastartup.com/jobs/80434) | San Francisco, CA | — | 2026-05-09 |
 
-## ProPharma Group
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Intern Data Analytics & Reporting](https://propharmagroup.wd1.myworkdayjobs.com/ppgcareers/job/United-States/Intern--Data-Analytics---Reporting_JR9259) | United States | AI/ML/Data | 2026-05-09 |
-
 ## PSA Airlines
 
 | Title | Location | Department | First seen |
@@ -8241,6 +8215,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Software Engineer Intern - Zurich (2026)](https://jobs.ashbyhq.com/snowflake/26a0ae52-97a6-4a46-9216-3c382570d89b) | — | — | 2026-05-12 |
 | [Software Engineer Intern - Core Engineering](https://jobs.ashbyhq.com/snowflake/4f34aefa-681b-4aa8-a0ea-28ce56c9f1a5/application) | Menlo Park, CA / Bellevue, WA | Software | 2026-05-09 |
 | [Software Engineer Intern - Database Engineering](https://jobs.ashbyhq.com/snowflake/fd76a37f-868d-467b-a256-0b6746b9e961/application) | Menlo Park, CA / Bellevue, WA | Software | 2026-05-09 |
 | [Software Engineer Intern - Infrastructure Automation](https://jobs.ashbyhq.com/snowflake/bbdee8bd-443c-456f-a4f0-1b363d843310/application) | Menlo Park, CA / Bellevue, WA | Software | 2026-05-09 |
@@ -9527,12 +9502,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Engineering Intern](https://careers.underarmour.com/job/Remote-Summer-2026-Internship%2C-Engineering/1330072600/?feedId=347800&jobPipeline=Indeed) | Remote, US | — | 2026-05-09 |
-
-## Underwriters Laboratories
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Research Intern](https://ulse.wd5.myworkdayjobs.com/ulricareers/job/Columbia-MD/Research-Summer-2026-Intern---Fire-Safety-Research-Institute_JR1500-1) | Columbia, MD | AI/ML/Data | 2026-05-09 |
 
 ## United Launch Alliance
 
