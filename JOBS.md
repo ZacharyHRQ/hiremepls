@@ -1,6 +1,6 @@
 # Open Internships
 
-**3134** internships across **63/63** companies — last updated 2026-05-12.
+**3126** internships across **63/63** companies — last updated 2026-05-12.
 
 ## Companies
 
@@ -241,7 +241,6 @@
 - [City of Charlotte](#city-of-charlotte) (1)
 - [City of Greeley](#city-of-greeley) (1)
 - [Clarity Partners](#clarity-partners) (1)
-- [CLEAResult](#clearesult) (1)
 - [Clerkie](#clerkie) (1)
 - [Clever](#clever) (1)
 - [Cloudflare](#cloudflare) (38)
@@ -365,7 +364,6 @@
 - [Endeavor Health](#endeavor-health) (1)
 - [Endpoint Clinical](#endpoint-clinical) (1)
 - [Energy Northwest](#energy-northwest) (1)
-- [EnergyCap](#energycap) (1)
 - [EnergyHub](#energyhub) (3)
 - [ENFOS](#enfos) (1)
 - [ENOVIS](#enovis) (1)
@@ -540,7 +538,7 @@
 - [Inizio](#inizio) (1)
 - [Innovative Defense Technologies](#innovative-defense-technologies) (1)
 - [Innovative Defense Technologies (IDT)](#innovative-defense-technologies-idt) (2)
-- [Inogen](#inogen) (3)
+- [Inogen](#inogen) (2)
 - [Insitro](#insitro) (1)
 - [Insomniac](#insomniac) (1)
 - [Inspire](#inspire) (1)
@@ -574,7 +572,6 @@
 - [Johnson and Johnson](#johnson-and-johnson) (1)
 - [Johnson Controls](#johnson-controls) (2)
 - [Jolera](#jolera) (1)
-- [Jonas Software](#jonas-software) (1)
 - [Jones Lang LaSalle (JLL)](#jones-lang-lasalle-jll) (1)
 - [JP Morgan Chase](#jp-morgan-chase) (3)
 - [JPMorgan Chase](#jpmorgan-chase) (1)
@@ -595,7 +592,6 @@
 - [Kira](#kira) (2)
 - [KLA](#kla) (5)
 - [KLA Corporation](#kla-corporation) (1)
-- [Klaviyo](#klaviyo) (1)
 - [Kodak](#kodak) (1)
 - [Kodiak Robotics](#kodiak-robotics) (4)
 - [Kognitos](#kognitos) (1)
@@ -822,7 +818,6 @@
 - [QuantCo](#quantco) (1)
 - [Quantum Signal AI](#quantum-signal-ai) (1)
 - [Quantum Signal AI (QSAI)](#quantum-signal-ai-qsai) (1)
-- [QuinStreet](#quinstreet) (1)
 - [Rackner](#rackner) (1)
 - [Radiance Technologies](#radiance-technologies) (2)
 - [Radix Trading](#radix-trading) (1)
@@ -873,7 +868,7 @@
 - [S&P Global ](#s-p-global) (1)
 - [Safran](#safran) (1)
 - [SAIC](#saic) (1)
-- [Salesforce](#salesforce) (4)
+- [Salesforce](#salesforce) (2)
 - [Salient Motion](#salient-motion) (1)
 - [Samaya](#samaya) (1)
 - [Samsung](#samsung) (3)
@@ -930,7 +925,7 @@
 - [SitusAMC](#situsamc) (1)
 - [Sixtyfour (X25)](#sixtyfour-x25) (1)
 - [SK Hynix Memory Solution](#sk-hynix-memory-solution) (1)
-- [Skydio](#skydio) (16)
+- [Skydio](#skydio) (15)
 - [Skyworks](#skyworks) (6)
 - [Slate Auto](#slate-auto) (1)
 - [Smith+Nephew](#smith-nephew) (1)
@@ -959,7 +954,7 @@
 - [Speak (W17)](#speak-w17) (1)
 - [Spectrum](#spectrum) (4)
 - [Squarepoint](#squarepoint) (1)
-- [Squarepoint Capital](#squarepoint-capital) (8)
+- [Squarepoint Capital](#squarepoint-capital) (9)
 - [SRC Inc.](#src-inc) (1)
 - [SRI International](#sri-international) (1)
 - [SS&C](#ss-c) (1)
@@ -2961,12 +2956,6 @@
 | --- | --- | --- | --- |
 | [Software Development Intern](https://recruiting.paylocity.com/recruiting/jobs/Details/3643466/Clarity-Partners-LLC/Software-Development-Internship) | Chicago, IL | — | 2026-05-09 |
 
-## CLEAResult
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Product and Technology Intern](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Austin-TX---Bridgepoint-Parkway/Product-and-Technology-Intern--Summer-2026-_R0017304) | Austin, TX | AI/ML/Data | 2026-05-09 |
-
 ## Clerkie
 
 | Title | Location | Department | First seen |
@@ -3844,12 +3833,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Engineer Intern](https://energynorthwest.wd1.myworkdayjobs.com/External/job/Richland-WA/Engineering-Intern---Year-Round_REQ26_162-1) | Richland, WA | Software | 2026-05-11 |
-
-## EnergyCap
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Product Operations Associate Intern](https://ats.rippling.com/energycap-external-career-page/jobs/e448abdb-dbef-4918-9cd9-0987fb413f00) | Remote in USA | Product | 2026-05-11 |
 
 ## EnergyHub
 
@@ -5105,7 +5088,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [IT Data & AI Intern](https://jobs.jobvite.com/inogen/job/o8X7zfwv?nl=1&nl=1&fr=false) | Plano, TX | AI/ML/Data | 2026-05-11 |
 | [Embedded Systems Engineering Intern](https://jobs.jobvite.com/careers/inogen/job/oFzUxfwp) | Plano, TX | — | 2026-05-09 |
 | [Firmware Engineering Intern](https://careers.inogen.com/jobs/16468940-firmware-engineering-intern?tm_job=1456&tm_event=view&tm_company=89058) | Plano, TX | — | 2026-05-09 |
 
@@ -5369,12 +5351,6 @@
 | --- | --- | --- | --- |
 | [Software Engineer Intern](https://www.jolera.com/careers/?jobId=mQ_8xXOp_PHw) | Buffalo, NY | — | 2026-05-09 |
 
-## Jonas Software
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Software Engineer Intern](https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/Remote---USA/Software-Engineering-Intern_R52141-1) | Remote in USA | Software | 2026-05-11 |
-
 ## Jones Lang LaSalle (JLL)
 
 | Title | Location | Department | First seen |
@@ -5555,12 +5531,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Software Intern - Internet of Things](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Intern--IOT-_2532211-1) | Milpitas, CA | Hardware | 2026-05-09 |
-
-## Klaviyo
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Full-stack Software Engineer Intern](https://job-boards.greenhouse.io/klaviyocampus/jobs/7603083003) | Boston, MA | Software | 2026-05-09 |
 
 ## Kodak
 
@@ -7331,12 +7301,6 @@
 | --- | --- | --- | --- |
 | [Applications Software Engineering Intern](https://quantumsignalai.applytojob.com/apply/o4xvPN56z1/Applications-Software-Engineering-Intern) | Saline, MI | — | 2026-05-09 |
 
-## QuinStreet
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Performance Marketing & Analytics Intern Program - Undergraduate](https://www.quinstreet.com/careers/?gh_jid=7460695) | Remote in USA | AI/ML/Data | 2026-05-09 |
-
 ## Rackner
 
 | Title | Location | Department | First seen |
@@ -7743,8 +7707,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Intern - AI Research](https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---Palo-Alto/Summer-2026-Intern---AI-Research_JR313214-2) | Palo Alto, CA | AI/ML/Data | 2026-05-11 |
-| [Intern - AI Research](https://salesforce.wd12.myworkdayjobs.com/Salesforce_Research/job/California---Palo-Alto/Summer-2026-Intern---AI-Research_JR313214) | Palo Alto, CA | AI/ML/Data | 2026-05-11 |
 | [Software Engineer Intern(Futureforce Summer 2027)](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1) | San Francisco, CA / Palo Alto, CA / New York, NY / Seattle, WA / Burlington, MA | — | 2026-05-09 |
 | [Strategic Data Science Intern](https://careers.salesforce.com/en/jobs/jr308066/fall-2025-intern-strategic-data-science/) | San Francisco, CA | — | 2026-05-09 |
 
@@ -8146,7 +8108,6 @@
 | [Autonomy Engineer Intern, Summer 2026](https://www.skydio.com/jobs/7498514003) | San Mateo, CA | — | 2026-05-09 |
 | [Embedded Software Engineer Intern](https://www.skydio.com/jobs/7493211003?gh_jid=7493211003) | San Mateo, CA | — | 2026-05-09 |
 | [GTM Data Engineer Intern](https://jobs.ashbyhq.com/skydio/b90b9b3b-e326-4fb6-85bd-fe52bec5f180/application) | San Mateo, CA | AI/ML/Data | 2026-05-09 |
-| [Hardware Test and Reliability Intern](https://jobs.ashbyhq.com/skydio/4a1441bf-6979-46d0-a466-d9b8fd0a9762/application) | San Mateo, CA | Hardware | 2026-05-09 |
 | [Middleware Software Engineer Intern, Device Platform](https://www.skydio.com/jobs/7493238003) | San Mateo, CA | — | 2026-05-09 |
 | [Middleware Software Intern](https://www.skydio.com/jobs/6220445003?gh_jid=6220445003) | San Mateo, CA | — | 2026-05-09 |
 | [PhD Autonomy Engineer Intern - Deep Learning or Computer Vision](https://jobs.ashbyhq.com/skydio/8d3979a8-c791-4825-8cf4-9b25479b9519/application) | San Mateo, CA | AI/ML/Data | 2026-05-09 |
@@ -8374,6 +8335,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Graduate Quant Developer](https://www.squarepoint-capital.com/open-opportunities?id=7918610&gh_jid=7918610) | London, Montreal, Singapore | — | 2026-05-12 |
 | [Software Developer Intern](https://boards.greenhouse.io/embed/job_app?token=7905463) | Montreal, QC, Canada | Software | 2026-05-11 |
 | [Intern Software Developer - Summer 2026](https://boards.greenhouse.io/embed/job_app?token=7231006) | Montreal, QC, Canada / London, UK | Software | 2026-05-09 |
 | [Intern Software Developer - Fall 2026](https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463) | Montreal | — | 2026-05-07 |
@@ -8497,8 +8459,8 @@
 | [PhD Machine Learning Engineer Intern](https://stripe.com/jobs/search?gh_jid=7216664) | Seattle, WA / SF / NYC | AI/ML/Data | 2026-05-09 |
 | [Software Engineer Intern](https://stripe.com/jobs/listing/software-engineer-intern-summer-and-winter/7210115) | South San Francisco, CA / Seattle, WA / New York, NY | — | 2026-05-09 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | Mexico City, Mexico | — | 2026-05-06 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | Toronto, Ontario, Canada | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7216664) | San Francisco, New York City, Seattle | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | Singapore | — | 2026-05-06 |

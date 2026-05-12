@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-12T19:21:29.955Z",
+  "generatedAt": "2026-05-12T20:57:03.840Z",
   "companyCount": 63,
   "okCount": 63,
-  "jobCount": 3134,
+  "jobCount": 3126,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -82,6 +82,7 @@
     "7899062": "2026-05-11T11:24:37.304Z",
     "7905463": "2026-05-07T21:00:54.613Z",
     "7913505": "2026-05-11T18:26:15.083Z",
+    "7918610": "2026-05-12T20:57:03.840Z",
     "4608590101": "2026-05-06T06:42:07.596Z",
     "4786701101": "2026-05-06T06:42:07.596Z",
     "4540358101": "2026-05-06T06:42:07.596Z",
@@ -405,7 +406,6 @@
     "simplify:2c5d7095-48e9-43ec-bb00-96891d5d0cdd": "2026-05-09T15:28:15.527Z",
     "simplify:f3e1dd51-5fa2-4d31-a191-365c1691876f": "2026-05-09T15:28:15.527Z",
     "simplify:b225ba99-b255-4b23-877b-3c63f99d2442": "2026-05-09T15:28:15.527Z",
-    "simplify:f5870b8d-2cd1-4abc-9adb-2524405a5b03": "2026-05-09T15:28:15.527Z",
     "simplify:932eae26-30ca-4b13-9092-ad3924591106": "2026-05-09T15:28:15.527Z",
     "simplify:e019cb63-9a97-47ac-a617-fcc346cd7bb8": "2026-05-09T15:28:15.527Z",
     "simplify:40dbbf5f-d4ad-493a-9644-4f4b0662556c": "2026-05-09T15:28:15.527Z",
@@ -513,7 +513,6 @@
     "simplify:7cbf5e66-95b6-4b66-b41f-fa9cdeadcadc": "2026-05-09T15:28:15.527Z",
     "simplify:7d1ede0e-87a7-4aac-844c-13a130fc3494": "2026-05-09T15:28:15.527Z",
     "simplify:42b0f3dc-9fe2-4f26-ac9b-eaaa21075017": "2026-05-09T15:28:15.527Z",
-    "simplify:d6335bab-45ee-4dc3-910a-5de5407e523f": "2026-05-09T15:28:15.527Z",
     "simplify:fd2aa27a-d775-4452-8bfc-318d2021b364": "2026-05-09T15:28:15.527Z",
     "simplify:5a7ec5c0-2939-4bea-bdd5-4a1a4e4e9e8c": "2026-05-09T15:28:15.527Z",
     "simplify:4549f868-697a-4b15-a117-f8242279c730": "2026-05-09T15:28:15.527Z",
@@ -1193,7 +1192,6 @@
     "simplify:14bb6e3b-26a8-4881-942d-d0d1d0924a68": "2026-05-09T15:28:15.527Z",
     "simplify:1fbdc691-dfec-4199-8f8f-02f8a8a42537": "2026-05-09T15:28:15.527Z",
     "simplify:530480fb-52da-4143-81f3-ab588836a123": "2026-05-09T15:28:15.527Z",
-    "simplify:c6897c52-d777-42e4-ad53-c44a882be1a5": "2026-05-09T15:28:15.527Z",
     "simplify:4fec6e95-8408-41e9-9021-fe0cb97ba0a1": "2026-05-09T15:28:15.527Z",
     "simplify:2e856615-7a30-4783-b2a1-2104e28e8cf8": "2026-05-09T15:28:15.527Z",
     "simplify:f8160e16-ca09-498c-bc84-4785b88d8848": "2026-05-09T15:28:15.527Z",
@@ -2977,7 +2975,6 @@
     "simplify:c92e5011-0bea-4189-96e4-498f5bb18211": "2026-05-09T19:20:31.296Z",
     "simplify:a6711ccf-ecad-4e69-81e6-72f79c6e02cf": "2026-05-09T19:20:31.296Z",
     "simplify:cb8d8cc7-99e4-4ab8-904a-6536729dc875": "2026-05-09T19:20:31.296Z",
-    "simplify:db77bc41-b223-4114-8472-fcfb50829355": "2026-05-09T19:20:31.296Z",
     "simplify:f65a97ce-acdb-4f60-a4e0-a4a7b7a66fcb": "2026-05-09T19:20:31.296Z",
     "simplify:aaa71ad1-ad1f-428a-be7d-7070e7881ac6": "2026-05-09T19:20:31.296Z",
     "simplify:7f647687-e1c7-4c0a-ac97-025eee6fa5e7": "2026-05-09T19:20:31.296Z",
@@ -3009,7 +3006,6 @@
     "simplify:6ea0efe1-9fbc-4f5f-8bd3-5bcf07c29734": "2026-05-11T07:59:30.777Z",
     "simplify:45f14a7b-889c-4a39-a34a-c687f99e367c": "2026-05-11T07:59:30.777Z",
     "simplify:ca5eca0a-9078-4ac7-9951-872de0a08817": "2026-05-11T14:01:48.198Z",
-    "simplify:9f667973-2421-4526-bf73-3103d394756f": "2026-05-11T14:01:48.198Z",
     "simplify:f9d972b5-311c-4ef2-a323-51364b4b2440": "2026-05-11T14:01:48.198Z",
     "simplify:4f0aaffd-abff-4630-885d-6b95b8dbadf4": "2026-05-11T14:01:48.198Z",
     "simplify:4dbcafd0-5fe0-4b9c-8fc2-b0acffe1537f": "2026-05-11T14:01:48.198Z",
@@ -3024,7 +3020,6 @@
     "simplify:f682356d-55da-4f90-987d-77f140cc652d": "2026-05-11T14:01:48.198Z",
     "simplify:66572abf-79bc-4959-81dc-2d51e16c64a4": "2026-05-11T14:01:48.198Z",
     "simplify:8eb44b0c-8d8e-4bd2-88d0-51fb9b03511c": "2026-05-11T14:01:48.198Z",
-    "simplify:b08ddabb-7dbc-441c-abc5-cc3e817e4d82": "2026-05-11T14:01:48.198Z",
     "simplify:b4ea56db-dcfd-4479-8dde-abdf95b8431d": "2026-05-11T14:01:48.198Z",
     "simplify:609e2d0d-89d6-434b-ab49-1968ef08c157": "2026-05-11T14:01:48.198Z",
     "simplify:b2caadce-6eeb-4eb8-8571-477e8b7bca43": "2026-05-11T14:01:48.198Z",
@@ -3081,7 +3076,6 @@
     "simplify:1e6976c4-48c8-4399-a9c4-5d72f7f93002": "2026-05-11T23:38:25.770Z",
     "simplify:04cd6e3a-58cb-4231-b6e7-65b850c86cb2": "2026-05-11T23:38:25.770Z",
     "simplify:f9fb2c4a-ccc9-4759-84d6-f435f67e7ed3": "2026-05-11T23:38:25.770Z",
-    "simplify:f6828d11-8794-49da-965a-3a6dd7bebca2": "2026-05-11T23:38:25.770Z",
     "simplify:756524a0-eb1e-46c9-b462-484c9923268a": "2026-05-11T23:38:25.770Z",
     "simplify:a96e8247-6d73-4e20-95c7-8fd251ac98ef": "2026-05-11T23:38:25.770Z",
     "simplify:cb7d1d33-fcc1-4eba-afb9-275d0386723e": "2026-05-11T23:38:25.770Z",
@@ -3092,7 +3086,6 @@
     "simplify:6d423ec0-c285-4e06-87e5-4169aa3d5ed2": "2026-05-11T23:38:25.770Z",
     "simplify:69b571de-8212-4952-b1ea-7a33fe3bda6b": "2026-05-11T23:38:25.770Z",
     "simplify:572bd542-bdd6-4494-adf5-c3e38316b280": "2026-05-11T23:38:25.770Z",
-    "simplify:e700aae0-a790-4cee-9266-7b481d2c13d4": "2026-05-11T23:38:25.770Z",
     "simplify:9ef7efda-4769-4f8d-ab7d-c545cde957bb": "2026-05-11T23:38:25.770Z",
     "simplify:9c45103b-7822-4919-a5ff-5ba4283c2a53": "2026-05-11T23:38:25.770Z",
     "simplify:50bcd0ad-2f60-4cdb-afbc-b0007f285de8": "2026-05-11T23:38:25.770Z",
@@ -3103,7 +3096,6 @@
     "simplify:22ccd792-b030-4ca3-86f6-575f054bd427": "2026-05-11T23:38:25.770Z",
     "simplify:73ceaf56-0208-4efc-ab70-3dea4246f067": "2026-05-11T23:38:25.770Z",
     "simplify:562cbc1f-78de-477b-af0a-f684cdf59545": "2026-05-11T23:38:25.770Z",
-    "simplify:d738cea5-b94d-4242-a6e3-00a441104aad": "2026-05-11T23:38:25.770Z",
     "simplify:499c839a-124c-447e-a899-7efe0b8b4f17": "2026-05-11T23:38:25.770Z",
     "simplify:0920674f-a907-4873-9294-a2175a137805": "2026-05-11T23:38:25.770Z",
     "simplify:8362ad8d-1386-49b5-b768-0a87bbacd936": "2026-05-12T01:22:31.720Z",
@@ -3145,6 +3137,14 @@
       "title": "Graduate Platform Specialist",
       "url": "https://www.squarepoint-capital.com/open-opportunities?id=7340843&gh_jid=7340843",
       "location": "Hong Kong, London, Montreal, Singapore",
+      "department": "",
+      "company": "Squarepoint Capital"
+    },
+    {
+      "id": "7918610",
+      "title": "Graduate Quant Developer",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=7918610&gh_jid=7918610",
+      "location": "London, Montreal, Singapore",
       "department": "",
       "company": "Squarepoint Capital"
     },
@@ -3733,18 +3733,18 @@
       "company": "Stripe"
     },
     {
-      "id": "7874965",
-      "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
-      "department": "",
-      "company": "Stripe"
-    },
-    {
       "id": "7285974",
       "title": "PhD Data Scientist, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=7285974",
       "location": "Toronto, Ontario, Canada",
+      "department": "",
+      "company": "Stripe"
+    },
+    {
+      "id": "7874965",
+      "title": "PhD Data Scientist, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe"
     },
@@ -4675,14 +4675,6 @@
       "location": "Boston, MA / Seattle, WA / Menlo Park, CA / NYC / Bellevue, WA",
       "department": "AI/ML/Data",
       "company": "Meta"
-    },
-    {
-      "id": "simplify:9f667973-2421-4526-bf73-3103d394756f",
-      "title": "Intern - AI Research",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---Palo-Alto/Summer-2026-Intern---AI-Research_JR313214-2",
-      "location": "Palo Alto, CA",
-      "department": "AI/ML/Data",
-      "company": "Salesforce"
     },
     {
       "id": "simplify:abba790c-e782-43cb-870c-9a6a8e9ab016",
@@ -6405,14 +6397,6 @@
       "company": "Axos Bank"
     },
     {
-      "id": "simplify:f5870b8d-2cd1-4abc-9adb-2524405a5b03",
-      "title": "Performance Marketing & Analytics Intern Program - Undergraduate",
-      "url": "https://www.quinstreet.com/careers/?gh_jid=7460695",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "QuinStreet"
-    },
-    {
       "id": "simplify:932eae26-30ca-4b13-9092-ad3924591106",
       "title": "Research Scientist Intern, LLM Evaluation",
       "url": "https://www.metacareers.com/profile/job_details/4203446973242742",
@@ -7363,14 +7347,6 @@
       "location": "Honolulu, HI / Annapolis Junction, MD / Colorado Springs, CO / McLean, VA / Rome, NY / Panama City, FL / Charleston, SC / Atlanta, GA / Huntsville, AL / San Diego, CA / El Segundo, CA",
       "department": "Software",
       "company": "Booz Allen"
-    },
-    {
-      "id": "simplify:d6335bab-45ee-4dc3-910a-5de5407e523f",
-      "title": "Full-stack Software Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7603083003",
-      "location": "Boston, MA",
-      "department": "Software",
-      "company": "Klaviyo"
     },
     {
       "id": "simplify:fd2aa27a-d775-4452-8bfc-318d2021b364",
@@ -9757,14 +9733,6 @@
       "company": "Etched"
     },
     {
-      "id": "simplify:b08ddabb-7dbc-441c-abc5-cc3e817e4d82",
-      "title": "Intern - AI Research",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/Salesforce_Research/job/California---Palo-Alto/Summer-2026-Intern---AI-Research_JR313214",
-      "location": "Palo Alto, CA",
-      "department": "AI/ML/Data",
-      "company": "Salesforce"
-    },
-    {
       "id": "simplify:efecb7b5-256b-435f-a565-b512df915e7a",
       "title": "Research Engineer Intern",
       "url": "https://jobs.lever.co/aisafety/e011814b-9a80-43d6-bb0c-cc153ea4bec4/apply",
@@ -11299,14 +11267,6 @@
       "location": "Redmond, WA / NYC",
       "department": "AI/ML/Data",
       "company": "Microsoft"
-    },
-    {
-      "id": "simplify:db77bc41-b223-4114-8472-fcfb50829355",
-      "title": "Product and Technology Intern",
-      "url": "https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Austin-TX---Bridgepoint-Parkway/Product-and-Technology-Intern--Summer-2026-_R0017304",
-      "location": "Austin, TX",
-      "department": "AI/ML/Data",
-      "company": "CLEAResult"
     },
     {
       "id": "simplify:c7a08f13-551f-4c06-a490-063b0acf0301",
@@ -13427,14 +13387,6 @@
       "location": "Toronto, ON, Canada",
       "department": "AI/ML/Data",
       "company": "Royal Bank of Canada"
-    },
-    {
-      "id": "simplify:c6897c52-d777-42e4-ad53-c44a882be1a5",
-      "title": "Hardware Test and Reliability Intern",
-      "url": "https://jobs.ashbyhq.com/skydio/4a1441bf-6979-46d0-a466-d9b8fd0a9762/application",
-      "location": "San Mateo, CA",
-      "department": "Hardware",
-      "company": "Skydio"
     },
     {
       "id": "simplify:4fec6e95-8408-41e9-9021-fe0cb97ba0a1",
@@ -17573,14 +17525,6 @@
       "company": "Premier Automation"
     },
     {
-      "id": "simplify:f6828d11-8794-49da-965a-3a6dd7bebca2",
-      "title": "Product Operations Associate Intern",
-      "url": "https://ats.rippling.com/energycap-external-career-page/jobs/e448abdb-dbef-4918-9cd9-0987fb413f00",
-      "location": "Remote in USA",
-      "department": "Product",
-      "company": "EnergyCap"
-    },
-    {
       "id": "simplify:756524a0-eb1e-46c9-b462-484c9923268a",
       "title": "Software Engineer Intern",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/XMLNAME-01794310-Software-Engineering-Intern--Summer-2026-_01844105",
@@ -17661,14 +17605,6 @@
       "company": "SOTI"
     },
     {
-      "id": "simplify:e700aae0-a790-4cee-9266-7b481d2c13d4",
-      "title": "IT Data & AI Intern",
-      "url": "https://jobs.jobvite.com/inogen/job/o8X7zfwv?nl=1&nl=1&fr=false",
-      "location": "Plano, TX",
-      "department": "AI/ML/Data",
-      "company": "Inogen"
-    },
-    {
       "id": "simplify:9ef7efda-4769-4f8d-ab7d-c545cde957bb",
       "title": "Data Analytics Intern - Risk & Fraud",
       "url": "https://jobs.ashbyhq.com/super.com/8355a2fc-34bc-45b0-b8d6-39e558940cef/application",
@@ -17747,14 +17683,6 @@
       "location": "Chicago, IL",
       "department": "AI/ML/Data",
       "company": "Bank of Montreal"
-    },
-    {
-      "id": "simplify:d738cea5-b94d-4242-a6e3-00a441104aad",
-      "title": "Software Engineer Intern",
-      "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/Remote---USA/Software-Engineering-Intern_R52141-1",
-      "location": "Remote in USA",
-      "department": "Software",
-      "company": "Jonas Software"
     },
     {
       "id": "simplify:499c839a-124c-447e-a899-7efe0b8b4f17",
