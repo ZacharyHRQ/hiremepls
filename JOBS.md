@@ -1,13 +1,13 @@
 # Open Internships
 
-**3156** internships across **63/63** companies — last updated 2026-05-12.
+**3161** internships across **63/63** companies — last updated 2026-05-12.
 
 ## Companies
 
 - [ PrizePicks](#prizepicks) (1)
 - [14.ai](#14-ai) (1)
 - [a0.dev](#a0-dev) (1)
-- [ABB](#abb) (5)
+- [ABB](#abb) (6)
 - [Abbott](#abbott) (1)
 - [ABC Fitness](#abc-fitness) (1)
 - [ABC News](#abc-news) (1)
@@ -19,7 +19,7 @@
 - [ACI Worldwide ](#aci-worldwide) (3)
 - [Actian](#actian) (5)
 - [Activision Blizzard](#activision-blizzard) (2)
-- [Adobe](#adobe) (14)
+- [Adobe](#adobe) (15)
 - [ADT](#adt) (2)
 - [Adtheorant](#adtheorant) (2)
 - [Advanced Energy](#advanced-energy) (2)
@@ -81,7 +81,7 @@
 - [Applied Concepts, Inc.](#applied-concepts-inc) (1)
 - [Applied Intuition](#applied-intuition) (2)
 - [Applied Materials](#applied-materials) (5)
-- [Apptronik](#apptronik) (1)
+- [Apptronik](#apptronik) (2)
 - [Aptiv](#aptiv) (4)
 - [AQR Capital Management](#aqr-capital-management) (3)
 - [Arcadis](#arcadis) (1)
@@ -424,7 +424,7 @@
 - [FleetWorks](#fleetworks) (1)
 - [Flextronics International](#flextronics-international) (1)
 - [Flock Safety](#flock-safety) (1)
-- [Formlabs](#formlabs) (4)
+- [Formlabs](#formlabs) (5)
 - [Fortinet](#fortinet) (2)
 - [Fortive](#fortive) (2)
 - [Foundation ](#foundation) (1)
@@ -1005,6 +1005,7 @@
 - [Tanium](#tanium) (2)
 - [Tasker AI](#tasker-ai) (1)
 - [Tatari](#tatari) (3)
+- [Taylor Corporation](#taylor-corporation) (1)
 - [TD Bank](#td-bank) (2)
 - [TD Synnex](#td-synnex) (1)
 - [Techtronic Industries](#techtronic-industries) (1)
@@ -1201,6 +1202,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [R&D Product Development Engineer Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-CT-Bloomfield/R-D-Product-Development-Engineering-Intern---Summer-2026_JR00013133) | Hartford, CT | Hardware | 2026-05-12 |
 | [Agentic AI Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/San-Jose-California-United-States-of-America/Agentic-AI-Intern--Summer-2026_JR00024219) | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [AI Data Analytics Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/San-Jose-California-United-States-of-America/AI-Data-Analytics-Intern--Summer-2026_JR00024382) | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [AI Vision Engineer Intern- AI Robotics](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/San-Jose-California-United-States-of-America/AI-Vision-Engineer-Intern--AI-Robotics--Spring-2026_JR00014185) | San Jose, CA | Data Science, AI & Machine Learning | 2026-05-09 |
@@ -1284,6 +1286,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Machine Learning Engineer Intern - AI/ML](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706) | Seattle, WA / SF / San Jose, CA | AI/ML/Data | 2026-05-12 |
 | [2026 Intern - Research Scientist/Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Research-Scientist-Engineer_R160317) | Cambridge, MA / Seattle, WA / Toronto, ON, Canada / SF / San Jose, CA / Hyattsville, MD / NYC | AI/ML/Data | 2026-05-09 |
 | [AI/ML Intern - Machine Learning Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer_R158493) | Seattle, WA / SF / Austin, TX / San Jose, CA / Waltham, MA / NYC / Lehi, UT | AI/ML/Data | 2026-05-09 |
 | [2026 Intern - Machine Learning Engineer](https://careers.adobe.com/us/en/job/ADOBUSR162228EXTERNALENUS/2026-Intern-Machine-Learning-Engineer) | San Francisco, CA | — | 2026-05-09 |
@@ -1762,6 +1765,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Software Engineer Intern](https://boards.greenhouse.io/apptronik/jobs/5993905004) | Austin, TX | Software | 2026-05-12 |
 | [Robotics Software Intern - Real-Time Controls](https://boards.greenhouse.io/apptronik/jobs/5985132004) | Austin, TX | Hardware | 2026-05-09 |
 
 ## Aptiv
@@ -4263,6 +4267,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Operations & Supply Chain Software Intern](https://careers.formlabs.com/job/7899552/apply/?gh_jid=7899552) | Cambridge, MA | Software | 2026-05-12 |
 | [Build Team Intern](https://careers.formlabs.com/job/7863858/apply/?gh_jid=7863858) | Cambridge, MA | Hardware | 2026-05-09 |
 | [Print Optimization Intern](https://careers.formlabs.com/job/7384134/apply/?gh_jid=7384134) | Cambridge, MA | — | 2026-05-09 |
 | [SLA Print Optimization Intern - Fall 2026](https://careers.formlabs.com/job/7863193/apply/?gh_jid=7863193) | Cambridge, MA | Hardware | 2026-05-09 |
@@ -8555,8 +8560,8 @@
 | [PhD Machine Learning Engineer Intern](https://stripe.com/jobs/search?gh_jid=7216664) | Seattle, WA / SF / NYC | AI/ML/Data | 2026-05-09 |
 | [Software Engineer Intern](https://stripe.com/jobs/listing/software-engineer-intern-summer-and-winter/7210115) | South San Francisco, CA / Seattle, WA / New York, NY | — | 2026-05-09 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | Mexico City, Mexico | — | 2026-05-06 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | Toronto, Ontario, Canada | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7216664) | San Francisco, New York City, Seattle | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | Singapore | — | 2026-05-06 |
@@ -8723,6 +8728,12 @@
 | [Software Engineer Intern](https://job-boards.greenhouse.io/tatari/jobs/8451505002) | NYC | Software | 2026-05-09 |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/tatari/jobs/8451506002) | SF / LA / NYC | Software | 2026-05-09 |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/tatari/jobs/8451504002) | SF / LA / NYC | Software | 2026-05-09 |
+
+## Taylor Corporation
+
+| Title | Location | Department | First seen |
+| --- | --- | --- | --- |
+| [Graduate Data Analyst Intern](https://taylor.wd1.myworkdayjobs.com/external/job/MN-Remote/Data-Analyst-Graduate-Intern--AI-Focused--Temporary-_R28606) | Eden Prairie, MN / Mankato, MN / Minnesota | AI/ML/Data | 2026-05-12 |
 
 ## TD Bank
 

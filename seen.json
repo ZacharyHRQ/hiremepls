@@ -118,8 +118,8 @@
   "Stripe": [
     "7913505",
     "7544547",
-    "7874965",
     "7285974",
+    "7874965",
     "7216664",
     "7176977",
     "7532256",
@@ -268,6 +268,7 @@
     "simplify:6fb62388-2f9e-4cf0-80d9-0c0bb46ee445",
     "simplify:20510032-d1c4-4136-8853-9724c2c7cd3f",
     "simplify:779747c8-51a7-4043-95d4-75311a54bca5",
+    "simplify:4e10af7c-c752-4dc9-8fe9-8eb17f45f0a1",
     "simplify:d381c6bd-aae3-4481-b414-e02a3f466dc7",
     "simplify:c32766cb-c3e6-413b-b430-420d1de6e864",
     "simplify:85224209-4681-4b89-b555-7de22d40f95e",
@@ -1955,7 +1956,11 @@
     "simplify:8362ad8d-1386-49b5-b768-0a87bbacd936",
     "simplify:14992777-5bce-4d6a-aa7e-485f28a7df08",
     "simplify:1f487f77-2747-4099-b366-ec3c03fb88d5",
-    "simplify:cab3dc48-123e-4fdc-8ca8-10d067c841b0"
+    "simplify:cab3dc48-123e-4fdc-8ca8-10d067c841b0",
+    "simplify:c1a3a20a-429e-4d9a-a141-184e143a5e85",
+    "simplify:2b6d2595-06f0-4103-b393-558ce3b58804",
+    "simplify:cc7d00ca-909c-4ddd-9f30-29adcd64bbed",
+    "simplify:bb2d4f4a-701b-41fc-8aab-5d7d87d494a9"
   ],
   "vanshb03": [
     "vansh:d2c404c8-5895-4ec0-95c2-3d17aed38beb",

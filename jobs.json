@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-12T04:54:37.025Z",
+  "generatedAt": "2026-05-12T07:37:38.894Z",
   "companyCount": 63,
   "okCount": 63,
-  "jobCount": 3156,
+  "jobCount": 3161,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -3159,7 +3159,12 @@
     "simplify:a5ea04af-7e0c-4b40-92d4-ed0f73096c6c": "2026-05-12T04:54:37.025Z",
     "simplify:14992777-5bce-4d6a-aa7e-485f28a7df08": "2026-05-12T04:54:37.025Z",
     "simplify:1f487f77-2747-4099-b366-ec3c03fb88d5": "2026-05-12T04:54:37.025Z",
-    "simplify:cab3dc48-123e-4fdc-8ca8-10d067c841b0": "2026-05-12T04:54:37.025Z"
+    "simplify:cab3dc48-123e-4fdc-8ca8-10d067c841b0": "2026-05-12T04:54:37.025Z",
+    "simplify:4e10af7c-c752-4dc9-8fe9-8eb17f45f0a1": "2026-05-12T07:37:38.894Z",
+    "simplify:c1a3a20a-429e-4d9a-a141-184e143a5e85": "2026-05-12T07:37:38.894Z",
+    "simplify:2b6d2595-06f0-4103-b393-558ce3b58804": "2026-05-12T07:37:38.894Z",
+    "simplify:cc7d00ca-909c-4ddd-9f30-29adcd64bbed": "2026-05-12T07:37:38.894Z",
+    "simplify:bb2d4f4a-701b-41fc-8aab-5d7d87d494a9": "2026-05-12T07:37:38.894Z"
   },
   "jobs": [
     {
@@ -3795,18 +3800,18 @@
       "company": "Stripe"
     },
     {
-      "id": "7874965",
-      "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
-      "department": "",
-      "company": "Stripe"
-    },
-    {
       "id": "7285974",
       "title": "PhD Data Scientist, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=7285974",
       "location": "Toronto, Ontario, Canada",
+      "department": "",
+      "company": "Stripe"
+    },
+    {
+      "id": "7874965",
+      "title": "PhD Data Scientist, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe"
     },
@@ -4617,6 +4622,14 @@
       "location": "San Francisco, CA / New York, NY / London, UK",
       "department": "Software Engineering",
       "company": "Uncountable"
+    },
+    {
+      "id": "simplify:4e10af7c-c752-4dc9-8fe9-8eb17f45f0a1",
+      "title": "Machine Learning Engineer Intern - AI/ML",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706",
+      "location": "Seattle, WA / SF / San Jose, CA",
+      "department": "AI/ML/Data",
+      "company": "Adobe"
     },
     {
       "id": "simplify:d381c6bd-aae3-4481-b414-e02a3f466dc7",
@@ -18121,6 +18134,38 @@
       "location": "Remote in USA",
       "department": "AI/ML/Data",
       "company": "Cotiviti"
+    },
+    {
+      "id": "simplify:c1a3a20a-429e-4d9a-a141-184e143a5e85",
+      "title": "Operations & Supply Chain Software Intern",
+      "url": "https://careers.formlabs.com/job/7899552/apply/?gh_jid=7899552",
+      "location": "Cambridge, MA",
+      "department": "Software",
+      "company": "Formlabs"
+    },
+    {
+      "id": "simplify:2b6d2595-06f0-4103-b393-558ce3b58804",
+      "title": "Software Engineer Intern",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/5993905004",
+      "location": "Austin, TX",
+      "department": "Software",
+      "company": "Apptronik"
+    },
+    {
+      "id": "simplify:cc7d00ca-909c-4ddd-9f30-29adcd64bbed",
+      "title": "Graduate Data Analyst Intern",
+      "url": "https://taylor.wd1.myworkdayjobs.com/external/job/MN-Remote/Data-Analyst-Graduate-Intern--AI-Focused--Temporary-_R28606",
+      "location": "Eden Prairie, MN / Mankato, MN / Minnesota",
+      "department": "AI/ML/Data",
+      "company": "Taylor Corporation"
+    },
+    {
+      "id": "simplify:bb2d4f4a-701b-41fc-8aab-5d7d87d494a9",
+      "title": "R&D Product Development Engineer Intern",
+      "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-CT-Bloomfield/R-D-Product-Development-Engineering-Intern---Summer-2026_JR00013133",
+      "location": "Hartford, CT",
+      "department": "Hardware",
+      "company": "ABB"
     },
     {
       "id": "vansh:d2c404c8-5895-4ec0-95c2-3d17aed38beb",
