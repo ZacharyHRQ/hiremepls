@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-13T05:02:14.912Z",
+  "generatedAt": "2026-05-13T08:10:42.769Z",
   "companyCount": 63,
   "okCount": 63,
-  "jobCount": 3094,
+  "jobCount": 3092,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -80,6 +80,7 @@
     "7874965": "2026-05-06T06:42:07.596Z",
     "7899062": "2026-05-11T11:24:37.304Z",
     "7905463": "2026-05-07T21:00:54.613Z",
+    "7912382": "2026-05-13T08:10:42.769Z",
     "7913505": "2026-05-11T18:26:15.083Z",
     "7917883": "2026-05-13T01:22:17.700Z",
     "7918610": "2026-05-12T20:57:03.840Z",
@@ -92,7 +93,6 @@
     "4608591101": "2026-05-06T06:42:07.596Z",
     "4742629101": "2026-05-06T06:42:07.596Z",
     "4829785101": "2026-05-06T06:42:07.596Z",
-    "4629144101": "2026-05-06T06:42:07.596Z",
     "8191183002": "2026-05-06T06:42:07.596Z",
     "8505843002": "2026-05-06T06:42:07.596Z",
     "8406727002": "2026-05-06T06:42:07.596Z",
@@ -1477,7 +1477,6 @@
     "simplify:6efb01c9-5bbe-43e5-b506-19b0486c5d92": "2026-05-09T15:28:15.527Z",
     "simplify:6657ae54-86a0-47c2-aac3-d20df829fb37": "2026-05-09T15:28:15.527Z",
     "simplify:b8cb407f-5dbb-450d-84d4-387a0a0fa348": "2026-05-09T15:28:15.527Z",
-    "simplify:02c44496-1cac-4073-915d-3e22c6082cf9": "2026-05-09T15:28:15.527Z",
     "simplify:51688509-798b-484e-8d59-41c1cc58375c": "2026-05-09T15:28:15.527Z",
     "simplify:5a584c30-3ce0-47db-9704-8a23896e8742": "2026-05-09T15:28:15.527Z",
     "simplify:bdb6ec7d-cf78-4e4b-85d7-035ee08f1221": "2026-05-09T15:28:15.527Z",
@@ -3043,7 +3042,6 @@
     "simplify:f11a31a6-cfa0-4524-81b9-15e3ed97acaf": "2026-05-11T23:38:25.770Z",
     "simplify:b79f161e-89b5-4a62-bdab-e10e9118ca07": "2026-05-11T23:38:25.770Z",
     "simplify:b545f882-0812-48eb-b468-4550581dc0c8": "2026-05-11T23:38:25.770Z",
-    "simplify:1e6976c4-48c8-4399-a9c4-5d72f7f93002": "2026-05-11T23:38:25.770Z",
     "simplify:04cd6e3a-58cb-4231-b6e7-65b850c86cb2": "2026-05-11T23:38:25.770Z",
     "simplify:f9fb2c4a-ccc9-4759-84d6-f435f67e7ed3": "2026-05-11T23:38:25.770Z",
     "simplify:756524a0-eb1e-46c9-b462-484c9923268a": "2026-05-11T23:38:25.770Z",
@@ -3225,14 +3223,6 @@
       "title": "Hardware Machine Learning PhD Research Internship",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4829785101",
       "location": "Chicago, United States",
-      "department": "",
-      "company": "IMC Trading"
-    },
-    {
-      "id": "4629144101",
-      "title": "Software Engineer Intern 2026/27",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4629144101",
-      "location": "Sydney,  Australia",
       "department": "",
       "company": "IMC Trading"
     },
@@ -4069,17 +4059,17 @@
       "company": "Cloudflare"
     },
     {
-      "id": "7582150",
+      "id": "7582169",
       "title": "Security Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
     },
     {
-      "id": "7582169",
+      "id": "7582150",
       "title": "Security Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
@@ -4096,6 +4086,14 @@
       "id": "7733496",
       "title": "Technical Marketing Intern (Summer 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7733496?gh_jid=7733496",
+      "location": "In-Office",
+      "department": "",
+      "company": "Cloudflare"
+    },
+    {
+      "id": "7912382",
+      "title": "Technical Support Engineer Intern (July to December 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7912382?gh_jid=7912382",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
@@ -15989,14 +15987,6 @@
       "company": "Altom Transport"
     },
     {
-      "id": "simplify:02c44496-1cac-4073-915d-3e22c6082cf9",
-      "title": "IT Intern - AI Technology",
-      "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2611209",
-      "location": "Cleveland, OH",
-      "department": "AI/ML/Data",
-      "company": "Sherwin-Williams"
-    },
-    {
       "id": "simplify:51688509-798b-484e-8d59-41c1cc58375c",
       "title": "Student Data Analyst Intern",
       "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Data-Analyst--Fall-2026-_JR00122874",
@@ -17211,14 +17201,6 @@
       "location": "LA",
       "department": "Hardware",
       "company": "Apex"
-    },
-    {
-      "id": "simplify:1e6976c4-48c8-4399-a9c4-5d72f7f93002",
-      "title": "Electrical Engineer Intern - Asic/FPGA",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical--ASIC-FPGA--Engineering-Intern--Summer-2026--Onsite-_01844438",
-      "location": "Cedar Rapids, IA",
-      "department": "Hardware",
-      "company": "RTX"
     },
     {
       "id": "simplify:04cd6e3a-58cb-4231-b6e7-65b850c86cb2",

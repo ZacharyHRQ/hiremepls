@@ -1,6 +1,6 @@
 # Open Internships
 
-**3094** internships across **63/63** companies — last updated 2026-05-13.
+**3092** internships across **63/63** companies — last updated 2026-05-13.
 
 ## Companies
 
@@ -242,7 +242,7 @@
 - [Clarity Partners](#clarity-partners) (1)
 - [Clerkie](#clerkie) (1)
 - [Clever](#clever) (1)
-- [Cloudflare](#cloudflare) (39)
+- [Cloudflare](#cloudflare) (40)
 - [Cloudforce](#cloudforce) (2)
 - [Cloudglue - YC](#cloudglue-yc) (1)
 - [CME Group](#cme-group) (4)
@@ -527,7 +527,7 @@
 - [iHeartMedia](#iheartmedia) (1)
 - [Illumio](#illumio) (4)
 - [IMC](#imc) (4)
-- [IMC Trading](#imc-trading) (11)
+- [IMC Trading](#imc-trading) (10)
 - [Imerys](#imerys) (1)
 - [Impel](#impel) (1)
 - [Impulse Space](#impulse-space) (2)
@@ -858,7 +858,7 @@
 - [Root Access](#root-access) (1)
 - [Royal Bank of Canada](#royal-bank-of-canada) (39)
 - [RTW Investments](#rtw-investments) (1)
-- [RTX](#rtx) (9)
+- [RTX](#rtx) (8)
 - [Rundoo](#rundoo) (1)
 - [S&P Global](#s-p-global) (1)
 - [S&P Global ](#s-p-global) (1)
@@ -899,7 +899,6 @@
 - [SF Giants](#sf-giants) (1)
 - [Sharecare](#sharecare) (3)
 - [SharkNinja](#sharkninja) (5)
-- [Sherwin-Williams](#sherwin-williams) (1)
 - [Shield AI](#shield-ai) (1)
 - [Shopify](#shopify) (1)
 - [Shure](#shure) (5)
@@ -2950,6 +2949,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Technical Support Engineer Intern (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7912382?gh_jid=7912382) | In-Office | — | 2026-05-13 |
 | [Network Engineering Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7917883?gh_jid=7917883) | In-Office | — | 2026-05-13 |
 | [Sales Project Manager Summer Intern - 3 months](https://boards.greenhouse.io/cloudflare/jobs/7899062?gh_jid=7899062) | In-Office | — | 2026-05-11 |
 | [Data Analytics Intern - Summer 2026](https://boards.greenhouse.io/cloudflare/jobs/7668989) | Austin, TX | AI/ML/Data | 2026-05-09 |
@@ -2982,8 +2982,8 @@
 | [Revenue Operations Intern - Enablement (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7761397?gh_jid=7761397) | In-Office | — | 2026-05-06 |
 | [Sales Project Manager Intern (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7773799?gh_jid=7773799) | In-Office | — | 2026-05-06 |
 | [Sales: Solutions Engineer - Intern (Summer & Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7792962?gh_jid=7792962) | In-Office | — | 2026-05-06 |
-| [Security Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150) | In-Office | — | 2026-05-06 |
 | [Security Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169) | In-Office | — | 2026-05-06 |
+| [Security Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150) | In-Office | — | 2026-05-06 |
 | [Solutions Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7738800?gh_jid=7738800) | In-Office | — | 2026-05-06 |
 | [Technical Marketing Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7733496?gh_jid=7733496) | In-Office | — | 2026-05-06 |
 | [Technical Support Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879) | In-Office | — | 2026-05-06 |
@@ -4999,7 +4999,6 @@
 | [Graduate Trading Operations Specialist](https://job-boards.eu.greenhouse.io/imc/jobs/4608591101) | Chicago, United States | — | 2026-05-06 |
 | [Hardware Engineer Intern 2026/27](https://job-boards.eu.greenhouse.io/imc/jobs/4742629101) | Sydney,  Australia | — | 2026-05-06 |
 | [Hardware Machine Learning PhD Research Internship](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | Chicago, United States | — | 2026-05-06 |
-| [Software Engineer Intern 2026/27](https://job-boards.eu.greenhouse.io/imc/jobs/4629144101) | Sydney,  Australia | — | 2026-05-06 |
 
 ## Imerys
 
@@ -7612,7 +7611,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Electrical Engineer Intern - Asic/FPGA](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical--ASIC-FPGA--Engineering-Intern--Summer-2026--Onsite-_01844438) | Cedar Rapids, IA | Hardware | 2026-05-11 |
 | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/XMLNAME-01794310-Software-Engineering-Intern--Summer-2026-_01844105) | Cedar Rapids, IA | Hardware | 2026-05-11 |
 | [Stage – Projet d’évolution de l’IA / Internship - Multiple Teams](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Analytique-avance--projet-d-volution-de-l-IA---Internship---Fall-2026---Advanced-Analytics--AI-Evolution-Project_01838085) | Longueuil, QC, Canada | AI/ML/Data | 2026-05-09 |
 | [Intern - Digital Service for Engines - Ground Systems Engineer](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-AY--1000-Blvd-Marie-Victorin--AY-BLDG/Stage-Automne-2026---Service-numrique-pour-les-moteurs--Ingnieur-systme-sol---Internship-Fall-2026---Digital-Service-for-Engines--Ground-Systems-Engineer_01842324) | Longueuil, QC, Canada | AI/ML/Data | 2026-05-09 |
@@ -7901,12 +7899,6 @@
 | [Mobile App Developer Intern](https://careers.sharkninja.com/job/-/-/47204/86214487568) | Needham, MA | — | 2026-05-09 |
 | [Software Engineering Intern](https://careers.sharkninja.com/job/-/-/47204/86214487840) | Madison, TN | — | 2026-05-09 |
 | [Strategic Sales & Analytics Intern](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4670586006) | Needham, MA | AI/ML/Data | 2026-05-09 |
-
-## Sherwin-Williams
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [IT Intern - AI Technology](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2611209) | Cleveland, OH | AI/ML/Data | 2026-05-09 |
 
 ## Shield AI
 
