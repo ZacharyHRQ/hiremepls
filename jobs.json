@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-13T01:22:17.700Z",
+  "generatedAt": "2026-05-13T05:02:14.912Z",
   "companyCount": 63,
   "okCount": 63,
-  "jobCount": 3097,
+  "jobCount": 3094,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -640,7 +640,6 @@
     "simplify:3e3f3bd0-c7e5-4b68-8cb9-6020b3bc0b4a": "2026-05-09T15:28:15.527Z",
     "simplify:54301968-0df6-4cd8-9c4e-8d6ca9be1427": "2026-05-09T15:28:15.527Z",
     "simplify:2a8737a9-ddd8-42c3-b9b8-4e921c66f3db": "2026-05-09T15:28:15.527Z",
-    "simplify:2e947349-323e-4e5a-af34-b79087418d65": "2026-05-09T15:28:15.527Z",
     "simplify:a07c63b9-4897-47fe-89b2-3dbd74199d97": "2026-05-09T15:28:15.527Z",
     "simplify:0e344935-7c28-4072-9ca7-87b408392e6e": "2026-05-09T15:28:15.527Z",
     "simplify:75cb2835-1b78-43fd-aef2-46f4509d86ca": "2026-05-09T15:28:15.527Z",
@@ -1571,7 +1570,6 @@
     "simplify:8bb432fa-21f1-4d2a-a11c-46955f58d383": "2026-05-09T15:28:15.527Z",
     "simplify:10b8ba9b-4b53-4c9d-ac43-9343422d6e2d": "2026-05-09T15:28:15.527Z",
     "simplify:d4103279-9c02-416a-8d30-0208b8195dc8": "2026-05-09T15:28:15.527Z",
-    "simplify:8a34f955-2313-4df0-923f-ec8d72a3d4ee": "2026-05-09T15:28:15.527Z",
     "simplify:6a41eebd-e398-4006-bd7a-3fe565c1fdfa": "2026-05-09T15:28:15.527Z",
     "simplify:ae4d3bd9-5a65-4f41-95ce-fe3e9c0f80ea": "2026-05-09T15:28:15.527Z",
     "simplify:89462b96-c069-4bf8-bbd8-f055f9d5eeab": "2026-05-09T15:28:15.527Z",
@@ -2948,7 +2946,6 @@
     "simplify:87e1f406-2b57-4d98-9b4f-2b0c197085e3": "2026-05-09T18:04:29.781Z",
     "simplify:d027f016-0c6d-4196-aec9-0e959d41da6b": "2026-05-09T18:04:29.781Z",
     "simplify:f354f30b-fb00-4fd5-b41d-93958a339309": "2026-05-09T19:20:31.296Z",
-    "simplify:9e167e5f-41d4-43bf-ab28-7c15f77b3f0c": "2026-05-09T19:20:31.296Z",
     "simplify:a83343f6-f74b-4f1e-98aa-d1e1b1c3b039": "2026-05-09T19:20:31.296Z",
     "simplify:e1a136c3-4711-4a47-95f3-8ecca8e01f58": "2026-05-09T19:20:31.296Z",
     "simplify:72d887d5-c0fa-4b46-a38a-c904c7046a9c": "2026-05-09T19:20:31.296Z",
@@ -3688,14 +3685,6 @@
       "company": "Replit"
     },
     {
-      "id": "7544547",
-      "title": "Operations Associate, New Grad (Mexico)",
-      "url": "https://stripe.com/jobs/search?gh_jid=7544547",
-      "location": "Mexico City, Mexico",
-      "department": "",
-      "company": "Stripe"
-    },
-    {
       "id": "7913505",
       "title": "Operations Associate, New Grad (Mexico)",
       "url": "https://stripe.com/jobs/search?gh_jid=7913505",
@@ -3704,10 +3693,10 @@
       "company": "Stripe"
     },
     {
-      "id": "7285974",
-      "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "id": "7544547",
+      "title": "Operations Associate, New Grad (Mexico)",
+      "url": "https://stripe.com/jobs/search?gh_jid=7544547",
+      "location": "Mexico City, Mexico",
       "department": "",
       "company": "Stripe"
     },
@@ -3716,6 +3705,14 @@
       "title": "PhD Data Scientist, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=7874965",
       "location": "San Francisco, New York City, Seattle, Chicago",
+      "department": "",
+      "company": "Stripe"
+    },
+    {
+      "id": "7285974",
+      "title": "PhD Data Scientist, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe"
     },
@@ -4270,14 +4267,6 @@
       "location": "Atlanta, GA",
       "department": "Data Science, AI & Machine Learning",
       "company": "Falcomm"
-    },
-    {
-      "id": "simplify:70ecddf1-c1e3-4dbf-ae3f-822bf987727a",
-      "title": "Machine Learning Engineer Intern - BS/MS",
-      "url": "https://lifeattiktok.com/search/7547370946877901063",
-      "location": "San Jose, CA",
-      "department": "AI/ML/Data",
-      "company": "TikTok"
     },
     {
       "id": "simplify:e2e48bac-63bc-4318-9576-1e112d693b8d",
@@ -5526,14 +5515,6 @@
       "location": "Des Moines, IA",
       "department": "AI/ML/Data",
       "company": "Berkshire Hathaway Energy"
-    },
-    {
-      "id": "simplify:9e167e5f-41d4-43bf-ab28-7c15f77b3f0c",
-      "title": "Software Engineering Intern - Cash",
-      "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineering-Intern--Cash-_JR103863",
-      "location": "Austin, TX",
-      "department": "Software",
-      "company": "Apex Fintech Solutions"
     },
     {
       "id": "simplify:b0417830-1c04-4f1c-9ccc-d11260782322",
@@ -8414,14 +8395,6 @@
       "location": "Toronto, ON, Canada",
       "department": "AI/ML/Data",
       "company": "Cresta"
-    },
-    {
-      "id": "simplify:2e947349-323e-4e5a-af34-b79087418d65",
-      "title": "PD Intern",
-      "url": "https://jobs.ashbyhq.com/Etched/bd8c5768-7efa-4a18-9e56-485ccaf4ec77/application",
-      "location": "San Jose, CA",
-      "department": "Hardware",
-      "company": "Etched"
     },
     {
       "id": "simplify:a07c63b9-4897-47fe-89b2-3dbd74199d97",
@@ -16896,14 +16869,6 @@
       "company": "Fenwick & West"
     },
     {
-      "id": "simplify:8a34f955-2313-4df0-923f-ec8d72a3d4ee",
-      "title": "Destructive Physical Analysis Intern - Destructive Physical Analysis",
-      "url": "https://jobs.smartrecruiters.com/Eurofins/744000125417307",
-      "location": "Irvine, CA",
-      "department": "Hardware",
-      "company": "Eurofins"
-    },
-    {
       "id": "simplify:6a41eebd-e398-4006-bd7a-3fe565c1fdfa",
       "title": "Film Technology AR/VR Intern",
       "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000125422009",
@@ -17558,6 +17523,14 @@
       "location": "Remote in USA",
       "department": "AI/ML/Data",
       "company": "Pindrop"
+    },
+    {
+      "id": "simplify:70ecddf1-c1e3-4dbf-ae3f-822bf987727a",
+      "title": "Machine Learning Engineer Intern - Usds - 2026 Summer",
+      "url": "https://lifeattiktok.com/search/7547370946877901063",
+      "location": "San Jose, CA",
+      "department": "AI/ML/Data",
+      "company": "TikTok"
     },
     {
       "id": "vansh:d2c404c8-5895-4ec0-95c2-3d17aed38beb",

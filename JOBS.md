@@ -1,6 +1,6 @@
 # Open Internships
 
-**3097** internships across **63/63** companies — last updated 2026-05-13.
+**3094** internships across **63/63** companies — last updated 2026-05-13.
 
 ## Companies
 
@@ -72,7 +72,7 @@
 - [AnySignal](#anysignal) (2)
 - [Apex](#apex) (2)
 - [APEX Analytix](#apex-analytix) (4)
-- [Apex Fintech Solutions](#apex-fintech-solutions) (7)
+- [Apex Fintech Solutions](#apex-fintech-solutions) (6)
 - [Apex Technology, Inc.](#apex-technology-inc) (1)
 - [Apollo Global](#apollo-global) (1)
 - [Appian](#appian) (6)
@@ -376,14 +376,14 @@
 - [Equinix](#equinix) (1)
 - [EquipmentShare](#equipmentshare) (4)
 - [Ericsson](#ericsson) (2)
-- [Etched](#etched) (5)
+- [Etched](#etched) (4)
 - [ETCHED](#etched) (1)
 - [Etched.ai](#etched-ai) (6)
 - [ether.fi](#ether-fi) (1)
 - [Ether.fi](#ether-fi) (1)
 - [ETHGlobal](#ethglobal) (1)
 - [Eulerity](#eulerity) (4)
-- [Eurofins](#eurofins) (3)
+- [Eurofins](#eurofins) (2)
 - [Eventual](#eventual) (1)
 - [Everest (F25)](#everest-f25) (1)
 - [Eversource Energy](#eversource-energy) (1)
@@ -1661,7 +1661,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Software Engineering Intern - Cash](https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineering-Intern--Cash-_JR103863) | Austin, TX | Software | 2026-05-09 |
 | [Front End Engineering Intern](https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Chicago-IL/Front-End-Engineering-Intern_JR103860) | Chicago, IL / Austin, TX | — | 2026-05-09 |
 | [Software Engineering Intern](https://careers.peak6.com/jobs/business-operation-services/austin-texas-united-states-of-america/software-engineering-intern/JR103564) | Austin, TX | — | 2026-05-09 |
 | [Software Engineering Intern](https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineering-Intern--Cash-_JR103863) | Austin, TX | — | 2026-05-09 |
@@ -3907,7 +3906,6 @@
 | [Core SWE Intern](https://jobs.ashbyhq.com/Etched/47e6dec8-2ca6-4359-8cff-0b91bcbf48ea) | San Jose, CA | — | 2026-05-09 |
 | [DFT Intern](https://jobs.ashbyhq.com/Etched/5f1f5739-3b58-467c-b351-ff183c94d96d/application) | San Jose, CA | Hardware | 2026-05-09 |
 | [Electrical Platform Intern](https://jobs.ashbyhq.com/Etched/904ddf46-55fc-4a8f-8b49-f32cfe88116a/application) | San Jose, CA | Hardware | 2026-05-09 |
-| [PD Intern](https://jobs.ashbyhq.com/Etched/bd8c5768-7efa-4a18-9e56-485ccaf4ec77/application) | San Jose, CA | Hardware | 2026-05-09 |
 | [RTL Intern](https://jobs.ashbyhq.com/Etched/157ed4f4-6e3b-4ec9-b93f-3e363e92041e/application) | San Jose, CA | Hardware | 2026-05-09 |
 
 ## ETCHED
@@ -3958,7 +3956,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Destructive Physical Analysis Intern - Destructive Physical Analysis](https://jobs.smartrecruiters.com/Eurofins/744000125417307) | Irvine, CA | Hardware | 2026-05-09 |
 | [Engineering Intern - Test Engineer](https://jobs.smartrecruiters.com/Eurofins/744000102591529) | Santa Clara, CA | Hardware | 2026-05-09 |
 | [Intern](https://jobs.smartrecruiters.com/Eurofins/744000102593098) | Hayward, CA | Hardware | 2026-05-09 |
 
@@ -8403,8 +8400,8 @@
 | [PhD Machine Learning Engineer Intern](https://stripe.com/jobs/search?gh_jid=7216664) | Seattle, WA / SF / NYC | AI/ML/Data | 2026-05-09 |
 | [Software Engineer Intern](https://stripe.com/jobs/listing/software-engineer-intern-summer-and-winter/7210115) | South San Francisco, CA / Seattle, WA / New York, NY | — | 2026-05-09 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | Mexico City, Mexico | — | 2026-05-06 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7216664) | San Francisco, New York City, Seattle | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | Singapore | — | 2026-05-06 |
@@ -8986,7 +8983,6 @@
 | [Machine Learning Engineer Intern - 3D graphics](https://lifeattiktok.com/search/7532735339883710728) | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Machine Learning Engineer Intern - Ads Measurement Signal and Privacy - BS/MS](https://lifeattiktok.com/search/7595307123552028981) | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Machine Learning Engineer Intern - App Ads](https://lifeattiktok.com/search/7623166673809770757) | San Jose, CA | AI/ML/Data | 2026-05-09 |
-| [Machine Learning Engineer Intern - BS/MS](https://lifeattiktok.com/search/7547370946877901063) | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Machine Learning Engineer Intern - Commerce Ads - 2026 Summer](https://lifeattiktok.com/search/7595346361319491893) | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Machine Learning Engineer Intern - Data-Search-Tiktok Recommendation Team](https://lifeattiktok.com/search/7535234137146444040) | Seattle, WA | AI/ML/Data | 2026-05-09 |
 | [Machine Learning Engineer Intern - Data-Search-Tiktok Recommendation Team](https://lifeattiktok.com/search/7534851658053830930) | San Jose, CA | AI/ML/Data | 2026-05-09 |
@@ -9005,6 +9001,7 @@
 | [Machine Learning Engineer Intern - Tiktok Search Team - 2026 Summer](https://lifeattiktok.com/search/7534852684386617618) | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Machine Learning Engineer Intern - Trust and Safety - CV/NLP/Multimodal LLM](https://lifeattiktok.com/search/7527589557336869138) | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Machine Learning Engineer Intern - Trust and Safety - CV/NLP/Multimodal LLM](https://lifeattiktok.com/search/7527589875165563143) | Seattle, WA | AI/ML/Data | 2026-05-09 |
+| [Machine Learning Engineer Intern - Usds - 2026 Summer](https://lifeattiktok.com/search/7547370946877901063) | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Machine Learning Engineer Intern, TikTok-Recommendation](https://lifeattiktok.com/search/7525635858708646152?spread=XKM9ZXE) | Seattle, WA | — | 2026-05-09 |
 | [Machine Learning Engineer Intern, TikTok-Recommendation](https://lifeattiktok.com/search/7527065936093858055) | San Jose, CA | — | 2026-05-09 |
 | [Machine Learning Engineer Intern, TikTok-Recommendation](https://lifeattiktok.com/search/7527077153591675154) | Seattle, WA | — | 2026-05-09 |
