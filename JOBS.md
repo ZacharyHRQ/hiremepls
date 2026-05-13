@@ -1,6 +1,6 @@
 # Open Internships
 
-**2951** internships across **63/63** companies — last updated 2026-05-13.
+**2947** internships across **63/63** companies — last updated 2026-05-13.
 
 ## Companies
 
@@ -505,7 +505,6 @@
 - [IDeaS](#ideas) (1)
 - [IDEX](#idex) (2)
 - [IEM](#iem) (2)
-- [IFS](#ifs) (1)
 - [iHeartMedia](#iheartmedia) (1)
 - [Illumio](#illumio) (4)
 - [IMC](#imc) (4)
@@ -841,7 +840,7 @@
 - [SAS](#sas) (2)
 - [Savannah River National Laboratory](#savannah-river-national-laboratory) (1)
 - [Saviynt LABS](#saviynt-labs) (1)
-- [Scale AI](#scale-ai) (6)
+- [Scale AI](#scale-ai) (5)
 - [Scale.ai](#scale-ai) (1)
 - [SCAN](#scan) (2)
 - [ScentAir](#scentair) (1)
@@ -1068,7 +1067,7 @@
 - [Vulcan Materials](#vulcan-materials) (1)
 - [W.R. Berkley](#w-r-berkley) (6)
 - [Waabi](#waabi) (1)
-- [Wabtec](#wabtec) (3)
+- [Wabtec](#wabtec) (1)
 - [Walrus](#walrus) (1)
 - [Walt Disney Imagineering](#walt-disney-imagineering) (1)
 - [Wardstone](#wardstone) (1)
@@ -2864,8 +2863,8 @@
 | [Revenue Operations Intern - Enablement (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7761397?gh_jid=7761397) | In-Office | — | 2026-05-06 |
 | [Sales Project Manager Intern (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7773799?gh_jid=7773799) | In-Office | — | 2026-05-06 |
 | [Sales: Solutions Engineer - Intern (Summer & Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7792962?gh_jid=7792962) | In-Office | — | 2026-05-06 |
-| [Security Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150) | In-Office | — | 2026-05-06 |
 | [Security Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169) | In-Office | — | 2026-05-06 |
+| [Security Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150) | In-Office | — | 2026-05-06 |
 | [Technical Marketing Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7733496?gh_jid=7733496) | In-Office | — | 2026-05-06 |
 | [Technical Support Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879) | In-Office | — | 2026-05-06 |
 | [Threat Detection and Incident Response Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7577205?gh_jid=7577205) | In-Office | — | 2026-05-06 |
@@ -4772,12 +4771,6 @@
 | [Application Engineering Tools & Resource Catalog Intern](https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4231416009) | Franklin, TN | Software | 2026-05-09 |
 | [Productivity Data & Industrial Events Intern](https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4231433009) | Franklin, TN | AI/ML/Data | 2026-05-09 |
 
-## IFS
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [AI Intern - IFS ERP & Cloud Platform](https://jobs.smartrecruiters.com/IFS1/744000121437472) | Elk Grove Village, IL | AI/ML/Data | 2026-05-09 |
-
 ## iHeartMedia
 
 | Title | Location | Department | First seen |
@@ -4810,8 +4803,8 @@
 | [Graduate Broker Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4608590101) | Chicago, United States | — | 2026-05-06 |
 | [Graduate Floor Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4786701101) | Chicago, United States; Miami, United States; New York, United States; Philadelphia, United States; San Francisco, United States | — | 2026-05-06 |
 | [Graduate Site Reliability Engineer, 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4540358101) | Sydney,  Australia | — | 2026-05-06 |
-| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
+| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Graduate Trader (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564495101) | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Graduate Trading Operations Specialist](https://job-boards.eu.greenhouse.io/imc/jobs/4608591101) | Chicago, United States | — | 2026-05-06 |
 | [Hardware Engineer Intern 2026/27](https://job-boards.eu.greenhouse.io/imc/jobs/4742629101) | Sydney,  Australia | — | 2026-05-06 |
@@ -7423,7 +7416,6 @@
 | [AI Deployment Strategist Intern](https://job-boards.greenhouse.io/scaleai/jobs/4677519005) | Seattle, WA / SF / NYC | AI/ML/Data | 2026-05-09 |
 | [Technical Advisor Intern - GenAI](https://job-boards.greenhouse.io/scaleai/jobs/4611533005) | SF | AI/ML/Data | 2026-05-09 |
 | [Technical Advisor Intern, GenAI](https://scale.com/careers/4611533005) | San Francisco, CA | — | 2026-05-09 |
-| [AI Deployment Strategist Intern](https://job-boards.greenhouse.io/scaleai/jobs/4677519005) | New York, NY | — | 2026-05-06 |
 | [Software Engineer - New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4605996005) | San Francisco, CA | — | 2026-05-06 |
 | [Technical Advisor Specialist (Part-Time Internship)](https://job-boards.greenhouse.io/scaleai/jobs/4611533005) | San Francisco, CA | — | 2026-05-06 |
 
@@ -8046,8 +8038,8 @@
 | [PhD Machine Learning Engineer Intern](https://stripe.com/jobs/search?gh_jid=7216664) | Seattle, WA / SF / NYC | AI/ML/Data | 2026-05-09 |
 | [Software Engineer Intern](https://stripe.com/jobs/listing/software-engineer-intern-summer-and-winter/7210115) | South San Francisco, CA / Seattle, WA / New York, NY | — | 2026-05-09 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | Mexico City, Mexico | — | 2026-05-06 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | Toronto, Ontario, Canada | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7216664) | San Francisco, New York City, Seattle | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | Singapore | — | 2026-05-06 |
@@ -9308,8 +9300,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Mechatronics Engineer Intern](https://jobs.smartrecruiters.com/Wabtec/3743990013068286) | London, ON, Canada | Hardware | 2026-05-11 |
-| [Digital Intern](https://jobs.smartrecruiters.com/Wabtec/3743990010828806) | Germantown, MD / Villanova, PA / Melbourne, FL / Fort Worth, TX / Norcross, GA / Jacksonville, FL / Erie, PA / Cedar Rapids, IA / Grove City, PA | Hardware | 2026-05-09 |
-| [Engineering Intern](https://jobs.smartrecruiters.com/Wabtec/3743990010925526) | Erie, PA / Grove City, PA | Hardware | 2026-05-09 |
 
 ## Walrus
 
