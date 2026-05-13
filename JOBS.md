@@ -1,6 +1,6 @@
 # Open Internships
 
-**3109** internships across **63/63** companies — last updated 2026-05-12.
+**3097** internships across **63/63** companies — last updated 2026-05-13.
 
 ## Companies
 
@@ -19,7 +19,7 @@
 - [ACI Worldwide ](#aci-worldwide) (3)
 - [Actian](#actian) (3)
 - [Activision Blizzard](#activision-blizzard) (2)
-- [Adobe](#adobe) (14)
+- [Adobe](#adobe) (13)
 - [ADT](#adt) (2)
 - [Adtheorant](#adtheorant) (2)
 - [Advanced Energy](#advanced-energy) (1)
@@ -34,8 +34,7 @@
 - [AIG](#aig) (1)
 - [AION ROBOTICS CORPORATION](#aion-robotics-corporation) (1)
 - [Airbnb](#airbnb) (2)
-- [Airbus](#airbus) (1)
-- [AirCapture](#aircapture) (2)
+- [AirCapture](#aircapture) (1)
 - [Akuna Capital](#akuna-capital) (4)
 - [Al Warren Oil Company](#al-warren-oil-company) (4)
 - [Alcon](#alcon) (1)
@@ -106,7 +105,7 @@
 - [ASSA ABLOY](#assa-abloy) (3)
 - [AssetMark](#assetmark) (2)
 - [Astera Labs](#astera-labs) (1)
-- [Astranis](#astranis) (6)
+- [Astranis](#astranis) (5)
 - [Astronautics](#astronautics) (1)
 - [Athelas](#athelas) (1)
 - [Atlantic Health System](#atlantic-health-system) (2)
@@ -243,7 +242,7 @@
 - [Clarity Partners](#clarity-partners) (1)
 - [Clerkie](#clerkie) (1)
 - [Clever](#clever) (1)
-- [Cloudflare](#cloudflare) (38)
+- [Cloudflare](#cloudflare) (39)
 - [Cloudforce](#cloudforce) (2)
 - [Cloudglue - YC](#cloudglue-yc) (1)
 - [CME Group](#cme-group) (4)
@@ -406,7 +405,7 @@
 - [Federal Express Corporation](#federal-express-corporation) (1)
 - [Fenwick & West](#fenwick-west) (2)
 - [Fiber](#fiber) (1)
-- [Figure](#figure) (5)
+- [Figure](#figure) (3)
 - [Fintech](#fintech) (1)
 - [Firefly Aerospace](#firefly-aerospace) (1)
 - [Firemon](#firemon) (1)
@@ -531,7 +530,6 @@
 - [IMC Trading](#imc-trading) (11)
 - [Imerys](#imerys) (1)
 - [Impel](#impel) (1)
-- [Impiricus](#impiricus) (1)
 - [Impulse Space](#impulse-space) (2)
 - [Infojini](#infojini) (1)
 - [Inizio](#inizio) (1)
@@ -733,7 +731,6 @@
 - [OCC](#occ) (1)
 - [Octaura](#octaura) (2)
 - [Oklahoma City Thunder](#oklahoma-city-thunder) (1)
-- [Okta](#okta) (1)
 - [Omnis](#omnis) (1)
 - [OmniSource](#omnisource) (1)
 - [On the Go](#on-the-go) (1)
@@ -901,7 +898,7 @@
 - [Sezzle](#sezzle) (1)
 - [SF Giants](#sf-giants) (1)
 - [Sharecare](#sharecare) (3)
-- [SharkNinja](#sharkninja) (6)
+- [SharkNinja](#sharkninja) (5)
 - [Sherwin-Williams](#sherwin-williams) (1)
 - [Shield AI](#shield-ai) (1)
 - [Shopify](#shopify) (1)
@@ -1010,7 +1007,6 @@
 - [Texas Farm Bureau Casualty Insurance Company](#texas-farm-bureau-casualty-insurance-company) (1)
 - [Texas Instruments](#texas-instruments) (3)
 - [Thales](#thales) (3)
-- [The Aerospace Corporation](#the-aerospace-corporation) (1)
 - [The Boeing Company](#the-boeing-company) (1)
 - [The Clorox Company](#the-clorox-company) (1)
 - [The Exploration Company](#the-exploration-company) (2)
@@ -1052,7 +1048,7 @@
 - [Trimble](#trimble) (3)
 - [TripleRing](#triplering) (2)
 - [Triumph](#triumph) (1)
-- [True Anomaly](#true-anomaly) (2)
+- [True Anomaly](#true-anomaly) (1)
 - [True Manufacturing](#true-manufacturing) (1)
 - [Trumid](#trumid) (2)
 - [Truveta](#truveta) (1)
@@ -1084,7 +1080,7 @@
 - [Urban Science](#urban-science) (1)
 - [Vanguard](#vanguard) (1)
 - [Vantage ](#vantage) (1)
-- [Varda Space](#varda-space) (3)
+- [Varda Space](#varda-space) (2)
 - [Varex Imaging Corporation](#varex-imaging-corporation) (1)
 - [Veeam Software](#veeam-software) (4)
 - [Veeva](#veeva) (1)
@@ -1147,7 +1143,6 @@
 - [X Development](#x-development) (3)
 - [Xantium](#xantium) (1)
 - [Xcel Energy](#xcel-energy) (1)
-- [Xebia](#xebia) (1)
 - [Xometry](#xometry) (4)
 - [XPENG Motors](#xpeng-motors) (3)
 - [Xylem](#xylem) (1)
@@ -1280,7 +1275,6 @@
 | [Machine Learning Engineer Intern, AI/ML](https://careers.adobe.com/us/en/job/ADOBUSR158493EXTERNALENUS/2026-AI-ML-Intern-Machine-Learning-Engineer) | San Jose, CA / Waltham, MA / Austin, TX / San Francisco, CA / Lehi, UT / Seattle, WA / New York, NY | — | 2026-05-09 |
 | [MBA Intern - Product Management](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2026-MBA-Intern---Product-Manager_R160316) | SF / San Jose, CA | Product | 2026-05-09 |
 | [People Data Scientist Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---People-Data-Scientist_R161486) | San Francisco, CA / San Jose, CA | — | 2026-05-09 |
-| [Software Development Engineer Intern - Software Development Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2026-Intern---Software-Development-Engineer_R160430) | SF | Software | 2026-05-09 |
 | [Software Engineer Intern](https://careers.adobe.com/us/en/job/R158531/2026-Intern-Software-Engineer) | San Jose, CA / Austin, TX / San Francisco, CA / Lehi, UT / Seattle, WA / New York, NY | — | 2026-05-09 |
 
 ## ADT
@@ -1375,17 +1369,10 @@
 | [Data Science Intern](https://careers.airbnb.com/positions/7839237?gh_jid=7839237) | Remote in USA | AI/ML/Data | 2026-05-09 |
 | [Software Engineering Intern](https://careers.airbnb.com/positions/7453837/) | Remote | — | 2026-05-09 |
 
-## Airbus
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Operations Analyst Intern - Operations Analyst](https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/Long-Term-Internship---Operations-Analyst_JR10411961) | Wichita, KS | AI/ML/Data | 2026-05-09 |
-
 ## AirCapture
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Climate Policy & Carbon Markets Intern](https://job-boards.greenhouse.io/aircapture/jobs/4678154006) | Berkeley, CA | Quant | 2026-05-09 |
 | [Materials Characterization Intern - Microwave Systems](https://job-boards.greenhouse.io/aircapture/jobs/4677774006) | Berkeley, CA | AI/ML/Data | 2026-05-09 |
 
 ## Akuna Capital
@@ -1926,7 +1913,6 @@
 | --- | --- | --- | --- |
 | [Embedded Software Developer – Network/Payload Software Intern](https://job-boards.greenhouse.io/astranis/jobs/4601135006) | SF | Hardware | 2026-05-11 |
 | [Flight Software Intern](https://job-boards.greenhouse.io/astranis/jobs/4619283006) | SF | Hardware | 2026-05-09 |
-| [Intern Backend Engineer](https://job-boards.greenhouse.io/astranis/jobs/4648080006) | SF | Software | 2026-05-09 |
 | [Reliability Test Intern](https://job-boards.greenhouse.io/astranis/jobs/4677973006) | SF | Hardware | 2026-05-09 |
 | [Software Defined Radio Hardware Intern - Summer 2026](https://job-boards.greenhouse.io/astranis/jobs/4646558006) | SF | Hardware | 2026-05-09 |
 | [Software Engineer Intern - Data Platform](https://job-boards.greenhouse.io/astranis/jobs/4667477006) | SF | Software | 2026-05-09 |
@@ -2965,6 +2951,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Network Engineering Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7917883?gh_jid=7917883) | In-Office | — | 2026-05-13 |
 | [Sales Project Manager Summer Intern - 3 months](https://boards.greenhouse.io/cloudflare/jobs/7899062?gh_jid=7899062) | In-Office | — | 2026-05-11 |
 | [Data Analytics Intern - Summer 2026](https://boards.greenhouse.io/cloudflare/jobs/7668989) | Austin, TX | AI/ML/Data | 2026-05-09 |
 | [Product Manager Intern - Summer 2026](https://boards.greenhouse.io/cloudflare/jobs/7362113) | Austin, TX | Product | 2026-05-09 |
@@ -4124,8 +4111,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Embedded Software Intern](https://job-boards.greenhouse.io/figureai/jobs/4397706006) | San Jose, CA | Hardware | 2026-05-11 |
-| [Firmware Intern - Summer 2026](https://job-boards.greenhouse.io/figureai/jobs/4618805006) | San Jose, CA | Hardware | 2026-05-11 |
 | [Electrical Interconnect Engineering Intern](https://job-boards.greenhouse.io/figureai/jobs/4676468006) | San Jose, CA | Hardware | 2026-05-09 |
 | [Embedded Software Intern](https://job-boards.greenhouse.io/figureai/jobs/4397706006?jr_id=69e82790e0cd471b2f12fc60) | San Jose, CA | — | 2026-05-09 |
 | [Hardware Reliability Intern - Winter 2026](https://job-boards.greenhouse.io/figureai/jobs/4613067006) | San Jose, CA | Hardware | 2026-05-09 |
@@ -5030,12 +5015,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Software Engineer Intern](https://myjobs.adp.com/impeljobs/cx/job-details?reqId=5001151417706) | Syracuse, NY / New York, NY | — | 2026-05-09 |
-
-## Impiricus
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Intern Data Analytics](https://job-boards.greenhouse.io/impiricus/jobs/5160568008) | NYC | AI/ML/Data | 2026-05-11 |
 
 ## Impulse Space
 
@@ -6653,12 +6632,6 @@
 | --- | --- | --- | --- |
 | [Software Engineer Intern, Basketball Operations](https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=316815&clientkey=8E7F16AD6654E4ED3797EE9F40DB0A48&source=Indeed) | Remote | — | 2026-05-09 |
 
-## Okta
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Digital Success Intern (Summer 2026)](https://www.okta.com/company/careers/opportunity/7791786?gh_jid=7791786) | Bellevue, Washington | — | 2026-05-06 |
-
 ## Omnis
 
 | Title | Location | Department | First seen |
@@ -7926,7 +7899,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Analytics & BI Intern](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4670554006) | Needham, MA | AI/ML/Data | 2026-05-09 |
 | [Applied AI & Analytics Intern](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4669665006) | Miami, FL | AI/ML/Data | 2026-05-09 |
 | [Consumer Insights Intern](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4670561006) | Needham, MA | Product | 2026-05-09 |
 | [Mobile App Developer Intern](https://careers.sharkninja.com/job/-/-/47204/86214487568) | Needham, MA | — | 2026-05-09 |
@@ -8826,12 +8798,6 @@
 | [Product Marketing Intern](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Austin/Product-Marketing-Intern_R0326496-1) | Austin, TX | Product | 2026-05-09 |
 | [Software Engineer Intern](https://thales.wd3.myworkdayjobs.com/en-US/careers/job/Cincinnati/Software-Engineer-Intern_R0325488-1) | Cincinnati, OH | — | 2026-05-09 |
 
-## The Aerospace Corporation
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Data Platforms Engineering Grad Intern](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Data-Platforms-Engineering-Grad-Intern_R014481) | LA / Colorado Springs, CO / Chantilly, VA / El Segundo, CA | AI/ML/Data | 2026-05-09 |
-
 ## The Boeing Company
 
 | Title | Location | Department | First seen |
@@ -9309,7 +9275,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Full Stack Software Engineer Intern](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5131361007) | Denver, CO | Software | 2026-05-11 |
 | [Flight Software Intern](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5047530007) | Long Beach, CA / Denver, CO | Hardware | 2026-05-09 |
 
 ## True Manufacturing
@@ -9514,7 +9479,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Mission Software – Intern - Python](https://job-boards.greenhouse.io/vardaspace/jobs/7676465003) | El Segundo, CA | Software | 2026-05-11 |
 | [Automation & Test Intern](https://job-boards.greenhouse.io/vardaspace/jobs/7663353003) | El Segundo, CA | Hardware | 2026-05-09 |
 | [Mission Operations Intern](https://job-boards.greenhouse.io/vardaspace/jobs/7663358003) | El Segundo, CA | Software | 2026-05-09 |
 
@@ -9953,12 +9917,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [AI Data Scientist Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI-Intern_JR110151-1) | Minneapolis, MN / Denver, CO | AI/ML/Data | 2026-05-11 |
-
-## Xebia
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Internship Program - Multiple Teams](https://job-boards.greenhouse.io/xebiausa/jobs/5988141004) | Atlanta, GA | Software | 2026-05-11 |
 
 ## Xometry
 
