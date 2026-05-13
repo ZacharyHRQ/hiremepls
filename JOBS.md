@@ -1,6 +1,6 @@
 # Open Internships
 
-**2947** internships across **63/63** companies — last updated 2026-05-13.
+**2936** internships across **63/63** companies — last updated 2026-05-13.
 
 ## Companies
 
@@ -424,11 +424,11 @@
 - [Gemini](#gemini) (1)
 - [General Astronautics](#general-astronautics) (1)
 - [General Dynamics](#general-dynamics) (1)
-- [General Dynamics Mission Systems](#general-dynamics-mission-systems) (12)
+- [General Dynamics Mission Systems](#general-dynamics-mission-systems) (11)
 - [General Dynamics Mission Systems, Inc.](#general-dynamics-mission-systems-inc) (6)
 - [General Motors](#general-motors) (1)
 - [General Motors Financial](#general-motors-financial) (2)
-- [Genmab](#genmab) (2)
+- [Genmab](#genmab) (1)
 - [Genuine Parts Company](#genuine-parts-company) (1)
 - [Geotab](#geotab) (14)
 - [GHD](#ghd) (1)
@@ -482,7 +482,7 @@
 - [Highmark Health](#highmark-health) (1)
 - [Hilton](#hilton) (1)
 - [Hitachi](#hitachi) (3)
-- [HNTB](#hntb) (5)
+- [HNTB](#hntb) (3)
 - [Hologic](#hologic) (1)
 - [Home Depot](#home-depot) (1)
 - [Homebase](#homebase) (3)
@@ -540,9 +540,8 @@
 - [IXL Learning](#ixl-learning) (3)
 - [Jack Henry](#jack-henry) (2)
 - [Jade Global](#jade-global) (2)
-- [Jain Global](#jain-global) (2)
+- [Jain Global](#jain-global) (1)
 - [Jane Street](#jane-street) (12)
-- [Jencap](#jencap) (1)
 - [JINGDONG](#jingdong) (3)
 - [John Deere](#john-deere) (1)
 - [Johnson & Johnson](#johnson-johnson) (1)
@@ -889,7 +888,7 @@
 - [Snap](#snap) (1)
 - [Snap-on](#snap-on) (2)
 - [Snorkel AI](#snorkel-ai) (1)
-- [Snowflake](#snowflake) (20)
+- [Snowflake](#snowflake) (17)
 - [Snyk](#snyk) (2)
 - [Société Générale de Surveillance (SGS)](#soci-t-g-n-rale-de-surveillance-sgs) (1)
 - [Socure](#socure) (2)
@@ -1105,7 +1104,7 @@
 - [ZeroEntropy](#zeroentropy) (1)
 - [Zip](#zip) (2)
 - [Zoetis](#zoetis) (1)
-- [Zoox](#zoox) (6)
+- [Zoox](#zoox) (4)
 
 ##  PrizePicks
 
@@ -4178,7 +4177,6 @@
 | --- | --- | --- | --- |
 | [Software Engineer – Intern](https://careers-gdms.icims.com/jobs/72240/job?mobile=true&needsRedirect=false) | Fort Wayne, IN | Software | 2026-05-11 |
 | [Cyber Security Intern](https://careers-gdms.icims.com/jobs/68026/job?mobile=true&needsRedirect=false) | Colorado Springs, CO | — | 2026-05-09 |
-| [Engineering Intern](https://careers-gdms.icims.com/jobs/71307/job?mobile=true&needsRedirect=false) | McKeesport, PA | Hardware | 2026-05-09 |
 | [Intern Engineer Co-op - May 2026 Start](https://careers-gdms.icims.com/jobs/72265/job?mobile=true&needsRedirect=false) | Fort Wayne, IN | Hardware | 2026-05-09 |
 | [Intern Engineer Co-op - May 2026 Start](https://careers-gdms.icims.com/jobs/72244/job?mobile=true&needsRedirect=false) | Fort Wayne, IN | Hardware | 2026-05-09 |
 | [Network Operations Intern](https://careers-gdms.icims.com/jobs/68251/job) | Scottsdale, AZ | — | 2026-05-09 |
@@ -4218,7 +4216,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Programming Intern](https://genmab.wd3.myworkdayjobs.com/Genmab_Careers_Site/job/Princeton/Programming-Intern_R15389) | Princeton, NJ | AI/ML/Data | 2026-05-09 |
-| [Translational Imaging & Multi-Omics Data Science Intern](https://genmab.wd3.myworkdayjobs.com/Genmab_Careers_Site/job/Princeton/Translational-Imaging---Multi-Omics-Data-Science-Intern_R14688-1) | Princeton, NJ | AI/ML/Data | 2026-05-09 |
 
 ## Genuine Parts Company
 
@@ -4609,8 +4606,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Data & AI Intern - No/Low-Code + GenAI](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Kansas-City-MO/Data---AI-Intern--No-Low-Code---GenAI----Summer-2026_R-28913) | Kansas City, MO | AI/ML/Data | 2026-05-09 |
-| [GIS Data Scientist Intern](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Tallahassee-FL/GIS-Data-Scientist-Intern---Summer-2026_R-30017) | Tallahassee, FL | AI/ML/Data | 2026-05-09 |
-| [GIS Data Scientist Intern](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tallahassee-FL/GIS-Data-Scientist-Intern---Summer-2026_R-30017-1) | Tallahassee, FL | AI/ML/Data | 2026-05-09 |
 | [Artificial Intelligence Intern](https://hntb.wd5.myworkdayjobs.com/en-US/hntb_university_careers/job/Arlington-VA-Alexandria/Artificial-Intelligence-Intern---Summer-2026_R-27983-1) | Arlington, VA | Data Science, AI & Machine Learning | 2026-05-09 |
 | [Data & AI Intern - No/Low-Code + GenAI](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Kansas-City-MO/Data---AI-Intern--No-Low-Code---GenAI----Summer-2026_R-28913-2) | Kansas City, MO | AI/ML/Data | 2026-05-09 |
 
@@ -5044,7 +5039,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Quant Research Intern](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/London-Office/Quant-Research-Intern--Summer-2026---London-_JR100353-1) | London, UK | Quant | 2026-05-09 |
-| [Quant Research Intern - Summer 2026 - New York](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-Office/Quant-Research-Intern--Summer-2026---New-York-_JR100314) | NYC | Quant | 2026-05-09 |
 
 ## Jane Street
 
@@ -5062,12 +5056,6 @@
 | [Strategy and Product Intern](https://www.janestreet.com/join-jane-street/position/7828490002/) | New York, NY | — | 2026-05-09 |
 | [Tools and Compilers Research and Development Intern](https://www.janestreet.com/join-jane-street/position/5869205002/) | New York, NY | — | 2026-05-09 |
 | [Trading Desk Operations Engineer Intern, Trading Desk Operations](https://www.janestreet.com/join-jane-street/position/8070509002/) | New York, NY | — | 2026-05-09 |
-
-## Jencap
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [IT Internship - Computer Science](https://job-boards.greenhouse.io/jencapinc/jobs/5100074007) | NYC | Software | 2026-05-09 |
 
 ## JINGDONG
 
@@ -7776,9 +7764,6 @@
 | [Software Engineer Intern, Database Engineering](https://careers.snowflake.com/us/en/job/SNCOUSFA7B56D5F57047479C1775A3DB18737CEXTERNALENUSFD76A37F868D467BA2560B6746B9E961/Software-Engineer-Intern-Database-Engineering-Fall-2026) | Menlo Park, CA | — | 2026-05-09 |
 | [Software Engineer Intern, Infrastructure Automation](https://careers.snowflake.com/us/en/job/SNCOUS72F58A8D2F534905B8F4CE153CF9D32AEXTERNALENUS874E8974AF23491B9720EDDC6E75F1EB/Software-Engineer-Intern-Infrastructure-Automation-Spring-2026) | Menlo Park, CA / Bellevue, WA | — | 2026-05-09 |
 | [Software Engineer Intern, Infrastructure Automation](https://careers.snowflake.com/us/en/job/SNCOUSCC3FB214186D4B439D3F15B47307A231EXTERNALENUSBBDEE8BD443C456FA4F01B363D843310/Software-Engineer-Intern-Infrastructure-Automation-Fall-2026) | Menlo Park, CA / Bellevue, WA | — | 2026-05-09 |
-| [Software Engineer Intern (Core Engineering) - Fall 2026](https://jobs.ashbyhq.com/snowflake/4f34aefa-681b-4aa8-a0ea-28ce56c9f1a5) | — | — | 2026-05-08 |
-| [Software Engineer Intern (Database Engineering) - Fall 2026](https://jobs.ashbyhq.com/snowflake/fd76a37f-868d-467b-a256-0b6746b9e961) | — | — | 2026-05-08 |
-| [Software Engineer Intern (Infrastructure Automation) - Fall 2026](https://jobs.ashbyhq.com/snowflake/bbdee8bd-443c-456f-a4f0-1b363d843310) | — | — | 2026-05-08 |
 | [Software Engineer Intern (Security) - Fall 2026](https://jobs.ashbyhq.com/snowflake/a488959b-6874-4563-acb2-af747c3dc6f7) | — | — | 2026-05-08 |
 | [Data Engineer Intern - Pune (2026)](https://jobs.ashbyhq.com/snowflake/8904ed85-75d6-48cf-b01b-7941677fde4a) | — | — | 2026-05-06 |
 | [Research Intern (AI) - 2026](https://jobs.ashbyhq.com/snowflake/e2412cd5-19dd-44f8-addd-c9ef3c99ff82) | — | — | 2026-05-06 |
@@ -9561,5 +9546,3 @@
 | [Platform Intelligence Intern](https://jobs.lever.co/zoox/22bece12-95a5-4ad7-a4e4-6c43178153d2/apply) | San Mateo, CA | Software | 2026-05-11 |
 | [Mapping Software Intern](https://jobs.lever.co/zoox/f318f39e-c089-4240-b341-ebb021d86b4f/apply) | San Mateo, CA | Software | 2026-05-09 |
 | [PhD Research Intern - Multi-Modal Foundation Encoder for Perception](https://jobs.lever.co/zoox/44721ec7-87ce-4b24-95a1-b949c6d9b17c/apply) | San Mateo, CA | AI/ML/Data | 2026-05-09 |
-| [PhD Research Intern - Physical AI in Perception](https://jobs.lever.co/zoox/aab5dc76-6ee6-419c-90ce-4a852d9fdeec/apply) | San Mateo, CA | AI/ML/Data | 2026-05-09 |
-| [PhD Research Intern - Vision Language Action Models](https://jobs.lever.co/zoox/2a00b538-3c7c-4217-a14b-3e7881f2a8a0/apply) | San Mateo, CA | AI/ML/Data | 2026-05-09 |
