@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-13T21:03:44.114Z",
+  "generatedAt": "2026-05-13T22:37:04.081Z",
   "companyCount": 63,
   "okCount": 63,
-  "jobCount": 2933,
+  "jobCount": 2973,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -150,7 +150,6 @@
     "simplify:e971a3e2-631b-4ad9-ab78-effc38c864ed": "2026-05-09T15:28:15.527Z",
     "simplify:70ecddf1-c1e3-4dbf-ae3f-822bf987727a": "2026-05-09T15:28:15.527Z",
     "simplify:e2e48bac-63bc-4318-9576-1e112d693b8d": "2026-05-09T15:28:15.527Z",
-    "simplify:07034482-de7a-4324-917d-b746e275d734": "2026-05-09T15:28:15.527Z",
     "simplify:44e98270-755f-4d1c-a7a6-51ed8ba35f4e": "2026-05-09T15:28:15.527Z",
     "simplify:8bfbf59e-bf01-4b33-b367-14fa32e8eb12": "2026-05-09T15:28:15.527Z",
     "simplify:ecb42b72-6094-48fe-8619-10c8cace6cc1": "2026-05-09T15:28:15.527Z",
@@ -1347,7 +1346,6 @@
     "simplify:eb78c1c4-0c16-4718-8353-2d7067965c8d": "2026-05-09T15:28:15.527Z",
     "simplify:3a0cdb50-bb11-41e8-981b-de6aae7d4a62": "2026-05-09T15:28:15.527Z",
     "simplify:d8a3beb8-ea2c-4e73-a98c-5d35096ba1f9": "2026-05-09T15:28:15.527Z",
-    "simplify:adf2fbac-8753-47c5-bf29-9bfa01b9c46e": "2026-05-09T15:28:15.527Z",
     "simplify:a4f598b7-9523-41bf-a91b-7ef4589ac1ea": "2026-05-09T15:28:15.527Z",
     "simplify:e25aa658-7954-4df8-a556-bb2f074c53b3": "2026-05-09T15:28:15.527Z",
     "simplify:75bb9185-ed01-4e87-831d-602a3844da21": "2026-05-09T15:28:15.527Z",
@@ -1449,7 +1447,6 @@
     "simplify:fd6aa588-63f5-44d4-9253-72d84365341a": "2026-05-09T15:28:15.527Z",
     "simplify:a318ad18-59e7-49d1-b285-0792165f55c6": "2026-05-09T15:28:15.527Z",
     "simplify:729f884e-638b-4dcb-aac8-3d44f316cac9": "2026-05-09T15:28:15.527Z",
-    "simplify:6528014c-d166-4a7a-b3dd-912daae5921d": "2026-05-09T15:28:15.527Z",
     "simplify:5ce67d7b-3def-4a9e-921a-b25dbba0c016": "2026-05-09T15:28:15.527Z",
     "simplify:faf89cb5-1a53-44d6-acb0-3c1c05a8ac21": "2026-05-09T15:28:15.527Z",
     "simplify:e535b868-9a67-4127-8924-c57a23d1cf4f": "2026-05-09T15:28:15.527Z",
@@ -2936,7 +2933,50 @@
     "simplify:df2258f0-6f57-4fce-a3bd-e35e85a7dc0a": "2026-05-12T15:18:26.429Z",
     "simplify:36ead7f6-c8cd-43ee-ab7f-66e1294880a1": "2026-05-12T15:18:26.429Z",
     "simplify:0e79ef0c-9caf-4c3b-bc58-270866bd69df": "2026-05-12T15:18:26.429Z",
-    "26a0ae52-97a6-4a46-9216-3c382570d89b": "2026-05-12T19:21:29.955Z"
+    "26a0ae52-97a6-4a46-9216-3c382570d89b": "2026-05-12T19:21:29.955Z",
+    "simplify:2fa61ab1-b82d-414b-b8b4-4ac18feb9a17": "2026-05-13T22:37:04.081Z",
+    "simplify:ccfd9e62-9404-43cd-8f5b-2dab27ebf2b1": "2026-05-13T22:37:04.081Z",
+    "simplify:ca5eca0a-9078-4ac7-9951-872de0a08817": "2026-05-13T22:37:04.081Z",
+    "simplify:ea962e62-55ba-4c24-9b40-8d3309719bfa": "2026-05-13T22:37:04.081Z",
+    "simplify:553c3141-cedc-4ce8-ae4d-c4dbfd12ce83": "2026-05-13T22:37:04.081Z",
+    "simplify:2154dbb1-0a02-4ce3-8bc5-6fbe782e9d84": "2026-05-13T22:37:04.081Z",
+    "simplify:f9d972b5-311c-4ef2-a323-51364b4b2440": "2026-05-13T22:37:04.081Z",
+    "simplify:4f0aaffd-abff-4630-885d-6b95b8dbadf4": "2026-05-13T22:37:04.081Z",
+    "simplify:a416f4ea-b204-46a8-8ca9-455912516760": "2026-05-13T22:37:04.081Z",
+    "simplify:eff28cc3-7ade-4574-b78e-11e814c08e83": "2026-05-13T22:37:04.081Z",
+    "simplify:3cf4233b-3b89-4258-991d-1885b771f9e6": "2026-05-13T22:37:04.081Z",
+    "simplify:7d1baa71-b0b6-4e4f-b1ee-19978dd659fa": "2026-05-13T22:37:04.081Z",
+    "simplify:275b40b6-35f1-4ef6-9c1b-741a35b72c1f": "2026-05-13T22:37:04.081Z",
+    "simplify:aba3cf97-4ffd-4dce-876d-ab3305231512": "2026-05-13T22:37:04.081Z",
+    "simplify:d2dcfe14-a4bb-40cf-b495-040de5de1c91": "2026-05-13T22:37:04.081Z",
+    "simplify:ee91612e-1382-4bb4-bcc9-bd4007324dfd": "2026-05-13T22:37:04.081Z",
+    "simplify:6a8df5a7-33c8-43f7-963d-58b6a3254d58": "2026-05-13T22:37:04.081Z",
+    "simplify:b3b6421c-0ccf-4a43-93a7-44fb9242cb5f": "2026-05-13T22:37:04.081Z",
+    "simplify:48b655c4-ecfa-43bf-af3b-a5c0d6ec726f": "2026-05-13T22:37:04.081Z",
+    "simplify:7ad8deb0-8ff6-4080-a865-9f84a2600546": "2026-05-13T22:37:04.081Z",
+    "simplify:817874bc-4775-4ea6-ad0f-216a0bc763fd": "2026-05-13T22:37:04.081Z",
+    "simplify:d9cffbc6-56bb-46cf-8d9a-5a2345d72d8a": "2026-05-13T22:37:04.081Z",
+    "simplify:a1bcdd41-bfd1-4628-9267-bb5345bf61a0": "2026-05-13T22:37:04.081Z",
+    "simplify:f9bd3523-3160-485e-9a7a-8d91620b01d0": "2026-05-13T22:37:04.081Z",
+    "simplify:f682356d-55da-4f90-987d-77f140cc652d": "2026-05-13T22:37:04.081Z",
+    "simplify:6ac7c03f-fa0a-4a73-90e0-86cf65de7d4c": "2026-05-13T22:37:04.081Z",
+    "simplify:66572abf-79bc-4959-81dc-2d51e16c64a4": "2026-05-13T22:37:04.081Z",
+    "simplify:49ea6477-d2a6-4517-b1db-910fa56415d7": "2026-05-13T22:37:04.081Z",
+    "simplify:8eb44b0c-8d8e-4bd2-88d0-51fb9b03511c": "2026-05-13T22:37:04.081Z",
+    "simplify:fe972247-600c-481b-961d-3abad929c277": "2026-05-13T22:37:04.081Z",
+    "simplify:e8c852af-5074-4a34-a258-1771fad8d041": "2026-05-13T22:37:04.081Z",
+    "simplify:575196b0-8a54-4f60-b515-c6a6f828818d": "2026-05-13T22:37:04.081Z",
+    "simplify:148a72b7-bc13-4b01-a17e-84eb6dd9858c": "2026-05-13T22:37:04.081Z",
+    "simplify:224e6611-9cfb-4eef-8107-822517f2d5e4": "2026-05-13T22:37:04.081Z",
+    "simplify:3de7ddd4-4951-42b8-97de-864d68e72fb9": "2026-05-13T22:37:04.081Z",
+    "simplify:5628f91e-9bde-4281-9e4f-af0144726d32": "2026-05-13T22:37:04.081Z",
+    "simplify:25666c3f-59c5-42d5-a68b-58c08e93a551": "2026-05-13T22:37:04.081Z",
+    "simplify:6efb01c9-5bbe-43e5-b506-19b0486c5d92": "2026-05-13T22:37:04.081Z",
+    "simplify:83eff6e8-2f48-40cf-83be-b22caa536b46": "2026-05-13T22:37:04.081Z",
+    "simplify:31e71a06-2dd5-4db1-9564-a0f33f42f061": "2026-05-13T22:37:04.081Z",
+    "simplify:69f769a1-69e0-4347-b4c0-00b287637051": "2026-05-13T22:37:04.081Z",
+    "simplify:622ea67b-d1e9-4042-92ec-37bd79b98f82": "2026-05-13T22:37:04.081Z",
+    "simplify:e0d65be0-919c-437b-95f1-709448cb8a14": "2026-05-13T22:37:04.081Z"
   },
   "jobs": [
     {
@@ -3260,18 +3300,18 @@
       "company": "Point72"
     },
     {
-      "id": "7297611002",
-      "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
-      "department": "",
-      "company": "Point72"
-    },
-    {
       "id": "7297598002",
       "title": "Cubist Quantitative Researcher Intern",
       "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
       "location": "Singapore",
+      "department": "",
+      "company": "Point72"
+    },
+    {
+      "id": "7297611002",
+      "title": "Cubist Quantitative Researcher Intern",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72"
     },
@@ -4076,14 +4116,6 @@
       "company": "Meta"
     },
     {
-      "id": "simplify:07034482-de7a-4324-917d-b746e275d734",
-      "title": "ML Software Engineer Intern - AI/CAD Integration",
-      "url": "https://apply.workable.com/falcomm/j/B5EB495F31/apply",
-      "location": "Atlanta, GA",
-      "department": "Hardware",
-      "company": "Falcomm"
-    },
-    {
       "id": "simplify:44e98270-755f-4d1c-a7a6-51ed8ba35f4e",
       "title": "Research Internship – Computing",
       "url": "https://www.microsoft.com/en-us/research/academic-program/undergraduate-research-internship-computing/",
@@ -4204,6 +4236,14 @@
       "company": "NorthMark Strategies"
     },
     {
+      "id": "simplify:2fa61ab1-b82d-414b-b8b4-4ac18feb9a17",
+      "title": "AI Applied Scientist Intern - Foundational AQ & EQ",
+      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Foundational-AQ---EQ_P748041",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "Zillow"
+    },
+    {
       "id": "simplify:6ee1d636-52a6-4812-8f5b-83ce50d7e576",
       "title": "Intern - Data Science - Generation",
       "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/10003456",
@@ -4234,6 +4274,30 @@
       "location": "SF",
       "department": "AI/ML/Data",
       "company": "Scale AI"
+    },
+    {
+      "id": "simplify:ccfd9e62-9404-43cd-8f5b-2dab27ebf2b1",
+      "title": "AI Applied Scientist Intern - Foundational IQ",
+      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Foundational-IQ_P748042",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "Zillow"
+    },
+    {
+      "id": "simplify:ca5eca0a-9078-4ac7-9951-872de0a08817",
+      "title": "AI Applied Scientist - PhD Intern - Next-Gen Agentic and Multi-Modal Home Exploration Experience",
+      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Next-Gen-Agentic-and-Multi-Modal-Home-Exploration-Experience_P748043",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "Zillow"
+    },
+    {
+      "id": "simplify:ea962e62-55ba-4c24-9b40-8d3309719bfa",
+      "title": "AI Applied Scientist - PhD Intern - Evaluation Systems and Metrics",
+      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Evaluation-Systems-and-Metrics_P748040",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "Zillow"
     },
     {
       "id": "simplify:426d3dcc-37c8-4349-921a-d8816e426cdb",
@@ -4948,6 +5012,22 @@
       "company": "TikTok"
     },
     {
+      "id": "simplify:553c3141-cedc-4ce8-ae4d-c4dbfd12ce83",
+      "title": "Research Internship-Multimodal LLM - Speech/Music/Audio/Vision/Language",
+      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Research-Internship--Multimodal-LLM--Speech-Music-Audio-Vision-Language-_R106334-1",
+      "location": "Bellevue, WA",
+      "department": "AI/ML/Data",
+      "company": "Tencent"
+    },
+    {
+      "id": "simplify:2154dbb1-0a02-4ce3-8bc5-6fbe782e9d84",
+      "title": "Research Internship - Reinforcement Learning for Large Foundation Models",
+      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Research-Internship---Reinforcement-Learning-for-Large-Foundation-Models_R106337-1",
+      "location": "Bellevue, WA",
+      "department": "AI/ML/Data",
+      "company": "Tencent"
+    },
+    {
       "id": "simplify:6888ba87-6750-4809-a5e0-87550c55e5cf",
       "title": "Intern – Gas Integrity Management - Engineering",
       "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003809",
@@ -5260,6 +5340,14 @@
       "company": "Berkshire Hathaway Energy"
     },
     {
+      "id": "simplify:f9d972b5-311c-4ef2-a323-51364b4b2440",
+      "title": "Firmware Intern - Summer 2026",
+      "url": "https://job-boards.greenhouse.io/figureai/jobs/4618805006",
+      "location": "San Jose, CA",
+      "department": "Hardware",
+      "company": "Figure"
+    },
+    {
       "id": "simplify:b0417830-1c04-4f1c-9ccc-d11260782322",
       "title": "Intern Renewable Generation Performance Engineering",
       "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003913",
@@ -5546,6 +5634,14 @@
       "location": "San Jose, CA",
       "department": "Software",
       "company": "TikTok"
+    },
+    {
+      "id": "simplify:4f0aaffd-abff-4630-885d-6b95b8dbadf4",
+      "title": "Embedded Software Intern",
+      "url": "https://job-boards.greenhouse.io/figureai/jobs/4397706006",
+      "location": "San Jose, CA",
+      "department": "Hardware",
+      "company": "Figure"
     },
     {
       "id": "simplify:956eb018-34d4-4f47-96dc-57a2372ae07d",
@@ -6276,6 +6372,14 @@
       "company": "Xometry"
     },
     {
+      "id": "simplify:a416f4ea-b204-46a8-8ca9-455912516760",
+      "title": "Intern - PhD Research Scientist",
+      "url": "https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e/apply",
+      "location": "Toronto, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "Waabi"
+    },
+    {
       "id": "simplify:38a2f2d5-6d77-4fc4-b288-8111b7fa7eb7",
       "title": "Research Intern/Co-op",
       "url": "https://jobs.lever.co/waabi/0fd4e30b-9bd1-4b53-9043-6088457363cb/apply",
@@ -6506,6 +6610,14 @@
       "location": "London, UK",
       "department": "AI/ML/Data",
       "company": "Thomson Reuters"
+    },
+    {
+      "id": "simplify:eff28cc3-7ade-4574-b78e-11e814c08e83",
+      "title": "Machine Learning Systems Research Intern - PhD - Summer 2026",
+      "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Boston/Machine-Learning-Systems-Research-Intern--PhD--Summer-2026_R-052520",
+      "location": "Boston, MA",
+      "department": "AI/ML/Data",
+      "company": "Red Hat"
     },
     {
       "id": "simplify:8b6fb24e-d7ce-444e-a6a0-d5f82e59d4d2",
@@ -6820,6 +6932,14 @@
       "company": "California ISO"
     },
     {
+      "id": "simplify:3cf4233b-3b89-4258-991d-1885b771f9e6",
+      "title": "Research Intern",
+      "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-Washington-Bellevue/Research-Internship---Reinforcement-Learning-for-Large-Foundation-Models_R106337",
+      "location": "Bellevue, WA",
+      "department": "AI/ML/Data",
+      "company": "Tencent"
+    },
+    {
       "id": "simplify:19adb890-3588-42e8-ac86-3d099f703889",
       "title": "Applied Machine Learning Scientist Intern - PhD",
       "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Applied-Machine-Learning-Scientist-Intern---PhD_2502662",
@@ -6844,12 +6964,28 @@
       "company": "Tencent"
     },
     {
+      "id": "simplify:7d1baa71-b0b6-4e4f-b1ee-19978dd659fa",
+      "title": "Research Internship-Multimodal LLM - Speech/Music/Audio/Vision/Language",
+      "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-Washington-Bellevue/Research-Internship--Multimodal-LLM--Speech-Music-Audio-Vision-Language-_R106334",
+      "location": "Bellevue, WA",
+      "department": "AI/ML/Data",
+      "company": "Tencent"
+    },
+    {
       "id": "simplify:7cfbeb0c-af31-4f2f-be63-1929643b91f0",
       "title": "Research Intern",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556745603",
       "location": "Redmond, WA",
       "department": "AI/ML/Data",
       "company": "Microsoft"
+    },
+    {
+      "id": "simplify:275b40b6-35f1-4ef6-9c1b-741a35b72c1f",
+      "title": "Hunyuan Multimodal Algorithm Researcher Intern - Omni-Modal",
+      "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650-2",
+      "location": "Palo Alto, CA",
+      "department": "AI/ML/Data",
+      "company": "Tencent"
     },
     {
       "id": "simplify:e1a136c3-4711-4a47-95f3-8ecca8e01f58",
@@ -6922,6 +7058,14 @@
       "location": "Boston, MA",
       "department": "Hardware",
       "company": "Eyebot"
+    },
+    {
+      "id": "simplify:aba3cf97-4ffd-4dce-876d-ab3305231512",
+      "title": "AI Engineer Intern - BCG X",
+      "url": "https://careers.bcg.com/global/en/job/56635",
+      "location": "London, UK",
+      "department": "AI/ML/Data",
+      "company": "Boston Consulting Group"
     },
     {
       "id": "simplify:42b0f3dc-9fe2-4f26-ac9b-eaaa21075017",
@@ -7188,6 +7332,14 @@
       "company": "Copart"
     },
     {
+      "id": "simplify:d2dcfe14-a4bb-40cf-b495-040de5de1c91",
+      "title": "Software Engineer 1 - Intern",
+      "url": "https://careers.cisco.com/global/en/job/2007170",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "Cisco"
+    },
+    {
       "id": "simplify:0d95df7d-e353-41c4-988e-0aef5d6fe2c0",
       "title": "AI/ML Research and Development Intern",
       "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/AI-ML-Research-and-Development-Intern_REQ_0000075248-1",
@@ -7284,6 +7436,14 @@
       "company": "Sila Nanotechnologies"
     },
     {
+      "id": "simplify:ee91612e-1382-4bb4-bcc9-bd4007324dfd",
+      "title": "Full Stack Engineering Intern",
+      "url": "https://avathon.com/company/careers-job-listing/?gh_jid=4655249005",
+      "location": "Pleasanton, CA",
+      "department": "Software",
+      "company": "Avathon"
+    },
+    {
       "id": "simplify:ae2d9193-c8c6-4c71-9933-75362edaf7cf",
       "title": "Summer Associate - Enterprise AI & Insights - 8 Week Program",
       "url": "https://asmglobal.wd1.myworkdayjobs.com/careers/job/Remote-USA/Summer-Associate--Enterprise-AI---Insights--8-10-Week-Program-_R100119581",
@@ -7338,6 +7498,14 @@
       "location": "Fort Wayne, IN",
       "department": "Software",
       "company": "Medical Informatics Engineering"
+    },
+    {
+      "id": "simplify:6a8df5a7-33c8-43f7-963d-58b6a3254d58",
+      "title": "Software Developer Intern - Digital Grid Management",
+      "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Software-Development-Intern---Digital-Grid-Management---Summer-2026_R8627-1",
+      "location": "Wayzata, MN",
+      "department": "Software",
+      "company": "AspenTech"
     },
     {
       "id": "simplify:610a68f2-345d-41ee-bb7b-fb32dbefc456",
@@ -7676,6 +7844,14 @@
       "company": "True Anomaly"
     },
     {
+      "id": "simplify:b3b6421c-0ccf-4a43-93a7-44fb9242cb5f",
+      "title": "Research Intern - Video World Models",
+      "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Research-Intern---Video-World-Models_R106904-1",
+      "location": "Palo Alto, CA",
+      "department": "AI/ML/Data",
+      "company": "Tencent"
+    },
+    {
       "id": "simplify:921c0431-a012-464f-988d-479e03995d57",
       "title": "Collectibles Intern - Product - Physical Trading Cards",
       "url": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26720",
@@ -7698,6 +7874,14 @@
       "location": "Santa Clara, CA",
       "department": "Hardware",
       "company": "Nissan Global"
+    },
+    {
+      "id": "simplify:48b655c4-ecfa-43bf-af3b-a5c0d6ec726f",
+      "title": "Research Intern - Video World Models",
+      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Research-Intern---Video-World-Models_R106904-2",
+      "location": "Palo Alto, CA",
+      "department": "AI/ML/Data",
+      "company": "Tencent"
     },
     {
       "id": "simplify:9ed2a09f-a318-418d-ada1-c33bd38b957d",
@@ -7762,6 +7946,14 @@
       "location": "Chicago, IL",
       "department": "Software",
       "company": "Gelber Group"
+    },
+    {
+      "id": "simplify:7ad8deb0-8ff6-4080-a865-9f84a2600546",
+      "title": "Software Engineer Intern - ML Platform",
+      "url": "https://jobs.lever.co/woven-by-toyota/b6bb0a14-829c-45d6-b64d-7ddaeb1851b3/apply",
+      "location": "Ann Arbor, MI",
+      "department": "Software",
+      "company": "Woven"
     },
     {
       "id": "simplify:cc636fe2-3776-41ab-af50-346c093331de",
@@ -7876,6 +8068,14 @@
       "company": "EXL"
     },
     {
+      "id": "simplify:817874bc-4775-4ea6-ad0f-216a0bc763fd",
+      "title": "Data Science Intern",
+      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Data-Science-Intern_R106915",
+      "location": "Palo Alto, CA",
+      "department": "AI/ML/Data",
+      "company": "Tencent"
+    },
+    {
       "id": "simplify:481ce419-909c-4866-929a-562ba6255866",
       "title": "Technology and Data Intern",
       "url": "https://job-boards.greenhouse.io/aypapower/jobs/5124955008",
@@ -7970,6 +8170,14 @@
       "location": "Joplin, MO",
       "department": "Software",
       "company": "EaglePicher Technologies"
+    },
+    {
+      "id": "simplify:d9cffbc6-56bb-46cf-8d9a-5a2345d72d8a",
+      "title": "Product Engineering Intern/Co-op",
+      "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Colorado-Springs-CO/Product-Engineering-Co-Op---Fall-2026_REQ-10143",
+      "location": "Colorado Springs, CO",
+      "department": "Hardware",
+      "company": "Entegris"
     },
     {
       "id": "simplify:edf05719-a4c3-410a-8e40-e6506e1e7844",
@@ -8252,6 +8460,14 @@
       "company": "Kaiser Permanente"
     },
     {
+      "id": "simplify:a1bcdd41-bfd1-4628-9267-bb5345bf61a0",
+      "title": "Developer Technology Intern - High-Performance Databases",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Intern--High-Performance-Databases---Summer-2026_JR2006184",
+      "location": "Santa Clara, CA",
+      "department": "AI/ML/Data",
+      "company": "NVIDIA"
+    },
+    {
       "id": "simplify:223463e8-92c2-40ee-861a-ab027ca852c1",
       "title": "Software Intern",
       "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Intern_R53282",
@@ -8444,6 +8660,14 @@
       "company": "Noda"
     },
     {
+      "id": "simplify:f9bd3523-3160-485e-9a7a-8d91620b01d0",
+      "title": "Research and Development Engineering Intern",
+      "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineering-Intern_REQ_0000076214-1",
+      "location": "State College, PA",
+      "department": "Software",
+      "company": "PennState University"
+    },
+    {
       "id": "simplify:60bdef1d-571d-4869-88d3-ec21747a38c4",
       "title": "Hospitality and Merchandise Insights Intern",
       "url": "https://asmglobal.wd1.myworkdayjobs.com/careers/job/New-York-NY/Hospitality-and-Merchandise-Insights-Intern_R100120704",
@@ -8602,6 +8826,14 @@
       "location": "United States",
       "department": "Hardware",
       "company": "Ambarella"
+    },
+    {
+      "id": "simplify:f682356d-55da-4f90-987d-77f140cc652d",
+      "title": "Hunyuan Multimodal Algorithm Researcher Intern",
+      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-Intern-Omni-Modal---_R107051",
+      "location": "Palo Alto, CA",
+      "department": "AI/ML/Data",
+      "company": "Tencent"
     },
     {
       "id": "simplify:5c884b62-bc93-4035-aef8-3118a294f929",
@@ -8908,6 +9140,14 @@
       "company": "Madison Energy Infrastructure"
     },
     {
+      "id": "simplify:6ac7c03f-fa0a-4a73-90e0-86cf65de7d4c",
+      "title": "Computer Vision AI Intern",
+      "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/Computer-Vision--AI-Intern--R-D-Summer-2026_R00232831-1",
+      "location": "Troy, MI",
+      "department": "AI/ML/Data",
+      "company": "Magna"
+    },
+    {
       "id": "simplify:15595611-0be2-4306-b819-62bc25f236b4",
       "title": "PhD Autonomy Engineer Intern - Deep Learning or Computer Vision",
       "url": "https://jobs.ashbyhq.com/skydio/8d3979a8-c791-4825-8cf4-9b25479b9519/application",
@@ -8996,6 +9236,22 @@
       "company": "Harris Computer"
     },
     {
+      "id": "simplify:66572abf-79bc-4959-81dc-2d51e16c64a4",
+      "title": "Hunyuan Multimodal Reinforcement Learning Research Intern",
+      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Reinforcement-Learning-Research-Intern_R107084-1",
+      "location": "Palo Alto, CA",
+      "department": "AI/ML/Data",
+      "company": "Tencent"
+    },
+    {
+      "id": "simplify:49ea6477-d2a6-4517-b1db-910fa56415d7",
+      "title": "Hunyuan Multimodal Reinforcement Learning Research Intern",
+      "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Hunyuan-Multimodal-Reinforcement-Learning-Research-Intern_R107084",
+      "location": "Palo Alto, CA",
+      "department": "AI/ML/Data",
+      "company": "Tencent"
+    },
+    {
       "id": "simplify:8ac73d51-1f47-4635-af71-a02661d0284c",
       "title": "Innovation Lab Intern",
       "url": "https://jobs.smartrecruiters.com/Kioxia/744000113744318",
@@ -9052,6 +9308,14 @@
       "company": "Internship"
     },
     {
+      "id": "simplify:8eb44b0c-8d8e-4bd2-88d0-51fb9b03511c",
+      "title": "AI Intern",
+      "url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Atlanta-GA-United-States/AI-Internships_JR-0088855",
+      "location": "Grand Rapids, MI / Plano, TX / Atlanta, GA",
+      "department": "Software",
+      "company": "KION Group"
+    },
+    {
       "id": "simplify:5166efda-4ad9-4015-8cdb-f9bb2d45cbbb",
       "title": "AI Intern",
       "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=5818327004",
@@ -9090,6 +9354,14 @@
       "location": "San Carlos, CA",
       "department": "AI/ML/Data",
       "company": "BeOne"
+    },
+    {
+      "id": "simplify:fe972247-600c-481b-961d-3abad929c277",
+      "title": "AI Intern",
+      "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Atlanta-GA-United-States/AI-Internships_JR-0088855-1",
+      "location": "Grand Rapids, MI / Plano, TX / Atlanta, GA",
+      "department": "Software",
+      "company": "KION Group"
     },
     {
       "id": "simplify:0184bfd5-a5c9-4e10-8e6f-c58271bc7dbf",
@@ -9188,6 +9460,14 @@
       "company": "KBR"
     },
     {
+      "id": "simplify:e8c852af-5074-4a34-a258-1771fad8d041",
+      "title": "Business Intelligence and Reporting Intern",
+      "url": "https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Summer-Internship--Business-Intelligence-and--Reporting-Intern_R33739",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "BeOne"
+    },
+    {
       "id": "simplify:71e539ff-f839-4f08-8c0f-0c7a934bbf05",
       "title": "Sector Data Analyst – Intern - Europe",
       "url": "https://www.citadel.com/careers/details/sector-data-analyst-intern-europe/",
@@ -9218,6 +9498,14 @@
       "location": "Newark, CA",
       "department": "Hardware",
       "company": "TripleRing"
+    },
+    {
+      "id": "simplify:575196b0-8a54-4f60-b515-c6a6f828818d",
+      "title": "AI Research Intern",
+      "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bellevue/AI-Research-Intern_R4037528",
+      "location": "Bellevue, WA",
+      "department": "AI/ML/Data",
+      "company": "GE Healthcare"
     },
     {
       "id": "simplify:ab36e18b-aefc-49e1-872e-190d86a787d7",
@@ -9370,6 +9658,14 @@
       "location": "Palo Alto, CA",
       "department": "Product",
       "company": "OpusClip"
+    },
+    {
+      "id": "simplify:148a72b7-bc13-4b01-a17e-84eb6dd9858c",
+      "title": "Services Solutions Technical Architect Intern",
+      "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Philadelphia-PA/Services-Solutions-Technical-Architect-Intern_JR_14531",
+      "location": "Philadelphia, PA",
+      "department": "Software",
+      "company": "Guidewire"
     },
     {
       "id": "simplify:3eadb789-e235-4431-bdee-27b1798d3bd8",
@@ -9756,6 +10052,14 @@
       "company": "Varda Space"
     },
     {
+      "id": "simplify:224e6611-9cfb-4eef-8107-822517f2d5e4",
+      "title": "AI Engineer Intern",
+      "url": "https://ats.rippling.com/usare/jobs/8db9bb37-aa5f-40e0-96ac-d1c4ca796aeb",
+      "location": "Remote in USA",
+      "department": "Software",
+      "company": "American Rare Earths"
+    },
+    {
       "id": "simplify:d7297bc9-b982-4d12-9a1a-ea5d22b7eba6",
       "title": "Product Manager Project Intern",
       "url": "https://lifeattiktok.com/search/7620569902743406901",
@@ -9890,6 +10194,14 @@
       "location": "Boston, MA",
       "department": "AI/ML/Data",
       "company": "Commonwealth of Massachusetts"
+    },
+    {
+      "id": "simplify:3de7ddd4-4951-42b8-97de-864d68e72fb9",
+      "title": "Mobile Telecom Applications Intern",
+      "url": "https://tnsi.wd1.myworkdayjobs.com/Search/job/USA---Seattle/Mobile-Telecom-Applications-Intern_R2851",
+      "location": "Seattle, WA",
+      "department": "Software",
+      "company": "TNS"
     },
     {
       "id": "simplify:0af424c7-d1b7-4441-bd3d-cfed627d70fe",
@@ -10170,6 +10482,14 @@
       "location": "SF",
       "department": "Software",
       "company": "Atomic Semi"
+    },
+    {
+      "id": "simplify:5628f91e-9bde-4281-9e4f-af0144726d32",
+      "title": "Business Intelligence Intern",
+      "url": "https://granite.wd1.myworkdayjobs.com/careers/job/Watsonville-California/Business-Intelligence-Intern_R0000007188",
+      "location": "Aptos, CA",
+      "department": "AI/ML/Data",
+      "company": "Granite Construction"
     },
     {
       "id": "simplify:94770818-f61b-4bd1-a569-bd2ed3fe1b63",
@@ -11194,6 +11514,14 @@
       "location": "San Jose, CA",
       "department": "Software",
       "company": "Tessera Labs"
+    },
+    {
+      "id": "simplify:25666c3f-59c5-42d5-a68b-58c08e93a551",
+      "title": "R&D Engineering Intern",
+      "url": "https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-Careers/job/Rapid-City/Engineering-Intern_JR-110935-1",
+      "location": "Rapid City, SD",
+      "department": "Hardware",
+      "company": "Littelfuse"
     },
     {
       "id": "simplify:7027dc30-4b34-4865-9bad-9532f89b662e",
@@ -14420,14 +14748,6 @@
       "company": "Geotab"
     },
     {
-      "id": "simplify:adf2fbac-8753-47c5-bf29-9bfa01b9c46e",
-      "title": "Software Developer Intern - Prism",
-      "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5138225008",
-      "location": "Toronto, ON, Canada / Kitchener, ON, Canada",
-      "department": "Software",
-      "company": "Geotab"
-    },
-    {
       "id": "simplify:a4f598b7-9523-41bf-a91b-7ef4589ac1ea",
       "title": "Reliability Test Intern",
       "url": "https://job-boards.greenhouse.io/astranis/jobs/4677973006",
@@ -14778,6 +15098,14 @@
       "location": "Elk Grove Village, IL",
       "department": "Software",
       "company": "Al Warren Oil Company"
+    },
+    {
+      "id": "simplify:6efb01c9-5bbe-43e5-b506-19b0486c5d92",
+      "title": "Technology Intern - Ist",
+      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Manchester-United-Kingdom/Technology--IST--Internship---Summer-2026_175112",
+      "location": "Manchester, UK",
+      "department": "Software",
+      "company": "Vanguard"
     },
     {
       "id": "simplify:6657ae54-86a0-47c2-aac3-d20df829fb37",
@@ -15332,12 +15660,12 @@
       "company": "Advanced Energy"
     },
     {
-      "id": "simplify:6528014c-d166-4a7a-b3dd-912daae5921d",
-      "title": "Software Engineer Intern - Infrastructure Automation",
-      "url": "https://jobs.ashbyhq.com/snowflake/bbdee8bd-443c-456f-a4f0-1b363d843310/application",
-      "location": "Menlo Park, CA / Bellevue, WA",
+      "id": "simplify:83eff6e8-2f48-40cf-83be-b22caa536b46",
+      "title": "Software Engineer Intern",
+      "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Milwaukee-Wisconsin-United-States-of-America/Mechanical-Engineering-Intern_WD30253236-1",
+      "location": "Milwaukee, WI",
       "department": "Software",
-      "company": "Snowflake"
+      "company": "Johnson Controls"
     },
     {
       "id": "simplify:5ce67d7b-3def-4a9e-921a-b25dbba0c016",
@@ -16082,6 +16410,38 @@
       "location": "San Jose, CA",
       "department": "AI/ML/Data",
       "company": "TikTok"
+    },
+    {
+      "id": "simplify:31e71a06-2dd5-4db1-9564-a0f33f42f061",
+      "title": "Java Development Intern",
+      "url": "https://autonation.wd5.myworkdayjobs.com/Careers/job/Auto-TechLabs/Java-Development-Intern_JR2026135682",
+      "location": "Fort Lauderdale, FL",
+      "department": "Software",
+      "company": "AutoNation"
+    },
+    {
+      "id": "simplify:69f769a1-69e0-4347-b4c0-00b287637051",
+      "title": "Machine Learning Engineer Intern",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/6594261003",
+      "location": "Fremont, CA",
+      "department": "AI/ML/Data",
+      "company": "Neuralink"
+    },
+    {
+      "id": "simplify:622ea67b-d1e9-4042-92ec-37bd79b98f82",
+      "title": "R&D Intern",
+      "url": "https://jobs.ashbyhq.com/tldraw/9f3f48d7-d731-4379-89f8-d4ee79ed5cfd/application",
+      "location": "London, UK",
+      "department": "Software",
+      "company": "tldraw"
+    },
+    {
+      "id": "simplify:e0d65be0-919c-437b-95f1-709448cb8a14",
+      "title": "Application Support Intern",
+      "url": "https://jobs.smartrecruiters.com/Flywire1/744000126273589",
+      "location": "London, UK",
+      "department": "Software",
+      "company": "Flywire"
     },
     {
       "id": "vansh:d2c404c8-5895-4ec0-95c2-3d17aed38beb",
