@@ -1,6 +1,6 @@
 # Open Internships
 
-**2936** internships across **63/63** companies — last updated 2026-05-13.
+**2933** internships across **63/63** companies — last updated 2026-05-13.
 
 ## Companies
 
@@ -757,7 +757,6 @@
 - [Practising Law Institute](#practising-law-institute) (1)
 - [Preferred Risk Insurance Services](#preferred-risk-insurance-services) (2)
 - [Premier](#premier) (1)
-- [Premier Automation](#premier-automation) (1)
 - [Premier, Inc.](#premier-inc) (1)
 - [Primetals Technologies](#primetals-technologies) (1)
 - [Prior Labs](#prior-labs) (1)
@@ -851,7 +850,6 @@
 - [Seaspan](#seaspan) (1)
 - [Second Dinner](#second-dinner) (1)
 - [Semtech](#semtech) (1)
-- [SentinelOne](#sentinelone) (1)
 - [Sentra](#sentra) (1)
 - [Sentry](#sentry) (1)
 - [Sephora](#sephora) (3)
@@ -915,7 +913,7 @@
 - [Stanley Black & Decker](#stanley-black-decker) (1)
 - [Staples](#staples) (1)
 - [Staples Inc.](#staples-inc) (1)
-- [Starz](#starz) (4)
+- [Starz](#starz) (3)
 - [State Farm](#state-farm) (2)
 - [State of Nebraska](#state-of-nebraska) (1)
 - [State Street](#state-street) (2)
@@ -2862,8 +2860,8 @@
 | [Revenue Operations Intern - Enablement (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7761397?gh_jid=7761397) | In-Office | — | 2026-05-06 |
 | [Sales Project Manager Intern (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7773799?gh_jid=7773799) | In-Office | — | 2026-05-06 |
 | [Sales: Solutions Engineer - Intern (Summer & Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7792962?gh_jid=7792962) | In-Office | — | 2026-05-06 |
-| [Security Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169) | In-Office | — | 2026-05-06 |
 | [Security Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150) | In-Office | — | 2026-05-06 |
+| [Security Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169) | In-Office | — | 2026-05-06 |
 | [Technical Marketing Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7733496?gh_jid=7733496) | In-Office | — | 2026-05-06 |
 | [Technical Support Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879) | In-Office | — | 2026-05-06 |
 | [Threat Detection and Incident Response Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7577205?gh_jid=7577205) | In-Office | — | 2026-05-06 |
@@ -5131,8 +5129,8 @@
 | [Software Engineer Intern](https://www.jumptrading.com/careers/7124769/?gh_jid=7124769) | Chicago, IL | — | 2026-05-09 |
 | [Tech Ops Engineer Intern](https://www.jumptrading.com/careers/7077897/?gh_jid=7077897) | Chicago, IL | — | 2026-05-09 |
 | [UI Software Engineer Intern](https://www.jumptrading.com/careers/7125381/?gh_jid=7125381) | Chicago, IL | — | 2026-05-09 |
-| [Campus Crypto Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7362347) | Chicago | — | 2026-05-06 |
 | [Campus Crypto Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7362318) | London | — | 2026-05-06 |
+| [Campus Crypto Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7362347) | Chicago | — | 2026-05-06 |
 | [Campus Software Engineer (Dec 2026 - Feb 2027 Intern)](https://www.jumptrading.com/hr/job?gh_jid=7543377) | Sydney; Singapore | — | 2026-05-06 |
 | [Campus Tech Ops Engineer (Dec 2026 - Feb 2027 Intern)](https://www.jumptrading.com/hr/job?gh_jid=7543260) | Sydney | — | 2026-05-06 |
 | [Campus Trading Team Software Engineer  (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7565728) | Hong Kong | — | 2026-05-06 |
@@ -6784,12 +6782,6 @@
 | --- | --- | --- | --- |
 | [Software Engineer Intern](https://premierinc.wd1.myworkdayjobs.com/external_professional/job/Charlotte-NC/Software-Engineer-Intern_R0008370-1) | Charlotte, NC | Software | 2026-05-09 |
 
-## Premier Automation
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Software / Computer Science Intern](https://job-boards.greenhouse.io/premierautomation/jobs/5216022008) | Monroeville, PA | Software | 2026-05-11 |
-
 ## Premier, Inc.
 
 | Title | Location | Department | First seen |
@@ -7486,12 +7478,6 @@
 | --- | --- | --- | --- |
 | [Product Engineer Intern](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Product-Engineering-Intern_REQ3328) | Burlington, ON, Canada | Hardware | 2026-05-09 |
 
-## SentinelOne
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Product Management Intern](https://www.sentinelone.com/jobs/7709918003?gh_jid=7709918003) | Remote in USA | Product | 2026-05-09 |
-
 ## Sentra
 
 | Title | Location | Department | First seen |
@@ -7958,7 +7944,6 @@
 | --- | --- | --- | --- |
 | [Starz Intern - Data Products & Engineering](https://starz.wd5.myworkdayjobs.com/Starz/job/US-Remote/STARZ-Intern--Data-Products---Engineering_JR100318) | Remote in USA | AI/ML/Data | 2026-05-09 |
 | [Starz Intern - Content Insights](https://starz.wd5.myworkdayjobs.com/Starz/job/New-York-NY/STARZ-Intern--Content-Insights_JR100336) | NYC | AI/ML/Data | 2026-05-09 |
-| [Starz Intern - Software Development-Streaming Video](https://starz.wd5.myworkdayjobs.com/Starz/job/US-Remote/STARZ-Intern--Software-Development-Streaming-Video_JR100333) | Remote in USA | Software | 2026-05-09 |
 | [Starz Intern - Software Developer](https://starz.wd5.myworkdayjobs.com/Starz/job/US-Remote/STARZ-Intern--Software-Development_JR100319) | Remote in USA | Software | 2026-05-09 |
 
 ## State Farm
