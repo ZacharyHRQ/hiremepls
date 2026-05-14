@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-14T05:32:10.854Z",
+  "generatedAt": "2026-05-14T08:16:33.008Z",
   "companyCount": 63,
   "okCount": 63,
-  "jobCount": 3083,
+  "jobCount": 3080,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -1438,7 +1438,6 @@
     "simplify:f96a9c15-5610-42da-a764-9dc865fed291": "2026-05-09T15:28:15.527Z",
     "simplify:578f6090-4b3a-4622-bee4-287715a763e7": "2026-05-09T15:28:15.527Z",
     "simplify:021d12d5-64ed-4980-8b3f-4f30d00f6b0b": "2026-05-09T15:28:15.527Z",
-    "simplify:adcaf0de-6a1a-47ff-93d1-89469a49e290": "2026-05-09T15:28:15.527Z",
     "simplify:d5f7661a-ee59-46f6-a9f2-5dcab7e06996": "2026-05-09T15:28:15.527Z",
     "simplify:a81cffa7-bb85-4600-a692-b15f5e074f9c": "2026-05-09T15:28:15.527Z",
     "simplify:8bb432fa-21f1-4d2a-a11c-46955f58d383": "2026-05-09T15:28:15.527Z",
@@ -2785,7 +2784,6 @@
     "simplify:eae02a50-59ef-4d24-84e2-485923a3389c": "2026-05-09T17:12:44.619Z",
     "simplify:998701e4-4702-458b-9c2a-13c7a4f02fd9": "2026-05-09T17:12:44.619Z",
     "simplify:e9520654-7d2d-4da2-bbd2-153e088e9b7a": "2026-05-09T17:12:44.619Z",
-    "simplify:dd840ed0-9980-4c2b-a070-00c368c351cf": "2026-05-09T17:12:44.619Z",
     "simplify:60956514-0af3-42e3-97dc-b4e69d693b20": "2026-05-09T17:12:44.619Z",
     "simplify:5f261994-e1e1-4e98-9dd3-76b8602427e2": "2026-05-09T17:12:44.619Z",
     "simplify:61a02428-12e6-4454-aa42-b0353c138c9f": "2026-05-09T17:12:44.619Z",
@@ -2876,7 +2874,6 @@
     "simplify:69b571de-8212-4952-b1ea-7a33fe3bda6b": "2026-05-11T23:38:25.770Z",
     "simplify:9ef7efda-4769-4f8d-ab7d-c545cde957bb": "2026-05-11T23:38:25.770Z",
     "simplify:9c45103b-7822-4919-a5ff-5ba4283c2a53": "2026-05-11T23:38:25.770Z",
-    "simplify:50bcd0ad-2f60-4cdb-afbc-b0007f285de8": "2026-05-11T23:38:25.770Z",
     "simplify:4b224d26-3462-4bfa-9ac0-bbabe852eea9": "2026-05-11T23:38:25.770Z",
     "simplify:1d09cef0-ee74-42ab-8da4-b8debac1e317": "2026-05-11T23:38:25.770Z",
     "simplify:342c3878-0f0a-4f31-b343-8989d1ef68b7": "2026-05-11T23:38:25.770Z",
@@ -3057,7 +3054,6 @@
     "simplify:9813e2de-df7f-4f4a-9bf8-b059361e238a": "2026-05-14T05:32:10.854Z",
     "simplify:5f15e338-9e4f-4242-b54d-601ea20a4339": "2026-05-14T05:32:10.854Z",
     "simplify:f74f5f6d-bdcb-41d4-81e3-16b4871b2d1c": "2026-05-14T05:32:10.854Z",
-    "simplify:dfd4cc96-ea14-4d98-9a16-58da1012cd60": "2026-05-14T05:32:10.854Z",
     "simplify:6758f253-a5be-432d-983f-cffe4b685610": "2026-05-14T05:32:10.854Z",
     "simplify:4736b2a0-e92a-496a-9d78-8ed71243916c": "2026-05-14T05:32:10.854Z",
     "simplify:3852fd42-d583-4585-bced-9e6ad8f69a38": "2026-05-14T05:32:10.854Z",
@@ -3086,7 +3082,8 @@
     "simplify:842ee601-a9d1-496f-9b0e-25dbfe17a9c2": "2026-05-14T05:32:10.854Z",
     "simplify:16f4158c-2f78-4213-854f-11df73fe8857": "2026-05-14T05:32:10.854Z",
     "simplify:f00ec3cf-28f3-44d3-b7de-2b918b1b312a": "2026-05-14T05:32:10.854Z",
-    "simplify:8037cc42-3e4b-4cc7-9c9c-2e7332aabebc": "2026-05-14T05:32:10.854Z"
+    "simplify:8037cc42-3e4b-4cc7-9c9c-2e7332aabebc": "2026-05-14T05:32:10.854Z",
+    "simplify:5959e81d-35cb-4da2-a9a5-02a553b86cd0": "2026-05-14T08:16:33.008Z"
   },
   "jobs": [
     {
@@ -3658,14 +3655,6 @@
       "company": "Replit"
     },
     {
-      "id": "7544547",
-      "title": "Operations Associate, New Grad (Mexico)",
-      "url": "https://stripe.com/jobs/search?gh_jid=7544547",
-      "location": "Mexico City, Mexico",
-      "department": "",
-      "company": "Stripe"
-    },
-    {
       "id": "7913505",
       "title": "Operations Associate, New Grad (Mexico)",
       "url": "https://stripe.com/jobs/search?gh_jid=7913505",
@@ -3674,10 +3663,10 @@
       "company": "Stripe"
     },
     {
-      "id": "7285974",
-      "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "id": "7544547",
+      "title": "Operations Associate, New Grad (Mexico)",
+      "url": "https://stripe.com/jobs/search?gh_jid=7544547",
+      "location": "Mexico City, Mexico",
       "department": "",
       "company": "Stripe"
     },
@@ -3686,6 +3675,14 @@
       "title": "PhD Data Scientist, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=7874965",
       "location": "San Francisco, New York City, Seattle, Chicago",
+      "department": "",
+      "company": "Stripe"
+    },
+    {
+      "id": "7285974",
+      "title": "PhD Data Scientist, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe"
     },
@@ -4026,17 +4023,17 @@
       "company": "Cloudflare"
     },
     {
-      "id": "7582169",
+      "id": "7582150",
       "title": "Security Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
     },
     {
-      "id": "7582150",
+      "id": "7582169",
       "title": "Security Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
@@ -9082,6 +9079,14 @@
       "company": "Rolls Royce"
     },
     {
+      "id": "simplify:5959e81d-35cb-4da2-a9a5-02a553b86cd0",
+      "title": "Paint Shop Digitalization Developer Maintenance Planning Intern",
+      "url": "https://jobs.bmwgroup.com/job/Spartanburg-Paint-Shop-Digitalization-Developer-Maintenance-Planning-Intern-(Fall-2026)-Sout/1370799333/?ats=successfactors",
+      "location": "Spartanburg, SC",
+      "department": "AI/ML/Data",
+      "company": "Rolls Royce"
+    },
+    {
       "id": "simplify:17f11bdb-1222-4b9b-997b-cbc2e518f510",
       "title": "Quality Software Intern",
       "url": "https://jobs.bmwgroup.com/job/Greer-MN-80-Quality-Software-Intern-(Fall-2026)-IN/1370809433/?ats=successfactors",
@@ -14018,14 +14023,6 @@
       "company": "Schweitzer Engineering Laboratories"
     },
     {
-      "id": "simplify:dd840ed0-9980-4c2b-a070-00c368c351cf",
-      "title": "Data Science Intern",
-      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Toronto-Ontario-Canada/Data-Science-Intern_R-071492",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Johnson & Johnson"
-    },
-    {
       "id": "simplify:91f21a40-4f2d-4105-93dc-b702318427e2",
       "title": "Data Nerd Intern",
       "url": "https://jobs.lever.co/robust-ai/2e9a9b5b-2f2a-453c-a6ca-d2569186d451/apply",
@@ -16242,14 +16239,6 @@
       "company": "Carnegie Mellon University"
     },
     {
-      "id": "simplify:adcaf0de-6a1a-47ff-93d1-89469a49e290",
-      "title": "Software Engineering Intern",
-      "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Santa-Barbara-CA/Intern--Software-Engineering_R-26-17553",
-      "location": "Santa Barbara, CA",
-      "department": "Hardware",
-      "company": "Moog "
-    },
-    {
       "id": "simplify:72a21bf6-45b0-4b1a-a82f-58a51ea1143a",
       "title": "Data Analytics Intern - Data Engineering - Business Intelligence and Analysis",
       "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Data-Analytics-Internship--Summer-2026_JR2026508199",
@@ -16730,14 +16719,6 @@
       "company": "The Walt Disney Company"
     },
     {
-      "id": "simplify:50bcd0ad-2f60-4cdb-afbc-b0007f285de8",
-      "title": "CFO – Data Analyst Intern",
-      "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2026-CFO--Summer-Data-Analyst--Capital---Liquidity-Measurement---Reporting--4-months-_R-0000171977",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Royal Bank of Canada"
-    },
-    {
       "id": "simplify:4b224d26-3462-4bfa-9ac0-bbabe852eea9",
       "title": "Software Engineer Intern - Product - Full-Stack",
       "url": "https://jobs.ashbyhq.com/super.com/8179b5ad-9074-4d96-aa92-366cf12ab5d5/application",
@@ -17192,14 +17173,6 @@
       "location": "Plymouth, MI",
       "department": "Hardware",
       "company": "Robert Bosch Venture Capital"
-    },
-    {
-      "id": "simplify:dfd4cc96-ea14-4d98-9a16-58da1012cd60",
-      "title": "AI and Data Analytics Intern",
-      "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Sterling/AI-and-Data-Analytics-Intern_RQ219901",
-      "location": "Dulles, VA",
-      "department": "AI/ML/Data",
-      "company": "General Dynamics Information Technology"
     },
     {
       "id": "simplify:6758f253-a5be-432d-983f-cffe4b685610",
