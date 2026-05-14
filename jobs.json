@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-13T23:40:40.818Z",
+  "generatedAt": "2026-05-14T01:31:29.727Z",
   "companyCount": 63,
   "okCount": 63,
-  "jobCount": 2995,
+  "jobCount": 3047,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -509,7 +509,6 @@
     "simplify:a34fd6fd-c9fc-43d2-bff0-d75f752bbed7": "2026-05-09T15:28:15.527Z",
     "simplify:f3a16dce-161d-44cd-a33c-59b9699640ca": "2026-05-09T15:28:15.527Z",
     "simplify:b615c259-2137-4453-b93f-ca3cdfe6995d": "2026-05-09T15:28:15.527Z",
-    "simplify:43b6665e-e558-4a83-90df-12c5aa0165b7": "2026-05-09T15:28:15.527Z",
     "simplify:9f3e91d0-6a18-4595-a15a-3c519dd28705": "2026-05-09T15:28:15.527Z",
     "simplify:03f837a0-bf51-4384-b5fe-ecc29b02eb9b": "2026-05-09T15:28:15.527Z",
     "simplify:feed428a-7ca2-4e92-aaef-caf1e4455b0b": "2026-05-09T15:28:15.527Z",
@@ -697,7 +696,6 @@
     "simplify:fc7a0f14-9786-43c7-b121-5e1a5eb58143": "2026-05-09T15:28:15.527Z",
     "simplify:f9b2ad59-ad5a-4533-a263-b9b864eb87e0": "2026-05-09T15:28:15.527Z",
     "simplify:643116a4-f927-4b0b-bb75-2c28b8a64dd1": "2026-05-09T15:28:15.527Z",
-    "simplify:4e650812-53f5-427f-abdf-132ef773af76": "2026-05-09T15:28:15.527Z",
     "simplify:de46453a-ef54-4d06-94b4-f86021b89215": "2026-05-09T15:28:15.527Z",
     "simplify:de215e2c-25b9-4713-90e5-31dba65622de": "2026-05-09T15:28:15.527Z",
     "simplify:ce2b8a69-f8a4-41dc-8b62-0a5987028ce6": "2026-05-09T15:28:15.527Z",
@@ -708,7 +706,6 @@
     "simplify:d04ea383-c10d-4225-a209-9cf9020f39f5": "2026-05-09T15:28:15.527Z",
     "simplify:9857ad60-014d-421a-a579-ae225b4b8c16": "2026-05-09T15:28:15.527Z",
     "simplify:1b226056-c25a-4e1a-8aa0-65847d808c02": "2026-05-09T15:28:15.527Z",
-    "simplify:1846abad-76dc-450b-aa85-2427745a272b": "2026-05-09T15:28:15.527Z",
     "simplify:f8080880-d013-40c8-ac19-30326bd50f19": "2026-05-09T15:28:15.527Z",
     "simplify:17f11bdb-1222-4b9b-997b-cbc2e518f510": "2026-05-09T15:28:15.527Z",
     "simplify:e931ed08-b25f-4522-a074-26419c83b8cb": "2026-05-09T15:28:15.527Z",
@@ -910,7 +907,6 @@
     "simplify:2442d052-7b23-40c2-a75b-753f40b7834c": "2026-05-09T15:28:15.527Z",
     "simplify:73b43840-d6dc-4026-acc9-485fffbb96dd": "2026-05-09T15:28:15.527Z",
     "simplify:68678095-1001-45d2-9f63-775e6ea6b356": "2026-05-09T15:28:15.527Z",
-    "simplify:4b1e0cf7-1376-4cec-9457-56d996600031": "2026-05-09T15:28:15.527Z",
     "simplify:58172332-0844-45b1-b057-190ed9ca324e": "2026-05-09T15:28:15.527Z",
     "simplify:f9c3682d-25e0-42b3-aeb8-ae98854876fe": "2026-05-09T15:28:15.527Z",
     "simplify:8d74e58c-4516-45d6-92ed-119cad8972ae": "2026-05-09T15:28:15.527Z",
@@ -959,7 +955,6 @@
     "simplify:8f69a6ba-51e4-4c80-b523-22d744af108d": "2026-05-09T15:28:15.527Z",
     "simplify:81edf5dc-b981-4b55-b2c7-507fcf10c9c2": "2026-05-09T15:28:15.527Z",
     "simplify:6a592c55-dc19-43ff-9d59-172e8e4d88b9": "2026-05-09T15:28:15.527Z",
-    "simplify:4b107c2d-5dd4-4f77-94a3-6dc5620037d3": "2026-05-09T15:28:15.527Z",
     "simplify:68da8f52-9a43-4f21-8742-602f2b262808": "2026-05-09T15:28:15.527Z",
     "simplify:26784233-d6f5-4845-b5af-e3b1350f1199": "2026-05-09T15:28:15.527Z",
     "simplify:1b2a515c-420c-4739-90eb-0ca8c93613b4": "2026-05-09T15:28:15.527Z",
@@ -1043,7 +1038,6 @@
     "simplify:29e26e9c-2493-4e95-ace7-463c642d9831": "2026-05-09T15:28:15.527Z",
     "simplify:e4611df3-07f0-4f4b-b444-2d99087ead69": "2026-05-09T15:28:15.527Z",
     "simplify:5991079c-d741-4088-a869-2632603f35cd": "2026-05-09T15:28:15.527Z",
-    "simplify:6a7133f1-fc85-4990-9a57-a2a760812fe6": "2026-05-09T15:28:15.527Z",
     "simplify:c21f2c6e-fd58-49e5-b9a6-4a0a8da2acf4": "2026-05-09T15:28:15.527Z",
     "simplify:d3506df6-a276-45fc-9c56-0486208cd5e8": "2026-05-09T15:28:15.527Z",
     "simplify:4fccaa8a-ab20-431c-9479-96f15a9125a3": "2026-05-09T15:28:15.527Z",
@@ -1084,7 +1078,6 @@
     "simplify:d2d779ba-bdb3-4801-889e-f3c0da9be4ee": "2026-05-09T15:28:15.527Z",
     "simplify:89ff2f02-753f-4972-90ab-a9a4d630272f": "2026-05-09T15:28:15.527Z",
     "simplify:22a65ee9-ac38-442a-a46d-357f11a9b4a1": "2026-05-09T15:28:15.527Z",
-    "simplify:6b877f44-0b3f-46c1-a867-bd6706c63d23": "2026-05-09T15:28:15.527Z",
     "simplify:26fdb601-e0f4-4074-8616-d16bfbb4f7b9": "2026-05-09T15:28:15.527Z",
     "simplify:55c29391-7472-4e4d-a26f-2f38c7efc55e": "2026-05-09T15:28:15.527Z",
     "simplify:74c89fde-4677-4b10-b706-43f45065e8e4": "2026-05-09T15:28:15.527Z",
@@ -1121,7 +1114,6 @@
     "simplify:4fec6e95-8408-41e9-9021-fe0cb97ba0a1": "2026-05-09T15:28:15.527Z",
     "simplify:2e856615-7a30-4783-b2a1-2104e28e8cf8": "2026-05-09T15:28:15.527Z",
     "simplify:f8160e16-ca09-498c-bc84-4785b88d8848": "2026-05-09T15:28:15.527Z",
-    "simplify:62b3d1bf-16d7-4b39-9e28-fa5d791584df": "2026-05-09T15:28:15.527Z",
     "simplify:625e369f-4225-466f-9c5e-13e522f4c7ef": "2026-05-09T15:28:15.527Z",
     "simplify:65d2f7c5-bd84-43d5-ac0d-207793327798": "2026-05-09T15:28:15.527Z",
     "simplify:029427e5-d571-423d-84ca-6f3bcf7502ac": "2026-05-09T15:28:15.527Z",
@@ -1232,7 +1224,6 @@
     "simplify:178d4969-cbeb-433a-bc1e-ebe84d5a1b4f": "2026-05-09T15:28:15.527Z",
     "simplify:e50df52b-b0be-454a-823f-9677ce36ebd9": "2026-05-09T15:28:15.527Z",
     "simplify:382d947b-1e85-457c-a2a4-4bc3ea664b54": "2026-05-09T15:28:15.527Z",
-    "simplify:35066ac0-1560-4dd8-af1e-43c56f13ef8c": "2026-05-09T15:28:15.527Z",
     "simplify:91f21a40-4f2d-4105-93dc-b702318427e2": "2026-05-09T15:28:15.527Z",
     "simplify:fcaa44e4-dd04-4997-91e1-ff823442265e": "2026-05-09T15:28:15.527Z",
     "simplify:eaeaad91-7d21-4eaf-b0c3-a144a1f82545": "2026-05-09T15:28:15.527Z",
@@ -1358,7 +1349,6 @@
     "simplify:06f9f603-1d5d-4c51-97d2-92195dcdf93e": "2026-05-09T15:28:15.527Z",
     "simplify:1c4be709-2865-47f7-8943-24bea4f42d5b": "2026-05-09T15:28:15.527Z",
     "simplify:74afc000-9214-4266-baef-ff8fbab5c0a0": "2026-05-09T15:28:15.527Z",
-    "simplify:d0ea20c1-d9ca-43d1-a55a-9c686954cc52": "2026-05-09T15:28:15.527Z",
     "simplify:929dc587-1eaa-43f7-ba79-b1cec91e182f": "2026-05-09T15:28:15.527Z",
     "simplify:4774edb2-bba5-4efa-bd6a-367a653d07aa": "2026-05-09T15:28:15.527Z",
     "simplify:6138989f-798d-491a-aaf7-14a88ebc2816": "2026-05-09T15:28:15.527Z",
@@ -1372,7 +1362,6 @@
     "simplify:7953d24e-a1d8-4013-acce-67a2f4a991b0": "2026-05-09T15:28:15.527Z",
     "simplify:b938f9d1-81bb-4817-b0b5-e1a2b28f3c22": "2026-05-09T15:28:15.527Z",
     "simplify:0fccd064-46a1-44c3-9f4a-a55025dde260": "2026-05-09T15:28:15.527Z",
-    "simplify:a466822d-ab0a-484f-b845-97dce9a2f87b": "2026-05-09T15:28:15.527Z",
     "simplify:3ef6005a-dc19-43a2-ae36-e463222f6fa7": "2026-05-09T15:28:15.527Z",
     "simplify:f074c27e-dc13-4feb-8001-33ae0feaee8a": "2026-05-09T15:28:15.527Z",
     "simplify:c9ba9f6c-b03b-47cf-990d-1dc0fa1aabd3": "2026-05-09T15:28:15.527Z",
@@ -1460,7 +1449,6 @@
     "simplify:021d12d5-64ed-4980-8b3f-4f30d00f6b0b": "2026-05-09T15:28:15.527Z",
     "simplify:adcaf0de-6a1a-47ff-93d1-89469a49e290": "2026-05-09T15:28:15.527Z",
     "simplify:48fa6c97-dc78-4daf-bbfc-cdfe9f307d21": "2026-05-09T15:28:15.527Z",
-    "simplify:0a242b5a-dc37-4797-8809-085298375cce": "2026-05-09T15:28:15.527Z",
     "simplify:d5f7661a-ee59-46f6-a9f2-5dcab7e06996": "2026-05-09T15:28:15.527Z",
     "simplify:a81cffa7-bb85-4600-a692-b15f5e074f9c": "2026-05-09T15:28:15.527Z",
     "simplify:8bb432fa-21f1-4d2a-a11c-46955f58d383": "2026-05-09T15:28:15.527Z",
@@ -2828,7 +2816,6 @@
     "simplify:ea2aab66-0170-4f6e-8cf3-edf8dd8f81b6": "2026-05-09T18:04:29.781Z",
     "simplify:d564cbe2-1d72-4511-b9d7-23941f576d58": "2026-05-09T18:04:29.781Z",
     "simplify:885b612e-955f-494a-8499-26efd83e1f1b": "2026-05-09T18:04:29.781Z",
-    "simplify:87e1f406-2b57-4d98-9b4f-2b0c197085e3": "2026-05-09T18:04:29.781Z",
     "simplify:d027f016-0c6d-4196-aec9-0e959d41da6b": "2026-05-09T18:04:29.781Z",
     "simplify:f354f30b-fb00-4fd5-b41d-93958a339309": "2026-05-09T19:20:31.296Z",
     "simplify:a83343f6-f74b-4f1e-98aa-d1e1b1c3b039": "2026-05-09T19:20:31.296Z",
@@ -2998,7 +2985,72 @@
     "simplify:4d7b53f4-4839-4a21-9b3d-774c69c540bd": "2026-05-13T23:40:40.818Z",
     "simplify:ebb7f560-b3e3-4f57-b812-b0097eeb39bf": "2026-05-13T23:40:40.818Z",
     "simplify:532987f0-bfae-4a4f-a3fb-c33755ac93fa": "2026-05-13T23:40:40.818Z",
-    "simplify:07034482-de7a-4324-917d-b746e275d734": "2026-05-13T23:40:40.818Z"
+    "simplify:07034482-de7a-4324-917d-b746e275d734": "2026-05-13T23:40:40.818Z",
+    "simplify:eb14174f-2e4d-4c27-90c6-67df2ddef557": "2026-05-14T01:31:29.727Z",
+    "simplify:2164a5af-267c-4dbf-94fd-aa9a78ffcc06": "2026-05-14T01:31:29.727Z",
+    "simplify:c42f018d-7413-47dd-900e-58cb7e97b198": "2026-05-14T01:31:29.727Z",
+    "simplify:4e604603-4433-4e2a-b7b1-6db7edc1f971": "2026-05-14T01:31:29.727Z",
+    "simplify:84d34dbd-3eb7-4e24-94a3-d7080de2fda9": "2026-05-14T01:31:29.727Z",
+    "simplify:609e2d0d-89d6-434b-ab49-1968ef08c157": "2026-05-14T01:31:29.727Z",
+    "simplify:2be207ae-b91f-4c93-80de-135fea7e0fb6": "2026-05-14T01:31:29.727Z",
+    "simplify:2de4ccd4-e782-4db3-8427-6b8837912084": "2026-05-14T01:31:29.727Z",
+    "simplify:10529106-8f42-4165-814f-149d4a47f89e": "2026-05-14T01:31:29.727Z",
+    "simplify:4440559e-416b-4444-9db8-a21b61996743": "2026-05-14T01:31:29.727Z",
+    "simplify:8a0769fc-4aa4-4b2f-a6e9-d5fcc27c11a6": "2026-05-14T01:31:29.727Z",
+    "simplify:c028a8b9-94b1-413e-8119-37e4aa83f76e": "2026-05-14T01:31:29.727Z",
+    "simplify:7248f7be-bf62-4a1b-a01b-3e4f27918644": "2026-05-14T01:31:29.727Z",
+    "simplify:0718fecc-0b61-46aa-a33c-44fa02cce82a": "2026-05-14T01:31:29.727Z",
+    "simplify:5e6027c1-06ff-4833-98fc-5748108833bf": "2026-05-14T01:31:29.727Z",
+    "simplify:b9a99f84-c011-4f16-806a-8ad02e98b530": "2026-05-14T01:31:29.727Z",
+    "simplify:e18b5659-3658-49dd-a554-9ba2b49123a9": "2026-05-14T01:31:29.727Z",
+    "simplify:5912947c-cf90-4aa1-a763-fe43edb0b67f": "2026-05-14T01:31:29.727Z",
+    "simplify:dea237ba-f8e4-4ba5-bc03-fbeea539ec0c": "2026-05-14T01:31:29.727Z",
+    "simplify:ee96ab23-9704-4554-ab17-29ae5e380422": "2026-05-14T01:31:29.727Z",
+    "simplify:05ef5084-9ac7-4ab7-8363-51bf7d93f83b": "2026-05-14T01:31:29.727Z",
+    "simplify:c5e1e2ee-9028-41d8-8e43-8bed2a7fddb4": "2026-05-14T01:31:29.727Z",
+    "simplify:2d421d61-207f-4bd9-8e65-78346e199d36": "2026-05-14T01:31:29.727Z",
+    "simplify:27d8dc01-5978-49dd-bfcb-be4f52052b68": "2026-05-14T01:31:29.727Z",
+    "simplify:a7ead58a-b9e8-4468-846b-ce47ff046c57": "2026-05-14T01:31:29.727Z",
+    "simplify:992b48ee-6377-47d1-a64a-325b032e4673": "2026-05-14T01:31:29.727Z",
+    "simplify:3443ba84-151d-4603-9bac-28bf93227ed5": "2026-05-14T01:31:29.727Z",
+    "simplify:5a1ea7e3-a9d3-4b99-9b7f-9cbc5562db04": "2026-05-14T01:31:29.727Z",
+    "simplify:47e93c35-6beb-41fc-bb7f-81c35722ff8d": "2026-05-14T01:31:29.727Z",
+    "simplify:fd5a8521-4005-4532-8abf-fbe39bd79e6e": "2026-05-14T01:31:29.727Z",
+    "simplify:b8efe27f-c76a-4d68-a3e0-7223c8e08ef8": "2026-05-14T01:31:29.727Z",
+    "simplify:77a2f3fc-f657-4d3a-a64b-2832e7edb34c": "2026-05-14T01:31:29.727Z",
+    "simplify:62bd536b-f4d0-4002-8206-67fda1fd000e": "2026-05-14T01:31:29.727Z",
+    "simplify:40437c0f-7771-4ec0-aedd-aa6abd7ed518": "2026-05-14T01:31:29.727Z",
+    "simplify:bebbeff8-81af-4e7a-b6f6-7658307b38b6": "2026-05-14T01:31:29.727Z",
+    "simplify:53f8fb29-baff-4860-abf4-e65d1cd1a500": "2026-05-14T01:31:29.727Z",
+    "simplify:870bfe1c-ab9e-49e0-873b-8346dabd4abb": "2026-05-14T01:31:29.727Z",
+    "simplify:c7f1c784-ada4-411c-85aa-060cd89e52c6": "2026-05-14T01:31:29.727Z",
+    "simplify:cf67b47f-ab6f-425e-aba9-52f7fbca42f3": "2026-05-14T01:31:29.727Z",
+    "simplify:cd2ecb0f-e6e0-4b6a-88d4-f45f6168c70b": "2026-05-14T01:31:29.727Z",
+    "simplify:10b8ba9b-4b53-4c9d-ac43-9343422d6e2d": "2026-05-14T01:31:29.727Z",
+    "simplify:2b2e9c95-048c-4a41-96cc-94af877774ee": "2026-05-14T01:31:29.727Z",
+    "simplify:782ded0d-171f-4d4c-8723-e6aebf486455": "2026-05-14T01:31:29.727Z",
+    "simplify:001ac4b8-e3c8-40dd-a035-c12fc1493b30": "2026-05-14T01:31:29.727Z",
+    "simplify:10ea6ba5-ff6a-4396-9ba5-86f0e059112c": "2026-05-14T01:31:29.727Z",
+    "simplify:572bd542-bdd6-4494-adf5-c3e38316b280": "2026-05-14T01:31:29.727Z",
+    "simplify:562cbc1f-78de-477b-af0a-f684cdf59545": "2026-05-14T01:31:29.727Z",
+    "simplify:71fb490d-c790-4b95-b8eb-fd2a362fe5ed": "2026-05-14T01:31:29.727Z",
+    "simplify:fefd236d-3538-4ece-a31f-6cd5f43cf0c9": "2026-05-14T01:31:29.727Z",
+    "simplify:86322454-a77f-4553-99d1-a2f5378148d7": "2026-05-14T01:31:29.727Z",
+    "simplify:69dc6696-07f9-4a4b-b7fb-83207f4540b5": "2026-05-14T01:31:29.727Z",
+    "simplify:e018a2ac-82d3-4544-85aa-440aa29efa03": "2026-05-14T01:31:29.727Z",
+    "simplify:510a5602-ff86-4446-beab-a4a99a37f9a5": "2026-05-14T01:31:29.727Z",
+    "simplify:c8656ce0-8929-4c11-959b-2a699e5f93d5": "2026-05-14T01:31:29.727Z",
+    "simplify:855330a8-8ad4-40b3-9ee1-7080a37406ba": "2026-05-14T01:31:29.727Z",
+    "simplify:20fd552d-3f73-4f9b-8983-f8c6037b0835": "2026-05-14T01:31:29.727Z",
+    "simplify:15c17df5-3269-4d19-93d8-2418771d87cb": "2026-05-14T01:31:29.727Z",
+    "simplify:4be260c2-8590-4fec-934b-4a4485a5abc2": "2026-05-14T01:31:29.727Z",
+    "simplify:a4eb4eaf-fbaa-4070-8e0f-a01972859942": "2026-05-14T01:31:29.727Z",
+    "simplify:a4783e6a-8a2f-4833-9266-9e189849ea23": "2026-05-14T01:31:29.727Z",
+    "simplify:8e361239-f612-4264-9395-2bc545ff95d5": "2026-05-14T01:31:29.727Z",
+    "simplify:1f3992a5-b615-416d-8650-f6a6a7316db4": "2026-05-14T01:31:29.727Z",
+    "simplify:ee43242e-e576-41dd-b7b1-74beb01b8853": "2026-05-14T01:31:29.727Z",
+    "simplify:d64ccdab-78f3-46c4-9eac-43520a5591b2": "2026-05-14T01:31:29.727Z",
+    "simplify:2ffff810-e650-4bde-9aae-abf6fab346f5": "2026-05-14T01:31:29.727Z"
   },
   "jobs": [
     {
@@ -4120,14 +4172,6 @@
       "location": "Remote - San Francisco, California",
       "department": "",
       "company": "Cribl"
-    },
-    {
-      "id": "simplify:e2e48bac-63bc-4318-9576-1e112d693b8d",
-      "title": "Research Scientist Intern - Photorealistic Telepresence - PhD",
-      "url": "https://www.metacareers.com/jobs/2022109075207025",
-      "location": "Sausalito, CA / Redmond, WA / Pittsburgh, PA",
-      "department": "AI/ML/Data",
-      "company": "Meta"
     },
     {
       "id": "simplify:44e98270-755f-4d1c-a7a6-51ed8ba35f4e",
@@ -6434,6 +6478,14 @@
       "company": "Oracle"
     },
     {
+      "id": "simplify:eb14174f-2e4d-4c27-90c6-67df2ddef557",
+      "title": "Hunyuan Multimodal Algorithm Researcher intern - Omni-Modal",
+      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650",
+      "location": "Palo Alto, CA",
+      "department": "AI/ML/Data",
+      "company": "Tencent"
+    },
+    {
       "id": "simplify:f1cc7ce7-00a3-49c1-9092-46d88ff06988",
       "title": "Internship - Software Development Engineer in Test",
       "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Development-Engineer-in-Test_J-00328071",
@@ -7226,14 +7278,6 @@
       "company": "TikTok"
     },
     {
-      "id": "simplify:43b6665e-e558-4a83-90df-12c5aa0165b7",
-      "title": "Summer Intern - Product Development",
-      "url": "https://jobs.lever.co/elfbeauty/9189bd90-eedf-4c63-ba8d-18e41a33ae8f/apply",
-      "location": "Oakland, CA",
-      "department": "Product",
-      "company": "Elf Beauty"
-    },
-    {
       "id": "simplify:9f3e91d0-6a18-4595-a15a-3c519dd28705",
       "title": "Machine Learning Engineer Intern - Search Ads - 2026 Summer (removed) BS/MS",
       "url": "https://lifeattiktok.com/search/7600250402370586933",
@@ -7458,6 +7502,14 @@
       "company": "Avathon"
     },
     {
+      "id": "simplify:2164a5af-267c-4dbf-94fd-aa9a78ffcc06",
+      "title": "Data Scientist Intern",
+      "url": "https://avathon.com/company/careers-job-listing/?gh_jid=4655247005",
+      "location": "Pleasanton, CA",
+      "department": "AI/ML/Data",
+      "company": "Avathon"
+    },
+    {
       "id": "simplify:ae2d9193-c8c6-4c71-9933-75362edaf7cf",
       "title": "Summer Associate - Enterprise AI & Insights - 8 Week Program",
       "url": "https://asmglobal.wd1.myworkdayjobs.com/careers/job/Remote-USA/Summer-Associate--Enterprise-AI---Insights--8-10-Week-Program-_R100119581",
@@ -7616,6 +7668,14 @@
       "location": "Roswell, GA",
       "department": "Software",
       "company": "OTR Solutions"
+    },
+    {
+      "id": "simplify:c42f018d-7413-47dd-900e-58cb7e97b198",
+      "title": "Multimedia Codec Development Intern",
+      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Multimedia-Codec-Development-Intern_R106769",
+      "location": "Palo Alto, CA",
+      "department": "AI/ML/Data",
+      "company": "Tencent"
     },
     {
       "id": "simplify:523f4ede-20df-4626-a195-9513bfa2c7b3",
@@ -8178,6 +8238,14 @@
       "company": "Sila Nanotechnologies"
     },
     {
+      "id": "simplify:4e604603-4433-4e2a-b7b1-6db7edc1f971",
+      "title": "Intern AI Product Management",
+      "url": "https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Intern---AI-Product-Management--Agentic-Workflows_R18582",
+      "location": "Seattle, WA",
+      "department": "Product",
+      "company": "Zoom"
+    },
+    {
       "id": "simplify:3e3f3bd0-c7e5-4b68-8cb9-6020b3bc0b4a",
       "title": "Intern Product Engineer",
       "url": "https://careers-eaglepicher.icims.com/jobs/3039/job?mobile=true&needsRedirect=false",
@@ -8272,6 +8340,14 @@
       "location": "Culver City, CA",
       "department": "AI/ML/Data",
       "company": "Sony"
+    },
+    {
+      "id": "simplify:84d34dbd-3eb7-4e24-94a3-d7080de2fda9",
+      "title": "Clinical Data Science Electrophysiology Biostatistics Intern",
+      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Irvine-California-United-States-of-America/CDS-EP-MedTech-Summer-Intern_R-056163",
+      "location": "Irvine, CA",
+      "department": "AI/ML/Data",
+      "company": "Johnson & Johnson"
     },
     {
       "id": "simplify:01b5b7c1-4831-408e-b174-f19461b9c971",
@@ -8914,14 +8990,6 @@
       "company": "Tatari"
     },
     {
-      "id": "simplify:4e650812-53f5-427f-abdf-132ef773af76",
-      "title": "Power Supply Intern",
-      "url": "https://job-boards.greenhouse.io/antora/jobs/5819407004",
-      "location": "San Jose, CA",
-      "department": "AI/ML/Data",
-      "company": "Antora Energy"
-    },
-    {
       "id": "simplify:de46453a-ef54-4d06-94b4-f86021b89215",
       "title": "Research Scientist Intern - Applied Perception Science - PhD",
       "url": "https://www.metacareers.com/jobs/25766888559672059",
@@ -8998,14 +9066,6 @@
       "title": "IT Innovation & Research Intern",
       "url": "https://jobs.bmwgroup.com/job/Greenville-IT-Innovation-&-Research-Intern-Fall-2026-Sout/1370812633/?ats=successfactors",
       "location": "Greenville, SC",
-      "department": "AI/ML/Data",
-      "company": "Rolls Royce"
-    },
-    {
-      "id": "simplify:1846abad-76dc-450b-aa85-2427745a272b",
-      "title": "Paint Shop Quality Intern",
-      "url": "https://jobs.bmwgroup.com/job/Greer-Paint-Shop-Quality-Intern-(Fall-2026)-Sout/1370797133/?ats=successfactors",
-      "location": "Greer, SC",
       "department": "AI/ML/Data",
       "company": "Rolls Royce"
     },
@@ -10066,6 +10126,14 @@
       "company": "Varda Space"
     },
     {
+      "id": "simplify:609e2d0d-89d6-434b-ab49-1968ef08c157",
+      "title": "Mission Software – Intern - Python",
+      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7676465003",
+      "location": "El Segundo, CA",
+      "department": "Software",
+      "company": "Varda Space"
+    },
+    {
       "id": "simplify:224e6611-9cfb-4eef-8107-822517f2d5e4",
       "title": "AI Engineer Intern",
       "url": "https://ats.rippling.com/usare/jobs/8db9bb37-aa5f-40e0-96ac-d1c4ca796aeb",
@@ -10722,6 +10790,14 @@
       "company": "Microsoft"
     },
     {
+      "id": "simplify:2be207ae-b91f-4c93-80de-135fea7e0fb6",
+      "title": "Intern - AI/LLM Development - Growth Solutions Architecture Team",
+      "url": "https://careers-itcfederal.icims.com/jobs/1515/job?mobile=true&needsRedirect=false",
+      "location": "Fairfax, VA",
+      "department": "AI/ML/Data",
+      "company": "ITC Federal"
+    },
+    {
       "id": "simplify:1b1beb70-8f20-416a-be39-116834690463",
       "title": "Perception Engineering Intern",
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000118243108",
@@ -10912,14 +10988,6 @@
       "location": "United States",
       "department": "AI/ML/Data",
       "company": "Actian"
-    },
-    {
-      "id": "simplify:4b1e0cf7-1376-4cec-9457-56d996600031",
-      "title": "Customer Data ML Intern",
-      "url": "https://job-boards.greenhouse.io/avepoint/jobs/7768813",
-      "location": "Arlington, VA",
-      "department": "AI/ML/Data",
-      "company": "AvePoint"
     },
     {
       "id": "simplify:b2caadce-6eeb-4eb8-8571-477e8b7bca43",
@@ -11320,14 +11388,6 @@
       "location": "San Mateo, CA",
       "department": "Hardware",
       "company": "Verkada"
-    },
-    {
-      "id": "simplify:4b107c2d-5dd4-4f77-94a3-6dc5620037d3",
-      "title": "Customer Quality Intern",
-      "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Customer-Quality-Intern_2026338",
-      "location": "San Jose, CA",
-      "department": "AI/ML/Data",
-      "company": "Lumentum"
     },
     {
       "id": "simplify:68da8f52-9a43-4f21-8742-602f2b262808",
@@ -11738,6 +11798,14 @@
       "company": "Tower Research Capital"
     },
     {
+      "id": "simplify:2de4ccd4-e782-4db3-8427-6b8837912084",
+      "title": "Procurement Intern",
+      "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Atlanta-GA-United-States/Procurement-Intern_JR-0088786-1",
+      "location": "Atlanta, GA",
+      "department": "Software",
+      "company": "KION Group"
+    },
+    {
       "id": "simplify:d0f73619-189e-406c-8d5f-62aff3221820",
       "title": "Digital Engineering CoE Intern",
       "url": "https://careers.qualitestgroup.com/job/Santa-Clara-Digital-Engineering-CoE-Intern-CA-95054/54914944/?ats=successfactors",
@@ -12080,14 +12148,6 @@
       "location": "Pennsylvania",
       "department": "Software",
       "company": "Geisinger"
-    },
-    {
-      "id": "simplify:6a7133f1-fc85-4990-9a57-a2a760812fe6",
-      "title": "Intern - Optical Transceiver Engineer",
-      "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Internship---Optical-Transceiver-Engineer---PhD--Santa-Clara--CA-_R2518403",
-      "location": "Santa Clara, CA",
-      "department": "Hardware",
-      "company": "Applied Materials"
     },
     {
       "id": "simplify:c21f2c6e-fd58-49e5-b9a6-4a0a8da2acf4",
@@ -12466,14 +12526,6 @@
       "company": "Sony"
     },
     {
-      "id": "simplify:6b877f44-0b3f-46c1-a867-bd6706c63d23",
-      "title": "iOS Developer Intern",
-      "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/iOS-Developer-Intern_R242642",
-      "location": "Phoenix, AZ",
-      "department": "Software",
-      "company": "Uhaul"
-    },
-    {
       "id": "simplify:26fdb601-e0f4-4074-8616-d16bfbb4f7b9",
       "title": "Intern",
       "url": "https://jobs.ashbyhq.com/context/1c657ebf-3842-4ca4-ab55-54ffaf1e49d8/application",
@@ -12592,6 +12644,14 @@
       "location": "Stoke-on-Trent, UK",
       "department": "Hardware",
       "company": "Caterpillar Inc."
+    },
+    {
+      "id": "simplify:10529106-8f42-4165-814f-149d4a47f89e",
+      "title": "Intern - AI/ML Engineer - Cloud and Developer Infrastructure",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Engineer--Cloud-and-Developer-Infrastructure--Master-s-_JR-202524316",
+      "location": "Milford Charter Twp, MI / Austin, TX / Detroit, MI / Sunnyvale, CA / Mountain View, CA / Warren, MI",
+      "department": "AI/ML/Data",
+      "company": "General Motors"
     },
     {
       "id": "simplify:12d5b447-e058-49ed-969e-98ec68a6ef82",
@@ -12824,14 +12884,6 @@
       "location": "Toronto, ON, Canada",
       "department": "AI/ML/Data",
       "company": "Royal Bank of Canada"
-    },
-    {
-      "id": "simplify:62b3d1bf-16d7-4b39-9e28-fa5d791584df",
-      "title": "Software Intern - Internet of Things",
-      "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Intern--IOT-_2532211-1",
-      "location": "Milpitas, CA",
-      "department": "Hardware",
-      "company": "KLA Corporation"
     },
     {
       "id": "simplify:625e369f-4225-466f-9c5e-13e522f4c7ef",
@@ -13234,6 +13286,14 @@
       "company": "Fenwick & West"
     },
     {
+      "id": "simplify:4440559e-416b-4444-9db8-a21b61996743",
+      "title": "Software Developer Intern",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00181646",
+      "location": "Annapolis Junction, MD",
+      "department": "Software",
+      "company": "Leidos"
+    },
+    {
       "id": "simplify:e8fe53d2-e6d7-49e3-b99e-048cc351bc8e",
       "title": "Software Engineer Intern - AI Model Optimization - BS/MS",
       "url": "https://lifeattiktok.com/search/7540823204350527752",
@@ -13354,6 +13414,14 @@
       "company": "Microchip Technology"
     },
     {
+      "id": "simplify:8a0769fc-4aa4-4b2f-a6e9-d5fcc27c11a6",
+      "title": "Technology Product Analyst Intern",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR108712",
+      "location": "Dallas, TX",
+      "department": "Product",
+      "company": "Copart"
+    },
+    {
       "id": "simplify:9e2582d1-adc6-42f5-b6af-6d64e4242c08",
       "title": "Software Development Intern",
       "url": "https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Software-Development-Intern_REQ460",
@@ -13432,6 +13500,14 @@
       "location": "San Jose, CA",
       "department": "Hardware",
       "company": "Figure"
+    },
+    {
+      "id": "simplify:c028a8b9-94b1-413e-8119-37e4aa83f76e",
+      "title": "Engineering ADAS Perception Features Intern",
+      "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235419",
+      "location": "Auburn Hills, MI",
+      "department": "AI/ML/Data",
+      "company": "Magna"
     },
     {
       "id": "simplify:a18b29f0-cf8b-4fef-8634-fb841e7de064",
@@ -13562,6 +13638,14 @@
       "company": "SF Giants"
     },
     {
+      "id": "simplify:7248f7be-bf62-4a1b-a01b-3e4f27918644",
+      "title": "Video Algorithms Intern - Video Coding - Gaussian Splatting",
+      "url": "https://explore.jobs.netflix.net/careers/job/790315673635",
+      "location": "LA / Los Gatos, CA",
+      "department": "AI/ML/Data",
+      "company": "Netflix"
+    },
+    {
       "id": "simplify:c97b9c17-dda6-4c3f-a83c-9f49bb003f4e",
       "title": "Pricing and Market Analytics Intern",
       "url": "https://assaabloy.jobs2web.com/job/Lake-Forest-Pricing-and-Market-Analytics-Intern-CA-92610/1388105433/?ats=successfactors",
@@ -13584,6 +13668,14 @@
       "location": "Fort Wayne, IN",
       "department": "Software",
       "company": "General Dynamics Mission Systems"
+    },
+    {
+      "id": "simplify:0718fecc-0b61-46aa-a33c-44fa02cce82a",
+      "title": "Business Data Analytics Intern - Channel Coverage",
+      "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Business-Data-Analytics-Intern--Channel-Coverage_R-544035",
+      "location": "New Mexico / Washington / Kansas / Pennsylvania / North Dakota / Oregon / Delaware / Iowa / California / Washington, DC / Vermont / Wyoming / Texas / Montana / Jackson Township, NJ / Sparks, MD / Florida / Waterbury, CT / Nevada / South Carolina / South Dakota / Georgia / Concord, NH / Mississippi / Tennessee / Virginia / Arkansas / Minnesota / Colorado / Nebraska / Rhode Island / Utah / Hawaii, United States / Kentucky / West Virginia / NYC / Maryland / Wisconsin / Maine / Massachusetts / North Carolina / Oklahoma / Missouri / Ohio / Indiana / Louisiana / Alaska / Michigan / Illinois / Idaho",
+      "department": "AI/ML/Data",
+      "company": "Becton Dickinson"
     },
     {
       "id": "simplify:fe2090ae-0404-47d2-89f2-e46316098fcd",
@@ -13706,12 +13798,28 @@
       "company": "Schweitzer Engineering Laboratories"
     },
     {
+      "id": "simplify:5e6027c1-06ff-4833-98fc-5748108833bf",
+      "title": "Data Analyst Intern",
+      "url": "https://job-boards.greenhouse.io/integra/jobs/5134522008",
+      "location": "Austin, TX",
+      "department": "AI/ML/Data",
+      "company": "Integra FEC"
+    },
+    {
       "id": "simplify:c170da9f-75da-4e67-a22c-c39842bfed91",
       "title": "Credit Modeling & Methodology Intern",
       "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Credit-Data-Analyst---Credit-Modeling---Methodology-Intern--4-Months-_R-0000170102-1",
       "location": "Toronto, ON, Canada",
       "department": "AI/ML/Data",
       "company": "Royal Bank of Canada"
+    },
+    {
+      "id": "simplify:b9a99f84-c011-4f16-806a-8ad02e98b530",
+      "title": "Data Scientist Intern",
+      "url": "https://job-boards.greenhouse.io/integrainterns/jobs/5134593008",
+      "location": "Austin, TX",
+      "department": "AI/ML/Data",
+      "company": "Integra FEC"
     },
     {
       "id": "simplify:8446df16-f5f1-4fe4-9c20-44f6c0661737",
@@ -13922,6 +14030,14 @@
       "company": "Gelber Group"
     },
     {
+      "id": "simplify:e18b5659-3658-49dd-a554-9ba2b49123a9",
+      "title": "AI Software Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639",
+      "location": "Hillsboro, OR / Folsom, CA",
+      "department": "Hardware",
+      "company": "Intel"
+    },
+    {
       "id": "simplify:382d947b-1e85-457c-a2a4-4bc3ea664b54",
       "title": "Data Analyst Intern",
       "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Pullman---One/Data-Analyst-Intern_2026-21105",
@@ -13936,14 +14052,6 @@
       "location": "Toronto, ON, Canada",
       "department": "AI/ML/Data",
       "company": "Johnson & Johnson"
-    },
-    {
-      "id": "simplify:35066ac0-1560-4dd8-af1e-43c56f13ef8c",
-      "title": "Applied AI Engineering Intern",
-      "url": "https://jobs.ashbyhq.com/d-Matrix/93a6e6ee-3391-4437-8459-e28eb05eace7/application",
-      "location": "Santa Clara, CA",
-      "department": "Software",
-      "company": "d-Matrix"
     },
     {
       "id": "simplify:91f21a40-4f2d-4105-93dc-b702318427e2",
@@ -14250,6 +14358,14 @@
       "company": "Carnegie Mellon University"
     },
     {
+      "id": "simplify:5912947c-cf90-4aa1-a763-fe43edb0b67f",
+      "title": "Technology Product Analyst Intern",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR108764",
+      "location": "Dallas, TX",
+      "department": "Product",
+      "company": "Copart"
+    },
+    {
       "id": "simplify:36e0c8f1-c9a3-48e6-96bb-d9703df95f21",
       "title": "AI Research Intern - Knowledge Graphs",
       "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Communications-House-Staines-Upon-Thames-United-Kingdom/AI-Research-Intern---Knowledge-Graphs_R116819",
@@ -14272,6 +14388,14 @@
       "location": "Scarborough, ON, Canada",
       "department": "Software",
       "company": "Hitachi"
+    },
+    {
+      "id": "simplify:dea237ba-f8e4-4ba5-bc03-fbeea539ec0c",
+      "title": "Density Fill Development Engineer Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Density-Fill-Development-Engineer-Intern_JR0281342",
+      "location": "Santa Clara, CA / Hillsboro, OR / Phoenix, AZ",
+      "department": "Software",
+      "company": "Intel"
     },
     {
       "id": "simplify:e92be21e-de72-4461-9dfd-c52863a41148",
@@ -14754,6 +14878,14 @@
       "company": "Bank of Montreal"
     },
     {
+      "id": "simplify:ee96ab23-9704-4554-ab17-29ae5e380422",
+      "title": "Product & Data Engineering Intern",
+      "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Product---Data-Engineering--September-2026---12-months-_6987",
+      "location": "Toronto, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "Ontario Teachers' Pension Plan"
+    },
+    {
       "id": "simplify:c45f7a09-140b-4725-9506-ade3453310fa",
       "title": "Junior Software Developer Co-op/Intern",
       "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Junior-Software-Developer--Fall-2026--Co-op-Internship----4-Months_R260013614",
@@ -14768,6 +14900,14 @@
       "location": "Toronto, ON, Canada",
       "department": "Software",
       "company": "Bank of Montreal"
+    },
+    {
+      "id": "simplify:05ef5084-9ac7-4ab7-8363-51bf7d93f83b",
+      "title": "Portfolio Engineering Intern - Capital Markets - Cmia",
+      "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Portfolio-Engineering--Capital-Markets--CMIA--September-2026---8-months-_6986",
+      "location": "Toronto, ON, Canada",
+      "department": "Software",
+      "company": "Ontario Teachers' Pension Plan"
     },
     {
       "id": "simplify:bfa88208-de96-479b-a5d8-fcaf35a49ffe",
@@ -14882,6 +15022,14 @@
       "company": "HF Sinclair"
     },
     {
+      "id": "simplify:c5e1e2ee-9028-41d8-8e43-8bed2a7fddb4",
+      "title": "Yard Engineer Intern",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Yard-Engineering-Intern_JR108554",
+      "location": "Dallas, TX",
+      "department": "Software",
+      "company": "Copart"
+    },
+    {
       "id": "simplify:51a9d9d0-ccbd-444b-9588-fa6adbf3c727",
       "title": "MTM Data Management & Staffing Coordinator Intern",
       "url": "https://musc.wd1.myworkdayjobs.com/en-US/MUSC/job/Charleston/UNIV---Student-Intern--MTM-Data-Management---Staffing-Coordinator_R-0000061405",
@@ -14912,6 +15060,22 @@
       "location": "Springdale, AR",
       "department": "Product",
       "company": "Tyson Foods"
+    },
+    {
+      "id": "simplify:2d421d61-207f-4bd9-8e65-78346e199d36",
+      "title": "Yard Engineer Intern",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Yard-Engineering-Intern_JR108553",
+      "location": "Dallas, TX",
+      "department": "Software",
+      "company": "Copart"
+    },
+    {
+      "id": "simplify:27d8dc01-5978-49dd-bfcb-be4f52052b68",
+      "title": "Yard Engineer Intern",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Yard-Engineering-Intern_JR108552",
+      "location": "Dallas, TX",
+      "department": "Software",
+      "company": "Copart"
     },
     {
       "id": "simplify:feb5bbe1-d3d2-414b-9a2b-163bbfefa315",
@@ -15026,6 +15190,22 @@
       "company": "Royal Bank of Canada"
     },
     {
+      "id": "simplify:a7ead58a-b9e8-4468-846b-ce47ff046c57",
+      "title": "Design Verification Engineer Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/Design-Verification-Engineering-Intern_JR0283524",
+      "location": "Remote in Canada",
+      "department": "Hardware",
+      "company": "Intel"
+    },
+    {
+      "id": "simplify:992b48ee-6377-47d1-a64a-325b032e4673",
+      "title": "Formal Verification Intern",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Intern---Fall-2026_JR2017490",
+      "location": "Austin, TX / Santa Clara, CA",
+      "department": "Hardware",
+      "company": "NVIDIA"
+    },
+    {
       "id": "simplify:aba775c1-f372-48a7-928c-48b436b80682",
       "title": "Partnerships Intern",
       "url": "https://jobs.ashbyhq.com/relayfi/a48c120d-20d9-4db0-8384-b281fd85b742/application",
@@ -15090,14 +15270,6 @@
       "company": "Nokia"
     },
     {
-      "id": "simplify:d0ea20c1-d9ca-43d1-a55a-9c686954cc52",
-      "title": "Product Marketing Literacy Intern",
-      "url": "https://amplify.wd1.myworkdayjobs.com/en-US/Amplify_Careers/job/Remote---United-States/Product-Marketing-Literacy-Intern_Req_12290",
-      "location": "Remote in USA",
-      "department": "Product",
-      "company": "Amplify"
-    },
-    {
       "id": "simplify:929dc587-1eaa-43f7-ba79-b1cec91e182f",
       "title": "Embedded Developer Intern - Photon/Orbit",
       "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5182934008",
@@ -15112,14 +15284,6 @@
       "location": "Toronto, ON, Canada / Oakville, ON, Canada / Kitchener, ON, Canada",
       "department": "Software",
       "company": "Geotab"
-    },
-    {
-      "id": "simplify:87e1f406-2b57-4d98-9b4f-2b0c197085e3",
-      "title": "Data Engineer Intern",
-      "url": "https://strideinc.wd1.myworkdayjobs.com/en-US/SK/job/US-Nationwide---Remote/Data-Engineering-Intern_JR114182",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "Stride"
     },
     {
       "id": "simplify:6138989f-798d-491a-aaf7-14a88ebc2816",
@@ -15170,6 +15334,14 @@
       "company": "Compa"
     },
     {
+      "id": "simplify:3443ba84-151d-4603-9bac-28bf93227ed5",
+      "title": "Internship Program - Multiple Teams",
+      "url": "https://job-boards.greenhouse.io/xebiausa/jobs/5988141004",
+      "location": "Atlanta, GA",
+      "department": "Software",
+      "company": "Xebia"
+    },
+    {
       "id": "simplify:bd3d7583-e8aa-4a2e-b00f-42725db1f17e",
       "title": "Product Marketing Intern",
       "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5184516008",
@@ -15202,20 +15374,20 @@
       "company": "Lumentum"
     },
     {
+      "id": "simplify:5a1ea7e3-a9d3-4b99-9b7f-9cbc5562db04",
+      "title": "Marketing Intern",
+      "url": "https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4556",
+      "location": "Vandalia, OH",
+      "department": "Product",
+      "company": "Midmark "
+    },
+    {
       "id": "simplify:0fccd064-46a1-44c3-9f4a-a55025dde260",
       "title": "Database Software Developer Intern/Co-op",
       "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Database-Software-Developer---4-Month-Internship-Co-op--Fall-2026-_R153119",
       "location": "Montreal, QC, Canada",
       "department": "AI/ML/Data",
       "company": "Intact"
-    },
-    {
-      "id": "simplify:a466822d-ab0a-484f-b845-97dce9a2f87b",
-      "title": "Software Development Intern",
-      "url": "https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Longwood-Florida/Software-Development-Intern_R-08950-1",
-      "location": "Altamonte Springs, FL",
-      "department": "Software",
-      "company": "IDEX"
     },
     {
       "id": "simplify:3ef6005a-dc19-43a2-ae36-e463222f6fa7",
@@ -15264,6 +15436,14 @@
       "location": "Charlotte, NC",
       "department": "AI/ML/Data",
       "company": "PSA Airlines"
+    },
+    {
+      "id": "simplify:47e93c35-6beb-41fc-bb7f-81c35722ff8d",
+      "title": "Design Methodology Engineer Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/Design-Methodology-Engineering-Intern_JR0283526",
+      "location": "Remote in Canada",
+      "department": "Hardware",
+      "company": "Intel"
     },
     {
       "id": "simplify:f8d8bb70-cd96-494d-9f28-b2dd029d20c9",
@@ -15378,6 +15558,14 @@
       "company": "Skydio"
     },
     {
+      "id": "simplify:fd5a8521-4005-4532-8abf-fbe39bd79e6e",
+      "title": "Junior Cyber Electromagnetic Activities Software Engineer Intern",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Lawton-OK/Junior-CEMA-Software-Engineer-Intern_R-00182554",
+      "location": "Stillwater, OK / Edmond, OK / Oklahoma City, OK / Lawton, OK / Norman, OK",
+      "department": "Software",
+      "company": "Leidos"
+    },
+    {
       "id": "simplify:841512a1-c8d5-4de1-82ab-6d5025bacc53",
       "title": "Capital Markets Intern - Global Equities - Fall Sales & Trading Analyst",
       "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Capital-Markets--Global-Equities--Fall-Sales---Trading-Analyst--4-Months-_R-0000171251",
@@ -15408,6 +15596,14 @@
       "location": "NYC",
       "department": "AI/ML/Data",
       "company": "Metropolitan Transportation Authority"
+    },
+    {
+      "id": "simplify:b8efe27f-c76a-4d68-a3e0-7223c8e08ef8",
+      "title": "Software Developer Co-op/Intern - Core Algorithms",
+      "url": "https://careers-kinaxis.icims.com/jobs/34701/job?mobile=true&needsRedirect=false",
+      "location": "Ottawa, ON, Canada",
+      "department": "Software",
+      "company": "Kinaxis"
     },
     {
       "id": "simplify:887f3f55-7978-4701-82c2-cca88b947614",
@@ -15522,6 +15718,30 @@
       "company": "Robert Bosch Venture Capital"
     },
     {
+      "id": "simplify:77a2f3fc-f657-4d3a-a64b-2832e7edb34c",
+      "title": "Software Developer Co-op/Intern - Core Algorithms - Life Sciences",
+      "url": "https://careers-kinaxis.icims.com/jobs/34704/job?mobile=true&needsRedirect=false",
+      "location": "Ottawa, ON, Canada",
+      "department": "Software",
+      "company": "Kinaxis"
+    },
+    {
+      "id": "simplify:62bd536b-f4d0-4002-8206-67fda1fd000e",
+      "title": "Clinical AI Engineer Intern",
+      "url": "https://lumeris.wd1.myworkdayjobs.com/en-US/LC/job/Massachusetts/Clinical-AI-Engineering-Intern_R0007018",
+      "location": "Massachusetts",
+      "department": "AI/ML/Data",
+      "company": "Lumeris"
+    },
+    {
+      "id": "simplify:40437c0f-7771-4ec0-aedd-aa6abd7ed518",
+      "title": "Engineering Intern",
+      "url": "https://www.cockroachlabs.com/careers/job/?gh_jid=7768261",
+      "location": "NYC",
+      "department": "Software",
+      "company": "Cockroach Labs"
+    },
+    {
       "id": "simplify:a4914ef5-18b0-4cd6-a548-0c969b72a54d",
       "title": "Marketing Data Analytics Intern",
       "url": "https://gtweed.wd1.myworkdayjobs.com/Careers/job/Lansdale-PA-United-States-of-America/Marketing-Data-Analytics-Intern_R4483",
@@ -15560,6 +15780,14 @@
       "location": "Mountain View, CA",
       "department": "AI/ML/Data",
       "company": "Waymo"
+    },
+    {
+      "id": "simplify:bebbeff8-81af-4e7a-b6f6-7658307b38b6",
+      "title": "Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398",
+      "location": "Santa Clara, CA",
+      "department": "AI/ML/Data",
+      "company": "NVIDIA"
     },
     {
       "id": "simplify:13b36132-b9cb-42d8-bc06-e610c7b94edc",
@@ -15642,6 +15870,14 @@
       "company": "Matterworks"
     },
     {
+      "id": "simplify:53f8fb29-baff-4860-abf4-e65d1cd1a500",
+      "title": "Mobile Engineer Intern - Android/iOS",
+      "url": "https://ats.rippling.com/veryable-careers/jobs/cf74672c-c9c5-4be5-8858-04abfd64c20f",
+      "location": "Dallas, TX",
+      "department": "Software",
+      "company": "Veryable"
+    },
+    {
       "id": "simplify:c1eb078d-ad63-4bd4-ac05-17a062fdd7ae",
       "title": "Mechanical Assembly Integration and Test Intern",
       "url": "https://jobs.lever.co/dodmg/cb7099eb-ec49-4846-a665-a50496a7ad66/apply",
@@ -15656,6 +15892,14 @@
       "location": "Oxnard, CA",
       "department": "Hardware",
       "company": "Rolls-Royce Motorcars"
+    },
+    {
+      "id": "simplify:870bfe1c-ab9e-49e0-873b-8346dabd4abb",
+      "title": "PhD Technical Intern - Vision AI",
+      "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Redmond-Washington/PhD-Technical-Intern---Vision-AI_JR107223",
+      "location": "Redmond, WA",
+      "department": "Product",
+      "company": "Centific"
     },
     {
       "id": "simplify:bdb19822-0375-464d-9ad5-aaa6852961c5",
@@ -15762,6 +16006,14 @@
       "company": "Microsoft"
     },
     {
+      "id": "simplify:c7f1c784-ada4-411c-85aa-060cd89e52c6",
+      "title": "Software Developer Intern",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=7905463",
+      "location": "Montreal, QC, Canada",
+      "department": "Software",
+      "company": "Squarepoint Capital"
+    },
+    {
       "id": "simplify:9b4f7a28-0dbb-4edb-a018-074ceb56e8b2",
       "title": "Digital Applications Intern",
       "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Irvine/Digital-Apps-Intern_R0320993-1",
@@ -15776,6 +16028,14 @@
       "location": "Montreal, QC, Canada / Toronto, ON, Canada / Ottawa, ON, Canada / Kitchener, ON, Canada",
       "department": "AI/ML/Data",
       "company": "Sun Life"
+    },
+    {
+      "id": "simplify:cf67b47f-ab6f-425e-aba9-52f7fbca42f3",
+      "title": "Engineer Intern",
+      "url": "https://energynorthwest.wd1.myworkdayjobs.com/External/job/Richland-WA/Engineering-Intern---Year-Round_REQ26_162-1",
+      "location": "Richland, WA",
+      "department": "Software",
+      "company": "Energy Northwest"
     },
     {
       "id": "simplify:9259b927-fb9f-421c-95d0-f346a63020a3",
@@ -16010,12 +16270,12 @@
       "company": "Snowflake"
     },
     {
-      "id": "simplify:0a242b5a-dc37-4797-8809-085298375cce",
-      "title": "Software Engineer Intern - Core Engineering",
-      "url": "https://jobs.ashbyhq.com/snowflake/4f34aefa-681b-4aa8-a0ea-28ce56c9f1a5/application",
-      "location": "Menlo Park, CA / Bellevue, WA",
-      "department": "Software",
-      "company": "Snowflake"
+      "id": "simplify:cd2ecb0f-e6e0-4b6a-88d4-f45f6168c70b",
+      "title": "Collections Data Analyst Intern",
+      "url": "https://careers.tranetechnologies.com/global/en/job/JR-4222",
+      "location": "Winona, MN",
+      "department": "AI/ML/Data",
+      "company": "Trane Technologies"
     },
     {
       "id": "simplify:d5f7661a-ee59-46f6-a9f2-5dcab7e06996",
@@ -16040,6 +16300,14 @@
       "location": "NYC",
       "department": "Product",
       "company": "Eulerity"
+    },
+    {
+      "id": "simplify:10b8ba9b-4b53-4c9d-ac43-9343422d6e2d",
+      "title": "Associate Product Manager Intern",
+      "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--September-2026-12-Months-_R10041",
+      "location": "Mississauga, ON, Canada",
+      "department": "Product",
+      "company": "SOTI"
     },
     {
       "id": "simplify:d4103279-9c02-416a-8d30-0208b8195dc8",
@@ -16266,12 +16534,28 @@
       "company": "Tencent"
     },
     {
+      "id": "simplify:2b2e9c95-048c-4a41-96cc-94af877774ee",
+      "title": "Business Intelligence Developer/Engineer Engineer Intern - Ecco",
+      "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---ECCO--Business-Intelligence-Developer-Engineer-Intern--4-Months-_R-0000171015-1",
+      "location": "Toronto, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "Royal Bank of Canada"
+    },
+    {
       "id": "simplify:030bc355-b4ec-4fb5-b2c1-d475d7577494",
       "title": "Category Assistant Intern",
       "url": "https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/DEU-North-Rhine-Westphalia-Dsseldorf/JD-Young-Category-Assistant-Internship_JR102473-1",
       "location": "Neukirchen-Vluyn, Germany / Berlin, Germany",
       "department": "Product",
       "company": "JINGDONG"
+    },
+    {
+      "id": "simplify:782ded0d-171f-4d4c-8723-e6aebf486455",
+      "title": "Business Intelligence Developer/Engineer Intern - Ecco",
+      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---ECCO--Business-Intelligence-Developer-Engineer-Intern--4-Months-_R-0000171015",
+      "location": "Toronto, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "Royal Bank of Canada"
     },
     {
       "id": "simplify:b40fa525-d2cc-4c11-b30a-5983e78f3a93",
@@ -16306,12 +16590,28 @@
       "company": "OraSure Technologies"
     },
     {
+      "id": "simplify:001ac4b8-e3c8-40dd-a035-c12fc1493b30",
+      "title": "Machine Learning Intern",
+      "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Chicago-IL-USA/Machine-Learning-Intern--Fall-2026--Internship----4-months_R260014372",
+      "location": "Chicago, IL",
+      "department": "AI/ML/Data",
+      "company": "Bank of Montreal"
+    },
+    {
       "id": "simplify:5e0c64b0-6901-45ea-ae43-9e35597b98a8",
       "title": "Mechatronics Engineer Intern",
       "url": "https://jobs.smartrecruiters.com/Wabtec/3743990013068286",
       "location": "London, ON, Canada",
       "department": "Hardware",
       "company": "Wabtec"
+    },
+    {
+      "id": "simplify:10ea6ba5-ff6a-4396-9ba5-86f0e059112c",
+      "title": "Machine Learning Intern",
+      "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Chicago-IL-USA/Machine-Learning-Intern--Fall-2026--Internship----4-months_R260014372-2",
+      "location": "Chicago, IL",
+      "department": "AI/ML/Data",
+      "company": "Bank of Montreal"
     },
     {
       "id": "simplify:f11a31a6-cfa0-4524-81b9-15e3ed97acaf",
@@ -16418,6 +16718,14 @@
       "company": "Super"
     },
     {
+      "id": "simplify:572bd542-bdd6-4494-adf5-c3e38316b280",
+      "title": "Software Developer Intern",
+      "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--September-2026-12-Months-_R10025",
+      "location": "Mississauga, ON, Canada",
+      "department": "Software",
+      "company": "SOTI"
+    },
+    {
       "id": "simplify:9ef7efda-4769-4f8d-ab7d-c545cde957bb",
       "title": "Data Analytics Intern - Risk & Fraud",
       "url": "https://jobs.ashbyhq.com/super.com/8355a2fc-34bc-45b0-b8d6-39e558940cef/application",
@@ -16488,6 +16796,14 @@
       "location": "Santa Cruz, CA",
       "department": "Hardware",
       "company": "Heron Power"
+    },
+    {
+      "id": "simplify:562cbc1f-78de-477b-af0a-f684cdf59545",
+      "title": "Machine Learning Intern",
+      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Machine-Learning-Intern--Fall-2026--Internship----4-months_R260014372-1",
+      "location": "Chicago, IL",
+      "department": "AI/ML/Data",
+      "company": "Bank of Montreal"
     },
     {
       "id": "simplify:499c839a-124c-447e-a899-7efe0b8b4f17",
@@ -16640,6 +16956,158 @@
       "location": "Atlanta, GA",
       "department": "Software",
       "company": "Falcomm"
+    },
+    {
+      "id": "simplify:71fb490d-c790-4b95-b8eb-fd2a362fe5ed",
+      "title": "Learning & Development Intern",
+      "url": "https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Arlington-VA/Supply-Chain-Learning---Development-Intern_R1063195",
+      "location": "Arlington, VA",
+      "department": "Software",
+      "company": "AES"
+    },
+    {
+      "id": "simplify:e2e48bac-63bc-4318-9576-1e112d693b8d",
+      "title": "Research Scientist Intern - Photorealistic Telepresence",
+      "url": "https://www.metacareers.com/jobs/2022109075207025",
+      "location": "Sausalito, CA / Redmond, WA / Pittsburgh, PA",
+      "department": "AI/ML/Data",
+      "company": "Meta"
+    },
+    {
+      "id": "simplify:fefd236d-3538-4ece-a31f-6cd5f43cf0c9",
+      "title": "Statistical Genetics Data Science Intern",
+      "url": "https://insmed.wd5.myworkdayjobs.com/EXTERNAL/job/Research-Development-Lab---Cambridge/Statistical-Genetics---Data-Science-Intern_R3409",
+      "location": "Cambridge, UK",
+      "department": "AI/ML/Data",
+      "company": "Insmed"
+    },
+    {
+      "id": "simplify:86322454-a77f-4553-99d1-a2f5378148d7",
+      "title": "Reliability Design Intern",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4681471006",
+      "location": "SF",
+      "department": "Hardware",
+      "company": "Astranis"
+    },
+    {
+      "id": "simplify:69dc6696-07f9-4a4b-b7fb-83207f4540b5",
+      "title": "Design Engineering Intern",
+      "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Cleveland-OH/Intern--Design-Engineering_R-26-16797",
+      "location": "Cleveland, OH",
+      "department": "Hardware",
+      "company": "Moog "
+    },
+    {
+      "id": "simplify:e018a2ac-82d3-4544-85aa-440aa29efa03",
+      "title": "Software Development Intern",
+      "url": "https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Development-Intern_JR100290",
+      "location": "New Mexico / Washington / Kansas / Pennsylvania / North Dakota / Oregon / Delaware / Iowa / California / Washington, DC / Vermont / Wyoming / Texas / Montana / Jackson Township, NJ / Florida / Waterbury, CT / Nevada / South Carolina / South Dakota / Georgia / Arizona / Concord, NH / Mississippi / Tennessee / Virginia / Arkansas / Minnesota / Colorado / Nebraska / Rhode Island / Utah / Kentucky / West Virginia / NYC / Maryland / Hawaii / Wisconsin / Maine / Massachusetts / North Carolina / Oklahoma / Missouri / Ohio / Indiana / Louisiana / Alaska / Michigan / Illinois / Alabama / Idaho",
+      "department": "Software",
+      "company": "Cisive"
+    },
+    {
+      "id": "simplify:510a5602-ff86-4446-beab-a4a99a37f9a5",
+      "title": "Supply Chain Data & Analytics Intern - Multiple Teams",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000126390414",
+      "location": "Plymouth, MI",
+      "department": "AI/ML/Data",
+      "company": "Robert Bosch Venture Capital"
+    },
+    {
+      "id": "simplify:c8656ce0-8929-4c11-959b-2a699e5f93d5",
+      "title": "AI and Data Analytics Intern",
+      "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Sterling/AI-and-Data-Analytics-Intern_RQ219965",
+      "location": "Dulles, VA",
+      "department": "AI/ML/Data",
+      "company": "General Dynamics Information Technology"
+    },
+    {
+      "id": "simplify:855330a8-8ad4-40b3-9ee1-7080a37406ba",
+      "title": "Assembly and Test Intern - Integration",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4679080006",
+      "location": "SF",
+      "department": "Hardware",
+      "company": "Astranis"
+    },
+    {
+      "id": "simplify:20fd552d-3f73-4f9b-8983-f8c6037b0835",
+      "title": "AI Intern",
+      "url": "https://jobs-bylight.icims.com/jobs/10965/job?mobile=true&needsRedirect=false",
+      "location": "Hanover, MD",
+      "department": "Software",
+      "company": "By Light Professional IT Services"
+    },
+    {
+      "id": "simplify:15c17df5-3269-4d19-93d8-2418771d87cb",
+      "title": "AI and Data Analytics Intern",
+      "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Sterling/AI-and-Data-Analytics-Intern_RQ219996",
+      "location": "Dulles, VA",
+      "department": "AI/ML/Data",
+      "company": "General Dynamics Information Technology"
+    },
+    {
+      "id": "simplify:4be260c2-8590-4fec-934b-4a4485a5abc2",
+      "title": "Software Developer Co-op/Intern - Developer Framework",
+      "url": "https://careers-kinaxis.icims.com/jobs/34763/job?mobile=true&needsRedirect=false",
+      "location": "Ottawa, ON, Canada",
+      "department": "Software",
+      "company": "Kinaxis"
+    },
+    {
+      "id": "simplify:a4eb4eaf-fbaa-4070-8e0f-a01972859942",
+      "title": "AI and Data Analytics Intern",
+      "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Sterling/AI-and-Data-Analytics-Intern_RQ219968",
+      "location": "Dulles, VA",
+      "department": "AI/ML/Data",
+      "company": "General Dynamics Information Technology"
+    },
+    {
+      "id": "simplify:a4783e6a-8a2f-4833-9266-9e189849ea23",
+      "title": "Software Engineering Intern",
+      "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-17769",
+      "location": "Buffalo, NY",
+      "department": "Hardware",
+      "company": "Moog "
+    },
+    {
+      "id": "simplify:8e361239-f612-4264-9395-2bc545ff95d5",
+      "title": "Data Services Intern",
+      "url": "https://careers-cfins.icims.com/jobs/4953/job?mobile=true&needsRedirect=false",
+      "location": "Morristown, NJ",
+      "department": "AI/ML/Data",
+      "company": "Crum & Forster Insurance"
+    },
+    {
+      "id": "simplify:1f3992a5-b615-416d-8650-f6a6a7316db4",
+      "title": "Machine Learning Engineer Intern",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7914628",
+      "location": "Austin, TX",
+      "department": "AI/ML/Data",
+      "company": "Cloudflare"
+    },
+    {
+      "id": "simplify:ee43242e-e576-41dd-b7b1-74beb01b8853",
+      "title": "Firmware Engineer Intern",
+      "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CA-Sunnyvale/Firmware-Engineer-Intern_R56042",
+      "location": "Sunnyvale, CA",
+      "department": "Hardware",
+      "company": "Trimble"
+    },
+    {
+      "id": "simplify:d64ccdab-78f3-46c4-9eac-43520a5591b2",
+      "title": "Thermal Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4604266006",
+      "location": "SF",
+      "department": "Hardware",
+      "company": "Astranis"
+    },
+    {
+      "id": "simplify:2ffff810-e650-4bde-9aae-abf6fab346f5",
+      "title": "Applications Engineering Internship",
+      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7732511003",
+      "location": "El Segundo, CA",
+      "department": "AI/ML/Data",
+      "company": "Varda Space"
     },
     {
       "id": "vansh:d2c404c8-5895-4ec0-95c2-3d17aed38beb",
