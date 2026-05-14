@@ -1,6 +1,6 @@
 # Open Internships
 
-**3075** internships across **63/63** companies — last updated 2026-05-14.
+**3071** internships across **63/63** companies — last updated 2026-05-14.
 
 ## Companies
 
@@ -140,7 +140,6 @@
 - [Barkback](#barkback) (1)
 - [Baseten](#baseten) (1)
 - [Beckman Coulter Life Sciences](#beckman-coulter-life-sciences) (1)
-- [Becton Dickinson](#becton-dickinson) (1)
 - [Benjamin Moore](#benjamin-moore) (1)
 - [BeOne](#beone) (2)
 - [Berkshire Grey](#berkshire-grey) (1)
@@ -487,7 +486,6 @@
 - [HCompany](#hcompany) (1)
 - [HD Supply](#hd-supply) (1)
 - [Hearst](#hearst) (2)
-- [HeartFlow](#heartflow) (1)
 - [Herdora](#herdora) (2)
 - [HERE Technologies](#here-technologies) (3)
 - [Hermeus](#hermeus) (7)
@@ -535,7 +533,6 @@
 - [Innovative Defense Technologies](#innovative-defense-technologies) (1)
 - [Innovative Defense Technologies (IDT)](#innovative-defense-technologies-idt) (2)
 - [Inogen](#inogen) (2)
-- [Insitro](#insitro) (1)
 - [Insmed](#insmed) (1)
 - [Insomniac](#insomniac) (1)
 - [Inspire](#inspire) (1)
@@ -795,7 +792,7 @@
 - [Qorvo](#qorvo) (4)
 - [QTS](#qts) (5)
 - [Quad](#quad) (1)
-- [Quadric](#quadric) (3)
+- [Quadric](#quadric) (2)
 - [Qualcomm](#qualcomm) (4)
 - [Qualitest](#qualitest) (1)
 - [QuantCo](#quantco) (1)
@@ -2172,12 +2169,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [AI-Powered Marketing Operations & Project Management Intern](https://jobs.danaher.com/global/en/job/DANAGLOBALR1294771EXTERNALENGLOBAL/AI-Powered-Marketing-Operations-Project-Management-Intern) | Indianapolis, IN | — | 2026-05-09 |
-
-## Becton Dickinson
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Business Data Analytics Intern - Channel Coverage](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Business-Data-Analytics-Intern--Channel-Coverage_R-544035) | New Mexico / Washington / Kansas / Pennsylvania / North Dakota / Oregon / Delaware / Iowa / California / Washington, DC / Vermont / Wyoming / Texas / Montana / Jackson Township, NJ / Sparks, MD / Florida / Waterbury, CT / Nevada / South Carolina / South Dakota / Georgia / Concord, NH / Mississippi / Tennessee / Virginia / Arkansas / Minnesota / Colorado / Nebraska / Rhode Island / Utah / Hawaii, United States / Kentucky / West Virginia / NYC / Maryland / Wisconsin / Maine / Massachusetts / North Carolina / Oklahoma / Missouri / Ohio / Indiana / Louisiana / Alaska / Michigan / Illinois / Idaho | AI/ML/Data | 2026-05-14 |
 
 ## Benjamin Moore
 
@@ -4675,12 +4666,6 @@
 | [Chronicle & Engineering Intern](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2026173) | Needham, MA | AI/ML/Data | 2026-05-09 |
 | [Editorial AI Development Intern](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2026254) | SF | AI/ML/Data | 2026-05-09 |
 
-## HeartFlow
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Software Engineer Intern - ML Ops / Compute Migration](https://job-boards.greenhouse.io/heartflowinc/jobs/5798443004) | SF | Software | 2026-05-09 |
-
 ## Herdora
 
 | Title | Location | Department | First seen |
@@ -5032,12 +5017,6 @@
 | --- | --- | --- | --- |
 | [Embedded Systems Engineering Intern](https://jobs.jobvite.com/careers/inogen/job/oFzUxfwp) | Plano, TX | — | 2026-05-09 |
 | [Firmware Engineering Intern](https://careers.inogen.com/jobs/16468940-firmware-engineering-intern?tm_job=1456&tm_event=view&tm_company=89058) | Plano, TX | — | 2026-05-09 |
-
-## Insitro
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Machine Learning Intern](https://jobs.ashbyhq.com/insitro/785db2de-c425-401c-869c-fff3e14fcdea/application) | San Bruno, CA | AI/ML/Data | 2026-05-09 |
 
 ## Insmed
 
@@ -7127,7 +7106,6 @@
 | --- | --- | --- | --- |
 | [Data Science Intern - Model Optimization](https://apply.workable.com/quadric-dot-i-o-inc/j/52EA39411C/apply) | Burlingame, CA | AI/ML/Data | 2026-05-14 |
 | [Software Engineer Intern - Compiler](https://apply.workable.com/quadric-dot-i-o-inc/j/4F8EDFF366/apply) | Burlingame, CA | Software | 2026-05-09 |
-| [Software Engineer Intern - Kernels](https://apply.workable.com/quadric-dot-i-o-inc/j/369989F805/apply) | Burlingame, CA | Hardware | 2026-05-09 |
 
 ## Qualcomm
 
@@ -8289,8 +8267,8 @@
 | [PhD Machine Learning Engineer Intern](https://stripe.com/jobs/search?gh_jid=7216664) | Seattle, WA / SF / NYC | AI/ML/Data | 2026-05-09 |
 | [Software Engineer Intern](https://stripe.com/jobs/listing/software-engineer-intern-summer-and-winter/7210115) | South San Francisco, CA / Seattle, WA / New York, NY | — | 2026-05-09 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | Mexico City, Mexico | — | 2026-05-06 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7216664) | San Francisco, New York City, Seattle | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | Singapore | — | 2026-05-06 |

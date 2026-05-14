@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-14T20:46:10.465Z",
+  "generatedAt": "2026-05-14T22:00:50.891Z",
   "companyCount": 63,
   "okCount": 63,
-  "jobCount": 3075,
+  "jobCount": 3071,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -569,7 +569,6 @@
     "simplify:48efeec3-63c0-4918-a7aa-8b590aa52939": "2026-05-09T15:28:15.527Z",
     "simplify:38bff1c7-62f2-4905-a514-c01224657e91": "2026-05-09T15:28:15.527Z",
     "simplify:93eb8bdd-1b74-4345-9aa8-6b080bf41c61": "2026-05-09T15:28:15.527Z",
-    "simplify:09c17ac3-4f05-4694-bc88-1b4ee5c0b54b": "2026-05-09T15:28:15.527Z",
     "simplify:dfc00828-c7c0-4c1f-8cf1-408bff5cfe58": "2026-05-09T15:28:15.527Z",
     "simplify:f475cc92-df02-4ec4-980c-f40bb58ff38d": "2026-05-09T15:28:15.527Z",
     "simplify:f27a5872-0669-4ba7-b0f2-a1a330f75855": "2026-05-09T15:28:15.527Z",
@@ -819,7 +818,6 @@
     "simplify:6550cd4c-1ede-4aa6-86a8-dcafc8cae505": "2026-05-09T15:28:15.527Z",
     "simplify:72234fcf-6866-4797-aa4b-afd49f2e7924": "2026-05-09T15:28:15.527Z",
     "simplify:c5d99aec-a24e-48a7-a680-3954ba770c54": "2026-05-09T15:28:15.527Z",
-    "simplify:21f55edc-715b-44a3-87fe-ffbb071bbf22": "2026-05-09T15:28:15.527Z",
     "simplify:f33deafa-a6df-4112-b056-c1309541ae79": "2026-05-09T15:28:15.527Z",
     "simplify:0af424c7-d1b7-4441-bd3d-cfed627d70fe": "2026-05-09T15:28:15.527Z",
     "simplify:120a581b-07a7-488c-8947-a7a7c018bd10": "2026-05-09T15:28:15.527Z",
@@ -1177,7 +1175,6 @@
     "simplify:31c0eb7d-29bd-4b96-952f-697c821e710f": "2026-05-09T15:28:15.527Z",
     "simplify:8446df16-f5f1-4fe4-9c20-44f6c0661737": "2026-05-09T15:28:15.527Z",
     "simplify:4d4a1509-fccd-40a4-9160-8d4cef973482": "2026-05-09T15:28:15.527Z",
-    "simplify:0fb7dd0f-b805-4a7a-806b-52ac48ca9e2c": "2026-05-09T15:28:15.527Z",
     "simplify:1045e146-b1e5-48e8-b69a-eebdacc1d4cd": "2026-05-09T15:28:15.527Z",
     "simplify:beea6a1a-8419-4090-927a-29144ff64e62": "2026-05-09T15:28:15.527Z",
     "simplify:cd76d887-f0b0-4311-bbae-ad2ce6f198ee": "2026-05-09T15:28:15.527Z",
@@ -2949,7 +2946,6 @@
     "simplify:4440559e-416b-4444-9db8-a21b61996743": "2026-05-14T01:31:29.727Z",
     "simplify:8a0769fc-4aa4-4b2f-a6e9-d5fcc27c11a6": "2026-05-14T01:31:29.727Z",
     "simplify:7248f7be-bf62-4a1b-a01b-3e4f27918644": "2026-05-14T01:31:29.727Z",
-    "simplify:0718fecc-0b61-46aa-a33c-44fa02cce82a": "2026-05-14T01:31:29.727Z",
     "simplify:5e6027c1-06ff-4833-98fc-5748108833bf": "2026-05-14T01:31:29.727Z",
     "simplify:b9a99f84-c011-4f16-806a-8ad02e98b530": "2026-05-14T01:31:29.727Z",
     "simplify:e18b5659-3658-49dd-a554-9ba2b49123a9": "2026-05-14T01:31:29.727Z",
@@ -3642,14 +3638,6 @@
       "company": "Replit"
     },
     {
-      "id": "7544547",
-      "title": "Operations Associate, New Grad (Mexico)",
-      "url": "https://stripe.com/jobs/search?gh_jid=7544547",
-      "location": "Mexico City, Mexico",
-      "department": "",
-      "company": "Stripe"
-    },
-    {
       "id": "7913505",
       "title": "Operations Associate, New Grad (Mexico)",
       "url": "https://stripe.com/jobs/search?gh_jid=7913505",
@@ -3658,10 +3646,10 @@
       "company": "Stripe"
     },
     {
-      "id": "7285974",
-      "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "id": "7544547",
+      "title": "Operations Associate, New Grad (Mexico)",
+      "url": "https://stripe.com/jobs/search?gh_jid=7544547",
+      "location": "Mexico City, Mexico",
       "department": "",
       "company": "Stripe"
     },
@@ -3670,6 +3658,14 @@
       "title": "PhD Data Scientist, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=7874965",
       "location": "San Francisco, New York City, Seattle, Chicago",
+      "department": "",
+      "company": "Stripe"
+    },
+    {
+      "id": "7285974",
+      "title": "PhD Data Scientist, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe"
     },
@@ -7826,14 +7822,6 @@
       "company": "KBR"
     },
     {
-      "id": "simplify:09c17ac3-4f05-4694-bc88-1b4ee5c0b54b",
-      "title": "Software Engineer Intern - ML Ops / Compute Migration",
-      "url": "https://job-boards.greenhouse.io/heartflowinc/jobs/5798443004",
-      "location": "SF",
-      "department": "Software",
-      "company": "HeartFlow"
-    },
-    {
       "id": "simplify:dfc00828-c7c0-4c1f-8cf1-408bff5cfe58",
       "title": "Engineering Intern - Summer 2026",
       "url": "https://jobs.ashbyhq.com/charge-robotics/81799a5b-c23f-4d17-9cce-af01b1d44ad9/application",
@@ -10152,14 +10140,6 @@
       "location": "London, UK / SF / NYC / Munich, Germany",
       "department": "Software",
       "company": "Uncountable"
-    },
-    {
-      "id": "simplify:21f55edc-715b-44a3-87fe-ffbb071bbf22",
-      "title": "Machine Learning Intern",
-      "url": "https://jobs.ashbyhq.com/insitro/785db2de-c425-401c-869c-fff3e14fcdea/application",
-      "location": "San Bruno, CA",
-      "department": "AI/ML/Data",
-      "company": "Insitro"
     },
     {
       "id": "simplify:f33deafa-a6df-4112-b056-c1309541ae79",
@@ -13506,14 +13486,6 @@
       "company": "General Dynamics Mission Systems"
     },
     {
-      "id": "simplify:0718fecc-0b61-46aa-a33c-44fa02cce82a",
-      "title": "Business Data Analytics Intern - Channel Coverage",
-      "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Business-Data-Analytics-Intern--Channel-Coverage_R-544035",
-      "location": "New Mexico / Washington / Kansas / Pennsylvania / North Dakota / Oregon / Delaware / Iowa / California / Washington, DC / Vermont / Wyoming / Texas / Montana / Jackson Township, NJ / Sparks, MD / Florida / Waterbury, CT / Nevada / South Carolina / South Dakota / Georgia / Concord, NH / Mississippi / Tennessee / Virginia / Arkansas / Minnesota / Colorado / Nebraska / Rhode Island / Utah / Hawaii, United States / Kentucky / West Virginia / NYC / Maryland / Wisconsin / Maine / Massachusetts / North Carolina / Oklahoma / Missouri / Ohio / Indiana / Louisiana / Alaska / Michigan / Illinois / Idaho",
-      "department": "AI/ML/Data",
-      "company": "Becton Dickinson"
-    },
-    {
       "id": "simplify:fe2090ae-0404-47d2-89f2-e46316098fcd",
       "title": "Software Engineering Intern",
       "url": "https://jobs.ashbyhq.com/sieve/b319e35e-2455-4c63-ae3d-721bc7dbffc9/application",
@@ -13664,14 +13636,6 @@
       "location": "Farmington, CT",
       "department": "Hardware",
       "company": "IDEX"
-    },
-    {
-      "id": "simplify:0fb7dd0f-b805-4a7a-806b-52ac48ca9e2c",
-      "title": "Software Engineer Intern - Kernels",
-      "url": "https://apply.workable.com/quadric-dot-i-o-inc/j/369989F805/apply",
-      "location": "Burlingame, CA",
-      "department": "Hardware",
-      "company": "Quadric"
     },
     {
       "id": "simplify:1045e146-b1e5-48e8-b69a-eebdacc1d4cd",
