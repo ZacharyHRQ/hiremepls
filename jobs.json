@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-14T12:16:09.293Z",
+  "generatedAt": "2026-05-14T15:03:17.159Z",
   "companyCount": 63,
   "okCount": 63,
-  "jobCount": 3086,
+  "jobCount": 3104,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -2892,7 +2892,6 @@
     "vansh:dc436321-255d-47c6-a34d-1082dec4ae93": "2026-05-12T10:13:29.683Z",
     "vansh:a2dce597-620e-4dde-bddf-a1a9603a1f88": "2026-05-12T10:13:29.683Z",
     "simplify:7b7682f7-99f1-4bed-8782-ddb3cc5d6692": "2026-05-12T15:18:26.429Z",
-    "simplify:49a613fe-0291-4b1e-9d57-00c3a580dfe0": "2026-05-12T15:18:26.429Z",
     "simplify:9285d621-2d8d-4c98-8a94-fdf5e0e17ca6": "2026-05-12T15:18:26.429Z",
     "simplify:df2258f0-6f57-4fce-a3bd-e35e85a7dc0a": "2026-05-12T15:18:26.429Z",
     "simplify:36ead7f6-c8cd-43ee-ab7f-66e1294880a1": "2026-05-12T15:18:26.429Z",
@@ -3089,7 +3088,26 @@
     "simplify:55556c00-eb17-46a0-8914-66a19318e0f3": "2026-05-14T12:16:09.293Z",
     "simplify:bebbeff8-81af-4e7a-b6f6-7658307b38b6": "2026-05-14T12:16:09.293Z",
     "simplify:1bfadea3-2133-47d5-bdf1-61648de727f0": "2026-05-14T12:16:09.293Z",
-    "simplify:9b9c12fc-7c60-467e-aad5-fbd83ce6474c": "2026-05-14T12:16:09.293Z"
+    "simplify:9b9c12fc-7c60-467e-aad5-fbd83ce6474c": "2026-05-14T12:16:09.293Z",
+    "simplify:ca5eca0a-9078-4ac7-9951-872de0a08817": "2026-05-14T15:03:17.159Z",
+    "simplify:ea962e62-55ba-4c24-9b40-8d3309719bfa": "2026-05-14T15:03:17.159Z",
+    "simplify:ea9c61d2-6e61-4873-8b16-8c3aceed5962": "2026-05-14T15:03:17.159Z",
+    "simplify:fe972247-600c-481b-961d-3abad929c277": "2026-05-14T15:03:17.159Z",
+    "simplify:527f6229-0830-4b0d-bebf-9b948f241b44": "2026-05-14T15:03:17.159Z",
+    "simplify:c5e1e2ee-9028-41d8-8e43-8bed2a7fddb4": "2026-05-14T15:03:17.159Z",
+    "simplify:d9ea509b-1e6a-4984-8ede-eb92547cabed": "2026-05-14T15:03:17.159Z",
+    "simplify:a56a4571-143d-427e-a184-fea69c27b8eb": "2026-05-14T15:03:17.159Z",
+    "simplify:bafdf9d6-eb11-43b4-875d-8ac5adff7bf1": "2026-05-14T15:03:17.159Z",
+    "simplify:764b243c-75c2-4c30-a3b0-4b86543639ed": "2026-05-14T15:03:17.159Z",
+    "simplify:0d69d9c6-6063-4685-a9f6-1349bd899d26": "2026-05-14T15:03:17.159Z",
+    "simplify:fc80dc34-b90c-409e-826e-3cb8fe375363": "2026-05-14T15:03:17.159Z",
+    "simplify:2db79cb5-1519-49e1-90eb-ec0df441af72": "2026-05-14T15:03:17.159Z",
+    "simplify:4d7ad178-4be6-479d-bd8b-60b790ff41c0": "2026-05-14T15:03:17.159Z",
+    "simplify:43b2af20-7249-409a-804c-33660fbc084b": "2026-05-14T15:03:17.159Z",
+    "simplify:9134ffa0-42d0-4035-82d2-8d44374f9c03": "2026-05-14T15:03:17.159Z",
+    "simplify:62376be3-2d4f-4faa-b336-21857ee74cdb": "2026-05-14T15:03:17.159Z",
+    "simplify:1358b8e1-cf80-45f6-b1b4-54f484496784": "2026-05-14T15:03:17.159Z",
+    "simplify:c765fbcc-1405-41f5-9a6d-4f4cd363d475": "2026-05-14T15:03:17.159Z"
   },
   "jobs": [
     {
@@ -3413,18 +3431,18 @@
       "company": "Point72"
     },
     {
-      "id": "7297611002",
-      "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
-      "department": "",
-      "company": "Point72"
-    },
-    {
       "id": "7297598002",
       "title": "Cubist Quantitative Researcher Intern",
       "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
       "location": "Singapore",
+      "department": "",
+      "company": "Point72"
+    },
+    {
+      "id": "7297611002",
+      "title": "Cubist Quantitative Researcher Intern",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72"
     },
@@ -3661,14 +3679,6 @@
       "company": "Replit"
     },
     {
-      "id": "7544547",
-      "title": "Operations Associate, New Grad (Mexico)",
-      "url": "https://stripe.com/jobs/search?gh_jid=7544547",
-      "location": "Mexico City, Mexico",
-      "department": "",
-      "company": "Stripe"
-    },
-    {
       "id": "7913505",
       "title": "Operations Associate, New Grad (Mexico)",
       "url": "https://stripe.com/jobs/search?gh_jid=7913505",
@@ -3677,10 +3687,10 @@
       "company": "Stripe"
     },
     {
-      "id": "7874965",
-      "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "id": "7544547",
+      "title": "Operations Associate, New Grad (Mexico)",
+      "url": "https://stripe.com/jobs/search?gh_jid=7544547",
+      "location": "Mexico City, Mexico",
       "department": "",
       "company": "Stripe"
     },
@@ -3689,6 +3699,14 @@
       "title": "PhD Data Scientist, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=7285974",
       "location": "Toronto, Ontario, Canada",
+      "department": "",
+      "company": "Stripe"
+    },
+    {
+      "id": "7874965",
+      "title": "PhD Data Scientist, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe"
     },
@@ -4029,17 +4047,17 @@
       "company": "Cloudflare"
     },
     {
-      "id": "7582150",
+      "id": "7582169",
       "title": "Security Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
     },
     {
-      "id": "7582169",
+      "id": "7582150",
       "title": "Security Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
@@ -4085,18 +4103,18 @@
       "company": "Cloudflare"
     },
     {
-      "id": "7826176",
-      "title": "IT Support Technician Intern",
-      "url": "https://careers.datadoghq.com/detail/7826176/?gh_jid=7826176",
-      "location": "Paris, France",
-      "department": "",
-      "company": "Datadog"
-    },
-    {
       "id": "7391788",
       "title": "IT Support Technician Intern",
       "url": "https://careers.datadoghq.com/detail/7391788/?gh_jid=7391788",
       "location": "Boston, Massachusetts, USA",
+      "department": "",
+      "company": "Datadog"
+    },
+    {
+      "id": "7826176",
+      "title": "IT Support Technician Intern",
+      "url": "https://careers.datadoghq.com/detail/7826176/?gh_jid=7826176",
+      "location": "Paris, France",
       "department": "",
       "company": "Datadog"
     },
@@ -4368,6 +4386,22 @@
       "id": "simplify:ccfd9e62-9404-43cd-8f5b-2dab27ebf2b1",
       "title": "AI Applied Scientist Intern - Foundational IQ",
       "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Foundational-IQ_P748042",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "Zillow"
+    },
+    {
+      "id": "simplify:ca5eca0a-9078-4ac7-9951-872de0a08817",
+      "title": "AI Applied Scientist - PhD Intern - Next-Gen Agentic and Multi-Modal Home Exploration Experience",
+      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Next-Gen-Agentic-and-Multi-Modal-Home-Exploration-Experience_P748043",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "Zillow"
+    },
+    {
+      "id": "simplify:ea962e62-55ba-4c24-9b40-8d3309719bfa",
+      "title": "AI Applied Scientist - PhD Intern - Evaluation Systems and Metrics",
+      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Evaluation-Systems-and-Metrics_P748040",
       "location": "Remote in USA",
       "department": "AI/ML/Data",
       "company": "Zillow"
@@ -7765,6 +7799,14 @@
       "company": "Autodesk"
     },
     {
+      "id": "simplify:ea9c61d2-6e61-4873-8b16-8c3aceed5962",
+      "title": "AI Enablement Intern",
+      "url": "https://boards.greenhouse.io/supplyhouse/jobs/5796909004",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "SupplyHouse.com"
+    },
+    {
       "id": "simplify:e7edc8a3-8756-4127-82d1-45ef3ff3cee4",
       "title": "Security Software Engineer Project Intern - Product Security - 2026 Start",
       "url": "https://lifeattiktok.com/search/7600536394771564853",
@@ -9419,6 +9461,14 @@
       "location": "San Carlos, CA",
       "department": "AI/ML/Data",
       "company": "BeOne"
+    },
+    {
+      "id": "simplify:fe972247-600c-481b-961d-3abad929c277",
+      "title": "AI Intern",
+      "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Atlanta-GA-United-States/AI-Internships_JR-0088855-1",
+      "location": "Grand Rapids, MI / Plano, TX / Atlanta, GA",
+      "department": "Software",
+      "company": "KION Group"
     },
     {
       "id": "simplify:0184bfd5-a5c9-4e10-8e6f-c58271bc7dbf",
@@ -12003,6 +12053,14 @@
       "location": "NYC",
       "department": "Quant",
       "company": "CME Group"
+    },
+    {
+      "id": "simplify:527f6229-0830-4b0d-bebf-9b948f241b44",
+      "title": "Data Scientist/Artificial Intelligence Intern - AI",
+      "url": "https://careers-geosyntec.icims.com/jobs/4383/job?mobile=true&needsRedirect=false",
+      "location": "Kennesaw, GA",
+      "department": "AI/ML/Data",
+      "company": "Geosyntec Consultants"
     },
     {
       "id": "simplify:0ce9e860-bd85-4ebc-b74f-5ba4c7420a61",
@@ -14981,6 +15039,14 @@
       "company": "HF Sinclair"
     },
     {
+      "id": "simplify:c5e1e2ee-9028-41d8-8e43-8bed2a7fddb4",
+      "title": "Yard Engineer Intern",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Yard-Engineering-Intern_JR108554",
+      "location": "Dallas, TX",
+      "department": "Software",
+      "company": "Copart"
+    },
+    {
       "id": "simplify:51a9d9d0-ccbd-444b-9588-fa6adbf3c727",
       "title": "MTM Data Management & Staffing Coordinator Intern",
       "url": "https://musc.wd1.myworkdayjobs.com/en-US/MUSC/job/Charleston/UNIV---Student-Intern--MTM-Data-Management---Staffing-Coordinator_R-0000061405",
@@ -16805,14 +16871,6 @@
       "company": "Nokia"
     },
     {
-      "id": "simplify:49a613fe-0291-4b1e-9d57-00c3a580dfe0",
-      "title": "Product Data Analytics Intern",
-      "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/New-York---300-Vesey-Street/Product-Data-Analytics-Intern_34340",
-      "location": "NYC",
-      "department": "AI/ML/Data",
-      "company": "CME Group"
-    },
-    {
       "id": "simplify:9285d621-2d8d-4c98-8a94-fdf5e0e17ca6",
       "title": "Technology Research Associate Co-op/Intern",
       "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Technology-Research-Associate--Fall-2026--Co-op-Internship---4-Months_R260014440",
@@ -17309,6 +17367,14 @@
       "company": "Amazon"
     },
     {
+      "id": "simplify:d9ea509b-1e6a-4984-8ede-eb92547cabed",
+      "title": "ML Engineer Intern",
+      "url": "https://ats.rippling.com/pathos/jobs/430a21a7-8718-47ff-8963-2095727cce57",
+      "location": "NYC",
+      "department": "AI/ML/Data",
+      "company": "Pathos"
+    },
+    {
       "id": "simplify:a54f27c1-d01e-4e8f-ba2b-4edeb254eb22",
       "title": "Business Management Intern",
       "url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Business-Management-Year-Round-Intern_R0461286-2",
@@ -17395,6 +17461,102 @@
       "location": "San Jose, CA",
       "department": "AI/ML/Data",
       "company": "TikTok"
+    },
+    {
+      "id": "simplify:a56a4571-143d-427e-a184-fea69c27b8eb",
+      "title": "Intelligence Intern - Art",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Intelligence-Intern---ART_R25822",
+      "location": "Remote in UK",
+      "department": "Software",
+      "company": "Crowdstrike"
+    },
+    {
+      "id": "simplify:bafdf9d6-eb11-43b4-875d-8ac5adff7bf1",
+      "title": "Data Scientist Intern",
+      "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/14137",
+      "location": "United States",
+      "department": "AI/ML/Data",
+      "company": "EXL"
+    },
+    {
+      "id": "simplify:764b243c-75c2-4c30-a3b0-4b86543639ed",
+      "title": "Product Manager Intern - Sales Enablement Products",
+      "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Product-Manager--Intern-_R10095",
+      "location": "Mississauga, ON, Canada",
+      "department": "Product",
+      "company": "SOTI"
+    },
+    {
+      "id": "simplify:0d69d9c6-6063-4685-a9f6-1349bd899d26",
+      "title": "Software Analyst Intern",
+      "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst-Intern--Fall-2026--4-8-months-_R1012731",
+      "location": "Toronto, ON, Canada",
+      "department": "Hardware",
+      "company": "Hitachi"
+    },
+    {
+      "id": "simplify:fc80dc34-b90c-409e-826e-3cb8fe375363",
+      "title": "Data Scientist Intern",
+      "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/13850",
+      "location": "United States",
+      "department": "AI/ML/Data",
+      "company": "EXL"
+    },
+    {
+      "id": "simplify:2db79cb5-1519-49e1-90eb-ec0df441af72",
+      "title": "GIS Data Engineer Intern",
+      "url": "https://careers-here.icims.com/jobs/81364/job?mobile=true&needsRedirect=false",
+      "location": "Chicago, IL",
+      "department": "AI/ML/Data",
+      "company": "HERE Technologies"
+    },
+    {
+      "id": "simplify:4d7ad178-4be6-479d-bd8b-60b790ff41c0",
+      "title": "GIS Data Engineer Intern",
+      "url": "https://careers-here.icims.com/jobs/81365/job?mobile=true&needsRedirect=false",
+      "location": "Chicago, IL",
+      "department": "AI/ML/Data",
+      "company": "HERE Technologies"
+    },
+    {
+      "id": "simplify:43b2af20-7249-409a-804c-33660fbc084b",
+      "title": "GIS Data Engineer Intern",
+      "url": "https://careers-here.icims.com/jobs/81366/job?mobile=true&needsRedirect=false",
+      "location": "Chicago, IL",
+      "department": "AI/ML/Data",
+      "company": "HERE Technologies"
+    },
+    {
+      "id": "simplify:9134ffa0-42d0-4035-82d2-8d44374f9c03",
+      "title": "Student Intern - Data Analyst",
+      "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Fall-2026-Student---Data-Analyst--MFD--PEY-12-month-_R-0000172016",
+      "location": "Toronto, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "Royal Bank of Canada"
+    },
+    {
+      "id": "simplify:62376be3-2d4f-4faa-b336-21857ee74cdb",
+      "title": "Application Support Intern",
+      "url": "https://jobs.smartrecruiters.com/Flywire1/744000126518059",
+      "location": "London, UK",
+      "department": "Software",
+      "company": "Flywire"
+    },
+    {
+      "id": "simplify:1358b8e1-cf80-45f6-b1b4-54f484496784",
+      "title": "Analytics & AI Solutions Intern",
+      "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/14060",
+      "location": "United States",
+      "department": "AI/ML/Data",
+      "company": "EXL"
+    },
+    {
+      "id": "simplify:c765fbcc-1405-41f5-9a6d-4f4cd363d475",
+      "title": "Business Intelligence Analyst Intern",
+      "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/14064",
+      "location": "United States",
+      "department": "AI/ML/Data",
+      "company": "EXL"
     },
     {
       "id": "vansh:d2c404c8-5895-4ec0-95c2-3d17aed38beb",
