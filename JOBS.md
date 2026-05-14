@@ -1,6 +1,6 @@
 # Open Internships
 
-**3102** internships across **63/63** companies — last updated 2026-05-14.
+**3087** internships across **63/63** companies — last updated 2026-05-14.
 
 ## Companies
 
@@ -117,7 +117,7 @@
 - [Auctor](#auctor) (1)
 - [Aurora Innovation](#aurora-innovation) (1)
 - [Autodesk](#autodesk) (4)
-- [AutoNation](#autonation) (2)
+- [AutoNation](#autonation) (1)
 - [Avanade](#avanade) (1)
 - [Avathon](#avathon) (2)
 - [AvePoint](#avepoint) (2)
@@ -288,7 +288,6 @@
 - [CrowdStrike](#crowdstrike) (1)
 - [CrowdVolt](#crowdvolt) (1)
 - [Crowe](#crowe) (3)
-- [Crum & Forster Insurance](#crum-forster-insurance) (1)
 - [Crunchtime](#crunchtime) (1)
 - [Crusoe](#crusoe) (1)
 - [CTGT](#ctgt) (1)
@@ -343,7 +342,7 @@
 - [DuCharme, McMillen & Associates](#ducharme-mcmillen-associates) (1)
 - [Duolingo](#duolingo) (3)
 - [DV Trading](#dv-trading) (1)
-- [EaglePicher Technologies](#eaglepicher-technologies) (2)
+- [EaglePicher Technologies](#eaglepicher-technologies) (1)
 - [EagleView](#eagleview) (1)
 - [EarnIn](#earnin) (3)
 - [Eaton](#eaton) (1)
@@ -372,9 +371,8 @@
 - [Envista](#envista) (1)
 - [Epic](#epic) (1)
 - [Epic Games](#epic-games) (3)
-- [EQ Bank](#eq-bank) (2)
+- [EQ Bank](#eq-bank) (1)
 - [Equifax](#equifax) (1)
-- [Equinix](#equinix) (1)
 - [EquipmentShare](#equipmentshare) (4)
 - [Ericsson](#ericsson) (2)
 - [Etched](#etched) (4)
@@ -442,14 +440,14 @@
 - [Generac](#generac) (1)
 - [General Astronautics](#general-astronautics) (1)
 - [General Dynamics](#general-dynamics) (1)
-- [General Dynamics Mission Systems](#general-dynamics-mission-systems) (12)
+- [General Dynamics Mission Systems](#general-dynamics-mission-systems) (11)
 - [General Dynamics Mission Systems, Inc.](#general-dynamics-mission-systems-inc) (6)
 - [General Motors](#general-motors) (2)
 - [General Motors Financial](#general-motors-financial) (2)
 - [Genmab](#genmab) (1)
 - [Genuine Parts Company](#genuine-parts-company) (1)
 - [Geosyntec Consultants](#geosyntec-consultants) (1)
-- [Geotab](#geotab) (15)
+- [Geotab](#geotab) (14)
 - [GHD](#ghd) (1)
 - [GIGA](#giga) (1)
 - [Gimlet Labs](#gimlet-labs) (2)
@@ -590,7 +588,7 @@
 - [Kinaxis](#kinaxis) (4)
 - [Kingland](#kingland) (1)
 - [KION Group](#kion-group) (17)
-- [Kioxia](#kioxia) (4)
+- [Kioxia](#kioxia) (1)
 - [Kira](#kira) (2)
 - [KLA](#kla) (5)
 - [Kodak](#kodak) (1)
@@ -620,9 +618,8 @@
 - [Lightmatter](#lightmatter) (1)
 - [Linkedin](#linkedin) (1)
 - [LinkedIn](#linkedin) (3)
-- [Littelfuse](#littelfuse) (1)
 - [Live Nation Entertainment](#live-nation-entertainment) (2)
-- [LMI ](#lmi) (6)
+- [LMI ](#lmi) (5)
 - [Lockheed Martin](#lockheed-martin) (8)
 - [Locus Robotics](#locus-robotics) (1)
 - [Lumafield](#lumafield) (3)
@@ -680,7 +677,7 @@
 - [Mistral](#mistral) (3)
 - [MITRE](#mitre) (1)
 - [Mizuho Securities USA](#mizuho-securities-usa) (1)
-- [Mohawk](#mohawk) (2)
+- [Mohawk](#mohawk) (1)
 - [Molex](#molex) (1)
 - [MongoDB](#mongodb) (4)
 - [Monolithic Power Systems](#monolithic-power-systems) (2)
@@ -1011,7 +1008,7 @@
 - [The State Bar of California](#the-state-bar-of-california) (1)
 - [The Toro Company](#the-toro-company) (1)
 - [The Travelers Companies](#the-travelers-companies) (1)
-- [The Walt Disney Company](#the-walt-disney-company) (6)
+- [The Walt Disney Company](#the-walt-disney-company) (5)
 - [The Walt Disney Studios](#the-walt-disney-studios) (1)
 - [TheGuarantors](#theguarantors) (1)
 - [Thermo Fisher Scientific](#thermo-fisher-scientific) (1)
@@ -1105,7 +1102,7 @@
 - [vRad](#vrad) (1)
 - [VSP Vision](#vsp-vision) (1)
 - [Vulcan Materials](#vulcan-materials) (1)
-- [W.R. Berkley](#w-r-berkley) (6)
+- [W.R. Berkley](#w-r-berkley) (5)
 - [Waabi](#waabi) (2)
 - [Wabtec](#wabtec) (1)
 - [Walrus](#walrus) (1)
@@ -2000,7 +1997,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Java Development Intern](https://autonation.wd5.myworkdayjobs.com/Careers/job/Auto-TechLabs/Java-Development-Intern_JR2026135682) | Fort Lauderdale, FL | Software | 2026-05-13 |
 | [Automotive Parts Ecommerce Intern](https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Headquarters/Automotive-Parts-eCommerce-Intern_JR2026141745) | Fort Lauderdale, FL | Product | 2026-05-11 |
 
 ## Avanade
@@ -3309,12 +3305,6 @@
 | [Cybersecurity Intern](https://careers.crowe.com/job/R-50106/Cybersecurity-Intern) | Chicago, IL / Dallas, TX / New York, NY / Indianapolis, IN | — | 2026-05-09 |
 | [GRC Technology Intern](https://careers.crowe.com/job/R-50113/GRC-Technology-Intern) | Chicago, IL | — | 2026-05-09 |
 
-## Crum & Forster Insurance
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Data Services Intern](https://careers-cfins.icims.com/jobs/4953/job?mobile=true&needsRedirect=false) | Morristown, NJ | AI/ML/Data | 2026-05-14 |
-
 ## Crunchtime
 
 | Title | Location | Department | First seen |
@@ -3674,7 +3664,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Intern Product Engineer](https://careers-eaglepicher.icims.com/jobs/3039/job?mobile=true&needsRedirect=false) | Joplin, MO | Software | 2026-05-09 |
 | [Intern Product Engineer](https://careers-eaglepicher.icims.com/jobs/3042/job?mobile=true&needsRedirect=false) | Joplin, MO | Software | 2026-05-09 |
 
 ## EagleView
@@ -3874,7 +3863,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Credit Risk Intern](https://jobs.lever.co/eqbank/af9f250b-8639-42ba-8830-eb5a146452c6/apply) | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
 | [Treasury Data and Governance Intern](https://jobs.lever.co/eqbank/f1ef3f19-b6bc-4807-b7ee-91f9bfffff84/apply) | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
 
 ## Equifax
@@ -3882,12 +3870,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Data & Analytics Intern](https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Data---Analytics-Intern_J00171081) | Alpharetta, GA | AI/ML/Data | 2026-05-09 |
-
-## Equinix
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Enterprise AI Intern](https://equinix.wd1.myworkdayjobs.com/External/job/Redwood-City/Enterprise-AI-Intern_JR-160096) | San Carlos, CA | Software | 2026-05-09 |
 
 ## EquipmentShare
 
@@ -4363,7 +4345,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Engineer Intern](https://careers-gdms.icims.com/jobs/72556/job?mobile=true&needsRedirect=false) | Chantilly, VA | Software | 2026-05-14 |
 | [Software Engineer – Intern](https://careers-gdms.icims.com/jobs/72240/job?mobile=true&needsRedirect=false) | Fort Wayne, IN | Software | 2026-05-11 |
 | [Cyber Security Intern](https://careers-gdms.icims.com/jobs/68026/job?mobile=true&needsRedirect=false) | Colorado Springs, CO | — | 2026-05-09 |
 | [Intern Engineer Co-op - May 2026 Start](https://careers-gdms.icims.com/jobs/72265/job?mobile=true&needsRedirect=false) | Fort Wayne, IN | Hardware | 2026-05-09 |
@@ -4427,7 +4408,6 @@
 | [Software Developer Intern - Prism](https://job-boards.greenhouse.io/internshiplist2000/jobs/5138225008) | Toronto, ON, Canada / Kitchener, ON, Canada | Software | 2026-05-14 |
 | [Vehicle Systems Engineering Intern](https://job-boards.greenhouse.io/geotab/jobs/5140749008) | High Wycombe, UK | Hardware | 2026-05-11 |
 | [Data Analyst Intern - Customer Success Operations](https://job-boards.greenhouse.io/internshiplist2000/jobs/5185496008) | Toronto, ON, Canada / Burnaby, BC, Canada / Oakville, ON, Canada | AI/ML/Data | 2026-05-09 |
-| [Data Analyst Intern - Data & AI Enablement](https://job-boards.greenhouse.io/internshiplist2000/jobs/5181387008) | Oakville, ON, Canada | AI/ML/Data | 2026-05-09 |
 | [Embedded Developer Intern - Photon/Orbit](https://job-boards.greenhouse.io/internshiplist2000/jobs/5182934008) | Oakville, ON, Canada / Kitchener, ON, Canada | Hardware | 2026-05-09 |
 | [Embedded Developer Intern - Security/ Quality & Automation](https://job-boards.greenhouse.io/internshiplist2000/jobs/5179840008) | Oakville, ON, Canada | Hardware | 2026-05-09 |
 | [Insights & Integrations Consultancy Data Scientist Intern](https://job-boards.greenhouse.io/internshiplist2000/jobs/5156504008) | Oakville, ON, Canada | AI/ML/Data | 2026-05-09 |
@@ -5500,9 +5480,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Customer Qualification Engineer Intern](https://jobs.smartrecruiters.com/Kioxia/744000113747607) | Santa Clara, CA | Hardware | 2026-05-09 |
-| [Innovation Lab Intern](https://jobs.smartrecruiters.com/Kioxia/744000113744318) | Santa Clara, CA | Software | 2026-05-09 |
-| [Product Line Management Intern](https://jobs.smartrecruiters.com/Kioxia/744000112783357) | Santa Clara, CA | AI/ML/Data | 2026-05-09 |
-| [Technical Product Marketing Intern](https://jobs.smartrecruiters.com/Kioxia/744000113541052) | Santa Clara, CA | AI/ML/Data | 2026-05-09 |
 
 ## Kira
 
@@ -5700,12 +5677,6 @@
 | [Data Engineer- Data Science Intern, Master's](https://jobs.smartrecruiters.com/LinkedIn3/aa222455-47c8-492e-a445-5ccbcee7ae9b) | Mountain View, CA | Data Science, AI & Machine Learning | 2026-05-09 |
 | [Strategy & Insights- Data Science Intern, Master's](https://jobs.smartrecruiters.com/LinkedIn3/c09bade2-b299-4574-a51f-9fc711d1c913) | Mountain View, CA | Data Science, AI & Machine Learning | 2026-05-09 |
 
-## Littelfuse
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [R&D Engineering Intern](https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-Careers/job/Rapid-City/Engineering-Intern_JR-110935-1) | Rapid City, SD | Hardware | 2026-05-13 |
-
 ## Live Nation Entertainment
 
 | Title | Location | Department | First seen |
@@ -5717,7 +5688,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Full Stack Development Intern](https://careers-lmi.icims.com/jobs/14031/job?mobile=true&needsRedirect=false) | Vienna, VA | Software | 2026-05-11 |
 | [AI Engineer Intern - Usps - Summer 2026](https://careers-lmi.icims.com/jobs/13491/job?mobile=true&needsRedirect=false) | Washington, DC / Vienna, VA | AI/ML/Data | 2026-05-09 |
 | [Data Science Intern - Usps - Summer 2026](https://careers-lmi.icims.com/jobs/13490/job?mobile=true&needsRedirect=false) | Washington, DC / Vienna, VA | AI/ML/Data | 2026-05-09 |
 | [Data Scientist Intern - Passport Demand Forecasting](https://careers-lmi.icims.com/jobs/13807/job?mobile=true&needsRedirect=false) | Vienna, VA | AI/ML/Data | 2026-05-09 |
@@ -6228,7 +6198,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Digital Marketing Intern](https://careers.mohawkind.com/DalTile/job/Dallas-DIGITAL-MARKETING-INTERN-Texa-75217/1384272900/?ats=successfactors) | Dallas, TX | Product | 2026-05-09 |
-| [Research AND Development Intern](https://careers.mohawkind.com/DalTile/job/Dallas-RESEARCH-AND-DEVELOPMENT-INTERN-Texa-75217/1368038200/?ats=successfactors) | Dallas, TX | AI/ML/Data | 2026-05-09 |
 
 ## Molex
 
@@ -8826,7 +8795,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Software Engineering Intern - AI](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Seattle-WA-USA/Software-Engineering-Intern--AI--Summer-2026_10143621) | Seattle, WA | Software | 2026-05-14 |
 | [Software Engineer Intern](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Software-Engineering-Intern--Summer-2026_10135339-2) | Glendale, CA | Software | 2026-05-11 |
 | [Computer Science / Computer Engineering Intern](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Science---Computer-Engineering-Interns--Fall-2026_10139784-1) | Lake Buena Vista, FL | — | 2026-05-09 |
 | [Software Engineering Intern, B2B Products](https://www.disneycareers.com/en/job/-/-/391/89103818640?codes=INDEED) | Orlando, FL | — | 2026-05-09 |
@@ -9676,7 +9644,6 @@
 | [Business Intelligence Developer Intern](https://careers-berkley.icims.com/jobs/13878/job?mobile=true&needsRedirect=false) | Scottsdale, AZ | AI/ML/Data | 2026-05-09 |
 | [Data Analyst Summer Intern](https://careers-berkley.icims.com/jobs/13113/data-analyst-summer-intern/job) | Englewood, CO | Data Science, AI & Machine Learning | 2026-05-09 |
 | [Engineering Intern](https://careers-berkley.icims.com/jobs/13894/job?mobile=true&needsRedirect=false) | Mt Laurel Township, NJ | Software | 2026-05-09 |
-| [IT Data Warehouse Intern](https://careers-berkley.icims.com/jobs/13628/job?mobile=true&needsRedirect=false) | Stamford, CT | AI/ML/Data | 2026-05-09 |
 
 ## Waabi
 
