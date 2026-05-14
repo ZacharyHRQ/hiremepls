@@ -1,6 +1,6 @@
 # Open Internships
 
-**3080** internships across **63/63** companies — last updated 2026-05-14.
+**3086** internships across **63/63** companies — last updated 2026-05-14.
 
 ## Companies
 
@@ -176,7 +176,7 @@
 - [Boston Scientific](#boston-scientific) (10)
 - [Bread Financial](#bread-financial) (2)
 - [Brevian](#brevian) (1)
-- [British Columbia Investment](#british-columbia-investment) (3)
+- [British Columbia Investment](#british-columbia-investment) (4)
 - [Brookfield](#brookfield) (1)
 - [Brown & Brown Insurance](#brown-brown-insurance) (1)
 - [BrowserOS](#browseros) (1)
@@ -706,7 +706,7 @@
 - [Nicolet National Bank](#nicolet-national-bank) (1)
 - [Nidec](#nidec) (1)
 - [NielsenIQ](#nielseniq) (1)
-- [Nightwing Intelligence Solutions](#nightwing-intelligence-solutions) (1)
+- [Nightwing Intelligence Solutions](#nightwing-intelligence-solutions) (2)
 - [Nintendo](#nintendo) (2)
 - [Nintendo of America](#nintendo-of-america) (1)
 - [Nio](#nio) (2)
@@ -722,7 +722,7 @@
 - [Nowadays (S23)](#nowadays-s23) (2)
 - [NuHarbor Security](#nuharbor-security) (1)
 - [Nuro](#nuro) (1)
-- [NVIDIA](#nvidia) (29)
+- [NVIDIA](#nvidia) (30)
 - [OCC](#occ) (1)
 - [Octaura](#octaura) (2)
 - [Oklahoma City Thunder](#oklahoma-city-thunder) (1)
@@ -986,7 +986,7 @@
 - [Teledyne](#teledyne) (1)
 - [Teleo](#teleo) (1)
 - [Tempus](#tempus) (2)
-- [Tencent](#tencent) (37)
+- [Tencent](#tencent) (38)
 - [TENEX.AI](#tenex-ai) (1)
 - [Tenstorrent](#tenstorrent) (11)
 - [Teradata](#teradata) (1)
@@ -1019,7 +1019,7 @@
 - [thyssenkrupp](#thyssenkrupp) (1)
 - [TIFIN](#tifin) (1)
 - [Tiktok](#tiktok) (1)
-- [TikTok](#tiktok) (187)
+- [TikTok](#tiktok) (189)
 - [Tilde Research](#tilde-research) (2)
 - [tldraw](#tldraw) (1)
 - [TMEIC](#tmeic) (2)
@@ -2443,6 +2443,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Data & Analytics Engineer Co-op/Intern](https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Data---Analytics-Engineer-Co-op--Internship--Fall-2026-and-or-Winter-2027-_JR101481) | Victoria, BC, Canada / Vancouver, BC, Canada | AI/ML/Data | 2026-05-14 |
 | [Enterprise Solutions Software Engineer Co-op/Internship](https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Enterprise-Solutions--Software-Engineer-Co-op-Internship--Fall-2026-_JR101472) | Victoria, BC, Canada / Vancouver, BC, Canada | Software | 2026-05-14 |
 | [Risk Analytics Solutions Co-op/Intern](https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Risk-Analytics-Solutions-Co-op-Internship--Fall-2026---Winter-2027-_JR101491) | Victoria, BC, Canada | Software | 2026-05-14 |
 | [Risk Reporting & Data Co-op/Internship](https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Risk-Reporting---Data-Co-op-Internship--Fall-2026---Winter-2027-_JR101493) | Victoria, BC, Canada | AI/ML/Data | 2026-05-14 |
@@ -6409,6 +6410,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Radio Frequency Engineering Intern](https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/RF-Engineering-Intern---2026_JR101565) | Dulles, VA | Hardware | 2026-05-14 |
 | [Radio Frequency Engineering Intern](https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/RF-Engineering-Intern---2026_JR101095) | Dulles, VA | Hardware | 2026-05-09 |
 
 ## Nintendo
@@ -6545,6 +6547,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398) | Santa Clara, CA | AI/ML/Data | 2026-05-14 |
 | [Systems Software Engineer Intern, Metropolis](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer-Intern--Metropolis---Fall-2026_JR2018016) | Santa Clara, CA | — | 2026-05-14 |
 | [PhD Research Intern - Security and Privacy](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1) | Santa Clara, CA | AI/ML/Data | 2026-05-14 |
 | [Software Engineer Intern - AI Tools](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--AI-Tools---Fall-2026_JR2016805) | Santa Clara, CA | Software | 2026-05-14 |
@@ -8542,6 +8545,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Research Internship-Multimodal LLM - Speech/Music/Audio/Vision/Language](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Research-Internship--Multimodal-LLM--Speech-Music-Audio-Vision-Language-_R106334-1) | Bellevue, WA | AI/ML/Data | 2026-05-14 |
 | [Hunyuan Multimodal Algorithm Researcher intern - Omni-Modal](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650) | Palo Alto, CA | AI/ML/Data | 2026-05-14 |
 | [Multimedia Codec Development Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Multimedia-Codec-Development-Intern_R106769) | Palo Alto, CA | AI/ML/Data | 2026-05-14 |
 | [Data Science Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Data-Science-Intern_R107184) | Palo Alto, CA | AI/ML/Data | 2026-05-13 |
@@ -8862,6 +8866,8 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Data Science Operations Intern - Business Integrity Data Cycling Center](https://lifeattiktok.com/search/7639509050870434101) | San Jose, CA | AI/ML/Data | 2026-05-14 |
+| [Software Engineer Intern - Multiple Teams](https://lifeattiktok.com/search/7533295761208559890) | San Jose, CA | Software | 2026-05-14 |
 | [Data Scientist Intern - Tiktok UG-Mid Platform - 2026 Summer](https://lifeattiktok.com/search/7592001144580262197) | San Jose, CA | AI/ML/Data | 2026-05-11 |
 | [Online Architecture Research Intern - TikTok Generalized Arch - PhD](https://lifeattiktok.com/search/7549086862464338184) | Seattle, WA | AI/ML/Data | 2026-05-11 |
 | [Software Engineer Intern - TikTok Search Architecture - BS/MS](https://lifeattiktok.com/search/7534626306991016199) | San Jose, CA | Software | 2026-05-10 |

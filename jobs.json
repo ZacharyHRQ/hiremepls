@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-14T10:39:41.754Z",
+  "generatedAt": "2026-05-14T12:16:09.293Z",
   "companyCount": 63,
   "okCount": 63,
-  "jobCount": 3080,
+  "jobCount": 3086,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -3083,7 +3083,13 @@
     "vansh:be8a32ae-5fd1-4286-9558-350522401001": "2026-05-14T10:39:41.754Z",
     "vansh:8a1aa0c6-4cf5-4223-ba75-fae2a979699a": "2026-05-14T10:39:41.754Z",
     "vansh:18487b5d-77c6-4304-9fe3-f091d4a1245f": "2026-05-14T10:39:41.754Z",
-    "vansh:fc6a9239-18b8-4ba6-9b77-6f1e75488e78": "2026-05-14T10:39:41.754Z"
+    "vansh:fc6a9239-18b8-4ba6-9b77-6f1e75488e78": "2026-05-14T10:39:41.754Z",
+    "simplify:553c3141-cedc-4ce8-ae4d-c4dbfd12ce83": "2026-05-14T12:16:09.293Z",
+    "simplify:16f1fcf2-38ef-4e04-9a67-4b82b5c9433c": "2026-05-14T12:16:09.293Z",
+    "simplify:55556c00-eb17-46a0-8914-66a19318e0f3": "2026-05-14T12:16:09.293Z",
+    "simplify:bebbeff8-81af-4e7a-b6f6-7658307b38b6": "2026-05-14T12:16:09.293Z",
+    "simplify:1bfadea3-2133-47d5-bdf1-61648de727f0": "2026-05-14T12:16:09.293Z",
+    "simplify:9b9c12fc-7c60-467e-aad5-fbd83ce6474c": "2026-05-14T12:16:09.293Z"
   },
   "jobs": [
     {
@@ -3655,17 +3661,17 @@
       "company": "Replit"
     },
     {
-      "id": "7913505",
+      "id": "7544547",
       "title": "Operations Associate, New Grad (Mexico)",
-      "url": "https://stripe.com/jobs/search?gh_jid=7913505",
+      "url": "https://stripe.com/jobs/search?gh_jid=7544547",
       "location": "Mexico City, Mexico",
       "department": "",
       "company": "Stripe"
     },
     {
-      "id": "7544547",
+      "id": "7913505",
       "title": "Operations Associate, New Grad (Mexico)",
-      "url": "https://stripe.com/jobs/search?gh_jid=7544547",
+      "url": "https://stripe.com/jobs/search?gh_jid=7913505",
       "location": "Mexico City, Mexico",
       "department": "",
       "company": "Stripe"
@@ -5077,6 +5083,14 @@
       "location": "San Jose, CA",
       "department": "Product",
       "company": "TikTok"
+    },
+    {
+      "id": "simplify:553c3141-cedc-4ce8-ae4d-c4dbfd12ce83",
+      "title": "Research Internship-Multimodal LLM - Speech/Music/Audio/Vision/Language",
+      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Research-Internship--Multimodal-LLM--Speech-Music-Audio-Vision-Language-_R106334-1",
+      "location": "Bellevue, WA",
+      "department": "AI/ML/Data",
+      "company": "Tencent"
     },
     {
       "id": "simplify:2154dbb1-0a02-4ce3-8bc5-6fbe782e9d84",
@@ -11119,6 +11133,14 @@
       "company": "TikTok"
     },
     {
+      "id": "simplify:16f1fcf2-38ef-4e04-9a67-4b82b5c9433c",
+      "title": "Software Engineer Intern - Multiple Teams",
+      "url": "https://lifeattiktok.com/search/7533295761208559890",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "TikTok"
+    },
+    {
       "id": "simplify:0cc4797c-81ae-43bc-85bb-ba188815da52",
       "title": "Machine Learning Scientist Intern - TikTok Recommendation",
       "url": "https://lifeattiktok.com/search/7519241729582516487",
@@ -11573,6 +11595,14 @@
       "location": "San Jose, CA",
       "department": "Software",
       "company": "Tessera Labs"
+    },
+    {
+      "id": "simplify:55556c00-eb17-46a0-8914-66a19318e0f3",
+      "title": "Radio Frequency Engineering Intern",
+      "url": "https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/RF-Engineering-Intern---2026_JR101565",
+      "location": "Dulles, VA",
+      "department": "Hardware",
+      "company": "Nightwing Intelligence Solutions"
     },
     {
       "id": "simplify:25666c3f-59c5-42d5-a68b-58c08e93a551",
@@ -15711,6 +15741,14 @@
       "company": "Waymo"
     },
     {
+      "id": "simplify:bebbeff8-81af-4e7a-b6f6-7658307b38b6",
+      "title": "Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398",
+      "location": "Santa Clara, CA",
+      "department": "AI/ML/Data",
+      "company": "NVIDIA"
+    },
+    {
       "id": "simplify:13b36132-b9cb-42d8-bc06-e610c7b94edc",
       "title": "AI Intern",
       "url": "https://jobs.lever.co/endpointclinical/d8e94671-b722-4bd9-94a6-c0f27008acbf/apply",
@@ -17341,6 +17379,22 @@
       "location": "Victoria, BC, Canada",
       "department": "AI/ML/Data",
       "company": "British Columbia Investment"
+    },
+    {
+      "id": "simplify:1bfadea3-2133-47d5-bdf1-61648de727f0",
+      "title": "Data & Analytics Engineer Co-op/Intern",
+      "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Data---Analytics-Engineer-Co-op--Internship--Fall-2026-and-or-Winter-2027-_JR101481",
+      "location": "Victoria, BC, Canada / Vancouver, BC, Canada",
+      "department": "AI/ML/Data",
+      "company": "British Columbia Investment"
+    },
+    {
+      "id": "simplify:9b9c12fc-7c60-467e-aad5-fbd83ce6474c",
+      "title": "Data Science Operations Intern - Business Integrity Data Cycling Center",
+      "url": "https://lifeattiktok.com/search/7639509050870434101",
+      "location": "San Jose, CA",
+      "department": "AI/ML/Data",
+      "company": "TikTok"
     },
     {
       "id": "vansh:d2c404c8-5895-4ec0-95c2-3d17aed38beb",
