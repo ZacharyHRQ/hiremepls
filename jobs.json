@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-14T15:03:17.159Z",
+  "generatedAt": "2026-05-14T17:07:27.261Z",
   "companyCount": 63,
   "okCount": 63,
-  "jobCount": 3104,
+  "jobCount": 3102,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -19,11 +19,9 @@
     "7253017": "2026-05-06T06:42:07.596Z",
     "7255640": "2026-05-06T06:42:07.596Z",
     "7285974": "2026-05-06T06:42:07.596Z",
-    "7340843": "2026-05-06T06:42:07.596Z",
     "7362113": "2026-05-06T06:42:07.596Z",
     "7362318": "2026-05-06T06:42:07.596Z",
     "7362347": "2026-05-06T06:42:07.596Z",
-    "7391788": "2026-05-06T06:42:07.596Z",
     "7490274": "2026-05-06T06:42:07.596Z",
     "7490322": "2026-05-06T06:42:07.596Z",
     "7490328": "2026-05-06T06:42:07.596Z",
@@ -3111,14 +3109,6 @@
   },
   "jobs": [
     {
-      "id": "7340843",
-      "title": "Graduate Platform Specialist",
-      "url": "https://www.squarepoint-capital.com/open-opportunities?id=7340843&gh_jid=7340843",
-      "location": "Hong Kong, London, Montreal, Singapore",
-      "department": "",
-      "company": "Squarepoint Capital"
-    },
-    {
       "id": "7918610",
       "title": "Graduate Quant Developer",
       "url": "https://www.squarepoint-capital.com/open-opportunities?id=7918610&gh_jid=7918610",
@@ -3679,14 +3669,6 @@
       "company": "Replit"
     },
     {
-      "id": "7913505",
-      "title": "Operations Associate, New Grad (Mexico)",
-      "url": "https://stripe.com/jobs/search?gh_jid=7913505",
-      "location": "Mexico City, Mexico",
-      "department": "",
-      "company": "Stripe"
-    },
-    {
       "id": "7544547",
       "title": "Operations Associate, New Grad (Mexico)",
       "url": "https://stripe.com/jobs/search?gh_jid=7544547",
@@ -3695,10 +3677,10 @@
       "company": "Stripe"
     },
     {
-      "id": "7285974",
-      "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "id": "7913505",
+      "title": "Operations Associate, New Grad (Mexico)",
+      "url": "https://stripe.com/jobs/search?gh_jid=7913505",
+      "location": "Mexico City, Mexico",
       "department": "",
       "company": "Stripe"
     },
@@ -3707,6 +3689,14 @@
       "title": "PhD Data Scientist, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=7874965",
       "location": "San Francisco, New York City, Seattle, Chicago",
+      "department": "",
+      "company": "Stripe"
+    },
+    {
+      "id": "7285974",
+      "title": "PhD Data Scientist, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe"
     },
@@ -4047,17 +4037,17 @@
       "company": "Cloudflare"
     },
     {
-      "id": "7582169",
+      "id": "7582150",
       "title": "Security Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
     },
     {
-      "id": "7582150",
+      "id": "7582169",
       "title": "Security Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
@@ -4101,14 +4091,6 @@
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
-    },
-    {
-      "id": "7391788",
-      "title": "IT Support Technician Intern",
-      "url": "https://careers.datadoghq.com/detail/7391788/?gh_jid=7391788",
-      "location": "Boston, Massachusetts, USA",
-      "department": "",
-      "company": "Datadog"
     },
     {
       "id": "7826176",

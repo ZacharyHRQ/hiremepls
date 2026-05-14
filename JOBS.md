@@ -1,6 +1,6 @@
 # Open Internships
 
-**3104** internships across **63/63** companies — last updated 2026-05-14.
+**3102** internships across **63/63** companies — last updated 2026-05-14.
 
 ## Companies
 
@@ -305,7 +305,7 @@
 - [Dark Wolf Solutions](#dark-wolf-solutions) (2)
 - [Darkhiv](#darkhiv) (1)
 - [Databricks](#databricks) (5)
-- [Datadog](#datadog) (6)
+- [Datadog](#datadog) (5)
 - [DataVisor](#datavisor) (2)
 - [Decagon](#decagon) (1)
 - [Deckers Brands](#deckers-brands) (1)
@@ -942,7 +942,7 @@
 - [Speak (W17)](#speak-w17) (1)
 - [Spectrum](#spectrum) (4)
 - [Squarepoint](#squarepoint) (1)
-- [Squarepoint Capital](#squarepoint-capital) (9)
+- [Squarepoint Capital](#squarepoint-capital) (8)
 - [SRC Inc.](#src-inc) (1)
 - [SRI International](#sri-international) (1)
 - [SS&C](#ss-c) (1)
@@ -2993,8 +2993,8 @@
 | [Revenue Operations Intern - Enablement (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7761397?gh_jid=7761397) | In-Office | — | 2026-05-06 |
 | [Sales Project Manager Intern (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7773799?gh_jid=7773799) | In-Office | — | 2026-05-06 |
 | [Sales: Solutions Engineer - Intern (Summer & Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7792962?gh_jid=7792962) | In-Office | — | 2026-05-06 |
-| [Security Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169) | In-Office | — | 2026-05-06 |
 | [Security Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150) | In-Office | — | 2026-05-06 |
+| [Security Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169) | In-Office | — | 2026-05-06 |
 | [Technical Marketing Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7733496?gh_jid=7733496) | In-Office | — | 2026-05-06 |
 | [Technical Support Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879) | In-Office | — | 2026-05-06 |
 | [Threat Detection and Incident Response Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7577205?gh_jid=7577205) | In-Office | — | 2026-05-06 |
@@ -3429,7 +3429,6 @@
 | [Software Engineering Intern](https://careers.datadoghq.com/detail/6954161/?gh_jid=6954161) | Boston, MA / New York, NY | — | 2026-05-09 |
 | [Software Engineering Intern](https://careers.datadoghq.com/detail/7158137/) | Boston, MA / New York, NY | — | 2026-05-09 |
 | [Software Engineering Intern, SRE](https://careers.datadoghq.com/detail/7367016/) | New York, NY | — | 2026-05-09 |
-| [IT Support Technician Intern](https://careers.datadoghq.com/detail/7391788/?gh_jid=7391788) | Boston, Massachusetts, USA | — | 2026-05-06 |
 | [IT Support Technician Intern](https://careers.datadoghq.com/detail/7826176/?gh_jid=7826176) | Paris, France | — | 2026-05-06 |
 
 ## DataVisor
@@ -8247,7 +8246,6 @@
 | [Graduate Quant Developer](https://www.squarepoint-capital.com/open-opportunities?id=7918610&gh_jid=7918610) | London, Montreal, Singapore | — | 2026-05-12 |
 | [Intern Software Developer - Summer 2026](https://boards.greenhouse.io/embed/job_app?token=7231006) | Montreal, QC, Canada / London, UK | Software | 2026-05-09 |
 | [Intern Software Developer - Fall 2026](https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463) | Montreal | — | 2026-05-07 |
-| [Graduate Platform Specialist](https://www.squarepoint-capital.com/open-opportunities?id=7340843&gh_jid=7340843) | Hong Kong, London, Montreal, Singapore | — | 2026-05-06 |
 | [Graduate Software Developer](https://www.squarepoint-capital.com/open-opportunities?id=6040910&gh_jid=6040910) | London, Montreal, Singapore | — | 2026-05-06 |
 | [Graduate Support Specialist](https://www.squarepoint-capital.com/open-opportunities?id=6100081&gh_jid=6100081) | London, Montreal, New York, Houston, Hong Kong | — | 2026-05-06 |
 | [Intern Software Developer - Summer 2026](https://www.squarepoint-capital.com/open-opportunities?id=7231006&gh_jid=7231006) | Warsaw | — | 2026-05-06 |
@@ -8375,8 +8373,8 @@
 | [PhD Machine Learning Engineer Intern](https://stripe.com/jobs/search?gh_jid=7216664) | Seattle, WA / SF / NYC | AI/ML/Data | 2026-05-09 |
 | [Software Engineer Intern](https://stripe.com/jobs/listing/software-engineer-intern-summer-and-winter/7210115) | South San Francisco, CA / Seattle, WA / New York, NY | — | 2026-05-09 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | Mexico City, Mexico | — | 2026-05-06 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7216664) | San Francisco, New York City, Seattle | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | Singapore | — | 2026-05-06 |
