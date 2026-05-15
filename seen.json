@@ -22,8 +22,8 @@
     "4829785101"
   ],
   "Jump Trading": [
-    "7362318",
     "7362347",
+    "7362318",
     "7543377",
     "7543260",
     "7565728"
@@ -32,7 +32,14 @@
   "Akuna Capital": [
     "7756608"
   ],
-  "AQR": [],
+  "AQR": [
+    "7926659",
+    "7926647",
+    "7895562",
+    "7926704",
+    "7895583",
+    "7926692"
+  ],
   "Tower Research Capital": [
     "6903711",
     "6855851",
@@ -162,8 +169,8 @@
     "7773799",
     "7899062",
     "7792962",
-    "7582169",
     "7582150",
+    "7582169",
     "7733496",
     "7912382",
     "7726879",
@@ -223,7 +230,6 @@
   "BlackRock": [],
   "Visa": [],
   "SimplifyJobs": [
-    "simplify:8bfbf59e-bf01-4b33-b367-14fa32e8eb12",
     "simplify:f354f30b-fb00-4fd5-b41d-93958a339309",
     "simplify:ecb42b72-6094-48fe-8619-10c8cace6cc1",
     "simplify:04c61af9-3fff-42ea-b8cb-7e2f17ca3778",
@@ -926,7 +932,6 @@
     "simplify:1741895f-568a-40c4-8755-f9af222a6b7b",
     "simplify:8093c9f9-9879-4f47-897d-f0b699f6042a",
     "simplify:4f6ac5a5-5338-438a-b021-01d34f2ddfb8",
-    "simplify:ac626a38-e2fb-4c21-b1f5-2b8acd944bbe",
     "simplify:24ea6e61-9ca2-4a1a-963c-611e998bdc83",
     "simplify:1f4843c8-d10a-481c-ae70-1557310b13b8",
     "simplify:de737258-b470-4b2c-b39b-a3a638c3c610",
@@ -1000,6 +1005,7 @@
     "simplify:577380e9-9967-4e82-bd6f-7e700a92f224",
     "simplify:b12c652c-3fc2-41f0-91b6-705ef68dcf82",
     "simplify:a3fc7a58-e89b-45d9-b974-7bb42ada9d3f",
+    "simplify:8273dd4e-b31d-493a-9d57-963229920587",
     "simplify:411b3542-fea3-4d69-9491-dea180fbc135",
     "simplify:07dcd9ab-7a10-476a-8d5c-4165c4cfeffe",
     "simplify:4cebd7e3-5455-4983-b475-3512278305c2",
@@ -1192,7 +1198,6 @@
     "simplify:c21f2c6e-fd58-49e5-b9a6-4a0a8da2acf4",
     "simplify:d3506df6-a276-45fc-9c56-0486208cd5e8",
     "simplify:4fccaa8a-ab20-431c-9479-96f15a9125a3",
-    "simplify:0dcc796d-483e-4558-b5d6-6afe5f134712",
     "simplify:96ffbc65-720f-4b45-965f-6ddc2b4a4207",
     "simplify:2e69d72e-a17b-42ce-81c3-57e18f759b3b",
     "simplify:94fdcde6-ec6d-4c6a-a671-4774917694d2",
@@ -1374,6 +1379,7 @@
     "simplify:78e473f9-fad4-4b2e-ab47-a15265b619df",
     "simplify:69ce4f5f-3866-4c3d-9b30-2579b45dbcbe",
     "simplify:1df80739-b3dd-4264-97d8-86069e8ffe99",
+    "simplify:ebb7f560-b3e3-4f57-b812-b0097eeb39bf",
     "simplify:1d7a2077-52b3-4943-818a-2fa0ec30b52e",
     "simplify:340d9a32-ab47-4584-84fe-63f303b1e616",
     "simplify:f9530ed3-2587-45c5-8a92-1bf929f199f3",
@@ -1593,7 +1599,6 @@
     "simplify:94e3dc1e-3287-40a5-8a13-a3fcb9452c79",
     "simplify:010d4c32-fa2d-4b62-8c40-3d8039798011",
     "simplify:2b1522e6-dea2-45f4-ad2e-0ffa0f132863",
-    "simplify:fd5a8521-4005-4532-8abf-fbe39bd79e6e",
     "simplify:841512a1-c8d5-4de1-82ab-6d5025bacc53",
     "simplify:66357c67-5998-4524-8bd2-55280de56b1a",
     "simplify:02da0186-8b08-4115-9e97-a07ac6cbec93",
@@ -1609,10 +1614,12 @@
     "simplify:3cf3f35a-365a-4b8d-bbaa-1478d7631884",
     "simplify:dc0d4126-bde5-46bc-bc8a-1fd34b619639",
     "simplify:f3ac2507-6a81-4a63-b24e-b1c8fa8d94b3",
+    "simplify:7094b529-f81f-4757-bec7-54ce1d66d1f8",
     "simplify:321e4809-3d29-4a9a-821c-0243562bf9f4",
     "simplify:a543ce3e-1976-406e-9398-c700e1bfcbad",
     "simplify:60ba90ca-d4f3-4dc2-86d3-1e8f576504c2",
     "simplify:b30a3791-68fe-49eb-836f-5ff4f83dc9e2",
+    "simplify:77a2f3fc-f657-4d3a-a64b-2832e7edb34c",
     "simplify:40437c0f-7771-4ec0-aedd-aa6abd7ed518",
     "simplify:9155d2de-fa00-49ca-b95d-4eea0fafce7b",
     "simplify:452fea33-8acc-4179-a966-2aca9e9ed3ff",

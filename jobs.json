@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-15T10:04:41.511Z",
+  "generatedAt": "2026-05-15T12:06:03.304Z",
   "companyCount": 63,
   "okCount": 63,
-  "jobCount": 3063,
+  "jobCount": 3069,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -74,6 +74,8 @@
     "7855864": "2026-05-06T06:42:07.596Z",
     "7863831": "2026-05-06T06:42:07.596Z",
     "7874965": "2026-05-06T06:42:07.596Z",
+    "7895562": "2026-05-15T12:06:03.304Z",
+    "7895583": "2026-05-15T12:06:03.304Z",
     "7899062": "2026-05-11T11:24:37.304Z",
     "7905463": "2026-05-07T21:00:54.613Z",
     "7912382": "2026-05-13T08:10:42.769Z",
@@ -83,6 +85,10 @@
     "7917883": "2026-05-13T01:22:17.700Z",
     "7918610": "2026-05-12T20:57:03.840Z",
     "7920820": "2026-05-13T12:32:21.495Z",
+    "7926647": "2026-05-15T12:06:03.304Z",
+    "7926659": "2026-05-15T12:06:03.304Z",
+    "7926692": "2026-05-15T12:06:03.304Z",
+    "7926704": "2026-05-15T12:06:03.304Z",
     "4608590101": "2026-05-06T06:42:07.596Z",
     "4786701101": "2026-05-06T06:42:07.596Z",
     "4540358101": "2026-05-06T06:42:07.596Z",
@@ -147,7 +153,6 @@
     "simplify:e971a3e2-631b-4ad9-ab78-effc38c864ed": "2026-05-09T15:28:15.527Z",
     "simplify:70ecddf1-c1e3-4dbf-ae3f-822bf987727a": "2026-05-09T15:28:15.527Z",
     "simplify:e2e48bac-63bc-4318-9576-1e112d693b8d": "2026-05-09T15:28:15.527Z",
-    "simplify:8bfbf59e-bf01-4b33-b367-14fa32e8eb12": "2026-05-09T15:28:15.527Z",
     "simplify:ecb42b72-6094-48fe-8619-10c8cace6cc1": "2026-05-09T15:28:15.527Z",
     "simplify:04c61af9-3fff-42ea-b8cb-7e2f17ca3778": "2026-05-09T15:28:15.527Z",
     "simplify:ac0de679-0dd0-42fc-bef6-1b6e42f77cdb": "2026-05-09T15:28:15.527Z",
@@ -780,7 +785,6 @@
     "simplify:1741895f-568a-40c4-8755-f9af222a6b7b": "2026-05-09T15:28:15.527Z",
     "simplify:8093c9f9-9879-4f47-897d-f0b699f6042a": "2026-05-09T15:28:15.527Z",
     "simplify:4f6ac5a5-5338-438a-b021-01d34f2ddfb8": "2026-05-09T15:28:15.527Z",
-    "simplify:ac626a38-e2fb-4c21-b1f5-2b8acd944bbe": "2026-05-09T15:28:15.527Z",
     "simplify:24ea6e61-9ca2-4a1a-963c-611e998bdc83": "2026-05-09T15:28:15.527Z",
     "simplify:1f4843c8-d10a-481c-ae70-1557310b13b8": "2026-05-09T15:28:15.527Z",
     "simplify:de737258-b470-4b2c-b39b-a3a638c3c610": "2026-05-09T15:28:15.527Z",
@@ -1006,7 +1010,6 @@
     "simplify:c21f2c6e-fd58-49e5-b9a6-4a0a8da2acf4": "2026-05-09T15:28:15.527Z",
     "simplify:d3506df6-a276-45fc-9c56-0486208cd5e8": "2026-05-09T15:28:15.527Z",
     "simplify:4fccaa8a-ab20-431c-9479-96f15a9125a3": "2026-05-09T15:28:15.527Z",
-    "simplify:0dcc796d-483e-4558-b5d6-6afe5f134712": "2026-05-09T15:28:15.527Z",
     "simplify:2e69d72e-a17b-42ce-81c3-57e18f759b3b": "2026-05-09T15:28:15.527Z",
     "simplify:94fdcde6-ec6d-4c6a-a671-4774917694d2": "2026-05-09T15:28:15.527Z",
     "simplify:4fd6ba3f-9427-43af-a0cf-7e424402b95f": "2026-05-09T15:28:15.527Z",
@@ -2920,7 +2923,6 @@
     "simplify:3443ba84-151d-4603-9bac-28bf93227ed5": "2026-05-14T01:31:29.727Z",
     "simplify:5a1ea7e3-a9d3-4b99-9b7f-9cbc5562db04": "2026-05-14T01:31:29.727Z",
     "simplify:47e93c35-6beb-41fc-bb7f-81c35722ff8d": "2026-05-14T01:31:29.727Z",
-    "simplify:fd5a8521-4005-4532-8abf-fbe39bd79e6e": "2026-05-14T01:31:29.727Z",
     "simplify:b8efe27f-c76a-4d68-a3e0-7223c8e08ef8": "2026-05-14T01:31:29.727Z",
     "simplify:40437c0f-7771-4ec0-aedd-aa6abd7ed518": "2026-05-14T01:31:29.727Z",
     "simplify:53f8fb29-baff-4860-abf4-e65d1cd1a500": "2026-05-14T01:31:29.727Z",
@@ -3066,7 +3068,11 @@
     "simplify:69895bf6-cfe8-4334-80d0-1834c83de6b0": "2026-05-15T10:04:41.511Z",
     "simplify:cd885e02-d0aa-4f5f-a119-3f60710cc44c": "2026-05-15T10:04:41.511Z",
     "simplify:7da3c280-040c-4a6b-bbdc-ccf7e3d9f527": "2026-05-15T10:04:41.511Z",
-    "simplify:6548f3eb-d1a3-4d5e-9942-3151de80c19a": "2026-05-15T10:04:41.511Z"
+    "simplify:6548f3eb-d1a3-4d5e-9942-3151de80c19a": "2026-05-15T10:04:41.511Z",
+    "simplify:8273dd4e-b31d-493a-9d57-963229920587": "2026-05-15T12:06:03.304Z",
+    "simplify:ebb7f560-b3e3-4f57-b812-b0097eeb39bf": "2026-05-15T12:06:03.304Z",
+    "simplify:7094b529-f81f-4757-bec7-54ce1d66d1f8": "2026-05-15T12:06:03.304Z",
+    "simplify:77a2f3fc-f657-4d3a-a64b-2832e7edb34c": "2026-05-15T12:06:03.304Z"
   },
   "jobs": [
     {
@@ -3190,18 +3196,18 @@
       "company": "IMC Trading"
     },
     {
-      "id": "7362318",
-      "title": "Campus Crypto Researcher (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7362318",
-      "location": "London",
-      "department": "",
-      "company": "Jump Trading"
-    },
-    {
       "id": "7362347",
       "title": "Campus Crypto Researcher (Intern)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=7362347",
       "location": "Chicago",
+      "department": "",
+      "company": "Jump Trading"
+    },
+    {
+      "id": "7362318",
+      "title": "Campus Crypto Researcher (Intern)",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7362318",
+      "location": "London",
       "department": "",
       "company": "Jump Trading"
     },
@@ -3236,6 +3242,54 @@
       "location": "Shanghai, China",
       "department": "",
       "company": "Akuna Capital"
+    },
+    {
+      "id": "7926659",
+      "title": "2027 Business Development Summer Analyst ",
+      "url": "https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659",
+      "location": "Greenwich, CT",
+      "department": "",
+      "company": "AQR"
+    },
+    {
+      "id": "7926647",
+      "title": "2027 Engineering Summer Analyst",
+      "url": "https://careers.aqr.com/jobs?gh_jid=7926647&gh_jid=7926647",
+      "location": "Greenwich, CT",
+      "department": "",
+      "company": "AQR"
+    },
+    {
+      "id": "7895562",
+      "title": "2027 Portfolio Implementation, Trading and Portfolio Finance Summer Analyst",
+      "url": "https://careers.aqr.com/jobs?gh_jid=7895562&gh_jid=7895562",
+      "location": "Greenwich, CT",
+      "department": "",
+      "company": "AQR"
+    },
+    {
+      "id": "7926704",
+      "title": "2027 Research Product Specialist Summer Analyst",
+      "url": "https://careers.aqr.com/jobs?gh_jid=7926704&gh_jid=7926704",
+      "location": "Greenwich, CT",
+      "department": "",
+      "company": "AQR"
+    },
+    {
+      "id": "7895583",
+      "title": "2027 Research Summer Analyst",
+      "url": "https://careers.aqr.com/jobs?gh_jid=7895583&gh_jid=7895583",
+      "location": "Greenwich, CT",
+      "department": "",
+      "company": "AQR"
+    },
+    {
+      "id": "7926692",
+      "title": "2027 Risk Summer Analyst",
+      "url": "https://careers.aqr.com/jobs?gh_jid=7926692&gh_jid=7926692",
+      "location": "Greenwich, CT",
+      "department": "",
+      "company": "AQR"
     },
     {
       "id": "6903711",
@@ -3998,17 +4052,17 @@
       "company": "Cloudflare"
     },
     {
-      "id": "7582169",
+      "id": "7582150",
       "title": "Security Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
     },
     {
-      "id": "7582150",
+      "id": "7582169",
       "title": "Security Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
@@ -4172,14 +4226,6 @@
       "location": "Remote - San Francisco, California",
       "department": "",
       "company": "Cribl"
-    },
-    {
-      "id": "simplify:8bfbf59e-bf01-4b33-b367-14fa32e8eb12",
-      "title": "AI Readiness and Enablement Intern",
-      "url": "https://myhrabc.wd5.myworkdayjobs.com/en-US/Global/job/Conshohocken-PA/AI-Workflow-Architect-Intern_R2517572",
-      "location": "Conshohocken, PA",
-      "department": "Data Science, AI & Machine Learning",
-      "company": "Cencora"
     },
     {
       "id": "simplify:f354f30b-fb00-4fd5-b41d-93958a339309",
@@ -9798,14 +9844,6 @@
       "company": "Howden"
     },
     {
-      "id": "simplify:ac626a38-e2fb-4c21-b1f5-2b8acd944bbe",
-      "title": "Product Manager Intern - Game Accounts and Studio Partnership",
-      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Product-Manager-Intern--Game-Accounts-and-Studio-Partnership_R107160-1",
-      "location": "London, UK",
-      "department": "Product",
-      "company": "Tencent"
-    },
-    {
       "id": "simplify:24ea6e61-9ca2-4a1a-963c-611e998bdc83",
       "title": "AI Consulting Associate Program – Engineering Intern - AI CAP",
       "url": "https://boards.greenhouse.io/drivewealth/jobs/7673413003",
@@ -10385,6 +10423,14 @@
       "id": "simplify:a3fc7a58-e89b-45d9-b974-7bb42ada9d3f",
       "title": "Embedded Software Engineering Intern",
       "url": "https://jobs.ashbyhq.com/atomicsemi/de448098-ffc6-4b99-b341-d6a5874f390f/application",
+      "location": "SF",
+      "department": "Hardware",
+      "company": "Atomic Semi"
+    },
+    {
+      "id": "simplify:8273dd4e-b31d-493a-9d57-963229920587",
+      "title": "Packaging Engineering Intern",
+      "url": "https://jobs.ashbyhq.com/atomicsemi/4497473d-0ce0-4e83-88c3-2afedceac622/application",
       "location": "SF",
       "department": "Hardware",
       "company": "Atomic Semi"
@@ -11926,14 +11972,6 @@
       "company": "Mariana Minerals"
     },
     {
-      "id": "simplify:0dcc796d-483e-4558-b5d6-6afe5f134712",
-      "title": "GIS Intern",
-      "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25763",
-      "location": "Santa Rosa, CA / Eureka, CA",
-      "department": "AI/ML/Data",
-      "company": "GHD"
-    },
-    {
       "id": "simplify:96ffbc65-720f-4b45-965f-6ddc2b4a4207",
       "title": "Speech Intern 4",
       "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Speech-Intern-4_JR107037",
@@ -13380,6 +13418,14 @@
       "location": "Chandler, AZ",
       "department": "AI/ML/Data",
       "company": "Viavi Solutions"
+    },
+    {
+      "id": "simplify:ebb7f560-b3e3-4f57-b812-b0097eeb39bf",
+      "title": "Data Scientist Intern - PhD",
+      "url": "https://job-boards.greenhouse.io/integra/jobs/5134592008",
+      "location": "Austin, TX",
+      "department": "AI/ML/Data",
+      "company": "Integra FEC"
     },
     {
       "id": "simplify:1d7a2077-52b3-4943-818a-2fa0ec30b52e",
@@ -15134,14 +15180,6 @@
       "company": "Skydio"
     },
     {
-      "id": "simplify:fd5a8521-4005-4532-8abf-fbe39bd79e6e",
-      "title": "Junior Cyber Electromagnetic Activities Software Engineer Intern",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Lawton-OK/Junior-CEMA-Software-Engineer-Intern_R-00182554",
-      "location": "Stillwater, OK / Edmond, OK / Oklahoma City, OK / Lawton, OK / Norman, OK",
-      "department": "Software",
-      "company": "Leidos"
-    },
-    {
       "id": "simplify:841512a1-c8d5-4de1-82ab-6d5025bacc53",
       "title": "Capital Markets Intern - Global Equities - Fall Sales & Trading Analyst",
       "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Capital-Markets--Global-Equities--Fall-Sales---Trading-Analyst--4-Months-_R-0000171251",
@@ -15262,6 +15300,14 @@
       "company": "KION Group"
     },
     {
+      "id": "simplify:7094b529-f81f-4757-bec7-54ce1d66d1f8",
+      "title": "Software Engineer Intern - AI Tools",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--AI-Tools---Fall-2026_JR2016805",
+      "location": "Santa Clara, CA",
+      "department": "Software",
+      "company": "NVIDIA"
+    },
+    {
       "id": "simplify:321e4809-3d29-4a9a-821c-0243562bf9f4",
       "title": "Product Management Intern - Tools & Processes",
       "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Product-Management-Intern---Tools---Processes_JR-0091693-1",
@@ -15292,6 +15338,14 @@
       "location": "Plymouth, MI",
       "department": "Hardware",
       "company": "Robert Bosch Venture Capital"
+    },
+    {
+      "id": "simplify:77a2f3fc-f657-4d3a-a64b-2832e7edb34c",
+      "title": "Software Developer Co-op/Intern - Core Algorithms - Life Sciences",
+      "url": "https://careers-kinaxis.icims.com/jobs/34704/job?mobile=true&needsRedirect=false",
+      "location": "Ottawa, ON, Canada",
+      "department": "Software",
+      "company": "Kinaxis"
     },
     {
       "id": "simplify:40437c0f-7771-4ec0-aedd-aa6abd7ed518",
