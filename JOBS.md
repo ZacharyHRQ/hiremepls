@@ -1,6 +1,6 @@
 # Open Internships
 
-**3081** internships across **63/63** companies — last updated 2026-05-15.
+**3076** internships across **63/63** companies — last updated 2026-05-15.
 
 ## Companies
 
@@ -97,7 +97,7 @@
 - [Ascend Learning](#ascend-learning) (2)
 - [Ascend Performance Materials ](#ascend-performance-materials) (1)
 - [ASM](#asm) (2)
-- [ASM Global](#asm-global) (4)
+- [ASM Global](#asm-global) (5)
 - [ASML](#asml) (2)
 - [AspenTech](#aspentech) (4)
 - [ASSA ABLOY](#assa-abloy) (2)
@@ -420,7 +420,7 @@
 - [FleetWorks](#fleetworks) (1)
 - [Flock Safety](#flock-safety) (1)
 - [Flywire](#flywire) (2)
-- [Formlabs](#formlabs) (5)
+- [Formlabs](#formlabs) (6)
 - [Fortinet](#fortinet) (2)
 - [Fortive](#fortive) (2)
 - [Foundation ](#foundation) (1)
@@ -437,7 +437,6 @@
 - [Geisinger](#geisinger) (2)
 - [Gelber Group](#gelber-group) (5)
 - [Gemini](#gemini) (1)
-- [Generac](#generac) (1)
 - [General Astronautics](#general-astronautics) (1)
 - [General Dynamics](#general-dynamics) (1)
 - [General Dynamics Mission Systems](#general-dynamics-mission-systems) (11)
@@ -502,7 +501,6 @@
 - [Hitachi](#hitachi) (5)
 - [Hitachi Energy](#hitachi-energy) (1)
 - [HNTB](#hntb) (3)
-- [Hologic](#hologic) (1)
 - [Home Depot](#home-depot) (1)
 - [Homebase](#homebase) (3)
 - [Hone Health](#hone-health) (1)
@@ -544,7 +542,7 @@
 - [Intact](#intact) (10)
 - [Intapp](#intapp) (1)
 - [Integra FEC](#integra-fec) (4)
-- [Integrity](#integrity) (2)
+- [Integrity](#integrity) (1)
 - [Intel](#intel) (6)
 - [Intelcom | Dragonfly](#intelcom-dragonfly) (15)
 - [Intercontinental Exchange, Inc.](#intercontinental-exchange-inc) (1)
@@ -563,7 +561,7 @@
 - [Jade Global](#jade-global) (2)
 - [Jain Global](#jain-global) (1)
 - [Jane Street](#jane-street) (12)
-- [JINGDONG](#jingdong) (3)
+- [JINGDONG](#jingdong) (2)
 - [John Deere](#john-deere) (1)
 - [Johnson & Johnson](#johnson-johnson) (1)
 - [Johnson and Johnson](#johnson-and-johnson) (1)
@@ -623,8 +621,7 @@
 - [Lumafield](#lumafield) (3)
 - [Lumen](#lumen) (1)
 - [Lumen Technologies](#lumen-technologies) (7)
-- [Lumentum](#lumentum) (5)
-- [Lumeris](#lumeris) (1)
+- [Lumentum](#lumentum) (4)
 - [Luminate](#luminate) (1)
 - [Lunar Energy](#lunar-energy) (2)
 - [Lyft](#lyft) (7)
@@ -633,7 +630,6 @@
 - [Mach9](#mach9) (2)
 - [Mackenzie Investments](#mackenzie-investments) (2)
 - [Macy's](#macy-s) (2)
-- [Madison Energy Infrastructure](#madison-energy-infrastructure) (1)
 - [Magna](#magna) (5)
 - [Man Group](#man-group) (5)
 - [Mariana Minerals](#mariana-minerals) (3)
@@ -666,7 +662,7 @@
 - [Method Financial](#method-financial) (1)
 - [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (5)
 - [Michael Baker International](#michael-baker-international) (1)
-- [Microchip Technology](#microchip-technology) (2)
+- [Microchip Technology](#microchip-technology) (3)
 - [Microchip Technology Inc](#microchip-technology-inc) (1)
 - [Micron Technology](#micron-technology) (4)
 - [Microsoft](#microsoft) (65)
@@ -693,7 +689,6 @@
 - [NBCUniversal](#nbcuniversal) (10)
 - [Nelnet](#nelnet) (2)
 - [Netflix](#netflix) (12)
-- [Netic](#netic) (1)
 - [Neuralink](#neuralink) (5)
 - [New York Life](#new-york-life) (1)
 - [New York Life Insurance](#new-york-life-insurance) (1)
@@ -764,6 +759,7 @@
 - [Perplexity](#perplexity) (4)
 - [Perplexity AI](#perplexity-ai) (1)
 - [Persona](#persona) (1)
+- [Phil](#phil) (1)
 - [Philips](#philips) (2)
 - [PHINIA](#phinia) (1)
 - [Physical Intelligence](#physical-intelligence) (2)
@@ -811,13 +807,11 @@
 - [Reacher](#reacher) (2)
 - [Readily (S23)](#readily-s23) (1)
 - [Reality Defender](#reality-defender) (1)
-- [Realty Income](#realty-income) (1)
 - [Red Aspen](#red-aspen) (1)
 - [Red Hat](#red-hat) (2)
 - [Reframe Systems](#reframe-systems) (1)
 - [REGENT](#regent) (1)
 - [Reingold](#reingold) (1)
-- [Relay Financial](#relay-financial) (1)
 - [Relixir](#relixir) (1)
 - [Relixir (X25)](#relixir-x25) (1)
 - [Renesas Electronics](#renesas-electronics) (2)
@@ -1028,7 +1022,7 @@
 - [Toyota Research Institute](#toyota-research-institute) (2)
 - [TraceRoot.AI](#traceroot-ai) (1)
 - [Tradeweb](#tradeweb) (8)
-- [Trane Technologies](#trane-technologies) (8)
+- [Trane Technologies](#trane-technologies) (9)
 - [Transcard](#transcard) (1)
 - [TransMarket Group](#transmarket-group) (3)
 - [TransPerfect](#transperfect) (2)
@@ -1838,6 +1832,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Hospitality and Merchandise Strategy and Inventory Analytics Intern](https://asmglobal.wd1.myworkdayjobs.com/careers/job/New-York-NY/Hospitality-and-Merchandise-Strategy-and-Inventory-Analytics-Intern_R100122727) | NYC | AI/ML/Data | 2026-05-15 |
 | [Automation & AI Technology Experience Intern](https://asmglobal.wd1.myworkdayjobs.com/careers/job/West-Conshohocken-PA/Automation---AI-Technology-Experience-Intern_R100122152) | Frisco, TX / Conshohocken, PA | AI/ML/Data | 2026-05-09 |
 | [Hospitality and Merchandise Insights Intern](https://asmglobal.wd1.myworkdayjobs.com/careers/job/New-York-NY/Hospitality-and-Merchandise-Insights-Intern_R100120704) | NYC | AI/ML/Data | 2026-05-09 |
 | [Hospitality and Merchandise Insights Intern](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Toronto-ON-Canada/Hospitality-and-Merchandise-Insights-Intern_R100120701) | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
@@ -4198,6 +4193,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Hardware Systems Integration Intern](https://careers.formlabs.com/job/7927471/apply/?gh_jid=7927471) | Cambridge, MA | Hardware | 2026-05-15 |
 | [Operations & Supply Chain Software Intern](https://careers.formlabs.com/job/7899552/apply/?gh_jid=7899552) | Cambridge, MA | Software | 2026-05-12 |
 | [Build Team Intern](https://careers.formlabs.com/job/7863858/apply/?gh_jid=7863858) | Cambridge, MA | Hardware | 2026-05-09 |
 | [Print Optimization Intern](https://careers.formlabs.com/job/7384134/apply/?gh_jid=7384134) | Cambridge, MA | — | 2026-05-09 |
@@ -4316,12 +4312,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Software Engineer Intern](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7875125&gh_jid=7875125) | NYC | Software | 2026-05-09 |
-
-## Generac
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [IT Intern – Web Development](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/IT-Intern---Web-Development_JR13465) | Waukesha, WI | Software | 2026-05-13 |
 
 ## General Astronautics
 
@@ -4797,12 +4787,6 @@
 | [Artificial Intelligence Intern](https://hntb.wd5.myworkdayjobs.com/en-US/hntb_university_careers/job/Arlington-VA-Alexandria/Artificial-Intelligence-Intern---Summer-2026_R-27983-1) | Arlington, VA | Data Science, AI & Machine Learning | 2026-05-09 |
 | [Data & AI Intern - No/Low-Code + GenAI](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Kansas-City-MO/Data---AI-Intern--No-Low-Code---GenAI----Summer-2026_R-28913-2) | Kansas City, MO | AI/ML/Data | 2026-05-09 |
 
-## Hologic
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Software Engineering Intern](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11406) | Newark, DE | Software | 2026-05-09 |
-
 ## Home Depot
 
 | Title | Location | Department | First seen |
@@ -5110,7 +5094,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Product Intern](https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Scottsdale-AZ/Product-Intern_JR4053) | Scottsdale, AZ | Product | 2026-05-11 |
 | [Marketing & Media Process Intern](https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Cary-NC/Marketing---Media-Process-Intern_JR3649) | Morrisville, NC | Software | 2026-05-09 |
 
 ## Intel
@@ -5269,7 +5252,6 @@
 | --- | --- | --- | --- |
 | [Category Assistant Intern](https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/DEU-North-Rhine-Westphalia-Dsseldorf/JD-Young-Category-Assistant-Internship_JR102473-1) | Neukirchen-Vluyn, Germany / Berlin, Germany | Product | 2026-05-11 |
 | [JD Young AI Data Analyst Intern](https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/GBR-England-Greater-London-London/JD-Young-AI-Data-Analyst-Internship_JR102354) | London, UK | AI/ML/Data | 2026-05-09 |
-| [Young Service Product Intern](https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/GBR-England-Greater-London-London/JD-Young-Service-Product-Internship_JR102501) | London, UK | Product | 2026-05-09 |
 
 ## John Deere
 
@@ -5733,13 +5715,6 @@
 | [Data Engineering Intern](https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Data-Engineering-Intern_2026318) | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Liquid Crystal on Silicon Research Co-op/Intern](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Liquid-Crystal-on-Silicon-Research-Co-op-Intern_2026625) | Ottawa, ON, Canada | Hardware | 2026-05-09 |
 | [Optical Verification Engineer Co-op/Intern](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_2026531) | Ottawa, ON, Canada | Hardware | 2026-05-09 |
-| [Optical Verification Engineer Co-op/Intern](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_2026530) | Ottawa, ON, Canada | Hardware | 2026-05-09 |
-
-## Lumeris
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Clinical AI Engineer Intern](https://lumeris.wd1.myworkdayjobs.com/en-US/LC/job/Massachusetts/Clinical-AI-Engineering-Intern_R0007018) | Massachusetts | AI/ML/Data | 2026-05-14 |
 
 ## Luminate
 
@@ -5798,12 +5773,6 @@
 | --- | --- | --- | --- |
 | [Business Operations Intern/Co-op, Product Development](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/80620) | NYC | — | 2026-05-09 |
 | [Technology Intern - Multiple Teams](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/80607) | Johns Creek, GA | Software | 2026-05-09 |
-
-## Madison Energy Infrastructure
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Digital Intern](https://job-boards.greenhouse.io/madisonenergyinfrastructure/jobs/4174929009) | Vienna, VA | AI/ML/Data | 2026-05-09 |
 
 ## Magna
 
@@ -6056,6 +6025,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Engineering Intern](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern-Engineering--HPS-_R1930-26) | Chandler, AZ | Hardware | 2026-05-15 |
 | [Engineering Intern - Business Intelligence](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern---Engineering--Business-Intelligence-_R1727-26) | Chandler, AZ | Software | 2026-05-09 |
 | [Intern Technician - Electronics](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/PA---Mount-Holly-Springs/Intern-Technician--Electronics-_R847-26) | Carlisle, PA | Hardware | 2026-05-09 |
 
@@ -6318,12 +6288,6 @@
 | [Software Engineer Intern](https://explore.jobs.netflix.net/careers/job/790312348360?microsite=vansh.nyc) | Los Gatos, CA | — | 2026-05-09 |
 | [Software Engineer PhD Intern - Streaming Algorithms - Summer 2026](https://explore.jobs.netflix.net/careers/job/790313241540) | Los Gatos, CA | Software | 2026-05-09 |
 | [Video Algorithms Intern - Summer 2026](https://explore.jobs.netflix.net/careers/job/790313056868) | Los Gatos, CA | AI/ML/Data | 2026-05-09 |
-
-## Netic
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Software Engineer Intern - AI Platform - Full-Stack Development](https://jobs.ashbyhq.com/netic/1242d448-bce2-4328-81ac-4b1080460b00/application) | SF | Software | 2026-05-09 |
 
 ## Neuralink
 
@@ -6888,6 +6852,12 @@
 | --- | --- | --- | --- |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/persona/2c62ac4f-d004-4b5d-b403-c14baa5b3f26) | San Francisco, CA | — | 2026-05-09 |
 
+## Phil
+
+| Title | Location | Department | First seen |
+| --- | --- | --- | --- |
+| [AI Engineer Intern](https://jobs.ashbyhq.com/phil/4626509e-297e-4a03-b5b1-7d72cbbc5b82/application) | Remote in USA | Software | 2026-05-15 |
+
 ## Philips
 
 | Title | Location | Department | First seen |
@@ -7240,12 +7210,6 @@
 | --- | --- | --- | --- |
 | [Computer Vision Intern](https://jobs.ashbyhq.com/realitydefender/39bb3911-38f3-4db6-9537-0ec90bfb7440) | New York City, NY | — | 2026-05-09 |
 
-## Realty Income
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Macroeconomic Data Science Intern](https://realtyincome.wd108.myworkdayjobs.com/realty_income_careers/job/San-Diego-California/Macroeconomic-Data-Science-Intern_R-100098) | San Diego, CA | AI/ML/Data | 2026-05-09 |
-
 ## Red Aspen
 
 | Title | Location | Department | First seen |
@@ -7276,12 +7240,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [AI Solutions Intern](https://reingoldinc.applytojob.com/apply/dP3il6V8NJ/AI-Solutions-Internship) | Alexandria, VA | — | 2026-05-09 |
-
-## Relay Financial
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Partnerships Intern](https://jobs.ashbyhq.com/relayfi/a48c120d-20d9-4db0-8384-b281fd85b742/application) | Toronto, ON, Canada | Software | 2026-05-09 |
 
 ## Relixir
 
@@ -9126,6 +9084,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [BrainBox AI Intern](https://careers.tranetechnologies.com/global/en/job/JR-5109) | Manchester, NH | AI/ML/Data | 2026-05-15 |
 | [AI Intern - Brainbox AI](https://careers.tranetechnologies.com/global/en/job/92601288) | Montreal, QC, Canada | Software | 2026-05-14 |
 | [Collections Data Analyst Intern](https://careers.tranetechnologies.com/global/en/job/JR-4222) | Winona, MN | AI/ML/Data | 2026-05-14 |
 | [Developer Intern](https://careers.tranetechnologies.com/global/en/job/92601996) | Winona, MN | Software | 2026-05-13 |

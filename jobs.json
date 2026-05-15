@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-15T00:08:35.274Z",
+  "generatedAt": "2026-05-15T04:15:31.167Z",
   "companyCount": 63,
   "okCount": 63,
-  "jobCount": 3081,
+  "jobCount": 3076,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -247,7 +247,6 @@
     "simplify:28e7723d-87ac-43e1-b8bf-6ea0e3eae940": "2026-05-09T15:28:15.527Z",
     "simplify:c8c507d6-167f-48b5-ad00-bae916e5386f": "2026-05-09T15:28:15.527Z",
     "simplify:00e8653c-faf3-4c7b-9014-4bf9f6227016": "2026-05-09T15:28:15.527Z",
-    "simplify:57723321-48ff-4019-a3de-605a9cc0df3c": "2026-05-09T15:28:15.527Z",
     "simplify:80d976db-5f2b-4698-8f86-f143b0375a64": "2026-05-09T15:28:15.527Z",
     "simplify:d5cbc4c5-f215-47fb-ad95-c91f1cfff1d4": "2026-05-09T15:28:15.527Z",
     "simplify:f3d990d7-b256-4576-899c-22d211d87fce": "2026-05-09T15:28:15.527Z",
@@ -708,7 +707,6 @@
     "simplify:e1d39a72-9fe2-4bef-bd9b-7c5f1c3c57f3": "2026-05-09T15:28:15.527Z",
     "simplify:40090818-c9a2-4104-9627-111a5b9cd079": "2026-05-09T15:28:15.527Z",
     "simplify:070118a3-8fd2-4c02-b69b-456d929e6370": "2026-05-09T15:28:15.527Z",
-    "simplify:52c899c7-5608-4a11-821d-29de0716fe70": "2026-05-09T15:28:15.527Z",
     "simplify:15595611-0be2-4306-b819-62bc25f236b4": "2026-05-09T15:28:15.527Z",
     "simplify:5a81a8b6-4e51-4777-aa99-078c0c47d83a": "2026-05-09T15:28:15.527Z",
     "simplify:ca8dc22b-a9aa-40ba-a2cb-e4637ec3192a": "2026-05-09T15:28:15.527Z",
@@ -1013,7 +1011,6 @@
     "simplify:d3506df6-a276-45fc-9c56-0486208cd5e8": "2026-05-09T15:28:15.527Z",
     "simplify:4fccaa8a-ab20-431c-9479-96f15a9125a3": "2026-05-09T15:28:15.527Z",
     "simplify:0dcc796d-483e-4558-b5d6-6afe5f134712": "2026-05-09T15:28:15.527Z",
-    "simplify:848e0aa9-cf91-4944-916e-f8de0dde3461": "2026-05-09T15:28:15.527Z",
     "simplify:2e69d72e-a17b-42ce-81c3-57e18f759b3b": "2026-05-09T15:28:15.527Z",
     "simplify:94fdcde6-ec6d-4c6a-a671-4774917694d2": "2026-05-09T15:28:15.527Z",
     "simplify:4fd6ba3f-9427-43af-a0cf-7e424402b95f": "2026-05-09T15:28:15.527Z",
@@ -1112,7 +1109,6 @@
     "simplify:e6bece49-f399-472e-bf03-9bc75f7a763f": "2026-05-09T15:28:15.527Z",
     "simplify:8470c8b0-e6d0-43af-ba47-a8c034cacfff": "2026-05-09T15:28:15.527Z",
     "simplify:ae209ada-1b1c-4f09-8ede-06b58c76c9dd": "2026-05-09T15:28:15.527Z",
-    "simplify:1add2d01-be09-4eef-91f0-d91de027c2f5": "2026-05-09T15:28:15.527Z",
     "simplify:48b498cd-3c0f-4131-b3ed-e3bea8492f06": "2026-05-09T15:28:15.527Z",
     "simplify:e8fe53d2-e6d7-49e3-b99e-048cc351bc8e": "2026-05-09T15:28:15.527Z",
     "simplify:177690e4-6703-4698-a2bd-350db211f356": "2026-05-09T15:28:15.527Z",
@@ -1230,7 +1226,6 @@
     "simplify:cd385d8f-6fdb-4050-a460-6ee6b6f2ecb8": "2026-05-09T15:28:15.527Z",
     "simplify:c40f3fd2-137a-49ab-b53c-3c8c87dfbe54": "2026-05-09T15:28:15.527Z",
     "simplify:4bd9a6ac-0f18-41dc-aeca-a71407f40f60": "2026-05-09T15:28:15.527Z",
-    "simplify:2c3c55c5-9c0c-46fc-b916-789c7263e4a1": "2026-05-09T15:28:15.527Z",
     "simplify:cd0d594d-c562-4377-8db8-d25cc59b7160": "2026-05-09T15:28:15.527Z",
     "simplify:f43a9396-7c89-4fa7-bfd1-eca8533895fb": "2026-05-09T15:28:15.527Z",
     "simplify:55023fd3-ef60-49f4-ac11-5d1fe01b0a7d": "2026-05-09T15:28:15.527Z",
@@ -1299,7 +1294,6 @@
     "simplify:5dc9905b-06dc-463c-8af3-2ae7f6994c71": "2026-05-09T15:28:15.527Z",
     "simplify:3bb13cb6-c2fc-4af4-bbe8-b4b81e4d5d80": "2026-05-09T15:28:15.527Z",
     "simplify:0de7a683-a9d6-491b-9f9c-a4490d1e5021": "2026-05-09T15:28:15.527Z",
-    "simplify:aba775c1-f372-48a7-928c-48b436b80682": "2026-05-09T15:28:15.527Z",
     "simplify:609c7317-d48d-4dcc-ad90-16046afed879": "2026-05-09T15:28:15.527Z",
     "simplify:5a91a343-b2f1-4dff-b9c7-8bf44c246eeb": "2026-05-09T15:28:15.527Z",
     "simplify:33e82b3a-09e7-4ff4-8ecc-60a08ee64f57": "2026-05-09T15:28:15.527Z",
@@ -1328,7 +1322,6 @@
     "simplify:8d7eee88-34b8-4d87-a3e4-79928afbb867": "2026-05-09T15:28:15.527Z",
     "simplify:f8d8bb70-cd96-494d-9f28-b2dd029d20c9": "2026-05-09T15:28:15.527Z",
     "simplify:30e5c506-6bbf-41ed-b0a2-21f20a317c6b": "2026-05-09T15:28:15.527Z",
-    "simplify:0bef058f-773f-44f2-b014-767a11dea595": "2026-05-09T15:28:15.527Z",
     "simplify:7d5f248c-7dca-47b0-9434-72f9c8091484": "2026-05-09T15:28:15.527Z",
     "simplify:904e4777-4296-4b07-9515-09e62aa56835": "2026-05-09T15:28:15.527Z",
     "simplify:6657ae54-86a0-47c2-aac3-d20df829fb37": "2026-05-09T15:28:15.527Z",
@@ -2828,7 +2821,6 @@
     "simplify:756524a0-eb1e-46c9-b462-484c9923268a": "2026-05-11T23:38:25.770Z",
     "simplify:a96e8247-6d73-4e20-95c7-8fd251ac98ef": "2026-05-11T23:38:25.770Z",
     "simplify:cb7d1d33-fcc1-4eba-afb9-275d0386723e": "2026-05-11T23:38:25.770Z",
-    "simplify:1f6ad8be-8a46-4d3b-8c4d-97bfc5916655": "2026-05-11T23:38:25.770Z",
     "simplify:6a2404cb-97ed-4e99-bbbd-fee4616ab462": "2026-05-11T23:38:25.770Z",
     "simplify:5e598bba-d9bf-404f-8e1d-78f152906e01": "2026-05-11T23:38:25.770Z",
     "simplify:6d423ec0-c285-4e06-87e5-4169aa3d5ed2": "2026-05-11T23:38:25.770Z",
@@ -2900,7 +2892,6 @@
     "simplify:b2caadce-6eeb-4eb8-8571-477e8b7bca43": "2026-05-13T23:40:40.818Z",
     "simplify:614af212-1ca3-48d6-a1b7-29ea78007cb2": "2026-05-13T23:40:40.818Z",
     "simplify:f8061283-7836-4832-afc5-5784772d0a48": "2026-05-13T23:40:40.818Z",
-    "simplify:417cd806-6c44-4fa1-80fa-62572cb7caed": "2026-05-13T23:40:40.818Z",
     "simplify:113f5b27-2163-45e7-8895-44c1b2f2e666": "2026-05-13T23:40:40.818Z",
     "simplify:61c7abb1-f25a-4a8e-a600-c3d596da442d": "2026-05-13T23:40:40.818Z",
     "simplify:0519e9d9-4163-417f-af59-f1456ff76d32": "2026-05-13T23:40:40.818Z",
@@ -2948,7 +2939,6 @@
     "simplify:fd5a8521-4005-4532-8abf-fbe39bd79e6e": "2026-05-14T01:31:29.727Z",
     "simplify:b8efe27f-c76a-4d68-a3e0-7223c8e08ef8": "2026-05-14T01:31:29.727Z",
     "simplify:77a2f3fc-f657-4d3a-a64b-2832e7edb34c": "2026-05-14T01:31:29.727Z",
-    "simplify:62bd536b-f4d0-4002-8206-67fda1fd000e": "2026-05-14T01:31:29.727Z",
     "simplify:40437c0f-7771-4ec0-aedd-aa6abd7ed518": "2026-05-14T01:31:29.727Z",
     "simplify:53f8fb29-baff-4860-abf4-e65d1cd1a500": "2026-05-14T01:31:29.727Z",
     "simplify:870bfe1c-ab9e-49e0-873b-8346dabd4abb": "2026-05-14T01:31:29.727Z",
@@ -3084,7 +3074,12 @@
     "simplify:89cd8782-07fb-498b-98cc-0e43e5a50f79": "2026-05-15T00:08:35.274Z",
     "simplify:8701aeaf-8912-480b-9d4b-e131dc6869b2": "2026-05-15T00:08:35.274Z",
     "simplify:2bf9596e-6416-4fef-8c6d-48ac964d59fa": "2026-05-15T00:08:35.274Z",
-    "simplify:441050ea-b57f-4448-ae69-2a4a8646229f": "2026-05-15T00:08:35.274Z"
+    "simplify:441050ea-b57f-4448-ae69-2a4a8646229f": "2026-05-15T00:08:35.274Z",
+    "simplify:c623e3d0-43d6-4ba5-93dc-077ec55a1bb3": "2026-05-15T04:15:31.167Z",
+    "simplify:934265ea-b385-4122-97a5-dc5792bc8bdb": "2026-05-15T04:15:31.167Z",
+    "simplify:00f44446-ad17-4f48-b8bb-b740cf261ff7": "2026-05-15T04:15:31.167Z",
+    "simplify:62d6d6a1-8ae2-4c21-b391-60dca7593c33": "2026-05-15T04:15:31.167Z",
+    "simplify:25e5cdde-2399-431a-a6d9-20218124af5f": "2026-05-15T04:15:31.167Z"
   },
   "jobs": [
     {
@@ -5046,14 +5041,6 @@
       "location": "Overland Park, KS",
       "department": "Software",
       "company": "Aechelon Technology"
-    },
-    {
-      "id": "simplify:57723321-48ff-4019-a3de-605a9cc0df3c",
-      "title": "Software Engineer Intern - AI Platform - Full-Stack Development",
-      "url": "https://jobs.ashbyhq.com/netic/1242d448-bce2-4328-81ac-4b1080460b00/application",
-      "location": "SF",
-      "department": "Software",
-      "company": "Netic"
     },
     {
       "id": "simplify:80d976db-5f2b-4698-8f86-f143b0375a64",
@@ -9128,14 +9115,6 @@
       "company": "Snap-on"
     },
     {
-      "id": "simplify:52c899c7-5608-4a11-821d-29de0716fe70",
-      "title": "Digital Intern",
-      "url": "https://job-boards.greenhouse.io/madisonenergyinfrastructure/jobs/4174929009",
-      "location": "Vienna, VA",
-      "department": "AI/ML/Data",
-      "company": "Madison Energy Infrastructure"
-    },
-    {
       "id": "simplify:6ac7c03f-fa0a-4a73-90e0-86cf65de7d4c",
       "title": "Computer Vision AI Intern",
       "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/Computer-Vision--AI-Intern--R-D-Summer-2026_R00232831-1",
@@ -11624,14 +11603,6 @@
       "company": "KION Group"
     },
     {
-      "id": "simplify:417cd806-6c44-4fa1-80fa-62572cb7caed",
-      "title": "IT Intern – Web Development",
-      "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/IT-Intern---Web-Development_JR13465",
-      "location": "Waukesha, WI",
-      "department": "Software",
-      "company": "Generac"
-    },
-    {
       "id": "simplify:113f5b27-2163-45e7-8895-44c1b2f2e666",
       "title": "Intern Failure Analysis & Validation Engineering",
       "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235417",
@@ -12006,14 +11977,6 @@
       "location": "Remote in USA",
       "department": "AI/ML/Data",
       "company": "Centific"
-    },
-    {
-      "id": "simplify:848e0aa9-cf91-4944-916e-f8de0dde3461",
-      "title": "Software Engineering Intern",
-      "url": "https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11406",
-      "location": "Newark, DE",
-      "department": "Software",
-      "company": "Hologic"
     },
     {
       "id": "simplify:2e69d72e-a17b-42ce-81c3-57e18f759b3b",
@@ -13038,14 +13001,6 @@
       "location": "Franklin, TN",
       "department": "AI/ML/Data",
       "company": "IEM"
-    },
-    {
-      "id": "simplify:1add2d01-be09-4eef-91f0-d91de027c2f5",
-      "title": "Macroeconomic Data Science Intern",
-      "url": "https://realtyincome.wd108.myworkdayjobs.com/realty_income_careers/job/San-Diego-California/Macroeconomic-Data-Science-Intern_R-100098",
-      "location": "San Diego, CA",
-      "department": "AI/ML/Data",
-      "company": "Realty Income"
     },
     {
       "id": "simplify:48b498cd-3c0f-4131-b3ed-e3bea8492f06",
@@ -14200,14 +14155,6 @@
       "company": "Lumentum"
     },
     {
-      "id": "simplify:2c3c55c5-9c0c-46fc-b916-789c7263e4a1",
-      "title": "Optical Verification Engineer Co-op/Intern",
-      "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_2026530",
-      "location": "Ottawa, ON, Canada",
-      "department": "Hardware",
-      "company": "Lumentum"
-    },
-    {
       "id": "simplify:cd0d594d-c562-4377-8db8-d25cc59b7160",
       "title": "Software Test Engineering Intern",
       "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/Troy-MI---USA/Software-Test-Engineering-Intern_J000685610",
@@ -14912,14 +14859,6 @@
       "company": "NVIDIA"
     },
     {
-      "id": "simplify:aba775c1-f372-48a7-928c-48b436b80682",
-      "title": "Partnerships Intern",
-      "url": "https://jobs.ashbyhq.com/relayfi/a48c120d-20d9-4db0-8384-b281fd85b742/application",
-      "location": "Toronto, ON, Canada",
-      "department": "Software",
-      "company": "Relay Financial"
-    },
-    {
       "id": "simplify:609c7317-d48d-4dcc-ad90-16046afed879",
       "title": "Software Developer Intern",
       "url": "https://jobs.ashbyhq.com/wealthsimple/fda5d29e-cbda-43db-994f-a2de669d1141/application",
@@ -15166,14 +15105,6 @@
       "location": "Longueuil, QC, Canada",
       "department": "AI/ML/Data",
       "company": "RTX"
-    },
-    {
-      "id": "simplify:0bef058f-773f-44f2-b014-767a11dea595",
-      "title": "Young Service Product Intern",
-      "url": "https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/GBR-England-Greater-London-London/JD-Young-Service-Product-Internship_JR102501",
-      "location": "London, UK",
-      "department": "Product",
-      "company": "JINGDONG"
     },
     {
       "id": "simplify:7d5f248c-7dca-47b0-9434-72f9c8091484",
@@ -15430,14 +15361,6 @@
       "location": "Ottawa, ON, Canada",
       "department": "Software",
       "company": "Kinaxis"
-    },
-    {
-      "id": "simplify:62bd536b-f4d0-4002-8206-67fda1fd000e",
-      "title": "Clinical AI Engineer Intern",
-      "url": "https://lumeris.wd1.myworkdayjobs.com/en-US/LC/job/Massachusetts/Clinical-AI-Engineering-Intern_R0007018",
-      "location": "Massachusetts",
-      "department": "AI/ML/Data",
-      "company": "Lumeris"
     },
     {
       "id": "simplify:40437c0f-7771-4ec0-aedd-aa6abd7ed518",
@@ -16342,14 +16265,6 @@
       "location": "San Mateo, CA",
       "department": "Software",
       "company": "Zoox"
-    },
-    {
-      "id": "simplify:1f6ad8be-8a46-4d3b-8c4d-97bfc5916655",
-      "title": "Product Intern",
-      "url": "https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Scottsdale-AZ/Product-Intern_JR4053",
-      "location": "Scottsdale, AZ",
-      "department": "Product",
-      "company": "Integrity"
     },
     {
       "id": "simplify:6a2404cb-97ed-4e99-bbbd-fee4616ab462",
@@ -17350,6 +17265,46 @@
       "location": "NYC",
       "department": "Software",
       "company": "Palantir"
+    },
+    {
+      "id": "simplify:c623e3d0-43d6-4ba5-93dc-077ec55a1bb3",
+      "title": "AI Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/phil/4626509e-297e-4a03-b5b1-7d72cbbc5b82/application",
+      "location": "Remote in USA",
+      "department": "Software",
+      "company": "Phil"
+    },
+    {
+      "id": "simplify:934265ea-b385-4122-97a5-dc5792bc8bdb",
+      "title": "Engineering Intern",
+      "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern-Engineering--HPS-_R1930-26",
+      "location": "Chandler, AZ",
+      "department": "Hardware",
+      "company": "Microchip Technology"
+    },
+    {
+      "id": "simplify:00f44446-ad17-4f48-b8bb-b740cf261ff7",
+      "title": "Hardware Systems Integration Intern",
+      "url": "https://careers.formlabs.com/job/7927471/apply/?gh_jid=7927471",
+      "location": "Cambridge, MA",
+      "department": "Hardware",
+      "company": "Formlabs"
+    },
+    {
+      "id": "simplify:62d6d6a1-8ae2-4c21-b391-60dca7593c33",
+      "title": "BrainBox AI Intern",
+      "url": "https://careers.tranetechnologies.com/global/en/job/JR-5109",
+      "location": "Manchester, NH",
+      "department": "AI/ML/Data",
+      "company": "Trane Technologies"
+    },
+    {
+      "id": "simplify:25e5cdde-2399-431a-a6d9-20218124af5f",
+      "title": "Hospitality and Merchandise Strategy and Inventory Analytics Intern",
+      "url": "https://asmglobal.wd1.myworkdayjobs.com/careers/job/New-York-NY/Hospitality-and-Merchandise-Strategy-and-Inventory-Analytics-Intern_R100122727",
+      "location": "NYC",
+      "department": "AI/ML/Data",
+      "company": "ASM Global"
     },
     {
       "id": "vansh:d2c404c8-5895-4ec0-95c2-3d17aed38beb",
