@@ -1,6 +1,6 @@
 # Open Internships
 
-**3053** internships across **63/63** companies — last updated 2026-05-15.
+**3050** internships across **63/63** companies — last updated 2026-05-15.
 
 ## Companies
 
@@ -388,7 +388,7 @@
 - [Eversource Energy](#eversource-energy) (1)
 - [Exegy](#exegy) (2)
 - [Exiger](#exiger) (2)
-- [EXL](#exl) (6)
+- [EXL](#exl) (5)
 - [Expedia Group](#expedia-group) (8)
 - [Expedition Technology](#expedition-technology) (1)
 - [Experian](#experian) (5)
@@ -611,7 +611,6 @@
 - [Live Nation Entertainment](#live-nation-entertainment) (2)
 - [LMI ](#lmi) (5)
 - [Lockheed Martin](#lockheed-martin) (8)
-- [Locus Robotics](#locus-robotics) (1)
 - [Lumafield](#lumafield) (3)
 - [Lumen](#lumen) (1)
 - [Lumen Technologies](#lumen-technologies) (7)
@@ -652,7 +651,7 @@
 - [Merz](#merz) (1)
 - [Mesh](#mesh) (1)
 - [Meta](#meta) (26)
-- [Metalenz](#metalenz) (2)
+- [Metalenz](#metalenz) (1)
 - [Method Financial](#method-financial) (1)
 - [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (5)
 - [Michael Baker International](#michael-baker-international) (1)
@@ -666,7 +665,7 @@
 - [MITRE](#mitre) (1)
 - [Mizuho Securities USA](#mizuho-securities-usa) (1)
 - [Molex](#molex) (1)
-- [MongoDB](#mongodb) (4)
+- [MongoDB](#mongodb) (5)
 - [Monolithic Power Systems](#monolithic-power-systems) (2)
 - [Moody's](#moody-s) (2)
 - [Moog ](#moog) (3)
@@ -836,7 +835,6 @@
 - [S&P Global](#s-p-global) (1)
 - [Safran](#safran) (1)
 - [SAIC](#saic) (1)
-- [SailPoint](#sailpoint) (1)
 - [Salesforce](#salesforce) (2)
 - [Salient Motion](#salient-motion) (1)
 - [Samaya](#samaya) (1)
@@ -2962,8 +2960,8 @@
 | [Revenue Operations Intern - Enablement (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7761397?gh_jid=7761397) | In-Office | — | 2026-05-06 |
 | [Sales Project Manager Intern (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7773799?gh_jid=7773799) | In-Office | — | 2026-05-06 |
 | [Sales: Solutions Engineer - Intern (Summer & Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7792962?gh_jid=7792962) | In-Office | — | 2026-05-06 |
-| [Security Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169) | In-Office | — | 2026-05-06 |
 | [Security Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150) | In-Office | — | 2026-05-06 |
+| [Security Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169) | In-Office | — | 2026-05-06 |
 | [Technical Marketing Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7733496?gh_jid=7733496) | In-Office | — | 2026-05-06 |
 | [Technical Support Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879) | In-Office | — | 2026-05-06 |
 | [Threat Detection and Incident Response Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7577205?gh_jid=7577205) | In-Office | — | 2026-05-06 |
@@ -3964,7 +3962,6 @@
 | [Business Intelligence Analyst Intern](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/14063) | United States | AI/ML/Data | 2026-05-15 |
 | [Analytics & AI Solutions Intern](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/14060) | United States | AI/ML/Data | 2026-05-14 |
 | [Business Intelligence Analyst Intern](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/14064) | United States | AI/ML/Data | 2026-05-14 |
-| [Data Scientist Intern](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/13850) | United States | AI/ML/Data | 2026-05-14 |
 | [Artificial Intelligence / Machine Learning Intern - ML/AI Agent Development](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/13700) | United States | AI/ML/Data | 2026-05-09 |
 | [Intern Analytics & AI - Data Management](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/10272) | NYC | AI/ML/Data | 2026-05-09 |
 
@@ -5621,12 +5618,6 @@
 | [Software Engineering Internship](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25037&siteid=5014&PageType=JobDetails&jobid=801044#jobDetails=801044_5014) | Oklahoma City, OK | — | 2026-05-09 |
 | [Systems Integration Test Engineer Intern, Software](https://www.lockheedmartinjobs.com/job/sunnyvale/systems-integration-test-engineer-intern-software-summer-2026/694/86294359328) | Sunnyvale, CA | — | 2026-05-09 |
 
-## Locus Robotics
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [PhD Research Intern - AI & Computer Vision](https://job-boards.greenhouse.io/locusrobotics/jobs/5099333007) | Remote in UK | AI/ML/Data | 2026-05-09 |
-
 ## Lumafield
 
 | Title | Location | Department | First seen |
@@ -5946,7 +5937,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Camera Software Intern](https://jobs.ashbyhq.com/metalenz/67e2d3ed-9adc-4f35-aa81-7995b9388eff) | Boston, MA | Hardware Engineering | 2026-05-09 |
-| [Computational Imaging Engineer Intern](https://jobs.ashbyhq.com/metalenz/2c1b45cc-1af4-4743-9e49-f00c64ef16d2/application) | Boston, MA | AI/ML/Data | 2026-05-09 |
 
 ## Method Financial
 
@@ -6107,6 +6097,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Software Engineering Internship - Summer 2026/2027](https://www.mongodb.com/careers/job/?gh_jid=7768470) | Sydney | — | 2026-05-15 |
 | [Software Engineer Intern, Internal Engineering](https://www.mongodb.com/careers/jobs/7335932) | New York, NY | — | 2026-05-09 |
 | [Software Engineering Intern](https://www.mongodb.com/careers/jobs/7239454) | Austin, TX / New York, NY / San Francisco, CA | — | 2026-05-09 |
 | [Software Engineering Intern](https://www.mongodb.com/careers/job/?gh_jid=7239049) | Toronto, Canada | — | 2026-05-09 |
@@ -7456,12 +7447,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Software Engineer Intern](https://jobs.saic.com/jobs/16632564-software-engineer-intern) | El Paso, TX | — | 2026-05-09 |
-
-## SailPoint
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [AI Data Engineer Intern](https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint/job/Headquarters-Austin-Texas-USA/AI-Data-Engineer---Intern_R013414) | Austin, TX | AI/ML/Data | 2026-05-14 |
 
 ## Salesforce
 
