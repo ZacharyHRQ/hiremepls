@@ -1,6 +1,6 @@
 # Open Internships
 
-**3069** internships across **63/63** companies — last updated 2026-05-15.
+**3068** internships across **63/63** companies — last updated 2026-05-15.
 
 ## Companies
 
@@ -903,7 +903,7 @@
 - [Smiths Detection Group](#smiths-detection-group) (1)
 - [Snap](#snap) (1)
 - [Snap-on](#snap-on) (2)
-- [Snowflake](#snowflake) (14)
+- [Snowflake](#snowflake) (13)
 - [Snyk](#snyk) (2)
 - [Société Générale de Surveillance (SGS)](#soci-t-g-n-rale-de-surveillance-sgs) (1)
 - [Socure](#socure) (2)
@@ -2976,8 +2976,8 @@
 | [Revenue Operations Intern - Enablement (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7761397?gh_jid=7761397) | In-Office | — | 2026-05-06 |
 | [Sales Project Manager Intern (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7773799?gh_jid=7773799) | In-Office | — | 2026-05-06 |
 | [Sales: Solutions Engineer - Intern (Summer & Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7792962?gh_jid=7792962) | In-Office | — | 2026-05-06 |
-| [Security Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150) | In-Office | — | 2026-05-06 |
 | [Security Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169) | In-Office | — | 2026-05-06 |
+| [Security Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150) | In-Office | — | 2026-05-06 |
 | [Technical Marketing Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7733496?gh_jid=7733496) | In-Office | — | 2026-05-06 |
 | [Technical Support Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879) | In-Office | — | 2026-05-06 |
 | [Threat Detection and Incident Response Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7577205?gh_jid=7577205) | In-Office | — | 2026-05-06 |
@@ -7954,7 +7954,6 @@
 | [Software Engineer Intern, Infrastructure Automation](https://careers.snowflake.com/us/en/job/SNCOUS72F58A8D2F534905B8F4CE153CF9D32AEXTERNALENUS874E8974AF23491B9720EDDC6E75F1EB/Software-Engineer-Intern-Infrastructure-Automation-Spring-2026) | Menlo Park, CA / Bellevue, WA | — | 2026-05-09 |
 | [Software Engineer Intern, Infrastructure Automation](https://careers.snowflake.com/us/en/job/SNCOUSCC3FB214186D4B439D3F15B47307A231EXTERNALENUSBBDEE8BD443C456FA4F01B363D843310/Software-Engineer-Intern-Infrastructure-Automation-Fall-2026) | Menlo Park, CA / Bellevue, WA | — | 2026-05-09 |
 | [Software Engineer Intern (Security) - Fall 2026](https://jobs.ashbyhq.com/snowflake/a488959b-6874-4563-acb2-af747c3dc6f7) | — | — | 2026-05-08 |
-| [Data Engineer Intern - Pune (2026)](https://jobs.ashbyhq.com/snowflake/8904ed85-75d6-48cf-b01b-7941677fde4a) | — | — | 2026-05-06 |
 | [Research Intern (AI) - 2026](https://jobs.ashbyhq.com/snowflake/e2412cd5-19dd-44f8-addd-c9ef3c99ff82) | — | — | 2026-05-06 |
 | [Software Engineer Intern - Berlin (2026)](https://jobs.ashbyhq.com/snowflake/41e65c6c-a01e-4f40-af14-ae75d3b95e27) | — | — | 2026-05-06 |
 | [Software Engineer Intern (AI/ML) - 2026](https://jobs.ashbyhq.com/snowflake/897e1850-c590-4462-b187-0516b65b2034) | — | — | 2026-05-06 |

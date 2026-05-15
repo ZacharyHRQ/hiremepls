@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-15T16:23:09.152Z",
+  "generatedAt": "2026-05-15T17:58:27.740Z",
   "companyCount": 63,
   "okCount": 63,
-  "jobCount": 3069,
+  "jobCount": 3068,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -144,7 +144,6 @@
     "41e65c6c-a01e-4f40-af14-ae75d3b95e27": "2026-05-06T06:42:07.596Z",
     "897e1850-c590-4462-b187-0516b65b2034": "2026-05-06T06:42:07.596Z",
     "e2412cd5-19dd-44f8-addd-c9ef3c99ff82": "2026-05-06T06:42:07.596Z",
-    "8904ed85-75d6-48cf-b01b-7941677fde4a": "2026-05-06T06:42:07.596Z",
     "67fadb77-43d8-4449-954b-d4cf2c6d3b8b": "2026-05-06T06:42:07.596Z",
     "8435134002": "2026-05-07T19:38:12.824Z",
     "a488959b-6874-4563-acb2-af747c3dc6f7": "2026-05-08T19:09:40.576Z",
@@ -3684,17 +3683,17 @@
       "company": "Replit"
     },
     {
-      "id": "7544547",
+      "id": "7913505",
       "title": "Operations Associate, New Grad (Mexico)",
-      "url": "https://stripe.com/jobs/search?gh_jid=7544547",
+      "url": "https://stripe.com/jobs/search?gh_jid=7913505",
       "location": "Mexico City, Mexico",
       "department": "",
       "company": "Stripe"
     },
     {
-      "id": "7913505",
+      "id": "7544547",
       "title": "Operations Associate, New Grad (Mexico)",
-      "url": "https://stripe.com/jobs/search?gh_jid=7913505",
+      "url": "https://stripe.com/jobs/search?gh_jid=7544547",
       "location": "Mexico City, Mexico",
       "department": "",
       "company": "Stripe"
@@ -3799,14 +3798,6 @@
       "id": "26a0ae52-97a6-4a46-9216-3c382570d89b",
       "title": "Software Engineer Intern - Zurich (2026)",
       "url": "https://jobs.ashbyhq.com/snowflake/26a0ae52-97a6-4a46-9216-3c382570d89b",
-      "location": "",
-      "department": "",
-      "company": "Snowflake"
-    },
-    {
-      "id": "8904ed85-75d6-48cf-b01b-7941677fde4a",
-      "title": "Data Engineer Intern - Pune (2026)",
-      "url": "https://jobs.ashbyhq.com/snowflake/8904ed85-75d6-48cf-b01b-7941677fde4a",
       "location": "",
       "department": "",
       "company": "Snowflake"
@@ -4052,17 +4043,17 @@
       "company": "Cloudflare"
     },
     {
-      "id": "7582150",
+      "id": "7582169",
       "title": "Security Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
     },
     {
-      "id": "7582169",
+      "id": "7582150",
       "title": "Security Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
@@ -4092,17 +4083,17 @@
       "company": "Cloudflare"
     },
     {
-      "id": "7726977",
+      "id": "7726879",
       "title": "Technical Support Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726977?gh_jid=7726977",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
     },
     {
-      "id": "7726879",
+      "id": "7726977",
       "title": "Technical Support Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726977?gh_jid=7726977",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
