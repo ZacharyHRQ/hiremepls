@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-15T12:06:03.304Z",
+  "generatedAt": "2026-05-15T14:32:50.690Z",
   "companyCount": 63,
   "okCount": 63,
-  "jobCount": 3069,
+  "jobCount": 3065,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -638,8 +638,6 @@
     "simplify:21800393-c689-43a0-888c-74ab252cf3a3": "2026-05-09T15:28:15.527Z",
     "simplify:223463e8-92c2-40ee-861a-ab027ca852c1": "2026-05-09T15:28:15.527Z",
     "simplify:d3e624fc-5c9c-4aad-b38f-f684adab013b": "2026-05-09T15:28:15.527Z",
-    "simplify:23c22952-0eb8-4d58-8ec7-347863fa3de1": "2026-05-09T15:28:15.527Z",
-    "simplify:03d644d7-4610-4e57-ab93-c93a4598f877": "2026-05-09T15:28:15.527Z",
     "simplify:44c251ba-d898-4d8a-a79e-7fdcc56323d4": "2026-05-09T15:28:15.527Z",
     "simplify:f20fbf83-d899-41f4-a660-9c88cdebc5f9": "2026-05-09T15:28:15.527Z",
     "simplify:9ad2b039-e371-42cb-b3eb-e36a80c194d6": "2026-05-09T15:28:15.527Z",
@@ -856,7 +854,6 @@
     "simplify:b11f296d-b2ba-4686-be51-b55c495bd3eb": "2026-05-09T15:28:15.527Z",
     "simplify:66868ef6-4a70-4bef-bfc0-d2f96de2d203": "2026-05-09T15:28:15.527Z",
     "simplify:3b2df1b1-de52-40af-b5e6-97ad417126f1": "2026-05-09T15:28:15.527Z",
-    "simplify:f368ace0-4abc-4c3e-98e7-3f1276b59816": "2026-05-09T15:28:15.527Z",
     "simplify:cf38fa81-3784-4e8c-9597-bd8201e54194": "2026-05-09T15:28:15.527Z",
     "simplify:83ddf672-7d1b-4ee4-b62b-63ee6d6c4396": "2026-05-09T15:28:15.527Z",
     "simplify:1b1beb70-8f20-416a-be39-116834690463": "2026-05-09T15:28:15.527Z",
@@ -2849,7 +2846,6 @@
     "simplify:7d1baa71-b0b6-4e4f-b1ee-19978dd659fa": "2026-05-13T22:37:04.081Z",
     "simplify:275b40b6-35f1-4ef6-9c1b-741a35b72c1f": "2026-05-13T22:37:04.081Z",
     "simplify:aba3cf97-4ffd-4dce-876d-ab3305231512": "2026-05-13T22:37:04.081Z",
-    "simplify:d2dcfe14-a4bb-40cf-b495-040de5de1c91": "2026-05-13T22:37:04.081Z",
     "simplify:ee91612e-1382-4bb4-bcc9-bd4007324dfd": "2026-05-13T22:37:04.081Z",
     "simplify:6a8df5a7-33c8-43f7-963d-58b6a3254d58": "2026-05-13T22:37:04.081Z",
     "simplify:b3b6421c-0ccf-4a43-93a7-44fb9242cb5f": "2026-05-13T22:37:04.081Z",
@@ -2874,7 +2870,6 @@
     "simplify:83eff6e8-2f48-40cf-83be-b22caa536b46": "2026-05-13T22:37:04.081Z",
     "simplify:69f769a1-69e0-4347-b4c0-00b287637051": "2026-05-13T22:37:04.081Z",
     "simplify:622ea67b-d1e9-4042-92ec-37bd79b98f82": "2026-05-13T22:37:04.081Z",
-    "simplify:e0d65be0-919c-437b-95f1-709448cb8a14": "2026-05-13T22:37:04.081Z",
     "simplify:e4becf68-5294-4c91-a10c-4626a344f605": "2026-05-13T23:40:40.818Z",
     "simplify:7dc2e2fc-62c7-404e-b61b-f9b8ac587aa2": "2026-05-13T23:40:40.818Z",
     "simplify:b2caadce-6eeb-4eb8-8571-477e8b7bca43": "2026-05-13T23:40:40.818Z",
@@ -3072,7 +3067,8 @@
     "simplify:8273dd4e-b31d-493a-9d57-963229920587": "2026-05-15T12:06:03.304Z",
     "simplify:ebb7f560-b3e3-4f57-b812-b0097eeb39bf": "2026-05-15T12:06:03.304Z",
     "simplify:7094b529-f81f-4757-bec7-54ce1d66d1f8": "2026-05-15T12:06:03.304Z",
-    "simplify:77a2f3fc-f657-4d3a-a64b-2832e7edb34c": "2026-05-15T12:06:03.304Z"
+    "simplify:77a2f3fc-f657-4d3a-a64b-2832e7edb34c": "2026-05-15T12:06:03.304Z",
+    "simplify:fd5a8521-4005-4532-8abf-fbe39bd79e6e": "2026-05-15T14:32:50.690Z"
   },
   "jobs": [
     {
@@ -7388,14 +7384,6 @@
       "company": "Copart"
     },
     {
-      "id": "simplify:d2dcfe14-a4bb-40cf-b495-040de5de1c91",
-      "title": "Software Engineer 1 - Intern",
-      "url": "https://careers.cisco.com/global/en/job/2007170",
-      "location": "San Jose, CA",
-      "department": "Software",
-      "company": "Cisco"
-    },
-    {
       "id": "simplify:0d95df7d-e353-41c4-988e-0aef5d6fe2c0",
       "title": "AI/ML Research and Development Intern",
       "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/AI-ML-Research-and-Development-Intern_REQ_0000075248-1",
@@ -8522,22 +8510,6 @@
       "location": "San Jose, CA",
       "department": "Software",
       "company": "Cadence Design Systems"
-    },
-    {
-      "id": "simplify:23c22952-0eb8-4d58-8ec7-347863fa3de1",
-      "title": "Software Engineering Intern",
-      "url": "https://job-boards.greenhouse.io/graphcore/jobs/8441333002",
-      "location": "Bristol, UK",
-      "department": "Software",
-      "company": "Graphcore"
-    },
-    {
-      "id": "simplify:03d644d7-4610-4e57-ab93-c93a4598f877",
-      "title": "Software Engineering Intern - Drivers",
-      "url": "https://job-boards.greenhouse.io/graphcore/jobs/8441356002",
-      "location": "Cambridge, UK",
-      "department": "Software",
-      "company": "Graphcore"
     },
     {
       "id": "simplify:44c251ba-d898-4d8a-a79e-7fdcc56323d4",
@@ -10562,14 +10534,6 @@
       "location": "State College, PA",
       "department": "AI/ML/Data",
       "company": "Pennsylvania State University"
-    },
-    {
-      "id": "simplify:f368ace0-4abc-4c3e-98e7-3f1276b59816",
-      "title": "Requirements Engineering Intern",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000118244288",
-      "location": "Sunnyvale, CA",
-      "department": "Hardware",
-      "company": "Robert Bosch Venture Capital"
     },
     {
       "id": "simplify:cf38fa81-3784-4e8c-9597-bd8201e54194",
@@ -15180,6 +15144,14 @@
       "company": "Skydio"
     },
     {
+      "id": "simplify:fd5a8521-4005-4532-8abf-fbe39bd79e6e",
+      "title": "Junior Cyber Electromagnetic Activities Software Engineer Intern",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Lawton-OK/Junior-CEMA-Software-Engineer-Intern_R-00182554",
+      "location": "Stillwater, OK / Edmond, OK / Oklahoma City, OK / Lawton, OK / Norman, OK",
+      "department": "Software",
+      "company": "Leidos"
+    },
+    {
       "id": "simplify:841512a1-c8d5-4de1-82ab-6d5025bacc53",
       "title": "Capital Markets Intern - Global Equities - Fall Sales & Trading Analyst",
       "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Capital-Markets--Global-Equities--Fall-Sales---Trading-Analyst--4-Months-_R-0000171251",
@@ -16426,14 +16398,6 @@
       "location": "London, UK",
       "department": "Software",
       "company": "tldraw"
-    },
-    {
-      "id": "simplify:e0d65be0-919c-437b-95f1-709448cb8a14",
-      "title": "Application Support Intern",
-      "url": "https://jobs.smartrecruiters.com/Flywire1/744000126273589",
-      "location": "London, UK",
-      "department": "Software",
-      "company": "Flywire"
     },
     {
       "id": "simplify:07034482-de7a-4324-917d-b746e275d734",

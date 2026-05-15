@@ -1,6 +1,6 @@
 # Open Internships
 
-**3069** internships across **63/63** companies — last updated 2026-05-15.
+**3065** internships across **63/63** companies — last updated 2026-05-15.
 
 ## Companies
 
@@ -231,7 +231,7 @@
 - [Ciena](#ciena) (5)
 - [Circleback](#circleback) (1)
 - [Cirrus Logic](#cirrus-logic) (5)
-- [Cisco](#cisco) (4)
+- [Cisco](#cisco) (3)
 - [Cisive](#cisive) (2)
 - [Citadel](#citadel) (5)
 - [Citadel Securities](#citadel-securities) (10)
@@ -418,7 +418,7 @@
 - [Flagship Pioneering](#flagship-pioneering) (1)
 - [FleetWorks](#fleetworks) (1)
 - [Flock Safety](#flock-safety) (1)
-- [Flywire](#flywire) (2)
+- [Flywire](#flywire) (1)
 - [Formlabs](#formlabs) (6)
 - [Fortinet](#fortinet) (2)
 - [Fortive](#fortive) (2)
@@ -467,7 +467,6 @@
 - [Grammarly](#grammarly) (1)
 - [Granite Construction](#granite-construction) (2)
 - [Grant Thornton](#grant-thornton) (2)
-- [Graphcore](#graphcore) (2)
 - [Greenworks](#greenworks) (1)
 - [GSA Capital](#gsa-capital) (2)
 - [Guardian RF](#guardian-rf) (1)
@@ -601,7 +600,7 @@
 - [Layup Parts](#layup-parts) (1)
 - [Lazard](#lazard) (4)
 - [Legrand](#legrand) (1)
-- [Leidos](#leidos) (3)
+- [Leidos](#leidos) (4)
 - [Lennox](#lennox) (1)
 - [Lenovo](#lenovo) (2)
 - [Leonardo](#leonardo) (1)
@@ -824,7 +823,7 @@
 - [Rippling](#rippling) (6)
 - [Rivian](#rivian) (3)
 - [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (3)
-- [Robert Bosch Venture Capital](#robert-bosch-venture-capital) (13)
+- [Robert Bosch Venture Capital](#robert-bosch-venture-capital) (12)
 - [Robinhood](#robinhood) (3)
 - [Roblox](#roblox) (5)
 - [Robust.ai](#robust-ai) (1)
@@ -2844,7 +2843,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Software Engineer 1 - Intern](https://careers.cisco.com/global/en/job/2007170) | San Jose, CA | Software | 2026-05-13 |
 | [Consulting Engineer Intern](https://jobs.cisco.com/jobs/ProjectDetail/Consulting-Engineer-I-Intern-United-States/1448044) | Research Triangle Park, NC | — | 2026-05-09 |
 | [Product Management Specialist 1 Intern](https://jobs.cisco.com/jobs/ProjectDetail/Product-Management-Specialist-I-Intern-United-States/1448055) | San Jose, CA | — | 2026-05-09 |
 | [Security Consulting Engineer Intern](https://jobs.cisco.com/jobs/ProjectDetail/Security-Consulting-Engineer-I-Intern-United-States/) | Research Triangle Park, NC | — | 2026-05-09 |
@@ -4179,7 +4177,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Application Support Intern](https://jobs.smartrecruiters.com/Flywire1/744000126518059) | London, UK | Software | 2026-05-14 |
-| [Application Support Intern](https://jobs.smartrecruiters.com/Flywire1/744000126273589) | London, UK | Software | 2026-05-13 |
 
 ## Formlabs
 
@@ -4544,13 +4541,6 @@
 | --- | --- | --- | --- |
 | [Audit IT Assurance Intern](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/113348) | Houston, TX | — | 2026-05-09 |
 | [Technology Modernization Intern](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/112823) | Chicago, IL | — | 2026-05-09 |
-
-## Graphcore
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Software Engineering Intern](https://job-boards.greenhouse.io/graphcore/jobs/8441333002) | Bristol, UK | Software | 2026-05-09 |
-| [Software Engineering Intern - Drivers](https://job-boards.greenhouse.io/graphcore/jobs/8441356002) | Cambridge, UK | Software | 2026-05-09 |
 
 ## Greenworks
 
@@ -5557,6 +5547,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Junior Cyber Electromagnetic Activities Software Engineer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Lawton-OK/Junior-CEMA-Software-Engineer-Intern_R-00182554) | Stillwater, OK / Edmond, OK / Oklahoma City, OK / Lawton, OK / Norman, OK | Software | 2026-05-15 |
 | [Full Stack Development Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/Full-Stack-Development-Intern_R-00182542) | Orlando, FL | Software | 2026-05-14 |
 | [Software Developer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00181646) | Annapolis Junction, MD | Software | 2026-05-14 |
 | [Data Engineer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00180867) | Fort Belvoir, VA | AI/ML/Data | 2026-05-13 |
@@ -7336,7 +7327,6 @@
 | [Engine / Vehicle Embedded Controls Intern](https://jobs.smartrecruiters.com/BoschGroup/744000124682895) | Southfield, MI | Hardware | 2026-05-09 |
 | [Engineer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000124921593) | Plymouth, MI | Hardware | 2026-05-09 |
 | [Perception Engineering Intern](https://jobs.smartrecruiters.com/BoschGroup/744000118243108) | Sunnyvale, CA | AI/ML/Data | 2026-05-09 |
-| [Requirements Engineering Intern](https://jobs.smartrecruiters.com/BoschGroup/744000118244288) | Sunnyvale, CA | Hardware | 2026-05-09 |
 | [Software Engineering Intern](https://jobs.smartrecruiters.com/BoschGroup/744000089131715) | Simpsonville, SC | — | 2026-05-09 |
 | [Wireless Sensing Research Intern](https://jobs.smartrecruiters.com/BoschGroup/744000121477597) | Sunnyvale, CA | AI/ML/Data | 2026-05-09 |
 
