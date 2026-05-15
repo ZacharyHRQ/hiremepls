@@ -118,8 +118,8 @@
   "Stripe": [
     "7544547",
     "7913505",
-    "7874965",
     "7285974",
+    "7874965",
     "7216664",
     "7176977",
     "7532256",
@@ -171,8 +171,10 @@
     "7792962",
     "7582150",
     "7582169",
+    "7738938",
     "7733496",
     "7912382",
+    "7726977",
     "7726879",
     "7577205",
     "7802906"
@@ -830,7 +832,6 @@
     "simplify:25201ab8-f751-48a3-91b6-488f69467630",
     "simplify:f455fb7a-6e82-4af2-b378-c5deb178c84d",
     "simplify:e61e91ef-e618-467a-8ce3-391dc8487535",
-    "simplify:76d7f714-6ae6-4023-9bd3-f86932ff3787",
     "simplify:44bbff4b-6183-44c5-93b8-e082f78ee431",
     "simplify:a7bb2767-b7f5-4b94-93c0-2bd96c236aa1",
     "simplify:698c2195-c433-407a-a9d6-75bfe115265b",
@@ -948,7 +949,6 @@
     "simplify:d7297bc9-b982-4d12-9a1a-ea5d22b7eba6",
     "simplify:55789953-d38d-4cc6-baef-e90691360385",
     "simplify:466fb8d5-0978-48fe-bbfe-b0bdb2df53aa",
-    "simplify:d6ae47c2-d269-4232-95f7-c509da2f4431",
     "simplify:d989ce2c-cc75-400e-924f-a46358edffe5",
     "simplify:954bf559-e653-4514-9c61-291ac32ab883",
     "simplify:312255ea-ba5b-41d0-865e-d655aa4fe8b6",
@@ -1393,7 +1393,6 @@
     "simplify:b8f9b5ca-5e95-4aa6-9adb-557401630bfe",
     "simplify:5cd97e38-1ba7-4ba5-9cd3-3b16e47e8e92",
     "simplify:7f238859-8139-4be8-9ac9-3ed625f7d504",
-    "simplify:e9520654-7d2d-4da2-bbd2-153e088e9b7a",
     "simplify:45cd0f13-7203-4e2c-b4d0-40c657f12d7f",
     "simplify:4ea864bb-3669-4168-97a4-339ed2f4584b",
     "simplify:25925b76-0b98-4ddf-b34c-e998214c0b2a",
@@ -1852,7 +1851,12 @@
     "simplify:62d6d6a1-8ae2-4c21-b391-60dca7593c33",
     "simplify:25e5cdde-2399-431a-a6d9-20218124af5f",
     "simplify:e131826c-4066-45d3-9279-45b6809548f8",
-    "simplify:6548f3eb-d1a3-4d5e-9942-3151de80c19a"
+    "simplify:6548f3eb-d1a3-4d5e-9942-3151de80c19a",
+    "simplify:9732accc-98a6-40c8-9832-da1ee9331262",
+    "simplify:f93db17f-5d1e-451a-b944-b4d9179b3a37",
+    "simplify:6887541e-ff17-461e-8521-4c9a864f6752",
+    "simplify:01c15314-b7fb-4e91-8c54-4d0153b2b871",
+    "simplify:e5d80c71-294a-4e77-8187-4ec61bd5f7fa"
   ],
   "vanshb03": [
     "vansh:d2c404c8-5895-4ec0-95c2-3d17aed38beb",

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-15T14:32:50.690Z",
+  "generatedAt": "2026-05-15T16:23:09.152Z",
   "companyCount": 63,
   "okCount": 63,
-  "jobCount": 3065,
+  "jobCount": 3069,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -40,6 +40,7 @@
     "7668989": "2026-05-06T06:42:07.596Z",
     "7718947": "2026-05-06T06:42:07.596Z",
     "7726879": "2026-05-06T06:42:07.596Z",
+    "7726977": "2026-05-15T16:23:09.152Z",
     "7728956": "2026-05-06T06:42:07.596Z",
     "7729700": "2026-05-06T06:42:07.596Z",
     "7729719": "2026-05-06T06:42:07.596Z",
@@ -47,6 +48,7 @@
     "7733327": "2026-05-06T06:42:07.596Z",
     "7733496": "2026-05-06T06:42:07.596Z",
     "7736919": "2026-05-07T06:31:54.534Z",
+    "7738938": "2026-05-15T16:23:09.152Z",
     "7743202": "2026-05-06T06:42:07.596Z",
     "7748961": "2026-05-06T06:42:07.596Z",
     "7751595": "2026-05-06T06:42:07.596Z",
@@ -699,7 +701,6 @@
     "simplify:25201ab8-f751-48a3-91b6-488f69467630": "2026-05-09T15:28:15.527Z",
     "simplify:f455fb7a-6e82-4af2-b378-c5deb178c84d": "2026-05-09T15:28:15.527Z",
     "simplify:e61e91ef-e618-467a-8ce3-391dc8487535": "2026-05-09T15:28:15.527Z",
-    "simplify:76d7f714-6ae6-4023-9bd3-f86932ff3787": "2026-05-09T15:28:15.527Z",
     "simplify:44bbff4b-6183-44c5-93b8-e082f78ee431": "2026-05-09T15:28:15.527Z",
     "simplify:a7bb2767-b7f5-4b94-93c0-2bd96c236aa1": "2026-05-09T15:28:15.527Z",
     "simplify:698c2195-c433-407a-a9d6-75bfe115265b": "2026-05-09T15:28:15.527Z",
@@ -798,7 +799,6 @@
     "simplify:d7297bc9-b982-4d12-9a1a-ea5d22b7eba6": "2026-05-09T15:28:15.527Z",
     "simplify:55789953-d38d-4cc6-baef-e90691360385": "2026-05-09T15:28:15.527Z",
     "simplify:466fb8d5-0978-48fe-bbfe-b0bdb2df53aa": "2026-05-09T15:28:15.527Z",
-    "simplify:d6ae47c2-d269-4232-95f7-c509da2f4431": "2026-05-09T15:28:15.527Z",
     "simplify:d989ce2c-cc75-400e-924f-a46358edffe5": "2026-05-09T15:28:15.527Z",
     "simplify:954bf559-e653-4514-9c61-291ac32ab883": "2026-05-09T15:28:15.527Z",
     "simplify:312255ea-ba5b-41d0-865e-d655aa4fe8b6": "2026-05-09T15:28:15.527Z",
@@ -2732,7 +2732,6 @@
     "simplify:bee4f634-b066-4b67-85a0-3b61ae09c376": "2026-05-09T17:12:44.619Z",
     "simplify:eae02a50-59ef-4d24-84e2-485923a3389c": "2026-05-09T17:12:44.619Z",
     "simplify:998701e4-4702-458b-9c2a-13c7a4f02fd9": "2026-05-09T17:12:44.619Z",
-    "simplify:e9520654-7d2d-4da2-bbd2-153e088e9b7a": "2026-05-09T17:12:44.619Z",
     "simplify:60956514-0af3-42e3-97dc-b4e69d693b20": "2026-05-09T17:12:44.619Z",
     "simplify:5f261994-e1e1-4e98-9dd3-76b8602427e2": "2026-05-09T17:12:44.619Z",
     "simplify:61a02428-12e6-4454-aa42-b0353c138c9f": "2026-05-09T17:12:44.619Z",
@@ -3068,7 +3067,12 @@
     "simplify:ebb7f560-b3e3-4f57-b812-b0097eeb39bf": "2026-05-15T12:06:03.304Z",
     "simplify:7094b529-f81f-4757-bec7-54ce1d66d1f8": "2026-05-15T12:06:03.304Z",
     "simplify:77a2f3fc-f657-4d3a-a64b-2832e7edb34c": "2026-05-15T12:06:03.304Z",
-    "simplify:fd5a8521-4005-4532-8abf-fbe39bd79e6e": "2026-05-15T14:32:50.690Z"
+    "simplify:fd5a8521-4005-4532-8abf-fbe39bd79e6e": "2026-05-15T14:32:50.690Z",
+    "simplify:9732accc-98a6-40c8-9832-da1ee9331262": "2026-05-15T16:23:09.152Z",
+    "simplify:f93db17f-5d1e-451a-b944-b4d9179b3a37": "2026-05-15T16:23:09.152Z",
+    "simplify:6887541e-ff17-461e-8521-4c9a864f6752": "2026-05-15T16:23:09.152Z",
+    "simplify:01c15314-b7fb-4e91-8c54-4d0153b2b871": "2026-05-15T16:23:09.152Z",
+    "simplify:e5d80c71-294a-4e77-8187-4ec61bd5f7fa": "2026-05-15T16:23:09.152Z"
   },
   "jobs": [
     {
@@ -3696,18 +3700,18 @@
       "company": "Stripe"
     },
     {
-      "id": "7874965",
-      "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
-      "department": "",
-      "company": "Stripe"
-    },
-    {
       "id": "7285974",
       "title": "PhD Data Scientist, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=7285974",
       "location": "Toronto, Ontario, Canada",
+      "department": "",
+      "company": "Stripe"
+    },
+    {
+      "id": "7874965",
+      "title": "PhD Data Scientist, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe"
     },
@@ -4064,6 +4068,14 @@
       "company": "Cloudflare"
     },
     {
+      "id": "7738938",
+      "title": "Solutions Engineer Intern (Summer 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7738938?gh_jid=7738938",
+      "location": "In-Office",
+      "department": "",
+      "company": "Cloudflare"
+    },
+    {
       "id": "7733496",
       "title": "Technical Marketing Intern (Summer 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7733496?gh_jid=7733496",
@@ -4075,6 +4087,14 @@
       "id": "7912382",
       "title": "Technical Support Engineer Intern (July to December 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7912382?gh_jid=7912382",
+      "location": "In-Office",
+      "department": "",
+      "company": "Cloudflare"
+    },
+    {
+      "id": "7726977",
+      "title": "Technical Support Engineer Intern (Summer 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726977?gh_jid=7726977",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
@@ -9024,14 +9044,6 @@
       "company": "Tilde Research"
     },
     {
-      "id": "simplify:76d7f714-6ae6-4023-9bd3-f86932ff3787",
-      "title": "Full Stack Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/Unwrap/aa875007-108e-492b-86ad-1849f8740c5a/application",
-      "location": "Santa Barbara, CA",
-      "department": "Software",
-      "company": "Unwrap"
-    },
-    {
       "id": "simplify:44bbff4b-6183-44c5-93b8-e082f78ee431",
       "title": "Flight Software Engineering Intern",
       "url": "https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440",
@@ -9966,14 +9978,6 @@
       "location": "London, UK",
       "department": "AI/ML/Data",
       "company": "TikTok"
-    },
-    {
-      "id": "simplify:d6ae47c2-d269-4232-95f7-c509da2f4431",
-      "title": "Intern Asset Management",
-      "url": "https://elvp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2538",
-      "location": "Greeley, CO",
-      "department": "AI/ML/Data",
-      "company": "City of Greeley"
     },
     {
       "id": "simplify:d989ce2c-cc75-400e-924f-a46358edffe5",
@@ -13526,14 +13530,6 @@
       "location": "Cambridge, MA / Redmond, WA",
       "department": "AI/ML/Data",
       "company": "Microsoft"
-    },
-    {
-      "id": "simplify:e9520654-7d2d-4da2-bbd2-153e088e9b7a",
-      "title": "Data Science Intern",
-      "url": "https://rakuten.wd1.myworkdayjobs.com/RakutenAdvertising/job/San-Francisco-California/Intern---Data-Science_1031656",
-      "location": "SF",
-      "department": "AI/ML/Data",
-      "company": "Rakuten Advertising"
     },
     {
       "id": "simplify:45cd0f13-7203-4e2c-b4d0-40c657f12d7f",
@@ -17206,6 +17202,46 @@
       "location": "Cincinnati, OH",
       "department": "AI/ML/Data",
       "company": "Medpace, Inc."
+    },
+    {
+      "id": "simplify:9732accc-98a6-40c8-9832-da1ee9331262",
+      "title": "Test Tools Engineer Intern",
+      "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Test-Tools-Engineering-Intern--Summer-2026-_REQ2026074631",
+      "location": "Troy, MI",
+      "department": "Hardware",
+      "company": "Valeo"
+    },
+    {
+      "id": "simplify:f93db17f-5d1e-451a-b944-b4d9179b3a37",
+      "title": "Software Development Intern",
+      "url": "https://jobs.jobvite.com/altamiracorps/job/oSC8zfwV?nl=1&nl=1&fr=false",
+      "location": "Augusta, GA",
+      "department": "Software",
+      "company": "Altamira Technologies"
+    },
+    {
+      "id": "simplify:6887541e-ff17-461e-8521-4c9a864f6752",
+      "title": "Software Development Intern",
+      "url": "https://jobs.jobvite.com/altamiracorps/job/oDD8zfwH?nl=1&nl=1&fr=false",
+      "location": "Augusta, GA",
+      "department": "Software",
+      "company": "Altamira Technologies"
+    },
+    {
+      "id": "simplify:01c15314-b7fb-4e91-8c54-4d0153b2b871",
+      "title": "Business Intelligence Analyst Intern",
+      "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/14063",
+      "location": "United States",
+      "department": "AI/ML/Data",
+      "company": "EXL"
+    },
+    {
+      "id": "simplify:e5d80c71-294a-4e77-8187-4ec61bd5f7fa",
+      "title": "Data Processing Developer Technology Intern",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/France-Courbevoie/Data-Processing-Developer-Technology-Intern---2026_JR2006379",
+      "location": "Paris, France / Bristol, UK",
+      "department": "AI/ML/Data",
+      "company": "NVIDIA"
     },
     {
       "id": "vansh:d2c404c8-5895-4ec0-95c2-3d17aed38beb",

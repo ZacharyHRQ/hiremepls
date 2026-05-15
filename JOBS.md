@@ -1,6 +1,6 @@
 # Open Internships
 
-**3065** internships across **63/63** companies — last updated 2026-05-15.
+**3069** internships across **63/63** companies — last updated 2026-05-15.
 
 ## Companies
 
@@ -46,6 +46,7 @@
 - [Allium Labs](#allium-labs) (1)
 - [Alo Yoga](#alo-yoga) (6)
 - [Alston & Bird Law Firm](#alston-bird-law-firm) (1)
+- [Altamira Technologies](#altamira-technologies) (2)
 - [Altamira Technologies Corp.](#altamira-technologies-corp) (1)
 - [Altera Corporation](#altera-corporation) (2)
 - [Altice USA](#altice-usa) (2)
@@ -238,12 +239,11 @@
 - [Citi](#citi) (1)
 - [Citizens Financial Group](#citizens-financial-group) (6)
 - [City of Baltimore](#city-of-baltimore) (3)
-- [City of Greeley](#city-of-greeley) (1)
 - [Clarity Partners](#clarity-partners) (1)
 - [Clarivate](#clarivate) (1)
 - [Clerkie](#clerkie) (1)
 - [Clever](#clever) (1)
-- [Cloudflare](#cloudflare) (42)
+- [Cloudflare](#cloudflare) (44)
 - [Cloudforce](#cloudforce) (2)
 - [Cloudglue - YC](#cloudglue-yc) (1)
 - [CME Group](#cme-group) (3)
@@ -389,7 +389,7 @@
 - [Eversource Energy](#eversource-energy) (1)
 - [Exegy](#exegy) (2)
 - [Exiger](#exiger) (2)
-- [EXL](#exl) (5)
+- [EXL](#exl) (6)
 - [Expedia Group](#expedia-group) (8)
 - [Expedition Technology](#expedition-technology) (1)
 - [Experian](#experian) (5)
@@ -712,7 +712,7 @@
 - [Nowadays (S23)](#nowadays-s23) (2)
 - [NuHarbor Security](#nuharbor-security) (1)
 - [Nuro](#nuro) (1)
-- [NVIDIA](#nvidia) (30)
+- [NVIDIA](#nvidia) (31)
 - [OCC](#occ) (1)
 - [Octaura](#octaura) (2)
 - [Oklahoma City Thunder](#oklahoma-city-thunder) (1)
@@ -799,7 +799,6 @@
 - [Radiance Technologies](#radiance-technologies) (2)
 - [Radix Trading](#radix-trading) (1)
 - [Rainmaker](#rainmaker) (1)
-- [Rakuten Advertising](#rakuten-advertising) (1)
 - [Rambus](#rambus) (1)
 - [Ramp](#ramp) (10)
 - [Reacher](#reacher) (2)
@@ -1052,8 +1051,8 @@
 - [University Health Network](#university-health-network) (1)
 - [University of Chicago](#university-of-chicago) (2)
 - [University System of New Hampshire](#university-system-of-new-hampshire) (1)
-- [Unwrap](#unwrap) (1)
 - [Upsolve](#upsolve) (1)
+- [Valeo](#valeo) (1)
 - [Vanguard](#vanguard) (1)
 - [Vantage ](#vantage) (1)
 - [Varda Space](#varda-space) (4)
@@ -1430,6 +1429,13 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Developer Intern](https://alston.wd1.myworkdayjobs.com/ExternalCareer/job/Atlanta/Developer-Intern_JR100783) | Atlanta, GA | Software | 2026-05-09 |
+
+## Altamira Technologies
+
+| Title | Location | Department | First seen |
+| --- | --- | --- | --- |
+| [Software Development Intern](https://jobs.jobvite.com/altamiracorps/job/oSC8zfwV?nl=1&nl=1&fr=false) | Augusta, GA | Software | 2026-05-15 |
+| [Software Development Intern](https://jobs.jobvite.com/altamiracorps/job/oDD8zfwH?nl=1&nl=1&fr=false) | Augusta, GA | Software | 2026-05-15 |
 
 ## Altamira Technologies Corp.
 
@@ -2904,12 +2910,6 @@
 | [Geographic Information Systems – Intern - Multiple Teams](https://baltimorecity.wd1.myworkdayjobs.com/External/job/401-E-Fayette-St/Geographic-Information-Systems--GIS--Intern--NCS----BCIT_R0017030) | Baltimore, MD | AI/ML/Data | 2026-05-09 |
 | [Data Science & Analytics Intern - Ncs - Bcit](https://baltimorecity.wd1.myworkdayjobs.com/External/job/401-E-Fayette-St/Data-Science---Analytics-Intern--NCS----BCIT_R0017031) | Baltimore, MD | AI/ML/Data | 2026-05-09 |
 
-## City of Greeley
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Intern Asset Management](https://elvp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2538) | Greeley, CO | AI/ML/Data | 2026-05-09 |
-
 ## Clarity Partners
 
 | Title | Location | Department | First seen |
@@ -2938,6 +2938,8 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Solutions Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7738938?gh_jid=7738938) | In-Office | — | 2026-05-15 |
+| [Technical Support Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7726977?gh_jid=7726977) | In-Office | — | 2026-05-15 |
 | [Data Science Intern](https://boards.greenhouse.io/cloudflare/jobs/7914511) | Austin, TX | AI/ML/Data | 2026-05-14 |
 | [Machine Learning Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/7914628) | Austin, TX | AI/ML/Data | 2026-05-14 |
 | [Data Science Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7914511?gh_jid=7914511) | In-Office | — | 2026-05-13 |
@@ -3975,6 +3977,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Business Intelligence Analyst Intern](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/14063) | United States | AI/ML/Data | 2026-05-15 |
 | [Analytics & AI Solutions Intern](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/14060) | United States | AI/ML/Data | 2026-05-14 |
 | [Business Intelligence Analyst Intern](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/14064) | United States | AI/ML/Data | 2026-05-14 |
 | [Data Scientist Intern](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/13850) | United States | AI/ML/Data | 2026-05-14 |
@@ -6470,6 +6473,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Data Processing Developer Technology Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/France-Courbevoie/Data-Processing-Developer-Technology-Intern---2026_JR2006379) | Paris, France / Bristol, UK | AI/ML/Data | 2026-05-15 |
 | [Software Engineer Intern - AI Tools](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--AI-Tools---Fall-2026_JR2016805) | Santa Clara, CA | Software | 2026-05-15 |
 | [Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398) | Santa Clara, CA | AI/ML/Data | 2026-05-14 |
 | [Systems Software Engineer Intern, Metropolis](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer-Intern--Metropolis---Fall-2026_JR2018016) | Santa Clara, CA | — | 2026-05-14 |
@@ -7144,12 +7148,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Software Engineering Intern](https://jobs.lever.co/make-rain/b45f954e-19df-45b1-8748-c8ae442a2e8b) | El Segundo, CA | Software Engineering | 2026-05-09 |
-
-## Rakuten Advertising
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Data Science Intern](https://rakuten.wd1.myworkdayjobs.com/RakutenAdvertising/job/San-Francisco-California/Intern---Data-Science_1031656) | SF | AI/ML/Data | 2026-05-09 |
 
 ## Rambus
 
@@ -8234,8 +8232,8 @@
 | [PhD Machine Learning Engineer Intern](https://stripe.com/jobs/search?gh_jid=7216664) | Seattle, WA / SF / NYC | AI/ML/Data | 2026-05-09 |
 | [Software Engineer Intern](https://stripe.com/jobs/listing/software-engineer-intern-summer-and-winter/7210115) | South San Francisco, CA / Seattle, WA / New York, NY | — | 2026-05-09 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | Mexico City, Mexico | — | 2026-05-06 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | Toronto, Ontario, Canada | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7216664) | San Francisco, New York City, Seattle | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | Singapore | — | 2026-05-06 |
@@ -9277,17 +9275,17 @@
 | --- | --- | --- | --- |
 | [Technician Intern](https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Technician-Intern_JR2342-1) | Dover, NH | Hardware | 2026-05-09 |
 
-## Unwrap
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Full Stack Engineer Intern](https://jobs.ashbyhq.com/Unwrap/aa875007-108e-492b-86ad-1849f8740c5a/application) | Santa Barbara, CA | Software | 2026-05-09 |
-
 ## Upsolve
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Software Engineering Intern](https://www.workatastartup.com/jobs/80380) | Remote | — | 2026-05-09 |
+
+## Valeo
+
+| Title | Location | Department | First seen |
+| --- | --- | --- | --- |
+| [Test Tools Engineer Intern](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Test-Tools-Engineering-Intern--Summer-2026-_REQ2026074631) | Troy, MI | Hardware | 2026-05-15 |
 
 ## Vanguard
 
