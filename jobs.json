@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-15T07:39:50.601Z",
+  "generatedAt": "2026-05-15T10:04:41.511Z",
   "companyCount": 63,
   "okCount": 63,
-  "jobCount": 3064,
+  "jobCount": 3063,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -489,7 +489,6 @@
     "simplify:7cbf5e66-95b6-4b66-b41f-fa9cdeadcadc": "2026-05-09T15:28:15.527Z",
     "simplify:42b0f3dc-9fe2-4f26-ac9b-eaaa21075017": "2026-05-09T15:28:15.527Z",
     "simplify:fd2aa27a-d775-4452-8bfc-318d2021b364": "2026-05-09T15:28:15.527Z",
-    "simplify:4549f868-697a-4b15-a117-f8242279c730": "2026-05-09T15:28:15.527Z",
     "simplify:ba83ebf6-750a-4ab1-9677-0a9d64d33b5b": "2026-05-09T15:28:15.527Z",
     "simplify:d8db9ea4-a2c3-4993-a998-346e2debc331": "2026-05-09T15:28:15.527Z",
     "simplify:c7c7dafc-ce0e-4ed2-92f7-ed3bc461bbb7": "2026-05-09T15:28:15.527Z",
@@ -783,7 +782,6 @@
     "simplify:4f6ac5a5-5338-438a-b021-01d34f2ddfb8": "2026-05-09T15:28:15.527Z",
     "simplify:ac626a38-e2fb-4c21-b1f5-2b8acd944bbe": "2026-05-09T15:28:15.527Z",
     "simplify:24ea6e61-9ca2-4a1a-963c-611e998bdc83": "2026-05-09T15:28:15.527Z",
-    "simplify:3cd8ee85-8135-4c7e-8806-a74243124907": "2026-05-09T15:28:15.527Z",
     "simplify:1f4843c8-d10a-481c-ae70-1557310b13b8": "2026-05-09T15:28:15.527Z",
     "simplify:de737258-b470-4b2c-b39b-a3a638c3c610": "2026-05-09T15:28:15.527Z",
     "simplify:30f389eb-f354-4fdb-a532-1b8ef424ce8d": "2026-05-09T15:28:15.527Z",
@@ -2894,7 +2892,6 @@
     "simplify:caffbdc6-8c51-445c-bbba-a7fd7dfc3ecc": "2026-05-13T23:40:40.818Z",
     "simplify:2b9c7f6c-b77f-444c-9d11-e362925f21a3": "2026-05-13T23:40:40.818Z",
     "simplify:4d7b53f4-4839-4a21-9b3d-774c69c540bd": "2026-05-13T23:40:40.818Z",
-    "simplify:ebb7f560-b3e3-4f57-b812-b0097eeb39bf": "2026-05-13T23:40:40.818Z",
     "simplify:532987f0-bfae-4a4f-a3fb-c33755ac93fa": "2026-05-13T23:40:40.818Z",
     "simplify:07034482-de7a-4324-917d-b746e275d734": "2026-05-13T23:40:40.818Z",
     "simplify:eb14174f-2e4d-4c27-90c6-67df2ddef557": "2026-05-14T01:31:29.727Z",
@@ -2925,7 +2922,6 @@
     "simplify:47e93c35-6beb-41fc-bb7f-81c35722ff8d": "2026-05-14T01:31:29.727Z",
     "simplify:fd5a8521-4005-4532-8abf-fbe39bd79e6e": "2026-05-14T01:31:29.727Z",
     "simplify:b8efe27f-c76a-4d68-a3e0-7223c8e08ef8": "2026-05-14T01:31:29.727Z",
-    "simplify:77a2f3fc-f657-4d3a-a64b-2832e7edb34c": "2026-05-14T01:31:29.727Z",
     "simplify:40437c0f-7771-4ec0-aedd-aa6abd7ed518": "2026-05-14T01:31:29.727Z",
     "simplify:53f8fb29-baff-4860-abf4-e65d1cd1a500": "2026-05-14T01:31:29.727Z",
     "simplify:870bfe1c-ab9e-49e0-873b-8346dabd4abb": "2026-05-14T01:31:29.727Z",
@@ -2956,7 +2952,6 @@
     "simplify:ec46c00c-5ccb-4a01-964e-bc2940e0167e": "2026-05-14T05:32:10.854Z",
     "simplify:51c4a885-a755-4f56-ae3b-1cc8044eed47": "2026-05-14T05:32:10.854Z",
     "simplify:adf2fbac-8753-47c5-bf29-9bfa01b9c46e": "2026-05-14T05:32:10.854Z",
-    "simplify:7094b529-f81f-4757-bec7-54ce1d66d1f8": "2026-05-14T05:32:10.854Z",
     "simplify:b462642c-bc71-425d-8c68-9b871f683033": "2026-05-14T05:32:10.854Z",
     "simplify:1f487f77-2747-4099-b366-ec3c03fb88d5": "2026-05-14T05:32:10.854Z",
     "simplify:e5377d33-2f99-4bd4-bc77-1c7e16d8d086": "2026-05-14T05:32:10.854Z",
@@ -3067,7 +3062,11 @@
     "simplify:62d6d6a1-8ae2-4c21-b391-60dca7593c33": "2026-05-15T04:15:31.167Z",
     "simplify:25e5cdde-2399-431a-a6d9-20218124af5f": "2026-05-15T04:15:31.167Z",
     "simplify:2c3c55c5-9c0c-46fc-b916-789c7263e4a1": "2026-05-15T07:39:50.601Z",
-    "simplify:e131826c-4066-45d3-9279-45b6809548f8": "2026-05-15T07:39:50.601Z"
+    "simplify:e131826c-4066-45d3-9279-45b6809548f8": "2026-05-15T07:39:50.601Z",
+    "simplify:69895bf6-cfe8-4334-80d0-1834c83de6b0": "2026-05-15T10:04:41.511Z",
+    "simplify:cd885e02-d0aa-4f5f-a119-3f60710cc44c": "2026-05-15T10:04:41.511Z",
+    "simplify:7da3c280-040c-4a6b-bbdc-ccf7e3d9f527": "2026-05-15T10:04:41.511Z",
+    "simplify:6548f3eb-d1a3-4d5e-9942-3151de80c19a": "2026-05-15T10:04:41.511Z"
   },
   "jobs": [
     {
@@ -3143,18 +3142,18 @@
       "company": "IMC Trading"
     },
     {
-      "id": "4635938101",
-      "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
-      "department": "",
-      "company": "IMC Trading"
-    },
-    {
       "id": "4564480101",
       "title": "Graduate Software Engineer (2026)",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
       "location": "Amsterdam, Netherlands",
+      "department": "",
+      "company": "IMC Trading"
+    },
+    {
+      "id": "4635938101",
+      "title": "Graduate Software Engineer (2026)",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading"
     },
@@ -3191,18 +3190,18 @@
       "company": "IMC Trading"
     },
     {
-      "id": "7362347",
-      "title": "Campus Crypto Researcher (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7362347",
-      "location": "Chicago",
-      "department": "",
-      "company": "Jump Trading"
-    },
-    {
       "id": "7362318",
       "title": "Campus Crypto Researcher (Intern)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=7362318",
       "location": "London",
+      "department": "",
+      "company": "Jump Trading"
+    },
+    {
+      "id": "7362347",
+      "title": "Campus Crypto Researcher (Intern)",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7362347",
+      "location": "Chicago",
       "department": "",
       "company": "Jump Trading"
     },
@@ -3999,17 +3998,17 @@
       "company": "Cloudflare"
     },
     {
-      "id": "7582150",
+      "id": "7582169",
       "title": "Security Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
     },
     {
-      "id": "7582169",
+      "id": "7582150",
       "title": "Security Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare"
@@ -6703,6 +6702,14 @@
       "company": "Danaher Corporation"
     },
     {
+      "id": "simplify:69895bf6-cfe8-4334-80d0-1834c83de6b0",
+      "title": "Clinical Informatics Intern - Fall 2026",
+      "url": "https://careers.medpace.com/jobs/12448?lang=en-us&icims=1",
+      "location": "Cincinnati, OH",
+      "department": "AI/ML/Data",
+      "company": "Medpace, Inc."
+    },
+    {
       "id": "simplify:2d2b17a5-a5a2-45ca-8c32-a5a207c63a81",
       "title": "Machine Learning PhD Intern - Economics",
       "url": "https://instacart.careers/job/?gh_jid=7532267",
@@ -7109,14 +7116,6 @@
       "location": "San Jose, CA",
       "department": "Product",
       "company": "TikTok"
-    },
-    {
-      "id": "simplify:4549f868-697a-4b15-a117-f8242279c730",
-      "title": "APMO Data Analytics Intern",
-      "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/London-UK/APMO-Data-Analytics---Reporting---Summer-Intern_320524-1",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "S&P Global "
     },
     {
       "id": "simplify:ba83ebf6-750a-4ab1-9677-0a9d64d33b5b",
@@ -9815,14 +9814,6 @@
       "company": "DriveWealth"
     },
     {
-      "id": "simplify:3cd8ee85-8135-4c7e-8806-a74243124907",
-      "title": "Product Manager Intern - Game Accounts and Studio Partnership",
-      "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/UK-London/Product-Manager-Intern--Game-Accounts-and-Studio-Partnership_R107160",
-      "location": "London, UK",
-      "department": "Product",
-      "company": "Tencent"
-    },
-    {
       "id": "simplify:1f4843c8-d10a-481c-ae70-1557310b13b8",
       "title": "Innovation and Digitalization Intern/Co-op",
       "url": "https://jobs.bmwgroup.com/job/Greer-Innovation-and-Digitalization-Co-Op-(Fall-2026)-Sout/1376132033/?ats=successfactors",
@@ -9885,6 +9876,14 @@
       "location": "NYC",
       "department": "Software",
       "company": "DoubleVerify"
+    },
+    {
+      "id": "simplify:cd885e02-d0aa-4f5f-a119-3f60710cc44c",
+      "title": "UIUC Research Park Intern - Validation",
+      "url": "https://careers.rivian.com/jobs/29771?lang=en-us&icims=1",
+      "location": "Urbana, IL",
+      "department": "Hardware",
+      "company": "Rivian"
     },
     {
       "id": "simplify:ee06c097-78e9-41e2-b0ad-b234e1843a1c",
@@ -11461,6 +11460,14 @@
       "location": "Boston, MA",
       "department": "Software",
       "company": "Cadence Design Systems"
+    },
+    {
+      "id": "simplify:7da3c280-040c-4a6b-bbdc-ccf7e3d9f527",
+      "title": "Machine Learning Intern",
+      "url": "https://careers-sig.icims.com/jobs/10785/job?mobile=true&needsRedirect=false",
+      "location": "Ardmore, PA",
+      "department": "AI/ML/Data",
+      "company": "Susquehanna International Group (SIG)"
     },
     {
       "id": "simplify:34578b2b-0330-4088-aca0-67776189ebce",
@@ -13375,14 +13382,6 @@
       "company": "Viavi Solutions"
     },
     {
-      "id": "simplify:ebb7f560-b3e3-4f57-b812-b0097eeb39bf",
-      "title": "Data Scientist Intern - PhD",
-      "url": "https://job-boards.greenhouse.io/integra/jobs/5134592008",
-      "location": "Austin, TX",
-      "department": "AI/ML/Data",
-      "company": "Integra FEC"
-    },
-    {
       "id": "simplify:1d7a2077-52b3-4943-818a-2fa0ec30b52e",
       "title": "Software Engineer Intern - Compiler",
       "url": "https://apply.workable.com/quadric-dot-i-o-inc/j/4F8EDFF366/apply",
@@ -15263,14 +15262,6 @@
       "company": "KION Group"
     },
     {
-      "id": "simplify:7094b529-f81f-4757-bec7-54ce1d66d1f8",
-      "title": "Software Engineer Intern - AI Tools",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--AI-Tools---Fall-2026_JR2016805",
-      "location": "Santa Clara, CA",
-      "department": "Software",
-      "company": "NVIDIA"
-    },
-    {
       "id": "simplify:321e4809-3d29-4a9a-821c-0243562bf9f4",
       "title": "Product Management Intern - Tools & Processes",
       "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Product-Management-Intern---Tools---Processes_JR-0091693-1",
@@ -15301,14 +15292,6 @@
       "location": "Plymouth, MI",
       "department": "Hardware",
       "company": "Robert Bosch Venture Capital"
-    },
-    {
-      "id": "simplify:77a2f3fc-f657-4d3a-a64b-2832e7edb34c",
-      "title": "Software Developer Co-op/Intern - Core Algorithms - Life Sciences",
-      "url": "https://careers-kinaxis.icims.com/jobs/34704/job?mobile=true&needsRedirect=false",
-      "location": "Ottawa, ON, Canada",
-      "department": "Software",
-      "company": "Kinaxis"
     },
     {
       "id": "simplify:40437c0f-7771-4ec0-aedd-aa6abd7ed518",
@@ -17197,6 +17180,14 @@
       "location": "Orange, CA",
       "department": "Software",
       "company": "Nikkiso"
+    },
+    {
+      "id": "simplify:6548f3eb-d1a3-4d5e-9942-3151de80c19a",
+      "title": "Feasibility Informatics Intern/Co-op",
+      "url": "https://careers.medpace.com/jobs/12566?lang=en-us&icims=1",
+      "location": "Cincinnati, OH",
+      "department": "AI/ML/Data",
+      "company": "Medpace, Inc."
     },
     {
       "id": "vansh:d2c404c8-5895-4ec0-95c2-3d17aed38beb",

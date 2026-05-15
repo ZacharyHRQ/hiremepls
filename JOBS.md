@@ -1,6 +1,6 @@
 # Open Internships
 
-**3064** internships across **63/63** companies — last updated 2026-05-15.
+**3063** internships across **63/63** companies — last updated 2026-05-15.
 
 ## Companies
 
@@ -540,7 +540,7 @@
 - [Institute of Foundation Models](#institute-of-foundation-models) (1)
 - [Intact](#intact) (10)
 - [Intapp](#intapp) (1)
-- [Integra FEC](#integra-fec) (4)
+- [Integra FEC](#integra-fec) (3)
 - [Integrity](#integrity) (1)
 - [Intel](#intel) (6)
 - [Intelcom | Dragonfly](#intelcom-dragonfly) (15)
@@ -580,7 +580,7 @@
 - [Keysight](#keysight) (4)
 - [Keysight Technologies](#keysight-technologies) (8)
 - [Kikoff](#kikoff) (1)
-- [Kinaxis](#kinaxis) (5)
+- [Kinaxis](#kinaxis) (4)
 - [Kingland](#kingland) (1)
 - [KION Group](#kion-group) (15)
 - [Kioxia](#kioxia) (1)
@@ -649,7 +649,7 @@
 - [Mechanize](#mechanize) (1)
 - [Medical Informatics Engineering](#medical-informatics-engineering) (1)
 - [Medical University of South Carolina](#medical-university-of-south-carolina) (1)
-- [Medpace, Inc.](#medpace-inc) (3)
+- [Medpace, Inc.](#medpace-inc) (5)
 - [Member Solutions](#member-solutions) (1)
 - [Mercedes-Benz](#mercedes-benz) (2)
 - [Mercor](#mercor) (1)
@@ -714,7 +714,7 @@
 - [Nowadays (S23)](#nowadays-s23) (2)
 - [NuHarbor Security](#nuharbor-security) (1)
 - [Nuro](#nuro) (1)
-- [NVIDIA](#nvidia) (30)
+- [NVIDIA](#nvidia) (29)
 - [OCC](#occ) (1)
 - [Octaura](#octaura) (2)
 - [Oklahoma City Thunder](#oklahoma-city-thunder) (1)
@@ -823,7 +823,7 @@
 - [Rilla](#rilla) (1)
 - [Riot Games](#riot-games) (1)
 - [Rippling](#rippling) (6)
-- [Rivian](#rivian) (2)
+- [Rivian](#rivian) (3)
 - [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (3)
 - [Robert Bosch Venture Capital](#robert-bosch-venture-capital) (13)
 - [Robinhood](#robinhood) (3)
@@ -841,7 +841,6 @@
 - [RTX](#rtx) (8)
 - [Rundoo](#rundoo) (1)
 - [S&P Global](#s-p-global) (1)
-- [S&P Global ](#s-p-global) (1)
 - [Safran](#safran) (1)
 - [SAIC](#saic) (1)
 - [SailPoint](#sailpoint) (1)
@@ -954,7 +953,7 @@
 - [Super](#super) (7)
 - [SupplyHouse.com](#supplyhouse-com) (1)
 - [Susquehanna](#susquehanna) (8)
-- [Susquehanna International Group (SIG)](#susquehanna-international-group-sig) (2)
+- [Susquehanna International Group (SIG)](#susquehanna-international-group-sig) (3)
 - [SWBC](#swbc) (3)
 - [Symbotic](#symbotic) (1)
 - [Symmetry Systems](#symmetry-systems) (1)
@@ -976,7 +975,7 @@
 - [Teledyne](#teledyne) (1)
 - [Teleo](#teleo) (1)
 - [Tempus](#tempus) (2)
-- [Tencent](#tencent) (36)
+- [Tencent](#tencent) (35)
 - [TENEX.AI](#tenex-ai) (1)
 - [Tenstorrent](#tenstorrent) (11)
 - [Teradata](#teradata) (1)
@@ -2972,8 +2971,8 @@
 | [Revenue Operations Intern - Enablement (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7761397?gh_jid=7761397) | In-Office | — | 2026-05-06 |
 | [Sales Project Manager Intern (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7773799?gh_jid=7773799) | In-Office | — | 2026-05-06 |
 | [Sales: Solutions Engineer - Intern (Summer & Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7792962?gh_jid=7792962) | In-Office | — | 2026-05-06 |
-| [Security Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150) | In-Office | — | 2026-05-06 |
 | [Security Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169) | In-Office | — | 2026-05-06 |
+| [Security Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150) | In-Office | — | 2026-05-06 |
 | [Technical Marketing Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7733496?gh_jid=7733496) | In-Office | — | 2026-05-06 |
 | [Technical Support Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879) | In-Office | — | 2026-05-06 |
 | [Threat Detection and Incident Response Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7577205?gh_jid=7577205) | In-Office | — | 2026-05-06 |
@@ -4951,8 +4950,8 @@
 | [Graduate Broker Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4608590101) | Chicago, United States | — | 2026-05-06 |
 | [Graduate Floor Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4786701101) | Chicago, United States; Miami, United States; New York, United States; Philadelphia, United States; San Francisco, United States | — | 2026-05-06 |
 | [Graduate Site Reliability Engineer, 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4540358101) | Sydney,  Australia | — | 2026-05-06 |
-| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | Amsterdam, Netherlands | — | 2026-05-06 |
+| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
 | [Graduate Trader (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564495101) | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Graduate Trading Operations Specialist](https://job-boards.eu.greenhouse.io/imc/jobs/4608591101) | Chicago, United States | — | 2026-05-06 |
 | [Hardware Engineer Intern 2026/27](https://job-boards.eu.greenhouse.io/imc/jobs/4742629101) | Sydney,  Australia | — | 2026-05-06 |
@@ -5075,7 +5074,6 @@
 | --- | --- | --- | --- |
 | [Data Analyst Intern](https://job-boards.greenhouse.io/integra/jobs/5134522008) | Austin, TX | AI/ML/Data | 2026-05-14 |
 | [Data Scientist Intern](https://job-boards.greenhouse.io/integrainterns/jobs/5134593008) | Austin, TX | AI/ML/Data | 2026-05-14 |
-| [Data Scientist Intern - PhD](https://job-boards.greenhouse.io/integra/jobs/5134592008) | Austin, TX | AI/ML/Data | 2026-05-13 |
 | [Data Analyst Intern](https://job-boards.greenhouse.io/integrainterns/jobs/5134523008) | Austin, TX | AI/ML/Data | 2026-05-09 |
 
 ## Integrity
@@ -5308,8 +5306,8 @@
 | [Software Engineer Intern](https://www.jumptrading.com/careers/7124769/?gh_jid=7124769) | Chicago, IL | — | 2026-05-09 |
 | [Tech Ops Engineer Intern](https://www.jumptrading.com/careers/7077897/?gh_jid=7077897) | Chicago, IL | — | 2026-05-09 |
 | [UI Software Engineer Intern](https://www.jumptrading.com/careers/7125381/?gh_jid=7125381) | Chicago, IL | — | 2026-05-09 |
-| [Campus Crypto Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7362347) | Chicago | — | 2026-05-06 |
 | [Campus Crypto Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7362318) | London | — | 2026-05-06 |
+| [Campus Crypto Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7362347) | Chicago | — | 2026-05-06 |
 | [Campus Software Engineer (Dec 2026 - Feb 2027 Intern)](https://www.jumptrading.com/hr/job?gh_jid=7543377) | Sydney; Singapore | — | 2026-05-06 |
 | [Campus Tech Ops Engineer (Dec 2026 - Feb 2027 Intern)](https://www.jumptrading.com/hr/job?gh_jid=7543260) | Sydney | — | 2026-05-06 |
 | [Campus Trading Team Software Engineer  (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7565728) | Hong Kong | — | 2026-05-06 |
@@ -5397,7 +5395,6 @@
 | --- | --- | --- | --- |
 | [Developer Co-op/Intern - Clients - Front End Technologies](https://careers-kinaxis.icims.com/jobs/34702/job?mobile=true&needsRedirect=false) | Ottawa, ON, Canada | Software | 2026-05-14 |
 | [Software Developer Co-op/Intern - Core Algorithms](https://careers-kinaxis.icims.com/jobs/34701/job?mobile=true&needsRedirect=false) | Ottawa, ON, Canada | Software | 2026-05-14 |
-| [Software Developer Co-op/Intern - Core Algorithms - Life Sciences](https://careers-kinaxis.icims.com/jobs/34704/job?mobile=true&needsRedirect=false) | Ottawa, ON, Canada | Software | 2026-05-14 |
 | [Software Developer Co-op/Intern - Developer Framework](https://careers-kinaxis.icims.com/jobs/34763/job?mobile=true&needsRedirect=false) | Ottawa, ON, Canada | Software | 2026-05-14 |
 | [Software Developer Intern/Coop](https://careers-kinaxis.icims.com/jobs/33735/job?mobile=true&needsRedirect=false) | Ottawa, Canada | — | 2026-05-09 |
 
@@ -5907,6 +5904,8 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Clinical Informatics Intern - Fall 2026](https://careers.medpace.com/jobs/12448?lang=en-us&icims=1) | Cincinnati, OH | AI/ML/Data | 2026-05-15 |
+| [Feasibility Informatics Intern/Co-op](https://careers.medpace.com/jobs/12566?lang=en-us&icims=1) | Cincinnati, OH | AI/ML/Data | 2026-05-15 |
 | [AI Engineer Intern](https://careers.medpace.com/jobs/12729?lang=en-us&icims=1) | Cincinnati, OH | AI/ML/Data | 2026-05-15 |
 | [Informatics Internship/Co-Op](https://careers.medpace.com/jobs/11562?lang=en-us&icims=1) | Cincinnati, OH | — | 2026-05-09 |
 | [Web Developer Intern/Co-op](https://careers.medpace.com/jobs/11645) | Cincinnati, OH | — | 2026-05-09 |
@@ -6483,7 +6482,6 @@
 | [Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398) | Santa Clara, CA | AI/ML/Data | 2026-05-14 |
 | [Systems Software Engineer Intern, Metropolis](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer-Intern--Metropolis---Fall-2026_JR2018016) | Santa Clara, CA | — | 2026-05-14 |
 | [PhD Research Intern - Security and Privacy](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1) | Santa Clara, CA | AI/ML/Data | 2026-05-14 |
-| [Software Engineer Intern - AI Tools](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--AI-Tools---Fall-2026_JR2016805) | Santa Clara, CA | Software | 2026-05-14 |
 | [Systems Software Engineer Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer-Intern--Metropolis---Fall-2026_JR2018016) | Santa Clara, CA | Software | 2026-05-14 |
 | [Formal Verification Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Intern---Fall-2026_JR2017490) | Austin, TX / Santa Clara, CA | Hardware | 2026-05-14 |
 | [Software Engineering Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745) | Santa Clara, CA | Software | 2026-05-13 |
@@ -7311,6 +7309,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [UIUC Research Park Intern - Validation](https://careers.rivian.com/jobs/29771?lang=en-us&icims=1) | Urbana, IL | Hardware | 2026-05-15 |
 | [Research Park Intern - Hardware Functional Safety](https://careers.rivian.com/jobs/30493?lang=en-us&icims=1) | Urbana, IL | Hardware | 2026-05-15 |
 | [Research Park Intern - Design Verification](https://careers.rivian.com/jobs/29852?lang=en-us&icims=1) | Urbana, IL | Hardware | 2026-05-14 |
 
@@ -7494,12 +7493,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Software Engineering Intern](https://careers.spglobal.com/jobs/321766?lang=en-us) | New York, NY | — | 2026-05-09 |
-
-## S&P Global 
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [APMO Data Analytics Intern](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/London-UK/APMO-Data-Analytics---Reporting---Summer-Intern_320524-1) | London, UK | AI/ML/Data | 2026-05-09 |
 
 ## Safran
 
@@ -8318,6 +8311,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Machine Learning Intern](https://careers-sig.icims.com/jobs/10785/job?mobile=true&needsRedirect=false) | Ardmore, PA | AI/ML/Data | 2026-05-15 |
 | [Linux Engineer Intern](https://careers-sig.icims.com/jobs/9859/job) | Ardmore, PA | — | 2026-05-09 |
 | [Quantitative Trader Internship](https://careers-sig.icims.com/jobs/9382/job) | NYC | — | 2026-05-09 |
 
@@ -8495,7 +8489,6 @@
 | [NLP Research Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/NLP-Research-Intern_R106758-1) | London, UK | AI/ML/Data | 2026-05-09 |
 | [NLP Research Intern](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/UK-London/NLP-Research-Intern_R106758) | London, UK | AI/ML/Data | 2026-05-09 |
 | [Product Manager Intern - Game Accounts and Studio Partnership](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Product-Manager-Intern--Game-Accounts-and-Studio-Partnership_R107160-1) | London, UK | Product | 2026-05-09 |
-| [Product Manager Intern - Game Accounts and Studio Partnership](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/UK-London/Product-Manager-Intern--Game-Accounts-and-Studio-Partnership_R107160) | London, UK | Product | 2026-05-09 |
 | [Product Manager Intern - Influencer Marketing](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/Netherlands-Amsterdam/Product-Manager-Intern--Influencer-Marketing_R107233) | London, UK | Product | 2026-05-09 |
 | [Research Internship, Reinforcement Learning for Large Foundation Models](https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-Washington-Bellevue/Research-Internship---Reinforcement-Learning-for-Large-Foundation-Models_R106337-1) | Bellevue, WA | — | 2026-05-09 |
 | [Software Engineering Intern - Backend Development](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/UK-London/Software-Engineering-Intern--Backend-Development_R107174) | London, UK | Software | 2026-05-09 |
