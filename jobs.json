@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-16T16:09:06.490Z",
+  "generatedAt": "2026-05-16T17:12:41.468Z",
   "companyCount": 64,
   "okCount": 64,
-  "jobCount": 2704,
+  "jobCount": 2706,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -510,7 +510,6 @@
     "canonical:c1862e4588cf2c36": "2026-05-09T15:28:15.527Z",
     "canonical:a6e4b6d0e4997b8d": "2026-05-09T15:28:15.527Z",
     "canonical:3ee2d6aca9851dfb": "2026-05-09T15:28:15.527Z",
-    "canonical:2dcd42d54094e1d6": "2026-05-09T15:28:15.527Z",
     "canonical:af3e2c5fb52083c5": "2026-05-09T15:28:15.527Z",
     "canonical:1b419963796d3a31": "2026-05-09T15:28:15.527Z",
     "canonical:31333cf7d6ca80f8": "2026-05-09T15:28:15.527Z",
@@ -825,7 +824,6 @@
     "canonical:dde4608caa90eb0b": "2026-05-09T15:28:15.527Z",
     "canonical:2632695f560127b1": "2026-05-09T15:28:15.527Z",
     "canonical:a0f579e0cb8ec286": "2026-05-09T15:28:15.527Z",
-    "canonical:f83fea16b1512eea": "2026-05-14T05:32:10.854Z",
     "canonical:46f437449c88991c": "2026-05-09T15:28:15.527Z",
     "canonical:5359e9588fbcbdf9": "2026-05-09T15:28:15.527Z",
     "canonical:ce8b9d9ff03ce5eb": "2026-05-09T15:28:15.527Z",
@@ -1095,7 +1093,6 @@
     "canonical:f432089fe9f41109": "2026-05-09T15:28:15.527Z",
     "canonical:4ae4db68271d5872": "2026-05-09T15:28:15.527Z",
     "canonical:64313d7a2b2a53d8": "2026-05-09T15:28:15.527Z",
-    "canonical:c11bff2ca221b70c": "2026-05-09T15:28:15.527Z",
     "canonical:baf630806b9722b3": "2026-05-09T15:28:15.527Z",
     "canonical:c53a6de2489a8fc7": "2026-05-09T15:28:15.527Z",
     "canonical:c4364ae941de1dfd": "2026-05-09T15:28:15.527Z",
@@ -1225,7 +1222,6 @@
     "canonical:1782ca39c8f2f506": "2026-05-14T01:31:29.727Z",
     "canonical:77b3b8028841582a": "2026-05-09T15:28:15.527Z",
     "canonical:210deeaf7e22cbc4": "2026-05-09T15:28:15.527Z",
-    "canonical:90b5a8e77716d13c": "2026-05-09T15:28:15.527Z",
     "canonical:7db43378a5bbcb77": "2026-05-09T15:28:15.527Z",
     "canonical:079fba44d48bf733": "2026-05-09T19:20:31.296Z",
     "canonical:81e44c8dc465d3ce": "2026-05-09T15:28:15.527Z",
@@ -2707,7 +2703,13 @@
     "canonical:6f9b65a431b0c517": "2026-05-16T16:09:06.490Z",
     "canonical:0daed5c9bb46ac4c": "2026-05-16T16:09:06.490Z",
     "canonical:8ae0330f340ce776": "2026-05-16T16:09:06.490Z",
-    "canonical:76a9db475087d3f8": "2026-05-16T16:09:06.490Z"
+    "canonical:76a9db475087d3f8": "2026-05-16T16:09:06.490Z",
+    "canonical:dab5d684eda3a479": "2026-05-16T17:12:41.468Z",
+    "canonical:41243cb4d6cbe426": "2026-05-16T17:12:41.468Z",
+    "canonical:4149eeec66449b24": "2026-05-16T17:12:41.468Z",
+    "canonical:7810961defd3d47c": "2026-05-16T17:12:41.468Z",
+    "canonical:0fd1fbdf1385bbae": "2026-05-16T17:12:41.468Z",
+    "canonical:64a3d5aeb3c59fdc": "2026-05-16T17:12:41.468Z"
   },
   "jobs": [
     {
@@ -9227,19 +9229,6 @@
       ]
     },
     {
-      "id": "canonical:2dcd42d54094e1d6",
-      "title": "Post Grad Data Science Intern",
-      "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/London---Fruit--Wool-Exchange/Post-Grad-Data-Science-Intern---Current-PhD-Students_33785",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "CME Group",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:af3e2c5fb52083c5",
       "title": "Quantitative Researcher Engineer – PhD Intern - Europe",
       "url": "https://www.citadelsecurities.com/careers/details/quantitative-researcher-engineer-phd-intern-europe/",
@@ -9318,7 +9307,7 @@
     {
       "id": "canonical:63cec1ca2bdd37ee",
       "title": "Intern Software Engineer - C++/.Net - Months",
-      "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Sheffield-GBP/Intern--Software-Engineer--C---NET----12-months_26WD95016-1",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Sheffield-GBP/Intern--Software-Engineer--C---NET----12-months_26WD95016-2",
       "location": "Sheffield, UK",
       "department": "Software",
       "company": "Autodesk",
@@ -12397,6 +12386,18 @@
       ]
     },
     {
+      "id": "canonical:dab5d684eda3a479",
+      "title": "Machine Learning Geoscientist Intern",
+      "url": "https://jobs.halliburton.com/job/Abingdon-Machine-Learning-Geoscientist-Internship-OXF-OX14-4RW/1377999600/?ats=successfactors",
+      "location": "Oxford, UK",
+      "department": "AI/ML/Data",
+      "company": "Halliburton",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:23ba199774caa9e1",
       "title": "Rust Software Engineering Intern",
       "url": "https://jobs.ashbyhq.com/atomicsemi/009d0819-c688-4ab9-8816-a3c7ab002470/application",
@@ -13500,20 +13501,6 @@
         "high-signal role",
         "direct ATS",
         "lower-fit title"
-      ]
-    },
-    {
-      "id": "canonical:f83fea16b1512eea",
-      "title": "Software Engineer Intern",
-      "url": "https://intapp.wd1.myworkdayjobs.com/Intapp/job/Charlotte-NC/Software-Engineer-Intern_R2024898-1",
-      "location": "Charlotte, NC",
-      "department": "Software",
-      "company": "Intapp",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -15544,6 +15531,18 @@
       ]
     },
     {
+      "id": "canonical:41243cb4d6cbe426",
+      "title": "GAM – Portfolio Solutions Intern",
+      "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2026-GAM--Fall-Portfolio-Solutions-Intern--8-months-_R-0000167895",
+      "location": "Toronto, ON, Canada",
+      "department": "Product",
+      "company": "Royal Bank of Canada",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:52928aef9eb1f8aa",
       "title": "Quantitative Analyst – Co-op/Intern - 4 Months",
       "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Quantitative-Analyst--Fall-2026--Co-op-Internship----4-Months_R260012627",
@@ -16832,6 +16831,19 @@
       ]
     },
     {
+      "id": "canonical:4149eeec66449b24",
+      "title": "GHG Data Analyst Intern",
+      "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/GHG-Data-Analyst-Intern_JR110778",
+      "location": "Montreal, QC, Canada",
+      "department": "AI/ML/Data",
+      "company": "Intelcom | Dragonfly",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:0eb01fcdb231402f",
       "title": "Business Intelligence – Developer Intern - Business Intelligence",
       "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Business-Intelligence--BI--Developer-Intern_JR110781-1",
@@ -17289,19 +17301,6 @@
       ]
     },
     {
-      "id": "canonical:c11bff2ca221b70c",
-      "title": "Application Development Intern",
-      "url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101291",
-      "location": "East Lansing, MI",
-      "department": "Software",
-      "company": "Delta Dental",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:4533fe5966b42a6d",
       "title": "Data Science Intern",
       "url": "https://mhicareers.com/job/Lake-Mary-Data-Science-Internship-FL-32746/1389658633/?ats=successfactors",
@@ -17525,6 +17524,19 @@
       "location": "Toronto, ON, Canada",
       "department": "AI/ML/Data",
       "company": "Bank of Montreal",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:7810961defd3d47c",
+      "title": "Product & Data Engineering Intern",
+      "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Product---Data-Engineering--September-2026---12-months-_6987",
+      "location": "Toronto, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "Ontario Teachers' Pension Plan",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -19161,19 +19173,6 @@
       ]
     },
     {
-      "id": "canonical:90b5a8e77716d13c",
-      "title": "Film Technology AR/VR Intern",
-      "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000125422009",
-      "location": "North Hollywood, LA",
-      "department": "Software",
-      "company": "NBCUniversal",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:7db43378a5bbcb77",
       "title": "Engineering Intern - Embedded",
       "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7721525",
@@ -19331,6 +19330,19 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:0fd1fbdf1385bbae",
+      "title": "Data Intern",
+      "url": "https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Stage-en-donnes--Automne-2026_R2606248-2",
+      "location": "Montreal, QC, Canada / Quebec City, QC, Canada",
+      "department": "AI/ML/Data",
+      "company": "Desjardins Group",
+      "score": 68,
+      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
@@ -20177,6 +20189,19 @@
       "company": "Stantec",
       "score": 60,
       "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:64a3d5aeb3c59fdc",
+      "title": "ML Engineer Intern",
+      "url": "https://ats.rippling.com/pathos/jobs/430a21a7-8718-47ff-8963-2095727cce57",
+      "location": "NYC",
+      "department": "AI/ML/Data",
+      "company": "Pathos",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },

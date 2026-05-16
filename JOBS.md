@@ -1,6 +1,6 @@
 # Open Internships
 
-**2704** internships across **64/64** companies — last updated 2026-05-16.
+**2706** internships across **64/64** companies — last updated 2026-05-16.
 
 ## Companies
 
@@ -238,7 +238,7 @@
 - [Cloudflare](#cloudflare) (42)
 - [Cloudforce](#cloudforce) (2)
 - [Cloudglue - YC](#cloudglue-yc) (1)
-- [CME Group](#cme-group) (2)
+- [CME Group](#cme-group) (1)
 - [Cobalt](#cobalt) (1)
 - [CoBank](#cobank) (1)
 - [Cockroach Labs](#cockroach-labs) (1)
@@ -299,9 +299,9 @@
 - [Dedalus Labs](#dedalus-labs) (1)
 - [Deloitte](#deloitte) (1)
 - [Delta Air Lines, Inc.](#delta-air-lines-inc) (1)
-- [Delta Dental](#delta-dental) (2)
+- [Delta Dental](#delta-dental) (1)
 - [Deluxe](#deluxe) (2)
-- [Desjardins Group](#desjardins-group) (1)
+- [Desjardins Group](#desjardins-group) (2)
 - [Deutsche Bank](#deutsche-bank) (2)
 - [Dewberry](#dewberry) (1)
 - [Dexcom](#dexcom) (1)
@@ -461,7 +461,7 @@
 - [H3X Technologies](#h3x-technologies) (1)
 - [Hadrian](#hadrian) (1)
 - [Haize Labs](#haize-labs) (1)
-- [Halliburton](#halliburton) (2)
+- [Halliburton](#halliburton) (3)
 - [Handshake](#handshake) (1)
 - [Harris Computer](#harris-computer) (2)
 - [Harvey](#harvey) (1)
@@ -520,11 +520,10 @@
 - [Instawork](#instawork) (1)
 - [Institute of Foundation Models](#institute-of-foundation-models) (1)
 - [Intact](#intact) (10)
-- [Intapp](#intapp) (1)
 - [Integra FEC](#integra-fec) (3)
 - [Integrity](#integrity) (1)
 - [Intel](#intel) (3)
-- [Intelcom | Dragonfly](#intelcom-dragonfly) (10)
+- [Intelcom | Dragonfly](#intelcom-dragonfly) (11)
 - [Intercontinental Exchange, Inc.](#intercontinental-exchange-inc) (1)
 - [Interdigital](#interdigital) (1)
 - [Internship](#internship) (1)
@@ -663,7 +662,7 @@
 - [N1](#n1) (2)
 - [Naïve](#na-ve) (1)
 - [Nasa](#nasa) (1)
-- [NBCUniversal](#nbcuniversal) (6)
+- [NBCUniversal](#nbcuniversal) (5)
 - [Nelnet](#nelnet) (2)
 - [Netflix](#netflix) (12)
 - [Neuralink](#neuralink) (6)
@@ -699,7 +698,7 @@
 - [On the Go](#on-the-go) (1)
 - [ONE Finance](#one-finance) (1)
 - [onsemi](#onsemi) (5)
-- [Ontario Teachers' Pension Plan](#ontario-teachers-pension-plan) (1)
+- [Ontario Teachers' Pension Plan](#ontario-teachers-pension-plan) (2)
 - [OpenAI](#openai) (2)
 - [Optiver](#optiver) (9)
 - [OpusClip](#opusclip) (2)
@@ -719,6 +718,7 @@
 - [Parspec](#parspec) (1)
 - [Partcl (X25)](#partcl-x25) (1)
 - [PathAI](#pathai) (1)
+- [Pathos](#pathos) (1)
 - [Patreon](#patreon) (1)
 - [PayPal](#paypal) (2)
 - [Peak Nano](#peak-nano) (1)
@@ -807,7 +807,7 @@
 - [Rolls Royce](#rolls-royce) (7)
 - [Rolls-Royce Motorcars](#rolls-royce-motorcars) (3)
 - [Root Access](#root-access) (1)
-- [Royal Bank of Canada](#royal-bank-of-canada) (29)
+- [Royal Bank of Canada](#royal-bank-of-canada) (30)
 - [RTW Investments](#rtw-investments) (1)
 - [RTX](#rtx) (4)
 - [Rundoo](#rundoo) (1)
@@ -1875,7 +1875,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Intern Software Engineer - C++/.Net - Months](https://autodesk.wd1.myworkdayjobs.com/uni/job/Sheffield-GBP/Intern--Software-Engineer--C---NET----12-months_26WD95016-1) | 93 | Sheffield, UK | Software | 2026-05-09 |
+| [Intern Software Engineer - C++/.Net - Months](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Sheffield-GBP/Intern--Software-Engineer--C---NET----12-months_26WD95016-2) | 93 | Sheffield, UK | Software | 2026-05-09 |
 
 ## Avanade
 
@@ -2836,7 +2836,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Post Grad Data Science Intern](https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/London---Fruit--Wool-Exchange/Post-Grad-Data-Science-Intern---Current-PhD-Students_33785) | 68 | London, UK | AI/ML/Data | 2026-05-09 |
 | [Quant Risk Management Intern](https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/New-York---300-Vesey-Street/Quant-Risk-Management-Intern---Year-Round_34255) | 68 | NYC | Quant | 2026-05-09 |
 
 ## Cobalt
@@ -3248,7 +3247,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Intern - Application Developer](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101251) | 93 | East Lansing, MI | Software | 2026-05-09 |
-| [Application Development Intern](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101291) | 68 | East Lansing, MI | Software | 2026-05-09 |
 
 ## Deluxe
 
@@ -3261,6 +3259,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data Intern](https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Stage-en-donnes--Automne-2026_R2606248-2) | 68 | Montreal, QC, Canada / Quebec City, QC, Canada | AI/ML/Data | 2026-05-16 |
 | [Development Intern - IT sector](https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Stage--Secteur-TI--Automne-2026_R2606252-1) | 68 | Montreal, QC, Canada / Quebec City, QC, Canada | Software | 2026-05-16 |
 
 ## Deutsche Bank
@@ -4362,6 +4361,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Machine Learning Geoscientist Intern](https://jobs.halliburton.com/job/Abingdon-Machine-Learning-Geoscientist-Internship-OXF-OX14-4RW/1377999600/?ats=successfactors) | 60 | Oxford, UK | AI/ML/Data | 2026-05-16 |
 | [Data Scientist Intern](https://jobs.halliburton.com/job/Abingdon-Abingdon_Data-Scientist-Internship-OXF-OX14-4RW/1384809800/?ats=successfactors) | 85 | Oxford, UK | AI/ML/Data | 2026-05-16 |
 | [Computer Science/Data Science/Artificial Intelligence Intern](https://jobs.halliburton.com/job/Abingdon-Abingdon_Computer-ScienceData-ScienceArtificial-Intelligence-Intern-OXF-OX14-4RW/1386854200/?ats=successfactors) | 60 | Oxford, UK | AI/ML/Data | 2026-05-16 |
 
@@ -4787,12 +4787,6 @@
 | [Software Developer 1 Intern/Co-op](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/Software-Developer-I---4-Month-Internship-Co-op--Fall-2026-_R153466) | 93 | Toronto, ON, Canada | Software | 2026-05-09 |
 | [Product Manager Intern/Co-op](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Product-Manager-Intern--4-month-Internship-Co-op--Fall-2026---_R153327-1) | 58 | Montreal, QC, Canada | Product | 2026-05-09 |
 
-## Intapp
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://intapp.wd1.myworkdayjobs.com/Intapp/job/Charlotte-NC/Software-Engineer-Intern_R2024898-1) | 93 | Charlotte, NC | Software | 2026-05-14 |
-
 ## Integra FEC
 
 | Title | Score | Location | Department | First seen |
@@ -4819,6 +4813,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [GHG Data Analyst Intern](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/GHG-Data-Analyst-Intern_JR110778) | 68 | Montreal, QC, Canada | AI/ML/Data | 2026-05-16 |
 | [Software Development Intern - Client and Partner Integration](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Client-and-Partner-Integration_JR110742-1) | 68 | Montreal, QC, Canada | Software | 2026-05-16 |
 | [Business Intelligence – Developer Intern - Business Intelligence](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Business-Intelligence--BI--Developer-Intern_JR110781-1) | 93 | Montreal, QC, Canada | AI/ML/Data | 2026-05-16 |
 | [Software Development Intern - Geocoding](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---GeoCoding_JR110744-1) | 68 | Montreal, QC, Canada | Software | 2026-05-16 |
@@ -5896,7 +5891,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://jobs.smartrecruiters.com/nbcuniversal3/744000092795107-media-tech-software-engineering-internships-summer-2026) | 93 | New York, NY | — | 2026-05-09 |
-| [Film Technology AR/VR Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000125422009) | 68 | North Hollywood, LA | Software | 2026-05-09 |
 | [Film Technology AR/VR Internships Intern - Academic Year](https://jobs.smartrecruiters.com/NBCUniversal3/744000121840427) | 68 | North Hollywood, LA | Software | 2026-05-09 |
 | [Software Engineering Intern](https://jobs.smartrecruiters.com/nbcuniversal3/744000092797675-peacock-software-engineering-internships-summer-2026) | 68 | New York, NY | — | 2026-05-09 |
 | [Software Engineering Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000121851427) | 68 | Universal City, CA | — | 2026-05-09 |
@@ -6195,6 +6189,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Product & Data Engineering Intern](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Product---Data-Engineering--September-2026---12-months-_6987) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-05-16 |
 | [Portfolio Engineering Intern - Capital Markets - Cmia](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Portfolio-Engineering--Capital-Markets--CMIA--September-2026---8-months-_6986) | 68 | Toronto, ON, Canada | Software | 2026-05-16 |
 
 ## OpenAI
@@ -6355,6 +6350,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Machine Learning Intern, AI Product and ML Core](https://www.pathai.com/career/job-post?gh_jid=8202342002) | 60 | Boston, MA / New York, NY / Remote | — | 2026-05-09 |
+
+## Pathos
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [ML Engineer Intern](https://ats.rippling.com/pathos/jobs/430a21a7-8718-47ff-8963-2095727cce57) | 85 | NYC | AI/ML/Data | 2026-05-16 |
 
 ## Patreon
 
@@ -6997,6 +6998,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [GAM – Portfolio Solutions Intern](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2026-GAM--Fall-Portfolio-Solutions-Intern--8-months-_R-0000167895) | 58 | Toronto, ON, Canada | Product | 2026-05-16 |
 | [Data Analyst Developer Intern - Grm](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Summer---GRM--Data-Analyst-Developer-Intern--8-Months-_R-0000169171) | 93 | Toronto, ON, Canada | AI/ML/Data | 2026-05-16 |
 | [Data Engineer Intern - Grm - 4 Months](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Data-Engineer-Intern--4-Months-_R-0000168872-1) | 93 | Toronto, ON, Canada | AI/ML/Data | 2026-05-16 |
 | [Capital Markets Intern - Global Equities - Fall Sales & Trading Analyst](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Capital-Markets--Global-Equities--Fall-Sales---Trading-Analyst--4-Months-_R-0000171251) | 48 | Toronto, ON, Canada | Quant | 2026-05-16 |
