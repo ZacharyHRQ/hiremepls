@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-16T21:02:08.432Z",
+  "generatedAt": "2026-05-16T22:02:43.602Z",
   "companyCount": 64,
   "okCount": 64,
-  "jobCount": 2727,
+  "jobCount": 2748,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -2730,7 +2730,28 @@
     "canonical:dbcff267cfa71af8": "2026-05-16T21:02:08.432Z",
     "canonical:868f9fb9ee4546fb": "2026-05-16T21:02:08.432Z",
     "canonical:6a871bcd8d35483d": "2026-05-16T21:02:08.432Z",
-    "canonical:e3b70e287d0e2aef": "2026-05-16T21:02:08.432Z"
+    "canonical:e3b70e287d0e2aef": "2026-05-16T21:02:08.432Z",
+    "canonical:8ce7cacf23ef230f": "2026-05-16T22:02:43.602Z",
+    "canonical:3a87c4d1f0eb8323": "2026-05-16T22:02:43.602Z",
+    "canonical:f1f94a2730abf69b": "2026-05-16T22:02:43.602Z",
+    "canonical:57a459caef9dbc81": "2026-05-16T22:02:43.602Z",
+    "canonical:e913c79e82d042a1": "2026-05-16T22:02:43.602Z",
+    "canonical:87327dc16204b496": "2026-05-16T22:02:43.602Z",
+    "canonical:dee0c50f951e3036": "2026-05-16T22:02:43.602Z",
+    "canonical:784491714da1740f": "2026-05-16T22:02:43.602Z",
+    "canonical:79cfcc7e8096fa91": "2026-05-16T22:02:43.602Z",
+    "canonical:5cec9f0b469f9a82": "2026-05-16T22:02:43.602Z",
+    "canonical:6e05ebb15766a29b": "2026-05-16T22:02:43.602Z",
+    "canonical:5dbbafb7c424a637": "2026-05-16T22:02:43.602Z",
+    "canonical:615538820d9b7eb2": "2026-05-16T22:02:43.602Z",
+    "canonical:aeb0200148d99b67": "2026-05-16T22:02:43.602Z",
+    "canonical:08c27a78f41cddd0": "2026-05-16T22:02:43.602Z",
+    "canonical:1cf743ca5f76a426": "2026-05-16T22:02:43.602Z",
+    "canonical:fedb68fe5c37e740": "2026-05-16T22:02:43.602Z",
+    "canonical:9a2e2f8f76500ed1": "2026-05-16T22:02:43.602Z",
+    "canonical:f4a868cbae01f785": "2026-05-16T22:02:43.602Z",
+    "canonical:e02b646de548031d": "2026-05-16T22:02:43.602Z",
+    "canonical:d4cd59daed8b8e29": "2026-05-16T22:02:43.602Z"
   },
   "jobs": [
     {
@@ -7479,6 +7500,19 @@
       ]
     },
     {
+      "id": "canonical:8ce7cacf23ef230f",
+      "title": "Data Science Intern - Summer 2026",
+      "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Data-Science-Intern---Summer-2026_JR3587",
+      "location": "San Diego, CA",
+      "department": "AI/ML/Data",
+      "company": "Axos Bank",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:a9091112dc9c9132",
       "title": "Research Scientist Intern, LLM Evaluation",
       "url": "https://www.metacareers.com/profile/job_details/4203446973242742",
@@ -8487,6 +8521,18 @@
       ]
     },
     {
+      "id": "canonical:3a87c4d1f0eb8323",
+      "title": "Digital Product Intern",
+      "url": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/New-York-NY-55th-St/Digital-Product-Intern_Req37620-2",
+      "location": "NYC",
+      "department": "Product",
+      "company": "iHeartMedia",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:89f8df1c5fc06be1",
       "title": "Product & AI Enablement Intern - Summer 2026",
       "url": "https://jobs.lever.co/gomaterials/dd1e004f-09d5-401e-906b-3b605dc6f0ca/apply",
@@ -8548,6 +8594,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:f1f94a2730abf69b",
+      "title": "University – 2026 Summer Games Data Scientist Intern",
+      "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--2026-Summer-Games-Data-Scientist-Intern_R0225534-1",
+      "location": "Honolulu, HI / Annapolis Junction, MD / Colorado Springs, CO / McLean, VA / Rome, NY / Panama City, FL / Charleston, SC / Atlanta, GA / Huntsville, AL / San Diego, CA / El Segundo, CA",
+      "department": "AI/ML/Data",
+      "company": "Booz Allen",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -9543,6 +9603,19 @@
       ]
     },
     {
+      "id": "canonical:57a459caef9dbc81",
+      "title": "Engineering Intern",
+      "url": "https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Engineering-Intern_R041252",
+      "location": "Sharonville, OH",
+      "department": "Software",
+      "company": "Ensemble Health Partners",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:ec6f178e215cef02",
       "title": "Software Development Engineer Intern - Military Veteran",
       "url": "https://amazon.jobs/en/jobs/3179209/software-development-engineer-internship-military-veteran",
@@ -10013,6 +10086,19 @@
       ]
     },
     {
+      "id": "canonical:e913c79e82d042a1",
+      "title": "Data Engineering Intern",
+      "url": "https://global.wd1.myworkdayjobs.com/globalpartnerscareers/job/Waltham-MA---Corporate-Headquarters/Data-Engineering-Intern_R0030316",
+      "location": "Waltham, MA",
+      "department": "AI/ML/Data",
+      "company": "Global Partners",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:4580fc8c1ae214fe",
       "title": "Intern – Advanced Computer Graphics Research",
       "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Culver-City/Intern--Advanced-Computer-Graphics-Research_JR-118801",
@@ -10021,6 +10107,33 @@
       "company": "Sony",
       "score": 68,
       "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:87327dc16204b496",
+      "title": "Clinical Data Science Electrophysiology Biostatistics Intern",
+      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Irvine-California-United-States-of-America/CDS-EP-MedTech-Summer-Intern_R-056163",
+      "location": "Irvine, CA",
+      "department": "AI/ML/Data",
+      "company": "Johnson & Johnson",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:dee0c50f951e3036",
+      "title": "Software Engineer Intern/Co-op",
+      "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAArkansasFt-Smith-AR/Software-Engineer-Co-Op_R0014409-1",
+      "location": "Fort Smith, AR",
+      "department": "Hardware",
+      "company": "Nidec",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -10620,6 +10733,19 @@
       ]
     },
     {
+      "id": "canonical:784491714da1740f",
+      "title": "Data Analytics Intern",
+      "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Temporary-Data-Analytics-Intern_JR32883",
+      "location": "Chicago, IL",
+      "department": "AI/ML/Data",
+      "company": "University of Chicago",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:1a36c38a48406fc0",
       "title": "Software Architecture Engineer Intern",
       "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Architecture-Engineer-Intern_JR100106",
@@ -11113,6 +11239,19 @@
       ]
     },
     {
+      "id": "canonical:79cfcc7e8096fa91",
+      "title": "Software Engineering Intern",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR107699",
+      "location": "Dallas, TX",
+      "department": "Software",
+      "company": "Copart",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:f9f7e530a72e7246",
       "title": "Intern Software Engineer",
       "url": "https://jobs.ashbyhq.com/haydenai/0e567d78-e519-486c-9136-bc3eda60954d/application",
@@ -11428,6 +11567,19 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:5cec9f0b469f9a82",
+      "title": "Quality Operations Intern - AI Assistant Development",
+      "url": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Lincoln/Quality-Operations-Intern---AI-Assistant-Development_JR00020207-1",
+      "location": "Lincoln, NE",
+      "department": "AI/ML/Data",
+      "company": "Zoetis",
+      "score": 68,
+      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
@@ -11943,6 +12095,18 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:4341a970cbbffa2c",
+      "title": "Technology Product Analyst Intern",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107890",
+      "location": "Dallas, TX",
+      "department": "Product",
+      "company": "Copart",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
       ]
     },
     {
@@ -13730,6 +13894,19 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:6e05ebb15766a29b",
+      "title": "Intern – Software Engineering - TypeScript / Full Stack",
+      "url": "https://bigcommerce.wd12.myworkdayjobs.com/Commerce/job/US---GA---Atlanta-Office/Intern--Software-Engineering---Typescript---Full-Stack_JR102475",
+      "location": "Atlanta, GA",
+      "department": "Software",
+      "company": "BigCommerce",
+      "score": 68,
+      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
@@ -16096,18 +16273,6 @@
       ]
     },
     {
-      "id": "canonical:4341a970cbbffa2c",
-      "title": "Technology Product Analyst Intern",
-      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR108712",
-      "location": "Dallas, TX",
-      "department": "Product",
-      "company": "Copart",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:2f8bfe48a49f9d89",
       "title": "Software Development Intern",
       "url": "https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Software-Development-Intern_REQ460",
@@ -17743,6 +17908,20 @@
       "scoreReasons": []
     },
     {
+      "id": "canonical:5dbbafb7c424a637",
+      "title": "Web Interface Software Engineer Intern",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Intern---Web-Interface-Software-Engineer--2026-_R64590",
+      "location": "LA",
+      "department": "Hardware",
+      "company": "Motorola",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:6891c0ba8d854c9b",
       "title": "Research Scientist Intern",
       "url": "https://www.metacareers.com/jobs/779670167783218",
@@ -18030,6 +18209,20 @@
       ]
     },
     {
+      "id": "canonical:615538820d9b7eb2",
+      "title": "Yard Engineer Intern",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Yard-Engineering-Intern_JR108554",
+      "location": "Dallas, TX",
+      "department": "Software",
+      "company": "Copart",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:b6122ebe26650734",
       "title": "MTM Data Management & Staffing Coordinator Intern",
       "url": "https://musc.wd1.myworkdayjobs.com/en-US/MUSC/job/Charleston/UNIV---Student-Intern--MTM-Data-Management---Staffing-Coordinator_R-0000061405",
@@ -18089,6 +18282,19 @@
       "location": "Brooklyn, NY",
       "department": "AI/ML/Data",
       "company": "EnergyHub",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:aeb0200148d99b67",
+      "title": "BI Analytics Intern",
+      "url": "https://sharecare.wd1.myworkdayjobs.com/Sharecare_Careers/job/BAM---Atlanta-GA/BI-Analytics-Intern---Remote_R-101864",
+      "location": "Atlanta, GA",
+      "department": "AI/ML/Data",
+      "company": "Sharecare",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -18635,6 +18841,19 @@
       ]
     },
     {
+      "id": "canonical:08c27a78f41cddd0",
+      "title": "Technology Intern - Ist",
+      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Manchester-United-Kingdom/Technology--IST--Internship---Summer-2026_175112",
+      "location": "Manchester, UK",
+      "department": "Software",
+      "company": "Vanguard",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:15c9ad54e5b37301",
       "title": "Software Development Intern",
       "url": "https://apply.workable.com/altom-transport/j/F2E488D40D/apply",
@@ -18976,6 +19195,19 @@
       ]
     },
     {
+      "id": "canonical:1cf743ca5f76a426",
+      "title": "Data Analyst Intern",
+      "url": "https://sharecare.wd1.myworkdayjobs.com/Sharecare_Careers/job/BAM---Atlanta-GA/Data-Analyst-Intern---Remote_R-101873",
+      "location": "Atlanta, GA",
+      "department": "AI/ML/Data",
+      "company": "Sharecare",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:aff107bd3baec5a5",
       "title": "Product Management Intern",
       "url": "https://jobs.ashbyhq.com/matterworks/014652db-c9fc-4424-bea3-ae5ff35d540c/application",
@@ -19095,6 +19327,19 @@
       "location": "Remote in USA",
       "department": "AI/ML/Data",
       "company": "Cresta",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:fedb68fe5c37e740",
+      "title": "Data Quality Intern",
+      "url": "https://sharecare.wd1.myworkdayjobs.com/Sharecare_Careers/job/BAM---Atlanta-GA/Data-Quality-Intern---Remote_R-101874",
+      "location": "Atlanta, GA",
+      "department": "AI/ML/Data",
+      "company": "Sharecare",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -19481,6 +19726,19 @@
       "company": "EquipmentShare",
       "score": 50,
       "scoreReasons": []
+    },
+    {
+      "id": "canonical:9a2e2f8f76500ed1",
+      "title": "Software Engineering Intern",
+      "url": "https://kla.wd1.myworkdayjobs.com/AnnArbor/job/Ann-Arbor-MI/Software-Engineering-Intern_2531653",
+      "location": "Ann Arbor, MI",
+      "department": "AI/ML/Data",
+      "company": "KLA",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
     },
     {
       "id": "canonical:079fba44d48bf733",
@@ -20056,6 +20314,19 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f4a868cbae01f785",
+      "title": "Learning & Development Intern",
+      "url": "https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Arlington-VA/Supply-Chain-Learning---Development-Intern_R1063195",
+      "location": "Arlington, VA",
+      "department": "Software",
+      "company": "AES",
+      "score": 68,
+      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
@@ -21213,6 +21484,33 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:e02b646de548031d",
+      "title": "Engineering Excellence Engineer Intern",
+      "url": "https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Engineering-Excellence-Intern_R041330",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "Ensemble Health Partners",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:d4cd59daed8b8e29",
+      "title": "Business Intelligence Intern",
+      "url": "https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Business-Intelligence-Intern_R044048",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "Ensemble Health Partners",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
