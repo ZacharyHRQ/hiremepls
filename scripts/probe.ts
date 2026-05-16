@@ -120,3 +120,5 @@ for (const r of results) {
   const mark = r.ok ? "✓" : "✗";
   console.log(`${mark} ${r.ats.padEnd(10)} ${r.slug.padEnd(35)} ${r.status} ${r.count} jobs  (${r.name})`);
 }
+
+export {};

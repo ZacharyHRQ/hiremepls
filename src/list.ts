@@ -8,6 +8,7 @@ interface Flags {
   grep?: RegExp;
   location?: string;
   limit?: number;
+  sort?: "new" | "score";
 }
 
 function parseFlags(argv: string[]): Flags {
@@ -26,6 +27,9 @@ function parseFlags(argv: string[]): Flags {
       i++;
     } else if (a === "--limit" && next) {
       flags.limit = Number(next);
+      i++;
+    } else if (a === "--sort" && next) {
+      flags.sort = next === "score" ? "score" : "new";
       i++;
     }
   }
@@ -66,9 +70,17 @@ async function main() {
 
   const filtered = applyFilters(snapshot.jobs, flags);
   filtered.sort((a, b) => {
+    if (flags.sort === "score") {
+      const score = (b.score ?? 0) - (a.score ?? 0);
+      if (score !== 0) return score;
+    }
     const ta = snapshot.firstSeen[a.id] ?? "";
     const tb = snapshot.firstSeen[b.id] ?? "";
     if (ta !== tb) return tb.localeCompare(ta);
+    if (flags.sort !== "score") {
+      const score = (b.score ?? 0) - (a.score ?? 0);
+      if (score !== 0) return score;
+    }
     return a.company.localeCompare(b.company) || a.title.localeCompare(b.title);
   });
 
@@ -89,8 +101,9 @@ async function main() {
       console.log(bold(`▍ ${currentCompany}`));
     }
     const seen = snapshot.firstSeen[j.id]?.slice(0, 10) ?? "—";
+    const score = typeof j.score === "number" ? ` ${dim(`· score ${j.score}`)}` : "";
     const loc = j.location ? ` ${dim("·")} ${j.location}` : "";
-    console.log(`  ${j.title}${loc} ${dim(`(first seen ${seen})`)}`);
+    console.log(`  ${j.title}${loc}${score} ${dim(`(first seen ${seen})`)}`);
     console.log(`  ${cyan(j.url)}`);
   }
 }

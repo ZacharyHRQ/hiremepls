@@ -5,6 +5,7 @@ import { fetchAshby } from "./ats/ashby.ts";
 import { fetchWorkday } from "./ats/workday.ts";
 import { fetchSimplify } from "./ats/simplify.ts";
 import { fetchVanshb03 } from "./ats/vanshb03.ts";
+import { fetchGithubMarkdown } from "./ats/githubMarkdown.ts";
 import { fetchSmartRecruiters } from "./ats/smartrecruiters.ts";
 import { fetchWorkable } from "./ats/workable.ts";
 import {
@@ -13,6 +14,8 @@ import {
   passesLocation,
   parseLocationFilter,
 } from "./filter.ts";
+import { canonicalJobId, dedupeJobs } from "./dedupe.ts";
+import { compareJobsByScore, scoreJobs } from "./rank.ts";
 import { sendJob } from "./notifier.ts";
 import { renderMarkdown } from "./render/markdown.ts";
 import type {
@@ -43,6 +46,7 @@ async function fetchCompany(c: Company): Promise<Job[]> {
   if (c.ats === "workday") return fetchWorkday(c);
   if (c.ats === "simplify") return fetchSimplify(c);
   if (c.ats === "vanshb03") return fetchVanshb03(c);
+  if (c.ats === "githubMarkdown") return fetchGithubMarkdown(c);
   if (c.ats === "smartrecruiters") return fetchSmartRecruiters(c);
   if (c.ats === "workable") return fetchWorkable(c);
   throw new Error(`unknown ats: ${c.ats}`);
@@ -58,6 +62,24 @@ function emptySnapshot(): JobsSnapshot {
     jobs: [],
     errors: [],
   };
+}
+
+function buildPreviousFirstSeen(snapshot: JobsSnapshot): Record<string, string> {
+  const firstSeen: Record<string, string> = {};
+
+  for (const [id, ts] of Object.entries(snapshot.firstSeen ?? {})) {
+    firstSeen[id] = ts;
+  }
+
+  for (const job of snapshot.jobs ?? []) {
+    const canonicalId = canonicalJobId(job);
+    const ts = snapshot.firstSeen[job.id];
+    if (ts && (!firstSeen[canonicalId] || ts < firstSeen[canonicalId])) {
+      firstSeen[canonicalId] = ts;
+    }
+  }
+
+  return firstSeen;
 }
 
 async function main() {
@@ -77,7 +99,6 @@ async function main() {
   const allInterns: Job[] = [];
   const errors: SnapshotError[] = [];
   let okCount = 0;
-  let totalNew = 0;
 
   const sweOnly = process.env.SWE_ONLY === "true";
   const locationFilter = parseLocationFilter(process.env.LOCATION_FILTER);
@@ -109,19 +130,28 @@ async function main() {
     const interns = jobs.filter(matchesAll);
     allInterns.push(...interns);
     const ids = interns.map((j) => j.id);
-    const hasHistory = company.name in seen;
-    const previous = new Set(seen[company.name] ?? []);
-    const newJobs = interns.filter((j) => !previous.has(j.id));
     next[company.name] = ids;
 
     console.log(
-      `✓ ${company.name}: ${jobs.length} total, ${interns.length} intern, ${newJobs.length} new`,
+      `✓ ${company.name}: ${jobs.length} total, ${interns.length} intern`,
     );
+  }
 
-    if (firstRun || !hasHistory) continue;
+  const jobs = scoreJobs(dedupeJobs(allInterns));
+  const previousFirstSeen = buildPreviousFirstSeen(previousSnapshot);
+  const firstSeen: Record<string, string> = {};
+  const currentIds = new Set(jobs.map((j) => j.id));
+  for (const [id, ts] of Object.entries(previousFirstSeen)) {
+    if (currentIds.has(id)) firstSeen[id] = ts;
+  }
+  const newJobs: Job[] = [];
+  for (const job of jobs) {
+    if (!firstSeen[job.id]) newJobs.push(job);
+    if (!firstSeen[job.id]) firstSeen[job.id] = generatedAt;
+  }
 
-    for (const job of newJobs) {
-      totalNew++;
+  if (!firstRun) {
+    for (const job of newJobs.sort(compareJobsByScore)) {
       if (dryRun) {
         console.log(`  [dry-run] would notify: ${job.title} — ${job.url}`);
         continue;
@@ -135,22 +165,13 @@ async function main() {
     }
   }
 
-  const firstSeen: Record<string, string> = {};
-  const currentIds = new Set(allInterns.map((j) => j.id));
-  for (const [id, ts] of Object.entries(previousSnapshot.firstSeen ?? {})) {
-    if (currentIds.has(id)) firstSeen[id] = ts;
-  }
-  for (const job of allInterns) {
-    if (!firstSeen[job.id]) firstSeen[job.id] = generatedAt;
-  }
-
   const snapshot: JobsSnapshot = {
     generatedAt,
     companyCount: companies.length,
     okCount,
-    jobCount: allInterns.length,
+    jobCount: jobs.length,
     firstSeen,
-    jobs: allInterns,
+    jobs,
     errors,
   };
 
@@ -161,7 +182,7 @@ async function main() {
   console.log(
     firstRun
       ? `\nFirst run — seeded ${Object.keys(next).length} companies, no alerts sent.`
-      : `\nDone. ${totalNew} new internship(s) notified.`,
+      : `\nDone. ${newJobs.length} new internship(s) notified.`,
   );
   console.log(
     `Snapshot: ${snapshot.jobCount} open internships across ${snapshot.okCount}/${snapshot.companyCount} companies.`,

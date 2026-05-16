@@ -5,6 +5,7 @@ export type AtsKind =
   | "workday"
   | "simplify"
   | "vanshb03"
+  | "githubMarkdown"
   | "smartrecruiters"
   | "workable";
 
@@ -14,6 +15,7 @@ export interface Company {
   slug: string;
   cluster?: string;
   site?: string;
+  sourceUrl?: string;
 }
 
 export interface Job {
@@ -23,6 +25,8 @@ export interface Job {
   location: string;
   department: string;
   company: string;
+  score?: number;
+  scoreReasons?: string[];
 }
 
 export type SeenState = Record<string, string[]>;
