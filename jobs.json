@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-16T18:05:55.132Z",
+  "generatedAt": "2026-05-16T19:21:47.725Z",
   "companyCount": 64,
   "okCount": 64,
-  "jobCount": 2707,
+  "jobCount": 2710,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -2710,7 +2710,10 @@
     "canonical:64a3d5aeb3c59fdc": "2026-05-16T17:12:41.468Z",
     "canonical:ba5ec2840d352f0b": "2026-05-16T18:05:55.132Z",
     "canonical:1c24208e398709e3": "2026-05-16T18:05:55.132Z",
-    "canonical:caf9da635ac3aba7": "2026-05-16T18:05:55.132Z"
+    "canonical:caf9da635ac3aba7": "2026-05-16T18:05:55.132Z",
+    "canonical:a4a17d0d57e99a9a": "2026-05-16T19:21:47.725Z",
+    "canonical:51a3cddbac5ec599": "2026-05-16T19:21:47.725Z",
+    "canonical:e83362cfa514d795": "2026-05-16T19:21:47.725Z"
   },
   "jobs": [
     {
@@ -15378,6 +15381,18 @@
       ]
     },
     {
+      "id": "canonical:a4a17d0d57e99a9a",
+      "title": "PhD / Masters Residency Intern - Machine Learning / Software Engineering",
+      "url": "https://x.company/careers/8515901002?gh_jid=8515901002",
+      "location": "Mountain View, CA",
+      "department": "AI/ML/Data",
+      "company": "X Development",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:88a36798810907c2",
       "title": "Data Science Intern",
       "url": "https://careers.airbnb.com/positions/7839237?gh_jid=7839237",
@@ -16715,6 +16730,19 @@
       "scoreReasons": []
     },
     {
+      "id": "canonical:51a3cddbac5ec599",
+      "title": "Embedded Software Development Intern",
+      "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Embedded-Software-Development-Intern_JR110741-1",
+      "location": "Montreal, QC, Canada",
+      "department": "Hardware",
+      "company": "Intelcom | Dragonfly",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:ea8047cd9105a4b5",
       "title": "Data Analyst Intern",
       "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Data-Analyst-Intern---Returns_JR110780",
@@ -16932,6 +16960,19 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:e83362cfa514d795",
+      "title": "Student Intern - GIS Specialist",
+      "url": "https://son.wd108.myworkdayjobs.com/NebraskaStateCareers/job/Lincoln-NE/Student-Intern---GIS-Specialist_JR2026-00025735",
+      "location": "Lincoln, NE",
+      "department": "AI/ML/Data",
+      "company": "State of Nebraska",
+      "score": 68,
+      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]

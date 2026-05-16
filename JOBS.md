@@ -1,6 +1,6 @@
 # Open Internships
 
-**2707** internships across **64/64** companies — last updated 2026-05-16.
+**2710** internships across **64/64** companies — last updated 2026-05-16.
 
 ## Companies
 
@@ -523,7 +523,7 @@
 - [Integra FEC](#integra-fec) (3)
 - [Integrity](#integrity) (1)
 - [Intel](#intel) (3)
-- [Intelcom | Dragonfly](#intelcom-dragonfly) (12)
+- [Intelcom | Dragonfly](#intelcom-dragonfly) (13)
 - [Intercontinental Exchange, Inc.](#intercontinental-exchange-inc) (1)
 - [Interdigital](#interdigital) (1)
 - [Internship](#internship) (1)
@@ -903,6 +903,7 @@
 - [Staples](#staples) (1)
 - [Staples Inc.](#staples-inc) (1)
 - [State Farm](#state-farm) (2)
+- [State of Nebraska](#state-of-nebraska) (1)
 - [State Street](#state-street) (1)
 - [Stevens Capital Management](#stevens-capital-management) (1)
 - [Stifel](#stifel) (2)
@@ -1076,7 +1077,7 @@
 - [Woven](#woven) (1)
 - [WSP](#wsp) (1)
 - [WTW](#wtw) (1)
-- [X Development](#x-development) (2)
+- [X Development](#x-development) (3)
 - [Xantium](#xantium) (1)
 - [Xebia](#xebia) (1)
 - [Xometry](#xometry) (2)
@@ -4813,6 +4814,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Embedded Software Development Intern](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Embedded-Software-Development-Intern_JR110741-1) | 68 | Montreal, QC, Canada | Hardware | 2026-05-16 |
 | [Software Development Intern - Business Platform](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Business-Platform_JR110745-1) | 68 | Montreal, QC, Canada | Software | 2026-05-16 |
 | [GHG Data Analyst Intern](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/GHG-Data-Analyst-Intern_JR110778) | 68 | Montreal, QC, Canada | AI/ML/Data | 2026-05-16 |
 | [Software Development Intern - Client and Partner Integration](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Client-and-Partner-Integration_JR110742-1) | 68 | Montreal, QC, Canada | Software | 2026-05-16 |
@@ -7696,6 +7698,12 @@
 | [Software Developer Intern, Claims BASD](https://jobs.statefarm.com/main/jobs/41952/job) | 85 | Bloomington, IL / Dallas, TX / Phoenix, AZ | — | 2026-05-09 |
 | [Engineer Intern, Enterprise Technology](https://jobs.statefarm.com/main/jobs/41746?lang=en-us) | 50 | Bloomington, IL / Dunwoody, GA / Richardson, TX / Tempe, AZ / Remote | — | 2026-05-09 |
 
+## State of Nebraska
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Student Intern - GIS Specialist](https://son.wd108.myworkdayjobs.com/NebraskaStateCareers/job/Lincoln-NE/Student-Intern---GIS-Specialist_JR2026-00025735) | 68 | Lincoln, NE | AI/ML/Data | 2026-05-16 |
+
 ## State Street
 
 | Title | Score | Location | Department | First seen |
@@ -9134,6 +9142,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [PhD / Masters Residency Intern - Machine Learning / Software Engineering](https://x.company/careers/8515901002?gh_jid=8515901002) | 60 | Mountain View, CA | AI/ML/Data | 2026-05-16 |
 | [PhD Residency Intern](https://x.company/careers/8511401002?gh_jid=8511401002) | 60 | Mountain View, CA | AI/ML/Data | 2026-05-13 |
 | [PhD Residency Intern - Operations Research and Optimization](https://x.company/careers/8511395002?gh_jid=8511395002) | 60 | Mountain View, CA | AI/ML/Data | 2026-05-13 |
 
