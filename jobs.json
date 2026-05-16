@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-15T23:35:38.383Z",
+  "generatedAt": "2026-05-16T01:23:11.435Z",
   "companyCount": 63,
   "okCount": 63,
-  "jobCount": 3050,
+  "jobCount": 3039,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -196,7 +196,6 @@
     "simplify:6f10c466-8cfc-495b-baaa-e7abad5f218c": "2026-05-09T15:28:15.527Z",
     "simplify:482b4e0e-19f5-4e41-ba3d-c7429ead0dfd": "2026-05-09T15:28:15.527Z",
     "simplify:33832824-2b0b-4117-96bd-58ec5331d686": "2026-05-09T15:28:15.527Z",
-    "simplify:d47212df-1b55-45ea-a6d8-33adcc14e3e9": "2026-05-09T15:28:15.527Z",
     "simplify:503d23e4-db40-4bde-a506-231cbfad3918": "2026-05-09T15:28:15.527Z",
     "simplify:ecb94eb4-b635-42ef-b619-ef0c10dfd6eb": "2026-05-09T15:28:15.527Z",
     "simplify:ef705f0d-76b3-45d9-9655-38871c96454a": "2026-05-09T15:28:15.527Z",
@@ -275,7 +274,6 @@
     "simplify:ca2df15d-5889-4ea6-81a8-e118b0daed77": "2026-05-09T15:28:15.527Z",
     "simplify:68dfedf9-d3ba-47ad-a7f0-c90008b2e054": "2026-05-09T15:28:15.527Z",
     "simplify:dceda16e-1d7b-47b7-99a2-069fbe434366": "2026-05-09T15:28:15.527Z",
-    "simplify:bf82a24d-1b6b-49d1-b53a-831f1004df21": "2026-05-09T15:28:15.527Z",
     "simplify:6437152c-d39a-4d41-a571-0a36e22785a9": "2026-05-09T15:28:15.527Z",
     "simplify:0f6e6212-087f-40cf-afdb-cc7cb7fe0596": "2026-05-09T15:28:15.527Z",
     "simplify:33143a33-e4b0-4ca1-b416-5966ad2f9324": "2026-05-09T15:28:15.527Z",
@@ -453,7 +451,6 @@
     "simplify:137d95ae-c624-42b5-9ce6-03423cff1d22": "2026-05-09T15:28:15.527Z",
     "simplify:2d2b17a5-a5a2-45ca-8c32-a5a207c63a81": "2026-05-09T15:28:15.527Z",
     "simplify:030b5630-aec5-4865-a5f3-282b61a0a822": "2026-05-09T15:28:15.527Z",
-    "simplify:3c1280c1-5d37-4ecb-a94b-42f34bb815a2": "2026-05-09T15:28:15.527Z",
     "simplify:c8e90374-a978-4298-8074-e5c8ec31e38d": "2026-05-09T15:28:15.527Z",
     "simplify:28729bfb-ed8c-4cb1-8718-23c116c3ce15": "2026-05-09T15:28:15.527Z",
     "simplify:83c3132a-5b70-4dc2-84ee-d9cbdf95535b": "2026-05-09T15:28:15.527Z",
@@ -510,7 +507,6 @@
     "simplify:ecec20f8-731e-46b3-9a61-65abfaa82449": "2026-05-09T15:28:15.527Z",
     "simplify:48dd6a63-40af-40ff-9a7d-14897fd0a342": "2026-05-09T15:28:15.527Z",
     "simplify:fba62581-6225-4fa9-ac5a-16693d636d67": "2026-05-09T15:28:15.527Z",
-    "simplify:cbbf47ef-6a62-4ee5-a7f8-501a96cd3916": "2026-05-09T15:28:15.527Z",
     "simplify:7139ea0b-2aa5-4846-9eae-f63857d3b093": "2026-05-09T15:28:15.527Z",
     "simplify:6d135998-ad0c-432c-99e6-df5df406588c": "2026-05-09T15:28:15.527Z",
     "simplify:692d16e6-c0c5-4e83-aa1a-65c68743e284": "2026-05-09T15:28:15.527Z",
@@ -624,7 +620,6 @@
     "simplify:363bf983-6b24-4bf3-abba-83242e26fd12": "2026-05-09T15:28:15.527Z",
     "simplify:839354a1-f44c-45c5-ac20-109e238ab0a6": "2026-05-09T15:28:15.527Z",
     "simplify:1c6e1b27-ec0b-45ef-a51b-48d0682e30d1": "2026-05-09T15:28:15.527Z",
-    "simplify:3b8441ff-5afb-4e91-b497-e5ed47871cd5": "2026-05-09T15:28:15.527Z",
     "simplify:7f990bae-5b13-4288-bf4c-197e8b08ba85": "2026-05-09T15:28:15.527Z",
     "simplify:0065f072-c487-4769-b10d-6993af68f633": "2026-05-09T15:28:15.527Z",
     "simplify:413d4356-f795-4ec6-a74e-db82af5f19cb": "2026-05-09T15:28:15.527Z",
@@ -686,10 +681,7 @@
     "simplify:35106f14-8508-4414-8567-d73bfb3ed891": "2026-05-09T15:28:15.527Z",
     "simplify:1d331314-9e95-4d2d-a875-4e75013a3817": "2026-05-09T15:28:15.527Z",
     "simplify:d04ea383-c10d-4225-a209-9cf9020f39f5": "2026-05-09T15:28:15.527Z",
-    "simplify:1b226056-c25a-4e1a-8aa0-65847d808c02": "2026-05-09T15:28:15.527Z",
     "simplify:e931ed08-b25f-4522-a074-26419c83b8cb": "2026-05-09T15:28:15.527Z",
-    "simplify:77261f70-1c17-460e-8bc8-20fe7e9cf55b": "2026-05-09T15:28:15.527Z",
-    "simplify:25201ab8-f751-48a3-91b6-488f69467630": "2026-05-09T15:28:15.527Z",
     "simplify:f455fb7a-6e82-4af2-b378-c5deb178c84d": "2026-05-09T15:28:15.527Z",
     "simplify:e61e91ef-e618-467a-8ce3-391dc8487535": "2026-05-09T15:28:15.527Z",
     "simplify:44bbff4b-6183-44c5-93b8-e082f78ee431": "2026-05-09T15:28:15.527Z",
@@ -773,7 +765,6 @@
     "simplify:8093c9f9-9879-4f47-897d-f0b699f6042a": "2026-05-09T15:28:15.527Z",
     "simplify:4f6ac5a5-5338-438a-b021-01d34f2ddfb8": "2026-05-09T15:28:15.527Z",
     "simplify:24ea6e61-9ca2-4a1a-963c-611e998bdc83": "2026-05-09T15:28:15.527Z",
-    "simplify:1f4843c8-d10a-481c-ae70-1557310b13b8": "2026-05-09T15:28:15.527Z",
     "simplify:de737258-b470-4b2c-b39b-a3a638c3c610": "2026-05-09T15:28:15.527Z",
     "simplify:30f389eb-f354-4fdb-a532-1b8ef424ce8d": "2026-05-09T15:28:15.527Z",
     "simplify:17edf15b-5ff8-4cc4-af83-f5ed1c736a6c": "2026-05-09T15:28:15.527Z",
@@ -801,7 +792,6 @@
     "simplify:0af424c7-d1b7-4441-bd3d-cfed627d70fe": "2026-05-09T15:28:15.527Z",
     "simplify:120a581b-07a7-488c-8947-a7a7c018bd10": "2026-05-09T15:28:15.527Z",
     "simplify:99b00cc7-5b8d-40ad-91b0-153d9e4b89c9": "2026-05-09T15:28:15.527Z",
-    "simplify:74ebe188-7ab2-4d55-81ef-849d7bcd9ddc": "2026-05-09T15:28:15.527Z",
     "simplify:799037f7-5af0-47ab-9dc8-b77d7a0fa096": "2026-05-09T15:28:15.527Z",
     "simplify:5e4572a4-e876-4056-a421-eab41b69f824": "2026-05-09T15:28:15.527Z",
     "simplify:2a6e2d03-c02a-45f6-88ca-9dfc04c63a7c": "2026-05-09T15:28:15.527Z",
@@ -810,7 +800,6 @@
     "simplify:8154f734-12f7-4652-a99d-d28d1ac14d60": "2026-05-09T15:28:15.527Z",
     "simplify:96dfff8a-1935-48d2-8b5f-a193be59dd4d": "2026-05-09T15:28:15.527Z",
     "simplify:0d4503e1-90d1-4c0f-bd67-bb854a37ac01": "2026-05-09T15:28:15.527Z",
-    "simplify:2634b8bd-c93a-462f-aec7-0a759778d862": "2026-05-09T15:28:15.527Z",
     "simplify:4fdc4164-7b6f-4027-bce7-3ce9366af878": "2026-05-09T15:28:15.527Z",
     "simplify:019e1d7d-c282-436e-b4f7-a5a717536dd9": "2026-05-09T15:28:15.527Z",
     "simplify:5c3babf9-78e2-4c0e-a438-60625697bea7": "2026-05-09T15:28:15.527Z",
@@ -820,7 +809,6 @@
     "simplify:9eb5db83-d537-441b-9c55-31a3f7b3746b": "2026-05-09T15:28:15.527Z",
     "simplify:59170534-b94f-4fea-bcf9-fe7345b8e3ba": "2026-05-09T15:28:15.527Z",
     "simplify:72bd8a68-5540-439b-b77b-724e6c606226": "2026-05-09T15:28:15.527Z",
-    "simplify:311e3e17-72ef-40c5-9bce-2e719a0ea22b": "2026-05-09T15:28:15.527Z",
     "simplify:8b482d7b-700a-4403-9c12-0dfd6876e93a": "2026-05-09T15:28:15.527Z",
     "simplify:1a027c82-7ca8-41b7-b35d-28f459d356a6": "2026-05-09T15:28:15.527Z",
     "simplify:f67f6221-52d3-4905-91fe-1edaf42ed08c": "2026-05-09T15:28:15.527Z",
@@ -928,7 +916,6 @@
     "simplify:c635048f-2bb2-4949-b1ab-bd8c0d76ec14": "2026-05-09T15:28:15.527Z",
     "simplify:325fd0cb-a6c0-4bca-9cc8-4d6416f1ddac": "2026-05-09T15:28:15.527Z",
     "simplify:50476edb-b428-4583-901b-6dc310fab018": "2026-05-09T15:28:15.527Z",
-    "simplify:00468966-af19-4c12-89ab-521cb347d4ff": "2026-05-09T15:28:15.527Z",
     "simplify:ceef6a61-38c6-49ab-9ee8-b4c63a0e4cdd": "2026-05-09T15:28:15.527Z",
     "simplify:339a873e-d26f-429a-ba59-1274ad8a7afc": "2026-05-09T15:28:15.527Z",
     "simplify:3d8e578e-b707-41ce-8739-9a278d11b841": "2026-05-09T15:28:15.527Z",
@@ -1079,7 +1066,6 @@
     "simplify:75d6263f-2c21-46a5-90cc-31fedebf6aba": "2026-05-09T15:28:15.527Z",
     "simplify:e5d9d0bf-62a7-48bd-9f57-187b91238e3a": "2026-05-09T15:28:15.527Z",
     "simplify:85c7ef68-e176-469b-920b-6d6e0dfda0e3": "2026-05-09T15:28:15.527Z",
-    "simplify:1fe49396-b4a3-4ead-974f-d65911a62cde": "2026-05-09T15:28:15.527Z",
     "simplify:e6bece49-f399-472e-bf03-9bc75f7a763f": "2026-05-09T15:28:15.527Z",
     "simplify:8470c8b0-e6d0-43af-ba47-a8c034cacfff": "2026-05-09T15:28:15.527Z",
     "simplify:ae209ada-1b1c-4f09-8ede-06b58c76c9dd": "2026-05-09T15:28:15.527Z",
@@ -1332,7 +1318,6 @@
     "simplify:635c262c-9f30-42d8-b5fd-fbcf154c4385": "2026-05-09T15:28:15.527Z",
     "simplify:40c84554-849d-4a30-ae45-4aa116d7cb5b": "2026-05-09T15:28:15.527Z",
     "simplify:a8394fef-9f28-44ce-a233-ed8822941ae4": "2026-05-09T15:28:15.527Z",
-    "simplify:39d03fbd-ef14-485e-8c46-08eeba2a2e28": "2026-05-09T15:28:15.527Z",
     "simplify:f8219cdb-e611-4b5e-9f95-f3871c3de028": "2026-05-09T15:28:15.527Z",
     "simplify:d0ee8b65-85da-464b-8e85-148748f909c8": "2026-05-09T15:28:15.527Z",
     "simplify:18f6adb1-c43c-489c-9232-aa6d651f3bb8": "2026-05-09T15:28:15.527Z",
@@ -2780,7 +2765,6 @@
     "simplify:9ef7efda-4769-4f8d-ab7d-c545cde957bb": "2026-05-11T23:38:25.770Z",
     "simplify:9c45103b-7822-4919-a5ff-5ba4283c2a53": "2026-05-11T23:38:25.770Z",
     "simplify:4b224d26-3462-4bfa-9ac0-bbabe852eea9": "2026-05-11T23:38:25.770Z",
-    "simplify:342c3878-0f0a-4f31-b343-8989d1ef68b7": "2026-05-11T23:38:25.770Z",
     "simplify:0910ff0b-c0a1-4f8f-aeb8-eba0cddb551c": "2026-05-11T23:38:25.770Z",
     "simplify:22ccd792-b030-4ca3-86f6-575f054bd427": "2026-05-11T23:38:25.770Z",
     "simplify:73ceaf56-0208-4efc-ab70-3dea4246f067": "2026-05-11T23:38:25.770Z",
@@ -2914,7 +2898,6 @@
     "simplify:e5377d33-2f99-4bd4-bc77-1c7e16d8d086": "2026-05-14T05:32:10.854Z",
     "simplify:0f21c988-e025-499a-8ca2-537367cbc720": "2026-05-14T05:32:10.854Z",
     "simplify:aee6a090-c6fa-4942-8671-f2c592bd9ef9": "2026-05-14T05:32:10.854Z",
-    "simplify:32e6d852-14c7-4cf9-96b8-4ffa015a2061": "2026-05-14T05:32:10.854Z",
     "simplify:fc950795-e3d8-4ecb-8799-9fe711d3e880": "2026-05-14T05:32:10.854Z",
     "simplify:a859c908-22c6-4a76-ad70-e743c60fddb7": "2026-05-14T05:32:10.854Z",
     "simplify:8091e5aa-09f8-4af9-845a-b9afdd9e94db": "2026-05-14T05:32:10.854Z",
@@ -2922,7 +2905,6 @@
     "simplify:f23acdd1-d3c3-4864-a5c2-735c43af1354": "2026-05-14T05:32:10.854Z",
     "simplify:a37f4e12-8b0c-4f92-86f8-af3bfcb20b83": "2026-05-14T05:32:10.854Z",
     "simplify:373ce2bf-8554-4be5-917c-4464e6a9444e": "2026-05-14T05:32:10.854Z",
-    "simplify:9813e2de-df7f-4f4a-9bf8-b059361e238a": "2026-05-14T05:32:10.854Z",
     "simplify:5f15e338-9e4f-4242-b54d-601ea20a4339": "2026-05-14T05:32:10.854Z",
     "simplify:f74f5f6d-bdcb-41d4-81e3-16b4871b2d1c": "2026-05-14T05:32:10.854Z",
     "simplify:6758f253-a5be-432d-983f-cffe4b685610": "2026-05-14T05:32:10.854Z",
@@ -2951,7 +2933,6 @@
     "simplify:16f4158c-2f78-4213-854f-11df73fe8857": "2026-05-14T05:32:10.854Z",
     "simplify:f00ec3cf-28f3-44d3-b7de-2b918b1b312a": "2026-05-14T05:32:10.854Z",
     "simplify:8037cc42-3e4b-4cc7-9c9c-2e7332aabebc": "2026-05-14T05:32:10.854Z",
-    "simplify:5959e81d-35cb-4da2-a9a5-02a553b86cd0": "2026-05-14T08:16:33.008Z",
     "simplify:13e715af-d8e9-4e23-9b78-fb26928138a5": "2026-05-14T10:39:41.754Z",
     "simplify:017d2a2a-99ba-4641-b4bb-44deb5605f86": "2026-05-14T10:39:41.754Z",
     "simplify:f9d59a45-cdeb-4508-9a6f-01bfedfd7a52": "2026-05-14T10:39:41.754Z",
@@ -3022,7 +3003,6 @@
     "simplify:77a2f3fc-f657-4d3a-a64b-2832e7edb34c": "2026-05-15T12:06:03.304Z",
     "simplify:fd5a8521-4005-4532-8abf-fbe39bd79e6e": "2026-05-15T14:32:50.690Z",
     "simplify:9732accc-98a6-40c8-9832-da1ee9331262": "2026-05-15T16:23:09.152Z",
-    "simplify:f93db17f-5d1e-451a-b944-b4d9179b3a37": "2026-05-15T16:23:09.152Z",
     "simplify:01c15314-b7fb-4e91-8c54-4d0153b2b871": "2026-05-15T16:23:09.152Z",
     "simplify:e5d80c71-294a-4e77-8187-4ec61bd5f7fa": "2026-05-15T16:23:09.152Z",
     "simplify:eff28cc3-7ade-4574-b78e-11e814c08e83": "2026-05-15T22:36:45.367Z",
@@ -3053,7 +3033,16 @@
     "simplify:5586ae51-ed8e-4c4f-a2ba-98b61c35dbe0": "2026-05-15T23:35:38.383Z",
     "simplify:74f8b0c5-8f2e-422d-af50-13f152a2f0bb": "2026-05-15T23:35:38.383Z",
     "simplify:baf71a90-c7d6-42b0-9081-f96751200581": "2026-05-15T23:35:38.383Z",
-    "simplify:bf4f007e-61b5-4e0c-82dd-5e6f478e8f68": "2026-05-15T23:35:38.383Z"
+    "simplify:bf4f007e-61b5-4e0c-82dd-5e6f478e8f68": "2026-05-15T23:35:38.383Z",
+    "simplify:91927374-ff59-45a8-84ce-ce0f750bdea9": "2026-05-16T01:23:11.435Z",
+    "simplify:b974d054-a8f8-4229-b732-788ce6539c2d": "2026-05-16T01:23:11.435Z",
+    "simplify:3443ba84-151d-4603-9bac-28bf93227ed5": "2026-05-16T01:23:11.435Z",
+    "simplify:14495423-3ffb-43ee-a3a6-e084bbc9ee13": "2026-05-16T01:23:11.435Z",
+    "simplify:0aebcb80-0c60-42d3-b3ae-90e31460db67": "2026-05-16T01:23:11.435Z",
+    "simplify:e7dc73e1-21cf-4c81-add9-6e05ab194abd": "2026-05-16T01:23:11.435Z",
+    "simplify:dfe8f5db-d1c2-4227-90a8-eea24f85caf9": "2026-05-16T01:23:11.435Z",
+    "simplify:4b7a8d63-bcb2-4f54-88ad-64c5e62c6ea1": "2026-05-16T01:23:11.435Z",
+    "simplify:07d8a6d1-e744-423b-ac40-844e7cfe5bcd": "2026-05-16T01:23:11.435Z"
   },
   "jobs": [
     {
@@ -3665,17 +3654,17 @@
       "company": "Replit"
     },
     {
-      "id": "7913505",
+      "id": "7544547",
       "title": "Operations Associate, New Grad (Mexico)",
-      "url": "https://stripe.com/jobs/search?gh_jid=7913505",
+      "url": "https://stripe.com/jobs/search?gh_jid=7544547",
       "location": "Mexico City, Mexico",
       "department": "",
       "company": "Stripe"
     },
     {
-      "id": "7544547",
+      "id": "7913505",
       "title": "Operations Associate, New Grad (Mexico)",
-      "url": "https://stripe.com/jobs/search?gh_jid=7544547",
+      "url": "https://stripe.com/jobs/search?gh_jid=7913505",
       "location": "Mexico City, Mexico",
       "department": "",
       "company": "Stripe"
@@ -4609,14 +4598,6 @@
       "company": "Apple"
     },
     {
-      "id": "simplify:d47212df-1b55-45ea-a6d8-33adcc14e3e9",
-      "title": "Hardware Technology Intern - Hardware Technology",
-      "url": "https://jobs.apple.com/en-us/details/200606143",
-      "location": "United States",
-      "department": "Hardware",
-      "company": "Apple"
-    },
-    {
       "id": "simplify:503d23e4-db40-4bde-a506-231cbfad3918",
       "title": "Software Engineering Intern - Multiple Teams",
       "url": "https://jobs.ashbyhq.com/fizz/c33b0bb7-d87f-4666-8622-36604fe10b20/application",
@@ -5263,14 +5244,6 @@
       "location": "Vaughan, ON, Canada",
       "department": "Hardware",
       "company": "Trimble"
-    },
-    {
-      "id": "simplify:bf82a24d-1b6b-49d1-b53a-831f1004df21",
-      "title": "Mapping Software Intern",
-      "url": "https://jobs.lever.co/zoox/f318f39e-c089-4240-b341-ebb021d86b4f/apply",
-      "location": "San Mateo, CA",
-      "department": "Software",
-      "company": "Zoox"
     },
     {
       "id": "simplify:6437152c-d39a-4d41-a571-0a36e22785a9",
@@ -6761,14 +6734,6 @@
       "company": "Autodesk"
     },
     {
-      "id": "simplify:3c1280c1-5d37-4ecb-a94b-42f34bb815a2",
-      "title": "Data Analyst Intern Fall 2026",
-      "url": "https://jobs.paccar.com/job/Columbus-Data-Analyst-Intern-Fall-2026-MS-39701/1283451401/?ats=successfactors",
-      "location": "Columbus, MS",
-      "department": "AI/ML/Data",
-      "company": "Paccar"
-    },
-    {
       "id": "simplify:c8e90374-a978-4298-8074-e5c8ec31e38d",
       "title": "Machine Learning Engineer Intern - Ads Measurement Signal and Privacy - BS/MS",
       "url": "https://lifeattiktok.com/search/7595307123552028981",
@@ -7292,14 +7257,6 @@
       "id": "simplify:fba62581-6225-4fa9-ac5a-16693d636d67",
       "title": "Product Manager Intern",
       "url": "https://lifeattiktok.com/search/7599841401208031541",
-      "location": "San Jose, CA",
-      "department": "Product",
-      "company": "TikTok"
-    },
-    {
-      "id": "simplify:cbbf47ef-6a62-4ee5-a7f8-501a96cd3916",
-      "title": "Product Manager Intern - Signal and Identity Product - BS/MS",
-      "url": "https://lifeattiktok.com/search/7600552989839018245",
       "location": "San Jose, CA",
       "department": "Product",
       "company": "TikTok"
@@ -8393,14 +8350,6 @@
       "company": "Handshake"
     },
     {
-      "id": "simplify:3b8441ff-5afb-4e91-b497-e5ed47871cd5",
-      "title": "Product Manager Intern - Signal and Identity Product",
-      "url": "https://lifeattiktok.com/search/7602445346829289781",
-      "location": "San Jose, CA",
-      "department": "Product",
-      "company": "TikTok"
-    },
-    {
       "id": "simplify:7f990bae-5b13-4288-bf4c-197e8b08ba85",
       "title": "Machine Learning Science Intern - Masters - 2026','Austin','San Jose",
       "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Machine-Learning-Science-Intern---Masters---2026---Austin--San-Jose_R-98584",
@@ -8913,44 +8862,12 @@
       "company": "Cloudflare"
     },
     {
-      "id": "simplify:1b226056-c25a-4e1a-8aa0-65847d808c02",
-      "title": "IT Innovation & Research Intern",
-      "url": "https://jobs.bmwgroup.com/job/Greenville-IT-Innovation-&-Research-Intern-Fall-2026-Sout/1370812633/?ats=successfactors",
-      "location": "Greenville, SC",
-      "department": "AI/ML/Data",
-      "company": "Rolls Royce"
-    },
-    {
-      "id": "simplify:5959e81d-35cb-4da2-a9a5-02a553b86cd0",
-      "title": "Paint Shop Digitalization Developer Maintenance Planning Intern",
-      "url": "https://jobs.bmwgroup.com/job/Spartanburg-Paint-Shop-Digitalization-Developer-Maintenance-Planning-Intern-(Fall-2026)-Sout/1370799333/?ats=successfactors",
-      "location": "Spartanburg, SC",
-      "department": "AI/ML/Data",
-      "company": "Rolls Royce"
-    },
-    {
       "id": "simplify:e931ed08-b25f-4522-a074-26419c83b8cb",
       "title": "HW Design Verification Intern",
       "url": "https://jobs.ashbyhq.com/d-Matrix/a1d69a8b-49bb-4561-91f7-a2536eb3e6df/application",
       "location": "Santa Clara, CA",
       "department": "Hardware",
       "company": "d-Matrix"
-    },
-    {
-      "id": "simplify:77261f70-1c17-460e-8bc8-20fe7e9cf55b",
-      "title": "Vehicle Electronics Test & Validation Intern",
-      "url": "https://jobs.bmwgroup.com/job/Spartanburg-Vehicle-Electronics-Test-&-Validation-Intern-(Fall-2026)-Sout/1371016333/?ats=successfactors",
-      "location": "Spartanburg, SC",
-      "department": "Hardware",
-      "company": "Rolls Royce"
-    },
-    {
-      "id": "simplify:25201ab8-f751-48a3-91b6-488f69467630",
-      "title": "Product Engineering Intern",
-      "url": "https://jobs.bmwgroup.com/job/Spartanburg-Product-Engineering-Intern-(Fall-2026)-Sout/1371021633/?ats=successfactors",
-      "location": "Spartanburg, SC",
-      "department": "Hardware",
-      "company": "Rolls Royce"
     },
     {
       "id": "simplify:f455fb7a-6e82-4af2-b378-c5deb178c84d",
@@ -9609,6 +9526,14 @@
       "company": "Givelify"
     },
     {
+      "id": "simplify:91927374-ff59-45a8-84ce-ce0f750bdea9",
+      "title": "UIUC Research Park Intern - Machine Learning Hardware",
+      "url": "https://careers.rivian.com/jobs/29848?lang=en-us&icims=1",
+      "location": "Urbana, IL",
+      "department": "AI/ML/Data",
+      "company": "Rivian"
+    },
+    {
       "id": "simplify:767e5cb4-c607-49eb-a7be-20f99eec0c61",
       "title": "SW Engineer Intern, iOS (AI-Assisted Development)",
       "url": "https://arlo.wd12.myworkdayjobs.com/en-US/external_careers/job/Milpitas-CA/SW-Engineer-Intern--iOS--AI-Assisted-Development-_JR100299",
@@ -9719,14 +9644,6 @@
       "location": "NYC",
       "department": "Software",
       "company": "DriveWealth"
-    },
-    {
-      "id": "simplify:1f4843c8-d10a-481c-ae70-1557310b13b8",
-      "title": "Innovation and Digitalization Intern/Co-op",
-      "url": "https://jobs.bmwgroup.com/job/Greer-Innovation-and-Digitalization-Co-Op-(Fall-2026)-Sout/1376132033/?ats=successfactors",
-      "location": "Greer, SC",
-      "department": "AI/ML/Data",
-      "company": "Rolls-Royce Motorcars"
     },
     {
       "id": "simplify:de737258-b470-4b2c-b39b-a3a638c3c610",
@@ -10001,14 +9918,6 @@
       "company": "PsiQuantum"
     },
     {
-      "id": "simplify:74ebe188-7ab2-4d55-81ef-849d7bcd9ddc",
-      "title": "Product Manager Intern - Content and Service Entertainment Ads",
-      "url": "https://lifeattiktok.com/search/7621302005031864581",
-      "location": "San Jose, CA",
-      "department": "Product",
-      "company": "TikTok"
-    },
-    {
       "id": "simplify:799037f7-5af0-47ab-9dc8-b77d7a0fa096",
       "title": "Software Engineer Project Intern - Content AI Infrastructure",
       "url": "https://lifeattiktok.com/search/7621299118434961669",
@@ -10039,6 +9948,14 @@
       "location": "Vancouver, BC, Canada",
       "department": "Software",
       "company": "DataVisor"
+    },
+    {
+      "id": "simplify:b974d054-a8f8-4229-b732-788ce6539c2d",
+      "title": "AI Data Science Intern",
+      "url": "https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/United-States-Virtual/AI-Data-Science-Intern_R-113158",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "Assurant"
     },
     {
       "id": "simplify:cb8d8cc7-99e4-4ab8-904a-6536729dc875",
@@ -10103,14 +10020,6 @@
       "location": "State College, PA / Reston, VA",
       "department": "AI/ML/Data",
       "company": "Pennsylvania State University"
-    },
-    {
-      "id": "simplify:2634b8bd-c93a-462f-aec7-0a759778d862",
-      "title": "Secondaries & Primaries Data Science Intern",
-      "url": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/London/Secondaries---Primaries-Data-Science-Intern---July-2026---London_JR1001907",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "Ardian"
     },
     {
       "id": "simplify:a9992d09-5015-406f-9b41-8e6f6d242fba",
@@ -10215,14 +10124,6 @@
       "location": "London, UK",
       "department": "Product",
       "company": "Tencent"
-    },
-    {
-      "id": "simplify:311e3e17-72ef-40c5-9bce-2e719a0ea22b",
-      "title": "Software Engineer Intern",
-      "url": "https://snyk.wd103.myworkdayjobs.com/External/job/United-Kingdom---London-Office/Software-Engineer-Intern_JR100496",
-      "location": "London, UK",
-      "department": "Software",
-      "company": "Snyk"
     },
     {
       "id": "simplify:8b482d7b-700a-4403-9c12-0dfd6876e93a",
@@ -11207,14 +11108,6 @@
       "location": "London, UK",
       "department": "AI/ML/Data",
       "company": "Perplexity AI"
-    },
-    {
-      "id": "simplify:00468966-af19-4c12-89ab-521cb347d4ff",
-      "title": "Quality Systems Apex Intern",
-      "url": "https://jobs.bmwgroup.com/job/Spartanburg-Quality-Systems-Apex-Co-Op-(Fall-2026)-Sout/1381872233/?ats=successfactors",
-      "location": "Spartanburg, SC",
-      "department": "Software",
-      "company": "Rolls-Royce Motorcars"
     },
     {
       "id": "simplify:ceef6a61-38c6-49ab-9ee8-b4c63a0e4cdd",
@@ -12719,14 +12612,6 @@
       "location": "San Jose, CA",
       "department": "Software",
       "company": "TikTok"
-    },
-    {
-      "id": "simplify:1fe49396-b4a3-4ead-974f-d65911a62cde",
-      "title": "JD Young AI Data Analyst Intern",
-      "url": "https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/GBR-England-Greater-London-London/JD-Young-AI-Data-Analyst-Internship_JR102354",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "JINGDONG"
     },
     {
       "id": "simplify:ec46c00c-5ccb-4a01-964e-bc2940e0167e",
@@ -14705,6 +14590,14 @@
       "company": "Compa"
     },
     {
+      "id": "simplify:3443ba84-151d-4603-9bac-28bf93227ed5",
+      "title": "Internship Program - Multiple Teams",
+      "url": "https://job-boards.greenhouse.io/xebiausa/jobs/5988141004",
+      "location": "Atlanta, GA",
+      "department": "Software",
+      "company": "Xebia"
+    },
+    {
       "id": "simplify:bd3d7583-e8aa-4a2e-b00f-42725db1f17e",
       "title": "Product Marketing Intern",
       "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5184516008",
@@ -15279,14 +15172,6 @@
       "location": "Atlanta, GA",
       "department": "AI/ML/Data",
       "company": "Sharecare"
-    },
-    {
-      "id": "simplify:39d03fbd-ef14-485e-8c46-08eeba2a2e28",
-      "title": "AI Full Stack Engineering Intern",
-      "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/AI-Full-Stack-Engineering--Intern-_JR101267-2",
-      "location": "Houston, TX",
-      "department": "Software",
-      "company": "Viridien"
     },
     {
       "id": "simplify:f8219cdb-e611-4b5e-9f95-f3871c3de028",
@@ -15961,14 +15846,6 @@
       "company": "Super"
     },
     {
-      "id": "simplify:342c3878-0f0a-4f31-b343-8989d1ef68b7",
-      "title": "AI Agent Developer Intern",
-      "url": "https://goodrx.wd1.myworkdayjobs.com/Careers/job/New-York-City-NY/AI-Agent-Developer-Intern_JR100607",
-      "location": "NYC",
-      "department": "Software",
-      "company": "GoodRx"
-    },
-    {
       "id": "simplify:0910ff0b-c0a1-4f8f-aeb8-eba0cddb551c",
       "title": "Medium Voltage Test Engineering Intern",
       "url": "http://jobs.ashbyhq.com/heron-power/46097ca0-4093-4a56-9c44-8ec41617bbc0/application",
@@ -16249,14 +16126,6 @@
       "company": "Mercedes-Benz"
     },
     {
-      "id": "simplify:32e6d852-14c7-4cf9-96b8-4ffa015a2061",
-      "title": "Data Science Intern",
-      "url": "https://jobs.farmersinsurance.com/job/Woodland-Hills-Data-Science-Intern-Woodland-Hills,-CA-CA-91367/1360891857/?ats=successfactors",
-      "location": "Canoga Park, LA",
-      "department": "AI/ML/Data",
-      "company": "Farmers Insurance"
-    },
-    {
       "id": "simplify:fc950795-e3d8-4ecb-8799-9fe711d3e880",
       "title": "Machine Learning Intern/Co-op",
       "url": "https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b/application",
@@ -16311,14 +16180,6 @@
       "location": "Buffalo, NY",
       "department": "AI/ML/Data",
       "company": "Moog "
-    },
-    {
-      "id": "simplify:9813e2de-df7f-4f4a-9bf8-b059361e238a",
-      "title": "Data Scientist Intern",
-      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/Data-Scientist-Intern_R0129529",
-      "location": "Raleigh, NC",
-      "department": "AI/ML/Data",
-      "company": "Hitachi Energy"
     },
     {
       "id": "simplify:5f15e338-9e4f-4242-b54d-601ea20a4339",
@@ -16857,14 +16718,6 @@
       "company": "Valeo"
     },
     {
-      "id": "simplify:f93db17f-5d1e-451a-b944-b4d9179b3a37",
-      "title": "Software Development Intern",
-      "url": "https://jobs.jobvite.com/altamiracorps/job/oSC8zfwV?nl=1&nl=1&fr=false",
-      "location": "Augusta, GA",
-      "department": "Software",
-      "company": "Altamira Technologies"
-    },
-    {
       "id": "simplify:01c15314-b7fb-4e91-8c54-4d0153b2b871",
       "title": "Business Intelligence Analyst Intern",
       "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/14063",
@@ -17071,6 +16924,54 @@
       "location": "LA",
       "department": "Software",
       "company": "AEG"
+    },
+    {
+      "id": "simplify:14495423-3ffb-43ee-a3a6-e084bbc9ee13",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/hadrian-automation/ce93d8e7-00c9-4fdf-9623-e4f6f25d92d6/application",
+      "location": "LA",
+      "department": "Software",
+      "company": "Hadrian"
+    },
+    {
+      "id": "simplify:0aebcb80-0c60-42d3-b3ae-90e31460db67",
+      "title": "Artificial Intelligence Intern - Artificial Intelligence",
+      "url": "https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/USA-California-Los-Angeles-90731/Internship---Artificial-Intelligence_R181409",
+      "location": "San Pedro, LA",
+      "department": "AI/ML/Data",
+      "company": "Maersk"
+    },
+    {
+      "id": "simplify:e7dc73e1-21cf-4c81-add9-6e05ab194abd",
+      "title": "Machine Learning Intern",
+      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Machine-Learning-Intern---Bachelor-s-Degree_2601122-1",
+      "location": "Toronto, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "Marvell"
+    },
+    {
+      "id": "simplify:dfe8f5db-d1c2-4227-90a8-eea24f85caf9",
+      "title": "Software Engineer Intern",
+      "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Software-Engineer_JR33690",
+      "location": "Carmel, IN",
+      "department": "Software",
+      "company": "Allegion"
+    },
+    {
+      "id": "simplify:4b7a8d63-bcb2-4f54-88ad-64c5e62c6ea1",
+      "title": "Agentic AI Software Development Intern",
+      "url": "https://jobs.jobvite.com/nutanix/job/oOO8zfw3?nl=1&nl=1&fr=false",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "Nutanix"
+    },
+    {
+      "id": "simplify:07d8a6d1-e744-423b-ac40-844e7cfe5bcd",
+      "title": "Investment Analyst Associate Intern - Reams Asset Management",
+      "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Indianapolis-Indiana---United-States/XMLNAME-2026-Summer-Associate---Investment-Analyst---Reams-Asset-Management---Indianapolis--IN_R-0011190",
+      "location": "Indianapolis, IN",
+      "department": "Quant",
+      "company": "Raymond James Financial"
     },
     {
       "id": "vansh:d2c404c8-5895-4ec0-95c2-3d17aed38beb",
