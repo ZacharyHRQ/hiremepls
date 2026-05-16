@@ -1,6 +1,6 @@
 # Open Internships
 
-**2706** internships across **64/64** companies — last updated 2026-05-16.
+**2707** internships across **64/64** companies — last updated 2026-05-16.
 
 ## Companies
 
@@ -202,7 +202,7 @@
 - [Cekura](#cekura) (1)
 - [CelLink Technologies](#cellink-technologies) (1)
 - [Center for AI Safety](#center-for-ai-safety) (1)
-- [Centific](#centific) (5)
+- [Centific](#centific) (4)
 - [Central](#central) (1)
 - [CenturyLink](#centurylink) (1)
 - [Certik](#certik) (1)
@@ -225,7 +225,7 @@
 - [Circleback](#circleback) (1)
 - [Cirrus Logic](#cirrus-logic) (5)
 - [Cisco](#cisco) (3)
-- [Cisive](#cisive) (1)
+- [Cisive](#cisive) (2)
 - [Citadel](#citadel) (6)
 - [Citadel Securities](#citadel-securities) (10)
 - [Citi](#citi) (1)
@@ -523,7 +523,7 @@
 - [Integra FEC](#integra-fec) (3)
 - [Integrity](#integrity) (1)
 - [Intel](#intel) (3)
-- [Intelcom | Dragonfly](#intelcom-dragonfly) (11)
+- [Intelcom | Dragonfly](#intelcom-dragonfly) (12)
 - [Intercontinental Exchange, Inc.](#intercontinental-exchange-inc) (1)
 - [Interdigital](#interdigital) (1)
 - [Internship](#internship) (1)
@@ -662,7 +662,7 @@
 - [N1](#n1) (2)
 - [Naïve](#na-ve) (1)
 - [Nasa](#nasa) (1)
-- [NBCUniversal](#nbcuniversal) (5)
+- [NBCUniversal](#nbcuniversal) (4)
 - [Nelnet](#nelnet) (2)
 - [Netflix](#netflix) (12)
 - [Neuralink](#neuralink) (6)
@@ -951,7 +951,7 @@
 - [TETRAMEM](#tetramem) (1)
 - [Texas Farm Bureau Casualty Insurance Company](#texas-farm-bureau-casualty-insurance-company) (1)
 - [Texas Instruments](#texas-instruments) (3)
-- [Thales](#thales) (2)
+- [Thales](#thales) (3)
 - [The Clorox Company](#the-clorox-company) (1)
 - [The D. E. Shaw Group](#the-d-e-shaw-group) (1)
 - [The Exploration Company](#the-exploration-company) (2)
@@ -2544,7 +2544,6 @@
 | [Speech Research Intern](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Speech-Research-Intern--3_JR106159-1) | 68 | Remote in USA | AI/ML/Data | 2026-05-16 |
 | [Research Intern - Applied Reinforcement Learning](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Research-Intern---Applied-Reinforcement-Learning-_JR106885) | 68 | Palo Alto, CA / Redmond, WA | AI/ML/Data | 2026-05-16 |
 | [Speech Intern 4](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Speech-Intern-4_JR107037) | 68 | Remote in USA | AI/ML/Data | 2026-05-16 |
-| [Technical Intern](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Technical-Intern--Masters-or-PhD--13_JR107293-1) | 68 | Remote in USA | AI/ML/Data | 2026-05-15 |
 
 ## Central
 
@@ -2695,6 +2694,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Development Intern](https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Development-Intern_JR100290) | 68 | New Mexico / Washington / Kansas / Pennsylvania / North Dakota / Oregon / Delaware / Iowa / California / Washington, DC / Vermont / Wyoming / Texas / Montana / Jackson Township, NJ / Florida / Waterbury, CT / Nevada / South Carolina / South Dakota / Georgia / Arizona / Concord, NH / Mississippi / Tennessee / Virginia / Arkansas / Minnesota / Colorado / Nebraska / Rhode Island / Utah / Kentucky / West Virginia / NYC / Maryland / Hawaii / Wisconsin / Maine / Massachusetts / North Carolina / Oklahoma / Missouri / Ohio / Indiana / Louisiana / Alaska / Michigan / Illinois / Alabama / Idaho | Software | 2026-05-16 |
 | [Intern/Co-op Software Developer](https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Intern--Software-Developer_JR100237) | 93 | Maryland | Software | 2026-05-16 |
 
 ## Citadel
@@ -4813,6 +4813,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Development Intern - Business Platform](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Business-Platform_JR110745-1) | 68 | Montreal, QC, Canada | Software | 2026-05-16 |
 | [GHG Data Analyst Intern](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/GHG-Data-Analyst-Intern_JR110778) | 68 | Montreal, QC, Canada | AI/ML/Data | 2026-05-16 |
 | [Software Development Intern - Client and Partner Integration](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Client-and-Partner-Integration_JR110742-1) | 68 | Montreal, QC, Canada | Software | 2026-05-16 |
 | [Business Intelligence – Developer Intern - Business Intelligence](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Business-Intelligence--BI--Developer-Intern_JR110781-1) | 93 | Montreal, QC, Canada | AI/ML/Data | 2026-05-16 |
@@ -5891,7 +5892,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://jobs.smartrecruiters.com/nbcuniversal3/744000092795107-media-tech-software-engineering-internships-summer-2026) | 93 | New York, NY | — | 2026-05-09 |
-| [Film Technology AR/VR Internships Intern - Academic Year](https://jobs.smartrecruiters.com/NBCUniversal3/744000121840427) | 68 | North Hollywood, LA | Software | 2026-05-09 |
 | [Software Engineering Intern](https://jobs.smartrecruiters.com/nbcuniversal3/744000092797675-peacock-software-engineering-internships-summer-2026) | 68 | New York, NY | — | 2026-05-09 |
 | [Software Engineering Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000121851427) | 68 | Universal City, CA | — | 2026-05-09 |
 | [Technology Intern](https://jobs.smartrecruiters.com/nbcuniversal3/744000092732895-nbc-news-technology-internships-summer-2026) | 58 | New York, NY | — | 2026-05-09 |
@@ -8106,6 +8106,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Plantation/Software-Engineer-Intern_R0326819-2) | 93 | Plantation, FL | Hardware | 2026-05-16 |
 | [Product Marketing Intern](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Austin/Product-Marketing-Intern_R0326496-1) | 38 | Austin, TX | Product | 2026-05-16 |
 | [Software Engineer Intern](https://thales.wd3.myworkdayjobs.com/en-US/careers/job/Cincinnati/Software-Engineer-Intern_R0325488-1) | 93 | Cincinnati, OH | — | 2026-05-09 |
 

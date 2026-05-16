@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-16T17:12:41.468Z",
+  "generatedAt": "2026-05-16T18:05:55.132Z",
   "companyCount": 64,
   "okCount": 64,
-  "jobCount": 2706,
+  "jobCount": 2707,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -946,7 +946,6 @@
     "canonical:7762fcb416cff1c1": "2026-05-09T15:28:15.527Z",
     "canonical:6e5a5c425250fea3": "2026-05-09T15:28:15.527Z",
     "canonical:12679842c69ce81c": "2026-05-09T15:28:15.527Z",
-    "canonical:a0412ac1cb589eed": "2026-05-09T15:28:15.527Z",
     "canonical:eb662fdd2ae38eb8": "2026-05-09T15:28:15.527Z",
     "canonical:ab77cca2d9aec486": "2026-05-09T15:28:15.527Z",
     "canonical:9ad651191c50cbc1": "2026-05-13T23:40:40.818Z",
@@ -1332,7 +1331,6 @@
     "canonical:db9f13352795d6dc": "2026-05-15T23:35:38.383Z",
     "canonical:6cfe7d316f2c2834": "2026-05-15T23:35:38.383Z",
     "canonical:59ac07a13d6c8bf7": "2026-05-15T23:35:38.383Z",
-    "canonical:e60079c1382006dc": "2026-05-15T23:35:38.383Z",
     "canonical:f37bc45fd732af97": "2026-05-15T23:35:38.383Z",
     "canonical:8650e310d098d280": "2026-05-15T23:35:38.383Z",
     "canonical:5402070261d28d0f": "2026-05-15T23:35:38.383Z",
@@ -2709,7 +2707,10 @@
     "canonical:4149eeec66449b24": "2026-05-16T17:12:41.468Z",
     "canonical:7810961defd3d47c": "2026-05-16T17:12:41.468Z",
     "canonical:0fd1fbdf1385bbae": "2026-05-16T17:12:41.468Z",
-    "canonical:64a3d5aeb3c59fdc": "2026-05-16T17:12:41.468Z"
+    "canonical:64a3d5aeb3c59fdc": "2026-05-16T17:12:41.468Z",
+    "canonical:ba5ec2840d352f0b": "2026-05-16T18:05:55.132Z",
+    "canonical:1c24208e398709e3": "2026-05-16T18:05:55.132Z",
+    "canonical:caf9da635ac3aba7": "2026-05-16T18:05:55.132Z"
   },
   "jobs": [
     {
@@ -15188,19 +15189,6 @@
       ]
     },
     {
-      "id": "canonical:a0412ac1cb589eed",
-      "title": "Film Technology AR/VR Internships Intern - Academic Year",
-      "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000121840427",
-      "location": "North Hollywood, LA",
-      "department": "Software",
-      "company": "NBCUniversal",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:5c92250bf1596e34",
       "title": "Student Intern - Data Analyst - Commercial Banking",
       "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Fall-2026-Student---Data-Analyst--Commercial-Banking_R-0000168978",
@@ -16871,6 +16859,19 @@
       ]
     },
     {
+      "id": "canonical:ba5ec2840d352f0b",
+      "title": "Software Development Intern - Business Platform",
+      "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Business-Platform_JR110745-1",
+      "location": "Montreal, QC, Canada",
+      "department": "Software",
+      "company": "Intelcom | Dragonfly",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:83b8c8a68daf781b",
       "title": "Software Development Intern - Consumer Interactions",
       "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Consumer-Interactions_JR110743-1",
@@ -17451,6 +17452,20 @@
       "company": "NewsBreak",
       "score": 68,
       "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1c24208e398709e3",
+      "title": "Software Engineer Intern",
+      "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Plantation/Software-Engineer-Intern_R0326819-2",
+      "location": "Plantation, FL",
+      "department": "Hardware",
+      "company": "Thales",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -19799,6 +19814,19 @@
       ]
     },
     {
+      "id": "canonical:caf9da635ac3aba7",
+      "title": "Software Development Intern",
+      "url": "https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Development-Intern_JR100290",
+      "location": "New Mexico / Washington / Kansas / Pennsylvania / North Dakota / Oregon / Delaware / Iowa / California / Washington, DC / Vermont / Wyoming / Texas / Montana / Jackson Township, NJ / Florida / Waterbury, CT / Nevada / South Carolina / South Dakota / Georgia / Arizona / Concord, NH / Mississippi / Tennessee / Virginia / Arkansas / Minnesota / Colorado / Nebraska / Rhode Island / Utah / Kentucky / West Virginia / NYC / Maryland / Hawaii / Wisconsin / Maine / Massachusetts / North Carolina / Oklahoma / Missouri / Ohio / Indiana / Louisiana / Alaska / Michigan / Illinois / Alabama / Idaho",
+      "department": "Software",
+      "company": "Cisive",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:34b403b00f5a221c",
       "title": "Supply Chain Data & Analytics Intern - Multiple Teams",
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000126390414",
@@ -20772,19 +20800,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:e60079c1382006dc",
-      "title": "Technical Intern",
-      "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Technical-Intern--Masters-or-PhD--13_JR107293-1",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "Centific",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
