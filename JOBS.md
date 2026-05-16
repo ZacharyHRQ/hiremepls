@@ -1,6 +1,6 @@
 # Open Internships
 
-**2717** internships across **64/64** companies — last updated 2026-05-16.
+**2727** internships across **64/64** companies — last updated 2026-05-16.
 
 ## Companies
 
@@ -19,9 +19,10 @@
 - [ACI Worldwide ](#aci-worldwide) (3)
 - [Actian](#actian) (2)
 - [Activision Blizzard](#activision-blizzard) (2)
-- [Adobe](#adobe) (11)
+- [Adobe](#adobe) (12)
 - [ADT](#adt) (2)
 - [Adtheorant](#adtheorant) (2)
+- [Advanced Energy](#advanced-energy) (1)
 - [Advantest America Inc.](#advantest-america-inc) (1)
 - [Advantmed](#advantmed) (1)
 - [Aechelon Technology](#aechelon-technology) (2)
@@ -161,7 +162,7 @@
 - [BNY](#bny) (2)
 - [Boeing](#boeing) (1)
 - [Bombardier](#bombardier) (2)
-- [Booz Allen](#booz-allen) (1)
+- [Booz Allen](#booz-allen) (2)
 - [Booz Allen Hamilton](#booz-allen-hamilton) (2)
 - [BorgWarner](#borgwarner) (1)
 - [Bosch](#bosch) (2)
@@ -192,7 +193,7 @@
 - [Cardinal Health](#cardinal-health) (1)
 - [CareScout](#carescout) (1)
 - [Cargill](#cargill) (1)
-- [Carnegie Mellon University](#carnegie-mellon-university) (1)
+- [Carnegie Mellon University](#carnegie-mellon-university) (2)
 - [Cartesia](#cartesia) (1)
 - [Cartesian](#cartesian) (1)
 - [Caterpillar](#caterpillar) (1)
@@ -427,6 +428,7 @@
 - [General Dynamics Mission Systems, Inc.](#general-dynamics-mission-systems-inc) (2)
 - [General Motors](#general-motors) (1)
 - [General Motors Financial](#general-motors-financial) (2)
+- [Genmab](#genmab) (1)
 - [GenScript](#genscript) (1)
 - [Genworth](#genworth) (1)
 - [Geosyntec Consultants](#geosyntec-consultants) (1)
@@ -474,7 +476,7 @@
 - [Hermeus](#hermeus) (6)
 - [Heron Power](#heron-power) (2)
 - [Hershey Entertainment & Resorts Company](#hershey-entertainment-resorts-company) (1)
-- [Hewlett Packard (HP)](#hewlett-packard-hp) (1)
+- [Hewlett Packard (HP)](#hewlett-packard-hp) (2)
 - [Hewlett Packard Enterprise](#hewlett-packard-enterprise) (8)
 - [HEXAWARE](#hexaware) (1)
 - [HF Sinclair](#hf-sinclair) (2)
@@ -561,7 +563,7 @@
 - [Kikoff](#kikoff) (1)
 - [Kinaxis](#kinaxis) (5)
 - [Kingland](#kingland) (1)
-- [KION Group](#kion-group) (7)
+- [KION Group](#kion-group) (8)
 - [Kioxia](#kioxia) (1)
 - [Kira](#kira) (2)
 - [KLA](#kla) (3)
@@ -778,7 +780,7 @@
 - [Readily (S23)](#readily-s23) (1)
 - [Reality Defender](#reality-defender) (1)
 - [Red Aspen](#red-aspen) (1)
-- [Red Hat](#red-hat) (1)
+- [Red Hat](#red-hat) (2)
 - [Reframe Systems](#reframe-systems) (1)
 - [REGENT](#regent) (1)
 - [Reingold](#reingold) (1)
@@ -1013,6 +1015,7 @@
 - [Unity](#unity) (1)
 - [Universal Orlando Resort](#universal-orlando-resort) (1)
 - [University Health Network](#university-health-network) (1)
+- [University of Chicago](#university-of-chicago) (1)
 - [University System of New Hampshire](#university-system-of-new-hampshire) (1)
 - [Upsolve](#upsolve) (1)
 - [Valeo](#valeo) (1)
@@ -1046,6 +1049,7 @@
 - [Voltair](#voltair) (1)
 - [Voltus](#voltus) (1)
 - [vRad](#vrad) (1)
+- [VSP Vision](#vsp-vision) (1)
 - [Vulcan Materials](#vulcan-materials) (1)
 - [W.R. Berkley](#w-r-berkley) (5)
 - [Waabi](#waabi) (2)
@@ -1195,6 +1199,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [MBA Intern - Product Management](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2026-MBA-Intern---Product-Manager_R160316) | 58 | SF / San Jose, CA | Product | 2026-05-16 |
 | [2026 Intern - Research Scientist/Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Research-Scientist-Engineer_R160317) | 93 | Cambridge, MA / Seattle, WA / Toronto, ON, Canada / SF / San Jose, CA / Hyattsville, MD / NYC | AI/ML/Data | 2026-05-16 |
 | [AI/ML Intern - Machine Learning Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer_R158493) | 93 | Seattle, WA / SF / Austin, TX / San Jose, CA / Waltham, MA / NYC / Lehi, UT | AI/ML/Data | 2026-05-16 |
 | [AI/ML Machine Learning Engineer Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer_R162027) | 93 | San Jose, CA | — | 2026-05-09 |
@@ -1220,6 +1225,12 @@
 | --- | --- | --- | --- | --- |
 | [Backend Engineer Intern](https://careers-cadent.icims.com/jobs/1359/job?mobile=true&needsRedirect=false) | 85 | Philadelphia, PA / NYC | Software | 2026-05-09 |
 | [Data Engineer Intern](https://careers-cadent.icims.com/jobs/1362/job?mobile=true&needsRedirect=false) | 85 | NYC | AI/ML/Data | 2026-05-09 |
+
+## Advanced Energy
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Electronics Service Intern](https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Electronics-Service-CO-80525/1389595200/?ats=successfactors) | 50 | Fort Collins, CO | Hardware | 2026-05-16 |
 
 ## Advantest America Inc.
 
@@ -2242,6 +2253,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [University – 2026 Summer Games Software Developer Intern](https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--2026-Summer-Games-Software-Developer-Intern_R0225356-1) | 93 | Honolulu, HI / Annapolis Junction, MD / Colorado Springs, CO / McLean, VA / Rome, NY / Panama City, FL / Charleston, SC / Atlanta, GA / Huntsville, AL / San Diego, CA / El Segundo, CA | Software | 2026-05-16 |
 | [Software Developer Intern, 2026 Summer Games](https://careers.boozallen.com/careers/JobDetail?jobId=115778) | 85 | McLean, VA | — | 2026-05-09 |
 
 ## Booz Allen Hamilton
@@ -2479,6 +2491,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Rfcyber Lab Intern](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/RFCyber-Lab-Intern_2024483) | 68 | Pittsburgh, PA | AI/ML/Data | 2026-05-16 |
 | [Intern - College of Engineering - Electrical and Computer Engineering](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Summer-Intern---College-of-Engineering---Electrical-and-Computer-Engineering_2024173) | 68 | Pittsburgh, PA | AI/ML/Data | 2026-05-16 |
 
 ## Cartesia
@@ -4120,6 +4133,12 @@
 | [Software Development Engineer Intern](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/1068) | 85 | Arlington, TX | — | 2026-05-09 |
 | [Enterprise Architecture Intern](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1074) | 50 | Arlington, TX | — | 2026-05-09 |
 
+## Genmab
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Programming Intern](https://genmab.wd3.myworkdayjobs.com/Genmab_Careers_Site/job/Princeton/Programming-Intern_R15389) | 68 | Princeton, NJ | AI/ML/Data | 2026-05-16 |
+
 ## GenScript
 
 | Title | Score | Location | Department | First seen |
@@ -4452,6 +4471,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Security Research Intern](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Bristol-Bristol-City-of-United-Kingdom/Software-Security-Research-Intern_UNI3785) | 68 | Bristol, UK | Hardware | 2026-05-16 |
 | [Browser Software Engineer Intern](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Cambridge-Cambridgeshire-United-Kingdom/Browser-Software-Engineer-Intern_3160410-1) | 93 | Cambridge, UK | Hardware | 2026-05-09 |
 
 ## Hewlett Packard Enterprise
@@ -5113,6 +5133,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [RLS Intern - Technical Information & Documentation](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Holland-MI-United-States/RLS-Intern---Technical-Information---Documentation_JR-0088330-1) | 68 | Grand Rapids, MI / Holland, MI | Software | 2026-05-16 |
 | [Procurement Intern](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Atlanta-GA-United-States/Procurement-Intern_JR-0088786-1) | 68 | Atlanta, GA | Software | 2026-05-13 |
 | [AI Intern](https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Atlanta-GA-United-States/AI-Internships_JR-0088855) | 68 | Grand Rapids, MI / Plano, TX / Atlanta, GA | Software | 2026-05-13 |
 | [Mobile Robots Intern - AGV SLAM Research & Enhancement](https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Holland-MI-United-States/Mobile-Robots-Intern---AGV-SLAM-Research---Enhancement-_JR-0088333) | 68 | Grand Rapids, MI / Holland, MI | AI/ML/Data | 2026-05-09 |
@@ -6790,6 +6811,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Machine Learning Systems Research Intern - PhD - Summer 2026](https://redhat.wd5.myworkdayjobs.com/jobs/job/Boston/Machine-Learning-Systems-Research-Intern--PhD--Summer-2026_R-052520) | 68 | Boston, MA | AI/ML/Data | 2026-05-16 |
 | [Software Engineer Intern](https://redhat.wd5.myworkdayjobs.com/en-US/jobs/details/Software-Engineer-Intern_R-050088?q=intern) | 93 | Raleigh, NC / Boston, MA / Lowell, MA | — | 2026-05-09 |
 
 ## Reframe Systems
@@ -8695,6 +8717,12 @@
 | --- | --- | --- | --- | --- |
 | [Junior Developer Intern - Analytics & Insights](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000125399511) | 93 | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
 
+## University of Chicago
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data Science Intern](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Temporary-Data-Science-Intern_JR33013) | 68 | Chicago, IL | AI/ML/Data | 2026-05-16 |
+
 ## University System of New Hampshire
 
 | Title | Score | Location | Department | First seen |
@@ -8923,6 +8951,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://www.vrad.com/team-job/software-engineer-intern-hybrid/) | 85 | Edina, MN | — | 2026-05-09 |
+
+## VSP Vision
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data Analytics Intern - Data Analytics](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Lewisville-TX/Internship---Data-Analytics_R-9180) | 68 | Lewisville, TX | AI/ML/Data | 2026-05-16 |
 
 ## Vulcan Materials
 

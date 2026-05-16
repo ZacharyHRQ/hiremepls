@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-16T20:09:24.477Z",
+  "generatedAt": "2026-05-16T21:02:08.432Z",
   "companyCount": 64,
   "okCount": 64,
-  "jobCount": 2717,
+  "jobCount": 2727,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -2720,7 +2720,17 @@
     "canonical:d513e013272b6d3b": "2026-05-16T20:09:24.477Z",
     "canonical:b4124c4241feb092": "2026-05-16T20:09:24.477Z",
     "canonical:8f35bec8d0b5aec9": "2026-05-16T20:09:24.477Z",
-    "canonical:2ec0ee7304849599": "2026-05-16T20:09:24.477Z"
+    "canonical:2ec0ee7304849599": "2026-05-16T20:09:24.477Z",
+    "canonical:afc7dcc8b816979d": "2026-05-16T21:02:08.432Z",
+    "canonical:fb4acca2a68100c8": "2026-05-16T21:02:08.432Z",
+    "canonical:1e03135dcf302608": "2026-05-16T21:02:08.432Z",
+    "canonical:9d328cdee1ce1cfc": "2026-05-16T21:02:08.432Z",
+    "canonical:5a9a4b2944d8da96": "2026-05-16T21:02:08.432Z",
+    "canonical:2716d0d7459486f8": "2026-05-16T21:02:08.432Z",
+    "canonical:dbcff267cfa71af8": "2026-05-16T21:02:08.432Z",
+    "canonical:868f9fb9ee4546fb": "2026-05-16T21:02:08.432Z",
+    "canonical:6a871bcd8d35483d": "2026-05-16T21:02:08.432Z",
+    "canonical:e3b70e287d0e2aef": "2026-05-16T21:02:08.432Z"
   },
   "jobs": [
     {
@@ -4762,6 +4772,18 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:afc7dcc8b816979d",
+      "title": "MBA Intern - Product Management",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2026-MBA-Intern---Product-Manager_R160316",
+      "location": "SF / San Jose, CA",
+      "department": "Product",
+      "company": "Adobe",
+      "score": 58,
+      "scoreReasons": [
         "direct ATS"
       ]
     },
@@ -8109,6 +8131,19 @@
       ]
     },
     {
+      "id": "canonical:fb4acca2a68100c8",
+      "title": "Machine Learning Systems Research Intern - PhD - Summer 2026",
+      "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Boston/Machine-Learning-Systems-Research-Intern--PhD--Summer-2026_R-052520",
+      "location": "Boston, MA",
+      "department": "AI/ML/Data",
+      "company": "Red Hat",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:dd289a30cc9b248e",
       "title": "Backend Software Engineer – Internship",
       "url": "https://job-boards.greenhouse.io/kargo/jobs/5217421004",
@@ -8580,6 +8615,20 @@
       ]
     },
     {
+      "id": "canonical:1e03135dcf302608",
+      "title": "University – 2026 Summer Games Software Developer Intern",
+      "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--2026-Summer-Games-Software-Developer-Intern_R0225356-1",
+      "location": "Honolulu, HI / Annapolis Junction, MD / Colorado Springs, CO / McLean, VA / Rome, NY / Panama City, FL / Charleston, SC / Atlanta, GA / Huntsville, AL / San Diego, CA / El Segundo, CA",
+      "department": "Software",
+      "company": "Booz Allen",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:d3d88b97da2eb475",
       "title": "Product Manager Project Intern - Tiktok LIVE-Ecosystem Governance - 2026 Start",
       "url": "https://lifeattiktok.com/search/7598849238706735365",
@@ -8875,6 +8924,19 @@
       "location": "SF",
       "department": "Hardware",
       "company": "Astranis",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:9d328cdee1ce1cfc",
+      "title": "Programming Intern",
+      "url": "https://genmab.wd3.myworkdayjobs.com/Genmab_Careers_Site/job/Princeton/Programming-Intern_R15389",
+      "location": "Princeton, NJ",
+      "department": "AI/ML/Data",
+      "company": "Genmab",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -10166,6 +10228,19 @@
       "location": "Mountain View, CA",
       "department": "AI/ML/Data",
       "company": "Samaya",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:5a9a4b2944d8da96",
+      "title": "Data Analytics Intern - Data Analytics",
+      "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Lewisville-TX/Internship---Data-Analytics_R-9180",
+      "location": "Lewisville, TX",
+      "department": "AI/ML/Data",
+      "company": "VSP Vision",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -11572,6 +11647,19 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:2716d0d7459486f8",
+      "title": "Data Science Intern",
+      "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Temporary-Data-Science-Intern_JR33013",
+      "location": "Chicago, IL",
+      "department": "AI/ML/Data",
+      "company": "University of Chicago",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -14703,6 +14791,19 @@
       ]
     },
     {
+      "id": "canonical:dbcff267cfa71af8",
+      "title": "Software Security Research Intern",
+      "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Bristol-Bristol-City-of-United-Kingdom/Software-Security-Research-Intern_UNI3785",
+      "location": "Bristol, UK",
+      "department": "Hardware",
+      "company": "Hewlett Packard (HP)",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:d6835e9998187c19",
       "title": "Geographic Information Systems – Intern - Multiple Teams",
       "url": "https://baltimorecity.wd1.myworkdayjobs.com/External/job/401-E-Fayette-St/Geographic-Information-Systems--GIS--Intern--NCS----BCIT_R0017030",
@@ -17032,6 +17133,19 @@
       ]
     },
     {
+      "id": "canonical:868f9fb9ee4546fb",
+      "title": "Rfcyber Lab Intern",
+      "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/RFCyber-Lab-Intern_2024483",
+      "location": "Pittsburgh, PA",
+      "department": "AI/ML/Data",
+      "company": "Carnegie Mellon University",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:b1cec7aacb5584d6",
       "title": "AI Research Intern - Knowledge Graphs",
       "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Communications-House-Staines-Upon-Thames-United-Kingdom/AI-Research-Intern---Knowledge-Graphs_R116819",
@@ -17639,6 +17753,19 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:6a871bcd8d35483d",
+      "title": "RLS Intern - Technical Information & Documentation",
+      "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Holland-MI-United-States/RLS-Intern---Technical-Information---Documentation_JR-0088330-1",
+      "location": "Grand Rapids, MI / Holland, MI",
+      "department": "Software",
+      "company": "KION Group",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -19154,6 +19281,16 @@
         "high-signal role",
         "direct ATS"
       ]
+    },
+    {
+      "id": "canonical:e3b70e287d0e2aef",
+      "title": "Electronics Service Intern",
+      "url": "https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Electronics-Service-CO-80525/1389595200/?ats=successfactors",
+      "location": "Fort Collins, CO",
+      "department": "Hardware",
+      "company": "Advanced Energy",
+      "score": 50,
+      "scoreReasons": []
     },
     {
       "id": "canonical:ee61ffd91bd86e52",
