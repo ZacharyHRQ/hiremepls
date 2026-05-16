@@ -1,6 +1,6 @@
 # Open Internships
 
-**3039** internships across **63/63** companies — last updated 2026-05-16.
+**3035** internships across **63/63** companies — last updated 2026-05-16.
 
 ## Companies
 
@@ -147,7 +147,6 @@
 - [Berkshire Grey](#berkshire-grey) (1)
 - [Berkshire Hathaway Energy](#berkshire-hathaway-energy) (19)
 - [Bessemer Trust](#bessemer-trust) (1)
-- [BigCommerce](#bigcommerce) (1)
 - [Bild AI](#bild-ai) (1)
 - [Bill](#bill) (1)
 - [BillionToOne](#billiontoone) (2)
@@ -268,7 +267,7 @@
 - [Cook Group](#cook-group) (4)
 - [Cooper University Health Care](#cooper-university-health-care) (2)
 - [CoorsTek](#coorstek) (1)
-- [Copart](#copart) (11)
+- [Copart](#copart) (10)
 - [Copeland](#copeland) (1)
 - [Corgi](#corgi) (1)
 - [Corning](#corning) (1)
@@ -312,7 +311,7 @@
 - [Delta Air Lines, Inc.](#delta-air-lines-inc) (1)
 - [Delta Dental](#delta-dental) (2)
 - [Deluxe](#deluxe) (3)
-- [Desjardins Group](#desjardins-group) (2)
+- [Desjardins Group](#desjardins-group) (1)
 - [Deutsche Bank](#deutsche-bank) (2)
 - [Dexcom](#dexcom) (1)
 - [Dexcom Corporation](#dexcom-corporation) (1)
@@ -670,7 +669,7 @@
 - [Mizuho Securities USA](#mizuho-securities-usa) (1)
 - [Molex](#molex) (1)
 - [MongoDB](#mongodb) (5)
-- [Monolithic Power Systems](#monolithic-power-systems) (3)
+- [Monolithic Power Systems](#monolithic-power-systems) (2)
 - [Moody's](#moody-s) (2)
 - [Moog ](#moog) (3)
 - [Morgan Stanley](#morgan-stanley) (2)
@@ -686,7 +685,7 @@
 - [NBCUniversal](#nbcuniversal) (9)
 - [Nelnet](#nelnet) (2)
 - [Netflix](#netflix) (12)
-- [Neuralink](#neuralink) (5)
+- [Neuralink](#neuralink) (6)
 - [New York Life](#new-york-life) (1)
 - [New York Life Insurance](#new-york-life-insurance) (1)
 - [NewsBreak](#newsbreak) (3)
@@ -815,7 +814,6 @@
 - [Resolve Tech Solutions](#resolve-tech-solutions) (2)
 - [RESPEC](#respec) (2)
 - [Revantage Corporate Services](#revantage-corporate-services) (1)
-- [Revvity](#revvity) (1)
 - [RIB Software](#rib-software) (1)
 - [Rilla](#rilla) (1)
 - [Riot Games](#riot-games) (1)
@@ -827,6 +825,7 @@
 - [Roblox](#roblox) (5)
 - [Robust.ai](#robust-ai) (1)
 - [Rocket](#rocket) (1)
+- [Rocket Lab USA](#rocket-lab-usa) (2)
 - [Rocket Lawyer](#rocket-lawyer) (3)
 - [Rocket Mortgage](#rocket-mortgage) (1)
 - [Roku](#roku) (2)
@@ -855,7 +854,6 @@
 - [Saviynt LABS](#saviynt-labs) (1)
 - [Scale AI](#scale-ai) (4)
 - [Scale.ai](#scale-ai) (1)
-- [SCAN](#scan) (1)
 - [ScentAir](#scentair) (1)
 - [Schonfeld](#schonfeld) (3)
 - [Schweitzer Engineering Laboratories](#schweitzer-engineering-laboratories) (4)
@@ -932,7 +930,7 @@
 - [Staples Inc.](#staples-inc) (1)
 - [State Farm](#state-farm) (2)
 - [State of Nebraska](#state-of-nebraska) (1)
-- [State Street](#state-street) (3)
+- [State Street](#state-street) (2)
 - [Stevens Capital Management](#stevens-capital-management) (1)
 - [Stevens Institute of Technology](#stevens-institute-of-technology) (1)
 - [Stifel](#stifel) (2)
@@ -969,7 +967,7 @@
 - [Teledyne](#teledyne) (1)
 - [Teleo](#teleo) (1)
 - [Tempus](#tempus) (2)
-- [Tencent](#tencent) (34)
+- [Tencent](#tencent) (35)
 - [TENEX.AI](#tenex-ai) (1)
 - [Tenstorrent](#tenstorrent) (11)
 - [Teradata](#teradata) (1)
@@ -1108,7 +1106,7 @@
 - [Workstream](#workstream) (1)
 - [Worthington Enterprises](#worthington-enterprises) (1)
 - [Woven](#woven) (1)
-- [WSP](#wsp) (2)
+- [WSP](#wsp) (1)
 - [WTW](#wtw) (1)
 - [X Development](#x-development) (3)
 - [Xantium](#xantium) (1)
@@ -2220,12 +2218,6 @@
 | --- | --- | --- | --- |
 | [Software Engineering Intern](https://myjobs.adp.com/bessemer/cx/job-details?reqId=5001145764006) | Woodbridge, NJ | — | 2026-05-09 |
 
-## BigCommerce
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Intern – Software Engineering - TypeScript / Full Stack](https://bigcommerce.wd12.myworkdayjobs.com/Commerce/job/US---GA---Atlanta-Office/Intern--Software-Engineering---Typescript---Full-Stack_JR102475) | Atlanta, GA | Software | 2026-05-13 |
-
 ## Bild AI
 
 | Title | Location | Department | First seen |
@@ -3148,7 +3140,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Yard Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Yard-Engineering-Intern_JR108554) | Dallas, TX | Software | 2026-05-14 |
 | [Technology Product Analyst Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR108712) | Dallas, TX | Product | 2026-05-14 |
 | [Technology Product Analyst Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR108764) | Dallas, TX | Product | 2026-05-14 |
 | [Yard Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Yard-Engineering-Intern_JR108553) | Dallas, TX | Software | 2026-05-14 |
@@ -3450,7 +3441,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [Data Intern](https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Stage-en-donnes--Automne-2026_R2606248-2) | Montreal, QC, Canada / Quebec City, QC, Canada | AI/ML/Data | 2026-05-11 |
 | [Development Intern - IT sector](https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Stage--Secteur-TI--Automne-2026_R2606252-1) | Montreal, QC, Canada / Quebec City, QC, Canada | Software | 2026-05-11 |
 
 ## Deutsche Bank
@@ -6134,7 +6124,6 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
-| [IT Software and AI Data Intern](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/IT-Software-and-AI-Data-Intern_R-1434) | San Jose, CA | Software | 2026-05-15 |
 | [AI Developer Intern](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose---California/AI-Developer-Intern_R-674) | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Application Engineer Intern](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Application-Engineer-Intern_R-890) | San Jose, CA | Hardware | 2026-05-09 |
 
@@ -6259,6 +6248,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Software Engineer Intern - Infrastructure](https://boards.greenhouse.io/neuralink/jobs/5469298003) | Fremont, CA | Software | 2026-05-16 |
 | [Machine Learning Engineer Intern](https://boards.greenhouse.io/neuralink/jobs/6594261003) | Fremont, CA | AI/ML/Data | 2026-05-13 |
 | [Firmware Engineer Intern](https://job-boards.greenhouse.io/neuralink/jobs/6648992003) | Fremont, CA | — | 2026-05-09 |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/neuralink/jobs/6672977003?gh_jid=6672977003&gh_src=f6d5520e3us) | Austin, TX / Fremont, CA | — | 2026-05-09 |
@@ -7249,12 +7239,6 @@
 | --- | --- | --- | --- |
 | [Quantitative Developer Intern](https://revantage.wd1.myworkdayjobs.com/Revantage/job/Remote---Illinois/Quantitative-Developer-Intern_JR103176) | Illinois | Quant | 2026-05-14 |
 
-## Revvity
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Software Engineer Intern - AI/ML](https://revvity.wd103.myworkdayjobs.com/External/job/Waltham/Software-Engineering-Intern--AI-ML----Remote-US_JR-044201) | Waltham, MA | Software | 2026-05-14 |
-
 ## RIB Software
 
 | Title | Location | Department | First seen |
@@ -7345,6 +7329,13 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Software Engineering Intern](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Salesforce-Software-Engineering-Intern---Summer-2026_R-081500) | Detroit, MI | — | 2026-05-09 |
+
+## Rocket Lab USA
+
+| Title | Location | Department | First seen |
+| --- | --- | --- | --- |
+| [HITL Engineer Intern](https://job-boards.greenhouse.io/rocketlab/jobs/7734022003) | Long Beach, CA | Hardware | 2026-05-16 |
+| [Integration & Test Intern](https://job-boards.greenhouse.io/rocketlab/jobs/7728086003) | Long Beach, CA | Hardware | 2026-05-16 |
 
 ## Rocket Lawyer
 
@@ -7577,12 +7568,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Software Engineering Intern](https://job-boards.greenhouse.io/scaleai/jobs/4606014005) | San Francisco, CA | — | 2026-05-09 |
-
-## SCAN
-
-| Title | Location | Department | First seen |
-| --- | --- | --- | --- |
-| [Data Scientist Intern](https://scanhealthplan.wd108.myworkdayjobs.com/scancareers/job/Long-Beach-Office-3800/Data-Scientist-Intern---Graduate_JR2628) | Long Beach, CA | AI/ML/Data | 2026-05-09 |
 
 ## ScentAir
 
@@ -8139,7 +8124,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Bestx AI Engineer Intern](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/BestX-AI-Engineer--Full-time-Internship--July---Dec-2026-_R-784548) | Quincy, MA | AI/ML/Data | 2026-05-14 |
-| [Data Analyst Intern](https://statestreet.wd1.myworkdayjobs.com/Global/job/Clifton-New-Jersey/State-Street---Alpha-Data-Services---Data-Analyst-Internship---Summer-2026_R-790095) | Paterson, NJ | AI/ML/Data | 2026-05-14 |
 | [Business Architecture & Agentic Automation Intern](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Business-Architecture---Agentic-Automation--6-Months-Full-time-Internship--Jul--Dec-2026-_R-789474) | Boston, MA | Software | 2026-05-09 |
 
 ## Stevens Capital Management
@@ -8405,6 +8389,7 @@
 
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
+| [Publishing Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Irvine-Co-working/Publishing-Intern_R107466) | Irvine, CA | Product | 2026-05-16 |
 | [Research Internship-Multimodal LLM - Speech/Music/Audio/Vision/Language](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Research-Internship--Multimodal-LLM--Speech-Music-Audio-Vision-Language-_R106334-1) | Bellevue, WA | AI/ML/Data | 2026-05-14 |
 | [Hunyuan Multimodal Algorithm Researcher intern - Omni-Modal](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650) | Palo Alto, CA | AI/ML/Data | 2026-05-14 |
 | [Multimedia Codec Development Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Multimedia-Codec-Development-Intern_R106769) | Palo Alto, CA | AI/ML/Data | 2026-05-14 |
@@ -9655,7 +9640,6 @@
 | Title | Location | Department | First seen |
 | --- | --- | --- | --- |
 | [Software Developer Intern](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86808) | Dallas, TX | — | 2026-05-14 |
-| [Software Developer Intern](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86808) | Dallas, TX | Software | 2026-05-14 |
 
 ## WTW
 

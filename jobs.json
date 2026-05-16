@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-16T01:23:11.435Z",
+  "generatedAt": "2026-05-16T04:46:03.679Z",
   "companyCount": 63,
   "okCount": 63,
-  "jobCount": 3039,
+  "jobCount": 3035,
   "firstSeen": {
     "5917202": "2026-05-06T06:42:07.596Z",
     "6040910": "2026-05-06T06:42:07.596Z",
@@ -1283,7 +1283,6 @@
     "simplify:b8cb407f-5dbb-450d-84d4-387a0a0fa348": "2026-05-09T15:28:15.527Z",
     "simplify:51688509-798b-484e-8d59-41c1cc58375c": "2026-05-09T15:28:15.527Z",
     "simplify:5a584c30-3ce0-47db-9704-8a23896e8742": "2026-05-09T15:28:15.527Z",
-    "simplify:94e3dc1e-3287-40a5-8a13-a3fcb9452c79": "2026-05-09T15:28:15.527Z",
     "simplify:2b1522e6-dea2-45f4-ad2e-0ffa0f132863": "2026-05-09T15:28:15.527Z",
     "simplify:66357c67-5998-4524-8bd2-55280de56b1a": "2026-05-09T15:28:15.527Z",
     "simplify:02da0186-8b08-4115-9e97-a07ac6cbec93": "2026-05-09T15:28:15.527Z",
@@ -2732,7 +2731,6 @@
     "simplify:55cc6efa-ecc4-4a92-a7c2-310c0c39ace3": "2026-05-11T07:59:30.777Z",
     "simplify:4c30af29-1dc2-4853-b22a-476b75b033e3": "2026-05-11T07:59:30.777Z",
     "simplify:e41608bf-f9e1-404a-8866-34661516ddaa": "2026-05-11T07:59:30.777Z",
-    "simplify:b8011049-1548-4053-9e0a-5906cd2dbd3f": "2026-05-11T07:59:30.777Z",
     "simplify:29f09403-c471-444f-a2f5-d509f23fb8b9": "2026-05-11T07:59:30.777Z",
     "simplify:acf5c4c8-9361-409c-9dd1-245ba24951c9": "2026-05-11T07:59:30.777Z",
     "simplify:6ea0efe1-9fbc-4f5f-8bd3-5bcf07c29734": "2026-05-11T07:59:30.777Z",
@@ -2818,7 +2816,6 @@
     "simplify:e4becf68-5294-4c91-a10c-4626a344f605": "2026-05-13T23:40:40.818Z",
     "simplify:7dc2e2fc-62c7-404e-b61b-f9b8ac587aa2": "2026-05-13T23:40:40.818Z",
     "simplify:b2caadce-6eeb-4eb8-8571-477e8b7bca43": "2026-05-13T23:40:40.818Z",
-    "simplify:614af212-1ca3-48d6-a1b7-29ea78007cb2": "2026-05-13T23:40:40.818Z",
     "simplify:f8061283-7836-4832-afc5-5784772d0a48": "2026-05-13T23:40:40.818Z",
     "simplify:113f5b27-2163-45e7-8895-44c1b2f2e666": "2026-05-13T23:40:40.818Z",
     "simplify:61c7abb1-f25a-4a8e-a600-c3d596da442d": "2026-05-13T23:40:40.818Z",
@@ -2894,7 +2891,6 @@
     "simplify:51c4a885-a755-4f56-ae3b-1cc8044eed47": "2026-05-14T05:32:10.854Z",
     "simplify:adf2fbac-8753-47c5-bf29-9bfa01b9c46e": "2026-05-14T05:32:10.854Z",
     "simplify:b462642c-bc71-425d-8c68-9b871f683033": "2026-05-14T05:32:10.854Z",
-    "simplify:1f487f77-2747-4099-b366-ec3c03fb88d5": "2026-05-14T05:32:10.854Z",
     "simplify:e5377d33-2f99-4bd4-bc77-1c7e16d8d086": "2026-05-14T05:32:10.854Z",
     "simplify:0f21c988-e025-499a-8ca2-537367cbc720": "2026-05-14T05:32:10.854Z",
     "simplify:aee6a090-c6fa-4942-8671-f2c592bd9ef9": "2026-05-14T05:32:10.854Z",
@@ -2902,7 +2898,6 @@
     "simplify:a859c908-22c6-4a76-ad70-e743c60fddb7": "2026-05-14T05:32:10.854Z",
     "simplify:8091e5aa-09f8-4af9-845a-b9afdd9e94db": "2026-05-14T05:32:10.854Z",
     "simplify:00b80040-c7f1-4793-90fa-1b43bc88928c": "2026-05-14T05:32:10.854Z",
-    "simplify:f23acdd1-d3c3-4864-a5c2-735c43af1354": "2026-05-14T05:32:10.854Z",
     "simplify:a37f4e12-8b0c-4f92-86f8-af3bfcb20b83": "2026-05-14T05:32:10.854Z",
     "simplify:373ce2bf-8554-4be5-917c-4464e6a9444e": "2026-05-14T05:32:10.854Z",
     "simplify:5f15e338-9e4f-4242-b54d-601ea20a4339": "2026-05-14T05:32:10.854Z",
@@ -2931,7 +2926,6 @@
     "simplify:962c4ca9-4001-49cc-86cd-993e362ad0c2": "2026-05-14T05:32:10.854Z",
     "simplify:842ee601-a9d1-496f-9b0e-25dbfe17a9c2": "2026-05-14T05:32:10.854Z",
     "simplify:16f4158c-2f78-4213-854f-11df73fe8857": "2026-05-14T05:32:10.854Z",
-    "simplify:f00ec3cf-28f3-44d3-b7de-2b918b1b312a": "2026-05-14T05:32:10.854Z",
     "simplify:8037cc42-3e4b-4cc7-9c9c-2e7332aabebc": "2026-05-14T05:32:10.854Z",
     "simplify:13e715af-d8e9-4e23-9b78-fb26928138a5": "2026-05-14T10:39:41.754Z",
     "simplify:017d2a2a-99ba-4641-b4bb-44deb5605f86": "2026-05-14T10:39:41.754Z",
@@ -2954,7 +2948,6 @@
     "simplify:ea9c61d2-6e61-4873-8b16-8c3aceed5962": "2026-05-14T15:03:17.159Z",
     "simplify:fe972247-600c-481b-961d-3abad929c277": "2026-05-14T15:03:17.159Z",
     "simplify:527f6229-0830-4b0d-bebf-9b948f241b44": "2026-05-14T15:03:17.159Z",
-    "simplify:c5e1e2ee-9028-41d8-8e43-8bed2a7fddb4": "2026-05-14T15:03:17.159Z",
     "simplify:d9ea509b-1e6a-4984-8ede-eb92547cabed": "2026-05-14T15:03:17.159Z",
     "simplify:a56a4571-143d-427e-a184-fea69c27b8eb": "2026-05-14T15:03:17.159Z",
     "simplify:764b243c-75c2-4c30-a3b0-4b86543639ed": "2026-05-14T15:03:17.159Z",
@@ -3022,7 +3015,6 @@
     "simplify:bf6f1046-c707-41a4-9446-0ed05b3dcb3c": "2026-05-15T23:35:38.383Z",
     "simplify:e0159f6e-7578-47de-b54f-df4e0ef9d581": "2026-05-15T23:35:38.383Z",
     "simplify:80c10135-3bc2-4feb-84a6-60cf4bb215df": "2026-05-15T23:35:38.383Z",
-    "simplify:c5e6e6ba-ff2d-4dbd-973c-2808ec25701d": "2026-05-15T23:35:38.383Z",
     "simplify:11c69133-e993-47d7-9b8d-331a0c9131df": "2026-05-15T23:35:38.383Z",
     "simplify:534092d4-5695-48dd-9642-eb2e79217fc3": "2026-05-15T23:35:38.383Z",
     "simplify:4e2fb10f-ec9d-46fa-a63a-4d5f90987bfe": "2026-05-15T23:35:38.383Z",
@@ -3042,7 +3034,11 @@
     "simplify:e7dc73e1-21cf-4c81-add9-6e05ab194abd": "2026-05-16T01:23:11.435Z",
     "simplify:dfe8f5db-d1c2-4227-90a8-eea24f85caf9": "2026-05-16T01:23:11.435Z",
     "simplify:4b7a8d63-bcb2-4f54-88ad-64c5e62c6ea1": "2026-05-16T01:23:11.435Z",
-    "simplify:07d8a6d1-e744-423b-ac40-844e7cfe5bcd": "2026-05-16T01:23:11.435Z"
+    "simplify:07d8a6d1-e744-423b-ac40-844e7cfe5bcd": "2026-05-16T01:23:11.435Z",
+    "simplify:d32739f7-fd72-4202-a25e-b4236b66b76b": "2026-05-16T04:46:03.679Z",
+    "simplify:2b5812dd-6790-4dec-99a6-492058cec2b1": "2026-05-16T04:46:03.679Z",
+    "simplify:7f826bfb-a9e6-425c-a6dc-82510874e1d0": "2026-05-16T04:46:03.679Z",
+    "simplify:3345e6a4-ec2f-4d89-80ee-193ddc797479": "2026-05-16T04:46:03.679Z"
   },
   "jobs": [
     {
@@ -11022,14 +11018,6 @@
       "company": "Eulerity"
     },
     {
-      "id": "simplify:614af212-1ca3-48d6-a1b7-29ea78007cb2",
-      "title": "Intern – Software Engineering - TypeScript / Full Stack",
-      "url": "https://bigcommerce.wd12.myworkdayjobs.com/Commerce/job/US---GA---Atlanta-Office/Intern--Software-Engineering---Typescript---Full-Stack_JR102475",
-      "location": "Atlanta, GA",
-      "department": "Software",
-      "company": "BigCommerce"
-    },
-    {
       "id": "simplify:6eb26908-472b-41d4-bef8-42e60ad9387c",
       "title": "AI/ML Intern",
       "url": "https://careers-empowerai.icims.com/jobs/8652/job?mobile=true&needsRedirect=false",
@@ -14278,14 +14266,6 @@
       "company": "HF Sinclair"
     },
     {
-      "id": "simplify:c5e1e2ee-9028-41d8-8e43-8bed2a7fddb4",
-      "title": "Yard Engineer Intern",
-      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Yard-Engineering-Intern_JR108554",
-      "location": "Dallas, TX",
-      "department": "Software",
-      "company": "Copart"
-    },
-    {
       "id": "simplify:51a9d9d0-ccbd-444b-9588-fa6adbf3c727",
       "title": "MTM Data Management & Staffing Coordinator Intern",
       "url": "https://musc.wd1.myworkdayjobs.com/en-US/MUSC/job/Charleston/UNIV---Student-Intern--MTM-Data-Management---Staffing-Coordinator_R-0000061405",
@@ -14772,14 +14752,6 @@
       "location": "NYC",
       "department": "Hardware",
       "company": "Metropolitan Transportation Authority"
-    },
-    {
-      "id": "simplify:94e3dc1e-3287-40a5-8a13-a3fcb9452c79",
-      "title": "Data Scientist Intern",
-      "url": "https://scanhealthplan.wd108.myworkdayjobs.com/scancareers/job/Long-Beach-Office-3800/Data-Scientist-Intern---Graduate_JR2628",
-      "location": "Long Beach, CA",
-      "department": "AI/ML/Data",
-      "company": "SCAN"
     },
     {
       "id": "simplify:010d4c32-fa2d-4b62-8c40-3d8039798011",
@@ -15614,14 +15586,6 @@
       "company": "Bank of Montreal"
     },
     {
-      "id": "simplify:b8011049-1548-4053-9e0a-5906cd2dbd3f",
-      "title": "Data Intern",
-      "url": "https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Stage-en-donnes--Automne-2026_R2606248-2",
-      "location": "Montreal, QC, Canada / Quebec City, QC, Canada",
-      "department": "AI/ML/Data",
-      "company": "Desjardins Group"
-    },
-    {
       "id": "simplify:29f09403-c471-444f-a2f5-d509f23fb8b9",
       "title": "Development Intern - IT sector",
       "url": "https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Stage--Secteur-TI--Automne-2026_R2606252-1",
@@ -15910,14 +15874,6 @@
       "company": "Deckers Brands"
     },
     {
-      "id": "simplify:1f487f77-2747-4099-b366-ec3c03fb88d5",
-      "title": "Software Developer Intern",
-      "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86808",
-      "location": "Dallas, TX",
-      "department": "Software",
-      "company": "WSP"
-    },
-    {
       "id": "simplify:cab3dc48-123e-4fdc-8ca8-10d067c841b0",
       "title": "Temporary Intern - Data Analytics",
       "url": "https://careers-cotiviti.icims.com/jobs/18676/job?mobile=true&needsRedirect=false",
@@ -16158,14 +16114,6 @@
       "company": "Rocket Mortgage"
     },
     {
-      "id": "simplify:f23acdd1-d3c3-4864-a5c2-735c43af1354",
-      "title": "Data Analyst Intern",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Clifton-New-Jersey/State-Street---Alpha-Data-Services---Data-Analyst-Internship---Summer-2026_R-790095",
-      "location": "Paterson, NJ",
-      "department": "AI/ML/Data",
-      "company": "State Street"
-    },
-    {
       "id": "simplify:a37f4e12-8b0c-4f92-86f8-af3bfcb20b83",
       "title": "Visiting Intern",
       "url": "https://stevens.wd5.myworkdayjobs.com/External/job/Hoboken-NJ---Main-Campus/Visiting-Intern-Summer-2026_RQ30034",
@@ -16396,14 +16344,6 @@
       "location": "Ottawa, ON, Canada",
       "department": "Hardware",
       "company": "Ciena"
-    },
-    {
-      "id": "simplify:f00ec3cf-28f3-44d3-b7de-2b918b1b312a",
-      "title": "Software Engineer Intern - AI/ML",
-      "url": "https://revvity.wd103.myworkdayjobs.com/External/job/Waltham/Software-Engineering-Intern--AI-ML----Remote-US_JR-044201",
-      "location": "Waltham, MA",
-      "department": "Software",
-      "company": "Revvity"
     },
     {
       "id": "simplify:8037cc42-3e4b-4cc7-9c9c-2e7332aabebc",
@@ -16830,14 +16770,6 @@
       "company": "General Dynamics Information Technology"
     },
     {
-      "id": "simplify:c5e6e6ba-ff2d-4dbd-973c-2808ec25701d",
-      "title": "IT Software and AI Data Intern",
-      "url": "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/IT-Software-and-AI-Data-Intern_R-1434",
-      "location": "San Jose, CA",
-      "department": "Software",
-      "company": "Monolithic Power Systems"
-    },
-    {
       "id": "simplify:11c69133-e993-47d7-9b8d-331a0c9131df",
       "title": "Research Scientist Intern - Multimodal AI",
       "url": "https://www.metacareers.com/jobs/1732424664451603",
@@ -16972,6 +16904,38 @@
       "location": "Indianapolis, IN",
       "department": "Quant",
       "company": "Raymond James Financial"
+    },
+    {
+      "id": "simplify:d32739f7-fd72-4202-a25e-b4236b66b76b",
+      "title": "Integration & Test Intern",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7728086003",
+      "location": "Long Beach, CA",
+      "department": "Hardware",
+      "company": "Rocket Lab USA"
+    },
+    {
+      "id": "simplify:2b5812dd-6790-4dec-99a6-492058cec2b1",
+      "title": "HITL Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7734022003",
+      "location": "Long Beach, CA",
+      "department": "Hardware",
+      "company": "Rocket Lab USA"
+    },
+    {
+      "id": "simplify:7f826bfb-a9e6-425c-a6dc-82510874e1d0",
+      "title": "Software Engineer Intern - Infrastructure",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/5469298003",
+      "location": "Fremont, CA",
+      "department": "Software",
+      "company": "Neuralink"
+    },
+    {
+      "id": "simplify:3345e6a4-ec2f-4d89-80ee-193ddc797479",
+      "title": "Publishing Intern",
+      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Irvine-Co-working/Publishing-Intern_R107466",
+      "location": "Irvine, CA",
+      "department": "Product",
+      "company": "Tencent"
     },
     {
       "id": "vansh:d2c404c8-5895-4ec0-95c2-3d17aed38beb",
