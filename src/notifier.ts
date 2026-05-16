@@ -9,9 +9,10 @@ function escapeHtml(s: string): string {
 function formatJob(job: Job): string {
   const title = escapeHtml(job.title);
   const company = escapeHtml(job.company);
+  const score = typeof job.score === "number" ? `\n⭐ ${job.score}/100` : "";
   const loc = job.location ? `\n📍 ${escapeHtml(job.location)}` : "";
   const dept = job.department ? `\n🏢 ${escapeHtml(job.department)}` : "";
-  return `🆕 <b>${company}</b>\n<a href="${job.url}">${title}</a>${loc}${dept}`;
+  return `🆕 <b>${company}</b>\n<a href="${job.url}">${title}</a>${score}${loc}${dept}`;
 }
 
 export async function sendJob(

@@ -66,5 +66,11 @@
   { "name": "Visa", "ats": "smartrecruiters", "slug": "Visa" },
 
   { "name": "SimplifyJobs", "ats": "simplify", "slug": "" },
-  { "name": "vanshb03", "ats": "vanshb03", "slug": "" }
+  { "name": "vanshb03", "ats": "vanshb03", "slug": "" },
+  {
+    "name": "Rethinkjobs Summer 2026",
+    "ats": "githubMarkdown",
+    "slug": "rethinkjobs-summer-2026",
+    "sourceUrl": "https://raw.githubusercontent.com/summer2026internships/Summer2026-Internships/main/README.md"
+  }
 ]

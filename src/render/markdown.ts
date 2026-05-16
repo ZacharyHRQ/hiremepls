@@ -24,18 +24,20 @@ function groupByCompany(jobs: Job[]): Map<string, Job[]> {
 
 function renderTable(jobs: Job[], firstSeen: Record<string, string>): string {
   const rows = [
-    "| Title | Location | Department | First seen |",
-    "| --- | --- | --- | --- |",
+    "| Title | Score | Location | Department | First seen |",
+    "| --- | --- | --- | --- | --- |",
   ];
   const sorted = [...jobs].sort((a, b) => {
     const ta = firstSeen[a.id] ?? "";
     const tb = firstSeen[b.id] ?? "";
     if (ta !== tb) return tb.localeCompare(ta);
+    const score = (b.score ?? 0) - (a.score ?? 0);
+    if (score !== 0) return score;
     return a.title.localeCompare(b.title);
   });
   for (const j of sorted) {
     rows.push(
-      `| [${cell(j.title)}](${j.url}) | ${cell(j.location)} | ${cell(j.department)} | ${fmtDate(firstSeen[j.id])} |`,
+      `| [${cell(j.title)}](${j.url}) | ${cell(j.score?.toString())} | ${cell(j.location)} | ${cell(j.department)} | ${fmtDate(firstSeen[j.id])} |`,
     );
   }
   return rows.join("\n");

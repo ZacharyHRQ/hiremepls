@@ -20,3 +20,5 @@ if (chats.size === 0) {
 } else {
   for (const [id, label] of chats) console.log(`${id}\t${label}`);
 }
+
+export {};

@@ -6,7 +6,8 @@
   "scripts": {
     "check": "tsx src/index.ts",
     "list": "tsx src/list.ts",
-    "chat-id": "tsx scripts/get-chat-id.ts"
+    "chat-id": "tsx scripts/get-chat-id.ts",
+    "discover:yc": "tsx scripts/discover-yc.ts"
   },
   "devDependencies": {
     "@types/node": "^22.10.0",
