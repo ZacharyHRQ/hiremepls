@@ -1,13 +1,13 @@
 # Open Internships
 
-**2908** internships across **64/64** companies — last updated 2026-05-17.
+**2907** internships across **64/64** companies — last updated 2026-05-17.
 
 ## Companies
 
 - [ PrizePicks](#prizepicks) (1)
 - [14.ai](#14-ai) (1)
 - [a0.dev](#a0-dev) (1)
-- [ABB](#abb) (4)
+- [ABB](#abb) (5)
 - [Abbott](#abbott) (1)
 - [ABC Fitness](#abc-fitness) (1)
 - [ABC News](#abc-news) (1)
@@ -401,7 +401,6 @@
 - [Eurofins](#eurofins) (2)
 - [Eventual](#eventual) (1)
 - [Everest (F25)](#everest-f25) (1)
-- [Everlaw](#everlaw) (1)
 - [Eversource Energy](#eversource-energy) (1)
 - [Exegy](#exegy) (1)
 - [Exiger](#exiger) (2)
@@ -525,7 +524,6 @@
 - [Honeywell](#honeywell) (13)
 - [Horace Mann](#horace-mann) (2)
 - [Hormel Foods](#hormel-foods) (1)
-- [Howden](#howden) (1)
 - [Howmet Aerospace](#howmet-aerospace) (1)
 - [HP, Inc](#hp-inc) (1)
 - [HPE](#hpe) (1)
@@ -1190,6 +1188,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [AI Data Analytics Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/San-Jose-California-United-States-of-America/AI-Data-Analytics-Intern--Summer-2026_JR00024382) | 68 | San Jose, CA | AI/ML/Data | 2026-05-17 |
 | [R&D Product Development Engineer Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-CT-Bloomfield/R-D-Product-Development-Engineering-Intern---Summer-2026_JR00013133) | 58 | Hartford, CT | Hardware | 2026-05-16 |
 | [AI Vision Engineer Intern- AI Robotics](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/San-Jose-California-United-States-of-America/AI-Vision-Engineer-Intern--AI-Robotics--Spring-2026_JR00014185) | 93 | San Jose, CA | Data Science, AI & Machine Learning | 2026-05-09 |
 | [Agentic AI Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/San-Jose-California-United-States-of-America/Agentic-AI-Intern--Summer-2026_JR00024219) | 68 | San Jose, CA | AI/ML/Data | 2026-05-09 |
@@ -4024,12 +4023,6 @@
 | --- | --- | --- | --- | --- |
 | [Engineering Intern](https://www.workatastartup.com/jobs/80429) | 56 | San Francisco, CA | — | 2026-05-09 |
 
-## Everlaw
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [GTM Data Analyst Intern](https://job-boards.greenhouse.io/everlaw/jobs/4676925006) | 68 | Oakland, CA | AI/ML/Data | 2026-05-16 |
-
 ## Eversource Energy
 
 | Title | Score | Location | Department | First seen |
@@ -4899,12 +4892,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [IT Application Development Analyst Intern](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/30545) | 50 | Austin, MN | — | 2026-05-09 |
-
-## Howden
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Analyst Intern](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/DUAL---Dallas-Office/Data-Analyst-Intern_R0016629) | 68 | Dallas, TX / Chicago, IL / San Diego, CA | AI/ML/Data | 2026-05-09 |
 
 ## Howmet Aerospace
 

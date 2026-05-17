@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-17T21:36:19.095Z",
+  "generatedAt": "2026-05-17T22:33:43.194Z",
   "companyCount": 64,
   "okCount": 64,
-  "jobCount": 2908,
+  "jobCount": 2907,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -694,7 +694,6 @@
     "canonical:1ae22981c8ef9f13": "2026-05-09T15:28:15.527Z",
     "canonical:602e957a55147267": "2026-05-11T23:38:25.770Z",
     "canonical:6d6a4808593c914c": "2026-05-09T15:28:15.527Z",
-    "canonical:48cc7c243ca7a828": "2026-05-09T15:28:15.527Z",
     "canonical:b8f79b25e2248442": "2026-05-09T15:28:15.527Z",
     "canonical:02b621020002951f": "2026-05-09T15:28:15.527Z",
     "canonical:fd2e273add870beb": "2026-05-09T15:28:15.527Z",
@@ -2551,7 +2550,6 @@
     "canonical:b70cb8ae1807862e": "2026-05-16T10:16:11.835Z",
     "canonical:998e7e53a3825c4a": "2026-05-16T10:16:11.835Z",
     "canonical:64929fb21caf2839": "2026-05-16T10:16:11.835Z",
-    "canonical:f6ccc8105f8c92a2": "2026-05-16T10:16:11.835Z",
     "canonical:8da1b1a2d8885ec4": "2026-05-16T10:16:11.835Z",
     "canonical:db084586acdf6033": "2026-05-16T10:16:11.835Z",
     "canonical:ab19dbe8ada17e53": "2026-05-16T10:16:11.835Z",
@@ -2911,7 +2909,8 @@
     "canonical:cef1c4aee4877b0b": "2026-05-17T15:34:37.334Z",
     "canonical:58727dbceb874706": "2026-05-17T20:38:52.046Z",
     "canonical:228a0f9fec464463": "2026-05-17T21:36:19.095Z",
-    "canonical:1af66ae0304a6b92": "2026-05-17T21:36:19.095Z"
+    "canonical:1af66ae0304a6b92": "2026-05-17T21:36:19.095Z",
+    "canonical:9f7aa4d799ea7214": "2026-05-17T22:33:43.194Z"
   },
   "jobs": [
     {
@@ -10308,6 +10307,19 @@
       ]
     },
     {
+      "id": "canonical:9f7aa4d799ea7214",
+      "title": "AI Data Analytics Intern",
+      "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/San-Jose-California-United-States-of-America/AI-Data-Analytics-Intern--Summer-2026_JR00024382",
+      "location": "San Jose, CA",
+      "department": "AI/ML/Data",
+      "company": "ABB",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:e385f2e59c505190",
       "title": "Agentic AI Intern",
       "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/San-Jose-California-United-States-of-America/Agentic-AI-Intern--Summer-2026_JR00024219",
@@ -12827,19 +12839,6 @@
       "location": "SF",
       "department": "Software",
       "company": "Sierra",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:48cc7c243ca7a828",
-      "title": "Data Analyst Intern",
-      "url": "https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/DUAL---Dallas-Office/Data-Analyst-Intern_R0016629",
-      "location": "Dallas, TX / Chicago, IL / San Diego, CA",
-      "department": "AI/ML/Data",
-      "company": "Howden",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -19370,19 +19369,6 @@
       "location": "Montreal, QC, Canada / London, UK / Toronto, ON, Canada / SF",
       "department": "AI/ML/Data",
       "company": "Cohere",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:f6ccc8105f8c92a2",
-      "title": "GTM Data Analyst Intern",
-      "url": "https://job-boards.greenhouse.io/everlaw/jobs/4676925006",
-      "location": "Oakland, CA",
-      "department": "AI/ML/Data",
-      "company": "Everlaw",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
