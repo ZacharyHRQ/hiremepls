@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-17T22:33:43.194Z",
+  "generatedAt": "2026-05-17T23:39:35.969Z",
   "companyCount": 64,
   "okCount": 64,
-  "jobCount": 2907,
+  "jobCount": 2908,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -2910,7 +2910,8 @@
     "canonical:58727dbceb874706": "2026-05-17T20:38:52.046Z",
     "canonical:228a0f9fec464463": "2026-05-17T21:36:19.095Z",
     "canonical:1af66ae0304a6b92": "2026-05-17T21:36:19.095Z",
-    "canonical:9f7aa4d799ea7214": "2026-05-17T22:33:43.194Z"
+    "canonical:9f7aa4d799ea7214": "2026-05-17T22:33:43.194Z",
+    "canonical:f6ccc8105f8c92a2": "2026-05-17T23:39:35.969Z"
   },
   "jobs": [
     {
@@ -19369,6 +19370,19 @@
       "location": "Montreal, QC, Canada / London, UK / Toronto, ON, Canada / SF",
       "department": "AI/ML/Data",
       "company": "Cohere",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f6ccc8105f8c92a2",
+      "title": "GTM Data Analyst Intern",
+      "url": "https://job-boards.greenhouse.io/everlaw/jobs/4676925006",
+      "location": "Oakland, CA",
+      "department": "AI/ML/Data",
+      "company": "Everlaw",
       "score": 68,
       "scoreReasons": [
         "high-signal role",

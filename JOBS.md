@@ -1,6 +1,6 @@
 # Open Internships
 
-**2907** internships across **64/64** companies — last updated 2026-05-17.
+**2908** internships across **64/64** companies — last updated 2026-05-17.
 
 ## Companies
 
@@ -401,6 +401,7 @@
 - [Eurofins](#eurofins) (2)
 - [Eventual](#eventual) (1)
 - [Everest (F25)](#everest-f25) (1)
+- [Everlaw](#everlaw) (1)
 - [Eversource Energy](#eversource-energy) (1)
 - [Exegy](#exegy) (1)
 - [Exiger](#exiger) (2)
@@ -4022,6 +4023,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Engineering Intern](https://www.workatastartup.com/jobs/80429) | 56 | San Francisco, CA | — | 2026-05-09 |
+
+## Everlaw
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [GTM Data Analyst Intern](https://job-boards.greenhouse.io/everlaw/jobs/4676925006) | 68 | Oakland, CA | AI/ML/Data | 2026-05-17 |
 
 ## Eversource Energy
 
