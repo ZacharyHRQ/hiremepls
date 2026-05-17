@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-17T14:22:56.881Z",
+  "generatedAt": "2026-05-17T15:34:37.334Z",
   "companyCount": 64,
   "okCount": 64,
-  "jobCount": 2903,
+  "jobCount": 2905,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -2906,7 +2906,9 @@
     "canonical:63ad68bbe0748262": "2026-05-17T09:17:39.096Z",
     "canonical:d6d368fed4744f28": "2026-05-17T09:17:39.096Z",
     "canonical:c5458018da7dff8c": "2026-05-17T09:17:39.096Z",
-    "canonical:c68600eb60d20fd3": "2026-05-17T14:22:56.881Z"
+    "canonical:c68600eb60d20fd3": "2026-05-17T14:22:56.881Z",
+    "canonical:1418788d2c41df95": "2026-05-17T15:34:37.334Z",
+    "canonical:cef1c4aee4877b0b": "2026-05-17T15:34:37.334Z"
   },
   "jobs": [
     {
@@ -22511,6 +22513,20 @@
       ]
     },
     {
+      "id": "canonical:1418788d2c41df95",
+      "title": "Software Engineer Intern",
+      "url": "https://transperfect.wd5.myworkdayjobs.com/transperfect/job/US-New-York-NY-1250-Broadway/Software-Engineer-Intern_R2025-243900",
+      "location": "NYC",
+      "department": "Software",
+      "company": "TransPerfect",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:e10c43fe416339a6",
       "title": "Medicaid Management Information Systems Knowledge Management Intern - Medicaid Management Information Systems - Artificial Intelligence",
       "url": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260003GT",
@@ -23700,6 +23716,19 @@
       "scoreReasons": [
         "high-signal role",
         "new grad",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:cef1c4aee4877b0b",
+      "title": "Platform Technologies Language Design Intern",
+      "url": "https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Santa-Clara-California-United-States/Platform-Technologies-Language-Design-Intern_R-101183",
+      "location": "Santa Clara, CA / Berkeley, CA",
+      "department": "Software",
+      "company": "SiFive",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
         "direct ATS"
       ]
     },

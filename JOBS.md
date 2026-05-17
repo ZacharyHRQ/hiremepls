@@ -1,6 +1,6 @@
 # Open Internships
 
-**2903** internships across **64/64** companies — last updated 2026-05-17.
+**2905** internships across **64/64** companies — last updated 2026-05-17.
 
 ## Companies
 
@@ -913,7 +913,7 @@
 - [Siemens Industry Software Inc.](#siemens-industry-software-inc) (1)
 - [Sierra](#sierra) (1)
 - [Sieve](#sieve) (2)
-- [SiFive](#sifive) (2)
+- [SiFive](#sifive) (3)
 - [Sift](#sift) (1)
 - [Signet Jewelers](#signet-jewelers) (1)
 - [Signify](#signify) (2)
@@ -1054,7 +1054,7 @@
 - [Trane Technologies](#trane-technologies) (9)
 - [Transcard](#transcard) (1)
 - [TransMarket Group](#transmarket-group) (3)
-- [TransPerfect](#transperfect) (1)
+- [TransPerfect](#transperfect) (2)
 - [Trata](#trata) (1)
 - [Trimble](#trimble) (4)
 - [TripleRing](#triplering) (2)
@@ -7874,6 +7874,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Platform Technologies Language Design Intern](https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Santa-Clara-California-United-States/Platform-Technologies-Language-Design-Intern_R-101183) | 68 | Santa Clara, CA / Berkeley, CA | Software | 2026-05-17 |
 | [Intern Platform Technology](https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Austin-Texas-United-States/Intern---Platform-Technology_R-101065) | 68 | Boston, MA / Austin, TX / Cambridge, UK / Santa Clara, CA / Berkeley, CA / Marseille, France | Software | 2026-05-17 |
 | [CPU Design Intern](https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Santa-Clara-California-United-States/CPU-Design-Intern_R-101043) | 58 | Santa Clara, CA | Hardware | 2026-05-17 |
 
@@ -9114,6 +9115,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://transperfect.wd5.myworkdayjobs.com/transperfect/job/US-New-York-NY-1250-Broadway/Software-Engineer-Intern_R2025-243900) | 93 | NYC | Software | 2026-05-17 |
 | [Operations Intern-Data Analytics](https://transperfect.wd5.myworkdayjobs.com/transperfect/job/US-New-York-NY-1250-Broadway/Operations-Intern--Data-Analytics_R2025-243516) | 68 | NYC | AI/ML/Data | 2026-05-09 |
 
 ## Trata
