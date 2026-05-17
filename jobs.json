@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-17T12:56:09.586Z",
+  "generatedAt": "2026-05-17T14:22:56.881Z",
   "companyCount": 64,
   "okCount": 64,
-  "jobCount": 2902,
+  "jobCount": 2903,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -2905,7 +2905,8 @@
     "canonical:8a6c0db00cf45de6": "2026-05-17T09:17:39.096Z",
     "canonical:63ad68bbe0748262": "2026-05-17T09:17:39.096Z",
     "canonical:d6d368fed4744f28": "2026-05-17T09:17:39.096Z",
-    "canonical:c5458018da7dff8c": "2026-05-17T09:17:39.096Z"
+    "canonical:c5458018da7dff8c": "2026-05-17T09:17:39.096Z",
+    "canonical:c68600eb60d20fd3": "2026-05-17T14:22:56.881Z"
   },
   "jobs": [
     {
@@ -20471,6 +20472,19 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c68600eb60d20fd3",
+      "title": "Full Stack Development Intern",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/Full-Stack-Development-Intern_R-00182542",
+      "location": "Orlando, FL",
+      "department": "Software",
+      "company": "Leidos",
+      "score": 68,
+      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
