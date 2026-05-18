@@ -1,6 +1,6 @@
 # Open Internships
 
-**2908** internships across **64/64** companies — last updated 2026-05-17.
+**2903** internships across **64/64** companies — last updated 2026-05-18.
 
 ## Companies
 
@@ -121,7 +121,7 @@
 - [attimet](#attimet) (1)
 - [Auctor](#auctor) (1)
 - [Aurora Innovation](#aurora-innovation) (1)
-- [Autodesk](#autodesk) (2)
+- [Autodesk](#autodesk) (3)
 - [AutoNation](#autonation) (1)
 - [Avanade](#avanade) (1)
 - [Avathon](#avathon) (2)
@@ -350,7 +350,6 @@
 - [Dow Chemical Company](#dow-chemical-company) (1)
 - [Dow Jones](#dow-jones) (1)
 - [Drivetrain](#drivetrain) (1)
-- [DriveWealth](#drivewealth) (1)
 - [Dropbox](#dropbox) (1)
 - [Dryft](#dryft) (1)
 - [DuCharme, McMillen & Associates](#ducharme-mcmillen-associates) (1)
@@ -727,7 +726,7 @@
 - [Nintendo of America](#nintendo-of-america) (1)
 - [Nio](#nio) (2)
 - [Nixo](#nixo) (1)
-- [Nokia](#nokia) (23)
+- [Nokia](#nokia) (22)
 - [NorthMark Strategies](#northmark-strategies) (2)
 - [Northrop Grumman](#northrop-grumman) (1)
 - [Northspyre](#northspyre) (1)
@@ -1004,7 +1003,7 @@
 - [Tempus](#tempus) (2)
 - [Tencent](#tencent) (21)
 - [TENEX.AI](#tenex-ai) (1)
-- [Tenstorrent](#tenstorrent) (10)
+- [Tenstorrent](#tenstorrent) (7)
 - [Teradata](#teradata) (1)
 - [Teradyne](#teradyne) (1)
 - [Terranox AI](#terranox-ai) (1)
@@ -1086,7 +1085,7 @@
 - [University System of New Hampshire](#university-system-of-new-hampshire) (1)
 - [Upsolve](#upsolve) (1)
 - [Valeo](#valeo) (1)
-- [Vanguard](#vanguard) (2)
+- [Vanguard](#vanguard) (1)
 - [Vantage ](#vantage) (1)
 - [Varda Space](#varda-space) (4)
 - [Veeam Software](#veeam-software) (5)
@@ -2024,6 +2023,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [PhD Intern - HCI & Visualization Research](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/PhD-Intern--HCI---Visualization-Research_25WD91740-2) | 68 | Toronto, ON, Canada / SF | AI/ML/Data | 2026-05-18 |
 | [Intern AI Developer](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer---Stagiaire-en-dveloppement-IA_25WD93809-2) | 93 | Montreal, QC, Canada | AI/ML/Data | 2026-05-17 |
 | [Intern Software Engineer - C++/.Net - Months](https://autodesk.wd1.myworkdayjobs.com/uni/job/Sheffield-GBP/Intern--Software-Engineer--C---NET----12-months_26WD95016-1) | 93 | Sheffield, UK | Software | 2026-05-09 |
 
@@ -3673,12 +3673,6 @@
 | --- | --- | --- | --- | --- |
 | [Engineering Intern - Gen AI for FP&a Platform](https://jobs.lever.co/drivetrain/7266784e-530b-4eb5-a61b-b09557f6e98d/apply) | 68 | United States | AI/ML/Data | 2026-05-09 |
 
-## DriveWealth
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI Consulting Associate Program – Engineering Intern - AI CAP](https://boards.greenhouse.io/drivewealth/jobs/7673413003) | 68 | NYC | Software | 2026-05-09 |
-
 ## Dropbox
 
 | Title | Score | Location | Department | First seen |
@@ -4198,7 +4192,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Intern or Co-Op - Analytics Engineer](https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-SC-Anderson/INTERN-OR-CO-OP---Analytics-Engineer_R9813) | 93 | Anderson, SC | AI/ML/Data | 2026-05-16 |
+| [Analytics Engineer Intern/Co-op - Analytics Engineer](https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-SC-Anderson/INTERN-OR-CO-OP---Analytics-Engineer_R9813) | 93 | Anderson, SC | AI/ML/Data | 2026-05-18 |
 
 ## Fiserv
 
@@ -6043,6 +6037,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Research Scientist Intern - Monetization Generative AI - LLM](https://www.metacareers.com/jobs/2916726525182155) | 85 | Seattle, WA / Menlo Park, CA / NYC / Bellevue, WA | AI/ML/Data | 2026-05-18 |
 | [Research Scientist Intern - Multimodal AI](https://www.metacareers.com/jobs/1732424664451603) | 85 | Redmond, WA | AI/ML/Data | 2026-05-15 |
 | [Research Scientist Intern - Multimodal Contextual AI](https://www.metacareers.com/jobs/2160167211413098) | 85 | Redmond, WA | AI/ML/Data | 2026-05-15 |
 | [Data Engineer Intern](https://www.metacareers.com/jobs/1285593229833650) | 85 | Menlo Park, CA | — | 2026-05-09 |
@@ -6057,7 +6052,6 @@
 | [Research Scientist Intern - Applied Vision and Image Quality - PhD](https://www.metacareers.com/jobs/1422892385992613) | 85 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Scientist Intern - Applied Vision in Augmented Reality - PhD](https://www.metacareers.com/jobs/1134286408770089) | 85 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Scientist Intern - Language & Multimodal Foundations](https://www.metacareers.com/jobs/24536664159369645) | 85 | Seattle, WA / Menlo Park, CA | AI/ML/Data | 2026-05-09 |
-| [Research Scientist Intern - Monetization Generative AI - Large Language Models](https://www.metacareers.com/jobs/2916726525182155) | 85 | Menlo Park, CA | AI/ML/Data | 2026-05-09 |
 | [Research Scientist Intern - Optimization - Privacy and Inference](https://www.metacareers.com/jobs/26336808892622129) | 85 | Menlo Park, CA / NYC | AI/ML/Data | 2026-05-09 |
 | [Research Scientist Intern - Photorealistic Telepresence](https://www.metacareers.com/jobs/2022109075207025) | 85 | Sausalito, CA / Redmond, WA / Pittsburgh, PA | AI/ML/Data | 2026-05-09 |
 | [Research Scientist Intern PhD - Applied Research](https://www.metacareers.com/jobs/2633206137040139) | 85 | Menlo Park, CA / NYC / Bellevue, WA | AI/ML/Data | 2026-05-09 |
@@ -6451,7 +6445,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Wearable Intelligence for Sleep Health Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35697) | 60 | Cambridge, UK | AI/ML/Data | 2026-05-12 |
 | [Incubation Developer Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34239) | 85 | Ottawa, ON, Canada | Software | 2026-05-09 |
 | [Incubation Developer Coop/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34227) | 85 | Ottawa, ON, Canada | Software | 2026-05-09 |
 | [Software Developer Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34725) | 85 | Ottawa, ON, Canada | Software | 2026-05-09 |
@@ -8549,13 +8542,10 @@
 | [Design Verification Engineer Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873756007) | 58 | Boston, MA | Hardware | 2026-05-11 |
 | [AI Compiler Software Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873659007) | 68 | Toronto, ON, Canada | Software | 2026-05-09 |
 | [Applied AI Workflow Automation Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5104002007) | 68 | Toronto, ON, Canada / Austin, TX / Santa Clara, CA / Fort Collins, CO | Software | 2026-05-09 |
-| [Design Verification Software Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4522665007) | 68 | Austin, TX / Santa Clara, CA | Software | 2026-05-09 |
 | [Machine Learning Applications & Benchmarking Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4532863007) | 68 | Santa Clara, CA | AI/ML/Data | 2026-05-09 |
 | [Machine Learning for Physical Design Intern - CPU/AI Hardware](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501164007) | 68 | Austin, TX / Santa Clara, CA | AI/ML/Data | 2026-05-09 |
 | [Acceleration Kernel Developer Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4668120007) | 58 | Toronto, ON, Canada | Hardware | 2026-05-09 |
-| [CPU Core Performance Verification Intern - CPU/AI Hardware](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501134007) | 58 | Austin, TX / Santa Clara, CA | Hardware | 2026-05-09 |
 | [Design Verification Intern - RISCV CPU](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501100007) | 58 | Austin, TX / Santa Clara, CA | Hardware | 2026-05-09 |
-| [Physical Design Intern - CPU/AI Hardware](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4526301007) | 58 | Austin, TX / Santa Clara, CA | Hardware | 2026-05-09 |
 
 ## Teradata
 
@@ -9327,7 +9317,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Technology Intern - Ist](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Manchester-United-Kingdom/Technology--IST--Internship---Summer-2026_175112) | 68 | Manchester, UK | Software | 2026-05-17 |
 | [College to Corporate Internship - Application Development (PA)](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed397?utm_source=1099&utm_campaign=Software%20Engineer) | 42 | Malvern, PA | — | 2026-05-16 |
 
 ## Vantage 

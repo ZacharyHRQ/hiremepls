@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-17T23:39:35.969Z",
+  "generatedAt": "2026-05-18T01:33:21.344Z",
   "companyCount": 64,
   "okCount": 64,
-  "jobCount": 2908,
+  "jobCount": 2903,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -146,7 +146,6 @@
     "canonical:64dc660ba9e1d000": "2026-05-06T06:42:07.596Z",
     "canonical:f6939f722bfbce9d": "2026-05-06T06:42:07.596Z",
     "canonical:f9e6bc8e3b3543c3": "2026-05-08T20:53:38.687Z",
-    "canonical:c200634792e35f29": "2026-05-09T15:28:15.527Z",
     "canonical:2e7062322c9a9406": "2026-05-09T15:28:15.527Z",
     "canonical:af79fbc01518a2f4": "2026-05-09T15:28:15.527Z",
     "canonical:f1b66a6a59f7a24b": "2026-05-09T15:28:15.527Z",
@@ -668,9 +667,6 @@
     "canonical:ca36a449c93e7ded": "2026-05-09T15:28:15.527Z",
     "canonical:978c0156e5f37cde": "2026-05-09T15:28:15.527Z",
     "canonical:62a13a07c6199ec0": "2026-05-09T15:28:15.527Z",
-    "canonical:d59891cd778c834e": "2026-05-09T15:28:15.527Z",
-    "canonical:c6a2bcab9c7b0daf": "2026-05-09T15:28:15.527Z",
-    "canonical:c65c53b82b93f93a": "2026-05-09T15:28:15.527Z",
     "canonical:2f8211102b119f96": "2026-05-09T15:28:15.527Z",
     "canonical:ca15a5e244c987c2": "2026-05-09T15:28:15.527Z",
     "canonical:8da55afe8d7ed93f": "2026-05-09T15:28:15.527Z",
@@ -694,7 +690,6 @@
     "canonical:1ae22981c8ef9f13": "2026-05-09T15:28:15.527Z",
     "canonical:602e957a55147267": "2026-05-11T23:38:25.770Z",
     "canonical:6d6a4808593c914c": "2026-05-09T15:28:15.527Z",
-    "canonical:b8f79b25e2248442": "2026-05-09T15:28:15.527Z",
     "canonical:02b621020002951f": "2026-05-09T15:28:15.527Z",
     "canonical:fd2e273add870beb": "2026-05-09T15:28:15.527Z",
     "canonical:a94961c66cb20a3e": "2026-05-09T15:28:15.527Z",
@@ -1252,7 +1247,6 @@
     "canonical:d740b7c5e5a74f25": "2026-05-11T23:38:25.770Z",
     "canonical:c1ba5cce02efb791": "2026-05-12T04:54:37.025Z",
     "canonical:be8b159ede46d401": "2026-05-12T07:37:38.894Z",
-    "canonical:8be10b6edbaae12e": "2026-05-12T15:18:26.429Z",
     "canonical:516f4551e7840110": "2026-05-12T15:18:26.429Z",
     "canonical:2a8d3ecb686342a4": "2026-05-09T15:28:15.527Z",
     "canonical:ce5569247a10aa36": "2026-05-13T22:37:04.081Z",
@@ -2637,7 +2631,6 @@
     "canonical:4232f929dbbc0e7e": "2026-05-16T14:07:37.750Z",
     "canonical:e918bb29e08244f3": "2026-05-16T14:07:37.750Z",
     "canonical:5aaef27664e6e084": "2026-05-16T14:07:37.750Z",
-    "canonical:6d051d8beb5ce622": "2026-05-16T15:13:47.475Z",
     "canonical:2e124c34e34d8ec2": "2026-05-16T15:13:47.475Z",
     "canonical:fa35aad369eb90c3": "2026-05-16T15:13:47.475Z",
     "canonical:614bb89bd4e12550": "2026-05-16T15:13:47.475Z",
@@ -2855,7 +2848,6 @@
     "canonical:03bd1a6aaeb76b83": "2026-05-17T07:19:48.510Z",
     "canonical:103140d49b595a20": "2026-05-17T07:19:48.510Z",
     "canonical:c14a138a6dc2cf7f": "2026-05-17T07:19:48.510Z",
-    "canonical:08c27a78f41cddd0": "2026-05-17T07:19:48.510Z",
     "canonical:8931ea6a532ce996": "2026-05-17T07:19:48.510Z",
     "canonical:5395852a5a431fe6": "2026-05-17T07:19:48.510Z",
     "canonical:120ef9d85630ac7e": "2026-05-17T07:19:48.510Z",
@@ -2911,7 +2903,10 @@
     "canonical:228a0f9fec464463": "2026-05-17T21:36:19.095Z",
     "canonical:1af66ae0304a6b92": "2026-05-17T21:36:19.095Z",
     "canonical:9f7aa4d799ea7214": "2026-05-17T22:33:43.194Z",
-    "canonical:f6ccc8105f8c92a2": "2026-05-17T23:39:35.969Z"
+    "canonical:f6ccc8105f8c92a2": "2026-05-17T23:39:35.969Z",
+    "canonical:a4858410287d0d65": "2026-05-18T01:33:21.344Z",
+    "canonical:773a4bab35a8f78f": "2026-05-18T01:33:21.344Z",
+    "canonical:b81abc03055b6506": "2026-05-18T01:33:21.344Z"
   },
   "jobs": [
     {
@@ -4702,33 +4697,6 @@
       "company": "Cribl",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:6d051d8beb5ce622",
-      "title": "Intern or Co-Op - Analytics Engineer",
-      "url": "https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-SC-Anderson/INTERN-OR-CO-OP---Analytics-Engineer_R9813",
-      "location": "Anderson, SC",
-      "department": "AI/ML/Data",
-      "company": "First Quality",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:c200634792e35f29",
-      "title": "Research Scientist Intern - Monetization Generative AI - Large Language Models",
-      "url": "https://www.metacareers.com/jobs/2916726525182155",
-      "location": "Menlo Park, CA",
-      "department": "AI/ML/Data",
-      "company": "Meta",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
     },
     {
       "id": "canonical:2e7062322c9a9406",
@@ -12422,43 +12390,6 @@
       ]
     },
     {
-      "id": "canonical:d59891cd778c834e",
-      "title": "Physical Design Intern - CPU/AI Hardware",
-      "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4526301007",
-      "location": "Austin, TX / Santa Clara, CA",
-      "department": "Hardware",
-      "company": "Tenstorrent",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:c6a2bcab9c7b0daf",
-      "title": "CPU Core Performance Verification Intern - CPU/AI Hardware",
-      "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501134007",
-      "location": "Austin, TX / Santa Clara, CA",
-      "department": "Hardware",
-      "company": "Tenstorrent",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:c65c53b82b93f93a",
-      "title": "Design Verification Software Intern",
-      "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4522665007",
-      "location": "Austin, TX / Santa Clara, CA",
-      "department": "Software",
-      "company": "Tenstorrent",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:2f8211102b119f96",
       "title": "Dark Wolf Intern",
       "url": "https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7666354003",
@@ -12840,19 +12771,6 @@
       "location": "SF",
       "department": "Software",
       "company": "Sierra",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:b8f79b25e2248442",
-      "title": "AI Consulting Associate Program – Engineering Intern - AI CAP",
-      "url": "https://boards.greenhouse.io/drivewealth/jobs/7673413003",
-      "location": "NYC",
-      "department": "Software",
-      "company": "DriveWealth",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -20432,19 +20350,6 @@
       ]
     },
     {
-      "id": "canonical:08c27a78f41cddd0",
-      "title": "Technology Intern - Ist",
-      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Manchester-United-Kingdom/Technology--IST--Internship---Summer-2026_175112",
-      "location": "Manchester, UK",
-      "department": "Software",
-      "company": "Vanguard",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:15c9ad54e5b37301",
       "title": "Software Development Intern",
       "url": "https://apply.workable.com/altom-transport/j/F2E488D40D/apply",
@@ -22119,18 +22024,6 @@
       ]
     },
     {
-      "id": "canonical:8be10b6edbaae12e",
-      "title": "Wearable Intelligence for Sleep Health Intern",
-      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35697",
-      "location": "Cambridge, UK",
-      "department": "AI/ML/Data",
-      "company": "Nokia",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:516f4551e7840110",
       "title": "Artificial Intelligence Engineer Intern - Artificial Intelligence",
       "url": "https://www.pindrop.com/careers/job-title/?gh_jid=7899137",
@@ -23773,6 +23666,46 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:a4858410287d0d65",
+      "title": "PhD Intern - HCI & Visualization Research",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/PhD-Intern--HCI---Visualization-Research_25WD91740-2",
+      "location": "Toronto, ON, Canada / SF",
+      "department": "AI/ML/Data",
+      "company": "Autodesk",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:773a4bab35a8f78f",
+      "title": "Analytics Engineer Intern/Co-op - Analytics Engineer",
+      "url": "https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-SC-Anderson/INTERN-OR-CO-OP---Analytics-Engineer_R9813",
+      "location": "Anderson, SC",
+      "department": "AI/ML/Data",
+      "company": "First Quality",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:b81abc03055b6506",
+      "title": "Research Scientist Intern - Monetization Generative AI - LLM",
+      "url": "https://www.metacareers.com/jobs/2916726525182155",
+      "location": "Seattle, WA / Menlo Park, CA / NYC / Bellevue, WA",
+      "department": "AI/ML/Data",
+      "company": "Meta",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
