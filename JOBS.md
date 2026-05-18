@@ -1,6 +1,6 @@
 # Open Internships
 
-**2873** internships across **64/64** companies — last updated 2026-05-18.
+**2871** internships across **64/64** companies — last updated 2026-05-18.
 
 ## Companies
 
@@ -257,7 +257,6 @@
 - [Cloudforce](#cloudforce) (2)
 - [Cloudglue - YC](#cloudglue-yc) (1)
 - [CME Group](#cme-group) (2)
-- [Cobalt](#cobalt) (1)
 - [CoBank](#cobank) (1)
 - [Cockroach Labs](#cockroach-labs) (1)
 - [Codeage](#codeage) (1)
@@ -498,7 +497,7 @@
 - [Haize Labs](#haize-labs) (1)
 - [Halliburton](#halliburton) (2)
 - [Handshake](#handshake) (1)
-- [Harris Computer](#harris-computer) (2)
+- [Harris Computer](#harris-computer) (1)
 - [Harvey](#harvey) (1)
 - [Hayden AI](#hayden-ai) (1)
 - [HCompany](#hcompany) (1)
@@ -542,7 +541,6 @@
 - [Illumio](#illumio) (4)
 - [IMC](#imc) (4)
 - [IMC Trading](#imc-trading) (10)
-- [Imerys](#imerys) (1)
 - [Impel](#impel) (1)
 - [Impulse Space](#impulse-space) (2)
 - [Infojini](#infojini) (1)
@@ -859,7 +857,7 @@
 - [Rolls Royce](#rolls-royce) (7)
 - [Rolls-Royce Motorcars](#rolls-royce-motorcars) (3)
 - [Root Access](#root-access) (1)
-- [Royal Bank of Canada](#royal-bank-of-canada) (7)
+- [Royal Bank of Canada](#royal-bank-of-canada) (6)
 - [RTW Investments](#rtw-investments) (1)
 - [RTX](#rtx) (8)
 - [Rundoo](#rundoo) (1)
@@ -964,6 +962,7 @@
 - [State of Nebraska](#state-of-nebraska) (1)
 - [State Street](#state-street) (2)
 - [Stevens Capital Management](#stevens-capital-management) (1)
+- [Stevens Institute of Technology](#stevens-institute-of-technology) (1)
 - [Stifel](#stifel) (2)
 - [StoneX Group](#stonex-group) (1)
 - [Streamable](#streamable) (1)
@@ -1086,7 +1085,7 @@
 - [Valeo](#valeo) (1)
 - [Vanguard](#vanguard) (1)
 - [Vantage ](#vantage) (1)
-- [Varda Space](#varda-space) (3)
+- [Varda Space](#varda-space) (4)
 - [Veeam Software](#veeam-software) (5)
 - [Veeva](#veeva) (1)
 - [Veeva Systems](#veeva-systems) (1)
@@ -1108,7 +1107,6 @@
 - [Visier Solutions](#visier-solutions) (1)
 - [Vital Lyfe](#vital-lyfe) (1)
 - [vly.ai](#vly-ai) (2)
-- [Volaris Group](#volaris-group) (1)
 - [Voloridge Health](#voloridge-health) (2)
 - [Voloridge Investment Management](#voloridge-investment-management) (1)
 - [Voltair](#voltair) (1)
@@ -1146,7 +1144,7 @@
 - [Woven](#woven) (1)
 - [WSP](#wsp) (1)
 - [WTW](#wtw) (1)
-- [X Development](#x-development) (2)
+- [X Development](#x-development) (3)
 - [Xantium](#xantium) (1)
 - [Xebia](#xebia) (1)
 - [Xometry](#xometry) (2)
@@ -3054,12 +3052,6 @@
 | [Post Grad Data Science Intern](https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/London---Fruit--Wool-Exchange/Post-Grad-Data-Science-Intern---Current-PhD-Students_33785) | 68 | London, UK | AI/ML/Data | 2026-05-17 |
 | [Quant Risk Management Intern](https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/New-York---300-Vesey-Street/Quant-Risk-Management-Intern---Year-Round_34255) | 68 | NYC | Quant | 2026-05-09 |
 
-## Cobalt
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Science - Agentic AI Intern](https://job-boards.greenhouse.io/cobaltio/jobs/8512243002) | 68 | Remote in US | Data Science, AI & Machine Learning | 2026-05-09 |
-
 ## CoBank
 
 | Title | Score | Location | Department | First seen |
@@ -4706,7 +4698,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Developer Intern](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---UK/Software-Developer---Intern_R0043779-1) | 93 | Remote in UK | Software | 2026-05-16 |
 | [Health Informatics Intern](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---Saskatchewan/Intern_R0040214) | 68 | Remote in Canada | AI/ML/Data | 2026-05-16 |
 
 ## Harvey
@@ -5016,8 +5007,8 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Hardware Machine Learning PhD Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, IL | AI/ML/Data | 2026-05-09 |
-| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
+| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Hardware Machine Learning PhD Research Internship](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, United States | — | 2026-05-06 |
 | [Graduate Broker Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4608590101) | 64 | Chicago, United States | — | 2026-05-06 |
 | [Graduate Floor Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4786701101) | 64 | Chicago, United States; Miami, United States; New York, United States; Philadelphia, United States; San Francisco, United States | — | 2026-05-06 |
@@ -5025,12 +5016,6 @@
 | [Graduate Trader (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564495101) | 64 | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Graduate Trading Operations Specialist](https://job-boards.eu.greenhouse.io/imc/jobs/4608591101) | 64 | Chicago, United States | — | 2026-05-06 |
 | [Hardware Engineer Intern 2026/27](https://job-boards.eu.greenhouse.io/imc/jobs/4742629101) | 58 | Sydney,  Australia | — | 2026-05-06 |
-
-## Imerys
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [S&T Data Solidation & AI Analysis - Intern](https://imerys.wd3.myworkdayjobs.com/en-US/imerys-careers/job/Johns-Creek-Georgia-USA/S-T-Data-Solidation---AI-Analysis---Intern_REQ-11301) | 68 | Johns Creek, GA | Data Science, AI & Machine Learning | 2026-05-09 |
 
 ## Impel
 
@@ -7477,7 +7462,6 @@
 | [Student Intern - Data Analyst](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Fall-2026-Student---Data-Analyst--MFD--PEY-12-month-_R-0000172016) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-05-14 |
 | [Relationship Manager Business Markets Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/OWEN-SOUND-Ontario-Canada/Relationship-Manager-Business-Markets-Intern_R-0000171834) | 68 | Port Elgin, ON, Canada | Quant | 2026-05-14 |
 | [Relationship Manager Commercial Markets Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/ST-JOHNS-Newfoundland-and-Labrador-Canada/Relationship-Manager-Commercial-Markets-Intern_R-0000171841) | 68 | St. John's, NL, Canada | Quant | 2026-05-11 |
-| [Credit Modeling & Methodology Intern - Credit Data Analyst](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Credit-Data-Analyst---Credit-Modeling---Methodology-Intern--4-Months-_R-0000170102) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
 | [Wealth Management Data Analyst Intern](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/Wellesley-Massachusetts-United-States-of-America/XMLNAME-2026-Wealth-Management-Summer-Data-Analyst--4-Months-_R-0000170593) | 68 | Needham, MA | AI/ML/Data | 2026-05-09 |
 
 ## RTW Investments
@@ -8212,6 +8196,12 @@
 | --- | --- | --- | --- | --- |
 | [Quantitative Research Analyst Internship](https://job-boards.greenhouse.io/scminternships/jobs/1146416) | 68 | Villanova, PA | Quant | 2026-05-09 |
 
+## Stevens Institute of Technology
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Visiting Intern](https://stevens.wd5.myworkdayjobs.com/External/job/Hoboken-NJ---Main-Campus/Visiting-Intern-Summer-2026_RQ30034) | 68 | Union City, NJ | AI/ML/Data | 2026-05-18 |
+
 ## Stifel
 
 | Title | Score | Location | Department | First seen |
@@ -8250,7 +8240,7 @@
 | [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7216664) | 85 | San Francisco, New York City, Seattle | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
-| [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7913505) | 56 | Mexico City, Mexico | — | 2026-05-06 |
+| [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | 56 | Mexico City, Mexico | — | 2026-05-06 |
 | [Tech Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7718947) | 56 | Mexico City, Mexico | — | 2026-05-06 |
 
 ## SubImage - YC(W25)
@@ -8479,7 +8469,7 @@
 | [Software Engineer Intern - Backend Development](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Software-Engineering-Intern--Backend-Development_R107174-1) | 93 | London, UK | Software | 2026-05-17 |
 | [Multimedia Codec Development Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Multimedia-Codec-Development-Intern_R106769) | 68 | Palo Alto, CA | AI/ML/Data | 2026-05-17 |
 | [Research Internship-Multimodal LLM - Speech/Music/Audio/Vision/Language](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-Washington-Bellevue/Research-Internship--Multimodal-LLM--Speech-Music-Audio-Vision-Language-_R106334) | 68 | Bellevue, WA | AI/ML/Data | 2026-05-17 |
-| [Data Science Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Data-Science-Intern_R107184) | 68 | Palo Alto, CA | AI/ML/Data | 2026-05-17 |
+| [Data Science Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Data-Science-Intern_R106915) | 68 | Palo Alto, CA | AI/ML/Data | 2026-05-17 |
 | [NLP Research Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/NLP-Research-Intern_R106758-1) | 68 | London, UK | AI/ML/Data | 2026-05-17 |
 | [Research Intern - Video World Models](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Research-Intern---Video-World-Models_R106904-1) | 68 | Palo Alto, CA | AI/ML/Data | 2026-05-17 |
 | [Product Manager Intern - Influencer Marketing](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Netherlands-Amsterdam/Product-Manager-Intern--Influencer-Marketing_R107233-1) | 38 | London, UK | Product | 2026-05-17 |
@@ -8960,7 +8950,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Intern - Applications, AI and Machine Learning](https://apply.workable.com/tmeic-corporation-americas/j/8B7205061B/) | 68 | Roanoke, VA | Data Science, AI & Machine Learning | 2026-05-09 |
+| [Intern - Applications, AI and Machine Learning](https://apply.workable.com/tmeic-corporation-americas/j/FD4C9770FF/) | 68 | Roanoke, VA | Data Science, AI & Machine Learning | 2026-05-09 |
 
 ## TNS
 
@@ -9295,6 +9285,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Mission Software – Intern - Python](https://job-boards.greenhouse.io/vardaspace/jobs/7676465003) | 68 | El Segundo, CA | Software | 2026-05-18 |
 | [Applications Engineering Internship](https://job-boards.greenhouse.io/vardaspace/jobs/7732511003) | 68 | El Segundo, CA | AI/ML/Data | 2026-05-14 |
 | [Mission Operations Intern](https://job-boards.greenhouse.io/vardaspace/jobs/7663358003) | 68 | El Segundo, CA | Software | 2026-05-09 |
 | [Automation & Test Intern](https://job-boards.greenhouse.io/vardaspace/jobs/7663353003) | 58 | El Segundo, CA | Hardware | 2026-05-09 |
@@ -9451,12 +9442,6 @@
 | --- | --- | --- | --- | --- |
 | [Frontend Engineering Intern](https://www.workatastartup.com/jobs/76804) | 91 | San Francisco, CA / Remote | — | 2026-05-09 |
 | [Full-Stack + Applied AI Software Engineering Intern](https://www.workatastartup.com/jobs/76805) | 66 | San Francisco, CA | — | 2026-05-09 |
-
-## Volaris Group
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI Software Enablement Intern](https://volarisgroup.wd3.myworkdayjobs.com/en-US/volaris/job/United-States---TX/AI-Software-Enablement-Intern_R66797) | 68 | Dallas, TX | Data Science, AI & Machine Learning | 2026-05-09 |
 
 ## Voloridge Health
 
@@ -9720,6 +9705,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [PhD Residency Intern](https://x.company/careers/8511401002?gh_jid=8511401002) | 60 | Mountain View, CA | AI/ML/Data | 2026-05-18 |
 | [PhD / Masters Residency Intern - Machine Learning / Software Engineering](https://x.company/careers/8515901002?gh_jid=8515901002) | 60 | Mountain View, CA | AI/ML/Data | 2026-05-16 |
 | [PhD Residency Intern - Operations Research and Optimization](https://x.company/careers/8511395002?gh_jid=8511395002) | 60 | Mountain View, CA | AI/ML/Data | 2026-05-13 |
 
