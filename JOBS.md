@@ -1,6 +1,6 @@
 # Open Internships
 
-**2884** internships across **64/64** companies — last updated 2026-05-18.
+**2873** internships across **64/64** companies — last updated 2026-05-18.
 
 ## Companies
 
@@ -138,7 +138,7 @@
 - [Axsome Therapeutics Inc](#axsome-therapeutics-inc) (1)
 - [Axway](#axway) (3)
 - [BAE Systems](#bae-systems) (13)
-- [Baker Hughes](#baker-hughes) (2)
+- [Baker Hughes](#baker-hughes) (1)
 - [Balyasny Asset Management](#balyasny-asset-management) (5)
 - [Bank of America](#bank-of-america) (5)
 - [Bank of Montreal](#bank-of-montreal) (6)
@@ -439,7 +439,7 @@
 - [Fortive](#fortive) (2)
 - [Forvis Mazars US](#forvis-mazars-us) (1)
 - [Foundation ](#foundation) (1)
-- [FOX](#fox) (2)
+- [FOX](#fox) (3)
 - [Freddie Mac](#freddie-mac) (1)
 - [Fresco (F24)](#fresco-f24) (1)
 - [GAINS](#gains) (1)
@@ -646,7 +646,7 @@
 - [Lynk](#lynk) (1)
 - [M&T Bank](#m-t-bank) (1)
 - [Mach9](#mach9) (2)
-- [Mackenzie Investments](#mackenzie-investments) (2)
+- [Mackenzie Investments](#mackenzie-investments) (1)
 - [Macy's](#macy-s) (2)
 - [Maersk](#maersk) (1)
 - [Magna](#magna) (5)
@@ -859,7 +859,7 @@
 - [Rolls Royce](#rolls-royce) (7)
 - [Rolls-Royce Motorcars](#rolls-royce-motorcars) (3)
 - [Root Access](#root-access) (1)
-- [Royal Bank of Canada](#royal-bank-of-canada) (13)
+- [Royal Bank of Canada](#royal-bank-of-canada) (7)
 - [RTW Investments](#rtw-investments) (1)
 - [RTX](#rtx) (8)
 - [Rundoo](#rundoo) (1)
@@ -964,7 +964,6 @@
 - [State of Nebraska](#state-of-nebraska) (1)
 - [State Street](#state-street) (2)
 - [Stevens Capital Management](#stevens-capital-management) (1)
-- [Stevens Institute of Technology](#stevens-institute-of-technology) (1)
 - [Stifel](#stifel) (2)
 - [StoneX Group](#stonex-group) (1)
 - [Streamable](#streamable) (1)
@@ -1017,7 +1016,7 @@
 - [The Boeing Company](#the-boeing-company) (1)
 - [The Clorox Company](#the-clorox-company) (1)
 - [The D. E. Shaw Group](#the-d-e-shaw-group) (1)
-- [The Exploration Company](#the-exploration-company) (2)
+- [The Exploration Company](#the-exploration-company) (1)
 - [The Hanover](#the-hanover) (1)
 - [The State Bar of California](#the-state-bar-of-california) (1)
 - [The Toro Company](#the-toro-company) (1)
@@ -1087,7 +1086,7 @@
 - [Valeo](#valeo) (1)
 - [Vanguard](#vanguard) (1)
 - [Vantage ](#vantage) (1)
-- [Varda Space](#varda-space) (4)
+- [Varda Space](#varda-space) (3)
 - [Veeam Software](#veeam-software) (5)
 - [Veeva](#veeva) (1)
 - [Veeva Systems](#veeva-systems) (1)
@@ -1147,7 +1146,7 @@
 - [Woven](#woven) (1)
 - [WSP](#wsp) (1)
 - [WTW](#wtw) (1)
-- [X Development](#x-development) (3)
+- [X Development](#x-development) (2)
 - [Xantium](#xantium) (1)
 - [Xebia](#xebia) (1)
 - [Xometry](#xometry) (2)
@@ -2148,7 +2147,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Month Emerging Talent – Software Intern Opportunities](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-NU-CRAMLINGTON-ATLEY-WAY-NORTH-NELSON-INDUSTRIAL-ESTATE/XMLNAME-12-month-Emerging-Talent---Software-Intern-2026-Opportunities--Cramlington-_R162706) | 68 | Newcastle upon Tyne, UK | Software | 2026-05-16 |
 | [Product Management Intern/Co-op - Product Management](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-NY-SKANEATELES-721-VISIONS-DRIVE/Product-Management---Spring-Co-op-Internship--Skaneateles--NY--2026-Opportunities_R156044) | 58 | Auburn, NY | Product | 2026-05-09 |
 
 ## Balyasny Asset Management
@@ -3006,7 +3004,7 @@
 | [Product Manager Intern - Summer 2026](https://boards.greenhouse.io/cloudflare/jobs/7362113) | 58 | Austin, TX | Product | 2026-05-09 |
 | [Product Marketing Engineer Intern – Intern - AI & Automation](https://boards.greenhouse.io/cloudflare/jobs/7781953) | 48 | Austin, TX | Software | 2026-05-09 |
 | [Marketing Events and Campaigns Intern (Mid-Year 2026)](https://boards.greenhouse.io/cloudflare/jobs/7736919?gh_jid=7736919) | 38 | In-Office | — | 2026-05-07 |
-| [Security Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169) | 93 | In-Office | — | 2026-05-06 |
+| [Security Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150) | 93 | In-Office | — | 2026-05-06 |
 | [Business Analyst Intern, Revenue Operations (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7761468?gh_jid=7761468) | 58 | In-Office | — | 2026-05-06 |
 | [Customer Advocacy Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7743202?gh_jid=7743202) | 58 | In-Office | — | 2026-05-06 |
 | [CxO Transformation Partners Intern - (Summer/Spring/Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7786702?gh_jid=7786702) | 58 | In-Office | — | 2026-05-06 |
@@ -4289,6 +4287,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [FOX News Media Internship Program Intern - Data Analytics](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Fall-2026-FOX-News-Media-Internship-Program---Data-Analytics---New-York_R50032616-1) | 68 | NYC | AI/ML/Data | 2026-05-18 |
 | [Business Operations Intern/Co-op - Data Analytics](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Summer-2026-FOX-News-Media-Internship-Program---Data-Analytics---New-York_R50030083) | 58 | NYC | — | 2026-05-09 |
 | [Technology Internship Program](https://fox.wd1.myworkdayjobs.com/Domestic/job/USA---AZ---Tempe---2010-E-Centennial-Cir/Summer-2026-FOX-Technology-Internship-Program---Tempe--AZ_R50030120) | 58 | Tempe, AZ | — | 2026-05-09 |
 
@@ -5809,7 +5808,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Fixed Income Software Developer Platform Intern](https://careersen-mackenzieinvestments.icims.com/jobs/5628/summer-2026---investment-management---fixed-income-software-developer-platform-intern/job) | 85 | Toronto, ON, CA | — | 2026-05-09 |
-| [Intern - Data Engineering Delivery](https://careersen-mackenzieinvestments.icims.com/jobs/5889/job?mobile=true&needsRedirect=false) | 60 | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
 
 ## Macy's
 
@@ -7475,18 +7473,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Wealth Management – Distribution Product Management Intern](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/VANCOUVER-British-Columbia-Canada/XMLNAME-2026-Wealth-Management--Fall-Distribution-Product-Management-Intern--12-months-_R-0000167778) | 58 | Vancouver, BC, Canada | Product | 2026-05-16 |
-| [GAM – Portfolio Solutions Intern](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2026-GAM--Fall-Portfolio-Solutions-Intern--8-months-_R-0000167895) | 58 | Toronto, ON, Canada | Product | 2026-05-16 |
-| [Data Engineer Intern - Group Risk Management - 4 Months](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Data-Engineer-Intern--4-Months-_R-0000169658-2) | 93 | Toronto, ON, Canada | AI/ML/Data | 2026-05-16 |
 | [CFO – Data Analyst Intern](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-CFO--Fall-Data-Analyst--Capital---Liquidity-Measurement---Reporting--8-months-_R-0000171752) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-05-16 |
-| [Global Risk Analytics Intern - Grm - 4 Months](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Global-Risk-Analytics-Intern--4-Months-_R-0000168758-2) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-05-16 |
 | [Student Intern - Data Analyst](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Fall-2026-Student---Data-Analyst--MFD--PEY-12-month-_R-0000172016) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-05-14 |
 | [Relationship Manager Business Markets Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/OWEN-SOUND-Ontario-Canada/Relationship-Manager-Business-Markets-Intern_R-0000171834) | 68 | Port Elgin, ON, Canada | Quant | 2026-05-14 |
 | [Relationship Manager Commercial Markets Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/ST-JOHNS-Newfoundland-and-Labrador-Canada/Relationship-Manager-Commercial-Markets-Intern_R-0000171841) | 68 | St. John's, NL, Canada | Quant | 2026-05-11 |
-| [Data Science Intern - Grm - 4 Months](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Data-Science-Intern--4-Months-_R-0000169712-1) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
-| [Data Scientist Intern](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Data-Scientist-Intern--4-Months-_R-0000168335-1) | 93 | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
 | [Credit Modeling & Methodology Intern - Credit Data Analyst](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Credit-Data-Analyst---Credit-Modeling---Methodology-Intern--4-Months-_R-0000170102) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
 | [Wealth Management Data Analyst Intern](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/Wellesley-Massachusetts-United-States-of-America/XMLNAME-2026-Wealth-Management-Summer-Data-Analyst--4-Months-_R-0000170593) | 68 | Needham, MA | AI/ML/Data | 2026-05-09 |
-| [Global Asset Management – Product Management Intern](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2026-Global-Asset-Management--Product-Management-Intern-Fall-Winter--8-months-_R-0000169633) | 58 | Toronto, ON, Canada | Product | 2026-05-09 |
 
 ## RTW Investments
 
@@ -8220,12 +8212,6 @@
 | --- | --- | --- | --- | --- |
 | [Quantitative Research Analyst Internship](https://job-boards.greenhouse.io/scminternships/jobs/1146416) | 68 | Villanova, PA | Quant | 2026-05-09 |
 
-## Stevens Institute of Technology
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Visiting Intern](https://stevens.wd5.myworkdayjobs.com/External/job/Hoboken-NJ---Main-Campus/Visiting-Intern-Summer-2026_RQ30034) | 68 | Union City, NJ | AI/ML/Data | 2026-05-17 |
-
 ## Stifel
 
 | Title | Score | Location | Department | First seen |
@@ -8493,7 +8479,7 @@
 | [Software Engineer Intern - Backend Development](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Software-Engineering-Intern--Backend-Development_R107174-1) | 93 | London, UK | Software | 2026-05-17 |
 | [Multimedia Codec Development Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Multimedia-Codec-Development-Intern_R106769) | 68 | Palo Alto, CA | AI/ML/Data | 2026-05-17 |
 | [Research Internship-Multimodal LLM - Speech/Music/Audio/Vision/Language](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-Washington-Bellevue/Research-Internship--Multimodal-LLM--Speech-Music-Audio-Vision-Language-_R106334) | 68 | Bellevue, WA | AI/ML/Data | 2026-05-17 |
-| [Data Science Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Data-Science-Intern_R106915) | 68 | Palo Alto, CA | AI/ML/Data | 2026-05-17 |
+| [Data Science Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Data-Science-Intern_R107184) | 68 | Palo Alto, CA | AI/ML/Data | 2026-05-17 |
 | [NLP Research Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/NLP-Research-Intern_R106758-1) | 68 | London, UK | AI/ML/Data | 2026-05-17 |
 | [Research Intern - Video World Models](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Research-Intern---Video-World-Models_R106904-1) | 68 | Palo Alto, CA | AI/ML/Data | 2026-05-17 |
 | [Product Manager Intern - Influencer Marketing](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Netherlands-Amsterdam/Product-Manager-Intern--Influencer-Marketing_R107233-1) | 38 | London, UK | Product | 2026-05-17 |
@@ -8672,7 +8658,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Crew Systems Engineering Intern - Avionics/Software](https://jobs.ashbyhq.com/the-exploration-company/da63221d-dd60-41fe-8dd5-bb1a565a7824) | 68 | Houston, TX | Software Engineering | 2026-05-09 |
-| [Crew Systems Engineering Intern-Software](https://jobs.ashbyhq.com/the-exploration-company/da63221d-dd60-41fe-8dd5-bb1a565a7824/application) | 68 | Houston, TX | Software | 2026-05-09 |
 
 ## The Hanover
 
@@ -9311,7 +9296,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Applications Engineering Internship](https://job-boards.greenhouse.io/vardaspace/jobs/7732511003) | 68 | El Segundo, CA | AI/ML/Data | 2026-05-14 |
-| [Mission Software – Intern - Python](https://job-boards.greenhouse.io/vardaspace/jobs/7676465003) | 68 | El Segundo, CA | Software | 2026-05-14 |
 | [Mission Operations Intern](https://job-boards.greenhouse.io/vardaspace/jobs/7663358003) | 68 | El Segundo, CA | Software | 2026-05-09 |
 | [Automation & Test Intern](https://job-boards.greenhouse.io/vardaspace/jobs/7663353003) | 58 | El Segundo, CA | Hardware | 2026-05-09 |
 
@@ -9737,7 +9721,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [PhD / Masters Residency Intern - Machine Learning / Software Engineering](https://x.company/careers/8515901002?gh_jid=8515901002) | 60 | Mountain View, CA | AI/ML/Data | 2026-05-16 |
-| [PhD Residency Intern](https://x.company/careers/8511401002?gh_jid=8511401002) | 60 | Mountain View, CA | AI/ML/Data | 2026-05-13 |
 | [PhD Residency Intern - Operations Research and Optimization](https://x.company/careers/8511395002?gh_jid=8511395002) | 60 | Mountain View, CA | AI/ML/Data | 2026-05-13 |
 
 ## Xantium
