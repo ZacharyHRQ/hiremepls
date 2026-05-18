@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-18T20:09:59.230Z",
+  "generatedAt": "2026-05-18T21:36:15.508Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 2833,
+  "jobCount": 2828,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -21,7 +21,6 @@
     "canonical:deba20522af655b8": "2026-05-06T06:42:07.596Z",
     "canonical:da3af0a78a201794": "2026-05-06T06:42:07.596Z",
     "canonical:f310a07d27c1f3e6": "2026-05-06T06:42:07.596Z",
-    "canonical:328c347fd9ebfa0a": "2026-05-06T06:42:07.596Z",
     "canonical:e92aac66bea6b9e8": "2026-05-06T06:42:07.596Z",
     "canonical:2c64f09a667484dc": "2026-05-06T06:42:07.596Z",
     "canonical:3da29474133891d8": "2026-05-15T12:06:03.304Z",
@@ -884,7 +883,6 @@
     "canonical:1193b6fdb6c30a9f": "2026-05-09T15:28:15.527Z",
     "canonical:79b3e05c491f9d88": "2026-05-09T15:28:15.527Z",
     "canonical:a36244d5c7114c7e": "2026-05-14T23:10:51.689Z",
-    "canonical:4b411595edc4474d": "2026-05-15T23:35:38.383Z",
     "canonical:687c3378f51e2c93": "2026-05-13T23:40:40.818Z",
     "canonical:39a291f7fafae758": "2026-05-09T15:28:15.527Z",
     "canonical:9abe8e5891218167": "2026-05-09T15:28:15.527Z",
@@ -1166,7 +1164,6 @@
     "canonical:33a5184d46de0f7f": "2026-05-09T15:28:15.527Z",
     "canonical:fb504a6efd3146f5": "2026-05-09T15:28:15.527Z",
     "canonical:06b314c3446d5152": "2026-05-09T15:28:15.527Z",
-    "canonical:038c94382fe7d197": "2026-05-09T15:28:15.527Z",
     "canonical:c9d0851b51fe92db": "2026-05-09T15:28:15.527Z",
     "canonical:1782ca39c8f2f506": "2026-05-14T01:31:29.727Z",
     "canonical:77b3b8028841582a": "2026-05-09T15:28:15.527Z",
@@ -2790,7 +2787,6 @@
     "canonical:44f19da18816f575": "2026-05-17T07:19:48.510Z",
     "canonical:67ccd22e793162a9": "2026-05-17T07:19:48.510Z",
     "canonical:85f938c896a579e7": "2026-05-17T07:19:48.510Z",
-    "canonical:88bb1600b7aab6a8": "2026-05-17T07:19:48.510Z",
     "canonical:614b1b003606988c": "2026-05-17T07:19:48.510Z",
     "canonical:133608b1bfb1c38e": "2026-05-17T09:17:39.096Z",
     "canonical:53f6a277d4583b60": "2026-05-17T09:17:39.096Z",
@@ -2815,7 +2811,6 @@
     "canonical:63ad68bbe0748262": "2026-05-17T09:17:39.096Z",
     "canonical:d6d368fed4744f28": "2026-05-17T09:17:39.096Z",
     "canonical:c5458018da7dff8c": "2026-05-17T09:17:39.096Z",
-    "canonical:c68600eb60d20fd3": "2026-05-17T14:22:56.881Z",
     "canonical:1418788d2c41df95": "2026-05-17T15:34:37.334Z",
     "canonical:cef1c4aee4877b0b": "2026-05-17T15:34:37.334Z",
     "canonical:58727dbceb874706": "2026-05-17T20:38:52.046Z",
@@ -3053,16 +3048,6 @@
       "title": "Campus Crypto Researcher (Intern)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=7362318",
       "location": "London",
-      "department": "",
-      "company": "Jump Trading",
-      "score": 50,
-      "scoreReasons": []
-    },
-    {
-      "id": "canonical:328c347fd9ebfa0a",
-      "title": "Campus Tech Ops Engineer (Dec 2026 - Feb 2027 Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7543260",
-      "location": "Sydney",
       "department": "",
       "company": "Jump Trading",
       "score": 50,
@@ -11702,7 +11687,7 @@
     {
       "id": "canonical:f9f7e530a72e7246",
       "title": "Intern Software Engineer",
-      "url": "https://jobs.ashbyhq.com/haydenai/0e567d78-e519-486c-9136-bc3eda60954d/application",
+      "url": "https://jobs.ashbyhq.com/haydenai/b577f0a4-d5c7-450d-b302-5b7b9946c020/application",
       "location": "SF",
       "department": "Software",
       "company": "Hayden AI",
@@ -13157,20 +13142,6 @@
       "company": "Level AI",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:88bb1600b7aab6a8",
-      "title": "Software Developer – Intern",
-      "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-NY-Albany/Summer-2026-Software-Developer--Intern-_RQ216779-2",
-      "location": "Albany, NY",
-      "department": "Software",
-      "company": "General Dynamics Information Technology",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -15712,19 +15683,6 @@
       "location": "San Carlos, CA",
       "department": "Software",
       "company": "Equinix",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:4b411595edc4474d",
-      "title": "IT Internship - Computer Science",
-      "url": "https://job-boards.greenhouse.io/jencapinc/jobs/5100074007",
-      "location": "NYC",
-      "department": "Software",
-      "company": "Jencap",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -19624,19 +19582,6 @@
       ]
     },
     {
-      "id": "canonical:c68600eb60d20fd3",
-      "title": "Full Stack Development Intern",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/Full-Stack-Development-Intern_R-00182542",
-      "location": "Orlando, FL",
-      "department": "Software",
-      "company": "Leidos",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:9f4992259e91b180",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/skydio/f6320e9b-4eed-408d-8d37-d509fb0406ee/application",
@@ -20491,19 +20436,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:038c94382fe7d197",
-      "title": "Product Marketing Intern",
-      "url": "https://job-boards.greenhouse.io/commvault/jobs/5051754008",
-      "location": "Remote in USA",
-      "department": "Product",
-      "company": "Commvault",
-      "score": 38,
-      "scoreReasons": [
-        "direct ATS",
-        "lower-fit title"
       ]
     },
     {

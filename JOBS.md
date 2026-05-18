@@ -1,6 +1,6 @@
 # Open Internships
 
-**2833** internships across **63/64** companies — last updated 2026-05-18.
+**2828** internships across **63/64** companies — last updated 2026-05-18.
 
 ## Companies
 
@@ -266,7 +266,6 @@
 - [Commonwealth of Massachusetts](#commonwealth-of-massachusetts) (11)
 - [CommScope](#commscope) (1)
 - [Commure](#commure) (1)
-- [Commvault](#commvault) (1)
 - [Compa](#compa) (1)
 - [Comstock Companies](#comstock-companies) (1)
 - [Conagra Brands](#conagra-brands) (2)
@@ -450,7 +449,6 @@
 - [Gemini](#gemini) (1)
 - [General Astronautics](#general-astronautics) (1)
 - [General Dynamics](#general-dynamics) (1)
-- [General Dynamics Information Technology](#general-dynamics-information-technology) (1)
 - [General Dynamics Mission Systems](#general-dynamics-mission-systems) (10)
 - [General Dynamics Mission Systems, Inc.](#general-dynamics-mission-systems-inc) (2)
 - [General Motors](#general-motors) (2)
@@ -571,7 +569,6 @@
 - [Jade Global](#jade-global) (2)
 - [Jain Global](#jain-global) (1)
 - [Jane Street](#jane-street) (12)
-- [Jencap](#jencap) (1)
 - [JINGDONG](#jingdong) (2)
 - [John Deere](#john-deere) (1)
 - [Johnson & Johnson](#johnson-johnson) (1)
@@ -582,7 +579,7 @@
 - [JP Morgan Chase](#jp-morgan-chase) (3)
 - [JPMorgan Chase](#jpmorgan-chase) (1)
 - [Jumio](#jumio) (1)
-- [Jump Trading](#jump-trading) (10)
+- [Jump Trading](#jump-trading) (9)
 - [K1](#k1) (1)
 - [Kaiser Permanente](#kaiser-permanente) (6)
 - [Kargo](#kargo) (1)
@@ -615,7 +612,7 @@
 - [Layup Parts](#layup-parts) (1)
 - [Lazard](#lazard) (4)
 - [Legrand](#legrand) (1)
-- [Leidos](#leidos) (4)
+- [Leidos](#leidos) (3)
 - [Lennox](#lennox) (1)
 - [Lenovo](#lenovo) (2)
 - [Lensa](#lensa) (3)
@@ -3095,12 +3092,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](https://jobs.ashbyhq.com/Commure-Athelas/566a84fb-d93e-4177-ac07-3c16d3ae8e8d) | 68 | Mountain View, CA | — | 2026-05-09 |
 
-## Commvault
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Product Marketing Intern](https://job-boards.greenhouse.io/commvault/jobs/5051754008) | 38 | Remote in USA | Product | 2026-05-09 |
-
 ## Compa
 
 | Title | Score | Location | Department | First seen |
@@ -4336,12 +4327,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://gdmissionsystems.com/careers/intern-software-engineer-orlando-fl-usa-2025-67225-opportunity) | 85 | Orlando, FL | — | 2026-05-09 |
 
-## General Dynamics Information Technology
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Developer – Intern](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-NY-Albany/Summer-2026-Software-Developer--Intern-_RQ216779-2) | 93 | Albany, NY | Software | 2026-05-17 |
-
 ## General Dynamics Mission Systems
 
 | Title | Score | Location | Department | First seen |
@@ -4661,7 +4646,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Intern Software Engineer](https://jobs.ashbyhq.com/haydenai/0e567d78-e519-486c-9136-bc3eda60954d/application) | 93 | SF | Software | 2026-05-09 |
+| [Intern Software Engineer](https://jobs.ashbyhq.com/haydenai/b577f0a4-d5c7-450d-b302-5b7b9946c020/application) | 93 | SF | Software | 2026-05-09 |
 
 ## HCompany
 
@@ -5226,12 +5211,6 @@
 | [Tools and Compilers Research and Development Intern](https://www.janestreet.com/join-jane-street/position/5869205002/) | 50 | New York, NY | — | 2026-05-09 |
 | [Trading Desk Operations Engineer Intern, Trading Desk Operations](https://www.janestreet.com/join-jane-street/position/8070509002/) | 50 | New York, NY | — | 2026-05-09 |
 
-## Jencap
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [IT Internship - Computer Science](https://job-boards.greenhouse.io/jencapinc/jobs/5100074007) | 68 | NYC | Software | 2026-05-15 |
-
 ## JINGDONG
 
 | Title | Score | Location | Department | First seen |
@@ -5308,7 +5287,6 @@
 | [Campus Trading Team Software Engineer  (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7565728) | 85 | Hong Kong | — | 2026-05-06 |
 | [Campus Crypto Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7362347) | 50 | Chicago | — | 2026-05-06 |
 | [Campus Crypto Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7362318) | 50 | London | — | 2026-05-06 |
-| [Campus Tech Ops Engineer (Dec 2026 - Feb 2027 Intern)](https://www.jumptrading.com/hr/job?gh_jid=7543260) | 50 | Sydney | — | 2026-05-06 |
 
 ## K1
 
@@ -5552,7 +5530,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Full Stack Development Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/Full-Stack-Development-Intern_R-00182542) | 68 | Orlando, FL | Software | 2026-05-17 |
 | [Data Engineer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00180867) | 93 | Fort Belvoir, VA | AI/ML/Data | 2026-05-17 |
 | [Junior Cyber Electromagnetic Activities Software Engineer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Lawton-OK/Junior-CEMA-Software-Engineer-Intern_R-00182554) | 93 | Stillwater, OK / Edmond, OK / Oklahoma City, OK / Lawton, OK / Norman, OK | Software | 2026-05-17 |
 | [Software Developer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00181646) | 93 | Annapolis Junction, MD | Software | 2026-05-14 |
