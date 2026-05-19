@@ -1,6 +1,6 @@
 # Open Internships
 
-**2846** internships across **63/64** companies — last updated 2026-05-19.
+**2837** internships across **63/64** companies — last updated 2026-05-19.
 
 ## Companies
 
@@ -100,7 +100,7 @@
 - [Ascend Learning](#ascend-learning) (2)
 - [Ascend Performance Materials ](#ascend-performance-materials) (1)
 - [ASM](#asm) (1)
-- [ASM Global](#asm-global) (2)
+- [ASM Global](#asm-global) (3)
 - [ASM International](#asm-international) (1)
 - [ASML](#asml) (2)
 - [AspenTech](#aspentech) (4)
@@ -135,7 +135,6 @@
 - [Axon](#axon) (1)
 - [Axos Bank](#axos-bank) (2)
 - [AXQ Capital](#axq-capital) (1)
-- [Axsome Therapeutics Inc](#axsome-therapeutics-inc) (1)
 - [Axway](#axway) (3)
 - [BAE Systems](#bae-systems) (13)
 - [Baker Hughes](#baker-hughes) (1)
@@ -275,7 +274,7 @@
 - [ConnectPrep](#connectprep) (2)
 - [Context](#context) (1)
 - [Cook Group](#cook-group) (4)
-- [Cooper University Health Care](#cooper-university-health-care) (2)
+- [Cooper University Health Care](#cooper-university-health-care) (1)
 - [CoorsTek](#coorstek) (1)
 - [Copart](#copart) (4)
 - [Copeland](#copeland) (1)
@@ -307,7 +306,6 @@
 - [d-Matrix](#d-matrix) (3)
 - [D. E. Shaw](#d-e-shaw) (1)
 - [D.E Shaw](#d-e-shaw) (2)
-- [Dairyland Power Cooperative](#dairyland-power-cooperative) (1)
 - [Danaher Corporation](#danaher-corporation) (1)
 - [Dandy](#dandy) (1)
 - [Dark Wolf Solutions](#dark-wolf-solutions) (1)
@@ -369,7 +367,6 @@
 - [Emerson Electric](#emerson-electric) (4)
 - [empirical](#empirical) (1)
 - [Empower](#empower) (1)
-- [Empower AI](#empower-ai) (1)
 - [Endeavor Health](#endeavor-health) (1)
 - [Endpoint Clinical](#endpoint-clinical) (1)
 - [EnergyHub](#energyhub) (2)
@@ -457,7 +454,6 @@
 - [Genmab](#genmab) (1)
 - [GenScript](#genscript) (1)
 - [Genworth](#genworth) (1)
-- [Geosyntec Consultants](#geosyntec-consultants) (1)
 - [Geotab](#geotab) (14)
 - [GIGA](#giga) (1)
 - [Gimlet Labs](#gimlet-labs) (2)
@@ -646,7 +642,7 @@
 - [Mariana Minerals](#mariana-minerals) (3)
 - [Maricopa Association of Governments (MAG)](#maricopa-association-of-governments-mag) (1)
 - [Mark43](#mark43) (1)
-- [Marmon Holdings](#marmon-holdings) (1)
+- [Marmon Holdings](#marmon-holdings) (2)
 - [Marshall Wace](#marshall-wace) (1)
 - [Martin's Famous Pastry Shoppe, Inc.](#martin-s-famous-pastry-shoppe-inc) (1)
 - [Marvell](#marvell) (9)
@@ -790,7 +786,7 @@
 - [PlusAI](#plusai) (5)
 - [PNC](#pnc) (1)
 - [Podium](#podium) (1)
-- [Point72](#point72) (27)
+- [Point72](#point72) (25)
 - [Poshmark](#poshmark) (1)
 - [Practising Law Institute](#practising-law-institute) (1)
 - [Preferred Risk Insurance Services](#preferred-risk-insurance-services) (2)
@@ -983,7 +979,6 @@
 - [Tanium](#tanium) (2)
 - [Tasker AI](#tasker-ai) (1)
 - [Tatari](#tatari) (2)
-- [TD Bank](#td-bank) (1)
 - [TD Synnex](#td-synnex) (1)
 - [Teall Sports & Entertainment](#teall-sports-entertainment) (1)
 - [Techtronic Industries](#techtronic-industries) (1)
@@ -1032,7 +1027,7 @@
 - [Tokamak Energy](#tokamak-energy) (1)
 - [Token Metrics](#token-metrics) (2)
 - [Topel Forman LLC](#topel-forman-llc) (1)
-- [Tower Research Capital](#tower-research-capital) (13)
+- [Tower Research Capital](#tower-research-capital) (12)
 - [Toyota Research Institute](#toyota-research-institute) (2)
 - [TraceRoot.AI](#traceroot-ai) (1)
 - [Tradeweb](#tradeweb) (6)
@@ -1068,6 +1063,7 @@
 - [University Health Network](#university-health-network) (1)
 - [University System of New Hampshire](#university-system-of-new-hampshire) (1)
 - [Upsolve](#upsolve) (1)
+- [Vanasse Hangen Brustlin (VHB)](#vanasse-hangen-brustlin-vhb) (1)
 - [Vanguard](#vanguard) (1)
 - [Vantage ](#vantage) (1)
 - [Varda Space](#varda-space) (4)
@@ -1098,7 +1094,7 @@
 - [vRad](#vrad) (1)
 - [VSP Vision](#vsp-vision) (1)
 - [Vulcan Materials](#vulcan-materials) (1)
-- [W.R. Berkley](#w-r-berkley) (6)
+- [W.R. Berkley](#w-r-berkley) (5)
 - [Waabi](#waabi) (2)
 - [Wabtec](#wabtec) (1)
 - [Walmart](#walmart) (1)
@@ -1110,7 +1106,6 @@
 - [Wayne County](#wayne-county) (1)
 - [Waypoint Transit](#waypoint-transit) (1)
 - [Wealth.com](#wealth-com) (1)
-- [Wealthsimple](#wealthsimple) (2)
 - [Wells Fargo](#wells-fargo) (13)
 - [Werfen](#werfen) (1)
 - [WeRide](#weride) (4)
@@ -1850,6 +1845,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Summer Associate - Enterprise AI & Insights - 8 Week Program](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Remote-USA/Summer-Associate--Enterprise-AI---Insights--8-10-Week-Program-_R100119581) | 68 | Remote in USA | AI/ML/Data | 2026-05-19 |
 | [Automation & AI Technology Experience Intern](https://asmglobal.wd1.myworkdayjobs.com/careers/job/West-Conshohocken-PA/Automation---AI-Technology-Experience-Intern_R100122152) | 68 | Frisco, TX / Conshohocken, PA | AI/ML/Data | 2026-05-17 |
 | [Hospitality and Merchandise Insights Intern](https://asmglobal.wd1.myworkdayjobs.com/careers/job/New-York-NY/Hospitality-and-Merchandise-Insights-Intern_R100120704) | 68 | NYC | AI/ML/Data | 2026-05-09 |
 
@@ -2092,12 +2088,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Quantitative Research Intern](https://job-boards.greenhouse.io/axq/jobs/5575450004) | 68 | NYC | Quant | 2026-05-09 |
-
-## Axsome Therapeutics Inc
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [IT Marketing Intern](https://job-boards.greenhouse.io/axsometherapeutics/jobs/5743046004) | 48 | NYC | AI/ML/Data | 2026-05-09 |
 
 ## Axway
 
@@ -3165,7 +3155,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Business Data Analytics Intern](https://careers-cooperhealth.icims.com/jobs/83253/job?mobile=true&needsRedirect=false) | 60 | Philadelphia, PA | AI/ML/Data | 2026-05-09 |
 | [Enterprise Analytics Intern](https://careers-cooperhealth.icims.com/jobs/83225/job?mobile=true&needsRedirect=false) | 60 | Philadelphia, PA | AI/ML/Data | 2026-05-09 |
 
 ## CoorsTek
@@ -3372,12 +3361,6 @@
 | --- | --- | --- | --- | --- |
 | [Fundamental Research Analyst Intern](https://www.deshaw.com/careers/fundamental-research-analyst-intern-new-york-summer-2026-5378) | 50 | New York, NY | — | 2026-05-09 |
 | [Proprietary Trading Intern](https://www.deshaw.com/careers/proprietary-trading-intern-new-york-summer-2026-5379) | 50 | New York, NY | — | 2026-05-09 |
-
-## Dairyland Power Cooperative
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Regional Transmission Projects Intern](https://dairynet.wd1.myworkdayjobs.com/DPCcareers/job/La-Crosse-Wisconsin/Intern--Regional-Transmission-Projects_JR100960) | 68 | Winona, MN | AI/ML/Data | 2026-05-16 |
 
 ## Danaher Corporation
 
@@ -3787,12 +3770,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern, Technology Modernization](https://empower.wd12.myworkdayjobs.com/en-US/empower/job/CO-Greenwood-Village/Summer-2026-Intern--Software-Engineer--Technology-Modernization_R0056207) | 93 | Greenwood Village, CO | — | 2026-05-09 |
-
-## Empower AI
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI/ML Intern](https://careers-empowerai.icims.com/jobs/8652/job?mobile=true&needsRedirect=false) | 60 | Reston, VA | AI/ML/Data | 2026-05-09 |
 
 ## Endeavor Health
 
@@ -4353,7 +4330,7 @@
 | [Software Intern Engineer](https://careers-gdms.icims.com/jobs/68534/job?mobile=true&needsRedirect=false) | 85 | Dedham, MA | — | 2026-05-09 |
 | [Cyber Security Intern](https://careers-gdms.icims.com/jobs/68026/job?mobile=true&needsRedirect=false) | 60 | Colorado Springs, CO | — | 2026-05-09 |
 | [Software Engineering Intern](https://careers-gdms.icims.com/jobs/67909/job?mobile=true&needsRedirect=false) | 60 | Dedham, MA | — | 2026-05-09 |
-| [Intern Engineer Co-op - May 2026 Start](https://careers-gdms.icims.com/jobs/72265/job?mobile=true&needsRedirect=false) | 50 | Fort Wayne, IN | Hardware | 2026-05-09 |
+| [Intern Engineer Co-op - May 2026 Start](https://careers-gdms.icims.com/jobs/72244/job?mobile=true&needsRedirect=false) | 50 | Fort Wayne, IN | Hardware | 2026-05-09 |
 | [Network Operations Intern](https://careers-gdms.icims.com/jobs/68251/job) | 50 | Scottsdale, AZ | — | 2026-05-09 |
 
 ## General Dynamics Mission Systems, Inc.
@@ -4394,12 +4371,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Genworth Finance Development Program Intern – Summer 2026](https://www.linkedin.com/jobs/view/4268379282) | 42 | Richmond, VA | — | 2026-05-16 |
-
-## Geosyntec Consultants
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Scientist/Artificial Intelligence Intern - AI](https://careers-geosyntec.icims.com/jobs/4383/job?mobile=true&needsRedirect=false) | 85 | Kennesaw, GA | AI/ML/Data | 2026-05-14 |
 
 ## Geotab
 
@@ -4949,8 +4920,8 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Hardware Machine Learning PhD Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, IL | AI/ML/Data | 2026-05-09 |
-| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
+| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Hardware Machine Learning PhD Research Internship](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, United States | — | 2026-05-06 |
 | [Graduate Broker Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4608590101) | 64 | Chicago, United States | — | 2026-05-06 |
 | [Graduate Floor Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4786701101) | 64 | Chicago, United States; Miami, United States; New York, United States; Philadelphia, United States; San Francisco, United States | — | 2026-05-06 |
@@ -5280,8 +5251,8 @@
 | [FPGA Engineer Intern](https://www.jumptrading.com/careers/7124905/?gh_jid=7124905) | 50 | Chicago, IL | — | 2026-05-09 |
 | [Tech Ops Engineer Intern](https://www.jumptrading.com/careers/7077897/?gh_jid=7077897) | 50 | Chicago, IL | — | 2026-05-09 |
 | [Campus Trading Team Software Engineer  (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7565728) | 85 | Hong Kong | — | 2026-05-06 |
-| [Campus Crypto Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7362318) | 50 | London | — | 2026-05-06 |
 | [Campus Crypto Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7362347) | 50 | Chicago | — | 2026-05-06 |
+| [Campus Crypto Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7362318) | 50 | London | — | 2026-05-06 |
 
 ## K1
 
@@ -5790,6 +5761,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Development Intern](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Quebec-CA/Software-Development-Intern-L1J17007_JR0000043238) | 68 | Quebec City, QC, Canada | Software | 2026-05-19 |
 | [Product Management/Marketing Intern - Summer 2026](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Charlotte-NC/Product-Management-Marketing-Intern---Summer-2026_JR0000037719-3) | 38 | Charlotte, NC | Product | 2026-05-17 |
 
 ## Marshall Wace
@@ -6961,8 +6933,6 @@
 | [Summer 2027 Quantitative Research Internship](https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002) | 68 | New York | — | 2026-05-06 |
 | [2026 Corporate Access Summer Intern, Hong Kong](https://boards.greenhouse.io/point72/jobs/8191183002?gh_jid=8191183002) | 58 | Hong Kong | — | 2026-05-06 |
 | [2026 Finance Summer Internship, Warsaw (Payroll)](https://boards.greenhouse.io/point72/jobs/8505843002?gh_jid=8505843002) | 58 | Warsaw | — | 2026-05-06 |
-| [2026 Trader Summer Intern, Hong Kong (12-week program)](https://boards.greenhouse.io/point72/jobs/8209323002?gh_jid=8209323002) | 58 | Hong Kong | — | 2026-05-06 |
-| [2026 Trader Summer Intern, Japan (12-week program)](https://boards.greenhouse.io/point72/jobs/8209374002?gh_jid=8209374002) | 58 | Japan | — | 2026-05-06 |
 | [2026 Warsaw MI Data – Web Scraping Internship](https://boards.greenhouse.io/point72/jobs/8423978002?gh_jid=8423978002) | 58 | Warsaw, Poland | — | 2026-05-06 |
 | [2027 Point72 Academy Investment Analyst Summer Internship Program - Hong Kong](https://boards.greenhouse.io/point72/jobs/8491055002?gh_jid=8491055002) | 58 | Hong Kong | — | 2026-05-06 |
 | [2027 Point72 Academy Investment Analyst Summer Internship Program - Japan](https://boards.greenhouse.io/point72/jobs/8491138002?gh_jid=8491138002) | 58 | Japan | — | 2026-05-06 |
@@ -8174,8 +8144,8 @@
 | [PhD Data Scientist Intern - Data Science](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
 | [PhD Machine Learning Engineer Intern](https://stripe.com/jobs/search?gh_jid=7216664) | 85 | Seattle, WA / SF / NYC | AI/ML/Data | 2026-05-09 |
 | [Software Engineer Intern](https://stripe.com/jobs/listing/software-engineer-intern-summer-and-winter/7210115) | 85 | South San Francisco, CA / Seattle, WA / New York, NY | — | 2026-05-09 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7216664) | 85 | San Francisco, New York City, Seattle | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
@@ -8342,12 +8312,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/tatari/jobs/8451505002) | 93 | NYC | Software | 2026-05-09 |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/tatari/jobs/8451506002) | 93 | SF / LA / NYC | Software | 2026-05-09 |
-
-## TD Bank
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Intern/Co-op](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-Intern-Co-op--Fall-2026-_R_1481069) | 93 | Toronto, ON, Canada | Software | 2026-05-09 |
 
 ## TD Synnex
 
@@ -8905,7 +8869,6 @@
 | [Quantitative Researcher Intern](https://tower-research.com/open-positions/?gh_jid=7238472) | 60 | New York, NY | Quantitative Finance | 2026-05-09 |
 | [Quantitative Trader Intern](https://tower-research.com/open-positions/?gh_jid=7062358) | 60 | New York, NY | — | 2026-05-09 |
 | [Quantitative Trader Intern - PhD 2026](https://www.tower-research.com/open-positions/?gh_jid=7062370) | 60 | NYC | Quant | 2026-05-09 |
-| [Développeur de logiciels C++ nouvellement diplômé / New Grad C++ Software Developer](https://www.tower-research.com/open-positions/?gh_jid=6855851) | 91 | Montreal | — | 2026-05-06 |
 | [Quantitative Researcher Intern](https://www.tower-research.com/open-positions/?gh_jid=7238472) | 85 | New York | — | 2026-05-06 |
 | [Stagiaire en développement de logiciels (été 2026) / Software Developer Intern (Summer 2026)](https://www.tower-research.com/open-positions/?gh_jid=6653745) | 85 | Montreal | — | 2026-05-06 |
 | [Quantitative Trader Intern (PhD 2026)](https://www.tower-research.com/open-positions/?gh_jid=7062370) | 60 | New York | — | 2026-05-06 |
@@ -9153,6 +9116,12 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](https://www.workatastartup.com/jobs/80380) | 66 | Remote | — | 2026-05-09 |
 
+## Vanasse Hangen Brustlin (VHB)
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data Analytics Intern](https://careers-vhb.icims.com/jobs/6016/job?mobile=true&needsRedirect=false) | 60 | Raleigh, NC | AI/ML/Data | 2026-05-19 |
+
 ## Vanguard
 
 | Title | Score | Location | Department | First seen |
@@ -9368,7 +9337,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Business Intelligence Developer Intern](https://careers-berkley.icims.com/jobs/13878/job?mobile=true&needsRedirect=false) | 85 | Scottsdale, AZ | AI/ML/Data | 2026-05-18 |
 | [Underwriting Intern](https://careers-berkley.icims.com/jobs/12816/job?mobile=true&needsRedirect=false) | 60 | Glen Allen, VA | Software | 2026-05-18 |
 | [AI Intern](https://careers-berkley.icims.com/jobs/12875/job?mobile=true&needsRedirect=false) | 60 | Manassas, VA | AI/ML/Data | 2026-05-09 |
 | [Business and Data Analyst Intern](https://careers-berkley.icims.com/jobs/13507/job?mobile=true&needsRedirect=false) | 60 | Farmington, CT | AI/ML/Data | 2026-05-09 |
@@ -9449,13 +9417,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Applied Scientist AI/ML Intern](https://jobs.ashbyhq.com/wealth-com/1899d513-4c4a-43b2-a307-8c8e4b877622/application) | 93 | Remote in USA | AI/ML/Data | 2026-05-19 |
-
-## Wealthsimple
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Developer Intern](https://jobs.ashbyhq.com/wealthsimple/fda5d29e-cbda-43db-994f-a2de669d1141/application) | 93 | Toronto, ON, Canada | Software | 2026-05-09 |
-| [Data Science Intern](https://jobs.ashbyhq.com/wealthsimple/b4d1fb2a-89dd-4a4e-9908-d106de8591a2/application) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
 
 ## Wells Fargo
 
