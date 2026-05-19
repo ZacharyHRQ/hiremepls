@@ -1,13 +1,13 @@
 # Open Internships
 
-**2837** internships across **63/64** companies — last updated 2026-05-18.
+**2840** internships across **63/64** companies — last updated 2026-05-19.
 
 ## Companies
 
 - [ PrizePicks](#prizepicks) (1)
 - [14.ai](#14-ai) (1)
 - [a0.dev](#a0-dev) (1)
-- [AAA Club Alliance](#aaa-club-alliance) (1)
+- [AAA Club Alliance](#aaa-club-alliance) (2)
 - [ABB](#abb) (5)
 - [Abbott](#abbott) (1)
 - [ABC Fitness](#abc-fitness) (1)
@@ -56,7 +56,7 @@
 - [Altruist Financial LLC](#altruist-financial-llc) (1)
 - [Aluminum Dynamics](#aluminum-dynamics) (1)
 - [Amazon](#amazon) (24)
-- [Ambarella](#ambarella) (3)
+- [Ambarella](#ambarella) (2)
 - [Amcor](#amcor) (1)
 - [AMD](#amd) (7)
 - [Amentum](#amentum) (3)
@@ -488,6 +488,7 @@
 - [GSA Capital](#gsa-capital) (2)
 - [Guardian RF](#guardian-rf) (1)
 - [GuideWell Mutual](#guidewell-mutual) (1)
+- [Guidewire](#guidewire) (1)
 - [Gulfstream Aerospace Corporation](#gulfstream-aerospace-corporation) (2)
 - [H&CO](#h-co) (1)
 - [H3X Technologies](#h3x-technologies) (1)
@@ -590,7 +591,6 @@
 - [Kelso Industries](#kelso-industries) (1)
 - [Keysight](#keysight) (4)
 - [Keysight Technologies](#keysight-technologies) (8)
-- [Kikoff](#kikoff) (1)
 - [Kinaxis](#kinaxis) (5)
 - [Kingland](#kingland) (1)
 - [KION Group](#kion-group) (8)
@@ -614,7 +614,7 @@
 - [Layup Parts](#layup-parts) (1)
 - [Lazard](#lazard) (4)
 - [Legrand](#legrand) (1)
-- [Leidos](#leidos) (2)
+- [Leidos](#leidos) (1)
 - [Lennox](#lennox) (1)
 - [Lenovo](#lenovo) (2)
 - [Lensa](#lensa) (3)
@@ -625,6 +625,7 @@
 - [Lightmatter](#lightmatter) (1)
 - [Linkedin](#linkedin) (1)
 - [LinkedIn](#linkedin) (3)
+- [LINQ](#linq) (1)
 - [Live Nation Entertainment](#live-nation-entertainment) (1)
 - [LMI ](#lmi) (5)
 - [Lockheed Martin](#lockheed-martin) (8)
@@ -633,7 +634,7 @@
 - [Lumen Technologies](#lumen-technologies) (7)
 - [Lumentum](#lumentum) (3)
 - [Luminate](#luminate) (1)
-- [Lunar Energy](#lunar-energy) (2)
+- [Lunar Energy](#lunar-energy) (1)
 - [Lyft](#lyft) (6)
 - [Lynk](#lynk) (1)
 - [M&T Bank](#m-t-bank) (1)
@@ -666,6 +667,7 @@
 - [Medical Informatics Engineering](#medical-informatics-engineering) (1)
 - [Medical University of South Carolina](#medical-university-of-south-carolina) (1)
 - [Medpace, Inc.](#medpace-inc) (5)
+- [Melotech](#melotech) (3)
 - [Member Solutions](#member-solutions) (1)
 - [Mercedes-Benz](#mercedes-benz) (2)
 - [Mercor](#mercor) (1)
@@ -726,6 +728,7 @@
 - [Notion](#notion) (7)
 - [Novaflow](#novaflow) (1)
 - [Nowadays (S23)](#nowadays-s23) (2)
+- [Nuclear Promise X](#nuclear-promise-x) (1)
 - [NuHarbor Security](#nuharbor-security) (1)
 - [Nuro](#nuro) (1)
 - [Nutanix](#nutanix) (1)
@@ -931,6 +934,7 @@
 - [Solva](#solva) (1)
 - [SOMFY Group](#somfy-group) (1)
 - [Sonauto](#sonauto) (1)
+- [SonoThera](#sonothera) (1)
 - [Sony](#sony) (4)
 - [Sony Pictures](#sony-pictures) (2)
 - [SOTI](#soti) (5)
@@ -1087,7 +1091,6 @@
 - [Veryable](#veryable) (1)
 - [Viasat](#viasat) (2)
 - [Viavi Solutions](#viavi-solutions) (1)
-- [Viridien](#viridien) (1)
 - [Visa](#visa) (10)
 - [Visier Solutions](#visier-solutions) (1)
 - [Vital Lyfe](#vital-lyfe) (1)
@@ -1170,7 +1173,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Data Engineer Intern](https://ace.wd5.myworkdayjobs.com/careers/job/Coppell-TX/Data-Engineer-Intern_JR202635739) | 93 | Coppell, TX | AI/ML/Data | 2026-05-18 |
+| [Digital Product Management Intern](https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Digital-Product-Management-Intern_JR202636494) | 58 | Newport Beach, CA | Product | 2026-05-19 |
+| [Digital Travel Product Intern](https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Digital-Travel-Product-Intern_JR202636489) | 58 | Newport Beach, CA | Product | 2026-05-19 |
 
 ## ABB
 
@@ -1530,7 +1534,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Architecture Engineer Intern](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Architecture-Engineer-Intern_JR100106) | 93 | United States | Hardware | 2026-05-16 |
-| [ASIC Design Engineer Intern](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/ASIC-Design-Engineer-Intern_JR100192) | 58 | United States | Hardware | 2026-05-16 |
 | [Software Engineer Intern](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Engineer-Intern_JR100107) | 93 | United States | Hardware | 2026-05-16 |
 
 ## Amcor
@@ -4613,6 +4616,12 @@
 | --- | --- | --- | --- | --- |
 | [IT Summer Graduate Intern](http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/41054) | 56 | Jacksonville, FL | — | 2026-05-09 |
 
+## Guidewire
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI Engineer Intern](https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---Philadelphia-PA/AI-Engineering-Intern_JR_14530) | 93 | Philadelphia, PA | Software | 2026-05-19 |
+
 ## Gulfstream Aerospace Corporation
 
 | Title | Score | Location | Department | First seen |
@@ -5302,8 +5311,8 @@
 | [FPGA Engineer Intern](https://www.jumptrading.com/careers/7124905/?gh_jid=7124905) | 50 | Chicago, IL | — | 2026-05-09 |
 | [Tech Ops Engineer Intern](https://www.jumptrading.com/careers/7077897/?gh_jid=7077897) | 50 | Chicago, IL | — | 2026-05-09 |
 | [Campus Trading Team Software Engineer  (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7565728) | 85 | Hong Kong | — | 2026-05-06 |
-| [Campus Crypto Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7362347) | 50 | Chicago | — | 2026-05-06 |
 | [Campus Crypto Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7362318) | 50 | London | — | 2026-05-06 |
+| [Campus Crypto Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7362347) | 50 | Chicago | — | 2026-05-06 |
 
 ## K1
 
@@ -5375,12 +5384,6 @@
 | [Application Engineer Intern, Signal Processing](https://jobs.keysight.com/external/jobs/50038?lang=en-us&icims=1) | 50 | Santa Rosa, CA | — | 2026-05-09 |
 | [Engineering Intern](https://jobs.keysight.com/jobs/49618?lang=en-us&icims=1) | 50 | Santa Rosa, CA | — | 2026-05-09 |
 | [IT Engineer Intern](https://jobs.keysight.com/jobs/49447?lang=en-us&icims=1) | 50 | Santa Rosa, CA | — | 2026-05-09 |
-
-## Kikoff
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Intern](https://job-boards.greenhouse.io/kikoff/jobs/4184371009) | 68 | SF | AI/ML/Data | 2026-05-09 |
 
 ## Kinaxis
 
@@ -5547,7 +5550,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Data Engineer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00180867) | 93 | Fort Belvoir, VA | AI/ML/Data | 2026-05-17 |
 | [Junior Cyber Electromagnetic Activities Software Engineer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Lawton-OK/Junior-CEMA-Software-Engineer-Intern_R-00182554) | 93 | Stillwater, OK / Edmond, OK / Oklahoma City, OK / Lawton, OK / Norman, OK | Software | 2026-05-17 |
 
 ## Lennox
@@ -5618,6 +5620,12 @@
 | [Data Engineer- Data Science Intern, Master's](https://jobs.smartrecruiters.com/LinkedIn3/aa222455-47c8-492e-a445-5ccbcee7ae9b) | 93 | Mountain View, CA | Data Science, AI & Machine Learning | 2026-05-09 |
 | [Applied Science- Data Science Intern, PhD](https://jobs.smartrecruiters.com/LinkedIn3/517e679d-be36-45ce-ab17-7c44eb8279ed) | 68 | Mountain View, CA | Data Science, AI & Machine Learning | 2026-05-09 |
 | [Strategy & Insights- Data Science Intern, Master's](https://jobs.smartrecruiters.com/LinkedIn3/c09bade2-b299-4574-a51f-9fc711d1c913) | 68 | Mountain View, CA | Data Science, AI & Machine Learning | 2026-05-09 |
+
+## LINQ
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Technical Intern](https://jobs.ashbyhq.com/linqapp/8a64cb3d-42fa-47ec-94ec-5a6f7c8831b5/application) | 68 | Birmingham, AL | Software | 2026-05-19 |
 
 ## Live Nation Entertainment
 
@@ -5691,7 +5699,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Reliability Test Intern - Reliability Testing](https://job-boards.greenhouse.io/lunarenergy/jobs/5992527004) | 58 | Mountain View, CA | Hardware | 2026-05-09 |
 | [Test Engineering Intern](https://job-boards.greenhouse.io/lunarenergy/jobs/5983884004) | 58 | Mountain View, CA | Hardware | 2026-05-09 |
 
 ## Lyft
@@ -5915,6 +5922,14 @@
 | [AI Engineer Intern](https://careers.medpace.com/jobs/12729?lang=en-us&icims=1) | 85 | Cincinnati, OH | AI/ML/Data | 2026-05-15 |
 | [Web Developer Intern/Co-op](https://careers.medpace.com/jobs/11645) | 75 | Cincinnati, OH | — | 2026-05-09 |
 | [Informatics Internship/Co-Op](https://careers.medpace.com/jobs/11562?lang=en-us&icims=1) | 50 | Cincinnati, OH | — | 2026-05-09 |
+
+## Melotech
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI/ML Engineer Intern](https://jobs.ashbyhq.com/melotech/e99207bd-8a2f-4641-a463-08a6633a7073/application) | 93 | London, UK / NYC / Berlin, Germany | AI/ML/Data | 2026-05-19 |
+| [Full-Stack Developer Intern - Music & Audio](https://jobs.ashbyhq.com/melotech/15af19d9-a318-45a6-8a06-23053ea487a5/application) | 93 | London, UK / SF / LA / NYC / Berlin, Germany | Software | 2026-05-19 |
+| [Data Science Intern - Music & Audio](https://jobs.ashbyhq.com/melotech/f2f3e785-12a0-4d30-be43-e6c5c119a6c2/application) | 68 | London, UK / SF / LA / NYC / Berlin, Germany | AI/ML/Data | 2026-05-19 |
 
 ## Member Solutions
 
@@ -6436,6 +6451,12 @@
 | [Software Engineer Intern](https://www.workatastartup.com/jobs/78951) | 91 | San Francisco, CA | — | 2026-05-09 |
 | [Product Engineer Intern](https://www.workatastartup.com/jobs/78952) | 56 | San Francisco, CA | — | 2026-05-09 |
 
+## Nuclear Promise X
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Developer Intern - Digital Transformation](https://jobs.ashbyhq.com/NPX/048ca8da-bfb9-4454-8147-ac9497629634/application) | 93 | Canada | Software | 2026-05-19 |
+
 ## NuHarbor Security
 
 | Title | Score | Location | Department | First seen |
@@ -6706,7 +6727,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Applied AI Engineer Intern](https://jobs.ashbyhq.com/parspec/0a897c21-0df7-40ba-85f2-694bf6678504) | 83 | San Mateo, CA | — | 2026-05-09 |
+| [Applied AI Engineer Intern](https://jobs.ashbyhq.com/parspec/0a897c21-0df7-40ba-85f2-694bf6678504/application) | 93 | San Mateo, CA | AI/ML/Data | 2026-05-09 |
 
 ## Partcl (X25)
 
@@ -7948,6 +7969,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [ML Engineer Intern, Research](https://www.workatastartup.com/jobs/80519) | 91 | San Francisco, CA | — | 2026-05-09 |
+
+## SonoThera
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Nucleic Acid Analytics Intern](https://job-boards.greenhouse.io/sonothera/jobs/4667479006) | 68 | San Bruno, CA | AI/ML/Data | 2026-05-19 |
 
 ## Sony
 
@@ -9277,12 +9304,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Wireless Network Lab Intern](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Chandler-AZ-USA/Wireless-Network-Lab-Intern_260004580-1) | 68 | Chandler, AZ | AI/ML/Data | 2026-05-09 |
-
-## Viridien
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI Full Stack Engineering Intern](https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/AI-Full-Stack-Engineering--Intern-_JR101267-2) | 68 | Houston, TX | Software | 2026-05-16 |
 
 ## Visa
 
