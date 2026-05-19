@@ -100,7 +100,7 @@
 - [Ascend Learning](#ascend-learning) (2)
 - [Ascend Performance Materials ](#ascend-performance-materials) (1)
 - [ASM](#asm) (1)
-- [ASM Global](#asm-global) (3)
+- [ASM Global](#asm-global) (2)
 - [ASM International](#asm-international) (1)
 - [ASML](#asml) (2)
 - [AspenTech](#aspentech) (4)
@@ -632,6 +632,7 @@
 - [Lunar Energy](#lunar-energy) (1)
 - [Lyft](#lyft) (6)
 - [Lynk](#lynk) (1)
+- [M&G](#m-g) (1)
 - [M&T Bank](#m-t-bank) (1)
 - [Mach9](#mach9) (2)
 - [Mackenzie Investments](#mackenzie-investments) (1)
@@ -677,7 +678,7 @@
 - [Microchip Technology](#microchip-technology) (3)
 - [Microchip Technology Inc](#microchip-technology-inc) (1)
 - [Micron Technology](#micron-technology) (4)
-- [Microsoft](#microsoft) (58)
+- [Microsoft](#microsoft) (59)
 - [Midmark ](#midmark) (1)
 - [Millennium](#millennium) (3)
 - [MITRE](#mitre) (1)
@@ -911,7 +912,7 @@
 - [Simular](#simular) (2)
 - [Sixtyfour (X25)](#sixtyfour-x25) (1)
 - [SK Hynix Memory Solution](#sk-hynix-memory-solution) (1)
-- [Skydio](#skydio) (11)
+- [Skydio](#skydio) (10)
 - [Skyworks](#skyworks) (5)
 - [Slate Auto](#slate-auto) (1)
 - [Smartly.io](#smartly-io) (1)
@@ -1850,7 +1851,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Automation & AI Technology Experience Intern](https://asmglobal.wd1.myworkdayjobs.com/careers/job/West-Conshohocken-PA/Automation---AI-Technology-Experience-Intern_R100122152) | 68 | Frisco, TX / Conshohocken, PA | AI/ML/Data | 2026-05-17 |
-| [Summer Associate - Enterprise AI & Insights - 8 Week Program](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Remote-USA/Summer-Associate--Enterprise-AI---Insights--8-10-Week-Program-_R100119581) | 68 | Remote in USA | AI/ML/Data | 2026-05-17 |
 | [Hospitality and Merchandise Insights Intern](https://asmglobal.wd1.myworkdayjobs.com/careers/job/New-York-NY/Hospitality-and-Merchandise-Insights-Intern_R100120704) | 68 | NYC | AI/ML/Data | 2026-05-09 |
 
 ## ASM International
@@ -2979,7 +2979,7 @@
 | [Product Manager Intern - Summer 2026](https://boards.greenhouse.io/cloudflare/jobs/7362113) | 58 | Austin, TX | Product | 2026-05-09 |
 | [Product Marketing Engineer Intern – Intern - AI & Automation](https://boards.greenhouse.io/cloudflare/jobs/7781953) | 48 | Austin, TX | Software | 2026-05-09 |
 | [Marketing Events and Campaigns Intern (Mid-Year 2026)](https://boards.greenhouse.io/cloudflare/jobs/7736919?gh_jid=7736919) | 38 | In-Office | — | 2026-05-07 |
-| [Security Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169) | 93 | In-Office | — | 2026-05-06 |
+| [Security Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150) | 93 | In-Office | — | 2026-05-06 |
 | [Business Analyst Intern, Revenue Operations (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7761468?gh_jid=7761468) | 58 | In-Office | — | 2026-05-06 |
 | [Customer Advocacy Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7743202?gh_jid=7743202) | 58 | In-Office | — | 2026-05-06 |
 | [CxO Transformation Partners Intern - (Summer/Spring/Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7786702?gh_jid=7786702) | 58 | In-Office | — | 2026-05-06 |
@@ -5690,6 +5690,12 @@
 | --- | --- | --- | --- | --- |
 | [Telecommunications Intern](https://jobs.ashbyhq.com/Lynk/c7f7e208-f784-4970-980b-9a0c7b0e8ec7) | 58 | Washington DC | — | 2026-05-09 |
 
+## M&G
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Finance Data Analyst Intern](https://mgpru.wd3.myworkdayjobs.com/mandgprudential/job/Stirling/Finance-Data-Analyst-Apprentice_R18765) | 68 | Stirling, UK | AI/ML/Data | 2026-05-19 |
+
 ## M&T Bank
 
 | Title | Score | Location | Department | First seen |
@@ -6028,6 +6034,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Research Intern - Self-Improving AI](https://apply.careers.microsoft.com/careers/job/1970393556867858) | 60 | Cambridge, MA / NYC | AI/ML/Data | 2026-05-19 |
 | [Research Intern](https://apply.careers.microsoft.com/careers/job/1970393556621789) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern](https://apply.careers.microsoft.com/careers/job/1970393556622015) | 60 | Cambridge, MA | AI/ML/Data | 2026-05-09 |
 | [Research Intern](https://apply.careers.microsoft.com/careers/job/1970393556631315) | 60 | Montreal, QC, Canada | AI/ML/Data | 2026-05-09 |
@@ -7825,7 +7832,6 @@
 | [Middleware Software Engineer Intern, Device Platform](https://www.skydio.com/jobs/7493238003) | 85 | San Mateo, CA | — | 2026-05-09 |
 | [Middleware Software Intern](https://www.skydio.com/jobs/6220445003?gh_jid=6220445003) | 60 | San Mateo, CA | — | 2026-05-09 |
 | [Product Support Engineer Intern](https://jobs.ashbyhq.com/skydio/8df0689e-a489-4c72-a1f7-09dfe59745b8/application) | 58 | San Mateo, CA | Hardware | 2026-05-09 |
-| [Wireless Hardware Engineer Intern](https://jobs.ashbyhq.com/skydio/5e1057a4-214f-4783-b676-c1315cfa81ea/application) | 58 | San Mateo, CA | Hardware | 2026-05-09 |
 
 ## Skyworks
 

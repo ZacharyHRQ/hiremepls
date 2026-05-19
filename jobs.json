@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T08:58:19.722Z",
+  "generatedAt": "2026-05-19T12:09:46.073Z",
   "companyCount": 64,
   "okCount": 63,
   "jobCount": 2846,
@@ -594,7 +594,6 @@
     "canonical:6977eeeb4ce82805": "2026-05-09T15:28:15.527Z",
     "canonical:a8d6ab6418be4259": "2026-05-09T15:28:15.527Z",
     "canonical:bc730aa27731fa93": "2026-05-09T15:28:15.527Z",
-    "canonical:2518d1fee457d0f9": "2026-05-09T15:28:15.527Z",
     "canonical:e52e8b6621a38589": "2026-05-09T15:28:15.527Z",
     "canonical:3ab6ed6601f60451": "2026-05-09T15:28:15.527Z",
     "canonical:11de7dbcbc49047f": "2026-05-09T15:28:15.527Z",
@@ -2713,7 +2712,6 @@
     "canonical:4bba3e6095503e81": "2026-05-17T07:19:48.510Z",
     "canonical:af58faec41630a9a": "2026-05-17T07:19:48.510Z",
     "canonical:223669d31e7e9fb5": "2026-05-17T07:19:48.510Z",
-    "canonical:a7666a373f0726ce": "2026-05-17T07:19:48.510Z",
     "canonical:f67ccd38fce2d6a4": "2026-05-17T07:19:48.510Z",
     "canonical:8e9b3b4bdaa4e763": "2026-05-17T07:19:48.510Z",
     "canonical:2dcd42d54094e1d6": "2026-05-17T07:19:48.510Z",
@@ -2849,7 +2847,9 @@
     "canonical:fdf675ff44748d3d": "2026-05-19T08:58:19.722Z",
     "canonical:ede1316fd6c0bb9b": "2026-05-19T08:58:19.722Z",
     "canonical:3a8e5c31a87580ff": "2026-05-19T08:58:19.722Z",
-    "canonical:7f6bafc59ca8e261": "2026-05-19T08:58:19.722Z"
+    "canonical:7f6bafc59ca8e261": "2026-05-19T08:58:19.722Z",
+    "canonical:0a0194460136697c": "2026-05-19T12:09:46.073Z",
+    "canonical:ae587a3dd163baf3": "2026-05-19T12:09:46.073Z"
   },
   "jobs": [
     {
@@ -4303,7 +4303,7 @@
     {
       "id": "canonical:d14a513f8325af8e",
       "title": "Security Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -9322,19 +9322,6 @@
       ]
     },
     {
-      "id": "canonical:a7666a373f0726ce",
-      "title": "Summer Associate - Enterprise AI & Insights - 8 Week Program",
-      "url": "https://asmglobal.wd1.myworkdayjobs.com/careers/job/Remote-USA/Summer-Associate--Enterprise-AI---Insights--8-10-Week-Program-_R100119581",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "ASM Global",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:acdb394fbf2ebe3a",
       "title": "Research Intern - Agentic Programming",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556750506",
@@ -11290,18 +11277,6 @@
       ]
     },
     {
-      "id": "canonical:2518d1fee457d0f9",
-      "title": "Wireless Hardware Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/skydio/5e1057a4-214f-4783-b676-c1315cfa81ea/application",
-      "location": "San Mateo, CA",
-      "department": "Hardware",
-      "company": "Skydio",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:e52e8b6621a38589",
       "title": "Graduate Intern - Child Support",
       "url": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260001QQ",
@@ -11766,6 +11741,19 @@
       "company": "Teleo",
       "score": 58,
       "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:0a0194460136697c",
+      "title": "Finance Data Analyst Intern",
+      "url": "https://mgpru.wd3.myworkdayjobs.com/mandgprudential/job/Stirling/Finance-Data-Analyst-Apprentice_R18765",
+      "location": "Stirling, UK",
+      "department": "AI/ML/Data",
+      "company": "M&G",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
         "direct ATS"
       ]
     },
@@ -22914,6 +22902,18 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ae587a3dd163baf3",
+      "title": "Research Intern - Self-Improving AI",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556867858",
+      "location": "Cambridge, MA / NYC",
+      "department": "AI/ML/Data",
+      "company": "Microsoft",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
       ]
     },
     {
