@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-19T15:51:03.148Z",
+  "generatedAt": "2026-05-19T17:57:07.076Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 2837,
+  "jobCount": 2835,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -127,8 +127,6 @@
     "canonical:cece11706810719a": "2026-05-06T06:42:07.596Z",
     "canonical:85f245b3d004067d": "2026-05-06T06:42:07.596Z",
     "canonical:9c013a1fb42fb764": "2026-05-06T06:42:07.596Z",
-    "canonical:5690f42884702721": "2026-05-06T06:42:07.596Z",
-    "canonical:ae00063202783436": "2026-05-06T06:42:07.596Z",
     "canonical:622c3a53aa2b852e": "2026-05-06T06:42:07.596Z",
     "canonical:b9e2715c1bbe98ff": "2026-05-06T06:42:07.596Z",
     "canonical:38c38b2f9b935c7b": "2026-05-06T06:42:07.596Z",
@@ -942,7 +940,6 @@
     "canonical:45a0b2cc551b932e": "2026-05-09T15:28:15.527Z",
     "canonical:1a813b3bf25209de": "2026-05-09T15:28:15.527Z",
     "canonical:18c7966a9dc06483": "2026-05-09T15:28:15.527Z",
-    "canonical:c8416734f246b37e": "2026-05-09T15:28:15.527Z",
     "canonical:9f05fe3d22db02ea": "2026-05-09T15:28:15.527Z",
     "canonical:8a131733911bef5f": "2026-05-09T15:28:15.527Z",
     "canonical:efeb516c369ef725": "2026-05-14T01:31:29.727Z",
@@ -2678,7 +2675,6 @@
     "canonical:7439a2dd433c73c9": "2026-05-17T04:18:58.240Z",
     "canonical:22cba4a90f428d7c": "2026-05-17T04:18:58.240Z",
     "canonical:388918c587774965": "2026-05-17T04:18:58.240Z",
-    "canonical:c4c3f3ae5ca76030": "2026-05-17T04:18:58.240Z",
     "canonical:9689e97c8bd265b9": "2026-05-17T04:18:58.240Z",
     "canonical:6c98f53804aabbb3": "2026-05-17T04:18:58.240Z",
     "canonical:38459efbb09a2bcc": "2026-05-17T04:18:58.240Z",
@@ -2756,7 +2752,6 @@
     "canonical:6642a1fba61837a9": "2026-05-17T09:17:39.096Z",
     "canonical:e44b021a977112cf": "2026-05-17T09:17:39.096Z",
     "canonical:b2b6d0672577b09c": "2026-05-17T09:17:39.096Z",
-    "canonical:df82ae6899ef0f45": "2026-05-17T09:17:39.096Z",
     "canonical:d63ebab19ca4822e": "2026-05-17T09:17:39.096Z",
     "canonical:bee6ed99eb800b5a": "2026-05-17T09:17:39.096Z",
     "canonical:c11bff2ca221b70c": "2026-05-17T09:17:39.096Z",
@@ -2817,7 +2812,6 @@
     "canonical:8ec81821b19e9d75": "2026-05-19T01:34:38.795Z",
     "canonical:f96555673f195af4": "2026-05-19T01:34:38.795Z",
     "canonical:59280037432dffa1": "2026-05-19T01:34:38.795Z",
-    "canonical:3a9114dc9bab97b2": "2026-05-19T01:34:38.795Z",
     "canonical:f73136e7f5be7afb": "2026-05-19T05:49:46.323Z",
     "canonical:e1b26ab22318f08e": "2026-05-19T05:49:46.323Z",
     "canonical:7e6f0314e90a9891": "2026-05-19T05:49:46.323Z",
@@ -2840,7 +2834,11 @@
     "canonical:ae587a3dd163baf3": "2026-05-19T12:09:46.073Z",
     "canonical:a7666a373f0726ce": "2026-05-19T15:51:03.148Z",
     "canonical:21a28e90bf258781": "2026-05-19T15:51:03.148Z",
-    "canonical:72f08854f3fb1bf6": "2026-05-19T15:51:03.148Z"
+    "canonical:72f08854f3fb1bf6": "2026-05-19T15:51:03.148Z",
+    "canonical:09ae29fd77b17064": "2026-05-19T17:57:07.076Z",
+    "canonical:7fd0670d484537cc": "2026-05-19T17:57:07.076Z",
+    "canonical:87221dd80d926fbc": "2026-05-19T17:57:07.076Z",
+    "canonical:2d5662995c1d5444": "2026-05-19T17:57:07.076Z"
   },
   "jobs": [
     {
@@ -3702,10 +3700,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -3715,10 +3713,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -4256,7 +4254,7 @@
     {
       "id": "canonical:d14a513f8325af8e",
       "title": "Security Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -4307,7 +4305,7 @@
     {
       "id": "canonical:31dd1ab15c427f1e",
       "title": "Technical Support Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726977?gh_jid=7726977",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -4412,26 +4410,6 @@
       "scoreReasons": [
         "direct ATS"
       ]
-    },
-    {
-      "id": "canonical:5690f42884702721",
-      "title": "Product Design Intern - Summer 2026 (New York)",
-      "url": "https://www.asana.com/jobs/apply/7490328?gh_jid=7490328",
-      "location": "New York City",
-      "department": "",
-      "company": "Asana",
-      "score": 50,
-      "scoreReasons": []
-    },
-    {
-      "id": "canonical:ae00063202783436",
-      "title": "Product Design Intern - Summer 2026 (San Francisco)",
-      "url": "https://www.asana.com/jobs/apply/7490322?gh_jid=7490322",
-      "location": "San Francisco",
-      "department": "",
-      "company": "Asana",
-      "score": 50,
-      "scoreReasons": []
     },
     {
       "id": "canonical:622c3a53aa2b852e",
@@ -8287,20 +8265,6 @@
       ]
     },
     {
-      "id": "canonical:ea1c78b83afa21bd",
-      "title": "Intern AI Developer",
-      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer---Stagiaire-en-dveloppement-IA_25WD93809-2",
-      "location": "Montreal, QC, Canada",
-      "department": "AI/ML/Data",
-      "company": "Autodesk",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:70c4ea9073d703ab",
       "title": "Data Analyst Intern Fall 2026",
       "url": "https://jobs.paccar.com/job/Columbus-Data-Analyst-Intern-Fall-2026-MS-39701/1283451401/?ats=successfactors",
@@ -8652,6 +8616,20 @@
       "location": "Burbank, CA",
       "department": "Software",
       "company": "Crane Co.",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ea1c78b83afa21bd",
+      "title": "Intern AI Developer",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--AI-Developer---Stagiaire-en-dveloppement-IA_25WD93809-1",
+      "location": "Montreal, QC, Canada",
+      "department": "AI/ML/Data",
+      "company": "Autodesk",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -16207,18 +16185,6 @@
       "scoreReasons": []
     },
     {
-      "id": "canonical:df82ae6899ef0f45",
-      "title": "Game Operations Intern",
-      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Los-Angeles/Game-Operations-Intern_R107348",
-      "location": "LA",
-      "department": "Product",
-      "company": "Tencent",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:f87b39cd27f4fcfc",
       "title": "Autonomy Engineer Intern - Deep Learning - Computational Photography",
       "url": "https://jobs.ashbyhq.com/skydio/d13e3179-e646-4873-84a6-d492a692bc25/application",
@@ -16774,20 +16740,6 @@
       ]
     },
     {
-      "id": "canonical:c4c3f3ae5ca76030",
-      "title": "Data Scientist Intern",
-      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Scientist---Fall-2026_R240093-2",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Capital One",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:18c7966a9dc06483",
       "title": "Uptime Management Center Intern",
       "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7857769",
@@ -16797,19 +16749,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:c8416734f246b37e",
-      "title": "Forward Deployed Engineering Intern - AI-Native",
-      "url": "https://jobs.ashbyhq.com/homebase/a7ab59c0-786e-4675-b684-2ed19b240fb2/application",
-      "location": "Houston, TX / SF",
-      "department": "Software",
-      "company": "Homebase",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -22534,18 +22473,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:3a9114dc9bab97b2",
-      "title": "Digital Product Management Intern",
-      "url": "https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Digital-Product-Management-Intern_JR202636494",
-      "location": "Newport Beach, CA",
-      "department": "Product",
-      "company": "AAA Club Alliance",
-      "score": 58,
-      "scoreReasons": [
         "direct ATS"
       ]
     },
@@ -37384,6 +37311,59 @@
       "id": "canonical:5f1d92841c62a84d",
       "title": "Systems Software Engineer Intern, Metropolis",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer-Intern--Metropolis---Fall-2026_JR2018016",
+      "location": "Santa Clara, CA",
+      "department": "",
+      "company": "NVIDIA",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:09ae29fd77b17064",
+      "title": "Software Engineer Intern",
+      "url": "https://www.workatastartup.com/jobs/95003",
+      "location": "San Mateo, CA",
+      "department": "",
+      "company": "StarSling",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "YC job"
+      ]
+    },
+    {
+      "id": "canonical:7fd0670d484537cc",
+      "title": "Full Stack Engineering Intern",
+      "url": "https://www.workatastartup.com/jobs/94993",
+      "location": "San Francisco, CA",
+      "department": "",
+      "company": "Nash",
+      "score": 56,
+      "scoreReasons": [
+        "YC job"
+      ]
+    },
+    {
+      "id": "canonical:87221dd80d926fbc",
+      "title": "Software Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/podium81/jobs/7939921",
+      "location": "Lehi, UT",
+      "department": "",
+      "company": "Podium",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:2d5662995c1d5444",
+      "title": "Quantum Research Scientist Intern",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244",
       "location": "Santa Clara, CA",
       "department": "",
       "company": "NVIDIA",
