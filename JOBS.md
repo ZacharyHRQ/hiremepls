@@ -185,7 +185,7 @@
 - [BrowserOS](#browseros) (1)
 - [Burns & McDonnell](#burns-mcdonnell) (1)
 - [By Light Professional IT Services](#by-light-professional-it-services) (1)
-- [ByteDance](#bytedance) (25)
+- [ByteDance](#bytedance) (26)
 - [C3Aero](#c3aero) (3)
 - [Cable One](#cable-one) (1)
 - [CACI](#caci) (3)
@@ -250,7 +250,7 @@
 - [Cloudflare](#cloudflare) (41)
 - [Cloudforce](#cloudforce) (2)
 - [Cloudglue - YC](#cloudglue-yc) (1)
-- [CME Group](#cme-group) (2)
+- [CME Group](#cme-group) (1)
 - [CoBank](#cobank) (1)
 - [Cockroach Labs](#cockroach-labs) (1)
 - [Codeage](#codeage) (1)
@@ -336,7 +336,6 @@
 - [Domu Technology Inc.](#domu-technology-inc) (1)
 - [Dorsia](#dorsia) (1)
 - [DotDash Meredith](#dotdash-meredith) (1)
-- [doTERRA](#doterra) (1)
 - [DoubleVerify](#doubleverify) (1)
 - [Dow Chemical Company](#dow-chemical-company) (1)
 - [Dow Jones](#dow-jones) (1)
@@ -390,6 +389,7 @@
 - [Eurofins](#eurofins) (2)
 - [Eventual](#eventual) (1)
 - [Everest (F25)](#everest-f25) (1)
+- [Everlaw](#everlaw) (1)
 - [Eversource Energy](#eversource-energy) (1)
 - [Exegy](#exegy) (1)
 - [Exiger](#exiger) (2)
@@ -459,7 +459,6 @@
 - [GitHub](#github) (2)
 - [Givelify](#givelify) (1)
 - [Global Partners](#global-partners) (1)
-- [Globalization Partners](#globalization-partners) (1)
 - [GlossGenius](#glossgenius) (1)
 - [Glydways](#glydways) (1)
 - [GM financial](#gm-financial) (5)
@@ -565,7 +564,6 @@
 - [Jane Street](#jane-street) (12)
 - [JINGDONG](#jingdong) (2)
 - [John Deere](#john-deere) (1)
-- [Johnson & Johnson](#johnson-johnson) (1)
 - [Johnson and Johnson](#johnson-and-johnson) (1)
 - [Johnson Controls](#johnson-controls) (2)
 - [Jolera](#jolera) (1)
@@ -711,7 +709,7 @@
 - [Nintendo of America](#nintendo-of-america) (1)
 - [Nio](#nio) (2)
 - [Nixo](#nixo) (1)
-- [Nokia](#nokia) (21)
+- [Nokia](#nokia) (23)
 - [NorthMark Strategies](#northmark-strategies) (2)
 - [Northrop Grumman](#northrop-grumman) (1)
 - [Northspyre](#northspyre) (1)
@@ -2457,6 +2455,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Machine Learning Engineer Intern - Security-Data](https://jobs.bytedance.com/en/position/7641703558211586309/detail) | 85 | San Jose, CA | AI/ML/Data | 2026-05-20 |
 | [Test Software Engineer Intern - Intelligent Creation](https://jobs.bytedance.com/en/position/7637923145297119493/detail) | 85 | San Jose, CA | Software | 2026-05-20 |
 | [Backend Software Engineer Intern](https://jobs.bytedance.com/en/position/7507012740722166023/detail) | 85 | San Jose, CA | — | 2026-05-09 |
 | [Backend Software Engineer Intern, Product RD and Infrastructure](https://jobs.bytedance.com/en/position/7522742153819670792/detail?spread=A3T3U6W) | 85 | San Jose, CA | — | 2026-05-09 |
@@ -2979,7 +2978,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Post Grad Data Science Intern](https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/London---Fruit--Wool-Exchange/Post-Grad-Data-Science-Intern---Current-PhD-Students_33785) | 68 | London, UK | AI/ML/Data | 2026-05-17 |
 | [Quant Risk Management Intern](https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/New-York---300-Vesey-Street/Quant-Risk-Management-Intern---Year-Round_34255) | 68 | NYC | Quant | 2026-05-09 |
 
 ## CoBank
@@ -3549,12 +3547,6 @@
 | --- | --- | --- | --- | --- |
 | [Transaction Tooling Intern](https://meredith.wd5.myworkdayjobs.com/en-US/EXT/job/Alberta-CAN-Remote/Transaction-Tooling-Intern_JR15325) | 68 | Edmonton, AB, Canada / Remote in Canada | Software | 2026-05-17 |
 
-## doTERRA
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Business Data Analyst Intern](https://doterra.wd1.myworkdayjobs.com/doTERRACareers/job/Pleasant-Grove-UT/Business-Data-Analyst-Intern_JR2419) | 68 | American Fork, UT | AI/ML/Data | 2026-05-18 |
-
 ## DoubleVerify
 
 | Title | Score | Location | Department | First seen |
@@ -3921,6 +3913,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Engineering Intern](https://www.workatastartup.com/jobs/80429) | 56 | San Francisco, CA | — | 2026-05-09 |
+
+## Everlaw
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [GTM Data Analyst Intern](https://job-boards.greenhouse.io/everlaw/jobs/4676925006) | 68 | Oakland, CA | AI/ML/Data | 2026-05-20 |
 
 ## Eversource Energy
 
@@ -4414,12 +4412,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Data Engineering Intern](https://global.wd1.myworkdayjobs.com/globalpartnerscareers/job/Waltham-MA---Corporate-Headquarters/Data-Engineering-Intern_R0030316) | 68 | Waltham, MA | AI/ML/Data | 2026-05-16 |
-
-## Globalization Partners
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI - Intern](https://job-boards.greenhouse.io/globalizationpartners/jobs/7720641003) | 68 | Remote in USA | AI/ML/Data | 2026-05-09 |
 
 ## GlossGenius
 
@@ -5185,12 +5177,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Data and Analytics Intern](https://johndeere.eightfold.ai/careers/job/137476749430) | 50 | Davenport, IA | — | 2026-05-09 |
-
-## Johnson & Johnson
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Clinical Data Science Electrophysiology Biostatistics Intern](https://jj.wd5.myworkdayjobs.com/JJ/job/Irvine-California-United-States-of-America/CDS-EP-MedTech-Summer-Intern_R-056163) | 68 | Irvine, CA | AI/ML/Data | 2026-05-16 |
 
 ## Johnson and Johnson
 
@@ -6317,6 +6303,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Embedded C/C++ Software Developer Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35268) | 85 | Ottawa, ON, Canada | Hardware | 2026-05-20 |
+| [ASIC Verification Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36281) | 50 | Ottawa, ON, Canada | Hardware | 2026-05-20 |
 | [Incubation Developer Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34239) | 85 | Ottawa, ON, Canada | Software | 2026-05-09 |
 | [Incubation Developer Coop/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34227) | 85 | Ottawa, ON, Canada | Software | 2026-05-09 |
 | [Software Developer Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34725) | 85 | Ottawa, ON, Canada | Software | 2026-05-09 |
