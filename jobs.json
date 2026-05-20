@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-20T15:54:33.666Z",
+  "generatedAt": "2026-05-20T18:09:50.080Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 2828,
+  "jobCount": 2821,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -88,9 +88,7 @@
     "canonical:047b58e6b7c917a3": "2026-05-15T20:39:51.368Z",
     "canonical:d5b7c15c0c798890": "2026-05-06T06:42:07.596Z",
     "canonical:d339cb02baee9dfb": "2026-05-06T06:42:07.596Z",
-    "canonical:4481957158fd7980": "2026-05-06T06:42:07.596Z",
     "canonical:ad5b3cc499788169": "2026-05-06T06:42:07.596Z",
-    "canonical:d03b39b654487fa3": "2026-05-06T06:42:07.596Z",
     "canonical:b9c80a0e460c21f1": "2026-05-13T15:34:11.447Z",
     "canonical:a8687a9df6bba6dd": "2026-05-06T06:42:07.596Z",
     "canonical:7b9ac45cbdadc4ef": "2026-05-06T06:42:07.596Z",
@@ -601,15 +599,12 @@
     "canonical:6ca6e14de5ab7121": "2026-05-09T15:28:15.527Z",
     "canonical:6f2659803949670c": "2026-05-13T22:37:04.081Z",
     "canonical:f6d52c60d3d83059": "2026-05-09T15:28:15.527Z",
-    "canonical:30ee8dc88f7220d4": "2026-05-09T15:28:15.527Z",
     "canonical:7941eff9d963f9ad": "2026-05-09T15:28:15.527Z",
-    "canonical:f9f7e530a72e7246": "2026-05-09T15:28:15.527Z",
     "canonical:27fa5d3290d6515b": "2026-05-13T22:37:04.081Z",
     "canonical:b687766cd6e7e6ff": "2026-05-09T15:28:15.527Z",
     "canonical:b8e9ae65c4c0bcdb": "2026-05-09T15:28:15.527Z",
     "canonical:941d02dc047a74b1": "2026-05-13T22:37:04.081Z",
     "canonical:b829286cb05e29f4": "2026-05-09T15:28:15.527Z",
-    "canonical:3f52e38967dfc4f0": "2026-05-09T15:28:15.527Z",
     "canonical:0355ce93b2f2fcac": "2026-05-09T15:28:15.527Z",
     "canonical:5ec53d479123c910": "2026-05-09T15:28:15.527Z",
     "canonical:2b82dc1770f79419": "2026-05-09T15:28:15.527Z",
@@ -1130,7 +1125,6 @@
     "canonical:d740b7c5e5a74f25": "2026-05-11T23:38:25.770Z",
     "canonical:c1ba5cce02efb791": "2026-05-12T04:54:37.025Z",
     "canonical:be8b159ede46d401": "2026-05-12T07:37:38.894Z",
-    "canonical:516f4551e7840110": "2026-05-12T15:18:26.429Z",
     "canonical:2a8d3ecb686342a4": "2026-05-09T15:28:15.527Z",
     "canonical:ce5569247a10aa36": "2026-05-13T22:37:04.081Z",
     "canonical:e7ae583bc99492bf": "2026-05-13T22:37:04.081Z",
@@ -2620,7 +2614,6 @@
     "canonical:6db13f9ceccec70b": "2026-05-17T04:18:58.240Z",
     "canonical:0a89c5d5dd00f36f": "2026-05-17T04:18:58.240Z",
     "canonical:6142c864cbffa174": "2026-05-17T04:18:58.240Z",
-    "canonical:5dbe597bedd692a6": "2026-05-17T04:18:58.240Z",
     "canonical:39258d85de43318e": "2026-05-17T04:18:58.240Z",
     "canonical:ed3c324823696580": "2026-05-17T04:18:58.240Z",
     "canonical:7439a2dd433c73c9": "2026-05-17T04:18:58.240Z",
@@ -3920,34 +3913,9 @@
       ]
     },
     {
-      "id": "canonical:4481957158fd7980",
-      "title": "Content Marketing Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7733145?gh_jid=7733145",
-      "location": "In-Office",
-      "department": "",
-      "company": "Cloudflare",
-      "score": 38,
-      "scoreReasons": [
-        "direct ATS",
-        "lower-fit title"
-      ]
-    },
-    {
       "id": "canonical:ad5b3cc499788169",
       "title": "Customer Advocacy Intern (Summer 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7743202?gh_jid=7743202",
-      "location": "In-Office",
-      "department": "",
-      "company": "Cloudflare",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:d03b39b654487fa3",
-      "title": "CxO Transformation Partners Intern - (Summer/Spring/Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7786702?gh_jid=7786702",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -4259,7 +4227,7 @@
     {
       "id": "canonical:d14a513f8325af8e",
       "title": "Security Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -11263,20 +11231,6 @@
       ]
     },
     {
-      "id": "canonical:30ee8dc88f7220d4",
-      "title": "Software Engineer - Intern - Perception",
-      "url": "https://jobs.ashbyhq.com/AeroVect/cb3ec12d-5f24-4047-bdc5-f262b60bd3ad/application",
-      "location": "San Bruno, CA",
-      "department": "Software",
-      "company": "AeroVect",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:7941eff9d963f9ad",
       "title": "FPGA Intern",
       "url": "https://jobs.ashbyhq.com/taaraconnect/9d46074e-4fa8-44ce-9b2e-59296f6bf2e9/application",
@@ -11297,20 +11251,6 @@
       "company": "Techtronic Industries",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:f9f7e530a72e7246",
-      "title": "Intern Software Engineer",
-      "url": "https://jobs.ashbyhq.com/haydenai/b577f0a4-d5c7-450d-b302-5b7b9946c020/application",
-      "location": "SF",
-      "department": "Software",
-      "company": "Hayden AI",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -11455,19 +11395,6 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:3f52e38967dfc4f0",
-      "title": "Software Engineer Intern",
-      "url": "https://careers-gdms.icims.com/jobs/70859/job?mobile=true&needsRedirect=false",
-      "location": "Bloomington, MN",
-      "department": "Software",
-      "company": "General Dynamics Mission Systems",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -12754,19 +12681,6 @@
       ]
     },
     {
-      "id": "canonical:5dbe597bedd692a6",
-      "title": "Database Operations & Reporting Intern",
-      "url": "https://argonne.wd1.myworkdayjobs.com/EDU_PUB/job/Lemont-IL-USA/Database-Operations---Reporting-Intern_422455",
-      "location": "Woodridge, IL",
-      "department": "AI/ML/Data",
-      "company": "Argonne National Laboratory",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:23ba199774caa9e1",
       "title": "Rust Software Engineering Intern",
       "url": "https://jobs.ashbyhq.com/atomicsemi/009d0819-c688-4ab9-8816-a3c7ab002470/application",
@@ -14043,19 +13957,6 @@
       ]
     },
     {
-      "id": "canonical:d7c0dc3be032d935",
-      "title": "Quant Risk Management Intern",
-      "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/New-York---300-Vesey-Street/Quant-Risk-Management-Intern---Year-Round_34255",
-      "location": "NYC",
-      "department": "Quant",
-      "company": "CME Group",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:ed2691999ef7072b",
       "title": "AI Intern",
       "url": "https://job-boards.greenhouse.io/attentive/jobs/4209296009",
@@ -14685,6 +14586,19 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:d7c0dc3be032d935",
+      "title": "Quant Risk Management Intern",
+      "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/New-York---300-Vesey-Street/Quant-Risk-Management-Intern---Year-Round_34278",
+      "location": "NYC",
+      "department": "Quant",
+      "company": "CME Group",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -20009,19 +19923,6 @@
       "score": 58,
       "scoreReasons": [
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:516f4551e7840110",
-      "title": "Artificial Intelligence Engineer Intern - Artificial Intelligence",
-      "url": "https://www.pindrop.com/careers/job-title/?gh_jid=7899137",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "Pindrop",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
