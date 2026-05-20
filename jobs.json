@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-20T05:58:26.449Z",
+  "generatedAt": "2026-05-20T09:31:24.736Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 2838,
+  "jobCount": 2834,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -136,8 +136,6 @@
     "canonical:2e7062322c9a9406": "2026-05-09T15:28:15.527Z",
     "canonical:af79fbc01518a2f4": "2026-05-09T15:28:15.527Z",
     "canonical:f1b66a6a59f7a24b": "2026-05-09T15:28:15.527Z",
-    "canonical:69e2953960efe041": "2026-05-09T15:28:15.527Z",
-    "canonical:c99bcdc4963328de": "2026-05-09T15:28:15.527Z",
     "canonical:7dfd740ed0053053": "2026-05-09T15:28:15.527Z",
     "canonical:1d2cdc88cb1e1e96": "2026-05-09T15:28:15.527Z",
     "canonical:a81f66d0e800cefb": "2026-05-09T15:28:15.527Z",
@@ -353,7 +351,6 @@
     "canonical:c8e0a5583a96855e": "2026-05-09T15:28:15.527Z",
     "canonical:a9091112dc9c9132": "2026-05-09T15:28:15.527Z",
     "canonical:384e9da2fbe0d831": "2026-05-09T15:28:15.527Z",
-    "canonical:47d3c0190c055e1c": "2026-05-11T14:01:48.198Z",
     "canonical:0ebe834f525759f5": "2026-05-09T15:28:15.527Z",
     "canonical:413dd4595adc13b0": "2026-05-09T15:28:15.527Z",
     "canonical:c93a16db6b5f253b": "2026-05-09T15:28:15.527Z",
@@ -529,7 +526,6 @@
     "canonical:291945307d05dc1c": "2026-05-09T15:28:15.527Z",
     "canonical:2b7e2c2fb8fd5982": "2026-05-09T15:28:15.527Z",
     "canonical:780a119da3f76a2d": "2026-05-09T15:28:15.527Z",
-    "canonical:2b1abe81beafacde": "2026-05-14T01:31:29.727Z",
     "canonical:0b472711a2fa6f9a": "2026-05-09T15:28:15.527Z",
     "canonical:5aca11ebb143d0e2": "2026-05-09T15:28:15.527Z",
     "canonical:0c828fc1d244e031": "2026-05-09T15:28:15.527Z",
@@ -790,7 +786,6 @@
     "canonical:6fe48f012dc1346c": "2026-05-13T23:40:40.818Z",
     "canonical:5f0c132b1b14e2e1": "2026-05-09T15:28:15.527Z",
     "canonical:96233cebc75fdbb2": "2026-05-09T15:28:15.527Z",
-    "canonical:49462c39753a4439": "2026-05-14T23:10:51.689Z",
     "canonical:9b4f6804f15b2767": "2026-05-09T15:28:15.527Z",
     "canonical:757ffdd79d835fc5": "2026-05-09T15:28:15.527Z",
     "canonical:a92ede27e1405f1b": "2026-05-09T15:28:15.527Z",
@@ -2732,7 +2727,6 @@
     "canonical:58727dbceb874706": "2026-05-17T20:38:52.046Z",
     "canonical:228a0f9fec464463": "2026-05-17T21:36:19.095Z",
     "canonical:9f7aa4d799ea7214": "2026-05-17T22:33:43.194Z",
-    "canonical:f6ccc8105f8c92a2": "2026-05-17T23:39:35.969Z",
     "canonical:a4858410287d0d65": "2026-05-18T01:33:21.344Z",
     "canonical:773a4bab35a8f78f": "2026-05-18T01:33:21.344Z",
     "canonical:b81abc03055b6506": "2026-05-18T01:33:21.344Z",
@@ -2792,7 +2786,6 @@
     "canonical:ae587a3dd163baf3": "2026-05-19T12:09:46.073Z",
     "canonical:a7666a373f0726ce": "2026-05-19T15:51:03.148Z",
     "canonical:21a28e90bf258781": "2026-05-19T15:51:03.148Z",
-    "canonical:72f08854f3fb1bf6": "2026-05-19T15:51:03.148Z",
     "canonical:09ae29fd77b17064": "2026-05-19T17:57:07.076Z",
     "canonical:7fd0670d484537cc": "2026-05-19T17:57:07.076Z",
     "canonical:87221dd80d926fbc": "2026-05-19T17:57:07.076Z",
@@ -2841,7 +2834,10 @@
     "canonical:dc8cdf82544c6bc5": "2026-05-20T05:58:26.449Z",
     "canonical:662cd93e03a48f7c": "2026-05-20T05:58:26.449Z",
     "canonical:49f6d0390d114315": "2026-05-20T05:58:26.449Z",
-    "canonical:16be5f71f67b26d2": "2026-05-20T05:58:26.449Z"
+    "canonical:16be5f71f67b26d2": "2026-05-20T05:58:26.449Z",
+    "canonical:8ec81821b19e9d75": "2026-05-20T09:31:24.736Z",
+    "canonical:6b24f14c98dc711c": "2026-05-20T09:31:24.736Z",
+    "canonical:ac88b4fd6305623b": "2026-05-20T09:31:24.736Z"
   },
   "jobs": [
     {
@@ -2963,10 +2959,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -2978,10 +2974,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -4493,97 +4489,6 @@
       "company": "Cribl",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:2e7062322c9a9406",
-      "title": "Software Engineering Intern",
-      "url": "https://jobs.ashbyhq.com/siftstack/866b0c5b-3e73-4480-aa34-4c44a42d26b6",
-      "location": "El Segundo, CA",
-      "department": "Software Engineering",
-      "company": "Sift",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:af79fbc01518a2f4",
-      "title": "Software Development / Digital Delivery Intern",
-      "url": "https://jobs.arup.com/jobs/software-development-digital-delivery-intern-available-june-2026-29742",
-      "location": "Los Angeles, CA",
-      "department": "Software Engineering",
-      "company": "Arup",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:f1b66a6a59f7a24b",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/exegy/6ae2d836-21a3-4132-bd85-722177ab5cf5",
-      "location": "St. Louis, MO",
-      "department": "Software Engineering",
-      "company": "Exegy",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:69e2953960efe041",
-      "title": "Software Engineering Intern",
-      "url": "https://jobs.lever.co/quantco-/945bd3c0-117a-4b0e-b60a-6759add05fc9",
-      "location": "USA",
-      "department": "Software Engineering",
-      "company": "QuantCo",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:c99bcdc4963328de",
-      "title": "Robotics Intern - Mobile Manipulation, Behaviors",
-      "url": "https://jobs.lever.co/tri/7468a62e-09de-4fb6-b5a2-779dfbb94e73",
-      "location": "Los Altos, CA",
-      "department": "Software Engineering",
-      "company": "Toyota Research Institute",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:7dfd740ed0053053",
-      "title": "Health Software Engineer Intern",
-      "url": "https://voloridge-health.hiringthing.com/job/958323/health-software-engineer-intern-2026",
-      "location": "Jupiter, FL",
-      "department": "Software Engineering",
-      "company": "Voloridge Health",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:1d2cdc88cb1e1e96",
-      "title": "Health DevOps Engineer Intern",
-      "url": "https://voloridge-health.hiringthing.com/job/958324/health-devops-engineer-intern-2026",
-      "location": "Jupiter, FL",
-      "department": "Software Engineering",
-      "company": "Voloridge Health",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
     },
     {
       "id": "canonical:a81f66d0e800cefb",
@@ -7425,19 +7330,6 @@
       ]
     },
     {
-      "id": "canonical:47d3c0190c055e1c",
-      "title": "National Security Solutions – Software Engineering Internship - Nss",
-      "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/National-Security-Solutions--NSS--Software-Engineering-Internship_R2116382",
-      "location": "Chantilly, VA",
-      "department": "Software",
-      "company": "KBR",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:0ebe834f525759f5",
       "title": "Intern Enterprise Architecture",
       "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1074",
@@ -10195,18 +10087,6 @@
       "score": 68,
       "scoreReasons": [
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:2b1abe81beafacde",
-      "title": "Intern AI Product Management",
-      "url": "https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Intern---AI-Product-Management--Agentic-Workflows_R18582",
-      "location": "Seattle, WA",
-      "department": "Product",
-      "company": "Zoom",
-      "score": 58,
-      "scoreReasons": [
         "direct ATS"
       ]
     },
@@ -14443,20 +14323,6 @@
       ]
     },
     {
-      "id": "canonical:49462c39753a4439",
-      "title": "Co-op Intern - Indirect Tax",
-      "url": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Oakville/Co-op-or-Intern--Indirect-Tax--Summer-2026--GTA-Offices_JR6108",
-      "location": "Toronto, ON, Canada / Markham, ON, Canada / Oakville, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "BDO Canada",
-      "score": 48,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS",
-        "lower-fit title"
-      ]
-    },
-    {
       "id": "canonical:9b4f6804f15b2767",
       "title": "Hardware Development Intern/Co-op",
       "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/33958",
@@ -17976,19 +17842,6 @@
       "location": "Montreal, QC, Canada / London, UK / Toronto, ON, Canada / SF",
       "department": "AI/ML/Data",
       "company": "Cohere",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:f6ccc8105f8c92a2",
-      "title": "GTM Data Analyst Intern",
-      "url": "https://job-boards.greenhouse.io/everlaw/jobs/4676925006",
-      "location": "Oakland, CA",
-      "department": "AI/ML/Data",
-      "company": "Everlaw",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -22113,6 +21966,18 @@
       ]
     },
     {
+      "id": "canonical:8ec81821b19e9d75",
+      "title": "Digital Travel Product Intern",
+      "url": "https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Digital-Travel-Product-Intern_JR202636489",
+      "location": "Newport Beach, CA",
+      "department": "Product",
+      "company": "AAA Club Alliance",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:f96555673f195af4",
       "title": "Data Science Intern - Music & Audio",
       "url": "https://jobs.ashbyhq.com/melotech/f2f3e785-12a0-4d30-be43-e6c5c119a6c2/application",
@@ -22163,6 +22028,20 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:6b24f14c98dc711c",
+      "title": "Data & Marketing Analytics Intern",
+      "url": "https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Data---Marketing-Analytics-Intern_JR202636492",
+      "location": "Newport Beach, CA",
+      "department": "AI/ML/Data",
+      "company": "AAA Club Alliance",
+      "score": 48,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS",
+        "lower-fit title"
       ]
     },
     {
@@ -22350,19 +22229,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:72f08854f3fb1bf6",
-      "title": "Software Development Intern",
-      "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Quebec-CA/Software-Development-Intern-L1J17007_JR0000043238",
-      "location": "Quebec City, QC, Canada",
-      "department": "Software",
-      "company": "Marmon Holdings",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -22742,6 +22608,19 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ac88b4fd6305623b",
+      "title": "Engineer Co-op/Intern - Data & Analytics",
+      "url": "https://careers-kinaxis.icims.com/jobs/34766/job?mobile=true&needsRedirect=false",
+      "location": "Ottawa, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "Kinaxis",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
@@ -30267,6 +30146,31 @@
       "scoreReasons": []
     },
     {
+      "id": "canonical:7dfd740ed0053053",
+      "title": "Health Software Engineer Intern",
+      "url": "https://voloridge-health.hiringthing.com/job/958323/health-software-engineer-intern-2026",
+      "location": "Jupiter, FL",
+      "department": "",
+      "company": "Voloridge Health",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:1d2cdc88cb1e1e96",
+      "title": "Health DevOps Engineer Intern",
+      "url": "https://voloridge-health.hiringthing.com/job/958324/health-devops-engineer-intern-2026",
+      "location": "Jupiter, FL",
+      "department": "",
+      "company": "Voloridge Health",
+      "score": 75,
+      "scoreReasons": [
+        "SWE-aligned"
+      ]
+    },
+    {
       "id": "canonical:23a13ee3ef730899",
       "title": "Software Development Intern, Resort Accessibility And Compliance",
       "url": "https://jobs.universalparks.com/job/22443305/internship-software-development-resort-accessibility-and-compliance-summer-2026-orlando-fl",
@@ -30433,6 +30337,18 @@
       ]
     },
     {
+      "id": "canonical:af79fbc01518a2f4",
+      "title": "Software Development / Digital Delivery Intern",
+      "url": "https://jobs.arup.com/jobs/software-development-digital-delivery-intern-available-june-2026-29742",
+      "location": "Los Angeles, CA",
+      "department": "",
+      "company": "Arup",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:9ed74dc01e5e460b",
       "title": "Software Engineer Intern, Backend Focused",
       "url": "https://ats.rippling.com/en-GB/rippling/jobs/e4caf979-a0aa-48c8-94f6-31bb3deeef5b",
@@ -30556,6 +30472,20 @@
       "company": "SAP",
       "score": 50,
       "scoreReasons": []
+    },
+    {
+      "id": "canonical:f1b66a6a59f7a24b",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/exegy/6ae2d836-21a3-4132-bd85-722177ab5cf5",
+      "location": "St. Louis, MO",
+      "department": "",
+      "company": "Exegy",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
     },
     {
       "id": "canonical:61bb6210e9de56d2",
@@ -30777,6 +30707,19 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:2e7062322c9a9406",
+      "title": "Software Engineering Intern",
+      "url": "https://jobs.ashbyhq.com/siftstack/866b0c5b-3e73-4480-aa34-4c44a42d26b6",
+      "location": "El Segundo, CA",
+      "department": "",
+      "company": "Sift",
+      "score": 68,
+      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]

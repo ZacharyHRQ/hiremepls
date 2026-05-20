@@ -1,12 +1,13 @@
 # Open Internships
 
-**2838** internships across **63/64** companies — last updated 2026-05-20.
+**2834** internships across **63/64** companies — last updated 2026-05-20.
 
 ## Companies
 
 - [ PrizePicks](#prizepicks) (1)
 - [14.ai](#14-ai) (1)
 - [a0.dev](#a0-dev) (1)
+- [AAA Club Alliance](#aaa-club-alliance) (2)
 - [ABB](#abb) (5)
 - [Abbott](#abbott) (1)
 - [ABC Fitness](#abc-fitness) (1)
@@ -139,7 +140,7 @@
 - [Bank of Montreal](#bank-of-montreal) (6)
 - [Barkback](#barkback) (1)
 - [Baseten](#baseten) (1)
-- [BDO Canada](#bdo-canada) (3)
+- [BDO Canada](#bdo-canada) (2)
 - [beBeeManufacturingEngineering](#bebeemanufacturingengineering) (1)
 - [Beckman Coulter Life Sciences](#beckman-coulter-life-sciences) (1)
 - [Benjamin Moore](#benjamin-moore) (1)
@@ -389,7 +390,6 @@
 - [Eurofins](#eurofins) (2)
 - [Eventual](#eventual) (1)
 - [Everest (F25)](#everest-f25) (1)
-- [Everlaw](#everlaw) (1)
 - [Eversource Energy](#eversource-energy) (1)
 - [Exegy](#exegy) (1)
 - [Exiger](#exiger) (2)
@@ -576,12 +576,12 @@
 - [K1](#k1) (1)
 - [Kaiser Permanente](#kaiser-permanente) (6)
 - [Kargo](#kargo) (1)
-- [KBR](#kbr) (9)
+- [KBR](#kbr) (8)
 - [Kearney&Company](#kearney-company) (1)
 - [Kelso Industries](#kelso-industries) (1)
 - [Keysight](#keysight) (4)
 - [Keysight Technologies](#keysight-technologies) (8)
-- [Kinaxis](#kinaxis) (5)
+- [Kinaxis](#kinaxis) (6)
 - [Kingland](#kingland) (1)
 - [KION Group](#kion-group) (8)
 - [Kioxia](#kioxia) (1)
@@ -640,7 +640,7 @@
 - [Marathon Petroleum Corporation](#marathon-petroleum-corporation) (1)
 - [Mariana Minerals](#mariana-minerals) (3)
 - [Maricopa Association of Governments (MAG)](#maricopa-association-of-governments-mag) (1)
-- [Marmon Holdings](#marmon-holdings) (2)
+- [Marmon Holdings](#marmon-holdings) (1)
 - [Marshall Wace](#marshall-wace) (1)
 - [Martin's Famous Pastry Shoppe, Inc.](#martin-s-famous-pastry-shoppe-inc) (1)
 - [Marvell](#marvell) (9)
@@ -805,7 +805,6 @@
 - [Quad](#quad) (1)
 - [Quadric](#quadric) (3)
 - [Qualcomm](#qualcomm) (3)
-- [QuantCo](#quantco) (1)
 - [Quantum Signal AI](#quantum-signal-ai) (1)
 - [Quantum Signal AI (QSAI)](#quantum-signal-ai-qsai) (1)
 - [Rackner](#rackner) (1)
@@ -1028,7 +1027,7 @@
 - [Token Metrics](#token-metrics) (2)
 - [Topel Forman LLC](#topel-forman-llc) (1)
 - [Tower Research Capital](#tower-research-capital) (12)
-- [Toyota Research Institute](#toyota-research-institute) (2)
+- [Toyota Research Institute](#toyota-research-institute) (1)
 - [TraceRoot.AI](#traceroot-ai) (1)
 - [Tradeweb](#tradeweb) (6)
 - [Trane Technologies](#trane-technologies) (8)
@@ -1138,7 +1137,6 @@
 - [Zillow](#zillow) (4)
 - [Zip](#zip) (2)
 - [Zoetis](#zoetis) (1)
-- [Zoom](#zoom) (1)
 - [Zoox](#zoox) (2)
 
 ##  PrizePicks
@@ -1158,6 +1156,13 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](https://www.workatastartup.com/jobs/83361) | 66 | San Francisco, CA | — | 2026-05-09 |
+
+## AAA Club Alliance
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Digital Travel Product Intern](https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Digital-Travel-Product-Intern_JR202636489) | 58 | Newport Beach, CA | Product | 2026-05-20 |
+| [Data & Marketing Analytics Intern](https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Data---Marketing-Analytics-Intern_JR202636492) | 48 | Newport Beach, CA | AI/ML/Data | 2026-05-20 |
 
 ## ABB
 
@@ -1783,7 +1788,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Development / Digital Delivery Intern](https://jobs.arup.com/jobs/software-development-digital-delivery-intern-available-june-2026-29742) | 60 | Los Angeles, CA | Software Engineering | 2026-05-09 |
+| [Software Development / Digital Delivery Intern](https://jobs.arup.com/jobs/software-development-digital-delivery-intern-available-june-2026-29742) | 60 | Los Angeles, CA | — | 2026-05-09 |
 
 ## Asana
 
@@ -2138,7 +2143,6 @@
 | --- | --- | --- | --- | --- |
 | [Full-Stack Developer Intern/Co-op](https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Co-op-or-Intern--Full-Stack-Developer--September-2026-_JR6289) | 93 | Toronto, ON, Canada / Oakville, ON, Canada / Ottawa, ON, Canada | Software | 2026-05-15 |
 | [Data & Analytics Co-op/Intern - Data & Analytics](https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Co-op-or-Intern--Data---Analytics--September-2026-_JR6295) | 68 | Montreal, QC, Canada / Toronto, ON, Canada / Calgary, AB, Canada / Oakville, ON, Canada / Ottawa, ON, Canada / Vancouver, BC, Canada / Halifax Regional Municipality, NS, Canada | AI/ML/Data | 2026-05-15 |
-| [Co-op Intern - Indirect Tax](https://bdo.wd3.myworkdayjobs.com/BDO/job/Oakville/Co-op-or-Intern--Indirect-Tax--Summer-2026--GTA-Offices_JR6108) | 48 | Toronto, ON, Canada / Markham, ON, Canada / Oakville, ON, Canada | AI/ML/Data | 2026-05-14 |
 
 ## beBeeManufacturingEngineering
 
@@ -3918,12 +3922,6 @@
 | --- | --- | --- | --- | --- |
 | [Engineering Intern](https://www.workatastartup.com/jobs/80429) | 56 | San Francisco, CA | — | 2026-05-09 |
 
-## Everlaw
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [GTM Data Analyst Intern](https://job-boards.greenhouse.io/everlaw/jobs/4676925006) | 68 | Oakland, CA | AI/ML/Data | 2026-05-17 |
-
 ## Eversource Energy
 
 | Title | Score | Location | Department | First seen |
@@ -3934,7 +3932,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://jobs.ashbyhq.com/exegy/6ae2d836-21a3-4132-bd85-722177ab5cf5) | 93 | St. Louis, MO | Software Engineering | 2026-05-09 |
+| [Software Engineer Intern](https://jobs.ashbyhq.com/exegy/6ae2d836-21a3-4132-bd85-722177ab5cf5) | 93 | St. Louis, MO | — | 2026-05-09 |
 
 ## Exiger
 
@@ -4912,8 +4910,8 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Hardware Machine Learning PhD Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, IL | AI/ML/Data | 2026-05-09 |
-| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
+| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
 | [Hardware Machine Learning PhD Research Internship](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, United States | — | 2026-05-06 |
 | [Graduate Broker Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4608590101) | 64 | Chicago, United States | — | 2026-05-06 |
 | [Graduate Floor Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4786701101) | 64 | Chicago, United States; Miami, United States; New York, United States; Philadelphia, United States; San Francisco, United States | — | 2026-05-06 |
@@ -5278,7 +5276,6 @@
 | [National Security Solutions Intern - Nss](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Huntsville-Alabama/National-Security-Solutions--NSS--Internship---Electronic-Warfare-Knowledge-Graph---AI-Analytics_R2120571) | 68 | Huntsville, AL | AI/ML/Data | 2026-05-17 |
 | [National Security Solutions Intern - Positioning - Navigation and Timing](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/National-Security-Solutions--NSS--Internship---Positioning--Navigation-and-Timing--PNT-_R2116882) | 68 | Beavercreek, OH | Software | 2026-05-17 |
 | [National Security Solutions – Internship – AI/ML Intern - Nss](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/National-Security-Solutions--NSS--Internship---AI-ML-Intern_R2118798) | 68 | Chantilly, VA | AI/ML/Data | 2026-05-17 |
-| [National Security Solutions – Software Engineering Internship - Nss](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/National-Security-Solutions--NSS--Software-Engineering-Internship_R2116382) | 68 | Chantilly, VA | Software | 2026-05-11 |
 | [Software Application Developer Intern for GOES-R Series Satellites](https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Silver-Spring-Maryland/Software-Application-Developer-Intern-for-GOES-R-Series-Satellites_R2115543) | 93 | Silver Spring, MD | Software Engineering | 2026-05-09 |
 | [National Security Solutions – Software Engineering Intern - Nss](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Columbia-Maryland/National-Security-Solutions--NSS----Software-Engineering-Internship_R2122608) | 68 | Columbia, MD | Hardware | 2026-05-09 |
 | [Software Engineering Intern](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Columbia-Maryland/National-Security-Solutions--NSS----Software-Engineering-Internship_R2122608) | 68 | Columbia, MD | — | 2026-05-09 |
@@ -5322,6 +5319,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Engineer Co-op/Intern - Data & Analytics](https://careers-kinaxis.icims.com/jobs/34766/job?mobile=true&needsRedirect=false) | 85 | Ottawa, ON, Canada | AI/ML/Data | 2026-05-20 |
 | [Software Developer Co-op/Intern - Core Algorithms - Life Sciences](https://careers-kinaxis.icims.com/jobs/34704/job?mobile=true&needsRedirect=false) | 85 | Ottawa, ON, Canada | Software | 2026-05-15 |
 | [Developer Co-op/Intern - Clients - Front End Technologies](https://careers-kinaxis.icims.com/jobs/34702/job?mobile=true&needsRedirect=false) | 85 | Ottawa, ON, Canada | Software | 2026-05-14 |
 | [Software Developer Co-op/Intern - Core Algorithms](https://careers-kinaxis.icims.com/jobs/34701/job?mobile=true&needsRedirect=false) | 85 | Ottawa, ON, Canada | Software | 2026-05-14 |
@@ -5748,7 +5746,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Development Intern](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Quebec-CA/Software-Development-Intern-L1J17007_JR0000043238) | 68 | Quebec City, QC, Canada | Software | 2026-05-19 |
 | [Product Management/Marketing Intern - Summer 2026](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Charlotte-NC/Product-Management-Marketing-Intern---Summer-2026_JR0000037719-3) | 38 | Charlotte, NC | Product | 2026-05-17 |
 
 ## Marshall Wace
@@ -7062,12 +7059,6 @@
 | [GPU Compiler Development Intern](https://qualcomm.eightfold.ai/careers/job/446715134609) | 50 | Markham, Canada | — | 2026-05-09 |
 | [Intern - And Sensors Subsystem Engineering Internship](https://qualcomm.eightfold.ai/careers/job/446714867461) | 50 | Markham, ON, Canada | — | 2026-05-09 |
 
-## QuantCo
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineering Intern](https://jobs.lever.co/quantco-/945bd3c0-117a-4b0e-b60a-6759add05fc9) | 68 | USA | Software Engineering | 2026-05-09 |
-
 ## Quantum Signal AI
 
 | Title | Score | Location | Department | First seen |
@@ -7743,7 +7734,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineering Intern](https://jobs.ashbyhq.com/siftstack/866b0c5b-3e73-4480-aa34-4c44a42d26b6) | 68 | El Segundo, CA | Software Engineering | 2026-05-09 |
+| [Software Engineering Intern](https://jobs.ashbyhq.com/siftstack/866b0c5b-3e73-4480-aa34-4c44a42d26b6) | 68 | El Segundo, CA | — | 2026-05-09 |
 
 ## Signify
 
@@ -8881,7 +8872,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Human-Centered AI Intern: Human-Computer Interaction](https://jobs.lever.co/tri/000be2f3-b77c-4719-8476-0718c4c49a19/apply) | 68 | Mountain View, CA | AI/ML/Data | 2026-05-09 |
-| [Robotics Intern - Mobile Manipulation, Behaviors](https://jobs.lever.co/tri/7468a62e-09de-4fb6-b5a2-779dfbb94e73) | 68 | Los Altos, CA | Software Engineering | 2026-05-09 |
 
 ## TraceRoot.AI
 
@@ -9289,8 +9279,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Health DevOps Engineer Intern](https://voloridge-health.hiringthing.com/job/958324/health-devops-engineer-intern-2026) | 85 | Jupiter, FL | Software Engineering | 2026-05-09 |
-| [Health Software Engineer Intern](https://voloridge-health.hiringthing.com/job/958323/health-software-engineer-intern-2026) | 85 | Jupiter, FL | Software Engineering | 2026-05-09 |
+| [Health Software Engineer Intern](https://voloridge-health.hiringthing.com/job/958323/health-software-engineer-intern-2026) | 85 | Jupiter, FL | — | 2026-05-09 |
+| [Health DevOps Engineer Intern](https://voloridge-health.hiringthing.com/job/958324/health-devops-engineer-intern-2026) | 75 | Jupiter, FL | — | 2026-05-09 |
 
 ## Voloridge Investment Management
 
@@ -9645,12 +9635,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Quality Operations Intern - AI Assistant Development](https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Lincoln/Quality-Operations-Intern---AI-Assistant-Development_JR00020207-1) | 68 | Lincoln, NE | AI/ML/Data | 2026-05-16 |
-
-## Zoom
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Intern AI Product Management](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Intern---AI-Product-Management--Agentic-Workflows_R18582) | 58 | Seattle, WA | Product | 2026-05-14 |
 
 ## Zoox
 
