@@ -1,6 +1,6 @@
 # Open Internships
 
-**2837** internships across **63/64** companies — last updated 2026-05-20.
+**2838** internships across **63/64** companies — last updated 2026-05-20.
 
 ## Companies
 
@@ -28,7 +28,6 @@
 - [Advantmed](#advantmed) (1)
 - [Aechelon Technology](#aechelon-technology) (2)
 - [AECOM](#aecom) (3)
-- [AEG](#aeg) (1)
 - [AeroVect](#aerovect) (1)
 - [AeroVironment](#aerovironment) (3)
 - [Agility Robotics](#agility-robotics) (1)
@@ -47,7 +46,7 @@
 - [Alston & Bird Law Firm](#alston-bird-law-firm) (1)
 - [Altamira Technologies](#altamira-technologies) (1)
 - [Altamira Technologies Corp.](#altamira-technologies-corp) (1)
-- [Altera Corporation](#altera-corporation) (3)
+- [Altera Corporation](#altera-corporation) (2)
 - [Altice USA](#altice-usa) (2)
 - [Altruist](#altruist) (1)
 - [Altruist Financial LLC](#altruist-financial-llc) (1)
@@ -185,7 +184,7 @@
 - [BrowserOS](#browseros) (1)
 - [Burns & McDonnell](#burns-mcdonnell) (1)
 - [By Light Professional IT Services](#by-light-professional-it-services) (1)
-- [ByteDance](#bytedance) (24)
+- [ByteDance](#bytedance) (25)
 - [C3Aero](#c3aero) (3)
 - [Cable One](#cable-one) (1)
 - [CACI](#caci) (3)
@@ -380,9 +379,9 @@
 - [Equinix](#equinix) (1)
 - [EquipmentShare](#equipmentshare) (3)
 - [Ericsson](#ericsson) (2)
-- [Etched](#etched) (6)
+- [Etched](#etched) (7)
 - [ETCHED](#etched) (1)
-- [Etched.ai](#etched-ai) (6)
+- [Etched.ai](#etched-ai) (7)
 - [ether.fi](#ether-fi) (1)
 - [Ether.fi](#ether-fi) (1)
 - [ETHGlobal](#ethglobal) (1)
@@ -430,7 +429,7 @@
 - [Fortive](#fortive) (2)
 - [Forvis Mazars US](#forvis-mazars-us) (1)
 - [Foundation ](#foundation) (1)
-- [FOX](#fox) (4)
+- [FOX](#fox) (6)
 - [Freddie Mac](#freddie-mac) (1)
 - [Fresco (F24)](#fresco-f24) (1)
 - [GAINS](#gains) (1)
@@ -665,7 +664,7 @@
 - [Mercury Insurance](#mercury-insurance) (1)
 - [Merz](#merz) (1)
 - [Mesh](#mesh) (1)
-- [Meta](#meta) (28)
+- [Meta](#meta) (27)
 - [Metalenz](#metalenz) (1)
 - [Method Financial](#method-financial) (1)
 - [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (5)
@@ -1120,7 +1119,6 @@
 - [Wing](#wing) (1)
 - [Workato](#workato) (1)
 - [Workday](#workday) (6)
-- [Workstream](#workstream) (1)
 - [Woven](#woven) (1)
 - [WSP](#wsp) (1)
 - [WTW](#wtw) (1)
@@ -1309,12 +1307,6 @@
 | [Data Management Intern](https://jobs.smartrecruiters.com/AECOM2/744000084666005) | 58 | LA | — | 2026-05-09 |
 | [Data Management Intern](https://jobs.smartrecruiters.com/AECOM2/744000089107316) | 58 | Salt Lake City, UT | — | 2026-05-09 |
 
-## AEG
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Web Developer Intern - Web Developer - Global Technology](https://aegworldwide.com/careers?gh_jid=8550938002) | 85 | LA | Software | 2026-05-15 |
-
 ## AeroVect
 
 | Title | Score | Location | Department | First seen |
@@ -1446,7 +1438,6 @@
 | --- | --- | --- | --- | --- |
 | [FPGA Software Engineer Intern](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Software-Engineer-Intern_R02502) | 93 | Toronto, ON, Canada | Hardware | 2026-05-19 |
 | [FPGA Development Tools Engineer Intern](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/FPGA-Development-Tools-Engineer---Intern_R02448) | 93 | San Jose, CA | Software | 2026-05-18 |
-| [FPGA Digital Design & Verification – Intern](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/FPGA-Digital-Design---Verification---Intern_R02354-1) | 58 | San Jose, CA | Hardware | 2026-05-09 |
 
 ## Altice USA
 
@@ -2462,6 +2453,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Test Software Engineer Intern - Intelligent Creation](https://jobs.bytedance.com/en/position/7637923145297119493/detail) | 85 | San Jose, CA | Software | 2026-05-20 |
 | [Backend Software Engineer Intern](https://jobs.bytedance.com/en/position/7507012740722166023/detail) | 85 | San Jose, CA | — | 2026-05-09 |
 | [Backend Software Engineer Intern, Product RD and Infrastructure](https://jobs.bytedance.com/en/position/7522742153819670792/detail?spread=A3T3U6W) | 85 | San Jose, CA | — | 2026-05-09 |
 | [Machine Learning Engineer Intern - E-commerce Conversational AI](https://jobs.bytedance.com/en/position/7535157501571500306/detail) | 85 | Seattle, WA | AI/ML/Data | 2026-05-09 |
@@ -3854,6 +3846,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Supercomputing Intern](https://jobs.ashbyhq.com/Etched/b45e357c-07ea-4499-9911-1d3cc9b9ac71/application) | 68 | San Jose, CA | Software | 2026-05-20 |
 | [Firmware Intern](https://jobs.ashbyhq.com/Etched/1efd9b58-66fe-4798-a877-776857b4e189/application) | 58 | San Jose, CA | Hardware | 2026-05-20 |
 | [Mech / Thermal Intern](https://jobs.ashbyhq.com/Etched/b1816ce1-fa42-4855-988b-992556414988/application) | 58 | San Jose, CA | Hardware | 2026-05-20 |
 | [Core SWE Intern](https://jobs.ashbyhq.com/Etched/47e6dec8-2ca6-4359-8cff-0b91bcbf48ea) | 93 | San Jose, CA | — | 2026-05-09 |
@@ -3871,6 +3864,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Chipsim Intern](https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8/application) | 58 | San Jose, CA | Hardware | 2026-05-20 |
 | [Platform Intern - ME](https://jobs.ashbyhq.com/Etched/f05e3218-5ec7-41d1-bc99-bb7014422229/application) | 68 | San Jose, CA | Hardware | 2026-05-09 |
 | [Software Intern](https://jobs.ashbyhq.com/etched/605c286d-be56-4e83-83b8-436d29ce17df) | 68 | San Jose, CA | Software Engineering | 2026-05-09 |
 | [Supercomputing Intern](https://jobs.ashbyhq.com/Etched/982a8ee4-5e1e-43c7-a918-6dac285cdddd/application) | 68 | San Jose, CA | Software | 2026-05-09 |
@@ -4200,6 +4194,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [FOX Technology Intern](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Fall-2026-FOX-Technology-Internship-Program---New-York--NY_R50032648-1) | 68 | NYC | Software | 2026-05-20 |
+| [Technology Intern](https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Fall-2026-FOX-Technology-Internship-Program---Los-Angeles--CA_R50032647) | 68 | LA | Software | 2026-05-20 |
 | [Fox Technology Intern](https://fox.wd1.myworkdayjobs.com/Domestic/job/USA---AZ---Tempe---2010-E-Centennial-Cir/Fox-2026-FOX-Technology-Internship-Program---Tempe--AZ_R50032649) | 68 | Tempe, AZ | Software | 2026-05-20 |
 | [FOX News Media Internship Program Intern - Data Analytics](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Fall-2026-FOX-News-Media-Internship-Program---Data-Analytics---New-York_R50032616-1) | 68 | NYC | AI/ML/Data | 2026-05-18 |
 | [Business Operations Intern/Co-op - Data Analytics](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Summer-2026-FOX-News-Media-Internship-Program---Data-Analytics---New-York_R50030083) | 58 | NYC | — | 2026-05-09 |
@@ -5928,7 +5924,6 @@
 | [Research Scientist Intern - Applied Vision and Image Quality - PhD](https://www.metacareers.com/jobs/1422892385992613) | 85 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Scientist Intern - Applied Vision in Augmented Reality - PhD](https://www.metacareers.com/jobs/1134286408770089) | 85 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Scientist Intern - Language & Multimodal Foundations](https://www.metacareers.com/jobs/24536664159369645) | 85 | Seattle, WA / Menlo Park, CA | AI/ML/Data | 2026-05-09 |
-| [Research Scientist Intern - Optimization - Privacy and Inference](https://www.metacareers.com/jobs/26336808892622129) | 85 | Menlo Park, CA / NYC | AI/ML/Data | 2026-05-09 |
 | [Research Scientist Intern - Photorealistic Telepresence](https://www.metacareers.com/jobs/2022109075207025) | 85 | Sausalito, CA / Redmond, WA / Pittsburgh, PA | AI/ML/Data | 2026-05-09 |
 | [Research Scientist Intern PhD - Applied Research](https://www.metacareers.com/jobs/2633206137040139) | 85 | Menlo Park, CA / NYC / Bellevue, WA | AI/ML/Data | 2026-05-09 |
 | [Research Scientist Intern, LLM Evaluation](https://www.metacareers.com/profile/job_details/4203446973242742) | 85 | New York, NY | Data Science, AI & Machine Learning | 2026-05-09 |
@@ -8157,8 +8152,8 @@
 | [PhD Data Scientist Intern - Data Science](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
 | [PhD Machine Learning Engineer Intern](https://stripe.com/jobs/search?gh_jid=7216664) | 85 | Seattle, WA / SF / NYC | AI/ML/Data | 2026-05-09 |
 | [Software Engineer Intern](https://stripe.com/jobs/listing/software-engineer-intern-summer-and-winter/7210115) | 85 | South San Francisco, CA / Seattle, WA / New York, NY | — | 2026-05-09 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7216664) | 85 | San Francisco, New York City, Seattle | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
@@ -9522,12 +9517,6 @@
 | [Automation Engineer Intern](https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/details/Automation-Engineer-Intern_JR-0100680?source=Careers_Website_ec) | 58 | Pleasanton, CA | — | 2026-05-09 |
 | [Cybersecurity Engineer Intern](https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/details/Cybersecurity-Engineer-Intern_JR-0100803?source=Careers_Website_ec) | 58 | Pleasanton, CA | — | 2026-05-09 |
 | [Product Manager Intern](https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/details/Product-Manager-Intern_JR-0100801?source=Careers_Website_ec) | 58 | Pleasanton, CA | — | 2026-05-09 |
-
-## Workstream
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Wearables Prototype Engineer Intern - Hardware + Software](https://job-boards.greenhouse.io/workstream/jobs/5924391004) | 93 | Menlo Park, CA | Hardware | 2026-05-09 |
 
 ## Woven
 

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-20T01:49:18.107Z",
+  "generatedAt": "2026-05-20T05:58:26.449Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 2837,
+  "jobCount": 2838,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -623,7 +623,6 @@
     "canonical:2b82dc1770f79419": "2026-05-09T15:28:15.527Z",
     "canonical:351d3d1f6713b707": "2026-05-09T15:28:15.527Z",
     "canonical:5a17f5c18e401487": "2026-05-09T15:28:15.527Z",
-    "canonical:dcbf45848845716c": "2026-05-09T15:28:15.527Z",
     "canonical:b6fa8b43a8f153dd": "2026-05-09T15:28:15.527Z",
     "canonical:6b97deb726a272c9": "2026-05-09T15:28:15.527Z",
     "canonical:c05568efcf2d82b2": "2026-05-09T15:28:15.527Z",
@@ -802,7 +801,6 @@
     "canonical:4ebfe85de93f43ab": "2026-05-09T15:28:15.527Z",
     "canonical:72407739dea94c21": "2026-05-09T15:28:15.527Z",
     "canonical:5636590fd704c203": "2026-05-09T15:28:15.527Z",
-    "canonical:910b3a3ae2bda83d": "2026-05-09T15:28:15.527Z",
     "canonical:28ef8ddfd8d0098f": "2026-05-09T15:28:15.527Z",
     "canonical:c51de5622a75f93e": "2026-05-09T15:28:15.527Z",
     "canonical:d4ff08fb2c47d73d": "2026-05-09T15:28:15.527Z",
@@ -814,7 +812,6 @@
     "canonical:f162020d6d81c557": "2026-05-09T15:28:15.527Z",
     "canonical:e01b1ff57ea8a6df": "2026-05-09T15:28:15.527Z",
     "canonical:38f37f3ad8017ec7": "2026-05-09T15:28:15.527Z",
-    "canonical:9e53ee9f85cd7394": "2026-05-09T15:28:15.527Z",
     "canonical:c340b9c31add6dab": "2026-05-09T15:28:15.527Z",
     "canonical:f35108fd0847ebf1": "2026-05-09T15:28:15.527Z",
     "canonical:aad94258d0432b9c": "2026-05-09T15:28:15.527Z",
@@ -1218,7 +1215,6 @@
     "canonical:59ac07a13d6c8bf7": "2026-05-15T23:35:38.383Z",
     "canonical:f37bc45fd732af97": "2026-05-15T23:35:38.383Z",
     "canonical:8650e310d098d280": "2026-05-15T23:35:38.383Z",
-    "canonical:5402070261d28d0f": "2026-05-15T23:35:38.383Z",
     "canonical:fb076f3b186b4a11": "2026-05-16T01:23:11.435Z",
     "canonical:0e6a7b5039052add": "2026-05-16T01:23:11.435Z",
     "canonical:4b62439cb6d583d0": "2026-05-16T04:46:03.679Z",
@@ -2840,7 +2836,12 @@
     "canonical:ff8de24f4f508d53": "2026-05-20T01:49:18.107Z",
     "canonical:688706088beffa8d": "2026-05-20T01:49:18.107Z",
     "canonical:f29d9652976f2d45": "2026-05-20T01:49:18.107Z",
-    "canonical:f48979ffdddb6983": "2026-05-20T01:49:18.107Z"
+    "canonical:f48979ffdddb6983": "2026-05-20T01:49:18.107Z",
+    "canonical:ec7947b941c678b5": "2026-05-20T05:58:26.449Z",
+    "canonical:dc8cdf82544c6bc5": "2026-05-20T05:58:26.449Z",
+    "canonical:662cd93e03a48f7c": "2026-05-20T05:58:26.449Z",
+    "canonical:49f6d0390d114315": "2026-05-20T05:58:26.449Z",
+    "canonical:16be5f71f67b26d2": "2026-05-20T05:58:26.449Z"
   },
   "jobs": [
     {
@@ -3689,10 +3690,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -3702,10 +3703,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -9582,6 +9583,18 @@
       ]
     },
     {
+      "id": "canonical:ec7947b941c678b5",
+      "title": "Chipsim Intern",
+      "url": "https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8/application",
+      "location": "San Jose, CA",
+      "department": "Hardware",
+      "company": "Etched.ai",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:a92c3fe8feb783d7",
       "title": "SAP BTP Application Developer Intern - Summer 2026",
       "url": "https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/886",
@@ -11731,19 +11744,6 @@
       "company": "Fanatics",
       "score": 60,
       "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:dcbf45848845716c",
-      "title": "Research Scientist Intern - Optimization - Privacy and Inference",
-      "url": "https://www.metacareers.com/jobs/26336808892622129",
-      "location": "Menlo Park, CA / NYC",
-      "department": "AI/ML/Data",
-      "company": "Meta",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -14576,18 +14576,6 @@
       ]
     },
     {
-      "id": "canonical:910b3a3ae2bda83d",
-      "title": "FPGA Digital Design & Verification – Intern",
-      "url": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/FPGA-Digital-Design---Verification---Intern_R02354-1",
-      "location": "San Jose, CA",
-      "department": "Hardware",
-      "company": "Altera Corporation",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:28ef8ddfd8d0098f",
       "title": "RSD Intern - Test Engineering",
       "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Holland-MI-United-States/RSD-Intern---Test-Engineering_JR-0088332-1",
@@ -14759,20 +14747,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:9e53ee9f85cd7394",
-      "title": "Wearables Prototype Engineer Intern - Hardware + Software",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/5924391004",
-      "location": "Menlo Park, CA",
-      "department": "Hardware",
-      "company": "Workstream",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -21585,19 +21559,6 @@
       ]
     },
     {
-      "id": "canonical:5402070261d28d0f",
-      "title": "Web Developer Intern - Web Developer - Global Technology",
-      "url": "https://aegworldwide.com/careers?gh_jid=8550938002",
-      "location": "LA",
-      "department": "Software",
-      "company": "AEG",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:fb076f3b186b4a11",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/hadrian-automation/ce93d8e7-00c9-4fdf-9623-e4f6f25d92d6/application",
@@ -22725,6 +22686,58 @@
       "location": "Oregon / California / Texas / Jackson Township, NJ / Waterbury, CT / Arizona / Minnesota / Colorado / NYC / Wisconsin / Massachusetts",
       "department": "AI/ML/Data",
       "company": "Deckers Brands",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:dc8cdf82544c6bc5",
+      "title": "Test Software Engineer Intern - Intelligent Creation",
+      "url": "https://jobs.bytedance.com/en/position/7637923145297119493/detail",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "ByteDance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:662cd93e03a48f7c",
+      "title": "Supercomputing Intern",
+      "url": "https://jobs.ashbyhq.com/Etched/b45e357c-07ea-4499-9911-1d3cc9b9ac71/application",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "Etched",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:49f6d0390d114315",
+      "title": "FOX Technology Intern",
+      "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Fall-2026-FOX-Technology-Internship-Program---New-York--NY_R50032648-1",
+      "location": "NYC",
+      "department": "Software",
+      "company": "FOX",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:16be5f71f67b26d2",
+      "title": "Technology Intern",
+      "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Fall-2026-FOX-Technology-Internship-Program---Los-Angeles--CA_R50032647",
+      "location": "LA",
+      "department": "Software",
+      "company": "FOX",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
