@@ -1,6 +1,6 @@
 # Open Internships
 
-**2832** internships across **63/64** companies — last updated 2026-05-19.
+**2837** internships across **63/64** companies — last updated 2026-05-20.
 
 ## Companies
 
@@ -36,7 +36,6 @@
 - [AION ROBOTICS CORPORATION](#aion-robotics-corporation) (1)
 - [Airbnb](#airbnb) (2)
 - [Airbus](#airbus) (1)
-- [AirCapture](#aircapture) (1)
 - [Akuna Capital](#akuna-capital) (4)
 - [Al Warren Oil Company](#al-warren-oil-company) (3)
 - [Alcon](#alcon) (1)
@@ -208,7 +207,7 @@
 - [Cartesia](#cartesia) (1)
 - [Cartesian](#cartesian) (1)
 - [Caterpillar](#caterpillar) (1)
-- [Caterpillar Inc.](#caterpillar-inc) (2)
+- [Caterpillar Inc.](#caterpillar-inc) (3)
 - [Causeway](#causeway) (1)
 - [Cboe Global Markets](#cboe-global-markets) (4)
 - [Cekura](#cekura) (1)
@@ -248,7 +247,7 @@
 - [Clarivate](#clarivate) (1)
 - [Clerkie](#clerkie) (1)
 - [Clever](#clever) (1)
-- [Cloudflare](#cloudflare) (40)
+- [Cloudflare](#cloudflare) (41)
 - [Cloudforce](#cloudforce) (2)
 - [Cloudglue - YC](#cloudglue-yc) (1)
 - [CME Group](#cme-group) (2)
@@ -311,6 +310,7 @@
 - [Datadog](#datadog) (4)
 - [DataVisor](#datavisor) (2)
 - [Decagon](#decagon) (1)
+- [Deckers Brands](#deckers-brands) (1)
 - [Dedalus Labs](#dedalus-labs) (1)
 - [Deloitte](#deloitte) (1)
 - [Delta Air Lines, Inc.](#delta-air-lines-inc) (1)
@@ -380,7 +380,7 @@
 - [Equinix](#equinix) (1)
 - [EquipmentShare](#equipmentshare) (3)
 - [Ericsson](#ericsson) (2)
-- [Etched](#etched) (4)
+- [Etched](#etched) (6)
 - [ETCHED](#etched) (1)
 - [Etched.ai](#etched-ai) (6)
 - [ether.fi](#ether-fi) (1)
@@ -430,7 +430,7 @@
 - [Fortive](#fortive) (2)
 - [Forvis Mazars US](#forvis-mazars-us) (1)
 - [Foundation ](#foundation) (1)
-- [FOX](#fox) (3)
+- [FOX](#fox) (4)
 - [Freddie Mac](#freddie-mac) (1)
 - [Fresco (F24)](#fresco-f24) (1)
 - [GAINS](#gains) (1)
@@ -876,6 +876,7 @@
 - [ScentAir](#scentair) (1)
 - [Schonfeld](#schonfeld) (3)
 - [Schweitzer Engineering Laboratories](#schweitzer-engineering-laboratories) (3)
+- [Scientific Research Corporation](#scientific-research-corporation) (1)
 - [Seagate](#seagate) (7)
 - [Seagate Technology](#seagate-technology) (2)
 - [Seagate Technology ](#seagate-technology) (1)
@@ -973,19 +974,19 @@
 - [Synchrony Financial](#synchrony-financial) (4)
 - [T-Mobile USA, Inc.](#t-mobile-usa-inc) (2)
 - [Taara](#taara) (2)
+- [Takeda](#takeda) (1)
 - [Talos](#talos) (4)
 - [Tandem](#tandem) (1)
 - [Tandem (S24)](#tandem-s24) (1)
 - [Tanium](#tanium) (2)
 - [Tasker AI](#tasker-ai) (1)
-- [Tatari](#tatari) (1)
 - [TD Synnex](#td-synnex) (1)
 - [Teall Sports & Entertainment](#teall-sports-entertainment) (1)
 - [Techtronic Industries](#techtronic-industries) (1)
 - [Teledyne](#teledyne) (1)
 - [Teleo](#teleo) (1)
 - [Tempus](#tempus) (2)
-- [Tencent](#tencent) (22)
+- [Tencent](#tencent) (21)
 - [TENEX.AI](#tenex-ai) (1)
 - [Tenstorrent](#tenstorrent) (7)
 - [Teradata](#teradata) (1)
@@ -1358,12 +1359,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Operations Analyst Intern - Operations Analyst](https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/Long-Term-Internship---Operations-Analyst_JR10411961) | 68 | Wichita, KS | AI/ML/Data | 2026-05-14 |
-
-## AirCapture
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Materials Characterization Intern - Microwave Systems](https://job-boards.greenhouse.io/aircapture/jobs/4677774006) | 68 | Berkeley, CA | AI/ML/Data | 2026-05-09 |
 
 ## Akuna Capital
 
@@ -2640,6 +2635,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Designer Intern](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Laval-Quebec/Software-Designer-Intern---Stagiaire-en-conception-de-logiciels_R0000367629) | 68 | Laval, QC, Canada | Hardware | 2026-05-20 |
 | [2026 Engineering Internship Program- Metallurgical Engineering](https://www.linkedin.com/jobs/view/4260034721) | 42 | Mossville, IL | — | 2026-05-16 |
 | [Information Technology Intern](https://cat.wd5.myworkdayjobs.com/en-GB/caterpillarcareers/job/Nashville-Tennessee/XMLNAME-2026-Summer-Intern---Information-Technology_R0000320847) | 58 | Nashville, TN | — | 2026-05-09 |
 
@@ -2928,6 +2924,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [People Team Intern - HR Operations & AI Innovation (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240) | 58 | In-Office | — | 2026-05-20 |
 | [Network Engineering Intern (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7929538?gh_jid=7929538) | 58 | In-Office | — | 2026-05-18 |
 | [Solutions Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7738938?gh_jid=7738938) | 58 | In-Office | — | 2026-05-15 |
 | [Data Science Intern](https://boards.greenhouse.io/cloudflare/jobs/7914511) | 68 | Austin, TX | AI/ML/Data | 2026-05-14 |
@@ -3390,6 +3387,12 @@
 | --- | --- | --- | --- | --- |
 | [Agent Software Engineer Intern](https://jobs.ashbyhq.com/decagon/aa9c9d2a-aba9-429e-bf91-8303247fbcd6) | 93 | San Francisco, CA | — | 2026-05-09 |
 
+## Deckers Brands
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Loyalty Analytics Intern](https://deckers.wd5.myworkdayjobs.com/Deckers/job/US---California-Remote/Loyalty-Analytics-Intern---Global_20701) | 68 | Oregon / California / Texas / Jackson Township, NJ / Waterbury, CT / Arizona / Minnesota / Colorado / NYC / Wisconsin / Massachusetts | AI/ML/Data | 2026-05-20 |
+
 ## Dedalus Labs
 
 | Title | Score | Location | Department | First seen |
@@ -3851,6 +3854,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Firmware Intern](https://jobs.ashbyhq.com/Etched/1efd9b58-66fe-4798-a877-776857b4e189/application) | 58 | San Jose, CA | Hardware | 2026-05-20 |
+| [Mech / Thermal Intern](https://jobs.ashbyhq.com/Etched/b1816ce1-fa42-4855-988b-992556414988/application) | 58 | San Jose, CA | Hardware | 2026-05-20 |
 | [Core SWE Intern](https://jobs.ashbyhq.com/Etched/47e6dec8-2ca6-4359-8cff-0b91bcbf48ea) | 93 | San Jose, CA | — | 2026-05-09 |
 | [Electrical Platform Intern](https://jobs.ashbyhq.com/Etched/904ddf46-55fc-4a8f-8b49-f32cfe88116a/application) | 68 | San Jose, CA | Hardware | 2026-05-09 |
 | [DFT Intern](https://jobs.ashbyhq.com/Etched/5f1f5739-3b58-467c-b351-ff183c94d96d/application) | 58 | San Jose, CA | Hardware | 2026-05-09 |
@@ -4195,6 +4200,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Fox Technology Intern](https://fox.wd1.myworkdayjobs.com/Domestic/job/USA---AZ---Tempe---2010-E-Centennial-Cir/Fox-2026-FOX-Technology-Internship-Program---Tempe--AZ_R50032649) | 68 | Tempe, AZ | Software | 2026-05-20 |
 | [FOX News Media Internship Program Intern - Data Analytics](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Fall-2026-FOX-News-Media-Internship-Program---Data-Analytics---New-York_R50032616-1) | 68 | NYC | AI/ML/Data | 2026-05-18 |
 | [Business Operations Intern/Co-op - Data Analytics](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Summer-2026-FOX-News-Media-Internship-Program---Data-Analytics---New-York_R50030083) | 58 | NYC | — | 2026-05-09 |
 | [Technology Internship Program](https://fox.wd1.myworkdayjobs.com/Domestic/job/USA---AZ---Tempe---2010-E-Centennial-Cir/Summer-2026-FOX-Technology-Internship-Program---Tempe--AZ_R50030120) | 58 | Tempe, AZ | — | 2026-05-09 |
@@ -7566,6 +7572,12 @@
 | [Software Engineer Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Spokane-Valley/Software-Engineer-Intern_2025-18557) | 93 | Liberty Lake, WA | — | 2026-05-09 |
 | [Engineering Intern - Automation](https://selinc.wd1.myworkdayjobs.com/SEL/job/California---Irvine/Engineering-Intern---Automation_2026-21078) | 58 | Irvine, CA | Hardware | 2026-05-09 |
 
+## Scientific Research Corporation
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Engineer Intern - Sophomore](https://careers-scires.icims.com/jobs/11215/job?mobile=true&needsRedirect=false) | 85 | North Charleston, SC | Software | 2026-05-20 |
+
 ## Seagate
 
 | Title | Score | Location | Department | First seen |
@@ -8267,6 +8279,12 @@
 | [Software Engineering Intern](https://jobs.ashbyhq.com/taaraconnect/ed52ef53-dca2-433e-a2b7-6003d8be7ea2/application) | 68 | Sunnyvale, CA | Software | 2026-05-09 |
 | [FPGA Intern](https://jobs.ashbyhq.com/taaraconnect/9d46074e-4fa8-44ce-9b2e-59296f6bf2e9/application) | 58 | Sunnyvale, CA | Hardware | 2026-05-09 |
 
+## Takeda
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Quality Digital Internship - Quality Systems & Validation](https://takeda.wd3.myworkdayjobs.com/external/job/USA---MA---Lexington---BIO-OPS/XMLNAME-2026-Summer-Internship-Program--Quality-Digital--Quality-Systems---Validation--Intern_R0165394) | 68 | Lexington, MA | AI/ML/Data | 2026-05-20 |
+
 ## Talos
 
 | Title | Score | Location | Department | First seen |
@@ -8300,12 +8318,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Hardware Engineering Intern](https://www.workatastartup.com/jobs/84053) | 56 | San Francisco, CA | — | 2026-05-09 |
-
-## Tatari
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://job-boards.greenhouse.io/tatari/jobs/8451504002) | 93 | SF / LA / NYC | Software | 2026-05-09 |
 
 ## TD Synnex
 
@@ -8353,7 +8365,6 @@
 | [Software Engineering Intern - Backend Development](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/UK-London/Software-Engineering-Intern--Backend-Development_R107174) | 93 | London, UK | Software | 2026-05-17 |
 | [Software Engineer Intern - Backend Development](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Software-Engineering-Intern--Backend-Development_R107174-1) | 93 | London, UK | Software | 2026-05-17 |
 | [Multimedia Codec Development Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Multimedia-Codec-Development-Intern_R106769) | 68 | Palo Alto, CA | AI/ML/Data | 2026-05-17 |
-| [Research Internship-Multimodal LLM - Speech/Music/Audio/Vision/Language](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Research-Internship--Multimodal-LLM--Speech-Music-Audio-Vision-Language-_R106334-1) | 68 | Bellevue, WA | AI/ML/Data | 2026-05-17 |
 | [Data Science Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Data-Science-Intern_R106915) | 68 | Palo Alto, CA | AI/ML/Data | 2026-05-17 |
 | [NLP Research Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/NLP-Research-Intern_R106758-1) | 68 | London, UK | AI/ML/Data | 2026-05-17 |
 | [Research Intern - Video World Models](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Research-Intern---Video-World-Models_R106904-1) | 68 | Palo Alto, CA | AI/ML/Data | 2026-05-17 |

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-19T23:43:59.617Z",
+  "generatedAt": "2026-05-20T01:49:18.107Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 2832,
+  "jobCount": 2837,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -584,7 +584,6 @@
     "canonical:a8d6ab6418be4259": "2026-05-09T15:28:15.527Z",
     "canonical:bc730aa27731fa93": "2026-05-09T15:28:15.527Z",
     "canonical:e52e8b6621a38589": "2026-05-09T15:28:15.527Z",
-    "canonical:11de7dbcbc49047f": "2026-05-09T15:28:15.527Z",
     "canonical:58109eab3d5c6e17": "2026-05-09T15:28:15.527Z",
     "canonical:81494230370de12a": "2026-05-09T15:28:15.527Z",
     "canonical:6a149cb9a2be52a1": "2026-05-09T15:28:15.527Z",
@@ -958,7 +957,6 @@
     "canonical:c11d78594ff26a21": "2026-05-09T15:28:15.527Z",
     "canonical:af3be88d9b7b9f2b": "2026-05-09T15:28:15.527Z",
     "canonical:673abedac09c760d": "2026-05-09T15:28:15.527Z",
-    "canonical:03afca11e8537efc": "2026-05-09T15:28:15.527Z",
     "canonical:32665894ab4460ce": "2026-05-09T15:28:15.527Z",
     "canonical:d45b7e55076ddafc": "2026-05-09T15:28:15.527Z",
     "canonical:76e3246b0d82ab56": "2026-05-09T15:28:15.527Z",
@@ -2668,7 +2666,6 @@
     "canonical:518ff7a9e893c61e": "2026-05-17T07:19:48.510Z",
     "canonical:6f55f3db87744549": "2026-05-17T07:19:48.510Z",
     "canonical:cdbe4756a5d97231": "2026-05-17T07:19:48.510Z",
-    "canonical:4bba3e6095503e81": "2026-05-17T07:19:48.510Z",
     "canonical:af58faec41630a9a": "2026-05-17T07:19:48.510Z",
     "canonical:223669d31e7e9fb5": "2026-05-17T07:19:48.510Z",
     "canonical:f67ccd38fce2d6a4": "2026-05-17T07:19:48.510Z",
@@ -2835,7 +2832,15 @@
     "canonical:5432bf2d62eb6a38": "2026-05-19T23:43:59.617Z",
     "canonical:ab8c77bebb2c7110": "2026-05-19T23:43:59.617Z",
     "canonical:acec22384af1fe8a": "2026-05-19T23:43:59.617Z",
-    "canonical:cddb00a45185b83c": "2026-05-19T23:43:59.617Z"
+    "canonical:cddb00a45185b83c": "2026-05-19T23:43:59.617Z",
+    "canonical:fbdd5a056fe65f91": "2026-05-20T01:49:18.107Z",
+    "canonical:3868ed2c3a73eaa7": "2026-05-20T01:49:18.107Z",
+    "canonical:1f4cfa92d34ba540": "2026-05-20T01:49:18.107Z",
+    "canonical:bfee5c7c0ec54d9d": "2026-05-20T01:49:18.107Z",
+    "canonical:ff8de24f4f508d53": "2026-05-20T01:49:18.107Z",
+    "canonical:688706088beffa8d": "2026-05-20T01:49:18.107Z",
+    "canonical:f29d9652976f2d45": "2026-05-20T01:49:18.107Z",
+    "canonical:f48979ffdddb6983": "2026-05-20T01:49:18.107Z"
   },
   "jobs": [
     {
@@ -4139,6 +4144,18 @@
       "id": "canonical:ec3c37431442cdc8",
       "title": "People Team Business Partner intern (July to December 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7855864?gh_jid=7855864",
+      "location": "In-Office",
+      "department": "",
+      "company": "Cloudflare",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:fbdd5a056fe65f91",
+      "title": "People Team Intern - HR Operations & AI Innovation (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -5718,19 +5735,6 @@
       "company": "TikTok",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:4bba3e6095503e81",
-      "title": "Research Internship-Multimodal LLM - Speech/Music/Audio/Vision/Language",
-      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Research-Internship--Multimodal-LLM--Speech-Music-Audio-Vision-Language-_R106334-1",
-      "location": "Bellevue, WA",
-      "department": "AI/ML/Data",
-      "company": "Tencent",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
     },
     {
       "id": "canonical:ee39f279c66cba30",
@@ -11109,20 +11113,6 @@
       "scoreReasons": [
         "high-signal role",
         "new grad"
-      ]
-    },
-    {
-      "id": "canonical:11de7dbcbc49047f",
-      "title": "Software Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/tatari/jobs/8451504002",
-      "location": "SF / LA / NYC",
-      "department": "Software",
-      "company": "Tatari",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -17082,19 +17072,6 @@
       ]
     },
     {
-      "id": "canonical:03afca11e8537efc",
-      "title": "Materials Characterization Intern - Microwave Systems",
-      "url": "https://job-boards.greenhouse.io/aircapture/jobs/4677774006",
-      "location": "Berkeley, CA",
-      "department": "AI/ML/Data",
-      "company": "AirCapture",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:32665894ab4460ce",
       "title": "Software Designer Co-op/Intern",
       "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34602",
@@ -17869,6 +17846,19 @@
       "location": "Wilkes-Barre, PA",
       "department": "AI/ML/Data",
       "company": "Geisinger",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:3868ed2c3a73eaa7",
+      "title": "Software Designer Intern",
+      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Laval-Quebec/Software-Designer-Intern---Stagiaire-en-conception-de-logiciels_R0000367629",
+      "location": "Laval, QC, Canada",
+      "department": "Hardware",
+      "company": "Caterpillar Inc.",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -22661,6 +22651,82 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1f4cfa92d34ba540",
+      "title": "Engineer Intern - Sophomore",
+      "url": "https://careers-scires.icims.com/jobs/11215/job?mobile=true&needsRedirect=false",
+      "location": "North Charleston, SC",
+      "department": "Software",
+      "company": "Scientific Research Corporation",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:bfee5c7c0ec54d9d",
+      "title": "Quality Digital Internship - Quality Systems & Validation",
+      "url": "https://takeda.wd3.myworkdayjobs.com/external/job/USA---MA---Lexington---BIO-OPS/XMLNAME-2026-Summer-Internship-Program--Quality-Digital--Quality-Systems---Validation--Intern_R0165394",
+      "location": "Lexington, MA",
+      "department": "AI/ML/Data",
+      "company": "Takeda",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ff8de24f4f508d53",
+      "title": "Mech / Thermal Intern",
+      "url": "https://jobs.ashbyhq.com/Etched/b1816ce1-fa42-4855-988b-992556414988/application",
+      "location": "San Jose, CA",
+      "department": "Hardware",
+      "company": "Etched",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:688706088beffa8d",
+      "title": "Firmware Intern",
+      "url": "https://jobs.ashbyhq.com/Etched/1efd9b58-66fe-4798-a877-776857b4e189/application",
+      "location": "San Jose, CA",
+      "department": "Hardware",
+      "company": "Etched",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f29d9652976f2d45",
+      "title": "Fox Technology Intern",
+      "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/USA---AZ---Tempe---2010-E-Centennial-Cir/Fox-2026-FOX-Technology-Internship-Program---Tempe--AZ_R50032649",
+      "location": "Tempe, AZ",
+      "department": "Software",
+      "company": "FOX",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f48979ffdddb6983",
+      "title": "Loyalty Analytics Intern",
+      "url": "https://deckers.wd5.myworkdayjobs.com/Deckers/job/US---California-Remote/Loyalty-Analytics-Intern---Global_20701",
+      "location": "Oregon / California / Texas / Jackson Township, NJ / Waterbury, CT / Arizona / Minnesota / Colorado / NYC / Wisconsin / Massachusetts",
+      "department": "AI/ML/Data",
+      "company": "Deckers Brands",
+      "score": 68,
+      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
