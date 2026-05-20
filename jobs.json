@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-20T20:29:12.828Z",
+  "generatedAt": "2026-05-20T22:10:31.032Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 2801,
+  "jobCount": 2794,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -504,7 +504,6 @@
     "canonical:5ccbfc205982531b": "2026-05-13T22:37:04.081Z",
     "canonical:493031c8497921e4": "2026-05-09T15:28:15.527Z",
     "canonical:deef8719ee67c929": "2026-05-09T15:28:15.527Z",
-    "canonical:e385f2e59c505190": "2026-05-09T15:28:15.527Z",
     "canonical:a6ef6de92246afef": "2026-05-09T15:28:15.527Z",
     "canonical:5f83dadf87601e8e": "2026-05-09T15:28:15.527Z",
     "canonical:49b574dfd260bdee": "2026-05-09T15:28:15.527Z",
@@ -697,7 +696,6 @@
     "canonical:41396f1be5942850": "2026-05-09T15:28:15.527Z",
     "canonical:877c0a343b3cc748": "2026-05-09T15:28:15.527Z",
     "canonical:f369d606bb40eeff": "2026-05-09T15:28:15.527Z",
-    "canonical:2c41df9087d1314c": "2026-05-09T15:28:15.527Z",
     "canonical:9356c26585bb222a": "2026-05-09T15:28:15.527Z",
     "canonical:1638f1c2c123795b": "2026-05-09T15:28:15.527Z",
     "canonical:d20733ad919ff0db": "2026-05-09T15:28:15.527Z",
@@ -783,7 +781,6 @@
     "canonical:c51de5622a75f93e": "2026-05-09T15:28:15.527Z",
     "canonical:d4ff08fb2c47d73d": "2026-05-09T15:28:15.527Z",
     "canonical:3a3bc4c82bd4dbdc": "2026-05-09T15:28:15.527Z",
-    "canonical:807895937c80aafd": "2026-05-13T23:40:40.818Z",
     "canonical:88fb8191b7666aff": "2026-05-09T15:28:15.527Z",
     "canonical:08dc3548313b3509": "2026-05-09T15:28:15.527Z",
     "canonical:36810e947ac2886a": "2026-05-09T15:28:15.527Z",
@@ -2475,7 +2472,6 @@
     "canonical:8677f44966da23c5": "2026-05-16T11:29:30.823Z",
     "canonical:fa6150aeb04d6ed4": "2026-05-16T11:29:30.823Z",
     "canonical:4533fe5966b42a6d": "2026-05-16T11:29:30.823Z",
-    "canonical:6afa599b389ba6d3": "2026-05-16T11:29:30.823Z",
     "canonical:b852770e23c6756e": "2026-05-16T11:29:30.823Z",
     "canonical:aa496e085ee2de25": "2026-05-16T14:07:37.750Z",
     "canonical:a395cfae9a1c0ddb": "2026-05-16T14:07:37.750Z",
@@ -2614,7 +2610,6 @@
     "canonical:00742ac512f3cc60": "2026-05-17T04:18:58.240Z",
     "canonical:a41b1e3cc585772b": "2026-05-17T04:18:58.240Z",
     "canonical:9b4d939ce8f1fb4b": "2026-05-17T04:18:58.240Z",
-    "canonical:f5c730c151cdd843": "2026-05-17T04:18:58.240Z",
     "canonical:c75d54f78c41b1a3": "2026-05-17T04:18:58.240Z",
     "canonical:be0723b3a95076d5": "2026-05-17T04:18:58.240Z",
     "canonical:e9362a0768cb5f36": "2026-05-17T04:18:58.240Z",
@@ -2683,7 +2678,6 @@
     "canonical:822f79d1632753eb": "2026-05-17T09:17:39.096Z",
     "canonical:3ca13a8d229f67d3": "2026-05-17T09:17:39.096Z",
     "canonical:63ad68bbe0748262": "2026-05-17T09:17:39.096Z",
-    "canonical:d6d368fed4744f28": "2026-05-17T09:17:39.096Z",
     "canonical:c5458018da7dff8c": "2026-05-17T09:17:39.096Z",
     "canonical:1418788d2c41df95": "2026-05-17T15:34:37.334Z",
     "canonical:58727dbceb874706": "2026-05-17T20:38:52.046Z",
@@ -2791,7 +2785,6 @@
     "canonical:49f6d0390d114315": "2026-05-20T05:58:26.449Z",
     "canonical:16be5f71f67b26d2": "2026-05-20T05:58:26.449Z",
     "canonical:8ec81821b19e9d75": "2026-05-20T09:31:24.736Z",
-    "canonical:6b24f14c98dc711c": "2026-05-20T09:31:24.736Z",
     "canonical:ac88b4fd6305623b": "2026-05-20T09:31:24.736Z",
     "canonical:f6ccc8105f8c92a2": "2026-05-20T12:10:44.642Z",
     "canonical:5256dbf0abe724a6": "2026-05-20T12:10:44.642Z",
@@ -9674,19 +9667,6 @@
       ]
     },
     {
-      "id": "canonical:e385f2e59c505190",
-      "title": "Agentic AI Intern",
-      "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/San-Jose-California-United-States-of-America/Agentic-AI-Intern--Summer-2026_JR00024219",
-      "location": "San Jose, CA",
-      "department": "AI/ML/Data",
-      "company": "ABB",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:a6ef6de92246afef",
       "title": "Internship - Technology & Computer Science - Minneapolis",
       "url": "https://deluxe.wd5.myworkdayjobs.com/en-US/USA_CAN/job/Minneapolis-MN-USA/Internship---Technology---Computer-Science---Minneapolis_260197WD",
@@ -12978,18 +12958,6 @@
       ]
     },
     {
-      "id": "canonical:2c41df9087d1314c",
-      "title": "Research Intern - AI Frontiers - Reasoning & Agentic Models",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556856340",
-      "location": "Redmond, WA",
-      "department": "AI/ML/Data",
-      "company": "Microsoft",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:c40434041482eff7",
       "title": "Generative AI Implementation Intern",
       "url": "https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Conshohocken-PA/Generative-AI-Implementation-Intern_REQ26-1093",
@@ -14161,19 +14129,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:807895937c80aafd",
-      "title": "Procurement Intern",
-      "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Atlanta-GA-United-States/Procurement-Intern_JR-0088786-1",
-      "location": "Atlanta, GA",
-      "department": "Software",
-      "company": "KION Group",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -18694,19 +18649,6 @@
       ]
     },
     {
-      "id": "canonical:f5c730c151cdd843",
-      "title": "Firmware Engineer Intern",
-      "url": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Firmware-Engineer-Intern_R004159",
-      "location": "Shakopee, MN",
-      "department": "Hardware",
-      "company": "Entrust",
-      "score": 83,
-      "scoreReasons": [
-        "SWE-aligned",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:aff107bd3baec5a5",
       "title": "Product Management Intern",
       "url": "https://jobs.ashbyhq.com/matterworks/014652db-c9fc-4424-bea3-ae5ff35d540c/application",
@@ -19962,18 +19904,6 @@
       ]
     },
     {
-      "id": "canonical:6afa599b389ba6d3",
-      "title": "Data Science Intern",
-      "url": "https://jobs.farmersinsurance.com/job/Woodland-Hills-Data-Science-Intern-Woodland-Hills,-CA-CA-91367/1360891857/?ats=successfactors",
-      "location": "Canoga Park, LA",
-      "department": "AI/ML/Data",
-      "company": "Farmers Insurance",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:4d80d3c0fa984737",
       "title": "Machine Learning Intern/Co-op",
       "url": "https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b/application",
@@ -20944,19 +20874,6 @@
       ]
     },
     {
-      "id": "canonical:d6d368fed4744f28",
-      "title": "Investment Analyst Associate Intern - Reams Asset Management",
-      "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Indianapolis-Indiana---United-States/XMLNAME-2026-Summer-Associate---Investment-Analyst---Reams-Asset-Management---Indianapolis--IN_R-0011190",
-      "location": "Indianapolis, IN",
-      "department": "Quant",
-      "company": "Raymond James Financial",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:4b62439cb6d583d0",
       "title": "Integration & Test Intern",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7728086003",
@@ -21481,20 +21398,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:6b24f14c98dc711c",
-      "title": "Data & Marketing Analytics Intern",
-      "url": "https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Data---Marketing-Analytics-Intern_JR202636492",
-      "location": "Newport Beach, CA",
-      "department": "AI/ML/Data",
-      "company": "AAA Club Alliance",
-      "score": 48,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS",
-        "lower-fit title"
       ]
     },
     {

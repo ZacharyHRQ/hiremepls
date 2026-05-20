@@ -1,14 +1,14 @@
 # Open Internships
 
-**2801** internships across **63/64** companies — last updated 2026-05-20.
+**2794** internships across **63/64** companies — last updated 2026-05-20.
 
 ## Companies
 
 - [ PrizePicks](#prizepicks) (1)
 - [14.ai](#14-ai) (1)
 - [a0.dev](#a0-dev) (1)
-- [AAA Club Alliance](#aaa-club-alliance) (2)
-- [ABB](#abb) (3)
+- [AAA Club Alliance](#aaa-club-alliance) (1)
+- [ABB](#abb) (2)
 - [Abbott](#abbott) (1)
 - [ABC Fitness](#abc-fitness) (1)
 - [ABC News](#abc-news) (1)
@@ -365,7 +365,6 @@
 - [Ensemble Health Partners](#ensemble-health-partners) (4)
 - [Entegris](#entegris) (1)
 - [Enterprise](#enterprise) (1)
-- [Entrust](#entrust) (1)
 - [Envista](#envista) (1)
 - [Epic](#epic) (1)
 - [Epic Games](#epic-games) (3)
@@ -400,7 +399,6 @@
 - [Falcomm](#falcomm) (1)
 - [Fanatics](#fanatics) (3)
 - [Fannie Mae](#fannie-mae) (2)
-- [Farmers Insurance](#farmers-insurance) (1)
 - [Federal Express Corporation](#federal-express-corporation) (1)
 - [Fenwick & West](#fenwick-west) (2)
 - [Ferrovial](#ferrovial) (1)
@@ -573,7 +571,7 @@
 - [Keystone AI](#keystone-ai) (1)
 - [Kinaxis](#kinaxis) (6)
 - [Kingland](#kingland) (1)
-- [KION Group](#kion-group) (8)
+- [KION Group](#kion-group) (7)
 - [Kioxia](#kioxia) (1)
 - [Kira](#kira) (2)
 - [KLA](#kla) (4)
@@ -660,7 +658,7 @@
 - [Microchip Technology](#microchip-technology) (2)
 - [Microchip Technology Inc](#microchip-technology-inc) (1)
 - [Micron Technology](#micron-technology) (4)
-- [Microsoft](#microsoft) (58)
+- [Microsoft](#microsoft) (57)
 - [Midmark ](#midmark) (1)
 - [Millennium](#millennium) (3)
 - [MITRE](#mitre) (1)
@@ -801,7 +799,6 @@
 - [Rainmaker](#rainmaker) (1)
 - [Rambus](#rambus) (1)
 - [Ramp](#ramp) (10)
-- [Raymond James Financial](#raymond-james-financial) (1)
 - [Reacher](#reacher) (2)
 - [Readily (S23)](#readily-s23) (1)
 - [Reality Defender](#reality-defender) (1)
@@ -1144,14 +1141,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Digital Travel Product Intern](https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Digital-Travel-Product-Intern_JR202636489) | 58 | Newport Beach, CA | Product | 2026-05-20 |
-| [Data & Marketing Analytics Intern](https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Data---Marketing-Analytics-Intern_JR202636492) | 48 | Newport Beach, CA | AI/ML/Data | 2026-05-20 |
 
 ## ABB
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [AI Vision Engineer Intern- AI Robotics](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/San-Jose-California-United-States-of-America/AI-Vision-Engineer-Intern--AI-Robotics--Spring-2026_JR00014185) | 93 | San Jose, CA | Data Science, AI & Machine Learning | 2026-05-09 |
-| [Agentic AI Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/San-Jose-California-United-States-of-America/Agentic-AI-Intern--Summer-2026_JR00024219) | 68 | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Software Engineering Intern- Summer 2026](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Bartlesville-Oklahoma-United-States-of-America/Software-Engineering-Intern--Summer-2026_JR00014418) | 68 | Bartlesville, OK | Software Engineering | 2026-05-09 |
 
 ## Abbott
@@ -3723,12 +3718,6 @@
 | --- | --- | --- | --- | --- |
 | [Sales Management Trainee Intern-Fall- Lithia Springs](https://www.linkedin.com/jobs/view/4255559163) | 22 | Lithia Springs, GA | — | 2026-05-16 |
 
-## Entrust
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Firmware Engineer Intern](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Firmware-Engineer-Intern_R004159) | 83 | Shakopee, MN | Hardware | 2026-05-17 |
-
 ## Envista
 
 | Title | Score | Location | Department | First seen |
@@ -3969,12 +3958,6 @@
 | --- | --- | --- | --- | --- |
 | [Chief Security Office Program Intern](https://fanniemae.wd1.myworkdayjobs.com/en-US/FannieMaeCareers/details/Campus---Chief-Security-Office-Program-Intern_JR1267-1) | 68 | Reston, VA | — | 2026-05-09 |
 | [Technology Program Intern](https://fanniemae.wd1.myworkdayjobs.com/en-US/FannieMaeCareers/details/Campus---Technology-Program-Intern-_JR1262) | 58 | Plano, TX / Reston, VA | — | 2026-05-09 |
-
-## Farmers Insurance
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Science Intern](https://jobs.farmersinsurance.com/job/Woodland-Hills-Data-Science-Intern-Woodland-Hills,-CA-CA-91367/1360891857/?ats=successfactors) | 60 | Canoga Park, LA | AI/ML/Data | 2026-05-16 |
 
 ## Federal Express Corporation
 
@@ -5245,7 +5228,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [RLS Intern - Technical Information & Documentation](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Holland-MI-United-States/RLS-Intern---Technical-Information---Documentation_JR-0088330-1) | 68 | Grand Rapids, MI / Holland, MI | Software | 2026-05-16 |
-| [Procurement Intern](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Atlanta-GA-United-States/Procurement-Intern_JR-0088786-1) | 68 | Atlanta, GA | Software | 2026-05-13 |
 | [AI Intern](https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Atlanta-GA-United-States/AI-Internships_JR-0088855) | 68 | Grand Rapids, MI / Plano, TX / Atlanta, GA | Software | 2026-05-13 |
 | [Mobile Robots Intern - AGV SLAM Research & Enhancement](https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Holland-MI-United-States/Mobile-Robots-Intern---AGV-SLAM-Research---Enhancement-_JR-0088333) | 68 | Grand Rapids, MI / Holland, MI | AI/ML/Data | 2026-05-09 |
 | [Mobile Robots Intern - Mechatronics Vehicle Feature](https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Holland-MI-United-States/Mobile-Robots-Intern---Mechatronics-Vehicle-Feature-s--R-D_JR-0088334) | 58 | Grand Rapids, MI / Holland, MI | Hardware | 2026-05-09 |
@@ -5893,7 +5875,6 @@
 | [Research Intern - AI Frameworks - Network Systems and Tools](https://apply.careers.microsoft.com/careers/job/1970393556639524) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - AI Frontiers](https://apply.careers.microsoft.com/careers/job/1970393556864498) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - AI Frontiers - Reasoning & Agentic Models](https://apply.careers.microsoft.com/careers/job/1970393556621824) | 60 | Redmond, WA / NYC | AI/ML/Data | 2026-05-09 |
-| [Research Intern - AI Frontiers - Reasoning & Agentic Models](https://apply.careers.microsoft.com/careers/job/1970393556856340) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - AI Hardware](https://apply.careers.microsoft.com/careers/job/1970393556621661) | 60 | Vancouver, BC, Canada | AI/ML/Data | 2026-05-09 |
 | [Research Intern - AI Hardware](https://apply.careers.microsoft.com/careers/job/1970393556621664) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - AI Network Observability](https://apply.careers.microsoft.com/careers/job/1970393556639544) | 60 | Redmond, WA / Mountain View, CA | AI/ML/Data | 2026-05-09 |
@@ -7012,12 +6993,6 @@
 | [AI Operations Intern](https://jobs.ashbyhq.com/ramp/1f75a275-2bcf-4cb2-a121-eef0a453475f) | 58 | New York, NY | — | 2026-05-09 |
 | [Applied Scientist Intern](https://jobs.ashbyhq.com/ramp/43ac03c8-65f5-4522-ab3d-6d496ae7d925) | 58 | New York, NY | — | 2026-05-09 |
 | [Software Engineer Internship, Android](https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b) | 90 | — | — | 2026-05-06 |
-
-## Raymond James Financial
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Investment Analyst Associate Intern - Reams Asset Management](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Indianapolis-Indiana---United-States/XMLNAME-2026-Summer-Associate---Investment-Analyst---Reams-Asset-Management---Indianapolis--IN_R-0011190) | 68 | Indianapolis, IN | Quant | 2026-05-17 |
 
 ## Reacher
 
