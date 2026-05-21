@@ -1,6 +1,6 @@
 # Open Internships
 
-**2812** internships across **63/64** companies — last updated 2026-05-21.
+**2814** internships across **62/64** companies — last updated 2026-05-21.
 
 ## Companies
 
@@ -237,13 +237,14 @@
 - [Citadel Securities](#citadel-securities) (10)
 - [Citi](#citi) (1)
 - [Citizens Financial Group](#citizens-financial-group) (6)
+- [City of Austin](#city-of-austin) (1)
 - [City of Baltimore](#city-of-baltimore) (3)
 - [City of Greeley](#city-of-greeley) (1)
 - [Clarity Partners](#clarity-partners) (1)
 - [Clarivate](#clarivate) (1)
 - [Clerkie](#clerkie) (1)
 - [Clever](#clever) (1)
-- [Cloudflare](#cloudflare) (38)
+- [Cloudflare](#cloudflare) (37)
 - [Cloudforce](#cloudforce) (2)
 - [Cloudglue - YC](#cloudglue-yc) (1)
 - [CME Group](#cme-group) (1)
@@ -273,6 +274,7 @@
 - [Corning](#corning) (1)
 - [CoStar Group](#costar-group) (1)
 - [Cotiviti](#cotiviti) (4)
+- [Coupang](#coupang) (1)
 - [Covestro](#covestro) (1)
 - [Cox Automotive](#cox-automotive) (1)
 - [Cox Enterprises](#cox-enterprises) (3)
@@ -439,7 +441,7 @@
 - [Gemini](#gemini) (1)
 - [General Astronautics](#general-astronautics) (1)
 - [General Dynamics](#general-dynamics) (1)
-- [General Dynamics Mission Systems](#general-dynamics-mission-systems) (8)
+- [General Dynamics Mission Systems](#general-dynamics-mission-systems) (9)
 - [General Dynamics Mission Systems, Inc.](#general-dynamics-mission-systems-inc) (3)
 - [General Motors](#general-motors) (3)
 - [General Motors Financial](#general-motors-financial) (2)
@@ -592,7 +594,7 @@
 - [Labelbox](#labelbox) (1)
 - [Lambda](#lambda) (2)
 - [Landis+Gyr](#landis-gyr) (1)
-- [Lawrence Livermore National Laboratory (LLNL)](#lawrence-livermore-national-laboratory-llnl) (2)
+- [Lawrence Livermore National Laboratory (LLNL)](#lawrence-livermore-national-laboratory-llnl) (1)
 - [Layup Parts](#layup-parts) (1)
 - [Lazard](#lazard) (4)
 - [Legrand](#legrand) (1)
@@ -819,6 +821,7 @@
 - [Replit](#replit) (2)
 - [Resolve Tech Solutions](#resolve-tech-solutions) (2)
 - [RESPEC](#respec) (2)
+- [Revantage Corporate Services](#revantage-corporate-services) (1)
 - [Revvity](#revvity) (1)
 - [RIB Software](#rib-software) (1)
 - [Rilla](#rilla) (1)
@@ -2833,6 +2836,12 @@
 | [Data Analytics Intern](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/41925) | 50 | Coralville, IA / Providence, RI / Columbus, OH / Norwood, MA | — | 2026-05-09 |
 | [Data Science Intern](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/41920) | 50 | Coralville, IA / Providence, RI / Columbus, OH / Norwood, MA | — | 2026-05-09 |
 
+## City of Austin
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Air Quality Intern](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/One-Texas-Center/Air-Quality-Intern---Austin-Climate-Action---Resilience_JR103903) | 68 | Austin, TX | AI/ML/Data | 2026-05-21 |
+
 ## City of Baltimore
 
 | Title | Score | Location | Department | First seen |
@@ -2884,7 +2893,6 @@
 | [Data Science Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7914511?gh_jid=7914511) | 58 | In-Office | — | 2026-05-13 |
 | [Technical Support Engineer Intern (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7912382?gh_jid=7912382) | 58 | In-Office | — | 2026-05-13 |
 | [Network Engineering Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7917883?gh_jid=7917883) | 58 | In-Office | — | 2026-05-13 |
-| [Sales Project Manager Summer Intern - 3 months](https://boards.greenhouse.io/cloudflare/jobs/7899062?gh_jid=7899062) | 38 | In-Office | — | 2026-05-11 |
 | [Software Engineering Intern](https://job-boards.greenhouse.io/cloudflare/jobs/7206269) | 68 | Austin, TX | — | 2026-05-09 |
 | [Product Manager Intern - Summer 2026](https://boards.greenhouse.io/cloudflare/jobs/7362113) | 58 | Austin, TX | Product | 2026-05-09 |
 | [Product Marketing Engineer Intern – Intern - AI & Automation](https://boards.greenhouse.io/cloudflare/jobs/7781953) | 48 | Austin, TX | Software | 2026-05-09 |
@@ -3114,6 +3122,12 @@
 | [Generative AI Research Engineer Intern](https://careers-cotiviti.icims.com/jobs/18971/job?mobile=true&needsRedirect=false) | 85 | Remote in USA | AI/ML/Data | 2026-05-09 |
 | [Generative AI/Agentic AI/Research Intern](https://careers-cotiviti.icims.com/jobs/18929/job?mobile=true&needsRedirect=false) | 60 | Remote in USA | AI/ML/Data | 2026-05-09 |
 | [Temporary Intern - Agentic AI & Neural-Symbolic Systems - Healthcare](https://careers-cotiviti.icims.com/jobs/19075/job?mobile=true&needsRedirect=false) | 60 | Remote in USA | Software | 2026-05-09 |
+
+## Coupang
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI Software Engineer Intern](https://www.coupang.jobs/en/jobs/?gh_jid=7939700) | 85 | Seattle, WA | Software | 2026-05-21 |
 
 ## Covestro
 
@@ -4246,6 +4260,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Engineer Intern](https://careers-gdms.icims.com/jobs/72556/job?mobile=true&needsRedirect=false) | 85 | Chantilly, VA | Software | 2026-05-21 |
 | [Software Engineer – Intern](https://careers-gdms.icims.com/jobs/72240/job?mobile=true&needsRedirect=false) | 85 | Fort Wayne, IN | Software | 2026-05-11 |
 | [Software Engineer Intern](https://careers-gdms.icims.com/jobs/68043/job?mobile=true&needsRedirect=false) | 85 | Pittsfield, MA | — | 2026-05-09 |
 | [Software Engineer Intern, Software Engineering](https://careers-gdms.icims.com/jobs/67921/job?mobile=true&needsRedirect=false) | 85 | Canonsburg, PA | — | 2026-05-09 |
@@ -4837,8 +4852,8 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Hardware Machine Learning PhD Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, IL | AI/ML/Data | 2026-05-09 |
-| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
+| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Hardware Machine Learning PhD Research Internship](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, United States | — | 2026-05-06 |
 | [Graduate Broker Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4608590101) | 64 | Chicago, United States | — | 2026-05-06 |
 | [Graduate Floor Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4786701101) | 64 | Chicago, United States; Miami, United States; New York, United States; Philadelphia, United States; San Francisco, United States | — | 2026-05-06 |
@@ -5378,7 +5393,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Graduate Intern](https://jobs.smartrecruiters.com/LLNL/3743990013194956) | 64 | Livermore, CA | Hardware | 2026-05-19 |
 | [Predictive Science Academic Alliance Program 4 Student Intern - Psaap IV](https://jobs.smartrecruiters.com/LLNL/3743990010157416) | 68 | Livermore, CA | AI/ML/Data | 2026-05-09 |
 
 ## Layup Parts
@@ -7132,6 +7146,12 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](https://jobs.smartrecruiters.com/RESPECInc/744000083769455) | 68 | Richardson, TX | — | 2026-05-09 |
 | [Student Engineering Intern - Data Science](https://jobs.smartrecruiters.com/RESPECInc/744000107100902) | 68 | Rapid City, SD | AI/ML/Data | 2026-05-09 |
+
+## Revantage Corporate Services
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Quantitative Developer Intern](https://revantage.wd1.myworkdayjobs.com/Revantage/job/Remote---Illinois/Quantitative-Developer-Intern_JR103176) | 93 | Illinois | Quant | 2026-05-21 |
 
 ## Revvity
 
@@ -9539,4 +9559,5 @@
 
 ## Errors this run
 
+- **OpenAI**: ashby openai: HTTP 504
 - **Mistral**: ashby mistral: HTTP 404

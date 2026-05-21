@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-21T08:56:03.294Z",
+  "generatedAt": "2026-05-21T12:09:26.398Z",
   "companyCount": 64,
-  "okCount": 63,
-  "jobCount": 2812,
+  "okCount": 62,
+  "jobCount": 2814,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -109,7 +109,6 @@
     "canonical:864b184043940577": "2026-05-06T06:42:07.596Z",
     "canonical:9952516595607d15": "2026-05-06T06:42:07.596Z",
     "canonical:95a71a6031acbd00": "2026-05-06T06:42:07.596Z",
-    "canonical:8375c616ad1a099d": "2026-05-11T11:24:37.304Z",
     "canonical:accc7acdf5c4229f": "2026-05-06T06:42:07.596Z",
     "canonical:d14a513f8325af8e": "2026-05-06T06:42:07.596Z",
     "canonical:7a2fd240cea729fb": "2026-05-15T16:23:09.152Z",
@@ -2708,7 +2707,6 @@
     "canonical:e1b26ab22318f08e": "2026-05-19T05:49:46.323Z",
     "canonical:7e6f0314e90a9891": "2026-05-19T05:49:46.323Z",
     "canonical:43945db9af9e8f92": "2026-05-19T05:49:46.323Z",
-    "canonical:982c908bb9774c79": "2026-05-19T05:49:46.323Z",
     "canonical:be8181dce226134d": "2026-05-19T05:49:46.323Z",
     "canonical:a4bfa7421cb2dd8c": "2026-05-19T05:49:46.323Z",
     "canonical:d8edfbca2ae1cdf6": "2026-05-19T05:49:46.323Z",
@@ -2815,7 +2813,11 @@
     "canonical:f012e13fdaf4adcb": "2026-05-21T05:52:27.471Z",
     "canonical:ce24e19952ce522a": "2026-05-21T05:52:27.471Z",
     "canonical:fe4b4d1939d422db": "2026-05-21T05:52:27.471Z",
-    "canonical:383efe2591007c81": "2026-05-21T05:52:27.471Z"
+    "canonical:383efe2591007c81": "2026-05-21T05:52:27.471Z",
+    "canonical:785c1bc6d49c0cbc": "2026-05-21T12:09:26.398Z",
+    "canonical:e6c2ab9376826e68": "2026-05-21T12:09:26.398Z",
+    "canonical:5382ee415d9a9e24": "2026-05-21T12:09:26.398Z",
+    "canonical:61833014008ff73b": "2026-05-21T12:09:26.398Z"
   },
   "jobs": [
     {
@@ -2937,10 +2939,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -2952,10 +2954,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -4180,19 +4182,6 @@
       "id": "canonical:95a71a6031acbd00",
       "title": "Sales Project Manager Intern (AI Innovation) (Summer 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7773799?gh_jid=7773799",
-      "location": "In-Office",
-      "department": "",
-      "company": "Cloudflare",
-      "score": 38,
-      "scoreReasons": [
-        "direct ATS",
-        "lower-fit title"
-      ]
-    },
-    {
-      "id": "canonical:8375c616ad1a099d",
-      "title": "Sales Project Manager Summer Intern - 3 months",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7899062?gh_jid=7899062",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -15633,6 +15622,20 @@
       ]
     },
     {
+      "id": "canonical:785c1bc6d49c0cbc",
+      "title": "Quantitative Developer Intern",
+      "url": "https://revantage.wd1.myworkdayjobs.com/Revantage/job/Remote---Illinois/Quantitative-Developer-Intern_JR103176",
+      "location": "Illinois",
+      "department": "Quant",
+      "company": "Revantage Corporate Services",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:b13a26c9bc5eb727",
       "title": "Vehicle Safety & Testing Intern",
       "url": "https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Troy-Michigan/Vehicle-Safety---Testing-Intern_JR100477",
@@ -20070,6 +20073,19 @@
       ]
     },
     {
+      "id": "canonical:e6c2ab9376826e68",
+      "title": "Engineer Intern",
+      "url": "https://careers-gdms.icims.com/jobs/72556/job?mobile=true&needsRedirect=false",
+      "location": "Chantilly, VA",
+      "department": "Software",
+      "company": "General Dynamics Mission Systems",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:b5afd52c0570a527",
       "title": "Software Engineer Intern - Distributed Simulation Systems",
       "url": "https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066/application",
@@ -21045,6 +21061,19 @@
       ]
     },
     {
+      "id": "canonical:5382ee415d9a9e24",
+      "title": "Air Quality Intern",
+      "url": "https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/One-Texas-Center/Air-Quality-Intern---Austin-Climate-Action---Resilience_JR103903",
+      "location": "Austin, TX",
+      "department": "AI/ML/Data",
+      "company": "City of Austin",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:46f7a31ad3598b53",
       "title": "Digital Construction & Data Management Intern",
       "url": "https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Austin-TX/Digital-Construction---Data-Management-Intern_JR17433",
@@ -21305,19 +21334,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:982c908bb9774c79",
-      "title": "Graduate Intern",
-      "url": "https://jobs.smartrecruiters.com/LLNL/3743990013194956",
-      "location": "Livermore, CA",
-      "department": "Hardware",
-      "company": "Lawrence Livermore National Laboratory (LLNL)",
-      "score": 64,
-      "scoreReasons": [
-        "new grad",
         "direct ATS"
       ]
     },
@@ -22288,6 +22304,19 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:61833014008ff73b",
+      "title": "AI Software Engineer Intern",
+      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7939700",
+      "location": "Seattle, WA",
+      "department": "Software",
+      "company": "Coupang",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
@@ -37824,6 +37853,10 @@
     }
   ],
   "errors": [
+    {
+      "company": "OpenAI",
+      "message": "ashby openai: HTTP 504"
+    },
     {
       "company": "Mistral",
       "message": "ashby mistral: HTTP 404"
