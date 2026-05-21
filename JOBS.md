@@ -1,6 +1,6 @@
 # Open Internships
 
-**2811** internships across **63/64** companies — last updated 2026-05-21.
+**2806** internships across **63/64** companies — last updated 2026-05-21.
 
 ## Companies
 
@@ -30,7 +30,6 @@
 - [Aechelon Technology](#aechelon-technology) (2)
 - [AECOM](#aecom) (3)
 - [AeroVironment](#aerovironment) (3)
-- [Agility Robotics](#agility-robotics) (1)
 - [AIG](#aig) (1)
 - [AION ROBOTICS CORPORATION](#aion-robotics-corporation) (1)
 - [Airbnb](#airbnb) (2)
@@ -266,7 +265,6 @@
 - [ConnectPrep](#connectprep) (2)
 - [Context](#context) (1)
 - [Cook Group](#cook-group) (4)
-- [Cooper University Health Care](#cooper-university-health-care) (1)
 - [CoorsTek](#coorstek) (1)
 - [Copart](#copart) (4)
 - [Copeland](#copeland) (1)
@@ -274,7 +272,6 @@
 - [Corning](#corning) (1)
 - [CoStar Group](#costar-group) (1)
 - [Cotiviti](#cotiviti) (4)
-- [Coupang](#coupang) (1)
 - [Covestro](#covestro) (1)
 - [Cox Automotive](#cox-automotive) (1)
 - [Cox Enterprises](#cox-enterprises) (3)
@@ -608,7 +605,6 @@
 - [Linkedin](#linkedin) (1)
 - [LinkedIn](#linkedin) (3)
 - [LINQ](#linq) (1)
-- [Live Nation Entertainment](#live-nation-entertainment) (1)
 - [LiveRamp](#liveramp) (2)
 - [LMI ](#lmi) (5)
 - [Lockheed Martin](#lockheed-martin) (8)
@@ -971,7 +967,7 @@
 - [Techtronic Industries](#techtronic-industries) (1)
 - [Teledyne](#teledyne) (1)
 - [Teleo](#teleo) (1)
-- [Tempus](#tempus) (2)
+- [Tempus](#tempus) (1)
 - [Tencent](#tencent) (24)
 - [TENEX.AI](#tenex-ai) (1)
 - [Tenstorrent](#tenstorrent) (7)
@@ -1303,12 +1299,6 @@
 | [Machine Learning Engineer Intern](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/20521-Seneca-Meadows-Pkwy-Germantown-MD/Machine-Learning-Engineering-Intern_7790) | 93 | Germantown, MD | AI/ML/Data | 2026-05-19 |
 | [Undergraduate Research Intern](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/ABQ-AFB/Undergraduate-Research-Intern_7748) | 68 | Albuquerque, NM | AI/ML/Data | 2026-05-17 |
 | [Software Engineering Intern – Hyper-RF Division](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/20521-Seneca-Meadows-Pkwy-Germantown-MD/Software-Engineering-Intern---Hyper-RF-Division_6367) | 68 | Germantown, MD | Software Engineering | 2026-05-09 |
-
-## Agility Robotics
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Firmware Engineer Intern](https://www.agilityrobotics.com/about/job-post?gh_jid=5818356004) | 75 | Salem, OR | Hardware | 2026-05-09 |
 
 ## AIG
 
@@ -2898,7 +2888,7 @@
 | [Product Manager Intern - Summer 2026](https://boards.greenhouse.io/cloudflare/jobs/7362113) | 58 | Austin, TX | Product | 2026-05-09 |
 | [Product Marketing Engineer Intern – Intern - AI & Automation](https://boards.greenhouse.io/cloudflare/jobs/7781953) | 48 | Austin, TX | Software | 2026-05-09 |
 | [Marketing Events and Campaigns Intern (Mid-Year 2026)](https://boards.greenhouse.io/cloudflare/jobs/7736919?gh_jid=7736919) | 38 | In-Office | — | 2026-05-07 |
-| [Security Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169) | 93 | In-Office | — | 2026-05-06 |
+| [Security Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150) | 93 | In-Office | — | 2026-05-06 |
 | [Business Analyst Intern, Revenue Operations (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7761468?gh_jid=7761468) | 58 | In-Office | — | 2026-05-06 |
 | [Customer Advocacy Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7743202?gh_jid=7743202) | 58 | In-Office | — | 2026-05-06 |
 | [DCSC Automation Coordinator Intern](https://boards.greenhouse.io/cloudflare/jobs/7751595?gh_jid=7751595) | 58 | In-Office | — | 2026-05-06 |
@@ -2910,7 +2900,7 @@
 | [Product Manager Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7362113?gh_jid=7362113) | 58 | In-Office | — | 2026-05-06 |
 | [Public Policy Intern, APJC (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7863831?gh_jid=7863831) | 58 | In-Office | — | 2026-05-06 |
 | [Revenue Operations Intern - Enablement (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7761397?gh_jid=7761397) | 58 | In-Office | — | 2026-05-06 |
-| [Technical Support Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879) | 58 | In-Office | — | 2026-05-06 |
+| [Technical Support Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7726977?gh_jid=7726977) | 58 | In-Office | — | 2026-05-06 |
 | [Threat Detection and Incident Response Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7577205?gh_jid=7577205) | 58 | In-Office | — | 2026-05-06 |
 | [Business Analyst Intern, Marketing (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7729700?gh_jid=7729700) | 38 | In-Office | — | 2026-05-06 |
 | [Developer GTM Intern – Enterprise Sales & AI Automation (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7789256?gh_jid=7789256) | 38 | In-Office | — | 2026-05-06 |
@@ -3069,12 +3059,6 @@
 | [Intern, Statistics & Data Science](https://americas-cookmedical.icims.com/jobs/17485/intern%2c-statistics-%26-data-science/job) | 60 | Bloomington, IN | Data Science, AI & Machine Learning | 2026-05-09 |
 | [Statistics & Data Science Intern](https://americas-cookmedical.icims.com/jobs/17485/intern%2c-statistics-%26-data-science/job) | 50 | Bloomington, IN | — | 2026-05-09 |
 
-## Cooper University Health Care
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Enterprise Analytics Intern](https://careers-cooperhealth.icims.com/jobs/83225/job?mobile=true&needsRedirect=false) | 60 | Philadelphia, PA | AI/ML/Data | 2026-05-09 |
-
 ## CoorsTek
 
 | Title | Score | Location | Department | First seen |
@@ -3122,12 +3106,6 @@
 | [Generative AI Research Engineer Intern](https://careers-cotiviti.icims.com/jobs/18971/job?mobile=true&needsRedirect=false) | 85 | Remote in USA | AI/ML/Data | 2026-05-09 |
 | [Generative AI/Agentic AI/Research Intern](https://careers-cotiviti.icims.com/jobs/18929/job?mobile=true&needsRedirect=false) | 60 | Remote in USA | AI/ML/Data | 2026-05-09 |
 | [Temporary Intern - Agentic AI & Neural-Symbolic Systems - Healthcare](https://careers-cotiviti.icims.com/jobs/19075/job?mobile=true&needsRedirect=false) | 60 | Remote in USA | Software | 2026-05-09 |
-
-## Coupang
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI Software Engineer Intern](https://www.coupang.jobs/en/jobs/?gh_jid=7939700) | 85 | Seattle, WA | Software | 2026-05-21 |
 
 ## Covestro
 
@@ -5085,8 +5063,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Integration Analyst Intern](https://jadeglobal.wd5.myworkdayjobs.com/en-US/jade_careers/job/Ogden-UT/Integration-Analyst-Intern_R-103683) | 68 | Ogden, UT | AI/ML/Data | 2026-05-21 |
 | [Data/AI Engineer Intern](https://jadeglobal.wd5.myworkdayjobs.com/en-US/jade_careers/job/Ogden-UT/Data-Ai-Engineer-Intern_R-103685) | 93 | Ogden, UT | AI/ML/Data | 2026-05-21 |
-| [Integration Analyst Intern - Data & AI Team](https://jadeglobal.wd5.myworkdayjobs.com/en-US/jade_careers/job/Ogden-UT/Integration-Analyst-Intern_R-103683) | 68 | Ogden, UT | AI/ML/Data | 2026-05-16 |
 
 ## Jain Global
 
@@ -5482,12 +5460,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Technical Intern](https://jobs.ashbyhq.com/linqapp/8a64cb3d-42fa-47ec-94ec-5a6f7c8831b5/application) | 68 | Birmingham, AL | Software | 2026-05-19 |
-
-## Live Nation Entertainment
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Marketing Data Science Intern](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/Marketing-Data-Science-Intern_JR-88766) | 48 | Culver City, CA | AI/ML/Data | 2026-05-17 |
 
 ## LiveRamp
 
@@ -8051,8 +8023,8 @@
 | [PhD Data Scientist Intern - Data Science](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
 | [PhD Machine Learning Engineer Intern](https://stripe.com/jobs/search?gh_jid=7216664) | 85 | Seattle, WA / SF / NYC | AI/ML/Data | 2026-05-09 |
 | [Software Engineer Intern](https://stripe.com/jobs/listing/software-engineer-intern-summer-and-winter/7210115) | 85 | South San Francisco, CA / Seattle, WA / New York, NY | — | 2026-05-09 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7216664) | 85 | San Francisco, New York City, Seattle | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
@@ -8242,7 +8214,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [AI Data Science Associate Intern](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Chicago/AI-Data-Science-Summer-Associate_JR202600379) | 68 | Chicago, IL | AI/ML/Data | 2026-05-16 |
-| [AI Data Science Analyst Intern](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Chicago/AI-Data-Science-Summer-Analyst_JR202600377) | 68 | Chicago, IL | AI/ML/Data | 2026-05-09 |
 
 ## Tencent
 

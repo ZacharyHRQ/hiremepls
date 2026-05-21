@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-21T15:49:52.856Z",
+  "generatedAt": "2026-05-21T17:50:03.808Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 2811,
+  "jobCount": 2806,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -568,7 +568,6 @@
     "canonical:eb1c3b475c210318": "2026-05-09T15:28:15.527Z",
     "canonical:83d0d811621965f3": "2026-05-09T15:28:15.527Z",
     "canonical:6e3cbc591a3a558b": "2026-05-09T15:28:15.527Z",
-    "canonical:a58e81f98fa7face": "2026-05-09T15:28:15.527Z",
     "canonical:afece7bd9011bfab": "2026-05-16T07:09:10.733Z",
     "canonical:81132f9b662359f6": "2026-05-16T07:09:10.733Z",
     "canonical:c46966c8f473ec8f": "2026-05-16T07:09:10.733Z",
@@ -935,8 +934,6 @@
     "canonical:9541df1d0767f802": "2026-05-09T15:28:15.527Z",
     "canonical:99e03b476dac932b": "2026-05-09T15:28:15.527Z",
     "canonical:0c953ee66e86cdaa": "2026-05-09T15:28:15.527Z",
-    "canonical:f9c7ac6c265a11ee": "2026-05-09T15:28:15.527Z",
-    "canonical:41046406fa5f3195": "2026-05-09T15:28:15.527Z",
     "canonical:cc35dc83f815449a": "2026-05-09T15:28:15.527Z",
     "canonical:73b655c0d199329d": "2026-05-09T15:28:15.527Z",
     "canonical:4ad551198f20a1aa": "2026-05-09T15:28:15.527Z",
@@ -2478,7 +2475,6 @@
     "canonical:6443ea3492c24077": "2026-05-16T15:13:47.475Z",
     "canonical:056df130fc089383": "2026-05-16T15:13:47.475Z",
     "canonical:c9db0c5ac50ddf51": "2026-05-16T15:13:47.475Z",
-    "canonical:5d4df5b7404e3656": "2026-05-16T16:09:06.490Z",
     "canonical:103a322744212e14": "2026-05-16T16:09:06.490Z",
     "canonical:94eeb92e0ece8636": "2026-05-16T16:09:06.490Z",
     "canonical:fcf29e8e2d7bc67c": "2026-05-16T16:09:06.490Z",
@@ -2557,7 +2553,6 @@
     "canonical:0dbb31b14cd1ae89": "2026-05-17T00:06:18.951Z",
     "canonical:285dde6bcdd9dbd5": "2026-05-17T00:06:18.951Z",
     "canonical:4f85d18e62f2efe6": "2026-05-17T00:06:18.951Z",
-    "canonical:4ca3c5dc85a9b068": "2026-05-17T00:06:18.951Z",
     "canonical:b2ff9f0f3c42f658": "2026-05-17T00:06:18.951Z",
     "canonical:31962d85f79aae5b": "2026-05-17T00:06:18.951Z",
     "canonical:96fa2b1bb6b71c38": "2026-05-17T00:06:18.951Z",
@@ -2809,12 +2804,12 @@
     "canonical:785c1bc6d49c0cbc": "2026-05-21T12:09:26.398Z",
     "canonical:e6c2ab9376826e68": "2026-05-21T12:09:26.398Z",
     "canonical:5382ee415d9a9e24": "2026-05-21T12:09:26.398Z",
-    "canonical:61833014008ff73b": "2026-05-21T12:09:26.398Z",
     "canonical:58dc2e0e785f5d2d": "2026-05-21T15:49:52.856Z",
     "canonical:4657deb65ec280ac": "2026-05-21T15:49:52.856Z",
     "canonical:72abb2db13af5981": "2026-05-21T15:49:52.856Z",
     "canonical:e0d5ce31dfaf1a2a": "2026-05-21T15:49:52.856Z",
-    "canonical:57b0c9722c64bac8": "2026-05-21T15:49:52.856Z"
+    "canonical:57b0c9722c64bac8": "2026-05-21T15:49:52.856Z",
+    "canonical:019da6ccfe10383d": "2026-05-21T17:50:03.808Z"
   },
   "jobs": [
     {
@@ -3676,10 +3671,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -3689,10 +3684,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -4191,7 +4186,7 @@
     {
       "id": "canonical:d14a513f8325af8e",
       "title": "Security Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -4242,7 +4237,7 @@
     {
       "id": "canonical:31dd1ab15c427f1e",
       "title": "Technical Support Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726977?gh_jid=7726977",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -4441,19 +4436,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:5d4df5b7404e3656",
-      "title": "Integration Analyst Intern - Data & AI Team",
-      "url": "https://jadeglobal.wd5.myworkdayjobs.com/en-US/jade_careers/job/Ogden-UT/Integration-Analyst-Intern_R-103683",
-      "location": "Ogden, UT",
-      "department": "AI/ML/Data",
-      "company": "Jade Global",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -10765,18 +10747,6 @@
       ]
     },
     {
-      "id": "canonical:a58e81f98fa7face",
-      "title": "Firmware Engineer Intern",
-      "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=5818356004",
-      "location": "Salem, OR",
-      "department": "Hardware",
-      "company": "Agility Robotics",
-      "score": 75,
-      "scoreReasons": [
-        "SWE-aligned"
-      ]
-    },
-    {
       "id": "canonical:afece7bd9011bfab",
       "title": "Metrology Automation Intern/Co-op",
       "url": "https://jobs.bmwgroup.com/job/Greer-Metrology-Automation-Co-op-(Fall-2026)-Sout/1370727333/?ats=successfactors",
@@ -12014,20 +11984,6 @@
       "score": 58,
       "scoreReasons": [
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:4ca3c5dc85a9b068",
-      "title": "Marketing Data Science Intern",
-      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/Marketing-Data-Science-Intern_JR-88766",
-      "location": "Culver City, CA",
-      "department": "AI/ML/Data",
-      "company": "Live Nation Entertainment",
-      "score": 48,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS",
-        "lower-fit title"
       ]
     },
     {
@@ -16788,31 +16744,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:f9c7ac6c265a11ee",
-      "title": "Enterprise Analytics Intern",
-      "url": "https://careers-cooperhealth.icims.com/jobs/83225/job?mobile=true&needsRedirect=false",
-      "location": "Philadelphia, PA",
-      "department": "AI/ML/Data",
-      "company": "Cooper University Health Care",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:41046406fa5f3195",
-      "title": "AI Data Science Analyst Intern",
-      "url": "https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Chicago/AI-Data-Science-Summer-Analyst_JR202600377",
-      "location": "Chicago, IL",
-      "department": "AI/ML/Data",
-      "company": "Tempus",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -22201,19 +22132,6 @@
       ]
     },
     {
-      "id": "canonical:61833014008ff73b",
-      "title": "AI Software Engineer Intern",
-      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7939700",
-      "location": "Seattle, WA",
-      "department": "Software",
-      "company": "Coupang",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:58dc2e0e785f5d2d",
       "title": "Application Engineer Intern",
       "url": "https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Troy-Michigan/Application-Engineer-Intern--Summer-2026-_R13999",
@@ -22276,6 +22194,19 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:019da6ccfe10383d",
+      "title": "Integration Analyst Intern",
+      "url": "https://jadeglobal.wd5.myworkdayjobs.com/en-US/jade_careers/job/Ogden-UT/Integration-Analyst-Intern_R-103683",
+      "location": "Ogden, UT",
+      "department": "AI/ML/Data",
+      "company": "Jade Global",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
