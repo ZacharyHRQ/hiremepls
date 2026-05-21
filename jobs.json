@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-21T19:42:37.378Z",
+  "generatedAt": "2026-05-21T21:17:06.675Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 2786,
+  "jobCount": 2788,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -2789,7 +2789,9 @@
     "canonical:4657deb65ec280ac": "2026-05-21T15:49:52.856Z",
     "canonical:57b0c9722c64bac8": "2026-05-21T15:49:52.856Z",
     "canonical:019da6ccfe10383d": "2026-05-21T17:50:03.808Z",
-    "canonical:f9c7ac6c265a11ee": "2026-05-21T19:42:37.378Z"
+    "canonical:f9c7ac6c265a11ee": "2026-05-21T19:42:37.378Z",
+    "canonical:502ea6feeed8d163": "2026-05-21T21:17:06.675Z",
+    "canonical:228a0f9fec464463": "2026-05-21T21:17:06.675Z"
   },
   "jobs": [
     {
@@ -3449,6 +3451,20 @@
       ]
     },
     {
+      "id": "canonical:502ea6feeed8d163",
+      "title": "2026 MSc/PhD Quantitative Researcher Internship",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7950797",
+      "location": "São Paulo, Brazil",
+      "department": "",
+      "company": "Schonfeld",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:1deca2b01fe852c8",
       "title": "Quantitative Research / Developer - Intern",
       "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7185553",
@@ -3651,10 +3667,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -3664,10 +3680,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -21931,6 +21947,20 @@
       "company": "Jade Global",
       "score": 68,
       "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:228a0f9fec464463",
+      "title": "AI Applied Scientist Intern - Foundational AQ & EQ",
+      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Foundational-AQ---EQ_P748041",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "Zillow",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]

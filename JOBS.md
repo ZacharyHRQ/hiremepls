@@ -1,6 +1,6 @@
 # Open Internships
 
-**2786** internships across **63/64** companies — last updated 2026-05-21.
+**2788** internships across **63/64** companies — last updated 2026-05-21.
 
 ## Companies
 
@@ -855,7 +855,7 @@
 - [Scale.ai](#scale-ai) (1)
 - [SCAN](#scan) (1)
 - [ScentAir](#scentair) (1)
-- [Schonfeld](#schonfeld) (3)
+- [Schonfeld](#schonfeld) (4)
 - [Schweitzer Engineering Laboratories](#schweitzer-engineering-laboratories) (3)
 - [Seagate](#seagate) (7)
 - [Seagate Technology](#seagate-technology) (2)
@@ -1110,7 +1110,7 @@
 - [Zebra Technologies](#zebra-technologies) (2)
 - [Zello](#zello) (1)
 - [ZeroEntropy](#zeroentropy) (1)
-- [Zillow](#zillow) (3)
+- [Zillow](#zillow) (4)
 - [Zip](#zip) (2)
 - [Zoetis](#zoetis) (1)
 - [Zoox](#zoox) (2)
@@ -7397,6 +7397,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [2026 MSc/PhD Quantitative Researcher Internship](https://job-boards.greenhouse.io/schonfeld/jobs/7950797) | 93 | São Paulo, Brazil | — | 2026-05-21 |
 | [Quantitative Research / Developer - Intern](https://job-boards.greenhouse.io/schonfeld/jobs/7185553) | 93 | Hong Kong, Hong Kong | — | 2026-05-06 |
 | [2026 LATAM Investment Analyst (Internship)](https://job-boards.greenhouse.io/schonfeld/jobs/7761282) | 58 | São Paulo, Brazil | — | 2026-05-06 |
 | [2026 LATAM Operations Analyst (Internship)](https://job-boards.greenhouse.io/schonfeld/jobs/7761284) | 58 | São Paulo, Brazil | — | 2026-05-06 |
@@ -7975,8 +7976,8 @@
 | [PhD Data Scientist Intern - Data Science](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
 | [PhD Machine Learning Engineer Intern](https://stripe.com/jobs/search?gh_jid=7216664) | 85 | Seattle, WA / SF / NYC | AI/ML/Data | 2026-05-09 |
 | [Software Engineer Intern](https://stripe.com/jobs/listing/software-engineer-intern-summer-and-winter/7210115) | 85 | South San Francisco, CA / Seattle, WA / New York, NY | — | 2026-05-09 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7216664) | 85 | San Francisco, New York City, Seattle | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
@@ -9427,6 +9428,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [AI Applied Scientist Intern - Foundational AQ & EQ](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Foundational-AQ---EQ_P748041) | 93 | Remote in USA | AI/ML/Data | 2026-05-21 |
 | [AI Applied Scientist - PhD Intern - Evaluation Systems and Metrics](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Evaluation-Systems-and-Metrics_P748040) | 93 | Remote in USA | AI/ML/Data | 2026-05-16 |
 | [AI Applied Scientist - PhD Intern - Next-Gen Agentic and Multi-Modal Home Exploration Experience](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Next-Gen-Agentic-and-Multi-Modal-Home-Exploration-Experience_P748043) | 93 | Remote in USA | AI/ML/Data | 2026-05-16 |
 | [AI Applied Scientist Intern - Foundational IQ](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Foundational-IQ_P748042) | 93 | Remote in USA | AI/ML/Data | 2026-05-16 |
