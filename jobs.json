@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-21T05:52:27.471Z",
+  "generatedAt": "2026-05-21T08:56:03.294Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 2815,
+  "jobCount": 2812,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -2507,7 +2507,6 @@
     "canonical:6a096f716c888599": "2026-05-16T16:09:06.490Z",
     "canonical:b60277c7922ada97": "2026-05-16T16:09:06.490Z",
     "canonical:ae4681fcf9dadb2b": "2026-05-16T16:09:06.490Z",
-    "canonical:785c1bc6d49c0cbc": "2026-05-16T16:09:06.490Z",
     "canonical:180eaf74f99aa09f": "2026-05-16T16:09:06.490Z",
     "canonical:9d59f2a390da5cd9": "2026-05-16T16:09:06.490Z",
     "canonical:6f9b65a431b0c517": "2026-05-16T16:09:06.490Z",
@@ -2686,14 +2685,12 @@
     "canonical:ca7bd097a8de8334": "2026-05-18T16:19:03.910Z",
     "canonical:8a7c0c56efa46686": "2026-05-18T22:37:01.035Z",
     "canonical:d88d23d60b2f0f89": "2026-05-18T22:37:01.035Z",
-    "canonical:5382ee415d9a9e24": "2026-05-18T22:37:01.035Z",
     "canonical:46f7a31ad3598b53": "2026-05-18T22:37:01.035Z",
     "canonical:5a8cf489136914b9": "2026-05-18T22:37:01.035Z",
     "canonical:4a6fed09dbc1d207": "2026-05-18T22:37:01.035Z",
     "canonical:5271d68c3008b629": "2026-05-18T22:37:01.035Z",
     "canonical:cb9f764aa38bff1c": "2026-05-18T23:42:49.827Z",
     "canonical:9d39179b3700ff27": "2026-05-18T23:42:49.827Z",
-    "canonical:e6c2ab9376826e68": "2026-05-18T23:42:49.827Z",
     "canonical:117f07893ccc9f34": "2026-05-18T23:42:49.827Z",
     "canonical:a0aed2238ac9ed12": "2026-05-18T23:42:49.827Z",
     "canonical:a002fe8b0408c4d9": "2026-05-18T23:42:49.827Z",
@@ -3303,10 +3300,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -3317,10 +3314,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -3680,10 +3677,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -3693,10 +3690,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -15636,20 +15633,6 @@
       ]
     },
     {
-      "id": "canonical:785c1bc6d49c0cbc",
-      "title": "Quantitative Developer Intern",
-      "url": "https://revantage.wd1.myworkdayjobs.com/Revantage/job/Remote---Illinois/Quantitative-Developer-Intern_JR103176",
-      "location": "Illinois",
-      "department": "Quant",
-      "company": "Revantage Corporate Services",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:b13a26c9bc5eb727",
       "title": "Vehicle Safety & Testing Intern",
       "url": "https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Troy-Michigan/Vehicle-Safety---Testing-Intern_JR100477",
@@ -20087,19 +20070,6 @@
       ]
     },
     {
-      "id": "canonical:e6c2ab9376826e68",
-      "title": "Engineer Intern",
-      "url": "https://careers-gdms.icims.com/jobs/72556/job?mobile=true&needsRedirect=false",
-      "location": "Chantilly, VA",
-      "department": "Software",
-      "company": "General Dynamics Mission Systems",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:b5afd52c0570a527",
       "title": "Software Engineer Intern - Distributed Simulation Systems",
       "url": "https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066/application",
@@ -21068,19 +21038,6 @@
       "location": "Virginia",
       "department": "AI/ML/Data",
       "company": "Stride",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:5382ee415d9a9e24",
-      "title": "Air Quality Intern",
-      "url": "https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/One-Texas-Center/Air-Quality-Intern---Austin-Climate-Action---Resilience_JR103903",
-      "location": "Austin, TX",
-      "department": "AI/ML/Data",
-      "company": "City of Austin",
       "score": 68,
       "scoreReasons": [
         "high-signal role",

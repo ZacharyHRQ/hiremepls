@@ -1,6 +1,6 @@
 # Open Internships
 
-**2815** internships across **63/64** companies — last updated 2026-05-21.
+**2812** internships across **63/64** companies — last updated 2026-05-21.
 
 ## Companies
 
@@ -237,7 +237,6 @@
 - [Citadel Securities](#citadel-securities) (10)
 - [Citi](#citi) (1)
 - [Citizens Financial Group](#citizens-financial-group) (6)
-- [City of Austin](#city-of-austin) (1)
 - [City of Baltimore](#city-of-baltimore) (3)
 - [City of Greeley](#city-of-greeley) (1)
 - [Clarity Partners](#clarity-partners) (1)
@@ -440,7 +439,7 @@
 - [Gemini](#gemini) (1)
 - [General Astronautics](#general-astronautics) (1)
 - [General Dynamics](#general-dynamics) (1)
-- [General Dynamics Mission Systems](#general-dynamics-mission-systems) (9)
+- [General Dynamics Mission Systems](#general-dynamics-mission-systems) (8)
 - [General Dynamics Mission Systems, Inc.](#general-dynamics-mission-systems-inc) (3)
 - [General Motors](#general-motors) (3)
 - [General Motors Financial](#general-motors-financial) (2)
@@ -820,7 +819,6 @@
 - [Replit](#replit) (2)
 - [Resolve Tech Solutions](#resolve-tech-solutions) (2)
 - [RESPEC](#respec) (2)
-- [Revantage Corporate Services](#revantage-corporate-services) (1)
 - [Revvity](#revvity) (1)
 - [RIB Software](#rib-software) (1)
 - [Rilla](#rilla) (1)
@@ -2835,12 +2833,6 @@
 | [Data Analytics Intern](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/41925) | 50 | Coralville, IA / Providence, RI / Columbus, OH / Norwood, MA | — | 2026-05-09 |
 | [Data Science Intern](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/41920) | 50 | Coralville, IA / Providence, RI / Columbus, OH / Norwood, MA | — | 2026-05-09 |
 
-## City of Austin
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Air Quality Intern](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/One-Texas-Center/Air-Quality-Intern---Austin-Climate-Action---Resilience_JR103903) | 68 | Austin, TX | AI/ML/Data | 2026-05-18 |
-
 ## City of Baltimore
 
 | Title | Score | Location | Department | First seen |
@@ -4254,7 +4246,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Engineer Intern](https://careers-gdms.icims.com/jobs/72556/job?mobile=true&needsRedirect=false) | 85 | Chantilly, VA | Software | 2026-05-18 |
 | [Software Engineer – Intern](https://careers-gdms.icims.com/jobs/72240/job?mobile=true&needsRedirect=false) | 85 | Fort Wayne, IN | Software | 2026-05-11 |
 | [Software Engineer Intern](https://careers-gdms.icims.com/jobs/68043/job?mobile=true&needsRedirect=false) | 85 | Pittsfield, MA | — | 2026-05-09 |
 | [Software Engineer Intern, Software Engineering](https://careers-gdms.icims.com/jobs/67921/job?mobile=true&needsRedirect=false) | 85 | Canonsburg, PA | — | 2026-05-09 |
@@ -6858,8 +6849,8 @@
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-05-09 |
 | [2027 Point72 Academy Investment Analyst Summer Internship Program - EMEA](https://boards.greenhouse.io/point72/jobs/8435134002?gh_jid=8435134002) | 58 | Dubai | — | 2026-05-07 |
 | [2026 Technology Internship – Software Engineer](https://boards.greenhouse.io/point72/jobs/8406727002?gh_jid=8406727002) | 93 | Warsaw, Poland | — | 2026-05-06 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -7141,12 +7132,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](https://jobs.smartrecruiters.com/RESPECInc/744000083769455) | 68 | Richardson, TX | — | 2026-05-09 |
 | [Student Engineering Intern - Data Science](https://jobs.smartrecruiters.com/RESPECInc/744000107100902) | 68 | Rapid City, SD | AI/ML/Data | 2026-05-09 |
-
-## Revantage Corporate Services
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Quantitative Developer Intern](https://revantage.wd1.myworkdayjobs.com/Revantage/job/Remote---Illinois/Quantitative-Developer-Intern_JR103176) | 93 | Illinois | Quant | 2026-05-16 |
 
 ## Revvity
 
@@ -8056,8 +8041,8 @@
 | [PhD Data Scientist Intern - Data Science](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
 | [PhD Machine Learning Engineer Intern](https://stripe.com/jobs/search?gh_jid=7216664) | 85 | Seattle, WA / SF / NYC | AI/ML/Data | 2026-05-09 |
 | [Software Engineer Intern](https://stripe.com/jobs/listing/software-engineer-intern-summer-and-winter/7210115) | 85 | South San Francisco, CA / Seattle, WA / New York, NY | — | 2026-05-09 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7216664) | 85 | San Francisco, New York City, Seattle | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
