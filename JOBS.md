@@ -1,6 +1,6 @@
 # Open Internships
 
-**2812** internships across **63/64** companies — last updated 2026-05-20.
+**2811** internships across **63/64** companies — last updated 2026-05-21.
 
 ## Companies
 
@@ -60,7 +60,6 @@
 - [Ameritas Life Insurance Corp](#ameritas-life-insurance-corp) (1)
 - [Analytical Mechanics Associates](#analytical-mechanics-associates) (1)
 - [Ancestry](#ancestry) (1)
-- [Anduril](#anduril) (1)
 - [Anima](#anima) (1)
 - [Ansys](#ansys) (1)
 - [Anvil (X25)](#anvil-x25) (1)
@@ -310,7 +309,7 @@
 - [Dedalus Labs](#dedalus-labs) (1)
 - [Deloitte](#deloitte) (1)
 - [Delta Air Lines, Inc.](#delta-air-lines-inc) (1)
-- [Delta Dental](#delta-dental) (1)
+- [Delta Dental](#delta-dental) (2)
 - [Deluxe](#deluxe) (3)
 - [Desjardins Group](#desjardins-group) (2)
 - [Deutsche Bank](#deutsche-bank) (2)
@@ -669,6 +668,7 @@
 - [Millennium](#millennium) (3)
 - [MITRE](#mitre) (1)
 - [Mizuho Securities USA](#mizuho-securities-usa) (1)
+- [MKS Instruments](#mks-instruments) (1)
 - [Molex](#molex) (1)
 - [MongoDB](#mongodb) (5)
 - [Monolithic Power Systems](#monolithic-power-systems) (2)
@@ -705,7 +705,7 @@
 - [Nio](#nio) (2)
 - [Nixo](#nixo) (1)
 - [Nokia](#nokia) (23)
-- [NorthMark Strategies](#northmark-strategies) (2)
+- [NorthMark Strategies](#northmark-strategies) (1)
 - [Northrop Grumman](#northrop-grumman) (1)
 - [Northspyre](#northspyre) (1)
 - [Northwestern Mutual](#northwestern-mutual) (3)
@@ -736,7 +736,6 @@
 - [Orchids](#orchids) (1)
 - [Origami Risk](#origami-risk) (1)
 - [Oshkosh](#oshkosh) (4)
-- [Osmo](#osmo) (1)
 - [OTR Solutions](#otr-solutions) (2)
 - [OTTO Engineering](#otto-engineering) (1)
 - [Output Biosciences](#output-biosciences) (1)
@@ -1536,12 +1535,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Graduate Research Co-op - AI & Representation Learning](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Graduate-Research-Co-op---AI---Representation-Learning_R003340) | 74 | Remote in USA | AI/ML/Data | 2026-05-17 |
-
-## Anduril
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Firmware Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5121683007) | 83 | Newport Beach, CA | Hardware | 2026-05-09 |
 
 ## Anima
 
@@ -3364,6 +3357,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Intern - Application Developer](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101251) | 93 | East Lansing, MI | Software | 2026-05-21 |
 | [Application Development Intern](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101291) | 68 | East Lansing, MI | Software | 2026-05-17 |
 
 ## Deluxe
@@ -6000,6 +5994,12 @@
 | --- | --- | --- | --- | --- |
 | [Commercial Lending Technology Intern](https://mizuho.wd1.myworkdayjobs.com/Mizuho_Confidential/job/NYC-1285/XMLNAME-2026-Commercial-Lending-Technology-Summer-Internship_R6688) | 68 | NYC | Software | 2026-05-17 |
 
+## MKS Instruments
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Engineering/Development Intern/Co-op](https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Canada-Richmond/XMLNAME-2026-Fall-Engineering-Development-Intern-Co-op_R14406) | 58 | Richmond, BC, Canada | Hardware | 2026-05-21 |
+
 ## Molex
 
 | Title | Score | Location | Department | First seen |
@@ -6277,7 +6277,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Engineering Intern Program](https://northmark.wd108.myworkdayjobs.com/en-US/NMS/job/Intern-Program_R12713) | 68 | Dallas, TX | Software Engineering | 2026-05-09 |
 | [Software Engineering Intern](https://northmark.wd108.myworkdayjobs.com/en-US/NMS/job/Intern-Program_R12713) | 68 | Dallas, TX | — | 2026-05-09 |
 
 ## Northrop Grumman
@@ -6529,12 +6528,6 @@
 | [Software Engineer Intern](https://careers.oshkoshcorp.com/us/en/job/OCNOCKUSR39717EXTERNALENUS/Software-Engineer-Intern) | 85 | Greencastle, PA / Frederick, MD | — | 2026-05-09 |
 | [Software Development Intern](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Software-Development-Intern_R41756) | 68 | Oshkosh, WI | — | 2026-05-09 |
 | [Aftermarket Product Management Intern](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Aftermarket-Product-Management-Intern_R39698) | 58 | Hagerstown, MD | — | 2026-05-09 |
-
-## Osmo
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Sensor Hardware Development Intern](https://jobs.ashbyhq.com/osmo/1c13cc0a-88ba-4795-9fba-1fd5eb95eea5/application) | 58 | Linden, NJ | Hardware | 2026-05-09 |
 
 ## OTR Solutions
 

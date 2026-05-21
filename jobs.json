@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-20T23:38:03.330Z",
+  "generatedAt": "2026-05-21T01:33:24.639Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 2812,
+  "jobCount": 2811,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -135,7 +135,6 @@
     "canonical:f1b66a6a59f7a24b": "2026-05-09T15:28:15.527Z",
     "canonical:7dfd740ed0053053": "2026-05-09T15:28:15.527Z",
     "canonical:1d2cdc88cb1e1e96": "2026-05-09T15:28:15.527Z",
-    "canonical:a81f66d0e800cefb": "2026-05-09T15:28:15.527Z",
     "canonical:505d7f7716c13793": "2026-05-09T15:28:15.527Z",
     "canonical:5c6dd1eec8f84d92": "2026-05-09T15:28:15.527Z",
     "canonical:c3450f2cb67d51f9": "2026-05-09T15:28:15.527Z",
@@ -642,7 +641,6 @@
     "canonical:6a8d855111aa93f9": "2026-05-09T15:28:15.527Z",
     "canonical:491ade8f5ec863c3": "2026-05-09T15:28:15.527Z",
     "canonical:cccfd6bd46e10dd8": "2026-05-09T15:28:15.527Z",
-    "canonical:8c0fbae953812665": "2026-05-09T15:28:15.527Z",
     "canonical:bb63a577c98aec70": "2026-05-09T15:28:15.527Z",
     "canonical:f8805d346d8c3679": "2026-05-09T15:28:15.527Z",
     "canonical:4945dd3b50d812ac": "2026-05-09T15:28:15.527Z",
@@ -942,7 +940,6 @@
     "canonical:b8a886b860cf8d41": "2026-05-09T16:13:52.691Z",
     "canonical:9541df1d0767f802": "2026-05-09T15:28:15.527Z",
     "canonical:99e03b476dac932b": "2026-05-09T15:28:15.527Z",
-    "canonical:2889ca010c08e429": "2026-05-09T15:28:15.527Z",
     "canonical:0c953ee66e86cdaa": "2026-05-09T15:28:15.527Z",
     "canonical:f9c7ac6c265a11ee": "2026-05-09T15:28:15.527Z",
     "canonical:41046406fa5f3195": "2026-05-09T15:28:15.527Z",
@@ -2815,7 +2812,9 @@
     "canonical:420c972c136b0661": "2026-05-20T23:38:03.330Z",
     "canonical:891cc3d1c5f57892": "2026-05-20T23:38:03.330Z",
     "canonical:7cf1184d07e08efb": "2026-05-20T23:38:03.330Z",
-    "canonical:541e4c7eca948887": "2026-05-20T23:38:03.330Z"
+    "canonical:541e4c7eca948887": "2026-05-20T23:38:03.330Z",
+    "canonical:94b8f706fc1b8577": "2026-05-21T01:33:24.639Z",
+    "canonical:d01af5332851bd44": "2026-05-21T01:33:24.639Z"
   },
   "jobs": [
     {
@@ -4443,19 +4442,6 @@
       "company": "Cribl",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:a81f66d0e800cefb",
-      "title": "Engineering Intern Program",
-      "url": "https://northmark.wd108.myworkdayjobs.com/en-US/NMS/job/Intern-Program_R12713",
-      "location": "Dallas, TX",
-      "department": "Software Engineering",
-      "company": "NorthMark Strategies",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
     },
     {
       "id": "canonical:228a0f9fec464463",
@@ -12020,18 +12006,6 @@
       "scoreReasons": []
     },
     {
-      "id": "canonical:8c0fbae953812665",
-      "title": "Sensor Hardware Development Intern",
-      "url": "https://jobs.ashbyhq.com/osmo/1c13cc0a-88ba-4795-9fba-1fd5eb95eea5/application",
-      "location": "Linden, NJ",
-      "department": "Hardware",
-      "company": "Osmo",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:bb63a577c98aec70",
       "title": "Data Analyst Project Intern - Data Science",
       "url": "https://lifeattiktok.com/search/7620775575152462085",
@@ -13850,6 +13824,20 @@
       "company": "Cloudforce",
       "score": 68,
       "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:94b8f706fc1b8577",
+      "title": "Intern - Application Developer",
+      "url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101251",
+      "location": "East Lansing, MI",
+      "department": "Software",
+      "company": "Delta Dental",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -16879,19 +16867,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:2889ca010c08e429",
-      "title": "Firmware Engineer Intern",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5121683007",
-      "location": "Newport Beach, CA",
-      "department": "Hardware",
-      "company": "Anduril",
-      "score": 83,
-      "scoreReasons": [
-        "SWE-aligned",
-        "direct ATS"
       ]
     },
     {
@@ -22286,6 +22261,18 @@
       "score": 68,
       "scoreReasons": [
         "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:d01af5332851bd44",
+      "title": "Engineering/Development Intern/Co-op",
+      "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Canada-Richmond/XMLNAME-2026-Fall-Engineering-Development-Intern-Co-op_R14406",
+      "location": "Richmond, BC, Canada",
+      "department": "Hardware",
+      "company": "MKS Instruments",
+      "score": 58,
+      "scoreReasons": [
         "direct ATS"
       ]
     },
