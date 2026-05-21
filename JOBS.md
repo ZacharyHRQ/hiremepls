@@ -1,6 +1,6 @@
 # Open Internships
 
-**2811** internships across **63/64** companies — last updated 2026-05-21.
+**2815** internships across **63/64** companies — last updated 2026-05-21.
 
 ## Companies
 
@@ -173,6 +173,7 @@
 - [Boston Scientific](#boston-scientific) (10)
 - [Bread Financial](#bread-financial) (2)
 - [Brevian](#brevian) (1)
+- [BrightAI](#brightai) (1)
 - [British Columbia Investment](#british-columbia-investment) (4)
 - [Brookfield](#brookfield) (1)
 - [Brown & Brown Insurance](#brown-brown-insurance) (1)
@@ -259,7 +260,6 @@
 - [CommScope](#commscope) (1)
 - [Commure](#commure) (1)
 - [Compa](#compa) (1)
-- [Comstock Companies](#comstock-companies) (1)
 - [Conagra Brands](#conagra-brands) (2)
 - [Conductor Quantum](#conductor-quantum) (1)
 - [Confluent](#confluent) (3)
@@ -538,6 +538,7 @@
 - [Intact](#intact) (10)
 - [Intapp](#intapp) (1)
 - [Integra FEC](#integra-fec) (3)
+- [Integrity](#integrity) (1)
 - [Intel](#intel) (5)
 - [Intelcom | Dragonfly](#intelcom-dragonfly) (12)
 - [Intercontinental Exchange, Inc.](#intercontinental-exchange-inc) (1)
@@ -731,7 +732,7 @@
 - [OpenAI](#openai) (2)
 - [Optiver](#optiver) (9)
 - [OpusClip](#opusclip) (2)
-- [Oracle](#oracle) (14)
+- [Oracle](#oracle) (17)
 - [OraSure Technologies](#orasure-technologies) (1)
 - [Orchids](#orchids) (1)
 - [Origami Risk](#origami-risk) (1)
@@ -784,7 +785,7 @@
 - [Preferred Risk Insurance Services](#preferred-risk-insurance-services) (2)
 - [Premier Automation](#premier-automation) (1)
 - [Premier, Inc.](#premier-inc) (1)
-- [Primetals Technologies](#primetals-technologies) (2)
+- [Primetals Technologies](#primetals-technologies) (1)
 - [Prior Labs](#prior-labs) (1)
 - [Proception AI](#proception-ai) (1)
 - [Prologis](#prologis) (2)
@@ -839,7 +840,7 @@
 - [Root Access](#root-access) (1)
 - [Royal Bank of Canada](#royal-bank-of-canada) (6)
 - [RTW Investments](#rtw-investments) (1)
-- [RTX](#rtx) (9)
+- [RTX](#rtx) (10)
 - [Rundoo](#rundoo) (1)
 - [S&P Global](#s-p-global) (1)
 - [SAIC](#saic) (1)
@@ -2360,6 +2361,12 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](https://ats.rippling.com/brevian-careers/jobs/0c7d22e5-4522-47e6-8f98-69a64c9ab484) | 60 | Sunnyvale, CA | Software | 2026-05-09 |
 
+## BrightAI
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Computer Vision Intern](https://job-boards.greenhouse.io/brightai/jobs/6002012004) | 68 | Palo Alto, CA | AI/ML/Data | 2026-05-21 |
+
 ## British Columbia Investment
 
 | Title | Score | Location | Department | First seen |
@@ -3018,12 +3025,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/compa/4fd1ad65-040c-4740-aa05-c8170b9385ee/application) | 93 | Denver, CO | Software | 2026-05-09 |
-
-## Comstock Companies
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AV Internship](https://job-boards.greenhouse.io/comstock/jobs/4115457009) | 58 | Reston, VA | Hardware | 2026-05-09 |
 
 ## Conagra Brands
 
@@ -4962,6 +4963,12 @@
 | [Data Scientist Intern - PhD](https://job-boards.greenhouse.io/integra/jobs/5134592008) | 93 | Austin, TX | AI/ML/Data | 2026-05-16 |
 | [Data Analyst Intern](https://job-boards.greenhouse.io/integrainterns/jobs/5134523008) | 68 | Austin, TX | AI/ML/Data | 2026-05-09 |
 
+## Integrity
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Marketing & Media Process Intern](https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Cary-NC/Marketing---Media-Process-Intern_JR3649) | 48 | Morrisville, NC | Software | 2026-05-21 |
+
 ## Intel
 
 | Title | Score | Location | Department | First seen |
@@ -5080,7 +5087,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Data/Ai Engineer Intern - Data & AI Team](https://jadeglobal.wd5.myworkdayjobs.com/en-US/jade_careers/job/Ogden-UT/Data-Ai-Engineer-Intern_R-103685) | 93 | Ogden, UT | AI/ML/Data | 2026-05-16 |
+| [Data/AI Engineer Intern](https://jadeglobal.wd5.myworkdayjobs.com/en-US/jade_careers/job/Ogden-UT/Data-Ai-Engineer-Intern_R-103685) | 93 | Ogden, UT | AI/ML/Data | 2026-05-21 |
 | [Integration Analyst Intern - Data & AI Team](https://jadeglobal.wd5.myworkdayjobs.com/en-US/jade_careers/job/Ogden-UT/Integration-Analyst-Intern_R-103683) | 68 | Ogden, UT | AI/ML/Data | 2026-05-16 |
 
 ## Jain Global
@@ -6487,6 +6494,9 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334325) | 85 | Seattle, WA / Santa Clara, CA | Software | 2026-05-21 |
+| [Software Engineer Intern - Ovip](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334333) | 85 | Nashville, TN / Austin, TX / United States | Software | 2026-05-21 |
+| [Product Manager Intern - Ovip](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334348) | 50 | Kansas City, MO | Product | 2026-05-21 |
 | [Advanced Degree Software Engineer Intern](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/329007) | 85 | Pleasanton, CA / San Carlos, CA / Santa Clara, CA | Software | 2026-05-09 |
 | [Advanced Degree Software Engineer Intern - Industries](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/320947) | 85 | United States | Software | 2026-05-09 |
 | [Advanced Degree Software Engineer Intern, Database Technologies](https://careers.oracle.com/en/sites/jobsearch/job/306080/?keyword=Intern&lastSelectedFacet=AttributeChar4&mode=location) | 85 | Redwood Shores, CA | — | 2026-05-09 |
@@ -6897,7 +6907,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Data Science Intern - Data Platforms](https://mhicareers.com/job/Lake-Mary-Data-Science-Internship-(Data-Platforms)-FL-32746/1395217733/?ats=successfactors) | 60 | Lake Mary, FL | AI/ML/Data | 2026-05-19 |
-| [Data Science Intern](https://mhicareers.com/job/Lake-Mary-Data-Science-Internship-FL-32746/1389658633/?ats=successfactors) | 60 | Lake Mary, FL | AI/ML/Data | 2026-05-16 |
 
 ## Prior Labs
 
@@ -7302,6 +7311,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern - Software Engineering](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WESTFORD-WFD7--7-Technology-Park-Dr--BLDG-5/XMLNAME-2026-Raytheon-Intern---Software-Engineering---Westford--MA--Onsite-_01846038) | 93 | Westford, MA | Software | 2026-05-21 |
 | [DPHM Analytics Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship-Fall-2026---DPHM-Analytics-Intern_01836458-1) | 68 | Mississauga, ON, Canada | AI/ML/Data | 2026-05-19 |
 | [Intern Operations Program Management](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-d-t-2026-Gestion-des-programmes---Internship-Summer-2026-Operations-Program-Management_01809689-1) | 68 | Longueuil, QC, Canada | AI/ML/Data | 2026-05-19 |
 | [Engine Control System Simulation Developer Intern - Engine Control System Simulation Developer](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Developpeur-de-simulation-de-systemes-de-controle-moteur---Internship---Fall-2026---Engine-Control-System-Simulation-Developer_01842886) | 93 | Longueuil, QC, Canada | Software | 2026-05-17 |
@@ -7435,7 +7445,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Technical Advisor Intern - GenAI](https://job-boards.greenhouse.io/scaleai/jobs/4611533005) | 68 | SF | AI/ML/Data | 2026-05-09 |
+| [Technical Advisor Specialist – Part-Time Intern](https://job-boards.greenhouse.io/scaleai/jobs/4611533005) | 68 | SF | AI/ML/Data | 2026-05-21 |
 | [Technical Advisor Intern, GenAI](https://scale.com/careers/4611533005) | 50 | San Francisco, CA | — | 2026-05-09 |
 | [Software Engineer - New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4605996005) | 99 | San Francisco, CA | — | 2026-05-06 |
 | [Technical Advisor Specialist (Part-Time Internship)](https://job-boards.greenhouse.io/scaleai/jobs/4611533005) | 58 | San Francisco, CA | — | 2026-05-06 |

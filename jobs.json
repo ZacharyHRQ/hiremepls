@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-21T01:33:24.639Z",
+  "generatedAt": "2026-05-21T05:52:27.471Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 2811,
+  "jobCount": 2815,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -136,7 +136,6 @@
     "canonical:7dfd740ed0053053": "2026-05-09T15:28:15.527Z",
     "canonical:1d2cdc88cb1e1e96": "2026-05-09T15:28:15.527Z",
     "canonical:505d7f7716c13793": "2026-05-09T15:28:15.527Z",
-    "canonical:5c6dd1eec8f84d92": "2026-05-09T15:28:15.527Z",
     "canonical:c3450f2cb67d51f9": "2026-05-09T15:28:15.527Z",
     "canonical:b0682e13963fcdcc": "2026-05-09T15:28:15.527Z",
     "canonical:68549af367f1b5e7": "2026-05-09T15:28:15.527Z",
@@ -540,7 +539,6 @@
     "canonical:14a44bab4d45a29f": "2026-05-09T15:28:15.527Z",
     "canonical:1ee48dc7b2c1ca77": "2026-05-09T15:28:15.527Z",
     "canonical:7635580facb3ef8b": "2026-05-09T15:28:15.527Z",
-    "canonical:747b864b94cf6838": "2026-05-09T15:28:15.527Z",
     "canonical:d94c161d45204183": "2026-05-09T15:28:15.527Z",
     "canonical:f64bc2e9a59f57b1": "2026-05-09T15:28:15.527Z",
     "canonical:c7bd53089331df83": "2026-05-09T15:28:15.527Z",
@@ -2466,7 +2464,6 @@
     "canonical:e758113e941695da": "2026-05-16T11:29:30.823Z",
     "canonical:8677f44966da23c5": "2026-05-16T11:29:30.823Z",
     "canonical:fa6150aeb04d6ed4": "2026-05-16T11:29:30.823Z",
-    "canonical:4533fe5966b42a6d": "2026-05-16T11:29:30.823Z",
     "canonical:b852770e23c6756e": "2026-05-16T11:29:30.823Z",
     "canonical:aa496e085ee2de25": "2026-05-16T14:07:37.750Z",
     "canonical:a395cfae9a1c0ddb": "2026-05-16T14:07:37.750Z",
@@ -2488,7 +2485,6 @@
     "canonical:056df130fc089383": "2026-05-16T15:13:47.475Z",
     "canonical:c9db0c5ac50ddf51": "2026-05-16T15:13:47.475Z",
     "canonical:5d4df5b7404e3656": "2026-05-16T16:09:06.490Z",
-    "canonical:bf7c38c5543e5647": "2026-05-16T16:09:06.490Z",
     "canonical:103a322744212e14": "2026-05-16T16:09:06.490Z",
     "canonical:94eeb92e0ece8636": "2026-05-16T16:09:06.490Z",
     "canonical:fcf29e8e2d7bc67c": "2026-05-16T16:09:06.490Z",
@@ -2814,7 +2810,15 @@
     "canonical:7cf1184d07e08efb": "2026-05-20T23:38:03.330Z",
     "canonical:541e4c7eca948887": "2026-05-20T23:38:03.330Z",
     "canonical:94b8f706fc1b8577": "2026-05-21T01:33:24.639Z",
-    "canonical:d01af5332851bd44": "2026-05-21T01:33:24.639Z"
+    "canonical:d01af5332851bd44": "2026-05-21T01:33:24.639Z",
+    "canonical:fa35aad369eb90c3": "2026-05-21T05:52:27.471Z",
+    "canonical:2b184a5374a96c6d": "2026-05-21T05:52:27.471Z",
+    "canonical:7f1125560f978637": "2026-05-21T05:52:27.471Z",
+    "canonical:d35985b2727191b1": "2026-05-21T05:52:27.471Z",
+    "canonical:f012e13fdaf4adcb": "2026-05-21T05:52:27.471Z",
+    "canonical:ce24e19952ce522a": "2026-05-21T05:52:27.471Z",
+    "canonical:fe4b4d1939d422db": "2026-05-21T05:52:27.471Z",
+    "canonical:383efe2591007c81": "2026-05-21T05:52:27.471Z"
   },
   "jobs": [
     {
@@ -4476,33 +4480,6 @@
       "location": "Ogden, UT",
       "department": "AI/ML/Data",
       "company": "Jade Global",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:bf7c38c5543e5647",
-      "title": "Data/Ai Engineer Intern - Data & AI Team",
-      "url": "https://jadeglobal.wd5.myworkdayjobs.com/en-US/jade_careers/job/Ogden-UT/Data-Ai-Engineer-Intern_R-103685",
-      "location": "Ogden, UT",
-      "department": "AI/ML/Data",
-      "company": "Jade Global",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:5c6dd1eec8f84d92",
-      "title": "Technical Advisor Intern - GenAI",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4611533005",
-      "location": "SF",
-      "department": "AI/ML/Data",
-      "company": "Scale AI",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -9500,6 +9477,20 @@
       ]
     },
     {
+      "id": "canonical:fa35aad369eb90c3",
+      "title": "Marketing & Media Process Intern",
+      "url": "https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Cary-NC/Marketing---Media-Process-Intern_JR3649",
+      "location": "Morrisville, NC",
+      "department": "Software",
+      "company": "Integrity",
+      "score": 48,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS",
+        "lower-fit title"
+      ]
+    },
+    {
       "id": "canonical:2a353ec98bdd7b7d",
       "title": "Summer Research Intern - Radiology - Radiology",
       "url": "https://nshs.wd1.myworkdayjobs.com/ns-eeh/job/NSO-1033-University-Place-Evanston/Summer-Research-Intern-Radiology_R14923-1",
@@ -10345,18 +10336,6 @@
       "score": 68,
       "scoreReasons": [
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:747b864b94cf6838",
-      "title": "AV Internship",
-      "url": "https://job-boards.greenhouse.io/comstock/jobs/4115457009",
-      "location": "Reston, VA",
-      "department": "Hardware",
-      "company": "Comstock Companies",
-      "score": 58,
-      "scoreReasons": [
         "direct ATS"
       ]
     },
@@ -17239,18 +17218,6 @@
       ]
     },
     {
-      "id": "canonical:4533fe5966b42a6d",
-      "title": "Data Science Intern",
-      "url": "https://mhicareers.com/job/Lake-Mary-Data-Science-Internship-FL-32746/1389658633/?ats=successfactors",
-      "location": "Lake Mary, FL",
-      "department": "AI/ML/Data",
-      "company": "Primetals Technologies",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:64929fb21caf2839",
       "title": "Product Marketing Intern",
       "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Austin/Product-Marketing-Intern_R0326496-1",
@@ -22273,6 +22240,96 @@
       "company": "MKS Instruments",
       "score": 58,
       "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:2b184a5374a96c6d",
+      "title": "Product Manager Intern - Ovip",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334348",
+      "location": "Kansas City, MO",
+      "department": "Product",
+      "company": "Oracle",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:7f1125560f978637",
+      "title": "Software Engineer Intern - Software Engineering",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WESTFORD-WFD7--7-Technology-Park-Dr--BLDG-5/XMLNAME-2026-Raytheon-Intern---Software-Engineering---Westford--MA--Onsite-_01846038",
+      "location": "Westford, MA",
+      "department": "Software",
+      "company": "RTX",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:d35985b2727191b1",
+      "title": "Software Engineer Intern",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334325",
+      "location": "Seattle, WA / Santa Clara, CA",
+      "department": "Software",
+      "company": "Oracle",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:f012e13fdaf4adcb",
+      "title": "Software Engineer Intern - Ovip",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334333",
+      "location": "Nashville, TN / Austin, TX / United States",
+      "department": "Software",
+      "company": "Oracle",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:ce24e19952ce522a",
+      "title": "Computer Vision Intern",
+      "url": "https://job-boards.greenhouse.io/brightai/jobs/6002012004",
+      "location": "Palo Alto, CA",
+      "department": "AI/ML/Data",
+      "company": "BrightAI",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:fe4b4d1939d422db",
+      "title": "Technical Advisor Specialist – Part-Time Intern",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4611533005",
+      "location": "SF",
+      "department": "AI/ML/Data",
+      "company": "Scale AI",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:383efe2591007c81",
+      "title": "Data/AI Engineer Intern",
+      "url": "https://jadeglobal.wd5.myworkdayjobs.com/en-US/jade_careers/job/Ogden-UT/Data-Ai-Engineer-Intern_R-103685",
+      "location": "Ogden, UT",
+      "department": "AI/ML/Data",
+      "company": "Jade Global",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
         "direct ATS"
       ]
     },
