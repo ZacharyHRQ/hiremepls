@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-21T21:17:06.675Z",
+  "generatedAt": "2026-05-21T22:46:51.402Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 2788,
+  "jobCount": 2785,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -106,7 +106,6 @@
     "canonical:33ade6dc1d1ca13d": "2026-05-06T06:42:07.596Z",
     "canonical:deb587984bd45311": "2026-05-06T06:42:07.596Z",
     "canonical:864b184043940577": "2026-05-06T06:42:07.596Z",
-    "canonical:9952516595607d15": "2026-05-06T06:42:07.596Z",
     "canonical:95a71a6031acbd00": "2026-05-06T06:42:07.596Z",
     "canonical:accc7acdf5c4229f": "2026-05-06T06:42:07.596Z",
     "canonical:d14a513f8325af8e": "2026-05-06T06:42:07.596Z",
@@ -629,7 +628,6 @@
     "canonical:78dd262289856c22": "2026-05-09T15:28:15.527Z",
     "canonical:c023167c5909ccb2": "2026-05-15T10:04:41.511Z",
     "canonical:42119064f7930f17": "2026-05-09T15:28:15.527Z",
-    "canonical:6a4f194003ec64b1": "2026-05-09T15:28:15.527Z",
     "canonical:6a8d855111aa93f9": "2026-05-09T15:28:15.527Z",
     "canonical:491ade8f5ec863c3": "2026-05-09T15:28:15.527Z",
     "canonical:cccfd6bd46e10dd8": "2026-05-09T15:28:15.527Z",
@@ -1100,7 +1098,6 @@
     "canonical:e841f5f6b4388c39": "2026-05-14T01:31:29.727Z",
     "canonical:a96951a04d6cdd48": "2026-05-14T05:32:10.854Z",
     "canonical:4d80d3c0fa984737": "2026-05-14T05:32:10.854Z",
-    "canonical:73b7a17d0c6ff2bb": "2026-05-14T05:32:10.854Z",
     "canonical:26746368bceccb11": "2026-05-14T05:32:10.854Z",
     "canonical:667f2b3a88e2c544": "2026-05-14T05:32:10.854Z",
     "canonical:7ce0785fcb8bdda5": "2026-05-14T05:32:10.854Z",
@@ -1150,7 +1147,6 @@
     "canonical:f37bc45fd732af97": "2026-05-15T23:35:38.383Z",
     "canonical:8650e310d098d280": "2026-05-15T23:35:38.383Z",
     "canonical:fb076f3b186b4a11": "2026-05-16T01:23:11.435Z",
-    "canonical:0e6a7b5039052add": "2026-05-16T01:23:11.435Z",
     "canonical:4b62439cb6d583d0": "2026-05-16T04:46:03.679Z",
     "canonical:ede981cf4aef3284": "2026-05-16T04:46:03.679Z",
     "canonical:47a58dc4b6e43e69": "2026-05-16T04:46:03.679Z",
@@ -2791,7 +2787,8 @@
     "canonical:019da6ccfe10383d": "2026-05-21T17:50:03.808Z",
     "canonical:f9c7ac6c265a11ee": "2026-05-21T19:42:37.378Z",
     "canonical:502ea6feeed8d163": "2026-05-21T21:17:06.675Z",
-    "canonical:228a0f9fec464463": "2026-05-21T21:17:06.675Z"
+    "canonical:228a0f9fec464463": "2026-05-21T21:17:06.675Z",
+    "canonical:c2e243ddc795c511": "2026-05-21T22:46:51.402Z"
   },
   "jobs": [
     {
@@ -4142,18 +4139,6 @@
       ]
     },
     {
-      "id": "canonical:9952516595607d15",
-      "title": "Revenue Operations Intern - Enablement (AI Innovation) (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7761397?gh_jid=7761397",
-      "location": "In-Office",
-      "department": "",
-      "company": "Cloudflare",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:95a71a6031acbd00",
       "title": "Sales Project Manager Intern (AI Innovation) (Summer 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7773799?gh_jid=7773799",
@@ -4233,7 +4218,7 @@
     {
       "id": "canonical:31dd1ab15c427f1e",
       "title": "Technical Support Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726977?gh_jid=7726977",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -11774,19 +11759,6 @@
       "location": "El Segundo, CA",
       "department": "Software",
       "company": "Varda Space",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:6a4f194003ec64b1",
-      "title": "Operations Intern-Data Analytics",
-      "url": "https://transperfect.wd5.myworkdayjobs.com/transperfect/job/US-New-York-NY-1250-Broadway/Operations-Intern--Data-Analytics_R2025-243516",
-      "location": "NYC",
-      "department": "AI/ML/Data",
-      "company": "TransPerfect",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -19556,20 +19528,6 @@
       ]
     },
     {
-      "id": "canonical:73b7a17d0c6ff2bb",
-      "title": "Product Engineer Intern",
-      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Product-Engineer-Intern_R54702",
-      "location": "Austin, TX",
-      "department": "Software",
-      "company": "Cadence Design Systems",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:bcfac63abe662b1c",
       "title": "Data Science Intern",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7914511",
@@ -20415,18 +20373,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:0e6a7b5039052add",
-      "title": "Agentic AI Software Development Intern",
-      "url": "https://jobs.jobvite.com/nutanix/job/oOO8zfw3?nl=1&nl=1&fr=false",
-      "location": "San Jose, CA",
-      "department": "Software",
-      "company": "Nutanix",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {
@@ -21962,6 +21908,18 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c2e243ddc795c511",
+      "title": "Autonomous Driving Applications Research Intern",
+      "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Autonomous-Driving-Applications-Research-Intern_R00209383",
+      "location": "Santa Clara, CA",
+      "department": "Hardware",
+      "company": "Nissan Global",
+      "score": 58,
+      "scoreReasons": [
         "direct ATS"
       ]
     },

@@ -1,6 +1,6 @@
 # Open Internships
 
-**2788** internships across **63/64** companies — last updated 2026-05-21.
+**2785** internships across **63/64** companies — last updated 2026-05-21.
 
 ## Companies
 
@@ -182,7 +182,7 @@
 - [Cable One](#cable-one) (1)
 - [CACI](#caci) (3)
 - [Cadence](#cadence) (3)
-- [Cadence Design Systems](#cadence-design-systems) (3)
+- [Cadence Design Systems](#cadence-design-systems) (2)
 - [Cadent](#cadent) (1)
 - [CAE](#cae) (3)
 - [Calico](#calico) (1)
@@ -241,7 +241,7 @@
 - [Clarivate](#clarivate) (1)
 - [Clerkie](#clerkie) (1)
 - [Clever](#clever) (1)
-- [Cloudflare](#cloudflare) (36)
+- [Cloudflare](#cloudflare) (35)
 - [Cloudforce](#cloudforce) (2)
 - [Cloudglue - YC](#cloudglue-yc) (1)
 - [CME Group](#cme-group) (1)
@@ -696,6 +696,7 @@
 - [Nintendo](#nintendo) (2)
 - [Nintendo of America](#nintendo-of-america) (1)
 - [Nio](#nio) (2)
+- [Nissan Global](#nissan-global) (1)
 - [Nixo](#nixo) (1)
 - [Nokia](#nokia) (23)
 - [NorthMark Strategies](#northmark-strategies) (1)
@@ -708,7 +709,6 @@
 - [Nuclear Promise X](#nuclear-promise-x) (1)
 - [NuHarbor Security](#nuharbor-security) (1)
 - [Nuro](#nuro) (2)
-- [Nutanix](#nutanix) (1)
 - [nVent](#nvent) (1)
 - [NVIDIA](#nvidia) (29)
 - [OCC](#occ) (1)
@@ -1010,7 +1010,7 @@
 - [Trane Technologies](#trane-technologies) (7)
 - [Transcard](#transcard) (1)
 - [TransMarket Group](#transmarket-group) (3)
-- [TransPerfect](#transperfect) (2)
+- [TransPerfect](#transperfect) (1)
 - [Trata](#trata) (1)
 - [Trimble](#trimble) (4)
 - [TripleRing](#triplering) (1)
@@ -2439,7 +2439,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/PITTSBURGH-03/Software-Engineering-Intern_R52334-2) | 68 | Pittsburgh, PA | AI/ML/Data | 2026-05-17 |
-| [Product Engineer Intern](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Product-Engineer-Intern_R54702) | 93 | Austin, TX | Software | 2026-05-14 |
 | [Software Intern](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R52814-1) | 68 | San Jose, CA | Software | 2026-05-09 |
 
 ## Cadent
@@ -2873,8 +2872,7 @@
 | [People Team Business Partner intern (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7855864?gh_jid=7855864) | 58 | In-Office | — | 2026-05-06 |
 | [Product Manager Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7362113?gh_jid=7362113) | 58 | In-Office | — | 2026-05-06 |
 | [Public Policy Intern, APJC (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7863831?gh_jid=7863831) | 58 | In-Office | — | 2026-05-06 |
-| [Revenue Operations Intern - Enablement (AI Innovation) (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7761397?gh_jid=7761397) | 58 | In-Office | — | 2026-05-06 |
-| [Technical Support Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879) | 58 | In-Office | — | 2026-05-06 |
+| [Technical Support Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7726977?gh_jid=7726977) | 58 | In-Office | — | 2026-05-06 |
 | [Threat Detection and Incident Response Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7577205?gh_jid=7577205) | 58 | In-Office | — | 2026-05-06 |
 | [Business Analyst Intern, Marketing (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7729700?gh_jid=7729700) | 38 | In-Office | — | 2026-05-06 |
 | [Developer GTM Intern – Enterprise Sales & AI Automation (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7789256?gh_jid=7789256) | 38 | In-Office | — | 2026-05-06 |
@@ -6173,6 +6171,12 @@
 | [LLM Algorithmic Optimization Engineer – Intern](https://nio.wd3.myworkdayjobs.com/NIO_Careers/job/San-Jose-US/LLM-Algorithmic-Optimization-Engineer---Intern_R-000119) | 93 | San Jose, CA | AI/ML/Data | 2026-05-16 |
 | [Systems Verification & Concurrent Kernel Architecture Research Intern](https://nio.wd3.myworkdayjobs.com/NIO_Careers/job/San-Jose-US/Systems-Verification---Concurrent-Kernel-Architecture-Research-Intern_R-000139) | 68 | San Jose, CA | Software | 2026-05-09 |
 
+## Nissan Global
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Autonomous Driving Applications Research Intern](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Autonomous-Driving-Applications-Research-Intern_R00209383) | 58 | Santa Clara, CA | Hardware | 2026-05-21 |
+
 ## Nixo
 
 | Title | Score | Location | Department | First seen |
@@ -6276,12 +6280,6 @@
 | --- | --- | --- | --- | --- |
 | [Vehicle Reliability Intern](https://nuro.ai/careersitem?gh_jid=7673849) | 50 | San Jose, CA / Mountain View, CA | Hardware | 2026-05-19 |
 | [Software Engineer, AI Platform - Intern](https://www.nuro.ai/careersitem?gh_jid=7351061) | 85 | Mountain View, CA | Software Engineering | 2026-05-09 |
-
-## Nutanix
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Agentic AI Software Development Intern](https://jobs.jobvite.com/nutanix/job/oOO8zfw3?nl=1&nl=1&fr=false) | 60 | San Jose, CA | Software | 2026-05-16 |
 
 ## nVent
 
@@ -8740,7 +8738,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://transperfect.wd5.myworkdayjobs.com/transperfect/job/US-New-York-NY-1250-Broadway/Software-Engineer-Intern_R2025-243900) | 93 | NYC | Software | 2026-05-17 |
-| [Operations Intern-Data Analytics](https://transperfect.wd5.myworkdayjobs.com/transperfect/job/US-New-York-NY-1250-Broadway/Operations-Intern--Data-Analytics_R2025-243516) | 68 | NYC | AI/ML/Data | 2026-05-09 |
 
 ## Trata
 
