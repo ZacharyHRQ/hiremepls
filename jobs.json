@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-22T21:57:59.650Z",
+  "generatedAt": "2026-05-22T22:57:08.943Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1694,
+  "jobCount": 1699,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -235,7 +235,6 @@
     "canonical:d7a434e4eed2389d": "2026-05-09T15:28:15.527Z",
     "canonical:0d9c1f3a3e19a1e9": "2026-05-09T15:28:15.527Z",
     "canonical:4b8e31934579d1d5": "2026-05-09T15:28:15.527Z",
-    "canonical:654dd86a700f6a39": "2026-05-09T15:28:15.527Z",
     "canonical:784e76513f221fdf": "2026-05-09T15:28:15.527Z",
     "canonical:b3072e61edb71e14": "2026-05-09T15:28:15.527Z",
     "canonical:581aabaa7e110562": "2026-05-09T15:28:15.527Z",
@@ -1364,7 +1363,6 @@
     "canonical:1a36c38a48406fc0": "2026-05-16T20:09:24.477Z",
     "canonical:d513e013272b6d3b": "2026-05-16T20:09:24.477Z",
     "canonical:2ec0ee7304849599": "2026-05-16T20:09:24.477Z",
-    "canonical:afc7dcc8b816979d": "2026-05-16T21:02:08.432Z",
     "canonical:fb4acca2a68100c8": "2026-05-16T21:02:08.432Z",
     "canonical:1e03135dcf302608": "2026-05-16T21:02:08.432Z",
     "canonical:9d328cdee1ce1cfc": "2026-05-16T21:02:08.432Z",
@@ -1515,7 +1513,6 @@
     "canonical:46f7a31ad3598b53": "2026-05-18T22:37:01.035Z",
     "canonical:4a6fed09dbc1d207": "2026-05-18T22:37:01.035Z",
     "canonical:5271d68c3008b629": "2026-05-18T22:37:01.035Z",
-    "canonical:cb9f764aa38bff1c": "2026-05-18T23:42:49.827Z",
     "canonical:117f07893ccc9f34": "2026-05-18T23:42:49.827Z",
     "canonical:a0aed2238ac9ed12": "2026-05-18T23:42:49.827Z",
     "canonical:a002fe8b0408c4d9": "2026-05-18T23:42:49.827Z",
@@ -1697,7 +1694,15 @@
     "canonical:f1921e15d93ce4e9": "2026-05-22T21:57:59.650Z",
     "canonical:fcf4240f182cab95": "2026-05-22T21:57:59.650Z",
     "canonical:8f9f2d02d5a40f7b": "2026-05-22T21:57:59.650Z",
-    "canonical:44799d94b24795f4": "2026-05-22T21:57:59.650Z"
+    "canonical:44799d94b24795f4": "2026-05-22T21:57:59.650Z",
+    "canonical:1125ca7ecf156349": "2026-05-22T22:57:08.943Z",
+    "canonical:7dee87124373df05": "2026-05-22T22:57:08.943Z",
+    "canonical:83a8d669d9d33536": "2026-05-22T22:57:08.943Z",
+    "canonical:2031e4e9473b2185": "2026-05-22T22:57:08.943Z",
+    "canonical:c989ff56fcf2c167": "2026-05-22T22:57:08.943Z",
+    "canonical:23aa0ae99f4d1879": "2026-05-22T22:57:08.943Z",
+    "canonical:5faa1c9528f64532": "2026-05-22T22:57:08.943Z",
+    "canonical:1ed5a7059fed0450": "2026-05-22T22:57:08.943Z"
   },
   "jobs": [
     {
@@ -2573,10 +2578,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2586,10 +2591,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -3302,18 +3307,6 @@
       "company": "Cribl",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:afc7dcc8b816979d",
-      "title": "MBA Intern - Product Management",
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2026-MBA-Intern---Product-Manager_R160316",
-      "location": "SF / San Jose, CA",
-      "department": "Product",
-      "company": "Adobe",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
     },
     {
       "id": "canonical:c3450f2cb67d51f9",
@@ -4706,18 +4699,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:654dd86a700f6a39",
-      "title": "Hardware Reliability Intern - Winter 2026",
-      "url": "https://job-boards.greenhouse.io/figureai/jobs/4613067006",
-      "location": "San Jose, CA",
-      "department": "Hardware",
-      "company": "Figure",
-      "score": 58,
-      "scoreReasons": [
         "direct ATS"
       ]
     },
@@ -6366,18 +6347,6 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:cb9f764aa38bff1c",
-      "title": "Software Engineering Intern - Summer 2026",
-      "url": "https://www.asm.com/open-vacancies/?gh_jid=4742602101",
-      "location": "Phoenix, AZ",
-      "department": "Software",
-      "company": "ASM International",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {
@@ -20862,6 +20831,109 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1125ca7ecf156349",
+      "title": "Machine Learning Intern - AQ",
+      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7954074",
+      "location": "Mountain View, CA",
+      "department": "AI/ML/Data",
+      "company": "Coupang",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:7dee87124373df05",
+      "title": "Product Engineering Intern - Simulation and Verification",
+      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/Burlington-MA/Product-Engineering-Internship--Simulation-and-Verification--Summer-2026-_R53475",
+      "location": "Burlington, MA",
+      "department": "Hardware",
+      "company": "Cadence Design Systems",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:83a8d669d9d33536",
+      "title": "Data Science/AI/ML Engineering Intern",
+      "url": "https://careers-qinetiqus.icims.com/jobs/12138/job?mobile=true&needsRedirect=false",
+      "location": "Fort Belvoir, VA",
+      "department": "AI/ML/Data",
+      "company": "QinetiQ",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:2031e4e9473b2185",
+      "title": "Scenario Simulation Intern",
+      "url": "https://jobs.lever.co/plus-2/b4f750e7-0148-41f0-b2b1-ff054450a320/apply",
+      "location": "Santa Clara, CA",
+      "department": "AI/ML/Data",
+      "company": "PlusAI",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c989ff56fcf2c167",
+      "title": "Software Engineer Intern-Runtime - Robotics",
+      "url": "https://jobs.lever.co/plus-2/a3bcdba6-b0d0-46ba-9af3-a387926a6fb4/apply",
+      "location": "Santa Clara, CA",
+      "department": "Hardware",
+      "company": "PlusAI",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:23aa0ae99f4d1879",
+      "title": "Software Engineer in Test Intern",
+      "url": "https://ideas-sas.icims.com/jobs/40116/job?mobile=true&needsRedirect=false",
+      "location": "Bloomington, MN",
+      "department": "Software",
+      "company": "IDeaS",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:5faa1c9528f64532",
+      "title": "K12 Zone Engineer Intern",
+      "url": "https://strideinc.wd1.myworkdayjobs.com/en-US/SK/job/US-Nationwide---Remote/K12-Zone-Engineering-Intern_JR114632-1",
+      "location": "Remote in USA",
+      "department": "Software",
+      "company": "Stride",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1ed5a7059fed0450",
+      "title": "Data Analytics Intern",
+      "url": "https://jobs.lever.co/evrealty-us/0274f48f-9b19-4bed-bf6a-5e02a2b1e865/apply",
+      "location": "Salt Lake City, UT / SF",
+      "department": "AI/ML/Data",
+      "company": "EV Realty",
+      "score": 68,
+      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]

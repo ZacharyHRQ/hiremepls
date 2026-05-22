@@ -1,6 +1,6 @@
 # Open Internships
 
-**1694** internships across **63/64** companies — last updated 2026-05-22.
+**1699** internships across **63/64** companies — last updated 2026-05-22.
 
 ## Companies
 
@@ -13,7 +13,7 @@
 - [Accuray](#accuray) (1)
 - [AccuWeather](#accuweather) (1)
 - [ACI Worldwide ](#aci-worldwide) (3)
-- [Adobe](#adobe) (4)
+- [Adobe](#adobe) (3)
 - [Adtheorant](#adtheorant) (1)
 - [Advanced Energy](#advanced-energy) (1)
 - [Advantmed](#advantmed) (1)
@@ -56,7 +56,6 @@
 - [Asana](#asana) (2)
 - [Ascend Performance Materials ](#ascend-performance-materials) (1)
 - [ASM Global](#asm-global) (3)
-- [ASM International](#asm-international) (1)
 - [ASML](#asml) (2)
 - [AspenTech](#aspentech) (4)
 - [ASSA ABLOY](#assa-abloy) (2)
@@ -115,7 +114,7 @@
 - [Cable One](#cable-one) (1)
 - [CACI](#caci) (2)
 - [Cadence](#cadence) (2)
-- [Cadence Design Systems](#cadence-design-systems) (2)
+- [Cadence Design Systems](#cadence-design-systems) (3)
 - [Cadent](#cadent) (1)
 - [CAE](#cae) (3)
 - [Cambridge Mobile Telematics](#cambridge-mobile-telematics) (1)
@@ -167,7 +166,7 @@
 - [Corning](#corning) (1)
 - [CoStar Group](#costar-group) (1)
 - [Cotiviti](#cotiviti) (3)
-- [Coupang](#coupang) (1)
+- [Coupang](#coupang) (2)
 - [Covestro](#covestro) (1)
 - [Crane Co.](#crane-co) (2)
 - [Creatify Lab ](#creatify-lab) (1)
@@ -234,6 +233,7 @@
 - [ETHGlobal](#ethglobal) (1)
 - [Eulerity](#eulerity) (4)
 - [Eurofins](#eurofins) (3)
+- [EV Realty](#ev-realty) (1)
 - [Everlaw](#everlaw) (1)
 - [EXL](#exl) (2)
 - [Expedia Group](#expedia-group) (2)
@@ -246,7 +246,7 @@
 - [Federal Home Loan Bank of Indianapolis](#federal-home-loan-bank-of-indianapolis) (1)
 - [Fenwick & West](#fenwick-west) (1)
 - [Ferrovial](#ferrovial) (1)
-- [Figure](#figure) (3)
+- [Figure](#figure) (2)
 - [First Quality](#first-quality) (1)
 - [Fiserv](#fiserv) (3)
 - [Five Rings](#five-rings) (1)
@@ -318,6 +318,7 @@
 - [HRL Laboratories](#hrl-laboratories) (1)
 - [Hunt Oil Company](#hunt-oil-company) (3)
 - [ICF](#icf) (1)
+- [IDeaS](#ideas) (1)
 - [IEM](#iem) (2)
 - [iHeartMedia](#iheartmedia) (1)
 - [Illumio](#illumio) (2)
@@ -480,7 +481,7 @@
 - [Pine Rest](#pine-rest) (1)
 - [Pinterest](#pinterest) (7)
 - [Planet](#planet) (1)
-- [PlusAI](#plusai) (5)
+- [PlusAI](#plusai) (7)
 - [Podium](#podium) (2)
 - [Point72](#point72) (24)
 - [Poshmark](#poshmark) (1)
@@ -490,6 +491,7 @@
 - [Prior Labs](#prior-labs) (1)
 - [Prologis](#prologis) (1)
 - [PSA Airlines](#psa-airlines) (1)
+- [QinetiQ](#qinetiq) (1)
 - [Quadric](#quadric) (3)
 - [Rackner](#rackner) (1)
 - [Radiance Technologies](#radiance-technologies) (1)
@@ -575,7 +577,7 @@
 - [State Street](#state-street) (1)
 - [Stevens Capital Management](#stevens-capital-management) (1)
 - [Stevens Institute of Technology](#stevens-institute-of-technology) (1)
-- [Stride](#stride) (2)
+- [Stride](#stride) (3)
 - [Stripe](#stripe) (10)
 - [Sundt](#sundt) (1)
 - [Super](#super) (7)
@@ -749,7 +751,6 @@
 | --- | --- | --- | --- | --- |
 | [Machine Learning Engineer Intern - AI/ML](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706) | 93 | Seattle, WA / SF / San Jose, CA | AI/ML/Data | 2026-05-17 |
 | [Research Scientist/Engineer Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Research-Scientist-Engineer_R160317) | 93 | Seattle, WA / Toronto, ON, Canada / SF / Lafayette, KS / San Jose, CA / Hyattsville, MD / NYC | AI/ML/Data | 2026-05-17 |
-| [MBA Intern - Product Management](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2026-MBA-Intern---Product-Manager_R160316) | 58 | SF / San Jose, CA | Product | 2026-05-16 |
 | [AI/ML Intern - Machine Learning Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer_R158493) | 93 | Seattle, WA / SF / Austin, TX / San Jose, CA / Waltham, MA / NYC / Lehi, UT | AI/ML/Data | 2026-05-16 |
 
 ## Adtheorant
@@ -1056,12 +1057,6 @@
 | [Summer Associate - Enterprise AI & Insights - 8 Week Program](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Remote-USA/Summer-Associate--Enterprise-AI---Insights--8-10-Week-Program-_R100119581) | 68 | Remote in USA | AI/ML/Data | 2026-05-19 |
 | [Automation & AI Technology Experience Intern](https://asmglobal.wd1.myworkdayjobs.com/careers/job/West-Conshohocken-PA/Automation---AI-Technology-Experience-Intern_R100122152) | 68 | Frisco, TX / Conshohocken, PA | AI/ML/Data | 2026-05-17 |
 | [Hospitality and Merchandise Insights Intern](https://asmglobal.wd1.myworkdayjobs.com/careers/job/New-York-NY/Hospitality-and-Merchandise-Insights-Intern_R100120704) | 68 | NYC | AI/ML/Data | 2026-05-09 |
-
-## ASM International
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineering Intern - Summer 2026](https://www.asm.com/open-vacancies/?gh_jid=4742602101) | 60 | Phoenix, AZ | Software | 2026-05-18 |
 
 ## ASML
 
@@ -1494,6 +1489,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Product Engineering Intern - Simulation and Verification](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/Burlington-MA/Product-Engineering-Internship--Simulation-and-Verification--Summer-2026-_R53475) | 58 | Burlington, MA | Hardware | 2026-05-22 |
 | [Software Engineering Intern](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/PITTSBURGH-03/Software-Engineering-Intern_R52334-2) | 68 | Pittsburgh, PA | AI/ML/Data | 2026-05-17 |
 | [Software Intern](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R52814-1) | 68 | San Jose, CA | Software | 2026-05-09 |
 
@@ -1881,6 +1877,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Machine Learning Intern - AQ](https://www.coupang.jobs/en/jobs/?gh_jid=7954074) | 60 | Mountain View, CA | AI/ML/Data | 2026-05-22 |
 | [Machine Learning Intern](https://www.coupang.jobs/en/jobs/?gh_jid=7944326) | 60 | Mountain View, CA | AI/ML/Data | 2026-05-22 |
 
 ## Covestro
@@ -2322,6 +2319,12 @@
 | [Engineering Intern - Test Engineer](https://jobs.smartrecruiters.com/Eurofins/744000102591529) | 58 | Santa Clara, CA | Hardware | 2026-05-09 |
 | [Intern](https://jobs.smartrecruiters.com/Eurofins/744000102593098) | 58 | Hayward, CA | Hardware | 2026-05-09 |
 
+## EV Realty
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data Analytics Intern](https://jobs.lever.co/evrealty-us/0274f48f-9b19-4bed-bf6a-5e02a2b1e865/apply) | 68 | Salt Lake City, UT / SF | AI/ML/Data | 2026-05-22 |
+
 ## Everlaw
 
 | Title | Score | Location | Department | First seen |
@@ -2405,7 +2408,6 @@
 | --- | --- | --- | --- | --- |
 | [Embedded Software Intern](https://job-boards.greenhouse.io/figureai/jobs/4397706006) | 68 | San Jose, CA | Hardware | 2026-05-09 |
 | [Electrical Interconnect Engineering Intern](https://job-boards.greenhouse.io/figureai/jobs/4676468006) | 58 | San Jose, CA | Hardware | 2026-05-09 |
-| [Hardware Reliability Intern - Winter 2026](https://job-boards.greenhouse.io/figureai/jobs/4613067006) | 58 | San Jose, CA | Hardware | 2026-05-09 |
 
 ## First Quality
 
@@ -2893,6 +2895,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Appian Developer Intern](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Nationwide-Remote-Office-US99/XMLNAME-2026-Summer-Intern--Appian-Developer_R2601122) | 58 | Remote | — | 2026-05-09 |
+
+## IDeaS
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer in Test Intern](https://ideas-sas.icims.com/jobs/40116/job?mobile=true&needsRedirect=false) | 85 | Bloomington, MN | Software | 2026-05-22 |
 
 ## IEM
 
@@ -4145,6 +4153,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern-Runtime - Robotics](https://jobs.lever.co/plus-2/a3bcdba6-b0d0-46ba-9af3-a387926a6fb4/apply) | 93 | Santa Clara, CA | Hardware | 2026-05-22 |
+| [Scenario Simulation Intern](https://jobs.lever.co/plus-2/b4f750e7-0148-41f0-b2b1-ff054450a320/apply) | 68 | Santa Clara, CA | AI/ML/Data | 2026-05-22 |
 | [Machine Learning Engineer Intern](https://jobs.lever.co/plus-2/b69c9b6d-483f-41d4-b487-97c99332ca40/apply) | 93 | Santa Clara, CA | AI/ML/Data | 2026-05-19 |
 | [Simulation Engineer Intern](https://jobs.lever.co/plus-2/a58986e8-c9a0-4ca3-a8f1-6abec1e88464/apply) | 93 | Santa Clara, CA | Software | 2026-05-19 |
 | [Software Engineer Intern - Data](https://jobs.lever.co/plus-2/012a2134-8a6a-4982-8f25-f906178a24e4/apply) | 93 | Santa Clara, CA | Software | 2026-05-19 |
@@ -4229,6 +4239,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Engineering Intern](https://careers-psaairlines.icims.com/jobs/6531/job?mobile=true&needsRedirect=false) | 60 | Charlotte, NC | AI/ML/Data | 2026-05-09 |
+
+## QinetiQ
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data Science/AI/ML Engineering Intern](https://careers-qinetiqus.icims.com/jobs/12138/job?mobile=true&needsRedirect=false) | 60 | Fort Belvoir, VA | AI/ML/Data | 2026-05-22 |
 
 ## Quadric
 
@@ -4850,6 +4866,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [K12 Zone Engineer Intern](https://strideinc.wd1.myworkdayjobs.com/en-US/SK/job/US-Nationwide---Remote/K12-Zone-Engineering-Intern_JR114632-1) | 93 | Remote in USA | Software | 2026-05-22 |
 | [Community Analytics Intern](https://strideinc.wd1.myworkdayjobs.com/en-US/SK/job/US---VA---Remote/Community-Analytics-Intern_JR114622) | 68 | Virginia | AI/ML/Data | 2026-05-18 |
 | [Media Ops & Analytics Intern](https://strideinc.wd1.myworkdayjobs.com/en-US/SK/job/US-Nationwide---Remote/Media-Ops---Analytics-Intern_JR114198) | 68 | Remote in USA | AI/ML/Data | 2026-05-16 |
 
@@ -4860,8 +4877,8 @@
 | [PhD Data Scientist Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | Seattle, WA / SF / Chicago, IL / NYC | AI/ML/Data | 2026-05-09 |
 | [PhD Data Scientist Intern - Data Science](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
 | [PhD Machine Learning Engineer Intern](https://stripe.com/jobs/search?gh_jid=7216664) | 85 | Seattle, WA / SF / NYC | AI/ML/Data | 2026-05-09 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7216664) | 85 | San Francisco, New York City, Seattle | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
