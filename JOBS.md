@@ -1,6 +1,6 @@
 # Open Internships
 
-**2801** internships across **63/64** companies — last updated 2026-05-22.
+**2802** internships across **63/64** companies — last updated 2026-05-22.
 
 ## Companies
 
@@ -227,7 +227,7 @@
 - [Ciena](#ciena) (4)
 - [Circleback](#circleback) (1)
 - [Cirrus Logic](#cirrus-logic) (4)
-- [Cisco](#cisco) (6)
+- [Cisco](#cisco) (4)
 - [Cisive](#cisive) (2)
 - [Citadel](#citadel) (6)
 - [Citadel Securities](#citadel-securities) (10)
@@ -264,7 +264,7 @@
 - [Context](#context) (1)
 - [Cook Group](#cook-group) (4)
 - [Cooper University Health Care](#cooper-university-health-care) (1)
-- [Copart](#copart) (4)
+- [Copart](#copart) (5)
 - [Copeland](#copeland) (1)
 - [Corgi](#corgi) (1)
 - [Corning](#corning) (1)
@@ -407,7 +407,7 @@
 - [Fintech](#fintech) (1)
 - [Firefly Aerospace](#firefly-aerospace) (1)
 - [First Quality](#first-quality) (1)
-- [Fiserv](#fiserv) (3)
+- [Fiserv](#fiserv) (4)
 - [Five Rings](#five-rings) (3)
 - [Five9](#five9) (1)
 - [Fizz](#fizz) (2)
@@ -533,7 +533,7 @@
 - [Intact](#intact) (9)
 - [Integra FEC](#integra-fec) (3)
 - [Integrity](#integrity) (1)
-- [Intel](#intel) (4)
+- [Intel](#intel) (5)
 - [Intelcom | Dragonfly](#intelcom-dragonfly) (11)
 - [Intercontinental Exchange, Inc.](#intercontinental-exchange-inc) (1)
 - [Interdigital](#interdigital) (2)
@@ -619,7 +619,7 @@
 - [Mackenzie Investments](#mackenzie-investments) (1)
 - [Macy's](#macy-s) (2)
 - [Maersk](#maersk) (1)
-- [Magna](#magna) (5)
+- [Magna](#magna) (6)
 - [Maher Duessel](#maher-duessel) (1)
 - [MaloneBailey, LLP](#malonebailey-llp) (1)
 - [Man Group](#man-group) (5)
@@ -637,6 +637,7 @@
 - [McDonald's](#mcdonald-s) (1)
 - [MCG Health](#mcg-health) (1)
 - [McNeilus](#mcneilus) (1)
+- [Mechanize](#mechanize) (1)
 - [Medical Informatics Engineering](#medical-informatics-engineering) (1)
 - [Medpace, Inc.](#medpace-inc) (6)
 - [Melotech](#melotech) (3)
@@ -821,7 +822,7 @@
 - [Rippling](#rippling) (5)
 - [Rivian](#rivian) (3)
 - [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (3)
-- [Robert Bosch Venture Capital](#robert-bosch-venture-capital) (13)
+- [Robert Bosch Venture Capital](#robert-bosch-venture-capital) (12)
 - [Robinhood](#robinhood) (3)
 - [Roblox](#roblox) (4)
 - [Rocket](#rocket) (1)
@@ -1030,6 +1031,7 @@
 - [Uber](#uber) (2)
 - [Uline](#uline) (4)
 - [Ultra](#ultra) (1)
+- [Ultra Intelligence and Communications](#ultra-intelligence-and-communications) (1)
 - [Uncountable](#uncountable) (2)
 - [Under Armour](#under-armour) (1)
 - [United Launch Alliance](#united-launch-alliance) (1)
@@ -1050,7 +1052,7 @@
 - [Veolia](#veolia) (1)
 - [Vera Institute of Justice](#vera-institute-of-justice) (1)
 - [Vercel](#vercel) (1)
-- [Verisk](#verisk) (3)
+- [Verisk](#verisk) (1)
 - [Veritiv Corporation](#veritiv-corporation) (1)
 - [Verkada](#verkada) (7)
 - [Vertiv](#vertiv) (4)
@@ -2745,9 +2747,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer 1 Intern](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-I--Intern----United-States_2007170) | 93 | San Jose, CA / Durham, NC | Software | 2026-05-19 |
 | [Customer Experience Product Management Specialist 1 Intern](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Customer-Experience-Product-Management-Specialist-I--Intern----United-States_2008430) | 58 | San Jose, CA / Research Triangle, Durham, NC / Richardson, TX | Product | 2026-05-19 |
-| [Software Engineer 1 - Intern](https://careers.cisco.com/global/en/job/2007170) | 85 | San Jose, CA | Software | 2026-05-18 |
 | [Security Consulting Engineer Intern](https://jobs.cisco.com/jobs/ProjectDetail/Security-Consulting-Engineer-I-Intern-United-States/) | 85 | Research Triangle Park, NC | — | 2026-05-09 |
 | [Consulting Engineer Intern](https://jobs.cisco.com/jobs/ProjectDetail/Consulting-Engineer-I-Intern-United-States/1448044) | 50 | Research Triangle Park, NC | — | 2026-05-09 |
 | [Product Management Specialist 1 Intern](https://jobs.cisco.com/jobs/ProjectDetail/Product-Management-Specialist-I-Intern-United-States/1448055) | 50 | San Jose, CA | — | 2026-05-09 |
@@ -3049,6 +3049,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109089) | 93 | Dallas, TX | Software | 2026-05-22 |
 | [Yard Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Yard-Engineering-Intern_JR108552) | 93 | Dallas, TX | Software | 2026-05-16 |
 | [Software Engineering Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR106129) | 68 | Dallas, TX | Software | 2026-05-16 |
 | [Technology Product Analyst Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107890) | 58 | Dallas, TX | Product | 2026-05-16 |
@@ -4014,6 +4015,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Technology Intern](https://fiserv.wd5.myworkdayjobs.com/ext/job/Mississauga---Skymark-Canada/Technology---Summer-Intern_R-10395076) | 68 | Mississauga, ON, Canada | Software | 2026-05-22 |
 | [Data Engineer Intern](https://fiserv.wd5.myworkdayjobs.com/EXT/job/Alpharetta-Georgia/Summer-Intern---Data-Engineer_R-10393654) | 93 | Alpharetta, GA | — | 2026-05-09 |
 | [Application Development Intern](https://fiserv.wd5.myworkdayjobs.com/EXT/job/Alpharetta-Georgia/Technology---Summer-Intern_R-10388735) | 58 | Alpharetta, GA | — | 2026-05-09 |
 | [Technology Intern](https://careers.fiserv.com/us/en/job/FFFYJUSR10390344EXTERNALENUS/Technology-Summer-Intern?jr_id=69e6ab5e3aa0c4796439589b) | 50 | Columbus, OH | — | 2026-05-09 |
@@ -4920,6 +4922,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Density Fill Development Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Density-Fill-Development-Engineer-Intern_JR0281342) | 93 | Santa Clara, CA / Hillsboro, OR / Phoenix, AZ | Software | 2026-05-22 |
 | [Design Verification Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/Design-Verification-Engineering-Intern_JR0283524) | 58 | Remote in Canada | Hardware | 2026-05-17 |
 | [Design Methodology Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/Design-Methodology-Engineering-Intern_JR0283526) | 58 | Remote in Canada | Hardware | 2026-05-14 |
 | [Software Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/details/Software-Engineering----Intern--Bachelor-s_JR0276773?workerSubType=dc8bf79476611087dfde99931439ae75&jobFamilyGroup=dc8bf79476611087d67b36517cf17036) | 93 | Hillsboro, OR / Folsom, CA / Santa Clara, CA / Austin, TX / Phoenix, AZ | — | 2026-05-09 |
@@ -5567,6 +5570,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Intern Validation Engineer](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235416) | 50 | Auburn Hills, MI | Hardware | 2026-05-22 |
 | [Engineering Optics Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering-Optics_R00243622) | 50 | Southfield, MI | Hardware | 2026-05-20 |
 | [Software Engineering Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235425) | 60 | Auburn Hills, MI | Hardware | 2026-05-17 |
 | [Intern Failure Analysis & Validation Engineering](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235417) | 50 | Southfield, MI | Hardware | 2026-05-16 |
@@ -5689,6 +5693,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://careers.oshkoshcorp.com/us/en/job/OCNOCKUSR40813EXTERNALENUS/Engineer-Intern-Software-Summer-2026) | 85 | Dodge Center, MN | — | 2026-05-09 |
+
+## Mechanize
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://www.mechanize.work/apply/software-engineer/?role=intern) | 85 | SF | Software | 2026-05-22 |
 
 ## Medical Informatics Engineering
 
@@ -7146,7 +7156,6 @@
 | --- | --- | --- | --- | --- |
 | [Chassis Control Intern Co-op](https://jobs.smartrecruiters.com/BoschGroup/744000127510818) | 58 | Plymouth, MI | Hardware | 2026-05-20 |
 | [Product Management Intern](https://jobs.smartrecruiters.com/BoschGroup/744000127493789) | 58 | Des Plaines, IL | Product | 2026-05-20 |
-| [Proton Exchange Membrane Water Electrolysis Engineer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000127066949) | 93 | Sunnyvale, CA | AI/ML/Data | 2026-05-18 |
 | [Engineering Technician Intern](https://jobs.smartrecruiters.com/BoschGroup/744000126331461) | 58 | Plymouth, MI | Hardware | 2026-05-14 |
 | [Supply Chain Data & Analytics Intern - Multiple Teams](https://jobs.smartrecruiters.com/BoschGroup/744000126390414) | 68 | Plymouth, MI | AI/ML/Data | 2026-05-14 |
 | [AI and SW Development Engineering Intern](https://jobs.smartrecruiters.com/BoschGroup/744000112950702) | 68 | Plymouth, MI | AI/ML/Data | 2026-05-09 |
@@ -8881,6 +8890,12 @@
 | --- | --- | --- | --- | --- |
 | [Engineer Intern](https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/San-Diego-CA-United-States/Engineering-Intern_REQ-12005-1) | 58 | San Diego, CA | Hardware | 2026-05-20 |
 
+## Ultra Intelligence and Communications
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Engineer Intern](https://ultra.wd3.myworkdayjobs.com/uiccareers/job/San-Diego-CA-United-States/Engineering-Intern_REQ-12005) | 58 | San Diego, CA | Hardware | 2026-05-22 |
+
 ## Uncountable
 
 | Title | Score | Location | Department | First seen |
@@ -9015,9 +9030,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Internship Program - Data & Analytics Developer](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/1597) | 85 | London, UK | AI/ML/Data | 2026-05-09 |
 | [Tech – Intern Program](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/2257) | 60 | Holmdel, NJ / NYC / Lehi, UT | Software | 2026-05-09 |
-| [2026 – Summer Intern Program - Junior Product Specialist](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/1506) | 50 | Weybridge, UK | Product | 2026-05-09 |
 
 ## Veritiv Corporation
 
