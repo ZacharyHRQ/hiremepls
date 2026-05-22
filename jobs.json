@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-22T06:20:00.452Z",
+  "generatedAt": "2026-05-22T09:54:00.041Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 2798,
+  "jobCount": 2801,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -414,7 +414,6 @@
     "canonical:ed8391d9e27162cb": "2026-05-11T23:38:25.770Z",
     "canonical:f22c383e84d41e35": "2026-05-09T15:28:15.527Z",
     "canonical:14904318e185f409": "2026-05-09T15:28:15.527Z",
-    "canonical:43c945396857ea6b": "2026-05-13T22:37:04.081Z",
     "canonical:18df2a1964fc05b8": "2026-05-09T15:28:15.527Z",
     "canonical:d3d88b97da2eb475": "2026-05-09T15:28:15.527Z",
     "canonical:9bf19c266dfcab09": "2026-05-09T15:28:15.527Z",
@@ -535,7 +534,6 @@
     "canonical:f64bc2e9a59f57b1": "2026-05-09T15:28:15.527Z",
     "canonical:c7bd53089331df83": "2026-05-09T15:28:15.527Z",
     "canonical:f0f1d781fda66872": "2026-05-09T15:28:15.527Z",
-    "canonical:586d8d3397a2b62e": "2026-05-09T15:28:15.527Z",
     "canonical:44f21c8e06320c6d": "2026-05-09T15:28:15.527Z",
     "canonical:83753d09884a7f7f": "2026-05-09T15:28:15.527Z",
     "canonical:516ca83ddb6d4d40": "2026-05-09T15:28:15.527Z",
@@ -844,7 +842,6 @@
     "canonical:1cc697a29d74132a": "2026-05-09T15:28:15.527Z",
     "canonical:c3a5eb06808e55a7": "2026-05-09T15:28:15.527Z",
     "canonical:0f90fb3d9d7fcfdb": "2026-05-09T15:28:15.527Z",
-    "canonical:52928aef9eb1f8aa": "2026-05-09T15:28:15.527Z",
     "canonical:f07e66af72bdad8b": "2026-05-09T15:28:15.527Z",
     "canonical:a9776b9ae0321db7": "2026-05-09T15:28:15.527Z",
     "canonical:03c15902ae6e4726": "2026-05-09T15:28:15.527Z",
@@ -871,12 +868,10 @@
     "canonical:18c7966a9dc06483": "2026-05-09T15:28:15.527Z",
     "canonical:9f05fe3d22db02ea": "2026-05-09T15:28:15.527Z",
     "canonical:8a131733911bef5f": "2026-05-09T15:28:15.527Z",
-    "canonical:efeb516c369ef725": "2026-05-14T01:31:29.727Z",
     "canonical:d879f4f3066c7c06": "2026-05-16T07:09:10.733Z",
     "canonical:311948f49ab63085": "2026-05-09T15:28:15.527Z",
     "canonical:6e729d4798107868": "2026-05-11T23:38:25.770Z",
     "canonical:a11be3c0473589cc": "2026-05-09T15:28:15.527Z",
-    "canonical:c41ef117bb4ff60c": "2026-05-16T08:58:52.526Z",
     "canonical:c3798019ec8f33d2": "2026-05-09T15:28:15.527Z",
     "canonical:d884f4d4096fc6a2": "2026-05-09T15:28:15.527Z",
     "canonical:11c1b4c81d7b5642": "2026-05-09T15:28:15.527Z",
@@ -1013,7 +1008,6 @@
     "canonical:7134f71d6610c363": "2026-05-09T15:28:15.527Z",
     "canonical:3ecb141f9cbb9eb5": "2026-05-09T15:28:15.527Z",
     "canonical:aff107bd3baec5a5": "2026-05-09T15:28:15.527Z",
-    "canonical:966027cb4e682530": "2026-05-14T01:31:29.727Z",
     "canonical:fa30523eab7388bd": "2026-05-09T15:28:15.527Z",
     "canonical:d785542197c1d02a": "2026-05-09T15:28:15.527Z",
     "canonical:a36f284b2aad12bc": "2026-05-09T15:28:15.527Z",
@@ -2479,7 +2473,6 @@
     "canonical:a4a17d0d57e99a9a": "2026-05-16T19:21:47.725Z",
     "canonical:51a3cddbac5ec599": "2026-05-16T19:21:47.725Z",
     "canonical:1a36c38a48406fc0": "2026-05-16T20:09:24.477Z",
-    "canonical:698e07bd95b68e47": "2026-05-16T20:09:24.477Z",
     "canonical:d513e013272b6d3b": "2026-05-16T20:09:24.477Z",
     "canonical:2ec0ee7304849599": "2026-05-16T20:09:24.477Z",
     "canonical:afc7dcc8b816979d": "2026-05-16T21:02:08.432Z",
@@ -2730,7 +2723,6 @@
     "canonical:ccb9d6987bbb6f0a": "2026-05-20T23:38:03.330Z",
     "canonical:00451d7a723c1b5b": "2026-05-20T23:38:03.330Z",
     "canonical:a1887e38d9cfd234": "2026-05-20T23:38:03.330Z",
-    "canonical:b7287a45bef98b54": "2026-05-20T23:38:03.330Z",
     "canonical:53d457811ef7e5f2": "2026-05-20T23:38:03.330Z",
     "canonical:4f62b70b50abda22": "2026-05-20T23:38:03.330Z",
     "canonical:2e8d903c19f93d46": "2026-05-20T23:38:03.330Z",
@@ -2801,7 +2793,18 @@
     "canonical:77542c49fff41020": "2026-05-22T02:15:03.911Z",
     "canonical:5a5fd738be504405": "2026-05-22T02:15:03.911Z",
     "canonical:55abf604a6bf53ca": "2026-05-22T06:20:00.452Z",
-    "canonical:d7df174fc9ae5ee1": "2026-05-22T06:20:00.452Z"
+    "canonical:d7df174fc9ae5ee1": "2026-05-22T06:20:00.452Z",
+    "canonical:73cd4f2761a3469b": "2026-05-22T09:54:00.041Z",
+    "canonical:87f6386de9672675": "2026-05-22T09:54:00.041Z",
+    "canonical:47ec258ae5e728c6": "2026-05-22T09:54:00.041Z",
+    "canonical:e0d5ce31dfaf1a2a": "2026-05-22T09:54:00.041Z",
+    "canonical:55deb68272c97b7f": "2026-05-22T09:54:00.041Z",
+    "canonical:664e94cc39406d96": "2026-05-22T09:54:00.041Z",
+    "canonical:ac10b613b9498a66": "2026-05-22T09:54:00.041Z",
+    "canonical:72abb2db13af5981": "2026-05-22T09:54:00.041Z",
+    "canonical:ebc61fbb1bd465aa": "2026-05-22T09:54:00.041Z",
+    "canonical:fdcbfd1a53fb0e8a": "2026-05-22T09:54:00.041Z",
+    "canonical:c299015364c1db18": "2026-05-22T09:54:00.041Z"
   },
   "jobs": [
     {
@@ -2923,10 +2926,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -2938,10 +2941,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -5359,20 +5362,6 @@
       "company": "Prologis",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:c61e9b5dfe349f93",
-      "title": "IT Software Developer Intern",
-      "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/IT-Software-Developer-Intern_JR-20775",
-      "location": "San Jose, CA",
-      "department": "Software",
-      "company": "Bloom Energy",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -8276,19 +8265,6 @@
       ]
     },
     {
-      "id": "canonical:43c945396857ea6b",
-      "title": "AI Engineer Intern - BCG X",
-      "url": "https://careers.bcg.com/global/en/job/56635",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "Boston Consulting Group",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:18df2a1964fc05b8",
       "title": "Software Engineer Intern - Ads Interface Platform",
       "url": "https://lifeattiktok.com/search/7473334964256393479",
@@ -10208,20 +10184,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:586d8d3397a2b62e",
-      "title": "Software Graduate Apprentice",
-      "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Software-Graduate-Apprentice_R0022244-1",
-      "location": "Edinburgh, UK",
-      "department": "Hardware",
-      "company": "Leonardo",
-      "score": 74,
-      "scoreReasons": [
-        "high-signal role",
-        "new grad",
-        "direct ATS"
       ]
     },
     {
@@ -12545,16 +12507,6 @@
         "high-signal role",
         "direct ATS"
       ]
-    },
-    {
-      "id": "canonical:698e07bd95b68e47",
-      "title": "Intern Validation Engineer",
-      "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235416",
-      "location": "Auburn Hills, MI",
-      "department": "Hardware",
-      "company": "Magna",
-      "score": 50,
-      "scoreReasons": []
     },
     {
       "id": "canonical:41396f1be5942850",
@@ -15109,19 +15061,6 @@
       ]
     },
     {
-      "id": "canonical:52928aef9eb1f8aa",
-      "title": "Quantitative Analyst – Co-op/Intern - 4 Months",
-      "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Quantitative-Analyst--Fall-2026--Co-op-Internship----4-Months_R260012627",
-      "location": "Toronto, ON, Canada",
-      "department": "Quant",
-      "company": "Bank of Montreal",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:f07e66af72bdad8b",
       "title": "Master's Machine Learning Internship - Visual Search",
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7253017",
@@ -15621,18 +15560,6 @@
       ]
     },
     {
-      "id": "canonical:efeb516c369ef725",
-      "title": "Video Algorithms Intern - Video Coding - Gaussian Splatting",
-      "url": "https://explore.jobs.netflix.net/careers/job/790315673635",
-      "location": "LA / Los Gatos, CA",
-      "department": "AI/ML/Data",
-      "company": "Netflix",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:d879f4f3066c7c06",
       "title": "Pricing and Market Analytics Intern",
       "url": "https://assaabloy.jobs2web.com/job/Lake-Forest-Pricing-and-Market-Analytics-Intern-CA-92610/1388105433/?ats=successfactors",
@@ -15678,20 +15605,6 @@
       "company": "Viavi Solutions",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:c41ef117bb4ff60c",
-      "title": "Data Scientist Intern - PhD",
-      "url": "https://job-boards.greenhouse.io/integra/jobs/5134592008",
-      "location": "Austin, TX",
-      "department": "AI/ML/Data",
-      "company": "Integra FEC",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -18048,19 +17961,6 @@
       "score": 58,
       "scoreReasons": [
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:966027cb4e682530",
-      "title": "Mobile Engineer Intern - Android/iOS",
-      "url": "https://ats.rippling.com/veryable-careers/jobs/cf74672c-c9c5-4be5-8858-04abfd64c20f",
-      "location": "Dallas, TX",
-      "department": "Software",
-      "company": "Veryable",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -21307,18 +21207,6 @@
       ]
     },
     {
-      "id": "canonical:b7287a45bef98b54",
-      "title": "Engineer Intern",
-      "url": "https://ultra.wd3.myworkdayjobs.com/uiccareers/job/San-Diego-CA-United-States/Engineering-Intern_REQ-12005",
-      "location": "San Diego, CA",
-      "department": "Hardware",
-      "company": "Ultra Intelligence and Communications",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:53d457811ef7e5f2",
       "title": "Product Management Intern",
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000127493789",
@@ -22120,6 +22008,141 @@
       ]
     },
     {
+      "id": "canonical:73cd4f2761a3469b",
+      "title": "Software PhD Intern",
+      "url": "https://jobs.apple.com/en-us/details/200664323",
+      "location": "United States",
+      "department": "Software",
+      "company": "Apple",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:87f6386de9672675",
+      "title": "Undergrad Engineering Intern",
+      "url": "https://jobs.apple.com/en-us/details/200663968",
+      "location": "United States",
+      "department": "Hardware",
+      "company": "Apple",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:47ec258ae5e728c6",
+      "title": "Hardware Technologies Engineering Intern",
+      "url": "https://jobs.apple.com/en-us/details/200664383",
+      "location": "United States",
+      "department": "Hardware",
+      "company": "Apple",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:e0d5ce31dfaf1a2a",
+      "title": "Software Undergrad Engineer Intern",
+      "url": "https://jobs.apple.com/en-us/details/200664785",
+      "location": "United States",
+      "department": "Software",
+      "company": "Apple",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:55deb68272c97b7f",
+      "title": "Software Engineering Masters Intern",
+      "url": "https://jobs.apple.com/en-us/details/200664320",
+      "location": "United States",
+      "department": "Software",
+      "company": "Apple",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:ad86f83d65fd08c6",
+      "title": "Hardware Engineering Intern",
+      "url": "https://jobs.apple.com/en-us/details/200663981",
+      "location": "United States",
+      "department": "Hardware",
+      "company": "Apple",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:664e94cc39406d96",
+      "title": "Data & Operations Intern - Vision Zero",
+      "url": "https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1536",
+      "location": "Arlington, VA",
+      "department": "AI/ML/Data",
+      "company": "Arlington County VA",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:ac10b613b9498a66",
+      "title": "Hardware PhD Intern",
+      "url": "https://jobs.apple.com/en-us/details/200664421",
+      "location": "United States",
+      "department": "Hardware",
+      "company": "Apple",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:72abb2db13af5981",
+      "title": "Machine Learning and Artificial Intelligence Undergraduate Intern",
+      "url": "https://jobs.apple.com/en-us/details/200664780",
+      "location": "United States",
+      "department": "AI/ML/Data",
+      "company": "Apple",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:ebc61fbb1bd465aa",
+      "title": "Machine Learning and Artificial Intelligence Intern",
+      "url": "https://jobs.apple.com/en-us/details/200664221",
+      "location": "United States",
+      "department": "AI/ML/Data",
+      "company": "Apple",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:fdcbfd1a53fb0e8a",
+      "title": "Hardware Technologies PhD Intern",
+      "url": "https://jobs.apple.com/en-us/details/200664414",
+      "location": "United States",
+      "department": "Hardware",
+      "company": "Apple",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:c299015364c1db18",
+      "title": "Machine Learning and Artificial Intelligence PhD Intern",
+      "url": "https://jobs.apple.com/en-us/details/200664223",
+      "location": "United States",
+      "department": "AI/ML/Data",
+      "company": "Apple",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:436e897ac4c7cd2f",
       "title": "2026 Summer Intern",
       "url": "https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-e774a855fe31/candidate/so/pm/1/pl/1/opp/9601-2026-Summer-Internship-Program-AMERS/en-GB",
@@ -22521,16 +22544,6 @@
       "scoreReasons": [
         "high-signal role"
       ]
-    },
-    {
-      "id": "canonical:ad86f83d65fd08c6",
-      "title": "Hardware Engineering Intern",
-      "url": "https://jobs.apple.com/en-us/details/200606475/hardware-engineering-internships?team=STDNT",
-      "location": "United States",
-      "department": "",
-      "company": "Apple",
-      "score": 50,
-      "scoreReasons": []
     },
     {
       "id": "canonical:868127d2eb349c57",
@@ -32378,6 +32391,20 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:c61e9b5dfe349f93",
+      "title": "IT Software Developer Intern",
+      "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/IT-Software-Developer-Intern_JR-20773",
+      "location": "San Jose, CA",
+      "department": "",
+      "company": "Bloom Energy",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {

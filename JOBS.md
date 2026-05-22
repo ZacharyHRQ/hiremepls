@@ -1,6 +1,6 @@
 # Open Internships
 
-**2798** internships across **63/64** companies — last updated 2026-05-22.
+**2801** internships across **63/64** companies — last updated 2026-05-22.
 
 ## Companies
 
@@ -68,7 +68,7 @@
 - [Apex Technology, Inc.](#apex-technology-inc) (1)
 - [APM Terminals](#apm-terminals) (1)
 - [Appian](#appian) (5)
-- [Apple](#apple) (7)
+- [Apple](#apple) (17)
 - [Applied Concepts, Inc.](#applied-concepts-inc) (1)
 - [Applied Materials](#applied-materials) (3)
 - [Apptronik](#apptronik) (1)
@@ -80,6 +80,7 @@
 - [Arch Capital Group](#arch-capital-group) (1)
 - [Ardian](#ardian) (1)
 - [Arine](#arine) (1)
+- [Arlington County VA](#arlington-county-va) (1)
 - [Arlo](#arlo) (2)
 - [Arm](#arm) (1)
 - [Armada](#armada) (1)
@@ -126,7 +127,7 @@
 - [BAE Systems](#bae-systems) (13)
 - [Balyasny Asset Management](#balyasny-asset-management) (5)
 - [Bank of America](#bank-of-america) (5)
-- [Bank of Montreal](#bank-of-montreal) (7)
+- [Bank of Montreal](#bank-of-montreal) (6)
 - [Barkback](#barkback) (1)
 - [Base Power](#base-power) (1)
 - [Baseten](#baseten) (1)
@@ -164,7 +165,6 @@
 - [BorgWarner](#borgwarner) (2)
 - [Bosch](#bosch) (2)
 - [Bose](#bose) (1)
-- [Boston Consulting Group](#boston-consulting-group) (1)
 - [Boston Scientific](#boston-scientific) (10)
 - [Bread Financial](#bread-financial) (2)
 - [Brevian](#brevian) (1)
@@ -530,7 +530,7 @@
 - [Instawork](#instawork) (1)
 - [Institute of Foundation Models](#institute-of-foundation-models) (1)
 - [Intact](#intact) (9)
-- [Integra FEC](#integra-fec) (3)
+- [Integra FEC](#integra-fec) (2)
 - [Integrity](#integrity) (1)
 - [Intel](#intel) (5)
 - [Intelcom | Dragonfly](#intelcom-dragonfly) (11)
@@ -595,7 +595,6 @@
 - [Lennox](#lennox) (1)
 - [Lenovo](#lenovo) (2)
 - [Lensa](#lensa) (3)
-- [Leonardo](#leonardo) (1)
 - [Leonardo DRS](#leonardo-drs) (5)
 - [Level AI](#level-ai) (1)
 - [Lightmatter](#lightmatter) (1)
@@ -619,7 +618,7 @@
 - [Mackenzie Investments](#mackenzie-investments) (1)
 - [Macy's](#macy-s) (2)
 - [Maersk](#maersk) (1)
-- [Magna](#magna) (6)
+- [Magna](#magna) (5)
 - [Maher Duessel](#maher-duessel) (1)
 - [MaloneBailey, LLP](#malonebailey-llp) (1)
 - [Man Group](#man-group) (5)
@@ -680,7 +679,7 @@
 - [Nash](#nash) (2)
 - [NBCUniversal](#nbcuniversal) (4)
 - [Nelnet](#nelnet) (2)
-- [Netflix](#netflix) (12)
+- [Netflix](#netflix) (11)
 - [Neuralink](#neuralink) (6)
 - [New York Life](#new-york-life) (1)
 - [New York Life Insurance](#new-york-life-insurance) (1)
@@ -1031,7 +1030,6 @@
 - [Uber](#uber) (2)
 - [Uline](#uline) (4)
 - [Ultra](#ultra) (1)
-- [Ultra Intelligence and Communications](#ultra-intelligence-and-communications) (1)
 - [Uncountable](#uncountable) (2)
 - [Under Armour](#under-armour) (1)
 - [United Launch Alliance](#united-launch-alliance) (1)
@@ -1057,7 +1055,6 @@
 - [Verkada](#verkada) (7)
 - [Vertiv](#vertiv) (4)
 - [Very Good Security](#very-good-security) (1)
-- [Veryable](#veryable) (1)
 - [Viasat](#viasat) (2)
 - [Viavi Solutions](#viavi-solutions) (1)
 - [Visa](#visa) (10)
@@ -1589,12 +1586,22 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Undergrad Engineer Intern](https://jobs.apple.com/en-us/details/200664785) | 85 | United States | Software | 2026-05-22 |
+| [Machine Learning and Artificial Intelligence Intern](https://jobs.apple.com/en-us/details/200664221) | 60 | United States | AI/ML/Data | 2026-05-22 |
+| [Machine Learning and Artificial Intelligence PhD Intern](https://jobs.apple.com/en-us/details/200664223) | 60 | United States | AI/ML/Data | 2026-05-22 |
+| [Machine Learning and Artificial Intelligence Undergraduate Intern](https://jobs.apple.com/en-us/details/200664780) | 60 | United States | AI/ML/Data | 2026-05-22 |
+| [Software Engineering Masters Intern](https://jobs.apple.com/en-us/details/200664320) | 60 | United States | Software | 2026-05-22 |
+| [Software PhD Intern](https://jobs.apple.com/en-us/details/200664323) | 60 | United States | Software | 2026-05-22 |
+| [Hardware PhD Intern](https://jobs.apple.com/en-us/details/200664421) | 50 | United States | Hardware | 2026-05-22 |
+| [Hardware Technologies Engineering Intern](https://jobs.apple.com/en-us/details/200664383) | 50 | United States | Hardware | 2026-05-22 |
+| [Hardware Technologies PhD Intern](https://jobs.apple.com/en-us/details/200664414) | 50 | United States | Hardware | 2026-05-22 |
+| [Undergrad Engineering Intern](https://jobs.apple.com/en-us/details/200663968) | 50 | United States | Hardware | 2026-05-22 |
 | [Machine Learning Intern](https://www.apple.com) | 60 | San Francisco, CA | — | 2026-05-16 |
 | [GPU Intern - Platform Architecture](https://jobs.apple.com/en-us/details/200617616) | 60 | London, UK / Cambridge, UK / Welwyn Garden City, UK | Hardware | 2026-05-09 |
 | [Machine Learning / AI Intern](https://jobs.apple.com/en-us/details/200606469/machine-learning-ai-internships?team=STDNT) | 60 | United States | — | 2026-05-09 |
 | [Software Engineering Intern](https://jobs.apple.com/en-us/details/200606145/software-engineering-internships?team=STDNT) | 60 | United States | — | 2026-05-09 |
 | [Engineering Program Management Intern](https://jobs.apple.com/en-us/details/200606141/engineering-program-management-internships?team=STDNT) | 50 | United States | — | 2026-05-09 |
-| [Hardware Engineering Intern](https://jobs.apple.com/en-us/details/200606475/hardware-engineering-internships?team=STDNT) | 50 | United States | — | 2026-05-09 |
+| [Hardware Engineering Intern](https://jobs.apple.com/en-us/details/200663981) | 50 | United States | Hardware | 2026-05-09 |
 | [Hardware Technology Intern](https://jobs.apple.com/en-us/details/200606143/hardware-technology-internships?team=STDNT) | 50 | United States | — | 2026-05-09 |
 
 ## Applied Concepts, Inc.
@@ -1673,6 +1680,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [AI Engineer Intern](https://job-boards.greenhouse.io/arine/jobs/5997169004) | 93 | Remote in USA | Software | 2026-05-15 |
+
+## Arlington County VA
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data & Operations Intern - Vision Zero](https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1536) | 60 | Arlington, VA | AI/ML/Data | 2026-05-22 |
 
 ## Arlo
 
@@ -2028,7 +2041,6 @@
 | [Software Developer Co-op/Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Developer--Fall-2026--Co-op-Internship----8-Months_R260013663) | 93 | Toronto, ON, Canada | Software | 2026-05-09 |
 | [Analyst Co-op/Intern - Months](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Analyst--Fall-2026--Co-op-Internship----12-Months_R260013681) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
 | [Cloud Business & Strategy Analytics Analyst Co-op/Internship](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Cloud-Business---Strategy-Analytics-Analyst--Fall-2026--Co-op-Internship----4-Months_R260013662) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
-| [Quantitative Analyst – Co-op/Intern - 4 Months](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Quantitative-Analyst--Fall-2026--Co-op-Internship----4-Months_R260012627) | 68 | Toronto, ON, Canada | Quant | 2026-05-09 |
 
 ## Barkback
 
@@ -2187,7 +2199,7 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Full Stack Developer Intern](https://bloomenergy.wd1.myworkdayjobs.com/en-US/BloomEnergyCareers/job/San-Jose-California/Full-Stack-Developer-Intern_JR-20763) | 93 | San Jose, CA | Software Engineering | 2026-05-09 |
-| [IT Software Developer Intern](https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/IT-Software-Developer-Intern_JR-20775) | 93 | San Jose, CA | Software | 2026-05-09 |
+| [IT Software Developer Intern](https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/IT-Software-Developer-Intern_JR-20773) | 93 | San Jose, CA | — | 2026-05-09 |
 | [Software Engineering Intern - Automation](https://bloomenergy.wd1.myworkdayjobs.com/en-US/BloomEnergyCareers/job/San-Jose-California/Software-Engineering-Intern---Automation_JR-20625) | 68 | San Jose, CA | Software Engineering | 2026-05-09 |
 
 ## Blue & Co., LLC
@@ -2283,12 +2295,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Machine Learning and DSP Research Intern](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Machine-Learning-and-DSP-Research-Intern_R28324) | 68 | Framingham, MA | AI/ML/Data | 2026-05-16 |
-
-## Boston Consulting Group
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI Engineer Intern - BCG X](https://careers.bcg.com/global/en/job/56635) | 85 | London, UK | AI/ML/Data | 2026-05-13 |
 
 ## Boston Scientific
 
@@ -4795,8 +4801,8 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Hardware Machine Learning PhD Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, IL | AI/ML/Data | 2026-05-09 |
-| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
+| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Hardware Machine Learning PhD Research Internship](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, United States | — | 2026-05-06 |
 | [Graduate Broker Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4608590101) | 64 | Chicago, United States | — | 2026-05-06 |
 | [Graduate Floor Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4786701101) | 64 | Chicago, United States; Miami, United States; New York, United States; Philadelphia, United States; San Francisco, United States | — | 2026-05-06 |
@@ -4896,7 +4902,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Data Scientist Intern](https://job-boards.greenhouse.io/integrainterns/jobs/5134593008) | 93 | Austin, TX | AI/ML/Data | 2026-05-19 |
-| [Data Scientist Intern - PhD](https://job-boards.greenhouse.io/integra/jobs/5134592008) | 93 | Austin, TX | AI/ML/Data | 2026-05-16 |
 | [Data Analyst Intern](https://job-boards.greenhouse.io/integrainterns/jobs/5134523008) | 68 | Austin, TX | AI/ML/Data | 2026-05-09 |
 
 ## Integrity
@@ -5381,12 +5386,6 @@
 | [2026 Summer Internship Program - Investment Banking](https://www.linkedin.com/jobs/view/4257296455) | 42 | Baltimore, MD | — | 2026-05-16 |
 | [Accounting Internship Summer 2026](https://lensa.com/job-application-accounting-internship-summer-2026-in-wayne-pa/cpc-jd-v3/bdd3c15c3b73ec0e9b7e0b5b4cbefe35453222188f523f433d39e72a3abd4740?tr=b4a83a7f255547c9982fd106a9550d5aincc1&utm_source=linkedin&utm_medium=slot&utm_campaign=Financial+Specialists&utm_term=jse) | 22 | Wayne, PA | — | 2026-05-16 |
 
-## Leonardo
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Graduate Apprentice](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Software-Graduate-Apprentice_R0022244-1) | 74 | Edinburgh, UK | Hardware | 2026-05-09 |
-
 ## Leonardo DRS
 
 | Title | Score | Location | Department | First seen |
@@ -5565,7 +5564,6 @@
 | --- | --- | --- | --- | --- |
 | [Engineering Optics Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering-Optics_R00243622) | 50 | Southfield, MI | Hardware | 2026-05-20 |
 | [Software Engineering Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235425) | 60 | Auburn Hills, MI | Hardware | 2026-05-17 |
-| [Intern Validation Engineer](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235416) | 50 | Auburn Hills, MI | Hardware | 2026-05-16 |
 | [Intern Failure Analysis & Validation Engineering](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235417) | 50 | Southfield, MI | Hardware | 2026-05-16 |
 | [Engineering Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering-ADAS-Vehicle-Integration_R00238341) | 50 | Auburn Hills, MI | Hardware | 2026-05-13 |
 | [Computer Vision AI Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/Computer-Vision--AI-Intern--R-D-Summer-2026_R00232831-1) | 60 | Troy, MI | AI/ML/Data | 2026-05-13 |
@@ -6063,7 +6061,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Video Algorithms Intern - Video Coding - Gaussian Splatting](https://explore.jobs.netflix.net/careers/job/790315673635) | 60 | LA / Los Gatos, CA | AI/ML/Data | 2026-05-14 |
 | [Machine Learning Engineer Intern, (MS/PhD)](https://netflix.wd1.myworkdayjobs.com/netflix/job/Los-Gatos/Machine-Learning-Engineer-Intern---MS-PhD--2026_JR36512-1) | 93 | Los Gatos, CA / Los Angeles, CA | — | 2026-05-09 |
 | [Analytics Engineer Intern - Summer 2026](https://explore.jobs.netflix.net/careers/job/790313055767) | 85 | LA / Los Gatos, CA | AI/ML/Data | 2026-05-09 |
 | [Data Engineer Intern](https://explore.jobs.netflix.net/careers/job/790313056337) | 85 | LA / Los Gatos, CA | AI/ML/Data | 2026-05-09 |
@@ -8884,12 +8881,6 @@
 | --- | --- | --- | --- | --- |
 | [Engineer Intern](https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/San-Diego-CA-United-States/Engineering-Intern_REQ-12005-1) | 58 | San Diego, CA | Hardware | 2026-05-20 |
 
-## Ultra Intelligence and Communications
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Engineer Intern](https://ultra.wd3.myworkdayjobs.com/uiccareers/job/San-Diego-CA-United-States/Engineering-Intern_REQ-12005) | 58 | San Diego, CA | Hardware | 2026-05-20 |
-
 ## Uncountable
 
 | Title | Score | Location | Department | First seen |
@@ -9060,12 +9051,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Application Security Intern](https://jobs.lever.co/verygoodsecurity/32fe92a6-13d5-4132-b77c-a7a5ed74f38b/apply) | 68 | United States | Software | 2026-05-09 |
-
-## Veryable
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Mobile Engineer Intern - Android/iOS](https://ats.rippling.com/veryable-careers/jobs/cf74672c-c9c5-4be5-8858-04abfd64c20f) | 85 | Dallas, TX | Software | 2026-05-14 |
 
 ## Viasat
 
