@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-22T02:15:03.911Z",
+  "generatedAt": "2026-05-22T06:20:00.452Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 2804,
+  "jobCount": 2798,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -422,7 +422,6 @@
     "canonical:c8e0ad6b0204c789": "2026-05-09T15:28:15.527Z",
     "canonical:35ef6f4c4805c4a0": "2026-05-09T19:20:31.296Z",
     "canonical:e8fa8ba4a90741c0": "2026-05-09T15:28:15.527Z",
-    "canonical:171260ed0860661b": "2026-05-09T15:28:15.527Z",
     "canonical:029eb3cf2b108240": "2026-05-09T15:28:15.527Z",
     "canonical:08a2d633c2ef1b09": "2026-05-09T15:28:15.527Z",
     "canonical:28e42db883c713ad": "2026-05-09T15:28:15.527Z",
@@ -970,7 +969,6 @@
     "canonical:d711e695dc99e898": "2026-05-14T05:32:10.854Z",
     "canonical:db017660ddf68d47": "2026-05-09T15:28:15.527Z",
     "canonical:bb0b6ddd80259465": "2026-05-09T15:28:15.527Z",
-    "canonical:8b0b57774c746121": "2026-05-09T17:12:44.619Z",
     "canonical:822f967f52f73fd3": "2026-05-09T15:28:15.527Z",
     "canonical:9e010e586f8b36a1": "2026-05-09T15:28:15.527Z",
     "canonical:b6a335de35dcc11a": "2026-05-09T15:28:15.527Z",
@@ -1021,7 +1019,6 @@
     "canonical:a36f284b2aad12bc": "2026-05-09T15:28:15.527Z",
     "canonical:fc0f3b224897c8cf": "2026-05-09T15:28:15.527Z",
     "canonical:bca4bcdaf7e22e24": "2026-05-09T15:28:15.527Z",
-    "canonical:ad4cb7fd0f1b14fd": "2026-05-09T15:28:15.527Z",
     "canonical:b06161b2a0f4c01f": "2026-05-09T15:28:15.527Z",
     "canonical:c90e8f62f08de811": "2026-05-09T15:28:15.527Z",
     "canonical:1c46dbb7e120e004": "2026-05-09T15:28:15.527Z",
@@ -1048,7 +1045,6 @@
     "canonical:81e44c8dc465d3ce": "2026-05-09T15:28:15.527Z",
     "canonical:b5545588e338ddbb": "2026-05-09T15:28:15.527Z",
     "canonical:c1a11e96f7f86309": "2026-05-10T04:57:30.363Z",
-    "canonical:4c4bc8e30d8ef093": "2026-05-10T04:57:30.363Z",
     "canonical:8be271d4651a15a8": "2026-05-09T15:28:15.527Z",
     "canonical:ae2198c9ecbb102e": "2026-05-11T00:06:33.325Z",
     "canonical:7c9a6f1e70b82f33": "2026-05-09T15:28:15.527Z",
@@ -2452,8 +2448,6 @@
     "canonical:056df130fc089383": "2026-05-16T15:13:47.475Z",
     "canonical:c9db0c5ac50ddf51": "2026-05-16T15:13:47.475Z",
     "canonical:103a322744212e14": "2026-05-16T16:09:06.490Z",
-    "canonical:94eeb92e0ece8636": "2026-05-16T16:09:06.490Z",
-    "canonical:fcf29e8e2d7bc67c": "2026-05-16T16:09:06.490Z",
     "canonical:1a7ad445267d293c": "2026-05-16T16:09:06.490Z",
     "canonical:52c4e7c492f86426": "2026-05-16T16:09:06.490Z",
     "canonical:4adbc338b845e24f": "2026-05-16T16:09:06.490Z",
@@ -2571,7 +2565,6 @@
     "canonical:223669d31e7e9fb5": "2026-05-17T07:19:48.510Z",
     "canonical:f67ccd38fce2d6a4": "2026-05-17T07:19:48.510Z",
     "canonical:8e9b3b4bdaa4e763": "2026-05-17T07:19:48.510Z",
-    "canonical:cf09102ba9023186": "2026-05-17T07:19:48.510Z",
     "canonical:6a54db97364bf00a": "2026-05-17T07:19:48.510Z",
     "canonical:e682494376c477a6": "2026-05-17T07:19:48.510Z",
     "canonical:a23b29cc524f8116": "2026-05-17T07:19:48.510Z",
@@ -2800,14 +2793,15 @@
     "canonical:244ba70ec41469f9": "2026-05-21T23:51:28.973Z",
     "canonical:8827f4e2d1bb2040": "2026-05-21T23:51:28.973Z",
     "canonical:6b90749387789477": "2026-05-22T02:15:03.911Z",
-    "canonical:d3231653717f4f52": "2026-05-22T02:15:03.911Z",
     "canonical:799cee3e944790ae": "2026-05-22T02:15:03.911Z",
     "canonical:001263ddaa32e7a7": "2026-05-22T02:15:03.911Z",
     "canonical:e316641a27c04a0c": "2026-05-22T02:15:03.911Z",
     "canonical:c913ff9d74716a9b": "2026-05-22T02:15:03.911Z",
     "canonical:487227ae7a2ebb6c": "2026-05-22T02:15:03.911Z",
     "canonical:77542c49fff41020": "2026-05-22T02:15:03.911Z",
-    "canonical:5a5fd738be504405": "2026-05-22T02:15:03.911Z"
+    "canonical:5a5fd738be504405": "2026-05-22T02:15:03.911Z",
+    "canonical:55abf604a6bf53ca": "2026-05-22T06:20:00.452Z",
+    "canonical:d7df174fc9ae5ee1": "2026-05-22T06:20:00.452Z"
   },
   "jobs": [
     {
@@ -4411,48 +4405,6 @@
       "company": "Cribl",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:103a322744212e14",
-      "title": "AI Applied Scientist Intern - Foundational IQ",
-      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Foundational-IQ_P748042",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "Zillow",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:94eeb92e0ece8636",
-      "title": "AI Applied Scientist - PhD Intern - Next-Gen Agentic and Multi-Modal Home Exploration Experience",
-      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Next-Gen-Agentic-and-Multi-Modal-Home-Exploration-Experience_P748043",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "Zillow",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:fcf29e8e2d7bc67c",
-      "title": "AI Applied Scientist - PhD Intern - Evaluation Systems and Metrics",
-      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Evaluation-Systems-and-Metrics_P748040",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "Zillow",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
     },
     {
       "id": "canonical:afc7dcc8b816979d",
@@ -8436,20 +8388,6 @@
       ]
     },
     {
-      "id": "canonical:171260ed0860661b",
-      "title": "Product Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/cartesia/ebae3ceb-a6a7-4af0-ae3e-c197af14a67a/application",
-      "location": "SF",
-      "department": "Software",
-      "company": "Cartesia",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:029eb3cf2b108240",
       "title": "Software Engineer Project Intern - Security-Data - 2026 Start",
       "url": "https://jobs.bytedance.com/en/position/7600175469758040325/detail",
@@ -9619,20 +9557,6 @@
       "company": "Tencent",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:cf09102ba9023186",
-      "title": "Bestx AI Engineer Intern",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/BestX-AI-Engineer--Full-time-Internship--July---Dec-2026-_R-784548",
-      "location": "Quincy, MA",
-      "department": "AI/ML/Data",
-      "company": "State Street",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -17369,20 +17293,6 @@
       "scoreReasons": []
     },
     {
-      "id": "canonical:8b0b57774c746121",
-      "title": "Software Developer Intern Co-op",
-      "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Software-Developer---4-months-Internship-Coop--Fall-2026--_R152614",
-      "location": "Montreal, QC, Canada / Laval, QC, Canada / Quebec City, QC, Canada",
-      "department": "Software",
-      "company": "Intact",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:822f967f52f73fd3",
       "title": "Data Scientist 1 Intern/Co-op",
       "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Vancouver-British-Columbia-CAN/Data-Scientist-I--4-Month-Co-op-Internship--Fall-2026-_R152902-1",
@@ -18253,19 +18163,6 @@
       ]
     },
     {
-      "id": "canonical:ad4cb7fd0f1b14fd",
-      "title": "Wealth Management Data Analyst Intern",
-      "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/Wellesley-Massachusetts-United-States-of-America/XMLNAME-2026-Wealth-Management-Summer-Data-Analyst--4-Months-_R-0000170593",
-      "location": "Needham, MA",
-      "department": "AI/ML/Data",
-      "company": "Royal Bank of Canada",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:b06161b2a0f4c01f",
       "title": "Data Science Intern - Customer Success",
       "url": "https://job-boards.greenhouse.io/cresta/jobs/5213417008",
@@ -18710,18 +18607,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:4c4bc8e30d8ef093",
-      "title": "Engineering Data Management Intern",
-      "url": "https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1477",
-      "location": "Arlington, VA",
-      "department": "AI/ML/Data",
-      "company": "Arlington County VA",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {
@@ -22106,19 +21991,6 @@
       ]
     },
     {
-      "id": "canonical:d3231653717f4f52",
-      "title": "Technology Intern",
-      "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Mississauga---Skymark-Canada/Technology---Summer-Intern_R-10395076",
-      "location": "Mississauga, ON, Canada",
-      "department": "Software",
-      "company": "Fiserv",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:799cee3e944790ae",
       "title": "Product Analyst Intern - Insurance",
       "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MISSISSAUGA-Ontario-Canada/XMLNAME-2026--Insurance--Fall-Product-Analyst--4-months-_R-0000169875",
@@ -22203,6 +22075,48 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:103a322744212e14",
+      "title": "AI Applied Scientist Intern - Foundational IQ",
+      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Foundational-IQ_P748042",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "Zillow",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:55abf604a6bf53ca",
+      "title": "AI Applied Scientist Intern",
+      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Next-Gen-Agentic-and-Multi-Modal-Home-Exploration-Experience_P748043",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "Zillow",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:d7df174fc9ae5ee1",
+      "title": "AI Applied Scientist Intern - Evaluation Systems and Metrics",
+      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Evaluation-Systems-and-Metrics_P748040",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "Zillow",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
