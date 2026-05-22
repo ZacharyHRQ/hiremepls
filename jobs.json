@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T09:54:00.041Z",
+  "generatedAt": "2026-05-22T12:12:54.082Z",
   "companyCount": 64,
   "okCount": 63,
   "jobCount": 2801,
@@ -973,7 +973,6 @@
     "canonical:a282aa4af08894f9": "2026-05-09T15:28:15.527Z",
     "canonical:e60dea0edc7d6c6a": "2026-05-09T15:28:15.527Z",
     "canonical:98880bd4907fe4bf": "2026-05-09T15:28:15.527Z",
-    "canonical:5692c2e63f3590a9": "2026-05-09T15:28:15.527Z",
     "canonical:4dfbb70122340ac1": "2026-05-09T15:28:15.527Z",
     "canonical:b83f2bb467d940cf": "2026-05-09T15:28:15.527Z",
     "canonical:f6853911c348b597": "2026-05-16T01:23:11.435Z",
@@ -2542,7 +2541,6 @@
     "canonical:29ce1ea008de4da1": "2026-05-17T04:18:58.240Z",
     "canonical:ff8e87bc3c78ef84": "2026-05-17T04:18:58.240Z",
     "canonical:36106011250d1c85": "2026-05-17T04:18:58.240Z",
-    "canonical:27b9f886ab2c736d": "2026-05-17T04:18:58.240Z",
     "canonical:9992c8a0a830a9f3": "2026-05-17T04:18:58.240Z",
     "canonical:00742ac512f3cc60": "2026-05-17T04:18:58.240Z",
     "canonical:a41b1e3cc585772b": "2026-05-17T04:18:58.240Z",
@@ -2679,7 +2677,6 @@
     "canonical:71c51e63c71d6145": "2026-05-19T23:43:59.617Z",
     "canonical:7621f3e1f686b2a6": "2026-05-19T23:43:59.617Z",
     "canonical:7a0b6c2445518ecf": "2026-05-19T23:43:59.617Z",
-    "canonical:e593b22683714f11": "2026-05-19T23:43:59.617Z",
     "canonical:474dbcf68693e3b6": "2026-05-19T23:43:59.617Z",
     "canonical:b4e6df7dcb42b162": "2026-05-19T23:43:59.617Z",
     "canonical:e66fce67a4d9266e": "2026-05-19T23:43:59.617Z",
@@ -2774,7 +2771,6 @@
     "canonical:89e7b0c6b4dfe205": "2026-05-21T23:51:28.973Z",
     "canonical:2661df5e8c21a2a1": "2026-05-21T23:51:28.973Z",
     "canonical:f9b534af9c523d1d": "2026-05-21T23:51:28.973Z",
-    "canonical:f71af4d3a2b66dfb": "2026-05-21T23:51:28.973Z",
     "canonical:62e7091d7bc9fd47": "2026-05-21T23:51:28.973Z",
     "canonical:c973cdb7a5f71dc8": "2026-05-21T23:51:28.973Z",
     "canonical:c2b03083e2ce917b": "2026-05-21T23:51:28.973Z",
@@ -2804,7 +2800,11 @@
     "canonical:72abb2db13af5981": "2026-05-22T09:54:00.041Z",
     "canonical:ebc61fbb1bd465aa": "2026-05-22T09:54:00.041Z",
     "canonical:fdcbfd1a53fb0e8a": "2026-05-22T09:54:00.041Z",
-    "canonical:c299015364c1db18": "2026-05-22T09:54:00.041Z"
+    "canonical:c299015364c1db18": "2026-05-22T09:54:00.041Z",
+    "canonical:43c945396857ea6b": "2026-05-22T12:12:54.082Z",
+    "canonical:efeb516c369ef725": "2026-05-22T12:12:54.082Z",
+    "canonical:c41ef117bb4ff60c": "2026-05-22T12:12:54.082Z",
+    "canonical:966027cb4e682530": "2026-05-22T12:12:54.082Z"
   },
   "jobs": [
     {
@@ -3680,10 +3680,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -3693,10 +3693,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -8258,6 +8258,19 @@
       "location": "Seattle, WA",
       "department": "Software",
       "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:43c945396857ea6b",
+      "title": "AI Engineer Intern - BCG X",
+      "url": "https://careers.bcg.com/global/en/job/56635",
+      "location": "London, UK",
+      "department": "AI/ML/Data",
+      "company": "Boston Consulting Group",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -15560,6 +15573,18 @@
       ]
     },
     {
+      "id": "canonical:efeb516c369ef725",
+      "title": "Video Algorithms Intern - Video Coding - Gaussian Splatting",
+      "url": "https://explore.jobs.netflix.net/careers/job/790315673635",
+      "location": "LA / Los Gatos, CA",
+      "department": "AI/ML/Data",
+      "company": "Netflix",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:d879f4f3066c7c06",
       "title": "Pricing and Market Analytics Intern",
       "url": "https://assaabloy.jobs2web.com/job/Lake-Forest-Pricing-and-Market-Analytics-Intern-CA-92610/1388105433/?ats=successfactors",
@@ -15605,6 +15630,20 @@
       "company": "Viavi Solutions",
       "score": 68,
       "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c41ef117bb4ff60c",
+      "title": "Data Scientist Intern - PhD",
+      "url": "https://job-boards.greenhouse.io/integra/jobs/5134592008",
+      "location": "Austin, TX",
+      "department": "AI/ML/Data",
+      "company": "Integra FEC",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -16293,20 +16332,6 @@
       "company": "ASSA ABLOY",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:27b9f886ab2c736d",
-      "title": "Density Fill Development Engineer Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Density-Fill-Development-Engineer-Intern_JR0281342",
-      "location": "Santa Clara, CA / Hillsboro, OR / Phoenix, AZ",
-      "department": "Software",
-      "company": "Intel",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
     },
     {
       "id": "canonical:9541df1d0767f802",
@@ -17365,19 +17390,6 @@
       ]
     },
     {
-      "id": "canonical:5692c2e63f3590a9",
-      "title": "Software Engineer Intern",
-      "url": "https://www.mechanize.work/apply/software-engineer/?role=intern",
-      "location": "SF",
-      "department": "Software",
-      "company": "Mechanize",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:4dfbb70122340ac1",
       "title": "Intern Engineer Co-op - May 2026 Start",
       "url": "https://careers-gdms.icims.com/jobs/72244/job?mobile=true&needsRedirect=false",
@@ -17961,6 +17973,19 @@
       "score": 58,
       "scoreReasons": [
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:966027cb4e682530",
+      "title": "Mobile Engineer Intern - Android/iOS",
+      "url": "https://ats.rippling.com/veryable-careers/jobs/cf74672c-c9c5-4be5-8858-04abfd64c20f",
+      "location": "Dallas, TX",
+      "department": "Software",
+      "company": "Veryable",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
@@ -19883,19 +19908,6 @@
       ]
     },
     {
-      "id": "canonical:e593b22683714f11",
-      "title": "Intern 2",
-      "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Redmond-Washington/Summer-Intern-2_JR107170-1",
-      "location": "Redmond, WA",
-      "department": "AI/ML/Data",
-      "company": "Centific",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:5b87053523f7d7e4",
       "title": "Application Engineer Intern - Operator Training Simulator",
       "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/148650",
@@ -21744,19 +21756,6 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:f71af4d3a2b66dfb",
-      "title": "Data Analyst Intern - Annotation & Analysis",
-      "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Redmond-Washington/Summer-Intern--Annotation---Analysis-_JR107344-1",
-      "location": "Redmond, WA",
-      "department": "AI/ML/Data",
-      "company": "Centific",
-      "score": 68,
-      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]

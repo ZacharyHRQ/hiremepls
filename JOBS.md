@@ -165,6 +165,7 @@
 - [BorgWarner](#borgwarner) (2)
 - [Bosch](#bosch) (2)
 - [Bose](#bose) (1)
+- [Boston Consulting Group](#boston-consulting-group) (1)
 - [Boston Scientific](#boston-scientific) (10)
 - [Bread Financial](#bread-financial) (2)
 - [Brevian](#brevian) (1)
@@ -205,7 +206,7 @@
 - [Celonis](#celonis) (1)
 - [Center for AI Safety](#center-for-ai-safety) (1)
 - [Center for Internet Security (CIS)](#center-for-internet-security-cis) (1)
-- [Centific](#centific) (7)
+- [Centific](#centific) (5)
 - [Central](#central) (1)
 - [CenturyLink](#centurylink) (1)
 - [Certik](#certik) (1)
@@ -530,9 +531,9 @@
 - [Instawork](#instawork) (1)
 - [Institute of Foundation Models](#institute-of-foundation-models) (1)
 - [Intact](#intact) (9)
-- [Integra FEC](#integra-fec) (2)
+- [Integra FEC](#integra-fec) (3)
 - [Integrity](#integrity) (1)
-- [Intel](#intel) (5)
+- [Intel](#intel) (4)
 - [Intelcom | Dragonfly](#intelcom-dragonfly) (11)
 - [Intercontinental Exchange, Inc.](#intercontinental-exchange-inc) (1)
 - [Interdigital](#interdigital) (2)
@@ -636,7 +637,6 @@
 - [McDonald's](#mcdonald-s) (1)
 - [MCG Health](#mcg-health) (1)
 - [McNeilus](#mcneilus) (1)
-- [Mechanize](#mechanize) (1)
 - [Medical Informatics Engineering](#medical-informatics-engineering) (1)
 - [Medpace, Inc.](#medpace-inc) (6)
 - [Melotech](#melotech) (3)
@@ -679,7 +679,7 @@
 - [Nash](#nash) (2)
 - [NBCUniversal](#nbcuniversal) (4)
 - [Nelnet](#nelnet) (2)
-- [Netflix](#netflix) (11)
+- [Netflix](#netflix) (12)
 - [Neuralink](#neuralink) (6)
 - [New York Life](#new-york-life) (1)
 - [New York Life Insurance](#new-york-life-insurance) (1)
@@ -1055,6 +1055,7 @@
 - [Verkada](#verkada) (7)
 - [Vertiv](#vertiv) (4)
 - [Very Good Security](#very-good-security) (1)
+- [Veryable](#veryable) (1)
 - [Viasat](#viasat) (2)
 - [Viavi Solutions](#viavi-solutions) (1)
 - [Visa](#visa) (10)
@@ -2296,6 +2297,12 @@
 | --- | --- | --- | --- | --- |
 | [Machine Learning and DSP Research Intern](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Machine-Learning-and-DSP-Research-Intern_R28324) | 68 | Framingham, MA | AI/ML/Data | 2026-05-16 |
 
+## Boston Consulting Group
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI Engineer Intern - BCG X](https://careers.bcg.com/global/en/job/56635) | 85 | London, UK | AI/ML/Data | 2026-05-22 |
+
 ## Boston Scientific
 
 | Title | Score | Location | Department | First seen |
@@ -2597,8 +2604,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Data Analyst Intern - Annotation & Analysis](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Redmond-Washington/Summer-Intern--Annotation---Analysis-_JR107344-1) | 68 | Redmond, WA | AI/ML/Data | 2026-05-21 |
-| [Intern 2](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Redmond-Washington/Summer-Intern-2_JR107170-1) | 68 | Redmond, WA | AI/ML/Data | 2026-05-19 |
 | [Data Analyst Intern](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Redmond-Washington/Summer-Intern-2_JR107169-1) | 68 | Redmond, WA | AI/ML/Data | 2026-05-19 |
 | [PhD Technical Intern - Vision AI](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Redmond-Washington/PhD-Technical-Intern---Vision-AI_JR107223) | 58 | Redmond, WA | Product | 2026-05-16 |
 | [Research Intern - Applied Reinforcement Learning](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Research-Intern---Applied-Reinforcement-Learning_JR106882) | 68 | Remote in USA | AI/ML/Data | 2026-05-16 |
@@ -4901,6 +4906,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data Scientist Intern - PhD](https://job-boards.greenhouse.io/integra/jobs/5134592008) | 93 | Austin, TX | AI/ML/Data | 2026-05-22 |
 | [Data Scientist Intern](https://job-boards.greenhouse.io/integrainterns/jobs/5134593008) | 93 | Austin, TX | AI/ML/Data | 2026-05-19 |
 | [Data Analyst Intern](https://job-boards.greenhouse.io/integrainterns/jobs/5134523008) | 68 | Austin, TX | AI/ML/Data | 2026-05-09 |
 
@@ -4914,7 +4920,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Density Fill Development Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Density-Fill-Development-Engineer-Intern_JR0281342) | 93 | Santa Clara, CA / Hillsboro, OR / Phoenix, AZ | Software | 2026-05-17 |
 | [Design Verification Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/Design-Verification-Engineering-Intern_JR0283524) | 58 | Remote in Canada | Hardware | 2026-05-17 |
 | [Design Methodology Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/Design-Methodology-Engineering-Intern_JR0283526) | 58 | Remote in Canada | Hardware | 2026-05-14 |
 | [Software Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/details/Software-Engineering----Intern--Bachelor-s_JR0276773?workerSubType=dc8bf79476611087dfde99931439ae75&jobFamilyGroup=dc8bf79476611087d67b36517cf17036) | 93 | Hillsboro, OR / Folsom, CA / Santa Clara, CA / Austin, TX / Phoenix, AZ | — | 2026-05-09 |
@@ -5685,12 +5690,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://careers.oshkoshcorp.com/us/en/job/OCNOCKUSR40813EXTERNALENUS/Engineer-Intern-Software-Summer-2026) | 85 | Dodge Center, MN | — | 2026-05-09 |
 
-## Mechanize
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://www.mechanize.work/apply/software-engineer/?role=intern) | 85 | SF | Software | 2026-05-09 |
-
 ## Medical Informatics Engineering
 
 | Title | Score | Location | Department | First seen |
@@ -6061,6 +6060,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Video Algorithms Intern - Video Coding - Gaussian Splatting](https://explore.jobs.netflix.net/careers/job/790315673635) | 60 | LA / Los Gatos, CA | AI/ML/Data | 2026-05-22 |
 | [Machine Learning Engineer Intern, (MS/PhD)](https://netflix.wd1.myworkdayjobs.com/netflix/job/Los-Gatos/Machine-Learning-Engineer-Intern---MS-PhD--2026_JR36512-1) | 93 | Los Gatos, CA / Los Angeles, CA | — | 2026-05-09 |
 | [Analytics Engineer Intern - Summer 2026](https://explore.jobs.netflix.net/careers/job/790313055767) | 85 | LA / Los Gatos, CA | AI/ML/Data | 2026-05-09 |
 | [Data Engineer Intern](https://explore.jobs.netflix.net/careers/job/790313056337) | 85 | LA / Los Gatos, CA | AI/ML/Data | 2026-05-09 |
@@ -7994,8 +7994,8 @@
 | [PhD Data Scientist Intern - Data Science](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
 | [PhD Machine Learning Engineer Intern](https://stripe.com/jobs/search?gh_jid=7216664) | 85 | Seattle, WA / SF / NYC | AI/ML/Data | 2026-05-09 |
 | [Software Engineer Intern](https://stripe.com/jobs/listing/software-engineer-intern-summer-and-winter/7210115) | 85 | South San Francisco, CA / Seattle, WA / New York, NY | — | 2026-05-09 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7216664) | 85 | San Francisco, New York City, Seattle | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
@@ -9051,6 +9051,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Application Security Intern](https://jobs.lever.co/verygoodsecurity/32fe92a6-13d5-4132-b77c-a7a5ed74f38b/apply) | 68 | United States | Software | 2026-05-09 |
+
+## Veryable
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Mobile Engineer Intern - Android/iOS](https://ats.rippling.com/veryable-careers/jobs/cf74672c-c9c5-4be5-8858-04abfd64c20f) | 85 | Dallas, TX | Software | 2026-05-22 |
 
 ## Viasat
 
