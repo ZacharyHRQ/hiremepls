@@ -1,6 +1,6 @@
 # Open Internships
 
-**1626** internships across **63/64** companies — last updated 2026-05-23.
+**1627** internships across **63/64** companies — last updated 2026-05-23.
 
 ## Companies
 
@@ -132,7 +132,7 @@
 - [Chartwells Higher Education Dining Services](#chartwells-higher-education-dining-services) (1)
 - [Cherry Bekaert](#cherry-bekaert) (2)
 - [Chubb](#chubb) (1)
-- [Ciena](#ciena) (1)
+- [Ciena](#ciena) (2)
 - [Cirrus Logic](#cirrus-logic) (2)
 - [Cisive](#cisive) (2)
 - [Citadel](#citadel) (4)
@@ -229,7 +229,6 @@
 - [Eulerity](#eulerity) (4)
 - [Eurofins](#eurofins) (3)
 - [EV Realty](#ev-realty) (1)
-- [Everlaw](#everlaw) (1)
 - [EXL](#exl) (2)
 - [Expedia Group](#expedia-group) (2)
 - [Facility Solutions Group](#facility-solutions-group) (1)
@@ -262,7 +261,7 @@
 - [Gemini](#gemini) (1)
 - [General Astronautics](#general-astronautics) (1)
 - [General Dynamics Mission Systems](#general-dynamics-mission-systems) (3)
-- [General Motors](#general-motors) (3)
+- [General Motors](#general-motors) (2)
 - [GenScript](#genscript) (1)
 - [Genworth](#genworth) (1)
 - [Geotab](#geotab) (11)
@@ -317,7 +316,7 @@
 - [Instawork](#instawork) (1)
 - [Institute of Foundation Models](#institute-of-foundation-models) (1)
 - [Intact](#intact) (4)
-- [Integra FEC](#integra-fec) (3)
+- [Integra FEC](#integra-fec) (1)
 - [Integrity](#integrity) (1)
 - [Intel](#intel) (2)
 - [Intelcom | Dragonfly](#intelcom-dragonfly) (11)
@@ -570,14 +569,14 @@
 - [SWBC](#swbc) (2)
 - [Symmetry Systems](#symmetry-systems) (1)
 - [Synchrony](#synchrony) (1)
-- [Synchrony Financial](#synchrony-financial) (3)
+- [Synchrony Financial](#synchrony-financial) (4)
 - [Taara](#taara) (2)
 - [Takeda](#takeda) (1)
 - [Tandem](#tandem) (1)
 - [Teall Sports & Entertainment](#teall-sports-entertainment) (1)
 - [Techtronic Industries](#techtronic-industries) (1)
 - [Teleo](#teleo) (1)
-- [Tencent](#tencent) (22)
+- [Tencent](#tencent) (23)
 - [TENEX.AI](#tenex-ai) (1)
 - [Tenstorrent](#tenstorrent) (7)
 - [Terranox AI](#terranox-ai) (1)
@@ -616,8 +615,10 @@
 - [Truveta](#truveta) (1)
 - [Tutor Perini Corporation](#tutor-perini-corporation) (1)
 - [Twilio](#twilio) (4)
+- [Tyson Foods](#tyson-foods) (1)
 - [Uber](#uber) (1)
 - [Uncountable](#uncountable) (2)
+- [United Parcel Service (UPS)](#united-parcel-service-ups) (1)
 - [Unity](#unity) (1)
 - [University Health Network](#university-health-network) (1)
 - [University System of New Hampshire](#university-system-of-new-hampshire) (1)
@@ -1209,7 +1210,7 @@
 | [Engagement & Enablement Specialist Co-op/Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Engagement---Enablement-Specialist--Fall-2026--Co-op-Internship------4-months_R260015283) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-05-21 |
 | [Machine Learning Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Chicago-IL-USA/Machine-Learning-Intern--Fall-2026--Internship----4-months_R260014372) | 68 | Chicago, IL | AI/ML/Data | 2026-05-14 |
 | [Junior Software Developer Co-op/Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Junior-Software-Developer--Fall-2026--Co-op-Internship----4-Months_R260013614) | 93 | Toronto, ON, Canada | Software | 2026-05-09 |
-| [Software Developer Co-op/Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Developer--Fall-2026--Co-op-Internship----4-Months_R260013615-3) | 93 | Toronto, ON, Canada | Software | 2026-05-09 |
+| [Software Developer Co-op/Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Developer--Fall-2026--Co-op-Internship----8-Months_R260013663) | 93 | Toronto, ON, Canada | Software | 2026-05-09 |
 | [Analyst Co-op/Intern - Months](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Analyst--Fall-2026--Co-op-Internship----12-Months_R260013681-2) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
 | [Cloud Business & Strategy Analytics Analyst Co-op/Internship](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Cloud-Business---Strategy-Analytics-Analyst--Fall-2026--Co-op-Internship----4-Months_R260013662) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
 
@@ -1354,7 +1355,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Validation Intern](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Validation-Intern--Year-Round-_R2026-1960) | 58 | Kokomo, IN | Hardware | 2026-05-18 |
+| [Validation Intern](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Validation-Intern--Year-Round-_R2026-1958-1) | 58 | Kokomo, IN | Hardware | 2026-05-18 |
 
 ## Bosch
 
@@ -1584,6 +1585,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Network Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-UK/Network-Engineer-Intern--12-Months-_R030434) | 93 | Remote in Germany / Remote in UK | Software | 2026-05-23 |
 | [Hardware Design and Verification Intern - Pcba](https://ciena.wd5.myworkdayjobs.com/Careers/job/Canada--Ottawa--383-Terry-Fox--Bldg-C/Hardware--PCBA--Design-and-Verification-Intern--Fall-2026-_R030823) | 58 | Ottawa, ON, Canada | Hardware | 2026-05-17 |
 
 ## Cirrus Logic
@@ -2262,12 +2264,6 @@
 | --- | --- | --- | --- | --- |
 | [Data Analytics Intern](https://jobs.lever.co/evrealty-us/0274f48f-9b19-4bed-bf6a-5e02a2b1e865/apply) | 68 | Salt Lake City, UT / SF | AI/ML/Data | 2026-05-22 |
 
-## Everlaw
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [GTM Data Analyst Intern](https://job-boards.greenhouse.io/everlaw/jobs/4676925006) | 68 | Oakland, CA | AI/ML/Data | 2026-05-20 |
-
 ## EXL
 
 | Title | Score | Location | Department | First seen |
@@ -2488,7 +2484,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Intern - AI/ML Engineer - Cloud and Developer Infrastructure](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Engineer--Cloud-and-Developer-Infrastructure--Master-s-_JR-202524316) | 93 | Milford Charter Twp, MI / Austin, TX / Detroit, MI / Sunnyvale, CA / Mountain View, CA / Warren, MI | AI/ML/Data | 2026-05-23 |
-| [AV Software Safety Intern](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/AV-Software-Safety-Intern---Fall-2026_JR-202611005) | 68 | Markham, ON, Canada | Hardware | 2026-05-19 |
 | [2026 Summer Intern - Software Engineer, Machine Learning Validation (PhD)](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Software-Engineer--Machine-Learning-Validation--PhD-_JR-202523181) | 93 | Mountain View, CA / Sunnyvale, CA | Data Science, AI & Machine Learning | 2026-05-09 |
 
 ## GenScript
@@ -2875,8 +2870,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Data Scientist Intern - PhD](https://job-boards.greenhouse.io/integra/jobs/5134592008) | 93 | Austin, TX | AI/ML/Data | 2026-05-23 |
-| [Data Scientist Intern](https://job-boards.greenhouse.io/integrainterns/jobs/5134593008) | 93 | Austin, TX | AI/ML/Data | 2026-05-19 |
 | [Data Analyst Intern](https://job-boards.greenhouse.io/integrainterns/jobs/5134523008) | 68 | Austin, TX | AI/ML/Data | 2026-05-09 |
 
 ## Integrity
@@ -4712,8 +4705,8 @@
 | [PhD Data Scientist Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | Seattle, WA / SF / Chicago, IL / NYC | AI/ML/Data | 2026-05-09 |
 | [PhD Data Scientist Intern - Data Science](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
 | [PhD Machine Learning Engineer Intern](https://stripe.com/jobs/search?gh_jid=7216664) | 85 | Seattle, WA / SF / NYC | AI/ML/Data | 2026-05-09 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7216664) | 85 | San Francisco, New York City, Seattle | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
@@ -4781,6 +4774,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Emerging Technology Intern](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/University-of-Illinois-Site/Emerging-Technology-Intern---Summer-2026_2503438) | 68 | Urbana, IL | AI/ML/Data | 2026-05-23 |
 | [Uconn Digital Technology Center Intern](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Site/UConn-Stamford-Digital-Technology-Center-Intern---Summer-2026_2503437-2) | 68 | Stamford, CT | Software | 2026-05-17 |
 | [Software Engineer Intern](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Canton-Remote-OH/Software-Engineer-Intern---Summer-2026_2503435-2) | 93 | Canton, OH / Ohio / Cincinnati, OH | Software | 2026-05-17 |
 | [Technology Intern](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Other-Remote-NY/Technology-Intern---Summer-2026_2503436) | 68 | NYC | Software | 2026-05-09 |
@@ -4826,6 +4820,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Product Manager Intern - Influencer Marketing](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/Netherlands-Amsterdam/Product-Manager-Intern--Influencer-Marketing_R107233) | 38 | London, UK | Product | 2026-05-23 |
 | [Game Research & Development Intern - Engine Research](https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/US-Washington-Bellevue/Game-Research---Development-Intern--Engine-Research_R107363) | 68 | Bellevue, WA | Software | 2026-05-20 |
 | [Agent Development Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Agent-Development-Intern_R107276-2) | 68 | London, UK | Software | 2026-05-20 |
 | [Agent Evaluation Intern](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/UK-London/Agent-Evaluation-Intern_R107491) | 68 | London, UK | Software | 2026-05-20 |
@@ -4839,7 +4834,7 @@
 | [Research Intern - Video World Models](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Research-Intern---Video-World-Models_R106904-1) | 68 | Palo Alto, CA | AI/ML/Data | 2026-05-17 |
 | [Hunyuan Multimodal Algorithm Researcher intern - Omni-Modal](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650) | 93 | Palo Alto, CA | AI/ML/Data | 2026-05-17 |
 | [Publishing Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Irvine-Co-working/Publishing-Intern_R107466) | 58 | Irvine, CA | Product | 2026-05-16 |
-| [Hunyuan Multimodal Reinforcement Learning Research Intern](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Hunyuan-Multimodal-Reinforcement-Learning-Research-Intern_R107084) | 68 | Palo Alto, CA | AI/ML/Data | 2026-05-13 |
+| [Hunyuan Multimodal Reinforcement Learning Research Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Reinforcement-Learning-Research-Intern_R107084-1) | 68 | Palo Alto, CA | AI/ML/Data | 2026-05-13 |
 | [Research Intern](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-Washington-Bellevue/Research-Internship---Reinforcement-Learning-for-Large-Foundation-Models_R106337) | 68 | Bellevue, WA | AI/ML/Data | 2026-05-13 |
 | [Engine Developer Intern - Gaming](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Engine-Developer-Intern--Gaming_R107109-1) | 93 | London, UK | Software | 2026-05-09 |
 | [Generative AI Research Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Generative-AI-Reaserch-Intern_R107222-1) | 68 | London, UK | AI/ML/Data | 2026-05-09 |
@@ -5263,6 +5258,12 @@
 | [Graphic Design Intern (June 22nd start, 12 weeks)](https://job-boards.greenhouse.io/twilio/jobs/7835625) | 58 | Remote - US | — | 2026-05-06 |
 | [Technical Video Content Intern, Developer Ecosystem](https://job-boards.greenhouse.io/twilio/jobs/7748961) | 58 | Remote - US | — | 2026-05-06 |
 
+## Tyson Foods
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Poultry & Fresh Meats Innovation Intern](https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Poultry---Fresh-Meats-Innovation-Year-Round-Intern_R0459451-2) | 58 | Springdale, AR | Product | 2026-05-23 |
+
 ## Uber
 
 | Title | Score | Location | Department | First seen |
@@ -5275,6 +5276,12 @@
 | --- | --- | --- | --- | --- |
 | [Full-Stack Intern](https://jobs.lever.co/uncountable/6328427a-9047-44d5-82d6-56d533d8622e) | 68 | San Francisco, CA / New York, NY / London, UK | Software Engineering | 2026-05-09 |
 | [Full-Stack Intern](https://jobs.ashbyhq.com/uncountable/b9495eab-c04c-4333-b338-7dabdbddcaae/application) | 68 | London, UK / SF / NYC / Munich, Germany | Software | 2026-05-09 |
+
+## United Parcel Service (UPS)
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [HR Intern – Data Analytics Focus](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/HR-Intern--Data-Analytics-Focus--Summer-2026-_R26013136) | 68 | Atlanta, GA | AI/ML/Data | 2026-05-23 |
 
 ## Unity
 
