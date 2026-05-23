@@ -1,6 +1,6 @@
 # Open Internships
 
-**1681** internships across **63/64** companies — last updated 2026-05-23.
+**1680** internships across **63/64** companies — last updated 2026-05-23.
 
 ## Companies
 
@@ -568,7 +568,6 @@
 - [SpaceX](#spacex) (3)
 - [Sparksoft](#sparksoft) (4)
 - [Squarepoint Capital](#squarepoint-capital) (8)
-- [SRI International](#sri-international) (1)
 - [SS&C](#ss-c) (4)
 - [StarSling](#starsling) (1)
 - [State Street](#state-street) (1)
@@ -4790,12 +4789,6 @@
 | [Intern Software Developer - Summer 2026](https://www.squarepoint-capital.com/open-opportunities?id=7231006&gh_jid=7231006) | 85 | Warsaw | — | 2026-05-06 |
 | [Trading Infrastructure Specialist – Graduate Programme](https://www.squarepoint-capital.com/open-opportunities?id=7757021&gh_jid=7757021) | 66 | London, Montreal, Hong Kong, New York, Singapore | — | 2026-05-06 |
 | [Graduate Support Specialist](https://www.squarepoint-capital.com/open-opportunities?id=6100081&gh_jid=6100081) | 56 | London, Montreal, New York, Houston, Hong Kong | — | 2026-05-06 |
-
-## SRI International
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Intern – Computational and Applied Mathematics](https://careers-sri.icims.com/jobs/6288/job?mobile=true&needsRedirect=false) | 60 | Menlo Park, CA | AI/ML/Data | 2026-05-09 |
 
 ## SS&C
 

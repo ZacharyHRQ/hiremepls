@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-23T19:48:53.019Z",
+  "generatedAt": "2026-05-23T20:38:48.552Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1681,
+  "jobCount": 1680,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -273,7 +273,6 @@
     "canonical:88079371a8e904df": "2026-05-09T15:28:15.527Z",
     "canonical:421608d6fc539581": "2026-05-09T15:28:15.527Z",
     "canonical:319c798660659511": "2026-05-09T15:28:15.527Z",
-    "canonical:c604ec4c008abbd7": "2026-05-09T15:28:15.527Z",
     "canonical:a85d35081103309e": "2026-05-09T15:28:15.527Z",
     "canonical:d46502a1f7280b8f": "2026-05-09T15:28:15.527Z",
     "canonical:4a7e7f97cc1efba4": "2026-05-09T15:28:15.527Z",
@@ -5189,18 +5188,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:c604ec4c008abbd7",
-      "title": "Intern – Computational and Applied Mathematics",
-      "url": "https://careers-sri.icims.com/jobs/6288/job?mobile=true&needsRedirect=false",
-      "location": "Menlo Park, CA",
-      "department": "AI/ML/Data",
-      "company": "SRI International",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {
