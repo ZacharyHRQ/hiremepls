@@ -1,6 +1,6 @@
 # Open Internships
 
-**1682** internships across **63/64** companies — last updated 2026-05-23.
+**1681** internships across **63/64** companies — last updated 2026-05-23.
 
 ## Companies
 
@@ -21,6 +21,7 @@
 - [Airbus](#airbus) (1)
 - [Akuna Capital](#akuna-capital) (1)
 - [Al Warren Oil Company](#al-warren-oil-company) (2)
+- [Allegion](#allegion) (1)
 - [Allium](#allium) (1)
 - [Alo Yoga](#alo-yoga) (6)
 - [Alston & Bird Law Firm](#alston-bird-law-firm) (1)
@@ -166,7 +167,7 @@
 - [Corning](#corning) (1)
 - [CoStar Group](#costar-group) (1)
 - [Cotiviti](#cotiviti) (3)
-- [Coupang](#coupang) (2)
+- [Coupang](#coupang) (1)
 - [Covestro](#covestro) (1)
 - [Crane Co.](#crane-co) (2)
 - [Creatify Lab ](#creatify-lab) (1)
@@ -633,7 +634,7 @@
 - [Twilio](#twilio) (4)
 - [Tyson Foods](#tyson-foods) (1)
 - [Uber](#uber) (1)
-- [Uncountable](#uncountable) (2)
+- [Uncountable](#uncountable) (1)
 - [United Parcel Service (UPS)](#united-parcel-service-ups) (1)
 - [Unity](#unity) (1)
 - [University Health Network](#university-health-network) (1)
@@ -797,6 +798,12 @@
 | --- | --- | --- | --- | --- |
 | [Software Developer Intern](https://apply.workable.com/al-warren-oil-company-inc/j/CAD4BF1C9C/apply) | 93 | Elk Grove Village, IL | Software | 2026-05-09 |
 | [Software Developer Intern](https://apply.workable.com/al-warren-oil-company-inc/j/A4487B349D/) | 93 | Bensenville, IL | — | 2026-05-09 |
+
+## Allegion
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Software-Engineer_JR33690) | 93 | Carmel, IN | Software | 2026-05-23 |
 
 ## Allium
 
@@ -1875,7 +1882,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [AI Software Engineer Intern](https://www.coupang.jobs/en/jobs/?gh_jid=7939700) | 85 | Seattle, WA | Software | 2026-05-23 |
-| [Machine Learning Intern - AQ](https://www.coupang.jobs/en/jobs/?gh_jid=7954074) | 60 | Mountain View, CA | AI/ML/Data | 2026-05-22 |
 
 ## Covestro
 
@@ -5423,7 +5429,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Full-Stack Intern](https://jobs.lever.co/uncountable/6328427a-9047-44d5-82d6-56d533d8622e) | 68 | San Francisco, CA / New York, NY / London, UK | Software Engineering | 2026-05-09 |
 | [Full-Stack Intern](https://jobs.ashbyhq.com/uncountable/b9495eab-c04c-4333-b338-7dabdbddcaae/application) | 68 | London, UK / SF / NYC / Munich, Germany | Software | 2026-05-09 |
 
 ## United Parcel Service (UPS)
