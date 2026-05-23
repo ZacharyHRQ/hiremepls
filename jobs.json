@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-23T21:36:29.923Z",
+  "generatedAt": "2026-05-23T22:34:17.577Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1681,
+  "jobCount": 1680,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1637,7 +1637,6 @@
     "canonical:7621f3e1f686b2a6": "2026-05-23T16:29:56.405Z",
     "canonical:f6ccc8105f8c92a2": "2026-05-23T16:29:56.405Z",
     "canonical:85f938c896a579e7": "2026-05-23T16:29:56.405Z",
-    "canonical:b34ee6f6e7d3ffb3": "2026-05-23T16:29:56.405Z",
     "canonical:420c972c136b0661": "2026-05-23T16:29:56.405Z",
     "canonical:d01af5332851bd44": "2026-05-23T16:29:56.405Z",
     "canonical:f67ccd38fce2d6a4": "2026-05-23T17:34:41.089Z",
@@ -19153,19 +19152,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:b34ee6f6e7d3ffb3",
-      "title": "AV Software Safety Intern",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/AV-Software-Safety-Intern---Fall-2026_JR-202611005",
-      "location": "Markham, ON, Canada",
-      "department": "Hardware",
-      "company": "General Motors",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
