@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T22:34:17.577Z",
+  "generatedAt": "2026-05-23T23:40:04.807Z",
   "companyCount": 64,
   "okCount": 63,
   "jobCount": 1680,
@@ -1329,7 +1329,6 @@
     "canonical:b4d0ab390e53ff6a": "2026-05-17T04:18:58.240Z",
     "canonical:c7d151d164da102c": "2026-05-17T04:18:58.240Z",
     "canonical:7ffa9dc09a6c8ef4": "2026-05-17T04:18:58.240Z",
-    "canonical:2a353ec98bdd7b7d": "2026-05-17T04:18:58.240Z",
     "canonical:c24fa2c293373870": "2026-05-17T04:18:58.240Z",
     "canonical:ff280c9810ac0117": "2026-05-17T04:18:58.240Z",
     "canonical:08367d3bcfaed026": "2026-05-17T04:18:58.240Z",
@@ -1683,7 +1682,8 @@
     "canonical:103a322744212e14": "2026-05-23T18:41:12.286Z",
     "canonical:ac0760c809ad036d": "2026-05-23T18:41:12.286Z",
     "canonical:614b1b003606988c": "2026-05-23T19:48:53.019Z",
-    "canonical:c604ec4c008abbd7": "2026-05-23T21:36:29.923Z"
+    "canonical:c604ec4c008abbd7": "2026-05-23T21:36:29.923Z",
+    "canonical:b34ee6f6e7d3ffb3": "2026-05-23T23:40:04.807Z"
   },
   "jobs": [
     {
@@ -8048,19 +8048,6 @@
         "high-signal role",
         "direct ATS",
         "lower-fit title"
-      ]
-    },
-    {
-      "id": "canonical:2a353ec98bdd7b7d",
-      "title": "Summer Research Intern - Radiology - Radiology",
-      "url": "https://nshs.wd1.myworkdayjobs.com/ns-eeh/job/NSO-1033-University-Place-Evanston/Summer-Research-Intern-Radiology_R14923-1",
-      "location": "Evanston, IL",
-      "department": "AI/ML/Data",
-      "company": "Endeavor Health",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -19152,6 +19139,19 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:b34ee6f6e7d3ffb3",
+      "title": "AV Software Safety Intern",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/AV-Software-Safety-Intern---Fall-2026_JR-202611005",
+      "location": "Markham, ON, Canada",
+      "department": "Hardware",
+      "company": "General Motors",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
