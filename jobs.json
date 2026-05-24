@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T14:25:01.324Z",
+  "generatedAt": "2026-05-24T15:40:56.517Z",
   "companyCount": 64,
   "okCount": 63,
   "jobCount": 1677,
@@ -663,7 +663,6 @@
     "canonical:c26baf9380adb64a": "2026-05-09T15:28:15.527Z",
     "canonical:93ed244dfc406d11": "2026-05-09T15:28:15.527Z",
     "canonical:1715f95e1342997c": "2026-05-09T15:28:15.527Z",
-    "canonical:be0e0bf98ddeda55": "2026-05-09T15:28:15.527Z",
     "canonical:b7c7dff639dc9b3e": "2026-05-09T15:28:15.527Z",
     "canonical:6bc98e794c801a9d": "2026-05-09T15:28:15.527Z",
     "canonical:02233db9458d09d9": "2026-05-09T15:28:15.527Z",
@@ -1680,7 +1679,8 @@
     "canonical:b34ee6f6e7d3ffb3": "2026-05-23T23:40:04.807Z",
     "canonical:2a353ec98bdd7b7d": "2026-05-24T01:34:34.329Z",
     "canonical:baa1b54cf4f2493f": "2026-05-24T08:16:29.504Z",
-    "canonical:0c57524d1162f8c8": "2026-05-24T10:15:37.116Z"
+    "canonical:0c57524d1162f8c8": "2026-05-24T10:15:37.116Z",
+    "canonical:8ae92be54f335db6": "2026-05-24T15:40:56.517Z"
   },
   "jobs": [
     {
@@ -11390,19 +11390,6 @@
       ]
     },
     {
-      "id": "canonical:be0e0bf98ddeda55",
-      "title": "Research Scientist Intern - Trust and Safety - CV/NLP/Multimodal LLM",
-      "url": "https://lifeattiktok.com/search/7527582397938223367",
-      "location": "San Jose, CA",
-      "department": "AI/ML/Data",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:b7c7dff639dc9b3e",
       "title": "Machine Learning Engineer Intern - Tiktok Search Team - 2026 Summer",
       "url": "https://lifeattiktok.com/search/7534852684386617618",
@@ -14463,6 +14450,19 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:8ae92be54f335db6",
+      "title": "Data Science Intern",
+      "url": "https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4677172006",
+      "location": "Vancouver, BC, Canada",
+      "department": "AI/ML/Data",
+      "company": "Visier Solutions",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {

@@ -609,7 +609,7 @@
 - [Thermo Fisher Scientific](#thermo-fisher-scientific) (1)
 - [Thomson Reuters](#thomson-reuters) (2)
 - [thyssenkrupp](#thyssenkrupp) (1)
-- [TikTok](#tiktok) (137)
+- [TikTok](#tiktok) (136)
 - [Tilde Research](#tilde-research) (2)
 - [tldraw](#tldraw) (1)
 - [TMEIC](#tmeic) (1)
@@ -650,6 +650,7 @@
 - [Very Good Security](#very-good-security) (1)
 - [Veryable](#veryable) (1)
 - [Viavi Solutions](#viavi-solutions) (1)
+- [Visier Solutions](#visier-solutions) (1)
 - [Vital Lyfe](#vital-lyfe) (1)
 - [Voloridge Investment Management](#voloridge-investment-management) (1)
 - [Voltus](#voltus) (1)
@@ -5181,7 +5182,6 @@
 | [Research Scientist Intern - TikTok Recommendation](https://lifeattiktok.com/search/7625928030560700725) | 85 | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Research Scientist Intern - Tiktok Recommendation-Llms - Rl](https://lifeattiktok.com/search/7519766495683053832) | 85 | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Research Scientist Intern - Tiktok-Recommendation-Content Intelligence - 2026 Start','PhD](https://lifeattiktok.com/search/7519247984258566408) | 85 | San Jose, CA | AI/ML/Data | 2026-05-09 |
-| [Research Scientist Intern - Trust and Safety - CV/NLP/Multimodal LLM](https://lifeattiktok.com/search/7527582397938223367) | 85 | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Researcher Intern - Vision and Graphics - 2026 Start](https://lifeattiktok.com/search/7528196025854380306) | 85 | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Security Software Engineer Project Intern - Product Security - 2026 Start](https://lifeattiktok.com/search/7600535181632457013) | 85 | San Jose, CA | Software | 2026-05-09 |
 | [Software Engineer Intern - Ads Infrastructure](https://lifeattiktok.com/search/7572665884037826869) | 85 | San Jose, CA | Software | 2026-05-09 |
@@ -5530,6 +5530,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Wireless Network Lab Intern](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Chandler-AZ-USA/Wireless-Network-Lab-Intern_260004580-1) | 68 | Chandler, AZ | AI/ML/Data | 2026-05-09 |
+
+## Visier Solutions
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data Science Intern](https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4677172006) | 68 | Vancouver, BC, Canada | AI/ML/Data | 2026-05-24 |
 
 ## Vital Lyfe
 
