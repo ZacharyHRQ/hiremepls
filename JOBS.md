@@ -1,6 +1,6 @@
 # Open Internships
 
-**1680** internships across **63/64** companies — last updated 2026-05-24.
+**1677** internships across **63/64** companies — last updated 2026-05-24.
 
 ## Companies
 
@@ -83,7 +83,7 @@
 - [Bank of Montreal](#bank-of-montreal) (6)
 - [Barkback](#barkback) (1)
 - [Base Power](#base-power) (1)
-- [BDO Canada](#bdo-canada) (2)
+- [BDO Canada](#bdo-canada) (1)
 - [beBeeManufacturingEngineering](#bebeemanufacturingengineering) (1)
 - [Berkshire Grey](#berkshire-grey) (1)
 - [Berkshire Hathaway Energy](#berkshire-hathaway-energy) (14)
@@ -167,7 +167,6 @@
 - [Corning](#corning) (1)
 - [CoStar Group](#costar-group) (1)
 - [Cotiviti](#cotiviti) (3)
-- [Coupang](#coupang) (1)
 - [Covestro](#covestro) (1)
 - [Crane Co.](#crane-co) (2)
 - [Creatify Lab ](#creatify-lab) (1)
@@ -465,7 +464,6 @@
 - [Pega](#pega) (1)
 - [PennState University](#pennstate-university) (2)
 - [Pennsylvania State University](#pennsylvania-state-university) (6)
-- [Per Scholas](#per-scholas) (1)
 - [Perpay](#perpay) (1)
 - [Perplexity](#perplexity) (3)
 - [Perplexity AI](#perplexity-ai) (1)
@@ -1264,7 +1262,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Full-Stack Developer Intern/Co-op](https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Co-op-or-Intern--Full-Stack-Developer--September-2026-_JR6289) | 93 | Toronto, ON, Canada / Oakville, ON, Canada / Ottawa, ON, Canada | Software | 2026-05-15 |
-| [Data & Analytics Co-op/Intern - Data & Analytics](https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Co-op-or-Intern--Data---Analytics--September-2026-_JR6295) | 68 | Montreal, QC, Canada / Toronto, ON, Canada / Calgary, AB, Canada / Oakville, ON, Canada / Ottawa, ON, Canada / Vancouver, BC, Canada / Halifax Regional Municipality, NS, Canada | AI/ML/Data | 2026-05-15 |
 
 ## beBeeManufacturingEngineering
 
@@ -1875,12 +1872,6 @@
 | [Temporary Intern - Data Analytics](https://careers-cotiviti.icims.com/jobs/18676/job?mobile=true&needsRedirect=false) | 60 | Remote in USA | AI/ML/Data | 2026-05-12 |
 | [Generative AI/Agentic AI/Research Intern](https://careers-cotiviti.icims.com/jobs/18929/job?mobile=true&needsRedirect=false) | 60 | Remote in USA | AI/ML/Data | 2026-05-09 |
 | [Temporary Intern - Agentic AI & Neural-Symbolic Systems - Healthcare](https://careers-cotiviti.icims.com/jobs/19075/job?mobile=true&needsRedirect=false) | 60 | Remote in USA | Software | 2026-05-09 |
-
-## Coupang
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI Software Engineer Intern](https://www.coupang.jobs/en/jobs/?gh_jid=7939700) | 85 | Seattle, WA | Software | 2026-05-23 |
 
 ## Covestro
 
@@ -4023,12 +4014,6 @@
 | [Research Engineering Interns Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Engineering-Interns_REQ_0000071407-1) | 58 | State College, PA | Hardware | 2026-05-17 |
 | [R&D Engineer Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000068582-1) | 58 | State College, PA | Hardware | 2026-05-17 |
 | [AI/ML Research and Development Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/AI-ML-Research-and-Development-Intern_REQ_0000077083-1) | 68 | State College, PA / Reston, VA | AI/ML/Data | 2026-05-09 |
-
-## Per Scholas
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Research Intern](https://job-boards.greenhouse.io/perscholashires/jobs/4682217006) | 68 | United States | AI/ML/Data | 2026-05-21 |
 
 ## Perpay
 

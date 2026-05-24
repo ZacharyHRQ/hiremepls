@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-24T01:34:34.329Z",
+  "generatedAt": "2026-05-24T05:46:18.069Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1680,
+  "jobCount": 1677,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1069,7 +1069,6 @@
     "canonical:e3d1265b09cd0df1": "2026-05-15T00:08:35.274Z",
     "canonical:3457d942981f8a8d": "2026-05-15T00:08:35.274Z",
     "canonical:68184665a137dc8b": "2026-05-15T00:08:35.274Z",
-    "canonical:e5352ecac86f34d9": "2026-05-15T00:08:35.274Z",
     "canonical:e4240dee8fc1eab4": "2026-05-15T00:08:35.274Z",
     "canonical:87c70fd457783995": "2026-05-15T00:08:35.274Z",
     "canonical:9488bf8e45ec33b9": "2026-05-15T04:15:31.167Z",
@@ -1509,7 +1508,6 @@
     "canonical:6d2b51735193e51d": "2026-05-21T23:51:28.973Z",
     "canonical:979aefe558e75f57": "2026-05-21T23:51:28.973Z",
     "canonical:25f9fc9acfe64ae6": "2026-05-21T23:51:28.973Z",
-    "canonical:baa1b54cf4f2493f": "2026-05-21T23:51:28.973Z",
     "canonical:6f1c4b11d1e2a83e": "2026-05-21T23:51:28.973Z",
     "canonical:11cee6aa9590718b": "2026-05-21T23:51:28.973Z",
     "canonical:89e7b0c6b4dfe205": "2026-05-21T23:51:28.973Z",
@@ -1560,7 +1558,6 @@
     "canonical:1ed5a7059fed0450": "2026-05-22T22:57:08.943Z",
     "canonical:2e51f17f71bee78d": "2026-05-23T00:02:34.826Z",
     "canonical:6b24f14c98dc711c": "2026-05-23T00:02:34.826Z",
-    "canonical:61833014008ff73b": "2026-05-23T00:02:34.826Z",
     "canonical:a20ccbf2ea91ff94": "2026-05-23T00:02:34.826Z",
     "canonical:d6924ab3834ef5dc": "2026-05-23T00:02:34.826Z",
     "canonical:8897923fa0d36177": "2026-05-23T00:02:34.826Z",
@@ -18209,19 +18206,6 @@
       ]
     },
     {
-      "id": "canonical:e5352ecac86f34d9",
-      "title": "Data & Analytics Co-op/Intern - Data & Analytics",
-      "url": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Co-op-or-Intern--Data---Analytics--September-2026-_JR6295",
-      "location": "Montreal, QC, Canada / Toronto, ON, Canada / Calgary, AB, Canada / Oakville, ON, Canada / Ottawa, ON, Canada / Vancouver, BC, Canada / Halifax Regional Municipality, NS, Canada",
-      "department": "AI/ML/Data",
-      "company": "BDO Canada",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:e4240dee8fc1eab4",
       "title": "Computational Neuroscience Intern - Data Analysis and Modeling",
       "url": "https://jobs.ashbyhq.com/astera/d20c0641-1b3e-4666-bc08-4f90ee813261/application",
@@ -19848,19 +19832,6 @@
       ]
     },
     {
-      "id": "canonical:61833014008ff73b",
-      "title": "AI Software Engineer Intern",
-      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7939700",
-      "location": "Seattle, WA",
-      "department": "Software",
-      "company": "Coupang",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:58dc2e0e785f5d2d",
       "title": "Application Engineer Intern",
       "url": "https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Troy-Michigan/Application-Engineer-Intern--Summer-2026-_R13999",
@@ -20014,19 +19985,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:baa1b54cf4f2493f",
-      "title": "Data Research Intern",
-      "url": "https://job-boards.greenhouse.io/perscholashires/jobs/4682217006",
-      "location": "United States",
-      "department": "AI/ML/Data",
-      "company": "Per Scholas",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
