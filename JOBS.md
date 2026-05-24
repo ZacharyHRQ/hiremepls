@@ -12,7 +12,7 @@
 - [Accuray](#accuray) (1)
 - [AccuWeather](#accuweather) (1)
 - [ACI Worldwide ](#aci-worldwide) (3)
-- [Adobe](#adobe) (3)
+- [Adobe](#adobe) (4)
 - [Adtheorant](#adtheorant) (1)
 - [Advanced Energy](#advanced-energy) (1)
 - [Advantmed](#advantmed) (1)
@@ -362,7 +362,7 @@
 - [Labelbox](#labelbox) (1)
 - [Lambda](#lambda) (2)
 - [Landis+Gyr](#landis-gyr) (1)
-- [Lawrence Livermore National Laboratory (LLNL)](#lawrence-livermore-national-laboratory-llnl) (2)
+- [Lawrence Livermore National Laboratory (LLNL)](#lawrence-livermore-national-laboratory-llnl) (1)
 - [Layup Parts](#layup-parts) (1)
 - [LegalZoom](#legalzoom) (1)
 - [Legrand](#legrand) (1)
@@ -741,6 +741,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [AI/ML Intern – Machine Learning Engineer/Researcher Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706) | 93 | Seattle, WA / SF / San Jose, CA | AI/ML/Data | 2026-05-24 |
 | [MBA Intern - Product Manager](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2026-MBA-Intern---Product-Manager_R160316) | 58 | SF / San Jose, CA | Product | 2026-05-23 |
 | [Research Scientist/Engineer Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Research-Scientist-Engineer_R160317) | 93 | Seattle, WA / Toronto, ON, Canada / SF / Lafayette, KS / San Jose, CA / Hyattsville, MD / NYC | AI/ML/Data | 2026-05-17 |
 | [AI/ML Intern - Machine Learning Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer_R158493) | 93 | Seattle, WA / SF / Austin, TX / San Jose, CA / Waltham, MA / NYC / Lehi, UT | AI/ML/Data | 2026-05-16 |
@@ -3214,7 +3215,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Undergraduate Intern](https://jobs.smartrecruiters.com/LLNL/3743990013265476) | 58 | Livermore, CA | Hardware | 2026-05-22 |
 | [Predictive Science Academic Alliance Program 4 Student Intern - Psaap IV](https://jobs.smartrecruiters.com/LLNL/3743990010157416) | 68 | Livermore, CA | AI/ML/Data | 2026-05-09 |
 
 ## Layup Parts
@@ -4841,8 +4841,8 @@
 | [PhD Data Scientist Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | Seattle, WA / SF / Chicago, IL / NYC | AI/ML/Data | 2026-05-09 |
 | [PhD Data Scientist Intern - Data Science](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
 | [PhD Machine Learning Engineer Intern](https://stripe.com/jobs/search?gh_jid=7216664) | 85 | Seattle, WA / SF / NYC | AI/ML/Data | 2026-05-09 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7216664) | 85 | San Francisco, New York City, Seattle | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |

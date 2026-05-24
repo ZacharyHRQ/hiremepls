@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T08:16:29.504Z",
+  "generatedAt": "2026-05-24T10:15:37.116Z",
   "companyCount": 64,
   "okCount": 63,
   "jobCount": 1677,
@@ -1523,7 +1523,6 @@
     "canonical:8827f4e2d1bb2040": "2026-05-21T23:51:28.973Z",
     "canonical:799cee3e944790ae": "2026-05-22T02:15:03.911Z",
     "canonical:c913ff9d74716a9b": "2026-05-22T02:15:03.911Z",
-    "canonical:487227ae7a2ebb6c": "2026-05-22T02:15:03.911Z",
     "canonical:77542c49fff41020": "2026-05-22T02:15:03.911Z",
     "canonical:5a5fd738be504405": "2026-05-22T02:15:03.911Z",
     "canonical:73cd4f2761a3469b": "2026-05-22T09:54:00.041Z",
@@ -1680,7 +1679,8 @@
     "canonical:c604ec4c008abbd7": "2026-05-23T21:36:29.923Z",
     "canonical:b34ee6f6e7d3ffb3": "2026-05-23T23:40:04.807Z",
     "canonical:2a353ec98bdd7b7d": "2026-05-24T01:34:34.329Z",
-    "canonical:baa1b54cf4f2493f": "2026-05-24T08:16:29.504Z"
+    "canonical:baa1b54cf4f2493f": "2026-05-24T08:16:29.504Z",
+    "canonical:0c57524d1162f8c8": "2026-05-24T10:15:37.116Z"
   },
   "jobs": [
     {
@@ -2556,10 +2556,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2569,10 +2569,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -20211,18 +20211,6 @@
       ]
     },
     {
-      "id": "canonical:487227ae7a2ebb6c",
-      "title": "Undergraduate Intern",
-      "url": "https://jobs.smartrecruiters.com/LLNL/3743990013265476",
-      "location": "Livermore, CA",
-      "department": "Hardware",
-      "company": "Lawrence Livermore National Laboratory (LLNL)",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:77542c49fff41020",
       "title": "Machine Learning Engineer Intern - Brand Ads",
       "url": "https://lifeattiktok.com/search/7600578929549035829",
@@ -20752,6 +20740,20 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:0c57524d1162f8c8",
+      "title": "AI/ML Intern – Machine Learning Engineer/Researcher Intern",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706",
+      "location": "Seattle, WA / SF / San Jose, CA",
+      "department": "AI/ML/Data",
+      "company": "Adobe",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
