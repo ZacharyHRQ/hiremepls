@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T05:46:18.069Z",
+  "generatedAt": "2026-05-24T08:16:29.504Z",
   "companyCount": 64,
   "okCount": 63,
   "jobCount": 1677,
@@ -1343,7 +1343,6 @@
     "canonical:a41b1e3cc585772b": "2026-05-17T04:18:58.240Z",
     "canonical:9b4d939ce8f1fb4b": "2026-05-17T04:18:58.240Z",
     "canonical:e9362a0768cb5f36": "2026-05-17T04:18:58.240Z",
-    "canonical:75fb3a2f9e343a79": "2026-05-17T07:19:48.510Z",
     "canonical:518ff7a9e893c61e": "2026-05-17T07:19:48.510Z",
     "canonical:6f55f3db87744549": "2026-05-17T07:19:48.510Z",
     "canonical:cdbe4756a5d97231": "2026-05-17T07:19:48.510Z",
@@ -1680,7 +1679,8 @@
     "canonical:614b1b003606988c": "2026-05-23T19:48:53.019Z",
     "canonical:c604ec4c008abbd7": "2026-05-23T21:36:29.923Z",
     "canonical:b34ee6f6e7d3ffb3": "2026-05-23T23:40:04.807Z",
-    "canonical:2a353ec98bdd7b7d": "2026-05-24T01:34:34.329Z"
+    "canonical:2a353ec98bdd7b7d": "2026-05-24T01:34:34.329Z",
+    "canonical:baa1b54cf4f2493f": "2026-05-24T08:16:29.504Z"
   },
   "jobs": [
     {
@@ -3285,20 +3285,6 @@
       "company": "Cribl",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:75fb3a2f9e343a79",
-      "title": "Machine Learning Engineer Intern - AI/ML",
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706",
-      "location": "Seattle, WA / SF / San Jose, CA",
-      "department": "AI/ML/Data",
-      "company": "Adobe",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
     },
     {
       "id": "canonical:a28409a3ab9d3667",
@@ -19985,6 +19971,19 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:baa1b54cf4f2493f",
+      "title": "Data Research Intern",
+      "url": "https://job-boards.greenhouse.io/perscholashires/jobs/4682217006",
+      "location": "United States",
+      "department": "AI/ML/Data",
+      "company": "Per Scholas",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {

@@ -12,7 +12,7 @@
 - [Accuray](#accuray) (1)
 - [AccuWeather](#accuweather) (1)
 - [ACI Worldwide ](#aci-worldwide) (3)
-- [Adobe](#adobe) (4)
+- [Adobe](#adobe) (3)
 - [Adtheorant](#adtheorant) (1)
 - [Advanced Energy](#advanced-energy) (1)
 - [Advantmed](#advantmed) (1)
@@ -464,6 +464,7 @@
 - [Pega](#pega) (1)
 - [PennState University](#pennstate-university) (2)
 - [Pennsylvania State University](#pennsylvania-state-university) (6)
+- [Per Scholas](#per-scholas) (1)
 - [Perpay](#perpay) (1)
 - [Perplexity](#perplexity) (3)
 - [Perplexity AI](#perplexity-ai) (1)
@@ -741,7 +742,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [MBA Intern - Product Manager](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2026-MBA-Intern---Product-Manager_R160316) | 58 | SF / San Jose, CA | Product | 2026-05-23 |
-| [Machine Learning Engineer Intern - AI/ML](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706) | 93 | Seattle, WA / SF / San Jose, CA | AI/ML/Data | 2026-05-17 |
 | [Research Scientist/Engineer Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Research-Scientist-Engineer_R160317) | 93 | Seattle, WA / Toronto, ON, Canada / SF / Lafayette, KS / San Jose, CA / Hyattsville, MD / NYC | AI/ML/Data | 2026-05-17 |
 | [AI/ML Intern - Machine Learning Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer_R158493) | 93 | Seattle, WA / SF / Austin, TX / San Jose, CA / Waltham, MA / NYC / Lehi, UT | AI/ML/Data | 2026-05-16 |
 
@@ -4014,6 +4014,12 @@
 | [Research Engineering Interns Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Engineering-Interns_REQ_0000071407-1) | 58 | State College, PA | Hardware | 2026-05-17 |
 | [R&D Engineer Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000068582-1) | 58 | State College, PA | Hardware | 2026-05-17 |
 | [AI/ML Research and Development Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/AI-ML-Research-and-Development-Intern_REQ_0000077083-1) | 68 | State College, PA / Reston, VA | AI/ML/Data | 2026-05-09 |
+
+## Per Scholas
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data Research Intern](https://job-boards.greenhouse.io/perscholashires/jobs/4682217006) | 68 | United States | AI/ML/Data | 2026-05-24 |
 
 ## Perpay
 
