@@ -1,6 +1,6 @@
 # Open Internships
 
-**1680** internships across **63/64** companies — last updated 2026-05-23.
+**1680** internships across **63/64** companies — last updated 2026-05-24.
 
 ## Companies
 
@@ -215,6 +215,7 @@
 - [Ekimetrics](#ekimetrics) (1)
 - [Electronic Arts](#electronic-arts) (1)
 - [Eluvio](#eluvio) (1)
+- [Endeavor Health](#endeavor-health) (1)
 - [Endpoint Clinical](#endpoint-clinical) (1)
 - [EnergyHub](#energyhub) (2)
 - [ENFOS](#enfos) (1)
@@ -650,7 +651,6 @@
 - [Very Good Security](#very-good-security) (1)
 - [Veryable](#veryable) (1)
 - [Viavi Solutions](#viavi-solutions) (1)
-- [Visier Solutions](#visier-solutions) (1)
 - [Vital Lyfe](#vital-lyfe) (1)
 - [Voloridge Investment Management](#voloridge-investment-management) (1)
 - [Voltus](#voltus) (1)
@@ -2181,6 +2181,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [AI Machine Learning Intern - Gen AI - Multimodal](https://apply.workable.com/eluvio/j/F70F3473E7/apply) | 68 | Berkeley, CA | AI/ML/Data | 2026-05-09 |
+
+## Endeavor Health
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Summer Research Intern - Radiology - Radiology](https://nshs.wd1.myworkdayjobs.com/ns-eeh/job/NSO-1033-University-Place-Evanston/Summer-Research-Intern-Radiology_R14923-1) | 68 | Evanston, IL | AI/ML/Data | 2026-05-24 |
 
 ## Endpoint Clinical
 
@@ -5533,12 +5539,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Wireless Network Lab Intern](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Chandler-AZ-USA/Wireless-Network-Lab-Intern_260004580-1) | 68 | Chandler, AZ | AI/ML/Data | 2026-05-09 |
-
-## Visier Solutions
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Science Intern](https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4677172006) | 68 | Vancouver, BC, Canada | AI/ML/Data | 2026-05-09 |
 
 ## Vital Lyfe
 

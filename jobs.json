@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T23:40:04.807Z",
+  "generatedAt": "2026-05-24T01:34:34.329Z",
   "companyCount": 64,
   "okCount": 63,
   "jobCount": 1680,
@@ -853,7 +853,6 @@
     "canonical:3d9b440d729cddea": "2026-05-09T15:28:15.527Z",
     "canonical:1a94165ef7a73fdc": "2026-05-09T15:28:15.527Z",
     "canonical:bd4eb6114cc4f61c": "2026-05-09T15:28:15.527Z",
-    "canonical:8ae92be54f335db6": "2026-05-09T15:28:15.527Z",
     "canonical:f8c54a5e5487e8b4": "2026-05-09T15:28:15.527Z",
     "canonical:98667a646bfe8009": "2026-05-09T15:28:15.527Z",
     "canonical:b517dba4bb4840a4": "2026-05-09T15:28:15.527Z",
@@ -1683,7 +1682,8 @@
     "canonical:ac0760c809ad036d": "2026-05-23T18:41:12.286Z",
     "canonical:614b1b003606988c": "2026-05-23T19:48:53.019Z",
     "canonical:c604ec4c008abbd7": "2026-05-23T21:36:29.923Z",
-    "canonical:b34ee6f6e7d3ffb3": "2026-05-23T23:40:04.807Z"
+    "canonical:b34ee6f6e7d3ffb3": "2026-05-23T23:40:04.807Z",
+    "canonical:2a353ec98bdd7b7d": "2026-05-24T01:34:34.329Z"
   },
   "jobs": [
     {
@@ -8048,6 +8048,19 @@
         "high-signal role",
         "direct ATS",
         "lower-fit title"
+      ]
+    },
+    {
+      "id": "canonical:2a353ec98bdd7b7d",
+      "title": "Summer Research Intern - Radiology - Radiology",
+      "url": "https://nshs.wd1.myworkdayjobs.com/ns-eeh/job/NSO-1033-University-Place-Evanston/Summer-Research-Intern-Radiology_R14923-1",
+      "location": "Evanston, IL",
+      "department": "AI/ML/Data",
+      "company": "Endeavor Health",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -14467,19 +14480,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:8ae92be54f335db6",
-      "title": "Data Science Intern",
-      "url": "https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4677172006",
-      "location": "Vancouver, BC, Canada",
-      "department": "AI/ML/Data",
-      "company": "Visier Solutions",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
