@@ -1,6 +1,6 @@
 # Open Internships
 
-**1678** internships across **63/64** companies — last updated 2026-05-24.
+**1672** internships across **63/64** companies — last updated 2026-05-24.
 
 ## Companies
 
@@ -310,7 +310,7 @@
 - [HNTB](#hntb) (3)
 - [Homebase](#homebase) (2)
 - [Hone Health](#hone-health) (1)
-- [Honeywell](#honeywell) (9)
+- [Honeywell](#honeywell) (3)
 - [Hootsuite](#hootsuite) (1)
 - [HPM Building Supply](#hpm-building-supply) (1)
 - [HRL Laboratories](#hrl-laboratories) (1)
@@ -2835,13 +2835,7 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Application Engineer Intern - Operator Training Simulator](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/148650) | 85 | Bracknell, UK | Software | 2026-05-15 |
-| [Software Engineer Intern - Computer Science](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/113405) | 85 | United States | Software | 2026-05-09 |
-| [Artificial Intelligence/Machine Learning Intern - AI - Machine Learning](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/113564) | 60 | United States | AI/ML/Data | 2026-05-09 |
-| [Artificial Intelligence/Machine Learning Intern - Multiple Teams](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/113566) | 60 | United States | AI/ML/Data | 2026-05-09 |
-| [Information Systems Intern - IT - Cybersecurity](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/113393) | 60 | United States | AI/ML/Data | 2026-05-09 |
-| [Information Systems Intern - IT - Cybersecurity and Data Science](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/113395) | 60 | United States | AI/ML/Data | 2026-05-09 |
 | [Intern Bachelors AI](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/124930) | 60 | Kanata, Ottawa, ON, Canada | AI/ML/Data | 2026-05-09 |
-| [Offering Management Intern - Multiple Teams](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/114040) | 50 | United States | Product | 2026-05-09 |
 | [Systems Engineering – Summer 2026 Intern - US Person Required](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/113500) | 50 | United States | Hardware | 2026-05-09 |
 
 ## Hootsuite
@@ -4130,8 +4124,8 @@
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-05-09 |
 | [2027 Point72 Academy Investment Analyst Summer Internship Program - EMEA](https://boards.greenhouse.io/point72/jobs/8435134002?gh_jid=8435134002) | 58 | Dubai | — | 2026-05-07 |
 | [2026 Technology Internship – Software Engineer](https://boards.greenhouse.io/point72/jobs/8406727002?gh_jid=8406727002) | 93 | Warsaw, Poland | — | 2026-05-06 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |

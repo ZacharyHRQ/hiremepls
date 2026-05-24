@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-24T19:59:34.350Z",
+  "generatedAt": "2026-05-24T20:58:19.240Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1678,
+  "jobCount": 1672,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -127,12 +127,6 @@
     "canonical:f6939f722bfbce9d": "2026-05-06T06:42:07.596Z",
     "canonical:f9e6bc8e3b3543c3": "2026-05-08T20:53:38.687Z",
     "canonical:b0682e13963fcdcc": "2026-05-09T15:28:15.527Z",
-    "canonical:a28409a3ab9d3667": "2026-05-09T15:28:15.527Z",
-    "canonical:a53714a98910626a": "2026-05-09T15:28:15.527Z",
-    "canonical:6c4ea2559e782cee": "2026-05-09T15:28:15.527Z",
-    "canonical:79a9efb6770f8ed3": "2026-05-09T15:28:15.527Z",
-    "canonical:3a3a06cc9d4554fa": "2026-05-09T15:28:15.527Z",
-    "canonical:6adcd280232926dd": "2026-05-09T15:28:15.527Z",
     "canonical:2c810487c34ce513": "2026-05-09T15:28:15.527Z",
     "canonical:6353eecea9024842": "2026-05-09T15:28:15.527Z",
     "canonical:8fc863f495e5ebf7": "2026-05-09T15:28:15.527Z",
@@ -2166,10 +2160,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -2180,10 +2174,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -3286,77 +3280,6 @@
       "company": "Cribl",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:a28409a3ab9d3667",
-      "title": "Information Systems Intern - IT - Cybersecurity and Data Science",
-      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/113395",
-      "location": "United States",
-      "department": "AI/ML/Data",
-      "company": "Honeywell",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:a53714a98910626a",
-      "title": "Artificial Intelligence/Machine Learning Intern - Multiple Teams",
-      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/113566",
-      "location": "United States",
-      "department": "AI/ML/Data",
-      "company": "Honeywell",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:6c4ea2559e782cee",
-      "title": "Offering Management Intern - Multiple Teams",
-      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/114040",
-      "location": "United States",
-      "department": "Product",
-      "company": "Honeywell",
-      "score": 50,
-      "scoreReasons": []
-    },
-    {
-      "id": "canonical:79a9efb6770f8ed3",
-      "title": "Software Engineer Intern - Computer Science",
-      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/113405",
-      "location": "United States",
-      "department": "Software",
-      "company": "Honeywell",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:3a3a06cc9d4554fa",
-      "title": "Artificial Intelligence/Machine Learning Intern - AI - Machine Learning",
-      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/113564",
-      "location": "United States",
-      "department": "AI/ML/Data",
-      "company": "Honeywell",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:6adcd280232926dd",
-      "title": "Information Systems Intern - IT - Cybersecurity",
-      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/113393",
-      "location": "United States",
-      "department": "AI/ML/Data",
-      "company": "Honeywell",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
     },
     {
       "id": "canonical:2c810487c34ce513",
