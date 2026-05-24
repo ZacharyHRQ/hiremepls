@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-24T17:40:16.223Z",
+  "generatedAt": "2026-05-24T18:45:41.729Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1679,
+  "jobCount": 1678,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -454,7 +454,6 @@
     "canonical:1b419963796d3a31": "2026-05-09T15:28:15.527Z",
     "canonical:31333cf7d6ca80f8": "2026-05-09T15:28:15.527Z",
     "canonical:5badaef05a25da33": "2026-05-09T15:28:15.527Z",
-    "canonical:9e48847b04dffbf2": "2026-05-09T15:28:15.527Z",
     "canonical:6dca6177c4654932": "2026-05-09T15:28:15.527Z",
     "canonical:763df8b7c0adebc0": "2026-05-09T15:28:15.527Z",
     "canonical:1590d36da647a3ed": "2026-05-09T15:28:15.527Z",
@@ -7768,19 +7767,6 @@
       "company": "TikTok",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:9e48847b04dffbf2",
-      "title": "AI/ML Intern Silicon Development Automation",
-      "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4656081005",
-      "location": "San Jose, CA",
-      "department": "AI/ML/Data",
-      "company": "Astera Labs",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
     },
     {
       "id": "canonical:6dca6177c4654932",

@@ -1,6 +1,6 @@
 # Open Internships
 
-**1679** internships across **63/64** companies — last updated 2026-05-24.
+**1678** internships across **63/64** companies — last updated 2026-05-24.
 
 ## Companies
 
@@ -62,7 +62,6 @@
 - [AssetMark](#assetmark) (1)
 - [Assurant](#assurant) (1)
 - [Astera](#astera) (2)
-- [Astera Labs](#astera-labs) (1)
 - [Astranis](#astranis) (10)
 - [ASUS USA](#asus-usa) (1)
 - [Atomic Semi](#atomic-semi) (8)
@@ -1099,12 +1098,6 @@
 | --- | --- | --- | --- | --- |
 | [Computational Neuroscience Intern - Data Analysis and Modeling](https://jobs.ashbyhq.com/astera/d20c0641-1b3e-4666-bc08-4f90ee813261/application) | 68 | Oakland, CA | AI/ML/Data | 2026-05-15 |
 | [Software Engineer Intern - Distributed Simulation Systems](https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066/application) | 93 | Oakland, CA | Software | 2026-05-14 |
-
-## Astera Labs
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI/ML Intern Silicon Development Automation](https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4656081005) | 68 | San Jose, CA | AI/ML/Data | 2026-05-09 |
 
 ## Astranis
 
