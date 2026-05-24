@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-24T15:40:56.517Z",
+  "generatedAt": "2026-05-24T16:41:35.666Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1677,
+  "jobCount": 1679,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1680,7 +1680,9 @@
     "canonical:2a353ec98bdd7b7d": "2026-05-24T01:34:34.329Z",
     "canonical:baa1b54cf4f2493f": "2026-05-24T08:16:29.504Z",
     "canonical:0c57524d1162f8c8": "2026-05-24T10:15:37.116Z",
-    "canonical:8ae92be54f335db6": "2026-05-24T15:40:56.517Z"
+    "canonical:8ae92be54f335db6": "2026-05-24T15:40:56.517Z",
+    "canonical:c989ff56fcf2c167": "2026-05-24T16:41:35.666Z",
+    "canonical:e2cbec72bcde74c4": "2026-05-24T16:41:35.666Z"
   },
   "jobs": [
     {
@@ -20464,6 +20466,20 @@
       ]
     },
     {
+      "id": "canonical:c989ff56fcf2c167",
+      "title": "Software Engineer Intern-Runtime - Robotics",
+      "url": "https://jobs.lever.co/plus-2/a3bcdba6-b0d0-46ba-9af3-a387926a6fb4/apply",
+      "location": "Santa Clara, CA",
+      "department": "Hardware",
+      "company": "PlusAI",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:23aa0ae99f4d1879",
       "title": "Software Engineer in Test Intern",
       "url": "https://ideas-sas.icims.com/jobs/40116/job?mobile=true&needsRedirect=false",
@@ -20632,6 +20648,20 @@
       "company": "Adobe",
       "score": 58,
       "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:e2cbec72bcde74c4",
+      "title": "Machine Learning Engineer Intern - Planning",
+      "url": "https://jobs.lever.co/plus-2/91a07eb1-2244-48bf-a65b-dc166a327ddc/apply",
+      "location": "Santa Clara, CA",
+      "department": "AI/ML/Data",
+      "company": "PlusAI",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
         "direct ATS"
       ]
     },
