@@ -1,6 +1,6 @@
 # Open Internships
 
-**1672** internships across **63/64** companies — last updated 2026-05-24.
+**1674** internships across **63/64** companies — last updated 2026-05-24.
 
 ## Companies
 
@@ -19,6 +19,7 @@
 - [Aechelon Technology](#aechelon-technology) (2)
 - [AeroVironment](#aerovironment) (2)
 - [Airbus](#airbus) (1)
+- [Akima](#akima) (1)
 - [Akuna Capital](#akuna-capital) (1)
 - [Al Warren Oil Company](#al-warren-oil-company) (2)
 - [Allegion](#allegion) (1)
@@ -84,6 +85,7 @@
 - [Base Power](#base-power) (1)
 - [BDO Canada](#bdo-canada) (1)
 - [beBeeManufacturingEngineering](#bebeemanufacturingengineering) (1)
+- [Becton Dickinson](#becton-dickinson) (1)
 - [Berkshire Grey](#berkshire-grey) (1)
 - [Berkshire Hathaway Energy](#berkshire-hathaway-energy) (14)
 - [BillionToOne](#billiontoone) (2)
@@ -784,6 +786,12 @@
 | --- | --- | --- | --- | --- |
 | [Operations Analyst Intern - Operations Analyst](https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/Long-Term-Internship---Operations-Analyst_JR10411961) | 68 | Wichita, KS | AI/ML/Data | 2026-05-23 |
 
+## Akima
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [STEM Intern - Engineering](https://careers.akima.com/jobs/23452?lang=en-us&icims=1) | 60 | Huntsville, AL | Software | 2026-05-24 |
+
 ## Akuna Capital
 
 | Title | Score | Location | Department | First seen |
@@ -1263,6 +1271,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Manufacturing Engineering Internship for Summer 2026](https://us.bebee.com/job/8d5893a024a720602b9c4d9162d87d66?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 42 | Lafayette, IN | — | 2026-05-16 |
+
+## Becton Dickinson
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Business Data Analytics Intern - Channel Coverage](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Business-Data-Analytics-Intern--Channel-Coverage_R-544035) | 68 | New Mexico / Washington / Kansas / Pennsylvania / North Dakota / Oregon / Delaware / Iowa / California / Washington, DC / Vermont / Wyoming / Texas / Montana / Jackson Township, NJ / Sparks, MD / Florida / Waterbury, CT / Nevada / South Carolina / South Dakota / Georgia / Concord, NH / Mississippi / Tennessee / Virginia / Arkansas / Minnesota / Colorado / Nebraska / Rhode Island / Utah / Hawaii, United States / Kentucky / West Virginia / NYC / Maryland / Wisconsin / Maine / Massachusetts / North Carolina / Oklahoma / Missouri / Ohio / Indiana / Louisiana / Alaska / Michigan / Illinois / Idaho | AI/ML/Data | 2026-05-24 |
 
 ## Berkshire Grey
 

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-24T21:55:58.963Z",
+  "generatedAt": "2026-05-24T22:50:25.566Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1672,
+  "jobCount": 1674,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1675,7 +1675,9 @@
     "canonical:0c57524d1162f8c8": "2026-05-24T10:15:37.116Z",
     "canonical:8ae92be54f335db6": "2026-05-24T15:40:56.517Z",
     "canonical:c989ff56fcf2c167": "2026-05-24T16:41:35.666Z",
-    "canonical:e2cbec72bcde74c4": "2026-05-24T16:41:35.666Z"
+    "canonical:e2cbec72bcde74c4": "2026-05-24T16:41:35.666Z",
+    "canonical:25c121ae4c74f980": "2026-05-24T22:50:25.566Z",
+    "canonical:8fbd561a44a3e89b": "2026-05-24T22:50:25.566Z"
   },
   "jobs": [
     {
@@ -14117,6 +14119,19 @@
       ]
     },
     {
+      "id": "canonical:25c121ae4c74f980",
+      "title": "Business Data Analytics Intern - Channel Coverage",
+      "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Business-Data-Analytics-Intern--Channel-Coverage_R-544035",
+      "location": "New Mexico / Washington / Kansas / Pennsylvania / North Dakota / Oregon / Delaware / Iowa / California / Washington, DC / Vermont / Wyoming / Texas / Montana / Jackson Township, NJ / Sparks, MD / Florida / Waterbury, CT / Nevada / South Carolina / South Dakota / Georgia / Concord, NH / Mississippi / Tennessee / Virginia / Arkansas / Minnesota / Colorado / Nebraska / Rhode Island / Utah / Hawaii, United States / Kentucky / West Virginia / NYC / Maryland / Wisconsin / Maine / Massachusetts / North Carolina / Oklahoma / Missouri / Ohio / Indiana / Louisiana / Alaska / Michigan / Illinois / Idaho",
+      "department": "AI/ML/Data",
+      "company": "Becton Dickinson",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:a11be3c0473589cc",
       "title": "Wireless Network Lab Intern",
       "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Chandler-AZ-USA/Wireless-Network-Lab-Intern_260004580-1",
@@ -20693,6 +20708,18 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:8fbd561a44a3e89b",
+      "title": "STEM Intern - Engineering",
+      "url": "https://careers.akima.com/jobs/23452?lang=en-us&icims=1",
+      "location": "Huntsville, AL",
+      "department": "Software",
+      "company": "Akima",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
       ]
     },
     {
