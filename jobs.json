@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-25T21:08:52.682Z",
+  "generatedAt": "2026-05-25T22:16:31.626Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1642,
+  "jobCount": 1640,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -850,7 +850,6 @@
     "canonical:9785d231645095a5": "2026-05-09T17:12:44.619Z",
     "canonical:5cfae07f2a7ba496": "2026-05-09T15:28:15.527Z",
     "canonical:b1cec7aacb5584d6": "2026-05-09T15:28:15.527Z",
-    "canonical:b8a886b860cf8d41": "2026-05-09T16:13:52.691Z",
     "canonical:9541df1d0767f802": "2026-05-09T15:28:15.527Z",
     "canonical:99e03b476dac932b": "2026-05-09T15:28:15.527Z",
     "canonical:0c953ee66e86cdaa": "2026-05-09T15:28:15.527Z",
@@ -1343,7 +1342,6 @@
     "canonical:b81abc03055b6506": "2026-05-18T01:33:21.344Z",
     "canonical:82e87ea19458331e": "2026-05-18T05:55:36.135Z",
     "canonical:9ad651191c50cbc1": "2026-05-18T12:55:51.351Z",
-    "canonical:2709f07e2df83ec6": "2026-05-18T16:19:03.910Z",
     "canonical:7f85d36721789a17": "2026-05-18T16:19:03.910Z",
     "canonical:6e789f401ef99c2e": "2026-05-18T16:19:03.910Z",
     "canonical:e41a9d05d2abc4fa": "2026-05-18T16:19:03.910Z",
@@ -8535,18 +8533,6 @@
       ]
     },
     {
-      "id": "canonical:2709f07e2df83ec6",
-      "title": "Intern Automation Geoscientist",
-      "url": "https://jobs.halliburton.com/job/Abingdon-Intern_Automation-Geoscientist-OXF-OX14-4RW/1369051000/?ats=successfactors",
-      "location": "Oxford, UK",
-      "department": "AI/ML/Data",
-      "company": "Halliburton",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:d94c161d45204183",
       "title": "Advanced Degree Software Engineer Intern",
       "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/329007",
@@ -14520,20 +14506,6 @@
       "company": "Samsung",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:b8a886b860cf8d41",
-      "title": "Intern - Digital Service for Engines - Ground Systems Engineer",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-AY--1000-Blvd-Marie-Victorin--AY-BLDG/Stage-Automne-2026---Service-numrique-pour-les-moteurs--Ingnieur-systme-sol---Internship-Fall-2026---Digital-Service-for-Engines--Ground-Systems-Engineer_01842324",
-      "location": "Longueuil, QC, Canada",
-      "department": "AI/ML/Data",
-      "company": "RTX",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]

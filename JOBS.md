@@ -1,6 +1,6 @@
 # Open Internships
 
-**1642** internships across **63/64** companies — last updated 2026-05-25.
+**1640** internships across **63/64** companies — last updated 2026-05-25.
 
 ## Companies
 
@@ -293,7 +293,7 @@
 - [H3X Technologies](#h3x-technologies) (1)
 - [Hadrian](#hadrian) (1)
 - [Haize Labs](#haize-labs) (1)
-- [Halliburton](#halliburton) (3)
+- [Halliburton](#halliburton) (2)
 - [Harris Computer](#harris-computer) (3)
 - [Harvard University](#harvard-university) (1)
 - [HCompany](#hcompany) (1)
@@ -515,7 +515,7 @@
 - [Root Access](#root-access) (1)
 - [Royal Bank of Canada](#royal-bank-of-canada) (2)
 - [RTW Investments](#rtw-investments) (1)
-- [RTX](#rtx) (8)
+- [RTX](#rtx) (7)
 - [Rundoo](#rundoo) (1)
 - [Salesforce](#salesforce) (1)
 - [Salient Motion](#salient-motion) (1)
@@ -2700,7 +2700,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Intern Automation Geoscientist](https://jobs.halliburton.com/job/Abingdon-Intern_Automation-Geoscientist-OXF-OX14-4RW/1369051000/?ats=successfactors) | 60 | Oxford, UK | AI/ML/Data | 2026-05-18 |
 | [Data Scientist Intern](https://jobs.halliburton.com/job/Abingdon-Abingdon_Data-Scientist-Internship-OXF-OX14-4RW/1384809800/?ats=successfactors) | 85 | Oxford, UK | AI/ML/Data | 2026-05-16 |
 | [Computer Science/Data Science/Artificial Intelligence Intern](https://jobs.halliburton.com/job/Abingdon-Abingdon_Computer-ScienceData-ScienceArtificial-Intelligence-Intern-OXF-OX14-4RW/1386854200/?ats=successfactors) | 60 | Oxford, UK | AI/ML/Data | 2026-05-16 |
 
@@ -4381,7 +4380,6 @@
 | [DPHM Analytics Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship-Fall-2026---DPHM-Analytics-Intern_01836458-1) | 68 | Mississauga, ON, Canada | AI/ML/Data | 2026-05-23 |
 | [Intern Operations Program Management](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-d-t-2026-Gestion-des-programmes---Internship-Summer-2026-Operations-Program-Management_01809689-1) | 68 | Longueuil, QC, Canada | AI/ML/Data | 2026-05-19 |
 | [Engine Control System Simulation Developer Intern - Engine Control System Simulation Developer](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Developpeur-de-simulation-de-systemes-de-controle-moteur---Internship---Fall-2026---Engine-Control-System-Simulation-Developer_01842886) | 93 | Longueuil, QC, Canada | Software | 2026-05-17 |
-| [Intern - Digital Service for Engines - Ground Systems Engineer](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-AY--1000-Blvd-Marie-Victorin--AY-BLDG/Stage-Automne-2026---Service-numrique-pour-les-moteurs--Ingnieur-systme-sol---Internship-Fall-2026---Digital-Service-for-Engines--Ground-Systems-Engineer_01842324) | 93 | Longueuil, QC, Canada | AI/ML/Data | 2026-05-09 |
 | [Digital Support & Business Intelligence Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne---Stagiaire-en-soutien-numrique-et-intelligence-d-affaires---Internship---Fall---Digital-Support---Business-Intelligence-Intern_01838477) | 68 | Longueuil, QC, Canada | AI/ML/Data | 2026-05-09 |
 
 ## Rundoo
