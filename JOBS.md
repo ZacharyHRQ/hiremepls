@@ -1,6 +1,6 @@
 # Open Internships
 
-**1671** internships across **63/64** companies — last updated 2026-05-25.
+**1662** internships across **63/64** companies — last updated 2026-05-25.
 
 ## Companies
 
@@ -80,7 +80,7 @@
 - [Axway](#axway) (3)
 - [BAE Systems](#bae-systems) (8)
 - [Bank of America](#bank-of-america) (1)
-- [Bank of Montreal](#bank-of-montreal) (6)
+- [Bank of Montreal](#bank-of-montreal) (4)
 - [Barkback](#barkback) (1)
 - [Base Power](#base-power) (1)
 - [BDO Canada](#bdo-canada) (1)
@@ -304,7 +304,7 @@
 - [Heron Power](#heron-power) (2)
 - [Hershey Entertainment & Resorts Company](#hershey-entertainment-resorts-company) (1)
 - [Hewlett Packard (HP)](#hewlett-packard-hp) (2)
-- [Hewlett Packard Enterprise](#hewlett-packard-enterprise) (1)
+- [Hewlett Packard Enterprise](#hewlett-packard-enterprise) (2)
 - [HEXAWARE](#hexaware) (1)
 - [Higharc](#higharc) (1)
 - [Highmark Health](#highmark-health) (1)
@@ -328,8 +328,8 @@
 - [Instacart](#instacart) (4)
 - [Instawork](#instawork) (1)
 - [Institute of Foundation Models](#institute-of-foundation-models) (1)
-- [Intact](#intact) (4)
-- [Integra FEC](#integra-fec) (3)
+- [Intact](#intact) (3)
+- [Integra FEC](#integra-fec) (2)
 - [Integrity](#integrity) (1)
 - [Intel](#intel) (4)
 - [Intelcom | Dragonfly](#intelcom-dragonfly) (11)
@@ -420,7 +420,7 @@
 - [Naïve](#na-ve) (1)
 - [Nash](#nash) (2)
 - [NBCUniversal](#nbcuniversal) (2)
-- [Netflix](#netflix) (5)
+- [Netflix](#netflix) (3)
 - [Neuralink](#neuralink) (3)
 - [NewsBreak](#newsbreak) (3)
 - [Nexthink](#nexthink) (1)
@@ -445,7 +445,6 @@
 - [On the Go](#on-the-go) (1)
 - [onsemi](#onsemi) (3)
 - [Ontario Health](#ontario-health) (1)
-- [Ontario Teachers' Pension Plan](#ontario-teachers-pension-plan) (2)
 - [Onto Innovation](#onto-innovation) (2)
 - [Optiver](#optiver) (1)
 - [OpusClip](#opusclip) (2)
@@ -517,7 +516,7 @@
 - [Rolls Royce](#rolls-royce) (7)
 - [Rolls-Royce Motorcars](#rolls-royce-motorcars) (3)
 - [Root Access](#root-access) (1)
-- [Royal Bank of Canada](#royal-bank-of-canada) (7)
+- [Royal Bank of Canada](#royal-bank-of-canada) (4)
 - [RTW Investments](#rtw-investments) (1)
 - [RTX](#rtx) (8)
 - [Rundoo](#rundoo) (1)
@@ -529,6 +528,7 @@
 - [Sandhills Global](#sandhills-global) (1)
 - [Sandisk](#sandisk) (2)
 - [Savannah River National Laboratory](#savannah-river-national-laboratory) (1)
+- [SC Johnson](#sc-johnson) (1)
 - [Scale AI](#scale-ai) (4)
 - [SCAN](#scan) (1)
 - [ScentAir](#scentair) (1)
@@ -610,7 +610,7 @@
 - [Thermo Fisher Scientific](#thermo-fisher-scientific) (1)
 - [Thomson Reuters](#thomson-reuters) (2)
 - [thyssenkrupp](#thyssenkrupp) (1)
-- [TikTok](#tiktok) (136)
+- [TikTok](#tiktok) (137)
 - [Tilde Research](#tilde-research) (2)
 - [tldraw](#tldraw) (1)
 - [TMEIC](#tmeic) (1)
@@ -637,7 +637,6 @@
 - [Uncountable](#uncountable) (1)
 - [United Parcel Service (UPS)](#united-parcel-service-ups) (1)
 - [Unity](#unity) (1)
-- [University Health Network](#university-health-network) (1)
 - [University System of New Hampshire](#university-system-of-new-hampshire) (1)
 - [Vanasse Hangen Brustlin (VHB)](#vanasse-hangen-brustlin-vhb) (2)
 - [Vanguard](#vanguard) (1)
@@ -1242,8 +1241,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Engagement & Enablement Specialist Co-op/Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Engagement---Enablement-Specialist--Fall-2026--Co-op-Internship------4-months_R260015283) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-05-21 |
-| [Machine Learning Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Chicago-IL-USA/Machine-Learning-Intern--Fall-2026--Internship----4-months_R260014372) | 68 | Chicago, IL | AI/ML/Data | 2026-05-14 |
-| [Junior Software Developer Co-op/Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Junior-Software-Developer--Fall-2026--Co-op-Internship----4-Months_R260013614) | 93 | Toronto, ON, Canada | Software | 2026-05-09 |
 | [Software Developer Co-op/Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Developer--Fall-2026--Co-op-Internship----8-Months_R260013663) | 93 | Toronto, ON, Canada | Software | 2026-05-09 |
 | [Analyst Co-op/Intern - Months](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Analyst--Fall-2026--Co-op-Internship----12-Months_R260013681) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
 | [Cloud Business & Strategy Analytics Analyst Co-op/Internship](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Cloud-Business---Strategy-Analytics-Analyst--Fall-2026--Co-op-Internship----4-Months_R260013662) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
@@ -2793,6 +2790,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Wireless Driver Development Intern - Été 2026](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/St-Laurent-Quebec-Canada/Wireless-Driver-Development-Intern---Summer-2026----Stagiaire-Dveloppement-de-Pilote-Sans-Fil---t-2026_1193428) | 58 | Montréal, QC, Canada | Hardware | 2026-05-25 |
 | [HPE Labs - AI Research Lab Research Associate (Intern)](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/HPE-Labs---AI-Research-Lab-Research-Associate--Intern-_1192299) | 68 | Milpitas, CA / Fort Collins, CO | Data Science, AI & Machine Learning | 2026-05-09 |
 
 ## HEXAWARE
@@ -2963,14 +2961,12 @@
 | --- | --- | --- | --- | --- |
 | [Data Scientist 1 Intern/Co-op](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Vancouver-British-Columbia-CAN/Data-Scientist-I--4-Month-Co-op-Internship--Fall-2026-_R152902-1) | 93 | Vancouver, BC, Canada | AI/ML/Data | 2026-05-09 |
 | [Data Scientist 1 Intern/Co-op](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/Data-Scientist-I--4-Month-Internship-Co-op--Fall-2026-_R153000) | 93 | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
-| [Software Developer 1 Intern/Co-op](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/St-Johns-Newfoundland-and-Labrador-CAN/Software-Developer-I_R152983) | 93 | St. John's, NL, Canada | Software | 2026-05-09 |
 | [Software Developer 1 Intern/Co-op](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/Software-Developer-I---4-Month-Internship-Co-op--Fall-2026-_R153466) | 93 | Toronto, ON, Canada | Software | 2026-05-09 |
 
 ## Integra FEC
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Data Scientist Intern](https://job-boards.greenhouse.io/integrainterns/jobs/5134593008) | 93 | Austin, TX | AI/ML/Data | 2026-05-23 |
 | [Data Scientist Intern - PhD](https://job-boards.greenhouse.io/integra/jobs/5134592008) | 93 | Austin, TX | AI/ML/Data | 2026-05-23 |
 | [Data Analyst Intern](https://job-boards.greenhouse.io/integrainterns/jobs/5134523008) | 68 | Austin, TX | AI/ML/Data | 2026-05-09 |
 
@@ -3679,9 +3675,7 @@
 | --- | --- | --- | --- | --- |
 | [Video Algorithms Intern - Video Coding - Gaussian Splatting](https://explore.jobs.netflix.net/careers/job/790315673635) | 60 | LA / Los Gatos, CA | AI/ML/Data | 2026-05-22 |
 | [Software Engineer PhD Intern - Streaming Algorithms - Summer 2026](https://explore.jobs.netflix.net/careers/job/790313241540) | 85 | Los Gatos, CA | Software | 2026-05-09 |
-| [Data Visualization Engineering Intern - Summer 2026](https://explore.jobs.netflix.net/careers/job/790313056617) | 60 | Los Gatos, CA | AI/ML/Data | 2026-05-09 |
 | [Experimentation & Causal Inference Intern - Summer 2026](https://explore.jobs.netflix.net/careers/job/790313056618) | 60 | LA / Los Gatos, CA | AI/ML/Data | 2026-05-09 |
-| [Internet Measurement Research Intern - Openconnect Distributed Systems - Summer 2026](https://explore.jobs.netflix.net/careers/job/790313056856) | 60 | LA / Los Gatos, CA | AI/ML/Data | 2026-05-09 |
 
 ## Neuralink
 
@@ -3870,13 +3864,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Research Intern - Artificial Intelligence - Student](https://oh.wd3.myworkdayjobs.com/OH/job/Toronto-ON/Information-Strategy-Management-and-Analytics--SPARR----Student_R109564) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-05-23 |
-
-## Ontario Teachers' Pension Plan
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Product & Data Engineering Intern](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Product---Data-Engineering--September-2026---12-months-_6987) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-05-16 |
-| [Portfolio Engineering Intern - Capital Markets - Cmia](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Portfolio-Engineering--Capital-Markets--CMIA--September-2026---8-months-_6986) | 68 | Toronto, ON, Canada | Software | 2026-05-16 |
 
 ## Onto Innovation
 
@@ -4411,13 +4398,10 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Student Intern - Data Analyst - Personal Banking](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Fall-2026-Student---Data-Analyst--Personal-Banking--4---8-months-_R-0000168782) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-05-23 |
 | [Product Analyst Intern - Insurance](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MISSISSAUGA-Ontario-Canada/XMLNAME-2026--Insurance--Fall-Product-Analyst--4-months-_R-0000169875) | 58 | Mississauga, ON, Canada | Product | 2026-05-22 |
 | [Wealth Management – Distribution Product Management Intern](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/VANCOUVER-British-Columbia-Canada/XMLNAME-2026-Wealth-Management--Fall-Distribution-Product-Management-Intern--12-months-_R-0000167778) | 58 | Vancouver, BC, Canada | Product | 2026-05-16 |
-| [CFO – Data Analyst Intern](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-CFO--Fall-Data-Analyst--Capital---Liquidity-Measurement---Reporting--8-months-_R-0000171752) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-05-16 |
 | [Student Intern - Data Analyst](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Fall-2026-Student---Data-Analyst--MFD--PEY-12-month-_R-0000172016) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-05-14 |
 | [Relationship Manager Business Markets Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/OWEN-SOUND-Ontario-Canada/Relationship-Manager-Business-Markets-Intern_R-0000171834) | 68 | Port Elgin, ON, Canada | Quant | 2026-05-14 |
-| [Relationship Manager Commercial Markets Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/ST-JOHNS-Newfoundland-and-Labrador-Canada/Relationship-Manager-Commercial-Markets-Intern_R-0000171841) | 68 | St. John's, NL, Canada | Quant | 2026-05-11 |
 
 ## RTW Investments
 
@@ -4495,6 +4479,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Advanced Manufacturing & Design ASPIRE Post Graduate Intern](https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1931) | 66 | North Augusta, SC | AI/ML/Data | 2026-05-09 |
+
+## SC Johnson
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Packaging Engineer Intern](https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/USA---WI---Racine/Full-time-Packaging-Engineer-for-SCJ-Interns---2027-Grads_32657) | 58 | Racine, WI | Product | 2026-05-25 |
 
 ## Scale AI
 
@@ -5123,6 +5113,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Efficient ML Engineer Research Intern - AI Platform - PhD](https://lifeattiktok.com/search/7642827146549446965) | 85 | San Jose, CA | AI/ML/Data | 2026-05-25 |
 | [Machine Learning Engineer Intern - Brand Ads](https://lifeattiktok.com/search/7600578929549035829) | 60 | San Jose, CA | AI/ML/Data | 2026-05-22 |
 | [Data Analyst Intern - TikTok Live](https://lifeattiktok.com/search/7642264645810292997) | 60 | London, UK | AI/ML/Data | 2026-05-21 |
 | [Data Science Operations Intern - Business Integrity Data Cycling Center](https://lifeattiktok.com/search/7639509050870434101) | 60 | San Jose, CA | AI/ML/Data | 2026-05-14 |
@@ -5432,12 +5423,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Research Science Intern](https://boards.greenhouse.io/embed/job_app?token=7904529) | 68 | Mountain View, CA | AI/ML/Data | 2026-05-09 |
-
-## University Health Network
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Junior Developer Intern - Analytics & Insights](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000125399511) | 93 | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
 
 ## University System of New Hampshire
 
