@@ -1,6 +1,6 @@
 # Open Internships
 
-**1654** internships across **63/64** companies — last updated 2026-05-25.
+**1650** internships across **63/64** companies — last updated 2026-05-25.
 
 ## Companies
 
@@ -80,7 +80,7 @@
 - [Axway](#axway) (2)
 - [BAE Systems](#bae-systems) (8)
 - [Bank of America](#bank-of-america) (1)
-- [Bank of Montreal](#bank-of-montreal) (2)
+- [Bank of Montreal](#bank-of-montreal) (1)
 - [Barkback](#barkback) (1)
 - [Base Power](#base-power) (1)
 - [BDO Canada](#bdo-canada) (1)
@@ -118,7 +118,7 @@
 - [CACI](#caci) (2)
 - [Cadence Design Systems](#cadence-design-systems) (3)
 - [Cadent](#cadent) (1)
-- [CAE](#cae) (3)
+- [CAE](#cae) (2)
 - [Cambridge Mobile Telematics](#cambridge-mobile-telematics) (1)
 - [Canon](#canon) (1)
 - [Capella](#capella) (2)
@@ -325,7 +325,7 @@
 - [Impulse Space](#impulse-space) (1)
 - [Infojini](#infojini) (1)
 - [Inizio](#inizio) (1)
-- [Instacart](#instacart) (4)
+- [Instacart](#instacart) (2)
 - [Instawork](#instawork) (1)
 - [Institute of Foundation Models](#institute-of-foundation-models) (1)
 - [Intact](#intact) (1)
@@ -1237,7 +1237,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Engagement & Enablement Specialist Co-op/Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Engagement---Enablement-Specialist--Fall-2026--Co-op-Internship------4-months_R260015283) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-05-21 |
-| [Software Developer Co-op/Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Developer--Fall-2026--Co-op-Internship----4-Months_R260013615-3) | 93 | Toronto, ON, Canada | Software | 2026-05-09 |
 
 ## Barkback
 
@@ -1504,7 +1503,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Junior Software Developer Intern](https://cae.wd3.myworkdayjobs.com/career/job/Halifax/_121837) | 93 | Halifax Regional Municipality, NS, Canada | Software | 2026-05-19 |
 | [Data Analyst Intern](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-IT-105-Data-Analyst--Intern---_120935) | 68 | Montreal, QC, Canada | AI/ML/Data | 2026-05-19 |
 | [Apprentice Simulator Technician Intern](https://cae.wd3.myworkdayjobs.com/career/job/Eagan/Apprentice-Simulator-Technician_121166) | 58 | Eagan, MN | Hardware | 2026-05-16 |
 
@@ -2933,9 +2931,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Machine Learning Engineer Intern](https://instacart.careers/job/?gh_jid=5917202) | 85 | Remote in USA | AI/ML/Data | 2026-05-09 |
 | [Machine Learning PhD Intern - Economics](https://instacart.careers/job/?gh_jid=7532267) | 60 | Remote in USA | AI/ML/Data | 2026-05-09 |
-| [Machine Learning Engineer, PhD Intern](https://instacart.careers/job/?gh_jid=5917202) | 85 | United States - Remote | — | 2026-05-06 |
 | [Machine Learning PhD Intern, Economics](https://instacart.careers/job/?gh_jid=7532267) | 60 | United States - Remote | — | 2026-05-06 |
 
 ## Instawork

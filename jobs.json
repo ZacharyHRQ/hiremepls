@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-25T11:04:23.174Z",
+  "generatedAt": "2026-05-25T14:16:48.920Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1654,
+  "jobCount": 1650,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -123,7 +123,6 @@
     "canonical:b9e2715c1bbe98ff": "2026-05-06T06:42:07.596Z",
     "canonical:38c38b2f9b935c7b": "2026-05-06T06:42:07.596Z",
     "canonical:778ae0c54171b31e": "2026-05-06T06:42:07.596Z",
-    "canonical:64dc660ba9e1d000": "2026-05-06T06:42:07.596Z",
     "canonical:f6939f722bfbce9d": "2026-05-06T06:42:07.596Z",
     "canonical:f9e6bc8e3b3543c3": "2026-05-08T20:53:38.687Z",
     "canonical:b0682e13963fcdcc": "2026-05-09T15:28:15.527Z",
@@ -380,7 +379,6 @@
     "canonical:ccddcbe6e9b8776f": "2026-05-09T15:28:15.527Z",
     "canonical:d45a9c64eaa6a959": "2026-05-09T15:28:15.527Z",
     "canonical:1b14f6d1b461dfa6": "2026-05-09T15:28:15.527Z",
-    "canonical:dc7dc5305ed05ed6": "2026-05-09T15:28:15.527Z",
     "canonical:89f8df1c5fc06be1": "2026-05-09T15:28:15.527Z",
     "canonical:60fe78b324230eaa": "2026-05-09T15:28:15.527Z",
     "canonical:5fad4f58541c53c3": "2026-05-13T22:37:04.081Z",
@@ -894,7 +892,6 @@
     "canonical:4d08f6e3d7e3bc1e": "2026-05-09T15:28:15.527Z",
     "canonical:3e61bd7d54d1d13a": "2026-05-09T15:28:15.527Z",
     "canonical:9033f4b5e8eae79e": "2026-05-09T15:28:15.527Z",
-    "canonical:9f439239503e6f04": "2026-05-09T15:28:15.527Z",
     "canonical:d5f5dfde424a0384": "2026-05-09T15:28:15.527Z",
     "canonical:fccfc992b3272dc8": "2026-05-09T15:28:15.527Z",
     "canonical:4b7ee4e37edfe207": "2026-05-09T15:28:15.527Z",
@@ -1403,7 +1400,6 @@
     "canonical:7a0b6c2445518ecf": "2026-05-19T23:43:59.617Z",
     "canonical:b4e6df7dcb42b162": "2026-05-19T23:43:59.617Z",
     "canonical:93ff043c39ae600b": "2026-05-19T23:43:59.617Z",
-    "canonical:615da7f922d81c6e": "2026-05-19T23:43:59.617Z",
     "canonical:935de0dfb1b8af0f": "2026-05-19T23:43:59.617Z",
     "canonical:bdc5de2e9624c440": "2026-05-19T23:43:59.617Z",
     "canonical:cdb207950027b52e": "2026-05-19T23:43:59.617Z",
@@ -3225,19 +3221,6 @@
       "company": "Pinterest",
       "score": 60,
       "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:64dc660ba9e1d000",
-      "title": "Machine Learning Engineer, PhD Intern",
-      "url": "https://instacart.careers/job/?gh_jid=5917202",
-      "location": "United States - Remote",
-      "department": "",
-      "company": "Instacart",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -6640,19 +6623,6 @@
       "company": "The State Bar of California",
       "score": 60,
       "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:dc7dc5305ed05ed6",
-      "title": "Machine Learning Engineer Intern",
-      "url": "https://instacart.careers/job/?gh_jid=5917202",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "Instacart",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -15324,20 +15294,6 @@
       ]
     },
     {
-      "id": "canonical:9f439239503e6f04",
-      "title": "Software Developer Co-op/Intern",
-      "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Developer--Fall-2026--Co-op-Internship----4-Months_R260013615-3",
-      "location": "Toronto, ON, Canada",
-      "department": "Software",
-      "company": "Bank of Montreal",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:4b7ee4e37edfe207",
       "title": "Economics Intern - Economic Decision Science",
       "url": "https://amazon.jobs/en/jobs/3192633/economics-intern-eu-stores-economic-decision-science",
@@ -18815,20 +18771,6 @@
       "company": "Harvard University",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:615da7f922d81c6e",
-      "title": "Junior Software Developer Intern",
-      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Halifax/_121837",
-      "location": "Halifax Regional Municipality, NS, Canada",
-      "department": "Software",
-      "company": "CAE",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
