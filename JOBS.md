@@ -1,10 +1,10 @@
 # Open Internships
 
-**1640** internships across **63/64** companies — last updated 2026-05-25.
+**1635** internships across **63/64** companies — last updated 2026-05-25.
 
 ## Companies
 
-- [AAA Club Alliance](#aaa-club-alliance) (4)
+- [AAA Club Alliance](#aaa-club-alliance) (1)
 - [ABB](#abb) (2)
 - [ABC News](#abc-news) (1)
 - [Abundant](#abundant) (1)
@@ -82,7 +82,7 @@
 - [Bank of Montreal](#bank-of-montreal) (1)
 - [Barkback](#barkback) (1)
 - [Base Power](#base-power) (1)
-- [BDO Canada](#bdo-canada) (1)
+- [BDO Canada](#bdo-canada) (2)
 - [beBeeManufacturingEngineering](#bebeemanufacturingengineering) (1)
 - [Becton Dickinson](#becton-dickinson) (1)
 - [Berkshire Grey](#berkshire-grey) (1)
@@ -274,7 +274,7 @@
 - [Genmab](#genmab) (1)
 - [GenScript](#genscript) (1)
 - [Genworth](#genworth) (1)
-- [Geotab](#geotab) (11)
+- [Geotab](#geotab) (9)
 - [Gimlet Labs](#gimlet-labs) (1)
 - [Ginkgo Bioworks](#ginkgo-bioworks) (2)
 - [GitHub](#github) (1)
@@ -423,7 +423,6 @@
 - [NewsBreak](#newsbreak) (3)
 - [Nexthink](#nexthink) (1)
 - [Nidec](#nidec) (1)
-- [NielsenIQ](#nielseniq) (1)
 - [Nightwing Intelligence Solutions](#nightwing-intelligence-solutions) (1)
 - [Nikkiso](#nikkiso) (1)
 - [Nintendo](#nintendo) (1)
@@ -682,9 +681,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [ML/AI Computer Science Intern](https://ace.wd5.myworkdayjobs.com/careers/job/Los-Angeles-CA/ML-AI-Computer-Science-Intern_JR202636277) | 68 | LA | AI/ML/Data | 2026-05-23 |
-| [Digital Product Management Intern](https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Digital-Product-Management-Intern_JR202636494) | 58 | Newport Beach, CA | Product | 2026-05-23 |
-| [Data & Marketing Analytics Intern](https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Data---Marketing-Analytics-Intern_JR202636492) | 48 | Newport Beach, CA | AI/ML/Data | 2026-05-23 |
 | [Digital Travel Product Intern](https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Digital-Travel-Product-Intern_JR202636489) | 58 | Newport Beach, CA | Product | 2026-05-20 |
 
 ## ABB
@@ -1243,6 +1239,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data & Analytics Co-op/Intern - Data & Analytics](https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Co-op-or-Intern--Data---Analytics--September-2026-_JR6295) | 68 | Montreal, QC, Canada / Toronto, ON, Canada / Calgary, AB, Canada / Oakville, ON, Canada / Ottawa, ON, Canada / Vancouver, BC, Canada / Halifax Regional Municipality, NS, Canada | AI/ML/Data | 2026-05-25 |
 | [Full-Stack Developer Intern/Co-op](https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Co-op-or-Intern--Full-Stack-Developer--September-2026-_JR6289) | 93 | Toronto, ON, Canada / Oakville, ON, Canada / Ottawa, ON, Canada | Software | 2026-05-15 |
 
 ## beBeeManufacturingEngineering
@@ -2578,8 +2575,6 @@
 | [Mobile Developer Intern](https://job-boards.greenhouse.io/internshiplist2000/jobs/5179078008) | 93 | Oakville, ON, Canada / Kitchener, ON, Canada | Software | 2026-05-09 |
 | [Software Developer Intern](https://job-boards.greenhouse.io/internshiplist2000/jobs/5153686008) | 93 | Toronto, ON, Canada / Oakville, ON, Canada / Kitchener, ON, Canada | Software | 2026-05-09 |
 | [Support Engineer Intern](https://job-boards.greenhouse.io/internshiplist2000/jobs/5185232008) | 93 | Oakville, ON, Canada | Software | 2026-05-09 |
-| [Vehicle Systems Engineer Intern](https://job-boards.greenhouse.io/internshiplist2000/jobs/5145632008) | 83 | Kitchener, ON, Canada | Hardware | 2026-05-09 |
-| [Vehicle Systems Engineer Intern](https://job-boards.greenhouse.io/internshiplist2000/jobs/5182466008) | 83 | Detroit, MI | Hardware | 2026-05-09 |
 | [Data Analyst Intern - Customer Success Operations](https://job-boards.greenhouse.io/internshiplist2000/jobs/5185496008) | 68 | Toronto, ON, Canada / Burnaby, BC, Canada / Oakville, ON, Canada | AI/ML/Data | 2026-05-09 |
 | [Product Coordinator Intern - Summer/May 2026 - 8 Months](https://job-boards.greenhouse.io/internshiplist2000/jobs/5019374008) | 58 | Toronto, ON, Canada / Oakville, ON, Canada / Kitchener, ON, Canada | Product | 2026-05-09 |
 | [Product Marketing Intern](https://job-boards.greenhouse.io/internshiplist2000/jobs/5184516008) | 38 | Oakville, ON, Canada | Product | 2026-05-09 |
@@ -3674,12 +3669,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern/Co-op](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAArkansasFt-Smith-AR/Software-Engineer-Co-Op_R0014409-1) | 93 | Fort Smith, AR | Hardware | 2026-05-16 |
-
-## NielsenIQ
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Science Intern](https://jobs.smartrecruiters.com/NielsenIQ/744000125222689) | 68 | Chicago, IL | AI/ML/Data | 2026-05-09 |
 
 ## Nightwing Intelligence Solutions
 

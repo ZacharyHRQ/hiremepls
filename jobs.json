@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-25T22:16:31.626Z",
+  "generatedAt": "2026-05-25T23:36:13.194Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1640,
+  "jobCount": 1635,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -891,7 +891,6 @@
     "canonical:20bc5f792126ba21": "2026-05-09T15:28:15.527Z",
     "canonical:5cdab76f508307f7": "2026-05-09T15:28:15.527Z",
     "canonical:1ec58067683787e8": "2026-05-09T15:28:15.527Z",
-    "canonical:647271d1391d55b4": "2026-05-09T15:28:15.527Z",
     "canonical:c0d72a2d4e421f51": "2026-05-09T15:28:15.527Z",
     "canonical:0df571af43a0eeac": "2026-05-09T15:28:15.527Z",
     "canonical:d711e695dc99e898": "2026-05-14T05:32:10.854Z",
@@ -938,9 +937,7 @@
     "canonical:fc0f3b224897c8cf": "2026-05-09T15:28:15.527Z",
     "canonical:bca4bcdaf7e22e24": "2026-05-09T15:28:15.527Z",
     "canonical:b06161b2a0f4c01f": "2026-05-09T15:28:15.527Z",
-    "canonical:c90e8f62f08de811": "2026-05-09T15:28:15.527Z",
     "canonical:1c46dbb7e120e004": "2026-05-09T15:28:15.527Z",
-    "canonical:2c9c6b3afa55e4bb": "2026-05-09T15:28:15.527Z",
     "canonical:baa626949f45fbd4": "2026-05-09T15:28:15.527Z",
     "canonical:7716b89faf1c2355": "2026-05-09T15:28:15.527Z",
     "canonical:1b8ee10f16991056": "2026-05-16T07:09:10.733Z",
@@ -1507,7 +1504,6 @@
     "canonical:5faa1c9528f64532": "2026-05-22T22:57:08.943Z",
     "canonical:1ed5a7059fed0450": "2026-05-22T22:57:08.943Z",
     "canonical:2e51f17f71bee78d": "2026-05-23T00:02:34.826Z",
-    "canonical:6b24f14c98dc711c": "2026-05-23T00:02:34.826Z",
     "canonical:a20ccbf2ea91ff94": "2026-05-23T00:02:34.826Z",
     "canonical:d6924ab3834ef5dc": "2026-05-23T00:02:34.826Z",
     "canonical:8897923fa0d36177": "2026-05-23T00:02:34.826Z",
@@ -1519,7 +1515,6 @@
     "canonical:29da251a9e02427f": "2026-05-23T00:02:34.826Z",
     "canonical:7664e885ea65360a": "2026-05-23T00:02:34.826Z",
     "canonical:f37a3bfdec6850a3": "2026-05-23T00:02:34.826Z",
-    "canonical:3a9114dc9bab97b2": "2026-05-23T04:05:56.236Z",
     "canonical:f45a04a294acd566": "2026-05-23T04:05:56.236Z",
     "canonical:ea35e8fcdad6f202": "2026-05-23T04:05:56.236Z",
     "canonical:45cd46e8fc53009e": "2026-05-23T04:05:56.236Z",
@@ -1606,7 +1601,6 @@
     "canonical:80c6067b31d9007c": "2026-05-23T17:34:41.089Z",
     "canonical:7e6f0314e90a9891": "2026-05-23T17:34:41.089Z",
     "canonical:55abf604a6bf53ca": "2026-05-23T17:34:41.089Z",
-    "canonical:79793f14c94adf63": "2026-05-23T17:34:41.089Z",
     "canonical:f27c30f5eef5d1fb": "2026-05-23T17:34:41.089Z",
     "canonical:af58faec41630a9a": "2026-05-23T18:41:12.286Z",
     "canonical:223669d31e7e9fb5": "2026-05-23T18:41:12.286Z",
@@ -1643,7 +1637,8 @@
     "canonical:7621f3e1f686b2a6": "2026-05-25T11:04:23.174Z",
     "canonical:5a965f80dc06a1f2": "2026-05-25T11:04:23.174Z",
     "canonical:cc828c004789a05f": "2026-05-25T16:37:02.998Z",
-    "canonical:c3ffe2df124fb0f0": "2026-05-25T16:37:02.998Z"
+    "canonical:c3ffe2df124fb0f0": "2026-05-25T16:37:02.998Z",
+    "canonical:e5352ecac86f34d9": "2026-05-25T23:36:13.194Z"
   },
   "jobs": [
     {
@@ -15221,19 +15216,6 @@
       ]
     },
     {
-      "id": "canonical:647271d1391d55b4",
-      "title": "Vehicle Systems Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5145632008",
-      "location": "Kitchener, ON, Canada",
-      "department": "Hardware",
-      "company": "Geotab",
-      "score": 83,
-      "scoreReasons": [
-        "SWE-aligned",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:c0d72a2d4e421f51",
       "title": "Engineering Intern",
       "url": "https://job-boards.greenhouse.io/energyhub/jobs/8523607002",
@@ -16071,38 +16053,12 @@
       ]
     },
     {
-      "id": "canonical:c90e8f62f08de811",
-      "title": "Vehicle Systems Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5182466008",
-      "location": "Detroit, MI",
-      "department": "Hardware",
-      "company": "Geotab",
-      "score": 83,
-      "scoreReasons": [
-        "SWE-aligned",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:1c46dbb7e120e004",
       "title": "Trading Intern",
       "url": "https://job-boards.greenhouse.io/gelbergroup/jobs/4679858006",
       "location": "Boston, MA",
       "department": "Quant",
       "company": "Gelber Group",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:2c9c6b3afa55e4bb",
-      "title": "Data Science Intern",
-      "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000125222689",
-      "location": "Chicago, IL",
-      "department": "AI/ML/Data",
-      "company": "NielsenIQ",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -17605,6 +17561,19 @@
       ]
     },
     {
+      "id": "canonical:e5352ecac86f34d9",
+      "title": "Data & Analytics Co-op/Intern - Data & Analytics",
+      "url": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Co-op-or-Intern--Data---Analytics--September-2026-_JR6295",
+      "location": "Montreal, QC, Canada / Toronto, ON, Canada / Calgary, AB, Canada / Oakville, ON, Canada / Ottawa, ON, Canada / Vancouver, BC, Canada / Halifax Regional Municipality, NS, Canada",
+      "department": "AI/ML/Data",
+      "company": "BDO Canada",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:e4240dee8fc1eab4",
       "title": "Computational Neuroscience Intern - Data Analysis and Modeling",
       "url": "https://jobs.ashbyhq.com/astera/d20c0641-1b3e-4666-bc08-4f90ee813261/application",
@@ -18367,18 +18336,6 @@
       ]
     },
     {
-      "id": "canonical:3a9114dc9bab97b2",
-      "title": "Digital Product Management Intern",
-      "url": "https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Digital-Product-Management-Intern_JR202636494",
-      "location": "Newport Beach, CA",
-      "department": "Product",
-      "company": "AAA Club Alliance",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:7e6f0314e90a9891",
       "title": "Customer Experience Product Management Specialist 1 Intern",
       "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Customer-Experience-Product-Management-Specialist-I--Intern----United-States_2008430",
@@ -18388,20 +18345,6 @@
       "score": 58,
       "scoreReasons": [
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:6b24f14c98dc711c",
-      "title": "Data & Marketing Analytics Intern",
-      "url": "https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Data---Marketing-Analytics-Intern_JR202636492",
-      "location": "Newport Beach, CA",
-      "department": "AI/ML/Data",
-      "company": "AAA Club Alliance",
-      "score": 48,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS",
-        "lower-fit title"
       ]
     },
     {
@@ -19994,19 +19937,6 @@
       "score": 83,
       "scoreReasons": [
         "SWE-aligned",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:79793f14c94adf63",
-      "title": "ML/AI Computer Science Intern",
-      "url": "https://ace.wd5.myworkdayjobs.com/careers/job/Los-Angeles-CA/ML-AI-Computer-Science-Intern_JR202636277",
-      "location": "LA",
-      "department": "AI/ML/Data",
-      "company": "AAA Club Alliance",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
         "direct ATS"
       ]
     },
