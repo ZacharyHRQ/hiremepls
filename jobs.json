@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-25T18:14:05.977Z",
+  "generatedAt": "2026-05-25T19:59:10.722Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1649,
+  "jobCount": 1642,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -190,7 +190,6 @@
     "canonical:dba5394d0f2cb4b3": "2026-05-09T15:28:15.527Z",
     "canonical:5d229b5f5a269416": "2026-05-09T15:28:15.527Z",
     "canonical:f45dd43f28f73753": "2026-05-09T15:28:15.527Z",
-    "canonical:f5fc9030a6492f67": "2026-05-09T15:28:15.527Z",
     "canonical:c1cca79abc785a77": "2026-05-09T15:28:15.527Z",
     "canonical:119d44d7e3653752": "2026-05-09T15:28:15.527Z",
     "canonical:ee39f279c66cba30": "2026-05-09T15:28:15.527Z",
@@ -352,7 +351,6 @@
     "canonical:251d68af734c14ba": "2026-05-09T15:28:15.527Z",
     "canonical:78fe3b68b1b8794d": "2026-05-09T15:28:15.527Z",
     "canonical:2fc496d13a88f279": "2026-05-09T15:28:15.527Z",
-    "canonical:2e41e5d3d1e7eb6a": "2026-05-09T15:28:15.527Z",
     "canonical:7d84dc80517586bb": "2026-05-09T15:28:15.527Z",
     "canonical:c9ec25487402b980": "2026-05-09T15:28:15.527Z",
     "canonical:4ea633e5feb7f408": "2026-05-09T15:28:15.527Z",
@@ -693,7 +691,6 @@
     "canonical:4681acf53968c81b": "2026-05-16T07:09:10.733Z",
     "canonical:25aa7210d3389716": "2026-05-09T15:28:15.527Z",
     "canonical:dcad659b98f1e696": "2026-05-09T15:28:15.527Z",
-    "canonical:6fe48f012dc1346c": "2026-05-13T23:40:40.818Z",
     "canonical:5f0c132b1b14e2e1": "2026-05-09T15:28:15.527Z",
     "canonical:96233cebc75fdbb2": "2026-05-09T15:28:15.527Z",
     "canonical:9b4f6804f15b2767": "2026-05-09T15:28:15.527Z",
@@ -901,7 +898,6 @@
     "canonical:d711e695dc99e898": "2026-05-14T05:32:10.854Z",
     "canonical:db017660ddf68d47": "2026-05-09T15:28:15.527Z",
     "canonical:bb0b6ddd80259465": "2026-05-09T15:28:15.527Z",
-    "canonical:b37e8478ab6ee3cc": "2026-05-09T15:28:15.527Z",
     "canonical:a282aa4af08894f9": "2026-05-09T15:28:15.527Z",
     "canonical:e60dea0edc7d6c6a": "2026-05-09T15:28:15.527Z",
     "canonical:98880bd4907fe4bf": "2026-05-09T15:28:15.527Z",
@@ -1254,7 +1250,6 @@
     "canonical:a4a17d0d57e99a9a": "2026-05-16T19:21:47.725Z",
     "canonical:51a3cddbac5ec599": "2026-05-16T19:21:47.725Z",
     "canonical:1a36c38a48406fc0": "2026-05-16T20:09:24.477Z",
-    "canonical:d513e013272b6d3b": "2026-05-16T20:09:24.477Z",
     "canonical:2ec0ee7304849599": "2026-05-16T20:09:24.477Z",
     "canonical:fb4acca2a68100c8": "2026-05-16T21:02:08.432Z",
     "canonical:1e03135dcf302608": "2026-05-16T21:02:08.432Z",
@@ -1406,7 +1401,6 @@
     "canonical:cddb00a45185b83c": "2026-05-19T23:43:59.617Z",
     "canonical:fbdd5a056fe65f91": "2026-05-20T01:49:18.107Z",
     "canonical:3868ed2c3a73eaa7": "2026-05-20T01:49:18.107Z",
-    "canonical:bfee5c7c0ec54d9d": "2026-05-20T01:49:18.107Z",
     "canonical:688706088beffa8d": "2026-05-20T01:49:18.107Z",
     "canonical:f29d9652976f2d45": "2026-05-20T01:49:18.107Z",
     "canonical:f48979ffdddb6983": "2026-05-20T01:49:18.107Z",
@@ -1502,7 +1496,6 @@
     "canonical:966027cb4e682530": "2026-05-22T12:12:54.082Z",
     "canonical:5692c2e63f3590a9": "2026-05-22T15:21:58.171Z",
     "canonical:8212975b7a6dc9b6": "2026-05-22T15:21:58.171Z",
-    "canonical:27a42b383e7b16f6": "2026-05-22T17:20:39.623Z",
     "canonical:3a01055c1e1e8e55": "2026-05-22T21:57:59.650Z",
     "canonical:70e6b1017a677e65": "2026-05-22T21:57:59.650Z",
     "canonical:f652b42fc85fb65c": "2026-05-22T21:57:59.650Z",
@@ -3004,19 +2997,6 @@
       ]
     },
     {
-      "id": "canonical:27a42b383e7b16f6",
-      "title": "Sales Project Manager (Process & AI Innovation)  Summer Intern - 3 months",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7899062?gh_jid=7899062",
-      "location": "In-Office",
-      "department": "",
-      "company": "Cloudflare",
-      "score": 38,
-      "scoreReasons": [
-        "direct ATS",
-        "lower-fit title"
-      ]
-    },
-    {
       "id": "canonical:accc7acdf5c4229f",
       "title": "Sales: Solutions Engineer - Intern (Summer & Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7792962?gh_jid=7792962",
@@ -3032,7 +3012,7 @@
     {
       "id": "canonical:d14a513f8325af8e",
       "title": "Security Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -3083,7 +3063,7 @@
     {
       "id": "canonical:31dd1ab15c427f1e",
       "title": "Technical Support Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726977?gh_jid=7726977",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -4056,19 +4036,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:f5fc9030a6492f67",
-      "title": "Automation Developer Intern (Summer 2026)",
-      "url": "https://ats.rippling.com/apexanalytix-careers/jobs/44770cc8-e763-4095-bd6d-af6ab566fd4a",
-      "location": "Greensboro, NC",
-      "department": "Software",
-      "company": "APEX Analytix",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -6229,18 +6196,6 @@
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:2e41e5d3d1e7eb6a",
-      "title": "Data Analyst Intern",
-      "url": "https://ats.rippling.com/apexanalytix-careers/jobs/999da522-f122-4560-8e6e-152bc97f9342",
-      "location": "Greensboro, NC",
-      "department": "AI/ML/Data",
-      "company": "APEX Analytix",
-      "score": 60,
-      "scoreReasons": [
         "high-signal role"
       ]
     },
@@ -11833,19 +11788,6 @@
       ]
     },
     {
-      "id": "canonical:6fe48f012dc1346c",
-      "title": "NET Application Developer Intern",
-      "url": "https://ats.rippling.com/apexanalytix-careers/jobs/e4557482-8bb2-4c04-a074-41566107e6f1",
-      "location": "Greensboro, NC",
-      "department": "Software",
-      "company": "APEX Analytix",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:5f0c132b1b14e2e1",
       "title": "Software Engineering Intern",
       "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-MI-Ypsilanti/Software-Engineering-Intern---Summer-2026_324253",
@@ -13092,18 +13034,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:d513e013272b6d3b",
-      "title": "Wealth Management – Distribution Product Management Intern",
-      "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/VANCOUVER-British-Columbia-Canada/XMLNAME-2026-Wealth-Management--Fall-Distribution-Product-Management-Intern--12-months-_R-0000167778",
-      "location": "Vancouver, BC, Canada",
-      "department": "Product",
-      "company": "Royal Bank of Canada",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
       ]
     },
     {
@@ -15428,20 +15358,6 @@
       "company": "NVIDIA",
       "score": 58,
       "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:b37e8478ab6ee3cc",
-      "title": "Software Developer 1 Intern/Co-op",
-      "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/Software-Developer-I---4-Month-Internship-Co-op--Fall-2026-_R153466",
-      "location": "Toronto, ON, Canada",
-      "department": "Software",
-      "company": "Intact",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
         "direct ATS"
       ]
     },
@@ -18817,19 +18733,6 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:bfee5c7c0ec54d9d",
-      "title": "Quality Digital Internship - Quality Systems & Validation",
-      "url": "https://takeda.wd3.myworkdayjobs.com/external/job/USA---MA---Lexington---BIO-OPS/XMLNAME-2026-Summer-Internship-Program--Quality-Digital--Quality-Systems---Validation--Intern_R0165394",
-      "location": "Lexington, MA",
-      "department": "AI/ML/Data",
-      "company": "Takeda",
-      "score": 68,
-      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
