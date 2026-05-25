@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-24T23:51:38.429Z",
+  "generatedAt": "2026-05-25T02:30:16.807Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1674,
+  "jobCount": 1671,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -252,13 +252,9 @@
     "canonical:3c8f92cbbb0a8caa": "2026-05-09T15:28:15.527Z",
     "canonical:1fae7dc4222f0576": "2026-05-09T15:28:15.527Z",
     "canonical:42b1cca7e9a74503": "2026-05-09T15:28:15.527Z",
-    "canonical:abab8d3f653a5352": "2026-05-09T15:28:15.527Z",
     "canonical:343dcbc5d0edc957": "2026-05-09T15:28:15.527Z",
     "canonical:8d3a317587669b0d": "2026-05-09T15:28:15.527Z",
-    "canonical:ff83cdf3889a45c3": "2026-05-09T15:28:15.527Z",
-    "canonical:87f44e871d837c21": "2026-05-09T15:28:15.527Z",
     "canonical:aea25bda9a2f827a": "2026-05-09T15:28:15.527Z",
-    "canonical:0f15d15ab17ba1e8": "2026-05-09T15:28:15.527Z",
     "canonical:496de065a02d9533": "2026-05-09T15:28:15.527Z",
     "canonical:aeec652ded729013": "2026-05-09T15:28:15.527Z",
     "canonical:8f89190a24671e28": "2026-05-09T15:28:15.527Z",
@@ -1677,7 +1673,8 @@
     "canonical:c989ff56fcf2c167": "2026-05-24T16:41:35.666Z",
     "canonical:e2cbec72bcde74c4": "2026-05-24T16:41:35.666Z",
     "canonical:25c121ae4c74f980": "2026-05-24T22:50:25.566Z",
-    "canonical:8fbd561a44a3e89b": "2026-05-24T22:50:25.566Z"
+    "canonical:8fbd561a44a3e89b": "2026-05-24T22:50:25.566Z",
+    "canonical:296035cd95b6d0a8": "2026-05-25T02:30:16.807Z"
   },
   "jobs": [
     {
@@ -4909,19 +4906,6 @@
       ]
     },
     {
-      "id": "canonical:abab8d3f653a5352",
-      "title": "Analytics Engineer Intern - Summer 2026",
-      "url": "https://explore.jobs.netflix.net/careers/job/790313055767",
-      "location": "LA / Los Gatos, CA",
-      "department": "AI/ML/Data",
-      "company": "Netflix",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:343dcbc5d0edc957",
       "title": "Data Visualization Engineering Intern - Summer 2026",
       "url": "https://explore.jobs.netflix.net/careers/job/790313056617",
@@ -4946,30 +4930,6 @@
       ]
     },
     {
-      "id": "canonical:ff83cdf3889a45c3",
-      "title": "Analytics Engineering Intern - Summer 2026",
-      "url": "https://explore.jobs.netflix.net/careers/job/790313056024",
-      "location": "LA / Los Gatos, CA",
-      "department": "AI/ML/Data",
-      "company": "Netflix",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:87f44e871d837c21",
-      "title": "Video Algorithms Intern - Summer 2026",
-      "url": "https://explore.jobs.netflix.net/careers/job/790313056868",
-      "location": "Los Gatos, CA",
-      "department": "AI/ML/Data",
-      "company": "Netflix",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:aea25bda9a2f827a",
       "title": "Experimentation & Causal Inference Intern - Summer 2026",
       "url": "https://explore.jobs.netflix.net/careers/job/790313056618",
@@ -4978,19 +4938,6 @@
       "company": "Netflix",
       "score": 60,
       "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:0f15d15ab17ba1e8",
-      "title": "Data Engineer Intern",
-      "url": "https://explore.jobs.netflix.net/careers/job/790313056337",
-      "location": "LA / Los Gatos, CA",
-      "department": "AI/ML/Data",
-      "company": "Netflix",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -20717,6 +20664,18 @@
       "location": "Huntsville, AL",
       "department": "Software",
       "company": "Akima",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:296035cd95b6d0a8",
+      "title": "Software Development Co-op/Intern - C++",
+      "url": "https://careers-kinaxis.icims.com/jobs/34764/job?mobile=true&needsRedirect=false",
+      "location": "Ottawa, ON, Canada",
+      "department": "Software",
+      "company": "Kinaxis",
       "score": 60,
       "scoreReasons": [
         "high-signal role"

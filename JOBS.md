@@ -1,6 +1,6 @@
 # Open Internships
 
-**1674** internships across **63/64** companies — last updated 2026-05-24.
+**1671** internships across **63/64** companies — last updated 2026-05-25.
 
 ## Companies
 
@@ -351,7 +351,7 @@
 - [KBR](#kbr) (6)
 - [Kelso Industries](#kelso-industries) (1)
 - [Keystone AI](#keystone-ai) (1)
-- [Kinaxis](#kinaxis) (3)
+- [Kinaxis](#kinaxis) (4)
 - [KION Group](#kion-group) (7)
 - [Kioxia](#kioxia) (1)
 - [Kira](#kira) (2)
@@ -420,7 +420,7 @@
 - [Naïve](#na-ve) (1)
 - [Nash](#nash) (2)
 - [NBCUniversal](#nbcuniversal) (2)
-- [Netflix](#netflix) (9)
+- [Netflix](#netflix) (5)
 - [Neuralink](#neuralink) (3)
 - [NewsBreak](#newsbreak) (3)
 - [Nexthink](#nexthink) (1)
@@ -3132,6 +3132,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Development Co-op/Intern - C++](https://careers-kinaxis.icims.com/jobs/34764/job?mobile=true&needsRedirect=false) | 60 | Ottawa, ON, Canada | Software | 2026-05-25 |
 | [Automation Specialist Intern](https://careers-kinaxis.icims.com/jobs/34800/job?mobile=true&needsRedirect=false) | 60 | Ottawa, ON, Canada | Software | 2026-05-21 |
 | [Engineer Co-op/Intern - Data & Analytics](https://careers-kinaxis.icims.com/jobs/34766/job?mobile=true&needsRedirect=false) | 85 | Ottawa, ON, Canada | AI/ML/Data | 2026-05-20 |
 | [Software Developer Co-op/Intern - Developer Framework](https://careers-kinaxis.icims.com/jobs/34763/job?mobile=true&needsRedirect=false) | 85 | Ottawa, ON, Canada | Software | 2026-05-14 |
@@ -3677,14 +3678,10 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Video Algorithms Intern - Video Coding - Gaussian Splatting](https://explore.jobs.netflix.net/careers/job/790315673635) | 60 | LA / Los Gatos, CA | AI/ML/Data | 2026-05-22 |
-| [Analytics Engineer Intern - Summer 2026](https://explore.jobs.netflix.net/careers/job/790313055767) | 85 | LA / Los Gatos, CA | AI/ML/Data | 2026-05-09 |
-| [Data Engineer Intern](https://explore.jobs.netflix.net/careers/job/790313056337) | 85 | LA / Los Gatos, CA | AI/ML/Data | 2026-05-09 |
 | [Software Engineer PhD Intern - Streaming Algorithms - Summer 2026](https://explore.jobs.netflix.net/careers/job/790313241540) | 85 | Los Gatos, CA | Software | 2026-05-09 |
-| [Analytics Engineering Intern - Summer 2026](https://explore.jobs.netflix.net/careers/job/790313056024) | 60 | LA / Los Gatos, CA | AI/ML/Data | 2026-05-09 |
 | [Data Visualization Engineering Intern - Summer 2026](https://explore.jobs.netflix.net/careers/job/790313056617) | 60 | Los Gatos, CA | AI/ML/Data | 2026-05-09 |
 | [Experimentation & Causal Inference Intern - Summer 2026](https://explore.jobs.netflix.net/careers/job/790313056618) | 60 | LA / Los Gatos, CA | AI/ML/Data | 2026-05-09 |
 | [Internet Measurement Research Intern - Openconnect Distributed Systems - Summer 2026](https://explore.jobs.netflix.net/careers/job/790313056856) | 60 | LA / Los Gatos, CA | AI/ML/Data | 2026-05-09 |
-| [Video Algorithms Intern - Summer 2026](https://explore.jobs.netflix.net/careers/job/790313056868) | 60 | Los Gatos, CA | AI/ML/Data | 2026-05-09 |
 
 ## Neuralink
 
