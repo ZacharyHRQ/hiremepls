@@ -1,6 +1,6 @@
 # Open Internships
 
-**1650** internships across **63/64** companies — last updated 2026-05-25.
+**1652** internships across **63/64** companies — last updated 2026-05-25.
 
 ## Companies
 
@@ -69,7 +69,7 @@
 - [ATPCO](#atpco) (1)
 - [Attentive](#attentive) (1)
 - [Auctor](#auctor) (1)
-- [Autodesk](#autodesk) (1)
+- [Autodesk](#autodesk) (2)
 - [Avanade](#avanade) (1)
 - [Avery Dennison](#avery-dennison) (1)
 - [Avis Budget Group](#avis-budget-group) (1)
@@ -136,7 +136,7 @@
 - [Chartwells Higher Education Dining Services](#chartwells-higher-education-dining-services) (1)
 - [Cherry Bekaert](#cherry-bekaert) (2)
 - [Chubb](#chubb) (1)
-- [Ciena](#ciena) (2)
+- [Ciena](#ciena) (3)
 - [Cirrus Logic](#cirrus-logic) (2)
 - [Cisco](#cisco) (1)
 - [Cisive](#cisive) (2)
@@ -1159,6 +1159,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Product Management Intern](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Product-Management_26WD96785-1) | 58 | Toronto, ON, Canada | Product | 2026-05-25 |
 | [PhD Intern - HCI & Visualization Research](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/PhD-Intern--HCI---Visualization-Research_25WD91740-2) | 68 | Toronto, ON, Canada / SF | AI/ML/Data | 2026-05-18 |
 
 ## Avanade
@@ -1621,6 +1622,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Optical Platform Systems Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Optical-Platform-Systems-Intern--Fall-2026---4-months-_R031001) | 68 | Ottawa, ON, Canada | Hardware | 2026-05-25 |
 | [Network Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-UK/Network-Engineer-Intern--12-Months-_R030434) | 93 | Remote in Germany / Remote in UK | Software | 2026-05-23 |
 | [Hardware Design and Verification Intern - Pcba](https://ciena.wd5.myworkdayjobs.com/Careers/job/Canada--Ottawa--383-Terry-Fox--Bldg-C/Hardware--PCBA--Design-and-Verification-Intern--Fall-2026-_R030823) | 58 | Ottawa, ON, Canada | Hardware | 2026-05-17 |
 

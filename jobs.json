@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-25T14:16:48.920Z",
+  "generatedAt": "2026-05-25T16:37:02.998Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1650,
+  "jobCount": 1652,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1653,7 +1653,9 @@
     "canonical:f69f497a5e6596b2": "2026-05-25T06:54:01.972Z",
     "canonical:ce36bf0d678fee13": "2026-05-25T06:54:01.972Z",
     "canonical:7621f3e1f686b2a6": "2026-05-25T11:04:23.174Z",
-    "canonical:5a965f80dc06a1f2": "2026-05-25T11:04:23.174Z"
+    "canonical:5a965f80dc06a1f2": "2026-05-25T11:04:23.174Z",
+    "canonical:cc828c004789a05f": "2026-05-25T16:37:02.998Z",
+    "canonical:c3ffe2df124fb0f0": "2026-05-25T16:37:02.998Z"
   },
   "jobs": [
     {
@@ -20379,6 +20381,31 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:cc828c004789a05f",
+      "title": "Product Management Intern",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Product-Management_26WD96785-1",
+      "location": "Toronto, ON, Canada",
+      "department": "Product",
+      "company": "Autodesk",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c3ffe2df124fb0f0",
+      "title": "Optical Platform Systems Intern",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Optical-Platform-Systems-Intern--Fall-2026---4-months-_R031001",
+      "location": "Ottawa, ON, Canada",
+      "department": "Hardware",
+      "company": "Ciena",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
