@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-25T06:54:01.972Z",
+  "generatedAt": "2026-05-25T11:04:23.174Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1662,
+  "jobCount": 1654,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -674,11 +674,8 @@
     "canonical:5f9844873d666e95": "2026-05-09T15:28:15.527Z",
     "canonical:2fc531ef306b7506": "2026-05-09T15:28:15.527Z",
     "canonical:a8652c25731ec5c0": "2026-05-09T15:28:15.527Z",
-    "canonical:48239d814e9974f7": "2026-05-09T15:28:15.527Z",
-    "canonical:12939e2d6ee3708c": "2026-05-09T15:28:15.527Z",
     "canonical:60d4eb07453b6428": "2026-05-09T15:28:15.527Z",
     "canonical:7ca63fb282883ee7": "2026-05-09T15:28:15.527Z",
-    "canonical:f55e844b862a8bf2": "2026-05-09T15:28:15.527Z",
     "canonical:b765ab2f9f11d895": "2026-05-09T15:28:15.527Z",
     "canonical:fd3a144ce91c5f4a": "2026-05-09T15:28:15.527Z",
     "canonical:dde4608caa90eb0b": "2026-05-09T15:28:15.527Z",
@@ -758,7 +755,6 @@
     "canonical:79b3e05c491f9d88": "2026-05-09T15:28:15.527Z",
     "canonical:687c3378f51e2c93": "2026-05-13T23:40:40.818Z",
     "canonical:39a291f7fafae758": "2026-05-09T15:28:15.527Z",
-    "canonical:9abe8e5891218167": "2026-05-09T15:28:15.527Z",
     "canonical:9508a5dd181c1039": "2026-05-09T15:28:15.527Z",
     "canonical:d757936676f7fcf8": "2026-05-09T15:28:15.527Z",
     "canonical:d13f9985cc389397": "2026-05-09T15:28:15.527Z",
@@ -873,7 +869,6 @@
     "canonical:895bd936f9710abc": "2026-05-09T15:28:15.527Z",
     "canonical:a7cc180283334651": "2026-05-09T15:28:15.527Z",
     "canonical:d6368170104e0f33": "2026-05-09T15:28:15.527Z",
-    "canonical:a6c0436cfead11ee": "2026-05-09T15:28:15.527Z",
     "canonical:4ae090f51da276c9": "2026-05-09T15:28:15.527Z",
     "canonical:ccb8f5a0871e1a02": "2026-05-09T15:28:15.527Z",
     "canonical:bf7719c9b91974ac": "2026-05-09T15:28:15.527Z",
@@ -899,9 +894,7 @@
     "canonical:4d08f6e3d7e3bc1e": "2026-05-09T15:28:15.527Z",
     "canonical:3e61bd7d54d1d13a": "2026-05-09T15:28:15.527Z",
     "canonical:9033f4b5e8eae79e": "2026-05-09T15:28:15.527Z",
-    "canonical:08399029571c1f1e": "2026-05-09T15:28:15.527Z",
     "canonical:9f439239503e6f04": "2026-05-09T15:28:15.527Z",
-    "canonical:5bac4b70649d374f": "2026-05-09T15:28:15.527Z",
     "canonical:d5f5dfde424a0384": "2026-05-09T15:28:15.527Z",
     "canonical:fccfc992b3272dc8": "2026-05-09T15:28:15.527Z",
     "canonical:4b7ee4e37edfe207": "2026-05-09T15:28:15.527Z",
@@ -914,8 +907,6 @@
     "canonical:d711e695dc99e898": "2026-05-14T05:32:10.854Z",
     "canonical:db017660ddf68d47": "2026-05-09T15:28:15.527Z",
     "canonical:bb0b6ddd80259465": "2026-05-09T15:28:15.527Z",
-    "canonical:822f967f52f73fd3": "2026-05-09T15:28:15.527Z",
-    "canonical:e073e8c5817e1e99": "2026-05-09T15:28:15.527Z",
     "canonical:b37e8478ab6ee3cc": "2026-05-09T15:28:15.527Z",
     "canonical:a282aa4af08894f9": "2026-05-09T15:28:15.527Z",
     "canonical:e60dea0edc7d6c6a": "2026-05-09T15:28:15.527Z",
@@ -1034,7 +1025,6 @@
     "canonical:5d5c9780f955f253": "2026-05-14T05:32:10.854Z",
     "canonical:05df72f4403dd476": "2026-05-14T05:32:10.854Z",
     "canonical:888e5e3e8bc2dfab": "2026-05-14T05:32:10.854Z",
-    "canonical:3f78fc990171c019": "2026-05-14T05:32:10.854Z",
     "canonical:b5afd52c0570a527": "2026-05-14T05:32:10.854Z",
     "canonical:f3a92b5cc46dc879": "2026-05-14T05:32:10.854Z",
     "canonical:211f8c8f1543e4ac": "2026-05-14T05:32:10.854Z",
@@ -1665,7 +1655,9 @@
     "canonical:296035cd95b6d0a8": "2026-05-25T02:30:16.807Z",
     "canonical:8554f9e2472d2c0d": "2026-05-25T06:54:01.972Z",
     "canonical:f69f497a5e6596b2": "2026-05-25T06:54:01.972Z",
-    "canonical:ce36bf0d678fee13": "2026-05-25T06:54:01.972Z"
+    "canonical:ce36bf0d678fee13": "2026-05-25T06:54:01.972Z",
+    "canonical:7621f3e1f686b2a6": "2026-05-25T11:04:23.174Z",
+    "canonical:5a965f80dc06a1f2": "2026-05-25T11:04:23.174Z"
   },
   "jobs": [
     {
@@ -2150,10 +2142,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -2164,10 +2156,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -11554,32 +11546,6 @@
       ]
     },
     {
-      "id": "canonical:48239d814e9974f7",
-      "title": "Internship: Full Stack Developer (Java)",
-      "url": "https://priscorp.applicantpro.com/jobs/4042721",
-      "location": "Bedford Park, IL",
-      "department": "Software Engineering",
-      "company": "Preferred Risk Insurance Services",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:12939e2d6ee3708c",
-      "title": "Internship: Full Stack Developer (C# .Net Core and React)",
-      "url": "https://priscorp.applicantpro.com/jobs/4042878",
-      "location": "Bedford Park, IL",
-      "department": "Software Engineering",
-      "company": "Preferred Risk Insurance Services",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:60d4eb07453b6428",
       "title": "Intern Software Engineer",
       "url": "https://careers.veeva.com/job/4df9c2ca-d702-4d41-af82-290deff66564/intern-software-engineer-summer-2026-pleasanton-ca/",
@@ -11601,19 +11567,6 @@
       "company": "Omnis",
       "score": 60,
       "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:f55e844b862a8bf2",
-      "title": "Software Developer Intern",
-      "url": "https://jobs.dayforcehcm.com/en-US/texasfarm/CANDIDATEPORTAL/jobs/634",
-      "location": "Waco, TX",
-      "department": "Software Engineering",
-      "company": "Texas Farm Bureau Casualty Insurance Company",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -12822,18 +12775,6 @@
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:9abe8e5891218167",
-      "title": "Technology & Data Science Intern",
-      "url": "https://scentair.applytojob.com/apply/biM9pB8qhL/Technology-Data-Science-Intern-ScentAir-Charlotte-NC",
-      "location": "Charlotte, NC",
-      "department": "Software Engineering",
-      "company": "ScentAir",
-      "score": 60,
-      "scoreReasons": [
         "high-signal role"
       ]
     },
@@ -14163,6 +14104,20 @@
       ]
     },
     {
+      "id": "canonical:7621f3e1f686b2a6",
+      "title": "Data Scientist Intern",
+      "url": "https://job-boards.greenhouse.io/integrainterns/jobs/5134593008",
+      "location": "Austin, TX",
+      "department": "AI/ML/Data",
+      "company": "Integra FEC",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:25c914101f963271",
       "title": "Software Developer Intern",
       "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--September-2026-12-Months-_R09971",
@@ -14919,19 +14874,6 @@
       ]
     },
     {
-      "id": "canonical:a6c0436cfead11ee",
-      "title": "Cloud Systems Engineer, Internship",
-      "url": "https://careers-axway.icims.com/jobs/8658/cloud-systems-engineer%2c-internship/job",
-      "location": "Scottsdale, AZ",
-      "department": "Software Engineering",
-      "company": "Axway",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:4ae090f51da276c9",
       "title": "Infrastructure Software Engineering Intern",
       "url": "https://jobs.ashbyhq.com/atomicsemi/867c67f7-20b5-4726-b9da-85a760d3851e",
@@ -15356,46 +15298,6 @@
       ]
     },
     {
-      "id": "canonical:08399029571c1f1e",
-      "title": "Cloud Business & Strategy Analytics Analyst Co-op/Internship",
-      "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Cloud-Business---Strategy-Analytics-Analyst--Fall-2026--Co-op-Internship----4-Months_R260013662",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Bank of Montreal",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:9f439239503e6f04",
-      "title": "Software Developer Co-op/Intern",
-      "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Developer--Fall-2026--Co-op-Internship----8-Months_R260013663",
-      "location": "Toronto, ON, Canada",
-      "department": "Software",
-      "company": "Bank of Montreal",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:5bac4b70649d374f",
-      "title": "Analyst Co-op/Intern - Months",
-      "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Analyst--Fall-2026--Co-op-Internship----12-Months_R260013681",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Bank of Montreal",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:d5f5dfde424a0384",
       "title": "Software/Electrical Engineering Intern",
       "url": "https://curtisswright.wd1.myworkdayjobs.com/en-US/cw_external_career_site/job/US-PA-Newtown-TTC/Software-Electrical-Engineering-Intern_JR11947-1",
@@ -15419,6 +15321,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:9f439239503e6f04",
+      "title": "Software Developer Co-op/Intern",
+      "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Developer--Fall-2026--Co-op-Internship----4-Months_R260013615-3",
+      "location": "Toronto, ON, Canada",
+      "department": "Software",
+      "company": "Bank of Montreal",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -15571,34 +15487,6 @@
       "company": "TikTok",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:822f967f52f73fd3",
-      "title": "Data Scientist 1 Intern/Co-op",
-      "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Vancouver-British-Columbia-CAN/Data-Scientist-I--4-Month-Co-op-Internship--Fall-2026-_R152902-1",
-      "location": "Vancouver, BC, Canada",
-      "department": "AI/ML/Data",
-      "company": "Intact",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:e073e8c5817e1e99",
-      "title": "Data Scientist 1 Intern/Co-op",
-      "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/Data-Scientist-I--4-Month-Internship-Co-op--Fall-2026-_R153000",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Intact",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
     },
     {
       "id": "canonical:892af3604158b0e5",
@@ -17554,19 +17442,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:3f78fc990171c019",
-      "title": "Relationship Manager Business Markets Intern",
-      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/OWEN-SOUND-Ontario-Canada/Relationship-Manager-Business-Markets-Intern_R-0000171834",
-      "location": "Port Elgin, ON, Canada",
-      "department": "Quant",
-      "company": "Royal Bank of Canada",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -20549,6 +20424,19 @@
       "score": 58,
       "scoreReasons": [
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:5a965f80dc06a1f2",
+      "title": "Research Scientist Intern - Seed Responsible AI",
+      "url": "https://jobs.bytedance.com/en/position/7642762054696896773/detail",
+      "location": "San Jose, CA",
+      "department": "AI/ML/Data",
+      "company": "ByteDance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
