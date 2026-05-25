@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-25T16:37:02.998Z",
+  "generatedAt": "2026-05-25T18:14:05.977Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1652,
+  "jobCount": 1649,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -251,7 +251,6 @@
     "canonical:3c8f92cbbb0a8caa": "2026-05-09T15:28:15.527Z",
     "canonical:1fae7dc4222f0576": "2026-05-09T15:28:15.527Z",
     "canonical:42b1cca7e9a74503": "2026-05-09T15:28:15.527Z",
-    "canonical:aea25bda9a2f827a": "2026-05-09T15:28:15.527Z",
     "canonical:496de065a02d9533": "2026-05-09T15:28:15.527Z",
     "canonical:aeec652ded729013": "2026-05-09T15:28:15.527Z",
     "canonical:8f89190a24671e28": "2026-05-09T15:28:15.527Z",
@@ -408,7 +407,6 @@
     "canonical:ea538ad11f1ccff2": "2026-05-09T15:28:15.527Z",
     "canonical:61d32161ffed8a78": "2026-05-09T15:28:15.527Z",
     "canonical:c81b7e4d92a3a1c6": "2026-05-09T15:28:15.527Z",
-    "canonical:c9e7404ac8c8334c": "2026-05-09T15:28:15.527Z",
     "canonical:144ba34be805c34a": "2026-05-09T15:28:15.527Z",
     "canonical:ac75e877e529477b": "2026-05-09T15:28:15.527Z",
     "canonical:7693d52e94ac3803": "2026-05-09T15:28:15.527Z",
@@ -473,7 +471,6 @@
     "canonical:2b7e2c2fb8fd5982": "2026-05-09T15:28:15.527Z",
     "canonical:780a119da3f76a2d": "2026-05-09T15:28:15.527Z",
     "canonical:5aca11ebb143d0e2": "2026-05-09T15:28:15.527Z",
-    "canonical:0c828fc1d244e031": "2026-05-09T15:28:15.527Z",
     "canonical:8878ac1c90a27152": "2026-05-09T15:28:15.527Z",
     "canonical:04afdbec1fd80f56": "2026-05-09T15:28:15.527Z",
     "canonical:1d149c3c6bb31e4d": "2026-05-09T15:28:15.527Z",
@@ -2531,10 +2528,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2544,10 +2541,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -4874,18 +4871,6 @@
       ]
     },
     {
-      "id": "canonical:aea25bda9a2f827a",
-      "title": "Experimentation & Causal Inference Intern - Summer 2026",
-      "url": "https://explore.jobs.netflix.net/careers/job/790313056618",
-      "location": "LA / Los Gatos, CA",
-      "department": "AI/ML/Data",
-      "company": "Netflix",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:496de065a02d9533",
       "title": "2026 Summer Internship - Trading - DV Equities",
       "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4634788005",
@@ -7074,18 +7059,6 @@
       "scoreReasons": []
     },
     {
-      "id": "canonical:c9e7404ac8c8334c",
-      "title": "Data Engineering Intern",
-      "url": "https://ats.rippling.com/apexanalytix-careers/jobs/6ee082e7-a22e-4cf9-b80b-38f38db7f555",
-      "location": "Greensboro, NC",
-      "department": "AI/ML/Data",
-      "company": "APEX Analytix",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:144ba34be805c34a",
       "title": "Software Defined Radio Hardware Intern - Summer 2026",
       "url": "https://job-boards.greenhouse.io/astranis/jobs/4646558006",
@@ -8228,18 +8201,6 @@
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:0c828fc1d244e031",
-      "title": "GIS Intern",
-      "url": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260001IY",
-      "location": "Massachusetts",
-      "department": "AI/ML/Data",
-      "company": "Commonwealth of Massachusetts",
-      "score": 60,
-      "scoreReasons": [
         "high-signal role"
       ]
     },
