@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-26T05:38:34.730Z",
+  "generatedAt": "2026-05-26T08:53:24.850Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1632,
+  "jobCount": 1626,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -192,7 +192,6 @@
     "canonical:f45dd43f28f73753": "2026-05-09T15:28:15.527Z",
     "canonical:c1cca79abc785a77": "2026-05-09T15:28:15.527Z",
     "canonical:119d44d7e3653752": "2026-05-09T15:28:15.527Z",
-    "canonical:ee39f279c66cba30": "2026-05-09T15:28:15.527Z",
     "canonical:ef8555491efe3e43": "2026-05-09T15:28:15.527Z",
     "canonical:168bf22b5c45f0e1": "2026-05-09T15:28:15.527Z",
     "canonical:862bfb5790e503bd": "2026-05-09T15:28:15.527Z",
@@ -474,7 +473,6 @@
     "canonical:1d149c3c6bb31e4d": "2026-05-09T15:28:15.527Z",
     "canonical:4580fc8c1ae214fe": "2026-05-09T15:28:15.527Z",
     "canonical:b4321a96d5262a5c": "2026-05-09T15:28:15.527Z",
-    "canonical:bc59fbed8101dd9c": "2026-05-09T15:28:15.527Z",
     "canonical:db9c9555860650ba": "2026-05-09T15:28:15.527Z",
     "canonical:603ec7ff2d705b82": "2026-05-09T15:28:15.527Z",
     "canonical:15bf3d22c1919f77": "2026-05-09T15:28:15.527Z",
@@ -1041,7 +1039,6 @@
     "canonical:f37bc45fd732af97": "2026-05-15T23:35:38.383Z",
     "canonical:8650e310d098d280": "2026-05-15T23:35:38.383Z",
     "canonical:fb076f3b186b4a11": "2026-05-16T01:23:11.435Z",
-    "canonical:4b62439cb6d583d0": "2026-05-16T04:46:03.679Z",
     "canonical:ede981cf4aef3284": "2026-05-16T04:46:03.679Z",
     "canonical:47a58dc4b6e43e69": "2026-05-16T04:46:03.679Z",
     "canonical:042d2d75109e8aa5": "2026-05-16T04:46:03.679Z",
@@ -1387,7 +1384,6 @@
     "canonical:b4e6df7dcb42b162": "2026-05-19T23:43:59.617Z",
     "canonical:93ff043c39ae600b": "2026-05-19T23:43:59.617Z",
     "canonical:935de0dfb1b8af0f": "2026-05-19T23:43:59.617Z",
-    "canonical:bdc5de2e9624c440": "2026-05-19T23:43:59.617Z",
     "canonical:cdb207950027b52e": "2026-05-19T23:43:59.617Z",
     "canonical:fb66aae0f309968e": "2026-05-19T23:43:59.617Z",
     "canonical:5432bf2d62eb6a38": "2026-05-19T23:43:59.617Z",
@@ -1408,7 +1404,6 @@
     "canonical:7f419ef77a740af3": "2026-05-20T12:10:44.642Z",
     "canonical:5dfa07b9c9755703": "2026-05-20T12:10:44.642Z",
     "canonical:20eefe09e12c4c97": "2026-05-20T15:54:33.666Z",
-    "canonical:372a9d9a49e7a9fe": "2026-05-20T15:54:33.666Z",
     "canonical:0ac8a53730f807e3": "2026-05-20T15:54:33.666Z",
     "canonical:58a0ad72fc379a2e": "2026-05-20T15:54:33.666Z",
     "canonical:4be1285af1d6fead": "2026-05-20T15:54:33.666Z",
@@ -1456,7 +1451,6 @@
     "canonical:979aefe558e75f57": "2026-05-21T23:51:28.973Z",
     "canonical:25f9fc9acfe64ae6": "2026-05-21T23:51:28.973Z",
     "canonical:6f1c4b11d1e2a83e": "2026-05-21T23:51:28.973Z",
-    "canonical:11cee6aa9590718b": "2026-05-21T23:51:28.973Z",
     "canonical:89e7b0c6b4dfe205": "2026-05-21T23:51:28.973Z",
     "canonical:2661df5e8c21a2a1": "2026-05-21T23:51:28.973Z",
     "canonical:f9b534af9c523d1d": "2026-05-21T23:51:28.973Z",
@@ -1543,7 +1537,6 @@
     "canonical:0dbb31b14cd1ae89": "2026-05-23T11:39:27.713Z",
     "canonical:b2ff9f0f3c42f658": "2026-05-23T11:39:27.713Z",
     "canonical:698e07bd95b68e47": "2026-05-23T11:39:27.713Z",
-    "canonical:c68a1d6bb8f0ae83": "2026-05-23T11:39:27.713Z",
     "canonical:ed9a44e022b031bf": "2026-05-23T11:39:27.713Z",
     "canonical:388918c587774965": "2026-05-23T11:39:27.713Z",
     "canonical:b60277c7922ada97": "2026-05-23T11:39:27.713Z",
@@ -1635,7 +1628,8 @@
     "canonical:cc828c004789a05f": "2026-05-25T16:37:02.998Z",
     "canonical:c3ffe2df124fb0f0": "2026-05-25T16:37:02.998Z",
     "canonical:e5352ecac86f34d9": "2026-05-25T23:36:13.194Z",
-    "canonical:6842179a7d291497": "2026-05-26T05:38:34.730Z"
+    "canonical:6842179a7d291497": "2026-05-26T05:38:34.730Z",
+    "canonical:27a42b383e7b16f6": "2026-05-26T08:53:24.850Z"
   },
   "jobs": [
     {
@@ -2987,6 +2981,19 @@
       ]
     },
     {
+      "id": "canonical:27a42b383e7b16f6",
+      "title": "Sales Project Manager (Process & AI Innovation)  Summer Intern - 3 months",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7899062?gh_jid=7899062",
+      "location": "In-Office",
+      "department": "",
+      "company": "Cloudflare",
+      "score": 38,
+      "scoreReasons": [
+        "direct ATS",
+        "lower-fit title"
+      ]
+    },
+    {
       "id": "canonical:accc7acdf5c4229f",
       "title": "Sales: Solutions Engineer - Intern (Summer & Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7792962?gh_jid=7792962",
@@ -3002,7 +3009,7 @@
     {
       "id": "canonical:d14a513f8325af8e",
       "title": "Security Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -3053,7 +3060,7 @@
     {
       "id": "canonical:31dd1ab15c427f1e",
       "title": "Technical Support Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726977?gh_jid=7726977",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -4049,19 +4056,6 @@
       "company": "TikTok",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:ee39f279c66cba30",
-      "title": "Research Internship - Reinforcement Learning for Large Foundation Models",
-      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Research-Internship---Reinforcement-Learning-for-Large-Foundation-Models_R106337-1",
-      "location": "Bellevue, WA",
-      "department": "AI/ML/Data",
-      "company": "Tencent",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
     },
     {
       "id": "canonical:ef8555491efe3e43",
@@ -8242,19 +8236,6 @@
       ]
     },
     {
-      "id": "canonical:bc59fbed8101dd9c",
-      "title": "Predictive Science Academic Alliance Program 4 Student Intern - Psaap IV",
-      "url": "https://jobs.smartrecruiters.com/LLNL/3743990010157416",
-      "location": "Livermore, CA",
-      "department": "AI/ML/Data",
-      "company": "Lawrence Livermore National Laboratory (LLNL)",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:e19f107b83aa38c4",
       "title": "Intern - College of Engineering - Electrical and Computer Engineering",
       "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Summer-Intern---College-of-Engineering---Electrical-and-Computer-Engineering_2024173",
@@ -9891,19 +9872,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:372a9d9a49e7a9fe",
-      "title": "Corporate Innovation Intern",
-      "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Corporate-Innovation-Intern--Glendale--Summer-2026_10142977",
-      "location": "Glendale, CA",
-      "department": "Software",
-      "company": "The Walt Disney Company",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -12211,19 +12179,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:c68a1d6bb8f0ae83",
-      "title": "Epidemiology and Data Management Intern",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Epidemiology-and-Data-Management-Intern_R-00180498",
-      "location": "San Diego, CA",
-      "department": "AI/ML/Data",
-      "company": "Leidos",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -17820,18 +17775,6 @@
       ]
     },
     {
-      "id": "canonical:4b62439cb6d583d0",
-      "title": "Integration & Test Intern",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7728086003",
-      "location": "Long Beach, CA",
-      "department": "Hardware",
-      "company": "Rocket Lab USA",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:ede981cf4aef3284",
       "title": "HITL Engineer Intern",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7734022003",
@@ -18536,18 +18479,6 @@
       "company": "Hootsuite",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:bdc5de2e9624c440",
-      "title": "AI Product Development Intern",
-      "url": "https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/25999",
-      "location": "Remote in USA",
-      "department": "Software",
-      "company": "Photon",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
     },
     {
       "id": "canonical:cdb207950027b52e",
@@ -19280,20 +19211,6 @@
       "location": "SF / Remote in USA",
       "department": "Software",
       "company": "Great Question",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:11cee6aa9590718b",
-      "title": "Test Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7725336003",
-      "location": "Long Beach, CA",
-      "department": "Software",
-      "company": "Rocket Lab USA",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
