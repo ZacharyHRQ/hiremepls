@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-26T19:55:21.882Z",
+  "generatedAt": "2026-05-26T21:28:46.739Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1598,
+  "jobCount": 1592,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -87,14 +87,12 @@
     "canonical:047b58e6b7c917a3": "2026-05-15T20:39:51.368Z",
     "canonical:d5b7c15c0c798890": "2026-05-06T06:42:07.596Z",
     "canonical:ad5b3cc499788169": "2026-05-06T06:42:07.596Z",
-    "canonical:b9c80a0e460c21f1": "2026-05-13T15:34:11.447Z",
     "canonical:a8687a9df6bba6dd": "2026-05-06T06:42:07.596Z",
     "canonical:7b9ac45cbdadc4ef": "2026-05-06T06:42:07.596Z",
     "canonical:ad23aadfeb5e4fdd": "2026-05-06T06:42:07.596Z",
     "canonical:7cf4badefc5f7512": "2026-05-06T06:42:07.596Z",
     "canonical:d3e0314eab6e9161": "2026-05-06T06:42:07.596Z",
     "canonical:95a3cb7b4ee294d3": "2026-05-06T06:42:07.596Z",
-    "canonical:814f9988f2bf7d8a": "2026-05-13T15:34:11.447Z",
     "canonical:f75f97f48d6ee7be": "2026-05-06T06:42:07.596Z",
     "canonical:1616d436c67b8140": "2026-05-07T06:31:54.534Z",
     "canonical:8cd1b8b92140d848": "2026-05-13T01:22:17.700Z",
@@ -117,8 +115,6 @@
     "canonical:cece11706810719a": "2026-05-06T06:42:07.596Z",
     "canonical:85f245b3d004067d": "2026-05-06T06:42:07.596Z",
     "canonical:9c013a1fb42fb764": "2026-05-06T06:42:07.596Z",
-    "canonical:622c3a53aa2b852e": "2026-05-06T06:42:07.596Z",
-    "canonical:b9e2715c1bbe98ff": "2026-05-06T06:42:07.596Z",
     "canonical:38c38b2f9b935c7b": "2026-05-06T06:42:07.596Z",
     "canonical:778ae0c54171b31e": "2026-05-06T06:42:07.596Z",
     "canonical:f6939f722bfbce9d": "2026-05-06T06:42:07.596Z",
@@ -779,11 +775,8 @@
     "canonical:03c15902ae6e4726": "2026-05-09T15:28:15.527Z",
     "canonical:f70c6a271cdc7ce5": "2026-05-09T15:28:15.527Z",
     "canonical:cce8d3bb670add3d": "2026-05-09T15:28:15.527Z",
-    "canonical:9645b5d246d7ccce": "2026-05-09T15:28:15.527Z",
     "canonical:20c6b535ebc32cec": "2026-05-09T15:28:15.527Z",
-    "canonical:0d51b143c8459099": "2026-05-09T15:28:15.527Z",
     "canonical:418712776bb2d85b": "2026-05-09T15:28:15.527Z",
-    "canonical:cc62ed5b6f53524b": "2026-05-09T15:28:15.527Z",
     "canonical:2f5deea5ed692c71": "2026-05-09T15:28:15.527Z",
     "canonical:1e6e6a2ed07745e2": "2026-05-09T15:28:15.527Z",
     "canonical:0c5ba61fc363a167": "2026-05-09T15:28:15.527Z",
@@ -1481,7 +1474,6 @@
     "canonical:1a7ad445267d293c": "2026-05-23T08:53:33.768Z",
     "canonical:bfe197e97450cbe9": "2026-05-23T08:53:33.768Z",
     "canonical:48ec88269f1f5384": "2026-05-23T08:53:33.768Z",
-    "canonical:b13a26c9bc5eb727": "2026-05-23T08:53:33.768Z",
     "canonical:0fd1fbdf1385bbae": "2026-05-23T08:53:33.768Z",
     "canonical:6f9b65a431b0c517": "2026-05-23T08:53:33.768Z",
     "canonical:caf9da635ac3aba7": "2026-05-23T08:53:33.768Z",
@@ -1601,7 +1593,9 @@
     "canonical:70507c79b6afa2de": "2026-05-26T17:51:26.122Z",
     "canonical:c913ff9d74716a9b": "2026-05-26T17:51:26.122Z",
     "canonical:ffb8b41749a6055f": "2026-05-26T17:51:26.122Z",
-    "canonical:1883e64da8047705": "2026-05-26T19:55:21.882Z"
+    "canonical:1883e64da8047705": "2026-05-26T19:55:21.882Z",
+    "canonical:ca04b4a0a370325b": "2026-05-26T21:28:46.739Z",
+    "canonical:507a379638e6ab62": "2026-05-26T21:28:46.739Z"
   },
   "jobs": [
     {
@@ -2084,10 +2078,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -2098,10 +2092,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -2475,10 +2469,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2488,10 +2482,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2715,18 +2709,6 @@
       ]
     },
     {
-      "id": "canonical:b9c80a0e460c21f1",
-      "title": "Data Science Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7914511?gh_jid=7914511",
-      "location": "In-Office",
-      "department": "",
-      "company": "Cloudflare",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:a8687a9df6bba6dd",
       "title": "DCSC Automation Coordinator Intern",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7751595?gh_jid=7751595",
@@ -2797,20 +2779,6 @@
       "company": "Cloudflare",
       "score": 58,
       "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:814f9988f2bf7d8a",
-      "title": "Machine Learning Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7914628?gh_jid=7914628",
-      "location": "In-Office",
-      "department": "",
-      "company": "Cloudflare",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
         "direct ATS"
       ]
     },
@@ -3030,7 +2998,7 @@
     {
       "id": "canonical:31dd1ab15c427f1e",
       "title": "Technical Support Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726977?gh_jid=7726977",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -3122,28 +3090,6 @@
       "score": 58,
       "scoreReasons": [
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:622c3a53aa2b852e",
-      "title": "Product Design Intern - Summer 2026 (Warsaw)",
-      "url": "https://www.asana.com/jobs/apply/7490332?gh_jid=7490332",
-      "location": "Warsaw",
-      "department": "",
-      "company": "Asana",
-      "score": 50,
-      "scoreReasons": []
-    },
-    {
-      "id": "canonical:b9e2715c1bbe98ff",
-      "title": "Software Engineering Intern - Summer 2026 (Warsaw)",
-      "url": "https://www.asana.com/jobs/apply/7490274?gh_jid=7490274",
-      "location": "Warsaw",
-      "department": "",
-      "company": "Asana",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {
@@ -13079,18 +13025,6 @@
       ]
     },
     {
-      "id": "canonical:9645b5d246d7ccce",
-      "title": "Product & Program Management Intern",
-      "url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Grand-Rapids-MI-United-States/Product---Program-Management-Intern_JR-0089752",
-      "location": "Grand Rapids, MI",
-      "department": "Product",
-      "company": "KION Group",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:d63ebab19ca4822e",
       "title": "HR Intern – Data Analytics Focus",
       "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/HR-Intern--Data-Analytics-Focus--Summer-2026-_R26013136",
@@ -13139,18 +13073,6 @@
       ]
     },
     {
-      "id": "canonical:0d51b143c8459099",
-      "title": "Software Engineering Intern",
-      "url": "https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19060",
-      "location": "Norcross, GA",
-      "department": "Software",
-      "company": "ACI Worldwide ",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:7d5a0ee046f5c29b",
       "title": "JD Young AI Data Analyst Intern",
       "url": "https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/GBR-England-Greater-London-London/JD-Young-AI-Data-Analyst-Internship_JR102354",
@@ -13191,18 +13113,6 @@
       ]
     },
     {
-      "id": "canonical:b13a26c9bc5eb727",
-      "title": "Vehicle Safety & Testing Intern",
-      "url": "https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Troy-Michigan/Vehicle-Safety---Testing-Intern_JR100477",
-      "location": "Troy, MI",
-      "department": "Hardware",
-      "company": "Slate Auto",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:78e461e91d26f884",
       "title": "Game Research & Development Intern - Engine Research",
       "url": "https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/US-Washington-Bellevue/Game-Research---Development-Intern--Engine-Research_R107363",
@@ -13236,19 +13146,6 @@
       "company": "CAE",
       "score": 58,
       "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:cc62ed5b6f53524b",
-      "title": "Productivity Data & Industrial Events Intern",
-      "url": "https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4231433009",
-      "location": "Franklin, TN",
-      "department": "AI/ML/Data",
-      "company": "IEM",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
         "direct ATS"
       ]
     },
@@ -19665,6 +19562,32 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ca04b4a0a370325b",
+      "title": "Service Desk Intern - Retail",
+      "url": "https://verabradley.wd5.myworkdayjobs.com/vbcareers/job/Corporate-Headquarters---Roanoke-IN/Service-Desk-Intern---Retail_R020387",
+      "location": "Columbia City, IN",
+      "department": "Software",
+      "company": "Vera Bradley",
+      "score": 48,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS",
+        "lower-fit title"
+      ]
+    },
+    {
+      "id": "canonical:507a379638e6ab62",
+      "title": "Simulation and Modeling Intern",
+      "url": "https://www.asm.com/open-vacancies/?gh_jid=4830924101",
+      "location": "Phoenix, AZ",
+      "department": "AI/ML/Data",
+      "company": "ASM International",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
       ]
     },
     {
