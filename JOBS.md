@@ -1,6 +1,6 @@
 # Open Internships
 
-**1635** internships across **63/64** companies — last updated 2026-05-26.
+**1632** internships across **63/64** companies — last updated 2026-05-26.
 
 ## Companies
 
@@ -60,7 +60,6 @@
 - [AspenTech](#aspentech) (4)
 - [ASSA ABLOY](#assa-abloy) (2)
 - [AssetMark](#assetmark) (1)
-- [Assurant](#assurant) (1)
 - [Astera](#astera) (2)
 - [Astranis](#astranis) (10)
 - [ASUS USA](#asus-usa) (1)
@@ -123,7 +122,7 @@
 - [Capella](#capella) (2)
 - [CareScout](#carescout) (1)
 - [Carnegie Mellon University](#carnegie-mellon-university) (3)
-- [Caterpillar Inc.](#caterpillar-inc) (2)
+- [Caterpillar Inc.](#caterpillar-inc) (1)
 - [CelLink Technologies](#cellink-technologies) (1)
 - [Celonis](#celonis) (1)
 - [Center for AI Safety](#center-for-ai-safety) (1)
@@ -262,7 +261,6 @@
 - [FOX](#fox) (4)
 - [GAINS](#gains) (1)
 - [Gannet Fleming](#gannet-fleming) (1)
-- [GE Aerospace](#ge-aerospace) (1)
 - [GE Healthcare](#ge-healthcare) (1)
 - [GE Vernova](#ge-vernova) (4)
 - [Geisinger](#geisinger) (1)
@@ -341,6 +339,7 @@
 - [Jade Global](#jade-global) (2)
 - [Jain Global](#jain-global) (1)
 - [JINGDONG](#jingdong) (2)
+- [Johnson Controls](#johnson-controls) (1)
 - [JP Morgan Chase](#jp-morgan-chase) (2)
 - [Jumio](#jumio) (1)
 - [Jump Trading](#jump-trading) (3)
@@ -512,7 +511,7 @@
 - [Rolls Royce](#rolls-royce) (7)
 - [Rolls-Royce Motorcars](#rolls-royce-motorcars) (3)
 - [Root Access](#root-access) (1)
-- [Royal Bank of Canada](#royal-bank-of-canada) (2)
+- [Royal Bank of Canada](#royal-bank-of-canada) (1)
 - [RTW Investments](#rtw-investments) (1)
 - [RTX](#rtx) (7)
 - [Rundoo](#rundoo) (1)
@@ -1074,12 +1073,6 @@
 | --- | --- | --- | --- | --- |
 | [Application Engineering Intern](https://assetmark.wd5.myworkdayjobs.com/AssetMark_Careers/job/Charlotte-NC/Application-Engineering-Intern_Req-003755) | 68 | Charlotte, NC | Software | 2026-05-18 |
 
-## Assurant
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineering Intern](https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Florida-Virtual/Summer-2026--Software-Engineering-Intern_R-112866) | 68 | Florida / Georgia | Software | 2026-05-23 |
-
 ## Astera
 
 | Title | Score | Location | Department | First seen |
@@ -1529,7 +1522,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Designer Intern](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Laval-Quebec/Software-Designer-Intern---Stagiaire-en-conception-de-logiciels_R0000367629) | 68 | Laval, QC, Canada | Hardware | 2026-05-20 |
 | [2026 Engineering Internship Program- Metallurgical Engineering](https://www.linkedin.com/jobs/view/4260034721) | 42 | Mossville, IL | — | 2026-05-16 |
 
 ## CelLink Technologies
@@ -2482,12 +2474,6 @@
 | --- | --- | --- | --- | --- |
 | [Intern Geographic Information Systems](https://careers-gannettfleming.icims.com/jobs/13738/job?mobile=true&needsRedirect=false) | 60 | Towson, MD | AI/ML/Data | 2026-05-20 |
 
-## GE Aerospace
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Investment Analyst Intern](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Norwalk/Summer-Investment-Analyst---US---Summer-2026_R5034791-1) | 68 | Westport, CT | Quant | 2026-05-23 |
-
 ## GE Healthcare
 
 | Title | Score | Location | Department | First seen |
@@ -3030,6 +3016,12 @@
 | [JD Young AI Data Analyst Intern](https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/GBR-England-Greater-London-London/JD-Young-AI-Data-Analyst-Internship_JR102354) | 68 | London, UK | AI/ML/Data | 2026-05-16 |
 | [Category Assistant Intern](https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/DEU-North-Rhine-Westphalia-Dsseldorf/JD-Young-Category-Assistant-Internship_JR102473-1) | 58 | Neukirchen-Vluyn, Germany / Berlin, Germany | Product | 2026-05-16 |
 
+## Johnson Controls
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Marketing Data & Analytics Intern](https://jci.wd5.myworkdayjobs.com/JCI/job/Milwaukee-Wisconsin-United-States-of-America/Marketing-Data---Analytics-Intern_WD30270134) | 48 | Milwaukee, WI | AI/ML/Data | 2026-05-26 |
+
 ## JP Morgan Chase
 
 | Title | Score | Location | Department | First seen |
@@ -3048,8 +3040,8 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Campus Trading Team Software Engineer  (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7565728) | 85 | Hong Kong | — | 2026-05-06 |
-| [Campus Crypto Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7362318) | 50 | London | — | 2026-05-06 |
 | [Campus Crypto Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7362347) | 50 | Chicago | — | 2026-05-06 |
+| [Campus Crypto Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7362318) | 50 | London | — | 2026-05-06 |
 
 ## K1
 
@@ -4351,7 +4343,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Product Analyst Intern - Insurance](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MISSISSAUGA-Ontario-Canada/XMLNAME-2026--Insurance--Fall-Product-Analyst--4-months-_R-0000169875) | 58 | Mississauga, ON, Canada | Product | 2026-05-22 |
-| [Student Intern - Data Analyst](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Fall-2026-Student---Data-Analyst--MFD--PEY-12-month-_R-0000172016) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-05-14 |
 
 ## RTW Investments
 

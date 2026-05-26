@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-26T01:28:41.503Z",
+  "generatedAt": "2026-05-26T05:38:34.730Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1635,
+  "jobCount": 1632,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1018,7 +1018,6 @@
     "canonical:e6c1df2573bd5c1f": "2026-05-14T05:32:10.854Z",
     "canonical:1433ae58ceb11aaa": "2026-05-14T12:16:09.293Z",
     "canonical:621773561875f0d2": "2026-05-14T15:03:17.159Z",
-    "canonical:e79e7c663fc06222": "2026-05-14T15:03:17.159Z",
     "canonical:b8b0e01fbecaa929": "2026-05-14T23:10:51.689Z",
     "canonical:6f2e0452784720f9": "2026-05-14T23:10:51.689Z",
     "canonical:89e2504c81c54e71": "2026-05-14T23:10:51.689Z",
@@ -1395,7 +1394,6 @@
     "canonical:acec22384af1fe8a": "2026-05-19T23:43:59.617Z",
     "canonical:cddb00a45185b83c": "2026-05-19T23:43:59.617Z",
     "canonical:fbdd5a056fe65f91": "2026-05-20T01:49:18.107Z",
-    "canonical:3868ed2c3a73eaa7": "2026-05-20T01:49:18.107Z",
     "canonical:688706088beffa8d": "2026-05-20T01:49:18.107Z",
     "canonical:f29d9652976f2d45": "2026-05-20T01:49:18.107Z",
     "canonical:f48979ffdddb6983": "2026-05-20T01:49:18.107Z",
@@ -1503,7 +1501,6 @@
     "canonical:23aa0ae99f4d1879": "2026-05-22T22:57:08.943Z",
     "canonical:5faa1c9528f64532": "2026-05-22T22:57:08.943Z",
     "canonical:1ed5a7059fed0450": "2026-05-22T22:57:08.943Z",
-    "canonical:2e51f17f71bee78d": "2026-05-23T00:02:34.826Z",
     "canonical:a20ccbf2ea91ff94": "2026-05-23T00:02:34.826Z",
     "canonical:d6924ab3834ef5dc": "2026-05-23T00:02:34.826Z",
     "canonical:8897923fa0d36177": "2026-05-23T00:02:34.826Z",
@@ -1513,7 +1510,6 @@
     "canonical:34adcad6509a41c4": "2026-05-23T00:02:34.826Z",
     "canonical:c3198b3c367e2eff": "2026-05-23T00:02:34.826Z",
     "canonical:29da251a9e02427f": "2026-05-23T00:02:34.826Z",
-    "canonical:7664e885ea65360a": "2026-05-23T00:02:34.826Z",
     "canonical:f37a3bfdec6850a3": "2026-05-23T00:02:34.826Z",
     "canonical:f45a04a294acd566": "2026-05-23T04:05:56.236Z",
     "canonical:ea35e8fcdad6f202": "2026-05-23T04:05:56.236Z",
@@ -1638,7 +1634,8 @@
     "canonical:5a965f80dc06a1f2": "2026-05-25T11:04:23.174Z",
     "canonical:cc828c004789a05f": "2026-05-25T16:37:02.998Z",
     "canonical:c3ffe2df124fb0f0": "2026-05-25T16:37:02.998Z",
-    "canonical:e5352ecac86f34d9": "2026-05-25T23:36:13.194Z"
+    "canonical:e5352ecac86f34d9": "2026-05-25T23:36:13.194Z",
+    "canonical:6842179a7d291497": "2026-05-26T05:38:34.730Z"
   },
   "jobs": [
     {
@@ -1841,20 +1838,20 @@
       ]
     },
     {
-      "id": "canonical:f310a07d27c1f3e6",
+      "id": "canonical:da3af0a78a201794",
       "title": "Campus Crypto Researcher (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7362318",
-      "location": "London",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7362347",
+      "location": "Chicago",
       "department": "",
       "company": "Jump Trading",
       "score": 50,
       "scoreReasons": []
     },
     {
-      "id": "canonical:da3af0a78a201794",
+      "id": "canonical:f310a07d27c1f3e6",
       "title": "Campus Crypto Researcher (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7362347",
-      "location": "Chicago",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7362318",
+      "location": "London",
       "department": "",
       "company": "Jump Trading",
       "score": 50,
@@ -9321,19 +9318,6 @@
       ]
     },
     {
-      "id": "canonical:2e51f17f71bee78d",
-      "title": "Software Engineering Intern",
-      "url": "https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Florida-Virtual/Summer-2026--Software-Engineering-Intern_R-112866",
-      "location": "Florida / Georgia",
-      "department": "Software",
-      "company": "Assurant",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:941d02dc047a74b1",
       "title": "AI Intern",
       "url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Atlanta-GA-United-States/AI-Internships_JR-0088855",
@@ -14869,19 +14853,6 @@
       ]
     },
     {
-      "id": "canonical:3868ed2c3a73eaa7",
-      "title": "Software Designer Intern",
-      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Laval-Quebec/Software-Designer-Intern---Stagiaire-en-conception-de-logiciels_R0000367629",
-      "location": "Laval, QC, Canada",
-      "department": "Hardware",
-      "company": "Caterpillar Inc.",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:c11bff2ca221b70c",
       "title": "Application Development Intern",
       "url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101291",
@@ -17412,19 +17383,6 @@
       "location": "Toronto, ON, Canada",
       "department": "Hardware",
       "company": "Hitachi",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:e79e7c663fc06222",
-      "title": "Student Intern - Data Analyst",
-      "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Fall-2026-Student---Data-Analyst--MFD--PEY-12-month-_R-0000172016",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Royal Bank of Canada",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -19995,19 +19953,6 @@
       ]
     },
     {
-      "id": "canonical:7664e885ea65360a",
-      "title": "Investment Analyst Intern",
-      "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Norwalk/Summer-Investment-Analyst---US---Summer-2026_R5034791-1",
-      "location": "Westport, CT",
-      "department": "Quant",
-      "company": "GE Aerospace",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:f37a3bfdec6850a3",
       "title": "ALM Scripting & Reporting Intern",
       "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/ALM-Scripting---Reporting-Intern_R1012816",
@@ -20172,6 +20117,20 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:6842179a7d291497",
+      "title": "Marketing Data & Analytics Intern",
+      "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Milwaukee-Wisconsin-United-States-of-America/Marketing-Data---Analytics-Intern_WD30270134",
+      "location": "Milwaukee, WI",
+      "department": "AI/ML/Data",
+      "company": "Johnson Controls",
+      "score": 48,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS",
+        "lower-fit title"
       ]
     },
     {

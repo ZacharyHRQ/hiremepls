@@ -22,8 +22,8 @@
     "4829785101"
   ],
   "Jump Trading": [
-    "7362318",
     "7362347",
+    "7362318",
     "7565728"
   ],
   "DRW": [],
@@ -726,7 +726,6 @@
     "simplify:a2f342be-ccae-44b7-8563-6589e27bd20c",
     "simplify:685ce683-1a8d-4426-949b-5542c9ae5a5b",
     "simplify:d3558132-2367-473c-930c-63416534e389",
-    "simplify:1adb3c50-af75-4061-bec3-5d4885f40b24",
     "simplify:8eb44b0c-8d8e-4bd2-88d0-51fb9b03511c",
     "simplify:2b4ae992-508a-40f9-bbb7-d3eda30affff",
     "simplify:fe972247-600c-481b-961d-3abad929c277",
@@ -1202,7 +1201,6 @@
     "simplify:669c2881-14d7-40b8-ab54-622ff58e7d84",
     "simplify:b7233a81-3ca8-492b-a0ce-e867e7413d00",
     "simplify:a5ea04af-7e0c-4b40-92d4-ed0f73096c6c",
-    "simplify:7d56664e-6cbd-4dd9-9f69-32a295e02e4d",
     "simplify:4392d204-b68c-4302-bdc2-14bd87fe0c3c",
     "simplify:68f9b9b5-bc95-4a9c-8637-f89045f8b5f3",
     "simplify:86d32b2c-d4a5-4961-879c-76e0aa4f4cba",
@@ -1409,7 +1407,6 @@
     "simplify:9b9c12fc-7c60-467e-aad5-fbd83ce6474c",
     "simplify:764b243c-75c2-4c30-a3b0-4b86543639ed",
     "simplify:0d69d9c6-6063-4685-a9f6-1349bd899d26",
-    "simplify:9134ffa0-42d0-4035-82d2-8d44374f9c03",
     "simplify:b4e9ca86-32bd-446b-9988-cf1cc0345014",
     "simplify:7107711b-0874-460d-932c-0c0d7b729f42",
     "simplify:da063d77-4bc6-45bb-a055-fe38f2b92422",
@@ -1621,7 +1618,6 @@
     "simplify:06fdb7fb-f7a7-4d74-9a9c-d59f0d316fe4",
     "simplify:66f539a8-7319-483c-b09b-58e75cfaa9d2",
     "simplify:6d8fbd5f-f59a-4dcf-9018-fd44f9b0f565",
-    "simplify:0d6daf8a-c5f5-458b-8c9d-c76fc75faf4e",
     "simplify:ea5d5776-27ae-4cbe-aa4d-47a5dd80052f",
     "simplify:40027077-92ea-46e7-9d59-8ed4711ffedf",
     "simplify:63062f36-5cde-4017-a806-571bd44c6087",
@@ -1636,7 +1632,8 @@
     "simplify:b69a7f3f-5920-4831-b1a3-ba378a3af4aa",
     "simplify:7f4ac66a-eb4f-47cd-b217-7be4ba533a23",
     "simplify:cc308e15-492c-4163-8b35-6d0a8033eb14",
-    "simplify:4e4820ef-7902-4080-ab4f-758e801f33cb"
+    "simplify:4e4820ef-7902-4080-ab4f-758e801f33cb",
+    "simplify:de348d94-f234-4df2-b37e-62bdd6d2f605"
   ],
   "vanshb03": [
     "vansh:df70fa57-977b-4f31-832e-a0e57ed070b5",
