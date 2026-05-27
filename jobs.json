@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-27T19:47:24.344Z",
+  "generatedAt": "2026-05-27T21:45:52.221Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1520,
+  "jobCount": 1528,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -89,7 +89,6 @@
     "canonical:7b9ac45cbdadc4ef": "2026-05-06T06:42:07.596Z",
     "canonical:ad23aadfeb5e4fdd": "2026-05-06T06:42:07.596Z",
     "canonical:7cf4badefc5f7512": "2026-05-06T06:42:07.596Z",
-    "canonical:d3e0314eab6e9161": "2026-05-06T06:42:07.596Z",
     "canonical:95a3cb7b4ee294d3": "2026-05-06T06:42:07.596Z",
     "canonical:f75f97f48d6ee7be": "2026-05-06T06:42:07.596Z",
     "canonical:1616d436c67b8140": "2026-05-07T06:31:54.534Z",
@@ -99,7 +98,6 @@
     "canonical:deb587984bd45311": "2026-05-06T06:42:07.596Z",
     "canonical:864b184043940577": "2026-05-06T06:42:07.596Z",
     "canonical:accc7acdf5c4229f": "2026-05-06T06:42:07.596Z",
-    "canonical:d14a513f8325af8e": "2026-05-06T06:42:07.596Z",
     "canonical:7a2fd240cea729fb": "2026-05-15T16:23:09.152Z",
     "canonical:675b11d892979b2e": "2026-05-06T06:42:07.596Z",
     "canonical:9db8469f111d27a7": "2026-05-13T08:10:42.769Z",
@@ -191,7 +189,6 @@
     "canonical:489e874c917647db": "2026-05-09T15:28:15.527Z",
     "canonical:f7c2665f70b6e58b": "2026-05-09T15:28:15.527Z",
     "canonical:5b73cfd6db8d08e9": "2026-05-09T15:28:15.527Z",
-    "canonical:205728cd7b72d1ed": "2026-05-09T15:28:15.527Z",
     "canonical:27106f34e940af1e": "2026-05-09T15:28:15.527Z",
     "canonical:ee183f5783e60123": "2026-05-09T15:28:15.527Z",
     "canonical:0f12d49add27d56c": "2026-05-09T15:28:15.527Z",
@@ -616,7 +613,6 @@
     "canonical:a4af8e4a3c23536e": "2026-05-09T15:28:15.527Z",
     "canonical:085b2e5fe74779c0": "2026-05-09T15:28:15.527Z",
     "canonical:236461b451156888": "2026-05-09T15:28:15.527Z",
-    "canonical:416c4e61e308fc0f": "2026-05-09T15:28:15.527Z",
     "canonical:8b83f0f8daee2260": "2026-05-09T15:28:15.527Z",
     "canonical:1000248104b66e99": "2026-05-09T15:28:15.527Z",
     "canonical:c57c4eacff1fbece": "2026-05-09T15:28:15.527Z",
@@ -1136,7 +1132,6 @@
     "canonical:96fa2b1bb6b71c38": "2026-05-17T00:06:18.951Z",
     "canonical:f30a89c4a549a784": "2026-05-17T00:06:18.951Z",
     "canonical:7d1780be2939f6cd": "2026-05-17T04:18:58.240Z",
-    "canonical:3bdbaa6d9c4cf76c": "2026-05-17T04:18:58.240Z",
     "canonical:b4d0ab390e53ff6a": "2026-05-17T04:18:58.240Z",
     "canonical:7ffa9dc09a6c8ef4": "2026-05-17T04:18:58.240Z",
     "canonical:c24fa2c293373870": "2026-05-17T04:18:58.240Z",
@@ -1523,7 +1518,20 @@
     "canonical:e6ff36d4d91398b3": "2026-05-27T17:38:56.111Z",
     "canonical:eceb8a789d5ce53e": "2026-05-27T17:38:56.111Z",
     "canonical:babf7810d00ada0a": "2026-05-27T17:38:56.111Z",
-    "canonical:0712f95149b8c333": "2026-05-27T17:38:56.111Z"
+    "canonical:0712f95149b8c333": "2026-05-27T17:38:56.111Z",
+    "canonical:9c55da77e63d4a33": "2026-05-27T21:45:52.221Z",
+    "canonical:75861202b310d85b": "2026-05-27T21:45:52.221Z",
+    "canonical:9785d231645095a5": "2026-05-27T21:45:52.221Z",
+    "canonical:70507c79b6afa2de": "2026-05-27T21:45:52.221Z",
+    "canonical:73cd4f2761a3469b": "2026-05-27T21:45:52.221Z",
+    "canonical:e0d5ce31dfaf1a2a": "2026-05-27T21:45:52.221Z",
+    "canonical:55deb68272c97b7f": "2026-05-27T21:45:52.221Z",
+    "canonical:4d1a470cb2344f05": "2026-05-27T21:45:52.221Z",
+    "canonical:b624aefc8268bf4d": "2026-05-27T21:45:52.221Z",
+    "canonical:d5dc4d0e1ad562c4": "2026-05-27T21:45:52.221Z",
+    "canonical:55b73963c420ca4c": "2026-05-27T21:45:52.221Z",
+    "canonical:97d40a0b517e9bf1": "2026-05-27T21:45:52.221Z",
+    "canonical:3688181393312252": "2026-05-27T21:45:52.221Z"
   },
   "jobs": [
     {
@@ -2385,10 +2393,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2398,10 +2406,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2662,19 +2670,6 @@
       ]
     },
     {
-      "id": "canonical:d3e0314eab6e9161",
-      "title": "Internal Audit Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7652742?gh_jid=7652742",
-      "location": "In-Office",
-      "department": "",
-      "company": "Cloudflare",
-      "score": 38,
-      "scoreReasons": [
-        "direct ATS",
-        "lower-fit title"
-      ]
-    },
-    {
       "id": "canonical:95a3cb7b4ee294d3",
       "title": "Legal Intern – Policy & Public Sector (AI & Cybersecurity Focus) (Summer 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7779151?gh_jid=7779151",
@@ -2811,20 +2806,6 @@
       ]
     },
     {
-      "id": "canonical:d14a513f8325af8e",
-      "title": "Security Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150",
-      "location": "In-Office",
-      "department": "",
-      "company": "Cloudflare",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:7a2fd240cea729fb",
       "title": "Solutions Engineer Intern (Summer 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7738938?gh_jid=7738938",
@@ -2864,7 +2845,7 @@
     {
       "id": "canonical:31dd1ab15c427f1e",
       "title": "Technical Support Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726977?gh_jid=7726977",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -3955,18 +3936,6 @@
       "id": "canonical:5b73cfd6db8d08e9",
       "title": "Intern – Data Science - Electric Distribution",
       "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003854",
-      "location": "Des Moines, IA",
-      "department": "AI/ML/Data",
-      "company": "Berkshire Hathaway Energy",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:205728cd7b72d1ed",
-      "title": "Intern – Data Analyst - Electric Operations",
-      "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003856",
       "location": "Des Moines, IA",
       "department": "AI/ML/Data",
       "company": "Berkshire Hathaway Energy",
@@ -5968,19 +5937,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:3bdbaa6d9c4cf76c",
-      "title": "Product Management/ Marketing Intern",
-      "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Logan-Utah-United-States/Product-Management--Marketing-Intern_R1301303",
-      "location": "Logan, UT / Marlborough, MA",
-      "department": "Product",
-      "company": "Danaher Corporation",
-      "score": 38,
-      "scoreReasons": [
-        "direct ATS",
-        "lower-fit title"
       ]
     },
     {
@@ -10329,6 +10285,19 @@
       ]
     },
     {
+      "id": "canonical:9c55da77e63d4a33",
+      "title": "Developer Intern",
+      "url": "https://careers.tranetechnologies.com/global/en/job/92601996",
+      "location": "Winona, MN",
+      "department": "Software",
+      "company": "Trane Technologies",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:5fdcc487d07d7207",
       "title": "Software Intern/Co-op",
       "url": "https://berkshiregrey.bamboohr.com/careers/712/",
@@ -10513,19 +10482,6 @@
       "id": "canonical:236461b451156888",
       "title": "Machine Learning Engineer Intern - Monetization Technology - Ads Creative",
       "url": "https://lifeattiktok.com/search/7532464949135313159",
-      "location": "San Jose, CA",
-      "department": "AI/ML/Data",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:416c4e61e308fc0f",
-      "title": "Machine Learning Engineer Intern - 3D graphics",
-      "url": "https://lifeattiktok.com/search/7532735339883710728",
       "location": "San Jose, CA",
       "department": "AI/ML/Data",
       "company": "TikTok",
@@ -12761,6 +12717,18 @@
       ]
     },
     {
+      "id": "canonical:75861202b310d85b",
+      "title": "Engineering Intern",
+      "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-PA-Newtown-TTC/Engineering-Intern_JR11844",
+      "location": "Newtown, PA",
+      "department": "Hardware",
+      "company": "Curtiss-Wright Corporation",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:9689e97c8bd265b9",
       "title": "Data Analytics Intern",
       "url": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Milpitas-CA/Data-Analytics-Internship_R-5840",
@@ -13230,6 +13198,19 @@
       "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Data-Engineering-Intern_JR110748-1",
       "location": "Montreal, QC, Canada",
       "department": "AI/ML/Data",
+      "company": "Intelcom | Dragonfly",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:9785d231645095a5",
+      "title": "Software Development Intern - Mobile Application",
+      "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Mobile-Application_JR110747-1",
+      "location": "Montreal, QC, Canada",
+      "department": "Software",
       "company": "Intelcom | Dragonfly",
       "score": 68,
       "scoreReasons": [
@@ -14415,6 +14396,20 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:70507c79b6afa2de",
+      "title": "Software Developer Intern",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=7905463",
+      "location": "Montreal, QC, Canada",
+      "department": "Software",
+      "company": "Squarepoint Capital",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -16880,6 +16875,18 @@
       ]
     },
     {
+      "id": "canonical:73cd4f2761a3469b",
+      "title": "Software PhD Intern",
+      "url": "https://jobs.apple.com/en-us/details/200664323",
+      "location": "United States",
+      "department": "Software",
+      "company": "Apple",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:87f6386de9672675",
       "title": "Undergrad Engineering Intern",
       "url": "https://jobs.apple.com/en-us/details/200663968",
@@ -16898,6 +16905,31 @@
       "company": "Apple",
       "score": 50,
       "scoreReasons": []
+    },
+    {
+      "id": "canonical:e0d5ce31dfaf1a2a",
+      "title": "Software Undergrad Engineer Intern",
+      "url": "https://jobs.apple.com/en-us/details/200664785",
+      "location": "United States",
+      "department": "Software",
+      "company": "Apple",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:55deb68272c97b7f",
+      "title": "Software Engineering Masters Intern",
+      "url": "https://jobs.apple.com/en-us/details/200664320",
+      "location": "United States",
+      "department": "Software",
+      "company": "Apple",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
     },
     {
       "id": "canonical:ad86f83d65fd08c6",
@@ -17202,6 +17234,19 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:4d1a470cb2344f05",
+      "title": "Research Intern - Artificial Intelligence - Student",
+      "url": "https://oh.wd3.myworkdayjobs.com/OH/job/Toronto-ON/Information-Strategy-Management-and-Analytics--SPARR----Student_R109564",
+      "location": "Toronto, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "Ontario Health",
+      "score": 68,
+      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
@@ -18639,6 +18684,71 @@
       "location": "Austin, TX",
       "department": "Quant",
       "company": "Integra FEC",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:b624aefc8268bf4d",
+      "title": "Packaging System Intern",
+      "url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Packaging-System-Intern_R0463418-1",
+      "location": "Springdale, AR",
+      "department": "AI/ML/Data",
+      "company": "Tyson Foods",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:d5dc4d0e1ad562c4",
+      "title": "Transportation Intern",
+      "url": "https://howard.wd1.myworkdayjobs.com/HU/job/Downing-Hall-College-of-Engineering/DDOT-Intern-4_JR108126-1",
+      "location": "Washington, DC",
+      "department": "AI/ML/Data",
+      "company": "Howard University",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:55b73963c420ca4c",
+      "title": "Intern",
+      "url": "https://howard.wd1.myworkdayjobs.com/HU/job/Downing-Hall-College-of-Engineering/DDOT-Intern-6_JR108128-1",
+      "location": "Washington, DC",
+      "department": "AI/ML/Data",
+      "company": "Howard University",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:97d40a0b517e9bf1",
+      "title": "Performance Analyst Intern",
+      "url": "https://job-boards.greenhouse.io/fccincinnati/jobs/7741529003",
+      "location": "Cincinnati, OH",
+      "department": "AI/ML/Data",
+      "company": "Fussball Club Cincinnati LLC (“FC Cincinnati”)",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:3688181393312252",
+      "title": "Research Analyst Intern",
+      "url": "https://job-boards.greenhouse.io/truveta/jobs/5973938004",
+      "location": "Seattle, WA",
+      "department": "AI/ML/Data",
+      "company": "Truveta",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
