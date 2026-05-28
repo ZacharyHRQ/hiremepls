@@ -41,6 +41,7 @@
 - [APM Terminals](#apm-terminals) (1)
 - [Appian](#appian) (1)
 - [Apple](#apple) (15)
+- [Applied Intuition](#applied-intuition) (3)
 - [Applied Materials](#applied-materials) (2)
 - [Aptiv](#aptiv) (1)
 - [AQR](#aqr) (7)
@@ -56,7 +57,7 @@
 - [ASM Global](#asm-global) (4)
 - [ASM International](#asm-international) (1)
 - [ASML](#asml) (2)
-- [AspenTech](#aspentech) (4)
+- [AspenTech](#aspentech) (2)
 - [ASSA ABLOY](#assa-abloy) (1)
 - [Astera](#astera) (1)
 - [Astera Labs](#astera-labs) (2)
@@ -97,7 +98,7 @@
 - [Bombardier](#bombardier) (1)
 - [Booz Allen](#booz-allen) (2)
 - [Bosch](#bosch) (2)
-- [Boston Consulting Group](#boston-consulting-group) (2)
+- [Boston Consulting Group](#boston-consulting-group) (1)
 - [Brevian](#brevian) (1)
 - [BrightAI](#brightai) (1)
 - [British Columbia Investment](#british-columbia-investment) (8)
@@ -133,7 +134,7 @@
 - [City of Austin](#city-of-austin) (1)
 - [City of Baltimore](#city-of-baltimore) (4)
 - [Clarivate](#clarivate) (1)
-- [Cloudflare](#cloudflare) (21)
+- [Cloudflare](#cloudflare) (20)
 - [Cloudforce](#cloudforce) (2)
 - [CME Group](#cme-group) (1)
 - [Codeage](#codeage) (1)
@@ -296,7 +297,7 @@
 - [Hunt Oil Company](#hunt-oil-company) (3)
 - [iHerb](#iherb) (1)
 - [Illumio](#illumio) (1)
-- [IMC Trading](#imc-trading) (10)
+- [IMC Trading](#imc-trading) (9)
 - [Impulse Space](#impulse-space) (1)
 - [Infojini](#infojini) (1)
 - [Inizio](#inizio) (1)
@@ -334,7 +335,7 @@
 - [Kodiak Robotics](#kodiak-robotics) (2)
 - [Kognitos](#kognitos) (1)
 - [Kudu Dynamics](#kudu-dynamics) (1)
-- [L3Harris Technologies](#l3harris-technologies) (1)
+- [L3Harris Technologies](#l3harris-technologies) (2)
 - [Labelbox](#labelbox) (1)
 - [Lambda](#lambda) (2)
 - [Landis+Gyr](#landis-gyr) (1)
@@ -402,11 +403,11 @@
 - [Nintendo](#nintendo) (1)
 - [Nio](#nio) (2)
 - [Nissan Global](#nissan-global) (1)
-- [Nokia](#nokia) (17)
+- [Nokia](#nokia) (18)
 - [Northwestern Mutual](#northwestern-mutual) (2)
 - [Notion](#notion) (5)
 - [Nuro](#nuro) (2)
-- [NVIDIA](#nvidia) (11)
+- [NVIDIA](#nvidia) (12)
 - [OCC](#occ) (1)
 - [Octaura](#octaura) (1)
 - [Omnis](#omnis) (1)
@@ -518,7 +519,6 @@
 - [Smartly.io](#smartly-io) (2)
 - [Smiths Detection](#smiths-detection) (1)
 - [Snap](#snap) (1)
-- [Snap-on](#snap-on) (1)
 - [Snowflake](#snowflake) (11)
 - [Snyk](#snyk) (2)
 - [Socure](#socure) (2)
@@ -910,6 +910,14 @@
 | [GPU Intern - Platform Architecture](https://jobs.apple.com/en-us/details/200617616) | 60 | London, UK / Cambridge, UK / Welwyn Garden City, UK | Hardware | 2026-05-09 |
 | [Hardware Engineering Intern](https://jobs.apple.com/en-us/details/200663981) | 50 | United States | Hardware | 2026-05-09 |
 
+## Applied Intuition
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Research Intern - 3D Vision and Generation - Self-Driving](https://boards.greenhouse.io/appliedintuition/jobs/4661663005) | 68 | Sunnyvale, CA | AI/ML/Data | 2026-05-28 |
+| [Research Intern - Reinforcement Learning - Self-Driving](https://boards.greenhouse.io/appliedintuition/jobs/4473608005) | 68 | Sunnyvale, CA | AI/ML/Data | 2026-05-28 |
+| [Research Intern - Robotic Hardware - Simulation and Data](https://boards.greenhouse.io/appliedintuition/jobs/4661664005) | 68 | Sunnyvale, CA | AI/ML/Data | 2026-05-28 |
+
 ## Applied Materials
 
 | Title | Score | Location | Department | First seen |
@@ -1016,10 +1024,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Project Engineering Intern - Digital Grid Management - Summer 2026](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Project-Engineering-Intern---Digital-Grid-Management---Summer-2026_R8646) | 68 | Wayzata, MN | Software | 2026-05-23 |
 | [Product Owner Intern](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Product-Owner-Intern_R8783) | 58 | Bedford, MA | Product | 2026-05-23 |
 | [Software Developer Intern - Digital Grid Management](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Software-Development-Intern---Digital-Grid-Management---Summer-2026_R8627-1) | 93 | Wayzata, MN | Software | 2026-05-17 |
-| [Data Science Intern](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Data-Science-Intern---Summer-2026---Bedford--MA_R8657) | 68 | Bedford, MA | AI/ML/Data | 2026-05-17 |
 
 ## ASSA ABLOY
 
@@ -1308,7 +1314,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Data Scientist Intern](https://careers.bcg.com/global/en/job/56634) | 85 | London, UK | AI/ML/Data | 2026-05-27 |
 | [AI Engineer Intern - BCG X](https://careers.bcg.com/global/en/job/56635) | 85 | London, UK | AI/ML/Data | 2026-05-22 |
 
 ## Brevian
@@ -1578,7 +1583,6 @@
 | [Solutions Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7738938?gh_jid=7738938) | 58 | In-Office | — | 2026-05-15 |
 | [Technical Support Engineer Intern (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7912382?gh_jid=7912382) | 58 | In-Office | — | 2026-05-13 |
 | [Network Engineering Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7917883?gh_jid=7917883) | 58 | In-Office | — | 2026-05-13 |
-| [Product Marketing Engineer Intern – Intern - AI & Automation](https://boards.greenhouse.io/cloudflare/jobs/7781953) | 48 | Austin, TX | Software | 2026-05-09 |
 | [Marketing Events and Campaigns Intern (Mid-Year 2026)](https://boards.greenhouse.io/cloudflare/jobs/7736919?gh_jid=7736919) | 38 | In-Office | — | 2026-05-07 |
 | [Customer Advocacy Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7743202?gh_jid=7743202) | 58 | In-Office | — | 2026-05-06 |
 | [Global Trade Compliance Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7799138?gh_jid=7799138) | 58 | In-Office | — | 2026-05-06 |
@@ -2681,15 +2685,14 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Hardware Machine Learning PhD Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, IL | AI/ML/Data | 2026-05-09 |
-| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
+| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
 | [Hardware Machine Learning PhD Research Internship](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, United States | — | 2026-05-06 |
 | [Graduate Broker Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4608590101) | 64 | Chicago, United States | — | 2026-05-06 |
 | [Graduate Floor Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4786701101) | 64 | Chicago, United States; Miami, United States; New York, United States; Philadelphia, United States; San Francisco, United States | — | 2026-05-06 |
 | [Graduate Site Reliability Engineer, 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4540358101) | 64 | Sydney,  Australia | — | 2026-05-06 |
 | [Graduate Trader (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564495101) | 64 | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Graduate Trading Operations Specialist](https://job-boards.eu.greenhouse.io/imc/jobs/4608591101) | 64 | Chicago, United States | — | 2026-05-06 |
-| [Hardware Engineer Intern 2026/27](https://job-boards.eu.greenhouse.io/imc/jobs/4742629101) | 58 | Sydney,  Australia | — | 2026-05-06 |
 
 ## Impulse Space
 
@@ -2957,6 +2960,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Embedded Software Engineer Intern](https://jobs.l3harris.com/job/Ottawa-Embedded-Software-Engineering-Intern-ON-K2H-9N6/1394577100/?ats=successfactors) | 85 | Ottawa, ON, Canada | Hardware | 2026-05-28 |
 | [Associate Member Engineering Staff Intern - Software](https://jobs.l3harris.com/job/Camden-Associate-Member-Engineering-Staff-Software-(Internship)-NJ-08103/1391044800/?ats=successfactors) | 60 | Philadelphia, PA | Hardware | 2026-05-16 |
 
 ## Labelbox
@@ -3487,6 +3491,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [AI-ML Systems Research Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36324) | 60 | Berkeley Heights, NJ | AI/ML/Data | 2026-05-28 |
 | [Embedded C/C++ Software Developer Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35268) | 85 | Ottawa, ON, Canada | Hardware | 2026-05-20 |
 | [ASIC Verification Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36281) | 50 | Ottawa, ON, Canada | Hardware | 2026-05-20 |
 | [Incubation Developer Coop/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34227) | 85 | Ottawa, ON, Canada | Software | 2026-05-09 |
@@ -3533,6 +3538,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [PhD Research Intern - Generative AI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035) | 68 | California / Santa Clara, CA / United States | AI/ML/Data | 2026-05-28 |
 | [AI and Systems Software Intern - At Scale AI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-Systems-Software-Intern--At-Scale-AI---Fall-2026_JR2018652) | 68 | Santa Clara, CA | Software | 2026-05-28 |
 | [Data Analysis Intern - Applied System Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Data-Analysis-Intern--Applied-System-Engineering---Fall-2026_JR2018687-1) | 68 | Santa Clara, CA | AI/ML/Data | 2026-05-27 |
 | [Data Processing Developer Technology Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/France-Courbevoie/Data-Processing-Developer-Technology-Intern---2026_JR2006379) | 93 | Paris, France / Bristol, UK | AI/ML/Data | 2026-05-23 |
@@ -4342,12 +4348,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Machine Learning Engineer Intern](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/London-United-Kingdom/Machine-Learning-Engineering-Intern_R0045123) | 85 | London, UK | AI/ML/Data | 2026-05-09 |
-
-## Snap-on
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Automotive Technology Intern](https://careers-snapon.icims.com/jobs/19863/job?mobile=true&needsRedirect=false) | 50 | Vernon Hills, IL | Hardware | 2026-05-09 |
 
 ## Snowflake
 

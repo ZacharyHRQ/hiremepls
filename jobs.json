@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T00:12:15.474Z",
+  "generatedAt": "2026-05-28T04:38:59.463Z",
   "companyCount": 64,
   "okCount": 63,
   "jobCount": 1531,
@@ -17,7 +17,6 @@
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
     "canonical:d3e044a7cf0a5bf2": "2026-05-06T06:42:07.596Z",
     "canonical:5f76788ff8db5212": "2026-05-06T06:42:07.596Z",
-    "canonical:ef297dff8ed5dad2": "2026-05-06T06:42:07.596Z",
     "canonical:deba20522af655b8": "2026-05-06T06:42:07.596Z",
     "canonical:da3af0a78a201794": "2026-05-06T06:42:07.596Z",
     "canonical:f310a07d27c1f3e6": "2026-05-06T06:42:07.596Z",
@@ -496,7 +495,6 @@
     "canonical:a2c0b89641145ea2": "2026-05-09T15:28:15.527Z",
     "canonical:02f57f3546feb41b": "2026-05-09T15:28:15.527Z",
     "canonical:6bf1c3156ba10a55": "2026-05-09T15:28:15.527Z",
-    "canonical:6ca6e14de5ab7121": "2026-05-09T15:28:15.527Z",
     "canonical:f6d52c60d3d83059": "2026-05-09T15:28:15.527Z",
     "canonical:7941eff9d963f9ad": "2026-05-09T15:28:15.527Z",
     "canonical:27fa5d3290d6515b": "2026-05-13T22:37:04.081Z",
@@ -638,7 +636,6 @@
     "canonical:11ccf5058382c3d9": "2026-05-09T15:28:15.527Z",
     "canonical:62388f9a8d7fd92c": "2026-05-09T15:28:15.527Z",
     "canonical:4681acf53968c81b": "2026-05-16T07:09:10.733Z",
-    "canonical:25aa7210d3389716": "2026-05-09T15:28:15.527Z",
     "canonical:dcad659b98f1e696": "2026-05-09T15:28:15.527Z",
     "canonical:5f0c132b1b14e2e1": "2026-05-09T15:28:15.527Z",
     "canonical:96233cebc75fdbb2": "2026-05-09T15:28:15.527Z",
@@ -1152,7 +1149,6 @@
     "canonical:f0195aae84ccc299": "2026-05-17T07:19:48.510Z",
     "canonical:53f6a277d4583b60": "2026-05-17T09:17:39.096Z",
     "canonical:fa9184bcd6e40ca9": "2026-05-17T09:17:39.096Z",
-    "canonical:3fa564b9d9c91d0d": "2026-05-17T09:17:39.096Z",
     "canonical:bca1cc17005e460b": "2026-05-17T09:17:39.096Z",
     "canonical:6642a1fba61837a9": "2026-05-17T09:17:39.096Z",
     "canonical:b2b6d0672577b09c": "2026-05-17T09:17:39.096Z",
@@ -1327,7 +1323,6 @@
     "canonical:b90d174a181318ef": "2026-05-23T16:29:56.405Z",
     "canonical:37606f15521682bc": "2026-05-23T16:29:56.405Z",
     "canonical:85f938c896a579e7": "2026-05-23T16:29:56.405Z",
-    "canonical:f67ccd38fce2d6a4": "2026-05-23T17:34:41.089Z",
     "canonical:bdaa687430a7d06e": "2026-05-23T17:34:41.089Z",
     "canonical:a6194d40744f80fc": "2026-05-23T17:34:41.089Z",
     "canonical:e19f107b83aa38c4": "2026-05-23T17:34:41.089Z",
@@ -1431,7 +1426,6 @@
     "canonical:00e5906af0928432": "2026-05-27T06:54:37.687Z",
     "canonical:7cd11e7ec9f67cb6": "2026-05-27T06:54:37.687Z",
     "canonical:f4e355745f038164": "2026-05-27T06:54:37.687Z",
-    "canonical:a356ac432d4a0c77": "2026-05-27T10:47:24.465Z",
     "canonical:5382ee415d9a9e24": "2026-05-27T10:47:24.465Z",
     "canonical:ee9c91f522b978e2": "2026-05-27T10:47:24.465Z",
     "canonical:1aa0879fe814bdbb": "2026-05-27T10:47:24.465Z",
@@ -1534,7 +1528,13 @@
     "canonical:9e2ca9c244113a9f": "2026-05-28T00:12:15.474Z",
     "canonical:5b93475ac32ee191": "2026-05-28T00:12:15.474Z",
     "canonical:b1e306d16ec9ebab": "2026-05-28T00:12:15.474Z",
-    "canonical:679507220af48402": "2026-05-28T00:12:15.474Z"
+    "canonical:679507220af48402": "2026-05-28T00:12:15.474Z",
+    "canonical:213d463a36c92170": "2026-05-28T04:38:59.463Z",
+    "canonical:a6656b7d355386f5": "2026-05-28T04:38:59.463Z",
+    "canonical:cbb2914bff9402e9": "2026-05-28T04:38:59.463Z",
+    "canonical:55f7914d8c2bdcce": "2026-05-28T04:38:59.463Z",
+    "canonical:a25a76a4dcfe200c": "2026-05-28T04:38:59.463Z",
+    "canonical:a16520e1139885d0": "2026-05-28T04:38:59.463Z"
   },
   "jobs": [
     {
@@ -1656,10 +1656,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1671,10 +1671,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1708,18 +1708,6 @@
       "score": 64,
       "scoreReasons": [
         "new grad",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:ef297dff8ed5dad2",
-      "title": "Hardware Engineer Intern 2026/27",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4742629101",
-      "location": "Sydney,  Australia",
-      "department": "",
-      "company": "IMC Trading",
-      "score": 58,
-      "scoreReasons": [
         "direct ATS"
       ]
     },
@@ -6291,19 +6279,6 @@
       ]
     },
     {
-      "id": "canonical:a356ac432d4a0c77",
-      "title": "Data Scientist Intern",
-      "url": "https://careers.bcg.com/global/en/job/56634",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "Boston Consulting Group",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:18df2a1964fc05b8",
       "title": "Software Engineer Intern - Ads Interface Platform",
       "url": "https://lifeattiktok.com/search/7473334964256393479",
@@ -6785,19 +6760,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:f67ccd38fce2d6a4",
-      "title": "Project Engineering Intern - Digital Grid Management - Summer 2026",
-      "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Project-Engineering-Intern---Digital-Grid-Management---Summer-2026_R8646",
-      "location": "Wayzata, MN",
-      "department": "Software",
-      "company": "AspenTech",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -7295,6 +7257,32 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:213d463a36c92170",
+      "title": "Research Intern - 3D Vision and Generation - Self-Driving",
+      "url": "https://boards.greenhouse.io/appliedintuition/jobs/4661663005",
+      "location": "Sunnyvale, CA",
+      "department": "AI/ML/Data",
+      "company": "Applied Intuition",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:a6656b7d355386f5",
+      "title": "Research Intern - Robotic Hardware - Simulation and Data",
+      "url": "https://boards.greenhouse.io/appliedintuition/jobs/4661664005",
+      "location": "Sunnyvale, CA",
+      "department": "AI/ML/Data",
+      "company": "Applied Intuition",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -8225,19 +8213,6 @@
       ]
     },
     {
-      "id": "canonical:3fa564b9d9c91d0d",
-      "title": "Data Science Intern",
-      "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Data-Science-Intern---Summer-2026---Bedford--MA_R8657",
-      "location": "Bedford, MA",
-      "department": "AI/ML/Data",
-      "company": "AspenTech",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:1a36c38a48406fc0",
       "title": "Software Architecture Engineer Intern",
       "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Architecture-Engineer-Intern_JR100106",
@@ -8553,16 +8528,6 @@
         "SWE-aligned",
         "high-signal role"
       ]
-    },
-    {
-      "id": "canonical:6ca6e14de5ab7121",
-      "title": "Automotive Technology Intern",
-      "url": "https://careers-snapon.icims.com/jobs/19863/job?mobile=true&needsRedirect=false",
-      "location": "Vernon Hills, IL",
-      "department": "Hardware",
-      "company": "Snap-on",
-      "score": 50,
-      "scoreReasons": []
     },
     {
       "id": "canonical:f6d52c60d3d83059",
@@ -10912,20 +10877,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:25aa7210d3389716",
-      "title": "Product Marketing Engineer Intern – Intern - AI & Automation",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7781953",
-      "location": "Austin, TX",
-      "department": "Software",
-      "company": "Cloudflare",
-      "score": 48,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS",
-        "lower-fit title"
       ]
     },
     {
@@ -18794,6 +18745,57 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:cbb2914bff9402e9",
+      "title": "Research Intern - Reinforcement Learning - Self-Driving",
+      "url": "https://boards.greenhouse.io/appliedintuition/jobs/4473608005",
+      "location": "Sunnyvale, CA",
+      "department": "AI/ML/Data",
+      "company": "Applied Intuition",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:55f7914d8c2bdcce",
+      "title": "PhD Research Intern - Generative AI",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035",
+      "location": "California / Santa Clara, CA / United States",
+      "department": "AI/ML/Data",
+      "company": "NVIDIA",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:a25a76a4dcfe200c",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://jobs.l3harris.com/job/Ottawa-Embedded-Software-Engineering-Intern-ON-K2H-9N6/1394577100/?ats=successfactors",
+      "location": "Ottawa, ON, Canada",
+      "department": "Hardware",
+      "company": "L3Harris Technologies",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:a16520e1139885d0",
+      "title": "AI-ML Systems Research Intern",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36324",
+      "location": "Berkeley Heights, NJ",
+      "department": "AI/ML/Data",
+      "company": "Nokia",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
       ]
     },
     {
