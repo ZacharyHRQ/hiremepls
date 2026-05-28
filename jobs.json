@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-28T16:31:50.003Z",
+  "generatedAt": "2026-05-28T19:18:12.850Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1496,
+  "jobCount": 1489,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -364,9 +364,6 @@
     "canonical:61d32161ffed8a78": "2026-05-09T15:28:15.527Z",
     "canonical:c81b7e4d92a3a1c6": "2026-05-09T15:28:15.527Z",
     "canonical:144ba34be805c34a": "2026-05-09T15:28:15.527Z",
-    "canonical:ac75e877e529477b": "2026-05-09T15:28:15.527Z",
-    "canonical:7693d52e94ac3803": "2026-05-09T15:28:15.527Z",
-    "canonical:adbe6dd02a4cc19f": "2026-05-09T15:28:15.527Z",
     "canonical:ba39bde12d987b71": "2026-05-09T15:28:15.527Z",
     "canonical:a5bfc8c8a8aaf929": "2026-05-09T15:28:15.527Z",
     "canonical:a14116d1f50a785b": "2026-05-09T15:28:15.527Z",
@@ -747,7 +744,6 @@
     "canonical:b1cec7aacb5584d6": "2026-05-09T15:28:15.527Z",
     "canonical:99e03b476dac932b": "2026-05-09T15:28:15.527Z",
     "canonical:0c953ee66e86cdaa": "2026-05-09T15:28:15.527Z",
-    "canonical:cc35dc83f815449a": "2026-05-09T15:28:15.527Z",
     "canonical:73b655c0d199329d": "2026-05-09T15:28:15.527Z",
     "canonical:4ad551198f20a1aa": "2026-05-09T15:28:15.527Z",
     "canonical:b2ce821a35fe0aa1": "2026-05-09T15:28:15.527Z",
@@ -1077,7 +1073,6 @@
     "canonical:5cec9f0b469f9a82": "2026-05-16T22:02:43.602Z",
     "canonical:5dbbafb7c424a637": "2026-05-16T22:02:43.602Z",
     "canonical:aeb0200148d99b67": "2026-05-16T22:02:43.602Z",
-    "canonical:1cf743ca5f76a426": "2026-05-16T22:02:43.602Z",
     "canonical:9a2e2f8f76500ed1": "2026-05-16T22:02:43.602Z",
     "canonical:e02b646de548031d": "2026-05-16T22:02:43.602Z",
     "canonical:d4cd59daed8b8e29": "2026-05-16T22:02:43.602Z",
@@ -1387,7 +1382,6 @@
     "canonical:7cd11e7ec9f67cb6": "2026-05-27T06:54:37.687Z",
     "canonical:f4e355745f038164": "2026-05-27T06:54:37.687Z",
     "canonical:5382ee415d9a9e24": "2026-05-27T10:47:24.465Z",
-    "canonical:ee9c91f522b978e2": "2026-05-27T10:47:24.465Z",
     "canonical:1aa0879fe814bdbb": "2026-05-27T10:47:24.465Z",
     "canonical:20085e5eef82ddf3": "2026-05-27T10:47:24.465Z",
     "canonical:0c62e928142f40f2": "2026-05-27T10:47:24.465Z",
@@ -1441,7 +1435,6 @@
     "canonical:987692e2467afcf0": "2026-05-27T17:38:56.111Z",
     "canonical:7749e3c900fbef3d": "2026-05-27T17:38:56.111Z",
     "canonical:aa0c8e0445457bff": "2026-05-27T17:38:56.111Z",
-    "canonical:e6ff36d4d91398b3": "2026-05-27T17:38:56.111Z",
     "canonical:eceb8a789d5ce53e": "2026-05-27T17:38:56.111Z",
     "canonical:babf7810d00ada0a": "2026-05-27T17:38:56.111Z",
     "canonical:9c55da77e63d4a33": "2026-05-27T21:45:52.221Z",
@@ -6397,46 +6390,6 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:ac75e877e529477b",
-      "title": "Engineering Intern - Business Technology Operations - Foundational PIM",
-      "url": "https://boards.greenhouse.io/aloyoga/jobs/5781907004",
-      "location": "Culver City, CA",
-      "department": "AI/ML/Data",
-      "company": "Alo Yoga",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:7693d52e94ac3803",
-      "title": "Engineering Intern - Enterprise Resource Planning Finance Systems",
-      "url": "https://boards.greenhouse.io/aloyoga/jobs/5781860004",
-      "location": "Culver City, CA",
-      "department": "Software",
-      "company": "Alo Yoga",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:adbe6dd02a4cc19f",
-      "title": "Engineering Intern - Retail Technology",
-      "url": "https://boards.greenhouse.io/aloyoga/jobs/5783155004",
-      "location": "San Ramon, CA",
-      "department": "Software",
-      "company": "Alo Yoga",
-      "score": 48,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS",
-        "lower-fit title"
       ]
     },
     {
@@ -12931,19 +12884,6 @@
       ]
     },
     {
-      "id": "canonical:cc35dc83f815449a",
-      "title": "PhD Machine Learning Engineer Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7216664",
-      "location": "Seattle, WA / SF / NYC",
-      "department": "AI/ML/Data",
-      "company": "Stripe",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:eee4f030dfb48a9c",
       "title": "Data Science Intern - Data Science",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Science-des-donnes---Internship---Fall-2026---Data-Science_01841595",
@@ -13804,19 +13744,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:1cf743ca5f76a426",
-      "title": "Data Analyst Intern",
-      "url": "https://sharecare.wd1.myworkdayjobs.com/Sharecare_Careers/job/BAM---Atlanta-GA/Data-Analyst-Intern---Remote_R-101873",
-      "location": "Atlanta, GA",
-      "department": "AI/ML/Data",
-      "company": "Sharecare",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -17288,19 +17215,6 @@
       ]
     },
     {
-      "id": "canonical:ee9c91f522b978e2",
-      "title": "Predoctoral Research Associate Intern - Strategy",
-      "url": "https://jobs.smartrecruiters.com/HarvardUniversity/3743990013029486",
-      "location": "Boston, MA",
-      "department": "AI/ML/Data",
-      "company": "Harvard University",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:1aa0879fe814bdbb",
       "title": "Additive Manufacturing Intern",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7730636003",
@@ -17839,19 +17753,6 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:e6ff36d4d91398b3",
-      "title": "Securities Financing Transactions Intern - Securities Financing Transactions",
-      "url": "https://bbva.wd3.myworkdayjobs.com/BBVA/job/LONDON/Securities-Financing-Transactions--SFT--Internship_JR00104038",
-      "location": "London, UK",
-      "department": "Quant",
-      "company": "Banco Bilbao Vizcaya Argentaria",
-      "score": 68,
-      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]

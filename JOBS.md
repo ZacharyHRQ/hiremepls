@@ -1,6 +1,6 @@
 # Open Internships
 
-**1496** internships across **63/64** companies — last updated 2026-05-28.
+**1489** internships across **63/64** companies — last updated 2026-05-28.
 
 ## Companies
 
@@ -22,7 +22,7 @@
 - [Al Warren Oil Company](#al-warren-oil-company) (2)
 - [Allegion](#allegion) (1)
 - [Allium](#allium) (1)
-- [Alo Yoga](#alo-yoga) (6)
+- [Alo Yoga](#alo-yoga) (3)
 - [Alston & Bird Law Firm](#alston-bird-law-firm) (1)
 - [AltaML](#altaml) (1)
 - [Altera Corporation](#altera-corporation) (2)
@@ -77,7 +77,6 @@
 - [AXQ Capital](#axq-capital) (1)
 - [Axway](#axway) (2)
 - [BAE Systems](#bae-systems) (8)
-- [Banco Bilbao Vizcaya Argentaria](#banco-bilbao-vizcaya-argentaria) (1)
 - [Bank of America](#bank-of-america) (1)
 - [Bank of Montreal](#bank-of-montreal) (4)
 - [Barkback](#barkback) (1)
@@ -268,7 +267,7 @@
 - [Haize Labs](#haize-labs) (1)
 - [Halliburton](#halliburton) (2)
 - [Harris Computer](#harris-computer) (3)
-- [Harvard University](#harvard-university) (2)
+- [Harvard University](#harvard-university) (1)
 - [HCompany](#hcompany) (1)
 - [Helix Electric](#helix-electric) (1)
 - [Herdora](#herdora) (1)
@@ -496,7 +495,7 @@
 - [SEKO Logistics](#seko-logistics) (1)
 - [Semtech](#semtech) (1)
 - [SF Giants](#sf-giants) (1)
-- [Sharecare](#sharecare) (2)
+- [Sharecare](#sharecare) (1)
 - [SharkNinja](#sharkninja) (1)
 - [SHEIN](#shein) (1)
 - [Shenzhen ANQI SHISHANG Articles Co., ltd.](#shenzhen-anqi-shishang-articles-co-ltd) (1)
@@ -528,7 +527,7 @@
 - [Stevens Capital Management](#stevens-capital-management) (1)
 - [Stoke Space](#stoke-space) (1)
 - [Stride](#stride) (1)
-- [Stripe](#stripe) (9)
+- [Stripe](#stripe) (8)
 - [Sundt](#sundt) (1)
 - [SunSource](#sunsource) (2)
 - [Super](#super) (6)
@@ -751,10 +750,7 @@
 | --- | --- | --- | --- | --- |
 | [Digital Engineering Intern](https://boards.greenhouse.io/aloyoga/jobs/5783146004) | 68 | San Ramon, CA | Software | 2026-05-09 |
 | [Digital Engineering Intern](https://boards.greenhouse.io/aloyoga/jobs/5781938004) | 68 | Culver City, CA | Software | 2026-05-09 |
-| [Engineering Intern - Business Technology Operations - Foundational PIM](https://boards.greenhouse.io/aloyoga/jobs/5781907004) | 68 | Culver City, CA | AI/ML/Data | 2026-05-09 |
 | [Engineering Intern - Business Technology Operations - Operations Data & Visibility](https://boards.greenhouse.io/aloyoga/jobs/5781932004) | 68 | Culver City, CA | AI/ML/Data | 2026-05-09 |
-| [Engineering Intern - Enterprise Resource Planning Finance Systems](https://boards.greenhouse.io/aloyoga/jobs/5781860004) | 68 | Culver City, CA | Software | 2026-05-09 |
-| [Engineering Intern - Retail Technology](https://boards.greenhouse.io/aloyoga/jobs/5783155004) | 48 | San Ramon, CA | Software | 2026-05-09 |
 
 ## Alston & Bird Law Firm
 
@@ -1154,12 +1150,6 @@
 | [Software Engineering Intern, Summer 2026](https://jobs.baesystems.com/global/en/job/BAE1US117813BREXTERNAL/Software-Engineering-Intern-Summer-2026) | 60 | Fort Worth, TX | Software Engineering | 2026-05-09 |
 | [Software Intern, Summer 2026](https://jobs.baesystems.com/global/en/job/BAE1US118688BREXTERNAL/Software-Intern-Summer-2026) | 60 | Totowa, NJ | Software Engineering | 2026-05-09 |
 | [Summer Software Intern](https://jobs.baesystems.com/global/en/job/BAE1US119401BREXTERNAL/Summer-Software-Intern) | 60 | Fort Wayne, IN | Software Engineering | 2026-05-09 |
-
-## Banco Bilbao Vizcaya Argentaria
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Securities Financing Transactions Intern - Securities Financing Transactions](https://bbva.wd3.myworkdayjobs.com/BBVA/job/LONDON/Securities-Financing-Transactions--SFT--Internship_JR00104038) | 68 | London, UK | Quant | 2026-05-27 |
 
 ## Bank of America
 
@@ -2472,7 +2462,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Predoctoral Research Associate Intern - Strategy](https://jobs.smartrecruiters.com/HarvardUniversity/3743990013029486) | 68 | Boston, MA | AI/ML/Data | 2026-05-27 |
 | [Predoctoral Research Associate Intern - Economics and Political Economy](https://jobs.smartrecruiters.com/HarvardUniversity/3743990013212236) | 68 | Boston, MA | AI/ML/Data | 2026-05-19 |
 
 ## HCompany
@@ -4173,7 +4162,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [BI Analytics Intern](https://sharecare.wd1.myworkdayjobs.com/Sharecare_Careers/job/BAM---Atlanta-GA/BI-Analytics-Intern---Remote_R-101864) | 68 | Atlanta, GA | AI/ML/Data | 2026-05-16 |
-| [Data Analyst Intern](https://sharecare.wd1.myworkdayjobs.com/Sharecare_Careers/job/BAM---Atlanta-GA/Data-Analyst-Intern---Remote_R-101873) | 68 | Atlanta, GA | AI/ML/Data | 2026-05-16 |
 
 ## SharkNinja
 
@@ -4407,7 +4395,6 @@
 | --- | --- | --- | --- | --- |
 | [PhD Data Scientist Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | Seattle, WA / SF / Chicago, IL / NYC | AI/ML/Data | 2026-05-09 |
 | [PhD Data Scientist Intern - Data Science](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
-| [PhD Machine Learning Engineer Intern](https://stripe.com/jobs/search?gh_jid=7216664) | 85 | Seattle, WA / SF / NYC | AI/ML/Data | 2026-05-09 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
