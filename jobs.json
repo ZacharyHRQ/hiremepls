@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-28T19:18:12.850Z",
+  "generatedAt": "2026-05-28T21:28:48.411Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1489,
+  "jobCount": 1485,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -366,7 +366,6 @@
     "canonical:144ba34be805c34a": "2026-05-09T15:28:15.527Z",
     "canonical:ba39bde12d987b71": "2026-05-09T15:28:15.527Z",
     "canonical:a5bfc8c8a8aaf929": "2026-05-09T15:28:15.527Z",
-    "canonical:a14116d1f50a785b": "2026-05-09T15:28:15.527Z",
     "canonical:9cce68596258215e": "2026-05-09T15:28:15.527Z",
     "canonical:91662b64de8538ee": "2026-05-09T15:28:15.527Z",
     "canonical:719fb84270c8e712": "2026-05-09T15:28:15.527Z",
@@ -536,7 +535,6 @@
     "canonical:ebfbb21978a45764": "2026-05-09T15:28:15.527Z",
     "canonical:1ff85e8ca14b40b6": "2026-05-09T15:28:15.527Z",
     "canonical:bc169376140ecc52": "2026-05-09T15:28:15.527Z",
-    "canonical:39b6a7c9e91fe21b": "2026-05-09T15:28:15.527Z",
     "canonical:fcfe57824f093788": "2026-05-09T15:28:15.527Z",
     "canonical:996a60f7c97492c1": "2026-05-09T15:28:15.527Z",
     "canonical:baa83b85307ecee4": "2026-05-09T15:28:15.527Z",
@@ -1076,7 +1074,6 @@
     "canonical:9a2e2f8f76500ed1": "2026-05-16T22:02:43.602Z",
     "canonical:e02b646de548031d": "2026-05-16T22:02:43.602Z",
     "canonical:d4cd59daed8b8e29": "2026-05-16T22:02:43.602Z",
-    "canonical:cb723f0bce54b5ab": "2026-05-16T23:05:32.490Z",
     "canonical:c283b1d0aad7eb52": "2026-05-16T23:05:32.490Z",
     "canonical:5905c1ae3260f207": "2026-05-16T23:05:32.490Z",
     "canonical:d1efcb73fa2a883b": "2026-05-16T23:05:32.490Z",
@@ -1123,7 +1120,6 @@
     "canonical:53f6a277d4583b60": "2026-05-17T09:17:39.096Z",
     "canonical:fa9184bcd6e40ca9": "2026-05-17T09:17:39.096Z",
     "canonical:bca1cc17005e460b": "2026-05-17T09:17:39.096Z",
-    "canonical:6642a1fba61837a9": "2026-05-17T09:17:39.096Z",
     "canonical:b2b6d0672577b09c": "2026-05-17T09:17:39.096Z",
     "canonical:c11bff2ca221b70c": "2026-05-17T09:17:39.096Z",
     "canonical:3ca13a8d229f67d3": "2026-05-17T09:17:39.096Z",
@@ -6419,19 +6415,6 @@
       ]
     },
     {
-      "id": "canonical:a14116d1f50a785b",
-      "title": "Engineering Intern - Business Technology Operations - Operations Data & Visibility",
-      "url": "https://boards.greenhouse.io/aloyoga/jobs/5781932004",
-      "location": "Culver City, CA",
-      "department": "AI/ML/Data",
-      "company": "Alo Yoga",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:9cce68596258215e",
       "title": "Business and Data Analyst Intern",
       "url": "https://careers-berkley.icims.com/jobs/13507/job?mobile=true&needsRedirect=false",
@@ -7175,19 +7158,6 @@
       "title": "Internship - Technology & Computer Science - Minneapolis",
       "url": "https://deluxe.wd5.myworkdayjobs.com/en-US/USA_CAN/job/Minneapolis-MN-USA/Internship---Technology---Computer-Science---Minneapolis_260197WD",
       "location": "Minneapolis, MN",
-      "department": "Software",
-      "company": "Deluxe",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:cb723f0bce54b5ab",
-      "title": "Internship - Technology & Computer Science - Atlanta",
-      "url": "https://deluxe.wd5.myworkdayjobs.com/en-US/USA_CAN/job/Atlanta-GA-USA/Internship---Technology---Computer-Science---Atlanta_260195WD",
-      "location": "Atlanta, GA",
       "department": "Software",
       "company": "Deluxe",
       "score": 68,
@@ -8581,19 +8551,6 @@
       ]
     },
     {
-      "id": "canonical:6642a1fba61837a9",
-      "title": "National Security Solutions Computer Science Intern - NSS",
-      "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/National-Security-Solutions--NSS----Computer-Science-Intern_R2120307",
-      "location": "Beavercreek, OH",
-      "department": "Software",
-      "company": "KBR",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:b6fa8b43a8f153dd",
       "title": "Sector Data Analyst – Intern - Europe",
       "url": "https://www.citadel.com/careers/details/sector-data-analyst-intern-europe/",
@@ -9409,18 +9366,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:39b6a7c9e91fe21b",
-      "title": "ADAS Hardware Optics Development Intern/Co-op",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000117325527",
-      "location": "Plymouth, MI",
-      "department": "Hardware",
-      "company": "Robert Bosch Venture Capital",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
       ]
     },
     {

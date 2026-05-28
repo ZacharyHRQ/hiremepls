@@ -1,6 +1,6 @@
 # Open Internships
 
-**1489** internships across **63/64** companies — last updated 2026-05-28.
+**1485** internships across **63/64** companies — last updated 2026-05-28.
 
 ## Companies
 
@@ -22,7 +22,7 @@
 - [Al Warren Oil Company](#al-warren-oil-company) (2)
 - [Allegion](#allegion) (1)
 - [Allium](#allium) (1)
-- [Alo Yoga](#alo-yoga) (3)
+- [Alo Yoga](#alo-yoga) (2)
 - [Alston & Bird Law Firm](#alston-bird-law-firm) (1)
 - [AltaML](#altaml) (1)
 - [Altera Corporation](#altera-corporation) (2)
@@ -172,7 +172,7 @@
 - [Dedalus Labs](#dedalus-labs) (1)
 - [Definity Financial](#definity-financial) (1)
 - [Delta Dental](#delta-dental) (2)
-- [Deluxe](#deluxe) (2)
+- [Deluxe](#deluxe) (1)
 - [Dewberry](#dewberry) (1)
 - [DiDi Global](#didi-global) (1)
 - [Digs](#digs) (1)
@@ -318,7 +318,7 @@
 - [Jump Trading](#jump-trading) (3)
 - [K1](#k1) (1)
 - [Kaiser Permanente](#kaiser-permanente) (3)
-- [KBR](#kbr) (5)
+- [KBR](#kbr) (4)
 - [Kelso Industries](#kelso-industries) (1)
 - [Keystone AI](#keystone-ai) (1)
 - [Kinaxis](#kinaxis) (2)
@@ -467,7 +467,7 @@
 - [Rippling](#rippling) (3)
 - [Rivian](#rivian) (2)
 - [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (3)
-- [Robert Bosch Venture Capital](#robert-bosch-venture-capital) (6)
+- [Robert Bosch Venture Capital](#robert-bosch-venture-capital) (5)
 - [Robert Half](#robert-half) (1)
 - [Roblox](#roblox) (1)
 - [Rocket Lab](#rocket-lab) (1)
@@ -750,7 +750,6 @@
 | --- | --- | --- | --- | --- |
 | [Digital Engineering Intern](https://boards.greenhouse.io/aloyoga/jobs/5783146004) | 68 | San Ramon, CA | Software | 2026-05-09 |
 | [Digital Engineering Intern](https://boards.greenhouse.io/aloyoga/jobs/5781938004) | 68 | Culver City, CA | Software | 2026-05-09 |
-| [Engineering Intern - Business Technology Operations - Operations Data & Visibility](https://boards.greenhouse.io/aloyoga/jobs/5781932004) | 68 | Culver City, CA | AI/ML/Data | 2026-05-09 |
 
 ## Alston & Bird Law Firm
 
@@ -1836,7 +1835,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Internship - Technology & Computer Science - Atlanta](https://deluxe.wd5.myworkdayjobs.com/en-US/USA_CAN/job/Atlanta-GA-USA/Internship---Technology---Computer-Science---Atlanta_260195WD) | 68 | Atlanta, GA | Software | 2026-05-16 |
 | [Internship - Technology & Computer Science - Minneapolis](https://deluxe.wd5.myworkdayjobs.com/en-US/USA_CAN/job/Minneapolis-MN-USA/Internship---Technology---Computer-Science---Minneapolis_260197WD) | 68 | Minneapolis, MN | Software | 2026-05-09 |
 
 ## Dewberry
@@ -2819,7 +2817,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [National Security Solutions – Internship – AI/ML Intern - Nss](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/National-Security-Solutions--NSS--Internship---AI-ML-Intern_R2118798) | 68 | Chantilly, VA | AI/ML/Data | 2026-05-23 |
-| [National Security Solutions Computer Science Intern - NSS](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/National-Security-Solutions--NSS----Computer-Science-Intern_R2120307) | 68 | Beavercreek, OH | Software | 2026-05-17 |
 | [National Security Solutions Intern - Positioning - Navigation and Timing](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/National-Security-Solutions--NSS--Internship---Positioning--Navigation-and-Timing--PNT-_R2116882) | 68 | Beavercreek, OH | Software | 2026-05-17 |
 | [Software Application Developer Intern for GOES-R Series Satellites](https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Silver-Spring-Maryland/Software-Application-Developer-Intern-for-GOES-R-Series-Satellites_R2115543) | 93 | Silver Spring, MD | Software Engineering | 2026-05-09 |
 | [National Security Solutions – Software Engineering Intern - Nss](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Columbia-Maryland/National-Security-Solutions--NSS----Software-Engineering-Internship_R2122608) | 68 | Columbia, MD | Hardware | 2026-05-09 |
@@ -3966,7 +3963,6 @@
 | [Automated Driving Intern - Simulation at Scale for RL](https://jobs.smartrecruiters.com/BoschGroup/744000110888755) | 68 | Sunnyvale, CA | AI/ML/Data | 2026-05-09 |
 | [Perception Engineering Intern](https://jobs.smartrecruiters.com/BoschGroup/744000118243108) | 68 | Sunnyvale, CA | AI/ML/Data | 2026-05-09 |
 | [Wireless Sensing Research Intern](https://jobs.smartrecruiters.com/BoschGroup/744000121477597) | 68 | Sunnyvale, CA | AI/ML/Data | 2026-05-09 |
-| [ADAS Hardware Optics Development Intern/Co-op](https://jobs.smartrecruiters.com/BoschGroup/744000117325527) | 58 | Plymouth, MI | Hardware | 2026-05-09 |
 | [Engine / Vehicle Embedded Controls Intern](https://jobs.smartrecruiters.com/BoschGroup/744000124682895) | 58 | Southfield, MI | Hardware | 2026-05-09 |
 
 ## Robert Half
