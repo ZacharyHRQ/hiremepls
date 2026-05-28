@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-28T04:38:59.463Z",
+  "generatedAt": "2026-05-28T08:30:34.441Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1531,
+  "jobCount": 1527,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -836,7 +836,6 @@
     "canonical:7c9a6f1e70b82f33": "2026-05-09T15:28:15.527Z",
     "canonical:afd90239a4dd4bef": "2026-05-09T15:28:15.527Z",
     "canonical:9331cde2b5d226e4": "2026-05-11T07:59:30.777Z",
-    "canonical:2351bc76bfa489cf": "2026-05-15T23:35:38.383Z",
     "canonical:6e6dee7bb1a50f06": "2026-05-11T16:44:59.304Z",
     "canonical:2f3d5b509ef4ff32": "2026-05-11T23:38:25.770Z",
     "canonical:589994bb1826abbc": "2026-05-11T23:38:25.770Z",
@@ -1072,7 +1071,6 @@
     "canonical:5a95591a949bab78": "2026-05-16T15:13:47.475Z",
     "canonical:a1dad2756954aa95": "2026-05-16T15:13:47.475Z",
     "canonical:4341a970cbbffa2c": "2026-05-16T15:13:47.475Z",
-    "canonical:c9db0c5ac50ddf51": "2026-05-16T15:13:47.475Z",
     "canonical:4adbc338b845e24f": "2026-05-16T16:09:06.490Z",
     "canonical:c95d7ded0ec3633f": "2026-05-16T16:09:06.490Z",
     "canonical:39523ec1bced691c": "2026-05-16T16:09:06.490Z",
@@ -1259,7 +1257,6 @@
     "canonical:72abb2db13af5981": "2026-05-22T09:54:00.041Z",
     "canonical:ebc61fbb1bd465aa": "2026-05-22T09:54:00.041Z",
     "canonical:c299015364c1db18": "2026-05-22T09:54:00.041Z",
-    "canonical:43c945396857ea6b": "2026-05-22T12:12:54.082Z",
     "canonical:efeb516c369ef725": "2026-05-22T12:12:54.082Z",
     "canonical:966027cb4e682530": "2026-05-22T12:12:54.082Z",
     "canonical:8212975b7a6dc9b6": "2026-05-22T15:21:58.171Z",
@@ -1368,7 +1365,6 @@
     "canonical:30d30348d76c74bb": "2026-05-26T14:46:38.147Z",
     "canonical:ee39f279c66cba30": "2026-05-26T14:46:38.147Z",
     "canonical:c68a1d6bb8f0ae83": "2026-05-26T14:46:38.147Z",
-    "canonical:3868ed2c3a73eaa7": "2026-05-26T14:46:38.147Z",
     "canonical:1b5a1916acec17dc": "2026-05-26T14:46:38.147Z",
     "canonical:5eedcf667c13706f": "2026-05-26T14:46:38.147Z",
     "canonical:0b472711a2fa6f9a": "2026-05-26T17:51:26.122Z",
@@ -1385,7 +1381,6 @@
     "canonical:5dac743ae992fe3e": "2026-05-26T22:48:29.543Z",
     "canonical:b8cb77e9d87c4706": "2026-05-26T22:48:29.543Z",
     "canonical:c75d73d7ad36cd60": "2026-05-26T23:56:50.661Z",
-    "canonical:f13ad3cda447101a": "2026-05-26T23:56:50.661Z",
     "canonical:6ffe5e7cecf12f47": "2026-05-26T23:56:50.661Z",
     "canonical:b47a2d4384ae51d4": "2026-05-26T23:56:50.661Z",
     "canonical:ae629747d79357a8": "2026-05-26T23:56:50.661Z",
@@ -1403,8 +1398,6 @@
     "canonical:da1d1f81b47de301": "2026-05-27T02:52:54.000Z",
     "canonical:aaf453fcebecd6b3": "2026-05-27T02:52:54.000Z",
     "canonical:26834ab146689c4d": "2026-05-27T02:52:54.000Z",
-    "canonical:897d33c613926366": "2026-05-27T02:52:54.000Z",
-    "canonical:df5e7b6deed7e225": "2026-05-27T02:52:54.000Z",
     "canonical:089f466a56458f6e": "2026-05-27T02:52:54.000Z",
     "canonical:106027f85075b086": "2026-05-27T02:52:54.000Z",
     "canonical:b257e99de838bdb4": "2026-05-27T06:54:37.687Z",
@@ -1534,7 +1527,10 @@
     "canonical:cbb2914bff9402e9": "2026-05-28T04:38:59.463Z",
     "canonical:55f7914d8c2bdcce": "2026-05-28T04:38:59.463Z",
     "canonical:a25a76a4dcfe200c": "2026-05-28T04:38:59.463Z",
-    "canonical:a16520e1139885d0": "2026-05-28T04:38:59.463Z"
+    "canonical:a16520e1139885d0": "2026-05-28T04:38:59.463Z",
+    "canonical:0d69edb886321d54": "2026-05-28T08:30:34.441Z",
+    "canonical:455a8fffae8e4248": "2026-05-28T08:30:34.441Z",
+    "canonical:bf08ac474980bd2f": "2026-05-28T08:30:34.441Z"
   },
   "jobs": [
     {
@@ -1656,10 +1652,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1671,10 +1667,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -6259,19 +6255,6 @@
       "location": "Seattle, WA",
       "department": "Software",
       "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:43c945396857ea6b",
-      "title": "AI Engineer Intern - BCG X",
-      "url": "https://careers.bcg.com/global/en/job/56635",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "Boston Consulting Group",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -13428,19 +13411,6 @@
       ]
     },
     {
-      "id": "canonical:3868ed2c3a73eaa7",
-      "title": "Software Designer Intern",
-      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Laval-Quebec/Software-Designer-Intern---Stagiaire-en-conception-de-logiciels_R0000367629",
-      "location": "Laval, QC, Canada",
-      "department": "Hardware",
-      "company": "Caterpillar Inc.",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:c11bff2ca221b70c",
       "title": "Application Development Intern",
       "url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101291",
@@ -14486,20 +14456,6 @@
       ]
     },
     {
-      "id": "canonical:2351bc76bfa489cf",
-      "title": "Software Engineer Intern",
-      "url": "https://aveva.wd3.myworkdayjobs.com/RIB_Careers/job/Alpharetta-Georgia-United-States-of-America/Software-Engineering-Intern_R013997",
-      "location": "Alpharetta, GA",
-      "department": "Software",
-      "company": "RIB Software",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:6e6dee7bb1a50f06",
       "title": "Student Investigations Intern",
       "url": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260002YD",
@@ -15110,18 +15066,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:c9db0c5ac50ddf51",
-      "title": "Associate Member Engineering Staff Intern - Software",
-      "url": "https://jobs.l3harris.com/job/Camden-Associate-Member-Engineering-Staff-Software-(Internship)-NJ-08103/1391044800/?ats=successfactors",
-      "location": "Philadelphia, PA",
-      "department": "Hardware",
-      "company": "L3Harris Technologies",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {
@@ -17263,18 +17207,6 @@
       ]
     },
     {
-      "id": "canonical:f13ad3cda447101a",
-      "title": "Applied Data Analytics Intern",
-      "url": "https://jobs-legrand.icims.com/jobs/10117/job?mobile=true&needsRedirect=false",
-      "location": "Syracuse, NY",
-      "department": "AI/ML/Data",
-      "company": "Legrand North America",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:6ffe5e7cecf12f47",
       "title": "Global Trade Digital Operations Analyst Intern",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Automne-2026---Analyste-des-oprations-numriques-du-commerce-international---Internship-Fall-2026---Global-Trade-Digital-Operations-Analyst-Intern_01841594",
@@ -17473,31 +17405,6 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:897d33c613926366",
-      "title": "EUD Desktop Support Technician Intern",
-      "url": "https://careers-empowerai.icims.com/jobs/8683/job?mobile=true&needsRedirect=false",
-      "location": "Arlington, VA / Alexandria, VA",
-      "department": "Software",
-      "company": "Empower AI",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:df5e7b6deed7e225",
-      "title": "Technical Operations Intern",
-      "url": "https://job-boards.greenhouse.io/eulerity/jobs/4680363006",
-      "location": "NYC",
-      "department": "AI/ML/Data",
-      "company": "Eulerity",
-      "score": 68,
-      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
@@ -18793,6 +18700,42 @@
       "location": "Berkeley Heights, NJ",
       "department": "AI/ML/Data",
       "company": "Nokia",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:0d69edb886321d54",
+      "title": "Data Science Intern - Tiktok Shop-Supply Chain & Logistics",
+      "url": "https://lifeattiktok.com/search/7644719084681234741",
+      "location": "Seattle, WA",
+      "department": "AI/ML/Data",
+      "company": "TikTok",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:455a8fffae8e4248",
+      "title": "AI Intern",
+      "url": "https://careers-cvpcorp.icims.com/jobs/3165/job?mobile=true&needsRedirect=false",
+      "location": "Washington, DC",
+      "department": "AI/ML/Data",
+      "company": "Fidelity National Financial",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:bf08ac474980bd2f",
+      "title": "Prospect Research Intern",
+      "url": "https://careers.highlighttech.com/jobs/1170?lang=en-us&icims=1",
+      "location": "Madison, WI",
+      "department": "AI/ML/Data",
+      "company": "Highlight Technologies",
       "score": 60,
       "scoreReasons": [
         "high-signal role"

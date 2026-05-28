@@ -1,6 +1,6 @@
 # Open Internships
 
-**1531** internships across **63/64** companies — last updated 2026-05-28.
+**1527** internships across **63/64** companies — last updated 2026-05-28.
 
 ## Companies
 
@@ -98,7 +98,6 @@
 - [Bombardier](#bombardier) (1)
 - [Booz Allen](#booz-allen) (2)
 - [Bosch](#bosch) (2)
-- [Boston Consulting Group](#boston-consulting-group) (1)
 - [Brevian](#brevian) (1)
 - [BrightAI](#brightai) (1)
 - [British Columbia Investment](#british-columbia-investment) (8)
@@ -115,7 +114,7 @@
 - [Capella](#capella) (2)
 - [CareScout](#carescout) (1)
 - [Carnegie Mellon University](#carnegie-mellon-university) (2)
-- [Caterpillar Inc.](#caterpillar-inc) (2)
+- [Caterpillar Inc.](#caterpillar-inc) (1)
 - [CelLink Technologies](#cellink-technologies) (1)
 - [Celonis](#celonis) (1)
 - [Center for AI Safety](#center-for-ai-safety) (1)
@@ -197,7 +196,6 @@
 - [Electric Power Engineers](#electric-power-engineers) (1)
 - [Electronic Arts](#electronic-arts) (1)
 - [Eluvio](#eluvio) (1)
-- [Empower AI](#empower-ai) (1)
 - [Endpoint Clinical](#endpoint-clinical) (1)
 - [EnergyHub](#energyhub) (1)
 - [ENFOS](#enfos) (1)
@@ -212,7 +210,7 @@
 - [Etched.ai](#etched-ai) (6)
 - [Ether.fi](#ether-fi) (1)
 - [ETHGlobal](#ethglobal) (1)
-- [Eulerity](#eulerity) (4)
+- [Eulerity](#eulerity) (3)
 - [Eurofins](#eurofins) (3)
 - [EV Realty](#ev-realty) (1)
 - [Everlaw](#everlaw) (1)
@@ -226,6 +224,7 @@
 - [Federal Home Loan Bank of Indianapolis](#federal-home-loan-bank-of-indianapolis) (1)
 - [Ferrovial](#ferrovial) (1)
 - [FHLBank Topeka](#fhlbank-topeka) (1)
+- [Fidelity National Financial](#fidelity-national-financial) (1)
 - [Figure](#figure) (1)
 - [First Quality](#first-quality) (1)
 - [Fiserv](#fiserv) (2)
@@ -285,6 +284,7 @@
 - [Hewlett Packard Enterprise](#hewlett-packard-enterprise) (1)
 - [HEXAWARE](#hexaware) (1)
 - [Higharc](#higharc) (1)
+- [Highlight Technologies](#highlight-technologies) (1)
 - [Highmark Health](#highmark-health) (1)
 - [Hitachi](#hitachi) (5)
 - [HNTB](#hntb) (2)
@@ -335,14 +335,13 @@
 - [Kodiak Robotics](#kodiak-robotics) (2)
 - [Kognitos](#kognitos) (1)
 - [Kudu Dynamics](#kudu-dynamics) (1)
-- [L3Harris Technologies](#l3harris-technologies) (2)
+- [L3Harris Technologies](#l3harris-technologies) (1)
 - [Labelbox](#labelbox) (1)
 - [Lambda](#lambda) (2)
 - [Landis+Gyr](#landis-gyr) (1)
 - [Layup Parts](#layup-parts) (1)
 - [LegalZoom](#legalzoom) (1)
 - [Legrand](#legrand) (1)
-- [Legrand North America](#legrand-north-america) (1)
 - [Leidos](#leidos) (4)
 - [Lensa](#lensa) (3)
 - [Level AI](#level-ai) (1)
@@ -473,7 +472,6 @@
 - [Resolve Tech Solutions](#resolve-tech-solutions) (2)
 - [RESPEC](#respec) (1)
 - [Revantage Corporate Services](#revantage-corporate-services) (1)
-- [RIB Software](#rib-software) (1)
 - [Rippling](#rippling) (3)
 - [Rivian](#rivian) (2)
 - [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (3)
@@ -572,7 +570,7 @@
 - [Thermo Fisher Scientific](#thermo-fisher-scientific) (1)
 - [Thomson Reuters](#thomson-reuters) (2)
 - [thyssenkrupp](#thyssenkrupp) (1)
-- [TikTok](#tiktok) (121)
+- [TikTok](#tiktok) (122)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
 - [Tokamak Energy](#tokamak-energy) (1)
@@ -1310,12 +1308,6 @@
 | [AI Research Intern - Wireless Perception](https://jobs.smartrecruiters.com/BoschGroup/c4621e0f-5c1e-4a67-adc4-0671cbcaf28c) | 68 | Pittsburgh, PA | Data Science, AI & Machine Learning | 2026-05-09 |
 | [LLM & Agentic AI R&D Intern](https://jobs.bosch.com/en/job/REF273459Q-llm-agentic-ai-r-d-intern) | 60 | Sunnyvale, CA | Data Science, AI & Machine Learning | 2026-05-09 |
 
-## Boston Consulting Group
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI Engineer Intern - BCG X](https://careers.bcg.com/global/en/job/56635) | 85 | London, UK | AI/ML/Data | 2026-05-22 |
-
 ## Brevian
 
 | Title | Score | Location | Department | First seen |
@@ -1444,7 +1436,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Designer Intern](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Laval-Quebec/Software-Designer-Intern---Stagiaire-en-conception-de-logiciels_R0000367629) | 68 | Laval, QC, Canada | Hardware | 2026-05-26 |
 | [2026 Engineering Internship Program- Metallurgical Engineering](https://www.linkedin.com/jobs/view/4260034721) | 42 | Mossville, IL | — | 2026-05-16 |
 
 ## CelLink Technologies
@@ -2010,12 +2001,6 @@
 | --- | --- | --- | --- | --- |
 | [AI Machine Learning Intern - Gen AI - Multimodal](https://apply.workable.com/eluvio/j/F70F3473E7/apply) | 68 | Berkeley, CA | AI/ML/Data | 2026-05-09 |
 
-## Empower AI
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [EUD Desktop Support Technician Intern](https://careers-empowerai.icims.com/jobs/8683/job?mobile=true&needsRedirect=false) | 60 | Arlington, VA / Alexandria, VA | Software | 2026-05-27 |
-
 ## Endpoint Clinical
 
 | Title | Score | Location | Department | First seen |
@@ -2118,7 +2103,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Technical Operations Intern](https://job-boards.greenhouse.io/eulerity/jobs/4680363006) | 68 | NYC | AI/ML/Data | 2026-05-27 |
 | [Android Developer Intern](https://job-boards.greenhouse.io/eulerity/jobs/4671031006) | 93 | NYC | Software | 2026-05-09 |
 | [Backend Developer Intern](https://job-boards.greenhouse.io/eulerity/jobs/4666015006) | 93 | NYC | Software | 2026-05-09 |
 | [Mobile iOS Developer Intern](https://job-boards.greenhouse.io/eulerity/jobs/4671025006) | 93 | NYC | Software | 2026-05-09 |
@@ -2207,6 +2191,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Financial Analyst Intern](https://fhlbtopeka.wd1.myworkdayjobs.com/FHLBT/job/Topeka-Kansas/Member-Solutions-Intern_JR100348) | 68 | Topeka, KS | AI/ML/Data | 2026-05-27 |
+
+## Fidelity National Financial
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI Intern](https://careers-cvpcorp.icims.com/jobs/3165/job?mobile=true&needsRedirect=false) | 60 | Washington, DC | AI/ML/Data | 2026-05-28 |
 
 ## Figure
 
@@ -2597,6 +2587,12 @@
 | --- | --- | --- | --- | --- |
 | [Research Intern](https://jobs.ashbyhq.com/higharc/5a7265ed-8db3-480e-9c04-3c9b2d2c235b/application) | 68 | Remote in USA | AI/ML/Data | 2026-05-09 |
 
+## Highlight Technologies
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Prospect Research Intern](https://careers.highlighttech.com/jobs/1170?lang=en-us&icims=1) | 60 | Madison, WI | AI/ML/Data | 2026-05-28 |
+
 ## Highmark Health
 
 | Title | Score | Location | Department | First seen |
@@ -2685,8 +2681,8 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Hardware Machine Learning PhD Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, IL | AI/ML/Data | 2026-05-09 |
-| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
+| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Hardware Machine Learning PhD Research Internship](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, United States | — | 2026-05-06 |
 | [Graduate Broker Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4608590101) | 64 | Chicago, United States | — | 2026-05-06 |
 | [Graduate Floor Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4786701101) | 64 | Chicago, United States; Miami, United States; New York, United States; Philadelphia, United States; San Francisco, United States | — | 2026-05-06 |
@@ -2961,7 +2957,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Embedded Software Engineer Intern](https://jobs.l3harris.com/job/Ottawa-Embedded-Software-Engineering-Intern-ON-K2H-9N6/1394577100/?ats=successfactors) | 85 | Ottawa, ON, Canada | Hardware | 2026-05-28 |
-| [Associate Member Engineering Staff Intern - Software](https://jobs.l3harris.com/job/Camden-Associate-Member-Engineering-Staff-Software-(Internship)-NJ-08103/1391044800/?ats=successfactors) | 60 | Philadelphia, PA | Hardware | 2026-05-16 |
 
 ## Labelbox
 
@@ -2999,12 +2994,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Engineering Firmware Intern](https://milestone.wd1.myworkdayjobs.com/en-US/Milestone_External/job/NJ-Fairfield/Intern---Engineering-Firmware_R03567) | 58 | Wayne, NJ | Hardware | 2026-05-17 |
-
-## Legrand North America
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Applied Data Analytics Intern](https://jobs-legrand.icims.com/jobs/10117/job?mobile=true&needsRedirect=false) | 60 | Syracuse, NY | AI/ML/Data | 2026-05-26 |
 
 ## Leidos
 
@@ -4023,12 +4012,6 @@
 | --- | --- | --- | --- | --- |
 | [Quantitative Developer Intern](https://revantage.wd1.myworkdayjobs.com/Revantage/job/Remote---Illinois/Quantitative-Developer-Intern_JR103176) | 93 | Illinois | Quant | 2026-05-21 |
 
-## RIB Software
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://aveva.wd3.myworkdayjobs.com/RIB_Careers/job/Alpharetta-Georgia-United-States-of-America/Software-Engineering-Intern_R013997) | 93 | Alpharetta, GA | Software | 2026-05-15 |
-
 ## Rippling
 
 | Title | Score | Location | Department | First seen |
@@ -4777,6 +4760,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data Science Intern - Tiktok Shop-Supply Chain & Logistics](https://lifeattiktok.com/search/7644719084681234741) | 60 | Seattle, WA | AI/ML/Data | 2026-05-28 |
 | [Efficient ML Engineer Research Intern - AI Platform - PhD](https://lifeattiktok.com/search/7642827146549446965) | 85 | San Jose, CA | AI/ML/Data | 2026-05-25 |
 | [Machine Learning Engineer Intern - Brand Ads](https://lifeattiktok.com/search/7600578929549035829) | 60 | San Jose, CA | AI/ML/Data | 2026-05-22 |
 | [Data Analyst Intern - TikTok Live](https://lifeattiktok.com/search/7642264645810292997) | 60 | London, UK | AI/ML/Data | 2026-05-21 |
