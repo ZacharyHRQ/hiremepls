@@ -1,6 +1,6 @@
 # Open Internships
 
-**1346** internships across **63/64** companies — last updated 2026-05-29.
+**1339** internships across **63/64** companies — last updated 2026-05-29.
 
 ## Companies
 
@@ -22,7 +22,6 @@
 - [Allium](#allium) (1)
 - [Alston & Bird Law Firm](#alston-bird-law-firm) (1)
 - [AltaML](#altaml) (1)
-- [Altera Corporation](#altera-corporation) (1)
 - [Alteryx](#alteryx) (1)
 - [Amazon](#amazon) (15)
 - [Ambarella](#ambarella) (2)
@@ -123,7 +122,7 @@
 - [Citadel Securities](#citadel-securities) (3)
 - [City of Baltimore](#city-of-baltimore) (4)
 - [Clarivate](#clarivate) (1)
-- [Cloudflare](#cloudflare) (18)
+- [Cloudflare](#cloudflare) (19)
 - [Cloudforce](#cloudforce) (2)
 - [CME Group](#cme-group) (1)
 - [Codeage](#codeage) (1)
@@ -186,7 +185,6 @@
 - [Engineers Gate](#engineers-gate) (1)
 - [ENOVIS](#enovis) (1)
 - [Ensemble Health Partners](#ensemble-health-partners) (4)
-- [Entegris](#entegris) (1)
 - [Enterprise](#enterprise) (1)
 - [Equifax](#equifax) (1)
 - [EquipmentShare](#equipmentshare) (1)
@@ -234,19 +232,17 @@
 - [GitHub](#github) (1)
 - [Givelify](#givelify) (1)
 - [Glydways](#glydways) (1)
-- [GM financial](#gm-financial) (1)
 - [GoMaterials](#gomaterials) (1)
 - [Gr0](#gr0) (1)
 - [Great Question](#great-question) (1)
 - [Green Planet Solutions](#green-planet-solutions) (1)
-- [Greene Tweed](#greene-tweed) (1)
 - [Grow Financial Federal Credit Union](#grow-financial-federal-credit-union) (1)
 - [GSA Capital](#gsa-capital) (2)
 - [H&CO](#h-co) (1)
 - [Hadrian](#hadrian) (1)
 - [Haize Labs](#haize-labs) (1)
 - [Halliburton](#halliburton) (2)
-- [Harris Computer](#harris-computer) (2)
+- [Harris Computer](#harris-computer) (1)
 - [Harvard University](#harvard-university) (1)
 - [HCompany](#hcompany) (1)
 - [Helix Electric](#helix-electric) (1)
@@ -393,7 +389,6 @@
 - [Pega](#pega) (1)
 - [Pennsylvania State University](#pennsylvania-state-university) (5)
 - [Per Scholas](#per-scholas) (1)
-- [Perpay](#perpay) (1)
 - [Perplexity](#perplexity) (3)
 - [Perplexity AI](#perplexity-ai) (1)
 - [Phamily](#phamily) (1)
@@ -434,7 +429,7 @@
 - [Rocket Lab USA](#rocket-lab-usa) (2)
 - [Rocket Lawyer](#rocket-lawyer) (1)
 - [Roku](#roku) (2)
-- [Rolls Royce](#rolls-royce) (6)
+- [Rolls Royce](#rolls-royce) (5)
 - [Rolls-Royce Motorcars](#rolls-royce-motorcars) (2)
 - [Root Access](#root-access) (1)
 - [Royal Bank of Canada](#royal-bank-of-canada) (2)
@@ -455,7 +450,6 @@
 - [Semtech](#semtech) (1)
 - [SF Giants](#sf-giants) (1)
 - [Sharecare](#sharecare) (1)
-- [SharkNinja](#sharkninja) (1)
 - [Shenzhen ANQI SHISHANG Articles Co., ltd.](#shenzhen-anqi-shishang-articles-co-ltd) (1)
 - [Shopify](#shopify) (1)
 - [Sierra](#sierra) (1)
@@ -688,12 +682,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Associate Data Operations Specialist Intern - Brilliant Harvest](https://jobs.lever.co/altaml/238a3e1b-b76f-4265-83e9-e9d22ec27e03/apply) | 68 | Remote in Canada | AI/ML/Data | 2026-05-26 |
-
-## Altera Corporation
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [FPGA Software Engineer Intern](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Software-Engineer-Intern_R02502) | 93 | Toronto, ON, Canada | Hardware | 2026-05-23 |
 
 ## Alteryx
 
@@ -1427,6 +1415,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Video and Media Production Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7964856?gh_jid=7964856) | 58 | In-Office | — | 2026-05-29 |
 | [People Team Intern - HR Operations & AI Innovation (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240) | 58 | In-Office | — | 2026-05-20 |
 | [Network Engineering Intern (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7929538?gh_jid=7929538) | 58 | In-Office | — | 2026-05-18 |
 | [Solutions Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7738938?gh_jid=7738938) | 58 | In-Office | — | 2026-05-15 |
@@ -1854,12 +1843,6 @@
 | [Engineering Excellence Engineer Intern](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Engineering-Excellence-Intern_R041330) | 93 | Remote in USA | AI/ML/Data | 2026-05-16 |
 | [Business Intelligence Intern](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Business-Intelligence-Intern_R044048) | 68 | Remote in USA | AI/ML/Data | 2026-05-16 |
 
-## Entegris
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Product Engineering Intern/Co-op](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Colorado-Springs-CO/Product-Engineering-Co-Op---Fall-2026_REQ-10143) | 58 | Colorado Springs, CO | Hardware | 2026-05-23 |
-
 ## Enterprise
 
 | Title | Score | Location | Department | First seen |
@@ -2179,12 +2162,6 @@
 | --- | --- | --- | --- | --- |
 | [Perception Software Engineering Intern](https://job-boards.greenhouse.io/glydways/jobs/5082217007) | 68 | Remote in USA | AI/ML/Data | 2026-05-09 |
 
-## GM financial
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Intern - Software Development Engineer - Multiple Teams](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/1059) | 85 | Fort Worth, TX | Software | 2026-05-09 |
-
 ## GoMaterials
 
 | Title | Score | Location | Department | First seen |
@@ -2208,12 +2185,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Eco-Warrior Intern](https://example7088.com/apply3) | 50 | Seattle, WA | — | 2026-05-16 |
-
-## Greene Tweed
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Commercial Intern](https://gtweed.wd1.myworkdayjobs.com/Careers/job/Lansdale-PA-United-States-of-America/AERO-Commercial-Summer-Intern_R4494) | 68 | North Wales, PA | AI/ML/Data | 2026-05-27 |
 
 ## Grow Financial Federal Credit Union
 
@@ -2258,7 +2229,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Development Intern](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Idaho-United-States/Software-Development-Intern_R0043991) | 68 | Idaho | Software | 2026-05-27 |
-| [Health Informatics Intern](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---Saskatchewan/Intern_R0040214) | 68 | Remote in Canada | AI/ML/Data | 2026-05-23 |
 
 ## Harvard University
 
@@ -3342,12 +3312,6 @@
 | --- | --- | --- | --- | --- |
 | [Data Research Intern](https://job-boards.greenhouse.io/perscholashires/jobs/4682217006) | 68 | United States | AI/ML/Data | 2026-05-24 |
 
-## Perpay
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineering Intern](https://job-boards.greenhouse.io/perpay/jobs/4076988007) | 68 | Philadelphia, PA | Software | 2026-05-09 |
-
 ## Perplexity
 
 | Title | Score | Location | Department | First seen |
@@ -3444,8 +3408,8 @@
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-05-09 |
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-05-09 |
 | [2026 Technology Internship – Software Engineer](https://boards.greenhouse.io/point72/jobs/8406727002?gh_jid=8406727002) | 93 | Warsaw, Poland | — | 2026-05-06 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -3661,7 +3625,6 @@
 | [Product Engineering Intern](https://jobs.bmwgroup.com/job/Spartanburg-Product-Engineering-Intern-(Fall-2026)-Sout/1371021633/?ats=successfactors) | 50 | Spartanburg, SC | Hardware | 2026-05-16 |
 | [Innovations Software Developer Intern](https://jobs.bmwgroup.com/job/Spartanburg-TX-S-12-Innovations-Software-Developer-Intern-Fall-2026-SC-29301/1370737533/?ats=successfactors) | 85 | Spartanburg, SC | Software | 2026-05-16 |
 | [Paint Shop Digitalization Developer Maintenance Planning Intern](https://jobs.bmwgroup.com/job/Spartanburg-Paint-Shop-Digitalization-Developer-Maintenance-Planning-Intern-(Fall-2026)-Sout/1370799333/?ats=successfactors) | 85 | Spartanburg, SC | AI/ML/Data | 2026-05-16 |
-| [Metrology Automation Intern/Co-op](https://jobs.bmwgroup.com/job/Greer-Metrology-Automation-Co-op-(Fall-2026)-Sout/1370727333/?ats=successfactors) | 60 | Greer, SC | Software | 2026-05-16 |
 | [Vehicle Electronics Test & Validation Intern](https://jobs.bmwgroup.com/job/Spartanburg-Vehicle-Electronics-Test-&-Validation-Intern-(Fall-2026)-Sout/1371016333/?ats=successfactors) | 50 | Spartanburg, SC | Hardware | 2026-05-16 |
 
 ## Rolls-Royce Motorcars
@@ -3800,12 +3763,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [BI Analytics Intern](https://sharecare.wd1.myworkdayjobs.com/Sharecare_Careers/job/BAM---Atlanta-GA/BI-Analytics-Intern---Remote_R-101864) | 68 | Atlanta, GA | AI/ML/Data | 2026-05-16 |
-
-## SharkNinja
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Consumer Insights Intern](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4670561006) | 58 | Needham, MA | Product | 2026-05-09 |
 
 ## Shenzhen ANQI SHISHANG Articles Co., ltd.
 
