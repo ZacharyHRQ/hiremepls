@@ -1,6 +1,6 @@
 # Open Internships
 
-**1471** internships across **63/64** companies — last updated 2026-05-28.
+**1453** internships across **58/64** companies — last updated 2026-05-29.
 
 ## Companies
 
@@ -42,7 +42,7 @@
 - [Appian](#appian) (1)
 - [Apple](#apple) (15)
 - [Applied Intuition](#applied-intuition) (3)
-- [Applied Materials](#applied-materials) (2)
+- [Applied Materials](#applied-materials) (1)
 - [Aptiv](#aptiv) (1)
 - [AQR](#aqr) (7)
 - [Aquatic Capital](#aquatic-capital) (1)
@@ -151,7 +151,6 @@
 - [Corning](#corning) (1)
 - [CoStar Group](#costar-group) (1)
 - [Cotiviti](#cotiviti) (4)
-- [Covestro](#covestro) (1)
 - [Crane Co.](#crane-co) (3)
 - [Creatify Lab ](#creatify-lab) (1)
 - [Crest Industries](#crest-industries) (1)
@@ -209,21 +208,19 @@
 - [Eulerity](#eulerity) (3)
 - [Eurofins](#eurofins) (2)
 - [EV Realty](#ev-realty) (1)
-- [Everlaw](#everlaw) (1)
 - [EXL](#exl) (2)
 - [Expedia Group](#expedia-group) (2)
 - [Facility Solutions Group](#facility-solutions-group) (1)
 - [Faherty Brand](#faherty-brand) (1)
 - [Faire](#faire) (1)
 - [Falcomm](#falcomm) (1)
-- [Fanatics](#fanatics) (4)
+- [Fanatics](#fanatics) (3)
 - [Federal Home Loan Bank of Indianapolis](#federal-home-loan-bank-of-indianapolis) (1)
 - [Ferrovial](#ferrovial) (1)
 - [Figure](#figure) (1)
 - [First Quality](#first-quality) (1)
 - [Fiserv](#fiserv) (2)
 - [Five Rings](#five-rings) (1)
-- [Five9](#five9) (1)
 - [Fizz](#fizz) (1)
 - [Flagship Pioneering](#flagship-pioneering) (1)
 - [FNBO](#fnbo) (1)
@@ -281,8 +278,7 @@
 - [Hitachi](#hitachi) (5)
 - [HNTB](#hntb) (2)
 - [Homebase](#homebase) (2)
-- [Hone Health](#hone-health) (1)
-- [Honeywell](#honeywell) (3)
+- [Honeywell](#honeywell) (2)
 - [Howard University](#howard-university) (2)
 - [HPM Building Supply](#hpm-building-supply) (1)
 - [HRL Laboratories](#hrl-laboratories) (1)
@@ -296,9 +292,9 @@
 - [Instacart](#instacart) (2)
 - [Instawork](#instawork) (1)
 - [Institute of Foundation Models](#institute-of-foundation-models) (1)
-- [Integra FEC](#integra-fec) (2)
+- [Integra FEC](#integra-fec) (1)
 - [Integrity](#integrity) (1)
-- [Intel](#intel) (6)
+- [Intel](#intel) (5)
 - [Intelcom | Dragonfly](#intelcom-dragonfly) (11)
 - [Intercontinental Exchange, Inc.](#intercontinental-exchange-inc) (1)
 - [Interdigital](#interdigital) (2)
@@ -335,7 +331,7 @@
 - [Layup Parts](#layup-parts) (1)
 - [LegalZoom](#legalzoom) (1)
 - [Legrand](#legrand) (1)
-- [Leidos](#leidos) (4)
+- [Leidos](#leidos) (3)
 - [Lensa](#lensa) (3)
 - [Level AI](#level-ai) (1)
 - [LinkedIn](#linkedin) (3)
@@ -425,7 +421,6 @@
 - [Pennsylvania State University](#pennsylvania-state-university) (5)
 - [Per Scholas](#per-scholas) (1)
 - [Perpay](#perpay) (1)
-- [Perplexity](#perplexity) (3)
 - [Perplexity AI](#perplexity-ai) (1)
 - [PG&E](#pg-e) (1)
 - [Phamily](#phamily) (1)
@@ -453,11 +448,11 @@
 - [Rackner](#rackner) (1)
 - [Radix Trading](#radix-trading) (1)
 - [Rainmaker](#rainmaker) (1)
-- [Ramp](#ramp) (2)
+- [Ramp](#ramp) (1)
 - [Reacher](#reacher) (1)
 - [Red Hat](#red-hat) (1)
 - [REGENT](#regent) (1)
-- [Replit](#replit) (2)
+- [Replit](#replit) (1)
 - [Reply](#reply) (2)
 - [Resolve Tech Solutions](#resolve-tech-solutions) (2)
 - [RESPEC](#respec) (1)
@@ -482,7 +477,7 @@
 - [Salesforce](#salesforce) (1)
 - [Salient Motion](#salient-motion) (1)
 - [Samaya](#samaya) (1)
-- [Samsung](#samsung) (3)
+- [Samsung](#samsung) (2)
 - [Samsung Research America](#samsung-research-america) (3)
 - [Sandhills Global](#sandhills-global) (1)
 - [Savannah River National Laboratory](#savannah-river-national-laboratory) (1)
@@ -516,7 +511,7 @@
 - [SOTI](#soti) (2)
 - [SpaceX](#spacex) (3)
 - [Sparksoft](#sparksoft) (1)
-- [Squarepoint Capital](#squarepoint-capital) (8)
+- [Squarepoint Capital](#squarepoint-capital) (7)
 - [SS&C](#ss-c) (4)
 - [StarSling](#starsling) (1)
 - [State Street](#state-street) (1)
@@ -571,7 +566,7 @@
 - [Trimble](#trimble) (2)
 - [TripleRing](#triplering) (1)
 - [True Anomaly](#true-anomaly) (1)
-- [Truveta](#truveta) (2)
+- [Truveta](#truveta) (1)
 - [Twilio](#twilio) (2)
 - [Tyson Foods](#tyson-foods) (1)
 - [Uber](#uber) (1)
@@ -895,7 +890,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Intern - Physics & AI modeling Engineering](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Intern---Physics---AI-modeling-Engineering_R2616095) | 68 | Santa Clara, CA | AI/ML/Data | 2026-05-17 |
-| [Computer Science Intern - AI/ML Tools - Bachelor's](https://amat.wd1.myworkdayjobs.com/External/job/HuntsvilleAL/XMLNAME-2026-Summer-Computer-Science-Intern--AI-ML-Tools----Bachelor-s--Huntsville--AL-_R2616144-1) | 68 | Huntsville, AL | Software | 2026-05-16 |
 
 ## Aptiv
 
@@ -1688,12 +1682,6 @@
 | [Generative AI/Agentic AI/Research Intern](https://careers-cotiviti.icims.com/jobs/18929/job?mobile=true&needsRedirect=false) | 60 | Remote in USA | AI/ML/Data | 2026-05-09 |
 | [Temporary Intern - Agentic AI & Neural-Symbolic Systems - Healthcare](https://careers-cotiviti.icims.com/jobs/19075/job?mobile=true&needsRedirect=false) | 60 | Remote in USA | Software | 2026-05-09 |
 
-## Covestro
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Process Engineering Intern - Process Engineering / Chemical Engineering - Optimization & Data Analysis](https://covestro.wd3.myworkdayjobs.com/cov_external/job/Leverkusen/Praktikant-in--m-w-d--im-Bereich-Verfahrenstechnik---Chemieingenieurwesen-zu-Prozesssimulation--Optimierung---Datenanalyse---mit-Gehaltsangabe_JR-2026-00780) | 68 | Neukirchen-Vluyn, Germany | AI/ML/Data | 2026-05-09 |
-
 ## Crane Co.
 
 | Title | Score | Location | Department | First seen |
@@ -2067,12 +2055,6 @@
 | --- | --- | --- | --- | --- |
 | [Data Analytics Intern](https://jobs.lever.co/evrealty-us/0274f48f-9b19-4bed-bf6a-5e02a2b1e865/apply) | 68 | Salt Lake City, UT / SF | AI/ML/Data | 2026-05-22 |
 
-## Everlaw
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [GTM Data Analyst Intern](https://job-boards.greenhouse.io/everlaw/jobs/4676925006) | 68 | Oakland, CA | AI/ML/Data | 2026-05-26 |
-
 ## EXL
 
 | Title | Score | Location | Department | First seen |
@@ -2115,7 +2097,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Data Analyst Intern](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27690) | 60 | Winona, MN | AI/ML/Data | 2026-05-20 |
 | [AI Intern](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27180) | 60 | NYC | Software | 2026-05-09 |
 | [Collectibles Intern - Product - Physical Trading Cards](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26720) | 60 | NYC | Quant | 2026-05-09 |
 | [Collectibles Intern - Product - Physical Trading Cards](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27190) | 60 | Coppell, TX | Quant | 2026-05-09 |
@@ -2156,12 +2137,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Summer Intern 2026 - Software Developer](https://job-boards.greenhouse.io/fiveringsllc/jobs/4806713008) | 93 | New York | — | 2026-05-16 |
-
-## Five9
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Developer AI Insights Intern](https://www.five9.com/about/careers/job-detail?gh_jid=5973615004) | 85 | San Ramon, CA | Software | 2026-05-09 |
 
 ## Fizz
 
@@ -2542,19 +2517,12 @@
 | [AI Engineer Intern](https://jobs.ashbyhq.com/homebase/b61bc585-57bf-4918-8154-b8be27ff5a5e/application) | 93 | SF | Software | 2026-05-11 |
 | [Forward Deployed Engineering Intern, AI-Native](https://jobs.ashbyhq.com/homebase/a7ab59c0-786e-4675-b684-2ed19b240fb2) | 58 | Houston, TX / San Francisco, CA | — | 2026-05-09 |
 
-## Hone Health
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Science Intern](https://job-boards.greenhouse.io/honehealth/jobs/5163566008) | 68 | Remote in USA | AI/ML/Data | 2026-05-09 |
-
 ## Honeywell
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Application Engineer Intern - Operator Training Simulator](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/148650) | 85 | Bracknell, UK | Software | 2026-05-15 |
 | [Intern Bachelors AI](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/124930) | 60 | Kanata, Ottawa, ON, Canada | AI/ML/Data | 2026-05-09 |
-| [Systems Engineering – Summer 2026 Intern - US Person Required](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/113500) | 50 | United States | Hardware | 2026-05-09 |
 
 ## Howard University
 
@@ -2650,7 +2618,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Data Scientist Intern - PhD](https://job-boards.greenhouse.io/integra/jobs/5134592008) | 93 | Austin, TX | AI/ML/Data | 2026-05-27 |
 | [Data Analyst Intern](https://job-boards.greenhouse.io/integrainterns/jobs/5134523008) | 68 | Austin, TX | AI/ML/Data | 2026-05-09 |
 
 ## Integrity
@@ -2667,7 +2634,6 @@
 | [Silicon Product Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Silicon-Product-Engineering-Graduate-Intern_JR0284243) | 68 | Hillsboro, OR / Phoenix, AZ | Software | 2026-05-27 |
 | [Design Methodology Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/Design-Methodology-Engineering-Intern_JR0283526) | 58 | Remote in Canada | Hardware | 2026-05-27 |
 | [Design Verification Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/Design-Verification-Engineering-Intern_JR0283524) | 58 | Remote in Canada | Hardware | 2026-05-23 |
-| [Density Fill Development Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Density-Fill-Development-Engineer-Intern_JR0281342) | 93 | Santa Clara, CA / Hillsboro, OR / Phoenix, AZ | Software | 2026-05-23 |
 | [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) | 68 | Hillsboro, OR / Folsom, CA | Hardware | 2026-05-09 |
 
 ## Intelcom | Dragonfly
@@ -2921,7 +2887,6 @@
 | [Epidemiology and Data Management Intern](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Epidemiology-and-Data-Management-Intern_R-00180498) | 68 | San Diego, CA | AI/ML/Data | 2026-05-28 |
 | [Software Intern](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Software-Intern_R-00184039) | 68 | San Diego, CA | Software | 2026-05-27 |
 | [Power Platform Intern](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Power-Platform-Intern_R-00183950) | 68 | Remote in USA | Software | 2026-05-27 |
-| [Software Engineer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183714) | 93 | Chantilly, VA | Software | 2026-05-21 |
 
 ## Lensa
 
@@ -3629,14 +3594,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](https://job-boards.greenhouse.io/perpay/jobs/4076988007) | 68 | Philadelphia, PA | Software | 2026-05-09 |
 
-## Perplexity
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Internship - Search Backend Infra Engineer](https://jobs.ashbyhq.com/perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92) | 90 | — | — | 2026-05-06 |
-| [Internship - Search Machine Learning Engineer](https://jobs.ashbyhq.com/perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2) | 90 | — | — | 2026-05-06 |
-| [UK Internship Program](https://jobs.ashbyhq.com/perplexity/79a07e2d-6150-4929-80fe-bbe13a641763) | 55 | — | — | 2026-05-06 |
-
 ## Perplexity AI
 
 | Title | Score | Location | Department | First seen |
@@ -3855,7 +3812,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern - Android](https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b/application) | 93 | SF / NYC | Software | 2026-05-09 |
-| [Software Engineer Internship, Android](https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b) | 90 | — | — | 2026-05-06 |
 
 ## Reacher
 
@@ -3880,7 +3836,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern - Multiple Teams](https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1/application) | 68 | San Mateo, CA | Software | 2026-05-09 |
-| [Software Engineering Intern (Summer 2026)](https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1) | 65 | — | — | 2026-05-06 |
 
 ## Reply
 
@@ -4058,7 +4013,6 @@
 | --- | --- | --- | --- | --- |
 | [AI Research Intern - Agentic AI](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Communications-House-Staines-Upon-Thames-United-Kingdom/AI-Research-Intern---Agentic-AI_R116815) | 68 | Staines-upon-Thames, UK | AI/ML/Data | 2026-05-16 |
 | [AI Research Intern - Knowledge Graphs](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Communications-House-Staines-Upon-Thames-United-Kingdom/AI-Research-Intern---Knowledge-Graphs_R116819) | 68 | Staines-upon-Thames, UK | AI/ML/Data | 2026-05-09 |
-| [Intern – AI Research](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/5060-Station-Road-Cambridge-United-Kingdom/Intern---AI-Research_R115071) | 68 | Cambridge, UK | AI/ML/Data | 2026-05-09 |
 
 ## Samsung Research America
 
@@ -4301,7 +4255,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Developer Intern](https://boards.greenhouse.io/embed/job_app?token=7905463) | 93 | Montreal, QC, Canada | Software | 2026-05-27 |
 | [Graduate Quant Developer](https://www.squarepoint-capital.com/open-opportunities?id=7918610&gh_jid=7918610) | 91 | London, Montreal, Singapore | — | 2026-05-12 |
 | [Intern Software Developer - Summer 2026](https://boards.greenhouse.io/embed/job_app?token=7231006) | 93 | Montreal, QC, Canada / London, UK | Software | 2026-05-09 |
 | [Intern Software Developer - Fall 2026](https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463) | 85 | Montreal | — | 2026-05-07 |
@@ -4846,7 +4799,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Research Analyst Intern](https://job-boards.greenhouse.io/truveta/jobs/5973938004) | 68 | Seattle, WA | AI/ML/Data | 2026-05-27 |
 | [ML PhD Intern - LLMs & Generative AI](https://job-boards.greenhouse.io/truveta/jobs/5712997004) | 68 | Seattle, WA | Data Science, AI & Machine Learning | 2026-05-09 |
 
 ## Twilio
@@ -5186,4 +5138,9 @@
 
 ## Errors this run
 
+- **OpenAI**: ashby openai: HTTP 504
 - **Mistral**: ashby mistral: HTTP 404
+- **Perplexity**: ashby perplexity: HTTP 504
+- **Replit**: ashby replit: HTTP 504
+- **Ramp**: ashby ramp: HTTP 504
+- **Linear**: ashby linear: HTTP 504
