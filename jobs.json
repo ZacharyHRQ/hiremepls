@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-29T14:38:49.824Z",
+  "generatedAt": "2026-05-29T17:55:07.126Z",
   "companyCount": 64,
-  "okCount": 61,
-  "jobCount": 1380,
+  "okCount": 63,
+  "jobCount": 1373,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -91,7 +91,6 @@
     "canonical:85f245b3d004067d": "2026-05-06T06:42:07.596Z",
     "canonical:38c38b2f9b935c7b": "2026-05-06T06:42:07.596Z",
     "canonical:778ae0c54171b31e": "2026-05-06T06:42:07.596Z",
-    "canonical:f6939f722bfbce9d": "2026-05-06T06:42:07.596Z",
     "canonical:f9e6bc8e3b3543c3": "2026-05-08T20:53:38.687Z",
     "canonical:b0682e13963fcdcc": "2026-05-09T15:28:15.527Z",
     "canonical:6353eecea9024842": "2026-05-09T15:28:15.527Z",
@@ -470,7 +469,6 @@
     "canonical:0355ce93b2f2fcac": "2026-05-09T15:28:15.527Z",
     "canonical:5ec53d479123c910": "2026-05-09T15:28:15.527Z",
     "canonical:2b82dc1770f79419": "2026-05-09T15:28:15.527Z",
-    "canonical:351d3d1f6713b707": "2026-05-09T15:28:15.527Z",
     "canonical:5a17f5c18e401487": "2026-05-09T15:28:15.527Z",
     "canonical:b6fa8b43a8f153dd": "2026-05-09T15:28:15.527Z",
     "canonical:6b97deb726a272c9": "2026-05-09T15:28:15.527Z",
@@ -535,7 +533,6 @@
     "canonical:30b49bc17727b7b6": "2026-05-09T15:28:15.527Z",
     "canonical:01cb0c7bf6eb03a2": "2026-05-09T15:28:15.527Z",
     "canonical:7f721f823355dbda": "2026-05-09T15:28:15.527Z",
-    "canonical:8228ce7641c1c6a9": "2026-05-09T15:28:15.527Z",
     "canonical:d53fda502b651e69": "2026-05-09T15:28:15.527Z",
     "canonical:b5f7380d75d06d9d": "2026-05-09T15:28:15.527Z",
     "canonical:207e7f74a78f1ceb": "2026-05-09T15:28:15.527Z",
@@ -1012,7 +1009,6 @@
     "canonical:2e124c34e34d8ec2": "2026-05-16T15:13:47.475Z",
     "canonical:5a95591a949bab78": "2026-05-16T15:13:47.475Z",
     "canonical:a1dad2756954aa95": "2026-05-16T15:13:47.475Z",
-    "canonical:4341a970cbbffa2c": "2026-05-16T15:13:47.475Z",
     "canonical:4adbc338b845e24f": "2026-05-16T16:09:06.490Z",
     "canonical:39523ec1bced691c": "2026-05-16T16:09:06.490Z",
     "canonical:be7e14e55b253564": "2026-05-16T16:09:06.490Z",
@@ -1047,7 +1043,6 @@
     "canonical:96fa2b1bb6b71c38": "2026-05-17T00:06:18.951Z",
     "canonical:7d1780be2939f6cd": "2026-05-17T04:18:58.240Z",
     "canonical:b4d0ab390e53ff6a": "2026-05-17T04:18:58.240Z",
-    "canonical:c24fa2c293373870": "2026-05-17T04:18:58.240Z",
     "canonical:ff280c9810ac0117": "2026-05-17T04:18:58.240Z",
     "canonical:08367d3bcfaed026": "2026-05-17T04:18:58.240Z",
     "canonical:0a89c5d5dd00f36f": "2026-05-17T04:18:58.240Z",
@@ -1075,13 +1070,10 @@
     "canonical:5395852a5a431fe6": "2026-05-17T07:19:48.510Z",
     "canonical:120ef9d85630ac7e": "2026-05-17T07:19:48.510Z",
     "canonical:eb9f918de481d452": "2026-05-17T07:19:48.510Z",
-    "canonical:f0195aae84ccc299": "2026-05-17T07:19:48.510Z",
-    "canonical:53f6a277d4583b60": "2026-05-17T09:17:39.096Z",
     "canonical:fa9184bcd6e40ca9": "2026-05-17T09:17:39.096Z",
     "canonical:bca1cc17005e460b": "2026-05-17T09:17:39.096Z",
     "canonical:b2b6d0672577b09c": "2026-05-17T09:17:39.096Z",
     "canonical:c11bff2ca221b70c": "2026-05-17T09:17:39.096Z",
-    "canonical:3ca13a8d229f67d3": "2026-05-17T09:17:39.096Z",
     "canonical:c5458018da7dff8c": "2026-05-17T09:17:39.096Z",
     "canonical:a4858410287d0d65": "2026-05-18T01:33:21.344Z",
     "canonical:b81abc03055b6506": "2026-05-18T01:33:21.344Z",
@@ -1172,7 +1164,6 @@
     "canonical:72abb2db13af5981": "2026-05-22T09:54:00.041Z",
     "canonical:ebc61fbb1bd465aa": "2026-05-22T09:54:00.041Z",
     "canonical:c299015364c1db18": "2026-05-22T09:54:00.041Z",
-    "canonical:8212975b7a6dc9b6": "2026-05-22T15:21:58.171Z",
     "canonical:3a01055c1e1e8e55": "2026-05-22T21:57:59.650Z",
     "canonical:70e6b1017a677e65": "2026-05-22T21:57:59.650Z",
     "canonical:f652b42fc85fb65c": "2026-05-22T21:57:59.650Z",
@@ -1315,7 +1306,6 @@
     "canonical:54a1ed2427bb13ad": "2026-05-27T14:19:21.217Z",
     "canonical:4aaaa525daf9c64d": "2026-05-27T14:19:21.217Z",
     "canonical:898009bc5a031516": "2026-05-27T14:19:21.217Z",
-    "canonical:29c18b4337684bcb": "2026-05-27T14:19:21.217Z",
     "canonical:96124c2bca2bc845": "2026-05-27T14:19:21.217Z",
     "canonical:949f94b39a19ed49": "2026-05-27T14:19:21.217Z",
     "canonical:1b6a38ae8fb0e8cf": "2026-05-27T14:19:21.217Z",
@@ -1361,7 +1351,6 @@
     "canonical:d32be9bbb737525e": "2026-05-27T23:09:47.866Z",
     "canonical:5a5fd738be504405": "2026-05-28T00:12:15.474Z",
     "canonical:9bd78e7870c6fb67": "2026-05-28T00:12:15.474Z",
-    "canonical:b39869fb1419f417": "2026-05-28T00:12:15.474Z",
     "canonical:a421f7ccf418179e": "2026-05-28T00:12:15.474Z",
     "canonical:9e2ca9c244113a9f": "2026-05-28T00:12:15.474Z",
     "canonical:5b93475ac32ee191": "2026-05-28T00:12:15.474Z",
@@ -1383,7 +1372,11 @@
     "canonical:789e5db3c1aae655": "2026-05-29T11:48:27.158Z",
     "canonical:ac6a83dfd50fe4f1": "2026-05-29T11:48:27.158Z",
     "canonical:aa6a6b2fe76b1096": "2026-05-29T11:48:27.158Z",
-    "canonical:30d30348d76c74bb": "2026-05-29T11:48:27.158Z"
+    "canonical:30d30348d76c74bb": "2026-05-29T11:48:27.158Z",
+    "canonical:40ef868326fd30ff": "2026-05-29T17:55:07.126Z",
+    "canonical:aad2d16f8de8b63e": "2026-05-29T17:55:07.126Z",
+    "canonical:e4ece6645315469a": "2026-05-29T17:55:07.126Z",
+    "canonical:1df04de60e393fed": "2026-05-29T17:55:07.126Z"
   },
   "jobs": [
     {
@@ -1574,20 +1567,20 @@
       ]
     },
     {
-      "id": "canonical:f310a07d27c1f3e6",
+      "id": "canonical:da3af0a78a201794",
       "title": "Campus Crypto Researcher (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7362318",
-      "location": "London",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7362347",
+      "location": "Chicago",
       "department": "",
       "company": "Jump Trading",
       "score": 50,
       "scoreReasons": []
     },
     {
-      "id": "canonical:da3af0a78a201794",
+      "id": "canonical:f310a07d27c1f3e6",
       "title": "Campus Crypto Researcher (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7362347",
-      "location": "Chicago",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7362318",
+      "location": "London",
       "department": "",
       "company": "Jump Trading",
       "score": 50,
@@ -2077,7 +2070,7 @@
     {
       "id": "canonical:7c6db6e223273197",
       "title": "Quantitative Researcher - Intern",
-      "url": "https://www.gsacapital.com/careers/gh/?gh_jid=8119055002",
+      "url": "https://www.gsacapital.com/careers/gh/?gh_jid=8570661002",
       "location": "London, New York",
       "department": "",
       "company": "GSA Capital",
@@ -2090,7 +2083,7 @@
     {
       "id": "canonical:c3741eefab6317c5",
       "title": "Software Developer - Intern",
-      "url": "https://www.gsacapital.com/careers/gh/?gh_jid=8077636002",
+      "url": "https://www.gsacapital.com/careers/gh/?gh_jid=8570668002",
       "location": "London",
       "department": "",
       "company": "GSA Capital",
@@ -2111,6 +2104,49 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:40ef868326fd30ff",
+      "title": "Internship - Search Machine Learning Engineer",
+      "url": "https://jobs.ashbyhq.com/perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2",
+      "location": "",
+      "department": "",
+      "company": "Perplexity",
+      "score": 90,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS",
+        "unknown location"
+      ]
+    },
+    {
+      "id": "canonical:aad2d16f8de8b63e",
+      "title": "Internship - Search Backend Infra Engineer",
+      "url": "https://jobs.ashbyhq.com/perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92",
+      "location": "",
+      "department": "",
+      "company": "Perplexity",
+      "score": 90,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS",
+        "unknown location"
+      ]
+    },
+    {
+      "id": "canonical:e4ece6645315469a",
+      "title": "UK Internship Program",
+      "url": "https://jobs.ashbyhq.com/perplexity/79a07e2d-6150-4929-80fe-bbe13a641763",
+      "location": "",
+      "department": "",
+      "company": "Perplexity",
+      "score": 55,
+      "scoreReasons": [
+        "direct ATS",
+        "unknown location"
       ]
     },
     {
@@ -2569,7 +2605,7 @@
     {
       "id": "canonical:31dd1ab15c427f1e",
       "title": "Technical Support Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726977?gh_jid=7726977",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -2599,6 +2635,21 @@
       "company": "Datadog",
       "score": 50,
       "scoreReasons": []
+    },
+    {
+      "id": "canonical:1df04de60e393fed",
+      "title": "Software Engineer Internship, Android ",
+      "url": "https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b",
+      "location": "",
+      "department": "",
+      "company": "Ramp",
+      "score": 90,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS",
+        "unknown location"
+      ]
     },
     {
       "id": "canonical:cece11706810719a",
@@ -2643,18 +2694,6 @@
       "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
       "department": "",
       "company": "Pinterest",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:f6939f722bfbce9d",
-      "title": "Machine Learning PhD Intern, Economics",
-      "url": "https://instacart.careers/job/?gh_jid=7532267",
-      "location": "United States - Remote",
-      "department": "",
-      "company": "Instacart",
       "score": 60,
       "scoreReasons": [
         "high-signal role"
@@ -6254,20 +6293,6 @@
       ]
     },
     {
-      "id": "canonical:53f6a277d4583b60",
-      "title": "Software Developer Intern - Digital Grid Management",
-      "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Software-Development-Intern---Digital-Grid-Management---Summer-2026_R8627-1",
-      "location": "Wayzata, MN",
-      "department": "Software",
-      "company": "AspenTech",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:8b4cd2ba0c708372",
       "title": "Engineering Intern - Gen AI for FP&a Platform",
       "url": "https://jobs.lever.co/drivetrain/7266784e-530b-4eb5-a61b-b09557f6e98d/apply",
@@ -8084,20 +8109,6 @@
       ]
     },
     {
-      "id": "canonical:351d3d1f6713b707",
-      "title": "Research Engineer Intern",
-      "url": "https://jobs.lever.co/aisafety/e011814b-9a80-43d6-bb0c-cc153ea4bec4/apply",
-      "location": "SF",
-      "department": "AI/ML/Data",
-      "company": "Center for AI Safety",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:5a17f5c18e401487",
       "title": "AI Intern",
       "url": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27180",
@@ -8548,19 +8559,6 @@
       "company": "Schweitzer Engineering Laboratories",
       "score": 58,
       "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:c24fa2c293373870",
-      "title": "Data Science Intern",
-      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Data-Science-Intern_R107184",
-      "location": "Palo Alto, CA",
-      "department": "AI/ML/Data",
-      "company": "Tencent",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
         "direct ATS"
       ]
     },
@@ -9171,19 +9169,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:8228ce7641c1c6a9",
-      "title": "Perception Engineering Intern",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000118243108",
-      "location": "Sunnyvale, CA",
-      "department": "AI/ML/Data",
-      "company": "Robert Bosch Venture Capital",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -11980,18 +11965,6 @@
       ]
     },
     {
-      "id": "canonical:4341a970cbbffa2c",
-      "title": "Technology Product Analyst Intern",
-      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR108764",
-      "location": "Dallas, TX",
-      "department": "Product",
-      "company": "Copart",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:b1cec7aacb5584d6",
       "title": "AI Research Intern - Knowledge Graphs",
       "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Communications-House-Staines-Upon-Thames-United-Kingdom/AI-Research-Intern---Knowledge-Graphs_R116819",
@@ -13387,19 +13360,6 @@
       ]
     },
     {
-      "id": "canonical:f0195aae84ccc299",
-      "title": "Firmware Engineer Intern",
-      "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CA-Sunnyvale/Firmware-Engineer-Intern_R56042",
-      "location": "Sunnyvale, CA",
-      "department": "Hardware",
-      "company": "Trimble",
-      "score": 83,
-      "scoreReasons": [
-        "SWE-aligned",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:e841f5f6b4388c39",
       "title": "Applications Engineering Internship",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7732511003",
@@ -13578,18 +13538,6 @@
       "scoreReasons": [
         "high-signal role",
         "lower-fit title"
-      ]
-    },
-    {
-      "id": "canonical:3ca13a8d229f67d3",
-      "title": "Hardware Design and Verification Intern - Pcba",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Canada--Ottawa--383-Terry-Fox--Bldg-C/Hardware--PCBA--Design-and-Verification-Intern--Fall-2026-_R030823",
-      "location": "Ottawa, ON, Canada",
-      "department": "Hardware",
-      "company": "Ciena",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
       ]
     },
     {
@@ -15084,20 +15032,6 @@
       ]
     },
     {
-      "id": "canonical:8212975b7a6dc9b6",
-      "title": "Software Engineer Intern",
-      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109089",
-      "location": "Dallas, TX",
-      "department": "Software",
-      "company": "Copart",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:7dee87124373df05",
       "title": "Product Engineering Intern - Simulation and Verification",
       "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/Burlington-MA/Product-Engineering-Internship--Simulation-and-Verification--Summer-2026-_R53475",
@@ -16085,19 +16019,6 @@
       ]
     },
     {
-      "id": "canonical:29c18b4337684bcb",
-      "title": "AI Research Strategist Intern",
-      "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/AI-Research-Strategist--Intern_JR107347",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "Centific",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:96124c2bca2bc845",
       "title": "Software Development Engineer Intern",
       "url": "https://job-boards.greenhouse.io/iherb/jobs/7747518003",
@@ -16540,20 +16461,6 @@
       "company": "Magna",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:b39869fb1419f417",
-      "title": "Software Engineer Intern",
-      "url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Engineering-Intern_JR-0092762",
-      "location": "Rochester, NY / Grand Rapids, MI / Plano, TX / Wauwatosa, WI / Atlanta, GA",
-      "department": "Software",
-      "company": "KION Group",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
     },
     {
       "id": "canonical:9e2ca9c244113a9f",
@@ -18944,14 +18851,6 @@
     {
       "company": "Mistral",
       "message": "ashby mistral: HTTP 404"
-    },
-    {
-      "company": "Perplexity",
-      "message": "ashby perplexity: HTTP 504"
-    },
-    {
-      "company": "Ramp",
-      "message": "ashby ramp: HTTP 504"
     }
   ]
 }
