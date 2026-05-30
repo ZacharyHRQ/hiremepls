@@ -2096,7 +2096,7 @@
 | [Flight Software Engineering Intern](https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440) | 68 | Atlanta, GA | Hardware Engineering | 2026-05-09 |
 | [Hardware-In-the-Loop Software Engineering Intern - Fall 2026](https://jobs.lever.co/hermeus/10d69ef6-a754-42ab-833c-76adf01367bf/apply) | 68 | Atlanta, GA | Hardware | 2026-05-09 |
 | [Human Machine Interface – Software Engineering Intern - Human Machine Interface](https://jobs.lever.co/hermeus/a3a1f0ea-6a4f-42e5-81c8-3b34dac22a67/apply) | 68 | Atlanta, GA | Software | 2026-05-09 |
-| [Modeling & Simulation Software Engineering Intern](https://jobs.lever.co/hermeus/dcd92687-0f98-4288-a68e-403fcd654853) | 68 | Los Angeles, CA | Software Engineering | 2026-05-09 |
+| [Modeling & Simulation Software Engineering Intern](https://jobs.lever.co/hermeus/49f7cf3f-bf66-44ca-bf97-ee0f7180a68d) | 68 | Los Angeles, CA | — | 2026-05-09 |
 
 ## Heron Power
 

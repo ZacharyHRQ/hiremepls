@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T14:11:36.295Z",
+  "generatedAt": "2026-05-30T15:35:03.565Z",
   "companyCount": 64,
   "okCount": 63,
   "jobCount": 1238,
@@ -2585,19 +2585,6 @@
       "company": "Cribl",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:8fc863f495e5ebf7",
-      "title": "Modeling & Simulation Software Engineering Intern",
-      "url": "https://jobs.lever.co/hermeus/dcd92687-0f98-4288-a68e-403fcd654853",
-      "location": "Los Angeles, CA",
-      "department": "Software Engineering",
-      "company": "Hermeus",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
     },
     {
       "id": "canonical:324cd5453e9d5ce7",
@@ -15311,6 +15298,19 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:8fc863f495e5ebf7",
+      "title": "Modeling & Simulation Software Engineering Intern",
+      "url": "https://jobs.lever.co/hermeus/49f7cf3f-bf66-44ca-bf97-ee0f7180a68d",
+      "location": "Los Angeles, CA",
+      "department": "",
+      "company": "Hermeus",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
