@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-30T11:12:05.891Z",
+  "generatedAt": "2026-05-30T12:15:16.691Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1239,
+  "jobCount": 1238,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -971,7 +971,6 @@
     "canonical:4adbc338b845e24f": "2026-05-16T16:09:06.490Z",
     "canonical:39523ec1bced691c": "2026-05-16T16:09:06.490Z",
     "canonical:be7e14e55b253564": "2026-05-16T16:09:06.490Z",
-    "canonical:689e051abf9096c5": "2026-05-16T16:09:06.490Z",
     "canonical:7d4d0f84d5e6acf6": "2026-05-16T16:09:06.490Z",
     "canonical:ae4681fcf9dadb2b": "2026-05-16T16:09:06.490Z",
     "canonical:0daed5c9bb46ac4c": "2026-05-16T16:09:06.490Z",
@@ -9619,20 +9618,6 @@
       "company": "Output Biosciences",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:689e051abf9096c5",
-      "title": "AI Agent Developer Intern",
-      "url": "https://phinia.wd5.myworkdayjobs.com/PHINIA_Careers/job/Auburn-Hills-PHINIA-WHQ---Michigan---USA/AI-Agent-Developer-Intern_R2026-0276",
-      "location": "Auburn Hills, MI",
-      "department": "AI/ML/Data",
-      "company": "PHINIA",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]

@@ -1,6 +1,6 @@
 # Open Internships
 
-**1239** internships across **63/64** companies — last updated 2026-05-30.
+**1238** internships across **63/64** companies — last updated 2026-05-30.
 
 ## Companies
 
@@ -370,7 +370,6 @@
 - [Perplexity](#perplexity) (3)
 - [Perplexity AI](#perplexity-ai) (1)
 - [Phamily](#phamily) (1)
-- [PHINIA](#phinia) (1)
 - [Physical Intelligence](#physical-intelligence) (2)
 - [Pine Rest](#pine-rest) (1)
 - [Pinterest](#pinterest) (6)
@@ -3114,12 +3113,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Machine Learning Intern - Research and Development](https://job-boards.greenhouse.io/jobsatphamily/jobs/5227172008) | 68 | NYC | AI/ML/Data | 2026-05-20 |
-
-## PHINIA
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI Agent Developer Intern](https://phinia.wd5.myworkdayjobs.com/PHINIA_Careers/job/Auburn-Hills-PHINIA-WHQ---Michigan---USA/AI-Agent-Developer-Intern_R2026-0276) | 93 | Auburn Hills, MI | AI/ML/Data | 2026-05-16 |
 
 ## Physical Intelligence
 
