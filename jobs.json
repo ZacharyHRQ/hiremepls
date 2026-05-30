@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-30T21:13:16.744Z",
+  "generatedAt": "2026-05-30T22:12:51.954Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1237,
+  "jobCount": 1236,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1004,7 +1004,6 @@
     "canonical:37e30e2d4ee20e59": "2026-05-17T07:19:48.510Z",
     "canonical:e0ee645062b88839": "2026-05-17T07:19:48.510Z",
     "canonical:365b670bb514fee3": "2026-05-17T07:19:48.510Z",
-    "canonical:8931ea6a532ce996": "2026-05-17T07:19:48.510Z",
     "canonical:5395852a5a431fe6": "2026-05-17T07:19:48.510Z",
     "canonical:120ef9d85630ac7e": "2026-05-17T07:19:48.510Z",
     "canonical:fa9184bcd6e40ca9": "2026-05-17T09:17:39.096Z",
@@ -11433,18 +11432,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:8931ea6a532ce996",
-      "title": "Product Engineer Intern",
-      "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Product-Engineering-Intern_REQ3328",
-      "location": "Burlington, ON, Canada",
-      "department": "Hardware",
-      "company": "Semtech",
-      "score": 58,
-      "scoreReasons": [
         "direct ATS"
       ]
     },

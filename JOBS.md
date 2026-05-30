@@ -1,6 +1,6 @@
 # Open Internships
 
-**1237** internships across **63/64** companies — last updated 2026-05-30.
+**1236** internships across **63/64** companies — last updated 2026-05-30.
 
 ## Companies
 
@@ -420,7 +420,6 @@
 - [SCAN](#scan) (1)
 - [Schonfeld](#schonfeld) (4)
 - [Schweitzer Engineering Laboratories](#schweitzer-engineering-laboratories) (1)
-- [Semtech](#semtech) (1)
 - [SF Giants](#sf-giants) (1)
 - [Shenzhen ANQI SHISHANG Articles Co., ltd.](#shenzhen-anqi-shishang-articles-co-ltd) (1)
 - [Shopify](#shopify) (1)
@@ -3493,12 +3492,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Application Engineering Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Ohio---Lewis-Center/Application-Engineering-Intern_2026-20357) | 58 | Dublin, OH | Hardware | 2026-05-17 |
-
-## Semtech
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Product Engineer Intern](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Product-Engineering-Intern_REQ3328) | 58 | Burlington, ON, Canada | Hardware | 2026-05-17 |
 
 ## SF Giants
 
