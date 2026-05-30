@@ -1,6 +1,6 @@
 # Open Internships
 
-**1336** internships across **63/64** companies — last updated 2026-05-30.
+**1327** internships across **63/64** companies — last updated 2026-05-30.
 
 ## Companies
 
@@ -98,7 +98,7 @@
 - [British Columbia Investment](#british-columbia-investment) (8)
 - [Brookfield](#brookfield) (1)
 - [By Light Professional IT Services](#by-light-professional-it-services) (2)
-- [ByteDance](#bytedance) (16)
+- [ByteDance](#bytedance) (10)
 - [Cadence Design Systems](#cadence-design-systems) (3)
 - [CAE](#cae) (1)
 - [Cambium Learning Group](#cambium-learning-group) (1)
@@ -390,7 +390,6 @@
 - [Perplexity](#perplexity) (3)
 - [Perplexity AI](#perplexity-ai) (1)
 - [Phamily](#phamily) (1)
-- [Phil](#phil) (1)
 - [PHINIA](#phinia) (1)
 - [Physical Intelligence](#physical-intelligence) (2)
 - [Pine Rest](#pine-rest) (1)
@@ -405,7 +404,6 @@
 - [Progyny](#progyny) (1)
 - [Prologis](#prologis) (1)
 - [PSA Airlines](#psa-airlines) (1)
-- [PSP Investments](#psp-investments) (1)
 - [Quadric](#quadric) (4)
 - [Rackner](#rackner) (1)
 - [Radix Trading](#radix-trading) (1)
@@ -505,7 +503,7 @@
 - [The Trade Desk](#the-trade-desk) (1)
 - [Thermo Fisher Scientific](#thermo-fisher-scientific) (1)
 - [Thomson Reuters](#thomson-reuters) (1)
-- [TikTok](#tiktok) (121)
+- [TikTok](#tiktok) (120)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
 - [Tokamak Energy](#tokamak-energy) (1)
@@ -1237,18 +1235,12 @@
 | [Machine Learning Engineer Intern - Security-Data](https://jobs.bytedance.com/en/position/7641703558211586309/detail) | 85 | San Jose, CA | AI/ML/Data | 2026-05-20 |
 | [Test Software Engineer Intern - Intelligent Creation](https://jobs.bytedance.com/en/position/7637923145297119493/detail) | 85 | San Jose, CA | Software | 2026-05-20 |
 | [Machine Learning Engineer Intern - E-commerce Conversational AI](https://jobs.bytedance.com/en/position/7535157501571500306/detail) | 85 | Seattle, WA | AI/ML/Data | 2026-05-09 |
-| [Machine Learning Engineer Intern - E-commerce-Recommendation](https://jobs.bytedance.com/en/position/7535156407059925266/detail) | 85 | Seattle, WA | AI/ML/Data | 2026-05-09 |
 | [Research Scientist Intern - Multiple Teams](https://jobs.bytedance.com/en/position/7629159746370406661/detail) | 85 | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Research Scientist Intern - Security for AI - 2026 Start](https://jobs.bytedance.com/en/position/7595676762475415861/detail) | 85 | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Security Software Engineer Project Intern - Network Security - 2026 Start](https://jobs.bytedance.com/en/position/7600168555733027125/detail) | 85 | San Jose, CA | Software | 2026-05-09 |
 | [Security Software Engineer Project Intern - Network Security - BS/MS](https://jobs.bytedance.com/en/position/7618396290598045957/detail) | 85 | San Jose, CA | Software | 2026-05-09 |
-| [Software Engineer Intern - AI Infrastructure](https://jobs.bytedance.com/en/position/7595756835349973253/detail) | 85 | San Jose, CA | Software | 2026-05-09 |
 | [Software Engineer Intern - Payment Network - Global Payment](https://jobs.bytedance.com/en/position/7533369475380070663/detail) | 85 | Seattle, WA | Software | 2026-05-09 |
 | [Software Engineer Intern - Security-Data - BS/MS](https://jobs.bytedance.com/en/position/7616874229010647349/detail) | 85 | San Jose, CA | Software | 2026-05-09 |
-| [Software Engineer Project Intern - Network Security](https://jobs.bytedance.com/en/position/7595749912930420997/detail) | 85 | San Jose, CA | Software | 2026-05-09 |
-| [Software Engineer Project Intern - Security Engineering](https://jobs.bytedance.com/en/position/7600176309125466373/detail) | 85 | San Jose, CA | Software | 2026-05-09 |
-| [Software Engineer Project Intern - Security-Data - 2026 Start](https://jobs.bytedance.com/en/position/7600175469758040325/detail) | 85 | San Jose, CA | Software | 2026-05-09 |
-| [Benefits Operation Data Analyst Project Intern](https://jobs.bytedance.com/en/position/7605524889478842677/detail) | 60 | San Jose, CA | AI/ML/Data | 2026-05-09 |
 
 ## Cadence Design Systems
 
@@ -3318,12 +3310,6 @@
 | --- | --- | --- | --- | --- |
 | [Machine Learning Intern - Research and Development](https://job-boards.greenhouse.io/jobsatphamily/jobs/5227172008) | 68 | NYC | AI/ML/Data | 2026-05-20 |
 
-## Phil
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI Engineer Intern](https://jobs.ashbyhq.com/phil/4626509e-297e-4a03-b5b1-7d72cbbc5b82/application) | 93 | Remote in USA | Software | 2026-05-15 |
-
 ## PHINIA
 
 | Title | Score | Location | Department | First seen |
@@ -3454,12 +3440,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Engineering Intern](https://careers-psaairlines.icims.com/jobs/6531/job?mobile=true&needsRedirect=false) | 60 | Charlotte, NC | AI/ML/Data | 2026-05-09 |
-
-## PSP Investments
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Risk Analytics Intern](https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--Risk-Analytics--September---December-2026-_R4781) | 68 | Montreal, QC, Canada | Quant | 2026-05-27 |
 
 ## Quadric
 
@@ -4310,7 +4290,6 @@
 | [Product Manager Project Intern - Brand Effectiveness - Monetization Product](https://lifeattiktok.com/search/7628994830705871157) | 50 | San Jose, CA | Product | 2026-05-09 |
 | [Product Manager Project Intern - Tiktok LIVE-Ecosystem Governance - 2026 Start](https://lifeattiktok.com/search/7598849238706735365) | 50 | San Jose, CA | Product | 2026-05-09 |
 | [Product Operations Project Intern - Advertising - Creative](https://lifeattiktok.com/search/7630838458010241333) | 50 | London, UK | Product | 2026-05-09 |
-| [Product Solutions and Operations Intern - Commerce Ads - BS/MS](https://lifeattiktok.com/search/7600290735611840821) | 50 | San Jose, CA | Product | 2026-05-09 |
 | [Product Strategist Intern - Global Monetization Product and Technology - 2026 Summer - MBA](https://lifeattiktok.com/search/7566369771879958789) | 50 | San Jose, CA | Product | 2026-05-09 |
 | [Product Strategist Project Intern - Global Monetization Product and Technology - 2026 Start](https://lifeattiktok.com/search/7603516766509713717) | 50 | NYC | Product | 2026-05-09 |
 | [Technical Program Manager Intern - Global Monetization Product and Technology - BS/MS](https://lifeattiktok.com/search/7561479542730705213) | 50 | San Jose, CA | Product | 2026-05-09 |

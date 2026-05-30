@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-30T01:29:58.401Z",
+  "generatedAt": "2026-05-30T05:12:20.946Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1336,
+  "jobCount": 1327,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -195,7 +195,6 @@
     "canonical:1975c7c0a164af01": "2026-05-09T15:28:15.527Z",
     "canonical:a37175ad66cb394f": "2026-05-09T15:28:15.527Z",
     "canonical:a2f41ad6f73372d3": "2026-05-09T15:28:15.527Z",
-    "canonical:36b079822731bb9b": "2026-05-09T15:28:15.527Z",
     "canonical:1a453004966ba44e": "2026-05-09T15:28:15.527Z",
     "canonical:e9ee51b8edff1471": "2026-05-09T15:28:15.527Z",
     "canonical:a6dbef8ee86f6b9b": "2026-05-09T15:28:15.527Z",
@@ -328,7 +327,6 @@
     "canonical:60d5bcf59af3b320": "2026-05-09T15:28:15.527Z",
     "canonical:c8e0ad6b0204c789": "2026-05-09T15:28:15.527Z",
     "canonical:e8fa8ba4a90741c0": "2026-05-09T15:28:15.527Z",
-    "canonical:029eb3cf2b108240": "2026-05-09T15:28:15.527Z",
     "canonical:08a2d633c2ef1b09": "2026-05-09T15:28:15.527Z",
     "canonical:28e42db883c713ad": "2026-05-09T15:28:15.527Z",
     "canonical:aabcaf958144a03d": "2026-05-09T15:28:15.527Z",
@@ -366,7 +364,6 @@
     "canonical:1b419963796d3a31": "2026-05-09T15:28:15.527Z",
     "canonical:5badaef05a25da33": "2026-05-09T15:28:15.527Z",
     "canonical:6dca6177c4654932": "2026-05-09T15:28:15.527Z",
-    "canonical:763df8b7c0adebc0": "2026-05-09T15:28:15.527Z",
     "canonical:1590d36da647a3ed": "2026-05-09T15:28:15.527Z",
     "canonical:007960de747758c0": "2026-05-09T15:28:15.527Z",
     "canonical:a92c3fe8feb783d7": "2026-05-09T15:28:15.527Z",
@@ -380,8 +377,6 @@
     "canonical:a626a3499a49301e": "2026-05-09T15:28:15.527Z",
     "canonical:68999760a35484d1": "2026-05-09T15:28:15.527Z",
     "canonical:e0b27269ac8c200b": "2026-05-09T15:28:15.527Z",
-    "canonical:7384807ea0df61cf": "2026-05-09T15:28:15.527Z",
-    "canonical:7ff4f5a09ec23d64": "2026-05-09T15:28:15.527Z",
     "canonical:00f50c09f337c39e": "2026-05-09T15:28:15.527Z",
     "canonical:5ccbfc205982531b": "2026-05-13T22:37:04.081Z",
     "canonical:493031c8497921e4": "2026-05-09T15:28:15.527Z",
@@ -429,7 +424,6 @@
     "canonical:4c5e1f6f6dc5a517": "2026-05-09T15:28:15.527Z",
     "canonical:a6145bd6dfb6a1e7": "2026-05-09T15:28:15.527Z",
     "canonical:9e42770bf99c0f7e": "2026-05-09T15:28:15.527Z",
-    "canonical:54e0f6a5faf9a7e0": "2026-05-09T15:28:15.527Z",
     "canonical:434af21585a47232": "2026-05-09T15:28:15.527Z",
     "canonical:2d6881328100367d": "2026-05-09T15:28:15.527Z",
     "canonical:91ce3b1cfd0df237": "2026-05-09T15:28:15.527Z",
@@ -483,7 +477,6 @@
     "canonical:602e957a55147267": "2026-05-11T23:38:25.770Z",
     "canonical:6d6a4808593c914c": "2026-05-09T15:28:15.527Z",
     "canonical:02b621020002951f": "2026-05-09T15:28:15.527Z",
-    "canonical:30eff37a0373d994": "2026-05-09T15:28:15.527Z",
     "canonical:c023167c5909ccb2": "2026-05-15T10:04:41.511Z",
     "canonical:42119064f7930f17": "2026-05-09T15:28:15.527Z",
     "canonical:6a8d855111aa93f9": "2026-05-09T15:28:15.527Z",
@@ -799,7 +792,6 @@
     "canonical:3457d942981f8a8d": "2026-05-15T00:08:35.274Z",
     "canonical:68184665a137dc8b": "2026-05-15T00:08:35.274Z",
     "canonical:87c70fd457783995": "2026-05-15T00:08:35.274Z",
-    "canonical:9488bf8e45ec33b9": "2026-05-15T04:15:31.167Z",
     "canonical:31143e047ec31f91": "2026-05-15T04:15:31.167Z",
     "canonical:b765b3fbeaf9798b": "2026-05-15T07:39:50.601Z",
     "canonical:5c22e36371eb56e9": "2026-05-15T10:04:41.511Z",
@@ -1252,7 +1244,6 @@
     "canonical:a52697798ee25d09": "2026-05-27T06:54:37.687Z",
     "canonical:f2b9b01ed20bb453": "2026-05-27T06:54:37.687Z",
     "canonical:a5f3aa67d209292a": "2026-05-27T06:54:37.687Z",
-    "canonical:58301afd0177803b": "2026-05-27T06:54:37.687Z",
     "canonical:d32a0f580da67b03": "2026-05-27T06:54:37.687Z",
     "canonical:6fee935e941bcc88": "2026-05-27T06:54:37.687Z",
     "canonical:5b4175bcd902bb47": "2026-05-27T06:54:37.687Z",
@@ -3982,19 +3973,6 @@
       ]
     },
     {
-      "id": "canonical:36b079822731bb9b",
-      "title": "Machine Learning Engineer Intern - E-commerce-Recommendation",
-      "url": "https://jobs.bytedance.com/en/position/7535156407059925266/detail",
-      "location": "Seattle, WA",
-      "department": "AI/ML/Data",
-      "company": "ByteDance",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:1a453004966ba44e",
       "title": "Machine Learning Engineer Intern - E-commerce Conversational AI",
       "url": "https://jobs.bytedance.com/en/position/7535157501571500306/detail",
@@ -5848,19 +5826,6 @@
       ]
     },
     {
-      "id": "canonical:029eb3cf2b108240",
-      "title": "Software Engineer Project Intern - Security-Data - 2026 Start",
-      "url": "https://jobs.bytedance.com/en/position/7600175469758040325/detail",
-      "location": "San Jose, CA",
-      "department": "Software",
-      "company": "ByteDance",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:08a2d633c2ef1b09",
       "title": "Security Software Engineer Project Intern - Network Security - 2026 Start",
       "url": "https://jobs.bytedance.com/en/position/7600168555733027125/detail",
@@ -6384,19 +6349,6 @@
       ]
     },
     {
-      "id": "canonical:763df8b7c0adebc0",
-      "title": "Software Engineer Project Intern - Security Engineering",
-      "url": "https://jobs.bytedance.com/en/position/7600176309125466373/detail",
-      "location": "San Jose, CA",
-      "department": "Software",
-      "company": "ByteDance",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:1590d36da647a3ed",
       "title": "Firmware Intern - Firmware",
       "url": "https://jobs.ashbyhq.com/Etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc/application",
@@ -6611,19 +6563,6 @@
       ]
     },
     {
-      "id": "canonical:7384807ea0df61cf",
-      "title": "Software Engineer Intern - AI Infrastructure",
-      "url": "https://jobs.bytedance.com/en/position/7595756835349973253/detail",
-      "location": "San Jose, CA",
-      "department": "Software",
-      "company": "ByteDance",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:213d463a36c92170",
       "title": "Research Intern - 3D Vision and Generation - Self-Driving",
       "url": "https://boards.greenhouse.io/appliedintuition/jobs/4661663005",
@@ -6647,18 +6586,6 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:7ff4f5a09ec23d64",
-      "title": "Benefits Operation Data Analyst Project Intern",
-      "url": "https://jobs.bytedance.com/en/position/7605524889478842677/detail",
-      "location": "San Jose, CA",
-      "department": "AI/ML/Data",
-      "company": "ByteDance",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {
@@ -7427,16 +7354,6 @@
         "high-signal role",
         "direct ATS"
       ]
-    },
-    {
-      "id": "canonical:54e0f6a5faf9a7e0",
-      "title": "Product Solutions and Operations Intern - Commerce Ads - BS/MS",
-      "url": "https://lifeattiktok.com/search/7600290735611840821",
-      "location": "San Jose, CA",
-      "department": "Product",
-      "company": "TikTok",
-      "score": 50,
-      "scoreReasons": []
     },
     {
       "id": "canonical:434af21585a47232",
@@ -8262,19 +8179,6 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:30eff37a0373d994",
-      "title": "Software Engineer Project Intern - Network Security",
-      "url": "https://jobs.bytedance.com/en/position/7595749912930420997/detail",
-      "location": "San Jose, CA",
-      "department": "Software",
-      "company": "ByteDance",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -13352,20 +13256,6 @@
       ]
     },
     {
-      "id": "canonical:9488bf8e45ec33b9",
-      "title": "AI Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/phil/4626509e-297e-4a03-b5b1-7d72cbbc5b82/application",
-      "location": "Remote in USA",
-      "department": "Software",
-      "company": "Phil",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:31143e047ec31f91",
       "title": "Hardware Systems Integration Intern",
       "url": "https://careers.formlabs.com/job/7927471/apply/?gh_jid=7927471",
@@ -15285,19 +15175,6 @@
       "location": "NYC",
       "department": "AI/ML/Data",
       "company": "Syntax",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:58301afd0177803b",
-      "title": "Risk Analytics Intern",
-      "url": "https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--Risk-Analytics--September---December-2026-_R4781",
-      "location": "Montreal, QC, Canada",
-      "department": "Quant",
-      "company": "PSP Investments",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
