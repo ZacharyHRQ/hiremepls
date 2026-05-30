@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-30T22:12:51.954Z",
+  "generatedAt": "2026-05-30T23:14:30.270Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1236,
+  "jobCount": 1235,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -971,7 +971,6 @@
     "canonical:39523ec1bced691c": "2026-05-16T16:09:06.490Z",
     "canonical:be7e14e55b253564": "2026-05-16T16:09:06.490Z",
     "canonical:7d4d0f84d5e6acf6": "2026-05-16T16:09:06.490Z",
-    "canonical:ae4681fcf9dadb2b": "2026-05-16T16:09:06.490Z",
     "canonical:0daed5c9bb46ac4c": "2026-05-16T16:09:06.490Z",
     "canonical:8ae0330f340ce776": "2026-05-16T16:09:06.490Z",
     "canonical:ba5ec2840d352f0b": "2026-05-16T18:05:55.132Z",
@@ -10251,19 +10250,6 @@
       "company": "Axway",
       "score": 60,
       "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:ae4681fcf9dadb2b",
-      "title": "Data Scientist Intern",
-      "url": "https://jobs.halliburton.com/job/Abingdon-Abingdon_Data-Scientist-Internship-OXF-OX14-4RW/1384809800/?ats=successfactors",
-      "location": "Oxford, UK",
-      "department": "AI/ML/Data",
-      "company": "Halliburton",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role"
       ]
     },

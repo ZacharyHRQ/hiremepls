@@ -1,6 +1,6 @@
 # Open Internships
 
-**1236** internships across **63/64** companies — last updated 2026-05-30.
+**1235** internships across **63/64** companies — last updated 2026-05-30.
 
 ## Companies
 
@@ -225,7 +225,7 @@
 - [H&CO](#h-co) (1)
 - [Hadrian](#hadrian) (1)
 - [Haize Labs](#haize-labs) (1)
-- [Halliburton](#halliburton) (2)
+- [Halliburton](#halliburton) (1)
 - [Harris Computer](#harris-computer) (1)
 - [Harvard University](#harvard-university) (1)
 - [HCompany](#hcompany) (1)
@@ -2053,7 +2053,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Data Scientist Intern](https://jobs.halliburton.com/job/Abingdon-Abingdon_Data-Scientist-Internship-OXF-OX14-4RW/1384809800/?ats=successfactors) | 85 | Oxford, UK | AI/ML/Data | 2026-05-16 |
 | [Computer Science/Data Science/Artificial Intelligence Intern](https://jobs.halliburton.com/job/Abingdon-Abingdon_Computer-ScienceData-ScienceArtificial-Intelligence-Intern-OXF-OX14-4RW/1386854200/?ats=successfactors) | 60 | Oxford, UK | AI/ML/Data | 2026-05-16 |
 
 ## Harris Computer
