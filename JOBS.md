@@ -1,6 +1,6 @@
 # Open Internships
 
-**1238** internships across **63/64** companies — last updated 2026-05-30.
+**1237** internships across **63/64** companies — last updated 2026-05-30.
 
 ## Companies
 
@@ -475,7 +475,7 @@
 - [The Exploration Company](#the-exploration-company) (1)
 - [The State Bar of California](#the-state-bar-of-california) (1)
 - [The Trade Desk](#the-trade-desk) (1)
-- [TikTok](#tiktok) (120)
+- [TikTok](#tiktok) (119)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
 - [Tokamak Energy](#tokamak-energy) (1)
@@ -3702,8 +3702,8 @@
 | --- | --- | --- | --- | --- |
 | [PhD Data Scientist Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | Seattle, WA / SF / Chicago, IL / NYC | AI/ML/Data | 2026-05-09 |
 | [PhD Data Scientist Intern - Data Science](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | 56 | Mexico City, Mexico | — | 2026-05-06 |
@@ -3992,7 +3992,6 @@
 | [Software Engineer Intern - Live Service - BS/MS](https://lifeattiktok.com/search/7538314547103762696) | 85 | San Jose, CA | Software | 2026-05-09 |
 | [Software Engineer Intern - Media Engine - BS/MS](https://lifeattiktok.com/search/7538304108715198727) | 85 | San Jose, CA | Software | 2026-05-09 |
 | [Software Engineer Intern - Monetization Technology - 2026 Summer - BS/MS](https://lifeattiktok.com/search/7561941583777941813) | 85 | San Jose, CA | Software | 2026-05-09 |
-| [Software Engineer Intern - Monetization Technology - Ads Creative](https://lifeattiktok.com/search/7532460740410738952) | 85 | San Jose, CA | Software | 2026-05-09 |
 | [Software Engineer Intern - Monetization Technology - Ads Creative AI](https://lifeattiktok.com/search/7535617494221048082) | 85 | San Jose, CA | Software | 2026-05-09 |
 | [Software Engineer Intern - Multiple Teams](https://lifeattiktok.com/search/7533295761208559890) | 85 | San Jose, CA | Software | 2026-05-09 |
 | [Software Engineer Intern - Platform efficiency](https://lifeattiktok.com/search/7530513185797359880) | 85 | San Jose, CA | Software | 2026-05-09 |
