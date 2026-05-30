@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-29T23:40:29.541Z",
+  "generatedAt": "2026-05-30T01:29:58.401Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1339,
+  "jobCount": 1336,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -295,7 +295,6 @@
     "canonical:cce5b92632cdec92": "2026-05-09T15:28:15.527Z",
     "canonical:251d68af734c14ba": "2026-05-09T15:28:15.527Z",
     "canonical:78fe3b68b1b8794d": "2026-05-09T15:28:15.527Z",
-    "canonical:7d84dc80517586bb": "2026-05-09T15:28:15.527Z",
     "canonical:c9ec25487402b980": "2026-05-09T15:28:15.527Z",
     "canonical:4ea633e5feb7f408": "2026-05-09T15:28:15.527Z",
     "canonical:2c9a7823737a497d": "2026-05-09T15:28:15.527Z",
@@ -757,7 +756,6 @@
     "canonical:fb504a6efd3146f5": "2026-05-09T15:28:15.527Z",
     "canonical:c9d0851b51fe92db": "2026-05-09T15:28:15.527Z",
     "canonical:b5545588e338ddbb": "2026-05-09T15:28:15.527Z",
-    "canonical:c1a11e96f7f86309": "2026-05-10T04:57:30.363Z",
     "canonical:ae2198c9ecbb102e": "2026-05-11T00:06:33.325Z",
     "canonical:7c9a6f1e70b82f33": "2026-05-09T15:28:15.527Z",
     "canonical:afd90239a4dd4bef": "2026-05-09T15:28:15.527Z",
@@ -1311,7 +1309,6 @@
     "canonical:a1d20800f7c44ff9": "2026-05-27T23:09:47.866Z",
     "canonical:a395ceeb5fb82dd3": "2026-05-27T23:09:47.866Z",
     "canonical:ecba8731f0945b5e": "2026-05-27T23:09:47.866Z",
-    "canonical:d98d667e77b867b7": "2026-05-27T23:09:47.866Z",
     "canonical:12f7a82d87baac33": "2026-05-27T23:09:47.866Z",
     "canonical:03246cce852aef2a": "2026-05-27T23:09:47.866Z",
     "canonical:d32be9bbb737525e": "2026-05-27T23:09:47.866Z",
@@ -5326,19 +5323,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:7d84dc80517586bb",
-      "title": "Research Intern",
-      "url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-Kingdom-London/Research-Intern---Machine-Learning-and-Natural-Language-Processing_JREQ197485-1",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "Thomson Reuters",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -12692,20 +12676,6 @@
       ]
     },
     {
-      "id": "canonical:c1a11e96f7f86309",
-      "title": "Software Engineer Intern - Simulation",
-      "url": "https://job-boards.greenhouse.io/didi/jobs/7906174",
-      "location": "San Jose, CA",
-      "department": "Hardware",
-      "company": "DiDi Global",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:ae2198c9ecbb102e",
       "title": "Design Verification Engineer Intern",
       "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873756007",
@@ -15910,19 +15880,6 @@
       "score": 58,
       "scoreReasons": [
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:d98d667e77b867b7",
-      "title": "AI Automation Developer Intern",
-      "url": "https://careers-epeconsulting.icims.com/jobs/1943/job?mobile=true&needsRedirect=false",
-      "location": "Austin, TX",
-      "department": "Software",
-      "company": "Electric Power Engineers",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {

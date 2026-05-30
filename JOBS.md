@@ -1,6 +1,6 @@
 # Open Internships
 
-**1339** internships across **63/64** companies — last updated 2026-05-29.
+**1336** internships across **63/64** companies — last updated 2026-05-30.
 
 ## Companies
 
@@ -161,7 +161,6 @@
 - [Delta Dental](#delta-dental) (2)
 - [Deluxe](#deluxe) (1)
 - [Dewberry](#dewberry) (1)
-- [DiDi Global](#didi-global) (1)
 - [Digs](#digs) (1)
 - [DimeHealth AI](#dimehealth-ai) (1)
 - [Direct Supply](#direct-supply) (1)
@@ -177,7 +176,6 @@
 - [EdgeTrace](#edgetrace) (1)
 - [Eight Sleep](#eight-sleep) (2)
 - [Ekimetrics](#ekimetrics) (1)
-- [Electric Power Engineers](#electric-power-engineers) (1)
 - [Electronic Arts](#electronic-arts) (1)
 - [Eluvio](#eluvio) (1)
 - [EnergyHub](#energyhub) (1)
@@ -506,7 +504,7 @@
 - [The State Bar of California](#the-state-bar-of-california) (1)
 - [The Trade Desk](#the-trade-desk) (1)
 - [Thermo Fisher Scientific](#thermo-fisher-scientific) (1)
-- [Thomson Reuters](#thomson-reuters) (2)
+- [Thomson Reuters](#thomson-reuters) (1)
 - [TikTok](#tiktok) (121)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
@@ -1691,12 +1689,6 @@
 | --- | --- | --- | --- | --- |
 | [Site/Civil Engineering Intern](https://www.linkedin.com/jobs/view/4275448602) | 42 | Richmond, VA | — | 2026-05-16 |
 
-## DiDi Global
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Intern - Simulation](https://job-boards.greenhouse.io/didi/jobs/7906174) | 93 | San Jose, CA | Hardware | 2026-05-10 |
-
 ## Digs
 
 | Title | Score | Location | Department | First seen |
@@ -1791,12 +1783,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [6 months Internship in Strategy & Data Science - New York](https://jobs.lever.co/ekimetrics/d8f0b664-ad5b-4111-a1dc-a8143934bf24/apply) | 68 | NYC | AI/ML/Data | 2026-05-09 |
-
-## Electric Power Engineers
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI Automation Developer Intern](https://careers-epeconsulting.icims.com/jobs/1943/job?mobile=true&needsRedirect=false) | 85 | Austin, TX | Software | 2026-05-27 |
 
 ## Electronic Arts
 
@@ -4203,7 +4189,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Research Scientist Intern](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-Kingdom-London/Research-Scientist-Intern_JREQ198484) | 93 | London, UK | AI/ML/Data | 2026-05-23 |
-| [Research Intern](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-Kingdom-London/Research-Intern---Machine-Learning-and-Natural-Language-Processing_JREQ197485-1) | 68 | London, UK | AI/ML/Data | 2026-05-09 |
 
 ## TikTok
 
