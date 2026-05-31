@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-31T04:52:04.247Z",
+  "generatedAt": "2026-05-31T08:09:00.139Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1234,
+  "jobCount": 1227,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -95,7 +95,6 @@
     "canonical:b0682e13963fcdcc": "2026-05-09T15:28:15.527Z",
     "canonical:6353eecea9024842": "2026-05-09T15:28:15.527Z",
     "canonical:8fc863f495e5ebf7": "2026-05-09T15:28:15.527Z",
-    "canonical:a8e26926b46e0ec8": "2026-05-09T15:28:15.527Z",
     "canonical:d55c7f1620fdd8fa": "2026-05-09T15:28:15.527Z",
     "canonical:eacffdabb331b3dc": "2026-05-09T15:28:15.527Z",
     "canonical:757e93832590e76f": "2026-05-09T15:28:15.527Z",
@@ -668,8 +667,6 @@
     "canonical:eb1420a214d28c30": "2026-05-09T15:28:15.527Z",
     "canonical:35433652fd2ee4ea": "2026-05-09T15:28:15.527Z",
     "canonical:13ac1675283013b9": "2026-05-09T15:28:15.527Z",
-    "canonical:ea8047cd9105a4b5": "2026-05-09T15:28:15.527Z",
-    "canonical:69e0315dbe2788fb": "2026-05-09T17:12:44.619Z",
     "canonical:b1cec7aacb5584d6": "2026-05-09T15:28:15.527Z",
     "canonical:99e03b476dac932b": "2026-05-09T15:28:15.527Z",
     "canonical:0c953ee66e86cdaa": "2026-05-09T15:28:15.527Z",
@@ -963,15 +960,12 @@
     "canonical:8677f44966da23c5": "2026-05-16T11:29:30.823Z",
     "canonical:fa6150aeb04d6ed4": "2026-05-16T11:29:30.823Z",
     "canonical:aa496e085ee2de25": "2026-05-16T14:07:37.750Z",
-    "canonical:a395cfae9a1c0ddb": "2026-05-16T14:07:37.750Z",
     "canonical:4adbc338b845e24f": "2026-05-16T16:09:06.490Z",
     "canonical:39523ec1bced691c": "2026-05-16T16:09:06.490Z",
     "canonical:be7e14e55b253564": "2026-05-16T16:09:06.490Z",
     "canonical:7d4d0f84d5e6acf6": "2026-05-16T16:09:06.490Z",
     "canonical:0daed5c9bb46ac4c": "2026-05-16T16:09:06.490Z",
     "canonical:8ae0330f340ce776": "2026-05-16T16:09:06.490Z",
-    "canonical:ba5ec2840d352f0b": "2026-05-16T18:05:55.132Z",
-    "canonical:51a3cddbac5ec599": "2026-05-16T19:21:47.725Z",
     "canonical:1a36c38a48406fc0": "2026-05-16T20:09:24.477Z",
     "canonical:dbcff267cfa71af8": "2026-05-16T21:02:08.432Z",
     "canonical:dee0c50f951e3036": "2026-05-16T22:02:43.602Z",
@@ -1071,7 +1065,6 @@
     "canonical:f9b534af9c523d1d": "2026-05-21T23:51:28.973Z",
     "canonical:c973cdb7a5f71dc8": "2026-05-21T23:51:28.973Z",
     "canonical:2cbad48755d82365": "2026-05-21T23:51:28.973Z",
-    "canonical:ab713e1b2bb3d076": "2026-05-21T23:51:28.973Z",
     "canonical:244ba70ec41469f9": "2026-05-21T23:51:28.973Z",
     "canonical:77542c49fff41020": "2026-05-22T02:15:03.911Z",
     "canonical:87f6386de9672675": "2026-05-22T09:54:00.041Z",
@@ -1202,7 +1195,6 @@
     "canonical:55b73963c420ca4c": "2026-05-27T21:45:52.221Z",
     "canonical:784a88787650b2f8": "2026-05-27T23:09:47.866Z",
     "canonical:c313027a53b066af": "2026-05-27T23:09:47.866Z",
-    "canonical:0a92c979854c9622": "2026-05-27T23:09:47.866Z",
     "canonical:a395ceeb5fb82dd3": "2026-05-27T23:09:47.866Z",
     "canonical:ecba8731f0945b5e": "2026-05-27T23:09:47.866Z",
     "canonical:12f7a82d87baac33": "2026-05-27T23:09:47.866Z",
@@ -1237,7 +1229,8 @@
     "canonical:8da6925b3cea6863": "2026-05-29T23:40:29.541Z",
     "canonical:144ba34be805c34a": "2026-05-30T09:50:27.553Z",
     "canonical:b661e8e93c959d87": "2026-05-31T04:52:04.247Z",
-    "canonical:b2ba7fb9dd17dfe9": "2026-05-31T04:52:04.247Z"
+    "canonical:b2ba7fb9dd17dfe9": "2026-05-31T04:52:04.247Z",
+    "canonical:3006133af70a93bd": "2026-05-31T08:09:00.139Z"
   },
   "jobs": [
     {
@@ -2581,19 +2574,6 @@
       "company": "Cribl",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:a8e26926b46e0ec8",
-      "title": "Software Engineering Intern - Multiple Teams",
-      "url": "https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1/application",
-      "location": "San Mateo, CA",
-      "department": "Software",
-      "company": "Replit",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
     },
     {
       "id": "canonical:d55c7f1620fdd8fa",
@@ -10634,71 +10614,6 @@
       ]
     },
     {
-      "id": "canonical:51a3cddbac5ec599",
-      "title": "Embedded Software Development Intern",
-      "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Embedded-Software-Development-Intern_JR110741-1",
-      "location": "Montreal, QC, Canada",
-      "department": "Hardware",
-      "company": "Intelcom | Dragonfly",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:69e0315dbe2788fb",
-      "title": "Data Engineering Intern",
-      "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Data-Engineering-Intern_JR110748-1",
-      "location": "Montreal, QC, Canada",
-      "department": "AI/ML/Data",
-      "company": "Intelcom | Dragonfly",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:a395cfae9a1c0ddb",
-      "title": "Software Development Intern - Geocoding",
-      "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---GeoCoding_JR110744-1",
-      "location": "Montreal, QC, Canada",
-      "department": "Software",
-      "company": "Intelcom | Dragonfly",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:ba5ec2840d352f0b",
-      "title": "Software Development Intern - Business Platform",
-      "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Business-Platform_JR110745-1",
-      "location": "Montreal, QC, Canada",
-      "department": "Software",
-      "company": "Intelcom | Dragonfly",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:ea8047cd9105a4b5",
-      "title": "Data Analyst Intern",
-      "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Data-Analyst-Intern_JR110776",
-      "location": "Montreal, QC, Canada",
-      "department": "AI/ML/Data",
-      "company": "Intelcom | Dragonfly",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:998e7e53a3825c4a",
       "title": "Computer Science/Data Science/Artificial Intelligence Intern",
       "url": "https://jobs.halliburton.com/job/Abingdon-Abingdon_Computer-ScienceData-ScienceArtificial-Intelligence-Intern-OXF-OX14-4RW/1386854200/?ats=successfactors",
@@ -13156,19 +13071,6 @@
       ]
     },
     {
-      "id": "canonical:ab713e1b2bb3d076",
-      "title": "Engagement & Enablement Specialist Co-op/Intern",
-      "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Engagement---Enablement-Specialist--Fall-2026--Co-op-Internship------4-months_R260015283",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Bank of Montreal",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:244ba70ec41469f9",
       "title": "Power BI Reporting Intern",
       "url": "https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Power-Bi-Reporting-Long-Term-Intern_R604",
@@ -14386,18 +14288,6 @@
       ]
     },
     {
-      "id": "canonical:0a92c979854c9622",
-      "title": "Analytics & AI Solutions Intern",
-      "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/14821",
-      "location": "United States",
-      "department": "AI/ML/Data",
-      "company": "EXL",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:a395ceeb5fb82dd3",
       "title": "Software Developer Intern",
       "url": "https://apply.workable.com/al-warren-oil-company-inc/j/061E87752B/apply",
@@ -14625,6 +14515,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:3006133af70a93bd",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1/application",
+      "location": "San Mateo, CA",
+      "department": "Software",
+      "company": "Replit",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {

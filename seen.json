@@ -197,7 +197,6 @@
   "BlackRock": [],
   "Visa": [],
   "SimplifyJobs": [
-    "simplify:ea3ec9d3-bef9-45ad-bfe6-840adcb477f8",
     "simplify:6d76b492-8c77-4465-af5a-20081d1f970f",
     "simplify:50e8c751-393c-42ee-85c0-100be60decf3",
     "simplify:30d1162f-2765-4044-9e44-203f4a85d5a1",
@@ -855,11 +854,6 @@
     "simplify:c3656022-c1f5-43d7-9752-dacfb3d6479d",
     "simplify:bc902773-1b46-4f76-97d8-2c286464ddf6",
     "simplify:60ff2402-2f73-4588-8aff-0f7c78e9654d",
-    "simplify:f651df72-a281-46bb-a2fe-17d318ace73c",
-    "simplify:60956514-0af3-42e3-97dc-b4e69d693b20",
-    "simplify:f8f75400-1f66-43e2-8319-632eef624b1b",
-    "simplify:737a77a0-b1a1-4897-ab56-0ea7298e7b11",
-    "simplify:167c19e5-8814-49c7-9607-abfb7ac7ecbb",
     "simplify:342cbbdf-54ef-4a8a-b2bc-f9cb9d0ab6e5",
     "simplify:fc009865-651e-4548-b29e-ee267d5e19ae",
     "simplify:36e0c8f1-c9a3-48e6-96bb-d9703df95f21",
@@ -1054,7 +1048,6 @@
     "simplify:73d846bf-2d53-4eb1-b72b-e788c6fe9252",
     "simplify:90c02d35-d779-44e7-9119-490e49c1cde1",
     "simplify:66505d20-4e58-4bba-99f2-daea4ab27848",
-    "simplify:0a232e0e-ed75-4153-aa77-cced18b19904",
     "simplify:72686e66-c0dc-4276-bb21-b259097bfaee",
     "simplify:c25a5882-1fd2-473e-b5cd-f38c9238730f",
     "simplify:cc0fb5d7-0673-4321-879d-82013827307c",
@@ -1153,7 +1146,6 @@
     "simplify:324ec268-b5d2-4634-8c91-3245f0828052",
     "simplify:4945aa14-8147-4b8c-8601-8307e703f860",
     "simplify:bce00b8e-0bf2-4317-8d52-be8495199473",
-    "simplify:3080ae0e-0ca3-4aa7-ad13-b332249787c3",
     "simplify:6fc10a51-85a5-4785-82a0-5a3b41d7eaf4",
     "simplify:4d3493e7-c56b-453f-a8c2-c46fdde8f81a",
     "simplify:7265b7f1-e86f-400a-acdc-ec06dc2c581a",
@@ -1174,7 +1166,8 @@
     "simplify:886288f5-3a87-4305-9ad8-236ac9eb9153",
     "simplify:721c4311-36da-4592-aa83-6c48389b8d8e",
     "simplify:8edf79a0-7fbe-42bd-8e8f-572062156001",
-    "simplify:41d0ba32-8c09-48c5-917a-2ee8e6af3a8d"
+    "simplify:41d0ba32-8c09-48c5-917a-2ee8e6af3a8d",
+    "simplify:ea3ec9d3-bef9-45ad-bfe6-840adcb477f8"
   ],
   "vanshb03": [
     "vansh:df70fa57-977b-4f31-832e-a0e57ed070b5",

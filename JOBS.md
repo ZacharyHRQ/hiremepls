@@ -1,6 +1,6 @@
 # Open Internships
 
-**1234** internships across **63/64** companies — last updated 2026-05-31.
+**1227** internships across **63/64** companies — last updated 2026-05-31.
 
 ## Companies
 
@@ -68,7 +68,7 @@
 - [Axway](#axway) (2)
 - [BAE Systems](#bae-systems) (8)
 - [Bank of America](#bank-of-america) (1)
-- [Bank of Montreal](#bank-of-montreal) (3)
+- [Bank of Montreal](#bank-of-montreal) (2)
 - [Barkback](#barkback) (1)
 - [Base Power](#base-power) (3)
 - [beBeeManufacturingEngineering](#bebeemanufacturingengineering) (1)
@@ -180,7 +180,7 @@
 - [Eulerity](#eulerity) (3)
 - [Eurofins](#eurofins) (2)
 - [EV Realty](#ev-realty) (1)
-- [EXL](#exl) (2)
+- [EXL](#exl) (1)
 - [Expedia Group](#expedia-group) (2)
 - [Facility Solutions Group](#facility-solutions-group) (1)
 - [Faherty Brand](#faherty-brand) (1)
@@ -257,7 +257,6 @@
 - [Integra FEC](#integra-fec) (1)
 - [Integrity](#integrity) (1)
 - [Intel](#intel) (1)
-- [Intelcom | Dragonfly](#intelcom-dragonfly) (5)
 - [Intercontinental Exchange, Inc.](#intercontinental-exchange-inc) (1)
 - [Interdigital](#interdigital) (2)
 - [Internship](#internship) (1)
@@ -996,7 +995,6 @@
 | --- | --- | --- | --- | --- |
 | [Partnership Development Intern](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Partnership-Development-Internship--Fall-2026--4-months--Toronto--CA_R260016030) | 58 | Toronto, ON, Canada | Product | 2026-05-28 |
 | [Card Products Intern - 4 months](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Card-Products-Internship--Fall-2026--4-months--Toronto--CA_R260016029-1) | 58 | Toronto, ON, Canada | Product | 2026-05-27 |
-| [Engagement & Enablement Specialist Co-op/Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Engagement---Enablement-Specialist--Fall-2026--Co-op-Internship------4-months_R260015283) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-05-21 |
 
 ## Barkback
 
@@ -1759,7 +1757,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Analytics & AI Solutions Intern](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/14821) | 60 | United States | AI/ML/Data | 2026-05-27 |
 | [Intern Analytics & AI - Data Management](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/10272) | 60 | NYC | AI/ML/Data | 2026-05-09 |
 
 ## Expedia Group
@@ -2261,16 +2258,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) | 68 | Hillsboro, OR / Folsom, CA | — | 2026-05-09 |
-
-## Intelcom | Dragonfly
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Embedded Software Development Intern](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Embedded-Software-Development-Intern_JR110741-1) | 68 | Montreal, QC, Canada | Hardware | 2026-05-16 |
-| [Software Development Intern - Business Platform](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Business-Platform_JR110745-1) | 68 | Montreal, QC, Canada | Software | 2026-05-16 |
-| [Software Development Intern - Geocoding](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---GeoCoding_JR110744-1) | 68 | Montreal, QC, Canada | Software | 2026-05-16 |
-| [Data Engineering Intern](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Data-Engineering-Intern_JR110748-1) | 68 | Montreal, QC, Canada | AI/ML/Data | 2026-05-09 |
-| [Data Analyst Intern](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Data-Analyst-Intern_JR110776) | 68 | Montreal, QC, Canada | AI/ML/Data | 2026-05-09 |
 
 ## Intercontinental Exchange, Inc.
 
@@ -3274,8 +3261,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1/application) | 93 | San Mateo, CA | Software | 2026-05-31 |
 | [Software Engineering Intern (Summer 2026)](https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1) | 65 | — | — | 2026-05-29 |
-| [Software Engineering Intern - Multiple Teams](https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1/application) | 68 | San Mateo, CA | Software | 2026-05-09 |
 
 ## Reply
 
