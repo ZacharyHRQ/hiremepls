@@ -1,6 +1,6 @@
 # Open Internships
 
-**1235** internships across **63/64** companies — last updated 2026-05-31.
+**1234** internships across **63/64** companies — last updated 2026-05-31.
 
 ## Companies
 
@@ -125,7 +125,6 @@
 - [Commonwealth of Massachusetts](#commonwealth-of-massachusetts) (11)
 - [Compa](#compa) (1)
 - [Conagra Brands](#conagra-brands) (2)
-- [ConnectPrep](#connectprep) (1)
 - [Context](#context) (1)
 - [Cook Group](#cook-group) (3)
 - [Copeland](#copeland) (1)
@@ -447,7 +446,7 @@
 - [State Street](#state-street) (1)
 - [Stevens Capital Management](#stevens-capital-management) (1)
 - [Stoke Space](#stoke-space) (1)
-- [Stripe](#stripe) (8)
+- [Stripe](#stripe) (7)
 - [Sundt](#sundt) (1)
 - [SunSource](#sunsource) (2)
 - [Super](#super) (6)
@@ -464,7 +463,7 @@
 - [Techtronic Industries](#techtronic-industries) (1)
 - [Tencent](#tencent) (8)
 - [TENEX.AI](#tenex-ai) (1)
-- [Tenstorrent](#tenstorrent) (6)
+- [Tenstorrent](#tenstorrent) (7)
 - [Terranox AI](#terranox-ai) (1)
 - [Tesla](#tesla) (25)
 - [Tessera Labs](#tessera-labs) (2)
@@ -1393,12 +1392,6 @@
 | --- | --- | --- | --- | --- |
 | [Food Science Return Internship – Product Development – Summer 2026](https://www.linkedin.com/jobs/view/4273206476) | 42 | Omaha, NE | — | 2026-05-16 |
 | [Packaging Return Internship - Summer 2026](https://www.linkedin.com/jobs/view/4270506322) | 42 | Omaha, NE | — | 2026-05-16 |
-
-## ConnectPrep
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Analyst Intern](https://apply.workable.com/connectprep/j/D7937EDEC9/apply) | 68 | Boston, MA / Remote in USA | AI/ML/Data | 2026-05-09 |
 
 ## Context
 
@@ -2685,6 +2678,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Research Scientist Intern - Language & Multimodal Foundations](https://www.metacareers.com/jobs/24536664159369645) | 85 | Seattle, WA / Menlo Park, CA / NYC | AI/ML/Data | 2026-05-31 |
 | [Research Scientist Intern - Monetization Generative AI - LLM](https://www.metacareers.com/jobs/2916726525182155) | 85 | Seattle, WA / Menlo Park, CA / NYC / Bellevue, WA | AI/ML/Data | 2026-05-18 |
 | [Research Scientist Intern - Multimodal AI](https://www.metacareers.com/jobs/1732424664451603) | 85 | Redmond, WA | AI/ML/Data | 2026-05-15 |
 | [Research Scientist Intern - Multimodal Contextual AI](https://www.metacareers.com/jobs/2160167211413098) | 85 | Redmond, WA | AI/ML/Data | 2026-05-15 |
@@ -2694,7 +2688,6 @@
 | [Research Scientist Intern - Applied Perception Science - PhD](https://www.metacareers.com/jobs/25766888559672059) | 85 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Scientist Intern - Applied Vision and Image Quality - PhD](https://www.metacareers.com/jobs/1422892385992613) | 85 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Scientist Intern - Applied Vision in Augmented Reality - PhD](https://www.metacareers.com/jobs/1134286408770089) | 85 | Redmond, WA | AI/ML/Data | 2026-05-09 |
-| [Research Scientist Intern - Language & Multimodal Foundations](https://www.metacareers.com/jobs/24536664159369645) | 85 | Seattle, WA / Menlo Park, CA | AI/ML/Data | 2026-05-09 |
 | [Research Scientist Intern - Photorealistic Telepresence](https://www.metacareers.com/jobs/2022109075207025) | 85 | Sausalito, CA / Redmond, WA / Pittsburgh, PA | AI/ML/Data | 2026-05-09 |
 | [Research Scientist Intern PhD - Applied Research](https://www.metacareers.com/jobs/2633206137040139) | 85 | Menlo Park, CA / NYC / Bellevue, WA | AI/ML/Data | 2026-05-09 |
 | [Research Scientist Intern, LLM Evaluation](https://www.metacareers.com/profile/job_details/4203446973242742) | 85 | New York, NY | Data Science, AI & Machine Learning | 2026-05-09 |
@@ -3693,7 +3686,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [PhD Data Scientist Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | Seattle, WA / SF / Chicago, IL / NYC | AI/ML/Data | 2026-05-09 |
-| [PhD Data Scientist Intern - Data Science](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
@@ -3818,6 +3810,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Formal Verification Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4868622007) | 58 | Austin, TX | Hardware | 2026-05-31 |
 | [Design Verification Engineer Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873756007) | 58 | Boston, MA | Hardware | 2026-05-11 |
 | [AI Compiler Software Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873659007) | 68 | Toronto, ON, Canada | Software | 2026-05-09 |
 | [Machine Learning Applications & Benchmarking Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4532863007) | 68 | Santa Clara, CA | AI/ML/Data | 2026-05-09 |

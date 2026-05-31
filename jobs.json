@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-31T00:14:31.008Z",
+  "generatedAt": "2026-05-31T04:52:04.247Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1235,
+  "jobCount": 1234,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -95,8 +95,6 @@
     "canonical:b0682e13963fcdcc": "2026-05-09T15:28:15.527Z",
     "canonical:6353eecea9024842": "2026-05-09T15:28:15.527Z",
     "canonical:8fc863f495e5ebf7": "2026-05-09T15:28:15.527Z",
-    "canonical:324cd5453e9d5ce7": "2026-05-09T15:28:15.527Z",
-    "canonical:33e80d143b65910b": "2026-05-09T15:28:15.527Z",
     "canonical:a8e26926b46e0ec8": "2026-05-09T15:28:15.527Z",
     "canonical:d55c7f1620fdd8fa": "2026-05-09T15:28:15.527Z",
     "canonical:eacffdabb331b3dc": "2026-05-09T15:28:15.527Z",
@@ -603,7 +601,6 @@
     "canonical:56696289e5f79c88": "2026-05-09T15:28:15.527Z",
     "canonical:7fe1ed821878aa89": "2026-05-09T15:28:15.527Z",
     "canonical:943af7961887dfc9": "2026-05-09T15:28:15.527Z",
-    "canonical:c7cb2fdebec14a1b": "2026-05-09T15:28:15.527Z",
     "canonical:04da800cf83cb9bd": "2026-05-09T15:28:15.527Z",
     "canonical:1193b6fdb6c30a9f": "2026-05-09T15:28:15.527Z",
     "canonical:9508a5dd181c1039": "2026-05-09T15:28:15.527Z",
@@ -1238,7 +1235,9 @@
     "canonical:e4ece6645315469a": "2026-05-29T17:55:07.126Z",
     "canonical:1df04de60e393fed": "2026-05-29T17:55:07.126Z",
     "canonical:8da6925b3cea6863": "2026-05-29T23:40:29.541Z",
-    "canonical:144ba34be805c34a": "2026-05-30T09:50:27.553Z"
+    "canonical:144ba34be805c34a": "2026-05-30T09:50:27.553Z",
+    "canonical:b661e8e93c959d87": "2026-05-31T04:52:04.247Z",
+    "canonical:b2ba7fb9dd17dfe9": "2026-05-31T04:52:04.247Z"
   },
   "jobs": [
     {
@@ -2582,32 +2581,6 @@
       "company": "Cribl",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:324cd5453e9d5ce7",
-      "title": "PhD Data Scientist Intern - Data Science",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Stripe",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:33e80d143b65910b",
-      "title": "Research Scientist Intern - Language & Multimodal Foundations",
-      "url": "https://www.metacareers.com/jobs/24536664159369645",
-      "location": "Seattle, WA / Menlo Park, CA",
-      "department": "AI/ML/Data",
-      "company": "Meta",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
     },
     {
       "id": "canonical:a8e26926b46e0ec8",
@@ -9708,19 +9681,6 @@
       ]
     },
     {
-      "id": "canonical:c7cb2fdebec14a1b",
-      "title": "Data Analyst Intern",
-      "url": "https://apply.workable.com/connectprep/j/D7937EDEC9/apply",
-      "location": "Boston, MA / Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "ConnectPrep",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:04da800cf83cb9bd",
       "title": "Software Engineering Intern",
       "url": "http://invoicecloud.net/careers/open-positions?gh_jid=7702184003",
@@ -14640,6 +14600,31 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:b661e8e93c959d87",
+      "title": "Formal Verification Intern",
+      "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4868622007",
+      "location": "Austin, TX",
+      "department": "Hardware",
+      "company": "Tenstorrent",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:b2ba7fb9dd17dfe9",
+      "title": "Research Scientist Intern - Language & Multimodal Foundations",
+      "url": "https://www.metacareers.com/jobs/24536664159369645",
+      "location": "Seattle, WA / Menlo Park, CA / NYC",
+      "department": "AI/ML/Data",
+      "company": "Meta",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
