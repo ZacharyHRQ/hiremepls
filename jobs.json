@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-31T22:49:39.303Z",
+  "generatedAt": "2026-05-31T23:57:13.932Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1227,
+  "jobCount": 1232,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1230,7 +1230,12 @@
     "canonical:144ba34be805c34a": "2026-05-30T09:50:27.553Z",
     "canonical:b661e8e93c959d87": "2026-05-31T04:52:04.247Z",
     "canonical:b2ba7fb9dd17dfe9": "2026-05-31T04:52:04.247Z",
-    "canonical:3006133af70a93bd": "2026-05-31T08:09:00.139Z"
+    "canonical:3006133af70a93bd": "2026-05-31T08:09:00.139Z",
+    "canonical:53f6a277d4583b60": "2026-05-31T23:57:13.932Z",
+    "canonical:8e9b3b4bdaa4e763": "2026-05-31T23:57:13.932Z",
+    "canonical:7ffa9dc09a6c8ef4": "2026-05-31T23:57:13.932Z",
+    "canonical:c24fa2c293373870": "2026-05-31T23:57:13.932Z",
+    "canonical:941d02dc047a74b1": "2026-05-31T23:57:13.932Z"
   },
   "jobs": [
     {
@@ -5834,6 +5839,20 @@
       ]
     },
     {
+      "id": "canonical:53f6a277d4583b60",
+      "title": "Software Developer Intern - Digital Grid Management",
+      "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Software-Development-Intern---Digital-Grid-Management---Summer-2026_R8627-1",
+      "location": "Wayzata, MN",
+      "department": "Software",
+      "company": "AspenTech",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:8b4cd2ba0c708372",
       "title": "Engineering Intern - Gen AI for FP&a Platform",
       "url": "https://jobs.lever.co/drivetrain/7266784e-530b-4eb5-a61b-b09557f6e98d/apply",
@@ -5969,6 +5988,19 @@
       "location": "Roswell, GA",
       "department": "Software",
       "company": "OTR Solutions",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:8e9b3b4bdaa4e763",
+      "title": "Multimedia Codec Development Intern",
+      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Multimedia-Codec-Development-Intern_R106769",
+      "location": "Palo Alto, CA",
+      "department": "AI/ML/Data",
+      "company": "Tencent",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -6176,6 +6208,19 @@
       ]
     },
     {
+      "id": "canonical:7ffa9dc09a6c8ef4",
+      "title": "Research Intern - Video World Models",
+      "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Research-Intern---Video-World-Models_R106904-1",
+      "location": "Palo Alto, CA",
+      "department": "AI/ML/Data",
+      "company": "Tencent",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:a626a3499a49301e",
       "title": "Collectibles Intern - Product - Physical Trading Cards",
       "url": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26720",
@@ -6351,6 +6396,19 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:c24fa2c293373870",
+      "title": "Data Science Intern",
+      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Data-Science-Intern_R106915",
+      "location": "Palo Alto, CA",
+      "department": "AI/ML/Data",
+      "company": "Tencent",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -7364,6 +7422,19 @@
       "location": "New York, NY",
       "department": "Data Science, AI & Machine Learning",
       "company": "Internship",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:941d02dc047a74b1",
+      "title": "AI Intern",
+      "url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Atlanta-GA-United-States/AI-Internships_JR-0088855",
+      "location": "Grand Rapids, MI / Plano, TX / Atlanta, GA",
+      "department": "Software",
+      "company": "KION Group",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
