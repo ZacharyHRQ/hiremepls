@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-01T03:37:04.741Z",
+  "generatedAt": "2026-06-01T09:03:18.496Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1258,
+  "jobCount": 1256,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -964,7 +964,6 @@
     "canonical:be7e14e55b253564": "2026-05-16T16:09:06.490Z",
     "canonical:7d4d0f84d5e6acf6": "2026-05-16T16:09:06.490Z",
     "canonical:0daed5c9bb46ac4c": "2026-05-16T16:09:06.490Z",
-    "canonical:8ae0330f340ce776": "2026-05-16T16:09:06.490Z",
     "canonical:1a36c38a48406fc0": "2026-05-16T20:09:24.477Z",
     "canonical:dbcff267cfa71af8": "2026-05-16T21:02:08.432Z",
     "canonical:dee0c50f951e3036": "2026-05-16T22:02:43.602Z",
@@ -1097,8 +1096,6 @@
     "canonical:1a7ad445267d293c": "2026-05-23T08:53:33.768Z",
     "canonical:bfe197e97450cbe9": "2026-05-23T08:53:33.768Z",
     "canonical:48ec88269f1f5384": "2026-05-23T08:53:33.768Z",
-    "canonical:5aaef27664e6e084": "2026-05-23T08:53:33.768Z",
-    "canonical:4317a7594933687e": "2026-05-23T08:53:33.768Z",
     "canonical:887cd5542760eab5": "2026-05-23T10:21:14.097Z",
     "canonical:3199ccc6d28ca766": "2026-05-23T10:21:14.097Z",
     "canonical:5906a2f82569959e": "2026-05-23T10:21:14.097Z",
@@ -1151,7 +1148,6 @@
     "canonical:a52697798ee25d09": "2026-05-27T06:54:37.687Z",
     "canonical:f2b9b01ed20bb453": "2026-05-27T06:54:37.687Z",
     "canonical:a5f3aa67d209292a": "2026-05-27T06:54:37.687Z",
-    "canonical:6fee935e941bcc88": "2026-05-27T06:54:37.687Z",
     "canonical:5b4175bcd902bb47": "2026-05-27T06:54:37.687Z",
     "canonical:7cd11e7ec9f67cb6": "2026-05-27T06:54:37.687Z",
     "canonical:f4e355745f038164": "2026-05-27T06:54:37.687Z",
@@ -1230,7 +1226,6 @@
     "canonical:b661e8e93c959d87": "2026-05-31T04:52:04.247Z",
     "canonical:b2ba7fb9dd17dfe9": "2026-05-31T04:52:04.247Z",
     "canonical:3006133af70a93bd": "2026-05-31T08:09:00.139Z",
-    "canonical:53f6a277d4583b60": "2026-05-31T23:57:13.932Z",
     "canonical:8e9b3b4bdaa4e763": "2026-05-31T23:57:13.932Z",
     "canonical:7ffa9dc09a6c8ef4": "2026-05-31T23:57:13.932Z",
     "canonical:c24fa2c293373870": "2026-05-31T23:57:13.932Z",
@@ -1261,7 +1256,10 @@
     "canonical:82fe5746fa74841c": "2026-06-01T03:37:04.741Z",
     "canonical:a6f482844306182e": "2026-06-01T03:37:04.741Z",
     "canonical:66c86d4723bacda5": "2026-06-01T03:37:04.741Z",
-    "canonical:a54dfaa9c2670ee3": "2026-06-01T03:37:04.741Z"
+    "canonical:a54dfaa9c2670ee3": "2026-06-01T03:37:04.741Z",
+    "canonical:689e051abf9096c5": "2026-06-01T09:03:18.496Z",
+    "canonical:b34ee6f6e7d3ffb3": "2026-06-01T09:03:18.496Z",
+    "canonical:8ecb94421f2672b5": "2026-06-01T09:03:18.496Z"
   },
   "jobs": [
     {
@@ -5865,20 +5863,6 @@
       ]
     },
     {
-      "id": "canonical:53f6a277d4583b60",
-      "title": "Software Developer Intern - Digital Grid Management",
-      "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Software-Development-Intern---Digital-Grid-Management---Summer-2026_R8627-1",
-      "location": "Wayzata, MN",
-      "department": "Software",
-      "company": "AspenTech",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:8b4cd2ba0c708372",
       "title": "Engineering Intern - Gen AI for FP&a Platform",
       "url": "https://jobs.lever.co/drivetrain/7266784e-530b-4eb5-a61b-b09557f6e98d/apply",
@@ -9644,6 +9628,20 @@
       ]
     },
     {
+      "id": "canonical:689e051abf9096c5",
+      "title": "AI Agent Developer Intern",
+      "url": "https://phinia.wd5.myworkdayjobs.com/PHINIA_Careers/job/Auburn-Hills-PHINIA-WHQ---Michigan---USA/AI-Agent-Developer-Intern_R2026-0276",
+      "location": "Auburn Hills, MI",
+      "department": "AI/ML/Data",
+      "company": "PHINIA",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:319745e44ae35fd5",
       "title": "Full-Stack Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/marianaminerals/a8d2878d-bd25-4eff-9957-3925901bc40d/application",
@@ -12222,47 +12220,6 @@
       ]
     },
     {
-      "id": "canonical:5aaef27664e6e084",
-      "title": "Enterprise Solutions Software Engineer Co-op/Internship",
-      "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Enterprise-Solutions--Software-Engineer-Co-op-Internship--Fall-2026-_JR101472",
-      "location": "Victoria, BC, Canada / Vancouver, BC, Canada",
-      "department": "Software",
-      "company": "British Columbia Investment",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:4317a7594933687e",
-      "title": "Risk Analytics Solutions Co-op/Intern",
-      "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Risk-Analytics-Solutions-Co-op-Internship--Fall-2026---Winter-2027-_JR101491",
-      "location": "Victoria, BC, Canada",
-      "department": "Software",
-      "company": "British Columbia Investment",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:8ae0330f340ce776",
-      "title": "Data & Analytics Engineer Co-op/Intern",
-      "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Data---Analytics-Engineer-Co-op--Internship--Fall-2026-and-or-Winter-2027-_JR101481",
-      "location": "Victoria, BC, Canada / Vancouver, BC, Canada",
-      "department": "AI/ML/Data",
-      "company": "British Columbia Investment",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:1433ae58ceb11aaa",
       "title": "Data Science Operations Intern - Business Integrity Data Cycling Center",
       "url": "https://lifeattiktok.com/search/7639509050870434101",
@@ -12875,6 +12832,19 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:b34ee6f6e7d3ffb3",
+      "title": "AV Software Safety Intern",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/AV-Software-Safety-Intern---Fall-2026_JR-202611005",
+      "location": "Markham, ON, Canada",
+      "department": "Hardware",
+      "company": "General Motors",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -14068,19 +14038,6 @@
       ]
     },
     {
-      "id": "canonical:6fee935e941bcc88",
-      "title": "Performance & Analytics Co-op/Intern",
-      "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Performance---Analytics-Co-op-Internship--Fall-2026-_JR101492",
-      "location": "Victoria, BC, Canada",
-      "department": "AI/ML/Data",
-      "company": "British Columbia Investment",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:5b4175bcd902bb47",
       "title": "ESG Co-op/Internship",
       "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/ESG-Co-op-Internship--Fall-2026-_JR101488",
@@ -14983,6 +14940,18 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:8ecb94421f2672b5",
+      "title": "Commodities Trading Intern",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210752778",
+      "location": "Houston, TX",
+      "department": "Quant",
+      "company": "JP Morgan Chase",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
       ]
     },
     {
