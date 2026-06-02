@@ -1,6 +1,6 @@
 # Open Internships
 
-**1251** internships across **63/64** companies — last updated 2026-06-02.
+**1241** internships across **63/64** companies — last updated 2026-06-02.
 
 ## Companies
 
@@ -105,8 +105,8 @@
 - [Chartwells Higher Education Dining Services](#chartwells-higher-education-dining-services) (1)
 - [Cherry Bekaert](#cherry-bekaert) (2)
 - [Chubb](#chubb) (1)
-- [Ciena](#ciena) (2)
-- [Cirrus Logic](#cirrus-logic) (3)
+- [Ciena](#ciena) (1)
+- [Cirrus Logic](#cirrus-logic) (2)
 - [Cisco](#cisco) (3)
 - [Cisive](#cisive) (1)
 - [Citadel](#citadel) (4)
@@ -191,7 +191,6 @@
 - [Fiserv](#fiserv) (2)
 - [Five Rings](#five-rings) (1)
 - [Fizz](#fizz) (1)
-- [FNBO](#fnbo) (1)
 - [Formlabs](#formlabs) (4)
 - [Fortinet](#fortinet) (2)
 - [Fortive](#fortive) (1)
@@ -208,7 +207,7 @@
 - [General Motors](#general-motors) (2)
 - [GenScript](#genscript) (1)
 - [Genworth](#genworth) (1)
-- [Geotab](#geotab) (7)
+- [Geotab](#geotab) (6)
 - [Gimlet Labs](#gimlet-labs) (1)
 - [Ginkgo Bioworks](#ginkgo-bioworks) (2)
 - [GitHub](#github) (1)
@@ -281,7 +280,6 @@
 - [KLA](#kla) (2)
 - [Kodiak Robotics](#kodiak-robotics) (2)
 - [Kognitos](#kognitos) (1)
-- [Kong](#kong) (1)
 - [Kudu Dynamics](#kudu-dynamics) (1)
 - [L3Harris Technologies](#l3harris-technologies) (1)
 - [Labelbox](#labelbox) (1)
@@ -341,7 +339,7 @@
 - [Nintendo](#nintendo) (1)
 - [Nio](#nio) (2)
 - [Nissan Global](#nissan-global) (1)
-- [Nokia](#nokia) (19)
+- [Nokia](#nokia) (17)
 - [Northwestern Mutual](#northwestern-mutual) (2)
 - [Notion](#notion) (5)
 - [Nuro](#nuro) (2)
@@ -379,7 +377,6 @@
 - [Podium](#podium) (2)
 - [Point72](#point72) (22)
 - [Poshmark](#poshmark) (1)
-- [Premier Automation](#premier-automation) (1)
 - [Primetals Technologies](#primetals-technologies) (2)
 - [Prior Labs](#prior-labs) (1)
 - [Prologis](#prologis) (1)
@@ -491,11 +488,11 @@
 - [Trimble](#trimble) (1)
 - [TripleRing](#triplering) (1)
 - [Truveta](#truveta) (1)
-- [Twilio](#twilio) (2)
+- [Twilio](#twilio) (1)
 - [Uber](#uber) (1)
 - [Uncountable](#uncountable) (1)
 - [Unity](#unity) (1)
-- [University System of New Hampshire](#university-system-of-new-hampshire) (2)
+- [University System of New Hampshire](#university-system-of-new-hampshire) (1)
 - [Vanguard](#vanguard) (1)
 - [Varda Space](#varda-space) (2)
 - [Veeam Software](#veeam-software) (2)
@@ -1240,14 +1237,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Hardware Design and Verification Intern - Printed Circuit Board Assembly](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware--PCBA--Design-and-Verification-Intern_R031027) | 58 | Ottawa, ON, Canada | Hardware | 2026-05-27 |
-| [FPGA Development Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/FPGA-Development-Intern--Fall-2026---4-8-months-_R030894) | 58 | Atlanta, GA | Hardware | 2026-05-26 |
 
 ## Cirrus Logic
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [AI Solutions Intern](https://jobs.eu.lever.co/cirrus/08d5aa55-2c11-4bab-896c-555067005e73/apply) | 68 | Edinburgh, UK | AI/ML/Data | 2026-05-27 |
-| [Software Engineer Intern - Software Developer - AI & Test Data Analysis](https://jobs.eu.lever.co/cirrus/95f2af3d-6153-4bf4-aae7-4932769fb84b/apply) | 93 | Austin, TX | AI/ML/Data | 2026-05-23 |
 | [Analog/Mixed-Signal Verification Intern Co-op](https://jobs.eu.lever.co/cirrus/a0ee59a9-cfce-410a-b182-459a5da9ba95/apply) | 58 | Austin, TX | Hardware | 2026-05-09 |
 
 ## Cisco
@@ -1829,12 +1824,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern - Multiple Teams](https://jobs.ashbyhq.com/fizz/c33b0bb7-d87f-4666-8622-36604fe10b20/application) | 68 | NYC | Software | 2026-05-09 |
 
-## FNBO
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Analytics Intern - Data Analytics](https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Internship---Data-Analytics--Omaha--NE-_R-20260931) | 68 | Omaha, NE | AI/ML/Data | 2026-05-27 |
-
 ## Formlabs
 
 | Title | Score | Location | Department | First seen |
@@ -1951,7 +1940,6 @@
 | [Software Developer Intern - Multiple Teams](https://job-boards.greenhouse.io/internshiplist2000/jobs/5184158008) | 93 | Toronto, ON, Canada / Oakville, ON, Canada / Kitchener, ON, Canada | Software | 2026-05-14 |
 | [Software Developer Intern - Prism](https://job-boards.greenhouse.io/internshiplist2000/jobs/5138225008) | 93 | Toronto, ON, Canada / Kitchener, ON, Canada | Software | 2026-05-14 |
 | [Vehicle Systems Engineering Intern](https://job-boards.greenhouse.io/geotab/jobs/5140749008) | 58 | High Wycombe, UK | Hardware | 2026-05-11 |
-| [Mobile Developer Intern](https://job-boards.greenhouse.io/internshiplist2000/jobs/5179078008) | 93 | Oakville, ON, Canada / Kitchener, ON, Canada | Software | 2026-05-09 |
 | [Software Developer Intern](https://job-boards.greenhouse.io/internshiplist2000/jobs/5153686008) | 93 | Toronto, ON, Canada / Oakville, ON, Canada / Kitchener, ON, Canada | Software | 2026-05-09 |
 | [Product Coordinator Intern - Summer/May 2026 - 8 Months](https://job-boards.greenhouse.io/internshiplist2000/jobs/5019374008) | 58 | Toronto, ON, Canada / Oakville, ON, Canada / Kitchener, ON, Canada | Product | 2026-05-09 |
 
@@ -2425,12 +2413,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern - AI-Native](https://jobs.ashbyhq.com/Kognitos/a3c5bd4c-f6fb-4eb0-b943-e0e1a1d878c5/application) | 93 | San Jose, CA | Software | 2026-05-09 |
-
-## Kong
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Intern](https://jobs.ashbyhq.com/kong/62c40a30-88e8-4254-b4bb-bd16fb9cb805/application) | 68 | United States | AI/ML/Data | 2026-06-01 |
 
 ## Kudu Dynamics
 
@@ -2912,11 +2894,9 @@
 | [Summer Research Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28139) | 60 | United Kingdom | AI/ML/Data | 2026-05-09 |
 | [Tools and Automation SW Dev Intern/Co-op](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34606) | 60 | Ottawa, ON, Canada | Software | 2026-05-09 |
 | [DSP Firmware Engineering Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34226) | 50 | Ottawa, ON, Canada | Hardware | 2026-05-09 |
-| [Electronics Component Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34230) | 50 | Ottawa, ON, Canada | Hardware | 2026-05-09 |
 | [Hardware Developer Engineer Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34231) | 50 | Ottawa, ON, Canada | Hardware | 2026-05-09 |
 | [Hardware Development Intern/Co-op](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/33958) | 50 | Berkeley Heights, NJ | Hardware | 2026-05-09 |
 | [Hardware Engineer Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34232) | 50 | Ottawa, ON, Canada | Hardware | 2026-05-09 |
-| [HW/SW Integration Engineer Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35362) | 50 | Ottawa, ON, Canada | Hardware | 2026-05-09 |
 | [Optical Test Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35283) | 50 | Ottawa, ON, Canada | Hardware | 2026-05-09 |
 
 ## Northwestern Mutual
@@ -3221,12 +3201,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Cloud Platform Engineer Intern, Growth](https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa) | 93 | Redwood City, CA | — | 2026-05-09 |
-
-## Premier Automation
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software / Computer Science Intern](https://job-boards.greenhouse.io/premierautomation/jobs/5216022008) | 68 | Monroeville, PA | Software | 2026-05-19 |
 
 ## Primetals Technologies
 
@@ -3732,8 +3706,8 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [PhD Data Scientist Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | Seattle, WA / SF / Chicago, IL / NYC | AI/ML/Data | 2026-05-09 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | 56 | Mexico City, Mexico | — | 2026-05-06 |
@@ -4153,7 +4127,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Go-to-market Analyst Intern (June 22nd start, 12 weeks)](https://job-boards.greenhouse.io/twilio/jobs/7823588) | 58 | Remote - US | — | 2026-05-06 |
 | [Graphic Design Intern (June 22nd start, 12 weeks)](https://job-boards.greenhouse.io/twilio/jobs/7835625) | 58 | Remote - US | — | 2026-05-06 |
 
 ## Uber
@@ -4178,7 +4151,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [IP Hightech Bound Intern](https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/IOL-IP-HighTech-Bound-Intern_JR8063) | 68 | Dover, NH | Software | 2026-06-01 |
 | [Technician Intern](https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Technician-Intern_JR2342-1) | 58 | Dover, NH | Hardware | 2026-05-09 |
 
 ## Vanguard
@@ -4409,7 +4381,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://job-boards.greenhouse.io/xometry/jobs/5007635007) | 93 | North Bethesda, MD / Waltham, MA | Software | 2026-05-09 |
+| [Software Engineer Intern](https://job-boards.greenhouse.io/xometry/jobs/5007634007) | 93 | North Bethesda, MD / Waltham, MA | Software | 2026-05-09 |
 
 ## XPENG Motors
 
