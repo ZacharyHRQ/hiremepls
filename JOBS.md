@@ -1,6 +1,6 @@
 # Open Internships
 
-**1263** internships across **63/64** companies — last updated 2026-06-02.
+**1262** internships across **63/64** companies — last updated 2026-06-02.
 
 ## Companies
 
@@ -215,7 +215,6 @@
 - [Gimlet Labs](#gimlet-labs) (1)
 - [Ginkgo Bioworks](#ginkgo-bioworks) (2)
 - [GitHub](#github) (1)
-- [Givelify](#givelify) (1)
 - [Glydways](#glydways) (1)
 - [GoMaterials](#gomaterials) (1)
 - [Gr0](#gr0) (1)
@@ -2000,12 +1999,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](https://githubinc.jibeapply.com/jobs/4640) | 60 | Remote in USA | Software Engineering | 2026-05-09 |
 
-## Givelify
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineering Intern](https://www.givelify.com/about-us/careers/job-openings/?gh_jid=8466071002) | 60 | Remote in USA / Remote in Canada | Software | 2026-05-09 |
-
 ## Glydways
 
 | Title | Score | Location | Department | First seen |
@@ -2232,8 +2225,8 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Hardware Machine Learning PhD Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, IL | AI/ML/Data | 2026-05-09 |
-| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
+| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
 | [Hardware Machine Learning PhD Research Internship](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, United States | — | 2026-05-06 |
 | [Graduate Floor Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4786701101) | 64 | Chicago, United States; Miami, United States; New York, United States; Philadelphia, United States; San Francisco, United States | — | 2026-05-06 |
 | [Graduate Site Reliability Engineer, 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4540358101) | 64 | Sydney,  Australia | — | 2026-05-06 |
@@ -3780,8 +3773,8 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [PhD Data Scientist Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | Seattle, WA / SF / Chicago, IL / NYC | AI/ML/Data | 2026-05-09 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | 56 | Mexico City, Mexico | — | 2026-05-06 |

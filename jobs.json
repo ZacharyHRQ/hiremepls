@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-02T02:47:13.035Z",
+  "generatedAt": "2026-06-02T07:16:51.877Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1263,
+  "jobCount": 1262,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -454,7 +454,6 @@
     "canonical:13ef7b3725a26041": "2026-05-09T15:28:15.527Z",
     "canonical:c725fa3620a8c4d9": "2026-05-09T15:28:15.527Z",
     "canonical:ff45606d47f61f48": "2026-05-09T15:28:15.527Z",
-    "canonical:ab3c61ab968de234": "2026-05-09T15:28:15.527Z",
     "canonical:2ea5c1662d1cd6cb": "2026-05-09T15:28:15.527Z",
     "canonical:cb9e60d77115f361": "2026-05-09T15:28:15.527Z",
     "canonical:ca457e3e778795da": "2026-05-09T15:28:15.527Z",
@@ -1375,10 +1374,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1390,10 +1389,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -2080,10 +2079,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2093,10 +2092,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -7656,18 +7655,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:ab3c61ab968de234",
-      "title": "Software Engineering Intern",
-      "url": "https://www.givelify.com/about-us/careers/job-openings/?gh_jid=8466071002",
-      "location": "Remote in USA / Remote in Canada",
-      "department": "Software",
-      "company": "Givelify",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {
