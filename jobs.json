@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-02T19:41:35.106Z",
+  "generatedAt": "2026-06-02T22:11:34.637Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1241,
+  "jobCount": 1239,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -240,7 +240,6 @@
     "canonical:8edc84b959cdb8e7": "2026-05-09T15:28:15.527Z",
     "canonical:4fe0df359147a4a0": "2026-05-09T15:28:15.527Z",
     "canonical:af4717714b8c8cbd": "2026-05-09T15:28:15.527Z",
-    "canonical:dcb0c174f6ae2f59": "2026-05-09T15:28:15.527Z",
     "canonical:37a16e3baf1312a7": "2026-05-09T15:28:15.527Z",
     "canonical:bb0714fc6612e9fd": "2026-05-09T15:28:15.527Z",
     "canonical:c4e068cb355aaf66": "2026-05-09T15:28:15.527Z",
@@ -271,7 +270,6 @@
     "canonical:d1e84af9152c81c4": "2026-05-09T15:28:15.527Z",
     "canonical:cc0f5ecfa6da9985": "2026-05-09T15:28:15.527Z",
     "canonical:55d80effe44c122f": "2026-05-09T15:28:15.527Z",
-    "canonical:4498d2cb1b9a93bc": "2026-05-09T15:28:15.527Z",
     "canonical:9fe324aefc9cbb4f": "2026-05-13T22:37:04.081Z",
     "canonical:6895e853b6d20f91": "2026-05-09T15:28:15.527Z",
     "canonical:575f09fb283e941a": "2026-05-09T15:28:15.527Z",
@@ -2058,10 +2056,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2071,10 +2069,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -4430,18 +4428,6 @@
       ]
     },
     {
-      "id": "canonical:dcb0c174f6ae2f59",
-      "title": "Research Intern",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556631315",
-      "location": "Montreal, QC, Canada",
-      "department": "AI/ML/Data",
-      "company": "Microsoft",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:37a16e3baf1312a7",
       "title": "Research Intern - AI Frontiers - Reasoning & Agentic Models",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556621824",
@@ -4861,20 +4847,6 @@
       "company": "Waabi",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:4498d2cb1b9a93bc",
-      "title": "Software Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/xometry/jobs/5007634007",
-      "location": "North Bethesda, MD / Waltham, MA",
-      "department": "Software",
-      "company": "Xometry",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]

@@ -1,6 +1,6 @@
 # Open Internships
 
-**1241** internships across **63/64** companies — last updated 2026-06-02.
+**1239** internships across **63/64** companies — last updated 2026-06-02.
 
 ## Companies
 
@@ -323,7 +323,7 @@
 - [Metalenz](#metalenz) (1)
 - [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (4)
 - [Microchip Technology](#microchip-technology) (1)
-- [Microsoft](#microsoft) (53)
+- [Microsoft](#microsoft) (52)
 - [MongoDB](#mongodb) (1)
 - [Monolithic Power Systems](#monolithic-power-systems) (2)
 - [Multiply Labs](#multiply-labs) (2)
@@ -526,7 +526,6 @@
 - [Woven](#woven) (1)
 - [WSP](#wsp) (1)
 - [WTW](#wtw) (1)
-- [Xometry](#xometry) (1)
 - [XPENG Motors](#xpeng-motors) (2)
 - [Zip](#zip) (1)
 - [Zone 5 Technologies](#zone-5-technologies) (1)
@@ -2725,7 +2724,6 @@
 | --- | --- | --- | --- | --- |
 | [Research Intern - Self-Improving AI](https://apply.careers.microsoft.com/careers/job/1970393556867858) | 60 | Cambridge, MA / NYC | AI/ML/Data | 2026-05-19 |
 | [Research Intern](https://apply.careers.microsoft.com/careers/job/1970393556621789) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
-| [Research Intern](https://apply.careers.microsoft.com/careers/job/1970393556631315) | 60 | Montreal, QC, Canada | AI/ML/Data | 2026-05-09 |
 | [Research Intern](https://apply.careers.microsoft.com/careers/job/1970393556641879) | 60 | Hillsboro, OR | AI/ML/Data | 2026-05-09 |
 | [Research Intern - Agentic Programming](https://apply.careers.microsoft.com/careers/job/1970393556750506) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - AI Evaluation and Alignment](https://apply.careers.microsoft.com/careers/job/1970393556735254) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
@@ -3706,8 +3704,8 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [PhD Data Scientist Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | Seattle, WA / SF / Chicago, IL / NYC | AI/ML/Data | 2026-05-09 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | 56 | Mexico City, Mexico | — | 2026-05-06 |
@@ -4376,12 +4374,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Developer Intern](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202600804) | 85 | Dorking, UK | Software | 2026-05-09 |
-
-## Xometry
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://job-boards.greenhouse.io/xometry/jobs/5007634007) | 93 | North Bethesda, MD / Waltham, MA | Software | 2026-05-09 |
 
 ## XPENG Motors
 
