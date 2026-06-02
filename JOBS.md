@@ -1,6 +1,6 @@
 # Open Internships
 
-**1262** internships across **63/64** companies — last updated 2026-06-02.
+**1256** internships across **63/64** companies — last updated 2026-06-02.
 
 ## Companies
 
@@ -9,7 +9,6 @@
 - [AbbVie](#abbvie) (1)
 - [ABC News](#abc-news) (1)
 - [Abundant](#abundant) (1)
-- [Accel Learning](#accel-learning) (1)
 - [AccuWeather](#accuweather) (1)
 - [ACI Worldwide ](#aci-worldwide) (2)
 - [Adobe](#adobe) (4)
@@ -132,7 +131,7 @@
 - [Corning](#corning) (1)
 - [CoStar Group](#costar-group) (1)
 - [Cotiviti](#cotiviti) (5)
-- [Crane Co.](#crane-co) (2)
+- [Crane Co.](#crane-co) (1)
 - [Creatify Lab ](#creatify-lab) (1)
 - [Crest Industries](#crest-industries) (1)
 - [Cresta](#cresta) (2)
@@ -189,7 +188,6 @@
 - [Fanatics](#fanatics) (3)
 - [Federal Home Loan Bank of Indianapolis](#federal-home-loan-bank-of-indianapolis) (1)
 - [Ferrovial](#ferrovial) (1)
-- [FHLBank Topeka](#fhlbank-topeka) (1)
 - [Figure](#figure) (1)
 - [Fiserv](#fiserv) (2)
 - [Five Rings](#five-rings) (1)
@@ -328,7 +326,7 @@
 - [Metalenz](#metalenz) (1)
 - [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (4)
 - [Microchip Technology](#microchip-technology) (1)
-- [Microsoft](#microsoft) (54)
+- [Microsoft](#microsoft) (53)
 - [MongoDB](#mongodb) (1)
 - [Monolithic Power Systems](#monolithic-power-systems) (2)
 - [Multiply Labs](#multiply-labs) (2)
@@ -348,7 +346,7 @@
 - [Northwestern Mutual](#northwestern-mutual) (2)
 - [Notion](#notion) (5)
 - [Nuro](#nuro) (2)
-- [NVIDIA](#nvidia) (9)
+- [NVIDIA](#nvidia) (8)
 - [OCC](#occ) (1)
 - [Octaura](#octaura) (1)
 - [Omnis](#omnis) (1)
@@ -385,7 +383,6 @@
 - [Poshmark](#poshmark) (1)
 - [Premier Automation](#premier-automation) (1)
 - [Primetals Technologies](#primetals-technologies) (2)
-- [Princeton University](#princeton-university) (1)
 - [Prior Labs](#prior-labs) (1)
 - [Prologis](#prologis) (1)
 - [Prosper Funding](#prosper-funding) (1)
@@ -570,12 +567,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern, Research Focused](https://www.workatastartup.com/jobs/94634) | 66 | San Francisco, CA | — | 2026-05-14 |
-
-## Accel Learning
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI Engineer Intern - Intelligent Question Bank Platform](https://jobs.smartrecruiters.com/AccelLearning/744000124752489) | 93 | Union City, NJ | Software | 2026-05-09 |
 
 ## AccuWeather
 
@@ -1454,7 +1445,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Channel Analyst Intern](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/The-Woodlands-Texas/Channel-Analyst-Intern_JR101747) | 68 | The Woodlands, TX | AI/ML/Data | 2026-05-27 |
 | [Software Engineer Intern](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Burbank-California/Software-Engineering-Intern_JR100860) | 93 | Burbank, CA | Software | 2026-05-23 |
 
 ## Creatify Lab 
@@ -1822,12 +1812,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Digital Construction & Data Management Intern](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Austin-TX/Digital-Construction---Data-Management-Intern_JR17433) | 68 | Austin, TX | AI/ML/Data | 2026-05-18 |
-
-## FHLBank Topeka
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Financial Analyst Intern](https://fhlbtopeka.wd1.myworkdayjobs.com/FHLBT/job/Topeka-Kansas/Member-Solutions-Intern_JR100348) | 68 | Topeka, KS | AI/ML/Data | 2026-06-01 |
 
 ## Figure
 
@@ -2225,8 +2209,8 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Hardware Machine Learning PhD Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, IL | AI/ML/Data | 2026-05-09 |
-| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
+| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Hardware Machine Learning PhD Research Internship](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, United States | — | 2026-05-06 |
 | [Graduate Floor Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4786701101) | 64 | Chicago, United States; Miami, United States; New York, United States; Philadelphia, United States; San Francisco, United States | — | 2026-05-06 |
 | [Graduate Site Reliability Engineer, 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4540358101) | 64 | Sydney,  Australia | — | 2026-05-06 |
@@ -2794,7 +2778,6 @@
 | [Research Intern - Computer Vision and Deep Learning](https://apply.careers.microsoft.com/careers/job/1970393556621779) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - Data Systems](https://apply.careers.microsoft.com/careers/job/1970393556621612) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - Deep Learning Group](https://apply.careers.microsoft.com/careers/job/1970393556637090) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
-| [Research Intern - Foundation Models and Agentic Systems](https://apply.careers.microsoft.com/careers/job/1970393556856002) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - Foundations of GenAI](https://apply.careers.microsoft.com/careers/job/1970393556659148) | 60 | NYC | AI/ML/Data | 2026-05-09 |
 | [Research Intern - Gray Systems Lab - Gsl](https://apply.careers.microsoft.com/careers/job/1970393556621621) | 60 | Madison, WI / Redmond, WA / Mountain View, CA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - Hardware/Software Codesign](https://apply.careers.microsoft.com/careers/job/1970393556621833) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
@@ -2976,7 +2959,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [AI and Systems Software Intern - At Scale AI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-Systems-Software-Intern--At-Scale-AI---Fall-2026_JR2018652) | 68 | Santa Clara, CA | Software | 2026-06-01 |
-| [PhD Research Intern - Security and Privacy](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1) | 68 | Santa Clara, CA | AI/ML/Data | 2026-06-01 |
 | [PhD Software Engineer Intern - Decision Intelligence](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522) | 93 | Santa Clara, CA | Hardware | 2026-06-01 |
 | [Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398) | 68 | Santa Clara, CA | AI/ML/Data | 2026-06-01 |
 | [PhD Research Intern - Generative AI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035) | 68 | California / Santa Clara, CA / United States | AI/ML/Data | 2026-06-01 |
@@ -3269,12 +3251,6 @@
 | --- | --- | --- | --- | --- |
 | [Product Line Management Associate Intern](https://mhicareers.com/job/Orlando-Product-Line-Management-Associate-(Internship)-FL-32809/1389987633/?ats=successfactors) | 50 | Orlando, FL | Product | 2026-05-27 |
 | [Data Science Intern - Data Platforms](https://mhicareers.com/job/Lake-Mary-Data-Science-Internship-(Data-Platforms)-FL-32746/1395217733/?ats=successfactors) | 60 | Lake Mary, FL | AI/ML/Data | 2026-05-19 |
-
-## Princeton University
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Business and Data Intern - Membership Program](https://main-princeton.icims.com/jobs/21888/job?mobile=true&needsRedirect=false) | 60 | Princeton, NJ | AI/ML/Data | 2026-06-01 |
 
 ## Prior Labs
 
