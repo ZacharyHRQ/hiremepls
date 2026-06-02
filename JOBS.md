@@ -1,6 +1,6 @@
 # Open Internships
 
-**1261** internships across **63/64** companies — last updated 2026-06-01.
+**1263** internships across **63/64** companies — last updated 2026-06-02.
 
 ## Companies
 
@@ -225,7 +225,6 @@
 - [GSA Capital](#gsa-capital) (2)
 - [Guidewire](#guidewire) (1)
 - [H&CO](#h-co) (1)
-- [Hadrian](#hadrian) (1)
 - [Haize Labs](#haize-labs) (1)
 - [Harris Computer](#harris-computer) (1)
 - [Harvard University](#harvard-university) (1)
@@ -278,6 +277,7 @@
 - [Kaiser Permanente](#kaiser-permanente) (2)
 - [KBR](#kbr) (3)
 - [Kelso Industries](#kelso-industries) (1)
+- [Ken Garff Auto Group](#ken-garff-auto-group) (1)
 - [Keystone AI](#keystone-ai) (1)
 - [KION Group](#kion-group) (4)
 - [Kioxia](#kioxia) (1)
@@ -285,7 +285,7 @@
 - [KLA](#kla) (2)
 - [Kodiak Robotics](#kodiak-robotics) (2)
 - [Kognitos](#kognitos) (1)
-- [Kong](#kong) (2)
+- [Kong](#kong) (1)
 - [Kudu Dynamics](#kudu-dynamics) (1)
 - [L3Harris Technologies](#l3harris-technologies) (1)
 - [Labelbox](#labelbox) (1)
@@ -293,6 +293,7 @@
 - [Landis+Gyr](#landis-gyr) (1)
 - [Layup Parts](#layup-parts) (1)
 - [LegalZoom](#legalzoom) (1)
+- [Leidos](#leidos) (3)
 - [Lensa](#lensa) (3)
 - [Level AI](#level-ai) (1)
 - [LinkedIn](#linkedin) (3)
@@ -321,7 +322,7 @@
 - [Medpace, Inc.](#medpace-inc) (4)
 - [Melotech](#melotech) (3)
 - [Menasha Corporation](#menasha-corporation) (1)
-- [Mercedes-Benz](#mercedes-benz) (2)
+- [Mercedes-Benz](#mercedes-benz) (3)
 - [Mercor](#mercor) (1)
 - [Meshy](#meshy) (1)
 - [Meta](#meta) (17)
@@ -484,7 +485,7 @@
 - [The Exploration Company](#the-exploration-company) (1)
 - [The State Bar of California](#the-state-bar-of-california) (1)
 - [The Trade Desk](#the-trade-desk) (1)
-- [TikTok](#tiktok) (119)
+- [TikTok](#tiktok) (118)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
 - [Token Metrics](#token-metrics) (2)
@@ -495,7 +496,6 @@
 - [Trata](#trata) (1)
 - [Trimble](#trimble) (1)
 - [TripleRing](#triplering) (1)
-- [True Anomaly](#true-anomaly) (1)
 - [Truveta](#truveta) (1)
 - [Twilio](#twilio) (2)
 - [Uber](#uber) (1)
@@ -507,6 +507,7 @@
 - [Veeam Software](#veeam-software) (2)
 - [Veeva](#veeva) (1)
 - [Veeva Systems](#veeva-systems) (1)
+- [Veolia](#veolia) (1)
 - [Vera Bradley](#vera-bradley) (1)
 - [Vera Institute of Justice](#vera-institute-of-justice) (1)
 - [Verisk](#verisk) (1)
@@ -2060,12 +2061,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Development Intern](https://career41.sapsf.com/career?career_ns=job_listing&company=hcollp&career_job_req_id=3507) | 60 | Coral Gables, FL | — | 2026-05-09 |
 
-## Hadrian
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://jobs.ashbyhq.com/hadrian-automation/ce93d8e7-00c9-4fdf-9623-e4f6f25d92d6/application) | 93 | LA | Software | 2026-05-16 |
-
 ## Haize Labs
 
 | Title | Score | Location | Department | First seen |
@@ -2409,6 +2404,12 @@
 | --- | --- | --- | --- | --- |
 | [Web Development & Digital Marketing Intern](https://kelso-industries.com/careers/?gh_jid=5217351008#job-board) | 40 | Salt Lake City, UT / Draper, UT | Software | 2026-05-14 |
 
+## Ken Garff Auto Group
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://kengarff.wd1.myworkdayjobs.com/external_site/job/Garff-Enterprises-Corporate-Office---Salt-Lake-City-UT/Software-Engineering-Intern--Part-Time-_R0042587) | 93 | Salt Lake City, UT | Software | 2026-06-02 |
+
 ## Keystone AI
 
 | Title | Score | Location | Department | First seen |
@@ -2461,7 +2462,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [AI Enablement Specialist Intern](https://jobs.ashbyhq.com/kong/1de58755-b134-4223-9caf-54ee7f376a5b/application) | 68 | Remote in USA | Software | 2026-06-01 |
 | [Data Intern](https://jobs.ashbyhq.com/kong/62c40a30-88e8-4254-b4bb-bd16fb9cb805/application) | 68 | United States | AI/ML/Data | 2026-06-01 |
 
 ## Kudu Dynamics
@@ -2507,6 +2507,14 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [AI Enablement Engineer Intern](https://jobs.jobvite.com/legalzoom/job/oRCaAfwX?nl=1&nl=1&fr=false) | 85 | LA / Mountain View, CA | Software | 2026-05-28 |
+
+## Leidos
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [System Engineer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/System-Engineer-Intern_R-00182989) | 93 | Reston, VA | Software | 2026-06-02 |
+| [Artificial Intelligence, Machine Learning Observability Intern](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-ML-Observability-Intern_R-00178279) | 68 | Remote in USA | AI/ML/Data | 2026-06-02 |
+| [Data Architecture and Governance Intern](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Data-Architecture-and-Governance-Intern_R-00184376) | 68 | Remote in USA | AI/ML/Data | 2026-06-02 |
 
 ## Lensa
 
@@ -2704,6 +2712,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [On-Board Diagnostics Certification & Compliance Intern](https://jobs.lever.co/MBRDNA/81fa8d12-0b79-4f9c-8665-ecd7cf7e2c79/apply) | 68 | Long Beach, CA | AI/ML/Data | 2026-06-02 |
 | [OBD Certification & Compliance Intern](https://jobs.lever.co/MBRDNA/8c461c13-0cfc-461b-bc2d-dc2dfed92581/apply) | 68 | Ann Arbor, MI | AI/ML/Data | 2026-05-28 |
 | [Software Developer Intern](https://jobs.lever.co/MBRDNA/bf597528-079f-47a1-965f-def393590f02/apply) | 93 | San Jose, CA | Software | 2026-05-09 |
 
@@ -3771,8 +3780,8 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [PhD Data Scientist Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | Seattle, WA / SF / Chicago, IL / NYC | AI/ML/Data | 2026-05-09 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | 56 | Mexico City, Mexico | — | 2026-05-06 |
@@ -4106,7 +4115,6 @@
 | [Product Manager Intern - TikTok Product Content Ecosystem - BS/MS](https://lifeattiktok.com/search/7611679957136574773) | 50 | San Jose, CA | Product | 2026-05-09 |
 | [Product Manager Intern - Tiktok Shop Apps and API](https://lifeattiktok.com/search/7532187133094054162) | 50 | Seattle, WA | Product | 2026-05-09 |
 | [Product Manager Project Intern](https://lifeattiktok.com/search/7620569902743406901) | 50 | San Jose, CA | Product | 2026-05-09 |
-| [Product Manager Project Intern - Brand Effectiveness - Monetization Product](https://lifeattiktok.com/search/7628994830705871157) | 50 | San Jose, CA | Product | 2026-05-09 |
 | [Product Manager Project Intern - Tiktok LIVE-Ecosystem Governance - 2026 Start](https://lifeattiktok.com/search/7598849238706735365) | 50 | San Jose, CA | Product | 2026-05-09 |
 | [Product Operations Project Intern - Advertising - Creative](https://lifeattiktok.com/search/7630838458010241333) | 50 | London, UK | Product | 2026-05-09 |
 | [Product Strategist Intern - Global Monetization Product and Technology - 2026 Summer - MBA](https://lifeattiktok.com/search/7566369771879958789) | 50 | San Jose, CA | Product | 2026-05-09 |
@@ -4183,12 +4191,6 @@
 | --- | --- | --- | --- | --- |
 | [Data Scientist Intern](https://www.tripleringtech.com/careers?gh_jid=4680998005) | 85 | Boston, MA | AI/ML/Data | 2026-05-09 |
 
-## True Anomaly
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Flight Software Intern](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5047530007) | 68 | Long Beach, CA / Denver, CO | Hardware | 2026-05-09 |
-
 ## Truveta
 
 | Title | Score | Location | Department | First seen |
@@ -4258,6 +4260,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer in Test Intern](https://jobs.lever.co/veeva/02b4428c-240e-456a-80d2-59ef8e6a013c/apply) | 93 | Toronto, ON, Canada | Software | 2026-05-09 |
+
+## Veolia
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Firmware Engineer Intern](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000129605801) | 83 | Montreal, QC, Canada | Hardware | 2026-06-02 |
 
 ## Vera Bradley
 

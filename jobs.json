@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-01T23:55:48.935Z",
+  "generatedAt": "2026-06-02T02:47:13.035Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1261,
+  "jobCount": 1263,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -364,7 +364,6 @@
     "canonical:191ce2806ad79430": "2026-05-09T15:28:15.527Z",
     "canonical:ec6f178e215cef02": "2026-05-09T15:28:15.527Z",
     "canonical:c0c4a7800f6ca7ad": "2026-05-09T15:28:15.527Z",
-    "canonical:9f928cad3b59badd": "2026-05-09T15:28:15.527Z",
     "canonical:a626a3499a49301e": "2026-05-09T15:28:15.527Z",
     "canonical:68999760a35484d1": "2026-05-09T15:28:15.527Z",
     "canonical:e0b27269ac8c200b": "2026-05-09T15:28:15.527Z",
@@ -603,7 +602,6 @@
     "canonical:e8f8acb3e1ee5857": "2026-05-09T15:28:15.527Z",
     "canonical:e5b7fab3e0bff565": "2026-05-09T15:28:15.527Z",
     "canonical:875860d7eb0edefe": "2026-05-09T15:28:15.527Z",
-    "canonical:586aa45bcfcf0141": "2026-05-09T15:28:15.527Z",
     "canonical:954e64ba75aa0636": "2026-05-09T15:28:15.527Z",
     "canonical:057efbf85e60e686": "2026-05-09T15:28:15.527Z",
     "canonical:ae37458b8cb9ad0d": "2026-05-09T15:28:15.527Z",
@@ -765,7 +763,6 @@
     "canonical:6cfe7d316f2c2834": "2026-05-15T23:35:38.383Z",
     "canonical:59ac07a13d6c8bf7": "2026-05-15T23:35:38.383Z",
     "canonical:f37bc45fd732af97": "2026-05-15T23:35:38.383Z",
-    "canonical:fb076f3b186b4a11": "2026-05-16T01:23:11.435Z",
     "canonical:47a58dc4b6e43e69": "2026-05-16T04:46:03.679Z",
     "canonical:4265c7d75354f106": "2026-05-16T08:58:52.526Z",
     "canonical:28c2d7cab3607025": "2026-05-09T15:28:15.527Z",
@@ -1259,12 +1256,17 @@
     "canonical:a9d082295ded9887": "2026-06-01T23:55:48.935Z",
     "canonical:13e1acc0b159fe16": "2026-06-01T23:55:48.935Z",
     "canonical:eb32a9c39396f141": "2026-06-01T23:55:48.935Z",
-    "canonical:26a2ef5e1e1e4873": "2026-06-01T23:55:48.935Z",
     "canonical:250f97c46eab1e7b": "2026-06-01T23:55:48.935Z",
     "canonical:4d53d98827cc1de5": "2026-06-01T23:55:48.935Z",
     "canonical:8e188db5da0c13d5": "2026-06-01T23:55:48.935Z",
     "canonical:e6905e9f3851fddf": "2026-06-01T23:55:48.935Z",
-    "canonical:d1f346dfbfc27dca": "2026-06-01T23:55:48.935Z"
+    "canonical:d1f346dfbfc27dca": "2026-06-01T23:55:48.935Z",
+    "canonical:199eb23c208d8dfb": "2026-06-02T02:47:13.035Z",
+    "canonical:546d2df3d841de6a": "2026-06-02T02:47:13.035Z",
+    "canonical:de3b97b24f3f4ac3": "2026-06-02T02:47:13.035Z",
+    "canonical:abfb7e80107db234": "2026-06-02T02:47:13.035Z",
+    "canonical:1013178cb7a4ad25": "2026-06-02T02:47:13.035Z",
+    "canonical:821c072785006f00": "2026-06-02T02:47:13.035Z"
   },
   "jobs": [
     {
@@ -2078,10 +2080,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2091,10 +2093,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -6222,19 +6224,6 @@
       ]
     },
     {
-      "id": "canonical:9f928cad3b59badd",
-      "title": "Flight Software Intern",
-      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5047530007",
-      "location": "Long Beach, CA / Denver, CO",
-      "department": "Hardware",
-      "company": "True Anomaly",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:7ffa9dc09a6c8ef4",
       "title": "Research Intern - Video World Models",
       "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Research-Intern---Video-World-Models_R106904-1",
@@ -9864,16 +9853,6 @@
       ]
     },
     {
-      "id": "canonical:586aa45bcfcf0141",
-      "title": "Product Manager Project Intern - Brand Effectiveness - Monetization Product",
-      "url": "https://lifeattiktok.com/search/7628994830705871157",
-      "location": "San Jose, CA",
-      "department": "Product",
-      "company": "TikTok",
-      "score": 50,
-      "scoreReasons": []
-    },
-    {
       "id": "canonical:954e64ba75aa0636",
       "title": "Wireless Sensing Research Intern",
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000121477597",
@@ -12231,20 +12210,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:fb076f3b186b4a11",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/hadrian-automation/ce93d8e7-00c9-4fdf-9623-e4f6f25d92d6/application",
-      "location": "LA",
-      "department": "Software",
-      "company": "Hadrian",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -14945,19 +14910,6 @@
       ]
     },
     {
-      "id": "canonical:26a2ef5e1e1e4873",
-      "title": "AI Enablement Specialist Intern",
-      "url": "https://jobs.ashbyhq.com/kong/1de58755-b134-4223-9caf-54ee7f376a5b/application",
-      "location": "Remote in USA",
-      "department": "Software",
-      "company": "Kong",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:250f97c46eab1e7b",
       "title": "AI for Drug Discovery Intern - Frontier Research - Prescient Design','AI for Drug Discovery",
       "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Fall-Intern---Frontier-Research--Prescient-Design--AI-for-Drug-Discovery-_202605-113632",
@@ -15022,6 +14974,86 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:199eb23c208d8dfb",
+      "title": "Firmware Engineer Intern",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000129605801",
+      "location": "Montreal, QC, Canada",
+      "department": "Hardware",
+      "company": "Veolia",
+      "score": 83,
+      "scoreReasons": [
+        "SWE-aligned",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:546d2df3d841de6a",
+      "title": "Software Engineer Intern",
+      "url": "https://kengarff.wd1.myworkdayjobs.com/external_site/job/Garff-Enterprises-Corporate-Office---Salt-Lake-City-UT/Software-Engineering-Intern--Part-Time-_R0042587",
+      "location": "Salt Lake City, UT",
+      "department": "Software",
+      "company": "Ken Garff Auto Group",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:de3b97b24f3f4ac3",
+      "title": "Data Architecture and Governance Intern",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Data-Architecture-and-Governance-Intern_R-00184376",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "Leidos",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:abfb7e80107db234",
+      "title": "On-Board Diagnostics Certification & Compliance Intern",
+      "url": "https://jobs.lever.co/MBRDNA/81fa8d12-0b79-4f9c-8665-ecd7cf7e2c79/apply",
+      "location": "Long Beach, CA",
+      "department": "AI/ML/Data",
+      "company": "Mercedes-Benz",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1013178cb7a4ad25",
+      "title": "System Engineer Intern",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/System-Engineer-Intern_R-00182989",
+      "location": "Reston, VA",
+      "department": "Software",
+      "company": "Leidos",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:821c072785006f00",
+      "title": "Artificial Intelligence, Machine Learning Observability Intern",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-ML-Observability-Intern_R-00178279",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "Leidos",
+      "score": 68,
+      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
