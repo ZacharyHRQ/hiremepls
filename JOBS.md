@@ -1,6 +1,6 @@
 # Open Internships
 
-**1256** internships across **63/64** companies — last updated 2026-06-02.
+**1251** internships across **63/64** companies — last updated 2026-06-02.
 
 ## Companies
 
@@ -27,7 +27,6 @@
 - [Amazon](#amazon) (14)
 - [Ambarella](#ambarella) (2)
 - [American Enterprise Institute](#american-enterprise-institute) (1)
-- [Analytical Mechanics Associates](#analytical-mechanics-associates) (1)
 - [Anima](#anima) (1)
 - [Anterior](#anterior) (1)
 - [AnySignal](#anysignal) (1)
@@ -113,7 +112,7 @@
 - [Citadel](#citadel) (4)
 - [Citadel Securities](#citadel-securities) (3)
 - [Clarivate](#clarivate) (1)
-- [Cloudflare](#cloudflare) (19)
+- [Cloudflare](#cloudflare) (18)
 - [Cloudforce](#cloudforce) (2)
 - [CME Group](#cme-group) (1)
 - [Codeage](#codeage) (1)
@@ -213,8 +212,8 @@
 - [Gimlet Labs](#gimlet-labs) (1)
 - [Ginkgo Bioworks](#ginkgo-bioworks) (2)
 - [GitHub](#github) (1)
+- [Givelify](#givelify) (1)
 - [Glydways](#glydways) (1)
-- [GoMaterials](#gomaterials) (1)
 - [Gr0](#gr0) (1)
 - [Great Question](#great-question) (1)
 - [Green Planet Solutions](#green-planet-solutions) (1)
@@ -290,7 +289,7 @@
 - [Landis+Gyr](#landis-gyr) (1)
 - [Layup Parts](#layup-parts) (1)
 - [LegalZoom](#legalzoom) (1)
-- [Leidos](#leidos) (3)
+- [Leidos](#leidos) (1)
 - [Lensa](#lensa) (3)
 - [Level AI](#level-ai) (1)
 - [LinkedIn](#linkedin) (3)
@@ -352,7 +351,6 @@
 - [Omnis](#omnis) (1)
 - [OmniSource](#omnisource) (1)
 - [onsemi](#onsemi) (3)
-- [Onto Innovation](#onto-innovation) (1)
 - [Optiver](#optiver) (1)
 - [OpusClip](#opusclip) (2)
 - [Oracle](#oracle) (8)
@@ -696,12 +694,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Housing Center Intern](https://internships-aei.icims.com/jobs/2614/job?mobile=true&needsRedirect=false) | 60 | Washington, DC | AI/ML/Data | 2026-05-27 |
-
-## Analytical Mechanics Associates
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Oceanographic Lidar Remote Sensing and Field Campaign Internship](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/Oceanographic-Lidar-Remote-Sensing-and-Field-Campaign-Internship_R-100576) | 68 | Hampton, VA | AI/ML/Data | 2026-05-17 |
 
 ## Anima
 
@@ -1311,13 +1303,12 @@
 | [People Operations Intern (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7855832?gh_jid=7855832) | 58 | In-Office | — | 2026-05-06 |
 | [People Team Business Partner intern (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7855864?gh_jid=7855864) | 58 | In-Office | — | 2026-05-06 |
 | [Public Policy Intern, APJC (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7863831?gh_jid=7863831) | 58 | In-Office | — | 2026-05-06 |
-| [Technical Support Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7726977?gh_jid=7726977) | 58 | In-Office | — | 2026-05-06 |
+| [Technical Support Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879) | 58 | In-Office | — | 2026-05-06 |
 | [Threat Detection and Incident Response Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7577205?gh_jid=7577205) | 58 | In-Office | — | 2026-05-06 |
 | [Business Analyst Intern, Marketing (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7729700?gh_jid=7729700) | 38 | In-Office | — | 2026-05-06 |
 | [Developer GTM Intern – Enterprise Sales & AI Automation (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7789256?gh_jid=7789256) | 38 | In-Office | — | 2026-05-06 |
 | [Marketing: AI Discoverability & Optimization Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7729719?gh_jid=7729719) | 38 | In-Office | — | 2026-05-06 |
 | [Sales: Solutions Engineer - Intern (Summer & Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7792962?gh_jid=7792962) | 38 | In-Office | — | 2026-05-06 |
-| [Technical Marketing Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7733496?gh_jid=7733496) | 38 | In-Office | — | 2026-05-06 |
 
 ## Cloudforce
 
@@ -1983,17 +1974,17 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](https://githubinc.jibeapply.com/jobs/4640) | 60 | Remote in USA | Software Engineering | 2026-05-09 |
 
+## Givelify
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineering Intern](https://www.givelify.com/about-us/careers/job-openings/?gh_jid=8466071002) | 60 | Remote in USA / Remote in Canada | Software | 2026-06-02 |
+
 ## Glydways
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Perception Software Engineering Intern](https://job-boards.greenhouse.io/glydways/jobs/5082217007) | 68 | Remote in USA | AI/ML/Data | 2026-05-09 |
-
-## GoMaterials
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Product & AI Enablement Intern - Summer 2026](https://jobs.lever.co/gomaterials/dd1e004f-09d5-401e-906b-3b605dc6f0ca/apply) | 58 | Montreal, QC, Canada | Product | 2026-05-09 |
 
 ## Gr0
 
@@ -2489,8 +2480,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [System Engineer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/System-Engineer-Intern_R-00182989) | 93 | Reston, VA | Software | 2026-06-02 |
-| [Artificial Intelligence, Machine Learning Observability Intern](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-ML-Observability-Intern_R-00178279) | 68 | Remote in USA | AI/ML/Data | 2026-06-02 |
 | [Data Architecture and Governance Intern](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Data-Architecture-and-Governance-Intern_R-00184376) | 68 | Remote in USA | AI/ML/Data | 2026-06-02 |
 
 ## Lensa
@@ -2998,12 +2987,6 @@
 | [Electrical Device Characterization Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505101) | 50 | San Jose, CA | Hardware | 2026-05-27 |
 | [LLM Research Intern: Physics-AI-Powered Analysis of Atomistic Systems](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2503970) | 60 | Fairview, OR | AI/ML/Data | 2026-05-09 |
 | [Quality and Reliability Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2503669) | 60 | Allen, TX | AI/ML/Data | 2026-05-09 |
-
-## Onto Innovation
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Configuration & Release Engineer Intern](https://onto.wd1.myworkdayjobs.com/onto_careers/job/Milpitas-CA/Configuration---Release-Engineer-Internship_R-5851) | 93 | Milpitas, CA | AI/ML/Data | 2026-05-26 |
 
 ## Optiver
 

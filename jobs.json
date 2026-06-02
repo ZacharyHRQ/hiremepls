@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-02T11:47:44.662Z",
+  "generatedAt": "2026-06-02T15:59:08.147Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1256,
+  "jobCount": 1251,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -81,7 +81,6 @@
     "canonical:864b184043940577": "2026-05-06T06:42:07.596Z",
     "canonical:accc7acdf5c4229f": "2026-05-06T06:42:07.596Z",
     "canonical:7a2fd240cea729fb": "2026-05-15T16:23:09.152Z",
-    "canonical:675b11d892979b2e": "2026-05-06T06:42:07.596Z",
     "canonical:9db8469f111d27a7": "2026-05-13T08:10:42.769Z",
     "canonical:31dd1ab15c427f1e": "2026-05-06T06:42:07.596Z",
     "canonical:94acd2d1087ef9dd": "2026-05-06T06:42:07.596Z",
@@ -310,7 +309,6 @@
     "canonical:ccddcbe6e9b8776f": "2026-05-09T15:28:15.527Z",
     "canonical:d45a9c64eaa6a959": "2026-05-09T15:28:15.527Z",
     "canonical:1b14f6d1b461dfa6": "2026-05-09T15:28:15.527Z",
-    "canonical:89f8df1c5fc06be1": "2026-05-09T15:28:15.527Z",
     "canonical:60fe78b324230eaa": "2026-05-09T15:28:15.527Z",
     "canonical:af15c824e5d7badb": "2026-05-11T14:01:48.198Z",
     "canonical:f22c383e84d41e35": "2026-05-09T15:28:15.527Z",
@@ -962,7 +960,6 @@
     "canonical:cabdced545f0edd0": "2026-05-17T07:19:48.510Z",
     "canonical:37e30e2d4ee20e59": "2026-05-17T07:19:48.510Z",
     "canonical:e0ee645062b88839": "2026-05-17T07:19:48.510Z",
-    "canonical:365b670bb514fee3": "2026-05-17T07:19:48.510Z",
     "canonical:5395852a5a431fe6": "2026-05-17T07:19:48.510Z",
     "canonical:120ef9d85630ac7e": "2026-05-17T07:19:48.510Z",
     "canonical:fa9184bcd6e40ca9": "2026-05-17T09:17:39.096Z",
@@ -1094,7 +1091,6 @@
     "canonical:5dac743ae992fe3e": "2026-05-26T22:48:29.543Z",
     "canonical:6ffe5e7cecf12f47": "2026-05-26T23:56:50.661Z",
     "canonical:ae629747d79357a8": "2026-05-26T23:56:50.661Z",
-    "canonical:034ebc76cc18f1b5": "2026-05-26T23:56:50.661Z",
     "canonical:2ffb9525477b9f1d": "2026-05-26T23:56:50.661Z",
     "canonical:9e48847b04dffbf2": "2026-05-27T02:52:54.000Z",
     "canonical:0909350769decf2b": "2026-05-27T02:52:54.000Z",
@@ -1258,8 +1254,7 @@
     "canonical:546d2df3d841de6a": "2026-06-02T02:47:13.035Z",
     "canonical:de3b97b24f3f4ac3": "2026-06-02T02:47:13.035Z",
     "canonical:abfb7e80107db234": "2026-06-02T02:47:13.035Z",
-    "canonical:1013178cb7a4ad25": "2026-06-02T02:47:13.035Z",
-    "canonical:821c072785006f00": "2026-06-02T02:47:13.035Z"
+    "canonical:ab3c61ab968de234": "2026-06-02T15:59:08.147Z"
   },
   "jobs": [
     {
@@ -2448,19 +2443,6 @@
       ]
     },
     {
-      "id": "canonical:675b11d892979b2e",
-      "title": "Technical Marketing Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7733496?gh_jid=7733496",
-      "location": "In-Office",
-      "department": "",
-      "company": "Cloudflare",
-      "score": 38,
-      "scoreReasons": [
-        "direct ATS",
-        "lower-fit title"
-      ]
-    },
-    {
       "id": "canonical:9db8469f111d27a7",
       "title": "Technical Support Engineer Intern (July to December 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7912382?gh_jid=7912382",
@@ -2475,7 +2457,7 @@
     {
       "id": "canonical:31dd1ab15c427f1e",
       "title": "Technical Support Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726977?gh_jid=7726977",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -5367,18 +5349,6 @@
       ]
     },
     {
-      "id": "canonical:89f8df1c5fc06be1",
-      "title": "Product & AI Enablement Intern - Summer 2026",
-      "url": "https://jobs.lever.co/gomaterials/dd1e004f-09d5-401e-906b-3b605dc6f0ca/apply",
-      "location": "Montreal, QC, Canada",
-      "department": "Product",
-      "company": "GoMaterials",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:60fe78b324230eaa",
       "title": "Machine Learning Researcher – PhD Intern - US",
       "url": "https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-us/",
@@ -7649,6 +7619,18 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ab3c61ab968de234",
+      "title": "Software Engineering Intern",
+      "url": "https://www.givelify.com/about-us/careers/job-openings/?gh_jid=8466071002",
+      "location": "Remote in USA / Remote in Canada",
+      "department": "Software",
+      "company": "Givelify",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
       ]
     },
     {
@@ -10428,19 +10410,6 @@
       "location": "SF",
       "department": "Hardware",
       "company": "Astranis",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:365b670bb514fee3",
-      "title": "Oceanographic Lidar Remote Sensing and Field Campaign Internship",
-      "url": "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/Oceanographic-Lidar-Remote-Sensing-and-Field-Campaign-Internship_R-100576",
-      "location": "Hampton, VA",
-      "department": "AI/ML/Data",
-      "company": "Analytical Mechanics Associates",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -13413,20 +13382,6 @@
       ]
     },
     {
-      "id": "canonical:034ebc76cc18f1b5",
-      "title": "Configuration & Release Engineer Intern",
-      "url": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Milpitas-CA/Configuration---Release-Engineer-Internship_R-5851",
-      "location": "Milpitas, CA",
-      "department": "AI/ML/Data",
-      "company": "Onto Innovation",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:2ffb9525477b9f1d",
       "title": "FPGA Associate Intern",
       "url": "https://job-boards.greenhouse.io/astranis/jobs/4677337006",
@@ -14929,33 +14884,6 @@
       "location": "Long Beach, CA",
       "department": "AI/ML/Data",
       "company": "Mercedes-Benz",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:1013178cb7a4ad25",
-      "title": "System Engineer Intern",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/System-Engineer-Intern_R-00182989",
-      "location": "Reston, VA",
-      "department": "Software",
-      "company": "Leidos",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:821c072785006f00",
-      "title": "Artificial Intelligence, Machine Learning Observability Intern",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-ML-Observability-Intern_R-00178279",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "Leidos",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
