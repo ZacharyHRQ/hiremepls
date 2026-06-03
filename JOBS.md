@@ -1,6 +1,6 @@
 # Open Internships
 
-**1255** internships across **63/64** companies — last updated 2026-06-03.
+**1267** internships across **63/64** companies — last updated 2026-06-03.
 
 ## Companies
 
@@ -92,7 +92,7 @@
 - [Brookfield](#brookfield) (1)
 - [Brunswick](#brunswick) (1)
 - [By Light Professional IT Services](#by-light-professional-it-services) (2)
-- [ByteDance](#bytedance) (5)
+- [ByteDance](#bytedance) (18)
 - [Cadence Design Systems](#cadence-design-systems) (3)
 - [CAE](#cae) (1)
 - [Cambridge Mobile Telematics](#cambridge-mobile-telematics) (1)
@@ -110,8 +110,9 @@
 - [Cisive](#cisive) (1)
 - [Citadel](#citadel) (4)
 - [Citadel Securities](#citadel-securities) (3)
+- [City of Largo](#city-of-largo) (1)
 - [Clarivate](#clarivate) (1)
-- [Cloudflare](#cloudflare) (18)
+- [Cloudflare](#cloudflare) (19)
 - [Cloudforce](#cloudforce) (2)
 - [CME Group](#cme-group) (1)
 - [Codeage](#codeage) (1)
@@ -253,6 +254,7 @@
 - [Infojini](#infojini) (1)
 - [Inizio](#inizio) (1)
 - [Instawork](#instawork) (1)
+- [Instead](#instead) (1)
 - [Institute of Foundation Models](#institute-of-foundation-models) (1)
 - [Integra FEC](#integra-fec) (1)
 - [Integrity](#integrity) (1)
@@ -342,7 +344,7 @@
 - [Nintendo](#nintendo) (1)
 - [Nio](#nio) (2)
 - [Nissan Global](#nissan-global) (1)
-- [Nokia](#nokia) (17)
+- [Nokia](#nokia) (16)
 - [Northwestern Mutual](#northwestern-mutual) (2)
 - [Notion](#notion) (5)
 - [Nuro](#nuro) (2)
@@ -354,7 +356,7 @@
 - [onsemi](#onsemi) (3)
 - [Optiver](#optiver) (1)
 - [OpusClip](#opusclip) (2)
-- [Oracle](#oracle) (8)
+- [Oracle](#oracle) (7)
 - [OTR Solutions](#otr-solutions) (1)
 - [Oura](#oura) (1)
 - [Output Biosciences](#output-biosciences) (1)
@@ -448,6 +450,7 @@
 - [Solva](#solva) (1)
 - [Sony](#sony) (3)
 - [SpaceX](#spacex) (3)
+- [Sprinklr](#sprinklr) (1)
 - [Squarepoint Capital](#squarepoint-capital) (7)
 - [SRI International](#sri-international) (1)
 - [SS&C](#ss-c) (2)
@@ -478,14 +481,14 @@
 - [Tenstorrent](#tenstorrent) (7)
 - [Terranox AI](#terranox-ai) (1)
 - [Tesla](#tesla) (25)
-- [Tessera Labs](#tessera-labs) (2)
+- [Tessera Labs](#tessera-labs) (1)
 - [TETRAMEM](#tetramem) (1)
 - [The Boeing Company](#the-boeing-company) (4)
 - [The D. E. Shaw Group](#the-d-e-shaw-group) (1)
 - [The Exploration Company](#the-exploration-company) (1)
 - [The State Bar of California](#the-state-bar-of-california) (1)
 - [The Trade Desk](#the-trade-desk) (1)
-- [TikTok](#tiktok) (116)
+- [TikTok](#tiktok) (114)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
 - [Token Metrics](#token-metrics) (2)
@@ -1163,6 +1166,19 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Machine Learning Engineer Intern - E-commerce Governance Algorithms](https://jobs.bytedance.com/en/position/7535168003103033618/detail) | 85 | Seattle, WA | AI/ML/Data | 2026-06-03 |
+| [Machine Learning Engineer Intern - E-Commerce Knowledge Graph - Computer Vision/Multimodal/Natural Language Processing](https://jobs.bytedance.com/en/position/7543005612200970503/detail) | 85 | Seattle, WA | AI/ML/Data | 2026-06-03 |
+| [Machine Learning Engineer Intern - Global E-commerce Risk Control](https://jobs.bytedance.com/en/position/7535953226975054098/detail) | 85 | Seattle, WA | AI/ML/Data | 2026-06-03 |
+| [Network Software Development Engineer Intern - Network Switch](https://jobs.bytedance.com/en/position/7537117266451171592/detail) | 85 | San Jose, CA | Software | 2026-06-03 |
+| [Research Scientist Intern - Applied Machine Learning-Enterprise](https://jobs.bytedance.com/en/position/7539697151993268488/detail) | 85 | San Jose, CA | AI/ML/Data | 2026-06-03 |
+| [Software Development Engineer Intern - Network Automation](https://jobs.bytedance.com/en/position/7537152240618195208/detail) | 85 | San Jose, CA | Software | 2026-06-03 |
+| [Software Development Engineer Intern - Network Automation](https://jobs.bytedance.com/en/position/7537152632018012424/detail) | 85 | Seattle, WA | Software | 2026-06-03 |
+| [Software Engineer Intern - Applied Machine Learning-Enterprise](https://jobs.bytedance.com/en/position/7533045355162044690/detail) | 85 | San Jose, CA | AI/ML/Data | 2026-06-03 |
+| [Student Researcher Intern](https://jobs.bytedance.com/en/position/7538943251756910856/detail) | 85 | San Jose, CA | AI/ML/Data | 2026-06-03 |
+| [Applied Research Intern - AI Safety Security - Global Tech Research Program](https://jobs.bytedance.com/en/position/7645070235035044101/detail) | 60 | San Jose, CA | AI/ML/Data | 2026-06-03 |
+| [Payment Partnership Project Intern - Global Payment](https://jobs.bytedance.com/en/position/7642450978503641397/detail) | 60 | San Jose, CA | AI/ML/Data | 2026-06-03 |
+| [Research Intern - SDN Traffic Intelligence & Control](https://jobs.bytedance.com/en/position/7537161874254776583/detail) | 60 | Seattle, WA | Software | 2026-06-03 |
+| [Research Intern - SDN Traffic Intelligence & Control](https://jobs.bytedance.com/en/position/7537161497627281682/detail) | 60 | San Jose, CA | Software | 2026-06-03 |
 | [Researcher Intern - Virtual Network](https://jobs.bytedance.com/en/position/7537163899668531474/detail) | 75 | Seattle, WA | Hardware | 2026-06-03 |
 | [Research Intern - AI/LLM Network](https://jobs.bytedance.com/en/position/7539992380817639687/detail) | 60 | Seattle, WA | AI/ML/Data | 2026-06-03 |
 | [Research Intern - AI/LLM Network](https://jobs.bytedance.com/en/position/7539991964504017170/detail) | 60 | San Jose, CA | AI/ML/Data | 2026-06-03 |
@@ -1283,6 +1299,12 @@
 | [Quantitative Researcher Engineer – PhD Intern - Europe](https://www.citadelsecurities.com/careers/details/quantitative-researcher-engineer-phd-intern-europe/) | 85 | London, UK | Quant | 2026-05-09 |
 | [Launch Intern - US](https://www.citadelsecurities.com/careers/details/launch-intern-us/) | 60 | Miami, FL / NYC | Software | 2026-05-09 |
 
+## City of Largo
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Stormwater Intern - Wastewater Management](https://largo.wd1.myworkdayjobs.com/external/job/Largo-City-Hall/Intern---Undergraduate_R-2319) | 68 | Largo, FL | AI/ML/Data | 2026-06-03 |
+
 ## Clarivate
 
 | Title | Score | Location | Department | First seen |
@@ -1293,6 +1315,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern (R&D) - Bengaluru](https://boards.greenhouse.io/cloudflare/jobs/7962695?gh_jid=7962695) | 93 | In-Office | — | 2026-06-03 |
 | [Video and Media Production Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7964856?gh_jid=7964856) | 58 | In-Office | — | 2026-05-29 |
 | [People Team Intern - HR Operations & AI Innovation (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240) | 58 | In-Office | — | 2026-05-20 |
 | [Network Engineering Intern (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7929538?gh_jid=7929538) | 58 | In-Office | — | 2026-05-18 |
@@ -2253,6 +2276,12 @@
 | --- | --- | --- | --- | --- |
 | [Product Operations Intern](https://job-boards.greenhouse.io/instawork/jobs/4588237006) | 58 | Chicago, IL | Product | 2026-05-09 |
 
+## Instead
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://job-boards.greenhouse.io/instead/jobs/7761472003) | 93 | SF | Software | 2026-06-03 |
+
 ## Institute of Foundation Models
 
 | Title | Score | Location | Department | First seen |
@@ -2926,7 +2955,6 @@
 | [Web Developer Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34611) | 85 | Ottawa, ON, Canada | Software | 2026-05-09 |
 | [Data Science Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34327) | 60 | Ottawa, ON, Canada | AI/ML/Data | 2026-05-09 |
 | [IP R&D Lab Technologist Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34806) | 60 | Kanata, Ottawa, ON, Canada | Software | 2026-05-09 |
-| [Summer Research Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28139) | 60 | United Kingdom | AI/ML/Data | 2026-05-09 |
 | [Tools and Automation SW Dev Intern/Co-op](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34606) | 60 | Ottawa, ON, Canada | Software | 2026-05-09 |
 | [DSP Firmware Engineering Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34226) | 50 | Ottawa, ON, Canada | Hardware | 2026-05-09 |
 | [Hardware Developer Engineer Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34231) | 50 | Ottawa, ON, Canada | Hardware | 2026-05-09 |
@@ -3025,7 +3053,6 @@
 | [Advanced Degree Software Engineer Intern - Industries](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/320947) | 85 | United States | Software | 2026-05-09 |
 | [Undergraduate Applications Developer Intern - OPMO - Consumer Industries](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/309965) | 85 | Remote in USA | Software | 2026-05-09 |
 | [Data Analyst Intern](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/326682) | 60 | Nashville, TN | AI/ML/Data | 2026-05-09 |
-| [Data Science Intern - Industries](https://careers.oracle.com/en/sites/jobsearch/job/309999) | 60 | USA | Data Science, AI & Machine Learning | 2026-05-09 |
 | [Oracle Pathways Software School Intern](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/318087) | 60 | Nashville, TN | Software | 2026-05-09 |
 
 ## OTR Solutions
@@ -3705,6 +3732,12 @@
 | [Software Engineering Intern/Co-op](https://boards.greenhouse.io/spacex/jobs/8403219002) | 68 | Bastrop, TX / Irvine, CA / Cape Canaveral, FL / Brownsville, TX / Redmond, WA / McGregor, TX / West Athens, CA / Sunnyvale, CA | Hardware | 2026-05-09 |
 | [Engineering Intern](https://job-boards.greenhouse.io/spacex/jobs/8403206002) | 58 | Bastrop, TX / Cape Canaveral, FL / Hawthorne, CA / Irvine, CA / McGregor, TX / Redmond, WA / Starbase, TX / Vandenberg, CA | — | 2026-05-09 |
 
+## Sprinklr
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Professional Services Intern](https://sprinklr.wd1.myworkdayjobs.com/careers/job/United-States---Texas---Austin/Professional-Services-Intern_112802-JOB) | 68 | Austin, TX / Texas | AI/ML/Data | 2026-06-03 |
+
 ## Squarepoint Capital
 
 | Title | Score | Location | Department | First seen |
@@ -3953,7 +3986,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer Intern - Backend](https://jobs.ashbyhq.com/tessera-labs/dce8d8e5-f169-4bdb-b1c2-f4754fca31e7/application) | 93 | San Jose, CA | Software | 2026-05-09 |
 | [Software Engineering Intern, Frontend](https://jobs.ashbyhq.com/tessera-labs/c0350717-8b4d-4a1a-af00-4c62204192fd) | 93 | Remote in USA | Software Engineering | 2026-05-09 |
 
 ## TETRAMEM
@@ -4005,7 +4037,6 @@
 | [Data Analyst Intern - TikTok Live](https://lifeattiktok.com/search/7642264645810292997) | 60 | London, UK | AI/ML/Data | 2026-05-21 |
 | [Data Science Operations Intern - Business Integrity Data Cycling Center](https://lifeattiktok.com/search/7639509050870434101) | 60 | San Jose, CA | AI/ML/Data | 2026-05-14 |
 | [Data Scientist Intern - Tiktok UG-Mid Platform - 2026 Summer](https://lifeattiktok.com/search/7592001144580262197) | 85 | San Jose, CA | AI/ML/Data | 2026-05-11 |
-| [Software Engineer Intern - TikTok Search Architecture - BS/MS](https://lifeattiktok.com/search/7534626306991016199) | 85 | San Jose, CA | Software | 2026-05-10 |
 | [AI/ML Software Engineer Intern - Data Platform](https://lifeattiktok.com/search/7499689149813950727) | 85 | San Jose, CA | Software | 2026-05-09 |
 | [Backend Software Engineer Intern - Foundation Platform](https://lifeattiktok.com/search/7538307729329277202) | 85 | San Jose, CA | Software | 2026-05-09 |
 | [Data Engineer Intern](https://lifeattiktok.com/search/7568546589788227893) | 85 | San Jose, CA | AI/ML/Data | 2026-05-09 |
@@ -4064,7 +4095,6 @@
 | [Software Engineer Intern - Business Integrity - BS/MS](https://lifeattiktok.com/search/7543420658085185799) | 85 | San Jose, CA | Software | 2026-05-09 |
 | [Software Engineer Intern - Capital Platform - 2026 Summer','BS/MS](https://lifeattiktok.com/search/7534536157456058632) | 85 | San Jose, CA | Software | 2026-05-09 |
 | [Software Engineer Intern - Commerce Ads - 2026 Summer](https://lifeattiktok.com/search/7595346355196954933) | 85 | Seattle, WA | Software | 2026-05-09 |
-| [Software Engineer Intern - Data Ecosystem](https://lifeattiktok.com/search/7533388869200333074) | 85 | San Jose, CA | Software | 2026-05-09 |
 | [Software Engineer Intern - Data Ecosystem](https://lifeattiktok.com/search/7533387057667934482) | 85 | Seattle, WA | Software | 2026-05-09 |
 | [Software Engineer Intern - Experimentation & Evaluation - Data Platform](https://lifeattiktok.com/search/7534793633532479751) | 85 | San Jose, CA | Software | 2026-05-09 |
 | [Software Engineer Intern - Global CRM - 2026 Start](https://lifeattiktok.com/search/7532247736243865864) | 85 | San Jose, CA | Software | 2026-05-09 |

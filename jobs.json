@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-03T05:12:01.960Z",
+  "generatedAt": "2026-06-03T10:04:55.299Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1255,
+  "jobCount": 1267,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -91,7 +91,6 @@
     "canonical:b0682e13963fcdcc": "2026-05-09T15:28:15.527Z",
     "canonical:6353eecea9024842": "2026-05-09T15:28:15.527Z",
     "canonical:8fc863f495e5ebf7": "2026-05-09T15:28:15.527Z",
-    "canonical:d55c7f1620fdd8fa": "2026-05-09T15:28:15.527Z",
     "canonical:eacffdabb331b3dc": "2026-05-09T15:28:15.527Z",
     "canonical:757e93832590e76f": "2026-05-09T15:28:15.527Z",
     "canonical:6754c8ce79c7f440": "2026-05-09T15:28:15.527Z",
@@ -243,7 +242,6 @@
     "canonical:c4e068cb355aaf66": "2026-05-09T15:28:15.527Z",
     "canonical:45a468a68e1e732d": "2026-05-09T15:28:15.527Z",
     "canonical:24a58ae9533b9114": "2026-05-09T15:28:15.527Z",
-    "canonical:800e0d4de4bd757b": "2026-05-09T15:28:15.527Z",
     "canonical:221f01e60338afe0": "2026-05-09T15:28:15.527Z",
     "canonical:d7ee14700f2c3639": "2026-05-09T15:28:15.527Z",
     "canonical:c3d67ed0a9a17909": "2026-05-09T15:28:15.527Z",
@@ -487,14 +485,12 @@
     "canonical:30b49bc17727b7b6": "2026-05-09T15:28:15.527Z",
     "canonical:01cb0c7bf6eb03a2": "2026-05-09T15:28:15.527Z",
     "canonical:d53fda502b651e69": "2026-05-09T15:28:15.527Z",
-    "canonical:b5f7380d75d06d9d": "2026-05-09T15:28:15.527Z",
     "canonical:207e7f74a78f1ceb": "2026-05-09T15:28:15.527Z",
     "canonical:4c84a8cf6eacba8f": "2026-05-09T15:28:15.527Z",
     "canonical:41396f1be5942850": "2026-05-09T15:28:15.527Z",
     "canonical:877c0a343b3cc748": "2026-05-09T15:28:15.527Z",
     "canonical:f369d606bb40eeff": "2026-05-09T15:28:15.527Z",
     "canonical:d20733ad919ff0db": "2026-05-09T15:28:15.527Z",
-    "canonical:16633ca1ab9180c5": "2026-05-10T17:10:42.717Z",
     "canonical:13efad0dc5822e31": "2026-05-09T15:28:15.527Z",
     "canonical:ce622f58fc23d7cc": "2026-05-09T15:28:15.527Z",
     "canonical:c26baf9380adb64a": "2026-05-09T15:28:15.527Z",
@@ -539,7 +535,6 @@
     "canonical:62388f9a8d7fd92c": "2026-05-09T15:28:15.527Z",
     "canonical:4681acf53968c81b": "2026-05-16T07:09:10.733Z",
     "canonical:dcad659b98f1e696": "2026-05-09T15:28:15.527Z",
-    "canonical:96233cebc75fdbb2": "2026-05-09T15:28:15.527Z",
     "canonical:757ffdd79d835fc5": "2026-05-09T15:28:15.527Z",
     "canonical:a92ede27e1405f1b": "2026-05-09T15:28:15.527Z",
     "canonical:79e4c3af105b165f": "2026-05-09T15:28:15.527Z",
@@ -1258,7 +1253,24 @@
     "canonical:156e12a66a91749d": "2026-06-03T00:01:07.922Z",
     "canonical:d3eb69301d09e2c3": "2026-06-03T00:01:07.922Z",
     "canonical:00f76402b372da9e": "2026-06-03T00:01:07.922Z",
-    "canonical:23d047e9163f3b55": "2026-06-03T05:12:01.960Z"
+    "canonical:23d047e9163f3b55": "2026-06-03T05:12:01.960Z",
+    "canonical:4bc5f6ed568e72c2": "2026-06-03T10:04:55.299Z",
+    "canonical:ee39cf0b5152426d": "2026-06-03T10:04:55.299Z",
+    "canonical:c153bd5ef8789cba": "2026-06-03T10:04:55.299Z",
+    "canonical:57d1ee7ccdd064d5": "2026-06-03T10:04:55.299Z",
+    "canonical:1c9d411b67164726": "2026-06-03T10:04:55.299Z",
+    "canonical:3dc165a7fa56ca58": "2026-06-03T10:04:55.299Z",
+    "canonical:b3a0b3bc244cb3ec": "2026-06-03T10:04:55.299Z",
+    "canonical:92e4412f3bb06802": "2026-06-03T10:04:55.299Z",
+    "canonical:ff3c995308534fb2": "2026-06-03T10:04:55.299Z",
+    "canonical:2f23ff51dce45508": "2026-06-03T10:04:55.299Z",
+    "canonical:89ed24e7482d5106": "2026-06-03T10:04:55.299Z",
+    "canonical:6e99b696489fe2d5": "2026-06-03T10:04:55.299Z",
+    "canonical:a5ee6da375fec37f": "2026-06-03T10:04:55.299Z",
+    "canonical:0cb411253e09ff95": "2026-06-03T10:04:55.299Z",
+    "canonical:b5a18fe0020bae08": "2026-06-03T10:04:55.299Z",
+    "canonical:d5989df87e86b977": "2026-06-03T10:04:55.299Z",
+    "canonical:411bdab6bb2d495d": "2026-06-03T10:04:55.299Z"
   },
   "jobs": [
     {
@@ -2420,6 +2432,20 @@
       ]
     },
     {
+      "id": "canonical:4bc5f6ed568e72c2",
+      "title": "Software Engineer Intern (R&D) - Bengaluru",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7962695?gh_jid=7962695",
+      "location": "In-Office",
+      "department": "",
+      "company": "Cloudflare",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:7a2fd240cea729fb",
       "title": "Solutions Engineer Intern (Summer 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7738938?gh_jid=7738938",
@@ -2549,18 +2575,6 @@
       "company": "Cribl",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:d55c7f1620fdd8fa",
-      "title": "Data Science Intern - Industries",
-      "url": "https://careers.oracle.com/en/sites/jobsearch/job/309999",
-      "location": "USA",
-      "department": "Data Science, AI & Machine Learning",
-      "company": "Oracle",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
     },
     {
       "id": "canonical:eacffdabb331b3dc",
@@ -4484,18 +4498,6 @@
       "location": "Cambridge, MA / Mountain View, CA",
       "department": "AI/ML/Data",
       "company": "Microsoft",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:800e0d4de4bd757b",
-      "title": "Summer Research Intern",
-      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28139",
-      "location": "United Kingdom",
-      "department": "AI/ML/Data",
-      "company": "Nokia",
       "score": 60,
       "scoreReasons": [
         "high-signal role"
@@ -8204,19 +8206,6 @@
       ]
     },
     {
-      "id": "canonical:b5f7380d75d06d9d",
-      "title": "Software Engineer Intern - Data Ecosystem",
-      "url": "https://lifeattiktok.com/search/7533388869200333074",
-      "location": "San Jose, CA",
-      "department": "Software",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:207e7f74a78f1ceb",
       "title": "AI/ML Research and Development Intern",
       "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/AI-ML-Research-and-Development-Intern_REQ_0000077083-1",
@@ -8297,19 +8286,6 @@
       "id": "canonical:d20733ad919ff0db",
       "title": "Software Engineer Project Intern - Model Infrastructure",
       "url": "https://lifeattiktok.com/search/7624284785283746053",
-      "location": "San Jose, CA",
-      "department": "Software",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:16633ca1ab9180c5",
-      "title": "Software Engineer Intern - TikTok Search Architecture - BS/MS",
-      "url": "https://lifeattiktok.com/search/7534626306991016199",
       "location": "San Jose, CA",
       "department": "Software",
       "company": "TikTok",
@@ -8918,20 +8894,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:96233cebc75fdbb2",
-      "title": "Software Engineer Intern - Backend",
-      "url": "https://jobs.ashbyhq.com/tessera-labs/dce8d8e5-f169-4bdb-b1c2-f4754fca31e7/application",
-      "location": "San Jose, CA",
-      "department": "Software",
-      "company": "Tessera Labs",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -13390,6 +13352,19 @@
       ]
     },
     {
+      "id": "canonical:ee39cf0b5152426d",
+      "title": "Professional Services Intern",
+      "url": "https://sprinklr.wd1.myworkdayjobs.com/careers/job/United-States---Texas---Austin/Professional-Services-Intern_112802-JOB",
+      "location": "Austin, TX / Texas",
+      "department": "AI/ML/Data",
+      "company": "Sprinklr",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:58404cccedc982e2",
       "title": "Field Engineering Intern",
       "url": "https://jobs.ashbyhq.com/lambda/e0e555b9-a009-43c4-bd64-57e74cfd67f1/application",
@@ -14945,6 +14920,198 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:c153bd5ef8789cba",
+      "title": "Software Development Engineer Intern - Network Automation",
+      "url": "https://jobs.bytedance.com/en/position/7537152240618195208/detail",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "ByteDance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:57d1ee7ccdd064d5",
+      "title": "Software Development Engineer Intern - Network Automation",
+      "url": "https://jobs.bytedance.com/en/position/7537152632018012424/detail",
+      "location": "Seattle, WA",
+      "department": "Software",
+      "company": "ByteDance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:1c9d411b67164726",
+      "title": "Machine Learning Engineer Intern - E-commerce Governance Algorithms",
+      "url": "https://jobs.bytedance.com/en/position/7535168003103033618/detail",
+      "location": "Seattle, WA",
+      "department": "AI/ML/Data",
+      "company": "ByteDance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:3dc165a7fa56ca58",
+      "title": "Applied Research Intern - AI Safety Security - Global Tech Research Program",
+      "url": "https://jobs.bytedance.com/en/position/7645070235035044101/detail",
+      "location": "San Jose, CA",
+      "department": "AI/ML/Data",
+      "company": "ByteDance",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:b3a0b3bc244cb3ec",
+      "title": "Software Engineer Intern - Applied Machine Learning-Enterprise",
+      "url": "https://jobs.bytedance.com/en/position/7533045355162044690/detail",
+      "location": "San Jose, CA",
+      "department": "AI/ML/Data",
+      "company": "ByteDance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:92e4412f3bb06802",
+      "title": "Research Intern - SDN Traffic Intelligence & Control",
+      "url": "https://jobs.bytedance.com/en/position/7537161874254776583/detail",
+      "location": "Seattle, WA",
+      "department": "Software",
+      "company": "ByteDance",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:ff3c995308534fb2",
+      "title": "Research Intern - SDN Traffic Intelligence & Control",
+      "url": "https://jobs.bytedance.com/en/position/7537161497627281682/detail",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "ByteDance",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:2f23ff51dce45508",
+      "title": "Machine Learning Engineer Intern - E-Commerce Knowledge Graph - Computer Vision/Multimodal/Natural Language Processing",
+      "url": "https://jobs.bytedance.com/en/position/7543005612200970503/detail",
+      "location": "Seattle, WA",
+      "department": "AI/ML/Data",
+      "company": "ByteDance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:89ed24e7482d5106",
+      "title": "Network Software Development Engineer Intern - Network Switch",
+      "url": "https://jobs.bytedance.com/en/position/7537117266451171592/detail",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "ByteDance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:6e99b696489fe2d5",
+      "title": "Machine Learning Engineer Intern - Global E-commerce Risk Control",
+      "url": "https://jobs.bytedance.com/en/position/7535953226975054098/detail",
+      "location": "Seattle, WA",
+      "department": "AI/ML/Data",
+      "company": "ByteDance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:a5ee6da375fec37f",
+      "title": "Research Scientist Intern - Applied Machine Learning-Enterprise",
+      "url": "https://jobs.bytedance.com/en/position/7539697151993268488/detail",
+      "location": "San Jose, CA",
+      "department": "AI/ML/Data",
+      "company": "ByteDance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:0cb411253e09ff95",
+      "title": "Student Researcher Intern",
+      "url": "https://jobs.bytedance.com/en/position/7538943251756910856/detail",
+      "location": "San Jose, CA",
+      "department": "AI/ML/Data",
+      "company": "ByteDance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:b5a18fe0020bae08",
+      "title": "Stormwater Intern - Wastewater Management",
+      "url": "https://largo.wd1.myworkdayjobs.com/external/job/Largo-City-Hall/Intern---Undergraduate_R-2319",
+      "location": "Largo, FL",
+      "department": "AI/ML/Data",
+      "company": "City of Largo",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:d5989df87e86b977",
+      "title": "Payment Partnership Project Intern - Global Payment",
+      "url": "https://jobs.bytedance.com/en/position/7642450978503641397/detail",
+      "location": "San Jose, CA",
+      "department": "AI/ML/Data",
+      "company": "ByteDance",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:411bdab6bb2d495d",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/instead/jobs/7761472003",
+      "location": "SF",
+      "department": "Software",
+      "company": "Instead",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
