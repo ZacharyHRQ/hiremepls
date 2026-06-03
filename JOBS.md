@@ -1,6 +1,6 @@
 # Open Internships
 
-**1261** internships across **63/64** companies — last updated 2026-06-03.
+**1251** internships across **63/64** companies — last updated 2026-06-03.
 
 ## Companies
 
@@ -214,7 +214,6 @@
 - [Gimlet Labs](#gimlet-labs) (1)
 - [Ginkgo Bioworks](#ginkgo-bioworks) (2)
 - [GitHub](#github) (1)
-- [Glydways](#glydways) (1)
 - [Gr0](#gr0) (1)
 - [Great Question](#great-question) (1)
 - [Green Planet Solutions](#green-planet-solutions) (1)
@@ -259,7 +258,6 @@
 - [Integra FEC](#integra-fec) (1)
 - [Integrity](#integrity) (1)
 - [Intel](#intel) (1)
-- [Intelerad](#intelerad) (1)
 - [Intercontinental Exchange, Inc.](#intercontinental-exchange-inc) (1)
 - [Interdigital](#interdigital) (2)
 - [Internship](#internship) (1)
@@ -291,7 +289,7 @@
 - [Landis+Gyr](#landis-gyr) (1)
 - [Layup Parts](#layup-parts) (1)
 - [LegalZoom](#legalzoom) (1)
-- [Leidos](#leidos) (2)
+- [Leidos](#leidos) (1)
 - [Lensa](#lensa) (3)
 - [Level AI](#level-ai) (1)
 - [LinkedIn](#linkedin) (3)
@@ -328,7 +326,7 @@
 - [Metalenz](#metalenz) (1)
 - [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (4)
 - [Microchip Technology](#microchip-technology) (1)
-- [Microsoft](#microsoft) (50)
+- [Microsoft](#microsoft) (48)
 - [MongoDB](#mongodb) (1)
 - [Monolithic Power Systems](#monolithic-power-systems) (2)
 - [Multiply Labs](#multiply-labs) (2)
@@ -381,7 +379,7 @@
 - [Podium](#podium) (2)
 - [Point72](#point72) (22)
 - [Poshmark](#poshmark) (1)
-- [Primetals Technologies](#primetals-technologies) (2)
+- [Primetals Technologies](#primetals-technologies) (1)
 - [Prior Labs](#prior-labs) (1)
 - [Prologis](#prologis) (1)
 - [Prosper Funding](#prosper-funding) (1)
@@ -403,7 +401,7 @@
 - [Rippling](#rippling) (3)
 - [Rivian](#rivian) (2)
 - [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (3)
-- [Robert Bosch Venture Capital](#robert-bosch-venture-capital) (2)
+- [Robert Bosch Venture Capital](#robert-bosch-venture-capital) (1)
 - [Roblox](#roblox) (1)
 - [Rocket Lab](#rocket-lab) (1)
 - [Rocket Lab USA](#rocket-lab-usa) (2)
@@ -429,7 +427,6 @@
 - [SCAN](#scan) (1)
 - [Schonfeld](#schonfeld) (4)
 - [Schweitzer Engineering Laboratories](#schweitzer-engineering-laboratories) (1)
-- [Semtech](#semtech) (1)
 - [SF Giants](#sf-giants) (1)
 - [Sharecare](#sharecare) (1)
 - [Shaw Industries Group](#shaw-industries-group) (1)
@@ -501,7 +498,6 @@
 - [Trimble](#trimble) (1)
 - [TripleRing](#triplering) (1)
 - [Truveta](#truveta) (1)
-- [Twilio](#twilio) (1)
 - [Tyson Foods](#tyson-foods) (1)
 - [Uber](#uber) (1)
 - [Uncountable](#uncountable) (1)
@@ -537,7 +533,6 @@
 - [Westinghouse](#westinghouse) (1)
 - [WindBorne Systems](#windborne-systems) (1)
 - [Workato](#workato) (1)
-- [Woven](#woven) (1)
 - [WSP](#wsp) (1)
 - [WTW](#wtw) (1)
 - [XPENG Motors](#xpeng-motors) (2)
@@ -2012,12 +2007,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](https://githubinc.jibeapply.com/jobs/4640) | 60 | Remote in USA | Software Engineering | 2026-05-09 |
 
-## Glydways
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Perception Software Engineering Intern](https://job-boards.greenhouse.io/glydways/jobs/5082217007) | 68 | Remote in USA | AI/ML/Data | 2026-05-09 |
-
 ## Gr0
 
 | Title | Score | Location | Department | First seen |
@@ -2306,12 +2295,6 @@
 | --- | --- | --- | --- | --- |
 | [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) | 68 | Hillsboro, OR / Folsom, CA | Hardware | 2026-05-09 |
 
-## Intelerad
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Science Intern](https://jobs.smartrecruiters.com/Intelerad/744000129859159) | 68 | United States | AI/ML/Data | 2026-06-03 |
-
 ## Intercontinental Exchange, Inc.
 
 | Title | Score | Location | Department | First seen |
@@ -2518,7 +2501,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/Software-Development-Intern_R-00176074-1) | 93 | Orlando, FL | Software | 2026-06-03 |
 | [Data Architecture and Governance Intern](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Data-Architecture-and-Governance-Intern_R-00184376) | 68 | Remote in USA | AI/ML/Data | 2026-06-02 |
 
 ## Lensa
@@ -2809,7 +2791,6 @@
 | [Research Intern - Artificial Intelligence](https://apply.careers.microsoft.com/careers/job/1970393556621503) | 60 | Vancouver, BC, Canada | AI/ML/Data | 2026-05-09 |
 | [Research Intern - Computational Social Science](https://apply.careers.microsoft.com/careers/job/1970393556639564) | 60 | NYC | AI/ML/Data | 2026-05-09 |
 | [Research Intern - Computer Vision and Deep Learning](https://apply.careers.microsoft.com/careers/job/1970393556621779) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
-| [Research Intern - Data Systems](https://apply.careers.microsoft.com/careers/job/1970393556621612) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - Deep Learning Group](https://apply.careers.microsoft.com/careers/job/1970393556637090) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - Foundations of GenAI](https://apply.careers.microsoft.com/careers/job/1970393556659148) | 60 | NYC | AI/ML/Data | 2026-05-09 |
 | [Research Intern - Gray Systems Lab - Gsl](https://apply.careers.microsoft.com/careers/job/1970393556621621) | 60 | Madison, WI / Redmond, WA / Mountain View, CA | AI/ML/Data | 2026-05-09 |
@@ -2818,7 +2799,6 @@
 | [Research Intern - LLM Performance Optimization](https://apply.careers.microsoft.com/careers/job/1970393556643548) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - Machine Learning and Optimization](https://apply.careers.microsoft.com/careers/job/1970393556628908) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - Machine Learning and Optimization](https://apply.careers.microsoft.com/careers/job/1970393556655958) | 60 | Cambridge, MA / Redmond, WA | AI/ML/Data | 2026-05-09 |
-| [Research Intern - Machine Learning and Statistics](https://apply.careers.microsoft.com/careers/job/1970393556621837) | 60 | Cambridge, MA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - Machine Learning at MSR NYC](https://apply.careers.microsoft.com/careers/job/1970393556621563) | 60 | Cambridge, MA / NYC | AI/ML/Data | 2026-05-09 |
 | [Research Intern - Microsoft Research Software-Hardware Co-design](https://apply.careers.microsoft.com/careers/job/1970393556621730) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - Microsoft Research Special Projects](https://apply.careers.microsoft.com/careers/job/1970393556628925) | 60 | Cambridge, MA / Kitsap County, WA / Redmond, WA | AI/ML/Data | 2026-05-09 |
@@ -3260,7 +3240,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Product Line Management Associate Intern](https://mhicareers.com/job/Orlando-Product-Line-Management-Associate-(Internship)-FL-32809/1389987633/?ats=successfactors) | 50 | Orlando, FL | Product | 2026-05-27 |
-| [Data Science Intern - Data Platforms](https://mhicareers.com/job/Lake-Mary-Data-Science-Internship-(Data-Platforms)-FL-32746/1395217733/?ats=successfactors) | 60 | Lake Mary, FL | AI/ML/Data | 2026-05-19 |
 
 ## Prior Labs
 
@@ -3404,7 +3383,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Wireless Sensing Research Intern](https://jobs.smartrecruiters.com/BoschGroup/744000121477597) | 68 | Sunnyvale, CA | AI/ML/Data | 2026-05-09 |
-| [Engine / Vehicle Embedded Controls Intern](https://jobs.smartrecruiters.com/BoschGroup/744000124682895) | 58 | Southfield, MI | Hardware | 2026-05-09 |
 
 ## Roblox
 
@@ -3575,12 +3553,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Application Engineering Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Ohio---Lewis-Center/Application-Engineering-Intern_2026-20357) | 58 | Dublin, OH | Hardware | 2026-05-17 |
-
-## Semtech
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [SAP BTP Application Development Intern](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/USA---San-Jose-CA/Intern--SAP-BTP-Application-Development_REQ3380) | 68 | San Jose, CA | Software | 2026-06-03 |
 
 ## SF Giants
 
@@ -4222,12 +4194,6 @@
 | --- | --- | --- | --- | --- |
 | [ML PhD Intern - LLMs & Generative AI](https://job-boards.greenhouse.io/truveta/jobs/5712997004) | 68 | Seattle, WA | Data Science, AI & Machine Learning | 2026-05-09 |
 
-## Twilio
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Graphic Design Intern (June 22nd start, 12 weeks)](https://job-boards.greenhouse.io/twilio/jobs/7835625) | 58 | Remote - US | — | 2026-05-06 |
-
 ## Tyson Foods
 
 | Title | Score | Location | Department | First seen |
@@ -4462,12 +4428,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Intern AI Engineering](https://job-boards.greenhouse.io/workato/jobs/8492935002) | 68 | SF | AI/ML/Data | 2026-05-09 |
-
-## Woven
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Intern - ML Platform](https://jobs.lever.co/woven-by-toyota/b6bb0a14-829c-45d6-b64d-7ddaeb1851b3/apply) | 93 | Ann Arbor, MI | Software | 2026-05-13 |
 
 ## WSP
 
