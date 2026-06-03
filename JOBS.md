@@ -1,6 +1,6 @@
 # Open Internships
 
-**1271** internships across **63/64** companies — last updated 2026-06-03.
+**1261** internships across **63/64** companies — last updated 2026-06-03.
 
 ## Companies
 
@@ -49,7 +49,6 @@
 - [ASM Global](#asm-global) (3)
 - [ASM International](#asm-international) (1)
 - [ASML](#asml) (2)
-- [AspenTech](#aspentech) (1)
 - [ASSA ABLOY](#assa-abloy) (1)
 - [Astera](#astera) (1)
 - [Astera Labs](#astera-labs) (2)
@@ -122,7 +121,6 @@
 - [Colgate-Palmolive](#colgate-palmolive) (1)
 - [Collabera](#collabera) (1)
 - [Commonwealth of Massachusetts](#commonwealth-of-massachusetts) (11)
-- [Compa](#compa) (1)
 - [Conagra Brands](#conagra-brands) (2)
 - [ConnectPrep](#connectprep) (1)
 - [Context](#context) (1)
@@ -248,7 +246,6 @@
 - [HPM Building Supply](#hpm-building-supply) (1)
 - [HRL Laboratories](#hrl-laboratories) (1)
 - [Hunt Oil Company](#hunt-oil-company) (3)
-- [Hyperproof](#hyperproof) (1)
 - [iHerb](#iherb) (1)
 - [Illumio](#illumio) (1)
 - [IMC Trading](#imc-trading) (8)
@@ -289,7 +286,6 @@
 - [Kodiak Robotics](#kodiak-robotics) (2)
 - [Kognitos](#kognitos) (1)
 - [Kudu Dynamics](#kudu-dynamics) (1)
-- [L3Harris Technologies](#l3harris-technologies) (1)
 - [Labelbox](#labelbox) (1)
 - [Lambda](#lambda) (3)
 - [Landis+Gyr](#landis-gyr) (1)
@@ -325,7 +321,7 @@
 - [Medpace, Inc.](#medpace-inc) (4)
 - [Melotech](#melotech) (3)
 - [Menasha Corporation](#menasha-corporation) (1)
-- [Mercedes-Benz](#mercedes-benz) (3)
+- [Mercedes-Benz](#mercedes-benz) (2)
 - [Mercor](#mercor) (1)
 - [Meshy](#meshy) (1)
 - [Meta](#meta) (17)
@@ -407,14 +403,14 @@
 - [Rippling](#rippling) (3)
 - [Rivian](#rivian) (2)
 - [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (3)
-- [Robert Bosch Venture Capital](#robert-bosch-venture-capital) (3)
+- [Robert Bosch Venture Capital](#robert-bosch-venture-capital) (2)
 - [Roblox](#roblox) (1)
 - [Rocket Lab](#rocket-lab) (1)
 - [Rocket Lab USA](#rocket-lab-usa) (2)
 - [Rocket Lawyer](#rocket-lawyer) (1)
 - [Roku](#roku) (3)
 - [Rolls Royce](#rolls-royce) (5)
-- [Rolls-Royce Motorcars](#rolls-royce-motorcars) (3)
+- [Rolls-Royce Motorcars](#rolls-royce-motorcars) (2)
 - [Root Access](#root-access) (1)
 - [Royal Bank of Canada](#royal-bank-of-canada) (2)
 - [RSM](#rsm) (1)
@@ -473,7 +469,6 @@
 - [Susquehanna International Group, LLP (SIG)](#susquehanna-international-group-llp-sig) (3)
 - [SWBC](#swbc) (2)
 - [Symmetry Systems](#symmetry-systems) (1)
-- [Synchrony](#synchrony) (1)
 - [Syneos Health](#syneos-health) (1)
 - [Syntax](#syntax) (1)
 - [Taara](#taara) (1)
@@ -481,7 +476,7 @@
 - [Teall Sports & Entertainment](#teall-sports-entertainment) (1)
 - [Technergetics](#technergetics) (1)
 - [Techtronic Industries](#techtronic-industries) (1)
-- [Tencent](#tencent) (13)
+- [Tencent](#tencent) (12)
 - [TENEX.AI](#tenex-ai) (1)
 - [Tenstorrent](#tenstorrent) (7)
 - [Terranox AI](#terranox-ai) (1)
@@ -521,7 +516,7 @@
 - [Vera Bradley](#vera-bradley) (1)
 - [Vera Institute of Justice](#vera-institute-of-justice) (1)
 - [Verisk](#verisk) (1)
-- [Verkada](#verkada) (7)
+- [Verkada](#verkada) (6)
 - [Very Good Security](#very-good-security) (1)
 - [Viavi Solutions](#viavi-solutions) (1)
 - [Vital Lyfe](#vital-lyfe) (1)
@@ -867,12 +862,6 @@
 | --- | --- | --- | --- | --- |
 | [Internship - Software Development Engineer in Test](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Development-Engineer-in-Test_J-00328071) | 93 | San Jose, CA | Software Engineering | 2026-05-09 |
 | [Internship - Software Quality Assurance](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Software-Quality-Assurance_J-00327394) | 68 | San Jose, CA | Software Engineering | 2026-05-09 |
-
-## AspenTech
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Product Owner Intern](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Product-Owner-Intern_R8783) | 58 | Bedford, MA | Product | 2026-05-23 |
 
 ## ASSA ABLOY
 
@@ -1406,12 +1395,6 @@
 | [Intern - Data Analytics](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=26000268) | 60 | Massachusetts | AI/ML/Data | 2026-05-09 |
 | [Intern - Quality Assurance](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=2600023O) | 60 | Massachusetts | AI/ML/Data | 2026-05-09 |
 | [RMV Crash Data Analytics Intern/Co-op](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=26000181) | 60 | Massachusetts | AI/ML/Data | 2026-05-09 |
-
-## Compa
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://jobs.ashbyhq.com/compa/4fd1ad65-040c-4740-aa05-c8170b9385ee/application) | 93 | Denver, CO | Software | 2026-05-09 |
 
 ## Conagra Brands
 
@@ -2238,12 +2221,6 @@
 | [Software Engineer Intern - Summer 2026](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/891) | 85 | Dallas, TX | Software | 2026-05-09 |
 | [Technology Research Intern - Summer 2026](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/897) | 60 | Dallas, TX | AI/ML/Data | 2026-05-09 |
 
-## Hyperproof
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Intern - AI Developer Productivity](https://hyperproof.io/job-listings/?gh_jid=4700893005) | 85 | Remote in USA | Software | 2026-06-03 |
-
 ## iHerb
 
 | Title | Score | Location | Department | First seen |
@@ -2505,12 +2482,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183714) | 93 | Chantilly, VA | — | 2026-05-22 |
 
-## L3Harris Technologies
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Embedded Software Engineer Intern](https://jobs.l3harris.com/job/Ottawa-Embedded-Software-Engineering-Intern-ON-K2H-9N6/1394577100/?ats=successfactors) | 85 | Ottawa, ON, Canada | Hardware | 2026-05-28 |
-
 ## Labelbox
 
 | Title | Score | Location | Department | First seen |
@@ -2754,7 +2725,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [On-Board Diagnostics Certification & Compliance Intern](https://jobs.lever.co/MBRDNA/81fa8d12-0b79-4f9c-8665-ecd7cf7e2c79/apply) | 68 | Long Beach, CA | AI/ML/Data | 2026-06-02 |
 | [OBD Certification & Compliance Intern](https://jobs.lever.co/MBRDNA/8c461c13-0cfc-461b-bc2d-dc2dfed92581/apply) | 68 | Ann Arbor, MI | AI/ML/Data | 2026-05-28 |
 | [Software Developer Intern](https://jobs.lever.co/MBRDNA/bf597528-079f-47a1-965f-def393590f02/apply) | 93 | San Jose, CA | Software | 2026-05-09 |
 
@@ -3261,8 +3231,8 @@
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-05-09 |
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-05-09 |
 | [2026 Technology Internship – Software Engineer](https://boards.greenhouse.io/point72/jobs/8406727002?gh_jid=8406727002) | 93 | Warsaw, Poland | — | 2026-05-06 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -3433,7 +3403,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Automated Driving Intern - Simulation at Scale for RL](https://jobs.smartrecruiters.com/BoschGroup/744000110888755) | 68 | Sunnyvale, CA | AI/ML/Data | 2026-05-09 |
 | [Wireless Sensing Research Intern](https://jobs.smartrecruiters.com/BoschGroup/744000121477597) | 68 | Sunnyvale, CA | AI/ML/Data | 2026-05-09 |
 | [Engine / Vehicle Embedded Controls Intern](https://jobs.smartrecruiters.com/BoschGroup/744000124682895) | 58 | Southfield, MI | Hardware | 2026-05-09 |
 
@@ -3486,7 +3455,6 @@
 | --- | --- | --- | --- | --- |
 | [Production Digitalization Intern](https://jobs.bmwgroup.com/job/Woodruff-Production-Digitalization-Intern-(Fall-2026)-ID-83252/1370808933/?ats=successfactors) | 60 | Logan, UT | AI/ML/Data | 2026-06-03 |
 | [Innovation and Digitalization Intern/Co-op](https://jobs.bmwgroup.com/job/Greer-Innovation-and-Digitalization-Co-Op-(Fall-2026)-Sout/1376132033/?ats=successfactors) | 60 | Greer, SC | AI/ML/Data | 2026-05-16 |
-| [Quality Systems Apex Intern](https://jobs.bmwgroup.com/job/Spartanburg-Quality-Systems-Apex-Co-Op-(Fall-2026)-Sout/1381872233/?ats=successfactors) | 60 | Spartanburg, SC | Software | 2026-05-16 |
 
 ## Root Access
 
@@ -3826,8 +3794,8 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [PhD Data Scientist Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | Seattle, WA / SF / Chicago, IL / NYC | AI/ML/Data | 2026-05-09 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | 56 | Mexico City, Mexico | — | 2026-05-06 |
@@ -3896,12 +3864,6 @@
 | --- | --- | --- | --- | --- |
 | [Full Stack Software Engineer Intern](https://jobs.lever.co/SymmetrySystems/dbca271b-a99b-48ab-83f2-b596a037ad65/apply) | 93 | Remote in USA | Software | 2026-05-09 |
 
-## Synchrony
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [UConn Stamford Digital Technology Center Intern – Summer 2026](https://www.synchronycareers.com/job-detail/22491940/uconn-stamford-digital-technology-center-intern-summer-2026-remote/) | 60 | Stamford, CT, USA | Software Engineering | 2026-05-09 |
-
 ## Syneos Health
 
 | Title | Score | Location | Department | First seen |
@@ -3960,7 +3922,6 @@
 | [Software Engineering Intern - PC Game Client Development](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Software-Engineering-Intern_R107162-1) | 68 | London, UK | Software | 2026-05-09 |
 | [Data Product Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Data-Product-Intern_R106486) | 58 | London, UK | Product | 2026-05-09 |
 | [Tencent Cloud CPaaS Product Management Intern](https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/Tencent-Cloud-CPaaS-Product-Management-Intern_R106318) | 58 | Palo Alto, CA | Product Management | 2026-05-09 |
-| [Data Science Intern - Influencer Marketing AI Application](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Netherlands-Amsterdam/Data-Analyst-Intern_R107228) | 48 | London, UK | AI/ML/Data | 2026-05-09 |
 
 ## TENEX.AI
 
@@ -4363,7 +4324,6 @@
 | [Embedded Software Engineer Intern](https://job-boards.greenhouse.io/verkada/jobs/5099596007) | 93 | San Mateo, CA | — | 2026-05-09 |
 | [Frontend Software Engineer Intern](https://job-boards.greenhouse.io/verkada/jobs/5099529007) | 93 | San Mateo, CA | Software | 2026-05-09 |
 | [AI Software Engineering Intern](https://job-boards.greenhouse.io/verkada/jobs/5117760007) | 68 | San Mateo, CA | Software | 2026-05-09 |
-| [Embedded Software Engineering Intern](https://job-boards.greenhouse.io/verkada/jobs/5099596007) | 68 | San Mateo, CA | Hardware | 2026-05-09 |
 
 ## Very Good Security
 
