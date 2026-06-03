@@ -1,6 +1,6 @@
 # Open Internships
 
-**1267** internships across **63/64** companies — last updated 2026-06-03.
+**1271** internships across **63/64** companies — last updated 2026-06-03.
 
 ## Companies
 
@@ -73,6 +73,7 @@
 - [Barkback](#barkback) (1)
 - [Base Power](#base-power) (3)
 - [beBeeManufacturingEngineering](#bebeemanufacturingengineering) (1)
+- [Belmond](#belmond) (1)
 - [Berkshire Hathaway Energy](#berkshire-hathaway-energy) (5)
 - [Bio-Techne](#bio-techne) (1)
 - [Black Box](#black-box) (2)
@@ -112,7 +113,7 @@
 - [Citadel Securities](#citadel-securities) (3)
 - [City of Largo](#city-of-largo) (1)
 - [Clarivate](#clarivate) (1)
-- [Cloudflare](#cloudflare) (19)
+- [Cloudflare](#cloudflare) (18)
 - [Cloudforce](#cloudforce) (2)
 - [CME Group](#cme-group) (1)
 - [Codeage](#codeage) (1)
@@ -188,6 +189,7 @@
 - [Fanatics](#fanatics) (3)
 - [Federal Home Loan Bank of Indianapolis](#federal-home-loan-bank-of-indianapolis) (1)
 - [Ferrovial](#ferrovial) (1)
+- [FHLBank Topeka](#fhlbank-topeka) (1)
 - [Figure](#figure) (1)
 - [Fiserv](#fiserv) (2)
 - [Five Rings](#five-rings) (1)
@@ -229,6 +231,7 @@
 - [Hearst](#hearst) (1)
 - [Helix Electric](#helix-electric) (1)
 - [Herdora](#herdora) (1)
+- [HERE Technologies](#here-technologies) (1)
 - [Hermeus](#hermeus) (6)
 - [Heron Power](#heron-power) (1)
 - [Hershey Entertainment & Resorts Company](#hershey-entertainment-resorts-company) (1)
@@ -304,7 +307,7 @@
 - [Mach9](#mach9) (1)
 - [Macy's](#macy-s) (1)
 - [Maersk](#maersk) (1)
-- [Magna](#magna) (2)
+- [Magna](#magna) (1)
 - [Magnite](#magnite) (4)
 - [Maher Duessel](#maher-duessel) (1)
 - [MaintainX](#maintainx) (1)
@@ -432,6 +435,7 @@
 - [Schweitzer Engineering Laboratories](#schweitzer-engineering-laboratories) (1)
 - [Semtech](#semtech) (1)
 - [SF Giants](#sf-giants) (1)
+- [Sharecare](#sharecare) (1)
 - [Shaw Industries Group](#shaw-industries-group) (1)
 - [Shenzhen ANQI SHISHANG Articles Co., ltd.](#shenzhen-anqi-shishang-articles-co-ltd) (1)
 - [Shopify](#shopify) (1)
@@ -462,6 +466,7 @@
 - [Stripe](#stripe) (7)
 - [Sundt](#sundt) (1)
 - [SunSource](#sunsource) (2)
+- [Sunwater Capital](#sunwater-capital) (1)
 - [Super](#super) (6)
 - [Susquehanna](#susquehanna) (1)
 - [Susquehanna International Group (SIG)](#susquehanna-international-group-sig) (1)
@@ -520,6 +525,7 @@
 - [Very Good Security](#very-good-security) (1)
 - [Viavi Solutions](#viavi-solutions) (1)
 - [Vital Lyfe](#vital-lyfe) (1)
+- [Volaris Group](#volaris-group) (1)
 - [Voloridge Investment Management](#voloridge-investment-management) (1)
 - [Voltus](#voltus) (2)
 - [W.R. Berkley](#w-r-berkley) (3)
@@ -1040,6 +1046,12 @@
 | --- | --- | --- | --- | --- |
 | [Manufacturing Engineering Internship for Summer 2026](https://us.bebee.com/job/8d5893a024a720602b9c4d9162d87d66?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 42 | Lafayette, IN | — | 2026-05-16 |
 
+## Belmond
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [ESG Data Analyst Intern](https://apply.workable.com/belmond-uk-ltd/j/D64BE7279D/apply) | 68 | London, UK | AI/ML/Data | 2026-06-03 |
+
 ## Berkshire Hathaway Energy
 
 | Title | Score | Location | Department | First seen |
@@ -1315,7 +1327,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer Intern (R&D) - Bengaluru](https://boards.greenhouse.io/cloudflare/jobs/7962695?gh_jid=7962695) | 93 | In-Office | — | 2026-06-03 |
 | [Video and Media Production Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7964856?gh_jid=7964856) | 58 | In-Office | — | 2026-05-29 |
 | [People Team Intern - HR Operations & AI Innovation (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240) | 58 | In-Office | — | 2026-05-20 |
 | [Network Engineering Intern (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7929538?gh_jid=7929538) | 58 | In-Office | — | 2026-05-18 |
@@ -1838,6 +1849,12 @@
 | --- | --- | --- | --- | --- |
 | [Digital Construction & Data Management Intern](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Austin-TX/Digital-Construction---Data-Management-Intern_JR17433) | 68 | Austin, TX | AI/ML/Data | 2026-05-18 |
 
+## FHLBank Topeka
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Financial Analyst Intern](https://fhlbtopeka.wd1.myworkdayjobs.com/FHLBT/job/Topeka-Kansas/Member-Solutions-Intern_JR100348) | 68 | Topeka, KS | AI/ML/Data | 2026-06-03 |
+
 ## Figure
 
 | Title | Score | Location | Department | First seen |
@@ -2102,6 +2119,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Member Of Technical Staff Intern](https://www.workatastartup.com/jobs/83224) | 56 | San Francisco, CA | — | 2026-05-09 |
+
+## HERE Technologies
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Technical Intern - Data Engineering & AI](https://careers-here.icims.com/jobs/81496/job?mobile=true&needsRedirect=false) | 60 | Chicago, IL | AI/ML/Data | 2026-06-03 |
 
 ## Hermeus
 
@@ -2606,7 +2629,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Tools Engineering Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235428) | 50 | Auburn Hills, MI / Southfield, MI | Hardware | 2026-06-01 |
 | [Engineering ADAS Perception Features Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235438) | 60 | Auburn Hills, MI | AI/ML/Data | 2026-06-01 |
 
 ## Magnite
@@ -3598,6 +3620,12 @@
 | --- | --- | --- | --- | --- |
 | [Baseball Operations R&D Intern](https://jobs.lever.co/sfgiants/f9ce0718-8e31-426b-bcdf-e5c0f9b7c67d/apply) | 68 | SF | AI/ML/Data | 2026-05-09 |
 
+## Sharecare
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [BI Analytics Intern](https://sharecare.wd1.myworkdayjobs.com/Sharecare_Careers/job/BAM---Atlanta-GA/BI-Analytics-Intern---Remote_R-101864) | 68 | Atlanta, GA | AI/ML/Data | 2026-06-03 |
+
 ## Shaw Industries Group
 
 | Title | Score | Location | Department | First seen |
@@ -3817,6 +3845,12 @@
 | --- | --- | --- | --- | --- |
 | [Electronics Intern - Electronic Drives - PC Boards](https://jobs.lever.co/sunsrce/8070e6a5-d767-463d-8268-c18a39b4192b/apply) | 58 | Batavia, IL | Hardware | 2026-05-27 |
 | [Electronic Intern](https://jobs.lever.co/sunsrce/7151726c-70bf-4c57-946f-8628b75a42ca/apply) | 58 | Batavia, IL | Hardware | 2026-05-27 |
+
+## Sunwater Capital
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data Engineer Intern - Congressional Data](https://jobs.lever.co/sunwatercapital/7681fd31-8d0b-405c-b0e0-7f8c1c87f3c8/apply) | 93 | North Bethesda, MD | AI/ML/Data | 2026-06-03 |
 
 ## Super
 
@@ -4348,6 +4382,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineering Internship](https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af) | 68 | Los Angeles, CA | Software Engineering | 2026-05-09 |
+
+## Volaris Group
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI Software Enablement Intern](https://volarisgroup.wd3.myworkdayjobs.com/volaris/job/United-States---TX/AI-Software-Enablement-Intern_R67348) | 68 | Texas | Software | 2026-06-03 |
 
 ## Voloridge Investment Management
 

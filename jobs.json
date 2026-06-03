@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-03T10:04:55.299Z",
+  "generatedAt": "2026-06-03T15:01:52.660Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1267,
+  "jobCount": 1271,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1183,7 +1183,6 @@
     "canonical:a54dfaa9c2670ee3": "2026-06-01T03:37:04.741Z",
     "canonical:689e051abf9096c5": "2026-06-01T09:03:18.496Z",
     "canonical:8ecb94421f2672b5": "2026-06-01T09:03:18.496Z",
-    "canonical:a421f7ccf418179e": "2026-06-01T15:32:50.645Z",
     "canonical:caad4a45c8ba3ed9": "2026-06-01T15:32:50.645Z",
     "canonical:dbb4ebf008bbfce3": "2026-06-01T15:32:50.645Z",
     "canonical:0738d4357b35fcb5": "2026-06-01T15:32:50.645Z",
@@ -1254,7 +1253,6 @@
     "canonical:d3eb69301d09e2c3": "2026-06-03T00:01:07.922Z",
     "canonical:00f76402b372da9e": "2026-06-03T00:01:07.922Z",
     "canonical:23d047e9163f3b55": "2026-06-03T05:12:01.960Z",
-    "canonical:4bc5f6ed568e72c2": "2026-06-03T10:04:55.299Z",
     "canonical:ee39cf0b5152426d": "2026-06-03T10:04:55.299Z",
     "canonical:c153bd5ef8789cba": "2026-06-03T10:04:55.299Z",
     "canonical:57d1ee7ccdd064d5": "2026-06-03T10:04:55.299Z",
@@ -1270,7 +1268,13 @@
     "canonical:0cb411253e09ff95": "2026-06-03T10:04:55.299Z",
     "canonical:b5a18fe0020bae08": "2026-06-03T10:04:55.299Z",
     "canonical:d5989df87e86b977": "2026-06-03T10:04:55.299Z",
-    "canonical:411bdab6bb2d495d": "2026-06-03T10:04:55.299Z"
+    "canonical:411bdab6bb2d495d": "2026-06-03T10:04:55.299Z",
+    "canonical:aeb0200148d99b67": "2026-06-03T15:01:52.660Z",
+    "canonical:f5d84370157fe2ee": "2026-06-03T15:01:52.660Z",
+    "canonical:ebb76b72dcde08ce": "2026-06-03T15:01:52.660Z",
+    "canonical:0018ec313a54a4fd": "2026-06-03T15:01:52.660Z",
+    "canonical:d7b27eb1186aca67": "2026-06-03T15:01:52.660Z",
+    "canonical:b0a57a3a31d07f87": "2026-06-03T15:01:52.660Z"
   },
   "jobs": [
     {
@@ -2429,20 +2433,6 @@
       "scoreReasons": [
         "direct ATS",
         "lower-fit title"
-      ]
-    },
-    {
-      "id": "canonical:4bc5f6ed568e72c2",
-      "title": "Software Engineer Intern (R&D) - Bengaluru",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7962695?gh_jid=7962695",
-      "location": "In-Office",
-      "department": "",
-      "company": "Cloudflare",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -10716,6 +10706,19 @@
       ]
     },
     {
+      "id": "canonical:aeb0200148d99b67",
+      "title": "BI Analytics Intern",
+      "url": "https://sharecare.wd1.myworkdayjobs.com/Sharecare_Careers/job/BAM---Atlanta-GA/BI-Analytics-Intern---Remote_R-101864",
+      "location": "Atlanta, GA",
+      "department": "AI/ML/Data",
+      "company": "Sharecare",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:d711e695dc99e898",
       "title": "Software Developer Intern - Prism",
       "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5138225008",
@@ -13365,6 +13368,19 @@
       ]
     },
     {
+      "id": "canonical:f5d84370157fe2ee",
+      "title": "Financial Analyst Intern",
+      "url": "https://fhlbtopeka.wd1.myworkdayjobs.com/FHLBT/job/Topeka-Kansas/Member-Solutions-Intern_JR100348",
+      "location": "Topeka, KS",
+      "department": "AI/ML/Data",
+      "company": "FHLBank Topeka",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:58404cccedc982e2",
       "title": "Field Engineering Intern",
       "url": "https://jobs.ashbyhq.com/lambda/e0e555b9-a009-43c4-bd64-57e74cfd67f1/application",
@@ -13784,16 +13800,6 @@
       "scoreReasons": [
         "direct ATS"
       ]
-    },
-    {
-      "id": "canonical:a421f7ccf418179e",
-      "title": "Tools Engineering Intern",
-      "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235428",
-      "location": "Auburn Hills, MI / Southfield, MI",
-      "department": "Hardware",
-      "company": "Magna",
-      "score": 50,
-      "scoreReasons": []
     },
     {
       "id": "canonical:9e2ca9c244113a9f",
@@ -15107,6 +15113,58 @@
       "location": "SF",
       "department": "Software",
       "company": "Instead",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ebb76b72dcde08ce",
+      "title": "Technical Intern - Data Engineering & AI",
+      "url": "https://careers-here.icims.com/jobs/81496/job?mobile=true&needsRedirect=false",
+      "location": "Chicago, IL",
+      "department": "AI/ML/Data",
+      "company": "HERE Technologies",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:0018ec313a54a4fd",
+      "title": "AI Software Enablement Intern",
+      "url": "https://volarisgroup.wd3.myworkdayjobs.com/volaris/job/United-States---TX/AI-Software-Enablement-Intern_R67348",
+      "location": "Texas",
+      "department": "Software",
+      "company": "Volaris Group",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:d7b27eb1186aca67",
+      "title": "ESG Data Analyst Intern",
+      "url": "https://apply.workable.com/belmond-uk-ltd/j/D64BE7279D/apply",
+      "location": "London, UK",
+      "department": "AI/ML/Data",
+      "company": "Belmond",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:b0a57a3a31d07f87",
+      "title": "Data Engineer Intern - Congressional Data",
+      "url": "https://jobs.lever.co/sunwatercapital/7681fd31-8d0b-405c-b0e0-7f8c1c87f3c8/apply",
+      "location": "North Bethesda, MD",
+      "department": "AI/ML/Data",
+      "company": "Sunwater Capital",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
