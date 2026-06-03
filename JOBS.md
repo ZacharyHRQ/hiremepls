@@ -1,6 +1,6 @@
 # Open Internships
 
-**1264** internships across **63/64** companies — last updated 2026-06-03.
+**1255** internships across **63/64** companies — last updated 2026-06-03.
 
 ## Companies
 
@@ -36,7 +36,6 @@
 - [APM Terminals](#apm-terminals) (1)
 - [Appian](#appian) (1)
 - [Apple](#apple) (15)
-- [Applied Intuition](#applied-intuition) (3)
 - [Applied Materials](#applied-materials) (2)
 - [Aptiv](#aptiv) (1)
 - [AQR](#aqr) (7)
@@ -54,7 +53,7 @@
 - [ASSA ABLOY](#assa-abloy) (1)
 - [Astera](#astera) (1)
 - [Astera Labs](#astera-labs) (2)
-- [Astranis](#astranis) (11)
+- [Astranis](#astranis) (10)
 - [Atomic Semi](#atomic-semi) (8)
 - [Attentive](#attentive) (1)
 - [Auctor](#auctor) (1)
@@ -207,7 +206,7 @@
 - [Genentech](#genentech) (2)
 - [General Astronautics](#general-astronautics) (1)
 - [General Dynamics Mission Systems](#general-dynamics-mission-systems) (1)
-- [General Motors](#general-motors) (2)
+- [General Motors](#general-motors) (1)
 - [GenScript](#genscript) (1)
 - [Genworth](#genworth) (1)
 - [Geotab](#geotab) (6)
@@ -340,7 +339,6 @@
 - [Neuralink](#neuralink) (3)
 - [NewsBreak](#newsbreak) (4)
 - [Nidec](#nidec) (1)
-- [Nikkiso](#nikkiso) (1)
 - [Nintendo](#nintendo) (1)
 - [Nio](#nio) (2)
 - [Nissan Global](#nissan-global) (1)
@@ -413,7 +411,7 @@
 - [Rolls Royce](#rolls-royce) (5)
 - [Rolls-Royce Motorcars](#rolls-royce-motorcars) (3)
 - [Root Access](#root-access) (1)
-- [Royal Bank of Canada](#royal-bank-of-canada) (3)
+- [Royal Bank of Canada](#royal-bank-of-canada) (2)
 - [RSM](#rsm) (1)
 - [RTW Investments](#rtw-investments) (1)
 - [RTX](#rtx) (4)
@@ -448,7 +446,6 @@
 - [Solidigm](#solidigm) (1)
 - [SoloPulse](#solopulse) (2)
 - [Solva](#solva) (1)
-- [SonoThera](#sonothera) (1)
 - [Sony](#sony) (3)
 - [SpaceX](#spacex) (3)
 - [Squarepoint Capital](#squarepoint-capital) (7)
@@ -471,7 +468,7 @@
 - [Synchrony](#synchrony) (1)
 - [Syneos Health](#syneos-health) (1)
 - [Syntax](#syntax) (1)
-- [Taara](#taara) (2)
+- [Taara](#taara) (1)
 - [TDS](#tds) (1)
 - [Teall Sports & Entertainment](#teall-sports-entertainment) (1)
 - [Technergetics](#technergetics) (1)
@@ -519,7 +516,6 @@
 - [Verkada](#verkada) (7)
 - [Very Good Security](#very-good-security) (1)
 - [Viavi Solutions](#viavi-solutions) (1)
-- [Visier Solutions](#visier-solutions) (1)
 - [Vital Lyfe](#vital-lyfe) (1)
 - [Voloridge Investment Management](#voloridge-investment-management) (1)
 - [Voltus](#voltus) (2)
@@ -542,6 +538,7 @@
 - [WTW](#wtw) (1)
 - [XPENG Motors](#xpeng-motors) (2)
 - [Zip](#zip) (1)
+- [Zipline](#zipline) (1)
 - [Zone 5 Technologies](#zone-5-technologies) (1)
 - [Zoox](#zoox) (1)
 
@@ -773,14 +770,6 @@
 | [GPU Intern - Platform Architecture](https://jobs.apple.com/en-us/details/200617616) | 60 | London, UK / Cambridge, UK / Welwyn Garden City, UK | Hardware | 2026-05-09 |
 | [Hardware Engineering Intern](https://jobs.apple.com/en-us/details/200663981) | 50 | United States | Hardware | 2026-05-09 |
 
-## Applied Intuition
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Research Intern - 3D Vision and Generation - Self-Driving](https://boards.greenhouse.io/appliedintuition/jobs/4661663005) | 68 | Sunnyvale, CA | AI/ML/Data | 2026-05-28 |
-| [Research Intern - Reinforcement Learning - Self-Driving](https://boards.greenhouse.io/appliedintuition/jobs/4473608005) | 68 | Sunnyvale, CA | AI/ML/Data | 2026-05-28 |
-| [Research Intern - Robotic Hardware - Simulation and Data](https://boards.greenhouse.io/appliedintuition/jobs/4661664005) | 68 | Sunnyvale, CA | AI/ML/Data | 2026-05-28 |
-
 ## Applied Materials
 
 | Title | Score | Location | Department | First seen |
@@ -908,7 +897,6 @@
 | [Assembly and Test Intern - Integration](https://job-boards.greenhouse.io/astranis/jobs/4679080006) | 58 | SF | Hardware | 2026-05-14 |
 | [Embedded Software Developer – Network/Payload Software Intern](https://job-boards.greenhouse.io/astranis/jobs/4601135006) | 93 | SF | Hardware | 2026-05-11 |
 | [Software Engineer Intern - Data Platform](https://job-boards.greenhouse.io/astranis/jobs/4667477006) | 93 | SF | Software | 2026-05-09 |
-| [Flight Software Intern](https://job-boards.greenhouse.io/astranis/jobs/4619283006) | 68 | SF | Hardware | 2026-05-09 |
 | [Reliability Test Intern](https://job-boards.greenhouse.io/astranis/jobs/4677973006) | 58 | SF | Hardware | 2026-05-09 |
 
 ## Atomic Semi
@@ -1957,7 +1945,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [AV Software Safety Intern](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/AV-Software-Safety-Intern---Fall-2026_JR-202611005) | 68 | Markham, ON, Canada | Hardware | 2026-06-01 |
 | [2026 Summer Intern - Software Engineer, Machine Learning Validation (PhD)](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Software-Engineer--Machine-Learning-Validation--PhD-_JR-202523181) | 93 | Mountain View, CA / Sunnyvale, CA | Data Science, AI & Machine Learning | 2026-05-09 |
 
 ## GenScript
@@ -2905,12 +2892,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern/Co-op](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAArkansasFt-Smith-AR/Software-Engineer-Co-Op_R0014409-1) | 93 | Fort Smith, AR | Hardware | 2026-05-16 |
 
-## Nikkiso
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Application Engineer Intern](https://careers-nikkiso.icims.com/jobs/3975/job?mobile=true&needsRedirect=false) | 85 | Orange, CA | Software | 2026-05-15 |
-
 ## Nintendo
 
 | Title | Score | Location | Department | First seen |
@@ -3470,7 +3451,6 @@
 | --- | --- | --- | --- | --- |
 | [Data Engineer Intern - CDO](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---CDO--Data-Engineer-Intern--4-Months-_R-0000168150-3) | 93 | Toronto, ON, Canada | AI/ML/Data | 2026-06-03 |
 | [Relationship Manager Business Markets Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/FREDERICTON-New-Brunswick-Canada/Relationship-Manager-Business-Markets-Intern_R-0000158380) | 68 | Fredericton, NB, Canada | Quant | 2026-06-01 |
-| [Relationship Manager Business Markets Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/175-WALLACE-AVE-NNORTH-PERTH/Relationship-Manager-Business-Markets-Intern_R-0000172273-2) | 68 | Kitchener, ON, Canada | Quant | 2026-05-27 |
 
 ## RSM
 
@@ -3709,12 +3689,6 @@
 | --- | --- | --- | --- | --- |
 | [AI Engineer Internship](https://jobs.ashbyhq.com/solva/e336c053-5f6e-4076-ad14-f941ab5096b6/application) | 93 | NYC | AI/ML/Data | 2026-05-09 |
 
-## SonoThera
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Nucleic Acid Analytics Intern](https://job-boards.greenhouse.io/sonothera/jobs/4667479006) | 68 | San Bruno, CA | AI/ML/Data | 2026-05-19 |
-
 ## Sony
 
 | Title | Score | Location | Department | First seen |
@@ -3878,7 +3852,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](https://jobs.ashbyhq.com/taaraconnect/ed52ef53-dca2-433e-a2b7-6003d8be7ea2/application) | 68 | Sunnyvale, CA | Software | 2026-05-09 |
-| [FPGA Intern](https://jobs.ashbyhq.com/taaraconnect/9d46074e-4fa8-44ce-9b2e-59296f6bf2e9/application) | 58 | Sunnyvale, CA | Hardware | 2026-05-09 |
 
 ## TDS
 
@@ -4340,12 +4313,6 @@
 | --- | --- | --- | --- | --- |
 | [Wireless Network Lab Intern](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Chandler-AZ-USA/Wireless-Network-Lab-Intern_260004580-1) | 68 | Chandler, AZ | AI/ML/Data | 2026-05-09 |
 
-## Visier Solutions
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Science Intern](https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4677172006) | 68 | Vancouver, BC, Canada | AI/ML/Data | 2026-05-24 |
-
 ## Vital Lyfe
 
 | Title | Score | Location | Department | First seen |
@@ -4496,6 +4463,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/zip/caa5ba75-3b38-4d29-88cd-69a90b01fd6f/application) | 93 | Toronto, ON, Canada | Software | 2026-05-09 |
+
+## Zipline
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Perception Intern](https://www.zipline.com/careers?gh_jid=7761650003#open-roles) | 60 | Dallas, TX / San Bruno, CA | AI/ML/Data | 2026-06-03 |
 
 ## Zone 5 Technologies
 
