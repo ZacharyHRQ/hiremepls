@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-04T22:43:20.014Z",
+  "generatedAt": "2026-06-04T23:50:18.472Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1245,
+  "jobCount": 1261,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -69,10 +69,8 @@
     "canonical:014895826f6760d1": "2026-05-06T06:42:07.596Z",
     "canonical:047b58e6b7c917a3": "2026-05-15T20:39:51.368Z",
     "canonical:d5b7c15c0c798890": "2026-05-06T06:42:07.596Z",
-    "canonical:7b9ac45cbdadc4ef": "2026-05-06T06:42:07.596Z",
     "canonical:ad23aadfeb5e4fdd": "2026-05-06T06:42:07.596Z",
     "canonical:7cf4badefc5f7512": "2026-05-06T06:42:07.596Z",
-    "canonical:f75f97f48d6ee7be": "2026-05-06T06:42:07.596Z",
     "canonical:1616d436c67b8140": "2026-05-07T06:31:54.534Z",
     "canonical:8cd1b8b92140d848": "2026-05-13T01:22:17.700Z",
     "canonical:e2e40c0322dad93b": "2026-05-06T06:42:07.596Z",
@@ -215,7 +213,6 @@
     "canonical:43d64f150b5aaa85": "2026-05-09T15:28:15.527Z",
     "canonical:36dc60a996e8b896": "2026-05-09T15:28:15.527Z",
     "canonical:d22a22a2e011fe98": "2026-05-09T15:28:15.527Z",
-    "canonical:1d4b604c705ac631": "2026-05-09T15:28:15.527Z",
     "canonical:140768fa6d899ca5": "2026-05-09T15:28:15.527Z",
     "canonical:12863cfb7a76694e": "2026-05-09T15:28:15.527Z",
     "canonical:c728addbb92577ec": "2026-05-09T15:28:15.527Z",
@@ -304,7 +301,6 @@
     "canonical:aabcaf958144a03d": "2026-05-09T15:28:15.527Z",
     "canonical:179d6ab7f8461005": "2026-05-09T15:28:15.527Z",
     "canonical:19300e1217fa0c5e": "2026-05-09T15:28:15.527Z",
-    "canonical:3bef7b5f532f2200": "2026-05-09T15:28:15.527Z",
     "canonical:e52dbd14ddada166": "2026-05-09T15:28:15.527Z",
     "canonical:9cd665c2bdb808a5": "2026-05-09T15:28:15.527Z",
     "canonical:6855892c8957b4f3": "2026-05-09T15:28:15.527Z",
@@ -355,7 +351,6 @@
     "canonical:dce68bca01249a01": "2026-05-09T15:28:15.527Z",
     "canonical:1088db8ecc34d95c": "2026-05-09T15:28:15.527Z",
     "canonical:3ebecdb01ddc1a78": "2026-05-09T15:28:15.527Z",
-    "canonical:291945307d05dc1c": "2026-05-09T15:28:15.527Z",
     "canonical:2b7e2c2fb8fd5982": "2026-05-09T15:28:15.527Z",
     "canonical:780a119da3f76a2d": "2026-05-09T15:28:15.527Z",
     "canonical:5aca11ebb143d0e2": "2026-05-09T15:28:15.527Z",
@@ -491,7 +486,6 @@
     "canonical:e11f57922dc27c72": "2026-05-09T15:28:15.527Z",
     "canonical:7e334ada531a217b": "2026-05-09T15:28:15.527Z",
     "canonical:79488617ecdf7a08": "2026-05-09T15:28:15.527Z",
-    "canonical:34d2a8d552784567": "2026-05-09T15:28:15.527Z",
     "canonical:5f9844873d666e95": "2026-05-09T15:28:15.527Z",
     "canonical:2fc531ef306b7506": "2026-05-09T15:28:15.527Z",
     "canonical:a8652c25731ec5c0": "2026-05-09T15:28:15.527Z",
@@ -1175,7 +1169,6 @@
     "canonical:f335cc870420f551": "2026-06-03T00:01:07.922Z",
     "canonical:8c7c903dba7a9deb": "2026-06-03T00:01:07.922Z",
     "canonical:bc13c68e3c0844f5": "2026-06-03T00:01:07.922Z",
-    "canonical:15a3fc19d22b5423": "2026-06-03T00:01:07.922Z",
     "canonical:9f26983a768cc42f": "2026-06-03T00:01:07.922Z",
     "canonical:1e6f3b1eed01f03a": "2026-06-03T00:01:07.922Z",
     "canonical:8efabaca2c35a536": "2026-06-03T00:01:07.922Z",
@@ -1248,7 +1241,30 @@
     "canonical:7ff4f5a09ec23d64": "2026-06-04T22:43:20.014Z",
     "canonical:b2595de9378567ba": "2026-06-04T22:43:20.014Z",
     "canonical:19e4c96b6af5406c": "2026-06-04T22:43:20.014Z",
-    "canonical:7561f8e1c213eb1f": "2026-06-04T22:43:20.014Z"
+    "canonical:7561f8e1c213eb1f": "2026-06-04T22:43:20.014Z",
+    "canonical:ab4611fdb6793a47": "2026-06-04T23:50:18.472Z",
+    "canonical:029eb3cf2b108240": "2026-06-04T23:50:18.472Z",
+    "canonical:08a2d633c2ef1b09": "2026-06-04T23:50:18.472Z",
+    "canonical:7384807ea0df61cf": "2026-06-04T23:50:18.472Z",
+    "canonical:fddbe299448f436e": "2026-06-04T23:50:18.472Z",
+    "canonical:a44498a12494d8e0": "2026-06-04T23:50:18.472Z",
+    "canonical:30eff37a0373d994": "2026-06-04T23:50:18.472Z",
+    "canonical:f328dcf0563c46ce": "2026-06-04T23:50:18.472Z",
+    "canonical:ccecd0de63523dd7": "2026-06-04T23:50:18.472Z",
+    "canonical:1e423a804a7c32cd": "2026-06-04T23:50:18.472Z",
+    "canonical:b34ee6f6e7d3ffb3": "2026-06-04T23:50:18.472Z",
+    "canonical:ec7b5f1c953f0acf": "2026-06-04T23:50:18.472Z",
+    "canonical:7b565341af2d7a36": "2026-06-04T23:50:18.472Z",
+    "canonical:d7243946fe79b2df": "2026-06-04T23:50:18.472Z",
+    "canonical:d7d15c7cac2cdb4e": "2026-06-04T23:50:18.472Z",
+    "canonical:91b2fc8a3b48ac5e": "2026-06-04T23:50:18.472Z",
+    "canonical:9cad4a4c3e2e601d": "2026-06-04T23:50:18.472Z",
+    "canonical:6eed9627f9b3baa7": "2026-06-04T23:50:18.472Z",
+    "canonical:93e9b269ac729a21": "2026-06-04T23:50:18.472Z",
+    "canonical:6e9d6429e3249aaa": "2026-06-04T23:50:18.472Z",
+    "canonical:f97e52378206fda9": "2026-06-04T23:50:18.472Z",
+    "canonical:99d6a2e15a29d47e": "2026-06-04T23:50:18.472Z",
+    "canonical:4470d5fd97f0ae9c": "2026-06-04T23:50:18.472Z"
   },
   "jobs": [
     {
@@ -2047,10 +2063,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2060,10 +2076,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2262,19 +2278,6 @@
       ]
     },
     {
-      "id": "canonical:7b9ac45cbdadc4ef",
-      "title": "Developer GTM Intern – Enterprise Sales & AI Automation (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7789256?gh_jid=7789256",
-      "location": "In-Office",
-      "department": "",
-      "company": "Cloudflare",
-      "score": 38,
-      "scoreReasons": [
-        "direct ATS",
-        "lower-fit title"
-      ]
-    },
-    {
       "id": "canonical:ad23aadfeb5e4fdd",
       "title": "Global Trade Compliance Intern (Summer 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7799138?gh_jid=7799138",
@@ -2296,19 +2299,6 @@
       "score": 58,
       "scoreReasons": [
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:f75f97f48d6ee7be",
-      "title": "Marketing: AI Discoverability & Optimization Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7729719?gh_jid=7729719",
-      "location": "In-Office",
-      "department": "",
-      "company": "Cloudflare",
-      "score": 38,
-      "scoreReasons": [
-        "direct ATS",
-        "lower-fit title"
       ]
     },
     {
@@ -2436,7 +2426,7 @@
     {
       "id": "canonical:31dd1ab15c427f1e",
       "title": "Technical Support Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726977?gh_jid=7726977",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -4131,18 +4121,6 @@
       ]
     },
     {
-      "id": "canonical:1d4b604c705ac631",
-      "title": "Research Intern - Office of Applied Research",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556636970",
-      "location": "Redmond, WA",
-      "department": "AI/ML/Data",
-      "company": "Microsoft",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:140768fa6d899ca5",
       "title": "Research Intern - Systems For Efficient AI",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556621783",
@@ -5034,6 +5012,19 @@
       ]
     },
     {
+      "id": "canonical:ab4611fdb6793a47",
+      "title": "Research Scientist Intern - Security for AI - 2026 Start",
+      "url": "https://jobs.bytedance.com/en/position/7595676762475415861/detail",
+      "location": "San Jose, CA",
+      "department": "AI/ML/Data",
+      "company": "ByteDance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:fa4c9bcbdd3d4a44",
       "title": "Frontend Engineer Intern",
       "url": "https://lifeattiktok.com/search/7595733632086591797",
@@ -5261,6 +5252,32 @@
       ]
     },
     {
+      "id": "canonical:029eb3cf2b108240",
+      "title": "Software Engineer Project Intern - Security-Data - 2026 Start",
+      "url": "https://jobs.bytedance.com/en/position/7600175469758040325/detail",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "ByteDance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:08a2d633c2ef1b09",
+      "title": "Security Software Engineer Project Intern - Network Security - 2026 Start",
+      "url": "https://jobs.bytedance.com/en/position/7600168555733027125/detail",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "ByteDance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:28e42db883c713ad",
       "title": "Software Intern - Autonomous Lab",
       "url": "https://job-boards.greenhouse.io/ginkgobioworks/jobs/5033167007",
@@ -5306,19 +5323,6 @@
       "url": "https://lifeattiktok.com/search/7600535181632457013",
       "location": "San Jose, CA",
       "department": "Software",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:3bef7b5f532f2200",
-      "title": "Machine Learning Engineer Intern - Search Ads - 2026 Summer (removed) BS/MS",
-      "url": "https://lifeattiktok.com/search/7600250402370586933",
-      "location": "San Jose, CA",
-      "department": "AI/ML/Data",
       "company": "TikTok",
       "score": 85,
       "scoreReasons": [
@@ -5986,6 +5990,19 @@
       ]
     },
     {
+      "id": "canonical:7384807ea0df61cf",
+      "title": "Software Engineer Intern - AI Infrastructure",
+      "url": "https://jobs.bytedance.com/en/position/7595756835349973253/detail",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "ByteDance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:7ff4f5a09ec23d64",
       "title": "Benefits Operation Data Analyst Project Intern",
       "url": "https://jobs.bytedance.com/en/position/7605524889478842677/detail",
@@ -6148,16 +6165,6 @@
         "high-signal role",
         "direct ATS"
       ]
-    },
-    {
-      "id": "canonical:291945307d05dc1c",
-      "title": "Research Intern - Cryptography and Applications",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556768703",
-      "location": "Redmond, WA",
-      "department": "Hardware",
-      "company": "Microsoft",
-      "score": 50,
-      "scoreReasons": []
     },
     {
       "id": "canonical:2b7e2c2fb8fd5982",
@@ -7279,6 +7286,32 @@
       ]
     },
     {
+      "id": "canonical:fddbe299448f436e",
+      "title": "Software Engineer Intern - Security-Data - BS/MS",
+      "url": "https://jobs.bytedance.com/en/position/7616874229010647349/detail",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "ByteDance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:a44498a12494d8e0",
+      "title": "Security Software Engineer Project Intern - Network Security - BS/MS",
+      "url": "https://jobs.bytedance.com/en/position/7618396290598045957/detail",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "ByteDance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:1ae22981c8ef9f13",
       "title": "Software Engineering Intern - Test Automation",
       "url": "https://job-boards.greenhouse.io/digs/jobs/4663939006",
@@ -7326,6 +7359,19 @@
       "company": "Rolls-Royce Motorcars",
       "score": 60,
       "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:30eff37a0373d994",
+      "title": "Software Engineer Project Intern - Network Security",
+      "url": "https://jobs.bytedance.com/en/position/7595749912930420997/detail",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "ByteDance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -8244,19 +8290,6 @@
       ]
     },
     {
-      "id": "canonical:34d2a8d552784567",
-      "title": "Machine Learning Engineer Intern - Monetization GenAI - BS/MS",
-      "url": "https://lifeattiktok.com/search/7533770205199386887",
-      "location": "San Jose, CA",
-      "department": "AI/ML/Data",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:5f9844873d666e95",
       "title": "Machine Learning Engineer Intern - Monetization Technology - Ads Creative AI",
       "url": "https://lifeattiktok.com/search/7535607378248550674",
@@ -8318,6 +8351,20 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:f328dcf0563c46ce",
+      "title": "Software Engineer Intern - Intern",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer-Intern--6-Month-intern--July--Dec_R-787596",
+      "location": "Burlington, MA",
+      "department": "Software",
+      "company": "State Street",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -8869,6 +8916,20 @@
       "company": "Etched",
       "score": 58,
       "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ccecd0de63523dd7",
+      "title": "Data Engineer Intern/Co-op - Fall 2026",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-Intern-Co-op--Fall-2026-_R_1481067",
+      "location": "Toronto, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "TD Bank",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
         "direct ATS"
       ]
     },
@@ -9589,6 +9650,18 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1e423a804a7c32cd",
+      "title": "AI Engineering Intern",
+      "url": "https://tifin.com/careers/apply/?gh_jid=5981740004",
+      "location": "Charlotte, NC / Boulder, CO",
+      "department": "Software",
+      "company": "TIFIN",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
       ]
     },
     {
@@ -11689,6 +11762,19 @@
       ]
     },
     {
+      "id": "canonical:b34ee6f6e7d3ffb3",
+      "title": "AV Software Safety Intern",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/AV-Software-Safety-Intern---Fall-2026_JR-202611005",
+      "location": "Markham, ON, Canada",
+      "department": "Hardware",
+      "company": "General Motors",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:c15c53c8a342ba6b",
       "title": "AI Agent Research & Application Intern",
       "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/UK-London/AI-Agent-Research---Application-Intern_R106432",
@@ -13023,6 +13109,19 @@
       ]
     },
     {
+      "id": "canonical:ec7b5f1c953f0acf",
+      "title": "Oliver Wyman Analyst Internship - Data & Analytics",
+      "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics---6-month-Analyst-Internship----Newcastle-2026_R_346450-1",
+      "location": "Newcastle upon Tyne, UK",
+      "department": "AI/ML/Data",
+      "company": "Marsh",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:dc784fbedc1313dc",
       "title": "Research Engineer Intern - Mapping & Localization",
       "url": "https://jobs.lever.co/plus-2/efbb82d3-1c4a-4fc9-8b40-ee1545085061/apply",
@@ -14047,19 +14146,6 @@
       ]
     },
     {
-      "id": "canonical:15a3fc19d22b5423",
-      "title": "Software Engineering DV+ Intern",
-      "url": "https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/Colorado---Broomfield/Intern--Software-Engineering-DV---Broomfield--CO-_R-01330",
-      "location": "Broomfield, CO",
-      "department": "Software",
-      "company": "Magnite",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:9f26983a768cc42f",
       "title": "Quantitative Trader Intern",
       "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?gh_jid=5151569007",
@@ -14821,6 +14907,144 @@
       "score": 68,
       "scoreReasons": [
         "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:7b565341af2d7a36",
+      "title": "Broadband Intern",
+      "url": "https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/High-Tech-Bound-Broadband-Intern_JR8298",
+      "location": "Dover, NH",
+      "department": "Software",
+      "company": "University System of New Hampshire",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:d7243946fe79b2df",
+      "title": "Data Scientist Intern",
+      "url": "http://prizepicks.com/position?gh_jid=7761731003",
+      "location": "Atlanta, GA",
+      "department": "AI/ML/Data",
+      "company": " PrizePicks",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:d7d15c7cac2cdb4e",
+      "title": "Hardware Design and Test Intern",
+      "url": "https://www.psiquantum.com/apply?gh_jid=7763020003",
+      "location": "Milpitas, CA",
+      "department": "Hardware",
+      "company": "PsiQuantum",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:91b2fc8a3b48ac5e",
+      "title": "Software Platform Designer Intern",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Platform-Designer-Intern_R031142",
+      "location": "Ottawa, ON, Canada",
+      "department": "Hardware",
+      "company": "Ciena",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:9cad4a4c3e2e601d",
+      "title": "Data Growth & Analytics Intern",
+      "url": "https://job-boards.greenhouse.io/earnin/jobs/7980784",
+      "location": "Mountain View, CA",
+      "department": "AI/ML/Data",
+      "company": "EarnIn",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:6eed9627f9b3baa7",
+      "title": "Reporting & Analytics Intern",
+      "url": "https://ekkf.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/8174",
+      "location": "Mansfield, MA",
+      "department": "AI/ML/Data",
+      "company": "Samsonite",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:93e9b269ac729a21",
+      "title": "Data Scientist Intern",
+      "url": "http://www.revance.com/careers/job-listings/?gh_jid=8578708002",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "Revance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:6e9d6429e3249aaa",
+      "title": "Digital Design / FPGA Engineering Intern",
+      "url": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Digital-Design---FPGA-Engineering---Intern_R02604",
+      "location": "San Jose, CA",
+      "department": "Hardware",
+      "company": "Altera Corporation",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f97e52378206fda9",
+      "title": "Sales & Data Analytics Intern",
+      "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Sales---Data-Analytics-Intern_REQ2026075659",
+      "location": "Troy, MI",
+      "department": "AI/ML/Data",
+      "company": "Valeo",
+      "score": 48,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS",
+        "lower-fit title"
+      ]
+    },
+    {
+      "id": "canonical:99d6a2e15a29d47e",
+      "title": "Firmware Engineer Intern",
+      "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/South-Portland-ME---USA/Intern-Firmware-Engineer_JR14698",
+      "location": "Portland, ME",
+      "department": "Hardware",
+      "company": "Generac",
+      "score": 83,
+      "scoreReasons": [
+        "SWE-aligned",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:4470d5fd97f0ae9c",
+      "title": "Lab Technician Intern",
+      "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Santa-Monica-CA----USA/Lab-Technician-Intern_JR14695",
+      "location": "Santa Monica, CA",
+      "department": "Hardware",
+      "company": "Generac",
+      "score": 58,
+      "scoreReasons": [
         "direct ATS"
       ]
     },
