@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-04T19:06:20.326Z",
+  "generatedAt": "2026-06-04T21:02:29.250Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1250,
+  "jobCount": 1249,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -384,7 +384,6 @@
     "canonical:516ca83ddb6d4d40": "2026-05-09T15:28:15.527Z",
     "canonical:b7aa3368b79cf2d9": "2026-05-09T15:28:15.527Z",
     "canonical:c6bd1cc3d8bd01b8": "2026-05-09T15:28:15.527Z",
-    "canonical:3b75d17ab8f5132e": "2026-05-09T15:28:15.527Z",
     "canonical:a0c77125fba7bf1a": "2026-05-09T15:28:15.527Z",
     "canonical:d3ce9a5e5ddb0169": "2026-05-09T15:28:15.527Z",
     "canonical:4c5e1f6f6dc5a517": "2026-05-09T15:28:15.527Z",
@@ -2052,10 +2051,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2065,10 +2064,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -6631,20 +6630,6 @@
       "scoreReasons": [
         "direct ATS",
         "lower-fit title"
-      ]
-    },
-    {
-      "id": "canonical:3b75d17ab8f5132e",
-      "title": "GTM Data Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/skydio/b90b9b3b-e326-4fb6-85bd-fe52bec5f180/application",
-      "location": "San Mateo, CA",
-      "department": "AI/ML/Data",
-      "company": "Skydio",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {

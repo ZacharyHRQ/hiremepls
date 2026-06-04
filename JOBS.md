@@ -1,6 +1,6 @@
 # Open Internships
 
-**1250** internships across **63/64** companies — last updated 2026-06-04.
+**1249** internships across **63/64** companies — last updated 2026-06-04.
 
 ## Companies
 
@@ -441,7 +441,7 @@
 - [Sila Nanotechnologies](#sila-nanotechnologies) (3)
 - [Simular](#simular) (2)
 - [Sixtyfour (X25)](#sixtyfour-x25) (1)
-- [Skydio](#skydio) (7)
+- [Skydio](#skydio) (6)
 - [Smartly.io](#smartly-io) (2)
 - [Smithfield Foods](#smithfield-foods) (1)
 - [Smiths Detection](#smiths-detection) (1)
@@ -3649,7 +3649,6 @@
 | [Autonomy Engineer Intern - Computer Vision/Deep Learning Summer 2026](https://jobs.ashbyhq.com/skydio/c84945f0-b8e0-4272-b636-265d6611a8eb/application) | 93 | San Mateo, CA | AI/ML/Data | 2026-05-09 |
 | [Autonomy Engineer Intern - Deep Learning - Computational Photography](https://jobs.ashbyhq.com/skydio/d13e3179-e646-4873-84a6-d492a692bc25/application) | 93 | San Mateo, CA | AI/ML/Data | 2026-05-09 |
 | [Autonomy Engineer Intern Summer 2026](https://jobs.ashbyhq.com/skydio/17f6173b-c96f-4b02-a6b5-da0a91ad95e5/application) | 93 | San Mateo, CA | Software | 2026-05-09 |
-| [GTM Data Engineer Intern](https://jobs.ashbyhq.com/skydio/b90b9b3b-e326-4fb6-85bd-fe52bec5f180/application) | 93 | San Mateo, CA | AI/ML/Data | 2026-05-09 |
 | [PhD Autonomy Engineer Intern - Deep Learning or Computer Vision](https://jobs.ashbyhq.com/skydio/8d3979a8-c791-4825-8cf4-9b25479b9519/application) | 93 | San Mateo, CA | AI/ML/Data | 2026-05-09 |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/skydio/f6320e9b-4eed-408d-8d37-d509fb0406ee/application) | 93 | San Mateo, CA | Software | 2026-05-09 |
 
@@ -3808,8 +3807,8 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [PhD Data Scientist Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | Seattle, WA / SF / Chicago, IL / NYC | AI/ML/Data | 2026-05-09 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | 56 | Mexico City, Mexico | — | 2026-05-06 |
