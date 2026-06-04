@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-04T13:46:16.507Z",
+  "generatedAt": "2026-06-04T16:43:51.667Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1262,
+  "jobCount": 1261,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -550,7 +550,6 @@
     "canonical:2dea1323b86b46fa": "2026-05-09T15:28:15.527Z",
     "canonical:fdec04dde5c5fea4": "2026-05-09T15:28:15.527Z",
     "canonical:31dee9f85cf9e5f7": "2026-05-09T15:28:15.527Z",
-    "canonical:56696289e5f79c88": "2026-05-09T15:28:15.527Z",
     "canonical:7fe1ed821878aa89": "2026-05-09T15:28:15.527Z",
     "canonical:943af7961887dfc9": "2026-05-09T15:28:15.527Z",
     "canonical:04da800cf83cb9bd": "2026-05-09T15:28:15.527Z",
@@ -1166,7 +1165,6 @@
     "canonical:5f90f28de55ffffe": "2026-06-01T23:55:48.935Z",
     "canonical:7fe66c00294bc239": "2026-06-01T23:55:48.935Z",
     "canonical:483e01474f6b2967": "2026-06-01T23:55:48.935Z",
-    "canonical:240cb197392c450c": "2026-06-01T23:55:48.935Z",
     "canonical:6cdd1633b8f5ce3a": "2026-06-01T23:55:48.935Z",
     "canonical:59d5925083ef4661": "2026-06-01T23:55:48.935Z",
     "canonical:13e1acc0b159fe16": "2026-06-01T23:55:48.935Z",
@@ -1196,7 +1194,6 @@
     "canonical:8c7c903dba7a9deb": "2026-06-03T00:01:07.922Z",
     "canonical:bc13c68e3c0844f5": "2026-06-03T00:01:07.922Z",
     "canonical:15a3fc19d22b5423": "2026-06-03T00:01:07.922Z",
-    "canonical:f137ccd4a28f4bbe": "2026-06-03T00:01:07.922Z",
     "canonical:9f26983a768cc42f": "2026-06-03T00:01:07.922Z",
     "canonical:1e6f3b1eed01f03a": "2026-06-03T00:01:07.922Z",
     "canonical:8efabaca2c35a536": "2026-06-03T00:01:07.922Z",
@@ -1265,7 +1262,9 @@
     "canonical:6a08b8735bc24eb5": "2026-06-04T02:03:01.247Z",
     "canonical:8c45020d76e40a27": "2026-06-04T10:33:21.660Z",
     "canonical:a42f4515fa54d659": "2026-06-04T10:33:21.660Z",
-    "canonical:82923c3db9bd2d1e": "2026-06-04T10:33:21.660Z"
+    "canonical:82923c3db9bd2d1e": "2026-06-04T10:33:21.660Z",
+    "canonical:e39e94bd5b2bc9e3": "2026-06-04T16:43:51.667Z",
+    "canonical:58447230d12761f6": "2026-06-04T16:43:51.667Z"
   },
   "jobs": [
     {
@@ -9121,19 +9120,6 @@
       ]
     },
     {
-      "id": "canonical:56696289e5f79c88",
-      "title": "Data Science Intern",
-      "url": "https://job-boards.greenhouse.io/cmt/jobs/7818122",
-      "location": "Cambridge, MA",
-      "department": "AI/ML/Data",
-      "company": "Cambridge Mobile Telematics",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:7fe1ed821878aa89",
       "title": "Generative AI/Agentic AI/Research Intern",
       "url": "https://careers-cotiviti.icims.com/jobs/18929/job?mobile=true&needsRedirect=false",
@@ -13942,20 +13928,6 @@
       ]
     },
     {
-      "id": "canonical:240cb197392c450c",
-      "title": "AI/ML Engineer Intern - Data Engineering",
-      "url": "https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/AI-ML-Engineer-Intern--Data-Engineering_R0019781",
-      "location": "Plano, TX",
-      "department": "AI/ML/Data",
-      "company": "Ryan",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:6cdd1633b8f5ce3a",
       "title": "AI Research Marketing Intern",
       "url": "https://jobs.ashbyhq.com/lambda/1c764f96-966d-4560-8087-35452480d330/application",
@@ -14300,19 +14272,6 @@
       "location": "Broomfield, CO",
       "department": "Software",
       "company": "Magnite",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:f137ccd4a28f4bbe",
-      "title": "Data Science / Analytics Intern - Technology Solutions",
-      "url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/USA-NC-Morrisville-Hybrid/Data-Science---Analytics-Intern---Technology-Solutions_25109426",
-      "location": "Morrisville, NC",
-      "department": "AI/ML/Data",
-      "company": "Syneos Health",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -15054,6 +15013,33 @@
       "company": "Gensyn",
       "score": 68,
       "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:e39e94bd5b2bc9e3",
+      "title": "Mitacs Research Intern",
+      "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Canada---St-Johns---Newfoundland--Labrador/Verafin---MITACs-Research-Intern--Fall-2026-_R0026283",
+      "location": "St. John's, NL, Canada",
+      "department": "AI/ML/Data",
+      "company": "Nasdaq",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:58447230d12761f6",
+      "title": "Application Engineer Intern",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/CAMBRIDGE/Application-Engineering-Intern_R55054",
+      "location": "Cambridge, UK",
+      "department": "Software",
+      "company": "Cadence Design Systems",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]

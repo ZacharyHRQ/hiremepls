@@ -1,6 +1,6 @@
 # Open Internships
 
-**1262** internships across **63/64** companies — last updated 2026-06-04.
+**1261** internships across **63/64** companies — last updated 2026-06-04.
 
 ## Companies
 
@@ -97,9 +97,8 @@
 - [Brunswick](#brunswick) (1)
 - [By Light Professional IT Services](#by-light-professional-it-services) (2)
 - [ByteDance](#bytedance) (18)
-- [Cadence Design Systems](#cadence-design-systems) (3)
+- [Cadence Design Systems](#cadence-design-systems) (4)
 - [CAE](#cae) (1)
-- [Cambridge Mobile Telematics](#cambridge-mobile-telematics) (1)
 - [Capella](#capella) (2)
 - [CareScout](#carescout) (1)
 - [Caterpillar Inc.](#caterpillar-inc) (1)
@@ -338,6 +337,7 @@
 - [Monolithic Power Systems](#monolithic-power-systems) (2)
 - [Multiply Labs](#multiply-labs) (2)
 - [Naïve](#na-ve) (1)
+- [Nasdaq](#nasdaq) (1)
 - [Nash](#nash) (2)
 - [Nationwide Children's Hospital](#nationwide-children-s-hospital) (1)
 - [NBCUniversal](#nbcuniversal) (2)
@@ -424,7 +424,6 @@
 - [RTW Investments](#rtw-investments) (1)
 - [RTX](#rtx) (4)
 - [Rundoo](#rundoo) (1)
-- [Ryan](#ryan) (1)
 - [Salesforce](#salesforce) (1)
 - [Samaya](#samaya) (1)
 - [Samsung](#samsung) (2)
@@ -477,7 +476,6 @@
 - [Susquehanna International Group, LLP (SIG)](#susquehanna-international-group-llp-sig) (3)
 - [SWBC](#swbc) (2)
 - [Symmetry Systems](#symmetry-systems) (1)
-- [Syneos Health](#syneos-health) (1)
 - [Syntax](#syntax) (1)
 - [Taara](#taara) (1)
 - [TDS](#tds) (1)
@@ -1219,6 +1217,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Application Engineer Intern](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/CAMBRIDGE/Application-Engineering-Intern_R55054) | 93 | Cambridge, UK | Software | 2026-06-04 |
 | [Product Engineering Intern - Simulation and Verification](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/Burlington-MA/Product-Engineering-Internship--Simulation-and-Verification--Summer-2026-_R53475) | 58 | Burlington, MA | Hardware | 2026-05-22 |
 | [Software Engineering Intern](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/PITTSBURGH-03/Software-Engineering-Intern_R52334-2) | 68 | Pittsburgh, PA | AI/ML/Data | 2026-05-17 |
 | [Software Intern](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Intern_R53282) | 68 | San Jose, CA | Software | 2026-05-09 |
@@ -1228,12 +1227,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Data Analyst Intern](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-IT-105-Data-Analyst--Intern---_120935) | 68 | Montreal, QC, Canada | AI/ML/Data | 2026-05-19 |
-
-## Cambridge Mobile Telematics
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Science Intern](https://job-boards.greenhouse.io/cmt/jobs/7818122) | 68 | Cambridge, MA | AI/ML/Data | 2026-05-09 |
 
 ## Capella
 
@@ -2896,6 +2889,12 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://www.workatastartup.com/jobs/94647) | 91 | San Francisco, CA / Remote | — | 2026-05-14 |
 
+## Nasdaq
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Mitacs Research Intern](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Canada---St-Johns---Newfoundland--Labrador/Verafin---MITACs-Research-Intern--Fall-2026-_R0026283) | 68 | St. John's, NL, Canada | AI/ML/Data | 2026-06-04 |
+
 ## Nash
 
 | Title | Score | Location | Department | First seen |
@@ -3538,12 +3537,6 @@
 | --- | --- | --- | --- | --- |
 | [Data Science Intern](https://jobs.ashbyhq.com/rundoo/e3cc536d-d45d-4579-a301-59f7dc5e980c/application) | 68 | Chicago, IL | AI/ML/Data | 2026-05-09 |
 
-## Ryan
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI/ML Engineer Intern - Data Engineering](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/AI-ML-Engineer-Intern--Data-Engineering_R0019781) | 93 | Plano, TX | AI/ML/Data | 2026-06-01 |
-
 ## Salesforce
 
 | Title | Score | Location | Department | First seen |
@@ -3911,12 +3904,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Full Stack Software Engineer Intern](https://jobs.lever.co/SymmetrySystems/dbca271b-a99b-48ab-83f2-b596a037ad65/apply) | 93 | Remote in USA | Software | 2026-05-09 |
-
-## Syneos Health
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Science / Analytics Intern - Technology Solutions](https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/USA-NC-Morrisville-Hybrid/Data-Science---Analytics-Intern---Technology-Solutions_25109426) | 68 | Morrisville, NC | AI/ML/Data | 2026-06-03 |
 
 ## Syntax
 
