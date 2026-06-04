@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-04T21:02:29.250Z",
+  "generatedAt": "2026-06-04T22:43:20.014Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1249,
+  "jobCount": 1245,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -100,7 +100,6 @@
     "canonical:40b5e3e02c34b6ce": "2026-05-09T15:28:15.527Z",
     "canonical:d84f44faf2a6f55f": "2026-05-09T15:28:15.527Z",
     "canonical:ac5dfc417ca207db": "2026-05-09T15:28:15.527Z",
-    "canonical:65fdcb980fb824db": "2026-05-09T15:28:15.527Z",
     "canonical:8533e31ecb24678a": "2026-05-09T15:28:15.527Z",
     "canonical:8a7dca9a60b892fa": "2026-05-09T15:28:15.527Z",
     "canonical:e1f017c3a97e43b3": "2026-05-09T15:28:15.527Z",
@@ -474,7 +473,6 @@
     "canonical:13efad0dc5822e31": "2026-05-09T15:28:15.527Z",
     "canonical:ce622f58fc23d7cc": "2026-05-09T15:28:15.527Z",
     "canonical:c26baf9380adb64a": "2026-05-09T15:28:15.527Z",
-    "canonical:93ed244dfc406d11": "2026-05-09T15:28:15.527Z",
     "canonical:1715f95e1342997c": "2026-05-09T15:28:15.527Z",
     "canonical:6bc98e794c801a9d": "2026-05-09T15:28:15.527Z",
     "canonical:02233db9458d09d9": "2026-05-09T15:28:15.527Z",
@@ -547,7 +545,6 @@
     "canonical:7fe1ed821878aa89": "2026-05-09T15:28:15.527Z",
     "canonical:943af7961887dfc9": "2026-05-09T15:28:15.527Z",
     "canonical:04da800cf83cb9bd": "2026-05-09T15:28:15.527Z",
-    "canonical:1193b6fdb6c30a9f": "2026-05-09T15:28:15.527Z",
     "canonical:9508a5dd181c1039": "2026-05-09T15:28:15.527Z",
     "canonical:d13f9985cc389397": "2026-05-09T15:28:15.527Z",
     "canonical:3544193c91657c3b": "2026-05-09T15:28:15.527Z",
@@ -658,8 +655,6 @@
     "canonical:b5545588e338ddbb": "2026-05-09T15:28:15.527Z",
     "canonical:ae2198c9ecbb102e": "2026-05-11T00:06:33.325Z",
     "canonical:7c9a6f1e70b82f33": "2026-05-09T15:28:15.527Z",
-    "canonical:afd90239a4dd4bef": "2026-05-09T15:28:15.527Z",
-    "canonical:9331cde2b5d226e4": "2026-05-11T07:59:30.777Z",
     "canonical:6e6dee7bb1a50f06": "2026-05-11T16:44:59.304Z",
     "canonical:2f3d5b509ef4ff32": "2026-05-11T23:38:25.770Z",
     "canonical:589994bb1826abbc": "2026-05-11T23:38:25.770Z",
@@ -694,7 +689,6 @@
     "canonical:6f2e0452784720f9": "2026-05-14T23:10:51.689Z",
     "canonical:89e2504c81c54e71": "2026-05-14T23:10:51.689Z",
     "canonical:653e6c4028cd4aad": "2026-05-14T23:10:51.689Z",
-    "canonical:3457d942981f8a8d": "2026-05-15T00:08:35.274Z",
     "canonical:68184665a137dc8b": "2026-05-15T00:08:35.274Z",
     "canonical:87c70fd457783995": "2026-05-15T00:08:35.274Z",
     "canonical:31143e047ec31f91": "2026-05-15T04:15:31.167Z",
@@ -753,7 +747,6 @@
     "canonical:611906776fbfddab": "2026-05-09T15:28:15.527Z",
     "canonical:85e8bbf185683405": "2026-05-09T15:28:15.527Z",
     "canonical:f84c81f16f79dae9": "2026-05-09T15:28:15.527Z",
-    "canonical:2667bdbedaf0fb76": "2026-05-09T15:28:15.527Z",
     "canonical:368e64dedbd8ba08": "2026-05-09T15:28:15.527Z",
     "canonical:00e90bc881e9527b": "2026-05-09T15:28:15.527Z",
     "canonical:35348a1ebb7fc1d8": "2026-05-09T15:28:15.527Z",
@@ -1150,7 +1143,6 @@
     "canonical:b4a502570f796f0f": "2026-06-01T22:35:57.770Z",
     "canonical:a785eb87bfd537cd": "2026-06-01T22:35:57.770Z",
     "canonical:66ba15b883ef460c": "2026-06-01T22:35:57.770Z",
-    "canonical:4663bf188ff80322": "2026-06-01T23:55:48.935Z",
     "canonical:fe08c871264ee0a6": "2026-06-01T23:55:48.935Z",
     "canonical:679507220af48402": "2026-06-01T23:55:48.935Z",
     "canonical:5f90f28de55ffffe": "2026-06-01T23:55:48.935Z",
@@ -1244,7 +1236,6 @@
     "canonical:a75f26c83f13cb1f": "2026-06-04T02:03:01.247Z",
     "canonical:65efe72442411db0": "2026-06-04T02:03:01.247Z",
     "canonical:f29d9652976f2d45": "2026-06-04T02:03:01.247Z",
-    "canonical:ec7b5f1c953f0acf": "2026-06-04T02:03:01.247Z",
     "canonical:ecf345addfc0b406": "2026-06-04T02:03:01.247Z",
     "canonical:2216c0fa17b64f4e": "2026-06-04T02:03:01.247Z",
     "canonical:6a08b8735bc24eb5": "2026-06-04T02:03:01.247Z",
@@ -1252,7 +1243,12 @@
     "canonical:a42f4515fa54d659": "2026-06-04T10:33:21.660Z",
     "canonical:82923c3db9bd2d1e": "2026-06-04T10:33:21.660Z",
     "canonical:e39e94bd5b2bc9e3": "2026-06-04T16:43:51.667Z",
-    "canonical:58447230d12761f6": "2026-06-04T16:43:51.667Z"
+    "canonical:58447230d12761f6": "2026-06-04T16:43:51.667Z",
+    "canonical:763df8b7c0adebc0": "2026-06-04T22:43:20.014Z",
+    "canonical:7ff4f5a09ec23d64": "2026-06-04T22:43:20.014Z",
+    "canonical:b2595de9378567ba": "2026-06-04T22:43:20.014Z",
+    "canonical:19e4c96b6af5406c": "2026-06-04T22:43:20.014Z",
+    "canonical:7561f8e1c213eb1f": "2026-06-04T22:43:20.014Z"
   },
   "jobs": [
     {
@@ -2659,16 +2655,6 @@
         "SWE-aligned",
         "high-signal role"
       ]
-    },
-    {
-      "id": "canonical:65fdcb980fb824db",
-      "title": "Product Manager Intern - Tiktok Shop Apps and API",
-      "url": "https://lifeattiktok.com/search/7532187133094054162",
-      "location": "Seattle, WA",
-      "department": "Product",
-      "company": "TikTok",
-      "score": 50,
-      "scoreReasons": []
     },
     {
       "id": "canonical:8533e31ecb24678a",
@@ -5723,18 +5709,6 @@
       ]
     },
     {
-      "id": "canonical:4663bf188ff80322",
-      "title": "Analytics & Insights Intern",
-      "url": "https://www.weareroku.com/jobs/7589192?gh_jid=7589192",
-      "location": "NYC",
-      "department": "AI/ML/Data",
-      "company": "Roku",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:fe08c871264ee0a6",
       "title": "Relationship Manager Business Markets Intern",
       "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/FREDERICTON-New-Brunswick-Canada/Relationship-Manager-Business-Markets-Intern_R-0000158380",
@@ -5820,6 +5794,19 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:763df8b7c0adebc0",
+      "title": "Software Engineer Project Intern - Security Engineering",
+      "url": "https://jobs.bytedance.com/en/position/7600176309125466373/detail",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "ByteDance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
@@ -5999,6 +5986,18 @@
       ]
     },
     {
+      "id": "canonical:7ff4f5a09ec23d64",
+      "title": "Benefits Operation Data Analyst Project Intern",
+      "url": "https://jobs.bytedance.com/en/position/7605524889478842677/detail",
+      "location": "San Jose, CA",
+      "department": "AI/ML/Data",
+      "company": "ByteDance",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:00f50c09f337c39e",
       "title": "Technical Operations Intern",
       "url": "https://job-boards.greenhouse.io/gelberhandshake/jobs/4652889006",
@@ -6007,20 +6006,6 @@
       "company": "Gelber Group",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:2667bdbedaf0fb76",
-      "title": "Applied AI Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/parspec/0a897c21-0df7-40ba-85f2-694bf6678504/application",
-      "location": "San Mateo, CA",
-      "department": "AI/ML/Data",
-      "company": "Parspec",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -7972,6 +7957,19 @@
       ]
     },
     {
+      "id": "canonical:b2595de9378567ba",
+      "title": "Software Engineer Intern - Payment Network - Global Payment",
+      "url": "https://jobs.bytedance.com/en/position/7533369475380070663/detail",
+      "location": "Seattle, WA",
+      "department": "Software",
+      "company": "ByteDance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:13efad0dc5822e31",
       "title": "Machine Learning Engineer Intern - Global E-Commerce Content Recommendation - 2026 Summer",
       "url": "https://lifeattiktok.com/search/7527077153591675154",
@@ -8003,19 +8001,6 @@
       "url": "https://lifeattiktok.com/search/7534626087721240839",
       "location": "San Jose, CA",
       "department": "AI/ML/Data",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:93ed244dfc406d11",
-      "title": "Software Engineer Intern - Global CRM - 2026 Start",
-      "url": "https://lifeattiktok.com/search/7532247736243865864",
-      "location": "San Jose, CA",
-      "department": "Software",
       "company": "TikTok",
       "score": 85,
       "scoreReasons": [
@@ -9049,19 +9034,6 @@
       "location": "Bristol, UK",
       "department": "Hardware",
       "company": "Hewlett Packard (HP)",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:1193b6fdb6c30a9f",
-      "title": "Engineering Intern - AI Agents - Data & Riskos",
-      "url": "https://jobs.ashbyhq.com/socure/e54f1700-c922-4bcc-a087-45b24717f974/application",
-      "location": "Remote in USA",
-      "department": "Software",
-      "company": "Socure",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -10737,33 +10709,6 @@
       ]
     },
     {
-      "id": "canonical:afd90239a4dd4bef",
-      "title": "Machine Learning Applications & Benchmarking Intern",
-      "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4532863007",
-      "location": "Santa Clara, CA",
-      "department": "AI/ML/Data",
-      "company": "Tenstorrent",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:9331cde2b5d226e4",
-      "title": "AI Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/homebase/b61bc585-57bf-4918-8154-b8be27ff5a5e/application",
-      "location": "SF",
-      "department": "Software",
-      "company": "Homebase",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:6e6dee7bb1a50f06",
       "title": "Student Investigations Intern",
       "url": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260002YD",
@@ -11256,16 +11201,6 @@
       "scoreReasons": [
         "high-signal role"
       ]
-    },
-    {
-      "id": "canonical:3457d942981f8a8d",
-      "title": "Research Park Intern - Hardware Functional Safety",
-      "url": "https://careers.rivian.com/jobs/30493?lang=en-us&icims=1",
-      "location": "Urbana, IL",
-      "department": "Hardware",
-      "company": "Rivian",
-      "score": 50,
-      "scoreReasons": []
     },
     {
       "id": "canonical:68184665a137dc8b",
@@ -13088,19 +13023,6 @@
       ]
     },
     {
-      "id": "canonical:ec7b5f1c953f0acf",
-      "title": "Oliver Wyman Analyst Internship - Data & Analytics",
-      "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics---6-month-Analyst-Internship----Newcastle-2026_R_346450-1",
-      "location": "Newcastle upon Tyne, UK",
-      "department": "AI/ML/Data",
-      "company": "Marsh",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:dc784fbedc1313dc",
       "title": "Research Engineer Intern - Mapping & Localization",
       "url": "https://jobs.lever.co/plus-2/efbb82d3-1c4a-4fc9-8b40-ee1545085061/apply",
@@ -14872,6 +14794,32 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:19e4c96b6af5406c",
+      "title": "Software Engineer Intern - Developer Infrastructure",
+      "url": "https://jobs.bytedance.com/en/position/7595707875767699765/detail",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "ByteDance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:7561f8e1c213eb1f",
+      "title": "Data Coordinator Intern",
+      "url": "https://jeffersonhealth.wd5.myworkdayjobs.com/ThomasJeffersonExternal/job/Philadelphia-PA/Intern_REQ-0030269-1",
+      "location": "Philadelphia, PA",
+      "department": "AI/ML/Data",
+      "company": "Jefferson Health",
+      "score": 68,
+      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]

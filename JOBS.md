@@ -1,6 +1,6 @@
 # Open Internships
 
-**1249** internships across **63/64** companies — last updated 2026-06-04.
+**1245** internships across **63/64** companies — last updated 2026-06-04.
 
 ## Companies
 
@@ -96,7 +96,7 @@
 - [Brookfield](#brookfield) (1)
 - [Brunswick](#brunswick) (1)
 - [By Light Professional IT Services](#by-light-professional-it-services) (2)
-- [ByteDance](#bytedance) (18)
+- [ByteDance](#bytedance) (22)
 - [Cadence Design Systems](#cadence-design-systems) (4)
 - [CAE](#cae) (1)
 - [Capella](#capella) (2)
@@ -243,7 +243,7 @@
 - [Highmark Health](#highmark-health) (1)
 - [Hitachi](#hitachi) (5)
 - [HNTB](#hntb) (2)
-- [Homebase](#homebase) (2)
+- [Homebase](#homebase) (1)
 - [Honeywell](#honeywell) (2)
 - [Howard University](#howard-university) (3)
 - [HPM Building Supply](#hpm-building-supply) (1)
@@ -272,6 +272,7 @@
 - [iTradeNetwork](#itradenetwork) (1)
 - [Jade Global](#jade-global) (1)
 - [Jain Global](#jain-global) (1)
+- [Jefferson Health](#jefferson-health) (1)
 - [JINGDONG](#jingdong) (1)
 - [JP Morgan Chase](#jp-morgan-chase) (3)
 - [Jump Trading](#jump-trading) (3)
@@ -315,7 +316,6 @@
 - [Mariana Minerals](#mariana-minerals) (3)
 - [Maricopa Association of Governments (MAG)](#maricopa-association-of-governments-mag) (1)
 - [Marmon Holdings](#marmon-holdings) (1)
-- [Marsh](#marsh) (1)
 - [Marvell](#marvell) (5)
 - [MCG Health](#mcg-health) (1)
 - [Medical Informatics Engineering](#medical-informatics-engineering) (1)
@@ -367,7 +367,6 @@
 - [Paccar](#paccar) (2)
 - [Palantir](#palantir) (6)
 - [Paragon](#paragon) (1)
-- [Parspec](#parspec) (1)
 - [PathAI](#pathai) (1)
 - [PayPal](#paypal) (1)
 - [Pega](#pega) (1)
@@ -405,7 +404,7 @@
 - [Resolve Tech Solutions](#resolve-tech-solutions) (1)
 - [RESPEC](#respec) (1)
 - [Rippling](#rippling) (3)
-- [Rivian](#rivian) (2)
+- [Rivian](#rivian) (1)
 - [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (3)
 - [Robert Bosch Venture Capital](#robert-bosch-venture-capital) (1)
 - [Robert Half](#robert-half) (1)
@@ -413,7 +412,7 @@
 - [Roche](#roche) (1)
 - [Rocket Lab](#rocket-lab) (1)
 - [Rocket Lab USA](#rocket-lab-usa) (2)
-- [Roku](#roku) (3)
+- [Roku](#roku) (2)
 - [Rolls Royce](#rolls-royce) (5)
 - [Rolls-Royce Motorcars](#rolls-royce-motorcars) (2)
 - [Root Access](#root-access) (1)
@@ -448,7 +447,6 @@
 - [Snap](#snap) (1)
 - [Snowflake](#snowflake) (11)
 - [Snyk](#snyk) (2)
-- [Socure](#socure) (1)
 - [Solidigm](#solidigm) (1)
 - [SoloPulse](#solopulse) (2)
 - [Solva](#solva) (1)
@@ -481,7 +479,7 @@
 - [Techtronic Industries](#techtronic-industries) (1)
 - [Tencent](#tencent) (13)
 - [TENEX.AI](#tenex-ai) (1)
-- [Tenstorrent](#tenstorrent) (7)
+- [Tenstorrent](#tenstorrent) (6)
 - [Terranox AI](#terranox-ai) (1)
 - [Tesla](#tesla) (25)
 - [Tessera Labs](#tessera-labs) (1)
@@ -491,7 +489,7 @@
 - [The Exploration Company](#the-exploration-company) (1)
 - [The State Bar of California](#the-state-bar-of-california) (1)
 - [The Trade Desk](#the-trade-desk) (1)
-- [TikTok](#tiktok) (112)
+- [TikTok](#tiktok) (110)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
 - [Token Metrics](#token-metrics) (2)
@@ -1190,6 +1188,10 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern - Developer Infrastructure](https://jobs.bytedance.com/en/position/7595707875767699765/detail) | 85 | San Jose, CA | Software | 2026-06-04 |
+| [Software Engineer Intern - Payment Network - Global Payment](https://jobs.bytedance.com/en/position/7533369475380070663/detail) | 85 | Seattle, WA | Software | 2026-06-04 |
+| [Software Engineer Project Intern - Security Engineering](https://jobs.bytedance.com/en/position/7600176309125466373/detail) | 85 | San Jose, CA | Software | 2026-06-04 |
+| [Benefits Operation Data Analyst Project Intern](https://jobs.bytedance.com/en/position/7605524889478842677/detail) | 60 | San Jose, CA | AI/ML/Data | 2026-06-04 |
 | [Machine Learning Engineer Intern - E-commerce Governance Algorithms](https://jobs.bytedance.com/en/position/7535168003103033618/detail) | 85 | Seattle, WA | AI/ML/Data | 2026-06-03 |
 | [Machine Learning Engineer Intern - E-Commerce Knowledge Graph - Computer Vision/Multimodal/Natural Language Processing](https://jobs.bytedance.com/en/position/7543005612200970503/detail) | 85 | Seattle, WA | AI/ML/Data | 2026-06-03 |
 | [Machine Learning Engineer Intern - Global E-commerce Risk Control](https://jobs.bytedance.com/en/position/7535953226975054098/detail) | 85 | Seattle, WA | AI/ML/Data | 2026-06-03 |
@@ -2201,7 +2203,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [AI Engineer Intern](https://jobs.ashbyhq.com/homebase/b61bc585-57bf-4918-8154-b8be27ff5a5e/application) | 93 | SF | Software | 2026-05-11 |
 | [Forward Deployed Engineering Intern, AI-Native](https://jobs.ashbyhq.com/homebase/a7ab59c0-786e-4675-b684-2ed19b240fb2) | 58 | Houston, TX / San Francisco, CA | — | 2026-05-09 |
 
 ## Honeywell
@@ -2385,6 +2386,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Quant Research Intern](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/London-Office/Quant-Research-Intern--Summer-2026---London-_JR100353-1) | 68 | London, UK | Quant | 2026-05-09 |
+
+## Jefferson Health
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data Coordinator Intern](https://jeffersonhealth.wd5.myworkdayjobs.com/ThomasJeffersonExternal/job/Philadelphia-PA/Intern_REQ-0030269-1) | 68 | Philadelphia, PA | AI/ML/Data | 2026-06-04 |
 
 ## JINGDONG
 
@@ -2675,12 +2682,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Product Management/Marketing Intern - Summer 2026](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Charlotte-NC/Product-Management-Marketing-Intern---Summer-2026_JR0000037719-3) | 38 | Charlotte, NC | Product | 2026-05-17 |
-
-## Marsh
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Oliver Wyman Analyst Internship - Data & Analytics](https://mmc.wd1.myworkdayjobs.com/mmc/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics---6-month-Analyst-Internship----Newcastle-2026_R_346450-1) | 68 | Newcastle upon Tyne, UK | AI/ML/Data | 2026-06-04 |
 
 ## Marvell
 
@@ -3111,12 +3112,6 @@
 | --- | --- | --- | --- | --- |
 | [Forward Deployed Engineer (FDE) Intern](https://www.workatastartup.com/jobs/93642) | 56 | San Francisco, CA | — | 2026-05-09 |
 
-## Parspec
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Applied AI Engineer Intern](https://jobs.ashbyhq.com/parspec/0a897c21-0df7-40ba-85f2-694bf6678504/application) | 93 | San Mateo, CA | AI/ML/Data | 2026-05-09 |
-
 ## PathAI
 
 | Title | Score | Location | Department | First seen |
@@ -3403,7 +3398,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [UIUC Research Park Intern - Validation](https://careers.rivian.com/jobs/29771?lang=en-us&icims=1) | 50 | Urbana, IL | Hardware | 2026-05-15 |
-| [Research Park Intern - Hardware Functional Safety](https://careers.rivian.com/jobs/30493?lang=en-us&icims=1) | 50 | Urbana, IL | Hardware | 2026-05-15 |
 
 ## Rivian and Volkswagen Group Technologies
 
@@ -3454,7 +3448,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Analytics & Insights Intern](https://www.weareroku.com/jobs/7589192?gh_jid=7589192) | 60 | NYC | AI/ML/Data | 2026-06-01 |
 | [Software Engineer Intern](https://www.weareroku.com/jobs/7626224?gh_jid=7626224) | 85 | Cambridge, UK | Hardware | 2026-05-09 |
 | [Applied Science Intern - PhD](https://www.weareroku.com/jobs/7649515?gh_jid=7649515) | 60 | Cambridge, UK | AI/ML/Data | 2026-05-09 |
 
@@ -3700,12 +3693,6 @@
 | [Software Engineer Intern](https://snyk.wd103.myworkdayjobs.com/External/job/United-Kingdom---London-Office/Software-Engineer-Intern_JR100496) | 93 | London, UK | Software | 2026-05-16 |
 | [Software Engineer Intern - Code Rules - Developer Security Platform](https://snyk.wd103.myworkdayjobs.com/External/job/United-Kingdom---London-Office/Software-Engineer-Intern_JR100494) | 93 | London, UK | Software | 2026-05-16 |
 
-## Socure
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Engineering Intern - AI Agents - Data & Riskos](https://jobs.ashbyhq.com/socure/e54f1700-c922-4bcc-a087-45b24717f974/application) | 68 | Remote in USA | Software | 2026-05-09 |
-
 ## Solidigm
 
 | Title | Score | Location | Department | First seen |
@@ -3944,7 +3931,6 @@
 | [Formal Verification Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4868622007) | 58 | Austin, TX | Hardware | 2026-05-31 |
 | [Design Verification Engineer Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873756007) | 58 | Boston, MA | Hardware | 2026-05-11 |
 | [AI Compiler Software Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873659007) | 68 | Toronto, ON, Canada | Software | 2026-05-09 |
-| [Machine Learning Applications & Benchmarking Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4532863007) | 68 | Santa Clara, CA | AI/ML/Data | 2026-05-09 |
 | [Machine Learning for Physical Design Intern - CPU/AI Hardware](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501164007) | 68 | Austin, TX / Santa Clara, CA | AI/ML/Data | 2026-05-09 |
 | [Acceleration Kernel Developer Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4668120007) | 58 | Toronto, ON, Canada | Hardware | 2026-05-09 |
 | [Design Verification Intern - RISCV CPU](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501100007) | 58 | Austin, TX / Santa Clara, CA | Hardware | 2026-05-09 |
@@ -4099,7 +4085,6 @@
 | [Software Engineer Intern - Commerce Ads - 2026 Summer](https://lifeattiktok.com/search/7595346355196954933) | 85 | Seattle, WA | Software | 2026-05-09 |
 | [Software Engineer Intern - Data Ecosystem](https://lifeattiktok.com/search/7533387057667934482) | 85 | Seattle, WA | Software | 2026-05-09 |
 | [Software Engineer Intern - Experimentation & Evaluation - Data Platform](https://lifeattiktok.com/search/7534793633532479751) | 85 | San Jose, CA | Software | 2026-05-09 |
-| [Software Engineer Intern - Global CRM - 2026 Start](https://lifeattiktok.com/search/7532247736243865864) | 85 | San Jose, CA | Software | 2026-05-09 |
 | [Software Engineer Intern - Global Site Reliability Engineer](https://lifeattiktok.com/search/7536042624604997896) | 85 | San Jose, CA | Software | 2026-05-09 |
 | [Software Engineer Intern - Live Service - BS/MS](https://lifeattiktok.com/search/7538314547103762696) | 85 | San Jose, CA | Software | 2026-05-09 |
 | [Software Engineer Intern - Media Engine - BS/MS](https://lifeattiktok.com/search/7538304108715198727) | 85 | San Jose, CA | Software | 2026-05-09 |
@@ -4138,7 +4123,6 @@
 | [Product Manager Intern - Measurement Product - 2026 Summer','BS/MS](https://lifeattiktok.com/search/7600541513397487877) | 50 | San Jose, CA | Product | 2026-05-09 |
 | [Product Manager Intern - Multiple Teams](https://lifeattiktok.com/search/7533903394441873682) | 50 | San Jose, CA | Product | 2026-05-09 |
 | [Product Manager Intern - TikTok Product Content Ecosystem - BS/MS](https://lifeattiktok.com/search/7611679957136574773) | 50 | San Jose, CA | Product | 2026-05-09 |
-| [Product Manager Intern - Tiktok Shop Apps and API](https://lifeattiktok.com/search/7532187133094054162) | 50 | Seattle, WA | Product | 2026-05-09 |
 | [Product Manager Project Intern](https://lifeattiktok.com/search/7620569902743406901) | 50 | San Jose, CA | Product | 2026-05-09 |
 | [Product Manager Project Intern - Tiktok LIVE-Ecosystem Governance - 2026 Start](https://lifeattiktok.com/search/7598849238706735365) | 50 | San Jose, CA | Product | 2026-05-09 |
 | [Product Operations Project Intern - Advertising - Creative](https://lifeattiktok.com/search/7630838458010241333) | 50 | London, UK | Product | 2026-05-09 |
