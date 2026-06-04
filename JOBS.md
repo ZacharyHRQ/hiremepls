@@ -1,6 +1,6 @@
 # Open Internships
 
-**1267** internships across **63/64** companies — last updated 2026-06-03.
+**1269** internships across **63/64** companies — last updated 2026-06-04.
 
 ## Companies
 
@@ -89,8 +89,10 @@
 - [BNP Paribas](#bnp-paribas) (1)
 - [Bombardier](#bombardier) (1)
 - [Bosch](#bosch) (2)
+- [Bot Auto](#bot-auto) (1)
 - [Boys Town](#boys-town) (1)
 - [Brevian](#brevian) (1)
+- [Brex](#brex) (1)
 - [BrightAI](#brightai) (1)
 - [Brookfield](#brookfield) (1)
 - [Brunswick](#brunswick) (1)
@@ -203,6 +205,7 @@
 - [Fortive](#fortive) (1)
 - [Forvis Mazars US](#forvis-mazars-us) (1)
 - [Foundation ](#foundation) (1)
+- [FOX](#fox) (1)
 - [Fred Hutchinson Cancer Center](#fred-hutchinson-cancer-center) (1)
 - [GE Vernova](#ge-vernova) (3)
 - [Gelber Group](#gelber-group) (5)
@@ -298,7 +301,6 @@
 - [LegalZoom](#legalzoom) (1)
 - [Leidos](#leidos) (2)
 - [Lensa](#lensa) (3)
-- [Level AI](#level-ai) (1)
 - [LinkedIn](#linkedin) (3)
 - [LiveRamp](#liveramp) (4)
 - [LMI ](#lmi) (2)
@@ -318,6 +320,7 @@
 - [Mariana Minerals](#mariana-minerals) (3)
 - [Maricopa Association of Governments (MAG)](#maricopa-association-of-governments-mag) (1)
 - [Marmon Holdings](#marmon-holdings) (1)
+- [Marsh](#marsh) (1)
 - [Marvell](#marvell) (5)
 - [MCG Health](#mcg-health) (1)
 - [Medical Informatics Engineering](#medical-informatics-engineering) (1)
@@ -331,8 +334,8 @@
 - [Meta](#meta) (17)
 - [Metalenz](#metalenz) (1)
 - [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (4)
-- [Microchip Technology](#microchip-technology) (1)
-- [Microsoft](#microsoft) (47)
+- [Microchip Technology](#microchip-technology) (2)
+- [Microsoft](#microsoft) (45)
 - [MongoDB](#mongodb) (1)
 - [Monolithic Power Systems](#monolithic-power-systems) (2)
 - [Multiply Labs](#multiply-labs) (2)
@@ -346,7 +349,7 @@
 - [Nidec](#nidec) (1)
 - [Nightwing Intelligence Solutions](#nightwing-intelligence-solutions) (1)
 - [Nintendo](#nintendo) (1)
-- [Nio](#nio) (2)
+- [Nio](#nio) (3)
 - [Nissan Global](#nissan-global) (1)
 - [Nokia](#nokia) (15)
 - [Northwestern Mutual](#northwestern-mutual) (2)
@@ -360,7 +363,6 @@
 - [OmniSource](#omnisource) (1)
 - [onsemi](#onsemi) (3)
 - [Optiver](#optiver) (1)
-- [OpusClip](#opusclip) (2)
 - [Oracle](#oracle) (7)
 - [OTR Solutions](#otr-solutions) (1)
 - [Oura](#oura) (1)
@@ -483,7 +485,7 @@
 - [Teall Sports & Entertainment](#teall-sports-entertainment) (1)
 - [Technergetics](#technergetics) (1)
 - [Techtronic Industries](#techtronic-industries) (1)
-- [Tencent](#tencent) (12)
+- [Tencent](#tencent) (13)
 - [TENEX.AI](#tenex-ai) (1)
 - [Tenstorrent](#tenstorrent) (7)
 - [Terranox AI](#terranox-ai) (1)
@@ -1149,6 +1151,12 @@
 | [AI Research Intern - Wireless Perception](https://jobs.smartrecruiters.com/BoschGroup/c4621e0f-5c1e-4a67-adc4-0671cbcaf28c) | 68 | Pittsburgh, PA | Data Science, AI & Machine Learning | 2026-05-09 |
 | [LLM & Agentic AI R&D Intern](https://jobs.bosch.com/en/job/REF273459Q-llm-agentic-ai-r-d-intern) | 60 | Sunnyvale, CA | Data Science, AI & Machine Learning | 2026-05-09 |
 
+## Bot Auto
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Intern Software Engineer-Operation Platforms](https://job-boards.greenhouse.io/botauto/jobs/5182922008) | 93 | Houston, TX | Software | 2026-06-04 |
+
 ## Boys Town
 
 | Title | Score | Location | Department | First seen |
@@ -1160,6 +1168,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](https://ats.rippling.com/brevian-careers/jobs/0c7d22e5-4522-47e6-8f98-69a64c9ab484) | 60 | Sunnyvale, CA | Software | 2026-05-09 |
+
+## Brex
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Brex Internship Program](https://www.brex.com/careers/8578067002?gh_jid=8578067002) | 50 | São Paulo, São Paulo, Brazil | — | 2026-06-04 |
 
 ## BrightAI
 
@@ -1359,7 +1373,7 @@
 | [People Operations Intern (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7855832?gh_jid=7855832) | 58 | In-Office | — | 2026-05-06 |
 | [People Team Business Partner intern (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7855864?gh_jid=7855864) | 58 | In-Office | — | 2026-05-06 |
 | [Public Policy Intern, APJC (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7863831?gh_jid=7863831) | 58 | In-Office | — | 2026-05-06 |
-| [Technical Support Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879) | 58 | In-Office | — | 2026-05-06 |
+| [Technical Support Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7726977?gh_jid=7726977) | 58 | In-Office | — | 2026-05-06 |
 | [Threat Detection and Incident Response Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7577205?gh_jid=7577205) | 58 | In-Office | — | 2026-05-06 |
 | [Business Analyst Intern, Marketing (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7729700?gh_jid=7729700) | 38 | In-Office | — | 2026-05-06 |
 | [Developer GTM Intern – Enterprise Sales & AI Automation (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7789256?gh_jid=7789256) | 38 | In-Office | — | 2026-05-06 |
@@ -1939,6 +1953,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Controls Engineer Intern](https://ats.rippling.com/foundation-robotics/jobs/6a54984f-bb51-4ccf-a96d-6295a45de689) | 75 | SF | Hardware | 2026-05-09 |
+
+## FOX
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Fox Technology Intern](https://fox.wd1.myworkdayjobs.com/Domestic/job/USA---AZ---Tempe---2010-E-Centennial-Cir/Fox-2026-FOX-Technology-Internship-Program---Tempe--AZ_R50032649) | 68 | Tempe, AZ | Software | 2026-06-04 |
 
 ## Fred Hutchinson Cancer Center
 
@@ -2570,12 +2590,6 @@
 | [2026 Summer Internship Program - Investment Banking](https://www.linkedin.com/jobs/view/4257296455) | 42 | Baltimore, MD | — | 2026-05-16 |
 | [Accounting Internship Summer 2026](https://lensa.com/job-application-accounting-internship-summer-2026-in-wayne-pa/cpc-jd-v3/bdd3c15c3b73ec0e9b7e0b5b4cbefe35453222188f523f433d39e72a3abd4740?tr=b4a83a7f255547c9982fd106a9550d5aincc1&utm_source=linkedin&utm_medium=slot&utm_campaign=Financial+Specialists&utm_term=jse) | 22 | Wayne, PA | — | 2026-05-16 |
 
-## Level AI
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Research Intern/Co-op - Reinforcement Learning](https://jobs.lever.co/levelai/c1552b67-fc00-4dd8-9d8e-fd18427e31b3/apply) | 68 | California | AI/ML/Data | 2026-05-09 |
-
 ## LinkedIn
 
 | Title | Score | Location | Department | First seen |
@@ -2705,6 +2719,12 @@
 | --- | --- | --- | --- | --- |
 | [Product Management/Marketing Intern - Summer 2026](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Charlotte-NC/Product-Management-Marketing-Intern---Summer-2026_JR0000037719-3) | 38 | Charlotte, NC | Product | 2026-05-17 |
 
+## Marsh
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Oliver Wyman Analyst Internship - Data & Analytics](https://mmc.wd1.myworkdayjobs.com/mmc/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics---6-month-Analyst-Internship----Newcastle-2026_R_346450-1) | 68 | Newcastle upon Tyne, UK | AI/ML/Data | 2026-06-04 |
+
 ## Marvell
 
 | Title | Score | Location | Department | First seen |
@@ -2816,6 +2836,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Engineering Intern - Reliability](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern---Engineering--Reliability-_R2269-26) | 60 | Chandler, AZ | AI/ML/Data | 2026-06-04 |
 | [Intern Technician - Electronics](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/PA---Mount-Holly-Springs/Intern-Technician--Electronics-_R847-26) | 50 | Carlisle, PA | Hardware | 2026-05-17 |
 
 ## Microsoft
@@ -2824,7 +2845,6 @@
 | --- | --- | --- | --- | --- |
 | [Research Intern - Self-Improving AI](https://apply.careers.microsoft.com/careers/job/1970393556867858) | 60 | Cambridge, MA / NYC | AI/ML/Data | 2026-05-19 |
 | [Research Intern](https://apply.careers.microsoft.com/careers/job/1970393556621789) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
-| [Research Intern](https://apply.careers.microsoft.com/careers/job/1970393556641879) | 60 | Hillsboro, OR | AI/ML/Data | 2026-05-09 |
 | [Research Intern - Agentic Programming](https://apply.careers.microsoft.com/careers/job/1970393556750506) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - AI Evaluation and Alignment](https://apply.careers.microsoft.com/careers/job/1970393556735254) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - AI Frameworks - Network Systems and Tools](https://apply.careers.microsoft.com/careers/job/1970393556639524) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
@@ -2862,7 +2882,6 @@
 | [Research Intern - Multiple Teams](https://apply.careers.microsoft.com/careers/job/1970393556640831) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - Networking Research Group](https://apply.careers.microsoft.com/careers/job/1970393556622023) | 60 | Redmond, WA | Software | 2026-05-09 |
 | [Research Intern - Office of Applied Research](https://apply.careers.microsoft.com/careers/job/1970393556636970) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
-| [Research Intern - Onedrive and Sharepoint](https://apply.careers.microsoft.com/careers/job/1970393556640732) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - RiSE Group](https://apply.careers.microsoft.com/careers/job/1970393556621565) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - Sociotechnical Alignment Center](https://apply.careers.microsoft.com/careers/job/1970393556628319) | 60 | NYC | AI/ML/Data | 2026-05-09 |
 | [Research Intern - Systems For Efficient AI](https://apply.careers.microsoft.com/careers/job/1970393556621783) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
@@ -2961,6 +2980,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data Analysis Intern](https://nio.wd3.myworkdayjobs.com/NIO_Careers/job/San-Jose-US/Data-Analysis-Intern_R-000153) | 68 | San Jose, CA | AI/ML/Data | 2026-06-04 |
 | [LLM Algorithmic Optimization Engineer – Intern](https://nio.wd3.myworkdayjobs.com/NIO_Careers/job/San-Jose-US/LLM-Algorithmic-Optimization-Engineer---Intern_R-000119) | 93 | San Jose, CA | AI/ML/Data | 2026-05-16 |
 | [Systems Verification & Concurrent Kernel Architecture Research Intern](https://nio.wd3.myworkdayjobs.com/NIO_Careers/job/San-Jose-US/Systems-Verification---Concurrent-Kernel-Architecture-Research-Intern_R-000139) | 68 | San Jose, CA | Software | 2026-05-09 |
 
@@ -3070,13 +3090,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Trading Operations Analyst Intern (Summer 2026)](https://www.linkedin.com/jobs/view/4266985879) | 42 | Chicago, IL | — | 2026-05-16 |
-
-## OpusClip
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI Product Manager Intern](https://jobs.ashbyhq.com/opusclip/b3ac1b13-9afa-4e03-a91f-104f23e3b6db/application) | 58 | Palo Alto, CA | Product | 2026-05-09 |
-| [AI Product Manager Intern](https://jobs.ashbyhq.com/opusclip/5875cb24-d27e-4f79-bc2d-a664f5f02298/application) | 58 | Burnaby, BC, Canada | Product | 2026-05-09 |
 
 ## Oracle
 
@@ -3842,8 +3855,8 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [PhD Data Scientist Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | Seattle, WA / SF / Chicago, IL / NYC | AI/ML/Data | 2026-05-09 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | 56 | Mexico City, Mexico | — | 2026-05-06 |
@@ -3958,6 +3971,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Multimedia Development Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Multimedia-development-intern_R107331) | 68 | Palo Alto, CA | AI/ML/Data | 2026-06-04 |
 | [Game Research & Development Intern - Engine Research](https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/US-California-Los-Angeles/Game-Research---Development-Intern--Engine-Research_R107344) | 68 | LA | Software | 2026-06-01 |
 | [Game Research & Development Intern - Engine Research](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Game-Research---Development-Intern--Engine-Research_R107363-1) | 68 | Bellevue, WA | Software | 2026-06-01 |
 | [Data Science Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Data-Science-Intern_R106915) | 68 | Palo Alto, CA | AI/ML/Data | 2026-05-31 |
