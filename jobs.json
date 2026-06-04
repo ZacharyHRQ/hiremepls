@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-04T02:03:01.247Z",
+  "generatedAt": "2026-06-04T06:54:38.311Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1269,
+  "jobCount": 1268,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -397,7 +397,6 @@
     "canonical:91ce3b1cfd0df237": "2026-05-09T15:28:15.527Z",
     "canonical:6977eeeb4ce82805": "2026-05-09T15:28:15.527Z",
     "canonical:bc730aa27731fa93": "2026-05-09T15:28:15.527Z",
-    "canonical:e52e8b6621a38589": "2026-05-09T15:28:15.527Z",
     "canonical:58109eab3d5c6e17": "2026-05-09T15:28:15.527Z",
     "canonical:81494230370de12a": "2026-05-09T15:28:15.527Z",
     "canonical:6a149cb9a2be52a1": "2026-05-09T15:28:15.527Z",
@@ -2460,7 +2459,7 @@
     {
       "id": "canonical:31dd1ab15c427f1e",
       "title": "Technical Support Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726977?gh_jid=7726977",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -6866,19 +6865,6 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:e52e8b6621a38589",
-      "title": "Graduate Intern - Child Support",
-      "url": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260001QQ",
-      "location": "Agawam, MA",
-      "department": "AI/ML/Data",
-      "company": "Commonwealth of Massachusetts",
-      "score": 66,
-      "scoreReasons": [
-        "high-signal role",
-        "new grad"
       ]
     },
     {

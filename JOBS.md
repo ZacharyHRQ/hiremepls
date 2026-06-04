@@ -1,6 +1,6 @@
 # Open Internships
 
-**1269** internships across **63/64** companies — last updated 2026-06-04.
+**1268** internships across **63/64** companies — last updated 2026-06-04.
 
 ## Companies
 
@@ -126,7 +126,7 @@
 - [Cole Engineering Services](#cole-engineering-services) (1)
 - [Colgate-Palmolive](#colgate-palmolive) (1)
 - [Collabera](#collabera) (1)
-- [Commonwealth of Massachusetts](#commonwealth-of-massachusetts) (11)
+- [Commonwealth of Massachusetts](#commonwealth-of-massachusetts) (10)
 - [Conagra Brands](#conagra-brands) (2)
 - [ConnectPrep](#connectprep) (1)
 - [Context](#context) (1)
@@ -1373,7 +1373,7 @@
 | [People Operations Intern (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7855832?gh_jid=7855832) | 58 | In-Office | — | 2026-05-06 |
 | [People Team Business Partner intern (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7855864?gh_jid=7855864) | 58 | In-Office | — | 2026-05-06 |
 | [Public Policy Intern, APJC (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7863831?gh_jid=7863831) | 58 | In-Office | — | 2026-05-06 |
-| [Technical Support Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7726977?gh_jid=7726977) | 58 | In-Office | — | 2026-05-06 |
+| [Technical Support Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879) | 58 | In-Office | — | 2026-05-06 |
 | [Threat Detection and Incident Response Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7577205?gh_jid=7577205) | 58 | In-Office | — | 2026-05-06 |
 | [Business Analyst Intern, Marketing (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7729700?gh_jid=7729700) | 38 | In-Office | — | 2026-05-06 |
 | [Developer GTM Intern – Enterprise Sales & AI Automation (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7789256?gh_jid=7789256) | 38 | In-Office | — | 2026-05-06 |
@@ -1434,7 +1434,6 @@
 | [Contracted Student Intern - Commissioner’s Office](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260003HE) | 60 | Boston, MA | AI/ML/Data | 2026-05-27 |
 | [Medicaid Management Information Systems Knowledge Management Intern - Medicaid Management Information Systems - Artificial Intelligence](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260003GT) | 60 | Quincy, MA | AI/ML/Data | 2026-05-14 |
 | [Student Investigations Intern](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260002YD) | 60 | Boston, MA | AI/ML/Data | 2026-05-11 |
-| [Graduate Intern - Child Support](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260001QQ) | 66 | Agawam, MA | AI/ML/Data | 2026-05-09 |
 | [Aeronautics Drone Intern](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=26000160) | 60 | Boston, MA | AI/ML/Data | 2026-05-09 |
 | [Contracted Student Intern - Human Rights](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260003D5) | 60 | Boston, MA | AI/ML/Data | 2026-05-09 |
 | [Intern - Data Analytics](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=26000268) | 60 | Massachusetts | AI/ML/Data | 2026-05-09 |
