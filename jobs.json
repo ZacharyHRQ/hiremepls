@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-04T16:43:51.667Z",
+  "generatedAt": "2026-06-04T19:06:20.326Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1261,
+  "jobCount": 1250,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -224,12 +224,10 @@
     "canonical:12366dff95f1bcf5": "2026-05-09T15:28:15.527Z",
     "canonical:f16df1416ab28b77": "2026-05-09T15:28:15.527Z",
     "canonical:4a1c3d0bb9b68e0a": "2026-05-09T15:28:15.527Z",
-    "canonical:db4848874d4c3847": "2026-05-09T15:28:15.527Z",
     "canonical:dc02beebae1ad21a": "2026-05-09T15:28:15.527Z",
     "canonical:688d36ab860e9284": "2026-05-09T15:28:15.527Z",
     "canonical:3d5eb76daaa9b3dc": "2026-05-09T15:28:15.527Z",
     "canonical:8edc84b959cdb8e7": "2026-05-09T15:28:15.527Z",
-    "canonical:4fe0df359147a4a0": "2026-05-09T15:28:15.527Z",
     "canonical:af4717714b8c8cbd": "2026-05-09T15:28:15.527Z",
     "canonical:37a16e3baf1312a7": "2026-05-09T15:28:15.527Z",
     "canonical:bb0714fc6612e9fd": "2026-05-09T15:28:15.527Z",
@@ -392,7 +390,6 @@
     "canonical:4c5e1f6f6dc5a517": "2026-05-09T15:28:15.527Z",
     "canonical:a6145bd6dfb6a1e7": "2026-05-09T15:28:15.527Z",
     "canonical:9e42770bf99c0f7e": "2026-05-09T15:28:15.527Z",
-    "canonical:434af21585a47232": "2026-05-09T15:28:15.527Z",
     "canonical:2d6881328100367d": "2026-05-09T15:28:15.527Z",
     "canonical:91ce3b1cfd0df237": "2026-05-09T15:28:15.527Z",
     "canonical:6977eeeb4ce82805": "2026-05-09T15:28:15.527Z",
@@ -440,7 +437,6 @@
     "canonical:6a8d855111aa93f9": "2026-05-09T15:28:15.527Z",
     "canonical:cccfd6bd46e10dd8": "2026-05-09T15:28:15.527Z",
     "canonical:bb63a577c98aec70": "2026-05-09T15:28:15.527Z",
-    "canonical:1fa978c649ff2a51": "2026-05-09T15:28:15.527Z",
     "canonical:6826e54d8a988fcb": "2026-05-09T15:28:15.527Z",
     "canonical:f38b80d1d6c35520": "2026-05-09T15:28:15.527Z",
     "canonical:20fb43ce77afc2b5": "2026-05-09T15:28:15.527Z",
@@ -532,7 +528,6 @@
     "canonical:38f37f3ad8017ec7": "2026-05-09T15:28:15.527Z",
     "canonical:c340b9c31add6dab": "2026-05-09T15:28:15.527Z",
     "canonical:f35108fd0847ebf1": "2026-05-09T15:28:15.527Z",
-    "canonical:aad94258d0432b9c": "2026-05-09T15:28:15.527Z",
     "canonical:23c3f9ce43d5618a": "2026-05-09T15:28:15.527Z",
     "canonical:f4003a3b08e495be": "2026-05-09T15:28:15.527Z",
     "canonical:5b6e6fe93577551b": "2026-05-09T15:28:15.527Z",
@@ -677,7 +672,6 @@
     "canonical:660c78e7de1f78c8": "2026-05-11T23:38:25.770Z",
     "canonical:d740b7c5e5a74f25": "2026-05-11T23:38:25.770Z",
     "canonical:be8b159ede46d401": "2026-05-12T07:37:38.894Z",
-    "canonical:2a8d3ecb686342a4": "2026-05-09T15:28:15.527Z",
     "canonical:ce5569247a10aa36": "2026-05-13T22:37:04.081Z",
     "canonical:29b708845326ee9a": "2026-05-13T23:40:40.818Z",
     "canonical:266566b1da26f312": "2026-05-09T15:28:15.527Z",
@@ -1119,7 +1113,6 @@
     "canonical:aad2d16f8de8b63e": "2026-05-29T17:55:07.126Z",
     "canonical:e4ece6645315469a": "2026-05-29T17:55:07.126Z",
     "canonical:1df04de60e393fed": "2026-05-29T17:55:07.126Z",
-    "canonical:8da6925b3cea6863": "2026-05-29T23:40:29.541Z",
     "canonical:144ba34be805c34a": "2026-05-30T09:50:27.553Z",
     "canonical:b661e8e93c959d87": "2026-05-31T04:52:04.247Z",
     "canonical:b2ba7fb9dd17dfe9": "2026-05-31T04:52:04.247Z",
@@ -1144,7 +1137,6 @@
     "canonical:5aa98681f2cb7ce3": "2026-06-01T03:37:04.741Z",
     "canonical:c7cb2fdebec14a1b": "2026-06-01T03:37:04.741Z",
     "canonical:d640d83570b8aa4f": "2026-06-01T03:37:04.741Z",
-    "canonical:e114ffeace1ec173": "2026-06-01T03:37:04.741Z",
     "canonical:66c86d4723bacda5": "2026-06-01T03:37:04.741Z",
     "canonical:a54dfaa9c2670ee3": "2026-06-01T03:37:04.741Z",
     "canonical:689e051abf9096c5": "2026-06-01T09:03:18.496Z",
@@ -1177,7 +1169,6 @@
     "canonical:199eb23c208d8dfb": "2026-06-02T02:47:13.035Z",
     "canonical:546d2df3d841de6a": "2026-06-02T02:47:13.035Z",
     "canonical:de3b97b24f3f4ac3": "2026-06-02T02:47:13.035Z",
-    "canonical:7164b2f098ec1efa": "2026-06-03T00:01:07.922Z",
     "canonical:21698b3026c5ea94": "2026-06-03T00:01:07.922Z",
     "canonical:b390871ecd79ae1f": "2026-06-03T00:01:07.922Z",
     "canonical:591f77d8c25c0856": "2026-06-03T00:01:07.922Z",
@@ -1222,7 +1213,6 @@
     "canonical:0cb411253e09ff95": "2026-06-03T10:04:55.299Z",
     "canonical:b5a18fe0020bae08": "2026-06-03T10:04:55.299Z",
     "canonical:d5989df87e86b977": "2026-06-03T10:04:55.299Z",
-    "canonical:411bdab6bb2d495d": "2026-06-03T10:04:55.299Z",
     "canonical:aeb0200148d99b67": "2026-06-03T15:01:52.660Z",
     "canonical:f5d84370157fe2ee": "2026-06-03T15:01:52.660Z",
     "canonical:ebb76b72dcde08ce": "2026-06-03T15:01:52.660Z",
@@ -1248,7 +1238,6 @@
     "canonical:51c9b4da188261da": "2026-06-03T23:25:54.380Z",
     "canonical:aa0c8e0445457bff": "2026-06-03T23:25:54.380Z",
     "canonical:d722800642b2ff9f": "2026-06-03T23:25:54.380Z",
-    "canonical:448591376dcd3f32": "2026-06-03T23:25:54.380Z",
     "canonical:099c5f9d30b87085": "2026-06-03T23:25:54.380Z",
     "canonical:82e9d25d648cf521": "2026-06-03T23:25:54.380Z",
     "canonical:65c1435260c3a132": "2026-06-03T23:25:54.380Z",
@@ -2063,10 +2052,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2076,10 +2065,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2465,18 +2454,6 @@
       "id": "canonical:94acd2d1087ef9dd",
       "title": "Threat Detection and Incident Response Intern (Summer 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7577205?gh_jid=7577205",
-      "location": "In-Office",
-      "department": "",
-      "company": "Cloudflare",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:8da6925b3cea6863",
-      "title": "Video and Media Production Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7964856?gh_jid=7964856",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -3723,19 +3700,6 @@
       ]
     },
     {
-      "id": "canonical:7164b2f098ec1efa",
-      "title": "Product Development Intern",
-      "url": "https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/New-York-NY-USA/Product-Development-Intern---Americas--Summer-2026--_R30436",
-      "location": "Austin, TX / Westport, CT / NYC",
-      "department": "Software",
-      "company": "FactSet",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:1975c7c0a164af01",
       "title": "Full Stack Developer Intern",
       "url": "https://jobs.ashbyhq.com/walrusfi/99c93c0e-ed9a-4e41-862a-0cdbe71d7d54",
@@ -4278,18 +4242,6 @@
       ]
     },
     {
-      "id": "canonical:db4848874d4c3847",
-      "title": "Research Intern - Networking Research Group",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556622023",
-      "location": "Redmond, WA",
-      "department": "Software",
-      "company": "Microsoft",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:dc02beebae1ad21a",
       "title": "Research Intern - AI Hardware",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556621664",
@@ -4330,18 +4282,6 @@
       "title": "Research Intern - Artificial Intelligence",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556621503",
       "location": "Vancouver, BC, Canada",
-      "department": "AI/ML/Data",
-      "company": "Microsoft",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:4fe0df359147a4a0",
-      "title": "Research Intern - AI Frameworks - Network Systems and Tools",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556639524",
-      "location": "Redmond, WA",
       "department": "AI/ML/Data",
       "company": "Microsoft",
       "score": 60,
@@ -6773,18 +6713,6 @@
       ]
     },
     {
-      "id": "canonical:434af21585a47232",
-      "title": "Research Intern - AI Safety and Security",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556826707",
-      "location": "Redmond, WA",
-      "department": "AI/ML/Data",
-      "company": "Microsoft",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:2d6881328100367d",
       "title": "Quantitative Research Analyst Intern - Bachelor Master - US",
       "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-us/",
@@ -7513,19 +7441,6 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:1fa978c649ff2a51",
-      "title": "Research Scientist Intern - Applied Vision in Augmented Reality - PhD",
-      "url": "https://www.metacareers.com/jobs/1134286408770089",
-      "location": "Redmond, WA",
-      "department": "AI/ML/Data",
-      "company": "Meta",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -8828,19 +8743,6 @@
       "id": "canonical:f35108fd0847ebf1",
       "title": "Software Engineer Intern - Media Engine - BS/MS",
       "url": "https://lifeattiktok.com/search/7538304108715198727",
-      "location": "San Jose, CA",
-      "department": "Software",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:aad94258d0432b9c",
-      "title": "Software Engineer Intern - Video-on-Demand Algorithm - 2026 Summer",
-      "url": "https://lifeattiktok.com/search/7538304000404244743",
       "location": "San Jose, CA",
       "department": "Software",
       "company": "TikTok",
@@ -11030,19 +10932,6 @@
       "company": "Formlabs",
       "score": 60,
       "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:2a8d3ecb686342a4",
-      "title": "Machine Learning Engineer Intern - Usds - 2026 Summer",
-      "url": "https://lifeattiktok.com/search/7547370946877901063",
-      "location": "San Jose, CA",
-      "department": "AI/ML/Data",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -13735,21 +13624,6 @@
       ]
     },
     {
-      "id": "canonical:e114ffeace1ec173",
-      "title": "FPGA Development Tools Engineer Graduate Intern",
-      "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Development-Tools-Engineer---Graduate-Intern_R02576",
-      "location": "Toronto, ON, Canada",
-      "department": "Software",
-      "company": "Altera Corporation",
-      "score": 99,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:66c86d4723bacda5",
       "title": "Software Developer Intern - Stagiaire en Développement Logiciel",
       "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-2",
@@ -14635,20 +14509,6 @@
       ]
     },
     {
-      "id": "canonical:411bdab6bb2d495d",
-      "title": "Software Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/instead/jobs/7761472003",
-      "location": "SF",
-      "department": "Software",
-      "company": "Instead",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:ebb76b72dcde08ce",
       "title": "Technical Intern - Data Engineering & AI",
       "url": "https://careers-here.icims.com/jobs/81496/job?mobile=true&needsRedirect=false",
@@ -14884,19 +14744,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:448591376dcd3f32",
-      "title": "AI Software Development Team Intern",
-      "url": "https://situsamc.wd1.myworkdayjobs.com/SitusAMC/job/Remote/Intern---AI-Software-Development-Team_JR02562",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "SitusAMC",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {

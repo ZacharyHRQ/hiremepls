@@ -1,6 +1,6 @@
 # Open Internships
 
-**1261** internships across **63/64** companies — last updated 2026-06-04.
+**1250** internships across **63/64** companies — last updated 2026-06-04.
 
 ## Companies
 
@@ -21,7 +21,7 @@
 - [Al Warren Oil Company](#al-warren-oil-company) (2)
 - [Allium](#allium) (1)
 - [AltaML](#altaml) (1)
-- [Altera Corporation](#altera-corporation) (2)
+- [Altera Corporation](#altera-corporation) (1)
 - [Alteryx](#alteryx) (1)
 - [Altom Transport](#altom-transport) (1)
 - [Amazon](#amazon) (14)
@@ -115,7 +115,7 @@
 - [Citadel Securities](#citadel-securities) (3)
 - [City of Largo](#city-of-largo) (1)
 - [Clarivate](#clarivate) (1)
-- [Cloudflare](#cloudflare) (18)
+- [Cloudflare](#cloudflare) (17)
 - [Cloudforce](#cloudforce) (2)
 - [CME Group](#cme-group) (1)
 - [Codeage](#codeage) (1)
@@ -184,7 +184,6 @@
 - [EXL](#exl) (1)
 - [Expedia Group](#expedia-group) (2)
 - [Facility Solutions Group](#facility-solutions-group) (1)
-- [FactSet](#factset) (1)
 - [Faire](#faire) (1)
 - [Falcomm](#falcomm) (1)
 - [Fanatics](#fanatics) (3)
@@ -258,7 +257,6 @@
 - [Infojini](#infojini) (1)
 - [Inizio](#inizio) (1)
 - [Instawork](#instawork) (1)
-- [Instead](#instead) (1)
 - [Institute of Foundation Models](#institute-of-foundation-models) (1)
 - [Integra FEC](#integra-fec) (1)
 - [Integrity](#integrity) (1)
@@ -328,11 +326,11 @@
 - [Mercedes-Benz](#mercedes-benz) (2)
 - [Mercor](#mercor) (1)
 - [Meshy](#meshy) (1)
-- [Meta](#meta) (17)
+- [Meta](#meta) (16)
 - [Metalenz](#metalenz) (1)
 - [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (4)
 - [Microchip Technology](#microchip-technology) (2)
-- [Microsoft](#microsoft) (45)
+- [Microsoft](#microsoft) (42)
 - [MongoDB](#mongodb) (1)
 - [Monolithic Power Systems](#monolithic-power-systems) (2)
 - [Multiply Labs](#multiply-labs) (2)
@@ -442,7 +440,6 @@
 - [Shopify](#shopify) (1)
 - [Sila Nanotechnologies](#sila-nanotechnologies) (3)
 - [Simular](#simular) (2)
-- [SitusAMC](#situsamc) (1)
 - [Sixtyfour (X25)](#sixtyfour-x25) (1)
 - [Skydio](#skydio) (7)
 - [Smartly.io](#smartly-io) (2)
@@ -494,7 +491,7 @@
 - [The Exploration Company](#the-exploration-company) (1)
 - [The State Bar of California](#the-state-bar-of-california) (1)
 - [The Trade Desk](#the-trade-desk) (1)
-- [TikTok](#tiktok) (114)
+- [TikTok](#tiktok) (112)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
 - [Token Metrics](#token-metrics) (2)
@@ -662,7 +659,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [FPGA Development Tools Engineer Graduate Intern](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Development-Tools-Engineer---Graduate-Intern_R02576) | 99 | Toronto, ON, Canada | Software | 2026-06-01 |
 | [FPGA Machine Learning Engineering Intern](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Machine-Learning-Engineering---Graduate-Intern_R02455) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-06-01 |
 
 ## Alteryx
@@ -1338,7 +1334,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Video and Media Production Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7964856?gh_jid=7964856) | 58 | In-Office | — | 2026-05-29 |
 | [People Team Intern - HR Operations & AI Innovation (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240) | 58 | In-Office | — | 2026-05-20 |
 | [Network Engineering Intern (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7929538?gh_jid=7929538) | 58 | In-Office | — | 2026-05-18 |
 | [Solutions Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7738938?gh_jid=7738938) | 58 | In-Office | — | 2026-05-15 |
@@ -1815,12 +1810,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [AI Automation Intern - Electrical Construction Operations](https://careers-fsg.icims.com/jobs/2406/job?mobile=true&needsRedirect=false) | 60 | NYC | AI/ML/Data | 2026-05-14 |
-
-## FactSet
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Product Development Intern](https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/New-York-NY-USA/Product-Development-Intern---Americas--Summer-2026--_R30436) | 68 | Austin, TX / Westport, CT / NYC | Software | 2026-06-03 |
 
 ## Faire
 
@@ -2305,12 +2294,6 @@
 | --- | --- | --- | --- | --- |
 | [Product Operations Intern](https://job-boards.greenhouse.io/instawork/jobs/4588237006) | 58 | Chicago, IL | Product | 2026-05-09 |
 
-## Instead
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://job-boards.greenhouse.io/instead/jobs/7761472003) | 93 | SF | Software | 2026-06-03 |
-
 ## Institute of Foundation Models
 
 | Title | Score | Location | Department | First seen |
@@ -2782,7 +2765,6 @@
 | [Research Scientist Intern - AI/ML - Core Ads Growth](https://www.metacareers.com/jobs/771948392580541) | 85 | London, UK | AI/ML/Data | 2026-05-09 |
 | [Research Scientist Intern - Applied Perception Science - PhD](https://www.metacareers.com/jobs/25766888559672059) | 85 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Scientist Intern - Applied Vision and Image Quality - PhD](https://www.metacareers.com/jobs/1422892385992613) | 85 | Redmond, WA | AI/ML/Data | 2026-05-09 |
-| [Research Scientist Intern - Applied Vision in Augmented Reality - PhD](https://www.metacareers.com/jobs/1134286408770089) | 85 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Scientist Intern - Photorealistic Telepresence](https://www.metacareers.com/jobs/2022109075207025) | 85 | Sausalito, CA / Redmond, WA / Pittsburgh, PA | AI/ML/Data | 2026-05-09 |
 | [Research Scientist Intern PhD - Applied Research](https://www.metacareers.com/jobs/2633206137040139) | 85 | Menlo Park, CA / NYC / Bellevue, WA | AI/ML/Data | 2026-05-09 |
 | [Research Scientist Intern, LLM Evaluation](https://www.metacareers.com/profile/job_details/4203446973242742) | 85 | New York, NY | Data Science, AI & Machine Learning | 2026-05-09 |
@@ -2821,13 +2803,11 @@
 | [Research Intern](https://apply.careers.microsoft.com/careers/job/1970393556621789) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - Agentic Programming](https://apply.careers.microsoft.com/careers/job/1970393556750506) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - AI Evaluation and Alignment](https://apply.careers.microsoft.com/careers/job/1970393556735254) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
-| [Research Intern - AI Frameworks - Network Systems and Tools](https://apply.careers.microsoft.com/careers/job/1970393556639524) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - AI Frontiers](https://apply.careers.microsoft.com/careers/job/1970393556864498) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - AI Frontiers - Reasoning & Agentic Models](https://apply.careers.microsoft.com/careers/job/1970393556621824) | 60 | Redmond, WA / NYC | AI/ML/Data | 2026-05-09 |
 | [Research Intern - AI Hardware](https://apply.careers.microsoft.com/careers/job/1970393556621661) | 60 | Vancouver, BC, Canada | AI/ML/Data | 2026-05-09 |
 | [Research Intern - AI Hardware](https://apply.careers.microsoft.com/careers/job/1970393556621664) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - AI Network Observability](https://apply.careers.microsoft.com/careers/job/1970393556639544) | 60 | Redmond, WA / Mountain View, CA | AI/ML/Data | 2026-05-09 |
-| [Research Intern - AI Safety and Security](https://apply.careers.microsoft.com/careers/job/1970393556826707) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - AI Systems & Architecture](https://apply.careers.microsoft.com/careers/job/1970393556631742) | 60 | Redmond, WA / Mountain View, CA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - AI Systems and Tools](https://apply.careers.microsoft.com/careers/job/1970393556748177) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - AI/ML Numerics & Efficiency](https://apply.careers.microsoft.com/careers/job/1970393556637096) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
@@ -2854,7 +2834,6 @@
 | [Research Intern - MSR Inclusive Futures Team](https://apply.careers.microsoft.com/careers/job/1970393556631751) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - Multimodal Language Models](https://apply.careers.microsoft.com/careers/job/1970393556628867) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - Multiple Teams](https://apply.careers.microsoft.com/careers/job/1970393556640831) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
-| [Research Intern - Networking Research Group](https://apply.careers.microsoft.com/careers/job/1970393556622023) | 60 | Redmond, WA | Software | 2026-05-09 |
 | [Research Intern - Office of Applied Research](https://apply.careers.microsoft.com/careers/job/1970393556636970) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - RiSE Group](https://apply.careers.microsoft.com/careers/job/1970393556621565) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - Sociotechnical Alignment Center](https://apply.careers.microsoft.com/careers/job/1970393556628319) | 60 | NYC | AI/ML/Data | 2026-05-09 |
@@ -3656,12 +3635,6 @@
 | [Software Engineer Intern](https://jobs.ashbyhq.com/Simular/063f177b-c3f2-44d2-8eeb-622a977e7d5a/application) | 93 | Palo Alto, CA | Software | 2026-05-09 |
 | [PhD Research Intern](https://jobs.ashbyhq.com/Simular/94cbb2c9-392a-4cea-a9bf-cb6c80be3009/application) | 68 | Palo Alto, CA | AI/ML/Data | 2026-05-09 |
 
-## SitusAMC
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI Software Development Team Intern](https://situsamc.wd1.myworkdayjobs.com/SitusAMC/job/Remote/Intern---AI-Software-Development-Team_JR02562) | 68 | Remote in USA | AI/ML/Data | 2026-06-03 |
-
 ## Sixtyfour (X25)
 
 | Title | Score | Location | Department | First seen |
@@ -3835,8 +3808,8 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [PhD Data Scientist Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | Seattle, WA / SF / Chicago, IL / NYC | AI/ML/Data | 2026-05-09 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | 56 | Mexico City, Mexico | — | 2026-05-06 |
@@ -4103,7 +4076,6 @@
 | [Machine Learning Engineer Intern - Tiktok Search Team - 2026 Start - PhD](https://lifeattiktok.com/search/7557122323507349778) | 85 | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Machine Learning Engineer Intern - Trust and Safety - CV/NLP/Multimodal LLM](https://lifeattiktok.com/search/7527589557336869138) | 85 | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Machine Learning Engineer Intern - Trust and Safety - CV/NLP/Multimodal LLM](https://lifeattiktok.com/search/7527589875165563143) | 85 | Seattle, WA | AI/ML/Data | 2026-05-09 |
-| [Machine Learning Engineer Intern - Usds - 2026 Summer](https://lifeattiktok.com/search/7547370946877901063) | 85 | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Machine Learning Scientist Intern - Global E-Commerce Content Recommendation](https://lifeattiktok.com/search/7623531249253255429) | 85 | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Machine Learning Scientist Intern - Global E-Commerce Content Recommendation](https://lifeattiktok.com/search/7525650208522193159) | 85 | Seattle, WA | AI/ML/Data | 2026-05-09 |
 | [Machine Learning Scientist Intern - TikTok Recommendation](https://lifeattiktok.com/search/7519241729582516487) | 85 | San Jose, CA | AI/ML/Data | 2026-05-09 |
@@ -4140,7 +4112,6 @@
 | [Software Engineer Intern - Recommendation Infrastructure](https://lifeattiktok.com/search/7533003732948617480) | 85 | San Jose, CA | Software | 2026-05-09 |
 | [Software Engineer Intern - Recommendation Infrastructure](https://lifeattiktok.com/search/7537493362585979154) | 85 | Seattle, WA | Software | 2026-05-09 |
 | [Software Engineer Intern - Tiktok-Growth-Customer Lifecycle - BS/MS](https://lifeattiktok.com/search/7532747359991859463) | 85 | San Jose, CA | Software | 2026-05-09 |
-| [Software Engineer Intern - Video-on-Demand Algorithm - 2026 Summer](https://lifeattiktok.com/search/7538304000404244743) | 85 | San Jose, CA | Software | 2026-05-09 |
 | [Software Engineer Project Intern - Content AI Infrastructure](https://lifeattiktok.com/search/7621299118434961669) | 85 | San Jose, CA | Software | 2026-05-09 |
 | [Software Engineer Project Intern - Model Infrastructure](https://lifeattiktok.com/search/7624284785283746053) | 85 | San Jose, CA | Software | 2026-05-09 |
 | [Software Engineer Project Intern - Recommendation Infrastructure](https://lifeattiktok.com/search/7629500062003218741) | 85 | San Jose, CA | Software | 2026-05-09 |
