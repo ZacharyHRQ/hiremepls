@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-05T02:28:35.970Z",
+  "generatedAt": "2026-06-05T06:48:38.342Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1259,
+  "jobCount": 1254,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -965,7 +965,6 @@
     "canonical:77542c49fff41020": "2026-05-22T02:15:03.911Z",
     "canonical:87f6386de9672675": "2026-05-22T09:54:00.041Z",
     "canonical:47ec258ae5e728c6": "2026-05-22T09:54:00.041Z",
-    "canonical:664e94cc39406d96": "2026-05-22T09:54:00.041Z",
     "canonical:ac10b613b9498a66": "2026-05-22T09:54:00.041Z",
     "canonical:72abb2db13af5981": "2026-05-22T09:54:00.041Z",
     "canonical:ebc61fbb1bd465aa": "2026-05-22T09:54:00.041Z",
@@ -1109,7 +1108,6 @@
     "canonical:78e461e91d26f884": "2026-06-01T03:37:04.741Z",
     "canonical:9992c8a0a830a9f3": "2026-06-01T03:37:04.741Z",
     "canonical:f30a89c4a549a784": "2026-06-01T03:37:04.741Z",
-    "canonical:0eddbe07e4d8ec28": "2026-06-01T03:37:04.741Z",
     "canonical:8d09398c19da6c24": "2026-06-01T03:37:04.741Z",
     "canonical:4657deb65ec280ac": "2026-06-01T03:37:04.741Z",
     "canonical:f27c30f5eef5d1fb": "2026-06-01T03:37:04.741Z",
@@ -1201,7 +1199,6 @@
     "canonical:d7b27eb1186aca67": "2026-06-03T15:01:52.660Z",
     "canonical:b0a57a3a31d07f87": "2026-06-03T15:01:52.660Z",
     "canonical:9a85b8f9c7c0bbba": "2026-06-03T23:25:54.380Z",
-    "canonical:fb4acca2a68100c8": "2026-06-03T23:25:54.380Z",
     "canonical:61a176d561f3108a": "2026-06-03T23:25:54.380Z",
     "canonical:76679209f361ccb6": "2026-06-03T23:25:54.380Z",
     "canonical:1cb06eb7b801cca8": "2026-06-03T23:25:54.380Z",
@@ -1248,7 +1245,6 @@
     "canonical:a44498a12494d8e0": "2026-06-04T23:50:18.472Z",
     "canonical:30eff37a0373d994": "2026-06-04T23:50:18.472Z",
     "canonical:f328dcf0563c46ce": "2026-06-04T23:50:18.472Z",
-    "canonical:ccecd0de63523dd7": "2026-06-04T23:50:18.472Z",
     "canonical:1e423a804a7c32cd": "2026-06-04T23:50:18.472Z",
     "canonical:ec7b5f1c953f0acf": "2026-06-04T23:50:18.472Z",
     "canonical:7b565341af2d7a36": "2026-06-04T23:50:18.472Z",
@@ -1258,7 +1254,6 @@
     "canonical:9cad4a4c3e2e601d": "2026-06-04T23:50:18.472Z",
     "canonical:6eed9627f9b3baa7": "2026-06-04T23:50:18.472Z",
     "canonical:93e9b269ac729a21": "2026-06-04T23:50:18.472Z",
-    "canonical:6e9d6429e3249aaa": "2026-06-04T23:50:18.472Z",
     "canonical:f97e52378206fda9": "2026-06-04T23:50:18.472Z",
     "canonical:99d6a2e15a29d47e": "2026-06-04T23:50:18.472Z",
     "canonical:4470d5fd97f0ae9c": "2026-06-04T23:50:18.472Z",
@@ -1371,10 +1366,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1386,10 +1381,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -2424,7 +2419,7 @@
     {
       "id": "canonical:31dd1ab15c427f1e",
       "title": "Technical Support Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726977?gh_jid=7726977",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -4816,19 +4811,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:fb4acca2a68100c8",
-      "title": "Machine Learning Systems Research Intern - PhD - Summer 2026",
-      "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Boston/Machine-Learning-Systems-Research-Intern--PhD--Summer-2026_R-052520",
-      "location": "Boston, MA",
-      "department": "AI/ML/Data",
-      "company": "Red Hat",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -8905,20 +8887,6 @@
       ]
     },
     {
-      "id": "canonical:ccecd0de63523dd7",
-      "title": "Data Engineer Intern/Co-op - Fall 2026",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-Intern-Co-op--Fall-2026-_R_1481067",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "TD Bank",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:be4f2089a21b8de9",
       "title": "Frontend Engineering Intern (UI/UX Focus)",
       "url": "https://apply.workable.com/enfos-inc/j/7364AA5599/",
@@ -10587,19 +10555,6 @@
       ]
     },
     {
-      "id": "canonical:0eddbe07e4d8ec28",
-      "title": "Operations Analyst Intern - Operations Analyst",
-      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/Long-Term-Internship---Operations-Analyst_JR10411961",
-      "location": "Wichita, KS",
-      "department": "AI/ML/Data",
-      "company": "Airbus",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:7716b89faf1c2355",
       "title": "Software Engineer Intern - Quality and Efficiency Technology",
       "url": "https://lifeattiktok.com/search/7637047421538404613",
@@ -12247,18 +12202,6 @@
       "company": "Apple",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:664e94cc39406d96",
-      "title": "Data & Operations Intern - Vision Zero",
-      "url": "https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1536",
-      "location": "Arlington, VA",
-      "department": "AI/ML/Data",
-      "company": "Arlington County VA",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
     },
     {
       "id": "canonical:ac10b613b9498a66",
@@ -14955,18 +14898,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:6e9d6429e3249aaa",
-      "title": "Digital Design / FPGA Engineering Intern",
-      "url": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Digital-Design---FPGA-Engineering---Intern_R02604",
-      "location": "San Jose, CA",
-      "department": "Hardware",
-      "company": "Altera Corporation",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
       ]
     },
     {
