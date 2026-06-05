@@ -1,6 +1,6 @@
 # Open Internships
 
-**1239** internships across **63/64** companies — last updated 2026-06-05.
+**1240** internships across **63/64** companies — last updated 2026-06-05.
 
 ## Companies
 
@@ -111,6 +111,7 @@
 - [Cisive](#cisive) (1)
 - [Citadel](#citadel) (4)
 - [Citadel Securities](#citadel-securities) (3)
+- [City of Austin](#city-of-austin) (1)
 - [City of Largo](#city-of-largo) (1)
 - [Clarity Innovations](#clarity-innovations) (1)
 - [Clarivate](#clarivate) (1)
@@ -146,7 +147,7 @@
 - [DataVisor](#datavisor) (1)
 - [Dedalus Labs](#dedalus-labs) (1)
 - [Definity Financial](#definity-financial) (1)
-- [Delta Dental](#delta-dental) (2)
+- [Delta Dental](#delta-dental) (1)
 - [Dewberry](#dewberry) (1)
 - [Digs](#digs) (1)
 - [DimeHealth AI](#dimehealth-ai) (1)
@@ -178,7 +179,7 @@
 - [Eulerity](#eulerity) (3)
 - [Eurofins](#eurofins) (2)
 - [EV Realty](#ev-realty) (1)
-- [EXL](#exl) (2)
+- [EXL](#exl) (3)
 - [Expedia Group](#expedia-group) (2)
 - [Facility Solutions Group](#facility-solutions-group) (1)
 - [Faire](#faire) (1)
@@ -267,6 +268,7 @@
 - [InvoiceCloud](#invoicecloud) (1)
 - [iSpot.tv](#ispot-tv) (1)
 - [iTradeNetwork](#itradenetwork) (1)
+- [Ivy Tech Community College](#ivy-tech-community-college) (1)
 - [Jade Global](#jade-global) (1)
 - [Jain Global](#jain-global) (1)
 - [Jefferson Health](#jefferson-health) (1)
@@ -499,7 +501,7 @@
 - [Truveta](#truveta) (1)
 - [Uber](#uber) (1)
 - [Uncountable](#uncountable) (1)
-- [Unity](#unity) (2)
+- [Unity](#unity) (1)
 - [University System of New Hampshire](#university-system-of-new-hampshire) (2)
 - [Valeo](#valeo) (1)
 - [Vanguard](#vanguard) (1)
@@ -1309,6 +1311,12 @@
 | [Quantitative Researcher Engineer – PhD Intern - Europe](https://www.citadelsecurities.com/careers/details/quantitative-researcher-engineer-phd-intern-europe/) | 85 | London, UK | Quant | 2026-05-09 |
 | [Launch Intern - US](https://www.citadelsecurities.com/careers/details/launch-intern-us/) | 60 | Miami, FL / NYC | Software | 2026-05-09 |
 
+## City of Austin
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Aviation Intern - IT](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/AUS-Information-Systems-Building-IS/Austin-Aviation--Veteran-Intern--IT--Hire-in-Process-please-do-not-apply--By-Invitation-Only_JR104108) | 68 | Austin, TX | AI/ML/Data | 2026-06-05 |
+
 ## City of Largo
 
 | Title | Score | Location | Department | First seen |
@@ -1563,7 +1571,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Intern - Application Developer](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101251) | 93 | East Lansing, MI | Software | 2026-05-21 |
-| [Application Development Intern](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101291) | 68 | East Lansing, MI | Software | 2026-05-17 |
 
 ## Dewberry
 
@@ -1780,6 +1787,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Analytics & AI Solutions Intern](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/15237) | 60 | SF | AI/ML/Data | 2026-06-05 |
 | [Analytics & AI Solutions Intern](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/15243) | 60 | United States | AI/ML/Data | 2026-06-05 |
 | [Intern Analytics & AI - Data Management](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/10272) | 60 | NYC | AI/ML/Data | 2026-05-09 |
 
@@ -2357,6 +2365,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern - Machine Learning](https://www.itradenetwork.com/jobs/5171428008?gh_jid=5171428008) | 85 | Oakland, CA / Charlotte, NC / Denver, CO / Atlanta, GA | AI/ML/Data | 2026-05-09 |
+
+## Ivy Tech Community College
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data Analyst Intern](https://ivytech.wd1.myworkdayjobs.com/ivy_tech_careers/job/Indianapolis-IN/Data-Analyst-Intern_JR0000108706) | 68 | Indianapolis, IN | AI/ML/Data | 2026-06-05 |
 
 ## Jade Global
 
@@ -4190,7 +4204,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Infrastructure Intern](https://boards.greenhouse.io/embed/job_app?token=7906470) | 68 | Bellevue, WA | AI/ML/Data | 2026-06-05 |
 | [Research Science Intern](https://boards.greenhouse.io/embed/job_app?token=7904529) | 68 | Mountain View, CA | AI/ML/Data | 2026-05-09 |
 
 ## University System of New Hampshire

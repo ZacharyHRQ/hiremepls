@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-05T21:53:45.353Z",
+  "generatedAt": "2026-06-05T22:57:55.293Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1239,
+  "jobCount": 1240,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -880,7 +880,6 @@
     "canonical:5395852a5a431fe6": "2026-05-17T07:19:48.510Z",
     "canonical:120ef9d85630ac7e": "2026-05-17T07:19:48.510Z",
     "canonical:fa9184bcd6e40ca9": "2026-05-17T09:17:39.096Z",
-    "canonical:c11bff2ca221b70c": "2026-05-17T09:17:39.096Z",
     "canonical:a4858410287d0d65": "2026-05-18T01:33:21.344Z",
     "canonical:b81abc03055b6506": "2026-05-18T01:33:21.344Z",
     "canonical:82e87ea19458331e": "2026-05-18T05:55:36.135Z",
@@ -1242,7 +1241,9 @@
     "canonical:85f4cac0ababd094": "2026-06-05T16:17:30.887Z",
     "canonical:0a92c979854c9622": "2026-06-05T16:17:30.887Z",
     "canonical:c1817238d89b26e3": "2026-06-05T16:17:30.887Z",
-    "canonical:e0f137314bcb7d2e": "2026-06-05T16:17:30.887Z"
+    "canonical:c05b180aaab3907f": "2026-06-05T22:57:55.293Z",
+    "canonical:a8941a39cb4d8cd0": "2026-06-05T22:57:55.293Z",
+    "canonical:0bd52ded40247ca6": "2026-06-05T22:57:55.293Z"
   },
   "jobs": [
     {
@@ -9955,19 +9956,6 @@
       ]
     },
     {
-      "id": "canonical:c11bff2ca221b70c",
-      "title": "Application Development Intern",
-      "url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101291",
-      "location": "East Lansing, MI",
-      "department": "Software",
-      "company": "Delta Dental",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:c4364ae941de1dfd",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254/application",
@@ -14742,12 +14730,37 @@
       ]
     },
     {
-      "id": "canonical:e0f137314bcb7d2e",
-      "title": "Infrastructure Intern",
-      "url": "https://boards.greenhouse.io/embed/job_app?token=7906470",
-      "location": "Bellevue, WA",
+      "id": "canonical:c05b180aaab3907f",
+      "title": "Data Analyst Intern",
+      "url": "https://ivytech.wd1.myworkdayjobs.com/ivy_tech_careers/job/Indianapolis-IN/Data-Analyst-Intern_JR0000108706",
+      "location": "Indianapolis, IN",
       "department": "AI/ML/Data",
-      "company": "Unity",
+      "company": "Ivy Tech Community College",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:a8941a39cb4d8cd0",
+      "title": "Analytics & AI Solutions Intern",
+      "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/15237",
+      "location": "SF",
+      "department": "AI/ML/Data",
+      "company": "EXL",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:0bd52ded40247ca6",
+      "title": "Aviation Intern - IT",
+      "url": "https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/AUS-Information-Systems-Building-IS/Austin-Aviation--Veteran-Intern--IT--Hire-in-Process-please-do-not-apply--By-Invitation-Only_JR104108",
+      "location": "Austin, TX",
+      "department": "AI/ML/Data",
+      "company": "City of Austin",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
