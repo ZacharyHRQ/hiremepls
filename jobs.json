@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-05T13:40:59.009Z",
+  "generatedAt": "2026-06-05T16:17:30.887Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1243,
+  "jobCount": 1250,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -676,7 +676,6 @@
     "canonical:5c22e36371eb56e9": "2026-05-15T10:04:41.511Z",
     "canonical:de7f1371fd774c3d": "2026-05-15T22:36:45.367Z",
     "canonical:c031cb55c680003f": "2026-05-15T22:36:45.367Z",
-    "canonical:5b87053523f7d7e4": "2026-05-15T22:36:45.367Z",
     "canonical:db9f13352795d6dc": "2026-05-15T23:35:38.383Z",
     "canonical:6cfe7d316f2c2834": "2026-05-15T23:35:38.383Z",
     "canonical:59ac07a13d6c8bf7": "2026-05-15T23:35:38.383Z",
@@ -985,7 +984,6 @@
     "canonical:f45e37ab03eae395": "2026-05-23T10:21:14.097Z",
     "canonical:474dbcf68693e3b6": "2026-05-23T10:21:14.097Z",
     "canonical:2031e4e9473b2185": "2026-05-23T11:39:27.713Z",
-    "canonical:6142c864cbffa174": "2026-05-23T15:19:47.526Z",
     "canonical:c40434041482eff7": "2026-05-23T16:29:56.405Z",
     "canonical:ca086772871f4731": "2026-05-23T17:34:41.089Z",
     "canonical:223669d31e7e9fb5": "2026-05-23T18:41:12.286Z",
@@ -1107,7 +1105,6 @@
     "canonical:a54dfaa9c2670ee3": "2026-06-01T03:37:04.741Z",
     "canonical:689e051abf9096c5": "2026-06-01T09:03:18.496Z",
     "canonical:8ecb94421f2672b5": "2026-06-01T09:03:18.496Z",
-    "canonical:caad4a45c8ba3ed9": "2026-06-01T15:32:50.645Z",
     "canonical:dbb4ebf008bbfce3": "2026-06-01T15:32:50.645Z",
     "canonical:0738d4357b35fcb5": "2026-06-01T15:32:50.645Z",
     "canonical:801c4d70e009c142": "2026-06-01T22:35:57.770Z",
@@ -1246,7 +1243,17 @@
     "canonical:464ecfeba366891e": "2026-06-05T10:40:30.398Z",
     "canonical:f7327f20ad8adf4e": "2026-06-05T10:40:30.398Z",
     "canonical:a6f482844306182e": "2026-06-05T13:40:59.009Z",
-    "canonical:0018ec313a54a4fd": "2026-06-05T13:40:59.009Z"
+    "canonical:0018ec313a54a4fd": "2026-06-05T13:40:59.009Z",
+    "canonical:83cc733d72cbc527": "2026-06-05T16:17:30.887Z",
+    "canonical:55abf604a6bf53ca": "2026-06-05T16:17:30.887Z",
+    "canonical:6fe217de9b55df47": "2026-06-05T16:17:30.887Z",
+    "canonical:f4e22ee521bb8e41": "2026-06-05T16:17:30.887Z",
+    "canonical:c8cdf8bb44656cf5": "2026-06-05T16:17:30.887Z",
+    "canonical:d126988a7ded7d37": "2026-06-05T16:17:30.887Z",
+    "canonical:85f4cac0ababd094": "2026-06-05T16:17:30.887Z",
+    "canonical:0a92c979854c9622": "2026-06-05T16:17:30.887Z",
+    "canonical:c1817238d89b26e3": "2026-06-05T16:17:30.887Z",
+    "canonical:e0f137314bcb7d2e": "2026-06-05T16:17:30.887Z"
   },
   "jobs": [
     {
@@ -1355,10 +1362,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1370,10 +1377,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -2284,6 +2291,18 @@
       ]
     },
     {
+      "id": "canonical:83cc733d72cbc527",
+      "title": "Legal Intern – Commercial Legal (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7983674?gh_jid=7983674",
+      "location": "In-Office",
+      "department": "",
+      "company": "Cloudflare",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:1616d436c67b8140",
       "title": "Marketing Events and Campaigns Intern (Mid-Year 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7736919?gh_jid=7736919",
@@ -2408,7 +2427,7 @@
     {
       "id": "canonical:31dd1ab15c427f1e",
       "title": "Technical Support Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726977?gh_jid=7726977",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -7575,19 +7594,6 @@
       ]
     },
     {
-      "id": "canonical:6142c864cbffa174",
-      "title": "Product Manager Intern - Influencer Marketing",
-      "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/Netherlands-Amsterdam/Product-Manager-Intern--Influencer-Marketing_R107233",
-      "location": "London, UK",
-      "department": "Product",
-      "company": "Tencent",
-      "score": 38,
-      "scoreReasons": [
-        "direct ATS",
-        "lower-fit title"
-      ]
-    },
-    {
       "id": "canonical:fa6150aeb04d6ed4",
       "title": "Software Engineer Intern",
       "url": "https://snyk.wd103.myworkdayjobs.com/External/job/United-Kingdom---London-Office/Software-Engineer-Intern_JR100496",
@@ -11116,19 +11122,6 @@
       ]
     },
     {
-      "id": "canonical:5b87053523f7d7e4",
-      "title": "Application Engineer Intern - Operator Training Simulator",
-      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/148650",
-      "location": "Bracknell, UK",
-      "department": "Software",
-      "company": "Honeywell",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:db9f13352795d6dc",
       "title": "AI Researcher Intern",
       "url": "https://job-boards.greenhouse.io/genscript/jobs/5138842007",
@@ -11958,6 +11951,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:55abf604a6bf53ca",
+      "title": "AI Applied Scientist Intern",
+      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Next-Gen-Agentic-and-Multi-Modal-Home-Exploration-Experience_P748043",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "Zillow",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -13368,19 +13375,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:caad4a45c8ba3ed9",
-      "title": "PX Systems & Automation Intern",
-      "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---Remote-OH/PX-Systems---Automation-Intern_R56390",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "Trimble",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -14798,6 +14792,110 @@
       "location": "Santa Clara, CA",
       "department": "Software",
       "company": "NVIDIA",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:6fe217de9b55df47",
+      "title": "Machine Learning Intern/Co-op",
+      "url": "https://www.pathai.com/careers/8202342002?gh_jid=8202342002",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "PathAI",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:f4e22ee521bb8e41",
+      "title": "Junior Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/clarityinnovates/jobs/5155449007",
+      "location": "Reston, VA",
+      "department": "Software",
+      "company": "Clarity Innovations",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c8cdf8bb44656cf5",
+      "title": "Machine Learning Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/coherehealth/jobs/7734482003",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "Cohere Health",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:d126988a7ded7d37",
+      "title": "Data Analyst Intern - Competency Management",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Stafford/Data-Analyst-Intern---Competency-Management_R5044024-3",
+      "location": "Stoke-on-Trent, UK",
+      "department": "AI/ML/Data",
+      "company": "GE Vernova",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:85f4cac0ababd094",
+      "title": "Operational Technology Intern",
+      "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/UK---Hull-GBU-Office/Operational-Technology-Intern_R90941",
+      "location": "Withernsea, UK",
+      "department": "AI/ML/Data",
+      "company": "Smith+Nephew",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:0a92c979854c9622",
+      "title": "Analytics & AI Solutions Intern",
+      "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/15243",
+      "location": "United States",
+      "department": "AI/ML/Data",
+      "company": "EXL",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:c1817238d89b26e3",
+      "title": "FP&A Business Intelligence Intern",
+      "url": "https://brambles.wd5.myworkdayjobs.com/en-US/Brambles_Careers/job/London-England-United-Kingdom/FP-A-Business-Intelligence-Intern_JR23946-1",
+      "location": "London, UK / Orlando, FL / Atlanta, GA",
+      "department": "AI/ML/Data",
+      "company": "CHEP",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:e0f137314bcb7d2e",
+      "title": "Infrastructure Intern",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=7906470",
+      "location": "Bellevue, WA",
+      "department": "AI/ML/Data",
+      "company": "Unity",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
