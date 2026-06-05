@@ -1,6 +1,6 @@
 # Open Internships
 
-**1247** internships across **63/64** companies — last updated 2026-06-05.
+**1239** internships across **63/64** companies — last updated 2026-06-05.
 
 ## Companies
 
@@ -229,7 +229,7 @@
 - [Hearst](#hearst) (1)
 - [Helix Electric](#helix-electric) (1)
 - [Herdora](#herdora) (1)
-- [HERE Technologies](#here-technologies) (2)
+- [HERE Technologies](#here-technologies) (1)
 - [Hermeus](#hermeus) (6)
 - [Heron Power](#heron-power) (1)
 - [Hershey Entertainment & Resorts Company](#hershey-entertainment-resorts-company) (1)
@@ -272,7 +272,7 @@
 - [Jefferson Health](#jefferson-health) (1)
 - [JINGDONG](#jingdong) (1)
 - [JP Morgan Chase](#jp-morgan-chase) (3)
-- [Jump Trading](#jump-trading) (3)
+- [Jump Trading](#jump-trading) (2)
 - [K1](#k1) (1)
 - [Kaiser Permanente](#kaiser-permanente) (2)
 - [KBR](#kbr) (2)
@@ -292,7 +292,7 @@
 - [Landis+Gyr](#landis-gyr) (1)
 - [Layup Parts](#layup-parts) (1)
 - [LegalZoom](#legalzoom) (1)
-- [Leidos](#leidos) (2)
+- [Leidos](#leidos) (1)
 - [Lensa](#lensa) (3)
 - [LinkedIn](#linkedin) (3)
 - [LiveRamp](#liveramp) (4)
@@ -327,7 +327,7 @@
 - [Metalenz](#metalenz) (1)
 - [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (4)
 - [Microchip Technology](#microchip-technology) (2)
-- [Microsoft](#microsoft) (40)
+- [Microsoft](#microsoft) (39)
 - [MongoDB](#mongodb) (1)
 - [Monolithic Power Systems](#monolithic-power-systems) (2)
 - [Multiply Labs](#multiply-labs) (2)
@@ -386,7 +386,6 @@
 - [Prior Labs](#prior-labs) (1)
 - [Prologis](#prologis) (1)
 - [Prosper Funding](#prosper-funding) (1)
-- [PSA Airlines](#psa-airlines) (1)
 - [PsiQuantum](#psiquantum) (2)
 - [Quadric](#quadric) (4)
 - [QuEra Computing](#quera-computing) (1)
@@ -404,7 +403,6 @@
 - [Rivian](#rivian) (1)
 - [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (3)
 - [Robert Bosch Venture Capital](#robert-bosch-venture-capital) (1)
-- [Robert Half](#robert-half) (1)
 - [Roblox](#roblox) (1)
 - [Roche](#roche) (1)
 - [Rocket Lab](#rocket-lab) (1)
@@ -420,7 +418,6 @@
 - [Rundoo](#rundoo) (1)
 - [Salesforce](#salesforce) (1)
 - [Samaya](#samaya) (1)
-- [Samsonite](#samsonite) (1)
 - [Samsung](#samsung) (2)
 - [Samsung Research America](#samsung-research-america) (3)
 - [Sandhills Global](#sandhills-global) (1)
@@ -517,7 +514,6 @@
 - [Verkada](#verkada) (6)
 - [Very Good Security](#very-good-security) (1)
 - [Viavi Solutions](#viavi-solutions) (1)
-- [Volaris Group](#volaris-group) (1)
 - [Voloridge Investment Management](#voloridge-investment-management) (1)
 - [Voltus](#voltus) (2)
 - [W.R. Berkley](#w-r-berkley) (3)
@@ -2116,7 +2112,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Intern](https://careers-here.icims.com/jobs/81589/job?mobile=true&needsRedirect=false) | 60 | Chicago, IL | AI/ML/Data | 2026-06-03 |
-| [Technical Intern - Data Engineering & AI](https://careers-here.icims.com/jobs/81496/job?mobile=true&needsRedirect=false) | 60 | Chicago, IL | AI/ML/Data | 2026-06-03 |
 
 ## Hermeus
 
@@ -2400,7 +2395,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Campus Trading Team Software Engineer  (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7565728) | 85 | Hong Kong | — | 2026-05-06 |
-| [Campus Crypto Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7362347) | 50 | Chicago | — | 2026-05-06 |
 | [Campus Crypto Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7362318) | 50 | London | — | 2026-05-06 |
 
 ## K1
@@ -2532,7 +2526,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern - DevOps](https://leidos.wd5.myworkdayjobs.com/External/job/Poulsbo-WA/Software-Engineer-Intern--DevOps-_R-00184709) | 93 | Poulsbo, WA | Software | 2026-06-03 |
-| [Data Architecture and Governance Intern](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Data-Architecture-and-Governance-Intern_R-00184376) | 68 | Remote in USA | AI/ML/Data | 2026-06-02 |
 
 ## Lensa
 
@@ -2824,7 +2817,6 @@
 | [Research Intern - Multiple Teams](https://apply.careers.microsoft.com/careers/job/1970393556640831) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - RiSE Group](https://apply.careers.microsoft.com/careers/job/1970393556621565) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - Sociotechnical Alignment Center](https://apply.careers.microsoft.com/careers/job/1970393556628319) | 60 | NYC | AI/ML/Data | 2026-05-09 |
-| [Research Intern - Systems For Efficient AI](https://apply.careers.microsoft.com/careers/job/1970393556621783) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - Technology for Religious Empowerment](https://apply.careers.microsoft.com/careers/job/1970393556631718) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - Training Methods for LLM Efficiency](https://apply.careers.microsoft.com/careers/job/1970393556628881) | 60 | Mountain View, CA | AI/ML/Data | 2026-05-09 |
 
@@ -3281,12 +3273,6 @@
 | --- | --- | --- | --- | --- |
 | [AI Engineer Intern](https://jobs.lever.co/prosper/08d2e972-b83a-4796-8c4e-5263481aaf5b/apply) | 93 | SF | AI/ML/Data | 2026-06-01 |
 
-## PSA Airlines
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Engineering Intern](https://careers-psaairlines.icims.com/jobs/6531/job?mobile=true&needsRedirect=false) | 60 | Charlotte, NC | AI/ML/Data | 2026-05-09 |
-
 ## PsiQuantum
 
 | Title | Score | Location | Department | First seen |
@@ -3400,12 +3386,6 @@
 | --- | --- | --- | --- | --- |
 | [Wireless Sensing Research Intern](https://jobs.smartrecruiters.com/BoschGroup/744000121477597) | 68 | Sunnyvale, CA | AI/ML/Data | 2026-05-09 |
 
-## Robert Half
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Generative AI Engineer Intern](https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Generative-AI-Engineer-Virtual-Internship_JR-260536) | 93 | San Ramon, CA | AI/ML/Data | 2026-06-03 |
-
 ## Roblox
 
 | Title | Score | Location | Department | First seen |
@@ -3507,12 +3487,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [ML Research Intern](https://job-boards.greenhouse.io/samayaai/jobs/4652765007) | 68 | Mountain View, CA | AI/ML/Data | 2026-05-09 |
-
-## Samsonite
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Reporting & Analytics Intern](https://ekkf.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/8174) | 60 | Mansfield, MA | AI/ML/Data | 2026-06-04 |
 
 ## Samsung
 
@@ -3788,8 +3762,8 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [PhD Data Scientist Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | Seattle, WA / SF / Chicago, IL / NYC | AI/ML/Data | 2026-05-09 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | 56 | Mexico City, Mexico | — | 2026-05-06 |
@@ -4310,12 +4284,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Wireless Network Lab Intern](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Chandler-AZ-USA/Wireless-Network-Lab-Intern_260004580-1) | 68 | Chandler, AZ | AI/ML/Data | 2026-05-09 |
-
-## Volaris Group
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI Software Enablement Intern](https://volarisgroup.wd3.myworkdayjobs.com/volaris/job/United-States---TX/AI-Software-Enablement-Intern_R67348) | 68 | Texas | Software | 2026-06-05 |
 
 ## Voloridge Investment Management
 
