@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-05T16:17:30.887Z",
+  "generatedAt": "2026-06-05T18:19:47.874Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1250,
+  "jobCount": 1247,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1226,7 +1226,6 @@
     "canonical:7b565341af2d7a36": "2026-06-04T23:50:18.472Z",
     "canonical:d7243946fe79b2df": "2026-06-04T23:50:18.472Z",
     "canonical:d7d15c7cac2cdb4e": "2026-06-04T23:50:18.472Z",
-    "canonical:91b2fc8a3b48ac5e": "2026-06-04T23:50:18.472Z",
     "canonical:9cad4a4c3e2e601d": "2026-06-04T23:50:18.472Z",
     "canonical:6eed9627f9b3baa7": "2026-06-04T23:50:18.472Z",
     "canonical:93e9b269ac729a21": "2026-06-04T23:50:18.472Z",
@@ -1237,7 +1236,6 @@
     "canonical:4ca619c34eb3463e": "2026-06-05T10:40:30.398Z",
     "canonical:89aaf3baee1cdf28": "2026-06-05T10:40:30.398Z",
     "canonical:9a93c8600bc816f6": "2026-06-05T10:40:30.398Z",
-    "canonical:7850d319af7bb855": "2026-06-05T10:40:30.398Z",
     "canonical:1e55d948abe3148a": "2026-06-05T10:40:30.398Z",
     "canonical:e746b679c07c9b70": "2026-06-05T10:40:30.398Z",
     "canonical:464ecfeba366891e": "2026-06-05T10:40:30.398Z",
@@ -1248,7 +1246,6 @@
     "canonical:55abf604a6bf53ca": "2026-06-05T16:17:30.887Z",
     "canonical:6fe217de9b55df47": "2026-06-05T16:17:30.887Z",
     "canonical:f4e22ee521bb8e41": "2026-06-05T16:17:30.887Z",
-    "canonical:c8cdf8bb44656cf5": "2026-06-05T16:17:30.887Z",
     "canonical:d126988a7ded7d37": "2026-06-05T16:17:30.887Z",
     "canonical:85f4cac0ababd094": "2026-06-05T16:17:30.887Z",
     "canonical:0a92c979854c9622": "2026-06-05T16:17:30.887Z",
@@ -2052,10 +2049,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2065,10 +2062,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -14616,19 +14613,6 @@
       "scoreReasons": []
     },
     {
-      "id": "canonical:91b2fc8a3b48ac5e",
-      "title": "Software Platform Designer Intern",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Platform-Designer-Intern_R031142",
-      "location": "Ottawa, ON, Canada",
-      "department": "Hardware",
-      "company": "Ciena",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:9cad4a4c3e2e601d",
       "title": "Data Growth & Analytics Intern",
       "url": "https://job-boards.greenhouse.io/earnin/jobs/7980784",
@@ -14733,18 +14717,6 @@
       ]
     },
     {
-      "id": "canonical:7850d319af7bb855",
-      "title": "GTM AI Intern",
-      "url": "https://www.nextiva.com/company/careers-listing?gh_jid=8565720002",
-      "location": "Scottsdale, AZ",
-      "department": "Software",
-      "company": "Nextiva",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:1e55d948abe3148a",
       "title": "Intern - PhD",
       "url": "https://jobs.lever.co/weride/c7652fd5-65d8-443d-ab4c-5b450acac77d/apply",
@@ -14817,20 +14789,6 @@
       "location": "Reston, VA",
       "department": "Software",
       "company": "Clarity Innovations",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:c8cdf8bb44656cf5",
-      "title": "Machine Learning Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/coherehealth/jobs/7734482003",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "Cohere Health",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",

@@ -1,6 +1,6 @@
 # Open Internships
 
-**1250** internships across **63/64** companies — last updated 2026-06-05.
+**1247** internships across **63/64** companies — last updated 2026-06-05.
 
 ## Companies
 
@@ -106,7 +106,7 @@
 - [CHEP](#chep) (1)
 - [Cherry Bekaert](#cherry-bekaert) (2)
 - [Chubb](#chubb) (1)
-- [Ciena](#ciena) (4)
+- [Ciena](#ciena) (3)
 - [Cirrus Logic](#cirrus-logic) (2)
 - [Cisive](#cisive) (1)
 - [Citadel](#citadel) (4)
@@ -119,7 +119,6 @@
 - [CME Group](#cme-group) (1)
 - [Codeage](#codeage) (1)
 - [Cohere](#cohere) (3)
-- [Cohere Health](#cohere-health) (1)
 - [Cole Engineering Services](#cole-engineering-services) (1)
 - [Colgate-Palmolive](#colgate-palmolive) (1)
 - [Collabera](#collabera) (1)
@@ -340,7 +339,6 @@
 - [Netflix](#netflix) (1)
 - [Neuralink](#neuralink) (3)
 - [NewsBreak](#newsbreak) (4)
-- [Nextiva](#nextiva) (1)
 - [Nidec](#nidec) (1)
 - [Nightwing Intelligence Solutions](#nightwing-intelligence-solutions) (1)
 - [Nintendo](#nintendo) (1)
@@ -1281,7 +1279,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Platform Designer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Platform-Designer-Intern_R031142) | 68 | Ottawa, ON, Canada | Hardware | 2026-06-04 |
 | [Embedded Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Intern_R031146) | 93 | Ottawa, ON, Canada | Hardware | 2026-06-03 |
 | [Photonics Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Photonics-Software-Engineer-Intern--12-Months--Fall-2026-_R031138) | 93 | Ottawa, ON, Canada | Software | 2026-06-03 |
 | [Hardware Design and Verification Intern - Printed Circuit Board Assembly](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware--PCBA--Design-and-Verification-Intern_R031027) | 58 | Ottawa, ON, Canada | Hardware | 2026-05-27 |
@@ -1380,12 +1377,6 @@
 | [Machine Learning Intern/Co-op](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b/application) | 68 | Canada / United Kingdom / United States | AI/ML/Data | 2026-05-14 |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254/application) | 93 | Toronto, ON, Canada / SF / NYC | Software | 2026-05-09 |
 | [Research Internship](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785/application) | 68 | Montreal, QC, Canada / London, UK / Toronto, ON, Canada / SF | AI/ML/Data | 2026-05-09 |
-
-## Cohere Health
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Machine Learning Engineer Intern](https://job-boards.greenhouse.io/coherehealth/jobs/7734482003) | 93 | Remote in USA | AI/ML/Data | 2026-06-05 |
 
 ## Cole Engineering Services
 
@@ -2912,12 +2903,6 @@
 | [Engineering High-Potential Launch Program Intern to Full-Time Program](https://job-boards.greenhouse.io/newsbreak/jobs/4621307006) | 68 | Mountain View, CA | AI/ML/Data | 2026-05-09 |
 | [Product Engineering Intern - Product Engineering](https://job-boards.greenhouse.io/newsbreak/jobs/4678159006) | 68 | Mountain View, CA | Software | 2026-05-09 |
 
-## Nextiva
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [GTM AI Intern](https://www.nextiva.com/company/careers-listing?gh_jid=8565720002) | 60 | Scottsdale, AZ | Software | 2026-06-05 |
-
 ## Nidec
 
 | Title | Score | Location | Department | First seen |
@@ -3803,8 +3788,8 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [PhD Data Scientist Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | Seattle, WA / SF / Chicago, IL / NYC | AI/ML/Data | 2026-05-09 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | 56 | Mexico City, Mexico | — | 2026-05-06 |
