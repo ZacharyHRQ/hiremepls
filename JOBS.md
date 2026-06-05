@@ -1,6 +1,6 @@
 # Open Internships
 
-**1261** internships across **63/64** companies — last updated 2026-06-04.
+**1259** internships across **63/64** companies — last updated 2026-06-05.
 
 ## Companies
 
@@ -53,7 +53,6 @@
 - [ASML](#asml) (2)
 - [ASSA ABLOY](#assa-abloy) (1)
 - [Astera](#astera) (1)
-- [Astera Labs](#astera-labs) (2)
 - [Astranis](#astranis) (10)
 - [Atomic Semi](#atomic-semi) (8)
 - [Attentive](#attentive) (1)
@@ -191,6 +190,7 @@
 - [Federal Home Loan Bank of Indianapolis](#federal-home-loan-bank-of-indianapolis) (1)
 - [Ferrovial](#ferrovial) (1)
 - [FHLBank Topeka](#fhlbank-topeka) (1)
+- [Field AI](#field-ai) (1)
 - [Figure](#figure) (1)
 - [Fiserv](#fiserv) (2)
 - [Five Rings](#five-rings) (1)
@@ -212,7 +212,7 @@
 - [Generac](#generac) (2)
 - [General Astronautics](#general-astronautics) (1)
 - [General Dynamics Mission Systems](#general-dynamics-mission-systems) (2)
-- [General Motors](#general-motors) (2)
+- [General Motors](#general-motors) (1)
 - [GenScript](#genscript) (1)
 - [Gensyn](#gensyn) (1)
 - [Genworth](#genworth) (1)
@@ -892,13 +892,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern - Distributed Simulation Systems](https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066/application) | 93 | Oakland, CA | Software | 2026-05-14 |
-
-## Astera Labs
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Photonics Integrated Circuits Engineer Intern](https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4624887005) | 58 | San Jose, CA | Hardware | 2026-05-27 |
-| [AI/ML Intern Silicon Development Automation](https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4656081005) | 68 | San Jose, CA | AI/ML/Data | 2026-05-27 |
 
 ## Astranis
 
@@ -1873,6 +1866,12 @@
 | --- | --- | --- | --- | --- |
 | [Financial Analyst Intern](https://fhlbtopeka.wd1.myworkdayjobs.com/FHLBT/job/Topeka-Kansas/Member-Solutions-Intern_JR100348) | 68 | Topeka, KS | AI/ML/Data | 2026-06-03 |
 
+## Field AI
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Agentic AI/ML Engineer Intern - Solutions](https://jobs.lever.co/field-ai/5f45ac28-5c30-46ec-adaf-8482c9469cea/apply) | 93 | Irvine, CA | AI/ML/Data | 2026-06-05 |
+
 ## Figure
 
 | Title | Score | Location | Department | First seen |
@@ -2016,7 +2015,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [AV Software Safety Intern](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/AV-Software-Safety-Intern---Fall-2026_JR-202611005) | 68 | Markham, ON, Canada | Hardware | 2026-06-04 |
 | [2026 Summer Intern - Software Engineer, Machine Learning Validation (PhD)](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Software-Engineer--Machine-Learning-Validation--PhD-_JR-202523181) | 93 | Mountain View, CA / Sunnyvale, CA | Data Science, AI & Machine Learning | 2026-05-09 |
 
 ## GenScript
@@ -3841,8 +3839,8 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [PhD Data Scientist Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | Seattle, WA / SF / Chicago, IL / NYC | AI/ML/Data | 2026-05-09 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | 56 | Mexico City, Mexico | — | 2026-05-06 |

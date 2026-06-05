@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-04T23:50:18.472Z",
+  "generatedAt": "2026-06-05T02:28:35.970Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1261,
+  "jobCount": 1259,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1018,7 +1018,6 @@
     "canonical:6ffe5e7cecf12f47": "2026-05-26T23:56:50.661Z",
     "canonical:ae629747d79357a8": "2026-05-26T23:56:50.661Z",
     "canonical:2ffb9525477b9f1d": "2026-05-26T23:56:50.661Z",
-    "canonical:9e48847b04dffbf2": "2026-05-27T02:52:54.000Z",
     "canonical:0909350769decf2b": "2026-05-27T02:52:54.000Z",
     "canonical:42ec5a9361a648f4": "2026-05-27T02:52:54.000Z",
     "canonical:d59b5991ed15a78c": "2026-05-27T02:52:54.000Z",
@@ -1062,7 +1061,6 @@
     "canonical:047093c92a72e395": "2026-05-27T17:38:56.111Z",
     "canonical:6b3fc3453374f44d": "2026-05-27T17:38:56.111Z",
     "canonical:5356f8a7b55607a4": "2026-05-27T17:38:56.111Z",
-    "canonical:e48e120cd0c97f98": "2026-05-27T17:38:56.111Z",
     "canonical:69e898a891b2f5e1": "2026-05-27T17:38:56.111Z",
     "canonical:dde05a729f5089a8": "2026-05-27T17:38:56.111Z",
     "canonical:3cf93a383a96261f": "2026-05-27T17:38:56.111Z",
@@ -1252,7 +1250,6 @@
     "canonical:f328dcf0563c46ce": "2026-06-04T23:50:18.472Z",
     "canonical:ccecd0de63523dd7": "2026-06-04T23:50:18.472Z",
     "canonical:1e423a804a7c32cd": "2026-06-04T23:50:18.472Z",
-    "canonical:b34ee6f6e7d3ffb3": "2026-06-04T23:50:18.472Z",
     "canonical:ec7b5f1c953f0acf": "2026-06-04T23:50:18.472Z",
     "canonical:7b565341af2d7a36": "2026-06-04T23:50:18.472Z",
     "canonical:d7243946fe79b2df": "2026-06-04T23:50:18.472Z",
@@ -1264,7 +1261,8 @@
     "canonical:6e9d6429e3249aaa": "2026-06-04T23:50:18.472Z",
     "canonical:f97e52378206fda9": "2026-06-04T23:50:18.472Z",
     "canonical:99d6a2e15a29d47e": "2026-06-04T23:50:18.472Z",
-    "canonical:4470d5fd97f0ae9c": "2026-06-04T23:50:18.472Z"
+    "canonical:4470d5fd97f0ae9c": "2026-06-04T23:50:18.472Z",
+    "canonical:cc23c985068fbc0c": "2026-06-05T02:28:35.970Z"
   },
   "jobs": [
     {
@@ -2063,10 +2061,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2076,10 +2074,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -5773,19 +5771,6 @@
       "company": "TikTok",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:9e48847b04dffbf2",
-      "title": "AI/ML Intern Silicon Development Automation",
-      "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4656081005",
-      "location": "San Jose, CA",
-      "department": "AI/ML/Data",
-      "company": "Astera Labs",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
     },
     {
       "id": "canonical:6dca6177c4654932",
@@ -11762,19 +11747,6 @@
       ]
     },
     {
-      "id": "canonical:b34ee6f6e7d3ffb3",
-      "title": "AV Software Safety Intern",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/AV-Software-Safety-Intern---Fall-2026_JR-202611005",
-      "location": "Markham, ON, Canada",
-      "department": "Hardware",
-      "company": "General Motors",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:c15c53c8a342ba6b",
       "title": "AI Agent Research & Application Intern",
       "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/UK-London/AI-Agent-Research---Application-Intern_R106432",
@@ -13182,18 +13154,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:e48e120cd0c97f98",
-      "title": "Photonics Integrated Circuits Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4624887005",
-      "location": "San Jose, CA",
-      "department": "Hardware",
-      "company": "Astera Labs",
-      "score": 58,
-      "scoreReasons": [
         "direct ATS"
       ]
     },
@@ -15045,6 +15005,20 @@
       "company": "Generac",
       "score": 58,
       "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:cc23c985068fbc0c",
+      "title": "Agentic AI/ML Engineer Intern - Solutions",
+      "url": "https://jobs.lever.co/field-ai/5f45ac28-5c30-46ec-adaf-8482c9469cea/apply",
+      "location": "Irvine, CA",
+      "department": "AI/ML/Data",
+      "company": "Field AI",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
         "direct ATS"
       ]
     },
