@@ -1,6 +1,6 @@
 # Open Internships
 
-**1248** internships across **63/64** companies — last updated 2026-06-05.
+**1243** internships across **63/64** companies — last updated 2026-06-05.
 
 ## Companies
 
@@ -17,6 +17,7 @@
 - [Advantmed](#advantmed) (1)
 - [Aechelon Technology](#aechelon-technology) (2)
 - [AeroVironment](#aerovironment) (1)
+- [Agilent Technologies](#agilent-technologies) (1)
 - [Akuna Capital](#akuna-capital) (1)
 - [Al Warren Oil Company](#al-warren-oil-company) (2)
 - [Allium](#allium) (1)
@@ -101,7 +102,6 @@
 - [CareScout](#carescout) (1)
 - [Caterpillar Inc.](#caterpillar-inc) (1)
 - [Centific](#centific) (1)
-- [ChargePoint](#chargepoint) (1)
 - [Chartwells Higher Education Dining Services](#chartwells-higher-education-dining-services) (1)
 - [Cherry Bekaert](#cherry-bekaert) (2)
 - [Chubb](#chubb) (1)
@@ -113,7 +113,7 @@
 - [City of Largo](#city-of-largo) (1)
 - [Clarivate](#clarivate) (1)
 - [Cloudflare](#cloudflare) (15)
-- [Cloudforce](#cloudforce) (2)
+- [Cloudforce](#cloudforce) (1)
 - [CME Group](#cme-group) (1)
 - [Codeage](#codeage) (1)
 - [Cohere](#cohere) (3)
@@ -135,7 +135,6 @@
 - [Cribl](#cribl) (1)
 - [Cubist Systematic Strategies](#cubist-systematic-strategies) (1)
 - [Cupertino Electric, Inc.](#cupertino-electric-inc) (1)
-- [Curtiss-Wright](#curtiss-wright) (1)
 - [Cystic Fibrosis Foundation](#cystic-fibrosis-foundation) (1)
 - [d-Matrix](#d-matrix) (4)
 - [Dairyland Power Cooperative](#dairyland-power-cooperative) (1)
@@ -165,7 +164,6 @@
 - [Electronic Arts](#electronic-arts) (5)
 - [Eluvio](#eluvio) (1)
 - [EnergyHub](#energyhub) (1)
-- [ENFOS](#enfos) (1)
 - [Engineers Gate](#engineers-gate) (1)
 - [Ensemble Health Partners](#ensemble-health-partners) (2)
 - [Enterprise](#enterprise) (1)
@@ -216,7 +214,6 @@
 - [Gimlet Labs](#gimlet-labs) (1)
 - [Ginkgo Bioworks](#ginkgo-bioworks) (2)
 - [GitHub](#github) (1)
-- [Gr0](#gr0) (1)
 - [Great Question](#great-question) (1)
 - [Green Planet Solutions](#green-planet-solutions) (1)
 - [Grow Financial Federal Credit Union](#grow-financial-federal-credit-union) (1)
@@ -400,7 +397,6 @@
 - [REGENT](#regent) (1)
 - [Replit](#replit) (2)
 - [Reply](#reply) (2)
-- [Resolve Tech Solutions](#resolve-tech-solutions) (1)
 - [RESPEC](#respec) (1)
 - [Revance](#revance) (1)
 - [Rippling](#rippling) (3)
@@ -520,7 +516,7 @@
 - [Verkada](#verkada) (6)
 - [Very Good Security](#very-good-security) (1)
 - [Viavi Solutions](#viavi-solutions) (1)
-- [Vital Lyfe](#vital-lyfe) (1)
+- [Volaris Group](#volaris-group) (1)
 - [Voloridge Investment Management](#voloridge-investment-management) (1)
 - [Voltus](#voltus) (2)
 - [W.R. Berkley](#w-r-berkley) (3)
@@ -628,6 +624,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern – Hyper-RF Division](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/20521-Seneca-Meadows-Pkwy-Germantown-MD/Software-Engineering-Intern---Hyper-RF-Division_6367) | 68 | Germantown, MD | Software Engineering | 2026-05-09 |
+
+## Agilent Technologies
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Predictive Sales Prospecting Intern](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Intern---Predictive-Sales-Prospecting_4038245) | 48 | Wilmington, DE | AI/ML/Data | 2026-06-05 |
 
 ## Akuna Capital
 
@@ -1246,12 +1248,6 @@
 | --- | --- | --- | --- | --- |
 | [Speech Intern 4](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Speech-Intern-4_JR107037) | 68 | Remote in USA | AI/ML/Data | 2026-05-23 |
 
-## ChargePoint
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software QA Engineering - Intern](https://www.chargepoint.com/about/opportunities/software-qa-engineering-intern?gh_jid=8505201002) | 60 | Campbell, CA | Software Engineering | 2026-05-09 |
-
 ## Chartwells Higher Education Dining Services
 
 | Title | Score | Location | Department | First seen |
@@ -1347,7 +1343,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [AI Agent Builder Intern](https://jobs.lever.co/go-cloudforce/cf2f1855-3ad7-4d4a-a100-2e627f703af4) | 68 | National Harbor, MD | Data Science, AI & Machine Learning | 2026-05-09 |
-| [Cloud Solutions Intern](https://jobs.lever.co/go-cloudforce/a6fc45dd-d6e8-484f-8254-1b1f69dff362) | 68 | National Harbor, Maryland | Software Engineering | 2026-05-09 |
 
 ## CME Group
 
@@ -1493,12 +1488,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Summer Safety Internship (Multiple Locations)](https://www.linkedin.com/jobs/view/4157995744) | 42 | New Albany, OH | — | 2026-05-16 |
-
-## Curtiss-Wright
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software/Electrical Engineering Intern](https://curtisswright.wd1.myworkdayjobs.com/en-US/cw_external_career_site/job/US-PA-Newtown-TTC/Software-Electrical-Engineering-Intern_JR11947-1) | 68 | Newtown, PA | Software Engineering | 2026-05-09 |
 
 ## Cystic Fibrosis Foundation
 
@@ -1689,12 +1678,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Engineering Intern](https://job-boards.greenhouse.io/energyhub/jobs/8523607002) | 68 | Brooklyn, NY | AI/ML/Data | 2026-05-09 |
-
-## ENFOS
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Frontend Engineering Intern (UI/UX Focus)](https://apply.workable.com/enfos-inc/j/7364AA5599/) | 93 | Durham, NC | Software Engineering | 2026-05-09 |
 
 ## Engineers Gate
 
@@ -2032,12 +2015,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](https://githubinc.jibeapply.com/jobs/4640) | 60 | Remote in USA | Software Engineering | 2026-05-09 |
-
-## Gr0
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Applied AI Engineering Intern](https://jobs.lever.co/gr0/81a6ff41-681b-4be1-828b-8853288c2608) | 68 | Los Angeles, CA | Data Science, AI & Machine Learning | 2026-05-09 |
 
 ## Great Question
 
@@ -3246,8 +3223,8 @@
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-05-09 |
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-05-09 |
 | [2026 Technology Internship – Software Engineer](https://boards.greenhouse.io/point72/jobs/8406727002?gh_jid=8406727002) | 93 | Warsaw, Poland | — | 2026-05-06 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -3372,12 +3349,6 @@
 | --- | --- | --- | --- | --- |
 | [Android Developer Intern](https://jobs.lever.co/reply/0fb458db-7cb9-4bfd-b9b6-c1c681316061/apply) | 93 | Detroit, MI | Software | 2026-05-21 |
 | [IOS Developer Intern](https://jobs.lever.co/reply/191d1794-e52a-4573-a2d0-2952b76f9cd5/apply) | 93 | Michigan | Software | 2026-05-21 |
-
-## Resolve Tech Solutions
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI & ML Intern](https://resolvetech.wd1.myworkdayjobs.com/en-US/rts/job/Addison-TX/AI---ML-Intern_R1225) | 68 | Addison, TX | Data Science, AI & Machine Learning | 2026-05-09 |
 
 ## RESPEC
 
@@ -3801,8 +3772,8 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [PhD Data Scientist Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | Seattle, WA / SF / Chicago, IL / NYC | AI/ML/Data | 2026-05-09 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | 56 | Mexico City, Mexico | — | 2026-05-06 |
@@ -4330,11 +4301,11 @@
 | --- | --- | --- | --- | --- |
 | [Wireless Network Lab Intern](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Chandler-AZ-USA/Wireless-Network-Lab-Intern_260004580-1) | 68 | Chandler, AZ | AI/ML/Data | 2026-05-09 |
 
-## Vital Lyfe
+## Volaris Group
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineering Internship](https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af) | 68 | Los Angeles, CA | Software Engineering | 2026-05-09 |
+| [AI Software Enablement Intern](https://volarisgroup.wd3.myworkdayjobs.com/volaris/job/United-States---TX/AI-Software-Enablement-Intern_R67348) | 68 | Texas | Software | 2026-06-05 |
 
 ## Voloridge Investment Management
 

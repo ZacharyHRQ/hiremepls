@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-05T10:40:30.398Z",
+  "generatedAt": "2026-06-05T13:40:59.009Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1248,
+  "jobCount": 1243,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -496,7 +496,6 @@
     "canonical:8108ed7544fbae39": "2026-05-09T15:28:15.527Z",
     "canonical:d7c0dc3be032d935": "2026-05-09T15:28:15.527Z",
     "canonical:ed2691999ef7072b": "2026-05-09T15:28:15.527Z",
-    "canonical:43af3ecb0117afda": "2026-05-09T15:28:15.527Z",
     "canonical:11ccf5058382c3d9": "2026-05-09T15:28:15.527Z",
     "canonical:62388f9a8d7fd92c": "2026-05-09T15:28:15.527Z",
     "canonical:dcad659b98f1e696": "2026-05-09T15:28:15.527Z",
@@ -523,8 +522,6 @@
     "canonical:f5a5dbf294122ad1": "2026-05-09T15:28:15.527Z",
     "canonical:3544b902070df3e6": "2026-05-09T15:28:15.527Z",
     "canonical:e0150c05751b4a2a": "2026-05-09T15:28:15.527Z",
-    "canonical:be4f2089a21b8de9": "2026-05-09T15:28:15.527Z",
-    "canonical:12bc216edc685663": "2026-05-09T15:28:15.527Z",
     "canonical:9bb7084f7e28f80a": "2026-05-09T15:28:15.527Z",
     "canonical:319745e44ae35fd5": "2026-05-09T15:28:15.527Z",
     "canonical:2dea1323b86b46fa": "2026-05-09T15:28:15.527Z",
@@ -549,7 +546,6 @@
     "canonical:ca225b03436f081a": "2026-05-09T15:28:15.527Z",
     "canonical:2380c13639617d05": "2026-05-09T15:28:15.527Z",
     "canonical:01a26b8aecb0ef1e": "2026-05-09T15:28:15.527Z",
-    "canonical:61844afccabddbe0": "2026-05-09T15:28:15.527Z",
     "canonical:4127dc433b75c650": "2026-05-09T15:28:15.527Z",
     "canonical:12679842c69ce81c": "2026-05-09T15:28:15.527Z",
     "canonical:eb662fdd2ae38eb8": "2026-05-09T15:28:15.527Z",
@@ -595,11 +591,9 @@
     "canonical:4ad551198f20a1aa": "2026-05-09T15:28:15.527Z",
     "canonical:b2ce821a35fe0aa1": "2026-05-09T15:28:15.527Z",
     "canonical:895bd936f9710abc": "2026-05-09T15:28:15.527Z",
-    "canonical:d6368170104e0f33": "2026-05-09T15:28:15.527Z",
     "canonical:4ae090f51da276c9": "2026-05-09T15:28:15.527Z",
     "canonical:ccb8f5a0871e1a02": "2026-05-09T15:28:15.527Z",
     "canonical:bf7719c9b91974ac": "2026-05-09T15:28:15.527Z",
-    "canonical:88ce4d8737550d0d": "2026-05-09T15:28:15.527Z",
     "canonical:f2f1d1df11463641": "2026-05-09T15:28:15.527Z",
     "canonical:ce30b9ca9530fd33": "2026-05-09T15:28:15.527Z",
     "canonical:be5f33a53c44d606": "2026-05-09T15:28:15.527Z",
@@ -615,7 +609,6 @@
     "canonical:6891c0ba8d854c9b": "2026-05-09T15:28:15.527Z",
     "canonical:3e61bd7d54d1d13a": "2026-05-09T15:28:15.527Z",
     "canonical:9033f4b5e8eae79e": "2026-05-09T15:28:15.527Z",
-    "canonical:d5f5dfde424a0384": "2026-05-09T15:28:15.527Z",
     "canonical:5cdab76f508307f7": "2026-05-09T15:28:15.527Z",
     "canonical:1ec58067683787e8": "2026-05-09T15:28:15.527Z",
     "canonical:c0d72a2d4e421f51": "2026-05-09T15:28:15.527Z",
@@ -1251,7 +1244,9 @@
     "canonical:1e55d948abe3148a": "2026-06-05T10:40:30.398Z",
     "canonical:e746b679c07c9b70": "2026-06-05T10:40:30.398Z",
     "canonical:464ecfeba366891e": "2026-06-05T10:40:30.398Z",
-    "canonical:f7327f20ad8adf4e": "2026-06-05T10:40:30.398Z"
+    "canonical:f7327f20ad8adf4e": "2026-06-05T10:40:30.398Z",
+    "canonical:a6f482844306182e": "2026-06-05T13:40:59.009Z",
+    "canonical:0018ec313a54a4fd": "2026-06-05T13:40:59.009Z"
   },
   "jobs": [
     {
@@ -1687,10 +1682,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1701,10 +1696,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -2050,10 +2045,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2063,10 +2058,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -8396,19 +8391,6 @@
       ]
     },
     {
-      "id": "canonical:43af3ecb0117afda",
-      "title": "Cloud Solutions Intern",
-      "url": "https://jobs.lever.co/go-cloudforce/a6fc45dd-d6e8-484f-8254-1b1f69dff362",
-      "location": "National Harbor, Maryland",
-      "department": "Software Engineering",
-      "company": "Cloudforce",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:11ccf5058382c3d9",
       "title": "AI Agent Builder Intern",
       "url": "https://jobs.lever.co/go-cloudforce/cf2f1855-3ad7-4d4a-a100-2e627f703af4",
@@ -8815,33 +8797,6 @@
       "company": "Etched",
       "score": 58,
       "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:be4f2089a21b8de9",
-      "title": "Frontend Engineering Intern (UI/UX Focus)",
-      "url": "https://apply.workable.com/enfos-inc/j/7364AA5599/",
-      "location": "Durham, NC",
-      "department": "Software Engineering",
-      "company": "ENFOS",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:12bc216edc685663",
-      "title": "Applied AI Engineering Intern",
-      "url": "https://jobs.lever.co/gr0/81a6ff41-681b-4be1-828b-8853288c2608",
-      "location": "Los Angeles, CA",
-      "department": "Data Science, AI & Machine Learning",
-      "company": "Gr0",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
         "direct ATS"
       ]
     },
@@ -9253,18 +9208,6 @@
       "score": 58,
       "scoreReasons": [
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:61844afccabddbe0",
-      "title": "Software QA Engineering - Intern",
-      "url": "https://www.chargepoint.com/about/opportunities/software-qa-engineering-intern?gh_jid=8505201002",
-      "location": "Campbell, CA",
-      "department": "Software Engineering",
-      "company": "ChargePoint",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {
@@ -9924,19 +9867,6 @@
       ]
     },
     {
-      "id": "canonical:d6368170104e0f33",
-      "title": "Software Engineering Internship",
-      "url": "https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af",
-      "location": "Los Angeles, CA",
-      "department": "Software Engineering",
-      "company": "Vital Lyfe",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:4ae090f51da276c9",
       "title": "Infrastructure Software Engineering Intern",
       "url": "https://jobs.ashbyhq.com/atomicsemi/867c67f7-20b5-4726-b9da-85a760d3851e",
@@ -9969,19 +9899,6 @@
       "location": "San Francisco, CA",
       "department": "Software Engineering",
       "company": "Kira",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:88ce4d8737550d0d",
-      "title": "AI & ML Intern",
-      "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/rts/job/Addison-TX/AI---ML-Intern_R1225",
-      "location": "Addison, TX",
-      "department": "Data Science, AI & Machine Learning",
-      "company": "Resolve Tech Solutions",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -10195,19 +10112,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:d5f5dfde424a0384",
-      "title": "Software/Electrical Engineering Intern",
-      "url": "https://curtisswright.wd1.myworkdayjobs.com/en-US/cw_external_career_site/job/US-PA-Newtown-TTC/Software-Electrical-Engineering-Intern_JR11947-1",
-      "location": "Newtown, PA",
-      "department": "Software Engineering",
-      "company": "Curtiss-Wright",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -13414,6 +13318,20 @@
       ]
     },
     {
+      "id": "canonical:a6f482844306182e",
+      "title": "Predictive Sales Prospecting Intern",
+      "url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Intern---Predictive-Sales-Prospecting_4038245",
+      "location": "Wilmington, DE",
+      "department": "AI/ML/Data",
+      "company": "Agilent Technologies",
+      "score": 48,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS",
+        "lower-fit title"
+      ]
+    },
+    {
       "id": "canonical:66c86d4723bacda5",
       "title": "Software Developer Intern - Stagiaire en Développement Logiciel",
       "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-2",
@@ -14281,6 +14199,19 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:0018ec313a54a4fd",
+      "title": "AI Software Enablement Intern",
+      "url": "https://volarisgroup.wd3.myworkdayjobs.com/volaris/job/United-States---TX/AI-Software-Enablement-Intern_R67348",
+      "location": "Texas",
+      "department": "Software",
+      "company": "Volaris Group",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
