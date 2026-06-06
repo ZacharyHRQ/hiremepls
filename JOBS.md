@@ -1,6 +1,6 @@
 # Open Internships
 
-**1245** internships across **63/64** companies — last updated 2026-06-06.
+**1251** internships across **63/64** companies — last updated 2026-06-06.
 
 ## Companies
 
@@ -102,6 +102,7 @@
 - [Capella](#capella) (2)
 - [CareScout](#carescout) (1)
 - [Caterpillar Inc.](#caterpillar-inc) (1)
+- [Centerstone](#centerstone) (1)
 - [Centific](#centific) (1)
 - [Chartwells Higher Education Dining Services](#chartwells-higher-education-dining-services) (1)
 - [CHEP](#chep) (1)
@@ -187,6 +188,7 @@
 - [Fanatics](#fanatics) (3)
 - [Federal Home Loan Bank of Indianapolis](#federal-home-loan-bank-of-indianapolis) (1)
 - [Ferrovial](#ferrovial) (1)
+- [FHLBank Topeka](#fhlbank-topeka) (1)
 - [Field AI](#field-ai) (1)
 - [Figure](#figure) (1)
 - [Fiserv](#fiserv) (2)
@@ -350,7 +352,7 @@
 - [Notion](#notion) (5)
 - [NPR](#npr) (1)
 - [Nuro](#nuro) (2)
-- [NVIDIA](#nvidia) (10)
+- [NVIDIA](#nvidia) (11)
 - [OCC](#occ) (1)
 - [Octaura](#octaura) (1)
 - [Omnis](#omnis) (1)
@@ -383,6 +385,7 @@
 - [Point72](#point72) (22)
 - [Poshmark](#poshmark) (1)
 - [Primetals Technologies](#primetals-technologies) (1)
+- [Princeton University](#princeton-university) (1)
 - [Prior Labs](#prior-labs) (1)
 - [Prologis](#prologis) (1)
 - [Prosper Funding](#prosper-funding) (1)
@@ -446,6 +449,7 @@
 - [SoloPulse](#solopulse) (2)
 - [Solva](#solva) (1)
 - [Sony](#sony) (3)
+- [SOTI](#soti) (1)
 - [SpaceX](#spacex) (3)
 - [Squarepoint Capital](#squarepoint-capital) (7)
 - [SRI International](#sri-international) (1)
@@ -533,7 +537,7 @@
 - [Workato](#workato) (1)
 - [WSP](#wsp) (1)
 - [WTW](#wtw) (1)
-- [XPENG Motors](#xpeng-motors) (2)
+- [XPENG Motors](#xpeng-motors) (3)
 - [Zillow](#zillow) (2)
 - [Zip](#zip) (1)
 - [Zipline](#zipline) (1)
@@ -1245,6 +1249,12 @@
 | --- | --- | --- | --- | --- |
 | [2026 Engineering Internship Program- Metallurgical Engineering](https://www.linkedin.com/jobs/view/4260034721) | 42 | Mossville, IL | — | 2026-05-16 |
 
+## Centerstone
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Associate Intern](https://centerstone.wd5.myworkdayjobs.com/centerstonecareers/job/Bloomington-Indiana/Associate-Level-Intern_JR-031784) | 68 | Bloomington, IN | AI/ML/Data | 2026-06-06 |
+
 ## Centific
 
 | Title | Score | Location | Department | First seen |
@@ -1831,6 +1841,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Digital Construction & Data Management Intern](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Austin-TX/Digital-Construction---Data-Management-Intern_JR17433) | 68 | Austin, TX | AI/ML/Data | 2026-05-18 |
+
+## FHLBank Topeka
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Financial Analyst Intern](https://fhlbtopeka.wd1.myworkdayjobs.com/FHLBT/job/Topeka-Kansas/Member-Solutions-Intern_JR100348) | 68 | Topeka, KS | AI/ML/Data | 2026-06-06 |
 
 ## Field AI
 
@@ -2986,6 +3002,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Formal Verification Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Intern---Fall-2026_JR2017490) | 58 | Austin, TX / Santa Clara, CA | Hardware | 2026-06-06 |
 | [Software Engineer Intern - Mapping Autonomous Vehicles](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Mapping-Autonomous-Vehicles---Fall-2026_JR2011493) | 93 | Santa Clara, CA | Software | 2026-06-06 |
 | [Software Engineering Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745) | 68 | Santa Clara, CA | Software | 2026-06-05 |
 | [Software Performance at Scale Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Performance-at-Scale-Intern---Fall-2026_JR2018701) | 68 | Santa Clara, CA | Software | 2026-06-05 |
@@ -3255,6 +3272,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Product Line Management Associate Intern](https://mhicareers.com/job/Orlando-Product-Line-Management-Associate-(Internship)-FL-32809/1389987633/?ats=successfactors) | 50 | Orlando, FL | Product | 2026-05-27 |
+
+## Princeton University
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Business and Data Intern - Membership Program](https://main-princeton.icims.com/jobs/21888/job?mobile=true&needsRedirect=false) | 60 | Princeton, NJ | AI/ML/Data | 2026-06-06 |
 
 ## Prior Labs
 
@@ -3690,6 +3713,12 @@
 | [Research Intern - Multimodal Foundation Model for Vision](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---New-York/Research-Intern--Vision-Foundation-Model-and-Generative-AI_JR-118794) | 68 | California / NYC / Waterbury, CT / Washington, DC / Massachusetts / San Jose, CA / SF / Jackson Township, NJ | AI/ML/Data | 2026-05-23 |
 | [Intern – Advanced Computer Graphics Research](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Culver-City/Intern--Advanced-Computer-Graphics-Research_JR-118801) | 68 | Culver City, CA | AI/ML/Data | 2026-05-09 |
 | [Research Intern-AI Ethics](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---California/Research-Intern--AI-Ethics_JR-119055) | 68 | California / San Jose, CA / Jackson Township, NJ / Florida / Waterbury, CT / Virginia / NYC / Massachusetts | AI/ML/Data | 2026-05-09 |
+
+## SOTI
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Web Producer Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Web-Producer-Intern--September-2026-12-Months-_R10090) | 68 | Mississauga, ON, Canada | Software | 2026-06-06 |
 
 ## SpaceX
 
@@ -4426,6 +4455,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [AI Infrastructure Onboard Performance Intern](https://job-boards.greenhouse.io/xpengmotors/jobs/8581353002) | 68 | Santa Clara, CA | AI/ML/Data | 2026-06-06 |
 | [AI Agent Data Pipeline Intern](https://job-boards.greenhouse.io/xpengmotors/jobs/8548990002) | 68 | Santa Clara, CA | AI/ML/Data | 2026-05-14 |
 | [VLA Deployment AI Intern](https://job-boards.greenhouse.io/xpengmotors/jobs/8535409002) | 58 | Santa Clara, CA | Hardware | 2026-05-09 |
 

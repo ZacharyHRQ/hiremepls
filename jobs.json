@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-06T12:15:10.399Z",
+  "generatedAt": "2026-06-06T14:14:20.078Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1245,
+  "jobCount": 1251,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1248,7 +1248,13 @@
     "canonical:941d02dc047a74b1": "2026-06-06T11:09:29.346Z",
     "canonical:103a322744212e14": "2026-06-06T11:09:29.346Z",
     "canonical:55abf604a6bf53ca": "2026-06-06T11:09:29.346Z",
-    "canonical:a98b1aa946348c37": "2026-06-06T12:15:10.399Z"
+    "canonical:a98b1aa946348c37": "2026-06-06T12:15:10.399Z",
+    "canonical:9992c8a0a830a9f3": "2026-06-06T14:14:20.078Z",
+    "canonical:f5d84370157fe2ee": "2026-06-06T14:14:20.078Z",
+    "canonical:d169889b306cd343": "2026-06-06T14:14:20.078Z",
+    "canonical:180d901e190fbd63": "2026-06-06T14:14:20.078Z",
+    "canonical:2b95c48ea9f5b253": "2026-06-06T14:14:20.078Z",
+    "canonical:ce890d51c1a61aab": "2026-06-06T14:14:20.078Z"
   },
   "jobs": [
     {
@@ -10133,6 +10139,18 @@
       ]
     },
     {
+      "id": "canonical:9992c8a0a830a9f3",
+      "title": "Formal Verification Intern",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Intern---Fall-2026_JR2017490",
+      "location": "Austin, TX / Santa Clara, CA",
+      "department": "Hardware",
+      "company": "NVIDIA",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:a282aa4af08894f9",
       "title": "Incubation Developer Coop/Intern",
       "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34227",
@@ -12568,6 +12586,19 @@
       ]
     },
     {
+      "id": "canonical:f5d84370157fe2ee",
+      "title": "Financial Analyst Intern",
+      "url": "https://fhlbtopeka.wd1.myworkdayjobs.com/FHLBT/job/Topeka-Kansas/Member-Solutions-Intern_JR100348",
+      "location": "Topeka, KS",
+      "department": "AI/ML/Data",
+      "company": "FHLBank Topeka",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:58404cccedc982e2",
       "title": "Field Engineering Intern",
       "url": "https://jobs.ashbyhq.com/lambda/e0e555b9-a009-43c4-bd64-57e74cfd67f1/application",
@@ -13390,6 +13421,18 @@
       ]
     },
     {
+      "id": "canonical:d169889b306cd343",
+      "title": "Business and Data Intern - Membership Program",
+      "url": "https://main-princeton.icims.com/jobs/21888/job?mobile=true&needsRedirect=false",
+      "location": "Princeton, NJ",
+      "department": "AI/ML/Data",
+      "company": "Princeton University",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:13e1acc0b159fe16",
       "title": "Software Engineer Intern",
       "url": "https://jobs.lever.co/genbio/4bdb14ae-e19f-40c8-84db-1307dbdabe74/apply",
@@ -14162,6 +14205,19 @@
       ]
     },
     {
+      "id": "canonical:180d901e190fbd63",
+      "title": "Associate Intern",
+      "url": "https://centerstone.wd5.myworkdayjobs.com/centerstonecareers/job/Bloomington-Indiana/Associate-Level-Intern_JR-031784",
+      "location": "Bloomington, IN",
+      "department": "AI/ML/Data",
+      "company": "Centerstone",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:15c9ad54e5b37301",
       "title": "Software Development Intern",
       "url": "https://apply.workable.com/altom-transport/j/8536165C7B/apply",
@@ -14830,6 +14886,32 @@
       "location": "SF / NYC",
       "department": "Software",
       "company": "Scale AI",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:2b95c48ea9f5b253",
+      "title": "AI Infrastructure Onboard Performance Intern",
+      "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8581353002",
+      "location": "Santa Clara, CA",
+      "department": "AI/ML/Data",
+      "company": "XPENG Motors",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ce890d51c1a61aab",
+      "title": "Web Producer Intern",
+      "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Web-Producer-Intern--September-2026-12-Months-_R10090",
+      "location": "Mississauga, ON, Canada",
+      "department": "Software",
+      "company": "SOTI",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
