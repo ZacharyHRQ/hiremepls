@@ -1,6 +1,6 @@
 # Open Internships
 
-**1255** internships across **63/64** companies — last updated 2026-06-06.
+**1256** internships across **63/64** companies — last updated 2026-06-06.
 
 ## Companies
 
@@ -480,7 +480,7 @@
 - [TENEX.AI](#tenex-ai) (1)
 - [Tenstorrent](#tenstorrent) (6)
 - [Terranox AI](#terranox-ai) (1)
-- [Tesla](#tesla) (29)
+- [Tesla](#tesla) (30)
 - [Tessera Labs](#tessera-labs) (1)
 - [TETRAMEM](#tetramem) (1)
 - [The Boeing Company](#the-boeing-company) (2)
@@ -3946,6 +3946,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Solar Hardware Engineer Intern - Solar Hardware Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/271539) | 50 | Palo Alto, CA | Hardware | 2026-06-06 |
 | [Data Engineer Intern - Fleet Analytics](https://www.tesla.com/careers/search/job/271696) | 85 | Palo Alto, CA | AI/ML/Data | 2026-06-06 |
 | [Embedded Software Engineer Intern - AI Platforms - Embedded Software Engineer](https://www.tesla.com/careers/search/job/269819) | 85 | Palo Alto, CA | Hardware | 2026-06-06 |
 | [Service Engineering Intern - Product Support Engineer - Service Engineering](https://www.tesla.com/careers/search/job/271630) | 85 | Palo Alto, CA | Software | 2026-06-06 |

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-06T16:45:38.346Z",
+  "generatedAt": "2026-06-06T17:59:37.822Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1255,
+  "jobCount": 1256,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1258,7 +1258,8 @@
     "canonical:0ccbf02e3f553636": "2026-06-06T15:40:28.831Z",
     "canonical:525d35ef69b019bc": "2026-06-06T15:40:28.831Z",
     "canonical:7ab57e97fb879c0f": "2026-06-06T15:40:28.831Z",
-    "canonical:9787b6e04120138f": "2026-06-06T15:40:28.831Z"
+    "canonical:9787b6e04120138f": "2026-06-06T15:40:28.831Z",
+    "canonical:85735fa4cd042164": "2026-06-06T17:59:37.822Z"
   },
   "jobs": [
     {
@@ -14965,6 +14966,16 @@
       "id": "canonical:9787b6e04120138f",
       "title": "Failure Analysis Engineer Intern - Failure Analysis Engineer - Energy Engineering",
       "url": "https://www.tesla.com/careers/search/job/271544",
+      "location": "Palo Alto, CA",
+      "department": "Hardware",
+      "company": "Tesla",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:85735fa4cd042164",
+      "title": "Solar Hardware Engineer Intern - Solar Hardware Engineer - Energy Engineering",
+      "url": "https://www.tesla.com/careers/search/job/271539",
       "location": "Palo Alto, CA",
       "department": "Hardware",
       "company": "Tesla",
