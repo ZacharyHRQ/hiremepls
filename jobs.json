@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-06T19:26:49.821Z",
+  "generatedAt": "2026-06-06T20:38:33.246Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1250,
+  "jobCount": 1247,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -861,7 +861,6 @@
     "canonical:08367d3bcfaed026": "2026-05-17T04:18:58.240Z",
     "canonical:0a89c5d5dd00f36f": "2026-05-17T04:18:58.240Z",
     "canonical:22cba4a90f428d7c": "2026-05-17T04:18:58.240Z",
-    "canonical:00742ac512f3cc60": "2026-05-17T04:18:58.240Z",
     "canonical:6f55f3db87744549": "2026-05-17T07:19:48.510Z",
     "canonical:a23b29cc524f8116": "2026-05-17T07:19:48.510Z",
     "canonical:e5816ef97ceabca4": "2026-05-17T07:19:48.510Z",
@@ -963,7 +962,6 @@
     "canonical:48ec88269f1f5384": "2026-05-23T08:53:33.768Z",
     "canonical:887cd5542760eab5": "2026-05-23T10:21:14.097Z",
     "canonical:3199ccc6d28ca766": "2026-05-23T10:21:14.097Z",
-    "canonical:5906a2f82569959e": "2026-05-23T10:21:14.097Z",
     "canonical:f45e37ab03eae395": "2026-05-23T10:21:14.097Z",
     "canonical:474dbcf68693e3b6": "2026-05-23T10:21:14.097Z",
     "canonical:2031e4e9473b2185": "2026-05-23T11:39:27.713Z",
@@ -1104,7 +1102,6 @@
     "canonical:250f97c46eab1e7b": "2026-06-01T23:55:48.935Z",
     "canonical:4d53d98827cc1de5": "2026-06-01T23:55:48.935Z",
     "canonical:8e188db5da0c13d5": "2026-06-01T23:55:48.935Z",
-    "canonical:e6905e9f3851fddf": "2026-06-01T23:55:48.935Z",
     "canonical:d1f346dfbfc27dca": "2026-06-01T23:55:48.935Z",
     "canonical:199eb23c208d8dfb": "2026-06-02T02:47:13.035Z",
     "canonical:21698b3026c5ea94": "2026-06-03T00:01:07.922Z",
@@ -1150,7 +1147,6 @@
     "canonical:aeb0200148d99b67": "2026-06-03T15:01:52.660Z",
     "canonical:d7b27eb1186aca67": "2026-06-03T15:01:52.660Z",
     "canonical:b0a57a3a31d07f87": "2026-06-03T15:01:52.660Z",
-    "canonical:9a85b8f9c7c0bbba": "2026-06-03T23:25:54.380Z",
     "canonical:61a176d561f3108a": "2026-06-03T23:25:54.380Z",
     "canonical:76679209f361ccb6": "2026-06-03T23:25:54.380Z",
     "canonical:1cb06eb7b801cca8": "2026-06-03T23:25:54.380Z",
@@ -1253,7 +1249,8 @@
     "canonical:525d35ef69b019bc": "2026-06-06T15:40:28.831Z",
     "canonical:7ab57e97fb879c0f": "2026-06-06T15:40:28.831Z",
     "canonical:9787b6e04120138f": "2026-06-06T15:40:28.831Z",
-    "canonical:85735fa4cd042164": "2026-06-06T17:59:37.822Z"
+    "canonical:85735fa4cd042164": "2026-06-06T17:59:37.822Z",
+    "canonical:c980dd7762d04498": "2026-06-06T20:38:33.246Z"
   },
   "jobs": [
     {
@@ -4562,19 +4559,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:9a85b8f9c7c0bbba",
-      "title": "Data Science Intern",
-      "url": "https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Data-Science-Intern_JR373",
-      "location": "Oklahoma City, OK",
-      "department": "AI/ML/Data",
-      "company": "American Fidelity",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -8826,19 +8810,6 @@
       ]
     },
     {
-      "id": "canonical:5906a2f82569959e",
-      "title": "Speech Intern 4",
-      "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Speech-Intern-4_JR107037",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "Centific",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:fdec04dde5c5fea4",
       "title": "Machine Learning Engineering Intern",
       "url": "https://jobs.ashbyhq.com/marianaminerals/7974b67d-92d8-49a5-bef5-079320962aee/application",
@@ -10144,18 +10115,6 @@
       "location": "Santa Clara, CA",
       "department": "Hardware",
       "company": "XPENG Motors",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:00742ac512f3cc60",
-      "title": "Chip Design Verification Intern",
-      "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/United-Kingdom---Towcester-Northamptonshire/Chip-Design-Verification-Intern_2026572",
-      "location": "Daventry, UK",
-      "department": "Hardware",
-      "company": "Lumentum",
       "score": 58,
       "scoreReasons": [
         "direct ATS"
@@ -13460,20 +13419,6 @@
       ]
     },
     {
-      "id": "canonical:e6905e9f3851fddf",
-      "title": "Salesforce AI Developer Intern",
-      "url": "https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Salesforce-AI-Developer-Intern_JR012226-1",
-      "location": "SF",
-      "department": "Software",
-      "company": "LiveRamp",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:d1f346dfbfc27dca",
       "title": "AI Engineer Intern",
       "url": "https://jobs.lever.co/prosper/08d2e972-b83a-4796-8c4e-5263481aaf5b/apply",
@@ -14895,6 +14840,19 @@
       "company": "Tesla",
       "score": 50,
       "scoreReasons": []
+    },
+    {
+      "id": "canonical:c980dd7762d04498",
+      "title": "AI/ML Research Intern",
+      "url": "https://jobs.ashbyhq.com/eightsleep/b6c2e6f6-eadd-4d67-93e9-1426be4f2035/application",
+      "location": "SF",
+      "department": "AI/ML/Data",
+      "company": "Eight Sleep",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
     },
     {
       "id": "canonical:12cd06c0eec80152",

@@ -1,6 +1,6 @@
 # Open Internships
 
-**1250** internships across **63/64** companies — last updated 2026-06-06.
+**1247** internships across **63/64** companies — last updated 2026-06-06.
 
 ## Companies
 
@@ -28,7 +28,6 @@
 - [Amazon](#amazon) (14)
 - [Ambarella](#ambarella) (2)
 - [American Enterprise Institute](#american-enterprise-institute) (1)
-- [American Fidelity](#american-fidelity) (1)
 - [Anima](#anima) (1)
 - [Anterior](#anterior) (1)
 - [AnySignal](#anysignal) (1)
@@ -100,7 +99,6 @@
 - [CareScout](#carescout) (1)
 - [Caterpillar Inc.](#caterpillar-inc) (1)
 - [Centerstone](#centerstone) (1)
-- [Centific](#centific) (1)
 - [Chartwells Higher Education Dining Services](#chartwells-higher-education-dining-services) (1)
 - [CHEP](#chep) (1)
 - [Cherry Bekaert](#cherry-bekaert) (2)
@@ -160,6 +158,7 @@
 - [DuPont](#dupont) (5)
 - [EarnIn](#earnin) (2)
 - [EdgeTrace](#edgetrace) (1)
+- [Eight Sleep](#eight-sleep) (1)
 - [Ekimetrics](#ekimetrics) (1)
 - [Electronic Arts](#electronic-arts) (5)
 - [Eluvio](#eluvio) (1)
@@ -293,10 +292,10 @@
 - [Leidos](#leidos) (1)
 - [Lensa](#lensa) (3)
 - [LinkedIn](#linkedin) (3)
-- [LiveRamp](#liveramp) (4)
+- [LiveRamp](#liveramp) (3)
 - [LMI ](#lmi) (2)
 - [Lumafield](#lumafield) (1)
-- [Lumentum](#lumentum) (2)
+- [Lumentum](#lumentum) (1)
 - [Lyft](#lyft) (1)
 - [Mach9](#mach9) (1)
 - [Maersk](#maersk) (1)
@@ -702,12 +701,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Housing Center Intern](https://internships-aei.icims.com/jobs/2614/job?mobile=true&needsRedirect=false) | 60 | Washington, DC | AI/ML/Data | 2026-05-27 |
-
-## American Fidelity
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Science Intern](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Data-Science-Intern_JR373) | 68 | Oklahoma City, OK | AI/ML/Data | 2026-06-03 |
 
 ## Anima
 
@@ -1231,12 +1224,6 @@
 | --- | --- | --- | --- | --- |
 | [Associate Intern](https://centerstone.wd5.myworkdayjobs.com/centerstonecareers/job/Bloomington-Indiana/Associate-Level-Intern_JR-031784) | 68 | Bloomington, IN | AI/ML/Data | 2026-06-06 |
 
-## Centific
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Speech Intern 4](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Speech-Intern-4_JR107037) | 68 | Remote in USA | AI/ML/Data | 2026-05-23 |
-
 ## Chartwells Higher Education Dining Services
 
 | Title | Score | Location | Department | First seen |
@@ -1642,6 +1629,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [AI Full-Stack Engineering Intern](https://www.workatastartup.com/jobs/86239) | 56 | San Mateo, CA | — | 2026-05-09 |
+
+## Eight Sleep
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI/ML Research Intern](https://jobs.ashbyhq.com/eightsleep/b6c2e6f6-eadd-4d67-93e9-1426be4f2035/application) | 68 | SF | AI/ML/Data | 2026-06-06 |
 
 ## Ekimetrics
 
@@ -2531,7 +2524,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [AI/Automation Engineer Intern](https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/AI-Automation-Engineer--Intern-_JR012159) | 93 | Seattle, WA / SF | AI/ML/Data | 2026-06-01 |
-| [Salesforce AI Developer Intern](https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Salesforce-AI-Developer-Intern_JR012226-1) | 93 | SF | Software | 2026-06-01 |
 | [Software Engineer Intern, Pixel Serving](https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/New-York/Intern--Software-Engineer---Pixel-Serving_JR012201) | 93 | New York, NY | — | 2026-05-22 |
 | [Data Science Intern](https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Intern--Data-Science_JR012195) | 68 | SF / NYC | AI/ML/Data | 2026-05-20 |
 
@@ -2552,7 +2544,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Chip Design Verification Intern](https://lumentum.wd5.myworkdayjobs.com/LITE/job/United-Kingdom---Towcester-Northamptonshire/Chip-Design-Verification-Intern_2026572) | 58 | Daventry, UK | Hardware | 2026-05-17 |
 | [Optical Verification Engineer Co-op/Intern](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_2026531) | 58 | Ottawa, ON, Canada | Hardware | 2026-05-09 |
 
 ## Lyft
