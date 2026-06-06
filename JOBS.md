@@ -1,6 +1,6 @@
 # Open Internships
 
-**1256** internships across **63/64** companies — last updated 2026-06-06.
+**1250** internships across **63/64** companies — last updated 2026-06-06.
 
 ## Companies
 
@@ -46,14 +46,12 @@
 - [Ardian](#ardian) (1)
 - [Arlo](#arlo) (2)
 - [Armada](#armada) (1)
-- [ASM Global](#asm-global) (2)
+- [ASM Global](#asm-global) (1)
 - [ASM International](#asm-international) (1)
 - [ASML](#asml) (2)
 - [ASSA ABLOY](#assa-abloy) (1)
-- [Assurant](#assurant) (1)
 - [Astera](#astera) (1)
 - [Astranis](#astranis) (10)
-- [AtkinsRéalis](#atkinsr-alis) (1)
 - [Atomic Semi](#atomic-semi) (8)
 - [Attentive](#attentive) (1)
 - [Auctor](#auctor) (1)
@@ -61,7 +59,6 @@
 - [Avanade](#avanade) (1)
 - [Avathon](#avathon) (1)
 - [Avery Dennison](#avery-dennison) (1)
-- [Avis Budget Group](#avis-budget-group) (1)
 - [Avride](#avride) (2)
 - [Axiomatic AI](#axiomatic-ai) (2)
 - [Axos Bank](#axos-bank) (1)
@@ -163,7 +160,6 @@
 - [DuPont](#dupont) (5)
 - [EarnIn](#earnin) (2)
 - [EdgeTrace](#edgetrace) (1)
-- [Eight Sleep](#eight-sleep) (1)
 - [Ekimetrics](#ekimetrics) (1)
 - [Electronic Arts](#electronic-arts) (5)
 - [Eluvio](#eluvio) (1)
@@ -280,7 +276,6 @@
 - [Kaiser Permanente](#kaiser-permanente) (2)
 - [KBR](#kbr) (2)
 - [Kelso Industries](#kelso-industries) (1)
-- [Ken Garff Auto Group](#ken-garff-auto-group) (1)
 - [Keystone AI](#keystone-ai) (1)
 - [Kinaxis](#kinaxis) (2)
 - [KION Group](#kion-group) (4)
@@ -843,7 +838,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Automation & AI Technology Experience Intern](https://asmglobal.wd1.myworkdayjobs.com/careers/job/West-Conshohocken-PA/Automation---AI-Technology-Experience-Intern_R100122152) | 68 | Frisco, TX / Conshohocken, PA | AI/ML/Data | 2026-05-23 |
-| [Summer Associate - Enterprise AI & Insights - 8 Week Program](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Remote-USA/Summer-Associate--Enterprise-AI---Insights--8-10-Week-Program-_R100119581) | 68 | Remote in USA | AI/ML/Data | 2026-05-19 |
 
 ## ASM International
 
@@ -863,12 +857,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [IT Intern – Security Analytics & Data Management](https://assaabloy.jobs2web.com/job/New-Haven-IT-Intern-Security-Analytics-&-Data-Management-CT-06511/1397886133/?ats=successfactors) | 60 | New Haven, CT | AI/ML/Data | 2026-05-27 |
-
-## Assurant
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Digital & AI Transformation Intern](https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Atlanta-GA/Digital---AI-Transformation-Intern_R-114103-1) | 68 | Atlanta, GA | AI/ML/Data | 2026-06-06 |
 
 ## Astera
 
@@ -890,12 +878,6 @@
 | [Embedded Software Developer – Network/Payload Software Intern](https://job-boards.greenhouse.io/astranis/jobs/4601135006) | 93 | SF | Hardware | 2026-05-11 |
 | [Software Engineer Intern - Data Platform](https://job-boards.greenhouse.io/astranis/jobs/4667477006) | 93 | SF | Software | 2026-05-09 |
 | [Reliability Test Intern](https://job-boards.greenhouse.io/astranis/jobs/4677973006) | 58 | SF | Hardware | 2026-05-09 |
-
-## AtkinsRéalis
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Environmental Sustainability Intern](https://slihrms.wd3.myworkdayjobs.com/careers/job/USNCCharlotte5600-77-Center-Drive/Environmental-Sustainability-Intern---Fall-2026_R-157183-1) | 68 | Charlotte, NC | AI/ML/Data | 2026-06-06 |
 
 ## Atomic Semi
 
@@ -948,12 +930,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Finance Intern](https://www.linkedin.com/jobs/view/4277230317) | 42 | Mentor, OH | — | 2026-05-16 |
-
-## Avis Budget Group
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI Engineer Intern](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/Avis-Budget-House-HQ/AI-Engineer-Intern---Summer-2026_R0188401) | 93 | Bracknell, UK | Software | 2026-05-17 |
 
 ## Avride
 
@@ -1666,12 +1642,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [AI Full-Stack Engineering Intern](https://www.workatastartup.com/jobs/86239) | 56 | San Mateo, CA | — | 2026-05-09 |
-
-## Eight Sleep
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI/ML Research Intern - Machine Learning - Research](https://jobs.ashbyhq.com/eightsleep/b6c2e6f6-eadd-4d67-93e9-1426be4f2035/application) | 68 | SF | AI/ML/Data | 2026-05-09 |
 
 ## Ekimetrics
 
@@ -2440,12 +2410,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Web Development & Digital Marketing Intern](https://kelso-industries.com/careers/?gh_jid=5217351008#job-board) | 40 | Salt Lake City, UT / Draper, UT | Software | 2026-05-14 |
-
-## Ken Garff Auto Group
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://kengarff.wd1.myworkdayjobs.com/external_site/job/Garff-Enterprises-Corporate-Office---Salt-Lake-City-UT/Software-Engineering-Intern--Part-Time-_R0042587) | 93 | Salt Lake City, UT | Software | 2026-06-02 |
 
 ## Keystone AI
 

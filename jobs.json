@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-06T17:59:37.822Z",
+  "generatedAt": "2026-06-06T19:26:49.821Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1256,
+  "jobCount": 1250,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -87,7 +87,6 @@
     "canonical:b0682e13963fcdcc": "2026-05-09T15:28:15.527Z",
     "canonical:6353eecea9024842": "2026-05-09T15:28:15.527Z",
     "canonical:8fc863f495e5ebf7": "2026-05-09T15:28:15.527Z",
-    "canonical:79c8023bba64b6c2": "2026-05-09T15:28:15.527Z",
     "canonical:40b5e3e02c34b6ce": "2026-05-09T15:28:15.527Z",
     "canonical:d84f44faf2a6f55f": "2026-05-09T15:28:15.527Z",
     "canonical:ac5dfc417ca207db": "2026-05-09T15:28:15.527Z",
@@ -870,7 +869,6 @@
     "canonical:cabdced545f0edd0": "2026-05-17T07:19:48.510Z",
     "canonical:37e30e2d4ee20e59": "2026-05-17T07:19:48.510Z",
     "canonical:e0ee645062b88839": "2026-05-17T07:19:48.510Z",
-    "canonical:5395852a5a431fe6": "2026-05-17T07:19:48.510Z",
     "canonical:120ef9d85630ac7e": "2026-05-17T07:19:48.510Z",
     "canonical:fa9184bcd6e40ca9": "2026-05-17T09:17:39.096Z",
     "canonical:a4858410287d0d65": "2026-05-18T01:33:21.344Z",
@@ -893,7 +891,6 @@
     "canonical:3a8e5c31a87580ff": "2026-05-19T08:58:19.722Z",
     "canonical:7f6bafc59ca8e261": "2026-05-19T08:58:19.722Z",
     "canonical:ae587a3dd163baf3": "2026-05-19T12:09:46.073Z",
-    "canonical:a7666a373f0726ce": "2026-05-19T15:51:03.148Z",
     "canonical:09ae29fd77b17064": "2026-05-19T17:57:07.076Z",
     "canonical:7fd0670d484537cc": "2026-05-19T17:57:07.076Z",
     "canonical:87221dd80d926fbc": "2026-05-19T17:57:07.076Z",
@@ -1110,7 +1107,6 @@
     "canonical:e6905e9f3851fddf": "2026-06-01T23:55:48.935Z",
     "canonical:d1f346dfbfc27dca": "2026-06-01T23:55:48.935Z",
     "canonical:199eb23c208d8dfb": "2026-06-02T02:47:13.035Z",
-    "canonical:546d2df3d841de6a": "2026-06-02T02:47:13.035Z",
     "canonical:21698b3026c5ea94": "2026-06-03T00:01:07.922Z",
     "canonical:b390871ecd79ae1f": "2026-06-03T00:01:07.922Z",
     "canonical:591f77d8c25c0856": "2026-06-03T00:01:07.922Z",
@@ -1230,10 +1226,8 @@
     "canonical:1903ea6b0e57aeaa": "2026-06-06T00:04:30.171Z",
     "canonical:0ef865c3ff3f9f5f": "2026-06-06T00:04:30.171Z",
     "canonical:3da39dab672a1b4b": "2026-06-06T00:04:30.171Z",
-    "canonical:f244f38d3948994b": "2026-06-06T00:04:30.171Z",
     "canonical:87eab4529cff3827": "2026-06-06T00:04:30.171Z",
     "canonical:b2991fc4c6b63760": "2026-06-06T00:04:30.171Z",
-    "canonical:d1724f6d20ce1186": "2026-06-06T00:04:30.171Z",
     "canonical:8a4ddfd20248576c": "2026-06-06T00:04:30.171Z",
     "canonical:c9a881fad90b6944": "2026-06-06T00:04:30.171Z",
     "canonical:0569c4db1819e9e6": "2026-06-06T00:04:30.171Z",
@@ -2524,19 +2518,6 @@
       "company": "Cribl",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:79c8023bba64b6c2",
-      "title": "AI/ML Research Intern - Machine Learning - Research",
-      "url": "https://jobs.ashbyhq.com/eightsleep/b6c2e6f6-eadd-4d67-93e9-1426be4f2035/application",
-      "location": "SF",
-      "department": "AI/ML/Data",
-      "company": "Eight Sleep",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
     },
     {
       "id": "canonical:40b5e3e02c34b6ce",
@@ -5411,19 +5392,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:a7666a373f0726ce",
-      "title": "Summer Associate - Enterprise AI & Insights - 8 Week Program",
-      "url": "https://asmglobal.wd1.myworkdayjobs.com/careers/job/Remote-USA/Summer-Associate--Enterprise-AI---Insights--8-10-Week-Program-_R100119581",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "ASM Global",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -10371,20 +10339,6 @@
       ]
     },
     {
-      "id": "canonical:5395852a5a431fe6",
-      "title": "AI Engineer Intern",
-      "url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/Avis-Budget-House-HQ/AI-Engineer-Intern---Summer-2026_R0188401",
-      "location": "Bracknell, UK",
-      "department": "Software",
-      "company": "Avis Budget Group",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:120ef9d85630ac7e",
       "title": "Machine Learning Intern - Multimodal Models Generative AI",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Hong-Kong-STP/Machine-Learning-Intern---Multimodal-Models-Generative-AI_JR2017296-1",
@@ -13547,20 +13501,6 @@
       ]
     },
     {
-      "id": "canonical:546d2df3d841de6a",
-      "title": "Software Engineer Intern",
-      "url": "https://kengarff.wd1.myworkdayjobs.com/external_site/job/Garff-Enterprises-Corporate-Office---Salt-Lake-City-UT/Software-Engineering-Intern--Part-Time-_R0042587",
-      "location": "Salt Lake City, UT",
-      "department": "Software",
-      "company": "Ken Garff Auto Group",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:b390871ecd79ae1f",
       "title": "Silicon Photonics Packaging Co-op/Intern",
       "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36996",
@@ -14754,19 +14694,6 @@
       ]
     },
     {
-      "id": "canonical:f244f38d3948994b",
-      "title": "Environmental Sustainability Intern",
-      "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USNCCharlotte5600-77-Center-Drive/Environmental-Sustainability-Intern---Fall-2026_R-157183-1",
-      "location": "Charlotte, NC",
-      "department": "AI/ML/Data",
-      "company": "AtkinsRéalis",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:87eab4529cff3827",
       "title": "Research Intern",
       "url": "https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/Main-Campus-Columbus-OH/Research-Intern_R-26191-1",
@@ -14786,19 +14713,6 @@
       "location": "Chicago, IL",
       "department": "Software",
       "company": "FourKites",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:d1724f6d20ce1186",
-      "title": "Digital & AI Transformation Intern",
-      "url": "https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Atlanta-GA/Digital---AI-Transformation-Intern_R-114103-1",
-      "location": "Atlanta, GA",
-      "department": "AI/ML/Data",
-      "company": "Assurant",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
