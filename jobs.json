@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-06T11:09:29.346Z",
+  "generatedAt": "2026-06-06T12:15:10.399Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1244,
+  "jobCount": 1245,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1247,7 +1247,8 @@
     "canonical:71f4c1680b019759": "2026-06-06T11:09:29.346Z",
     "canonical:941d02dc047a74b1": "2026-06-06T11:09:29.346Z",
     "canonical:103a322744212e14": "2026-06-06T11:09:29.346Z",
-    "canonical:55abf604a6bf53ca": "2026-06-06T11:09:29.346Z"
+    "canonical:55abf604a6bf53ca": "2026-06-06T11:09:29.346Z",
+    "canonical:a98b1aa946348c37": "2026-06-06T12:15:10.399Z"
   },
   "jobs": [
     {
@@ -14816,6 +14817,19 @@
       "location": "Oakland, CA",
       "department": "AI/ML/Data",
       "company": "Agilent Technologies",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:a98b1aa946348c37",
+      "title": "AI Builder Intern",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4703343005",
+      "location": "SF / NYC",
+      "department": "Software",
+      "company": "Scale AI",
       "score": 68,
       "scoreReasons": [
         "high-signal role",

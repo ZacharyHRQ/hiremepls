@@ -1,6 +1,6 @@
 # Open Internships
 
-**1244** internships across **63/64** companies — last updated 2026-06-06.
+**1245** internships across **63/64** companies — last updated 2026-06-06.
 
 ## Companies
 
@@ -422,7 +422,7 @@
 - [Samsung Research America](#samsung-research-america) (3)
 - [Sandhills Global](#sandhills-global) (1)
 - [Savannah River National Laboratory](#savannah-river-national-laboratory) (1)
-- [Scale AI](#scale-ai) (4)
+- [Scale AI](#scale-ai) (5)
 - [SCAN](#scan) (1)
 - [Schonfeld](#schonfeld) (4)
 - [Schweitzer Engineering Laboratories](#schweitzer-engineering-laboratories) (1)
@@ -3521,6 +3521,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [AI Builder Intern](https://job-boards.greenhouse.io/scaleai/jobs/4703343005) | 68 | SF / NYC | Software | 2026-06-06 |
 | [AI Builder Intern](https://job-boards.greenhouse.io/scaleai/jobs/4703343005) | 58 | San Francisco, CA; New York, NY | — | 2026-06-06 |
 | [Technical Advisor Specialist – Part-Time Intern](https://job-boards.greenhouse.io/scaleai/jobs/4611533005) | 68 | SF | AI/ML/Data | 2026-05-21 |
 | [Technical Advisor Intern, GenAI](https://scale.com/careers/4611533005) | 50 | San Francisco, CA | — | 2026-05-09 |
