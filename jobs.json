@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-06T00:04:30.171Z",
+  "generatedAt": "2026-06-06T04:18:16.502Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1247,
+  "jobCount": 1246,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -569,7 +569,6 @@
     "canonical:45a0b2cc551b932e": "2026-05-09T15:28:15.527Z",
     "canonical:8a131733911bef5f": "2026-05-09T15:28:15.527Z",
     "canonical:a11be3c0473589cc": "2026-05-09T15:28:15.527Z",
-    "canonical:d884f4d4096fc6a2": "2026-05-09T15:28:15.527Z",
     "canonical:11c1b4c81d7b5642": "2026-05-09T15:28:15.527Z",
     "canonical:3d9b440d729cddea": "2026-05-09T15:28:15.527Z",
     "canonical:1a94165ef7a73fdc": "2026-05-09T15:28:15.527Z",
@@ -594,7 +593,6 @@
     "canonical:bf7719c9b91974ac": "2026-05-09T15:28:15.527Z",
     "canonical:f2f1d1df11463641": "2026-05-09T15:28:15.527Z",
     "canonical:ce30b9ca9530fd33": "2026-05-09T15:28:15.527Z",
-    "canonical:be5f33a53c44d606": "2026-05-09T15:28:15.527Z",
     "canonical:c81f4c872a7fdae9": "2026-05-09T15:28:15.527Z",
     "canonical:f432089fe9f41109": "2026-05-09T15:28:15.527Z",
     "canonical:4ae4db68271d5872": "2026-05-09T15:28:15.527Z",
@@ -883,7 +881,6 @@
     "canonical:b81abc03055b6506": "2026-05-18T01:33:21.344Z",
     "canonical:82e87ea19458331e": "2026-05-18T05:55:36.135Z",
     "canonical:ca7bd097a8de8334": "2026-05-18T16:19:03.910Z",
-    "canonical:8a7c0c56efa46686": "2026-05-18T22:37:01.035Z",
     "canonical:46f7a31ad3598b53": "2026-05-18T22:37:01.035Z",
     "canonical:070c12c810a8f8d3": "2026-05-18T23:42:49.827Z",
     "canonical:840310ea7f271b05": "2026-05-18T23:42:49.827Z",
@@ -1110,7 +1107,6 @@
     "canonical:679507220af48402": "2026-06-01T23:55:48.935Z",
     "canonical:5f90f28de55ffffe": "2026-06-01T23:55:48.935Z",
     "canonical:7fe66c00294bc239": "2026-06-01T23:55:48.935Z",
-    "canonical:483e01474f6b2967": "2026-06-01T23:55:48.935Z",
     "canonical:6cdd1633b8f5ce3a": "2026-06-01T23:55:48.935Z",
     "canonical:59d5925083ef4661": "2026-06-01T23:55:48.935Z",
     "canonical:13e1acc0b159fe16": "2026-06-01T23:55:48.935Z",
@@ -1250,7 +1246,10 @@
     "canonical:d1724f6d20ce1186": "2026-06-06T00:04:30.171Z",
     "canonical:8a4ddfd20248576c": "2026-06-06T00:04:30.171Z",
     "canonical:c9a881fad90b6944": "2026-06-06T00:04:30.171Z",
-    "canonical:0569c4db1819e9e6": "2026-06-06T00:04:30.171Z"
+    "canonical:0569c4db1819e9e6": "2026-06-06T00:04:30.171Z",
+    "canonical:ac0760c809ad036d": "2026-06-06T04:18:16.502Z",
+    "canonical:062d8ece13f695f7": "2026-06-06T04:18:16.502Z",
+    "canonical:27857d8b96bfdf80": "2026-06-06T04:18:16.502Z"
   },
   "jobs": [
     {
@@ -5543,19 +5542,6 @@
       ]
     },
     {
-      "id": "canonical:8a7c0c56efa46686",
-      "title": "Software Engineering Intern - Margins",
-      "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineering-Intern---Margins_JR104263",
-      "location": "Austin, TX",
-      "department": "Software",
-      "company": "Apex Fintech Solutions",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:a0c816de68b3b6dc",
       "title": "Full-Stack Engineer Intern",
       "url": "https://jobs.ashbyhq.com/dryft/3f1c261d-9b65-412b-9f17-34b8968bdd78/application",
@@ -9577,19 +9563,6 @@
       ]
     },
     {
-      "id": "canonical:d884f4d4096fc6a2",
-      "title": "Vision Foundation Model Research Intern",
-      "url": "https://boards.greenhouse.io/intrinsicrobotics/jobs/5843594004",
-      "location": "Mountain View, CA",
-      "department": "AI/ML/Data",
-      "company": "Intrinsic",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:11c1b4c81d7b5642",
       "title": "Data Analyst Intern",
       "url": "https://job-boards.greenhouse.io/integrainterns/jobs/5134523008",
@@ -9910,18 +9883,6 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:be5f33a53c44d606",
-      "title": "Temporary Intern - Agentic AI & Neural-Symbolic Systems - Healthcare",
-      "url": "https://careers-cotiviti.icims.com/jobs/19075/job?mobile=true&needsRedirect=false",
-      "location": "Remote in USA",
-      "department": "Software",
-      "company": "Cotiviti",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {
@@ -12095,6 +12056,19 @@
       ]
     },
     {
+      "id": "canonical:ac0760c809ad036d",
+      "title": "Student Intern - Data Analyst - Personal Banking",
+      "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Fall-2026-Student---Data-Analyst--Personal-Banking--4---8-months-_R-0000168782",
+      "location": "Toronto, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "Royal Bank of Canada",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:34adcad6509a41c4",
       "title": "MBA Intern - Product Manager",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2026-MBA-Intern---Product-Manager_R160316",
@@ -13395,19 +13369,6 @@
       "location": "Richmond, BC, Canada",
       "department": "Software",
       "company": "The Boeing Company",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:483e01474f6b2967",
-      "title": "Application Development Intern",
-      "url": "https://cff.wd1.myworkdayjobs.com/explore-career-opportunities/job/Bethesda-MD---National-Headquarters/Application-Development-Intern_JR100677",
-      "location": "Bethesda, MD",
-      "department": "Software",
-      "company": "Cystic Fibrosis Foundation",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -14860,6 +14821,32 @@
       "company": "Robert Bosch Venture Capital",
       "score": 68,
       "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:062d8ece13f695f7",
+      "title": "Engineering Intern - Enrichment and Curation",
+      "url": "https://wayve.firststage.co/jobs?gh_jid=8382427002",
+      "location": "Sunnyvale, CA",
+      "department": "AI/ML/Data",
+      "company": "Wayve",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:27857d8b96bfdf80",
+      "title": "Software Engineer Intern - Mapping Autonomous Vehicles",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Mapping-Autonomous-Vehicles---Fall-2026_JR2011493",
+      "location": "Santa Clara, CA",
+      "department": "Software",
+      "company": "NVIDIA",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
