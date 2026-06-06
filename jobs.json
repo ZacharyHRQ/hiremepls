@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-06T09:33:35.526Z",
+  "generatedAt": "2026-06-06T11:09:29.346Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1240,
+  "jobCount": 1244,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -530,7 +530,6 @@
     "canonical:04da800cf83cb9bd": "2026-05-09T15:28:15.527Z",
     "canonical:9508a5dd181c1039": "2026-05-09T15:28:15.527Z",
     "canonical:d13f9985cc389397": "2026-05-09T15:28:15.527Z",
-    "canonical:3544193c91657c3b": "2026-05-09T15:28:15.527Z",
     "canonical:83b4718a5f6f5a7d": "2026-05-09T15:28:15.527Z",
     "canonical:27691a880d4a685a": "2026-05-09T15:28:15.527Z",
     "canonical:170d6f40517b0d96": "2026-05-09T15:28:15.527Z",
@@ -1243,7 +1242,12 @@
     "canonical:062d8ece13f695f7": "2026-06-06T04:18:16.502Z",
     "canonical:27857d8b96bfdf80": "2026-06-06T04:18:16.502Z",
     "canonical:3c4f1b7e61c23218": "2026-06-06T07:29:16.741Z",
-    "canonical:3e139f075b9bc452": "2026-06-06T09:33:35.526Z"
+    "canonical:3e139f075b9bc452": "2026-06-06T09:33:35.526Z",
+    "canonical:31962d85f79aae5b": "2026-06-06T11:09:29.346Z",
+    "canonical:71f4c1680b019759": "2026-06-06T11:09:29.346Z",
+    "canonical:941d02dc047a74b1": "2026-06-06T11:09:29.346Z",
+    "canonical:103a322744212e14": "2026-06-06T11:09:29.346Z",
+    "canonical:55abf604a6bf53ca": "2026-06-06T11:09:29.346Z"
   },
   "jobs": [
     {
@@ -4607,6 +4611,20 @@
       ]
     },
     {
+      "id": "canonical:31962d85f79aae5b",
+      "title": "Hunyuan Multimodal Algorithm Researcher intern - Omni-Modal",
+      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650",
+      "location": "Palo Alto, CA",
+      "department": "AI/ML/Data",
+      "company": "Tencent",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:885c7029ab2fb04a",
       "title": "Internship - Software Development Engineer in Test",
       "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Development-Engineer-in-Test_J-00328071",
@@ -6618,6 +6636,20 @@
       ]
     },
     {
+      "id": "canonical:71f4c1680b019759",
+      "title": "Hunyuan Multimodal Algorithm Researcher Intern",
+      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-Intern-Omni-Modal---_R107051",
+      "location": "Palo Alto, CA",
+      "department": "AI/ML/Data",
+      "company": "Tencent",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:6977eeeb4ce82805",
       "title": "Software Engineering Intern",
       "url": "https://jobs.ashbyhq.com/taaraconnect/ed52ef53-dca2-433e-a2b7-6003d8be7ea2/application",
@@ -6917,6 +6949,19 @@
       "location": "Bellevue, WA",
       "department": "AI/ML/Data",
       "company": "Armada",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:941d02dc047a74b1",
+      "title": "AI Intern",
+      "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Atlanta-GA-United-States/AI-Internships_JR-0088855-1",
+      "location": "Grand Rapids, MI / Plano, TX / Atlanta, GA",
+      "department": "Software",
+      "company": "KION Group",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -8949,19 +8994,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:3544193c91657c3b",
-      "title": "Application Security Intern",
-      "url": "https://jobs.lever.co/verygoodsecurity/32fe92a6-13d5-4132-b77c-a7a5ed74f38b/apply",
-      "location": "United States",
-      "department": "Software",
-      "company": "Very Good Security",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -11775,6 +11807,34 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:103a322744212e14",
+      "title": "AI Applied Scientist Intern - Foundational IQ",
+      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Foundational-IQ_P748042",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "Zillow",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:55abf604a6bf53ca",
+      "title": "AI Applied Scientist Intern",
+      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Next-Gen-Agentic-and-Multi-Modal-Home-Exploration-Experience_P748043",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "Zillow",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
