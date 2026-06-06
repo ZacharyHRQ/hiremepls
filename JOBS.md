@@ -1,6 +1,6 @@
 # Open Internships
 
-**1229** internships across **63/64** companies — last updated 2026-06-06.
+**1228** internships across **63/64** companies — last updated 2026-06-06.
 
 ## Companies
 
@@ -121,7 +121,6 @@
 - [ConnectPrep](#connectprep) (1)
 - [Context](#context) (1)
 - [Cook Group](#cook-group) (3)
-- [Copeland](#copeland) (1)
 - [Corning](#corning) (1)
 - [CoStar Group](#costar-group) (1)
 - [Cotiviti](#cotiviti) (4)
@@ -402,7 +401,7 @@
 - [Root Access](#root-access) (1)
 - [Royal Bank of Canada](#royal-bank-of-canada) (4)
 - [RTW Investments](#rtw-investments) (1)
-- [RTX](#rtx) (2)
+- [RTX](#rtx) (1)
 - [Rundoo](#rundoo) (1)
 - [Salesforce](#salesforce) (1)
 - [Samaya](#samaya) (1)
@@ -444,7 +443,7 @@
 - [State Street](#state-street) (2)
 - [Stevens Capital Management](#stevens-capital-management) (1)
 - [Stoke Space](#stoke-space) (1)
-- [Stripe](#stripe) (6)
+- [Stripe](#stripe) (7)
 - [Sundt](#sundt) (2)
 - [SunSource](#sunsource) (2)
 - [Sunwater Capital](#sunwater-capital) (1)
@@ -1382,12 +1381,6 @@
 | [Information Technology Intern, Artificial Intelligence](https://americas-cookmedical.icims.com/jobs/17500/information-technology-intern%2c-artificial-intelligence/job) | 60 | Bloomington, IN | Data Science, AI & Machine Learning | 2026-05-09 |
 | [Intern, Artificial Intelligence & Innovation](https://americas-cookmedical.icims.com/jobs/17536/intern%2c-artificial-intelligence-%26-innovation/job) | 60 | Bloomington, IN | Data Science, AI & Machine Learning | 2026-05-09 |
 | [Intern, Statistics & Data Science](https://americas-cookmedical.icims.com/jobs/17485/intern%2c-statistics-%26-data-science/job) | 60 | Bloomington, IN | Data Science, AI & Machine Learning | 2026-05-09 |
-
-## Copeland
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Analyst Intern](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/St-Louis-MO-USA/XMLNAME-2026-Data-Analyst-Intern_JR113041) | 68 | St. Louis, MO | AI/ML/Data | 2026-05-23 |
 
 ## Corning
 
@@ -3375,7 +3368,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Global Trade Digital Operations Analyst Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Automne-2026---Analyste-des-oprations-numriques-du-commerce-international---Internship-Fall-2026---Global-Trade-Digital-Operations-Analyst-Intern_01841594) | 68 | Longueuil, QC, Canada | AI/ML/Data | 2026-05-26 |
 | [Intern Operations Program Management](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-d-t-2026-Gestion-des-programmes---Internship-Summer-2026-Operations-Program-Management_01809689-1) | 68 | Longueuil, QC, Canada | AI/ML/Data | 2026-05-19 |
 
 ## Rundoo
@@ -3670,6 +3662,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [PhD Data Scientist Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | Seattle, WA / SF / Chicago, IL / NYC | AI/ML/Data | 2026-06-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |

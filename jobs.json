@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-06T22:43:32.931Z",
+  "generatedAt": "2026-06-06T23:44:35.766Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1229,
+  "jobCount": 1228,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -957,7 +957,6 @@
     "canonical:2031e4e9473b2185": "2026-05-23T11:39:27.713Z",
     "canonical:c40434041482eff7": "2026-05-23T16:29:56.405Z",
     "canonical:ca086772871f4731": "2026-05-23T17:34:41.089Z",
-    "canonical:223669d31e7e9fb5": "2026-05-23T18:41:12.286Z",
     "canonical:baa1b54cf4f2493f": "2026-05-24T08:16:29.504Z",
     "canonical:0c57524d1162f8c8": "2026-05-24T10:15:37.116Z",
     "canonical:c989ff56fcf2c167": "2026-05-24T16:41:35.666Z",
@@ -969,7 +968,6 @@
     "canonical:0e419b8e484c38cb": "2026-05-26T22:48:29.543Z",
     "canonical:3c2ec9481b5e5f0c": "2026-05-26T22:48:29.543Z",
     "canonical:404dd904de91e8a9": "2026-05-26T22:48:29.543Z",
-    "canonical:6ffe5e7cecf12f47": "2026-05-26T23:56:50.661Z",
     "canonical:ae629747d79357a8": "2026-05-26T23:56:50.661Z",
     "canonical:2ffb9525477b9f1d": "2026-05-26T23:56:50.661Z",
     "canonical:0909350769decf2b": "2026-05-27T02:52:54.000Z",
@@ -1232,7 +1230,8 @@
     "canonical:a42f4515fa54d659": "2026-06-06T21:42:54.367Z",
     "canonical:8504c5f17035dc0a": "2026-06-06T22:43:32.931Z",
     "canonical:d7df174fc9ae5ee1": "2026-06-06T22:43:32.931Z",
-    "canonical:a421f7ccf418179e": "2026-06-06T22:43:32.931Z"
+    "canonical:a421f7ccf418179e": "2026-06-06T22:43:32.931Z",
+    "canonical:f432089fe9f41109": "2026-06-06T23:44:35.766Z"
   },
   "jobs": [
     {
@@ -5017,19 +5016,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:223669d31e7e9fb5",
-      "title": "Data Analyst Intern",
-      "url": "https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/St-Louis-MO-USA/XMLNAME-2026-Data-Analyst-Intern_JR113041",
-      "location": "St. Louis, MO",
-      "department": "AI/ML/Data",
-      "company": "Copeland",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -9751,6 +9737,19 @@
       ]
     },
     {
+      "id": "canonical:f432089fe9f41109",
+      "title": "PhD Data Scientist Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "Seattle, WA / SF / Chicago, IL / NYC",
+      "department": "AI/ML/Data",
+      "company": "Stripe",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:4ae4db68271d5872",
       "title": "Data Science Intern - Research Central",
       "url": "https://job-boards.greenhouse.io/verainstituteofjustice/jobs/4691638005",
@@ -12035,19 +12034,6 @@
       "location": "Alameda, CA",
       "department": "AI/ML/Data",
       "company": "Sila Nanotechnologies",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:6ffe5e7cecf12f47",
-      "title": "Global Trade Digital Operations Analyst Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Automne-2026---Analyste-des-oprations-numriques-du-commerce-international---Internship-Fall-2026---Global-Trade-Digital-Operations-Analyst-Intern_01841594",
-      "location": "Longueuil, QC, Canada",
-      "department": "AI/ML/Data",
-      "company": "RTX",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
