@@ -1,6 +1,6 @@
 # Open Internships
 
-**1251** internships across **63/64** companies — last updated 2026-06-06.
+**1255** internships across **63/64** companies — last updated 2026-06-06.
 
 ## Companies
 
@@ -163,7 +163,7 @@
 - [DuPont](#dupont) (5)
 - [EarnIn](#earnin) (2)
 - [EdgeTrace](#edgetrace) (1)
-- [Eight Sleep](#eight-sleep) (2)
+- [Eight Sleep](#eight-sleep) (1)
 - [Ekimetrics](#ekimetrics) (1)
 - [Electronic Arts](#electronic-arts) (5)
 - [Eluvio](#eluvio) (1)
@@ -480,7 +480,7 @@
 - [TENEX.AI](#tenex-ai) (1)
 - [Tenstorrent](#tenstorrent) (6)
 - [Terranox AI](#terranox-ai) (1)
-- [Tesla](#tesla) (25)
+- [Tesla](#tesla) (29)
 - [Tessera Labs](#tessera-labs) (1)
 - [TETRAMEM](#tetramem) (1)
 - [The Boeing Company](#the-boeing-company) (2)
@@ -540,7 +540,7 @@
 - [XPENG Motors](#xpeng-motors) (3)
 - [Zillow](#zillow) (2)
 - [Zip](#zip) (1)
-- [Zipline](#zipline) (1)
+- [Zipline](#zipline) (2)
 - [Zone 5 Technologies](#zone-5-technologies) (1)
 - [Zoox](#zoox) (1)
 
@@ -1672,7 +1672,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [AI/ML Research Intern - Machine Learning - Research](https://jobs.ashbyhq.com/eightsleep/b6c2e6f6-eadd-4d67-93e9-1426be4f2035/application) | 68 | SF | AI/ML/Data | 2026-05-09 |
-| [AI/ML Research Internship](https://jobs.ashbyhq.com/eightsleep/b6c2e6f6-eadd-4d67-93e9-1426be4f2035) | 68 | San Francisco, CA | Data Science, AI & Machine Learning | 2026-05-09 |
 
 ## Ekimetrics
 
@@ -3947,6 +3946,10 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data Engineer Intern - Fleet Analytics](https://www.tesla.com/careers/search/job/271696) | 85 | Palo Alto, CA | AI/ML/Data | 2026-06-06 |
+| [Embedded Software Engineer Intern - AI Platforms - Embedded Software Engineer](https://www.tesla.com/careers/search/job/269819) | 85 | Palo Alto, CA | Hardware | 2026-06-06 |
+| [Service Engineering Intern - Product Support Engineer - Service Engineering](https://www.tesla.com/careers/search/job/271630) | 85 | Palo Alto, CA | Software | 2026-06-06 |
+| [Failure Analysis Engineer Intern - Failure Analysis Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/271544) | 50 | Palo Alto, CA | Hardware | 2026-06-06 |
 | [Backend Software Engineer Intern, Diagnostics](https://www.tesla.com/careers/search/job/248358) | 85 | Palo Alto, CA / Austin, TX | — | 2026-05-09 |
 | [C++ Software Engineer Intern, Systems, AI](https://www.tesla.com/careers/search/job/247862) | 85 | Palo Alto, CA | — | 2026-05-09 |
 | [Charging Distributed Systems Software Engineer Intern, Energy Engineering](https://www.tesla.com/careers/search/job/248070?source=Indeed&source=Indeed&tags=organicjob) | 85 | Palo Alto, CA | — | 2026-05-09 |
@@ -4476,6 +4479,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Embedded Software Engineer Intern](https://www.zipline.com/careers?gh_jid=7765240003#open-roles) | 85 | San Bruno, CA | Hardware | 2026-06-06 |
 | [Perception Intern](https://www.zipline.com/careers?gh_jid=7761650003#open-roles) | 60 | Dallas, TX / San Bruno, CA | AI/ML/Data | 2026-06-03 |
 
 ## Zone 5 Technologies

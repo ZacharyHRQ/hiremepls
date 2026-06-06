@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-06T14:14:20.078Z",
+  "generatedAt": "2026-06-06T15:40:28.831Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1251,
+  "jobCount": 1255,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -87,7 +87,6 @@
     "canonical:b0682e13963fcdcc": "2026-05-09T15:28:15.527Z",
     "canonical:6353eecea9024842": "2026-05-09T15:28:15.527Z",
     "canonical:8fc863f495e5ebf7": "2026-05-09T15:28:15.527Z",
-    "canonical:085b4520d545640f": "2026-05-09T15:28:15.527Z",
     "canonical:79c8023bba64b6c2": "2026-05-09T15:28:15.527Z",
     "canonical:40b5e3e02c34b6ce": "2026-05-09T15:28:15.527Z",
     "canonical:d84f44faf2a6f55f": "2026-05-09T15:28:15.527Z",
@@ -1254,7 +1253,12 @@
     "canonical:d169889b306cd343": "2026-06-06T14:14:20.078Z",
     "canonical:180d901e190fbd63": "2026-06-06T14:14:20.078Z",
     "canonical:2b95c48ea9f5b253": "2026-06-06T14:14:20.078Z",
-    "canonical:ce890d51c1a61aab": "2026-06-06T14:14:20.078Z"
+    "canonical:ce890d51c1a61aab": "2026-06-06T14:14:20.078Z",
+    "canonical:808521aedb31fb4f": "2026-06-06T15:40:28.831Z",
+    "canonical:0ccbf02e3f553636": "2026-06-06T15:40:28.831Z",
+    "canonical:525d35ef69b019bc": "2026-06-06T15:40:28.831Z",
+    "canonical:7ab57e97fb879c0f": "2026-06-06T15:40:28.831Z",
+    "canonical:9787b6e04120138f": "2026-06-06T15:40:28.831Z"
   },
   "jobs": [
     {
@@ -2519,19 +2523,6 @@
       "company": "Cribl",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:085b4520d545640f",
-      "title": "AI/ML Research Internship",
-      "url": "https://jobs.ashbyhq.com/eightsleep/b6c2e6f6-eadd-4d67-93e9-1426be4f2035",
-      "location": "San Francisco, CA",
-      "department": "Data Science, AI & Machine Learning",
-      "company": "Eight Sleep",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
     },
     {
       "id": "canonical:79c8023bba64b6c2",
@@ -10240,6 +10231,19 @@
       ]
     },
     {
+      "id": "canonical:808521aedb31fb4f",
+      "title": "Embedded Software Engineer Intern - AI Platforms - Embedded Software Engineer",
+      "url": "https://www.tesla.com/careers/search/job/269819",
+      "location": "Palo Alto, CA",
+      "department": "Hardware",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:903d4c54fac1b9d6",
       "title": "Data Analyst – Emerging Talent Intern - Automatic Camera Enforcement - Ace",
       "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/o1u5zfwT?nl=1&nl=1&fr=false",
@@ -14917,6 +14921,55 @@
         "high-signal role",
         "direct ATS"
       ]
+    },
+    {
+      "id": "canonical:0ccbf02e3f553636",
+      "title": "Data Engineer Intern - Fleet Analytics",
+      "url": "https://www.tesla.com/careers/search/job/271696",
+      "location": "Palo Alto, CA",
+      "department": "AI/ML/Data",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:525d35ef69b019bc",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://www.zipline.com/careers?gh_jid=7765240003#open-roles",
+      "location": "San Bruno, CA",
+      "department": "Hardware",
+      "company": "Zipline",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:7ab57e97fb879c0f",
+      "title": "Service Engineering Intern - Product Support Engineer - Service Engineering",
+      "url": "https://www.tesla.com/careers/search/job/271630",
+      "location": "Palo Alto, CA",
+      "department": "Software",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:9787b6e04120138f",
+      "title": "Failure Analysis Engineer Intern - Failure Analysis Engineer - Energy Engineering",
+      "url": "https://www.tesla.com/careers/search/job/271544",
+      "location": "Palo Alto, CA",
+      "department": "Hardware",
+      "company": "Tesla",
+      "score": 50,
+      "scoreReasons": []
     },
     {
       "id": "canonical:12cd06c0eec80152",
