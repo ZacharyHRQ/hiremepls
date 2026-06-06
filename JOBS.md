@@ -1,6 +1,6 @@
 # Open Internships
 
-**1246** internships across **63/64** companies — last updated 2026-06-06.
+**1245** internships across **62/64** companies — last updated 2026-06-06.
 
 ## Companies
 
@@ -412,10 +412,10 @@
 - [Rolls Royce](#rolls-royce) (5)
 - [Rolls-Royce Motorcars](#rolls-royce-motorcars) (2)
 - [Root Access](#root-access) (1)
-- [Royal Bank of Canada](#royal-bank-of-canada) (5)
+- [Royal Bank of Canada](#royal-bank-of-canada) (4)
 - [RSM](#rsm) (1)
 - [RTW Investments](#rtw-investments) (1)
-- [RTX](#rtx) (4)
+- [RTX](#rtx) (3)
 - [Rundoo](#rundoo) (1)
 - [Salesforce](#salesforce) (1)
 - [Samaya](#samaya) (1)
@@ -423,7 +423,7 @@
 - [Samsung Research America](#samsung-research-america) (3)
 - [Sandhills Global](#sandhills-global) (1)
 - [Savannah River National Laboratory](#savannah-river-national-laboratory) (1)
-- [Scale AI](#scale-ai) (3)
+- [Scale AI](#scale-ai) (4)
 - [SCAN](#scan) (1)
 - [Schonfeld](#schonfeld) (4)
 - [Schweitzer Engineering Laboratories](#schweitzer-engineering-laboratories) (1)
@@ -3459,7 +3459,6 @@
 | [Student Intern - Data Analyst - Personal Banking](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Fall-2026-Student---Data-Analyst--Personal-Banking--4---8-months-_R-0000168782) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-06-06 |
 | [Capital Markets – Aidenedge Program Fall Analyst Intern](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/BROOKFIELD-PLACE-FKA-3-WORLD-FINANCIAL-CENTER-200-VESEY-STREETNEW-YORK/XMLNAME-2026-Capital-Markets--AidenEdge-Program-Fall-Analyst--4-Months-_R-0000175719) | 68 | NYC | Software | 2026-06-06 |
 | [Relationship Manager – Business Markets Intern - Korean Language Skills](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/3640-VICTORIA-PARK-AVETORONTO/Relationship-Manager--Business-Markets-Intern--Korean-Language-Skills-_R-0000161450) | 68 | Toronto, ON, Canada | Quant | 2026-06-03 |
-| [Data Engineer Intern - CDO](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---CDO--Data-Engineer-Intern--4-Months-_R-0000168150-3) | 93 | Toronto, ON, Canada | AI/ML/Data | 2026-06-03 |
 | [Relationship Manager Business Markets Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/FREDERICTON-New-Brunswick-Canada/Relationship-Manager-Business-Markets-Intern_R-0000158380) | 68 | Fredericton, NB, Canada | Quant | 2026-06-01 |
 
 ## RSM
@@ -3478,7 +3477,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Sustainment Data and Analytics Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Intern--Summer-2026---Sustainment-Data-and-Analytics--Onsite-_01847988-1) | 68 | Hartford, CT | AI/ML/Data | 2026-06-03 |
 | [Global Trade Digital Operations Analyst Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Automne-2026---Analyste-des-oprations-numriques-du-commerce-international---Internship-Fall-2026---Global-Trade-Digital-Operations-Analyst-Intern_01841594) | 68 | Longueuil, QC, Canada | AI/ML/Data | 2026-05-26 |
 | [DPHM Analytics Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship-Fall-2026---DPHM-Analytics-Intern_01836458-1) | 68 | Mississauga, ON, Canada | AI/ML/Data | 2026-05-23 |
 | [Intern Operations Program Management](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-d-t-2026-Gestion-des-programmes---Internship-Summer-2026-Operations-Program-Management_01809689-1) | 68 | Longueuil, QC, Canada | AI/ML/Data | 2026-05-19 |
@@ -3532,6 +3530,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [AI Builder Intern](https://job-boards.greenhouse.io/scaleai/jobs/4703343005) | 58 | San Francisco, CA; New York, NY | — | 2026-06-06 |
 | [Technical Advisor Specialist – Part-Time Intern](https://job-boards.greenhouse.io/scaleai/jobs/4611533005) | 68 | SF | AI/ML/Data | 2026-05-21 |
 | [Technical Advisor Intern, GenAI](https://scale.com/careers/4611533005) | 50 | San Francisco, CA | — | 2026-05-09 |
 | [Technical Advisor Specialist (Part-Time Internship)](https://job-boards.greenhouse.io/scaleai/jobs/4611533005) | 58 | San Francisco, CA | — | 2026-05-06 |
@@ -4476,3 +4475,4 @@
 ## Errors this run
 
 - **Mistral**: ashby mistral: HTTP 404
+- **BlackRock**: workday blackrock: expected JSON, got text/html; charset=UTF-8: <!DOCTYPE html> <html lang="en" dir="ltr">   <head>     <meta charset="utf-8" />

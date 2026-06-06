@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-06T04:18:16.502Z",
+  "generatedAt": "2026-06-06T07:29:16.741Z",
   "companyCount": 64,
-  "okCount": 63,
-  "jobCount": 1246,
+  "okCount": 62,
+  "jobCount": 1245,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1130,13 +1130,11 @@
     "canonical:2fc67c32963a8970": "2026-06-03T00:01:07.922Z",
     "canonical:b756c1405d005a89": "2026-06-03T00:01:07.922Z",
     "canonical:f335cc870420f551": "2026-06-03T00:01:07.922Z",
-    "canonical:8c7c903dba7a9deb": "2026-06-03T00:01:07.922Z",
     "canonical:bc13c68e3c0844f5": "2026-06-03T00:01:07.922Z",
     "canonical:9f26983a768cc42f": "2026-06-03T00:01:07.922Z",
     "canonical:1e6f3b1eed01f03a": "2026-06-03T00:01:07.922Z",
     "canonical:8efabaca2c35a536": "2026-06-03T00:01:07.922Z",
     "canonical:9a659bb667b49ec8": "2026-06-03T00:01:07.922Z",
-    "canonical:06aba754913d2aef": "2026-06-03T00:01:07.922Z",
     "canonical:31e1489bc835d14f": "2026-06-03T00:01:07.922Z",
     "canonical:97627b00e025c61b": "2026-06-03T00:01:07.922Z",
     "canonical:a785c997e3c6fc73": "2026-06-03T00:01:07.922Z",
@@ -1249,7 +1247,8 @@
     "canonical:0569c4db1819e9e6": "2026-06-06T00:04:30.171Z",
     "canonical:ac0760c809ad036d": "2026-06-06T04:18:16.502Z",
     "canonical:062d8ece13f695f7": "2026-06-06T04:18:16.502Z",
-    "canonical:27857d8b96bfdf80": "2026-06-06T04:18:16.502Z"
+    "canonical:27857d8b96bfdf80": "2026-06-06T04:18:16.502Z",
+    "canonical:3c4f1b7e61c23218": "2026-06-06T07:29:16.741Z"
   },
   "jobs": [
     {
@@ -1997,6 +1996,18 @@
       "scoreReasons": [
         "direct ATS",
         "unknown location"
+      ]
+    },
+    {
+      "id": "canonical:3c4f1b7e61c23218",
+      "title": "AI Builder Intern",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4703343005",
+      "location": "San Francisco, CA; New York, NY",
+      "department": "",
+      "company": "Scale AI",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
       ]
     },
     {
@@ -13660,20 +13671,6 @@
       "scoreReasons": []
     },
     {
-      "id": "canonical:8c7c903dba7a9deb",
-      "title": "Data Engineer Intern - CDO",
-      "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---CDO--Data-Engineer-Intern--4-Months-_R-0000168150-3",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Royal Bank of Canada",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:bc13c68e3c0844f5",
       "title": "Gameplay Software Engineer Intern",
       "url": "https://jobs.ea.com/en_US/careers/JobDetail/Gameplay-Software-Engineer-Intern-FALL-2026/210866",
@@ -13735,19 +13732,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:06aba754913d2aef",
-      "title": "Sustainment Data and Analytics Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Intern--Summer-2026---Sustainment-Data-and-Analytics--Onsite-_01847988-1",
-      "location": "Hartford, CT",
-      "department": "AI/ML/Data",
-      "company": "RTX",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -17112,6 +17096,10 @@
     {
       "company": "Mistral",
       "message": "ashby mistral: HTTP 404"
+    },
+    {
+      "company": "BlackRock",
+      "message": "workday blackrock: expected JSON, got text/html; charset=UTF-8: <!DOCTYPE html>\n<html lang=\"en\" dir=\"ltr\">\n  <head>\n    <meta charset=\"utf-8\" />"
     }
   ]
 }
