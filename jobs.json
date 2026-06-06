@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-06T07:29:16.741Z",
+  "generatedAt": "2026-06-06T09:33:35.526Z",
   "companyCount": 64,
-  "okCount": 62,
-  "jobCount": 1245,
+  "okCount": 63,
+  "jobCount": 1240,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -594,7 +594,6 @@
     "canonical:f2f1d1df11463641": "2026-05-09T15:28:15.527Z",
     "canonical:ce30b9ca9530fd33": "2026-05-09T15:28:15.527Z",
     "canonical:c81f4c872a7fdae9": "2026-05-09T15:28:15.527Z",
-    "canonical:f432089fe9f41109": "2026-05-09T15:28:15.527Z",
     "canonical:4ae4db68271d5872": "2026-05-09T15:28:15.527Z",
     "canonical:c4364ae941de1dfd": "2026-05-09T15:28:15.527Z",
     "canonical:0d583e36448bbfca": "2026-05-09T15:28:15.527Z",
@@ -848,7 +847,6 @@
     "canonical:aa496e085ee2de25": "2026-05-16T14:07:37.750Z",
     "canonical:4adbc338b845e24f": "2026-05-16T16:09:06.490Z",
     "canonical:39523ec1bced691c": "2026-05-16T16:09:06.490Z",
-    "canonical:be7e14e55b253564": "2026-05-16T16:09:06.490Z",
     "canonical:7d4d0f84d5e6acf6": "2026-05-16T16:09:06.490Z",
     "canonical:0daed5c9bb46ac4c": "2026-05-16T16:09:06.490Z",
     "canonical:1a36c38a48406fc0": "2026-05-16T20:09:24.477Z",
@@ -928,7 +926,6 @@
     "canonical:e6c2ab9376826e68": "2026-05-21T12:09:26.398Z",
     "canonical:58dc2e0e785f5d2d": "2026-05-21T15:49:52.856Z",
     "canonical:57b0c9722c64bac8": "2026-05-21T15:49:52.856Z",
-    "canonical:019da6ccfe10383d": "2026-05-21T17:50:03.808Z",
     "canonical:502ea6feeed8d163": "2026-05-21T21:17:06.675Z",
     "canonical:c2e243ddc795c511": "2026-05-21T22:46:51.402Z",
     "canonical:111a01429045d626": "2026-05-21T23:51:28.973Z",
@@ -989,7 +986,6 @@
     "canonical:0e419b8e484c38cb": "2026-05-26T22:48:29.543Z",
     "canonical:3c2ec9481b5e5f0c": "2026-05-26T22:48:29.543Z",
     "canonical:404dd904de91e8a9": "2026-05-26T22:48:29.543Z",
-    "canonical:5dac743ae992fe3e": "2026-05-26T22:48:29.543Z",
     "canonical:6ffe5e7cecf12f47": "2026-05-26T23:56:50.661Z",
     "canonical:ae629747d79357a8": "2026-05-26T23:56:50.661Z",
     "canonical:2ffb9525477b9f1d": "2026-05-26T23:56:50.661Z",
@@ -1028,7 +1024,6 @@
     "canonical:96124c2bca2bc845": "2026-05-27T14:19:21.217Z",
     "canonical:949f94b39a19ed49": "2026-05-27T14:19:21.217Z",
     "canonical:1b6a38ae8fb0e8cf": "2026-05-27T14:19:21.217Z",
-    "canonical:e9362a0768cb5f36": "2026-05-27T17:38:56.111Z",
     "canonical:fdcbfd1a53fb0e8a": "2026-05-27T17:38:56.111Z",
     "canonical:dc784fbedc1313dc": "2026-05-27T17:38:56.111Z",
     "canonical:4c90073ef9333aec": "2026-05-27T17:38:56.111Z",
@@ -1224,7 +1219,6 @@
     "canonical:f7327f20ad8adf4e": "2026-06-05T10:40:30.398Z",
     "canonical:a6f482844306182e": "2026-06-05T13:40:59.009Z",
     "canonical:83cc733d72cbc527": "2026-06-05T16:17:30.887Z",
-    "canonical:55abf604a6bf53ca": "2026-06-05T16:17:30.887Z",
     "canonical:6fe217de9b55df47": "2026-06-05T16:17:30.887Z",
     "canonical:f4e22ee521bb8e41": "2026-06-05T16:17:30.887Z",
     "canonical:d126988a7ded7d37": "2026-06-05T16:17:30.887Z",
@@ -1248,7 +1242,8 @@
     "canonical:ac0760c809ad036d": "2026-06-06T04:18:16.502Z",
     "canonical:062d8ece13f695f7": "2026-06-06T04:18:16.502Z",
     "canonical:27857d8b96bfdf80": "2026-06-06T04:18:16.502Z",
-    "canonical:3c4f1b7e61c23218": "2026-06-06T07:29:16.741Z"
+    "canonical:3c4f1b7e61c23218": "2026-06-06T07:29:16.741Z",
+    "canonical:3e139f075b9bc452": "2026-06-06T09:33:35.526Z"
   },
   "jobs": [
     {
@@ -8589,20 +8584,6 @@
       ]
     },
     {
-      "id": "canonical:be7e14e55b253564",
-      "title": "AI/ML Intern - Machine Learning Engineer",
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer_R158493",
-      "location": "Seattle, WA / SF / Austin, TX / San Jose, CA / Waltham, MA / NYC / Lehi, UT",
-      "department": "AI/ML/Data",
-      "company": "Adobe",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:c340b9c31add6dab",
       "title": "Software Engineer Intern - Recommendation Infrastructure",
       "url": "https://lifeattiktok.com/search/7537493362585979154",
@@ -9909,19 +9890,6 @@
       ]
     },
     {
-      "id": "canonical:f432089fe9f41109",
-      "title": "PhD Data Scientist Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "Seattle, WA / SF / Chicago, IL / NYC",
-      "department": "AI/ML/Data",
-      "company": "Stripe",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:4ae4db68271d5872",
       "title": "Data Science Intern - Research Central",
       "url": "https://job-boards.greenhouse.io/verainstituteofjustice/jobs/4691638005",
@@ -11148,20 +11116,6 @@
       ]
     },
     {
-      "id": "canonical:e9362a0768cb5f36",
-      "title": "Research Scientist/Engineer Intern",
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Research-Scientist-Engineer_R160317",
-      "location": "Seattle, WA / Toronto, ON, Canada / SF / Lafayette, KS / San Jose, CA / Hyattsville, MD / NYC",
-      "department": "AI/ML/Data",
-      "company": "Adobe",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:a4858410287d0d65",
       "title": "PhD Intern - HCI & Visualization Research",
       "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/PhD-Intern--HCI---Visualization-Research_25WD91740-2",
@@ -11668,19 +11622,6 @@
       ]
     },
     {
-      "id": "canonical:019da6ccfe10383d",
-      "title": "Integration Analyst Intern",
-      "url": "https://jadeglobal.wd5.myworkdayjobs.com/en-US/jade_careers/job/Ogden-UT/Integration-Analyst-Intern_R-103683",
-      "location": "Ogden, UT",
-      "department": "AI/ML/Data",
-      "company": "Jade Global",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:c2e243ddc795c511",
       "title": "Autonomous Driving Applications Research Intern",
       "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Autonomous-Driving-Applications-Research-Intern_R00209383",
@@ -11834,20 +11775,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:55abf604a6bf53ca",
-      "title": "AI Applied Scientist Intern",
-      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Next-Gen-Agentic-and-Multi-Modal-Home-Exploration-Experience_P748043",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "Zillow",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -12245,19 +12172,6 @@
       "location": "Alameda, CA",
       "department": "AI/ML/Data",
       "company": "Sila Nanotechnologies",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:5dac743ae992fe3e",
-      "title": "Hospitality and Merchandise Insights Intern",
-      "url": "https://asmglobal.wd1.myworkdayjobs.com/careers/job/Culver-City-CA/Hospitality-and-Merchandise-Insights-Intern_R100122329",
-      "location": "Culver City, CA",
-      "department": "AI/ML/Data",
-      "company": "ASM Global",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -14836,6 +14750,19 @@
       ]
     },
     {
+      "id": "canonical:3e139f075b9bc452",
+      "title": "Market Intelligence Intern",
+      "url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-CA-Remote-Location-Bay-Area/Market-Intelligence-Internship_4038284",
+      "location": "Oakland, CA",
+      "department": "AI/ML/Data",
+      "company": "Agilent Technologies",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:12cd06c0eec80152",
       "title": "Frontend Software Engineer Intern",
       "url": "https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c",
@@ -17096,10 +17023,6 @@
     {
       "company": "Mistral",
       "message": "ashby mistral: HTTP 404"
-    },
-    {
-      "company": "BlackRock",
-      "message": "workday blackrock: expected JSON, got text/html; charset=UTF-8: <!DOCTYPE html>\n<html lang=\"en\" dir=\"ltr\">\n  <head>\n    <meta charset=\"utf-8\" />"
     }
   ]
 }
