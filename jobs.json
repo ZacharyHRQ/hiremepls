@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-05T22:57:55.293Z",
+  "generatedAt": "2026-06-06T00:04:30.171Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1240,
+  "jobCount": 1247,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -643,7 +643,6 @@
     "canonical:b04cfd3af2687e8f": "2026-05-11T23:38:25.770Z",
     "canonical:660c78e7de1f78c8": "2026-05-11T23:38:25.770Z",
     "canonical:d740b7c5e5a74f25": "2026-05-11T23:38:25.770Z",
-    "canonical:be8b159ede46d401": "2026-05-12T07:37:38.894Z",
     "canonical:ce5569247a10aa36": "2026-05-13T22:37:04.081Z",
     "canonical:29b708845326ee9a": "2026-05-13T23:40:40.818Z",
     "canonical:266566b1da26f312": "2026-05-09T15:28:15.527Z",
@@ -923,7 +922,6 @@
     "canonical:4be1285af1d6fead": "2026-05-20T15:54:33.666Z",
     "canonical:0e6641231f661b81": "2026-05-20T15:54:33.666Z",
     "canonical:7c86059fb2609329": "2026-05-20T23:38:03.330Z",
-    "canonical:541e4c7eca948887": "2026-05-20T23:38:03.330Z",
     "canonical:94b8f706fc1b8577": "2026-05-21T01:33:24.639Z",
     "canonical:fa35aad369eb90c3": "2026-05-21T05:52:27.471Z",
     "canonical:d35985b2727191b1": "2026-05-21T05:52:27.471Z",
@@ -1033,7 +1031,6 @@
     "canonical:96124c2bca2bc845": "2026-05-27T14:19:21.217Z",
     "canonical:949f94b39a19ed49": "2026-05-27T14:19:21.217Z",
     "canonical:1b6a38ae8fb0e8cf": "2026-05-27T14:19:21.217Z",
-    "canonical:75260b1b9bd14779": "2026-05-27T17:38:56.111Z",
     "canonical:e9362a0768cb5f36": "2026-05-27T17:38:56.111Z",
     "canonical:fdcbfd1a53fb0e8a": "2026-05-27T17:38:56.111Z",
     "canonical:dc784fbedc1313dc": "2026-05-27T17:38:56.111Z",
@@ -1086,7 +1083,6 @@
     "canonical:60d48ea9b4193a8f": "2026-06-01T03:37:04.741Z",
     "canonical:78e461e91d26f884": "2026-06-01T03:37:04.741Z",
     "canonical:f30a89c4a549a784": "2026-06-01T03:37:04.741Z",
-    "canonical:8d09398c19da6c24": "2026-06-01T03:37:04.741Z",
     "canonical:4657deb65ec280ac": "2026-06-01T03:37:04.741Z",
     "canonical:f27c30f5eef5d1fb": "2026-06-01T03:37:04.741Z",
     "canonical:ebdb73f1d53cde75": "2026-06-01T03:37:04.741Z",
@@ -1243,7 +1239,18 @@
     "canonical:c1817238d89b26e3": "2026-06-05T16:17:30.887Z",
     "canonical:c05b180aaab3907f": "2026-06-05T22:57:55.293Z",
     "canonical:a8941a39cb4d8cd0": "2026-06-05T22:57:55.293Z",
-    "canonical:0bd52ded40247ca6": "2026-06-05T22:57:55.293Z"
+    "canonical:0bd52ded40247ca6": "2026-06-05T22:57:55.293Z",
+    "canonical:541f80cc7a83783e": "2026-06-06T00:04:30.171Z",
+    "canonical:1903ea6b0e57aeaa": "2026-06-06T00:04:30.171Z",
+    "canonical:0ef865c3ff3f9f5f": "2026-06-06T00:04:30.171Z",
+    "canonical:3da39dab672a1b4b": "2026-06-06T00:04:30.171Z",
+    "canonical:f244f38d3948994b": "2026-06-06T00:04:30.171Z",
+    "canonical:87eab4529cff3827": "2026-06-06T00:04:30.171Z",
+    "canonical:b2991fc4c6b63760": "2026-06-06T00:04:30.171Z",
+    "canonical:d1724f6d20ce1186": "2026-06-06T00:04:30.171Z",
+    "canonical:8a4ddfd20248576c": "2026-06-06T00:04:30.171Z",
+    "canonical:c9a881fad90b6944": "2026-06-06T00:04:30.171Z",
+    "canonical:0569c4db1819e9e6": "2026-06-06T00:04:30.171Z"
   },
   "jobs": [
     {
@@ -2032,10 +2039,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2045,10 +2052,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -5360,6 +5367,19 @@
       ]
     },
     {
+      "id": "canonical:541f80cc7a83783e",
+      "title": "Data Analyst Intern",
+      "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Morrisville-North-Carolina-USA/Data-Analyst-Intern_R-01341180",
+      "location": "Morrisville, NC / Waltham, MA",
+      "department": "AI/ML/Data",
+      "company": "Thermo Fisher Scientific",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:312e896c1c9802b1",
       "title": "Full Stack Engineering Intern",
       "url": "https://avathon.com/company/careers-job-listing/?gh_jid=4655249005",
@@ -5368,19 +5388,6 @@
       "company": "Avathon",
       "score": 60,
       "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:75260b1b9bd14779",
-      "title": "Data Scientist Intern",
-      "url": "https://avathon.com/company/careers-job-listing/?gh_jid=4655247005",
-      "location": "Pleasanton, CA",
-      "department": "AI/ML/Data",
-      "company": "Avathon",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -10653,18 +10660,6 @@
       ]
     },
     {
-      "id": "canonical:be8b159ede46d401",
-      "title": "Operations & Supply Chain Software Intern",
-      "url": "https://careers.formlabs.com/job/7899552/apply/?gh_jid=7899552",
-      "location": "Cambridge, MA",
-      "department": "Software",
-      "company": "Formlabs",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:ce5569247a10aa36",
       "title": "Machine Learning Engineer Intern",
       "url": "https://boards.greenhouse.io/neuralink/jobs/6594261003",
@@ -11301,20 +11296,6 @@
       ]
     },
     {
-      "id": "canonical:8d09398c19da6c24",
-      "title": "AI Engineer Intern",
-      "url": "https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---Philadelphia-PA/AI-Engineering-Intern_JR_14530",
-      "location": "Philadelphia, PA",
-      "department": "Software",
-      "company": "Guidewire",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:f96555673f195af4",
       "title": "Data Science Intern - Music & Audio",
       "url": "https://jobs.ashbyhq.com/melotech/f2f3e785-12a0-4d30-be43-e6c5c119a6c2/application",
@@ -11616,19 +11597,6 @@
       "location": "SF / NYC",
       "department": "AI/ML/Data",
       "company": "LiveRamp",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:541e4c7eca948887",
-      "title": "Machine Learning Intern - Research and Development",
-      "url": "https://job-boards.greenhouse.io/jobsatphamily/jobs/5227172008",
-      "location": "NYC",
-      "department": "AI/ML/Data",
-      "company": "Phamily",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -14761,6 +14729,135 @@
       "location": "Austin, TX",
       "department": "AI/ML/Data",
       "company": "City of Austin",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1903ea6b0e57aeaa",
+      "title": "Generative AI Engineer Intern",
+      "url": "https://careers-peraton.icims.com/jobs/167460/job?mobile=true&needsRedirect=false",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "Peraton",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:0ef865c3ff3f9f5f",
+      "title": "Support Group Intern - Artificial Intelligence",
+      "url": "https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/10300",
+      "location": "Tempe, AZ",
+      "department": "AI/ML/Data",
+      "company": "Sundt",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:3da39dab672a1b4b",
+      "title": "Hardware Reliability & Test Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/base-power/fbb553e1-5fb8-49a1-b5a5-9c7dde6b4406/application",
+      "location": "Austin, TX",
+      "department": "Hardware",
+      "company": "Base Power",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f244f38d3948994b",
+      "title": "Environmental Sustainability Intern",
+      "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USNCCharlotte5600-77-Center-Drive/Environmental-Sustainability-Intern---Fall-2026_R-157183-1",
+      "location": "Charlotte, NC",
+      "department": "AI/ML/Data",
+      "company": "AtkinsRéalis",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:87eab4529cff3827",
+      "title": "Research Intern",
+      "url": "https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/Main-Campus-Columbus-OH/Research-Intern_R-26191-1",
+      "location": "Columbus, OH",
+      "department": "AI/ML/Data",
+      "company": "Nationwide Children's Hospital",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:b2991fc4c6b63760",
+      "title": "Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/fourkites/jobs/7926771",
+      "location": "Chicago, IL",
+      "department": "Software",
+      "company": "FourKites",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:d1724f6d20ce1186",
+      "title": "Digital & AI Transformation Intern",
+      "url": "https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Atlanta-GA/Digital---AI-Transformation-Intern_R-114103-1",
+      "location": "Atlanta, GA",
+      "department": "AI/ML/Data",
+      "company": "Assurant",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:8a4ddfd20248576c",
+      "title": "ML Engineer Intern",
+      "url": "https://jobs.lever.co/geocomply-2/bd0ae58f-5718-4200-bd33-cd0e3c1465d5/apply",
+      "location": "Vancouver, BC, Canada",
+      "department": "AI/ML/Data",
+      "company": "GeoComply",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c9a881fad90b6944",
+      "title": "Capital Markets – Aidenedge Program Fall Analyst Intern",
+      "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/BROOKFIELD-PLACE-FKA-3-WORLD-FINANCIAL-CENTER-200-VESEY-STREETNEW-YORK/XMLNAME-2026-Capital-Markets--AidenEdge-Program-Fall-Analyst--4-Months-_R-0000175719",
+      "location": "NYC",
+      "department": "Software",
+      "company": "Royal Bank of Canada",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:0569c4db1819e9e6",
+      "title": "Radar Sensing AI Research Intern",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000130576071",
+      "location": "Pittsburgh, PA",
+      "department": "AI/ML/Data",
+      "company": "Robert Bosch Venture Capital",
       "score": 68,
       "scoreReasons": [
         "high-signal role",

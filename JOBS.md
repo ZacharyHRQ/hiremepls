@@ -1,6 +1,6 @@
 # Open Internships
 
-**1240** internships across **63/64** companies — last updated 2026-06-05.
+**1247** internships across **63/64** companies — last updated 2026-06-06.
 
 ## Companies
 
@@ -51,14 +51,16 @@
 - [ASM International](#asm-international) (1)
 - [ASML](#asml) (2)
 - [ASSA ABLOY](#assa-abloy) (1)
+- [Assurant](#assurant) (1)
 - [Astera](#astera) (1)
 - [Astranis](#astranis) (10)
+- [AtkinsRéalis](#atkinsr-alis) (1)
 - [Atomic Semi](#atomic-semi) (8)
 - [Attentive](#attentive) (1)
 - [Auctor](#auctor) (1)
 - [Autodesk](#autodesk) (4)
 - [Avanade](#avanade) (1)
-- [Avathon](#avathon) (2)
+- [Avathon](#avathon) (1)
 - [Avery Dennison](#avery-dennison) (1)
 - [Avis Budget Group](#avis-budget-group) (1)
 - [Avride](#avride) (2)
@@ -70,7 +72,7 @@
 - [Bank of America](#bank-of-america) (1)
 - [Bank of Montreal](#bank-of-montreal) (2)
 - [Barkback](#barkback) (1)
-- [Base Power](#base-power) (3)
+- [Base Power](#base-power) (4)
 - [beBeeManufacturingEngineering](#bebeemanufacturingengineering) (1)
 - [Belmond](#belmond) (1)
 - [Berkshire Hathaway Energy](#berkshire-hathaway-energy) (5)
@@ -194,11 +196,12 @@
 - [Fizz](#fizz) (1)
 - [Fluxergy](#fluxergy) (1)
 - [FNBO](#fnbo) (1)
-- [Formlabs](#formlabs) (4)
+- [Formlabs](#formlabs) (3)
 - [Fortinet](#fortinet) (1)
 - [Fortive](#fortive) (1)
 - [Forvis Mazars US](#forvis-mazars-us) (1)
 - [Foundation ](#foundation) (1)
+- [FourKites](#fourkites) (1)
 - [FOX](#fox) (1)
 - [Fred Hutchinson Cancer Center](#fred-hutchinson-cancer-center) (1)
 - [GE Vernova](#ge-vernova) (4)
@@ -213,6 +216,7 @@
 - [GenScript](#genscript) (1)
 - [Gensyn](#gensyn) (1)
 - [Genworth](#genworth) (1)
+- [GeoComply](#geocomply) (1)
 - [Geotab](#geotab) (6)
 - [Gimlet Labs](#gimlet-labs) (1)
 - [Ginkgo Bioworks](#ginkgo-bioworks) (2)
@@ -221,7 +225,6 @@
 - [Green Planet Solutions](#green-planet-solutions) (1)
 - [Grow Financial Federal Credit Union](#grow-financial-federal-credit-union) (1)
 - [GSA Capital](#gsa-capital) (2)
-- [Guidewire](#guidewire) (1)
 - [H&CO](#h-co) (1)
 - [Haize Labs](#haize-labs) (1)
 - [Harris Computer](#harris-computer) (1)
@@ -336,7 +339,7 @@
 - [Naïve](#na-ve) (1)
 - [Nasdaq](#nasdaq) (1)
 - [Nash](#nash) (2)
-- [Nationwide Children's Hospital](#nationwide-children-s-hospital) (1)
+- [Nationwide Children's Hospital](#nationwide-children-s-hospital) (2)
 - [NBCUniversal](#nbcuniversal) (2)
 - [Netflix](#netflix) (1)
 - [Neuralink](#neuralink) (3)
@@ -371,10 +374,9 @@
 - [Pega](#pega) (1)
 - [Pennsylvania State University](#pennsylvania-state-university) (4)
 - [Per Scholas](#per-scholas) (1)
-- [Peraton](#peraton) (1)
+- [Peraton](#peraton) (2)
 - [Perplexity](#perplexity) (3)
 - [Perplexity AI](#perplexity-ai) (1)
-- [Phamily](#phamily) (1)
 - [Phia](#phia) (1)
 - [PHINIA](#phinia) (1)
 - [Physical Intelligence](#physical-intelligence) (2)
@@ -404,7 +406,7 @@
 - [Rippling](#rippling) (3)
 - [Rivian](#rivian) (1)
 - [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (3)
-- [Robert Bosch Venture Capital](#robert-bosch-venture-capital) (1)
+- [Robert Bosch Venture Capital](#robert-bosch-venture-capital) (2)
 - [Roblox](#roblox) (1)
 - [Roche](#roche) (1)
 - [Rocket Lab](#rocket-lab) (1)
@@ -413,7 +415,7 @@
 - [Rolls Royce](#rolls-royce) (5)
 - [Rolls-Royce Motorcars](#rolls-royce-motorcars) (2)
 - [Root Access](#root-access) (1)
-- [Royal Bank of Canada](#royal-bank-of-canada) (3)
+- [Royal Bank of Canada](#royal-bank-of-canada) (4)
 - [RSM](#rsm) (1)
 - [RTW Investments](#rtw-investments) (1)
 - [RTX](#rtx) (4)
@@ -459,7 +461,7 @@
 - [Stevens Capital Management](#stevens-capital-management) (1)
 - [Stoke Space](#stoke-space) (1)
 - [Stripe](#stripe) (7)
-- [Sundt](#sundt) (1)
+- [Sundt](#sundt) (2)
 - [SunSource](#sunsource) (2)
 - [Sunwater Capital](#sunwater-capital) (1)
 - [Super](#super) (6)
@@ -486,6 +488,7 @@
 - [The Exploration Company](#the-exploration-company) (1)
 - [The State Bar of California](#the-state-bar-of-california) (1)
 - [The Trade Desk](#the-trade-desk) (1)
+- [Thermo Fisher Scientific](#thermo-fisher-scientific) (1)
 - [TIFIN](#tifin) (1)
 - [TikTok](#tiktok) (107)
 - [Tilde Research](#tilde-research) (2)
@@ -869,6 +872,12 @@
 | --- | --- | --- | --- | --- |
 | [IT Intern – Security Analytics & Data Management](https://assaabloy.jobs2web.com/job/New-Haven-IT-Intern-Security-Analytics-&-Data-Management-CT-06511/1397886133/?ats=successfactors) | 60 | New Haven, CT | AI/ML/Data | 2026-05-27 |
 
+## Assurant
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Digital & AI Transformation Intern](https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Atlanta-GA/Digital---AI-Transformation-Intern_R-114103-1) | 68 | Atlanta, GA | AI/ML/Data | 2026-06-06 |
+
 ## Astera
 
 | Title | Score | Location | Department | First seen |
@@ -889,6 +898,12 @@
 | [Embedded Software Developer – Network/Payload Software Intern](https://job-boards.greenhouse.io/astranis/jobs/4601135006) | 93 | SF | Hardware | 2026-05-11 |
 | [Software Engineer Intern - Data Platform](https://job-boards.greenhouse.io/astranis/jobs/4667477006) | 93 | SF | Software | 2026-05-09 |
 | [Reliability Test Intern](https://job-boards.greenhouse.io/astranis/jobs/4677973006) | 58 | SF | Hardware | 2026-05-09 |
+
+## AtkinsRéalis
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Environmental Sustainability Intern](https://slihrms.wd3.myworkdayjobs.com/careers/job/USNCCharlotte5600-77-Center-Drive/Environmental-Sustainability-Intern---Fall-2026_R-157183-1) | 68 | Charlotte, NC | AI/ML/Data | 2026-06-06 |
 
 ## Atomic Semi
 
@@ -934,7 +949,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Data Scientist Intern](https://avathon.com/company/careers-job-listing/?gh_jid=4655247005) | 85 | Pleasanton, CA | AI/ML/Data | 2026-05-27 |
 | [Full Stack Engineering Intern](https://avathon.com/company/careers-job-listing/?gh_jid=4655249005) | 60 | Pleasanton, CA | Software | 2026-05-27 |
 
 ## Avery Dennison
@@ -1018,6 +1032,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Hardware Reliability & Test Engineer Intern](https://jobs.ashbyhq.com/base-power/fbb553e1-5fb8-49a1-b5a5-9c7dde6b4406/application) | 58 | Austin, TX | Hardware | 2026-06-06 |
 | [Quantitative Developer Intern](https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e/application) | 93 | Austin, TX | Quant | 2026-05-27 |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/base-power/5353ea33-57d4-46fa-9a96-e392a3f841bc/application) | 93 | Austin, TX | Software | 2026-05-27 |
 | [Hardware Engineer Intern](https://jobs.ashbyhq.com/base-power/f22cee0e-55d9-42cd-806e-1c1fc7217770/application) | 58 | Austin, TX | Hardware | 2026-05-21 |
@@ -1884,7 +1899,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Hardware Systems Integration Intern](https://careers.formlabs.com/job/7927471/apply/?gh_jid=7927471) | 50 | Cambridge, MA | Hardware | 2026-05-15 |
-| [Operations & Supply Chain Software Intern](https://careers.formlabs.com/job/7899552/apply/?gh_jid=7899552) | 60 | Cambridge, MA | Software | 2026-05-12 |
 | [Build Team Intern](https://careers.formlabs.com/job/7863858/apply/?gh_jid=7863858) | 50 | Cambridge, MA | Hardware | 2026-05-09 |
 | [Test Engineering Intern](https://careers.formlabs.com/job/7773874/apply/?gh_jid=7773874) | 50 | Cambridge, MA | Hardware | 2026-05-09 |
 
@@ -1911,6 +1925,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Controls Engineer Intern](https://ats.rippling.com/foundation-robotics/jobs/6a54984f-bb51-4ccf-a96d-6295a45de689) | 75 | SF | Hardware | 2026-05-09 |
+
+## FourKites
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Engineering Intern](https://job-boards.greenhouse.io/fourkites/jobs/7926771) | 68 | Chicago, IL | Software | 2026-06-06 |
 
 ## FOX
 
@@ -2006,6 +2026,12 @@
 | --- | --- | --- | --- | --- |
 | [Genworth Finance Development Program Intern – Summer 2026](https://www.linkedin.com/jobs/view/4268379282) | 42 | Richmond, VA | — | 2026-05-16 |
 
+## GeoComply
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [ML Engineer Intern](https://jobs.lever.co/geocomply-2/bd0ae58f-5718-4200-bd33-cd0e3c1465d5/apply) | 93 | Vancouver, BC, Canada | AI/ML/Data | 2026-06-06 |
+
 ## Geotab
 
 | Title | Score | Location | Department | First seen |
@@ -2060,12 +2086,6 @@
 | --- | --- | --- | --- | --- |
 | [Quantitative Researcher - Intern](https://www.gsacapital.com/careers/gh/?gh_jid=8570661002) | 85 | London, New York | — | 2026-05-06 |
 | [Software Developer - Intern](https://www.gsacapital.com/careers/gh/?gh_jid=8570668002) | 85 | London | — | 2026-05-06 |
-
-## Guidewire
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI Engineer Intern](https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---Philadelphia-PA/AI-Engineering-Intern_JR_14530) | 93 | Philadelphia, PA | Software | 2026-06-01 |
 
 ## H&CO
 
@@ -2877,6 +2897,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Research Intern](https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/Main-Campus-Columbus-OH/Research-Intern_R-26191-1) | 68 | Columbus, OH | AI/ML/Data | 2026-06-06 |
 | [IT R&1 Data Science Intern](https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/431-S-18th-St-Columbus-OH/IT-R-I-Data-Science-Intern_R-25866-1) | 68 | Columbus, OH | AI/ML/Data | 2026-05-27 |
 
 ## NBCUniversal
@@ -3141,6 +3162,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Generative AI Engineer Intern](https://careers-peraton.icims.com/jobs/167460/job?mobile=true&needsRedirect=false) | 85 | Remote in USA | AI/ML/Data | 2026-06-06 |
 | [Research Intern](https://careers-peraton.icims.com/jobs/167241/job?mobile=true&needsRedirect=false) | 60 | Reston, VA | AI/ML/Data | 2026-06-01 |
 
 ## Perplexity
@@ -3156,12 +3178,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Intern - Search Machine Learning Engineer](https://jobs.ashbyhq.com/Perplexity/71168628-1998-47d3-87a9-be7bc56a430d/application) | 93 | London, UK | AI/ML/Data | 2026-05-09 |
-
-## Phamily
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Machine Learning Intern - Research and Development](https://job-boards.greenhouse.io/jobsatphamily/jobs/5227172008) | 68 | NYC | AI/ML/Data | 2026-05-20 |
 
 ## Phia
 
@@ -3398,6 +3414,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Radar Sensing AI Research Intern](https://jobs.smartrecruiters.com/BoschGroup/744000130576071) | 68 | Pittsburgh, PA | AI/ML/Data | 2026-06-06 |
 | [Wireless Sensing Research Intern](https://jobs.smartrecruiters.com/BoschGroup/744000121477597) | 68 | Sunnyvale, CA | AI/ML/Data | 2026-05-09 |
 
 ## Roblox
@@ -3459,6 +3476,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Capital Markets – Aidenedge Program Fall Analyst Intern](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/BROOKFIELD-PLACE-FKA-3-WORLD-FINANCIAL-CENTER-200-VESEY-STREETNEW-YORK/XMLNAME-2026-Capital-Markets--AidenEdge-Program-Fall-Analyst--4-Months-_R-0000175719) | 68 | NYC | Software | 2026-06-06 |
 | [Relationship Manager – Business Markets Intern - Korean Language Skills](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/3640-VICTORIA-PARK-AVETORONTO/Relationship-Manager--Business-Markets-Intern--Korean-Language-Skills-_R-0000161450) | 68 | Toronto, ON, Canada | Quant | 2026-06-03 |
 | [Data Engineer Intern - CDO](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---CDO--Data-Engineer-Intern--4-Months-_R-0000168150-3) | 93 | Toronto, ON, Canada | AI/ML/Data | 2026-06-03 |
 | [Relationship Manager Business Markets Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/FREDERICTON-New-Brunswick-Canada/Relationship-Manager-Business-Markets-Intern_R-0000158380) | 68 | Fredericton, NB, Canada | Quant | 2026-06-01 |
@@ -3776,8 +3794,8 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [PhD Data Scientist Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | Seattle, WA / SF / Chicago, IL / NYC | AI/ML/Data | 2026-05-09 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | 56 | Mexico City, Mexico | — | 2026-05-06 |
@@ -3787,6 +3805,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Support Group Intern - Artificial Intelligence](https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/10300) | 60 | Tempe, AZ | AI/ML/Data | 2026-06-06 |
 | [Support Group Intern - Data Engineering](https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/9662) | 60 | Tempe, AZ | AI/ML/Data | 2026-05-09 |
 
 ## SunSource
@@ -3994,6 +4013,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [2026 North America Software Engineering Internship](https://www.linkedin.com/jobs/view/4270526982) | 52 | Boulder, CO | — | 2026-05-16 |
+
+## Thermo Fisher Scientific
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data Analyst Intern](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Morrisville-North-Carolina-USA/Data-Analyst-Intern_R-01341180) | 68 | Morrisville, NC / Waltham, MA | AI/ML/Data | 2026-06-06 |
 
 ## TIFIN
 
