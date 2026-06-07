@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-07T17:38:54.843Z",
+  "generatedAt": "2026-06-07T18:53:50.820Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1278,
+  "jobCount": 1277,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1188,7 +1188,6 @@
     "canonical:f4e22ee521bb8e41": "2026-06-05T16:17:30.887Z",
     "canonical:d126988a7ded7d37": "2026-06-05T16:17:30.887Z",
     "canonical:85f4cac0ababd094": "2026-06-05T16:17:30.887Z",
-    "canonical:0a92c979854c9622": "2026-06-05T16:17:30.887Z",
     "canonical:c1817238d89b26e3": "2026-06-05T16:17:30.887Z",
     "canonical:c05b180aaab3907f": "2026-06-05T22:57:55.293Z",
     "canonical:a8941a39cb4d8cd0": "2026-06-05T22:57:55.293Z",
@@ -14360,18 +14359,6 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:0a92c979854c9622",
-      "title": "Analytics & AI Solutions Intern",
-      "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/15243",
-      "location": "United States",
-      "department": "AI/ML/Data",
-      "company": "EXL",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {

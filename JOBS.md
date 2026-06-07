@@ -1,6 +1,6 @@
 # Open Internships
 
-**1278** internships across **63/64** companies — last updated 2026-06-07.
+**1277** internships across **63/64** companies — last updated 2026-06-07.
 
 ## Companies
 
@@ -170,7 +170,7 @@
 - [Eulerity](#eulerity) (3)
 - [Eurofins](#eurofins) (2)
 - [EV Realty](#ev-realty) (1)
-- [EXL](#exl) (3)
+- [EXL](#exl) (2)
 - [Expedia Group](#expedia-group) (2)
 - [Facility Solutions Group](#facility-solutions-group) (1)
 - [Faire](#faire) (1)
@@ -1713,7 +1713,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Analytics & AI Solutions Intern](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/15237) | 60 | SF | AI/ML/Data | 2026-06-05 |
-| [Analytics & AI Solutions Intern](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/15243) | 60 | United States | AI/ML/Data | 2026-06-05 |
 | [Intern Analytics & AI - Data Management](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/10272) | 60 | NYC | AI/ML/Data | 2026-05-09 |
 
 ## Expedia Group
