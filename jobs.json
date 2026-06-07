@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-07T18:53:50.820Z",
+  "generatedAt": "2026-06-07T20:05:54.629Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1277,
+  "jobCount": 1275,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1151,7 +1151,6 @@
     "canonical:65efe72442411db0": "2026-06-04T02:03:01.247Z",
     "canonical:f29d9652976f2d45": "2026-06-04T02:03:01.247Z",
     "canonical:2216c0fa17b64f4e": "2026-06-04T02:03:01.247Z",
-    "canonical:6a08b8735bc24eb5": "2026-06-04T02:03:01.247Z",
     "canonical:82923c3db9bd2d1e": "2026-06-04T10:33:21.660Z",
     "canonical:763df8b7c0adebc0": "2026-06-04T22:43:20.014Z",
     "canonical:7ff4f5a09ec23d64": "2026-06-04T22:43:20.014Z",
@@ -1190,7 +1189,6 @@
     "canonical:85f4cac0ababd094": "2026-06-05T16:17:30.887Z",
     "canonical:c1817238d89b26e3": "2026-06-05T16:17:30.887Z",
     "canonical:c05b180aaab3907f": "2026-06-05T22:57:55.293Z",
-    "canonical:a8941a39cb4d8cd0": "2026-06-05T22:57:55.293Z",
     "canonical:0bd52ded40247ca6": "2026-06-05T22:57:55.293Z",
     "canonical:541f80cc7a83783e": "2026-06-06T00:04:30.171Z",
     "canonical:1903ea6b0e57aeaa": "2026-06-06T00:04:30.171Z",
@@ -14101,19 +14099,6 @@
       ]
     },
     {
-      "id": "canonical:6a08b8735bc24eb5",
-      "title": "Multimedia Development Intern",
-      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Multimedia-development-intern_R107331",
-      "location": "Palo Alto, CA",
-      "department": "AI/ML/Data",
-      "company": "Tencent",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:82923c3db9bd2d1e",
       "title": "Research Intern",
       "url": "https://job-boards.eu.greenhouse.io/gensyn/jobs/4579609101",
@@ -14385,18 +14370,6 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:a8941a39cb4d8cd0",
-      "title": "Analytics & AI Solutions Intern",
-      "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/15237",
-      "location": "SF",
-      "department": "AI/ML/Data",
-      "company": "EXL",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {
