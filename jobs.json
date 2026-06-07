@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T22:43:20.583Z",
+  "generatedAt": "2026-06-07T23:44:24.230Z",
   "companyCount": 64,
   "okCount": 63,
   "jobCount": 1274,
@@ -13289,20 +13289,6 @@
       ]
     },
     {
-      "id": "canonical:4d53d98827cc1de5",
-      "title": "Quality Engineer Intern - ERP Data Migration - Quality Engineering",
-      "url": "https://imerys.wd3.myworkdayjobs.com/imerys_career2/job/Niagara-Falls-New-York-USA/Intern_REQ-11539",
-      "location": "Niagara Falls, NY",
-      "department": "AI/ML/Data",
-      "company": "Imerys",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:8e188db5da0c13d5",
       "title": "Data Scientist Intern",
       "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist-Year-Round-Intern---BS-MS-degree--Santa-Clara--CA-_R2619446",
@@ -13323,6 +13309,20 @@
       "location": "SF",
       "department": "AI/ML/Data",
       "company": "Prosper Funding",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:4d53d98827cc1de5",
+      "title": "Quality Engineer Intern - ERP Data Migration - Quality Engineering",
+      "url": "https://imerys.wd3.myworkdayjobs.com/imerys_career2/job/Niagara-Falls-New-York-USA/Intern_REQ-11538",
+      "location": "Niagara Falls, NY",
+      "department": "AI/ML/Data",
+      "company": "Imerys",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
