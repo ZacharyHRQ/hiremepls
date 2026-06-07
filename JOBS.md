@@ -1,6 +1,6 @@
 # Open Internships
 
-**1279** internships across **63/64** companies — last updated 2026-06-07.
+**1278** internships across **63/64** companies — last updated 2026-06-07.
 
 ## Companies
 
@@ -291,7 +291,7 @@
 - [Lyft](#lyft) (1)
 - [Mach9](#mach9) (1)
 - [Maersk](#maersk) (1)
-- [Magna](#magna) (2)
+- [Magna](#magna) (1)
 - [Magnite](#magnite) (3)
 - [Maher Duessel](#maher-duessel) (1)
 - [MaintainX](#maintainx) (1)
@@ -2504,7 +2504,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Tools Engineering Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235428) | 50 | Auburn Hills, MI / Southfield, MI | Hardware | 2026-06-06 |
 | [Engineering ADAS Perception Features Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235438) | 60 | Auburn Hills, MI | AI/ML/Data | 2026-06-01 |
 
 ## Magnite

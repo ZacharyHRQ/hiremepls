@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-07T11:25:53.162Z",
+  "generatedAt": "2026-06-07T12:56:21.337Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1279,
+  "jobCount": 1278,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1230,7 +1230,6 @@
     "canonical:a42f4515fa54d659": "2026-06-06T21:42:54.367Z",
     "canonical:8504c5f17035dc0a": "2026-06-06T22:43:32.931Z",
     "canonical:d7df174fc9ae5ee1": "2026-06-06T22:43:32.931Z",
-    "canonical:a421f7ccf418179e": "2026-06-06T22:43:32.931Z",
     "canonical:f432089fe9f41109": "2026-06-06T23:44:35.766Z",
     "canonical:7906b1bff6dfef42": "2026-06-07T01:56:06.706Z",
     "canonical:facef9c5b6d15c14": "2026-06-07T01:56:06.706Z",
@@ -12891,16 +12890,6 @@
       "scoreReasons": [
         "direct ATS"
       ]
-    },
-    {
-      "id": "canonical:a421f7ccf418179e",
-      "title": "Tools Engineering Intern",
-      "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235428",
-      "location": "Auburn Hills, MI / Southfield, MI",
-      "department": "Hardware",
-      "company": "Magna",
-      "score": 50,
-      "scoreReasons": []
     },
     {
       "id": "canonical:9e2ca9c244113a9f",
