@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-06T23:44:35.766Z",
+  "generatedAt": "2026-06-07T01:56:06.706Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1228,
+  "jobCount": 1255,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1231,7 +1231,34 @@
     "canonical:8504c5f17035dc0a": "2026-06-06T22:43:32.931Z",
     "canonical:d7df174fc9ae5ee1": "2026-06-06T22:43:32.931Z",
     "canonical:a421f7ccf418179e": "2026-06-06T22:43:32.931Z",
-    "canonical:f432089fe9f41109": "2026-06-06T23:44:35.766Z"
+    "canonical:f432089fe9f41109": "2026-06-06T23:44:35.766Z",
+    "canonical:7906b1bff6dfef42": "2026-06-07T01:56:06.706Z",
+    "canonical:facef9c5b6d15c14": "2026-06-07T01:56:06.706Z",
+    "canonical:07027ad19a5352fe": "2026-06-07T01:56:06.706Z",
+    "canonical:c8953f3fa03595b7": "2026-06-07T01:56:06.706Z",
+    "canonical:dd36b0326f52e8fb": "2026-06-07T01:56:06.706Z",
+    "canonical:9de45eedb1335ef6": "2026-06-07T01:56:06.706Z",
+    "canonical:186d139d517116a9": "2026-06-07T01:56:06.706Z",
+    "canonical:0dd89319a7c4740f": "2026-06-07T01:56:06.706Z",
+    "canonical:001b3662fecd327a": "2026-06-07T01:56:06.706Z",
+    "canonical:179ff221d4311555": "2026-06-07T01:56:06.706Z",
+    "canonical:1c0dbbdf06f61d9b": "2026-06-07T01:56:06.706Z",
+    "canonical:5f5f4291563c764e": "2026-06-07T01:56:06.706Z",
+    "canonical:acc457d7f8095cc2": "2026-06-07T01:56:06.706Z",
+    "canonical:551d3ef7a63a8047": "2026-06-07T01:56:06.706Z",
+    "canonical:31d5e001be78c989": "2026-06-07T01:56:06.706Z",
+    "canonical:37ae9b23fea08abc": "2026-06-07T01:56:06.706Z",
+    "canonical:de890603485f4c53": "2026-06-07T01:56:06.706Z",
+    "canonical:d9549e6f68c5903e": "2026-06-07T01:56:06.706Z",
+    "canonical:00da794bf6e2eed9": "2026-06-07T01:56:06.706Z",
+    "canonical:59ece841c5623d5e": "2026-06-07T01:56:06.706Z",
+    "canonical:0e5d9324556aa151": "2026-06-07T01:56:06.706Z",
+    "canonical:ef2b41f33d0d6b98": "2026-06-07T01:56:06.706Z",
+    "canonical:8003affbd2cfe9d3": "2026-06-07T01:56:06.706Z",
+    "canonical:493342a1a4fa0803": "2026-06-07T01:56:06.706Z",
+    "canonical:ac9d12a3e18df01a": "2026-06-07T01:56:06.706Z",
+    "canonical:af12a813c6b20437": "2026-06-07T01:56:06.706Z",
+    "canonical:29fdb193792038c4": "2026-06-07T01:56:06.706Z"
   },
   "jobs": [
     {
@@ -14587,6 +14614,366 @@
       ]
     },
     {
+      "id": "canonical:7906b1bff6dfef42",
+      "title": "Software Engineer Intern - Software Engineer - Information Security",
+      "url": "https://www.tesla.com/careers/search/job/270497",
+      "location": "Bellevue, WA",
+      "department": "Software",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:facef9c5b6d15c14",
+      "title": "Software Engineer Intern - Frontend Engineer - Applications Engineering",
+      "url": "https://www.tesla.com/careers/search/job/271091",
+      "location": "Fremont, CA / Austin, TX / Bellevue, WA",
+      "department": "Software",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:07027ad19a5352fe",
+      "title": "Software Engineer Intern - Software Engineer Opticaster - Energy Engineering",
+      "url": "https://www.tesla.com/careers/search/job/272937",
+      "location": "Palo Alto, CA",
+      "department": "Software",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:c8953f3fa03595b7",
+      "title": "Marketing Fleet Intern - Process Analyst - Marketing Fleet Operations",
+      "url": "https://www.tesla.com/careers/search/job/271880",
+      "location": "Anaheim, CA",
+      "department": "AI/ML/Data",
+      "company": "Tesla",
+      "score": 40,
+      "scoreReasons": [
+        "high-signal role",
+        "lower-fit title"
+      ]
+    },
+    {
+      "id": "canonical:dd36b0326f52e8fb",
+      "title": "Sales & Customer Support Intern - Analyst - Digital Communication",
+      "url": "https://www.tesla.com/careers/search/job/272095",
+      "location": "Fremont, CA",
+      "department": "AI/ML/Data",
+      "company": "Tesla",
+      "score": 40,
+      "scoreReasons": [
+        "high-signal role",
+        "lower-fit title"
+      ]
+    },
+    {
+      "id": "canonical:9de45eedb1335ef6",
+      "title": "Software Integration Engineer Intern - Software Integration Engineer - Service Tooling",
+      "url": "https://www.tesla.com/careers/search/job/271866",
+      "location": "Fremont, CA",
+      "department": "Hardware",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:186d139d517116a9",
+      "title": "Software Engineer Intern - Fullstack Software Engineer - Fleetnet",
+      "url": "https://www.tesla.com/careers/search/job/266764",
+      "location": "Palo Alto, CA",
+      "department": "Software",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:0dd89319a7c4740f",
+      "title": "Mobile Applications Engineering Intern - Android Engineer - Mobile Software",
+      "url": "https://www.tesla.com/careers/search/job/266980",
+      "location": "Palo Alto, CA",
+      "department": "Software",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:001b3662fecd327a",
+      "title": "Software Engineering Intern - Fullstack C++ Engineer - Vehicle User Interface",
+      "url": "https://www.tesla.com/careers/search/job/266978",
+      "location": "Palo Alto, CA",
+      "department": "Software",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:179ff221d4311555",
+      "title": "Embedded Software Engineer Intern - Embedded Software Engineer - Firmware Platforms",
+      "url": "https://www.tesla.com/careers/search/job/266985",
+      "location": "Palo Alto, CA",
+      "department": "Hardware",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:1c0dbbdf06f61d9b",
+      "title": "AI Engineer Intern",
+      "url": "https://www.tesla.com/careers/search/job/259784",
+      "location": "Palo Alto, CA",
+      "department": "AI/ML/Data",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:5f5f4291563c764e",
+      "title": "Software Engineer Intern - Software Engineer - IT Apps",
+      "url": "https://www.tesla.com/careers/search/job/271209",
+      "location": "Fremont, CA",
+      "department": "Software",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:acc457d7f8095cc2",
+      "title": "Embedded Software Engineer Intern - Embedded Software Engineer - Audio Systems",
+      "url": "https://www.tesla.com/careers/search/job/266999",
+      "location": "Palo Alto, CA",
+      "department": "Hardware",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:551d3ef7a63a8047",
+      "title": "Software Engineer Intern - Software Engineer - Data Platforms",
+      "url": "https://www.tesla.com/careers/search/job/267004",
+      "location": "Palo Alto, CA",
+      "department": "Software",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:31d5e001be78c989",
+      "title": "Software Engineer Intern - Software Engineer - Update Systems",
+      "url": "https://www.tesla.com/careers/search/job/267002",
+      "location": "Palo Alto, CA",
+      "department": "Software",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:37ae9b23fea08abc",
+      "title": "Fullstack Engineer Intern - Fullstack Engineer - Build Infrastructure",
+      "url": "https://www.tesla.com/careers/search/job/267005",
+      "location": "Palo Alto, CA",
+      "department": "Software",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:2e59ae295d4fdbbf",
+      "title": "Software Engineer Intern - Linux Update Systems",
+      "url": "https://www.tesla.com/careers/search/job/266986",
+      "location": "Palo Alto, CA",
+      "department": "Software",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:de890603485f4c53",
+      "title": "Energy System Optimization Intern - Energy Optimization Software",
+      "url": "https://www.tesla.com/careers/search/job/271349",
+      "location": "Palo Alto, CA / Fremont, CA / Austin, TX",
+      "department": "AI/ML/Data",
+      "company": "Tesla",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:d9549e6f68c5903e",
+      "title": "Data Analyst Intern - Data Analyst - Energy",
+      "url": "https://www.tesla.com/careers/search/job/271329",
+      "location": "Fremont, CA",
+      "department": "AI/ML/Data",
+      "company": "Tesla",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:00da794bf6e2eed9",
+      "title": "Software Engineering Intern - Software Engineering - Service Engineering",
+      "url": "https://www.tesla.com/careers/search/job/266119",
+      "location": "Palo Alto, CA",
+      "department": "Software",
+      "company": "Tesla",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:59ece841c5623d5e",
+      "title": "Data Engineer Intern - Data Engineer - Energy",
+      "url": "https://www.tesla.com/careers/search/job/271331",
+      "location": "Palo Alto, CA",
+      "department": "AI/ML/Data",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:0e5d9324556aa151",
+      "title": "Operational Automation Software Engineer Intern - Operational Automation Engineer - Residential Energy",
+      "url": "https://www.tesla.com/careers/search/job/271352",
+      "location": "Draper, UT",
+      "department": "Software",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:ef2b41f33d0d6b98",
+      "title": "Mobile App Software Engineer Intern - Mobile Application Software Engineer - Energy Engineering",
+      "url": "https://www.tesla.com/careers/search/job/271382",
+      "location": "Palo Alto, CA",
+      "department": "Software",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:8003affbd2cfe9d3",
+      "title": "Software Engineering Intern - Fullstack Engineer - Infrastructure Engineering",
+      "url": "https://www.tesla.com/careers/search/job/264897",
+      "location": "Fremont, CA",
+      "department": "Software",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:493342a1a4fa0803",
+      "title": "Software Engineer Intern - Software Engineer - Energy Engineering",
+      "url": "https://www.tesla.com/careers/search/job/271362",
+      "location": "Palo Alto, CA / Fremont, CA",
+      "department": "Software",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:ac9d12a3e18df01a",
+      "title": "Finance Programs Intern",
+      "url": "https://www.tesla.com/careers/search/job/271337",
+      "location": "Palo Alto, CA",
+      "department": "AI/ML/Data",
+      "company": "Tesla",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:af12a813c6b20437",
+      "title": "Data Engineer Intern - Data Engineer - Fleet Analytics",
+      "url": "https://www.tesla.com/careers/search/job/261351",
+      "location": "Palo Alto, CA",
+      "department": "AI/ML/Data",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:29fdb193792038c4",
+      "title": "Software Engineer Intern - Multiple Teams",
+      "url": "https://www.tesla.com/careers/search/job/271372",
+      "location": "Palo Alto, CA",
+      "department": "Software",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:12cd06c0eec80152",
       "title": "Frontend Software Engineer Intern",
       "url": "https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c",
@@ -14809,19 +15196,6 @@
       "id": "canonical:0f6312e84fe4f4f3",
       "title": "Software Engineer Intern, Update Systems",
       "url": "https://www.tesla.com/careers/search/job/248104",
-      "location": "Palo Alto, CA",
-      "department": "",
-      "company": "Tesla",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:2e59ae295d4fdbbf",
-      "title": "Software Engineer Intern, Linux Update Systems",
-      "url": "https://www.tesla.com/careers/search/job/248062",
       "location": "Palo Alto, CA",
       "department": "",
       "company": "Tesla",

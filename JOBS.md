@@ -1,6 +1,6 @@
 # Open Internships
 
-**1228** internships across **63/64** companies — last updated 2026-06-06.
+**1255** internships across **63/64** companies — last updated 2026-06-07.
 
 ## Companies
 
@@ -463,7 +463,7 @@
 - [TENEX.AI](#tenex-ai) (1)
 - [Tenstorrent](#tenstorrent) (6)
 - [Terranox AI](#terranox-ai) (1)
-- [Tesla](#tesla) (30)
+- [Tesla](#tesla) (57)
 - [Tessera Labs](#tessera-labs) (1)
 - [TETRAMEM](#tetramem) (1)
 - [The Boeing Company](#the-boeing-company) (1)
@@ -3816,6 +3816,33 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [AI Engineer Intern](https://www.tesla.com/careers/search/job/259784) | 85 | Palo Alto, CA | AI/ML/Data | 2026-06-07 |
+| [Data Engineer Intern - Data Engineer - Energy](https://www.tesla.com/careers/search/job/271331) | 85 | Palo Alto, CA | AI/ML/Data | 2026-06-07 |
+| [Data Engineer Intern - Data Engineer - Fleet Analytics](https://www.tesla.com/careers/search/job/261351) | 85 | Palo Alto, CA | AI/ML/Data | 2026-06-07 |
+| [Embedded Software Engineer Intern - Embedded Software Engineer - Audio Systems](https://www.tesla.com/careers/search/job/266999) | 85 | Palo Alto, CA | Hardware | 2026-06-07 |
+| [Embedded Software Engineer Intern - Embedded Software Engineer - Firmware Platforms](https://www.tesla.com/careers/search/job/266985) | 85 | Palo Alto, CA | Hardware | 2026-06-07 |
+| [Fullstack Engineer Intern - Fullstack Engineer - Build Infrastructure](https://www.tesla.com/careers/search/job/267005) | 85 | Palo Alto, CA | Software | 2026-06-07 |
+| [Mobile App Software Engineer Intern - Mobile Application Software Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/271382) | 85 | Palo Alto, CA | Software | 2026-06-07 |
+| [Mobile Applications Engineering Intern - Android Engineer - Mobile Software](https://www.tesla.com/careers/search/job/266980) | 85 | Palo Alto, CA | Software | 2026-06-07 |
+| [Operational Automation Software Engineer Intern - Operational Automation Engineer - Residential Energy](https://www.tesla.com/careers/search/job/271352) | 85 | Draper, UT | Software | 2026-06-07 |
+| [Software Engineer Intern - Frontend Engineer - Applications Engineering](https://www.tesla.com/careers/search/job/271091) | 85 | Fremont, CA / Austin, TX / Bellevue, WA | Software | 2026-06-07 |
+| [Software Engineer Intern - Fullstack Software Engineer - Fleetnet](https://www.tesla.com/careers/search/job/266764) | 85 | Palo Alto, CA | Software | 2026-06-07 |
+| [Software Engineer Intern - Multiple Teams](https://www.tesla.com/careers/search/job/271372) | 85 | Palo Alto, CA | Software | 2026-06-07 |
+| [Software Engineer Intern - Software Engineer - Data Platforms](https://www.tesla.com/careers/search/job/267004) | 85 | Palo Alto, CA | Software | 2026-06-07 |
+| [Software Engineer Intern - Software Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/271362) | 85 | Palo Alto, CA / Fremont, CA | Software | 2026-06-07 |
+| [Software Engineer Intern - Software Engineer - Information Security](https://www.tesla.com/careers/search/job/270497) | 85 | Bellevue, WA | Software | 2026-06-07 |
+| [Software Engineer Intern - Software Engineer - IT Apps](https://www.tesla.com/careers/search/job/271209) | 85 | Fremont, CA | Software | 2026-06-07 |
+| [Software Engineer Intern - Software Engineer - Update Systems](https://www.tesla.com/careers/search/job/267002) | 85 | Palo Alto, CA | Software | 2026-06-07 |
+| [Software Engineer Intern - Software Engineer Opticaster - Energy Engineering](https://www.tesla.com/careers/search/job/272937) | 85 | Palo Alto, CA | Software | 2026-06-07 |
+| [Software Engineering Intern - Fullstack C++ Engineer - Vehicle User Interface](https://www.tesla.com/careers/search/job/266978) | 85 | Palo Alto, CA | Software | 2026-06-07 |
+| [Software Engineering Intern - Fullstack Engineer - Infrastructure Engineering](https://www.tesla.com/careers/search/job/264897) | 85 | Fremont, CA | Software | 2026-06-07 |
+| [Software Integration Engineer Intern - Software Integration Engineer - Service Tooling](https://www.tesla.com/careers/search/job/271866) | 85 | Fremont, CA | Hardware | 2026-06-07 |
+| [Data Analyst Intern - Data Analyst - Energy](https://www.tesla.com/careers/search/job/271329) | 60 | Fremont, CA | AI/ML/Data | 2026-06-07 |
+| [Energy System Optimization Intern - Energy Optimization Software](https://www.tesla.com/careers/search/job/271349) | 60 | Palo Alto, CA / Fremont, CA / Austin, TX | AI/ML/Data | 2026-06-07 |
+| [Finance Programs Intern](https://www.tesla.com/careers/search/job/271337) | 60 | Palo Alto, CA | AI/ML/Data | 2026-06-07 |
+| [Software Engineering Intern - Software Engineering - Service Engineering](https://www.tesla.com/careers/search/job/266119) | 60 | Palo Alto, CA | Software | 2026-06-07 |
+| [Marketing Fleet Intern - Process Analyst - Marketing Fleet Operations](https://www.tesla.com/careers/search/job/271880) | 40 | Anaheim, CA | AI/ML/Data | 2026-06-07 |
+| [Sales & Customer Support Intern - Analyst - Digital Communication](https://www.tesla.com/careers/search/job/272095) | 40 | Fremont, CA | AI/ML/Data | 2026-06-07 |
 | [Solar Hardware Engineer Intern - Solar Hardware Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/271539) | 50 | Palo Alto, CA | Hardware | 2026-06-06 |
 | [Data Engineer Intern - Fleet Analytics](https://www.tesla.com/careers/search/job/271696) | 85 | Palo Alto, CA | AI/ML/Data | 2026-06-06 |
 | [Embedded Software Engineer Intern - AI Platforms - Embedded Software Engineer](https://www.tesla.com/careers/search/job/269819) | 85 | Palo Alto, CA | Hardware | 2026-06-06 |
@@ -3829,9 +3856,9 @@
 | [Machine Learning Engineer Intern, Noise Vibration Harshness Engineering](https://www.tesla.com/careers/search/job/244786?source=Indeed&source=Indeed&tags=organicjob) | 85 | Fremont, CA | — | 2026-05-09 |
 | [Software Compiler Engineer Intern, AI Inference](https://www.tesla.com/careers/search/job/247889) | 85 | Palo Alto, CA | — | 2026-05-09 |
 | [Software Developer Intern, Integration Platforms](https://www.tesla.com/careers/search/job/internship-software-developer-integration-platforms-fall-2026-270037) | 85 | Palo Alto, CA | — | 2026-05-09 |
+| [Software Engineer Intern - Linux Update Systems](https://www.tesla.com/careers/search/job/266986) | 85 | Palo Alto, CA | Software | 2026-05-09 |
 | [Software Engineer Intern, Factory Software](https://www.tesla.com/careers/search/job/248001) | 85 | Fremont, CA | — | 2026-05-09 |
 | [Software Engineer Intern, Information Security](https://www.tesla.com/careers/search/job/254590) | 85 | Bellevue, WA | — | 2026-05-09 |
-| [Software Engineer Intern, Linux Update Systems](https://www.tesla.com/careers/search/job/248062) | 85 | Palo Alto, CA | — | 2026-05-09 |
 | [Software Engineer Intern, Maps & Navigation Validation](https://www.tesla.com/careers/search/job/internship-software-engineer-maps-navigation-validation-fall-2026--270186) | 85 | Palo Alto, CA | — | 2026-05-09 |
 | [Software Engineer Intern, Maps & Self-Driving Navigation](https://www.tesla.com/careers/search/job/248019?source=Indeed&source=Indeed&tags=organicjob) | 85 | Palo Alto, CA | — | 2026-05-09 |
 | [Software Engineer Intern, Service Engineering](https://www.tesla.com/careers/search/job/254611) | 85 | Palo Alto, CA | — | 2026-05-09 |
