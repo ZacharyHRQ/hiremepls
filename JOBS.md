@@ -1,6 +1,6 @@
 # Open Internships
 
-**1257** internships across **63/64** companies — last updated 2026-06-07.
+**1279** internships across **63/64** companies — last updated 2026-06-07.
 
 ## Companies
 
@@ -463,7 +463,7 @@
 - [TENEX.AI](#tenex-ai) (1)
 - [Tenstorrent](#tenstorrent) (6)
 - [Terranox AI](#terranox-ai) (1)
-- [Tesla](#tesla) (59)
+- [Tesla](#tesla) (81)
 - [Tessera Labs](#tessera-labs) (1)
 - [TETRAMEM](#tetramem) (1)
 - [The Boeing Company](#the-boeing-company) (1)
@@ -3816,6 +3816,28 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [AI Inference Engineer Intern - Software Compiler Engineer - AI Inference](https://www.tesla.com/careers/search/job/263211) | 85 | Palo Alto, CA | Software | 2026-06-07 |
+| [AI Performance Engineer Intern - AI Performance Engineer - Performance Optimization](https://www.tesla.com/careers/search/job/263759) | 85 | Palo Alto, CA | AI/ML/Data | 2026-06-07 |
+| [AI Tooling Intern - Fullstack Engineer - AI Tooling](https://www.tesla.com/careers/search/job/269810) | 85 | Palo Alto, CA | Software | 2026-06-07 |
+| [Data Engineer Intern - Multiple Teams](https://www.tesla.com/careers/search/job/269828) | 85 | Palo Alto, CA | AI/ML/Data | 2026-06-07 |
+| [Embedded Software Engineer Intern - Embedded Software Engineer - Thermal Systems](https://www.tesla.com/careers/search/job/272290) | 85 | Palo Alto, CA | Hardware | 2026-06-07 |
+| [Embedded Software Engineering Intern - Embedded Software Engineer - High Voltage Systems](https://www.tesla.com/careers/search/job/270354) | 85 | Palo Alto, CA | Hardware | 2026-06-07 |
+| [Internship - Software Engineer - Maps & Navigation Validation - Fall 2026](https://www.tesla.com/careers/search/job/270186) | 85 | Palo Alto, CA | Software | 2026-06-07 |
+| [Product Support Engineer Intern - Product Support Engineer - Service Engineering](https://www.tesla.com/careers/search/job/259222) | 85 | Palo Alto, CA | Software | 2026-06-07 |
+| [Software Development Engineer Intern - Software Developer - Integration Platforms](https://www.tesla.com/careers/search/job/270037) | 85 | Palo Alto, CA | Software | 2026-06-07 |
+| [Software Engineer Intern - AI Data Infrastructure](https://www.tesla.com/careers/search/job/269829) | 85 | Palo Alto, CA | Software | 2026-06-07 |
+| [Software Engineer Intern - Engineering Automation Software Engineer - Vehicle Engineering](https://www.tesla.com/careers/search/job/267767) | 85 | Palo Alto, CA / Fremont, CA / United States | Software | 2026-06-07 |
+| [Software Engineer Intern - Integration Tools](https://www.tesla.com/careers/search/job/269445) | 85 | Palo Alto, CA | Hardware | 2026-06-07 |
+| [Software Engineer Intern - Simulation Platform - Software Engineer](https://www.tesla.com/careers/search/job/270356) | 85 | Palo Alto, CA | Software | 2026-06-07 |
+| [Software Engineer Intern - Software Engineer - AI Hardware Infrastructure](https://www.tesla.com/careers/search/job/260382) | 85 | Palo Alto, CA | Software | 2026-06-07 |
+| [Software Integration Engineer Intern - Software Integration Engineer - Optimus](https://www.tesla.com/careers/search/job/269809) | 85 | Palo Alto, CA | Hardware | 2026-06-07 |
+| [AI Hardware Design Engineer Intern - AI Hardware Design Engineer - AI Hardware](https://www.tesla.com/careers/search/job/272462) | 75 | Palo Alto, CA / Austin, TX | Hardware | 2026-06-07 |
+| [Applied AI Engineer Intern - AI Hardware](https://www.tesla.com/careers/search/job/262946) | 75 | Palo Alto, CA | Hardware | 2026-06-07 |
+| [Electronic Design Engineer Internship - Electronic Design Engineer - Electronic Systems](https://www.tesla.com/careers/search/job/267750) | 75 | Palo Alto, CA | Hardware | 2026-06-07 |
+| [Machine Learning Platform Intern - Multiple Teams](https://www.tesla.com/careers/search/job/269812) | 60 | Palo Alto, CA | Software | 2026-06-07 |
+| [Service Engineering Intern - Software Engineering - Service Engineering](https://www.tesla.com/careers/search/job/259221) | 60 | Palo Alto, CA | Software | 2026-06-07 |
+| [Software Engineer Intern - Site Controller Software Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/272615) | 60 | Palo Alto, CA | Software | 2026-06-07 |
+| [Sensor Hardware Engineer Intern - Sensor Hardware Design Engineer - Optimus](https://www.tesla.com/careers/search/job/272581) | 50 | Palo Alto, CA | Hardware | 2026-06-07 |
 | [Software Engineer Intern - Wireless Connectivity Software Engineer - Electronic Devices](https://www.tesla.com/careers/search/job/269792) | 85 | Palo Alto, CA | Software | 2026-06-07 |
 | [Software Integration Engineer Intern - Software Integration Engineer - Battery Management Systems](https://www.tesla.com/careers/search/job/270351) | 85 | Palo Alto, CA | Hardware | 2026-06-07 |
 | [Electronics Design Engineer Intern - Reliability Electronics Design Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/272601) | 50 | Palo Alto, CA | Hardware | 2026-06-07 |
@@ -3854,11 +3876,12 @@
 | [C++ Software Engineer Intern, Systems, AI](https://www.tesla.com/careers/search/job/247862) | 85 | Palo Alto, CA | — | 2026-05-09 |
 | [Charging Distributed Systems Software Engineer Intern, Energy Engineering](https://www.tesla.com/careers/search/job/248070?source=Indeed&source=Indeed&tags=organicjob) | 85 | Palo Alto, CA | — | 2026-05-09 |
 | [Commercial UI Software Engineer Intern, Energy Engineering](https://www.tesla.com/careers/search/job/248805) | 85 | Palo Alto, CA | — | 2026-05-09 |
-| [Embedded Software Engineer Intern, Keys & Authentication](https://www.tesla.com/careers/search/job/internship-embedded-software-engineer-keys-authentication-fall-2026-270067) | 85 | Palo Alto, CA | — | 2026-05-09 |
+| [Embedded Software Engineer Intern - Keys & Authentication](https://www.tesla.com/careers/search/job/270067) | 85 | Palo Alto, CA | Hardware | 2026-05-09 |
 | [Machine Learning Engineer Intern, Noise Vibration Harshness Engineering](https://www.tesla.com/careers/search/job/244786?source=Indeed&source=Indeed&tags=organicjob) | 85 | Fremont, CA | — | 2026-05-09 |
 | [Software Compiler Engineer Intern, AI Inference](https://www.tesla.com/careers/search/job/247889) | 85 | Palo Alto, CA | — | 2026-05-09 |
 | [Software Developer Intern, Integration Platforms](https://www.tesla.com/careers/search/job/internship-software-developer-integration-platforms-fall-2026-270037) | 85 | Palo Alto, CA | — | 2026-05-09 |
 | [Software Engineer Intern - Linux Update Systems](https://www.tesla.com/careers/search/job/266986) | 85 | Palo Alto, CA | Software | 2026-05-09 |
+| [Software Engineer Intern - Vehicle UI Development](https://www.tesla.com/careers/search/job/270063) | 85 | Palo Alto, CA | Software | 2026-05-09 |
 | [Software Engineer Intern, Factory Software](https://www.tesla.com/careers/search/job/248001) | 85 | Fremont, CA | — | 2026-05-09 |
 | [Software Engineer Intern, Information Security](https://www.tesla.com/careers/search/job/254590) | 85 | Bellevue, WA | — | 2026-05-09 |
 | [Software Engineer Intern, Maps & Navigation Validation](https://www.tesla.com/careers/search/job/internship-software-engineer-maps-navigation-validation-fall-2026--270186) | 85 | Palo Alto, CA | — | 2026-05-09 |
@@ -3866,10 +3889,9 @@
 | [Software Engineer Intern, Service Engineering](https://www.tesla.com/careers/search/job/254611) | 85 | Palo Alto, CA | — | 2026-05-09 |
 | [Software Engineer Intern, Update Systems](https://www.tesla.com/careers/search/job/248104) | 85 | Palo Alto, CA | — | 2026-05-09 |
 | [Software Engineer Intern, Vehicle Engineering](https://www.tesla.com/careers/search/job/267767?jr_id=69dd6930bc6f6622c9912106) | 85 | Palo Alto, CA / Fremont, CA | — | 2026-05-09 |
-| [Software Engineer Intern, Vehicle UI Development](https://www.tesla.com/careers/search/job/internship-software-engineer-vehicle-ui-development-fall-2026-270063) | 85 | Palo Alto, CA | — | 2026-05-09 |
 | [Software Integration Engineer Intern, AI Platforms](https://www.tesla.com/careers/search/job/247873?source=Indeed&source=Indeed&tags=organicjob) | 85 | Palo Alto, CA | — | 2026-05-09 |
 | [Software Integration Engineer Intern, Energy Engineering](https://www.tesla.com/careers/search/job/250807) | 85 | Palo Alto, CA | — | 2026-05-09 |
-| [Software Machine Learning Engineer Intern, Reliability Energy Engineering](https://www.tesla.com/careers/search/job/248920) | 85 | Palo Alto, CA | — | 2026-05-09 |
+| [Software Machine Learning Engineer Intern - Reliability Energy Engineering](https://www.tesla.com/careers/search/job/272619) | 85 | Palo Alto, CA | AI/ML/Data | 2026-05-09 |
 | [System Software Engineer Intern, System Software](https://www.tesla.com/careers/search/job/248064) | 85 | Palo Alto, CA | — | 2026-05-09 |
 | [Chassis Integration Engineer Intern, Vehicle Firmware](https://www.tesla.com/careers/search/job/247989?source=Indeed&source=Indeed&tags=organicjob) | 75 | Palo Alto, CA | — | 2026-05-09 |
 | [Chassis Validation Engineer Intern, Vehicle Firmware](https://www.tesla.com/careers/search/job/247990) | 75 | Palo Alto, CA | — | 2026-05-09 |
