@@ -1,6 +1,6 @@
 # Open Internships
 
-**1255** internships across **63/64** companies — last updated 2026-06-07.
+**1257** internships across **63/64** companies — last updated 2026-06-07.
 
 ## Companies
 
@@ -463,7 +463,7 @@
 - [TENEX.AI](#tenex-ai) (1)
 - [Tenstorrent](#tenstorrent) (6)
 - [Terranox AI](#terranox-ai) (1)
-- [Tesla](#tesla) (57)
+- [Tesla](#tesla) (59)
 - [Tessera Labs](#tessera-labs) (1)
 - [TETRAMEM](#tetramem) (1)
 - [The Boeing Company](#the-boeing-company) (1)
@@ -744,7 +744,7 @@
 | [Hardware Technologies Engineering Intern](https://jobs.apple.com/en-us/details/200664383) | 50 | United States | Hardware | 2026-05-22 |
 | [Undergrad Engineering Intern](https://jobs.apple.com/en-us/details/200663968) | 50 | United States | Hardware | 2026-05-22 |
 | [Machine Learning Intern](https://www.apple.com) | 60 | San Francisco, CA | — | 2026-05-16 |
-| [GPU Intern - Platform Architecture](https://jobs.apple.com/en-us/details/200617616) | 60 | London, UK / Cambridge, UK / Welwyn Garden City, UK | Hardware | 2026-05-09 |
+| [GPU Internship - Platform Architecture](https://jobs.apple.com/en-us/details/200617616) | 60 | London, UK / Cambridge, UK / Welwyn Garden City, UK | Hardware | 2026-05-09 |
 | [Hardware Engineering Intern](https://jobs.apple.com/en-us/details/200663981) | 50 | United States | Hardware | 2026-05-09 |
 
 ## Applied Materials
@@ -3816,6 +3816,9 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern - Wireless Connectivity Software Engineer - Electronic Devices](https://www.tesla.com/careers/search/job/269792) | 85 | Palo Alto, CA | Software | 2026-06-07 |
+| [Software Integration Engineer Intern - Software Integration Engineer - Battery Management Systems](https://www.tesla.com/careers/search/job/270351) | 85 | Palo Alto, CA | Hardware | 2026-06-07 |
+| [Electronics Design Engineer Intern - Reliability Electronics Design Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/272601) | 50 | Palo Alto, CA | Hardware | 2026-06-07 |
 | [AI Engineer Intern](https://www.tesla.com/careers/search/job/259784) | 85 | Palo Alto, CA | AI/ML/Data | 2026-06-07 |
 | [Data Engineer Intern - Data Engineer - Energy](https://www.tesla.com/careers/search/job/271331) | 85 | Palo Alto, CA | AI/ML/Data | 2026-06-07 |
 | [Data Engineer Intern - Data Engineer - Fleet Analytics](https://www.tesla.com/careers/search/job/261351) | 85 | Palo Alto, CA | AI/ML/Data | 2026-06-07 |
@@ -3839,7 +3842,6 @@
 | [Software Integration Engineer Intern - Software Integration Engineer - Service Tooling](https://www.tesla.com/careers/search/job/271866) | 85 | Fremont, CA | Hardware | 2026-06-07 |
 | [Data Analyst Intern - Data Analyst - Energy](https://www.tesla.com/careers/search/job/271329) | 60 | Fremont, CA | AI/ML/Data | 2026-06-07 |
 | [Energy System Optimization Intern - Energy Optimization Software](https://www.tesla.com/careers/search/job/271349) | 60 | Palo Alto, CA / Fremont, CA / Austin, TX | AI/ML/Data | 2026-06-07 |
-| [Finance Programs Intern](https://www.tesla.com/careers/search/job/271337) | 60 | Palo Alto, CA | AI/ML/Data | 2026-06-07 |
 | [Software Engineering Intern - Software Engineering - Service Engineering](https://www.tesla.com/careers/search/job/266119) | 60 | Palo Alto, CA | Software | 2026-06-07 |
 | [Marketing Fleet Intern - Process Analyst - Marketing Fleet Operations](https://www.tesla.com/careers/search/job/271880) | 40 | Anaheim, CA | AI/ML/Data | 2026-06-07 |
 | [Sales & Customer Support Intern - Analyst - Digital Communication](https://www.tesla.com/careers/search/job/272095) | 40 | Fremont, CA | AI/ML/Data | 2026-06-07 |

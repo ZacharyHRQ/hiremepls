@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-07T01:56:06.706Z",
+  "generatedAt": "2026-06-07T06:16:50.879Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1255,
+  "jobCount": 1257,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1256,9 +1256,11 @@
     "canonical:ef2b41f33d0d6b98": "2026-06-07T01:56:06.706Z",
     "canonical:8003affbd2cfe9d3": "2026-06-07T01:56:06.706Z",
     "canonical:493342a1a4fa0803": "2026-06-07T01:56:06.706Z",
-    "canonical:ac9d12a3e18df01a": "2026-06-07T01:56:06.706Z",
     "canonical:af12a813c6b20437": "2026-06-07T01:56:06.706Z",
-    "canonical:29fdb193792038c4": "2026-06-07T01:56:06.706Z"
+    "canonical:29fdb193792038c4": "2026-06-07T01:56:06.706Z",
+    "canonical:54e3e1093ebbff0f": "2026-06-07T06:16:50.879Z",
+    "canonical:68b8bf927ec4b525": "2026-06-07T06:16:50.879Z",
+    "canonical:ba965d4e55272c0c": "2026-06-07T06:16:50.879Z"
   },
   "jobs": [
     {
@@ -2523,18 +2525,6 @@
       "company": "Cribl",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:40b5e3e02c34b6ce",
-      "title": "GPU Intern - Platform Architecture",
-      "url": "https://jobs.apple.com/en-us/details/200617616",
-      "location": "London, UK / Cambridge, UK / Welwyn Garden City, UK",
-      "department": "Hardware",
-      "company": "Apple",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
     },
     {
       "id": "canonical:d84f44faf2a6f55f",
@@ -14936,18 +14926,6 @@
       ]
     },
     {
-      "id": "canonical:ac9d12a3e18df01a",
-      "title": "Finance Programs Intern",
-      "url": "https://www.tesla.com/careers/search/job/271337",
-      "location": "Palo Alto, CA",
-      "department": "AI/ML/Data",
-      "company": "Tesla",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:af12a813c6b20437",
       "title": "Data Engineer Intern - Data Engineer - Fleet Analytics",
       "url": "https://www.tesla.com/careers/search/job/261351",
@@ -14970,6 +14948,54 @@
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:54e3e1093ebbff0f",
+      "title": "Electronics Design Engineer Intern - Reliability Electronics Design Engineer - Energy Engineering",
+      "url": "https://www.tesla.com/careers/search/job/272601",
+      "location": "Palo Alto, CA",
+      "department": "Hardware",
+      "company": "Tesla",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:68b8bf927ec4b525",
+      "title": "Software Engineer Intern - Wireless Connectivity Software Engineer - Electronic Devices",
+      "url": "https://www.tesla.com/careers/search/job/269792",
+      "location": "Palo Alto, CA",
+      "department": "Software",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:ba965d4e55272c0c",
+      "title": "Software Integration Engineer Intern - Software Integration Engineer - Battery Management Systems",
+      "url": "https://www.tesla.com/careers/search/job/270351",
+      "location": "Palo Alto, CA",
+      "department": "Hardware",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:40b5e3e02c34b6ce",
+      "title": "GPU Internship - Platform Architecture",
+      "url": "https://jobs.apple.com/en-us/details/200617616",
+      "location": "London, UK / Cambridge, UK / Welwyn Garden City, UK",
+      "department": "Hardware",
+      "company": "Apple",
+      "score": 60,
+      "scoreReasons": [
         "high-signal role"
       ]
     },
