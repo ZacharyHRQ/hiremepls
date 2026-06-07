@@ -1,6 +1,6 @@
 # Open Internships
 
-**1275** internships across **63/64** companies — last updated 2026-06-07.
+**1274** internships across **63/64** companies — last updated 2026-06-07.
 
 ## Companies
 
@@ -17,7 +17,7 @@
 - [Advantmed](#advantmed) (1)
 - [Aechelon Technology](#aechelon-technology) (2)
 - [AeroVironment](#aerovironment) (1)
-- [Agilent Technologies](#agilent-technologies) (2)
+- [Agilent Technologies](#agilent-technologies) (1)
 - [Akuna Capital](#akuna-capital) (1)
 - [Al Warren Oil Company](#al-warren-oil-company) (2)
 - [Allium](#allium) (1)
@@ -612,7 +612,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Market Intelligence Intern](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-CA-Remote-Location-Bay-Area/Market-Intelligence-Internship_4038284) | 68 | Oakland, CA | AI/ML/Data | 2026-06-06 |
 | [Predictive Sales Prospecting Intern](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Intern---Predictive-Sales-Prospecting_4038245) | 48 | Wilmington, DE | AI/ML/Data | 2026-06-05 |
 
 ## Akuna Capital

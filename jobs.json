@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-07T21:34:23.240Z",
+  "generatedAt": "2026-06-07T22:43:20.583Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1275,
+  "jobCount": 1274,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1203,7 +1203,6 @@
     "canonical:062d8ece13f695f7": "2026-06-06T04:18:16.502Z",
     "canonical:27857d8b96bfdf80": "2026-06-06T04:18:16.502Z",
     "canonical:3c4f1b7e61c23218": "2026-06-06T07:29:16.741Z",
-    "canonical:3e139f075b9bc452": "2026-06-06T09:33:35.526Z",
     "canonical:31962d85f79aae5b": "2026-06-06T11:09:29.346Z",
     "canonical:71f4c1680b019759": "2026-06-06T11:09:29.346Z",
     "canonical:941d02dc047a74b1": "2026-06-06T11:09:29.346Z",
@@ -14510,19 +14509,6 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:3e139f075b9bc452",
-      "title": "Market Intelligence Intern",
-      "url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-CA-Remote-Location-Bay-Area/Market-Intelligence-Internship_4038284",
-      "location": "Oakland, CA",
-      "department": "AI/ML/Data",
-      "company": "Agilent Technologies",
-      "score": 68,
-      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
