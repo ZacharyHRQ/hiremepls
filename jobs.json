@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-08T12:06:41.807Z",
+  "generatedAt": "2026-06-08T16:19:44.004Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1274,
+  "jobCount": 1272,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -546,7 +546,6 @@
     "canonical:ae2cb67483530a53": "2026-05-13T23:40:40.818Z",
     "canonical:1cc697a29d74132a": "2026-05-09T15:28:15.527Z",
     "canonical:c3a5eb06808e55a7": "2026-05-09T15:28:15.527Z",
-    "canonical:0f90fb3d9d7fcfdb": "2026-05-09T15:28:15.527Z",
     "canonical:f07e66af72bdad8b": "2026-05-09T15:28:15.527Z",
     "canonical:a9776b9ae0321db7": "2026-05-09T15:28:15.527Z",
     "canonical:03c15902ae6e4726": "2026-05-09T15:28:15.527Z",
@@ -1019,7 +1018,6 @@
     "canonical:ecba8731f0945b5e": "2026-05-27T23:09:47.866Z",
     "canonical:03246cce852aef2a": "2026-05-27T23:09:47.866Z",
     "canonical:d32be9bbb737525e": "2026-05-27T23:09:47.866Z",
-    "canonical:5a5fd738be504405": "2026-05-28T00:12:15.474Z",
     "canonical:9bd78e7870c6fb67": "2026-05-28T00:12:15.474Z",
     "canonical:9e2ca9c244113a9f": "2026-05-28T00:12:15.474Z",
     "canonical:5b93475ac32ee191": "2026-05-28T00:12:15.474Z",
@@ -1116,12 +1114,10 @@
     "canonical:0cb411253e09ff95": "2026-06-03T10:04:55.299Z",
     "canonical:b5a18fe0020bae08": "2026-06-03T10:04:55.299Z",
     "canonical:d5989df87e86b977": "2026-06-03T10:04:55.299Z",
-    "canonical:d7b27eb1186aca67": "2026-06-03T15:01:52.660Z",
     "canonical:b0a57a3a31d07f87": "2026-06-03T15:01:52.660Z",
     "canonical:61a176d561f3108a": "2026-06-03T23:25:54.380Z",
     "canonical:76679209f361ccb6": "2026-06-03T23:25:54.380Z",
     "canonical:1cb06eb7b801cca8": "2026-06-03T23:25:54.380Z",
-    "canonical:e6bdb083312b822b": "2026-06-03T23:25:54.380Z",
     "canonical:79c6e52573d98b85": "2026-06-03T23:25:54.380Z",
     "canonical:eaa6e19f31ea5055": "2026-06-03T23:25:54.380Z",
     "canonical:365196b713f8c54f": "2026-06-03T23:25:54.380Z",
@@ -1277,7 +1273,9 @@
     "canonical:41f80fd98aa4d522": "2026-06-08T12:06:41.807Z",
     "canonical:031e3abdc8ee9ccc": "2026-06-08T12:06:41.807Z",
     "canonical:ade11c4713d07751": "2026-06-08T12:06:41.807Z",
-    "canonical:5cd1602a447f4b68": "2026-06-08T12:06:41.807Z"
+    "canonical:5cd1602a447f4b68": "2026-06-08T12:06:41.807Z",
+    "canonical:c8e10a577ab2a8bf": "2026-06-08T16:19:44.004Z",
+    "canonical:e57627a9b66b62cf": "2026-06-08T16:19:44.004Z"
   },
   "jobs": [
     {
@@ -1386,10 +1384,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1401,10 +1399,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -2091,10 +2089,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2104,10 +2102,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -9127,20 +9125,6 @@
       ]
     },
     {
-      "id": "canonical:0f90fb3d9d7fcfdb",
-      "title": "Research Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/avride/jobs/4230411009",
-      "location": "Austin, TX",
-      "department": "AI/ML/Data",
-      "company": "Avride",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:f07e66af72bdad8b",
       "title": "Master's Machine Learning Internship - Visual Search",
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7253017",
@@ -11592,19 +11576,6 @@
       ]
     },
     {
-      "id": "canonical:5a5fd738be504405",
-      "title": "AI Enablement Engineer Intern",
-      "url": "https://jobs.jobvite.com/legalzoom/job/oRCaAfwX?nl=1&nl=1&fr=false",
-      "location": "LA / Mountain View, CA",
-      "department": "Software",
-      "company": "LegalZoom",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:103a322744212e14",
       "title": "AI Applied Scientist Intern - Foundational IQ",
       "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Foundational-IQ_P748042",
@@ -13676,19 +13647,6 @@
       ]
     },
     {
-      "id": "canonical:d7b27eb1186aca67",
-      "title": "ESG Data Analyst Intern",
-      "url": "https://apply.workable.com/belmond-uk-ltd/j/D64BE7279D/apply",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "Belmond",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:b0a57a3a31d07f87",
       "title": "Data Engineer Intern - Congressional Data",
       "url": "https://jobs.lever.co/sunwatercapital/7681fd31-8d0b-405c-b0e0-7f8c1c87f3c8/apply",
@@ -13700,19 +13658,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:e6bdb083312b822b",
-      "title": "Data Scientist Intern",
-      "url": "https://careers-cotiviti.icims.com/jobs/19386/job?mobile=true&needsRedirect=false",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "Cotiviti",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -15260,6 +15205,33 @@
       "company": "Sensata",
       "score": 58,
       "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c8e10a577ab2a8bf",
+      "title": "Grid Automation & Software Intern",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041709",
+      "location": "United States",
+      "department": "Software",
+      "company": "GE Vernova",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:e57627a9b66b62cf",
+      "title": "Software Developer Intern",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Software-Developer-Intern_R-00184938-1",
+      "location": "St. Louis, MO",
+      "department": "Software",
+      "company": "Leidos",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
         "direct ATS"
       ]
     },

@@ -1,6 +1,6 @@
 # Open Internships
 
-**1274** internships across **63/64** companies — last updated 2026-06-08.
+**1272** internships across **63/64** companies — last updated 2026-06-08.
 
 ## Companies
 
@@ -56,7 +56,7 @@
 - [Avanade](#avanade) (1)
 - [Avathon](#avathon) (1)
 - [Avery Dennison](#avery-dennison) (1)
-- [Avride](#avride) (2)
+- [Avride](#avride) (1)
 - [Axiomatic AI](#axiomatic-ai) (2)
 - [AXQ Capital](#axq-capital) (1)
 - [Axway](#axway) (2)
@@ -66,7 +66,6 @@
 - [Barkback](#barkback) (1)
 - [Base Power](#base-power) (4)
 - [beBeeManufacturingEngineering](#bebeemanufacturingengineering) (1)
-- [Belmond](#belmond) (1)
 - [Berkshire Hathaway Energy](#berkshire-hathaway-energy) (5)
 - [BillionToOne](#billiontoone) (1)
 - [Black Box](#black-box) (2)
@@ -121,7 +120,7 @@
 - [Cook Group](#cook-group) (3)
 - [Corning](#corning) (1)
 - [CoStar Group](#costar-group) (1)
-- [Cotiviti](#cotiviti) (4)
+- [Cotiviti](#cotiviti) (3)
 - [Creatify Lab ](#creatify-lab) (1)
 - [Crest Industries](#crest-industries) (1)
 - [Cresta](#cresta) (2)
@@ -192,7 +191,7 @@
 - [FourKites](#fourkites) (1)
 - [FOX](#fox) (1)
 - [Fred Hutchinson Cancer Center](#fred-hutchinson-cancer-center) (1)
-- [GE Vernova](#ge-vernova) (4)
+- [GE Vernova](#ge-vernova) (5)
 - [Gelber Group](#gelber-group) (5)
 - [Gemini](#gemini) (1)
 - [GenBio AI](#genbio-ai) (1)
@@ -278,8 +277,7 @@
 - [Lambda](#lambda) (3)
 - [Landis+Gyr](#landis-gyr) (1)
 - [Layup Parts](#layup-parts) (1)
-- [LegalZoom](#legalzoom) (1)
-- [Leidos](#leidos) (1)
+- [Leidos](#leidos) (2)
 - [Lensa](#lensa) (3)
 - [LinkedIn](#linkedin) (3)
 - [LiveRamp](#liveramp) (3)
@@ -900,7 +898,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Machine Learning Engineer Intern](https://job-boards.greenhouse.io/avride/jobs/4230374009) | 93 | Austin, TX | AI/ML/Data | 2026-05-09 |
-| [Research Engineer Intern](https://job-boards.greenhouse.io/avride/jobs/4230411009) | 93 | Austin, TX | AI/ML/Data | 2026-05-09 |
 
 ## Axiomatic AI
 
@@ -968,12 +965,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Manufacturing Engineering Internship for Summer 2026](https://us.bebee.com/job/8d5893a024a720602b9c4d9162d87d66?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 42 | Lafayette, IN | — | 2026-05-16 |
-
-## Belmond
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [ESG Data Analyst Intern](https://apply.workable.com/belmond-uk-ltd/j/D64BE7279D/apply) | 68 | London, UK | AI/ML/Data | 2026-06-03 |
 
 ## Berkshire Hathaway Energy
 
@@ -1378,7 +1369,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Data Scientist Intern](https://careers-cotiviti.icims.com/jobs/19386/job?mobile=true&needsRedirect=false) | 85 | Remote in USA | AI/ML/Data | 2026-06-03 |
 | [Generative AI Developer Intern](https://careers-cotiviti.icims.com/jobs/19214/job?mobile=true&needsRedirect=false) | 85 | Remote in USA | AI/ML/Data | 2026-06-01 |
 | [Generative AI Research Engineer Intern](https://careers-cotiviti.icims.com/jobs/18972/job?mobile=true&needsRedirect=false) | 85 | Remote in USA | AI/ML/Data | 2026-05-28 |
 | [Generative AI/Agentic AI/Research Intern](https://careers-cotiviti.icims.com/jobs/18929/job?mobile=true&needsRedirect=false) | 60 | Remote in USA | AI/ML/Data | 2026-05-09 |
@@ -1842,6 +1832,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Grid Automation & Software Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041709) | 68 | United States | Software | 2026-06-08 |
 | [Data Analyst Intern - Competency Management](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Stafford/Data-Analyst-Intern---Competency-Management_R5044024) | 68 | Stoke-on-Trent, UK | AI/ML/Data | 2026-06-05 |
 | [GE Vernova Grid Solutions Supply Chain Manufacturing Internship - Summer 2026](https://www.linkedin.com/jobs/view/4271049276) | 42 | Clearwater, FL | — | 2026-05-16 |
 | [AI Agents for Physics-Based Gas Turbine Design Tools Intern](https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-Graduate-Intern---AI-Agents-for-Physics-Based-Gas-Turbine-Design-Tools---Summer-2026_R5022706-1) | 68 | Greenville, SC | Data Science, AI & Machine Learning | 2026-05-09 |
@@ -2142,8 +2133,8 @@
 | --- | --- | --- | --- | --- |
 | [Graduate Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4888622101) | 64 | Mumbai, India | — | 2026-06-08 |
 | [Hardware Machine Learning PhD Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, IL | AI/ML/Data | 2026-05-09 |
-| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
+| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Hardware Machine Learning PhD Research Internship](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, United States | — | 2026-05-06 |
 | [Graduate Floor Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4786701101) | 64 | Chicago, United States; Miami, United States; New York, United States; Philadelphia, United States; San Francisco, United States | — | 2026-05-06 |
 | [Graduate Site Reliability Engineer, 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4540358101) | 64 | Sydney,  Australia | — | 2026-05-06 |
@@ -2405,16 +2396,11 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](https://jobs.lever.co/layup/0b42f7ad-ebdc-4b4a-8fe6-47640f6dba53/apply) | 68 | Huntington Beach, CA | Software | 2026-05-09 |
 
-## LegalZoom
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI Enablement Engineer Intern](https://jobs.jobvite.com/legalzoom/job/oRCaAfwX?nl=1&nl=1&fr=false) | 85 | LA / Mountain View, CA | Software | 2026-05-28 |
-
 ## Leidos
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Developer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Software-Developer-Intern_R-00184938-1) | 93 | St. Louis, MO | Software | 2026-06-08 |
 | [Software Engineer Intern - DevOps](https://leidos.wd5.myworkdayjobs.com/External/job/Poulsbo-WA/Software-Engineer-Intern--DevOps-_R-00184709) | 93 | Poulsbo, WA | Software | 2026-06-03 |
 
 ## Lensa
@@ -3633,8 +3619,8 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [PhD Data Scientist Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | Seattle, WA / SF / Chicago, IL / NYC | AI/ML/Data | 2026-06-06 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | 56 | Mexico City, Mexico | — | 2026-05-06 |
