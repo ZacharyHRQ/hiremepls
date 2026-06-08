@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-08T16:19:44.004Z",
+  "generatedAt": "2026-06-08T18:40:08.303Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1272,
+  "jobCount": 1267,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -545,7 +545,6 @@
     "canonical:f87b39cd27f4fcfc": "2026-05-09T15:28:15.527Z",
     "canonical:ae2cb67483530a53": "2026-05-13T23:40:40.818Z",
     "canonical:1cc697a29d74132a": "2026-05-09T15:28:15.527Z",
-    "canonical:c3a5eb06808e55a7": "2026-05-09T15:28:15.527Z",
     "canonical:f07e66af72bdad8b": "2026-05-09T15:28:15.527Z",
     "canonical:a9776b9ae0321db7": "2026-05-09T15:28:15.527Z",
     "canonical:03c15902ae6e4726": "2026-05-09T15:28:15.527Z",
@@ -645,7 +644,6 @@
     "canonical:05df72f4403dd476": "2026-05-14T05:32:10.854Z",
     "canonical:888e5e3e8bc2dfab": "2026-05-14T05:32:10.854Z",
     "canonical:b5afd52c0570a527": "2026-05-14T05:32:10.854Z",
-    "canonical:f3a92b5cc46dc879": "2026-05-14T05:32:10.854Z",
     "canonical:211f8c8f1543e4ac": "2026-05-14T05:32:10.854Z",
     "canonical:1433ae58ceb11aaa": "2026-05-14T12:16:09.293Z",
     "canonical:621773561875f0d2": "2026-05-14T15:03:17.159Z",
@@ -1001,7 +999,6 @@
     "canonical:dc784fbedc1313dc": "2026-05-27T17:38:56.111Z",
     "canonical:4c90073ef9333aec": "2026-05-27T17:38:56.111Z",
     "canonical:047093c92a72e395": "2026-05-27T17:38:56.111Z",
-    "canonical:6b3fc3453374f44d": "2026-05-27T17:38:56.111Z",
     "canonical:5356f8a7b55607a4": "2026-05-27T17:38:56.111Z",
     "canonical:69e898a891b2f5e1": "2026-05-27T17:38:56.111Z",
     "canonical:dde05a729f5089a8": "2026-05-27T17:38:56.111Z",
@@ -1126,7 +1123,6 @@
     "canonical:05c887e611c8ad21": "2026-06-03T23:25:54.380Z",
     "canonical:14e229ef022c8134": "2026-06-03T23:25:54.380Z",
     "canonical:3b6ea3230a1f6040": "2026-06-03T23:25:54.380Z",
-    "canonical:9ab552df3e1e6fd7": "2026-06-03T23:25:54.380Z",
     "canonical:15c9ad54e5b37301": "2026-06-03T23:25:54.380Z",
     "canonical:51c9b4da188261da": "2026-06-03T23:25:54.380Z",
     "canonical:d722800642b2ff9f": "2026-06-03T23:25:54.380Z",
@@ -1142,7 +1138,6 @@
     "canonical:7ff4f5a09ec23d64": "2026-06-04T22:43:20.014Z",
     "canonical:b2595de9378567ba": "2026-06-04T22:43:20.014Z",
     "canonical:19e4c96b6af5406c": "2026-06-04T22:43:20.014Z",
-    "canonical:7561f8e1c213eb1f": "2026-06-04T22:43:20.014Z",
     "canonical:ab4611fdb6793a47": "2026-06-04T23:50:18.472Z",
     "canonical:029eb3cf2b108240": "2026-06-04T23:50:18.472Z",
     "canonical:08a2d633c2ef1b09": "2026-06-04T23:50:18.472Z",
@@ -1714,10 +1709,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1728,10 +1723,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -2089,10 +2084,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2102,10 +2097,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -9111,20 +9106,6 @@
       ]
     },
     {
-      "id": "canonical:c3a5eb06808e55a7",
-      "title": "Machine Learning Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/avride/jobs/4230374009",
-      "location": "Austin, TX",
-      "department": "AI/ML/Data",
-      "company": "Avride",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:f07e66af72bdad8b",
       "title": "Master's Machine Learning Internship - Visual Search",
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7253017",
@@ -10639,19 +10620,6 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:f3a92b5cc46dc879",
-      "title": "AI Agent Data Pipeline Intern",
-      "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8548990002",
-      "location": "Santa Clara, CA",
-      "department": "AI/ML/Data",
-      "company": "XPENG Motors",
-      "score": 68,
-      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
@@ -12533,16 +12501,6 @@
       ]
     },
     {
-      "id": "canonical:6b3fc3453374f44d",
-      "title": "Simulation Tech Intern",
-      "url": "https://jobs-bylight.icims.com/jobs/11008/job?mobile=true&needsRedirect=false",
-      "location": "Jacksonville, NC",
-      "department": "Hardware",
-      "company": "By Light Professional IT Services",
-      "score": 50,
-      "scoreReasons": []
-    },
-    {
       "id": "canonical:5356f8a7b55607a4",
       "title": "Research Engineer Intern",
       "url": "https://jobs.lever.co/plus-2/5f066e92-3ca3-4c04-ae21-2377352166ca/apply",
@@ -13767,20 +13725,6 @@
       ]
     },
     {
-      "id": "canonical:9ab552df3e1e6fd7",
-      "title": "Software Engineer Intern - DevOps",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Poulsbo-WA/Software-Engineer-Intern--DevOps-_R-00184709",
-      "location": "Poulsbo, WA",
-      "department": "Software",
-      "company": "Leidos",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:180d901e190fbd63",
       "title": "Associate Intern",
       "url": "https://centerstone.wd5.myworkdayjobs.com/centerstonecareers/job/Bloomington-Indiana/Associate-Level-Intern_JR-031784",
@@ -13923,19 +13867,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:7561f8e1c213eb1f",
-      "title": "Data Coordinator Intern",
-      "url": "https://jeffersonhealth.wd5.myworkdayjobs.com/ThomasJeffersonExternal/job/Philadelphia-PA/Intern_REQ-0030269-1",
-      "location": "Philadelphia, PA",
-      "department": "AI/ML/Data",
-      "company": "Jefferson Health",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {

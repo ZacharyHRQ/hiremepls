@@ -1,6 +1,6 @@
 # Open Internships
 
-**1272** internships across **63/64** companies — last updated 2026-06-08.
+**1267** internships across **63/64** companies — last updated 2026-06-08.
 
 ## Companies
 
@@ -56,7 +56,6 @@
 - [Avanade](#avanade) (1)
 - [Avathon](#avathon) (1)
 - [Avery Dennison](#avery-dennison) (1)
-- [Avride](#avride) (1)
 - [Axiomatic AI](#axiomatic-ai) (2)
 - [AXQ Capital](#axq-capital) (1)
 - [Axway](#axway) (2)
@@ -86,7 +85,7 @@
 - [BrightAI](#brightai) (1)
 - [Brookfield](#brookfield) (1)
 - [Brunswick](#brunswick) (1)
-- [By Light Professional IT Services](#by-light-professional-it-services) (2)
+- [By Light Professional IT Services](#by-light-professional-it-services) (1)
 - [ByteDance](#bytedance) (29)
 - [Cadence Design Systems](#cadence-design-systems) (3)
 - [CAE](#cae) (1)
@@ -256,7 +255,6 @@
 - [iTradeNetwork](#itradenetwork) (1)
 - [Ivy Tech Community College](#ivy-tech-community-college) (1)
 - [Jain Global](#jain-global) (1)
-- [Jefferson Health](#jefferson-health) (1)
 - [JINGDONG](#jingdong) (1)
 - [JP Morgan Chase](#jp-morgan-chase) (3)
 - [Jump Trading](#jump-trading) (2)
@@ -277,7 +275,7 @@
 - [Lambda](#lambda) (3)
 - [Landis+Gyr](#landis-gyr) (1)
 - [Layup Parts](#layup-parts) (1)
-- [Leidos](#leidos) (2)
+- [Leidos](#leidos) (1)
 - [Lensa](#lensa) (3)
 - [LinkedIn](#linkedin) (3)
 - [LiveRamp](#liveramp) (3)
@@ -513,7 +511,7 @@
 - [Workato](#workato) (1)
 - [WSP](#wsp) (1)
 - [WTW](#wtw) (1)
-- [XPENG Motors](#xpeng-motors) (3)
+- [XPENG Motors](#xpeng-motors) (2)
 - [Zillow](#zillow) (3)
 - [Zip](#zip) (1)
 - [Zipline](#zipline) (2)
@@ -893,12 +891,6 @@
 | --- | --- | --- | --- | --- |
 | [Finance Intern](https://www.linkedin.com/jobs/view/4277230317) | 42 | Mentor, OH | — | 2026-05-16 |
 
-## Avride
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Machine Learning Engineer Intern](https://job-boards.greenhouse.io/avride/jobs/4230374009) | 93 | Austin, TX | AI/ML/Data | 2026-05-09 |
-
 ## Axiomatic AI
 
 | Title | Score | Location | Department | First seen |
@@ -1097,7 +1089,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Simulation Tech Intern](https://jobs-bylight.icims.com/jobs/11008/job?mobile=true&needsRedirect=false) | 50 | Jacksonville, NC | Hardware | 2026-05-27 |
 | [AI Intern](https://jobs-bylight.icims.com/jobs/10965/job?mobile=true&needsRedirect=false) | 60 | Hanover, MD | Software | 2026-05-14 |
 
 ## ByteDance
@@ -2257,12 +2248,6 @@
 | --- | --- | --- | --- | --- |
 | [Quant Research Intern](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/London-Office/Quant-Research-Intern--Summer-2026---London-_JR100353-1) | 68 | London, UK | Quant | 2026-05-09 |
 
-## Jefferson Health
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Coordinator Intern](https://jeffersonhealth.wd5.myworkdayjobs.com/ThomasJeffersonExternal/job/Philadelphia-PA/Intern_REQ-0030269-1) | 68 | Philadelphia, PA | AI/ML/Data | 2026-06-04 |
-
 ## JINGDONG
 
 | Title | Score | Location | Department | First seen |
@@ -2401,7 +2386,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Developer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Software-Developer-Intern_R-00184938-1) | 93 | St. Louis, MO | Software | 2026-06-08 |
-| [Software Engineer Intern - DevOps](https://leidos.wd5.myworkdayjobs.com/External/job/Poulsbo-WA/Software-Engineer-Intern--DevOps-_R-00184709) | 93 | Poulsbo, WA | Software | 2026-06-03 |
 
 ## Lensa
 
@@ -3083,8 +3067,8 @@
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-05-09 |
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-05-09 |
 | [2026 Technology Internship – Software Engineer](https://boards.greenhouse.io/point72/jobs/8406727002?gh_jid=8406727002) | 93 | Warsaw, Poland | — | 2026-05-06 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -3619,8 +3603,8 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [PhD Data Scientist Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | Seattle, WA / SF / Chicago, IL / NYC | AI/ML/Data | 2026-06-06 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | 56 | Mexico City, Mexico | — | 2026-05-06 |
@@ -4331,7 +4315,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [AI Infrastructure Onboard Performance Intern](https://job-boards.greenhouse.io/xpengmotors/jobs/8581353002) | 68 | Santa Clara, CA | AI/ML/Data | 2026-06-06 |
-| [AI Agent Data Pipeline Intern](https://job-boards.greenhouse.io/xpengmotors/jobs/8548990002) | 68 | Santa Clara, CA | AI/ML/Data | 2026-05-14 |
 | [VLA Deployment AI Intern](https://job-boards.greenhouse.io/xpengmotors/jobs/8535409002) | 58 | Santa Clara, CA | Hardware | 2026-05-09 |
 
 ## Zillow
