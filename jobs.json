@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-07T23:44:24.230Z",
+  "generatedAt": "2026-06-08T02:01:37.911Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1274,
+  "jobCount": 1272,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -226,7 +226,6 @@
     "canonical:c3d67ed0a9a17909": "2026-05-09T15:28:15.527Z",
     "canonical:20ece0c72d9ebfbd": "2026-05-09T15:28:15.527Z",
     "canonical:3f17d0aa96ce7a07": "2026-05-09T15:28:15.527Z",
-    "canonical:c8e0a5583a96855e": "2026-05-09T15:28:15.527Z",
     "canonical:a9091112dc9c9132": "2026-05-09T15:28:15.527Z",
     "canonical:413dd4595adc13b0": "2026-05-09T15:28:15.527Z",
     "canonical:c93a16db6b5f253b": "2026-05-09T15:28:15.527Z",
@@ -1211,7 +1210,6 @@
     "canonical:a98b1aa946348c37": "2026-06-06T12:15:10.399Z",
     "canonical:9992c8a0a830a9f3": "2026-06-06T14:14:20.078Z",
     "canonical:f5d84370157fe2ee": "2026-06-06T14:14:20.078Z",
-    "canonical:d169889b306cd343": "2026-06-06T14:14:20.078Z",
     "canonical:180d901e190fbd63": "2026-06-06T14:14:20.078Z",
     "canonical:2b95c48ea9f5b253": "2026-06-06T14:14:20.078Z",
     "canonical:ce890d51c1a61aab": "2026-06-06T14:14:20.078Z",
@@ -4293,19 +4291,6 @@
       "score": 75,
       "scoreReasons": [
         "SWE-aligned"
-      ]
-    },
-    {
-      "id": "canonical:c8e0a5583a96855e",
-      "title": "Software Engineer PhD Intern - Streaming Algorithms - Summer 2026",
-      "url": "https://explore.jobs.netflix.net/careers/job/790313241540",
-      "location": "Los Gatos, CA",
-      "department": "Software",
-      "company": "Netflix",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -13234,18 +13219,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:d169889b306cd343",
-      "title": "Business and Data Intern - Membership Program",
-      "url": "https://main-princeton.icims.com/jobs/21888/job?mobile=true&needsRedirect=false",
-      "location": "Princeton, NJ",
-      "department": "AI/ML/Data",
-      "company": "Princeton University",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {

@@ -1,6 +1,6 @@
 # Open Internships
 
-**1274** internships across **63/64** companies — last updated 2026-06-07.
+**1272** internships across **63/64** companies — last updated 2026-06-08.
 
 ## Companies
 
@@ -324,7 +324,6 @@
 - [Nash](#nash) (2)
 - [Nationwide Children's Hospital](#nationwide-children-s-hospital) (2)
 - [NBCUniversal](#nbcuniversal) (2)
-- [Netflix](#netflix) (1)
 - [Neuralink](#neuralink) (3)
 - [NewsBreak](#newsbreak) (4)
 - [Nidec](#nidec) (1)
@@ -370,7 +369,6 @@
 - [Point72](#point72) (22)
 - [Poshmark](#poshmark) (1)
 - [Primetals Technologies](#primetals-technologies) (1)
-- [Princeton University](#princeton-university) (1)
 - [Prior Labs](#prior-labs) (1)
 - [Prologis](#prologis) (1)
 - [Prosper Funding](#prosper-funding) (1)
@@ -2773,12 +2771,6 @@
 | [Software Engineering Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000121851427) | 68 | Universal City, CA | — | 2026-05-09 |
 | [Software Engineering Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000121848194) | 68 | New York, NY | — | 2026-05-09 |
 
-## Netflix
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer PhD Intern - Streaming Algorithms - Summer 2026](https://explore.jobs.netflix.net/careers/job/790313241540) | 85 | Los Gatos, CA | Software | 2026-05-09 |
-
 ## Neuralink
 
 | Title | Score | Location | Department | First seen |
@@ -3151,12 +3143,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Product Line Management Associate Intern](https://mhicareers.com/job/Orlando-Product-Line-Management-Associate-(Internship)-FL-32809/1389987633/?ats=successfactors) | 50 | Orlando, FL | Product | 2026-05-27 |
-
-## Princeton University
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Business and Data Intern - Membership Program](https://main-princeton.icims.com/jobs/21888/job?mobile=true&needsRedirect=false) | 60 | Princeton, NJ | AI/ML/Data | 2026-06-06 |
 
 ## Prior Labs
 
