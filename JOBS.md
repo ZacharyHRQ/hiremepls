@@ -1,6 +1,6 @@
 # Open Internships
 
-**1272** internships across **63/64** companies — last updated 2026-06-08.
+**1277** internships across **63/64** companies — last updated 2026-06-08.
 
 ## Companies
 
@@ -104,7 +104,6 @@
 - [Cisive](#cisive) (1)
 - [Citadel](#citadel) (4)
 - [Citadel Securities](#citadel-securities) (3)
-- [City of Austin](#city-of-austin) (1)
 - [City of Largo](#city-of-largo) (1)
 - [Clarity Innovations](#clarity-innovations) (1)
 - [Clarivate](#clarivate) (1)
@@ -116,7 +115,7 @@
 - [Cole Engineering Services](#cole-engineering-services) (1)
 - [Colgate-Palmolive](#colgate-palmolive) (1)
 - [Collabera](#collabera) (1)
-- [Commonwealth of Massachusetts](#commonwealth-of-massachusetts) (10)
+- [Commonwealth of Massachusetts](#commonwealth-of-massachusetts) (8)
 - [Conagra Brands](#conagra-brands) (2)
 - [ConnectPrep](#connectprep) (1)
 - [Context](#context) (1)
@@ -183,7 +182,6 @@
 - [Figure](#figure) (1)
 - [Fiserv](#fiserv) (2)
 - [Five Rings](#five-rings) (1)
-- [Fizz](#fizz) (1)
 - [Fluxergy](#fluxergy) (1)
 - [FNBO](#fnbo) (1)
 - [Formlabs](#formlabs) (3)
@@ -291,7 +289,7 @@
 - [Lyft](#lyft) (1)
 - [Mach9](#mach9) (1)
 - [Maersk](#maersk) (1)
-- [Magna](#magna) (1)
+- [Magna](#magna) (2)
 - [Magnite](#magnite) (3)
 - [Maher Duessel](#maher-duessel) (1)
 - [MaintainX](#maintainx) (1)
@@ -437,7 +435,7 @@
 - [Stantec](#stantec) (1)
 - [StarSling](#starsling) (1)
 - [Stash](#stash) (1)
-- [State Street](#state-street) (2)
+- [State Street](#state-street) (1)
 - [Stevens Capital Management](#stevens-capital-management) (1)
 - [Stoke Space](#stoke-space) (1)
 - [Stripe](#stripe) (7)
@@ -460,7 +458,7 @@
 - [TENEX.AI](#tenex-ai) (1)
 - [Tenstorrent](#tenstorrent) (6)
 - [Terranox AI](#terranox-ai) (1)
-- [Tesla](#tesla) (81)
+- [Tesla](#tesla) (90)
 - [Tessera Labs](#tessera-labs) (1)
 - [TETRAMEM](#tetramem) (1)
 - [The Boeing Company](#the-boeing-company) (1)
@@ -1247,12 +1245,6 @@
 | [Quantitative Researcher Engineer – PhD Intern - Europe](https://www.citadelsecurities.com/careers/details/quantitative-researcher-engineer-phd-intern-europe/) | 85 | London, UK | Quant | 2026-05-09 |
 | [Launch Intern - US](https://www.citadelsecurities.com/careers/details/launch-intern-us/) | 60 | Miami, FL / NYC | Software | 2026-05-09 |
 
-## City of Austin
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Aviation Intern - IT](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/AUS-Information-Systems-Building-IS/Austin-Aviation--Veteran-Intern--IT--Hire-in-Process-please-do-not-apply--By-Invitation-Only_JR104108) | 68 | Austin, TX | AI/ML/Data | 2026-06-05 |
-
 ## City of Largo
 
 | Title | Score | Location | Department | First seen |
@@ -1287,7 +1279,7 @@
 | [People Operations Intern (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7855832?gh_jid=7855832) | 58 | In-Office | — | 2026-05-06 |
 | [People Team Business Partner intern (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7855864?gh_jid=7855864) | 58 | In-Office | — | 2026-05-06 |
 | [Public Policy Intern, APJC (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7863831?gh_jid=7863831) | 58 | In-Office | — | 2026-05-06 |
-| [Technical Support Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7726977?gh_jid=7726977) | 58 | In-Office | — | 2026-05-06 |
+| [Technical Support Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879) | 58 | In-Office | — | 2026-05-06 |
 | [Threat Detection and Incident Response Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7577205?gh_jid=7577205) | 58 | In-Office | — | 2026-05-06 |
 | [Business Analyst Intern, Marketing (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7729700?gh_jid=7729700) | 38 | In-Office | — | 2026-05-06 |
 | [Sales: Solutions Engineer - Intern (Summer & Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7792962?gh_jid=7792962) | 38 | In-Office | — | 2026-05-06 |
@@ -1342,11 +1334,9 @@
 | --- | --- | --- | --- | --- |
 | [Contracted Student Intern - Child - Youth and Family](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=2600034F) | 60 | Boston, MA | AI/ML/Data | 2026-05-27 |
 | [Student Intern](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260003KB) | 60 | Massachusetts | AI/ML/Data | 2026-05-27 |
-| [Contracted Student Intern - Commissioner’s Office](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260003HE) | 60 | Boston, MA | AI/ML/Data | 2026-05-27 |
 | [Medicaid Management Information Systems Knowledge Management Intern - Medicaid Management Information Systems - Artificial Intelligence](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260003GT) | 60 | Quincy, MA | AI/ML/Data | 2026-05-14 |
 | [Student Investigations Intern](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260002YD) | 60 | Boston, MA | AI/ML/Data | 2026-05-11 |
 | [Aeronautics Drone Intern](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=26000160) | 60 | Boston, MA | AI/ML/Data | 2026-05-09 |
-| [Contracted Student Intern - Human Rights](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260003D5) | 60 | Boston, MA | AI/ML/Data | 2026-05-09 |
 | [Intern - Data Analytics](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=26000268) | 60 | Massachusetts | AI/ML/Data | 2026-05-09 |
 | [Intern - Quality Assurance](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=2600023O) | 60 | Massachusetts | AI/ML/Data | 2026-05-09 |
 | [RMV Crash Data Analytics Intern/Co-op](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=26000181) | 60 | Massachusetts | AI/ML/Data | 2026-05-09 |
@@ -1786,12 +1776,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Summer Intern 2026 - Software Developer](https://job-boards.greenhouse.io/fiveringsllc/jobs/4806713008) | 93 | New York | — | 2026-05-16 |
-
-## Fizz
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineering Intern - Multiple Teams](https://jobs.ashbyhq.com/fizz/c33b0bb7-d87f-4666-8622-36604fe10b20/application) | 68 | NYC | Software | 2026-05-09 |
 
 ## Fluxergy
 
@@ -2498,6 +2482,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Engineer Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Holland-Michigan-US/Engineering-Intern---Summer-2026_R00225679) | 85 | Holland, MI | AI/ML/Data | 2026-06-08 |
 | [Engineering ADAS Perception Features Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235438) | 60 | Auburn Hills, MI | AI/ML/Data | 2026-06-01 |
 
 ## Magnite
@@ -3619,7 +3604,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer Intern - Intern](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer-Intern--6-Month-intern--July--Dec_R-787596) | 93 | Burlington, MA | Software | 2026-06-04 |
 | [Business Architecture & Agentic Automation Intern](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Business-Architecture---Agentic-Automation--6-Months-Full-time-Internship--Jul--Dec-2026-_R-789474) | 68 | Boston, MA | Software | 2026-05-09 |
 
 ## Stevens Capital Management
@@ -3639,8 +3623,8 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [PhD Data Scientist Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | Seattle, WA / SF / Chicago, IL / NYC | AI/ML/Data | 2026-06-06 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | 56 | Mexico City, Mexico | — | 2026-05-06 |
@@ -3791,6 +3775,15 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Automated Diagnostics Intern - Software Engineer](https://www.tesla.com/careers/search/job/270521) | 85 | Palo Alto, CA | Software | 2026-06-08 |
+| [Embedded Software Engineer Intern - Embedded Software Engineer - Body Controls Firmware](https://www.tesla.com/careers/search/job/270618) | 85 | Palo Alto, CA | Hardware | 2026-06-08 |
+| [Embedded Systems Software Engineer Intern - Embedded Systems Software Engineer - AI Platforms](https://www.tesla.com/careers/search/job/270778) | 85 | Palo Alto, CA | Hardware | 2026-06-08 |
+| [Firmware Content Management Intern - Content Integration Engineer - Vehicle Firmware](https://www.tesla.com/careers/search/job/266981) | 85 | Palo Alto, CA | Software | 2026-06-08 |
+| [Firmware Integration Engineer Intern - Software Integration Engineer - Factory Firmware](https://www.tesla.com/careers/search/job/270509) | 85 | Palo Alto, CA | Hardware | 2026-06-08 |
+| [Physics Engine Development Intern - Physics Engine Development Engineer - Optimus](https://www.tesla.com/careers/search/job/257048) | 85 | Palo Alto, CA | Software | 2026-06-08 |
+| [Systems Integration Engineer Intern - Body Controls](https://www.tesla.com/careers/search/job/270617) | 75 | Palo Alto, CA | Hardware | 2026-06-08 |
+| [Energy Engineering Intern - Cost Reduction](https://www.tesla.com/careers/search/job/270511) | 60 | Palo Alto, CA | AI/ML/Data | 2026-06-08 |
+| [Electronic Design Engineer Intern - Optimus](https://www.tesla.com/careers/search/job/271981) | 50 | Palo Alto, CA | Hardware | 2026-06-08 |
 | [AI Inference Engineer Intern - Software Compiler Engineer - AI Inference](https://www.tesla.com/careers/search/job/263211) | 85 | Palo Alto, CA | Software | 2026-06-07 |
 | [AI Performance Engineer Intern - AI Performance Engineer - Performance Optimization](https://www.tesla.com/careers/search/job/263759) | 85 | Palo Alto, CA | AI/ML/Data | 2026-06-07 |
 | [AI Tooling Intern - Fullstack Engineer - AI Tooling](https://www.tesla.com/careers/search/job/269810) | 85 | Palo Alto, CA | Software | 2026-06-07 |

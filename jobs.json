@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-08T02:01:37.911Z",
+  "generatedAt": "2026-06-08T07:01:35.019Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1272,
+  "jobCount": 1277,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -88,7 +88,6 @@
     "canonical:6353eecea9024842": "2026-05-09T15:28:15.527Z",
     "canonical:8fc863f495e5ebf7": "2026-05-09T15:28:15.527Z",
     "canonical:40b5e3e02c34b6ce": "2026-05-09T15:28:15.527Z",
-    "canonical:d84f44faf2a6f55f": "2026-05-09T15:28:15.527Z",
     "canonical:ac5dfc417ca207db": "2026-05-09T15:28:15.527Z",
     "canonical:8533e31ecb24678a": "2026-05-09T15:28:15.527Z",
     "canonical:8a7dca9a60b892fa": "2026-05-09T15:28:15.527Z",
@@ -621,7 +620,6 @@
     "canonical:5cb9ff5d80f675ba": "2026-05-09T15:28:15.527Z",
     "canonical:973793ebb10f49ac": "2026-05-09T15:28:15.527Z",
     "canonical:fb504a6efd3146f5": "2026-05-09T15:28:15.527Z",
-    "canonical:c9d0851b51fe92db": "2026-05-09T15:28:15.527Z",
     "canonical:b5545588e338ddbb": "2026-05-09T15:28:15.527Z",
     "canonical:ae2198c9ecbb102e": "2026-05-11T00:06:33.325Z",
     "canonical:7c9a6f1e70b82f33": "2026-05-09T15:28:15.527Z",
@@ -979,7 +977,6 @@
     "canonical:aaf453fcebecd6b3": "2026-05-27T02:52:54.000Z",
     "canonical:26834ab146689c4d": "2026-05-27T02:52:54.000Z",
     "canonical:089f466a56458f6e": "2026-05-27T02:52:54.000Z",
-    "canonical:106027f85075b086": "2026-05-27T02:52:54.000Z",
     "canonical:967e735cb814bb7d": "2026-05-27T06:54:37.687Z",
     "canonical:30d116b5a98a2933": "2026-05-27T06:54:37.687Z",
     "canonical:4f50987606569140": "2026-05-27T06:54:37.687Z",
@@ -1163,7 +1160,6 @@
     "canonical:fddbe299448f436e": "2026-06-04T23:50:18.472Z",
     "canonical:a44498a12494d8e0": "2026-06-04T23:50:18.472Z",
     "canonical:30eff37a0373d994": "2026-06-04T23:50:18.472Z",
-    "canonical:f328dcf0563c46ce": "2026-06-04T23:50:18.472Z",
     "canonical:1e423a804a7c32cd": "2026-06-04T23:50:18.472Z",
     "canonical:ec7b5f1c953f0acf": "2026-06-04T23:50:18.472Z",
     "canonical:7b565341af2d7a36": "2026-06-04T23:50:18.472Z",
@@ -1188,7 +1184,6 @@
     "canonical:85f4cac0ababd094": "2026-06-05T16:17:30.887Z",
     "canonical:c1817238d89b26e3": "2026-06-05T16:17:30.887Z",
     "canonical:c05b180aaab3907f": "2026-06-05T22:57:55.293Z",
-    "canonical:0bd52ded40247ca6": "2026-06-05T22:57:55.293Z",
     "canonical:541f80cc7a83783e": "2026-06-06T00:04:30.171Z",
     "canonical:1903ea6b0e57aeaa": "2026-06-06T00:04:30.171Z",
     "canonical:0ef865c3ff3f9f5f": "2026-06-06T00:04:30.171Z",
@@ -1275,7 +1270,17 @@
     "canonical:ae8af3486ac3e180": "2026-06-07T09:43:12.130Z",
     "canonical:9153a2e708c3ca4b": "2026-06-07T09:43:12.130Z",
     "canonical:e1fc578a71540223": "2026-06-07T09:43:12.130Z",
-    "canonical:8c45020d76e40a27": "2026-06-07T17:38:54.843Z"
+    "canonical:8c45020d76e40a27": "2026-06-07T17:38:54.843Z",
+    "canonical:681b4aad01eba811": "2026-06-08T07:01:35.019Z",
+    "canonical:6a31e02dabc1e1c0": "2026-06-08T07:01:35.019Z",
+    "canonical:ed3091faa90e59ef": "2026-06-08T07:01:35.019Z",
+    "canonical:e8d4f3f5b0ae7484": "2026-06-08T07:01:35.019Z",
+    "canonical:3c2241277ec670ab": "2026-06-08T07:01:35.019Z",
+    "canonical:782cfcad8628b60f": "2026-06-08T07:01:35.019Z",
+    "canonical:a8bc56e49007ff5d": "2026-06-08T07:01:35.019Z",
+    "canonical:5954b7a93f23c25a": "2026-06-08T07:01:35.019Z",
+    "canonical:1481a0cfd05258a3": "2026-06-08T07:01:35.019Z",
+    "canonical:082c98da379135c8": "2026-06-08T07:01:35.019Z"
   },
   "jobs": [
     {
@@ -2076,10 +2081,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2089,10 +2094,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2451,7 +2456,7 @@
     {
       "id": "canonical:31dd1ab15c427f1e",
       "title": "Technical Support Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726977?gh_jid=7726977",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -2540,19 +2545,6 @@
       "company": "Cribl",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:d84f44faf2a6f55f",
-      "title": "Software Engineering Intern - Multiple Teams",
-      "url": "https://jobs.ashbyhq.com/fizz/c33b0bb7-d87f-4666-8622-36604fe10b20/application",
-      "location": "NYC",
-      "department": "Software",
-      "company": "Fizz",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
     },
     {
       "id": "canonical:ac5dfc417ca207db",
@@ -8176,20 +8168,6 @@
       ]
     },
     {
-      "id": "canonical:f328dcf0563c46ce",
-      "title": "Software Engineer Intern - Intern",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer-Intern--6-Month-intern--July--Dec_R-787596",
-      "location": "Burlington, MA",
-      "department": "Software",
-      "company": "State Street",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:b765ab2f9f11d895",
       "title": "Software Engineer Intern - Machine Learning",
       "url": "https://www.itradenetwork.com/jobs/5171428008?gh_jid=5171428008",
@@ -10308,18 +10286,6 @@
       ]
     },
     {
-      "id": "canonical:c9d0851b51fe92db",
-      "title": "Contracted Student Intern - Human Rights",
-      "url": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260003D5",
-      "location": "Boston, MA",
-      "department": "AI/ML/Data",
-      "company": "Commonwealth of Massachusetts",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:9a2e2f8f76500ed1",
       "title": "Software Engineering Intern",
       "url": "https://kla.wd1.myworkdayjobs.com/AnnArbor/job/Ann-Arbor-MI/Software-Engineering-Intern_2531653",
@@ -12282,18 +12248,6 @@
       "location": "Tampa, FL",
       "department": "AI/ML/Data",
       "company": "Grow Financial Federal Credit Union",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:106027f85075b086",
-      "title": "Contracted Student Intern - Commissioner’s Office",
-      "url": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260003HE",
-      "location": "Boston, MA",
-      "department": "AI/ML/Data",
-      "company": "Commonwealth of Massachusetts",
       "score": 60,
       "scoreReasons": [
         "high-signal role"
@@ -14345,19 +14299,6 @@
       ]
     },
     {
-      "id": "canonical:0bd52ded40247ca6",
-      "title": "Aviation Intern - IT",
-      "url": "https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/AUS-Information-Systems-Building-IS/Austin-Aviation--Veteran-Intern--IT--Hire-in-Process-please-do-not-apply--By-Invitation-Only_JR104108",
-      "location": "Austin, TX",
-      "department": "AI/ML/Data",
-      "company": "City of Austin",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:1903ea6b0e57aeaa",
       "title": "Generative AI Engineer Intern",
       "url": "https://careers-peraton.icims.com/jobs/167460/job?mobile=true&needsRedirect=false",
@@ -15243,6 +15184,131 @@
       "score": 75,
       "scoreReasons": [
         "SWE-aligned"
+      ]
+    },
+    {
+      "id": "canonical:681b4aad01eba811",
+      "title": "Physics Engine Development Intern - Physics Engine Development Engineer - Optimus",
+      "url": "https://www.tesla.com/careers/search/job/257048",
+      "location": "Palo Alto, CA",
+      "department": "Software",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:6a31e02dabc1e1c0",
+      "title": "Electronic Design Engineer Intern - Optimus",
+      "url": "https://www.tesla.com/careers/search/job/271981",
+      "location": "Palo Alto, CA",
+      "department": "Hardware",
+      "company": "Tesla",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:ed3091faa90e59ef",
+      "title": "Energy Engineering Intern - Cost Reduction",
+      "url": "https://www.tesla.com/careers/search/job/270511",
+      "location": "Palo Alto, CA",
+      "department": "AI/ML/Data",
+      "company": "Tesla",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:e8d4f3f5b0ae7484",
+      "title": "Embedded Software Engineer Intern - Embedded Software Engineer - Body Controls Firmware",
+      "url": "https://www.tesla.com/careers/search/job/270618",
+      "location": "Palo Alto, CA",
+      "department": "Hardware",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:3c2241277ec670ab",
+      "title": "Systems Integration Engineer Intern - Body Controls",
+      "url": "https://www.tesla.com/careers/search/job/270617",
+      "location": "Palo Alto, CA",
+      "department": "Hardware",
+      "company": "Tesla",
+      "score": 75,
+      "scoreReasons": [
+        "SWE-aligned"
+      ]
+    },
+    {
+      "id": "canonical:782cfcad8628b60f",
+      "title": "Embedded Systems Software Engineer Intern - Embedded Systems Software Engineer - AI Platforms",
+      "url": "https://www.tesla.com/careers/search/job/270778",
+      "location": "Palo Alto, CA",
+      "department": "Hardware",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:a8bc56e49007ff5d",
+      "title": "Firmware Integration Engineer Intern - Software Integration Engineer - Factory Firmware",
+      "url": "https://www.tesla.com/careers/search/job/270509",
+      "location": "Palo Alto, CA",
+      "department": "Hardware",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:5954b7a93f23c25a",
+      "title": "Automated Diagnostics Intern - Software Engineer",
+      "url": "https://www.tesla.com/careers/search/job/270521",
+      "location": "Palo Alto, CA",
+      "department": "Software",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:1481a0cfd05258a3",
+      "title": "Firmware Content Management Intern - Content Integration Engineer - Vehicle Firmware",
+      "url": "https://www.tesla.com/careers/search/job/266981",
+      "location": "Palo Alto, CA",
+      "department": "Software",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:082c98da379135c8",
+      "title": "Engineer Intern",
+      "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Holland-Michigan-US/Engineering-Intern---Summer-2026_R00225679",
+      "location": "Holland, MI",
+      "department": "AI/ML/Data",
+      "company": "Magna",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
