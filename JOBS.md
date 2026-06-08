@@ -1,6 +1,6 @@
 # Open Internships
 
-**1261** internships across **63/64** companies — last updated 2026-06-08.
+**1256** internships across **63/64** companies — last updated 2026-06-08.
 
 ## Companies
 
@@ -138,7 +138,6 @@
 - [Digs](#digs) (1)
 - [DimeHealth AI](#dimehealth-ai) (1)
 - [Direct Supply](#direct-supply) (1)
-- [DNV](#dnv) (1)
 - [Doctors Without Borders](#doctors-without-borders) (1)
 - [Docugami](#docugami) (1)
 - [Dover](#dover) (1)
@@ -166,6 +165,7 @@
 - [Eulerity](#eulerity) (3)
 - [Eurofins](#eurofins) (2)
 - [EV Realty](#ev-realty) (1)
+- [EVERSANA](#eversana) (1)
 - [EXL](#exl) (1)
 - [Expedia Group](#expedia-group) (2)
 - [Facility Solutions Group](#facility-solutions-group) (1)
@@ -193,7 +193,6 @@
 - [GenBio AI](#genbio-ai) (1)
 - [Genentech](#genentech) (2)
 - [General Astronautics](#general-astronautics) (1)
-- [General Dynamics Mission Systems](#general-dynamics-mission-systems) (2)
 - [General Motors](#general-motors) (1)
 - [GenScript](#genscript) (1)
 - [Gensyn](#gensyn) (1)
@@ -291,7 +290,6 @@
 - [Mariana Minerals](#mariana-minerals) (3)
 - [Maricopa Association of Governments (MAG)](#maricopa-association-of-governments-mag) (1)
 - [Marmon Holdings](#marmon-holdings) (1)
-- [Marsh](#marsh) (1)
 - [Marvell](#marvell) (5)
 - [MCG Health](#mcg-health) (1)
 - [Medical Informatics Engineering](#medical-informatics-engineering) (1)
@@ -306,7 +304,7 @@
 - [Metalenz](#metalenz) (1)
 - [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (4)
 - [Microchip Technology](#microchip-technology) (1)
-- [Microsoft](#microsoft) (38)
+- [Microsoft](#microsoft) (37)
 - [MongoDB](#mongodb) (1)
 - [Monolithic Power Systems](#monolithic-power-systems) (2)
 - [Multiply Labs](#multiply-labs) (2)
@@ -403,7 +401,6 @@
 - [Schweitzer Engineering Laboratories](#schweitzer-engineering-laboratories) (1)
 - [Seaspan](#seaspan) (2)
 - [Sensata](#sensata) (1)
-- [SF Giants](#sf-giants) (1)
 - [Shenzhen ANQI SHISHANG Articles Co., ltd.](#shenzhen-anqi-shishang-articles-co-ltd) (1)
 - [SHI International ](#shi-international) (1)
 - [Shopify](#shopify) (1)
@@ -1472,12 +1469,6 @@
 | --- | --- | --- | --- | --- |
 | [Applied AI Intern](https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/Applied-AI-Intern_REQ-2025-2192) | 68 | Milwaukee, WI | AI/ML/Data | 2026-05-17 |
 
-## DNV
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Power BI Developer Intern](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6809) | 85 | Corvallis, OR | AI/ML/Data | 2026-06-01 |
-
 ## Doctors Without Borders
 
 | Title | Score | Location | Department | First seen |
@@ -1664,6 +1655,12 @@
 | --- | --- | --- | --- | --- |
 | [Data Analytics Intern](https://jobs.lever.co/evrealty-us/0274f48f-9b19-4bed-bf6a-5e02a2b1e865/apply) | 68 | Salt Lake City, UT / SF | AI/ML/Data | 2026-05-22 |
 
+## EVERSANA
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Innovative AI Development Intern](https://jobs.smartrecruiters.com/EVERSANA1/744000130882264) | 68 | Chicago, IL | Software | 2026-06-08 |
+
 ## EXL
 
 | Title | Score | Location | Department | First seen |
@@ -1840,13 +1837,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Engineering Intern](https://www.workatastartup.com/jobs/94206) | 56 | San Francisco, CA | — | 2026-05-09 |
-
-## General Dynamics Mission Systems
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Engineer Intern](https://careers-gdms.icims.com/jobs/72863/job?mobile=true&needsRedirect=false) | 85 | Scottsdale, AZ | Software | 2026-06-03 |
-| [Engineer Intern](https://careers-gdms.icims.com/jobs/72556/job?mobile=true&needsRedirect=false) | 85 | Chantilly, VA | Software | 2026-05-21 |
 
 ## General Motors
 
@@ -2487,12 +2477,6 @@
 | --- | --- | --- | --- | --- |
 | [Product Management/Marketing Intern - Summer 2026](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Charlotte-NC/Product-Management-Marketing-Intern---Summer-2026_JR0000037719-3) | 38 | Charlotte, NC | Product | 2026-05-17 |
 
-## Marsh
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Oliver Wyman Analyst Internship - Data & Analytics](https://mmc.wd1.myworkdayjobs.com/mmc/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics---6-month-Analyst-Internship----Newcastle-2026_R_346450-1) | 68 | Newcastle upon Tyne, UK | AI/ML/Data | 2026-06-04 |
-
 ## Marvell
 
 | Title | Score | Location | Department | First seen |
@@ -2615,7 +2599,6 @@
 | [Research Intern - AI Evaluation and Alignment](https://apply.careers.microsoft.com/careers/job/1970393556735254) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - AI Frontiers](https://apply.careers.microsoft.com/careers/job/1970393556864498) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - AI Frontiers - Reasoning & Agentic Models](https://apply.careers.microsoft.com/careers/job/1970393556621824) | 60 | Redmond, WA / NYC | AI/ML/Data | 2026-05-09 |
-| [Research Intern - AI Hardware](https://apply.careers.microsoft.com/careers/job/1970393556621661) | 60 | Vancouver, BC, Canada | AI/ML/Data | 2026-05-09 |
 | [Research Intern - AI Hardware](https://apply.careers.microsoft.com/careers/job/1970393556621664) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - AI Network Observability](https://apply.careers.microsoft.com/careers/job/1970393556639544) | 60 | Redmond, WA / Mountain View, CA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - AI Systems & Architecture](https://apply.careers.microsoft.com/careers/job/1970393556631742) | 60 | Redmond, WA / Mountain View, CA | AI/ML/Data | 2026-05-09 |
@@ -3362,12 +3345,6 @@
 | --- | --- | --- | --- | --- |
 | [Intern](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Newtownabbey-United-Kingdom/Intern_IRC97597) | 58 | Belfast, UK | Hardware | 2026-06-08 |
 
-## SF Giants
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Baseball Operations R&D Intern](https://jobs.lever.co/sfgiants/f9ce0718-8e31-426b-bcdf-e5c0f9b7c67d/apply) | 68 | SF | AI/ML/Data | 2026-05-09 |
-
 ## Shenzhen ANQI SHISHANG Articles Co., ltd.
 
 | Title | Score | Location | Department | First seen |
@@ -3573,8 +3550,8 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [PhD Data Scientist Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | Seattle, WA / SF / Chicago, IL / NYC | AI/ML/Data | 2026-06-06 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | 56 | Mexico City, Mexico | — | 2026-05-06 |
