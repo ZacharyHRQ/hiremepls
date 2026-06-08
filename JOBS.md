@@ -1,6 +1,6 @@
 # Open Internships
 
-**1267** internships across **63/64** companies — last updated 2026-06-08.
+**1261** internships across **63/64** companies — last updated 2026-06-08.
 
 ## Companies
 
@@ -38,7 +38,6 @@
 - [Applied Materials](#applied-materials) (2)
 - [AQR](#aqr) (7)
 - [Aquatic Capital](#aquatic-capital) (1)
-- [Arcadis](#arcadis) (1)
 - [Arch Capital Group](#arch-capital-group) (1)
 - [Ardian](#ardian) (1)
 - [Arlo](#arlo) (2)
@@ -126,7 +125,7 @@
 - [Cribl](#cribl) (1)
 - [Cubist Systematic Strategies](#cubist-systematic-strategies) (1)
 - [Cupertino Electric, Inc.](#cupertino-electric-inc) (1)
-- [d-Matrix](#d-matrix) (4)
+- [d-Matrix](#d-matrix) (3)
 - [Dairyland Power Cooperative](#dairyland-power-cooperative) (1)
 - [Dandy](#dandy) (1)
 - [Databricks](#databricks) (1)
@@ -176,7 +175,6 @@
 - [Federal Home Loan Bank of Indianapolis](#federal-home-loan-bank-of-indianapolis) (1)
 - [Ferrovial](#ferrovial) (1)
 - [FHLBank Topeka](#fhlbank-topeka) (1)
-- [Field AI](#field-ai) (1)
 - [Figure](#figure) (1)
 - [Fiserv](#fiserv) (2)
 - [Five Rings](#five-rings) (1)
@@ -187,7 +185,6 @@
 - [Fortive](#fortive) (1)
 - [Forvis Mazars US](#forvis-mazars-us) (1)
 - [Foundation ](#foundation) (1)
-- [FourKites](#fourkites) (1)
 - [FOX](#fox) (1)
 - [Fred Hutchinson Cancer Center](#fred-hutchinson-cancer-center) (1)
 - [GE Vernova](#ge-vernova) (5)
@@ -231,7 +228,6 @@
 - [Honeywell](#honeywell) (1)
 - [Howard University](#howard-university) (1)
 - [HPM Building Supply](#hpm-building-supply) (1)
-- [HRL Laboratories](#hrl-laboratories) (1)
 - [Hunt Oil Company](#hunt-oil-company) (3)
 - [iHerb](#iherb) (1)
 - [Illumio](#illumio) (1)
@@ -310,7 +306,7 @@
 - [Metalenz](#metalenz) (1)
 - [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (4)
 - [Microchip Technology](#microchip-technology) (1)
-- [Microsoft](#microsoft) (39)
+- [Microsoft](#microsoft) (38)
 - [MongoDB](#mongodb) (1)
 - [Monolithic Power Systems](#monolithic-power-systems) (2)
 - [Multiply Labs](#multiply-labs) (2)
@@ -761,12 +757,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/embed/job_app?for=aquaticcapitalmanagement&jr_id=6a06fd77152f493123c4b595&token=8489233002) | 93 | Chicago, IL | — | 2026-05-23 |
-
-## Arcadis
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [GIS Intern](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40340) | 60 | Atlanta, GA | AI/ML/Data | 2026-05-09 |
 
 ## Arch Capital Group
 
@@ -1406,7 +1396,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Applied AI Engineering Intern](https://jobs.ashbyhq.com/d-Matrix/93a6e6ee-3391-4437-8459-e28eb05eace7/application) | 68 | Santa Clara, CA | Software | 2026-06-03 |
-| [ASIC Functional Test Engineer Intern](https://jobs.ashbyhq.com/d-Matrix/5e90beb2-1c51-4daa-8739-7ad7d1f83f79/application) | 58 | Santa Clara, CA | Hardware | 2026-05-21 |
 | [Machine Learning Research Intern](https://jobs.ashbyhq.com/d-Matrix/7d2b7609-00fb-4a74-aa74-61508434ec93/application) | 68 | Santa Clara, CA | AI/ML/Data | 2026-05-09 |
 | [Software Engineering Intern - Kernels](https://jobs.ashbyhq.com/d-Matrix/a7010650-8d5d-4b89-8126-152abd02726a/application) | 68 | Toronto, ON, Canada | Software | 2026-05-09 |
 
@@ -1732,12 +1721,6 @@
 | --- | --- | --- | --- | --- |
 | [Financial Analyst Intern](https://fhlbtopeka.wd1.myworkdayjobs.com/FHLBT/job/Topeka-Kansas/Member-Solutions-Intern_JR100348) | 68 | Topeka, KS | AI/ML/Data | 2026-06-06 |
 
-## Field AI
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Agentic AI/ML Engineer Intern - Solutions](https://jobs.lever.co/field-ai/5f45ac28-5c30-46ec-adaf-8482c9469cea/apply) | 93 | Irvine, CA | AI/ML/Data | 2026-06-05 |
-
 ## Figure
 
 | Title | Score | Location | Department | First seen |
@@ -1800,12 +1783,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Controls Engineer Intern](https://ats.rippling.com/foundation-robotics/jobs/6a54984f-bb51-4ccf-a96d-6295a45de689) | 75 | SF | Hardware | 2026-05-09 |
-
-## FourKites
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Engineering Intern](https://job-boards.greenhouse.io/fourkites/jobs/7926771) | 68 | Chicago, IL | Software | 2026-06-06 |
 
 ## FOX
 
@@ -2091,12 +2068,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Retail, Inventory Management, and Merchandising Internship](https://www.linkedin.com/jobs/view/4260421271) | 22 | Kahului, HI | — | 2026-05-16 |
-
-## HRL Laboratories
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Mechanical Assembly Integration and Test Intern](https://jobs.lever.co/dodmg/cb7099eb-ec49-4846-a665-a50496a7ad66/apply) | 58 | Malibu, CA | Hardware | 2026-05-09 |
 
 ## Hunt Oil Company
 
@@ -2653,7 +2624,6 @@
 | [Research Intern - AIP AI Knowledge Multimodal AI](https://apply.careers.microsoft.com/careers/job/1970393556637119) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - Applied Sciences Group](https://apply.careers.microsoft.com/careers/job/1970393556748770) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - Applied Speech Research](https://apply.careers.microsoft.com/careers/job/1970393556751423) | 60 | Berkeley, CA / Burlington, MA | AI/ML/Data | 2026-05-09 |
-| [Research Intern - Artificial Intelligence](https://apply.careers.microsoft.com/careers/job/1970393556622017) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - Artificial Intelligence](https://apply.careers.microsoft.com/careers/job/1970393556621503) | 60 | Vancouver, BC, Canada | AI/ML/Data | 2026-05-09 |
 | [Research Intern - Computational Social Science](https://apply.careers.microsoft.com/careers/job/1970393556639564) | 60 | NYC | AI/ML/Data | 2026-05-09 |
 | [Research Intern - Computer Vision and Deep Learning](https://apply.careers.microsoft.com/careers/job/1970393556621779) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
@@ -3603,8 +3573,8 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [PhD Data Scientist Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | Seattle, WA / SF / Chicago, IL / NYC | AI/ML/Data | 2026-06-06 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | 56 | Mexico City, Mexico | — | 2026-05-06 |

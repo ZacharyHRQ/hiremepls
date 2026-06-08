@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-08T18:40:08.303Z",
+  "generatedAt": "2026-06-08T21:04:53.104Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1267,
+  "jobCount": 1261,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -208,7 +208,6 @@
     "canonical:b63a68c1bc8c933c": "2026-05-09T15:28:15.527Z",
     "canonical:12366dff95f1bcf5": "2026-05-09T15:28:15.527Z",
     "canonical:f16df1416ab28b77": "2026-05-09T15:28:15.527Z",
-    "canonical:4a1c3d0bb9b68e0a": "2026-05-09T15:28:15.527Z",
     "canonical:dc02beebae1ad21a": "2026-05-09T15:28:15.527Z",
     "canonical:688d36ab860e9284": "2026-05-09T15:28:15.527Z",
     "canonical:3d5eb76daaa9b3dc": "2026-05-09T15:28:15.527Z",
@@ -593,7 +592,6 @@
     "canonical:6891c0ba8d854c9b": "2026-05-09T15:28:15.527Z",
     "canonical:3e61bd7d54d1d13a": "2026-05-09T15:28:15.527Z",
     "canonical:9033f4b5e8eae79e": "2026-05-09T15:28:15.527Z",
-    "canonical:5cdab76f508307f7": "2026-05-09T15:28:15.527Z",
     "canonical:1ec58067683787e8": "2026-05-09T15:28:15.527Z",
     "canonical:c0d72a2d4e421f51": "2026-05-09T15:28:15.527Z",
     "canonical:d711e695dc99e898": "2026-05-14T05:32:10.854Z",
@@ -606,7 +604,6 @@
     "canonical:903d4c54fac1b9d6": "2026-05-09T15:28:15.527Z",
     "canonical:0bdecf727b8d31f6": "2026-05-09T15:28:15.527Z",
     "canonical:7134f71d6610c363": "2026-05-09T15:28:15.527Z",
-    "canonical:fa30523eab7388bd": "2026-05-09T15:28:15.527Z",
     "canonical:b06161b2a0f4c01f": "2026-05-09T15:28:15.527Z",
     "canonical:1c46dbb7e120e004": "2026-05-09T15:28:15.527Z",
     "canonical:baa626949f45fbd4": "2026-05-09T15:28:15.527Z",
@@ -909,7 +906,6 @@
     "canonical:979aefe558e75f57": "2026-05-21T23:51:28.973Z",
     "canonical:6f1c4b11d1e2a83e": "2026-05-21T23:51:28.973Z",
     "canonical:f9b534af9c523d1d": "2026-05-21T23:51:28.973Z",
-    "canonical:c973cdb7a5f71dc8": "2026-05-21T23:51:28.973Z",
     "canonical:2cbad48755d82365": "2026-05-21T23:51:28.973Z",
     "canonical:244ba70ec41469f9": "2026-05-21T23:51:28.973Z",
     "canonical:77542c49fff41020": "2026-05-22T02:15:03.911Z",
@@ -1153,7 +1149,6 @@
     "canonical:9cad4a4c3e2e601d": "2026-06-04T23:50:18.472Z",
     "canonical:93e9b269ac729a21": "2026-06-04T23:50:18.472Z",
     "canonical:f97e52378206fda9": "2026-06-04T23:50:18.472Z",
-    "canonical:cc23c985068fbc0c": "2026-06-05T02:28:35.970Z",
     "canonical:4ca619c34eb3463e": "2026-06-05T10:40:30.398Z",
     "canonical:89aaf3baee1cdf28": "2026-06-05T10:40:30.398Z",
     "canonical:9a93c8600bc816f6": "2026-06-05T10:40:30.398Z",
@@ -1173,7 +1168,6 @@
     "canonical:0ef865c3ff3f9f5f": "2026-06-06T00:04:30.171Z",
     "canonical:3da39dab672a1b4b": "2026-06-06T00:04:30.171Z",
     "canonical:87eab4529cff3827": "2026-06-06T00:04:30.171Z",
-    "canonical:b2991fc4c6b63760": "2026-06-06T00:04:30.171Z",
     "canonical:8a4ddfd20248576c": "2026-06-06T00:04:30.171Z",
     "canonical:c9a881fad90b6944": "2026-06-06T00:04:30.171Z",
     "canonical:0569c4db1819e9e6": "2026-06-06T00:04:30.171Z",
@@ -2084,10 +2078,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2097,10 +2091,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -4076,18 +4070,6 @@
       "title": "Research Intern - Gray Systems Lab - Gsl",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556621621",
       "location": "Madison, WI / Redmond, WA / Mountain View, CA",
-      "department": "AI/ML/Data",
-      "company": "Microsoft",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:4a1c3d0bb9b68e0a",
-      "title": "Research Intern - Artificial Intelligence",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556622017",
-      "location": "Redmond, WA",
       "department": "AI/ML/Data",
       "company": "Microsoft",
       "score": 60,
@@ -9803,18 +9785,6 @@
       ]
     },
     {
-      "id": "canonical:5cdab76f508307f7",
-      "title": "GIS Intern",
-      "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40340",
-      "location": "Atlanta, GA",
-      "department": "AI/ML/Data",
-      "company": "Arcadis",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:1ec58067683787e8",
       "title": "Corporate Services Business Analytics Intern",
       "url": "https://jobs.smartrecruiters.com/Solidigm/744000124499690",
@@ -10079,18 +10049,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:fa30523eab7388bd",
-      "title": "Mechanical Assembly Integration and Test Intern",
-      "url": "https://jobs.lever.co/dodmg/cb7099eb-ec49-4846-a665-a50496a7ad66/apply",
-      "location": "Malibu, CA",
-      "department": "Hardware",
-      "company": "HRL Laboratories",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
       ]
     },
     {
@@ -11476,18 +11434,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:c973cdb7a5f71dc8",
-      "title": "ASIC Functional Test Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/d-Matrix/5e90beb2-1c51-4daa-8739-7ad7d1f83f79/application",
-      "location": "Santa Clara, CA",
-      "department": "Hardware",
-      "company": "d-Matrix",
-      "score": 58,
-      "scoreReasons": [
         "direct ATS"
       ]
     },
@@ -13946,20 +13892,6 @@
       ]
     },
     {
-      "id": "canonical:cc23c985068fbc0c",
-      "title": "Agentic AI/ML Engineer Intern - Solutions",
-      "url": "https://jobs.lever.co/field-ai/5f45ac28-5c30-46ec-adaf-8482c9469cea/apply",
-      "location": "Irvine, CA",
-      "department": "AI/ML/Data",
-      "company": "Field AI",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:9a93c8600bc816f6",
       "title": "Research Scientist Intern - AI Alignment",
       "url": "https://www.metacareers.com/jobs/1782902493113620",
@@ -14135,19 +14067,6 @@
       "location": "Columbus, OH",
       "department": "AI/ML/Data",
       "company": "Nationwide Children's Hospital",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:b2991fc4c6b63760",
-      "title": "Engineering Intern",
-      "url": "https://job-boards.greenhouse.io/fourkites/jobs/7926771",
-      "location": "Chicago, IL",
-      "department": "Software",
-      "company": "FourKites",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
