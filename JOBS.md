@@ -1,6 +1,6 @@
 # Open Internships
 
-**1274** internships across **63/64** companies — last updated 2026-06-08.
+**1269** internships across **63/64** companies — last updated 2026-06-09.
 
 ## Companies
 
@@ -126,7 +126,7 @@
 - [Cribl](#cribl) (1)
 - [Cubist Systematic Strategies](#cubist-systematic-strategies) (1)
 - [Cupertino Electric, Inc.](#cupertino-electric-inc) (1)
-- [d-Matrix](#d-matrix) (3)
+- [d-Matrix](#d-matrix) (2)
 - [Dairyland Power Cooperative](#dairyland-power-cooperative) (1)
 - [Dandy](#dandy) (1)
 - [Databricks](#databricks) (1)
@@ -245,7 +245,7 @@
 - [Intel](#intel) (2)
 - [Interact Software](#interact-software) (1)
 - [Intercontinental Exchange, Inc.](#intercontinental-exchange-inc) (1)
-- [Interdigital](#interdigital) (2)
+- [Interdigital](#interdigital) (1)
 - [Internship](#internship) (1)
 - [Interstates](#interstates) (1)
 - [InvoiceCloud](#invoicecloud) (1)
@@ -413,7 +413,6 @@
 - [Simular](#simular) (2)
 - [Sixtyfour (X25)](#sixtyfour-x25) (1)
 - [Skydio](#skydio) (6)
-- [Smartly.io](#smartly-io) (1)
 - [Smith+Nephew](#smith-nephew) (1)
 - [Smiths Detection](#smiths-detection) (1)
 - [Snap](#snap) (1)
@@ -422,7 +421,7 @@
 - [Solidigm](#solidigm) (1)
 - [SoloPulse](#solopulse) (2)
 - [Solva](#solva) (1)
-- [Sony](#sony) (3)
+- [Sony](#sony) (4)
 - [SOTI](#soti) (1)
 - [SpaceX](#spacex) (3)
 - [Squarepoint Capital](#squarepoint-capital) (7)
@@ -436,7 +435,6 @@
 - [Stoke Space](#stoke-space) (1)
 - [Stripe](#stripe) (7)
 - [Sundt](#sundt) (2)
-- [SunSource](#sunsource) (1)
 - [Sunwater Capital](#sunwater-capital) (1)
 - [Super](#super) (6)
 - [Susquehanna](#susquehanna) (1)
@@ -455,7 +453,7 @@
 - [TENEX.AI](#tenex-ai) (1)
 - [Tenstorrent](#tenstorrent) (7)
 - [Terranox AI](#terranox-ai) (1)
-- [Tesla](#tesla) (90)
+- [Tesla](#tesla) (89)
 - [Tessera Labs](#tessera-labs) (1)
 - [TETRAMEM](#tetramem) (1)
 - [The D. E. Shaw Group](#the-d-e-shaw-group) (1)
@@ -504,7 +502,7 @@
 - [Wealth.com](#wealth-com) (1)
 - [Wells Fargo](#wells-fargo) (11)
 - [Werfen](#werfen) (1)
-- [WeRide](#weride) (4)
+- [WeRide](#weride) (3)
 - [Westinghouse](#westinghouse) (1)
 - [WindBorne Systems](#windborne-systems) (1)
 - [Workato](#workato) (1)
@@ -1408,7 +1406,6 @@
 | --- | --- | --- | --- | --- |
 | [Applied AI Engineering Intern](https://jobs.ashbyhq.com/d-Matrix/93a6e6ee-3391-4437-8459-e28eb05eace7/application) | 68 | Santa Clara, CA | Software | 2026-06-03 |
 | [Machine Learning Research Intern](https://jobs.ashbyhq.com/d-Matrix/7d2b7609-00fb-4a74-aa74-61508434ec93/application) | 68 | Santa Clara, CA | AI/ML/Data | 2026-05-09 |
-| [Software Engineering Intern - Kernels](https://jobs.ashbyhq.com/d-Matrix/a7010650-8d5d-4b89-8126-152abd02726a/application) | 68 | Toronto, ON, Canada | Software | 2026-05-09 |
 
 ## Dairyland Power Cooperative
 
@@ -2192,7 +2189,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Generative AI Implementation Intern](https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Conshohocken-PA/Generative-AI-Implementation-Intern_REQ26-1093) | 68 | Conshohocken, PA | AI/ML/Data | 2026-05-23 |
-| [Intern Spatially Sparse AI-based Video Decoders](https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/UK_London2/Intern--Spatially-Sparse-AI-based-video-decoders_REQ25-1062) | 68 | London, UK | AI/ML/Data | 2026-05-09 |
 
 ## Internship
 
@@ -3442,12 +3438,6 @@
 | [PhD Autonomy Engineer Intern - Deep Learning or Computer Vision](https://jobs.ashbyhq.com/skydio/8d3979a8-c791-4825-8cf4-9b25479b9519/application) | 93 | San Mateo, CA | AI/ML/Data | 2026-05-09 |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/skydio/f6320e9b-4eed-408d-8d37-d509fb0406ee/application) | 93 | San Mateo, CA | Software | 2026-05-09 |
 
-## Smartly.io
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Marketing Science Intern](https://job-boards.greenhouse.io/smartlyio/jobs/5997171004) | 48 | Chicago, IL | AI/ML/Data | 2026-05-27 |
-
 ## Smith+Nephew
 
 | Title | Score | Location | Department | First seen |
@@ -3512,6 +3502,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Research Intern on Generative and Protective AI for Content Creation](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-118961) | 68 | NYC | AI/ML/Data | 2026-06-09 |
 | [Research Intern - Multimodal Foundation Model for Vision](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---New-York/Research-Intern--Vision-Foundation-Model-and-Generative-AI_JR-118794) | 68 | California / NYC / Waterbury, CT / Washington, DC / Massachusetts / San Jose, CA / SF / Jackson Township, NJ | AI/ML/Data | 2026-05-23 |
 | [Intern – Advanced Computer Graphics Research](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Culver-City/Intern--Advanced-Computer-Graphics-Research_JR-118801) | 68 | Culver City, CA | AI/ML/Data | 2026-05-09 |
 | [Research Intern-AI Ethics](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---California/Research-Intern--AI-Ethics_JR-119055) | 68 | California / San Jose, CA / Jackson Township, NJ / Florida / Waterbury, CT / Virginia / NYC / Massachusetts | AI/ML/Data | 2026-05-09 |
@@ -3597,8 +3588,8 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [PhD Data Scientist Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | Seattle, WA / SF / Chicago, IL / NYC | AI/ML/Data | 2026-06-06 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | 56 | Mexico City, Mexico | — | 2026-05-06 |
@@ -3610,12 +3601,6 @@
 | --- | --- | --- | --- | --- |
 | [Support Group Intern - Artificial Intelligence](https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/10300) | 60 | Tempe, AZ | AI/ML/Data | 2026-06-06 |
 | [Support Group Intern - Data Engineering](https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/9662) | 60 | Tempe, AZ | AI/ML/Data | 2026-05-09 |
-
-## SunSource
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Electronics Intern - Electronic Drives - PC Boards](https://jobs.lever.co/sunsrce/8070e6a5-d767-463d-8268-c18a39b4192b/apply) | 58 | Batavia, IL | Hardware | 2026-05-27 |
 
 ## Sunwater Capital
 
@@ -3772,7 +3757,6 @@
 | [Embedded Software Engineering Intern - Embedded Software Engineer - High Voltage Systems](https://www.tesla.com/careers/search/job/270354) | 85 | Palo Alto, CA | Hardware | 2026-06-07 |
 | [Internship - Software Engineer - Maps & Navigation Validation - Fall 2026](https://www.tesla.com/careers/search/job/270186) | 85 | Palo Alto, CA | Software | 2026-06-07 |
 | [Product Support Engineer Intern - Product Support Engineer - Service Engineering](https://www.tesla.com/careers/search/job/259222) | 85 | Palo Alto, CA | Software | 2026-06-07 |
-| [Software Development Engineer Intern - Software Developer - Integration Platforms](https://www.tesla.com/careers/search/job/270037) | 85 | Palo Alto, CA | Software | 2026-06-07 |
 | [Software Engineer Intern - AI Data Infrastructure](https://www.tesla.com/careers/search/job/269829) | 85 | Palo Alto, CA | Software | 2026-06-07 |
 | [Software Engineer Intern - Engineering Automation Software Engineer - Vehicle Engineering](https://www.tesla.com/careers/search/job/267767) | 85 | Palo Alto, CA / Fremont, CA / United States | Software | 2026-06-07 |
 | [Software Engineer Intern - Integration Tools](https://www.tesla.com/careers/search/job/269445) | 85 | Palo Alto, CA | Hardware | 2026-06-07 |
@@ -4278,7 +4262,6 @@
 | [Intern - Software Engineer](https://jobs.lever.co/weride/8f84c602-8a79-43f6-b662-74a92ef761f5/apply) | 93 | San Jose, CA | Software | 2026-06-05 |
 | [Intern - PhD](https://jobs.lever.co/weride/c7652fd5-65d8-443d-ab4c-5b450acac77d/apply) | 68 | San Jose, CA | AI/ML/Data | 2026-06-05 |
 | [Intern - Vehicle Embedded Engineer - Dbw](https://jobs.lever.co/weride/32871b7d-f424-422f-af2c-615c59ff44cd/apply) | 83 | San Jose, CA | Hardware | 2026-05-09 |
-| [Technical Product Manager Intern](https://jobs.lever.co/weride/0a729794-dec6-4da1-996e-bef4e991a76d/apply) | 58 | San Jose, CA | Product | 2026-05-09 |
 
 ## Westinghouse
 

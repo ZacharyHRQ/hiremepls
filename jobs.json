@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-08T23:57:00.045Z",
+  "generatedAt": "2026-06-09T02:39:51.895Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1274,
+  "jobCount": 1269,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -305,7 +305,6 @@
     "canonical:98c59015f29027d7": "2026-05-09T15:28:15.527Z",
     "canonical:8b4cd2ba0c708372": "2026-05-09T15:28:15.527Z",
     "canonical:e2eb5988dfa8d746": "2026-05-09T15:28:15.527Z",
-    "canonical:edb891fc14179a11": "2026-05-09T15:28:15.527Z",
     "canonical:9a1c8df2409d309a": "2026-05-09T15:28:15.527Z",
     "canonical:0d3aa8982cbc6641": "2026-05-09T15:28:15.527Z",
     "canonical:1736300fa1b0bfa4": "2026-05-09T15:28:15.527Z",
@@ -345,7 +344,6 @@
     "canonical:603ec7ff2d705b82": "2026-05-09T15:28:15.527Z",
     "canonical:15bf3d22c1919f77": "2026-05-09T15:28:15.527Z",
     "canonical:577263c8e7fc21c9": "2026-05-09T15:28:15.527Z",
-    "canonical:1b8437d5fd69fcf8": "2026-05-09T15:28:15.527Z",
     "canonical:c261afedaf6c1fc4": "2026-05-09T15:28:15.527Z",
     "canonical:e95e79cf8a491a1a": "2026-05-09T15:28:15.527Z",
     "canonical:9706223856dee25f": "2026-05-09T15:28:15.527Z",
@@ -515,7 +513,6 @@
     "canonical:fdec04dde5c5fea4": "2026-05-09T15:28:15.527Z",
     "canonical:31dee9f85cf9e5f7": "2026-05-09T15:28:15.527Z",
     "canonical:7fe1ed821878aa89": "2026-05-09T15:28:15.527Z",
-    "canonical:943af7961887dfc9": "2026-05-09T15:28:15.527Z",
     "canonical:04da800cf83cb9bd": "2026-05-09T15:28:15.527Z",
     "canonical:9508a5dd181c1039": "2026-05-09T15:28:15.527Z",
     "canonical:d13f9985cc389397": "2026-05-09T15:28:15.527Z",
@@ -966,7 +963,6 @@
     "canonical:4f50987606569140": "2026-05-27T06:54:37.687Z",
     "canonical:3be6e7afb72fb01c": "2026-05-27T06:54:37.687Z",
     "canonical:3d66e48da23926ba": "2026-05-27T06:54:37.687Z",
-    "canonical:07dd25f2be35a6bc": "2026-05-27T06:54:37.687Z",
     "canonical:a52697798ee25d09": "2026-05-27T06:54:37.687Z",
     "canonical:f2b9b01ed20bb453": "2026-05-27T06:54:37.687Z",
     "canonical:a5f3aa67d209292a": "2026-05-27T06:54:37.687Z",
@@ -995,7 +991,6 @@
     "canonical:3cf93a383a96261f": "2026-05-27T17:38:56.111Z",
     "canonical:7749e3c900fbef3d": "2026-05-27T17:38:56.111Z",
     "canonical:eceb8a789d5ce53e": "2026-05-27T17:38:56.111Z",
-    "canonical:babf7810d00ada0a": "2026-05-27T17:38:56.111Z",
     "canonical:73cd4f2761a3469b": "2026-05-27T21:45:52.221Z",
     "canonical:e0d5ce31dfaf1a2a": "2026-05-27T21:45:52.221Z",
     "canonical:55deb68272c97b7f": "2026-05-27T21:45:52.221Z",
@@ -1225,7 +1220,6 @@
     "canonical:96a407f94a6ab84f": "2026-06-07T09:43:12.130Z",
     "canonical:dce111db765ed0d5": "2026-06-07T09:43:12.130Z",
     "canonical:b0c7c34408d513e8": "2026-06-07T09:43:12.130Z",
-    "canonical:49271f6938dbd5ae": "2026-06-07T09:43:12.130Z",
     "canonical:bee36ee266b77ee7": "2026-06-07T09:43:12.130Z",
     "canonical:1c3309ba85b6ccb1": "2026-06-07T09:43:12.130Z",
     "canonical:ee62fb84809061ad": "2026-06-07T09:43:12.130Z",
@@ -1277,7 +1271,8 @@
     "canonical:18768fabbd37a5ea": "2026-06-08T23:57:00.045Z",
     "canonical:700f11f13e5d99df": "2026-06-08T23:57:00.045Z",
     "canonical:65f7ca22fb29befa": "2026-06-08T23:57:00.045Z",
-    "canonical:3e377bf0365846a5": "2026-06-08T23:57:00.045Z"
+    "canonical:3e377bf0365846a5": "2026-06-08T23:57:00.045Z",
+    "canonical:5a95591a949bab78": "2026-06-09T02:39:51.895Z"
   },
   "jobs": [
     {
@@ -2091,10 +2086,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2104,10 +2099,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -5419,19 +5414,6 @@
       ]
     },
     {
-      "id": "canonical:edb891fc14179a11",
-      "title": "Intern Spatially Sparse AI-based Video Decoders",
-      "url": "https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/UK_London2/Intern--Spatially-Sparse-AI-based-video-decoders_REQ25-1062",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "Interdigital",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:9a1c8df2409d309a",
       "title": "Quant Research Intern",
       "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/London-Office/Quant-Research-Intern--Summer-2026---London-_JR100353-1",
@@ -6076,19 +6058,6 @@
       "location": "San Francisco, CA",
       "department": "Software Engineering",
       "company": "Multiply Labs",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:1b8437d5fd69fcf8",
-      "title": "Software Engineering Intern - Kernels",
-      "url": "https://jobs.ashbyhq.com/d-Matrix/a7010650-8d5d-4b89-8126-152abd02726a/application",
-      "location": "Toronto, ON, Canada",
-      "department": "Software",
-      "company": "d-Matrix",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -7162,6 +7131,19 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:5a95591a949bab78",
+      "title": "Research Intern on Generative and Protective AI for Content Creation",
+      "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-118961",
+      "location": "NYC",
+      "department": "AI/ML/Data",
+      "company": "Sony",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -8692,18 +8674,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:943af7961887dfc9",
-      "title": "Technical Product Manager Intern",
-      "url": "https://jobs.lever.co/weride/0a729794-dec6-4da1-996e-bef4e991a76d/apply",
-      "location": "San Jose, CA",
-      "department": "Product",
-      "company": "WeRide",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
       ]
     },
     {
@@ -12097,20 +12067,6 @@
       ]
     },
     {
-      "id": "canonical:07dd25f2be35a6bc",
-      "title": "Marketing Science Intern",
-      "url": "https://job-boards.greenhouse.io/smartlyio/jobs/5997171004",
-      "location": "Chicago, IL",
-      "department": "AI/ML/Data",
-      "company": "Smartly.io",
-      "score": 48,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS",
-        "lower-fit title"
-      ]
-    },
-    {
       "id": "canonical:a52697798ee25d09",
       "title": "Clinical Data Intern",
       "url": "https://careers.medpace.com/jobs/12682?lang=en-us&icims=1",
@@ -12482,18 +12438,6 @@
       "score": 68,
       "scoreReasons": [
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:babf7810d00ada0a",
-      "title": "Electronics Intern - Electronic Drives - PC Boards",
-      "url": "https://jobs.lever.co/sunsrce/8070e6a5-d767-463d-8268-c18a39b4192b/apply",
-      "location": "Batavia, IL",
-      "department": "Hardware",
-      "company": "SunSource",
-      "score": 58,
-      "scoreReasons": [
         "direct ATS"
       ]
     },
@@ -14630,19 +14574,6 @@
       "company": "Tesla",
       "score": 60,
       "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:49271f6938dbd5ae",
-      "title": "Software Development Engineer Intern - Software Developer - Integration Platforms",
-      "url": "https://www.tesla.com/careers/search/job/270037",
-      "location": "Palo Alto, CA",
-      "department": "Software",
-      "company": "Tesla",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role"
       ]
     },
