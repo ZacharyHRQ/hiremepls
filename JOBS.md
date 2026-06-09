@@ -1,6 +1,6 @@
 # Open Internships
 
-**1248** internships across **63/64** companies — last updated 2026-06-09.
+**1246** internships across **63/64** companies — last updated 2026-06-09.
 
 ## Companies
 
@@ -245,7 +245,6 @@
 - [Interdigital](#interdigital) (1)
 - [Internship](#internship) (1)
 - [Interstates](#interstates) (1)
-- [InvoiceCloud](#invoicecloud) (1)
 - [iSpot.tv](#ispot-tv) (2)
 - [iTradeNetwork](#itradenetwork) (1)
 - [Ivy Tech Community College](#ivy-tech-community-college) (1)
@@ -279,7 +278,6 @@
 - [Lumentum](#lumentum) (1)
 - [Lyft](#lyft) (1)
 - [Mach9](#mach9) (1)
-- [Maersk](#maersk) (1)
 - [Magna](#magna) (2)
 - [Magnite](#magnite) (2)
 - [Maher Duessel](#maher-duessel) (1)
@@ -2173,12 +2171,6 @@
 | --- | --- | --- | --- | --- |
 | [Manufacturing Intern](https://www.interstates.com/careers/jobs?gh_jid=4033938009&gh_jid=4033938009) | 50 | Fort Collins, CO | Hardware | 2026-05-15 |
 
-## InvoiceCloud
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineering Intern](http://invoicecloud.net/careers/open-positions?gh_jid=7702184003) | 60 | Boston, MA | Software | 2026-05-09 |
-
 ## iSpot.tv
 
 | Title | Score | Location | Department | First seen |
@@ -2384,7 +2376,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Optical Verification Engineer Co-op/Intern](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_2026531) | 58 | Ottawa, ON, Canada | Hardware | 2026-05-09 |
+| [Optical Verification Engineer Co-op/Intern](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_2026530) | 58 | Ottawa, ON, Canada | Hardware | 2026-05-09 |
 
 ## Lyft
 
@@ -2397,12 +2389,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Perception Intern - Summer 2026](https://jobs.ashbyhq.com/mach9/232ea7eb-25ed-4bc7-adeb-aaf75aeb987e/application) | 68 | SF | AI/ML/Data | 2026-05-09 |
-
-## Maersk
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Artificial Intelligence Intern - Artificial Intelligence](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/USA-California-Los-Angeles-90731/Internship---Artificial-Intelligence_R181409) | 68 | San Pedro, LA | AI/ML/Data | 2026-05-16 |
 
 ## Magna
 

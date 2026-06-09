@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-09T20:25:29.102Z",
+  "generatedAt": "2026-06-09T22:02:33.713Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1248,
+  "jobCount": 1246,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -507,7 +507,6 @@
     "canonical:fdec04dde5c5fea4": "2026-05-09T15:28:15.527Z",
     "canonical:31dee9f85cf9e5f7": "2026-05-09T15:28:15.527Z",
     "canonical:7fe1ed821878aa89": "2026-05-09T15:28:15.527Z",
-    "canonical:04da800cf83cb9bd": "2026-05-09T15:28:15.527Z",
     "canonical:9508a5dd181c1039": "2026-05-09T15:28:15.527Z",
     "canonical:d13f9985cc389397": "2026-05-09T15:28:15.527Z",
     "canonical:83b4718a5f6f5a7d": "2026-05-09T15:28:15.527Z",
@@ -743,7 +742,6 @@
     "canonical:c807c365ad8a8e11": "2026-05-16T10:16:11.835Z",
     "canonical:7d5a0ee046f5c29b": "2026-05-16T10:16:11.835Z",
     "canonical:db084586acdf6033": "2026-05-16T10:16:11.835Z",
-    "canonical:2a3d4eb3fc4b0c21": "2026-05-16T10:16:11.835Z",
     "canonical:d590901df9c6b5b8": "2026-05-16T10:16:11.835Z",
     "canonical:cec26ccb43b437cd": "2026-05-16T10:16:11.835Z",
     "canonical:92712aff786aa139": "2026-05-16T10:16:11.835Z",
@@ -8581,18 +8579,6 @@
       ]
     },
     {
-      "id": "canonical:04da800cf83cb9bd",
-      "title": "Software Engineering Intern",
-      "url": "http://invoicecloud.net/careers/open-positions?gh_jid=7702184003",
-      "location": "Boston, MA",
-      "department": "Software",
-      "company": "InvoiceCloud",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:9508a5dd181c1039",
       "title": "Hardware Machine Learning PhD Research Intern",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4829785101",
@@ -9366,7 +9352,7 @@
     {
       "id": "canonical:73b655c0d199329d",
       "title": "Optical Verification Engineer Co-op/Intern",
-      "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_2026531",
+      "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_2026530",
       "location": "Ottawa, ON, Canada",
       "department": "Hardware",
       "company": "Lumentum",
@@ -10600,19 +10586,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:2a3d4eb3fc4b0c21",
-      "title": "Artificial Intelligence Intern - Artificial Intelligence",
-      "url": "https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/USA-California-Los-Angeles-90731/Internship---Artificial-Intelligence_R181409",
-      "location": "San Pedro, LA",
-      "department": "AI/ML/Data",
-      "company": "Maersk",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
