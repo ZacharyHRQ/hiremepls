@@ -1,6 +1,6 @@
 # Open Internships
 
-**1262** internships across **63/64** companies — last updated 2026-06-09.
+**1252** internships across **63/64** companies — last updated 2026-06-09.
 
 ## Companies
 
@@ -143,7 +143,6 @@
 - [Doctors Without Borders](#doctors-without-borders) (1)
 - [Docugami](#docugami) (1)
 - [Dover](#dover) (1)
-- [Draper](#draper) (1)
 - [Drivetrain](#drivetrain) (1)
 - [Dryft](#dryft) (1)
 - [DuPont](#dupont) (5)
@@ -199,7 +198,7 @@
 - [Gensyn](#gensyn) (1)
 - [Genworth](#genworth) (1)
 - [GeoComply](#geocomply) (1)
-- [Geotab](#geotab) (6)
+- [Geotab](#geotab) (5)
 - [Gimlet Labs](#gimlet-labs) (1)
 - [Ginkgo Bioworks](#ginkgo-bioworks) (2)
 - [GitHub](#github) (1)
@@ -216,7 +215,6 @@
 - [Hearst](#hearst) (1)
 - [Helix Electric](#helix-electric) (1)
 - [Herdora](#herdora) (1)
-- [HERE Technologies](#here-technologies) (1)
 - [Hermeus](#hermeus) (6)
 - [Heron Power](#heron-power) (1)
 - [Hershey Entertainment & Resorts Company](#hershey-entertainment-resorts-company) (1)
@@ -284,7 +282,7 @@
 - [Mach9](#mach9) (1)
 - [Maersk](#maersk) (1)
 - [Magna](#magna) (2)
-- [Magnite](#magnite) (3)
+- [Magnite](#magnite) (2)
 - [Maher Duessel](#maher-duessel) (1)
 - [MaintainX](#maintainx) (1)
 - [MaloneBailey, LLP](#malonebailey-llp) (1)
@@ -308,13 +306,12 @@
 - [Metalenz](#metalenz) (1)
 - [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (4)
 - [Microchip Technology](#microchip-technology) (1)
-- [Microsoft](#microsoft) (37)
+- [Microsoft](#microsoft) (36)
 - [MongoDB](#mongodb) (1)
 - [Monolithic Power Systems](#monolithic-power-systems) (2)
 - [Multiply Labs](#multiply-labs) (2)
 - [Naïve](#na-ve) (1)
 - [Nash](#nash) (2)
-- [Nationwide Children's Hospital](#nationwide-children-s-hospital) (1)
 - [NBCUniversal](#nbcuniversal) (2)
 - [Neuralink](#neuralink) (3)
 - [NewsBreak](#newsbreak) (4)
@@ -376,11 +373,10 @@
 - [Replit](#replit) (2)
 - [Reply](#reply) (2)
 - [RESPEC](#respec) (1)
-- [Revance](#revance) (1)
 - [Rippling](#rippling) (3)
 - [Rivian](#rivian) (1)
 - [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (3)
-- [Robert Bosch Venture Capital](#robert-bosch-venture-capital) (3)
+- [Robert Bosch Venture Capital](#robert-bosch-venture-capital) (2)
 - [Roblox](#roblox) (1)
 - [Roche](#roche) (1)
 - [Rocket Lab](#rocket-lab) (1)
@@ -461,7 +457,7 @@
 - [TheGuarantors](#theguarantors) (1)
 - [Thermo Fisher Scientific](#thermo-fisher-scientific) (1)
 - [TIFIN](#tifin) (1)
-- [TikTok](#tiktok) (107)
+- [TikTok](#tiktok) (106)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
 - [Token Metrics](#token-metrics) (2)
@@ -491,7 +487,7 @@
 - [Viavi Solutions](#viavi-solutions) (1)
 - [Voloridge Investment Management](#voloridge-investment-management) (1)
 - [Voltus](#voltus) (1)
-- [W.R. Berkley](#w-r-berkley) (3)
+- [W.R. Berkley](#w-r-berkley) (2)
 - [Waabi](#waabi) (2)
 - [Walmart](#walmart) (1)
 - [Walrus](#walrus) (1)
@@ -1500,12 +1496,6 @@
 | --- | --- | --- | --- | --- |
 | [Evaluation Engineer Intern](https://careers.dovercorporation.com/job/Princeton-Evaluation-Engineer,-Intern-NJ-08540/1400017333/?ats=successfactors) | 85 | Princeton, NJ | AI/ML/Data | 2026-06-03 |
 
-## Draper
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Market Intelligence Intern](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Reston-VA/Market-Intelligence-Intern_JR002551) | 68 | Cambridge, MA / Reston, VA | AI/ML/Data | 2026-05-27 |
-
 ## Drivetrain
 
 | Title | Score | Location | Department | First seen |
@@ -1880,7 +1870,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Integrations Engineer Intern](https://job-boards.greenhouse.io/internshiplist2000/jobs/5168598008) | 93 | Oakville, ON, Canada | Software | 2026-05-27 |
 | [Software Developer Intern - Multiple Teams](https://job-boards.greenhouse.io/internshiplist2000/jobs/5184158008) | 93 | Toronto, ON, Canada / Oakville, ON, Canada / Kitchener, ON, Canada | Software | 2026-05-14 |
 | [Software Developer Intern - Prism](https://job-boards.greenhouse.io/internshiplist2000/jobs/5138225008) | 93 | Toronto, ON, Canada / Kitchener, ON, Canada | Software | 2026-05-14 |
 | [Vehicle Systems Engineering Intern](https://job-boards.greenhouse.io/geotab/jobs/5140749008) | 58 | High Wycombe, UK | Hardware | 2026-05-11 |
@@ -1984,12 +1973,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Member Of Technical Staff Intern](https://www.workatastartup.com/jobs/83224) | 56 | San Francisco, CA | — | 2026-05-09 |
-
-## HERE Technologies
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Intern](https://careers-here.icims.com/jobs/81589/job?mobile=true&needsRedirect=false) | 60 | Chicago, IL | AI/ML/Data | 2026-06-03 |
 
 ## Hermeus
 
@@ -2440,7 +2423,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer Intern - Demand Solutions](https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/New-York---New-York/Intern--Software-Engineering---Demand-Solutions--NYC-_R-01332) | 93 | NYC | Software | 2026-06-03 |
 | [Software Engineering Intern - Adserver](https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/New-York---New-York/Intern--Software-Engineering---Adserver--NYC-_R-01333) | 68 | NYC | Software | 2026-06-03 |
 | [Software Engineering Intern - Data Science Engineering](https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/Colorado---Broomfield/Intern--Software-Engineering---Data-Science-Engineering--Broomfield--CO-_R-01331) | 68 | Broomfield, CO | AI/ML/Data | 2026-06-03 |
 
@@ -2645,7 +2627,6 @@
 | [Research Intern - Machine Learning at MSR NYC](https://apply.careers.microsoft.com/careers/job/1970393556621563) | 60 | Cambridge, MA / NYC | AI/ML/Data | 2026-05-09 |
 | [Research Intern - Microsoft Research Software-Hardware Co-design](https://apply.careers.microsoft.com/careers/job/1970393556621730) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - Microsoft Research Special Projects](https://apply.careers.microsoft.com/careers/job/1970393556628925) | 60 | Cambridge, MA / Kitsap County, WA / Redmond, WA | AI/ML/Data | 2026-05-09 |
-| [Research Intern - Microsoft Teams](https://apply.careers.microsoft.com/careers/job/1970393556640715) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - Model Optimization and HW Acceleration](https://apply.careers.microsoft.com/careers/job/1970393556628875) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - MSR AI Interaction and Learning](https://apply.careers.microsoft.com/careers/job/1970393556621727) | 60 | Redmond, WA / NYC | AI/ML/Data | 2026-05-09 |
 | [Research Intern - MSR Inclusive Futures Team](https://apply.careers.microsoft.com/careers/job/1970393556631751) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
@@ -2688,12 +2669,6 @@
 | --- | --- | --- | --- | --- |
 | [Full Stack Engineering Intern](https://www.workatastartup.com/jobs/94993) | 56 | San Francisco, CA | — | 2026-05-19 |
 | [Full Stack Engineer Intern](https://jobs.ashbyhq.com/Nash/5d2387ea-c478-433b-b3db-30115d1984c5/application) | 93 | SF | Software | 2026-05-18 |
-
-## Nationwide Children's Hospital
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [IT R&1 Data Science Intern](https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/431-S-18th-St-Columbus-OH/IT-R-I-Data-Science-Intern_R-25866-1) | 68 | Columbus, OH | AI/ML/Data | 2026-05-27 |
 
 ## NBCUniversal
 
@@ -3170,12 +3145,6 @@
 | --- | --- | --- | --- | --- |
 | [Student Engineering Intern - Data Science](https://jobs.smartrecruiters.com/RESPECInc/744000107100902) | 68 | Rapid City, SD | AI/ML/Data | 2026-05-09 |
 
-## Revance
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Scientist Intern](http://www.revance.com/careers/job-listings/?gh_jid=8578708002) | 85 | Remote in USA | AI/ML/Data | 2026-06-04 |
-
 ## Rippling
 
 | Title | Score | Location | Department | First seen |
@@ -3203,7 +3172,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Hardware & Embedded Research Intern](https://jobs.smartrecruiters.com/BoschGroup/744000131150005) | 58 | Sunnyvale, CA | Hardware | 2026-06-09 |
-| [Radar Sensing AI Research Intern](https://jobs.smartrecruiters.com/BoschGroup/744000130576071) | 68 | Pittsburgh, PA | AI/ML/Data | 2026-06-06 |
 | [Wireless Sensing Research Intern](https://jobs.smartrecruiters.com/BoschGroup/744000121477597) | 68 | Sunnyvale, CA | AI/ML/Data | 2026-05-09 |
 
 ## Roblox
@@ -3971,7 +3939,6 @@
 | [Product Manager Intern - TikTok Product Content Ecosystem - BS/MS](https://lifeattiktok.com/search/7611679957136574773) | 50 | San Jose, CA | Product | 2026-05-09 |
 | [Product Manager Project Intern](https://lifeattiktok.com/search/7620569902743406901) | 50 | San Jose, CA | Product | 2026-05-09 |
 | [Product Manager Project Intern - Tiktok LIVE-Ecosystem Governance - 2026 Start](https://lifeattiktok.com/search/7598849238706735365) | 50 | San Jose, CA | Product | 2026-05-09 |
-| [Product Operations Project Intern - Advertising - Creative](https://lifeattiktok.com/search/7630838458010241333) | 50 | London, UK | Product | 2026-05-09 |
 | [Product Strategist Intern - Global Monetization Product and Technology - 2026 Summer - MBA](https://lifeattiktok.com/search/7566369771879958789) | 50 | San Jose, CA | Product | 2026-05-09 |
 | [Product Strategist Project Intern - Global Monetization Product and Technology - 2026 Start](https://lifeattiktok.com/search/7603516766509713717) | 50 | NYC | Product | 2026-05-09 |
 | [Technical Program Manager Intern - Global Monetization Product and Technology - BS/MS](https://lifeattiktok.com/search/7561479542730705213) | 50 | San Jose, CA | Product | 2026-05-09 |
@@ -4172,7 +4139,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Underwriting Intern](https://careers-berkley.icims.com/jobs/12816/job?mobile=true&needsRedirect=false) | 60 | Glen Allen, VA | Software | 2026-05-18 |
 | [Business and Data Analyst Intern](https://careers-berkley.icims.com/jobs/13507/job?mobile=true&needsRedirect=false) | 60 | Farmington, CT | AI/ML/Data | 2026-05-09 |
 | [Data Analyst Summer Intern](https://careers-berkley.icims.com/jobs/13113/data-analyst-summer-intern/job) | 60 | Englewood, CO | Data Science, AI & Machine Learning | 2026-05-09 |
 
