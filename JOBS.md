@@ -1,6 +1,6 @@
 # Open Internships
 
-**1252** internships across **63/64** companies — last updated 2026-06-09.
+**1248** internships across **63/64** companies — last updated 2026-06-09.
 
 ## Companies
 
@@ -96,7 +96,7 @@
 - [Cherry Bekaert](#cherry-bekaert) (2)
 - [Chubb](#chubb) (1)
 - [Ciena](#ciena) (3)
-- [Cirrus Logic](#cirrus-logic) (2)
+- [Cirrus Logic](#cirrus-logic) (1)
 - [Cisive](#cisive) (1)
 - [Citadel](#citadel) (4)
 - [Citadel Securities](#citadel-securities) (3)
@@ -209,7 +209,6 @@
 - [GSA Capital](#gsa-capital) (2)
 - [H&CO](#h-co) (1)
 - [Haize Labs](#haize-labs) (1)
-- [Harris Computer](#harris-computer) (1)
 - [Harvard University](#harvard-university) (1)
 - [HCompany](#hcompany) (1)
 - [Hearst](#hearst) (1)
@@ -286,7 +285,7 @@
 - [Maher Duessel](#maher-duessel) (1)
 - [MaintainX](#maintainx) (1)
 - [MaloneBailey, LLP](#malonebailey-llp) (1)
-- [Man Group](#man-group) (3)
+- [Man Group](#man-group) (2)
 - [Marathon Petroleum Corporation](#marathon-petroleum-corporation) (1)
 - [Mariana Minerals](#mariana-minerals) (3)
 - [Maricopa Association of Governments (MAG)](#maricopa-association-of-governments-mag) (1)
@@ -361,7 +360,7 @@
 - [Prior Labs](#prior-labs) (1)
 - [Prologis](#prologis) (1)
 - [Prosper Funding](#prosper-funding) (1)
-- [PsiQuantum](#psiquantum) (2)
+- [PsiQuantum](#psiquantum) (1)
 - [Quadric](#quadric) (4)
 - [QuEra Computing](#quera-computing) (1)
 - [Rackner](#rackner) (1)
@@ -1182,7 +1181,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [AI Solutions Intern](https://jobs.eu.lever.co/cirrus/08d5aa55-2c11-4bab-896c-555067005e73/apply) | 68 | Edinburgh, UK | AI/ML/Data | 2026-05-27 |
 | [Analog/Mixed-Signal Verification Intern Co-op](https://jobs.eu.lever.co/cirrus/a0ee59a9-cfce-410a-b182-459a5da9ba95/apply) | 58 | Austin, TX | Hardware | 2026-05-09 |
 
 ## Cisive
@@ -1938,12 +1936,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/haizelabs/jobs/4685944008) | 93 | NYC | Software | 2026-05-09 |
 
-## Harris Computer
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Development Intern](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Idaho-United-States/Software-Development-Intern_R0043991) | 68 | Idaho | Software | 2026-05-27 |
-
 ## Harvard University
 
 | Title | Score | Location | Department | First seen |
@@ -2448,7 +2440,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Man Global Markets (High-Frequency Quantitative Research) PhD Summer 2026 Internship](https://job-boards.eu.greenhouse.io/mangroup/jobs/4675608101) | 68 | New York, NY | Quantitative Finance | 2026-05-09 |
 | [Quantitative Developer, Intern](https://job-boards.eu.greenhouse.io/mangroup/jobs/4847708101) | 93 | Shanghai | — | 2026-05-06 |
 | [Quantitative Research Intern – Specialist Equities](https://job-boards.eu.greenhouse.io/mangroup/jobs/4847714101) | 68 | Hong Kong | — | 2026-05-06 |
 
@@ -3070,7 +3061,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Hardware Design and Test Intern](https://www.psiquantum.com/apply?gh_jid=7763020003) | 50 | Milpitas, CA | Hardware | 2026-06-04 |
 | [Optical Packaging and Characterization Engineer Intern](https://www.psiquantum.com/apply?gh_jid=7761881003) | 50 | Milpitas, CA | Hardware | 2026-06-03 |
 
 ## Quadric

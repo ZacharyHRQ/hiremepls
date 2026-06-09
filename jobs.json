@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-09T18:27:19.757Z",
+  "generatedAt": "2026-06-09T20:25:29.102Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1252,
+  "jobCount": 1248,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -102,7 +102,6 @@
     "canonical:a74779d775d064e4": "2026-05-09T15:28:15.527Z",
     "canonical:afadedc952397f7f": "2026-05-09T15:28:15.527Z",
     "canonical:9de518beb6acd082": "2026-05-09T15:28:15.527Z",
-    "canonical:45af2db9cc11591f": "2026-05-09T15:28:15.527Z",
     "canonical:f22cae65851ed161": "2026-05-09T15:28:15.527Z",
     "canonical:660247d5af38da16": "2026-05-09T15:28:15.527Z",
     "canonical:cfe42c6b701679de": "2026-05-09T15:28:15.527Z",
@@ -943,7 +942,6 @@
     "canonical:0909350769decf2b": "2026-05-27T02:52:54.000Z",
     "canonical:42ec5a9361a648f4": "2026-05-27T02:52:54.000Z",
     "canonical:bf5373d5b6412f24": "2026-05-27T02:52:54.000Z",
-    "canonical:bd6bb0d3341ab7b2": "2026-05-27T02:52:54.000Z",
     "canonical:da1d1f81b47de301": "2026-05-27T02:52:54.000Z",
     "canonical:aaf453fcebecd6b3": "2026-05-27T02:52:54.000Z",
     "canonical:26834ab146689c4d": "2026-05-27T02:52:54.000Z",
@@ -952,7 +950,6 @@
     "canonical:30d116b5a98a2933": "2026-05-27T06:54:37.687Z",
     "canonical:4f50987606569140": "2026-05-27T06:54:37.687Z",
     "canonical:3be6e7afb72fb01c": "2026-05-27T06:54:37.687Z",
-    "canonical:3d66e48da23926ba": "2026-05-27T06:54:37.687Z",
     "canonical:a52697798ee25d09": "2026-05-27T06:54:37.687Z",
     "canonical:f2b9b01ed20bb453": "2026-05-27T06:54:37.687Z",
     "canonical:a5f3aa67d209292a": "2026-05-27T06:54:37.687Z",
@@ -1114,7 +1111,6 @@
     "canonical:1e423a804a7c32cd": "2026-06-04T23:50:18.472Z",
     "canonical:7b565341af2d7a36": "2026-06-04T23:50:18.472Z",
     "canonical:d7243946fe79b2df": "2026-06-04T23:50:18.472Z",
-    "canonical:d7d15c7cac2cdb4e": "2026-06-04T23:50:18.472Z",
     "canonical:9cad4a4c3e2e601d": "2026-06-04T23:50:18.472Z",
     "canonical:f97e52378206fda9": "2026-06-04T23:50:18.472Z",
     "canonical:4ca619c34eb3463e": "2026-06-05T10:40:30.398Z",
@@ -2703,19 +2699,6 @@
       "location": "Austin, TX / Remote",
       "department": "Quantitative Finance",
       "company": "Token Metrics",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:45af2db9cc11591f",
-      "title": "Man Global Markets (High-Frequency Quantitative Research) PhD Summer 2026 Internship",
-      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4675608101",
-      "location": "New York, NY",
-      "department": "Quantitative Finance",
-      "company": "Man Group",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -11799,19 +11782,6 @@
       ]
     },
     {
-      "id": "canonical:bd6bb0d3341ab7b2",
-      "title": "Software Development Intern",
-      "url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Idaho-United-States/Software-Development-Intern_R0043991",
-      "location": "Idaho",
-      "department": "Software",
-      "company": "Harris Computer",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:da1d1f81b47de301",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/base-power/5353ea33-57d4-46fa-9a96-e392a3f841bc/application",
@@ -11912,19 +11882,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:3d66e48da23926ba",
-      "title": "AI Solutions Intern",
-      "url": "https://jobs.eu.lever.co/cirrus/08d5aa55-2c11-4bab-896c-555067005e73/apply",
-      "location": "Edinburgh, UK",
-      "department": "AI/ML/Data",
-      "company": "Cirrus Logic",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -13493,16 +13450,6 @@
         "SWE-aligned",
         "high-signal role"
       ]
-    },
-    {
-      "id": "canonical:d7d15c7cac2cdb4e",
-      "title": "Hardware Design and Test Intern",
-      "url": "https://www.psiquantum.com/apply?gh_jid=7763020003",
-      "location": "Milpitas, CA",
-      "department": "Hardware",
-      "company": "PsiQuantum",
-      "score": 50,
-      "scoreReasons": []
     },
     {
       "id": "canonical:9cad4a4c3e2e601d",
