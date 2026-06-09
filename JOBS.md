@@ -1,6 +1,6 @@
 # Open Internships
 
-**1269** internships across **63/64** companies — last updated 2026-06-09.
+**1267** internships across **63/64** companies — last updated 2026-06-09.
 
 ## Companies
 
@@ -249,7 +249,6 @@
 - [Internship](#internship) (1)
 - [Interstates](#interstates) (1)
 - [InvoiceCloud](#invoicecloud) (1)
-- [Iron Mountain](#iron-mountain) (1)
 - [iSpot.tv](#ispot-tv) (1)
 - [iTradeNetwork](#itradenetwork) (1)
 - [Ivy Tech Community College](#ivy-tech-community-college) (1)
@@ -491,7 +490,7 @@
 - [Verkada](#verkada) (6)
 - [Viavi Solutions](#viavi-solutions) (1)
 - [Voloridge Investment Management](#voloridge-investment-management) (1)
-- [Voltus](#voltus) (2)
+- [Voltus](#voltus) (1)
 - [W.R. Berkley](#w-r-berkley) (3)
 - [Waabi](#waabi) (2)
 - [Walmart](#walmart) (1)
@@ -2109,8 +2108,8 @@
 | --- | --- | --- | --- | --- |
 | [Graduate Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4888622101) | 64 | Mumbai, India | — | 2026-06-08 |
 | [Hardware Machine Learning PhD Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, IL | AI/ML/Data | 2026-05-09 |
-| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
+| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
 | [Hardware Machine Learning PhD Research Internship](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, United States | — | 2026-05-06 |
 | [Graduate Floor Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4786701101) | 64 | Chicago, United States; Miami, United States; New York, United States; Philadelphia, United States; San Francisco, United States | — | 2026-05-06 |
 | [Graduate Site Reliability Engineer, 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4540358101) | 64 | Sydney,  Australia | — | 2026-05-06 |
@@ -2207,12 +2206,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](http://invoicecloud.net/careers/open-positions?gh_jid=7702184003) | 60 | Boston, MA | Software | 2026-05-09 |
-
-## Iron Mountain
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Machine Learning Intern - Machine Learning](https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/US--FL--Remote/Summer-2026-INTERN---Machine-Learning_J0103465) | 68 | Tampa, FL / Remote in USA | AI/ML/Data | 2026-06-08 |
 
 ## iSpot.tv
 
@@ -4179,7 +4172,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Residential Data Analyst Intern](https://jobs.lever.co/voltus/d30b5349-1023-497f-a5e5-264204071235/apply) | 68 | Remote in USA | AI/ML/Data | 2026-05-27 |
-| [Energy Markets Intern](https://jobs.lever.co/voltus/b7833dd8-d742-44d8-aae2-2e7de7541ce4/apply) | 68 | Remote in USA / Remote in Canada | Quant | 2026-05-09 |
 
 ## W.R. Berkley
 

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-09T02:39:51.895Z",
+  "generatedAt": "2026-06-09T06:35:01.771Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1269,
+  "jobCount": 1267,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -248,7 +248,6 @@
     "canonical:3f44cd57fca349f6": "2026-05-09T15:28:15.527Z",
     "canonical:5c5c4aaee7bd2d24": "2026-05-11T23:38:25.770Z",
     "canonical:6ea8c9f6ba23f934": "2026-05-09T15:28:15.527Z",
-    "canonical:697a47b2af9a8c05": "2026-05-09T15:28:15.527Z",
     "canonical:e9ca680d78a06ba9": "2026-05-09T15:28:15.527Z",
     "canonical:cce5b92632cdec92": "2026-05-09T15:28:15.527Z",
     "canonical:251d68af734c14ba": "2026-05-09T15:28:15.527Z",
@@ -1252,7 +1251,6 @@
     "canonical:ce1acd1696a1b7f2": "2026-06-08T22:47:23.120Z",
     "canonical:fe017bb7218d214e": "2026-06-08T23:57:00.045Z",
     "canonical:ec7b5f1c953f0acf": "2026-06-08T23:57:00.045Z",
-    "canonical:3337cf24484cb661": "2026-06-08T23:57:00.045Z",
     "canonical:80d8b55bc00c3b4c": "2026-06-08T23:57:00.045Z",
     "canonical:b1c3bc01bef551d7": "2026-06-08T23:57:00.045Z",
     "canonical:7cc5fc6fd6a7eeef": "2026-06-08T23:57:00.045Z",
@@ -1381,10 +1379,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1396,10 +1394,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -4612,19 +4610,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:697a47b2af9a8c05",
-      "title": "Energy Markets Intern",
-      "url": "https://jobs.lever.co/voltus/b7833dd8-d742-44d8-aae2-2e7de7541ce4/apply",
-      "location": "Remote in USA / Remote in Canada",
-      "department": "Quant",
-      "company": "Voltus",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -14936,19 +14921,6 @@
       "location": "Chicago, IL",
       "department": "Software",
       "company": "EVERSANA",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:3337cf24484cb661",
-      "title": "Machine Learning Intern - Machine Learning",
-      "url": "https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/US--FL--Remote/Summer-2026-INTERN---Machine-Learning_J0103465",
-      "location": "Tampa, FL / Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "Iron Mountain",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
