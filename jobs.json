@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-09T10:23:15.549Z",
+  "generatedAt": "2026-06-09T13:20:44.470Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1263,
+  "jobCount": 1262,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -630,7 +630,6 @@
     "canonical:8e6a874ae67bbc06": "2026-05-14T05:32:10.854Z",
     "canonical:5d5c9780f955f253": "2026-05-14T05:32:10.854Z",
     "canonical:05df72f4403dd476": "2026-05-14T05:32:10.854Z",
-    "canonical:888e5e3e8bc2dfab": "2026-05-14T05:32:10.854Z",
     "canonical:b5afd52c0570a527": "2026-05-14T05:32:10.854Z",
     "canonical:211f8c8f1543e4ac": "2026-05-14T05:32:10.854Z",
     "canonical:1433ae58ceb11aaa": "2026-05-14T12:16:09.293Z",
@@ -1165,7 +1164,6 @@
     "canonical:f5d84370157fe2ee": "2026-06-06T14:14:20.078Z",
     "canonical:180d901e190fbd63": "2026-06-06T14:14:20.078Z",
     "canonical:2b95c48ea9f5b253": "2026-06-06T14:14:20.078Z",
-    "canonical:ce890d51c1a61aab": "2026-06-06T14:14:20.078Z",
     "canonical:808521aedb31fb4f": "2026-06-06T15:40:28.831Z",
     "canonical:0ccbf02e3f553636": "2026-06-06T15:40:28.831Z",
     "canonical:525d35ef69b019bc": "2026-06-06T15:40:28.831Z",
@@ -1174,7 +1172,6 @@
     "canonical:85735fa4cd042164": "2026-06-06T17:59:37.822Z",
     "canonical:c980dd7762d04498": "2026-06-06T20:38:33.246Z",
     "canonical:6a54db97364bf00a": "2026-06-06T21:42:54.367Z",
-    "canonical:8504c5f17035dc0a": "2026-06-06T22:43:32.931Z",
     "canonical:d7df174fc9ae5ee1": "2026-06-06T22:43:32.931Z",
     "canonical:f432089fe9f41109": "2026-06-06T23:44:35.766Z",
     "canonical:7906b1bff6dfef42": "2026-06-07T01:56:06.706Z",
@@ -1266,7 +1263,9 @@
     "canonical:3e377bf0365846a5": "2026-06-08T23:57:00.045Z",
     "canonical:5a95591a949bab78": "2026-06-09T02:39:51.895Z",
     "canonical:f8b74f761adeea1f": "2026-06-09T10:23:15.549Z",
-    "canonical:a9fec30c036e9862": "2026-06-09T10:23:15.549Z"
+    "canonical:a9fec30c036e9862": "2026-06-09T10:23:15.549Z",
+    "canonical:8e9b3b4bdaa4e763": "2026-06-09T13:20:44.470Z",
+    "canonical:93ff043c39ae600b": "2026-06-09T13:20:44.470Z"
   },
   "jobs": [
     {
@@ -1375,10 +1374,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1390,10 +1389,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -5480,6 +5479,19 @@
       "location": "Fredericton, NB, Canada",
       "department": "Quant",
       "company": "Royal Bank of Canada",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:8e9b3b4bdaa4e763",
+      "title": "Multimedia Codec Development Intern",
+      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Multimedia-Codec-Development-Intern_R106769",
+      "location": "Palo Alto, CA",
+      "department": "AI/ML/Data",
+      "company": "Tencent",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -10446,18 +10458,6 @@
       ]
     },
     {
-      "id": "canonical:888e5e3e8bc2dfab",
-      "title": "Data Analytics Intern",
-      "url": "https://careers-werfen.icims.com/jobs/10384/job?mobile=true&needsRedirect=false",
-      "location": "Norcross, GA",
-      "department": "AI/ML/Data",
-      "company": "Werfen",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:b5afd52c0570a527",
       "title": "Software Engineer Intern - Distributed Simulation Systems",
       "url": "https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066/application",
@@ -11335,19 +11335,6 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:8504c5f17035dc0a",
-      "title": "PhD Data Generation and User Simulation Research Intern",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Data-Generation-and-User-Simulation-Research-Intern---Fall-2026_JR2018317",
-      "location": "Santa Clara, CA",
-      "department": "AI/ML/Data",
-      "company": "NVIDIA",
-      "score": 68,
-      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
@@ -12663,6 +12650,20 @@
       ]
     },
     {
+      "id": "canonical:a6f482844306182e",
+      "title": "Predictive Sales Prospecting Intern",
+      "url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Intern---Predictive-Sales-Prospecting_4038245",
+      "location": "Wilmington, DE",
+      "department": "AI/ML/Data",
+      "company": "Agilent Technologies",
+      "score": 48,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS",
+        "lower-fit title"
+      ]
+    },
+    {
       "id": "canonical:66c86d4723bacda5",
       "title": "Software Developer Intern - Stagiaire en Développement Logiciel",
       "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-1",
@@ -13965,19 +13966,6 @@
       ]
     },
     {
-      "id": "canonical:ce890d51c1a61aab",
-      "title": "Web Producer Intern",
-      "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Web-Producer-Intern--September-2026-12-Months-_R10090",
-      "location": "Mississauga, ON, Canada",
-      "department": "Software",
-      "company": "SOTI",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:0ccbf02e3f553636",
       "title": "Data Engineer Intern - Fleet Analytics",
       "url": "https://www.tesla.com/careers/search/job/271696",
@@ -14914,6 +14902,19 @@
       ]
     },
     {
+      "id": "canonical:93ff043c39ae600b",
+      "title": "Predoctoral Research Associate Intern - Economics and Political Economy",
+      "url": "https://jobs.smartrecruiters.com/HarvardUniversity/3743990013515566",
+      "location": "Boston, MA",
+      "department": "AI/ML/Data",
+      "company": "Harvard University",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:a0c3232bb05edac6",
       "title": "Computational Physics Intern",
       "url": "https://www.zipline.com/careers?gh_jid=7766408003#open-roles",
@@ -14947,20 +14948,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:a6f482844306182e",
-      "title": "Predictive Sales Prospecting Intern",
-      "url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Intern---Predictive-Sales-Prospecting_4038181",
-      "location": "Wilmington, DE",
-      "department": "AI/ML/Data",
-      "company": "Agilent Technologies",
-      "score": 48,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS",
-        "lower-fit title"
       ]
     },
     {

@@ -1,6 +1,6 @@
 # Open Internships
 
-**1263** internships across **63/64** companies — last updated 2026-06-09.
+**1262** internships across **63/64** companies — last updated 2026-06-09.
 
 ## Companies
 
@@ -210,6 +210,7 @@
 - [H&CO](#h-co) (1)
 - [Haize Labs](#haize-labs) (1)
 - [Harris Computer](#harris-computer) (1)
+- [Harvard University](#harvard-university) (1)
 - [HCompany](#hcompany) (1)
 - [Hearst](#hearst) (1)
 - [Helix Electric](#helix-electric) (1)
@@ -326,7 +327,7 @@
 - [Notion](#notion) (5)
 - [NPR](#npr) (1)
 - [Nuro](#nuro) (2)
-- [NVIDIA](#nvidia) (12)
+- [NVIDIA](#nvidia) (11)
 - [OCC](#occ) (1)
 - [Octaura](#octaura) (1)
 - [Omnis](#omnis) (1)
@@ -419,7 +420,6 @@
 - [SoloPulse](#solopulse) (2)
 - [Solva](#solva) (1)
 - [Sony](#sony) (4)
-- [SOTI](#soti) (1)
 - [SpaceX](#spacex) (3)
 - [Squarepoint Capital](#squarepoint-capital) (7)
 - [SRI International](#sri-international) (1)
@@ -446,7 +446,7 @@
 - [Teall Sports & Entertainment](#teall-sports-entertainment) (1)
 - [Technergetics](#technergetics) (1)
 - [Techtronic Industries](#techtronic-industries) (1)
-- [Tencent](#tencent) (12)
+- [Tencent](#tencent) (13)
 - [TENEX.AI](#tenex-ai) (1)
 - [Tenstorrent](#tenstorrent) (7)
 - [Terranox AI](#terranox-ai) (1)
@@ -499,7 +499,6 @@
 - [Wayve](#wayve) (1)
 - [Wealth.com](#wealth-com) (1)
 - [Wells Fargo](#wells-fargo) (11)
-- [Werfen](#werfen) (1)
 - [WeRide](#weride) (3)
 - [Westinghouse](#westinghouse) (1)
 - [WindBorne Systems](#windborne-systems) (1)
@@ -599,7 +598,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Predictive Sales Prospecting Intern](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Intern---Predictive-Sales-Prospecting_4038181) | 48 | Wilmington, DE | AI/ML/Data | 2026-06-05 |
+| [Predictive Sales Prospecting Intern](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Intern---Predictive-Sales-Prospecting_4038245) | 48 | Wilmington, DE | AI/ML/Data | 2026-06-05 |
 
 ## Akuna Capital
 
@@ -1950,6 +1949,12 @@
 | --- | --- | --- | --- | --- |
 | [Software Development Intern](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Idaho-United-States/Software-Development-Intern_R0043991) | 68 | Idaho | Software | 2026-05-27 |
 
+## Harvard University
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Predoctoral Research Associate Intern - Economics and Political Economy](https://jobs.smartrecruiters.com/HarvardUniversity/3743990013515566) | 68 | Boston, MA | AI/ML/Data | 2026-06-09 |
+
 ## HCompany
 
 | Title | Score | Location | Department | First seen |
@@ -2094,8 +2099,8 @@
 | --- | --- | --- | --- | --- |
 | [Graduate Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4888622101) | 64 | Mumbai, India | — | 2026-06-08 |
 | [Hardware Machine Learning PhD Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, IL | AI/ML/Data | 2026-05-09 |
-| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
+| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
 | [Hardware Machine Learning PhD Research Internship](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, United States | — | 2026-05-06 |
 | [Graduate Floor Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4786701101) | 64 | Chicago, United States; Miami, United States; New York, United States; Philadelphia, United States; San Francisco, United States | — | 2026-05-06 |
 | [Graduate Site Reliability Engineer, 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4540358101) | 64 | Sydney,  Australia | — | 2026-05-06 |
@@ -2795,7 +2800,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Cloud Distributed Systems Backend Intern - Geforce NOW](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cloud-Distributed-Systems-Backend-Intern--GeForce-NOW---Summer-2026_JR2019407) | 93 | Canada / Santa Clara, CA | Software | 2026-06-08 |
-| [PhD Data Generation and User Simulation Research Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Data-Generation-and-User-Simulation-Research-Intern---Fall-2026_JR2018317) | 68 | Santa Clara, CA | AI/ML/Data | 2026-06-06 |
 | [Formal Verification Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Intern---Fall-2026_JR2017490) | 58 | Austin, TX / Santa Clara, CA | Hardware | 2026-06-06 |
 | [Software Engineer Intern - Mapping Autonomous Vehicles](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Mapping-Autonomous-Vehicles---Fall-2026_JR2011493) | 93 | Santa Clara, CA | Software | 2026-06-06 |
 | [Software Engineering Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745) | 68 | Santa Clara, CA | Software | 2026-06-05 |
@@ -3484,12 +3488,6 @@
 | [Intern – Advanced Computer Graphics Research](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Culver-City/Intern--Advanced-Computer-Graphics-Research_JR-118801) | 68 | Culver City, CA | AI/ML/Data | 2026-05-09 |
 | [Research Intern-AI Ethics](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---California/Research-Intern--AI-Ethics_JR-119055) | 68 | California / San Jose, CA / Jackson Township, NJ / Florida / Waterbury, CT / Virginia / NYC / Massachusetts | AI/ML/Data | 2026-05-09 |
 
-## SOTI
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Web Producer Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Web-Producer-Intern--September-2026-12-Months-_R10090) | 68 | Mississauga, ON, Canada | Software | 2026-06-06 |
-
 ## SpaceX
 
 | Title | Score | Location | Department | First seen |
@@ -3675,6 +3673,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Multimedia Codec Development Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Multimedia-Codec-Development-Intern_R106769) | 68 | Palo Alto, CA | AI/ML/Data | 2026-06-09 |
 | [Multimedia Development Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Multimedia-development-intern_R107331) | 68 | Palo Alto, CA | AI/ML/Data | 2026-06-08 |
 | [Hunyuan Multimodal Algorithm Researcher intern - Omni-Modal](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650) | 93 | Palo Alto, CA | AI/ML/Data | 2026-06-06 |
 | [Game Research & Development Intern - Engine Research](https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/US-California-Los-Angeles/Game-Research---Development-Intern--Engine-Research_R107344) | 68 | LA | Software | 2026-06-01 |
@@ -4230,12 +4229,6 @@
 | [2026 Corporate Risk Summer Internship - Early Careers](https://www.linkedin.com/jobs/view/4252090624) | 42 | Charlotte, NC | — | 2026-05-16 |
 | [2026 Wealth & Investment Management Summer Internship - Early Careers](https://www.linkedin.com/jobs/view/4256849831) | 42 | Charlotte, NC | — | 2026-05-16 |
 | [2026 Audit Summer Internship - Early Careers -](https://www.snagajob.com/jobs/1125021743?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 22 | Charlotte, NC | — | 2026-05-16 |
-
-## Werfen
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Analytics Intern](https://careers-werfen.icims.com/jobs/10384/job?mobile=true&needsRedirect=false) | 60 | Norcross, GA | AI/ML/Data | 2026-05-14 |
 
 ## WeRide
 
