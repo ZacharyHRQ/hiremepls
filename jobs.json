@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T13:20:44.470Z",
+  "generatedAt": "2026-06-09T16:15:38.284Z",
   "companyCount": 64,
   "okCount": 63,
   "jobCount": 1262,
@@ -51,7 +51,6 @@
     "canonical:5c3a7585df271d94": "2026-05-06T06:42:07.596Z",
     "canonical:36b00da4bc44f6c0": "2026-05-06T06:42:07.596Z",
     "canonical:1deca2b01fe852c8": "2026-05-06T06:42:07.596Z",
-    "canonical:c95e61d3b2d66c43": "2026-05-06T06:42:07.596Z",
     "canonical:c15d80ab1065f4f1": "2026-05-06T06:42:07.596Z",
     "canonical:c7d45c381b9830d8": "2026-05-06T06:42:07.596Z",
     "canonical:7c6db6e223273197": "2026-05-06T06:42:07.596Z",
@@ -74,7 +73,6 @@
     "canonical:ec3c37431442cdc8": "2026-05-06T06:42:07.596Z",
     "canonical:864b184043940577": "2026-05-06T06:42:07.596Z",
     "canonical:accc7acdf5c4229f": "2026-05-06T06:42:07.596Z",
-    "canonical:7a2fd240cea729fb": "2026-05-15T16:23:09.152Z",
     "canonical:9db8469f111d27a7": "2026-05-13T08:10:42.769Z",
     "canonical:31dd1ab15c427f1e": "2026-05-06T06:42:07.596Z",
     "canonical:94acd2d1087ef9dd": "2026-05-06T06:42:07.596Z",
@@ -607,7 +605,6 @@
     "canonical:b5545588e338ddbb": "2026-05-09T15:28:15.527Z",
     "canonical:ae2198c9ecbb102e": "2026-05-11T00:06:33.325Z",
     "canonical:7c9a6f1e70b82f33": "2026-05-09T15:28:15.527Z",
-    "canonical:6e6dee7bb1a50f06": "2026-05-11T16:44:59.304Z",
     "canonical:2f3d5b509ef4ff32": "2026-05-11T23:38:25.770Z",
     "canonical:589994bb1826abbc": "2026-05-11T23:38:25.770Z",
     "canonical:0d4b33c25b45002b": "2026-05-11T23:38:25.770Z",
@@ -1147,7 +1144,6 @@
     "canonical:1903ea6b0e57aeaa": "2026-06-06T00:04:30.171Z",
     "canonical:0ef865c3ff3f9f5f": "2026-06-06T00:04:30.171Z",
     "canonical:3da39dab672a1b4b": "2026-06-06T00:04:30.171Z",
-    "canonical:87eab4529cff3827": "2026-06-06T00:04:30.171Z",
     "canonical:8a4ddfd20248576c": "2026-06-06T00:04:30.171Z",
     "canonical:c9a881fad90b6944": "2026-06-06T00:04:30.171Z",
     "canonical:0569c4db1819e9e6": "2026-06-06T00:04:30.171Z",
@@ -1265,7 +1261,11 @@
     "canonical:f8b74f761adeea1f": "2026-06-09T10:23:15.549Z",
     "canonical:a9fec30c036e9862": "2026-06-09T10:23:15.549Z",
     "canonical:8e9b3b4bdaa4e763": "2026-06-09T13:20:44.470Z",
-    "canonical:93ff043c39ae600b": "2026-06-09T13:20:44.470Z"
+    "canonical:93ff043c39ae600b": "2026-06-09T13:20:44.470Z",
+    "canonical:cff77a752a354cd5": "2026-06-09T16:15:38.284Z",
+    "canonical:5e9331f4d453c2c7": "2026-06-09T16:15:38.284Z",
+    "canonical:0774a5fc25363c9d": "2026-06-09T16:15:38.284Z",
+    "canonical:0bc60199c24624a0": "2026-06-09T16:15:38.284Z"
   },
   "jobs": [
     {
@@ -1895,19 +1895,6 @@
       ]
     },
     {
-      "id": "canonical:c95e61d3b2d66c43",
-      "title": "Man Global Markets High-Frequency Quantitative Research Summer 2026 Internship",
-      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4675608101",
-      "location": "New York",
-      "department": "",
-      "company": "Man Group",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:c15d80ab1065f4f1",
       "title": "Quantitative Developer, Intern",
       "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4847708101",
@@ -2067,10 +2054,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2080,10 +2067,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2400,18 +2387,6 @@
       "scoreReasons": [
         "direct ATS",
         "lower-fit title"
-      ]
-    },
-    {
-      "id": "canonical:7a2fd240cea729fb",
-      "title": "Solutions Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7738938?gh_jid=7738938",
-      "location": "In-Office",
-      "department": "",
-      "company": "Cloudflare",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
       ]
     },
     {
@@ -10145,18 +10120,6 @@
       ]
     },
     {
-      "id": "canonical:6e6dee7bb1a50f06",
-      "title": "Student Investigations Intern",
-      "url": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260002YD",
-      "location": "Boston, MA",
-      "department": "AI/ML/Data",
-      "company": "Commonwealth of Massachusetts",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:2f3d5b509ef4ff32",
       "title": "Software Engineer Intern - Data",
       "url": "https://jobs.ashbyhq.com/super.com/026d7e42-85b6-4baa-bab8-bf3f6d10bc0d/application",
@@ -13861,19 +13824,6 @@
       ]
     },
     {
-      "id": "canonical:87eab4529cff3827",
-      "title": "Research Intern",
-      "url": "https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/Main-Campus-Columbus-OH/Research-Intern_R-26191-1",
-      "location": "Columbus, OH",
-      "department": "AI/ML/Data",
-      "company": "Nationwide Children's Hospital",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:8a4ddfd20248576c",
       "title": "ML Engineer Intern",
       "url": "https://jobs.lever.co/geocomply-2/bd0ae58f-5718-4200-bd33-cd0e3c1465d5/apply",
@@ -15097,6 +15047,57 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:cff77a752a354cd5",
+      "title": "Hardware & Embedded Research Intern",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000131150005",
+      "location": "Sunnyvale, CA",
+      "department": "Hardware",
+      "company": "Robert Bosch Venture Capital",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:5e9331f4d453c2c7",
+      "title": "Grid Automation & Software Intern",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041706-3",
+      "location": "Remote in USA",
+      "department": "Software",
+      "company": "GE Vernova",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:0774a5fc25363c9d",
+      "title": "Data Science Intern",
+      "url": "https://job-boards.greenhouse.io/ispottv/jobs/4703297005",
+      "location": "Bellevue, WA",
+      "department": "AI/ML/Data",
+      "company": "iSpot.tv",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:0bc60199c24624a0",
+      "title": "Catastrophe Modeling & Data Analytics Intern",
+      "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Catastrophe-Modeling---Data-Analytics-Intern--Fall-2026-_R9102",
+      "location": "Cincinnati, OH",
+      "department": "AI/ML/Data",
+      "company": "Great American Insurance Company",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {

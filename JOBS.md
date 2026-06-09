@@ -103,7 +103,7 @@
 - [City of Largo](#city-of-largo) (1)
 - [Clarity Innovations](#clarity-innovations) (1)
 - [Clarivate](#clarivate) (1)
-- [Cloudflare](#cloudflare) (16)
+- [Cloudflare](#cloudflare) (15)
 - [Cloudforce](#cloudforce) (1)
 - [CME Group](#cme-group) (1)
 - [Codeage](#codeage) (1)
@@ -111,7 +111,7 @@
 - [Cole Engineering Services](#cole-engineering-services) (1)
 - [Colgate-Palmolive](#colgate-palmolive) (1)
 - [Collabera](#collabera) (1)
-- [Commonwealth of Massachusetts](#commonwealth-of-massachusetts) (8)
+- [Commonwealth of Massachusetts](#commonwealth-of-massachusetts) (7)
 - [Conagra Brands](#conagra-brands) (2)
 - [ConnectPrep](#connectprep) (1)
 - [Context](#context) (1)
@@ -188,7 +188,7 @@
 - [Foundation ](#foundation) (1)
 - [Four Hands](#four-hands) (1)
 - [FOX](#fox) (1)
-- [GE Vernova](#ge-vernova) (5)
+- [GE Vernova](#ge-vernova) (6)
 - [Gelber Group](#gelber-group) (5)
 - [Gemini](#gemini) (1)
 - [GenBio AI](#genbio-ai) (1)
@@ -203,6 +203,7 @@
 - [Gimlet Labs](#gimlet-labs) (1)
 - [Ginkgo Bioworks](#ginkgo-bioworks) (2)
 - [GitHub](#github) (1)
+- [Great American Insurance Company](#great-american-insurance-company) (1)
 - [Great Question](#great-question) (1)
 - [Green Planet Solutions](#green-planet-solutions) (1)
 - [Grow Financial Federal Credit Union](#grow-financial-federal-credit-union) (1)
@@ -248,7 +249,7 @@
 - [Internship](#internship) (1)
 - [Interstates](#interstates) (1)
 - [InvoiceCloud](#invoicecloud) (1)
-- [iSpot.tv](#ispot-tv) (1)
+- [iSpot.tv](#ispot-tv) (2)
 - [iTradeNetwork](#itradenetwork) (1)
 - [Ivy Tech Community College](#ivy-tech-community-college) (1)
 - [Jain Global](#jain-global) (1)
@@ -287,7 +288,7 @@
 - [Maher Duessel](#maher-duessel) (1)
 - [MaintainX](#maintainx) (1)
 - [MaloneBailey, LLP](#malonebailey-llp) (1)
-- [Man Group](#man-group) (4)
+- [Man Group](#man-group) (3)
 - [Marathon Petroleum Corporation](#marathon-petroleum-corporation) (1)
 - [Mariana Minerals](#mariana-minerals) (3)
 - [Maricopa Association of Governments (MAG)](#maricopa-association-of-governments-mag) (1)
@@ -313,7 +314,7 @@
 - [Multiply Labs](#multiply-labs) (2)
 - [Naïve](#na-ve) (1)
 - [Nash](#nash) (2)
-- [Nationwide Children's Hospital](#nationwide-children-s-hospital) (2)
+- [Nationwide Children's Hospital](#nationwide-children-s-hospital) (1)
 - [NBCUniversal](#nbcuniversal) (2)
 - [Neuralink](#neuralink) (3)
 - [NewsBreak](#newsbreak) (4)
@@ -379,7 +380,7 @@
 - [Rippling](#rippling) (3)
 - [Rivian](#rivian) (1)
 - [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (3)
-- [Robert Bosch Venture Capital](#robert-bosch-venture-capital) (2)
+- [Robert Bosch Venture Capital](#robert-bosch-venture-capital) (3)
 - [Roblox](#roblox) (1)
 - [Roche](#roche) (1)
 - [Rocket Lab](#rocket-lab) (1)
@@ -1236,7 +1237,6 @@
 | [Legal Intern – Commercial Legal (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7983674?gh_jid=7983674) | 58 | In-Office | — | 2026-06-05 |
 | [People Team Intern - HR Operations & AI Innovation (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240) | 58 | In-Office | — | 2026-05-20 |
 | [Network Engineering Intern (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7929538?gh_jid=7929538) | 58 | In-Office | — | 2026-05-18 |
-| [Solutions Engineer Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7738938?gh_jid=7738938) | 58 | In-Office | — | 2026-05-15 |
 | [Technical Support Engineer Intern (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7912382?gh_jid=7912382) | 58 | In-Office | — | 2026-05-13 |
 | [Network Engineering Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7917883?gh_jid=7917883) | 58 | In-Office | — | 2026-05-13 |
 | [Marketing Events and Campaigns Intern (Mid-Year 2026)](https://boards.greenhouse.io/cloudflare/jobs/7736919?gh_jid=7736919) | 38 | In-Office | — | 2026-05-07 |
@@ -1301,7 +1301,6 @@
 | [Contracted Student Intern - Child - Youth and Family](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=2600034F) | 60 | Boston, MA | AI/ML/Data | 2026-05-27 |
 | [Student Intern](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260003KB) | 60 | Massachusetts | AI/ML/Data | 2026-05-27 |
 | [Medicaid Management Information Systems Knowledge Management Intern - Medicaid Management Information Systems - Artificial Intelligence](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260003GT) | 60 | Quincy, MA | AI/ML/Data | 2026-05-14 |
-| [Student Investigations Intern](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260002YD) | 60 | Boston, MA | AI/ML/Data | 2026-05-11 |
 | [Aeronautics Drone Intern](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=26000160) | 60 | Boston, MA | AI/ML/Data | 2026-05-09 |
 | [Intern - Data Analytics](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=26000268) | 60 | Massachusetts | AI/ML/Data | 2026-05-09 |
 | [Intern - Quality Assurance](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=2600023O) | 60 | Massachusetts | AI/ML/Data | 2026-05-09 |
@@ -1806,6 +1805,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Grid Automation & Software Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041706-3) | 68 | Remote in USA | Software | 2026-06-09 |
 | [Grid Automation & Software Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041709) | 68 | United States | Software | 2026-06-08 |
 | [Data Analyst Intern - Competency Management](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Stafford/Data-Analyst-Intern---Competency-Management_R5044024) | 68 | Stoke-on-Trent, UK | AI/ML/Data | 2026-06-05 |
 | [GE Vernova Grid Solutions Supply Chain Manufacturing Internship - Summer 2026](https://www.linkedin.com/jobs/view/4271049276) | 42 | Clearwater, FL | — | 2026-05-16 |
@@ -1905,6 +1905,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](https://githubinc.jibeapply.com/jobs/4640) | 60 | Remote in USA | Software Engineering | 2026-05-09 |
+
+## Great American Insurance Company
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Catastrophe Modeling & Data Analytics Intern](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Catastrophe-Modeling---Data-Analytics-Intern--Fall-2026-_R9102) | 68 | Cincinnati, OH | AI/ML/Data | 2026-06-09 |
 
 ## Great Question
 
@@ -2202,6 +2208,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data Science Intern](https://job-boards.greenhouse.io/ispottv/jobs/4703297005) | 68 | Bellevue, WA | AI/ML/Data | 2026-06-09 |
 | [Engineer Intern](https://job-boards.greenhouse.io/ispottv/jobs/4702457005) | 93 | Bellevue, WA | Software | 2026-06-03 |
 
 ## iTradeNetwork
@@ -2461,7 +2468,6 @@
 | --- | --- | --- | --- | --- |
 | [Man Global Markets (High-Frequency Quantitative Research) PhD Summer 2026 Internship](https://job-boards.eu.greenhouse.io/mangroup/jobs/4675608101) | 68 | New York, NY | Quantitative Finance | 2026-05-09 |
 | [Quantitative Developer, Intern](https://job-boards.eu.greenhouse.io/mangroup/jobs/4847708101) | 93 | Shanghai | — | 2026-05-06 |
-| [Man Global Markets High-Frequency Quantitative Research Summer 2026 Internship](https://job-boards.eu.greenhouse.io/mangroup/jobs/4675608101) | 68 | New York | — | 2026-05-06 |
 | [Quantitative Research Intern – Specialist Equities](https://job-boards.eu.greenhouse.io/mangroup/jobs/4847714101) | 68 | Hong Kong | — | 2026-05-06 |
 
 ## Marathon Petroleum Corporation
@@ -2687,7 +2693,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Research Intern](https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/Main-Campus-Columbus-OH/Research-Intern_R-26191-1) | 68 | Columbus, OH | AI/ML/Data | 2026-06-06 |
 | [IT R&1 Data Science Intern](https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/431-S-18th-St-Columbus-OH/IT-R-I-Data-Science-Intern_R-25866-1) | 68 | Columbus, OH | AI/ML/Data | 2026-05-27 |
 
 ## NBCUniversal
@@ -3197,6 +3202,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Hardware & Embedded Research Intern](https://jobs.smartrecruiters.com/BoschGroup/744000131150005) | 58 | Sunnyvale, CA | Hardware | 2026-06-09 |
 | [Radar Sensing AI Research Intern](https://jobs.smartrecruiters.com/BoschGroup/744000130576071) | 68 | Pittsburgh, PA | AI/ML/Data | 2026-06-06 |
 | [Wireless Sensing Research Intern](https://jobs.smartrecruiters.com/BoschGroup/744000121477597) | 68 | Sunnyvale, CA | AI/ML/Data | 2026-05-09 |
 
@@ -3563,8 +3569,8 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [PhD Data Scientist Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | Seattle, WA / SF / Chicago, IL / NYC | AI/ML/Data | 2026-06-06 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | 56 | Mexico City, Mexico | — | 2026-05-06 |
