@@ -1,6 +1,6 @@
 # Open Internships
 
-**1269** internships across **63/64** companies — last updated 2026-06-10.
+**1266** internships across **63/64** companies — last updated 2026-06-10.
 
 ## Companies
 
@@ -28,6 +28,7 @@
 - [Amazon](#amazon) (14)
 - [Ambarella](#ambarella) (2)
 - [American Enterprise Institute](#american-enterprise-institute) (1)
+- [Analysys Mason](#analysys-mason) (1)
 - [Anima](#anima) (1)
 - [Anterior](#anterior) (1)
 - [AnySignal](#anysignal) (1)
@@ -90,7 +91,7 @@
 - [ByteDance](#bytedance) (29)
 - [C&S Wholesale Grocers](#c-s-wholesale-grocers) (1)
 - [Cadence Design Systems](#cadence-design-systems) (3)
-- [CAE](#cae) (3)
+- [CAE](#cae) (2)
 - [Capella](#capella) (2)
 - [CareScout](#carescout) (1)
 - [Caterpillar Inc.](#caterpillar-inc) (1)
@@ -244,6 +245,7 @@
 - [Impulse Space](#impulse-space) (1)
 - [Infojini](#infojini) (1)
 - [Inizio](#inizio) (1)
+- [Instacart](#instacart) (2)
 - [Instawork](#instawork) (1)
 - [Institute of Foundation Models](#institute-of-foundation-models) (1)
 - [Integra FEC](#integra-fec) (1)
@@ -349,7 +351,6 @@
 - [PathAI](#pathai) (2)
 - [PayPal](#paypal) (1)
 - [Pega](#pega) (1)
-- [Pennant Group](#pennant-group) (1)
 - [PennState University](#pennstate-university) (1)
 - [Pennsylvania State University](#pennsylvania-state-university) (3)
 - [Per Scholas](#per-scholas) (1)
@@ -426,7 +427,6 @@
 - [SOTI](#soti) (1)
 - [SpaceX](#spacex) (3)
 - [Squarepoint Capital](#squarepoint-capital) (7)
-- [SRI International](#sri-international) (1)
 - [SS&C](#ss-c) (2)
 - [Stantec](#stantec) (1)
 - [StarSling](#starsling) (1)
@@ -509,7 +509,6 @@
 - [WSP](#wsp) (1)
 - [WTW](#wtw) (1)
 - [XPENG Motors](#xpeng-motors) (2)
-- [Zillow](#zillow) (3)
 - [Zip](#zip) (1)
 - [Zipline](#zipline) (4)
 - [Zone 5 Technologies](#zone-5-technologies) (1)
@@ -681,6 +680,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Housing Center Intern](https://internships-aei.icims.com/jobs/2614/job?mobile=true&needsRedirect=false) | 60 | Washington, DC | AI/ML/Data | 2026-05-27 |
+
+## Analysys Mason
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI Solutions Intern](https://jobs.smartrecruiters.com/AnalysysMason1/744000131423669) | 68 | London, UK | Software | 2026-06-10 |
 
 ## Anima
 
@@ -1153,7 +1158,6 @@
 | --- | --- | --- | --- | --- |
 | [C++ Developer Intern](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-167-Developerr-C----Intern--Content-Pipeline--_122205) | 93 | Montreal, QC, Canada | Software | 2026-06-08 |
 | [Software Developer Intern](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-951-Software-Developer-Intern_122213) | 93 | Montreal, QC, Canada | Software | 2026-06-08 |
-| [Data Analyst Intern](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-IT-105-Data-Analyst--Intern---_120935) | 68 | Montreal, QC, Canada | AI/ML/Data | 2026-05-19 |
 
 ## Capella
 
@@ -1698,7 +1702,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Business Intelligence Intern](https://jobs.smartrecruiters.com/Eurofins/744000131132249) | 68 | Lancaster, PA | AI/ML/Data | 2026-06-08 |
+| [Business Intelligence Intern](https://jobs.smartrecruiters.com/Eurofins/744000130829489) | 68 | Lancaster, PA | AI/ML/Data | 2026-06-08 |
 | [Engineering Intern - Test Engineer](https://jobs.smartrecruiters.com/Eurofins/744000102591529) | 58 | Santa Clara, CA | Hardware | 2026-05-09 |
 | [Intern](https://jobs.smartrecruiters.com/Eurofins/744000102593098) | 58 | Hayward, CA | Hardware | 2026-05-09 |
 
@@ -2175,6 +2179,13 @@
 | --- | --- | --- | --- | --- |
 | [Data and Analytics Intern](https://job-boards.greenhouse.io/inizio/jobs/7874161) | 68 | Manchester, UK | AI/ML/Data | 2026-05-09 |
 
+## Instacart
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Machine Learning Engineer, PhD Intern (Fall)](https://instacart.careers/job/?gh_jid=5917202) | 85 | United States - Remote | — | 2026-06-10 |
+| [Machine Learning PhD Intern, Economics (Fall)](https://instacart.careers/job/?gh_jid=7532267) | 60 | United States - Remote | — | 2026-06-10 |
+
 ## Instawork
 
 | Title | Score | Location | Department | First seen |
@@ -2441,7 +2452,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Optical Verification Engineer Co-op/Intern](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_2026530) | 58 | Ottawa, ON, Canada | Hardware | 2026-05-09 |
+| [Embedded Software Engineer Co-op/Intern](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer--Co-op-Intern-_2026743) | 93 | Ottawa, ON, Canada | Hardware | 2026-06-10 |
 
 ## Lyft
 
@@ -2960,12 +2971,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Summer Intern, Software Delivery Excellence Alliance](https://www.pega.com/about/careers/22692/software-engineer-summer-intern-software-delivery-excellence-alliance) | 85 | Waltham, MA | Software Engineering | 2026-05-09 |
 
-## Pennant Group
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Analytics Engineer Intern](https://pennant.wd1.myworkdayjobs.com/PennantServicesCareerSite/job/Remote-Utah/Analytics-Engineer-Intern_JR62022) | 93 | Utah | AI/ML/Data | 2026-06-09 |
-
 ## PennState University
 
 | Title | Score | Location | Department | First seen |
@@ -3083,8 +3088,8 @@
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-05-09 |
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-05-09 |
 | [2026 Technology Internship – Software Engineer](https://boards.greenhouse.io/point72/jobs/8406727002?gh_jid=8406727002) | 93 | Warsaw, Poland | — | 2026-05-06 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -3539,12 +3544,6 @@
 | [Intern Software Developer - Summer 2026](https://www.squarepoint-capital.com/open-opportunities?id=7231006&gh_jid=7231006) | 85 | Warsaw | — | 2026-05-06 |
 | [Trading Infrastructure Specialist – Graduate Programme](https://www.squarepoint-capital.com/open-opportunities?id=7757021&gh_jid=7757021) | 66 | London, Montreal, Hong Kong, New York, Singapore | — | 2026-05-06 |
 | [Graduate Support Specialist](https://www.squarepoint-capital.com/open-opportunities?id=6100081&gh_jid=6100081) | 56 | London, Montreal, New York, Houston, Hong Kong | — | 2026-05-06 |
-
-## SRI International
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Computer Science Intern - Reinforcement Learning for Dynamical Systems - Computer Science Laboratory](https://careers-sri.icims.com/jobs/6412/job?mobile=true&needsRedirect=false) | 60 | Menlo Park, CA | AI/ML/Data | 2026-06-03 |
 
 ## SS&C
 
@@ -4298,14 +4297,6 @@
 | --- | --- | --- | --- | --- |
 | [AI Infrastructure Onboard Performance Intern](https://job-boards.greenhouse.io/xpengmotors/jobs/8581353002) | 68 | Santa Clara, CA | AI/ML/Data | 2026-06-06 |
 | [VLA Deployment AI Intern](https://job-boards.greenhouse.io/xpengmotors/jobs/8535409002) | 58 | Santa Clara, CA | Hardware | 2026-05-09 |
-
-## Zillow
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI Applied Scientist Intern - Evaluation Systems and Metrics](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Evaluation-Systems-and-Metrics_P748040) | 93 | Remote in USA | AI/ML/Data | 2026-06-06 |
-| [AI Applied Scientist Intern](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Next-Gen-Agentic-and-Multi-Modal-Home-Exploration-Experience_P748043) | 93 | Remote in USA | AI/ML/Data | 2026-06-06 |
-| [AI Applied Scientist Intern - Foundational IQ](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Foundational-IQ_P748042) | 93 | Remote in USA | AI/ML/Data | 2026-06-06 |
 
 ## Zip
 

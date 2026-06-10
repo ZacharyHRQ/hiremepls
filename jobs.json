@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-10T13:58:51.425Z",
+  "generatedAt": "2026-06-10T17:20:39.029Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1269,
+  "jobCount": 1266,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -549,7 +549,6 @@
     "canonical:13ac1675283013b9": "2026-05-09T15:28:15.527Z",
     "canonical:b1cec7aacb5584d6": "2026-05-09T15:28:15.527Z",
     "canonical:99e03b476dac932b": "2026-05-09T15:28:15.527Z",
-    "canonical:73b655c0d199329d": "2026-05-09T15:28:15.527Z",
     "canonical:4ad551198f20a1aa": "2026-05-09T15:28:15.527Z",
     "canonical:b2ce821a35fe0aa1": "2026-05-09T15:28:15.527Z",
     "canonical:895bd936f9710abc": "2026-05-09T15:28:15.527Z",
@@ -847,7 +846,6 @@
     "canonical:ebe4598920b48c20": "2026-05-19T23:43:59.617Z",
     "canonical:cdb207950027b52e": "2026-05-19T23:43:59.617Z",
     "canonical:fb66aae0f309968e": "2026-05-19T23:43:59.617Z",
-    "canonical:acec22384af1fe8a": "2026-05-19T23:43:59.617Z",
     "canonical:fbdd5a056fe65f91": "2026-05-20T01:49:18.107Z",
     "canonical:688706088beffa8d": "2026-05-20T01:49:18.107Z",
     "canonical:ec7947b941c678b5": "2026-05-20T05:58:26.449Z",
@@ -1026,7 +1024,6 @@
     "canonical:21698b3026c5ea94": "2026-06-03T00:01:07.922Z",
     "canonical:b390871ecd79ae1f": "2026-06-03T00:01:07.922Z",
     "canonical:591f77d8c25c0856": "2026-06-03T00:01:07.922Z",
-    "canonical:5022f9de907e9cc6": "2026-06-03T00:01:07.922Z",
     "canonical:a24cbe9d8652e7b2": "2026-06-03T00:01:07.922Z",
     "canonical:7f8f694eee1c6d30": "2026-06-03T00:01:07.922Z",
     "canonical:f53e3e132520eb19": "2026-06-03T00:01:07.922Z",
@@ -1116,8 +1113,6 @@
     "canonical:3c4f1b7e61c23218": "2026-06-06T07:29:16.741Z",
     "canonical:31962d85f79aae5b": "2026-06-06T11:09:29.346Z",
     "canonical:941d02dc047a74b1": "2026-06-06T11:09:29.346Z",
-    "canonical:103a322744212e14": "2026-06-06T11:09:29.346Z",
-    "canonical:55abf604a6bf53ca": "2026-06-06T11:09:29.346Z",
     "canonical:a98b1aa946348c37": "2026-06-06T12:15:10.399Z",
     "canonical:f5d84370157fe2ee": "2026-06-06T14:14:20.078Z",
     "canonical:180d901e190fbd63": "2026-06-06T14:14:20.078Z",
@@ -1130,7 +1125,6 @@
     "canonical:85735fa4cd042164": "2026-06-06T17:59:37.822Z",
     "canonical:c980dd7762d04498": "2026-06-06T20:38:33.246Z",
     "canonical:6a54db97364bf00a": "2026-06-06T21:42:54.367Z",
-    "canonical:d7df174fc9ae5ee1": "2026-06-06T22:43:32.931Z",
     "canonical:f432089fe9f41109": "2026-06-06T23:44:35.766Z",
     "canonical:7906b1bff6dfef42": "2026-06-07T01:56:06.706Z",
     "canonical:facef9c5b6d15c14": "2026-06-07T01:56:06.706Z",
@@ -1229,7 +1223,6 @@
     "canonical:74b5b42ed2757a70": "2026-06-09T23:41:04.347Z",
     "canonical:dcc57aa64e78aadf": "2026-06-09T23:41:04.347Z",
     "canonical:5c6da3333f2763a6": "2026-06-09T23:41:04.347Z",
-    "canonical:de824d7649f267bd": "2026-06-09T23:41:04.347Z",
     "canonical:2150715e76c00abc": "2026-06-09T23:41:04.347Z",
     "canonical:5ae1902fe6ba45c8": "2026-06-09T23:41:04.347Z",
     "canonical:8486bcf0ce9b87ee": "2026-06-09T23:41:04.347Z",
@@ -1272,7 +1265,11 @@
     "canonical:b1c3bc01bef551d7": "2026-06-10T13:58:51.425Z",
     "canonical:917c8771cd813a8d": "2026-06-10T13:58:51.425Z",
     "canonical:311df6d93e910581": "2026-06-10T13:58:51.425Z",
-    "canonical:45ff47914f15fa4a": "2026-06-10T13:58:51.425Z"
+    "canonical:45ff47914f15fa4a": "2026-06-10T13:58:51.425Z",
+    "canonical:64dc660ba9e1d000": "2026-06-10T17:20:39.029Z",
+    "canonical:f6939f722bfbce9d": "2026-06-10T17:20:39.029Z",
+    "canonical:0c5ee1177f8000ee": "2026-06-10T17:20:39.029Z",
+    "canonical:86b9572896805d8f": "2026-06-10T17:20:39.029Z"
   },
   "jobs": [
     {
@@ -1676,10 +1673,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1690,10 +1687,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -2463,6 +2460,31 @@
       "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
       "department": "",
       "company": "Pinterest",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:64dc660ba9e1d000",
+      "title": "Machine Learning Engineer, PhD Intern (Fall)",
+      "url": "https://instacart.careers/job/?gh_jid=5917202",
+      "location": "United States - Remote",
+      "department": "",
+      "company": "Instacart",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:f6939f722bfbce9d",
+      "title": "Machine Learning PhD Intern, Economics (Fall)",
+      "url": "https://instacart.careers/job/?gh_jid=7532267",
+      "location": "United States - Remote",
+      "department": "",
+      "company": "Instacart",
       "score": 60,
       "scoreReasons": [
         "high-signal role"
@@ -9256,18 +9278,6 @@
       ]
     },
     {
-      "id": "canonical:73b655c0d199329d",
-      "title": "Optical Verification Engineer Co-op/Intern",
-      "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_2026530",
-      "location": "Ottawa, ON, Canada",
-      "department": "Hardware",
-      "company": "Lumentum",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:4ad551198f20a1aa",
       "title": "Software Engineering Internship – AI/Agentic Systems",
       "url": "https://job-boards.eu.greenhouse.io/axiomaticai/jobs/4848121101",
@@ -10823,19 +10833,6 @@
       ]
     },
     {
-      "id": "canonical:acec22384af1fe8a",
-      "title": "Data Analyst Intern",
-      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-IT-105-Data-Analyst--Intern---_120935",
-      "location": "Montreal, QC, Canada",
-      "department": "AI/ML/Data",
-      "company": "CAE",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:f29d9652976f2d45",
       "title": "Fox Technology Intern",
       "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/USA---AZ---Tempe---2010-E-Centennial-Cir/Fox-2026-FOX-Technology-Internship-Program---Tempe--AZ_R50032649",
@@ -11169,48 +11166,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:103a322744212e14",
-      "title": "AI Applied Scientist Intern - Foundational IQ",
-      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Foundational-IQ_P748042",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "Zillow",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:55abf604a6bf53ca",
-      "title": "AI Applied Scientist Intern",
-      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Next-Gen-Agentic-and-Multi-Modal-Home-Exploration-Experience_P748043",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "Zillow",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:d7df174fc9ae5ee1",
-      "title": "AI Applied Scientist Intern - Evaluation Systems and Metrics",
-      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Evaluation-Systems-and-Metrics_P748040",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "Zillow",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -12650,18 +12605,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:5022f9de907e9cc6",
-      "title": "Computer Science Intern - Reinforcement Learning for Dynamical Systems - Computer Science Laboratory",
-      "url": "https://careers-sri.icims.com/jobs/6412/job?mobile=true&needsRedirect=false",
-      "location": "Menlo Park, CA",
-      "department": "AI/ML/Data",
-      "company": "SRI International",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {
@@ -14452,6 +14395,19 @@
       ]
     },
     {
+      "id": "canonical:80d8b55bc00c3b4c",
+      "title": "Business Intelligence Intern",
+      "url": "https://jobs.smartrecruiters.com/Eurofins/744000130829489",
+      "location": "Lancaster, PA",
+      "department": "AI/ML/Data",
+      "company": "Eurofins",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:b1c3bc01bef551d7",
       "title": "Data Center Technician Intern",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556867685",
@@ -14700,19 +14656,6 @@
       ]
     },
     {
-      "id": "canonical:80d8b55bc00c3b4c",
-      "title": "Business Intelligence Intern",
-      "url": "https://jobs.smartrecruiters.com/Eurofins/744000131132249",
-      "location": "Lancaster, PA",
-      "department": "AI/ML/Data",
-      "company": "Eurofins",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:5e9331f4d453c2c7",
       "title": "Grid Automation & Software Intern",
       "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041706-3",
@@ -14781,20 +14724,6 @@
       "location": "LA",
       "department": "Software",
       "company": "Centerfield",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:de824d7649f267bd",
-      "title": "Analytics Engineer Intern",
-      "url": "https://pennant.wd1.myworkdayjobs.com/PennantServicesCareerSite/job/Remote-Utah/Analytics-Engineer-Intern_JR62022",
-      "location": "Utah",
-      "department": "AI/ML/Data",
-      "company": "Pennant Group",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -15223,6 +15152,33 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:0c5ee1177f8000ee",
+      "title": "Embedded Software Engineer Co-op/Intern",
+      "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer--Co-op-Intern-_2026743",
+      "location": "Ottawa, ON, Canada",
+      "department": "Hardware",
+      "company": "Lumentum",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:86b9572896805d8f",
+      "title": "AI Solutions Intern",
+      "url": "https://jobs.smartrecruiters.com/AnalysysMason1/744000131423669",
+      "location": "London, UK",
+      "department": "Software",
+      "company": "Analysys Mason",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
