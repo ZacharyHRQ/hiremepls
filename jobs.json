@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-10T17:20:39.029Z",
+  "generatedAt": "2026-06-10T19:46:05.077Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1266,
+  "jobCount": 1264,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1086,7 +1086,6 @@
     "canonical:1e423a804a7c32cd": "2026-06-04T23:50:18.472Z",
     "canonical:7b565341af2d7a36": "2026-06-04T23:50:18.472Z",
     "canonical:d7243946fe79b2df": "2026-06-04T23:50:18.472Z",
-    "canonical:9cad4a4c3e2e601d": "2026-06-04T23:50:18.472Z",
     "canonical:f97e52378206fda9": "2026-06-04T23:50:18.472Z",
     "canonical:4ca619c34eb3463e": "2026-06-05T10:40:30.398Z",
     "canonical:89aaf3baee1cdf28": "2026-06-05T10:40:30.398Z",
@@ -1218,7 +1217,6 @@
     "canonical:5e9331f4d453c2c7": "2026-06-09T16:15:38.284Z",
     "canonical:0774a5fc25363c9d": "2026-06-09T16:15:38.284Z",
     "canonical:0bc60199c24624a0": "2026-06-09T16:15:38.284Z",
-    "canonical:56aa9efe8299b527": "2026-06-09T23:41:04.347Z",
     "canonical:1782ca39c8f2f506": "2026-06-09T23:41:04.347Z",
     "canonical:74b5b42ed2757a70": "2026-06-09T23:41:04.347Z",
     "canonical:dcc57aa64e78aadf": "2026-06-09T23:41:04.347Z",
@@ -5666,20 +5664,6 @@
         "high-signal role",
         "direct ATS",
         "lower-fit title"
-      ]
-    },
-    {
-      "id": "canonical:56aa9efe8299b527",
-      "title": "2026 Summer Data Analyst/Scientist Intern-Master's - Santa Clara - CA",
-      "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Data-Analyst-Scientist-Intern--Master-s--Santa-Clara--CA-_R2612971",
-      "location": "Santa Clara, CA",
-      "department": "AI/ML/Data",
-      "company": "Applied Materials",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -13210,19 +13194,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:9cad4a4c3e2e601d",
-      "title": "Data Growth & Analytics Intern",
-      "url": "https://job-boards.greenhouse.io/earnin/jobs/7980784",
-      "location": "Mountain View, CA",
-      "department": "AI/ML/Data",
-      "company": "EarnIn",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {

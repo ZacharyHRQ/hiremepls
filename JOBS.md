@@ -1,6 +1,6 @@
 # Open Internships
 
-**1266** internships across **63/64** companies — last updated 2026-06-10.
+**1264** internships across **63/64** companies — last updated 2026-06-10.
 
 ## Companies
 
@@ -36,7 +36,7 @@
 - [Apex Technology, Inc.](#apex-technology-inc) (1)
 - [Appian](#appian) (1)
 - [Apple](#apple) (15)
-- [Applied Materials](#applied-materials) (3)
+- [Applied Materials](#applied-materials) (2)
 - [AQR](#aqr) (7)
 - [Aquatic Capital](#aquatic-capital) (1)
 - [Arch Capital Group](#arch-capital-group) (1)
@@ -155,7 +155,7 @@
 - [Drivetrain](#drivetrain) (1)
 - [Dryft](#dryft) (1)
 - [DuPont](#dupont) (5)
-- [EarnIn](#earnin) (2)
+- [EarnIn](#earnin) (1)
 - [EdgeTrace](#edgetrace) (1)
 - [Eight Sleep](#eight-sleep) (1)
 - [Ekimetrics](#ekimetrics) (1)
@@ -747,7 +747,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [2026 Summer Data Analyst/Scientist Intern-Master's - Santa Clara - CA](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Data-Analyst-Scientist-Intern--Master-s--Santa-Clara--CA-_R2612971) | 93 | Santa Clara, CA | AI/ML/Data | 2026-06-09 |
 | [Data Scientist Intern](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist-Year-Round-Intern---BS-MS-degree--Santa-Clara--CA-_R2619446) | 93 | Santa Clara, CA | AI/ML/Data | 2026-06-01 |
 | [Intern - Physics & AI modeling Engineering](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Intern---Physics---AI-modeling-Engineering_R2616095) | 68 | Santa Clara, CA | AI/ML/Data | 2026-05-17 |
 
@@ -1584,7 +1583,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Data Growth & Analytics Intern](https://job-boards.greenhouse.io/earnin/jobs/7980784) | 68 | Mountain View, CA | AI/ML/Data | 2026-06-04 |
 | [Mobile Engineer Intern - iOS](https://job-boards.greenhouse.io/earnin/jobs/7773844) | 93 | Mountain View, CA | Software | 2026-05-09 |
 
 ## EdgeTrace
