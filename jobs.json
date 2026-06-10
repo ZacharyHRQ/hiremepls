@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-10T01:51:46.612Z",
+  "generatedAt": "2026-06-10T06:14:09.409Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1267,
+  "jobCount": 1264,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -26,7 +26,6 @@
     "canonical:4ac9c0880de32d10": "2026-05-15T12:06:03.304Z",
     "canonical:584a6dcb03b8a260": "2026-05-15T12:06:03.304Z",
     "canonical:cbd8c4bf9ecd24b5": "2026-05-15T12:06:03.304Z",
-    "canonical:c07d55dd60f00f19": "2026-05-13T12:32:21.495Z",
     "canonical:0d3dd16371f0055c": "2026-05-06T06:42:07.596Z",
     "canonical:a7c823cebc3a3c4e": "2026-05-06T06:42:07.596Z",
     "canonical:606b9a04a54eff14": "2026-05-06T06:42:07.596Z",
@@ -67,7 +66,6 @@
     "canonical:d5b7c15c0c798890": "2026-05-06T06:42:07.596Z",
     "canonical:ad23aadfeb5e4fdd": "2026-05-06T06:42:07.596Z",
     "canonical:7cf4badefc5f7512": "2026-05-06T06:42:07.596Z",
-    "canonical:1616d436c67b8140": "2026-05-07T06:31:54.534Z",
     "canonical:8cd1b8b92140d848": "2026-05-13T01:22:17.700Z",
     "canonical:e2e40c0322dad93b": "2026-05-06T06:42:07.596Z",
     "canonical:ec3c37431442cdc8": "2026-05-06T06:42:07.596Z",
@@ -1037,7 +1035,6 @@
     "canonical:b390871ecd79ae1f": "2026-06-03T00:01:07.922Z",
     "canonical:591f77d8c25c0856": "2026-06-03T00:01:07.922Z",
     "canonical:5022f9de907e9cc6": "2026-06-03T00:01:07.922Z",
-    "canonical:b36a567c21857ca2": "2026-06-03T00:01:07.922Z",
     "canonical:a24cbe9d8652e7b2": "2026-06-03T00:01:07.922Z",
     "canonical:17d0eead181e239f": "2026-06-03T00:01:07.922Z",
     "canonical:7f8f694eee1c6d30": "2026-06-03T00:01:07.922Z",
@@ -1564,16 +1561,6 @@
       "scoreReasons": []
     },
     {
-      "id": "canonical:c07d55dd60f00f19",
-      "title": "Junior Trader- Intern",
-      "url": "https://www.tower-research.com/open-positions/?gh_jid=7920820",
-      "location": "Gift City",
-      "department": "",
-      "company": "Tower Research Capital",
-      "score": 50,
-      "scoreReasons": []
-    },
-    {
       "id": "canonical:0d3dd16371f0055c",
       "title": "Quantitative Researcher Intern",
       "url": "https://www.tower-research.com/open-positions/?gh_jid=7238472",
@@ -2059,10 +2046,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2072,10 +2059,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2294,19 +2281,6 @@
       "score": 58,
       "scoreReasons": [
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:1616d436c67b8140",
-      "title": "Marketing Events and Campaigns Intern (Mid-Year 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7736919?gh_jid=7736919",
-      "location": "In-Office",
-      "department": "",
-      "company": "Cloudflare",
-      "score": 38,
-      "scoreReasons": [
-        "direct ATS",
-        "lower-fit title"
       ]
     },
     {
@@ -12747,18 +12721,6 @@
       "location": "Menlo Park, CA",
       "department": "AI/ML/Data",
       "company": "SRI International",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:b36a567c21857ca2",
-      "title": "Field Services Data Analytics Intern",
-      "url": "https://external-telecom-teldta.icims.com/jobs/29417/job?mobile=true&needsRedirect=false",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "TDS",
       "score": 60,
       "scoreReasons": [
         "high-signal role"
