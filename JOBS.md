@@ -1,11 +1,11 @@
 # Open Internships
 
-**1261** internships across **63/64** companies — last updated 2026-06-09.
+**1267** internships across **63/64** companies — last updated 2026-06-10.
 
 ## Companies
 
 - [ PrizePicks](#prizepicks) (1)
-- [1Password](#1password) (2)
+- [1Password](#1password) (4)
 - [60decibelsinc](#60decibelsinc) (1)
 - [ABB](#abb) (2)
 - [AbbVie](#abbvie) (1)
@@ -96,6 +96,7 @@
 - [Caterpillar Inc.](#caterpillar-inc) (1)
 - [Centerfield](#centerfield) (1)
 - [Centerstone](#centerstone) (1)
+- [Chanel](#chanel) (1)
 - [Chartwells Higher Education Dining Services](#chartwells-higher-education-dining-services) (1)
 - [Cherry Bekaert](#cherry-bekaert) (2)
 - [Chubb](#chubb) (1)
@@ -308,7 +309,7 @@
 - [Metalenz](#metalenz) (1)
 - [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (4)
 - [Microchip Technology](#microchip-technology) (1)
-- [Microsoft](#microsoft) (36)
+- [Microsoft](#microsoft) (37)
 - [MongoDB](#mongodb) (1)
 - [Monolithic Power Systems](#monolithic-power-systems) (2)
 - [Multiply Labs](#multiply-labs) (2)
@@ -400,9 +401,9 @@
 - [Sandhills Global](#sandhills-global) (1)
 - [Savannah River National Laboratory](#savannah-river-national-laboratory) (1)
 - [Scale AI](#scale-ai) (5)
-- [SCAN](#scan) (1)
+- [SCAN](#scan) (2)
 - [Schonfeld](#schonfeld) (4)
-- [Schweitzer Engineering Laboratories](#schweitzer-engineering-laboratories) (1)
+- [Schweitzer Engineering Laboratories](#schweitzer-engineering-laboratories) (2)
 - [Seaspan](#seaspan) (8)
 - [Sensata](#sensata) (1)
 - [Shenzhen ANQI SHISHANG Articles Co., ltd.](#shenzhen-anqi-shishang-articles-co-ltd) (1)
@@ -456,7 +457,6 @@
 - [TETRAMEM](#tetramem) (1)
 - [The D. E. Shaw Group](#the-d-e-shaw-group) (1)
 - [The Exploration Company](#the-exploration-company) (1)
-- [The State Bar of California](#the-state-bar-of-california) (1)
 - [The Trade Desk](#the-trade-desk) (1)
 - [TheGuarantors](#theguarantors) (1)
 - [Thermo Fisher Scientific](#thermo-fisher-scientific) (1)
@@ -510,7 +510,7 @@
 - [XPENG Motors](#xpeng-motors) (2)
 - [Zillow](#zillow) (3)
 - [Zip](#zip) (1)
-- [Zipline](#zipline) (3)
+- [Zipline](#zipline) (4)
 - [Zone 5 Technologies](#zone-5-technologies) (1)
 - [Zoox](#zoox) (1)
 
@@ -524,6 +524,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Developer Intern - Front-End Platform](https://jobs.ashbyhq.com/1password/c90c5d23-fd41-4c01-8422-08f4b64144f5/application) | 93 | Remote in USA / Remote in Canada | Software | 2026-06-10 |
+| [Developer Intern - Trust Platforms](https://jobs.ashbyhq.com/1password/8f8774dc-e400-48b1-8100-c6840b8eaed1/application) | 93 | Remote in USA / Remote in Canada | Software | 2026-06-10 |
 | [Developer Intern - Data Security](https://jobs.ashbyhq.com/1password/47274802-4040-4039-978a-fc9b7d6868ce/application) | 93 | Remote in USA / Remote in Canada | Software | 2026-06-09 |
 | [Data Intern - Enterprise Analytics](https://jobs.ashbyhq.com/1password/c502ea19-dc77-4955-8797-6f8b64ccf52f/application) | 68 | Remote in USA / Remote in Canada | AI/ML/Data | 2026-06-09 |
 
@@ -1183,6 +1185,12 @@
 | --- | --- | --- | --- | --- |
 | [Associate Intern](https://centerstone.wd5.myworkdayjobs.com/centerstonecareers/job/Bloomington-Indiana/Associate-Level-Intern_JR-031784) | 68 | Bloomington, IN | AI/ML/Data | 2026-06-06 |
 
+## Chanel
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Creative Technologist Intern - Open Innovation](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/New-York/Creative-Technologist-Intern--Open-Innovation_JOBREQ00113766) | 68 | NYC | Software | 2026-06-10 |
+
 ## Chartwells Higher Education Dining Services
 
 | Title | Score | Location | Department | First seen |
@@ -1600,7 +1608,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Engineering Intern](https://job-boards.greenhouse.io/energyhub/jobs/8523607002) | 68 | Brooklyn, NY | AI/ML/Data | 2026-05-09 |
+| [Engineering Intern](https://job-boards.greenhouse.io/energyhub/jobs/8524847002) | 68 | Brooklyn, NY | Software | 2026-05-09 |
 
 ## Engineers Gate
 
@@ -2618,6 +2626,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Researcher Intern](https://apply.careers.microsoft.com/careers/job/1970393556874233) | 85 | Redmond, WA / Mountain View, CA | AI/ML/Data | 2026-06-10 |
 | [Research Intern - Self-Improving AI](https://apply.careers.microsoft.com/careers/job/1970393556867858) | 60 | Cambridge, MA / NYC | AI/ML/Data | 2026-05-19 |
 | [Research Intern](https://apply.careers.microsoft.com/careers/job/1970393556621789) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - Agentic Programming](https://apply.careers.microsoft.com/careers/job/1970393556750506) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
@@ -3340,6 +3349,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://scanhealthplan.wd108.myworkdayjobs.com/scancareers/job/Long-Beach-Office-3800/Software-Engineering-Intern_JR2886) | 93 | Long Beach, CA | Software | 2026-06-10 |
 | [Data Scientist Intern](https://scanhealthplan.wd108.myworkdayjobs.com/scancareers/job/Long-Beach-Office-3800/Data-Scientist-Intern---Graduate_JR2628) | 93 | Long Beach, CA | AI/ML/Data | 2026-05-16 |
 
 ## Schonfeld
@@ -3355,6 +3365,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-21665) | 93 | Boise, ID | Software | 2026-06-10 |
 | [Application Engineering Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Ohio---Lewis-Center/Application-Engineering-Intern_2026-20357) | 58 | Dublin, OH | Hardware | 2026-05-17 |
 
 ## Seaspan
@@ -3569,8 +3580,8 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [PhD Data Scientist Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | Seattle, WA / SF / Chicago, IL / NYC | AI/ML/Data | 2026-06-06 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | 56 | Mexico City, Mexico | — | 2026-05-06 |
@@ -3835,12 +3846,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Crew Systems Engineering Intern - Avionics/Software](https://jobs.ashbyhq.com/the-exploration-company/da63221d-dd60-41fe-8dd5-bb1a565a7824) | 68 | Houston, TX | Software Engineering | 2026-05-09 |
-
-## The State Bar of California
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Summer Internship with the Office of Research & Statistics](https://egsd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21073) | 60 | SF | AI/ML/Data | 2026-05-09 |
 
 ## The Trade Desk
 
@@ -4304,6 +4309,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Enterprise Systems Software Engineer Intern](https://www.zipline.com/careers?gh_jid=7767667003#open-roles) | 85 | San Bruno, CA | Software | 2026-06-10 |
 | [Computational Physics Intern](https://www.zipline.com/careers?gh_jid=7766408003#open-roles) | 60 | San Bruno, CA | AI/ML/Data | 2026-06-08 |
 | [Embedded Software Engineer Intern](https://www.zipline.com/careers?gh_jid=7765240003#open-roles) | 85 | San Bruno, CA | Hardware | 2026-06-06 |
 | [Perception Intern](https://www.zipline.com/careers?gh_jid=7761650003#open-roles) | 60 | Dallas, TX / San Bruno, CA | AI/ML/Data | 2026-06-03 |

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-09T23:41:04.347Z",
+  "generatedAt": "2026-06-10T01:51:46.612Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1261,
+  "jobCount": 1267,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -266,7 +266,6 @@
     "canonical:376ca27931a2dabb": "2026-05-09T15:28:15.527Z",
     "canonical:ccddcbe6e9b8776f": "2026-05-09T15:28:15.527Z",
     "canonical:d45a9c64eaa6a959": "2026-05-09T15:28:15.527Z",
-    "canonical:1b14f6d1b461dfa6": "2026-05-09T15:28:15.527Z",
     "canonical:60fe78b324230eaa": "2026-05-09T15:28:15.527Z",
     "canonical:af15c824e5d7badb": "2026-05-11T14:01:48.198Z",
     "canonical:f22c383e84d41e35": "2026-05-09T15:28:15.527Z",
@@ -1264,7 +1263,14 @@
     "canonical:3cfa8d538fe65c66": "2026-06-09T23:41:04.347Z",
     "canonical:1b492e6abd76b91a": "2026-06-09T23:41:04.347Z",
     "canonical:0942563fedd29433": "2026-06-09T23:41:04.347Z",
-    "canonical:c4899e61c3f2d9c6": "2026-06-09T23:41:04.347Z"
+    "canonical:c4899e61c3f2d9c6": "2026-06-09T23:41:04.347Z",
+    "canonical:dec0e7d0400d1178": "2026-06-10T01:51:46.612Z",
+    "canonical:cb4c93fdfb6fe6ed": "2026-06-10T01:51:46.612Z",
+    "canonical:f8bfe29c74a5df11": "2026-06-10T01:51:46.612Z",
+    "canonical:2328135cb74123e7": "2026-06-10T01:51:46.612Z",
+    "canonical:45ccbebc4eee6ebe": "2026-06-10T01:51:46.612Z",
+    "canonical:9dc2dde4ee5e6587": "2026-06-10T01:51:46.612Z",
+    "canonical:553d7dd98f929f75": "2026-06-10T01:51:46.612Z"
   },
   "jobs": [
     {
@@ -2053,10 +2059,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2066,10 +2072,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -4848,18 +4854,6 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:1b14f6d1b461dfa6",
-      "title": "Summer Internship with the Office of Research & Statistics",
-      "url": "https://egsd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21073",
-      "location": "SF",
-      "department": "AI/ML/Data",
-      "company": "The State Bar of California",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {
@@ -9640,19 +9634,6 @@
       ]
     },
     {
-      "id": "canonical:c0d72a2d4e421f51",
-      "title": "Engineering Intern",
-      "url": "https://job-boards.greenhouse.io/energyhub/jobs/8523607002",
-      "location": "Brooklyn, NY",
-      "department": "AI/ML/Data",
-      "company": "EnergyHub",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:d711e695dc99e898",
       "title": "Software Developer Intern - Prism",
       "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5138225008",
@@ -9866,6 +9847,19 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:c0d72a2d4e421f51",
+      "title": "Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/energyhub/jobs/8524847002",
+      "location": "Brooklyn, NY",
+      "department": "Software",
+      "company": "EnergyHub",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -15091,6 +15085,101 @@
       "company": "Block",
       "score": 60,
       "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:dec0e7d0400d1178",
+      "title": "Creative Technologist Intern - Open Innovation",
+      "url": "https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/New-York/Creative-Technologist-Intern--Open-Innovation_JOBREQ00113766",
+      "location": "NYC",
+      "department": "Software",
+      "company": "Chanel",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:cb4c93fdfb6fe6ed",
+      "title": "Developer Intern - Front-End Platform",
+      "url": "https://jobs.ashbyhq.com/1password/c90c5d23-fd41-4c01-8422-08f4b64144f5/application",
+      "location": "Remote in USA / Remote in Canada",
+      "department": "Software",
+      "company": "1Password",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f8bfe29c74a5df11",
+      "title": "Enterprise Systems Software Engineer Intern",
+      "url": "https://www.zipline.com/careers?gh_jid=7767667003#open-roles",
+      "location": "San Bruno, CA",
+      "department": "Software",
+      "company": "Zipline",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:2328135cb74123e7",
+      "title": "Developer Intern - Trust Platforms",
+      "url": "https://jobs.ashbyhq.com/1password/8f8774dc-e400-48b1-8100-c6840b8eaed1/application",
+      "location": "Remote in USA / Remote in Canada",
+      "department": "Software",
+      "company": "1Password",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:45ccbebc4eee6ebe",
+      "title": "Software Engineer Intern",
+      "url": "https://scanhealthplan.wd108.myworkdayjobs.com/scancareers/job/Long-Beach-Office-3800/Software-Engineering-Intern_JR2886",
+      "location": "Long Beach, CA",
+      "department": "Software",
+      "company": "SCAN",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:9dc2dde4ee5e6587",
+      "title": "Software Engineer Intern",
+      "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-21665",
+      "location": "Boise, ID",
+      "department": "Software",
+      "company": "Schweitzer Engineering Laboratories",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:553d7dd98f929f75",
+      "title": "Researcher Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556874233",
+      "location": "Redmond, WA / Mountain View, CA",
+      "department": "AI/ML/Data",
+      "company": "Microsoft",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },
