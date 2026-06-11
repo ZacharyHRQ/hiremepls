@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-11T22:26:27.813Z",
+  "generatedAt": "2026-06-11T23:59:08.775Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1270,
+  "jobCount": 1271,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -325,7 +325,6 @@
     "canonical:e95e79cf8a491a1a": "2026-05-09T15:28:15.527Z",
     "canonical:9706223856dee25f": "2026-05-09T15:28:15.527Z",
     "canonical:490e7483dc27c0c0": "2026-05-09T15:28:15.527Z",
-    "canonical:873b403f06ad127f": "2026-05-09T15:28:15.527Z",
     "canonical:5ce589da3d471748": "2026-05-09T15:28:15.527Z",
     "canonical:1ee48dc7b2c1ca77": "2026-05-09T15:28:15.527Z",
     "canonical:7635580facb3ef8b": "2026-05-09T15:28:15.527Z",
@@ -345,7 +344,6 @@
     "canonical:2d6881328100367d": "2026-05-09T15:28:15.527Z",
     "canonical:91ce3b1cfd0df237": "2026-05-09T15:28:15.527Z",
     "canonical:6977eeeb4ce82805": "2026-05-09T15:28:15.527Z",
-    "canonical:bc730aa27731fa93": "2026-05-09T15:28:15.527Z",
     "canonical:58109eab3d5c6e17": "2026-05-09T15:28:15.527Z",
     "canonical:81494230370de12a": "2026-05-09T15:28:15.527Z",
     "canonical:6a149cb9a2be52a1": "2026-05-09T15:28:15.527Z",
@@ -878,7 +876,6 @@
     "canonical:ffab8b01cb491678": "2026-05-23T04:05:56.236Z",
     "canonical:7ded916c6253be2f": "2026-05-23T04:05:56.236Z",
     "canonical:1a7ad445267d293c": "2026-05-23T08:53:33.768Z",
-    "canonical:bfe197e97450cbe9": "2026-05-23T08:53:33.768Z",
     "canonical:48ec88269f1f5384": "2026-05-23T08:53:33.768Z",
     "canonical:887cd5542760eab5": "2026-05-23T10:21:14.097Z",
     "canonical:3199ccc6d28ca766": "2026-05-23T10:21:14.097Z",
@@ -1273,7 +1270,11 @@
     "canonical:1f027cb6d4618bf9": "2026-06-11T18:04:03.516Z",
     "canonical:491ade8f5ec863c3": "2026-06-11T18:04:03.516Z",
     "canonical:d621e53b1b2df411": "2026-06-11T18:04:03.516Z",
-    "canonical:cf2a4d5837312999": "2026-06-11T18:04:03.516Z"
+    "canonical:e3b1fb9d6b5eb35f": "2026-06-11T23:59:08.775Z",
+    "canonical:f6cfb613b35c08ba": "2026-06-11T23:59:08.775Z",
+    "canonical:2e1957ef2ef86ad4": "2026-06-11T23:59:08.775Z",
+    "canonical:c11bff2ca221b70c": "2026-06-11T23:59:08.775Z",
+    "canonical:4753086dcc5d73ea": "2026-06-11T23:59:08.775Z"
   },
   "jobs": [
     {
@@ -5889,19 +5890,6 @@
       ]
     },
     {
-      "id": "canonical:bfe197e97450cbe9",
-      "title": "Machine Learning Science Intern - Masters - 2026','Austin','San Jose",
-      "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Machine-Learning-Science-Intern---Masters---2026---Austin--San-Jose_R-98584",
-      "location": "San Jose, CA / Austin, TX",
-      "department": "AI/ML/Data",
-      "company": "Expedia Group",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:48ec88269f1f5384",
       "title": "Machine Learning Science Intern",
       "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Machine-Learning-Science-Intern---PhD---2026---Austin--San-Jose_R-98585",
@@ -5938,18 +5926,6 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:873b403f06ad127f",
-      "title": "Utility Solutions Intern",
-      "url": "https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1408936",
-      "location": "Pleasanton, CA",
-      "department": "Software",
-      "company": "Kaiser Permanente",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {
@@ -6769,18 +6745,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:bc730aa27731fa93",
-      "title": "Intern - Data Analytics",
-      "url": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=26000268",
-      "location": "Massachusetts",
-      "department": "AI/ML/Data",
-      "company": "Commonwealth of Massachusetts",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {
@@ -15239,16 +15203,69 @@
       ]
     },
     {
-      "id": "canonical:cf2a4d5837312999",
-      "title": "AI/ML Intern",
-      "url": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Hillsboro-OR/AI-ML-Internship-2_R-6091",
-      "location": "Milpitas, CA / Hillsboro, OR",
+      "id": "canonical:e3b1fb9d6b5eb35f",
+      "title": "AI Intern",
+      "url": "https://job-boards.greenhouse.io/memphismeats/jobs/7770551003",
+      "location": "Oakland, CA",
       "department": "AI/ML/Data",
-      "company": "Onto Innovation",
+      "company": "Memphis Meats",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f6cfb613b35c08ba",
+      "title": "Generator Application Engineer Associate Internship",
+      "url": "https://mhicareers.com/job/Orlando-Generator-Application-Engineer-Associate-Internship-FL-32809/1403541233/?ats=successfactors",
+      "location": "Orlando, FL",
+      "department": "Software",
+      "company": "Primetals Technologies",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:2e1957ef2ef86ad4",
+      "title": "AI Software Engineer Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641",
+      "location": "Phoenix, AZ",
+      "department": "Software",
+      "company": "Intel",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c11bff2ca221b70c",
+      "title": "Application Development Intern",
+      "url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101348",
+      "location": "East Lansing, MI",
+      "department": "Software",
+      "company": "Delta Dental",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:4753086dcc5d73ea",
+      "title": "Research Scientist Intern - Audio Quality with AI",
+      "url": "https://www.metacareers.com/jobs/1760132191666571",
+      "location": "Redmond, WA",
+      "department": "AI/ML/Data",
+      "company": "Meta",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {

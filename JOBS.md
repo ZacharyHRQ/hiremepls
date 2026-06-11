@@ -1,6 +1,6 @@
 # Open Internships
 
-**1270** internships across **63/64** companies — last updated 2026-06-11.
+**1271** internships across **63/64** companies — last updated 2026-06-11.
 
 ## Companies
 
@@ -118,7 +118,7 @@
 - [Cole Engineering Services](#cole-engineering-services) (1)
 - [Colgate-Palmolive](#colgate-palmolive) (1)
 - [Collabera](#collabera) (1)
-- [Commonwealth of Massachusetts](#commonwealth-of-massachusetts) (4)
+- [Commonwealth of Massachusetts](#commonwealth-of-massachusetts) (3)
 - [Conagra Brands](#conagra-brands) (2)
 - [ConnectPrep](#connectprep) (1)
 - [Context](#context) (1)
@@ -141,6 +141,7 @@
 - [DataVisor](#datavisor) (1)
 - [Dedalus Labs](#dedalus-labs) (1)
 - [Definity Financial](#definity-financial) (1)
+- [Delta Dental](#delta-dental) (1)
 - [Dewberry](#dewberry) (1)
 - [Digital Realty](#digital-realty) (1)
 - [Digs](#digs) (1)
@@ -173,7 +174,7 @@
 - [EVERSANA](#eversana) (1)
 - [Evolver](#evolver) (1)
 - [EXL](#exl) (1)
-- [Expedia Group](#expedia-group) (2)
+- [Expedia Group](#expedia-group) (1)
 - [Facility Solutions Group](#facility-solutions-group) (1)
 - [Falcomm](#falcomm) (1)
 - [Fanatics](#fanatics) (3)
@@ -243,7 +244,7 @@
 - [Institute of Foundation Models](#institute-of-foundation-models) (1)
 - [Integra FEC](#integra-fec) (1)
 - [Integrity](#integrity) (1)
-- [Intel](#intel) (2)
+- [Intel](#intel) (3)
 - [Interact Software](#interact-software) (1)
 - [Intercontinental Exchange, Inc.](#intercontinental-exchange-inc) (1)
 - [Interdigital](#interdigital) (1)
@@ -256,7 +257,7 @@
 - [JP Morgan Chase](#jp-morgan-chase) (3)
 - [Jump Trading](#jump-trading) (2)
 - [K1](#k1) (1)
-- [Kaiser Permanente](#kaiser-permanente) (2)
+- [Kaiser Permanente](#kaiser-permanente) (1)
 - [KBR](#kbr) (2)
 - [Kelso Industries](#kelso-industries) (1)
 - [Keystone AI](#keystone-ai) (1)
@@ -298,11 +299,12 @@
 - [Medpace](#medpace) (1)
 - [Medpace, Inc.](#medpace-inc) (4)
 - [Melotech](#melotech) (3)
+- [Memphis Meats](#memphis-meats) (1)
 - [Menasha Corporation](#menasha-corporation) (1)
 - [Mercedes-Benz](#mercedes-benz) (2)
 - [Mercor](#mercor) (1)
 - [Meshy](#meshy) (6)
-- [Meta](#meta) (16)
+- [Meta](#meta) (17)
 - [Metalenz](#metalenz) (1)
 - [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (4)
 - [Microchip Technology](#microchip-technology) (1)
@@ -331,7 +333,6 @@
 - [Omnis](#omnis) (1)
 - [OmniSource](#omnisource) (1)
 - [onsemi](#onsemi) (3)
-- [Onto Innovation](#onto-innovation) (1)
 - [Optiver](#optiver) (1)
 - [Oracle](#oracle) (7)
 - [Oura](#oura) (1)
@@ -358,7 +359,7 @@
 - [Podium](#podium) (2)
 - [Point72](#point72) (21)
 - [Poshmark](#poshmark) (1)
-- [Primetals Technologies](#primetals-technologies) (1)
+- [Primetals Technologies](#primetals-technologies) (2)
 - [Prior Labs](#prior-labs) (1)
 - [Prologis](#prologis) (1)
 - [Prosper Funding](#prosper-funding) (1)
@@ -1342,7 +1343,6 @@
 | --- | --- | --- | --- | --- |
 | [Medicaid Management Information Systems Knowledge Management Intern - Medicaid Management Information Systems - Artificial Intelligence](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260003GT) | 60 | Quincy, MA | AI/ML/Data | 2026-05-14 |
 | [Aeronautics Drone Intern](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=26000160) | 60 | Boston, MA | AI/ML/Data | 2026-05-09 |
-| [Intern - Data Analytics](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=26000268) | 60 | Massachusetts | AI/ML/Data | 2026-05-09 |
 | [RMV Crash Data Analytics Intern/Co-op](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=26000181) | 60 | Massachusetts | AI/ML/Data | 2026-05-09 |
 
 ## Conagra Brands
@@ -1483,6 +1483,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Market Segmentation Analyst Co-op/Intern](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9056) | 60 | Toronto, ON, Canada | AI/ML/Data | 2026-05-27 |
+
+## Delta Dental
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Application Development Intern](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101348) | 68 | East Lansing, MI | Software | 2026-06-11 |
 
 ## Dewberry
 
@@ -1702,7 +1708,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Machine Learning Science Intern](https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Machine-Learning-Science-Intern---PhD---2026---Austin--San-Jose_R-98585) | 68 | San Jose, CA / Austin, TX | AI/ML/Data | 2026-05-23 |
-| [Machine Learning Science Intern - Masters - 2026','Austin','San Jose](https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Machine-Learning-Science-Intern---Masters---2026---Austin--San-Jose_R-98584) | 68 | San Jose, CA / Austin, TX | AI/ML/Data | 2026-05-23 |
 
 ## Facility Solutions Group
 
@@ -2164,6 +2169,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [AI Software Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641) | 93 | Phoenix, AZ | Software | 2026-06-11 |
 | [Silicon Performance Validation and Characterization Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Silicon-Performance-Validation-and-Characterization-Intern_JR0284310) | 58 | Phoenix, AZ | Hardware | 2026-06-03 |
 | [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) | 68 | Hillsboro, OR / Folsom, CA | Hardware | 2026-05-09 |
 
@@ -2247,7 +2253,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Process Improvement Intern](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1410120) | 60 | Pasadena, CA | AI/ML/Data | 2026-05-09 |
-| [Utility Solutions Intern](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1408936) | 60 | Pleasanton, CA | Software | 2026-05-09 |
 
 ## KBR
 
@@ -2522,6 +2527,12 @@
 | [Full-Stack Developer Intern - Music & Audio](https://jobs.ashbyhq.com/melotech/15af19d9-a318-45a6-8a06-23053ea487a5/application) | 93 | London, UK / SF / LA / NYC / Berlin, Germany | Software | 2026-05-19 |
 | [Data Science Intern - Music & Audio](https://jobs.ashbyhq.com/melotech/f2f3e785-12a0-4d30-be43-e6c5c119a6c2/application) | 68 | London, UK / SF / LA / NYC / Berlin, Germany | AI/ML/Data | 2026-05-19 |
 
+## Memphis Meats
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI Intern](https://job-boards.greenhouse.io/memphismeats/jobs/7770551003) | 68 | Oakland, CA | AI/ML/Data | 2026-06-11 |
+
 ## Menasha Corporation
 
 | Title | Score | Location | Department | First seen |
@@ -2556,6 +2567,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Research Scientist Intern - Audio Quality with AI](https://www.metacareers.com/jobs/1760132191666571) | 85 | Redmond, WA | AI/ML/Data | 2026-06-11 |
 | [Research Scientist Intern - AI Alignment](https://www.metacareers.com/jobs/1782902493113620) | 85 | Boston, MA / Seattle, WA / SF / Menlo Park, CA / NYC / Bellevue, WA | AI/ML/Data | 2026-06-05 |
 | [Research Scientist Intern - Language & Multimodal Foundations](https://www.metacareers.com/jobs/24536664159369645) | 85 | Seattle, WA / Menlo Park, CA / NYC | AI/ML/Data | 2026-05-31 |
 | [Research Scientist Intern - Monetization Generative AI - LLM](https://www.metacareers.com/jobs/2916726525182155) | 85 | Seattle, WA / Menlo Park, CA / NYC / Bellevue, WA | AI/ML/Data | 2026-05-18 |
@@ -2831,12 +2843,6 @@
 | [LLM Research Intern: Physics-AI-Powered Analysis of Atomistic Systems](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2503970) | 60 | Fairview, OR | AI/ML/Data | 2026-05-09 |
 | [Quality and Reliability Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2503669) | 60 | Allen, TX | AI/ML/Data | 2026-05-09 |
 
-## Onto Innovation
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI/ML Intern](https://onto.wd1.myworkdayjobs.com/onto_careers/job/Hillsboro-OR/AI-ML-Internship-2_R-6091) | 68 | Milpitas, CA / Hillsboro, OR | AI/ML/Data | 2026-06-11 |
-
 ## Optiver
 
 | Title | Score | Location | Department | First seen |
@@ -3062,6 +3068,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Generator Application Engineer Associate Internship](https://mhicareers.com/job/Orlando-Generator-Application-Engineer-Associate-Internship-FL-32809/1403541233/?ats=successfactors) | 85 | Orlando, FL | Software | 2026-06-11 |
 | [Product Line Management Associate Intern](https://mhicareers.com/job/Orlando-Product-Line-Management-Associate-(Internship)-FL-32809/1389987633/?ats=successfactors) | 50 | Orlando, FL | Product | 2026-05-27 |
 
 ## Prior Labs
