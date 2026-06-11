@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-11T20:33:48.357Z",
+  "generatedAt": "2026-06-11T22:26:27.813Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1274,
+  "jobCount": 1270,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -377,7 +377,6 @@
     "canonical:ff45606d47f61f48": "2026-05-09T15:28:15.527Z",
     "canonical:2ea5c1662d1cd6cb": "2026-05-09T15:28:15.527Z",
     "canonical:cb9e60d77115f361": "2026-05-09T15:28:15.527Z",
-    "canonical:ca457e3e778795da": "2026-05-09T15:28:15.527Z",
     "canonical:1ae22981c8ef9f13": "2026-05-09T15:28:15.527Z",
     "canonical:602e957a55147267": "2026-05-11T23:38:25.770Z",
     "canonical:c023167c5909ccb2": "2026-05-15T10:04:41.511Z",
@@ -479,7 +478,6 @@
     "canonical:e0150c05751b4a2a": "2026-05-09T15:28:15.527Z",
     "canonical:9bb7084f7e28f80a": "2026-05-09T15:28:15.527Z",
     "canonical:2dea1323b86b46fa": "2026-05-09T15:28:15.527Z",
-    "canonical:fdec04dde5c5fea4": "2026-05-09T15:28:15.527Z",
     "canonical:31dee9f85cf9e5f7": "2026-05-09T15:28:15.527Z",
     "canonical:7fe1ed821878aa89": "2026-05-09T15:28:15.527Z",
     "canonical:9508a5dd181c1039": "2026-05-09T15:28:15.527Z",
@@ -531,7 +529,6 @@
     "canonical:35433652fd2ee4ea": "2026-05-09T15:28:15.527Z",
     "canonical:13ac1675283013b9": "2026-05-09T15:28:15.527Z",
     "canonical:b1cec7aacb5584d6": "2026-05-09T15:28:15.527Z",
-    "canonical:99e03b476dac932b": "2026-05-09T15:28:15.527Z",
     "canonical:4ad551198f20a1aa": "2026-05-09T15:28:15.527Z",
     "canonical:b2ce821a35fe0aa1": "2026-05-09T15:28:15.527Z",
     "canonical:895bd936f9710abc": "2026-05-09T15:28:15.527Z",
@@ -956,7 +953,6 @@
     "canonical:f72a57f59571d881": "2026-05-29T11:48:27.158Z",
     "canonical:789e5db3c1aae655": "2026-05-29T11:48:27.158Z",
     "canonical:ac6a83dfd50fe4f1": "2026-05-29T11:48:27.158Z",
-    "canonical:aa6a6b2fe76b1096": "2026-05-29T11:48:27.158Z",
     "canonical:30d30348d76c74bb": "2026-05-29T11:48:27.158Z",
     "canonical:40ef868326fd30ff": "2026-05-29T17:55:07.126Z",
     "canonical:aad2d16f8de8b63e": "2026-05-29T17:55:07.126Z",
@@ -1386,10 +1382,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1401,10 +1397,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -2197,21 +2193,6 @@
       "id": "canonical:ac6a83dfd50fe4f1",
       "title": "Software Engineer Intern - Zurich (2026)",
       "url": "https://jobs.ashbyhq.com/snowflake/26a0ae52-97a6-4a46-9216-3c382570d89b",
-      "location": "",
-      "department": "",
-      "company": "Snowflake",
-      "score": 90,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS",
-        "unknown location"
-      ]
-    },
-    {
-      "id": "canonical:aa6a6b2fe76b1096",
-      "title": "Software Engineer Intern (Security) - Fall 2026",
-      "url": "https://jobs.ashbyhq.com/snowflake/a488959b-6874-4563-acb2-af747c3dc6f7",
       "location": "",
       "department": "",
       "company": "Snowflake",
@@ -6791,18 +6772,6 @@
       ]
     },
     {
-      "id": "canonical:ca457e3e778795da",
-      "title": "Intern - Quality Assurance",
-      "url": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=2600023O",
-      "location": "Massachusetts",
-      "department": "AI/ML/Data",
-      "company": "Commonwealth of Massachusetts",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:bc730aa27731fa93",
       "title": "Intern - Data Analytics",
       "url": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=26000268",
@@ -8357,19 +8326,6 @@
       ]
     },
     {
-      "id": "canonical:fdec04dde5c5fea4",
-      "title": "Machine Learning Engineering Intern",
-      "url": "https://jobs.ashbyhq.com/marianaminerals/7974b67d-92d8-49a5-bef5-079320962aee/application",
-      "location": "SF / Ann Arbor, MI",
-      "department": "AI/ML/Data",
-      "company": "Mariana Minerals",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:31dee9f85cf9e5f7",
       "title": "Data Science Co-op/Intern",
       "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34327",
@@ -9152,18 +9108,6 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:99e03b476dac932b",
-      "title": "Financial Systems Analyst Intern",
-      "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7871565",
-      "location": "Columbia, MO",
-      "department": "AI/ML/Data",
-      "company": "EquipmentShare",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {
