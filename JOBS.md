@@ -1,6 +1,6 @@
 # Open Internships
 
-**1266** internships across **63/64** companies — last updated 2026-06-10.
+**1273** internships across **63/64** companies — last updated 2026-06-11.
 
 ## Companies
 
@@ -111,7 +111,7 @@
 - [City of Largo](#city-of-largo) (1)
 - [Clarity Innovations](#clarity-innovations) (1)
 - [Clarivate](#clarivate) (1)
-- [Cloudflare](#cloudflare) (14)
+- [Cloudflare](#cloudflare) (16)
 - [Cloudforce](#cloudforce) (1)
 - [CME Group](#cme-group) (1)
 - [Codeage](#codeage) (1)
@@ -185,6 +185,7 @@
 - [Federal Home Loan Bank of Indianapolis](#federal-home-loan-bank-of-indianapolis) (1)
 - [Ferrovial](#ferrovial) (1)
 - [FHLBank Topeka](#fhlbank-topeka) (1)
+- [Field AI](#field-ai) (1)
 - [Figure](#figure) (1)
 - [Fiserv](#fiserv) (2)
 - [Five Rings](#five-rings) (1)
@@ -245,7 +246,7 @@
 - [Impulse Space](#impulse-space) (1)
 - [Infojini](#infojini) (1)
 - [Inizio](#inizio) (1)
-- [Instacart](#instacart) (3)
+- [Instacart](#instacart) (4)
 - [Instawork](#instawork) (1)
 - [Institute of Foundation Models](#institute-of-foundation-models) (1)
 - [Integra FEC](#integra-fec) (1)
@@ -340,7 +341,6 @@
 - [onsemi](#onsemi) (3)
 - [Optiver](#optiver) (1)
 - [Oracle](#oracle) (7)
-- [OTR Solutions](#otr-solutions) (1)
 - [Oura](#oura) (1)
 - [Output Biosciences](#output-biosciences) (1)
 - [Oxfam International](#oxfam-international) (1)
@@ -434,7 +434,7 @@
 - [State Street](#state-street) (2)
 - [Stevens Capital Management](#stevens-capital-management) (1)
 - [Stoke Space](#stoke-space) (1)
-- [Stripe](#stripe) (7)
+- [Stripe](#stripe) (8)
 - [Sundt](#sundt) (2)
 - [Sunwater Capital](#sunwater-capital) (1)
 - [Super](#super) (6)
@@ -453,7 +453,7 @@
 - [TENEX.AI](#tenex-ai) (1)
 - [Tenstorrent](#tenstorrent) (7)
 - [Terranox AI](#terranox-ai) (1)
-- [Tesla](#tesla) (90)
+- [Tesla](#tesla) (91)
 - [Tessera Labs](#tessera-labs) (1)
 - [TETRAMEM](#tetramem) (1)
 - [The D. E. Shaw Group](#the-d-e-shaw-group) (1)
@@ -464,6 +464,7 @@
 - [TIFIN](#tifin) (1)
 - [TikTok](#tiktok) (106)
 - [Tilde Research](#tilde-research) (2)
+- [TJX](#tjx) (1)
 - [TMEIC](#tmeic) (1)
 - [Token Metrics](#token-metrics) (2)
 - [Topel Forman LLC](#topel-forman-llc) (1)
@@ -481,7 +482,7 @@
 - [University System of New Hampshire](#university-system-of-new-hampshire) (3)
 - [Valeo](#valeo) (1)
 - [Vanguard](#vanguard) (1)
-- [Varda Space](#varda-space) (3)
+- [Varda Space](#varda-space) (4)
 - [Veeam Software](#veeam-software) (2)
 - [Veeva](#veeva) (1)
 - [Veeva Systems](#veeva-systems) (1)
@@ -1287,6 +1288,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [People Team: Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7774167?gh_jid=7774167) | 93 | Hybrid | — | 2026-06-11 |
+| [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/7774167) | 93 | Austin, TX | Software | 2026-06-11 |
 | [Legal Intern – Commercial Legal (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7983674?gh_jid=7983674) | 58 | In-Office | — | 2026-06-05 |
 | [People Team Intern - HR Operations & AI Innovation (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240) | 58 | In-Office | — | 2026-05-20 |
 | [Network Engineering Intern (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7929538?gh_jid=7929538) | 58 | In-Office | — | 2026-05-18 |
@@ -1701,7 +1704,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Business Intelligence Intern](https://jobs.smartrecruiters.com/Eurofins/744000131132249) | 68 | Lancaster, PA | AI/ML/Data | 2026-06-08 |
+| [Business Intelligence Intern](https://jobs.smartrecruiters.com/Eurofins/744000130829489) | 68 | Lancaster, PA | AI/ML/Data | 2026-06-08 |
 | [Engineering Intern - Test Engineer](https://jobs.smartrecruiters.com/Eurofins/744000102591529) | 58 | Santa Clara, CA | Hardware | 2026-05-09 |
 | [Intern](https://jobs.smartrecruiters.com/Eurofins/744000102593098) | 58 | Hayward, CA | Hardware | 2026-05-09 |
 
@@ -1779,6 +1782,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Financial Analyst Intern](https://fhlbtopeka.wd1.myworkdayjobs.com/FHLBT/job/Topeka-Kansas/Member-Solutions-Intern_JR100348) | 68 | Topeka, KS | AI/ML/Data | 2026-06-06 |
+
+## Field AI
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Field Application Engineer Intern](https://jobs.lever.co/field-ai/9c2b7b13-12d0-4c1a-a672-8c869228ec9d/apply) | 93 | Irvine, CA | Software | 2026-06-11 |
 
 ## Figure
 
@@ -2181,6 +2190,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Machine Learning PhD Intern - Economics](https://instacart.careers/job/?gh_jid=7532267) | 60 | Remote in USA | AI/ML/Data | 2026-06-11 |
 | [Machine Learning Engineer Intern](https://instacart.careers/job/?gh_jid=5917202) | 85 | Remote in USA | AI/ML/Data | 2026-06-10 |
 | [Machine Learning Engineer, PhD Intern (Fall)](https://instacart.careers/job/?gh_jid=5917202) | 85 | United States - Remote | — | 2026-06-10 |
 | [Machine Learning PhD Intern, Economics (Fall)](https://instacart.careers/job/?gh_jid=7532267) | 60 | United States - Remote | — | 2026-06-10 |
@@ -2897,12 +2907,6 @@
 | [Data Analyst Intern](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/326682) | 60 | Nashville, TN | AI/ML/Data | 2026-05-09 |
 | [Oracle Pathways Software School Intern](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/318087) | 60 | Nashville, TN | Software | 2026-05-09 |
 
-## OTR Solutions
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Technology Intern](https://job-boards.greenhouse.io/otrcapital1/jobs/4659147002) | 68 | Roswell, GA | Software | 2026-05-09 |
-
 ## Oura
 
 | Title | Score | Location | Department | First seen |
@@ -3589,9 +3593,10 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer, New Grad, Developer Experience & Product Platform](https://stripe.com/jobs/search?gh_jid=7991718) | 91 | Toronto | — | 2026-06-11 |
 | [PhD Data Scientist Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | Seattle, WA / SF / Chicago, IL / NYC | AI/ML/Data | 2026-06-06 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | 56 | Mexico City, Mexico | — | 2026-05-06 |
@@ -3736,6 +3741,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Supercharger Product Engineer Intern - Supercharger Product Support Engineering](https://www.tesla.com/careers/search/job/273531) | 85 | Palo Alto, CA | AI/ML/Data | 2026-06-11 |
 | [Embedded Software Intern - Embedded Software Engineer - Optimus](https://www.tesla.com/careers/search/job/273272) | 85 | Palo Alto, CA | Hardware | 2026-06-09 |
 | [Automated Diagnostics Intern - Software Engineer](https://www.tesla.com/careers/search/job/270521) | 85 | Palo Alto, CA | Software | 2026-06-08 |
 | [Embedded Software Engineer Intern - Embedded Software Engineer - Body Controls Firmware](https://www.tesla.com/careers/search/job/270618) | 85 | Palo Alto, CA | Hardware | 2026-06-08 |
@@ -3993,6 +3999,12 @@
 | [Kernel Engineer – Intern and Full-time](https://jobs.ashbyhq.com/tilderesearch/bc4e4071-cf64-4460-8265-b1e5a603d6b8/application) | 93 | SF | Software | 2026-05-09 |
 | [ML Researcher – Intern and Full-time](https://jobs.ashbyhq.com/tilderesearch/e850d5b0-a5d6-4b9c-9898-f7addb441508/application) | 93 | SF | AI/ML/Data | 2026-05-09 |
 
+## TJX
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Merchandise Operations Analyst Co-op/Intern](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Mississauga-ON-L5R-0G1/Fall-Term-Merchandise-Operations-Analyst-Co-op-Intern_REQ126563) | 68 | Mississauga, ON, Canada | AI/ML/Data | 2026-06-11 |
+
 ## TMEIC
 
 | Title | Score | Location | Department | First seen |
@@ -4110,6 +4122,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Automation & Test Intern](https://job-boards.greenhouse.io/vardaspace/jobs/7663353003) | 58 | El Segundo, CA | Hardware | 2026-06-11 |
 | [Mission Software – Intern - Python](https://job-boards.greenhouse.io/vardaspace/jobs/7676465003) | 68 | El Segundo, CA | Software | 2026-06-10 |
 | [Applications Engineering Internship](https://job-boards.greenhouse.io/vardaspace/jobs/7732511003) | 68 | El Segundo, CA | AI/ML/Data | 2026-05-14 |
 | [Mission Operations Intern](https://job-boards.greenhouse.io/vardaspace/jobs/7663358003) | 68 | El Segundo, CA | Software | 2026-05-09 |

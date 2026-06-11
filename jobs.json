@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-10T23:18:38.796Z",
+  "generatedAt": "2026-06-11T01:44:46.869Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1266,
+  "jobCount": 1273,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -301,7 +301,6 @@
     "canonical:a0c816de68b3b6dc": "2026-05-09T15:28:15.527Z",
     "canonical:6956004c2fe6d76f": "2026-05-09T15:28:15.527Z",
     "canonical:a6e4b6d0e4997b8d": "2026-05-09T15:28:15.527Z",
-    "canonical:3ee2d6aca9851dfb": "2026-05-09T15:28:15.527Z",
     "canonical:af3e2c5fb52083c5": "2026-05-09T15:28:15.527Z",
     "canonical:1b419963796d3a31": "2026-05-09T15:28:15.527Z",
     "canonical:5badaef05a25da33": "2026-05-09T15:28:15.527Z",
@@ -1269,7 +1268,15 @@
     "canonical:42fbaef0deb01c5f": "2026-06-10T23:18:38.796Z",
     "canonical:4372e6f198b3f85d": "2026-06-10T23:18:38.796Z",
     "canonical:9a7122d552124440": "2026-06-10T23:18:38.796Z",
-    "canonical:f0e84b98d64a6dd1": "2026-06-10T23:18:38.796Z"
+    "canonical:f0e84b98d64a6dd1": "2026-06-10T23:18:38.796Z",
+    "canonical:351b627148bec71d": "2026-06-11T01:44:46.869Z",
+    "canonical:eb9397a55e0d733c": "2026-06-11T01:44:46.869Z",
+    "canonical:5c13be71e2802136": "2026-06-11T01:44:46.869Z",
+    "canonical:491ade8f5ec863c3": "2026-06-11T01:44:46.869Z",
+    "canonical:1a265ff27273b417": "2026-06-11T01:44:46.869Z",
+    "canonical:2420e0db63330801": "2026-06-11T01:44:46.869Z",
+    "canonical:a408343a5d65fbb1": "2026-06-11T01:44:46.869Z",
+    "canonical:8bd38293f3b72dd9": "2026-06-11T01:44:46.869Z"
   },
   "jobs": [
     {
@@ -2048,10 +2055,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2061,10 +2068,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2097,6 +2104,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:351b627148bec71d",
+      "title": "Software Engineer, New Grad, Developer Experience & Product Platform",
+      "url": "https://stripe.com/jobs/search?gh_jid=7991718",
+      "location": "Toronto",
+      "department": "",
+      "company": "Stripe",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
       ]
     },
     {
@@ -2342,6 +2363,20 @@
       "company": "Cloudflare",
       "score": 58,
       "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:eb9397a55e0d733c",
+      "title": "People Team: Software Engineer Intern (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7774167?gh_jid=7774167",
+      "location": "Hybrid",
+      "department": "",
+      "company": "Cloudflare",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
         "direct ATS"
       ]
     },
@@ -4639,6 +4674,18 @@
       ]
     },
     {
+      "id": "canonical:5c13be71e2802136",
+      "title": "Machine Learning PhD Intern - Economics",
+      "url": "https://instacart.careers/job/?gh_jid=7532267",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "Instacart",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:70c4ea9073d703ab",
       "title": "Data Analyst Intern Fall 2026",
       "url": "https://jobs.paccar.com/job/Columbus-Data-Analyst-Intern-Fall-2026-MS-39701/1283451401/?ats=successfactors",
@@ -5400,19 +5447,6 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:3ee2d6aca9851dfb",
-      "title": "Technology Intern",
-      "url": "https://job-boards.greenhouse.io/otrcapital1/jobs/4659147002",
-      "location": "Roswell, GA",
-      "department": "Software",
-      "company": "OTR Solutions",
-      "score": 68,
-      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
@@ -7028,6 +7062,18 @@
       ]
     },
     {
+      "id": "canonical:491ade8f5ec863c3",
+      "title": "Automation & Test Intern",
+      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7663353003",
+      "location": "El Segundo, CA",
+      "department": "Hardware",
+      "company": "Varda Space",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:c3f909dd643f2906",
       "title": "Mission Software – Intern - Python",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7676465003",
@@ -7534,6 +7580,20 @@
       "company": "SoloPulse",
       "score": 58,
       "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1a265ff27273b417",
+      "title": "Software Engineer Intern",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7774167",
+      "location": "Austin, TX",
+      "department": "Software",
+      "company": "Cloudflare",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
         "direct ATS"
       ]
     },
@@ -14340,6 +14400,19 @@
       ]
     },
     {
+      "id": "canonical:80d8b55bc00c3b4c",
+      "title": "Business Intelligence Intern",
+      "url": "https://jobs.smartrecruiters.com/Eurofins/744000130829489",
+      "location": "Lancaster, PA",
+      "department": "AI/ML/Data",
+      "company": "Eurofins",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:b1c3bc01bef551d7",
       "title": "Data Center Technician Intern",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556867685",
@@ -14584,19 +14657,6 @@
       "company": "Robert Bosch Venture Capital",
       "score": 58,
       "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:80d8b55bc00c3b4c",
-      "title": "Business Intelligence Intern",
-      "url": "https://jobs.smartrecruiters.com/Eurofins/744000131132249",
-      "location": "Lancaster, PA",
-      "department": "AI/ML/Data",
-      "company": "Eurofins",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
         "direct ATS"
       ]
     },
@@ -15170,6 +15230,46 @@
       "company": "Egis Group",
       "score": 68,
       "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:2420e0db63330801",
+      "title": "Merchandise Operations Analyst Co-op/Intern",
+      "url": "https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Mississauga-ON-L5R-0G1/Fall-Term-Merchandise-Operations-Analyst-Co-op-Intern_REQ126563",
+      "location": "Mississauga, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "TJX",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:a408343a5d65fbb1",
+      "title": "Supercharger Product Engineer Intern - Supercharger Product Support Engineering",
+      "url": "https://www.tesla.com/careers/search/job/273531",
+      "location": "Palo Alto, CA",
+      "department": "AI/ML/Data",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:8bd38293f3b72dd9",
+      "title": "Field Application Engineer Intern",
+      "url": "https://jobs.lever.co/field-ai/9c2b7b13-12d0-4c1a-a672-8c869228ec9d/apply",
+      "location": "Irvine, CA",
+      "department": "Software",
+      "company": "Field AI",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
