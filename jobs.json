@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-11T18:04:03.516Z",
+  "generatedAt": "2026-06-11T20:33:48.357Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1277,
+  "jobCount": 1274,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -260,7 +260,6 @@
     "canonical:14904318e185f409": "2026-05-09T15:28:15.527Z",
     "canonical:18df2a1964fc05b8": "2026-05-09T15:28:15.527Z",
     "canonical:d3d88b97da2eb475": "2026-05-09T15:28:15.527Z",
-    "canonical:60d5bcf59af3b320": "2026-05-09T15:28:15.527Z",
     "canonical:c8e0ad6b0204c789": "2026-05-09T15:28:15.527Z",
     "canonical:e8fa8ba4a90741c0": "2026-05-09T15:28:15.527Z",
     "canonical:28e42db883c713ad": "2026-05-09T15:28:15.527Z",
@@ -1005,7 +1004,6 @@
     "canonical:9f26983a768cc42f": "2026-06-03T00:01:07.922Z",
     "canonical:9a659bb667b49ec8": "2026-06-03T00:01:07.922Z",
     "canonical:97627b00e025c61b": "2026-06-03T00:01:07.922Z",
-    "canonical:a785c997e3c6fc73": "2026-06-03T00:01:07.922Z",
     "canonical:0f3e220c90e81be2": "2026-06-03T00:01:07.922Z",
     "canonical:156e12a66a91749d": "2026-06-03T00:01:07.922Z",
     "canonical:00f76402b372da9e": "2026-06-03T00:01:07.922Z",
@@ -1035,7 +1033,6 @@
     "canonical:3b6ea3230a1f6040": "2026-06-03T23:25:54.380Z",
     "canonical:15c9ad54e5b37301": "2026-06-03T23:25:54.380Z",
     "canonical:51c9b4da188261da": "2026-06-03T23:25:54.380Z",
-    "canonical:099c5f9d30b87085": "2026-06-03T23:25:54.380Z",
     "canonical:82e9d25d648cf521": "2026-06-03T23:25:54.380Z",
     "canonical:65c1435260c3a132": "2026-06-03T23:25:54.380Z",
     "canonical:633a3e0d1900e7f4": "2026-06-03T23:25:54.380Z",
@@ -4889,19 +4886,6 @@
       "company": "TikTok",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:60d5bcf59af3b320",
-      "title": "Machine Learning Research Intern",
-      "url": "https://jobs.ashbyhq.com/d-Matrix/7d2b7609-00fb-4a74-aa74-61508434ec93/application",
-      "location": "Santa Clara, CA",
-      "department": "AI/ML/Data",
-      "company": "d-Matrix",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
     },
     {
       "id": "canonical:c8e0ad6b0204c789",
@@ -12522,19 +12506,6 @@
       ]
     },
     {
-      "id": "canonical:a785c997e3c6fc73",
-      "title": "Software Engineering Intern - Adserver",
-      "url": "https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/New-York---New-York/Intern--Software-Engineering---Adserver--NYC-_R-01333",
-      "location": "NYC",
-      "department": "Software",
-      "company": "Magnite",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:0f3e220c90e81be2",
       "title": "Research Intern - Virtual Network",
       "url": "https://jobs.bytedance.com/en/position/7537164763424606482/detail",
@@ -12904,20 +12875,6 @@
       "company": "Nightwing Intelligence Solutions",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:099c5f9d30b87085",
-      "title": "Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/ispottv/jobs/4702457005",
-      "location": "Bellevue, WA",
-      "department": "Software",
-      "company": "iSpot.tv",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]

@@ -1,6 +1,6 @@
 # Open Internships
 
-**1277** internships across **63/64** companies — last updated 2026-06-11.
+**1274** internships across **63/64** companies — last updated 2026-06-11.
 
 ## Companies
 
@@ -133,7 +133,7 @@
 - [Cribl](#cribl) (1)
 - [Cubist Systematic Strategies](#cubist-systematic-strategies) (1)
 - [Cupertino Electric, Inc.](#cupertino-electric-inc) (1)
-- [d-Matrix](#d-matrix) (2)
+- [d-Matrix](#d-matrix) (1)
 - [Dairyland Power Cooperative](#dairyland-power-cooperative) (1)
 - [Dandy](#dandy) (1)
 - [Databricks](#databricks) (1)
@@ -250,7 +250,7 @@
 - [Interdigital](#interdigital) (1)
 - [Internship](#internship) (1)
 - [Interstates](#interstates) (1)
-- [iSpot.tv](#ispot-tv) (2)
+- [iSpot.tv](#ispot-tv) (1)
 - [Ivy Tech Community College](#ivy-tech-community-college) (1)
 - [Jain Global](#jain-global) (1)
 - [JINGDONG](#jingdong) (1)
@@ -283,7 +283,7 @@
 - [Lyft](#lyft) (1)
 - [Mach9](#mach9) (1)
 - [Magna](#magna) (1)
-- [Magnite](#magnite) (2)
+- [Magnite](#magnite) (1)
 - [Maher Duessel](#maher-duessel) (1)
 - [MaintainX](#maintainx) (1)
 - [MaloneBailey, LLP](#malonebailey-llp) (1)
@@ -1442,7 +1442,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Applied AI Engineering Intern](https://jobs.ashbyhq.com/d-Matrix/93a6e6ee-3391-4437-8459-e28eb05eace7/application) | 68 | Santa Clara, CA | Software | 2026-06-03 |
-| [Machine Learning Research Intern](https://jobs.ashbyhq.com/d-Matrix/7d2b7609-00fb-4a74-aa74-61508434ec93/application) | 68 | Santa Clara, CA | AI/ML/Data | 2026-05-09 |
 
 ## Dairyland Power Cooperative
 
@@ -2211,7 +2210,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Data Science Intern](https://job-boards.greenhouse.io/ispottv/jobs/4703297005) | 68 | Bellevue, WA | AI/ML/Data | 2026-06-09 |
-| [Engineer Intern](https://job-boards.greenhouse.io/ispottv/jobs/4702457005) | 93 | Bellevue, WA | Software | 2026-06-03 |
 
 ## Ivy Tech Community College
 
@@ -2429,7 +2427,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineering Intern - Adserver](https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/New-York---New-York/Intern--Software-Engineering---Adserver--NYC-_R-01333) | 68 | NYC | Software | 2026-06-03 |
 | [Software Engineering Intern - Data Science Engineering](https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/Colorado---Broomfield/Intern--Software-Engineering---Data-Science-Engineering--Broomfield--CO-_R-01331) | 68 | Broomfield, CO | AI/ML/Data | 2026-06-03 |
 
 ## Maher Duessel
