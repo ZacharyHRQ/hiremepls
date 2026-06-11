@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-11T14:53:08.801Z",
+  "generatedAt": "2026-06-11T18:04:03.516Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1280,
+  "jobCount": 1277,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -71,7 +71,6 @@
     "canonical:864b184043940577": "2026-05-06T06:42:07.596Z",
     "canonical:accc7acdf5c4229f": "2026-05-06T06:42:07.596Z",
     "canonical:9db8469f111d27a7": "2026-05-13T08:10:42.769Z",
-    "canonical:31dd1ab15c427f1e": "2026-05-06T06:42:07.596Z",
     "canonical:94acd2d1087ef9dd": "2026-05-06T06:42:07.596Z",
     "canonical:23d89ee4033a1416": "2026-05-06T06:42:07.596Z",
     "canonical:38c38b2f9b935c7b": "2026-05-06T06:42:07.596Z",
@@ -81,7 +80,6 @@
     "canonical:6353eecea9024842": "2026-05-09T15:28:15.527Z",
     "canonical:8fc863f495e5ebf7": "2026-05-09T15:28:15.527Z",
     "canonical:40b5e3e02c34b6ce": "2026-05-09T15:28:15.527Z",
-    "canonical:380fa27ff1995531": "2026-05-09T15:28:15.527Z",
     "canonical:23a3eabad357287a": "2026-05-09T15:28:15.527Z",
     "canonical:52fbe83b0153ef2a": "2026-05-09T15:28:15.527Z",
     "canonical:54eb0918a1a56e5d": "2026-05-09T15:28:15.527Z",
@@ -250,7 +248,6 @@
     "canonical:21c3452540b2e7d3": "2026-05-09T15:28:15.527Z",
     "canonical:91be5b6cd9522752": "2026-05-09T15:28:15.527Z",
     "canonical:c1ed15000e565857": "2026-05-09T15:28:15.527Z",
-    "canonical:d83aa4ee71351660": "2026-05-09T15:28:15.527Z",
     "canonical:fa4c9bcbdd3d4a44": "2026-05-09T15:28:15.527Z",
     "canonical:86c5369b87b659a9": "2026-05-09T15:28:15.527Z",
     "canonical:9efa8c168531892f": "2026-05-09T15:28:15.527Z",
@@ -842,7 +839,6 @@
     "canonical:4be1285af1d6fead": "2026-05-20T15:54:33.666Z",
     "canonical:0e6641231f661b81": "2026-05-20T15:54:33.666Z",
     "canonical:7c86059fb2609329": "2026-05-20T23:38:03.330Z",
-    "canonical:94b8f706fc1b8577": "2026-05-21T01:33:24.639Z",
     "canonical:fa35aad369eb90c3": "2026-05-21T05:52:27.471Z",
     "canonical:d35985b2727191b1": "2026-05-21T05:52:27.471Z",
     "canonical:f012e13fdaf4adcb": "2026-05-21T05:52:27.471Z",
@@ -1030,7 +1026,6 @@
     "canonical:d5989df87e86b977": "2026-06-03T10:04:55.299Z",
     "canonical:b0a57a3a31d07f87": "2026-06-03T15:01:52.660Z",
     "canonical:61a176d561f3108a": "2026-06-03T23:25:54.380Z",
-    "canonical:76679209f361ccb6": "2026-06-03T23:25:54.380Z",
     "canonical:1cb06eb7b801cca8": "2026-06-03T23:25:54.380Z",
     "canonical:eaa6e19f31ea5055": "2026-06-03T23:25:54.380Z",
     "canonical:365196b713f8c54f": "2026-06-03T23:25:54.380Z",
@@ -1245,9 +1240,7 @@
     "canonical:5a04d7e1104bec7c": "2026-06-10T23:18:38.796Z",
     "canonical:8a10421b10f0725a": "2026-06-10T23:18:38.796Z",
     "canonical:4372e6f198b3f85d": "2026-06-10T23:18:38.796Z",
-    "canonical:9a7122d552124440": "2026-06-10T23:18:38.796Z",
     "canonical:f0e84b98d64a6dd1": "2026-06-10T23:18:38.796Z",
-    "canonical:351b627148bec71d": "2026-06-11T01:44:46.869Z",
     "canonical:eb9397a55e0d733c": "2026-06-11T01:44:46.869Z",
     "canonical:5c13be71e2802136": "2026-06-11T01:44:46.869Z",
     "canonical:1a265ff27273b417": "2026-06-11T01:44:46.869Z",
@@ -1283,7 +1276,11 @@
     "canonical:c3b3bce8a3e2e039": "2026-06-11T14:53:08.801Z",
     "canonical:aaaa0e3f49253448": "2026-06-11T14:53:08.801Z",
     "canonical:390968f96c88e9ec": "2026-06-11T14:53:08.801Z",
-    "canonical:83a7df07cb533c24": "2026-06-11T14:53:08.801Z"
+    "canonical:83a7df07cb533c24": "2026-06-11T14:53:08.801Z",
+    "canonical:1f027cb6d4618bf9": "2026-06-11T18:04:03.516Z",
+    "canonical:491ade8f5ec863c3": "2026-06-11T18:04:03.516Z",
+    "canonical:d621e53b1b2df411": "2026-06-11T18:04:03.516Z",
+    "canonical:cf2a4d5837312999": "2026-06-11T18:04:03.516Z"
   },
   "jobs": [
     {
@@ -1677,10 +1674,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1691,10 +1688,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -2104,8 +2101,8 @@
       ]
     },
     {
-      "id": "canonical:351b627148bec71d",
-      "title": "Software Engineer, New Grad, Developer Experience & Product Platform",
+      "id": "canonical:1f027cb6d4618bf9",
+      "title": "Software Engineer, New Grad, Developer & End User Experience Platform",
       "url": "https://stripe.com/jobs/search?gh_jid=7991718",
       "location": "Toronto",
       "department": "",
@@ -2415,18 +2412,6 @@
       ]
     },
     {
-      "id": "canonical:31dd1ab15c427f1e",
-      "title": "Technical Support Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7726879?gh_jid=7726879",
-      "location": "In-Office",
-      "department": "",
-      "company": "Cloudflare",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:94acd2d1087ef9dd",
       "title": "Threat Detection and Incident Response Intern (Summer 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7577205?gh_jid=7577205",
@@ -2531,20 +2516,6 @@
       "company": "Cribl",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:380fa27ff1995531",
-      "title": "Software Quality Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/appian/jobs/7201615",
-      "location": "McLean, VA",
-      "department": "Software Engineering",
-      "company": "Appian",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
     },
     {
       "id": "canonical:23a3eabad357287a",
@@ -4724,19 +4695,6 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:d83aa4ee71351660",
-      "title": "Data Science Intern",
-      "url": "https://boards.greenhouse.io/faire/jobs/8376377002",
-      "location": "Toronto, ON, Canada / Kitchener, ON, Canada / SF",
-      "department": "AI/ML/Data",
-      "company": "Faire",
-      "score": 68,
-      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
@@ -7001,6 +6959,18 @@
       ]
     },
     {
+      "id": "canonical:491ade8f5ec863c3",
+      "title": "Automation & Test Intern",
+      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7663353003",
+      "location": "El Segundo, CA",
+      "department": "Hardware",
+      "company": "Varda Space",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:c3f909dd643f2906",
       "title": "Mission Software – Intern - Python",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7676465003",
@@ -8003,20 +7973,6 @@
       "company": "Cloudforce",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:94b8f706fc1b8577",
-      "title": "Intern - Application Developer",
-      "url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101251",
-      "location": "East Lansing, MI",
-      "department": "Software",
-      "company": "Delta Dental",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -11930,19 +11886,6 @@
       ]
     },
     {
-      "id": "canonical:76679209f361ccb6",
-      "title": "Data Analytics Intern - Data Analytics",
-      "url": "https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Internship---Data-Analytics--Omaha--NE-_R-20260931",
-      "location": "Omaha, NE",
-      "department": "AI/ML/Data",
-      "company": "FNBO",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:dde05a729f5089a8",
       "title": "Electrical Device Characterization Intern",
       "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505101",
@@ -15039,19 +14982,6 @@
       "scoreReasons": []
     },
     {
-      "id": "canonical:9a7122d552124440",
-      "title": "Software Engineer Intern",
-      "url": "https://careers-e2.icims.com/jobs/6148/job?mobile=true&needsRedirect=false",
-      "location": "Oakland, CA",
-      "department": "Software",
-      "company": "E2 Consulting Engineers",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:f0e84b98d64a6dd1",
       "title": "Systems Engineering Intern",
       "url": "https://jobs.smartrecruiters.com/EgisGroup/744000131509289",
@@ -15393,6 +15323,31 @@
         "high-signal role",
         "direct ATS",
         "lower-fit title"
+      ]
+    },
+    {
+      "id": "canonical:d621e53b1b2df411",
+      "title": "Research and Development Intern",
+      "url": "https://job-boards.greenhouse.io/amarok/jobs/6018661004",
+      "location": "Columbia, SC",
+      "department": "Hardware",
+      "company": "AMAROK Security",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:cf2a4d5837312999",
+      "title": "AI/ML Intern",
+      "url": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Hillsboro-OR/AI-ML-Internship-2_R-6091",
+      "location": "Milpitas, CA / Hillsboro, OR",
+      "department": "AI/ML/Data",
+      "company": "Onto Innovation",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {

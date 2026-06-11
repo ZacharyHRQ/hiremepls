@@ -47,8 +47,8 @@
     "8491055002",
     "8491138002",
     "8491128002",
-    "7297611002",
     "7297598002",
+    "7297611002",
     "7302611002",
     "7609197002",
     "7586061002",
@@ -140,7 +140,6 @@
     "7863831",
     "7792962",
     "7912382",
-    "7726879",
     "7577205"
   ],
   "Datadog": [
@@ -188,7 +187,6 @@
   "BlackRock": [],
   "Visa": [],
   "SimplifyJobs": [
-    "simplify:44761ef7-27d2-4048-812e-9b1fca732027",
     "simplify:fe550c45-aab0-401d-82d8-d7fe7d1b86fc",
     "simplify:25358b15-1c05-4d32-8ecc-92b8feeea031",
     "simplify:1b469f2c-e8d1-49b0-8721-b03d77131428",
@@ -363,7 +361,6 @@
     "simplify:8ac7eb44-6399-4d0c-a4f2-b563664d76d2",
     "simplify:c8d01702-9baf-46fb-b887-f54a8f24a12a",
     "simplify:20e42ba9-f733-4af7-90db-2d2b6bf52da8",
-    "simplify:21a2fc47-75fb-4613-8e44-d2b16c4bb504",
     "simplify:2f581eb5-e5d9-4bc0-a9b6-54a4ea8ad53d",
     "simplify:89f594f1-36b8-4da1-a6b7-4c345fc51e0b",
     "simplify:80acc05b-395b-4882-b898-4b6f84b3a4ed",
@@ -548,6 +545,7 @@
     "simplify:cd885e02-d0aa-4f5f-a119-3f60710cc44c",
     "simplify:ee06c097-78e9-41e2-b0ad-b234e1843a1c",
     "simplify:f6a3af7e-f19a-41de-953f-a5d99d2b6ea5",
+    "simplify:524a758b-b1a2-4a02-9ff9-dcda097b1187",
     "simplify:609e2d0d-89d6-434b-ab49-1968ef08c157",
     "simplify:d7297bc9-b982-4d12-9a1a-ea5d22b7eba6",
     "simplify:466fb8d5-0978-48fe-bbfe-b0bdb2df53aa",
@@ -628,7 +626,6 @@
     "simplify:624a2b7b-51e9-4b7e-87d8-5e15ae69b867",
     "simplify:6f53e7a8-a859-4111-972d-988f2d4b31e2",
     "simplify:c635048f-2bb2-4949-b1ab-bd8c0d76ec14",
-    "simplify:325fd0cb-a6c0-4bca-9cc8-4d6416f1ddac",
     "simplify:50476edb-b428-4583-901b-6dc310fab018",
     "simplify:339a873e-d26f-429a-ba59-1274ad8a7afc",
     "simplify:3a0b0dbb-fbd9-49e9-92b1-489a27764605",
@@ -946,7 +943,6 @@
     "simplify:25955d79-5052-4813-bcb6-5d25f1ce2b38",
     "simplify:87bf913a-f01f-4edf-b21e-df5528825207",
     "simplify:518eaf7f-1690-43dd-a711-377210881c3e",
-    "simplify:9a4d9423-8ada-4c99-b484-f6829217c641",
     "simplify:91ac422f-5dbb-4c4c-adf5-0cd92c1fe722",
     "simplify:828ec8a3-c800-40a9-a0a1-b55211665125",
     "simplify:cd5a2b7b-9f15-4976-979c-d51902e55478",
@@ -1201,7 +1197,6 @@
     "simplify:f3da2ede-7f82-4329-95de-dc4f9d7e1fb1",
     "simplify:c2efb0f0-b3c7-4a01-b8c7-96448cbad99f",
     "simplify:944d8f70-e423-4643-94bf-b86edfbcf307",
-    "simplify:44041c0c-060c-4baf-a23a-fd72b94bca01",
     "simplify:7f61605a-79d8-44be-80d6-4e3664d220e7",
     "simplify:2d6183be-3318-46d4-b9b9-0365de329244",
     "simplify:efc0f585-438c-4c72-b863-af1b480e60ab",
@@ -1229,7 +1224,9 @@
     "simplify:aef8e1d7-1422-403a-ba01-d5800f15dfcf",
     "simplify:64a9b75c-dd91-47ec-92f5-030604e83f7a",
     "simplify:05dc8ddd-b44a-48bb-8e9f-78f8969b625a",
-    "simplify:c9c78e92-070c-43f9-ba3b-9e3d8122ed18"
+    "simplify:c9c78e92-070c-43f9-ba3b-9e3d8122ed18",
+    "simplify:cae7ba56-b661-44a0-ad83-07cbc36b4ca4",
+    "simplify:e1586926-cb2c-4860-a302-faf08bf58ed0"
   ],
   "vanshb03": [
     "vansh:df70fa57-977b-4f31-832e-a0e57ed070b5",
