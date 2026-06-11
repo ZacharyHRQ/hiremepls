@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-11T01:44:46.869Z",
+  "generatedAt": "2026-06-11T06:27:21.326Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1273,
+  "jobCount": 1266,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -82,12 +82,6 @@
     "canonical:6353eecea9024842": "2026-05-09T15:28:15.527Z",
     "canonical:8fc863f495e5ebf7": "2026-05-09T15:28:15.527Z",
     "canonical:40b5e3e02c34b6ce": "2026-05-09T15:28:15.527Z",
-    "canonical:ac5dfc417ca207db": "2026-05-09T15:28:15.527Z",
-    "canonical:8533e31ecb24678a": "2026-05-09T15:28:15.527Z",
-    "canonical:8a7dca9a60b892fa": "2026-05-09T15:28:15.527Z",
-    "canonical:e1f017c3a97e43b3": "2026-05-09T15:28:15.527Z",
-    "canonical:640e2d088e50d95b": "2026-05-09T15:28:15.527Z",
-    "canonical:983c61e2ab1d1c8a": "2026-05-09T15:28:15.527Z",
     "canonical:380fa27ff1995531": "2026-05-09T15:28:15.527Z",
     "canonical:23a3eabad357287a": "2026-05-09T15:28:15.527Z",
     "canonical:52fbe83b0153ef2a": "2026-05-09T15:28:15.527Z",
@@ -581,7 +575,6 @@
     "canonical:7716b89faf1c2355": "2026-05-09T15:28:15.527Z",
     "canonical:1b8ee10f16991056": "2026-05-16T07:09:10.733Z",
     "canonical:5cb9ff5d80f675ba": "2026-05-09T15:28:15.527Z",
-    "canonical:973793ebb10f49ac": "2026-05-09T15:28:15.527Z",
     "canonical:fb504a6efd3146f5": "2026-05-09T15:28:15.527Z",
     "canonical:b5545588e338ddbb": "2026-05-09T15:28:15.527Z",
     "canonical:ae2198c9ecbb102e": "2026-05-11T00:06:33.325Z",
@@ -925,9 +918,7 @@
     "canonical:26834ab146689c4d": "2026-05-27T02:52:54.000Z",
     "canonical:089f466a56458f6e": "2026-05-27T02:52:54.000Z",
     "canonical:967e735cb814bb7d": "2026-05-27T06:54:37.687Z",
-    "canonical:30d116b5a98a2933": "2026-05-27T06:54:37.687Z",
     "canonical:4f50987606569140": "2026-05-27T06:54:37.687Z",
-    "canonical:3be6e7afb72fb01c": "2026-05-27T06:54:37.687Z",
     "canonical:a52697798ee25d09": "2026-05-27T06:54:37.687Z",
     "canonical:f2b9b01ed20bb453": "2026-05-27T06:54:37.687Z",
     "canonical:a5f3aa67d209292a": "2026-05-27T06:54:37.687Z",
@@ -1276,7 +1267,9 @@
     "canonical:1a265ff27273b417": "2026-06-11T01:44:46.869Z",
     "canonical:2420e0db63330801": "2026-06-11T01:44:46.869Z",
     "canonical:a408343a5d65fbb1": "2026-06-11T01:44:46.869Z",
-    "canonical:8bd38293f3b72dd9": "2026-06-11T01:44:46.869Z"
+    "canonical:8bd38293f3b72dd9": "2026-06-11T01:44:46.869Z",
+    "canonical:2a27a6706157cb62": "2026-06-11T06:27:21.326Z",
+    "canonical:6ffbc9b658b7f7b8": "2026-06-11T06:27:21.326Z"
   },
   "jobs": [
     {
@@ -2532,76 +2525,6 @@
       "location": "Remote - San Francisco, California",
       "department": "",
       "company": "Cribl",
-      "score": 50,
-      "scoreReasons": []
-    },
-    {
-      "id": "canonical:ac5dfc417ca207db",
-      "title": "Data Scientist Intern - Tiktok Shop User Product Data Science",
-      "url": "https://lifeattiktok.com/search/7532254890627696903",
-      "location": "Seattle, WA",
-      "department": "AI/ML/Data",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:8533e31ecb24678a",
-      "title": "Data Scientist Intern - Tiktok Shop Business Product Data Science",
-      "url": "https://lifeattiktok.com/search/7532238337198622983",
-      "location": "Seattle, WA",
-      "department": "AI/ML/Data",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:8a7dca9a60b892fa",
-      "title": "Data Analyst Intern - Tiktok Shop AMS Data Science",
-      "url": "https://lifeattiktok.com/search/7532267134924867847",
-      "location": "Seattle, WA",
-      "department": "AI/ML/Data",
-      "company": "TikTok",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:e1f017c3a97e43b3",
-      "title": "Product Manager Intern - Tiktok Shop Seller Platform",
-      "url": "https://lifeattiktok.com/search/7545748758039218440",
-      "location": "Seattle, WA",
-      "department": "Product",
-      "company": "TikTok",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:640e2d088e50d95b",
-      "title": "Creator and Affiliate Product Manager Intern - Tiktok Shop - Multiple Teams",
-      "url": "https://lifeattiktok.com/search/7550950550511421703",
-      "location": "London, UK",
-      "department": "Product",
-      "company": "TikTok",
-      "score": 50,
-      "scoreReasons": []
-    },
-    {
-      "id": "canonical:983c61e2ab1d1c8a",
-      "title": "User Product Manager Intern - Tiktok Shop PM",
-      "url": "https://lifeattiktok.com/search/7550949634471201031",
-      "location": "London, UK",
-      "department": "Product",
-      "company": "TikTok",
       "score": 50,
       "scoreReasons": []
     },
@@ -9915,19 +9838,6 @@
       "scoreReasons": []
     },
     {
-      "id": "canonical:973793ebb10f49ac",
-      "title": "Research Science Intern",
-      "url": "https://boards.greenhouse.io/embed/job_app?token=7904529",
-      "location": "Mountain View, CA",
-      "department": "AI/ML/Data",
-      "company": "Unity",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:fb504a6efd3146f5",
       "title": "Software Engineer Intern - Security",
       "url": "https://jobs.ashbyhq.com/snowflake/a488959b-6874-4563-acb2-af747c3dc6f7/application",
@@ -11740,36 +11650,12 @@
       ]
     },
     {
-      "id": "canonical:30d116b5a98a2933",
-      "title": "Student Intern",
-      "url": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260003KB",
-      "location": "Massachusetts",
-      "department": "AI/ML/Data",
-      "company": "Commonwealth of Massachusetts",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:4f50987606569140",
       "title": "Market Segmentation Analyst Co-op/Intern",
       "url": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9056",
       "location": "Toronto, ON, Canada",
       "department": "AI/ML/Data",
       "company": "Definity Financial",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:3be6e7afb72fb01c",
-      "title": "Contracted Student Intern - Child - Youth and Family",
-      "url": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=2600034F",
-      "location": "Boston, MA",
-      "department": "AI/ML/Data",
-      "company": "Commonwealth of Massachusetts",
       "score": 60,
       "scoreReasons": [
         "high-signal role"
@@ -15273,6 +15159,29 @@
         "high-signal role",
         "direct ATS"
       ]
+    },
+    {
+      "id": "canonical:2a27a6706157cb62",
+      "title": "Data Scientist Intern",
+      "url": "https://lifeattiktok.com/search/7532660880120400135",
+      "location": "Seattle, WA",
+      "department": "AI/ML/Data",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:6ffbc9b658b7f7b8",
+      "title": "Creator & Affiliate Product Manager Intern",
+      "url": "https://lifeattiktok.com/search/7550950550511421703",
+      "location": "London, UK",
+      "department": "Product",
+      "company": "TikTok",
+      "score": 50,
+      "scoreReasons": []
     },
     {
       "id": "canonical:12cd06c0eec80152",

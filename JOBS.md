@@ -1,6 +1,6 @@
 # Open Internships
 
-**1273** internships across **63/64** companies — last updated 2026-06-11.
+**1266** internships across **63/64** companies — last updated 2026-06-11.
 
 ## Companies
 
@@ -119,7 +119,7 @@
 - [Cole Engineering Services](#cole-engineering-services) (1)
 - [Colgate-Palmolive](#colgate-palmolive) (1)
 - [Collabera](#collabera) (1)
-- [Commonwealth of Massachusetts](#commonwealth-of-massachusetts) (7)
+- [Commonwealth of Massachusetts](#commonwealth-of-massachusetts) (5)
 - [Conagra Brands](#conagra-brands) (2)
 - [ConnectPrep](#connectprep) (1)
 - [Context](#context) (1)
@@ -462,7 +462,7 @@
 - [TheGuarantors](#theguarantors) (1)
 - [Thermo Fisher Scientific](#thermo-fisher-scientific) (1)
 - [TIFIN](#tifin) (1)
-- [TikTok](#tiktok) (106)
+- [TikTok](#tiktok) (102)
 - [Tilde Research](#tilde-research) (2)
 - [TJX](#tjx) (1)
 - [TMEIC](#tmeic) (1)
@@ -478,7 +478,6 @@
 - [Truveta](#truveta) (1)
 - [Uber](#uber) (2)
 - [Uncountable](#uncountable) (1)
-- [Unity](#unity) (1)
 - [University System of New Hampshire](#university-system-of-new-hampshire) (3)
 - [Valeo](#valeo) (1)
 - [Vanguard](#vanguard) (1)
@@ -1353,8 +1352,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Contracted Student Intern - Child - Youth and Family](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=2600034F) | 60 | Boston, MA | AI/ML/Data | 2026-05-27 |
-| [Student Intern](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260003KB) | 60 | Massachusetts | AI/ML/Data | 2026-05-27 |
 | [Medicaid Management Information Systems Knowledge Management Intern - Medicaid Management Information Systems - Artificial Intelligence](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260003GT) | 60 | Quincy, MA | AI/ML/Data | 2026-05-14 |
 | [Aeronautics Drone Intern](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=26000160) | 60 | Boston, MA | AI/ML/Data | 2026-05-09 |
 | [Intern - Data Analytics](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=26000268) | 60 | Massachusetts | AI/ML/Data | 2026-05-09 |
@@ -3885,6 +3882,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data Scientist Intern](https://lifeattiktok.com/search/7532660880120400135) | 85 | Seattle, WA | AI/ML/Data | 2026-06-11 |
+| [Creator & Affiliate Product Manager Intern](https://lifeattiktok.com/search/7550950550511421703) | 50 | London, UK | Product | 2026-06-11 |
 | [AI Software Engineer Intern - Transaction Platform](https://lifeattiktok.com/search/7646621925436131637) | 85 | San Jose, CA | Software | 2026-06-09 |
 | [Data Science Intern - Tiktok Shop-Supply Chain & Logistics](https://lifeattiktok.com/search/7644719084681234741) | 60 | Seattle, WA | AI/ML/Data | 2026-05-28 |
 | [Efficient ML Engineer Research Intern - AI Platform - PhD](https://lifeattiktok.com/search/7642827146549446965) | 85 | San Jose, CA | AI/ML/Data | 2026-05-25 |
@@ -3898,8 +3897,6 @@
 | [Data Engineer Intern - Ads Data - 2026 Summer](https://lifeattiktok.com/search/7584219416980818229) | 85 | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Data Scientist Intern - Tiktok Integrity and Safety - 2026 Start, PhD](https://lifeattiktok.com/search/7610545287514392837) | 85 | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Data Scientist Intern - Tiktok Integrity and Safety - 2026 Summer](https://lifeattiktok.com/search/7610543185362372917) | 85 | San Jose, CA | AI/ML/Data | 2026-05-09 |
-| [Data Scientist Intern - Tiktok Shop Business Product Data Science](https://lifeattiktok.com/search/7532238337198622983) | 85 | Seattle, WA | AI/ML/Data | 2026-05-09 |
-| [Data Scientist Intern - Tiktok Shop User Product Data Science](https://lifeattiktok.com/search/7532254890627696903) | 85 | Seattle, WA | AI/ML/Data | 2026-05-09 |
 | [Frontend Engineer Intern](https://lifeattiktok.com/search/7595733632086591797) | 85 | San Jose, CA | Software | 2026-05-09 |
 | [Frontend Engineer Intern - Ads Interface and Platform](https://lifeattiktok.com/search/7595344466313529653) | 85 | San Jose, CA | Software | 2026-05-09 |
 | [Frontend Software Engineer Intern - Ads Measurement Signal and Privacy](https://lifeattiktok.com/search/7595306554946193717) | 85 | San Jose, CA | Software | 2026-05-09 |
@@ -3968,7 +3965,6 @@
 | [LLM Post-training Engineer Intern, Research & Product](https://lifeattiktok.com/search/7631599293708126517) | 75 | San Jose, CA | — | 2026-05-09 |
 | [AI Agent Project Intern](https://lifeattiktok.com/search/7605996823695116597) | 60 | London, UK | AI/ML/Data | 2026-05-09 |
 | [AI Product Operations Intern](https://lifeattiktok.com/search/7611950589973186821) | 60 | San Jose, CA | AI/ML/Data | 2026-05-09 |
-| [Data Analyst Intern - Tiktok Shop AMS Data Science](https://lifeattiktok.com/search/7532267134924867847) | 60 | Seattle, WA | AI/ML/Data | 2026-05-09 |
 | [Data Analyst Project Intern](https://lifeattiktok.com/search/7616659899507591477) | 60 | London, UK | AI/ML/Data | 2026-05-09 |
 | [Data Analyst Project Intern - Data Science](https://lifeattiktok.com/search/7620775575152462085) | 60 | London, UK | AI/ML/Data | 2026-05-09 |
 | [Data Analyst Project Intern - TikTok Shop - Data Science](https://lifeattiktok.com/search/7630767896739154229) | 60 | London, UK | AI/ML/Data | 2026-05-09 |
@@ -3976,8 +3972,6 @@
 | [Data Science Intern - Advertisement Team - 2026 Summer](https://lifeattiktok.com/search/7598068289244809525) | 60 | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Data Science Project Intern - Advertising Team - 2026 Start](https://lifeattiktok.com/search/7605353124442343733) | 60 | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Platform-Product Solutions and Operations Intern - Ads Interface and Platform - 2026 Summer BS/MS](https://lifeattiktok.com/search/7600292878967785781) | 60 | San Jose, CA | AI/ML/Data | 2026-05-09 |
-| [Product Manager Intern - Tiktok Shop Seller Platform](https://lifeattiktok.com/search/7545748758039218440) | 60 | Seattle, WA | Product | 2026-05-09 |
-| [Creator and Affiliate Product Manager Intern - Tiktok Shop - Multiple Teams](https://lifeattiktok.com/search/7550950550511421703) | 50 | London, UK | Product | 2026-05-09 |
 | [Product Management Project Intern - TikTok Operations](https://lifeattiktok.com/search/7584522934515714357) | 50 | LA | Product | 2026-05-09 |
 | [Product Manager Intern](https://lifeattiktok.com/search/7599841401208031541) | 50 | San Jose, CA | Product | 2026-05-09 |
 | [Product Manager Intern - Ads Core Product - 2026 Summer BS/MS](https://lifeattiktok.com/search/7600566306989738245) | 50 | San Jose, CA | Product | 2026-05-09 |
@@ -3990,7 +3984,6 @@
 | [Product Strategist Intern - Global Monetization Product and Technology - 2026 Summer - MBA](https://lifeattiktok.com/search/7566369771879958789) | 50 | San Jose, CA | Product | 2026-05-09 |
 | [Product Strategist Project Intern - Global Monetization Product and Technology - 2026 Start](https://lifeattiktok.com/search/7603516766509713717) | 50 | NYC | Product | 2026-05-09 |
 | [Technical Program Manager Intern - Global Monetization Product and Technology - BS/MS](https://lifeattiktok.com/search/7561479542730705213) | 50 | San Jose, CA | Product | 2026-05-09 |
-| [User Product Manager Intern - Tiktok Shop PM](https://lifeattiktok.com/search/7550949634471201031) | 50 | London, UK | Product | 2026-05-09 |
 
 ## Tilde Research
 
@@ -4091,12 +4084,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Full-Stack Intern](https://jobs.ashbyhq.com/uncountable/b9495eab-c04c-4333-b338-7dabdbddcaae/application) | 68 | London, UK / SF / NYC / Munich, Germany | Software | 2026-05-09 |
-
-## Unity
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Research Science Intern](https://boards.greenhouse.io/embed/job_app?token=7904529) | 68 | Mountain View, CA | AI/ML/Data | 2026-05-09 |
 
 ## University System of New Hampshire
 
