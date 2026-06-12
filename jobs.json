@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-12T08:40:39.399Z",
+  "generatedAt": "2026-06-12T12:01:29.803Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1260,
+  "jobCount": 1262,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1053,7 +1053,6 @@
     "canonical:d126988a7ded7d37": "2026-06-05T16:17:30.887Z",
     "canonical:85f4cac0ababd094": "2026-06-05T16:17:30.887Z",
     "canonical:c05b180aaab3907f": "2026-06-05T22:57:55.293Z",
-    "canonical:541f80cc7a83783e": "2026-06-06T00:04:30.171Z",
     "canonical:1903ea6b0e57aeaa": "2026-06-06T00:04:30.171Z",
     "canonical:0ef865c3ff3f9f5f": "2026-06-06T00:04:30.171Z",
     "canonical:3da39dab672a1b4b": "2026-06-06T00:04:30.171Z",
@@ -1169,7 +1168,6 @@
     "canonical:0bc60199c24624a0": "2026-06-09T16:15:38.284Z",
     "canonical:1782ca39c8f2f506": "2026-06-09T23:41:04.347Z",
     "canonical:74b5b42ed2757a70": "2026-06-09T23:41:04.347Z",
-    "canonical:dcc57aa64e78aadf": "2026-06-09T23:41:04.347Z",
     "canonical:5c6da3333f2763a6": "2026-06-09T23:41:04.347Z",
     "canonical:2150715e76c00abc": "2026-06-09T23:41:04.347Z",
     "canonical:5ae1902fe6ba45c8": "2026-06-09T23:41:04.347Z",
@@ -1187,7 +1185,6 @@
     "canonical:2328135cb74123e7": "2026-06-10T01:51:46.612Z",
     "canonical:553d7dd98f929f75": "2026-06-10T01:51:46.612Z",
     "canonical:68e56daf264ad19e": "2026-06-10T10:32:54.759Z",
-    "canonical:c1817238d89b26e3": "2026-06-10T10:32:54.759Z",
     "canonical:ce890d51c1a61aab": "2026-06-10T10:32:54.759Z",
     "canonical:96cbded783b7d471": "2026-06-10T10:32:54.759Z",
     "canonical:b27d174c2df33a1e": "2026-06-10T10:32:54.759Z",
@@ -1229,7 +1226,6 @@
     "canonical:6ffbc9b658b7f7b8": "2026-06-11T06:27:21.326Z",
     "canonical:32665894ab4460ce": "2026-06-11T11:07:45.069Z",
     "canonical:8ac5366622eb3f71": "2026-06-11T11:07:45.069Z",
-    "canonical:8c45020d76e40a27": "2026-06-11T11:07:45.069Z",
     "canonical:b4c4500796a35ee7": "2026-06-11T11:07:45.069Z",
     "canonical:481abe28ff8a5d8b": "2026-06-11T11:07:45.069Z",
     "canonical:968e6b1b487f0d88": "2026-06-11T11:07:45.069Z",
@@ -1263,7 +1259,13 @@
     "canonical:c11bff2ca221b70c": "2026-06-11T23:59:08.775Z",
     "canonical:4753086dcc5d73ea": "2026-06-11T23:59:08.775Z",
     "canonical:a134cc13890371ca": "2026-06-12T04:05:13.364Z",
-    "canonical:33464db3ffc98a8a": "2026-06-12T04:05:13.364Z"
+    "canonical:33464db3ffc98a8a": "2026-06-12T04:05:13.364Z",
+    "canonical:90de0872641ecba5": "2026-06-12T12:01:29.803Z",
+    "canonical:ade11c4713d07751": "2026-06-12T12:01:29.803Z",
+    "canonical:917c8771cd813a8d": "2026-06-12T12:01:29.803Z",
+    "canonical:5107c593a01396e4": "2026-06-12T12:01:29.803Z",
+    "canonical:de7479fb94f4eba6": "2026-06-12T12:01:29.803Z",
+    "canonical:bbfacc40dc55a0ce": "2026-06-12T12:01:29.803Z"
   },
   "jobs": [
     {
@@ -1517,6 +1519,16 @@
       "location": "Greenwich, CT",
       "department": "",
       "company": "AQR",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:90de0872641ecba5",
+      "title": "Intern",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988899",
+      "location": "Gift City",
+      "department": "",
+      "company": "Tower Research Capital",
       "score": 50,
       "scoreReasons": []
     },
@@ -2019,10 +2031,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2032,10 +2044,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -5032,19 +5044,6 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:541f80cc7a83783e",
-      "title": "Data Analyst Intern",
-      "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Morrisville-North-Carolina-USA/Data-Analyst-Intern_R-01341180",
-      "location": "Morrisville, NC / Waltham, MA",
-      "department": "AI/ML/Data",
-      "company": "Thermo Fisher Scientific",
-      "score": 68,
-      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
@@ -9867,19 +9866,6 @@
       ]
     },
     {
-      "id": "canonical:8c45020d76e40a27",
-      "title": "PhD Research Intern - Security and Privacy",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1",
-      "location": "Santa Clara, CA",
-      "department": "AI/ML/Data",
-      "company": "NVIDIA",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:4d80d3c0fa984737",
       "title": "Machine Learning Intern/Co-op",
       "url": "https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b/application",
@@ -12859,19 +12845,6 @@
       ]
     },
     {
-      "id": "canonical:c1817238d89b26e3",
-      "title": "FP&A Business Intelligence Intern",
-      "url": "https://brambles.wd5.myworkdayjobs.com/en-US/Brambles_Careers/job/London-England-United-Kingdom/FP-A-Business-Intelligence-Intern_JR23946-1",
-      "location": "London, UK / Orlando, FL / Atlanta, GA",
-      "department": "AI/ML/Data",
-      "company": "CHEP",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:c05b180aaab3907f",
       "title": "Data Analyst Intern",
       "url": "https://ivytech.wd1.myworkdayjobs.com/ivy_tech_careers/job/Indianapolis-IN/Data-Analyst-Intern_JR0000108706",
@@ -13857,6 +13830,18 @@
       ]
     },
     {
+      "id": "canonical:ade11c4713d07751",
+      "title": "Administrative Intern - Sanford School of Public Policy",
+      "url": "https://careers.duke.edu/job/Durham-Administrative-Intern,-Sanford-School-of-Public-Policy-NC-27710/1395747700/?ats=successfactors",
+      "location": "Durham, NC",
+      "department": "AI/ML/Data",
+      "company": "Duke University",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:5cd1602a447f4b68",
       "title": "Intern",
       "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Newtownabbey-United-Kingdom/Intern_IRC97597",
@@ -13902,6 +13887,19 @@
       "location": "Chicago, IL",
       "department": "Software",
       "company": "EVERSANA",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:80d8b55bc00c3b4c",
+      "title": "Business Intelligence Intern",
+      "url": "https://jobs.smartrecruiters.com/Eurofins/744000130829489",
+      "location": "Lancaster, PA",
+      "department": "AI/ML/Data",
+      "company": "Eurofins",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -14134,19 +14132,6 @@
       ]
     },
     {
-      "id": "canonical:80d8b55bc00c3b4c",
-      "title": "Business Intelligence Intern",
-      "url": "https://jobs.smartrecruiters.com/Eurofins/744000131132249",
-      "location": "Lancaster, PA",
-      "department": "AI/ML/Data",
-      "company": "Eurofins",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:5e9331f4d453c2c7",
       "title": "Grid Automation & Software Intern",
       "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041706-3",
@@ -14197,16 +14182,6 @@
         "high-signal role",
         "direct ATS"
       ]
-    },
-    {
-      "id": "canonical:dcc57aa64e78aadf",
-      "title": "Product Development Intern",
-      "url": "https://www.picarro.com/company/careers/job-openings/apply?gh_jid=5253032008",
-      "location": "Santa Clara, CA",
-      "department": "Product",
-      "company": "Picarro",
-      "score": 50,
-      "scoreReasons": []
     },
     {
       "id": "canonical:5c6da3333f2763a6",
@@ -14545,6 +14520,19 @@
       "location": "Sunnyvale, CA",
       "department": "AI/ML/Data",
       "company": "Meshy",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:917c8771cd813a8d",
+      "title": "Applied Data Science Intern",
+      "url": "https://job-boards.greenhouse.io/evolver/jobs/4254540009",
+      "location": "Palo Alto, CA",
+      "department": "AI/ML/Data",
+      "company": "Evolver",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -15114,6 +15102,41 @@
         "high-signal role",
         "direct ATS"
       ]
+    },
+    {
+      "id": "canonical:5107c593a01396e4",
+      "title": "Co-Console Analyst Intern",
+      "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8775",
+      "location": "Vancouver, BC, Canada",
+      "department": "AI/ML/Data",
+      "company": "Seaspan",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:de7479fb94f4eba6",
+      "title": "Research and Development Engineer Intern",
+      "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineer-Intern_REQ_0000063995-1",
+      "location": "State College, PA",
+      "department": "Hardware",
+      "company": "Pennsylvania State University",
+      "score": 83,
+      "scoreReasons": [
+        "SWE-aligned",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:bbfacc40dc55a0ce",
+      "title": "Hardware Test Intern",
+      "url": "https://www.zipline.com/careers?gh_jid=7747248003#open-roles",
+      "location": "San Bruno, CA",
+      "department": "Hardware",
+      "company": "Zipline",
+      "score": 50,
+      "scoreReasons": []
     },
     {
       "id": "canonical:12cd06c0eec80152",

@@ -1,6 +1,6 @@
 # Open Internships
 
-**1260** internships across **63/64** companies — last updated 2026-06-12.
+**1262** internships across **63/64** companies — last updated 2026-06-12.
 
 ## Companies
 
@@ -99,7 +99,6 @@
 - [Cerebras](#cerebras) (2)
 - [Chanel](#chanel) (1)
 - [Chartwells Higher Education Dining Services](#chartwells-higher-education-dining-services) (1)
-- [CHEP](#chep) (1)
 - [Cherry Bekaert](#cherry-bekaert) (2)
 - [Chubb](#chubb) (1)
 - [Ciena](#ciena) (3)
@@ -151,6 +150,7 @@
 - [Dover](#dover) (1)
 - [Drivetrain](#drivetrain) (1)
 - [Dryft](#dryft) (1)
+- [Duke University](#duke-university) (1)
 - [DuPont](#dupont) (5)
 - [EarnIn](#earnin) (1)
 - [EdgeTrace](#edgetrace) (1)
@@ -172,6 +172,7 @@
 - [Eurofins](#eurofins) (3)
 - [EV Realty](#ev-realty) (1)
 - [EVERSANA](#eversana) (1)
+- [Evolver](#evolver) (1)
 - [EXL](#exl) (1)
 - [Expedia Group](#expedia-group) (1)
 - [Facility Solutions Group](#facility-solutions-group) (1)
@@ -323,7 +324,7 @@
 - [Notion](#notion) (5)
 - [NPR](#npr) (1)
 - [Nuro](#nuro) (2)
-- [NVIDIA](#nvidia) (15)
+- [NVIDIA](#nvidia) (14)
 - [OCC](#occ) (1)
 - [Octaura](#octaura) (1)
 - [Omnis](#omnis) (1)
@@ -341,14 +342,13 @@
 - [Pebl](#pebl) (4)
 - [Pega](#pega) (1)
 - [PennState University](#pennstate-university) (1)
-- [Pennsylvania State University](#pennsylvania-state-university) (3)
+- [Pennsylvania State University](#pennsylvania-state-university) (4)
 - [Per Scholas](#per-scholas) (1)
 - [Peraton](#peraton) (2)
 - [Perplexity](#perplexity) (3)
 - [Perplexity AI](#perplexity-ai) (1)
 - [Phia](#phia) (1)
 - [Physical Intelligence](#physical-intelligence) (2)
-- [Picarro](#picarro) (1)
 - [Pine Rest](#pine-rest) (1)
 - [Pinterest](#pinterest) (6)
 - [PlusAI](#plusai) (19)
@@ -395,7 +395,7 @@
 - [SCAN](#scan) (1)
 - [Schonfeld](#schonfeld) (4)
 - [Schweitzer Engineering Laboratories](#schweitzer-engineering-laboratories) (1)
-- [Seaspan](#seaspan) (9)
+- [Seaspan](#seaspan) (10)
 - [Sensata](#sensata) (1)
 - [SHEIN](#shein) (3)
 - [Shenzhen ANQI SHISHANG Articles Co., ltd.](#shenzhen-anqi-shishang-articles-co-ltd) (1)
@@ -450,7 +450,6 @@
 - [The Trade Desk](#the-trade-desk) (1)
 - [The Voleon Group](#the-voleon-group) (1)
 - [TheGuarantors](#theguarantors) (1)
-- [Thermo Fisher Scientific](#thermo-fisher-scientific) (1)
 - [TIFIN](#tifin) (1)
 - [TikTok](#tiktok) (102)
 - [Tilde Research](#tilde-research) (2)
@@ -458,7 +457,7 @@
 - [TMEIC](#tmeic) (1)
 - [Token Metrics](#token-metrics) (2)
 - [Topel Forman LLC](#topel-forman-llc) (1)
-- [Tower Research Capital](#tower-research-capital) (7)
+- [Tower Research Capital](#tower-research-capital) (8)
 - [Toyota Research Institute](#toyota-research-institute) (2)
 - [Tradeweb](#tradeweb) (1)
 - [Trane Technologies](#trane-technologies) (1)
@@ -500,7 +499,7 @@
 - [WTW](#wtw) (1)
 - [XPENG Motors](#xpeng-motors) (2)
 - [Zip](#zip) (1)
-- [Zipline](#zipline) (4)
+- [Zipline](#zipline) (5)
 - [Zone 5 Technologies](#zone-5-technologies) (1)
 - [Zoox](#zoox) (1)
 
@@ -1195,12 +1194,6 @@
 | --- | --- | --- | --- | --- |
 | [Field Marketing Intern, Chartwells Higher Ed / University of North Carolina](https://www.linkedin.com/jobs/view/4261076817) | 22 | Charlotte, NC | — | 2026-05-16 |
 
-## CHEP
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [FP&A Business Intelligence Intern](https://brambles.wd5.myworkdayjobs.com/en-US/Brambles_Careers/job/London-England-United-Kingdom/FP-A-Business-Intelligence-Intern_JR23946-1) | 68 | London, UK / Orlando, FL / Atlanta, GA | AI/ML/Data | 2026-06-10 |
-
 ## Cherry Bekaert
 
 | Title | Score | Location | Department | First seen |
@@ -1540,6 +1533,12 @@
 | --- | --- | --- | --- | --- |
 | [Full-Stack Engineer Intern](https://jobs.ashbyhq.com/dryft/3f1c261d-9b65-412b-9f17-34b8968bdd78/application) | 93 | SF | Software | 2026-05-09 |
 
+## Duke University
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Administrative Intern - Sanford School of Public Policy](https://careers.duke.edu/job/Durham-Administrative-Intern,-Sanford-School-of-Public-Policy-NC-27710/1395747700/?ats=successfactors) | 60 | Durham, NC | AI/ML/Data | 2026-06-12 |
+
 ## DuPont
 
 | Title | Score | Location | Department | First seen |
@@ -1671,7 +1670,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Business Intelligence Intern](https://jobs.smartrecruiters.com/Eurofins/744000131132249) | 68 | Lancaster, PA | AI/ML/Data | 2026-06-08 |
+| [Business Intelligence Intern](https://jobs.smartrecruiters.com/Eurofins/744000130829489) | 68 | Lancaster, PA | AI/ML/Data | 2026-06-08 |
 | [Engineering Intern - Test Engineer](https://jobs.smartrecruiters.com/Eurofins/744000102591529) | 58 | Santa Clara, CA | Hardware | 2026-05-09 |
 | [Intern](https://jobs.smartrecruiters.com/Eurofins/744000102593098) | 58 | Hayward, CA | Hardware | 2026-05-09 |
 
@@ -1686,6 +1685,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Innovative AI Development Intern](https://jobs.smartrecruiters.com/EVERSANA1/744000130882264) | 68 | Chicago, IL | Software | 2026-06-08 |
+
+## Evolver
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Applied Data Science Intern](https://job-boards.greenhouse.io/evolver/jobs/4254540009) | 68 | Palo Alto, CA | AI/ML/Data | 2026-06-12 |
 
 ## EXL
 
@@ -2766,7 +2771,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [PhD Software Engineer Intern - Decision Intelligence](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522) | 93 | Santa Clara, CA | Hardware | 2026-06-11 |
-| [PhD Research Intern - Security and Privacy](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1) | 68 | Santa Clara, CA | AI/ML/Data | 2026-06-11 |
 | [PhD Data Generation and User Simulation Research Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Data-Generation-and-User-Simulation-Research-Intern---Fall-2026_JR2018317) | 68 | Santa Clara, CA | AI/ML/Data | 2026-06-10 |
 | [Formal Verification Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Intern---Fall-2026_JR2017490) | 58 | Austin, TX / Santa Clara, CA | Hardware | 2026-06-10 |
 | [Cloud Distributed Systems Backend Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cloud-Distributed-Systems-Backend-Intern--GeForce-NOW---Fall-2026_JR2019665) | 93 | Santa Clara, CA | Software | 2026-06-09 |
@@ -2904,6 +2908,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Research and Development Engineer Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineer-Intern_REQ_0000063995-1) | 83 | State College, PA | Hardware | 2026-06-12 |
 | [Research Engineering Interns Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Engineering-Interns_REQ_0000071407-1) | 58 | State College, PA | Hardware | 2026-05-17 |
 | [R&D Engineer Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000068582-1) | 58 | State College, PA | Hardware | 2026-05-17 |
 | [AI/ML Research and Development Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/AI-ML-Research-and-Development-Intern_REQ_0000077083-1) | 68 | State College, PA / Reston, VA | AI/ML/Data | 2026-05-09 |
@@ -2947,12 +2952,6 @@
 | --- | --- | --- | --- | --- |
 | [Hardware Systems Intern](https://jobs.ashbyhq.com/physicalintelligence/96bc1142-f406-4df3-aaa0-4bcce85f457f/application) | 58 | SF | Hardware | 2026-05-09 |
 | [Mechatronics Intern](https://jobs.ashbyhq.com/physicalintelligence/0bcf909e-b38b-4276-91a1-e55c4c56a33a/application) | 58 | SF | Hardware | 2026-05-09 |
-
-## Picarro
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Product Development Intern](https://www.picarro.com/company/careers/job-openings/apply?gh_jid=5253032008) | 50 | Santa Clara, CA | Product | 2026-06-09 |
 
 ## Pine Rest
 
@@ -3313,6 +3312,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Co-Console Analyst Intern](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8775) | 60 | Vancouver, BC, Canada | AI/ML/Data | 2026-06-12 |
 | [Energy Management Intern](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8356) | 60 | Vancouver, BC, Canada | AI/ML/Data | 2026-06-10 |
 | [Business Technology Solutions Intern](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8741) | 60 | Vancouver, BC, Canada | AI/ML/Data | 2026-06-08 |
 | [Configuration and Data Management Intern](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8766) | 60 | Vancouver, BC, Canada | AI/ML/Data | 2026-06-08 |
@@ -3517,8 +3517,8 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer, New Grad, Developer & End User Experience Platform](https://stripe.com/jobs/search?gh_jid=7991718) | 91 | Toronto | — | 2026-06-11 |
 | [PhD Data Scientist Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | Seattle, WA / SF / Chicago, IL / NYC | AI/ML/Data | 2026-06-06 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | 56 | Mexico City, Mexico | — | 2026-05-06 |
@@ -3802,12 +3802,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://ats.rippling.com/theguarantors-open-positions/jobs/d78ec000-5f8b-43d3-9590-4eb51970e49b) | 85 | NYC | Software | 2026-06-09 |
 
-## Thermo Fisher Scientific
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Analyst Intern](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Morrisville-North-Carolina-USA/Data-Analyst-Intern_R-01341180) | 68 | Morrisville, NC / Waltham, MA | AI/ML/Data | 2026-06-06 |
-
 ## TIFIN
 
 | Title | Score | Location | Department | First seen |
@@ -3957,6 +3951,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Intern](https://www.tower-research.com/open-positions/?gh_jid=7988899) | 50 | Gift City | — | 2026-06-12 |
 | [Software Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=6653745) | 85 | Montreal, QC, Canada | Software | 2026-05-09 |
 | [Quantitative Researcher Intern](https://tower-research.com/open-positions/?gh_jid=7238472) | 60 | New York, NY | Quantitative Finance | 2026-05-09 |
 | [Quantitative Trader Intern - PhD 2026](https://www.tower-research.com/open-positions/?gh_jid=7062370) | 60 | NYC | Quant | 2026-05-09 |
@@ -4242,6 +4237,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Hardware Test Intern](https://www.zipline.com/careers?gh_jid=7747248003#open-roles) | 50 | San Bruno, CA | Hardware | 2026-06-12 |
 | [Enterprise Systems Software Engineer Intern](https://www.zipline.com/careers?gh_jid=7767667003#open-roles) | 85 | San Bruno, CA | Software | 2026-06-10 |
 | [Computational Physics Intern](https://www.zipline.com/careers?gh_jid=7766408003#open-roles) | 60 | San Bruno, CA | AI/ML/Data | 2026-06-08 |
 | [Embedded Software Engineer Intern](https://www.zipline.com/careers?gh_jid=7765240003#open-roles) | 85 | San Bruno, CA | Hardware | 2026-06-06 |
