@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-12T04:05:13.364Z",
+  "generatedAt": "2026-06-12T08:40:39.399Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1265,
+  "jobCount": 1260,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -11,7 +11,6 @@
     "canonical:7a3202aa590bb0de": "2026-05-06T06:42:07.596Z",
     "canonical:51d519ad65d99582": "2026-05-06T06:42:07.596Z",
     "canonical:822f979beef7ebc5": "2026-05-06T06:42:07.596Z",
-    "canonical:a59de1beb8b82b63": "2026-05-06T06:42:07.596Z",
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
     "canonical:d3e044a7cf0a5bf2": "2026-05-06T06:42:07.596Z",
@@ -488,7 +487,6 @@
     "canonical:057efbf85e60e686": "2026-05-09T15:28:15.527Z",
     "canonical:ae37458b8cb9ad0d": "2026-05-09T15:28:15.527Z",
     "canonical:ca225b03436f081a": "2026-05-09T15:28:15.527Z",
-    "canonical:2380c13639617d05": "2026-05-09T15:28:15.527Z",
     "canonical:01a26b8aecb0ef1e": "2026-05-09T15:28:15.527Z",
     "canonical:4127dc433b75c650": "2026-05-09T15:28:15.527Z",
     "canonical:12679842c69ce81c": "2026-05-09T15:28:15.527Z",
@@ -915,7 +913,6 @@
     "canonical:54a1ed2427bb13ad": "2026-05-27T14:19:21.217Z",
     "canonical:4aaaa525daf9c64d": "2026-05-27T14:19:21.217Z",
     "canonical:898009bc5a031516": "2026-05-27T14:19:21.217Z",
-    "canonical:96124c2bca2bc845": "2026-05-27T14:19:21.217Z",
     "canonical:fdcbfd1a53fb0e8a": "2026-05-27T17:38:56.111Z",
     "canonical:dc784fbedc1313dc": "2026-05-27T17:38:56.111Z",
     "canonical:4c90073ef9333aec": "2026-05-27T17:38:56.111Z",
@@ -1062,7 +1059,6 @@
     "canonical:3da39dab672a1b4b": "2026-06-06T00:04:30.171Z",
     "canonical:8a4ddfd20248576c": "2026-06-06T00:04:30.171Z",
     "canonical:c9a881fad90b6944": "2026-06-06T00:04:30.171Z",
-    "canonical:ac0760c809ad036d": "2026-06-06T04:18:16.502Z",
     "canonical:062d8ece13f695f7": "2026-06-06T04:18:16.502Z",
     "canonical:27857d8b96bfdf80": "2026-06-06T04:18:16.502Z",
     "canonical:3c4f1b7e61c23218": "2026-06-06T07:29:16.741Z",
@@ -1210,7 +1206,6 @@
     "canonical:8504c5f17035dc0a": "2026-06-10T13:58:51.425Z",
     "canonical:475d6e58d5a8ee0b": "2026-06-10T13:58:51.425Z",
     "canonical:6a08b8735bc24eb5": "2026-06-10T13:58:51.425Z",
-    "canonical:917c8771cd813a8d": "2026-06-10T13:58:51.425Z",
     "canonical:311df6d93e910581": "2026-06-10T13:58:51.425Z",
     "canonical:45ff47914f15fa4a": "2026-06-10T13:58:51.425Z",
     "canonical:64dc660ba9e1d000": "2026-06-10T17:20:39.029Z",
@@ -1355,19 +1350,6 @@
       "title": "Graduate Floor Trader",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4786701101",
       "location": "Chicago, United States; Miami, United States; New York, United States; Philadelphia, United States; San Francisco, United States",
-      "department": "",
-      "company": "IMC Trading",
-      "score": 64,
-      "scoreReasons": [
-        "new grad",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:a59de1beb8b82b63",
-      "title": "Graduate Site Reliability Engineer, 2027",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4540358101",
-      "location": "Sydney,  Australia",
       "department": "",
       "company": "IMC Trading",
       "score": 64,
@@ -2037,10 +2019,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2050,10 +2032,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2489,19 +2471,6 @@
       "company": "Cribl",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:54eb0918a1a56e5d",
-      "title": "Perception Intern - Summer 2026",
-      "url": "https://jobs.ashbyhq.com/mach9/232ea7eb-25ed-4bc7-adeb-aaf75aeb987e/application",
-      "location": "SF",
-      "department": "AI/ML/Data",
-      "company": "Mach9",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
     },
     {
       "id": "canonical:34ed3189c894f050",
@@ -8451,18 +8420,6 @@
       ]
     },
     {
-      "id": "canonical:2380c13639617d05",
-      "title": "Mobile Robots Intern - Mechatronics Vehicle Feature",
-      "url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Holland-MI-United-States/Mobile-Robots-Intern---Mechatronics-Vehicle-Feature-s--R-D_JR-0088334",
-      "location": "Grand Rapids, MI / Holland, MI",
-      "department": "Hardware",
-      "company": "KION Group",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:01a26b8aecb0ef1e",
       "title": "Online Portals & Next Gen Platforms – Intern - Opng",
       "url": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Online-Portals---Next-Gen--Platforms--OPNG--Summer-Intern_R25_718",
@@ -11112,19 +11069,6 @@
       ]
     },
     {
-      "id": "canonical:ac0760c809ad036d",
-      "title": "Student Intern - Data Analyst - Personal Banking",
-      "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Fall-2026-Student---Data-Analyst--Personal-Banking--4---8-months-_R-0000168782",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Royal Bank of Canada",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:34adcad6509a41c4",
       "title": "MBA Intern - Product Manager",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2026-MBA-Intern---Product-Manager_R160316",
@@ -11597,20 +11541,6 @@
       "company": "Dairyland Power Cooperative",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:96124c2bca2bc845",
-      "title": "Software Development Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/iherb/jobs/7747518003",
-      "location": "Remote in USA",
-      "department": "Software",
-      "company": "iHerb",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -14622,19 +14552,6 @@
       ]
     },
     {
-      "id": "canonical:917c8771cd813a8d",
-      "title": "Applied Data Science Intern",
-      "url": "https://job-boards.greenhouse.io/evolver/jobs/4254540009",
-      "location": "Palo Alto, CA",
-      "department": "AI/ML/Data",
-      "company": "Evolver",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:311df6d93e910581",
       "title": "Data Analyst Intern",
       "url": "https://jobs.ashbyhq.com/meshy/9c5ad244-68f2-499c-895f-93c908318f52/application",
@@ -15183,6 +15100,19 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:54eb0918a1a56e5d",
+      "title": "Perception Intern - Summer 2026",
+      "url": "https://jobs.ashbyhq.com/mach9/232ea7eb-25ed-4bc7-adeb-aaf75aeb987e/application",
+      "location": "SF",
+      "department": "AI/ML/Data",
+      "company": "Mach9",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {

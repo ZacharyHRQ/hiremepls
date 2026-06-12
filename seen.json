@@ -12,7 +12,6 @@
   "Optiver": [],
   "IMC Trading": [
     "4786701101",
-    "4540358101",
     "4564480101",
     "4635938101",
     "4564495101",
@@ -104,8 +103,8 @@
   ],
   "Stripe": [
     "7544547",
-    "7285974",
     "7874965",
+    "7285974",
     "7176977",
     "7532256",
     "7991718",
@@ -186,7 +185,6 @@
   "BlackRock": [],
   "Visa": [],
   "SimplifyJobs": [
-    "simplify:1b469f2c-e8d1-49b0-8721-b03d77131428",
     "simplify:331eb4b6-e1ce-4a78-bd16-6007818cc199",
     "simplify:57049625-6c62-417b-a0a9-6d5364684611",
     "simplify:626d8caf-c4b0-4755-97f5-f4d61bc6bee9",
@@ -666,7 +664,6 @@
     "simplify:9919b96c-27c4-49a4-a9da-7617dc78cefe",
     "simplify:6da34981-0f28-4c93-81c6-a00daa176210",
     "simplify:1c141650-b107-465f-a7ed-290459b5da2a",
-    "simplify:12d5b447-e058-49ed-969e-98ec68a6ef82",
     "simplify:3a3be7fd-69dc-4207-a35a-d9e325b77faa",
     "simplify:830dee77-3b49-44dd-aa85-77fa551d21a1",
     "simplify:8e3d641a-8bc6-43f8-9fc3-16e49711a6d9",
@@ -882,7 +879,6 @@
     "simplify:9a5bccfa-9b07-46be-853d-c0625c368895",
     "simplify:7f9b3fa5-adc5-4c00-aead-555d25e024fd",
     "simplify:32ef093e-4ade-4a88-bac2-63b0be259cf4",
-    "simplify:6dcde314-705f-4b7a-be39-dd4ad1a50c29",
     "simplify:426d3dcc-37c8-4349-921a-d8816e426cdb",
     "simplify:06fdb7fb-f7a7-4d74-9a9c-d59f0d316fe4",
     "simplify:66f539a8-7319-483c-b09b-58e75cfaa9d2",
@@ -921,7 +917,6 @@
     "simplify:25ca9a4d-0a07-4604-b8c7-40c0f41d692c",
     "simplify:859660b2-b95f-4f5e-b70e-28be65836012",
     "simplify:121ccbb5-f30d-4f00-9af4-d5c06643f7a4",
-    "simplify:bcc400fa-c1ec-40ec-a4e9-6f22a0574f9c",
     "simplify:c6fb7bb2-6ca1-431b-bb96-398422ba1a8d",
     "simplify:de3ac110-de5d-4cf0-8ae0-c05d6927c542",
     "simplify:19f66baf-a239-40ff-9ccb-31e782da33c1",
@@ -1167,7 +1162,6 @@
     "simplify:5b68ff77-4ed5-44e4-bfb2-4d33a0c87ef0",
     "simplify:fd2ad340-2a29-496f-ba0f-cf7f710469fc",
     "simplify:01ac21f4-eb1c-49fa-8f29-2b1e758ff588",
-    "simplify:2283b39a-bd55-4fc6-8bb7-6e3a6a999b59",
     "simplify:a939cb82-8505-4d19-ba25-0551a09ea06a",
     "simplify:aad404ae-f5e1-4e23-833b-2011968dc347",
     "simplify:849e9f85-f7b7-4bc5-959a-d7d35173e559",
@@ -1213,7 +1207,8 @@
     "simplify:4e1c3c96-80a3-44d4-85ff-7da897beb1f5",
     "simplify:a9c636e1-e002-45bf-8c71-acaf7bdfe20b",
     "simplify:b71c1aa2-4ccb-420a-a53e-cd09d3d3ba63",
-    "simplify:25358b15-1c05-4d32-8ecc-92b8feeea031"
+    "simplify:25358b15-1c05-4d32-8ecc-92b8feeea031",
+    "simplify:1b469f2c-e8d1-49b0-8721-b03d77131428"
   ],
   "vanshb03": [
     "vansh:df70fa57-977b-4f31-832e-a0e57ed070b5",
