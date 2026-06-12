@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-12T17:51:56.593Z",
+  "generatedAt": "2026-06-12T19:51:59.096Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1262,
+  "jobCount": 1258,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -510,7 +510,6 @@
     "canonical:a11be3c0473589cc": "2026-05-09T15:28:15.527Z",
     "canonical:11c1b4c81d7b5642": "2026-05-09T15:28:15.527Z",
     "canonical:3d9b440d729cddea": "2026-05-09T15:28:15.527Z",
-    "canonical:1a94165ef7a73fdc": "2026-05-09T15:28:15.527Z",
     "canonical:bd4eb6114cc4f61c": "2026-05-09T15:28:15.527Z",
     "canonical:b517dba4bb4840a4": "2026-05-09T15:28:15.527Z",
     "canonical:72a13f956e90ff2e": "2026-05-09T15:28:15.527Z",
@@ -871,7 +870,6 @@
     "canonical:2031e4e9473b2185": "2026-05-23T11:39:27.713Z",
     "canonical:c40434041482eff7": "2026-05-23T16:29:56.405Z",
     "canonical:ca086772871f4731": "2026-05-23T17:34:41.089Z",
-    "canonical:baa1b54cf4f2493f": "2026-05-24T08:16:29.504Z",
     "canonical:0c57524d1162f8c8": "2026-05-24T10:15:37.116Z",
     "canonical:c989ff56fcf2c167": "2026-05-24T16:41:35.666Z",
     "canonical:e2cbec72bcde74c4": "2026-05-24T16:41:35.666Z",
@@ -962,7 +960,6 @@
     "canonical:b4a502570f796f0f": "2026-06-01T22:35:57.770Z",
     "canonical:66ba15b883ef460c": "2026-06-01T22:35:57.770Z",
     "canonical:fe08c871264ee0a6": "2026-06-01T23:55:48.935Z",
-    "canonical:679507220af48402": "2026-06-01T23:55:48.935Z",
     "canonical:6cdd1633b8f5ce3a": "2026-06-01T23:55:48.935Z",
     "canonical:59d5925083ef4661": "2026-06-01T23:55:48.935Z",
     "canonical:13e1acc0b159fe16": "2026-06-01T23:55:48.935Z",
@@ -1131,7 +1128,6 @@
     "canonical:031e3abdc8ee9ccc": "2026-06-08T12:06:41.807Z",
     "canonical:5cd1602a447f4b68": "2026-06-08T12:06:41.807Z",
     "canonical:c8e10a577ab2a8bf": "2026-06-08T16:19:44.004Z",
-    "canonical:e57627a9b66b62cf": "2026-06-08T16:19:44.004Z",
     "canonical:ce1acd1696a1b7f2": "2026-06-08T22:47:23.120Z",
     "canonical:fe017bb7218d214e": "2026-06-08T23:57:00.045Z",
     "canonical:ec7b5f1c953f0acf": "2026-06-08T23:57:00.045Z",
@@ -8819,16 +8815,6 @@
       ]
     },
     {
-      "id": "canonical:1a94165ef7a73fdc",
-      "title": "Build Team Intern",
-      "url": "https://careers.formlabs.com/job/7863858/apply/?gh_jid=7863858",
-      "location": "Cambridge, MA",
-      "department": "Hardware",
-      "company": "Formlabs",
-      "score": 50,
-      "scoreReasons": []
-    },
-    {
       "id": "canonical:bd4eb6114cc4f61c",
       "title": "Front-End Engineer Intern",
       "url": "https://amazon.jobs/en/jobs/10407301/front-end-engineer-fall-internship-2026-us",
@@ -10708,19 +10694,6 @@
       ]
     },
     {
-      "id": "canonical:baa1b54cf4f2493f",
-      "title": "Data Research Intern",
-      "url": "https://job-boards.greenhouse.io/perscholashires/jobs/4682217006",
-      "location": "United States",
-      "department": "AI/ML/Data",
-      "company": "Per Scholas",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:6f1c4b11d1e2a83e",
       "title": "AI Engineer Intern",
       "url": "https://jobs.ashbyhq.com/greatquestion/c533196c-75d5-43b8-b1c8-dedf2437d544/application",
@@ -11745,19 +11718,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:679507220af48402",
-      "title": "AI and Systems Software Intern - At Scale AI",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-Systems-Software-Intern--At-Scale-AI---Fall-2026_JR2018652",
-      "location": "Santa Clara, CA",
-      "department": "Software",
-      "company": "NVIDIA",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -13811,20 +13771,6 @@
       "company": "GE Vernova",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:e57627a9b66b62cf",
-      "title": "Software Developer Intern",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Software-Developer-Intern_R-00184938-1",
-      "location": "St. Louis, MO",
-      "department": "Software",
-      "company": "Leidos",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]

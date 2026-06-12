@@ -1,6 +1,6 @@
 # Open Internships
 
-**1262** internships across **63/64** companies — last updated 2026-06-12.
+**1258** internships across **63/64** companies — last updated 2026-06-12.
 
 ## Companies
 
@@ -183,7 +183,7 @@
 - [Fiserv](#fiserv) (2)
 - [Five Rings](#five-rings) (1)
 - [Fluxergy](#fluxergy) (1)
-- [Formlabs](#formlabs) (3)
+- [Formlabs](#formlabs) (2)
 - [Fortinet](#fortinet) (1)
 - [Forvis Mazars US](#forvis-mazars-us) (1)
 - [Foundation ](#foundation) (1)
@@ -268,7 +268,6 @@
 - [Lambda](#lambda) (3)
 - [Landis+Gyr](#landis-gyr) (1)
 - [Layup Parts](#layup-parts) (1)
-- [Leidos](#leidos) (1)
 - [Lensa](#lensa) (3)
 - [LinkedIn](#linkedin) (3)
 - [LiveRamp](#liveramp) (3)
@@ -322,7 +321,7 @@
 - [Notion](#notion) (5)
 - [NPR](#npr) (1)
 - [Nuro](#nuro) (2)
-- [NVIDIA](#nvidia) (14)
+- [NVIDIA](#nvidia) (13)
 - [OCC](#occ) (1)
 - [Octaura](#octaura) (1)
 - [Omnis](#omnis) (1)
@@ -340,7 +339,6 @@
 - [Pega](#pega) (1)
 - [PennState University](#pennstate-university) (1)
 - [Pennsylvania State University](#pennsylvania-state-university) (4)
-- [Per Scholas](#per-scholas) (1)
 - [Peraton](#peraton) (2)
 - [Perplexity](#perplexity) (3)
 - [Perplexity AI](#perplexity-ai) (1)
@@ -1759,7 +1757,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Hardware Systems Integration Intern](https://careers.formlabs.com/job/7927471/apply/?gh_jid=7927471) | 50 | Cambridge, MA | Hardware | 2026-05-15 |
-| [Build Team Intern](https://careers.formlabs.com/job/7863858/apply/?gh_jid=7863858) | 50 | Cambridge, MA | Hardware | 2026-05-09 |
 | [Test Engineering Intern](https://careers.formlabs.com/job/7773874/apply/?gh_jid=7773874) | 50 | Cambridge, MA | Hardware | 2026-05-09 |
 
 ## Fortinet
@@ -2317,12 +2314,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](https://jobs.lever.co/layup/0b42f7ad-ebdc-4b4a-8fe6-47640f6dba53/apply) | 68 | Huntington Beach, CA | Software | 2026-05-09 |
 
-## Leidos
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Developer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Software-Developer-Intern_R-00184938-1) | 93 | St. Louis, MO | Software | 2026-06-08 |
-
 ## Lensa
 
 | Title | Score | Location | Department | First seen |
@@ -2767,7 +2758,6 @@
 | [Software Engineer Intern - Mapping Autonomous Vehicles](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Mapping-Autonomous-Vehicles---Fall-2026_JR2011493) | 93 | Santa Clara, CA | Software | 2026-06-06 |
 | [Software Engineering Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745) | 68 | Santa Clara, CA | Software | 2026-06-05 |
 | [Software Performance at Scale Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Performance-at-Scale-Intern---Fall-2026_JR2018701) | 68 | Santa Clara, CA | Software | 2026-06-05 |
-| [AI and Systems Software Intern - At Scale AI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-Systems-Software-Intern--At-Scale-AI---Fall-2026_JR2018652) | 68 | Santa Clara, CA | Software | 2026-06-01 |
 | [Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398) | 68 | Santa Clara, CA | AI/ML/Data | 2026-06-01 |
 | [PhD Research Intern - Generative AI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035) | 68 | California / Santa Clara, CA / United States | AI/ML/Data | 2026-06-01 |
 | [Quantum Research Scientist Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244) | 93 | Santa Clara, CA | — | 2026-05-19 |
@@ -2894,12 +2884,6 @@
 | [Research Engineering Interns Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Engineering-Interns_REQ_0000071407-1) | 58 | State College, PA | Hardware | 2026-05-17 |
 | [R&D Engineer Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000068582-1) | 58 | State College, PA | Hardware | 2026-05-17 |
 | [AI/ML Research and Development Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/AI-ML-Research-and-Development-Intern_REQ_0000077083-1) | 68 | State College, PA / Reston, VA | AI/ML/Data | 2026-05-09 |
-
-## Per Scholas
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Research Intern](https://job-boards.greenhouse.io/perscholashires/jobs/4682217006) | 68 | United States | AI/ML/Data | 2026-05-24 |
 
 ## Peraton
 
