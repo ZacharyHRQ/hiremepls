@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-12T21:23:38.920Z",
+  "generatedAt": "2026-06-12T22:52:58.720Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1258,
+  "jobCount": 1251,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -504,7 +504,6 @@
     "canonical:fd28a6382d757e37": "2026-05-09T15:28:15.527Z",
     "canonical:cf50f0a4d4fd39c2": "2026-05-09T15:28:15.527Z",
     "canonical:d666a1db3ad1c943": "2026-05-09T15:28:15.527Z",
-    "canonical:889261d304c8db1c": "2026-05-09T15:28:15.527Z",
     "canonical:0a8f213bd98a92bc": "2026-05-09T15:28:15.527Z",
     "canonical:45a0b2cc551b932e": "2026-05-09T15:28:15.527Z",
     "canonical:a11be3c0473589cc": "2026-05-09T15:28:15.527Z",
@@ -531,7 +530,6 @@
     "canonical:c4364ae941de1dfd": "2026-05-09T15:28:15.527Z",
     "canonical:0d583e36448bbfca": "2026-05-09T15:28:15.527Z",
     "canonical:541db378d10bcd59": "2026-05-09T15:28:15.527Z",
-    "canonical:5d305be6a1fef2d6": "2026-05-09T15:28:15.527Z",
     "canonical:b34bc2f7f5ee1149": "2026-05-09T15:28:15.527Z",
     "canonical:c60fa5b85a558fce": "2026-05-09T15:28:15.527Z",
     "canonical:6891c0ba8d854c9b": "2026-05-09T15:28:15.527Z",
@@ -940,7 +938,6 @@
     "canonical:aad2d16f8de8b63e": "2026-05-29T17:55:07.126Z",
     "canonical:e4ece6645315469a": "2026-05-29T17:55:07.126Z",
     "canonical:1df04de60e393fed": "2026-05-29T17:55:07.126Z",
-    "canonical:144ba34be805c34a": "2026-05-30T09:50:27.553Z",
     "canonical:b661e8e93c959d87": "2026-05-31T04:52:04.247Z",
     "canonical:b2ba7fb9dd17dfe9": "2026-05-31T04:52:04.247Z",
     "canonical:3006133af70a93bd": "2026-05-31T08:09:00.139Z",
@@ -1073,7 +1070,6 @@
     "canonical:9de45eedb1335ef6": "2026-06-07T01:56:06.706Z",
     "canonical:186d139d517116a9": "2026-06-07T01:56:06.706Z",
     "canonical:0dd89319a7c4740f": "2026-06-07T01:56:06.706Z",
-    "canonical:001b3662fecd327a": "2026-06-07T01:56:06.706Z",
     "canonical:179ff221d4311555": "2026-06-07T01:56:06.706Z",
     "canonical:1c0dbbdf06f61d9b": "2026-06-07T01:56:06.706Z",
     "canonical:5f5f4291563c764e": "2026-06-07T01:56:06.706Z",
@@ -1130,7 +1126,6 @@
     "canonical:c8e10a577ab2a8bf": "2026-06-08T16:19:44.004Z",
     "canonical:ce1acd1696a1b7f2": "2026-06-08T22:47:23.120Z",
     "canonical:fe017bb7218d214e": "2026-06-08T23:57:00.045Z",
-    "canonical:ec7b5f1c953f0acf": "2026-06-08T23:57:00.045Z",
     "canonical:80d8b55bc00c3b4c": "2026-06-08T23:57:00.045Z",
     "canonical:7cc5fc6fd6a7eeef": "2026-06-08T23:57:00.045Z",
     "canonical:49a378d4a20716e9": "2026-06-08T23:57:00.045Z",
@@ -1187,7 +1182,6 @@
     "canonical:8e9b3b4bdaa4e763": "2026-06-10T13:58:51.425Z",
     "canonical:ed9a44e022b031bf": "2026-06-10T13:58:51.425Z",
     "canonical:60d48ea9b4193a8f": "2026-06-10T13:58:51.425Z",
-    "canonical:9992c8a0a830a9f3": "2026-06-10T13:58:51.425Z",
     "canonical:8504c5f17035dc0a": "2026-06-10T13:58:51.425Z",
     "canonical:475d6e58d5a8ee0b": "2026-06-10T13:58:51.425Z",
     "canonical:6a08b8735bc24eb5": "2026-06-10T13:58:51.425Z",
@@ -1199,7 +1193,6 @@
     "canonical:86b9572896805d8f": "2026-06-10T17:20:39.029Z",
     "canonical:4e042622b9f5b371": "2026-06-10T23:18:38.796Z",
     "canonical:dc7dc5305ed05ed6": "2026-06-10T23:18:38.796Z",
-    "canonical:c3f909dd643f2906": "2026-06-10T23:18:38.796Z",
     "canonical:5a04d7e1104bec7c": "2026-06-10T23:18:38.796Z",
     "canonical:8a10421b10f0725a": "2026-06-10T23:18:38.796Z",
     "canonical:4372e6f198b3f85d": "2026-06-10T23:18:38.796Z",
@@ -1216,7 +1209,6 @@
     "canonical:8ac5366622eb3f71": "2026-06-11T11:07:45.069Z",
     "canonical:b4c4500796a35ee7": "2026-06-11T11:07:45.069Z",
     "canonical:481abe28ff8a5d8b": "2026-06-11T11:07:45.069Z",
-    "canonical:968e6b1b487f0d88": "2026-06-11T11:07:45.069Z",
     "canonical:6b8d8dd23c8c6548": "2026-06-11T11:07:45.069Z",
     "canonical:30d3864435f150b7": "2026-06-11T11:07:45.069Z",
     "canonical:48afc5e5298e0d91": "2026-06-11T11:07:45.069Z",
@@ -1261,7 +1253,8 @@
     "canonical:1cb970dd90b802db": "2026-06-12T15:35:58.050Z",
     "canonical:6075fe0b02a93b89": "2026-06-12T15:35:58.050Z",
     "canonical:ef634d2821ab2552": "2026-06-12T15:35:58.050Z",
-    "canonical:0df76adfa71f50bc": "2026-06-12T15:35:58.050Z"
+    "canonical:0df76adfa71f50bc": "2026-06-12T15:35:58.050Z",
+    "canonical:360f81d0ff355ed6": "2026-06-12T22:52:58.720Z"
   },
   "jobs": [
     {
@@ -4996,19 +4989,6 @@
       "scoreReasons": []
     },
     {
-      "id": "canonical:144ba34be805c34a",
-      "title": "Software Defined Radio Hardware Intern - Summer 2026",
-      "url": "https://job-boards.greenhouse.io/astranis/jobs/4646558006",
-      "location": "SF",
-      "department": "Hardware",
-      "company": "Astranis",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:9cce68596258215e",
       "title": "Business and Data Analyst Intern",
       "url": "https://careers-berkley.icims.com/jobs/13507/job?mobile=true&needsRedirect=false",
@@ -6794,19 +6774,6 @@
       "company": "Varda Space",
       "score": 58,
       "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:c3f909dd643f2906",
-      "title": "Mission Software – Intern - Python",
-      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7676465003",
-      "location": "El Segundo, CA",
-      "department": "Software",
-      "company": "Varda Space",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
         "direct ATS"
       ]
     },
@@ -8738,18 +8705,6 @@
       ]
     },
     {
-      "id": "canonical:889261d304c8db1c",
-      "title": "Research Scientist Intern - Robotic Control Policy",
-      "url": "https://www.metacareers.com/jobs/24308030212183826",
-      "location": "Burlingame, CA / Redmond, WA",
-      "department": "AI/ML/Data",
-      "company": "Meta",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:0a8f213bd98a92bc",
       "title": "Software Engineer Intern - Business Integrity - BS/MS",
       "url": "https://lifeattiktok.com/search/7543420658085185799",
@@ -9120,20 +9075,6 @@
       ]
     },
     {
-      "id": "canonical:5d305be6a1fef2d6",
-      "title": "Forward Deployed Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/labelbox/jobs/5126745007",
-      "location": "SF",
-      "department": "Software",
-      "company": "Labelbox",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:b34bc2f7f5ee1149",
       "title": "Research Internship",
       "url": "https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785/application",
@@ -9232,18 +9173,6 @@
       "location": "SF",
       "department": "Hardware",
       "company": "Astranis",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:9992c8a0a830a9f3",
-      "title": "Formal Verification Intern",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Intern---Fall-2026_JR2017490",
-      "location": "Austin, TX / Santa Clara, CA",
-      "department": "Hardware",
-      "company": "NVIDIA",
       "score": 58,
       "scoreReasons": [
         "direct ATS"
@@ -11467,19 +11396,6 @@
       ]
     },
     {
-      "id": "canonical:ec7b5f1c953f0acf",
-      "title": "Oliver Wyman Analyst Internship - Data & Analytics",
-      "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics---6-month-Analyst-Internship----Newcastle-2026_R_346450-1",
-      "location": "Newcastle upon Tyne, UK",
-      "department": "AI/ML/Data",
-      "company": "Marsh",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:dc784fbedc1313dc",
       "title": "Research Engineer Intern - Mapping & Localization",
       "url": "https://jobs.lever.co/plus-2/efbb82d3-1c4a-4fc9-8b40-ee1545085061/apply",
@@ -13072,19 +12988,6 @@
       ]
     },
     {
-      "id": "canonical:001b3662fecd327a",
-      "title": "Software Engineering Intern - Fullstack C++ Engineer - Vehicle User Interface",
-      "url": "https://www.tesla.com/careers/search/job/266978",
-      "location": "Palo Alto, CA",
-      "department": "Software",
-      "company": "Tesla",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:179ff221d4311555",
       "title": "Embedded Software Engineer Intern - Embedded Software Engineer - Firmware Platforms",
       "url": "https://www.tesla.com/careers/search/job/266985",
@@ -14627,19 +14530,6 @@
       ]
     },
     {
-      "id": "canonical:968e6b1b487f0d88",
-      "title": "Research Intern",
-      "url": "https://jobs.ashbyhq.com/voleon/a6b782de-2d48-49c3-925d-ee9375cf7bcd/application",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "The Voleon Group",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:6b8d8dd23c8c6548",
       "title": "Software Engineer Intern - Invoicing & Payments",
       "url": "https://jobs.ashbyhq.com/pebl/656500ff-2bb5-4152-a553-02af70eff612/application",
@@ -15085,6 +14975,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:360f81d0ff355ed6",
+      "title": "Software Engineer Intern",
+      "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Canton-Engagement-Hub-OH/Software-Engineer-Intern---Fall-2026_2601751-1",
+      "location": "Sharonville, OH / Canton, OH / Ohio",
+      "department": "Software",
+      "company": "Synchrony Financial",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
