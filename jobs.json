@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-12T15:35:58.050Z",
+  "generatedAt": "2026-06-12T17:51:56.593Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1264,
+  "jobCount": 1262,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -595,7 +595,6 @@
     "canonical:c031cb55c680003f": "2026-05-15T22:36:45.367Z",
     "canonical:db9f13352795d6dc": "2026-05-15T23:35:38.383Z",
     "canonical:6cfe7d316f2c2834": "2026-05-15T23:35:38.383Z",
-    "canonical:59ac07a13d6c8bf7": "2026-05-15T23:35:38.383Z",
     "canonical:f37bc45fd732af97": "2026-05-15T23:35:38.383Z",
     "canonical:47a58dc4b6e43e69": "2026-05-16T04:46:03.679Z",
     "canonical:4265c7d75354f106": "2026-05-16T08:58:52.526Z",
@@ -982,7 +981,6 @@
     "canonical:b756c1405d005a89": "2026-06-03T00:01:07.922Z",
     "canonical:f335cc870420f551": "2026-06-03T00:01:07.922Z",
     "canonical:9f26983a768cc42f": "2026-06-03T00:01:07.922Z",
-    "canonical:9a659bb667b49ec8": "2026-06-03T00:01:07.922Z",
     "canonical:97627b00e025c61b": "2026-06-03T00:01:07.922Z",
     "canonical:0f3e220c90e81be2": "2026-06-03T00:01:07.922Z",
     "canonical:156e12a66a91749d": "2026-06-03T00:01:07.922Z",
@@ -2048,10 +2046,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2061,10 +2059,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -10125,19 +10123,6 @@
       "scoreReasons": []
     },
     {
-      "id": "canonical:59ac07a13d6c8bf7",
-      "title": "Research Scientist Intern - Multimodal AI",
-      "url": "https://www.metacareers.com/jobs/1732424664451603",
-      "location": "Redmond, WA",
-      "department": "AI/ML/Data",
-      "company": "Meta",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:f37bc45fd732af97",
       "title": "Research Scientist Intern - Multimodal Contextual AI",
       "url": "https://www.metacareers.com/jobs/2160167211413098",
@@ -12194,19 +12179,6 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:9a659bb667b49ec8",
-      "title": "Evaluation Engineer Intern",
-      "url": "https://careers.dovercorporation.com/job/Princeton-Evaluation-Engineer,-Intern-NJ-08540/1400017333/?ats=successfactors",
-      "location": "Princeton, NJ",
-      "department": "AI/ML/Data",
-      "company": "Dover",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
