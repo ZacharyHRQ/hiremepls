@@ -1,6 +1,6 @@
 # Open Internships
 
-**1267** internships across **63/64** companies — last updated 2026-06-13.
+**1268** internships across **63/64** companies — last updated 2026-06-13.
 
 ## Companies
 
@@ -89,7 +89,6 @@
 - [Brunswick](#brunswick) (1)
 - [By Light Professional IT Services](#by-light-professional-it-services) (1)
 - [ByteDance](#bytedance) (29)
-- [C&S Wholesale Grocers](#c-s-wholesale-grocers) (1)
 - [Cadence Design Systems](#cadence-design-systems) (4)
 - [CAE](#cae) (2)
 - [Capella](#capella) (2)
@@ -169,7 +168,7 @@
 - [Etched.ai](#etched-ai) (6)
 - [Ether.fi](#ether-fi) (1)
 - [ETHGlobal](#ethglobal) (1)
-- [Eulerity](#eulerity) (3)
+- [Eulerity](#eulerity) (4)
 - [Eurofins](#eurofins) (3)
 - [EV Realty](#ev-realty) (1)
 - [EVERSANA](#eversana) (1)
@@ -213,6 +212,7 @@
 - [GSA Capital](#gsa-capital) (2)
 - [H&CO](#h-co) (1)
 - [Haize Labs](#haize-labs) (1)
+- [Harbinger Motors](#harbinger-motors) (1)
 - [HCompany](#hcompany) (1)
 - [Hearst](#hearst) (1)
 - [Helix Electric](#helix-electric) (1)
@@ -259,11 +259,10 @@
 - [KBR](#kbr) (2)
 - [Kelso Industries](#kelso-industries) (1)
 - [Keystone AI](#keystone-ai) (1)
-- [Kinaxis](#kinaxis) (3)
+- [Kinaxis](#kinaxis) (1)
 - [KION Group](#kion-group) (2)
 - [Kioxia](#kioxia) (1)
 - [KLA](#kla) (2)
-- [Kodiak Robotics](#kodiak-robotics) (1)
 - [Kognitos](#kognitos) (1)
 - [Kudu Dynamics](#kudu-dynamics) (1)
 - [Labelbox](#labelbox) (1)
@@ -292,6 +291,7 @@
 - [Marsh](#marsh) (1)
 - [Marvell](#marvell) (5)
 - [MCG Health](#mcg-health) (1)
+- [MedElite](#medelite) (1)
 - [Medical Informatics Engineering](#medical-informatics-engineering) (1)
 - [Medpace](#medpace) (1)
 - [Medpace, Inc.](#medpace-inc) (4)
@@ -327,6 +327,7 @@
 - [NVIDIA](#nvidia) (12)
 - [OCC](#occ) (1)
 - [Octaura](#octaura) (1)
+- [OfferUp](#offerup) (1)
 - [Omnis](#omnis) (1)
 - [onsemi](#onsemi) (3)
 - [Optiver](#optiver) (1)
@@ -473,7 +474,7 @@
 - [University System of New Hampshire](#university-system-of-new-hampshire) (3)
 - [Valeo](#valeo) (1)
 - [Vanguard](#vanguard) (1)
-- [Varda Space](#varda-space) (3)
+- [Varda Space](#varda-space) (4)
 - [Veeam Software](#veeam-software) (2)
 - [Veeva](#veeva) (1)
 - [Veeva Systems](#veeva-systems) (1)
@@ -1131,12 +1132,6 @@
 | [Research Intern - Video Data Compression and Application](https://jobs.bytedance.com/en/position/7538674634397813010/detail) | 60 | San Diego, CA | AI/ML/Data | 2026-06-03 |
 | [Research Intern - Virtual Network](https://jobs.bytedance.com/en/position/7537164763424606482/detail) | 50 | San Jose, CA | Hardware | 2026-06-03 |
 
-## C&S Wholesale Grocers
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Reporting & Analytics Intern](https://cswg.wd1.myworkdayjobs.com/cs_careers/job/Windsor-Locks-CT/Data-Reporting---Analytics-Intern_R-267464) | 68 | East Windsor, CT | AI/ML/Data | 2026-06-10 |
-
 ## Cadence Design Systems
 
 | Title | Score | Location | Department | First seen |
@@ -1672,6 +1667,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Web Development Engineer Intern](https://job-boards.greenhouse.io/eulerity/jobs/4689194006) | 93 | NYC | Software | 2026-06-13 |
 | [Android Developer Intern](https://job-boards.greenhouse.io/eulerity/jobs/4671031006) | 93 | NYC | Software | 2026-05-09 |
 | [Backend Developer Intern](https://job-boards.greenhouse.io/eulerity/jobs/4666015006) | 93 | NYC | Software | 2026-05-09 |
 | [Mobile iOS Developer Intern](https://job-boards.greenhouse.io/eulerity/jobs/4671025006) | 93 | NYC | Software | 2026-05-09 |
@@ -1680,7 +1676,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Business Intelligence Intern](https://jobs.smartrecruiters.com/Eurofins/744000130829489) | 68 | Lancaster, PA | AI/ML/Data | 2026-06-08 |
+| [Business Intelligence Intern](https://jobs.smartrecruiters.com/Eurofins/744000131132249) | 68 | Lancaster, PA | AI/ML/Data | 2026-06-08 |
 | [Engineering Intern - Test Engineer](https://jobs.smartrecruiters.com/Eurofins/744000102591529) | 58 | Santa Clara, CA | Hardware | 2026-05-09 |
 | [Intern](https://jobs.smartrecruiters.com/Eurofins/744000102593098) | 58 | Hayward, CA | Hardware | 2026-05-09 |
 
@@ -1955,6 +1951,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/haizelabs/jobs/4685944008) | 93 | NYC | Software | 2026-05-09 |
+
+## Harbinger Motors
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Production Data Analytics Intern](https://job-boards.greenhouse.io/harbingermotors/jobs/5164341007) | 68 | Westminster, CA | AI/ML/Data | 2026-06-13 |
 
 ## HCompany
 
@@ -2266,8 +2268,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Developer Intern](https://careers-kinaxis.icims.com/jobs/34899/job?mobile=true&needsRedirect=false) | 85 | Ottawa, ON, Canada | Software | 2026-06-09 |
-| [Developer Co-op/Intern - Machine Learning](https://careers-kinaxis.icims.com/jobs/34699/job?mobile=true&needsRedirect=false) | 85 | Ottawa, ON, Canada | AI/ML/Data | 2026-06-03 |
-| [Developer Intern Co-op - AI Solutions](https://careers-kinaxis.icims.com/jobs/34700/job?mobile=true&needsRedirect=false) | 85 | Ottawa, ON, Canada | AI/ML/Data | 2026-06-03 |
 
 ## KION Group
 
@@ -2288,12 +2288,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](https://kla.wd1.myworkdayjobs.com/AnnArbor/job/Ann-Arbor-MI/Software-Engineering-Intern_2531653) | 68 | Ann Arbor, MI | AI/ML/Data | 2026-05-16 |
 | [AI & Process Automation Intern](https://kla.wd1.myworkdayjobs.com/en-US/search/job/Ann-Arbor-MI/AI---Process-Automation-Intern_2532515-1) | 68 | Ann Arbor, MI | Data Science, AI & Machine Learning | 2026-05-09 |
-
-## Kodiak Robotics
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Intern - Artificial Intelligence/Machine Learning](https://job-boards.greenhouse.io/kodiak/jobs/4174469009) | 68 | Mountain View, CA | AI/ML/Data | 2026-05-09 |
 
 ## Kognitos
 
@@ -2478,6 +2472,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](https://job-boards.greenhouse.io/mcghealth/jobs/8350486002) | 68 | Seattle, WA | Software Engineering | 2026-05-09 |
+
+## MedElite
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Healthcare Data Automation & QA Analytics Intern](https://job-boards.greenhouse.io/medelitellc/jobs/5258038008) | 68 | Brooklyn, NY | AI/ML/Data | 2026-06-13 |
 
 ## Medical Informatics Engineering
 
@@ -2798,6 +2798,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Intern Software Engineer](https://job-boards.greenhouse.io/octaura/jobs/4662934007) | 93 | NYC | Software | 2026-05-09 |
+
+## OfferUp
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://job-boards.greenhouse.io/offerup/jobs/8004171) | 93 | Bellevue, WA | Software | 2026-06-13 |
 
 ## Omnis
 
@@ -3512,8 +3518,8 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer, New Grad, Developer & End User Experience Platform](https://stripe.com/jobs/search?gh_jid=7991718) | 91 | Toronto | — | 2026-06-11 |
 | [PhD Data Scientist Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | Seattle, WA / SF / Chicago, IL / NYC | AI/ML/Data | 2026-06-06 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | 56 | Mexico City, Mexico | — | 2026-05-06 |
@@ -4063,6 +4069,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Automation & Test Intern](https://job-boards.greenhouse.io/vardaspace/jobs/7663353003) | 58 | El Segundo, CA | Hardware | 2026-06-13 |
 | [Mission Software – Intern - Python](https://job-boards.greenhouse.io/vardaspace/jobs/7676465003) | 68 | El Segundo, CA | Software | 2026-06-13 |
 | [Applications Engineering Internship](https://job-boards.greenhouse.io/vardaspace/jobs/7732511003) | 68 | El Segundo, CA | AI/ML/Data | 2026-05-14 |
 | [Mission Operations Intern](https://job-boards.greenhouse.io/vardaspace/jobs/7663358003) | 68 | El Segundo, CA | Software | 2026-05-09 |
