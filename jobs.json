@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-13T10:42:23.951Z",
+  "generatedAt": "2026-06-13T12:14:00.429Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1158,
+  "jobCount": 1161,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -737,7 +737,6 @@
     "canonical:fa6150aeb04d6ed4": "2026-05-16T11:29:30.823Z",
     "canonical:aa496e085ee2de25": "2026-05-16T14:07:37.750Z",
     "canonical:1a36c38a48406fc0": "2026-05-16T20:09:24.477Z",
-    "canonical:9a2e2f8f76500ed1": "2026-05-16T22:02:43.602Z",
     "canonical:e02b646de548031d": "2026-05-16T22:02:43.602Z",
     "canonical:d4cd59daed8b8e29": "2026-05-16T22:02:43.602Z",
     "canonical:4f85d18e62f2efe6": "2026-05-17T00:06:18.951Z",
@@ -779,7 +778,6 @@
     "canonical:4be1285af1d6fead": "2026-05-20T15:54:33.666Z",
     "canonical:0e6641231f661b81": "2026-05-20T15:54:33.666Z",
     "canonical:7c86059fb2609329": "2026-05-20T23:38:03.330Z",
-    "canonical:fa35aad369eb90c3": "2026-05-21T05:52:27.471Z",
     "canonical:d35985b2727191b1": "2026-05-21T05:52:27.471Z",
     "canonical:f012e13fdaf4adcb": "2026-05-21T05:52:27.471Z",
     "canonical:ce24e19952ce522a": "2026-05-21T05:52:27.471Z",
@@ -916,7 +914,6 @@
     "canonical:b756c1405d005a89": "2026-06-03T00:01:07.922Z",
     "canonical:f335cc870420f551": "2026-06-03T00:01:07.922Z",
     "canonical:9f26983a768cc42f": "2026-06-03T00:01:07.922Z",
-    "canonical:97627b00e025c61b": "2026-06-03T00:01:07.922Z",
     "canonical:0f3e220c90e81be2": "2026-06-03T00:01:07.922Z",
     "canonical:156e12a66a91749d": "2026-06-03T00:01:07.922Z",
     "canonical:00f76402b372da9e": "2026-06-03T00:01:07.922Z",
@@ -933,7 +930,6 @@
     "canonical:6e99b696489fe2d5": "2026-06-03T10:04:55.299Z",
     "canonical:a5ee6da375fec37f": "2026-06-03T10:04:55.299Z",
     "canonical:0cb411253e09ff95": "2026-06-03T10:04:55.299Z",
-    "canonical:b5a18fe0020bae08": "2026-06-03T10:04:55.299Z",
     "canonical:d5989df87e86b977": "2026-06-03T10:04:55.299Z",
     "canonical:b0a57a3a31d07f87": "2026-06-03T15:01:52.660Z",
     "canonical:eaa6e19f31ea5055": "2026-06-03T23:25:54.380Z",
@@ -1054,7 +1050,6 @@
     "canonical:3f94a7964c2e6f0f": "2026-06-08T23:57:00.045Z",
     "canonical:aee7577b19ec0ab4": "2026-06-08T23:57:00.045Z",
     "canonical:97a6914dba9e6da7": "2026-06-08T23:57:00.045Z",
-    "canonical:8212975b7a6dc9b6": "2026-06-08T23:57:00.045Z",
     "canonical:5adb921f93104e6b": "2026-06-08T23:57:00.045Z",
     "canonical:9163005d34fce756": "2026-06-08T23:57:00.045Z",
     "canonical:9f62862f029b086d": "2026-06-08T23:57:00.045Z",
@@ -1144,7 +1139,6 @@
     "canonical:ef634d2821ab2552": "2026-06-12T15:35:58.050Z",
     "canonical:c3f909dd643f2906": "2026-06-13T00:12:58.112Z",
     "canonical:5d305be6a1fef2d6": "2026-06-13T00:12:58.112Z",
-    "canonical:ec7b5f1c953f0acf": "2026-06-13T00:12:58.112Z",
     "canonical:d418628a011a1708": "2026-06-13T00:12:58.112Z",
     "canonical:c5c8d41f5222405f": "2026-06-13T00:12:58.112Z",
     "canonical:d72f5b20685fcff0": "2026-06-13T00:12:58.112Z",
@@ -1161,7 +1155,16 @@
     "canonical:25c914101f963271": "2026-06-13T10:42:23.951Z",
     "canonical:4d53d98827cc1de5": "2026-06-13T10:42:23.951Z",
     "canonical:b1c3bc01bef551d7": "2026-06-13T10:42:23.951Z",
-    "canonical:a09b5a1047bf1b8e": "2026-06-13T10:42:23.951Z"
+    "canonical:a09b5a1047bf1b8e": "2026-06-13T10:42:23.951Z",
+    "canonical:6a54db97364bf00a": "2026-06-13T12:14:00.429Z",
+    "canonical:71f4c1680b019759": "2026-06-13T12:14:00.429Z",
+    "canonical:941d02dc047a74b1": "2026-06-13T12:14:00.429Z",
+    "canonical:24576bfd840f0379": "2026-06-13T12:14:00.429Z",
+    "canonical:78e461e91d26f884": "2026-06-13T12:14:00.429Z",
+    "canonical:f30a89c4a549a784": "2026-06-13T12:14:00.429Z",
+    "canonical:4168fcd2f5f91a08": "2026-06-13T12:14:00.429Z",
+    "canonical:ebdb73f1d53cde75": "2026-06-13T12:14:00.429Z",
+    "canonical:cf66be44715f6135": "2026-06-13T12:14:00.429Z"
   },
   "jobs": [
     {
@@ -5221,20 +5224,6 @@
       ]
     },
     {
-      "id": "canonical:fa35aad369eb90c3",
-      "title": "Marketing & Media Process Intern",
-      "url": "https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Cary-NC/Marketing---Media-Process-Intern_JR3649",
-      "location": "Morrisville, NC",
-      "department": "Software",
-      "company": "Integrity",
-      "score": 48,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS",
-        "lower-fit title"
-      ]
-    },
-    {
       "id": "canonical:7384807ea0df61cf",
       "title": "Software Engineer Intern - AI Infrastructure",
       "url": "https://jobs.bytedance.com/en/position/7595756835349973253/detail",
@@ -5706,6 +5695,19 @@
       ]
     },
     {
+      "id": "canonical:6a54db97364bf00a",
+      "title": "Research and Development Engineering Intern",
+      "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineering-Intern_REQ_0000076214-1",
+      "location": "State College, PA",
+      "department": "Software",
+      "company": "PennState University",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:ff280c9810ac0117",
       "title": "Product Management/Marketing Intern - Summer 2026",
       "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Charlotte-NC/Product-Management-Marketing-Intern---Summer-2026_JR0000037719-3",
@@ -5814,6 +5816,20 @@
       "location": "United States",
       "department": "Hardware",
       "company": "Ambarella",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:71f4c1680b019759",
+      "title": "Hunyuan Multimodal Algorithm Researcher Intern",
+      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-Intern-Omni-Modal---_R107051",
+      "location": "Palo Alto, CA",
+      "department": "AI/ML/Data",
+      "company": "Tencent",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -6011,6 +6027,19 @@
       "location": "New York, NY",
       "department": "Data Science, AI & Machine Learning",
       "company": "Internship",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:941d02dc047a74b1",
+      "title": "AI Intern",
+      "url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Atlanta-GA-United-States/AI-Internships_JR-0088855",
+      "location": "Grand Rapids, MI / Plano, TX / Atlanta, GA",
+      "department": "Software",
+      "company": "KION Group",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -7469,6 +7498,16 @@
       ]
     },
     {
+      "id": "canonical:24576bfd840f0379",
+      "title": "Intern Failure Analysis & Validation Engineering",
+      "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235417",
+      "location": "Southfield, MI",
+      "department": "Hardware",
+      "company": "Magna",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
       "id": "canonical:38f37f3ad8017ec7",
       "title": "Research Scientist Intern - TikTok Recommendation",
       "url": "https://lifeattiktok.com/search/7625928030560700725",
@@ -7998,6 +8037,19 @@
       "location": "London, UK",
       "department": "AI/ML/Data",
       "company": "JINGDONG",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:78e461e91d26f884",
+      "title": "Game Research & Development Intern - Engine Research",
+      "url": "https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/US-Washington-Bellevue/Game-Research---Development-Intern--Engine-Research_R107363",
+      "location": "Bellevue, WA",
+      "department": "Software",
+      "company": "Tencent",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -8695,6 +8747,19 @@
       ]
     },
     {
+      "id": "canonical:f30a89c4a549a784",
+      "title": "Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398",
+      "location": "Santa Clara, CA",
+      "department": "AI/ML/Data",
+      "company": "NVIDIA",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:7134f71d6610c363",
       "title": "AI Intern",
       "url": "https://jobs-cesi.icims.com/jobs/10965/ai-intern/job",
@@ -8804,19 +8869,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:9a2e2f8f76500ed1",
-      "title": "Software Engineering Intern",
-      "url": "https://kla.wd1.myworkdayjobs.com/AnnArbor/job/Ann-Arbor-MI/Software-Engineering-Intern_2531653",
-      "location": "Ann Arbor, MI",
-      "department": "AI/ML/Data",
-      "company": "KLA",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -9093,6 +9145,20 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:4168fcd2f5f91a08",
+      "title": "Software Developer in Test Intern",
+      "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-in-Test-Intern--September-2026-12-Months-_R10064",
+      "location": "Mississauga, ON, Canada",
+      "department": "Software",
+      "company": "SOTI",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -10515,19 +10581,6 @@
       ]
     },
     {
-      "id": "canonical:ec7b5f1c953f0acf",
-      "title": "Oliver Wyman Analyst Internship - Data & Analytics",
-      "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics---6-month-Analyst-Internship----Newcastle-2026_R_346450-1",
-      "location": "Newcastle upon Tyne, UK",
-      "department": "AI/ML/Data",
-      "company": "Marsh",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:dc784fbedc1313dc",
       "title": "Research Engineer Intern - Mapping & Localization",
       "url": "https://jobs.lever.co/plus-2/efbb82d3-1c4a-4fc9-8b40-ee1545085061/apply",
@@ -10653,6 +10706,18 @@
       "score": 58,
       "scoreReasons": [
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ebdb73f1d53cde75",
+      "title": "Engineering ADAS Perception Features Intern",
+      "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235438",
+      "location": "Auburn Hills, MI",
+      "department": "AI/ML/Data",
+      "company": "Magna",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
       ]
     },
     {
@@ -11056,20 +11121,6 @@
       "scoreReasons": []
     },
     {
-      "id": "canonical:97627b00e025c61b",
-      "title": "Cloud Developer Intern",
-      "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD98608-1",
-      "location": "Canada",
-      "department": "Software",
-      "company": "Autodesk",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:156e12a66a91749d",
       "title": "Research Intern - AI/LLM Network",
       "url": "https://jobs.bytedance.com/en/position/7539991964504017170/detail",
@@ -11258,19 +11309,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:b5a18fe0020bae08",
-      "title": "Stormwater Intern - Wastewater Management",
-      "url": "https://largo.wd1.myworkdayjobs.com/external/job/Largo-City-Hall/Intern---Undergraduate_R-2319",
-      "location": "Largo, FL",
-      "department": "AI/ML/Data",
-      "company": "City of Largo",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -12555,20 +12593,6 @@
       ]
     },
     {
-      "id": "canonical:8212975b7a6dc9b6",
-      "title": "Software Engineer Intern",
-      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393",
-      "location": "Dallas, TX",
-      "department": "Software",
-      "company": "Copart",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:5adb921f93104e6b",
       "title": "Systems Analyst Intern",
       "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8792",
@@ -13681,6 +13705,18 @@
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:cf66be44715f6135",
+      "title": "Business Intelligence Intern",
+      "url": "https://kphcareers-kphhealthcareservices.icims.com/jobs/14851/job?mobile=true&needsRedirect=false",
+      "location": "Syracuse, NY",
+      "department": "AI/ML/Data",
+      "company": "KPH Healthcare Services",
+      "score": 60,
+      "scoreReasons": [
         "high-signal role"
       ]
     },
