@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T02:38:49.584Z",
+  "generatedAt": "2026-06-14T07:08:57.782Z",
   "companyCount": 64,
   "okCount": 63,
   "jobCount": 1198,
@@ -12860,19 +12860,6 @@
       ]
     },
     {
-      "id": "canonical:80d8b55bc00c3b4c",
-      "title": "Business Intelligence Intern",
-      "url": "https://jobs.smartrecruiters.com/Eurofins/744000130829489",
-      "location": "Lancaster, PA",
-      "department": "AI/ML/Data",
-      "company": "Eurofins",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:b1c3bc01bef551d7",
       "title": "Data Center Technician Intern",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556867685",
@@ -13050,6 +13037,19 @@
       "company": "Robert Bosch Venture Capital",
       "score": 58,
       "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:80d8b55bc00c3b4c",
+      "title": "Business Intelligence Intern",
+      "url": "https://jobs.smartrecruiters.com/Eurofins/744000131132249",
+      "location": "Lancaster, PA",
+      "department": "AI/ML/Data",
+      "company": "Eurofins",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
         "direct ATS"
       ]
     },
