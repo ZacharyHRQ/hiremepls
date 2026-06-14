@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-14T16:09:34.235Z",
+  "generatedAt": "2026-06-14T17:44:21.510Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1195,
+  "jobCount": 1194,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1147,7 +1147,6 @@
     "canonical:ef4ffb9df5c412b0": "2026-06-13T04:50:39.260Z",
     "canonical:25c914101f963271": "2026-06-13T10:42:23.951Z",
     "canonical:4d53d98827cc1de5": "2026-06-13T10:42:23.951Z",
-    "canonical:b1c3bc01bef551d7": "2026-06-13T10:42:23.951Z",
     "canonical:a09b5a1047bf1b8e": "2026-06-13T10:42:23.951Z",
     "canonical:6a54db97364bf00a": "2026-06-13T12:14:00.429Z",
     "canonical:71f4c1680b019759": "2026-06-13T12:14:00.429Z",
@@ -12821,16 +12820,6 @@
         "high-signal role",
         "direct ATS"
       ]
-    },
-    {
-      "id": "canonical:b1c3bc01bef551d7",
-      "title": "Data Center Technician Intern",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556867685",
-      "location": "Ontario, Canada",
-      "department": "Hardware",
-      "company": "Microsoft",
-      "score": 50,
-      "scoreReasons": []
     },
     {
       "id": "canonical:a0c3232bb05edac6",
