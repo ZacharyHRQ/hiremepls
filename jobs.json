@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T17:44:21.510Z",
+  "generatedAt": "2026-06-14T18:57:52.229Z",
   "companyCount": 64,
   "okCount": 63,
   "jobCount": 1194,
@@ -6109,12 +6109,12 @@
       ]
     },
     {
-      "id": "canonical:941d02dc047a74b1",
+      "id": "canonical:b829286cb05e29f4",
       "title": "AI Intern",
-      "url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Atlanta-GA-United-States/AI-Internships_JR-0088855",
-      "location": "Grand Rapids, MI / Plano, TX / Atlanta, GA",
-      "department": "Software",
-      "company": "KION Group",
+      "url": "https://job-boards.greenhouse.io/armada/jobs/5151029008",
+      "location": "Bellevue, WA",
+      "department": "AI/ML/Data",
+      "company": "Armada",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -6122,12 +6122,12 @@
       ]
     },
     {
-      "id": "canonical:b829286cb05e29f4",
+      "id": "canonical:941d02dc047a74b1",
       "title": "AI Intern",
-      "url": "https://job-boards.greenhouse.io/armada/jobs/5151029008",
-      "location": "Bellevue, WA",
-      "department": "AI/ML/Data",
-      "company": "Armada",
+      "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Atlanta-GA-United-States/AI-Internships_JR-0088855-1",
+      "location": "Grand Rapids, MI / Plano, TX / Atlanta, GA",
+      "department": "Software",
+      "company": "KION Group",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
