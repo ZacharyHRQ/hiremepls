@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-14T12:27:47.526Z",
+  "generatedAt": "2026-06-14T14:39:44.925Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1194,
+  "jobCount": 1195,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -79,7 +79,6 @@
     "canonical:8fc863f495e5ebf7": "2026-05-09T15:28:15.527Z",
     "canonical:40b5e3e02c34b6ce": "2026-05-09T15:28:15.527Z",
     "canonical:54eb0918a1a56e5d": "2026-05-09T15:28:15.527Z",
-    "canonical:637382c39fc1ed3a": "2026-05-09T15:28:15.527Z",
     "canonical:dd6a8073fa2533f0": "2026-05-09T15:28:15.527Z",
     "canonical:a74779d775d064e4": "2026-05-09T15:28:15.527Z",
     "canonical:afadedc952397f7f": "2026-05-09T15:28:15.527Z",
@@ -1197,7 +1196,9 @@
     "canonical:db74d5d02de964bf": "2026-06-13T18:42:57.240Z",
     "canonical:491ade8f5ec863c3": "2026-06-14T02:38:49.584Z",
     "canonical:411bdab6bb2d495d": "2026-06-14T02:38:49.584Z",
-    "canonical:75cdddf75708f2a1": "2026-06-14T10:30:50.953Z"
+    "canonical:75cdddf75708f2a1": "2026-06-14T10:30:50.953Z",
+    "canonical:c1817238d89b26e3": "2026-06-14T14:39:44.925Z",
+    "canonical:dcc57aa64e78aadf": "2026-06-14T14:39:44.925Z"
   },
   "jobs": [
     {
@@ -1308,10 +1309,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1323,10 +1324,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1978,10 +1979,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -1991,10 +1992,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2430,18 +2431,6 @@
       "company": "Cribl",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:637382c39fc1ed3a",
-      "title": "Corporate Sustainability Intern - Summer 2026",
-      "url": "https://corningjobs.corning.com/job/Corning-Corporate-Sustainability-Intern-Summer-2026-NY-14831/1335401200/?ats=successfactors",
-      "location": "Elmira, NY",
-      "department": "AI/ML/Data",
-      "company": "Corning",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
     },
     {
       "id": "canonical:dd6a8073fa2533f0",
@@ -11849,6 +11838,19 @@
       ]
     },
     {
+      "id": "canonical:c1817238d89b26e3",
+      "title": "FP&A Business Intelligence Intern",
+      "url": "https://brambles.wd5.myworkdayjobs.com/en-US/Brambles_Careers/job/London-England-United-Kingdom/FP-A-Business-Intelligence-Intern_JR23946-1",
+      "location": "London, UK / Orlando, FL / Atlanta, GA",
+      "department": "AI/ML/Data",
+      "company": "CHEP",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:1903ea6b0e57aeaa",
       "title": "Generative AI Engineer Intern",
       "url": "https://careers-peraton.icims.com/jobs/167460/job?mobile=true&needsRedirect=false",
@@ -13013,6 +13015,16 @@
         "high-signal role",
         "direct ATS"
       ]
+    },
+    {
+      "id": "canonical:dcc57aa64e78aadf",
+      "title": "Product Development Intern",
+      "url": "https://www.picarro.com/company/careers/job-openings/apply?gh_jid=5253032008",
+      "location": "Santa Clara, CA",
+      "department": "Product",
+      "company": "Picarro",
+      "score": 50,
+      "scoreReasons": []
     },
     {
       "id": "canonical:5c6da3333f2763a6",
