@@ -1,6 +1,6 @@
 # Open Internships
 
-**1193** internships across **63/64** companies — last updated 2026-06-14.
+**1194** internships across **63/64** companies — last updated 2026-06-14.
 
 ## Companies
 
@@ -333,6 +333,7 @@
 - [Podium](#podium) (2)
 - [Point72](#point72) (21)
 - [Poshmark](#poshmark) (1)
+- [Primerica](#primerica) (1)
 - [Primetals Technologies](#primetals-technologies) (2)
 - [Prior Labs](#prior-labs) (1)
 - [Prologis](#prologis) (1)
@@ -2834,6 +2835,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Cloud Platform Engineer Intern, Growth](https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa) | 93 | Redwood City, CA | — | 2026-05-09 |
+
+## Primerica
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Fraud Analyst Intern](https://primerica.wd1.myworkdayjobs.com/pri/job/Duluth-GA/Fraud-Analyst-Intern_R-234062026) | 68 | Duluth, GA | AI/ML/Data | 2026-06-14 |
 
 ## Primetals Technologies
 

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-14T21:48:11.138Z",
+  "generatedAt": "2026-06-14T22:58:52.932Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1193,
+  "jobCount": 1194,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1196,7 +1196,8 @@
     "canonical:75cdddf75708f2a1": "2026-06-14T10:30:50.953Z",
     "canonical:c1817238d89b26e3": "2026-06-14T14:39:44.925Z",
     "canonical:dcc57aa64e78aadf": "2026-06-14T14:39:44.925Z",
-    "canonical:e8038afc6e3ca5c9": "2026-06-14T21:48:11.138Z"
+    "canonical:e8038afc6e3ca5c9": "2026-06-14T21:48:11.138Z",
+    "canonical:2083bc7dde65b644": "2026-06-14T22:58:52.932Z"
   },
   "jobs": [
     {
@@ -14194,6 +14195,19 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:2083bc7dde65b644",
+      "title": "Fraud Analyst Intern",
+      "url": "https://primerica.wd1.myworkdayjobs.com/pri/job/Duluth-GA/Fraud-Analyst-Intern_R-234062026",
+      "location": "Duluth, GA",
+      "department": "AI/ML/Data",
+      "company": "Primerica",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
