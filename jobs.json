@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-13T23:47:32.234Z",
+  "generatedAt": "2026-06-14T02:38:49.584Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1196,
+  "jobCount": 1198,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1199,7 +1199,9 @@
     "canonical:1cb970dd90b802db": "2026-06-13T18:42:57.240Z",
     "canonical:8d4bdf6d1fa7a76e": "2026-06-13T18:42:57.240Z",
     "canonical:c5c8d41f5222405f": "2026-06-13T18:42:57.240Z",
-    "canonical:db74d5d02de964bf": "2026-06-13T18:42:57.240Z"
+    "canonical:db74d5d02de964bf": "2026-06-13T18:42:57.240Z",
+    "canonical:491ade8f5ec863c3": "2026-06-14T02:38:49.584Z",
+    "canonical:411bdab6bb2d495d": "2026-06-14T02:38:49.584Z"
   },
   "jobs": [
     {
@@ -6503,6 +6505,18 @@
       ]
     },
     {
+      "id": "canonical:491ade8f5ec863c3",
+      "title": "Automation & Test Intern",
+      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7663353003",
+      "location": "El Segundo, CA",
+      "department": "Hardware",
+      "company": "Varda Space",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:c3f909dd643f2906",
       "title": "Mission Software – Intern - Python",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7676465003",
@@ -11608,6 +11622,20 @@
       ]
     },
     {
+      "id": "canonical:411bdab6bb2d495d",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/instead/jobs/7761472003",
+      "location": "SF",
+      "department": "Software",
+      "company": "Instead",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:b0a57a3a31d07f87",
       "title": "Data Engineer Intern - Congressional Data",
       "url": "https://jobs.lever.co/sunwatercapital/7681fd31-8d0b-405c-b0e0-7f8c1c87f3c8/apply",
@@ -12832,6 +12860,19 @@
       ]
     },
     {
+      "id": "canonical:80d8b55bc00c3b4c",
+      "title": "Business Intelligence Intern",
+      "url": "https://jobs.smartrecruiters.com/Eurofins/744000130829489",
+      "location": "Lancaster, PA",
+      "department": "AI/ML/Data",
+      "company": "Eurofins",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:b1c3bc01bef551d7",
       "title": "Data Center Technician Intern",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556867685",
@@ -13009,19 +13050,6 @@
       "company": "Robert Bosch Venture Capital",
       "score": 58,
       "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:80d8b55bc00c3b4c",
-      "title": "Business Intelligence Intern",
-      "url": "https://jobs.smartrecruiters.com/Eurofins/744000131132249",
-      "location": "Lancaster, PA",
-      "department": "AI/ML/Data",
-      "company": "Eurofins",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
         "direct ATS"
       ]
     },
