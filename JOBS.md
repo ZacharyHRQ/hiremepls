@@ -1,6 +1,6 @@
 # Open Internships
 
-**1194** internships across **63/64** companies — last updated 2026-06-14.
+**1193** internships across **63/64** companies — last updated 2026-06-14.
 
 ## Companies
 
@@ -165,7 +165,6 @@
 - [Facility Solutions Group](#facility-solutions-group) (1)
 - [Falcomm](#falcomm) (1)
 - [Fanatics](#fanatics) (3)
-- [FHLBank Topeka](#fhlbank-topeka) (1)
 - [Field AI](#field-ai) (1)
 - [Figure](#figure) (1)
 - [Fiserv](#fiserv) (2)
@@ -322,7 +321,6 @@
 - [Pebl](#pebl) (4)
 - [Pega](#pega) (1)
 - [PennState University](#pennstate-university) (1)
-- [Pennsylvania State University](#pennsylvania-state-university) (1)
 - [Peraton](#peraton) (2)
 - [Perplexity](#perplexity) (3)
 - [Perplexity AI](#perplexity-ai) (1)
@@ -331,6 +329,7 @@
 - [Picarro](#picarro) (1)
 - [Pinterest](#pinterest) (6)
 - [PlusAI](#plusai) (19)
+- [PNC Financial Services](#pnc-financial-services) (1)
 - [Podium](#podium) (2)
 - [Point72](#point72) (21)
 - [Poshmark](#poshmark) (1)
@@ -1602,12 +1601,6 @@
 | [Collectibles Intern - Product - Physical Trading Cards](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26720) | 60 | NYC | Quant | 2026-05-09 |
 | [Collectibles Intern - Product - Physical Trading Cards](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27190) | 60 | Coppell, TX | Quant | 2026-05-09 |
 
-## FHLBank Topeka
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Financial Analyst Intern](https://fhlbtopeka.wd1.myworkdayjobs.com/FHLBT/job/Topeka-Kansas/Member-Solutions-Intern_JR100348) | 68 | Topeka, KS | AI/ML/Data | 2026-06-13 |
-
 ## Field AI
 
 | Title | Score | Location | Department | First seen |
@@ -2722,12 +2715,6 @@
 | --- | --- | --- | --- | --- |
 | [Research and Development Engineering Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineering-Intern_REQ_0000076214-1) | 68 | State College, PA | Software | 2026-06-13 |
 
-## Pennsylvania State University
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Research and Development Engineer Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineer-Intern_REQ_0000063995-1) | 83 | State College, PA | Hardware | 2026-06-13 |
-
 ## Peraton
 
 | Title | Score | Location | Department | First seen |
@@ -2802,6 +2789,12 @@
 | [Software Engineer Intern - Data](https://jobs.lever.co/plus-2/012a2134-8a6a-4982-8f25-f906178a24e4/apply) | 93 | Santa Clara, CA | Software | 2026-05-19 |
 | [Software Engineer Intern - Data Infrastructure and Tools](https://jobs.lever.co/plus-2/06b808df-85a1-4ddd-863c-3e1cbe61eda9/apply) | 93 | Santa Clara, CA | Software | 2026-05-19 |
 | [Machine Learning Infrastructure Engineer Intern](https://jobs.lever.co/plus-2/30dd9b9b-48c8-4777-97f6-8edb30db12e4/apply) | 93 | Santa Clara, CA | AI/ML/Data | 2026-05-19 |
+
+## PNC Financial Services
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Graduate Intern - Multiple Teams](https://pnc.wd5.myworkdayjobs.com/External/job/NY---New-York-10173/Graduate-Intern--Economic-Scenario-Design--Chief-Investment-Office--CIO---Non-Campus-_R212891-1) | 74 | NYC | Quant | 2026-06-14 |
 
 ## Podium
 

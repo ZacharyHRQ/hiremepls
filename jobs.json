@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-14T20:16:10.262Z",
+  "generatedAt": "2026-06-14T21:48:11.138Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1194,
+  "jobCount": 1193,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1179,10 +1179,8 @@
     "canonical:8e9b3b4bdaa4e763": "2026-06-13T15:55:40.354Z",
     "canonical:27fa5d3290d6515b": "2026-06-13T15:55:40.354Z",
     "canonical:ed9a44e022b031bf": "2026-06-13T15:55:40.354Z",
-    "canonical:de7479fb94f4eba6": "2026-06-13T15:55:40.354Z",
     "canonical:60d48ea9b4193a8f": "2026-06-13T17:12:44.534Z",
     "canonical:4657deb65ec280ac": "2026-06-13T17:12:44.534Z",
-    "canonical:f5d84370157fe2ee": "2026-06-13T17:12:44.534Z",
     "canonical:ec7b5f1c953f0acf": "2026-06-13T17:12:44.534Z",
     "canonical:b0612af2bb895c56": "2026-06-13T17:12:44.534Z",
     "canonical:a54dfaa9c2670ee3": "2026-06-13T17:12:44.534Z",
@@ -1197,7 +1195,8 @@
     "canonical:411bdab6bb2d495d": "2026-06-14T02:38:49.584Z",
     "canonical:75cdddf75708f2a1": "2026-06-14T10:30:50.953Z",
     "canonical:c1817238d89b26e3": "2026-06-14T14:39:44.925Z",
-    "canonical:dcc57aa64e78aadf": "2026-06-14T14:39:44.925Z"
+    "canonical:dcc57aa64e78aadf": "2026-06-14T14:39:44.925Z",
+    "canonical:e8038afc6e3ca5c9": "2026-06-14T21:48:11.138Z"
   },
   "jobs": [
     {
@@ -10634,15 +10633,16 @@
       ]
     },
     {
-      "id": "canonical:f5d84370157fe2ee",
-      "title": "Financial Analyst Intern",
-      "url": "https://fhlbtopeka.wd1.myworkdayjobs.com/FHLBT/job/Topeka-Kansas/Member-Solutions-Intern_JR100348",
-      "location": "Topeka, KS",
-      "department": "AI/ML/Data",
-      "company": "FHLBank Topeka",
-      "score": 68,
+      "id": "canonical:e8038afc6e3ca5c9",
+      "title": "Graduate Intern - Multiple Teams",
+      "url": "https://pnc.wd5.myworkdayjobs.com/External/job/NY---New-York-10173/Graduate-Intern--Economic-Scenario-Design--Chief-Investment-Office--CIO---Non-Campus-_R212891-1",
+      "location": "NYC",
+      "department": "Quant",
+      "company": "PNC Financial Services",
+      "score": 74,
       "scoreReasons": [
         "high-signal role",
+        "new grad",
         "direct ATS"
       ]
     },
@@ -13865,19 +13865,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:de7479fb94f4eba6",
-      "title": "Research and Development Engineer Intern",
-      "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineer-Intern_REQ_0000063995-1",
-      "location": "State College, PA",
-      "department": "Hardware",
-      "company": "Pennsylvania State University",
-      "score": 83,
-      "scoreReasons": [
-        "SWE-aligned",
-        "direct ATS"
       ]
     },
     {
