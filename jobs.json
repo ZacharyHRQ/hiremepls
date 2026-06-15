@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T16:25:40.601Z",
+  "generatedAt": "2026-06-15T20:01:02.171Z",
   "companyCount": 64,
   "okCount": 63,
   "jobCount": 1161,
@@ -1052,7 +1052,6 @@
     "canonical:5107c593a01396e4": "2026-06-12T12:01:29.803Z",
     "canonical:bbfacc40dc55a0ce": "2026-06-12T12:01:29.803Z",
     "canonical:07482cde11fc2d9b": "2026-06-12T15:35:58.050Z",
-    "canonical:bc566a628b0a1bc8": "2026-06-12T15:35:58.050Z",
     "canonical:ef634d2821ab2552": "2026-06-12T15:35:58.050Z",
     "canonical:c3f909dd643f2906": "2026-06-13T00:12:58.112Z",
     "canonical:5d305be6a1fef2d6": "2026-06-13T00:12:58.112Z",
@@ -1164,7 +1163,8 @@
     "canonical:2b6b13fd07779d8a": "2026-06-15T11:27:26.940Z",
     "canonical:02988811ee1420ed": "2026-06-15T11:27:26.940Z",
     "canonical:fb0b6401fc50cfcd": "2026-06-15T11:27:26.940Z",
-    "canonical:8a584693aa3805ae": "2026-06-15T16:25:40.601Z"
+    "canonical:8a584693aa3805ae": "2026-06-15T16:25:40.601Z",
+    "canonical:7d224ab342468829": "2026-06-15T20:01:02.171Z"
   },
   "jobs": [
     {
@@ -1721,16 +1721,14 @@
       ]
     },
     {
-      "id": "canonical:bc566a628b0a1bc8",
-      "title": "2026 BSc/MSc/PhD Quantitative Researcher Internship",
-      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7950797",
+      "id": "canonical:7d224ab342468829",
+      "title": "Copy of 2026 LATAM Operations Analyst (Internship)",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8008507",
       "location": "São Paulo, Brazil",
       "department": "",
       "company": "Schonfeld",
-      "score": 93,
+      "score": 58,
       "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
         "direct ATS"
       ]
     },
