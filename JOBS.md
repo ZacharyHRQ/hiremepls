@@ -1,6 +1,6 @@
 # Open Internships
 
-**1165** internships across **63/64** companies — last updated 2026-06-15.
+**1161** internships across **63/64** companies — last updated 2026-06-15.
 
 ## Companies
 
@@ -101,7 +101,7 @@
 - [Citadel](#citadel) (4)
 - [Citadel Securities](#citadel-securities) (3)
 - [Clarity Innovations](#clarity-innovations) (1)
-- [Cloudflare](#cloudflare) (14)
+- [Cloudflare](#cloudflare) (13)
 - [Cloudforce](#cloudforce) (1)
 - [Codeage](#codeage) (1)
 - [Cohere](#cohere) (3)
@@ -125,7 +125,7 @@
 - [d-Matrix](#d-matrix) (1)
 - [Dandy](#dandy) (1)
 - [Databricks](#databricks) (1)
-- [Datadog](#datadog) (2)
+- [Datadog](#datadog) (1)
 - [DataVisor](#datavisor) (1)
 - [Dedalus Labs](#dedalus-labs) (1)
 - [Definity Financial](#definity-financial) (1)
@@ -366,7 +366,7 @@
 - [Sandisk](#sandisk) (1)
 - [Savannah River National Laboratory](#savannah-river-national-laboratory) (1)
 - [Scale AI](#scale-ai) (5)
-- [Schonfeld](#schonfeld) (4)
+- [Schonfeld](#schonfeld) (2)
 - [Seaspan](#seaspan) (10)
 - [SHEIN](#shein) (2)
 - [Shenzhen ANQI SHISHANG Articles Co., ltd.](#shenzhen-anqi-shishang-articles-co-ltd) (1)
@@ -1171,7 +1171,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [People Team: Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7774167?gh_jid=7774167) | 93 | Hybrid | — | 2026-06-11 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/7774167) | 93 | Austin, TX | Software | 2026-06-11 |
 | [Legal Intern – Commercial Legal (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7983674?gh_jid=7983674) | 58 | In-Office | — | 2026-06-05 |
 | [People Team Intern - HR Operations & AI Innovation (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240) | 58 | In-Office | — | 2026-05-20 |
@@ -1337,7 +1336,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](https://careers.datadoghq.com/detail/6954161/?gh_jid=6954161) | 60 | Boston, MA / New York, NY | — | 2026-05-09 |
-| [IT Support Technician Intern](https://careers.datadoghq.com/detail/7826176/?gh_jid=7826176) | 50 | Paris, France | — | 2026-05-06 |
 
 ## DataVisor
 
@@ -1921,8 +1919,8 @@
 | --- | --- | --- | --- | --- |
 | [Graduate Quantitative Researcher](https://job-boards.eu.greenhouse.io/imc/jobs/4892687101) | 99 | Zug, Switzerland | — | 2026-06-12 |
 | [Hardware Machine Learning PhD Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, IL | AI/ML/Data | 2026-05-09 |
-| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
+| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
 | [Hardware Machine Learning PhD Research Internship](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, United States | — | 2026-05-06 |
 | [Graduate Floor Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4786701101) | 64 | Chicago, United States; Miami, United States; New York, United States; Philadelphia, United States; San Francisco, United States | — | 2026-05-06 |
 | [Graduate Trader (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564495101) | 64 | Amsterdam, Netherlands | — | 2026-05-06 |
@@ -2710,9 +2708,9 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [AI Inference Internship](https://jobs.ashbyhq.com/perplexity/79a07e2d-6150-4929-80fe-bbe13a641763) | 55 | — | — | 2026-06-15 |
 | [Internship - Search Backend Infra Engineer](https://jobs.ashbyhq.com/perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92) | 90 | — | — | 2026-05-29 |
 | [Internship - Search Machine Learning Engineer](https://jobs.ashbyhq.com/perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2) | 90 | — | — | 2026-05-29 |
-| [UK Internship Program](https://jobs.ashbyhq.com/perplexity/79a07e2d-6150-4929-80fe-bbe13a641763) | 55 | — | — | 2026-05-29 |
 
 ## Perplexity AI
 
@@ -3064,8 +3062,6 @@
 | --- | --- | --- | --- | --- |
 | [2026 BSc/MSc/PhD Quantitative Researcher Internship](https://job-boards.greenhouse.io/schonfeld/jobs/7950797) | 93 | São Paulo, Brazil | — | 2026-06-12 |
 | [Quantitative Research / Developer - Intern](https://job-boards.greenhouse.io/schonfeld/jobs/7185553) | 93 | Hong Kong, Hong Kong | — | 2026-05-06 |
-| [2026 LATAM Investment Analyst (Internship)](https://job-boards.greenhouse.io/schonfeld/jobs/7761282) | 58 | São Paulo, Brazil | — | 2026-05-06 |
-| [2026 LATAM Operations Analyst (Internship)](https://job-boards.greenhouse.io/schonfeld/jobs/7761284) | 58 | São Paulo, Brazil | — | 2026-05-06 |
 
 ## Seaspan
 
@@ -3248,8 +3244,8 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer, New Grad, Developer & End User Experience Platform](https://stripe.com/jobs/search?gh_jid=7991718) | 91 | Toronto | — | 2026-06-11 |
 | [PhD Data Scientist Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | Seattle, WA / SF / Chicago, IL / NYC | AI/ML/Data | 2026-06-06 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | 56 | Mexico City, Mexico | — | 2026-05-06 |

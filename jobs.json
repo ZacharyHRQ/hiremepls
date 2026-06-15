@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-15T11:27:26.940Z",
+  "generatedAt": "2026-06-15T16:25:40.601Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1165,
+  "jobCount": 1161,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -45,8 +45,6 @@
     "canonical:b96e4b664e658d78": "2026-05-06T06:42:07.596Z",
     "canonical:56bd31b0fd251943": "2026-05-06T06:42:07.596Z",
     "canonical:de418532baaaab87": "2026-05-06T06:42:07.596Z",
-    "canonical:5c3a7585df271d94": "2026-05-06T06:42:07.596Z",
-    "canonical:36b00da4bc44f6c0": "2026-05-06T06:42:07.596Z",
     "canonical:1deca2b01fe852c8": "2026-05-06T06:42:07.596Z",
     "canonical:c15d80ab1065f4f1": "2026-05-06T06:42:07.596Z",
     "canonical:c7d45c381b9830d8": "2026-05-06T06:42:07.596Z",
@@ -71,7 +69,6 @@
     "canonical:accc7acdf5c4229f": "2026-05-06T06:42:07.596Z",
     "canonical:9db8469f111d27a7": "2026-05-13T08:10:42.769Z",
     "canonical:94acd2d1087ef9dd": "2026-05-06T06:42:07.596Z",
-    "canonical:23d89ee4033a1416": "2026-05-06T06:42:07.596Z",
     "canonical:38c38b2f9b935c7b": "2026-05-06T06:42:07.596Z",
     "canonical:778ae0c54171b31e": "2026-05-06T06:42:07.596Z",
     "canonical:f9e6bc8e3b3543c3": "2026-05-08T20:53:38.687Z",
@@ -813,7 +810,6 @@
     "canonical:30d30348d76c74bb": "2026-05-29T11:48:27.158Z",
     "canonical:40ef868326fd30ff": "2026-05-29T17:55:07.126Z",
     "canonical:aad2d16f8de8b63e": "2026-05-29T17:55:07.126Z",
-    "canonical:e4ece6645315469a": "2026-05-29T17:55:07.126Z",
     "canonical:1df04de60e393fed": "2026-05-29T17:55:07.126Z",
     "canonical:b661e8e93c959d87": "2026-05-31T04:52:04.247Z",
     "canonical:b2ba7fb9dd17dfe9": "2026-05-31T04:52:04.247Z",
@@ -1020,7 +1016,6 @@
     "canonical:5a04d7e1104bec7c": "2026-06-10T23:18:38.796Z",
     "canonical:4372e6f198b3f85d": "2026-06-10T23:18:38.796Z",
     "canonical:f0e84b98d64a6dd1": "2026-06-10T23:18:38.796Z",
-    "canonical:eb9397a55e0d733c": "2026-06-11T01:44:46.869Z",
     "canonical:5c13be71e2802136": "2026-06-11T01:44:46.869Z",
     "canonical:1a265ff27273b417": "2026-06-11T01:44:46.869Z",
     "canonical:a408343a5d65fbb1": "2026-06-11T01:44:46.869Z",
@@ -1168,7 +1163,8 @@
     "canonical:35e5f856ba8cdd00": "2026-06-15T11:27:26.940Z",
     "canonical:2b6b13fd07779d8a": "2026-06-15T11:27:26.940Z",
     "canonical:02988811ee1420ed": "2026-06-15T11:27:26.940Z",
-    "canonical:fb0b6401fc50cfcd": "2026-06-15T11:27:26.940Z"
+    "canonical:fb0b6401fc50cfcd": "2026-06-15T11:27:26.940Z",
+    "canonical:8a584693aa3805ae": "2026-06-15T16:25:40.601Z"
   },
   "jobs": [
     {
@@ -1279,10 +1275,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1294,10 +1290,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1739,30 +1735,6 @@
       ]
     },
     {
-      "id": "canonical:5c3a7585df271d94",
-      "title": "2026 LATAM Investment Analyst (Internship)",
-      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7761282",
-      "location": "São Paulo, Brazil",
-      "department": "",
-      "company": "Schonfeld",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:36b00da4bc44f6c0",
-      "title": "2026 LATAM Operations Analyst (Internship)",
-      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7761284",
-      "location": "São Paulo, Brazil",
-      "department": "",
-      "company": "Schonfeld",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:1deca2b01fe852c8",
       "title": "Quantitative Research / Developer - Intern",
       "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7185553",
@@ -1886,8 +1858,8 @@
       ]
     },
     {
-      "id": "canonical:e4ece6645315469a",
-      "title": "UK Internship Program",
+      "id": "canonical:8a584693aa3805ae",
+      "title": "AI Inference Internship ",
       "url": "https://jobs.ashbyhq.com/perplexity/79a07e2d-6150-4929-80fe-bbe13a641763",
       "location": "",
       "department": "",
@@ -1949,10 +1921,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -1962,10 +1934,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2234,20 +2206,6 @@
       ]
     },
     {
-      "id": "canonical:eb9397a55e0d733c",
-      "title": "People Team: Software Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7774167?gh_jid=7774167",
-      "location": "Hybrid",
-      "department": "",
-      "company": "Cloudflare",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:864b184043940577",
       "title": "Public Policy Intern, APJC (July to December 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7863831?gh_jid=7863831",
@@ -2295,16 +2253,6 @@
       "scoreReasons": [
         "direct ATS"
       ]
-    },
-    {
-      "id": "canonical:23d89ee4033a1416",
-      "title": "IT Support Technician Intern",
-      "url": "https://careers.datadoghq.com/detail/7826176/?gh_jid=7826176",
-      "location": "Paris, France",
-      "department": "",
-      "company": "Datadog",
-      "score": 50,
-      "scoreReasons": []
     },
     {
       "id": "canonical:1df04de60e393fed",
