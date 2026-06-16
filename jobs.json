@@ -1,14 +1,13 @@
 {
-  "generatedAt": "2026-06-16T10:25:08.571Z",
+  "generatedAt": "2026-06-16T15:25:00.747Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1161,
+  "jobCount": 1165,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
     "canonical:2c1230c887d66061": "2026-05-06T06:42:07.596Z",
     "canonical:8f05e926c06f83e4": "2026-05-07T21:00:54.613Z",
-    "canonical:7a3202aa590bb0de": "2026-05-06T06:42:07.596Z",
     "canonical:51d519ad65d99582": "2026-05-06T06:42:07.596Z",
     "canonical:822f979beef7ebc5": "2026-05-06T06:42:07.596Z",
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
@@ -1164,7 +1163,12 @@
     "canonical:02988811ee1420ed": "2026-06-15T11:27:26.940Z",
     "canonical:fb0b6401fc50cfcd": "2026-06-15T11:27:26.940Z",
     "canonical:8a584693aa3805ae": "2026-06-15T16:25:40.601Z",
-    "canonical:36b00da4bc44f6c0": "2026-06-16T10:25:08.571Z"
+    "canonical:36b00da4bc44f6c0": "2026-06-16T10:25:08.571Z",
+    "canonical:bc566a628b0a1bc8": "2026-06-16T15:25:00.747Z",
+    "canonical:5c3a7585df271d94": "2026-06-16T15:25:00.747Z",
+    "canonical:1e4b260af71102a2": "2026-06-16T15:25:00.747Z",
+    "canonical:e6d9cce14ccbac53": "2026-06-16T15:25:00.747Z",
+    "canonical:80683ba5e9cf44e3": "2026-06-16T15:25:00.747Z"
   },
   "jobs": [
     {
@@ -1212,19 +1216,6 @@
       "title": "Intern Software Developer - Fall 2026",
       "url": "https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463",
       "location": "Montreal",
-      "department": "",
-      "company": "Squarepoint Capital",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:7a3202aa590bb0de",
-      "title": "Intern Software Developer - Summer 2026",
-      "url": "https://www.squarepoint-capital.com/open-opportunities?id=7231006&gh_jid=7231006",
-      "location": "Warsaw",
       "department": "",
       "company": "Squarepoint Capital",
       "score": 85,
@@ -1570,10 +1561,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1584,10 +1575,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1721,6 +1712,32 @@
       ]
     },
     {
+      "id": "canonical:bc566a628b0a1bc8",
+      "title": "2026 BSc/MSc/PhD Quantitative Researcher Internship",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7950797",
+      "location": "São Paulo, Brazil",
+      "department": "",
+      "company": "Schonfeld",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:5c3a7585df271d94",
+      "title": "2026 LATAM Investment Analyst (Internship)",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7761282",
+      "location": "São Paulo, Brazil",
+      "department": "",
+      "company": "Schonfeld",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:36b00da4bc44f6c0",
       "title": "2026 LATAM Operations Analyst (Internship)",
       "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8008507",
@@ -1744,6 +1761,18 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1e4b260af71102a2",
+      "title": "Summer Tax/Accounting Intern ",
+      "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7773846003",
+      "location": "Chicago, IL, United States",
+      "department": "",
+      "company": "Old Mission",
+      "score": 30,
+      "scoreReasons": [
+        "lower-fit title"
       ]
     },
     {
@@ -1919,10 +1948,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -1932,10 +1961,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2085,6 +2114,33 @@
       "id": "canonical:30d30348d76c74bb",
       "title": "EMEA Communications Intern",
       "url": "https://jobs.ashbyhq.com/snowflake/b696164c-4865-43f4-940d-b5353755748f",
+      "location": "",
+      "department": "",
+      "company": "Snowflake",
+      "score": 55,
+      "scoreReasons": [
+        "direct ATS",
+        "unknown location"
+      ]
+    },
+    {
+      "id": "canonical:e6d9cce14ccbac53",
+      "title": "Product Marketing Intern (Fall 2026)",
+      "url": "https://jobs.ashbyhq.com/snowflake/3ac79875-b7bb-4078-b9c4-3bd5636e5d9c",
+      "location": "",
+      "department": "",
+      "company": "Snowflake",
+      "score": 35,
+      "scoreReasons": [
+        "direct ATS",
+        "lower-fit title",
+        "unknown location"
+      ]
+    },
+    {
+      "id": "canonical:80683ba5e9cf44e3",
+      "title": "Government Affairs Intern",
+      "url": "https://jobs.ashbyhq.com/snowflake/cade83ae-9727-4497-8e73-8a310a8b6a85",
       "location": "",
       "department": "",
       "company": "Snowflake",
