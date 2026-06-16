@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T05:28:59.414Z",
+  "generatedAt": "2026-06-16T10:25:08.571Z",
   "companyCount": 64,
   "okCount": 63,
   "jobCount": 1161,
@@ -1164,7 +1164,7 @@
     "canonical:02988811ee1420ed": "2026-06-15T11:27:26.940Z",
     "canonical:fb0b6401fc50cfcd": "2026-06-15T11:27:26.940Z",
     "canonical:8a584693aa3805ae": "2026-06-15T16:25:40.601Z",
-    "canonical:7d224ab342468829": "2026-06-15T20:01:02.171Z"
+    "canonical:36b00da4bc44f6c0": "2026-06-16T10:25:08.571Z"
   },
   "jobs": [
     {
@@ -1570,10 +1570,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1584,10 +1584,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1721,8 +1721,8 @@
       ]
     },
     {
-      "id": "canonical:7d224ab342468829",
-      "title": "Copy of 2026 LATAM Operations Analyst (Internship)",
+      "id": "canonical:36b00da4bc44f6c0",
+      "title": "2026 LATAM Operations Analyst (Internship)",
       "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8008507",
       "location": "São Paulo, Brazil",
       "department": "",
@@ -1919,10 +1919,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -1932,10 +1932,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
