@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-17T06:49:09.742Z",
+  "generatedAt": "2026-06-17T11:27:12.169Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1167,
+  "jobCount": 1170,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -775,7 +775,6 @@
     "canonical:b1e942ae8f36d35f": "2026-05-28T16:31:50.003Z",
     "canonical:0a6eb5e80b39fa02": "2026-05-28T16:31:50.003Z",
     "canonical:048062115e7c1def": "2026-05-29T11:48:27.158Z",
-    "canonical:1ec9d98615a94b3b": "2026-05-29T11:48:27.158Z",
     "canonical:e437588bebae9943": "2026-05-29T11:48:27.158Z",
     "canonical:f72a57f59571d881": "2026-05-29T11:48:27.158Z",
     "canonical:789e5db3c1aae655": "2026-05-29T11:48:27.158Z",
@@ -1170,7 +1169,11 @@
     "canonical:3c6099c18b55d40a": "2026-06-17T06:49:09.742Z",
     "canonical:e68e3f66032add3e": "2026-06-17T06:49:09.742Z",
     "canonical:5b93475ac32ee191": "2026-06-17T06:49:09.742Z",
-    "canonical:2a600b101ee31a5b": "2026-06-17T06:49:09.742Z"
+    "canonical:2a600b101ee31a5b": "2026-06-17T06:49:09.742Z",
+    "canonical:411bdab6bb2d495d": "2026-06-17T11:27:12.169Z",
+    "canonical:1cb970dd90b802db": "2026-06-17T11:27:12.169Z",
+    "canonical:db74d5d02de964bf": "2026-06-17T11:27:12.169Z",
+    "canonical:018caff58b5cf441": "2026-06-17T11:27:12.169Z"
   },
   "jobs": [
     {
@@ -1575,10 +1578,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1589,10 +1592,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1962,10 +1965,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -1975,10 +1978,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2049,21 +2052,6 @@
       "score": 75,
       "scoreReasons": [
         "SWE-aligned"
-      ]
-    },
-    {
-      "id": "canonical:1ec9d98615a94b3b",
-      "title": "Software Engineer Intern (Backend) - Warsaw 2026",
-      "url": "https://jobs.ashbyhq.com/snowflake/38f79cb1-c366-4bc5-9965-cc679ee730a4",
-      "location": "",
-      "department": "",
-      "company": "Snowflake",
-      "score": 90,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS",
-        "unknown location"
       ]
     },
     {
@@ -10869,6 +10857,20 @@
       ]
     },
     {
+      "id": "canonical:411bdab6bb2d495d",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/instead/jobs/7761472003",
+      "location": "SF",
+      "department": "Software",
+      "company": "Instead",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:b0a57a3a31d07f87",
       "title": "Data Engineer Intern - Congressional Data",
       "url": "https://jobs.lever.co/sunwatercapital/7681fd31-8d0b-405c-b0e0-7f8c1c87f3c8/apply",
@@ -12957,6 +12959,19 @@
       "scoreReasons": []
     },
     {
+      "id": "canonical:1cb970dd90b802db",
+      "title": "Research and Development Intern - Research & Development: AI/ML",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--AI-ML_JR-202612795",
+      "location": "Mountain View, CA / Warren, MI",
+      "department": "AI/ML/Data",
+      "company": "General Motors",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:0df76adfa71f50bc",
       "title": "Systems Engineer Intern",
       "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235413",
@@ -13033,6 +13048,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:db74d5d02de964bf",
+      "title": "Systems Research Engineer Intern - GPU Programming",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5157559007",
+      "location": "SF",
+      "department": "AI/ML/Data",
+      "company": "Together AI",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -13820,6 +13849,20 @@
       "company": "Texas Instruments",
       "score": 50,
       "scoreReasons": []
+    },
+    {
+      "id": "canonical:018caff58b5cf441",
+      "title": "Software Developer Intern",
+      "url": "https://jobs.ashbyhq.com/tempo-io/ce1025fe-9be4-43e4-b1fb-3f1cf3425fab/application",
+      "location": "Toronto, ON, Canada",
+      "department": "Software",
+      "company": "Tempo ",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
     },
     {
       "id": "canonical:12cd06c0eec80152",

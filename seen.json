@@ -49,8 +49,8 @@
     "8491055002",
     "8491138002",
     "8491128002",
-    "7297598002",
     "7297611002",
+    "7297598002",
     "7302611002",
     "7609197002",
     "7586061002",
@@ -108,8 +108,8 @@
   ],
   "Stripe": [
     "7544547",
-    "7285974",
     "7874965",
+    "7285974",
     "7176977",
     "7532256",
     "7991718",
@@ -119,7 +119,6 @@
     "7011263002"
   ],
   "Snowflake": [
-    "38f79cb1-c366-4bc5-9965-cc679ee730a4",
     "41e65c6c-a01e-4f40-af14-ae75d3b95e27",
     "897e1850-c590-4462-b187-0516b65b2034",
     "e2412cd5-19dd-44f8-addd-c9ef3c99ff82",
@@ -874,6 +873,7 @@
     "simplify:17c17e13-cd4c-441d-8d4c-0da4520b0c37",
     "simplify:0686730f-5d35-438b-9745-60e0e744adff",
     "simplify:6516400c-f9b1-40bb-a008-78c1fa27b414",
+    "simplify:ba8c4dd2-2dd5-48f2-a9c4-0c716b61b1db",
     "simplify:b22e2d71-0b55-45af-b3cf-939113b4807c",
     "simplify:d084a76f-d982-4334-b23c-16232dd2c71a",
     "simplify:32e24b4c-ba64-4d4b-b70b-2cdc68dc2aab",
@@ -1040,12 +1040,14 @@
     "simplify:1b469f2c-e8d1-49b0-8721-b03d77131428",
     "simplify:b39bc3cc-5f55-4c1a-99c6-aa2ddeb9f8d8",
     "simplify:b47e22be-63c8-4907-bae9-8d159b87afa9",
+    "simplify:9c4619b9-f695-4144-b0f7-42620ccfbc1e",
     "simplify:1734e112-a0d8-49a9-b887-3d1ec517cec8",
     "simplify:b7154b79-2d09-4d3d-8208-f32ccf9b1d14",
     "simplify:d717ac2f-5554-43f7-85ef-3f7f993fd3f2",
     "simplify:e899751e-0313-4b38-844c-137b5cba368a",
     "simplify:480b1ffd-7a33-4a90-9d19-fd390e121055",
     "simplify:58f15152-4d52-4c28-8a28-b8ec717ba3b0",
+    "simplify:27f1bae4-fe71-4489-96fd-9707e0ba1cfb",
     "simplify:22d00642-f6f4-4b29-8f19-16686852eeb5",
     "simplify:5c99289c-7083-430e-9511-14fa13015733",
     "simplify:cc2fec71-d445-40e3-be3e-b8dd51184164",
@@ -1108,7 +1110,9 @@
     "simplify:038275ef-f4df-4c01-a86f-f483aa45c42f",
     "simplify:1fd49f77-2ec2-4913-bb7a-135d96ce67f0",
     "simplify:b099116b-63e4-4ecb-8557-b5c6dffa3d3d",
-    "simplify:28211e9c-64fa-433f-b304-32c0827c2803"
+    "simplify:28211e9c-64fa-433f-b304-32c0827c2803",
+    "simplify:fdaf6d6b-7df2-4e68-ae6c-c8808e05e300",
+    "simplify:6e304a0f-04de-4491-8600-ba72701d74a7"
   ],
   "vanshb03": [
     "vansh:df70fa57-977b-4f31-832e-a0e57ed070b5",
