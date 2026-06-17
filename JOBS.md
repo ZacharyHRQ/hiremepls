@@ -1,6 +1,6 @@
 # Open Internships
 
-**1161** internships across **63/64** companies — last updated 2026-06-17.
+**1160** internships across **63/64** companies — last updated 2026-06-17.
 
 ## Companies
 
@@ -421,7 +421,6 @@
 - [Trane Technologies](#trane-technologies) (1)
 - [TransMarket Group](#transmarket-group) (1)
 - [Trata](#trata) (1)
-- [Trellix](#trellix) (1)
 - [TripleRing](#triplering) (1)
 - [Truveta](#truveta) (1)
 - [Uber](#uber) (1)
@@ -3640,12 +3639,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Research Scientist Intern](https://www.workatastartup.com/jobs/94620) | 81 | San Francisco, CA / New York, NY | — | 2026-05-14 |
-
-## Trellix
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Business Operations & AI Data Analyst Intern](https://trellix.wd1.myworkdayjobs.com/en-US/EnterpriseCareers/job/Remote-United-States/Business-Operations---AI-Data-Analyst-Intern_JR0037670) | 68 | Remote in USA | AI/ML/Data | 2026-06-17 |
 
 ## TripleRing
 

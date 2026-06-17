@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-17T17:36:29.585Z",
+  "generatedAt": "2026-06-17T19:48:49.792Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1161,
+  "jobCount": 1160,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1156,7 +1156,6 @@
     "canonical:4168fcd2f5f91a08": "2026-06-17T17:36:29.585Z",
     "canonical:1cb970dd90b802db": "2026-06-17T17:36:29.585Z",
     "canonical:db74d5d02de964bf": "2026-06-17T17:36:29.585Z",
-    "canonical:9af667f65539a752": "2026-06-17T17:36:29.585Z",
     "canonical:99aaad0a301ea911": "2026-06-17T17:36:29.585Z",
     "canonical:c32262e36ae9b8e5": "2026-06-17T17:36:29.585Z",
     "canonical:9656b2c0ddef48e4": "2026-06-17T17:36:29.585Z",
@@ -13635,19 +13634,6 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:9af667f65539a752",
-      "title": "Business Operations & AI Data Analyst Intern",
-      "url": "https://trellix.wd1.myworkdayjobs.com/en-US/EnterpriseCareers/job/Remote-United-States/Business-Operations---AI-Data-Analyst-Intern_JR0037670",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "Trellix",
-      "score": 68,
-      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
