@@ -1,6 +1,6 @@
 # Open Internships
 
-**1169** internships across **63/64** companies — last updated 2026-06-18.
+**1171** internships across **63/64** companies — last updated 2026-06-18.
 
 ## Companies
 
@@ -322,6 +322,7 @@
 - [Periodic Labs](#periodic-labs) (1)
 - [Perplexity](#perplexity) (3)
 - [Perplexity AI](#perplexity-ai) (1)
+- [Persistent Systems](#persistent-systems) (1)
 - [Phia](#phia) (1)
 - [Physical Intelligence](#physical-intelligence) (2)
 - [Pinterest](#pinterest) (4)
@@ -423,7 +424,7 @@
 - [Together AI](#together-ai) (3)
 - [Topel Forman LLC](#topel-forman-llc) (1)
 - [Tower Research Capital](#tower-research-capital) (4)
-- [Toyota Research Institute](#toyota-research-institute) (2)
+- [Toyota Research Institute](#toyota-research-institute) (3)
 - [Tradeweb](#tradeweb) (1)
 - [Trane Technologies](#trane-technologies) (1)
 - [TransMarket Group](#transmarket-group) (1)
@@ -2725,6 +2726,12 @@
 | --- | --- | --- | --- | --- |
 | [Intern - Search Machine Learning Engineer](https://jobs.ashbyhq.com/Perplexity/71168628-1998-47d3-87a9-be7bc56a430d/application) | 93 | London, UK | AI/ML/Data | 2026-05-09 |
 
+## Persistent Systems
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Embedded Software Engineer Intern](https://careers-persistentsystems.icims.com/jobs/2258/job?mobile=true&needsRedirect=false) | 85 | NYC | Hardware | 2026-06-18 |
+
 ## Phia
 
 | Title | Score | Location | Department | First seen |
@@ -2787,8 +2794,8 @@
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-05-09 |
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-05-09 |
 | [2026 Technology Internship – Software Engineer](https://boards.greenhouse.io/point72/jobs/8406727002?gh_jid=8406727002) | 93 | Warsaw, Poland | — | 2026-05-06 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -3665,6 +3672,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Energy & Materials Intern - XRD Advanced Analysis](https://jobs.lever.co/tri/15969a29-b217-482f-8c67-67d091b054c8/apply) | 68 | Mountain View, CA | AI/ML/Data | 2026-06-18 |
 | [Human Interactive Driving Intern - World Models](https://jobs.lever.co/tri/63d61db3-ac43-4c0d-8b9b-5006e3b92149/apply) | 68 | Mountain View, CA | AI/ML/Data | 2026-06-10 |
 | [Human-Centered AI Intern: Human-Computer Interaction](https://jobs.lever.co/tri/000be2f3-b77c-4719-8476-0718c4c49a19/apply) | 68 | Mountain View, CA | AI/ML/Data | 2026-05-09 |
 

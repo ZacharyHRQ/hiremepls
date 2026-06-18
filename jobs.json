@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-18T06:55:12.727Z",
+  "generatedAt": "2026-06-18T11:04:19.200Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1169,
+  "jobCount": 1171,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1172,7 +1172,9 @@
     "canonical:c295d1bcbc774f57": "2026-06-18T06:55:12.727Z",
     "canonical:644048b3b78a8390": "2026-06-18T06:55:12.727Z",
     "canonical:ba7d90657c7616fd": "2026-06-18T06:55:12.727Z",
-    "canonical:d8b6ff14ef2e8d2f": "2026-06-18T06:55:12.727Z"
+    "canonical:d8b6ff14ef2e8d2f": "2026-06-18T06:55:12.727Z",
+    "canonical:2490d8bfc16fc718": "2026-06-18T11:04:19.200Z",
+    "canonical:7dd8143286e8669f": "2026-06-18T11:04:19.200Z"
   },
   "jobs": [
     {
@@ -1551,10 +1553,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1565,10 +1567,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -9492,6 +9494,19 @@
       ]
     },
     {
+      "id": "canonical:2490d8bfc16fc718",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://careers-persistentsystems.icims.com/jobs/2258/job?mobile=true&needsRedirect=false",
+      "location": "NYC",
+      "department": "Hardware",
+      "company": "Persistent Systems",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:f0728ff29575654a",
       "title": "AI Kernel Engineer Intern - Kernel Optimization",
       "url": "https://apply.workable.com/quadric-dot-i-o-inc/j/6BEF4752B5/apply",
@@ -13860,6 +13875,19 @@
       "location": "NYC",
       "department": "AI/ML/Data",
       "company": "RTW Investments",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:7dd8143286e8669f",
+      "title": "Energy & Materials Intern - XRD Advanced Analysis",
+      "url": "https://jobs.lever.co/tri/15969a29-b217-482f-8c67-67d091b054c8/apply",
+      "location": "Mountain View, CA",
+      "department": "AI/ML/Data",
+      "company": "Toyota Research Institute",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
