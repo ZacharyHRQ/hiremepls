@@ -1,6 +1,6 @@
 # Open Internships
 
-**1163** internships across **63/64** companies — last updated 2026-06-18.
+**1169** internships across **63/64** companies — last updated 2026-06-18.
 
 ## Companies
 
@@ -60,6 +60,7 @@
 - [Base Power](#base-power) (4)
 - [beBeeManufacturingEngineering](#bebeemanufacturingengineering) (1)
 - [Berkshire Hathaway Energy](#berkshire-hathaway-energy) (4)
+- [Beyondsoft](#beyondsoft) (1)
 - [BillionToOne](#billiontoone) (1)
 - [Black Box](#black-box) (2)
 - [Blackstone](#blackstone) (1)
@@ -90,7 +91,6 @@
 - [Cerebras](#cerebras) (2)
 - [Chartwells Higher Education Dining Services](#chartwells-higher-education-dining-services) (1)
 - [Cherry Bekaert](#cherry-bekaert) (2)
-- [Chubb](#chubb) (1)
 - [Ciena](#ciena) (3)
 - [Cirrus Logic](#cirrus-logic) (1)
 - [Citadel](#citadel) (4)
@@ -116,6 +116,7 @@
 - [Crest Industries](#crest-industries) (1)
 - [Cresta](#cresta) (2)
 - [Cribl](#cribl) (1)
+- [Crowdstrike](#crowdstrike) (2)
 - [Cubist Systematic Strategies](#cubist-systematic-strategies) (1)
 - [Cupertino Electric, Inc.](#cupertino-electric-inc) (1)
 - [Cushman & Wakefield](#cushman-wakefield) (1)
@@ -211,6 +212,7 @@
 - [Howard University](#howard-university) (1)
 - [HPM Building Supply](#hpm-building-supply) (1)
 - [Hunt Oil Company](#hunt-oil-company) (3)
+- [iHerb](#iherb) (1)
 - [Illinois Tool Works](#illinois-tool-works) (1)
 - [IMC Trading](#imc-trading) (9)
 - [Impulse Space](#impulse-space) (1)
@@ -238,6 +240,7 @@
 - [KION Group](#kion-group) (1)
 - [Kioxia](#kioxia) (1)
 - [KLA](#kla) (1)
+- [KnowBe4](#knowbe4) (1)
 - [Kognitos](#kognitos) (1)
 - [KPH Healthcare Services](#kph-healthcare-services) (1)
 - [Kudu Dynamics](#kudu-dynamics) (1)
@@ -307,9 +310,8 @@
 - [onsemi](#onsemi) (3)
 - [Optiver](#optiver) (1)
 - [Oracle](#oracle) (7)
-- [Oura](#oura) (1)
 - [Output Biosciences](#output-biosciences) (1)
-- [Paccar](#paccar) (2)
+- [Paccar](#paccar) (3)
 - [Palantir](#palantir) (5)
 - [Paragon](#paragon) (1)
 - [PathAI](#pathai) (2)
@@ -352,6 +354,7 @@
 - [Roku](#roku) (1)
 - [Root Access](#root-access) (1)
 - [Royal Bank of Canada](#royal-bank-of-canada) (1)
+- [RTW Investments](#rtw-investments) (1)
 - [RTX](#rtx) (2)
 - [Rundoo](#rundoo) (1)
 - [Salesforce](#salesforce) (1)
@@ -438,6 +441,7 @@
 - [Veeva](#veeva) (1)
 - [Veeva Systems](#veeva-systems) (1)
 - [Veolia](#veolia) (1)
+- [Veracyte](#veracyte) (1)
 - [Verisk](#verisk) (1)
 - [Verkada](#verkada) (5)
 - [Viridien](#viridien) (1)
@@ -875,6 +879,12 @@
 | [Intern – Data Science - Electric Distribution](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003850) | 60 | Sioux City, IA / Davenport, IA | AI/ML/Data | 2026-05-09 |
 | [Intern – Data Science - Operations Sustainment](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003906) | 60 | Des Moines, IA | AI/ML/Data | 2026-05-09 |
 
+## Beyondsoft
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://careers-beyondsoft.icims.com/jobs/10912/job?mobile=true&needsRedirect=false) | 85 | United States | Software | 2026-06-18 |
+
 ## BillionToOne
 
 | Title | Score | Location | Department | First seen |
@@ -1093,12 +1103,6 @@
 | [Spring 2026 Tax Intern](https://www.tealhq.com/job/spring-2026-tax-intern-tysons_9130861e-982c-42d6-ad09-fda6ec66bc75?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 22 | Tysons, VA | — | 2026-05-16 |
 | [Summer 2026 Audit Intern](https://www.linkedin.com/jobs/view/4219370046) | 22 | Chicago, IL | — | 2026-05-16 |
 
-## Chubb
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Technology Summer Internship](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/26151) | 60 | Philadelphia, PA / NYC | Software | 2026-05-09 |
-
 ## Ciena
 
 | Title | Score | Location | Department | First seen |
@@ -1274,6 +1278,13 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Revenue Enablement Intern](https://cribl.io/job-detail/?gh_jid=5165439004) | 50 | Remote - United States | — | 2026-06-16 |
+
+## Crowdstrike
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [GTM Automation Intern](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/GTM-Automation-Intern--Remote-_R29083) | 68 | Remote in USA / Remote in Canada | AI/ML/Data | 2026-06-18 |
+| [Intelligence Launch Intern](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Intelligence-Launch-Intern---Summer-2026--Remote-_R26263) | 68 | Remote in USA | AI/ML/Data | 2026-06-18 |
 
 ## Cubist Systematic Strategies
 
@@ -1891,6 +1902,12 @@
 | [Software Engineer Intern - Summer 2026](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/891) | 85 | Dallas, TX | Software | 2026-05-09 |
 | [Technology Research Intern - Summer 2026](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/897) | 60 | Dallas, TX | AI/ML/Data | 2026-05-09 |
 
+## iHerb
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Development Intern](https://job-boards.greenhouse.io/iherb/jobs/7776154003) | 68 | Remote in USA | Software | 2026-06-18 |
+
 ## Illinois Tool Works
 
 | Title | Score | Location | Department | First seen |
@@ -2070,6 +2087,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [AI & Process Automation Intern](https://kla.wd1.myworkdayjobs.com/en-US/search/job/Ann-Arbor-MI/AI---Process-Automation-Intern_2532515-1) | 68 | Ann Arbor, MI | Data Science, AI & Machine Learning | 2026-05-09 |
+
+## KnowBe4
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://job-boards.greenhouse.io/knowbe4/jobs/8597668002) | 93 | Clearwater, FL | Software | 2026-06-18 |
 
 ## Kognitos
 
@@ -2616,12 +2639,6 @@
 | [Data Analyst Intern](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/326682) | 60 | Nashville, TN | AI/ML/Data | 2026-05-09 |
 | [Oracle Pathways Software School Intern](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/318087) | 60 | Nashville, TN | Software | 2026-05-09 |
 
-## Oura
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Hardware Research & Development Intern](https://job-boards.greenhouse.io/oura/jobs/4238605009) | 58 | SF | Hardware | 2026-05-27 |
-
 ## Output Biosciences
 
 | Title | Score | Location | Department | First seen |
@@ -2632,6 +2649,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data Scientist Intern](https://jobs.paccar.com/job/Lewisville-Data-Scientist-Fall-Internship-2026-TX-75067/1405771033/?ats=successfactors) | 85 | Lewisville, TX | AI/ML/Data | 2026-06-18 |
 | [Data Analyst Intern Fall 2026](https://jobs.paccar.com/job/Columbus-Data-Analyst-Intern-Fall-2026-MS-39701/1283451401/?ats=successfactors) | 60 | Columbus, MS | AI/ML/Data | 2026-05-16 |
 | [Facilities MRO Information Systems Intern](https://jobs.paccar.com/job/Columbus-Facilities-MRO-Information-Systems-Fall-2026-Intern-MS-39701/1285884201/?ats=successfactors) | 60 | Columbus, MS | AI/ML/Data | 2026-05-16 |
 
@@ -2769,8 +2787,8 @@
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-05-09 |
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-05-09 |
 | [2026 Technology Internship – Software Engineer](https://boards.greenhouse.io/point72/jobs/8406727002?gh_jid=8406727002) | 93 | Warsaw, Poland | — | 2026-05-06 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -2964,6 +2982,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Data Analyst Developer Intern](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Data-Analyst-Developer-Intern--8-Months-_R-0000169171) | 93 | Toronto, ON, Canada | AI/ML/Data | 2026-06-17 |
+
+## RTW Investments
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI Intern](https://job-boards.greenhouse.io/rtwinvestments/jobs/5267785008) | 68 | NYC | AI/ML/Data | 2026-06-18 |
 
 ## RTX
 
@@ -3748,6 +3772,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Firmware Engineer Intern](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000129605801) | 83 | Montreal, QC, Canada | Hardware | 2026-06-02 |
+
+## Veracyte
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Supply Chain & Data Analytics Intern](https://veracyte.com/job-detail?gh_jid=5163248007) | 60 | San Bruno, CA / San Diego, CA | AI/ML/Data | 2026-06-18 |
 
 ## Verisk
 

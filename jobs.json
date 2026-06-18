@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-18T01:59:36.874Z",
+  "generatedAt": "2026-06-18T06:55:12.727Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1163,
+  "jobCount": 1169,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -92,7 +92,6 @@
     "canonical:5d229b5f5a269416": "2026-05-09T15:28:15.527Z",
     "canonical:f45dd43f28f73753": "2026-05-09T15:28:15.527Z",
     "canonical:c1cca79abc785a77": "2026-05-09T15:28:15.527Z",
-    "canonical:9e84ec0884e61780": "2026-05-09T15:28:15.527Z",
     "canonical:ec363c4a9a5827a7": "2026-05-09T15:28:15.527Z",
     "canonical:01595ebdfa2efb53": "2026-05-09T15:28:15.527Z",
     "canonical:bea2ef245d19ee31": "2026-05-09T15:28:15.527Z",
@@ -722,7 +721,6 @@
     "canonical:2ffb9525477b9f1d": "2026-05-26T23:56:50.661Z",
     "canonical:0909350769decf2b": "2026-05-27T02:52:54.000Z",
     "canonical:42ec5a9361a648f4": "2026-05-27T02:52:54.000Z",
-    "canonical:bf5373d5b6412f24": "2026-05-27T02:52:54.000Z",
     "canonical:da1d1f81b47de301": "2026-05-27T02:52:54.000Z",
     "canonical:aaf453fcebecd6b3": "2026-05-27T02:52:54.000Z",
     "canonical:26834ab146689c4d": "2026-05-27T02:52:54.000Z",
@@ -1166,7 +1164,15 @@
     "canonical:1aea1741109456e8": "2026-06-18T01:59:36.874Z",
     "canonical:17eb1095d8127fb2": "2026-06-18T01:59:36.874Z",
     "canonical:d2d03ff73b2ce53b": "2026-06-18T01:59:36.874Z",
-    "canonical:7a84ea827ea42d52": "2026-06-18T01:59:36.874Z"
+    "canonical:7a84ea827ea42d52": "2026-06-18T01:59:36.874Z",
+    "canonical:0c21642d13aa563b": "2026-06-18T06:55:12.727Z",
+    "canonical:800d0b65516f3df5": "2026-06-18T06:55:12.727Z",
+    "canonical:79486df5e2a99eb7": "2026-06-18T06:55:12.727Z",
+    "canonical:4e5bbd54f3ccc539": "2026-06-18T06:55:12.727Z",
+    "canonical:c295d1bcbc774f57": "2026-06-18T06:55:12.727Z",
+    "canonical:644048b3b78a8390": "2026-06-18T06:55:12.727Z",
+    "canonical:ba7d90657c7616fd": "2026-06-18T06:55:12.727Z",
+    "canonical:d8b6ff14ef2e8d2f": "2026-06-18T06:55:12.727Z"
   },
   "jobs": [
     {
@@ -1545,10 +1551,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1559,10 +1565,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -2661,18 +2667,6 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:9e84ec0884e61780",
-      "title": "Technology Summer Internship",
-      "url": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/26151",
-      "location": "Philadelphia, PA / NYC",
-      "department": "Software",
-      "company": "Chubb",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {
@@ -9677,18 +9671,6 @@
       "scoreReasons": []
     },
     {
-      "id": "canonical:bf5373d5b6412f24",
-      "title": "Hardware Research & Development Intern",
-      "url": "https://job-boards.greenhouse.io/oura/jobs/4238605009",
-      "location": "SF",
-      "department": "Hardware",
-      "company": "Oura",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:da1d1f81b47de301",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/base-power/5353ea33-57d4-46fa-9a96-e392a3f841bc/application",
@@ -13778,6 +13760,110 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:0c21642d13aa563b",
+      "title": "Data Scientist Intern",
+      "url": "https://jobs.paccar.com/job/Lewisville-Data-Scientist-Fall-Internship-2026-TX-75067/1405771033/?ats=successfactors",
+      "location": "Lewisville, TX",
+      "department": "AI/ML/Data",
+      "company": "Paccar",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:800d0b65516f3df5",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8597668002",
+      "location": "Clearwater, FL",
+      "department": "Software",
+      "company": "KnowBe4",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:79486df5e2a99eb7",
+      "title": "Supply Chain & Data Analytics Intern",
+      "url": "https://veracyte.com/job-detail?gh_jid=5163248007",
+      "location": "San Bruno, CA / San Diego, CA",
+      "department": "AI/ML/Data",
+      "company": "Veracyte",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:4e5bbd54f3ccc539",
+      "title": "GTM Automation Intern",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/GTM-Automation-Intern--Remote-_R29083",
+      "location": "Remote in USA / Remote in Canada",
+      "department": "AI/ML/Data",
+      "company": "Crowdstrike",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c295d1bcbc774f57",
+      "title": "Intelligence Launch Intern",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Intelligence-Launch-Intern---Summer-2026--Remote-_R26263",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "Crowdstrike",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:644048b3b78a8390",
+      "title": "Software Engineer Intern",
+      "url": "https://careers-beyondsoft.icims.com/jobs/10912/job?mobile=true&needsRedirect=false",
+      "location": "United States",
+      "department": "Software",
+      "company": "Beyondsoft",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:ba7d90657c7616fd",
+      "title": "Software Development Intern",
+      "url": "https://job-boards.greenhouse.io/iherb/jobs/7776154003",
+      "location": "Remote in USA",
+      "department": "Software",
+      "company": "iHerb",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:d8b6ff14ef2e8d2f",
+      "title": "AI Intern",
+      "url": "https://job-boards.greenhouse.io/rtwinvestments/jobs/5267785008",
+      "location": "NYC",
+      "department": "AI/ML/Data",
+      "company": "RTW Investments",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
