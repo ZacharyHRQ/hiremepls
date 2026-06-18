@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-18T11:04:19.200Z",
+  "generatedAt": "2026-06-18T14:20:35.998Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1171,
+  "jobCount": 1172,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -775,7 +775,6 @@
     "canonical:0738d4357b35fcb5": "2026-06-01T15:32:50.645Z",
     "canonical:801c4d70e009c142": "2026-06-01T22:35:57.770Z",
     "canonical:e3b70e287d0e2aef": "2026-06-01T22:35:57.770Z",
-    "canonical:c3572584ec9f08b4": "2026-06-01T22:35:57.770Z",
     "canonical:b4a502570f796f0f": "2026-06-01T22:35:57.770Z",
     "canonical:66ba15b883ef460c": "2026-06-01T22:35:57.770Z",
     "canonical:6cdd1633b8f5ce3a": "2026-06-01T23:55:48.935Z",
@@ -1021,7 +1020,6 @@
     "canonical:ed9a44e022b031bf": "2026-06-13T15:55:40.354Z",
     "canonical:60d48ea9b4193a8f": "2026-06-13T17:12:44.534Z",
     "canonical:a54dfaa9c2670ee3": "2026-06-13T17:12:44.534Z",
-    "canonical:6a08b8735bc24eb5": "2026-06-13T18:42:57.240Z",
     "canonical:917c8771cd813a8d": "2026-06-13T18:42:57.240Z",
     "canonical:2e1957ef2ef86ad4": "2026-06-13T18:42:57.240Z",
     "canonical:8d4bdf6d1fa7a76e": "2026-06-13T18:42:57.240Z",
@@ -1144,7 +1142,6 @@
     "canonical:018caff58b5cf441": "2026-06-17T11:27:12.169Z",
     "canonical:80ea03d7469b02b7": "2026-06-17T14:35:40.368Z",
     "canonical:c24fa2c293373870": "2026-06-17T17:36:29.585Z",
-    "canonical:8c45020d76e40a27": "2026-06-17T17:36:29.585Z",
     "canonical:4168fcd2f5f91a08": "2026-06-17T17:36:29.585Z",
     "canonical:1cb970dd90b802db": "2026-06-17T17:36:29.585Z",
     "canonical:db74d5d02de964bf": "2026-06-17T17:36:29.585Z",
@@ -1166,7 +1163,6 @@
     "canonical:d2d03ff73b2ce53b": "2026-06-18T01:59:36.874Z",
     "canonical:7a84ea827ea42d52": "2026-06-18T01:59:36.874Z",
     "canonical:0c21642d13aa563b": "2026-06-18T06:55:12.727Z",
-    "canonical:800d0b65516f3df5": "2026-06-18T06:55:12.727Z",
     "canonical:79486df5e2a99eb7": "2026-06-18T06:55:12.727Z",
     "canonical:4e5bbd54f3ccc539": "2026-06-18T06:55:12.727Z",
     "canonical:c295d1bcbc774f57": "2026-06-18T06:55:12.727Z",
@@ -1174,7 +1170,12 @@
     "canonical:ba7d90657c7616fd": "2026-06-18T06:55:12.727Z",
     "canonical:d8b6ff14ef2e8d2f": "2026-06-18T06:55:12.727Z",
     "canonical:2490d8bfc16fc718": "2026-06-18T11:04:19.200Z",
-    "canonical:7dd8143286e8669f": "2026-06-18T11:04:19.200Z"
+    "canonical:7dd8143286e8669f": "2026-06-18T11:04:19.200Z",
+    "canonical:9ad651191c50cbc1": "2026-06-18T14:20:35.998Z",
+    "canonical:f5d84370157fe2ee": "2026-06-18T14:20:35.998Z",
+    "canonical:a421f7ccf418179e": "2026-06-18T14:20:35.998Z",
+    "canonical:4d53d98827cc1de5": "2026-06-18T14:20:35.998Z",
+    "canonical:360f81d0ff355ed6": "2026-06-18T14:20:35.998Z"
   },
   "jobs": [
     {
@@ -7481,6 +7482,18 @@
       ]
     },
     {
+      "id": "canonical:9ad651191c50cbc1",
+      "title": "PhD Residency Intern",
+      "url": "https://x.company/careers/8511401002?gh_jid=8511401002",
+      "location": "Mountain View, CA",
+      "department": "AI/ML/Data",
+      "company": "X Development",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:1195698531e1f470",
       "title": "PhD Machine Learning Intern - Visual - Recommender Systems",
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7255640",
@@ -8514,19 +8527,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:8c45020d76e40a27",
-      "title": "PhD Research Intern - Security and Privacy",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1",
-      "location": "Santa Clara, CA",
-      "department": "AI/ML/Data",
-      "company": "NVIDIA",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -9804,6 +9804,19 @@
       ]
     },
     {
+      "id": "canonical:f5d84370157fe2ee",
+      "title": "Financial Analyst Intern",
+      "url": "https://fhlbtopeka.wd1.myworkdayjobs.com/FHLBT/job/Topeka-Kansas/Member-Solutions-Intern_JR100348",
+      "location": "Topeka, KS",
+      "department": "AI/ML/Data",
+      "company": "FHLBank Topeka",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:58404cccedc982e2",
       "title": "Field Engineering Intern",
       "url": "https://jobs.ashbyhq.com/lambda/e0e555b9-a009-43c4-bd64-57e74cfd67f1/application",
@@ -10086,6 +10099,16 @@
       ]
     },
     {
+      "id": "canonical:a421f7ccf418179e",
+      "title": "Tools Engineering Intern",
+      "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235428",
+      "location": "Auburn Hills, MI / Southfield, MI",
+      "department": "Hardware",
+      "company": "Magna",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
       "id": "canonical:9e2ca9c244113a9f",
       "title": "Computer Vision/AI Intern - Computer Vision/AI",
       "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8560657002",
@@ -10266,18 +10289,6 @@
       ]
     },
     {
-      "id": "canonical:c3572584ec9f08b4",
-      "title": "Automotive Analyst Intern",
-      "url": "https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2026832",
-      "location": "Gwinnett County, GA",
-      "department": "AI/ML/Data",
-      "company": "Hearst",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:b4a502570f796f0f",
       "title": "Generative AI Developer Intern",
       "url": "https://careers-cotiviti.icims.com/jobs/19214/job?mobile=true&needsRedirect=false",
@@ -10321,6 +10332,20 @@
       "location": "Palo Alto, CA",
       "department": "Software",
       "company": "GenBio AI",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:4d53d98827cc1de5",
+      "title": "Quality Engineer Intern - ERP Data Migration - Quality Engineering",
+      "url": "https://imerys.wd3.myworkdayjobs.com/imerys_career2/job/Niagara-Falls-New-York-USA/Intern_REQ-11538",
+      "location": "Niagara Falls, NY",
+      "department": "AI/ML/Data",
+      "company": "Imerys",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -10742,19 +10767,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:6a08b8735bc24eb5",
-      "title": "Multimedia Development Intern",
-      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Multimedia-development-intern_R107331",
-      "location": "Palo Alto, CA",
-      "department": "AI/ML/Data",
-      "company": "Tencent",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -12742,6 +12754,20 @@
       ]
     },
     {
+      "id": "canonical:360f81d0ff355ed6",
+      "title": "Software Engineer Intern",
+      "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Canton-Engagement-Hub-OH/Software-Engineer-Intern---Fall-2026_2601751-1",
+      "location": "Sharonville, OH / Canton, OH / Ohio",
+      "department": "Software",
+      "company": "Synchrony Financial",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:d418628a011a1708",
       "title": "Developer Intern - Client Secrets Management",
       "url": "https://jobs.ashbyhq.com/1password/d9909a9a-d941-404d-a7f2-5021670ffd2c/application",
@@ -13788,20 +13814,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:800d0b65516f3df5",
-      "title": "Software Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8597668002",
-      "location": "Clearwater, FL",
-      "department": "Software",
-      "company": "KnowBe4",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
