@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-18T17:39:20.618Z",
+  "generatedAt": "2026-06-18T19:54:13.355Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1176,
+  "jobCount": 1171,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -772,7 +772,6 @@
     "canonical:3006133af70a93bd": "2026-05-31T08:09:00.139Z",
     "canonical:c7cb2fdebec14a1b": "2026-06-01T03:37:04.741Z",
     "canonical:8ecb94421f2672b5": "2026-06-01T09:03:18.496Z",
-    "canonical:0738d4357b35fcb5": "2026-06-01T15:32:50.645Z",
     "canonical:801c4d70e009c142": "2026-06-01T22:35:57.770Z",
     "canonical:e3b70e287d0e2aef": "2026-06-01T22:35:57.770Z",
     "canonical:b4a502570f796f0f": "2026-06-01T22:35:57.770Z",
@@ -1086,7 +1085,6 @@
     "canonical:7b82545edd92979c": "2026-06-16T21:42:43.395Z",
     "canonical:a67713b89b2d0000": "2026-06-16T23:09:30.532Z",
     "canonical:4657deb65ec280ac": "2026-06-16T23:09:30.532Z",
-    "canonical:177f63d0dcae01a9": "2026-06-16T23:09:30.532Z",
     "canonical:24b247ecdb933fa9": "2026-06-16T23:09:30.532Z",
     "canonical:46a706d202abfbff": "2026-06-16T23:09:30.532Z",
     "canonical:e3e832551adf1c5f": "2026-06-16T23:09:30.532Z",
@@ -1121,7 +1119,6 @@
     "canonical:ec7b5f1c953f0acf": "2026-06-17T06:49:09.742Z",
     "canonical:72a04379c4f2bf88": "2026-06-17T06:49:09.742Z",
     "canonical:1188eeec8fc3af96": "2026-06-17T06:49:09.742Z",
-    "canonical:a8319d4cdb4893b7": "2026-06-17T06:49:09.742Z",
     "canonical:ced220b497a9373a": "2026-06-17T06:49:09.742Z",
     "canonical:7af4401d4caf3f63": "2026-06-17T06:49:09.742Z",
     "canonical:5afaf2b75825991d": "2026-06-17T06:49:09.742Z",
@@ -1163,11 +1160,9 @@
     "canonical:7a84ea827ea42d52": "2026-06-18T01:59:36.874Z",
     "canonical:0c21642d13aa563b": "2026-06-18T06:55:12.727Z",
     "canonical:79486df5e2a99eb7": "2026-06-18T06:55:12.727Z",
-    "canonical:4e5bbd54f3ccc539": "2026-06-18T06:55:12.727Z",
     "canonical:c295d1bcbc774f57": "2026-06-18T06:55:12.727Z",
     "canonical:644048b3b78a8390": "2026-06-18T06:55:12.727Z",
     "canonical:ba7d90657c7616fd": "2026-06-18T06:55:12.727Z",
-    "canonical:d8b6ff14ef2e8d2f": "2026-06-18T06:55:12.727Z",
     "canonical:2490d8bfc16fc718": "2026-06-18T11:04:19.200Z",
     "canonical:7dd8143286e8669f": "2026-06-18T11:04:19.200Z",
     "canonical:9ad651191c50cbc1": "2026-06-18T14:20:35.998Z",
@@ -1558,10 +1553,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1572,10 +1567,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1960,10 +1955,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -1973,10 +1968,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -10283,18 +10278,6 @@
       ]
     },
     {
-      "id": "canonical:0738d4357b35fcb5",
-      "title": "Research Intern",
-      "url": "https://careers-peraton.icims.com/jobs/167241/job?mobile=true&needsRedirect=false",
-      "location": "Reston, VA",
-      "department": "AI/ML/Data",
-      "company": "Peraton",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:b4a502570f796f0f",
       "title": "Generative AI Developer Intern",
       "url": "https://careers-cotiviti.icims.com/jobs/19214/job?mobile=true&needsRedirect=false",
@@ -13074,19 +13057,6 @@
       ]
     },
     {
-      "id": "canonical:177f63d0dcae01a9",
-      "title": "Cassandra Team Intern",
-      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/Intern--Cassandra-Team_JR-90146-1",
-      "location": "Culver City, CA",
-      "department": "AI/ML/Data",
-      "company": "Live Nation Entertainment",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:24b247ecdb933fa9",
       "title": "Talent Engineer Intern",
       "url": "https://jobs.ashbyhq.com/rho/18da5bcb-aabe-424e-a9d1-e2e1c5abc2b1/application",
@@ -13375,19 +13345,6 @@
       "location": "Stamford, CT",
       "department": "Software",
       "company": "Synchrony Financial",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:a8319d4cdb4893b7",
-      "title": "Cassandra Team Intern",
-      "url": "https://livenation.wd503.myworkdayjobs.com/en/TMExternalSite/job/Beverly-Hills-CA-USA/Intern--Cassandra-Team_JR-90146",
-      "location": "Culver City, CA",
-      "department": "AI/ML/Data",
-      "company": "Ticketmaster",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -13835,19 +13792,6 @@
       ]
     },
     {
-      "id": "canonical:4e5bbd54f3ccc539",
-      "title": "GTM Automation Intern",
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/GTM-Automation-Intern--Remote-_R29083",
-      "location": "Remote in USA / Remote in Canada",
-      "department": "AI/ML/Data",
-      "company": "Crowdstrike",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:c295d1bcbc774f57",
       "title": "Intelligence Launch Intern",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Intelligence-Launch-Intern---Summer-2026--Remote-_R26263",
@@ -13880,19 +13824,6 @@
       "location": "Remote in USA",
       "department": "Software",
       "company": "iHerb",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:d8b6ff14ef2e8d2f",
-      "title": "AI Intern",
-      "url": "https://job-boards.greenhouse.io/rtwinvestments/jobs/5267785008",
-      "location": "NYC",
-      "department": "AI/ML/Data",
-      "company": "RTW Investments",
       "score": 68,
       "scoreReasons": [
         "high-signal role",

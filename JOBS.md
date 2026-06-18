@@ -1,6 +1,6 @@
 # Open Internships
 
-**1176** internships across **63/64** companies — last updated 2026-06-18.
+**1171** internships across **63/64** companies — last updated 2026-06-18.
 
 ## Companies
 
@@ -117,7 +117,7 @@
 - [Crest Industries](#crest-industries) (1)
 - [Cresta](#cresta) (2)
 - [Cribl](#cribl) (1)
-- [Crowdstrike](#crowdstrike) (2)
+- [Crowdstrike](#crowdstrike) (1)
 - [Cubist Systematic Strategies](#cubist-systematic-strategies) (1)
 - [Cupertino Electric, Inc.](#cupertino-electric-inc) (1)
 - [Cushman & Wakefield](#cushman-wakefield) (1)
@@ -251,7 +251,6 @@
 - [Layup Parts](#layup-parts) (1)
 - [Lensa](#lensa) (3)
 - [LinkedIn](#linkedin) (3)
-- [Live Nation Entertainment](#live-nation-entertainment) (1)
 - [LiveRamp](#liveramp) (2)
 - [Lucid Motors](#lucid-motors) (3)
 - [Lumafield](#lumafield) (1)
@@ -320,7 +319,7 @@
 - [PayPal](#paypal) (1)
 - [Pebl](#pebl) (5)
 - [PennState University](#pennstate-university) (1)
-- [Peraton](#peraton) (2)
+- [Peraton](#peraton) (1)
 - [Periodic Labs](#periodic-labs) (1)
 - [Perplexity](#perplexity) (3)
 - [Perplexity AI](#perplexity-ai) (1)
@@ -358,7 +357,6 @@
 - [Roku](#roku) (1)
 - [Root Access](#root-access) (1)
 - [Royal Bank of Canada](#royal-bank-of-canada) (1)
-- [RTW Investments](#rtw-investments) (1)
 - [RTX](#rtx) (2)
 - [Rundoo](#rundoo) (1)
 - [Salesforce](#salesforce) (1)
@@ -419,7 +417,6 @@
 - [The Exploration Company](#the-exploration-company) (1)
 - [The Trade Desk](#the-trade-desk) (1)
 - [TheGuarantors](#theguarantors) (1)
-- [Ticketmaster](#ticketmaster) (1)
 - [TIFIN](#tifin) (1)
 - [TikTok](#tiktok) (83)
 - [Tilde Research](#tilde-research) (2)
@@ -1294,7 +1291,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [GTM Automation Intern](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/GTM-Automation-Intern--Remote-_R29083) | 68 | Remote in USA / Remote in Canada | AI/ML/Data | 2026-06-18 |
 | [Intelligence Launch Intern](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Intelligence-Launch-Intern---Summer-2026--Remote-_R26263) | 68 | Remote in USA | AI/ML/Data | 2026-06-18 |
 
 ## Cubist Systematic Strategies
@@ -2167,12 +2163,6 @@
 | [Applied Science- Data Science Intern, PhD](https://jobs.smartrecruiters.com/LinkedIn3/517e679d-be36-45ce-ab17-7c44eb8279ed) | 68 | Mountain View, CA | Data Science, AI & Machine Learning | 2026-05-09 |
 | [Strategy & Insights- Data Science Intern, Master's](https://jobs.smartrecruiters.com/LinkedIn3/c09bade2-b299-4574-a51f-9fc711d1c913) | 68 | Mountain View, CA | Data Science, AI & Machine Learning | 2026-05-09 |
 
-## Live Nation Entertainment
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Cassandra Team Intern](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/Intern--Cassandra-Team_JR-90146-1) | 68 | Culver City, CA | AI/ML/Data | 2026-06-16 |
-
 ## LiveRamp
 
 | Title | Score | Location | Department | First seen |
@@ -2721,7 +2711,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Generative AI Engineer Intern](https://careers-peraton.icims.com/jobs/167460/job?mobile=true&needsRedirect=false) | 85 | Remote in USA | AI/ML/Data | 2026-06-06 |
-| [Research Intern](https://careers-peraton.icims.com/jobs/167241/job?mobile=true&needsRedirect=false) | 60 | Reston, VA | AI/ML/Data | 2026-06-01 |
 
 ## Periodic Labs
 
@@ -2811,8 +2800,8 @@
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-05-09 |
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-05-09 |
 | [2026 Technology Internship – Software Engineer](https://boards.greenhouse.io/point72/jobs/8406727002?gh_jid=8406727002) | 93 | Warsaw, Poland | — | 2026-05-06 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -3012,12 +3001,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Data Analyst Developer Intern](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Data-Analyst-Developer-Intern--8-Months-_R-0000169171) | 93 | Toronto, ON, Canada | AI/ML/Data | 2026-06-17 |
-
-## RTW Investments
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI Intern](https://job-boards.greenhouse.io/rtwinvestments/jobs/5267785008) | 68 | NYC | AI/ML/Data | 2026-06-18 |
 
 ## RTX
 
@@ -3270,8 +3253,8 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer, New Grad, Developer & End User Experience Platform](https://stripe.com/jobs/search?gh_jid=7991718) | 91 | Toronto | — | 2026-06-11 |
 | [PhD Data Scientist Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | Seattle, WA / SF / Chicago, IL / NYC | AI/ML/Data | 2026-06-06 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | 56 | Mexico City, Mexico | — | 2026-05-06 |
@@ -3554,12 +3537,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://ats.rippling.com/theguarantors-open-positions/jobs/d78ec000-5f8b-43d3-9590-4eb51970e49b) | 85 | NYC | Software | 2026-06-09 |
-
-## Ticketmaster
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Cassandra Team Intern](https://livenation.wd503.myworkdayjobs.com/en/TMExternalSite/job/Beverly-Hills-CA-USA/Intern--Cassandra-Team_JR-90146) | 68 | Culver City, CA | AI/ML/Data | 2026-06-17 |
 
 ## TIFIN
 
