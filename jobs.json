@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-18T14:20:35.998Z",
+  "generatedAt": "2026-06-18T17:39:20.618Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1172,
+  "jobCount": 1176,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1085,7 +1085,6 @@
     "canonical:1108c80c82d7f4d2": "2026-06-16T21:42:43.395Z",
     "canonical:7b82545edd92979c": "2026-06-16T21:42:43.395Z",
     "canonical:a67713b89b2d0000": "2026-06-16T23:09:30.532Z",
-    "canonical:24576bfd840f0379": "2026-06-16T23:09:30.532Z",
     "canonical:4657deb65ec280ac": "2026-06-16T23:09:30.532Z",
     "canonical:177f63d0dcae01a9": "2026-06-16T23:09:30.532Z",
     "canonical:24b247ecdb933fa9": "2026-06-16T23:09:30.532Z",
@@ -1175,7 +1174,12 @@
     "canonical:f5d84370157fe2ee": "2026-06-18T14:20:35.998Z",
     "canonical:a421f7ccf418179e": "2026-06-18T14:20:35.998Z",
     "canonical:4d53d98827cc1de5": "2026-06-18T14:20:35.998Z",
-    "canonical:360f81d0ff355ed6": "2026-06-18T14:20:35.998Z"
+    "canonical:360f81d0ff355ed6": "2026-06-18T14:20:35.998Z",
+    "canonical:296035cd95b6d0a8": "2026-06-18T17:39:20.618Z",
+    "canonical:3ab40b3f18b6250c": "2026-06-18T17:39:20.618Z",
+    "canonical:3089be45802d505e": "2026-06-18T17:39:20.618Z",
+    "canonical:3834dfbffd07f37f": "2026-06-18T17:39:20.618Z",
+    "canonical:285adf5b37989c57": "2026-06-18T17:39:20.618Z"
   },
   "jobs": [
     {
@@ -1554,10 +1558,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1568,10 +1572,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1956,10 +1960,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -1969,10 +1973,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -5059,6 +5063,19 @@
       ]
     },
     {
+      "id": "canonical:c24fa2c293373870",
+      "title": "Data Science Intern",
+      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Data-Science-Intern_R106915",
+      "location": "Palo Alto, CA",
+      "department": "AI/ML/Data",
+      "company": "Tencent",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:3f0c0a41c9f51294",
       "title": "Java Web Development Intern",
       "url": "https://jobs.smartrecruiters.com/Blinqlabs/743999734120603",
@@ -6145,19 +6162,6 @@
       ]
     },
     {
-      "id": "canonical:c24fa2c293373870",
-      "title": "Data Science Intern",
-      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Data-Science-Intern_R107184",
-      "location": "Palo Alto, CA",
-      "department": "AI/ML/Data",
-      "company": "Tencent",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:6826e54d8a988fcb",
       "title": "Software Engineering Intern/Co-op",
       "url": "https://boards.greenhouse.io/spacex/jobs/8403219002",
@@ -7060,16 +7064,6 @@
         "high-signal role",
         "direct ATS"
       ]
-    },
-    {
-      "id": "canonical:24576bfd840f0379",
-      "title": "Intern Failure Analysis & Validation Engineering",
-      "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235417",
-      "location": "Southfield, MI",
-      "department": "Hardware",
-      "company": "Magna",
-      "score": 50,
-      "scoreReasons": []
     },
     {
       "id": "canonical:38f37f3ad8017ec7",
@@ -9600,6 +9594,18 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:296035cd95b6d0a8",
+      "title": "Software Development Co-op/Intern - C++",
+      "url": "https://careers-kinaxis.icims.com/jobs/34764/job?mobile=true&needsRedirect=false",
+      "location": "Ottawa, ON, Canada",
+      "department": "Software",
+      "company": "Kinaxis",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
       ]
     },
     {
@@ -13904,6 +13910,58 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:3ab40b3f18b6250c",
+      "title": "Power Integrity Intern - Power Integrity - Electrical Analysis",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Package-Power-Integrity-Intern_JR0284242",
+      "location": "Phoenix, AZ",
+      "department": "Hardware",
+      "company": "Intel",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:3089be45802d505e",
+      "title": "Cloud Developer Intern",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-2",
+      "location": "Remote in Canada",
+      "department": "Software",
+      "company": "Autodesk",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:3834dfbffd07f37f",
+      "title": "Software Engineer Intern",
+      "url": "https://careers-gdms.icims.com/jobs/73191/job?mobile=true&needsRedirect=false",
+      "location": "Scottsdale, AZ",
+      "department": "Software",
+      "company": "General Dynamics Mission Systems",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:285adf5b37989c57",
+      "title": "Software Engineer Intern - Mecop",
+      "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/8465",
+      "location": "Beaverton, OR",
+      "department": "Hardware",
+      "company": "Ralliant",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
