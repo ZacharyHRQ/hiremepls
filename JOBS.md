@@ -222,6 +222,7 @@
 - [IMC Trading](#imc-trading) (9)
 - [Imerys](#imerys) (1)
 - [Impulse Space](#impulse-space) (1)
+- [Infojini](#infojini) (1)
 - [Inizio](#inizio) (1)
 - [Instacart](#instacart) (4)
 - [Instawork](#instawork) (1)
@@ -297,7 +298,6 @@
 - [Navaide](#navaide) (1)
 - [NBCUniversal](#nbcuniversal) (2)
 - [Neighborly](#neighborly) (2)
-- [Nelnet](#nelnet) (1)
 - [Neuralink](#neuralink) (3)
 - [NewsBreak](#newsbreak) (2)
 - [Nightwing Intelligence Solutions](#nightwing-intelligence-solutions) (1)
@@ -1979,6 +1979,12 @@
 | --- | --- | --- | --- | --- |
 | [Radio Frequency Engineering Intern](https://impulsespace.pinpointhq.com/en/postings/89b783a7-a1be-4aa4-8e3d-117e03d175cd?ats=pinpointhq) | 50 | El Segundo, CA | Hardware | 2026-05-09 |
 
+## Infojini
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [GIS Intern Analyst](https://jobs.smartrecruiters.com/InfojiniInc1/104263488) | 68 | Columbia, SC | AI/ML/Data | 2026-06-19 |
+
 ## Inizio
 
 | Title | Score | Location | Department | First seen |
@@ -2527,12 +2533,6 @@
 | --- | --- | --- | --- | --- |
 | [AI Intern](https://neighborlybrands.wd1.myworkdayjobs.com/neighborly/job/Irving-TX/AI-Internship_JR0003837) | 68 | Waco, TX / Irving, TX | AI/ML/Data | 2026-06-18 |
 | [Application Developer Intern](https://neighborlybrands.wd1.myworkdayjobs.com/neighborly/job/Irving-TX/Application-Developer-Intern_JR0003834) | 93 | Waco, TX / Irving, TX | Software | 2026-06-17 |
-
-## Nelnet
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI Engineer Intern](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---AI-Engineer_R22763) | 93 | Lincoln, NE | AI/ML/Data | 2026-06-19 |
 
 ## Neuralink
 

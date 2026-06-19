@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T14:42:33.534Z",
+  "generatedAt": "2026-06-19T17:03:13.004Z",
   "companyCount": 64,
   "okCount": 63,
   "jobCount": 1176,
@@ -1165,7 +1165,6 @@
     "canonical:1463c8d45c6981d1": "2026-06-19T02:17:31.951Z",
     "canonical:4ead190e11f8a535": "2026-06-19T02:17:31.951Z",
     "canonical:c3705f59e9205dcc": "2026-06-19T02:17:31.951Z",
-    "canonical:11b276e5677a2970": "2026-06-19T02:17:31.951Z",
     "canonical:b1355fb9efaeca13": "2026-06-19T02:17:31.951Z",
     "canonical:e31c6f05c180cfcc": "2026-06-19T02:17:31.951Z",
     "canonical:2f7b7a704c723e9b": "2026-06-19T07:34:45.156Z",
@@ -1179,7 +1178,8 @@
     "canonical:6a08b8735bc24eb5": "2026-06-19T11:52:50.618Z",
     "canonical:89e7b0c6b4dfe205": "2026-06-19T14:42:33.534Z",
     "canonical:c1817238d89b26e3": "2026-06-19T14:42:33.534Z",
-    "canonical:dcc57aa64e78aadf": "2026-06-19T14:42:33.534Z"
+    "canonical:dcc57aa64e78aadf": "2026-06-19T14:42:33.534Z",
+    "canonical:b4321a96d5262a5c": "2026-06-19T17:03:13.004Z"
   },
   "jobs": [
     {
@@ -5138,6 +5138,19 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:b4321a96d5262a5c",
+      "title": "GIS Intern Analyst",
+      "url": "https://jobs.smartrecruiters.com/InfojiniInc1/104263488",
+      "location": "Columbia, SC",
+      "department": "AI/ML/Data",
+      "company": "Infojini",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -13828,20 +13841,6 @@
       "company": "Aptiv",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:11b276e5677a2970",
-      "title": "AI Engineer Intern",
-      "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---AI-Engineer_R22763",
-      "location": "Lincoln, NE",
-      "department": "AI/ML/Data",
-      "company": "Nelnet",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
