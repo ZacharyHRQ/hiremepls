@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-19T17:03:13.004Z",
+  "generatedAt": "2026-06-19T19:08:08.551Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1176,
+  "jobCount": 1174,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -246,7 +246,6 @@
     "canonical:1088db8ecc34d95c": "2026-05-09T15:28:15.527Z",
     "canonical:3ebecdb01ddc1a78": "2026-05-09T15:28:15.527Z",
     "canonical:2b7e2c2fb8fd5982": "2026-05-09T15:28:15.527Z",
-    "canonical:04afdbec1fd80f56": "2026-05-09T15:28:15.527Z",
     "canonical:603ec7ff2d705b82": "2026-05-09T15:28:15.527Z",
     "canonical:15bf3d22c1919f77": "2026-05-09T15:28:15.527Z",
     "canonical:577263c8e7fc21c9": "2026-05-09T15:28:15.527Z",
@@ -1074,7 +1073,6 @@
     "canonical:7b82545edd92979c": "2026-06-16T21:42:43.395Z",
     "canonical:a67713b89b2d0000": "2026-06-16T23:09:30.532Z",
     "canonical:4657deb65ec280ac": "2026-06-16T23:09:30.532Z",
-    "canonical:24b247ecdb933fa9": "2026-06-16T23:09:30.532Z",
     "canonical:46a706d202abfbff": "2026-06-16T23:09:30.532Z",
     "canonical:e3e832551adf1c5f": "2026-06-16T23:09:30.532Z",
     "canonical:d47c6bdc1b6f926b": "2026-06-16T23:09:30.532Z",
@@ -5125,18 +5123,6 @@
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:04afdbec1fd80f56",
-      "title": "Software Engineering Intern",
-      "url": "https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/18699",
-      "location": "Norcross, GA / Omaha, NE",
-      "department": "Software",
-      "company": "ACI Worldwide ",
-      "score": 60,
-      "scoreReasons": [
         "high-signal role"
       ]
     },
@@ -12979,20 +12965,6 @@
       "company": "JINGDONG",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:24b247ecdb933fa9",
-      "title": "Talent Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/rho/18da5bcb-aabe-424e-a9d1-e2e1c5abc2b1/application",
-      "location": "NYC",
-      "department": "AI/ML/Data",
-      "company": "Rho",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]

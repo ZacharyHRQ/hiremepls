@@ -1,6 +1,6 @@
 # Open Internships
 
-**1176** internships across **63/64** companies — last updated 2026-06-19.
+**1174** internships across **63/64** companies — last updated 2026-06-19.
 
 ## Companies
 
@@ -10,7 +10,7 @@
 - [ABC News](#abc-news) (1)
 - [Abundant](#abundant) (1)
 - [AccuWeather](#accuweather) (1)
-- [ACI Worldwide ](#aci-worldwide) (2)
+- [ACI Worldwide ](#aci-worldwide) (1)
 - [Adobe](#adobe) (1)
 - [Advanced Energy](#advanced-energy) (2)
 - [Advantmed](#advantmed) (1)
@@ -354,7 +354,6 @@
 - [Replit](#replit) (2)
 - [Reply](#reply) (2)
 - [RESPEC](#respec) (1)
-- [Rho](#rho) (1)
 - [Rippling](#rippling) (3)
 - [Rivian](#rivian) (1)
 - [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (13)
@@ -525,7 +524,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Intern Software Engineering](https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/18763) | 60 | Omaha, NE | Software | 2026-05-09 |
-| [Software Engineering Intern](https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/18699) | 60 | Norcross, GA / Omaha, NE | Software | 2026-05-09 |
 
 ## Adobe
 
@@ -2971,12 +2969,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Student Engineering Intern - Data Science](https://jobs.smartrecruiters.com/RESPECInc/744000107100902) | 68 | Rapid City, SD | AI/ML/Data | 2026-05-09 |
-
-## Rho
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Talent Engineer Intern](https://jobs.ashbyhq.com/rho/18da5bcb-aabe-424e-a9d1-e2e1c5abc2b1/application) | 93 | NYC | AI/ML/Data | 2026-06-16 |
 
 ## Rippling
 
