@@ -1,6 +1,6 @@
 # Open Internships
 
-**1171** internships across **63/64** companies — last updated 2026-06-18.
+**1176** internships across **63/64** companies — last updated 2026-06-19.
 
 ## Companies
 
@@ -31,6 +31,7 @@
 - [Apex](#apex) (1)
 - [Apex Technology, Inc.](#apex-technology-inc) (1)
 - [Apple](#apple) (15)
+- [Aptiv](#aptiv) (1)
 - [AQR](#aqr) (7)
 - [Aquatic Capital](#aquatic-capital) (1)
 - [Arch Capital Group](#arch-capital-group) (1)
@@ -56,7 +57,7 @@
 - [Axway](#axway) (2)
 - [BAE Systems](#bae-systems) (8)
 - [Bank of America](#bank-of-america) (1)
-- [Bank of Montreal](#bank-of-montreal) (3)
+- [Bank of Montreal](#bank-of-montreal) (4)
 - [Barkback](#barkback) (1)
 - [Base Power](#base-power) (4)
 - [beBeeManufacturingEngineering](#bebeemanufacturingengineering) (1)
@@ -76,12 +77,12 @@
 - [Bombardier](#bombardier) (1)
 - [Bosch](#bosch) (2)
 - [Boston Consulting Group](#boston-consulting-group) (2)
-- [Bot Auto](#bot-auto) (1)
 - [Boys Town](#boys-town) (1)
 - [Brevian](#brevian) (1)
 - [Brex](#brex) (1)
 - [Brookfield](#brookfield) (1)
 - [Brunswick](#brunswick) (1)
+- [Bugcrowd](#bugcrowd) (1)
 - [By Light Professional IT Services](#by-light-professional-it-services) (2)
 - [ByteDance](#bytedance) (29)
 - [Cadence Design Systems](#cadence-design-systems) (1)
@@ -94,6 +95,7 @@
 - [Cherry Bekaert](#cherry-bekaert) (2)
 - [Ciena](#ciena) (3)
 - [Cirrus Logic](#cirrus-logic) (1)
+- [Cisco](#cisco) (1)
 - [Citadel](#citadel) (4)
 - [Citadel Securities](#citadel-securities) (3)
 - [Clarity Innovations](#clarity-innovations) (1)
@@ -120,7 +122,6 @@
 - [Crowdstrike](#crowdstrike) (1)
 - [Cubist Systematic Strategies](#cubist-systematic-strategies) (1)
 - [Cupertino Electric, Inc.](#cupertino-electric-inc) (1)
-- [Cushman & Wakefield](#cushman-wakefield) (1)
 - [d-Matrix](#d-matrix) (1)
 - [Dandy](#dandy) (1)
 - [Databricks](#databricks) (1)
@@ -170,7 +171,7 @@
 - [Five Rings](#five-rings) (1)
 - [Flagright](#flagright) (1)
 - [Fluxergy](#fluxergy) (1)
-- [Formlabs](#formlabs) (2)
+- [Formlabs](#formlabs) (3)
 - [Fortinet](#fortinet) (1)
 - [Forvis Mazars US](#forvis-mazars-us) (1)
 - [Foundation ](#foundation) (1)
@@ -180,6 +181,7 @@
 - [Gemini](#gemini) (1)
 - [GenBio AI](#genbio-ai) (1)
 - [Genentech](#genentech) (1)
+- [Generac](#generac) (1)
 - [General Astronautics](#general-astronautics) (1)
 - [General Dynamics Mission Systems](#general-dynamics-mission-systems) (1)
 - [General Motors](#general-motors) (2)
@@ -249,6 +251,7 @@
 - [Lambda](#lambda) (3)
 - [Landis+Gyr](#landis-gyr) (1)
 - [Layup Parts](#layup-parts) (1)
+- [Leidos](#leidos) (1)
 - [Lensa](#lensa) (3)
 - [LinkedIn](#linkedin) (3)
 - [LiveRamp](#liveramp) (2)
@@ -292,6 +295,7 @@
 - [Navaide](#navaide) (1)
 - [NBCUniversal](#nbcuniversal) (2)
 - [Neighborly](#neighborly) (2)
+- [Nelnet](#nelnet) (1)
 - [Neuralink](#neuralink) (3)
 - [NewsBreak](#newsbreak) (2)
 - [Nightwing Intelligence Solutions](#nightwing-intelligence-solutions) (1)
@@ -358,7 +362,6 @@
 - [Root Access](#root-access) (1)
 - [Royal Bank of Canada](#royal-bank-of-canada) (1)
 - [RTX](#rtx) (2)
-- [Rundoo](#rundoo) (1)
 - [Salesforce](#salesforce) (1)
 - [Samaya](#samaya) (1)
 - [Samsung Research America](#samsung-research-america) (3)
@@ -402,6 +405,7 @@
 - [Syntax](#syntax) (1)
 - [Taara](#taara) (1)
 - [TD Bank](#td-bank) (1)
+- [TDS](#tds) (1)
 - [Teall Sports & Entertainment](#teall-sports-entertainment) (1)
 - [Technergetics](#technergetics) (1)
 - [Tempo ](#tempo) (1)
@@ -416,7 +420,6 @@
 - [The D. E. Shaw Group](#the-d-e-shaw-group) (1)
 - [The Exploration Company](#the-exploration-company) (1)
 - [The Trade Desk](#the-trade-desk) (1)
-- [TheGuarantors](#theguarantors) (1)
 - [TIFIN](#tifin) (1)
 - [TikTok](#tiktok) (83)
 - [Tilde Research](#tilde-research) (2)
@@ -669,6 +672,12 @@
 | [GPU Internship - Platform Architecture](https://jobs.apple.com/en-us/details/200617616) | 60 | London, UK / Cambridge, UK / Welwyn Garden City, UK | Hardware | 2026-05-09 |
 | [Hardware Engineering Intern](https://jobs.apple.com/en-us/details/200663981) | 50 | United States | Hardware | 2026-05-09 |
 
+## Aptiv
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Platform Services Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Intern-WRCP-Platform-Services_J000699957) | 68 | Kanata, Ottawa, ON, Canada | Hardware | 2026-06-19 |
+
 ## AQR
 
 | Title | Score | Location | Department | First seen |
@@ -853,6 +862,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Engagement & Enablement Specialist Co-op/Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Engagement---Enablement-Specialist--Fall-2026--Co-op-Internship------4-months_R260015283) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-06-19 |
 | [Data Engineer Co-op/Intern - 4 months](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Data-Engineer--Fall-2026--Co-op-Internship----4-months_R260018081-2) | 93 | Toronto, ON, Canada | AI/ML/Data | 2026-06-17 |
 | [Partnership Development Intern](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Partnership-Development-Internship--Fall-2026--4-months--Toronto--CA_R260016030) | 58 | Toronto, ON, Canada | Product | 2026-05-28 |
 | [Card Products Intern - 4 months](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Card-Products-Internship--Fall-2026--4-months--Toronto--CA_R260016029-1) | 58 | Toronto, ON, Canada | Product | 2026-05-27 |
@@ -982,12 +992,6 @@
 | [AI Engineer Intern - BCG X](https://careers.bcg.com/global/en/job/56635) | 85 | London, UK | AI/ML/Data | 2026-06-15 |
 | [Data Scientist Intern](https://careers.bcg.com/global/en/job/56634) | 85 | London, UK | AI/ML/Data | 2026-06-15 |
 
-## Bot Auto
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Intern Software Engineer-Operation Platforms](https://job-boards.greenhouse.io/botauto/jobs/5182922008) | 93 | Houston, TX | Software | 2026-06-04 |
-
 ## Boys Town
 
 | Title | Score | Location | Department | First seen |
@@ -1017,6 +1021,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Computer Graphics Software Developer Intern](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Computer-Graphics-Software-Developer-Intern_JR-050234) | 93 | Urbana, IL | Software | 2026-06-16 |
+
+## Bugcrowd
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Engineering Intern](https://boards.greenhouse.io/bugcrowd/jobs/8016582) | 68 | Remote in USA | Software | 2026-06-19 |
 
 ## By Light Professional IT Services
 
@@ -1124,6 +1134,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Analog/Mixed-Signal Verification Intern Co-op](https://jobs.eu.lever.co/cirrus/a0ee59a9-cfce-410a-b182-459a5da9ba95/apply) | 58 | Austin, TX | Hardware | 2026-05-09 |
+
+## Cisco
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI Research Scientist PhD Intern](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/AI-Research-Scientist-PhD--Intern----United-States_2017364) | 93 | Milpitas, CA / SF / San Jose, CA / Hartford, CT / NYC | AI/ML/Data | 2026-06-19 |
 
 ## Citadel
 
@@ -1304,12 +1320,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Summer Safety Internship (Multiple Locations)](https://www.linkedin.com/jobs/view/4157995744) | 42 | New Albany, OH | — | 2026-05-16 |
-
-## Cushman & Wakefield
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Capital Markets Intern](https://cw.wd1.myworkdayjobs.com/external/job/Chicago-Illinois-USA/EIC-Capital-Markets-Intern_R324745) | 68 | Chicago, IL | Quant | 2026-06-18 |
 
 ## d-Matrix
 
@@ -1635,6 +1645,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Hardware R&D Engineer Intern](https://careers.formlabs.com/job/7890746/apply/?gh_jid=7890746) | 50 | Cambridge, MA | Hardware | 2026-06-19 |
 | [Hardware Systems Integration Intern](https://careers.formlabs.com/job/7927471/apply/?gh_jid=7927471) | 50 | Cambridge, MA | Hardware | 2026-05-15 |
 | [Test Engineering Intern](https://careers.formlabs.com/job/7773874/apply/?gh_jid=7773874) | 50 | Cambridge, MA | Hardware | 2026-05-09 |
 
@@ -1695,6 +1706,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Data Management Intern](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/Oceanside/XMLNAME-2026-Fall-Intern---Data-Management_202606-115007) | 68 | Oceanside, CA | AI/ML/Data | 2026-06-17 |
+
+## Generac
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Firmware Engineering Intern](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR14674) | 58 | Reno, NV | Hardware | 2026-06-19 |
 
 ## General Astronautics
 
@@ -2147,6 +2164,12 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](https://jobs.lever.co/layup/0b42f7ad-ebdc-4b4a-8fe6-47640f6dba53/apply) | 68 | Huntington Beach, CA | Software | 2026-05-09 |
 
+## Leidos
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data Analytics Intern](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Data-Analytics-Intern_R-00185665) | 68 | Remote in USA | AI/ML/Data | 2026-06-19 |
+
 ## Lensa
 
 | Title | Score | Location | Department | First seen |
@@ -2491,6 +2514,12 @@
 | --- | --- | --- | --- | --- |
 | [AI Intern](https://neighborlybrands.wd1.myworkdayjobs.com/neighborly/job/Irving-TX/AI-Internship_JR0003837) | 68 | Waco, TX / Irving, TX | AI/ML/Data | 2026-06-18 |
 | [Application Developer Intern](https://neighborlybrands.wd1.myworkdayjobs.com/neighborly/job/Irving-TX/Application-Developer-Intern_JR0003834) | 93 | Waco, TX / Irving, TX | Software | 2026-06-17 |
+
+## Nelnet
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI Engineer Intern](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---AI-Engineer_R22763) | 93 | Lincoln, NE | AI/ML/Data | 2026-06-19 |
 
 ## Neuralink
 
@@ -3009,12 +3038,6 @@
 | [Data Science Intern - Data Science](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Science-des-donnes---Internship---Fall-2026---Data-Science_01841595-1) | 68 | Longueuil, QC, Canada | AI/ML/Data | 2026-06-17 |
 | [Intern Operations Program Management](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-d-t-2026-Gestion-des-programmes---Internship-Summer-2026-Operations-Program-Management_01809689-1) | 68 | Longueuil, QC, Canada | AI/ML/Data | 2026-05-19 |
 
-## Rundoo
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Science Intern](https://jobs.ashbyhq.com/rundoo/e3cc536d-d45d-4579-a301-59f7dc5e980c/application) | 68 | Chicago, IL | AI/ML/Data | 2026-05-09 |
-
 ## Salesforce
 
 | Title | Score | Location | Department | First seen |
@@ -3336,6 +3359,12 @@
 | --- | --- | --- | --- | --- |
 | [Global Markets Intern/Co-op](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Global-Markets-Intern--Co-op-Fall-2026_R_1495152) | 68 | Toronto, ON, Canada | Quant | 2026-06-16 |
 
+## TDS
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [GIS Intern](https://external-telecom-teldta.icims.com/jobs/29516/job?mobile=true&needsRedirect=false) | 60 | Remote in USA | AI/ML/Data | 2026-06-19 |
+
 ## Teall Sports & Entertainment
 
 | Title | Score | Location | Department | First seen |
@@ -3531,12 +3560,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [2026 North America Software Engineering Internship](https://www.linkedin.com/jobs/view/4270526982) | 52 | Boulder, CO | — | 2026-05-16 |
-
-## TheGuarantors
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://ats.rippling.com/theguarantors-open-positions/jobs/d78ec000-5f8b-43d3-9590-4eb51970e49b) | 85 | NYC | Software | 2026-06-09 |
 
 ## TIFIN
 
