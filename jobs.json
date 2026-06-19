@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-19T02:17:31.951Z",
+  "generatedAt": "2026-06-19T07:34:45.156Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1176,
+  "jobCount": 1180,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -271,7 +271,6 @@
     "canonical:2d6881328100367d": "2026-05-09T15:28:15.527Z",
     "canonical:91ce3b1cfd0df237": "2026-05-09T15:28:15.527Z",
     "canonical:6977eeeb4ce82805": "2026-05-09T15:28:15.527Z",
-    "canonical:58109eab3d5c6e17": "2026-05-09T15:28:15.527Z",
     "canonical:81494230370de12a": "2026-05-09T15:28:15.527Z",
     "canonical:6a149cb9a2be52a1": "2026-05-09T15:28:15.527Z",
     "canonical:eb1c3b475c210318": "2026-05-09T15:28:15.527Z",
@@ -326,7 +325,6 @@
     "canonical:a12772f2bf1637b3": "2026-05-09T15:28:15.527Z",
     "canonical:606d7f53b8e4e670": "2026-05-09T15:28:15.527Z",
     "canonical:30b49bc17727b7b6": "2026-05-09T15:28:15.527Z",
-    "canonical:41396f1be5942850": "2026-05-09T15:28:15.527Z",
     "canonical:877c0a343b3cc748": "2026-05-09T15:28:15.527Z",
     "canonical:02233db9458d09d9": "2026-05-09T15:28:15.527Z",
     "canonical:a4af8e4a3c23536e": "2026-05-09T15:28:15.527Z",
@@ -752,7 +750,6 @@
     "canonical:a395ceeb5fb82dd3": "2026-05-27T23:09:47.866Z",
     "canonical:ecba8731f0945b5e": "2026-05-27T23:09:47.866Z",
     "canonical:d32be9bbb737525e": "2026-05-27T23:09:47.866Z",
-    "canonical:9bd78e7870c6fb67": "2026-05-28T00:12:15.474Z",
     "canonical:9e2ca9c244113a9f": "2026-05-28T00:12:15.474Z",
     "canonical:0d69edb886321d54": "2026-05-28T08:30:34.441Z",
     "canonical:b1e942ae8f36d35f": "2026-05-28T16:31:50.003Z",
@@ -1179,7 +1176,14 @@
     "canonical:c3705f59e9205dcc": "2026-06-19T02:17:31.951Z",
     "canonical:11b276e5677a2970": "2026-06-19T02:17:31.951Z",
     "canonical:b1355fb9efaeca13": "2026-06-19T02:17:31.951Z",
-    "canonical:e31c6f05c180cfcc": "2026-06-19T02:17:31.951Z"
+    "canonical:e31c6f05c180cfcc": "2026-06-19T02:17:31.951Z",
+    "canonical:2f7b7a704c723e9b": "2026-06-19T07:34:45.156Z",
+    "canonical:87eab4529cff3827": "2026-06-19T07:34:45.156Z",
+    "canonical:6dd85ff3ed8dd5dc": "2026-06-19T07:34:45.156Z",
+    "canonical:5db094360a3dbbfc": "2026-06-19T07:34:45.156Z",
+    "canonical:7e0e437e2179f412": "2026-06-19T07:34:45.156Z",
+    "canonical:407532e44089c220": "2026-06-19T07:34:45.156Z",
+    "canonical:32f1b12234fee302": "2026-06-19T07:34:45.156Z"
   },
   "jobs": [
     {
@@ -1960,10 +1964,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -1973,10 +1977,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -5589,19 +5593,6 @@
       ]
     },
     {
-      "id": "canonical:58109eab3d5c6e17",
-      "title": "Research Scientist Intern - Applied Perception Science - PhD",
-      "url": "https://www.metacareers.com/jobs/25766888559672059",
-      "location": "Redmond, WA",
-      "department": "AI/ML/Data",
-      "company": "Meta",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:81494230370de12a",
       "title": "Research Scientist Intern PhD - Applied Research",
       "url": "https://www.metacareers.com/jobs/2633206137040139",
@@ -6474,19 +6465,6 @@
       "location": "United States",
       "department": "AI/ML/Data",
       "company": "HEXAWARE",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:41396f1be5942850",
-      "title": "Data Scientist Intern",
-      "url": "https://www.tripleringtech.com/careers?gh_jid=4680998005",
-      "location": "Boston, MA",
-      "department": "AI/ML/Data",
-      "company": "TripleRing",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -10063,18 +10041,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:9bd78e7870c6fb67",
-      "title": "Partnership Development Intern",
-      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Partnership-Development-Internship--Fall-2026--4-months--Toronto--CA_R260016030",
-      "location": "Toronto, ON, Canada",
-      "department": "Product",
-      "company": "Bank of Montreal",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
       ]
     },
     {
@@ -13959,6 +13925,99 @@
       "score": 58,
       "scoreReasons": [
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:2f7b7a704c723e9b",
+      "title": "Software Developer Co-op/Intern - Core Algorithms",
+      "url": "https://careers-kinaxis.icims.com/jobs/34962/job?mobile=true&needsRedirect=false",
+      "location": "Ottawa, ON, Canada",
+      "department": "Software",
+      "company": "Kinaxis",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:87eab4529cff3827",
+      "title": "Research Intern",
+      "url": "https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/Main-Campus-Columbus-OH/IGM-Research-Intern_R-26457-1",
+      "location": "Columbus, OH",
+      "department": "AI/ML/Data",
+      "company": "Nationwide Children's Hospital",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:6dd85ff3ed8dd5dc",
+      "title": "Engineering Analyst Intern",
+      "url": "https://jobs.smartrecruiters.com/Continental/744000132913026",
+      "location": "Leakey, TX",
+      "department": "AI/ML/Data",
+      "company": "Continental",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:5db094360a3dbbfc",
+      "title": "Developer Intern - Service Development",
+      "url": "https://jobs.ashbyhq.com/1password/b6b8c8ed-ff1c-4bc2-9dbe-5122207ea3a2/application",
+      "location": "Remote in USA / Remote in Canada",
+      "department": "Software",
+      "company": "1Password",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:7e0e437e2179f412",
+      "title": "Software Engineer Intern - Payments & Wallets",
+      "url": "https://jobs.ashbyhq.com/gen-digital/0818d1f1-e3c0-4a8a-afb8-72dd1265a13d/application",
+      "location": "Mountain View, CA",
+      "department": "Software",
+      "company": "Gen Digital",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:407532e44089c220",
+      "title": "Sourcing and Sustainability Data Intern",
+      "url": "https://munters.wd3.myworkdayjobs.com/external_careers/job/US---Amesbury-MA/Sourcing-and-Sustainability-Data-Intern_R11278",
+      "location": "Amesbury, MA",
+      "department": "AI/ML/Data",
+      "company": "Munters",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:32f1b12234fee302",
+      "title": "AI Research Scientist PhD Intern",
+      "url": "https://careers.cisco.com/global/en/job/2017364",
+      "location": "SF",
+      "department": "AI/ML/Data",
+      "company": "Cisco",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {

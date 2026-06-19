@@ -1,10 +1,10 @@
 # Open Internships
 
-**1176** internships across **63/64** companies — last updated 2026-06-19.
+**1180** internships across **63/64** companies — last updated 2026-06-19.
 
 ## Companies
 
-- [1Password](#1password) (7)
+- [1Password](#1password) (8)
 - [60decibelsinc](#60decibelsinc) (1)
 - [ABB](#abb) (3)
 - [ABC News](#abc-news) (1)
@@ -57,7 +57,7 @@
 - [Axway](#axway) (2)
 - [BAE Systems](#bae-systems) (8)
 - [Bank of America](#bank-of-america) (1)
-- [Bank of Montreal](#bank-of-montreal) (4)
+- [Bank of Montreal](#bank-of-montreal) (3)
 - [Barkback](#barkback) (1)
 - [Base Power](#base-power) (4)
 - [beBeeManufacturingEngineering](#bebeemanufacturingengineering) (1)
@@ -95,7 +95,7 @@
 - [Cherry Bekaert](#cherry-bekaert) (2)
 - [Ciena](#ciena) (3)
 - [Cirrus Logic](#cirrus-logic) (1)
-- [Cisco](#cisco) (1)
+- [Cisco](#cisco) (2)
 - [Citadel](#citadel) (4)
 - [Citadel Securities](#citadel-securities) (3)
 - [Clarity Innovations](#clarity-innovations) (1)
@@ -111,6 +111,7 @@
 - [ConnectPrep](#connectprep) (1)
 - [Consensus Cloud Solutions](#consensus-cloud-solutions) (1)
 - [Context](#context) (1)
+- [Continental](#continental) (1)
 - [Cook Group](#cook-group) (2)
 - [Copart](#copart) (1)
 - [CoStar Group](#costar-group) (1)
@@ -179,6 +180,7 @@
 - [GE Vernova](#ge-vernova) (1)
 - [Gelber Group](#gelber-group) (5)
 - [Gemini](#gemini) (1)
+- [Gen Digital](#gen-digital) (1)
 - [GenBio AI](#genbio-ai) (1)
 - [Genentech](#genentech) (1)
 - [Generac](#generac) (1)
@@ -241,7 +243,7 @@
 - [Jump Trading](#jump-trading) (2)
 - [K1](#k1) (1)
 - [KBR](#kbr) (1)
-- [Kinaxis](#kinaxis) (2)
+- [Kinaxis](#kinaxis) (3)
 - [KION Group](#kion-group) (1)
 - [Kioxia](#kioxia) (1)
 - [KLA](#kla) (1)
@@ -282,7 +284,7 @@
 - [Mercedes-Benz](#mercedes-benz) (2)
 - [Mercor](#mercor) (1)
 - [Meshy](#meshy) (3)
-- [Meta](#meta) (17)
+- [Meta](#meta) (16)
 - [Metalenz](#metalenz) (1)
 - [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (4)
 - [Microchip Technology](#microchip-technology) (1)
@@ -290,8 +292,10 @@
 - [MongoDB](#mongodb) (1)
 - [Monolithic Power Systems](#monolithic-power-systems) (2)
 - [Multiply Labs](#multiply-labs) (2)
+- [Munters](#munters) (1)
 - [Naïve](#na-ve) (1)
 - [Nash](#nash) (2)
+- [Nationwide Children's Hospital](#nationwide-children-s-hospital) (1)
 - [Navaide](#navaide) (1)
 - [NBCUniversal](#nbcuniversal) (2)
 - [Neighborly](#neighborly) (2)
@@ -432,7 +436,6 @@
 - [Trane Technologies](#trane-technologies) (1)
 - [TransMarket Group](#transmarket-group) (1)
 - [Trata](#trata) (1)
-- [TripleRing](#triplering) (1)
 - [Truveta](#truveta) (1)
 - [Uber](#uber) (1)
 - [UL Solutions](#ul-solutions) (1)
@@ -476,6 +479,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Developer Intern - Service Development](https://jobs.ashbyhq.com/1password/b6b8c8ed-ff1c-4bc2-9dbe-5122207ea3a2/application) | 93 | Remote in USA / Remote in Canada | Software | 2026-06-19 |
 | [Developer Intern - Open Source](https://jobs.ashbyhq.com/1password/81323adf-cf08-45af-a1df-da91c3a052ae/application) | 93 | Remote in USA / Remote in Canada | Software | 2026-06-18 |
 | [Developer Intern - Client Secrets Management](https://jobs.ashbyhq.com/1password/d9909a9a-d941-404d-a7f2-5021670ffd2c/application) | 93 | Remote in USA / Remote in Canada | Software | 2026-06-13 |
 | [Developer Intern](https://jobs.ashbyhq.com/1password/44150e12-89b1-4ac7-ad8d-671f5ec650dd/application) | 93 | Remote in USA / Remote in Canada | Software | 2026-06-12 |
@@ -864,7 +868,6 @@
 | --- | --- | --- | --- | --- |
 | [Engagement & Enablement Specialist Co-op/Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Engagement---Enablement-Specialist--Fall-2026--Co-op-Internship------4-months_R260015283) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-06-19 |
 | [Data Engineer Co-op/Intern - 4 months](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Data-Engineer--Fall-2026--Co-op-Internship----4-months_R260018081-2) | 93 | Toronto, ON, Canada | AI/ML/Data | 2026-06-17 |
-| [Partnership Development Intern](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Partnership-Development-Internship--Fall-2026--4-months--Toronto--CA_R260016030) | 58 | Toronto, ON, Canada | Product | 2026-05-28 |
 | [Card Products Intern - 4 months](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Card-Products-Internship--Fall-2026--4-months--Toronto--CA_R260016029-1) | 58 | Toronto, ON, Canada | Product | 2026-05-27 |
 
 ## Barkback
@@ -1139,6 +1142,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [AI Research Scientist PhD Intern](https://careers.cisco.com/global/en/job/2017364) | 85 | SF | AI/ML/Data | 2026-06-19 |
 | [AI Research Scientist PhD Intern](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/AI-Research-Scientist-PhD--Intern----United-States_2017364) | 93 | Milpitas, CA / SF / San Jose, CA / Hartford, CT / NYC | AI/ML/Data | 2026-06-19 |
 
 ## Citadel
@@ -1249,6 +1253,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Intern](https://jobs.ashbyhq.com/context/1c657ebf-3842-4ca4-ab55-54ffaf1e49d8/application) | 68 | SF | Software | 2026-05-09 |
+
+## Continental
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Engineering Analyst Intern](https://jobs.smartrecruiters.com/Continental/744000132913026) | 68 | Leakey, TX | AI/ML/Data | 2026-06-19 |
 
 ## Cook Group
 
@@ -1695,6 +1705,12 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7875125&gh_jid=7875125) | 93 | NYC | Software | 2026-05-09 |
 
+## Gen Digital
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer Intern - Payments & Wallets](https://jobs.ashbyhq.com/gen-digital/0818d1f1-e3c0-4a8a-afb8-72dd1265a13d/application) | 93 | Mountain View, CA | Software | 2026-06-19 |
+
 ## GenBio AI
 
 | Title | Score | Location | Department | First seen |
@@ -2105,6 +2121,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Developer Co-op/Intern - Core Algorithms](https://careers-kinaxis.icims.com/jobs/34962/job?mobile=true&needsRedirect=false) | 85 | Ottawa, ON, Canada | Software | 2026-06-19 |
 | [Software Development Co-op/Intern - C++](https://careers-kinaxis.icims.com/jobs/34764/job?mobile=true&needsRedirect=false) | 60 | Ottawa, ON, Canada | Software | 2026-06-18 |
 | [Software Developer Intern](https://careers-kinaxis.icims.com/jobs/34899/job?mobile=true&needsRedirect=false) | 85 | Ottawa, ON, Canada | Software | 2026-06-09 |
 
@@ -2389,7 +2406,6 @@
 | [Research Scientist Intern - Multimodal Contextual AI](https://www.metacareers.com/jobs/2160167211413098) | 85 | Redmond, WA | AI/ML/Data | 2026-05-15 |
 | [Research Scientist Intern](https://www.metacareers.com/jobs/779670167783218) | 85 | Seattle, WA / Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Scientist Intern - AI/ML - Core Ads Growth](https://www.metacareers.com/jobs/771948392580541) | 85 | London, UK | AI/ML/Data | 2026-05-09 |
-| [Research Scientist Intern - Applied Perception Science - PhD](https://www.metacareers.com/jobs/25766888559672059) | 85 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Scientist Intern - Applied Vision and Image Quality - PhD](https://www.metacareers.com/jobs/1422892385992613) | 85 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Scientist Intern - Photorealistic Telepresence](https://www.metacareers.com/jobs/2022109075207025) | 85 | Sausalito, CA / Redmond, WA / Pittsburgh, PA | AI/ML/Data | 2026-05-09 |
 | [Research Scientist Intern PhD - Applied Research](https://www.metacareers.com/jobs/2633206137040139) | 85 | Menlo Park, CA / NYC / Bellevue, WA | AI/ML/Data | 2026-05-09 |
@@ -2482,6 +2498,12 @@
 | [Robotics Software Intern](https://jobs.lever.co/multiplylabs/acca98ab-c206-4f71-b7a5-6977e4828586) | 68 | San Francisco, CA | Software Engineering | 2026-05-09 |
 | [Software Engineering Intern](https://jobs.lever.co/multiplylabs/8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b) | 68 | San Francisco, CA | Software Engineering | 2026-05-09 |
 
+## Munters
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Sourcing and Sustainability Data Intern](https://munters.wd3.myworkdayjobs.com/external_careers/job/US---Amesbury-MA/Sourcing-and-Sustainability-Data-Intern_R11278) | 68 | Amesbury, MA | AI/ML/Data | 2026-06-19 |
+
 ## Naïve
 
 | Title | Score | Location | Department | First seen |
@@ -2494,6 +2516,12 @@
 | --- | --- | --- | --- | --- |
 | [Full Stack Engineering Intern](https://www.workatastartup.com/jobs/94993) | 56 | San Francisco, CA | — | 2026-05-19 |
 | [Full Stack Engineer Intern](https://jobs.ashbyhq.com/Nash/5d2387ea-c478-433b-b3db-30115d1984c5/application) | 93 | SF | Software | 2026-05-18 |
+
+## Nationwide Children's Hospital
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Research Intern](https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/Main-Campus-Columbus-OH/IGM-Research-Intern_R-26457-1) | 68 | Columbus, OH | AI/ML/Data | 2026-06-19 |
 
 ## Navaide
 
@@ -3276,8 +3304,8 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer, New Grad, Developer & End User Experience Platform](https://stripe.com/jobs/search?gh_jid=7991718) | 91 | Toronto | — | 2026-06-11 |
 | [PhD Data Scientist Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | Seattle, WA / SF / Chicago, IL / NYC | AI/ML/Data | 2026-06-06 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | 56 | Mexico City, Mexico | — | 2026-05-06 |
@@ -3722,12 +3750,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Research Scientist Intern](https://www.workatastartup.com/jobs/94620) | 81 | San Francisco, CA / New York, NY | — | 2026-05-14 |
-
-## TripleRing
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Scientist Intern](https://www.tripleringtech.com/careers?gh_jid=4680998005) | 85 | Boston, MA | AI/ML/Data | 2026-05-09 |
 
 ## Truveta
 
