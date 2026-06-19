@@ -1,6 +1,6 @@
 # Open Internships
 
-**1174** internships across **63/64** companies — last updated 2026-06-19.
+**1170** internships across **63/64** companies — last updated 2026-06-19.
 
 ## Companies
 
@@ -294,7 +294,6 @@
 - [Munters](#munters) (1)
 - [Naïve](#na-ve) (1)
 - [Nash](#nash) (2)
-- [Nationwide Children's Hospital](#nationwide-children-s-hospital) (1)
 - [Navaide](#navaide) (1)
 - [NBCUniversal](#nbcuniversal) (2)
 - [Neighborly](#neighborly) (2)
@@ -416,7 +415,7 @@
 - [TENEX.AI](#tenex-ai) (1)
 - [Tenstorrent](#tenstorrent) (7)
 - [Terranox AI](#terranox-ai) (1)
-- [Tesla](#tesla) (97)
+- [Tesla](#tesla) (94)
 - [Tessera Labs](#tessera-labs) (1)
 - [TETRAMEM](#tetramem) (1)
 - [Texas Instruments](#texas-instruments) (1)
@@ -2506,12 +2505,6 @@
 | [Full Stack Engineering Intern](https://www.workatastartup.com/jobs/94993) | 56 | San Francisco, CA | — | 2026-05-19 |
 | [Full Stack Engineer Intern](https://jobs.ashbyhq.com/Nash/5d2387ea-c478-433b-b3db-30115d1984c5/application) | 93 | SF | Software | 2026-05-18 |
 
-## Nationwide Children's Hospital
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Research Intern](https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/Main-Campus-Columbus-OH/IGM-Research-Intern_R-26457-1) | 68 | Columbus, OH | AI/ML/Data | 2026-06-19 |
-
 ## Navaide
 
 | Title | Score | Location | Department | First seen |
@@ -3291,8 +3284,8 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer, New Grad, Developer & End User Experience Platform](https://stripe.com/jobs/search?gh_jid=7991718) | 91 | Toronto | — | 2026-06-11 |
 | [PhD Data Scientist Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | Seattle, WA / SF / Chicago, IL / NYC | AI/ML/Data | 2026-06-06 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | 56 | Mexico City, Mexico | — | 2026-05-06 |
@@ -3467,7 +3460,6 @@
 | [Embedded Software Engineer Intern - Embedded Software Engineer - Thermal Systems](https://www.tesla.com/careers/search/job/272290) | 85 | Palo Alto, CA | Hardware | 2026-06-07 |
 | [Embedded Software Engineering Intern - Embedded Software Engineer - High Voltage Systems](https://www.tesla.com/careers/search/job/270354) | 85 | Palo Alto, CA | Hardware | 2026-06-07 |
 | [Internship - Software Engineer - Maps & Navigation Validation - Fall 2026](https://www.tesla.com/careers/search/job/270186) | 85 | Palo Alto, CA | Software | 2026-06-07 |
-| [Product Support Engineer Intern - Product Support Engineer - Service Engineering](https://www.tesla.com/careers/search/job/259222) | 85 | Palo Alto, CA | Software | 2026-06-07 |
 | [Software Engineer Intern - AI Data Infrastructure](https://www.tesla.com/careers/search/job/269829) | 85 | Palo Alto, CA | Software | 2026-06-07 |
 | [Software Engineer Intern - Engineering Automation Software Engineer - Vehicle Engineering](https://www.tesla.com/careers/search/job/267767) | 85 | Palo Alto, CA / Fremont, CA / United States | Software | 2026-06-07 |
 | [Software Engineer Intern - Integration Tools](https://www.tesla.com/careers/search/job/269445) | 85 | Palo Alto, CA | Hardware | 2026-06-07 |
@@ -3486,7 +3478,6 @@
 | [Electronics Design Engineer Intern - Reliability Electronics Design Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/272601) | 50 | Palo Alto, CA | Hardware | 2026-06-07 |
 | [AI Engineer Intern](https://www.tesla.com/careers/search/job/259784) | 85 | Palo Alto, CA | AI/ML/Data | 2026-06-07 |
 | [Data Engineer Intern - Data Engineer - Energy](https://www.tesla.com/careers/search/job/271331) | 85 | Palo Alto, CA | AI/ML/Data | 2026-06-07 |
-| [Data Engineer Intern - Data Engineer - Fleet Analytics](https://www.tesla.com/careers/search/job/261351) | 85 | Palo Alto, CA | AI/ML/Data | 2026-06-07 |
 | [Embedded Software Engineer Intern - Embedded Software Engineer - Audio Systems](https://www.tesla.com/careers/search/job/266999) | 85 | Palo Alto, CA | Hardware | 2026-06-07 |
 | [Embedded Software Engineer Intern - Embedded Software Engineer - Firmware Platforms](https://www.tesla.com/careers/search/job/266985) | 85 | Palo Alto, CA | Hardware | 2026-06-07 |
 | [Fullstack Engineer Intern - Fullstack Engineer - Build Infrastructure](https://www.tesla.com/careers/search/job/267005) | 85 | Palo Alto, CA | Software | 2026-06-07 |
@@ -3510,7 +3501,6 @@
 | [Marketing Fleet Intern - Process Analyst - Marketing Fleet Operations](https://www.tesla.com/careers/search/job/271880) | 40 | Anaheim, CA | AI/ML/Data | 2026-06-07 |
 | [Sales & Customer Support Intern - Analyst - Digital Communication](https://www.tesla.com/careers/search/job/272095) | 40 | Fremont, CA | AI/ML/Data | 2026-06-07 |
 | [Solar Hardware Engineer Intern - Solar Hardware Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/271539) | 50 | Palo Alto, CA | Hardware | 2026-06-06 |
-| [Data Engineer Intern - Fleet Analytics](https://www.tesla.com/careers/search/job/271696) | 85 | Palo Alto, CA | AI/ML/Data | 2026-06-06 |
 | [Embedded Software Engineer Intern - AI Platforms - Embedded Software Engineer](https://www.tesla.com/careers/search/job/269819) | 85 | Palo Alto, CA | Hardware | 2026-06-06 |
 | [Service Engineering Intern - Product Support Engineer - Service Engineering](https://www.tesla.com/careers/search/job/271630) | 85 | Palo Alto, CA | Software | 2026-06-06 |
 | [Failure Analysis Engineer Intern - Failure Analysis Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/271544) | 50 | Palo Alto, CA | Hardware | 2026-06-06 |

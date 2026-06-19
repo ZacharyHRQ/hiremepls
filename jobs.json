@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-19T20:45:14.317Z",
+  "generatedAt": "2026-06-19T21:57:34.070Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1174,
+  "jobCount": 1170,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -837,7 +837,6 @@
     "canonical:a98b1aa946348c37": "2026-06-06T12:15:10.399Z",
     "canonical:2b95c48ea9f5b253": "2026-06-06T14:14:20.078Z",
     "canonical:808521aedb31fb4f": "2026-06-06T15:40:28.831Z",
-    "canonical:0ccbf02e3f553636": "2026-06-06T15:40:28.831Z",
     "canonical:525d35ef69b019bc": "2026-06-06T15:40:28.831Z",
     "canonical:7ab57e97fb879c0f": "2026-06-06T15:40:28.831Z",
     "canonical:9787b6e04120138f": "2026-06-06T15:40:28.831Z",
@@ -867,7 +866,6 @@
     "canonical:ef2b41f33d0d6b98": "2026-06-07T01:56:06.706Z",
     "canonical:8003affbd2cfe9d3": "2026-06-07T01:56:06.706Z",
     "canonical:493342a1a4fa0803": "2026-06-07T01:56:06.706Z",
-    "canonical:af12a813c6b20437": "2026-06-07T01:56:06.706Z",
     "canonical:29fdb193792038c4": "2026-06-07T01:56:06.706Z",
     "canonical:54e3e1093ebbff0f": "2026-06-07T06:16:50.879Z",
     "canonical:68b8bf927ec4b525": "2026-06-07T06:16:50.879Z",
@@ -890,7 +888,6 @@
     "canonical:076e3be098a2cf4c": "2026-06-07T09:43:12.130Z",
     "canonical:85799d0d89993d7a": "2026-06-07T09:43:12.130Z",
     "canonical:5a67a98fabd00752": "2026-06-07T09:43:12.130Z",
-    "canonical:ae8af3486ac3e180": "2026-06-07T09:43:12.130Z",
     "canonical:9153a2e708c3ca4b": "2026-06-07T09:43:12.130Z",
     "canonical:e1fc578a71540223": "2026-06-07T09:43:12.130Z",
     "canonical:681b4aad01eba811": "2026-06-08T07:01:35.019Z",
@@ -1166,7 +1163,6 @@
     "canonical:b1355fb9efaeca13": "2026-06-19T02:17:31.951Z",
     "canonical:e31c6f05c180cfcc": "2026-06-19T02:17:31.951Z",
     "canonical:2f7b7a704c723e9b": "2026-06-19T07:34:45.156Z",
-    "canonical:87eab4529cff3827": "2026-06-19T07:34:45.156Z",
     "canonical:6dd85ff3ed8dd5dc": "2026-06-19T07:34:45.156Z",
     "canonical:5db094360a3dbbfc": "2026-06-19T07:34:45.156Z",
     "canonical:7e0e437e2179f412": "2026-06-19T07:34:45.156Z",
@@ -1958,10 +1954,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -1971,10 +1967,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -10891,19 +10887,6 @@
       ]
     },
     {
-      "id": "canonical:0ccbf02e3f553636",
-      "title": "Data Engineer Intern - Fleet Analytics",
-      "url": "https://www.tesla.com/careers/search/job/271696",
-      "location": "Palo Alto, CA",
-      "department": "AI/ML/Data",
-      "company": "Tesla",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:525d35ef69b019bc",
       "title": "Embedded Software Engineer Intern",
       "url": "https://www.zipline.com/careers?gh_jid=7765240003#open-roles",
@@ -11272,19 +11255,6 @@
       ]
     },
     {
-      "id": "canonical:af12a813c6b20437",
-      "title": "Data Engineer Intern - Data Engineer - Fleet Analytics",
-      "url": "https://www.tesla.com/careers/search/job/261351",
-      "location": "Palo Alto, CA",
-      "department": "AI/ML/Data",
-      "company": "Tesla",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:29fdb193792038c4",
       "title": "Software Engineer Intern - Multiple Teams",
       "url": "https://www.tesla.com/careers/search/job/271372",
@@ -11544,19 +11514,6 @@
       "score": 75,
       "scoreReasons": [
         "SWE-aligned"
-      ]
-    },
-    {
-      "id": "canonical:ae8af3486ac3e180",
-      "title": "Product Support Engineer Intern - Product Support Engineer - Service Engineering",
-      "url": "https://www.tesla.com/careers/search/job/259222",
-      "location": "Palo Alto, CA",
-      "department": "Software",
-      "company": "Tesla",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -13854,19 +13811,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:87eab4529cff3827",
-      "title": "Research Intern",
-      "url": "https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/Main-Campus-Columbus-OH/IGM-Research-Intern_R-26457-1",
-      "location": "Columbus, OH",
-      "department": "AI/ML/Data",
-      "company": "Nationwide Children's Hospital",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
