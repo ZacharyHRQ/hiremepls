@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T12:13:18.220Z",
+  "generatedAt": "2026-06-20T14:29:40.471Z",
   "companyCount": 64,
   "okCount": 63,
   "jobCount": 1155,
@@ -58,7 +58,6 @@
     "canonical:047b58e6b7c917a3": "2026-05-15T20:39:51.368Z",
     "canonical:d5b7c15c0c798890": "2026-05-06T06:42:07.596Z",
     "canonical:ad23aadfeb5e4fdd": "2026-05-06T06:42:07.596Z",
-    "canonical:7cf4badefc5f7512": "2026-05-06T06:42:07.596Z",
     "canonical:8cd1b8b92140d848": "2026-05-13T01:22:17.700Z",
     "canonical:e2e40c0322dad93b": "2026-05-06T06:42:07.596Z",
     "canonical:ec3c37431442cdc8": "2026-05-06T06:42:07.596Z",
@@ -1158,7 +1157,8 @@
     "canonical:bb2a9741a3c5b26a": "2026-06-20T03:57:11.576Z",
     "canonical:c2b524baa9da3a28": "2026-06-20T03:57:11.576Z",
     "canonical:10e5bce2ebcb392f": "2026-06-20T03:57:11.576Z",
-    "canonical:495a5708640f7aa7": "2026-06-20T03:57:11.576Z"
+    "canonical:495a5708640f7aa7": "2026-06-20T03:57:11.576Z",
+    "canonical:a54dfaa9c2670ee3": "2026-06-20T14:29:40.471Z"
   },
   "jobs": [
     {
@@ -2170,18 +2170,6 @@
       "id": "canonical:ad23aadfeb5e4fdd",
       "title": "Global Trade Compliance Intern (Summer 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7799138?gh_jid=7799138",
-      "location": "In-Office",
-      "department": "",
-      "company": "Cloudflare",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:7cf4badefc5f7512",
-      "title": "GRC Team Intern (Summer 2026) ",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7577564?gh_jid=7577564",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -10035,6 +10023,19 @@
       "location": "Boston, MA / Remote in USA",
       "department": "AI/ML/Data",
       "company": "ConnectPrep",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:a54dfaa9c2670ee3",
+      "title": "Artificial Intelligence & Machine Learning Intern",
+      "url": "https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Artificial-Intelligence---Machine-Learning-Intern_REQ-2026-8543-1",
+      "location": "Omaha, NE",
+      "department": "AI/ML/Data",
+      "company": "Boys Town",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
