@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-20T10:26:20.936Z",
+  "generatedAt": "2026-06-20T12:13:18.220Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1156,
+  "jobCount": 1155,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -986,7 +986,6 @@
     "canonical:6a54db97364bf00a": "2026-06-13T12:14:00.429Z",
     "canonical:71f4c1680b019759": "2026-06-13T12:14:00.429Z",
     "canonical:941d02dc047a74b1": "2026-06-13T12:14:00.429Z",
-    "canonical:78e461e91d26f884": "2026-06-13T12:14:00.429Z",
     "canonical:f30a89c4a549a784": "2026-06-13T12:14:00.429Z",
     "canonical:cf66be44715f6135": "2026-06-13T12:14:00.429Z",
     "canonical:8504c5f17035dc0a": "2026-06-13T14:26:10.023Z",
@@ -7477,19 +7476,6 @@
       ]
     },
     {
-      "id": "canonical:78e461e91d26f884",
-      "title": "Game Research & Development Intern - Engine Research",
-      "url": "https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/US-Washington-Bellevue/Game-Research---Development-Intern--Engine-Research_R107363",
-      "location": "Bellevue, WA",
-      "department": "Software",
-      "company": "Tencent",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:1e6e6a2ed07745e2",
       "title": "Software Engineer Intern - AI Model Optimization",
       "url": "https://lifeattiktok.com/search/7540823148805032210",
@@ -11622,20 +11608,6 @@
       ]
     },
     {
-      "id": "canonical:8212975b7a6dc9b6",
-      "title": "Software Engineer Intern",
-      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393",
-      "location": "Dallas, TX",
-      "department": "Software",
-      "company": "Copart",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:5adb921f93104e6b",
       "title": "Systems Analyst Intern",
       "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8792",
@@ -13523,6 +13495,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:8212975b7a6dc9b6",
+      "title": "Software Engineer Intern",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109441",
+      "location": "Dallas, TX",
+      "department": "Software",
+      "company": "Copart",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
