@@ -1,6 +1,6 @@
 # Open Internships
 
-**1151** internships across **63/64** companies — last updated 2026-06-20.
+**1149** internships across **63/64** companies — last updated 2026-06-20.
 
 ## Companies
 
@@ -251,7 +251,7 @@
 - [Lensa](#lensa) (3)
 - [LinkedIn](#linkedin) (3)
 - [LiveRamp](#liveramp) (2)
-- [Lucid Motors](#lucid-motors) (3)
+- [Lucid Motors](#lucid-motors) (2)
 - [Lumafield](#lumafield) (1)
 - [Lyft](#lyft) (1)
 - [Mach9](#mach9) (1)
@@ -369,7 +369,7 @@
 - [Sila Nanotechnologies](#sila-nanotechnologies) (2)
 - [Simular](#simular) (2)
 - [Sixtyfour (X25)](#sixtyfour-x25) (1)
-- [Skydio](#skydio) (6)
+- [Skydio](#skydio) (5)
 - [Smith+Nephew](#smith-nephew) (1)
 - [Smiths Detection](#smiths-detection) (1)
 - [Snowflake](#snowflake) (11)
@@ -2160,7 +2160,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Full Stack Engineer Intern](https://job-boards.greenhouse.io/lucidmotors/jobs/5136395007) | 93 | Concord, NH | Software | 2026-06-17 |
 | [Finance Business Analytics Intern](https://job-boards.greenhouse.io/lucidmotors/jobs/5136407007) | 68 | Concord, NH | AI/ML/Data | 2026-06-17 |
 | [Data Analyst Intern](https://job-boards.greenhouse.io/lucidmotors/jobs/5156608007) | 68 | Concord, NH | AI/ML/Data | 2026-06-16 |
 
@@ -3088,7 +3087,6 @@
 | [Middleware Software Engineer Intern](https://jobs.ashbyhq.com/skydio/7d9dbb60-4ca1-4ba8-8bae-5ebfded4a915/application) | 93 | San Mateo, CA | Hardware | 2026-05-21 |
 | [Autonomy Engineer Intern - Computer Vision/Deep Learning Summer 2026](https://jobs.ashbyhq.com/skydio/c84945f0-b8e0-4272-b636-265d6611a8eb/application) | 93 | San Mateo, CA | AI/ML/Data | 2026-05-09 |
 | [Autonomy Engineer Intern - Deep Learning - Computational Photography](https://jobs.ashbyhq.com/skydio/d13e3179-e646-4873-84a6-d492a692bc25/application) | 93 | San Mateo, CA | AI/ML/Data | 2026-05-09 |
-| [Autonomy Engineer Intern Summer 2026](https://jobs.ashbyhq.com/skydio/17f6173b-c96f-4b02-a6b5-da0a91ad95e5/application) | 93 | San Mateo, CA | Software | 2026-05-09 |
 | [PhD Autonomy Engineer Intern - Deep Learning or Computer Vision](https://jobs.ashbyhq.com/skydio/8d3979a8-c791-4825-8cf4-9b25479b9519/application) | 93 | San Mateo, CA | AI/ML/Data | 2026-05-09 |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/skydio/f6320e9b-4eed-408d-8d37-d509fb0406ee/application) | 93 | San Mateo, CA | Software | 2026-05-09 |
 
