@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-19T23:59:48.888Z",
+  "generatedAt": "2026-06-20T03:57:11.576Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1170,
+  "jobCount": 1177,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -831,7 +831,6 @@
     "canonical:1903ea6b0e57aeaa": "2026-06-06T00:04:30.171Z",
     "canonical:0ef865c3ff3f9f5f": "2026-06-06T00:04:30.171Z",
     "canonical:3da39dab672a1b4b": "2026-06-06T00:04:30.171Z",
-    "canonical:062d8ece13f695f7": "2026-06-06T04:18:16.502Z",
     "canonical:27857d8b96bfdf80": "2026-06-06T04:18:16.502Z",
     "canonical:3c4f1b7e61c23218": "2026-06-06T07:29:16.741Z",
     "canonical:a98b1aa946348c37": "2026-06-06T12:15:10.399Z",
@@ -1173,7 +1172,15 @@
     "canonical:89e7b0c6b4dfe205": "2026-06-19T14:42:33.534Z",
     "canonical:c1817238d89b26e3": "2026-06-19T14:42:33.534Z",
     "canonical:dcc57aa64e78aadf": "2026-06-19T14:42:33.534Z",
-    "canonical:b4321a96d5262a5c": "2026-06-19T17:03:13.004Z"
+    "canonical:b4321a96d5262a5c": "2026-06-19T17:03:13.004Z",
+    "canonical:845eba2ca681fa6c": "2026-06-20T03:57:11.576Z",
+    "canonical:cb70b731ac069a0b": "2026-06-20T03:57:11.576Z",
+    "canonical:2ac42ec93a04e435": "2026-06-20T03:57:11.576Z",
+    "canonical:0d51b143c8459099": "2026-06-20T03:57:11.576Z",
+    "canonical:bb2a9741a3c5b26a": "2026-06-20T03:57:11.576Z",
+    "canonical:c2b524baa9da3a28": "2026-06-20T03:57:11.576Z",
+    "canonical:10e5bce2ebcb392f": "2026-06-20T03:57:11.576Z",
+    "canonical:495a5708640f7aa7": "2026-06-20T03:57:11.576Z"
   },
   "jobs": [
     {
@@ -1954,10 +1961,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -1967,10 +1974,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -7925,6 +7932,20 @@
       ]
     },
     {
+      "id": "canonical:845eba2ca681fa6c",
+      "title": "Junior Software Developer Co-op/Intern",
+      "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Junior-Software-Developer--Fall-2026--Co-op-Internship----4-Months_R260013614",
+      "location": "Toronto, ON, Canada",
+      "department": "Software",
+      "company": "Bank of Montreal",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:0df5f76b013e8fd5",
       "title": "DataOps Developer Intern - Months",
       "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5155296008",
@@ -10822,18 +10843,6 @@
       ]
     },
     {
-      "id": "canonical:062d8ece13f695f7",
-      "title": "Engineering Intern - Enrichment and Curation",
-      "url": "https://wayve.firststage.co/jobs?gh_jid=8382427002",
-      "location": "Sunnyvale, CA",
-      "department": "AI/ML/Data",
-      "company": "Wayve",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:27857d8b96bfdf80",
       "title": "Software Engineer Intern - Mapping Autonomous Vehicles",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Mapping-Autonomous-Vehicles---Fall-2026_JR2011493",
@@ -13275,6 +13284,19 @@
       ]
     },
     {
+      "id": "canonical:cb70b731ac069a0b",
+      "title": "Software Engineering & Automation Intern",
+      "url": "https://cubic.wd1.myworkdayjobs.com/cubic_USA_careers/job/Herndon-Virginia/Software-Engineering---Automation-Intern_REQ_49102",
+      "location": "Reston, VA",
+      "department": "Software",
+      "company": "Cubic",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:ed844f44d7281700",
       "title": "Systems Modeling & Optimization Intern - Robotaxi Simulation Engineer - Systems Modeling & Optimization",
       "url": "https://www.tesla.com/careers/search/job/273933",
@@ -13877,6 +13899,83 @@
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:2ac42ec93a04e435",
+      "title": "Junior Report Developer Intern - Analytics and Insights",
+      "url": "https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000133121279",
+      "location": "Toronto, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "University Health Network",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:0d51b143c8459099",
+      "title": "Software Engineering Intern",
+      "url": "https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19500",
+      "location": "Norcross, GA",
+      "department": "Software",
+      "company": "ACI Worldwide ",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:bb2a9741a3c5b26a",
+      "title": "Computer Engineer Intern",
+      "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Pewaukee-WI---USA/Computer-Engineering-Intern_JR14798",
+      "location": "Waukesha, WI",
+      "department": "Software",
+      "company": "Generac",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c2b524baa9da3a28",
+      "title": "AI Product Delivery Intern",
+      "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/AI-Product-Delivery-Intern_REQ-2283",
+      "location": "Toronto, ON, Canada",
+      "department": "Product",
+      "company": "Interac",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:10e5bce2ebcb392f",
+      "title": "Markets Intern",
+      "url": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kingston/Markets-Intern_730763WD",
+      "location": "Aurora, CO",
+      "department": "Quant",
+      "company": "PricewaterhouseCoopers (PwC)",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:495a5708640f7aa7",
+      "title": "Technology Solutions Data Platform & Engineering Co-op/Intern",
+      "url": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9124",
+      "location": "Toronto, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "Definity Financial",
+      "score": 60,
+      "scoreReasons": [
         "high-signal role"
       ]
     },
