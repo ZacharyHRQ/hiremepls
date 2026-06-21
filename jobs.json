@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-21T04:10:17.044Z",
+  "generatedAt": "2026-06-21T08:40:00.766Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1150,
+  "jobCount": 1144,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -70,9 +70,6 @@
     "canonical:8fc863f495e5ebf7": "2026-05-09T15:28:15.527Z",
     "canonical:40b5e3e02c34b6ce": "2026-05-09T15:28:15.527Z",
     "canonical:54eb0918a1a56e5d": "2026-05-09T15:28:15.527Z",
-    "canonical:9a27e5e74164afce": "2026-05-09T15:28:15.527Z",
-    "canonical:a9e020e4b9e3fe85": "2026-05-09T15:28:15.527Z",
-    "canonical:52346b3112e0f582": "2026-05-09T15:28:15.527Z",
     "canonical:7993c081c2d8dcdc": "2026-05-09T15:28:15.527Z",
     "canonical:5ee78c3adcb19994": "2026-05-09T15:28:15.527Z",
     "canonical:17cb5ae6b3db8298": "2026-05-09T15:28:15.527Z",
@@ -188,7 +185,6 @@
     "canonical:885c7029ab2fb04a": "2026-05-09T15:28:15.527Z",
     "canonical:7a35a217bd7a55a7": "2026-05-09T15:28:15.527Z",
     "canonical:3f44cd57fca349f6": "2026-05-09T15:28:15.527Z",
-    "canonical:5c5c4aaee7bd2d24": "2026-05-11T23:38:25.770Z",
     "canonical:6ea8c9f6ba23f934": "2026-05-09T15:28:15.527Z",
     "canonical:c9ec25487402b980": "2026-05-09T15:28:15.527Z",
     "canonical:2c9a7823737a497d": "2026-05-09T15:28:15.527Z",
@@ -238,7 +234,6 @@
     "canonical:68999760a35484d1": "2026-05-09T15:28:15.527Z",
     "canonical:00f50c09f337c39e": "2026-05-09T15:28:15.527Z",
     "canonical:493031c8497921e4": "2026-05-09T15:28:15.527Z",
-    "canonical:deef8719ee67c929": "2026-05-09T15:28:15.527Z",
     "canonical:3f0c0a41c9f51294": "2026-05-09T15:28:15.527Z",
     "canonical:dce68bca01249a01": "2026-05-09T15:28:15.527Z",
     "canonical:1088db8ecc34d95c": "2026-05-09T15:28:15.527Z",
@@ -431,7 +426,6 @@
     "canonical:0d4b33c25b45002b": "2026-05-11T23:38:25.770Z",
     "canonical:1296c279beb39a00": "2026-05-11T23:38:25.770Z",
     "canonical:7c07dd1661862a16": "2026-05-11T23:38:25.770Z",
-    "canonical:b04cfd3af2687e8f": "2026-05-11T23:38:25.770Z",
     "canonical:660c78e7de1f78c8": "2026-05-11T23:38:25.770Z",
     "canonical:d740b7c5e5a74f25": "2026-05-11T23:38:25.770Z",
     "canonical:ce5569247a10aa36": "2026-05-13T22:37:04.081Z",
@@ -758,7 +752,6 @@
     "canonical:b661e8e93c959d87": "2026-05-31T04:52:04.247Z",
     "canonical:b2ba7fb9dd17dfe9": "2026-05-31T04:52:04.247Z",
     "canonical:3006133af70a93bd": "2026-05-31T08:09:00.139Z",
-    "canonical:c7cb2fdebec14a1b": "2026-06-01T03:37:04.741Z",
     "canonical:8ecb94421f2672b5": "2026-06-01T09:03:18.496Z",
     "canonical:e3b70e287d0e2aef": "2026-06-01T22:35:57.770Z",
     "canonical:b4a502570f796f0f": "2026-06-01T22:35:57.770Z",
@@ -1122,7 +1115,6 @@
     "canonical:296035cd95b6d0a8": "2026-06-18T17:39:20.618Z",
     "canonical:3834dfbffd07f37f": "2026-06-18T17:39:20.618Z",
     "canonical:285adf5b37989c57": "2026-06-18T17:39:20.618Z",
-    "canonical:ab713e1b2bb3d076": "2026-06-19T02:17:31.951Z",
     "canonical:21f7860e2eb4a9b1": "2026-06-19T02:17:31.951Z",
     "canonical:e967631c8fecc287": "2026-06-19T02:17:31.951Z",
     "canonical:1463c8d45c6981d1": "2026-06-19T02:17:31.951Z",
@@ -1153,7 +1145,9 @@
     "canonical:f27c30f5eef5d1fb": "2026-06-20T18:53:01.396Z",
     "canonical:ebdb73f1d53cde75": "2026-06-20T18:53:01.396Z",
     "canonical:6a08b8735bc24eb5": "2026-06-20T18:53:01.396Z",
-    "canonical:491ade8f5ec863c3": "2026-06-21T04:10:17.044Z"
+    "canonical:491ade8f5ec863c3": "2026-06-21T04:10:17.044Z",
+    "canonical:40422883ab62a6e2": "2026-06-21T08:40:00.766Z",
+    "canonical:5440425e692e2bce": "2026-06-21T08:40:00.766Z"
   },
   "jobs": [
     {
@@ -1934,10 +1928,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -1947,10 +1941,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2353,43 +2347,6 @@
       "company": "Cribl",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:9a27e5e74164afce",
-      "title": "Software Engineer, AI Platform - Intern",
-      "url": "https://www.nuro.ai/careersitem?gh_jid=7351061",
-      "location": "Mountain View, CA",
-      "department": "Software Engineering",
-      "company": "Nuro",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:a9e020e4b9e3fe85",
-      "title": "Intern, Artificial Intelligence & Innovation",
-      "url": "https://americas-cookmedical.icims.com/jobs/17536/intern%2c-artificial-intelligence-%26-innovation/job",
-      "location": "Bloomington, IN",
-      "department": "Data Science, AI & Machine Learning",
-      "company": "Cook Group",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:52346b3112e0f582",
-      "title": "Information Technology Intern, Artificial Intelligence",
-      "url": "https://americas-cookmedical.icims.com/jobs/17500/information-technology-intern%2c-artificial-intelligence/job",
-      "location": "Bloomington, IN",
-      "department": "Data Science, AI & Machine Learning",
-      "company": "Cook Group",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
     },
     {
       "id": "canonical:7993c081c2d8dcdc",
@@ -3962,20 +3919,6 @@
       ]
     },
     {
-      "id": "canonical:5c5c4aaee7bd2d24",
-      "title": "Embedded Software Developer – Network/Payload Software Intern",
-      "url": "https://job-boards.greenhouse.io/astranis/jobs/4601135006",
-      "location": "SF",
-      "department": "Hardware",
-      "company": "Astranis",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:6ea8c9f6ba23f934",
       "title": "Research Intern - Machine Learning and Optimization",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556655958",
@@ -4952,18 +4895,6 @@
       "id": "canonical:493031c8497921e4",
       "title": "Hardware Systems Intern",
       "url": "https://jobs.ashbyhq.com/physicalintelligence/96bc1142-f406-4df3-aaa0-4bcce85f457f/application",
-      "location": "SF",
-      "department": "Hardware",
-      "company": "Physical Intelligence",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:deef8719ee67c929",
-      "title": "Mechatronics Intern",
-      "url": "https://jobs.ashbyhq.com/physicalintelligence/0bcf909e-b38b-4276-91a1-e55c4c56a33a/application",
       "location": "SF",
       "department": "Hardware",
       "company": "Physical Intelligence",
@@ -8272,18 +8203,6 @@
       ]
     },
     {
-      "id": "canonical:b04cfd3af2687e8f",
-      "title": "Hardware Test Engineering Intern",
-      "url": "http://jobs.ashbyhq.com/heron-power/7c3f30a6-f806-4bf5-a94c-cb4dece20cb2/application",
-      "location": "Santa Cruz, CA",
-      "department": "Hardware",
-      "company": "Heron Power",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:660c78e7de1f78c8",
       "title": "Data Analytics Intern",
       "url": "https://jobs.ashbyhq.com/super.com/1fdfd963-c5cb-49a0-be9a-76826aabf922/application",
@@ -9130,19 +9049,6 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:ab713e1b2bb3d076",
-      "title": "Engagement & Enablement Specialist Co-op/Intern",
-      "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Engagement---Enablement-Specialist--Fall-2026--Co-op-Internship------4-months_R260015283",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Bank of Montreal",
-      "score": 68,
-      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
@@ -10052,19 +9958,6 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:c7cb2fdebec14a1b",
-      "title": "Data Analyst Intern",
-      "url": "https://apply.workable.com/connectprep/j/65F6D2C32E/apply",
-      "location": "Boston, MA / Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "ConnectPrep",
-      "score": 68,
-      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
@@ -13587,6 +13480,32 @@
       "company": "Definity Financial",
       "score": 60,
       "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:40422883ab62a6e2",
+      "title": "Data Analyst Intern",
+      "url": "https://apply.workable.com/connectprep/j/E4655645B8/apply",
+      "location": "Boston, MA",
+      "department": "AI/ML/Data",
+      "company": "ConnectPrep",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:5440425e692e2bce",
+      "title": "Software Engineer Intern - AI Platform",
+      "url": "https://nuro.ai/careersitem?gh_jid=7351061",
+      "location": "Mountain View, CA",
+      "department": "Software",
+      "company": "Nuro",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },
