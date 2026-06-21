@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-21T13:24:50.000Z",
+  "generatedAt": "2026-06-21T15:20:30.663Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1147,
+  "jobCount": 1148,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1150,7 +1150,8 @@
     "canonical:5440425e692e2bce": "2026-06-21T08:40:00.766Z",
     "canonical:5c5c4aaee7bd2d24": "2026-06-21T11:34:18.126Z",
     "canonical:b04cfd3af2687e8f": "2026-06-21T11:34:18.126Z",
-    "canonical:dcc57aa64e78aadf": "2026-06-21T13:24:50.000Z"
+    "canonical:dcc57aa64e78aadf": "2026-06-21T13:24:50.000Z",
+    "canonical:ade11c4713d07751": "2026-06-21T15:20:30.663Z"
   },
   "jobs": [
     {
@@ -11504,6 +11505,18 @@
       "location": "Vancouver, BC, Canada",
       "department": "Software",
       "company": "Seaspan",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:ade11c4713d07751",
+      "title": "Administrative Intern - Sanford School of Public Policy",
+      "url": "https://careers.duke.edu/job/Durham-Administrative-Intern,-Sanford-School-of-Public-Policy-NC-27710/1395747700/?ats=successfactors",
+      "location": "Durham, NC",
+      "department": "AI/ML/Data",
+      "company": "Duke University",
       "score": 60,
       "scoreReasons": [
         "high-signal role"

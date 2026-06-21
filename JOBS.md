@@ -1,6 +1,6 @@
 # Open Internships
 
-**1147** internships across **63/64** companies — last updated 2026-06-21.
+**1148** internships across **63/64** companies — last updated 2026-06-21.
 
 ## Companies
 
@@ -135,6 +135,7 @@
 - [Dover](#dover) (1)
 - [Drivetrain](#drivetrain) (1)
 - [Dryft](#dryft) (1)
+- [Duke University](#duke-university) (1)
 - [DuPont](#dupont) (5)
 - [EarnIn](#earnin) (1)
 - [EdgeTrace](#edgetrace) (1)
@@ -1384,6 +1385,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Full-Stack Engineer Intern](https://jobs.ashbyhq.com/dryft/3f1c261d-9b65-412b-9f17-34b8968bdd78/application) | 93 | SF | Software | 2026-05-09 |
+
+## Duke University
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Administrative Intern - Sanford School of Public Policy](https://careers.duke.edu/job/Durham-Administrative-Intern,-Sanford-School-of-Public-Policy-NC-27710/1395747700/?ats=successfactors) | 60 | Durham, NC | AI/ML/Data | 2026-06-21 |
 
 ## DuPont
 
