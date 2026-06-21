@@ -1,6 +1,6 @@
 # Open Internships
 
-**1146** internships across **63/64** companies — last updated 2026-06-21.
+**1147** internships across **63/64** companies — last updated 2026-06-21.
 
 ## Companies
 
@@ -322,6 +322,7 @@
 - [Persistent Systems](#persistent-systems) (1)
 - [Phia](#phia) (1)
 - [Physical Intelligence](#physical-intelligence) (1)
+- [Picarro](#picarro) (1)
 - [Pinterest](#pinterest) (4)
 - [PlusAI](#plusai) (19)
 - [Podium](#podium) (2)
@@ -2707,6 +2708,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Hardware Systems Intern](https://jobs.ashbyhq.com/physicalintelligence/96bc1142-f406-4df3-aaa0-4bcce85f457f/application) | 58 | SF | Hardware | 2026-05-09 |
+
+## Picarro
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Product Development Intern](https://www.picarro.com/company/careers/job-openings/apply?gh_jid=5253032008) | 50 | Santa Clara, CA | Product | 2026-06-21 |
 
 ## Pinterest
 
