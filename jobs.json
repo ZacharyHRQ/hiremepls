@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-21T08:40:00.766Z",
+  "generatedAt": "2026-06-21T11:34:18.126Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1144,
+  "jobCount": 1146,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1147,7 +1147,9 @@
     "canonical:6a08b8735bc24eb5": "2026-06-20T18:53:01.396Z",
     "canonical:491ade8f5ec863c3": "2026-06-21T04:10:17.044Z",
     "canonical:40422883ab62a6e2": "2026-06-21T08:40:00.766Z",
-    "canonical:5440425e692e2bce": "2026-06-21T08:40:00.766Z"
+    "canonical:5440425e692e2bce": "2026-06-21T08:40:00.766Z",
+    "canonical:5c5c4aaee7bd2d24": "2026-06-21T11:34:18.126Z",
+    "canonical:b04cfd3af2687e8f": "2026-06-21T11:34:18.126Z"
   },
   "jobs": [
     {
@@ -3914,6 +3916,20 @@
       "company": "MCG Health",
       "score": 68,
       "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:5c5c4aaee7bd2d24",
+      "title": "Embedded Software Developer – Network/Payload Software Intern",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4601135006",
+      "location": "SF",
+      "department": "Hardware",
+      "company": "Astranis",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -8199,6 +8215,18 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:b04cfd3af2687e8f",
+      "title": "Hardware Test Engineering Intern",
+      "url": "http://jobs.ashbyhq.com/heron-power/7c3f30a6-f806-4bf5-a94c-cb4dece20cb2/application",
+      "location": "Santa Cruz, CA",
+      "department": "Hardware",
+      "company": "Heron Power",
+      "score": 58,
+      "scoreReasons": [
         "direct ATS"
       ]
     },
