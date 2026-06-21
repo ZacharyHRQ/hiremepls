@@ -161,7 +161,6 @@
 - [Faire](#faire) (1)
 - [Falcomm](#falcomm) (1)
 - [Fanatics](#fanatics) (3)
-- [FHLBank Topeka](#fhlbank-topeka) (1)
 - [Field AI](#field-ai) (1)
 - [Figure](#figure) (1)
 - [Fiserv](#fiserv) (2)
@@ -253,6 +252,7 @@
 - [LiveRamp](#liveramp) (2)
 - [Lucid Motors](#lucid-motors) (2)
 - [Lumafield](#lumafield) (1)
+- [Lumentum](#lumentum) (1)
 - [Lyft](#lyft) (1)
 - [Mach9](#mach9) (1)
 - [Magna](#magna) (3)
@@ -1564,12 +1564,6 @@
 | [Collectibles Intern - Product - Physical Trading Cards](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26720) | 60 | NYC | Quant | 2026-05-09 |
 | [Collectibles Intern - Product - Physical Trading Cards](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27190) | 60 | Coppell, TX | Quant | 2026-05-09 |
 
-## FHLBank Topeka
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Financial Analyst Intern](https://fhlbtopeka.wd1.myworkdayjobs.com/FHLBT/job/Topeka-Kansas/Member-Solutions-Intern_JR100348) | 68 | Topeka, KS | AI/ML/Data | 2026-06-20 |
-
 ## Field AI
 
 | Title | Score | Location | Department | First seen |
@@ -2168,6 +2162,12 @@
 | --- | --- | --- | --- | --- |
 | [Engineering Intern, Embedded Software](https://www.lumafield.com/careers/job?id=fcef5035-421a-4c2e-a79a-b687401a1efe) | 60 | Boston, MA | Software Engineering | 2026-05-09 |
 
+## Lumentum
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Embedded Software Engineer Co-op/Intern](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer--Co-op-Intern-_2026743) | 93 | Ottawa, ON, Canada | Hardware | 2026-06-21 |
+
 ## Lyft
 
 | Title | Score | Location | Department | First seen |
@@ -2184,8 +2184,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Systems Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235414) | 50 | Southfield, MI | Hardware | 2026-06-21 |
 | [Engineering ADAS Perception Features Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235438) | 60 | Auburn Hills, MI | AI/ML/Data | 2026-06-20 |
-| [Tools Engineering Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235428) | 50 | Auburn Hills, MI / Southfield, MI | Hardware | 2026-06-18 |
 | [Product Engineering Engineer Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Grand-Rapids-Michigan-US/Product-Engineering-Intern_R00243272) | 85 | Grand Rapids, MI | Software | 2026-06-15 |
 
 ## Magnite
