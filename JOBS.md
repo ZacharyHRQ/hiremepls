@@ -1,6 +1,6 @@
 # Open Internships
 
-**1149** internships across **63/64** companies — last updated 2026-06-20.
+**1150** internships across **63/64** companies — last updated 2026-06-21.
 
 ## Companies
 
@@ -430,7 +430,7 @@
 - [University Health Network](#university-health-network) (1)
 - [University System of New Hampshire](#university-system-of-new-hampshire) (1)
 - [Vanguard](#vanguard) (1)
-- [Varda Space](#varda-space) (2)
+- [Varda Space](#varda-space) (3)
 - [Veeam Software](#veeam-software) (2)
 - [Veeva](#veeva) (1)
 - [Veeva Systems](#veeva-systems) (1)
@@ -3689,6 +3689,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Automation & Test Intern](https://job-boards.greenhouse.io/vardaspace/jobs/7663353003) | 58 | El Segundo, CA | Hardware | 2026-06-21 |
 | [Mission Software – Intern - Python](https://job-boards.greenhouse.io/vardaspace/jobs/7676465003) | 68 | El Segundo, CA | Software | 2026-06-13 |
 | [Mission Operations Intern](https://job-boards.greenhouse.io/vardaspace/jobs/7663358003) | 68 | El Segundo, CA | Software | 2026-05-09 |
 

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-20T23:58:40.652Z",
+  "generatedAt": "2026-06-21T04:10:17.044Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1149,
+  "jobCount": 1150,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1152,7 +1152,8 @@
     "canonical:8c45020d76e40a27": "2026-06-20T18:53:01.396Z",
     "canonical:f27c30f5eef5d1fb": "2026-06-20T18:53:01.396Z",
     "canonical:ebdb73f1d53cde75": "2026-06-20T18:53:01.396Z",
-    "canonical:6a08b8735bc24eb5": "2026-06-20T18:53:01.396Z"
+    "canonical:6a08b8735bc24eb5": "2026-06-20T18:53:01.396Z",
+    "canonical:491ade8f5ec863c3": "2026-06-21T04:10:17.044Z"
   },
   "jobs": [
     {
@@ -6000,6 +6001,18 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:491ade8f5ec863c3",
+      "title": "Automation & Test Intern",
+      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7663353003",
+      "location": "El Segundo, CA",
+      "department": "Hardware",
+      "company": "Varda Space",
+      "score": 58,
+      "scoreReasons": [
         "direct ATS"
       ]
     },
