@@ -1,6 +1,6 @@
 # Open Internships
 
-**1148** internships across **63/64** companies — last updated 2026-06-21.
+**1147** internships across **63/64** companies — last updated 2026-06-21.
 
 ## Companies
 
@@ -280,7 +280,7 @@
 - [Metalenz](#metalenz) (1)
 - [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (4)
 - [Microchip Technology](#microchip-technology) (1)
-- [Microsoft](#microsoft) (38)
+- [Microsoft](#microsoft) (37)
 - [MongoDB](#mongodb) (1)
 - [Monolithic Power Systems](#monolithic-power-systems) (2)
 - [Multiply Labs](#multiply-labs) (2)
@@ -2369,7 +2369,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Data Center Technician Intern](https://apply.careers.microsoft.com/careers/job/1970393556867685) | 50 | Ontario, Canada | Hardware | 2026-06-20 |
 | [Researcher Intern](https://apply.careers.microsoft.com/careers/job/1970393556874233) | 85 | Redmond, WA / Mountain View, CA | AI/ML/Data | 2026-06-10 |
 | [Research Intern - Self-Improving AI](https://apply.careers.microsoft.com/careers/job/1970393556867858) | 60 | Cambridge, MA / NYC | AI/ML/Data | 2026-05-19 |
 | [Research Intern](https://apply.careers.microsoft.com/careers/job/1970393556621789) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
@@ -3204,8 +3203,8 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer, New Grad, Developer & End User Experience Platform](https://stripe.com/jobs/search?gh_jid=7991718) | 91 | Toronto | — | 2026-06-11 |
 | [PhD Data Scientist Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | Seattle, WA / SF / Chicago, IL / NYC | AI/ML/Data | 2026-06-06 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | 56 | Mexico City, Mexico | — | 2026-05-06 |

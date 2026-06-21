@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-21T15:20:30.663Z",
+  "generatedAt": "2026-06-21T16:59:07.885Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1148,
+  "jobCount": 1147,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1134,7 +1134,6 @@
     "canonical:10e5bce2ebcb392f": "2026-06-20T03:57:11.576Z",
     "canonical:495a5708640f7aa7": "2026-06-20T03:57:11.576Z",
     "canonical:a54dfaa9c2670ee3": "2026-06-20T14:29:40.471Z",
-    "canonical:b1c3bc01bef551d7": "2026-06-20T15:58:49.703Z",
     "canonical:079fba44d48bf733": "2026-06-20T17:26:31.734Z",
     "canonical:f5d84370157fe2ee": "2026-06-20T17:26:31.734Z",
     "canonical:1cb06eb7b801cca8": "2026-06-20T17:26:31.734Z",
@@ -1932,10 +1931,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -1945,10 +1944,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -11534,16 +11533,6 @@
         "high-signal role",
         "direct ATS"
       ]
-    },
-    {
-      "id": "canonical:b1c3bc01bef551d7",
-      "title": "Data Center Technician Intern",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556867685",
-      "location": "Ontario, Canada",
-      "department": "Hardware",
-      "company": "Microsoft",
-      "score": 50,
-      "scoreReasons": []
     },
     {
       "id": "canonical:a0c3232bb05edac6",
