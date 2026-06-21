@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-21T16:59:07.885Z",
+  "generatedAt": "2026-06-21T18:19:38.969Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1147,
+  "jobCount": 1146,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -917,7 +917,6 @@
     "canonical:96cbded783b7d471": "2026-06-10T10:32:54.759Z",
     "canonical:93c1aa291cbc1779": "2026-06-10T10:32:54.759Z",
     "canonical:22dae1a137d93dbc": "2026-06-10T10:32:54.759Z",
-    "canonical:baffa0dbe29c76f1": "2026-06-10T10:32:54.759Z",
     "canonical:c9dbb6701d414954": "2026-06-10T10:32:54.759Z",
     "canonical:49b590c71528f23b": "2026-06-10T10:32:54.759Z",
     "canonical:311df6d93e910581": "2026-06-10T13:58:51.425Z",
@@ -1931,10 +1930,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -1944,10 +1943,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -11910,18 +11909,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:baffa0dbe29c76f1",
-      "title": "Data Analysis Intern - Logistics - Supply Chain",
-      "url": "https://fa-exjq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/SHEIN/job/USA08128269",
-      "location": "United States",
-      "department": "AI/ML/Data",
-      "company": "SHEIN",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {
