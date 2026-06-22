@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-22T05:27:44.308Z",
+  "generatedAt": "2026-06-22T11:12:34.330Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1139,
+  "jobCount": 1138,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -891,7 +891,6 @@
     "canonical:9163005d34fce756": "2026-06-08T23:57:00.045Z",
     "canonical:9f62862f029b086d": "2026-06-08T23:57:00.045Z",
     "canonical:79d00a4563fdbcf3": "2026-06-08T23:57:00.045Z",
-    "canonical:18768fabbd37a5ea": "2026-06-08T23:57:00.045Z",
     "canonical:65f7ca22fb29befa": "2026-06-08T23:57:00.045Z",
     "canonical:a9fec30c036e9862": "2026-06-09T10:23:15.549Z",
     "canonical:cff77a752a354cd5": "2026-06-09T16:15:38.284Z",
@@ -11516,18 +11515,6 @@
       "id": "canonical:79d00a4563fdbcf3",
       "title": "Engineering Quality Intern",
       "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8803",
-      "location": "Vancouver, BC, Canada",
-      "department": "AI/ML/Data",
-      "company": "Seaspan",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:18768fabbd37a5ea",
-      "title": "Configuration and Data Management Intern",
-      "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8766",
       "location": "Vancouver, BC, Canada",
       "department": "AI/ML/Data",
       "company": "Seaspan",
