@@ -34,8 +34,8 @@
     "7926692"
   ],
   "Tower Research Capital": [
-    "7988899",
     "7988896",
+    "7988899",
     "7062370",
     "7789933"
   ],
@@ -106,8 +106,8 @@
   ],
   "Stripe": [
     "7544547",
-    "7285974",
     "7874965",
+    "7285974",
     "7176977",
     "7532256",
     "7991718",
@@ -655,7 +655,6 @@
     "simplify:855330a8-8ad4-40b3-9ee1-7080a37406ba",
     "simplify:20fd552d-3f73-4f9b-8983-f8c6037b0835",
     "simplify:fc950795-e3d8-4ecb-8799-9fe711d3e880",
-    "simplify:5f15e338-9e4f-4242-b54d-601ea20a4339",
     "simplify:4d067a40-1552-4bc3-8efb-139946654932",
     "simplify:b2108b78-20bb-4950-b769-4d3f0cfd7ebe",
     "simplify:1890070e-5df6-42c3-99b3-fe0af8d95d7f",
@@ -796,7 +795,6 @@
     "simplify:e3ae41c7-d6ca-4d08-aa0c-23cd1ac65dec",
     "simplify:d6f4cdc5-68b7-4f4f-a0af-e69f110a8a31",
     "simplify:f96f37aa-90f1-4570-b25c-870dcbcee499",
-    "simplify:4cdd67e8-4de5-4374-a3b7-282ccae58d77",
     "simplify:de5074f8-86bf-493d-b154-08ce9f1f4a9c",
     "simplify:d68e8d08-2c09-4761-bfd9-aab4c29a46fa",
     "simplify:b10c6b57-8e2e-42f5-81f2-1a0ebe432764",
@@ -1062,7 +1060,8 @@
     "simplify:da1b5b7e-ac67-409e-90d4-3cdb8496619a",
     "simplify:242bc7fa-31c3-45b7-959c-5b55fe14cd07",
     "simplify:16adbd1f-0eba-4546-abbb-47028c0abca4",
-    "simplify:cd98e851-308e-45b4-a479-fb0a0772898f"
+    "simplify:cd98e851-308e-45b4-a479-fb0a0772898f",
+    "simplify:d85d289c-51f3-4f64-a4f9-fb72a227ccf2"
   ],
   "vanshb03": [
     "vansh:df70fa57-977b-4f31-832e-a0e57ed070b5",

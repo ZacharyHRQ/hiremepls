@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-22T21:47:03.066Z",
+  "generatedAt": "2026-06-22T23:11:18.221Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1118,
+  "jobCount": 1117,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -420,7 +420,6 @@
     "canonical:9439282ae35186c1": "2026-05-14T01:31:29.727Z",
     "canonical:18b1fc33685ecfa0": "2026-05-14T01:31:29.727Z",
     "canonical:4d80d3c0fa984737": "2026-05-14T05:32:10.854Z",
-    "canonical:667f2b3a88e2c544": "2026-05-14T05:32:10.854Z",
     "canonical:672531f86f6d39cd": "2026-05-14T05:32:10.854Z",
     "canonical:8e6a874ae67bbc06": "2026-05-14T05:32:10.854Z",
     "canonical:5d5c9780f955f253": "2026-05-14T05:32:10.854Z",
@@ -749,7 +748,6 @@
     "canonical:b390871ecd79ae1f": "2026-06-03T00:01:07.922Z",
     "canonical:591f77d8c25c0856": "2026-06-03T00:01:07.922Z",
     "canonical:a24cbe9d8652e7b2": "2026-06-03T00:01:07.922Z",
-    "canonical:7f8f694eee1c6d30": "2026-06-03T00:01:07.922Z",
     "canonical:2fc67c32963a8970": "2026-06-03T00:01:07.922Z",
     "canonical:b756c1405d005a89": "2026-06-03T00:01:07.922Z",
     "canonical:f335cc870420f551": "2026-06-03T00:01:07.922Z",
@@ -1121,7 +1119,8 @@
     "canonical:a421f7ccf418179e": "2026-06-22T15:59:56.278Z",
     "canonical:b1c3bc01bef551d7": "2026-06-22T15:59:56.278Z",
     "canonical:c1817238d89b26e3": "2026-06-22T19:32:14.187Z",
-    "canonical:c2b89946ce467519": "2026-06-22T19:32:14.187Z"
+    "canonical:c2b89946ce467519": "2026-06-22T19:32:14.187Z",
+    "canonical:bd4e181d83e4431b": "2026-06-22T23:11:18.221Z"
   },
   "jobs": [
     {
@@ -1383,7 +1382,7 @@
     {
       "id": "canonical:90de0872641ecba5",
       "title": "Intern",
-      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988899",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988896",
       "location": "Gift City",
       "department": "",
       "company": "Tower Research Capital",
@@ -1890,10 +1889,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -1903,10 +1902,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -8094,20 +8093,6 @@
       ]
     },
     {
-      "id": "canonical:667f2b3a88e2c544",
-      "title": "Software Developer Intern - Multiple Teams",
-      "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5184158008",
-      "location": "Toronto, ON, Canada / Oakville, ON, Canada / Kitchener, ON, Canada",
-      "department": "Software",
-      "company": "Geotab",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:672531f86f6d39cd",
       "title": "Data Analyst Intern",
       "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oZD5zfw0?nl=1&nl=1&fr=false",
@@ -9858,19 +9843,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:7f8f694eee1c6d30",
-      "title": "Software Engineering Intern - Data Science Engineering",
-      "url": "https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/Colorado---Broomfield/Intern--Software-Engineering---Data-Science-Engineering--Broomfield--CO-_R-01331",
-      "location": "Broomfield, CO",
-      "department": "AI/ML/Data",
-      "company": "Magnite",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -13147,6 +13119,19 @@
       "location": "London, UK",
       "department": "AI/ML/Data",
       "company": "Tencent",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:bd4e181d83e4431b",
+      "title": "Software Development Intern",
+      "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Software-Development-Intern_REQ-2272",
+      "location": "Toronto, ON, Canada",
+      "department": "Software",
+      "company": "Interac",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
