@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-21T22:47:02.406Z",
+  "generatedAt": "2026-06-22T00:03:12.680Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1144,
+  "jobCount": 1145,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1147,7 +1147,8 @@
     "canonical:dcc57aa64e78aadf": "2026-06-21T13:24:50.000Z",
     "canonical:ade11c4713d07751": "2026-06-21T15:20:30.663Z",
     "canonical:0c5ee1177f8000ee": "2026-06-21T21:39:56.425Z",
-    "canonical:aa43ee77d75cfa12": "2026-06-21T21:39:56.425Z"
+    "canonical:aa43ee77d75cfa12": "2026-06-21T21:39:56.425Z",
+    "canonical:bc334a94a24f339e": "2026-06-22T00:03:12.680Z"
   },
   "jobs": [
     {
@@ -1928,10 +1929,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -1941,10 +1942,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -13511,6 +13512,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:bc334a94a24f339e",
+      "title": "Process Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7765271003",
+      "location": "LA",
+      "department": "AI/ML/Data",
+      "company": "Freeform",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
