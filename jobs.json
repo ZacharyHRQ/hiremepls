@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-22T11:12:34.330Z",
+  "generatedAt": "2026-06-22T15:59:56.278Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1138,
+  "jobCount": 1131,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -237,7 +237,6 @@
     "canonical:603ec7ff2d705b82": "2026-05-09T15:28:15.527Z",
     "canonical:15bf3d22c1919f77": "2026-05-09T15:28:15.527Z",
     "canonical:577263c8e7fc21c9": "2026-05-09T15:28:15.527Z",
-    "canonical:c261afedaf6c1fc4": "2026-05-09T15:28:15.527Z",
     "canonical:e95e79cf8a491a1a": "2026-05-09T15:28:15.527Z",
     "canonical:9706223856dee25f": "2026-05-09T15:28:15.527Z",
     "canonical:490e7483dc27c0c0": "2026-05-09T15:28:15.527Z",
@@ -250,7 +249,6 @@
     "canonical:516ca83ddb6d4d40": "2026-05-09T15:28:15.527Z",
     "canonical:c6bd1cc3d8bd01b8": "2026-05-09T15:28:15.527Z",
     "canonical:d3ce9a5e5ddb0169": "2026-05-09T15:28:15.527Z",
-    "canonical:4c5e1f6f6dc5a517": "2026-05-09T15:28:15.527Z",
     "canonical:a6145bd6dfb6a1e7": "2026-05-09T15:28:15.527Z",
     "canonical:9e42770bf99c0f7e": "2026-05-09T15:28:15.527Z",
     "canonical:2d6881328100367d": "2026-05-09T15:28:15.527Z",
@@ -378,7 +376,6 @@
     "canonical:cf50f0a4d4fd39c2": "2026-05-09T15:28:15.527Z",
     "canonical:0a8f213bd98a92bc": "2026-05-09T15:28:15.527Z",
     "canonical:11c1b4c81d7b5642": "2026-05-09T15:28:15.527Z",
-    "canonical:3d9b440d729cddea": "2026-05-09T15:28:15.527Z",
     "canonical:b517dba4bb4840a4": "2026-05-09T15:28:15.527Z",
     "canonical:72a13f956e90ff2e": "2026-05-09T15:28:15.527Z",
     "canonical:673abedac09c760d": "2026-05-09T15:28:15.527Z",
@@ -887,9 +884,7 @@
     "canonical:3f94a7964c2e6f0f": "2026-06-08T23:57:00.045Z",
     "canonical:aee7577b19ec0ab4": "2026-06-08T23:57:00.045Z",
     "canonical:97a6914dba9e6da7": "2026-06-08T23:57:00.045Z",
-    "canonical:5adb921f93104e6b": "2026-06-08T23:57:00.045Z",
     "canonical:9163005d34fce756": "2026-06-08T23:57:00.045Z",
-    "canonical:9f62862f029b086d": "2026-06-08T23:57:00.045Z",
     "canonical:79d00a4563fdbcf3": "2026-06-08T23:57:00.045Z",
     "canonical:65f7ca22fb29befa": "2026-06-08T23:57:00.045Z",
     "canonical:a9fec30c036e9862": "2026-06-09T10:23:15.549Z",
@@ -1040,7 +1035,6 @@
     "canonical:80683ba5e9cf44e3": "2026-06-16T15:25:00.747Z",
     "canonical:2c8283404a0e6565": "2026-06-16T21:42:43.395Z",
     "canonical:11abfcbfe59f8ba1": "2026-06-16T21:42:43.395Z",
-    "canonical:7c7c7d7a5dc9ba80": "2026-06-16T21:42:43.395Z",
     "canonical:1108c80c82d7f4d2": "2026-06-16T21:42:43.395Z",
     "canonical:7b82545edd92979c": "2026-06-16T21:42:43.395Z",
     "canonical:a67713b89b2d0000": "2026-06-16T23:09:30.532Z",
@@ -1103,7 +1097,6 @@
     "canonical:2490d8bfc16fc718": "2026-06-18T11:04:19.200Z",
     "canonical:7dd8143286e8669f": "2026-06-18T11:04:19.200Z",
     "canonical:9ad651191c50cbc1": "2026-06-18T14:20:35.998Z",
-    "canonical:4d53d98827cc1de5": "2026-06-18T14:20:35.998Z",
     "canonical:296035cd95b6d0a8": "2026-06-18T17:39:20.618Z",
     "canonical:3834dfbffd07f37f": "2026-06-18T17:39:20.618Z",
     "canonical:285adf5b37989c57": "2026-06-18T17:39:20.618Z",
@@ -1139,9 +1132,9 @@
     "canonical:5c5c4aaee7bd2d24": "2026-06-21T11:34:18.126Z",
     "canonical:b04cfd3af2687e8f": "2026-06-21T11:34:18.126Z",
     "canonical:dcc57aa64e78aadf": "2026-06-21T13:24:50.000Z",
-    "canonical:ade11c4713d07751": "2026-06-21T15:20:30.663Z",
     "canonical:0c5ee1177f8000ee": "2026-06-21T21:39:56.425Z",
-    "canonical:aa43ee77d75cfa12": "2026-06-21T21:39:56.425Z"
+    "canonical:a421f7ccf418179e": "2026-06-22T15:59:56.278Z",
+    "canonical:b1c3bc01bef551d7": "2026-06-22T15:59:56.278Z"
   },
   "jobs": [
     {
@@ -1520,10 +1513,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1534,10 +1527,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1922,10 +1915,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -1935,10 +1928,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -4991,19 +4984,6 @@
       ]
     },
     {
-      "id": "canonical:c261afedaf6c1fc4",
-      "title": "Backoffice Engineering Intern",
-      "url": "https://job-boards.greenhouse.io/gelberhandshake/jobs/4657274006",
-      "location": "Chicago, IL",
-      "department": "Software",
-      "company": "Gelber Group",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:e95e79cf8a491a1a",
       "title": "Application Development Intern",
       "url": "https://jobs.smartrecruiters.com/NorthwesternMutual/85751711",
@@ -5231,18 +5211,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:4c5e1f6f6dc5a517",
-      "title": "Intern Software Engineering",
-      "url": "https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/18763",
-      "location": "Omaha, NE",
-      "department": "Software",
-      "company": "ACI Worldwide ",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {
@@ -7389,19 +7357,6 @@
       "location": "Austin, TX",
       "department": "AI/ML/Data",
       "company": "Integra FEC",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:3d9b440d729cddea",
-      "title": "Software Engineering Intern - Backoffice Team",
-      "url": "https://job-boards.greenhouse.io/gelbergroup/jobs/4657272006",
-      "location": "Chicago, IL",
-      "department": "Software",
-      "company": "Gelber Group",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -9755,6 +9710,16 @@
       ]
     },
     {
+      "id": "canonical:a421f7ccf418179e",
+      "title": "Tools Engineering Intern",
+      "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235428",
+      "location": "Auburn Hills, MI / Southfield, MI",
+      "department": "Hardware",
+      "company": "Magna",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
       "id": "canonical:9e2ca9c244113a9f",
       "title": "Computer Vision/AI Intern - Computer Vision/AI",
       "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8560657002",
@@ -9953,20 +9918,6 @@
       "location": "Palo Alto, CA",
       "department": "Software",
       "company": "GenBio AI",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:4d53d98827cc1de5",
-      "title": "Quality Engineer Intern - ERP Data Migration - Quality Engineering",
-      "url": "https://imerys.wd3.myworkdayjobs.com/imerys_career2/job/Niagara-Falls-New-York-USA/Intern_REQ-11538",
-      "location": "Niagara Falls, NY",
-      "department": "AI/ML/Data",
-      "company": "Imerys",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -11389,18 +11340,6 @@
       ]
     },
     {
-      "id": "canonical:ade11c4713d07751",
-      "title": "Administrative Intern - Sanford School of Public Policy",
-      "url": "https://careers.duke.edu/job/Durham-Administrative-Intern,-Sanford-School-of-Public-Policy-NC-27710/1395747700/?ats=successfactors",
-      "location": "Durham, NC",
-      "department": "AI/ML/Data",
-      "company": "Duke University",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:80d8b55bc00c3b4c",
       "title": "Business Intelligence Intern",
       "url": "https://jobs.smartrecruiters.com/Eurofins/744000130829489",
@@ -11412,6 +11351,16 @@
         "high-signal role",
         "direct ATS"
       ]
+    },
+    {
+      "id": "canonical:b1c3bc01bef551d7",
+      "title": "Data Center Technician Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556867685",
+      "location": "Ontario, Canada",
+      "department": "Hardware",
+      "company": "Microsoft",
+      "score": 50,
+      "scoreReasons": []
     },
     {
       "id": "canonical:a0c3232bb05edac6",
@@ -11476,33 +11425,9 @@
       ]
     },
     {
-      "id": "canonical:5adb921f93104e6b",
-      "title": "Systems Analyst Intern",
-      "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8792",
-      "location": "Vancouver, BC, Canada",
-      "department": "AI/ML/Data",
-      "company": "Seaspan",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:9163005d34fce756",
       "title": "Digital Shipyards Architecture Intern",
       "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8812",
-      "location": "Vancouver, BC, Canada",
-      "department": "AI/ML/Data",
-      "company": "Seaspan",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:9f62862f029b086d",
-      "title": "Business Technology Solutions Intern",
-      "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8741",
       "location": "Vancouver, BC, Canada",
       "department": "AI/ML/Data",
       "company": "Seaspan",
@@ -12548,18 +12473,6 @@
       ]
     },
     {
-      "id": "canonical:7c7c7d7a5dc9ba80",
-      "title": "Artificial Intelligence Intern",
-      "url": "https://jobs-bylight.icims.com/jobs/11083/job?mobile=true&needsRedirect=false",
-      "location": "Remote in USA",
-      "department": "Software",
-      "company": "By Light Professional IT Services",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:1108c80c82d7f4d2",
       "title": "Data Analyst Intern",
       "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5156608007",
@@ -12891,16 +12804,6 @@
       "scoreReasons": [
         "high-signal role"
       ]
-    },
-    {
-      "id": "canonical:aa43ee77d75cfa12",
-      "title": "Systems Intern",
-      "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235414",
-      "location": "Southfield, MI",
-      "department": "Hardware",
-      "company": "Magna",
-      "score": 50,
-      "scoreReasons": []
     },
     {
       "id": "canonical:569506bec1b33e0d",
