@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-22T19:32:14.187Z",
+  "generatedAt": "2026-06-22T21:47:03.066Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1120,
+  "jobCount": 1118,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -297,7 +297,6 @@
     "canonical:b86053a97df4e116": "2026-05-09T15:28:15.527Z",
     "canonical:e6ef25e90c9890c5": "2026-05-15T12:06:03.304Z",
     "canonical:82849cfc4b355f26": "2026-05-09T15:28:15.527Z",
-    "canonical:ae740d40b4927a7c": "2026-05-09T15:28:15.527Z",
     "canonical:35d0d770049adbd3": "2026-05-09T15:28:15.527Z",
     "canonical:33e86b7068f81940": "2026-05-09T15:28:15.527Z",
     "canonical:b926da94b8d1765f": "2026-05-09T15:28:15.527Z",
@@ -1065,7 +1064,6 @@
     "canonical:5b93475ac32ee191": "2026-06-17T06:49:09.742Z",
     "canonical:2a600b101ee31a5b": "2026-06-17T06:49:09.742Z",
     "canonical:411bdab6bb2d495d": "2026-06-17T11:27:12.169Z",
-    "canonical:018caff58b5cf441": "2026-06-17T11:27:12.169Z",
     "canonical:80ea03d7469b02b7": "2026-06-17T14:35:40.368Z",
     "canonical:4168fcd2f5f91a08": "2026-06-17T17:36:29.585Z",
     "canonical:1cb970dd90b802db": "2026-06-17T17:36:29.585Z",
@@ -6044,18 +6042,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:ae740d40b4927a7c",
-      "title": "Customer Qualification Engineer Intern",
-      "url": "https://jobs.smartrecruiters.com/Kioxia/744000113747607",
-      "location": "Santa Clara, CA",
-      "department": "Hardware",
-      "company": "Kioxia",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
       ]
     },
     {
@@ -12717,20 +12703,6 @@
       "company": "Texas Instruments",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:018caff58b5cf441",
-      "title": "Software Developer Intern",
-      "url": "https://jobs.ashbyhq.com/tempo-io/ce1025fe-9be4-43e4-b1fb-3f1cf3425fab/application",
-      "location": "Toronto, ON, Canada",
-      "department": "Software",
-      "company": "Tempo ",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
     },
     {
       "id": "canonical:c32262e36ae9b8e5",

@@ -1,6 +1,6 @@
 # Open Internships
 
-**1120** internships across **63/64** companies — last updated 2026-06-22.
+**1118** internships across **63/64** companies — last updated 2026-06-22.
 
 ## Companies
 
@@ -236,7 +236,6 @@
 - [KBR](#kbr) (1)
 - [Kinaxis](#kinaxis) (3)
 - [KION Group](#kion-group) (1)
-- [Kioxia](#kioxia) (1)
 - [KLA](#kla) (1)
 - [Kognitos](#kognitos) (1)
 - [KPH Healthcare Services](#kph-healthcare-services) (1)
@@ -395,7 +394,6 @@
 - [TDS](#tds) (1)
 - [Teall Sports & Entertainment](#teall-sports-entertainment) (1)
 - [Technergetics](#technergetics) (1)
-- [Tempo ](#tempo) (1)
 - [Tencent](#tencent) (12)
 - [TENEX.AI](#tenex-ai) (1)
 - [Tenstorrent](#tenstorrent) (6)
@@ -2042,12 +2040,6 @@
 | --- | --- | --- | --- | --- |
 | [AI Intern](https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Atlanta-GA-United-States/AI-Internships_JR-0088855) | 68 | Grand Rapids, MI / Plano, TX / Atlanta, GA | Software | 2026-06-13 |
 
-## Kioxia
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Customer Qualification Engineer Intern](https://jobs.smartrecruiters.com/Kioxia/744000113747607) | 58 | Santa Clara, CA | Hardware | 2026-05-09 |
-
 ## KLA
 
 | Title | Score | Location | Department | First seen |
@@ -3247,12 +3239,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [R&D Engineer Intern](https://job-boards.greenhouse.io/technergetics/jobs/4681908006) | 58 | Remote in USA | Hardware | 2026-05-26 |
-
-## Tempo 
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Developer Intern](https://jobs.ashbyhq.com/tempo-io/ce1025fe-9be4-43e4-b1fb-3f1cf3425fab/application) | 93 | Toronto, ON, Canada | Software | 2026-06-17 |
 
 ## Tencent
 
