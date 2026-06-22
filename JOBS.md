@@ -1,12 +1,12 @@
 # Open Internships
 
-**1145** internships across **63/64** companies — last updated 2026-06-22.
+**1139** internships across **63/64** companies — last updated 2026-06-22.
 
 ## Companies
 
 - [1Password](#1password) (8)
 - [60decibelsinc](#60decibelsinc) (1)
-- [ABB](#abb) (3)
+- [ABB](#abb) (2)
 - [ABC News](#abc-news) (1)
 - [Abundant](#abundant) (1)
 - [AccuWeather](#accuweather) (1)
@@ -95,7 +95,7 @@
 - [Citadel](#citadel) (4)
 - [Citadel Securities](#citadel-securities) (3)
 - [Clarity Innovations](#clarity-innovations) (1)
-- [Cloudflare](#cloudflare) (11)
+- [Cloudflare](#cloudflare) (10)
 - [Cloudforce](#cloudforce) (1)
 - [Codeage](#codeage) (1)
 - [Cohere](#cohere) (3)
@@ -172,7 +172,6 @@
 - [Forvis Mazars US](#forvis-mazars-us) (1)
 - [Foundation ](#foundation) (1)
 - [Four Hands](#four-hands) (1)
-- [Freeform](#freeform) (1)
 - [GE Vernova](#ge-vernova) (1)
 - [Gelber Group](#gelber-group) (5)
 - [Gemini](#gemini) (1)
@@ -205,9 +204,8 @@
 - [Hershey Entertainment & Resorts Company](#hershey-entertainment-resorts-company) (1)
 - [Hewlett Packard Enterprise](#hewlett-packard-enterprise) (1)
 - [HEXAWARE](#hexaware) (1)
-- [Highmark Health](#highmark-health) (1)
 - [Hitachi](#hitachi) (2)
-- [HNTB](#hntb) (2)
+- [HNTB](#hntb) (1)
 - [Homebase](#homebase) (1)
 - [Honeywell](#honeywell) (1)
 - [Howard University](#howard-university) (1)
@@ -442,7 +440,7 @@
 - [Verkada](#verkada) (5)
 - [Viridien](#viridien) (1)
 - [Voloridge Investment Management](#voloridge-investment-management) (1)
-- [W.R. Berkley](#w-r-berkley) (2)
+- [W.R. Berkley](#w-r-berkley) (1)
 - [Waabi](#waabi) (2)
 - [Walmart](#walmart) (1)
 - [Walrus](#walrus) (1)
@@ -487,7 +485,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [AI Data Scientist Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI---Data-Scientist-AI-Intern---Fall-2026_JR00036225) | 93 | Morrisville, NC | AI/ML/Data | 2026-06-17 |
-| [AI Vision Engineer Intern- AI Robotics](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/San-Jose-California-United-States-of-America/AI-Vision-Engineer-Intern--AI-Robotics--Spring-2026_JR00014185) | 93 | San Jose, CA | Data Science, AI & Machine Learning | 2026-05-09 |
 | [Software Engineering Intern- Summer 2026](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Bartlesville-Oklahoma-United-States-of-America/Software-Engineering-Intern--Summer-2026_JR00014418) | 68 | Bartlesville, OK | Software Engineering | 2026-05-09 |
 
 ## ABC News
@@ -1138,7 +1135,6 @@
 | [Global Trade Compliance Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7799138?gh_jid=7799138) | 58 | In-Office | — | 2026-05-06 |
 | [People Operations Intern (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7855832?gh_jid=7855832) | 58 | In-Office | — | 2026-05-06 |
 | [People Team Business Partner intern (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7855864?gh_jid=7855864) | 58 | In-Office | — | 2026-05-06 |
-| [Public Policy Intern, APJC (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7863831?gh_jid=7863831) | 58 | In-Office | — | 2026-05-06 |
 | [Threat Detection and Incident Response Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7577205?gh_jid=7577205) | 58 | In-Office | — | 2026-05-06 |
 | [Business Analyst Intern, Marketing (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7729700?gh_jid=7729700) | 38 | In-Office | — | 2026-05-06 |
 | [Sales: Solutions Engineer - Intern (Summer & Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7792962?gh_jid=7792962) | 38 | In-Office | — | 2026-05-06 |
@@ -1634,12 +1630,6 @@
 | --- | --- | --- | --- | --- |
 | [Product Development Intern](https://job-boards.greenhouse.io/fourhands/jobs/4272048009) | 58 | Austin, TX | Product | 2026-06-08 |
 
-## Freeform
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Process Engineer Intern](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7765271003) | 93 | LA | AI/ML/Data | 2026-06-22 |
-
 ## GE Vernova
 
 | Title | Score | Location | Department | First seen |
@@ -1848,12 +1838,6 @@
 | --- | --- | --- | --- | --- |
 | [Intern Data Engineer](https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/623864) | 85 | United States | AI/ML/Data | 2026-05-09 |
 
-## Highmark Health
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Graduate Intern](https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/PA-Working-at-Home---Pennsylvania/Sumer-2026-Software-Engineer-Graduate-Intern_J270859) | 99 | Remote in USA | Software Engineering | 2026-05-09 |
-
 ## Hitachi
 
 | Title | Score | Location | Department | First seen |
@@ -1866,7 +1850,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Returning Strategic Technology Intern - Summer 2026 (Southeast Division)](https://www.linkedin.com/jobs/view/4275241199) | 42 | Tallahassee, FL | — | 2026-05-16 |
-| [Artificial Intelligence Intern](https://hntb.wd5.myworkdayjobs.com/en-US/hntb_university_careers/job/Arlington-VA-Alexandria/Artificial-Intelligence-Intern---Summer-2026_R-27983-1) | 68 | Arlington, VA | Data Science, AI & Machine Learning | 2026-05-09 |
 
 ## Homebase
 
@@ -3764,7 +3747,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Business and Data Analyst Intern](https://careers-berkley.icims.com/jobs/13507/job?mobile=true&needsRedirect=false) | 60 | Farmington, CT | AI/ML/Data | 2026-05-09 |
-| [Data Analyst Summer Intern](https://careers-berkley.icims.com/jobs/13113/data-analyst-summer-intern/job) | 60 | Englewood, CO | Data Science, AI & Machine Learning | 2026-05-09 |
 
 ## Waabi
 

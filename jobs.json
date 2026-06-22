@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-22T00:03:12.680Z",
+  "generatedAt": "2026-06-22T05:27:44.308Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1145,
+  "jobCount": 1139,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -61,7 +61,6 @@
     "canonical:8cd1b8b92140d848": "2026-05-13T01:22:17.700Z",
     "canonical:e2e40c0322dad93b": "2026-05-06T06:42:07.596Z",
     "canonical:ec3c37431442cdc8": "2026-05-06T06:42:07.596Z",
-    "canonical:864b184043940577": "2026-05-06T06:42:07.596Z",
     "canonical:accc7acdf5c4229f": "2026-05-06T06:42:07.596Z",
     "canonical:9db8469f111d27a7": "2026-05-13T08:10:42.769Z",
     "canonical:94acd2d1087ef9dd": "2026-05-06T06:42:07.596Z",
@@ -70,10 +69,6 @@
     "canonical:8fc863f495e5ebf7": "2026-05-09T15:28:15.527Z",
     "canonical:40b5e3e02c34b6ce": "2026-05-09T15:28:15.527Z",
     "canonical:54eb0918a1a56e5d": "2026-05-09T15:28:15.527Z",
-    "canonical:7993c081c2d8dcdc": "2026-05-09T15:28:15.527Z",
-    "canonical:5ee78c3adcb19994": "2026-05-09T15:28:15.527Z",
-    "canonical:17cb5ae6b3db8298": "2026-05-09T15:28:15.527Z",
-    "canonical:2d8a784433ada70f": "2026-05-09T15:28:15.527Z",
     "canonical:fd3d94986ffcabb5": "2026-05-09T15:28:15.527Z",
     "canonical:14ed621d315e28df": "2026-05-09T15:28:15.527Z",
     "canonical:cef606e0f144fc90": "2026-05-09T15:28:15.527Z",
@@ -1147,8 +1142,7 @@
     "canonical:dcc57aa64e78aadf": "2026-06-21T13:24:50.000Z",
     "canonical:ade11c4713d07751": "2026-06-21T15:20:30.663Z",
     "canonical:0c5ee1177f8000ee": "2026-06-21T21:39:56.425Z",
-    "canonical:aa43ee77d75cfa12": "2026-06-21T21:39:56.425Z",
-    "canonical:bc334a94a24f339e": "2026-06-22T00:03:12.680Z"
+    "canonical:aa43ee77d75cfa12": "2026-06-21T21:39:56.425Z"
   },
   "jobs": [
     {
@@ -2229,18 +2223,6 @@
       ]
     },
     {
-      "id": "canonical:864b184043940577",
-      "title": "Public Policy Intern, APJC (July to December 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7863831?gh_jid=7863831",
-      "location": "In-Office",
-      "department": "",
-      "company": "Cloudflare",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:accc7acdf5c4229f",
       "title": "Sales: Solutions Engineer - Intern (Summer & Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7792962?gh_jid=7792962",
@@ -2348,60 +2330,6 @@
       "company": "Cribl",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:7993c081c2d8dcdc",
-      "title": "Artificial Intelligence Intern",
-      "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_university_careers/job/Arlington-VA-Alexandria/Artificial-Intelligence-Intern---Summer-2026_R-27983-1",
-      "location": "Arlington, VA",
-      "department": "Data Science, AI & Machine Learning",
-      "company": "HNTB",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:5ee78c3adcb19994",
-      "title": "Data Analyst Summer Intern",
-      "url": "https://careers-berkley.icims.com/jobs/13113/data-analyst-summer-intern/job",
-      "location": "Englewood, CO",
-      "department": "Data Science, AI & Machine Learning",
-      "company": "W.R. Berkley",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:17cb5ae6b3db8298",
-      "title": "AI Vision Engineer Intern- AI Robotics",
-      "url": "https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/San-Jose-California-United-States-of-America/AI-Vision-Engineer-Intern--AI-Robotics--Spring-2026_JR00014185",
-      "location": "San Jose, CA",
-      "department": "Data Science, AI & Machine Learning",
-      "company": "ABB",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:2d8a784433ada70f",
-      "title": "Software Engineer Graduate Intern",
-      "url": "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/PA-Working-at-Home---Pennsylvania/Sumer-2026-Software-Engineer-Graduate-Intern_J270859",
-      "location": "Remote in USA",
-      "department": "Software Engineering",
-      "company": "Highmark Health",
-      "score": 99,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
-        "direct ATS"
-      ]
     },
     {
       "id": "canonical:fd3d94986ffcabb5",
@@ -13512,20 +13440,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:bc334a94a24f339e",
-      "title": "Process Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7765271003",
-      "location": "LA",
-      "department": "AI/ML/Data",
-      "company": "Freeform",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
