@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-23T18:28:59.609Z",
+  "generatedAt": "2026-06-23T20:32:39.548Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1123,
+  "jobCount": 1120,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -80,10 +80,8 @@
     "canonical:5d229b5f5a269416": "2026-05-09T15:28:15.527Z",
     "canonical:f45dd43f28f73753": "2026-05-09T15:28:15.527Z",
     "canonical:c1cca79abc785a77": "2026-05-09T15:28:15.527Z",
-    "canonical:ec363c4a9a5827a7": "2026-05-09T15:28:15.527Z",
     "canonical:bea2ef245d19ee31": "2026-05-09T15:28:15.527Z",
     "canonical:de6d18632414755c": "2026-05-09T15:28:15.527Z",
-    "canonical:f7c2665f70b6e58b": "2026-05-09T15:28:15.527Z",
     "canonical:27106f34e940af1e": "2026-05-09T15:28:15.527Z",
     "canonical:ee183f5783e60123": "2026-05-09T15:28:15.527Z",
     "canonical:0f12d49add27d56c": "2026-05-09T15:28:15.527Z",
@@ -295,7 +293,6 @@
     "canonical:35d0d770049adbd3": "2026-05-09T15:28:15.527Z",
     "canonical:33e86b7068f81940": "2026-05-09T15:28:15.527Z",
     "canonical:b926da94b8d1765f": "2026-05-09T15:28:15.527Z",
-    "canonical:d7f7d433b6e515f0": "2026-05-09T15:28:15.527Z",
     "canonical:34954950b1b6ede2": "2026-05-09T15:28:15.527Z",
     "canonical:a12772f2bf1637b3": "2026-05-09T15:28:15.527Z",
     "canonical:606d7f53b8e4e670": "2026-05-09T15:28:15.527Z",
@@ -924,7 +921,6 @@
     "canonical:f6cfb613b35c08ba": "2026-06-11T23:59:08.775Z",
     "canonical:c11bff2ca221b70c": "2026-06-11T23:59:08.775Z",
     "canonical:4753086dcc5d73ea": "2026-06-11T23:59:08.775Z",
-    "canonical:a134cc13890371ca": "2026-06-12T04:05:13.364Z",
     "canonical:33464db3ffc98a8a": "2026-06-12T04:05:13.364Z",
     "canonical:90de0872641ecba5": "2026-06-12T12:01:29.803Z",
     "canonical:5107c593a01396e4": "2026-06-12T12:01:29.803Z",
@@ -1126,7 +1122,8 @@
     "canonical:c32317a9ac6c5b72": "2026-06-23T14:03:34.437Z",
     "canonical:05a30cbc3123c379": "2026-06-23T14:03:34.437Z",
     "canonical:ab20f77386bc364b": "2026-06-23T14:03:34.437Z",
-    "canonical:31ff0ed183a28390": "2026-06-23T14:03:34.437Z"
+    "canonical:31ff0ed183a28390": "2026-06-23T14:03:34.437Z",
+    "canonical:d4b4e578d1146494": "2026-06-23T20:32:39.548Z"
   },
   "jobs": [
     {
@@ -1223,10 +1220,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1238,10 +1235,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -2232,6 +2229,19 @@
       ]
     },
     {
+      "id": "canonical:d4b4e578d1146494",
+      "title": "Customer Experience Associate (New Grad)",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8024530?t=gh_src=&gh_jid=8024530",
+      "location": "Denver, CO; Westlake, TX",
+      "department": "",
+      "company": "Robinhood",
+      "score": 64,
+      "scoreReasons": [
+        "new grad",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:1df04de60e393fed",
       "title": "Software Engineer Internship, Android ",
       "url": "https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b",
@@ -2483,19 +2493,6 @@
       ]
     },
     {
-      "id": "canonical:ec363c4a9a5827a7",
-      "title": "Undergraduate Applications Developer Intern - OPMO - Consumer Industries",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/309965",
-      "location": "Remote in USA",
-      "department": "Software",
-      "company": "Oracle",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:bea2ef245d19ee31",
       "title": "Software Engineering Intern",
       "url": "https://jobs.lever.co/layup/0b42f7ad-ebdc-4b4a-8fe6-47640f6dba53/apply",
@@ -2519,18 +2516,6 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:f7c2665f70b6e58b",
-      "title": "Intern – Data Science - Electric Distribution",
-      "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003850",
-      "location": "Sioux City, IA / Davenport, IA",
-      "department": "AI/ML/Data",
-      "company": "Berkshire Hathaway Energy",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {
@@ -6061,18 +6046,6 @@
       ]
     },
     {
-      "id": "canonical:d7f7d433b6e515f0",
-      "title": "Engineering Intern",
-      "url": "https://jobs.smartrecruiters.com/Collabera2/82528810",
-      "location": "Olathe, KS",
-      "department": "Hardware",
-      "company": "Collabera",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:34954950b1b6ede2",
       "title": "Automation Software Engineering Intern",
       "url": "https://jobs.ashbyhq.com/atomicsemi/615feebf-d9e3-4583-9c85-ba16af44e65c/application",
@@ -9487,20 +9460,6 @@
       ]
     },
     {
-      "id": "canonical:a395ceeb5fb82dd3",
-      "title": "Software Developer Intern",
-      "url": "https://apply.workable.com/al-warren-oil-company-inc/j/061E87752B/apply",
-      "location": "Elk Grove Village, IL",
-      "department": "Software",
-      "company": "Al Warren Oil Company",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:ebdb73f1d53cde75",
       "title": "Engineering ADAS Perception Features Intern",
       "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235438",
@@ -10153,6 +10112,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:a395ceeb5fb82dd3",
+      "title": "Software Developer Intern",
+      "url": "https://apply.workable.com/al-warren-oil-company-inc/j/345DC0E6D4/apply",
+      "location": "Elk Grove Village, IL",
+      "department": "Software",
+      "company": "Al Warren Oil Company",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -11876,20 +11849,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:a134cc13890371ca",
-      "title": "Developer Intern",
-      "url": "https://jobs.ashbyhq.com/1password/44150e12-89b1-4ac7-ad8d-671f5ec650dd/application",
-      "location": "Remote in USA / Remote in Canada",
-      "department": "Software",
-      "company": "1Password",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {

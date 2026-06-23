@@ -1,10 +1,10 @@
 # Open Internships
 
-**1123** internships across **63/64** companies — last updated 2026-06-23.
+**1120** internships across **63/64** companies — last updated 2026-06-23.
 
 ## Companies
 
-- [1Password](#1password) (6)
+- [1Password](#1password) (5)
 - [60decibelsinc](#60decibelsinc) (1)
 - [ABB](#abb) (2)
 - [ABC News](#abc-news) (1)
@@ -59,7 +59,7 @@
 - [Barkback](#barkback) (1)
 - [Base Power](#base-power) (4)
 - [beBeeManufacturingEngineering](#bebeemanufacturingengineering) (1)
-- [Berkshire Hathaway Energy](#berkshire-hathaway-energy) (3)
+- [Berkshire Hathaway Energy](#berkshire-hathaway-energy) (2)
 - [Beyondsoft](#beyondsoft) (1)
 - [BillionToOne](#billiontoone) (1)
 - [Black Box](#black-box) (2)
@@ -103,7 +103,6 @@
 - [Cohere](#cohere) (3)
 - [Cole Engineering Services](#cole-engineering-services) (1)
 - [Colgate-Palmolive](#colgate-palmolive) (1)
-- [Collabera](#collabera) (1)
 - [Commonwealth of Massachusetts](#commonwealth-of-massachusetts) (1)
 - [Conagra Brands](#conagra-brands) (2)
 - [ConnectPrep](#connectprep) (1)
@@ -303,7 +302,7 @@
 - [Omnis](#omnis) (1)
 - [onsemi](#onsemi) (3)
 - [Optiver](#optiver) (1)
-- [Oracle](#oracle) (7)
+- [Oracle](#oracle) (6)
 - [Output Biosciences](#output-biosciences) (1)
 - [Paccar](#paccar) (1)
 - [Palantir](#palantir) (5)
@@ -346,6 +345,7 @@
 - [Rivian](#rivian) (1)
 - [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (13)
 - [Robert Bosch Venture Capital](#robert-bosch-venture-capital) (2)
+- [Robinhood](#robinhood) (1)
 - [Rocket Lab](#rocket-lab) (1)
 - [Rocket Lab USA](#rocket-lab-usa) (2)
 - [Roku](#roku) (1)
@@ -464,7 +464,6 @@
 | --- | --- | --- | --- | --- |
 | [Developer Intern - Service Development](https://jobs.ashbyhq.com/1password/b6b8c8ed-ff1c-4bc2-9dbe-5122207ea3a2/application) | 93 | Remote in USA / Remote in Canada | Software | 2026-06-19 |
 | [Developer Intern - Client Secrets Management](https://jobs.ashbyhq.com/1password/d9909a9a-d941-404d-a7f2-5021670ffd2c/application) | 93 | Remote in USA / Remote in Canada | Software | 2026-06-13 |
-| [Developer Intern](https://jobs.ashbyhq.com/1password/44150e12-89b1-4ac7-ad8d-671f5ec650dd/application) | 93 | Remote in USA / Remote in Canada | Software | 2026-06-12 |
 | [Developer Intern - Front-End Platform](https://jobs.ashbyhq.com/1password/c90c5d23-fd41-4c01-8422-08f4b64144f5/application) | 93 | Remote in USA / Remote in Canada | Software | 2026-06-10 |
 | [Developer Intern - Trust Platforms](https://jobs.ashbyhq.com/1password/8f8774dc-e400-48b1-8100-c6840b8eaed1/application) | 93 | Remote in USA / Remote in Canada | Software | 2026-06-10 |
 | [Developer Intern - Data Security](https://jobs.ashbyhq.com/1password/47274802-4040-4039-978a-fc9b7d6868ce/application) | 93 | Remote in USA / Remote in Canada | Software | 2026-06-09 |
@@ -554,7 +553,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Developer Intern](https://apply.workable.com/al-warren-oil-company-inc/j/061E87752B/apply) | 93 | Elk Grove Village, IL | Software | 2026-05-27 |
+| [Software Developer Intern](https://apply.workable.com/al-warren-oil-company-inc/j/345DC0E6D4/apply) | 93 | Elk Grove Village, IL | Software | 2026-05-27 |
 | [Software Developer Intern](https://apply.workable.com/al-warren-oil-company-inc/j/A4487B349D/) | 93 | Bensenville, IL | — | 2026-05-09 |
 
 ## Allium
@@ -864,7 +863,6 @@
 | --- | --- | --- | --- | --- |
 | [Intern – Engineer Operations & Analytics](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003877) | 85 | Omaha, NE | AI/ML/Data | 2026-05-09 |
 | [Intern – Corp IT - Grid Operations Applications](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003904) | 60 | Davenport, IA | AI/ML/Data | 2026-05-09 |
-| [Intern – Data Science - Electric Distribution](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003850) | 60 | Sioux City, IA / Davenport, IA | AI/ML/Data | 2026-05-09 |
 
 ## Beyondsoft
 
@@ -1178,12 +1176,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Development Intern](https://career4.successfactors.com/careers?career_ns=job_listing&company=colgate&selected_lang=nl-NL&career_job_req_id=169295) | 60 | Piscataway, NJ | — | 2026-05-09 |
-
-## Collabera
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Engineering Intern](https://jobs.smartrecruiters.com/Collabera2/82528810) | 58 | Olathe, KS | Hardware | 2026-05-09 |
 
 ## Commonwealth of Massachusetts
 
@@ -1883,8 +1875,8 @@
 | [2026 Chicago Intern Networking Event](https://job-boards.eu.greenhouse.io/imc/jobs/4900488101) | 58 | Chicago, United States | — | 2026-06-23 |
 | [Graduate Quantitative Researcher](https://job-boards.eu.greenhouse.io/imc/jobs/4892687101) | 99 | Zug, Switzerland | — | 2026-06-12 |
 | [Hardware Machine Learning PhD Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, IL | AI/ML/Data | 2026-05-09 |
-| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
+| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
 | [Hardware Machine Learning PhD Research Internship](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, United States | — | 2026-05-06 |
 | [Graduate Floor Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4786701101) | 64 | Chicago, United States; Miami, United States; New York, United States; Philadelphia, United States; San Francisco, United States | — | 2026-05-06 |
 | [Graduate Trader (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564495101) | 64 | Amsterdam, Netherlands | — | 2026-05-06 |
@@ -2573,7 +2565,6 @@
 | [Software Engineer Intern - Ovip](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334333) | 85 | Nashville, TN / Austin, TX / United States | Software | 2026-05-21 |
 | [Advanced Degree Software Engineer Intern](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/329007) | 85 | Pleasanton, CA / San Carlos, CA / Santa Clara, CA | Software | 2026-05-09 |
 | [Advanced Degree Software Engineer Intern - Industries](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/320947) | 85 | United States | Software | 2026-05-09 |
-| [Undergraduate Applications Developer Intern - OPMO - Consumer Industries](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/309965) | 85 | Remote in USA | Software | 2026-05-09 |
 | [Data Analyst Intern](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/326682) | 60 | Nashville, TN | AI/ML/Data | 2026-05-09 |
 | [Oracle Pathways Software School Intern](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/318087) | 60 | Nashville, TN | Software | 2026-05-09 |
 
@@ -2901,6 +2892,12 @@
 | --- | --- | --- | --- | --- |
 | [Hardware & Embedded Research Intern](https://jobs.smartrecruiters.com/BoschGroup/744000131150005) | 58 | Sunnyvale, CA | Hardware | 2026-06-09 |
 | [Wireless Sensing Research Intern](https://jobs.smartrecruiters.com/BoschGroup/744000121477597) | 68 | Sunnyvale, CA | AI/ML/Data | 2026-05-09 |
+
+## Robinhood
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Customer Experience Associate (New Grad)](https://boards.greenhouse.io/robinhood/jobs/8024530?t=gh_src=&gh_jid=8024530) | 64 | Denver, CO; Westlake, TX | — | 2026-06-23 |
 
 ## Rocket Lab
 
