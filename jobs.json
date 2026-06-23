@@ -1,13 +1,12 @@
 {
-  "generatedAt": "2026-06-23T14:03:34.437Z",
+  "generatedAt": "2026-06-23T16:39:14.302Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1129,
+  "jobCount": 1126,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
     "canonical:2c1230c887d66061": "2026-05-06T06:42:07.596Z",
-    "canonical:8f05e926c06f83e4": "2026-05-07T21:00:54.613Z",
     "canonical:51d519ad65d99582": "2026-05-06T06:42:07.596Z",
     "canonical:822f979beef7ebc5": "2026-05-06T06:42:07.596Z",
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
@@ -82,7 +81,6 @@
     "canonical:f45dd43f28f73753": "2026-05-09T15:28:15.527Z",
     "canonical:c1cca79abc785a77": "2026-05-09T15:28:15.527Z",
     "canonical:ec363c4a9a5827a7": "2026-05-09T15:28:15.527Z",
-    "canonical:01595ebdfa2efb53": "2026-05-09T15:28:15.527Z",
     "canonical:bea2ef245d19ee31": "2026-05-09T15:28:15.527Z",
     "canonical:de6d18632414755c": "2026-05-09T15:28:15.527Z",
     "canonical:f7c2665f70b6e58b": "2026-05-09T15:28:15.527Z",
@@ -1114,7 +1112,6 @@
     "canonical:c2b89946ce467519": "2026-06-22T19:32:14.187Z",
     "canonical:bd4e181d83e4431b": "2026-06-22T23:11:18.221Z",
     "canonical:5703b8a0a55c3350": "2026-06-23T00:19:39.353Z",
-    "canonical:1fd516f098e80e1d": "2026-06-23T00:19:39.353Z",
     "canonical:21a28e90bf258781": "2026-06-23T00:19:39.353Z",
     "canonical:2c8283404a0e6565": "2026-06-23T04:36:40.243Z",
     "canonical:491ade8f5ec863c3": "2026-06-23T04:36:40.243Z",
@@ -1173,19 +1170,6 @@
       "score": 56,
       "scoreReasons": [
         "new grad"
-      ]
-    },
-    {
-      "id": "canonical:8f05e926c06f83e4",
-      "title": "Intern Software Developer - Fall 2026",
-      "url": "https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463",
-      "location": "Montreal",
-      "department": "",
-      "company": "Squarepoint Capital",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -1499,10 +1483,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1513,10 +1497,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1901,10 +1885,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -1914,10 +1898,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -2511,18 +2495,6 @@
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:01595ebdfa2efb53",
-      "title": "Intern Bachelors AI",
-      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/124930",
-      "location": "Kanata, Ottawa, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Honeywell",
-      "score": 60,
-      "scoreReasons": [
         "high-signal role"
       ]
     },
@@ -13096,19 +13068,6 @@
       "company": "Figure",
       "score": 58,
       "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:1fd516f098e80e1d",
-      "title": "Data Engineering Intern",
-      "url": "https://coreandmain.wd1.myworkdayjobs.com/en-US/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804",
-      "location": "St. Louis, MO",
-      "department": "AI/ML/Data",
-      "company": "Core & Main",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
         "direct ATS"
       ]
     },

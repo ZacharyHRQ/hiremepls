@@ -1,6 +1,6 @@
 # Open Internships
 
-**1129** internships across **63/64** companies — last updated 2026-06-23.
+**1126** internships across **63/64** companies — last updated 2026-06-23.
 
 ## Companies
 
@@ -111,7 +111,6 @@
 - [Context](#context) (1)
 - [Continental](#continental) (1)
 - [Copart](#copart) (1)
-- [Core & Main](#core-main) (1)
 - [CoStar Group](#costar-group) (1)
 - [Cotiviti](#cotiviti) (4)
 - [Creatify Lab ](#creatify-lab) (1)
@@ -209,7 +208,6 @@
 - [Hitachi](#hitachi) (2)
 - [HNTB](#hntb) (1)
 - [Homebase](#homebase) (1)
-- [Honeywell](#honeywell) (1)
 - [Howard University](#howard-university) (1)
 - [HPM Building Supply](#hpm-building-supply) (1)
 - [Hunt Oil Company](#hunt-oil-company) (3)
@@ -381,7 +379,7 @@
 - [Sony](#sony) (1)
 - [SOTI](#soti) (3)
 - [SpaceX](#spacex) (3)
-- [Squarepoint Capital](#squarepoint-capital) (5)
+- [Squarepoint Capital](#squarepoint-capital) (4)
 - [StarSling](#starsling) (1)
 - [Stevens Capital Management](#stevens-capital-management) (1)
 - [Stoke Space](#stoke-space) (1)
@@ -1233,12 +1231,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393) | 93 | Dallas, TX | Software | 2026-06-13 |
 
-## Core & Main
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Engineering Intern](https://coreandmain.wd1.myworkdayjobs.com/en-US/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804) | 68 | St. Louis, MO | AI/ML/Data | 2026-06-23 |
-
 ## CoStar Group
 
 | Title | Score | Location | Department | First seen |
@@ -1866,12 +1858,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Forward Deployed Engineering Intern, AI-Native](https://jobs.ashbyhq.com/homebase/a7ab59c0-786e-4675-b684-2ed19b240fb2) | 58 | Houston, TX / San Francisco, CA | — | 2026-05-09 |
-
-## Honeywell
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Intern Bachelors AI](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/124930) | 60 | Kanata, Ottawa, ON, Canada | AI/ML/Data | 2026-05-09 |
 
 ## Howard University
 
@@ -2760,8 +2746,8 @@
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-05-09 |
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-05-09 |
 | [2026 Technology Internship – Software Engineer](https://boards.greenhouse.io/point72/jobs/8406727002?gh_jid=8406727002) | 93 | Warsaw, Poland | — | 2026-05-06 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -3158,7 +3144,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Graduate Quant Developer](https://www.squarepoint-capital.com/open-opportunities?id=7918610&gh_jid=7918610) | 91 | London, Montreal, Singapore | — | 2026-05-12 |
-| [Intern Software Developer - Fall 2026](https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463) | 85 | Montreal | — | 2026-05-07 |
 | [Graduate Software Developer](https://www.squarepoint-capital.com/open-opportunities?id=6040910&gh_jid=6040910) | 91 | London, Montreal, Singapore | — | 2026-05-06 |
 | [Trading Infrastructure Specialist – Graduate Programme](https://www.squarepoint-capital.com/open-opportunities?id=7757021&gh_jid=7757021) | 66 | London, Montreal, Hong Kong, New York, Singapore | — | 2026-05-06 |
 | [Graduate Support Specialist](https://www.squarepoint-capital.com/open-opportunities?id=6100081&gh_jid=6100081) | 56 | London, Montreal, New York, Houston, Hong Kong | — | 2026-05-06 |
@@ -3187,8 +3172,8 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer, New Grad, Developer & End User Experience Platform](https://stripe.com/jobs/search?gh_jid=7991718) | 91 | Toronto | — | 2026-06-11 |
 | [PhD Data Scientist Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | Seattle, WA / SF / Chicago, IL / NYC | AI/ML/Data | 2026-06-06 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | 56 | Mexico City, Mexico | — | 2026-05-06 |
