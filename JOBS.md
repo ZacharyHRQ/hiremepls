@@ -1,6 +1,6 @@
 # Open Internships
 
-**1123** internships across **63/64** companies — last updated 2026-06-23.
+**1127** internships across **63/64** companies — last updated 2026-06-23.
 
 ## Companies
 
@@ -17,6 +17,7 @@
 - [Aechelon Technology](#aechelon-technology) (2)
 - [AeroVironment](#aerovironment) (1)
 - [Agilent Technologies](#agilent-technologies) (1)
+- [AirCapture](#aircapture) (1)
 - [Al Warren Oil Company](#al-warren-oil-company) (2)
 - [Allium](#allium) (1)
 - [Alteryx](#alteryx) (1)
@@ -42,7 +43,7 @@
 - [ASML](#asml) (2)
 - [ASSA ABLOY](#assa-abloy) (1)
 - [Astera](#astera) (1)
-- [Astranis](#astranis) (7)
+- [Astranis](#astranis) (8)
 - [Astronomer](#astronomer) (1)
 - [Atomic Semi](#atomic-semi) (8)
 - [Auctor](#auctor) (1)
@@ -54,7 +55,7 @@
 - [Axway](#axway) (2)
 - [BAE Systems](#bae-systems) (8)
 - [Bank of America](#bank-of-america) (1)
-- [Bank of Montreal](#bank-of-montreal) (1)
+- [Bank of Montreal](#bank-of-montreal) (2)
 - [Barkback](#barkback) (1)
 - [Base Power](#base-power) (4)
 - [beBeeManufacturingEngineering](#bebeemanufacturingengineering) (1)
@@ -84,6 +85,7 @@
 - [ByteDance](#bytedance) (29)
 - [Capella](#capella) (2)
 - [CareScout](#carescout) (1)
+- [Carnegie Mellon University](#carnegie-mellon-university) (1)
 - [Caterpillar Inc.](#caterpillar-inc) (1)
 - [Centerfield](#centerfield) (2)
 - [Cerebras](#cerebras) (2)
@@ -152,7 +154,7 @@
 - [Etched.ai](#etched-ai) (6)
 - [Ether.fi](#ether-fi) (1)
 - [ETHGlobal](#ethglobal) (1)
-- [Eulerity](#eulerity) (3)
+- [Eulerity](#eulerity) (4)
 - [Eurofins](#eurofins) (3)
 - [EV Realty](#ev-realty) (1)
 - [Evolver](#evolver) (1)
@@ -276,7 +278,7 @@
 - [Metalenz](#metalenz) (1)
 - [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (4)
 - [Microchip Technology](#microchip-technology) (1)
-- [Microsoft](#microsoft) (38)
+- [Microsoft](#microsoft) (37)
 - [MongoDB](#mongodb) (1)
 - [Monolithic Power Systems](#monolithic-power-systems) (2)
 - [Multiply Labs](#multiply-labs) (2)
@@ -544,6 +546,12 @@
 | --- | --- | --- | --- | --- |
 | [Predictive Sales Prospecting Intern](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Intern---Predictive-Sales-Prospecting_4038245) | 48 | Wilmington, DE | AI/ML/Data | 2026-06-17 |
 
+## AirCapture
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Applied AI Research & Engineer Intern](https://job-boards.greenhouse.io/aircapture/jobs/4687916006) | 93 | Berkeley, CA | AI/ML/Data | 2026-06-23 |
+
 ## Al Warren Oil Company
 
 | Title | Score | Location | Department | First seen |
@@ -733,6 +741,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Reliability Design Associate Intern](https://job-boards.greenhouse.io/astranis/jobs/4681416006) | 58 | SF | Hardware | 2026-06-23 |
 | [Embedded Software Developer – Network/Payload Software Intern](https://job-boards.greenhouse.io/astranis/jobs/4601135006) | 93 | SF | Hardware | 2026-06-21 |
 | [CAD Engineer/Librarian Intern](https://job-boards.greenhouse.io/astranis/jobs/4681155006) | 58 | SF | Hardware | 2026-05-27 |
 | [FPGA Associate Intern](https://job-boards.greenhouse.io/astranis/jobs/4677337006) | 58 | SF | Hardware | 2026-05-26 |
@@ -827,6 +836,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Database Analyst Co-op/Intern](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Database-Analyst--Fall-2026--Co-op-Internship----4-months_R260018622-1) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-06-23 |
 | [Data Engineer Co-op/Intern - 4 months](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Data-Engineer--Fall-2026--Co-op-Internship----4-months_R260018081-2) | 93 | Toronto, ON, Canada | AI/ML/Data | 2026-06-17 |
 
 ## Barkback
@@ -1041,6 +1051,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [CareScout Sales & Operations Intern – Summer 2026](https://www.linkedin.com/jobs/view/4271091935) | 22 | Richmond, VA | — | 2026-05-16 |
+
+## Carnegie Mellon University
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Research Intern - College of Engineering - Electrical and Computer Engineering](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Summer-Research-Intern---College-of-Engineering---Electrical-and-Computer-Engineering_2024690) | 68 | Pittsburgh, PA | AI/ML/Data | 2026-06-23 |
 
 ## Caterpillar Inc.
 
@@ -1499,6 +1515,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Web Development Engineer Intern](https://job-boards.greenhouse.io/eulerity/jobs/4691224006) | 93 | NYC | Software | 2026-06-23 |
 | [Android Developer Intern](https://job-boards.greenhouse.io/eulerity/jobs/4671031006) | 93 | NYC | Software | 2026-05-09 |
 | [Backend Developer Intern](https://job-boards.greenhouse.io/eulerity/jobs/4666015006) | 93 | NYC | Software | 2026-05-09 |
 | [Mobile iOS Developer Intern](https://job-boards.greenhouse.io/eulerity/jobs/4671025006) | 93 | NYC | Software | 2026-05-09 |
@@ -2330,7 +2347,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Data Center Technician Intern](https://apply.careers.microsoft.com/careers/job/1970393556867685) | 50 | Ontario, Canada | Hardware | 2026-06-22 |
 | [Researcher Intern](https://apply.careers.microsoft.com/careers/job/1970393556874233) | 85 | Redmond, WA / Mountain View, CA | AI/ML/Data | 2026-06-10 |
 | [Research Intern - Self-Improving AI](https://apply.careers.microsoft.com/careers/job/1970393556867858) | 60 | Cambridge, MA / NYC | AI/ML/Data | 2026-05-19 |
 | [Research Intern](https://apply.careers.microsoft.com/careers/job/1970393556621789) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
