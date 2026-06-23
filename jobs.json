@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-23T11:35:18.438Z",
+  "generatedAt": "2026-06-23T14:03:34.437Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1128,
+  "jobCount": 1129,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -23,7 +23,6 @@
     "canonical:4ac9c0880de32d10": "2026-05-15T12:06:03.304Z",
     "canonical:584a6dcb03b8a260": "2026-05-15T12:06:03.304Z",
     "canonical:cbd8c4bf9ecd24b5": "2026-05-15T12:06:03.304Z",
-    "canonical:a7c823cebc3a3c4e": "2026-05-06T06:42:07.596Z",
     "canonical:606b9a04a54eff14": "2026-05-06T06:42:07.596Z",
     "canonical:8a674b63204923ad": "2026-05-06T06:42:07.596Z",
     "canonical:0ea2e7a5e9cc7239": "2026-05-06T06:42:07.596Z",
@@ -374,7 +373,6 @@
     "canonical:11c1b4c81d7b5642": "2026-05-09T15:28:15.527Z",
     "canonical:b517dba4bb4840a4": "2026-05-09T15:28:15.527Z",
     "canonical:72a13f956e90ff2e": "2026-05-09T15:28:15.527Z",
-    "canonical:673abedac09c760d": "2026-05-09T15:28:15.527Z",
     "canonical:76e3246b0d82ab56": "2026-05-09T15:28:15.527Z",
     "canonical:9d9fe857db5c61ad": "2026-05-09T15:28:15.527Z",
     "canonical:eb1420a214d28c30": "2026-05-09T15:28:15.527Z",
@@ -875,7 +873,6 @@
     "canonical:3f94a7964c2e6f0f": "2026-06-08T23:57:00.045Z",
     "canonical:aee7577b19ec0ab4": "2026-06-08T23:57:00.045Z",
     "canonical:97a6914dba9e6da7": "2026-06-08T23:57:00.045Z",
-    "canonical:79d00a4563fdbcf3": "2026-06-08T23:57:00.045Z",
     "canonical:65f7ca22fb29befa": "2026-06-08T23:57:00.045Z",
     "canonical:a9fec30c036e9862": "2026-06-09T10:23:15.549Z",
     "canonical:cff77a752a354cd5": "2026-06-09T16:15:38.284Z",
@@ -1131,7 +1128,11 @@
     "canonical:a4bfa7421cb2dd8c": "2026-06-23T08:18:38.816Z",
     "canonical:bcfd7b28320b2484": "2026-06-23T08:18:38.816Z",
     "canonical:95a71a6031acbd00": "2026-06-23T11:35:18.438Z",
-    "canonical:9752726cae950163": "2026-06-23T11:35:18.438Z"
+    "canonical:9752726cae950163": "2026-06-23T11:35:18.438Z",
+    "canonical:c32317a9ac6c5b72": "2026-06-23T14:03:34.437Z",
+    "canonical:05a30cbc3123c379": "2026-06-23T14:03:34.437Z",
+    "canonical:ab20f77386bc364b": "2026-06-23T14:03:34.437Z",
+    "canonical:31ff0ed183a28390": "2026-06-23T14:03:34.437Z"
   },
   "jobs": [
     {
@@ -1241,10 +1242,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1256,10 +1257,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1405,24 +1406,12 @@
     {
       "id": "canonical:90de0872641ecba5",
       "title": "Intern",
-      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988896",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988899",
       "location": "Gift City",
       "department": "",
       "company": "Tower Research Capital",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:a7c823cebc3a3c4e",
-      "title": "Quantitative Trader Intern (PhD 2026)",
-      "url": "https://www.tower-research.com/open-positions/?gh_jid=7062370",
-      "location": "New York",
-      "department": "",
-      "company": "Tower Research Capital",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
     },
     {
       "id": "canonical:606b9a04a54eff14",
@@ -7351,19 +7340,6 @@
       ]
     },
     {
-      "id": "canonical:673abedac09c760d",
-      "title": "Software Developer Co-op/Intern",
-      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34725",
-      "location": "Ottawa, ON, Canada",
-      "department": "Software",
-      "company": "Nokia",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:32665894ab4460ce",
       "title": "Software Designer Co-op/Intern",
       "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34602",
@@ -11309,18 +11285,6 @@
       ]
     },
     {
-      "id": "canonical:79d00a4563fdbcf3",
-      "title": "Engineering Quality Intern",
-      "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8803",
-      "location": "Vancouver, BC, Canada",
-      "department": "AI/ML/Data",
-      "company": "Seaspan",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:65f7ca22fb29befa",
       "title": "Product Analyst Intern",
       "url": "https://hdep.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/8096",
@@ -13275,6 +13239,57 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c32317a9ac6c5b72",
+      "title": "Product Design Intern",
+      "url": "https://jobs.ashbyhq.com/niural/d20af572-03b9-4f2a-8476-53c34203b2bc",
+      "location": "New York City, NY",
+      "department": "Product Management",
+      "company": "Niural",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:05a30cbc3123c379",
+      "title": "Mobile Software Engineer Intern",
+      "url": "https://www.murumed.com/job-listings/software-engineer-intern",
+      "location": "New York, NY",
+      "department": "Software Engineering",
+      "company": "Muru",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:ab20f77386bc364b",
+      "title": "Full-Stack Software Engineer Intern",
+      "url": "https://www.murumed.com/job-listings/web-software-engineer-intern",
+      "location": "New York, NY",
+      "department": "Software Engineering",
+      "company": "Muru",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:31ff0ed183a28390",
+      "title": "AI Product Engineer Intern",
+      "url": "https://jobs.gusto.com/postings/myemployment-llc-ai-product-engineer-intern-c08d7fd3-115e-46ad-a46f-6c4be1f77263",
+      "location": "Remote in US",
+      "department": "Data Science, AI & Machine Learning",
+      "company": "MyEmployment",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {

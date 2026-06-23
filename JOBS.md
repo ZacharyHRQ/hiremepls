@@ -1,6 +1,6 @@
 # Open Internships
 
-**1128** internships across **63/64** companies — last updated 2026-06-23.
+**1129** internships across **63/64** companies — last updated 2026-06-23.
 
 ## Companies
 
@@ -282,6 +282,8 @@
 - [Monolithic Power Systems](#monolithic-power-systems) (2)
 - [Multiply Labs](#multiply-labs) (2)
 - [Munters](#munters) (1)
+- [Muru](#muru) (2)
+- [MyEmployment](#myemployment) (1)
 - [Naïve](#na-ve) (1)
 - [Nash](#nash) (2)
 - [Navaide](#navaide) (1)
@@ -292,7 +294,8 @@
 - [Nintendo](#nintendo) (1)
 - [Nio](#nio) (1)
 - [Nissan Global](#nissan-global) (1)
-- [Nokia](#nokia) (16)
+- [Niural](#niural) (1)
+- [Nokia](#nokia) (15)
 - [Northwestern Mutual](#northwestern-mutual) (2)
 - [Notion](#notion) (5)
 - [Nuro](#nuro) (1)
@@ -360,7 +363,7 @@
 - [Savannah River National Laboratory](#savannah-river-national-laboratory) (1)
 - [Scale AI](#scale-ai) (5)
 - [Schonfeld](#schonfeld) (4)
-- [Seaspan](#seaspan) (6)
+- [Seaspan](#seaspan) (5)
 - [SHEIN](#shein) (1)
 - [Shenzhen ANQI SHISHANG Articles Co., ltd.](#shenzhen-anqi-shishang-articles-co-ltd) (1)
 - [Shopify](#shopify) (1)
@@ -413,7 +416,7 @@
 - [TMEIC](#tmeic) (1)
 - [Together AI](#together-ai) (3)
 - [Topel Forman LLC](#topel-forman-llc) (1)
-- [Tower Research Capital](#tower-research-capital) (4)
+- [Tower Research Capital](#tower-research-capital) (3)
 - [Toyota Research Institute](#toyota-research-institute) (3)
 - [Tradeweb](#tradeweb) (1)
 - [Trane Technologies](#trane-technologies) (1)
@@ -1909,8 +1912,8 @@
 | [2026 Chicago Intern Networking Event](https://job-boards.eu.greenhouse.io/imc/jobs/4900488101) | 58 | Chicago, United States | — | 2026-06-23 |
 | [Graduate Quantitative Researcher](https://job-boards.eu.greenhouse.io/imc/jobs/4892687101) | 99 | Zug, Switzerland | — | 2026-06-12 |
 | [Hardware Machine Learning PhD Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, IL | AI/ML/Data | 2026-05-09 |
-| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
+| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
 | [Hardware Machine Learning PhD Research Internship](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, United States | — | 2026-05-06 |
 | [Graduate Floor Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4786701101) | 64 | Chicago, United States; Miami, United States; New York, United States; Philadelphia, United States; San Francisco, United States | — | 2026-05-06 |
 | [Graduate Trader (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564495101) | 64 | Amsterdam, Netherlands | — | 2026-05-06 |
@@ -2406,6 +2409,19 @@
 | --- | --- | --- | --- | --- |
 | [Sourcing and Sustainability Data Intern](https://munters.wd3.myworkdayjobs.com/external_careers/job/US---Amesbury-MA/Sourcing-and-Sustainability-Data-Intern_R11278) | 68 | Amesbury, MA | AI/ML/Data | 2026-06-19 |
 
+## Muru
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Full-Stack Software Engineer Intern](https://www.murumed.com/job-listings/web-software-engineer-intern) | 85 | New York, NY | Software Engineering | 2026-06-23 |
+| [Mobile Software Engineer Intern](https://www.murumed.com/job-listings/software-engineer-intern) | 85 | New York, NY | Software Engineering | 2026-06-23 |
+
+## MyEmployment
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI Product Engineer Intern](https://jobs.gusto.com/postings/myemployment-llc-ai-product-engineer-intern-c08d7fd3-115e-46ad-a46f-6c4be1f77263) | 85 | Remote in US | Data Science, AI & Machine Learning | 2026-06-23 |
+
 ## Naïve
 
 | Title | Score | Location | Department | First seen |
@@ -2471,6 +2487,12 @@
 | --- | --- | --- | --- | --- |
 | [Autonomous Driving Applications Research Intern](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Autonomous-Driving-Applications-Research-Intern_R00209383) | 58 | Santa Clara, CA | Hardware | 2026-05-21 |
 
+## Niural
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Product Design Intern](https://jobs.ashbyhq.com/niural/d20af572-03b9-4f2a-8476-53c34203b2bc) | 58 | New York City, NY | Product Management | 2026-06-23 |
+
 ## Nokia
 
 | Title | Score | Location | Department | First seen |
@@ -2483,7 +2505,6 @@
 | [Design Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36276) | 50 | Ottawa, ON, Canada | Hardware | 2026-06-01 |
 | [Embedded C/C++ Software Developer Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35268) | 85 | Ottawa, ON, Canada | Hardware | 2026-05-20 |
 | [ASIC Verification Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36281) | 50 | Ottawa, ON, Canada | Hardware | 2026-05-20 |
-| [Software Developer Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34725) | 85 | Ottawa, ON, Canada | Software | 2026-05-09 |
 | [Support Software Developer Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34551) | 85 | Ottawa, ON, Canada | Software | 2026-05-09 |
 | [Web Developer Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34611) | 85 | Ottawa, ON, Canada | Software | 2026-05-09 |
 | [Data Science Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34327) | 60 | Ottawa, ON, Canada | AI/ML/Data | 2026-05-09 |
@@ -3005,7 +3026,6 @@
 | [Co-Console Analyst Intern](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8775) | 60 | Vancouver, BC, Canada | AI/ML/Data | 2026-06-12 |
 | [Energy Management Intern](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8356) | 60 | Vancouver, BC, Canada | AI/ML/Data | 2026-06-10 |
 | [Digital Ship NLP Intern](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8755) | 60 | Vancouver, BC, Canada | AI/ML/Data | 2026-06-08 |
-| [Engineering Quality Intern](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8803) | 60 | Vancouver, BC, Canada | AI/ML/Data | 2026-06-08 |
 | [Digital Ship Analytics Intern](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8769) | 60 | Vancouver, BC, Canada | AI/ML/Data | 2026-06-08 |
 | [Digital Ship Intern](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8754) | 60 | Vancouver, BC, Canada | Software | 2026-06-08 |
 
@@ -3561,9 +3581,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Intern](https://www.tower-research.com/open-positions/?gh_jid=7988896) | 50 | Gift City | — | 2026-06-12 |
+| [Intern](https://www.tower-research.com/open-positions/?gh_jid=7988899) | 50 | Gift City | — | 2026-06-12 |
 | [Quantitative Trader Intern - PhD 2026](https://www.tower-research.com/open-positions/?gh_jid=7062370) | 60 | NYC | Quant | 2026-05-09 |
-| [Quantitative Trader Intern (PhD 2026)](https://www.tower-research.com/open-positions/?gh_jid=7062370) | 60 | New York | — | 2026-05-06 |
 | [Risk Intern - 6 Month Internship Opportunity](https://www.tower-research.com/open-positions/?gh_jid=7789933) | 50 | Singapore | — | 2026-05-06 |
 
 ## Toyota Research Institute
