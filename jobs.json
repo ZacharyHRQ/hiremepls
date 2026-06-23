@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-22T23:11:18.221Z",
+  "generatedAt": "2026-06-23T00:19:39.353Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1117,
+  "jobCount": 1118,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -296,7 +296,6 @@
     "canonical:d8bd96ce76f209d5": "2026-05-09T15:28:15.527Z",
     "canonical:b86053a97df4e116": "2026-05-09T15:28:15.527Z",
     "canonical:e6ef25e90c9890c5": "2026-05-15T12:06:03.304Z",
-    "canonical:82849cfc4b355f26": "2026-05-09T15:28:15.527Z",
     "canonical:35d0d770049adbd3": "2026-05-09T15:28:15.527Z",
     "canonical:33e86b7068f81940": "2026-05-09T15:28:15.527Z",
     "canonical:b926da94b8d1765f": "2026-05-09T15:28:15.527Z",
@@ -964,7 +963,6 @@
     "canonical:60d48ea9b4193a8f": "2026-06-13T17:12:44.534Z",
     "canonical:917c8771cd813a8d": "2026-06-13T18:42:57.240Z",
     "canonical:2e1957ef2ef86ad4": "2026-06-13T18:42:57.240Z",
-    "canonical:8d4bdf6d1fa7a76e": "2026-06-13T18:42:57.240Z",
     "canonical:43c945396857ea6b": "2026-06-15T05:25:50.614Z",
     "canonical:a356ac432d4a0c77": "2026-06-15T05:25:50.614Z",
     "canonical:c246f55f8c194616": "2026-06-15T05:25:50.614Z",
@@ -1120,7 +1118,10 @@
     "canonical:b1c3bc01bef551d7": "2026-06-22T15:59:56.278Z",
     "canonical:c1817238d89b26e3": "2026-06-22T19:32:14.187Z",
     "canonical:c2b89946ce467519": "2026-06-22T19:32:14.187Z",
-    "canonical:bd4e181d83e4431b": "2026-06-22T23:11:18.221Z"
+    "canonical:bd4e181d83e4431b": "2026-06-22T23:11:18.221Z",
+    "canonical:5703b8a0a55c3350": "2026-06-23T00:19:39.353Z",
+    "canonical:1fd516f098e80e1d": "2026-06-23T00:19:39.353Z",
+    "canonical:21a28e90bf258781": "2026-06-23T00:19:39.353Z"
   },
   "jobs": [
     {
@@ -6028,19 +6029,6 @@
       "score": 58,
       "scoreReasons": [
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:82849cfc4b355f26",
-      "title": "Machine Learning Engineer Intern - App Ads",
-      "url": "https://lifeattiktok.com/search/7623166673809770757",
-      "location": "San Jose, CA",
-      "department": "AI/ML/Data",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -12045,19 +12033,6 @@
       ]
     },
     {
-      "id": "canonical:8d4bdf6d1fa7a76e",
-      "title": "Frontier Agents Intern",
-      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5157380007",
-      "location": "SF",
-      "department": "AI/ML/Data",
-      "company": "Together AI",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:f81a19cf9fd83e98",
       "title": "Commercial UI Software Engineer Intern - Energy Engineering",
       "url": "https://www.tesla.com/careers/search/job/273723",
@@ -13136,6 +13111,43 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:5703b8a0a55c3350",
+      "title": "Firmware Intern",
+      "url": "https://job-boards.greenhouse.io/figureai/jobs/4691070006",
+      "location": "San Jose, CA",
+      "department": "Hardware",
+      "company": "Figure",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1fd516f098e80e1d",
+      "title": "Data Engineering Intern",
+      "url": "https://coreandmain.wd1.myworkdayjobs.com/en-US/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804",
+      "location": "St. Louis, MO",
+      "department": "AI/ML/Data",
+      "company": "Core & Main",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:21a28e90bf258781",
+      "title": "Data Analytics Intern",
+      "url": "https://careers-vhb.icims.com/jobs/6116/job?mobile=true&needsRedirect=false",
+      "location": "Raleigh, NC",
+      "department": "AI/ML/Data",
+      "company": "Vanasse Hangen Brustlin (VHB)",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
       ]
     },
     {

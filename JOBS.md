@@ -1,6 +1,6 @@
 # Open Internships
 
-**1117** internships across **63/64** companies — last updated 2026-06-22.
+**1118** internships across **63/64** companies — last updated 2026-06-23.
 
 ## Companies
 
@@ -110,6 +110,7 @@
 - [Context](#context) (1)
 - [Continental](#continental) (1)
 - [Copart](#copart) (1)
+- [Core & Main](#core-main) (1)
 - [CoStar Group](#costar-group) (1)
 - [Cotiviti](#cotiviti) (4)
 - [Creatify Lab ](#creatify-lab) (1)
@@ -162,7 +163,7 @@
 - [Falcomm](#falcomm) (1)
 - [Fanatics](#fanatics) (3)
 - [Field AI](#field-ai) (1)
-- [Figure](#figure) (1)
+- [Figure](#figure) (2)
 - [Fiserv](#fiserv) (2)
 - [Five Rings](#five-rings) (1)
 - [Flagright](#flagright) (1)
@@ -406,10 +407,10 @@
 - [The Exploration Company](#the-exploration-company) (1)
 - [The Trade Desk](#the-trade-desk) (1)
 - [TIFIN](#tifin) (1)
-- [TikTok](#tiktok) (83)
+- [TikTok](#tiktok) (82)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
-- [Together AI](#together-ai) (3)
+- [Together AI](#together-ai) (2)
 - [Topel Forman LLC](#topel-forman-llc) (1)
 - [Tower Research Capital](#tower-research-capital) (4)
 - [Toyota Research Institute](#toyota-research-institute) (3)
@@ -424,6 +425,7 @@
 - [Uncountable](#uncountable) (1)
 - [University Health Network](#university-health-network) (1)
 - [University System of New Hampshire](#university-system-of-new-hampshire) (1)
+- [Vanasse Hangen Brustlin (VHB)](#vanasse-hangen-brustlin-vhb) (1)
 - [Vanguard](#vanguard) (1)
 - [Varda Space](#varda-space) (2)
 - [Veeam Software](#veeam-software) (2)
@@ -1218,6 +1220,12 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393) | 93 | Dallas, TX | Software | 2026-06-13 |
 
+## Core & Main
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data Engineering Intern](https://coreandmain.wd1.myworkdayjobs.com/en-US/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804) | 68 | St. Louis, MO | AI/ML/Data | 2026-06-23 |
+
 ## CoStar Group
 
 | Title | Score | Location | Department | First seen |
@@ -1563,6 +1571,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Firmware Intern](https://job-boards.greenhouse.io/figureai/jobs/4691070006) | 58 | San Jose, CA | Hardware | 2026-06-23 |
 | [Embedded Software Intern](https://job-boards.greenhouse.io/figureai/jobs/4397706006?jr_id=69e82790e0cd471b2f12fc60) | 68 | San Jose, CA | — | 2026-05-09 |
 
 ## Fiserv
@@ -3479,7 +3488,6 @@
 | [Data Scientist Intern - Tiktok UG-Mid Platform - 2026 Summer](https://lifeattiktok.com/search/7592001144580262197) | 85 | San Jose, CA | AI/ML/Data | 2026-05-11 |
 | [Backend Software Engineer Intern - Foundation Platform](https://lifeattiktok.com/search/7538307729329277202) | 85 | San Jose, CA | Software | 2026-05-09 |
 | [Data Scientist Intern - Tiktok Integrity and Safety - 2026 Summer](https://lifeattiktok.com/search/7610543185362372917) | 85 | San Jose, CA | AI/ML/Data | 2026-05-09 |
-| [Machine Learning Engineer Intern - App Ads](https://lifeattiktok.com/search/7623166673809770757) | 85 | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Machine Learning Engineer Intern - Data-Search-Tiktok Recommendation Team](https://lifeattiktok.com/search/7535234137146444040) | 85 | Seattle, WA | AI/ML/Data | 2026-05-09 |
 | [Machine Learning Engineer Intern - Monetization Technology - Ads Core Global](https://lifeattiktok.com/search/7595340771562621189) | 85 | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Machine Learning Engineer Intern - Monetization Technology - Ads Creative](https://lifeattiktok.com/search/7532464949135313159) | 85 | San Jose, CA | AI/ML/Data | 2026-05-09 |
@@ -3527,7 +3535,6 @@
 | --- | --- | --- | --- | --- |
 | [Systems Research Engineer Intern - GPU Programming](https://job-boards.greenhouse.io/togetherai/jobs/5157559007) | 93 | SF | AI/ML/Data | 2026-06-17 |
 | [Research Intern - Model Shaping](https://job-boards.greenhouse.io/togetherai/jobs/5157661007) | 68 | SF | AI/ML/Data | 2026-06-17 |
-| [Frontier Agents Intern](https://job-boards.greenhouse.io/togetherai/jobs/5157380007) | 68 | SF | AI/ML/Data | 2026-06-13 |
 
 ## Topel Forman LLC
 
@@ -3617,6 +3624,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Technician Intern](https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Technician-Intern_JR2342-1) | 58 | Dover, NH | Hardware | 2026-05-09 |
+
+## Vanasse Hangen Brustlin (VHB)
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data Analytics Intern](https://careers-vhb.icims.com/jobs/6116/job?mobile=true&needsRedirect=false) | 60 | Raleigh, NC | AI/ML/Data | 2026-06-23 |
 
 ## Vanguard
 
