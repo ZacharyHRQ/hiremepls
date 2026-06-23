@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-23T08:18:38.816Z",
+  "generatedAt": "2026-06-23T11:35:18.438Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1127,
+  "jobCount": 1128,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1092,7 +1092,6 @@
     "canonical:5db094360a3dbbfc": "2026-06-19T07:34:45.156Z",
     "canonical:7e0e437e2179f412": "2026-06-19T07:34:45.156Z",
     "canonical:407532e44089c220": "2026-06-19T07:34:45.156Z",
-    "canonical:32f1b12234fee302": "2026-06-19T07:34:45.156Z",
     "canonical:b4321a96d5262a5c": "2026-06-19T17:03:13.004Z",
     "canonical:cb70b731ac069a0b": "2026-06-20T03:57:11.576Z",
     "canonical:2ac42ec93a04e435": "2026-06-20T03:57:11.576Z",
@@ -1130,7 +1129,9 @@
     "canonical:791d1724dd33b54c": "2026-06-23T08:18:38.816Z",
     "canonical:791496a0e4be2814": "2026-06-23T08:18:38.816Z",
     "canonical:a4bfa7421cb2dd8c": "2026-06-23T08:18:38.816Z",
-    "canonical:bcfd7b28320b2484": "2026-06-23T08:18:38.816Z"
+    "canonical:bcfd7b28320b2484": "2026-06-23T08:18:38.816Z",
+    "canonical:95a71a6031acbd00": "2026-06-23T11:35:18.438Z",
+    "canonical:9752726cae950163": "2026-06-23T11:35:18.438Z"
   },
   "jobs": [
     {
@@ -2208,6 +2209,19 @@
       "score": 58,
       "scoreReasons": [
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:95a71a6031acbd00",
+      "title": "Sales Project Manager Intern (AI Innovation) (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8020830?gh_jid=8020830",
+      "location": "In-Office",
+      "department": "",
+      "company": "Cloudflare",
+      "score": 38,
+      "scoreReasons": [
+        "direct ATS",
+        "lower-fit title"
       ]
     },
     {
@@ -12687,6 +12701,19 @@
       ]
     },
     {
+      "id": "canonical:9752726cae950163",
+      "title": "Product Marketing Intern",
+      "url": "https://job-boards.greenhouse.io/eulerity/jobs/4689231006",
+      "location": "NYC",
+      "department": "Product",
+      "company": "Eulerity",
+      "score": 38,
+      "scoreReasons": [
+        "direct ATS",
+        "lower-fit title"
+      ]
+    },
+    {
       "id": "canonical:0d5a980cf3c25a32",
       "title": "Design Verification Engineer Intern",
       "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Design-Verification-Engineer-Intern---Fall-2026_2602706",
@@ -12977,19 +13004,6 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:32f1b12234fee302",
-      "title": "AI Research Scientist PhD Intern",
-      "url": "https://careers.cisco.com/global/en/job/2017364",
-      "location": "SF",
-      "department": "AI/ML/Data",
-      "company": "Cisco",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {

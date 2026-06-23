@@ -1,6 +1,6 @@
 # Open Internships
 
-**1127** internships across **63/64** companies — last updated 2026-06-23.
+**1128** internships across **63/64** companies — last updated 2026-06-23.
 
 ## Companies
 
@@ -94,11 +94,10 @@
 - [Cherry Bekaert](#cherry-bekaert) (2)
 - [Ciena](#ciena) (3)
 - [Cirrus Logic](#cirrus-logic) (1)
-- [Cisco](#cisco) (1)
 - [Citadel](#citadel) (4)
 - [Citadel Securities](#citadel-securities) (3)
 - [Clarity Innovations](#clarity-innovations) (1)
-- [Cloudflare](#cloudflare) (10)
+- [Cloudflare](#cloudflare) (11)
 - [Cloudforce](#cloudforce) (1)
 - [Codeage](#codeage) (1)
 - [Cohere](#cohere) (3)
@@ -154,7 +153,7 @@
 - [Etched.ai](#etched-ai) (6)
 - [Ether.fi](#ether-fi) (1)
 - [ETHGlobal](#ethglobal) (1)
-- [Eulerity](#eulerity) (4)
+- [Eulerity](#eulerity) (5)
 - [Eurofins](#eurofins) (3)
 - [EV Realty](#ev-realty) (1)
 - [Evolver](#evolver) (1)
@@ -1111,12 +1110,6 @@
 | --- | --- | --- | --- | --- |
 | [Analog/Mixed-Signal Verification Intern Co-op](https://jobs.eu.lever.co/cirrus/a0ee59a9-cfce-410a-b182-459a5da9ba95/apply) | 58 | Austin, TX | Hardware | 2026-05-09 |
 
-## Cisco
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI Research Scientist PhD Intern](https://careers.cisco.com/global/en/job/2017364) | 85 | SF | AI/ML/Data | 2026-06-19 |
-
 ## Citadel
 
 | Title | Score | Location | Department | First seen |
@@ -1144,6 +1137,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Sales Project Manager Intern (AI Innovation) (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8020830?gh_jid=8020830) | 38 | In-Office | — | 2026-06-23 |
 | [Legal Intern – Commercial Legal (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7983674?gh_jid=7983674) | 58 | In-Office | — | 2026-06-05 |
 | [People Team Intern - HR Operations & AI Innovation (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240) | 58 | In-Office | — | 2026-05-20 |
 | [Technical Support Engineer Intern (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7912382?gh_jid=7912382) | 58 | In-Office | — | 2026-05-13 |
@@ -1515,6 +1509,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Product Marketing Intern](https://job-boards.greenhouse.io/eulerity/jobs/4689231006) | 38 | NYC | Product | 2026-06-23 |
 | [Web Development Engineer Intern](https://job-boards.greenhouse.io/eulerity/jobs/4691224006) | 93 | NYC | Software | 2026-06-23 |
 | [Android Developer Intern](https://job-boards.greenhouse.io/eulerity/jobs/4671031006) | 93 | NYC | Software | 2026-05-09 |
 | [Backend Developer Intern](https://job-boards.greenhouse.io/eulerity/jobs/4666015006) | 93 | NYC | Software | 2026-05-09 |
