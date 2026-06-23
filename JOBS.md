@@ -1,6 +1,6 @@
 # Open Internships
 
-**1120** internships across **63/64** companies — last updated 2026-06-23.
+**1121** internships across **63/64** companies — last updated 2026-06-23.
 
 ## Companies
 
@@ -55,7 +55,7 @@
 - [Axway](#axway) (2)
 - [BAE Systems](#bae-systems) (8)
 - [Bank of America](#bank-of-america) (1)
-- [Bank of Montreal](#bank-of-montreal) (2)
+- [Bank of Montreal](#bank-of-montreal) (3)
 - [Barkback](#barkback) (1)
 - [Base Power](#base-power) (4)
 - [beBeeManufacturingEngineering](#bebeemanufacturingengineering) (1)
@@ -207,7 +207,7 @@
 - [Homebase](#homebase) (1)
 - [Howard University](#howard-university) (1)
 - [HPM Building Supply](#hpm-building-supply) (1)
-- [Hunt Oil Company](#hunt-oil-company) (3)
+- [Hunt Oil Company](#hunt-oil-company) (2)
 - [iHerb](#iherb) (1)
 - [Illinois Tool Works](#illinois-tool-works) (1)
 - [IMC Trading](#imc-trading) (9)
@@ -295,6 +295,7 @@
 - [Notion](#notion) (5)
 - [Nuro](#nuro) (1)
 - [NVIDIA](#nvidia) (9)
+- [NXP Semiconductors](#nxp-semiconductors) (1)
 - [OCC](#occ) (1)
 - [Octaura](#octaura) (1)
 - [OfferUp](#offerup) (1)
@@ -833,6 +834,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [AI Business Architecture & Delivery Intern Co-op](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/AI-Business-Architecture---Delivery-Internship---Toronto--ON--12-Month-Co-Op-_R260018492) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-06-23 |
 | [Database Analyst Co-op/Intern](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Database-Analyst--Fall-2026--Co-op-Internship----4-months_R260018622-1) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-06-23 |
 | [Data Engineer Co-op/Intern - 4 months](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Data-Engineer--Fall-2026--Co-op-Internship----4-months_R260018081-2) | 93 | Toronto, ON, Canada | AI/ML/Data | 2026-06-17 |
 
@@ -1854,7 +1856,6 @@
 | --- | --- | --- | --- | --- |
 | [SAP BTP Application Developer Intern - Summer 2026](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/886) | 85 | Dallas, TX | Software | 2026-05-09 |
 | [Software Engineer Intern - Summer 2026](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/891) | 85 | Dallas, TX | Software | 2026-05-09 |
-| [Technology Research Intern - Summer 2026](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/897) | 60 | Dallas, TX | AI/ML/Data | 2026-05-09 |
 
 ## iHerb
 
@@ -2513,6 +2514,12 @@
 | [Quantum Research Scientist Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244) | 93 | Santa Clara, CA | — | 2026-05-19 |
 | [Software Engineering Intern, JAX](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745) | 68 | Santa Clara, CA | — | 2026-05-09 |
 
+## NXP Semiconductors
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Digital Verification Engineer Intern](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Verification-Engineer-Intern---Fall-2026_R-10064107) | 58 | Austin, TX | Hardware | 2026-06-23 |
+
 ## OCC
 
 | Title | Score | Location | Department | First seen |
@@ -2722,8 +2729,8 @@
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-05-09 |
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-05-09 |
 | [2026 Technology Internship – Software Engineer](https://boards.greenhouse.io/point72/jobs/8406727002?gh_jid=8406727002) | 93 | Warsaw, Poland | — | 2026-05-06 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -3154,8 +3161,8 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer, New Grad, Developer & End User Experience Platform](https://stripe.com/jobs/search?gh_jid=7991718) | 91 | Toronto | — | 2026-06-11 |
 | [PhD Data Scientist Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | Seattle, WA / SF / Chicago, IL / NYC | AI/ML/Data | 2026-06-06 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) | 85 | San Francisco, New York City, Seattle, Chicago | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | 56 | Mexico City, Mexico | — | 2026-05-06 |

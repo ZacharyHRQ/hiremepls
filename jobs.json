@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-23T22:03:03.351Z",
+  "generatedAt": "2026-06-23T23:20:15.315Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1120,
+  "jobCount": 1121,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -234,7 +234,6 @@
     "canonical:9706223856dee25f": "2026-05-09T15:28:15.527Z",
     "canonical:490e7483dc27c0c0": "2026-05-09T15:28:15.527Z",
     "canonical:5ce589da3d471748": "2026-05-09T15:28:15.527Z",
-    "canonical:1ee48dc7b2c1ca77": "2026-05-09T15:28:15.527Z",
     "canonical:7635580facb3ef8b": "2026-05-09T15:28:15.527Z",
     "canonical:d94c161d45204183": "2026-05-09T15:28:15.527Z",
     "canonical:f64bc2e9a59f57b1": "2026-05-09T15:28:15.527Z",
@@ -1123,7 +1122,9 @@
     "canonical:05a30cbc3123c379": "2026-06-23T14:03:34.437Z",
     "canonical:ab20f77386bc364b": "2026-06-23T14:03:34.437Z",
     "canonical:31ff0ed183a28390": "2026-06-23T14:03:34.437Z",
-    "canonical:d4b4e578d1146494": "2026-06-23T20:32:39.548Z"
+    "canonical:d4b4e578d1146494": "2026-06-23T20:32:39.548Z",
+    "canonical:86cc573fd0d0b2f6": "2026-06-23T23:20:15.315Z",
+    "canonical:b681a562b0493602": "2026-06-23T23:20:15.315Z"
   },
   "jobs": [
     {
@@ -1477,10 +1478,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1491,10 +1492,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1879,10 +1880,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -1892,10 +1893,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -4987,18 +4988,6 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:1ee48dc7b2c1ca77",
-      "title": "Technology Research Intern - Summer 2026",
-      "url": "https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/897",
-      "location": "Dallas, TX",
-      "department": "AI/ML/Data",
-      "company": "Hunt Oil Company",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {
@@ -13170,6 +13159,31 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:86cc573fd0d0b2f6",
+      "title": "Digital Verification Engineer Intern",
+      "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Verification-Engineer-Intern---Fall-2026_R-10064107",
+      "location": "Austin, TX",
+      "department": "Hardware",
+      "company": "NXP Semiconductors",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:b681a562b0493602",
+      "title": "AI Business Architecture & Delivery Intern Co-op",
+      "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/AI-Business-Architecture---Delivery-Internship---Toronto--ON--12-Month-Co-Op-_R260018492",
+      "location": "Toronto, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "Bank of Montreal",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
