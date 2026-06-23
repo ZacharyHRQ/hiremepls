@@ -1,10 +1,10 @@
 # Open Internships
 
-**1118** internships across **63/64** companies — last updated 2026-06-23.
+**1123** internships across **63/64** companies — last updated 2026-06-23.
 
 ## Companies
 
-- [1Password](#1password) (7)
+- [1Password](#1password) (6)
 - [60decibelsinc](#60decibelsinc) (1)
 - [ABB](#abb) (2)
 - [ABC News](#abc-news) (1)
@@ -85,7 +85,7 @@
 - [Capella](#capella) (2)
 - [CareScout](#carescout) (1)
 - [Caterpillar Inc.](#caterpillar-inc) (1)
-- [Centerfield](#centerfield) (1)
+- [Centerfield](#centerfield) (2)
 - [Cerebras](#cerebras) (2)
 - [Chartwells Higher Education Dining Services](#chartwells-higher-education-dining-services) (1)
 - [CHEP](#chep) (1)
@@ -214,7 +214,7 @@
 - [Hunt Oil Company](#hunt-oil-company) (3)
 - [iHerb](#iherb) (1)
 - [Illinois Tool Works](#illinois-tool-works) (1)
-- [IMC Trading](#imc-trading) (8)
+- [IMC Trading](#imc-trading) (9)
 - [Impulse Space](#impulse-space) (1)
 - [Infojini](#infojini) (1)
 - [Inizio](#inizio) (1)
@@ -236,7 +236,7 @@
 - [Jump Trading](#jump-trading) (2)
 - [K1](#k1) (1)
 - [KBR](#kbr) (1)
-- [Kinaxis](#kinaxis) (3)
+- [Kinaxis](#kinaxis) (4)
 - [KION Group](#kion-group) (1)
 - [KLA](#kla) (1)
 - [Kognitos](#kognitos) (1)
@@ -399,7 +399,7 @@
 - [TENEX.AI](#tenex-ai) (1)
 - [Tenstorrent](#tenstorrent) (6)
 - [Terranox AI](#terranox-ai) (1)
-- [Tesla](#tesla) (94)
+- [Tesla](#tesla) (95)
 - [Tessera Labs](#tessera-labs) (1)
 - [TETRAMEM](#tetramem) (1)
 - [Texas Instruments](#texas-instruments) (1)
@@ -410,7 +410,7 @@
 - [TikTok](#tiktok) (82)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
-- [Together AI](#together-ai) (2)
+- [Together AI](#together-ai) (3)
 - [Topel Forman LLC](#topel-forman-llc) (1)
 - [Tower Research Capital](#tower-research-capital) (4)
 - [Toyota Research Institute](#toyota-research-institute) (3)
@@ -427,7 +427,7 @@
 - [University System of New Hampshire](#university-system-of-new-hampshire) (1)
 - [Vanasse Hangen Brustlin (VHB)](#vanasse-hangen-brustlin-vhb) (1)
 - [Vanguard](#vanguard) (1)
-- [Varda Space](#varda-space) (2)
+- [Varda Space](#varda-space) (3)
 - [Veeam Software](#veeam-software) (2)
 - [Veeva](#veeva) (1)
 - [Veeva Systems](#veeva-systems) (1)
@@ -463,7 +463,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Developer Intern - Service Development](https://jobs.ashbyhq.com/1password/b6b8c8ed-ff1c-4bc2-9dbe-5122207ea3a2/application) | 93 | Remote in USA / Remote in Canada | Software | 2026-06-19 |
-| [Developer Intern - Open Source](https://jobs.ashbyhq.com/1password/81323adf-cf08-45af-a1df-da91c3a052ae/application) | 93 | Remote in USA / Remote in Canada | Software | 2026-06-18 |
 | [Developer Intern - Client Secrets Management](https://jobs.ashbyhq.com/1password/d9909a9a-d941-404d-a7f2-5021670ffd2c/application) | 93 | Remote in USA / Remote in Canada | Software | 2026-06-13 |
 | [Developer Intern](https://jobs.ashbyhq.com/1password/44150e12-89b1-4ac7-ad8d-671f5ec650dd/application) | 93 | Remote in USA / Remote in Canada | Software | 2026-06-12 |
 | [Developer Intern - Front-End Platform](https://jobs.ashbyhq.com/1password/c90c5d23-fd41-4c01-8422-08f4b64144f5/application) | 93 | Remote in USA / Remote in Canada | Software | 2026-06-10 |
@@ -1053,6 +1052,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data Science Intern](https://jobs.ashbyhq.com/centerfield/916dcf42-d69a-4f00-875a-f8fe630e0f33/application) | 68 | LA | AI/ML/Data | 2026-06-23 |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/centerfield/3279e803-56ab-4e12-8168-c2fd60bc8e60/application) | 93 | LA | Software | 2026-06-09 |
 
 ## Cerebras
@@ -1894,10 +1894,11 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [2026 Chicago Intern Networking Event](https://job-boards.eu.greenhouse.io/imc/jobs/4900488101) | 58 | Chicago, United States | — | 2026-06-23 |
 | [Graduate Quantitative Researcher](https://job-boards.eu.greenhouse.io/imc/jobs/4892687101) | 99 | Zug, Switzerland | — | 2026-06-12 |
 | [Hardware Machine Learning PhD Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, IL | AI/ML/Data | 2026-05-09 |
-| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
+| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Hardware Machine Learning PhD Research Internship](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, United States | — | 2026-05-06 |
 | [Graduate Floor Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4786701101) | 64 | Chicago, United States; Miami, United States; New York, United States; Philadelphia, United States; San Francisco, United States | — | 2026-05-06 |
 | [Graduate Trader (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564495101) | 64 | Amsterdam, Netherlands | — | 2026-05-06 |
@@ -1962,7 +1963,7 @@
 | [Silicon Performance Validation and Characterization Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Silicon-Performance-Validation-and-Characterization-Intern_JR0284310) | 58 | Phoenix, AZ | Hardware | 2026-06-20 |
 | [Silicon Architecture Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Silicon-Architecture-Graduate-Intern_JR0283607) | 64 | Austin, TX / Santa Clara, CA / Hillsboro, OR / Folsom, CA | Hardware | 2026-06-17 |
 | [AI Software Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641) | 93 | Phoenix, AZ | Software | 2026-06-13 |
-| [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) | 68 | Hillsboro, OR / Folsom, CA | Hardware | 2026-05-09 |
+| [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) | 68 | Hillsboro, OR / Folsom, CA | — | 2026-05-09 |
 
 ## Interac
 
@@ -2044,6 +2045,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Co-op/Intern - Developer Framework](https://careers-kinaxis.icims.com/jobs/34832/job?mobile=true&needsRedirect=false) | 85 | Ottawa, ON, Canada | Software | 2026-06-23 |
 | [Software Developer Co-op/Intern - Core Algorithms](https://careers-kinaxis.icims.com/jobs/34962/job?mobile=true&needsRedirect=false) | 85 | Ottawa, ON, Canada | Software | 2026-06-19 |
 | [Software Development Co-op/Intern - C++](https://careers-kinaxis.icims.com/jobs/34764/job?mobile=true&needsRedirect=false) | 60 | Ottawa, ON, Canada | Software | 2026-06-18 |
 | [Software Developer Intern](https://careers-kinaxis.icims.com/jobs/34899/job?mobile=true&needsRedirect=false) | 85 | Ottawa, ON, Canada | Software | 2026-06-09 |
@@ -3292,6 +3294,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data Analytics Intern - People Analytics](https://www.tesla.com/careers/search/job/274560) | 60 | Austin, TX | AI/ML/Data | 2026-06-23 |
 | [Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems](https://www.tesla.com/careers/search/job/274047) | 85 | Palo Alto, CA | Hardware | 2026-06-17 |
 | [Systems Modeling & Optimization Intern - Robotaxi Simulation Engineer - Systems Modeling & Optimization](https://www.tesla.com/careers/search/job/273933) | 85 | Palo Alto, CA | Software | 2026-06-17 |
 | [Embedded System Software Engineer Intern - Embedded System Software Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/273822) | 85 | Palo Alto, CA | Hardware | 2026-06-17 |
@@ -3533,6 +3536,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Research reinforcement learning & Post-Training Systems Intern - Turbo](https://job-boards.greenhouse.io/togetherai/jobs/5168929007) | 68 | SF | AI/ML/Data | 2026-06-23 |
 | [Systems Research Engineer Intern - GPU Programming](https://job-boards.greenhouse.io/togetherai/jobs/5157559007) | 93 | SF | AI/ML/Data | 2026-06-17 |
 | [Research Intern - Model Shaping](https://job-boards.greenhouse.io/togetherai/jobs/5157661007) | 68 | SF | AI/ML/Data | 2026-06-17 |
 
@@ -3641,6 +3645,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Automation & Test Intern](https://job-boards.greenhouse.io/vardaspace/jobs/7663353003) | 58 | El Segundo, CA | Hardware | 2026-06-23 |
 | [Mission Software – Intern - Python](https://job-boards.greenhouse.io/vardaspace/jobs/7676465003) | 68 | El Segundo, CA | Software | 2026-06-13 |
 | [Mission Operations Intern](https://job-boards.greenhouse.io/vardaspace/jobs/7663358003) | 68 | El Segundo, CA | Software | 2026-05-09 |
 

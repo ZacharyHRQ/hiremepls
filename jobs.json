@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-23T00:19:39.353Z",
+  "generatedAt": "2026-06-23T04:36:40.243Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1118,
+  "jobCount": 1123,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1070,7 +1070,6 @@
     "canonical:83bb1cea723f1a8d": "2026-06-17T17:36:29.585Z",
     "canonical:f6f6731d56fbaf08": "2026-06-17T17:36:29.585Z",
     "canonical:ec23121dc644d031": "2026-06-18T01:59:36.874Z",
-    "canonical:e11221ae59ab81b7": "2026-06-18T01:59:36.874Z",
     "canonical:bfc4cf4e2914175a": "2026-06-18T01:59:36.874Z",
     "canonical:274ccf4522c69087": "2026-06-18T01:59:36.874Z",
     "canonical:7a84ea827ea42d52": "2026-06-18T01:59:36.874Z",
@@ -1121,7 +1120,13 @@
     "canonical:bd4e181d83e4431b": "2026-06-22T23:11:18.221Z",
     "canonical:5703b8a0a55c3350": "2026-06-23T00:19:39.353Z",
     "canonical:1fd516f098e80e1d": "2026-06-23T00:19:39.353Z",
-    "canonical:21a28e90bf258781": "2026-06-23T00:19:39.353Z"
+    "canonical:21a28e90bf258781": "2026-06-23T00:19:39.353Z",
+    "canonical:2c8283404a0e6565": "2026-06-23T04:36:40.243Z",
+    "canonical:491ade8f5ec863c3": "2026-06-23T04:36:40.243Z",
+    "canonical:8dfbe61a4a33e68c": "2026-06-23T04:36:40.243Z",
+    "canonical:344f7f9cc24c152b": "2026-06-23T04:36:40.243Z",
+    "canonical:baa8d20fda37086a": "2026-06-23T04:36:40.243Z",
+    "canonical:e035aef29d392d1e": "2026-06-23T04:36:40.243Z"
   },
   "jobs": [
     {
@@ -1191,6 +1196,18 @@
       ]
     },
     {
+      "id": "canonical:2c8283404a0e6565",
+      "title": "2026 Chicago Intern Networking Event",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4900488101",
+      "location": "Chicago, United States",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:822f979beef7ebc5",
       "title": "Graduate Floor Trader",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4786701101",
@@ -1219,10 +1236,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1234,10 +1251,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -5798,6 +5815,18 @@
       ]
     },
     {
+      "id": "canonical:491ade8f5ec863c3",
+      "title": "Automation & Test Intern",
+      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7663353003",
+      "location": "El Segundo, CA",
+      "department": "Hardware",
+      "company": "Varda Space",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:c3f909dd643f2906",
       "title": "Mission Software – Intern - Python",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7676465003",
@@ -7286,19 +7315,6 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:72a13f956e90ff2e",
-      "title": "AI Software Engineering Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639",
-      "location": "Hillsboro, OR / Folsom, CA",
-      "department": "Hardware",
-      "company": "Intel",
-      "score": 68,
-      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
@@ -12729,20 +12745,6 @@
       ]
     },
     {
-      "id": "canonical:e11221ae59ab81b7",
-      "title": "Developer Intern - Open Source",
-      "url": "https://jobs.ashbyhq.com/1password/81323adf-cf08-45af-a1df-da91c3a052ae/application",
-      "location": "Remote in USA / Remote in Canada",
-      "department": "Software",
-      "company": "1Password",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:bfc4cf4e2914175a",
       "title": "Technology & Innovation Intern",
       "url": "https://navaide.breezy.hr/p/3fe610df21d6/apply",
@@ -13145,6 +13147,57 @@
       "location": "Raleigh, NC",
       "department": "AI/ML/Data",
       "company": "Vanasse Hangen Brustlin (VHB)",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:8dfbe61a4a33e68c",
+      "title": "Research reinforcement learning & Post-Training Systems Intern - Turbo",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5168929007",
+      "location": "SF",
+      "department": "AI/ML/Data",
+      "company": "Together AI",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:344f7f9cc24c152b",
+      "title": "Software Engineer Co-op/Intern - Developer Framework",
+      "url": "https://careers-kinaxis.icims.com/jobs/34832/job?mobile=true&needsRedirect=false",
+      "location": "Ottawa, ON, Canada",
+      "department": "Software",
+      "company": "Kinaxis",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:baa8d20fda37086a",
+      "title": "Data Science Intern",
+      "url": "https://jobs.ashbyhq.com/centerfield/916dcf42-d69a-4f00-875a-f8fe630e0f33/application",
+      "location": "LA",
+      "department": "AI/ML/Data",
+      "company": "Centerfield",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:e035aef29d392d1e",
+      "title": "Data Analytics Intern - People Analytics",
+      "url": "https://www.tesla.com/careers/search/job/274560",
+      "location": "Austin, TX",
+      "department": "AI/ML/Data",
+      "company": "Tesla",
       "score": 60,
       "scoreReasons": [
         "high-signal role"
@@ -14013,6 +14066,19 @@
       "company": "Homebase",
       "score": 58,
       "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:72a13f956e90ff2e",
+      "title": "AI Software Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639",
+      "location": "Hillsboro, OR / Folsom, CA",
+      "department": "",
+      "company": "Intel",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
         "direct ATS"
       ]
     },
