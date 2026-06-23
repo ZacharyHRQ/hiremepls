@@ -1,6 +1,6 @@
 # Open Internships
 
-**1126** internships across **63/64** companies — last updated 2026-06-23.
+**1123** internships across **63/64** companies — last updated 2026-06-23.
 
 ## Companies
 
@@ -59,7 +59,7 @@
 - [Barkback](#barkback) (1)
 - [Base Power](#base-power) (4)
 - [beBeeManufacturingEngineering](#bebeemanufacturingengineering) (1)
-- [Berkshire Hathaway Energy](#berkshire-hathaway-energy) (4)
+- [Berkshire Hathaway Energy](#berkshire-hathaway-energy) (3)
 - [Beyondsoft](#beyondsoft) (1)
 - [BillionToOne](#billiontoone) (1)
 - [Black Box](#black-box) (2)
@@ -129,7 +129,6 @@
 - [Definity Financial](#definity-financial) (4)
 - [Delta Dental](#delta-dental) (1)
 - [Dewberry](#dewberry) (1)
-- [Digital Realty](#digital-realty) (1)
 - [Digs](#digs) (1)
 - [DimeHealth AI](#dimehealth-ai) (1)
 - [Doctors Without Borders](#doctors-without-borders) (1)
@@ -180,7 +179,6 @@
 - [GenBio AI](#genbio-ai) (1)
 - [Generac](#generac) (2)
 - [General Astronautics](#general-astronautics) (1)
-- [General Dynamics Mission Systems](#general-dynamics-mission-systems) (1)
 - [General Motors](#general-motors) (2)
 - [GenScript](#genscript) (1)
 - [Gensyn](#gensyn) (1)
@@ -867,7 +865,6 @@
 | [Intern – Engineer Operations & Analytics](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003877) | 85 | Omaha, NE | AI/ML/Data | 2026-05-09 |
 | [Intern – Corp IT - Grid Operations Applications](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003904) | 60 | Davenport, IA | AI/ML/Data | 2026-05-09 |
 | [Intern – Data Science - Electric Distribution](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003850) | 60 | Sioux City, IA / Davenport, IA | AI/ML/Data | 2026-05-09 |
-| [Intern – Data Science - Operations Sustainment](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003906) | 60 | Des Moines, IA | AI/ML/Data | 2026-05-09 |
 
 ## Beyondsoft
 
@@ -1346,12 +1343,6 @@
 | --- | --- | --- | --- | --- |
 | [Site/Civil Engineering Intern](https://www.linkedin.com/jobs/view/4275448602) | 42 | Richmond, VA | — | 2026-05-16 |
 
-## Digital Realty
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Product Analyst Intern](https://hdep.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/8096) | 50 | Seattle, WA / Dallas, TX / Ashburn, VA | Product | 2026-06-08 |
-
 ## Digs
 
 | Title | Score | Location | Department | First seen |
@@ -1681,12 +1672,6 @@
 | --- | --- | --- | --- | --- |
 | [Engineering Intern](https://www.workatastartup.com/jobs/94206) | 56 | San Francisco, CA | — | 2026-05-09 |
 
-## General Dynamics Mission Systems
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://careers-gdms.icims.com/jobs/73191/job?mobile=true&needsRedirect=false) | 85 | Scottsdale, AZ | Software | 2026-06-18 |
-
 ## General Motors
 
 | Title | Score | Location | Department | First seen |
@@ -1898,8 +1883,8 @@
 | [2026 Chicago Intern Networking Event](https://job-boards.eu.greenhouse.io/imc/jobs/4900488101) | 58 | Chicago, United States | — | 2026-06-23 |
 | [Graduate Quantitative Researcher](https://job-boards.eu.greenhouse.io/imc/jobs/4892687101) | 99 | Zug, Switzerland | — | 2026-06-12 |
 | [Hardware Machine Learning PhD Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, IL | AI/ML/Data | 2026-05-09 |
-| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
+| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Hardware Machine Learning PhD Research Internship](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, United States | — | 2026-05-06 |
 | [Graduate Floor Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4786701101) | 64 | Chicago, United States; Miami, United States; New York, United States; Philadelphia, United States; San Francisco, United States | — | 2026-05-06 |
 | [Graduate Trader (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564495101) | 64 | Amsterdam, Netherlands | — | 2026-05-06 |
