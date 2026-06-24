@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-24T15:59:08.517Z",
+  "generatedAt": "2026-06-24T17:54:56.766Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1135,
+  "jobCount": 1134,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -47,7 +47,6 @@
     "canonical:c3741eefab6317c5": "2026-05-06T06:42:07.596Z",
     "canonical:bf3ff121b06c08eb": "2026-05-06T06:42:07.596Z",
     "canonical:6a8c381d419eba3a": "2026-05-06T06:42:07.596Z",
-    "canonical:336453ca48d040d7": "2026-05-06T06:42:07.596Z",
     "canonical:dadf9e1bf0414e54": "2026-05-06T06:42:07.596Z",
     "canonical:a7486aaabb8ccb04": "2026-05-06T06:42:07.596Z",
     "canonical:667c574d3424b793": "2026-05-06T06:42:07.596Z",
@@ -1235,10 +1234,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1250,10 +1249,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1903,19 +1902,6 @@
       "score": 56,
       "scoreReasons": [
         "new grad"
-      ]
-    },
-    {
-      "id": "canonical:336453ca48d040d7",
-      "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
-      "department": "",
-      "company": "Stripe",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
