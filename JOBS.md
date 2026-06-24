@@ -1,6 +1,6 @@
 # Open Internships
 
-**1131** internships across **63/64** companies — last updated 2026-06-24.
+**1126** internships across **63/64** companies — last updated 2026-06-24.
 
 ## Companies
 
@@ -249,7 +249,6 @@
 - [LinkedIn](#linkedin) (3)
 - [LiveRamp](#liveramp) (2)
 - [Lucid Motors](#lucid-motors) (2)
-- [Lumafield](#lumafield) (1)
 - [Lunon](#lunon) (1)
 - [Lyft](#lyft) (1)
 - [Mach9](#mach9) (1)
@@ -275,7 +274,6 @@
 - [Mercor](#mercor) (1)
 - [Meshy](#meshy) (3)
 - [Meta](#meta) (16)
-- [Metalenz](#metalenz) (1)
 - [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (4)
 - [Microchip Technology](#microchip-technology) (1)
 - [Microsoft](#microsoft) (37)
@@ -294,7 +292,6 @@
 - [Neuralink](#neuralink) (3)
 - [NewsBreak](#newsbreak) (2)
 - [Nightwing Intelligence Solutions](#nightwing-intelligence-solutions) (1)
-- [Nintendo](#nintendo) (1)
 - [Nio](#nio) (1)
 - [Nissan Global](#nissan-global) (1)
 - [Niural](#niural) (1)
@@ -406,7 +403,7 @@
 - [TDS](#tds) (1)
 - [Teall Sports & Entertainment](#teall-sports-entertainment) (1)
 - [Technergetics](#technergetics) (1)
-- [Tencent](#tencent) (12)
+- [Tencent](#tencent) (11)
 - [TENEX.AI](#tenex-ai) (1)
 - [Tenstorrent](#tenstorrent) (6)
 - [Terranox AI](#terranox-ai) (1)
@@ -454,7 +451,7 @@
 - [Walmart](#walmart) (1)
 - [Walrus](#walrus) (1)
 - [Wash U](#wash-u) (1)
-- [Waymo](#waymo) (2)
+- [Waymo](#waymo) (1)
 - [Wealth.com](#wealth-com) (1)
 - [Wells Fargo](#wells-fargo) (11)
 - [WeRide](#weride) (2)
@@ -1910,8 +1907,8 @@
 | [2026 Chicago Intern Networking Event](https://job-boards.eu.greenhouse.io/imc/jobs/4900488101) | 58 | Chicago, United States | — | 2026-06-23 |
 | [Graduate Quantitative Researcher](https://job-boards.eu.greenhouse.io/imc/jobs/4892687101) | 99 | Zug, Switzerland | — | 2026-06-12 |
 | [Hardware Machine Learning PhD Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, IL | AI/ML/Data | 2026-05-09 |
-| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
+| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
 | [Hardware Machine Learning PhD Research Internship](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, United States | — | 2026-05-06 |
 | [Graduate Floor Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4786701101) | 64 | Chicago, United States; Miami, United States; New York, United States; Philadelphia, United States; San Francisco, United States | — | 2026-05-06 |
 | [Graduate Trader (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564495101) | 64 | Amsterdam, Netherlands | — | 2026-05-06 |
@@ -2142,12 +2139,6 @@
 | [Finance Business Analytics Intern](https://job-boards.greenhouse.io/lucidmotors/jobs/5136407007) | 68 | Concord, NH | AI/ML/Data | 2026-06-17 |
 | [Data Analyst Intern](https://job-boards.greenhouse.io/lucidmotors/jobs/5156608007) | 68 | Concord, NH | AI/ML/Data | 2026-06-16 |
 
-## Lumafield
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Engineering Intern, Embedded Software](https://www.lumafield.com/careers/job?id=fcef5035-421a-4c2e-a79a-b687401a1efe) | 60 | Boston, MA | Software Engineering | 2026-05-09 |
-
 ## Lunon
 
 | Title | Score | Location | Department | First seen |
@@ -2329,12 +2320,6 @@
 | [Research Scientist Intern, Organic Optoelectronic Materials (PhD)](https://www.metacareers.com/profile/job_details/843617948284299) | 75 | Redmond, WA | Hardware Engineering | 2026-05-09 |
 | [Research Scientist Intern, Computational Chemist](https://www.metacareers.com/profile/job_details/2059739221232640) | 60 | Redmond, WA | Data Science, AI & Machine Learning | 2026-05-09 |
 
-## Metalenz
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Camera Software Intern](https://jobs.ashbyhq.com/metalenz/67e2d3ed-9adc-4f35-aa81-7995b9388eff) | 68 | Boston, MA | Hardware Engineering | 2026-05-09 |
-
 ## Metropolitan Transportation Authority
 
 | Title | Score | Location | Department | First seen |
@@ -2489,12 +2474,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software / Hardware Engineering Intern](https://nwis.wd12.myworkdayjobs.com/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733) | 68 | Annapolis Junction, MD | Hardware | 2026-06-03 |
-
-## Nintendo
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Intern - Software Engineer (NTD)](https://careers.nintendo.com/job-openings/listing/25000000EM.html) | 85 | Redmond, WA | Software Engineering | 2026-05-09 |
 
 ## Nio
 
@@ -2705,7 +2684,7 @@
 | --- | --- | --- | --- | --- |
 | [AI Inference Internship](https://jobs.ashbyhq.com/perplexity/79a07e2d-6150-4929-80fe-bbe13a641763) | 55 | — | — | 2026-06-15 |
 | [Internship - Search Backend Infra Engineer](https://jobs.ashbyhq.com/perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92) | 90 | — | — | 2026-05-29 |
-| [Internship - Search Machine Learning Engineer](https://jobs.ashbyhq.com/perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2) | 90 | — | — | 2026-05-29 |
+| [Internship - Search Machine Learning Engineer](https://jobs.ashbyhq.com/perplexity/71168628-1998-47d3-87a9-be7bc56a430d) | 90 | — | — | 2026-05-29 |
 
 ## Perplexity AI
 
@@ -2793,8 +2772,8 @@
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-05-09 |
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-05-09 |
 | [2026 Technology Internship – Software Engineer](https://boards.greenhouse.io/point72/jobs/8406727002?gh_jid=8406727002) | 93 | Warsaw, Poland | — | 2026-05-06 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -3340,7 +3319,6 @@
 | [Research Internship - Reinforcement Learning for Large Foundation Models](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Research-Internship---Reinforcement-Learning-for-Large-Foundation-Models_R106337-1) | 68 | Bellevue, WA | AI/ML/Data | 2026-06-13 |
 | [Hunyuan Multimodal Algorithm Researcher Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-Intern-Omni-Modal---_R107051) | 93 | Palo Alto, CA | AI/ML/Data | 2026-06-13 |
 | [Agent Development Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Agent-Development-Intern_R107276-2) | 68 | London, UK | Software | 2026-05-20 |
-| [Tencent Cloud CPaaS Product Management Intern](https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/Tencent-Cloud-CPaaS-Product-Management-Intern_R106318) | 58 | Palo Alto, CA | Product Management | 2026-05-09 |
 
 ## TENEX.AI
 
@@ -3625,7 +3603,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Intern](https://www.tower-research.com/open-positions/?gh_jid=7988899) | 50 | Gift City | — | 2026-06-12 |
+| [Intern](https://www.tower-research.com/open-positions/?gh_jid=7988896) | 50 | Gift City | — | 2026-06-12 |
 | [Quantitative Trader Intern - PhD 2026](https://www.tower-research.com/open-positions/?gh_jid=7062370) | 60 | NYC | Quant | 2026-05-09 |
 | [Risk Intern - 6 Month Internship Opportunity](https://www.tower-research.com/open-positions/?gh_jid=7789933) | 50 | Singapore | — | 2026-05-06 |
 
@@ -3823,7 +3801,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [2026 Summer Intern, MS/PhD, ML Architecture, Software Engineer](https://careers.withwaymo.com/jobs/2026-summer-intern-ms-phd-ml-architecture-software-engineer-mountain-view-california-united-states?gh_jid=7340150) | 85 | Mountain View, CA | Data Science, AI & Machine Learning | 2026-05-09 |
 | [2026 Summer Intern, MS/PhD, Software Engineer, Planner Reasoning ML/DL](https://careers.withwaymo.com/jobs/2026-summer-intern-ms-phd-software-engineer-planner-reasoning-ml-dl-mountain-view-california-united-states?gh_jid=7393132) | 85 | Mountain View, CA | Data Science, AI & Machine Learning | 2026-05-09 |
 
 ## Wealth.com

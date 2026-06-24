@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-24T21:07:42.409Z",
+  "generatedAt": "2026-06-24T22:38:17.009Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1131,
+  "jobCount": 1126,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -65,11 +65,6 @@
     "canonical:8fc863f495e5ebf7": "2026-05-09T15:28:15.527Z",
     "canonical:40b5e3e02c34b6ce": "2026-05-09T15:28:15.527Z",
     "canonical:54eb0918a1a56e5d": "2026-05-09T15:28:15.527Z",
-    "canonical:fd3d94986ffcabb5": "2026-05-09T15:28:15.527Z",
-    "canonical:14ed621d315e28df": "2026-05-09T15:28:15.527Z",
-    "canonical:cef606e0f144fc90": "2026-05-09T15:28:15.527Z",
-    "canonical:88c9582e568b0a38": "2026-05-09T15:28:15.527Z",
-    "canonical:9ef5f702ed362a97": "2026-05-09T15:28:15.527Z",
     "canonical:d688e20ac5c7e4a8": "2026-05-09T15:28:15.527Z",
     "canonical:203024673d01b277": "2026-05-09T15:28:15.527Z",
     "canonical:8132ab2e5a72158d": "2026-05-09T15:28:15.527Z",
@@ -1231,10 +1226,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1246,10 +1241,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1382,7 +1377,7 @@
     {
       "id": "canonical:90de0872641ecba5",
       "title": "Intern",
-      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988899",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988896",
       "location": "Gift City",
       "department": "",
       "company": "Tower Research Capital",
@@ -1487,10 +1482,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1501,10 +1496,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1798,22 +1793,7 @@
     {
       "id": "canonical:40ef868326fd30ff",
       "title": "Internship - Search Machine Learning Engineer",
-      "url": "https://jobs.ashbyhq.com/perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2",
-      "location": "",
-      "department": "",
-      "company": "Perplexity",
-      "score": 90,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS",
-        "unknown location"
-      ]
-    },
-    {
-      "id": "canonical:aad2d16f8de8b63e",
-      "title": "Internship - Search Backend Infra Engineer",
-      "url": "https://jobs.ashbyhq.com/perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92",
+      "url": "https://jobs.ashbyhq.com/perplexity/71168628-1998-47d3-87a9-be7bc56a430d",
       "location": "",
       "department": "",
       "company": "Perplexity",
@@ -1834,6 +1814,21 @@
       "company": "Perplexity",
       "score": 55,
       "scoreReasons": [
+        "direct ATS",
+        "unknown location"
+      ]
+    },
+    {
+      "id": "canonical:aad2d16f8de8b63e",
+      "title": "Internship - Search Backend Infra Engineer",
+      "url": "https://jobs.ashbyhq.com/perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92",
+      "location": "",
+      "department": "",
+      "company": "Perplexity",
+      "score": 90,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
         "direct ATS",
         "unknown location"
       ]
@@ -1966,6 +1961,50 @@
       ]
     },
     {
+      "id": "canonical:a67713b89b2d0000",
+      "title": "AI Research Scientist, New Grad – Agents & Reinforcement Learning",
+      "url": "https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698",
+      "location": "",
+      "department": "",
+      "company": "Snowflake",
+      "score": 86,
+      "scoreReasons": [
+        "SWE-aligned",
+        "new grad",
+        "direct ATS",
+        "unknown location"
+      ]
+    },
+    {
+      "id": "canonical:ac6a83dfd50fe4f1",
+      "title": "Software Engineer Intern - Zurich (2026)",
+      "url": "https://jobs.ashbyhq.com/snowflake/26a0ae52-97a6-4a46-9216-3c382570d89b",
+      "location": "",
+      "department": "",
+      "company": "Snowflake",
+      "score": 90,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS",
+        "unknown location"
+      ]
+    },
+    {
+      "id": "canonical:e6d9cce14ccbac53",
+      "title": "Product Marketing Intern (Fall 2026)",
+      "url": "https://jobs.ashbyhq.com/snowflake/3ac79875-b7bb-4078-b9c4-3bd5636e5d9c",
+      "location": "",
+      "department": "",
+      "company": "Snowflake",
+      "score": 35,
+      "scoreReasons": [
+        "direct ATS",
+        "lower-fit title",
+        "unknown location"
+      ]
+    },
+    {
       "id": "canonical:e437588bebae9943",
       "title": "Software Engineer Intern - Berlin (2026)",
       "url": "https://jobs.ashbyhq.com/snowflake/41e65c6c-a01e-4f40-af14-ae75d3b95e27",
@@ -1996,34 +2035,6 @@
       ]
     },
     {
-      "id": "canonical:789e5db3c1aae655",
-      "title": "Research Intern (AI) - 2026",
-      "url": "https://jobs.ashbyhq.com/snowflake/e2412cd5-19dd-44f8-addd-c9ef3c99ff82",
-      "location": "",
-      "department": "",
-      "company": "Snowflake",
-      "score": 55,
-      "scoreReasons": [
-        "direct ATS",
-        "unknown location"
-      ]
-    },
-    {
-      "id": "canonical:ac6a83dfd50fe4f1",
-      "title": "Software Engineer Intern - Zurich (2026)",
-      "url": "https://jobs.ashbyhq.com/snowflake/26a0ae52-97a6-4a46-9216-3c382570d89b",
-      "location": "",
-      "department": "",
-      "company": "Snowflake",
-      "score": 90,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS",
-        "unknown location"
-      ]
-    },
-    {
       "id": "canonical:30d30348d76c74bb",
       "title": "EMEA Communications Intern",
       "url": "https://jobs.ashbyhq.com/snowflake/b696164c-4865-43f4-940d-b5353755748f",
@@ -2033,20 +2044,6 @@
       "score": 55,
       "scoreReasons": [
         "direct ATS",
-        "unknown location"
-      ]
-    },
-    {
-      "id": "canonical:e6d9cce14ccbac53",
-      "title": "Product Marketing Intern (Fall 2026)",
-      "url": "https://jobs.ashbyhq.com/snowflake/3ac79875-b7bb-4078-b9c4-3bd5636e5d9c",
-      "location": "",
-      "department": "",
-      "company": "Snowflake",
-      "score": 35,
-      "scoreReasons": [
-        "direct ATS",
-        "lower-fit title",
         "unknown location"
       ]
     },
@@ -2064,16 +2061,14 @@
       ]
     },
     {
-      "id": "canonical:a67713b89b2d0000",
-      "title": "AI Research Scientist, New Grad – Agents & Reinforcement Learning",
-      "url": "https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698",
+      "id": "canonical:789e5db3c1aae655",
+      "title": "Research Intern (AI) - 2026",
+      "url": "https://jobs.ashbyhq.com/snowflake/e2412cd5-19dd-44f8-addd-c9ef3c99ff82",
       "location": "",
       "department": "",
       "company": "Snowflake",
-      "score": 86,
+      "score": 55,
       "scoreReasons": [
-        "SWE-aligned",
-        "new grad",
         "direct ATS",
         "unknown location"
       ]
@@ -2309,69 +2304,6 @@
       "company": "Cribl",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:fd3d94986ffcabb5",
-      "title": "Intern - Software Engineer (NTD)",
-      "url": "https://careers.nintendo.com/job-openings/listing/25000000EM.html",
-      "location": "Redmond, WA",
-      "department": "Software Engineering",
-      "company": "Nintendo",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:14ed621d315e28df",
-      "title": "Engineering Intern, Embedded Software",
-      "url": "https://www.lumafield.com/careers/job?id=fcef5035-421a-4c2e-a79a-b687401a1efe",
-      "location": "Boston, MA",
-      "department": "Software Engineering",
-      "company": "Lumafield",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:cef606e0f144fc90",
-      "title": "2026 Summer Intern, MS/PhD, ML Architecture, Software Engineer",
-      "url": "https://careers.withwaymo.com/jobs/2026-summer-intern-ms-phd-ml-architecture-software-engineer-mountain-view-california-united-states?gh_jid=7340150",
-      "location": "Mountain View, CA",
-      "department": "Data Science, AI & Machine Learning",
-      "company": "Waymo",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:88c9582e568b0a38",
-      "title": "Tencent Cloud CPaaS Product Management Intern",
-      "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/Tencent-Cloud-CPaaS-Product-Management-Intern_R106318",
-      "location": "Palo Alto, CA",
-      "department": "Product Management",
-      "company": "Tencent",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:9ef5f702ed362a97",
-      "title": "Camera Software Intern",
-      "url": "https://jobs.ashbyhq.com/metalenz/67e2d3ed-9adc-4f35-aa81-7995b9388eff",
-      "location": "Boston, MA",
-      "department": "Hardware Engineering",
-      "company": "Metalenz",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
     },
     {
       "id": "canonical:d688e20ac5c7e4a8",
