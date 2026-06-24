@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-24T19:25:26.738Z",
+  "generatedAt": "2026-06-24T21:07:42.409Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1134,
+  "jobCount": 1131,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -12,7 +12,6 @@
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
     "canonical:d3e044a7cf0a5bf2": "2026-05-06T06:42:07.596Z",
-    "canonical:5f76788ff8db5212": "2026-05-06T06:42:07.596Z",
     "canonical:deba20522af655b8": "2026-05-06T06:42:07.596Z",
     "canonical:f310a07d27c1f3e6": "2026-05-06T06:42:07.596Z",
     "canonical:e92aac66bea6b9e8": "2026-05-06T06:42:07.596Z",
@@ -700,7 +699,6 @@
     "canonical:4c90073ef9333aec": "2026-05-27T17:38:56.111Z",
     "canonical:047093c92a72e395": "2026-05-27T17:38:56.111Z",
     "canonical:5356f8a7b55607a4": "2026-05-27T17:38:56.111Z",
-    "canonical:69e898a891b2f5e1": "2026-05-27T17:38:56.111Z",
     "canonical:dde05a729f5089a8": "2026-05-27T17:38:56.111Z",
     "canonical:3cf93a383a96261f": "2026-05-27T17:38:56.111Z",
     "canonical:eceb8a789d5ce53e": "2026-05-27T17:38:56.111Z",
@@ -1135,7 +1133,6 @@
     "canonical:f4f9e8ec69b4f65f": "2026-06-24T13:34:22.889Z",
     "canonical:4341a970cbbffa2c": "2026-06-24T13:34:22.889Z",
     "canonical:e8038afc6e3ca5c9": "2026-06-24T13:34:22.889Z",
-    "canonical:fddefb4f60221433": "2026-06-24T13:34:22.889Z",
     "canonical:55b7d658b8486ecc": "2026-06-24T15:59:08.517Z",
     "canonical:171412c02ee260e4": "2026-06-24T15:59:08.517Z"
   },
@@ -1234,21 +1231,6 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
-      "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
-      "department": "",
-      "company": "IMC Trading",
-      "score": 99,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
@@ -1264,23 +1246,25 @@
       ]
     },
     {
-      "id": "canonical:d3e044a7cf0a5bf2",
-      "title": "Graduate Trader (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564495101",
+      "id": "canonical:13cbc9dfd9f78b7b",
+      "title": "Graduate Software Engineer (2026)",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
       "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
-      "score": 64,
+      "score": 99,
       "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
         "new grad",
         "direct ATS"
       ]
     },
     {
-      "id": "canonical:5f76788ff8db5212",
-      "title": "Graduate Trading Operations Specialist",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4608591101",
-      "location": "Chicago, United States",
+      "id": "canonical:d3e044a7cf0a5bf2",
+      "title": "Graduate Trader (2026)",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564495101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 64,
@@ -1503,10 +1487,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1517,10 +1501,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -9475,18 +9459,6 @@
       ]
     },
     {
-      "id": "canonical:69e898a891b2f5e1",
-      "title": "Hardware Design and Verification Intern - Printed Circuit Board Assembly",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware--PCBA--Design-and-Verification-Intern_R031027",
-      "location": "Ottawa, ON, Canada",
-      "department": "Hardware",
-      "company": "Ciena",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:dde05a729f5089a8",
       "title": "Electrical Device Characterization Intern",
       "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505101",
@@ -13320,16 +13292,6 @@
         "high-signal role",
         "direct ATS"
       ]
-    },
-    {
-      "id": "canonical:fddefb4f60221433",
-      "title": "Equipment Engineering associate Intern - Photolithography / Metrology",
-      "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011367",
-      "location": "Celina, TX",
-      "department": "Hardware",
-      "company": "Coherent ",
-      "score": 50,
-      "scoreReasons": []
     },
     {
       "id": "canonical:55b7d658b8486ecc",
