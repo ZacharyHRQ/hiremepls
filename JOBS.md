@@ -1,6 +1,6 @@
 # Open Internships
 
-**1126** internships across **63/64** companies — last updated 2026-06-24.
+**1129** internships across **63/64** companies — last updated 2026-06-24.
 
 ## Companies
 
@@ -287,6 +287,7 @@
 - [Nash](#nash) (2)
 - [Navaide](#navaide) (1)
 - [NBCUniversal](#nbcuniversal) (2)
+- [Netflix](#netflix) (1)
 - [Neuralink](#neuralink) (3)
 - [NewsBreak](#newsbreak) (2)
 - [Nightwing Intelligence Solutions](#nightwing-intelligence-solutions) (1)
@@ -327,7 +328,7 @@
 - [Pinterest](#pinterest) (4)
 - [PlusAI](#plusai) (19)
 - [Podium](#podium) (2)
-- [Point72](#point72) (21)
+- [Point72](#point72) (22)
 - [pony.ai](#pony-ai) (1)
 - [Poshmark](#poshmark) (1)
 - [PricewaterhouseCoopers (PwC)](#pricewaterhousecoopers-pwc) (1)
@@ -413,7 +414,7 @@
 - [The Exploration Company](#the-exploration-company) (1)
 - [The Trade Desk](#the-trade-desk) (1)
 - [TIFIN](#tifin) (1)
-- [TikTok](#tiktok) (82)
+- [TikTok](#tiktok) (83)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
 - [Together AI](#together-ai) (3)
@@ -2441,6 +2442,12 @@
 | [Software Engineering Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000121851427) | 68 | Universal City, CA | — | 2026-05-09 |
 | [Software Engineering Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000121848194) | 68 | New York, NY | — | 2026-05-09 |
 
+## Netflix
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Video Algorithms Intern - Video Coding - Gaussian Splatting](https://explore.jobs.netflix.net/careers/job/790315673635) | 60 | LA / Los Gatos, CA | AI/ML/Data | 2026-06-24 |
+
 ## Neuralink
 
 | Title | Score | Location | Department | First seen |
@@ -2753,6 +2760,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Corporate Access Intern](https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002) | 58 | Singapore | — | 2026-06-24 |
 | [Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7586061002) | 93 | NYC | Quant | 2026-05-09 |
 | [Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) | 85 | New York, NY | — | 2026-05-09 |
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-05-09 |
@@ -3476,6 +3484,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern - Platform efficiency](https://lifeattiktok.com/search/7530513185797359880) | 85 | San Jose, CA | Software | 2026-06-24 |
 | [Backend Software Engineer Intern - Media Platform](https://lifeattiktok.com/search/7538301580093720840) | 85 | San Jose, CA | Software | 2026-06-15 |
 | [Data Engineer Intern](https://lifeattiktok.com/search/7568546589788227893) | 85 | San Jose, CA | AI/ML/Data | 2026-06-15 |
 | [Data Engineer Intern - Ads Data - 2026 Summer](https://lifeattiktok.com/search/7584219416980818229) | 85 | San Jose, CA | AI/ML/Data | 2026-06-15 |

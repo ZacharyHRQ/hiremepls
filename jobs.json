@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-24T05:13:57.648Z",
+  "generatedAt": "2026-06-24T08:33:15.748Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1126,
+  "jobCount": 1129,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1129,7 +1129,10 @@
     "canonical:39d5eab4f9b9a84e": "2026-06-24T01:21:54.211Z",
     "canonical:0b3bb1d389c70a8e": "2026-06-24T01:21:54.211Z",
     "canonical:5cb52fbcbb978dd9": "2026-06-24T05:13:57.648Z",
-    "canonical:faeb4a16f7862bfe": "2026-06-24T05:13:57.648Z"
+    "canonical:faeb4a16f7862bfe": "2026-06-24T05:13:57.648Z",
+    "canonical:8e061b886dda2b5f": "2026-06-24T08:33:15.748Z",
+    "canonical:ce622f58fc23d7cc": "2026-06-24T08:33:15.748Z",
+    "canonical:efeb516c369ef725": "2026-06-24T08:33:15.748Z"
   },
   "jobs": [
     {
@@ -1474,6 +1477,18 @@
       "id": "canonical:7c5d60cba43023ed",
       "title": "2027 Point72 Academy Investment Analyst Summer Internship Program - Singapore",
       "url": "https://boards.greenhouse.io/point72/jobs/8491128002?gh_jid=8491128002",
+      "location": "Singapore",
+      "department": "",
+      "company": "Point72",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:8e061b886dda2b5f",
+      "title": "Corporate Access Intern",
+      "url": "https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002",
       "location": "Singapore",
       "department": "",
       "company": "Point72",
@@ -6167,6 +6182,19 @@
       ]
     },
     {
+      "id": "canonical:ce622f58fc23d7cc",
+      "title": "Software Engineer Intern - Platform efficiency",
+      "url": "https://lifeattiktok.com/search/7530513185797359880",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:6bc98e794c801a9d",
       "title": "Machine Learning Engineer Intern - Trust and Safety - CV/NLP/Multimodal LLM",
       "url": "https://lifeattiktok.com/search/7527589557336869138",
@@ -7232,6 +7260,18 @@
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:efeb516c369ef725",
+      "title": "Video Algorithms Intern - Video Coding - Gaussian Splatting",
+      "url": "https://explore.jobs.netflix.net/careers/job/790315673635",
+      "location": "LA / Los Gatos, CA",
+      "department": "AI/ML/Data",
+      "company": "Netflix",
+      "score": 60,
+      "scoreReasons": [
         "high-signal role"
       ]
     },
