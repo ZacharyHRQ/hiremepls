@@ -1,6 +1,6 @@
 # Open Internships
 
-**1125** internships across **63/64** companies — last updated 2026-06-24.
+**1126** internships across **63/64** companies — last updated 2026-06-24.
 
 ## Companies
 
@@ -328,6 +328,7 @@
 - [PlusAI](#plusai) (19)
 - [Podium](#podium) (2)
 - [Point72](#point72) (21)
+- [pony.ai](#pony-ai) (1)
 - [Poshmark](#poshmark) (1)
 - [PricewaterhouseCoopers (PwC)](#pricewaterhousecoopers-pwc) (1)
 - [Primetals Technologies](#primetals-technologies) (2)
@@ -2757,8 +2758,8 @@
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-05-09 |
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-05-09 |
 | [2026 Technology Internship – Software Engineer](https://boards.greenhouse.io/point72/jobs/8406727002?gh_jid=8406727002) | 93 | Warsaw, Poland | — | 2026-05-06 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -2773,6 +2774,12 @@
 | [2027 Point72 Academy Investment Analyst Summer Internship Program - Hong Kong](https://boards.greenhouse.io/point72/jobs/8491055002?gh_jid=8491055002) | 58 | Hong Kong | — | 2026-05-06 |
 | [2027 Point72 Academy Investment Analyst Summer Internship Program - Japan](https://boards.greenhouse.io/point72/jobs/8491138002?gh_jid=8491138002) | 58 | Japan | — | 2026-05-06 |
 | [2027 Point72 Academy Investment Analyst Summer Internship Program - Singapore](https://boards.greenhouse.io/point72/jobs/8491128002?gh_jid=8491128002) | 58 | Singapore | — | 2026-05-06 |
+
+## pony.ai
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Research Intern - Deep Learning](https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/apply) | 68 | Fremont, CA | AI/ML/Data | 2026-06-24 |
 
 ## Poshmark
 
@@ -3329,6 +3336,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Product Management Intern - Product Engineer - Applications Engineering](https://www.tesla.com/careers/search/job/274754) | 85 | Fremont, CA | Software | 2026-06-24 |
 | [Data Analytics Intern - People Analytics](https://www.tesla.com/careers/search/job/274560) | 60 | Austin, TX | AI/ML/Data | 2026-06-23 |
 | [Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems](https://www.tesla.com/careers/search/job/274047) | 85 | Palo Alto, CA | Hardware | 2026-06-17 |
 | [Systems Modeling & Optimization Intern - Robotaxi Simulation Engineer - Systems Modeling & Optimization](https://www.tesla.com/careers/search/job/273933) | 85 | Palo Alto, CA | Software | 2026-06-17 |
@@ -3392,7 +3400,6 @@
 | [Energy System Optimization Intern - Energy Optimization Software](https://www.tesla.com/careers/search/job/271349) | 60 | Palo Alto, CA / Fremont, CA / Austin, TX | AI/ML/Data | 2026-06-07 |
 | [Software Engineering Intern - Software Engineering - Service Engineering](https://www.tesla.com/careers/search/job/266119) | 60 | Palo Alto, CA | Software | 2026-06-07 |
 | [Marketing Fleet Intern - Process Analyst - Marketing Fleet Operations](https://www.tesla.com/careers/search/job/271880) | 40 | Anaheim, CA | AI/ML/Data | 2026-06-07 |
-| [Sales & Customer Support Intern - Analyst - Digital Communication](https://www.tesla.com/careers/search/job/272095) | 40 | Fremont, CA | AI/ML/Data | 2026-06-07 |
 | [Solar Hardware Engineer Intern - Solar Hardware Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/271539) | 50 | Palo Alto, CA | Hardware | 2026-06-06 |
 | [Embedded Software Engineer Intern - AI Platforms - Embedded Software Engineer](https://www.tesla.com/careers/search/job/269819) | 85 | Palo Alto, CA | Hardware | 2026-06-06 |
 | [Service Engineering Intern - Product Support Engineer - Service Engineering](https://www.tesla.com/careers/search/job/271630) | 85 | Palo Alto, CA | Software | 2026-06-06 |

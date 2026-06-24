@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-24T01:21:54.211Z",
+  "generatedAt": "2026-06-24T05:13:57.648Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1125,
+  "jobCount": 1126,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -806,7 +806,6 @@
     "canonical:7906b1bff6dfef42": "2026-06-07T01:56:06.706Z",
     "canonical:07027ad19a5352fe": "2026-06-07T01:56:06.706Z",
     "canonical:c8953f3fa03595b7": "2026-06-07T01:56:06.706Z",
-    "canonical:dd36b0326f52e8fb": "2026-06-07T01:56:06.706Z",
     "canonical:9de45eedb1335ef6": "2026-06-07T01:56:06.706Z",
     "canonical:186d139d517116a9": "2026-06-07T01:56:06.706Z",
     "canonical:0dd89319a7c4740f": "2026-06-07T01:56:06.706Z",
@@ -1128,7 +1127,9 @@
     "canonical:6bdc2fd884a96dac": "2026-06-24T01:21:54.211Z",
     "canonical:6bfceb9505eec608": "2026-06-24T01:21:54.211Z",
     "canonical:39d5eab4f9b9a84e": "2026-06-24T01:21:54.211Z",
-    "canonical:0b3bb1d389c70a8e": "2026-06-24T01:21:54.211Z"
+    "canonical:0b3bb1d389c70a8e": "2026-06-24T01:21:54.211Z",
+    "canonical:5cb52fbcbb978dd9": "2026-06-24T05:13:57.648Z",
+    "canonical:faeb4a16f7862bfe": "2026-06-24T05:13:57.648Z"
   },
   "jobs": [
     {
@@ -1482,10 +1483,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1496,10 +1497,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -10439,19 +10440,6 @@
       ]
     },
     {
-      "id": "canonical:dd36b0326f52e8fb",
-      "title": "Sales & Customer Support Intern - Analyst - Digital Communication",
-      "url": "https://www.tesla.com/careers/search/job/272095",
-      "location": "Fremont, CA",
-      "department": "AI/ML/Data",
-      "company": "Tesla",
-      "score": 40,
-      "scoreReasons": [
-        "high-signal role",
-        "lower-fit title"
-      ]
-    },
-    {
       "id": "canonical:9de45eedb1335ef6",
       "title": "Software Integration Engineer Intern - Software Integration Engineer - Service Tooling",
       "url": "https://www.tesla.com/careers/search/job/271866",
@@ -13235,6 +13223,32 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:5cb52fbcbb978dd9",
+      "title": "Product Management Intern - Product Engineer - Applications Engineering",
+      "url": "https://www.tesla.com/careers/search/job/274754",
+      "location": "Fremont, CA",
+      "department": "Software",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:faeb4a16f7862bfe",
+      "title": "Research Intern - Deep Learning",
+      "url": "https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/apply",
+      "location": "Fremont, CA",
+      "department": "AI/ML/Data",
+      "company": "pony.ai",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
