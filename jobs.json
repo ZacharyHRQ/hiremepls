@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-23T23:20:15.315Z",
+  "generatedAt": "2026-06-24T01:21:54.211Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1121,
+  "jobCount": 1125,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -804,7 +804,6 @@
     "canonical:c980dd7762d04498": "2026-06-06T20:38:33.246Z",
     "canonical:f432089fe9f41109": "2026-06-06T23:44:35.766Z",
     "canonical:7906b1bff6dfef42": "2026-06-07T01:56:06.706Z",
-    "canonical:facef9c5b6d15c14": "2026-06-07T01:56:06.706Z",
     "canonical:07027ad19a5352fe": "2026-06-07T01:56:06.706Z",
     "canonical:c8953f3fa03595b7": "2026-06-07T01:56:06.706Z",
     "canonical:dd36b0326f52e8fb": "2026-06-07T01:56:06.706Z",
@@ -834,7 +833,6 @@
     "canonical:bbb975732fa66862": "2026-06-07T09:43:12.130Z",
     "canonical:db0080d8fe4190e3": "2026-06-07T09:43:12.130Z",
     "canonical:94ca7d01a2bd8b32": "2026-06-07T09:43:12.130Z",
-    "canonical:3437d0a55d8e5cdc": "2026-06-07T09:43:12.130Z",
     "canonical:681685a64ad12ec9": "2026-06-07T09:43:12.130Z",
     "canonical:27af27128fc52c29": "2026-06-07T09:43:12.130Z",
     "canonical:96a407f94a6ab84f": "2026-06-07T09:43:12.130Z",
@@ -870,8 +868,6 @@
     "canonical:cff77a752a354cd5": "2026-06-09T16:15:38.284Z",
     "canonical:0774a5fc25363c9d": "2026-06-09T16:15:38.284Z",
     "canonical:5c6da3333f2763a6": "2026-06-09T23:41:04.347Z",
-    "canonical:8486bcf0ce9b87ee": "2026-06-09T23:41:04.347Z",
-    "canonical:c72c0f5c70a9162d": "2026-06-09T23:41:04.347Z",
     "canonical:8b522f36817f5b67": "2026-06-09T23:41:04.347Z",
     "canonical:3cfa8d538fe65c66": "2026-06-09T23:41:04.347Z",
     "canonical:0942563fedd29433": "2026-06-09T23:41:04.347Z",
@@ -1124,7 +1120,15 @@
     "canonical:31ff0ed183a28390": "2026-06-23T14:03:34.437Z",
     "canonical:d4b4e578d1146494": "2026-06-23T20:32:39.548Z",
     "canonical:86cc573fd0d0b2f6": "2026-06-23T23:20:15.315Z",
-    "canonical:b681a562b0493602": "2026-06-23T23:20:15.315Z"
+    "canonical:b681a562b0493602": "2026-06-23T23:20:15.315Z",
+    "canonical:654dd86a700f6a39": "2026-06-24T01:21:54.211Z",
+    "canonical:fa45235205b59945": "2026-06-24T01:21:54.211Z",
+    "canonical:1b6390eb1a7e2452": "2026-06-24T01:21:54.211Z",
+    "canonical:d93592bdbcb9dea9": "2026-06-24T01:21:54.211Z",
+    "canonical:6bdc2fd884a96dac": "2026-06-24T01:21:54.211Z",
+    "canonical:6bfceb9505eec608": "2026-06-24T01:21:54.211Z",
+    "canonical:39d5eab4f9b9a84e": "2026-06-24T01:21:54.211Z",
+    "canonical:0b3bb1d389c70a8e": "2026-06-24T01:21:54.211Z"
   },
   "jobs": [
     {
@@ -1478,10 +1482,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1492,10 +1496,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -2747,6 +2751,18 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:654dd86a700f6a39",
+      "title": "Hardware Reliability Intern - Winter 2026",
+      "url": "https://job-boards.greenhouse.io/figureai/jobs/4613067006",
+      "location": "San Jose, CA",
+      "department": "Hardware",
+      "company": "Figure",
+      "score": 58,
+      "scoreReasons": [
         "direct ATS"
       ]
     },
@@ -7625,19 +7641,6 @@
       ]
     },
     {
-      "id": "canonical:3437d0a55d8e5cdc",
-      "title": "AI Tooling Intern - Fullstack Engineer - AI Tooling",
-      "url": "https://www.tesla.com/careers/search/job/269810",
-      "location": "Palo Alto, CA",
-      "department": "Software",
-      "company": "Tesla",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:903d4c54fac1b9d6",
       "title": "Data Analyst – Emerging Talent Intern - Automatic Camera Enforcement - Ace",
       "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/o1u5zfwT?nl=1&nl=1&fr=false",
@@ -10410,19 +10413,6 @@
       ]
     },
     {
-      "id": "canonical:facef9c5b6d15c14",
-      "title": "Software Engineer Intern - Frontend Engineer - Applications Engineering",
-      "url": "https://www.tesla.com/careers/search/job/271091",
-      "location": "Fremont, CA / Austin, TX / Bellevue, WA",
-      "department": "Software",
-      "company": "Tesla",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:07027ad19a5352fe",
       "title": "Software Engineer Intern - Software Engineer Opticaster - Energy Engineering",
       "url": "https://www.tesla.com/careers/search/job/272937",
@@ -11263,32 +11253,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:8486bcf0ce9b87ee",
-      "title": "Developer Intern - Data Security",
-      "url": "https://jobs.ashbyhq.com/1password/47274802-4040-4039-978a-fc9b7d6868ce/application",
-      "location": "Remote in USA / Remote in Canada",
-      "department": "Software",
-      "company": "1Password",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:c72c0f5c70a9162d",
-      "title": "Firmware Engineer Intern",
-      "url": "https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Firmware-Engineer-Summer-2026-CO-80525/1398307300/?ats=successfactors",
-      "location": "Fort Collins, CO",
-      "department": "Hardware",
-      "company": "Advanced Energy",
-      "score": 75,
-      "scoreReasons": [
-        "SWE-aligned"
       ]
     },
     {
@@ -13184,6 +13148,93 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:fa45235205b59945",
+      "title": "Software Engineering Intern - Vehicle Controls",
+      "url": "https://jobs.ashbyhq.com/rivianvw.tech/89feb2fe-c28c-4dad-846f-09594632ba55",
+      "location": "Irvine, CA / Palo Alto, CA",
+      "department": "Software Engineering",
+      "company": "Rivian and Volkswagen Group Technologies",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1b6390eb1a7e2452",
+      "title": "Software Development Intern",
+      "url": "https://www.sandhills.com/careers-and-internships/details/careers/sandhills/1196/software-development-intern",
+      "location": "Scottsdale, AZ",
+      "department": "Software Engineering",
+      "company": "Sandhills Global",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:d93592bdbcb9dea9",
+      "title": "Software Engineering Intern",
+      "url": "https://app.dover.com/apply/mindsmith/e0ca8149-6811-4de9-ba38-65a0244a2b7e",
+      "location": "Lehi, UT",
+      "department": "Software Engineering",
+      "company": "Mindsmith",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:6bdc2fd884a96dac",
+      "title": "Full Stack Developer Intern",
+      "url": "https://vetsez.breezy.hr/p/a4010fdb3a7001-full-stack-developer-intern-remote-opportunity",
+      "location": "Remote in US",
+      "department": "Software Engineering",
+      "company": "VetsEZ",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:6bfceb9505eec608",
+      "title": "Intern – Software Engineering",
+      "url": "https://jobsearch.harman.com/en_US/careers/JobDetail/Intern-Software-Engineering/31931",
+      "location": "Sunnyvale, CA",
+      "department": "Software Engineering",
+      "company": "HARMAN",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:39d5eab4f9b9a84e",
+      "title": "Software Engineer Intern",
+      "url": "https://careers.dovercorporation.com/job/Keene-Software-Engineer-Intern-NH-03431/1404722033",
+      "location": "Keene, NH",
+      "department": "Software Engineering",
+      "company": "Markem-Imaje",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:0b3bb1d389c70a8e",
+      "title": "Intern, Innovation - AI Engineering",
+      "url": "https://delta.avature.net/en_US/careers/JobDetail?jobId=32774",
+      "location": "Atlanta, GA",
+      "department": "Data Science, AI & Machine Learning",
+      "company": "Delta Air Lines",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
       ]
     },
     {

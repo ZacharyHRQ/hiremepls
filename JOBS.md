@@ -1,10 +1,10 @@
 # Open Internships
 
-**1121** internships across **63/64** companies — last updated 2026-06-23.
+**1125** internships across **63/64** companies — last updated 2026-06-24.
 
 ## Companies
 
-- [1Password](#1password) (5)
+- [1Password](#1password) (4)
 - [60decibelsinc](#60decibelsinc) (1)
 - [ABB](#abb) (2)
 - [ABC News](#abc-news) (1)
@@ -12,7 +12,7 @@
 - [AccuWeather](#accuweather) (1)
 - [ACI Worldwide ](#aci-worldwide) (1)
 - [Adobe](#adobe) (1)
-- [Advanced Energy](#advanced-energy) (2)
+- [Advanced Energy](#advanced-energy) (1)
 - [Advantmed](#advantmed) (1)
 - [Aechelon Technology](#aechelon-technology) (2)
 - [AeroVironment](#aerovironment) (1)
@@ -126,6 +126,7 @@
 - [Datadog](#datadog) (1)
 - [Dedalus Labs](#dedalus-labs) (1)
 - [Definity Financial](#definity-financial) (4)
+- [Delta Air Lines](#delta-air-lines) (1)
 - [Delta Dental](#delta-dental) (1)
 - [Dewberry](#dewberry) (1)
 - [Digs](#digs) (1)
@@ -161,7 +162,7 @@
 - [Falcomm](#falcomm) (1)
 - [Fanatics](#fanatics) (3)
 - [Field AI](#field-ai) (1)
-- [Figure](#figure) (2)
+- [Figure](#figure) (3)
 - [Fiserv](#fiserv) (2)
 - [Five Rings](#five-rings) (1)
 - [Flagright](#flagright) (1)
@@ -193,6 +194,7 @@
 - [H&CO](#h-co) (1)
 - [Haize Labs](#haize-labs) (1)
 - [Harbinger Motors](#harbinger-motors) (1)
+- [HARMAN](#harman) (1)
 - [HARMAN International](#harman-international) (1)
 - [HCompany](#hcompany) (1)
 - [Helix Electric](#helix-electric) (1)
@@ -256,6 +258,7 @@
 - [Marathon Petroleum Corporation](#marathon-petroleum-corporation) (1)
 - [Mariana Minerals](#mariana-minerals) (1)
 - [Maricopa Association of Governments (MAG)](#maricopa-association-of-governments-mag) (1)
+- [Markem-Imaje](#markem-imaje) (1)
 - [Marmon Holdings](#marmon-holdings) (1)
 - [Marsh](#marsh) (1)
 - [Marvell](#marvell) (4)
@@ -273,6 +276,7 @@
 - [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (4)
 - [Microchip Technology](#microchip-technology) (1)
 - [Microsoft](#microsoft) (37)
+- [Mindsmith](#mindsmith) (1)
 - [MongoDB](#mongodb) (1)
 - [Monolithic Power Systems](#monolithic-power-systems) (2)
 - [Multiply Labs](#multiply-labs) (2)
@@ -344,7 +348,7 @@
 - [RESPEC](#respec) (1)
 - [Rippling](#rippling) (3)
 - [Rivian](#rivian) (1)
-- [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (13)
+- [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (14)
 - [Robert Bosch Venture Capital](#robert-bosch-venture-capital) (2)
 - [Robinhood](#robinhood) (1)
 - [Rocket Lab](#rocket-lab) (1)
@@ -355,7 +359,7 @@
 - [Salesforce](#salesforce) (1)
 - [Samaya](#samaya) (1)
 - [Samsung Research America](#samsung-research-america) (3)
-- [Sandhills Global](#sandhills-global) (1)
+- [Sandhills Global](#sandhills-global) (2)
 - [Sandisk](#sandisk) (1)
 - [Savannah River National Laboratory](#savannah-river-national-laboratory) (1)
 - [Scale AI](#scale-ai) (5)
@@ -400,7 +404,7 @@
 - [TENEX.AI](#tenex-ai) (1)
 - [Tenstorrent](#tenstorrent) (6)
 - [Terranox AI](#terranox-ai) (1)
-- [Tesla](#tesla) (95)
+- [Tesla](#tesla) (93)
 - [Tessera Labs](#tessera-labs) (1)
 - [TETRAMEM](#tetramem) (1)
 - [Texas Instruments](#texas-instruments) (1)
@@ -436,6 +440,7 @@
 - [Veracyte](#veracyte) (1)
 - [Verisk](#verisk) (1)
 - [Verkada](#verkada) (5)
+- [VetsEZ](#vetsez) (1)
 - [Viridien](#viridien) (1)
 - [Voloridge Investment Management](#voloridge-investment-management) (1)
 - [W.R. Berkley](#w-r-berkley) (1)
@@ -467,7 +472,6 @@
 | [Developer Intern - Client Secrets Management](https://jobs.ashbyhq.com/1password/d9909a9a-d941-404d-a7f2-5021670ffd2c/application) | 93 | Remote in USA / Remote in Canada | Software | 2026-06-13 |
 | [Developer Intern - Front-End Platform](https://jobs.ashbyhq.com/1password/c90c5d23-fd41-4c01-8422-08f4b64144f5/application) | 93 | Remote in USA / Remote in Canada | Software | 2026-06-10 |
 | [Developer Intern - Trust Platforms](https://jobs.ashbyhq.com/1password/8f8774dc-e400-48b1-8100-c6840b8eaed1/application) | 93 | Remote in USA / Remote in Canada | Software | 2026-06-10 |
-| [Developer Intern - Data Security](https://jobs.ashbyhq.com/1password/47274802-4040-4039-978a-fc9b7d6868ce/application) | 93 | Remote in USA / Remote in Canada | Software | 2026-06-09 |
 
 ## 60decibelsinc
 
@@ -516,7 +520,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Firmware Engineer Intern](https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Firmware-Engineer-Summer-2026-CO-80525/1398307300/?ats=successfactors) | 75 | Fort Collins, CO | Hardware | 2026-06-09 |
 | [Electronics Service Intern](https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Electronics-Service-CO-80525/1389595200/?ats=successfactors) | 50 | Fort Collins, CO | Hardware | 2026-06-01 |
 
 ## Advantmed
@@ -1325,6 +1328,12 @@
 | [Reporting Specialist Co-op/Intern](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9150) | 60 | Mississauga, ON, Canada / Kitchener, ON, Canada | AI/ML/Data | 2026-06-17 |
 | [Data Analyst Co-op/Intern](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9152) | 60 | Toronto, ON, Canada | AI/ML/Data | 2026-06-17 |
 
+## Delta Air Lines
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Intern, Innovation - AI Engineering](https://delta.avature.net/en_US/careers/JobDetail?jobId=32774) | 60 | Atlanta, GA | Data Science, AI & Machine Learning | 2026-06-24 |
+
 ## Delta Dental
 
 | Title | Score | Location | Department | First seen |
@@ -1563,6 +1572,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Hardware Reliability Intern - Winter 2026](https://job-boards.greenhouse.io/figureai/jobs/4613067006) | 58 | San Jose, CA | Hardware | 2026-06-24 |
 | [Firmware Intern](https://job-boards.greenhouse.io/figureai/jobs/4691070006) | 58 | San Jose, CA | Hardware | 2026-06-23 |
 | [Embedded Software Intern](https://job-boards.greenhouse.io/figureai/jobs/4397706006?jr_id=69e82790e0cd471b2f12fc60) | 68 | San Jose, CA | — | 2026-05-09 |
 
@@ -1759,6 +1769,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Production Data Analytics Intern](https://job-boards.greenhouse.io/harbingermotors/jobs/5164341007) | 68 | Westminster, CA | AI/ML/Data | 2026-06-17 |
+
+## HARMAN
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Intern – Software Engineering](https://jobsearch.harman.com/en_US/careers/JobDetail/Intern-Software-Engineering/31931) | 60 | Sunnyvale, CA | Software Engineering | 2026-06-24 |
 
 ## HARMAN International
 
@@ -2180,6 +2196,12 @@
 | --- | --- | --- | --- | --- |
 | [IT Software Development Intern](https://jobright.ai/jobs/info/685d219b13e97b6671e211e3?utm_source=1099&utm_campaign=Software%20Engineer) | 52 | Phoenix, AZ | — | 2026-05-16 |
 
+## Markem-Imaje
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://careers.dovercorporation.com/job/Keene-Software-Engineer-Intern-NH-03431/1404722033) | 85 | Keene, NH | Software Engineering | 2026-06-24 |
+
 ## Marmon Holdings
 
 | Title | Score | Location | Department | First seen |
@@ -2346,6 +2368,12 @@
 | [Research Intern - Sociotechnical Alignment Center](https://apply.careers.microsoft.com/careers/job/1970393556628319) | 60 | NYC | AI/ML/Data | 2026-05-09 |
 | [Research Intern - Technology for Religious Empowerment](https://apply.careers.microsoft.com/careers/job/1970393556631718) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Intern - Training Methods for LLM Efficiency](https://apply.careers.microsoft.com/careers/job/1970393556628881) | 60 | Mountain View, CA | AI/ML/Data | 2026-05-09 |
+
+## Mindsmith
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineering Intern](https://app.dover.com/apply/mindsmith/e0ca8149-6811-4de9-ba38-65a0244a2b7e) | 60 | Lehi, UT | Software Engineering | 2026-06-24 |
 
 ## MongoDB
 
@@ -2729,8 +2757,8 @@
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-05-09 |
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-05-09 |
 | [2026 Technology Internship – Software Engineer](https://boards.greenhouse.io/point72/jobs/8406727002?gh_jid=8406727002) | 93 | Warsaw, Poland | — | 2026-05-06 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -2879,6 +2907,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineering Intern - Vehicle Controls](https://jobs.ashbyhq.com/rivianvw.tech/89feb2fe-c28c-4dad-846f-09594632ba55) | 68 | Irvine, CA / Palo Alto, CA | Software Engineering | 2026-06-24 |
 | [Software Engineer Intern Co-op - Android Connectivity](https://jobs.ashbyhq.com/rivianvw.tech/75874976-540a-4e5c-aa72-1b23669c5211/application) | 93 | Vancouver, BC, Canada | Software | 2026-06-11 |
 | [Android Developer Intern](https://jobs.ashbyhq.com/rivianvw.tech/5633bb03-cc16-47fc-af02-db9dc355eddd/application) | 93 | Palo Alto, CA | Software | 2026-06-11 |
 | [Software Engineer Intern - Applications](https://jobs.ashbyhq.com/rivianvw.tech/3f314ca7-978e-4ad6-b527-0487a9a9598c/application) | 93 | Palo Alto, CA / Irvine, CA | Software | 2026-06-11 |
@@ -2961,6 +2990,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Development Intern](https://www.sandhills.com/careers-and-internships/details/careers/sandhills/1196/software-development-intern) | 60 | Scottsdale, AZ | Software Engineering | 2026-06-24 |
 | [Software Development Intern](https://www.sandhills.com/careers-and-internships/details/careers/sandhills/1195/software-development-intern) | 60 | Lincoln, NE | Software Engineering | 2026-05-09 |
 
 ## Sandisk
@@ -3320,7 +3350,6 @@
 | [Electronic Design Engineer Intern - Optimus](https://www.tesla.com/careers/search/job/271981) | 50 | Palo Alto, CA | Hardware | 2026-06-08 |
 | [AI Inference Engineer Intern - Software Compiler Engineer - AI Inference](https://www.tesla.com/careers/search/job/263211) | 85 | Palo Alto, CA | Software | 2026-06-07 |
 | [AI Performance Engineer Intern - AI Performance Engineer - Performance Optimization](https://www.tesla.com/careers/search/job/263759) | 85 | Palo Alto, CA | AI/ML/Data | 2026-06-07 |
-| [AI Tooling Intern - Fullstack Engineer - AI Tooling](https://www.tesla.com/careers/search/job/269810) | 85 | Palo Alto, CA | Software | 2026-06-07 |
 | [Data Engineer Intern - Multiple Teams](https://www.tesla.com/careers/search/job/269828) | 85 | Palo Alto, CA | AI/ML/Data | 2026-06-07 |
 | [Embedded Software Engineer Intern - Embedded Software Engineer - Thermal Systems](https://www.tesla.com/careers/search/job/272290) | 85 | Palo Alto, CA | Hardware | 2026-06-07 |
 | [Embedded Software Engineering Intern - Embedded Software Engineer - High Voltage Systems](https://www.tesla.com/careers/search/job/270354) | 85 | Palo Alto, CA | Hardware | 2026-06-07 |
@@ -3349,7 +3378,6 @@
 | [Mobile App Software Engineer Intern - Mobile Application Software Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/271382) | 85 | Palo Alto, CA | Software | 2026-06-07 |
 | [Mobile Applications Engineering Intern - Android Engineer - Mobile Software](https://www.tesla.com/careers/search/job/266980) | 85 | Palo Alto, CA | Software | 2026-06-07 |
 | [Operational Automation Software Engineer Intern - Operational Automation Engineer - Residential Energy](https://www.tesla.com/careers/search/job/271352) | 85 | Draper, UT | Software | 2026-06-07 |
-| [Software Engineer Intern - Frontend Engineer - Applications Engineering](https://www.tesla.com/careers/search/job/271091) | 85 | Fremont, CA / Austin, TX / Bellevue, WA | Software | 2026-06-07 |
 | [Software Engineer Intern - Fullstack Software Engineer - Fleetnet](https://www.tesla.com/careers/search/job/266764) | 85 | Palo Alto, CA | Software | 2026-06-07 |
 | [Software Engineer Intern - Multiple Teams](https://www.tesla.com/careers/search/job/271372) | 85 | Palo Alto, CA | Software | 2026-06-07 |
 | [Software Engineer Intern - Software Engineer - Data Platforms](https://www.tesla.com/careers/search/job/267004) | 85 | Palo Alto, CA | Software | 2026-06-07 |
@@ -3699,6 +3727,12 @@
 | [Backend Software Engineering Intern](https://job-boards.greenhouse.io/verkada/jobs/5099422007) | 93 | San Mateo, CA | Software | 2026-05-09 |
 | [Embedded Software Engineer Intern](https://job-boards.greenhouse.io/verkada/jobs/5099596007) | 93 | San Mateo, CA | — | 2026-05-09 |
 | [Frontend Software Engineer Intern](https://job-boards.greenhouse.io/verkada/jobs/5099529007) | 93 | San Mateo, CA | Software | 2026-05-09 |
+
+## VetsEZ
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Full Stack Developer Intern](https://vetsez.breezy.hr/p/a4010fdb3a7001-full-stack-developer-intern-remote-opportunity) | 85 | Remote in US | Software Engineering | 2026-06-24 |
 
 ## Viridien
 
