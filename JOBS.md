@@ -1,6 +1,6 @@
 # Open Internships
 
-**1134** internships across **63/64** companies — last updated 2026-06-24.
+**1135** internships across **63/64** companies — last updated 2026-06-24.
 
 ## Companies
 
@@ -207,6 +207,7 @@
 - [Hewlett Packard Enterprise](#hewlett-packard-enterprise) (1)
 - [HEXAWARE](#hexaware) (1)
 - [Hitachi](#hitachi) (2)
+- [Hiverge](#hiverge) (1)
 - [HNTB](#hntb) (1)
 - [Homebase](#homebase) (1)
 - [Howard University](#howard-university) (1)
@@ -250,6 +251,7 @@
 - [LiveRamp](#liveramp) (2)
 - [Lucid Motors](#lucid-motors) (2)
 - [Lumafield](#lumafield) (1)
+- [Lunon](#lunon) (1)
 - [Lyft](#lyft) (1)
 - [Mach9](#mach9) (1)
 - [Magna](#magna) (3)
@@ -380,7 +382,7 @@
 - [Smith+Nephew](#smith-nephew) (1)
 - [Smiths Detection](#smiths-detection) (1)
 - [Snowflake](#snowflake) (11)
-- [Snyk](#snyk) (2)
+- [Snyk](#snyk) (1)
 - [Solar Turbines](#solar-turbines) (1)
 - [SoloPulse](#solopulse) (2)
 - [Solva](#solva) (1)
@@ -1860,6 +1862,12 @@
 | [Software Analyst Intern](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst-Intern--Fall-2026--8-months-_R1013034) | 68 | Scarborough, ON, Canada | AI/ML/Data | 2026-06-16 |
 | [ALM Scripting & Reporting Intern](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/ALM-Scripting---Reporting-Intern_R1012816) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-05-23 |
 
+## Hiverge
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Research Engineer Intern](https://jobs.ashbyhq.com/hiverge/ea6edea4-5216-4cdc-b368-909ba91c78a3/application) | 93 | Cambridge, UK | AI/ML/Data | 2026-06-24 |
+
 ## HNTB
 
 | Title | Score | Location | Department | First seen |
@@ -2148,6 +2156,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Engineering Intern, Embedded Software](https://www.lumafield.com/careers/job?id=fcef5035-421a-4c2e-a79a-b687401a1efe) | 60 | Boston, MA | Software Engineering | 2026-05-09 |
+
+## Lunon
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://jobs.ashbyhq.com/Lunon/6700bbef-8be9-46c7-8257-f1a3a0c0aa45/application) | 93 | SF | Software | 2026-06-24 |
 
 ## Lyft
 
@@ -2788,8 +2802,8 @@
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-05-09 |
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-05-09 |
 | [2026 Technology Internship – Software Engineer](https://boards.greenhouse.io/point72/jobs/8406727002?gh_jid=8406727002) | 93 | Warsaw, Poland | — | 2026-05-06 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -3152,7 +3166,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://snyk.wd103.myworkdayjobs.com/External/job/United-Kingdom---London-Office/Software-Engineer-Intern_JR100496) | 93 | London, UK | Software | 2026-05-16 |
-| [Software Engineer Intern - Code Rules - Developer Security Platform](https://snyk.wd103.myworkdayjobs.com/External/job/United-Kingdom---London-Office/Software-Engineer-Intern_JR100494) | 93 | London, UK | Software | 2026-05-16 |
 
 ## Solar Turbines
 

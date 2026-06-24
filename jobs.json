@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-24T13:34:22.889Z",
+  "generatedAt": "2026-06-24T15:59:08.517Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1134,
+  "jobCount": 1135,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -392,7 +392,6 @@
     "canonical:7134f71d6610c363": "2026-05-09T15:28:15.527Z",
     "canonical:b06161b2a0f4c01f": "2026-05-09T15:28:15.527Z",
     "canonical:baa626949f45fbd4": "2026-05-09T15:28:15.527Z",
-    "canonical:1b8ee10f16991056": "2026-05-16T07:09:10.733Z",
     "canonical:5cb9ff5d80f675ba": "2026-05-09T15:28:15.527Z",
     "canonical:b5545588e338ddbb": "2026-05-09T15:28:15.527Z",
     "canonical:ae2198c9ecbb102e": "2026-05-11T00:06:33.325Z",
@@ -1137,7 +1136,9 @@
     "canonical:f4f9e8ec69b4f65f": "2026-06-24T13:34:22.889Z",
     "canonical:4341a970cbbffa2c": "2026-06-24T13:34:22.889Z",
     "canonical:e8038afc6e3ca5c9": "2026-06-24T13:34:22.889Z",
-    "canonical:fddefb4f60221433": "2026-06-24T13:34:22.889Z"
+    "canonical:fddefb4f60221433": "2026-06-24T13:34:22.889Z",
+    "canonical:55b7d658b8486ecc": "2026-06-24T15:59:08.517Z",
+    "canonical:171412c02ee260e4": "2026-06-24T15:59:08.517Z"
   },
   "jobs": [
     {
@@ -1503,10 +1504,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1517,10 +1518,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -7799,20 +7800,6 @@
       ]
     },
     {
-      "id": "canonical:1b8ee10f16991056",
-      "title": "Software Engineer Intern - Code Rules - Developer Security Platform",
-      "url": "https://snyk.wd103.myworkdayjobs.com/External/job/United-Kingdom---London-Office/Software-Engineer-Intern_JR100494",
-      "location": "London, UK",
-      "department": "Software",
-      "company": "Snyk",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:5cb9ff5d80f675ba",
       "title": "ML/NLP Research Intern",
       "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8541339002",
@@ -13357,6 +13344,34 @@
       "company": "Coherent ",
       "score": 50,
       "scoreReasons": []
+    },
+    {
+      "id": "canonical:55b7d658b8486ecc",
+      "title": "Research Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/hiverge/ea6edea4-5216-4cdc-b368-909ba91c78a3/application",
+      "location": "Cambridge, UK",
+      "department": "AI/ML/Data",
+      "company": "Hiverge",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:171412c02ee260e4",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/Lunon/6700bbef-8be9-46c7-8257-f1a3a0c0aa45/application",
+      "location": "SF",
+      "department": "Software",
+      "company": "Lunon",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
     },
     {
       "id": "canonical:12cd06c0eec80152",
