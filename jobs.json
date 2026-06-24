@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-24T11:27:27.491Z",
+  "generatedAt": "2026-06-24T13:34:22.889Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1130,
+  "jobCount": 1134,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1133,7 +1133,11 @@
     "canonical:8e061b886dda2b5f": "2026-06-24T08:33:15.748Z",
     "canonical:ce622f58fc23d7cc": "2026-06-24T08:33:15.748Z",
     "canonical:efeb516c369ef725": "2026-06-24T08:33:15.748Z",
-    "canonical:4c52bc9beda41fba": "2026-06-24T11:27:27.491Z"
+    "canonical:4c52bc9beda41fba": "2026-06-24T11:27:27.491Z",
+    "canonical:f4f9e8ec69b4f65f": "2026-06-24T13:34:22.889Z",
+    "canonical:4341a970cbbffa2c": "2026-06-24T13:34:22.889Z",
+    "canonical:e8038afc6e3ca5c9": "2026-06-24T13:34:22.889Z",
+    "canonical:fddefb4f60221433": "2026-06-24T13:34:22.889Z"
   },
   "jobs": [
     {
@@ -1394,7 +1398,7 @@
     {
       "id": "canonical:90de0872641ecba5",
       "title": "Intern",
-      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988899",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988896",
       "location": "Gift City",
       "department": "",
       "company": "Tower Research Capital",
@@ -6523,6 +6527,20 @@
       ]
     },
     {
+      "id": "canonical:f4f9e8ec69b4f65f",
+      "title": "Software Engineering Intern - Frontend",
+      "url": "https://jobs.ashbyhq.com/tessera-labs/4614d053-2c8f-4317-8cd2-1d1290721b06/application",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "Tessera Labs",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:11ccf5058382c3d9",
       "title": "AI Agent Builder Intern",
       "url": "https://jobs.lever.co/go-cloudforce/cf2f1855-3ad7-4d4a-a100-2e627f703af4",
@@ -7384,6 +7402,18 @@
       "company": "Nokia",
       "score": 50,
       "scoreReasons": []
+    },
+    {
+      "id": "canonical:4341a970cbbffa2c",
+      "title": "Technology Product Analyst Intern",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR108764",
+      "location": "Dallas, TX",
+      "department": "Product",
+      "company": "Copart",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
     },
     {
       "id": "canonical:4ad551198f20a1aa",
@@ -9295,6 +9325,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:e8038afc6e3ca5c9",
+      "title": "Graduate Intern - Multiple Teams",
+      "url": "https://pnc.wd5.myworkdayjobs.com/External/job/NY---New-York-10173/Graduate-Intern--Economic-Scenario-Design--Chief-Investment-Office--CIO---Non-Campus-_R212891-1",
+      "location": "NYC",
+      "department": "Quant",
+      "company": "PNC Financial Services",
+      "score": 74,
+      "scoreReasons": [
+        "high-signal role",
+        "new grad",
         "direct ATS"
       ]
     },
@@ -13303,6 +13347,16 @@
         "high-signal role",
         "direct ATS"
       ]
+    },
+    {
+      "id": "canonical:fddefb4f60221433",
+      "title": "Equipment Engineering associate Intern - Photolithography / Metrology",
+      "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011367",
+      "location": "Celina, TX",
+      "department": "Hardware",
+      "company": "Coherent ",
+      "score": 50,
+      "scoreReasons": []
     },
     {
       "id": "canonical:12cd06c0eec80152",
