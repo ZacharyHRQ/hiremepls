@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-24T08:33:15.748Z",
+  "generatedAt": "2026-06-24T11:27:27.491Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1129,
+  "jobCount": 1130,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1132,7 +1132,8 @@
     "canonical:faeb4a16f7862bfe": "2026-06-24T05:13:57.648Z",
     "canonical:8e061b886dda2b5f": "2026-06-24T08:33:15.748Z",
     "canonical:ce622f58fc23d7cc": "2026-06-24T08:33:15.748Z",
-    "canonical:efeb516c369ef725": "2026-06-24T08:33:15.748Z"
+    "canonical:efeb516c369ef725": "2026-06-24T08:33:15.748Z",
+    "canonical:4c52bc9beda41fba": "2026-06-24T11:27:27.491Z"
   },
   "jobs": [
     {
@@ -1900,10 +1901,10 @@
       ]
     },
     {
-      "id": "canonical:dadf9e1bf0414e54",
+      "id": "canonical:336453ca48d040d7",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "location": "Toronto, Ontario, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
+      "location": "San Francisco, New York City, Seattle, Chicago",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -1913,10 +1914,10 @@
       ]
     },
     {
-      "id": "canonical:336453ca48d040d7",
+      "id": "canonical:dadf9e1bf0414e54",
       "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7874965",
-      "location": "San Francisco, New York City, Seattle, Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+      "location": "Toronto, Ontario, Canada",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -7184,6 +7185,18 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:4c52bc9beda41fba",
+      "title": "AI Operations & Automation Intern",
+      "url": "https://careers.hellofresh.com/global/en/job/7848068?gh_jid=7848068",
+      "location": "NYC",
+      "department": "Software",
+      "company": "Hello Fresh",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
       ]
     },
     {
