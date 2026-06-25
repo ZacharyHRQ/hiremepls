@@ -1,6 +1,6 @@
 # Open Internships
 
-**1129** internships across **63/64** companies — last updated 2026-06-25.
+**1128** internships across **63/64** companies — last updated 2026-06-25.
 
 ## Companies
 
@@ -331,7 +331,7 @@
 - [PlusAI](#plusai) (19)
 - [PNC Financial Services](#pnc-financial-services) (1)
 - [Podium](#podium) (2)
-- [Point72](#point72) (22)
+- [Point72](#point72) (21)
 - [pony.ai](#pony-ai) (1)
 - [Poshmark](#poshmark) (1)
 - [PricewaterhouseCoopers (PwC)](#pricewaterhousecoopers-pwc) (1)
@@ -2787,15 +2787,14 @@
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-05-09 |
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-05-09 |
 | [2026 Technology Internship – Software Engineer](https://boards.greenhouse.io/point72/jobs/8406727002?gh_jid=8406727002) | 93 | Warsaw, Poland | — | 2026-05-06 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
 | [Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7586061002?gh_jid=7586061002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Software Developer Intern](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) | 93 | New York, London, or Paris | — | 2026-05-06 |
 | [Summer 2027 Quantitative Developer Internship](https://boards.greenhouse.io/point72/jobs/7297613002?gh_jid=7297613002) | 93 | New York | — | 2026-05-06 |
-| [2026 Warsaw Market Intelligence – Platform DevOps Internship](https://boards.greenhouse.io/point72/jobs/8425028002?gh_jid=8425028002) | 68 | Warsaw, Poland | — | 2026-05-06 |
 | [Quantitative Research Intern](https://boards.greenhouse.io/point72/jobs/7297667002?gh_jid=7297667002) | 68 | New York, Seattle | — | 2026-05-06 |
 | [Quantitative Research Intern (NLP)](https://boards.greenhouse.io/point72/jobs/8018862002?gh_jid=8018862002) | 68 | New York | — | 2026-05-06 |
 | [Summer 2027 Quantitative Research Internship](https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002) | 68 | New York | — | 2026-05-06 |

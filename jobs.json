@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-25T09:49:28.103Z",
+  "generatedAt": "2026-06-25T12:11:32.662Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1129,
+  "jobCount": 1128,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -23,7 +23,6 @@
     "canonical:cbd8c4bf9ecd24b5": "2026-05-15T12:06:03.304Z",
     "canonical:606b9a04a54eff14": "2026-05-06T06:42:07.596Z",
     "canonical:8a674b63204923ad": "2026-05-06T06:42:07.596Z",
-    "canonical:0ea2e7a5e9cc7239": "2026-05-06T06:42:07.596Z",
     "canonical:59a38029def9ad8d": "2026-05-06T06:42:07.596Z",
     "canonical:9cab14faa8c2e92b": "2026-05-06T06:42:07.596Z",
     "canonical:5a606408dd9b94b1": "2026-05-06T06:42:07.596Z",
@@ -1412,19 +1411,6 @@
       ]
     },
     {
-      "id": "canonical:0ea2e7a5e9cc7239",
-      "title": "2026 Warsaw Market Intelligence – Platform DevOps Internship",
-      "url": "https://boards.greenhouse.io/point72/jobs/8425028002?gh_jid=8425028002",
-      "location": "Warsaw, Poland",
-      "department": "",
-      "company": "Point72",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:59a38029def9ad8d",
       "title": "2026 Warsaw MI Data – Web Scraping Internship ",
       "url": "https://boards.greenhouse.io/point72/jobs/8423978002?gh_jid=8423978002",
@@ -1485,10 +1471,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1499,10 +1485,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
