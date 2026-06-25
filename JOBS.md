@@ -1,6 +1,6 @@
 # Open Internships
 
-**1128** internships across **63/64** companies — last updated 2026-06-25.
+**1131** internships across **63/64** companies — last updated 2026-06-25.
 
 ## Companies
 
@@ -43,6 +43,7 @@
 - [ASML](#asml) (2)
 - [ASSA ABLOY](#assa-abloy) (1)
 - [Astera](#astera) (1)
+- [Astera Labs](#astera-labs) (3)
 - [Astranis](#astranis) (8)
 - [Astronomer](#astronomer) (1)
 - [Atomic Semi](#atomic-semi) (8)
@@ -742,6 +743,14 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern - Distributed Simulation Systems](https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066/application) | 93 | Oakland, CA | Software | 2026-05-14 |
+
+## Astera Labs
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Platform Applications Engineer Intern Co-op](https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4562833005) | 93 | Vancouver, BC, Canada | Software | 2026-06-25 |
+| [Firmware Engineer Intern](https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4609356005) | 83 | Vancouver, BC, Canada | Hardware | 2026-06-25 |
+| [Design Verification Engineer Intern](https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4611422005) | 58 | Toronto, ON, Canada | Hardware | 2026-06-25 |
 
 ## Astranis
 
@@ -3617,7 +3626,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Intern](https://www.tower-research.com/open-positions/?gh_jid=7988899) | 50 | Gift City | — | 2026-06-12 |
+| [Intern](https://www.tower-research.com/open-positions/?gh_jid=7988896) | 50 | Gift City | — | 2026-06-12 |
 | [Quantitative Trader Intern - PhD 2026](https://www.tower-research.com/open-positions/?gh_jid=7062370) | 60 | NYC | Quant | 2026-05-09 |
 | [Risk Intern - 6 Month Internship Opportunity](https://www.tower-research.com/open-positions/?gh_jid=7789933) | 50 | Singapore | — | 2026-05-06 |
 

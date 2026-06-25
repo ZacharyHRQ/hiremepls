@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-25T12:11:32.662Z",
+  "generatedAt": "2026-06-25T15:10:46.027Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1128,
+  "jobCount": 1131,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1131,7 +1131,10 @@
     "canonical:daa03a0a17d4d0d9": "2026-06-25T06:19:24.764Z",
     "canonical:06c2f61c260015cb": "2026-06-25T06:19:24.764Z",
     "canonical:00451d7a723c1b5b": "2026-06-25T06:19:24.764Z",
-    "canonical:3dba83ef4f59f251": "2026-06-25T09:49:28.103Z"
+    "canonical:3dba83ef4f59f251": "2026-06-25T09:49:28.103Z",
+    "canonical:ef5940300d27214d": "2026-06-25T15:10:46.027Z",
+    "canonical:10a5b74a72d648b4": "2026-06-25T15:10:46.027Z",
+    "canonical:99c46587db530588": "2026-06-25T15:10:46.027Z"
   },
   "jobs": [
     {
@@ -1379,7 +1382,7 @@
     {
       "id": "canonical:90de0872641ecba5",
       "title": "Intern",
-      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988899",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988896",
       "location": "Gift City",
       "department": "",
       "company": "Tower Research Capital",
@@ -13278,6 +13281,45 @@
       "company": "BCBST",
       "score": 68,
       "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ef5940300d27214d",
+      "title": "Design Verification Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4611422005",
+      "location": "Toronto, ON, Canada",
+      "department": "Hardware",
+      "company": "Astera Labs",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:10a5b74a72d648b4",
+      "title": "Firmware Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4609356005",
+      "location": "Vancouver, BC, Canada",
+      "department": "Hardware",
+      "company": "Astera Labs",
+      "score": 83,
+      "scoreReasons": [
+        "SWE-aligned",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:99c46587db530588",
+      "title": "Platform Applications Engineer Intern Co-op",
+      "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4562833005",
+      "location": "Vancouver, BC, Canada",
+      "department": "Software",
+      "company": "Astera Labs",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
