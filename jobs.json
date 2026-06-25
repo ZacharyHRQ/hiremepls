@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-25T02:13:01.745Z",
+  "generatedAt": "2026-06-25T06:19:24.764Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1126,
+  "jobCount": 1129,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1129,7 +1129,10 @@
     "canonical:4341a970cbbffa2c": "2026-06-24T13:34:22.889Z",
     "canonical:e8038afc6e3ca5c9": "2026-06-24T13:34:22.889Z",
     "canonical:55b7d658b8486ecc": "2026-06-24T15:59:08.517Z",
-    "canonical:171412c02ee260e4": "2026-06-24T15:59:08.517Z"
+    "canonical:171412c02ee260e4": "2026-06-24T15:59:08.517Z",
+    "canonical:daa03a0a17d4d0d9": "2026-06-25T06:19:24.764Z",
+    "canonical:06c2f61c260015cb": "2026-06-25T06:19:24.764Z",
+    "canonical:00451d7a723c1b5b": "2026-06-25T06:19:24.764Z"
   },
   "jobs": [
     {
@@ -1226,10 +1229,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1241,10 +1244,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1482,10 +1485,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1496,10 +1499,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -13249,6 +13252,46 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:daa03a0a17d4d0d9",
+      "title": "AI Security Engineer Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Security-Engineering-Intern_JR0285140",
+      "location": "Santa Clara, CA / Hillsboro, OR",
+      "department": "AI/ML/Data",
+      "company": "Intel",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:06c2f61c260015cb",
+      "title": "Inference Optimization Intern - Performance Modeling",
+      "url": "https://jobs.lever.co/ifm-us/1a09231e-44f2-4c82-a7a1-793bd159d68d/apply",
+      "location": "Sunnyvale, CA",
+      "department": "AI/ML/Data",
+      "company": "Institute of Foundation Models",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:00451d7a723c1b5b",
+      "title": "Business Intelligence & Data Analytics Intern - Undergraduate",
+      "url": "https://job-boards.greenhouse.io/jobsatphamily/jobs/5281446008",
+      "location": "NYC",
+      "department": "AI/ML/Data",
+      "company": "Phamily",
+      "score": 68,
+      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
