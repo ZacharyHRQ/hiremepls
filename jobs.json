@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-25T15:10:46.027Z",
+  "generatedAt": "2026-06-25T17:22:05.135Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1131,
+  "jobCount": 1130,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -11,7 +11,6 @@
     "canonical:822f979beef7ebc5": "2026-05-06T06:42:07.596Z",
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
-    "canonical:d3e044a7cf0a5bf2": "2026-05-06T06:42:07.596Z",
     "canonical:deba20522af655b8": "2026-05-06T06:42:07.596Z",
     "canonical:f310a07d27c1f3e6": "2026-05-06T06:42:07.596Z",
     "canonical:e92aac66bea6b9e8": "2026-05-06T06:42:07.596Z",
@@ -1261,19 +1260,6 @@
       ]
     },
     {
-      "id": "canonical:d3e044a7cf0a5bf2",
-      "title": "Graduate Trader (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564495101",
-      "location": "Amsterdam, Netherlands",
-      "department": "",
-      "company": "IMC Trading",
-      "score": 64,
-      "scoreReasons": [
-        "new grad",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:deba20522af655b8",
       "title": "Hardware Machine Learning PhD Research Internship",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4829785101",
@@ -1382,7 +1368,7 @@
     {
       "id": "canonical:90de0872641ecba5",
       "title": "Intern",
-      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988896",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988899",
       "location": "Gift City",
       "department": "",
       "company": "Tower Research Capital",
@@ -1474,10 +1460,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1488,10 +1474,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
