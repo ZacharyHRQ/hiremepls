@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T06:19:24.764Z",
+  "generatedAt": "2026-06-25T09:49:28.103Z",
   "companyCount": 64,
   "okCount": 63,
   "jobCount": 1129,
@@ -52,7 +52,6 @@
     "canonical:25a35a8868c43e61": "2026-05-06T06:42:07.596Z",
     "canonical:d277a6a426412a6c": "2026-05-06T06:42:07.596Z",
     "canonical:047b58e6b7c917a3": "2026-05-15T20:39:51.368Z",
-    "canonical:d5b7c15c0c798890": "2026-05-06T06:42:07.596Z",
     "canonical:ad23aadfeb5e4fdd": "2026-05-06T06:42:07.596Z",
     "canonical:8cd1b8b92140d848": "2026-05-13T01:22:17.700Z",
     "canonical:e2e40c0322dad93b": "2026-05-06T06:42:07.596Z",
@@ -1132,7 +1131,8 @@
     "canonical:171412c02ee260e4": "2026-06-24T15:59:08.517Z",
     "canonical:daa03a0a17d4d0d9": "2026-06-25T06:19:24.764Z",
     "canonical:06c2f61c260015cb": "2026-06-25T06:19:24.764Z",
-    "canonical:00451d7a723c1b5b": "2026-06-25T06:19:24.764Z"
+    "canonical:00451d7a723c1b5b": "2026-06-25T06:19:24.764Z",
+    "canonical:3dba83ef4f59f251": "2026-06-25T09:49:28.103Z"
   },
   "jobs": [
     {
@@ -1229,10 +1229,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1244,10 +1244,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1380,7 +1380,7 @@
     {
       "id": "canonical:90de0872641ecba5",
       "title": "Intern",
-      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988896",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988899",
       "location": "Gift City",
       "department": "",
       "company": "Tower Research Capital",
@@ -1485,10 +1485,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1499,10 +1499,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -2086,19 +2086,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:d5b7c15c0c798890",
-      "title": "Business Analyst Intern, Marketing (July to December 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7729700?gh_jid=7729700",
-      "location": "In-Office",
-      "department": "",
-      "company": "Cloudflare",
-      "score": 38,
-      "scoreReasons": [
-        "direct ATS",
-        "lower-fit title"
       ]
     },
     {
@@ -13290,6 +13277,19 @@
       "location": "NYC",
       "department": "AI/ML/Data",
       "company": "Phamily",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:3dba83ef4f59f251",
+      "title": "Provider Data Reporting Intern",
+      "url": "https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Intern---Provider-Data-Reporting_R-49815",
+      "location": "Chattanooga, TN",
+      "department": "AI/ML/Data",
+      "company": "BCBST",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
