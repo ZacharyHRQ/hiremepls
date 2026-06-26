@@ -1,6 +1,6 @@
 # Open Internships
 
-**1132** internships across **63/64** companies — last updated 2026-06-26.
+**1133** internships across **63/64** companies — last updated 2026-06-26.
 
 ## Companies
 
@@ -380,7 +380,7 @@
 - [Skydio](#skydio) (5)
 - [Smith+Nephew](#smith-nephew) (1)
 - [Smiths Detection](#smiths-detection) (1)
-- [Snowflake](#snowflake) (11)
+- [Snowflake](#snowflake) (12)
 - [Snyk](#snyk) (1)
 - [Solar Turbines](#solar-turbines) (1)
 - [SoloPulse](#solopulse) (2)
@@ -3142,6 +3142,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Marketing Operations Intern (Fall 2026)](https://jobs.ashbyhq.com/snowflake/8866f98e-ec0c-4d04-9b38-7c9299e858e8) | 35 | — | — | 2026-06-26 |
 | [AI Research Scientist, New Grad – Agents & Reinforcement Learning](https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698) | 86 | — | — | 2026-06-16 |
 | [Government Affairs Intern](https://jobs.ashbyhq.com/snowflake/cade83ae-9727-4497-8e73-8a310a8b6a85) | 55 | — | — | 2026-06-16 |
 | [Product Marketing Intern (Fall 2026)](https://jobs.ashbyhq.com/snowflake/3ac79875-b7bb-4078-b9c4-3bd5636e5d9c) | 35 | — | — | 2026-06-16 |

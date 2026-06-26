@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-26T19:02:49.713Z",
+  "generatedAt": "2026-06-26T20:53:14.486Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1132,
+  "jobCount": 1133,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1135,7 +1135,8 @@
     "canonical:10a5b74a72d648b4": "2026-06-25T15:10:46.027Z",
     "canonical:99c46587db530588": "2026-06-25T15:10:46.027Z",
     "canonical:329c5df3b6fcd7b0": "2026-06-26T17:12:38.564Z",
-    "canonical:1f4885c46cec6b73": "2026-06-26T19:02:49.713Z"
+    "canonical:1f4885c46cec6b73": "2026-06-26T19:02:49.713Z",
+    "canonical:97f386a84a1889d1": "2026-06-26T20:53:14.486Z"
   },
   "jobs": [
     {
@@ -1996,6 +1997,20 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS",
+        "unknown location"
+      ]
+    },
+    {
+      "id": "canonical:97f386a84a1889d1",
+      "title": "Marketing Operations Intern (Fall 2026)",
+      "url": "https://jobs.ashbyhq.com/snowflake/8866f98e-ec0c-4d04-9b38-7c9299e858e8",
+      "location": "",
+      "department": "",
+      "company": "Snowflake",
+      "score": 35,
+      "scoreReasons": [
+        "direct ATS",
+        "lower-fit title",
         "unknown location"
       ]
     },
