@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-26T15:15:17.375Z",
+  "generatedAt": "2026-06-26T17:12:38.564Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1130,
+  "jobCount": 1131,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1133,7 +1133,8 @@
     "canonical:3dba83ef4f59f251": "2026-06-25T09:49:28.103Z",
     "canonical:ef5940300d27214d": "2026-06-25T15:10:46.027Z",
     "canonical:10a5b74a72d648b4": "2026-06-25T15:10:46.027Z",
-    "canonical:99c46587db530588": "2026-06-25T15:10:46.027Z"
+    "canonical:99c46587db530588": "2026-06-25T15:10:46.027Z",
+    "canonical:329c5df3b6fcd7b0": "2026-06-26T17:12:38.564Z"
   },
   "jobs": [
     {
@@ -13308,6 +13309,19 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:329c5df3b6fcd7b0",
+      "title": "Software Engineer Intern",
+      "url": "https://external-telecom-teldta.icims.com/jobs/29561/job?mobile=true&needsRedirect=false",
+      "location": "Remote in USA",
+      "department": "Software",
+      "company": "TDS",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {

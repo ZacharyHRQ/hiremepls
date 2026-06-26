@@ -1,6 +1,6 @@
 # Open Internships
 
-**1130** internships across **63/64** companies — last updated 2026-06-26.
+**1131** internships across **63/64** companies — last updated 2026-06-26.
 
 ## Companies
 
@@ -403,7 +403,7 @@
 - [Synchrony Financial](#synchrony-financial) (2)
 - [Syntax](#syntax) (1)
 - [Taara](#taara) (1)
-- [TDS](#tds) (1)
+- [TDS](#tds) (2)
 - [Teall Sports & Entertainment](#teall-sports-entertainment) (1)
 - [Technergetics](#technergetics) (1)
 - [Tencent](#tencent) (11)
@@ -3312,6 +3312,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://external-telecom-teldta.icims.com/jobs/29561/job?mobile=true&needsRedirect=false) | 85 | Remote in USA | Software | 2026-06-26 |
 | [GIS Intern](https://external-telecom-teldta.icims.com/jobs/29516/job?mobile=true&needsRedirect=false) | 60 | Remote in USA | AI/ML/Data | 2026-06-19 |
 
 ## Teall Sports & Entertainment
