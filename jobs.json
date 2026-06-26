@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-26T17:12:38.564Z",
+  "generatedAt": "2026-06-26T19:02:49.713Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1131,
+  "jobCount": 1132,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1134,7 +1134,8 @@
     "canonical:ef5940300d27214d": "2026-06-25T15:10:46.027Z",
     "canonical:10a5b74a72d648b4": "2026-06-25T15:10:46.027Z",
     "canonical:99c46587db530588": "2026-06-25T15:10:46.027Z",
-    "canonical:329c5df3b6fcd7b0": "2026-06-26T17:12:38.564Z"
+    "canonical:329c5df3b6fcd7b0": "2026-06-26T17:12:38.564Z",
+    "canonical:1f4885c46cec6b73": "2026-06-26T19:02:49.713Z"
   },
   "jobs": [
     {
@@ -2092,6 +2093,18 @@
       "id": "canonical:8cd1b8b92140d848",
       "title": "Network Engineering Intern (Summer 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7917883?gh_jid=7917883",
+      "location": "In-Office",
+      "department": "",
+      "company": "Cloudflare",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1f4885c46cec6b73",
+      "title": "Network Strategy Intern (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
