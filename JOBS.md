@@ -1,12 +1,12 @@
 # Open Internships
 
-**1132** internships across **63/64** companies — last updated 2026-06-27.
+**1131** internships across **63/64** companies — last updated 2026-06-27.
 
 ## Companies
 
 - [1Password](#1password) (4)
 - [60decibelsinc](#60decibelsinc) (1)
-- [ABB](#abb) (2)
+- [ABB](#abb) (1)
 - [ABC News](#abc-news) (1)
 - [Abundant](#abundant) (1)
 - [AccuWeather](#accuweather) (1)
@@ -489,7 +489,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [AI Data Scientist Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI---Data-Scientist-AI-Intern---Fall-2026_JR00036225) | 93 | Morrisville, NC | AI/ML/Data | 2026-06-17 |
-| [Software Engineering Intern- Summer 2026](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Bartlesville-Oklahoma-United-States-of-America/Software-Engineering-Intern--Summer-2026_JR00014418) | 68 | Bartlesville, OK | Software Engineering | 2026-05-09 |
 
 ## ABC News
 
