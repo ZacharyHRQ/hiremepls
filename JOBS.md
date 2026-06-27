@@ -1,6 +1,6 @@
 # Open Internships
 
-**1129** internships across **63/64** companies — last updated 2026-06-27.
+**1128** internships across **63/64** companies — last updated 2026-06-27.
 
 ## Companies
 
@@ -233,7 +233,7 @@
 - [Interstates](#interstates) (1)
 - [iSpot.tv](#ispot-tv) (1)
 - [JINGDONG](#jingdong) (2)
-- [JP Morgan Chase](#jp-morgan-chase) (3)
+- [JP Morgan Chase](#jp-morgan-chase) (2)
 - [Jump Trading](#jump-trading) (2)
 - [K1](#k1) (1)
 - [KBR](#kbr) (1)
@@ -2037,7 +2037,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Commodities Trading Intern](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210752778) | 60 | Houston, TX | Quant | 2026-06-01 |
-| [2026 – Internship - Markets - Systematic Trading - New York](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210680133) | 60 | NYC | Quant | 2026-05-09 |
 | [2026 Machine Learning Center of Excellence – Summer Associate - NLP](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210664814) | 60 | London, UK | AI/ML/Data | 2026-05-09 |
 
 ## Jump Trading

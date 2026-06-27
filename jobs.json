@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-27T20:50:00.666Z",
+  "generatedAt": "2026-06-27T21:53:49.299Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1129,
+  "jobCount": 1128,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -67,7 +67,6 @@
     "canonical:dba5394d0f2cb4b3": "2026-05-09T15:28:15.527Z",
     "canonical:5d229b5f5a269416": "2026-05-09T15:28:15.527Z",
     "canonical:f45dd43f28f73753": "2026-05-09T15:28:15.527Z",
-    "canonical:c1cca79abc785a77": "2026-05-09T15:28:15.527Z",
     "canonical:bea2ef245d19ee31": "2026-05-09T15:28:15.527Z",
     "canonical:de6d18632414755c": "2026-05-09T15:28:15.527Z",
     "canonical:27106f34e940af1e": "2026-05-09T15:28:15.527Z",
@@ -2359,18 +2358,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:c1cca79abc785a77",
-      "title": "2026 – Internship - Markets - Systematic Trading - New York",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210680133",
-      "location": "NYC",
-      "department": "Quant",
-      "company": "JP Morgan Chase",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {
