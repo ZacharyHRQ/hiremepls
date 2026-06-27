@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-27T22:53:57.726Z",
+  "generatedAt": "2026-06-27T23:53:52.333Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1128,
+  "jobCount": 1123,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -62,11 +62,6 @@
     "canonical:8fc863f495e5ebf7": "2026-05-09T15:28:15.527Z",
     "canonical:40b5e3e02c34b6ce": "2026-05-09T15:28:15.527Z",
     "canonical:54eb0918a1a56e5d": "2026-05-09T15:28:15.527Z",
-    "canonical:8132ab2e5a72158d": "2026-05-09T15:28:15.527Z",
-    "canonical:75fa46ada923f8d2": "2026-05-09T15:28:15.527Z",
-    "canonical:dba5394d0f2cb4b3": "2026-05-09T15:28:15.527Z",
-    "canonical:5d229b5f5a269416": "2026-05-09T15:28:15.527Z",
-    "canonical:f45dd43f28f73753": "2026-05-09T15:28:15.527Z",
     "canonical:bea2ef245d19ee31": "2026-05-09T15:28:15.527Z",
     "canonical:de6d18632414755c": "2026-05-09T15:28:15.527Z",
     "canonical:27106f34e940af1e": "2026-05-09T15:28:15.527Z",
@@ -391,7 +386,6 @@
     "canonical:660c78e7de1f78c8": "2026-05-11T23:38:25.770Z",
     "canonical:d740b7c5e5a74f25": "2026-05-11T23:38:25.770Z",
     "canonical:ce5569247a10aa36": "2026-05-13T22:37:04.081Z",
-    "canonical:29b708845326ee9a": "2026-05-13T23:40:40.818Z",
     "canonical:266566b1da26f312": "2026-05-09T15:28:15.527Z",
     "canonical:9439282ae35186c1": "2026-05-14T01:31:29.727Z",
     "canonical:18b1fc33685ecfa0": "2026-05-14T01:31:29.727Z",
@@ -1131,7 +1125,8 @@
     "canonical:99c46587db530588": "2026-06-25T15:10:46.027Z",
     "canonical:329c5df3b6fcd7b0": "2026-06-26T17:12:38.564Z",
     "canonical:1f4885c46cec6b73": "2026-06-26T19:02:49.713Z",
-    "canonical:97f386a84a1889d1": "2026-06-26T20:53:14.486Z"
+    "canonical:97f386a84a1889d1": "2026-06-26T20:53:14.486Z",
+    "canonical:c913ff9d74716a9b": "2026-06-27T23:53:52.333Z"
   },
   "jobs": [
     {
@@ -2293,72 +2288,6 @@
       "company": "Cribl",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:8132ab2e5a72158d",
-      "title": "Embedded Software Intern",
-      "url": "https://jobs.lever.co/anysignal/b5f278c9-9911-49c2-b5e8-0ed61f7194eb",
-      "location": "Los Angeles, CA",
-      "department": "Hardware Engineering",
-      "company": "AnySignal",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:75fa46ada923f8d2",
-      "title": "Software Engineering Intern - Automation",
-      "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/BloomEnergyCareers/job/San-Jose-California/Software-Engineering-Intern---Automation_JR-20625",
-      "location": "San Jose, CA",
-      "department": "Software Engineering",
-      "company": "Bloom Energy",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:dba5394d0f2cb4b3",
-      "title": "HPE Labs - AI Research Lab Research Associate (Intern)",
-      "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/HPE-Labs---AI-Research-Lab-Research-Associate--Intern-_1192299",
-      "location": "Milpitas, CA / Fort Collins, CO",
-      "department": "Data Science, AI & Machine Learning",
-      "company": "Hewlett Packard Enterprise",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:5d229b5f5a269416",
-      "title": "AI Intern",
-      "url": "https://prologis.wd5.myworkdayjobs.com/en-US/Prologis_External_Careers/job/San-Francisco-California/Intern--IT_R6209",
-      "location": "San Francisco, CA",
-      "department": "Data Science, AI & Machine Learning",
-      "company": "Prologis",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:f45dd43f28f73753",
-      "title": "Junior Software Engineer – Internship",
-      "url": "https://job-boards.greenhouse.io/aechelontechnology/jobs/4831334008",
-      "location": "Overland Park, KS",
-      "department": "Software",
-      "company": "Aechelon Technology",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
     },
     {
       "id": "canonical:bea2ef245d19ee31",
@@ -7861,20 +7790,6 @@
       ]
     },
     {
-      "id": "canonical:29b708845326ee9a",
-      "title": "ML Software Engineer Intern - AI/CAD Integration",
-      "url": "https://apply.workable.com/falcomm/j/B5EB495F31/apply",
-      "location": "Atlanta, GA",
-      "department": "Software",
-      "company": "Falcomm",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:266566b1da26f312",
       "title": "Research Scientist Intern - Photorealistic Telepresence",
       "url": "https://www.metacareers.com/jobs/2022109075207025",
@@ -13281,6 +13196,18 @@
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:c913ff9d74716a9b",
+      "title": "AI Intern",
+      "url": "https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26315",
+      "location": "Dallas, TX",
+      "department": "AI/ML/Data",
+      "company": "Photon",
+      "score": 60,
+      "scoreReasons": [
         "high-signal role"
       ]
     },

@@ -1,6 +1,6 @@
 # Open Internships
 
-**1128** internships across **63/64** companies — last updated 2026-06-27.
+**1123** internships across **63/64** companies — last updated 2026-06-27.
 
 ## Companies
 
@@ -14,7 +14,7 @@
 - [Adobe](#adobe) (1)
 - [Advanced Energy](#advanced-energy) (1)
 - [Advantmed](#advantmed) (1)
-- [Aechelon Technology](#aechelon-technology) (2)
+- [Aechelon Technology](#aechelon-technology) (1)
 - [AeroVironment](#aerovironment) (1)
 - [Agilent Technologies](#agilent-technologies) (1)
 - [AirCapture](#aircapture) (1)
@@ -28,7 +28,6 @@
 - [American Enterprise Institute](#american-enterprise-institute) (1)
 - [Anima](#anima) (1)
 - [Anterior](#anterior) (1)
-- [AnySignal](#anysignal) (1)
 - [Apex](#apex) (1)
 - [Apex Technology, Inc.](#apex-technology-inc) (1)
 - [Apple](#apple) (15)
@@ -69,7 +68,6 @@
 - [BlinqLABS](#blinqlabs) (1)
 - [Block](#block) (2)
 - [Blockhouse](#blockhouse) (1)
-- [Bloom Energy](#bloom-energy) (1)
 - [Blue & Co., LLC](#blue-co-llc) (1)
 - [Blue Bolt Partners](#blue-bolt-partners) (1)
 - [BMO](#bmo) (1)
@@ -161,7 +159,6 @@
 - [Expedia Group](#expedia-group) (1)
 - [Facility Solutions Group](#facility-solutions-group) (1)
 - [Faire](#faire) (1)
-- [Falcomm](#falcomm) (1)
 - [Fanatics](#fanatics) (3)
 - [Field AI](#field-ai) (1)
 - [Figure](#figure) (3)
@@ -204,7 +201,6 @@
 - [Hermeus](#hermeus) (6)
 - [Heron Power](#heron-power) (1)
 - [Hershey Entertainment & Resorts Company](#hershey-entertainment-resorts-company) (1)
-- [Hewlett Packard Enterprise](#hewlett-packard-enterprise) (1)
 - [HEXAWARE](#hexaware) (1)
 - [Hitachi](#hitachi) (2)
 - [Hiverge](#hiverge) (1)
@@ -325,6 +321,7 @@
 - [Persistent Systems](#persistent-systems) (1)
 - [Phamily](#phamily) (1)
 - [Phia](#phia) (1)
+- [Photon](#photon) (1)
 - [Physical Intelligence](#physical-intelligence) (1)
 - [Picarro](#picarro) (1)
 - [Pinterest](#pinterest) (4)
@@ -337,7 +334,6 @@
 - [PricewaterhouseCoopers (PwC)](#pricewaterhousecoopers-pwc) (1)
 - [Primetals Technologies](#primetals-technologies) (2)
 - [Prior Labs](#prior-labs) (1)
-- [Prologis](#prologis) (1)
 - [PsiQuantum](#psiquantum) (1)
 - [Quadric](#quadric) (4)
 - [QuEra Computing](#quera-computing) (1)
@@ -535,7 +531,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Junior Software Engineer – Internship](https://job-boards.greenhouse.io/aechelontechnology/jobs/4831334008) | 93 | Overland Park, KS | Software | 2026-05-09 |
 | [Rtk Internship - Junior Software Engineer](https://job-boards.greenhouse.io/aechelontechnology/jobs/4904960008) | 93 | Farmers Branch, TX | Software | 2026-05-09 |
 
 ## AeroVironment
@@ -628,12 +623,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Clinical AI Intern](https://jobs.ashbyhq.com/anterior/550c48f9-eb2e-4d5e-80ff-8db076b4e52d/application) | 68 | NYC | AI/ML/Data | 2026-05-27 |
-
-## AnySignal
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Embedded Software Intern](https://jobs.lever.co/anysignal/b5f278c9-9911-49c2-b5e8-0ed61f7194eb) | 68 | Los Angeles, CA | Hardware Engineering | 2026-05-09 |
 
 ## Apex
 
@@ -929,12 +918,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Rust Developer Intern](https://jobs.ashbyhq.com/blockhouse/42a3066f-683c-4b32-b097-5047e89dd12c/application) | 93 | Detroit, MI / NYC | Software | 2026-05-09 |
-
-## Bloom Energy
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineering Intern - Automation](https://bloomenergy.wd1.myworkdayjobs.com/en-US/BloomEnergyCareers/job/San-Jose-California/Software-Engineering-Intern---Automation_JR-20625) | 68 | San Jose, CA | Software Engineering | 2026-05-09 |
 
 ## Blue & Co., LLC
 
@@ -1565,12 +1548,6 @@
 | --- | --- | --- | --- | --- |
 | [Data Science Intern](https://boards.greenhouse.io/faire/jobs/8376377002) | 68 | Toronto, ON, Canada / Kitchener, ON, Canada / SF | AI/ML/Data | 2026-06-17 |
 
-## Falcomm
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [ML Software Engineer Intern - AI/CAD Integration](https://apply.workable.com/falcomm/j/B5EB495F31/apply) | 93 | Atlanta, GA | Software | 2026-05-13 |
-
 ## Fanatics
 
 | Title | Score | Location | Department | First seen |
@@ -1839,12 +1816,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [The Hotel Hershey Culinary Intern - Spring 2026](https://www.linkedin.com/jobs/view/4275543897) | 22 | Hershey, PA | — | 2026-05-16 |
-
-## Hewlett Packard Enterprise
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [HPE Labs - AI Research Lab Research Associate (Intern)](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/HPE-Labs---AI-Research-Lab-Research-Associate--Intern-_1192299) | 68 | Milpitas, CA / Fort Collins, CO | Data Science, AI & Machine Learning | 2026-05-09 |
 
 ## HEXAWARE
 
@@ -2718,6 +2689,12 @@
 | --- | --- | --- | --- | --- |
 | [Full Stack Engineer Intern](https://jobs.ashbyhq.com/phia/71c26b8b-86cd-446d-a63f-8cd8c2a3f162/application) | 93 | NYC | Software | 2026-06-05 |
 
+## Photon
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI Intern](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26315) | 60 | Dallas, TX | AI/ML/Data | 2026-06-27 |
+
 ## Physical Intelligence
 
 | Title | Score | Location | Department | First seen |
@@ -2832,12 +2809,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Research Scientist Intern - PhD](https://jobs.ashbyhq.com/prior-labs/09410424-8e94-4747-8155-bbcd0b1d4f6e/application) | 93 | Freiburg im Breisgau, Germany / NYC / Berlin, Germany | AI/ML/Data | 2026-05-09 |
-
-## Prologis
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI Intern](https://prologis.wd5.myworkdayjobs.com/en-US/Prologis_External_Careers/job/San-Francisco-California/Intern--IT_R6209) | 68 | San Francisco, CA | Data Science, AI & Machine Learning | 2026-05-09 |
 
 ## PsiQuantum
 
