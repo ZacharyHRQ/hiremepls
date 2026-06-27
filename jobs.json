@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-27T01:26:43.839Z",
+  "generatedAt": "2026-06-27T05:09:31.587Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1133,
+  "jobCount": 1132,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -62,7 +62,6 @@
     "canonical:8fc863f495e5ebf7": "2026-05-09T15:28:15.527Z",
     "canonical:40b5e3e02c34b6ce": "2026-05-09T15:28:15.527Z",
     "canonical:54eb0918a1a56e5d": "2026-05-09T15:28:15.527Z",
-    "canonical:d688e20ac5c7e4a8": "2026-05-09T15:28:15.527Z",
     "canonical:203024673d01b277": "2026-05-09T15:28:15.527Z",
     "canonical:8132ab2e5a72158d": "2026-05-09T15:28:15.527Z",
     "canonical:75fa46ada923f8d2": "2026-05-09T15:28:15.527Z",
@@ -2298,18 +2297,6 @@
       "company": "Cribl",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:d688e20ac5c7e4a8",
-      "title": "Software Engineering Intern",
-      "url": "https://githubinc.jibeapply.com/jobs/4640",
-      "location": "Remote in USA",
-      "department": "Software Engineering",
-      "company": "GitHub",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
     },
     {
       "id": "canonical:203024673d01b277",

@@ -1,6 +1,6 @@
 # Open Internships
 
-**1133** internships across **63/64** companies — last updated 2026-06-27.
+**1132** internships across **63/64** companies — last updated 2026-06-27.
 
 ## Companies
 
@@ -188,7 +188,6 @@
 - [Geotab](#geotab) (2)
 - [Gimlet Labs](#gimlet-labs) (1)
 - [Ginkgo Bioworks](#ginkgo-bioworks) (2)
-- [GitHub](#github) (1)
 - [Great Question](#great-question) (1)
 - [Green Planet Solutions](#green-planet-solutions) (1)
 - [Grow Financial Federal Credit Union](#grow-financial-federal-credit-union) (1)
@@ -1740,12 +1739,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Graduate Intern - Autonomous Lab](https://job-boards.greenhouse.io/ginkgobioworks/jobs/5033171007) | 74 | Oakland, CA | Software | 2026-05-09 |
 | [Software Intern - Autonomous Lab](https://job-boards.greenhouse.io/ginkgobioworks/jobs/5033167007) | 68 | Oakland, CA | Software | 2026-05-09 |
-
-## GitHub
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineering Intern](https://githubinc.jibeapply.com/jobs/4640) | 60 | Remote in USA | Software Engineering | 2026-05-09 |
 
 ## Great Question
 
