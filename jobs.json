@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-27T11:50:43.081Z",
+  "generatedAt": "2026-06-27T13:08:32.413Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1131,
+  "jobCount": 1129,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -908,7 +908,6 @@
     "canonical:07482cde11fc2d9b": "2026-06-12T15:35:58.050Z",
     "canonical:c3f909dd643f2906": "2026-06-13T00:12:58.112Z",
     "canonical:d418628a011a1708": "2026-06-13T00:12:58.112Z",
-    "canonical:d72f5b20685fcff0": "2026-06-13T00:12:58.112Z",
     "canonical:e5b8024c19031c98": "2026-06-13T00:12:58.112Z",
     "canonical:ecf76b0599cdcaca": "2026-06-13T00:12:58.112Z",
     "canonical:b9b78ad7bc2e2e9d": "2026-06-13T00:12:58.112Z",
@@ -924,7 +923,6 @@
     "canonical:55f7914d8c2bdcce": "2026-06-13T14:26:10.023Z",
     "canonical:ce890d51c1a61aab": "2026-06-13T14:26:10.023Z",
     "canonical:8212975b7a6dc9b6": "2026-06-13T14:26:10.023Z",
-    "canonical:ee39f279c66cba30": "2026-06-13T15:55:40.354Z",
     "canonical:31962d85f79aae5b": "2026-06-13T15:55:40.354Z",
     "canonical:5fad4f58541c53c3": "2026-06-13T15:55:40.354Z",
     "canonical:27fa5d3290d6515b": "2026-06-13T15:55:40.354Z",
@@ -2373,19 +2371,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:ee39f279c66cba30",
-      "title": "Research Internship - Reinforcement Learning for Large Foundation Models",
-      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Research-Internship---Reinforcement-Learning-for-Large-Foundation-Models_R106337-1",
-      "location": "Bellevue, WA",
-      "department": "AI/ML/Data",
-      "company": "Tencent",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -11819,19 +11804,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:d72f5b20685fcff0",
-      "title": "Gas Compressor Data Analyst Intern",
-      "url": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027-Internship--Gas-Compressor-Data-Analyst_R0000375786",
-      "location": "San Diego, CA",
-      "department": "AI/ML/Data",
-      "company": "Solar Turbines",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
