@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-28T11:41:12.049Z",
+  "generatedAt": "2026-06-28T13:03:33.953Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1106,
+  "jobCount": 1099,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -270,10 +270,7 @@
     "canonical:606d7f53b8e4e670": "2026-05-09T15:28:15.527Z",
     "canonical:30b49bc17727b7b6": "2026-05-09T15:28:15.527Z",
     "canonical:877c0a343b3cc748": "2026-05-09T15:28:15.527Z",
-    "canonical:02233db9458d09d9": "2026-05-09T15:28:15.527Z",
-    "canonical:a4af8e4a3c23536e": "2026-05-09T15:28:15.527Z",
     "canonical:8b83f0f8daee2260": "2026-05-09T15:28:15.527Z",
-    "canonical:1000248104b66e99": "2026-05-09T15:28:15.527Z",
     "canonical:4f0f9f75731af333": "2026-05-09T15:28:15.527Z",
     "canonical:3ac7e929b6c7398f": "2026-05-09T15:28:15.527Z",
     "canonical:60d4eb07453b6428": "2026-05-09T15:28:15.527Z",
@@ -296,9 +293,7 @@
     "canonical:5636590fd704c203": "2026-05-09T15:28:15.527Z",
     "canonical:d4ff08fb2c47d73d": "2026-05-09T15:28:15.527Z",
     "canonical:c340b9c31add6dab": "2026-05-09T15:28:15.527Z",
-    "canonical:f35108fd0847ebf1": "2026-05-09T15:28:15.527Z",
     "canonical:23c3f9ce43d5618a": "2026-05-09T15:28:15.527Z",
-    "canonical:5b6e6fe93577551b": "2026-05-09T15:28:15.527Z",
     "canonical:c1e0e4342bafb79e": "2026-05-09T15:28:15.527Z",
     "canonical:325ed7972e038b2d": "2026-05-09T15:28:15.527Z",
     "canonical:f5a5dbf294122ad1": "2026-05-09T15:28:15.527Z",
@@ -329,7 +324,6 @@
     "canonical:03c15902ae6e4726": "2026-05-09T15:28:15.527Z",
     "canonical:1e6e6a2ed07745e2": "2026-05-09T15:28:15.527Z",
     "canonical:cf50f0a4d4fd39c2": "2026-05-09T15:28:15.527Z",
-    "canonical:0a8f213bd98a92bc": "2026-05-09T15:28:15.527Z",
     "canonical:11c1b4c81d7b5642": "2026-05-09T15:28:15.527Z",
     "canonical:b517dba4bb4840a4": "2026-05-09T15:28:15.527Z",
     "canonical:72a13f956e90ff2e": "2026-05-09T15:28:15.527Z",
@@ -348,7 +342,6 @@
     "canonical:0d583e36448bbfca": "2026-05-09T15:28:15.527Z",
     "canonical:b34bc2f7f5ee1149": "2026-05-09T15:28:15.527Z",
     "canonical:6891c0ba8d854c9b": "2026-05-09T15:28:15.527Z",
-    "canonical:9033f4b5e8eae79e": "2026-05-09T15:28:15.527Z",
     "canonical:db017660ddf68d47": "2026-05-09T15:28:15.527Z",
     "canonical:e60dea0edc7d6c6a": "2026-05-09T15:28:15.527Z",
     "canonical:4871e71be3a18e9d": "2026-05-09T15:28:15.527Z",
@@ -852,7 +845,6 @@
     "canonical:a408343a5d65fbb1": "2026-06-11T01:44:46.869Z",
     "canonical:8bd38293f3b72dd9": "2026-06-11T01:44:46.869Z",
     "canonical:2a27a6706157cb62": "2026-06-11T06:27:21.326Z",
-    "canonical:6ffbc9b658b7f7b8": "2026-06-11T06:27:21.326Z",
     "canonical:32665894ab4460ce": "2026-06-11T11:07:45.069Z",
     "canonical:481abe28ff8a5d8b": "2026-06-11T11:07:45.069Z",
     "canonical:6b8d8dd23c8c6548": "2026-06-11T11:07:45.069Z",
@@ -935,7 +927,6 @@
     "canonical:085b2e5fe74779c0": "2026-06-15T11:27:26.940Z",
     "canonical:6d527ef635f8bf48": "2026-06-15T11:27:26.940Z",
     "canonical:a85de0a69dd67498": "2026-06-15T11:27:26.940Z",
-    "canonical:c51de5622a75f93e": "2026-06-15T11:27:26.940Z",
     "canonical:38f37f3ad8017ec7": "2026-06-15T11:27:26.940Z",
     "canonical:cc5a5127977b4ab5": "2026-06-15T11:27:26.940Z",
     "canonical:e5b7fab3e0bff565": "2026-06-15T11:27:26.940Z",
@@ -1109,7 +1100,9 @@
     "canonical:b2e9f25c7050186e": "2026-06-28T09:52:26.057Z",
     "canonical:ef667d829f183cb5": "2026-06-28T09:52:26.057Z",
     "canonical:6bc98e794c801a9d": "2026-06-28T11:41:12.049Z",
-    "canonical:f675f8273d9a1aff": "2026-06-28T11:41:12.049Z"
+    "canonical:f675f8273d9a1aff": "2026-06-28T11:41:12.049Z",
+    "canonical:13efad0dc5822e31": "2026-06-28T13:03:33.953Z",
+    "canonical:233ce7681b43b059": "2026-06-28T13:03:33.953Z"
   },
   "jobs": [
     {
@@ -5828,45 +5821,6 @@
       ]
     },
     {
-      "id": "canonical:02233db9458d09d9",
-      "title": "Software Engineer Intern - Experimentation & Evaluation - Data Platform",
-      "url": "https://lifeattiktok.com/search/7534793633532479751",
-      "location": "San Jose, CA",
-      "department": "Software",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:a4af8e4a3c23536e",
-      "title": "Machine Learning Engineer Intern - Tiktok Search Local Services Team",
-      "url": "https://lifeattiktok.com/search/7534626464240994568",
-      "location": "San Jose, CA",
-      "department": "AI/ML/Data",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:1000248104b66e99",
-      "title": "Software Engineer Intern - Data Ecosystem",
-      "url": "https://lifeattiktok.com/search/7533387057667934482",
-      "location": "Seattle, WA",
-      "department": "Software",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:4f0f9f75731af333",
       "title": "Software Engineer Intern - Multiple Teams",
       "url": "https://lifeattiktok.com/search/7533295761208559890",
@@ -6153,19 +6107,6 @@
       ]
     },
     {
-      "id": "canonical:c51de5622a75f93e",
-      "title": "Software Engineer Intern - Capital Platform - 2026 Summer','BS/MS",
-      "url": "https://lifeattiktok.com/search/7534536157456058632",
-      "location": "San Jose, CA",
-      "department": "Software",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:d4ff08fb2c47d73d",
       "title": "Intern AI Engineering",
       "url": "https://job-boards.greenhouse.io/workato/jobs/8492935002",
@@ -6192,36 +6133,10 @@
       ]
     },
     {
-      "id": "canonical:f35108fd0847ebf1",
-      "title": "Software Engineer Intern - Media Engine - BS/MS",
-      "url": "https://lifeattiktok.com/search/7538304108715198727",
-      "location": "San Jose, CA",
-      "department": "Software",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:23c3f9ce43d5618a",
       "title": "Backend Software Engineer Intern - Foundation Platform",
       "url": "https://lifeattiktok.com/search/7538307729329277202",
       "location": "San Jose, CA",
-      "department": "Software",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:5b6e6fe93577551b",
-      "title": "Online Assessment] Software Engineer Intern - Recommendation Infrastructure - 2026 Summer",
-      "url": "https://lifeattiktok.com/search/7537491011187902727",
-      "location": "Seattle, WA",
       "department": "Software",
       "company": "TikTok",
       "score": 85,
@@ -6766,19 +6681,6 @@
       ]
     },
     {
-      "id": "canonical:0a8f213bd98a92bc",
-      "title": "Software Engineer Intern - Business Integrity - BS/MS",
-      "url": "https://lifeattiktok.com/search/7543420658085185799",
-      "location": "San Jose, CA",
-      "department": "Software",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:efeb516c369ef725",
       "title": "Video Algorithms Intern - Video Coding - Gaussian Splatting",
       "url": "https://explore.jobs.netflix.net/careers/job/790315673635",
@@ -7053,18 +6955,6 @@
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:9033f4b5e8eae79e",
-      "title": "2026 Machine Learning Center of Excellence – Summer Associate - NLP",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210664814",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "JP Morgan Chase",
-      "score": 60,
-      "scoreReasons": [
         "high-signal role"
       ]
     },
@@ -10993,29 +10883,6 @@
       ]
     },
     {
-      "id": "canonical:2a27a6706157cb62",
-      "title": "Data Scientist Intern",
-      "url": "https://lifeattiktok.com/search/7532660880120400135",
-      "location": "Seattle, WA",
-      "department": "AI/ML/Data",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:6ffbc9b658b7f7b8",
-      "title": "Creator & Affiliate Product Manager Intern",
-      "url": "https://lifeattiktok.com/search/7550950550511421703",
-      "location": "London, UK",
-      "department": "Product",
-      "company": "TikTok",
-      "score": 50,
-      "scoreReasons": []
-    },
-    {
       "id": "canonical:481abe28ff8a5d8b",
       "title": "Software Engineer Intern - Applications",
       "url": "https://jobs.ashbyhq.com/rivianvw.tech/3f314ca7-978e-4ad6-b527-0487a9a9598c/application",
@@ -11447,6 +11314,19 @@
       "company": "KPH Healthcare Services",
       "score": 60,
       "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:2a27a6706157cb62",
+      "title": "Data Scientist Intern",
+      "url": "https://lifeattiktok.com/search/7532238337198622983",
+      "location": "Seattle, WA",
+      "department": "AI/ML/Data",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -12967,6 +12847,32 @@
       "id": "canonical:085b2e5fe74779c0",
       "title": "Software Engineer Intern - Monetization Technology - Ads Creative",
       "url": "https://lifeattiktok.com/search/7532460740410738952",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:13efad0dc5822e31",
+      "title": "Machine Learning Engineer Intern - Global E-Commerce Content Recommendation",
+      "url": "https://lifeattiktok.com/search/7527077153591675154",
+      "location": "Seattle, WA",
+      "department": "AI/ML/Data",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:233ce7681b43b059",
+      "title": "Software Engineer Intern - Capital Platform",
+      "url": "https://lifeattiktok.com/search/7534536157456058632",
       "location": "San Jose, CA",
       "department": "Software",
       "company": "TikTok",

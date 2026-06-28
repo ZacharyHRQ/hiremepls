@@ -1,6 +1,6 @@
 # Open Internships
 
-**1106** internships across **63/64** companies — last updated 2026-06-28.
+**1099** internships across **63/64** companies — last updated 2026-06-28.
 
 ## Companies
 
@@ -227,7 +227,7 @@
 - [Interstates](#interstates) (1)
 - [iSpot.tv](#ispot-tv) (1)
 - [JINGDONG](#jingdong) (2)
-- [JP Morgan Chase](#jp-morgan-chase) (2)
+- [JP Morgan Chase](#jp-morgan-chase) (1)
 - [Jump Trading](#jump-trading) (2)
 - [K1](#k1) (1)
 - [KBR](#kbr) (1)
@@ -408,7 +408,7 @@
 - [The Exploration Company](#the-exploration-company) (1)
 - [The Trade Desk](#the-trade-desk) (1)
 - [TIFIN](#tifin) (1)
-- [TikTok](#tiktok) (77)
+- [TikTok](#tiktok) (71)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
 - [Together AI](#together-ai) (3)
@@ -1989,7 +1989,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Commodities Trading Intern](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210752778) | 60 | Houston, TX | Quant | 2026-06-01 |
-| [2026 Machine Learning Center of Excellence – Summer Associate - NLP](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210664814) | 60 | London, UK | AI/ML/Data | 2026-05-09 |
 
 ## Jump Trading
 
@@ -3432,6 +3431,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Machine Learning Engineer Intern - Global E-Commerce Content Recommendation](https://lifeattiktok.com/search/7527077153591675154) | 85 | Seattle, WA | AI/ML/Data | 2026-06-28 |
+| [Software Engineer Intern - Capital Platform](https://lifeattiktok.com/search/7534536157456058632) | 85 | San Jose, CA | Software | 2026-06-28 |
 | [Machine Learning Engineer Intern - Trust and Safety - CV/NLP/Multimodal LLM](https://lifeattiktok.com/search/7527589557336869138) | 85 | San Jose, CA | AI/ML/Data | 2026-06-28 |
 | [Software Engineer Project Intern - Platform efficiency](https://lifeattiktok.com/search/7530513185797359880) | 85 | San Jose, CA | Software | 2026-06-28 |
 | [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7534855949620119815) | 85 | San Jose, CA | AI/ML/Data | 2026-06-28 |
@@ -3461,7 +3462,6 @@
 | [Research Scientist Intern - Trust and Safety - CV/NLP/Multimodal LLM](https://lifeattiktok.com/search/7527585101065652498) | 85 | Seattle, WA | AI/ML/Data | 2026-06-15 |
 | [Security Software Engineer Project Intern - Product Security - 2026 Start](https://lifeattiktok.com/search/7600535181632457013) | 85 | San Jose, CA | Software | 2026-06-15 |
 | [Software Engineer Intern - Ads Infrastructure](https://lifeattiktok.com/search/7572665884037826869) | 85 | San Jose, CA | Software | 2026-06-15 |
-| [Software Engineer Intern - Capital Platform - 2026 Summer','BS/MS](https://lifeattiktok.com/search/7534536157456058632) | 85 | San Jose, CA | Software | 2026-06-15 |
 | [Software Engineer Intern - Commerce Ads - 2026 Summer](https://lifeattiktok.com/search/7595346355196954933) | 85 | Seattle, WA | Software | 2026-06-15 |
 | [Software Engineer Intern - Global Site Reliability Engineer](https://lifeattiktok.com/search/7536042624604997896) | 85 | San Jose, CA | Software | 2026-06-15 |
 | [Software Engineer Intern - Monetization Technology](https://lifeattiktok.com/search/7561941583777941813) | 85 | San Jose, CA | Software | 2026-06-15 |
@@ -3479,8 +3479,7 @@
 | [Data Science Project Intern - Advertising Team - 2026 Start](https://lifeattiktok.com/search/7605353124442343733) | 60 | San Jose, CA | AI/ML/Data | 2026-06-15 |
 | [Platform-Product Solutions and Operations Intern - Ads Interface and Platform - 2026 Summer BS/MS](https://lifeattiktok.com/search/7600292878967785781) | 60 | San Jose, CA | AI/ML/Data | 2026-06-15 |
 | [Product Solutions and Operations Intern - Commerce Ads - BS/MS](https://lifeattiktok.com/search/7600290735611840821) | 50 | San Jose, CA | Product | 2026-06-15 |
-| [Data Scientist Intern](https://lifeattiktok.com/search/7532660880120400135) | 85 | Seattle, WA | AI/ML/Data | 2026-06-11 |
-| [Creator & Affiliate Product Manager Intern](https://lifeattiktok.com/search/7550950550511421703) | 50 | London, UK | Product | 2026-06-11 |
+| [Data Scientist Intern](https://lifeattiktok.com/search/7532238337198622983) | 85 | Seattle, WA | AI/ML/Data | 2026-06-11 |
 | [AI Software Engineer Intern - Transaction Platform](https://lifeattiktok.com/search/7646621925436131637) | 85 | San Jose, CA | Software | 2026-06-09 |
 | [Data Science Intern - Tiktok Shop-Supply Chain & Logistics](https://lifeattiktok.com/search/7644719084681234741) | 60 | Seattle, WA | AI/ML/Data | 2026-05-28 |
 | [Data Analyst Intern - TikTok Live](https://lifeattiktok.com/search/7642264645810292997) | 60 | London, UK | AI/ML/Data | 2026-05-21 |
@@ -3488,17 +3487,11 @@
 | [Backend Software Engineer Intern - Foundation Platform](https://lifeattiktok.com/search/7538307729329277202) | 85 | San Jose, CA | Software | 2026-05-09 |
 | [Data Scientist Intern - Tiktok Integrity and Safety - 2026 Summer](https://lifeattiktok.com/search/7610543185362372917) | 85 | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Machine Learning Engineer Intern - Monetization Technology - Ads Core Global](https://lifeattiktok.com/search/7595340771562621189) | 85 | San Jose, CA | AI/ML/Data | 2026-05-09 |
-| [Machine Learning Engineer Intern - Tiktok Search Local Services Team](https://lifeattiktok.com/search/7534626464240994568) | 85 | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Machine Learning Scientist Intern - TikTok Recommendation](https://lifeattiktok.com/search/7519241729582516487) | 85 | San Jose, CA | AI/ML/Data | 2026-05-09 |
-| [Online Assessment] Software Engineer Intern - Recommendation Infrastructure - 2026 Summer](https://lifeattiktok.com/search/7537491011187902727) | 85 | Seattle, WA | Software | 2026-05-09 |
 | [Research Scientist Intern](https://lifeattiktok.com/search/7602701787133249797) | 85 | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Research Scientist Intern - Nextgen Recommendation](https://lifeattiktok.com/search/7519768631745087752) | 85 | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Software Engineer Intern - Ads Interface Platform](https://lifeattiktok.com/search/7473334964256393479) | 85 | San Jose, CA | Software | 2026-05-09 |
 | [Software Engineer Intern - AI Model Optimization](https://lifeattiktok.com/search/7540823148805032210) | 85 | Seattle, WA | Software | 2026-05-09 |
-| [Software Engineer Intern - Business Integrity - BS/MS](https://lifeattiktok.com/search/7543420658085185799) | 85 | San Jose, CA | Software | 2026-05-09 |
-| [Software Engineer Intern - Data Ecosystem](https://lifeattiktok.com/search/7533387057667934482) | 85 | Seattle, WA | Software | 2026-05-09 |
-| [Software Engineer Intern - Experimentation & Evaluation - Data Platform](https://lifeattiktok.com/search/7534793633532479751) | 85 | San Jose, CA | Software | 2026-05-09 |
-| [Software Engineer Intern - Media Engine - BS/MS](https://lifeattiktok.com/search/7538304108715198727) | 85 | San Jose, CA | Software | 2026-05-09 |
 | [Software Engineer Intern - Multiple Teams](https://lifeattiktok.com/search/7533295761208559890) | 85 | San Jose, CA | Software | 2026-05-09 |
 | [Software Engineer Intern - Recommendation Infrastructure](https://lifeattiktok.com/search/7534878965941766408) | 85 | San Jose, CA | Software | 2026-05-09 |
 | [Software Engineer Intern, Recommendation Infrastructure](https://lifeattiktok.com/referral/tiktok/campus/position/7537493362585979154/detail?token=MzsxNzU3OTM3MTgyMDE1OzczNzM0OTcwMTcxNzQxMzIyNDA7MDsy) | 85 | Seattle, WA | — | 2026-05-09 |
