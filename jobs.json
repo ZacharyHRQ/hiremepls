@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-28T13:03:33.953Z",
+  "generatedAt": "2026-06-28T14:55:53.760Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1099,
+  "jobCount": 1098,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -220,7 +220,6 @@
     "canonical:516ca83ddb6d4d40": "2026-05-09T15:28:15.527Z",
     "canonical:c6bd1cc3d8bd01b8": "2026-05-09T15:28:15.527Z",
     "canonical:d3ce9a5e5ddb0169": "2026-05-09T15:28:15.527Z",
-    "canonical:a6145bd6dfb6a1e7": "2026-05-09T15:28:15.527Z",
     "canonical:9e42770bf99c0f7e": "2026-05-09T15:28:15.527Z",
     "canonical:6977eeeb4ce82805": "2026-05-09T15:28:15.527Z",
     "canonical:81494230370de12a": "2026-05-09T15:28:15.527Z",
@@ -4886,18 +4885,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:a6145bd6dfb6a1e7",
-      "title": "Software Engineering Intern",
-      "url": "https://ats.rippling.com/brevian-careers/jobs/0c7d22e5-4522-47e6-8f98-69a64c9ab484",
-      "location": "Sunnyvale, CA",
-      "department": "Software",
-      "company": "Brevian",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {

@@ -1,6 +1,6 @@
 # Open Internships
 
-**1099** internships across **63/64** companies — last updated 2026-06-28.
+**1098** internships across **63/64** companies — last updated 2026-06-28.
 
 ## Companies
 
@@ -77,7 +77,6 @@
 - [Bosch](#bosch) (2)
 - [Boston Consulting Group](#boston-consulting-group) (2)
 - [Boys Town](#boys-town) (1)
-- [Brevian](#brevian) (1)
 - [Brex](#brex) (1)
 - [Brookfield](#brookfield) (1)
 - [Brunswick](#brunswick) (1)
@@ -972,12 +971,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Artificial Intelligence & Machine Learning Intern](https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Artificial-Intelligence---Machine-Learning-Intern_REQ-2026-8543-1) | 68 | Omaha, NE | AI/ML/Data | 2026-06-20 |
-
-## Brevian
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineering Intern](https://ats.rippling.com/brevian-careers/jobs/0c7d22e5-4522-47e6-8f98-69a64c9ab484) | 60 | Sunnyvale, CA | Software | 2026-05-09 |
 
 ## Brex
 
