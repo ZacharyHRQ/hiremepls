@@ -1,6 +1,6 @@
 # Open Internships
 
-**1109** internships across **63/64** companies — last updated 2026-06-28.
+**1107** internships across **63/64** companies — last updated 2026-06-28.
 
 ## Companies
 
@@ -30,6 +30,8 @@
 - [Apex](#apex) (1)
 - [Apex Technology, Inc.](#apex-technology-inc) (1)
 - [Apple](#apple) (15)
+- [Applied Intuition](#applied-intuition) (3)
+- [Aptiv](#aptiv) (1)
 - [AQR](#aqr) (7)
 - [Aquatic Capital](#aquatic-capital) (1)
 - [Arch Capital Group](#arch-capital-group) (1)
@@ -180,7 +182,6 @@
 - [Gensyn](#gensyn) (1)
 - [Genworth](#genworth) (1)
 - [Geotab](#geotab) (2)
-- [Gimlet Labs](#gimlet-labs) (1)
 - [Ginkgo Bioworks](#ginkgo-bioworks) (2)
 - [Great Question](#great-question) (1)
 - [Green Planet Solutions](#green-planet-solutions) (1)
@@ -199,7 +200,7 @@
 - [Heron Power](#heron-power) (1)
 - [Hershey Entertainment & Resorts Company](#hershey-entertainment-resorts-company) (1)
 - [HEXAWARE](#hexaware) (1)
-- [Hitachi](#hitachi) (2)
+- [Hitachi](#hitachi) (1)
 - [Hiverge](#hiverge) (1)
 - [HNTB](#hntb) (1)
 - [Homebase](#homebase) (1)
@@ -339,7 +340,7 @@
 - [Ramp](#ramp) (1)
 - [Reacher](#reacher) (1)
 - [REGENT](#regent) (1)
-- [Replit](#replit) (2)
+- [Replit](#replit) (1)
 - [Reply](#reply) (2)
 - [RESPEC](#respec) (1)
 - [Rippling](#rippling) (3)
@@ -389,7 +390,7 @@
 - [Susquehanna International Group (SIG)](#susquehanna-international-group-sig) (1)
 - [Susquehanna International Group, LLP (SIG)](#susquehanna-international-group-llp-sig) (3)
 - [Symmetry Systems](#symmetry-systems) (1)
-- [Synchrony Financial](#synchrony-financial) (2)
+- [Synchrony Financial](#synchrony-financial) (1)
 - [Syntax](#syntax) (1)
 - [Taara](#taara) (1)
 - [TDS](#tds) (2)
@@ -407,12 +408,12 @@
 - [The Exploration Company](#the-exploration-company) (1)
 - [The Trade Desk](#the-trade-desk) (1)
 - [TIFIN](#tifin) (1)
-- [TikTok](#tiktok) (81)
+- [TikTok](#tiktok) (78)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
 - [Together AI](#together-ai) (3)
 - [Topel Forman LLC](#topel-forman-llc) (1)
-- [Tower Research Capital](#tower-research-capital) (3)
+- [Tower Research Capital](#tower-research-capital) (2)
 - [Toyota Research Institute](#toyota-research-institute) (3)
 - [Tradeweb](#tradeweb) (1)
 - [Trane Technologies](#trane-technologies) (1)
@@ -452,9 +453,10 @@
 - [WSP](#wsp) (1)
 - [WTW](#wtw) (1)
 - [X Development](#x-development) (1)
+- [Xaira Therapeutics](#xaira-therapeutics) (1)
 - [XPENG Motors](#xpeng-motors) (2)
 - [Zip](#zip) (1)
-- [Zipline](#zipline) (5)
+- [Zipline](#zipline) (6)
 - [Zone 5 Technologies](#zone-5-technologies) (1)
 - [Zoox](#zoox) (1)
 
@@ -643,6 +645,20 @@
 | [Machine Learning Intern](https://www.apple.com) | 60 | San Francisco, CA | — | 2026-05-16 |
 | [GPU Internship - Platform Architecture](https://jobs.apple.com/en-us/details/200617616) | 60 | London, UK / Cambridge, UK / Welwyn Garden City, UK | Hardware | 2026-05-09 |
 | [Hardware Engineering Intern](https://jobs.apple.com/en-us/details/200663981) | 50 | United States | Hardware | 2026-05-09 |
+
+## Applied Intuition
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Research Intern - 3D Vision and Generation - Self-Driving](https://jobs.ashbyhq.com/applied/91e0686e-272a-4780-b33d-d7860b94a7b4/application) | 68 | Sunnyvale, CA | AI/ML/Data | 2026-06-28 |
+| [Research Intern - Reinforcement Learning - Self-Driving](https://jobs.ashbyhq.com/applied/ce58d9fd-f22b-4336-80b5-ba1e8d764526/application) | 68 | Sunnyvale, CA | AI/ML/Data | 2026-06-28 |
+| [Research Intern - Robotic Hardware - Simulation and Data](https://jobs.ashbyhq.com/applied/5bb0567a-8d07-4cc4-be7c-c06b31361883/application) | 68 | Sunnyvale, CA | AI/ML/Data | 2026-06-28 |
+
+## Aptiv
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [RTOS development Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Intern---RTOS-development_J000699511-1) | 58 | Kanata, Ottawa, ON, Canada | Hardware | 2026-06-28 |
 
 ## AQR
 
@@ -1674,12 +1690,6 @@
 | [DataOps Developer Intern - Months](https://job-boards.greenhouse.io/internshiplist2000/jobs/5155296008) | 93 | Oakville, ON, Canada | AI/ML/Data | 2026-06-17 |
 | [Software Developer Intern](https://job-boards.greenhouse.io/internshiplist2000/jobs/5153686008) | 93 | Toronto, ON, Canada / Oakville, ON, Canada / Kitchener, ON, Canada | Software | 2026-05-09 |
 
-## Gimlet Labs
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Member of Technical Staff – Intern](https://jobs.ashbyhq.com/gimlet/23e10dd6-e7c5-43f0-b14e-54ab999fccd9/application) | 68 | SF | Software | 2026-05-09 |
-
 ## Ginkgo Bioworks
 
 | Title | Score | Location | Department | First seen |
@@ -1800,7 +1810,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Analyst Intern](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst-Intern--Fall-2026--8-months-_R1013034) | 68 | Scarborough, ON, Canada | AI/ML/Data | 2026-06-16 |
-| [ALM Scripting & Reporting Intern](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/ALM-Scripting---Reporting-Intern_R1012816) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-05-23 |
 
 ## Hiverge
 
@@ -2836,7 +2845,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1/application) | 93 | San Mateo, CA | Software | 2026-05-31 |
 | [Software Engineering Intern (Summer 2026)](https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1) | 65 | — | — | 2026-05-29 |
 
 ## Reply
@@ -3209,7 +3217,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Technology Intern - Technology](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Technology_2601695-1) | 68 | Stamford, CT | Software | 2026-06-17 |
-| [Data Analytics Intern](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Data-Analytics_2601688) | 68 | Stamford, CT | AI/ML/Data | 2026-06-17 |
 
 ## Syntax
 
@@ -3444,7 +3451,6 @@
 | [Machine Learning Engineer Intern - Commerce Ads - 2026 Summer](https://lifeattiktok.com/search/7595346361319491893) | 85 | San Jose, CA | AI/ML/Data | 2026-06-15 |
 | [Machine Learning Engineer Intern - Global E-Commerce Content Recommendation - 2026 Summer](https://lifeattiktok.com/search/7527077153591675154) | 85 | Seattle, WA | AI/ML/Data | 2026-06-15 |
 | [Machine Learning Engineer Intern - Monetization Technology](https://lifeattiktok.com/search/7562342433721862405) | 85 | San Jose, CA | AI/ML/Data | 2026-06-15 |
-| [Machine Learning Engineer Intern - Trust and Safety - CV/NLP/Multimodal LLM](https://lifeattiktok.com/search/7527589557336869138) | 85 | San Jose, CA | AI/ML/Data | 2026-06-15 |
 | [Machine Learning Engineer Intern - Trust and Safety - CV/NLP/Multimodal LLM](https://lifeattiktok.com/search/7527589875165563143) | 85 | Seattle, WA | AI/ML/Data | 2026-06-15 |
 | [Machine Learning Scientist Intern - Global E-Commerce Content Recommendation](https://lifeattiktok.com/search/7623531249253255429) | 85 | San Jose, CA | AI/ML/Data | 2026-06-15 |
 | [Machine Learning Scientist Intern - Tiktok-Content Ecology-LLM application](https://lifeattiktok.com/search/7532390182411405586) | 85 | San Jose, CA | AI/ML/Data | 2026-06-15 |
@@ -3482,9 +3488,7 @@
 | [Data Scientist Intern - Tiktok UG-Mid Platform - 2026 Summer](https://lifeattiktok.com/search/7592001144580262197) | 85 | San Jose, CA | AI/ML/Data | 2026-05-11 |
 | [Backend Software Engineer Intern - Foundation Platform](https://lifeattiktok.com/search/7538307729329277202) | 85 | San Jose, CA | Software | 2026-05-09 |
 | [Data Scientist Intern - Tiktok Integrity and Safety - 2026 Summer](https://lifeattiktok.com/search/7610543185362372917) | 85 | San Jose, CA | AI/ML/Data | 2026-05-09 |
-| [Machine Learning Engineer Intern - Data-Search-Tiktok Recommendation Team](https://lifeattiktok.com/search/7535234137146444040) | 85 | Seattle, WA | AI/ML/Data | 2026-05-09 |
 | [Machine Learning Engineer Intern - Monetization Technology - Ads Core Global](https://lifeattiktok.com/search/7595340771562621189) | 85 | San Jose, CA | AI/ML/Data | 2026-05-09 |
-| [Machine Learning Engineer Intern - Monetization Technology - Ads Creative](https://lifeattiktok.com/search/7532464949135313159) | 85 | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Machine Learning Engineer Intern - Tiktok Search Local Services Team](https://lifeattiktok.com/search/7534626464240994568) | 85 | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Machine Learning Scientist Intern - TikTok Recommendation](https://lifeattiktok.com/search/7519241729582516487) | 85 | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Online Assessment] Software Engineer Intern - Recommendation Infrastructure - 2026 Summer](https://lifeattiktok.com/search/7537491011187902727) | 85 | Seattle, WA | Software | 2026-05-09 |
@@ -3539,7 +3543,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Intern](https://www.tower-research.com/open-positions/?gh_jid=7988896) | 50 | Gift City | — | 2026-06-12 |
-| [Quantitative Trader Intern - PhD 2026](https://www.tower-research.com/open-positions/?gh_jid=7062370) | 60 | NYC | Quant | 2026-05-09 |
 | [Risk Intern - 6 Month Internship Opportunity](https://www.tower-research.com/open-positions/?gh_jid=7789933) | 50 | Singapore | — | 2026-05-06 |
 
 ## Toyota Research Institute
@@ -3797,6 +3800,12 @@
 | --- | --- | --- | --- | --- |
 | [PhD Residency Intern](https://x.company/careers/8511401002?gh_jid=8511401002) | 60 | Mountain View, CA | AI/ML/Data | 2026-06-18 |
 
+## Xaira Therapeutics
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Lab Automation Vision AI Engineer Intern](https://job-boards.greenhouse.io/xairatherapeutics/jobs/5170708007) | 93 | San Bruno, CA | AI/ML/Data | 2026-06-28 |
+
 ## XPENG Motors
 
 | Title | Score | Location | Department | First seen |
@@ -3814,6 +3823,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Maps Intern](https://www.zipline.com/open-roles?gh_jid=7787868003) | 60 | San Bruno, CA | AI/ML/Data | 2026-06-28 |
 | [Hardware Test Intern](https://www.zipline.com/careers?gh_jid=7747248003#open-roles) | 50 | San Bruno, CA | Hardware | 2026-06-12 |
 | [Enterprise Systems Software Engineer Intern](https://www.zipline.com/careers?gh_jid=7767667003#open-roles) | 85 | San Bruno, CA | Software | 2026-06-10 |
 | [Computational Physics Intern](https://www.zipline.com/careers?gh_jid=7766408003#open-roles) | 60 | San Bruno, CA | AI/ML/Data | 2026-06-08 |

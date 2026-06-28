@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-28T06:45:31.851Z",
+  "generatedAt": "2026-06-28T09:52:26.057Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1109,
+  "jobCount": 1107,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -230,7 +230,6 @@
     "canonical:08c93deb66c76958": "2026-05-09T15:28:15.527Z",
     "canonical:442421c8b78134c2": "2026-05-09T15:28:15.527Z",
     "canonical:848a0432a1a778c6": "2026-05-09T15:28:15.527Z",
-    "canonical:02f57f3546feb41b": "2026-05-09T15:28:15.527Z",
     "canonical:f6d52c60d3d83059": "2026-05-09T15:28:15.527Z",
     "canonical:b8e9ae65c4c0bcdb": "2026-05-09T15:28:15.527Z",
     "canonical:b829286cb05e29f4": "2026-05-09T15:28:15.527Z",
@@ -255,7 +254,6 @@
     "canonical:6826e54d8a988fcb": "2026-05-09T15:28:15.527Z",
     "canonical:f38b80d1d6c35520": "2026-05-09T15:28:15.527Z",
     "canonical:20fb43ce77afc2b5": "2026-05-09T15:28:15.527Z",
-    "canonical:ebfbb21978a45764": "2026-05-09T15:28:15.527Z",
     "canonical:1ff85e8ca14b40b6": "2026-05-09T15:28:15.527Z",
     "canonical:bc169376140ecc52": "2026-05-09T15:28:15.527Z",
     "canonical:fcfe57824f093788": "2026-05-09T15:28:15.527Z",
@@ -274,12 +272,10 @@
     "canonical:877c0a343b3cc748": "2026-05-09T15:28:15.527Z",
     "canonical:02233db9458d09d9": "2026-05-09T15:28:15.527Z",
     "canonical:a4af8e4a3c23536e": "2026-05-09T15:28:15.527Z",
-    "canonical:236461b451156888": "2026-05-09T15:28:15.527Z",
     "canonical:8b83f0f8daee2260": "2026-05-09T15:28:15.527Z",
     "canonical:1000248104b66e99": "2026-05-09T15:28:15.527Z",
     "canonical:4f0f9f75731af333": "2026-05-09T15:28:15.527Z",
     "canonical:3ac7e929b6c7398f": "2026-05-09T15:28:15.527Z",
-    "canonical:2fc531ef306b7506": "2026-05-09T15:28:15.527Z",
     "canonical:60d4eb07453b6428": "2026-05-09T15:28:15.527Z",
     "canonical:7ca63fb282883ee7": "2026-05-09T15:28:15.527Z",
     "canonical:fd3a144ce91c5f4a": "2026-05-09T15:28:15.527Z",
@@ -627,7 +623,6 @@
     "canonical:f0728ff29575654a": "2026-05-23T00:02:34.826Z",
     "canonical:c3198b3c367e2eff": "2026-05-23T00:02:34.826Z",
     "canonical:29da251a9e02427f": "2026-05-23T00:02:34.826Z",
-    "canonical:f37a3bfdec6850a3": "2026-05-23T00:02:34.826Z",
     "canonical:ea35e8fcdad6f202": "2026-05-23T04:05:56.236Z",
     "canonical:45cd46e8fc53009e": "2026-05-23T04:05:56.236Z",
     "canonical:ffab8b01cb491678": "2026-05-23T04:05:56.236Z",
@@ -693,7 +688,6 @@
     "canonical:1df04de60e393fed": "2026-05-29T17:55:07.126Z",
     "canonical:b661e8e93c959d87": "2026-05-31T04:52:04.247Z",
     "canonical:b2ba7fb9dd17dfe9": "2026-05-31T04:52:04.247Z",
-    "canonical:3006133af70a93bd": "2026-05-31T08:09:00.139Z",
     "canonical:8ecb94421f2672b5": "2026-06-01T09:03:18.496Z",
     "canonical:e3b70e287d0e2aef": "2026-06-01T22:35:57.770Z",
     "canonical:b4a502570f796f0f": "2026-06-01T22:35:57.770Z",
@@ -940,7 +934,6 @@
     "canonical:b711b2c0fb11507d": "2026-06-15T11:27:26.940Z",
     "canonical:f369d606bb40eeff": "2026-06-15T11:27:26.940Z",
     "canonical:13efad0dc5822e31": "2026-06-15T11:27:26.940Z",
-    "canonical:6bc98e794c801a9d": "2026-06-15T11:27:26.940Z",
     "canonical:085b2e5fe74779c0": "2026-06-15T11:27:26.940Z",
     "canonical:6d527ef635f8bf48": "2026-06-15T11:27:26.940Z",
     "canonical:a85de0a69dd67498": "2026-06-15T11:27:26.940Z",
@@ -982,7 +975,6 @@
     "canonical:8c76e328dc89930b": "2026-06-17T01:40:00.105Z",
     "canonical:7dd7406c98f752b3": "2026-06-17T01:40:00.105Z",
     "canonical:fe20009b43ec4446": "2026-06-17T01:40:00.105Z",
-    "canonical:63670afc972c356a": "2026-06-17T01:40:00.105Z",
     "canonical:6ffa897914455e5d": "2026-06-17T01:40:00.105Z",
     "canonical:2565863a1e23cabe": "2026-06-17T01:40:00.105Z",
     "canonical:739d08f7f355d918": "2026-06-17T01:40:00.105Z",
@@ -1112,7 +1104,13 @@
     "canonical:97f386a84a1889d1": "2026-06-26T20:53:14.486Z",
     "canonical:c913ff9d74716a9b": "2026-06-27T23:53:52.333Z",
     "canonical:f3a1eff98d8da5ba": "2026-06-28T06:45:31.851Z",
-    "canonical:52ac108893ce480f": "2026-06-28T06:45:31.851Z"
+    "canonical:52ac108893ce480f": "2026-06-28T06:45:31.851Z",
+    "canonical:213d463a36c92170": "2026-06-28T09:52:26.057Z",
+    "canonical:cbb2914bff9402e9": "2026-06-28T09:52:26.057Z",
+    "canonical:a6656b7d355386f5": "2026-06-28T09:52:26.057Z",
+    "canonical:4d863ac16d10f977": "2026-06-28T09:52:26.057Z",
+    "canonical:b2e9f25c7050186e": "2026-06-28T09:52:26.057Z",
+    "canonical:ef667d829f183cb5": "2026-06-28T09:52:26.057Z"
   },
   "jobs": [
     {
@@ -5067,18 +5065,6 @@
       ]
     },
     {
-      "id": "canonical:02f57f3546feb41b",
-      "title": "Quantitative Trader Intern - PhD 2026",
-      "url": "https://www.tower-research.com/open-positions/?gh_jid=7062370",
-      "location": "NYC",
-      "department": "Quant",
-      "company": "Tower Research Capital",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:f6d52c60d3d83059",
       "title": "PhD Autonomy Engineer Intern - Deep Learning or Computer Vision",
       "url": "https://jobs.ashbyhq.com/skydio/8d3979a8-c791-4825-8cf4-9b25479b9519/application",
@@ -5575,19 +5561,6 @@
       ]
     },
     {
-      "id": "canonical:ebfbb21978a45764",
-      "title": "Member of Technical Staff – Intern",
-      "url": "https://jobs.ashbyhq.com/gimlet/23e10dd6-e7c5-43f0-b14e-54ab999fccd9/application",
-      "location": "SF",
-      "department": "Software",
-      "company": "Gimlet Labs",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:1ff85e8ca14b40b6",
       "title": "Product Operations Intern",
       "url": "https://job-boards.greenhouse.io/instawork/jobs/4588237006",
@@ -5882,19 +5855,6 @@
       ]
     },
     {
-      "id": "canonical:6bc98e794c801a9d",
-      "title": "Machine Learning Engineer Intern - Trust and Safety - CV/NLP/Multimodal LLM",
-      "url": "https://lifeattiktok.com/search/7527589557336869138",
-      "location": "San Jose, CA",
-      "department": "AI/ML/Data",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:02233db9458d09d9",
       "title": "Software Engineer Intern - Experimentation & Evaluation - Data Platform",
       "url": "https://lifeattiktok.com/search/7534793633532479751",
@@ -5926,19 +5886,6 @@
       "url": "https://lifeattiktok.com/search/7532460740410738952",
       "location": "San Jose, CA",
       "department": "Software",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:236461b451156888",
-      "title": "Machine Learning Engineer Intern - Monetization Technology - Ads Creative",
-      "url": "https://lifeattiktok.com/search/7532464949135313159",
-      "location": "San Jose, CA",
-      "department": "AI/ML/Data",
       "company": "TikTok",
       "score": 85,
       "scoreReasons": [
@@ -6017,19 +5964,6 @@
       "url": "https://lifeattiktok.com/search/7532444719809628424",
       "location": "San Jose, CA",
       "department": "Software",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:2fc531ef306b7506",
-      "title": "Machine Learning Engineer Intern - Data-Search-Tiktok Recommendation Team",
-      "url": "https://lifeattiktok.com/search/7535234137146444040",
-      "location": "Seattle, WA",
-      "department": "AI/ML/Data",
       "company": "TikTok",
       "score": 85,
       "scoreReasons": [
@@ -8651,19 +8585,6 @@
       ]
     },
     {
-      "id": "canonical:f37a3bfdec6850a3",
-      "title": "ALM Scripting & Reporting Intern",
-      "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/ALM-Scripting---Reporting-Intern_R1012816",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Hitachi",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:f27c30f5eef5d1fb",
       "title": "PhD Software Engineer Intern - Decision Intelligence",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522",
@@ -9259,20 +9180,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:3006133af70a93bd",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1/application",
-      "location": "San Mateo, CA",
-      "department": "Software",
-      "company": "Replit",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -11854,19 +11761,6 @@
       ]
     },
     {
-      "id": "canonical:63670afc972c356a",
-      "title": "Data Analytics Intern",
-      "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Data-Analytics_2601688",
-      "location": "Stamford, CT",
-      "department": "AI/ML/Data",
-      "company": "Synchrony Financial",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:6ffa897914455e5d",
       "title": "Data Analyst Co-op/Intern",
       "url": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9152",
@@ -13016,6 +12910,83 @@
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:213d463a36c92170",
+      "title": "Research Intern - 3D Vision and Generation - Self-Driving",
+      "url": "https://jobs.ashbyhq.com/applied/91e0686e-272a-4780-b33d-d7860b94a7b4/application",
+      "location": "Sunnyvale, CA",
+      "department": "AI/ML/Data",
+      "company": "Applied Intuition",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:cbb2914bff9402e9",
+      "title": "Research Intern - Reinforcement Learning - Self-Driving",
+      "url": "https://jobs.ashbyhq.com/applied/ce58d9fd-f22b-4336-80b5-ba1e8d764526/application",
+      "location": "Sunnyvale, CA",
+      "department": "AI/ML/Data",
+      "company": "Applied Intuition",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:a6656b7d355386f5",
+      "title": "Research Intern - Robotic Hardware - Simulation and Data",
+      "url": "https://jobs.ashbyhq.com/applied/5bb0567a-8d07-4cc4-be7c-c06b31361883/application",
+      "location": "Sunnyvale, CA",
+      "department": "AI/ML/Data",
+      "company": "Applied Intuition",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:4d863ac16d10f977",
+      "title": "RTOS development Intern",
+      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Intern---RTOS-development_J000699511-1",
+      "location": "Kanata, Ottawa, ON, Canada",
+      "department": "Hardware",
+      "company": "Aptiv",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:b2e9f25c7050186e",
+      "title": "Lab Automation Vision AI Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5170708007",
+      "location": "San Bruno, CA",
+      "department": "AI/ML/Data",
+      "company": "Xaira Therapeutics",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ef667d829f183cb5",
+      "title": "Maps Intern",
+      "url": "https://www.zipline.com/open-roles?gh_jid=7787868003",
+      "location": "San Bruno, CA",
+      "department": "AI/ML/Data",
+      "company": "Zipline",
+      "score": 60,
+      "scoreReasons": [
         "high-signal role"
       ]
     },
