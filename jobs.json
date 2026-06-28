@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T02:31:23.435Z",
+  "generatedAt": "2026-06-28T06:45:31.851Z",
   "companyCount": 64,
   "okCount": 63,
   "jobCount": 1109,
@@ -302,7 +302,6 @@
     "canonical:c340b9c31add6dab": "2026-05-09T15:28:15.527Z",
     "canonical:f35108fd0847ebf1": "2026-05-09T15:28:15.527Z",
     "canonical:23c3f9ce43d5618a": "2026-05-09T15:28:15.527Z",
-    "canonical:f4003a3b08e495be": "2026-05-09T15:28:15.527Z",
     "canonical:5b6e6fe93577551b": "2026-05-09T15:28:15.527Z",
     "canonical:c1e0e4342bafb79e": "2026-05-09T15:28:15.527Z",
     "canonical:325ed7972e038b2d": "2026-05-09T15:28:15.527Z",
@@ -945,7 +944,6 @@
     "canonical:085b2e5fe74779c0": "2026-06-15T11:27:26.940Z",
     "canonical:6d527ef635f8bf48": "2026-06-15T11:27:26.940Z",
     "canonical:a85de0a69dd67498": "2026-06-15T11:27:26.940Z",
-    "canonical:e11f57922dc27c72": "2026-06-15T11:27:26.940Z",
     "canonical:c51de5622a75f93e": "2026-06-15T11:27:26.940Z",
     "canonical:38f37f3ad8017ec7": "2026-06-15T11:27:26.940Z",
     "canonical:cc5a5127977b4ab5": "2026-06-15T11:27:26.940Z",
@@ -1112,7 +1110,9 @@
     "canonical:329c5df3b6fcd7b0": "2026-06-26T17:12:38.564Z",
     "canonical:1f4885c46cec6b73": "2026-06-26T19:02:49.713Z",
     "canonical:97f386a84a1889d1": "2026-06-26T20:53:14.486Z",
-    "canonical:c913ff9d74716a9b": "2026-06-27T23:53:52.333Z"
+    "canonical:c913ff9d74716a9b": "2026-06-27T23:53:52.333Z",
+    "canonical:f3a1eff98d8da5ba": "2026-06-28T06:45:31.851Z",
+    "canonical:52ac108893ce480f": "2026-06-28T06:45:31.851Z"
   },
   "jobs": [
     {
@@ -6025,19 +6025,6 @@
       ]
     },
     {
-      "id": "canonical:e11f57922dc27c72",
-      "title": "General Hire – Machine Learning Engineer Intern - Tiktok-Recommendation - 2026 Summer",
-      "url": "https://lifeattiktok.com/search/7527065936093858055",
-      "location": "San Jose, CA",
-      "department": "AI/ML/Data",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:2fc531ef306b7506",
       "title": "Machine Learning Engineer Intern - Data-Search-Tiktok Recommendation Team",
       "url": "https://lifeattiktok.com/search/7535234137146444040",
@@ -6353,19 +6340,6 @@
       "id": "canonical:23c3f9ce43d5618a",
       "title": "Backend Software Engineer Intern - Foundation Platform",
       "url": "https://lifeattiktok.com/search/7538307729329277202",
-      "location": "San Jose, CA",
-      "department": "Software",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:f4003a3b08e495be",
-      "title": "Software Engineer Intern - Live Service - BS/MS",
-      "url": "https://lifeattiktok.com/search/7538314547103762696",
       "location": "San Jose, CA",
       "department": "Software",
       "company": "TikTok",
@@ -13016,6 +12990,32 @@
       "company": "Photon",
       "score": 60,
       "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:f3a1eff98d8da5ba",
+      "title": "Machine Learning Engineer Intern",
+      "url": "https://lifeattiktok.com/search/7534855949620119815",
+      "location": "San Jose, CA",
+      "department": "AI/ML/Data",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:52ac108893ce480f",
+      "title": "Machine Learning Engineer Intern - Tiktok-Recommendation",
+      "url": "https://lifeattiktok.com/search/7527065936093858055",
+      "location": "San Jose, CA",
+      "department": "AI/ML/Data",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },
