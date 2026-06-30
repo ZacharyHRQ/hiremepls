@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-30T12:27:15.947Z",
+  "generatedAt": "2026-06-30T15:08:09.560Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1097,
+  "jobCount": 1098,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -39,7 +39,6 @@
     "canonical:de418532baaaab87": "2026-05-06T06:42:07.596Z",
     "canonical:1deca2b01fe852c8": "2026-05-06T06:42:07.596Z",
     "canonical:c15d80ab1065f4f1": "2026-05-06T06:42:07.596Z",
-    "canonical:c7d45c381b9830d8": "2026-05-06T06:42:07.596Z",
     "canonical:7c6db6e223273197": "2026-05-06T06:42:07.596Z",
     "canonical:c3741eefab6317c5": "2026-05-06T06:42:07.596Z",
     "canonical:bf3ff121b06c08eb": "2026-05-06T06:42:07.596Z",
@@ -1100,7 +1099,9 @@
     "canonical:f675f8273d9a1aff": "2026-06-28T11:41:12.049Z",
     "canonical:13efad0dc5822e31": "2026-06-28T13:03:33.953Z",
     "canonical:233ce7681b43b059": "2026-06-28T13:03:33.953Z",
-    "canonical:2c4e07bd36facad2": "2026-06-30T12:27:15.947Z"
+    "canonical:2c4e07bd36facad2": "2026-06-30T12:27:15.947Z",
+    "canonical:237d450fb53de3f4": "2026-06-30T15:08:09.560Z",
+    "canonical:157a48af4fed8855": "2026-06-30T15:08:09.560Z"
   },
   "jobs": [
     {
@@ -1645,6 +1646,20 @@
       ]
     },
     {
+      "id": "canonical:237d450fb53de3f4",
+      "title": "Quantitative Developer, Intern",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4847714101",
+      "location": "Hong Kong",
+      "department": "",
+      "company": "Man Group",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:c15d80ab1065f4f1",
       "title": "Quantitative Developer, Intern",
       "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4847708101",
@@ -1659,21 +1674,8 @@
       ]
     },
     {
-      "id": "canonical:c7d45c381b9830d8",
-      "title": "Quantitative Research Intern – Specialist Equities",
-      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4847714101",
-      "location": "Hong Kong",
-      "department": "",
-      "company": "Man Group",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:68e56daf264ad19e",
-      "title": "Quant Research Analyst, Intern",
+      "title": "Quant Research Analyst Intern",
       "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4872158101",
       "location": "Shanghai ",
       "department": "",
@@ -12854,6 +12856,19 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:157a48af4fed8855",
+      "title": "Programming Intern",
+      "url": "https://job-boards.greenhouse.io/studiokraftonboard/jobs/8613468002",
+      "location": "Montreal, QC, Canada",
+      "department": "Software",
+      "company": "KRAFTON",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {

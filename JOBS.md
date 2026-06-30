@@ -1,6 +1,6 @@
 # Open Internships
 
-**1097** internships across **63/64** companies — last updated 2026-06-30.
+**1098** internships across **63/64** companies — last updated 2026-06-30.
 
 ## Companies
 
@@ -235,6 +235,7 @@
 - [KLA](#kla) (1)
 - [Kognitos](#kognitos) (1)
 - [KPH Healthcare Services](#kph-healthcare-services) (1)
+- [KRAFTON](#krafton) (1)
 - [Kudu Dynamics](#kudu-dynamics) (1)
 - [Lambda](#lambda) (3)
 - [Landis+Gyr](#landis-gyr) (1)
@@ -2034,6 +2035,12 @@
 | --- | --- | --- | --- | --- |
 | [Business Intelligence Intern](https://kphcareers-kphhealthcareservices.icims.com/jobs/14851/job?mobile=true&needsRedirect=false) | 60 | Syracuse, NY | AI/ML/Data | 2026-06-13 |
 
+## KRAFTON
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Programming Intern](https://job-boards.greenhouse.io/studiokraftonboard/jobs/8613468002) | 68 | Montreal, QC, Canada | Software | 2026-06-30 |
+
 ## Kudu Dynamics
 
 | Title | Score | Location | Department | First seen |
@@ -2132,10 +2139,10 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Quantitative Developer, Intern](https://job-boards.eu.greenhouse.io/mangroup/jobs/4847714101) | 93 | Hong Kong | — | 2026-06-30 |
 | [2026 Technology Graduate Programme – Platform Engineer](https://job-boards.eu.greenhouse.io/mangroup/jobs/4682393101) | 99 | London | — | 2026-06-17 |
-| [Quant Research Analyst, Intern](https://job-boards.eu.greenhouse.io/mangroup/jobs/4872158101) | 68 | Shanghai | — | 2026-06-10 |
+| [Quant Research Analyst Intern](https://job-boards.eu.greenhouse.io/mangroup/jobs/4872158101) | 68 | Shanghai | — | 2026-06-10 |
 | [Quantitative Developer, Intern](https://job-boards.eu.greenhouse.io/mangroup/jobs/4847708101) | 93 | Shanghai | — | 2026-05-06 |
-| [Quantitative Research Intern – Specialist Equities](https://job-boards.eu.greenhouse.io/mangroup/jobs/4847714101) | 68 | Hong Kong | — | 2026-05-06 |
 
 ## Marathon Petroleum Corporation
 
