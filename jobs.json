@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T22:37:02.918Z",
+  "generatedAt": "2026-06-30T23:47:58.468Z",
   "companyCount": 64,
   "okCount": 63,
   "jobCount": 1098,
@@ -1186,10 +1186,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1201,10 +1201,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1416,10 +1416,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1430,10 +1430,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1646,10 +1646,10 @@
       ]
     },
     {
-      "id": "canonical:c15d80ab1065f4f1",
+      "id": "canonical:237d450fb53de3f4",
       "title": "Quantitative Developer, Intern",
-      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4847708101",
-      "location": "Shanghai ",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4847714101",
+      "location": "Hong Kong",
       "department": "",
       "company": "Man Group",
       "score": 93,
@@ -1660,10 +1660,10 @@
       ]
     },
     {
-      "id": "canonical:237d450fb53de3f4",
+      "id": "canonical:c15d80ab1065f4f1",
       "title": "Quantitative Developer, Intern",
-      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4847714101",
-      "location": "Hong Kong",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4847708101",
+      "location": "Shanghai ",
       "department": "",
       "company": "Man Group",
       "score": 93,
