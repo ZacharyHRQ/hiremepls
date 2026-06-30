@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T10:17:55.030Z",
+  "generatedAt": "2026-06-30T12:27:15.947Z",
   "companyCount": 64,
   "okCount": 63,
   "jobCount": 1097,
@@ -1070,7 +1070,6 @@
     "canonical:0b3bb1d389c70a8e": "2026-06-24T01:21:54.211Z",
     "canonical:5cb52fbcbb978dd9": "2026-06-24T05:13:57.648Z",
     "canonical:faeb4a16f7862bfe": "2026-06-24T05:13:57.648Z",
-    "canonical:8e061b886dda2b5f": "2026-06-24T08:33:15.748Z",
     "canonical:efeb516c369ef725": "2026-06-24T08:33:15.748Z",
     "canonical:4c52bc9beda41fba": "2026-06-24T11:27:27.491Z",
     "canonical:f4f9e8ec69b4f65f": "2026-06-24T13:34:22.889Z",
@@ -1100,7 +1099,8 @@
     "canonical:6bc98e794c801a9d": "2026-06-28T11:41:12.049Z",
     "canonical:f675f8273d9a1aff": "2026-06-28T11:41:12.049Z",
     "canonical:13efad0dc5822e31": "2026-06-28T13:03:33.953Z",
-    "canonical:233ce7681b43b059": "2026-06-28T13:03:33.953Z"
+    "canonical:233ce7681b43b059": "2026-06-28T13:03:33.953Z",
+    "canonical:2c4e07bd36facad2": "2026-06-30T12:27:15.947Z"
   },
   "jobs": [
     {
@@ -1403,10 +1403,10 @@
       ]
     },
     {
-      "id": "canonical:8e061b886dda2b5f",
-      "title": "Corporate Access Intern",
+      "id": "canonical:2c4e07bd36facad2",
+      "title": "Corporate Access, off-cycle internship (6-months) – Japanese speaking",
       "url": "https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002",
-      "location": "Singapore",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 58,
