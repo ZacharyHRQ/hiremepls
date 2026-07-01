@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-01T10:37:16.482Z",
+  "generatedAt": "2026-07-01T13:21:48.812Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1050,
+  "jobCount": 1053,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -822,7 +822,6 @@
     "canonical:fb0b6401fc50cfcd": "2026-06-15T11:27:26.940Z",
     "canonical:8a584693aa3805ae": "2026-06-15T16:25:40.601Z",
     "canonical:36b00da4bc44f6c0": "2026-06-16T10:25:08.571Z",
-    "canonical:bc566a628b0a1bc8": "2026-06-16T15:25:00.747Z",
     "canonical:5c3a7585df271d94": "2026-06-16T15:25:00.747Z",
     "canonical:1e4b260af71102a2": "2026-06-16T15:25:00.747Z",
     "canonical:e6d9cce14ccbac53": "2026-06-16T15:25:00.747Z",
@@ -895,7 +894,6 @@
     "canonical:40422883ab62a6e2": "2026-06-21T08:40:00.766Z",
     "canonical:5c5c4aaee7bd2d24": "2026-06-21T11:34:18.126Z",
     "canonical:b04cfd3af2687e8f": "2026-06-21T11:34:18.126Z",
-    "canonical:c1817238d89b26e3": "2026-06-22T19:32:14.187Z",
     "canonical:c2b89946ce467519": "2026-06-22T19:32:14.187Z",
     "canonical:bd4e181d83e4431b": "2026-06-22T23:11:18.221Z",
     "canonical:5703b8a0a55c3350": "2026-06-23T00:19:39.353Z",
@@ -1053,7 +1051,12 @@
     "canonical:be0ca973b33fd295": "2026-07-01T10:37:16.482Z",
     "canonical:a97e739f9a8800b0": "2026-07-01T10:37:16.482Z",
     "canonical:48e5ba9e2ea1ea09": "2026-07-01T10:37:16.482Z",
-    "canonical:14b5de662f626aec": "2026-07-01T10:37:16.482Z"
+    "canonical:14b5de662f626aec": "2026-07-01T10:37:16.482Z",
+    "canonical:3e99f48994d7f7b8": "2026-07-01T13:21:48.812Z",
+    "canonical:ec6c557283333a45": "2026-07-01T13:21:48.812Z",
+    "canonical:4168fcd2f5f91a08": "2026-07-01T13:21:48.812Z",
+    "canonical:ce890d51c1a61aab": "2026-07-01T13:21:48.812Z",
+    "canonical:83d8fee89b1f4154": "2026-07-01T13:21:48.812Z"
   },
   "jobs": [
     {
@@ -1138,10 +1141,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1153,10 +1156,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1237,6 +1240,16 @@
       "id": "canonical:f19356427cc4650c",
       "title": "2027 Portfolio Implementation, Trading and Portfolio Finance Summer Analyst",
       "url": "https://careers.aqr.com/jobs?gh_jid=7895562&gh_jid=7895562",
+      "location": "Greenwich, CT",
+      "department": "",
+      "company": "AQR",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:3e99f48994d7f7b8",
+      "title": "2027 Portfolio Solutions Group Summer Analyst",
+      "url": "https://careers.aqr.com/jobs?gh_jid=8041362&gh_jid=8041362",
       "location": "Greenwich, CT",
       "department": "",
       "company": "AQR",
@@ -1519,15 +1532,14 @@
       ]
     },
     {
-      "id": "canonical:bc566a628b0a1bc8",
-      "title": "2026 BSc/MSc/PhD Quantitative Researcher Internship",
+      "id": "canonical:ec6c557283333a45",
+      "title": "2026 BSc/MSc/PhD Quantitative Research/Strat Internship",
       "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7950797",
       "location": "São Paulo, Brazil",
       "department": "",
       "company": "Schonfeld",
-      "score": 93,
+      "score": 68,
       "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -6553,6 +6565,20 @@
       ]
     },
     {
+      "id": "canonical:4168fcd2f5f91a08",
+      "title": "Software Developer in Test Intern",
+      "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-in-Test-Intern--September-2026-12-Months-_R10064",
+      "location": "Mississauga, ON, Canada",
+      "department": "Software",
+      "company": "SOTI",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:8e6a874ae67bbc06",
       "title": "Data Analyst Intern - Power Control Center",
       "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/onr7zfwe?nl=1&nl=1&fr=false",
@@ -8503,19 +8529,6 @@
       ]
     },
     {
-      "id": "canonical:c1817238d89b26e3",
-      "title": "FP&A Business Intelligence Intern",
-      "url": "https://brambles.wd5.myworkdayjobs.com/en-US/Brambles_Careers/job/London-England-United-Kingdom/FP-A-Business-Intelligence-Intern_JR23946-1",
-      "location": "London, UK / Orlando, FL / Atlanta, GA",
-      "department": "AI/ML/Data",
-      "company": "CHEP",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:1903ea6b0e57aeaa",
       "title": "Generative AI Engineer Intern",
       "url": "https://careers-peraton.icims.com/jobs/167460/job?mobile=true&needsRedirect=false",
@@ -8572,6 +8585,19 @@
       "location": "Santa Clara, CA",
       "department": "AI/ML/Data",
       "company": "XPENG Motors",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ce890d51c1a61aab",
+      "title": "Web Producer Intern",
+      "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Web-Producer-Intern--September-2026-12-Months-_R10090",
+      "location": "Mississauga, ON, Canada",
+      "department": "Software",
+      "company": "SOTI",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -12253,6 +12279,19 @@
       "location": "Remote in USA",
       "department": "AI/ML/Data",
       "company": "Crowdstrike",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:83d8fee89b1f4154",
+      "title": "Facilities Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Facilities-Engineering-Undergraduate-Intern_JR0285184",
+      "location": "Hillsboro, OR / Phoenix, AZ",
+      "department": "AI/ML/Data",
+      "company": "Intel",
       "score": 68,
       "scoreReasons": [
         "high-signal role",

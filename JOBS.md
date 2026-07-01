@@ -1,6 +1,6 @@
 # Open Internships
 
-**1050** internships across **63/64** companies — last updated 2026-07-01.
+**1053** internships across **63/64** companies — last updated 2026-07-01.
 
 ## Companies
 
@@ -33,7 +33,7 @@
 - [Apple](#apple) (15)
 - [Applied Intuition](#applied-intuition) (3)
 - [Aptiv](#aptiv) (1)
-- [AQR](#aqr) (7)
+- [AQR](#aqr) (8)
 - [Aquatic Capital](#aquatic-capital) (1)
 - [Ardian](#ardian) (1)
 - [Arine](#arine) (1)
@@ -90,7 +90,6 @@
 - [Center for AI Safety](#center-for-ai-safety) (1)
 - [Centerfield](#centerfield) (2)
 - [Chartwells Higher Education Dining Services](#chartwells-higher-education-dining-services) (1)
-- [CHEP](#chep) (1)
 - [Cherry Bekaert](#cherry-bekaert) (2)
 - [Ciena](#ciena) (2)
 - [Cirrus Logic](#cirrus-logic) (2)
@@ -210,7 +209,7 @@
 - [Instead](#instead) (1)
 - [Institute of Foundation Models](#institute-of-foundation-models) (3)
 - [Integra FEC](#integra-fec) (3)
-- [Intel](#intel) (4)
+- [Intel](#intel) (5)
 - [Interac](#interac) (1)
 - [Intercontinental Exchange, Inc.](#intercontinental-exchange-inc) (1)
 - [Interdigital](#interdigital) (1)
@@ -374,7 +373,7 @@
 - [SoloPulse](#solopulse) (2)
 - [Solva](#solva) (1)
 - [Sony](#sony) (2)
-- [SOTI](#soti) (2)
+- [SOTI](#soti) (4)
 - [SpaceX](#spacex) (3)
 - [Squarepoint Capital](#squarepoint-capital) (4)
 - [StarSling](#starsling) (1)
@@ -668,6 +667,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [2027 Portfolio Solutions Group Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8041362&gh_jid=8041362) | 50 | Greenwich, CT | — | 2026-07-01 |
 | [2027 Front Office Development Engineering Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7957728&gh_jid=7957728) | 50 | Greenwich, CT | — | 2026-05-26 |
 | [2027 Business Development Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) | 50 | Greenwich, CT | — | 2026-05-15 |
 | [2027 Engineering Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926647&gh_jid=7926647) | 50 | Greenwich, CT | — | 2026-05-15 |
@@ -1078,12 +1078,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Field Marketing Intern, Chartwells Higher Ed / University of North Carolina](https://www.linkedin.com/jobs/view/4261076817) | 22 | Charlotte, NC | — | 2026-05-16 |
-
-## CHEP
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [FP&A Business Intelligence Intern](https://brambles.wd5.myworkdayjobs.com/en-US/Brambles_Careers/job/London-England-United-Kingdom/FP-A-Business-Intelligence-Intern_JR23946-1) | 68 | London, UK / Orlando, FL / Atlanta, GA | AI/ML/Data | 2026-06-22 |
 
 ## Cherry Bekaert
 
@@ -1828,8 +1822,8 @@
 | --- | --- | --- | --- | --- |
 | [Graduate Quantitative Researcher](https://job-boards.eu.greenhouse.io/imc/jobs/4892687101) | 99 | Zug, Switzerland | — | 2026-06-12 |
 | [Hardware Machine Learning PhD Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, IL | AI/ML/Data | 2026-05-09 |
-| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
+| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Hardware Machine Learning PhD Research Internship](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, United States | — | 2026-05-06 |
 | [Graduate Floor Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4786701101) | 64 | Chicago, United States; Miami, United States; New York, United States; Philadelphia, United States; San Francisco, United States | — | 2026-05-06 |
 
@@ -1886,6 +1880,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Facilities Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Facilities-Engineering-Undergraduate-Intern_JR0285184) | 68 | Hillsboro, OR / Phoenix, AZ | AI/ML/Data | 2026-07-01 |
 | [Silicon Performance Validation and Characterization Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Silicon-Performance-Validation-and-Characterization-Intern_JR0284310) | 58 | Phoenix, AZ | Hardware | 2026-06-20 |
 | [Silicon Architecture Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Silicon-Architecture-Graduate-Intern_JR0283607) | 64 | Austin, TX / Santa Clara, CA / Hillsboro, OR / Folsom, CA | Hardware | 2026-06-17 |
 | [AI Software Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641) | 93 | Phoenix, AZ | Software | 2026-06-13 |
@@ -2932,7 +2927,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [2026 BSc/MSc/PhD Quantitative Researcher Internship](https://job-boards.greenhouse.io/schonfeld/jobs/7950797) | 93 | São Paulo, Brazil | — | 2026-06-16 |
+| [2026 BSc/MSc/PhD Quantitative Research/Strat Internship](https://job-boards.greenhouse.io/schonfeld/jobs/7950797) | 68 | São Paulo, Brazil | — | 2026-07-01 |
 | [2026 LATAM Investment Analyst (Internship)](https://job-boards.greenhouse.io/schonfeld/jobs/7761282) | 58 | São Paulo, Brazil | — | 2026-06-16 |
 | [2026 LATAM Operations Analyst (Internship)](https://job-boards.greenhouse.io/schonfeld/jobs/8008507) | 58 | São Paulo, Brazil | — | 2026-06-16 |
 | [Quantitative Research / Developer - Intern](https://job-boards.greenhouse.io/schonfeld/jobs/7185553) | 93 | Hong Kong, Hong Kong | — | 2026-05-06 |
@@ -3061,6 +3056,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Developer in Test Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-in-Test-Intern--September-2026-12-Months-_R10064) | 93 | Mississauga, ON, Canada | Software | 2026-07-01 |
+| [Web Producer Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Web-Producer-Intern--September-2026-12-Months-_R10090) | 68 | Mississauga, ON, Canada | Software | 2026-07-01 |
 | [Data Scientist Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--September-2026-12-Months-_R10065) | 93 | Mississauga, ON, Canada | AI/ML/Data | 2026-07-01 |
 | [Software Developer Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--September-2026-12-Months-_R09971) | 93 | Mississauga, ON, Canada | Software | 2026-06-13 |
 
