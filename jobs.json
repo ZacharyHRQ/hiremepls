@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-01T18:14:22.942Z",
+  "generatedAt": "2026-07-01T20:14:55.212Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1057,
+  "jobCount": 1055,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -573,7 +573,6 @@
     "canonical:5356f8a7b55607a4": "2026-05-27T17:38:56.111Z",
     "canonical:dde05a729f5089a8": "2026-05-27T17:38:56.111Z",
     "canonical:3cf93a383a96261f": "2026-05-27T17:38:56.111Z",
-    "canonical:eceb8a789d5ce53e": "2026-05-27T17:38:56.111Z",
     "canonical:73cd4f2761a3469b": "2026-05-27T21:45:52.221Z",
     "canonical:e0d5ce31dfaf1a2a": "2026-05-27T21:45:52.221Z",
     "canonical:55deb68272c97b7f": "2026-05-27T21:45:52.221Z",
@@ -933,7 +932,6 @@
     "canonical:cbb2914bff9402e9": "2026-06-28T09:52:26.057Z",
     "canonical:a6656b7d355386f5": "2026-06-28T09:52:26.057Z",
     "canonical:4d863ac16d10f977": "2026-06-28T09:52:26.057Z",
-    "canonical:b2e9f25c7050186e": "2026-06-28T09:52:26.057Z",
     "canonical:ef667d829f183cb5": "2026-06-28T09:52:26.057Z",
     "canonical:6bc98e794c801a9d": "2026-06-28T11:41:12.049Z",
     "canonical:f675f8273d9a1aff": "2026-06-28T11:41:12.049Z",
@@ -2178,7 +2176,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -7977,19 +7975,6 @@
       ]
     },
     {
-      "id": "canonical:eceb8a789d5ce53e",
-      "title": "Revenue Operations Intern - Insights & Analytics",
-      "url": "https://alteryx.wd108.myworkdayjobs.com/AlteryxCareers/job/Irvine-California/Revenue-Operations--Insights---Analytics--Intern_R12175",
-      "location": "Irvine, CA",
-      "department": "AI/ML/Data",
-      "company": "Alteryx",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:ebdb73f1d53cde75",
       "title": "Engineering ADAS Perception Features Intern",
       "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235438",
@@ -11215,20 +11200,6 @@
       "company": "Aptiv",
       "score": 58,
       "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:b2e9f25c7050186e",
-      "title": "Lab Automation Vision AI Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5170708007",
-      "location": "San Bruno, CA",
-      "department": "AI/ML/Data",
-      "company": "Xaira Therapeutics",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
         "direct ATS"
       ]
     },

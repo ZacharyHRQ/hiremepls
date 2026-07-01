@@ -1,6 +1,6 @@
 # Open Internships
 
-**1057** internships across **63/64** companies — last updated 2026-07-01.
+**1055** internships across **63/64** companies — last updated 2026-07-01.
 
 ## Companies
 
@@ -20,7 +20,6 @@
 - [Agilent Technologies](#agilent-technologies) (1)
 - [Al Warren Oil Company](#al-warren-oil-company) (1)
 - [Altasciences](#altasciences) (1)
-- [Alteryx](#alteryx) (1)
 - [Altom Transport](#altom-transport) (1)
 - [AMAROK Security](#amarok-security) (1)
 - [Amazon](#amazon) (12)
@@ -449,7 +448,6 @@
 - [Workato](#workato) (1)
 - [WSP](#wsp) (1)
 - [WTW](#wtw) (1)
-- [Xaira Therapeutics](#xaira-therapeutics) (1)
 - [XPENG Motors](#xpeng-motors) (2)
 - [Zip](#zip) (1)
 - [Zipline](#zipline) (7)
@@ -552,12 +550,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://altasciences.wd1.myworkdayjobs.com/Careers/job/Overland-Park-Kansas/Process-Innovation---Software-Engineering-Intern_R102750) | 93 | Overland Park, KS | Software | 2026-07-01 |
-
-## Alteryx
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Revenue Operations Intern - Insights & Analytics](https://alteryx.wd108.myworkdayjobs.com/AlteryxCareers/job/Irvine-California/Revenue-Operations--Insights---Analytics--Intern_R12175) | 68 | Irvine, CA | AI/ML/Data | 2026-05-27 |
 
 ## Altom Transport
 
@@ -1134,7 +1126,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
 | [Sales Project Manager Intern (AI Innovation) (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8020830?gh_jid=8020830) | 38 | In-Office | — | 2026-06-23 |
 | [Legal Intern – Commercial Legal (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7983674?gh_jid=7983674) | 58 | In-Office | — | 2026-06-05 |
 | [People Team Intern - HR Operations & AI Innovation (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240) | 58 | In-Office | — | 2026-05-20 |
@@ -3724,12 +3716,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Developer Intern](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202600804) | 85 | Dorking, UK | Software | 2026-05-09 |
-
-## Xaira Therapeutics
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Lab Automation Vision AI Engineer Intern](https://job-boards.greenhouse.io/xairatherapeutics/jobs/5170708007) | 93 | San Bruno, CA | AI/ML/Data | 2026-06-28 |
 
 ## XPENG Motors
 
