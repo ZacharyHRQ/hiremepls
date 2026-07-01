@@ -1,6 +1,6 @@
 # Open Internships
 
-**1053** internships across **63/64** companies — last updated 2026-07-01.
+**1045** internships across **63/64** companies — last updated 2026-07-01.
 
 ## Companies
 
@@ -97,7 +97,7 @@
 - [Citadel Securities](#citadel-securities) (4)
 - [Clarity Innovations](#clarity-innovations) (1)
 - [Clera](#clera) (1)
-- [Cloudflare](#cloudflare) (11)
+- [Cloudflare](#cloudflare) (8)
 - [Cloudforce](#cloudforce) (1)
 - [Codeage](#codeage) (1)
 - [Cohere](#cohere) (3)
@@ -319,7 +319,7 @@
 - [PlusAI](#plusai) (19)
 - [Podium](#podium) (2)
 - [Point C](#point-c) (1)
-- [Point72](#point72) (21)
+- [Point72](#point72) (20)
 - [pony.ai](#pony-ai) (2)
 - [Poshmark](#poshmark) (1)
 - [Primetals Technologies](#primetals-technologies) (1)
@@ -358,7 +358,6 @@
 - [Schonfeld](#schonfeld) (4)
 - [Schweitzer Engineering Laboratories](#schweitzer-engineering-laboratories) (1)
 - [Seaspan](#seaspan) (2)
-- [Sedgwick Claims Management Services](#sedgwick-claims-management-services) (1)
 - [SHEIN](#shein) (2)
 - [Shenzhen ANQI SHISHANG Articles Co., ltd.](#shenzhen-anqi-shishang-articles-co-ltd) (1)
 - [Shopify](#shopify) (1)
@@ -368,7 +367,6 @@
 - [Skydio](#skydio) (2)
 - [Smiths Detection](#smiths-detection) (1)
 - [Snap](#snap) (1)
-- [Snap Finance](#snap-finance) (1)
 - [Snowflake](#snowflake) (12)
 - [SoloPulse](#solopulse) (2)
 - [Solva](#solva) (1)
@@ -379,7 +377,7 @@
 - [StarSling](#starsling) (1)
 - [Stevens Capital Management](#stevens-capital-management) (1)
 - [Stoke Space](#stoke-space) (1)
-- [Stripe](#stripe) (6)
+- [Stripe](#stripe) (5)
 - [Sun Life](#sun-life) (1)
 - [Sundt](#sundt) (2)
 - [Super](#super) (2)
@@ -423,7 +421,7 @@
 - [Trata](#trata) (1)
 - [True Manufacturing](#true-manufacturing) (1)
 - [Truland Equipment](#truland-equipment) (1)
-- [Truveta](#truveta) (2)
+- [Truveta](#truveta) (1)
 - [Uber](#uber) (1)
 - [UL Solutions](#ul-solutions) (1)
 - [Uncountable](#uncountable) (1)
@@ -1140,11 +1138,8 @@
 | [Sales Project Manager Intern (AI Innovation) (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8020830?gh_jid=8020830) | 38 | In-Office | — | 2026-06-23 |
 | [Legal Intern – Commercial Legal (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7983674?gh_jid=7983674) | 58 | In-Office | — | 2026-06-05 |
 | [People Team Intern - HR Operations & AI Innovation (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240) | 58 | In-Office | — | 2026-05-20 |
-| [Technical Support Engineer Intern (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7912382?gh_jid=7912382) | 58 | In-Office | — | 2026-05-13 |
 | [Network Engineering Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7917883?gh_jid=7917883) | 58 | In-Office | — | 2026-05-13 |
 | [Global Trade Compliance Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7799138?gh_jid=7799138) | 58 | In-Office | — | 2026-05-06 |
-| [People Operations Intern (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7855832?gh_jid=7855832) | 58 | In-Office | — | 2026-05-06 |
-| [People Team Business Partner intern (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7855864?gh_jid=7855864) | 58 | In-Office | — | 2026-05-06 |
 | [Threat Detection and Incident Response Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7577205?gh_jid=7577205) | 58 | In-Office | — | 2026-05-06 |
 | [Sales: Solutions Engineer - Intern (Summer & Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7792962?gh_jid=7792962) | 38 | In-Office | — | 2026-05-06 |
 
@@ -2675,7 +2670,6 @@
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
 | [Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7586061002?gh_jid=7586061002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Software Developer Intern](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) | 93 | New York, London, or Paris | — | 2026-05-06 |
-| [Summer 2027 Quantitative Developer Internship](https://boards.greenhouse.io/point72/jobs/7297613002?gh_jid=7297613002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Research Intern](https://boards.greenhouse.io/point72/jobs/7297667002?gh_jid=7297667002) | 68 | New York, Seattle | — | 2026-05-06 |
 | [Quantitative Research Intern (NLP)](https://boards.greenhouse.io/point72/jobs/8018862002?gh_jid=8018862002) | 68 | New York | — | 2026-05-06 |
 | [Summer 2027 Quantitative Research Internship](https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002) | 68 | New York | — | 2026-05-06 |
@@ -2945,12 +2939,6 @@
 | [Energy Management Intern](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8356) | 60 | Vancouver, BC, Canada | AI/ML/Data | 2026-06-10 |
 | [Digital Ship Intern](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8754) | 60 | Vancouver, BC, Canada | Software | 2026-06-08 |
 
-## Sedgwick Claims Management Services
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Analyst Intern](https://sedgwick.wd1.myworkdayjobs.com/en-US/Sedgwick/job/Telecommuter-TX/Data-Analyst_R75316) | 68 | New Mexico / Washington / Kansas / North Dakota / Oregon / Delaware / Iowa / California / Washington, DC / Vermont / Wyoming / Texas / Montana / Jackson Township, NJ / Florida / Waterbury, CT / Nevada / South Carolina / South Dakota / Georgia / Arizona / Concord, NH / Mississippi / Tennessee / Virginia / Arkansas / Minnesota / Colorado / Nebraska / Rhode Island / Utah / Kentucky / West Virginia / NYC / Maryland / U.S. Virgin Islands / Hawaii / Wisconsin / Maine / Massachusetts / North Carolina / Oklahoma / Missouri / Ohio / Indiana / Louisiana / Alaska / Michigan / Illinois / Alabama / Idaho | AI/ML/Data | 2026-07-01 |
-
 ## SHEIN
 
 | Title | Score | Location | Department | First seen |
@@ -3008,12 +2996,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Machine Learning Engineer Intern](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/London-United-Kingdom/Machine-Learning-Engineering-Intern_R0045123) | 85 | London, UK | AI/ML/Data | 2026-07-01 |
-
-## Snap Finance
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Analytics Intern](https://snapfinance.wd1.myworkdayjobs.com/snap_external_careers/job/Texas/Analytics-Intern_R-2830) | 68 | Texas | AI/ML/Data | 2026-07-01 |
 
 ## Snowflake
 
@@ -3101,7 +3083,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer, New Grad, Developer & End User Experience Platform](https://stripe.com/jobs/search?gh_jid=7991718) | 91 | Toronto | — | 2026-06-11 |
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974) | 85 | Toronto, Ontario, Canada | — | 2026-05-06 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7532256) | 85 | Sydney, Australia | — | 2026-05-06 |
 | [Software Engineering, New Grad](https://stripe.com/jobs/search?gh_jid=7176977) | 66 | Singapore | — | 2026-05-06 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | 56 | Mexico City, Mexico | — | 2026-05-06 |
@@ -3552,7 +3533,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Research Analyst Intern](https://job-boards.greenhouse.io/truveta/jobs/5973938004) | 68 | Seattle, WA | AI/ML/Data | 2026-07-01 |
 | [ML PhD Intern - LLMs & Generative AI](https://job-boards.greenhouse.io/truveta/jobs/5712997004) | 68 | Seattle, WA | Data Science, AI & Machine Learning | 2026-05-09 |
 
 ## Uber
