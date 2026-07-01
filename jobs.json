@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-01T21:48:47.656Z",
+  "generatedAt": "2026-07-01T23:02:00.772Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1050,
+  "jobCount": 1057,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -591,7 +591,6 @@
     "canonical:8ecb94421f2672b5": "2026-06-01T09:03:18.496Z",
     "canonical:e3b70e287d0e2aef": "2026-06-01T22:35:57.770Z",
     "canonical:b4a502570f796f0f": "2026-06-01T22:35:57.770Z",
-    "canonical:66ba15b883ef460c": "2026-06-01T22:35:57.770Z",
     "canonical:6cdd1633b8f5ce3a": "2026-06-01T23:55:48.935Z",
     "canonical:13e1acc0b159fe16": "2026-06-01T23:55:48.935Z",
     "canonical:21698b3026c5ea94": "2026-06-03T00:01:07.922Z",
@@ -750,7 +749,6 @@
     "canonical:90de0872641ecba5": "2026-06-12T12:01:29.803Z",
     "canonical:bbfacc40dc55a0ce": "2026-06-12T12:01:29.803Z",
     "canonical:07482cde11fc2d9b": "2026-06-12T15:35:58.050Z",
-    "canonical:c3f909dd643f2906": "2026-06-13T00:12:58.112Z",
     "canonical:e5b8024c19031c98": "2026-06-13T00:12:58.112Z",
     "canonical:ecf76b0599cdcaca": "2026-06-13T00:12:58.112Z",
     "canonical:b9b78ad7bc2e2e9d": "2026-06-13T00:12:58.112Z",
@@ -769,7 +767,6 @@
     "canonical:27fa5d3290d6515b": "2026-06-13T15:55:40.354Z",
     "canonical:ed9a44e022b031bf": "2026-06-13T15:55:40.354Z",
     "canonical:60d48ea9b4193a8f": "2026-06-13T17:12:44.534Z",
-    "canonical:917c8771cd813a8d": "2026-06-13T18:42:57.240Z",
     "canonical:2e1957ef2ef86ad4": "2026-06-13T18:42:57.240Z",
     "canonical:43c945396857ea6b": "2026-06-15T05:25:50.614Z",
     "canonical:a356ac432d4a0c77": "2026-06-15T05:25:50.614Z",
@@ -888,7 +885,6 @@
     "canonical:c2b89946ce467519": "2026-06-22T19:32:14.187Z",
     "canonical:bd4e181d83e4431b": "2026-06-22T23:11:18.221Z",
     "canonical:5703b8a0a55c3350": "2026-06-23T00:19:39.353Z",
-    "canonical:344f7f9cc24c152b": "2026-06-23T04:36:40.243Z",
     "canonical:baa8d20fda37086a": "2026-06-23T04:36:40.243Z",
     "canonical:e035aef29d392d1e": "2026-06-23T04:36:40.243Z",
     "canonical:791496a0e4be2814": "2026-06-23T08:18:38.816Z",
@@ -1053,7 +1049,18 @@
     "canonical:88faa15c5f596e22": "2026-07-01T18:14:22.942Z",
     "canonical:55972a1153711241": "2026-07-01T18:14:22.942Z",
     "canonical:92939b33efdb99ec": "2026-07-01T18:14:22.942Z",
-    "canonical:61ab3c787dcf7103": "2026-07-01T18:14:22.942Z"
+    "canonical:61ab3c787dcf7103": "2026-07-01T18:14:22.942Z",
+    "canonical:c685309cdcec6f5d": "2026-07-01T23:02:00.772Z",
+    "canonical:7dcf39fc748301e8": "2026-07-01T23:02:00.772Z",
+    "canonical:8832b80e79a94a12": "2026-07-01T23:02:00.772Z",
+    "canonical:f70b33853919b982": "2026-07-01T23:02:00.772Z",
+    "canonical:68297b37cb4f4754": "2026-07-01T23:02:00.772Z",
+    "canonical:581b4cf6242d30e0": "2026-07-01T23:02:00.772Z",
+    "canonical:0b40e9373e32ee3a": "2026-07-01T23:02:00.772Z",
+    "canonical:3a6ae29ca0f41c86": "2026-07-01T23:02:00.772Z",
+    "canonical:090c30f9249f9ff1": "2026-07-01T23:02:00.772Z",
+    "canonical:d0ba5b968199b27e": "2026-07-01T23:02:00.772Z",
+    "canonical:37441aba4bffccd6": "2026-07-01T23:02:00.772Z"
   },
   "jobs": [
     {
@@ -4893,19 +4900,6 @@
       "scoreReasons": []
     },
     {
-      "id": "canonical:c3f909dd643f2906",
-      "title": "Mission Software – Intern - Python",
-      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7676465003",
-      "location": "El Segundo, CA",
-      "department": "Software",
-      "company": "Varda Space",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:bb63a577c98aec70",
       "title": "Data Analyst Project Intern - Data Science",
       "url": "https://lifeattiktok.com/search/7620775575152462085",
@@ -6242,6 +6236,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:c685309cdcec6f5d",
+      "title": "Core Developer Intern",
+      "url": "https://job-boards.greenhouse.io/sevenresearch/jobs/4895047008",
+      "location": "NYC",
+      "department": "Software",
+      "company": "Seven Research",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -8082,16 +8090,6 @@
       ]
     },
     {
-      "id": "canonical:66ba15b883ef460c",
-      "title": "Design Co-op/Intern",
-      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36276",
-      "location": "Ottawa, ON, Canada",
-      "department": "Hardware",
-      "company": "Nokia",
-      "score": 50,
-      "scoreReasons": []
-    },
-    {
       "id": "canonical:6cdd1633b8f5ce3a",
       "title": "AI Research Marketing Intern",
       "url": "https://jobs.ashbyhq.com/lambda/1c764f96-966d-4560-8087-35452480d330/application",
@@ -9503,19 +9501,6 @@
       ]
     },
     {
-      "id": "canonical:917c8771cd813a8d",
-      "title": "Applied Data Science Intern",
-      "url": "https://job-boards.greenhouse.io/evolver/jobs/4254540009",
-      "location": "Palo Alto, CA",
-      "department": "AI/ML/Data",
-      "company": "Evolver",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:45ff47914f15fa4a",
       "title": "Energy Management Intern",
       "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8356",
@@ -10695,19 +10680,6 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:344f7f9cc24c152b",
-      "title": "Software Engineer Co-op/Intern - Developer Framework",
-      "url": "https://careers-kinaxis.icims.com/jobs/34832/job?mobile=true&needsRedirect=false",
-      "location": "Ottawa, ON, Canada",
-      "department": "Software",
-      "company": "Kinaxis",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -12247,6 +12219,141 @@
       "company": "Intel",
       "score": 68,
       "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:7dcf39fc748301e8",
+      "title": "Software Engineer Intern - Distributed Systems Software Engineer - Energy Engineering",
+      "url": "https://www.tesla.com/careers/search/job/275558",
+      "location": "Palo Alto, CA",
+      "department": "Software",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:8832b80e79a94a12",
+      "title": "Machine Learning Intern - AI Engineer - Tesla AI",
+      "url": "https://www.tesla.com/careers/search/job/275331",
+      "location": "Palo Alto, CA",
+      "department": "AI/ML/Data",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:f70b33853919b982",
+      "title": "Motion Planning Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/didi/jobs/8042470",
+      "location": "San Jose, CA",
+      "department": "AI/ML/Data",
+      "company": "DiDi Global",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:68297b37cb4f4754",
+      "title": "Software Engineer Intern",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011570",
+      "location": "California",
+      "department": "Software",
+      "company": "Palo Alto Networks",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:581b4cf6242d30e0",
+      "title": "Software Engineer Intern",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer--Bachelor-s-_JR-010190",
+      "location": "Palo Alto, CA",
+      "department": "Software",
+      "company": "Palo Alto Networks",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:0b40e9373e32ee3a",
+      "title": "IT Intern",
+      "url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14393",
+      "location": "Detroit, MI",
+      "department": "AI/ML/Data",
+      "company": "Blue Cross Blue Shield of Michigan",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:3a6ae29ca0f41c86",
+      "title": "Summer Internship Intern - Business Systems Analyst",
+      "url": "https://jobs.smartrecruiters.com/TheWonderfulCompany/744000135343439",
+      "location": "Bakersfield, CA",
+      "department": "AI/ML/Data",
+      "company": "The Wonderful Company",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:090c30f9249f9ff1",
+      "title": "Deep Learning Researcher Intern",
+      "url": "https://job-boards.greenhouse.io/sevenresearch/jobs/4895007008",
+      "location": "NYC",
+      "department": "AI/ML/Data",
+      "company": "Seven Research",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:d0ba5b968199b27e",
+      "title": "Algorithmic Developer Intern",
+      "url": "https://job-boards.greenhouse.io/sevenresearch/jobs/4895082008",
+      "location": "NYC",
+      "department": "Quant",
+      "company": "Seven Research",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:37441aba4bffccd6",
+      "title": "Quantitative Researcher Intern",
+      "url": "https://job-boards.greenhouse.io/sevenresearch/jobs/4894946008",
+      "location": "NYC",
+      "department": "Quant",
+      "company": "Seven Research",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]

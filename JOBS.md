@@ -1,6 +1,6 @@
 # Open Internships
 
-**1050** internships across **63/64** companies — last updated 2026-07-01.
+**1057** internships across **63/64** companies — last updated 2026-07-01.
 
 ## Companies
 
@@ -68,6 +68,7 @@
 - [Blockhouse](#blockhouse) (1)
 - [Blue & Co., LLC](#blue-co-llc) (1)
 - [Blue Bolt Partners](#blue-bolt-partners) (1)
+- [Blue Cross Blue Shield of Michigan](#blue-cross-blue-shield-of-michigan) (1)
 - [BMO](#bmo) (1)
 - [BNP Paribas](#bnp-paribas) (1)
 - [Bombardier](#bombardier) (1)
@@ -126,6 +127,7 @@
 - [Delta Air Lines](#delta-air-lines) (1)
 - [Delta Dental](#delta-dental) (1)
 - [Dewberry](#dewberry) (1)
+- [DiDi Global](#didi-global) (1)
 - [Digs](#digs) (1)
 - [DimeHealth AI](#dimehealth-ai) (1)
 - [Doctors Without Borders](#doctors-without-borders) (1)
@@ -147,7 +149,6 @@
 - [Eulerity](#eulerity) (2)
 - [Eurofins](#eurofins) (3)
 - [EV Realty](#ev-realty) (1)
-- [Evolver](#evolver) (1)
 - [EXL](#exl) (1)
 - [Expedia Group](#expedia-group) (1)
 - [F. Schumacher & Co.](#f-schumacher-co) (1)
@@ -222,7 +223,7 @@
 - [K1](#k1) (1)
 - [KBR](#kbr) (1)
 - [Kensington](#kensington) (2)
-- [Kinaxis](#kinaxis) (4)
+- [Kinaxis](#kinaxis) (3)
 - [KION Group](#kion-group) (1)
 - [KLA](#kla) (2)
 - [Kognitos](#kognitos) (1)
@@ -281,7 +282,7 @@
 - [Nio](#nio) (1)
 - [Nissan Global](#nissan-global) (1)
 - [Niural](#niural) (1)
-- [Nokia](#nokia) (15)
+- [Nokia](#nokia) (14)
 - [Northwestern Mutual](#northwestern-mutual) (2)
 - [Notion](#notion) (5)
 - [Nuro](#nuro) (2)
@@ -299,6 +300,7 @@
 - [Output Biosciences](#output-biosciences) (1)
 - [Paccar](#paccar) (1)
 - [Palantir](#palantir) (6)
+- [Palo Alto Networks](#palo-alto-networks) (2)
 - [Paragon](#paragon) (1)
 - [PathAI](#pathai) (1)
 - [PayPal](#paypal) (1)
@@ -356,6 +358,7 @@
 - [Schonfeld](#schonfeld) (4)
 - [Schweitzer Engineering Laboratories](#schweitzer-engineering-laboratories) (1)
 - [Seaspan](#seaspan) (2)
+- [Seven Research](#seven-research) (4)
 - [SHEIN](#shein) (2)
 - [Shenzhen ANQI SHISHANG Articles Co., ltd.](#shenzhen-anqi-shishang-articles-co-ltd) (1)
 - [Shopify](#shopify) (1)
@@ -391,7 +394,7 @@
 - [TENEX.AI](#tenex-ai) (1)
 - [Tenstorrent](#tenstorrent) (6)
 - [Terranox AI](#terranox-ai) (1)
-- [Tesla](#tesla) (93)
+- [Tesla](#tesla) (95)
 - [Tessera Labs](#tessera-labs) (2)
 - [TETRAMEM](#tetramem) (1)
 - [Texas Instruments](#texas-instruments) (1)
@@ -401,6 +404,7 @@
 - [The Trade Desk](#the-trade-desk) (1)
 - [The University of Edinburgh](#the-university-of-edinburgh) (1)
 - [The Walt Disney Company](#the-walt-disney-company) (1)
+- [The Wonderful Company](#the-wonderful-company) (1)
 - [thyssenkrupp](#thyssenkrupp) (2)
 - [TIFIN](#tifin) (1)
 - [TikTok](#tiktok) (65)
@@ -424,7 +428,6 @@
 - [Uncountable](#uncountable) (1)
 - [University Health Network](#university-health-network) (1)
 - [Vanguard](#vanguard) (1)
-- [Varda Space](#varda-space) (1)
 - [Veeam Software](#veeam-software) (2)
 - [Veeva](#veeva) (1)
 - [Veeva Systems](#veeva-systems) (1)
@@ -909,6 +912,12 @@
 | --- | --- | --- | --- | --- |
 | [Sales Intern in Private Equity](https://www.linkedin.com/jobs/view/4264751576) | 22 | United States | — | 2026-05-16 |
 
+## Blue Cross Blue Shield of Michigan
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [IT Intern](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14393) | 60 | Detroit, MI | AI/ML/Data | 2026-07-01 |
+
 ## BMO
 
 | Title | Score | Location | Department | First seen |
@@ -1319,6 +1328,12 @@
 | --- | --- | --- | --- | --- |
 | [Site/Civil Engineering Intern](https://www.linkedin.com/jobs/view/4275448602) | 42 | Richmond, VA | — | 2026-05-16 |
 
+## DiDi Global
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Motion Planning Engineer Intern](https://job-boards.greenhouse.io/didi/jobs/8042470) | 93 | San Jose, CA | AI/ML/Data | 2026-07-01 |
+
 ## Digs
 
 | Title | Score | Location | Department | First seen |
@@ -1461,12 +1476,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Data Analytics Intern](https://jobs.lever.co/evrealty-us/0274f48f-9b19-4bed-bf6a-5e02a2b1e865/apply) | 68 | Salt Lake City, UT / SF | AI/ML/Data | 2026-05-22 |
-
-## Evolver
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Applied Data Science Intern](https://job-boards.greenhouse.io/evolver/jobs/4254540009) | 68 | Palo Alto, CA | AI/ML/Data | 2026-06-13 |
 
 ## EXL
 
@@ -1966,7 +1975,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Engineer Co-op/Intern - Data & Analytics](https://careers-kinaxis.icims.com/jobs/34766/job?mobile=true&needsRedirect=false) | 85 | Ottawa, ON, Canada | AI/ML/Data | 2026-07-01 |
-| [Software Engineer Co-op/Intern - Developer Framework](https://careers-kinaxis.icims.com/jobs/34832/job?mobile=true&needsRedirect=false) | 85 | Ottawa, ON, Canada | Software | 2026-06-23 |
 | [Software Developer Co-op/Intern - Core Algorithms](https://careers-kinaxis.icims.com/jobs/34962/job?mobile=true&needsRedirect=false) | 85 | Ottawa, ON, Canada | Software | 2026-06-19 |
 | [Software Development Co-op/Intern - C++](https://careers-kinaxis.icims.com/jobs/34764/job?mobile=true&needsRedirect=false) | 60 | Ottawa, ON, Canada | Software | 2026-06-18 |
 
@@ -2375,7 +2383,6 @@
 | [Product Development Intern/Co-op](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34184) | 50 | Ottawa, ON, Canada | Product | 2026-06-11 |
 | [ASIC CAD Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37095) | 50 | Ottawa, ON, Canada | Hardware | 2026-06-10 |
 | [Silicon Photonics Packaging Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36996) | 50 | Ottawa, ON, Canada | Hardware | 2026-06-03 |
-| [Design Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36276) | 50 | Ottawa, ON, Canada | Hardware | 2026-06-01 |
 | [Embedded C/C++ Software Developer Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35268) | 85 | Ottawa, ON, Canada | Hardware | 2026-05-20 |
 | [ASIC Verification Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36281) | 50 | Ottawa, ON, Canada | Hardware | 2026-05-20 |
 | [Support Software Developer Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34551) | 85 | Ottawa, ON, Canada | Software | 2026-05-09 |
@@ -2510,6 +2517,13 @@
 | [Year at Palantir Intern - Forward Deployed Software Engineer - Commercial](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d/apply) | 93 | NYC | Software | 2026-05-14 |
 | [Forward Deployed Software Engineer Intern](https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9/apply) | 93 | NYC | Software | 2026-05-09 |
 | [Deployment Strategist – Intern - US Government](https://jobs.lever.co/palantir/a49d4181-a289-435a-b581-7f5af0497c8e/apply) | 68 | Honolulu, HI | AI/ML/Data | 2026-05-09 |
+
+## Palo Alto Networks
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011570) | 93 | California | Software | 2026-07-01 |
+| [Software Engineer Intern](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer--Bachelor-s-_JR-010190) | 93 | Palo Alto, CA | Software | 2026-07-01 |
 
 ## Paragon
 
@@ -2932,6 +2946,15 @@
 | [Energy Management Intern](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8356) | 60 | Vancouver, BC, Canada | AI/ML/Data | 2026-06-10 |
 | [Digital Ship Intern](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8754) | 60 | Vancouver, BC, Canada | Software | 2026-06-08 |
 
+## Seven Research
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Algorithmic Developer Intern](https://job-boards.greenhouse.io/sevenresearch/jobs/4895082008) | 93 | NYC | Quant | 2026-07-01 |
+| [Core Developer Intern](https://job-boards.greenhouse.io/sevenresearch/jobs/4895047008) | 93 | NYC | Software | 2026-07-01 |
+| [Deep Learning Researcher Intern](https://job-boards.greenhouse.io/sevenresearch/jobs/4895007008) | 93 | NYC | AI/ML/Data | 2026-07-01 |
+| [Quantitative Researcher Intern](https://job-boards.greenhouse.io/sevenresearch/jobs/4894946008) | 93 | NYC | Quant | 2026-07-01 |
+
 ## SHEIN
 
 | Title | Score | Location | Department | First seen |
@@ -3193,6 +3216,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Machine Learning Intern - AI Engineer - Tesla AI](https://www.tesla.com/careers/search/job/275331) | 85 | Palo Alto, CA | AI/ML/Data | 2026-07-01 |
+| [Software Engineer Intern - Distributed Systems Software Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/275558) | 85 | Palo Alto, CA | Software | 2026-07-01 |
 | [AI/ML Modeling Engineer Intern - ML Modeling Engineer - AI Hardware](https://www.tesla.com/careers/search/job/275316) | 85 | Palo Alto, CA | AI/ML/Data | 2026-07-01 |
 | [Data Engineer Intern - Applications Engineering](https://www.tesla.com/careers/search/job/272928) | 85 | Fremont, CA | AI/ML/Data | 2026-07-01 |
 | [Machine Learning Engineer Intern - Machine Learning Engineer - Factory Software](https://www.tesla.com/careers/search/job/275380) | 85 | Fremont, CA | AI/ML/Data | 2026-07-01 |
@@ -3341,6 +3366,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Commercial Data Science Intern](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Commercial-Data-Science-Intern--Fall-2026_10154154-1) | 68 | Celebration, FL | AI/ML/Data | 2026-07-01 |
+
+## The Wonderful Company
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Summer Internship Intern - Business Systems Analyst](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000135343439) | 68 | Bakersfield, CA | AI/ML/Data | 2026-07-01 |
 
 ## thyssenkrupp
 
@@ -3551,12 +3582,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [College to Corporate Internship - Application Development (PA)](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed397?utm_source=1099&utm_campaign=Software%20Engineer) | 42 | Malvern, PA | — | 2026-05-16 |
-
-## Varda Space
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Mission Software – Intern - Python](https://job-boards.greenhouse.io/vardaspace/jobs/7676465003) | 68 | El Segundo, CA | Software | 2026-06-13 |
 
 ## Veeam Software
 
