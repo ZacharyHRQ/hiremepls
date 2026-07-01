@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-01T20:14:55.212Z",
+  "generatedAt": "2026-07-01T21:48:47.656Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1055,
+  "jobCount": 1050,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -195,7 +195,6 @@
     "canonical:bb63a577c98aec70": "2026-05-09T15:28:15.527Z",
     "canonical:6826e54d8a988fcb": "2026-05-09T15:28:15.527Z",
     "canonical:f38b80d1d6c35520": "2026-05-09T15:28:15.527Z",
-    "canonical:20fb43ce77afc2b5": "2026-05-09T15:28:15.527Z",
     "canonical:1ff85e8ca14b40b6": "2026-05-09T15:28:15.527Z",
     "canonical:fcfe57824f093788": "2026-05-09T15:28:15.527Z",
     "canonical:a5a6f6f8aad4e113": "2026-05-09T15:28:15.527Z",
@@ -270,7 +269,6 @@
     "canonical:895bd936f9710abc": "2026-05-09T15:28:15.527Z",
     "canonical:4ae090f51da276c9": "2026-05-09T15:28:15.527Z",
     "canonical:f2f1d1df11463641": "2026-05-09T15:28:15.527Z",
-    "canonical:c81f4c872a7fdae9": "2026-05-09T15:28:15.527Z",
     "canonical:c4364ae941de1dfd": "2026-05-09T15:28:15.527Z",
     "canonical:0d583e36448bbfca": "2026-05-09T15:28:15.527Z",
     "canonical:b34bc2f7f5ee1149": "2026-05-09T15:28:15.527Z",
@@ -821,7 +819,6 @@
     "canonical:e6d9cce14ccbac53": "2026-06-16T15:25:00.747Z",
     "canonical:80683ba5e9cf44e3": "2026-06-16T15:25:00.747Z",
     "canonical:11abfcbfe59f8ba1": "2026-06-16T21:42:43.395Z",
-    "canonical:7b82545edd92979c": "2026-06-16T21:42:43.395Z",
     "canonical:a67713b89b2d0000": "2026-06-16T23:09:30.532Z",
     "canonical:4657deb65ec280ac": "2026-06-16T23:09:30.532Z",
     "canonical:e3e832551adf1c5f": "2026-06-16T23:09:30.532Z",
@@ -917,7 +914,6 @@
     "canonical:f4f9e8ec69b4f65f": "2026-06-24T13:34:22.889Z",
     "canonical:4341a970cbbffa2c": "2026-06-24T13:34:22.889Z",
     "canonical:55b7d658b8486ecc": "2026-06-24T15:59:08.517Z",
-    "canonical:171412c02ee260e4": "2026-06-24T15:59:08.517Z",
     "canonical:06c2f61c260015cb": "2026-06-25T06:19:24.764Z",
     "canonical:3dba83ef4f59f251": "2026-06-25T09:49:28.103Z",
     "canonical:ef5940300d27214d": "2026-06-25T15:10:46.027Z",
@@ -944,7 +940,6 @@
     "canonical:bca1cc17005e460b": "2026-07-01T06:55:26.212Z",
     "canonical:351d3d1f6713b707": "2026-07-01T06:55:26.212Z",
     "canonical:9062f0a2659dadf6": "2026-07-01T06:55:26.212Z",
-    "canonical:4c84a8cf6eacba8f": "2026-07-01T06:55:26.212Z",
     "canonical:c41ef117bb4ff60c": "2026-07-01T06:55:26.212Z",
     "canonical:7621f3e1f686b2a6": "2026-07-01T06:55:26.212Z",
     "canonical:9dc2a65da3cbfb3d": "2026-07-01T06:55:26.212Z",
@@ -4974,20 +4969,6 @@
       ]
     },
     {
-      "id": "canonical:20fb43ce77afc2b5",
-      "title": "Backend Developer Intern",
-      "url": "https://job-boards.greenhouse.io/eulerity/jobs/4666015006",
-      "location": "NYC",
-      "department": "Software",
-      "company": "Eulerity",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:b711b2c0fb11507d",
       "title": "Software Engineer Project Intern - Content AI Infrastructure",
       "url": "https://lifeattiktok.com/search/7621299118434961669",
@@ -5191,19 +5172,6 @@
       ]
     },
     {
-      "id": "canonical:4c84a8cf6eacba8f",
-      "title": "Machine Learning Engineer Intern",
-      "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/London-United-Kingdom/Machine-Learning-Engineering-Intern_R0045123",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "Snap",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:877c0a343b3cc748",
       "title": "Systems Engineering Intern",
       "url": "https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51/apply",
@@ -5349,20 +5317,6 @@
       "location": "SF",
       "department": "Software",
       "company": "Notion",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:930f89b5a6144dfa",
-      "title": "Frontend Software Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007",
-      "location": "San Mateo, CA",
-      "department": "Software",
-      "company": "Verkada",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -6209,18 +6163,6 @@
       "score": 68,
       "scoreReasons": [
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:c81f4c872a7fdae9",
-      "title": "Analog/Mixed-Signal Verification Intern Co-op",
-      "url": "https://jobs.eu.lever.co/cirrus/a0ee59a9-cfce-410a-b182-459a5da9ba95/apply",
-      "location": "Austin, TX",
-      "department": "Hardware",
-      "company": "Cirrus Logic",
-      "score": 58,
-      "scoreReasons": [
         "direct ATS"
       ]
     },
@@ -10108,19 +10050,6 @@
       ]
     },
     {
-      "id": "canonical:7b82545edd92979c",
-      "title": "Business Analysis Intern",
-      "url": "https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/GBR-London/Business-Analysis-Intern_JR102744",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "JINGDONG",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:464ecfeba366891e",
       "title": "Software Engineer Intern/Co-op",
       "url": "https://jobs.lever.co/solopulseco/00fbde18-a387-4c9f-97d4-77059aec7b56/apply",
@@ -11014,20 +10943,6 @@
       "location": "Cambridge, UK",
       "department": "AI/ML/Data",
       "company": "Hiverge",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:171412c02ee260e4",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/Lunon/6700bbef-8be9-46c7-8257-f1a3a0c0aa45/application",
-      "location": "SF",
-      "department": "Software",
-      "company": "Lunon",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -13116,6 +13031,20 @@
       "location": "San Francisco, CA",
       "department": "",
       "company": "Notion",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:930f89b5a6144dfa",
+      "title": "Frontend Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007",
+      "location": "San Mateo, CA",
+      "department": "",
+      "company": "Verkada",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",

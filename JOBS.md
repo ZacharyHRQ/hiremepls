@@ -1,6 +1,6 @@
 # Open Internships
 
-**1055** internships across **63/64** companies — last updated 2026-07-01.
+**1050** internships across **63/64** companies — last updated 2026-07-01.
 
 ## Companies
 
@@ -91,7 +91,7 @@
 - [Chartwells Higher Education Dining Services](#chartwells-higher-education-dining-services) (1)
 - [Cherry Bekaert](#cherry-bekaert) (2)
 - [Ciena](#ciena) (2)
-- [Cirrus Logic](#cirrus-logic) (2)
+- [Cirrus Logic](#cirrus-logic) (1)
 - [Citadel](#citadel) (6)
 - [Citadel Securities](#citadel-securities) (4)
 - [Clarity Innovations](#clarity-innovations) (1)
@@ -144,7 +144,7 @@
 - [Etched.ai](#etched-ai) (5)
 - [Ether.fi](#ether-fi) (1)
 - [ETHGlobal](#ethglobal) (1)
-- [Eulerity](#eulerity) (3)
+- [Eulerity](#eulerity) (2)
 - [Eurofins](#eurofins) (3)
 - [EV Realty](#ev-realty) (1)
 - [Evolver](#evolver) (1)
@@ -216,7 +216,7 @@
 - [Interstates](#interstates) (1)
 - [Intuitive Surgical](#intuitive-surgical) (1)
 - [iSpot.tv](#ispot-tv) (1)
-- [JINGDONG](#jingdong) (2)
+- [JINGDONG](#jingdong) (1)
 - [JP Morgan Chase](#jp-morgan-chase) (1)
 - [Jump Trading](#jump-trading) (2)
 - [K1](#k1) (1)
@@ -239,7 +239,6 @@
 - [LinkedIn](#linkedin) (3)
 - [LiveRamp](#liveramp) (1)
 - [Lucid Motors](#lucid-motors) (1)
-- [Lunon](#lunon) (1)
 - [Lyft](#lyft) (1)
 - [Mackenzie Investments](#mackenzie-investments) (1)
 - [Magna](#magna) (2)
@@ -365,7 +364,6 @@
 - [Sixtyfour (X25)](#sixtyfour-x25) (1)
 - [Skydio](#skydio) (2)
 - [Smiths Detection](#smiths-detection) (1)
-- [Snap](#snap) (1)
 - [Snowflake](#snowflake) (12)
 - [SoloPulse](#solopulse) (2)
 - [Solva](#solva) (1)
@@ -1088,7 +1086,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Embedded Software AI Intern Co-op](https://jobs.eu.lever.co/cirrus/3d6df577-91f6-4b58-9e7f-c982e49ff515/apply) | 68 | Austin, TX | Hardware | 2026-07-01 |
-| [Analog/Mixed-Signal Verification Intern Co-op](https://jobs.eu.lever.co/cirrus/a0ee59a9-cfce-410a-b182-459a5da9ba95/apply) | 58 | Austin, TX | Hardware | 2026-05-09 |
 
 ## Citadel
 
@@ -1449,7 +1446,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Android Developer Intern](https://job-boards.greenhouse.io/eulerity/jobs/4671031006) | 93 | NYC | Software | 2026-05-09 |
-| [Backend Developer Intern](https://job-boards.greenhouse.io/eulerity/jobs/4666015006) | 93 | NYC | Software | 2026-05-09 |
 | [Mobile iOS Developer Intern](https://job-boards.greenhouse.io/eulerity/jobs/4671025006) | 93 | NYC | Software | 2026-05-09 |
 
 ## Eurofins
@@ -1931,7 +1927,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Business Analysis Intern](https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/GBR-London/Business-Analysis-Intern_JR102744) | 68 | London, UK | AI/ML/Data | 2026-06-16 |
 | [JD Young AI Data Analyst Intern](https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/GBR-England-Greater-London-London/JD-Young-AI-Data-Analyst-Internship_JR102354) | 68 | London, UK | AI/ML/Data | 2026-05-16 |
 
 ## JP Morgan Chase
@@ -2077,12 +2072,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Finance Business Analytics Intern](https://job-boards.greenhouse.io/lucidmotors/jobs/5136407007) | 68 | Concord, NH | AI/ML/Data | 2026-06-17 |
-
-## Lunon
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://jobs.ashbyhq.com/Lunon/6700bbef-8be9-46c7-8257-f1a3a0c0aa45/application) | 93 | SF | Software | 2026-06-24 |
 
 ## Lyft
 
@@ -2995,12 +2984,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern (Cyber focus)](https://jobs.smartrecruiters.com/SmithsGroup2/a22945f0-59b6-4c3f-87f1-43c05b535677) | 68 | Edgewood, MD | Software Engineering | 2026-05-09 |
 
-## Snap
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Machine Learning Engineer Intern](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/London-United-Kingdom/Machine-Learning-Engineering-Intern_R0045123) | 85 | London, UK | AI/ML/Data | 2026-07-01 |
-
 ## Snowflake
 
 | Title | Score | Location | Department | First seen |
@@ -3602,7 +3585,7 @@
 | [Backend Software Engineer Intern](https://job-boards.greenhouse.io/verkada/jobs/5099422007) | 93 | San Mateo, CA | — | 2026-05-09 |
 | [Backend Software Engineering Intern](https://job-boards.greenhouse.io/verkada/jobs/5099422007) | 93 | San Mateo, CA | Software | 2026-05-09 |
 | [Embedded Software Engineer Intern](https://job-boards.greenhouse.io/verkada/jobs/5099596007) | 93 | San Mateo, CA | — | 2026-05-09 |
-| [Frontend Software Engineer Intern](https://job-boards.greenhouse.io/verkada/jobs/5099529007) | 93 | San Mateo, CA | Software | 2026-05-09 |
+| [Frontend Software Engineer Intern](https://job-boards.greenhouse.io/verkada/jobs/5099529007) | 93 | San Mateo, CA | — | 2026-05-09 |
 
 ## VetsEZ
 
