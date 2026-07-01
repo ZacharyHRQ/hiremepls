@@ -1,6 +1,6 @@
 # Open Internships
 
-**1048** internships across **63/64** companies — last updated 2026-07-01.
+**1050** internships across **63/64** companies — last updated 2026-07-01.
 
 ## Companies
 
@@ -94,7 +94,7 @@
 - [Cherry Bekaert](#cherry-bekaert) (2)
 - [Ciena](#ciena) (2)
 - [Cirrus Logic](#cirrus-logic) (2)
-- [Citadel](#citadel) (1)
+- [Citadel](#citadel) (6)
 - [Citadel Securities](#citadel-securities) (4)
 - [Clarity Innovations](#clarity-innovations) (1)
 - [Clera](#clera) (1)
@@ -107,7 +107,6 @@
 - [Conagra Brands](#conagra-brands) (2)
 - [ConnectPrep](#connectprep) (1)
 - [Consensus Cloud Solutions](#consensus-cloud-solutions) (1)
-- [Consor](#consor) (1)
 - [Context](#context) (1)
 - [Continental](#continental) (1)
 - [Copart](#copart) (4)
@@ -115,9 +114,9 @@
 - [CoStar Group](#costar-group) (1)
 - [Cotiviti](#cotiviti) (4)
 - [Creatify Lab ](#creatify-lab) (1)
-- [Crest Industries](#crest-industries) (1)
 - [Cresta](#cresta) (2)
 - [Cribl](#cribl) (1)
+- [Crowdstrike](#crowdstrike) (1)
 - [Cubist Systematic Strategies](#cubist-systematic-strategies) (1)
 - [Cupertino Electric, Inc.](#cupertino-electric-inc) (1)
 - [d-Matrix](#d-matrix) (1)
@@ -265,7 +264,7 @@
 - [Meta](#meta) (15)
 - [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (3)
 - [Microchip Technology](#microchip-technology) (1)
-- [Microsoft](#microsoft) (8)
+- [Microsoft](#microsoft) (1)
 - [Mindsmith](#mindsmith) (1)
 - [MongoDB](#mongodb) (1)
 - [Monolithic Power Systems](#monolithic-power-systems) (2)
@@ -313,8 +312,9 @@
 - [Perplexity](#perplexity) (3)
 - [Perplexity AI](#perplexity-ai) (1)
 - [Persistent Systems](#persistent-systems) (2)
-- [Phamily](#phamily) (1)
+- [Phamily](#phamily) (2)
 - [Phia](#phia) (1)
+- [Picarro](#picarro) (1)
 - [Pinterest](#pinterest) (4)
 - [PLS](#pls) (1)
 - [PlusAI](#plusai) (19)
@@ -374,7 +374,7 @@
 - [SoloPulse](#solopulse) (2)
 - [Solva](#solva) (1)
 - [Sony](#sony) (2)
-- [SOTI](#soti) (3)
+- [SOTI](#soti) (2)
 - [SpaceX](#spacex) (3)
 - [Squarepoint Capital](#squarepoint-capital) (4)
 - [StarSling](#starsling) (1)
@@ -413,7 +413,7 @@
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
 - [TMX Group](#tmx-group) (1)
-- [Together AI](#together-ai) (1)
+- [Together AI](#together-ai) (4)
 - [Topel Forman LLC](#topel-forman-llc) (1)
 - [Torc Robotics](#torc-robotics) (1)
 - [Tower Research Capital](#tower-research-capital) (2)
@@ -424,7 +424,7 @@
 - [Trata](#trata) (1)
 - [True Manufacturing](#true-manufacturing) (1)
 - [Truland Equipment](#truland-equipment) (1)
-- [Truveta](#truveta) (1)
+- [Truveta](#truveta) (2)
 - [Uber](#uber) (1)
 - [UL Solutions](#ul-solutions) (1)
 - [Uncountable](#uncountable) (1)
@@ -1110,6 +1110,11 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Machine Learning Researcher – PhD Intern - US](https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-us/) | 85 | NYC | AI/ML/Data | 2026-07-01 |
+| [Quantitative Research Engineer Intern](https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-us/) | 85 | Greenwich, CT / Houston, TX / Miami, FL / NYC | Quant | 2026-07-01 |
+| [Quantitative Researcher – PhD Intern](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-europe/) | 85 | London, UK | Quant | 2026-07-01 |
+| [Quantitative Researcher – PhD Intern](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/) | 85 | Greenwich, CT / Houston, TX / Miami, FL / NYC | Quant | 2026-07-01 |
+| [Quantitative Research Analyst Intern](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/) | 60 | London, UK / Paris, France | Quant | 2026-07-01 |
 | [Software Engineer, Intern (Summer 2026)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002?fbclid=PAQ0xDSwK38VtleHRuA2FlbQIxMQABpwFCtP3w0jUMJ2UyUfRb7jqEW6gF5Rr31twvg5geVxUyYXlmmQrGSEf9O3Pw_aem_MfePXp-UnrQgRcTvm_Lh4Q) | 93 | Chicago | — | 2026-05-16 |
 
 ## Citadel Securities
@@ -1200,12 +1205,6 @@
 | --- | --- | --- | --- | --- |
 | [Sales Strategy & Analytics Intern](https://consensus.com/careers/jobs/?gh_jid=4688215006) | 40 | Remote in USA | AI/ML/Data | 2026-06-18 |
 
-## Consor
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Water & Wastewater Treatment Engineer Intern](https://careers-consoreng.icims.com/jobs/6416/job?mobile=true&needsRedirect=false) | 85 | Phoenix, AZ | AI/ML/Data | 2026-07-01 |
-
 ## Context
 
 | Title | Score | Location | Department | First seen |
@@ -1254,12 +1253,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/creatify/75a1f1ad-13d2-4513-952c-71b6dfcaa84f/application) | 93 | Mountain View, CA | Software | 2026-05-09 |
 
-## Crest Industries
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [CIS/CS Internship](https://jobs.lever.co/crestoperations/234d5be4-a214-4568-a681-d60f15624488/apply) | 68 | Alexandria, LA | AI/ML/Data | 2026-05-09 |
-
 ## Cresta
 
 | Title | Score | Location | Department | First seen |
@@ -1272,6 +1265,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Revenue Enablement Intern](https://cribl.io/job-detail/?gh_jid=5165439004) | 50 | Remote - United States | — | 2026-06-16 |
+
+## Crowdstrike
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Intelligence Intern](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Intelligence-Intern---Fall-2026--Remote-_R29214) | 68 | Remote in USA | AI/ML/Data | 2026-07-01 |
 
 ## Cubist Systematic Strategies
 
@@ -2126,7 +2125,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Quantitative Developer, Intern](https://job-boards.eu.greenhouse.io/mangroup/jobs/4847714101) | 93 | Hong Kong | — | 2026-06-30 |
+| [Quantitative Research Intern – Specialist Equities](https://job-boards.eu.greenhouse.io/mangroup/jobs/4847714101) | 68 | Hong Kong | — | 2026-07-01 |
 | [2026 Technology Graduate Programme – Platform Engineer](https://job-boards.eu.greenhouse.io/mangroup/jobs/4682393101) | 99 | London | — | 2026-06-17 |
 | [Quant Research Analyst Intern](https://job-boards.eu.greenhouse.io/mangroup/jobs/4872158101) | 68 | Shanghai | — | 2026-06-10 |
 | [Quantitative Developer, Intern](https://job-boards.eu.greenhouse.io/mangroup/jobs/4847708101) | 93 | Shanghai | — | 2026-05-06 |
@@ -2257,13 +2256,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Research Intern - Self-Improving AI](https://apply.careers.microsoft.com/careers/job/1970393556867858) | 60 | Cambridge, MA / NYC | AI/ML/Data | 2026-05-19 |
-| [Research Intern](https://apply.careers.microsoft.com/careers/job/1970393556621789) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
-| [Research Intern - AI Hardware](https://apply.careers.microsoft.com/careers/job/1970393556621664) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
-| [Research Intern - Artificial Intelligence](https://apply.careers.microsoft.com/careers/job/1970393556621503) | 60 | Vancouver, BC, Canada | AI/ML/Data | 2026-05-09 |
-| [Research Intern - Gray Systems Lab - Gsl](https://apply.careers.microsoft.com/careers/job/1970393556621621) | 60 | Madison, WI / Redmond, WA / Mountain View, CA | AI/ML/Data | 2026-05-09 |
-| [Research Intern - Machine Learning at MSR NYC](https://apply.careers.microsoft.com/careers/job/1970393556621563) | 60 | Cambridge, MA / NYC | AI/ML/Data | 2026-05-09 |
-| [Research Intern - Microsoft Research Software-Hardware Co-design](https://apply.careers.microsoft.com/careers/job/1970393556621730) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
-| [Research Intern - RiSE Group](https://apply.careers.microsoft.com/careers/job/1970393556621565) | 60 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 
 ## Mindsmith
 
@@ -2604,6 +2596,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Business Intelligence & Data Analytics Intern - Undergraduate](https://job-boards.greenhouse.io/jobsatphamily/jobs/5281446008) | 68 | NYC | AI/ML/Data | 2026-07-01 |
 | [Machine Learning Intern](https://job-boards.greenhouse.io/jobsatphamily/jobs/5281239008) | 68 | NYC | AI/ML/Data | 2026-07-01 |
 
 ## Phia
@@ -2611,6 +2604,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Full Stack Engineer Intern](https://jobs.ashbyhq.com/phia/71c26b8b-86cd-446d-a63f-8cd8c2a3f162/application) | 93 | NYC | Software | 2026-06-05 |
+
+## Picarro
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Product Development Intern](https://www.picarro.com/company/careers/job-openings/apply?gh_jid=5253032008) | 50 | Santa Clara, CA | Product | 2026-07-01 |
 
 ## Pinterest
 
@@ -3063,7 +3062,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Data Scientist Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--September-2026-12-Months-_R10065) | 93 | Mississauga, ON, Canada | AI/ML/Data | 2026-07-01 |
-| [Software Developer in Test Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-in-Test-Intern--September-2026-12-Months-_R10064) | 93 | Mississauga, ON, Canada | Software | 2026-06-17 |
 | [Software Developer Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--September-2026-12-Months-_R09971) | 93 | Mississauga, ON, Canada | Software | 2026-06-13 |
 
 ## SpaceX
@@ -3485,6 +3483,9 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Systems Research Engineer Intern - GPU Programming](https://job-boards.greenhouse.io/togetherai/jobs/5157559007) | 93 | SF | AI/ML/Data | 2026-07-01 |
+| [Research Intern - Inference](https://job-boards.greenhouse.io/togetherai/jobs/5157759007) | 68 | SF | AI/ML/Data | 2026-07-01 |
+| [Research reinforcement learning & Post-Training Systems Intern - Turbo](https://job-boards.greenhouse.io/togetherai/jobs/5168929007) | 68 | SF | AI/ML/Data | 2026-07-01 |
 | [Research Intern - Model Shaping](https://job-boards.greenhouse.io/togetherai/jobs/5157661007) | 68 | SF | AI/ML/Data | 2026-06-17 |
 
 ## Topel Forman LLC
@@ -3554,6 +3555,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Research Analyst Intern](https://job-boards.greenhouse.io/truveta/jobs/5973938004) | 68 | Seattle, WA | AI/ML/Data | 2026-07-01 |
 | [ML PhD Intern - LLMs & Generative AI](https://job-boards.greenhouse.io/truveta/jobs/5712997004) | 68 | Seattle, WA | Data Science, AI & Machine Learning | 2026-05-09 |
 
 ## Uber
