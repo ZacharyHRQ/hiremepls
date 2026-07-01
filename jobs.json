@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-01T16:00:23.445Z",
+  "generatedAt": "2026-07-01T18:14:22.942Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1045,
+  "jobCount": 1057,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1048,7 +1048,19 @@
     "canonical:ec6c557283333a45": "2026-07-01T13:21:48.812Z",
     "canonical:4168fcd2f5f91a08": "2026-07-01T13:21:48.812Z",
     "canonical:ce890d51c1a61aab": "2026-07-01T13:21:48.812Z",
-    "canonical:83d8fee89b1f4154": "2026-07-01T13:21:48.812Z"
+    "canonical:83d8fee89b1f4154": "2026-07-01T13:21:48.812Z",
+    "canonical:338818c406e2b9a5": "2026-07-01T18:14:22.942Z",
+    "canonical:8ea3263defb2b606": "2026-07-01T18:14:22.942Z",
+    "canonical:09bbbe30e614c9ef": "2026-07-01T18:14:22.942Z",
+    "canonical:aed6e39f04021bb3": "2026-07-01T18:14:22.942Z",
+    "canonical:a4e54a5c68982c9d": "2026-07-01T18:14:22.942Z",
+    "canonical:cc5154b2bc1dc1f6": "2026-07-01T18:14:22.942Z",
+    "canonical:f1f2fa99846601a7": "2026-07-01T18:14:22.942Z",
+    "canonical:84f45a7dae90f38f": "2026-07-01T18:14:22.942Z",
+    "canonical:88faa15c5f596e22": "2026-07-01T18:14:22.942Z",
+    "canonical:55972a1153711241": "2026-07-01T18:14:22.942Z",
+    "canonical:92939b33efdb99ec": "2026-07-01T18:14:22.942Z",
+    "canonical:61ab3c787dcf7103": "2026-07-01T18:14:22.942Z"
   },
   "jobs": [
     {
@@ -1118,6 +1130,34 @@
       ]
     },
     {
+      "id": "canonical:338818c406e2b9a5",
+      "title": "Graduate Hardware Engineer",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823805101",
+      "location": "Chicago, United States",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 64,
+      "scoreReasons": [
+        "new grad",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:8ea3263defb2b606",
+      "title": "Graduate Machine Learning Researcher",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907416101",
+      "location": "Chicago, United States",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 99,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:07482cde11fc2d9b",
       "title": "Graduate Quantitative Researcher",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4892687101",
@@ -1133,10 +1173,54 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
-      "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "id": "canonical:09bbbe30e614c9ef",
+      "title": "Graduate Quantitative Researcher (BS/MS)",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907368101",
+      "location": "Chicago, United States",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 99,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:aed6e39f04021bb3",
+      "title": "Graduate Quantitative Researcher (PhD)",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4912325101",
+      "location": "Chicago, United States",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 99,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:a4e54a5c68982c9d",
+      "title": "Graduate Quantitative Trader",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4751729101",
+      "location": "Chicago, United States",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 74,
+      "scoreReasons": [
+        "high-signal role",
+        "new grad",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:cc5154b2bc1dc1f6",
+      "title": "Graduate Software Engineer",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4818790101",
+      "location": "Chicago, United States",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1163,6 +1247,33 @@
       ]
     },
     {
+      "id": "canonical:03c9fa8995a8292a",
+      "title": "Graduate Software Engineer (2026)",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 99,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f1f2fa99846601a7",
+      "title": "Hardware Engineer Intern - Summer 2027",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823945101",
+      "location": "Chicago, United States",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:deba20522af655b8",
       "title": "Hardware Machine Learning PhD Research Internship",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4829785101",
@@ -1171,6 +1282,72 @@
       "company": "IMC Trading",
       "score": 68,
       "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:84f45a7dae90f38f",
+      "title": "Machine Learning Research Intern - Summer 2027",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907430101",
+      "location": "Chicago, United States",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:88faa15c5f596e22",
+      "title": "Quantitative Research Intern (BS/MS) - Summer 2027",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907399101",
+      "location": "Chicago, United States",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:55972a1153711241",
+      "title": "Quantitative Research Intern (PhD) - Summer 2027",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907400101",
+      "location": "Chicago, United States",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:92939b33efdb99ec",
+      "title": "Quantitative Trader Intern - Summer 2027",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823923101",
+      "location": "Chicago, United States",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:61ab3c787dcf7103",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101",
+      "location": "Chicago, United States",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
