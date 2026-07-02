@@ -1,6 +1,6 @@
 # Open Internships
 
-**1082** internships across **63/64** companies — last updated 2026-07-02.
+**1091** internships across **68/68** companies — last updated 2026-07-02.
 
 ## Companies
 
@@ -30,7 +30,7 @@
 - [Anima](#anima) (1)
 - [Apex](#apex) (1)
 - [Apex Technology, Inc.](#apex-technology-inc) (1)
-- [Apple](#apple) (15)
+- [Apple](#apple) (16)
 - [Applied Intuition](#applied-intuition) (3)
 - [Aptiv](#aptiv) (1)
 - [AQR](#aqr) (8)
@@ -80,6 +80,7 @@
 - [Brex](#brex) (1)
 - [BrightAI](#brightai) (1)
 - [Brookfield](#brookfield) (1)
+- [Brunswick](#brunswick) (1)
 - [BSE Global](#bse-global) (1)
 - [Bugcrowd](#bugcrowd) (1)
 - [ByteDance](#bytedance) (29)
@@ -100,7 +101,7 @@
 - [Cloudflare](#cloudflare) (9)
 - [Cloudforce](#cloudforce) (1)
 - [Codeage](#codeage) (1)
-- [Cohere](#cohere) (3)
+- [Cohere](#cohere) (6)
 - [Cole Engineering Services](#cole-engineering-services) (1)
 - [Colgate-Palmolive](#colgate-palmolive) (1)
 - [Conagra Brands](#conagra-brands) (2)
@@ -267,6 +268,7 @@
 - [Microchip Technology](#microchip-technology) (1)
 - [Microsoft](#microsoft) (1)
 - [Mindsmith](#mindsmith) (1)
+- [Mistral](#mistral) (3)
 - [MongoDB](#mongodb) (1)
 - [Monolithic Power Systems](#monolithic-power-systems) (2)
 - [Multiply Labs](#multiply-labs) (2)
@@ -320,6 +322,7 @@
 - [Pinterest](#pinterest) (4)
 - [PLS](#pls) (1)
 - [PlusAI](#plusai) (19)
+- [PNC Financial Services](#pnc-financial-services) (1)
 - [Podium](#podium) (2)
 - [Point C](#point-c) (1)
 - [Point72](#point72) (22)
@@ -636,6 +639,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [SoC Performance Modeling Internship - Platform Architecture](https://jobs.apple.com/en-us/details/200629965) | 60 | London, UK | Hardware | 2026-07-02 |
 | [Software Undergrad Engineer Intern](https://jobs.apple.com/en-us/details/200664785) | 85 | United States | Software | 2026-05-27 |
 | [Software Engineering Masters Intern](https://jobs.apple.com/en-us/details/200664320) | 60 | United States | Software | 2026-05-27 |
 | [Software PhD Intern](https://jobs.apple.com/en-us/details/200664323) | 60 | United States | Software | 2026-05-27 |
@@ -994,6 +998,12 @@
 | --- | --- | --- | --- | --- |
 | [Artificial Intelligence Intern - Renewable Power & Transition](https://brookfield.wd5.myworkdayjobs.com/brookfieldprivate/job/New-York-New-York/Artificial-Intelligence-Intern--Renewable-Power---Transition_R2048741) | 68 | NYC / Toronto, ON, Canada | AI/ML/Data | 2026-05-17 |
 
+## Brunswick
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Computer Graphics Software Developer Intern](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Computer-Graphics-Software-Developer-Intern_JR-050234) | 93 | Urbana, IL | Software | 2026-07-02 |
+
 ## BSE Global
 
 | Title | Score | Location | Department | First seen |
@@ -1167,6 +1177,9 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern (Fall / Winter 2026)](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254) | 90 | — | — | 2026-07-02 |
+| [Machine Learning Intern/Co-op  (Fall, 2026)](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b) | 65 | — | — | 2026-07-02 |
+| [Research Internship (Fall, 2026)](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785) | 55 | — | — | 2026-07-02 |
 | [Machine Learning Intern/Co-op](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b/application) | 68 | Canada / United Kingdom / United States | AI/ML/Data | 2026-05-14 |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254/application) | 93 | Toronto, ON, Canada / SF / NYC | Software | 2026-05-09 |
 | [Research Internship](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785/application) | 68 | Montreal, QC, Canada / London, UK / Toronto, ON, Canada / SF | AI/ML/Data | 2026-05-09 |
@@ -2283,6 +2296,14 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](https://app.dover.com/apply/mindsmith/e0ca8149-6811-4de9-ba38-65a0244a2b7e) | 60 | Lehi, UT | Software Engineering | 2026-06-24 |
 
+## Mistral
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer, New Grad](https://jobs.lever.co/mistral/cf4616fc-977a-475c-bb2e-eb46a2c4a94f) | 99 | Paris | Engineering & Infra | 2026-07-02 |
+| [Applied Scientist / Research Engineer (Internship)](https://jobs.lever.co/mistral/426ef8c0-eb26-4004-a690-f33c62b445a7) | 83 | Paris | Solutions | 2026-07-02 |
+| [Onboarding specialist (intern)](https://jobs.lever.co/mistral/9f23edb8-c2eb-4144-b6de-4b1bc4aaee26) | 58 | Paris | HR | 2026-07-02 |
+
 ## MongoDB
 
 | Title | Score | Location | Department | First seen |
@@ -2678,6 +2699,12 @@
 | [Software Engineer Intern - Data](https://jobs.lever.co/plus-2/012a2134-8a6a-4982-8f25-f906178a24e4/apply) | 93 | Santa Clara, CA | Software | 2026-05-19 |
 | [Software Engineer Intern - Data Infrastructure and Tools](https://jobs.lever.co/plus-2/06b808df-85a1-4ddd-863c-3e1cbe61eda9/apply) | 93 | Santa Clara, CA | Software | 2026-05-19 |
 | [Machine Learning Infrastructure Engineer Intern](https://jobs.lever.co/plus-2/30dd9b9b-48c8-4777-97f6-8edb30db12e4/apply) | 93 | Santa Clara, CA | AI/ML/Data | 2026-05-19 |
+
+## PNC Financial Services
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Graduate Intern - Multiple Teams](https://pnc.wd5.myworkdayjobs.com/External/job/NY---New-York-10173/Graduate-Intern--Economic-Scenario-Design--Chief-Investment-Office--CIO---Non-Campus-_R212891-1) | 74 | NYC | Quant | 2026-07-02 |
 
 ## Podium
 
@@ -3816,7 +3843,3 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Platform Intelligence Intern](https://jobs.lever.co/zoox/22bece12-95a5-4ad7-a4e4-6c43178153d2) | 68 | Foster City, CA | — | 2026-05-12 |
-
-## Errors this run
-
-- **Mistral**: ashby mistral: HTTP 404

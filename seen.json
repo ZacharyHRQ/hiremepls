@@ -97,9 +97,9 @@
   "Anthropic": [],
   "OpenAI": [],
   "Mistral": [
-    "d22fcb76-4256-48a0-85b8-181d781f991d",
-    "5bc5437b-5d0b-47e6-866f-345b8aebe274",
-    "5149b947-1aa7-4edf-9a8e-aa057f0beeb9"
+    "426ef8c0-eb26-4004-a690-f33c62b445a7",
+    "9f23edb8-c2eb-4144-b6de-4b1bc4aaee26",
+    "cf4616fc-977a-475c-bb2e-eb46a2c4a94f"
   ],
   "Perplexity": [
     "71168628-1998-47d3-87a9-be7bc56a430d",
@@ -585,6 +585,7 @@
     "simplify:95ecb2a1-6a8f-4c29-b971-2b3713f37046",
     "simplify:88f5a6f1-62c1-4a91-bf47-30e41b086fde",
     "simplify:37986837-cbd5-4c50-bc75-ed362e9028c3",
+    "simplify:a2b670ca-0966-45f7-9a77-1365adca98b8",
     "simplify:4eb1a0e0-e03b-4a73-b036-cda58ca88425",
     "simplify:c9d38db8-8f30-4b19-96f0-6fa31b2c31da",
     "simplify:e02c8fd9-f749-4a73-a288-f67eb4fbfa50",
@@ -635,6 +636,7 @@
     "simplify:ef2272f8-2e44-4153-8877-7adba67d1fe5",
     "simplify:ee5e38e3-bc10-4546-b6de-d39065ac25f1",
     "simplify:99160221-1059-4cc4-9a0e-6b72009c21e5",
+    "simplify:f9a84af2-becf-41f5-a24b-ba28dad12682",
     "simplify:3f7801d5-c387-46a8-835e-83306d98ba89",
     "simplify:6497d161-1772-44e7-8d01-703be23a72f1",
     "simplify:25ca9a4d-0a07-4604-b8c7-40c0f41d692c",
@@ -1040,7 +1042,8 @@
     "simplify:bdac1050-d452-49f0-95e7-93ed2722fd24",
     "simplify:ff19fd26-9c3d-4f2a-9f6f-8e9db2629828",
     "simplify:5971e10c-96c8-4605-9fe5-6b3de66eb784",
-    "simplify:d55da702-839a-42a9-8c4d-a6356630c452"
+    "simplify:d55da702-839a-42a9-8c4d-a6356630c452",
+    "simplify:9720993c-ebdc-41b6-81e1-d589d6ab63ee"
   ],
   "vanshb03": [
     "vansh:df70fa57-977b-4f31-832e-a0e57ed070b5",
@@ -1241,5 +1244,13 @@
     "github-md:rethinkjobs-summer-2026:09a559cdbc24",
     "github-md:rethinkjobs-summer-2026:e19d9046509a",
     "github-md:rethinkjobs-summer-2026:e01529d660fe"
-  ]
+  ],
+  "Winton": [],
+  "DeepMind": [],
+  "Cohere": [
+    "36d1f52f-8270-4652-adf5-5303a0ff341b",
+    "73bd3e2b-6597-4124-b64b-1e5dbc32e785",
+    "8c035d3d-081d-4c8a-914a-72f4efaad254"
+  ],
+  "Wayve": []
 }

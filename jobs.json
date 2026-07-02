@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-02T12:27:44.176Z",
-  "companyCount": 64,
-  "okCount": 63,
-  "jobCount": 1082,
+  "generatedAt": "2026-07-02T13:33:38.399Z",
+  "companyCount": 68,
+  "okCount": 68,
+  "jobCount": 1091,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1085,7 +1085,16 @@
     "canonical:8dfbe61a4a33e68c": "2026-07-02T12:27:44.176Z",
     "canonical:ca4f44300801a7f8": "2026-07-02T12:27:44.176Z",
     "canonical:14b5de662f626aec": "2026-07-02T12:27:44.176Z",
-    "canonical:e9636b2e40ddfe0f": "2026-07-02T12:27:44.176Z"
+    "canonical:e9636b2e40ddfe0f": "2026-07-02T12:27:44.176Z",
+    "canonical:1797135f9bfe6a1f": "2026-07-02T13:33:38.399Z",
+    "canonical:9bb646dadc8a3588": "2026-07-02T13:33:38.399Z",
+    "canonical:9780983ee839a1ed": "2026-07-02T13:33:38.399Z",
+    "canonical:1af544dee14e1b17": "2026-07-02T13:33:38.399Z",
+    "canonical:80a9865bdec95e1c": "2026-07-02T13:33:38.399Z",
+    "canonical:796deecc942fc471": "2026-07-02T13:33:38.399Z",
+    "canonical:4657deb65ec280ac": "2026-07-02T13:33:38.399Z",
+    "canonical:e8038afc6e3ca5c9": "2026-07-02T13:33:38.399Z",
+    "canonical:ceb153a3975c027c": "2026-07-02T13:33:38.399Z"
   },
   "jobs": [
     {
@@ -1891,6 +1900,46 @@
       ]
     },
     {
+      "id": "canonical:1797135f9bfe6a1f",
+      "title": "Applied Scientist / Research Engineer (Internship)",
+      "url": "https://jobs.lever.co/mistral/426ef8c0-eb26-4004-a690-f33c62b445a7",
+      "location": "Paris",
+      "department": "Solutions",
+      "company": "Mistral",
+      "score": 83,
+      "scoreReasons": [
+        "SWE-aligned",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:9bb646dadc8a3588",
+      "title": "Onboarding specialist (intern)",
+      "url": "https://jobs.lever.co/mistral/9f23edb8-c2eb-4144-b6de-4b1bc4aaee26",
+      "location": "Paris",
+      "department": "HR",
+      "company": "Mistral",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:9780983ee839a1ed",
+      "title": "Software Engineer, New Grad",
+      "url": "https://jobs.lever.co/mistral/cf4616fc-977a-475c-bb2e-eb46a2c4a94f",
+      "location": "Paris",
+      "department": "Engineering & Infra",
+      "company": "Mistral",
+      "score": 99,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:40ef868326fd30ff",
       "title": "Internship - Search Machine Learning Engineer",
       "url": "https://jobs.ashbyhq.com/perplexity/71168628-1998-47d3-87a9-be7bc56a430d",
@@ -1966,6 +2015,48 @@
       "company": "Replit",
       "score": 65,
       "scoreReasons": [
+        "high-signal role",
+        "direct ATS",
+        "unknown location"
+      ]
+    },
+    {
+      "id": "canonical:1af544dee14e1b17",
+      "title": "Machine Learning Intern/Co-op  (Fall, 2026)",
+      "url": "https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b",
+      "location": "",
+      "department": "",
+      "company": "Cohere",
+      "score": 65,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS",
+        "unknown location"
+      ]
+    },
+    {
+      "id": "canonical:80a9865bdec95e1c",
+      "title": "Research Internship (Fall, 2026)",
+      "url": "https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785",
+      "location": "",
+      "department": "",
+      "company": "Cohere",
+      "score": 55,
+      "scoreReasons": [
+        "direct ATS",
+        "unknown location"
+      ]
+    },
+    {
+      "id": "canonical:796deecc942fc471",
+      "title": "Software Engineer Intern (Fall / Winter 2026)",
+      "url": "https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254",
+      "location": "",
+      "department": "",
+      "company": "Cohere",
+      "score": 90,
+      "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS",
         "unknown location"
@@ -7178,6 +7269,20 @@
       ]
     },
     {
+      "id": "canonical:4657deb65ec280ac",
+      "title": "Computer Graphics Software Developer Intern",
+      "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Computer-Graphics-Software-Developer-Intern_JR-050234",
+      "location": "Urbana, IL",
+      "department": "Software",
+      "company": "Brunswick",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:57b0c9722c64bac8",
       "title": "Data Analyst Intern - TikTok Live",
       "url": "https://lifeattiktok.com/search/7642264645810292997",
@@ -7779,6 +7884,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:e8038afc6e3ca5c9",
+      "title": "Graduate Intern - Multiple Teams",
+      "url": "https://pnc.wd5.myworkdayjobs.com/External/job/NY---New-York-10173/Graduate-Intern--Economic-Scenario-Design--Chief-Investment-Office--CIO---Non-Campus-_R212891-1",
+      "location": "NYC",
+      "department": "Quant",
+      "company": "PNC Financial Services",
+      "score": 74,
+      "scoreReasons": [
+        "high-signal role",
+        "new grad",
         "direct ATS"
       ]
     },
@@ -12705,6 +12824,18 @@
       ]
     },
     {
+      "id": "canonical:ceb153a3975c027c",
+      "title": "SoC Performance Modeling Internship - Platform Architecture",
+      "url": "https://jobs.apple.com/en-us/details/200629965",
+      "location": "London, UK",
+      "department": "Hardware",
+      "company": "Apple",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:12cd06c0eec80152",
       "title": "Frontend Software Engineer Intern",
       "url": "https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c",
@@ -14911,10 +15042,5 @@
       ]
     }
   ],
-  "errors": [
-    {
-      "company": "Mistral",
-      "message": "ashby mistral: HTTP 404"
-    }
-  ]
+  "errors": []
 }
