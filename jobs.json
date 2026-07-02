@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-02T21:58:45.363Z",
+  "generatedAt": "2026-07-02T23:06:51.141Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1087,
+  "jobCount": 1093,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -212,7 +212,6 @@
     "canonical:60d4eb07453b6428": "2026-05-09T15:28:15.527Z",
     "canonical:7ca63fb282883ee7": "2026-05-09T15:28:15.527Z",
     "canonical:fd3a144ce91c5f4a": "2026-05-09T15:28:15.527Z",
-    "canonical:5359e9588fbcbdf9": "2026-05-09T15:28:15.527Z",
     "canonical:ce8b9d9ff03ce5eb": "2026-05-09T15:28:15.527Z",
     "canonical:930f89b5a6144dfa": "2026-05-09T15:28:15.527Z",
     "canonical:dbfb22c1cc92cb7d": "2026-05-09T15:28:15.527Z",
@@ -272,7 +271,6 @@
     "canonical:4871e71be3a18e9d": "2026-05-09T15:28:15.527Z",
     "canonical:87b2f74645c5a70f": "2026-05-09T15:28:15.527Z",
     "canonical:9f4992259e91b180": "2026-05-09T15:28:15.527Z",
-    "canonical:903d4c54fac1b9d6": "2026-05-09T15:28:15.527Z",
     "canonical:7134f71d6610c363": "2026-05-09T15:28:15.527Z",
     "canonical:b06161b2a0f4c01f": "2026-05-09T15:28:15.527Z",
     "canonical:5cb9ff5d80f675ba": "2026-05-09T15:28:15.527Z",
@@ -718,7 +716,6 @@
     "canonical:2a27a6706157cb62": "2026-06-11T06:27:21.326Z",
     "canonical:32665894ab4460ce": "2026-06-11T11:07:45.069Z",
     "canonical:481abe28ff8a5d8b": "2026-06-11T11:07:45.069Z",
-    "canonical:6b8d8dd23c8c6548": "2026-06-11T11:07:45.069Z",
     "canonical:30d3864435f150b7": "2026-06-11T11:07:45.069Z",
     "canonical:48afc5e5298e0d91": "2026-06-11T11:07:45.069Z",
     "canonical:17f48dbc6cffe995": "2026-06-11T11:07:45.069Z",
@@ -862,7 +859,6 @@
     "canonical:c24fa2c293373870": "2026-06-20T18:53:01.396Z",
     "canonical:78e461e91d26f884": "2026-06-20T18:53:01.396Z",
     "canonical:ebdb73f1d53cde75": "2026-06-20T18:53:01.396Z",
-    "canonical:40422883ab62a6e2": "2026-06-21T08:40:00.766Z",
     "canonical:5c5c4aaee7bd2d24": "2026-06-21T11:34:18.126Z",
     "canonical:b04cfd3af2687e8f": "2026-06-21T11:34:18.126Z",
     "canonical:c2b89946ce467519": "2026-06-22T19:32:14.187Z",
@@ -1090,7 +1086,17 @@
     "canonical:1463c8d45c6981d1": "2026-07-02T16:25:49.391Z",
     "canonical:68677d1a8d76947c": "2026-07-02T19:48:24.227Z",
     "canonical:9a79d93dc014eae2": "2026-07-02T20:53:43.608Z",
-    "canonical:31134a37a60ad7ed": "2026-07-02T20:53:43.608Z"
+    "canonical:31134a37a60ad7ed": "2026-07-02T20:53:43.608Z",
+    "canonical:6712ff89e93bcb37": "2026-07-02T23:06:51.141Z",
+    "canonical:b9dd5e7ba13dcd8c": "2026-07-02T23:06:51.141Z",
+    "canonical:f9f78d11e16b2f49": "2026-07-02T23:06:51.141Z",
+    "canonical:df747736170d0107": "2026-07-02T23:06:51.141Z",
+    "canonical:717a820397b90089": "2026-07-02T23:06:51.141Z",
+    "canonical:c7ade99df4a6b7ff": "2026-07-02T23:06:51.141Z",
+    "canonical:31111bb0d3294005": "2026-07-02T23:06:51.141Z",
+    "canonical:1f05dd365577984d": "2026-07-02T23:06:51.141Z",
+    "canonical:1eacbad0d2fdf9c5": "2026-07-02T23:06:51.141Z",
+    "canonical:ce0adcff9203e4c5": "2026-07-02T23:06:51.141Z"
   },
   "jobs": [
     {
@@ -1262,10 +1268,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1277,10 +1283,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -5400,20 +5406,6 @@
       "scoreReasons": []
     },
     {
-      "id": "canonical:5359e9588fbcbdf9",
-      "title": "Backend Software Engineering Intern",
-      "url": "https://job-boards.greenhouse.io/verkada/jobs/5099422007",
-      "location": "San Mateo, CA",
-      "department": "Software",
-      "company": "Verkada",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:ce8b9d9ff03ce5eb",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90/application",
@@ -6455,18 +6447,6 @@
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:903d4c54fac1b9d6",
-      "title": "Data Analyst – Emerging Talent Intern - Automatic Camera Enforcement - Ace",
-      "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/o1u5zfwT?nl=1&nl=1&fr=false",
-      "location": "NYC",
-      "department": "AI/ML/Data",
-      "company": "Metropolitan Transportation Authority",
-      "score": 60,
-      "scoreReasons": [
         "high-signal role"
       ]
     },
@@ -9662,20 +9642,6 @@
       ]
     },
     {
-      "id": "canonical:6b8d8dd23c8c6548",
-      "title": "Software Engineer Intern - Invoicing & Payments",
-      "url": "https://jobs.ashbyhq.com/pebl/656500ff-2bb5-4152-a553-02af70eff612/application",
-      "location": "Palo Alto, CA",
-      "department": "Software",
-      "company": "Pebl",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:30d3864435f150b7",
       "title": "Data Engineering Intern - AI & Analytics",
       "url": "https://jobs.ashbyhq.com/rivianvw.tech/3864f83a-7b29-4c96-b00e-436d60c0508a/application",
@@ -10685,19 +10651,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:40422883ab62a6e2",
-      "title": "Data Analyst Intern",
-      "url": "https://apply.workable.com/connectprep/j/E4655645B8/apply",
-      "location": "Boston, MA",
-      "department": "AI/ML/Data",
-      "company": "ConnectPrep",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -12777,6 +12730,137 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:6712ff89e93bcb37",
+      "title": "Supply Chain Engineering and Analytics Intern",
+      "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-BC-Surrey/Supply-Chain-Engineering-and-Analytics-Intern---Fall-2026_JR0149819",
+      "location": "Surrey, BC, Canada",
+      "department": "AI/ML/Data",
+      "company": "McKesson",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:b9dd5e7ba13dcd8c",
+      "title": "Research Intern",
+      "url": "https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Minneapolis-MN/Research-Intern_JR4284",
+      "location": "Minneapolis, MN",
+      "department": "AI/ML/Data",
+      "company": "Integrity",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f9f78d11e16b2f49",
+      "title": "Software Engineer Intern - Internal Tooling",
+      "url": "https://jobs.lever.co/traackr/9d884d26-018c-45b2-8cfb-f17d29d4e688/apply",
+      "location": "NYC",
+      "department": "Software",
+      "company": "Traackr",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:df747736170d0107",
+      "title": "China Subject Matter Expert Intern",
+      "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/6105290004",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "Two Six Technologies",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:717a820397b90089",
+      "title": "PhD Residency Intern - Physical ML & Hardware-in-the-Loop - Future of Compute",
+      "url": "https://x.company/careers/8616839002?gh_jid=8616839002",
+      "location": "Mountain View, CA",
+      "department": "Hardware",
+      "company": "X Development",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:c7ade99df4a6b7ff",
+      "title": "R&D Sustainability Intern - Nestlé Health Science",
+      "url": "https://jobdetails.nestle.com/job/Bridgewater-R&D-Sustainability-Intern-Nestl%C3%A9-Health-Science-NJ-08807/1410946433/?ats=successfactors",
+      "location": "Bridgewater Township, NJ",
+      "department": "AI/ML/Data",
+      "company": "Nestle",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:31111bb0d3294005",
+      "title": "Strategic Analyst Intern",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Strategic-Analyst-Intern_JR104599-1",
+      "location": "Dallas, TX",
+      "department": "AI/ML/Data",
+      "company": "Copart",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1f05dd365577984d",
+      "title": "Data Engineer Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/DTCO-Data-Engineer-Intern_JR0285341",
+      "location": "Austin, TX",
+      "department": "AI/ML/Data",
+      "company": "Intel",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1eacbad0d2fdf9c5",
+      "title": "Deep Learning Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/botauto/jobs/5289440008",
+      "location": "Houston, TX",
+      "department": "AI/ML/Data",
+      "company": "Bot Auto",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ce0adcff9203e4c5",
+      "title": "Data Analyst Intern",
+      "url": "https://apply.workable.com/connectprep/j/C0CA13664F/apply",
+      "location": "Washington, DC / Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "ConnectPrep",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
