@@ -1,6 +1,6 @@
 # Open Internships
 
-**1079** internships across **63/64** companies — last updated 2026-07-02.
+**1080** internships across **63/64** companies — last updated 2026-07-02.
 
 ## Companies
 
@@ -413,7 +413,7 @@
 - [The Wonderful Company](#the-wonderful-company) (1)
 - [thyssenkrupp](#thyssenkrupp) (2)
 - [TIFIN](#tifin) (1)
-- [TikTok](#tiktok) (67)
+- [TikTok](#tiktok) (68)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
 - [TMX Group](#tmx-group) (1)
@@ -3446,6 +3446,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Product Solutions and Operations Project Intern - Commerce Ads](https://lifeattiktok.com/search/7657640284071954741) | 50 | San Jose, CA | Product | 2026-07-02 |
 | [Frontend Software Engineer Project Intern - Global CRM](https://lifeattiktok.com/search/7654431844394322229) | 85 | San Jose, CA | Software | 2026-07-02 |
 | [Machine Learning Engineer Intern - App Ads](https://lifeattiktok.com/search/7623166673809770757) | 85 | San Jose, CA | AI/ML/Data | 2026-07-02 |
 | [Machine Learning Engineer Intern - Global E-Commerce Content Recommendation](https://lifeattiktok.com/search/7527077153591675154) | 85 | Seattle, WA | AI/ML/Data | 2026-06-28 |

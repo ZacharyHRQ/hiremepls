@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-02T04:36:39.736Z",
+  "generatedAt": "2026-07-02T07:55:04.683Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1079,
+  "jobCount": 1080,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1082,7 +1082,8 @@
     "canonical:7c5d2b32157ab319": "2026-07-02T04:36:39.736Z",
     "canonical:e81e539da869e2db": "2026-07-02T04:36:39.736Z",
     "canonical:0ba2bf24b0a169f6": "2026-07-02T04:36:39.736Z",
-    "canonical:ebe8e780043a0464": "2026-07-02T04:36:39.736Z"
+    "canonical:ebe8e780043a0464": "2026-07-02T04:36:39.736Z",
+    "canonical:cfc9556685ced54b": "2026-07-02T07:55:04.683Z"
   },
   "jobs": [
     {
@@ -12666,6 +12667,16 @@
       "scoreReasons": [
         "direct ATS"
       ]
+    },
+    {
+      "id": "canonical:cfc9556685ced54b",
+      "title": "Product Solutions and Operations Project Intern - Commerce Ads",
+      "url": "https://lifeattiktok.com/search/7657640284071954741",
+      "location": "San Jose, CA",
+      "department": "Product",
+      "company": "TikTok",
+      "score": 50,
+      "scoreReasons": []
     },
     {
       "id": "canonical:12cd06c0eec80152",
