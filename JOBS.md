@@ -1,6 +1,6 @@
 # Open Internships
 
-**1092** internships across **68/68** companies — last updated 2026-07-02.
+**1091** internships across **68/68** companies — last updated 2026-07-02.
 
 ## Companies
 
@@ -362,7 +362,6 @@
 - [Savannah River National Laboratory](#savannah-river-national-laboratory) (1)
 - [Scale AI](#scale-ai) (5)
 - [Schonfeld](#schonfeld) (4)
-- [Schweitzer Engineering Laboratories](#schweitzer-engineering-laboratories) (1)
 - [Seaspan](#seaspan) (2)
 - [Seven Research](#seven-research) (4)
 - [SHEIN](#shein) (2)
@@ -2997,12 +2996,6 @@
 | [2026 LATAM Investment Analyst (Internship)](https://job-boards.greenhouse.io/schonfeld/jobs/7761282) | 58 | São Paulo, Brazil | — | 2026-06-16 |
 | [2026 LATAM Operations Analyst (Internship)](https://job-boards.greenhouse.io/schonfeld/jobs/8008507) | 58 | São Paulo, Brazil | — | 2026-06-16 |
 | [Quantitative Research / Developer - Intern](https://job-boards.greenhouse.io/schonfeld/jobs/7185553) | 93 | Hong Kong, Hong Kong | — | 2026-05-06 |
-
-## Schweitzer Engineering Laboratories
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Application Engineer Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Canada---Barrie/Application-Engineering-Intern_2026-21837) | 93 | Barrie, ON, Canada | Software | 2026-07-01 |
 
 ## Seaspan
 

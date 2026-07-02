@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-02T16:25:49.391Z",
+  "generatedAt": "2026-07-02T18:09:58.832Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1092,
+  "jobCount": 1091,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -987,7 +987,6 @@
     "canonical:6c76e6238cc83dee": "2026-07-01T06:55:26.212Z",
     "canonical:0ab29f322f137223": "2026-07-01T06:55:26.212Z",
     "canonical:3c5ef86675f85fd7": "2026-07-01T06:55:26.212Z",
-    "canonical:b7660a0c22f7fb11": "2026-07-01T06:55:26.212Z",
     "canonical:668537c1981afbee": "2026-07-01T06:55:26.212Z",
     "canonical:6e052f0809bb5c01": "2026-07-01T06:55:26.212Z",
     "canonical:6fd55be5e1c8f21f": "2026-07-01T06:55:26.212Z",
@@ -12008,20 +12007,6 @@
       "company": "Lawrence Livermore National Laboratory (LLNL)",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:b7660a0c22f7fb11",
-      "title": "Application Engineer Intern",
-      "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Canada---Barrie/Application-Engineering-Intern_2026-21837",
-      "location": "Barrie, ON, Canada",
-      "department": "Software",
-      "company": "Schweitzer Engineering Laboratories",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
