@@ -1,6 +1,6 @@
 # Open Internships
 
-**1057** internships across **63/64** companies — last updated 2026-07-01.
+**1059** internships across **63/64** companies — last updated 2026-07-02.
 
 ## Companies
 
@@ -97,7 +97,7 @@
 - [Citadel Securities](#citadel-securities) (4)
 - [Clarity Innovations](#clarity-innovations) (1)
 - [Clera](#clera) (1)
-- [Cloudflare](#cloudflare) (8)
+- [Cloudflare](#cloudflare) (9)
 - [Cloudforce](#cloudforce) (1)
 - [Codeage](#codeage) (1)
 - [Cohere](#cohere) (3)
@@ -149,6 +149,7 @@
 - [Eulerity](#eulerity) (2)
 - [Eurofins](#eurofins) (3)
 - [EV Realty](#ev-realty) (1)
+- [Evolver](#evolver) (1)
 - [EXL](#exl) (1)
 - [Expedia Group](#expedia-group) (1)
 - [F. Schumacher & Co.](#f-schumacher-co) (1)
@@ -198,6 +199,7 @@
 - [HNTB](#hntb) (1)
 - [Homebase](#homebase) (1)
 - [HPM Building Supply](#hpm-building-supply) (1)
+- [Human Computer Lab](#human-computer-lab) (1)
 - [Hunt Oil Company](#hunt-oil-company) (2)
 - [iHerb](#iherb) (1)
 - [Illinois Tool Works](#illinois-tool-works) (1)
@@ -217,7 +219,6 @@
 - [Interstates](#interstates) (1)
 - [Intuitive Surgical](#intuitive-surgical) (1)
 - [iSpot.tv](#ispot-tv) (1)
-- [JINGDONG](#jingdong) (1)
 - [JP Morgan Chase](#jp-morgan-chase) (1)
 - [Jump Trading](#jump-trading) (2)
 - [K1](#k1) (1)
@@ -234,7 +235,6 @@
 - [Lambda](#lambda) (2)
 - [Landis+Gyr](#landis-gyr) (1)
 - [Lawrence Livermore National Laboratory (LLNL)](#lawrence-livermore-national-laboratory-llnl) (2)
-- [Layup Parts](#layup-parts) (1)
 - [Legrand North America](#legrand-north-america) (1)
 - [Lensa](#lensa) (3)
 - [LinkedIn](#linkedin) (3)
@@ -394,7 +394,7 @@
 - [TENEX.AI](#tenex-ai) (1)
 - [Tenstorrent](#tenstorrent) (6)
 - [Terranox AI](#terranox-ai) (1)
-- [Tesla](#tesla) (95)
+- [Tesla](#tesla) (96)
 - [Tessera Labs](#tessera-labs) (2)
 - [TETRAMEM](#tetramem) (1)
 - [Texas Instruments](#texas-instruments) (1)
@@ -428,6 +428,7 @@
 - [Uncountable](#uncountable) (1)
 - [University Health Network](#university-health-network) (1)
 - [Vanguard](#vanguard) (1)
+- [Varda Space](#varda-space) (1)
 - [Veeam Software](#veeam-software) (2)
 - [Veeva](#veeva) (1)
 - [Veeva Systems](#veeva-systems) (1)
@@ -452,7 +453,6 @@
 - [XPENG Motors](#xpeng-motors) (2)
 - [Zip](#zip) (1)
 - [Zipline](#zipline) (7)
-- [Zone 5 Technologies](#zone-5-technologies) (1)
 - [Zoox](#zoox) (1)
 
 ## 1Password
@@ -1132,7 +1132,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
+| [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
 | [Sales Project Manager Intern (AI Innovation) (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8020830?gh_jid=8020830) | 38 | In-Office | — | 2026-06-23 |
 | [Legal Intern – Commercial Legal (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7983674?gh_jid=7983674) | 58 | In-Office | — | 2026-06-05 |
 | [People Team Intern - HR Operations & AI Innovation (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240) | 58 | In-Office | — | 2026-05-20 |
@@ -1477,6 +1478,12 @@
 | --- | --- | --- | --- | --- |
 | [Data Analytics Intern](https://jobs.lever.co/evrealty-us/0274f48f-9b19-4bed-bf6a-5e02a2b1e865/apply) | 68 | Salt Lake City, UT / SF | AI/ML/Data | 2026-05-22 |
 
+## Evolver
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Applied Data Science Intern](https://job-boards.greenhouse.io/evolver/jobs/4254540009) | 68 | Palo Alto, CA | AI/ML/Data | 2026-07-02 |
+
 ## EXL
 
 | Title | Score | Location | Department | First seen |
@@ -1789,6 +1796,12 @@
 | --- | --- | --- | --- | --- |
 | [Retail, Inventory Management, and Merchandising Internship](https://www.linkedin.com/jobs/view/4260421271) | 22 | Kahului, HI | — | 2026-05-16 |
 
+## Human Computer Lab
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software/ML Engineering Intern](https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705/application) | 68 | Toronto, ON, Canada / SF | AI/ML/Data | 2026-07-02 |
+
 ## Hunt Oil Company
 
 | Title | Score | Location | Department | First seen |
@@ -1932,12 +1945,6 @@
 | --- | --- | --- | --- | --- |
 | [Data Science Intern](https://job-boards.greenhouse.io/ispottv/jobs/4703297005) | 68 | Bellevue, WA | AI/ML/Data | 2026-06-09 |
 
-## JINGDONG
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [JD Young AI Data Analyst Intern](https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/GBR-England-Greater-London-London/JD-Young-AI-Data-Analyst-Internship_JR102354) | 68 | London, UK | AI/ML/Data | 2026-05-16 |
-
 ## JP Morgan Chase
 
 | Title | Score | Location | Department | First seen |
@@ -2040,12 +2047,6 @@
 | --- | --- | --- | --- | --- |
 | [Computing Graduate Student Intern](https://jobs.smartrecruiters.com/LLNL/3743990013801396) | 74 | Livermore, CA | AI/ML/Data | 2026-07-01 |
 | [Computing Undergraduate Student Intern](https://jobs.smartrecruiters.com/LLNL/3743990013801386) | 68 | Livermore, CA | AI/ML/Data | 2026-07-01 |
-
-## Layup Parts
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineering Intern](https://jobs.lever.co/layup/0b42f7ad-ebdc-4b4a-8fe6-47640f6dba53/apply) | 68 | Huntington Beach, CA | Software | 2026-05-09 |
 
 ## Legrand North America
 
@@ -2670,8 +2671,8 @@
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-05-09 |
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-05-09 |
 | [2026 Technology Internship – Software Engineer](https://boards.greenhouse.io/point72/jobs/8406727002?gh_jid=8406727002) | 93 | Warsaw, Poland | — | 2026-05-06 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -3216,6 +3217,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Firmware Engineer Intern - Power Electronics Firmware Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/275689) | 75 | Palo Alto, CA | Hardware | 2026-07-02 |
 | [Machine Learning Intern - AI Engineer - Tesla AI](https://www.tesla.com/careers/search/job/275331) | 85 | Palo Alto, CA | AI/ML/Data | 2026-07-01 |
 | [Software Engineer Intern - Distributed Systems Software Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/275558) | 85 | Palo Alto, CA | Software | 2026-07-01 |
 | [AI/ML Modeling Engineer Intern - ML Modeling Engineer - AI Hardware](https://www.tesla.com/careers/search/job/275316) | 85 | Palo Alto, CA | AI/ML/Data | 2026-07-01 |
@@ -3583,6 +3585,12 @@
 | --- | --- | --- | --- | --- |
 | [College to Corporate Internship - Application Development (PA)](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed397?utm_source=1099&utm_campaign=Software%20Engineer) | 42 | Malvern, PA | — | 2026-05-16 |
 
+## Varda Space
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Mission Software – Intern - Python](https://job-boards.greenhouse.io/vardaspace/jobs/7676465003) | 68 | El Segundo, CA | Software | 2026-07-02 |
+
 ## Veeam Software
 
 | Title | Score | Location | Department | First seen |
@@ -3749,12 +3757,6 @@
 | [Computational Physics Intern](https://www.zipline.com/careers?gh_jid=7766408003#open-roles) | 60 | San Bruno, CA | AI/ML/Data | 2026-06-08 |
 | [Embedded Software Engineer Intern](https://www.zipline.com/careers?gh_jid=7765240003#open-roles) | 85 | San Bruno, CA | Hardware | 2026-06-06 |
 | [Perception Intern](https://www.zipline.com/careers?gh_jid=7761650003#open-roles) | 60 | Dallas, TX / San Bruno, CA | AI/ML/Data | 2026-06-03 |
-
-## Zone 5 Technologies
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Manufacturing Data Analyst Intern](https://job-boards.greenhouse.io/zone5technologies/jobs/5231405008) | 68 | San Luis Obispo, CA | AI/ML/Data | 2026-05-27 |
 
 ## Zoox
 

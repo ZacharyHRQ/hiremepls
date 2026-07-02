@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-01T23:02:00.772Z",
+  "generatedAt": "2026-07-02T00:19:11.514Z",
   "companyCount": 64,
   "okCount": 63,
-  "jobCount": 1057,
+  "jobCount": 1059,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -55,7 +55,6 @@
     "canonical:b0682e13963fcdcc": "2026-05-09T15:28:15.527Z",
     "canonical:8fc863f495e5ebf7": "2026-05-09T15:28:15.527Z",
     "canonical:40b5e3e02c34b6ce": "2026-05-09T15:28:15.527Z",
-    "canonical:bea2ef245d19ee31": "2026-05-09T15:28:15.527Z",
     "canonical:de6d18632414755c": "2026-05-09T15:28:15.527Z",
     "canonical:27106f34e940af1e": "2026-05-09T15:28:15.527Z",
     "canonical:ee183f5783e60123": "2026-05-09T15:28:15.527Z",
@@ -403,7 +402,6 @@
     "canonical:df6056312e05d997": "2026-05-14T10:39:41.754Z",
     "canonical:7e77aa63006b14db": "2026-05-14T10:39:41.754Z",
     "canonical:899b22def644ff06": "2026-05-14T10:39:41.754Z",
-    "canonical:7d5a0ee046f5c29b": "2026-05-16T10:16:11.835Z",
     "canonical:d590901df9c6b5b8": "2026-05-16T10:16:11.835Z",
     "canonical:cec26ccb43b437cd": "2026-05-16T10:16:11.835Z",
     "canonical:92712aff786aa139": "2026-05-16T10:16:11.835Z",
@@ -563,7 +561,6 @@
     "canonical:e87b9219892bc7ee": "2026-05-27T14:19:21.217Z",
     "canonical:5391ceaa9b10ee30": "2026-05-27T14:19:21.217Z",
     "canonical:54a1ed2427bb13ad": "2026-05-27T14:19:21.217Z",
-    "canonical:4aaaa525daf9c64d": "2026-05-27T14:19:21.217Z",
     "canonical:fdcbfd1a53fb0e8a": "2026-05-27T17:38:56.111Z",
     "canonical:dc784fbedc1313dc": "2026-05-27T17:38:56.111Z",
     "canonical:4c90073ef9333aec": "2026-05-27T17:38:56.111Z",
@@ -1060,7 +1057,12 @@
     "canonical:3a6ae29ca0f41c86": "2026-07-01T23:02:00.772Z",
     "canonical:090c30f9249f9ff1": "2026-07-01T23:02:00.772Z",
     "canonical:d0ba5b968199b27e": "2026-07-01T23:02:00.772Z",
-    "canonical:37441aba4bffccd6": "2026-07-01T23:02:00.772Z"
+    "canonical:37441aba4bffccd6": "2026-07-01T23:02:00.772Z",
+    "canonical:c3f909dd643f2906": "2026-07-02T00:19:11.514Z",
+    "canonical:917c8771cd813a8d": "2026-07-02T00:19:11.514Z",
+    "canonical:fd8ac8dcbab2fe1e": "2026-07-02T00:19:11.514Z",
+    "canonical:518f53d8b1c4fc71": "2026-07-02T00:19:11.514Z",
+    "canonical:234b0abdc8be0076": "2026-07-02T00:19:11.514Z"
   },
   "jobs": [
     {
@@ -1550,10 +1552,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1564,10 +1566,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -2178,7 +2180,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -2321,19 +2323,6 @@
       "company": "Cribl",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:bea2ef245d19ee31",
-      "title": "Software Engineering Intern",
-      "url": "https://jobs.lever.co/layup/0b42f7ad-ebdc-4b4a-8fe6-47640f6dba53/apply",
-      "location": "Huntington Beach, CA",
-      "department": "Software",
-      "company": "Layup Parts",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
     },
     {
       "id": "canonical:de6d18632414755c",
@@ -4900,6 +4889,19 @@
       "scoreReasons": []
     },
     {
+      "id": "canonical:c3f909dd643f2906",
+      "title": "Mission Software – Intern - Python",
+      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7676465003",
+      "location": "El Segundo, CA",
+      "department": "Software",
+      "company": "Varda Space",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:bb63a577c98aec70",
       "title": "Data Analyst Project Intern - Data Science",
       "url": "https://lifeattiktok.com/search/7620775575152462085",
@@ -5853,19 +5855,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:7d5a0ee046f5c29b",
-      "title": "JD Young AI Data Analyst Intern",
-      "url": "https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/GBR-England-Greater-London-London/JD-Young-AI-Data-Analyst-Internship_JR102354",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "JINGDONG",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -7835,19 +7824,6 @@
       ]
     },
     {
-      "id": "canonical:4aaaa525daf9c64d",
-      "title": "Manufacturing Data Analyst Intern",
-      "url": "https://job-boards.greenhouse.io/zone5technologies/jobs/5231405008",
-      "location": "San Luis Obispo, CA",
-      "department": "AI/ML/Data",
-      "company": "Zone 5 Technologies",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:dc784fbedc1313dc",
       "title": "Research Engineer Intern - Mapping & Localization",
       "url": "https://jobs.lever.co/plus-2/efbb82d3-1c4a-4fc9-8b40-ee1545085061/apply",
@@ -9498,6 +9474,19 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:917c8771cd813a8d",
+      "title": "Applied Data Science Intern",
+      "url": "https://job-boards.greenhouse.io/evolver/jobs/4254540009",
+      "location": "Palo Alto, CA",
+      "department": "AI/ML/Data",
+      "company": "Evolver",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -12354,6 +12343,45 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:fd8ac8dcbab2fe1e",
+      "title": "Firmware Engineer Intern - Power Electronics Firmware Engineer - Energy Engineering",
+      "url": "https://www.tesla.com/careers/search/job/275689",
+      "location": "Palo Alto, CA",
+      "department": "Hardware",
+      "company": "Tesla",
+      "score": 75,
+      "scoreReasons": [
+        "SWE-aligned"
+      ]
+    },
+    {
+      "id": "canonical:518f53d8b1c4fc71",
+      "title": "Systems Engineer – Data Residency Intern - Global Resource Management",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8015230",
+      "location": "Austin, TX",
+      "department": "Software",
+      "company": "Cloudflare",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:234b0abdc8be0076",
+      "title": "Software/ML Engineering Intern",
+      "url": "https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705/application",
+      "location": "Toronto, ON, Canada / SF",
+      "department": "AI/ML/Data",
+      "company": "Human Computer Lab",
+      "score": 68,
+      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
