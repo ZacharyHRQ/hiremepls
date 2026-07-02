@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-02T18:09:58.832Z",
+  "generatedAt": "2026-07-02T19:48:24.227Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1091,
+  "jobCount": 1090,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -581,7 +581,6 @@
     "canonical:1df04de60e393fed": "2026-05-29T17:55:07.126Z",
     "canonical:b661e8e93c959d87": "2026-05-31T04:52:04.247Z",
     "canonical:b2ba7fb9dd17dfe9": "2026-05-31T04:52:04.247Z",
-    "canonical:b4a502570f796f0f": "2026-06-01T22:35:57.770Z",
     "canonical:6cdd1633b8f5ce3a": "2026-06-01T23:55:48.935Z",
     "canonical:13e1acc0b159fe16": "2026-06-01T23:55:48.935Z",
     "canonical:21698b3026c5ea94": "2026-06-03T00:01:07.922Z",
@@ -809,7 +808,6 @@
     "canonical:a67713b89b2d0000": "2026-06-16T23:09:30.532Z",
     "canonical:e3e832551adf1c5f": "2026-06-16T23:09:30.532Z",
     "canonical:d47c6bdc1b6f926b": "2026-06-16T23:09:30.532Z",
-    "canonical:0daed5c9bb46ac4c": "2026-06-16T23:09:30.532Z",
     "canonical:dc14b382c79eecb2": "2026-06-16T23:09:30.532Z",
     "canonical:d83aa4ee71351660": "2026-06-17T01:40:00.105Z",
     "canonical:ede981cf4aef3284": "2026-06-17T01:40:00.105Z",
@@ -1094,7 +1092,8 @@
     "canonical:8b522f36817f5b67": "2026-07-02T14:37:41.688Z",
     "canonical:917c8771cd813a8d": "2026-07-02T16:25:49.391Z",
     "canonical:a776bc8ff01b2ab7": "2026-07-02T16:25:49.391Z",
-    "canonical:1463c8d45c6981d1": "2026-07-02T16:25:49.391Z"
+    "canonical:1463c8d45c6981d1": "2026-07-02T16:25:49.391Z",
+    "canonical:68677d1a8d76947c": "2026-07-02T19:48:24.227Z"
   },
   "jobs": [
     {
@@ -1266,10 +1265,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1281,10 +1280,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -2316,7 +2315,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -2329,6 +2328,18 @@
       "id": "canonical:fbdd5a056fe65f91",
       "title": "People Team Intern - HR Operations & AI Innovation (Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240",
+      "location": "In-Office",
+      "department": "",
+      "company": "Cloudflare",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:68677d1a8d76947c",
+      "title": "Professional Services Intern – Global Customer Services (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -8175,19 +8186,6 @@
       ]
     },
     {
-      "id": "canonical:b4a502570f796f0f",
-      "title": "Generative AI Developer Intern",
-      "url": "https://careers-cotiviti.icims.com/jobs/19214/job?mobile=true&needsRedirect=false",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "Cotiviti",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:6cdd1633b8f5ce3a",
       "title": "AI Research Marketing Intern",
       "url": "https://jobs.ashbyhq.com/lambda/1c764f96-966d-4560-8087-35452480d330/application",
@@ -10198,19 +10196,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:0daed5c9bb46ac4c",
-      "title": "Software Analyst Intern",
-      "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst-Intern--Fall-2026--8-months-_R1013034",
-      "location": "Scarborough, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Hitachi",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
