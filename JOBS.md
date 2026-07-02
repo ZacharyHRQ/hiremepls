@@ -1,6 +1,6 @@
 # Open Internships
 
-**1089** internships across **68/68** companies — last updated 2026-07-02.
+**1087** internships across **68/68** companies — last updated 2026-07-02.
 
 ## Companies
 
@@ -399,7 +399,7 @@
 - [TENEX.AI](#tenex-ai) (1)
 - [Tenstorrent](#tenstorrent) (7)
 - [Terranox AI](#terranox-ai) (1)
-- [Tesla](#tesla) (96)
+- [Tesla](#tesla) (95)
 - [Tessera Labs](#tessera-labs) (2)
 - [TETRAMEM](#tetramem) (1)
 - [Texas Instruments](#texas-instruments) (1)
@@ -436,7 +436,6 @@
 - [Varda Space](#varda-space) (1)
 - [Veeam Software](#veeam-software) (2)
 - [Veeva](#veeva) (1)
-- [Veeva Systems](#veeva-systems) (1)
 - [Verkada](#verkada) (5)
 - [VetsEZ](#vetsez) (1)
 - [Viridien](#viridien) (1)
@@ -3325,7 +3324,6 @@
 | [Electronics Design Engineer Intern - Reliability Electronics Design Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/272601) | 50 | Palo Alto, CA | Hardware | 2026-06-07 |
 | [Data Engineer Intern - Data Engineer - Energy](https://www.tesla.com/careers/search/job/271331) | 85 | Palo Alto, CA | AI/ML/Data | 2026-06-07 |
 | [Embedded Software Engineer Intern - Embedded Software Engineer - Audio Systems](https://www.tesla.com/careers/search/job/266999) | 85 | Palo Alto, CA | Hardware | 2026-06-07 |
-| [Embedded Software Engineer Intern - Embedded Software Engineer - Firmware Platforms](https://www.tesla.com/careers/search/job/266985) | 85 | Palo Alto, CA | Hardware | 2026-06-07 |
 | [Fullstack Engineer Intern - Fullstack Engineer - Build Infrastructure](https://www.tesla.com/careers/search/job/267005) | 85 | Palo Alto, CA | Software | 2026-06-07 |
 | [Mobile App Software Engineer Intern - Mobile Application Software Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/271382) | 85 | Palo Alto, CA | Software | 2026-06-07 |
 | [Mobile Applications Engineering Intern - Android Engineer - Mobile Software](https://www.tesla.com/careers/search/job/266980) | 85 | Palo Alto, CA | Software | 2026-06-07 |
@@ -3663,12 +3661,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Intern Software Engineer](https://careers.veeva.com/job/4df9c2ca-d702-4d41-af82-290deff66564/intern-software-engineer-summer-2026-pleasanton-ca/) | 85 | Pleasanton, CA | Software Engineering | 2026-05-09 |
-
-## Veeva Systems
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer in Test Intern](https://jobs.lever.co/veeva/02b4428c-240e-456a-80d2-59ef8e6a013c/apply) | 93 | Toronto, ON, Canada | Software | 2026-05-09 |
 
 ## Verkada
 

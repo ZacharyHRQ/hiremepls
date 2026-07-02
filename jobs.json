@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-02T20:53:43.608Z",
+  "generatedAt": "2026-07-02T21:58:45.363Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1089,
+  "jobCount": 1087,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -246,7 +246,6 @@
     "canonical:ae37458b8cb9ad0d": "2026-05-09T15:28:15.527Z",
     "canonical:12679842c69ce81c": "2026-05-09T15:28:15.527Z",
     "canonical:eb662fdd2ae38eb8": "2026-05-09T15:28:15.527Z",
-    "canonical:ab77cca2d9aec486": "2026-05-09T15:28:15.527Z",
     "canonical:1195698531e1f470": "2026-05-09T15:28:15.527Z",
     "canonical:6fbcace9a38d133f": "2026-05-09T15:28:15.527Z",
     "canonical:ae2cb67483530a53": "2026-05-13T23:40:40.818Z",
@@ -649,7 +648,6 @@
     "canonical:9de45eedb1335ef6": "2026-06-07T01:56:06.706Z",
     "canonical:186d139d517116a9": "2026-06-07T01:56:06.706Z",
     "canonical:0dd89319a7c4740f": "2026-06-07T01:56:06.706Z",
-    "canonical:179ff221d4311555": "2026-06-07T01:56:06.706Z",
     "canonical:5f5f4291563c764e": "2026-06-07T01:56:06.706Z",
     "canonical:acc457d7f8095cc2": "2026-06-07T01:56:06.706Z",
     "canonical:551d3ef7a63a8047": "2026-06-07T01:56:06.706Z",
@@ -5891,20 +5889,6 @@
       ]
     },
     {
-      "id": "canonical:ab77cca2d9aec486",
-      "title": "Software Engineer in Test Intern",
-      "url": "https://jobs.lever.co/veeva/02b4428c-240e-456a-80d2-59ef8e6a013c/apply",
-      "location": "Toronto, ON, Canada",
-      "department": "Software",
-      "company": "Veeva Systems",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:1195698531e1f470",
       "title": "PhD Machine Learning Intern - Visual - Recommender Systems",
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7255640",
@@ -8822,19 +8806,6 @@
       "url": "https://www.tesla.com/careers/search/job/266980",
       "location": "Palo Alto, CA",
       "department": "Software",
-      "company": "Tesla",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:179ff221d4311555",
-      "title": "Embedded Software Engineer Intern - Embedded Software Engineer - Firmware Platforms",
-      "url": "https://www.tesla.com/careers/search/job/266985",
-      "location": "Palo Alto, CA",
-      "department": "Hardware",
       "company": "Tesla",
       "score": 85,
       "scoreReasons": [
