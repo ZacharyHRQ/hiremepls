@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-02T14:37:41.688Z",
+  "generatedAt": "2026-07-02T16:25:49.391Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1091,
+  "jobCount": 1092,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -299,7 +299,6 @@
     "canonical:5c22e36371eb56e9": "2026-05-15T10:04:41.511Z",
     "canonical:c031cb55c680003f": "2026-05-15T22:36:45.367Z",
     "canonical:db9f13352795d6dc": "2026-05-15T23:35:38.383Z",
-    "canonical:6cfe7d316f2c2834": "2026-05-15T23:35:38.383Z",
     "canonical:f37bc45fd732af97": "2026-05-15T23:35:38.383Z",
     "canonical:47a58dc4b6e43e69": "2026-05-16T04:46:03.679Z",
     "canonical:4265c7d75354f106": "2026-05-16T08:58:52.526Z",
@@ -1019,7 +1018,6 @@
     "canonical:3e99f48994d7f7b8": "2026-07-01T13:21:48.812Z",
     "canonical:ec6c557283333a45": "2026-07-01T13:21:48.812Z",
     "canonical:4168fcd2f5f91a08": "2026-07-01T13:21:48.812Z",
-    "canonical:ce890d51c1a61aab": "2026-07-01T13:21:48.812Z",
     "canonical:338818c406e2b9a5": "2026-07-01T18:14:22.942Z",
     "canonical:8ea3263defb2b606": "2026-07-01T18:14:22.942Z",
     "canonical:09bbbe30e614c9ef": "2026-07-01T18:14:22.942Z",
@@ -1094,7 +1092,10 @@
     "canonical:4657deb65ec280ac": "2026-07-02T13:33:38.399Z",
     "canonical:e8038afc6e3ca5c9": "2026-07-02T13:33:38.399Z",
     "canonical:ceb153a3975c027c": "2026-07-02T13:33:38.399Z",
-    "canonical:8b522f36817f5b67": "2026-07-02T14:37:41.688Z"
+    "canonical:8b522f36817f5b67": "2026-07-02T14:37:41.688Z",
+    "canonical:917c8771cd813a8d": "2026-07-02T16:25:49.391Z",
+    "canonical:a776bc8ff01b2ab7": "2026-07-02T16:25:49.391Z",
+    "canonical:1463c8d45c6981d1": "2026-07-02T16:25:49.391Z"
   },
   "jobs": [
     {
@@ -1266,10 +1267,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1281,10 +1282,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -2316,7 +2317,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -6892,16 +6893,6 @@
       ]
     },
     {
-      "id": "canonical:6cfe7d316f2c2834",
-      "title": "Manufacturing Intern",
-      "url": "https://www.interstates.com/careers/jobs?gh_jid=4033938009&gh_jid=4033938009",
-      "location": "Fort Collins, CO",
-      "department": "Hardware",
-      "company": "Interstates",
-      "score": 50,
-      "scoreReasons": []
-    },
-    {
       "id": "canonical:f37bc45fd732af97",
       "title": "Research Scientist Intern - Multimodal Contextual AI",
       "url": "https://www.metacareers.com/jobs/2160167211413098",
@@ -8744,19 +8735,6 @@
       ]
     },
     {
-      "id": "canonical:ce890d51c1a61aab",
-      "title": "Web Producer Intern",
-      "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Web-Producer-Intern--September-2026-12-Months-_R10090",
-      "location": "Mississauga, ON, Canada",
-      "department": "Software",
-      "company": "SOTI",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:525d35ef69b019bc",
       "title": "Embedded Software Engineer Intern",
       "url": "https://www.zipline.com/careers?gh_jid=7765240003#open-roles",
@@ -9647,6 +9625,19 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:917c8771cd813a8d",
+      "title": "Applied Data Science Intern",
+      "url": "https://job-boards.greenhouse.io/evolver/jobs/4254540009",
+      "location": "Palo Alto, CA",
+      "department": "AI/ML/Data",
+      "company": "Evolver",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -12830,6 +12821,31 @@
       "location": "London, UK",
       "department": "Hardware",
       "company": "Apple",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:a776bc8ff01b2ab7",
+      "title": "Business Intelligence Intern",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135497810",
+      "location": "Belmont, MA",
+      "department": "AI/ML/Data",
+      "company": "Bosch Home Comfort",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1463c8d45c6981d1",
+      "title": "GIS Intern",
+      "url": "https://external-telecom-teldta.icims.com/jobs/29604/job?mobile=true&needsRedirect=false",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "TDS",
       "score": 60,
       "scoreReasons": [
         "high-signal role"
