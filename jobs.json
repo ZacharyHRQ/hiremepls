@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-02T19:48:24.227Z",
+  "generatedAt": "2026-07-02T20:53:43.608Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1090,
+  "jobCount": 1089,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -799,8 +799,6 @@
     "canonical:02988811ee1420ed": "2026-06-15T11:27:26.940Z",
     "canonical:fb0b6401fc50cfcd": "2026-06-15T11:27:26.940Z",
     "canonical:8a584693aa3805ae": "2026-06-15T16:25:40.601Z",
-    "canonical:36b00da4bc44f6c0": "2026-06-16T10:25:08.571Z",
-    "canonical:5c3a7585df271d94": "2026-06-16T15:25:00.747Z",
     "canonical:1e4b260af71102a2": "2026-06-16T15:25:00.747Z",
     "canonical:e6d9cce14ccbac53": "2026-06-16T15:25:00.747Z",
     "canonical:80683ba5e9cf44e3": "2026-06-16T15:25:00.747Z",
@@ -881,7 +879,6 @@
     "canonical:05a30cbc3123c379": "2026-06-23T14:03:34.437Z",
     "canonical:ab20f77386bc364b": "2026-06-23T14:03:34.437Z",
     "canonical:31ff0ed183a28390": "2026-06-23T14:03:34.437Z",
-    "canonical:d4b4e578d1146494": "2026-06-23T20:32:39.548Z",
     "canonical:86cc573fd0d0b2f6": "2026-06-23T23:20:15.315Z",
     "canonical:654dd86a700f6a39": "2026-06-24T01:21:54.211Z",
     "canonical:fa45235205b59945": "2026-06-24T01:21:54.211Z",
@@ -1093,7 +1090,9 @@
     "canonical:917c8771cd813a8d": "2026-07-02T16:25:49.391Z",
     "canonical:a776bc8ff01b2ab7": "2026-07-02T16:25:49.391Z",
     "canonical:1463c8d45c6981d1": "2026-07-02T16:25:49.391Z",
-    "canonical:68677d1a8d76947c": "2026-07-02T19:48:24.227Z"
+    "canonical:68677d1a8d76947c": "2026-07-02T19:48:24.227Z",
+    "canonical:9a79d93dc014eae2": "2026-07-02T20:53:43.608Z",
+    "canonical:31134a37a60ad7ed": "2026-07-02T20:53:43.608Z"
   },
   "jobs": [
     {
@@ -1265,10 +1264,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1280,10 +1279,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1755,21 +1754,9 @@
       ]
     },
     {
-      "id": "canonical:5c3a7585df271d94",
-      "title": "2026 LATAM Investment Analyst (Internship)",
-      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7761282",
-      "location": "São Paulo, Brazil",
-      "department": "",
-      "company": "Schonfeld",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:36b00da4bc44f6c0",
-      "title": "2026 LATAM Operations Analyst (Internship)",
-      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8008507",
+      "id": "canonical:9a79d93dc014eae2",
+      "title": "Operations Internship",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8044346",
       "location": "São Paulo, Brazil",
       "department": "",
       "company": "Schonfeld",
@@ -2387,10 +2374,10 @@
       ]
     },
     {
-      "id": "canonical:d4b4e578d1146494",
+      "id": "canonical:31134a37a60ad7ed",
       "title": "Customer Experience Associate (New Grad)",
       "url": "https://boards.greenhouse.io/robinhood/jobs/8024530?t=gh_src=&gh_jid=8024530",
-      "location": "Denver, CO; Westlake, TX",
+      "location": "Westlake, TX",
       "department": "",
       "company": "Robinhood",
       "score": 64,
