@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T13:33:38.399Z",
+  "generatedAt": "2026-07-02T14:37:41.688Z",
   "companyCount": 68,
   "okCount": 68,
   "jobCount": 1091,
@@ -1044,7 +1044,6 @@
     "canonical:d0ba5b968199b27e": "2026-07-01T23:02:00.772Z",
     "canonical:37441aba4bffccd6": "2026-07-01T23:02:00.772Z",
     "canonical:c3f909dd643f2906": "2026-07-02T00:19:11.514Z",
-    "canonical:917c8771cd813a8d": "2026-07-02T00:19:11.514Z",
     "canonical:fd8ac8dcbab2fe1e": "2026-07-02T00:19:11.514Z",
     "canonical:518f53d8b1c4fc71": "2026-07-02T00:19:11.514Z",
     "canonical:234b0abdc8be0076": "2026-07-02T00:19:11.514Z",
@@ -1094,7 +1093,8 @@
     "canonical:796deecc942fc471": "2026-07-02T13:33:38.399Z",
     "canonical:4657deb65ec280ac": "2026-07-02T13:33:38.399Z",
     "canonical:e8038afc6e3ca5c9": "2026-07-02T13:33:38.399Z",
-    "canonical:ceb153a3975c027c": "2026-07-02T13:33:38.399Z"
+    "canonical:ceb153a3975c027c": "2026-07-02T13:33:38.399Z",
+    "canonical:8b522f36817f5b67": "2026-07-02T14:37:41.688Z"
   },
   "jobs": [
     {
@@ -2316,7 +2316,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -3654,6 +3654,19 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:5fad4f58541c53c3",
+      "title": "Research Intern",
+      "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-Washington-Bellevue/Research-Internship---Reinforcement-Learning-for-Large-Foundation-Models_R106337",
+      "location": "Bellevue, WA",
+      "department": "AI/ML/Data",
+      "company": "Tencent",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -9521,6 +9534,19 @@
       ]
     },
     {
+      "id": "canonical:8b522f36817f5b67",
+      "title": "Software Developer Intern",
+      "url": "https://careers-kinaxis.icims.com/jobs/34899/job?mobile=true&needsRedirect=false",
+      "location": "Ottawa, ON, Canada",
+      "department": "Software",
+      "company": "Kinaxis",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:3cfa8d538fe65c66",
       "title": "Embedded Software Intern - Embedded Software Engineer - Optimus",
       "url": "https://www.tesla.com/careers/search/job/273272",
@@ -9621,19 +9647,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:917c8771cd813a8d",
-      "title": "Applied Data Science Intern",
-      "url": "https://job-boards.greenhouse.io/evolver/jobs/4254540009",
-      "location": "Palo Alto, CA",
-      "department": "AI/ML/Data",
-      "company": "Evolver",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -11134,19 +11147,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:5fad4f58541c53c3",
-      "title": "Research Intern",
-      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Research-Internship---Reinforcement-Learning-for-Large-Foundation-Models_R106337-1",
-      "location": "Bellevue, WA",
-      "department": "AI/ML/Data",
-      "company": "Tencent",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
