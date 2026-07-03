@@ -1,6 +1,6 @@
 # Open Internships
 
-**1093** internships across **68/68** companies — last updated 2026-07-02.
+**1092** internships across **68/68** companies — last updated 2026-07-03.
 
 ## Companies
 
@@ -311,7 +311,6 @@
 - [Paragon](#paragon) (1)
 - [PathAI](#pathai) (1)
 - [PayPal](#paypal) (1)
-- [Pebl](#pebl) (1)
 - [PennState University](#pennstate-university) (1)
 - [Peraton](#peraton) (1)
 - [Periodic Labs](#periodic-labs) (1)
@@ -2613,12 +2612,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Machine Learning Engineer PhD Intern](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer-PhD-Intern_R0130591) | 93 | San Jose, CA | Data Science, AI & Machine Learning | 2026-05-09 |
-
-## Pebl
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Intern - Conversational AI - Alfie](https://jobs.ashbyhq.com/pebl/dda67c17-87a7-477b-a0d4-a748fd75ae44/application) | 93 | Palo Alto, CA | AI/ML/Data | 2026-06-17 |
 
 ## PennState University
 

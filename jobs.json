@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-02T23:06:51.141Z",
+  "generatedAt": "2026-07-03T00:17:40.244Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1093,
+  "jobCount": 1092,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -822,7 +822,6 @@
     "canonical:ed844f44d7281700": "2026-06-17T06:49:09.742Z",
     "canonical:baf2d5063a323ec0": "2026-06-17T06:49:09.742Z",
     "canonical:d15a582725b4129b": "2026-06-17T06:49:09.742Z",
-    "canonical:569506bec1b33e0d": "2026-06-17T06:49:09.742Z",
     "canonical:3c6099c18b55d40a": "2026-06-17T06:49:09.742Z",
     "canonical:5b93475ac32ee191": "2026-06-17T06:49:09.742Z",
     "canonical:2a600b101ee31a5b": "2026-06-17T06:49:09.742Z",
@@ -10311,20 +10310,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:569506bec1b33e0d",
-      "title": "Software Engineer Intern - Conversational AI - Alfie",
-      "url": "https://jobs.ashbyhq.com/pebl/dda67c17-87a7-477b-a0d4-a748fd75ae44/application",
-      "location": "Palo Alto, CA",
-      "department": "AI/ML/Data",
-      "company": "Pebl",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
