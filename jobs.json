@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-03T22:40:03.965Z",
+  "generatedAt": "2026-07-03T23:40:49.562Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1090,
+  "jobCount": 1092,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -803,7 +803,6 @@
     "canonical:1782ca39c8f2f506": "2026-06-17T06:49:09.742Z",
     "canonical:72a04379c4f2bf88": "2026-06-17T06:49:09.742Z",
     "canonical:1188eeec8fc3af96": "2026-06-17T06:49:09.742Z",
-    "canonical:5afaf2b75825991d": "2026-06-17T06:49:09.742Z",
     "canonical:666a2ab24698b316": "2026-06-17T06:49:09.742Z",
     "canonical:ed844f44d7281700": "2026-06-17T06:49:09.742Z",
     "canonical:baf2d5063a323ec0": "2026-06-17T06:49:09.742Z",
@@ -1093,7 +1092,10 @@
     "canonical:55f7914d8c2bdcce": "2026-07-03T14:37:19.255Z",
     "canonical:1af904be74b273c4": "2026-07-03T16:11:18.836Z",
     "canonical:3226e36f529aa26b": "2026-07-03T22:40:03.965Z",
-    "canonical:5796df1d1650dba3": "2026-07-03T22:40:03.965Z"
+    "canonical:5796df1d1650dba3": "2026-07-03T22:40:03.965Z",
+    "canonical:62be2f7552517660": "2026-07-03T23:40:49.562Z",
+    "canonical:7cd65dbc34efa0fa": "2026-07-03T23:40:49.562Z",
+    "canonical:3c8e9114d6b53972": "2026-07-03T23:40:49.562Z"
   },
   "jobs": [
     {
@@ -1501,7 +1503,7 @@
     {
       "id": "canonical:90de0872641ecba5",
       "title": "Intern",
-      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988896",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988899",
       "location": "Gift City",
       "department": "",
       "company": "Tower Research Capital",
@@ -2300,7 +2302,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -10124,20 +10126,6 @@
       ]
     },
     {
-      "id": "canonical:5afaf2b75825991d",
-      "title": "AI Data Scientist Intern",
-      "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI---Data-Scientist-AI-Intern---Fall-2026_JR00036225",
-      "location": "Morrisville, NC",
-      "department": "AI/ML/Data",
-      "company": "ABB",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:666a2ab24698b316",
       "title": "Finance Business Analytics Intern",
       "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5136407007",
@@ -11191,6 +11179,20 @@
       "location": "SF",
       "department": "Software",
       "company": "Clera",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:62be2f7552517660",
+      "title": "Software Engineer Intern - Software Engineer",
+      "url": "https://job-boards.greenhouse.io/rise8/jobs/4359623007",
+      "location": "Remote in USA",
+      "department": "Software",
+      "company": "Rise8",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -12718,6 +12720,18 @@
       ]
     },
     {
+      "id": "canonical:7cd65dbc34efa0fa",
+      "title": "Skillbridge Intern - Product Manager",
+      "url": "https://job-boards.greenhouse.io/rise8/jobs/4359627007",
+      "location": "Remote in USA",
+      "department": "Product",
+      "company": "Rise8",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:5763e4102008385b",
       "title": "Business Insights & Analytics Leadership Development Program Intern - BI&a Ldp",
       "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-51332-1",
@@ -12818,6 +12832,19 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:3c8e9114d6b53972",
+      "title": "Geographic Information Systems Intern - GIS",
+      "url": "https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-Wake/Geographic-Information-Systems--GIS--Intern---Fall-2026_JR-118586",
+      "location": "North Carolina",
+      "department": "AI/ML/Data",
+      "company": "State of North Carolina",
+      "score": 68,
+      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
