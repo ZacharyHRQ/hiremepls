@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-03T10:16:45.049Z",
+  "generatedAt": "2026-07-03T12:23:04.459Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1098,
+  "jobCount": 1096,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -534,7 +534,6 @@
     "canonical:c989ff56fcf2c167": "2026-05-24T16:41:35.666Z",
     "canonical:e2cbec72bcde74c4": "2026-05-24T16:41:35.666Z",
     "canonical:20d737f207a14cbf": "2026-05-26T14:46:38.147Z",
-    "canonical:507a379638e6ab62": "2026-05-26T21:28:46.739Z",
     "canonical:0e419b8e484c38cb": "2026-05-26T22:48:29.543Z",
     "canonical:404dd904de91e8a9": "2026-05-26T22:48:29.543Z",
     "canonical:ae629747d79357a8": "2026-05-26T23:56:50.661Z",
@@ -903,7 +902,6 @@
     "canonical:2c4e07bd36facad2": "2026-06-30T12:27:15.947Z",
     "canonical:157a48af4fed8855": "2026-06-30T15:08:09.560Z",
     "canonical:79cfcc7e8096fa91": "2026-07-01T06:55:26.212Z",
-    "canonical:133608b1bfb1c38e": "2026-07-01T06:55:26.212Z",
     "canonical:bca1cc17005e460b": "2026-07-01T06:55:26.212Z",
     "canonical:351d3d1f6713b707": "2026-07-01T06:55:26.212Z",
     "canonical:9062f0a2659dadf6": "2026-07-01T06:55:26.212Z",
@@ -1027,7 +1025,6 @@
     "canonical:234b0abdc8be0076": "2026-07-02T00:19:11.514Z",
     "canonical:82849cfc4b355f26": "2026-07-02T04:36:39.736Z",
     "canonical:f27c30f5eef5d1fb": "2026-07-02T04:36:39.736Z",
-    "canonical:55f7914d8c2bdcce": "2026-07-02T04:36:39.736Z",
     "canonical:d3eb69301d09e2c3": "2026-07-02T04:36:39.736Z",
     "canonical:4b874227c78452af": "2026-07-02T04:36:39.736Z",
     "canonical:3db0e00d555fbcb0": "2026-07-02T04:36:39.736Z",
@@ -1049,7 +1046,6 @@
     "canonical:e81e539da869e2db": "2026-07-02T04:36:39.736Z",
     "canonical:0ba2bf24b0a169f6": "2026-07-02T04:36:39.736Z",
     "canonical:cfc9556685ced54b": "2026-07-02T07:55:04.683Z",
-    "canonical:99aaad0a301ea911": "2026-07-02T10:28:03.449Z",
     "canonical:9de651366fb550a9": "2026-07-02T10:28:03.449Z",
     "canonical:4e3bd8b9c9c33c84": "2026-07-02T10:28:03.449Z",
     "canonical:e52adf16cec72592": "2026-07-02T12:27:44.176Z",
@@ -1101,7 +1097,9 @@
     "canonical:2696d27e53de0c2e": "2026-07-03T07:37:01.415Z",
     "canonical:afc9f49cbd23b95f": "2026-07-03T10:16:45.049Z",
     "canonical:d4522e592923d04c": "2026-07-03T10:16:45.049Z",
-    "canonical:c1817238d89b26e3": "2026-07-03T10:16:45.049Z"
+    "canonical:c1817238d89b26e3": "2026-07-03T10:16:45.049Z",
+    "canonical:2e3063b0200f566c": "2026-07-03T12:23:04.459Z",
+    "canonical:aa43ee77d75cfa12": "2026-07-03T12:23:04.459Z"
   },
   "jobs": [
     {
@@ -1273,10 +1271,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1288,10 +1286,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1493,6 +1491,16 @@
       "location": "Greenwich, CT",
       "department": "",
       "company": "AQR",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:2e3063b0200f566c",
+      "title": "Business Analytics Intern - 6 Month Internship Opportunity",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=8041512",
+      "location": "Amsterdam",
+      "department": "",
+      "company": "Tower Research Capital",
       "score": 50,
       "scoreReasons": []
     },
@@ -3372,19 +3380,6 @@
       "location": "Dallas, TX",
       "department": "Software",
       "company": "Copart",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:133608b1bfb1c38e",
-      "title": "Sustainability Systems Intern",
-      "url": "https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Sustainability-Systems-Intern_JR104148",
-      "location": "Cleveland, OH",
-      "department": "AI/ML/Data",
-      "company": "thyssenkrupp",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -7656,18 +7651,6 @@
       ]
     },
     {
-      "id": "canonical:507a379638e6ab62",
-      "title": "Simulation and Modeling Intern",
-      "url": "https://www.asm.com/open-vacancies/?gh_jid=4830924101",
-      "location": "Phoenix, AZ",
-      "department": "AI/ML/Data",
-      "company": "ASM International",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:0e419b8e484c38cb",
       "title": "R&D Engineer Intern",
       "url": "https://job-boards.greenhouse.io/technergetics/jobs/4681908006",
@@ -8005,19 +7988,6 @@
       "location": "Mountain View, CA",
       "department": "AI/ML/Data",
       "company": "Samsung Research America",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:55f7914d8c2bdcce",
-      "title": "PhD Research Intern - Generative AI",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035",
-      "location": "California / Santa Clara, CA / United States",
-      "department": "AI/ML/Data",
-      "company": "NVIDIA",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -10306,6 +10276,16 @@
       ]
     },
     {
+      "id": "canonical:aa43ee77d75cfa12",
+      "title": "Systems Intern",
+      "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235414",
+      "location": "Southfield, MI",
+      "department": "Hardware",
+      "company": "Magna",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
       "id": "canonical:3c6099c18b55d40a",
       "title": "Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems",
       "url": "https://www.tesla.com/careers/search/job/274047",
@@ -10338,16 +10318,6 @@
       "location": "Dallas, TX / Tucson, AZ",
       "department": "Hardware",
       "company": "Texas Instruments",
-      "score": 50,
-      "scoreReasons": []
-    },
-    {
-      "id": "canonical:99aaad0a301ea911",
-      "title": "Infrared Imaging & Algorithms Intern",
-      "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Intern---Infrared-Imaging---Algorithms_R00247602",
-      "location": "Goleta, CA",
-      "department": "Hardware",
-      "company": "Magna",
       "score": 50,
       "scoreReasons": []
     },

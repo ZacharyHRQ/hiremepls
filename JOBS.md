@@ -1,6 +1,6 @@
 # Open Internships
 
-**1098** internships across **68/68** companies — last updated 2026-07-03.
+**1096** internships across **68/68** companies — last updated 2026-07-03.
 
 ## Companies
 
@@ -39,7 +39,6 @@
 - [Arine](#arine) (1)
 - [Arlington County VA](#arlington-county-va) (1)
 - [Arlo](#arlo) (2)
-- [ASM International](#asm-international) (1)
 - [ASML](#asml) (2)
 - [AssetWorks](#assetworks) (1)
 - [Astera](#astera) (1)
@@ -294,7 +293,7 @@
 - [Northwestern Mutual](#northwestern-mutual) (2)
 - [Notion](#notion) (5)
 - [Nuro](#nuro) (1)
-- [NVIDIA](#nvidia) (10)
+- [NVIDIA](#nvidia) (9)
 - [NXP Semiconductors](#nxp-semiconductors) (2)
 - [OCC](#occ) (1)
 - [Octaura](#octaura) (1)
@@ -412,7 +411,7 @@
 - [The Trade Desk](#the-trade-desk) (1)
 - [The University of Edinburgh](#the-university-of-edinburgh) (1)
 - [The Wonderful Company](#the-wonderful-company) (1)
-- [thyssenkrupp](#thyssenkrupp) (2)
+- [thyssenkrupp](#thyssenkrupp) (1)
 - [TIFIN](#tifin) (1)
 - [TikTok](#tiktok) (70)
 - [Tilde Research](#tilde-research) (2)
@@ -421,7 +420,7 @@
 - [Together AI](#together-ai) (4)
 - [Topel Forman LLC](#topel-forman-llc) (1)
 - [Torc Robotics](#torc-robotics) (1)
-- [Tower Research Capital](#tower-research-capital) (2)
+- [Tower Research Capital](#tower-research-capital) (3)
 - [Toyota Research Institute](#toyota-research-institute) (3)
 - [Traackr](#traackr) (1)
 - [Tradeweb](#tradeweb) (1)
@@ -714,12 +713,6 @@
 | --- | --- | --- | --- | --- |
 | [SW Engineer Intern, Android (AI-Assisted Development)](https://arlo.wd12.myworkdayjobs.com/en-US/external_careers/job/Milpitas-CA/SW-Engineer-Intern--Android--AI-Assisted-Development-_JR100300) | 93 | Milpitas, CA | Software Engineering | 2026-05-09 |
 | [SW Engineer Intern, iOS (AI-Assisted Development)](https://arlo.wd12.myworkdayjobs.com/en-US/external_careers/job/Milpitas-CA/SW-Engineer-Intern--iOS--AI-Assisted-Development-_JR100299) | 93 | Milpitas, CA | Software Engineering | 2026-05-09 |
-
-## ASM International
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Simulation and Modeling Intern](https://www.asm.com/open-vacancies/?gh_jid=4830924101) | 60 | Phoenix, AZ | AI/ML/Data | 2026-05-26 |
 
 ## ASML
 
@@ -1889,8 +1882,8 @@
 | [Hardware Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) | 58 | Chicago, United States | — | 2026-07-01 |
 | [Graduate Quantitative Researcher](https://job-boards.eu.greenhouse.io/imc/jobs/4892687101) | 99 | Zug, Switzerland | — | 2026-06-12 |
 | [Hardware Machine Learning PhD Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, IL | AI/ML/Data | 2026-05-09 |
-| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
+| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Hardware Machine Learning PhD Research Internship](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, United States | — | 2026-05-06 |
 | [Graduate Floor Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4786701101) | 64 | Chicago, United States; Miami, United States; New York, United States; Philadelphia, United States; San Francisco, United States | — | 2026-05-06 |
 
@@ -2148,7 +2141,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Infrared Imaging & Algorithms Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Intern---Infrared-Imaging---Algorithms_R00247602) | 50 | Goleta, CA | Hardware | 2026-07-02 |
+| [Systems Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235414) | 50 | Southfield, MI | Hardware | 2026-07-03 |
 | [Engineering ADAS Perception Features Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235438) | 60 | Auburn Hills, MI | AI/ML/Data | 2026-06-20 |
 | [Product Engineering Engineer Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Grand-Rapids-Michigan-US/Product-Engineering-Intern_R00243272) | 85 | Grand Rapids, MI | Software | 2026-06-15 |
 
@@ -2491,7 +2484,6 @@
 | [Java Engineer Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Java-Engineering-Intern---Fall-2026_JR2019769) | 93 | Santa Clara, CA | Software | 2026-07-02 |
 | [PhD Software Engineer Intern - Decision Intelligence](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522) | 93 | Santa Clara, CA | Hardware | 2026-07-02 |
 | [Applied Research Intern - NLP](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488) | 68 | Santa Clara, CA | AI/ML/Data | 2026-07-02 |
-| [PhD Research Intern - Generative AI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035) | 68 | California / Santa Clara, CA / United States | AI/ML/Data | 2026-07-02 |
 | [PhD Research Intern - System Software and I/O Architecture](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--System-Software-and-I-O-Architecture---Fall-2026_JR2019667) | 68 | Urbana, IL / Remote in USA / Santa Clara, CA | Software | 2026-07-02 |
 | [PhD Data Generation and User Simulation Research Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Data-Generation-and-User-Simulation-Research-Intern---Fall-2026_JR2018317) | 68 | Santa Clara, CA | AI/ML/Data | 2026-06-13 |
 | [Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398) | 68 | Santa Clara, CA | AI/ML/Data | 2026-06-13 |
@@ -3454,7 +3446,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Analytics Intern](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Analytics-Intern_JR105406) | 68 | Cleveland, OH | AI/ML/Data | 2026-07-01 |
-| [Sustainability Systems Intern](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Sustainability-Systems-Intern_JR104148) | 68 | Cleveland, OH | AI/ML/Data | 2026-07-01 |
 
 ## TIFIN
 
@@ -3581,6 +3572,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Business Analytics Intern - 6 Month Internship Opportunity](https://www.tower-research.com/open-positions/?gh_jid=8041512) | 50 | Amsterdam | — | 2026-07-03 |
 | [Intern](https://www.tower-research.com/open-positions/?gh_jid=7988896) | 50 | Gift City | — | 2026-06-12 |
 | [Risk Intern - 6 Month Internship Opportunity](https://www.tower-research.com/open-positions/?gh_jid=7789933) | 50 | Singapore | — | 2026-05-06 |
 
