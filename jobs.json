@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T04:14:43.087Z",
+  "generatedAt": "2026-07-03T07:37:01.415Z",
   "companyCount": 68,
   "okCount": 68,
   "jobCount": 1100,
@@ -41,7 +41,6 @@
     "canonical:c3741eefab6317c5": "2026-05-06T06:42:07.596Z",
     "canonical:bf3ff121b06c08eb": "2026-05-06T06:42:07.596Z",
     "canonical:6a8c381d419eba3a": "2026-05-06T06:42:07.596Z",
-    "canonical:a7486aaabb8ccb04": "2026-05-06T06:42:07.596Z",
     "canonical:667c574d3424b793": "2026-05-06T06:42:07.596Z",
     "canonical:25a35a8868c43e61": "2026-05-06T06:42:07.596Z",
     "canonical:d277a6a426412a6c": "2026-05-06T06:42:07.596Z",
@@ -849,7 +848,6 @@
     "canonical:6dd85ff3ed8dd5dc": "2026-06-19T07:34:45.156Z",
     "canonical:5db094360a3dbbfc": "2026-06-19T07:34:45.156Z",
     "canonical:b4321a96d5262a5c": "2026-06-19T17:03:13.004Z",
-    "canonical:2ac42ec93a04e435": "2026-06-20T03:57:11.576Z",
     "canonical:0d51b143c8459099": "2026-06-20T03:57:11.576Z",
     "canonical:495a5708640f7aa7": "2026-06-20T03:57:11.576Z",
     "canonical:a54dfaa9c2670ee3": "2026-06-20T14:29:40.471Z",
@@ -861,7 +859,6 @@
     "canonical:5c5c4aaee7bd2d24": "2026-06-21T11:34:18.126Z",
     "canonical:b04cfd3af2687e8f": "2026-06-21T11:34:18.126Z",
     "canonical:c2b89946ce467519": "2026-06-22T19:32:14.187Z",
-    "canonical:bd4e181d83e4431b": "2026-06-22T23:11:18.221Z",
     "canonical:5703b8a0a55c3350": "2026-06-23T00:19:39.353Z",
     "canonical:baa8d20fda37086a": "2026-06-23T04:36:40.243Z",
     "canonical:e035aef29d392d1e": "2026-06-23T04:36:40.243Z",
@@ -958,9 +955,7 @@
     "canonical:f567d520cbed355c": "2026-07-01T06:55:26.212Z",
     "canonical:cbe4f7922dc61a8c": "2026-07-01T06:55:26.212Z",
     "canonical:7dee87124373df05": "2026-07-01T06:55:26.212Z",
-    "canonical:d8973272dc563ef3": "2026-07-01T06:55:26.212Z",
     "canonical:3a586592cda0efdc": "2026-07-01T06:55:26.212Z",
-    "canonical:d1544fc8d3afcbaa": "2026-07-01T06:55:26.212Z",
     "canonical:589623b6b0916217": "2026-07-01T06:55:26.212Z",
     "canonical:9d59be172bb09c82": "2026-07-01T06:55:26.212Z",
     "canonical:f0de3f803d86910d": "2026-07-01T06:55:26.212Z",
@@ -1103,7 +1098,12 @@
     "canonical:f2425c90106d1703": "2026-07-03T04:14:43.087Z",
     "canonical:6215f6ac5f264298": "2026-07-03T04:14:43.087Z",
     "canonical:ce82c5a6e866ac22": "2026-07-03T04:14:43.087Z",
-    "canonical:7cd65dbc34efa0fa": "2026-07-03T04:14:43.087Z"
+    "canonical:7cd65dbc34efa0fa": "2026-07-03T04:14:43.087Z",
+    "canonical:5763e4102008385b": "2026-07-03T07:37:01.415Z",
+    "canonical:94861bb6e6d86564": "2026-07-03T07:37:01.415Z",
+    "canonical:af15ace032a8e1cb": "2026-07-03T07:37:01.415Z",
+    "canonical:4d960d866a453e9f": "2026-07-03T07:37:01.415Z",
+    "canonical:2696d27e53de0c2e": "2026-07-03T07:37:01.415Z"
   },
   "jobs": [
     {
@@ -1275,10 +1275,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1290,10 +1290,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -2068,19 +2068,6 @@
       "company": "Stripe",
       "score": 56,
       "scoreReasons": [
-        "new grad"
-      ]
-    },
-    {
-      "id": "canonical:a7486aaabb8ccb04",
-      "title": "Software Engineering, New Grad",
-      "url": "https://stripe.com/jobs/search?gh_jid=7176977",
-      "location": "Singapore",
-      "department": "",
-      "company": "Stripe",
-      "score": 66,
-      "scoreReasons": [
-        "high-signal role",
         "new grad"
       ]
     },
@@ -10609,20 +10596,6 @@
       ]
     },
     {
-      "id": "canonical:2ac42ec93a04e435",
-      "title": "Junior Report Developer Intern - Analytics and Insights",
-      "url": "https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000133121279",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "University Health Network",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:0d51b143c8459099",
       "title": "Software Engineering Intern",
       "url": "https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19500",
@@ -10653,19 +10626,6 @@
       "location": "London, UK",
       "department": "AI/ML/Data",
       "company": "Tencent",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:bd4e181d83e4431b",
-      "title": "Software Development Intern",
-      "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Software-Development-Intern_REQ-2272",
-      "location": "Toronto, ON, Canada",
-      "department": "Software",
-      "company": "Interac",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -11684,19 +11644,6 @@
       ]
     },
     {
-      "id": "canonical:d8973272dc563ef3",
-      "title": "Student – B2B Analyst Intern",
-      "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/North-York-Ontario/Student--B2B-Analyst--Fall-2026-_JR00123285",
-      "location": "North York, ON, Canada",
-      "department": "Software",
-      "company": "Sun Life",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:3a586592cda0efdc",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/binance.us/c23e9aa3-0daa-4170-a5a7-b03aaa031895/application",
@@ -11706,19 +11653,6 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:d1544fc8d3afcbaa",
-      "title": "Commercial Data Science Intern",
-      "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Commercial-Data-Science-Intern--Fall-2026_10154154-1",
-      "location": "Celebration, FL",
-      "department": "AI/ML/Data",
-      "company": "The Walt Disney Company",
-      "score": 68,
-      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
@@ -12951,6 +12885,70 @@
       "score": 58,
       "scoreReasons": [
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:5763e4102008385b",
+      "title": "Business Insights & Analytics Leadership Development Program Intern - BI&a Ldp",
+      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-51332-1",
+      "location": "Hartford, CT / St Paul, MN",
+      "department": "AI/ML/Data",
+      "company": "Travelers",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:94861bb6e6d86564",
+      "title": "Engineering Development Program Intern - Engineering Development Program",
+      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Intern_R-51185",
+      "location": "Sparks, MD / Hartford, CT / Atlanta, GA / St Paul, MN",
+      "department": "Software",
+      "company": "Travelers",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:af15ace032a8e1cb",
+      "title": "Data Science Leadership Development Program Intern - Dsldp",
+      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Science-Leadership-Development-Program--DSLDP--Intern_R-51337",
+      "location": "Hartford, CT / St Paul, MN",
+      "department": "AI/ML/Data",
+      "company": "Travelers",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:4d960d866a453e9f",
+      "title": "Business Insights & Analytics Leadership Development Program Geospatial Intern",
+      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Geospatial-Intern_R-51333-1",
+      "location": "Hartford, CT / St Paul, MN",
+      "department": "AI/ML/Data",
+      "company": "Travelers",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:2696d27e53de0c2e",
+      "title": "Utility Engineering Intern",
+      "url": "https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1624",
+      "location": "Arlington, VA",
+      "department": "AI/ML/Data",
+      "company": "Arlington County VA",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
       ]
     },
     {
