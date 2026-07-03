@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-03T17:45:49.333Z",
+  "generatedAt": "2026-07-03T19:01:02.988Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1094,
+  "jobCount": 1092,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -758,7 +758,6 @@
     "canonical:fa4c9bcbdd3d4a44": "2026-06-15T11:27:26.940Z",
     "canonical:9efa8c168531892f": "2026-06-15T11:27:26.940Z",
     "canonical:376ca27931a2dabb": "2026-06-15T11:27:26.940Z",
-    "canonical:f22c383e84d41e35": "2026-06-15T11:27:26.940Z",
     "canonical:14904318e185f409": "2026-06-15T11:27:26.940Z",
     "canonical:179d6ab7f8461005": "2026-06-15T11:27:26.940Z",
     "canonical:19300e1217fa0c5e": "2026-06-15T11:27:26.940Z",
@@ -803,7 +802,6 @@
     "canonical:2565863a1e23cabe": "2026-06-17T01:40:00.105Z",
     "canonical:739d08f7f355d918": "2026-06-17T01:40:00.105Z",
     "canonical:671476feb017f2b4": "2026-06-17T01:40:00.105Z",
-    "canonical:84d0d135df26a862": "2026-06-17T01:40:00.105Z",
     "canonical:1782ca39c8f2f506": "2026-06-17T06:49:09.742Z",
     "canonical:72a04379c4f2bf88": "2026-06-17T06:49:09.742Z",
     "canonical:1188eeec8fc3af96": "2026-06-17T06:49:09.742Z",
@@ -3619,18 +3617,6 @@
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:f22c383e84d41e35",
-      "title": "Data Science Intern - Advertisement Team - 2026 Summer",
-      "url": "https://lifeattiktok.com/search/7598068289244809525",
-      "location": "San Jose, CA",
-      "department": "AI/ML/Data",
-      "company": "TikTok",
-      "score": 60,
-      "scoreReasons": [
         "high-signal role"
       ]
     },
@@ -10146,19 +10132,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:84d0d135df26a862",
-      "title": "Silicon Architecture Graduate Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Silicon-Architecture-Graduate-Intern_JR0283607",
-      "location": "Austin, TX / Santa Clara, CA / Hillsboro, OR / Folsom, CA",
-      "department": "Hardware",
-      "company": "Intel",
-      "score": 64,
-      "scoreReasons": [
-        "new grad",
-        "direct ATS"
       ]
     },
     {
