@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-03T14:37:19.255Z",
+  "generatedAt": "2026-07-03T16:11:18.836Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1097,
+  "jobCount": 1100,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1100,7 +1100,10 @@
     "canonical:aa43ee77d75cfa12": "2026-07-03T12:23:04.459Z",
     "canonical:31dd1ab15c427f1e": "2026-07-03T14:37:19.255Z",
     "canonical:133608b1bfb1c38e": "2026-07-03T14:37:19.255Z",
-    "canonical:55f7914d8c2bdcce": "2026-07-03T14:37:19.255Z"
+    "canonical:55f7914d8c2bdcce": "2026-07-03T14:37:19.255Z",
+    "canonical:62be2f7552517660": "2026-07-03T16:11:18.836Z",
+    "canonical:7cd65dbc34efa0fa": "2026-07-03T16:11:18.836Z",
+    "canonical:1af904be74b273c4": "2026-07-03T16:11:18.836Z"
   },
   "jobs": [
     {
@@ -11325,6 +11328,20 @@
       ]
     },
     {
+      "id": "canonical:62be2f7552517660",
+      "title": "Software Engineer Intern - Software Engineer",
+      "url": "https://job-boards.greenhouse.io/rise8/jobs/4359623007",
+      "location": "Remote in USA",
+      "department": "Software",
+      "company": "Rise8",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:107dff9ebd11a7e0",
       "title": "Design Engineer Intern",
       "url": "https://jobs.ashbyhq.com/Gumloop/d1c82673-a98a-4e27-8ec0-014740eb5a22/application",
@@ -12844,6 +12861,18 @@
       ]
     },
     {
+      "id": "canonical:7cd65dbc34efa0fa",
+      "title": "Skillbridge Intern - Product Manager",
+      "url": "https://job-boards.greenhouse.io/rise8/jobs/4359627007",
+      "location": "Remote in USA",
+      "department": "Product",
+      "company": "Rise8",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:5763e4102008385b",
       "title": "Business Insights & Analytics Leadership Development Program Intern - BI&a Ldp",
       "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-51332-1",
@@ -12905,6 +12934,20 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:1af904be74b273c4",
+      "title": "Website Development & Content Marketing Intern - AI & Automation",
+      "url": "https://job-boards.greenhouse.io/eulerity/jobs/4694300006",
+      "location": "NYC",
+      "department": "Software",
+      "company": "Eulerity",
+      "score": 48,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS",
+        "lower-fit title"
       ]
     },
     {
