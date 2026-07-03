@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-03T12:23:04.459Z",
+  "generatedAt": "2026-07-03T14:37:19.255Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1096,
+  "jobCount": 1097,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -926,7 +926,6 @@
     "canonical:df516522027d6d5c": "2026-07-01T06:55:26.212Z",
     "canonical:4d80fcb4fcf299a3": "2026-07-01T06:55:26.212Z",
     "canonical:9cea97c55cf3d6ab": "2026-07-01T06:55:26.212Z",
-    "canonical:62be2f7552517660": "2026-07-01T06:55:26.212Z",
     "canonical:107dff9ebd11a7e0": "2026-07-01T06:55:26.212Z",
     "canonical:0c3455b30fb63d04": "2026-07-01T06:55:26.212Z",
     "canonical:c4bf2bed78c6403c": "2026-07-01T06:55:26.212Z",
@@ -1089,7 +1088,6 @@
     "canonical:f2425c90106d1703": "2026-07-03T04:14:43.087Z",
     "canonical:6215f6ac5f264298": "2026-07-03T04:14:43.087Z",
     "canonical:ce82c5a6e866ac22": "2026-07-03T04:14:43.087Z",
-    "canonical:7cd65dbc34efa0fa": "2026-07-03T04:14:43.087Z",
     "canonical:5763e4102008385b": "2026-07-03T07:37:01.415Z",
     "canonical:94861bb6e6d86564": "2026-07-03T07:37:01.415Z",
     "canonical:af15ace032a8e1cb": "2026-07-03T07:37:01.415Z",
@@ -1099,7 +1097,10 @@
     "canonical:d4522e592923d04c": "2026-07-03T10:16:45.049Z",
     "canonical:c1817238d89b26e3": "2026-07-03T10:16:45.049Z",
     "canonical:2e3063b0200f566c": "2026-07-03T12:23:04.459Z",
-    "canonical:aa43ee77d75cfa12": "2026-07-03T12:23:04.459Z"
+    "canonical:aa43ee77d75cfa12": "2026-07-03T12:23:04.459Z",
+    "canonical:31dd1ab15c427f1e": "2026-07-03T14:37:19.255Z",
+    "canonical:133608b1bfb1c38e": "2026-07-03T14:37:19.255Z",
+    "canonical:55f7914d8c2bdcce": "2026-07-03T14:37:19.255Z"
   },
   "jobs": [
     {
@@ -1507,7 +1508,7 @@
     {
       "id": "canonical:90de0872641ecba5",
       "title": "Intern",
-      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988896",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988899",
       "location": "Gift City",
       "department": "",
       "company": "Tower Research Capital",
@@ -2306,7 +2307,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -2363,6 +2364,18 @@
       "scoreReasons": [
         "direct ATS",
         "lower-fit title"
+      ]
+    },
+    {
+      "id": "canonical:31dd1ab15c427f1e",
+      "title": "Technical Support Engineer Intern (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8041135?gh_jid=8041135",
+      "location": "In-Office",
+      "department": "",
+      "company": "Cloudflare",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
       ]
     },
     {
@@ -3380,6 +3393,19 @@
       "location": "Dallas, TX",
       "department": "Software",
       "company": "Copart",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:133608b1bfb1c38e",
+      "title": "Sustainability Systems Intern",
+      "url": "https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Sustainability-Systems-Intern_JR104148",
+      "location": "Cleveland, OH",
+      "department": "AI/ML/Data",
+      "company": "thyssenkrupp",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -7995,6 +8021,19 @@
       ]
     },
     {
+      "id": "canonical:55f7914d8c2bdcce",
+      "title": "PhD Research Intern - Generative AI",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035",
+      "location": "California / Santa Clara, CA / United States",
+      "department": "AI/ML/Data",
+      "company": "NVIDIA",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:0d69edb886321d54",
       "title": "Data Science Intern - Tiktok Shop-Supply Chain & Logistics",
       "url": "https://lifeattiktok.com/search/7644719084681234741",
@@ -11286,20 +11325,6 @@
       ]
     },
     {
-      "id": "canonical:62be2f7552517660",
-      "title": "Software Engineer Intern - Software Engineer",
-      "url": "https://job-boards.greenhouse.io/rise8/jobs/4359623007",
-      "location": "Remote in USA",
-      "department": "Software",
-      "company": "Rise8",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:107dff9ebd11a7e0",
       "title": "Design Engineer Intern",
       "url": "https://jobs.ashbyhq.com/Gumloop/d1c82673-a98a-4e27-8ec0-014740eb5a22/application",
@@ -12816,18 +12841,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:7cd65dbc34efa0fa",
-      "title": "Skillbridge Intern - Product Manager",
-      "url": "https://job-boards.greenhouse.io/rise8/jobs/4359627007",
-      "location": "Remote in USA",
-      "department": "Product",
-      "company": "Rise8",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
       ]
     },
     {
