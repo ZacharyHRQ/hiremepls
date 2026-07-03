@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-03T21:37:28.311Z",
+  "generatedAt": "2026-07-03T22:40:03.965Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1091,
+  "jobCount": 1090,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -760,7 +760,6 @@
     "canonical:14904318e185f409": "2026-06-15T11:27:26.940Z",
     "canonical:179d6ab7f8461005": "2026-06-15T11:27:26.940Z",
     "canonical:19300e1217fa0c5e": "2026-06-15T11:27:26.940Z",
-    "canonical:01202bdbe36c02b3": "2026-06-15T11:27:26.940Z",
     "canonical:a0632e28376b8397": "2026-06-15T11:27:26.940Z",
     "canonical:e0b27269ac8c200b": "2026-06-15T11:27:26.940Z",
     "canonical:5aca11ebb143d0e2": "2026-06-15T11:27:26.940Z",
@@ -1092,9 +1091,9 @@
     "canonical:31dd1ab15c427f1e": "2026-07-03T14:37:19.255Z",
     "canonical:133608b1bfb1c38e": "2026-07-03T14:37:19.255Z",
     "canonical:55f7914d8c2bdcce": "2026-07-03T14:37:19.255Z",
-    "canonical:62be2f7552517660": "2026-07-03T16:11:18.836Z",
-    "canonical:7cd65dbc34efa0fa": "2026-07-03T16:11:18.836Z",
-    "canonical:1af904be74b273c4": "2026-07-03T16:11:18.836Z"
+    "canonical:1af904be74b273c4": "2026-07-03T16:11:18.836Z",
+    "canonical:3226e36f529aa26b": "2026-07-03T22:40:03.965Z",
+    "canonical:5796df1d1650dba3": "2026-07-03T22:40:03.965Z"
   },
   "jobs": [
     {
@@ -3841,18 +3840,6 @@
       ]
     },
     {
-      "id": "canonical:01202bdbe36c02b3",
-      "title": "Data Science Intern - Advertisement Team - 2026 Start','PhD",
-      "url": "https://lifeattiktok.com/search/7602395891774802181",
-      "location": "San Jose, CA",
-      "department": "AI/ML/Data",
-      "company": "TikTok",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:98c59015f29027d7",
       "title": "Development Intern",
       "url": "https://job-boards.greenhouse.io/medicalinformaticsengineering/jobs/4116759009",
@@ -5986,20 +5973,6 @@
       ]
     },
     {
-      "id": "canonical:25c914101f963271",
-      "title": "Software Developer Intern",
-      "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--September-2026-12-Months-_R09971",
-      "location": "Mississauga, ON, Canada",
-      "department": "Software",
-      "company": "SOTI",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:72a13f956e90ff2e",
       "title": "AI Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639",
@@ -6036,19 +6009,6 @@
       "scoreReasons": []
     },
     {
-      "id": "canonical:9d9fe857db5c61ad",
-      "title": "Web Developer Co-op/Intern",
-      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34611",
-      "location": "Ottawa, ON, Canada",
-      "department": "Software",
-      "company": "Nokia",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:32665894ab4460ce",
       "title": "Software Designer Co-op/Intern",
       "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34982",
@@ -6081,6 +6041,19 @@
       "company": "Nokia",
       "score": 50,
       "scoreReasons": []
+    },
+    {
+      "id": "canonical:9d9fe857db5c61ad",
+      "title": "Web Developer Co-op/Intern",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34616",
+      "location": "Ottawa, ON, Canada",
+      "department": "Software",
+      "company": "Nokia",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
     },
     {
       "id": "canonical:4ad551198f20a1aa",
@@ -6485,6 +6458,20 @@
       "company": "Apex",
       "score": 68,
       "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:25c914101f963271",
+      "title": "Software Developer Intern",
+      "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--September-2026-12-Months-_R10025",
+      "location": "Mississauga, ON, Canada",
+      "department": "Software",
+      "company": "SOTI",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -11212,20 +11199,6 @@
       ]
     },
     {
-      "id": "canonical:62be2f7552517660",
-      "title": "Software Engineer Intern - Software Engineer",
-      "url": "https://job-boards.greenhouse.io/rise8/jobs/4359623007",
-      "location": "Remote in USA",
-      "department": "Software",
-      "company": "Rise8",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:107dff9ebd11a7e0",
       "title": "Design Engineer Intern",
       "url": "https://jobs.ashbyhq.com/Gumloop/d1c82673-a98a-4e27-8ec0-014740eb5a22/application",
@@ -12745,18 +12718,6 @@
       ]
     },
     {
-      "id": "canonical:7cd65dbc34efa0fa",
-      "title": "Skillbridge Intern - Product Manager",
-      "url": "https://job-boards.greenhouse.io/rise8/jobs/4359627007",
-      "location": "Remote in USA",
-      "department": "Product",
-      "company": "Rise8",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:5763e4102008385b",
       "title": "Business Insights & Analytics Leadership Development Program Intern - BI&a Ldp",
       "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-51332-1",
@@ -12832,6 +12793,33 @@
         "high-signal role",
         "direct ATS",
         "lower-fit title"
+      ]
+    },
+    {
+      "id": "canonical:3226e36f529aa26b",
+      "title": "Print & Post Intern / Co-op - P&P",
+      "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Print---Post--P-P--Operations---Data-Analyst-Intern---Co-op_JR26060039",
+      "location": "Toronto, ON, Canada / Kitchener, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "Manulife Financial",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:5796df1d1650dba3",
+      "title": "Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/sentra/6974a286-676f-424b-b114-09fbe9ab23e8/application",
+      "location": "Toronto, ON, Canada / SF",
+      "department": "Software",
+      "company": "Sentra",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
