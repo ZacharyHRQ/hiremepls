@@ -1,6 +1,6 @@
 # Open Internships
 
-**1100** internships across **68/68** companies — last updated 2026-07-03.
+**1094** internships across **68/68** companies — last updated 2026-07-03.
 
 ## Companies
 
@@ -51,7 +51,7 @@
 - [Axiomatic AI](#axiomatic-ai) (2)
 - [AXQ Capital](#axq-capital) (1)
 - [Axway](#axway) (2)
-- [BAE Systems](#bae-systems) (8)
+- [BAE Systems](#bae-systems) (3)
 - [Bank of America](#bank-of-america) (1)
 - [Bank of Montreal](#bank-of-montreal) (1)
 - [Barkback](#barkback) (1)
@@ -255,7 +255,7 @@
 - [Maricopa Association of Governments (MAG)](#maricopa-association-of-governments-mag) (1)
 - [Markem-Imaje](#markem-imaje) (1)
 - [Marmon Holdings](#marmon-holdings) (1)
-- [Marvell](#marvell) (4)
+- [Marvell](#marvell) (3)
 - [Maxima](#maxima) (1)
 - [MCG Health](#mcg-health) (1)
 - [McKesson](#mckesson) (1)
@@ -811,11 +811,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern – Internal Tools 2026 (hybrid)](https://jobs.baesystems.com/global/en/job/BAE1US118298BREXTERNAL/Software-Engineering-Intern-Internal-Tools-2026-hybrid) | 60 | Cedar Rapids, IA | Software Engineering | 2026-05-09 |
-| [Software Engineering Intern I, Summer 2026](https://jobs.baesystems.com/global/en/job/BAE1US118005BREXTERNAL/Software-Engineering-Intern-I-Summer-2026) | 60 | Nashua, NH / Hudson, NH / Manchester, NH / Merrimack, NH | Software Engineering | 2026-05-09 |
-| [Software Engineering Intern II, Summer 2026](https://jobs.baesystems.com/global/en/job/BAE1US118008BREXTERNAL/Software-Engineering-Intern-II-Summer-2026) | 60 | Nashua, NH / Hudson, NH / Manchester, NH / Merrimack, NH | Software Engineering | 2026-05-09 |
-| [Software Engineering Intern III, Summer 2026](https://jobs.baesystems.com/global/en/job/BAE1US118009BREXTERNAL/Software-Engineering-Intern-III-Summer-2026) | 60 | Nashua, NH / Hudson, NH / Manchester, NH / Merrimack, NH | Software Engineering | 2026-05-09 |
-| [Software Engineering Intern IV, Summer 2026](https://jobs.baesystems.com/global/en/job/BAE1US118035BREXTERNAL/Software-Engineering-Intern-IV-Summer-2026) | 60 | Nashua, NH / Hudson, NH / Manchester, NH / Merrimack, NH | Software Engineering | 2026-05-09 |
-| [Software Engineering Intern, Summer 2026](https://jobs.baesystems.com/global/en/job/BAE1US117813BREXTERNAL/Software-Engineering-Intern-Summer-2026) | 60 | Fort Worth, TX | Software Engineering | 2026-05-09 |
 | [Software Intern, Summer 2026](https://jobs.baesystems.com/global/en/job/BAE1US118688BREXTERNAL/Software-Intern-Summer-2026) | 60 | Totowa, NJ | Software Engineering | 2026-05-09 |
 | [Summer Software Intern](https://jobs.baesystems.com/global/en/job/BAE1US119401BREXTERNAL/Summer-Software-Intern) | 60 | Fort Wayne, IN | Software Engineering | 2026-05-09 |
 
@@ -2206,7 +2201,6 @@
 | [Design Verification Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Design-Verification-Engineer-Intern---Fall-2026_2602706) | 58 | Ottawa, ON, Canada | Hardware | 2026-06-17 |
 | [Firmware Engineer Intern - Bachelor's Degree](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern---Bachelor-s-Degree_2503452-1) | 83 | Santa Clara, CA | Hardware Engineering | 2026-05-09 |
 | [Computer Science/Data Science Intern - Bachelor's Degree](https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers2/job/Santa-Clara-CA/Computer-Science-Data-Science-Intern---Bachelor-s-Degree_2502352) | 68 | Santa Clara, CA | Data Science, AI & Machine Learning | 2026-05-09 |
-| [Analog/Mixed-Signal IC & AI Systems R&D Intern - Master's Degree](https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers2/job/Irvine-CA/Analog-Mixed-Signal-IC---AI-Systems-R-D-Intern---Master-s-Degree_2502428) | 58 | Irvine, CA | Hardware Engineering | 2026-05-09 |
 
 ## Maxima
 

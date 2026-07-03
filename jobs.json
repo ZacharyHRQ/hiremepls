@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-03T16:11:18.836Z",
+  "generatedAt": "2026-07-03T17:45:49.333Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1100,
+  "jobCount": 1094,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -53,12 +53,6 @@
     "canonical:b0682e13963fcdcc": "2026-05-09T15:28:15.527Z",
     "canonical:8fc863f495e5ebf7": "2026-05-09T15:28:15.527Z",
     "canonical:40b5e3e02c34b6ce": "2026-05-09T15:28:15.527Z",
-    "canonical:27106f34e940af1e": "2026-05-09T15:28:15.527Z",
-    "canonical:ee183f5783e60123": "2026-05-09T15:28:15.527Z",
-    "canonical:0f12d49add27d56c": "2026-05-09T15:28:15.527Z",
-    "canonical:789ecff6d01771d0": "2026-05-09T15:28:15.527Z",
-    "canonical:bc47024266246950": "2026-05-09T15:28:15.527Z",
-    "canonical:df5f8459d2ddd4cb": "2026-05-09T15:28:15.527Z",
     "canonical:e03cd0b23bd47f96": "2026-05-09T15:28:15.527Z",
     "canonical:b9fbdfedd0cad7a8": "2026-05-09T15:28:15.527Z",
     "canonical:ed17cf293a02b31e": "2026-05-09T15:28:15.527Z",
@@ -2477,78 +2471,6 @@
       "company": "Cribl",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:27106f34e940af1e",
-      "title": "Software Engineering Intern IV, Summer 2026",
-      "url": "https://jobs.baesystems.com/global/en/job/BAE1US118035BREXTERNAL/Software-Engineering-Intern-IV-Summer-2026",
-      "location": "Nashua, NH / Hudson, NH / Manchester, NH / Merrimack, NH",
-      "department": "Software Engineering",
-      "company": "BAE Systems",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:ee183f5783e60123",
-      "title": "Software Engineering Intern III, Summer 2026",
-      "url": "https://jobs.baesystems.com/global/en/job/BAE1US118009BREXTERNAL/Software-Engineering-Intern-III-Summer-2026",
-      "location": "Nashua, NH / Hudson, NH / Manchester, NH / Merrimack, NH",
-      "department": "Software Engineering",
-      "company": "BAE Systems",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:0f12d49add27d56c",
-      "title": "Software Engineering Intern II, Summer 2026",
-      "url": "https://jobs.baesystems.com/global/en/job/BAE1US118008BREXTERNAL/Software-Engineering-Intern-II-Summer-2026",
-      "location": "Nashua, NH / Hudson, NH / Manchester, NH / Merrimack, NH",
-      "department": "Software Engineering",
-      "company": "BAE Systems",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:789ecff6d01771d0",
-      "title": "Software Engineering Intern I, Summer 2026",
-      "url": "https://jobs.baesystems.com/global/en/job/BAE1US118005BREXTERNAL/Software-Engineering-Intern-I-Summer-2026",
-      "location": "Nashua, NH / Hudson, NH / Manchester, NH / Merrimack, NH",
-      "department": "Software Engineering",
-      "company": "BAE Systems",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:bc47024266246950",
-      "title": "Software Engineering Intern, Summer 2026",
-      "url": "https://jobs.baesystems.com/global/en/job/BAE1US117813BREXTERNAL/Software-Engineering-Intern-Summer-2026",
-      "location": "Fort Worth, TX",
-      "department": "Software Engineering",
-      "company": "BAE Systems",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:df5f8459d2ddd4cb",
-      "title": "Analog/Mixed-Signal IC & AI Systems R&D Intern - Master's Degree",
-      "url": "https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers2/job/Irvine-CA/Analog-Mixed-Signal-IC---AI-Systems-R-D-Intern---Master-s-Degree_2502428",
-      "location": "Irvine, CA",
-      "department": "Hardware Engineering",
-      "company": "Marvell",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
     },
     {
       "id": "canonical:0a2b62285b02a051",
