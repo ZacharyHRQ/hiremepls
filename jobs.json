@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-03T00:17:40.244Z",
+  "generatedAt": "2026-07-03T04:14:43.087Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1092,
+  "jobCount": 1100,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1095,7 +1095,15 @@
     "canonical:31111bb0d3294005": "2026-07-02T23:06:51.141Z",
     "canonical:1f05dd365577984d": "2026-07-02T23:06:51.141Z",
     "canonical:1eacbad0d2fdf9c5": "2026-07-02T23:06:51.141Z",
-    "canonical:ce0adcff9203e4c5": "2026-07-02T23:06:51.141Z"
+    "canonical:ce0adcff9203e4c5": "2026-07-02T23:06:51.141Z",
+    "canonical:7819487370474390": "2026-07-03T04:14:43.087Z",
+    "canonical:edfae80af8fbb0ab": "2026-07-03T04:14:43.087Z",
+    "canonical:c8763ec4ce74842c": "2026-07-03T04:14:43.087Z",
+    "canonical:da77a36a63c8b160": "2026-07-03T04:14:43.087Z",
+    "canonical:f2425c90106d1703": "2026-07-03T04:14:43.087Z",
+    "canonical:6215f6ac5f264298": "2026-07-03T04:14:43.087Z",
+    "canonical:ce82c5a6e866ac22": "2026-07-03T04:14:43.087Z",
+    "canonical:7cd65dbc34efa0fa": "2026-07-03T04:14:43.087Z"
   },
   "jobs": [
     {
@@ -1267,10 +1275,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1282,10 +1290,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -2305,7 +2313,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -12845,6 +12853,103 @@
       "score": 68,
       "scoreReasons": [
         "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:7819487370474390",
+      "title": "Energy Engineering Intern - Software Engineer Diagnostics - Energy Engineering",
+      "url": "https://www.tesla.com/careers/search/job/275805",
+      "location": "Palo Alto, CA",
+      "department": "Software",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:edfae80af8fbb0ab",
+      "title": "Copyright Solution Product Manager Intern - Tiktok-Music",
+      "url": "https://lifeattiktok.com/search/7657541997725288757",
+      "location": "San Jose, CA",
+      "department": "Product",
+      "company": "TikTok",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:c8763ec4ce74842c",
+      "title": "Product Manager Intern - TikTok Product Content Ecosystem",
+      "url": "https://lifeattiktok.com/search/7657778928769534213",
+      "location": "San Jose, CA",
+      "department": "Product",
+      "company": "TikTok",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:da77a36a63c8b160",
+      "title": "Technical Intern",
+      "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Technical-Intern--Masters-or-PhD-_JR105488-1",
+      "location": "Remote in USA / Redmond, WA",
+      "department": "AI/ML/Data",
+      "company": "Centific",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f2425c90106d1703",
+      "title": "Enterprise Technology Intern - AI and Automation",
+      "url": "https://jobs.ashbyhq.com/saronic/c95c2e3a-4c67-47b0-a03d-0e0317ac11a3/application",
+      "location": "Austin, TX",
+      "department": "Software",
+      "company": "Saronic",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:6215f6ac5f264298",
+      "title": "Research Scientist Intern - AI Infrastructure",
+      "url": "https://jobs.bytedance.com/en/position/7553916190126524680/detail",
+      "location": "Seattle, WA",
+      "department": "AI/ML/Data",
+      "company": "ByteDance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:ce82c5a6e866ac22",
+      "title": "Research Scientist Intern - AI Infrastructure",
+      "url": "https://jobs.bytedance.com/en/position/7553917136512076050/detail",
+      "location": "San Jose, CA",
+      "department": "AI/ML/Data",
+      "company": "ByteDance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:7cd65dbc34efa0fa",
+      "title": "Skillbridge Intern - Product Manager",
+      "url": "https://job-boards.greenhouse.io/rise8/jobs/4359627007",
+      "location": "Remote in USA",
+      "department": "Product",
+      "company": "Rise8",
+      "score": 58,
+      "scoreReasons": [
         "direct ATS"
       ]
     },

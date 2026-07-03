@@ -1,6 +1,6 @@
 # Open Internships
 
-**1092** internships across **68/68** companies — last updated 2026-07-03.
+**1100** internships across **68/68** companies — last updated 2026-07-03.
 
 ## Companies
 
@@ -84,13 +84,14 @@
 - [Brunswick](#brunswick) (1)
 - [BSE Global](#bse-global) (1)
 - [Bugcrowd](#bugcrowd) (1)
-- [ByteDance](#bytedance) (29)
+- [ByteDance](#bytedance) (31)
 - [Cadence Design Systems](#cadence-design-systems) (1)
 - [Capella](#capella) (2)
 - [CareScout](#carescout) (1)
 - [Caterpillar Inc.](#caterpillar-inc) (2)
 - [Center for AI Safety](#center-for-ai-safety) (1)
 - [Centerfield](#centerfield) (2)
+- [Centific](#centific) (1)
 - [Chartwells Higher Education Dining Services](#chartwells-higher-education-dining-services) (1)
 - [Cherry Bekaert](#cherry-bekaert) (2)
 - [Ciena](#ciena) (2)
@@ -345,7 +346,7 @@
 - [RESPEC](#respec) (1)
 - [RFCUNY](#rfcuny) (1)
 - [Rippling](#rippling) (3)
-- [Rise8](#rise8) (1)
+- [Rise8](#rise8) (2)
 - [Rivian](#rivian) (1)
 - [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (14)
 - [Robert Bosch Venture Capital](#robert-bosch-venture-capital) (2)
@@ -360,7 +361,7 @@
 - [Samsung Research America](#samsung-research-america) (3)
 - [Sandhills Global](#sandhills-global) (2)
 - [Sandisk](#sandisk) (1)
-- [Saronic](#saronic) (1)
+- [Saronic](#saronic) (2)
 - [Savannah River National Laboratory](#savannah-river-national-laboratory) (1)
 - [Scale AI](#scale-ai) (5)
 - [Schonfeld](#schonfeld) (3)
@@ -402,7 +403,7 @@
 - [TENEX.AI](#tenex-ai) (1)
 - [Tenstorrent](#tenstorrent) (7)
 - [Terranox AI](#terranox-ai) (1)
-- [Tesla](#tesla) (95)
+- [Tesla](#tesla) (96)
 - [Tessera Labs](#tessera-labs) (2)
 - [TETRAMEM](#tetramem) (1)
 - [Texas Instruments](#texas-instruments) (1)
@@ -415,7 +416,7 @@
 - [The Wonderful Company](#the-wonderful-company) (1)
 - [thyssenkrupp](#thyssenkrupp) (2)
 - [TIFIN](#tifin) (1)
-- [TikTok](#tiktok) (68)
+- [TikTok](#tiktok) (70)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
 - [TMX Group](#tmx-group) (1)
@@ -1029,6 +1030,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Research Scientist Intern - AI Infrastructure](https://jobs.bytedance.com/en/position/7553916190126524680/detail) | 85 | Seattle, WA | AI/ML/Data | 2026-07-03 |
+| [Research Scientist Intern - AI Infrastructure](https://jobs.bytedance.com/en/position/7553917136512076050/detail) | 85 | San Jose, CA | AI/ML/Data | 2026-07-03 |
 | [Research Scientist Intern - Security for AI - 2026 Start](https://jobs.bytedance.com/en/position/7595676762475415861/detail) | 85 | San Jose, CA | AI/ML/Data | 2026-06-04 |
 | [Security Software Engineer Project Intern - Network Security - 2026 Start](https://jobs.bytedance.com/en/position/7600168555733027125/detail) | 85 | San Jose, CA | Software | 2026-06-04 |
 | [Security Software Engineer Project Intern - Network Security - BS/MS](https://jobs.bytedance.com/en/position/7618396290598045957/detail) | 85 | San Jose, CA | Software | 2026-06-04 |
@@ -1098,6 +1101,12 @@
 | [Data Science Intern](https://jobs.ashbyhq.com/centerfield/916dcf42-d69a-4f00-875a-f8fe630e0f33/application) | 68 | LA | AI/ML/Data | 2026-06-23 |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/centerfield/3279e803-56ab-4e12-8168-c2fd60bc8e60/application) | 93 | LA | Software | 2026-06-09 |
 
+## Centific
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Technical Intern](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Technical-Intern--Masters-or-PhD-_JR105488-1) | 68 | Remote in USA / Redmond, WA | AI/ML/Data | 2026-07-03 |
+
 ## Chartwells Higher Education Dining Services
 
 | Title | Score | Location | Department | First seen |
@@ -1162,7 +1171,7 @@
 | --- | --- | --- | --- | --- |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
 | [Sales Project Manager Intern (AI Innovation) (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8020830?gh_jid=8020830) | 38 | In-Office | — | 2026-06-23 |
 | [Legal Intern – Commercial Legal (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7983674?gh_jid=7983674) | 58 | In-Office | — | 2026-06-05 |
 | [People Team Intern - HR Operations & AI Innovation (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240) | 58 | In-Office | — | 2026-05-20 |
@@ -1878,8 +1887,8 @@
 | [Hardware Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) | 58 | Chicago, United States | — | 2026-07-01 |
 | [Graduate Quantitative Researcher](https://job-boards.eu.greenhouse.io/imc/jobs/4892687101) | 99 | Zug, Switzerland | — | 2026-06-12 |
 | [Hardware Machine Learning PhD Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, IL | AI/ML/Data | 2026-05-09 |
-| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
+| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Hardware Machine Learning PhD Research Internship](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, United States | — | 2026-05-06 |
 | [Graduate Floor Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4786701101) | 64 | Chicago, United States; Miami, United States; New York, United States; Philadelphia, United States; San Francisco, United States | — | 2026-05-06 |
 
@@ -2875,6 +2884,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Skillbridge Intern - Product Manager](https://job-boards.greenhouse.io/rise8/jobs/4359627007) | 58 | Remote in USA | Product | 2026-07-03 |
 | [Software Engineer Intern - Software Engineer](https://job-boards.greenhouse.io/rise8/jobs/4359623007) | 93 | Remote in USA | Software | 2026-07-01 |
 
 ## Rivian
@@ -2986,6 +2996,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Enterprise Technology Intern - AI and Automation](https://jobs.ashbyhq.com/saronic/c95c2e3a-4c67-47b0-a03d-0e0317ac11a3/application) | 68 | Austin, TX | Software | 2026-07-03 |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/saronic/1c74957f-0895-415b-9324-08b0994747d7/application) | 93 | Austin, TX | Software | 2026-07-01 |
 
 ## Savannah River National Laboratory
@@ -3297,6 +3308,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Energy Engineering Intern - Software Engineer Diagnostics - Energy Engineering](https://www.tesla.com/careers/search/job/275805) | 85 | Palo Alto, CA | Software | 2026-07-03 |
 | [Firmware Engineer Intern - Power Electronics Firmware Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/275689) | 75 | Palo Alto, CA | Hardware | 2026-07-02 |
 | [Machine Learning Intern - AI Engineer - Tesla AI](https://www.tesla.com/careers/search/job/275331) | 85 | Palo Alto, CA | AI/ML/Data | 2026-07-01 |
 | [Software Engineer Intern - Distributed Systems Software Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/275558) | 85 | Palo Alto, CA | Software | 2026-07-01 |
@@ -3471,6 +3483,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Copyright Solution Product Manager Intern - Tiktok-Music](https://lifeattiktok.com/search/7657541997725288757) | 50 | San Jose, CA | Product | 2026-07-03 |
+| [Product Manager Intern - TikTok Product Content Ecosystem](https://lifeattiktok.com/search/7657778928769534213) | 50 | San Jose, CA | Product | 2026-07-03 |
 | [Product Solutions and Operations Project Intern - Commerce Ads](https://lifeattiktok.com/search/7657640284071954741) | 50 | San Jose, CA | Product | 2026-07-02 |
 | [Frontend Software Engineer Project Intern - Global CRM](https://lifeattiktok.com/search/7654431844394322229) | 85 | San Jose, CA | Software | 2026-07-02 |
 | [Machine Learning Engineer Intern - App Ads](https://lifeattiktok.com/search/7623166673809770757) | 85 | San Jose, CA | AI/ML/Data | 2026-07-02 |
