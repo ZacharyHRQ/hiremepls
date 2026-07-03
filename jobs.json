@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-03T07:37:01.415Z",
+  "generatedAt": "2026-07-03T10:16:45.049Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1100,
+  "jobCount": 1098,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -196,7 +196,6 @@
     "canonical:23ba199774caa9e1": "2026-05-09T15:28:15.527Z",
     "canonical:d8bd96ce76f209d5": "2026-05-09T15:28:15.527Z",
     "canonical:b86053a97df4e116": "2026-05-09T15:28:15.527Z",
-    "canonical:e6ef25e90c9890c5": "2026-05-15T12:06:03.304Z",
     "canonical:35d0d770049adbd3": "2026-05-09T15:28:15.527Z",
     "canonical:33e86b7068f81940": "2026-05-09T15:28:15.527Z",
     "canonical:b926da94b8d1765f": "2026-05-09T15:28:15.527Z",
@@ -468,7 +467,6 @@
     "canonical:e5816ef97ceabca4": "2026-05-17T07:19:48.510Z",
     "canonical:b81abc03055b6506": "2026-05-18T01:33:21.344Z",
     "canonical:070c12c810a8f8d3": "2026-05-18T23:42:49.827Z",
-    "canonical:840310ea7f271b05": "2026-05-18T23:42:49.827Z",
     "canonical:7c01ede31b1775ba": "2026-05-19T01:34:38.795Z",
     "canonical:f96555673f195af4": "2026-05-19T01:34:38.795Z",
     "canonical:59280037432dffa1": "2026-05-19T01:34:38.795Z",
@@ -1050,9 +1048,7 @@
     "canonical:7c5d2b32157ab319": "2026-07-02T04:36:39.736Z",
     "canonical:e81e539da869e2db": "2026-07-02T04:36:39.736Z",
     "canonical:0ba2bf24b0a169f6": "2026-07-02T04:36:39.736Z",
-    "canonical:ebe8e780043a0464": "2026-07-02T04:36:39.736Z",
     "canonical:cfc9556685ced54b": "2026-07-02T07:55:04.683Z",
-    "canonical:ade11c4713d07751": "2026-07-02T10:28:03.449Z",
     "canonical:99aaad0a301ea911": "2026-07-02T10:28:03.449Z",
     "canonical:9de651366fb550a9": "2026-07-02T10:28:03.449Z",
     "canonical:4e3bd8b9c9c33c84": "2026-07-02T10:28:03.449Z",
@@ -1087,7 +1083,6 @@
     "canonical:df747736170d0107": "2026-07-02T23:06:51.141Z",
     "canonical:717a820397b90089": "2026-07-02T23:06:51.141Z",
     "canonical:c7ade99df4a6b7ff": "2026-07-02T23:06:51.141Z",
-    "canonical:31111bb0d3294005": "2026-07-02T23:06:51.141Z",
     "canonical:1f05dd365577984d": "2026-07-02T23:06:51.141Z",
     "canonical:1eacbad0d2fdf9c5": "2026-07-02T23:06:51.141Z",
     "canonical:ce0adcff9203e4c5": "2026-07-02T23:06:51.141Z",
@@ -1103,7 +1098,10 @@
     "canonical:94861bb6e6d86564": "2026-07-03T07:37:01.415Z",
     "canonical:af15ace032a8e1cb": "2026-07-03T07:37:01.415Z",
     "canonical:4d960d866a453e9f": "2026-07-03T07:37:01.415Z",
-    "canonical:2696d27e53de0c2e": "2026-07-03T07:37:01.415Z"
+    "canonical:2696d27e53de0c2e": "2026-07-03T07:37:01.415Z",
+    "canonical:afc9f49cbd23b95f": "2026-07-03T10:16:45.049Z",
+    "canonical:d4522e592923d04c": "2026-07-03T10:16:45.049Z",
+    "canonical:c1817238d89b26e3": "2026-07-03T10:16:45.049Z"
   },
   "jobs": [
     {
@@ -4973,6 +4971,18 @@
       ]
     },
     {
+      "id": "canonical:4341a970cbbffa2c",
+      "title": "Technology Product Analyst Intern",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107890",
+      "location": "Dallas, TX",
+      "department": "Product",
+      "company": "Copart",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:c023167c5909ccb2",
       "title": "UIUC Research Park Intern - Validation",
       "url": "https://careers.rivian.com/jobs/29771?lang=en-us&icims=1",
@@ -5159,18 +5169,6 @@
       "score": 68,
       "scoreReasons": [
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:e6ef25e90c9890c5",
-      "title": "Packaging Engineering Intern",
-      "url": "https://jobs.ashbyhq.com/atomicsemi/4497473d-0ce0-4e83-88c3-2afedceac622/application",
-      "location": "SF",
-      "department": "Hardware",
-      "company": "Atomic Semi",
-      "score": 58,
-      "scoreReasons": [
         "direct ATS"
       ]
     },
@@ -6001,18 +5999,6 @@
       ]
     },
     {
-      "id": "canonical:4341a970cbbffa2c",
-      "title": "Technology Product Analyst Intern",
-      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR108712",
-      "location": "Dallas, TX",
-      "department": "Product",
-      "company": "Copart",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:89aaf3baee1cdf28",
       "title": "Software Engineering Intern",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745",
@@ -6508,6 +6494,18 @@
       ]
     },
     {
+      "id": "canonical:afc9f49cbd23b95f",
+      "title": "Associate Product Manager Intern",
+      "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--September-2026-12-Months-_R10041",
+      "location": "Mississauga, ON, Canada",
+      "department": "Product",
+      "company": "SOTI",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:079fba44d48bf733",
       "title": "AI Analyst Intern/Co-op",
       "url": "https://officejobs-truemfg.icims.com/jobs/2671/job?mobile=true&needsRedirect=false",
@@ -6731,6 +6729,19 @@
       ]
     },
     {
+      "id": "canonical:d4522e592923d04c",
+      "title": "Product Manager Intern - Sales Enablement Products",
+      "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Product-Manager--Intern-_R10095",
+      "location": "Mississauga, ON, Canada",
+      "department": "Product",
+      "company": "SOTI",
+      "score": 38,
+      "scoreReasons": [
+        "direct ATS",
+        "lower-fit title"
+      ]
+    },
+    {
       "id": "canonical:6f2e0452784720f9",
       "title": "Year at Palantir Intern - Forward Deployed Software Engineer",
       "url": "https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019/apply",
@@ -6918,20 +6929,6 @@
       "location": "Lehi, UT",
       "department": "Software",
       "company": "Podium",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:840310ea7f271b05",
-      "title": "Full Stack Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/Nash/5d2387ea-c478-433b-b3db-30115d1984c5/application",
-      "location": "SF",
-      "department": "Software",
-      "company": "Nash",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -8614,6 +8611,19 @@
       ]
     },
     {
+      "id": "canonical:c1817238d89b26e3",
+      "title": "FP&A Business Intelligence Intern",
+      "url": "https://brambles.wd5.myworkdayjobs.com/en-US/Brambles_Careers/job/London-England-United-Kingdom/FP-A-Business-Intelligence-Intern_JR23946-1",
+      "location": "London, UK / Orlando, FL / Atlanta, GA",
+      "department": "AI/ML/Data",
+      "company": "CHEP",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:1903ea6b0e57aeaa",
       "title": "Generative AI Engineer Intern",
       "url": "https://careers-peraton.icims.com/jobs/167460/job?mobile=true&needsRedirect=false",
@@ -9308,18 +9318,6 @@
       "location": "Vancouver, BC, Canada",
       "department": "Software",
       "company": "Seaspan",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:ade11c4713d07751",
-      "title": "Administrative Intern - Sanford School of Public Policy",
-      "url": "https://careers.duke.edu/job/Durham-Administrative-Intern,-Sanford-School-of-Public-Policy-NC-27710/1395747700/?ats=successfactors",
-      "location": "Durham, NC",
-      "department": "AI/ML/Data",
-      "company": "Duke University",
       "score": 60,
       "scoreReasons": [
         "high-signal role"
@@ -12564,18 +12562,6 @@
       ]
     },
     {
-      "id": "canonical:ebe8e780043a0464",
-      "title": "SOC AI Power and Performance Validation Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/SOC-AI-Power-and-Performance-Validation-Undergrad-Intern_JR0285242-1",
-      "location": "Folsom, CA",
-      "department": "Hardware",
-      "company": "Intel",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:cfc9556685ced54b",
       "title": "Product Solutions and Operations Project Intern - Commerce Ads",
       "url": "https://lifeattiktok.com/search/7657640284071954741",
@@ -12734,19 +12720,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:31111bb0d3294005",
-      "title": "Strategic Analyst Intern",
-      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Strategic-Analyst-Intern_JR104599-1",
-      "location": "Dallas, TX",
-      "department": "AI/ML/Data",
-      "company": "Copart",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
