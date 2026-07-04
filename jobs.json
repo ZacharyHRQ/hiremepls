@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T23:40:49.562Z",
+  "generatedAt": "2026-07-04T01:14:24.808Z",
   "companyCount": 68,
   "okCount": 68,
   "jobCount": 1092,
@@ -874,7 +874,6 @@
     "canonical:ef5940300d27214d": "2026-06-25T15:10:46.027Z",
     "canonical:10a5b74a72d648b4": "2026-06-25T15:10:46.027Z",
     "canonical:99c46587db530588": "2026-06-25T15:10:46.027Z",
-    "canonical:329c5df3b6fcd7b0": "2026-06-26T17:12:38.564Z",
     "canonical:1f4885c46cec6b73": "2026-06-26T19:02:49.713Z",
     "canonical:97f386a84a1889d1": "2026-06-26T20:53:14.486Z",
     "canonical:f3a1eff98d8da5ba": "2026-06-28T06:45:31.851Z",
@@ -1095,7 +1094,8 @@
     "canonical:5796df1d1650dba3": "2026-07-03T22:40:03.965Z",
     "canonical:62be2f7552517660": "2026-07-03T23:40:49.562Z",
     "canonical:7cd65dbc34efa0fa": "2026-07-03T23:40:49.562Z",
-    "canonical:3c8e9114d6b53972": "2026-07-03T23:40:49.562Z"
+    "canonical:3c8e9114d6b53972": "2026-07-03T23:40:49.562Z",
+    "canonical:2e677a89e89c9f6b": "2026-07-04T01:14:24.808Z"
   },
   "jobs": [
     {
@@ -1503,7 +1503,7 @@
     {
       "id": "canonical:90de0872641ecba5",
       "title": "Intern",
-      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988899",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988896",
       "location": "Gift City",
       "department": "",
       "company": "Tower Research Capital",
@@ -2302,7 +2302,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -10845,19 +10845,6 @@
       ]
     },
     {
-      "id": "canonical:329c5df3b6fcd7b0",
-      "title": "Software Engineer Intern",
-      "url": "https://external-telecom-teldta.icims.com/jobs/29561/job?mobile=true&needsRedirect=false",
-      "location": "Remote in USA",
-      "department": "Software",
-      "company": "TDS",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:f3a1eff98d8da5ba",
       "title": "Machine Learning Engineer Intern",
       "url": "https://lifeattiktok.com/search/7534855949620119815",
@@ -12846,6 +12833,18 @@
       "score": 68,
       "scoreReasons": [
         "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:2e677a89e89c9f6b",
+      "title": "Product Intern",
+      "url": "https://job-boards.greenhouse.io/sezzle/jobs/6599073003",
+      "location": "Remote in Canada",
+      "department": "Product",
+      "company": "Sezzle",
+      "score": 58,
+      "scoreReasons": [
         "direct ATS"
       ]
     },
