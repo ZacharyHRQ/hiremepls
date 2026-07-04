@@ -1,6 +1,6 @@
 # Open Internships
 
-**1092** internships across **68/68** companies — last updated 2026-07-04.
+**1090** internships across **68/68** companies — last updated 2026-07-04.
 
 ## Companies
 
@@ -228,7 +228,7 @@
 - [K1](#k1) (1)
 - [KBR](#kbr) (1)
 - [Kensington](#kensington) (2)
-- [Kinaxis](#kinaxis) (4)
+- [Kinaxis](#kinaxis) (3)
 - [KION Group](#kion-group) (1)
 - [KLA](#kla) (2)
 - [Kognitos](#kognitos) (1)
@@ -428,7 +428,6 @@
 - [Toyota Research Institute](#toyota-research-institute) (3)
 - [Traackr](#traackr) (1)
 - [Tradeweb](#tradeweb) (1)
-- [Trane Technologies](#trane-technologies) (1)
 - [TransMarket Group](#transmarket-group) (1)
 - [Trata](#trata) (1)
 - [Travelers](#travelers) (4)
@@ -2025,7 +2024,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Developer Intern](https://careers-kinaxis.icims.com/jobs/34899/job?mobile=true&needsRedirect=false) | 85 | Ottawa, ON, Canada | Software | 2026-07-02 |
 | [Engineer Co-op/Intern - Data & Analytics](https://careers-kinaxis.icims.com/jobs/34766/job?mobile=true&needsRedirect=false) | 85 | Ottawa, ON, Canada | AI/ML/Data | 2026-07-01 |
-| [Software Developer Co-op/Intern - Core Algorithms](https://careers-kinaxis.icims.com/jobs/34962/job?mobile=true&needsRedirect=false) | 85 | Ottawa, ON, Canada | Software | 2026-06-19 |
 | [Software Development Co-op/Intern - C++](https://careers-kinaxis.icims.com/jobs/34764/job?mobile=true&needsRedirect=false) | 60 | Ottawa, ON, Canada | Software | 2026-06-18 |
 
 ## KION Group
@@ -3615,12 +3613,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Tradeweb International Intern Program - JavaScript UI Developer - Technology Division](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301721) | 85 | London, UK | Software | 2026-05-09 |
-
-## Trane Technologies
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Collections Data Analyst Intern](https://careers.tranetechnologies.com/global/en/job/JR-4222) | 60 | Winona, MN | AI/ML/Data | 2026-06-17 |
 
 ## TransMarket Group
 

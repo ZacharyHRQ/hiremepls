@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-04T01:14:24.808Z",
+  "generatedAt": "2026-07-04T04:51:29.125Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1092,
+  "jobCount": 1090,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -800,7 +800,6 @@
     "canonical:2565863a1e23cabe": "2026-06-17T01:40:00.105Z",
     "canonical:739d08f7f355d918": "2026-06-17T01:40:00.105Z",
     "canonical:671476feb017f2b4": "2026-06-17T01:40:00.105Z",
-    "canonical:1782ca39c8f2f506": "2026-06-17T06:49:09.742Z",
     "canonical:72a04379c4f2bf88": "2026-06-17T06:49:09.742Z",
     "canonical:1188eeec8fc3af96": "2026-06-17T06:49:09.742Z",
     "canonical:666a2ab24698b316": "2026-06-17T06:49:09.742Z",
@@ -830,7 +829,6 @@
     "canonical:21f7860e2eb4a9b1": "2026-06-19T02:17:31.951Z",
     "canonical:e967631c8fecc287": "2026-06-19T02:17:31.951Z",
     "canonical:e31c6f05c180cfcc": "2026-06-19T02:17:31.951Z",
-    "canonical:2f7b7a704c723e9b": "2026-06-19T07:34:45.156Z",
     "canonical:6dd85ff3ed8dd5dc": "2026-06-19T07:34:45.156Z",
     "canonical:5db094360a3dbbfc": "2026-06-19T07:34:45.156Z",
     "canonical:b4321a96d5262a5c": "2026-06-19T17:03:13.004Z",
@@ -6378,18 +6376,6 @@
       ]
     },
     {
-      "id": "canonical:1782ca39c8f2f506",
-      "title": "Collections Data Analyst Intern",
-      "url": "https://careers.tranetechnologies.com/global/en/job/JR-4222",
-      "location": "Winona, MN",
-      "department": "AI/ML/Data",
-      "company": "Trane Technologies",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:afc9f49cbd23b95f",
       "title": "Associate Product Manager Intern",
       "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--September-2026-12-Months-_R10041",
@@ -10422,19 +10408,6 @@
       "score": 58,
       "scoreReasons": [
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:2f7b7a704c723e9b",
-      "title": "Software Developer Co-op/Intern - Core Algorithms",
-      "url": "https://careers-kinaxis.icims.com/jobs/34962/job?mobile=true&needsRedirect=false",
-      "location": "Ottawa, ON, Canada",
-      "department": "Software",
-      "company": "Kinaxis",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
