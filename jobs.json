@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-04T09:50:25.841Z",
+  "generatedAt": "2026-07-04T11:17:02.191Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1060,
+  "jobCount": 1064,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -536,7 +536,6 @@
     "canonical:da1d1f81b47de301": "2026-05-27T02:52:54.000Z",
     "canonical:aaf453fcebecd6b3": "2026-05-27T02:52:54.000Z",
     "canonical:26834ab146689c4d": "2026-05-27T02:52:54.000Z",
-    "canonical:089f466a56458f6e": "2026-05-27T02:52:54.000Z",
     "canonical:f2b9b01ed20bb453": "2026-05-27T06:54:37.687Z",
     "canonical:7cd11e7ec9f67cb6": "2026-05-27T06:54:37.687Z",
     "canonical:20085e5eef82ddf3": "2026-05-27T10:47:24.465Z",
@@ -829,7 +828,6 @@
     "canonical:0d51b143c8459099": "2026-06-20T03:57:11.576Z",
     "canonical:495a5708640f7aa7": "2026-06-20T03:57:11.576Z",
     "canonical:079fba44d48bf733": "2026-06-20T17:26:31.734Z",
-    "canonical:1cb06eb7b801cca8": "2026-06-20T17:26:31.734Z",
     "canonical:5c5c4aaee7bd2d24": "2026-06-21T11:34:18.126Z",
     "canonical:b04cfd3af2687e8f": "2026-06-21T11:34:18.126Z",
     "canonical:c2b89946ce467519": "2026-06-22T19:32:14.187Z",
@@ -908,7 +906,6 @@
     "canonical:3e4bc8ae685df9a3": "2026-07-01T06:55:26.212Z",
     "canonical:0c6a01a05ca81c51": "2026-07-01T06:55:26.212Z",
     "canonical:e71ba7972ee9db45": "2026-07-01T06:55:26.212Z",
-    "canonical:c1e9394452463ed1": "2026-07-01T06:55:26.212Z",
     "canonical:2e748bca164b3a40": "2026-07-01T06:55:26.212Z",
     "canonical:b06c1c658f9e9640": "2026-07-01T06:55:26.212Z",
     "canonical:e74ff208aa9bd56c": "2026-07-01T06:55:26.212Z",
@@ -1063,7 +1060,14 @@
     "canonical:2e677a89e89c9f6b": "2026-07-04T01:14:24.808Z",
     "canonical:e6ef25e90c9890c5": "2026-07-04T09:50:25.841Z",
     "canonical:0df76adfa71f50bc": "2026-07-04T09:50:25.841Z",
-    "canonical:d83eba2924c17739": "2026-07-04T09:50:25.841Z"
+    "canonical:d83eba2924c17739": "2026-07-04T09:50:25.841Z",
+    "canonical:941d02dc047a74b1": "2026-07-04T11:17:02.191Z",
+    "canonical:c24fa2c293373870": "2026-07-04T11:17:02.191Z",
+    "canonical:4168fcd2f5f91a08": "2026-07-04T11:17:02.191Z",
+    "canonical:f27c30f5eef5d1fb": "2026-07-04T11:17:02.191Z",
+    "canonical:aa43ee77d75cfa12": "2026-07-04T11:17:02.191Z",
+    "canonical:62be2f7552517660": "2026-07-04T11:17:02.191Z",
+    "canonical:7cd65dbc34efa0fa": "2026-07-04T11:17:02.191Z"
   },
   "jobs": [
     {
@@ -1471,7 +1475,7 @@
     {
       "id": "canonical:90de0872641ecba5",
       "title": "Intern",
-      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988899",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988896",
       "location": "Gift City",
       "department": "",
       "company": "Tower Research Capital",
@@ -2270,7 +2274,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -3250,6 +3254,20 @@
       ]
     },
     {
+      "id": "canonical:31962d85f79aae5b",
+      "title": "Hunyuan Multimodal Algorithm Researcher intern - Omni-Modal",
+      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650",
+      "location": "Palo Alto, CA",
+      "department": "AI/ML/Data",
+      "company": "Tencent",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:885c7029ab2fb04a",
       "title": "Internship - Software Development Engineer in Test",
       "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Development-Engineer-in-Test_J-00328071",
@@ -3572,20 +3590,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:31962d85f79aae5b",
-      "title": "Hunyuan Multimodal Algorithm Researcher Intern - Omni-Modal",
-      "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650-2",
-      "location": "Palo Alto, CA",
-      "department": "AI/ML/Data",
-      "company": "Tencent",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -4544,6 +4548,19 @@
       ]
     },
     {
+      "id": "canonical:941d02dc047a74b1",
+      "title": "AI Intern",
+      "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Atlanta-GA-United-States/AI-Internships_JR-0088855-1",
+      "location": "Grand Rapids, MI / Plano, TX / Atlanta, GA",
+      "department": "Software",
+      "company": "KION Group",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:8e0cd3743b2a5477",
       "title": "Product Manager Intern",
       "url": "https://lifeattiktok.com/search/7613587198434855173",
@@ -4853,6 +4870,19 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:c24fa2c293373870",
+      "title": "Data Science Intern",
+      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Data-Science-Intern_R107184",
+      "location": "Palo Alto, CA",
+      "department": "AI/ML/Data",
+      "company": "Tencent",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -6448,6 +6478,20 @@
       ]
     },
     {
+      "id": "canonical:4168fcd2f5f91a08",
+      "title": "Software Developer in Test Intern",
+      "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-in-Test-Intern--September-2026-12-Months-_R10064",
+      "location": "Mississauga, ON, Canada",
+      "department": "Software",
+      "company": "SOTI",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:8e6a874ae67bbc06",
       "title": "Data Analyst Intern - Power Control Center",
       "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/onr7zfwe?nl=1&nl=1&fr=false",
@@ -7376,6 +7420,20 @@
       ]
     },
     {
+      "id": "canonical:f27c30f5eef5d1fb",
+      "title": "PhD Software Engineer Intern - Decision Intelligence",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522",
+      "location": "Santa Clara, CA",
+      "department": "Hardware",
+      "company": "NVIDIA",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:296035cd95b6d0a8",
       "title": "Software Development Co-op/Intern - C++",
       "url": "https://careers-kinaxis.icims.com/jobs/34764/job?mobile=true&needsRedirect=false",
@@ -7510,18 +7568,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:089f466a56458f6e",
-      "title": "Community Development Intern",
-      "url": "https://careers-growfinancial.icims.com/jobs/2674/job?mobile=true&needsRedirect=false",
-      "location": "Tampa, FL",
-      "department": "AI/ML/Data",
-      "company": "Grow Financial Federal Credit Union",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {
@@ -7677,18 +7723,6 @@
       "score": 68,
       "scoreReasons": [
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:1cb06eb7b801cca8",
-      "title": "Silicon Performance Validation and Characterization Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Silicon-Performance-Validation-and-Characterization-Intern_JR0284310",
-      "location": "Phoenix, AZ",
-      "department": "Hardware",
-      "company": "Intel",
-      "score": 58,
-      "scoreReasons": [
         "direct ATS"
       ]
     },
@@ -9934,6 +9968,16 @@
       ]
     },
     {
+      "id": "canonical:aa43ee77d75cfa12",
+      "title": "Systems Intern",
+      "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235414",
+      "location": "Southfield, MI",
+      "department": "Hardware",
+      "company": "Magna",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
       "id": "canonical:3c6099c18b55d40a",
       "title": "Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems",
       "url": "https://www.tesla.com/careers/search/job/274047",
@@ -10840,6 +10884,20 @@
       ]
     },
     {
+      "id": "canonical:62be2f7552517660",
+      "title": "Software Engineer Intern - Software Engineer",
+      "url": "https://job-boards.greenhouse.io/rise8/jobs/4359623007",
+      "location": "Remote in USA",
+      "department": "Software",
+      "company": "Rise8",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:107dff9ebd11a7e0",
       "title": "Design Engineer Intern",
       "url": "https://jobs.ashbyhq.com/Gumloop/d1c82673-a98a-4e27-8ec0-014740eb5a22/application",
@@ -10965,19 +11023,6 @@
       "company": "Generac",
       "score": 58,
       "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:c1e9394452463ed1",
-      "title": "Analytics Intern",
-      "url": "https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Analytics-Intern_JR105406",
-      "location": "Cleveland, OH",
-      "department": "AI/ML/Data",
-      "company": "thyssenkrupp",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
         "direct ATS"
       ]
     },
@@ -12237,6 +12282,18 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:7cd65dbc34efa0fa",
+      "title": "Skillbridge Intern - Product Manager",
+      "url": "https://job-boards.greenhouse.io/rise8/jobs/4359627007",
+      "location": "Remote in USA",
+      "department": "Product",
+      "company": "Rise8",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
       ]
     },
     {
