@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-04T12:39:15.733Z",
+  "generatedAt": "2026-07-04T14:12:36.824Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1077,
+  "jobCount": 1081,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1080,7 +1080,11 @@
     "canonical:c1e9394452463ed1": "2026-07-04T12:39:15.733Z",
     "canonical:b0995157b52a70dd": "2026-07-04T12:39:15.733Z",
     "canonical:fae742742a2eb1de": "2026-07-04T12:39:15.733Z",
-    "canonical:ae1902dace82286a": "2026-07-04T12:39:15.733Z"
+    "canonical:ae1902dace82286a": "2026-07-04T12:39:15.733Z",
+    "canonical:1cb06eb7b801cca8": "2026-07-04T14:12:36.824Z",
+    "canonical:a54dfaa9c2670ee3": "2026-07-04T14:12:36.824Z",
+    "canonical:1f05dd365577984d": "2026-07-04T14:12:36.824Z",
+    "canonical:36ef1ec6d7ec629a": "2026-07-04T14:12:36.824Z"
   },
   "jobs": [
     {
@@ -1488,7 +1492,7 @@
     {
       "id": "canonical:90de0872641ecba5",
       "title": "Intern",
-      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988896",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988899",
       "location": "Gift City",
       "department": "",
       "company": "Tower Research Capital",
@@ -2287,7 +2291,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -5842,10 +5846,10 @@
       ]
     },
     {
-      "id": "canonical:78e461e91d26f884",
+      "id": "canonical:60d48ea9b4193a8f",
       "title": "Game Research & Development Intern - Engine Research",
-      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Game-Research---Development-Intern--Engine-Research_R107363-1",
-      "location": "Bellevue, WA",
+      "url": "https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/US-California-Los-Angeles/Game-Research---Development-Intern--Engine-Research_R107344",
+      "location": "LA",
       "department": "Software",
       "company": "Tencent",
       "score": 68,
@@ -5855,10 +5859,10 @@
       ]
     },
     {
-      "id": "canonical:60d48ea9b4193a8f",
+      "id": "canonical:78e461e91d26f884",
       "title": "Game Research & Development Intern - Engine Research",
-      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Los-Angeles/Game-Research---Development-Intern--Engine-Research_R107344-1",
-      "location": "LA",
+      "url": "https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/US-Washington-Bellevue/Game-Research---Development-Intern--Engine-Research_R107363",
+      "location": "Bellevue, WA",
       "department": "Software",
       "company": "Tencent",
       "score": 68,
@@ -7844,6 +7848,18 @@
       ]
     },
     {
+      "id": "canonical:1cb06eb7b801cca8",
+      "title": "Silicon Performance Validation and Characterization Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Silicon-Performance-Validation-and-Characterization-Intern_JR0284310",
+      "location": "Phoenix, AZ",
+      "department": "Hardware",
+      "company": "Intel",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:9e2ca9c244113a9f",
       "title": "Computer Vision/AI Intern - Computer Vision/AI",
       "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8560657002",
@@ -7957,6 +7973,19 @@
         "high-signal role",
         "direct ATS",
         "lower-fit title"
+      ]
+    },
+    {
+      "id": "canonical:a54dfaa9c2670ee3",
+      "title": "Artificial Intelligence & Machine Learning Intern",
+      "url": "https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Artificial-Intelligence---Machine-Learning-Intern_REQ-2026-8543-1",
+      "location": "Omaha, NE",
+      "department": "AI/ML/Data",
+      "company": "Boys Town",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -12343,6 +12372,20 @@
       ]
     },
     {
+      "id": "canonical:1f05dd365577984d",
+      "title": "Data Engineer Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/DTCO-Data-Engineer-Intern_JR0285341",
+      "location": "Austin, TX",
+      "department": "AI/ML/Data",
+      "company": "Intel",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:1eacbad0d2fdf9c5",
       "title": "Deep Learning Engineer Intern",
       "url": "https://job-boards.greenhouse.io/botauto/jobs/5289440008",
@@ -12629,6 +12672,19 @@
       "location": "Hyattsville, MD",
       "department": "AI/ML/Data",
       "company": "University of Maryland - College Park",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:36ef1ec6d7ec629a",
+      "title": "Assembly Process Technician Intern - Yield Enhancement / Failure Analysis",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Assembly-Process-Technician--Yield-Enhancement---Failure-Analysis-_JR104101",
+      "location": "Leander, TX",
+      "department": "AI/ML/Data",
+      "company": "Micron Technology",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
