@@ -1,6 +1,6 @@
 # Open Internships
 
-**1081** internships across **68/68** companies — last updated 2026-07-04.
+**1084** internships across **68/68** companies — last updated 2026-07-04.
 
 ## Companies
 
@@ -132,6 +132,7 @@
 - [DimeHealth AI](#dimehealth-ai) (1)
 - [Doctors Without Borders](#doctors-without-borders) (1)
 - [Docugami](#docugami) (1)
+- [Droyd Robotics](#droyd-robotics) (2)
 - [Dryft](#dryft) (1)
 - [DuPont](#dupont) (5)
 - [EdgeTrace](#edgetrace) (1)
@@ -438,6 +439,7 @@
 - [Veeam Software](#veeam-software) (2)
 - [Veeva](#veeva) (1)
 - [Verkada](#verkada) (4)
+- [Verne Robotics](#verne-robotics) (1)
 - [VetsEZ](#vetsez) (1)
 - [Viridien](#viridien) (1)
 - [Voloridge Investment Management](#voloridge-investment-management) (1)
@@ -1148,7 +1150,7 @@
 | [Technical Support Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8041135?gh_jid=8041135) | 58 | In-Office | — | 2026-07-03 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
 | [Sales Project Manager Intern (AI Innovation) (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8020830?gh_jid=8020830) | 38 | In-Office | — | 2026-06-23 |
 | [Legal Intern – Commercial Legal (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7983674?gh_jid=7983674) | 58 | In-Office | — | 2026-06-05 |
 | [People Team Intern - HR Operations & AI Innovation (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240) | 58 | In-Office | — | 2026-05-20 |
@@ -1369,6 +1371,13 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/docugami/jobs/4014838003) | 93 | Kirkland, WA | Software | 2026-05-15 |
+
+## Droyd Robotics
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://jobs.ashbyhq.com/droyd/8d46ed05-1b38-4c68-938e-f10b4c7d4694/application) | 93 | SF | Hardware | 2026-07-04 |
+| [Machine Learning Intern](https://jobs.ashbyhq.com/droyd/fd533fd8-65a7-41eb-bdf0-e75f02e739e9/application) | 68 | SF | AI/ML/Data | 2026-07-04 |
 
 ## Dryft
 
@@ -3546,7 +3555,7 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Business Analytics Intern - 6 Month Internship Opportunity](https://www.tower-research.com/open-positions/?gh_jid=8041512) | 50 | Amsterdam | — | 2026-07-03 |
-| [Intern](https://www.tower-research.com/open-positions/?gh_jid=7988899) | 50 | Gift City | — | 2026-06-12 |
+| [Intern](https://www.tower-research.com/open-positions/?gh_jid=7988896) | 50 | Gift City | — | 2026-06-12 |
 | [Risk Intern - 6 Month Internship Opportunity](https://www.tower-research.com/open-positions/?gh_jid=7789933) | 50 | Singapore | — | 2026-05-06 |
 
 ## Toyota Research Institute
@@ -3671,6 +3680,12 @@
 | [Backend Software Engineer Intern](https://job-boards.greenhouse.io/verkada/jobs/5099422007) | 93 | San Mateo, CA | — | 2026-05-09 |
 | [Embedded Software Engineer Intern](https://job-boards.greenhouse.io/verkada/jobs/5099596007) | 93 | San Mateo, CA | — | 2026-05-09 |
 | [Frontend Software Engineer Intern](https://job-boards.greenhouse.io/verkada/jobs/5099529007) | 93 | San Mateo, CA | — | 2026-05-09 |
+
+## Verne Robotics
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Engineering Intern](https://jobs.ashbyhq.com/Verne%20Robotics/bb78cdd4-449b-49f0-bd10-2c62fc85f83b/application) | 68 | San Bruno, CA | AI/ML/Data | 2026-07-04 |
 
 ## VetsEZ
 

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-04T14:12:36.824Z",
+  "generatedAt": "2026-07-04T15:29:35.645Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1081,
+  "jobCount": 1084,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1084,7 +1084,10 @@
     "canonical:1cb06eb7b801cca8": "2026-07-04T14:12:36.824Z",
     "canonical:a54dfaa9c2670ee3": "2026-07-04T14:12:36.824Z",
     "canonical:1f05dd365577984d": "2026-07-04T14:12:36.824Z",
-    "canonical:36ef1ec6d7ec629a": "2026-07-04T14:12:36.824Z"
+    "canonical:36ef1ec6d7ec629a": "2026-07-04T14:12:36.824Z",
+    "canonical:69629f2e556a8b42": "2026-07-04T15:29:35.645Z",
+    "canonical:afa2d46863565441": "2026-07-04T15:29:35.645Z",
+    "canonical:0b183a378a19c53a": "2026-07-04T15:29:35.645Z"
   },
   "jobs": [
     {
@@ -1492,7 +1495,7 @@
     {
       "id": "canonical:90de0872641ecba5",
       "title": "Intern",
-      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988899",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988896",
       "location": "Gift City",
       "department": "",
       "company": "Tower Research Capital",
@@ -2291,7 +2294,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -12687,6 +12690,46 @@
       "company": "Micron Technology",
       "score": 68,
       "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:69629f2e556a8b42",
+      "title": "Machine Learning Intern",
+      "url": "https://jobs.ashbyhq.com/droyd/fd533fd8-65a7-41eb-bdf0-e75f02e739e9/application",
+      "location": "SF",
+      "department": "AI/ML/Data",
+      "company": "Droyd Robotics",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:afa2d46863565441",
+      "title": "Engineering Intern",
+      "url": "https://jobs.ashbyhq.com/Verne%20Robotics/bb78cdd4-449b-49f0-bd10-2c62fc85f83b/application",
+      "location": "San Bruno, CA",
+      "department": "AI/ML/Data",
+      "company": "Verne Robotics",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:0b183a378a19c53a",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/droyd/8d46ed05-1b38-4c68-938e-f10b4c7d4694/application",
+      "location": "SF",
+      "department": "Hardware",
+      "company": "Droyd Robotics",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
