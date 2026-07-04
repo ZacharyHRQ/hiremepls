@@ -1,6 +1,6 @@
 # Open Internships
 
-**1060** internships across **67/68** companies — last updated 2026-07-04.
+**1060** internships across **68/68** companies — last updated 2026-07-04.
 
 ## Companies
 
@@ -42,7 +42,7 @@
 - [Astera](#astera) (1)
 - [Astera Labs](#astera-labs) (3)
 - [Astranis](#astranis) (10)
-- [Atomic Semi](#atomic-semi) (7)
+- [Atomic Semi](#atomic-semi) (8)
 - [Auctor](#auctor) (1)
 - [Avanade](#avanade) (1)
 - [Avery Dennison](#avery-dennison) (1)
@@ -90,7 +90,6 @@
 - [Centerfield](#centerfield) (2)
 - [Centific](#centific) (1)
 - [Chartwells Higher Education Dining Services](#chartwells-higher-education-dining-services) (1)
-- [CHEP](#chep) (1)
 - [Cherry Bekaert](#cherry-bekaert) (2)
 - [Ciena](#ciena) (2)
 - [Cirrus Logic](#cirrus-logic) (1)
@@ -241,7 +240,7 @@
 - [Lucid Motors](#lucid-motors) (1)
 - [Lyft](#lyft) (1)
 - [Mackenzie Investments](#mackenzie-investments) (1)
-- [Magna](#magna) (1)
+- [Magna](#magna) (2)
 - [Maher Duessel](#maher-duessel) (1)
 - [MaloneBailey, LLP](#malonebailey-llp) (1)
 - [Man Group](#man-group) (4)
@@ -299,7 +298,7 @@
 - [Optiver](#optiver) (1)
 - [Oracle](#oracle) (7)
 - [Outmarket AI](#outmarket-ai) (1)
-- [Output Biosciences](#output-biosciences) (1)
+- [Output Biosciences](#output-biosciences) (2)
 - [Paccar](#paccar) (1)
 - [Palantir](#palantir) (6)
 - [Palo Alto Networks](#palo-alto-networks) (2)
@@ -338,7 +337,6 @@
 - [RESPEC](#respec) (1)
 - [RFCUNY](#rfcuny) (1)
 - [Rippling](#rippling) (3)
-- [Rise8](#rise8) (2)
 - [Rivian](#rivian) (1)
 - [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (14)
 - [Robert Bosch Venture Capital](#robert-bosch-venture-capital) (2)
@@ -740,6 +738,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Packaging Engineering Intern](https://jobs.ashbyhq.com/atomicsemi/4497473d-0ce0-4e83-88c3-2afedceac622/application) | 58 | SF | Hardware | 2026-07-04 |
 | [Automation Software Engineering Intern](https://jobs.ashbyhq.com/atomicsemi/615feebf-d9e3-4583-9c85-ba16af44e65c/application) | 68 | SF | Hardware | 2026-05-09 |
 | [Embedded Software Engineering Intern](https://jobs.ashbyhq.com/atomicsemi/de448098-ffc6-4b99-b341-d6a5874f390f/application) | 68 | SF | Hardware | 2026-05-09 |
 | [Embedded Software Engineering Intern](https://jobs.ashbyhq.com/AtomicSemi/13e95284-dbcf-4cf2-8151-c9687dfc1889) | 68 | San Francisco, CA | — | 2026-05-09 |
@@ -1076,12 +1075,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Field Marketing Intern, Chartwells Higher Ed / University of North Carolina](https://www.linkedin.com/jobs/view/4261076817) | 22 | Charlotte, NC | — | 2026-05-16 |
-
-## CHEP
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [FP&A Business Intelligence Intern](https://brambles.wd5.myworkdayjobs.com/en-US/Brambles_Careers/job/London-England-United-Kingdom/FP-A-Business-Intelligence-Intern_JR23946-1) | 68 | London, UK / Orlando, FL / Atlanta, GA | AI/ML/Data | 2026-07-03 |
 
 ## Cherry Bekaert
 
@@ -2096,6 +2089,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Systems Engineer Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235413) | 85 | Southfield, MI | AI/ML/Data | 2026-07-04 |
 | [Product Engineering Engineer Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Grand-Rapids-Michigan-US/Product-Engineering-Intern_R00243272) | 85 | Grand Rapids, MI | Software | 2026-06-15 |
 
 ## Maher Duessel
@@ -2509,6 +2503,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Research Intern - Machine Learning](https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239/application) | 68 | SF / NYC | AI/ML/Data | 2026-07-04 |
 | [Research Intern, Machine Learning](https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239) | 68 | New York, NY / San Francisco, CA | Data Science, AI & Machine Learning | 2026-05-09 |
 
 ## Paccar
@@ -2798,13 +2793,6 @@
 | [Frontend Software Engineer Intern](https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c) | 85 | New York, NY / San Francisco, CA | — | 2026-05-09 |
 | [Machine Learning Engineer Intern](https://ats.rippling.com/en-GB/rippling/jobs/ee1ec0b1-9a55-408d-979d-9c74f257e9ea) | 85 | San Francisco, CA | — | 2026-05-09 |
 | [Software Engineer Intern](https://ats.rippling.com/en-GB/rippling/jobs/203e0cac-0e30-4603-8087-f764e8c3f85c) | 85 | New York, NY / San Francisco, CA | — | 2026-05-09 |
-
-## Rise8
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Intern - Software Engineer](https://job-boards.greenhouse.io/rise8/jobs/4359623007) | 93 | Remote in USA | Software | 2026-07-03 |
-| [Skillbridge Intern - Product Manager](https://job-boards.greenhouse.io/rise8/jobs/4359627007) | 58 | Remote in USA | Product | 2026-07-03 |
 
 ## Rivian
 
@@ -3770,7 +3758,3 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Platform Intelligence Intern](https://jobs.lever.co/zoox/22bece12-95a5-4ad7-a4e4-6c43178153d2) | 68 | Foster City, CA | — | 2026-05-12 |
-
-## Errors this run
-
-- **BlackRock**: workday blackrock: expected JSON, got text/html; charset=UTF-8: <!DOCTYPE html> <html lang="en" dir="ltr">   <head>     <meta charset="utf-8" />
