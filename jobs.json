@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-04T22:37:11.438Z",
+  "generatedAt": "2026-07-04T23:41:22.331Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1081,
+  "jobCount": 1079,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -579,7 +579,6 @@
     "canonical:0f3e220c90e81be2": "2026-06-03T00:01:07.922Z",
     "canonical:156e12a66a91749d": "2026-06-03T00:01:07.922Z",
     "canonical:00f76402b372da9e": "2026-06-03T00:01:07.922Z",
-    "canonical:23d047e9163f3b55": "2026-06-03T05:12:01.960Z",
     "canonical:c153bd5ef8789cba": "2026-06-03T10:04:55.299Z",
     "canonical:57d1ee7ccdd064d5": "2026-06-03T10:04:55.299Z",
     "canonical:1c9d411b67164726": "2026-06-03T10:04:55.299Z",
@@ -625,7 +624,6 @@
     "canonical:a98b1aa946348c37": "2026-06-06T12:15:10.399Z",
     "canonical:2b95c48ea9f5b253": "2026-06-06T14:14:20.078Z",
     "canonical:808521aedb31fb4f": "2026-06-06T15:40:28.831Z",
-    "canonical:525d35ef69b019bc": "2026-06-06T15:40:28.831Z",
     "canonical:7ab57e97fb879c0f": "2026-06-06T15:40:28.831Z",
     "canonical:9787b6e04120138f": "2026-06-06T15:40:28.831Z",
     "canonical:85735fa4cd042164": "2026-06-06T17:59:37.822Z",
@@ -867,7 +865,6 @@
     "canonical:cbb2914bff9402e9": "2026-06-28T09:52:26.057Z",
     "canonical:a6656b7d355386f5": "2026-06-28T09:52:26.057Z",
     "canonical:4d863ac16d10f977": "2026-06-28T09:52:26.057Z",
-    "canonical:ef667d829f183cb5": "2026-06-28T09:52:26.057Z",
     "canonical:6bc98e794c801a9d": "2026-06-28T11:41:12.049Z",
     "canonical:f675f8273d9a1aff": "2026-06-28T11:41:12.049Z",
     "canonical:13efad0dc5822e31": "2026-06-28T13:03:33.953Z",
@@ -1084,7 +1081,8 @@
     "canonical:36ef1ec6d7ec629a": "2026-07-04T14:12:36.824Z",
     "canonical:69629f2e556a8b42": "2026-07-04T15:29:35.645Z",
     "canonical:afa2d46863565441": "2026-07-04T15:29:35.645Z",
-    "canonical:0b183a378a19c53a": "2026-07-04T15:29:35.645Z"
+    "canonical:0b183a378a19c53a": "2026-07-04T15:29:35.645Z",
+    "canonical:7cd65dbc34efa0fa": "2026-07-04T23:41:22.331Z"
   },
   "jobs": [
     {
@@ -1492,7 +1490,7 @@
     {
       "id": "canonical:90de0872641ecba5",
       "title": "Intern",
-      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988899",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988896",
       "location": "Gift City",
       "department": "",
       "company": "Tower Research Capital",
@@ -2291,7 +2289,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -8148,18 +8146,6 @@
       ]
     },
     {
-      "id": "canonical:23d047e9163f3b55",
-      "title": "Perception Intern",
-      "url": "https://www.zipline.com/careers?gh_jid=7761650003#open-roles",
-      "location": "Dallas, TX / San Bruno, CA",
-      "department": "AI/ML/Data",
-      "company": "Zipline",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:c153bd5ef8789cba",
       "title": "Software Development Engineer Intern - Network Automation",
       "url": "https://jobs.bytedance.com/en/position/7537152240618195208/detail",
@@ -8532,19 +8518,6 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:525d35ef69b019bc",
-      "title": "Embedded Software Engineer Intern",
-      "url": "https://www.zipline.com/careers?gh_jid=7765240003#open-roles",
-      "location": "San Bruno, CA",
-      "department": "Hardware",
-      "company": "Zipline",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -10833,18 +10806,6 @@
       ]
     },
     {
-      "id": "canonical:ef667d829f183cb5",
-      "title": "Maps Intern",
-      "url": "https://www.zipline.com/open-roles?gh_jid=7787868003",
-      "location": "San Bruno, CA",
-      "department": "AI/ML/Data",
-      "company": "Zipline",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:6bc98e794c801a9d",
       "title": "Machine Learning Engineer Intern - Trust and Safety - CV/NLP/Multimodal LLM",
       "url": "https://lifeattiktok.com/search/7527589557336869138",
@@ -12469,6 +12430,18 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:7cd65dbc34efa0fa",
+      "title": "Skillbridge Intern - Product Manager",
+      "url": "https://job-boards.greenhouse.io/rise8/jobs/4359627007",
+      "location": "Remote in USA",
+      "department": "Product",
+      "company": "Rise8",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
       ]
     },
     {

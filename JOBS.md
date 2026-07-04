@@ -1,6 +1,6 @@
 # Open Internships
 
-**1081** internships across **68/68** companies — last updated 2026-07-04.
+**1079** internships across **68/68** companies — last updated 2026-07-04.
 
 ## Companies
 
@@ -342,7 +342,7 @@
 - [RESPEC](#respec) (1)
 - [RFCUNY](#rfcuny) (1)
 - [Rippling](#rippling) (3)
-- [Rise8](#rise8) (1)
+- [Rise8](#rise8) (2)
 - [Rivian](#rivian) (1)
 - [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (14)
 - [Robert Bosch Venture Capital](#robert-bosch-venture-capital) (2)
@@ -460,7 +460,7 @@
 - [X Development](#x-development) (1)
 - [XPENG Motors](#xpeng-motors) (2)
 - [Zip](#zip) (1)
-- [Zipline](#zipline) (5)
+- [Zipline](#zipline) (2)
 - [Zoox](#zoox) (1)
 
 ## 1Password
@@ -1150,7 +1150,7 @@
 | [Technical Support Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8041135?gh_jid=8041135) | 58 | In-Office | — | 2026-07-03 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
 | [Sales Project Manager Intern (AI Innovation) (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8020830?gh_jid=8020830) | 38 | In-Office | — | 2026-06-23 |
 | [Legal Intern – Commercial Legal (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7983674?gh_jid=7983674) | 58 | In-Office | — | 2026-06-05 |
 | [People Team Intern - HR Operations & AI Innovation (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240) | 58 | In-Office | — | 2026-05-20 |
@@ -2846,6 +2846,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Skillbridge Intern - Product Manager](https://job-boards.greenhouse.io/rise8/jobs/4359627007) | 58 | Remote in USA | Product | 2026-07-04 |
 | [Software Engineer Intern - Software Engineer](https://job-boards.greenhouse.io/rise8/jobs/4359623007) | 93 | Remote in USA | Software | 2026-07-04 |
 
 ## Rivian
@@ -3554,7 +3555,7 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Business Analytics Intern - 6 Month Internship Opportunity](https://www.tower-research.com/open-positions/?gh_jid=8041512) | 50 | Amsterdam | — | 2026-07-03 |
-| [Intern](https://www.tower-research.com/open-positions/?gh_jid=7988899) | 50 | Gift City | — | 2026-06-12 |
+| [Intern](https://www.tower-research.com/open-positions/?gh_jid=7988896) | 50 | Gift City | — | 2026-06-12 |
 | [Risk Intern - 6 Month Internship Opportunity](https://www.tower-research.com/open-positions/?gh_jid=7789933) | 50 | Singapore | — | 2026-05-06 |
 
 ## Toyota Research Institute
@@ -3822,11 +3823,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Maps Intern](https://www.zipline.com/open-roles?gh_jid=7787868003) | 60 | San Bruno, CA | AI/ML/Data | 2026-06-28 |
 | [Hardware Test Intern](https://www.zipline.com/careers?gh_jid=7747248003#open-roles) | 50 | San Bruno, CA | Hardware | 2026-06-12 |
 | [Computational Physics Intern](https://www.zipline.com/careers?gh_jid=7766408003#open-roles) | 60 | San Bruno, CA | AI/ML/Data | 2026-06-08 |
-| [Embedded Software Engineer Intern](https://www.zipline.com/careers?gh_jid=7765240003#open-roles) | 85 | San Bruno, CA | Hardware | 2026-06-06 |
-| [Perception Intern](https://www.zipline.com/careers?gh_jid=7761650003#open-roles) | 60 | Dallas, TX / San Bruno, CA | AI/ML/Data | 2026-06-03 |
 
 ## Zoox
 
