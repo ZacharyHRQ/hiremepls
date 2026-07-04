@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-04T21:39:45.905Z",
+  "generatedAt": "2026-07-04T22:37:11.438Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1084,
+  "jobCount": 1081,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -686,7 +686,6 @@
     "canonical:3cfa8d538fe65c66": "2026-06-09T23:41:04.347Z",
     "canonical:0942563fedd29433": "2026-06-09T23:41:04.347Z",
     "canonical:c4899e61c3f2d9c6": "2026-06-09T23:41:04.347Z",
-    "canonical:f8bfe29c74a5df11": "2026-06-10T01:51:46.612Z",
     "canonical:2328135cb74123e7": "2026-06-10T01:51:46.612Z",
     "canonical:68e56daf264ad19e": "2026-06-10T10:32:54.759Z",
     "canonical:96cbded783b7d471": "2026-06-10T10:32:54.759Z",
@@ -941,7 +940,6 @@
     "canonical:b5a9c122a9cd630e": "2026-07-01T06:55:26.212Z",
     "canonical:957953dd04839b8d": "2026-07-01T06:55:26.212Z",
     "canonical:d49aaa9aae874182": "2026-07-01T06:55:26.212Z",
-    "canonical:53f0055b2b82daf8": "2026-07-01T06:55:26.212Z",
     "canonical:1c5596e89463019b": "2026-07-01T06:55:26.212Z",
     "canonical:da43e95b373e89ac": "2026-07-01T06:55:26.212Z",
     "canonical:06a5a711379628ba": "2026-07-01T06:55:26.212Z",
@@ -1067,7 +1065,6 @@
     "canonical:f27c30f5eef5d1fb": "2026-07-04T11:17:02.191Z",
     "canonical:aa43ee77d75cfa12": "2026-07-04T11:17:02.191Z",
     "canonical:62be2f7552517660": "2026-07-04T11:17:02.191Z",
-    "canonical:7cd65dbc34efa0fa": "2026-07-04T11:17:02.191Z",
     "canonical:6a54db97364bf00a": "2026-07-04T12:39:15.733Z",
     "canonical:71f4c1680b019759": "2026-07-04T12:39:15.733Z",
     "canonical:ed9a44e022b031bf": "2026-07-04T12:39:15.733Z",
@@ -1495,7 +1492,7 @@
     {
       "id": "canonical:90de0872641ecba5",
       "title": "Intern",
-      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988896",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988899",
       "location": "Gift City",
       "department": "",
       "company": "Tower Research Capital",
@@ -2294,7 +2291,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -9341,19 +9338,6 @@
       ]
     },
     {
-      "id": "canonical:f8bfe29c74a5df11",
-      "title": "Enterprise Systems Software Engineer Intern",
-      "url": "https://www.zipline.com/careers?gh_jid=7767667003#open-roles",
-      "location": "San Bruno, CA",
-      "department": "Software",
-      "company": "Zipline",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:2328135cb74123e7",
       "title": "Developer Intern - Trust Platforms",
       "url": "https://jobs.ashbyhq.com/1password/8f8774dc-e400-48b1-8100-c6840b8eaed1/application",
@@ -11679,19 +11663,6 @@
       ]
     },
     {
-      "id": "canonical:53f0055b2b82daf8",
-      "title": "Software Engineer Intern",
-      "url": "https://www.zipline.com/open-roles?gh_jid=7787509003",
-      "location": "San Bruno, CA",
-      "department": "Software",
-      "company": "Zipline",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:1c5596e89463019b",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/AfterQuery/83ca470d-b1f7-41d6-935f-c1f2b8243e4b/application",
@@ -12498,18 +12469,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:7cd65dbc34efa0fa",
-      "title": "Skillbridge Intern - Product Manager",
-      "url": "https://job-boards.greenhouse.io/rise8/jobs/4359627007",
-      "location": "Remote in USA",
-      "department": "Product",
-      "company": "Rise8",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
       ]
     },
     {
