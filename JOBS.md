@@ -1,6 +1,6 @@
 # Open Internships
 
-**1076** internships across **68/68** companies — last updated 2026-07-05.
+**1073** internships across **68/68** companies — last updated 2026-07-05.
 
 ## Companies
 
@@ -359,11 +359,10 @@
 - [Sandisk](#sandisk) (1)
 - [Saronic](#saronic) (2)
 - [Savannah River National Laboratory](#savannah-river-national-laboratory) (1)
-- [Scale AI](#scale-ai) (5)
+- [Scale AI](#scale-ai) (4)
 - [Schonfeld](#schonfeld) (3)
 - [Seaspan](#seaspan) (2)
-- [Sentra](#sentra) (1)
-- [Seven Research](#seven-research) (4)
+- [Seven Research](#seven-research) (3)
 - [Sezzle](#sezzle) (1)
 - [SHEIN](#shein) (2)
 - [Shenzhen ANQI SHISHANG Articles Co., ltd.](#shenzhen-anqi-shishang-articles-co-ltd) (1)
@@ -1150,7 +1149,7 @@
 | [Technical Support Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8041135?gh_jid=8041135) | 58 | In-Office | — | 2026-07-03 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
 | [Sales Project Manager Intern (AI Innovation) (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8020830?gh_jid=8020830) | 38 | In-Office | — | 2026-06-23 |
 | [Legal Intern – Commercial Legal (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7983674?gh_jid=7983674) | 58 | In-Office | — | 2026-06-05 |
 | [People Team Intern - HR Operations & AI Innovation (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240) | 58 | In-Office | — | 2026-05-20 |
@@ -2969,7 +2968,6 @@
 | --- | --- | --- | --- | --- |
 | [AI Builder Intern](https://job-boards.greenhouse.io/scaleai/jobs/4703343005) | 68 | SF / NYC | Software | 2026-06-06 |
 | [AI Builder Intern](https://job-boards.greenhouse.io/scaleai/jobs/4703343005) | 58 | San Francisco, CA; New York, NY | — | 2026-06-06 |
-| [Technical Advisor Specialist – Part-Time Intern](https://job-boards.greenhouse.io/scaleai/jobs/4611533005) | 68 | SF | AI/ML/Data | 2026-05-21 |
 | [Technical Advisor Intern, GenAI](https://scale.com/careers/4611533005) | 50 | San Francisco, CA | — | 2026-05-09 |
 | [Technical Advisor Specialist (Part-Time Internship)](https://job-boards.greenhouse.io/scaleai/jobs/4611533005) | 58 | San Francisco, CA | — | 2026-05-06 |
 
@@ -2988,18 +2986,11 @@
 | [Energy Management Intern](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8356) | 60 | Vancouver, BC, Canada | AI/ML/Data | 2026-06-10 |
 | [Digital Ship Intern](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8754) | 60 | Vancouver, BC, Canada | Software | 2026-06-08 |
 
-## Sentra
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Engineer Intern](https://jobs.ashbyhq.com/sentra/6974a286-676f-424b-b114-09fbe9ab23e8/application) | 93 | Toronto, ON, Canada / SF | Software | 2026-07-03 |
-
 ## Seven Research
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Algorithmic Developer Intern](https://job-boards.greenhouse.io/sevenresearch/jobs/4895082008) | 93 | NYC | Quant | 2026-07-01 |
-| [Core Developer Intern](https://job-boards.greenhouse.io/sevenresearch/jobs/4895047008) | 93 | NYC | Software | 2026-07-01 |
 | [Deep Learning Researcher Intern](https://job-boards.greenhouse.io/sevenresearch/jobs/4895007008) | 93 | NYC | AI/ML/Data | 2026-07-01 |
 | [Quantitative Researcher Intern](https://job-boards.greenhouse.io/sevenresearch/jobs/4894946008) | 93 | NYC | Quant | 2026-07-01 |
 
@@ -3552,7 +3543,7 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Business Analytics Intern - 6 Month Internship Opportunity](https://www.tower-research.com/open-positions/?gh_jid=8041512) | 50 | Amsterdam | — | 2026-07-03 |
-| [Intern](https://www.tower-research.com/open-positions/?gh_jid=7988896) | 50 | Gift City | — | 2026-06-12 |
+| [Intern](https://www.tower-research.com/open-positions/?gh_jid=7988899) | 50 | Gift City | — | 2026-06-12 |
 | [Risk Intern - 6 Month Internship Opportunity](https://www.tower-research.com/open-positions/?gh_jid=7789933) | 50 | Singapore | — | 2026-05-06 |
 
 ## Toyota Research Institute

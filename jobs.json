@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-05T16:40:58.189Z",
+  "generatedAt": "2026-07-05T17:43:15.269Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1076,
+  "jobCount": 1073,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -488,7 +488,6 @@
     "canonical:4be1285af1d6fead": "2026-05-20T15:54:33.666Z",
     "canonical:d35985b2727191b1": "2026-05-21T05:52:27.471Z",
     "canonical:f012e13fdaf4adcb": "2026-05-21T05:52:27.471Z",
-    "canonical:fe4b4d1939d422db": "2026-05-21T05:52:27.471Z",
     "canonical:57b0c9722c64bac8": "2026-05-21T15:49:52.856Z",
     "canonical:c2e243ddc795c511": "2026-05-21T22:46:51.402Z",
     "canonical:111a01429045d626": "2026-05-21T23:51:28.973Z",
@@ -963,7 +962,6 @@
     "canonical:55972a1153711241": "2026-07-01T18:14:22.942Z",
     "canonical:92939b33efdb99ec": "2026-07-01T18:14:22.942Z",
     "canonical:61ab3c787dcf7103": "2026-07-01T18:14:22.942Z",
-    "canonical:c685309cdcec6f5d": "2026-07-01T23:02:00.772Z",
     "canonical:7dcf39fc748301e8": "2026-07-01T23:02:00.772Z",
     "canonical:8832b80e79a94a12": "2026-07-01T23:02:00.772Z",
     "canonical:f70b33853919b982": "2026-07-01T23:02:00.772Z",
@@ -1044,7 +1042,6 @@
     "canonical:2e3063b0200f566c": "2026-07-03T12:23:04.459Z",
     "canonical:31dd1ab15c427f1e": "2026-07-03T14:37:19.255Z",
     "canonical:1af904be74b273c4": "2026-07-03T16:11:18.836Z",
-    "canonical:5796df1d1650dba3": "2026-07-03T22:40:03.965Z",
     "canonical:3c8e9114d6b53972": "2026-07-03T23:40:49.562Z",
     "canonical:2e677a89e89c9f6b": "2026-07-04T01:14:24.808Z",
     "canonical:e6ef25e90c9890c5": "2026-07-04T09:50:25.841Z",
@@ -1487,7 +1484,7 @@
     {
       "id": "canonical:90de0872641ecba5",
       "title": "Intern",
-      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988896",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988899",
       "location": "Gift City",
       "department": "",
       "company": "Tower Research Capital",
@@ -2286,7 +2283,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -6197,20 +6194,6 @@
       ]
     },
     {
-      "id": "canonical:c685309cdcec6f5d",
-      "title": "Core Developer Intern",
-      "url": "https://job-boards.greenhouse.io/sevenresearch/jobs/4895047008",
-      "location": "NYC",
-      "department": "Software",
-      "company": "Seven Research",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:db017660ddf68d47",
       "title": "Reliability Test Intern",
       "url": "https://job-boards.greenhouse.io/astranis/jobs/4677973006",
@@ -7099,19 +7082,6 @@
       "location": "Palo Alto, CA",
       "department": "AI/ML/Data",
       "company": "BrightAI",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:fe4b4d1939d422db",
-      "title": "Technical Advisor Specialist – Part-Time Intern",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4611533005",
-      "location": "SF",
-      "department": "AI/ML/Data",
-      "company": "Scale AI",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -12490,20 +12460,6 @@
         "high-signal role",
         "direct ATS",
         "lower-fit title"
-      ]
-    },
-    {
-      "id": "canonical:5796df1d1650dba3",
-      "title": "Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/sentra/6974a286-676f-424b-b114-09fbe9ab23e8/application",
-      "location": "Toronto, ON, Canada / SF",
-      "department": "Software",
-      "company": "Sentra",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
