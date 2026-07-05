@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-05T20:58:18.363Z",
+  "generatedAt": "2026-07-05T22:00:07.080Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1073,
+  "jobCount": 1076,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1076,7 +1076,10 @@
     "canonical:a54dfaa9c2670ee3": "2026-07-05T12:02:21.039Z",
     "canonical:ec23121dc644d031": "2026-07-05T12:02:21.039Z",
     "canonical:c685309cdcec6f5d": "2026-07-05T18:44:25.098Z",
-    "canonical:3b8117eba75f34e9": "2026-07-05T18:44:25.098Z"
+    "canonical:3b8117eba75f34e9": "2026-07-05T18:44:25.098Z",
+    "canonical:a4e28a09fb4c428d": "2026-07-05T22:00:07.080Z",
+    "canonical:a7c823cebc3a3c4e": "2026-07-05T22:00:07.080Z",
+    "canonical:b3f1d6401f210b9e": "2026-07-05T22:00:07.080Z"
   },
   "jobs": [
     {
@@ -1484,12 +1487,49 @@
     {
       "id": "canonical:90de0872641ecba5",
       "title": "Intern",
-      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988896",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988899",
       "location": "Gift City",
       "department": "",
       "company": "Tower Research Capital",
       "score": 50,
       "scoreReasons": []
+    },
+    {
+      "id": "canonical:a4e28a09fb4c428d",
+      "title": "Quantitative Developer Intern - Summer 2027",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=8044334",
+      "location": "New York, Chicago",
+      "department": "",
+      "company": "Tower Research Capital",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:a7c823cebc3a3c4e",
+      "title": "Quantitative Trader Intern, PhD",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=8024138",
+      "location": "New York",
+      "department": "",
+      "company": "Tower Research Capital",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:b3f1d6401f210b9e",
+      "title": "Quantitative Trader Intern - Summer 2027",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=8024128",
+      "location": "New York, Chicago",
+      "department": "",
+      "company": "Tower Research Capital",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
     },
     {
       "id": "canonical:606b9a04a54eff14",

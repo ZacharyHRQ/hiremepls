@@ -1,6 +1,6 @@
 # Open Internships
 
-**1073** internships across **68/68** companies — last updated 2026-07-05.
+**1076** internships across **68/68** companies — last updated 2026-07-05.
 
 ## Companies
 
@@ -418,7 +418,7 @@
 - [Together AI](#together-ai) (4)
 - [Topel Forman LLC](#topel-forman-llc) (1)
 - [Torc Robotics](#torc-robotics) (1)
-- [Tower Research Capital](#tower-research-capital) (3)
+- [Tower Research Capital](#tower-research-capital) (6)
 - [Toyota Research Institute](#toyota-research-institute) (3)
 - [Traackr](#traackr) (1)
 - [Tradeweb](#tradeweb) (1)
@@ -3543,8 +3543,11 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Quantitative Developer Intern - Summer 2027](https://www.tower-research.com/open-positions/?gh_jid=8044334) | 85 | New York, Chicago | — | 2026-07-05 |
+| [Quantitative Trader Intern - Summer 2027](https://www.tower-research.com/open-positions/?gh_jid=8024128) | 60 | New York, Chicago | — | 2026-07-05 |
+| [Quantitative Trader Intern, PhD](https://www.tower-research.com/open-positions/?gh_jid=8024138) | 60 | New York | — | 2026-07-05 |
 | [Business Analytics Intern - 6 Month Internship Opportunity](https://www.tower-research.com/open-positions/?gh_jid=8041512) | 50 | Amsterdam | — | 2026-07-03 |
-| [Intern](https://www.tower-research.com/open-positions/?gh_jid=7988896) | 50 | Gift City | — | 2026-06-12 |
+| [Intern](https://www.tower-research.com/open-positions/?gh_jid=7988899) | 50 | Gift City | — | 2026-06-12 |
 | [Risk Intern - 6 Month Internship Opportunity](https://www.tower-research.com/open-positions/?gh_jid=7789933) | 50 | Singapore | — | 2026-05-06 |
 
 ## Toyota Research Institute
