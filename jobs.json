@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-05T05:28:16.749Z",
+  "generatedAt": "2026-07-05T08:24:32.612Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1078,
+  "jobCount": 1077,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1048,7 +1048,6 @@
     "canonical:31dd1ab15c427f1e": "2026-07-03T14:37:19.255Z",
     "canonical:133608b1bfb1c38e": "2026-07-03T14:37:19.255Z",
     "canonical:1af904be74b273c4": "2026-07-03T16:11:18.836Z",
-    "canonical:3226e36f529aa26b": "2026-07-03T22:40:03.965Z",
     "canonical:5796df1d1650dba3": "2026-07-03T22:40:03.965Z",
     "canonical:3c8e9114d6b53972": "2026-07-03T23:40:49.562Z",
     "canonical:2e677a89e89c9f6b": "2026-07-04T01:14:24.808Z",
@@ -1489,7 +1488,7 @@
     {
       "id": "canonical:90de0872641ecba5",
       "title": "Intern",
-      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988899",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988896",
       "location": "Gift City",
       "department": "",
       "company": "Tower Research Capital",
@@ -2288,7 +2287,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -12506,19 +12505,6 @@
         "high-signal role",
         "direct ATS",
         "lower-fit title"
-      ]
-    },
-    {
-      "id": "canonical:3226e36f529aa26b",
-      "title": "Print & Post Intern / Co-op - P&P",
-      "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Print---Post--P-P--Operations---Data-Analyst-Intern---Co-op_JR26060039",
-      "location": "Toronto, ON, Canada / Kitchener, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Manulife Financial",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
