@@ -110,7 +110,6 @@
 - [Context](#context) (1)
 - [Continental](#continental) (1)
 - [Copart](#copart) (5)
-- [CoStar Group](#costar-group) (1)
 - [Cotiviti](#cotiviti) (3)
 - [Creatify Lab ](#creatify-lab) (1)
 - [Cresta](#cresta) (2)
@@ -418,7 +417,7 @@
 - [Together AI](#together-ai) (4)
 - [Topel Forman LLC](#topel-forman-llc) (1)
 - [Torc Robotics](#torc-robotics) (1)
-- [Tower Research Capital](#tower-research-capital) (6)
+- [Tower Research Capital](#tower-research-capital) (7)
 - [Toyota Research Institute](#toyota-research-institute) (3)
 - [Traackr](#traackr) (1)
 - [Tradeweb](#tradeweb) (1)
@@ -1232,12 +1231,6 @@
 | [Software Engineering Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR106129) | 68 | Dallas, TX | Software | 2026-07-01 |
 | [Technology Product Analyst Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107890) | 58 | Dallas, TX | Product | 2026-06-24 |
 | [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393) | 93 | Dallas, TX | Software | 2026-06-13 |
-
-## CoStar Group
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [ML Technology Intern, Graduate Students](https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-VA-Arlington/ML-Technology-Intern--Graduate-Students_R37735) | 74 | Arlington, VA | Data Science, AI & Machine Learning | 2026-05-09 |
 
 ## Cotiviti
 
@@ -3543,6 +3536,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Quantitative Trader Intern](https://www.tower-research.com/open-positions/?gh_jid=8024138) | 60 | NYC | Quant | 2026-07-05 |
 | [Quantitative Developer Intern - Summer 2027](https://www.tower-research.com/open-positions/?gh_jid=8044334) | 85 | New York, Chicago | — | 2026-07-05 |
 | [Quantitative Trader Intern - Summer 2027](https://www.tower-research.com/open-positions/?gh_jid=8024128) | 60 | New York, Chicago | — | 2026-07-05 |
 | [Quantitative Trader Intern, PhD](https://www.tower-research.com/open-positions/?gh_jid=8024138) | 60 | New York | — | 2026-07-05 |

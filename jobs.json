@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T22:00:07.080Z",
+  "generatedAt": "2026-07-05T23:04:21.429Z",
   "companyCount": 68,
   "okCount": 68,
   "jobCount": 1076,
@@ -53,7 +53,6 @@
     "canonical:b0682e13963fcdcc": "2026-05-09T15:28:15.527Z",
     "canonical:8fc863f495e5ebf7": "2026-05-09T15:28:15.527Z",
     "canonical:40b5e3e02c34b6ce": "2026-05-09T15:28:15.527Z",
-    "canonical:e03cd0b23bd47f96": "2026-05-09T15:28:15.527Z",
     "canonical:b9fbdfedd0cad7a8": "2026-05-09T15:28:15.527Z",
     "canonical:ed17cf293a02b31e": "2026-05-09T15:28:15.527Z",
     "canonical:c0824cd5653cc9ca": "2026-05-09T15:28:15.527Z",
@@ -1079,7 +1078,8 @@
     "canonical:3b8117eba75f34e9": "2026-07-05T18:44:25.098Z",
     "canonical:a4e28a09fb4c428d": "2026-07-05T22:00:07.080Z",
     "canonical:a7c823cebc3a3c4e": "2026-07-05T22:00:07.080Z",
-    "canonical:b3f1d6401f210b9e": "2026-07-05T22:00:07.080Z"
+    "canonical:b3f1d6401f210b9e": "2026-07-05T22:00:07.080Z",
+    "canonical:e5fe9ebabda6e9b1": "2026-07-05T23:04:21.429Z"
   },
   "jobs": [
     {
@@ -2490,20 +2490,6 @@
       "company": "Cribl",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:e03cd0b23bd47f96",
-      "title": "ML Technology Intern, Graduate Students",
-      "url": "https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-VA-Arlington/ML-Technology-Intern--Graduate-Students_R37735",
-      "location": "Arlington, VA",
-      "department": "Data Science, AI & Machine Learning",
-      "company": "CoStar Group",
-      "score": 74,
-      "scoreReasons": [
-        "high-signal role",
-        "new grad",
-        "direct ATS"
-      ]
     },
     {
       "id": "canonical:b9fbdfedd0cad7a8",
@@ -12621,6 +12607,18 @@
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:e5fe9ebabda6e9b1",
+      "title": "Quantitative Trader Intern",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=8024138",
+      "location": "NYC",
+      "department": "Quant",
+      "company": "Tower Research Capital",
+      "score": 60,
+      "scoreReasons": [
         "high-signal role"
       ]
     },
