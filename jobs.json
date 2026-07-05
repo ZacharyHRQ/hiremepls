@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T19:58:21.763Z",
+  "generatedAt": "2026-07-05T20:58:18.363Z",
   "companyCount": 68,
   "okCount": 68,
   "jobCount": 1073,
@@ -2450,19 +2450,6 @@
       "company": "Cribl",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:0a2b62285b02a051",
-      "title": "Machine Learning Engineer Intern - Monetization Technology",
-      "url": "https://lifeattiktok.com/search/7562342433721862405",
-      "location": "San Jose, CA",
-      "department": "AI/ML/Data",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
     },
     {
       "id": "canonical:e03cd0b23bd47f96",
@@ -12582,6 +12569,19 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:0a2b62285b02a051",
+      "title": "Machine Learning Engineer Intern - Monetization Technology",
+      "url": "https://lifeattiktok.com/search/7562342433721862405",
+      "location": "San Jose, CA",
+      "department": "AI/ML/Data",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
