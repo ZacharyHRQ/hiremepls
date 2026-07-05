@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-05T01:23:09.295Z",
+  "generatedAt": "2026-07-05T05:28:16.749Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1079,
+  "jobCount": 1078,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -801,7 +801,6 @@
     "canonical:2a600b101ee31a5b": "2026-06-17T06:49:09.742Z",
     "canonical:411bdab6bb2d495d": "2026-06-17T11:27:12.169Z",
     "canonical:80ea03d7469b02b7": "2026-06-17T14:35:40.368Z",
-    "canonical:1cb970dd90b802db": "2026-06-17T17:36:29.585Z",
     "canonical:c32262e36ae9b8e5": "2026-06-17T17:36:29.585Z",
     "canonical:0d5a980cf3c25a32": "2026-06-17T17:36:29.585Z",
     "canonical:83bb1cea723f1a8d": "2026-06-17T17:36:29.585Z",
@@ -1490,7 +1489,7 @@
     {
       "id": "canonical:90de0872641ecba5",
       "title": "Intern",
-      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988896",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988899",
       "location": "Gift City",
       "department": "",
       "company": "Tower Research Capital",
@@ -2289,7 +2288,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -9636,19 +9635,6 @@
       "company": "Zipline",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:1cb970dd90b802db",
-      "title": "Research and Development Intern - Research & Development: AI/ML",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--AI-ML_JR-202612795",
-      "location": "Mountain View, CA / Warren, MI",
-      "department": "AI/ML/Data",
-      "company": "General Motors",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
     },
     {
       "id": "canonical:0df76adfa71f50bc",
