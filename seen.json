@@ -45,8 +45,8 @@
   ],
   "Tower Research Capital": [
     "8041512",
-    "7988899",
     "7988896",
+    "7988899",
     "7789933"
   ],
   "Point72": [
@@ -141,8 +141,8 @@
     "7799138",
     "7983674",
     "7917883",
-    "8013562",
     "8031027",
+    "8013562",
     "7606240",
     "7796077",
     "8020830",
@@ -735,7 +735,6 @@
     "simplify:52919742-2339-4055-82e8-694863cdb915",
     "simplify:60991e37-67ca-469f-8e49-c284d1974106",
     "simplify:c1b14eaf-e140-4275-b7b5-dee377f8421d",
-    "simplify:83eafbc5-8c79-43e8-8d3d-b06bff9f0c93",
     "simplify:86bafca9-f202-4817-8184-32aabc6ac975",
     "simplify:4d64e4f3-5f35-4574-8196-f5dedf4d3b4c",
     "simplify:bae76804-1a22-4d43-ac03-fccd623fdcfc",
@@ -773,7 +772,6 @@
     "simplify:cae7ba56-b661-44a0-ad83-07cbc36b4ca4",
     "simplify:438a49bd-1732-4815-b2b2-e048f205949f",
     "simplify:4e1c3c96-80a3-44d4-85ff-7da897beb1f5",
-    "simplify:b47e22be-63c8-4907-bae9-8d159b87afa9",
     "simplify:2b7fae57-a8e0-402c-8cd6-83e7aaffd1a5",
     "simplify:e899751e-0313-4b38-844c-137b5cba368a",
     "simplify:58f15152-4d52-4c28-8a28-b8ec717ba3b0",
@@ -1020,7 +1018,9 @@
     "simplify:f55b9a62-891c-491e-b541-edf1e930d143",
     "simplify:d423afb4-e4be-41f7-923e-d55ed5e3bddb",
     "simplify:5dd5bac7-36ff-4f7d-9bff-a16346ccfa89",
-    "simplify:457f1bf0-10ec-41b5-ab16-bc702e1a0fb4"
+    "simplify:457f1bf0-10ec-41b5-ab16-bc702e1a0fb4",
+    "simplify:7a8438ae-a2dd-48c5-a03d-6181f1b815ed",
+    "simplify:e6eb833f-8ff9-4da8-98de-2001135f3e0b"
   ],
   "vanshb03": [
     "vansh:df70fa57-977b-4f31-832e-a0e57ed070b5",

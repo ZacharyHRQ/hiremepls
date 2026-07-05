@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T17:43:15.269Z",
+  "generatedAt": "2026-07-05T18:44:25.098Z",
   "companyCount": 68,
   "okCount": 68,
   "jobCount": 1073,
@@ -672,7 +672,6 @@
     "canonical:5954b7a93f23c25a": "2026-06-08T07:01:35.019Z",
     "canonical:031e3abdc8ee9ccc": "2026-06-08T12:06:41.807Z",
     "canonical:80d8b55bc00c3b4c": "2026-06-08T23:57:00.045Z",
-    "canonical:a0c3232bb05edac6": "2026-06-08T23:57:00.045Z",
     "canonical:3f94a7964c2e6f0f": "2026-06-08T23:57:00.045Z",
     "canonical:97a6914dba9e6da7": "2026-06-08T23:57:00.045Z",
     "canonical:a9fec30c036e9862": "2026-06-09T10:23:15.549Z",
@@ -714,7 +713,6 @@
     "canonical:d621e53b1b2df411": "2026-06-11T18:04:03.516Z",
     "canonical:c11bff2ca221b70c": "2026-06-11T23:59:08.775Z",
     "canonical:90de0872641ecba5": "2026-06-12T12:01:29.803Z",
-    "canonical:bbfacc40dc55a0ce": "2026-06-12T12:01:29.803Z",
     "canonical:07482cde11fc2d9b": "2026-06-12T15:35:58.050Z",
     "canonical:e5b8024c19031c98": "2026-06-13T00:12:58.112Z",
     "canonical:ecf76b0599cdcaca": "2026-06-13T00:12:58.112Z",
@@ -1076,7 +1074,9 @@
     "canonical:31111bb0d3294005": "2026-07-05T10:34:22.443Z",
     "canonical:133608b1bfb1c38e": "2026-07-05T12:02:21.039Z",
     "canonical:a54dfaa9c2670ee3": "2026-07-05T12:02:21.039Z",
-    "canonical:ec23121dc644d031": "2026-07-05T12:02:21.039Z"
+    "canonical:ec23121dc644d031": "2026-07-05T12:02:21.039Z",
+    "canonical:c685309cdcec6f5d": "2026-07-05T18:44:25.098Z",
+    "canonical:3b8117eba75f34e9": "2026-07-05T18:44:25.098Z"
   },
   "jobs": [
     {
@@ -1484,7 +1484,7 @@
     {
       "id": "canonical:90de0872641ecba5",
       "title": "Intern",
-      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988899",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988896",
       "location": "Gift City",
       "department": "",
       "company": "Tower Research Capital",
@@ -2283,7 +2283,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -9112,18 +9112,6 @@
       ]
     },
     {
-      "id": "canonical:a0c3232bb05edac6",
-      "title": "Computational Physics Intern",
-      "url": "https://www.zipline.com/careers?gh_jid=7766408003#open-roles",
-      "location": "San Bruno, CA",
-      "department": "AI/ML/Data",
-      "company": "Zipline",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:3f94a7964c2e6f0f",
       "title": "Product Development Intern",
       "url": "https://job-boards.greenhouse.io/fourhands/jobs/4272048009",
@@ -9593,16 +9581,6 @@
         "high-signal role",
         "direct ATS"
       ]
-    },
-    {
-      "id": "canonical:bbfacc40dc55a0ce",
-      "title": "Hardware Test Intern",
-      "url": "https://www.zipline.com/careers?gh_jid=7747248003#open-roles",
-      "location": "San Bruno, CA",
-      "department": "Hardware",
-      "company": "Zipline",
-      "score": 50,
-      "scoreReasons": []
     },
     {
       "id": "canonical:c5c8d41f5222405f",
@@ -12575,6 +12553,33 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c685309cdcec6f5d",
+      "title": "Core Developer Intern",
+      "url": "https://job-boards.greenhouse.io/sevenresearch/jobs/4895047008",
+      "location": "NYC",
+      "department": "Software",
+      "company": "Seven Research",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:3b8117eba75f34e9",
+      "title": "Data Science PhD Intern",
+      "url": "https://job-boards.greenhouse.io/docugami/jobs/4192122003",
+      "location": "Kirkland, WA",
+      "department": "AI/ML/Data",
+      "company": "Docugami",
+      "score": 68,
+      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]

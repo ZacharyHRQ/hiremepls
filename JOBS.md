@@ -131,7 +131,7 @@
 - [Digs](#digs) (1)
 - [DimeHealth AI](#dimehealth-ai) (1)
 - [Doctors Without Borders](#doctors-without-borders) (1)
-- [Docugami](#docugami) (1)
+- [Docugami](#docugami) (2)
 - [Droyd Robotics](#droyd-robotics) (2)
 - [Dryft](#dryft) (1)
 - [Duke University](#duke-university) (1)
@@ -362,7 +362,7 @@
 - [Scale AI](#scale-ai) (4)
 - [Schonfeld](#schonfeld) (3)
 - [Seaspan](#seaspan) (2)
-- [Seven Research](#seven-research) (3)
+- [Seven Research](#seven-research) (4)
 - [Sezzle](#sezzle) (1)
 - [SHEIN](#shein) (2)
 - [Shenzhen ANQI SHISHANG Articles Co., ltd.](#shenzhen-anqi-shishang-articles-co-ltd) (1)
@@ -459,7 +459,6 @@
 - [X Development](#x-development) (1)
 - [XPENG Motors](#xpeng-motors) (2)
 - [Zip](#zip) (1)
-- [Zipline](#zipline) (2)
 - [Zoox](#zoox) (1)
 
 ## 1Password
@@ -1149,7 +1148,7 @@
 | [Technical Support Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8041135?gh_jid=8041135) | 58 | In-Office | — | 2026-07-03 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
 | [Sales Project Manager Intern (AI Innovation) (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8020830?gh_jid=8020830) | 38 | In-Office | — | 2026-06-23 |
 | [Legal Intern – Commercial Legal (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7983674?gh_jid=7983674) | 58 | In-Office | — | 2026-06-05 |
 | [People Team Intern - HR Operations & AI Innovation (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240) | 58 | In-Office | — | 2026-05-20 |
@@ -1370,6 +1369,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data Science PhD Intern](https://job-boards.greenhouse.io/docugami/jobs/4192122003) | 68 | Kirkland, WA | AI/ML/Data | 2026-07-05 |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/docugami/jobs/4014838003) | 93 | Kirkland, WA | Software | 2026-05-15 |
 
 ## Droyd Robotics
@@ -2990,6 +2990,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Core Developer Intern](https://job-boards.greenhouse.io/sevenresearch/jobs/4895047008) | 93 | NYC | Software | 2026-07-05 |
 | [Algorithmic Developer Intern](https://job-boards.greenhouse.io/sevenresearch/jobs/4895082008) | 93 | NYC | Quant | 2026-07-01 |
 | [Deep Learning Researcher Intern](https://job-boards.greenhouse.io/sevenresearch/jobs/4895007008) | 93 | NYC | AI/ML/Data | 2026-07-01 |
 | [Quantitative Researcher Intern](https://job-boards.greenhouse.io/sevenresearch/jobs/4894946008) | 93 | NYC | Quant | 2026-07-01 |
@@ -3543,7 +3544,7 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Business Analytics Intern - 6 Month Internship Opportunity](https://www.tower-research.com/open-positions/?gh_jid=8041512) | 50 | Amsterdam | — | 2026-07-03 |
-| [Intern](https://www.tower-research.com/open-positions/?gh_jid=7988899) | 50 | Gift City | — | 2026-06-12 |
+| [Intern](https://www.tower-research.com/open-positions/?gh_jid=7988896) | 50 | Gift City | — | 2026-06-12 |
 | [Risk Intern - 6 Month Internship Opportunity](https://www.tower-research.com/open-positions/?gh_jid=7789933) | 50 | Singapore | — | 2026-05-06 |
 
 ## Toyota Research Institute
@@ -3806,13 +3807,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/zip/caa5ba75-3b38-4d29-88cd-69a90b01fd6f/application) | 93 | Toronto, ON, Canada | Software | 2026-05-09 |
-
-## Zipline
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Hardware Test Intern](https://www.zipline.com/careers?gh_jid=7747248003#open-roles) | 50 | San Bruno, CA | Hardware | 2026-06-12 |
-| [Computational Physics Intern](https://www.zipline.com/careers?gh_jid=7766408003#open-roles) | 60 | San Bruno, CA | AI/ML/Data | 2026-06-08 |
 
 ## Zoox
 
