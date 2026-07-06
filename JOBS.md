@@ -1,6 +1,6 @@
 # Open Internships
 
-**1084** internships across **68/68** companies — last updated 2026-07-06.
+**1083** internships across **68/68** companies — last updated 2026-07-06.
 
 ## Companies
 
@@ -95,7 +95,7 @@
 - [Citadel Securities](#citadel-securities) (10)
 - [Clarity Innovations](#clarity-innovations) (1)
 - [Clera](#clera) (1)
-- [Cloudflare](#cloudflare) (12)
+- [Cloudflare](#cloudflare) (13)
 - [Cloudforce](#cloudforce) (1)
 - [Codeage](#codeage) (1)
 - [Cohere](#cohere) (6)
@@ -209,7 +209,7 @@
 - [Institute of Foundation Models](#institute-of-foundation-models) (3)
 - [Integra FEC](#integra-fec) (3)
 - [Integrity](#integrity) (1)
-- [Intel](#intel) (3)
+- [Intel](#intel) (2)
 - [Intercontinental Exchange, Inc.](#intercontinental-exchange-inc) (1)
 - [Interdigital](#interdigital) (1)
 - [Intermountain Healthcare](#intermountain-healthcare) (1)
@@ -415,7 +415,7 @@
 - [Topel Forman LLC](#topel-forman-llc) (1)
 - [Torc Robotics](#torc-robotics) (1)
 - [Tower Research Capital](#tower-research-capital) (6)
-- [Toyota Research Institute](#toyota-research-institute) (3)
+- [Toyota Research Institute](#toyota-research-institute) (2)
 - [Traackr](#traackr) (1)
 - [Tradeweb](#tradeweb) (1)
 - [TransMarket Group](#transmarket-group) (1)
@@ -1130,6 +1130,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8047201?gh_jid=8047201) | 93 | In-Office | — | 2026-07-06 |
 | [AI Builder Intern - Global Customer Engineering - Service Sales](https://boards.greenhouse.io/cloudflare/jobs/8044395) | 48 | London, UK | Software | 2026-07-06 |
 | [AI Builder Intern – Global Customer Engineering, Service Sales (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395) | 38 | In-Office | — | 2026-07-06 |
 | [Technical Support Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8041135?gh_jid=8041135) | 58 | In-Office | — | 2026-07-03 |
@@ -1913,7 +1914,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Silicon Performance Validation and Characterization Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Silicon-Performance-Validation-and-Characterization-Intern_JR0284310) | 58 | Phoenix, AZ | Hardware | 2026-07-04 |
-| [AI Software Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641) | 93 | Phoenix, AZ | Software | 2026-06-13 |
 | [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) | 68 | Hillsboro, OR / Folsom, CA | Hardware | 2026-05-09 |
 
 ## Intercontinental Exchange, Inc.
@@ -3540,7 +3540,6 @@
 | --- | --- | --- | --- | --- |
 | [Energy & Materials Intern - XRD Advanced Analysis](https://jobs.lever.co/tri/15969a29-b217-482f-8c67-67d091b054c8/apply) | 68 | Mountain View, CA | AI/ML/Data | 2026-06-18 |
 | [Human Interactive Driving Intern - World Models](https://jobs.lever.co/tri/63d61db3-ac43-4c0d-8b9b-5006e3b92149/apply) | 68 | Mountain View, CA | AI/ML/Data | 2026-06-10 |
-| [Human-Centered AI Intern: Human-Computer Interaction](https://jobs.lever.co/tri/000be2f3-b77c-4719-8476-0718c4c49a19/apply) | 68 | Mountain View, CA | AI/ML/Data | 2026-05-09 |
 
 ## Traackr
 

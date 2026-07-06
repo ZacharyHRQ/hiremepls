@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-06T20:19:32.843Z",
+  "generatedAt": "2026-07-06T21:52:11.680Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1084,
+  "jobCount": 1083,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -231,7 +231,6 @@
     "canonical:057efbf85e60e686": "2026-05-09T15:28:15.527Z",
     "canonical:ae37458b8cb9ad0d": "2026-05-09T15:28:15.527Z",
     "canonical:12679842c69ce81c": "2026-05-09T15:28:15.527Z",
-    "canonical:eb662fdd2ae38eb8": "2026-05-09T15:28:15.527Z",
     "canonical:1195698531e1f470": "2026-05-09T15:28:15.527Z",
     "canonical:6fbcace9a38d133f": "2026-05-09T15:28:15.527Z",
     "canonical:ae2cb67483530a53": "2026-05-13T23:40:40.818Z",
@@ -716,7 +715,6 @@
     "canonical:5fad4f58541c53c3": "2026-06-13T15:55:40.354Z",
     "canonical:27fa5d3290d6515b": "2026-06-13T15:55:40.354Z",
     "canonical:60d48ea9b4193a8f": "2026-06-13T17:12:44.534Z",
-    "canonical:2e1957ef2ef86ad4": "2026-06-13T18:42:57.240Z",
     "canonical:43c945396857ea6b": "2026-06-15T05:25:50.614Z",
     "canonical:a356ac432d4a0c77": "2026-06-15T05:25:50.614Z",
     "canonical:c246f55f8c194616": "2026-06-15T05:25:50.614Z",
@@ -1087,7 +1085,8 @@
     "canonical:279186003d098051": "2026-07-06T16:08:02.314Z",
     "canonical:70d6d85016f5db82": "2026-07-06T16:08:02.314Z",
     "canonical:1c0150cb207ca9fe": "2026-07-06T18:19:42.230Z",
-    "canonical:c6603faf4f951b65": "2026-07-06T18:19:42.230Z"
+    "canonical:c6603faf4f951b65": "2026-07-06T18:19:42.230Z",
+    "canonical:7a1d89f9f5257594": "2026-07-06T21:52:11.680Z"
   },
   "jobs": [
     {
@@ -2399,6 +2398,20 @@
       "scoreReasons": [
         "direct ATS",
         "lower-fit title"
+      ]
+    },
+    {
+      "id": "canonical:7a1d89f9f5257594",
+      "title": "Data Engineer Intern (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8047201?gh_jid=8047201",
+      "location": "In-Office",
+      "department": "",
+      "company": "Cloudflare",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -5850,19 +5863,6 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:eb662fdd2ae38eb8",
-      "title": "Human-Centered AI Intern: Human-Computer Interaction",
-      "url": "https://jobs.lever.co/tri/000be2f3-b77c-4719-8476-0718c4c49a19/apply",
-      "location": "Mountain View, CA",
-      "department": "AI/ML/Data",
-      "company": "Toyota Research Institute",
-      "score": 68,
-      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
@@ -9584,20 +9584,6 @@
       "company": "AMAROK Security",
       "score": 58,
       "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:2e1957ef2ef86ad4",
-      "title": "AI Software Engineer Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641",
-      "location": "Phoenix, AZ",
-      "department": "Software",
-      "company": "Intel",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
         "direct ATS"
       ]
     },
