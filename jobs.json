@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T00:15:04.177Z",
+  "generatedAt": "2026-07-06T04:39:34.033Z",
   "companyCount": 68,
   "okCount": 68,
   "jobCount": 1076,
@@ -567,7 +567,6 @@
     "canonical:6cdd1633b8f5ce3a": "2026-06-01T23:55:48.935Z",
     "canonical:13e1acc0b159fe16": "2026-06-01T23:55:48.935Z",
     "canonical:21698b3026c5ea94": "2026-06-03T00:01:07.922Z",
-    "canonical:b390871ecd79ae1f": "2026-06-03T00:01:07.922Z",
     "canonical:591f77d8c25c0856": "2026-06-03T00:01:07.922Z",
     "canonical:a24cbe9d8652e7b2": "2026-06-03T00:01:07.922Z",
     "canonical:2fc67c32963a8970": "2026-06-03T00:01:07.922Z",
@@ -1079,7 +1078,8 @@
     "canonical:a4e28a09fb4c428d": "2026-07-05T22:00:07.080Z",
     "canonical:a7c823cebc3a3c4e": "2026-07-05T22:00:07.080Z",
     "canonical:b3f1d6401f210b9e": "2026-07-05T22:00:07.080Z",
-    "canonical:e5fe9ebabda6e9b1": "2026-07-05T23:04:21.429Z"
+    "canonical:e5fe9ebabda6e9b1": "2026-07-05T23:04:21.429Z",
+    "canonical:bc334a94a24f339e": "2026-07-06T04:39:34.033Z"
   },
   "jobs": [
     {
@@ -1251,10 +1251,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1266,10 +1266,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1487,7 +1487,7 @@
     {
       "id": "canonical:90de0872641ecba5",
       "title": "Intern",
-      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988899",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988896",
       "location": "Gift City",
       "department": "",
       "company": "Tower Research Capital",
@@ -2323,7 +2323,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -7995,16 +7995,6 @@
       ]
     },
     {
-      "id": "canonical:b390871ecd79ae1f",
-      "title": "Silicon Photonics Packaging Co-op/Intern",
-      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36996",
-      "location": "Ottawa, ON, Canada",
-      "department": "Hardware",
-      "company": "Nokia",
-      "score": 50,
-      "scoreReasons": []
-    },
-    {
       "id": "canonical:591f77d8c25c0856",
       "title": "Firmware Engineer Intern",
       "url": "https://jobs.lever.co/fluxergy-2/c592763e-56ba-4d20-b751-3a4574470eec/apply",
@@ -10328,6 +10318,20 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:bc334a94a24f339e",
+      "title": "Process Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7765271003",
+      "location": "LA",
+      "department": "AI/ML/Data",
+      "company": "Freeform",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
