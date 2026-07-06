@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-06T16:08:02.314Z",
+  "generatedAt": "2026-07-06T18:19:42.230Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1089,
+  "jobCount": 1086,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -56,7 +56,6 @@
     "canonical:ed17cf293a02b31e": "2026-05-09T15:28:15.527Z",
     "canonical:c0824cd5653cc9ca": "2026-05-09T15:28:15.527Z",
     "canonical:81aff3048f1fe5a2": "2026-05-09T15:28:15.527Z",
-    "canonical:14ce1d2498f84a47": "2026-05-09T15:28:15.527Z",
     "canonical:fe332cbf1845feb8": "2026-05-09T15:28:15.527Z",
     "canonical:832871e86e614189": "2026-05-09T15:28:15.527Z",
     "canonical:d7a434e4eed2389d": "2026-05-09T15:28:15.527Z",
@@ -244,7 +243,6 @@
     "canonical:11c1b4c81d7b5642": "2026-05-09T15:28:15.527Z",
     "canonical:72a13f956e90ff2e": "2026-05-09T15:28:15.527Z",
     "canonical:76e3246b0d82ab56": "2026-05-09T15:28:15.527Z",
-    "canonical:9d9fe857db5c61ad": "2026-05-09T15:28:15.527Z",
     "canonical:eb1420a214d28c30": "2026-05-09T15:28:15.527Z",
     "canonical:35433652fd2ee4ea": "2026-05-09T15:28:15.527Z",
     "canonical:4ad551198f20a1aa": "2026-05-09T15:28:15.527Z",
@@ -692,7 +690,6 @@
     "canonical:a408343a5d65fbb1": "2026-06-11T01:44:46.869Z",
     "canonical:8bd38293f3b72dd9": "2026-06-11T01:44:46.869Z",
     "canonical:2a27a6706157cb62": "2026-06-11T06:27:21.326Z",
-    "canonical:32665894ab4460ce": "2026-06-11T11:07:45.069Z",
     "canonical:481abe28ff8a5d8b": "2026-06-11T11:07:45.069Z",
     "canonical:30d3864435f150b7": "2026-06-11T11:07:45.069Z",
     "canonical:48afc5e5298e0d91": "2026-06-11T11:07:45.069Z",
@@ -711,7 +708,6 @@
     "canonical:07482cde11fc2d9b": "2026-06-12T15:35:58.050Z",
     "canonical:e5b8024c19031c98": "2026-06-13T00:12:58.112Z",
     "canonical:ecf76b0599cdcaca": "2026-06-13T00:12:58.112Z",
-    "canonical:b9b78ad7bc2e2e9d": "2026-06-13T00:12:58.112Z",
     "canonical:f0b53698422bb7ad": "2026-06-13T04:50:39.260Z",
     "canonical:25c914101f963271": "2026-06-13T10:42:23.951Z",
     "canonical:a09b5a1047bf1b8e": "2026-06-13T10:42:23.951Z",
@@ -889,7 +885,6 @@
     "canonical:3e4bc8ae685df9a3": "2026-07-01T06:55:26.212Z",
     "canonical:0c6a01a05ca81c51": "2026-07-01T06:55:26.212Z",
     "canonical:e71ba7972ee9db45": "2026-07-01T06:55:26.212Z",
-    "canonical:2e748bca164b3a40": "2026-07-01T06:55:26.212Z",
     "canonical:b06c1c658f9e9640": "2026-07-01T06:55:26.212Z",
     "canonical:e74ff208aa9bd56c": "2026-07-01T06:55:26.212Z",
     "canonical:4d3f2d2457092a66": "2026-07-01T06:55:26.212Z",
@@ -1092,7 +1087,9 @@
     "canonical:da87288c0ea9e2ba": "2026-07-06T16:08:02.314Z",
     "canonical:941d02dc047a74b1": "2026-07-06T16:08:02.314Z",
     "canonical:279186003d098051": "2026-07-06T16:08:02.314Z",
-    "canonical:70d6d85016f5db82": "2026-07-06T16:08:02.314Z"
+    "canonical:70d6d85016f5db82": "2026-07-06T16:08:02.314Z",
+    "canonical:1c0150cb207ca9fe": "2026-07-06T18:19:42.230Z",
+    "canonical:c6603faf4f951b65": "2026-07-06T18:19:42.230Z"
   },
   "jobs": [
     {
@@ -1266,6 +1263,21 @@
       ]
     },
     {
+      "id": "canonical:1c0150cb207ca9fe",
+      "title": " Graduate Machine Learning Researcher",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4914883101",
+      "location": "London, United Kingdom",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 99,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:8ea3263defb2b606",
       "title": "Graduate Machine Learning Researcher",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907416101",
@@ -1401,6 +1413,19 @@
       "title": "Hardware Machine Learning PhD Research Internship",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4829785101",
       "location": "Chicago, United States",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c6603faf4f951b65",
+      "title": "Machine Learning Research Intern - Summer 2027",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4912874101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 68,
@@ -2417,7 +2442,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -2619,19 +2644,6 @@
       "company": "BAE Systems",
       "score": 60,
       "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:14ce1d2498f84a47",
-      "title": "Intern – Engineer Operations & Analytics",
-      "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003877",
-      "location": "Omaha, NE",
-      "department": "AI/ML/Data",
-      "company": "Berkshire Hathaway Energy",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -6098,18 +6110,6 @@
       "scoreReasons": []
     },
     {
-      "id": "canonical:32665894ab4460ce",
-      "title": "Software Designer Co-op/Intern",
-      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34982",
-      "location": "Ottawa, ON, Canada",
-      "department": "Software",
-      "company": "Nokia",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:eb1420a214d28c30",
       "title": "IP R&D Lab Technologist Co-op/Intern",
       "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34806",
@@ -6130,19 +6130,6 @@
       "company": "Nokia",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:9d9fe857db5c61ad",
-      "title": "Web Developer Co-op/Intern",
-      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34616",
-      "location": "Ottawa, ON, Canada",
-      "department": "Software",
-      "company": "Nokia",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
     },
     {
       "id": "canonical:4ad551198f20a1aa",
@@ -9708,20 +9695,6 @@
       ]
     },
     {
-      "id": "canonical:b9b78ad7bc2e2e9d",
-      "title": "Full Stack Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/arine/jobs/6026856004",
-      "location": "Remote in USA",
-      "department": "Software",
-      "company": "Arine",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:f0b53698422bb7ad",
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/offerup/jobs/8004171",
@@ -11127,19 +11100,6 @@
       "location": "Cleveland, OH",
       "department": "AI/ML/Data",
       "company": "thyssenkrupp",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:2e748bca164b3a40",
-      "title": "Data Science AI Intern",
-      "url": "https://job-boards.greenhouse.io/pointc/jobs/5236086008",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "Point C",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
