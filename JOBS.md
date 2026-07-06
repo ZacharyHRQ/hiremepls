@@ -1,6 +1,6 @@
 # Open Internships
 
-**1083** internships across **68/68** companies — last updated 2026-07-06.
+**1086** internships across **68/68** companies — last updated 2026-07-06.
 
 ## Companies
 
@@ -23,6 +23,7 @@
 - [Amazon](#amazon) (12)
 - [Ambarella](#ambarella) (2)
 - [Amentum](#amentum) (1)
+- [American Bureau of Shipping](#american-bureau-of-shipping) (1)
 - [American Enterprise Institute](#american-enterprise-institute) (3)
 - [American Heart Association](#american-heart-association) (1)
 - [Anima](#anima) (1)
@@ -89,7 +90,7 @@
 - [Centific](#centific) (1)
 - [Chartwells Higher Education Dining Services](#chartwells-higher-education-dining-services) (1)
 - [Cherry Bekaert](#cherry-bekaert) (2)
-- [Ciena](#ciena) (2)
+- [Ciena](#ciena) (3)
 - [Cirrus Logic](#cirrus-logic) (1)
 - [Citadel](#citadel) (10)
 - [Citadel Securities](#citadel-securities) (10)
@@ -171,7 +172,7 @@
 - [Generac](#generac) (2)
 - [General Astronautics](#general-astronautics) (1)
 - [General Dynamics](#general-dynamics) (1)
-- [General Motors](#general-motors) (1)
+- [General Motors](#general-motors) (2)
 - [GenScript](#genscript) (1)
 - [Gensyn](#gensyn) (1)
 - [Genworth](#genworth) (1)
@@ -407,7 +408,7 @@
 - [The Wonderful Company](#the-wonderful-company) (1)
 - [thyssenkrupp](#thyssenkrupp) (2)
 - [TIFIN](#tifin) (1)
-- [TikTok](#tiktok) (67)
+- [TikTok](#tiktok) (66)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
 - [TMX Group](#tmx-group) (1)
@@ -448,6 +449,7 @@
 - [Wells Fargo](#wells-fargo) (11)
 - [WeRide](#weride) (1)
 - [Westinghouse](#westinghouse) (1)
+- [WindBorne Systems](#windborne-systems) (1)
 - [Workato](#workato) (1)
 - [WSP](#wsp) (1)
 - [WTW](#wtw) (1)
@@ -582,6 +584,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [HLS Intern](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AL-Huntsville/Intern---HLS-Fall-Intern_R0164860) | 68 | Huntsville, AL | Software | 2026-07-02 |
+
+## American Bureau of Shipping
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI Software Engineering Intern](https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4564) | 60 | St. John's, NL, Canada | AI/ML/Data | 2026-07-06 |
 
 ## American Enterprise Institute
 
@@ -1075,6 +1083,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Wavelogic Systems Design Architecture Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/WaveLogic-Systems-Design-Architecture-Intern--8-12-months-_R031286) | 58 | Ottawa, ON, Canada | Hardware | 2026-07-06 |
 | [Optical Modem Hardware Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Fall-2026-Optical-Modem-Hardware-Intern--8-12-months-_R031214) | 58 | Ottawa, ON, Canada | Hardware | 2026-06-17 |
 | [Embedded Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Intern_R031146) | 93 | Ottawa, ON, Canada | Hardware | 2026-06-03 |
 
@@ -1644,6 +1653,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Research and Development Intern - Research & Development](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development_JR-202613027) | 68 | Warren, MI | AI/ML/Data | 2026-07-06 |
 | [2026 Summer Intern - Software Engineer, Machine Learning Validation (PhD)](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Software-Engineer--Machine-Learning-Validation--PhD-_JR-202523181) | 93 | Mountain View, CA / Sunnyvale, CA | Data Science, AI & Machine Learning | 2026-05-09 |
 
 ## GenScript
@@ -3458,7 +3468,6 @@
 | [Software Engineer Project Intern - Video-on-Demand Algorithm - 2026 Start','BS/MS](https://lifeattiktok.com/search/7609019984313452805) | 85 | San Jose, CA | Software | 2026-06-15 |
 | [Software Engineer Project Intern – Lead Ads - 2026 Start - BS/MS](https://lifeattiktok.com/search/7584179082162653445) | 85 | San Jose, CA | Software | 2026-06-15 |
 | [Software Engineer/Mobile Engineer Intern - Monetization Technology - Ads Core Demonstration](https://lifeattiktok.com/search/7532444719809628424) | 85 | San Jose, CA | Software | 2026-06-15 |
-| [AI Agent Project Intern](https://lifeattiktok.com/search/7605996823695116597) | 60 | London, UK | AI/ML/Data | 2026-06-15 |
 | [Data Analyst Intern - TikTok Shop AMS Data Science](https://lifeattiktok.com/search/7532267134924867847) | 60 | Seattle, WA | AI/ML/Data | 2026-06-15 |
 | [Data Analyst Project Intern](https://lifeattiktok.com/search/7616659899507591477) | 60 | London, UK | AI/ML/Data | 2026-06-15 |
 | [Data Science Project Intern - Advertising Team - 2026 Start](https://lifeattiktok.com/search/7605353124442343733) | 60 | San Jose, CA | AI/ML/Data | 2026-06-15 |
@@ -3750,6 +3759,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](https://careers.westinghousenuclear.com/job/Shoreview-Software-Engineering-Intern-Summer-2026-MN-55126/1348239000/) | 60 | Shoreview, MN | Software Engineering | 2026-05-09 |
+
+## WindBorne Systems
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Firmware Intern](https://jobs.ashbyhq.com/windborne-systems/75c5c65c-8179-4ca0-9659-39bf0f8f7b8b/application) | 58 | San Carlos, CA | Hardware | 2026-07-06 |
 
 ## Workato
 

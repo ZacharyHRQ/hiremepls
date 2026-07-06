@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-06T21:52:11.680Z",
+  "generatedAt": "2026-07-06T22:57:31.301Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1083,
+  "jobCount": 1086,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -735,7 +735,6 @@
     "canonical:179d6ab7f8461005": "2026-06-15T11:27:26.940Z",
     "canonical:19300e1217fa0c5e": "2026-06-15T11:27:26.940Z",
     "canonical:a0632e28376b8397": "2026-06-15T11:27:26.940Z",
-    "canonical:e0b27269ac8c200b": "2026-06-15T11:27:26.940Z",
     "canonical:5aca11ebb143d0e2": "2026-06-15T11:27:26.940Z",
     "canonical:6b97deb726a272c9": "2026-06-15T11:27:26.940Z",
     "canonical:b711b2c0fb11507d": "2026-06-15T11:27:26.940Z",
@@ -1086,7 +1085,11 @@
     "canonical:70d6d85016f5db82": "2026-07-06T16:08:02.314Z",
     "canonical:1c0150cb207ca9fe": "2026-07-06T18:19:42.230Z",
     "canonical:c6603faf4f951b65": "2026-07-06T18:19:42.230Z",
-    "canonical:7a1d89f9f5257594": "2026-07-06T21:52:11.680Z"
+    "canonical:7a1d89f9f5257594": "2026-07-06T21:52:11.680Z",
+    "canonical:a12772f2bf1637b3": "2026-07-06T22:57:31.301Z",
+    "canonical:64fbf70d13de7189": "2026-07-06T22:57:31.301Z",
+    "canonical:2fc4577ec2058740": "2026-07-06T22:57:31.301Z",
+    "canonical:cbd7c6993449b995": "2026-07-06T22:57:31.301Z"
   },
   "jobs": [
     {
@@ -4162,18 +4165,6 @@
       "location": "Nashville, TN",
       "department": "AI/ML/Data",
       "company": "Oracle",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:e0b27269ac8c200b",
-      "title": "AI Agent Project Intern",
-      "url": "https://lifeattiktok.com/search/7605996823695116597",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "TikTok",
       "score": 60,
       "scoreReasons": [
         "high-signal role"
@@ -12716,6 +12707,55 @@
         "high-signal role",
         "direct ATS",
         "lower-fit title"
+      ]
+    },
+    {
+      "id": "canonical:a12772f2bf1637b3",
+      "title": "Firmware Intern",
+      "url": "https://jobs.ashbyhq.com/windborne-systems/75c5c65c-8179-4ca0-9659-39bf0f8f7b8b/application",
+      "location": "San Carlos, CA",
+      "department": "Hardware",
+      "company": "WindBorne Systems",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:64fbf70d13de7189",
+      "title": "AI Software Engineering Intern",
+      "url": "https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4564",
+      "location": "St. John's, NL, Canada",
+      "department": "AI/ML/Data",
+      "company": "American Bureau of Shipping",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:2fc4577ec2058740",
+      "title": "Research and Development Intern - Research & Development",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development_JR-202613027",
+      "location": "Warren, MI",
+      "department": "AI/ML/Data",
+      "company": "General Motors",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:cbd7c6993449b995",
+      "title": "Wavelogic Systems Design Architecture Intern",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/WaveLogic-Systems-Design-Architecture-Intern--8-12-months-_R031286",
+      "location": "Ottawa, ON, Canada",
+      "department": "Hardware",
+      "company": "Ciena",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
       ]
     },
     {
