@@ -5,10 +5,18 @@
     "6100081",
     "7757021"
   ],
-  "Jane Street": [],
+  "Jane Street": [
+    "8613910002"
+  ],
   "Hudson River Trading": [],
   "Optiver": [],
   "IMC Trading": [
+    "4860277101",
+    "4917441101",
+    "4917442101",
+    "4917439101",
+    "4917547101",
+    "4917548101",
     "4786701101",
     "4823805101",
     "4907416101",
@@ -82,7 +90,6 @@
   "Man Group": [
     "4682393101",
     "4847708101",
-    "4847714101",
     "4872158101"
   ],
   "PDT Partners": [],
@@ -139,6 +146,7 @@
     "7768470"
   ],
   "Cloudflare": [
+    "8044395",
     "7799138",
     "7983674",
     "7917883",
@@ -147,7 +155,6 @@
     "7606240",
     "7796077",
     "8020830",
-    "7792962",
     "8041135",
     "7577205"
   ],
@@ -364,6 +371,7 @@
     "simplify:a2f342be-ccae-44b7-8563-6589e27bd20c",
     "simplify:685ce683-1a8d-4426-949b-5542c9ae5a5b",
     "simplify:d3558132-2367-473c-930c-63416534e389",
+    "simplify:fe972247-600c-481b-961d-3abad929c277",
     "simplify:0184bfd5-a5c9-4e10-8e6f-c58271bc7dbf",
     "simplify:535343c5-cc36-48c6-8edc-cb3602183366",
     "simplify:e9569c77-dc0a-48e3-a280-aab0544afe8e",
@@ -484,7 +492,6 @@
     "simplify:ccebacf3-3a78-4dc6-8622-681d550955d1",
     "simplify:3dbbea9a-ca63-4fa8-945f-abc2639bae1e",
     "simplify:05b661df-ed46-482b-8ebd-7248a6a234eb",
-    "simplify:cdc18b7e-0c00-430b-9e72-ec96ba943281",
     "simplify:c3656022-c1f5-43d7-9752-dacfb3d6479d",
     "simplify:60ff2402-2f73-4588-8aff-0f7c78e9654d",
     "simplify:f43a9396-7c89-4fa7-bfd1-eca8533895fb",
@@ -978,7 +985,6 @@
     "simplify:5971e10c-96c8-4605-9fe5-6b3de66eb784",
     "simplify:d55da702-839a-42a9-8c4d-a6356630c452",
     "simplify:9720993c-ebdc-41b6-81e1-d589d6ab63ee",
-    "simplify:065e5761-d574-4c20-a590-6fd396d58e47",
     "simplify:28ba42da-8a23-42a0-8f6c-e867d40c6e48",
     "simplify:1274597e-7eae-4cdf-9743-7cc810bd3531",
     "simplify:21764c96-24e4-46f7-b19f-977407981b13",
@@ -1026,7 +1032,9 @@
     "simplify:28286b52-4c99-4d00-a870-d919c13d68c6",
     "simplify:5f7e1e45-9de0-4e8b-a12a-1a068acf36cc",
     "simplify:b977109a-8e8c-4173-a584-460e709a733f",
-    "simplify:f828e5b4-9ccb-4b61-bb2c-d55a088b45f4"
+    "simplify:f828e5b4-9ccb-4b61-bb2c-d55a088b45f4",
+    "simplify:e429452e-d5a5-4ee1-99ce-5248b3ce962d",
+    "simplify:823c7521-30db-4a2c-98a3-b7ec0dd88f1d"
   ],
   "vanshb03": [
     "vansh:df70fa57-977b-4f31-832e-a0e57ed070b5",

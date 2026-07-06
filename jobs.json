@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-06T12:35:42.482Z",
+  "generatedAt": "2026-07-06T16:08:02.314Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1081,
+  "jobCount": 1089,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -47,7 +47,6 @@
     "canonical:047b58e6b7c917a3": "2026-05-15T20:39:51.368Z",
     "canonical:ad23aadfeb5e4fdd": "2026-05-06T06:42:07.596Z",
     "canonical:8cd1b8b92140d848": "2026-05-13T01:22:17.700Z",
-    "canonical:accc7acdf5c4229f": "2026-05-06T06:42:07.596Z",
     "canonical:94acd2d1087ef9dd": "2026-05-06T06:42:07.596Z",
     "canonical:778ae0c54171b31e": "2026-05-06T06:42:07.596Z",
     "canonical:b0682e13963fcdcc": "2026-05-09T15:28:15.527Z",
@@ -932,7 +931,6 @@
     "canonical:417e3f281b3a03a3": "2026-07-01T06:55:26.212Z",
     "canonical:9b2f6d5991a31273": "2026-07-01T06:55:26.212Z",
     "canonical:acc4eb5c29e25657": "2026-07-01T06:55:26.212Z",
-    "canonical:c7d45c381b9830d8": "2026-07-01T10:37:16.482Z",
     "canonical:60fe78b324230eaa": "2026-07-01T10:37:16.482Z",
     "canonical:c5c8d41f5222405f": "2026-07-01T10:37:16.482Z",
     "canonical:db74d5d02de964bf": "2026-07-01T10:37:16.482Z",
@@ -1004,7 +1002,6 @@
     "canonical:4657deb65ec280ac": "2026-07-02T13:33:38.399Z",
     "canonical:ceb153a3975c027c": "2026-07-02T13:33:38.399Z",
     "canonical:917c8771cd813a8d": "2026-07-02T16:25:49.391Z",
-    "canonical:a776bc8ff01b2ab7": "2026-07-02T16:25:49.391Z",
     "canonical:1463c8d45c6981d1": "2026-07-02T16:25:49.391Z",
     "canonical:68677d1a8d76947c": "2026-07-02T19:48:24.227Z",
     "canonical:9a79d93dc014eae2": "2026-07-02T20:53:43.608Z",
@@ -1084,7 +1081,18 @@
     "canonical:aa43ee77d75cfa12": "2026-07-06T12:35:42.482Z",
     "canonical:69ccd154a918e4f8": "2026-07-06T12:35:42.482Z",
     "canonical:e45a102fe53b7d16": "2026-07-06T12:35:42.482Z",
-    "canonical:8a7147b8ff754de9": "2026-07-06T12:35:42.482Z"
+    "canonical:8a7147b8ff754de9": "2026-07-06T12:35:42.482Z",
+    "canonical:80cca71dae305229": "2026-07-06T16:08:02.314Z",
+    "canonical:e1503fd0c60390d2": "2026-07-06T16:08:02.314Z",
+    "canonical:0751ad63ace5c42a": "2026-07-06T16:08:02.314Z",
+    "canonical:f17df73a4aae98a8": "2026-07-06T16:08:02.314Z",
+    "canonical:4e243c7cf19c895d": "2026-07-06T16:08:02.314Z",
+    "canonical:33468546ec21eeb5": "2026-07-06T16:08:02.314Z",
+    "canonical:e96e92d816fbd3c6": "2026-07-06T16:08:02.314Z",
+    "canonical:da87288c0ea9e2ba": "2026-07-06T16:08:02.314Z",
+    "canonical:941d02dc047a74b1": "2026-07-06T16:08:02.314Z",
+    "canonical:279186003d098051": "2026-07-06T16:08:02.314Z",
+    "canonical:70d6d85016f5db82": "2026-07-06T16:08:02.314Z"
   },
   "jobs": [
     {
@@ -1138,6 +1146,97 @@
       "scoreReasons": [
         "high-signal role",
         "new grad"
+      ]
+    },
+    {
+      "id": "canonical:80cca71dae305229",
+      "title": "Cybersecurity Analyst: New Grad ",
+      "url": "https://job-boards.greenhouse.io/janestreet/jobs/8613910002",
+      "location": "New York, New York, United States",
+      "department": "",
+      "company": "Jane Street",
+      "score": 64,
+      "scoreReasons": [
+        "new grad",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:e1503fd0c60390d2",
+      "title": "2027 - Quant Research Intern - IIT Bombay ",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4860277101",
+      "location": "Amsterdam, Netherlands; Mumbai, India",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:0751ad63ace5c42a",
+      "title": "2027 - Quant Research Intern - IIT Delhi",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917441101",
+      "location": "Amsterdam, Netherlands; Mumbai, India",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f17df73a4aae98a8",
+      "title": "2027 - Quant Research Intern - IIT Kharagpur",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917442101",
+      "location": "Amsterdam, Netherlands; Mumbai, India",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:4e243c7cf19c895d",
+      "title": "2027 - Quant Research Intern - IIT Madras",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917439101",
+      "location": "Amsterdam, Netherlands; Mumbai, India",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:33468546ec21eeb5",
+      "title": "2027 - Software Engineering Intern - IIT Madras",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917547101",
+      "location": "Mumbai, India",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:e96e92d816fbd3c6",
+      "title": "2027 - Software Engineering Intern - IIT Roorkee",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917548101",
+      "location": "Mumbai, India",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -1850,19 +1949,6 @@
       ]
     },
     {
-      "id": "canonical:c7d45c381b9830d8",
-      "title": "Quantitative Research Intern – Specialist Equities",
-      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4847714101",
-      "location": "Hong Kong",
-      "department": "",
-      "company": "Man Group",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:68e56daf264ad19e",
       "title": "Quant Research Analyst Intern",
       "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4872158101",
@@ -2280,6 +2366,19 @@
       ]
     },
     {
+      "id": "canonical:da87288c0ea9e2ba",
+      "title": "AI Builder Intern – Global Customer Engineering, Service Sales (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395",
+      "location": "In-Office",
+      "department": "",
+      "company": "Cloudflare",
+      "score": 38,
+      "scoreReasons": [
+        "direct ATS",
+        "lower-fit title"
+      ]
+    },
+    {
       "id": "canonical:ad23aadfeb5e4fdd",
       "title": "Global Trade Compliance Intern (Summer 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7799138?gh_jid=7799138",
@@ -2355,19 +2454,6 @@
       "id": "canonical:95a71a6031acbd00",
       "title": "Sales Project Manager Intern (AI Innovation) (Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8020830?gh_jid=8020830",
-      "location": "In-Office",
-      "department": "",
-      "company": "Cloudflare",
-      "score": 38,
-      "scoreReasons": [
-        "direct ATS",
-        "lower-fit title"
-      ]
-    },
-    {
-      "id": "canonical:accc7acdf5c4229f",
-      "title": "Sales: Solutions Engineer - Intern (Summer & Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7792962?gh_jid=7792962",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -4585,6 +4671,19 @@
       "location": "New York, NY",
       "department": "Data Science, AI & Machine Learning",
       "company": "Internship",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:941d02dc047a74b1",
+      "title": "AI Intern",
+      "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Atlanta-GA-United-States/AI-Internships_JR-0088855-1",
+      "location": "Grand Rapids, MI / Plano, TX / Atlanta, GA",
+      "department": "Software",
+      "company": "KION Group",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -12067,19 +12166,6 @@
       ]
     },
     {
-      "id": "canonical:a776bc8ff01b2ab7",
-      "title": "Business Intelligence Intern",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135497810",
-      "location": "Belmont, MA",
-      "department": "AI/ML/Data",
-      "company": "Bosch Home Comfort",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:1463c8d45c6981d1",
       "title": "GIS Intern",
       "url": "https://external-telecom-teldta.icims.com/jobs/29604/job?mobile=true&needsRedirect=false",
@@ -12686,6 +12772,32 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:279186003d098051",
+      "title": "Engineering Intern - Business Support",
+      "url": "https://careers-gd-ots.icims.com/jobs/36564/job?mobile=true&needsRedirect=false",
+      "location": "Gadsden, AL",
+      "department": "AI/ML/Data",
+      "company": "General Dynamics",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:70d6d85016f5db82",
+      "title": "AI Builder Intern - Global Customer Engineering - Service Sales",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8044395",
+      "location": "London, UK",
+      "department": "Software",
+      "company": "Cloudflare",
+      "score": 48,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS",
+        "lower-fit title"
       ]
     },
     {

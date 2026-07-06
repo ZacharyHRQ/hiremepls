@@ -1,6 +1,6 @@
 # Open Internships
 
-**1081** internships across **68/68** companies — last updated 2026-07-06.
+**1089** internships across **68/68** companies — last updated 2026-07-06.
 
 ## Companies
 
@@ -70,7 +70,7 @@
 - [Bombardier](#bombardier) (1)
 - [BorgWarner](#borgwarner) (1)
 - [Bosch](#bosch) (2)
-- [Bosch Home Comfort](#bosch-home-comfort) (4)
+- [Bosch Home Comfort](#bosch-home-comfort) (3)
 - [Boston Consulting Group](#boston-consulting-group) (2)
 - [Bot Auto](#bot-auto) (1)
 - [Boys Town](#boys-town) (1)
@@ -96,7 +96,7 @@
 - [Citadel Securities](#citadel-securities) (10)
 - [Clarity Innovations](#clarity-innovations) (1)
 - [Clera](#clera) (1)
-- [Cloudflare](#cloudflare) (11)
+- [Cloudflare](#cloudflare) (12)
 - [Cloudforce](#cloudforce) (1)
 - [Codeage](#codeage) (1)
 - [Cohere](#cohere) (6)
@@ -171,6 +171,7 @@
 - [GenBio AI](#genbio-ai) (1)
 - [Generac](#generac) (2)
 - [General Astronautics](#general-astronautics) (1)
+- [General Dynamics](#general-dynamics) (1)
 - [General Motors](#general-motors) (1)
 - [GenScript](#genscript) (1)
 - [Gensyn](#gensyn) (1)
@@ -200,7 +201,7 @@
 - [Hunt Oil Company](#hunt-oil-company) (2)
 - [iHerb](#iherb) (1)
 - [Illinois Tool Works](#illinois-tool-works) (1)
-- [IMC Trading](#imc-trading) (18)
+- [IMC Trading](#imc-trading) (24)
 - [Impulse Space](#impulse-space) (1)
 - [Infojini](#infojini) (1)
 - [Instacart](#instacart) (4)
@@ -216,12 +217,14 @@
 - [Internship](#internship) (1)
 - [Intuitive Surgical](#intuitive-surgical) (1)
 - [iSpot.tv](#ispot-tv) (1)
+- [Jane Street](#jane-street) (1)
 - [JP Morgan Chase](#jp-morgan-chase) (1)
 - [Jump Trading](#jump-trading) (2)
 - [K1](#k1) (1)
 - [KBR](#kbr) (1)
 - [Kensington](#kensington) (2)
 - [Kinaxis](#kinaxis) (3)
+- [KION Group](#kion-group) (1)
 - [KLA](#kla) (1)
 - [Kognitos](#kognitos) (1)
 - [kos.ai](#kos-ai) (1)
@@ -241,7 +244,7 @@
 - [Magna](#magna) (4)
 - [Maher Duessel](#maher-duessel) (1)
 - [MaloneBailey, LLP](#malonebailey-llp) (1)
-- [Man Group](#man-group) (4)
+- [Man Group](#man-group) (3)
 - [Maple Leaf Sports & Entertainment Partnership (MLSE)](#maple-leaf-sports-entertainment-partnership-mlse) (1)
 - [Marathon Petroleum Corporation](#marathon-petroleum-corporation) (1)
 - [Maricopa Association of Governments (MAG)](#maricopa-association-of-governments-mag) (1)
@@ -926,7 +929,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Business Intelligence Intern](https://jobs.smartrecruiters.com/BoschGroup/744000135497810) | 68 | Belmont, MA | AI/ML/Data | 2026-07-02 |
 | [A.1. Integration Intern](https://jobs.smartrecruiters.com/BoschGroup/744000134840254) | 68 | Columbia City, IN | AI/ML/Data | 2026-07-02 |
 | [Foreign Trade Data Analytics Intern](https://jobs.smartrecruiters.com/BoschGroup/744000134542009) | 68 | Western Springs, IL | AI/ML/Data | 2026-07-02 |
 | [Hardware Prototyping Intern - Data Center Rack](https://jobs.smartrecruiters.com/BoschGroup/744000134543799) | 58 | Sunnyvale, CA | Hardware | 2026-07-02 |
@@ -1138,6 +1140,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [AI Builder Intern - Global Customer Engineering - Service Sales](https://boards.greenhouse.io/cloudflare/jobs/8044395) | 48 | London, UK | Software | 2026-07-06 |
+| [AI Builder Intern – Global Customer Engineering, Service Sales (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395) | 38 | In-Office | — | 2026-07-06 |
 | [Technical Support Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8041135?gh_jid=8041135) | 58 | In-Office | — | 2026-07-03 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -1148,7 +1152,6 @@
 | [Network Engineering Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7917883?gh_jid=7917883) | 58 | In-Office | — | 2026-05-13 |
 | [Global Trade Compliance Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7799138?gh_jid=7799138) | 58 | In-Office | — | 2026-05-06 |
 | [Threat Detection and Incident Response Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7577205?gh_jid=7577205) | 58 | In-Office | — | 2026-05-06 |
-| [Sales: Solutions Engineer - Intern (Summer & Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7792962?gh_jid=7792962) | 38 | In-Office | — | 2026-05-06 |
 
 ## Cloudforce
 
@@ -1640,6 +1643,12 @@
 | --- | --- | --- | --- | --- |
 | [Engineering Intern](https://www.workatastartup.com/jobs/94206) | 56 | San Francisco, CA | — | 2026-05-09 |
 
+## General Dynamics
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Engineering Intern - Business Support](https://careers-gd-ots.icims.com/jobs/36564/job?mobile=true&needsRedirect=false) | 60 | Gadsden, AL | AI/ML/Data | 2026-07-06 |
+
 ## General Motors
 
 | Title | Score | Location | Department | First seen |
@@ -1827,6 +1836,12 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [2027 - Quant Research Intern - IIT Bombay](https://job-boards.eu.greenhouse.io/imc/jobs/4860277101) | 68 | Amsterdam, Netherlands; Mumbai, India | — | 2026-07-06 |
+| [2027 - Quant Research Intern - IIT Delhi](https://job-boards.eu.greenhouse.io/imc/jobs/4917441101) | 68 | Amsterdam, Netherlands; Mumbai, India | — | 2026-07-06 |
+| [2027 - Quant Research Intern - IIT Kharagpur](https://job-boards.eu.greenhouse.io/imc/jobs/4917442101) | 68 | Amsterdam, Netherlands; Mumbai, India | — | 2026-07-06 |
+| [2027 - Quant Research Intern - IIT Madras](https://job-boards.eu.greenhouse.io/imc/jobs/4917439101) | 68 | Amsterdam, Netherlands; Mumbai, India | — | 2026-07-06 |
+| [2027 - Software Engineering Intern - IIT Madras](https://job-boards.eu.greenhouse.io/imc/jobs/4917547101) | 68 | Mumbai, India | — | 2026-07-06 |
+| [2027 - Software Engineering Intern - IIT Roorkee](https://job-boards.eu.greenhouse.io/imc/jobs/4917548101) | 68 | Mumbai, India | — | 2026-07-06 |
 | [Graduate Machine Learning Researcher](https://job-boards.eu.greenhouse.io/imc/jobs/4907416101) | 99 | Chicago, United States | — | 2026-07-01 |
 | [Graduate Quantitative Researcher (BS/MS)](https://job-boards.eu.greenhouse.io/imc/jobs/4907368101) | 99 | Chicago, United States | — | 2026-07-01 |
 | [Graduate Quantitative Researcher (PhD)](https://job-boards.eu.greenhouse.io/imc/jobs/4912325101) | 99 | Chicago, United States | — | 2026-07-01 |
@@ -1946,6 +1961,12 @@
 | --- | --- | --- | --- | --- |
 | [Data Science Intern](https://job-boards.greenhouse.io/ispottv/jobs/4703297005) | 68 | Bellevue, WA | AI/ML/Data | 2026-06-09 |
 
+## Jane Street
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Cybersecurity Analyst: New Grad](https://job-boards.greenhouse.io/janestreet/jobs/8613910002) | 64 | New York, New York, United States | — | 2026-07-06 |
+
 ## JP Morgan Chase
 
 | Title | Score | Location | Department | First seen |
@@ -1985,6 +2006,12 @@
 | [Software Developer Intern](https://careers-kinaxis.icims.com/jobs/34899/job?mobile=true&needsRedirect=false) | 85 | Ottawa, ON, Canada | Software | 2026-07-06 |
 | [Engineer Co-op/Intern - Data & Analytics](https://careers-kinaxis.icims.com/jobs/34766/job?mobile=true&needsRedirect=false) | 85 | Ottawa, ON, Canada | AI/ML/Data | 2026-07-01 |
 | [Software Development Co-op/Intern - C++](https://careers-kinaxis.icims.com/jobs/34764/job?mobile=true&needsRedirect=false) | 60 | Ottawa, ON, Canada | Software | 2026-06-18 |
+
+## KION Group
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI Intern](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Atlanta-GA-United-States/AI-Internships_JR-0088855-1) | 68 | Grand Rapids, MI / Plano, TX / Atlanta, GA | Software | 2026-07-06 |
 
 ## KLA
 
@@ -2112,7 +2139,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Quantitative Research Intern – Specialist Equities](https://job-boards.eu.greenhouse.io/mangroup/jobs/4847714101) | 68 | Hong Kong | — | 2026-07-01 |
 | [2026 Technology Graduate Programme – Platform Engineer](https://job-boards.eu.greenhouse.io/mangroup/jobs/4682393101) | 99 | London | — | 2026-06-17 |
 | [Quant Research Analyst Intern](https://job-boards.eu.greenhouse.io/mangroup/jobs/4872158101) | 68 | Shanghai | — | 2026-06-10 |
 | [Quantitative Developer, Intern](https://job-boards.eu.greenhouse.io/mangroup/jobs/4847708101) | 93 | Shanghai | — | 2026-05-06 |
