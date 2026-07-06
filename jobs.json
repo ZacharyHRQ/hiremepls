@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-06T18:19:42.230Z",
+  "generatedAt": "2026-07-06T20:19:32.843Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1086,
+  "jobCount": 1084,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -190,7 +190,6 @@
     "canonical:33e86b7068f81940": "2026-05-09T15:28:15.527Z",
     "canonical:b926da94b8d1765f": "2026-05-09T15:28:15.527Z",
     "canonical:34954950b1b6ede2": "2026-05-09T15:28:15.527Z",
-    "canonical:a12772f2bf1637b3": "2026-05-09T15:28:15.527Z",
     "canonical:606d7f53b8e4e670": "2026-05-09T15:28:15.527Z",
     "canonical:30b49bc17727b7b6": "2026-05-09T15:28:15.527Z",
     "canonical:877c0a343b3cc748": "2026-05-09T15:28:15.527Z",
@@ -1048,7 +1047,6 @@
     "canonical:fae742742a2eb1de": "2026-07-04T12:39:15.733Z",
     "canonical:ae1902dace82286a": "2026-07-04T12:39:15.733Z",
     "canonical:1cb06eb7b801cca8": "2026-07-04T14:12:36.824Z",
-    "canonical:1f05dd365577984d": "2026-07-04T14:12:36.824Z",
     "canonical:36ef1ec6d7ec629a": "2026-07-04T14:12:36.824Z",
     "canonical:69629f2e556a8b42": "2026-07-04T15:29:35.645Z",
     "canonical:afa2d46863565441": "2026-07-04T15:29:35.645Z",
@@ -1367,10 +1365,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1382,10 +1380,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -5240,18 +5238,6 @@
       "score": 68,
       "scoreReasons": [
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:a12772f2bf1637b3",
-      "title": "Firmware Intern",
-      "url": "https://jobs.ashbyhq.com/windborne-systems/3e7df5d4-48ef-4fb7-b751-74b500ada843/application",
-      "location": "San Carlos, CA",
-      "department": "Hardware",
-      "company": "WindBorne Systems",
-      "score": 58,
-      "scoreReasons": [
         "direct ATS"
       ]
     },
@@ -12223,20 +12209,6 @@
       "company": "Copart",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:1f05dd365577984d",
-      "title": "Data Engineer Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/DTCO-Data-Engineer-Intern_JR0285341",
-      "location": "Austin, TX",
-      "department": "AI/ML/Data",
-      "company": "Intel",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
