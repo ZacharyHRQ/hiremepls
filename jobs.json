@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-06T04:39:34.033Z",
+  "generatedAt": "2026-07-06T08:49:26.746Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1076,
+  "jobCount": 1079,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -710,7 +710,6 @@
     "canonical:1f027cb6d4618bf9": "2026-06-11T18:04:03.516Z",
     "canonical:d621e53b1b2df411": "2026-06-11T18:04:03.516Z",
     "canonical:c11bff2ca221b70c": "2026-06-11T23:59:08.775Z",
-    "canonical:90de0872641ecba5": "2026-06-12T12:01:29.803Z",
     "canonical:07482cde11fc2d9b": "2026-06-12T15:35:58.050Z",
     "canonical:e5b8024c19031c98": "2026-06-13T00:12:58.112Z",
     "canonical:ecf76b0599cdcaca": "2026-06-13T00:12:58.112Z",
@@ -823,7 +822,6 @@
     "canonical:5703b8a0a55c3350": "2026-06-23T00:19:39.353Z",
     "canonical:baa8d20fda37086a": "2026-06-23T04:36:40.243Z",
     "canonical:e035aef29d392d1e": "2026-06-23T04:36:40.243Z",
-    "canonical:791496a0e4be2814": "2026-06-23T08:18:38.816Z",
     "canonical:a4bfa7421cb2dd8c": "2026-06-23T08:18:38.816Z",
     "canonical:95a71a6031acbd00": "2026-06-23T11:35:18.438Z",
     "canonical:c32317a9ac6c5b72": "2026-06-23T14:03:34.437Z",
@@ -1006,7 +1004,6 @@
     "canonical:796deecc942fc471": "2026-07-02T13:33:38.399Z",
     "canonical:4657deb65ec280ac": "2026-07-02T13:33:38.399Z",
     "canonical:ceb153a3975c027c": "2026-07-02T13:33:38.399Z",
-    "canonical:8b522f36817f5b67": "2026-07-02T14:37:41.688Z",
     "canonical:917c8771cd813a8d": "2026-07-02T16:25:49.391Z",
     "canonical:a776bc8ff01b2ab7": "2026-07-02T16:25:49.391Z",
     "canonical:1463c8d45c6981d1": "2026-07-02T16:25:49.391Z",
@@ -1079,7 +1076,13 @@
     "canonical:a7c823cebc3a3c4e": "2026-07-05T22:00:07.080Z",
     "canonical:b3f1d6401f210b9e": "2026-07-05T22:00:07.080Z",
     "canonical:e5fe9ebabda6e9b1": "2026-07-05T23:04:21.429Z",
-    "canonical:bc334a94a24f339e": "2026-07-06T04:39:34.033Z"
+    "canonical:93464f6398ffa1e2": "2026-07-06T08:49:26.746Z",
+    "canonical:bc8833498b1b834e": "2026-07-06T08:49:26.746Z",
+    "canonical:d3ac4a035bf89211": "2026-07-06T08:49:26.746Z",
+    "canonical:4d2e609f5bb30885": "2026-07-06T08:49:26.746Z",
+    "canonical:6534e2ff980befe8": "2026-07-06T08:49:26.746Z",
+    "canonical:68a0673a5967ac2e": "2026-07-06T08:49:26.746Z",
+    "canonical:eef3e4204e664840": "2026-07-06T08:49:26.746Z"
   },
   "jobs": [
     {
@@ -1251,10 +1254,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1266,10 +1269,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1479,16 +1482,6 @@
       "title": "Business Analytics Intern - 6 Month Internship Opportunity",
       "url": "https://www.tower-research.com/open-positions/?gh_jid=8041512",
       "location": "Amsterdam",
-      "department": "",
-      "company": "Tower Research Capital",
-      "score": 50,
-      "scoreReasons": []
-    },
-    {
-      "id": "canonical:90de0872641ecba5",
-      "title": "Intern",
-      "url": "https://www.tower-research.com/open-positions/?gh_jid=7988896",
-      "location": "Gift City",
       "department": "",
       "company": "Tower Research Capital",
       "score": 50,
@@ -2323,7 +2316,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -9218,19 +9211,6 @@
       ]
     },
     {
-      "id": "canonical:8b522f36817f5b67",
-      "title": "Software Developer Intern",
-      "url": "https://careers-kinaxis.icims.com/jobs/34899/job?mobile=true&needsRedirect=false",
-      "location": "Ottawa, ON, Canada",
-      "department": "Software",
-      "company": "Kinaxis",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:3cfa8d538fe65c66",
       "title": "Embedded Software Intern - Embedded Software Engineer - Optimus",
       "url": "https://www.tesla.com/careers/search/job/273272",
@@ -10318,20 +10298,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:bc334a94a24f339e",
-      "title": "Process Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7765271003",
-      "location": "LA",
-      "department": "AI/ML/Data",
-      "company": "Freeform",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -12004,19 +11970,6 @@
       ]
     },
     {
-      "id": "canonical:791496a0e4be2814",
-      "title": "Database Analyst Co-op/Intern",
-      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Database-Analyst--Fall-2026--Co-op-Internship----4-months_R260018622",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Bank of Montreal",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:7cd2f99437b3bc56",
       "title": "HLS Intern",
       "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AL-Huntsville/Intern---HLS-Fall-Intern_R0164860",
@@ -12623,6 +12576,92 @@
       "company": "Tower Research Capital",
       "score": 60,
       "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:93464f6398ffa1e2",
+      "title": "Designated Market Maker Intern - Designated Market Maker - Trader",
+      "url": "https://www.citadelsecurities.com/careers/details/designated-market-maker-dmm-trader-intern-us/",
+      "location": "NYC",
+      "department": "Quant",
+      "company": "Citadel Securities",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:bc8833498b1b834e",
+      "title": "Credit & Rates Rotational Trader Intern",
+      "url": "https://www.citadelsecurities.com/careers/details/credit-rates-rotational-trader-intern-us/",
+      "location": "NYC",
+      "department": "Quant",
+      "company": "Citadel Securities",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:d3ac4a035bf89211",
+      "title": "Trader: Fixed Income & Macro Intern",
+      "url": "https://www.citadel.com/careers/details/trader-fixed-income-macro-intern-us/",
+      "location": "Greenwich, CT / Miami, FL / NYC",
+      "department": "Quant",
+      "company": "Citadel",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:4d2e609f5bb30885",
+      "title": "Quantitative Trader Intern",
+      "url": "https://www.citadelsecurities.com/careers/details/quantitative-trader-intern-us/",
+      "location": "Miami, FL / NYC",
+      "department": "Quant",
+      "company": "Citadel Securities",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:6534e2ff980befe8",
+      "title": "Quantitative Research Analyst Intern",
+      "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/",
+      "location": "Greenwich, CT / Miami, FL / NYC",
+      "department": "Quant",
+      "company": "Citadel",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:68a0673a5967ac2e",
+      "title": "Software Engineer Intern",
+      "url": "https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/",
+      "location": "Miami, FL / NYC",
+      "department": "Software",
+      "company": "Citadel Securities",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:eef3e4204e664840",
+      "title": "Software Engineer Intern",
+      "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
+      "location": "Greenwich, CT / Houston, TX / Miami, FL / NYC",
+      "department": "Software",
+      "company": "Citadel",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },

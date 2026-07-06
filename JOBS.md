@@ -1,6 +1,6 @@
 # Open Internships
 
-**1076** internships across **68/68** companies — last updated 2026-07-06.
+**1079** internships across **68/68** companies — last updated 2026-07-06.
 
 ## Companies
 
@@ -51,7 +51,6 @@
 - [Axway](#axway) (2)
 - [BAE Systems](#bae-systems) (3)
 - [Bank of America](#bank-of-america) (1)
-- [Bank of Montreal](#bank-of-montreal) (1)
 - [Barkback](#barkback) (1)
 - [Base Power](#base-power) (4)
 - [beBeeManufacturingEngineering](#bebeemanufacturingengineering) (1)
@@ -94,8 +93,8 @@
 - [Cherry Bekaert](#cherry-bekaert) (2)
 - [Ciena](#ciena) (2)
 - [Cirrus Logic](#cirrus-logic) (1)
-- [Citadel](#citadel) (6)
-- [Citadel Securities](#citadel-securities) (4)
+- [Citadel](#citadel) (9)
+- [Citadel Securities](#citadel-securities) (8)
 - [Clarity Innovations](#clarity-innovations) (1)
 - [Clera](#clera) (1)
 - [Cloudflare](#cloudflare) (11)
@@ -169,7 +168,6 @@
 - [Forvis Mazars US](#forvis-mazars-us) (1)
 - [Foundation ](#foundation) (1)
 - [Four Hands](#four-hands) (1)
-- [Freeform](#freeform) (1)
 - [GE Vernova](#ge-vernova) (1)
 - [Gemini](#gemini) (1)
 - [GenBio AI](#genbio-ai) (1)
@@ -225,7 +223,7 @@
 - [K1](#k1) (1)
 - [KBR](#kbr) (1)
 - [Kensington](#kensington) (2)
-- [Kinaxis](#kinaxis) (3)
+- [Kinaxis](#kinaxis) (2)
 - [KION Group](#kion-group) (1)
 - [KLA](#kla) (1)
 - [Kognitos](#kognitos) (1)
@@ -418,7 +416,7 @@
 - [Together AI](#together-ai) (4)
 - [Topel Forman LLC](#topel-forman-llc) (1)
 - [Torc Robotics](#torc-robotics) (1)
-- [Tower Research Capital](#tower-research-capital) (7)
+- [Tower Research Capital](#tower-research-capital) (6)
 - [Toyota Research Institute](#toyota-research-institute) (3)
 - [Traackr](#traackr) (1)
 - [Tradeweb](#tradeweb) (1)
@@ -806,12 +804,6 @@
 | --- | --- | --- | --- | --- |
 | [Global Technology Summer Analyst 2026 - Business Analyst](https://careers.bankofamerica.com/en-us/students/job-detail/12943/global-technology-summer-analyst-2026-business-analyst-multiple-locations-esomprank-d41yanam0v-12) | 50 | Charlotte, North Carolina; Chicago, Illinois; Dallas, Texas; | — | 2026-05-16 |
 
-## Bank of Montreal
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Database Analyst Co-op/Intern](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Database-Analyst--Fall-2026--Co-op-Internship----4-months_R260018622) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-06-23 |
-
 ## Barkback
 
 | Title | Score | Location | Department | First seen |
@@ -1113,6 +1105,9 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://www.citadel.com/careers/details/software-engineer-intern-us/) | 85 | Greenwich, CT / Houston, TX / Miami, FL / NYC | Software | 2026-07-06 |
+| [Quantitative Research Analyst Intern](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/) | 60 | Greenwich, CT / Miami, FL / NYC | Quant | 2026-07-06 |
+| [Trader: Fixed Income & Macro Intern](https://www.citadel.com/careers/details/trader-fixed-income-macro-intern-us/) | 60 | Greenwich, CT / Miami, FL / NYC | Quant | 2026-07-06 |
 | [Machine Learning Researcher – PhD Intern - US](https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-us/) | 85 | NYC | AI/ML/Data | 2026-07-01 |
 | [Quantitative Research Engineer Intern](https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-us/) | 85 | Greenwich, CT / Houston, TX / Miami, FL / NYC | Quant | 2026-07-01 |
 | [Quantitative Researcher – PhD Intern](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-europe/) | 85 | London, UK | Quant | 2026-07-01 |
@@ -1124,6 +1119,10 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/) | 85 | Miami, FL / NYC | Software | 2026-07-06 |
+| [Credit & Rates Rotational Trader Intern](https://www.citadelsecurities.com/careers/details/credit-rates-rotational-trader-intern-us/) | 60 | NYC | Quant | 2026-07-06 |
+| [Designated Market Maker Intern - Designated Market Maker - Trader](https://www.citadelsecurities.com/careers/details/designated-market-maker-dmm-trader-intern-us/) | 60 | NYC | Quant | 2026-07-06 |
+| [Quantitative Trader Intern](https://www.citadelsecurities.com/careers/details/quantitative-trader-intern-us/) | 60 | Miami, FL / NYC | Quant | 2026-07-06 |
 | [Machine Learning Researcher PhD Intern](https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-intern-us/) | 85 | Miami, FL / NYC | AI/ML/Data | 2026-07-01 |
 | [Quantitative Research Engineer Intern](https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-intern-us/) | 85 | Miami, FL / NYC | Quant | 2026-07-01 |
 | [Quantitative Researcher PhD Intern](https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-us/) | 85 | Miami, FL / NYC | Quant | 2026-07-01 |
@@ -1148,7 +1147,7 @@
 | [Technical Support Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8041135?gh_jid=8041135) | 58 | In-Office | — | 2026-07-03 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
 | [Sales Project Manager Intern (AI Innovation) (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8020830?gh_jid=8020830) | 38 | In-Office | — | 2026-06-23 |
 | [Legal Intern – Commercial Legal (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7983674?gh_jid=7983674) | 58 | In-Office | — | 2026-06-05 |
 | [People Team Intern - HR Operations & AI Innovation (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240) | 58 | In-Office | — | 2026-05-20 |
@@ -1622,12 +1621,6 @@
 | --- | --- | --- | --- | --- |
 | [Product Development Intern](https://job-boards.greenhouse.io/fourhands/jobs/4272048009) | 58 | Austin, TX | Product | 2026-06-08 |
 
-## Freeform
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Process Engineer Intern](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7765271003) | 93 | LA | AI/ML/Data | 2026-07-06 |
-
 ## GE Vernova
 
 | Title | Score | Location | Department | First seen |
@@ -1860,8 +1853,8 @@
 | [Hardware Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) | 58 | Chicago, United States | — | 2026-07-01 |
 | [Graduate Quantitative Researcher](https://job-boards.eu.greenhouse.io/imc/jobs/4892687101) | 99 | Zug, Switzerland | — | 2026-06-12 |
 | [Hardware Machine Learning PhD Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, IL | AI/ML/Data | 2026-05-09 |
-| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
+| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Hardware Machine Learning PhD Research Internship](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, United States | — | 2026-05-06 |
 | [Graduate Floor Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4786701101) | 64 | Chicago, United States; Miami, United States; New York, United States; Philadelphia, United States; San Francisco, United States | — | 2026-05-06 |
 
@@ -2001,7 +1994,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Developer Intern](https://careers-kinaxis.icims.com/jobs/34899/job?mobile=true&needsRedirect=false) | 85 | Ottawa, ON, Canada | Software | 2026-07-02 |
 | [Engineer Co-op/Intern - Data & Analytics](https://careers-kinaxis.icims.com/jobs/34766/job?mobile=true&needsRedirect=false) | 85 | Ottawa, ON, Canada | AI/ML/Data | 2026-07-01 |
 | [Software Development Co-op/Intern - C++](https://careers-kinaxis.icims.com/jobs/34764/job?mobile=true&needsRedirect=false) | 60 | Ottawa, ON, Canada | Software | 2026-06-18 |
 
@@ -3547,7 +3539,6 @@
 | [Quantitative Trader Intern - Summer 2027](https://www.tower-research.com/open-positions/?gh_jid=8024128) | 60 | New York, Chicago | — | 2026-07-05 |
 | [Quantitative Trader Intern, PhD](https://www.tower-research.com/open-positions/?gh_jid=8024138) | 60 | New York | — | 2026-07-05 |
 | [Business Analytics Intern - 6 Month Internship Opportunity](https://www.tower-research.com/open-positions/?gh_jid=8041512) | 50 | Amsterdam | — | 2026-07-03 |
-| [Intern](https://www.tower-research.com/open-positions/?gh_jid=7988896) | 50 | Gift City | — | 2026-06-12 |
 | [Risk Intern - 6 Month Internship Opportunity](https://www.tower-research.com/open-positions/?gh_jid=7789933) | 50 | Singapore | — | 2026-05-06 |
 
 ## Toyota Research Institute
