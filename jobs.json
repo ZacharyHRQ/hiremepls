@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-07T15:49:17.557Z",
+  "generatedAt": "2026-07-07T17:51:05.980Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1117,
+  "jobCount": 1115,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -205,7 +205,6 @@
     "canonical:8108ed7544fbae39": "2026-05-09T15:28:15.527Z",
     "canonical:11ccf5058382c3d9": "2026-05-09T15:28:15.527Z",
     "canonical:62388f9a8d7fd92c": "2026-05-09T15:28:15.527Z",
-    "canonical:a92ede27e1405f1b": "2026-05-09T15:28:15.527Z",
     "canonical:79e4c3af105b165f": "2026-05-09T15:28:15.527Z",
     "canonical:0ce359ab85147b38": "2026-05-09T15:28:15.527Z",
     "canonical:7a0b27608762c6c7": "2026-05-15T10:04:41.511Z",
@@ -913,7 +912,6 @@
     "canonical:06a5a711379628ba": "2026-07-01T06:55:26.212Z",
     "canonical:1ee6ba6747ac87c2": "2026-07-01T06:55:26.212Z",
     "canonical:417e3f281b3a03a3": "2026-07-01T06:55:26.212Z",
-    "canonical:9b2f6d5991a31273": "2026-07-01T06:55:26.212Z",
     "canonical:acc4eb5c29e25657": "2026-07-01T06:55:26.212Z",
     "canonical:60fe78b324230eaa": "2026-07-01T10:37:16.482Z",
     "canonical:c5c8d41f5222405f": "2026-07-01T10:37:16.482Z",
@@ -1487,10 +1485,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1502,10 +1500,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1877,10 +1875,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1891,10 +1889,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -2576,7 +2574,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -5598,16 +5596,6 @@
         "high-signal role",
         "direct ATS"
       ]
-    },
-    {
-      "id": "canonical:a92ede27e1405f1b",
-      "title": "DSP Firmware Engineering Co-op/Intern",
-      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34226",
-      "location": "Ottawa, ON, Canada",
-      "department": "Hardware",
-      "company": "Nokia",
-      "score": 50,
-      "scoreReasons": []
     },
     {
       "id": "canonical:79e4c3af105b165f",
@@ -11636,19 +11624,6 @@
       "title": "Quantitative Researcher PhD Intern",
       "url": "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-us/",
       "location": "Miami, FL / NYC",
-      "department": "Quant",
-      "company": "Citadel Securities",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:9b2f6d5991a31273",
-      "title": "Quantitative Researcher PhD Intern",
-      "url": "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-europe/",
-      "location": "London, UK",
       "department": "Quant",
       "company": "Citadel Securities",
       "score": 85,
