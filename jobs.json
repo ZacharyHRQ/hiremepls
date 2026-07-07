@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-07T00:04:51.849Z",
+  "generatedAt": "2026-07-07T04:14:22.126Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1090,
+  "jobCount": 1091,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -685,7 +685,6 @@
     "canonical:5a04d7e1104bec7c": "2026-06-10T23:18:38.796Z",
     "canonical:5c13be71e2802136": "2026-06-11T01:44:46.869Z",
     "canonical:a408343a5d65fbb1": "2026-06-11T01:44:46.869Z",
-    "canonical:8bd38293f3b72dd9": "2026-06-11T01:44:46.869Z",
     "canonical:2a27a6706157cb62": "2026-06-11T06:27:21.326Z",
     "canonical:481abe28ff8a5d8b": "2026-06-11T11:07:45.069Z",
     "canonical:30d3864435f150b7": "2026-06-11T11:07:45.069Z",
@@ -707,7 +706,6 @@
     "canonical:ecf76b0599cdcaca": "2026-06-13T00:12:58.112Z",
     "canonical:f0b53698422bb7ad": "2026-06-13T04:50:39.260Z",
     "canonical:25c914101f963271": "2026-06-13T10:42:23.951Z",
-    "canonical:a09b5a1047bf1b8e": "2026-06-13T10:42:23.951Z",
     "canonical:cf66be44715f6135": "2026-06-13T12:14:00.429Z",
     "canonical:8212975b7a6dc9b6": "2026-06-13T14:26:10.023Z",
     "canonical:31962d85f79aae5b": "2026-06-13T15:55:40.354Z",
@@ -800,7 +798,6 @@
     "canonical:e967631c8fecc287": "2026-06-19T02:17:31.951Z",
     "canonical:e31c6f05c180cfcc": "2026-06-19T02:17:31.951Z",
     "canonical:6dd85ff3ed8dd5dc": "2026-06-19T07:34:45.156Z",
-    "canonical:5db094360a3dbbfc": "2026-06-19T07:34:45.156Z",
     "canonical:b4321a96d5262a5c": "2026-06-19T17:03:13.004Z",
     "canonical:0d51b143c8459099": "2026-06-20T03:57:11.576Z",
     "canonical:495a5708640f7aa7": "2026-06-20T03:57:11.576Z",
@@ -1069,7 +1066,6 @@
     "canonical:aa43ee77d75cfa12": "2026-07-06T12:35:42.482Z",
     "canonical:69ccd154a918e4f8": "2026-07-06T12:35:42.482Z",
     "canonical:e45a102fe53b7d16": "2026-07-06T12:35:42.482Z",
-    "canonical:8a7147b8ff754de9": "2026-07-06T12:35:42.482Z",
     "canonical:80cca71dae305229": "2026-07-06T16:08:02.314Z",
     "canonical:e1503fd0c60390d2": "2026-07-06T16:08:02.314Z",
     "canonical:0751ad63ace5c42a": "2026-07-06T16:08:02.314Z",
@@ -1093,7 +1089,12 @@
     "canonical:bc7560e54784ab8d": "2026-07-07T00:04:51.849Z",
     "canonical:e53489573f124bd9": "2026-07-07T00:04:51.849Z",
     "canonical:c6229a0af7e59d75": "2026-07-07T00:04:51.849Z",
-    "canonical:ea9e7fa8ece78c88": "2026-07-07T00:04:51.849Z"
+    "canonical:ea9e7fa8ece78c88": "2026-07-07T00:04:51.849Z",
+    "canonical:0b356c888be04818": "2026-07-07T04:14:22.126Z",
+    "canonical:cda2c4658acd891e": "2026-07-07T04:14:22.126Z",
+    "canonical:a6525685f9122cb8": "2026-07-07T04:14:22.126Z",
+    "canonical:921f9042df4a3acf": "2026-07-07T04:14:22.126Z",
+    "canonical:0ae14fe9fb32d995": "2026-07-07T04:14:22.126Z"
   },
   "jobs": [
     {
@@ -9370,20 +9371,6 @@
       ]
     },
     {
-      "id": "canonical:8bd38293f3b72dd9",
-      "title": "Field Application Engineer Intern",
-      "url": "https://jobs.lever.co/field-ai/9c2b7b13-12d0-4c1a-a672-8c869228ec9d/apply",
-      "location": "Irvine, CA",
-      "department": "Software",
-      "company": "Field AI",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:481abe28ff8a5d8b",
       "title": "Software Engineer Intern - Applications",
       "url": "https://jobs.ashbyhq.com/rivianvw.tech/3f314ca7-978e-4ad6-b527-0487a9a9598c/application",
@@ -9673,19 +9660,6 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:a09b5a1047bf1b8e",
-      "title": "Software Engineer Intern",
-      "url": "https://careers.itw.com/global/en/job/JR4585",
-      "location": "Appleton, WI",
-      "department": "Software",
-      "company": "Illinois Tool Works",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -10271,20 +10245,6 @@
       "company": "Continental",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:5db094360a3dbbfc",
-      "title": "Developer Intern - Service Development",
-      "url": "https://jobs.ashbyhq.com/1password/b6b8c8ed-ff1c-4bc2-9dbe-5122207ea3a2/application",
-      "location": "Remote in USA / Remote in Canada",
-      "department": "Software",
-      "company": "1Password",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -12650,18 +12610,6 @@
       ]
     },
     {
-      "id": "canonical:8a7147b8ff754de9",
-      "title": "Quantitative Trader Equities Quantitative Research Intern",
-      "url": "https://www.citadel.com/careers/details/quantitative-trader-equities-quantitative-research-intern-us/",
-      "location": "NYC",
-      "department": "Quant",
-      "company": "Citadel",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:279186003d098051",
       "title": "Engineering Intern - Business Support",
       "url": "https://careers-gd-ots.icims.com/jobs/36564/job?mobile=true&needsRedirect=false",
@@ -12801,6 +12749,67 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:0b356c888be04818",
+      "title": "Applied Scientist Intern - Recommendation AI Lab",
+      "url": "https://lifeattiktok.com/search/7659527183984019765",
+      "location": "San Jose, CA",
+      "department": "AI/ML/Data",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:cda2c4658acd891e",
+      "title": "Product Manager Intern - TikTok Ads Agent-Scaled Growth",
+      "url": "https://lifeattiktok.com/search/7657728959042046213",
+      "location": "San Jose, CA",
+      "department": "Product",
+      "company": "TikTok",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:a6525685f9122cb8",
+      "title": "Research Scientist Intern - 3D Vision & World Simulation",
+      "url": "https://www.metacareers.com/jobs/2839011673109571",
+      "location": "Redmond, WA",
+      "department": "AI/ML/Data",
+      "company": "Meta",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:921f9042df4a3acf",
+      "title": "Special Projects Intern",
+      "url": "https://job-boards.greenhouse.io/figureai/jobs/4694889006",
+      "location": "San Jose, CA",
+      "department": "AI/ML/Data",
+      "company": "Figure",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:0ae14fe9fb32d995",
+      "title": "Radiation Effects Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4694853006",
+      "location": "SF",
+      "department": "Hardware",
+      "company": "Astranis",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
       ]
     },
     {
