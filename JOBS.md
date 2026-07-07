@@ -1,6 +1,6 @@
 # Open Internships
 
-**1091** internships across **68/68** companies — last updated 2026-07-07.
+**1102** internships across **68/68** companies — last updated 2026-07-07.
 
 ## Companies
 
@@ -90,6 +90,7 @@
 - [Center for AI Safety](#center-for-ai-safety) (1)
 - [Centerfield](#centerfield) (2)
 - [Centific](#centific) (1)
+- [Charles River Analytics](#charles-river-analytics) (1)
 - [Chartwells Higher Education Dining Services](#chartwells-higher-education-dining-services) (1)
 - [Cherry Bekaert](#cherry-bekaert) (2)
 - [Ciena](#ciena) (3)
@@ -195,6 +196,7 @@
 - [Heron Power](#heron-power) (1)
 - [Hershey Entertainment & Resorts Company](#hershey-entertainment-resorts-company) (1)
 - [HEXAWARE](#hexaware) (1)
+- [Hitachi](#hitachi) (3)
 - [Hiverge](#hiverge) (1)
 - [HNTB](#hntb) (1)
 - [Homebase](#homebase) (1)
@@ -202,7 +204,7 @@
 - [Human Computer Lab](#human-computer-lab) (1)
 - [Hunt Oil Company](#hunt-oil-company) (2)
 - [iHerb](#iherb) (1)
-- [IMC Trading](#imc-trading) (26)
+- [IMC Trading](#imc-trading) (33)
 - [Impulse Space](#impulse-space) (1)
 - [Infojini](#infojini) (1)
 - [Instacart](#instacart) (4)
@@ -1079,6 +1081,12 @@
 | --- | --- | --- | --- | --- |
 | [Technical Intern](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Technical-Intern--Masters-or-PhD-_JR107479-1) | 68 | Remote in USA / Redmond, WA | AI/ML/Data | 2026-07-03 |
 
+## Charles River Analytics
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://cra.com/job-listings/job?gh_jid=8047653) | 85 | Cambridge, MA | Software | 2026-07-07 |
+
 ## Chartwells Higher Education Dining Services
 
 | Title | Score | Location | Department | First seen |
@@ -1800,6 +1808,14 @@
 | --- | --- | --- | --- | --- |
 | [Intern Data Engineer](https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/623864) | 85 | United States | AI/ML/Data | 2026-05-09 |
 
+## Hitachi
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [ALM Scripting & Reporting Intern](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/ALM-Scripting---Reporting-Intern_R1012816-1) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-07-07 |
+| [Software Analyst Intern](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--12months-_R1012380-1) | 68 | Toronto, ON, Canada | Software | 2026-07-07 |
+| [Software Analyst Intern](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1012739-1) | 68 | Scarborough, ON, Canada | Software | 2026-07-07 |
+
 ## Hiverge
 
 | Title | Score | Location | Department | First seen |
@@ -1847,6 +1863,13 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [2027 - Software Engineering Intern - BITS Pilani](https://job-boards.eu.greenhouse.io/imc/jobs/4917549101) | 68 | Mumbai, India | — | 2026-07-07 |
+| [2027 - Software Engineering Intern - IIT Bombay](https://job-boards.eu.greenhouse.io/imc/jobs/4860319101) | 68 | Mumbai, India | — | 2026-07-07 |
+| [2027 - Software Engineering Intern - IIT Delhi](https://job-boards.eu.greenhouse.io/imc/jobs/4917535101) | 68 | Mumbai, India | — | 2026-07-07 |
+| [2027 - Software Engineering Intern - IIT Guwahati](https://job-boards.eu.greenhouse.io/imc/jobs/4917542101) | 68 | Mumbai, India | — | 2026-07-07 |
+| [2027 - Software Engineering Intern - IIT Kharagpur](https://job-boards.eu.greenhouse.io/imc/jobs/4917545101) | 68 | Mumbai, India | — | 2026-07-07 |
+| [2027 - FPGA Intern - IIT Bombay](https://job-boards.eu.greenhouse.io/imc/jobs/4860306101) | 58 | Mumbai, India | — | 2026-07-07 |
+| [2027 - FPGA Intern - IIT Madras](https://job-boards.eu.greenhouse.io/imc/jobs/4918252101) | 58 | Mumbai, India | — | 2026-07-07 |
 | [Graduate Machine Learning Researcher](https://job-boards.eu.greenhouse.io/imc/jobs/4914883101) | 99 | London, United Kingdom | — | 2026-07-06 |
 | [Machine Learning Research Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4912874101) | 68 | Amsterdam, Netherlands | — | 2026-07-06 |
 | [2027 - Quant Research Intern - IIT Bombay](https://job-boards.eu.greenhouse.io/imc/jobs/4860277101) | 68 | Amsterdam, Netherlands; Mumbai, India | — | 2026-07-06 |

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-07T04:14:22.126Z",
+  "generatedAt": "2026-07-07T07:52:28.584Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1091,
+  "jobCount": 1102,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1094,7 +1094,18 @@
     "canonical:cda2c4658acd891e": "2026-07-07T04:14:22.126Z",
     "canonical:a6525685f9122cb8": "2026-07-07T04:14:22.126Z",
     "canonical:921f9042df4a3acf": "2026-07-07T04:14:22.126Z",
-    "canonical:0ae14fe9fb32d995": "2026-07-07T04:14:22.126Z"
+    "canonical:0ae14fe9fb32d995": "2026-07-07T04:14:22.126Z",
+    "canonical:1f0cb01848cf4a78": "2026-07-07T07:52:28.584Z",
+    "canonical:f44421684717b904": "2026-07-07T07:52:28.584Z",
+    "canonical:93e5acdf67dbb99b": "2026-07-07T07:52:28.584Z",
+    "canonical:c935df1082cc92fc": "2026-07-07T07:52:28.584Z",
+    "canonical:f330847a3d58ab80": "2026-07-07T07:52:28.584Z",
+    "canonical:964f7a45508aa775": "2026-07-07T07:52:28.584Z",
+    "canonical:cdde573bf6670f2a": "2026-07-07T07:52:28.584Z",
+    "canonical:621773561875f0d2": "2026-07-07T07:52:28.584Z",
+    "canonical:0daed5c9bb46ac4c": "2026-07-07T07:52:28.584Z",
+    "canonical:f37a3bfdec6850a3": "2026-07-07T07:52:28.584Z",
+    "canonical:f58a05acce558c2a": "2026-07-07T07:52:28.584Z"
   },
   "jobs": [
     {
@@ -1164,6 +1175,30 @@
       ]
     },
     {
+      "id": "canonical:1f0cb01848cf4a78",
+      "title": "2027 - FPGA Intern - IIT Bombay",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4860306101",
+      "location": "Mumbai, India",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f44421684717b904",
+      "title": "2027 - FPGA Intern - IIT Madras",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4918252101",
+      "location": "Mumbai, India",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:e1503fd0c60390d2",
       "title": "2027 - Quant Research Intern - IIT Bombay ",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4860277101",
@@ -1207,6 +1242,71 @@
       "title": "2027 - Quant Research Intern - IIT Madras",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917439101",
       "location": "Amsterdam, Netherlands; Mumbai, India",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:93e5acdf67dbb99b",
+      "title": "2027 - Software Engineering Intern - BITS Pilani",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917549101",
+      "location": "Mumbai, India",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c935df1082cc92fc",
+      "title": "2027 - Software Engineering Intern - IIT Bombay",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4860319101",
+      "location": "Mumbai, India",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f330847a3d58ab80",
+      "title": "2027 - Software Engineering Intern - IIT Delhi",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917535101",
+      "location": "Mumbai, India",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:964f7a45508aa775",
+      "title": "2027 - Software Engineering Intern - IIT Guwahati",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917542101",
+      "location": "Mumbai, India",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:cdde573bf6670f2a",
+      "title": "2027 - Software Engineering Intern - IIT Kharagpur",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917545101",
+      "location": "Mumbai, India",
       "department": "",
       "company": "IMC Trading",
       "score": 68,
@@ -12810,6 +12910,58 @@
       "score": 58,
       "scoreReasons": [
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:621773561875f0d2",
+      "title": "Software Analyst Intern",
+      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--12months-_R1012380-1",
+      "location": "Toronto, ON, Canada",
+      "department": "Software",
+      "company": "Hitachi",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:0daed5c9bb46ac4c",
+      "title": "Software Analyst Intern",
+      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1012739-1",
+      "location": "Scarborough, ON, Canada",
+      "department": "Software",
+      "company": "Hitachi",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f37a3bfdec6850a3",
+      "title": "ALM Scripting & Reporting Intern",
+      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/ALM-Scripting---Reporting-Intern_R1012816-1",
+      "location": "Toronto, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "Hitachi",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f58a05acce558c2a",
+      "title": "Software Engineer Intern",
+      "url": "https://cra.com/job-listings/job?gh_jid=8047653",
+      "location": "Cambridge, MA",
+      "department": "Software",
+      "company": "Charles River Analytics",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
