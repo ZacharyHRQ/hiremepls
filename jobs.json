@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-07T21:09:45.668Z",
+  "generatedAt": "2026-07-07T22:21:03.763Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1114,
+  "jobCount": 1108,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -180,7 +180,6 @@
     "canonical:6826e54d8a988fcb": "2026-05-09T15:28:15.527Z",
     "canonical:f38b80d1d6c35520": "2026-05-09T15:28:15.527Z",
     "canonical:1ff85e8ca14b40b6": "2026-05-09T15:28:15.527Z",
-    "canonical:fcfe57824f093788": "2026-05-09T15:28:15.527Z",
     "canonical:a5a6f6f8aad4e113": "2026-05-09T15:28:15.527Z",
     "canonical:23ba199774caa9e1": "2026-05-09T15:28:15.527Z",
     "canonical:d8bd96ce76f209d5": "2026-05-09T15:28:15.527Z",
@@ -232,8 +231,6 @@
     "canonical:1195698531e1f470": "2026-05-09T15:28:15.527Z",
     "canonical:6fbcace9a38d133f": "2026-05-09T15:28:15.527Z",
     "canonical:ae2cb67483530a53": "2026-05-13T23:40:40.818Z",
-    "canonical:a9776b9ae0321db7": "2026-05-09T15:28:15.527Z",
-    "canonical:03c15902ae6e4726": "2026-05-09T15:28:15.527Z",
     "canonical:1e6e6a2ed07745e2": "2026-05-09T15:28:15.527Z",
     "canonical:cf50f0a4d4fd39c2": "2026-05-09T15:28:15.527Z",
     "canonical:11c1b4c81d7b5642": "2026-05-09T15:28:15.527Z",
@@ -443,7 +440,6 @@
     "canonical:a7c48280822ffecd": "2026-05-16T10:16:11.835Z",
     "canonical:3b85b8606d58b1c1": "2026-05-16T10:16:11.835Z",
     "canonical:c7d944825ebe9b46": "2026-05-16T10:16:11.835Z",
-    "canonical:8677f44966da23c5": "2026-05-16T11:29:30.823Z",
     "canonical:1a36c38a48406fc0": "2026-05-16T20:09:24.477Z",
     "canonical:4f85d18e62f2efe6": "2026-05-17T00:06:18.951Z",
     "canonical:ff280c9810ac0117": "2026-05-17T04:18:58.240Z",
@@ -604,7 +600,6 @@
     "canonical:9a93c8600bc816f6": "2026-06-05T10:40:30.398Z",
     "canonical:1e55d948abe3148a": "2026-06-05T10:40:30.398Z",
     "canonical:464ecfeba366891e": "2026-06-05T10:40:30.398Z",
-    "canonical:83cc733d72cbc527": "2026-06-05T16:17:30.887Z",
     "canonical:f4e22ee521bb8e41": "2026-06-05T16:17:30.887Z",
     "canonical:1903ea6b0e57aeaa": "2026-06-06T00:04:30.171Z",
     "canonical:0ef865c3ff3f9f5f": "2026-06-06T00:04:30.171Z",
@@ -971,7 +966,6 @@
     "canonical:7621f3e1f686b2a6": "2026-07-02T12:27:44.176Z",
     "canonical:8dfbe61a4a33e68c": "2026-07-02T12:27:44.176Z",
     "canonical:ca4f44300801a7f8": "2026-07-02T12:27:44.176Z",
-    "canonical:14b5de662f626aec": "2026-07-02T12:27:44.176Z",
     "canonical:e9636b2e40ddfe0f": "2026-07-02T12:27:44.176Z",
     "canonical:1797135f9bfe6a1f": "2026-07-02T13:33:38.399Z",
     "canonical:9bb646dadc8a3588": "2026-07-02T13:33:38.399Z",
@@ -2534,18 +2528,6 @@
       ]
     },
     {
-      "id": "canonical:83cc733d72cbc527",
-      "title": "Legal Intern – Commercial Legal (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7983674?gh_jid=7983674",
-      "location": "In-Office",
-      "department": "",
-      "company": "Cloudflare",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:8cd1b8b92140d848",
       "title": "Network Engineering Intern (Summer 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7917883?gh_jid=7917883",
@@ -2560,7 +2542,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -5197,33 +5179,6 @@
       ]
     },
     {
-      "id": "canonical:8677f44966da23c5",
-      "title": "Secondaries & Primaries Data Science Intern",
-      "url": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/London/Secondaries---Primaries-Data-Science-Intern---July-2026---London_JR1001907",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "Ardian",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:fcfe57824f093788",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/zip/caa5ba75-3b38-4d29-88cd-69a90b01fd6f/application",
-      "location": "Toronto, ON, Canada",
-      "department": "Software",
-      "company": "Zip",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:a5a6f6f8aad4e113",
       "title": "Data Science Intern",
       "url": "https://job-boards.greenhouse.io/msfcareers/jobs/4993728008",
@@ -5985,30 +5940,6 @@
       "location": "Sunnyvale, CA",
       "department": "Software",
       "company": "Fortinet",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:a9776b9ae0321db7",
-      "title": "Business Analytics Intern",
-      "url": "https://careers-axway.icims.com/jobs/8663/job?mobile=true&needsRedirect=false",
-      "location": "Scottsdale, AZ",
-      "department": "AI/ML/Data",
-      "company": "Axway",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:03c15902ae6e4726",
-      "title": "Software Engineering Intern",
-      "url": "https://careers-axway.icims.com/jobs/8659/job?mobile=true&needsRedirect=false",
-      "location": "Scottsdale, AZ",
-      "department": "Software",
-      "company": "Axway",
       "score": 60,
       "scoreReasons": [
         "high-signal role"
@@ -11680,19 +11611,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:14b5de662f626aec",
-      "title": "Intelligence Intern",
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Intelligence-Intern---Fall-2026--Remote-_R29214",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "Crowdstrike",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {

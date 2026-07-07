@@ -1,6 +1,6 @@
 # Open Internships
 
-**1114** internships across **68/68** companies — last updated 2026-07-07.
+**1108** internships across **68/68** companies — last updated 2026-07-07.
 
 ## Companies
 
@@ -37,7 +37,6 @@
 - [AQR](#aqr) (8)
 - [Aquatic](#aquatic) (1)
 - [Aquatic Capital](#aquatic-capital) (1)
-- [Ardian](#ardian) (1)
 - [Arlington County VA](#arlington-county-va) (1)
 - [Arlo](#arlo) (2)
 - [ASML](#asml) (2)
@@ -50,7 +49,6 @@
 - [Avery Dennison](#avery-dennison) (1)
 - [Axiomatic AI](#axiomatic-ai) (2)
 - [AXQ Capital](#axq-capital) (1)
-- [Axway](#axway) (2)
 - [BAE Systems](#bae-systems) (3)
 - [Bank of America](#bank-of-america) (1)
 - [Barkback](#barkback) (1)
@@ -103,7 +101,7 @@
 - [Citadel Securities](#citadel-securities) (9)
 - [Clarity Innovations](#clarity-innovations) (1)
 - [Clera](#clera) (1)
-- [Cloudflare](#cloudflare) (14)
+- [Cloudflare](#cloudflare) (13)
 - [Cloudforce](#cloudforce) (1)
 - [Codeage](#codeage) (1)
 - [Cohere](#cohere) (6)
@@ -118,7 +116,6 @@
 - [Creatify Lab ](#creatify-lab) (1)
 - [Cresta](#cresta) (2)
 - [Cribl](#cribl) (1)
-- [Crowdstrike](#crowdstrike) (1)
 - [Cubist Systematic Strategies](#cubist-systematic-strategies) (1)
 - [Cupertino Electric, Inc.](#cupertino-electric-inc) (1)
 - [d-Matrix](#d-matrix) (1)
@@ -471,7 +468,6 @@
 - [WTW](#wtw) (1)
 - [X Development](#x-development) (1)
 - [XPENG Motors](#xpeng-motors) (2)
-- [Zip](#zip) (1)
 - [Zoox](#zoox) (1)
 
 ## 1Password
@@ -710,12 +706,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/embed/job_app?for=aquaticcapitalmanagement&jr_id=6a06fd77152f493123c4b595&token=8489233002) | 93 | Chicago, IL | — | 2026-05-23 |
 
-## Ardian
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Secondaries & Primaries Data Science Intern](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/London/Secondaries---Primaries-Data-Science-Intern---July-2026---London_JR1001907) | 68 | London, UK | AI/ML/Data | 2026-05-16 |
-
 ## Arlington County VA
 
 | Title | Score | Location | Department | First seen |
@@ -809,13 +799,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Quantitative Research Intern](https://job-boards.greenhouse.io/axq/jobs/5575450004) | 68 | NYC | Quant | 2026-05-09 |
-
-## Axway
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Business Analytics Intern](https://careers-axway.icims.com/jobs/8663/job?mobile=true&needsRedirect=false) | 60 | Scottsdale, AZ | AI/ML/Data | 2026-05-09 |
-| [Software Engineering Intern](https://careers-axway.icims.com/jobs/8659/job?mobile=true&needsRedirect=false) | 60 | Scottsdale, AZ | Software | 2026-05-09 |
 
 ## BAE Systems
 
@@ -1204,9 +1187,8 @@
 | [Technical Support Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8041135?gh_jid=8041135) | 58 | In-Office | — | 2026-07-03 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
 | [Sales Project Manager Intern (AI Innovation) (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8020830?gh_jid=8020830) | 38 | In-Office | — | 2026-06-23 |
-| [Legal Intern – Commercial Legal (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7983674?gh_jid=7983674) | 58 | In-Office | — | 2026-06-05 |
 | [People Team Intern - HR Operations & AI Innovation (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240) | 58 | In-Office | — | 2026-05-20 |
 | [Network Engineering Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7917883?gh_jid=7917883) | 58 | In-Office | — | 2026-05-13 |
 | [Global Trade Compliance Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7799138?gh_jid=7799138) | 58 | In-Office | — | 2026-05-06 |
@@ -1307,12 +1289,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Revenue Enablement Intern](https://cribl.io/job-detail/?gh_jid=5165439004) | 50 | Remote - United States | — | 2026-06-16 |
-
-## Crowdstrike
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Intelligence Intern](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Intelligence-Intern---Fall-2026--Remote-_R29214) | 68 | Remote in USA | AI/ML/Data | 2026-07-02 |
 
 ## Cubist Systematic Strategies
 
@@ -3920,12 +3896,6 @@
 | --- | --- | --- | --- | --- |
 | [AI Infrastructure Onboard Performance Intern](https://job-boards.greenhouse.io/xpengmotors/jobs/8581353002) | 68 | Santa Clara, CA | AI/ML/Data | 2026-06-06 |
 | [VLA Deployment AI Intern](https://job-boards.greenhouse.io/xpengmotors/jobs/8535409002) | 58 | Santa Clara, CA | Hardware | 2026-05-09 |
-
-## Zip
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://jobs.ashbyhq.com/zip/caa5ba75-3b38-4d29-88cd-69a90b01fd6f/application) | 93 | Toronto, ON, Canada | Software | 2026-05-09 |
 
 ## Zoox
 
