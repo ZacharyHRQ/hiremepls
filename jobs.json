@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-07T13:05:33.302Z",
+  "generatedAt": "2026-07-07T15:49:17.557Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1104,
+  "jobCount": 1117,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -797,7 +797,6 @@
     "canonical:21f7860e2eb4a9b1": "2026-06-19T02:17:31.951Z",
     "canonical:e967631c8fecc287": "2026-06-19T02:17:31.951Z",
     "canonical:e31c6f05c180cfcc": "2026-06-19T02:17:31.951Z",
-    "canonical:6dd85ff3ed8dd5dc": "2026-06-19T07:34:45.156Z",
     "canonical:b4321a96d5262a5c": "2026-06-19T17:03:13.004Z",
     "canonical:0d51b143c8459099": "2026-06-20T03:57:11.576Z",
     "canonical:495a5708640f7aa7": "2026-06-20T03:57:11.576Z",
@@ -898,7 +897,6 @@
     "canonical:0c4478959ef1461c": "2026-07-01T06:55:26.212Z",
     "canonical:484207143bb66fd4": "2026-07-01T06:55:26.212Z",
     "canonical:6c76e6238cc83dee": "2026-07-01T06:55:26.212Z",
-    "canonical:0ab29f322f137223": "2026-07-01T06:55:26.212Z",
     "canonical:3c5ef86675f85fd7": "2026-07-01T06:55:26.212Z",
     "canonical:668537c1981afbee": "2026-07-01T06:55:26.212Z",
     "canonical:6e052f0809bb5c01": "2026-07-01T06:55:26.212Z",
@@ -1080,7 +1078,6 @@
     "canonical:806493ec5051ab27": "2026-07-07T00:04:51.849Z",
     "canonical:bc7560e54784ab8d": "2026-07-07T00:04:51.849Z",
     "canonical:e53489573f124bd9": "2026-07-07T00:04:51.849Z",
-    "canonical:c6229a0af7e59d75": "2026-07-07T00:04:51.849Z",
     "canonical:ea9e7fa8ece78c88": "2026-07-07T00:04:51.849Z",
     "canonical:0b356c888be04818": "2026-07-07T04:14:22.126Z",
     "canonical:cda2c4658acd891e": "2026-07-07T04:14:22.126Z",
@@ -1107,7 +1104,23 @@
     "canonical:64ac7308cc2f863f": "2026-07-07T13:05:33.302Z",
     "canonical:016212ee850c24ca": "2026-07-07T13:05:33.302Z",
     "canonical:7307684f4f4925d9": "2026-07-07T13:05:33.302Z",
-    "canonical:4dc5a36b57fb5e32": "2026-07-07T13:05:33.302Z"
+    "canonical:4dc5a36b57fb5e32": "2026-07-07T13:05:33.302Z",
+    "canonical:d8337703468d8565": "2026-07-07T15:49:17.557Z",
+    "canonical:72eb90019d353f27": "2026-07-07T15:49:17.557Z",
+    "canonical:e1503fd0c60390d2": "2026-07-07T15:49:17.557Z",
+    "canonical:0751ad63ace5c42a": "2026-07-07T15:49:17.557Z",
+    "canonical:f17df73a4aae98a8": "2026-07-07T15:49:17.557Z",
+    "canonical:4e243c7cf19c895d": "2026-07-07T15:49:17.557Z",
+    "canonical:93e5acdf67dbb99b": "2026-07-07T15:49:17.557Z",
+    "canonical:c935df1082cc92fc": "2026-07-07T15:49:17.557Z",
+    "canonical:f330847a3d58ab80": "2026-07-07T15:49:17.557Z",
+    "canonical:964f7a45508aa775": "2026-07-07T15:49:17.557Z",
+    "canonical:cdde573bf6670f2a": "2026-07-07T15:49:17.557Z",
+    "canonical:1782ca39c8f2f506": "2026-07-07T15:49:17.557Z",
+    "canonical:5fa72ef79272ee7f": "2026-07-07T15:49:17.557Z",
+    "canonical:fc49ab4fb89dc0f7": "2026-07-07T15:49:17.557Z",
+    "canonical:fc40f2430cbc0575": "2026-07-07T15:49:17.557Z",
+    "canonical:3b11d0f498e6d16f": "2026-07-07T15:49:17.557Z"
   },
   "jobs": [
     {
@@ -1173,6 +1186,147 @@
       "score": 64,
       "scoreReasons": [
         "new grad",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:d8337703468d8565",
+      "title": "2027 - FPGA Intern - IIT Bombay",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4860306101",
+      "location": "Amsterdam, Netherlands; Mumbai, India",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:72eb90019d353f27",
+      "title": "2027 - FPGA Intern - IIT Madras",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4918252101",
+      "location": "Amsterdam, Netherlands; Mumbai, India",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:e1503fd0c60390d2",
+      "title": "2027 - Quant Research Intern - IIT Bombay ",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4860277101",
+      "location": "Amsterdam, Netherlands; Mumbai, India",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:0751ad63ace5c42a",
+      "title": "2027 - Quant Research Intern - IIT Delhi",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917441101",
+      "location": "Amsterdam, Netherlands; Mumbai, India",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f17df73a4aae98a8",
+      "title": "2027 - Quant Research Intern - IIT Kharagpur",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917442101",
+      "location": "Amsterdam, Netherlands; Mumbai, India",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:4e243c7cf19c895d",
+      "title": "2027 - Quant Research Intern - IIT Madras",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917439101",
+      "location": "Amsterdam, Netherlands; Mumbai, India",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:93e5acdf67dbb99b",
+      "title": "2027 - Software Engineering Intern - BITS Pilani",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917549101",
+      "location": "Mumbai, India",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c935df1082cc92fc",
+      "title": "2027 - Software Engineering Intern - IIT Bombay",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4860319101",
+      "location": "Mumbai, India",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f330847a3d58ab80",
+      "title": "2027 - Software Engineering Intern - IIT Delhi",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917535101",
+      "location": "Mumbai, India",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:964f7a45508aa775",
+      "title": "2027 - Software Engineering Intern - IIT Guwahati",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917542101",
+      "location": "Mumbai, India",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:cdde573bf6670f2a",
+      "title": "2027 - Software Engineering Intern - IIT Kharagpur",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917545101",
+      "location": "Mumbai, India",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
         "direct ATS"
       ]
     },
@@ -1333,10 +1487,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1348,10 +1502,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1388,10 +1542,10 @@
       ]
     },
     {
-      "id": "canonical:84f45a7dae90f38f",
+      "id": "canonical:c6603faf4f951b65",
       "title": "Machine Learning Research Intern - Summer 2027",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907430101",
-      "location": "Chicago, United States",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4912874101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 68,
@@ -1401,10 +1555,10 @@
       ]
     },
     {
-      "id": "canonical:c6603faf4f951b65",
+      "id": "canonical:84f45a7dae90f38f",
       "title": "Machine Learning Research Intern - Summer 2027",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4912874101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907430101",
+      "location": "Chicago, United States",
       "department": "",
       "company": "IMC Trading",
       "score": 68,
@@ -1723,10 +1877,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1737,10 +1891,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -6368,6 +6522,18 @@
       ]
     },
     {
+      "id": "canonical:1782ca39c8f2f506",
+      "title": "Collections Data Analyst Intern",
+      "url": "https://careers.tranetechnologies.com/global/en/job/JR-4222",
+      "location": "Winona, MN",
+      "department": "AI/ML/Data",
+      "company": "Trane Technologies",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:afc9f49cbd23b95f",
       "title": "Associate Product Manager Intern",
       "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--September-2026-12-Months-_R10041",
@@ -10218,19 +10384,6 @@
       ]
     },
     {
-      "id": "canonical:6dd85ff3ed8dd5dc",
-      "title": "Engineering Analyst Intern",
-      "url": "https://jobs.smartrecruiters.com/Continental/744000132913026",
-      "location": "Leakey, TX",
-      "department": "AI/ML/Data",
-      "company": "Continental",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:0d51b143c8459099",
       "title": "Software Engineering Intern",
       "url": "https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19500",
@@ -11266,19 +11419,6 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:0ab29f322f137223",
-      "title": "Engineering Intern",
-      "url": "https://tdwilliamson.wd1.myworkdayjobs.com/en-US/TDWCareers/job/USA-OK-Tulsa/Engineering-Intern_REQ-03578",
-      "location": "Tulsa, OK",
-      "department": "Software",
-      "company": "T.D. Williamson",
-      "score": 68,
-      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
@@ -12694,20 +12834,6 @@
       ]
     },
     {
-      "id": "canonical:c6229a0af7e59d75",
-      "title": "Product Engineer Intern",
-      "url": "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/Intern-Product-Engineeer_JR500721",
-      "location": "London, UK",
-      "department": "Software",
-      "company": "Everfox",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:ea9e7fa8ece78c88",
       "title": "Machine Learning Intern - Autonomy",
       "url": "https://www.bluerivertechnology.com/job/?gh_jid=7947246",
@@ -12852,6 +12978,57 @@
       "location": "Burnaby, BC, Canada",
       "department": "Software",
       "company": "Hitachi Energy",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:5fa72ef79272ee7f",
+      "title": "AI Intern",
+      "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Newport-United-Kingdom/AI-Summer-Intern_2638689",
+      "location": "Cardiff, UK",
+      "department": "AI/ML/Data",
+      "company": "KLA Corporation",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:fc49ab4fb89dc0f7",
+      "title": "Off Cycle Intern - Aiden Edge",
+      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Off-Cycle-Intern---Aiden-Edge_R-0000179570",
+      "location": "London, UK",
+      "department": "Software",
+      "company": "Royal Bank of Canada",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:fc40f2430cbc0575",
+      "title": "GIS Intern",
+      "url": "https://careers-kimley-horn.icims.com/jobs/24873/job?mobile=true&needsRedirect=false",
+      "location": "Fort Worth, TX",
+      "department": "AI/ML/Data",
+      "company": "Kimley-Horn",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:3b11d0f498e6d16f",
+      "title": "Alternative Delivery Project Analytics Intern",
+      "url": "https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--IL--Chicago---200-South-Wacker-Drive/Alternative-Delivery-Project-Analytics-Intern_5963-1",
+      "location": "Chicago, IL",
+      "department": "AI/ML/Data",
+      "company": "Global Infrastructure",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
