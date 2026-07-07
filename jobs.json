@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-07T07:52:28.584Z",
+  "generatedAt": "2026-07-07T10:44:47.680Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1102,
+  "jobCount": 1105,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -954,7 +954,6 @@
     "canonical:518f53d8b1c4fc71": "2026-07-02T00:19:11.514Z",
     "canonical:234b0abdc8be0076": "2026-07-02T00:19:11.514Z",
     "canonical:82849cfc4b355f26": "2026-07-02T04:36:39.736Z",
-    "canonical:d3eb69301d09e2c3": "2026-07-02T04:36:39.736Z",
     "canonical:4b874227c78452af": "2026-07-02T04:36:39.736Z",
     "canonical:3db0e00d555fbcb0": "2026-07-02T04:36:39.736Z",
     "canonical:f9523a5462b399ad": "2026-07-02T04:36:39.736Z",
@@ -1105,7 +1104,11 @@
     "canonical:621773561875f0d2": "2026-07-07T07:52:28.584Z",
     "canonical:0daed5c9bb46ac4c": "2026-07-07T07:52:28.584Z",
     "canonical:f37a3bfdec6850a3": "2026-07-07T07:52:28.584Z",
-    "canonical:f58a05acce558c2a": "2026-07-07T07:52:28.584Z"
+    "canonical:f58a05acce558c2a": "2026-07-07T07:52:28.584Z",
+    "canonical:b8b0e01fbecaa929": "2026-07-07T10:44:47.680Z",
+    "canonical:c1817238d89b26e3": "2026-07-07T10:44:47.680Z",
+    "canonical:c5a432d33c885a33": "2026-07-07T10:44:47.680Z",
+    "canonical:53de51dcacdd548d": "2026-07-07T10:44:47.680Z"
   },
   "jobs": [
     {
@@ -1472,10 +1475,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1487,10 +1490,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1862,10 +1865,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1876,10 +1879,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -6769,6 +6772,20 @@
       ]
     },
     {
+      "id": "canonical:b8b0e01fbecaa929",
+      "title": "Security Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/lambda/0663f04c-097d-414f-b0a0-414a7cf153d6/application",
+      "location": "SF",
+      "department": "Software",
+      "company": "Lambda",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:6f2e0452784720f9",
       "title": "Year at Palantir Intern - Forward Deployed Software Engineer",
       "url": "https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019/apply",
@@ -8213,19 +8230,6 @@
       ]
     },
     {
-      "id": "canonical:d3eb69301d09e2c3",
-      "title": "Rendering Software Engineer Intern",
-      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Rendering-Software-Engineer-Intern-Fall-2026/210865",
-      "location": "Orlando, FL",
-      "department": "Software",
-      "company": "Electronic Arts",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:00f76402b372da9e",
       "title": "Photonics Data Engineer Intern - Data Management",
       "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5239489008",
@@ -8547,6 +8551,19 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c1817238d89b26e3",
+      "title": "FP&A Business Intelligence Intern",
+      "url": "https://brambles.wd5.myworkdayjobs.com/en-US/Brambles_Careers/job/London-England-United-Kingdom/FP-A-Business-Intelligence-Intern_JR23946-1",
+      "location": "London, UK / Orlando, FL / Atlanta, GA",
+      "department": "AI/ML/Data",
+      "company": "CHEP",
+      "score": 68,
+      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
@@ -12962,6 +12979,32 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:c5a432d33c885a33",
+      "title": "Analytics Intern",
+      "url": "https://boards.greenhouse.io/orennia/jobs/5277706008",
+      "location": "Calgary, AB, Canada",
+      "department": "AI/ML/Data",
+      "company": "Orennia",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:53de51dcacdd548d",
+      "title": "Software Analyst Intern",
+      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Burnaby-British-Columbia-Canada/Software-Analyst-Intern--Fall-2026--4-8-12-months-_R1012892-1",
+      "location": "Burnaby, BC, Canada",
+      "department": "Software",
+      "company": "Hitachi Energy",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
