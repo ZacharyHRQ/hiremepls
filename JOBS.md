@@ -1,6 +1,6 @@
 # Open Internships
 
-**1086** internships across **68/68** companies — last updated 2026-07-06.
+**1090** internships across **68/68** companies — last updated 2026-07-07.
 
 ## Companies
 
@@ -11,6 +11,7 @@
 - [AccuWeather](#accuweather) (1)
 - [ACI Worldwide ](#aci-worldwide) (1)
 - [ACLU Kentucky](#aclu-kentucky) (1)
+- [Ada](#ada) (1)
 - [Advantmed](#advantmed) (1)
 - [Aechelon Technology](#aechelon-technology) (1)
 - [AeroVironment](#aerovironment) (1)
@@ -65,6 +66,7 @@
 - [Blue & Co., LLC](#blue-co-llc) (1)
 - [Blue Bolt Partners](#blue-bolt-partners) (1)
 - [Blue Cross Blue Shield of Michigan](#blue-cross-blue-shield-of-michigan) (1)
+- [Blue River Technology](#blue-river-technology) (1)
 - [BMO](#bmo) (1)
 - [BNP Paribas](#bnp-paribas) (1)
 - [Bombardier](#bombardier) (1)
@@ -96,7 +98,7 @@
 - [Citadel Securities](#citadel-securities) (10)
 - [Clarity Innovations](#clarity-innovations) (1)
 - [Clera](#clera) (1)
-- [Cloudflare](#cloudflare) (13)
+- [Cloudflare](#cloudflare) (14)
 - [Cloudforce](#cloudforce) (1)
 - [Codeage](#codeage) (1)
 - [Cohere](#cohere) (6)
@@ -148,6 +150,7 @@
 - [Eulerity](#eulerity) (3)
 - [Eurofins](#eurofins) (3)
 - [EV Realty](#ev-realty) (1)
+- [Everfox](#everfox) (2)
 - [Evolver](#evolver) (1)
 - [EXL](#exl) (1)
 - [Expedia Group](#expedia-group) (1)
@@ -172,7 +175,7 @@
 - [Generac](#generac) (2)
 - [General Astronautics](#general-astronautics) (1)
 - [General Dynamics](#general-dynamics) (1)
-- [General Motors](#general-motors) (2)
+- [General Motors](#general-motors) (3)
 - [GenScript](#genscript) (1)
 - [Gensyn](#gensyn) (1)
 - [Genworth](#genworth) (1)
@@ -313,7 +316,7 @@
 - [Perplexity](#perplexity) (3)
 - [Perplexity AI](#perplexity-ai) (1)
 - [Persistent Systems](#persistent-systems) (2)
-- [Phamily](#phamily) (2)
+- [Phamily](#phamily) (1)
 - [Phia](#phia) (1)
 - [Pika](#pika) (1)
 - [Pinterest](#pinterest) (4)
@@ -396,7 +399,7 @@
 - [TENEX.AI](#tenex-ai) (1)
 - [Tenstorrent](#tenstorrent) (7)
 - [Terranox AI](#terranox-ai) (1)
-- [Tesla](#tesla) (95)
+- [Tesla](#tesla) (94)
 - [Tessera Labs](#tessera-labs) (2)
 - [TETRAMEM](#tetramem) (1)
 - [Texas Instruments](#texas-instruments) (1)
@@ -500,6 +503,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Undergraduate Intern - Technology and Analytics Department-Educate Pod](https://job-boards.greenhouse.io/acluinternships/jobs/8612266002) | 68 | NYC | Software | 2026-07-01 |
+
+## Ada
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://job-boards.greenhouse.io/ada18/jobs/5180710007) | 93 | Remote in Canada | Software | 2026-07-07 |
 
 ## Advantmed
 
@@ -892,6 +901,12 @@
 | --- | --- | --- | --- | --- |
 | [IT Intern](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14393) | 60 | Detroit, MI | AI/ML/Data | 2026-07-01 |
 
+## Blue River Technology
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Machine Learning Intern - Autonomy](https://www.bluerivertechnology.com/job/?gh_jid=7947246) | 60 | Santa Clara, CA | AI/ML/Data | 2026-07-07 |
+
 ## BMO
 
 | Title | Score | Location | Department | First seen |
@@ -1139,6 +1154,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8047201) | 93 | Austin, TX | AI/ML/Data | 2026-07-07 |
 | [Data Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8047201?gh_jid=8047201) | 93 | In-Office | — | 2026-07-06 |
 | [AI Builder Intern - Global Customer Engineering - Service Sales](https://boards.greenhouse.io/cloudflare/jobs/8044395) | 48 | London, UK | Software | 2026-07-06 |
 | [AI Builder Intern – Global Customer Engineering, Service Sales (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395) | 38 | In-Office | — | 2026-07-06 |
@@ -1496,6 +1512,13 @@
 | --- | --- | --- | --- | --- |
 | [Data Analytics Intern](https://jobs.lever.co/evrealty-us/0274f48f-9b19-4bed-bf6a-5e02a2b1e865/apply) | 68 | Salt Lake City, UT / SF | AI/ML/Data | 2026-05-22 |
 
+## Everfox
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Product Engineer Intern](https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/Intern-Product-Engineeer_JR500721) | 93 | London, UK | Software | 2026-07-07 |
+| [Product Engineering Intern](https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/UK---London/Product-Intern_JR500719) | 68 | London, UK | Software | 2026-07-07 |
+
 ## Evolver
 
 | Title | Score | Location | Department | First seen |
@@ -1653,6 +1676,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Research and Development Intern - Research & Development: AI/ML](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--AI-ML_JR-202612795) | 68 | Mountain View, CA / Warren, MI | AI/ML/Data | 2026-07-07 |
 | [Research and Development Intern - Research & Development](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development_JR-202613027) | 68 | Warren, MI | AI/ML/Data | 2026-07-06 |
 | [2026 Summer Intern - Software Engineer, Machine Learning Validation (PhD)](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Software-Engineer--Machine-Learning-Validation--PhD-_JR-202523181) | 93 | Mountain View, CA / Sunnyvale, CA | Data Science, AI & Machine Learning | 2026-05-09 |
 
@@ -1924,7 +1948,7 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Silicon Performance Validation and Characterization Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Silicon-Performance-Validation-and-Characterization-Intern_JR0284310) | 58 | Phoenix, AZ | Hardware | 2026-07-04 |
-| [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) | 68 | Hillsboro, OR / Folsom, CA | Hardware | 2026-05-09 |
+| [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) | 68 | Hillsboro, OR / Folsom, CA | — | 2026-05-09 |
 
 ## Intercontinental Exchange, Inc.
 
@@ -2631,7 +2655,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Business Intelligence & Data Analytics Intern - Undergraduate](https://job-boards.greenhouse.io/jobsatphamily/jobs/5281446008) | 68 | NYC | AI/ML/Data | 2026-07-01 |
-| [Machine Learning Intern](https://job-boards.greenhouse.io/jobsatphamily/jobs/5281239008) | 68 | NYC | AI/ML/Data | 2026-07-01 |
 
 ## Phia
 
@@ -3307,7 +3330,6 @@
 | [Software Integration Engineer Intern - Software Integration Engineer - Battery Management Systems](https://www.tesla.com/careers/search/job/270351) | 85 | Palo Alto, CA | Hardware | 2026-06-07 |
 | [Electronics Design Engineer Intern - Reliability Electronics Design Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/272601) | 50 | Palo Alto, CA | Hardware | 2026-06-07 |
 | [Data Engineer Intern - Data Engineer - Energy](https://www.tesla.com/careers/search/job/271331) | 85 | Palo Alto, CA | AI/ML/Data | 2026-06-07 |
-| [Embedded Software Engineer Intern - Embedded Software Engineer - Audio Systems](https://www.tesla.com/careers/search/job/266999) | 85 | Palo Alto, CA | Hardware | 2026-06-07 |
 | [Fullstack Engineer Intern - Fullstack Engineer - Build Infrastructure](https://www.tesla.com/careers/search/job/267005) | 85 | Palo Alto, CA | Software | 2026-06-07 |
 | [Mobile App Software Engineer Intern - Mobile Application Software Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/271382) | 85 | Palo Alto, CA | Software | 2026-06-07 |
 | [Mobile Applications Engineering Intern - Android Engineer - Mobile Software](https://www.tesla.com/careers/search/job/266980) | 85 | Palo Alto, CA | Software | 2026-06-07 |
