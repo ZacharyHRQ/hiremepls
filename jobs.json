@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-08T18:12:56.172Z",
+  "generatedAt": "2026-07-08T19:54:55.618Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1120,
+  "jobCount": 1117,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1058,8 +1058,6 @@
     "canonical:921f9042df4a3acf": "2026-07-07T04:14:22.126Z",
     "canonical:0ae14fe9fb32d995": "2026-07-07T04:14:22.126Z",
     "canonical:621773561875f0d2": "2026-07-07T07:52:28.584Z",
-    "canonical:0daed5c9bb46ac4c": "2026-07-07T07:52:28.584Z",
-    "canonical:f37a3bfdec6850a3": "2026-07-07T07:52:28.584Z",
     "canonical:f58a05acce558c2a": "2026-07-07T07:52:28.584Z",
     "canonical:b8b0e01fbecaa929": "2026-07-07T10:44:47.680Z",
     "canonical:c1817238d89b26e3": "2026-07-07T10:44:47.680Z",
@@ -1106,7 +1104,6 @@
     "canonical:a1e2b3c5471c5983": "2026-07-07T23:26:57.673Z",
     "canonical:e6967e910537de21": "2026-07-07T23:26:57.673Z",
     "canonical:cb6ec0e16b9f5a51": "2026-07-07T23:26:57.673Z",
-    "canonical:905ca4c671109896": "2026-07-07T23:26:57.673Z",
     "canonical:cb8d735868564283": "2026-07-07T23:26:57.673Z",
     "canonical:7762fcb416cff1c1": "2026-07-07T23:26:57.673Z",
     "canonical:1f05dd365577984d": "2026-07-08T04:12:01.868Z",
@@ -12752,32 +12749,6 @@
       ]
     },
     {
-      "id": "canonical:0daed5c9bb46ac4c",
-      "title": "Software Analyst Intern",
-      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1012739-1",
-      "location": "Scarborough, ON, Canada",
-      "department": "Software",
-      "company": "Hitachi",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:f37a3bfdec6850a3",
-      "title": "ALM Scripting & Reporting Intern",
-      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/ALM-Scripting---Reporting-Intern_R1012816-1",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Hitachi",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:f58a05acce558c2a",
       "title": "Software Engineer Intern",
       "url": "https://cra.com/job-listings/job?gh_jid=8047653",
@@ -12991,19 +12962,6 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:905ca4c671109896",
-      "title": "Software Engineering Intern",
-      "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Round-Rock/Software-Engineer-Intern_2026-21720",
-      "location": "Round Rock, TX",
-      "department": "Software",
-      "company": "Schweitzer Engineering Laboratories",
-      "score": 68,
-      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
