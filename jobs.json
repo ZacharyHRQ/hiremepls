@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T19:54:55.618Z",
+  "generatedAt": "2026-07-08T20:56:03.047Z",
   "companyCount": 68,
   "okCount": 68,
   "jobCount": 1117,
@@ -1040,7 +1040,6 @@
     "canonical:80cca71dae305229": "2026-07-06T16:08:02.314Z",
     "canonical:33468546ec21eeb5": "2026-07-06T16:08:02.314Z",
     "canonical:e96e92d816fbd3c6": "2026-07-06T16:08:02.314Z",
-    "canonical:da87288c0ea9e2ba": "2026-07-06T16:08:02.314Z",
     "canonical:941d02dc047a74b1": "2026-07-06T16:08:02.314Z",
     "canonical:279186003d098051": "2026-07-06T16:08:02.314Z",
     "canonical:70d6d85016f5db82": "2026-07-06T16:08:02.314Z",
@@ -1120,7 +1119,8 @@
     "canonical:6ea6c17f49efe765": "2026-07-08T16:49:50.978Z",
     "canonical:f69a41ff30586716": "2026-07-08T16:49:50.978Z",
     "canonical:667b5698149e2acb": "2026-07-08T16:49:50.978Z",
-    "canonical:e0edc01bc9267394": "2026-07-08T16:49:50.978Z"
+    "canonical:e0edc01bc9267394": "2026-07-08T16:49:50.978Z",
+    "canonical:e1a5f05e6336ffe6": "2026-07-08T20:56:03.047Z"
   },
   "jobs": [
     {
@@ -1497,10 +1497,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1512,10 +1512,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1887,10 +1887,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1901,10 +1901,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -2522,8 +2522,8 @@
       ]
     },
     {
-      "id": "canonical:da87288c0ea9e2ba",
-      "title": "AI Builder Intern – Global Customer Engineering, Service Sales (Fall 2026)",
+      "id": "canonical:e1a5f05e6336ffe6",
+      "title": "AI Transformation Intern – Global Customer Engineering, Service Sales (Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395",
       "location": "In-Office",
       "department": "",
@@ -2563,7 +2563,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
