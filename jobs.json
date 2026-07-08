@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T09:11:17.693Z",
+  "generatedAt": "2026-07-08T11:15:17.759Z",
   "companyCount": 68,
   "okCount": 68,
   "jobCount": 1120,
@@ -1100,7 +1100,6 @@
     "canonical:cdde573bf6670f2a": "2026-07-07T15:49:17.557Z",
     "canonical:1782ca39c8f2f506": "2026-07-07T15:49:17.557Z",
     "canonical:5fa72ef79272ee7f": "2026-07-07T15:49:17.557Z",
-    "canonical:fc49ab4fb89dc0f7": "2026-07-07T15:49:17.557Z",
     "canonical:fc40f2430cbc0575": "2026-07-07T15:49:17.557Z",
     "canonical:3b11d0f498e6d16f": "2026-07-07T15:49:17.557Z",
     "canonical:ca225b03436f081a": "2026-07-07T23:26:57.673Z",
@@ -1123,7 +1122,8 @@
     "canonical:7762fcb416cff1c1": "2026-07-07T23:26:57.673Z",
     "canonical:1f05dd365577984d": "2026-07-08T04:12:01.868Z",
     "canonical:8076253cd145ab02": "2026-07-08T04:12:01.868Z",
-    "canonical:7cd65dbc34efa0fa": "2026-07-08T09:11:17.693Z"
+    "canonical:7cd65dbc34efa0fa": "2026-07-08T09:11:17.693Z",
+    "canonical:19b12c58b01a9a65": "2026-07-08T11:15:17.759Z"
   },
   "jobs": [
     {
@@ -12843,19 +12843,6 @@
       ]
     },
     {
-      "id": "canonical:fc49ab4fb89dc0f7",
-      "title": "Off Cycle Intern - Aiden Edge",
-      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Off-Cycle-Intern---Aiden-Edge_R-0000179570",
-      "location": "London, UK",
-      "department": "Software",
-      "company": "Royal Bank of Canada",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:fc40f2430cbc0575",
       "title": "GIS Intern",
       "url": "https://careers-kimley-horn.icims.com/jobs/24873/job?mobile=true&needsRedirect=false",
@@ -13081,6 +13068,20 @@
       "company": "Democratic Governors Association",
       "score": 68,
       "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:19b12c58b01a9a65",
+      "title": "Performance Engineer Intern - Systems Software",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
+      "location": "St. Louis, MO",
+      "department": "Software",
+      "company": "NVIDIA",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
