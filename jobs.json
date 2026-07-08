@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-08T16:49:50.978Z",
+  "generatedAt": "2026-07-08T18:12:56.172Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1123,
+  "jobCount": 1120,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -466,7 +466,6 @@
     "canonical:688706088beffa8d": "2026-05-20T01:49:18.107Z",
     "canonical:ec7947b941c678b5": "2026-05-20T05:58:26.449Z",
     "canonical:662cd93e03a48f7c": "2026-05-20T05:58:26.449Z",
-    "canonical:5256dbf0abe724a6": "2026-05-20T12:10:44.642Z",
     "canonical:7f419ef77a740af3": "2026-05-20T12:10:44.642Z",
     "canonical:20eefe09e12c4c97": "2026-05-20T15:54:33.666Z",
     "canonical:58a0ad72fc379a2e": "2026-05-20T15:54:33.666Z",
@@ -784,7 +783,6 @@
     "canonical:296035cd95b6d0a8": "2026-06-18T17:39:20.618Z",
     "canonical:285adf5b37989c57": "2026-06-18T17:39:20.618Z",
     "canonical:21f7860e2eb4a9b1": "2026-06-19T02:17:31.951Z",
-    "canonical:e967631c8fecc287": "2026-06-19T02:17:31.951Z",
     "canonical:e31c6f05c180cfcc": "2026-06-19T02:17:31.951Z",
     "canonical:b4321a96d5262a5c": "2026-06-19T17:03:13.004Z",
     "canonical:0d51b143c8459099": "2026-06-20T03:57:11.576Z",
@@ -879,7 +877,6 @@
     "canonical:6cdeade3596dab85": "2026-07-01T06:55:26.212Z",
     "canonical:0b23a476235f95ad": "2026-07-01T06:55:26.212Z",
     "canonical:29e5d4f961b72298": "2026-07-01T06:55:26.212Z",
-    "canonical:40ee1726e01d11c7": "2026-07-01T06:55:26.212Z",
     "canonical:47f0801aa05d3039": "2026-07-01T06:55:26.212Z",
     "canonical:0c4478959ef1461c": "2026-07-01T06:55:26.212Z",
     "canonical:484207143bb66fd4": "2026-07-01T06:55:26.212Z",
@@ -2569,7 +2566,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -7113,16 +7110,6 @@
       ]
     },
     {
-      "id": "canonical:5256dbf0abe724a6",
-      "title": "ASIC Verification Intern",
-      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36281",
-      "location": "Ottawa, ON, Canada",
-      "department": "Hardware",
-      "company": "Nokia",
-      "score": 50,
-      "scoreReasons": []
-    },
-    {
       "id": "canonical:7f419ef77a740af3",
       "title": "Embedded C/C++ Software Developer Co-op/Intern",
       "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35268",
@@ -10267,19 +10254,6 @@
       "scoreReasons": []
     },
     {
-      "id": "canonical:e967631c8fecc287",
-      "title": "Engineering Intern",
-      "url": "https://boards.greenhouse.io/bugcrowd/jobs/8016582",
-      "location": "Remote in USA",
-      "department": "Software",
-      "company": "Bugcrowd",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:11b276e5677a2970",
       "title": "AI Engineer Intern",
       "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---AI-Engineer_R22763",
@@ -11253,20 +11227,6 @@
       "company": "Kensington",
       "score": 58,
       "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:40ee1726e01d11c7",
-      "title": "Software Engineer Intern",
-      "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Engineering-Intern--Year-Round-_R2026-2448-1",
-      "location": "Auburn Hills, MI",
-      "department": "Hardware",
-      "company": "BorgWarner",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
         "direct ATS"
       ]
     },

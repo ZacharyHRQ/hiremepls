@@ -1,6 +1,6 @@
 # Open Internships
 
-**1123** internships across **68/68** companies — last updated 2026-07-08.
+**1120** internships across **68/68** companies — last updated 2026-07-08.
 
 ## Companies
 
@@ -73,7 +73,6 @@
 - [BMO](#bmo) (1)
 - [BNP Paribas](#bnp-paribas) (1)
 - [Bombardier](#bombardier) (1)
-- [BorgWarner](#borgwarner) (1)
 - [Bosch](#bosch) (2)
 - [Bosch Home Comfort](#bosch-home-comfort) (4)
 - [Boston Consulting Group](#boston-consulting-group) (2)
@@ -84,7 +83,6 @@
 - [Brookfield](#brookfield) (1)
 - [Brunswick](#brunswick) (1)
 - [BSE Global](#bse-global) (1)
-- [Bugcrowd](#bugcrowd) (1)
 - [ByteDance](#bytedance) (31)
 - [Cadence Design Systems](#cadence-design-systems) (2)
 - [Capella](#capella) (2)
@@ -300,7 +298,7 @@
 - [Nio](#nio) (1)
 - [Nissan Global](#nissan-global) (1)
 - [Niural](#niural) (1)
-- [Nokia](#nokia) (9)
+- [Nokia](#nokia) (8)
 - [Northwestern Mutual](#northwestern-mutual) (2)
 - [Notion](#notion) (5)
 - [Nuro](#nuro) (1)
@@ -960,12 +958,6 @@
 | --- | --- | --- | --- | --- |
 | [Quality Assurance Intern](https://jobright.ai/jobs/info/685b0b721fe76f13ca7b5d52?utm_source=1099&utm_campaign=Software%20Engineer) | 42 | Red Oak, TX | — | 2026-05-16 |
 
-## BorgWarner
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Engineering-Intern--Year-Round-_R2026-2448-1) | 93 | Auburn Hills, MI | Hardware | 2026-07-01 |
-
 ## Bosch
 
 | Title | Score | Location | Department | First seen |
@@ -1030,12 +1022,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Ticket Strategy & Analytics Intern](https://www.bseglobal.net/job/?gh_jid=7637035003&gh_jid=7637035003) | 60 | Brooklyn, NY | AI/ML/Data | 2026-07-01 |
-
-## Bugcrowd
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Engineering Intern](https://boards.greenhouse.io/bugcrowd/jobs/8016582) | 68 | Remote in USA | Software | 2026-06-19 |
 
 ## ByteDance
 
@@ -1217,7 +1203,7 @@
 | [Technical Support Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8041135?gh_jid=8041135) | 58 | In-Office | — | 2026-07-03 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
 | [Sales Project Manager Intern (AI Innovation) (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8020830?gh_jid=8020830) | 38 | In-Office | — | 2026-06-23 |
 | [People Team Intern - HR Operations & AI Innovation (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240) | 58 | In-Office | — | 2026-05-20 |
 | [Global Trade Compliance Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7799138?gh_jid=7799138) | 58 | In-Office | — | 2026-05-06 |
@@ -2545,7 +2531,6 @@
 | [IT Network Software/AI Development Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34296) | 60 | Ottawa, ON, Canada | AI/ML/Data | 2026-06-11 |
 | [Product Development Intern/Co-op](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34184) | 50 | Ottawa, ON, Canada | Product | 2026-06-11 |
 | [Embedded C/C++ Software Developer Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35268) | 85 | Ottawa, ON, Canada | Hardware | 2026-05-20 |
-| [ASIC Verification Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36281) | 50 | Ottawa, ON, Canada | Hardware | 2026-05-20 |
 | [Support Software Developer Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34551) | 85 | Ottawa, ON, Canada | Software | 2026-05-09 |
 | [Data Science Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34327) | 60 | Ottawa, ON, Canada | AI/ML/Data | 2026-05-09 |
 | [IP R&D Lab Technologist Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34806) | 60 | Kanata, Ottawa, ON, Canada | Software | 2026-05-09 |
