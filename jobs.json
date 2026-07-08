@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T06:37:33.340Z",
+  "generatedAt": "2026-07-08T09:11:17.693Z",
   "companyCount": 68,
   "okCount": 68,
   "jobCount": 1120,
@@ -940,7 +940,6 @@
     "canonical:82849cfc4b355f26": "2026-07-02T04:36:39.736Z",
     "canonical:4b874227c78452af": "2026-07-02T04:36:39.736Z",
     "canonical:3db0e00d555fbcb0": "2026-07-02T04:36:39.736Z",
-    "canonical:f9523a5462b399ad": "2026-07-02T04:36:39.736Z",
     "canonical:4aeb2d33b626d0ff": "2026-07-02T04:36:39.736Z",
     "canonical:dac83ccb1e51252c": "2026-07-02T04:36:39.736Z",
     "canonical:2cd2cb418fd4c476": "2026-07-02T04:36:39.736Z",
@@ -1123,7 +1122,8 @@
     "canonical:cb8d735868564283": "2026-07-07T23:26:57.673Z",
     "canonical:7762fcb416cff1c1": "2026-07-07T23:26:57.673Z",
     "canonical:1f05dd365577984d": "2026-07-08T04:12:01.868Z",
-    "canonical:8076253cd145ab02": "2026-07-08T04:12:01.868Z"
+    "canonical:8076253cd145ab02": "2026-07-08T04:12:01.868Z",
+    "canonical:7cd65dbc34efa0fa": "2026-07-08T09:11:17.693Z"
   },
   "jobs": [
     {
@@ -1490,10 +1490,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1505,10 +1505,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1880,10 +1880,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1894,10 +1894,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -11776,19 +11776,6 @@
       ]
     },
     {
-      "id": "canonical:f9523a5462b399ad",
-      "title": "Investment Analyst Intern",
-      "url": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/Investment-Analyst-Intern_R174949",
-      "location": "Salt Lake City, UT",
-      "department": "Quant",
-      "company": "Intermountain Healthcare",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:4aeb2d33b626d0ff",
       "title": "Frontend Software Engineer Project Intern - Global CRM",
       "url": "https://lifeattiktok.com/search/7654431844394322229",
@@ -12202,6 +12189,18 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:7cd65dbc34efa0fa",
+      "title": "Skillbridge Intern - Product Manager",
+      "url": "https://job-boards.greenhouse.io/rise8/jobs/4359627007",
+      "location": "Remote in USA",
+      "department": "Product",
+      "company": "Rise8",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
       ]
     },
     {
