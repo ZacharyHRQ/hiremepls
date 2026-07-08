@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-08T12:56:52.867Z",
+  "generatedAt": "2026-07-08T15:14:34.101Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1121,
+  "jobCount": 1122,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1005,7 +1005,6 @@
     "canonical:c24fa2c293373870": "2026-07-04T11:17:02.191Z",
     "canonical:4168fcd2f5f91a08": "2026-07-04T11:17:02.191Z",
     "canonical:f27c30f5eef5d1fb": "2026-07-04T11:17:02.191Z",
-    "canonical:62be2f7552517660": "2026-07-04T11:17:02.191Z",
     "canonical:6a54db97364bf00a": "2026-07-04T12:39:15.733Z",
     "canonical:71f4c1680b019759": "2026-07-04T12:39:15.733Z",
     "canonical:ed9a44e022b031bf": "2026-07-04T12:39:15.733Z",
@@ -1098,7 +1097,6 @@
     "canonical:cdde573bf6670f2a": "2026-07-07T15:49:17.557Z",
     "canonical:1782ca39c8f2f506": "2026-07-07T15:49:17.557Z",
     "canonical:5fa72ef79272ee7f": "2026-07-07T15:49:17.557Z",
-    "canonical:fc40f2430cbc0575": "2026-07-07T15:49:17.557Z",
     "canonical:3b11d0f498e6d16f": "2026-07-07T15:49:17.557Z",
     "canonical:ca225b03436f081a": "2026-07-07T23:26:57.673Z",
     "canonical:761db21fd7aa5b3e": "2026-07-07T23:26:57.673Z",
@@ -1124,7 +1122,10 @@
     "canonical:19b12c58b01a9a65": "2026-07-08T11:15:17.759Z",
     "canonical:e8038afc6e3ca5c9": "2026-07-08T12:56:52.867Z",
     "canonical:de7479fb94f4eba6": "2026-07-08T12:56:52.867Z",
-    "canonical:d38a19b86e0e791b": "2026-07-08T12:56:52.867Z"
+    "canonical:d38a19b86e0e791b": "2026-07-08T12:56:52.867Z",
+    "canonical:8385aa46301105a2": "2026-07-08T15:14:34.101Z",
+    "canonical:1cb970dd90b802db": "2026-07-08T15:14:34.101Z",
+    "canonical:8c935951a6123066": "2026-07-08T15:14:34.101Z"
   },
   "jobs": [
     {
@@ -1166,6 +1167,16 @@
       "scoreReasons": [
         "new grad"
       ]
+    },
+    {
+      "id": "canonical:8385aa46301105a2",
+      "title": "Operations Intern (Fall)",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=8050436&gh_jid=8050436",
+      "location": "Montreal",
+      "department": "",
+      "company": "Squarepoint Capital",
+      "score": 50,
+      "scoreReasons": []
     },
     {
       "id": "canonical:51d519ad65d99582",
@@ -1491,10 +1502,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1506,10 +1517,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1881,10 +1892,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1895,10 +1906,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -9608,6 +9619,19 @@
       ]
     },
     {
+      "id": "canonical:1cb970dd90b802db",
+      "title": "Research and Development Intern - Research & Development: AI/ML",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--AI-ML_JR-202612795",
+      "location": "Mountain View, CA / Warren, MI",
+      "department": "AI/ML/Data",
+      "company": "General Motors",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:761db21fd7aa5b3e",
       "title": "Characterization and Support Intern",
       "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Intern---Characterization-and-Support_R54998",
@@ -10861,20 +10885,6 @@
       "location": "SF",
       "department": "Software",
       "company": "Clera",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:62be2f7552517660",
-      "title": "Software Engineer Intern - Software Engineer",
-      "url": "https://job-boards.greenhouse.io/rise8/jobs/4359623007",
-      "location": "Remote in USA",
-      "department": "Software",
-      "company": "Rise8",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -12845,18 +12855,6 @@
       ]
     },
     {
-      "id": "canonical:fc40f2430cbc0575",
-      "title": "GIS Intern",
-      "url": "https://careers-kimley-horn.icims.com/jobs/24873/job?mobile=true&needsRedirect=false",
-      "location": "Fort Worth, TX",
-      "department": "AI/ML/Data",
-      "company": "Kimley-Horn",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:3b11d0f498e6d16f",
       "title": "Alternative Delivery Project Analytics Intern",
       "url": "https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--IL--Chicago---200-South-Wacker-Drive/Alternative-Delivery-Project-Analytics-Intern_5963-1",
@@ -13098,6 +13096,18 @@
       "score": 68,
       "scoreReasons": [
         "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:8c935951a6123066",
+      "title": "System Integration & Test Integration, Verification, Validation & Qualification Intern",
+      "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Cheadle/SI-T-IVVQ-Intern_R0329325-1",
+      "location": "Trafford, UK",
+      "department": "Hardware",
+      "company": "Thales",
+      "score": 58,
+      "scoreReasons": [
         "direct ATS"
       ]
     },
