@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-08T15:14:34.101Z",
+  "generatedAt": "2026-07-08T16:49:50.978Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1122,
+  "jobCount": 1123,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -912,13 +912,11 @@
     "canonical:3e99f48994d7f7b8": "2026-07-01T13:21:48.812Z",
     "canonical:ec6c557283333a45": "2026-07-01T13:21:48.812Z",
     "canonical:338818c406e2b9a5": "2026-07-01T18:14:22.942Z",
-    "canonical:8ea3263defb2b606": "2026-07-01T18:14:22.942Z",
     "canonical:09bbbe30e614c9ef": "2026-07-01T18:14:22.942Z",
     "canonical:aed6e39f04021bb3": "2026-07-01T18:14:22.942Z",
     "canonical:a4e54a5c68982c9d": "2026-07-01T18:14:22.942Z",
     "canonical:cc5154b2bc1dc1f6": "2026-07-01T18:14:22.942Z",
     "canonical:f1f2fa99846601a7": "2026-07-01T18:14:22.942Z",
-    "canonical:84f45a7dae90f38f": "2026-07-01T18:14:22.942Z",
     "canonical:88faa15c5f596e22": "2026-07-01T18:14:22.942Z",
     "canonical:55972a1153711241": "2026-07-01T18:14:22.942Z",
     "canonical:92939b33efdb99ec": "2026-07-01T18:14:22.942Z",
@@ -1049,8 +1047,6 @@
     "canonical:941d02dc047a74b1": "2026-07-06T16:08:02.314Z",
     "canonical:279186003d098051": "2026-07-06T16:08:02.314Z",
     "canonical:70d6d85016f5db82": "2026-07-06T16:08:02.314Z",
-    "canonical:1c0150cb207ca9fe": "2026-07-06T18:19:42.230Z",
-    "canonical:c6603faf4f951b65": "2026-07-06T18:19:42.230Z",
     "canonical:7a1d89f9f5257594": "2026-07-06T21:52:11.680Z",
     "canonical:a12772f2bf1637b3": "2026-07-06T22:57:31.301Z",
     "canonical:64fbf70d13de7189": "2026-07-06T22:57:31.301Z",
@@ -1125,7 +1121,12 @@
     "canonical:d38a19b86e0e791b": "2026-07-08T12:56:52.867Z",
     "canonical:8385aa46301105a2": "2026-07-08T15:14:34.101Z",
     "canonical:1cb970dd90b802db": "2026-07-08T15:14:34.101Z",
-    "canonical:8c935951a6123066": "2026-07-08T15:14:34.101Z"
+    "canonical:8c935951a6123066": "2026-07-08T15:14:34.101Z",
+    "canonical:71c04954bfd630da": "2026-07-08T16:49:50.978Z",
+    "canonical:6ea6c17f49efe765": "2026-07-08T16:49:50.978Z",
+    "canonical:f69a41ff30586716": "2026-07-08T16:49:50.978Z",
+    "canonical:667b5698149e2acb": "2026-07-08T16:49:50.978Z",
+    "canonical:e0edc01bc9267394": "2026-07-08T16:49:50.978Z"
   },
   "jobs": [
     {
@@ -1398,10 +1399,10 @@
       ]
     },
     {
-      "id": "canonical:1c0150cb207ca9fe",
-      "title": " Graduate Machine Learning Researcher",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4914883101",
-      "location": "London, United Kingdom",
+      "id": "canonical:71c04954bfd630da",
+      "title": "Graduate Machine Learning Researcher - Chicago",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907416101",
+      "location": "Chicago, United States",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1413,10 +1414,10 @@
       ]
     },
     {
-      "id": "canonical:8ea3263defb2b606",
-      "title": "Graduate Machine Learning Researcher",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907416101",
-      "location": "Chicago, United States",
+      "id": "canonical:6ea6c17f49efe765",
+      "title": " Graduate Machine Learning Researcher - London",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4914883101",
+      "location": "London, United Kingdom",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1502,10 +1503,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1517,10 +1518,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1557,8 +1558,8 @@
       ]
     },
     {
-      "id": "canonical:c6603faf4f951b65",
-      "title": "Machine Learning Research Intern - Summer 2027",
+      "id": "canonical:f69a41ff30586716",
+      "title": "Machine Learning Research Intern - Summer 2027 - Amsterdam",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4912874101",
       "location": "Amsterdam, Netherlands",
       "department": "",
@@ -1570,8 +1571,8 @@
       ]
     },
     {
-      "id": "canonical:84f45a7dae90f38f",
-      "title": "Machine Learning Research Intern - Summer 2027",
+      "id": "canonical:667b5698149e2acb",
+      "title": "Machine Learning Research Intern - Summer 2027 - Chicago",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907430101",
       "location": "Chicago, United States",
       "department": "",
@@ -1892,10 +1893,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1906,10 +1907,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -2429,6 +2430,20 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS",
+        "unknown location"
+      ]
+    },
+    {
+      "id": "canonical:e0edc01bc9267394",
+      "title": "Partner Marketing Intern - Paris ",
+      "url": "https://jobs.ashbyhq.com/snowflake/54c27993-5827-4a03-80c8-cc5f02b960f9",
+      "location": "",
+      "department": "",
+      "company": "Snowflake",
+      "score": 35,
+      "scoreReasons": [
+        "direct ATS",
+        "lower-fit title",
         "unknown location"
       ]
     },
