@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-08T04:12:01.868Z",
+  "generatedAt": "2026-07-08T06:37:33.340Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1122,
+  "jobCount": 1120,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -849,7 +849,6 @@
     "canonical:11b276e5677a2970": "2026-07-01T06:55:26.212Z",
     "canonical:219acace20b359c4": "2026-07-01T06:55:26.212Z",
     "canonical:ad9df2e5b0e5d395": "2026-07-01T06:55:26.212Z",
-    "canonical:1bb808b2044d82c9": "2026-07-01T06:55:26.212Z",
     "canonical:93491aade761927e": "2026-07-01T06:55:26.212Z",
     "canonical:449b39e3baa7b17a": "2026-07-01T06:55:26.212Z",
     "canonical:2f127a7c6f9ba9ec": "2026-07-01T06:55:26.212Z",
@@ -1026,7 +1025,6 @@
     "canonical:69629f2e556a8b42": "2026-07-04T15:29:35.645Z",
     "canonical:afa2d46863565441": "2026-07-04T15:29:35.645Z",
     "canonical:0b183a378a19c53a": "2026-07-04T15:29:35.645Z",
-    "canonical:7cd65dbc34efa0fa": "2026-07-04T23:41:22.331Z",
     "canonical:133608b1bfb1c38e": "2026-07-05T12:02:21.039Z",
     "canonical:a54dfaa9c2670ee3": "2026-07-05T12:02:21.039Z",
     "canonical:ec23121dc644d031": "2026-07-05T12:02:21.039Z",
@@ -10815,19 +10813,6 @@
       ]
     },
     {
-      "id": "canonical:1bb808b2044d82c9",
-      "title": "AI Intern",
-      "url": "https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/AI-Intern_R-5994-1",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "TMX Group",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:93491aade761927e",
       "title": "Data Scientist Intern",
       "url": "https://nuro.ai/careersitem?gh_jid=7594577",
@@ -12217,18 +12202,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:7cd65dbc34efa0fa",
-      "title": "Skillbridge Intern - Product Manager",
-      "url": "https://job-boards.greenhouse.io/rise8/jobs/4359627007",
-      "location": "Remote in USA",
-      "department": "Product",
-      "company": "Rise8",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
       ]
     },
     {
