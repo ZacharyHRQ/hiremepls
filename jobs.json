@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-08T00:57:47.943Z",
+  "generatedAt": "2026-07-08T04:12:01.868Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1120,
+  "jobCount": 1122,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -1123,7 +1123,9 @@
     "canonical:cb6ec0e16b9f5a51": "2026-07-07T23:26:57.673Z",
     "canonical:905ca4c671109896": "2026-07-07T23:26:57.673Z",
     "canonical:cb8d735868564283": "2026-07-07T23:26:57.673Z",
-    "canonical:7762fcb416cff1c1": "2026-07-07T23:26:57.673Z"
+    "canonical:7762fcb416cff1c1": "2026-07-07T23:26:57.673Z",
+    "canonical:1f05dd365577984d": "2026-07-08T04:12:01.868Z",
+    "canonical:8076253cd145ab02": "2026-07-08T04:12:01.868Z"
   },
   "jobs": [
     {
@@ -2542,7 +2544,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -12092,6 +12094,20 @@
       ]
     },
     {
+      "id": "canonical:1f05dd365577984d",
+      "title": "Data Engineer Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/DTCO-Data-Engineer-Intern_JR0285341",
+      "location": "Austin, TX",
+      "department": "AI/ML/Data",
+      "company": "Intel",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:1eacbad0d2fdf9c5",
       "title": "Deep Learning Engineer Intern",
       "url": "https://job-boards.greenhouse.io/botauto/jobs/5289440008",
@@ -13080,6 +13096,19 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:8076253cd145ab02",
+      "title": "Data and Coding Intern",
+      "url": "https://jobs.lever.co/dga/cc41da12-5af0-41b6-b85e-301af4868bca/apply",
+      "location": "Washington, DC",
+      "department": "AI/ML/Data",
+      "company": "Democratic Governors Association",
+      "score": 68,
+      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
