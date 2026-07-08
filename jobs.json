@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-08T20:56:03.047Z",
+  "generatedAt": "2026-07-08T21:59:46.351Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1117,
+  "jobCount": 1126,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -511,7 +511,6 @@
     "canonical:e2cbec72bcde74c4": "2026-05-24T16:41:35.666Z",
     "canonical:20d737f207a14cbf": "2026-05-26T14:46:38.147Z",
     "canonical:0e419b8e484c38cb": "2026-05-26T22:48:29.543Z",
-    "canonical:404dd904de91e8a9": "2026-05-26T22:48:29.543Z",
     "canonical:ae629747d79357a8": "2026-05-26T23:56:50.661Z",
     "canonical:2ffb9525477b9f1d": "2026-05-26T23:56:50.661Z",
     "canonical:0909350769decf2b": "2026-05-27T02:52:54.000Z",
@@ -641,7 +640,6 @@
     "canonical:076e3be098a2cf4c": "2026-06-07T09:43:12.130Z",
     "canonical:85799d0d89993d7a": "2026-06-07T09:43:12.130Z",
     "canonical:5a67a98fabd00752": "2026-06-07T09:43:12.130Z",
-    "canonical:9153a2e708c3ca4b": "2026-06-07T09:43:12.130Z",
     "canonical:e1fc578a71540223": "2026-06-07T09:43:12.130Z",
     "canonical:681b4aad01eba811": "2026-06-08T07:01:35.019Z",
     "canonical:6a31e02dabc1e1c0": "2026-06-08T07:01:35.019Z",
@@ -1120,7 +1118,18 @@
     "canonical:f69a41ff30586716": "2026-07-08T16:49:50.978Z",
     "canonical:667b5698149e2acb": "2026-07-08T16:49:50.978Z",
     "canonical:e0edc01bc9267394": "2026-07-08T16:49:50.978Z",
-    "canonical:e1a5f05e6336ffe6": "2026-07-08T20:56:03.047Z"
+    "canonical:e1a5f05e6336ffe6": "2026-07-08T20:56:03.047Z",
+    "canonical:ad09295d2e80859c": "2026-07-08T21:59:46.351Z",
+    "canonical:560117e6223bbc44": "2026-07-08T21:59:46.351Z",
+    "canonical:9750bf54b300cf9e": "2026-07-08T21:59:46.351Z",
+    "canonical:d1d20c5456576574": "2026-07-08T21:59:46.351Z",
+    "canonical:b64de5fd09122dce": "2026-07-08T21:59:46.351Z",
+    "canonical:0e834d6e9f3e478a": "2026-07-08T21:59:46.351Z",
+    "canonical:5e43dcd8de568dde": "2026-07-08T21:59:46.351Z",
+    "canonical:fe88e70c975c6d4f": "2026-07-08T21:59:46.351Z",
+    "canonical:aa053f6ba830d433": "2026-07-08T21:59:46.351Z",
+    "canonical:3b590c340646bfa7": "2026-07-08T21:59:46.351Z",
+    "canonical:7286f2830b7e7578": "2026-07-08T21:59:46.351Z"
   },
   "jobs": [
     {
@@ -1497,10 +1506,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1512,10 +1521,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1631,6 +1640,42 @@
       ]
     },
     {
+      "id": "canonical:ad09295d2e80859c",
+      "title": "Campus AI Research Engineer - Deep Learning (Intern)",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8052338",
+      "location": "Chicago; New York",
+      "department": "",
+      "company": "Jump Trading",
+      "score": 75,
+      "scoreReasons": [
+        "SWE-aligned"
+      ]
+    },
+    {
+      "id": "canonical:560117e6223bbc44",
+      "title": "Campus AI Research Engineer (Intern)",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8052281",
+      "location": "Chicago; New York",
+      "department": "",
+      "company": "Jump Trading",
+      "score": 75,
+      "scoreReasons": [
+        "SWE-aligned"
+      ]
+    },
+    {
+      "id": "canonical:9750bf54b300cf9e",
+      "title": "Campus AI Research Engineer – Research Automation (Intern)",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8052351",
+      "location": "Chicago; New York",
+      "department": "",
+      "company": "Jump Trading",
+      "score": 75,
+      "scoreReasons": [
+        "SWE-aligned"
+      ]
+    },
+    {
       "id": "canonical:f310a07d27c1f3e6",
       "title": "Campus Crypto Researcher (Intern)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=7362318",
@@ -1641,10 +1686,109 @@
       "scoreReasons": []
     },
     {
+      "id": "canonical:d1d20c5456576574",
+      "title": "Campus Data Engineer (Intern)",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
+      "location": "Chicago",
+      "department": "",
+      "company": "Jump Trading",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:b64de5fd09122dce",
+      "title": "Campus FPGA Engineer (Intern)",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8003013",
+      "location": "Chicago",
+      "department": "",
+      "company": "Jump Trading",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:0e834d6e9f3e478a",
+      "title": "Campus Quantitative Researcher, PhD (Intern)",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8049938",
+      "location": "Chicago; New York",
+      "department": "",
+      "company": "Jump Trading",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:5e43dcd8de568dde",
+      "title": "Campus Quantitative Researcher, UG/MS (Intern)",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7982648",
+      "location": "Chicago; New York",
+      "department": "",
+      "company": "Jump Trading",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:fe88e70c975c6d4f",
+      "title": "Campus Quantitative Trader (Intern)",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7848371",
+      "location": "Chicago; New York",
+      "department": "",
+      "company": "Jump Trading",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:aa053f6ba830d433",
+      "title": "Campus Software Engineer (Intern)",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
+      "location": "Chicago",
+      "department": "",
+      "company": "Jump Trading",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:3b590c340646bfa7",
+      "title": "Campus Systems Engineer (Intern)",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
+      "location": "Chicago",
+      "department": "",
+      "company": "Jump Trading",
+      "score": 75,
+      "scoreReasons": [
+        "SWE-aligned"
+      ]
+    },
+    {
       "id": "canonical:e92aac66bea6b9e8",
       "title": "Campus Trading Team Software Engineer  (Intern)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=7565728",
       "location": "Hong Kong",
+      "department": "",
+      "company": "Jump Trading",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:7286f2830b7e7578",
+      "title": "Campus UI Software Engineer (Intern)",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019",
+      "location": "Chicago",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -1887,10 +2031,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1901,10 +2045,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -2563,7 +2707,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -7628,19 +7772,6 @@
       ]
     },
     {
-      "id": "canonical:404dd904de91e8a9",
-      "title": "Physics-Based Modeling Intern/Co-op",
-      "url": "https://job-boards.greenhouse.io/silananotechnologies/jobs/7939488",
-      "location": "Alameda, CA",
-      "department": "AI/ML/Data",
-      "company": "Sila Nanotechnologies",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:f13ad3cda447101a",
       "title": "Applied Data Analytics Intern",
       "url": "https://jobs-legrand.icims.com/jobs/10117/job?mobile=true&needsRedirect=false",
@@ -9047,19 +9178,6 @@
       "score": 75,
       "scoreReasons": [
         "SWE-aligned"
-      ]
-    },
-    {
-      "id": "canonical:9153a2e708c3ca4b",
-      "title": "Software Engineer Intern - Engineering Automation Software Engineer - Vehicle Engineering",
-      "url": "https://www.tesla.com/careers/search/job/267767",
-      "location": "Palo Alto, CA / Fremont, CA / United States",
-      "department": "Software",
-      "company": "Tesla",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
