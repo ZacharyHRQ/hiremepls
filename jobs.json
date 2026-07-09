@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-09T00:19:16.415Z",
+  "generatedAt": "2026-07-09T04:26:46.641Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1140,
+  "jobCount": 1139,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -914,7 +914,6 @@
     "canonical:8076253cd145ab02": "2026-07-08T04:12:01.868Z",
     "canonical:7cd65dbc34efa0fa": "2026-07-08T09:11:17.693Z",
     "canonical:19b12c58b01a9a65": "2026-07-08T11:15:17.759Z",
-    "canonical:e8038afc6e3ca5c9": "2026-07-08T12:56:52.867Z",
     "canonical:de7479fb94f4eba6": "2026-07-08T12:56:52.867Z",
     "canonical:8385aa46301105a2": "2026-07-08T15:14:34.101Z",
     "canonical:1cb970dd90b802db": "2026-07-08T15:14:34.101Z",
@@ -7870,20 +7869,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:e8038afc6e3ca5c9",
-      "title": "Graduate Intern - Multiple Teams",
-      "url": "https://pnc.wd5.myworkdayjobs.com/External/job/NY---New-York-10173/Graduate-Intern--Economic-Scenario-Design--Chief-Investment-Office--CIO---Non-Campus-_R212891-1",
-      "location": "NYC",
-      "department": "Quant",
-      "company": "PNC Financial Services",
-      "score": 74,
-      "scoreReasons": [
-        "high-signal role",
-        "new grad",
         "direct ATS"
       ]
     },
