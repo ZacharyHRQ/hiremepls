@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-09T04:26:46.641Z",
+  "generatedAt": "2026-07-09T08:03:37.371Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1139,
+  "jobCount": 1138,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -817,7 +817,6 @@
     "canonical:2e677a89e89c9f6b": "2026-07-04T01:14:24.808Z",
     "canonical:e6ef25e90c9890c5": "2026-07-04T09:50:25.841Z",
     "canonical:d83eba2924c17739": "2026-07-04T09:50:25.841Z",
-    "canonical:c24fa2c293373870": "2026-07-04T11:17:02.191Z",
     "canonical:f27c30f5eef5d1fb": "2026-07-04T11:17:02.191Z",
     "canonical:6a54db97364bf00a": "2026-07-04T12:39:15.733Z",
     "canonical:71f4c1680b019759": "2026-07-04T12:39:15.733Z",
@@ -5252,19 +5251,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:c24fa2c293373870",
-      "title": "Data Science Intern",
-      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Data-Science-Intern_R107184",
-      "location": "Palo Alto, CA",
-      "department": "AI/ML/Data",
-      "company": "Tencent",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
