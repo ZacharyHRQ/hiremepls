@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T18:10:00.040Z",
+  "generatedAt": "2026-07-09T20:01:55.555Z",
   "companyCount": 68,
   "okCount": 68,
   "jobCount": 1138,
@@ -225,7 +225,6 @@
     "canonical:1e6e6a2ed07745e2": "2026-05-09T15:28:15.527Z",
     "canonical:cf50f0a4d4fd39c2": "2026-05-09T15:28:15.527Z",
     "canonical:11c1b4c81d7b5642": "2026-05-09T15:28:15.527Z",
-    "canonical:76e3246b0d82ab56": "2026-05-09T15:28:15.527Z",
     "canonical:eb1420a214d28c30": "2026-05-09T15:28:15.527Z",
     "canonical:35433652fd2ee4ea": "2026-05-09T15:28:15.527Z",
     "canonical:4ad551198f20a1aa": "2026-05-09T15:28:15.527Z",
@@ -782,7 +781,6 @@
     "canonical:917c8771cd813a8d": "2026-07-02T16:25:49.391Z",
     "canonical:1463c8d45c6981d1": "2026-07-02T16:25:49.391Z",
     "canonical:68677d1a8d76947c": "2026-07-02T19:48:24.227Z",
-    "canonical:9a79d93dc014eae2": "2026-07-02T20:53:43.608Z",
     "canonical:31134a37a60ad7ed": "2026-07-02T20:53:43.608Z",
     "canonical:6712ff89e93bcb37": "2026-07-02T23:06:51.141Z",
     "canonical:b9dd5e7ba13dcd8c": "2026-07-02T23:06:51.141Z",
@@ -1141,7 +1139,9 @@
     "canonical:dd066b7b12c20cc5": "2026-07-09T16:14:47.391Z",
     "canonical:ad7ba7d58d6329a6": "2026-07-09T16:14:47.391Z",
     "canonical:bd38d6e304631d2b": "2026-07-09T16:14:47.391Z",
-    "canonical:862f3e74bce7442d": "2026-07-09T16:14:47.391Z"
+    "canonical:862f3e74bce7442d": "2026-07-09T16:14:47.391Z",
+    "canonical:5c3a7585df271d94": "2026-07-09T20:01:55.555Z",
+    "canonical:ae1c44502b279528": "2026-07-09T20:01:55.555Z"
   },
   "jobs": [
     {
@@ -2043,10 +2043,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -2057,10 +2057,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -2193,8 +2193,20 @@
       ]
     },
     {
-      "id": "canonical:9a79d93dc014eae2",
-      "title": "2026 Operations Internship",
+      "id": "canonical:5c3a7585df271d94",
+      "title": "2026 LATAM Investment Analyst (Internship)",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7761282",
+      "location": "São Paulo, Brazil",
+      "department": "",
+      "company": "Schonfeld",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ae1c44502b279528",
+      "title": "2026 Operational Risk Internship",
       "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8044346",
       "location": "São Paulo, Brazil",
       "department": "",
@@ -2716,7 +2728,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -6200,16 +6212,6 @@
         "high-signal role",
         "direct ATS"
       ]
-    },
-    {
-      "id": "canonical:76e3246b0d82ab56",
-      "title": "Hardware Engineer Co-op/Intern",
-      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34232",
-      "location": "Ottawa, ON, Canada",
-      "department": "Hardware",
-      "company": "Nokia",
-      "score": 50,
-      "scoreReasons": []
     },
     {
       "id": "canonical:eb1420a214d28c30",
