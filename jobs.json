@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-09T22:54:21.856Z",
+  "generatedAt": "2026-07-09T23:57:26.906Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1135,
+  "jobCount": 1141,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -888,7 +888,6 @@
     "canonical:674a7ec7b82b1de4": "2026-07-07T23:26:57.673Z",
     "canonical:f3efe9dbc44b3ee6": "2026-07-07T23:26:57.673Z",
     "canonical:18c7966a9dc06483": "2026-07-07T23:26:57.673Z",
-    "canonical:1c6f7fedb87f71a3": "2026-07-07T23:26:57.673Z",
     "canonical:a1e2b3c5471c5983": "2026-07-07T23:26:57.673Z",
     "canonical:e6967e910537de21": "2026-07-07T23:26:57.673Z",
     "canonical:cb6ec0e16b9f5a51": "2026-07-07T23:26:57.673Z",
@@ -1012,7 +1011,6 @@
     "canonical:b0c6cce724ffc4c6": "2026-07-09T00:19:16.415Z",
     "canonical:90621ba02df07734": "2026-07-09T00:19:16.415Z",
     "canonical:2d59535fcae7e354": "2026-07-09T00:19:16.415Z",
-    "canonical:ab3a5bfe8b856ef6": "2026-07-09T00:19:16.415Z",
     "canonical:34e513ba2c3241f6": "2026-07-09T00:19:16.415Z",
     "canonical:ce32e5c7768a6b8c": "2026-07-09T00:19:16.415Z",
     "canonical:c95995bf729db9c5": "2026-07-09T00:19:16.415Z",
@@ -1138,7 +1136,15 @@
     "canonical:ae1c44502b279528": "2026-07-09T20:01:55.555Z",
     "canonical:fea9770016787b1f": "2026-07-09T22:54:21.856Z",
     "canonical:2e181bc2913409e0": "2026-07-09T22:54:21.856Z",
-    "canonical:d756b75031b93280": "2026-07-09T22:54:21.856Z"
+    "canonical:d756b75031b93280": "2026-07-09T22:54:21.856Z",
+    "canonical:e3b70e287d0e2aef": "2026-07-09T23:57:26.906Z",
+    "canonical:7cd65dbc34efa0fa": "2026-07-09T23:57:26.906Z",
+    "canonical:7dbc291135c89eff": "2026-07-09T23:57:26.906Z",
+    "canonical:4157a8e979cb648f": "2026-07-09T23:57:26.906Z",
+    "canonical:d0301d5322394fa7": "2026-07-09T23:57:26.906Z",
+    "canonical:06761d279119b020": "2026-07-09T23:57:26.906Z",
+    "canonical:438c9c135399dc31": "2026-07-09T23:57:26.906Z",
+    "canonical:a73b08d5abf1444b": "2026-07-09T23:57:26.906Z"
   },
   "jobs": [
     {
@@ -2725,7 +2731,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -6525,6 +6531,16 @@
         "high-signal role",
         "direct ATS"
       ]
+    },
+    {
+      "id": "canonical:e3b70e287d0e2aef",
+      "title": "Electronics Service Intern",
+      "url": "https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Electronics-Service-CO-80525/1389595200/?ats=successfactors",
+      "location": "Fort Collins, CO",
+      "department": "Hardware",
+      "company": "Advanced Energy",
+      "score": 50,
+      "scoreReasons": []
     },
     {
       "id": "canonical:1782ca39c8f2f506",
@@ -12175,6 +12191,18 @@
       ]
     },
     {
+      "id": "canonical:7cd65dbc34efa0fa",
+      "title": "Skillbridge Intern - Product Manager",
+      "url": "https://job-boards.greenhouse.io/rise8/jobs/4359627007",
+      "location": "Remote in USA",
+      "department": "Product",
+      "company": "Rise8",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:5763e4102008385b",
       "title": "Business Insights & Analytics Leadership Development Program Intern - BI&a Ldp",
       "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-51332-1",
@@ -12875,19 +12903,6 @@
       ]
     },
     {
-      "id": "canonical:1c6f7fedb87f71a3",
-      "title": "Communications & AI Intern - AI Developer",
-      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Part-time-Intern---AI-Developer_R0000376582",
-      "location": "Peoria, IL",
-      "department": "AI/ML/Data",
-      "company": "Caterpillar Inc.",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:a1e2b3c5471c5983",
       "title": "Analytics & AI Intern",
       "url": "https://www.amwins.com/who-we-are/careers/open-positions?gh_jid=4302229009",
@@ -12927,18 +12942,6 @@
       ]
     },
     {
-      "id": "canonical:cb8d735868564283",
-      "title": "Firmware Engineering Intern",
-      "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Cambridge-Ontario-Canada/Intern--Firmware-Engineering_R26-4530-1",
-      "location": "Cambridge, ON, Canada",
-      "department": "Hardware",
-      "company": "Rockwell Automation",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:7762fcb416cff1c1",
       "title": "Data Engineer Intern",
       "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Data-Engineer-Intern--4-Months-_R-0000169658-3",
@@ -12949,6 +12952,18 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:cb8d735868564283",
+      "title": "Firmware Engineering Intern",
+      "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Cambridge-Ontario-Canada/Intern--Firmware-Engineering_R26-4530",
+      "location": "Cambridge, ON, Canada",
+      "department": "Hardware",
+      "company": "Rockwell Automation",
+      "score": 58,
+      "scoreReasons": [
         "direct ATS"
       ]
     },
@@ -13295,6 +13310,46 @@
       "company": "Microchip Technology",
       "score": 50,
       "scoreReasons": []
+    },
+    {
+      "id": "canonical:7dbc291135c89eff",
+      "title": "AI Engineer Intern",
+      "url": "https://careers-cotiviti.icims.com/jobs/19531/job?mobile=true&needsRedirect=false",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "Cotiviti",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:4157a8e979cb648f",
+      "title": "Data Governance Analyst Intern",
+      "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Data-Governance-Analyst-Intern---Fall-2026_JR0149860",
+      "location": "Mississauga, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "McKesson",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:d0301d5322394fa7",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af/application",
+      "location": "Carson, CA",
+      "department": "Software",
+      "company": "Vital Lyfe",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
     },
     {
       "id": "canonical:12cd06c0eec80152",
@@ -14269,19 +14324,6 @@
       ]
     },
     {
-      "id": "canonical:ab3a5bfe8b856ef6",
-      "title": "Software Development Engineer Intern, Amazon Leo",
-      "url": "https://www.amazon.jobs/en/jobs/3144153/software-development-engineer-internship-amazon-leo-summer-2026-us?no_int_redir=1",
-      "location": "Sunnyvale, CA / Redmond, WA / Northridge, CA",
-      "department": "",
-      "company": "Amazon",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:34e513ba2c3241f6",
       "title": "Software Engineering Intern, Platform, Security & AI",
       "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857832101",
@@ -14853,6 +14895,45 @@
       "location": "Chicago, IL",
       "department": "",
       "company": "Optiver",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:06761d279119b020",
+      "title": "Software Engineer Intern",
+      "url": "https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/San-Mateo-California/Intern---Software-Engineer--AI-User-Experience_1033171",
+      "location": "San Mateo, California",
+      "department": "",
+      "company": "Rakuten International",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:438c9c135399dc31",
+      "title": "Quantitative Trader Intern",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7848371",
+      "location": "Chicago, IL / New York, NY",
+      "department": "",
+      "company": "Jump Trading",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:a73b08d5abf1444b",
+      "title": "Software Engineer Intern",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
+      "location": "Chicago, IL",
+      "department": "",
+      "company": "Jump Trading",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
