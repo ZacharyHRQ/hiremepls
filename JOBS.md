@@ -1,6 +1,6 @@
 # Open Internships
 
-**1137** internships across **68/68** companies — last updated 2026-07-09.
+**1135** internships across **68/68** companies — last updated 2026-07-09.
 
 ## Companies
 
@@ -97,7 +97,7 @@
 - [Cherry Bekaert](#cherry-bekaert) (2)
 - [Ciena](#ciena) (2)
 - [Cirrus Logic](#cirrus-logic) (1)
-- [Citadel](#citadel) (10)
+- [Citadel](#citadel) (11)
 - [Citadel Securities](#citadel-securities) (10)
 - [Clarity Innovations](#clarity-innovations) (1)
 - [Clera](#clera) (1)
@@ -146,6 +146,7 @@
 - [Eluvio](#eluvio) (1)
 - [Engineers Gate](#engineers-gate) (1)
 - [Enterprise](#enterprise) (1)
+- [Environmental Defense Fund](#environmental-defense-fund) (1)
 - [Equifax](#equifax) (1)
 - [EquipmentShare](#equipmentshare) (1)
 - [Espa AI](#espa-ai) (1)
@@ -180,7 +181,7 @@
 - [Generac](#generac) (2)
 - [General Astronautics](#general-astronautics) (1)
 - [General Dynamics](#general-dynamics) (1)
-- [General Motors](#general-motors) (4)
+- [General Motors](#general-motors) (3)
 - [GenScript](#genscript) (1)
 - [Gensyn](#gensyn) (1)
 - [Genworth](#genworth) (1)
@@ -193,7 +194,6 @@
 - [Gumloop](#gumloop) (1)
 - [H&CO](#h-co) (1)
 - [Haize Labs](#haize-labs) (1)
-- [Harbinger Motors](#harbinger-motors) (1)
 - [HARMAN](#harman) (1)
 - [HCompany](#hcompany) (1)
 - [Helix Electric](#helix-electric) (1)
@@ -244,7 +244,7 @@
 - [KPH Healthcare Services](#kph-healthcare-services) (1)
 - [KRAFTON](#krafton) (1)
 - [Kudu Dynamics](#kudu-dynamics) (1)
-- [Lambda](#lambda) (2)
+- [Lambda](#lambda) (1)
 - [Landis+Gyr](#landis-gyr) (1)
 - [Lawrence Livermore National Laboratory (LLNL)](#lawrence-livermore-national-laboratory-llnl) (2)
 - [Legrand North America](#legrand-north-america) (1)
@@ -275,7 +275,7 @@
 - [Meshy](#meshy) (2)
 - [Meta](#meta) (16)
 - [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (2)
-- [Microchip Technology](#microchip-technology) (1)
+- [Microchip Technology](#microchip-technology) (2)
 - [Micron Technology](#micron-technology) (1)
 - [Microsoft](#microsoft) (1)
 - [Mindsmith](#mindsmith) (1)
@@ -355,7 +355,6 @@
 - [RESPEC](#respec) (1)
 - [RFCUNY](#rfcuny) (1)
 - [Rippling](#rippling) (3)
-- [Rise8](#rise8) (1)
 - [Rivian](#rivian) (1)
 - [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (14)
 - [Robert Bosch Venture Capital](#robert-bosch-venture-capital) (2)
@@ -443,7 +442,6 @@
 - [TransMarket Group](#transmarket-group) (1)
 - [Trata](#trata) (1)
 - [Travelers](#travelers) (4)
-- [True Manufacturing](#true-manufacturing) (1)
 - [Truland Equipment](#truland-equipment) (1)
 - [Truveta](#truveta) (1)
 - [Two Six Technologies](#two-six-technologies) (1)
@@ -1150,6 +1148,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Quantitative Trader: Equity Quantitative Research Intern](https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-intern-us/) | 60 | NYC | Quant | 2026-07-09 |
 | [Software Engineer, Intern (Summer 2026)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002?fbclid=PAQ0xDSwK38VtleHRuA2FlbQIxMQABpwFCtP3w0jUMJ2UyUfRb7jqEW6gF5Rr31twvg5geVxUyYXlmmQrGSEf9O3Pw_aem_MfePXp-UnrQgRcTvm_Lh4Q) | 93 | Chicago | — | 2026-07-09 |
 | [Software Engineer Intern](https://www.citadel.com/careers/details/software-engineer-intern-us/) | 85 | New York, NY / Greenwich, CT / Miami, FL / Houston, TX | — | 2026-07-09 |
 | [Software Engineer Intern](https://www.citadel.com/careers/details/software-engineer-intern-us/) | 85 | Greenwich, CT / Houston, TX / Miami, FL / NYC | Software | 2026-07-06 |
@@ -1198,7 +1197,7 @@
 | [Technical Support Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8041135?gh_jid=8041135) | 58 | In-Office | — | 2026-07-03 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
 | [Sales Project Manager Intern (AI Innovation) (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8020830?gh_jid=8020830) | 38 | In-Office | — | 2026-06-23 |
 | [People Team Intern - HR Operations & AI Innovation (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240) | 58 | In-Office | — | 2026-05-20 |
 | [Global Trade Compliance Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7799138?gh_jid=7799138) | 58 | In-Office | — | 2026-05-06 |
@@ -1488,6 +1487,12 @@
 | --- | --- | --- | --- | --- |
 | [Sales Management Trainee Intern-Fall- Lithia Springs](https://www.linkedin.com/jobs/view/4255559163) | 22 | Lithia Springs, GA | — | 2026-07-09 |
 
+## Environmental Defense Fund
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Climate & Health Intern](https://osv-edf.wd5.myworkdayjobs.com/en-US/Confidential/job/Remote---US-Home/Climate---Health-Intern_REQ-002561) | 68 | NYC | AI/ML/Data | 2026-07-09 |
+
 ## Equifax
 
 | Title | Score | Location | Department | First seen |
@@ -1721,7 +1726,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Materials Science Intern](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--Materials-Science---Metallurgical-Engineering_JR-202612790) | 68 | Warren, MI | AI/ML/Data | 2026-07-09 |
 | [Research and Development Intern - Research & Development: AI/ML](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--AI-ML_JR-202612795) | 68 | Mountain View, CA / Warren, MI | AI/ML/Data | 2026-07-08 |
 | [Research and Development Intern - Research & Development](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development_JR-202613027) | 68 | Warren, MI | AI/ML/Data | 2026-07-06 |
 | [2026 Summer Intern - Software Engineer, Machine Learning Validation (PhD)](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Software-Engineer--Machine-Learning-Validation--PhD-_JR-202523181) | 93 | Mountain View, CA / Sunnyvale, CA | Data Science, AI & Machine Learning | 2026-05-09 |
@@ -1799,12 +1803,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/haizelabs/jobs/4685944008) | 93 | NYC | Software | 2026-05-09 |
-
-## Harbinger Motors
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Production Data Analytics Intern](https://job-boards.greenhouse.io/harbingermotors/jobs/5164341007) | 68 | Westminster, CA | AI/ML/Data | 2026-06-17 |
 
 ## HARMAN
 
@@ -2182,7 +2180,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Security Engineer Intern](https://jobs.ashbyhq.com/lambda/0663f04c-097d-414f-b0a0-414a7cf153d6/application) | 93 | SF | Software | 2026-07-07 |
 | [AI Research Marketing Intern](https://jobs.ashbyhq.com/lambda/1c764f96-966d-4560-8087-35452480d330/application) | 48 | SF | AI/ML/Data | 2026-06-01 |
 
 ## Landis+Gyr
@@ -2399,6 +2396,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Applications Engineering Intern](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---Roseville/Intern---Applications-Engineering_R2542-26) | 50 | Roseville, CA | Hardware | 2026-07-09 |
 | [Intern Technician - Electronics](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/PA---Mount-Holly-Springs/Intern-Technician--Electronics-_R847-26) | 50 | Carlisle, PA | Hardware | 2026-05-17 |
 
 ## Micron Technology
@@ -2977,12 +2975,6 @@
 | [Frontend Software Engineer Intern](https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c) | 85 | New York, NY / San Francisco, CA | — | 2026-07-09 |
 | [Machine Learning Engineer Intern](https://ats.rippling.com/en-GB/rippling/jobs/ee1ec0b1-9a55-408d-979d-9c74f257e9ea) | 85 | San Francisco, CA | — | 2026-07-09 |
 | [Software Engineer Intern](https://ats.rippling.com/en-GB/rippling/jobs/203e0cac-0e30-4603-8087-f764e8c3f85c) | 85 | New York, NY / San Francisco, CA | — | 2026-07-09 |
-
-## Rise8
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Skillbridge Intern - Product Manager](https://job-boards.greenhouse.io/rise8/jobs/4359627007) | 58 | Remote in USA | Product | 2026-07-08 |
 
 ## Rivian
 
@@ -3759,12 +3751,6 @@
 | [Business Insights & Analytics Leadership Development Program Intern - BI&a Ldp](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-51332-1) | 68 | Hartford, CT / St Paul, MN | AI/ML/Data | 2026-07-03 |
 | [Data Science Leadership Development Program Intern - Dsldp](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Science-Leadership-Development-Program--DSLDP--Intern_R-51337) | 68 | Hartford, CT / St Paul, MN | AI/ML/Data | 2026-07-03 |
 | [Engineering Development Program Intern - Engineering Development Program](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Intern_R-51185) | 68 | Sparks, MD / Hartford, CT / Atlanta, GA / St Paul, MN | Software | 2026-07-03 |
-
-## True Manufacturing
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI Analyst Intern/Co-op](https://officejobs-truemfg.icims.com/jobs/2671/job?mobile=true&needsRedirect=false) | 60 | O'Fallon, MO | AI/ML/Data | 2026-06-20 |
 
 ## Truland Equipment
 
