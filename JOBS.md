@@ -1,6 +1,6 @@
 # Open Internships
 
-**1140** internships across **68/68** companies — last updated 2026-07-09.
+**1138** internships across **68/68** companies — last updated 2026-07-09.
 
 ## Companies
 
@@ -98,7 +98,7 @@
 - [Cherry Bekaert](#cherry-bekaert) (2)
 - [Ciena](#ciena) (2)
 - [Cirrus Logic](#cirrus-logic) (1)
-- [Citadel](#citadel) (11)
+- [Citadel](#citadel) (10)
 - [Citadel Securities](#citadel-securities) (10)
 - [Clarity Innovations](#clarity-innovations) (1)
 - [Clera](#clera) (1)
@@ -317,7 +317,6 @@
 - [Optiver](#optiver) (3)
 - [Oracle](#oracle) (7)
 - [Orennia](#orennia) (1)
-- [Outmarket AI](#outmarket-ai) (1)
 - [Output Biosciences](#output-biosciences) (2)
 - [Paccar](#paccar) (1)
 - [Palantir](#palantir) (6)
@@ -1160,7 +1159,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer, Intern (Summer 2026)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002?fbclid=PAQ0xDSwK38VtleHRuA2FlbQIxMQABpwFCtP3w0jUMJ2UyUfRb7jqEW6gF5Rr31twvg5geVxUyYXlmmQrGSEf9O3Pw_aem_MfePXp-UnrQgRcTvm_Lh4Q) | 93 | Chicago | — | 2026-07-09 |
 | [Software Engineer Intern](https://www.citadel.com/careers/details/software-engineer-intern-us/) | 85 | New York, NY / Greenwich, CT / Miami, FL / Houston, TX | — | 2026-07-09 |
-| [Quantitative Trader: Equity Quantitative Research Intern](https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-intern-us/) | 60 | NYC | Quant | 2026-07-07 |
 | [Software Engineer Intern](https://www.citadel.com/careers/details/software-engineer-intern-us/) | 85 | Greenwich, CT / Houston, TX / Miami, FL / NYC | Software | 2026-07-06 |
 | [Quantitative Research Analyst Intern](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/) | 60 | Greenwich, CT / Miami, FL / NYC | Quant | 2026-07-06 |
 | [Trader: Fixed Income & Macro Intern](https://www.citadel.com/careers/details/trader-fixed-income-macro-intern-us/) | 60 | Greenwich, CT / Miami, FL / NYC | Quant | 2026-07-06 |
@@ -2693,12 +2691,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Analytics Intern](https://boards.greenhouse.io/orennia/jobs/5277706008) | 68 | Calgary, AB, Canada | AI/ML/Data | 2026-07-07 |
-
-## Outmarket AI
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI Software Engineer Intern](https://jobs.ashbyhq.com/outmarket/8d192421-2422-42f5-854f-6a0765a949da/application) | 93 | Remote in India / Remote in USA | Software | 2026-07-01 |
 
 ## Output Biosciences
 

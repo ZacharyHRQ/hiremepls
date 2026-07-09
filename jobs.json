@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-09T16:14:47.391Z",
+  "generatedAt": "2026-07-09T18:10:00.040Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1140,
+  "jobCount": 1138,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -687,7 +687,6 @@
     "canonical:cbe4f7922dc61a8c": "2026-07-01T06:55:26.212Z",
     "canonical:7dee87124373df05": "2026-07-01T06:55:26.212Z",
     "canonical:3a586592cda0efdc": "2026-07-01T06:55:26.212Z",
-    "canonical:589623b6b0916217": "2026-07-01T06:55:26.212Z",
     "canonical:9d59be172bb09c82": "2026-07-01T06:55:26.212Z",
     "canonical:f0de3f803d86910d": "2026-07-01T06:55:26.212Z",
     "canonical:1f53e1a347a9abe5": "2026-07-01T06:55:26.212Z",
@@ -892,7 +891,6 @@
     "canonical:590303d99e73a74b": "2026-07-07T23:26:57.673Z",
     "canonical:3ff0dd2b0eefe6de": "2026-07-07T23:26:57.673Z",
     "canonical:c832afd712e75191": "2026-07-07T23:26:57.673Z",
-    "canonical:fea9770016787b1f": "2026-07-07T23:26:57.673Z",
     "canonical:674a7ec7b82b1de4": "2026-07-07T23:26:57.673Z",
     "canonical:f3efe9dbc44b3ee6": "2026-07-07T23:26:57.673Z",
     "canonical:18c7966a9dc06483": "2026-07-07T23:26:57.673Z",
@@ -11194,20 +11192,6 @@
       ]
     },
     {
-      "id": "canonical:589623b6b0916217",
-      "title": "AI Software Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/outmarket/8d192421-2422-42f5-854f-6a0765a949da/application",
-      "location": "Remote in India / Remote in USA",
-      "department": "Software",
-      "company": "Outmarket AI",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:9d59be172bb09c82",
       "title": "Product Data Strategy and Operations Intern",
       "url": "https://job-boards.greenhouse.io/fschumacherco/jobs/5279316008",
@@ -12904,18 +12888,6 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:fea9770016787b1f",
-      "title": "Quantitative Trader: Equity Quantitative Research Intern",
-      "url": "https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-intern-us/",
-      "location": "NYC",
-      "department": "Quant",
-      "company": "Citadel",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {
