@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-09T13:41:58.021Z",
+  "generatedAt": "2026-07-09T16:14:47.391Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1136,
+  "jobCount": 1140,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -47,7 +47,6 @@
     "canonical:ad23aadfeb5e4fdd": "2026-05-06T06:42:07.596Z",
     "canonical:778ae0c54171b31e": "2026-05-06T06:42:07.596Z",
     "canonical:40b5e3e02c34b6ce": "2026-05-09T15:28:15.527Z",
-    "canonical:b9fbdfedd0cad7a8": "2026-05-09T15:28:15.527Z",
     "canonical:ed17cf293a02b31e": "2026-05-09T15:28:15.527Z",
     "canonical:c0824cd5653cc9ca": "2026-05-09T15:28:15.527Z",
     "canonical:81aff3048f1fe5a2": "2026-05-09T15:28:15.527Z",
@@ -897,7 +896,6 @@
     "canonical:674a7ec7b82b1de4": "2026-07-07T23:26:57.673Z",
     "canonical:f3efe9dbc44b3ee6": "2026-07-07T23:26:57.673Z",
     "canonical:18c7966a9dc06483": "2026-07-07T23:26:57.673Z",
-    "canonical:ef9a5dce2e538eeb": "2026-07-07T23:26:57.673Z",
     "canonical:1c6f7fedb87f71a3": "2026-07-07T23:26:57.673Z",
     "canonical:a1e2b3c5471c5983": "2026-07-07T23:26:57.673Z",
     "canonical:e6967e910537de21": "2026-07-07T23:26:57.673Z",
@@ -1139,7 +1137,13 @@
     "canonical:f5d84370157fe2ee": "2026-07-09T13:41:58.021Z",
     "canonical:1f05dd365577984d": "2026-07-09T13:41:58.021Z",
     "canonical:ae1902dace82286a": "2026-07-09T13:41:58.021Z",
-    "canonical:894caddb7e00e526": "2026-07-09T13:41:58.021Z"
+    "canonical:894caddb7e00e526": "2026-07-09T13:41:58.021Z",
+    "canonical:5fc518fc7b2d3289": "2026-07-09T16:14:47.391Z",
+    "canonical:9795d61afb3cfc4d": "2026-07-09T16:14:47.391Z",
+    "canonical:dd066b7b12c20cc5": "2026-07-09T16:14:47.391Z",
+    "canonical:ad7ba7d58d6329a6": "2026-07-09T16:14:47.391Z",
+    "canonical:bd38d6e304631d2b": "2026-07-09T16:14:47.391Z",
+    "canonical:862f3e74bce7442d": "2026-07-09T16:14:47.391Z"
   },
   "jobs": [
     {
@@ -2041,10 +2045,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -2055,10 +2059,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -2610,6 +2614,19 @@
       ]
     },
     {
+      "id": "canonical:5fc518fc7b2d3289",
+      "title": "SDR Intern - Munich ",
+      "url": "https://jobs.ashbyhq.com/snowflake/a4753822-7581-4cf3-8fcc-856f54d684b0",
+      "location": "",
+      "department": "",
+      "company": "Snowflake",
+      "score": 55,
+      "scoreReasons": [
+        "direct ATS",
+        "unknown location"
+      ]
+    },
+    {
       "id": "canonical:30d30348d76c74bb",
       "title": "EMEA Communications Intern",
       "url": "https://jobs.ashbyhq.com/snowflake/b696164c-4865-43f4-940d-b5353755748f",
@@ -2683,6 +2700,19 @@
       "score": 58,
       "scoreReasons": [
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:9795d61afb3cfc4d",
+      "title": "Marketing Events and Campaigns Intern (FALL 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8053546?gh_jid=8053546",
+      "location": "In-Office",
+      "department": "",
+      "company": "Cloudflare",
+      "score": 38,
+      "scoreReasons": [
+        "direct ATS",
+        "lower-fit title"
       ]
     },
     {
@@ -2830,19 +2860,6 @@
       "company": "Cribl",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:b9fbdfedd0cad7a8",
-      "title": "Computer Science/Data Science Intern - Bachelor's Degree",
-      "url": "https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers2/job/Santa-Clara-CA/Computer-Science-Data-Science-Intern---Bachelor-s-Degree_2502352",
-      "location": "Santa Clara, CA",
-      "department": "Data Science, AI & Machine Learning",
-      "company": "Marvell",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
     },
     {
       "id": "canonical:ed17cf293a02b31e",
@@ -12939,19 +12956,6 @@
       ]
     },
     {
-      "id": "canonical:ef9a5dce2e538eeb",
-      "title": "AI & Automation Intern",
-      "url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---North-Carolina/Intern_R0044342-1",
-      "location": "North Carolina",
-      "department": "AI/ML/Data",
-      "company": "Harris Computer",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:1c6f7fedb87f71a3",
       "title": "Communications & AI Intern - AI Developer",
       "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Part-time-Intern---AI-Developer_R0000376582",
@@ -13306,6 +13310,61 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:dd066b7b12c20cc5",
+      "title": "Software Engineer Intern",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Jessup-MD-US/Software-Engineering-Intern---Fall-2026_328740",
+      "location": "Annapolis Junction, MD",
+      "department": "Software",
+      "company": "CACI",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ad7ba7d58d6329a6",
+      "title": "Materials Science Intern",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--Materials-Science---Metallurgical-Engineering_JR-202612790",
+      "location": "Warren, MI",
+      "department": "AI/ML/Data",
+      "company": "General Motors",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:bd38d6e304631d2b",
+      "title": "Data Scientist Intern",
+      "url": "https://job-boards.greenhouse.io/uberfreight/jobs/5194491008",
+      "location": "Chicago, IL",
+      "department": "AI/ML/Data",
+      "company": "Uber Freight",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:862f3e74bce7442d",
+      "title": "Digital Marketing Intern - Technical AI & Automation",
+      "url": "https://job-boards.greenhouse.io/eulerity/jobs/4695806006",
+      "location": "NYC",
+      "department": "AI/ML/Data",
+      "company": "Eulerity",
+      "score": 48,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS",
+        "lower-fit title"
       ]
     },
     {
