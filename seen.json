@@ -131,10 +131,10 @@
     "cf4616fc-977a-475c-bb2e-eb46a2c4a94f"
   ],
   "Perplexity": [
-    "71168628-1998-47d3-87a9-be7bc56a430d",
-    "79a07e2d-6150-4929-80fe-bbe13a641763",
     "9246cf02-26fd-4ae8-90c5-639c6e85e9e2",
-    "be94e89b-89d5-4f2a-a58b-7929c8d97f92"
+    "be94e89b-89d5-4f2a-a58b-7929c8d97f92",
+    "79a07e2d-6150-4929-80fe-bbe13a641763",
+    "71168628-1998-47d3-87a9-be7bc56a430d"
   ],
   "Scale AI": [
     "4703343005",
@@ -982,7 +982,6 @@
     "simplify:cbf7c33c-7f5a-40a6-9ec5-b27895094847",
     "simplify:b1f8c920-8d06-4fde-b5a2-23db753f0379",
     "simplify:8f92877d-e680-4332-960c-8f9f8242c24d",
-    "simplify:311ec043-a7e1-4692-ab46-7714ba837ac7",
     "simplify:c230446a-3c98-496a-96d9-235c2b74f10e",
     "simplify:81a22594-7cb3-4fa8-a10f-7d86bc57fcf6",
     "simplify:39b14011-bd7a-48d9-b759-cf7d5b7cd8b9",
@@ -1296,9 +1295,9 @@
   "Winton": [],
   "DeepMind": [],
   "Cohere": [
-    "36d1f52f-8270-4652-adf5-5303a0ff341b",
+    "8c035d3d-081d-4c8a-914a-72f4efaad254",
     "73bd3e2b-6597-4124-b64b-1e5dbc32e785",
-    "8c035d3d-081d-4c8a-914a-72f4efaad254"
+    "36d1f52f-8270-4652-adf5-5303a0ff341b"
   ],
   "Wayve": []
 }
