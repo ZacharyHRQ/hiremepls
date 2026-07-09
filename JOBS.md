@@ -1,6 +1,6 @@
 # Open Internships
 
-**1138** internships across **68/68** companies — last updated 2026-07-09.
+**1135** internships across **68/68** companies — last updated 2026-07-09.
 
 ## Companies
 
@@ -41,7 +41,7 @@
 - [Arlington County VA](#arlington-county-va) (1)
 - [Arlo](#arlo) (2)
 - [ASML](#asml) (2)
-- [Astera](#astera) (1)
+- [Astera](#astera) (2)
 - [Astera Labs](#astera-labs) (3)
 - [Astranis](#astranis) (11)
 - [Atomic Semi](#atomic-semi) (8)
@@ -94,7 +94,6 @@
 - [Centific](#centific) (1)
 - [Charles River Analytics](#charles-river-analytics) (1)
 - [Chartwells Higher Education Dining Services](#chartwells-higher-education-dining-services) (1)
-- [CHEP](#chep) (1)
 - [Cherry Bekaert](#cherry-bekaert) (2)
 - [Ciena](#ciena) (2)
 - [Cirrus Logic](#cirrus-logic) (1)
@@ -225,7 +224,7 @@
 - [Institute of Foundation Models](#institute-of-foundation-models) (3)
 - [Integra FEC](#integra-fec) (3)
 - [Integrity](#integrity) (1)
-- [Intel](#intel) (3)
+- [Intel](#intel) (2)
 - [Intercontinental Exchange, Inc.](#intercontinental-exchange-inc) (1)
 - [Interdigital](#interdigital) (1)
 - [Internship](#internship) (1)
@@ -256,10 +255,10 @@
 - [Lucid Motors](#lucid-motors) (1)
 - [Lyft](#lyft) (1)
 - [Mackenzie Investments](#mackenzie-investments) (1)
-- [Magna](#magna) (2)
+- [Magna](#magna) (3)
 - [Maher Duessel](#maher-duessel) (1)
 - [MaloneBailey, LLP](#malonebailey-llp) (1)
-- [Man Group](#man-group) (3)
+- [Man Group](#man-group) (2)
 - [Maple Leaf Sports & Entertainment Partnership (MLSE)](#maple-leaf-sports-entertainment-partnership-mlse) (1)
 - [Marathon Petroleum Corporation](#marathon-petroleum-corporation) (1)
 - [Maricopa Association of Governments (MAG)](#maricopa-association-of-governments-mag) (1)
@@ -306,7 +305,7 @@
 - [Northwestern Mutual](#northwestern-mutual) (2)
 - [Notion](#notion) (5)
 - [Nuro](#nuro) (1)
-- [NVIDIA](#nvidia) (12)
+- [NVIDIA](#nvidia) (11)
 - [NXP Semiconductors](#nxp-semiconductors) (2)
 - [OCC](#occ) (1)
 - [Octaura](#octaura) (1)
@@ -453,7 +452,6 @@
 - [Uber](#uber) (1)
 - [UL Solutions](#ul-solutions) (1)
 - [Uncountable](#uncountable) (1)
-- [University of Maryland - College Park](#university-of-maryland-college-park) (1)
 - [Vanguard](#vanguard) (1)
 - [Varda Space](#varda-space) (1)
 - [Veeam Software](#veeam-software) (2)
@@ -746,6 +744,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Computational Neuroscience Intern - Data Analysis and Modeling](https://jobs.ashbyhq.com/astera/d20c0641-1b3e-4666-bc08-4f90ee813261/application) | 68 | Oakland, CA | AI/ML/Data | 2026-07-09 |
 | [Software Engineer Intern - Distributed Simulation Systems](https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066/application) | 93 | Oakland, CA | Software | 2026-05-14 |
 
 ## Astera Labs
@@ -1126,12 +1125,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Field Marketing Intern, Chartwells Higher Ed / University of North Carolina](https://www.linkedin.com/jobs/view/4261076817) | 22 | Charlotte, NC | — | 2026-07-09 |
-
-## CHEP
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [FP&A Business Intelligence Intern](https://brambles.wd5.myworkdayjobs.com/en-US/Brambles_Careers/job/London-England-United-Kingdom/FP-A-Business-Intelligence-Intern_JR23946-1) | 68 | London, UK / Orlando, FL / Atlanta, GA | AI/ML/Data | 2026-07-07 |
 
 ## Cherry Bekaert
 
@@ -2043,7 +2036,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) | 68 | Hillsboro, OR / Folsom, CA | — | 2026-07-09 |
-| [Data Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/DTCO-Data-Engineer-Intern_JR0285341) | 93 | Austin, TX | AI/ML/Data | 2026-07-08 |
 | [Silicon Performance Validation and Characterization Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Silicon-Performance-Validation-and-Characterization-Intern_JR0284310) | 58 | Phoenix, AZ | Hardware | 2026-07-04 |
 
 ## Intercontinental Exchange, Inc.
@@ -2260,6 +2252,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Systems Engineer Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235413) | 85 | Southfield, MI | AI/ML/Data | 2026-07-09 |
 | [Engineering ADAS Perception Features Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235438) | 60 | Auburn Hills, MI | AI/ML/Data | 2026-07-04 |
 | [Product Engineering Engineer Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Grand-Rapids-Michigan-US/Product-Engineering-Intern_R00243272) | 85 | Grand Rapids, MI | Software | 2026-06-15 |
 
@@ -2279,7 +2272,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [2026 Technology Graduate Programme – Platform Engineer](https://job-boards.eu.greenhouse.io/mangroup/jobs/4682393101) | 99 | London | — | 2026-06-17 |
 | [Quant Research Analyst Intern](https://job-boards.eu.greenhouse.io/mangroup/jobs/4872158101) | 68 | Shanghai | — | 2026-06-10 |
 | [Quantitative Developer, Intern](https://job-boards.eu.greenhouse.io/mangroup/jobs/4847708101) | 93 | Shanghai | — | 2026-05-06 |
 
@@ -2611,7 +2603,6 @@
 | --- | --- | --- | --- | --- |
 | [Quantum Research Scientist Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244) | 93 | Santa Clara, CA | — | 2026-07-09 |
 | [Software Engineering Intern, JAX](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745) | 68 | Santa Clara, CA | — | 2026-07-09 |
-| [Performance Engineer Intern - Systems Software](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779) | 93 | St. Louis, MO | Software | 2026-07-08 |
 | [PhD Research Intern - Security and Privacy](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1) | 68 | Santa Clara, CA | AI/ML/Data | 2026-07-07 |
 | [Java Engineer Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Java-Engineering-Intern---Fall-2026_JR2019769) | 93 | Santa Clara, CA | Software | 2026-07-04 |
 | [Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398) | 68 | Santa Clara, CA | AI/ML/Data | 2026-07-04 |
@@ -3820,12 +3811,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Full-Stack Intern](https://jobs.ashbyhq.com/uncountable/b9495eab-c04c-4333-b338-7dabdbddcaae/application) | 68 | London, UK / SF / NYC / Munich, Germany | Software | 2026-05-09 |
-
-## University of Maryland - College Park
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Office of Career Services Intern - Technology Team](https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Intern--Office-of-Career-Services---Technology-Team_JR104246-1) | 68 | Hyattsville, MD | AI/ML/Data | 2026-07-04 |
 
 ## Vanguard
 
