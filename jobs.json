@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-09T10:57:50.412Z",
+  "generatedAt": "2026-07-09T13:41:58.021Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1135,
+  "jobCount": 1136,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -206,7 +206,6 @@
     "canonical:23c3f9ce43d5618a": "2026-05-09T15:28:15.527Z",
     "canonical:325ed7972e038b2d": "2026-05-09T15:28:15.527Z",
     "canonical:f5a5dbf294122ad1": "2026-05-09T15:28:15.527Z",
-    "canonical:3544b902070df3e6": "2026-05-09T15:28:15.527Z",
     "canonical:e0150c05751b4a2a": "2026-05-09T15:28:15.527Z",
     "canonical:9bb7084f7e28f80a": "2026-05-09T15:28:15.527Z",
     "canonical:31dee9f85cf9e5f7": "2026-05-09T15:28:15.527Z",
@@ -855,7 +854,6 @@
     "canonical:80cca71dae305229": "2026-07-06T16:08:02.314Z",
     "canonical:33468546ec21eeb5": "2026-07-06T16:08:02.314Z",
     "canonical:e96e92d816fbd3c6": "2026-07-06T16:08:02.314Z",
-    "canonical:941d02dc047a74b1": "2026-07-06T16:08:02.314Z",
     "canonical:279186003d098051": "2026-07-06T16:08:02.314Z",
     "canonical:70d6d85016f5db82": "2026-07-06T16:08:02.314Z",
     "canonical:a12772f2bf1637b3": "2026-07-06T22:57:31.301Z",
@@ -908,7 +906,6 @@
     "canonical:7762fcb416cff1c1": "2026-07-07T23:26:57.673Z",
     "canonical:8076253cd145ab02": "2026-07-08T04:12:01.868Z",
     "canonical:7cd65dbc34efa0fa": "2026-07-08T09:11:17.693Z",
-    "canonical:de7479fb94f4eba6": "2026-07-08T12:56:52.867Z",
     "canonical:8385aa46301105a2": "2026-07-08T15:14:34.101Z",
     "canonical:1cb970dd90b802db": "2026-07-08T15:14:34.101Z",
     "canonical:8c935951a6123066": "2026-07-08T15:14:34.101Z",
@@ -1138,7 +1135,11 @@
     "canonical:3b85b8606d58b1c1": "2026-07-09T00:19:16.415Z",
     "canonical:c7d944825ebe9b46": "2026-07-09T00:19:16.415Z",
     "canonical:e4240dee8fc1eab4": "2026-07-09T10:57:50.412Z",
-    "canonical:0df76adfa71f50bc": "2026-07-09T10:57:50.412Z"
+    "canonical:0df76adfa71f50bc": "2026-07-09T10:57:50.412Z",
+    "canonical:f5d84370157fe2ee": "2026-07-09T13:41:58.021Z",
+    "canonical:1f05dd365577984d": "2026-07-09T13:41:58.021Z",
+    "canonical:ae1902dace82286a": "2026-07-09T13:41:58.021Z",
+    "canonical:894caddb7e00e526": "2026-07-09T13:41:58.021Z"
   },
   "jobs": [
     {
@@ -2040,10 +2041,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -2054,10 +2055,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -4911,19 +4912,6 @@
       ]
     },
     {
-      "id": "canonical:941d02dc047a74b1",
-      "title": "AI Intern",
-      "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Atlanta-GA-United-States/AI-Internships_JR-0088855-1",
-      "location": "Grand Rapids, MI / Plano, TX / Atlanta, GA",
-      "department": "Software",
-      "company": "KION Group",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:8e0cd3743b2a5477",
       "title": "Product Manager Intern",
       "url": "https://lifeattiktok.com/search/7613587198434855173",
@@ -5785,16 +5773,6 @@
         "SWE-aligned",
         "high-signal role"
       ]
-    },
-    {
-      "id": "canonical:3544b902070df3e6",
-      "title": "Test Engineering Intern",
-      "url": "https://careers.formlabs.com/job/7773874/apply/?gh_jid=7773874",
-      "location": "Cambridge, MA",
-      "department": "Hardware",
-      "company": "Formlabs",
-      "score": 50,
-      "scoreReasons": []
     },
     {
       "id": "canonical:e0150c05751b4a2a",
@@ -7854,6 +7832,19 @@
       ]
     },
     {
+      "id": "canonical:f5d84370157fe2ee",
+      "title": "Financial Analyst Intern",
+      "url": "https://fhlbtopeka.wd1.myworkdayjobs.com/FHLBT/job/Topeka-Kansas/Member-Solutions-Intern_JR100348",
+      "location": "Topeka, KS",
+      "department": "AI/ML/Data",
+      "company": "FHLBank Topeka",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:e87b9219892bc7ee",
       "title": "AI Engineer Intern",
       "url": "https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/6315",
@@ -9648,19 +9639,6 @@
       "score": 68,
       "scoreReasons": [
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:de7479fb94f4eba6",
-      "title": "Research and Development Engineer Intern",
-      "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineer-Intern_REQ_0000063995-1",
-      "location": "State College, PA",
-      "department": "Hardware",
-      "company": "Pennsylvania State University",
-      "score": 83,
-      "scoreReasons": [
-        "SWE-aligned",
         "direct ATS"
       ]
     },
@@ -12123,6 +12101,20 @@
       ]
     },
     {
+      "id": "canonical:1f05dd365577984d",
+      "title": "Data Engineer Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/DTCO-Data-Engineer-Intern_JR0285341",
+      "location": "Austin, TX",
+      "department": "AI/ML/Data",
+      "company": "Intel",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:1eacbad0d2fdf9c5",
       "title": "Deep Learning Engineer Intern",
       "url": "https://job-boards.greenhouse.io/botauto/jobs/5289440008",
@@ -12369,6 +12361,19 @@
       "location": "McKinney, TX / Tampa, FL / Fort Lauderdale, FL",
       "department": "AI/ML/Data",
       "company": "Moss & Associates",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ae1902dace82286a",
+      "title": "Office of Career Services Intern - Technology Team",
+      "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Intern--Office-of-Career-Services---Technology-Team_JR104246-1",
+      "location": "Hyattsville, MD",
+      "department": "AI/ML/Data",
+      "company": "University of Maryland - College Park",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -13284,6 +13289,19 @@
       "location": "Lombard, IL / Alpharetta, GA",
       "department": "Software",
       "company": "ABB",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:894caddb7e00e526",
+      "title": "AI Intern",
+      "url": "https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Intern--AI_JR-102248",
+      "location": "Virginia Beach, VA",
+      "department": "AI/ML/Data",
+      "company": "Sentara Health",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
