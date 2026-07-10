@@ -99,7 +99,7 @@
 - [Ciena](#ciena) (2)
 - [Cirrus Logic](#cirrus-logic) (1)
 - [Citadel](#citadel) (10)
-- [Citadel Securities](#citadel-securities) (10)
+- [Citadel Securities](#citadel-securities) (9)
 - [Clarity Innovations](#clarity-innovations) (1)
 - [Clera](#clera) (1)
 - [Cloudflare](#cloudflare) (10)
@@ -400,7 +400,7 @@
 - [State of North Carolina](#state-of-north-carolina) (1)
 - [Stevens Capital Management](#stevens-capital-management) (1)
 - [Stoke Space](#stoke-space) (1)
-- [Stripe](#stripe) (3)
+- [Stripe](#stripe) (4)
 - [Sundt](#sundt) (2)
 - [Super](#super) (2)
 - [Susquehanna](#susquehanna) (1)
@@ -1173,7 +1173,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Quantitative Researcher PhD Intern](https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-europe/) | 85 | London, UK | Quant | 2026-07-08 |
-| [Quantitative Research Analyst Bachelor's or master's degree Intern](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/) | 60 | London, UK / Paris, France | Quant | 2026-07-06 |
 | [Quantitative Research Analyst Intern](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-us/) | 60 | Miami, FL / NYC | Quant | 2026-07-06 |
 | [Software Engineer Intern](https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/) | 85 | Miami, FL / NYC | Software | 2026-07-06 |
 | [Credit & Rates Rotational Trader Intern](https://www.citadelsecurities.com/careers/details/credit-rates-rotational-trader-intern-us/) | 60 | NYC | Quant | 2026-07-06 |
@@ -3315,6 +3314,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8031833) | 85 | Bengaluru | — | 2026-07-10 |
 | [Software Engineer, New Grad, Developer & End User Experience Platform](https://stripe.com/jobs/search?gh_jid=7991718) | 91 | Toronto | — | 2026-06-11 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | 56 | Mexico City, Mexico | — | 2026-05-06 |
 | [Tech Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7718947) | 56 | Mexico City, Mexico | — | 2026-05-06 |

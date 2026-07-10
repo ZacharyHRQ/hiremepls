@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T02:38:18.769Z",
+  "generatedAt": "2026-07-10T06:27:50.376Z",
   "companyCount": 68,
   "okCount": 68,
   "jobCount": 1140,
@@ -838,7 +838,6 @@
     "canonical:eef3e4204e664840": "2026-07-06T08:49:26.746Z",
     "canonical:8b522f36817f5b67": "2026-07-06T12:35:42.482Z",
     "canonical:69ccd154a918e4f8": "2026-07-06T12:35:42.482Z",
-    "canonical:e45a102fe53b7d16": "2026-07-06T12:35:42.482Z",
     "canonical:80cca71dae305229": "2026-07-06T16:08:02.314Z",
     "canonical:33468546ec21eeb5": "2026-07-06T16:08:02.314Z",
     "canonical:e96e92d816fbd3c6": "2026-07-06T16:08:02.314Z",
@@ -1143,7 +1142,8 @@
     "canonical:cb9df15343a5b55b": "2026-07-10T02:38:18.769Z",
     "canonical:0acc91792e5dabf7": "2026-07-10T02:38:18.769Z",
     "canonical:d6368170104e0f33": "2026-07-10T02:38:18.769Z",
-    "canonical:24ef0b094719348e": "2026-07-10T02:38:18.769Z"
+    "canonical:24ef0b094719348e": "2026-07-10T02:38:18.769Z",
+    "canonical:e8a5b9fc6e1a4de2": "2026-07-10T06:27:50.376Z"
   },
   "jobs": [
     {
@@ -2483,6 +2483,19 @@
       "score": 56,
       "scoreReasons": [
         "new grad"
+      ]
+    },
+    {
+      "id": "canonical:e8a5b9fc6e1a4de2",
+      "title": "Software Engineer, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
+      "location": "Bengaluru",
+      "department": "",
+      "company": "Stripe",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
@@ -12479,18 +12492,6 @@
       "title": "Quantitative Research Analyst Intern",
       "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-us/",
       "location": "Miami, FL / NYC",
-      "department": "Quant",
-      "company": "Citadel Securities",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:e45a102fe53b7d16",
-      "title": "Quantitative Research Analyst Bachelor's or master's degree Intern",
-      "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/",
-      "location": "London, UK / Paris, France",
       "department": "Quant",
       "company": "Citadel Securities",
       "score": 60,
