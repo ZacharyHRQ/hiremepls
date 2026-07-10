@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T15:08:14.580Z",
+  "generatedAt": "2026-07-10T17:05:29.317Z",
   "companyCount": 68,
   "okCount": 68,
   "jobCount": 1130,
@@ -46,7 +46,6 @@
     "canonical:ad23aadfeb5e4fdd": "2026-05-06T06:42:07.596Z",
     "canonical:778ae0c54171b31e": "2026-05-06T06:42:07.596Z",
     "canonical:40b5e3e02c34b6ce": "2026-05-09T15:28:15.527Z",
-    "canonical:ed17cf293a02b31e": "2026-05-09T15:28:15.527Z",
     "canonical:c0824cd5653cc9ca": "2026-05-09T15:28:15.527Z",
     "canonical:81aff3048f1fe5a2": "2026-05-09T15:28:15.527Z",
     "canonical:fe332cbf1845feb8": "2026-05-09T15:28:15.527Z",
@@ -1133,7 +1132,8 @@
     "canonical:99aaad0a301ea911": "2026-07-10T12:25:19.014Z",
     "canonical:7cd65dbc34efa0fa": "2026-07-10T12:25:19.014Z",
     "canonical:fc49ab4fb89dc0f7": "2026-07-10T15:08:14.580Z",
-    "canonical:6f2e36c04683a5be": "2026-07-10T15:08:14.580Z"
+    "canonical:6f2e36c04683a5be": "2026-07-10T15:08:14.580Z",
+    "canonical:bd73a2ff32a0ca98": "2026-07-10T17:05:29.317Z"
   },
   "jobs": [
     {
@@ -2641,6 +2641,18 @@
       ]
     },
     {
+      "id": "canonical:bd73a2ff32a0ca98",
+      "title": "Brand Social Media Intern (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8054093?gh_jid=8054093",
+      "location": "In-Office",
+      "department": "",
+      "company": "Cloudflare",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:ad23aadfeb5e4fdd",
       "title": "Global Trade Compliance Intern (Summer 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7799138?gh_jid=7799138",
@@ -2668,7 +2680,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -2810,19 +2822,6 @@
       "company": "Cribl",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:ed17cf293a02b31e",
-      "title": "Firmware Engineer Intern - Bachelor's Degree",
-      "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern---Bachelor-s-Degree_2503452-1",
-      "location": "Santa Clara, CA",
-      "department": "Hardware Engineering",
-      "company": "Marvell",
-      "score": 83,
-      "scoreReasons": [
-        "SWE-aligned",
-        "direct ATS"
-      ]
     },
     {
       "id": "canonical:c0824cd5653cc9ca",
