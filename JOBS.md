@@ -1,6 +1,6 @@
 # Open Internships
 
-**1122** internships across **68/68** companies — last updated 2026-07-10.
+**1132** internships across **68/68** companies — last updated 2026-07-10.
 
 ## Companies
 
@@ -61,7 +61,6 @@
 - [beBeeManufacturingEngineering](#bebeemanufacturingengineering) (1)
 - [Berkshire Hathaway Energy](#berkshire-hathaway-energy) (1)
 - [Beyondsoft](#beyondsoft) (1)
-- [BillionToOne](#billiontoone) (1)
 - [Binance](#binance) (1)
 - [Black Box](#black-box) (2)
 - [Blackstone](#blackstone) (1)
@@ -98,6 +97,7 @@
 - [Chartwells Higher Education Dining Services](#chartwells-higher-education-dining-services) (1)
 - [CHEP](#chep) (1)
 - [Cherry Bekaert](#cherry-bekaert) (2)
+- [Chevron Corporation](#chevron-corporation) (1)
 - [Ciena](#ciena) (2)
 - [Cirrus Logic](#cirrus-logic) (1)
 - [Citadel](#citadel) (10)
@@ -162,6 +162,7 @@
 - [EV Realty](#ev-realty) (1)
 - [Everfox](#everfox) (2)
 - [Evolver](#evolver) (1)
+- [Exowatt](#exowatt) (1)
 - [Expedia Group](#expedia-group) (1)
 - [F. Schumacher & Co.](#f-schumacher-co) (1)
 - [Facility Solutions Group](#facility-solutions-group) (1)
@@ -175,7 +176,6 @@
 - [Formlabs](#formlabs) (3)
 - [Fortinet](#fortinet) (1)
 - [Forvis Mazars US](#forvis-mazars-us) (1)
-- [Foundation ](#foundation) (1)
 - [Four Hands](#four-hands) (1)
 - [GE Vernova](#ge-vernova) (1)
 - [Gemini](#gemini) (1)
@@ -250,6 +250,7 @@
 - [Lawrence Livermore National Laboratory (LLNL)](#lawrence-livermore-national-laboratory-llnl) (2)
 - [Legrand North America](#legrand-north-america) (1)
 - [Lensa](#lensa) (3)
+- [LexisNexis Risk Solutions](#lexisnexis-risk-solutions) (1)
 - [LinkedIn](#linkedin) (3)
 - [LiveRamp](#liveramp) (1)
 - [Lucid Motors](#lucid-motors) (1)
@@ -273,7 +274,7 @@
 - [Melotech](#melotech) (3)
 - [Mercor](#mercor) (1)
 - [Meshy](#meshy) (2)
-- [Meta](#meta) (16)
+- [Meta](#meta) (17)
 - [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (2)
 - [Microchip Technology](#microchip-technology) (2)
 - [Micron Technology](#micron-technology) (1)
@@ -318,6 +319,7 @@
 - [Palantir](#palantir) (6)
 - [Palo Alto Networks](#palo-alto-networks) (2)
 - [Paragon](#paragon) (1)
+- [Parsons](#parsons) (1)
 - [PathAI](#pathai) (1)
 - [PayPal](#paypal) (1)
 - [PennState University](#pennstate-university) (1)
@@ -328,6 +330,7 @@
 - [Persistent Systems](#persistent-systems) (2)
 - [Phamily](#phamily) (1)
 - [Phia](#phia) (1)
+- [Pika](#pika) (1)
 - [Pinterest](#pinterest) (4)
 - [PLS](#pls) (1)
 - [PlusAI](#plusai) (19)
@@ -390,6 +393,7 @@
 - [SpaceX](#spacex) (3)
 - [Squarepoint Capital](#squarepoint-capital) (5)
 - [StarSling](#starsling) (1)
+- [State Employees' Credit Union (SECU)](#state-employees-credit-union-secu) (1)
 - [State of North Carolina](#state-of-north-carolina) (1)
 - [Stevens Capital Management](#stevens-capital-management) (1)
 - [Stoke Space](#stoke-space) (1)
@@ -443,6 +447,8 @@
 - [Uber](#uber) (1)
 - [Uber Freight](#uber-freight) (1)
 - [UL Solutions](#ul-solutions) (1)
+- [Ultra](#ultra) (1)
+- [Ultra Intelligence and Communications](#ultra-intelligence-and-communications) (1)
 - [Uncountable](#uncountable) (1)
 - [University of Maryland - College Park](#university-of-maryland-college-park) (1)
 - [Vanguard](#vanguard) (1)
@@ -470,6 +476,7 @@
 - [WTW](#wtw) (1)
 - [X Development](#x-development) (1)
 - [XPENG Motors](#xpeng-motors) (2)
+- [Xsolla](#xsolla) (3)
 
 ## 1X
 
@@ -880,12 +887,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://careers-beyondsoft.icims.com/jobs/10912/job?mobile=true&needsRedirect=false) | 85 | United States | Software | 2026-06-18 |
 
-## BillionToOne
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://job-boards.greenhouse.io/billiontoone/jobs/4702398005) | 93 | Menlo Park, CA | Software | 2026-06-03 |
-
 ## Binance
 
 | Title | Score | Location | Department | First seen |
@@ -1145,6 +1146,12 @@
 | [Spring 2026 Tax Intern](https://www.tealhq.com/job/spring-2026-tax-intern-tysons_9130861e-982c-42d6-ad09-fda6ec66bc75?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 22 | Tysons, VA | — | 2026-07-09 |
 | [Summer 2026 Audit Intern](https://www.linkedin.com/jobs/view/4219370046) | 22 | Chicago, IL | — | 2026-07-09 |
 
+## Chevron Corporation
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Previous Intern - Earth Scientist](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Earth-Scientist--Previous-Intern--Full-Time_R000072337) | 93 | Houston, TX | AI/ML/Data | 2026-07-10 |
+
 ## Ciena
 
 | Title | Score | Location | Department | First seen |
@@ -1207,7 +1214,7 @@
 | [Technical Support Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8041135?gh_jid=8041135) | 58 | In-Office | — | 2026-07-03 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
 | [Sales Project Manager Intern (AI Innovation) (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8020830?gh_jid=8020830) | 38 | In-Office | — | 2026-06-23 |
 | [People Team Intern - HR Operations & AI Innovation (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240) | 58 | In-Office | — | 2026-05-20 |
 | [Global Trade Compliance Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7799138?gh_jid=7799138) | 58 | In-Office | — | 2026-05-06 |
@@ -1593,6 +1600,12 @@
 | --- | --- | --- | --- | --- |
 | [Applied Data Science Intern](https://job-boards.greenhouse.io/evolver/jobs/4254540009) | 68 | Palo Alto, CA | AI/ML/Data | 2026-07-02 |
 
+## Exowatt
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer Intern - Agent Platform - AI](https://jobs.lever.co/exowatt/2623555d-8b81-4f95-8bca-de9fafd2381c/apply) | 93 | Austin, TX | Software | 2026-07-10 |
+
 ## Expedia Group
 
 | Title | Score | Location | Department | First seen |
@@ -1677,12 +1690,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Intern Tax Summer 2026](https://www.linkedin.com/jobs/view/4233794689) | 22 | Cincinnati, OH | — | 2026-07-09 |
-
-## Foundation 
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Controls Engineer Intern](https://ats.rippling.com/foundation-robotics/jobs/6a54984f-bb51-4ccf-a96d-6295a45de689) | 75 | SF | Hardware | 2026-05-09 |
 
 ## Four Hands
 
@@ -2206,6 +2213,12 @@
 | [2026 Summer Internship Program - Investment Banking](https://www.linkedin.com/jobs/view/4257296455) | 42 | Baltimore, MD | — | 2026-07-09 |
 | [Accounting Internship Summer 2026](https://lensa.com/job-application-accounting-internship-summer-2026-in-wayne-pa/cpc-jd-v3/bdd3c15c3b73ec0e9b7e0b5b4cbefe35453222188f523f433d39e72a3abd4740?tr=b4a83a7f255547c9982fd106a9550d5aincc1&utm_source=linkedin&utm_medium=slot&utm_campaign=Financial+Specialists&utm_term=jse) | 22 | Wayne, PA | — | 2026-07-09 |
 
+## LexisNexis Risk Solutions
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Editorial Data Reporting Intern](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1) | 68 | Remote in USA | AI/ML/Data | 2026-07-10 |
+
 ## LinkedIn
 
 | Title | Score | Location | Department | First seen |
@@ -2359,6 +2372,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Research Scientist Intern - Monetization Computer Vision](https://www.metacareers.com/jobs/2281218542616482) | 85 | Menlo Park, CA | AI/ML/Data | 2026-07-10 |
 | [Research Scientist Intern - 3D Vision & World Simulation](https://www.metacareers.com/jobs/2839011673109571) | 85 | Redmond, WA | AI/ML/Data | 2026-07-07 |
 | [Research Scientist Intern - Photorealistic Telepresence](https://www.metacareers.com/jobs/924149567345400) | 85 | London, UK | AI/ML/Data | 2026-06-17 |
 | [Research Scientist Intern - State Estimation for Dexterous Manipulation](https://www.metacareers.com/jobs/2774289902955470) | 85 | Redmond, WA | AI/ML/Data | 2026-06-17 |
@@ -2688,6 +2702,12 @@
 | --- | --- | --- | --- | --- |
 | [Forward Deployed Engineer (FDE) Intern](https://www.workatastartup.com/jobs/93642) | 56 | San Francisco, CA | — | 2026-07-09 |
 
+## Parsons
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI & Digital Innovation Engineer Intern](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/CA---ON-Toronto/AI---Digital-Innovation-Engineering-Intern_R180895) | 93 | Toronto, ON, Canada / Markham, ON, Canada / Oakville, ON, Canada | AI/ML/Data | 2026-07-10 |
+
 ## PathAI
 
 | Title | Score | Location | Department | First seen |
@@ -2750,6 +2770,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Full Stack Engineer Intern](https://jobs.ashbyhq.com/phia/71c26b8b-86cd-446d-a63f-8cd8c2a3f162/application) | 93 | NYC | Software | 2026-06-05 |
+
+## Pika
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Research Intern - BS/MS/PhD](https://jobs.ashbyhq.com/pika/e135acb1-2a0b-47b4-81b2-3cb0f787657a/application) | 68 | Palo Alto, CA | AI/ML/Data | 2026-07-10 |
 
 ## Pinterest
 
@@ -3232,6 +3258,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://www.workatastartup.com/jobs/95003) | 91 | San Mateo, CA | — | 2026-07-09 |
+
+## State Employees' Credit Union (SECU)
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Server Engineering and Operations Intern](https://ncsecu.wd1.myworkdayjobs.com/secu/job/North-Carolina/Intern---Server-Engineering-and-Operations-Fall-2026_JR-15842) | 68 | North Carolina | AI/ML/Data | 2026-07-10 |
 
 ## State of North Carolina
 
@@ -3748,6 +3780,18 @@
 | --- | --- | --- | --- | --- |
 | [Software Development Intern](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/9366) | 60 | Fremont, CA | Software | 2026-06-17 |
 
+## Ultra
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Engineering Intern](https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/San-Diego-CA-United-States/Engineering-Intern_REQ-12205-1) | 58 | San Diego, CA | Hardware | 2026-07-10 |
+
+## Ultra Intelligence and Communications
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Engineering Intern](https://ultra.wd3.myworkdayjobs.com/uiccareers/job/San-Diego-CA-United-States/Engineering-Intern_REQ-12205) | 58 | San Diego, CA | Hardware | 2026-07-10 |
+
 ## Uncountable
 
 | Title | Score | Location | Department | First seen |
@@ -3922,3 +3966,11 @@
 | --- | --- | --- | --- | --- |
 | [AI Infrastructure Onboard Performance Intern](https://job-boards.greenhouse.io/xpengmotors/jobs/8581353002) | 68 | Santa Clara, CA | AI/ML/Data | 2026-06-06 |
 | [VLA Deployment AI Intern](https://job-boards.greenhouse.io/xpengmotors/jobs/8535409002) | 58 | Santa Clara, CA | Hardware | 2026-05-09 |
+
+## Xsolla
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI Engineer Intern](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571/apply) | 93 | Montreal, QC, Canada | Software | 2026-07-10 |
+| [AI-First Engineer Intern](https://jobs.lever.co/xsolla/5d5fd6b3-d82f-437a-b251-abf4674ac874/apply) | 93 | Raleigh, NC | Software | 2026-07-10 |
+| [AI-First Engineer Intern](https://jobs.lever.co/xsolla/1c0e5375-2352-4a2c-a816-48ddebbdd3d6/apply) | 93 | LA | Software | 2026-07-10 |

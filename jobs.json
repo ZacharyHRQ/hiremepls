@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-10T22:30:02.502Z",
+  "generatedAt": "2026-07-10T23:30:41.605Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1122,
+  "jobCount": 1132,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -156,7 +156,6 @@
     "canonical:5ec53d479123c910": "2026-05-09T15:28:15.527Z",
     "canonical:5a17f5c18e401487": "2026-05-09T15:28:15.527Z",
     "canonical:c05568efcf2d82b2": "2026-05-09T15:28:15.527Z",
-    "canonical:5548fc80d6429c96": "2026-05-09T15:28:15.527Z",
     "canonical:ca36a449c93e7ded": "2026-05-09T15:28:15.527Z",
     "canonical:978c0156e5f37cde": "2026-05-09T15:28:15.527Z",
     "canonical:62a13a07c6199ec0": "2026-05-09T15:28:15.527Z",
@@ -384,7 +383,6 @@
     "canonical:a5ee6da375fec37f": "2026-06-03T10:04:55.299Z",
     "canonical:0cb411253e09ff95": "2026-06-03T10:04:55.299Z",
     "canonical:d5989df87e86b977": "2026-06-03T10:04:55.299Z",
-    "canonical:eaa6e19f31ea5055": "2026-06-03T23:25:54.380Z",
     "canonical:365196b713f8c54f": "2026-06-03T23:25:54.380Z",
     "canonical:15c9ad54e5b37301": "2026-06-03T23:25:54.380Z",
     "canonical:51c9b4da188261da": "2026-06-03T23:25:54.380Z",
@@ -1125,7 +1123,19 @@
     "canonical:7cd65dbc34efa0fa": "2026-07-10T12:25:19.014Z",
     "canonical:fc49ab4fb89dc0f7": "2026-07-10T15:08:14.580Z",
     "canonical:6f2e36c04683a5be": "2026-07-10T15:08:14.580Z",
-    "canonical:bd73a2ff32a0ca98": "2026-07-10T17:05:29.317Z"
+    "canonical:bd73a2ff32a0ca98": "2026-07-10T17:05:29.317Z",
+    "canonical:7b3cc8868ca7ea4e": "2026-07-10T23:30:41.605Z",
+    "canonical:3a0280cd297d1f55": "2026-07-10T23:30:41.605Z",
+    "canonical:03256d9192dfcb79": "2026-07-10T23:30:41.605Z",
+    "canonical:231f083d8fe55a00": "2026-07-10T23:30:41.605Z",
+    "canonical:c3650628970bf96d": "2026-07-10T23:30:41.605Z",
+    "canonical:b3db40bed27920e6": "2026-07-10T23:30:41.605Z",
+    "canonical:b534606d935d0b90": "2026-07-10T23:30:41.605Z",
+    "canonical:c6951e2db477e52a": "2026-07-10T23:30:41.605Z",
+    "canonical:fff5249c0c299e15": "2026-07-10T23:30:41.605Z",
+    "canonical:6f71c0e1a0b9d26f": "2026-07-10T23:30:41.605Z",
+    "canonical:6c2a293763383474": "2026-07-10T23:30:41.605Z",
+    "canonical:c0deff3a3517d776": "2026-07-10T23:30:41.605Z"
   },
   "jobs": [
     {
@@ -2647,7 +2657,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -4924,18 +4934,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:5548fc80d6429c96",
-      "title": "Controls Engineer Intern",
-      "url": "https://ats.rippling.com/foundation-robotics/jobs/6a54984f-bb51-4ccf-a96d-6295a45de689",
-      "location": "SF",
-      "department": "Hardware",
-      "company": "Foundation ",
-      "score": 75,
-      "scoreReasons": [
-        "SWE-aligned"
       ]
     },
     {
@@ -8244,20 +8242,6 @@
       "location": "SF",
       "department": "Software",
       "company": "Instead",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:eaa6e19f31ea5055",
-      "title": "Software Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/billiontoone/jobs/4702398005",
-      "location": "Menlo Park, CA",
-      "department": "Software",
-      "company": "BillionToOne",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -13059,6 +13043,166 @@
       "location": "Horsham, PA",
       "department": "AI/ML/Data",
       "company": "ALFA LAVAL",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:7b3cc8868ca7ea4e",
+      "title": "Research Intern - BS/MS/PhD",
+      "url": "https://jobs.ashbyhq.com/pika/e135acb1-2a0b-47b4-81b2-3cb0f787657a/application",
+      "location": "Palo Alto, CA",
+      "department": "AI/ML/Data",
+      "company": "Pika",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:3a0280cd297d1f55",
+      "title": "Editorial Data Reporting Intern",
+      "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "LexisNexis Risk Solutions",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:03256d9192dfcb79",
+      "title": "Research Scientist Intern - Monetization Computer Vision",
+      "url": "https://www.metacareers.com/jobs/2281218542616482",
+      "location": "Menlo Park, CA",
+      "department": "AI/ML/Data",
+      "company": "Meta",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:231f083d8fe55a00",
+      "title": "Software Engineer Intern - Agent Platform - AI",
+      "url": "https://jobs.lever.co/exowatt/2623555d-8b81-4f95-8bca-de9fafd2381c/apply",
+      "location": "Austin, TX",
+      "department": "Software",
+      "company": "Exowatt",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c3650628970bf96d",
+      "title": "Engineering Intern",
+      "url": "https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/San-Diego-CA-United-States/Engineering-Intern_REQ-12205-1",
+      "location": "San Diego, CA",
+      "department": "Hardware",
+      "company": "Ultra",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:b3db40bed27920e6",
+      "title": "AI-First Engineer Intern",
+      "url": "https://jobs.lever.co/xsolla/5d5fd6b3-d82f-437a-b251-abf4674ac874/apply",
+      "location": "Raleigh, NC",
+      "department": "Software",
+      "company": "Xsolla",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:b534606d935d0b90",
+      "title": "AI-First Engineer Intern",
+      "url": "https://jobs.lever.co/xsolla/1c0e5375-2352-4a2c-a816-48ddebbdd3d6/apply",
+      "location": "LA",
+      "department": "Software",
+      "company": "Xsolla",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c6951e2db477e52a",
+      "title": "AI Engineer Intern",
+      "url": "https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571/apply",
+      "location": "Montreal, QC, Canada",
+      "department": "Software",
+      "company": "Xsolla",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:fff5249c0c299e15",
+      "title": "Previous Intern - Earth Scientist",
+      "url": "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Earth-Scientist--Previous-Intern--Full-Time_R000072337",
+      "location": "Houston, TX",
+      "department": "AI/ML/Data",
+      "company": "Chevron Corporation",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:6f71c0e1a0b9d26f",
+      "title": "Engineering Intern",
+      "url": "https://ultra.wd3.myworkdayjobs.com/uiccareers/job/San-Diego-CA-United-States/Engineering-Intern_REQ-12205",
+      "location": "San Diego, CA",
+      "department": "Hardware",
+      "company": "Ultra Intelligence and Communications",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:6c2a293763383474",
+      "title": "AI & Digital Innovation Engineer Intern",
+      "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/CA---ON-Toronto/AI---Digital-Innovation-Engineering-Intern_R180895",
+      "location": "Toronto, ON, Canada / Markham, ON, Canada / Oakville, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "Parsons",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c0deff3a3517d776",
+      "title": "Server Engineering and Operations Intern",
+      "url": "https://ncsecu.wd1.myworkdayjobs.com/secu/job/North-Carolina/Intern---Server-Engineering-and-Operations-Fall-2026_JR-15842",
+      "location": "North Carolina",
+      "department": "AI/ML/Data",
+      "company": "State Employees' Credit Union (SECU)",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
