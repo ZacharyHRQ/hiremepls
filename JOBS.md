@@ -1,6 +1,6 @@
 # Open Internships
 
-**1140** internships across **68/68** companies — last updated 2026-07-10.
+**1134** internships across **68/68** companies — last updated 2026-07-10.
 
 ## Companies
 
@@ -186,7 +186,6 @@
 - [GenScript](#genscript) (1)
 - [Gensyn](#gensyn) (1)
 - [Genworth](#genworth) (1)
-- [GIA](#gia) (1)
 - [Ginkgo Bioworks](#ginkgo-bioworks) (2)
 - [Global Infrastructure](#global-infrastructure) (1)
 - [Great Question](#great-question) (1)
@@ -216,7 +215,7 @@
 - [Hunt Oil Company](#hunt-oil-company) (2)
 - [iHerb](#iherb) (1)
 - [IMC](#imc) (1)
-- [IMC Trading](#imc-trading) (33)
+- [IMC Trading](#imc-trading) (32)
 - [Impulse Space](#impulse-space) (1)
 - [Infojini](#infojini) (1)
 - [Instacart](#instacart) (4)
@@ -256,7 +255,7 @@
 - [Lucid Motors](#lucid-motors) (1)
 - [Lyft](#lyft) (1)
 - [Mackenzie Investments](#mackenzie-investments) (1)
-- [Magna](#magna) (3)
+- [Magna](#magna) (2)
 - [Maher Duessel](#maher-duessel) (1)
 - [MaloneBailey, LLP](#malonebailey-llp) (1)
 - [Man Group](#man-group) (2)
@@ -281,7 +280,6 @@
 - [Micron Technology](#micron-technology) (1)
 - [Microsoft](#microsoft) (1)
 - [Mindsmith](#mindsmith) (1)
-- [Mistral](#mistral) (3)
 - [Monolithic Power Systems](#monolithic-power-systems) (2)
 - [Moss & Associates](#moss-associates) (1)
 - [Multiply Labs](#multiply-labs) (2)
@@ -308,6 +306,7 @@
 - [NVIDIA](#nvidia) (12)
 - [NXP Semiconductors](#nxp-semiconductors) (2)
 - [OCC](#occ) (1)
+- [Occidental Petroleum](#occidental-petroleum) (1)
 - [Octaura](#octaura) (1)
 - [OfferUp](#offerup) (1)
 - [Old Mission](#old-mission) (1)
@@ -356,7 +355,6 @@
 - [RESPEC](#respec) (1)
 - [RFCUNY](#rfcuny) (1)
 - [Rippling](#rippling) (3)
-- [Rise8](#rise8) (1)
 - [Rivian](#rivian) (1)
 - [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (14)
 - [Robert Bosch Venture Capital](#robert-bosch-venture-capital) (2)
@@ -1756,12 +1754,6 @@
 | --- | --- | --- | --- | --- |
 | [Genworth Finance Development Program Intern – Summer 2026](https://www.linkedin.com/jobs/view/4268379282) | 42 | Richmond, VA | — | 2026-07-09 |
 
-## GIA
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Simulation & Optimization Analyst Intern](https://gia.wd1.myworkdayjobs.com/GIA/job/Gemological-Institute-of-America-Inc-Carlsbad-California/Simulation---Optimization-Analyst-Intern_R0011449) | 68 | Carlsbad, CA | AI/ML/Data | 2026-07-07 |
-
 ## Ginkgo Bioworks
 
 | Title | Score | Location | Department | First seen |
@@ -1965,7 +1957,6 @@
 | [2027 - FPGA Intern - IIT Bombay](https://job-boards.eu.greenhouse.io/imc/jobs/4860306101) | 58 | Amsterdam, Netherlands; Mumbai, India | — | 2026-07-07 |
 | [2027 - FPGA Intern - IIT Madras](https://job-boards.eu.greenhouse.io/imc/jobs/4918252101) | 58 | Amsterdam, Netherlands; Mumbai, India | — | 2026-07-07 |
 | [2027 - Software Engineering Intern - IIT Madras](https://job-boards.eu.greenhouse.io/imc/jobs/4917547101) | 68 | Mumbai, India | — | 2026-07-06 |
-| [2027 - Software Engineering Intern - IIT Roorkee](https://job-boards.eu.greenhouse.io/imc/jobs/4917548101) | 68 | Mumbai, India | — | 2026-07-06 |
 | [Graduate Quantitative Researcher (BS/MS)](https://job-boards.eu.greenhouse.io/imc/jobs/4907368101) | 99 | Chicago, United States | — | 2026-07-01 |
 | [Graduate Quantitative Researcher (PhD)](https://job-boards.eu.greenhouse.io/imc/jobs/4912325101) | 99 | Chicago, United States | — | 2026-07-01 |
 | [Graduate Software Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4818790101) | 99 | Chicago, United States | — | 2026-07-01 |
@@ -2262,7 +2253,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Systems Engineer Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235413) | 85 | Southfield, MI | AI/ML/Data | 2026-07-09 |
 | [Engineering ADAS Perception Features Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235438) | 60 | Auburn Hills, MI | AI/ML/Data | 2026-07-04 |
 | [Product Engineering Engineer Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Grand-Rapids-Michigan-US/Product-Engineering-Intern_R00243272) | 85 | Grand Rapids, MI | Software | 2026-06-15 |
 
@@ -2434,14 +2424,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](https://app.dover.com/apply/mindsmith/e0ca8149-6811-4de9-ba38-65a0244a2b7e) | 60 | Lehi, UT | Software Engineering | 2026-06-24 |
-
-## Mistral
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer, New Grad](https://jobs.lever.co/mistral/cf4616fc-977a-475c-bb2e-eb46a2c4a94f) | 99 | Paris | Engineering & Infra | 2026-07-02 |
-| [Applied Scientist / Research Engineer (Internship)](https://jobs.lever.co/mistral/426ef8c0-eb26-4004-a690-f33c62b445a7) | 83 | Paris | Solutions | 2026-07-02 |
-| [Onboarding specialist (intern)](https://jobs.lever.co/mistral/9f23edb8-c2eb-4144-b6de-4b1bc4aaee26) | 58 | Paris | HR | 2026-07-02 |
 
 ## Monolithic Power Systems
 
@@ -2628,6 +2610,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Year-Round Intern - Quantitative Risk Management](https://theocc.wd5.myworkdayjobs.com/en-US/careers/job/Chicago---125-S-Franklin/Year-Round-Intern---Quantitative-Risk-Management_REQ-4483-1) | 68 | Chicago, IL | Quantitative Finance | 2026-05-09 |
+
+## Occidental Petroleum
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Intern/Co-op Data - Well Servicing & Engineering](https://oxy.wd5.myworkdayjobs.com/Corporate/job/_JR100413) | 68 | Midland, TX / Houston, TX / Fort Lupton, CO / Morton, TX / Denver, CO | AI/ML/Data | 2026-07-10 |
 
 ## Octaura
 
@@ -2987,12 +2975,6 @@
 | [Frontend Software Engineer Intern](https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c) | 85 | New York, NY / San Francisco, CA | — | 2026-07-09 |
 | [Machine Learning Engineer Intern](https://ats.rippling.com/en-GB/rippling/jobs/ee1ec0b1-9a55-408d-979d-9c74f257e9ea) | 85 | San Francisco, CA | — | 2026-07-09 |
 | [Software Engineer Intern](https://ats.rippling.com/en-GB/rippling/jobs/203e0cac-0e30-4603-8087-f764e8c3f85c) | 85 | New York, NY / San Francisco, CA | — | 2026-07-09 |
-
-## Rise8
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Skillbridge Intern - Product Manager](https://job-boards.greenhouse.io/rise8/jobs/4359627007) | 58 | Remote in USA | Product | 2026-07-09 |
 
 ## Rivian
 
