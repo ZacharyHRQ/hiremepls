@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-10T21:18:36.963Z",
+  "generatedAt": "2026-07-10T22:30:02.502Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1123,
+  "jobCount": 1122,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -734,7 +734,6 @@
     "canonical:518f53d8b1c4fc71": "2026-07-02T00:19:11.514Z",
     "canonical:234b0abdc8be0076": "2026-07-02T00:19:11.514Z",
     "canonical:82849cfc4b355f26": "2026-07-02T04:36:39.736Z",
-    "canonical:4b874227c78452af": "2026-07-02T04:36:39.736Z",
     "canonical:3db0e00d555fbcb0": "2026-07-02T04:36:39.736Z",
     "canonical:4aeb2d33b626d0ff": "2026-07-02T04:36:39.736Z",
     "canonical:dac83ccb1e51252c": "2026-07-02T04:36:39.736Z",
@@ -2648,7 +2647,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -11521,19 +11520,6 @@
       "location": "Toronto, ON, Canada / SF",
       "department": "AI/ML/Data",
       "company": "Human Computer Lab",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:4b874227c78452af",
-      "title": "Research Intern",
-      "url": "https://jobs.ashbyhq.com/pika/6c9ba89d-91f3-4cf1-a318-70783773323a/application",
-      "location": "Palo Alto, CA",
-      "department": "AI/ML/Data",
-      "company": "Pika",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
