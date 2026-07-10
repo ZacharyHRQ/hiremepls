@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-10T17:05:29.317Z",
+  "generatedAt": "2026-07-10T18:42:59.914Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1130,
+  "jobCount": 1124,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -46,7 +46,6 @@
     "canonical:ad23aadfeb5e4fdd": "2026-05-06T06:42:07.596Z",
     "canonical:778ae0c54171b31e": "2026-05-06T06:42:07.596Z",
     "canonical:40b5e3e02c34b6ce": "2026-05-09T15:28:15.527Z",
-    "canonical:c0824cd5653cc9ca": "2026-05-09T15:28:15.527Z",
     "canonical:81aff3048f1fe5a2": "2026-05-09T15:28:15.527Z",
     "canonical:fe332cbf1845feb8": "2026-05-09T15:28:15.527Z",
     "canonical:832871e86e614189": "2026-05-09T15:28:15.527Z",
@@ -102,7 +101,6 @@
     "canonical:c9ec25487402b980": "2026-05-09T15:28:15.527Z",
     "canonical:1142853ad5f25a81": "2026-05-09T15:28:15.527Z",
     "canonical:21c3452540b2e7d3": "2026-05-09T15:28:15.527Z",
-    "canonical:91be5b6cd9522752": "2026-05-09T15:28:15.527Z",
     "canonical:af15c824e5d7badb": "2026-05-11T14:01:48.198Z",
     "canonical:18df2a1964fc05b8": "2026-05-09T15:28:15.527Z",
     "canonical:c8e0ad6b0204c789": "2026-05-09T15:28:15.527Z",
@@ -550,7 +548,6 @@
     "canonical:02988811ee1420ed": "2026-06-15T11:27:26.940Z",
     "canonical:fb0b6401fc50cfcd": "2026-06-15T11:27:26.940Z",
     "canonical:8a584693aa3805ae": "2026-06-15T16:25:40.601Z",
-    "canonical:1e4b260af71102a2": "2026-06-16T15:25:00.747Z",
     "canonical:e6d9cce14ccbac53": "2026-06-16T15:25:00.747Z",
     "canonical:80683ba5e9cf44e3": "2026-06-16T15:25:00.747Z",
     "canonical:11abfcbfe59f8ba1": "2026-06-16T21:42:43.395Z",
@@ -667,7 +664,6 @@
     "canonical:c8ca3869c2c9394e": "2026-07-01T06:55:26.212Z",
     "canonical:3e4bc8ae685df9a3": "2026-07-01T06:55:26.212Z",
     "canonical:0c6a01a05ca81c51": "2026-07-01T06:55:26.212Z",
-    "canonical:e71ba7972ee9db45": "2026-07-01T06:55:26.212Z",
     "canonical:b06c1c658f9e9640": "2026-07-01T06:55:26.212Z",
     "canonical:e74ff208aa9bd56c": "2026-07-01T06:55:26.212Z",
     "canonical:4d3f2d2457092a66": "2026-07-01T06:55:26.212Z",
@@ -808,7 +804,6 @@
     "canonical:c1e9394452463ed1": "2026-07-04T12:39:15.733Z",
     "canonical:b0995157b52a70dd": "2026-07-04T12:39:15.733Z",
     "canonical:fae742742a2eb1de": "2026-07-04T12:39:15.733Z",
-    "canonical:1cb06eb7b801cca8": "2026-07-04T14:12:36.824Z",
     "canonical:36ef1ec6d7ec629a": "2026-07-04T14:12:36.824Z",
     "canonical:69629f2e556a8b42": "2026-07-04T15:29:35.645Z",
     "canonical:afa2d46863565441": "2026-07-04T15:29:35.645Z",
@@ -1097,7 +1092,6 @@
     "canonical:3b85b8606d58b1c1": "2026-07-09T00:19:16.415Z",
     "canonical:c7d944825ebe9b46": "2026-07-09T00:19:16.415Z",
     "canonical:e4240dee8fc1eab4": "2026-07-09T10:57:50.412Z",
-    "canonical:1f05dd365577984d": "2026-07-09T13:41:58.021Z",
     "canonical:ae1902dace82286a": "2026-07-09T13:41:58.021Z",
     "canonical:5fc518fc7b2d3289": "2026-07-09T16:14:47.391Z",
     "canonical:9795d61afb3cfc4d": "2026-07-09T16:14:47.391Z",
@@ -2210,18 +2204,6 @@
       ]
     },
     {
-      "id": "canonical:1e4b260af71102a2",
-      "title": "Summer Tax/Accounting Intern ",
-      "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7773846003",
-      "location": "Chicago, IL, United States",
-      "department": "",
-      "company": "Old Mission",
-      "score": 30,
-      "scoreReasons": [
-        "lower-fit title"
-      ]
-    },
-    {
       "id": "canonical:c15d80ab1065f4f1",
       "title": "Quantitative Developer, Intern",
       "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4847708101",
@@ -2822,18 +2804,6 @@
       "company": "Cribl",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:c0824cd5653cc9ca",
-      "title": "Data Analyst Intern",
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8218030002/",
-      "location": "New York, NY",
-      "department": "Data Science, AI & Machine Learning",
-      "company": "Lyft",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
     },
     {
       "id": "canonical:81aff3048f1fe5a2",
@@ -3774,20 +3744,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:91be5b6cd9522752",
-      "title": "AI Engineer Internship",
-      "url": "https://jobs.ashbyhq.com/solva/e336c053-5f6e-4076-ad14-f941ab5096b6/application",
-      "location": "NYC",
-      "department": "AI/ML/Data",
-      "company": "Solva",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -7880,18 +7836,6 @@
       ]
     },
     {
-      "id": "canonical:1cb06eb7b801cca8",
-      "title": "Silicon Performance Validation and Characterization Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Silicon-Performance-Validation-and-Characterization-Intern_JR0284310",
-      "location": "Phoenix, AZ",
-      "department": "Hardware",
-      "company": "Intel",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:9e2ca9c244113a9f",
       "title": "Computer Vision/AI Intern - Computer Vision/AI",
       "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8560657002",
@@ -10884,18 +10828,6 @@
       ]
     },
     {
-      "id": "canonical:e71ba7972ee9db45",
-      "title": "Manufacturing Test Engineer Intern",
-      "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Reno-NV---USA/Intern--Manufacturing-Test-Engineering_JR15204",
-      "location": "Reno, NV",
-      "department": "Hardware",
-      "company": "Generac",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:c1e9394452463ed1",
       "title": "Analytics Intern",
       "url": "https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Analytics-Intern_JR105406",
@@ -11922,20 +11854,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:1f05dd365577984d",
-      "title": "Data Engineer Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/DTCO-Data-Engineer-Intern_JR0285341",
-      "location": "Austin, TX",
-      "department": "AI/ML/Data",
-      "company": "Intel",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {

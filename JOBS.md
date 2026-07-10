@@ -1,6 +1,6 @@
 # Open Internships
 
-**1130** internships across **68/68** companies — last updated 2026-07-10.
+**1124** internships across **68/68** companies — last updated 2026-07-10.
 
 ## Companies
 
@@ -180,7 +180,7 @@
 - [GE Vernova](#ge-vernova) (1)
 - [Gemini](#gemini) (1)
 - [GenBio AI](#genbio-ai) (1)
-- [Generac](#generac) (2)
+- [Generac](#generac) (1)
 - [General Astronautics](#general-astronautics) (1)
 - [General Motors](#general-motors) (3)
 - [GenScript](#genscript) (1)
@@ -224,7 +224,7 @@
 - [Institute of Foundation Models](#institute-of-foundation-models) (3)
 - [Integra FEC](#integra-fec) (3)
 - [Integrity](#integrity) (1)
-- [Intel](#intel) (3)
+- [Intel](#intel) (1)
 - [Intercontinental Exchange, Inc.](#intercontinental-exchange-inc) (1)
 - [Interdigital](#interdigital) (1)
 - [Internship](#internship) (1)
@@ -253,7 +253,6 @@
 - [LinkedIn](#linkedin) (3)
 - [LiveRamp](#liveramp) (1)
 - [Lucid Motors](#lucid-motors) (1)
-- [Lyft](#lyft) (1)
 - [Mackenzie Investments](#mackenzie-investments) (1)
 - [Magna](#magna) (3)
 - [Maher Duessel](#maher-duessel) (1)
@@ -309,7 +308,6 @@
 - [Occidental Petroleum](#occidental-petroleum) (1)
 - [Octaura](#octaura) (1)
 - [OfferUp](#offerup) (1)
-- [Old Mission](#old-mission) (1)
 - [Omnis](#omnis) (1)
 - [onsemi](#onsemi) (3)
 - [Ontic](#ontic) (1)
@@ -388,7 +386,6 @@
 - [Smiths Detection](#smiths-detection) (1)
 - [Snowflake](#snowflake) (14)
 - [SoloPulse](#solopulse) (2)
-- [Solva](#solva) (1)
 - [Sony](#sony) (1)
 - [SOTI](#soti) (4)
 - [SpaceX](#spacex) (3)
@@ -1716,7 +1713,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Manufacturing Test Engineer Intern](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Reno-NV---USA/Intern--Manufacturing-Test-Engineering_JR15204) | 58 | Reno, NV | Hardware | 2026-07-01 |
 | [Firmware Engineering Intern](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR14674) | 58 | Reno, NV | Hardware | 2026-06-19 |
 
 ## General Astronautics
@@ -2030,9 +2026,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Data Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/DTCO-Data-Engineer-Intern_JR0285341) | 93 | Austin, TX | AI/ML/Data | 2026-07-09 |
 | [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) | 68 | Hillsboro, OR / Folsom, CA | — | 2026-07-09 |
-| [Silicon Performance Validation and Characterization Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Silicon-Performance-Validation-and-Characterization-Intern_JR0284310) | 58 | Phoenix, AZ | Hardware | 2026-07-04 |
 
 ## Intercontinental Exchange, Inc.
 
@@ -2233,12 +2227,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Finance Business Analytics Intern](https://job-boards.greenhouse.io/lucidmotors/jobs/5136407007) | 68 | Concord, NH | AI/ML/Data | 2026-06-17 |
-
-## Lyft
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Analyst Intern](https://app.careerpuck.com/job-board/lyft/job/8218030002/) | 60 | New York, NY | Data Science, AI & Machine Learning | 2026-05-09 |
 
 ## Mackenzie Investments
 
@@ -2624,12 +2612,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/offerup/jobs/8004171) | 93 | Bellevue, WA | Software | 2026-06-13 |
-
-## Old Mission
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Summer Tax/Accounting Intern](https://www.oldmissioncapital.com/careers/?gh_jid=7773846003) | 30 | Chicago, IL, United States | — | 2026-06-16 |
 
 ## Omnis
 
@@ -3219,12 +3201,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern/Co-op](https://jobs.lever.co/solopulseco/00fbde18-a387-4c9f-97d4-77059aec7b56/apply) | 93 | Norcross, GA | Software | 2026-06-05 |
 | [Systems Engineering Intern](https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51/apply) | 58 | Norcross, GA | Hardware | 2026-05-09 |
-
-## Solva
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI Engineer Internship](https://jobs.ashbyhq.com/solva/e336c053-5f6e-4076-ad14-f941ab5096b6/application) | 93 | NYC | AI/ML/Data | 2026-05-09 |
 
 ## Sony
 
