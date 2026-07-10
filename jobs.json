@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-10T12:25:19.014Z",
+  "generatedAt": "2026-07-10T15:08:14.580Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1133,
+  "jobCount": 1130,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -704,7 +704,6 @@
     "canonical:da43e95b373e89ac": "2026-07-01T06:55:26.212Z",
     "canonical:06a5a711379628ba": "2026-07-01T06:55:26.212Z",
     "canonical:1ee6ba6747ac87c2": "2026-07-01T06:55:26.212Z",
-    "canonical:417e3f281b3a03a3": "2026-07-01T06:55:26.212Z",
     "canonical:acc4eb5c29e25657": "2026-07-01T06:55:26.212Z",
     "canonical:60fe78b324230eaa": "2026-07-01T10:37:16.482Z",
     "canonical:c5c8d41f5222405f": "2026-07-01T10:37:16.482Z",
@@ -807,7 +806,6 @@
     "canonical:8504c5f17035dc0a": "2026-07-04T12:39:15.733Z",
     "canonical:ebdb73f1d53cde75": "2026-07-04T12:39:15.733Z",
     "canonical:55f7914d8c2bdcce": "2026-07-04T12:39:15.733Z",
-    "canonical:6a08b8735bc24eb5": "2026-07-04T12:39:15.733Z",
     "canonical:c1e9394452463ed1": "2026-07-04T12:39:15.733Z",
     "canonical:b0995157b52a70dd": "2026-07-04T12:39:15.733Z",
     "canonical:fae742742a2eb1de": "2026-07-04T12:39:15.733Z",
@@ -828,15 +826,12 @@
     "canonical:93464f6398ffa1e2": "2026-07-06T08:49:26.746Z",
     "canonical:bc8833498b1b834e": "2026-07-06T08:49:26.746Z",
     "canonical:d3ac4a035bf89211": "2026-07-06T08:49:26.746Z",
-    "canonical:4d2e609f5bb30885": "2026-07-06T08:49:26.746Z",
     "canonical:6534e2ff980befe8": "2026-07-06T08:49:26.746Z",
     "canonical:68a0673a5967ac2e": "2026-07-06T08:49:26.746Z",
     "canonical:eef3e4204e664840": "2026-07-06T08:49:26.746Z",
     "canonical:8b522f36817f5b67": "2026-07-06T12:35:42.482Z",
-    "canonical:69ccd154a918e4f8": "2026-07-06T12:35:42.482Z",
     "canonical:80cca71dae305229": "2026-07-06T16:08:02.314Z",
     "canonical:33468546ec21eeb5": "2026-07-06T16:08:02.314Z",
-    "canonical:279186003d098051": "2026-07-06T16:08:02.314Z",
     "canonical:70d6d85016f5db82": "2026-07-06T16:08:02.314Z",
     "canonical:a12772f2bf1637b3": "2026-07-06T22:57:31.301Z",
     "canonical:64fbf70d13de7189": "2026-07-06T22:57:31.301Z",
@@ -1136,7 +1131,9 @@
     "canonical:219d5b6a1f795c65": "2026-07-10T09:59:02.207Z",
     "canonical:c1817238d89b26e3": "2026-07-10T12:25:19.014Z",
     "canonical:99aaad0a301ea911": "2026-07-10T12:25:19.014Z",
-    "canonical:7cd65dbc34efa0fa": "2026-07-10T12:25:19.014Z"
+    "canonical:7cd65dbc34efa0fa": "2026-07-10T12:25:19.014Z",
+    "canonical:fc49ab4fb89dc0f7": "2026-07-10T15:08:14.580Z",
+    "canonical:6f2e36c04683a5be": "2026-07-10T15:08:14.580Z"
   },
   "jobs": [
     {
@@ -1500,10 +1497,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1515,10 +1512,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -2025,10 +2022,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -2039,10 +2036,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -2657,7 +2654,7 @@
     },
     {
       "id": "canonical:9795d61afb3cfc4d",
-      "title": "Marketing Events and Campaigns Intern (FALL 2026)",
+      "title": "Marketing Events and Campaigns Intern (Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8053546?gh_jid=8053546",
       "location": "In-Office",
       "department": "",
@@ -8381,19 +8378,6 @@
       ]
     },
     {
-      "id": "canonical:6a08b8735bc24eb5",
-      "title": "Multimedia Development Intern",
-      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Multimedia-development-intern_R107331",
-      "location": "Palo Alto, CA",
-      "department": "AI/ML/Data",
-      "company": "Tencent",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:82923c3db9bd2d1e",
       "title": "Research Intern",
       "url": "https://job-boards.eu.greenhouse.io/gensyn/jobs/4579609101",
@@ -11388,19 +11372,6 @@
       ]
     },
     {
-      "id": "canonical:417e3f281b3a03a3",
-      "title": "Quantitative Researcher PhD Intern",
-      "url": "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-us/",
-      "location": "Miami, FL / NYC",
-      "department": "Quant",
-      "company": "Citadel Securities",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:9b2f6d5991a31273",
       "title": "Quantitative Researcher PhD Intern",
       "url": "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-europe/",
@@ -12363,18 +12334,6 @@
       ]
     },
     {
-      "id": "canonical:4d2e609f5bb30885",
-      "title": "Quantitative Trader Intern",
-      "url": "https://www.citadelsecurities.com/careers/details/quantitative-trader-intern-us/",
-      "location": "Miami, FL / NYC",
-      "department": "Quant",
-      "company": "Citadel Securities",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:6534e2ff980befe8",
       "title": "Quantitative Research Analyst Intern",
       "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/",
@@ -12409,30 +12368,6 @@
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:69ccd154a918e4f8",
-      "title": "Quantitative Research Analyst Intern",
-      "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-us/",
-      "location": "Miami, FL / NYC",
-      "department": "Quant",
-      "company": "Citadel Securities",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:279186003d098051",
-      "title": "Engineering Intern - Business Support",
-      "url": "https://careers-gd-ots.icims.com/jobs/36564/job?mobile=true&needsRedirect=false",
-      "location": "Gadsden, AL",
-      "department": "AI/ML/Data",
-      "company": "General Dynamics",
-      "score": 60,
-      "scoreReasons": [
         "high-signal role"
       ]
     },
@@ -12660,6 +12595,19 @@
       "location": "Cardiff, UK",
       "department": "AI/ML/Data",
       "company": "KLA Corporation",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:fc49ab4fb89dc0f7",
+      "title": "Off Cycle Intern - Aiden Edge",
+      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Off-Cycle-Intern---Aiden-Edge_R-0000179570",
+      "location": "London, UK",
+      "department": "Software",
+      "company": "Royal Bank of Canada",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -13212,6 +13160,19 @@
       "company": "Aptiv",
       "score": 58,
       "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:6f2e36c04683a5be",
+      "title": "Database Analyst Intern",
+      "url": "https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs/job/Warminster-PA/Database-Analyst-Intern_JR0046726",
+      "location": "Horsham, PA",
+      "department": "AI/ML/Data",
+      "company": "ALFA LAVAL",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
         "direct ATS"
       ]
     },
