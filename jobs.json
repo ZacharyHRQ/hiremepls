@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-10T20:05:17.858Z",
+  "generatedAt": "2026-07-10T21:18:36.963Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1124,
+  "jobCount": 1123,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -851,7 +851,6 @@
     "canonical:93e5acdf67dbb99b": "2026-07-07T15:49:17.557Z",
     "canonical:c935df1082cc92fc": "2026-07-07T15:49:17.557Z",
     "canonical:f330847a3d58ab80": "2026-07-07T15:49:17.557Z",
-    "canonical:964f7a45508aa775": "2026-07-07T15:49:17.557Z",
     "canonical:cdde573bf6670f2a": "2026-07-07T15:49:17.557Z",
     "canonical:1782ca39c8f2f506": "2026-07-07T15:49:17.557Z",
     "canonical:5fa72ef79272ee7f": "2026-07-07T15:49:17.557Z",
@@ -1312,19 +1311,6 @@
       "id": "canonical:f330847a3d58ab80",
       "title": "2027 - Software Engineering Intern - IIT Delhi",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917535101",
-      "location": "Mumbai, India",
-      "department": "",
-      "company": "IMC Trading",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:964f7a45508aa775",
-      "title": "2027 - Software Engineering Intern - IIT Guwahati",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917542101",
       "location": "Mumbai, India",
       "department": "",
       "company": "IMC Trading",
