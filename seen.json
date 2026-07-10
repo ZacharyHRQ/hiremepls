@@ -164,9 +164,7 @@
     "cade83ae-9727-4497-8e73-8a310a8b6a85",
     "e2412cd5-19dd-44f8-addd-c9ef3c99ff82"
   ],
-  "MongoDB": [
-    "7768470"
-  ],
+  "MongoDB": [],
   "Cloudflare": [
     "8044395",
     "7799138",
@@ -496,8 +494,6 @@
     "simplify:5e6027c1-06ff-4833-98fc-5748108833bf",
     "simplify:b9a99f84-c011-4f16-806a-8ad02e98b530",
     "simplify:35066ac0-1560-4dd8-af1e-43c56f13ef8c",
-    "simplify:05b661df-ed46-482b-8ebd-7248a6a234eb",
-    "simplify:c3656022-c1f5-43d7-9752-dacfb3d6479d",
     "simplify:f43a9396-7c89-4fa7-bfd1-eca8533895fb",
     "simplify:55023fd3-ef60-49f4-ac11-5d1fe01b0a7d",
     "simplify:6030164c-e664-402f-979c-959537416807",
@@ -749,7 +745,6 @@
     "simplify:33e9e81b-42a0-47d7-9c76-af096d2205c3",
     "simplify:d61f0f42-99b5-4c9d-a8bf-5561238b3014",
     "simplify:11aaf289-dda4-4297-8b78-8998a2d45e2f",
-    "simplify:4474324d-fc29-44ab-ac6b-ad29c0babae6",
     "simplify:951080fa-b448-4ec1-8e54-80b5a3176cca",
     "simplify:1e24ca64-daad-4e93-b51b-88f86f72518a",
     "simplify:2283b39a-bd55-4fc6-8bb7-6e3a6a999b59",
@@ -932,7 +927,6 @@
     "simplify:40090818-c9a2-4104-9627-111a5b9cd079",
     "simplify:867acde4-08ae-4a84-baf0-63bb696e9e45",
     "simplify:1f74ca3f-e832-45e6-bc13-b8222034e373",
-    "simplify:3781fd12-0d4b-4e6f-a890-013b3381c856",
     "simplify:6813e05c-291f-4297-bae8-9e6c59d4a809",
     "simplify:87b3e2e9-6e48-46cf-a3ad-0144480aaea6",
     "simplify:5288f66e-452b-4ae7-a62d-12249dce5312",
@@ -1048,6 +1042,7 @@
     "simplify:951ea1eb-5dba-4124-a68e-3b001ca355d9",
     "simplify:5e294159-e3e6-40db-afb9-65ff63749aa3",
     "simplify:4ac1edc9-7294-4f37-bb6d-8ea01d88c666",
+    "simplify:36b79a50-6c90-42a0-8884-86ce10b25d38",
     "simplify:272daeda-6504-4221-a6fb-f2970bd123c7",
     "simplify:503be939-a684-4928-96bc-ae4baa9e4e7c",
     "simplify:9778af58-1bb3-45ce-8c29-a47b0cc9fb65",
@@ -1080,7 +1075,9 @@
     "simplify:6c97854c-c8cd-46cc-b26a-8a3f63aab585",
     "simplify:1cf14ab5-bc9d-4842-9fb3-7f423c965a86",
     "simplify:0cbf75bc-782b-44c5-aa84-1a64af96a3b4",
-    "simplify:1de12102-5f3b-4c75-83ce-02e4d9bb828d"
+    "simplify:1de12102-5f3b-4c75-83ce-02e4d9bb828d",
+    "simplify:f5df0ff3-923c-48b4-abf3-9c10848eb7ed",
+    "simplify:b93ad719-d868-461f-85a0-10eb85509e6a"
   ],
   "vanshb03": [
     "vansh:df70fa57-977b-4f31-832e-a0e57ed070b5",
@@ -1146,17 +1143,12 @@
     "vansh:0babc28a-266b-45dc-bd63-3be553ec8bd4",
     "vansh:7dc12db6-b846-4319-a1f0-ce521dd0dbd5",
     "vansh:62ac4d70-6428-4210-b204-13ee51d1248b",
-    "vansh:74de7d1a-1b7b-44f2-8c09-adc0b4b8d0d0",
     "vansh:9f07a128-2de0-4118-ab14-8b39c835dfa4",
     "vansh:28bb78f3-56ce-4349-bc48-5990025540af",
     "vansh:2b0b7d78-f588-4c81-b82f-18f1a0c37f28",
     "vansh:85b7f3fa-5e2f-4ace-9996-537baf4b7077",
-    "vansh:2d43b346-3810-4720-b35b-4e8c43e3cc93",
-    "vansh:5d20293f-c698-455d-937c-b65bb871bb12",
-    "vansh:2a341560-bbef-4586-8fbd-0f9c3c22f862",
     "vansh:c522967f-6f76-4dca-aa95-3ac693ac5fc4",
     "vansh:6cfa7517-e379-4ee9-b797-46bd8660d50a",
-    "vansh:cf52cf4a-37b5-43d6-85ca-9b33b0696d53",
     "vansh:54f1c8a5-bef7-404a-a9c7-87ce94f6f777",
     "vansh:5b631d88-6881-4181-acea-ff000920ea87",
     "vansh:d5070448-480e-4902-91fd-3bc77c000ace",
@@ -1181,7 +1173,6 @@
     "vansh:26f88c07-a2f8-49b8-9a79-5a4c8c540aa5",
     "vansh:05b29a0e-a42b-46a9-bb3f-1aa15c38d42c",
     "vansh:e32f9906-604b-4675-a090-4a175e09bfd5",
-    "vansh:dc436321-255d-47c6-a34d-1082dec4ae93",
     "vansh:65f57b05-3453-432e-8874-c22e99f13c8f",
     "vansh:565fa359-8072-441c-92f5-84176260d817",
     "vansh:a448ff8b-1718-4140-af05-4fa5548d82b1",
@@ -1226,7 +1217,15 @@
     "vansh:a067ab42-1f1c-43ce-af5a-93749ee307ca",
     "vansh:502349f4-deb0-4f53-b0ba-4d095bfce02a",
     "vansh:5d9a43f8-7e38-40ad-8d88-41ac71297a4f",
-    "vansh:7c6cb84c-1fcc-4634-b671-50e75e7dbcac"
+    "vansh:7c6cb84c-1fcc-4634-b671-50e75e7dbcac",
+    "vansh:6f2fd56d-e37c-42ba-8d10-d0d152a365f7",
+    "vansh:94708b11-2a87-4fad-a88c-c6aa462158d2",
+    "vansh:413c4ddb-6cef-4485-8fa1-7f32b85aeb2e",
+    "vansh:a7bd2d84-9af6-4b62-a59c-93989ba1494a",
+    "vansh:ffd02117-6e1f-46af-837a-270cbfbb64af",
+    "vansh:4cbce0ea-5dd0-4ad2-a871-b11689edebf4",
+    "vansh:70a41d94-ef6b-45b2-a99b-13880f6679ee",
+    "vansh:03443f37-7b10-4753-8828-2d9bcc2e4f2d"
   ],
   "Rethinkjobs Summer 2026": [
     "github-md:rethinkjobs-summer-2026:e708493c2b0a",
