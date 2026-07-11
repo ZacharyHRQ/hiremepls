@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-10T23:30:41.605Z",
+  "generatedAt": "2026-07-11T01:05:22.089Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1132,
+  "jobCount": 1129,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -408,7 +408,6 @@
     "canonical:f4e22ee521bb8e41": "2026-06-05T16:17:30.887Z",
     "canonical:1903ea6b0e57aeaa": "2026-06-06T00:04:30.171Z",
     "canonical:0ef865c3ff3f9f5f": "2026-06-06T00:04:30.171Z",
-    "canonical:3da39dab672a1b4b": "2026-06-06T00:04:30.171Z",
     "canonical:3c4f1b7e61c23218": "2026-06-06T07:29:16.741Z",
     "canonical:a98b1aa946348c37": "2026-06-06T12:15:10.399Z",
     "canonical:2b95c48ea9f5b253": "2026-06-06T14:14:20.078Z",
@@ -1128,12 +1127,10 @@
     "canonical:3a0280cd297d1f55": "2026-07-10T23:30:41.605Z",
     "canonical:03256d9192dfcb79": "2026-07-10T23:30:41.605Z",
     "canonical:231f083d8fe55a00": "2026-07-10T23:30:41.605Z",
-    "canonical:c3650628970bf96d": "2026-07-10T23:30:41.605Z",
     "canonical:b3db40bed27920e6": "2026-07-10T23:30:41.605Z",
     "canonical:b534606d935d0b90": "2026-07-10T23:30:41.605Z",
     "canonical:c6951e2db477e52a": "2026-07-10T23:30:41.605Z",
     "canonical:fff5249c0c299e15": "2026-07-10T23:30:41.605Z",
-    "canonical:6f71c0e1a0b9d26f": "2026-07-10T23:30:41.605Z",
     "canonical:6c2a293763383474": "2026-07-10T23:30:41.605Z",
     "canonical:c0deff3a3517d776": "2026-07-10T23:30:41.605Z"
   },
@@ -2657,7 +2654,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -8394,18 +8391,6 @@
       ]
     },
     {
-      "id": "canonical:3da39dab672a1b4b",
-      "title": "Hardware Reliability & Test Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/base-power/fbb553e1-5fb8-49a1-b5a5-9c7dde6b4406/application",
-      "location": "Austin, TX",
-      "department": "Hardware",
-      "company": "Base Power",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:a98b1aa946348c37",
       "title": "AI Builder Intern",
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4703343005",
@@ -13103,18 +13088,6 @@
       ]
     },
     {
-      "id": "canonical:c3650628970bf96d",
-      "title": "Engineering Intern",
-      "url": "https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/San-Diego-CA-United-States/Engineering-Intern_REQ-12205-1",
-      "location": "San Diego, CA",
-      "department": "Hardware",
-      "company": "Ultra",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:b3db40bed27920e6",
       "title": "AI-First Engineer Intern",
       "url": "https://jobs.lever.co/xsolla/5d5fd6b3-d82f-437a-b251-abf4674ac874/apply",
@@ -13167,18 +13140,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:6f71c0e1a0b9d26f",
-      "title": "Engineering Intern",
-      "url": "https://ultra.wd3.myworkdayjobs.com/uiccareers/job/San-Diego-CA-United-States/Engineering-Intern_REQ-12205",
-      "location": "San Diego, CA",
-      "department": "Hardware",
-      "company": "Ultra Intelligence and Communications",
-      "score": 58,
-      "scoreReasons": [
         "direct ATS"
       ]
     },
