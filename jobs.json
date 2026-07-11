@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-11T04:25:06.399Z",
+  "generatedAt": "2026-07-11T06:31:33.467Z",
   "companyCount": 68,
-  "okCount": 68,
-  "jobCount": 1128,
+  "okCount": 67,
+  "jobCount": 1124,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -672,7 +672,6 @@
     "canonical:3a586592cda0efdc": "2026-07-01T06:55:26.212Z",
     "canonical:9d59be172bb09c82": "2026-07-01T06:55:26.212Z",
     "canonical:f0de3f803d86910d": "2026-07-01T06:55:26.212Z",
-    "canonical:1f53e1a347a9abe5": "2026-07-01T06:55:26.212Z",
     "canonical:6cdeade3596dab85": "2026-07-01T06:55:26.212Z",
     "canonical:0b23a476235f95ad": "2026-07-01T06:55:26.212Z",
     "canonical:29e5d4f961b72298": "2026-07-01T06:55:26.212Z",
@@ -795,7 +794,6 @@
     "canonical:8504c5f17035dc0a": "2026-07-04T12:39:15.733Z",
     "canonical:ebdb73f1d53cde75": "2026-07-04T12:39:15.733Z",
     "canonical:55f7914d8c2bdcce": "2026-07-04T12:39:15.733Z",
-    "canonical:c1e9394452463ed1": "2026-07-04T12:39:15.733Z",
     "canonical:b0995157b52a70dd": "2026-07-04T12:39:15.733Z",
     "canonical:fae742742a2eb1de": "2026-07-04T12:39:15.733Z",
     "canonical:36ef1ec6d7ec629a": "2026-07-04T14:12:36.824Z",
@@ -817,7 +815,6 @@
     "canonical:6534e2ff980befe8": "2026-07-06T08:49:26.746Z",
     "canonical:68a0673a5967ac2e": "2026-07-06T08:49:26.746Z",
     "canonical:eef3e4204e664840": "2026-07-06T08:49:26.746Z",
-    "canonical:8b522f36817f5b67": "2026-07-06T12:35:42.482Z",
     "canonical:80cca71dae305229": "2026-07-06T16:08:02.314Z",
     "canonical:33468546ec21eeb5": "2026-07-06T16:08:02.314Z",
     "canonical:70d6d85016f5db82": "2026-07-06T16:08:02.314Z",
@@ -861,7 +858,6 @@
     "canonical:e6967e910537de21": "2026-07-07T23:26:57.673Z",
     "canonical:cb6ec0e16b9f5a51": "2026-07-07T23:26:57.673Z",
     "canonical:cb8d735868564283": "2026-07-07T23:26:57.673Z",
-    "canonical:7762fcb416cff1c1": "2026-07-07T23:26:57.673Z",
     "canonical:8076253cd145ab02": "2026-07-08T04:12:01.868Z",
     "canonical:8385aa46301105a2": "2026-07-08T15:14:34.101Z",
     "canonical:1cb970dd90b802db": "2026-07-08T15:14:34.101Z",
@@ -9092,19 +9088,6 @@
       ]
     },
     {
-      "id": "canonical:8b522f36817f5b67",
-      "title": "Software Developer Intern",
-      "url": "https://careers-kinaxis.icims.com/jobs/34899/job?mobile=true&needsRedirect=false",
-      "location": "Ottawa, ON, Canada",
-      "department": "Software",
-      "company": "Kinaxis",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:3cfa8d538fe65c66",
       "title": "Embedded Software Intern - Embedded Software Engineer - Optimus",
       "url": "https://www.tesla.com/careers/search/job/273272",
@@ -10768,19 +10751,6 @@
       ]
     },
     {
-      "id": "canonical:c1e9394452463ed1",
-      "title": "Analytics Intern",
-      "url": "https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Analytics-Intern_JR105406",
-      "location": "Cleveland, OH",
-      "department": "AI/ML/Data",
-      "company": "thyssenkrupp",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:b06c1c658f9e9640",
       "title": "Data Engineer Intern - Applications Engineering",
       "url": "https://www.tesla.com/careers/search/job/272928",
@@ -10931,19 +10901,6 @@
       "location": "Austin, TX",
       "department": "Hardware",
       "company": "Cirrus Logic",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:1f53e1a347a9abe5",
-      "title": "Business Strategy & Analytics Intern",
-      "url": "https://mlse.wd3.myworkdayjobs.com/MLSE/job/Toronto-Ontario/Business-Strategy---Analytics-Intern_JR0000537-1",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Maple Leaf Sports & Entertainment Partnership (MLSE)",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -11675,18 +11632,6 @@
       "location": "London, UK",
       "department": "Hardware",
       "company": "Apple",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:1463c8d45c6981d1",
-      "title": "GIS Intern",
-      "url": "https://external-telecom-teldta.icims.com/jobs/29604/job?mobile=true&needsRedirect=false",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "TDS",
       "score": 60,
       "scoreReasons": [
         "high-signal role"
@@ -12496,6 +12441,18 @@
       ]
     },
     {
+      "id": "canonical:1463c8d45c6981d1",
+      "title": "GIS Intern",
+      "url": "https://external-telecom-teldta.icims.com/jobs/29612/job?mobile=true&needsRedirect=false",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "TDS",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:674a7ec7b82b1de4",
       "title": "Business Data Analyst Intern - Business / Data Analyst",
       "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Laval/XMLNAME-2026-Fall-Intern---Business---Data-Analyst-Intern---Stagiaire-d-Automne-2026---Analyste-d-Affaires---de-Donnes_202606-116950",
@@ -12580,20 +12537,6 @@
       "company": "Rockwell Automation",
       "score": 58,
       "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:7762fcb416cff1c1",
-      "title": "Data Engineer Intern",
-      "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Data-Engineer-Intern--4-Months-_R-0000169658-3",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Royal Bank of Canada",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
         "direct ATS"
       ]
     },
@@ -15563,5 +15506,10 @@
       ]
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "company": "BlackRock",
+      "message": "workday blackrock: expected JSON, got text/html; charset=UTF-8: <!DOCTYPE html>\n<html lang=\"en\" dir=\"ltr\">\n  <head>\n    <meta charset=\"utf-8\" />"
+    }
+  ]
 }
