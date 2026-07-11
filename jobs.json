@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-11T17:13:08.438Z",
+  "generatedAt": "2026-07-11T18:06:19.194Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1111,
+  "jobCount": 1110,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -638,7 +638,6 @@
     "canonical:c41ef117bb4ff60c": "2026-07-01T06:55:26.212Z",
     "canonical:9dc2a65da3cbfb3d": "2026-07-01T06:55:26.212Z",
     "canonical:165736f3f7436d71": "2026-07-01T06:55:26.212Z",
-    "canonical:ce24e19952ce522a": "2026-07-01T06:55:26.212Z",
     "canonical:f45a04a294acd566": "2026-07-01T06:55:26.212Z",
     "canonical:f13ad3cda447101a": "2026-07-01T06:55:26.212Z",
     "canonical:11b276e5677a2970": "2026-07-01T06:55:26.212Z",
@@ -7056,19 +7055,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:ce24e19952ce522a",
-      "title": "Computer Vision Intern",
-      "url": "https://job-boards.greenhouse.io/brightai/jobs/6002012004",
-      "location": "Palo Alto, CA",
-      "department": "AI/ML/Data",
-      "company": "BrightAI",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {

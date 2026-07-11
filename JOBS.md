@@ -1,6 +1,6 @@
 # Open Internships
 
-**1111** internships across **68/68** companies — last updated 2026-07-11.
+**1110** internships across **68/68** companies — last updated 2026-07-11.
 
 ## Companies
 
@@ -79,7 +79,6 @@
 - [Bot Auto](#bot-auto) (1)
 - [Boys Town](#boys-town) (1)
 - [Brex](#brex) (1)
-- [BrightAI](#brightai) (1)
 - [Brookfield](#brookfield) (1)
 - [Brunswick](#brunswick) (1)
 - [BSE Global](#bse-global) (1)
@@ -988,12 +987,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Brex Internship Program](https://www.brex.com/careers/8578067002?gh_jid=8578067002) | 50 | São Paulo, São Paulo, Brazil | — | 2026-06-04 |
-
-## BrightAI
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Computer Vision Intern](https://job-boards.greenhouse.io/brightai/jobs/6002012004) | 68 | Palo Alto, CA | AI/ML/Data | 2026-07-01 |
 
 ## Brookfield
 
