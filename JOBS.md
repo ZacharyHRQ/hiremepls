@@ -77,6 +77,7 @@
 - [Bosch Home Comfort](#bosch-home-comfort) (4)
 - [Boston Consulting Group](#boston-consulting-group) (2)
 - [Bot Auto](#bot-auto) (1)
+- [Boys Town](#boys-town) (1)
 - [Brex](#brex) (1)
 - [BrightAI](#brightai) (1)
 - [Brookfield](#brookfield) (1)
@@ -93,7 +94,6 @@
 - [Centerfield](#centerfield) (2)
 - [Charles River Analytics](#charles-river-analytics) (1)
 - [Chartwells Higher Education Dining Services](#chartwells-higher-education-dining-services) (1)
-- [CHEP](#chep) (1)
 - [Cherry Bekaert](#cherry-bekaert) (2)
 - [Chevron Corporation](#chevron-corporation) (1)
 - [Ciena](#ciena) (2)
@@ -180,7 +180,7 @@
 - [GenBio AI](#genbio-ai) (1)
 - [Generac](#generac) (1)
 - [General Astronautics](#general-astronautics) (1)
-- [General Motors](#general-motors) (3)
+- [General Motors](#general-motors) (2)
 - [GenScript](#genscript) (1)
 - [Gensyn](#gensyn) (1)
 - [Genworth](#genworth) (1)
@@ -235,7 +235,7 @@
 - [K1](#k1) (1)
 - [KBR](#kbr) (1)
 - [Kensington](#kensington) (2)
-- [Kinaxis](#kinaxis) (1)
+- [Kinaxis](#kinaxis) (2)
 - [KLA](#kla) (1)
 - [KLA Corporation](#kla-corporation) (1)
 - [Kognitos](#kognitos) (1)
@@ -347,7 +347,6 @@
 - [RESPEC](#respec) (1)
 - [RFCUNY](#rfcuny) (1)
 - [Rippling](#rippling) (3)
-- [Rise8](#rise8) (1)
 - [Rivian](#rivian) (1)
 - [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (14)
 - [Robert Bosch Venture Capital](#robert-bosch-venture-capital) (2)
@@ -400,7 +399,7 @@
 - [TDS](#tds) (1)
 - [Teall Sports & Entertainment](#teall-sports-entertainment) (1)
 - [Technergetics](#technergetics) (1)
-- [Tencent](#tencent) (6)
+- [Tencent](#tencent) (7)
 - [TENEX.AI](#tenex-ai) (1)
 - [Tenstorrent](#tenstorrent) (7)
 - [Terranox AI](#terranox-ai) (1)
@@ -427,9 +426,10 @@
 - [Toyota Research Institute](#toyota-research-institute) (2)
 - [Traackr](#traackr) (1)
 - [Tradeweb](#tradeweb) (1)
+- [Trane Technologies](#trane-technologies) (1)
 - [TransMarket Group](#transmarket-group) (1)
 - [Trata](#trata) (1)
-- [Travelers](#travelers) (4)
+- [Travelers](#travelers) (3)
 - [Truland Equipment](#truland-equipment) (1)
 - [Truveta](#truveta) (1)
 - [Two Six Technologies](#two-six-technologies) (1)
@@ -974,6 +974,12 @@
 | --- | --- | --- | --- | --- |
 | [Deep Learning Engineer Intern](https://job-boards.greenhouse.io/botauto/jobs/5289440008) | 93 | Houston, TX | AI/ML/Data | 2026-07-02 |
 
+## Boys Town
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Artificial Intelligence & Machine Learning Intern](https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Artificial-Intelligence---Machine-Learning-Intern_REQ-2026-8543-1) | 68 | Omaha, NE | AI/ML/Data | 2026-07-11 |
+
 ## Brex
 
 | Title | Score | Location | Department | First seen |
@@ -1105,12 +1111,6 @@
 | --- | --- | --- | --- | --- |
 | [Field Marketing Intern, Chartwells Higher Ed / University of North Carolina](https://www.linkedin.com/jobs/view/4261076817) | 22 | Charlotte, NC | — | 2026-07-09 |
 
-## CHEP
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [FP&A Business Intelligence Intern](https://brambles.wd5.myworkdayjobs.com/en-US/Brambles_Careers/job/London-England-United-Kingdom/FP-A-Business-Intelligence-Intern_JR23946-1) | 68 | London, UK / Orlando, FL / Atlanta, GA | AI/ML/Data | 2026-07-10 |
-
 ## Cherry Bekaert
 
 | Title | Score | Location | Department | First seen |
@@ -1186,7 +1186,7 @@
 | [Technical Support Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8041135?gh_jid=8041135) | 58 | In-Office | — | 2026-07-03 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
 | [Sales Project Manager Intern (AI Innovation) (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8020830?gh_jid=8020830) | 38 | In-Office | — | 2026-06-23 |
 | [People Team Intern - HR Operations & AI Innovation (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240) | 58 | In-Office | — | 2026-05-20 |
 | [Global Trade Compliance Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7799138?gh_jid=7799138) | 58 | In-Office | — | 2026-05-06 |
@@ -1703,7 +1703,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Research and Development Intern - Research & Development: AI/ML](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--AI-ML_JR-202612795) | 68 | Mountain View, CA / Warren, MI | AI/ML/Data | 2026-07-08 |
 | [Research and Development Intern - Research & Development](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development_JR-202613027) | 68 | Warren, MI | AI/ML/Data | 2026-07-06 |
 | [2026 Summer Intern - Software Engineer, Machine Learning Validation (PhD)](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Software-Engineer--Machine-Learning-Validation--PhD-_JR-202523181) | 93 | Mountain View, CA / Sunnyvale, CA | Data Science, AI & Machine Learning | 2026-05-09 |
 
@@ -2106,6 +2105,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Engineer Co-op/Intern - Data & Analytics](https://careers-kinaxis.icims.com/jobs/34766/job?mobile=true&needsRedirect=false) | 85 | Ottawa, ON, Canada | AI/ML/Data | 2026-07-11 |
 | [Software Development Co-op/Intern - C++](https://careers-kinaxis.icims.com/jobs/34764/job?mobile=true&needsRedirect=false) | 60 | Ottawa, ON, Canada | Software | 2026-06-18 |
 
 ## KLA
@@ -2897,12 +2897,6 @@
 | [Machine Learning Engineer Intern](https://ats.rippling.com/en-GB/rippling/jobs/ee1ec0b1-9a55-408d-979d-9c74f257e9ea) | 85 | San Francisco, CA | — | 2026-07-09 |
 | [Software Engineer Intern](https://ats.rippling.com/en-GB/rippling/jobs/203e0cac-0e30-4603-8087-f764e8c3f85c) | 85 | New York, NY / San Francisco, CA | — | 2026-07-09 |
 
-## Rise8
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Skillbridge Intern - Product Manager](https://job-boards.greenhouse.io/rise8/jobs/4359627007) | 58 | Remote in USA | Product | 2026-07-10 |
-
 ## Rivian
 
 | Title | Score | Location | Department | First seen |
@@ -3284,6 +3278,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Game Research & Development Intern - Engine Research](https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/US-California-Los-Angeles/Game-Research---Development-Intern--Engine-Research_R107344) | 68 | LA | Software | 2026-07-11 |
 | [Software Engineering Intern - PC Game Client Development](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Software-Engineering-Intern_R107162-1) | 68 | London, UK | Software | 2026-07-07 |
 | [Video Generation Content Understanding and Feedback Research Intern](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/UK-London/Video-Generation-Content-Understanding-and-Feedback-Research-Intern_R107680) | 68 | London, UK | AI/ML/Data | 2026-06-22 |
 | [Hunyuan Multimodal Algorithm Researcher Intern - Omni-Modal](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650-2) | 93 | Palo Alto, CA | AI/ML/Data | 2026-06-13 |
@@ -3624,6 +3619,12 @@
 | --- | --- | --- | --- | --- |
 | [Tradeweb International Intern Program - JavaScript UI Developer - Technology Division](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301721) | 85 | London, UK | Software | 2026-05-09 |
 
+## Trane Technologies
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Collections Data Analyst Intern](https://careers.tranetechnologies.com/global/en/job/JR-4222) | 60 | Winona, MN | AI/ML/Data | 2026-07-11 |
+
 ## TransMarket Group
 
 | Title | Score | Location | Department | First seen |
@@ -3643,7 +3644,6 @@
 | [Business Insights & Analytics Leadership Development Program Geospatial Intern](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Geospatial-Intern_R-51333-1) | 68 | Hartford, CT / St Paul, MN | AI/ML/Data | 2026-07-03 |
 | [Business Insights & Analytics Leadership Development Program Intern - BI&a Ldp](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-51332-1) | 68 | Hartford, CT / St Paul, MN | AI/ML/Data | 2026-07-03 |
 | [Data Science Leadership Development Program Intern - Dsldp](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Science-Leadership-Development-Program--DSLDP--Intern_R-51337) | 68 | Hartford, CT / St Paul, MN | AI/ML/Data | 2026-07-03 |
-| [Engineering Development Program Intern - Engineering Development Program](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Intern_R-51185) | 68 | Sparks, MD / Hartford, CT / Atlanta, GA / St Paul, MN | Software | 2026-07-03 |
 
 ## Truland Equipment
 
