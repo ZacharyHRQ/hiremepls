@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-11T08:25:30.402Z",
+  "generatedAt": "2026-07-11T09:55:09.159Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1102,
+  "jobCount": 1100,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -722,7 +722,6 @@
     "canonical:090c30f9249f9ff1": "2026-07-01T23:02:00.772Z",
     "canonical:d0ba5b968199b27e": "2026-07-01T23:02:00.772Z",
     "canonical:37441aba4bffccd6": "2026-07-01T23:02:00.772Z",
-    "canonical:c3f909dd643f2906": "2026-07-02T00:19:11.514Z",
     "canonical:fd8ac8dcbab2fe1e": "2026-07-02T00:19:11.514Z",
     "canonical:518f53d8b1c4fc71": "2026-07-02T00:19:11.514Z",
     "canonical:234b0abdc8be0076": "2026-07-02T00:19:11.514Z",
@@ -865,7 +864,6 @@
     "canonical:7286f2830b7e7578": "2026-07-08T21:59:46.351Z",
     "canonical:f51dbd9b9c63bd61": "2026-07-08T23:10:12.765Z",
     "canonical:9b2f6d5991a31273": "2026-07-08T23:10:12.765Z",
-    "canonical:09926dd4aa44dd67": "2026-07-08T23:10:12.765Z",
     "canonical:8d37d9cb9914fa8e": "2026-07-08T23:10:12.765Z",
     "canonical:8255dd98a0b58fa4": "2026-07-08T23:10:12.765Z",
     "canonical:3eccdd9e85c744aa": "2026-07-08T23:10:12.765Z",
@@ -2627,7 +2625,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -5045,19 +5043,6 @@
       "company": "Rivian",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:c3f909dd643f2906",
-      "title": "Mission Software – Intern - Python",
-      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7676465003",
-      "location": "El Segundo, CA",
-      "department": "Software",
-      "company": "Varda Space",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
     },
     {
       "id": "canonical:bb63a577c98aec70",
@@ -12329,20 +12314,6 @@
       "company": "Democratic Governors Association",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:09926dd4aa44dd67",
-      "title": "Software Engineer Intern",
-      "url": "https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/San-Mateo-California/Intern---Software-Engineer--AI-User-Experience_1033171",
-      "location": "San Mateo, CA",
-      "department": "Software",
-      "company": "Rakuten International",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
