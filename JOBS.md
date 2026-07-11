@@ -1,11 +1,11 @@
 # Open Internships
 
-**1124** internships across **67/68** companies — last updated 2026-07-11.
+**1102** internships across **68/68** companies — last updated 2026-07-11.
 
 ## Companies
 
 - [1X](#1x) (1)
-- [ABB](#abb) (3)
+- [ABB](#abb) (2)
 - [ABC News](#abc-news) (1)
 - [Abundant](#abundant) (1)
 - [AccuWeather](#accuweather) (1)
@@ -19,7 +19,6 @@
 - [AfterQuery](#afterquery) (1)
 - [Agilent Technologies](#agilent-technologies) (1)
 - [Al Warren Oil Company](#al-warren-oil-company) (1)
-- [ALFA LAVAL](#alfa-laval) (1)
 - [Altasciences](#altasciences) (1)
 - [Altom Transport](#altom-transport) (1)
 - [AMAROK Security](#amarok-security) (1)
@@ -36,7 +35,7 @@
 - [Apex Technology, Inc.](#apex-technology-inc) (1)
 - [Apple](#apple) (16)
 - [Applied Intuition](#applied-intuition) (3)
-- [Aptiv](#aptiv) (2)
+- [Aptiv](#aptiv) (1)
 - [AQR](#aqr) (8)
 - [Aquatic](#aquatic) (1)
 - [Aquatic Capital](#aquatic-capital) (1)
@@ -78,7 +77,6 @@
 - [Bosch Home Comfort](#bosch-home-comfort) (4)
 - [Boston Consulting Group](#boston-consulting-group) (2)
 - [Bot Auto](#bot-auto) (1)
-- [Boys Town](#boys-town) (1)
 - [Brex](#brex) (1)
 - [BrightAI](#brightai) (1)
 - [Brookfield](#brookfield) (1)
@@ -134,6 +132,7 @@
 - [Delta Dental](#delta-dental) (1)
 - [Democratic Governors Association](#democratic-governors-association) (1)
 - [Dewberry](#dewberry) (1)
+- [DiDi Global](#didi-global) (1)
 - [Digs](#digs) (1)
 - [DimeHealth AI](#dimehealth-ai) (1)
 - [Doctors Without Borders](#doctors-without-borders) (1)
@@ -254,7 +253,7 @@
 - [LiveRamp](#liveramp) (1)
 - [Lucid Motors](#lucid-motors) (1)
 - [Mackenzie Investments](#mackenzie-investments) (1)
-- [Magna](#magna) (3)
+- [Magna](#magna) (2)
 - [Maher Duessel](#maher-duessel) (1)
 - [MaloneBailey, LLP](#malonebailey-llp) (1)
 - [Man Group](#man-group) (2)
@@ -275,17 +274,14 @@
 - [Meta](#meta) (17)
 - [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (2)
 - [Microchip Technology](#microchip-technology) (2)
-- [Micron Technology](#micron-technology) (1)
 - [Microsoft](#microsoft) (1)
 - [Mindsmith](#mindsmith) (1)
 - [Monolithic Power Systems](#monolithic-power-systems) (2)
-- [Moss & Associates](#moss-associates) (1)
 - [Multiply Labs](#multiply-labs) (2)
 - [Muru](#muru) (2)
 - [MyEmployment](#myemployment) (1)
 - [Naïve](#na-ve) (1)
 - [Nash](#nash) (1)
-- [National Laboratory of the Rockies](#national-laboratory-of-the-rockies) (2)
 - [Navaide](#navaide) (1)
 - [NBCUniversal](#nbcuniversal) (2)
 - [Nelnet](#nelnet) (1)
@@ -301,7 +297,7 @@
 - [Northwestern Mutual](#northwestern-mutual) (2)
 - [Notion](#notion) (5)
 - [Nuro](#nuro) (1)
-- [NVIDIA](#nvidia) (11)
+- [NVIDIA](#nvidia) (6)
 - [NXP Semiconductors](#nxp-semiconductors) (2)
 - [OCC](#occ) (1)
 - [Occidental Petroleum](#occidental-petroleum) (1)
@@ -315,12 +311,10 @@
 - [Orennia](#orennia) (1)
 - [Output Biosciences](#output-biosciences) (2)
 - [Palantir](#palantir) (6)
-- [Palo Alto Networks](#palo-alto-networks) (2)
+- [Palo Alto Networks](#palo-alto-networks) (1)
 - [Paragon](#paragon) (1)
-- [Parsons](#parsons) (1)
 - [PathAI](#pathai) (1)
 - [PayPal](#paypal) (1)
-- [PennState University](#pennstate-university) (1)
 - [Peraton](#peraton) (1)
 - [Periodic Labs](#periodic-labs) (1)
 - [Perplexity](#perplexity) (3)
@@ -357,12 +351,11 @@
 - [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (14)
 - [Robert Bosch Venture Capital](#robert-bosch-venture-capital) (2)
 - [Robinhood](#robinhood) (1)
-- [Roche](#roche) (1)
 - [Rocket Lab](#rocket-lab) (1)
 - [Rocket Lab USA](#rocket-lab-usa) (2)
 - [Rockwell Automation](#rockwell-automation) (1)
 - [Root Access](#root-access) (1)
-- [Royal Bank of Canada](#royal-bank-of-canada) (4)
+- [Royal Bank of Canada](#royal-bank-of-canada) (3)
 - [RTX](#rtx) (1)
 - [Salesforce](#salesforce) (1)
 - [Samaya](#samaya) (1)
@@ -391,7 +384,6 @@
 - [SpaceX](#spacex) (3)
 - [Squarepoint Capital](#squarepoint-capital) (5)
 - [StarSling](#starsling) (1)
-- [State Employees' Credit Union (SECU)](#state-employees-credit-union-secu) (1)
 - [State of North Carolina](#state-of-north-carolina) (1)
 - [Stevens Capital Management](#stevens-capital-management) (1)
 - [Stoke Space](#stoke-space) (1)
@@ -407,7 +399,7 @@
 - [TDS](#tds) (1)
 - [Teall Sports & Entertainment](#teall-sports-entertainment) (1)
 - [Technergetics](#technergetics) (1)
-- [Tencent](#tencent) (9)
+- [Tencent](#tencent) (7)
 - [TENEX.AI](#tenex-ai) (1)
 - [Tenstorrent](#tenstorrent) (7)
 - [Terranox AI](#terranox-ai) (1)
@@ -415,14 +407,13 @@
 - [Tessera Labs](#tessera-labs) (2)
 - [TETRAMEM](#tetramem) (1)
 - [Texas Instruments](#texas-instruments) (1)
-- [Thales](#thales) (1)
 - [The D. E. Shaw Group](#the-d-e-shaw-group) (1)
 - [The Exploration Company](#the-exploration-company) (1)
 - [The Tatitlek Corporation](#the-tatitlek-corporation) (1)
 - [The Trade Desk](#the-trade-desk) (1)
 - [The University of Edinburgh](#the-university-of-edinburgh) (1)
 - [The Wonderful Company](#the-wonderful-company) (1)
-- [thyssenkrupp](#thyssenkrupp) (1)
+- [thyssenkrupp](#thyssenkrupp) (2)
 - [TIFIN](#tifin) (1)
 - [TikTok](#tiktok) (67)
 - [Tilde Research](#tilde-research) (2)
@@ -446,7 +437,6 @@
 - [Uber Freight](#uber-freight) (1)
 - [UL Solutions](#ul-solutions) (1)
 - [Uncountable](#uncountable) (1)
-- [University of Maryland - College Park](#university-of-maryland-college-park) (1)
 - [Vanguard](#vanguard) (1)
 - [Varda Space](#varda-space) (1)
 - [Veeam Software](#veeam-software) (2)
@@ -486,7 +476,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Application Engineering Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Fall-2026_JR00038999) | 58 | Alpharetta, GA / Lombard, IL | — | 2026-07-10 |
-| [Application Engineering Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Fall-2026_JR00038999) | 68 | Lombard, IL / Alpharetta, GA | Software | 2026-07-08 |
 | [Integrated Motor Drive SW Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Greenville-South-Carolina-United-States-of-America/Integrated-Motor-Drive-SW-Intern---Fall-2026_JR00038957) | 58 | Greenville, SC | Hardware | 2026-07-02 |
 
 ## ABC News
@@ -559,19 +548,13 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Predictive Sales Prospecting Intern](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Intern---Predictive-Sales-Prospecting_4038245) | 48 | Wilmington, DE | AI/ML/Data | 2026-06-17 |
+| [Predictive Sales Prospecting Intern](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Intern---Predictive-Sales-Prospecting_4038181) | 48 | Wilmington, DE | AI/ML/Data | 2026-06-17 |
 
 ## Al Warren Oil Company
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Developer Intern](https://apply.workable.com/al-warren-oil-company-inc/j/A4487B349D/) | 93 | Bensenville, IL | — | 2026-07-09 |
-
-## ALFA LAVAL
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Database Analyst Intern](https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs/job/Warminster-PA/Database-Analyst-Intern_JR0046726) | 68 | Horsham, PA | AI/ML/Data | 2026-07-10 |
 
 ## Altasciences
 
@@ -702,7 +685,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Engineer Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700248) | 58 | Kanata, Ottawa, ON, Canada | Hardware | 2026-07-10 |
 | [RTOS development Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Intern---RTOS-development_J000699511-1) | 58 | Kanata, Ottawa, ON, Canada | Hardware | 2026-06-28 |
 
 ## AQR
@@ -991,12 +973,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Deep Learning Engineer Intern](https://job-boards.greenhouse.io/botauto/jobs/5289440008) | 93 | Houston, TX | AI/ML/Data | 2026-07-02 |
-
-## Boys Town
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Artificial Intelligence & Machine Learning Intern](https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Artificial-Intelligence---Machine-Learning-Intern_REQ-2026-8543-1) | 68 | Omaha, NE | AI/ML/Data | 2026-07-05 |
 
 ## Brex
 
@@ -1405,6 +1381,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Site/Civil Engineering Intern](https://www.linkedin.com/jobs/view/4275448602) | 42 | Richmond, VA | — | 2026-07-09 |
+
+## DiDi Global
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Motion Planning Engineer Intern](https://job-boards.greenhouse.io/didi/jobs/8056492) | 93 | San Jose, CA | AI/ML/Data | 2026-07-11 |
 
 ## Digs
 
@@ -2239,7 +2221,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Infrared Imaging & Algorithms Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Intern---Infrared-Imaging---Algorithms_R00247602) | 50 | Goleta, CA | Hardware | 2026-07-10 |
-| [Engineering ADAS Perception Features Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235438) | 60 | Auburn Hills, MI | AI/ML/Data | 2026-07-04 |
 | [Product Engineering Engineer Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Grand-Rapids-Michigan-US/Product-Engineering-Intern_R00243272) | 85 | Grand Rapids, MI | Software | 2026-06-15 |
 
 ## Maher Duessel
@@ -2387,12 +2368,6 @@
 | [Applications Engineering Intern](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---Roseville/Intern---Applications-Engineering_R2542-26) | 50 | Roseville, CA | Hardware | 2026-07-09 |
 | [Intern Technician - Electronics](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/PA---Mount-Holly-Springs/Intern-Technician--Electronics-_R847-26) | 50 | Carlisle, PA | Hardware | 2026-05-17 |
 
-## Micron Technology
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Assembly Process Technician Intern - Yield Enhancement / Failure Analysis](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Assembly-Process-Technician--Yield-Enhancement---Failure-Analysis-_JR104101) | 68 | Leander, TX | AI/ML/Data | 2026-07-04 |
-
 ## Microsoft
 
 | Title | Score | Location | Department | First seen |
@@ -2411,12 +2386,6 @@
 | --- | --- | --- | --- | --- |
 | [Application Engineer Intern](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Application-Engineer-Intern_R-890) | 58 | San Jose, CA | Hardware | 2026-05-17 |
 | [AI Developer Intern](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose---California/AI-Developer-Intern_R-674) | 93 | San Jose, CA | AI/ML/Data | 2026-05-17 |
-
-## Moss & Associates
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Construction Technologies Intern](https://mosscm.wd1.myworkdayjobs.com/moss_careers/job/FORT-LAUDERDALE-FL/Construction-Technologies-Internship_R-2710) | 68 | McKinney, TX / Tampa, FL / Fort Lauderdale, FL | AI/ML/Data | 2026-07-04 |
 
 ## Multiply Labs
 
@@ -2449,13 +2418,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Full Stack Engineering Intern](https://www.workatastartup.com/jobs/94993) | 56 | San Francisco, CA | — | 2026-07-09 |
-
-## National Laboratory of the Rockies
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Associate/Undergraduate Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Remote/XMLNAME--Associate-Undergraduate--Intern---Carbon-Management-and-Large-Energy-Systems_R14405) | 68 | Remote in USA | AI/ML/Data | 2026-07-08 |
-| [Software and Data Infrastructure Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate-graduate-intern---software-and-data-infrastructure-for-autonomous-thin-film-experimentation--Year-Round-_R14394) | 68 | Golden, CO | Software | 2026-07-08 |
 
 ## Navaide
 
@@ -2568,11 +2530,6 @@
 | [Performance Engineer Intern, Systems Software](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779) | 93 | St. Louis, MO | — | 2026-07-10 |
 | [Quantum Research Scientist Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244) | 93 | Santa Clara, CA | — | 2026-07-09 |
 | [Software Engineering Intern, JAX](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745) | 68 | Santa Clara, CA | — | 2026-07-09 |
-| [Java Engineer Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Java-Engineering-Intern---Fall-2026_JR2019769) | 93 | Santa Clara, CA | Software | 2026-07-04 |
-| [Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398) | 68 | Santa Clara, CA | AI/ML/Data | 2026-07-04 |
-| [PhD Data Generation and User Simulation Research Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Data-Generation-and-User-Simulation-Research-Intern---Fall-2026_JR2018317) | 68 | Santa Clara, CA | AI/ML/Data | 2026-07-04 |
-| [PhD Research Intern - Generative AI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035) | 68 | California / Santa Clara, CA / United States | AI/ML/Data | 2026-07-04 |
-| [PhD Software Engineer Intern - Decision Intelligence](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522) | 93 | Santa Clara, CA | Hardware | 2026-07-04 |
 | [Applied Research Intern - NLP](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488) | 68 | Santa Clara, CA | AI/ML/Data | 2026-07-02 |
 | [PhD Research Intern - System Software and I/O Architecture](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--System-Software-and-I-O-Architecture---Fall-2026_JR2019667) | 68 | Urbana, IL / Remote in USA / Santa Clara, CA | Software | 2026-07-02 |
 | [Software Engineering Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745) | 68 | Santa Clara, CA | Software | 2026-06-05 |
@@ -2677,19 +2634,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011595) | 93 | California | Software | 2026-07-01 |
-| [Software Engineer Intern](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer--Bachelor-s-_JR-010190) | 93 | Palo Alto, CA | Software | 2026-07-01 |
 
 ## Paragon
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Forward Deployed Engineer (FDE) Intern](https://www.workatastartup.com/jobs/93642) | 56 | San Francisco, CA | — | 2026-07-09 |
-
-## Parsons
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI & Digital Innovation Engineer Intern](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/CA---ON-Toronto/AI---Digital-Innovation-Engineering-Intern_R180895) | 93 | Toronto, ON, Canada / Markham, ON, Canada / Oakville, ON, Canada | AI/ML/Data | 2026-07-10 |
 
 ## PathAI
 
@@ -2702,12 +2652,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Machine Learning Engineer PhD Intern](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer-PhD-Intern_R0130591) | 93 | San Jose, CA | Data Science, AI & Machine Learning | 2026-05-09 |
-
-## PennState University
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Research and Development Engineering Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineering-Intern_REQ_0000076214-1) | 68 | State College, PA | Software | 2026-07-04 |
 
 ## Peraton
 
@@ -2993,12 +2937,6 @@
 | --- | --- | --- | --- | --- |
 | [Customer Experience Associate (New Grad)](https://boards.greenhouse.io/robinhood/jobs/8024530?t=gh_src=&gh_jid=8024530) | 64 | Westlake, TX | — | 2026-07-02 |
 
-## Roche
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Business Data Analyst Intern - Business / Data Analyst](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Laval/XMLNAME-2026-Fall-Intern---Business---Data-Analyst-Intern---Stagiaire-d-Automne-2026---Analyste-d-Affaires---de-Donnes_202606-116950) | 68 | Laval, QC, Canada | AI/ML/Data | 2026-07-07 |
-
 ## Rocket Lab
 
 | Title | Score | Location | Department | First seen |
@@ -3030,7 +2968,6 @@
 | --- | --- | --- | --- | --- |
 | [Off Cycle Intern - Aiden Edge](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Off-Cycle-Intern---Aiden-Edge_R-0000179570) | 68 | London, UK | Software | 2026-07-10 |
 | [Relationship Manager Business Markets Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/175-WALLACE-AVE-NNORTH-PERTH/Relationship-Manager-Business-Markets-Intern_R-0000172273-2) | 68 | Kitchener, ON, Canada | Quant | 2026-07-08 |
-| [Relationship Manager Commercial Markets Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/GRAND-FALLS-New-Brunswick-Canada/Relationship-Manager-Commercial-Markets-Intern_R-0000178547) | 68 | Madawaska County, NB, Canada | Quant | 2026-07-02 |
 | [Relationship Manager Commercial Markets Intern - Agriculture](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/BRANTFORD-Ontario-Canada/Relationship-Manager-Commercial-Markets-Intern--Agriculture_R-0000178814) | 68 | Oakland, ON, Canada | Quant | 2026-07-02 |
 
 ## RTX
@@ -3241,12 +3178,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://www.workatastartup.com/jobs/95003) | 91 | San Mateo, CA | — | 2026-07-09 |
 
-## State Employees' Credit Union (SECU)
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Server Engineering and Operations Intern](https://ncsecu.wd1.myworkdayjobs.com/secu/job/North-Carolina/Intern---Server-Engineering-and-Operations-Fall-2026_JR-15842) | 68 | North Carolina | AI/ML/Data | 2026-07-10 |
-
 ## State of North Carolina
 
 | Title | Score | Location | Department | First seen |
@@ -3350,11 +3281,9 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern - PC Game Client Development](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Software-Engineering-Intern_R107162-1) | 68 | London, UK | Software | 2026-07-07 |
-| [Hunyuan Multimodal Algorithm Researcher Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-Intern-Omni-Modal---_R107051) | 93 | Palo Alto, CA | AI/ML/Data | 2026-07-04 |
-| [Game Research & Development Intern - Engine Research](https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/US-Washington-Bellevue/Game-Research---Development-Intern--Engine-Research_R107363) | 68 | Bellevue, WA | Software | 2026-07-04 |
 | [Video Generation Content Understanding and Feedback Research Intern](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/UK-London/Video-Generation-Content-Understanding-and-Feedback-Research-Intern_R107680) | 68 | London, UK | AI/ML/Data | 2026-06-22 |
-| [Game Research & Development Intern - Engine Research](https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/US-California-Los-Angeles/Game-Research---Development-Intern--Engine-Research_R107344) | 68 | LA | Software | 2026-06-13 |
-| [Hunyuan Multimodal Algorithm Researcher intern - Omni-Modal](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650) | 93 | Palo Alto, CA | AI/ML/Data | 2026-06-13 |
+| [Game Research & Development Intern - Engine Research](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Los-Angeles/Game-Research---Development-Intern--Engine-Research_R107344-1) | 68 | LA | Software | 2026-06-13 |
+| [Hunyuan Multimodal Algorithm Researcher Intern - Omni-Modal](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650-2) | 93 | Palo Alto, CA | AI/ML/Data | 2026-06-13 |
 | [Hunyuan Multimodal Reinforcement Learning Research Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Reinforcement-Learning-Research-Intern_R107084-1) | 68 | Palo Alto, CA | AI/ML/Data | 2026-06-13 |
 | [Research Intern](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-Washington-Bellevue/Research-Internship---Reinforcement-Learning-for-Large-Foundation-Models_R106337) | 68 | Bellevue, WA | AI/ML/Data | 2026-06-13 |
 | [Agent Development Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Agent-Development-Intern_R107276-2) | 68 | London, UK | Software | 2026-05-20 |
@@ -3501,12 +3430,6 @@
 | --- | --- | --- | --- | --- |
 | [Engineering Technician Intern](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010550) | 50 | Dallas, TX / Tucson, AZ | Hardware | 2026-06-17 |
 
-## Thales
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [System Integration & Test Integration, Verification, Validation & Qualification Intern](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Cheadle/SI-T-IVVQ-Intern_R0329325-1) | 58 | Trafford, UK | Hardware | 2026-07-08 |
-
 ## The D. E. Shaw Group
 
 | Title | Score | Location | Department | First seen |
@@ -3547,6 +3470,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Analytics Intern](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Analytics-Intern_JR105406) | 68 | Cleveland, OH | AI/ML/Data | 2026-07-11 |
 | [Sustainability Systems Intern](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Sustainability-Systems-Intern_JR104148) | 68 | Cleveland, OH | AI/ML/Data | 2026-07-05 |
 
 ## TIFIN
@@ -3766,12 +3690,6 @@
 | --- | --- | --- | --- | --- |
 | [Full-Stack Intern](https://jobs.ashbyhq.com/uncountable/b9495eab-c04c-4333-b338-7dabdbddcaae/application) | 68 | London, UK / SF / NYC / Munich, Germany | Software | 2026-05-09 |
 
-## University of Maryland - College Park
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Office of Career Services Intern - Technology Team](https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Intern--Office-of-Career-Services---Technology-Team_JR104246-1) | 68 | Hyattsville, MD | AI/ML/Data | 2026-07-09 |
-
 ## Vanguard
 
 | Title | Score | Location | Department | First seen |
@@ -3948,7 +3866,3 @@
 | [AI Engineer Intern](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571/apply) | 93 | Montreal, QC, Canada | Software | 2026-07-10 |
 | [AI-First Engineer Intern](https://jobs.lever.co/xsolla/5d5fd6b3-d82f-437a-b251-abf4674ac874/apply) | 93 | Raleigh, NC | Software | 2026-07-10 |
 | [AI-First Engineer Intern](https://jobs.lever.co/xsolla/1c0e5375-2352-4a2c-a816-48ddebbdd3d6/apply) | 93 | LA | Software | 2026-07-10 |
-
-## Errors this run
-
-- **BlackRock**: workday blackrock: expected JSON, got text/html; charset=UTF-8: <!DOCTYPE html> <html lang="en" dir="ltr">   <head>     <meta charset="utf-8" />
