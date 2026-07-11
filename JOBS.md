@@ -1,6 +1,6 @@
 # Open Internships
 
-**1112** internships across **68/68** companies — last updated 2026-07-11.
+**1111** internships across **68/68** companies — last updated 2026-07-11.
 
 ## Companies
 
@@ -52,7 +52,7 @@
 - [Avery Dennison](#avery-dennison) (1)
 - [Axiomatic AI](#axiomatic-ai) (2)
 - [AXQ Capital](#axq-capital) (1)
-- [BAE Systems](#bae-systems) (3)
+- [BAE Systems](#bae-systems) (2)
 - [Bank of America](#bank-of-america) (1)
 - [Bank of Montreal](#bank-of-montreal) (1)
 - [Barkback](#barkback) (1)
@@ -821,7 +821,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineering Intern – Internal Tools 2026 (hybrid)](https://jobs.baesystems.com/global/en/job/BAE1US118298BREXTERNAL/Software-Engineering-Intern-Internal-Tools-2026-hybrid) | 60 | Cedar Rapids, IA | Software Engineering | 2026-05-09 |
 | [Software Intern, Summer 2026](https://jobs.baesystems.com/global/en/job/BAE1US118688BREXTERNAL/Software-Intern-Summer-2026) | 60 | Totowa, NJ | Software Engineering | 2026-05-09 |
 | [Summer Software Intern](https://jobs.baesystems.com/global/en/job/BAE1US119401BREXTERNAL/Summer-Software-Intern) | 60 | Fort Wayne, IN | Software Engineering | 2026-05-09 |
 

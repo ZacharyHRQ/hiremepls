@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-11T15:12:52.431Z",
+  "generatedAt": "2026-07-11T16:09:36.404Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1112,
+  "jobCount": 1111,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -46,7 +46,6 @@
     "canonical:ad23aadfeb5e4fdd": "2026-05-06T06:42:07.596Z",
     "canonical:778ae0c54171b31e": "2026-05-06T06:42:07.596Z",
     "canonical:40b5e3e02c34b6ce": "2026-05-09T15:28:15.527Z",
-    "canonical:81aff3048f1fe5a2": "2026-05-09T15:28:15.527Z",
     "canonical:fe332cbf1845feb8": "2026-05-09T15:28:15.527Z",
     "canonical:832871e86e614189": "2026-05-09T15:28:15.527Z",
     "canonical:d7a434e4eed2389d": "2026-05-09T15:28:15.527Z",
@@ -2779,18 +2778,6 @@
       "company": "Cribl",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:81aff3048f1fe5a2",
-      "title": "Software Engineering Intern – Internal Tools 2026 (hybrid)",
-      "url": "https://jobs.baesystems.com/global/en/job/BAE1US118298BREXTERNAL/Software-Engineering-Intern-Internal-Tools-2026-hybrid",
-      "location": "Cedar Rapids, IA",
-      "department": "Software Engineering",
-      "company": "BAE Systems",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
     },
     {
       "id": "canonical:fe332cbf1845feb8",
