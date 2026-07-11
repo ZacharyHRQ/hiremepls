@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-11T09:55:09.159Z",
+  "generatedAt": "2026-07-11T10:53:58.617Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1100,
+  "jobCount": 1099,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -504,7 +504,6 @@
     "canonical:31962d85f79aae5b": "2026-06-13T15:55:40.354Z",
     "canonical:5fad4f58541c53c3": "2026-06-13T15:55:40.354Z",
     "canonical:27fa5d3290d6515b": "2026-06-13T15:55:40.354Z",
-    "canonical:60d48ea9b4193a8f": "2026-06-13T17:12:44.534Z",
     "canonical:43c945396857ea6b": "2026-06-15T05:25:50.614Z",
     "canonical:a356ac432d4a0c77": "2026-06-15T05:25:50.614Z",
     "canonical:c246f55f8c194616": "2026-06-15T05:25:50.614Z",
@@ -641,7 +640,6 @@
     "canonical:c41ef117bb4ff60c": "2026-07-01T06:55:26.212Z",
     "canonical:9dc2a65da3cbfb3d": "2026-07-01T06:55:26.212Z",
     "canonical:165736f3f7436d71": "2026-07-01T06:55:26.212Z",
-    "canonical:ac88b4fd6305623b": "2026-07-01T06:55:26.212Z",
     "canonical:ce24e19952ce522a": "2026-07-01T06:55:26.212Z",
     "canonical:f45a04a294acd566": "2026-07-01T06:55:26.212Z",
     "canonical:f13ad3cda447101a": "2026-07-01T06:55:26.212Z",
@@ -828,7 +826,6 @@
     "canonical:c935df1082cc92fc": "2026-07-07T15:49:17.557Z",
     "canonical:f330847a3d58ab80": "2026-07-07T15:49:17.557Z",
     "canonical:cdde573bf6670f2a": "2026-07-07T15:49:17.557Z",
-    "canonical:1782ca39c8f2f506": "2026-07-07T15:49:17.557Z",
     "canonical:5fa72ef79272ee7f": "2026-07-07T15:49:17.557Z",
     "canonical:3b11d0f498e6d16f": "2026-07-07T15:49:17.557Z",
     "canonical:ca225b03436f081a": "2026-07-07T23:26:57.673Z",
@@ -1103,7 +1100,9 @@
     "canonical:fff5249c0c299e15": "2026-07-10T23:30:41.605Z",
     "canonical:4b21328cc5217e15": "2026-07-11T04:25:06.399Z",
     "canonical:c1e9394452463ed1": "2026-07-11T08:25:30.402Z",
-    "canonical:f70b33853919b982": "2026-07-11T08:25:30.402Z"
+    "canonical:f70b33853919b982": "2026-07-11T08:25:30.402Z",
+    "canonical:c3f909dd643f2906": "2026-07-11T10:53:58.617Z",
+    "canonical:e8038afc6e3ca5c9": "2026-07-11T10:53:58.617Z"
   },
   "jobs": [
     {
@@ -2625,7 +2624,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -5045,6 +5044,19 @@
       "scoreReasons": []
     },
     {
+      "id": "canonical:c3f909dd643f2906",
+      "title": "Mission Software – Intern - Python",
+      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7676465003",
+      "location": "El Segundo, CA",
+      "department": "Software",
+      "company": "Varda Space",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:bb63a577c98aec70",
       "title": "Data Analyst Project Intern - Data Science",
       "url": "https://lifeattiktok.com/search/7620775575152462085",
@@ -5877,19 +5889,6 @@
       ]
     },
     {
-      "id": "canonical:60d48ea9b4193a8f",
-      "title": "Game Research & Development Intern - Engine Research",
-      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Los-Angeles/Game-Research---Development-Intern--Engine-Research_R107344-1",
-      "location": "LA",
-      "department": "Software",
-      "company": "Tencent",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:1e6e6a2ed07745e2",
       "title": "Software Engineer Intern - AI Model Optimization",
       "url": "https://lifeattiktok.com/search/7540823148805032210",
@@ -6296,18 +6295,6 @@
       "company": "Advanced Energy",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:1782ca39c8f2f506",
-      "title": "Collections Data Analyst Intern",
-      "url": "https://careers.tranetechnologies.com/global/en/job/JR-4222",
-      "location": "Winona, MN",
-      "department": "AI/ML/Data",
-      "company": "Trane Technologies",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
     },
     {
       "id": "canonical:afc9f49cbd23b95f",
@@ -6900,19 +6887,6 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:ac88b4fd6305623b",
-      "title": "Engineer Co-op/Intern - Data & Analytics",
-      "url": "https://careers-kinaxis.icims.com/jobs/34766/job?mobile=true&needsRedirect=false",
-      "location": "Ottawa, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Kinaxis",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -7535,6 +7509,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:e8038afc6e3ca5c9",
+      "title": "Graduate Intern - Multiple Teams",
+      "url": "https://pnc.wd5.myworkdayjobs.com/External/job/NY---New-York-10173/Graduate-Intern--Economic-Scenario-Design--Chief-Investment-Office--CIO---Non-Campus-_R212891-1",
+      "location": "NYC",
+      "department": "Quant",
+      "company": "PNC Financial Services",
+      "score": 74,
+      "scoreReasons": [
+        "high-signal role",
+        "new grad",
         "direct ATS"
       ]
     },
