@@ -1,6 +1,6 @@
 # Open Internships
 
-**1129** internships across **68/68** companies — last updated 2026-07-11.
+**1128** internships across **68/68** companies — last updated 2026-07-11.
 
 ## Companies
 
@@ -134,7 +134,6 @@
 - [Delta Dental](#delta-dental) (1)
 - [Democratic Governors Association](#democratic-governors-association) (1)
 - [Dewberry](#dewberry) (1)
-- [DiDi Global](#didi-global) (1)
 - [Digs](#digs) (1)
 - [DimeHealth AI](#dimehealth-ai) (1)
 - [Doctors Without Borders](#doctors-without-borders) (1)
@@ -426,7 +425,7 @@
 - [The Wonderful Company](#the-wonderful-company) (1)
 - [thyssenkrupp](#thyssenkrupp) (2)
 - [TIFIN](#tifin) (1)
-- [TikTok](#tiktok) (68)
+- [TikTok](#tiktok) (67)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
 - [Together AI](#together-ai) (4)
@@ -470,6 +469,7 @@
 - [Westinghouse](#westinghouse) (1)
 - [WindBorne Systems](#windborne-systems) (1)
 - [Workato](#workato) (1)
+- [World Surf League](#world-surf-league) (1)
 - [WSP](#wsp) (1)
 - [WTW](#wtw) (1)
 - [X Development](#x-development) (1)
@@ -1406,12 +1406,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Site/Civil Engineering Intern](https://www.linkedin.com/jobs/view/4275448602) | 42 | Richmond, VA | — | 2026-07-09 |
-
-## DiDi Global
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Motion Planning Engineer Intern](https://job-boards.greenhouse.io/didi/jobs/8042470) | 93 | San Jose, CA | AI/ML/Data | 2026-07-01 |
 
 ## Digs
 
@@ -3629,7 +3623,6 @@
 | [AI Software Engineer Intern - Transaction Platform](https://lifeattiktok.com/search/7646621925436131637) | 85 | San Jose, CA | Software | 2026-06-09 |
 | [Data Science Intern - Tiktok Shop-Supply Chain & Logistics](https://lifeattiktok.com/search/7644719084681234741) | 60 | Seattle, WA | AI/ML/Data | 2026-05-28 |
 | [Data Analyst Intern - TikTok Live](https://lifeattiktok.com/search/7642264645810292997) | 60 | London, UK | AI/ML/Data | 2026-05-21 |
-| [Data Scientist Intern - Tiktok UG-Mid Platform - 2026 Summer](https://lifeattiktok.com/search/7592001144580262197) | 85 | San Jose, CA | AI/ML/Data | 2026-05-11 |
 | [Backend Software Engineer Intern - Foundation Platform](https://lifeattiktok.com/search/7538307729329277202) | 85 | San Jose, CA | Software | 2026-05-09 |
 | [Machine Learning Engineer Intern - Monetization Technology - Ads Core Global](https://lifeattiktok.com/search/7595340771562621189) | 85 | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Machine Learning Scientist Intern - TikTok Recommendation](https://lifeattiktok.com/search/7519241729582516487) | 85 | San Jose, CA | AI/ML/Data | 2026-05-09 |
@@ -3926,6 +3919,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Intern AI Engineering](https://job-boards.greenhouse.io/workato/jobs/8492935002) | 68 | SF | AI/ML/Data | 2026-05-09 |
+
+## World Surf League
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Partnerships Analytics & Reporting Intern](https://boards.greenhouse.io/worldsurfleague/jobs/8629100002) | 68 | Inglewood, CA | AI/ML/Data | 2026-07-11 |
 
 ## WSP
 

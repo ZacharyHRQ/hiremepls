@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-11T01:05:22.089Z",
+  "generatedAt": "2026-07-11T04:25:06.399Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1129,
+  "jobCount": 1128,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -101,7 +101,6 @@
     "canonical:c9ec25487402b980": "2026-05-09T15:28:15.527Z",
     "canonical:1142853ad5f25a81": "2026-05-09T15:28:15.527Z",
     "canonical:21c3452540b2e7d3": "2026-05-09T15:28:15.527Z",
-    "canonical:af15c824e5d7badb": "2026-05-11T14:01:48.198Z",
     "canonical:18df2a1964fc05b8": "2026-05-09T15:28:15.527Z",
     "canonical:c8e0ad6b0204c789": "2026-05-09T15:28:15.527Z",
     "canonical:28e42db883c713ad": "2026-05-09T15:28:15.527Z",
@@ -718,7 +717,6 @@
     "canonical:61ab3c787dcf7103": "2026-07-01T18:14:22.942Z",
     "canonical:7dcf39fc748301e8": "2026-07-01T23:02:00.772Z",
     "canonical:8832b80e79a94a12": "2026-07-01T23:02:00.772Z",
-    "canonical:f70b33853919b982": "2026-07-01T23:02:00.772Z",
     "canonical:68297b37cb4f4754": "2026-07-01T23:02:00.772Z",
     "canonical:581b4cf6242d30e0": "2026-07-01T23:02:00.772Z",
     "canonical:0b40e9373e32ee3a": "2026-07-01T23:02:00.772Z",
@@ -1132,7 +1130,8 @@
     "canonical:c6951e2db477e52a": "2026-07-10T23:30:41.605Z",
     "canonical:fff5249c0c299e15": "2026-07-10T23:30:41.605Z",
     "canonical:6c2a293763383474": "2026-07-10T23:30:41.605Z",
-    "canonical:c0deff3a3517d776": "2026-07-10T23:30:41.605Z"
+    "canonical:c0deff3a3517d776": "2026-07-10T23:30:41.605Z",
+    "canonical:4b21328cc5217e15": "2026-07-11T04:25:06.399Z"
   },
   "jobs": [
     {
@@ -3840,19 +3839,6 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:af15c824e5d7badb",
-      "title": "Data Scientist Intern - Tiktok UG-Mid Platform - 2026 Summer",
-      "url": "https://lifeattiktok.com/search/7592001144580262197",
-      "location": "San Jose, CA",
-      "department": "AI/ML/Data",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -11348,20 +11334,6 @@
       ]
     },
     {
-      "id": "canonical:f70b33853919b982",
-      "title": "Motion Planning Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/didi/jobs/8042470",
-      "location": "San Jose, CA",
-      "department": "AI/ML/Data",
-      "company": "DiDi Global",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:68297b37cb4f4754",
       "title": "Software Engineer Intern",
       "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011595",
@@ -13164,6 +13136,19 @@
       "location": "North Carolina",
       "department": "AI/ML/Data",
       "company": "State Employees' Credit Union (SECU)",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:4b21328cc5217e15",
+      "title": "Partnerships Analytics & Reporting Intern",
+      "url": "https://boards.greenhouse.io/worldsurfleague/jobs/8629100002",
+      "location": "Inglewood, CA",
+      "department": "AI/ML/Data",
+      "company": "World Surf League",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
