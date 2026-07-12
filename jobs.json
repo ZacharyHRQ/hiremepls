@@ -1,13 +1,9 @@
 {
-  "generatedAt": "2026-07-12T11:29:59.440Z",
+  "generatedAt": "2026-07-12T12:28:11.358Z",
   "companyCount": 68,
-  "okCount": 68,
-  "jobCount": 1111,
+  "okCount": 67,
+  "jobCount": 1105,
   "firstSeen": {
-    "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
-    "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
-    "canonical:2c1230c887d66061": "2026-05-06T06:42:07.596Z",
-    "canonical:51d519ad65d99582": "2026-05-06T06:42:07.596Z",
     "canonical:822f979beef7ebc5": "2026-05-06T06:42:07.596Z",
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -833,7 +829,6 @@
     "canonical:cb6ec0e16b9f5a51": "2026-07-07T23:26:57.673Z",
     "canonical:cb8d735868564283": "2026-07-07T23:26:57.673Z",
     "canonical:8076253cd145ab02": "2026-07-08T04:12:01.868Z",
-    "canonical:8385aa46301105a2": "2026-07-08T15:14:34.101Z",
     "canonical:71c04954bfd630da": "2026-07-08T16:49:50.978Z",
     "canonical:6ea6c17f49efe765": "2026-07-08T16:49:50.978Z",
     "canonical:f69a41ff30586716": "2026-07-08T16:49:50.978Z",
@@ -1101,7 +1096,6 @@
     "canonical:25c914101f963271": "2026-07-11T14:08:34.953Z",
     "canonical:f27c30f5eef5d1fb": "2026-07-11T14:08:34.953Z",
     "canonical:55f7914d8c2bdcce": "2026-07-11T14:08:34.953Z",
-    "canonical:6a08b8735bc24eb5": "2026-07-11T14:08:34.953Z",
     "canonical:6a54db97364bf00a": "2026-07-11T15:12:52.431Z",
     "canonical:71f4c1680b019759": "2026-07-11T15:12:52.431Z",
     "canonical:941d02dc047a74b1": "2026-07-11T15:12:52.431Z",
@@ -1117,69 +1111,6 @@
     "canonical:bf33bee56c7f7e21": "2026-07-12T10:12:40.543Z"
   },
   "jobs": [
-    {
-      "id": "canonical:61c93da9140cb7e3",
-      "title": "Graduate Quant Developer",
-      "url": "https://www.squarepoint-capital.com/open-opportunities?id=7918610&gh_jid=7918610",
-      "location": "London, Montreal, Singapore",
-      "department": "",
-      "company": "Squarepoint Capital",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad"
-      ]
-    },
-    {
-      "id": "canonical:6418a1b0042bfe92",
-      "title": "Graduate Software Developer",
-      "url": "https://www.squarepoint-capital.com/open-opportunities?id=6040910&gh_jid=6040910",
-      "location": "London, Montreal, Singapore",
-      "department": "",
-      "company": "Squarepoint Capital",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad"
-      ]
-    },
-    {
-      "id": "canonical:2c1230c887d66061",
-      "title": "Graduate Support Specialist",
-      "url": "https://www.squarepoint-capital.com/open-opportunities?id=6100081&gh_jid=6100081",
-      "location": "London, Montreal, New York, Houston, Hong Kong",
-      "department": "",
-      "company": "Squarepoint Capital",
-      "score": 56,
-      "scoreReasons": [
-        "new grad"
-      ]
-    },
-    {
-      "id": "canonical:8385aa46301105a2",
-      "title": "Operations Intern (Fall)",
-      "url": "https://www.squarepoint-capital.com/open-opportunities?id=8050436&gh_jid=8050436",
-      "location": "Montreal",
-      "department": "",
-      "company": "Squarepoint Capital",
-      "score": 50,
-      "scoreReasons": []
-    },
-    {
-      "id": "canonical:51d519ad65d99582",
-      "title": "Trading Infrastructure Specialist – Graduate Programme",
-      "url": "https://www.squarepoint-capital.com/open-opportunities?id=7757021&gh_jid=7757021",
-      "location": "London, Montreal, Hong Kong, New York, Singapore",
-      "department": "",
-      "company": "Squarepoint Capital",
-      "score": 66,
-      "scoreReasons": [
-        "high-signal role",
-        "new grad"
-      ]
-    },
     {
       "id": "canonical:80cca71dae305229",
       "title": "Cybersecurity Analyst: New Grad ",
@@ -2636,7 +2567,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -3529,6 +3460,19 @@
       ]
     },
     {
+      "id": "canonical:79cfcc7e8096fa91",
+      "title": "Software Engineering Intern",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR106129",
+      "location": "Dallas, TX",
+      "department": "Software",
+      "company": "Copart",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:133608b1bfb1c38e",
       "title": "Sustainability Systems Intern",
       "url": "https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Sustainability-Systems-Intern_JR104148",
@@ -4183,19 +4127,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:79cfcc7e8096fa91",
-      "title": "Software Engineering Intern",
-      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR106983",
-      "location": "Dallas, TX",
-      "department": "Software",
-      "company": "Copart",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -8238,19 +8169,6 @@
       "location": "Annapolis Junction, MD",
       "department": "Hardware",
       "company": "Nightwing Intelligence Solutions",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:6a08b8735bc24eb5",
-      "title": "Multimedia Development Intern",
-      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Multimedia-development-intern_R107331",
-      "location": "Palo Alto, CA",
-      "department": "AI/ML/Data",
-      "company": "Tencent",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -15326,5 +15244,10 @@
       ]
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "company": "Squarepoint Capital",
+      "message": "fetch failed"
+    }
+  ]
 }
