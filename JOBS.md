@@ -582,7 +582,7 @@
 | [Robotics - Software Development Engineer Intern/Co-op - 2026](https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026) | 85 | Westboro, Wisconsin, USA | Hardware / Fall 2026 | 2026-07-12 |
 | [Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)](https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us) | 85 | Seattle, Washington, USA | Data & ML/AI / Fall 2026 | 2026-07-12 |
 | [Software Development Engineer Internship - Fall 2026 (US)](https://www.amazon.jobs/en/jobs/3116030/software-development-engineer-internship-fall-2026-us) | 85 | Seattle, Washington, USA | Software / Fall 2026 | 2026-07-12 |
-| [2026 Business Analyst Intern](https://www.linkedin.com/jobs/view/4276977256) | 42 | Seattle, WA | — | 2026-07-12 |
+| [2026 Business Analyst Intern](https://www.linkedin.com/jobs/view/4276977256) | 42 | Seattle, WA | — | 2026-05-16 |
 | [Software Development Engineer Internship - Summer 2026 - US](https://amazon.jobs/en/jobs/3116030/software-development-engineer-internship-summer-2026-us) | 85 | Seattle, WA | Software | 2026-05-15 |
 | [Amazon Robotics – Applied Scientist 2 Intern / Co-op - 2026](https://amazon.jobs/en/jobs/3104589/amazon-robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more) | 85 | Seattle, WA / Wakefield, MA / Westborough, MA | AI/ML/Data | 2026-05-09 |
 | [Robotics - Software Development Engineer Intern/Co-op](https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1) | 85 | Sunnyvale, CA / North Reading, MA / Westboro, MA / Nashville, TN / Austin, TX / Arlington, VA / Bellevue, WA / Seattle, WA | — | 2026-05-09 |
@@ -658,7 +658,6 @@
 | [Machine Learning and Artificial Intelligence Intern](https://jobs.apple.com/en-us/details/200664221) | 60 | United States | AI/ML/Data | 2026-07-12 |
 | [Machine Learning and Artificial Intelligence PhD Intern](https://jobs.apple.com/en-us/details/200664223) | 60 | United States | AI/ML/Data | 2026-07-12 |
 | [Machine Learning and Artificial Intelligence Undergraduate Intern](https://jobs.apple.com/en-us/details/200664780) | 60 | United States | AI/ML/Data | 2026-07-12 |
-| [Machine Learning Intern](https://www.apple.com) | 60 | San Francisco, CA | — | 2026-07-12 |
 | [SoC Performance Modeling Internship - Platform Architecture](https://jobs.apple.com/en-us/details/200629965) | 60 | London, UK | Hardware | 2026-07-12 |
 | [Software Engineering Intern, Masters](https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships) | 60 | United States | — | 2026-07-12 |
 | [Software Engineering Masters Intern](https://jobs.apple.com/en-us/details/200664320) | 60 | United States | Software | 2026-07-12 |
@@ -667,6 +666,7 @@
 | [Hardware Technologies Engineering Intern](https://jobs.apple.com/en-us/details/200664383) | 50 | United States | Hardware | 2026-07-12 |
 | [Hardware Technologies PhD Intern](https://jobs.apple.com/en-us/details/200664414) | 50 | United States | Hardware | 2026-07-12 |
 | [Undergrad Engineering Intern](https://jobs.apple.com/en-us/details/200663968) | 50 | United States | Hardware | 2026-07-12 |
+| [Machine Learning Intern](https://www.apple.com) | 60 | San Francisco, CA | — | 2026-05-16 |
 | [GPU Internship - Platform Architecture](https://jobs.apple.com/en-us/details/200617616) | 60 | London, UK / Cambridge, UK / Welwyn Garden City, UK | Hardware | 2026-05-09 |
 | [Hardware Engineering Intern](https://jobs.apple.com/en-us/details/200663981) | 50 | United States | Hardware | 2026-05-09 |
 
@@ -795,7 +795,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Finance Intern](https://www.linkedin.com/jobs/view/4277230317) | 42 | Mentor, OH | — | 2026-07-12 |
+| [Finance Intern](https://www.linkedin.com/jobs/view/4277230317) | 42 | Mentor, OH | — | 2026-05-16 |
 
 ## Axiomatic AI
 
@@ -821,7 +821,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Global Technology Summer Analyst 2026 - Business Analyst](https://careers.bankofamerica.com/en-us/students/job-detail/12943/global-technology-summer-analyst-2026-business-analyst-multiple-locations-esomprank-d41yanam0v-12) | 50 | Charlotte, North Carolina; Chicago, Illinois; Dallas, Texas; | — | 2026-07-12 |
+| [Global Technology Summer Analyst 2026 - Business Analyst](https://careers.bankofamerica.com/en-us/students/job-detail/12943/global-technology-summer-analyst-2026-business-analyst-multiple-locations-esomprank-d41yanam0v-12) | 50 | Charlotte, North Carolina; Chicago, Illinois; Dallas, Texas; | — | 2026-05-16 |
 
 ## Bank of Montreal
 
@@ -847,7 +847,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Manufacturing Engineering Internship for Summer 2026](https://us.bebee.com/job/8d5893a024a720602b9c4d9162d87d66?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 42 | Lafayette, IN | — | 2026-07-12 |
+| [Manufacturing Engineering Internship for Summer 2026](https://us.bebee.com/job/8d5893a024a720602b9c4d9162d87d66?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 42 | Lafayette, IN | — | 2026-05-16 |
 
 ## Berkshire Hathaway Energy
 
@@ -878,7 +878,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [2026 Blackstone Credit and Insurance, Operations Summer Analyst](https://www.linkedin.com/jobs/view/4268418350) | 42 | New York, NY | — | 2026-07-12 |
+| [2026 Blackstone Credit and Insurance, Operations Summer Analyst](https://www.linkedin.com/jobs/view/4268418350) | 42 | New York, NY | — | 2026-05-16 |
 
 ## BlinqLABS
 
@@ -903,13 +903,13 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Public Accounting Internship – (Full-Time / Summer 2026)](https://www.linkedin.com/jobs/view/4256620963) | 22 | Louisville, KY | — | 2026-07-12 |
+| [Public Accounting Internship – (Full-Time / Summer 2026)](https://www.linkedin.com/jobs/view/4256620963) | 22 | Louisville, KY | — | 2026-05-16 |
 
 ## Blue Bolt Partners
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Sales Intern in Private Equity](https://www.linkedin.com/jobs/view/4264751576) | 22 | United States | — | 2026-07-12 |
+| [Sales Intern in Private Equity](https://www.linkedin.com/jobs/view/4264751576) | 22 | United States | — | 2026-05-16 |
 
 ## Blue Cross Blue Shield of Michigan
 
@@ -933,13 +933,13 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [2026 - Summer Analyst Internship – CIB Functions, Enterprise Services](https://www.linkedin.com/jobs/view/4233229433) | 42 | Jersey City, NJ | — | 2026-07-12 |
+| [2026 - Summer Analyst Internship – CIB Functions, Enterprise Services](https://www.linkedin.com/jobs/view/4233229433) | 42 | Jersey City, NJ | — | 2026-05-16 |
 
 ## Bombardier
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Quality Assurance Intern](https://jobright.ai/jobs/info/685b0b721fe76f13ca7b5d52?utm_source=1099&utm_campaign=Software%20Engineer) | 42 | Red Oak, TX | — | 2026-07-12 |
+| [Quality Assurance Intern](https://jobright.ai/jobs/info/685b0b721fe76f13ca7b5d52?utm_source=1099&utm_campaign=Software%20Engineer) | 42 | Red Oak, TX | — | 2026-05-16 |
 
 ## Bosch
 
@@ -986,7 +986,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Artificial Intelligence Intern - Renewable Power & Transition](https://brookfield.wd5.myworkdayjobs.com/brookfieldprivate/job/New-York-New-York/Artificial-Intelligence-Intern--Renewable-Power---Transition_R2048741) | 68 | NYC / Toronto, ON, Canada | AI/ML/Data | 2026-05-09 |
+| [Artificial Intelligence Intern - Renewable Power & Transition](https://brookfield.wd5.myworkdayjobs.com/brookfieldprivate/job/New-York-New-York/Artificial-Intelligence-Intern--Renewable-Power---Transition_R2048741) | 68 | NYC / Toronto, ON, Canada | AI/ML/Data | 2026-07-12 |
 
 ## Brunswick
 
@@ -1068,13 +1068,13 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [CareScout Sales & Operations Intern – Summer 2026](https://www.linkedin.com/jobs/view/4271091935) | 22 | Richmond, VA | — | 2026-07-12 |
+| [CareScout Sales & Operations Intern – Summer 2026](https://www.linkedin.com/jobs/view/4271091935) | 22 | Richmond, VA | — | 2026-05-16 |
 
 ## Caterpillar Inc.
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [2026 Engineering Internship Program- Metallurgical Engineering](https://www.linkedin.com/jobs/view/4260034721) | 42 | Mossville, IL | — | 2026-07-12 |
+| [2026 Engineering Internship Program- Metallurgical Engineering](https://www.linkedin.com/jobs/view/4260034721) | 42 | Mossville, IL | — | 2026-05-16 |
 
 ## Center for AI Safety
 
@@ -1100,14 +1100,14 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Field Marketing Intern, Chartwells Higher Ed / University of North Carolina](https://www.linkedin.com/jobs/view/4261076817) | 22 | Charlotte, NC | — | 2026-07-12 |
+| [Field Marketing Intern, Chartwells Higher Ed / University of North Carolina](https://www.linkedin.com/jobs/view/4261076817) | 22 | Charlotte, NC | — | 2026-05-16 |
 
 ## Cherry Bekaert
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Spring 2026 Tax Intern](https://www.tealhq.com/job/spring-2026-tax-intern-tysons_9130861e-982c-42d6-ad09-fda6ec66bc75?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 22 | Tysons, VA | — | 2026-07-12 |
-| [Summer 2026 Audit Intern](https://www.linkedin.com/jobs/view/4219370046) | 22 | Chicago, IL | — | 2026-07-12 |
+| [Spring 2026 Tax Intern](https://www.tealhq.com/job/spring-2026-tax-intern-tysons_9130861e-982c-42d6-ad09-fda6ec66bc75?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 22 | Tysons, VA | — | 2026-05-16 |
+| [Summer 2026 Audit Intern](https://www.linkedin.com/jobs/view/4219370046) | 22 | Chicago, IL | — | 2026-05-16 |
 
 ## Chevron Corporation
 
@@ -1132,7 +1132,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer, Intern (Summer 2026)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002?fbclid=PAQ0xDSwK38VtleHRuA2FlbQIxMQABpwFCtP3w0jUMJ2UyUfRb7jqEW6gF5Rr31twvg5geVxUyYXlmmQrGSEf9O3Pw_aem_MfePXp-UnrQgRcTvm_Lh4Q) | 93 | Chicago | — | 2026-07-12 |
 | [Quantitative Research Engineer Intern](https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-us/) | 85 | Greenwich, CT / Houston, TX / Miami, FL / NYC | Quant | 2026-07-12 |
 | [Quantitative Researcher – PhD Intern](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-europe/) | 85 | London, UK | Quant | 2026-07-12 |
 | [Quantitative Researcher – PhD Intern](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/) | 85 | Greenwich, CT / Houston, TX / Miami, FL / NYC | Quant | 2026-07-12 |
@@ -1140,6 +1139,7 @@
 | [Quantitative Research Analyst Intern](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/) | 60 | Greenwich, CT / Miami, FL / NYC | Quant | 2026-07-12 |
 | [Quantitative Trader: Equity Quantitative Research Intern](https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-intern-us/) | 60 | NYC | Quant | 2026-07-12 |
 | [Trader: Fixed Income & Macro Intern](https://www.citadel.com/careers/details/trader-fixed-income-macro-intern-us/) | 60 | Greenwich, CT / Miami, FL / NYC | Quant | 2026-07-12 |
+| [Software Engineer, Intern (Summer 2026)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002?fbclid=PAQ0xDSwK38VtleHRuA2FlbQIxMQABpwFCtP3w0jUMJ2UyUfRb7jqEW6gF5Rr31twvg5geVxUyYXlmmQrGSEf9O3Pw_aem_MfePXp-UnrQgRcTvm_Lh4Q) | 93 | Chicago | — | 2026-05-16 |
 | [Machine Learning Researcher – PhD Intern - US](https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-us/) | 85 | NYC | AI/ML/Data | 2026-05-09 |
 
 ## Citadel Securities
@@ -1220,8 +1220,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Food Science Return Internship – Product Development – Summer 2026](https://www.linkedin.com/jobs/view/4273206476) | 42 | Omaha, NE | — | 2026-07-12 |
-| [Packaging Return Internship - Summer 2026](https://www.linkedin.com/jobs/view/4270506322) | 42 | Omaha, NE | — | 2026-07-12 |
+| [Food Science Return Internship – Product Development – Summer 2026](https://www.linkedin.com/jobs/view/4273206476) | 42 | Omaha, NE | — | 2026-05-16 |
+| [Packaging Return Internship - Summer 2026](https://www.linkedin.com/jobs/view/4270506322) | 42 | Omaha, NE | — | 2026-05-16 |
 
 ## ConnectPrep
 
@@ -1254,7 +1254,7 @@
 | [Database Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Database-Engineering-Intern_JR109636) | 93 | Dallas, TX | Software | 2026-07-12 |
 | [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393) | 93 | Dallas, TX | Software | 2026-07-12 |
 | [Software Engineering Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR106129) | 68 | Dallas, TX | Software | 2026-07-12 |
-| [Technology Product Analyst Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107890) | 58 | Dallas, TX | Product | 2026-07-12 |
+| [Technology Product Analyst Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107890) | 58 | Dallas, TX | Product | 2026-05-16 |
 
 ## Cotiviti
 
@@ -1294,7 +1294,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Summer Safety Internship (Multiple Locations)](https://www.linkedin.com/jobs/view/4157995744) | 42 | New Albany, OH | — | 2026-07-12 |
+| [Summer Safety Internship (Multiple Locations)](https://www.linkedin.com/jobs/view/4157995744) | 42 | New Albany, OH | — | 2026-05-16 |
 
 ## d-Matrix
 
@@ -1370,7 +1370,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Site/Civil Engineering Intern](https://www.linkedin.com/jobs/view/4275448602) | 42 | Richmond, VA | — | 2026-07-12 |
+| [Site/Civil Engineering Intern](https://www.linkedin.com/jobs/view/4275448602) | 42 | Richmond, VA | — | 2026-05-16 |
 
 ## DiDi Global
 
@@ -1420,11 +1420,11 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [2026 Summer Intern & Co-Op: Chemical, Mechanical and Electrical Engineering Opportunities.](https://www.linkedin.com/jobs/view/4268305730) | 42 | Hemlock, MI | — | 2026-07-12 |
-| [2026 Summer Intern & Co-Op: Chemical, Mechanical and Electrical Engineering Opportunities.](https://www.linkedin.com/jobs/view/4268305729) | 42 | Circleville, OH | — | 2026-07-12 |
-| [2026 Summer Intern & Co-Op: Chemical, Mechanical and Electrical Engineering Opportunities.](https://www.linkedin.com/jobs/view/4268310442) | 42 | Wilmington, DE | — | 2026-07-12 |
-| [2026 Summer Intern & Co-Op: Chemical, Mechanical and Electrical Engineering Opportunities.](https://www.linkedin.com/jobs/view/4268307684) | 42 | Pasadena, TX | — | 2026-07-12 |
-| [2026 Summer Intern & Co-Op: Chemical, Mechanical and Electrical Engineering Opportunities.](https://www.linkedin.com/jobs/view/4268307679) | 42 | Midland, MI | — | 2026-07-12 |
+| [2026 Summer Intern & Co-Op: Chemical, Mechanical and Electrical Engineering Opportunities.](https://www.linkedin.com/jobs/view/4268305730) | 42 | Hemlock, MI | — | 2026-05-16 |
+| [2026 Summer Intern & Co-Op: Chemical, Mechanical and Electrical Engineering Opportunities.](https://www.linkedin.com/jobs/view/4268305729) | 42 | Circleville, OH | — | 2026-05-16 |
+| [2026 Summer Intern & Co-Op: Chemical, Mechanical and Electrical Engineering Opportunities.](https://www.linkedin.com/jobs/view/4268310442) | 42 | Wilmington, DE | — | 2026-05-16 |
+| [2026 Summer Intern & Co-Op: Chemical, Mechanical and Electrical Engineering Opportunities.](https://www.linkedin.com/jobs/view/4268307684) | 42 | Pasadena, TX | — | 2026-05-16 |
+| [2026 Summer Intern & Co-Op: Chemical, Mechanical and Electrical Engineering Opportunities.](https://www.linkedin.com/jobs/view/4268307679) | 42 | Midland, MI | — | 2026-05-16 |
 
 ## EdgeTrace
 
@@ -1466,7 +1466,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Sales Management Trainee Intern-Fall- Lithia Springs](https://www.linkedin.com/jobs/view/4255559163) | 22 | Lithia Springs, GA | — | 2026-07-12 |
+| [Sales Management Trainee Intern-Fall- Lithia Springs](https://www.linkedin.com/jobs/view/4255559163) | 22 | Lithia Springs, GA | — | 2026-05-16 |
 
 ## Environmental Defense Fund
 
@@ -1619,7 +1619,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Summer Intern 2026 - Software Developer](https://job-boards.greenhouse.io/fiveringsllc/jobs/4806713008) | 93 | New York | — | 2026-07-12 |
+| [Summer Intern 2026 - Software Developer](https://job-boards.greenhouse.io/fiveringsllc/jobs/4806713008) | 93 | New York | — | 2026-05-16 |
 
 ## Flagright
 
@@ -1651,7 +1651,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Intern Tax Summer 2026](https://www.linkedin.com/jobs/view/4233794689) | 22 | Cincinnati, OH | — | 2026-07-12 |
+| [Intern Tax Summer 2026](https://www.linkedin.com/jobs/view/4233794689) | 22 | Cincinnati, OH | — | 2026-05-16 |
 
 ## Four Hands
 
@@ -1663,7 +1663,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [GE Vernova Grid Solutions Supply Chain Manufacturing Internship - Summer 2026](https://www.linkedin.com/jobs/view/4271049276) | 42 | Clearwater, FL | — | 2026-07-12 |
+| [GE Vernova Grid Solutions Supply Chain Manufacturing Internship - Summer 2026](https://www.linkedin.com/jobs/view/4271049276) | 42 | Clearwater, FL | — | 2026-05-16 |
 
 ## Gemini
 
@@ -1712,7 +1712,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Genworth Finance Development Program Intern – Summer 2026](https://www.linkedin.com/jobs/view/4268379282) | 42 | Richmond, VA | — | 2026-07-12 |
+| [Genworth Finance Development Program Intern – Summer 2026](https://www.linkedin.com/jobs/view/4268379282) | 42 | Richmond, VA | — | 2026-05-16 |
 
 ## Ginkgo Bioworks
 
@@ -1737,7 +1737,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Eco-Warrior Intern](https://example7088.com/apply3) | 50 | Seattle, WA | — | 2026-07-12 |
+| [Eco-Warrior Intern](https://example7088.com/apply3) | 50 | Seattle, WA | — | 2026-05-16 |
 
 ## GSA Capital
 
@@ -1780,7 +1780,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Project Engineer Intern - Spring 26](https://www.linkedin.com/jobs/view/4178650965) | 42 | Goodyear, AZ | — | 2026-07-12 |
+| [Project Engineer Intern - Spring 26](https://www.linkedin.com/jobs/view/4178650965) | 42 | Goodyear, AZ | — | 2026-05-16 |
 
 ## Hendrick Motorsports
 
@@ -1818,7 +1818,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [The Hotel Hershey Culinary Intern - Spring 2026](https://www.linkedin.com/jobs/view/4275543897) | 22 | Hershey, PA | — | 2026-07-12 |
+| [The Hotel Hershey Culinary Intern - Spring 2026](https://www.linkedin.com/jobs/view/4275543897) | 22 | Hershey, PA | — | 2026-05-16 |
 
 ## HEXAWARE
 
@@ -1848,7 +1848,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Returning Strategic Technology Intern - Summer 2026 (Southeast Division)](https://www.linkedin.com/jobs/view/4275241199) | 42 | Tallahassee, FL | — | 2026-07-12 |
+| [Returning Strategic Technology Intern - Summer 2026 (Southeast Division)](https://www.linkedin.com/jobs/view/4275241199) | 42 | Tallahassee, FL | — | 2026-05-16 |
 
 ## Homebase
 
@@ -1872,7 +1872,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Retail, Inventory Management, and Merchandising Internship](https://www.linkedin.com/jobs/view/4260421271) | 22 | Kahului, HI | — | 2026-07-12 |
+| [Retail, Inventory Management, and Merchandising Internship](https://www.linkedin.com/jobs/view/4260421271) | 22 | Kahului, HI | — | 2026-05-16 |
 
 ## Human Computer Lab
 
@@ -2003,7 +2003,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Generative AI Implementation Intern](https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Conshohocken-PA/Generative-AI-Implementation-Intern_REQ26-1093) | 68 | Conshohocken, PA | AI/ML/Data | 2026-05-09 |
+| [Generative AI Implementation Intern](https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Conshohocken-PA/Generative-AI-Implementation-Intern_REQ26-1093) | 68 | Conshohocken, PA | AI/ML/Data | 2026-07-12 |
 
 ## Internship
 
@@ -2146,7 +2146,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Fall Intern - Technical Implementation Engineer](https://jobright.ai/jobs/info/685b4cbfba3e4e91f0630095?utm_source=1099&utm_campaign=Software%20Engineer) | 42 | Alpharetta, GA | — | 2026-07-12 |
+| [Fall Intern - Technical Implementation Engineer](https://jobright.ai/jobs/info/685b4cbfba3e4e91f0630095?utm_source=1099&utm_campaign=Software%20Engineer) | 42 | Alpharetta, GA | — | 2026-05-16 |
 
 ## Lawrence Livermore National Laboratory (LLNL)
 
@@ -2165,9 +2165,9 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [2026 Summer Internship Program - AMERS](https://www.linkedin.com/jobs/view/4257402148) | 42 | San Francisco, CA | — | 2026-07-12 |
-| [2026 Summer Internship Program - Investment Banking](https://www.linkedin.com/jobs/view/4257296455) | 42 | Baltimore, MD | — | 2026-07-12 |
-| [Accounting Internship Summer 2026](https://lensa.com/job-application-accounting-internship-summer-2026-in-wayne-pa/cpc-jd-v3/bdd3c15c3b73ec0e9b7e0b5b4cbefe35453222188f523f433d39e72a3abd4740?tr=b4a83a7f255547c9982fd106a9550d5aincc1&utm_source=linkedin&utm_medium=slot&utm_campaign=Financial+Specialists&utm_term=jse) | 22 | Wayne, PA | — | 2026-07-12 |
+| [2026 Summer Internship Program - AMERS](https://www.linkedin.com/jobs/view/4257402148) | 42 | San Francisco, CA | — | 2026-05-16 |
+| [2026 Summer Internship Program - Investment Banking](https://www.linkedin.com/jobs/view/4257296455) | 42 | Baltimore, MD | — | 2026-05-16 |
+| [Accounting Internship Summer 2026](https://lensa.com/job-application-accounting-internship-summer-2026-in-wayne-pa/cpc-jd-v3/bdd3c15c3b73ec0e9b7e0b5b4cbefe35453222188f523f433d39e72a3abd4740?tr=b4a83a7f255547c9982fd106a9550d5aincc1&utm_source=linkedin&utm_medium=slot&utm_campaign=Financial+Specialists&utm_term=jse) | 22 | Wayne, PA | — | 2026-05-16 |
 
 ## LinkedIn
 
@@ -2208,13 +2208,13 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Summer 2026 Audit Intern](https://www.recruit.net/job/summer-audit-intern-jobs/5CB5DC462D3901C1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 22 | Butler, AL, | — | 2026-07-12 |
+| [Summer 2026 Audit Intern](https://www.recruit.net/job/summer-audit-intern-jobs/5CB5DC462D3901C1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 22 | Butler, AL, | — | 2026-05-16 |
 
 ## MaloneBailey, LLP
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [2026 Summer Accounting Firm Internship](https://www.linkedin.com/jobs/view/4257247065) | 22 | Houston, TX | — | 2026-07-12 |
+| [2026 Summer Accounting Firm Internship](https://www.linkedin.com/jobs/view/4257247065) | 22 | Houston, TX | — | 2026-05-16 |
 
 ## Man Group
 
@@ -2227,13 +2227,13 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Intern/Co-op - Logistics and Storage Mechanical/Civil/Electrical Engineer (Spring 2026)](https://www.linkedin.com/jobs/view/4189088683) | 42 | Salt Lake City, UT | — | 2026-07-12 |
+| [Intern/Co-op - Logistics and Storage Mechanical/Civil/Electrical Engineer (Spring 2026)](https://www.linkedin.com/jobs/view/4189088683) | 42 | Salt Lake City, UT | — | 2026-05-16 |
 
 ## Maricopa Association of Governments (MAG)
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [IT Software Development Intern](https://jobright.ai/jobs/info/685d219b13e97b6671e211e3?utm_source=1099&utm_campaign=Software%20Engineer) | 52 | Phoenix, AZ | — | 2026-07-12 |
+| [IT Software Development Intern](https://jobright.ai/jobs/info/685d219b13e97b6671e211e3?utm_source=1099&utm_campaign=Software%20Engineer) | 52 | Phoenix, AZ | — | 2026-05-16 |
 
 ## Markem-Imaje
 
@@ -2365,8 +2365,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [AI Developer Intern](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose---California/AI-Developer-Intern_R-674) | 93 | San Jose, CA | AI/ML/Data | 2026-05-09 |
-| [Application Engineer Intern](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Application-Engineer-Intern_R-890) | 58 | San Jose, CA | Hardware | 2026-05-09 |
+| [AI Developer Intern](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose---California/AI-Developer-Intern_R-674) | 93 | San Jose, CA | AI/ML/Data | 2026-07-12 |
+| [Application Engineer Intern](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Application-Engineer-Intern_R-890) | 58 | San Jose, CA | Hardware | 2026-07-12 |
 
 ## Motorola
 
@@ -2515,17 +2515,17 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Performance Engineer Intern, Systems Software-  Fall 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779) | 93 | US, MO, St. Louis | Software / Fall 2026 | 2026-07-12 |
-| [Quantum Error Correction Research Scientist Intern - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Quantum-Error-Correction-Research-Scientist-Intern---Fall-2026_JR2018628) | 93 | US, CA, Remote | Data & ML/AI / Fall 2026 | 2026-07-12 |
-| [Quantum Research Scientist Intern - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244) | 93 | US, CA, Remote | Data & ML/AI / Fall 2026 | 2026-07-12 |
 | [Java Engineer Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Java-Engineering-Intern---Fall-2026_JR2019769) | 93 | Santa Clara, CA | Software | 2026-07-12 |
+| [Performance Engineer Intern, Systems Software-  Fall 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779) | 93 | US, MO, St. Louis | Software / Fall 2026 | 2026-07-12 |
 | [PhD Software Engineer Intern - Decision Intelligence](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522) | 93 | Santa Clara, CA | Hardware | 2026-07-12 |
+| [Quantum Error Correction Research Scientist Intern - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Quantum-Error-Correction-Research-Scientist-Intern---Fall-2026_JR2018628) | 93 | US, CA, Remote | Data & ML/AI / Fall 2026 | 2026-07-12 |
 | [Quantum Research Scientist Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244) | 93 | Santa Clara, CA | — | 2026-07-12 |
+| [Quantum Research Scientist Intern - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244) | 93 | US, CA, Remote | Data & ML/AI / Fall 2026 | 2026-07-12 |
+| [Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398) | 68 | Santa Clara, CA | AI/ML/Data | 2026-07-12 |
 | [Applied Research Intern - NLP](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488) | 68 | Santa Clara, CA | AI/ML/Data | 2026-07-12 |
 | [PhD Data Generation and User Simulation Research Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Data-Generation-and-User-Simulation-Research-Intern---Fall-2026_JR2018317) | 68 | Santa Clara, CA | AI/ML/Data | 2026-07-12 |
 | [PhD Research Intern - Generative AI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035) | 68 | California / Santa Clara, CA / United States | AI/ML/Data | 2026-07-12 |
 | [PhD Research Intern - System Software and I/O Architecture](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--System-Software-and-I-O-Architecture---Fall-2026_JR2019667) | 68 | Urbana, IL / Remote in USA / Santa Clara, CA | Software | 2026-07-12 |
-| [Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398) | 68 | Santa Clara, CA | AI/ML/Data | 2026-05-14 |
 | [Software Engineering Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745) | 68 | Santa Clara, CA | Software | 2026-05-09 |
 
 ## NXP Semiconductors
@@ -2583,7 +2583,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Trading Operations Analyst Intern (Summer 2026)](https://www.linkedin.com/jobs/view/4266985879) | 42 | Chicago, IL | — | 2026-07-12 |
+| [Trading Operations Analyst Intern (Summer 2026)](https://www.linkedin.com/jobs/view/4266985879) | 42 | Chicago, IL | — | 2026-05-16 |
 | [Software Engineer Intern](https://www.optiver.com/join-us/jobs/technology/austin/software-engineer-intern-summer-2027-austin/) | 85 | Austin, TX | — | 2026-05-09 |
 | [Software Engineer Intern](https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/) | 85 | Chicago, IL | — | 2026-05-09 |
 
@@ -3063,7 +3063,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [2026 Summer Accounting Firm Internship](https://www.linkedin.com/jobs/view/4255972776) | 22 | Houston, TX | — | 2026-07-12 |
+| [2026 Summer Accounting Firm Internship](https://www.linkedin.com/jobs/view/4255972776) | 22 | Houston, TX | — | 2026-05-16 |
 
 ## Shopify
 
@@ -3094,9 +3094,9 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Middleware Software Engineer Intern](https://jobs.ashbyhq.com/skydio/7d9dbb60-4ca1-4ba8-8bae-5ebfded4a915/application) | 93 | San Mateo, CA | Hardware | 2026-07-12 |
 | [Middleware Software Engineer Intern - Fall 2026](https://jobs.ashbyhq.com/skydio/7d9dbb60-4ca1-4ba8-8bae-5ebfded4a915) | 93 | San Mateo, California, United States | Software / Fall 2026 | 2026-07-12 |
 | [Software Engineer Intern Fall 2026/Winter 2027](https://jobs.ashbyhq.com/skydio/f6320e9b-4eed-408d-8d37-d509fb0406ee) | 93 | San Mateo, California, United States | Software / Fall 2026 | 2026-07-12 |
-| [Middleware Software Engineer Intern](https://jobs.ashbyhq.com/skydio/7d9dbb60-4ca1-4ba8-8bae-5ebfded4a915/application) | 93 | San Mateo, CA | Hardware | 2026-07-12 |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/skydio/f6320e9b-4eed-408d-8d37-d509fb0406ee/application) | 93 | San Mateo, CA | Software | 2026-05-09 |
 
 ## Smiths Detection
@@ -3128,8 +3128,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer Intern/Co-Op - Fall 2026](https://jobs.lever.co/solopulseco/00fbde18-a387-4c9f-97d4-77059aec7b56) | 93 | Peachtree Corners, GA | Software / Fall 2026 | 2026-07-12 |
 | [Software Engineer Intern/Co-op](https://jobs.lever.co/solopulseco/00fbde18-a387-4c9f-97d4-77059aec7b56/apply) | 93 | Norcross, GA | Software | 2026-07-12 |
+| [Software Engineer Intern/Co-Op - Fall 2026](https://jobs.lever.co/solopulseco/00fbde18-a387-4c9f-97d4-77059aec7b56) | 93 | Peachtree Corners, GA | Software / Fall 2026 | 2026-07-12 |
 | [Systems Engineering Intern](https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51/apply) | 58 | Norcross, GA | Hardware | 2026-05-09 |
 
 ## Sony
@@ -3142,7 +3142,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Associate Product Manager Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--September-2026-12-Months-_R10041) | 58 | Mississauga, ON, Canada | Product | 2026-07-12 |
+| [Associate Product Manager Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--September-2026-12-Months-_R10041) | 58 | Mississauga, ON, Canada | Product | 2026-05-16 |
 | [Product Manager Intern - Sales Enablement Products](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Product-Manager--Intern-_R10095) | 38 | Mississauga, ON, Canada | Product | 2026-05-14 |
 | [Data Scientist Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--September-2026-12-Months-_R10065) | 93 | Mississauga, ON, Canada | AI/ML/Data | 2026-05-14 |
 | [Software Developer Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--September-2026-12-Months-_R10025) | 93 | Mississauga, ON, Canada | Software | 2026-05-13 |
@@ -3228,9 +3228,9 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Quantitative Research Internship - PhD: Summer 2026](https://careers.sig.com/job/9238/Quantitative-Research-Internship-PhD-Summer-2026?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 60 | Bala Cynwyd, PA | — | 2026-07-12 |
-| [Credit Analyst Internship: Summer 2026](https://careers.sig.com/job/9526/Credit-Analyst-Internship-Summer-2026?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 50 | Bala Cynwyd, PA | — | 2026-07-12 |
-| [Tax Internship: Summer 2026](https://careers.sig.com/job/9586/Tax-Internship-Summer-2026?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 30 | Bala Cynwyd, PA, | — | 2026-07-12 |
+| [Quantitative Research Internship - PhD: Summer 2026](https://careers.sig.com/job/9238/Quantitative-Research-Internship-PhD-Summer-2026?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 60 | Bala Cynwyd, PA | — | 2026-05-16 |
+| [Credit Analyst Internship: Summer 2026](https://careers.sig.com/job/9526/Credit-Analyst-Internship-Summer-2026?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 50 | Bala Cynwyd, PA | — | 2026-05-16 |
+| [Tax Internship: Summer 2026](https://careers.sig.com/job/9586/Tax-Internship-Summer-2026?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 30 | Bala Cynwyd, PA, | — | 2026-05-16 |
 
 ## Susquehanna Investment Group
 
@@ -3260,7 +3260,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [REVELxp - Hospitality Intern, Premium Field Suites, University of Cincinnati](https://www.linkedin.com/jobs/view/4259418194) | 42 | Cincinnati, OH | — | 2026-07-12 |
+| [REVELxp - Hospitality Intern, Premium Field Suites, University of Cincinnati](https://www.linkedin.com/jobs/view/4259418194) | 42 | Cincinnati, OH | — | 2026-05-16 |
 
 ## Technergetics
 
@@ -3427,7 +3427,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Fundamental Research Analyst Intern (New York) - Summer 2026](https://www.deshaw.com/careers/fundamental-research-analyst-intern-new-york-summer-2026-5378?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 50 | New York, NY | — | 2026-07-12 |
+| [Fundamental Research Analyst Intern (New York) - Summer 2026](https://www.deshaw.com/careers/fundamental-research-analyst-intern-new-york-summer-2026-5378?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 50 | New York, NY | — | 2026-05-16 |
 
 ## The Exploration Company
 
@@ -3445,7 +3445,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [2026 North America Software Engineering Internship](https://www.linkedin.com/jobs/view/4270526982) | 52 | Boulder, CO | — | 2026-07-12 |
+| [2026 North America Software Engineering Internship](https://www.linkedin.com/jobs/view/4270526982) | 52 | Boulder, CO | — | 2026-05-16 |
 
 ## The University of Edinburgh
 
@@ -3569,7 +3569,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Summer 2026 Tax Internship](https://www.linkedin.com/jobs/view/4234423835) | 22 | Chicago, IL | — | 2026-07-12 |
+| [Summer 2026 Tax Internship](https://www.linkedin.com/jobs/view/4234423835) | 22 | Chicago, IL | — | 2026-05-16 |
 
 ## Torc Robotics
 
@@ -3690,7 +3690,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [College to Corporate Internship - Application Development (PA)](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed397?utm_source=1099&utm_campaign=Software%20Engineer) | 42 | Malvern, PA | — | 2026-07-12 |
+| [College to Corporate Internship - Application Development (PA)](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed397?utm_source=1099&utm_campaign=Software%20Engineer) | 42 | Malvern, PA | — | 2026-05-16 |
 
 ## Varda Space
 
@@ -3772,7 +3772,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Corporate Intern - Global Public Polic](https://www.linkedin.com/jobs/view/4270116457) | 42 | Washington, DC | — | 2026-07-12 |
+| [Corporate Intern - Global Public Polic](https://www.linkedin.com/jobs/view/4270116457) | 42 | Washington, DC | — | 2026-05-16 |
 
 ## Walrus
 
@@ -3796,17 +3796,17 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [2026 Technology Summer Internship - Early Careers (Software Engineer)](https://careers.techtitans.org/companies/wells-fargo/jobs/54862105-2026-technology-summer-internship-early-careers-software-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 85 | St. Louis, MO | — | 2026-07-12 |
-| [2026 Technology Summer Internship - Early Careers (Software Engineer)](https://www.linkedin.com/jobs/view/2026-technology-summer-internship-early-careers-software-engineer-at-wells-fargo-4271041288?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 77 | Irving, TX | — | 2026-07-12 |
-| [2026 Commercial Banking Summer Internship - Early Careers](https://www.linkedin.com/jobs/view/4256850790) | 42 | Dallas, TX | — | 2026-07-12 |
-| [2026 Commercial Banking Summer Internship - Early Careers](https://www.linkedin.com/jobs/view/4256850801) | 42 | Charlotte, NC | — | 2026-07-12 |
-| [2026 Commercial Banking Summer Internship - Early Careers](https://www.linkedin.com/jobs/view/4252095097) | 42 | Chandler, AZ | — | 2026-07-12 |
-| [2026 Commercial Banking Summer Internship - Early Careers](https://www.linkedin.com/jobs/view/4256855358) | 42 | Atlanta, GA | — | 2026-07-12 |
-| [2026 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://www.linkedin.com/jobs/view/4252094228) | 42 | West Des Moines, IA | — | 2026-07-12 |
-| [2026 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://www.linkedin.com/jobs/view/4252092370) | 42 | Phoenix, AZ | — | 2026-07-12 |
-| [2026 Corporate Risk Summer Internship - Early Careers](https://www.linkedin.com/jobs/view/4252090624) | 42 | Charlotte, NC | — | 2026-07-12 |
-| [2026 Wealth & Investment Management Summer Internship - Early Careers](https://www.linkedin.com/jobs/view/4256849831) | 42 | Charlotte, NC | — | 2026-07-12 |
-| [2026 Audit Summer Internship - Early Careers -](https://www.snagajob.com/jobs/1125021743?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 22 | Charlotte, NC | — | 2026-07-12 |
+| [2026 Technology Summer Internship - Early Careers (Software Engineer)](https://careers.techtitans.org/companies/wells-fargo/jobs/54862105-2026-technology-summer-internship-early-careers-software-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 85 | St. Louis, MO | — | 2026-05-16 |
+| [2026 Technology Summer Internship - Early Careers (Software Engineer)](https://www.linkedin.com/jobs/view/2026-technology-summer-internship-early-careers-software-engineer-at-wells-fargo-4271041288?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 77 | Irving, TX | — | 2026-05-16 |
+| [2026 Commercial Banking Summer Internship - Early Careers](https://www.linkedin.com/jobs/view/4256850790) | 42 | Dallas, TX | — | 2026-05-16 |
+| [2026 Commercial Banking Summer Internship - Early Careers](https://www.linkedin.com/jobs/view/4256850801) | 42 | Charlotte, NC | — | 2026-05-16 |
+| [2026 Commercial Banking Summer Internship - Early Careers](https://www.linkedin.com/jobs/view/4252095097) | 42 | Chandler, AZ | — | 2026-05-16 |
+| [2026 Commercial Banking Summer Internship - Early Careers](https://www.linkedin.com/jobs/view/4256855358) | 42 | Atlanta, GA | — | 2026-05-16 |
+| [2026 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://www.linkedin.com/jobs/view/4252094228) | 42 | West Des Moines, IA | — | 2026-05-16 |
+| [2026 COO Business Risk Control and Regulatory Oversight Summer Internship - Early Careers](https://www.linkedin.com/jobs/view/4252092370) | 42 | Phoenix, AZ | — | 2026-05-16 |
+| [2026 Corporate Risk Summer Internship - Early Careers](https://www.linkedin.com/jobs/view/4252090624) | 42 | Charlotte, NC | — | 2026-05-16 |
+| [2026 Wealth & Investment Management Summer Internship - Early Careers](https://www.linkedin.com/jobs/view/4256849831) | 42 | Charlotte, NC | — | 2026-05-16 |
+| [2026 Audit Summer Internship - Early Careers -](https://www.snagajob.com/jobs/1125021743?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 22 | Charlotte, NC | — | 2026-05-16 |
 
 ## WeRide
 
