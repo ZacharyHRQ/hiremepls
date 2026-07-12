@@ -1,6 +1,6 @@
 # Open Internships
 
-**1109** internships across **68/68** companies — last updated 2026-07-12.
+**1110** internships across **68/68** companies — last updated 2026-07-12.
 
 ## Companies
 
@@ -82,7 +82,7 @@
 - [Brookfield](#brookfield) (1)
 - [Brunswick](#brunswick) (1)
 - [BSE Global](#bse-global) (1)
-- [ByteDance](#bytedance) (31)
+- [ByteDance](#bytedance) (32)
 - [CACI](#caci) (2)
 - [Cadence Design Systems](#cadence-design-systems) (2)
 - [Capella](#capella) (2)
@@ -1009,6 +1009,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [3D Graphics Engineer Intern - PICO Foundation](https://jobs.bytedance.com/en/position/7564516412456306997/detail) | 85 | San Jose, CA | Software | 2026-07-12 |
 | [Research Scientist Intern - AI Infrastructure](https://jobs.bytedance.com/en/position/7553916190126524680/detail) | 85 | Seattle, WA | AI/ML/Data | 2026-07-03 |
 | [Research Scientist Intern - AI Infrastructure](https://jobs.bytedance.com/en/position/7553917136512076050/detail) | 85 | San Jose, CA | AI/ML/Data | 2026-07-03 |
 | [Research Scientist Intern - Security for AI - 2026 Start](https://jobs.bytedance.com/en/position/7595676762475415861/detail) | 85 | San Jose, CA | AI/ML/Data | 2026-06-04 |
