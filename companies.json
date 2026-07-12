@@ -76,5 +76,11 @@
     "ats": "githubMarkdown",
     "slug": "rethinkjobs-summer-2026",
     "sourceUrl": "https://raw.githubusercontent.com/summer2026internships/Summer2026-Internships/main/README.md"
+  },
+  {
+    "name": "zshah101 Summer 2027/Fall 2026",
+    "ats": "githubJson",
+    "slug": "zshah101-summer-2027-fall-2026",
+    "sourceUrl": "https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/api/jobs.json"
   }
 ]

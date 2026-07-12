@@ -6,6 +6,7 @@ export type AtsKind =
   | "simplify"
   | "vanshb03"
   | "githubMarkdown"
+  | "githubJson"
   | "smartrecruiters"
   | "workable";
 

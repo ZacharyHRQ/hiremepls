@@ -13,7 +13,7 @@ function normalize(value: string): string {
 
 function normalizeTitle(value: string): string {
   return normalize(value)
-    .replace(/\b(2026|summer|fall|spring|winter)\b/g, "")
+    .replace(/\b(2026|2027|summer|fall|spring|winter)\b/g, "")
     .replace(/\b(internship|intern|co op|coop)\b/g, "intern")
     .trim();
 }
@@ -32,6 +32,9 @@ function stripTracking(url: string): string {
       }
     }
     parsed.hash = "";
+    if (parsed.hostname.endsWith("greenhouse.io")) {
+      parsed.hostname = "greenhouse.io";
+    }
     return parsed.toString();
   } catch {
     return url.trim();
@@ -72,9 +75,16 @@ function mergeJobs(existing: Job, incoming: Job): Job {
 }
 
 export function dedupeJobs(jobs: Job[]): Job[] {
+  const byUrl = new Map<string, Job>();
+  for (const job of jobs) {
+    const id = stripTracking(job.url);
+    const existing = byUrl.get(id);
+    byUrl.set(id, existing ? mergeJobs(existing, job) : job);
+  }
+
   const byKey = new Map<string, Job>();
 
-  for (const job of jobs) {
+  for (const job of byUrl.values()) {
     const id = canonicalJobId(job);
     const next = { ...job, id };
     const existing = byKey.get(id);
