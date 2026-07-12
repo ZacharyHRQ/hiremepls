@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-12T14:02:35.390Z",
+  "generatedAt": "2026-07-12T15:12:54.655Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1110,
+  "jobCount": 1109,
   "firstSeen": {
     "canonical:822f979beef7ebc5": "2026-05-06T06:42:07.596Z",
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
@@ -1104,7 +1104,6 @@
     "canonical:b0995157b52a70dd": "2026-07-11T15:12:52.431Z",
     "canonical:7cd65dbc34efa0fa": "2026-07-11T15:12:52.431Z",
     "canonical:ae1902dace82286a": "2026-07-11T15:12:52.431Z",
-    "canonical:2fc4577ec2058740": "2026-07-11T15:12:52.431Z",
     "canonical:01dae773e3ef7062": "2026-07-12T06:25:25.384Z",
     "canonical:0df76adfa71f50bc": "2026-07-12T10:12:40.543Z",
     "canonical:99aaad0a301ea911": "2026-07-12T10:12:40.543Z",
@@ -12104,19 +12103,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:2fc4577ec2058740",
-      "title": "Research and Development Intern - Research & Development",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development_JR-202613027",
-      "location": "Warren, MI",
-      "department": "AI/ML/Data",
-      "company": "General Motors",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
