@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-12T06:25:25.384Z",
+  "generatedAt": "2026-07-12T08:36:10.235Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1110,
+  "jobCount": 1109,
   "firstSeen": {
     "canonical:61c93da9140cb7e3": "2026-05-12T20:57:03.840Z",
     "canonical:6418a1b0042bfe92": "2026-05-06T06:42:07.596Z",
@@ -725,7 +725,6 @@
     "canonical:4aeb2d33b626d0ff": "2026-07-02T04:36:39.736Z",
     "canonical:2cd2cb418fd4c476": "2026-07-02T04:36:39.736Z",
     "canonical:993f3519eebf8d19": "2026-07-02T04:36:39.736Z",
-    "canonical:bf33bee56c7f7e21": "2026-07-02T04:36:39.736Z",
     "canonical:6372dbe5b6be1779": "2026-07-02T04:36:39.736Z",
     "canonical:7cd2f99437b3bc56": "2026-07-02T04:36:39.736Z",
     "canonical:d55fc31614ca91f3": "2026-07-02T04:36:39.736Z",
@@ -11448,19 +11447,6 @@
       "company": "ABB",
       "score": 58,
       "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:bf33bee56c7f7e21",
-      "title": "PhD Research Intern - System Software and I/O Architecture",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--System-Software-and-I-O-Architecture---Fall-2026_JR2019667",
-      "location": "Urbana, IL / Remote in USA / Santa Clara, CA",
-      "department": "Software",
-      "company": "NVIDIA",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
         "direct ATS"
       ]
     },
