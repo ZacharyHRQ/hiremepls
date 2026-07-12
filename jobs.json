@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-12T12:28:11.358Z",
+  "generatedAt": "2026-07-12T14:02:35.390Z",
   "companyCount": 68,
-  "okCount": 67,
-  "jobCount": 1105,
+  "okCount": 68,
+  "jobCount": 1110,
   "firstSeen": {
     "canonical:822f979beef7ebc5": "2026-05-06T06:42:07.596Z",
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
@@ -1108,9 +1108,77 @@
     "canonical:01dae773e3ef7062": "2026-07-12T06:25:25.384Z",
     "canonical:0df76adfa71f50bc": "2026-07-12T10:12:40.543Z",
     "canonical:99aaad0a301ea911": "2026-07-12T10:12:40.543Z",
-    "canonical:bf33bee56c7f7e21": "2026-07-12T10:12:40.543Z"
+    "canonical:bf33bee56c7f7e21": "2026-07-12T10:12:40.543Z",
+    "canonical:61c93da9140cb7e3": "2026-07-12T14:02:35.390Z",
+    "canonical:6418a1b0042bfe92": "2026-07-12T14:02:35.390Z",
+    "canonical:2c1230c887d66061": "2026-07-12T14:02:35.390Z",
+    "canonical:8385aa46301105a2": "2026-07-12T14:02:35.390Z",
+    "canonical:51d519ad65d99582": "2026-07-12T14:02:35.390Z"
   },
   "jobs": [
+    {
+      "id": "canonical:61c93da9140cb7e3",
+      "title": "Graduate Quant Developer",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=7918610&gh_jid=7918610",
+      "location": "London, Montreal, Singapore",
+      "department": "",
+      "company": "Squarepoint Capital",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
+      ]
+    },
+    {
+      "id": "canonical:6418a1b0042bfe92",
+      "title": "Graduate Software Developer",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=6040910&gh_jid=6040910",
+      "location": "London, Montreal, Singapore",
+      "department": "",
+      "company": "Squarepoint Capital",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
+      ]
+    },
+    {
+      "id": "canonical:2c1230c887d66061",
+      "title": "Graduate Support Specialist",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=6100081&gh_jid=6100081",
+      "location": "London, Montreal, New York, Houston, Hong Kong",
+      "department": "",
+      "company": "Squarepoint Capital",
+      "score": 56,
+      "scoreReasons": [
+        "new grad"
+      ]
+    },
+    {
+      "id": "canonical:8385aa46301105a2",
+      "title": "Operations Intern (Fall)",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=8050436&gh_jid=8050436",
+      "location": "Montreal",
+      "department": "",
+      "company": "Squarepoint Capital",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:51d519ad65d99582",
+      "title": "Trading Infrastructure Specialist – Graduate Programme",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=7757021&gh_jid=7757021",
+      "location": "London, Montreal, Hong Kong, New York, Singapore",
+      "department": "",
+      "company": "Squarepoint Capital",
+      "score": 66,
+      "scoreReasons": [
+        "high-signal role",
+        "new grad"
+      ]
+    },
     {
       "id": "canonical:80cca71dae305229",
       "title": "Cybersecurity Analyst: New Grad ",
@@ -15244,10 +15312,5 @@
       ]
     }
   ],
-  "errors": [
-    {
-      "company": "Squarepoint Capital",
-      "message": "fetch failed"
-    }
-  ]
+  "errors": []
 }
