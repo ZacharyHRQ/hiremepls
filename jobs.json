@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-12T16:10:40.116Z",
+  "generatedAt": "2026-07-12T17:14:49.402Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1109,
+  "jobCount": 1106,
   "firstSeen": {
     "canonical:822f979beef7ebc5": "2026-05-06T06:42:07.596Z",
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
@@ -42,9 +42,6 @@
     "canonical:ad23aadfeb5e4fdd": "2026-05-06T06:42:07.596Z",
     "canonical:778ae0c54171b31e": "2026-05-06T06:42:07.596Z",
     "canonical:40b5e3e02c34b6ce": "2026-05-09T15:28:15.527Z",
-    "canonical:fe332cbf1845feb8": "2026-05-09T15:28:15.527Z",
-    "canonical:832871e86e614189": "2026-05-09T15:28:15.527Z",
-    "canonical:d7a434e4eed2389d": "2026-05-09T15:28:15.527Z",
     "canonical:4b8e31934579d1d5": "2026-05-09T15:28:15.527Z",
     "canonical:784e76513f221fdf": "2026-05-09T15:28:15.527Z",
     "canonical:18efc38bdb3d5093": "2026-05-09T15:28:15.527Z",
@@ -2776,48 +2773,6 @@
       "company": "Cribl",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:fe332cbf1845feb8",
-      "title": "Software Engineering Intern, Frontend",
-      "url": "https://jobs.ashbyhq.com/tessera-labs/c0350717-8b4d-4a1a-af00-4c62204192fd",
-      "location": "Remote in USA",
-      "department": "Software Engineering",
-      "company": "Tessera Labs",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:832871e86e614189",
-      "title": "Embedded Software Engineering Intern",
-      "url": "https://jobs.ashbyhq.com/regent/ef64cbcf-5184-43a1-a048-842f89f6cd0b",
-      "location": "North Kingstown, RI",
-      "department": "Hardware Engineering",
-      "company": "REGENT",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:d7a434e4eed2389d",
-      "title": "Intern/New Grad Software Engineer",
-      "url": "https://jobs.ashbyhq.com/anima/86ddfd6e-6aee-4ded-b9d0-440608763fb0",
-      "location": "Remote in USA",
-      "department": "Software Engineering",
-      "company": "Anima",
-      "score": 99,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
-        "direct ATS"
-      ]
     },
     {
       "id": "canonical:4e042622b9f5b371",

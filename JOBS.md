@@ -1,6 +1,6 @@
 # Open Internships
 
-**1109** internships across **68/68** companies — last updated 2026-07-12.
+**1106** internships across **68/68** companies — last updated 2026-07-12.
 
 ## Companies
 
@@ -31,7 +31,6 @@
 - [Amgen](#amgen) (1)
 - [Amwins](#amwins) (1)
 - [Anduril](#anduril) (1)
-- [Anima](#anima) (1)
 - [Apex Technology, Inc.](#apex-technology-inc) (1)
 - [Apple](#apple) (16)
 - [Applied Intuition](#applied-intuition) (3)
@@ -341,7 +340,6 @@
 - [Ralliant](#ralliant) (1)
 - [Ramp](#ramp) (1)
 - [Reacher](#reacher) (1)
-- [REGENT](#regent) (1)
 - [Replit](#replit) (1)
 - [Reply](#reply) (2)
 - [RESPEC](#respec) (1)
@@ -405,7 +403,7 @@
 - [Tenstorrent](#tenstorrent) (7)
 - [Terranox AI](#terranox-ai) (1)
 - [Tesla](#tesla) (94)
-- [Tessera Labs](#tessera-labs) (2)
+- [Tessera Labs](#tessera-labs) (1)
 - [TETRAMEM](#tetramem) (1)
 - [Texas Instruments](#texas-instruments) (1)
 - [The D. E. Shaw Group](#the-d-e-shaw-group) (1)
@@ -641,12 +639,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) | 93 | Atlanta, GA / Boston, MA / Costa Mesa, CA / Irvine, CA / Reston, VA / Seattle, WA | — | 2026-07-09 |
-
-## Anima
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Intern/New Grad Software Engineer](https://jobs.ashbyhq.com/anima/86ddfd6e-6aee-4ded-b9d0-440608763fb0) | 99 | Remote in USA | Software Engineering | 2026-05-09 |
 
 ## Apex Technology, Inc.
 
@@ -2867,12 +2859,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](https://jobs.ashbyhq.com/reacher/99eb7e94-ebde-41c6-acae-efef58d3babe) | 68 | San Francisco, CA | Software Engineering | 2026-05-09 |
 
-## REGENT
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Embedded Software Engineering Intern](https://jobs.ashbyhq.com/regent/ef64cbcf-5184-43a1-a048-842f89f6cd0b) | 68 | North Kingstown, RI | Hardware Engineering | 2026-05-09 |
-
 ## Replit
 
 | Title | Score | Location | Department | First seen |
@@ -3431,7 +3417,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern - Frontend](https://jobs.ashbyhq.com/tessera-labs/4614d053-2c8f-4317-8cd2-1d1290721b06/application) | 93 | San Jose, CA | Software | 2026-06-24 |
-| [Software Engineering Intern, Frontend](https://jobs.ashbyhq.com/tessera-labs/c0350717-8b4d-4a1a-af00-4c62204192fd) | 93 | Remote in USA | Software Engineering | 2026-05-09 |
 
 ## TETRAMEM
 
