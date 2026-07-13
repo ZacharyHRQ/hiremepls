@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-13T09:42:51.212Z",
+  "generatedAt": "2026-07-13T10:15:15.737Z",
   "companyCount": 69,
   "okCount": 69,
-  "jobCount": 1110,
+  "jobCount": 1108,
   "firstSeen": {
     "canonical:822f979beef7ebc5": "2026-05-06T06:42:07.596Z",
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
@@ -731,7 +731,6 @@
     "canonical:4d960d866a453e9f": "2026-07-03T07:37:01.415Z",
     "canonical:2696d27e53de0c2e": "2026-07-03T07:37:01.415Z",
     "canonical:afc9f49cbd23b95f": "2026-07-03T10:16:45.049Z",
-    "canonical:d4522e592923d04c": "2026-07-03T10:16:45.049Z",
     "canonical:2e3063b0200f566c": "2026-07-03T12:23:04.459Z",
     "canonical:31dd1ab15c427f1e": "2026-07-03T14:37:19.255Z",
     "canonical:1af904be74b273c4": "2026-07-03T16:11:18.836Z",
@@ -1037,10 +1036,8 @@
     "canonical:ebdb73f1d53cde75": "2026-07-11T15:12:52.431Z",
     "canonical:1cb970dd90b802db": "2026-07-11T15:12:52.431Z",
     "canonical:b0995157b52a70dd": "2026-07-11T15:12:52.431Z",
-    "canonical:7cd65dbc34efa0fa": "2026-07-11T15:12:52.431Z",
     "canonical:ae1902dace82286a": "2026-07-11T15:12:52.431Z",
     "canonical:01dae773e3ef7062": "2026-07-12T06:25:25.384Z",
-    "canonical:99aaad0a301ea911": "2026-07-12T10:12:40.543Z",
     "canonical:bf33bee56c7f7e21": "2026-07-12T10:12:40.543Z",
     "canonical:61c93da9140cb7e3": "2026-07-12T14:02:35.390Z",
     "canonical:6418a1b0042bfe92": "2026-07-12T14:02:35.390Z",
@@ -1113,7 +1110,8 @@
     "canonical:e68c198528bc35e8": "2026-07-13T09:28:03.797Z",
     "canonical:47fc98697f047981": "2026-07-13T09:28:03.797Z",
     "canonical:6bc029b682edad7b": "2026-07-13T09:28:03.797Z",
-    "canonical:9a33adc72593c275": "2026-07-13T09:28:03.797Z"
+    "canonical:9a33adc72593c275": "2026-07-13T09:28:03.797Z",
+    "canonical:296035cd95b6d0a8": "2026-07-13T10:15:15.737Z"
   },
   "jobs": [
     {
@@ -1438,10 +1436,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1453,10 +1451,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1808,10 +1806,10 @@
       ]
     },
     {
-      "id": "canonical:f9963438d881a851",
+      "id": "canonical:af96761bb42157d9",
       "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
-      "location": "Amsterdam",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
+      "location": "London",
       "department": "",
       "company": "DRW",
       "score": 93,
@@ -1822,10 +1820,10 @@
       ]
     },
     {
-      "id": "canonical:af96761bb42157d9",
+      "id": "canonical:f9963438d881a851",
       "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
-      "location": "London",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
+      "location": "Amsterdam",
       "department": "",
       "company": "DRW",
       "score": 93,
@@ -6548,19 +6546,6 @@
       ]
     },
     {
-      "id": "canonical:d4522e592923d04c",
-      "title": "Product Manager Intern - Sales Enablement Products",
-      "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Product-Manager--Intern-_R10095",
-      "location": "Mississauga, ON, Canada",
-      "department": "Product",
-      "company": "SOTI",
-      "score": 38,
-      "scoreReasons": [
-        "direct ATS",
-        "lower-fit title"
-      ]
-    },
-    {
       "id": "canonical:6f2e0452784720f9",
       "title": "Year at Palantir Intern - Forward Deployed Software Engineer",
       "url": "https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019/apply",
@@ -7425,6 +7410,18 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:296035cd95b6d0a8",
+      "title": "Software Development Co-op/Intern - C++",
+      "url": "https://careers-kinaxis.icims.com/jobs/34764/job?mobile=true&needsRedirect=false",
+      "location": "Ottawa, ON, Canada",
+      "department": "Software",
+      "company": "Kinaxis",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
       ]
     },
     {
@@ -9734,16 +9731,6 @@
       "scoreReasons": []
     },
     {
-      "id": "canonical:99aaad0a301ea911",
-      "title": "Infrared Imaging & Algorithms Intern",
-      "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Intern---Infrared-Imaging---Algorithms_R00247602",
-      "location": "Goleta, CA",
-      "department": "Hardware",
-      "company": "Magna",
-      "score": 50,
-      "scoreReasons": []
-    },
-    {
       "id": "canonical:c32262e36ae9b8e5",
       "title": "Product Operations Intern",
       "url": "https://jobs.ashbyhq.com/flagright.com/cdc0b71f-fb24-49bf-babe-de63bdaacb7e/application",
@@ -11673,18 +11660,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:7cd65dbc34efa0fa",
-      "title": "Skillbridge Intern - Product Manager",
-      "url": "https://job-boards.greenhouse.io/rise8/jobs/4359627007",
-      "location": "Remote in USA",
-      "department": "Product",
-      "company": "Rise8",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
       ]
     },
     {
