@@ -1,6 +1,6 @@
 # Open Internships
 
-**1141** internships across **69/69** companies — last updated 2026-07-13.
+**1140** internships across **69/69** companies — last updated 2026-07-13.
 
 ## Companies
 
@@ -123,7 +123,7 @@
 - [Dandy](#dandy) (1)
 - [Databricks](#databricks) (1)
 - [Datadog](#datadog) (1)
-- [Datasite](#datasite) (2)
+- [Datasite](#datasite) (1)
 - [DE Shaw](#de-shaw) (1)
 - [Dedalus Labs](#dedalus-labs) (1)
 - [Definity Financial](#definity-financial) (4)
@@ -689,8 +689,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [2027 Research and Portfolio Management Engineering Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7957728&gh_jid=7957728) | 50 | Greenwich, CT | — | 2026-07-13 |
 | [2027 Portfolio Solutions Group Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8041362&gh_jid=8041362) | 50 | Greenwich, CT | — | 2026-07-01 |
-| [2027 Front Office Development Engineering Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7957728&gh_jid=7957728) | 50 | Greenwich, CT | — | 2026-05-26 |
 | [2027 Business Development Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) | 50 | Greenwich, CT | — | 2026-05-15 |
 | [2027 Engineering Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926647&gh_jid=7926647) | 50 | Greenwich, CT | — | 2026-05-15 |
 | [2027 Portfolio Implementation, Trading and Portfolio Finance Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7895562&gh_jid=7895562) | 50 | Greenwich, CT | — | 2026-05-15 |
@@ -1331,7 +1331,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Forward Deployed Engineer Intern](https://datasite.wd1.myworkdayjobs.com/en-GB/datasite/job/USA---NY---New-York-City/AI-Transformation---Forward-Deployed-Engineer--FDE--Intern_R36255) | 58 | New York, NY | — | 2026-07-10 |
-| [AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer](https://datasite.wd1.myworkdayjobs.com/datasite/job/USA---NY---New-York-City/AI-Transformation---Forward-Deployed-Engineer--FDE--Intern_R36255) | 93 | NYC | Software | 2026-07-08 |
 
 ## DE Shaw
 
@@ -1420,9 +1419,9 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7942281) | 93 | London, UK | Software | 2026-07-13 |
-| [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7992936) | 93 | Chicago | — | 2026-07-13 |
 | [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7991196) | 93 | Montreal | — | 2026-07-13 |
+| [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7992936) | 93 | Chicago | — | 2026-07-13 |
+| [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7942281) | 93 | London, UK | Software | 2026-07-13 |
 | [AI/ML Research Intern](https://job-boards.greenhouse.io/drweng/jobs/7991171) | 68 | Montreal | — | 2026-07-13 |
 | [Quantitative Research Intern](https://job-boards.greenhouse.io/drweng/jobs/7818540) | 68 | Chicago, New York City | — | 2026-07-13 |
 | [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7668776) | 68 | Chicago, Illinois | — | 2026-07-13 |
@@ -2793,7 +2792,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://job-boards.greenhouse.io/podium81/jobs/7939921) | 93 | Lehi, UT | Software | 2026-05-18 |
+| [Software Engineering Intern](https://job-boards.greenhouse.io/podium81/jobs/7939921) | 68 | Lehi, UT | — | 2026-07-13 |
 
 ## Point72
 
@@ -2807,8 +2806,8 @@
 | [2027 Technology Development Intern – IIT Madras](https://boards.greenhouse.io/point72/jobs/8617339002?gh_jid=8617339002) | 58 | India, Bengaluru | — | 2026-07-02 |
 | [Corporate Access, off-cycle internship (6-months) – Japanese speaking](https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002) | 58 | Hong Kong | — | 2026-06-30 |
 | [Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7586061002) | 93 | NYC | Quant | 2026-05-09 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
