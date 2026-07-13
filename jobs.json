@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-13T22:33:55.398Z",
+  "generatedAt": "2026-07-13T23:32:08.883Z",
   "companyCount": 69,
   "okCount": 69,
-  "jobCount": 1153,
+  "jobCount": 1162,
   "firstSeen": {
     "canonical:822f979beef7ebc5": "2026-05-06T06:42:07.596Z",
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
@@ -754,7 +754,6 @@
     "canonical:921f9042df4a3acf": "2026-07-07T04:14:22.126Z",
     "canonical:0ae14fe9fb32d995": "2026-07-07T04:14:22.126Z",
     "canonical:621773561875f0d2": "2026-07-07T07:52:28.584Z",
-    "canonical:f58a05acce558c2a": "2026-07-07T07:52:28.584Z",
     "canonical:c5a432d33c885a33": "2026-07-07T10:44:47.680Z",
     "canonical:53de51dcacdd548d": "2026-07-07T10:44:47.680Z",
     "canonical:5fa72ef79272ee7f": "2026-07-07T15:49:17.557Z",
@@ -1010,7 +1009,6 @@
     "canonical:a54dfaa9c2670ee3": "2026-07-11T11:43:49.489Z",
     "canonical:78e461e91d26f884": "2026-07-11T12:39:48.212Z",
     "canonical:f30a89c4a549a784": "2026-07-11T12:39:48.212Z",
-    "canonical:8504c5f17035dc0a": "2026-07-11T12:39:48.212Z",
     "canonical:f27c30f5eef5d1fb": "2026-07-11T14:08:34.953Z",
     "canonical:55f7914d8c2bdcce": "2026-07-11T14:08:34.953Z",
     "canonical:6a54db97364bf00a": "2026-07-11T15:12:52.431Z",
@@ -1081,8 +1079,6 @@
     "canonical:52404265a1f2ac9b": "2026-07-13T09:28:03.797Z",
     "canonical:910a33048f04484e": "2026-07-13T09:28:03.797Z",
     "canonical:64216e826caaa5c4": "2026-07-13T09:28:03.797Z",
-    "canonical:a0bcc8794904ce33": "2026-07-13T09:28:03.797Z",
-    "canonical:0e243731f097b558": "2026-07-13T09:28:03.797Z",
     "canonical:691e1679dc0142e2": "2026-07-13T09:28:03.797Z",
     "canonical:d1299831c12f4c9d": "2026-07-13T09:28:03.797Z",
     "canonical:bb57cdbefd819b25": "2026-07-13T09:28:03.797Z",
@@ -1107,12 +1103,9 @@
     "canonical:7cd65dbc34efa0fa": "2026-07-13T12:42:55.479Z",
     "canonical:4230a201d45b0240": "2026-07-13T12:42:55.479Z",
     "canonical:c64e8af727239c86": "2026-07-13T15:34:09.316Z",
-    "canonical:6dcb788a4c51b918": "2026-07-13T15:34:09.316Z",
     "canonical:8f04983c528e0d41": "2026-07-13T15:34:09.316Z",
     "canonical:03ff9719f5d57641": "2026-07-13T15:34:09.316Z",
-    "canonical:9e95e04411aed5dd": "2026-07-13T15:34:09.316Z",
     "canonical:bd72b8a6944f6777": "2026-07-13T15:34:09.316Z",
-    "canonical:d5ec2122996844c4": "2026-07-13T15:34:09.316Z",
     "canonical:25b2f5fa761686e8": "2026-07-13T15:34:09.316Z",
     "canonical:c20f0f6d8e2f8c14": "2026-07-13T15:34:09.316Z",
     "canonical:ee6161966c2c1c8a": "2026-07-13T15:34:09.316Z",
@@ -1156,7 +1149,23 @@
     "canonical:d17f8c49866adead": "2026-07-13T22:33:55.398Z",
     "canonical:bcc40037fbe8c61f": "2026-07-13T22:33:55.398Z",
     "canonical:5f0e9f1680e47eda": "2026-07-13T22:33:55.398Z",
-    "canonical:e117300abc650cbc": "2026-07-13T22:33:55.398Z"
+    "canonical:e117300abc650cbc": "2026-07-13T22:33:55.398Z",
+    "canonical:2bc4df178e85b4f6": "2026-07-13T23:32:08.883Z",
+    "canonical:ae44a67983e1d43a": "2026-07-13T23:32:08.883Z",
+    "canonical:1d41c103b87b651a": "2026-07-13T23:32:08.883Z",
+    "canonical:d3ac4a035bf89211": "2026-07-13T23:32:08.883Z",
+    "canonical:5ab9034765d207a6": "2026-07-13T23:32:08.883Z",
+    "canonical:81c0f29f101f3da7": "2026-07-13T23:32:08.883Z",
+    "canonical:0b73c343be892ed3": "2026-07-13T23:32:08.883Z",
+    "canonical:1f1ff9bf6f98e35f": "2026-07-13T23:32:08.883Z",
+    "canonical:0112152435b82dad": "2026-07-13T23:32:08.883Z",
+    "canonical:0e1e743075aa9a24": "2026-07-13T23:32:08.883Z",
+    "canonical:ebb3f41446c4f107": "2026-07-13T23:32:08.883Z",
+    "canonical:d15a8ea6d573c0bd": "2026-07-13T23:32:08.883Z",
+    "canonical:5cd6364a43e655f2": "2026-07-13T23:32:08.883Z",
+    "canonical:52a5fdec400b2930": "2026-07-13T23:32:08.883Z",
+    "canonical:5f700f46712af0b4": "2026-07-13T23:32:08.883Z",
+    "canonical:35ca393cde137082": "2026-07-13T23:32:08.883Z"
   },
   "jobs": [
     {
@@ -1920,11 +1929,11 @@
       ]
     },
     {
-      "id": "canonical:6dcb788a4c51b918",
+      "id": "canonical:2bc4df178e85b4f6",
       "title": "FPGA Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/8038923",
-      "location": "Chicago",
-      "department": "",
+      "location": "Chicago, IL",
+      "department": "Hardware",
       "company": "DRW",
       "score": 58,
       "scoreReasons": [
@@ -2009,11 +2018,11 @@
       ]
     },
     {
-      "id": "canonical:9e95e04411aed5dd",
+      "id": "canonical:ae44a67983e1d43a",
       "title": "Quantitative Trading Analyst Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7668776",
-      "location": "Chicago, Illinois",
-      "department": "",
+      "location": "Chicago, IL",
+      "department": "Quant",
       "company": "DRW",
       "score": 68,
       "scoreReasons": [
@@ -2062,11 +2071,11 @@
       ]
     },
     {
-      "id": "canonical:d5ec2122996844c4",
+      "id": "canonical:1d41c103b87b651a",
       "title": "Software Developer Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
-      "location": "Chicago",
-      "department": "",
+      "location": "Chicago, IL",
+      "department": "Software",
       "company": "DRW",
       "score": 93,
       "scoreReasons": [
@@ -7502,19 +7511,6 @@
       ]
     },
     {
-      "id": "canonical:8504c5f17035dc0a",
-      "title": "PhD Data Generation and User Simulation Research Intern",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Data-Generation-and-User-Simulation-Research-Intern---Fall-2026_JR2018317",
-      "location": "Santa Clara, CA",
-      "department": "AI/ML/Data",
-      "company": "NVIDIA",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:2cbad48755d82365",
       "title": "IOS Developer Intern",
       "url": "https://jobs.lever.co/reply/191d1794-e52a-4573-a2d0-2952b76f9cd5/apply",
@@ -12270,6 +12266,18 @@
       ]
     },
     {
+      "id": "canonical:d3ac4a035bf89211",
+      "title": "Trader: Fixed Income & Macro Intern",
+      "url": "https://www.citadel.com/careers/details/trader-fixed-income-macro-intern-us/",
+      "location": "Greenwich, CT / Miami, FL / NYC",
+      "department": "Quant",
+      "company": "Citadel",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:6534e2ff980befe8",
       "title": "Quantitative Research Analyst Intern",
       "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/",
@@ -12469,19 +12477,6 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:f58a05acce558c2a",
-      "title": "Software Engineer Intern",
-      "url": "https://cra.com/job-listings/job?gh_jid=8047653",
-      "location": "Cambridge, MA",
-      "department": "Software",
-      "company": "Charles River Analytics",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -13374,6 +13369,159 @@
         "high-signal role",
         "direct ATS",
         "lower-fit title"
+      ]
+    },
+    {
+      "id": "canonical:5ab9034765d207a6",
+      "title": "Data Quality Analyst Intern",
+      "url": "https://finning.wd3.myworkdayjobs.com/External/job/Calgary-AB-CA/Data-Quality-Analyst-Intern_R-2026-3274",
+      "location": "Calgary, AB, Canada / Edmonton, AB, Canada",
+      "department": "AI/ML/Data",
+      "company": "Finning",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:81c0f29f101f3da7",
+      "title": "Digital Physical Design Intern - P&R",
+      "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Digital-Physical-Design--P-R--Intern_R-10064673",
+      "location": "Chandler, AZ",
+      "department": "Hardware",
+      "company": "NXP Semiconductors",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:0b73c343be892ed3",
+      "title": "AI Engineer Intern",
+      "url": "https://www.nextiva.com/company/careers-listing?gh_jid=8612423002",
+      "location": "Scottsdale, AZ",
+      "department": "AI/ML/Data",
+      "company": "Nextiva",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:1f1ff9bf6f98e35f",
+      "title": "Energy Data Analysis Intern",
+      "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Remote/Energy-Data-Analysis----Year-Round--Graduate-Internship_R14400",
+      "location": "Golden, CO",
+      "department": "AI/ML/Data",
+      "company": "National Laboratory of the Rockies",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:0112152435b82dad",
+      "title": "Technology Apprentice Intern",
+      "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Montreal-5-Place-Ville-Marie-Corp/Current-Apprentice-Intern-Only---Technology-Apprentice---Montreal---NAELFY26_R00343036",
+      "location": "Montreal, QC, Canada",
+      "department": "Software",
+      "company": "Accenture",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:0e1e743075aa9a24",
+      "title": "AI Developer Intern/Co-op",
+      "url": "https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/AI-Developer--Intern-Co-op---REMOTE--Fall-2026-_JR-044467",
+      "location": "Kitchener, ON, Canada",
+      "department": "Software",
+      "company": "Revvity",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ebb3f41446c4f107",
+      "title": "Global Product Operations Manager Intern - Global Business Solutions",
+      "url": "https://lifeattiktok.com/search/7660641959426132277",
+      "location": "San Jose, CA",
+      "department": "Product",
+      "company": "TikTok",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:d15a8ea6d573c0bd",
+      "title": "Sector Data Analyst Intern",
+      "url": "https://www.citadelsecurities.com/careers/details/sector-data-analyst-intern-europe/",
+      "location": "London, UK",
+      "department": "AI/ML/Data",
+      "company": "Citadel Securities",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:5cd6364a43e655f2",
+      "title": "Software Engineer Intern",
+      "url": "https://www.citadelsecurities.com/careers/details/software-engineer-intern-us-2/",
+      "location": "London, UK",
+      "department": "Software",
+      "company": "Citadel Securities",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:52a5fdec400b2930",
+      "title": "Engineering Engineer Intern",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Engineering-Intern_R-00187036",
+      "location": "Huntsville, AL",
+      "department": "Software",
+      "company": "Leidos",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:5f700f46712af0b4",
+      "title": "Quantitative Research Engineer Intern",
+      "url": "https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-europe/",
+      "location": "London, UK",
+      "department": "Quant",
+      "company": "Citadel",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:35ca393cde137082",
+      "title": "Teleoperation Software Engineering Internship",
+      "url": "https://jobs.ashbyhq.com/persona.ai/6078fafd-ba34-4c89-b260-7eb15be3cb9c/application",
+      "location": "Houston, TX / Pensacola, FL",
+      "department": "Software",
+      "company": "Persona AI",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -15768,34 +15916,6 @@
       "location": "New York, New York",
       "department": "Quant / Summer 2027",
       "company": "Walleye Capital",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:a0bcc8794904ce33",
-      "title": "Quantum Research Scientist Intern - Fall 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244",
-      "location": "US, CA, Remote",
-      "department": "Data & ML/AI / Fall 2026",
-      "company": "NVIDIA",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:0e243731f097b558",
-      "title": "Quantum Error Correction Research Scientist Intern - Fall 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Quantum-Error-Correction-Research-Scientist-Intern---Fall-2026_JR2018628",
-      "location": "US, CA, Remote",
-      "department": "Data & ML/AI / Fall 2026",
-      "company": "NVIDIA",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
