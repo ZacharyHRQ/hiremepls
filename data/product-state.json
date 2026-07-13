@@ -1,0 +1,20 @@
+{
+  "users": {
+    "414858039": {
+      "profile": {
+        "chatId": "414858039",
+        "roles": [
+          "software",
+          "data",
+          "ml",
+          "quant"
+        ],
+        "locations": [],
+        "minScore": 70,
+        "createdAt": "2026-05-17T06:23:38.582Z",
+        "updatedAt": "2026-05-17T06:23:38.582Z"
+      },
+      "jobs": {}
+    }
+  }
+}
