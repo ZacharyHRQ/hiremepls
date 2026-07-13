@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-13T12:42:55.479Z",
+  "generatedAt": "2026-07-13T15:34:09.316Z",
   "companyCount": 69,
   "okCount": 69,
-  "jobCount": 1122,
+  "jobCount": 1141,
   "firstSeen": {
     "canonical:822f979beef7ebc5": "2026-05-06T06:42:07.596Z",
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
@@ -695,7 +695,6 @@
     "canonical:7cd2f99437b3bc56": "2026-07-02T04:36:39.736Z",
     "canonical:d55fc31614ca91f3": "2026-07-02T04:36:39.736Z",
     "canonical:eaa8ec7aff4b5856": "2026-07-02T04:36:39.736Z",
-    "canonical:7c5d2b32157ab319": "2026-07-02T04:36:39.736Z",
     "canonical:cfc9556685ced54b": "2026-07-02T07:55:04.683Z",
     "canonical:9de651366fb550a9": "2026-07-02T10:28:03.449Z",
     "canonical:4e3bd8b9c9c33c84": "2026-07-02T10:28:03.449Z",
@@ -986,7 +985,6 @@
     "canonical:e4240dee8fc1eab4": "2026-07-09T10:57:50.412Z",
     "canonical:5fc518fc7b2d3289": "2026-07-09T16:14:47.391Z",
     "canonical:9795d61afb3cfc4d": "2026-07-09T16:14:47.391Z",
-    "canonical:dd066b7b12c20cc5": "2026-07-09T16:14:47.391Z",
     "canonical:bd38d6e304631d2b": "2026-07-09T16:14:47.391Z",
     "canonical:862f3e74bce7442d": "2026-07-09T16:14:47.391Z",
     "canonical:5c3a7585df271d94": "2026-07-09T20:01:55.555Z",
@@ -1026,7 +1024,6 @@
     "canonical:78e461e91d26f884": "2026-07-11T12:39:48.212Z",
     "canonical:f30a89c4a549a784": "2026-07-11T12:39:48.212Z",
     "canonical:8504c5f17035dc0a": "2026-07-11T12:39:48.212Z",
-    "canonical:25c914101f963271": "2026-07-11T14:08:34.953Z",
     "canonical:f27c30f5eef5d1fb": "2026-07-11T14:08:34.953Z",
     "canonical:55f7914d8c2bdcce": "2026-07-11T14:08:34.953Z",
     "canonical:6a54db97364bf00a": "2026-07-11T15:12:52.431Z",
@@ -1086,7 +1083,6 @@
     "canonical:6e64194c6ae570c0": "2026-07-13T09:28:03.797Z",
     "canonical:b95410ba5a73a9cf": "2026-07-13T09:28:03.797Z",
     "canonical:d689c6189209d3fc": "2026-07-13T09:28:03.797Z",
-    "canonical:af96761bb42157d9": "2026-07-13T09:28:03.797Z",
     "canonical:f9963438d881a851": "2026-07-13T09:28:03.797Z",
     "canonical:f65ae611ab704f4f": "2026-07-13T09:28:03.797Z",
     "canonical:4404f7dfa49d4ea7": "2026-07-13T09:28:03.797Z",
@@ -1125,7 +1121,30 @@
     "canonical:d4522e592923d04c": "2026-07-13T12:42:55.479Z",
     "canonical:c1817238d89b26e3": "2026-07-13T12:42:55.479Z",
     "canonical:7cd65dbc34efa0fa": "2026-07-13T12:42:55.479Z",
-    "canonical:4230a201d45b0240": "2026-07-13T12:42:55.479Z"
+    "canonical:4230a201d45b0240": "2026-07-13T12:42:55.479Z",
+    "canonical:c64e8af727239c86": "2026-07-13T15:34:09.316Z",
+    "canonical:6dcb788a4c51b918": "2026-07-13T15:34:09.316Z",
+    "canonical:8f04983c528e0d41": "2026-07-13T15:34:09.316Z",
+    "canonical:03ff9719f5d57641": "2026-07-13T15:34:09.316Z",
+    "canonical:9e95e04411aed5dd": "2026-07-13T15:34:09.316Z",
+    "canonical:bd72b8a6944f6777": "2026-07-13T15:34:09.316Z",
+    "canonical:d5ec2122996844c4": "2026-07-13T15:34:09.316Z",
+    "canonical:25b2f5fa761686e8": "2026-07-13T15:34:09.316Z",
+    "canonical:c20f0f6d8e2f8c14": "2026-07-13T15:34:09.316Z",
+    "canonical:ee6161966c2c1c8a": "2026-07-13T15:34:09.316Z",
+    "canonical:da6b0179c6a17d2d": "2026-07-13T15:34:09.316Z",
+    "canonical:309b13379723112b": "2026-07-13T15:34:09.316Z",
+    "canonical:43728627d97ce77d": "2026-07-13T15:34:09.316Z",
+    "canonical:71948c456d694546": "2026-07-13T15:34:09.316Z",
+    "canonical:d653e530bf00d5d7": "2026-07-13T15:34:09.316Z",
+    "canonical:919263a5f4e5bf2a": "2026-07-13T15:34:09.316Z",
+    "canonical:f573ba7c8582d943": "2026-07-13T15:34:09.316Z",
+    "canonical:3db241f6f3d11bfa": "2026-07-13T15:34:09.316Z",
+    "canonical:d7f4d0fccfb1c39a": "2026-07-13T15:34:09.316Z",
+    "canonical:436600042890ca57": "2026-07-13T15:34:09.316Z",
+    "canonical:5f4502ddb3d68d0e": "2026-07-13T15:34:09.316Z",
+    "canonical:cd24694e0e5961cf": "2026-07-13T15:34:09.316Z",
+    "canonical:0acc91792e5dabf7": "2026-07-13T15:34:09.316Z"
   },
   "jobs": [
     {
@@ -1763,10 +1782,10 @@
       ]
     },
     {
-      "id": "canonical:fe88e70c975c6d4f",
+      "id": "canonical:5d7744db1dee2002",
       "title": "Campus Quantitative Trader (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7848371",
-      "location": "Chicago; New York",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8050772",
+      "location": "London, Amsterdam",
       "department": "",
       "company": "Jump Trading",
       "score": 60,
@@ -1775,10 +1794,10 @@
       ]
     },
     {
-      "id": "canonical:5d7744db1dee2002",
+      "id": "canonical:fe88e70c975c6d4f",
       "title": "Campus Quantitative Trader (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8050772",
-      "location": "London, Amsterdam",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7848371",
+      "location": "Chicago; New York",
       "department": "",
       "company": "Jump Trading",
       "score": 60,
@@ -1876,6 +1895,43 @@
       ]
     },
     {
+      "id": "canonical:c64e8af727239c86",
+      "title": "AI/ML Research Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7991171",
+      "location": "Montreal",
+      "department": "",
+      "company": "DRW",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:6dcb788a4c51b918",
+      "title": "FPGA Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/8038923",
+      "location": "Chicago",
+      "department": "",
+      "company": "DRW",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:8f04983c528e0d41",
+      "title": "Leadership Rotation Network Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7993195",
+      "location": "Chicago, IL",
+      "department": "",
+      "company": "DRW",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:6e64194c6ae570c0",
       "title": "Leadership Rotation Network Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7957735",
@@ -1915,6 +1971,19 @@
       ]
     },
     {
+      "id": "canonical:03ff9719f5d57641",
+      "title": "Quantitative Research Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7818540",
+      "location": "Chicago, New York City",
+      "department": "",
+      "company": "DRW",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:8ddb5a8388091527",
       "title": "Quantitative Research Intern ",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/8014915",
@@ -1932,6 +2001,19 @@
       "title": "Quantitative Trading Analyst Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7957243",
       "location": "London",
+      "department": "",
+      "company": "DRW",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:9e95e04411aed5dd",
+      "title": "Quantitative Trading Analyst Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7668776",
+      "location": "Chicago, Illinois",
       "department": "",
       "company": "DRW",
       "score": 68,
@@ -1968,10 +2050,38 @@
       ]
     },
     {
-      "id": "canonical:af96761bb42157d9",
+      "id": "canonical:bd72b8a6944f6777",
       "title": "Software Developer Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
-      "location": "London",
+      "location": "London, UK",
+      "department": "Software",
+      "company": "DRW",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:d5ec2122996844c4",
+      "title": "Software Developer Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
+      "location": "Chicago",
+      "department": "",
+      "company": "DRW",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:25b2f5fa761686e8",
+      "title": "Software Developer Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
+      "location": "Montreal",
       "department": "",
       "company": "DRW",
       "score": 93,
@@ -1992,6 +2102,42 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c20f0f6d8e2f8c14",
+      "title": "Strategy Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7992670",
+      "location": "Chicago, IL",
+      "department": "",
+      "company": "DRW",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ee6161966c2c1c8a",
+      "title": "Trade Support Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7993565",
+      "location": "Chicago, IL",
+      "department": "",
+      "company": "DRW",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:da6b0179c6a17d2d",
+      "title": "Venture Capital Analyst Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7993004",
+      "location": "Chicago, IL",
+      "department": "",
+      "company": "DRW",
+      "score": 58,
+      "scoreReasons": [
         "direct ATS"
       ]
     },
@@ -2876,7 +3022,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -6040,7 +6186,7 @@
     {
       "id": "canonical:78e461e91d26f884",
       "title": "Game Research & Development Intern - Engine Research",
-      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Game-Research---Development-Intern--Engine-Research_R107363-1",
+      "url": "https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/US-Washington-Bellevue/Game-Research---Development-Intern--Engine-Research_R107363",
       "location": "Bellevue, WA",
       "department": "Software",
       "company": "Tencent",
@@ -6529,20 +6675,6 @@
       "company": "Tenstorrent",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:25c914101f963271",
-      "title": "Software Developer Intern",
-      "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--September-2026-12-Months-_R10025",
-      "location": "Mississauga, ON, Canada",
-      "department": "Software",
-      "company": "SOTI",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -11575,19 +11707,6 @@
       ]
     },
     {
-      "id": "canonical:7c5d2b32157ab319",
-      "title": "Foreign Trade Data Analytics Intern",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000134542009",
-      "location": "Western Springs, IL",
-      "department": "AI/ML/Data",
-      "company": "Bosch Home Comfort",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:cfc9556685ced54b",
       "title": "Product Solutions and Operations Project Intern - Commerce Ads",
       "url": "https://lifeattiktok.com/search/7657640284071954741",
@@ -12674,20 +12793,6 @@
       ]
     },
     {
-      "id": "canonical:dd066b7b12c20cc5",
-      "title": "Software Engineer Intern",
-      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Jessup-MD-US/Software-Engineering-Intern---Fall-2026_328740",
-      "location": "Annapolis Junction, MD",
-      "department": "Software",
-      "company": "CACI",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:bd38d6e304631d2b",
       "title": "Data Scientist Intern",
       "url": "https://job-boards.greenhouse.io/uberfreight/jobs/5194491008",
@@ -12975,6 +13080,154 @@
       "score": 75,
       "scoreReasons": [
         "SWE-aligned"
+      ]
+    },
+    {
+      "id": "canonical:309b13379723112b",
+      "title": "Transformation numerique Intern - Digital Transformation",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage--Automne-2026-Transformation-numerique---Internship---Fall-2026---Digital-Transformation_01852099",
+      "location": "Longueuil, QC, Canada",
+      "department": "AI/ML/Data",
+      "company": "RTX",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:43728627d97ce77d",
+      "title": "Campus Quantitative Researcher M1/M2 Intern",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=8059384",
+      "location": "London, UK",
+      "department": "Quant",
+      "company": "Jump Trading",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:71948c456d694546",
+      "title": "Campus Data Engineer Intern",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=7975008",
+      "location": "London, UK",
+      "department": "AI/ML/Data",
+      "company": "Jump Trading",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:d653e530bf00d5d7",
+      "title": "Campus AI Researcher Intern",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=7976964",
+      "location": "London, UK",
+      "department": "AI/ML/Data",
+      "company": "Jump Trading",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:919263a5f4e5bf2a",
+      "title": "Campus FPGA Engineer Intern",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=7974391",
+      "location": "London, UK",
+      "department": "Hardware",
+      "company": "Jump Trading",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f573ba7c8582d943",
+      "title": "Campus Quantitative Researcher Intern",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=8010307",
+      "location": "London, UK",
+      "department": "Quant",
+      "company": "Jump Trading",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:3db241f6f3d11bfa",
+      "title": "Campus Quantitative Trader Intern",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=8050772",
+      "location": "London, UK",
+      "department": "Quant",
+      "company": "Jump Trading",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:d7f4d0fccfb1c39a",
+      "title": "Campus UI Software Engineer Intern",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=7974943",
+      "location": "London, UK",
+      "department": "Software",
+      "company": "Jump Trading",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:436600042890ca57",
+      "title": "Campus ML Research Engineer Intern",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=7977145",
+      "location": "London, UK",
+      "department": "AI/ML/Data",
+      "company": "Jump Trading",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:5f4502ddb3d68d0e",
+      "title": "Campus Software Engineer Intern",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=7975026",
+      "location": "London, UK",
+      "department": "Software",
+      "company": "Jump Trading",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:cd24694e0e5961cf",
+      "title": "Campus ASIC Engineer Intern",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=7974837",
+      "location": "Bristol, UK",
+      "department": "Hardware",
+      "company": "Jump Trading",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
       ]
     },
     {
@@ -14457,6 +14710,19 @@
       "company": "ABB",
       "score": 58,
       "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:0acc91792e5dabf7",
+      "title": "Software Engineering Intern",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Jessup-MD-US/Software-Engineering-Intern---Fall-2026_328740",
+      "location": "Jessup, MD",
+      "department": "",
+      "company": "CACI",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
         "direct ATS"
       ]
     },
