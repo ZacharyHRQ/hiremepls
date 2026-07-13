@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-12T23:06:56.766Z",
+  "generatedAt": "2026-07-13T00:08:08.437Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1106,
+  "jobCount": 1104,
   "firstSeen": {
     "canonical:822f979beef7ebc5": "2026-05-06T06:42:07.596Z",
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
@@ -42,7 +42,6 @@
     "canonical:ad23aadfeb5e4fdd": "2026-05-06T06:42:07.596Z",
     "canonical:778ae0c54171b31e": "2026-05-06T06:42:07.596Z",
     "canonical:40b5e3e02c34b6ce": "2026-05-09T15:28:15.527Z",
-    "canonical:4b8e31934579d1d5": "2026-05-09T15:28:15.527Z",
     "canonical:784e76513f221fdf": "2026-05-09T15:28:15.527Z",
     "canonical:18efc38bdb3d5093": "2026-05-09T15:28:15.527Z",
     "canonical:de426bbfba6818ef": "2026-05-09T15:28:15.527Z",
@@ -591,7 +590,6 @@
     "canonical:ab20f77386bc364b": "2026-06-23T14:03:34.437Z",
     "canonical:31ff0ed183a28390": "2026-06-23T14:03:34.437Z",
     "canonical:86cc573fd0d0b2f6": "2026-06-23T23:20:15.315Z",
-    "canonical:654dd86a700f6a39": "2026-06-24T01:21:54.211Z",
     "canonical:fa45235205b59945": "2026-06-24T01:21:54.211Z",
     "canonical:1b6390eb1a7e2452": "2026-06-24T01:21:54.211Z",
     "canonical:d93592bdbcb9dea9": "2026-06-24T01:21:54.211Z",
@@ -2773,45 +2771,6 @@
       "company": "Cribl",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:4e042622b9f5b371",
-      "title": "Human Interactive Driving Intern - World Models",
-      "url": "https://jobs.lever.co/tri/63d61db3-ac43-4c0d-8b9b-5006e3b92149/apply",
-      "location": "Mountain View, CA",
-      "department": "AI/ML/Data",
-      "company": "Toyota Research Institute",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:4b8e31934579d1d5",
-      "title": "Intern Software Engineer",
-      "url": "https://job-boards.greenhouse.io/octaura/jobs/4662934007",
-      "location": "NYC",
-      "department": "Software",
-      "company": "Octaura",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:654dd86a700f6a39",
-      "title": "Hardware Reliability Intern - Winter 2026",
-      "url": "https://job-boards.greenhouse.io/figureai/jobs/4613067006",
-      "location": "San Jose, CA",
-      "department": "Hardware",
-      "company": "Figure",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
     },
     {
       "id": "canonical:784e76513f221fdf",
@@ -12843,6 +12802,19 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:4e042622b9f5b371",
+      "title": "Human Interactive Driving Intern - World Models",
+      "url": "https://jobs.lever.co/tri/63d61db3-ac43-4c0d-8b9b-5006e3b92149/apply",
+      "location": "Mountain View, CA",
+      "department": "AI/ML/Data",
+      "company": "Toyota Research Institute",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
