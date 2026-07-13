@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T03:55:56.914Z",
+  "generatedAt": "2026-07-13T06:45:53.680Z",
   "companyCount": 68,
   "okCount": 68,
   "jobCount": 1106,
@@ -670,7 +670,6 @@
     "canonical:6fd55be5e1c8f21f": "2026-07-01T06:55:26.212Z",
     "canonical:4b8a37a15794fbdd": "2026-07-01T06:55:26.212Z",
     "canonical:1259f19d87d7deae": "2026-07-01T06:55:26.212Z",
-    "canonical:c63ef3f528bdbe89": "2026-07-01T06:55:26.212Z",
     "canonical:14458563db8768c0": "2026-07-01T06:55:26.212Z",
     "canonical:b5a9c122a9cd630e": "2026-07-01T06:55:26.212Z",
     "canonical:957953dd04839b8d": "2026-07-01T06:55:26.212Z",
@@ -804,12 +803,10 @@
     "canonical:72eb90019d353f27": "2026-07-07T15:49:17.557Z",
     "canonical:e1503fd0c60390d2": "2026-07-07T15:49:17.557Z",
     "canonical:0751ad63ace5c42a": "2026-07-07T15:49:17.557Z",
-    "canonical:f17df73a4aae98a8": "2026-07-07T15:49:17.557Z",
     "canonical:4e243c7cf19c895d": "2026-07-07T15:49:17.557Z",
     "canonical:93e5acdf67dbb99b": "2026-07-07T15:49:17.557Z",
     "canonical:c935df1082cc92fc": "2026-07-07T15:49:17.557Z",
     "canonical:f330847a3d58ab80": "2026-07-07T15:49:17.557Z",
-    "canonical:cdde573bf6670f2a": "2026-07-07T15:49:17.557Z",
     "canonical:5fa72ef79272ee7f": "2026-07-07T15:49:17.557Z",
     "canonical:3b11d0f498e6d16f": "2026-07-07T15:49:17.557Z",
     "canonical:ca225b03436f081a": "2026-07-07T23:26:57.673Z",
@@ -841,7 +838,6 @@
     "canonical:aa053f6ba830d433": "2026-07-08T21:59:46.351Z",
     "canonical:3b590c340646bfa7": "2026-07-08T21:59:46.351Z",
     "canonical:7286f2830b7e7578": "2026-07-08T21:59:46.351Z",
-    "canonical:f51dbd9b9c63bd61": "2026-07-08T23:10:12.765Z",
     "canonical:9b2f6d5991a31273": "2026-07-08T23:10:12.765Z",
     "canonical:8d37d9cb9914fa8e": "2026-07-08T23:10:12.765Z",
     "canonical:8255dd98a0b58fa4": "2026-07-08T23:10:12.765Z",
@@ -1109,7 +1105,11 @@
     "canonical:8385aa46301105a2": "2026-07-12T14:02:35.390Z",
     "canonical:51d519ad65d99582": "2026-07-12T14:02:35.390Z",
     "canonical:654dd86a700f6a39": "2026-07-13T03:55:56.914Z",
-    "canonical:545ffb325aa1d9cf": "2026-07-13T03:55:56.914Z"
+    "canonical:545ffb325aa1d9cf": "2026-07-13T03:55:56.914Z",
+    "canonical:437cb4b3a75ff310": "2026-07-13T06:45:53.680Z",
+    "canonical:8ddb5a8388091527": "2026-07-13T06:45:53.680Z",
+    "canonical:eeb618990e9d07bf": "2026-07-13T06:45:53.680Z",
+    "canonical:a9cb2c629af56218": "2026-07-13T06:45:53.680Z"
   },
   "jobs": [
     {
@@ -1239,19 +1239,6 @@
       ]
     },
     {
-      "id": "canonical:f17df73a4aae98a8",
-      "title": "2027 - Quant Research Intern - IIT Kharagpur",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917442101",
-      "location": "Amsterdam, Netherlands; Mumbai, India",
-      "department": "",
-      "company": "IMC Trading",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:4e243c7cf19c895d",
       "title": "2027 - Quant Research Intern - IIT Madras",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917439101",
@@ -1294,19 +1281,6 @@
       "id": "canonical:f330847a3d58ab80",
       "title": "2027 - Software Engineering Intern - IIT Delhi",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917535101",
-      "location": "Mumbai, India",
-      "department": "",
-      "company": "IMC Trading",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:cdde573bf6670f2a",
-      "title": "2027 - Software Engineering Intern - IIT Kharagpur",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917545101",
       "location": "Mumbai, India",
       "department": "",
       "company": "IMC Trading",
@@ -1460,10 +1434,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1475,10 +1449,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1749,6 +1723,60 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:437cb4b3a75ff310",
+      "title": "Quantitative Developer Intern (Python)",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7981754",
+      "location": "Singapore",
+      "department": "",
+      "company": "DRW",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:8ddb5a8388091527",
+      "title": "Quantitative Research Intern ",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/8014915",
+      "location": "Singapore",
+      "department": "",
+      "company": "DRW",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:eeb618990e9d07bf",
+      "title": "Quantitative Trading Analyst Intern ",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/8014919",
+      "location": "Singapore",
+      "department": "",
+      "company": "DRW",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:a9cb2c629af56218",
+      "title": "Software Developer Intern (C++)",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/8014910",
+      "location": "Singapore",
+      "department": "",
+      "company": "DRW",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -7640,19 +7668,6 @@
       ]
     },
     {
-      "id": "canonical:f51dbd9b9c63bd61",
-      "title": "Relationship Manager Business Markets Intern",
-      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/175-WALLACE-AVE-NNORTH-PERTH/Relationship-Manager-Business-Markets-Intern_R-0000172273-2",
-      "location": "Kitchener, ON, Canada",
-      "department": "Quant",
-      "company": "Royal Bank of Canada",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:dde05a729f5089a8",
       "title": "Electrical Device Characterization Intern",
       "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505101",
@@ -10969,18 +10984,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:c63ef3f528bdbe89",
-      "title": "Quantitative Research Intern - Investment Management - Multi-Asset Allocation",
-      "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5846/job?mobile=true&needsRedirect=false",
-      "location": "Ontario, Canada",
-      "department": "Quant",
-      "company": "Mackenzie Investments",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {

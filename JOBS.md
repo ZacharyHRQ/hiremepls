@@ -136,6 +136,7 @@
 - [Doctors Without Borders](#doctors-without-borders) (1)
 - [Docugami](#docugami) (2)
 - [Droyd Robotics](#droyd-robotics) (2)
+- [DRW](#drw) (4)
 - [Dryft](#dryft) (1)
 - [DuPont](#dupont) (5)
 - [EdgeTrace](#edgetrace) (1)
@@ -211,7 +212,7 @@
 - [Hunt Oil Company](#hunt-oil-company) (2)
 - [iHerb](#iherb) (1)
 - [IMC](#imc) (1)
-- [IMC Trading](#imc-trading) (31)
+- [IMC Trading](#imc-trading) (29)
 - [Impulse Space](#impulse-space) (1)
 - [Infojini](#infojini) (1)
 - [Instacart](#instacart) (4)
@@ -250,7 +251,6 @@
 - [LinkedIn](#linkedin) (3)
 - [LiveRamp](#liveramp) (1)
 - [Lucid Motors](#lucid-motors) (1)
-- [Mackenzie Investments](#mackenzie-investments) (1)
 - [Magna](#magna) (4)
 - [Maher Duessel](#maher-duessel) (1)
 - [MaloneBailey, LLP](#malonebailey-llp) (1)
@@ -354,7 +354,7 @@
 - [Rocket Lab USA](#rocket-lab-usa) (2)
 - [Rockwell Automation](#rockwell-automation) (1)
 - [Root Access](#root-access) (1)
-- [Royal Bank of Canada](#royal-bank-of-canada) (3)
+- [Royal Bank of Canada](#royal-bank-of-canada) (2)
 - [RTX](#rtx) (1)
 - [Salesforce](#salesforce) (1)
 - [Samaya](#samaya) (1)
@@ -1408,6 +1408,15 @@
 | [Software Engineer Intern](https://jobs.ashbyhq.com/droyd/8d46ed05-1b38-4c68-938e-f10b4c7d4694/application) | 93 | SF | Hardware | 2026-07-04 |
 | [Machine Learning Intern](https://jobs.ashbyhq.com/droyd/fd533fd8-65a7-41eb-bdf0-e75f02e739e9/application) | 68 | SF | AI/ML/Data | 2026-07-04 |
 
+## DRW
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Quantitative Developer Intern (Python)](https://job-boards.greenhouse.io/drweng/jobs/7981754) | 93 | Singapore | — | 2026-07-13 |
+| [Software Developer Intern (C++)](https://job-boards.greenhouse.io/drweng/jobs/8014910) | 93 | Singapore | — | 2026-07-13 |
+| [Quantitative Research Intern](https://job-boards.greenhouse.io/drweng/jobs/8014915) | 68 | Singapore | — | 2026-07-13 |
+| [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/8014919) | 68 | Singapore | — | 2026-07-13 |
+
 ## Dryft
 
 | Title | Score | Location | Department | First seen |
@@ -1905,12 +1914,10 @@
 | [Machine Learning Research Intern - Summer 2027 - Chicago](https://job-boards.eu.greenhouse.io/imc/jobs/4907430101) | 68 | Chicago, United States | — | 2026-07-08 |
 | [2027 - Quant Research Intern - IIT Bombay](https://job-boards.eu.greenhouse.io/imc/jobs/4860277101) | 68 | Amsterdam, Netherlands; Mumbai, India | — | 2026-07-07 |
 | [2027 - Quant Research Intern - IIT Delhi](https://job-boards.eu.greenhouse.io/imc/jobs/4917441101) | 68 | Amsterdam, Netherlands; Mumbai, India | — | 2026-07-07 |
-| [2027 - Quant Research Intern - IIT Kharagpur](https://job-boards.eu.greenhouse.io/imc/jobs/4917442101) | 68 | Amsterdam, Netherlands; Mumbai, India | — | 2026-07-07 |
 | [2027 - Quant Research Intern - IIT Madras](https://job-boards.eu.greenhouse.io/imc/jobs/4917439101) | 68 | Amsterdam, Netherlands; Mumbai, India | — | 2026-07-07 |
 | [2027 - Software Engineering Intern - BITS Pilani](https://job-boards.eu.greenhouse.io/imc/jobs/4917549101) | 68 | Mumbai, India | — | 2026-07-07 |
 | [2027 - Software Engineering Intern - IIT Bombay](https://job-boards.eu.greenhouse.io/imc/jobs/4860319101) | 68 | Mumbai, India | — | 2026-07-07 |
 | [2027 - Software Engineering Intern - IIT Delhi](https://job-boards.eu.greenhouse.io/imc/jobs/4917535101) | 68 | Mumbai, India | — | 2026-07-07 |
-| [2027 - Software Engineering Intern - IIT Kharagpur](https://job-boards.eu.greenhouse.io/imc/jobs/4917545101) | 68 | Mumbai, India | — | 2026-07-07 |
 | [2027 - FPGA Intern - IIT Bombay](https://job-boards.eu.greenhouse.io/imc/jobs/4860306101) | 58 | Amsterdam, Netherlands; Mumbai, India | — | 2026-07-07 |
 | [2027 - FPGA Intern - IIT Madras](https://job-boards.eu.greenhouse.io/imc/jobs/4918252101) | 58 | Amsterdam, Netherlands; Mumbai, India | — | 2026-07-07 |
 | [2027 - Software Engineering Intern - IIT Madras](https://job-boards.eu.greenhouse.io/imc/jobs/4917547101) | 68 | Mumbai, India | — | 2026-07-06 |
@@ -1926,8 +1933,8 @@
 | [Hardware Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) | 58 | Chicago, United States | — | 2026-07-01 |
 | [Graduate Quantitative Researcher](https://job-boards.eu.greenhouse.io/imc/jobs/4892687101) | 99 | Zug, Switzerland | — | 2026-06-12 |
 | [Hardware Machine Learning PhD Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, IL | AI/ML/Data | 2026-05-09 |
-| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
+| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
 | [Hardware Machine Learning PhD Research Internship](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, United States | — | 2026-05-06 |
 | [Graduate Floor Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4786701101) | 64 | Chicago, United States; Miami, United States; New York, United States; Philadelphia, United States; San Francisco, United States | — | 2026-05-06 |
 
@@ -2196,12 +2203,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Finance Business Analytics Intern](https://job-boards.greenhouse.io/lucidmotors/jobs/5136407007) | 68 | Concord, NH | AI/ML/Data | 2026-06-17 |
-
-## Mackenzie Investments
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Quantitative Research Intern - Investment Management - Multi-Asset Allocation](https://careersen-mackenzieinvestments.icims.com/jobs/5846/job?mobile=true&needsRedirect=false) | 60 | Ontario, Canada | Quant | 2026-07-01 |
 
 ## Magna
 
@@ -2966,7 +2967,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Off Cycle Intern - Aiden Edge](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Off-Cycle-Intern---Aiden-Edge_R-0000179570) | 68 | London, UK | Software | 2026-07-10 |
-| [Relationship Manager Business Markets Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/175-WALLACE-AVE-NNORTH-PERTH/Relationship-Manager-Business-Markets-Intern_R-0000172273-2) | 68 | Kitchener, ON, Canada | Quant | 2026-07-08 |
 | [Relationship Manager Commercial Markets Intern - Agriculture](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/BRANTFORD-Ontario-Canada/Relationship-Manager-Commercial-Markets-Intern--Agriculture_R-0000178814) | 68 | Oakland, ON, Canada | Quant | 2026-07-02 |
 
 ## RTX
