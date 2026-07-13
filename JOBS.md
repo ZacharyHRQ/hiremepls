@@ -1,6 +1,6 @@
 # Open Internships
 
-**1104** internships across **68/68** companies — last updated 2026-07-13.
+**1106** internships across **68/68** companies — last updated 2026-07-13.
 
 ## Companies
 
@@ -164,7 +164,7 @@
 - [Facility Solutions Group](#facility-solutions-group) (1)
 - [Faire](#faire) (1)
 - [Fanatics](#fanatics) (3)
-- [Figure](#figure) (2)
+- [Figure](#figure) (3)
 - [Fiserv](#fiserv) (2)
 - [Five Rings](#five-rings) (1)
 - [Flagright](#flagright) (1)
@@ -299,6 +299,7 @@
 - [NXP Semiconductors](#nxp-semiconductors) (2)
 - [OCC](#occ) (1)
 - [Occidental Petroleum](#occidental-petroleum) (1)
+- [Octaura](#octaura) (1)
 - [OfferUp](#offerup) (1)
 - [Omnis](#omnis) (1)
 - [onsemi](#onsemi) (3)
@@ -1601,6 +1602,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Hardware Reliability Intern](https://job-boards.greenhouse.io/figureai/jobs/4613067006) | 58 | San Jose, CA | Hardware | 2026-07-13 |
 | [Special Projects Intern](https://job-boards.greenhouse.io/figureai/jobs/4694889006) | 68 | San Jose, CA | AI/ML/Data | 2026-07-07 |
 | [Firmware Intern](https://job-boards.greenhouse.io/figureai/jobs/4691070006) | 58 | San Jose, CA | Hardware | 2026-06-23 |
 
@@ -2544,6 +2546,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Intern/Co-op Data - Well Servicing & Engineering](https://oxy.wd5.myworkdayjobs.com/Corporate/job/_JR100413) | 68 | Midland, TX / Houston, TX / Fort Lupton, CO / Morton, TX / Denver, CO | AI/ML/Data | 2026-07-10 |
+
+## Octaura
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Intern – Data Engineering](https://job-boards.greenhouse.io/octaura/jobs/4662934007) | 68 | NYC | AI/ML/Data | 2026-07-13 |
 
 ## OfferUp
 

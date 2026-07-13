@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-13T00:08:08.437Z",
+  "generatedAt": "2026-07-13T03:55:56.914Z",
   "companyCount": 68,
   "okCount": 68,
-  "jobCount": 1104,
+  "jobCount": 1106,
   "firstSeen": {
     "canonical:822f979beef7ebc5": "2026-05-06T06:42:07.596Z",
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
@@ -1107,7 +1107,9 @@
     "canonical:6418a1b0042bfe92": "2026-07-12T14:02:35.390Z",
     "canonical:2c1230c887d66061": "2026-07-12T14:02:35.390Z",
     "canonical:8385aa46301105a2": "2026-07-12T14:02:35.390Z",
-    "canonical:51d519ad65d99582": "2026-07-12T14:02:35.390Z"
+    "canonical:51d519ad65d99582": "2026-07-12T14:02:35.390Z",
+    "canonical:654dd86a700f6a39": "2026-07-13T03:55:56.914Z",
+    "canonical:545ffb325aa1d9cf": "2026-07-13T03:55:56.914Z"
   },
   "jobs": [
     {
@@ -12811,6 +12813,31 @@
       "location": "Mountain View, CA",
       "department": "AI/ML/Data",
       "company": "Toyota Research Institute",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:654dd86a700f6a39",
+      "title": "Hardware Reliability Intern",
+      "url": "https://job-boards.greenhouse.io/figureai/jobs/4613067006",
+      "location": "San Jose, CA",
+      "department": "Hardware",
+      "company": "Figure",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:545ffb325aa1d9cf",
+      "title": "Intern – Data Engineering",
+      "url": "https://job-boards.greenhouse.io/octaura/jobs/4662934007",
+      "location": "NYC",
+      "department": "AI/ML/Data",
+      "company": "Octaura",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
