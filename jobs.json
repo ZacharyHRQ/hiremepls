@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-14T18:48:21.981Z",
+  "generatedAt": "2026-07-14T20:04:17.306Z",
   "companyCount": 69,
   "okCount": 69,
-  "jobCount": 1151,
+  "jobCount": 1150,
   "firstSeen": {
     "canonical:822f979beef7ebc5": "2026-05-06T06:42:07.596Z",
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
@@ -598,7 +598,6 @@
     "canonical:11b276e5677a2970": "2026-07-01T06:55:26.212Z",
     "canonical:219acace20b359c4": "2026-07-01T06:55:26.212Z",
     "canonical:ad9df2e5b0e5d395": "2026-07-01T06:55:26.212Z",
-    "canonical:93491aade761927e": "2026-07-01T06:55:26.212Z",
     "canonical:449b39e3baa7b17a": "2026-07-01T06:55:26.212Z",
     "canonical:2f127a7c6f9ba9ec": "2026-07-01T06:55:26.212Z",
     "canonical:9cea97c55cf3d6ab": "2026-07-01T06:55:26.212Z",
@@ -10715,19 +10714,6 @@
       ]
     },
     {
-      "id": "canonical:93491aade761927e",
-      "title": "Data Scientist Intern",
-      "url": "https://nuro.ai/careersitem?gh_jid=7594577",
-      "location": "Mountain View, CA",
-      "department": "AI/ML/Data",
-      "company": "Nuro",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:449b39e3baa7b17a",
       "title": "Racing Performance Engineer Intern",
       "url": "https://hendrick.wd5.myworkdayjobs.com/HMSCareers/job/Hendrick-Motorsports/Racing-Performance-Engineer---Fall-2026-Internship_R-81564",
@@ -15213,10 +15199,10 @@
     },
     {
       "id": "canonical:67dff8354f48371b",
-      "title": "Summer Intern 2026 - Software Developer",
-      "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4806713008",
+      "title": "Summer Intern 2027 - Software Developer",
+      "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
       "location": "New York",
-      "department": "",
+      "department": "Software / Summer 2027",
       "company": "Five Rings",
       "score": 93,
       "scoreReasons": [

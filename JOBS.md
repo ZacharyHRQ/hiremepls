@@ -1,6 +1,6 @@
 # Open Internships
 
-**1151** internships across **69/69** companies — last updated 2026-07-14.
+**1150** internships across **69/69** companies — last updated 2026-07-14.
 
 ## Companies
 
@@ -299,7 +299,6 @@
 - [Nokia](#nokia) (3)
 - [Northwestern Mutual](#northwestern-mutual) (2)
 - [Notion](#notion) (5)
-- [Nuro](#nuro) (1)
 - [NVIDIA](#nvidia) (9)
 - [NXP Semiconductors](#nxp-semiconductors) (3)
 - [OCC](#occ) (1)
@@ -1671,7 +1670,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Summer Intern 2026 - Software Developer](https://job-boards.greenhouse.io/fiveringsllc/jobs/4806713008) | 93 | New York | — | 2026-07-09 |
+| [Summer Intern 2027 - Software Developer](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) | 93 | New York | Software / Summer 2027 | 2026-07-09 |
 
 ## Flagright
 
@@ -2584,12 +2583,6 @@
 | [Software Engineer Intern, Mobile](https://jobs.ashbyhq.com/notion/3e56e35b-f35b-4b1a-ba2b-0ccdc6f60421) | 93 | San Francisco, CA / New York, NY | — | 2026-07-09 |
 | [Software Engineer, AI Intern](https://jobs.ashbyhq.com/notion/39d70209-37f6-4623-949b-18fbd8889933) | 93 | San Francisco, CA / New York, NY | — | 2026-07-09 |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90/application) | 93 | SF | Software | 2026-05-09 |
-
-## Nuro
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Scientist Intern](https://nuro.ai/careersitem?gh_jid=7594577) | 85 | Mountain View, CA | AI/ML/Data | 2026-07-01 |
 
 ## NVIDIA
 
