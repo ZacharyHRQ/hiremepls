@@ -1,6 +1,6 @@
 # Open Internships
 
-**1162** internships across **69/69** companies — last updated 2026-07-14.
+**1161** internships across **69/69** companies — last updated 2026-07-14.
 
 ## Companies
 
@@ -46,7 +46,7 @@
 - [ASML](#asml) (2)
 - [Astera](#astera) (2)
 - [Astera Labs](#astera-labs) (3)
-- [Astranis](#astranis) (11)
+- [Astranis](#astranis) (10)
 - [Atomic Semi](#atomic-semi) (8)
 - [Auctor](#auctor) (1)
 - [Autodesk](#autodesk) (1)
@@ -143,6 +143,7 @@
 - [DRW](#drw) (19)
 - [Dryft](#dryft) (1)
 - [DuPont](#dupont) (5)
+- [Duracell](#duracell) (1)
 - [EdgeTrace](#edgetrace) (1)
 - [Eight Sleep](#eight-sleep) (1)
 - [Ekimetrics](#ekimetrics) (1)
@@ -305,7 +306,6 @@
 - [NVIDIA](#nvidia) (9)
 - [NXP Semiconductors](#nxp-semiconductors) (3)
 - [OCC](#occ) (1)
-- [Occidental Petroleum](#occidental-petroleum) (1)
 - [Octaura](#octaura) (1)
 - [OfferUp](#offerup) (1)
 - [Old Mission](#old-mission) (4)
@@ -785,7 +785,6 @@
 | [Reliability Design Intern](https://job-boards.greenhouse.io/astranis/jobs/4681472006) | 58 | SF | Hardware | 2026-07-01 |
 | [Reliability Design Associate Intern](https://job-boards.greenhouse.io/astranis/jobs/4681416006) | 58 | SF | Hardware | 2026-06-23 |
 | [Embedded Software Developer – Network/Payload Software Intern](https://job-boards.greenhouse.io/astranis/jobs/4601135006) | 93 | SF | Hardware | 2026-06-21 |
-| [CAD Engineer/Librarian Intern](https://job-boards.greenhouse.io/astranis/jobs/4681155006) | 58 | SF | Hardware | 2026-05-27 |
 | [FPGA Associate Intern](https://job-boards.greenhouse.io/astranis/jobs/4677337006) | 58 | SF | Hardware | 2026-05-26 |
 | [FPGA Intern](https://job-boards.greenhouse.io/astranis/jobs/4677338006) | 58 | SF | Hardware | 2026-05-26 |
 | [Software Engineer-Backend Intern](https://job-boards.greenhouse.io/astranis/jobs/4681183006) | 93 | SF | Software | 2026-05-14 |
@@ -1494,6 +1493,12 @@
 | [2026 Summer Intern & Co-Op: Chemical, Mechanical and Electrical Engineering Opportunities.](https://www.linkedin.com/jobs/view/4268310442) | 42 | Wilmington, DE | — | 2026-07-09 |
 | [2026 Summer Intern & Co-Op: Chemical, Mechanical and Electrical Engineering Opportunities.](https://www.linkedin.com/jobs/view/4268307684) | 42 | Pasadena, TX | — | 2026-07-09 |
 | [2026 Summer Intern & Co-Op: Chemical, Mechanical and Electrical Engineering Opportunities.](https://www.linkedin.com/jobs/view/4268307679) | 42 | Midland, MI | — | 2026-07-09 |
+
+## Duracell
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Electronics Tech Intern](https://fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_26/job/1330) | 50 | Atlanta, GA | Hardware | 2026-07-14 |
 
 ## EdgeTrace
 
@@ -2635,12 +2640,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Year-Round Intern - Quantitative Risk Management](https://theocc.wd5.myworkdayjobs.com/en-US/careers/job/Chicago---125-S-Franklin/Year-Round-Intern---Quantitative-Risk-Management_REQ-4483-1) | 68 | Chicago, IL | Quantitative Finance | 2026-05-09 |
-
-## Occidental Petroleum
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Intern/Co-op Data - Well Servicing & Engineering](https://oxy.wd5.myworkdayjobs.com/Corporate/job/_JR100413) | 68 | Midland, TX / Houston, TX / Fort Lupton, CO / Morton, TX / Denver, CO | AI/ML/Data | 2026-07-10 |
 
 ## Octaura
 

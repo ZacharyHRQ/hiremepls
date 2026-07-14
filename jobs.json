@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-14T01:01:52.934Z",
+  "generatedAt": "2026-07-14T04:14:48.977Z",
   "companyCount": 69,
   "okCount": 69,
-  "jobCount": 1162,
+  "jobCount": 1161,
   "firstSeen": {
     "canonical:822f979beef7ebc5": "2026-05-06T06:42:07.596Z",
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
@@ -300,7 +300,6 @@
     "canonical:da1d1f81b47de301": "2026-05-27T02:52:54.000Z",
     "canonical:aaf453fcebecd6b3": "2026-05-27T02:52:54.000Z",
     "canonical:26834ab146689c4d": "2026-05-27T02:52:54.000Z",
-    "canonical:f2b9b01ed20bb453": "2026-05-27T06:54:37.687Z",
     "canonical:7cd11e7ec9f67cb6": "2026-05-27T06:54:37.687Z",
     "canonical:20085e5eef82ddf3": "2026-05-27T10:47:24.465Z",
     "canonical:e87b9219892bc7ee": "2026-05-27T14:19:21.217Z",
@@ -988,7 +987,6 @@
     "canonical:cb9df15343a5b55b": "2026-07-10T02:38:18.769Z",
     "canonical:d6368170104e0f33": "2026-07-10T02:38:18.769Z",
     "canonical:e8a5b9fc6e1a4de2": "2026-07-10T06:27:50.376Z",
-    "canonical:219d5b6a1f795c65": "2026-07-10T09:59:02.207Z",
     "canonical:fc49ab4fb89dc0f7": "2026-07-10T15:08:14.580Z",
     "canonical:bd73a2ff32a0ca98": "2026-07-10T17:05:29.317Z",
     "canonical:7b3cc8868ca7ea4e": "2026-07-10T23:30:41.605Z",
@@ -1165,7 +1163,8 @@
     "canonical:5f700f46712af0b4": "2026-07-13T23:32:08.883Z",
     "canonical:35ca393cde137082": "2026-07-13T23:32:08.883Z",
     "canonical:525e6e83e886b36a": "2026-07-14T01:01:52.934Z",
-    "canonical:d6ecb3d337b0743f": "2026-07-14T01:01:52.934Z"
+    "canonical:d6ecb3d337b0743f": "2026-07-14T01:01:52.934Z",
+    "canonical:b5671043797d16a2": "2026-07-14T04:14:48.977Z"
   },
   "jobs": [
     {
@@ -5273,19 +5272,6 @@
       "scoreReasons": []
     },
     {
-      "id": "canonical:219d5b6a1f795c65",
-      "title": "Intern/Co-op Data - Well Servicing & Engineering",
-      "url": "https://oxy.wd5.myworkdayjobs.com/Corporate/job/_JR100413",
-      "location": "Midland, TX / Houston, TX / Fort Lupton, CO / Morton, TX / Denver, CO",
-      "department": "AI/ML/Data",
-      "company": "Occidental Petroleum",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:e5816ef97ceabca4",
       "title": "Intern Technician - Electronics",
       "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/PA---Mount-Holly-Springs/Intern-Technician--Electronics-_R847-26",
@@ -7909,18 +7895,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:f2b9b01ed20bb453",
-      "title": "CAD Engineer/Librarian Intern",
-      "url": "https://job-boards.greenhouse.io/astranis/jobs/4681155006",
-      "location": "SF",
-      "department": "Hardware",
-      "company": "Astranis",
-      "score": 58,
-      "scoreReasons": [
         "direct ATS"
       ]
     },
@@ -13509,6 +13483,16 @@
         "high-signal role",
         "direct ATS"
       ]
+    },
+    {
+      "id": "canonical:b5671043797d16a2",
+      "title": "Electronics Tech Intern",
+      "url": "https://fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_26/job/1330",
+      "location": "Atlanta, GA",
+      "department": "Hardware",
+      "company": "Duracell",
+      "score": 50,
+      "scoreReasons": []
     },
     {
       "id": "canonical:12cd06c0eec80152",
