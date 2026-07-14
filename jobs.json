@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-14T13:06:31.607Z",
+  "generatedAt": "2026-07-14T15:01:28.474Z",
   "companyCount": 69,
   "okCount": 69,
-  "jobCount": 1154,
+  "jobCount": 1157,
   "firstSeen": {
     "canonical:822f979beef7ebc5": "2026-05-06T06:42:07.596Z",
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
@@ -454,7 +454,6 @@
     "canonical:627ecb13b3a05166": "2026-06-11T11:07:45.069Z",
     "canonical:911024e35734afb8": "2026-06-11T11:07:45.069Z",
     "canonical:c3b3bce8a3e2e039": "2026-06-11T14:53:08.801Z",
-    "canonical:aaaa0e3f49253448": "2026-06-11T14:53:08.801Z",
     "canonical:1f027cb6d4618bf9": "2026-06-11T18:04:03.516Z",
     "canonical:d621e53b1b2df411": "2026-06-11T18:04:03.516Z",
     "canonical:c11bff2ca221b70c": "2026-06-11T23:59:08.775Z",
@@ -1143,7 +1142,6 @@
     "canonical:b5671043797d16a2": "2026-07-14T04:14:48.977Z",
     "canonical:0df76adfa71f50bc": "2026-07-14T10:22:27.118Z",
     "canonical:cb05208bc6a1f7a7": "2026-07-14T11:50:51.074Z",
-    "canonical:d784474db837f420": "2026-07-14T11:50:51.074Z",
     "canonical:43c945396857ea6b": "2026-07-14T11:50:51.074Z",
     "canonical:296035cd95b6d0a8": "2026-07-14T11:50:51.074Z",
     "canonical:1cb970dd90b802db": "2026-07-14T11:50:51.074Z",
@@ -1155,9 +1153,14 @@
     "canonical:66412bb9a55971a4": "2026-07-14T11:50:51.074Z",
     "canonical:bca1cc17005e460b": "2026-07-14T13:06:31.607Z",
     "canonical:c023167c5909ccb2": "2026-07-14T13:06:31.607Z",
-    "canonical:c3f909dd643f2906": "2026-07-14T13:06:31.607Z",
     "canonical:d4522e592923d04c": "2026-07-14T13:06:31.607Z",
-    "canonical:b0995157b52a70dd": "2026-07-14T13:06:31.607Z"
+    "canonical:b0995157b52a70dd": "2026-07-14T13:06:31.607Z",
+    "canonical:f37f75b46a6f8d9f": "2026-07-14T15:01:28.474Z",
+    "canonical:6a54db97364bf00a": "2026-07-14T15:01:28.474Z",
+    "canonical:941d02dc047a74b1": "2026-07-14T15:01:28.474Z",
+    "canonical:4d8f517f0fc5a55e": "2026-07-14T15:01:28.474Z",
+    "canonical:a776bc8ff01b2ab7": "2026-07-14T15:01:28.474Z",
+    "canonical:7e71c09c84f24ad0": "2026-07-14T15:01:28.474Z"
   },
   "jobs": [
     {
@@ -3187,7 +3190,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -3221,10 +3224,10 @@
       ]
     },
     {
-      "id": "canonical:d784474db837f420",
+      "id": "canonical:f37f75b46a6f8d9f",
       "title": "Public Policy Intern",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8053437?gh_jid=8053437",
-      "location": "Distributed",
+      "location": "Hybrid; In-Office",
       "department": "",
       "company": "Cloudflare",
       "score": 58,
@@ -5030,6 +5033,19 @@
       ]
     },
     {
+      "id": "canonical:6a54db97364bf00a",
+      "title": "Research and Development Engineering Intern",
+      "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineering-Intern_REQ_0000076214-1",
+      "location": "State College, PA",
+      "department": "Software",
+      "company": "PennState University",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:ff280c9810ac0117",
       "title": "Product Management/Marketing Intern - Summer 2026",
       "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Charlotte-NC/Product-Management-Marketing-Intern---Summer-2026_JR0000037719-3",
@@ -5221,6 +5237,19 @@
       "location": "New York, NY",
       "department": "Data Science, AI & Machine Learning",
       "company": "Internship",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:941d02dc047a74b1",
+      "title": "AI Intern",
+      "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Atlanta-GA-United-States/AI-Internships_JR-0088855-1",
+      "location": "Grand Rapids, MI / Plano, TX / Atlanta, GA",
+      "department": "Software",
+      "company": "KION Group",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -5488,19 +5517,6 @@
       "company": "Rivian",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:c3f909dd643f2906",
-      "title": "Mission Software – Intern - Python",
-      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7676465003",
-      "location": "El Segundo, CA",
-      "department": "Software",
-      "company": "Varda Space",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
     },
     {
       "id": "canonical:bb63a577c98aec70",
@@ -9536,18 +9552,6 @@
       ]
     },
     {
-      "id": "canonical:aaaa0e3f49253448",
-      "title": "IT Network Software/AI Development Co-op/Intern",
-      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34296",
-      "location": "Ottawa, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Nokia",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:d621e53b1b2df411",
       "title": "Research and Development Intern",
       "url": "https://job-boards.greenhouse.io/amarok/jobs/6018661004",
@@ -13395,6 +13399,33 @@
       ]
     },
     {
+      "id": "canonical:4d8f517f0fc5a55e",
+      "title": "Global Retail Strategy and Analytics Intern",
+      "url": "https://levistraussandco.wd5.myworkdayjobs.com/external/job/Ixelles-Belgium/Global-Retail-Strategy-and-Analytics-Intern_R-0154103",
+      "location": "London, UK",
+      "department": "AI/ML/Data",
+      "company": "Levi Strauss & Co.",
+      "score": 48,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS",
+        "lower-fit title"
+      ]
+    },
+    {
+      "id": "canonical:a776bc8ff01b2ab7",
+      "title": "Business Intelligence Intern",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000137672769",
+      "location": "Belmont, MA",
+      "department": "AI/ML/Data",
+      "company": "Bosch Home Comfort",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:12cd06c0eec80152",
       "title": "Frontend Software Engineer Intern",
       "url": "https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c",
@@ -15856,6 +15887,19 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:7e71c09c84f24ad0",
+      "title": "Flight Software Internship - Fall 2026",
+      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7676465003",
+      "location": "El Segundo, California, United States",
+      "department": "Software / Fall 2026",
+      "company": "Varda Space",
+      "score": 68,
+      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
