@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-14T06:25:12.846Z",
+  "generatedAt": "2026-07-14T08:32:22.501Z",
   "companyCount": 69,
   "okCount": 69,
-  "jobCount": 1156,
+  "jobCount": 1155,
   "firstSeen": {
     "canonical:822f979beef7ebc5": "2026-05-06T06:42:07.596Z",
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
@@ -1053,7 +1053,6 @@
     "canonical:d7e3fa9eea5d3be9": "2026-05-06T06:42:07.596Z",
     "canonical:96b9858b94efd554": "2026-07-02T12:27:44.176Z",
     "canonical:0790d8066c2219b7": "2026-07-02T12:27:44.176Z",
-    "canonical:cb05208bc6a1f7a7": "2026-07-02T12:27:44.176Z",
     "canonical:f6a2850a62ab9742": "2026-05-06T06:42:07.596Z",
     "canonical:91f612fafafcf030": "2026-07-09T00:19:16.415Z",
     "canonical:6e64194c6ae570c0": "2026-07-13T09:28:03.797Z",
@@ -2465,18 +2464,6 @@
       ]
     },
     {
-      "id": "canonical:cb05208bc6a1f7a7",
-      "title": "2027 Technology Development Intern – IIT Madras",
-      "url": "https://boards.greenhouse.io/point72/jobs/8617339002?gh_jid=8617339002",
-      "location": "India, Bengaluru",
-      "department": "",
-      "company": "Point72",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:2c4e07bd36facad2",
       "title": "Corporate Access, off-cycle internship (6-months) – Japanese speaking",
       "url": "https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002",
@@ -2489,10 +2476,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -2503,10 +2490,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
