@@ -64,6 +64,10 @@
   { "name": "Cribl", "ats": "greenhouse", "slug": "cribl" },
   { "name": "Postman", "ats": "greenhouse", "slug": "postman" },
   { "name": "Gusto", "ats": "greenhouse", "slug": "gusto" },
+  { "name": "Supabase", "ats": "ashby", "slug": "supabase" },
+  { "name": "Cockroach Labs", "ats": "greenhouse", "slug": "cockroachlabs" },
+  { "name": "ClickHouse", "ats": "greenhouse", "slug": "clickhouse" },
+  { "name": "Rippling", "ats": "ripplingAlgolia", "slug": "rippling" },
 
   { "name": "BlackRock", "ats": "workday", "slug": "blackrock", "cluster": "wd1", "site": "BlackRock_Professional" },
 
