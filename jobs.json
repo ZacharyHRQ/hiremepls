@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-14T17:45:08.722Z",
+  "generatedAt": "2026-07-14T18:48:21.981Z",
   "companyCount": 69,
   "okCount": 69,
-  "jobCount": 1156,
+  "jobCount": 1151,
   "firstSeen": {
     "canonical:822f979beef7ebc5": "2026-05-06T06:42:07.596Z",
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
@@ -204,7 +204,6 @@
     "canonical:6891c0ba8d854c9b": "2026-05-09T15:28:15.527Z",
     "canonical:db017660ddf68d47": "2026-05-09T15:28:15.527Z",
     "canonical:4871e71be3a18e9d": "2026-05-09T15:28:15.527Z",
-    "canonical:87b2f74645c5a70f": "2026-05-09T15:28:15.527Z",
     "canonical:9f4992259e91b180": "2026-05-09T15:28:15.527Z",
     "canonical:7134f71d6610c363": "2026-05-09T15:28:15.527Z",
     "canonical:b06161b2a0f4c01f": "2026-05-09T15:28:15.527Z",
@@ -568,7 +567,6 @@
     "canonical:5cb52fbcbb978dd9": "2026-06-24T05:13:57.648Z",
     "canonical:faeb4a16f7862bfe": "2026-06-24T05:13:57.648Z",
     "canonical:efeb516c369ef725": "2026-06-24T08:33:15.748Z",
-    "canonical:f4f9e8ec69b4f65f": "2026-06-24T13:34:22.889Z",
     "canonical:4341a970cbbffa2c": "2026-06-24T13:34:22.889Z",
     "canonical:55b7d658b8486ecc": "2026-06-24T15:59:08.517Z",
     "canonical:06c2f61c260015cb": "2026-06-25T06:19:24.764Z",
@@ -672,7 +670,6 @@
     "canonical:82849cfc4b355f26": "2026-07-02T04:36:39.736Z",
     "canonical:3db0e00d555fbcb0": "2026-07-02T04:36:39.736Z",
     "canonical:4aeb2d33b626d0ff": "2026-07-02T04:36:39.736Z",
-    "canonical:993f3519eebf8d19": "2026-07-02T04:36:39.736Z",
     "canonical:6372dbe5b6be1779": "2026-07-02T04:36:39.736Z",
     "canonical:d55fc31614ca91f3": "2026-07-02T04:36:39.736Z",
     "canonical:eaa8ec7aff4b5856": "2026-07-02T04:36:39.736Z",
@@ -680,7 +677,6 @@
     "canonical:9de651366fb550a9": "2026-07-02T10:28:03.449Z",
     "canonical:4e3bd8b9c9c33c84": "2026-07-02T10:28:03.449Z",
     "canonical:7621f3e1f686b2a6": "2026-07-02T12:27:44.176Z",
-    "canonical:8dfbe61a4a33e68c": "2026-07-02T12:27:44.176Z",
     "canonical:ca4f44300801a7f8": "2026-07-02T12:27:44.176Z",
     "canonical:e9636b2e40ddfe0f": "2026-07-02T12:27:44.176Z",
     "canonical:1af544dee14e1b17": "2026-07-02T13:33:38.399Z",
@@ -1111,7 +1107,6 @@
     "canonical:046f50b1fbbfdf3b": "2026-07-13T20:33:09.123Z",
     "canonical:044306bab4aa363e": "2026-07-13T20:33:09.123Z",
     "canonical:8060fbb0da9f52f8": "2026-07-13T22:33:55.398Z",
-    "canonical:474dbcf68693e3b6": "2026-07-13T22:33:55.398Z",
     "canonical:a97e739f9a8800b0": "2026-07-13T22:33:55.398Z",
     "canonical:e45a102fe53b7d16": "2026-07-13T22:33:55.398Z",
     "canonical:cd12c76f4d95ac8b": "2026-07-13T22:33:55.398Z",
@@ -2051,20 +2046,6 @@
       ]
     },
     {
-      "id": "canonical:25b2f5fa761686e8",
-      "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
-      "location": "Montreal",
-      "department": "",
-      "company": "DRW",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:1d41c103b87b651a",
       "title": "Software Developer Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
@@ -2097,6 +2078,20 @@
       "title": "Software Developer Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
       "location": "Amsterdam",
+      "department": "",
+      "company": "DRW",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:25b2f5fa761686e8",
+      "title": "Software Developer Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
+      "location": "Montreal",
       "department": "",
       "company": "DRW",
       "score": 93,
@@ -3189,7 +3184,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -5925,20 +5920,6 @@
       ]
     },
     {
-      "id": "canonical:f4f9e8ec69b4f65f",
-      "title": "Software Engineering Intern - Frontend",
-      "url": "https://jobs.ashbyhq.com/tessera-labs/4614d053-2c8f-4317-8cd2-1d1290721b06/application",
-      "location": "San Jose, CA",
-      "department": "Software",
-      "company": "Tessera Labs",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:11ccf5058382c3d9",
       "title": "AI Agent Builder Intern",
       "url": "https://jobs.lever.co/go-cloudforce/cf2f1855-3ad7-4d4a-a100-2e627f703af4",
@@ -6568,16 +6549,6 @@
       "scoreReasons": [
         "direct ATS"
       ]
-    },
-    {
-      "id": "canonical:87b2f74645c5a70f",
-      "title": "Deployed Hardware Engineer/Analyst Emerging Talent Intern - Automatic Vehicle Location",
-      "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/omt5zfwd?nl=1&nl=1&fr=false",
-      "location": "NYC",
-      "department": "Hardware",
-      "company": "Metropolitan Transportation Authority",
-      "score": 50,
-      "scoreReasons": []
     },
     {
       "id": "canonical:9f4992259e91b180",
@@ -7268,19 +7239,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:474dbcf68693e3b6",
-      "title": "DPHM Analytics Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship-Fall-2026---DPHM-Analytics-Intern_01836458-1",
-      "location": "Mississauga, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "RTX",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -10271,19 +10229,6 @@
       ]
     },
     {
-      "id": "canonical:8dfbe61a4a33e68c",
-      "title": "Research reinforcement learning & Post-Training Systems Intern - Turbo",
-      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5168929007",
-      "location": "SF",
-      "department": "AI/ML/Data",
-      "company": "Together AI",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:baa8d20fda37086a",
       "title": "Data Science Intern",
       "url": "https://jobs.ashbyhq.com/centerfield/916dcf42-d69a-4f00-875a-f8fe630e0f33/application",
@@ -11636,18 +11581,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:993f3519eebf8d19",
-      "title": "Integrated Motor Drive SW Intern",
-      "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Greenville-South-Carolina-United-States-of-America/Integrated-Motor-Drive-SW-Intern---Fall-2026_JR00038957",
-      "location": "Greenville, SC",
-      "department": "Hardware",
-      "company": "ABB",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
       ]
     },
     {
