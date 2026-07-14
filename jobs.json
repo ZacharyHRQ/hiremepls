@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-14T21:12:43.004Z",
+  "generatedAt": "2026-07-14T22:11:13.508Z",
   "companyCount": 69,
   "okCount": 69,
-  "jobCount": 1150,
+  "jobCount": 1148,
   "firstSeen": {
     "canonical:822f979beef7ebc5": "2026-05-06T06:42:07.596Z",
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
@@ -437,7 +437,6 @@
     "canonical:45ff47914f15fa4a": "2026-06-10T13:58:51.425Z",
     "canonical:4e042622b9f5b371": "2026-06-10T23:18:38.796Z",
     "canonical:dc7dc5305ed05ed6": "2026-06-10T23:18:38.796Z",
-    "canonical:5a04d7e1104bec7c": "2026-06-10T23:18:38.796Z",
     "canonical:5c13be71e2802136": "2026-06-11T01:44:46.869Z",
     "canonical:a408343a5d65fbb1": "2026-06-11T01:44:46.869Z",
     "canonical:2a27a6706157cb62": "2026-06-11T06:27:21.326Z",
@@ -605,7 +604,6 @@
     "canonical:0c3455b30fb63d04": "2026-07-01T06:55:26.212Z",
     "canonical:c4bf2bed78c6403c": "2026-07-01T06:55:26.212Z",
     "canonical:2212e3fbe2cb1a38": "2026-07-01T06:55:26.212Z",
-    "canonical:1fc17b4a134fdb1a": "2026-07-01T06:55:26.212Z",
     "canonical:c8ca3869c2c9394e": "2026-07-01T06:55:26.212Z",
     "canonical:3e4bc8ae685df9a3": "2026-07-01T06:55:26.212Z",
     "canonical:0c6a01a05ca81c51": "2026-07-01T06:55:26.212Z",
@@ -1967,10 +1965,10 @@
       ]
     },
     {
-      "id": "canonical:03ff9719f5d57641",
+      "id": "canonical:b95410ba5a73a9cf",
       "title": "Quantitative Research Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7818540",
-      "location": "Chicago, New York City",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957756",
+      "location": "London",
       "department": "",
       "company": "DRW",
       "score": 68,
@@ -1980,10 +1978,10 @@
       ]
     },
     {
-      "id": "canonical:b95410ba5a73a9cf",
+      "id": "canonical:03ff9719f5d57641",
       "title": "Quantitative Research Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957756",
-      "location": "London",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7818540",
+      "location": "Chicago, New York City",
       "department": "",
       "company": "DRW",
       "score": 68,
@@ -2073,10 +2071,10 @@
       ]
     },
     {
-      "id": "canonical:25b2f5fa761686e8",
+      "id": "canonical:f9963438d881a851",
       "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
-      "location": "Montreal",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
+      "location": "Amsterdam",
       "department": "",
       "company": "DRW",
       "score": 93,
@@ -2087,10 +2085,10 @@
       ]
     },
     {
-      "id": "canonical:f9963438d881a851",
+      "id": "canonical:25b2f5fa761686e8",
       "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
-      "location": "Amsterdam",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
+      "location": "Montreal",
       "department": "",
       "company": "DRW",
       "score": 93,
@@ -9333,19 +9331,6 @@
       ]
     },
     {
-      "id": "canonical:5a04d7e1104bec7c",
-      "title": "Technology Development Intern",
-      "url": "https://jobs.smartrecruiters.com/Sandisk/744000131541969",
-      "location": "Milpitas, CA",
-      "department": "AI/ML/Data",
-      "company": "Sandisk",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:a408343a5d65fbb1",
       "title": "Supercharger Product Engineer Intern - Supercharger Product Support Engineering",
       "url": "https://www.tesla.com/careers/search/job/273531",
@@ -10805,19 +10790,6 @@
       "score": 75,
       "scoreReasons": [
         "SWE-aligned"
-      ]
-    },
-    {
-      "id": "canonical:1fc17b4a134fdb1a",
-      "title": "AI Intern",
-      "url": "https://job-boards.greenhouse.io/plscareers/jobs/5287786008",
-      "location": "Chicago, IL",
-      "department": "AI/ML/Data",
-      "company": "PLS",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {

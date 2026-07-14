@@ -1,6 +1,6 @@
 # Open Internships
 
-**1150** internships across **69/69** companies — last updated 2026-07-14.
+**1148** internships across **69/69** companies — last updated 2026-07-14.
 
 ## Companies
 
@@ -327,7 +327,6 @@
 - [Phia](#phia) (1)
 - [Pika](#pika) (1)
 - [Pinterest](#pinterest) (3)
-- [PLS](#pls) (1)
 - [PlusAI](#plusai) (19)
 - [Podium](#podium) (1)
 - [Point72](#point72) (22)
@@ -363,7 +362,6 @@
 - [Samaya](#samaya) (1)
 - [Samsung Research America](#samsung-research-america) (3)
 - [Sandhills Global](#sandhills-global) (2)
-- [Sandisk](#sandisk) (1)
 - [Saronic](#saronic) (2)
 - [Savannah River National Laboratory](#savannah-river-national-laboratory) (1)
 - [Scale AI](#scale-ai) (3)
@@ -2786,12 +2784,6 @@
 | [Machine Learning Intern, PhD](https://www.pinterestcareers.com/jobs/7255640/phd-fall-machine-learning-intern-atg-visual-multimodal-and-recommender-systems/?jr_id=69e683219b6eb37e26f80c4f&gh_jid=7255640) | 60 | San Francisco, CA / Palo Alto, CA / Seattle, WA / New York, NY | — | 2026-07-09 |
 | [PhD Machine Learning Intern - Visual - Recommender Systems](https://www.pinterestcareers.com/jobs/?gh_jid=7255640) | 60 | Palo Alto, CA / Seattle, WA / SF / NYC | AI/ML/Data | 2026-05-09 |
 
-## PLS
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI Intern](https://job-boards.greenhouse.io/plscareers/jobs/5287786008) | 68 | Chicago, IL | AI/ML/Data | 2026-07-01 |
-
 ## PlusAI
 
 | Title | Score | Location | Department | First seen |
@@ -3065,12 +3057,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Development Intern](https://www.sandhills.com/careers-and-internships/details/careers/sandhills/1196/software-development-intern) | 60 | Scottsdale, AZ | Software Engineering | 2026-06-24 |
 | [Software Development Intern](https://www.sandhills.com/careers-and-internships/details/careers/sandhills/1195/software-development-intern) | 60 | Lincoln, NE | Software Engineering | 2026-05-09 |
-
-## Sandisk
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Technology Development Intern](https://jobs.smartrecruiters.com/Sandisk/744000131541969) | 68 | Milpitas, CA | AI/ML/Data | 2026-06-10 |
 
 ## Saronic
 
