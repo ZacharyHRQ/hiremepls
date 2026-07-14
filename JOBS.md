@@ -1,6 +1,6 @@
 # Open Internships
 
-**1148** internships across **69/69** companies — last updated 2026-07-14.
+**1160** internships across **69/69** companies — last updated 2026-07-14.
 
 ## Companies
 
@@ -40,6 +40,7 @@
 - [AQR](#aqr) (8)
 - [Aquatic](#aquatic) (1)
 - [Aquatic Capital](#aquatic-capital) (1)
+- [Argmax](#argmax) (1)
 - [Arlington County VA](#arlington-county-va) (1)
 - [Arlo](#arlo) (2)
 - [ASML](#asml) (2)
@@ -55,7 +56,7 @@
 - [AXQ Capital](#axq-capital) (1)
 - [BAE Systems](#bae-systems) (2)
 - [Bank of America](#bank-of-america) (1)
-- [Bank of Montreal](#bank-of-montreal) (1)
+- [Bank of Montreal](#bank-of-montreal) (2)
 - [Barkback](#barkback) (1)
 - [Base Power](#base-power) (3)
 - [BDO Canada](#bdo-canada) (1)
@@ -87,6 +88,7 @@
 - [ByteDance](#bytedance) (32)
 - [CACI](#caci) (1)
 - [Cadence Design Systems](#cadence-design-systems) (2)
+- [CalAmp](#calamp) (1)
 - [Capella](#capella) (2)
 - [Capital One](#capital-one) (2)
 - [CareScout](#carescout) (1)
@@ -244,6 +246,7 @@
 - [KPH Healthcare Services](#kph-healthcare-services) (1)
 - [KRAFTON](#krafton) (1)
 - [Kudu Dynamics](#kudu-dynamics) (1)
+- [Kulicke & Soffa](#kulicke-soffa) (2)
 - [Lambda](#lambda) (1)
 - [Landis+Gyr](#landis-gyr) (1)
 - [Lawrence Livermore National Laboratory (LLNL)](#lawrence-livermore-national-laboratory-llnl) (2)
@@ -269,6 +272,7 @@
 - [Medpace](#medpace) (1)
 - [Medpace, Inc.](#medpace-inc) (3)
 - [Melotech](#melotech) (3)
+- [Menasha Corporation](#menasha-corporation) (1)
 - [Mercor](#mercor) (1)
 - [Meshy](#meshy) (2)
 - [Meta](#meta) (17)
@@ -285,13 +289,14 @@
 - [Nash](#nash) (1)
 - [National Laboratory of the Rockies](#national-laboratory-of-the-rockies) (1)
 - [Navaide](#navaide) (1)
+- [Navy Federal](#navy-federal) (2)
 - [NBCUniversal](#nbcuniversal) (2)
 - [Nelnet](#nelnet) (1)
 - [Nestle](#nestle) (1)
 - [Netflix](#netflix) (2)
 - [Neuralink](#neuralink) (3)
 - [NewsBreak](#newsbreak) (1)
-- [Nextiva](#nextiva) (1)
+- [NextGen Federal Systems](#nextgen-federal-systems) (2)
 - [Nightwing Intelligence Solutions](#nightwing-intelligence-solutions) (2)
 - [Nio](#nio) (1)
 - [Nissan Global](#nissan-global) (1)
@@ -350,7 +355,7 @@
 - [RFCUNY](#rfcuny) (1)
 - [Rippling](#rippling) (3)
 - [Rise8](#rise8) (1)
-- [Rivian](#rivian) (1)
+- [Rivian](#rivian) (2)
 - [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (14)
 - [Robert Bosch Venture Capital](#robert-bosch-venture-capital) (2)
 - [Robinhood](#robinhood) (1)
@@ -418,6 +423,7 @@
 - [TikTok](#tiktok) (67)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
+- [TMX Group](#tmx-group) (1)
 - [Together AI](#together-ai) (3)
 - [Topel Forman LLC](#topel-forman-llc) (1)
 - [Torc Robotics](#torc-robotics) (1)
@@ -446,6 +452,7 @@
 - [Viridien](#viridien) (1)
 - [Vital Lyfe](#vital-lyfe) (1)
 - [VITAL LYFE](#vital-lyfe) (1)
+- [Voloridge](#voloridge) (1)
 - [Voloridge Investment Management](#voloridge-investment-management) (1)
 - [W.R. Berkley](#w-r-berkley) (1)
 - [Waabi](#waabi) (2)
@@ -727,6 +734,12 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/embed/job_app?for=aquaticcapitalmanagement&jr_id=6a06fd77152f493123c4b595&token=8489233002) | 93 | Chicago, IL | — | 2026-07-09 |
 
+## Argmax
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [On-device AI Frameworks Engineer Intern](https://job-boards.greenhouse.io/argmax/jobs/4067268009) | 93 | Palo Alto, CA / Union City, NJ | Software | 2026-07-14 |
+
 ## Arlington County VA
 
 | Title | Score | Location | Department | First seen |
@@ -844,6 +857,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [AI Engineer Co-op/Intern - 4 months](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/AI-Engineer--Fall-2026-Co-op-Internship---4-months_R260015224) | 93 | Toronto, ON, Canada | AI/ML/Data | 2026-07-14 |
 | [Data Scientist Co-op/Internship - Months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879) | 93 | Toronto, ON, Canada | AI/ML/Data | 2026-07-07 |
 
 ## Barkback
@@ -1073,6 +1087,12 @@
 | [Characterization and Support Intern](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Intern---Characterization-and-Support_R54998) | 58 | San Jose, CA | Hardware | 2026-07-07 |
 | [Product Engineering Intern - Simulation and Verification](https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Product-Engineering-Internship--Simulation-and-Verification--Fall-2026-_R53475) | 68 | Burlington, MA | Software | 2026-07-01 |
 
+## CalAmp
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Product Management Intern](https://careers-calamp.icims.com/jobs/4349/job?mobile=true&needsRedirect=false) | 50 | Carlsbad, CA | Product | 2026-07-14 |
+
 ## Capella
 
 | Title | Score | Location | Department | First seen |
@@ -1209,7 +1229,7 @@
 | [Technical Support Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8041135?gh_jid=8041135) | 58 | In-Office | — | 2026-07-03 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
 | [Sales Project Manager Intern (AI Innovation) (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8020830?gh_jid=8020830) | 38 | In-Office | — | 2026-06-23 |
 | [People Team Intern - HR Operations & AI Innovation (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240) | 58 | In-Office | — | 2026-05-20 |
 | [Global Trade Compliance Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7799138?gh_jid=7799138) | 58 | In-Office | — | 2026-05-06 |
@@ -2205,6 +2225,13 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183714) | 93 | Chantilly, VA | — | 2026-07-09 |
 
+## Kulicke & Soffa
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [BB Process Engineering Intern](https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11508) | 60 | Ambler, PA | Software | 2026-07-14 |
+| [Software Intern](https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11499) | 60 | Ambler, PA | Hardware | 2026-07-14 |
+
 ## Lambda
 
 | Title | Score | Location | Department | First seen |
@@ -2368,6 +2395,12 @@
 | [Full-Stack Developer Intern - Music & Audio](https://jobs.ashbyhq.com/melotech/15af19d9-a318-45a6-8a06-23053ea487a5/application) | 93 | London, UK / SF / LA / NYC / Berlin, Germany | Software | 2026-05-19 |
 | [Data Science Intern - Music & Audio](https://jobs.ashbyhq.com/melotech/f2f3e785-12a0-4d30-be43-e6c5c119a6c2/application) | 68 | London, UK / SF / LA / NYC / Berlin, Germany | AI/ML/Data | 2026-05-19 |
 
+## Menasha Corporation
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Application Engineer Intern](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Troy-Michigan/Application-Engineer-Intern--Summer-2026-_R13999) | 93 | Troy, MI | Software | 2026-07-14 |
+
 ## Mercor
 
 | Title | Score | Location | Department | First seen |
@@ -2486,6 +2519,13 @@
 | --- | --- | --- | --- | --- |
 | [Technology & Innovation Intern](https://navaide.breezy.hr/p/3fe610df21d6/apply) | 60 | Arlington, VA / San Diego, CA | AI/ML/Data | 2026-06-18 |
 
+## Navy Federal
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Frontend Application Engineer Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/29776) | 85 | Pensacola, FL / Vienna, VA | Software | 2026-07-14 |
+| [Year Round Intern - Business Intelligence Analyst](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/30289) | 60 | Winchester, VA / Vienna, VA | AI/ML/Data | 2026-07-14 |
+
 ## NBCUniversal
 
 | Title | Score | Location | Department | First seen |
@@ -2526,11 +2566,12 @@
 | --- | --- | --- | --- | --- |
 | [Research Intern - Agent Reinforcement Learning Training](https://job-boards.greenhouse.io/newsbreak/jobs/4684555006) | 68 | Mountain View, CA | AI/ML/Data | 2026-05-27 |
 
-## Nextiva
+## NextGen Federal Systems
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [AI Engineer Intern](https://www.nextiva.com/company/careers-listing?gh_jid=8612423002) | 85 | Scottsdale, AZ | AI/ML/Data | 2026-07-13 |
+| [Software Engineer Intern](https://jobs.lever.co/nextgenfed/54d1576e-c3d9-454a-b1a2-dac0b2fe5920/apply) | 93 | Remote in USA | Software | 2026-07-14 |
+| [Data Science & Machine Learning Intern](https://jobs.lever.co/nextgenfed/35e13d92-343a-4c17-9789-1a6a9cff2bc6/apply) | 68 | Remote in USA | AI/ML/Data | 2026-07-14 |
 
 ## Nightwing Intelligence Solutions
 
@@ -2826,8 +2867,8 @@
 | [2027 Technology Development Intern – IIT Kanpur](https://boards.greenhouse.io/point72/jobs/8617343002?gh_jid=8617343002) | 58 | India, Bengaluru | — | 2026-07-02 |
 | [Corporate Access, off-cycle internship (6-months) – Japanese speaking](https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002) | 58 | Hong Kong | — | 2026-06-30 |
 | [Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7586061002) | 93 | NYC | Quant | 2026-05-09 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -2972,6 +3013,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Machine Learning Compiler Intern - Machine Learning Compiler](https://careers.rivian.com/jobs/29851?icims=1) | 60 | Urbana, IL | AI/ML/Data | 2026-07-14 |
 | [UIUC Research Park Intern - Validation](https://careers.rivian.com/jobs/29771?lang=en-us&icims=1) | 50 | Urbana, IL | Hardware | 2026-07-14 |
 
 ## Rivian and Volkswagen Group Technologies
@@ -3613,6 +3655,12 @@
 | --- | --- | --- | --- | --- |
 | [Intern - Applications, AI and Machine Learning](https://apply.workable.com/tmeic-corporation-americas/j/FD4C9770FF/) | 68 | Roanoke, VA | Data Science, AI & Machine Learning | 2026-05-09 |
 
+## TMX Group
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer Intern - Java](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Software-Engineer-Intern--Java-_R-6219) | 93 | Toronto, ON, Canada | Software | 2026-07-14 |
+
 ## Together AI
 
 | Title | Score | Location | Department | First seen |
@@ -3788,6 +3836,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af) | 68 | Los Angeles, CA | — | 2026-07-10 |
+
+## Voloridge
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Quantitative Developer Intern](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009) | 93 | Jupiter, FL | Quant | 2026-07-14 |
 
 ## Voloridge Investment Management
 
