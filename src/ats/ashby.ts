@@ -5,7 +5,9 @@ interface AshbyJob {
   title: string;
   jobUrl: string;
   locationName?: string;
+  department?: string;
   departmentName?: string;
+  team?: string;
   employmentType?: string;
 }
 
@@ -21,7 +23,7 @@ export async function fetchAshby(company: Company): Promise<Job[]> {
     title: j.title,
     url: j.jobUrl,
     location: j.locationName ?? "",
-    department: j.departmentName ?? "",
+    department: j.departmentName ?? j.department ?? j.team ?? "",
     company: company.name,
   }));
 }

@@ -7,6 +7,7 @@ export type AtsKind =
   | "vanshb03"
   | "githubMarkdown"
   | "githubJson"
+  | "ripplingAlgolia"
   | "smartrecruiters"
   | "workable";
 

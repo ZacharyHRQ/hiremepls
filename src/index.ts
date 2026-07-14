@@ -7,6 +7,7 @@ import { fetchSimplify } from "./ats/simplify.ts";
 import { fetchVanshb03 } from "./ats/vanshb03.ts";
 import { fetchGithubMarkdown } from "./ats/githubMarkdown.ts";
 import { fetchGithubJson } from "./ats/githubJson.ts";
+import { fetchRipplingAlgolia } from "./ats/ripplingAlgolia.ts";
 import { fetchSmartRecruiters } from "./ats/smartrecruiters.ts";
 import { fetchWorkable } from "./ats/workable.ts";
 import {
@@ -49,6 +50,7 @@ async function fetchCompany(c: Company): Promise<Job[]> {
   if (c.ats === "vanshb03") return fetchVanshb03(c);
   if (c.ats === "githubMarkdown") return fetchGithubMarkdown(c);
   if (c.ats === "githubJson") return fetchGithubJson(c);
+  if (c.ats === "ripplingAlgolia") return fetchRipplingAlgolia(c);
   if (c.ats === "smartrecruiters") return fetchSmartRecruiters(c);
   if (c.ats === "workable") return fetchWorkable(c);
   throw new Error(`unknown ats: ${c.ats}`);
