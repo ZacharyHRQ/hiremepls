@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-14T23:09:45.194Z",
+  "generatedAt": "2026-07-15T00:03:05.499Z",
   "companyCount": 69,
   "okCount": 69,
-  "jobCount": 1160,
+  "jobCount": 1163,
   "firstSeen": {
     "canonical:822f979beef7ebc5": "2026-05-06T06:42:07.596Z",
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
@@ -1163,7 +1163,10 @@
     "canonical:0bb441aaea8c229d": "2026-07-14T23:09:45.194Z",
     "canonical:c44df2462902407d": "2026-07-14T23:09:45.194Z",
     "canonical:0da11cb18d22855a": "2026-07-14T23:09:45.194Z",
-    "canonical:c17233719bef91b4": "2026-07-14T23:09:45.194Z"
+    "canonical:c17233719bef91b4": "2026-07-14T23:09:45.194Z",
+    "canonical:69c75e01b56b435e": "2026-07-15T00:03:05.499Z",
+    "canonical:11bf5d076c1ef7ce": "2026-07-15T00:03:05.499Z",
+    "canonical:b28e03b8d5ddfd5c": "2026-07-15T00:03:05.499Z"
   },
   "jobs": [
     {
@@ -13481,6 +13484,47 @@
       "company": "CalAmp",
       "score": 50,
       "scoreReasons": []
+    },
+    {
+      "id": "canonical:69c75e01b56b435e",
+      "title": "Growth Engineer Intern - Growth Engineering",
+      "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4697070006",
+      "location": "Mountain View, CA",
+      "department": "AI/ML/Data",
+      "company": "NewsBreak",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:11bf5d076c1ef7ce",
+      "title": "Graduate Intern - Transportation Systems Analysis",
+      "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Transportation-Systems-Analysis_R14153",
+      "location": "Golden, CO",
+      "department": "AI/ML/Data",
+      "company": "National Laboratory of the Rockies",
+      "score": 74,
+      "scoreReasons": [
+        "high-signal role",
+        "new grad",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:b28e03b8d5ddfd5c",
+      "title": "AI & Strategic Analytics Intern",
+      "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/AI---Strategic-Analytics-Intern---Fall-2026_JR0150114",
+      "location": "Mississauga, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "McKesson",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
     },
     {
       "id": "canonical:12cd06c0eec80152",

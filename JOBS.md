@@ -1,6 +1,6 @@
 # Open Internships
 
-**1160** internships across **69/69** companies — last updated 2026-07-14.
+**1163** internships across **69/69** companies — last updated 2026-07-15.
 
 ## Companies
 
@@ -267,7 +267,7 @@
 - [Marvell](#marvell) (1)
 - [Maxima](#maxima) (1)
 - [MCG Health](#mcg-health) (1)
-- [McKesson](#mckesson) (2)
+- [McKesson](#mckesson) (3)
 - [Medical Informatics Engineering](#medical-informatics-engineering) (1)
 - [Medpace](#medpace) (1)
 - [Medpace, Inc.](#medpace-inc) (3)
@@ -287,7 +287,7 @@
 - [MyEmployment](#myemployment) (1)
 - [Naïve](#na-ve) (1)
 - [Nash](#nash) (1)
-- [National Laboratory of the Rockies](#national-laboratory-of-the-rockies) (1)
+- [National Laboratory of the Rockies](#national-laboratory-of-the-rockies) (2)
 - [Navaide](#navaide) (1)
 - [Navy Federal](#navy-federal) (2)
 - [NBCUniversal](#nbcuniversal) (2)
@@ -295,7 +295,7 @@
 - [Nestle](#nestle) (1)
 - [Netflix](#netflix) (2)
 - [Neuralink](#neuralink) (3)
-- [NewsBreak](#newsbreak) (1)
+- [NewsBreak](#newsbreak) (2)
 - [NextGen Federal Systems](#nextgen-federal-systems) (2)
 - [Nightwing Intelligence Solutions](#nightwing-intelligence-solutions) (2)
 - [Nio](#nio) (1)
@@ -2364,6 +2364,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [AI & Strategic Analytics Intern](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/AI---Strategic-Analytics-Intern---Fall-2026_JR0150114) | 68 | Mississauga, ON, Canada | AI/ML/Data | 2026-07-15 |
 | [Data Governance Analyst Intern](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Data-Governance-Analyst-Intern---Fall-2026_JR0149860) | 68 | Mississauga, ON, Canada | AI/ML/Data | 2026-07-09 |
 | [Supply Chain Engineering and Analytics Intern](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-BC-Surrey/Supply-Chain-Engineering-and-Analytics-Intern---Fall-2026_JR0149819) | 68 | Surrey, BC, Canada | AI/ML/Data | 2026-07-02 |
 
@@ -2511,6 +2512,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Graduate Intern - Transportation Systems Analysis](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Transportation-Systems-Analysis_R14153) | 74 | Golden, CO | AI/ML/Data | 2026-07-15 |
 | [Energy Data Analysis Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Remote/Energy-Data-Analysis----Year-Round--Graduate-Internship_R14400) | 68 | Golden, CO | AI/ML/Data | 2026-07-13 |
 
 ## Navaide
@@ -2564,6 +2566,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Growth Engineer Intern - Growth Engineering](https://job-boards.greenhouse.io/newsbreak/jobs/4697070006) | 93 | Mountain View, CA | AI/ML/Data | 2026-07-15 |
 | [Research Intern - Agent Reinforcement Learning Training](https://job-boards.greenhouse.io/newsbreak/jobs/4684555006) | 68 | Mountain View, CA | AI/ML/Data | 2026-05-27 |
 
 ## NextGen Federal Systems
