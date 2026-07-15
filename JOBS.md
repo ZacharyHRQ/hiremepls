@@ -70,7 +70,6 @@
 - [Blackstone](#blackstone) (1)
 - [BlinqLABS](#blinqlabs) (1)
 - [Block](#block) (2)
-- [Blockhouse](#blockhouse) (1)
 - [Blue & Co., LLC](#blue-co-llc) (1)
 - [Blue Bolt Partners](#blue-bolt-partners) (1)
 - [Blue Cross Blue Shield of Michigan](#blue-cross-blue-shield-of-michigan) (1)
@@ -281,7 +280,6 @@
 - [Mercor](#mercor) (1)
 - [Meshy](#meshy) (2)
 - [Meta](#meta) (17)
-- [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (1)
 - [Microchip Technology](#microchip-technology) (2)
 - [Microsoft](#microsoft) (1)
 - [Mindsmith](#mindsmith) (1)
@@ -375,6 +373,7 @@
 - [Scale AI](#scale-ai) (3)
 - [Schonfeld](#schonfeld) (4)
 - [Seaspan](#seaspan) (2)
+- [Sentara Health](#sentara-health) (1)
 - [Serval](#serval) (1)
 - [Seven Research](#seven-research) (4)
 - [Sezzle](#sezzle) (1)
@@ -417,7 +416,7 @@
 - [The D. E. Shaw Group](#the-d-e-shaw-group) (1)
 - [The Exploration Company](#the-exploration-company) (1)
 - [The Tatitlek Corporation](#the-tatitlek-corporation) (1)
-- [The Trade Desk](#the-trade-desk) (1)
+- [The Trade Desk](#the-trade-desk) (2)
 - [The University of Edinburgh](#the-university-of-edinburgh) (1)
 - [The Wonderful Company](#the-wonderful-company) (1)
 - [thyssenkrupp](#thyssenkrupp) (2)
@@ -942,12 +941,6 @@
 | [Applied Research Intern PhD / Graduate Co-op](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) | 66 | Oakland, CA | AI/ML/Data | 2026-06-09 |
 | [Applied Research Intern Co-op](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008) | 60 | Toronto, ON, Canada | AI/ML/Data | 2026-06-09 |
 
-## Blockhouse
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Rust Developer Intern](https://jobs.ashbyhq.com/blockhouse/42a3066f-683c-4b32-b097-5047e89dd12c/application) | 93 | Detroit, MI / NYC | Software | 2026-05-09 |
-
 ## Blue & Co., LLC
 
 | Title | Score | Location | Department | First seen |
@@ -1243,7 +1236,7 @@
 | [Technical Support Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8041135?gh_jid=8041135) | 58 | In-Office | — | 2026-07-03 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
 | [Sales Project Manager Intern (AI Innovation) (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8020830?gh_jid=8020830) | 38 | In-Office | — | 2026-06-23 |
 | [People Team Intern - HR Operations & AI Innovation (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240) | 58 | In-Office | — | 2026-05-20 |
 | [Global Trade Compliance Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7799138?gh_jid=7799138) | 58 | In-Office | — | 2026-05-06 |
@@ -1489,8 +1482,8 @@
 | [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7992936) | 93 | Chicago, IL | Software | 2026-07-13 |
 | [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7668776) | 68 | Chicago, IL | Quant | 2026-07-13 |
 | [FPGA Intern](https://job-boards.greenhouse.io/drweng/jobs/8038923) | 58 | Chicago, IL | Hardware | 2026-07-13 |
-| [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7942281) | 93 | London, UK | Software | 2026-07-13 |
 | [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7991196) | 93 | Montreal | — | 2026-07-13 |
+| [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7942281) | 93 | London, UK | Software | 2026-07-13 |
 | [AI/ML Research Intern](https://job-boards.greenhouse.io/drweng/jobs/7991171) | 68 | Montreal | — | 2026-07-13 |
 | [Quantitative Research Intern](https://job-boards.greenhouse.io/drweng/jobs/7818540) | 68 | Chicago, New York City | — | 2026-07-13 |
 | [Leadership Rotation Network Intern](https://job-boards.greenhouse.io/drweng/jobs/7993195) | 58 | Chicago, IL | — | 2026-07-13 |
@@ -2043,8 +2036,8 @@
 | [Hardware Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) | 58 | Chicago, United States | — | 2026-07-01 |
 | [Graduate Quantitative Researcher](https://job-boards.eu.greenhouse.io/imc/jobs/4892687101) | 99 | Zug, Switzerland | — | 2026-06-12 |
 | [Hardware Machine Learning PhD Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, IL | AI/ML/Data | 2026-05-09 |
-| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
+| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Graduate Floor Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4786701101) | 64 | Chicago, United States; Miami, United States; New York, United States; Philadelphia, United States; San Francisco, United States | — | 2026-05-06 |
 
 ## Impulse Space
@@ -2467,12 +2460,6 @@
 | [Research Scientist Intern, Advanced Materials for Soft Robotics (PhD)](https://www.metacareers.com/profile/job_details/25514049594874160) | 75 | Redmond, WA | Hardware Engineering | 2026-05-09 |
 | [Research Scientist Intern, Organic Optoelectronic Materials (PhD)](https://www.metacareers.com/profile/job_details/843617948284299) | 75 | Redmond, WA | Hardware Engineering | 2026-05-09 |
 | [Research Scientist Intern, Computational Chemist](https://www.metacareers.com/profile/job_details/2059739221232640) | 60 | Redmond, WA | Data Science, AI & Machine Learning | 2026-05-09 |
-
-## Metropolitan Transportation Authority
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Analyst Intern - Power Control Center](https://jobs.jobvite.com/metropolitantransportationauthority/job/onr7zfwe?nl=1&nl=1&fr=false) | 60 | NYC | AI/ML/Data | 2026-05-14 |
 
 ## Microchip Technology
 
@@ -3159,6 +3146,12 @@
 | [Energy Management Intern](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8356) | 60 | Vancouver, BC, Canada | AI/ML/Data | 2026-06-10 |
 | [Digital Ship Intern](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8754) | 60 | Vancouver, BC, Canada | Software | 2026-06-08 |
 
+## Sentara Health
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Enterprise Data & AI Intern- Fall 2026 Internship](https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Enterprise-Data---AI-Intern--Fall-2026-Internship_JR-102685) | 68 | Virginia Beach, VA | Data & ML/AI / Fall 2026 | 2026-07-15 |
+
 ## Serval
 
 | Title | Score | Location | Department | First seen |
@@ -3556,6 +3549,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [2027 North America Software Engineering Internship](https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007) | 68 | Bellevue; Boulder; Denver; Irvine; New York; Seattle | Software / Summer 2027 | 2026-07-15 |
 | [2026 North America Software Engineering Internship](https://www.linkedin.com/jobs/view/4270526982) | 52 | Boulder, CO | — | 2026-07-09 |
 
 ## The University of Edinburgh
