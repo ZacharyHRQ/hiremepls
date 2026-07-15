@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-15T14:41:21.741Z",
+  "generatedAt": "2026-07-15T16:07:29.715Z",
   "companyCount": 69,
   "okCount": 69,
-  "jobCount": 1162,
+  "jobCount": 1161,
   "firstSeen": {
     "canonical:822f979beef7ebc5": "2026-05-06T06:42:07.596Z",
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
@@ -30,7 +30,6 @@
     "canonical:d277a6a426412a6c": "2026-05-06T06:42:07.596Z",
     "canonical:ad23aadfeb5e4fdd": "2026-05-06T06:42:07.596Z",
     "canonical:40b5e3e02c34b6ce": "2026-05-09T15:28:15.527Z",
-    "canonical:784e76513f221fdf": "2026-05-09T15:28:15.527Z",
     "canonical:18efc38bdb3d5093": "2026-05-09T15:28:15.527Z",
     "canonical:de426bbfba6818ef": "2026-05-09T15:28:15.527Z",
     "canonical:0eba384396bae400": "2026-05-09T15:28:15.527Z",
@@ -3183,7 +3182,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -3351,19 +3350,6 @@
       "company": "Cribl",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:784e76513f221fdf",
-      "title": "2026 Summer Intern, MS/PhD, Software Engineer, Planner Reasoning ML/DL",
-      "url": "https://careers.withwaymo.com/jobs/2026-summer-intern-ms-phd-software-engineer-planner-reasoning-ml-dl-mountain-view-california-united-states?gh_jid=7393132",
-      "location": "Mountain View, CA",
-      "department": "Data Science, AI & Machine Learning",
-      "company": "Waymo",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
     },
     {
       "id": "canonical:18efc38bdb3d5093",
