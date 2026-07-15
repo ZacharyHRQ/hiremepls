@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T20:49:11.427Z",
+  "generatedAt": "2026-07-15T21:47:19.670Z",
   "companyCount": 69,
   "okCount": 69,
   "jobCount": 1157,
@@ -1104,7 +1104,6 @@
     "canonical:1f1ff9bf6f98e35f": "2026-07-13T23:32:08.883Z",
     "canonical:0112152435b82dad": "2026-07-13T23:32:08.883Z",
     "canonical:ebb3f41446c4f107": "2026-07-13T23:32:08.883Z",
-    "canonical:5cd6364a43e655f2": "2026-07-13T23:32:08.883Z",
     "canonical:52a5fdec400b2930": "2026-07-13T23:32:08.883Z",
     "canonical:5f700f46712af0b4": "2026-07-13T23:32:08.883Z",
     "canonical:35ca393cde137082": "2026-07-13T23:32:08.883Z",
@@ -1160,7 +1159,8 @@
     "canonical:81f4619a2b5155ca": "2026-07-15T17:35:56.580Z",
     "canonical:b06ae83b159eb239": "2026-07-15T17:35:56.580Z",
     "canonical:fcfdd39100036941": "2026-07-15T18:43:39.094Z",
-    "canonical:6fbcace9a38d133f": "2026-07-15T18:43:39.094Z"
+    "canonical:6fbcace9a38d133f": "2026-07-15T18:43:39.094Z",
+    "canonical:d14a513f8325af8e": "2026-07-15T21:47:19.670Z"
   },
   "jobs": [
     {
@@ -2972,16 +2972,31 @@
       ]
     },
     {
-      "id": "canonical:a67713b89b2d0000",
-      "title": "AI Research Scientist, New Grad – Agents & Reinforcement Learning",
-      "url": "https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698",
+      "id": "canonical:e437588bebae9943",
+      "title": "Software Engineer Intern - Berlin (2026)",
+      "url": "https://jobs.ashbyhq.com/snowflake/41e65c6c-a01e-4f40-af14-ae75d3b95e27",
       "location": "",
       "department": "",
       "company": "Snowflake",
-      "score": 86,
+      "score": 90,
       "scoreReasons": [
         "SWE-aligned",
-        "new grad",
+        "high-signal role",
+        "direct ATS",
+        "unknown location"
+      ]
+    },
+    {
+      "id": "canonical:f72a57f59571d881",
+      "title": "Software Engineer Intern (AI/ML) - 2026",
+      "url": "https://jobs.ashbyhq.com/snowflake/897e1850-c590-4462-b187-0516b65b2034",
+      "location": "",
+      "department": "",
+      "company": "Snowflake",
+      "score": 90,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
         "direct ATS",
         "unknown location"
       ]
@@ -3002,6 +3017,32 @@
       ]
     },
     {
+      "id": "canonical:30d30348d76c74bb",
+      "title": "EMEA Communications Intern",
+      "url": "https://jobs.ashbyhq.com/snowflake/b696164c-4865-43f4-940d-b5353755748f",
+      "location": "",
+      "department": "",
+      "company": "Snowflake",
+      "score": 55,
+      "scoreReasons": [
+        "direct ATS",
+        "unknown location"
+      ]
+    },
+    {
+      "id": "canonical:5fc518fc7b2d3289",
+      "title": "SDR Intern - Munich ",
+      "url": "https://jobs.ashbyhq.com/snowflake/a4753822-7581-4cf3-8fcc-856f54d684b0",
+      "location": "",
+      "department": "",
+      "company": "Snowflake",
+      "score": 55,
+      "scoreReasons": [
+        "direct ATS",
+        "unknown location"
+      ]
+    },
+    {
       "id": "canonical:e6d9cce14ccbac53",
       "title": "Product Marketing Intern (Fall 2026)",
       "url": "https://jobs.ashbyhq.com/snowflake/3ac79875-b7bb-4078-b9c4-3bd5636e5d9c",
@@ -3016,17 +3057,44 @@
       ]
     },
     {
-      "id": "canonical:e437588bebae9943",
-      "title": "Software Engineer Intern - Berlin (2026)",
-      "url": "https://jobs.ashbyhq.com/snowflake/41e65c6c-a01e-4f40-af14-ae75d3b95e27",
+      "id": "canonical:80683ba5e9cf44e3",
+      "title": "Government Affairs Intern",
+      "url": "https://jobs.ashbyhq.com/snowflake/cade83ae-9727-4497-8e73-8a310a8b6a85",
       "location": "",
       "department": "",
       "company": "Snowflake",
-      "score": 90,
+      "score": 55,
+      "scoreReasons": [
+        "direct ATS",
+        "unknown location"
+      ]
+    },
+    {
+      "id": "canonical:a67713b89b2d0000",
+      "title": "AI Research Scientist, New Grad – Agents & Reinforcement Learning",
+      "url": "https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698",
+      "location": "",
+      "department": "",
+      "company": "Snowflake",
+      "score": 86,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
+        "new grad",
         "direct ATS",
+        "unknown location"
+      ]
+    },
+    {
+      "id": "canonical:97f386a84a1889d1",
+      "title": "Marketing Operations Intern (Fall 2026)",
+      "url": "https://jobs.ashbyhq.com/snowflake/8866f98e-ec0c-4d04-9b38-7c9299e858e8",
+      "location": "",
+      "department": "",
+      "company": "Snowflake",
+      "score": 35,
+      "scoreReasons": [
+        "direct ATS",
+        "lower-fit title",
         "unknown location"
       ]
     },
@@ -3048,74 +3116,6 @@
       "id": "canonical:525e6e83e886b36a",
       "title": "AI-Powered BI Intern: Fall 2026",
       "url": "https://jobs.ashbyhq.com/snowflake/634e9517-583c-446c-9a13-c0c5fe5960bb",
-      "location": "",
-      "department": "",
-      "company": "Snowflake",
-      "score": 55,
-      "scoreReasons": [
-        "direct ATS",
-        "unknown location"
-      ]
-    },
-    {
-      "id": "canonical:97f386a84a1889d1",
-      "title": "Marketing Operations Intern (Fall 2026)",
-      "url": "https://jobs.ashbyhq.com/snowflake/8866f98e-ec0c-4d04-9b38-7c9299e858e8",
-      "location": "",
-      "department": "",
-      "company": "Snowflake",
-      "score": 35,
-      "scoreReasons": [
-        "direct ATS",
-        "lower-fit title",
-        "unknown location"
-      ]
-    },
-    {
-      "id": "canonical:f72a57f59571d881",
-      "title": "Software Engineer Intern (AI/ML) - 2026",
-      "url": "https://jobs.ashbyhq.com/snowflake/897e1850-c590-4462-b187-0516b65b2034",
-      "location": "",
-      "department": "",
-      "company": "Snowflake",
-      "score": 90,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS",
-        "unknown location"
-      ]
-    },
-    {
-      "id": "canonical:5fc518fc7b2d3289",
-      "title": "SDR Intern - Munich ",
-      "url": "https://jobs.ashbyhq.com/snowflake/a4753822-7581-4cf3-8fcc-856f54d684b0",
-      "location": "",
-      "department": "",
-      "company": "Snowflake",
-      "score": 55,
-      "scoreReasons": [
-        "direct ATS",
-        "unknown location"
-      ]
-    },
-    {
-      "id": "canonical:30d30348d76c74bb",
-      "title": "EMEA Communications Intern",
-      "url": "https://jobs.ashbyhq.com/snowflake/b696164c-4865-43f4-940d-b5353755748f",
-      "location": "",
-      "department": "",
-      "company": "Snowflake",
-      "score": 55,
-      "scoreReasons": [
-        "direct ATS",
-        "unknown location"
-      ]
-    },
-    {
-      "id": "canonical:80683ba5e9cf44e3",
-      "title": "Government Affairs Intern",
-      "url": "https://jobs.ashbyhq.com/snowflake/cade83ae-9727-4497-8e73-8a310a8b6a85",
       "location": "",
       "department": "",
       "company": "Snowflake",
@@ -3178,7 +3178,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -3234,6 +3234,20 @@
       "scoreReasons": [
         "direct ATS",
         "lower-fit title"
+      ]
+    },
+    {
+      "id": "canonical:d14a513f8325af8e",
+      "title": "Security Engineer Intern (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8060959?gh_jid=8060959",
+      "location": "In-Office",
+      "department": "",
+      "company": "Cloudflare",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -12993,19 +13007,6 @@
       "company": "TikTok",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:5cd6364a43e655f2",
-      "title": "Software Engineer Intern",
-      "url": "https://www.citadelsecurities.com/careers/details/software-engineer-intern-us-2/",
-      "location": "London, UK",
-      "department": "Software",
-      "company": "Citadel Securities",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
     },
     {
       "id": "canonical:52a5fdec400b2930",
