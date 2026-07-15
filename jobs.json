@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-15T12:48:03.230Z",
+  "generatedAt": "2026-07-15T14:41:21.741Z",
   "companyCount": 69,
   "okCount": 69,
-  "jobCount": 1159,
+  "jobCount": 1162,
   "firstSeen": {
     "canonical:822f979beef7ebc5": "2026-05-06T06:42:07.596Z",
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
@@ -267,7 +267,6 @@
     "canonical:57b0c9722c64bac8": "2026-05-21T15:49:52.856Z",
     "canonical:c2e243ddc795c511": "2026-05-21T22:46:51.402Z",
     "canonical:e38f32d3beabadc1": "2026-05-21T23:51:28.973Z",
-    "canonical:6f1c4b11d1e2a83e": "2026-05-21T23:51:28.973Z",
     "canonical:f9b534af9c523d1d": "2026-05-21T23:51:28.973Z",
     "canonical:2cbad48755d82365": "2026-05-21T23:51:28.973Z",
     "canonical:87f6386de9672675": "2026-05-22T09:54:00.041Z",
@@ -1112,7 +1111,6 @@
     "canonical:81c0f29f101f3da7": "2026-07-13T23:32:08.883Z",
     "canonical:1f1ff9bf6f98e35f": "2026-07-13T23:32:08.883Z",
     "canonical:0112152435b82dad": "2026-07-13T23:32:08.883Z",
-    "canonical:0e1e743075aa9a24": "2026-07-13T23:32:08.883Z",
     "canonical:ebb3f41446c4f107": "2026-07-13T23:32:08.883Z",
     "canonical:5cd6364a43e655f2": "2026-07-13T23:32:08.883Z",
     "canonical:52a5fdec400b2930": "2026-07-13T23:32:08.883Z",
@@ -1147,7 +1145,6 @@
     "canonical:154aa86837b41aa3": "2026-07-14T23:09:45.194Z",
     "canonical:36b556c01ba74b0d": "2026-07-14T23:09:45.194Z",
     "canonical:ccf5a2571af6dded": "2026-07-14T23:09:45.194Z",
-    "canonical:0bb441aaea8c229d": "2026-07-14T23:09:45.194Z",
     "canonical:c44df2462902407d": "2026-07-14T23:09:45.194Z",
     "canonical:0da11cb18d22855a": "2026-07-14T23:09:45.194Z",
     "canonical:c17233719bef91b4": "2026-07-14T23:09:45.194Z",
@@ -1162,7 +1159,13 @@
     "canonical:f652b42fc85fb65c": "2026-07-15T05:52:53.357Z",
     "canonical:1a265ff27273b417": "2026-07-15T07:49:32.127Z",
     "canonical:f27c30f5eef5d1fb": "2026-07-15T12:48:03.230Z",
-    "canonical:bc7560e54784ab8d": "2026-07-15T12:48:03.230Z"
+    "canonical:bc7560e54784ab8d": "2026-07-15T12:48:03.230Z",
+    "canonical:f1555b7490d7d9b9": "2026-07-15T14:41:21.741Z",
+    "canonical:18c1469bc3267e0b": "2026-07-15T14:41:21.741Z",
+    "canonical:32d9708995752a28": "2026-07-15T14:41:21.741Z",
+    "canonical:23148067a5bdaf8d": "2026-07-15T14:41:21.741Z",
+    "canonical:5cc577eeec55ba9a": "2026-07-15T14:41:21.741Z",
+    "canonical:34ad7b345edf51e7": "2026-07-15T14:41:21.741Z"
   },
   "jobs": [
     {
@@ -2054,6 +2057,20 @@
       ]
     },
     {
+      "id": "canonical:f9963438d881a851",
+      "title": "Software Developer Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
+      "location": "Amsterdam",
+      "department": "",
+      "company": "DRW",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:1d41c103b87b651a",
       "title": "Software Developer Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
@@ -2073,20 +2090,6 @@
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
       "location": "London, UK",
       "department": "Software",
-      "company": "DRW",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:f9963438d881a851",
-      "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
-      "location": "Amsterdam",
-      "department": "",
       "company": "DRW",
       "score": 93,
       "scoreReasons": [
@@ -7389,20 +7392,6 @@
       "company": "Base Power",
       "score": 58,
       "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:6f1c4b11d1e2a83e",
-      "title": "AI Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/greatquestion/c533196c-75d5-43b8-b1c8-dedf2437d544/application",
-      "location": "SF / Remote in USA",
-      "department": "Software",
-      "company": "Great Question",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
         "direct ATS"
       ]
     },
@@ -13088,20 +13077,6 @@
       ]
     },
     {
-      "id": "canonical:0e1e743075aa9a24",
-      "title": "AI Developer Intern/Co-op",
-      "url": "https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/AI-Developer--Intern-Co-op---REMOTE--Fall-2026-_JR-044467",
-      "location": "Kitchener, ON, Canada",
-      "department": "Software",
-      "company": "Revvity",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:ebb3f41446c4f107",
       "title": "Global Product Operations Manager Intern - Global Business Solutions",
       "url": "https://lifeattiktok.com/search/7660641959426132277",
@@ -13306,20 +13281,6 @@
       ]
     },
     {
-      "id": "canonical:0bb441aaea8c229d",
-      "title": "AI Engineer Co-op/Intern - 4 months",
-      "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/AI-Engineer--Fall-2026-Co-op-Internship---4-months_R260015224",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Bank of Montreal",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:c44df2462902407d",
       "title": "Software Engineer Intern - Java",
       "url": "https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Software-Engineer-Intern--Java-_R-6219",
@@ -13458,6 +13419,87 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f1555b7490d7d9b9",
+      "title": "AI Inference Intern",
+      "url": "https://jobs.ashbyhq.com/Perplexity/79a07e2d-6150-4929-80fe-bbe13a641763/application?embed=true",
+      "location": "London, UK",
+      "department": "AI/ML/Data",
+      "company": "Perplexity AI",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:18c1469bc3267e0b",
+      "title": "Global Product Intern",
+      "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/New-York-NY/XMLNAME-2027-Global-Product-Intern-New-York_R265170",
+      "location": "NYC",
+      "department": "Product",
+      "company": "BlackRock",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:32d9708995752a28",
+      "title": "Graduate Researcher Intern - Machine Learning",
+      "url": "https://jobs.ashbyhq.com/constellationspace/b763d4ba-7b77-479b-89a0-f632d9d02f4a/application?embed=true",
+      "location": "Seattle, WA",
+      "department": "AI/ML/Data",
+      "company": "Constellation Space",
+      "score": 99,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:23148067a5bdaf8d",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/beaconsoftware/2452d342-a069-4eda-adbe-9df296808ca1/application?embed=true",
+      "location": "SF",
+      "department": "Software",
+      "company": "Beacon Software",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:5cc577eeec55ba9a",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.lever.co/make-rain/b45f954e-19df-45b1-8748-c8ae442a2e8b/apply",
+      "location": "El Segundo, CA",
+      "department": "Software",
+      "company": "Rainmaker",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:34ad7b345edf51e7",
+      "title": "Life Cycle Management Intern - Sustainability & Life Cycle Management",
+      "url": "https://evonik.wd3.myworkdayjobs.com/External_Careers/job/Hanau/Praktikant--m-w-d--Sustainability---Life-Cycle-Management_R49998-2",
+      "location": "Neukirchen-Vluyn, Germany / Frankfurt, Germany",
+      "department": "AI/ML/Data",
+      "company": "Evonik",
+      "score": 68,
+      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
