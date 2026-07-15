@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-15T22:48:17.413Z",
+  "generatedAt": "2026-07-15T23:49:46.007Z",
   "companyCount": 69,
   "okCount": 69,
-  "jobCount": 1161,
+  "jobCount": 1167,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1154,7 +1154,6 @@
     "canonical:23148067a5bdaf8d": "2026-07-15T14:41:21.741Z",
     "canonical:5cc577eeec55ba9a": "2026-07-15T14:41:21.741Z",
     "canonical:34ad7b345edf51e7": "2026-07-15T14:41:21.741Z",
-    "canonical:81f4619a2b5155ca": "2026-07-15T17:35:56.580Z",
     "canonical:b06ae83b159eb239": "2026-07-15T17:35:56.580Z",
     "canonical:fcfdd39100036941": "2026-07-15T18:43:39.094Z",
     "canonical:6fbcace9a38d133f": "2026-07-15T18:43:39.094Z",
@@ -1164,7 +1163,14 @@
     "canonical:b76f80c6e44d295b": "2026-07-15T22:48:17.413Z",
     "canonical:ce69206f257dadc3": "2026-07-15T22:48:17.413Z",
     "canonical:a77e967a1117761e": "2026-07-15T22:48:17.413Z",
-    "canonical:dff97d4c81a7d61b": "2026-07-15T22:48:17.413Z"
+    "canonical:dff97d4c81a7d61b": "2026-07-15T22:48:17.413Z",
+    "canonical:8d37d9cb9914fa8e": "2026-07-15T23:49:46.007Z",
+    "canonical:4e38cf81ef08bf49": "2026-07-15T23:49:46.007Z",
+    "canonical:503d23975813fd5c": "2026-07-15T23:49:46.007Z",
+    "canonical:8d6600ff957e9dff": "2026-07-15T23:49:46.007Z",
+    "canonical:25170466c178dd22": "2026-07-15T23:49:46.007Z",
+    "canonical:366830ca3c1a6b87": "2026-07-15T23:49:46.007Z",
+    "canonical:96e71aa5f38e33c1": "2026-07-15T23:49:46.007Z"
   },
   "jobs": [
     {
@@ -12330,6 +12336,20 @@
       ]
     },
     {
+      "id": "canonical:8d37d9cb9914fa8e",
+      "title": "AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer",
+      "url": "https://datasite.wd1.myworkdayjobs.com/datasite/job/USA---NY---New-York-City/AI-Transformation---Forward-Deployed-Engineer--FDE--Intern_R36255",
+      "location": "NYC",
+      "department": "Software",
+      "company": "Datasite",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:8255dd98a0b58fa4",
       "title": "AI in Design & Manufacturing Intern",
       "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/AMER---Canada---Ontario---Toronto---University-Ave/Intern--Model-Based-Systems-Engineering_26WD94900-2",
@@ -13467,6 +13487,82 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:4e38cf81ef08bf49",
+      "title": "Agentic AI Intern",
+      "url": "https://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Boston-Massachusetts-US/Agentic-AI-Intern_R-102729",
+      "location": "Remote in USA",
+      "department": "Software",
+      "company": "DataRobot",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:503d23975813fd5c",
+      "title": "Enterprise Data & AI Intern",
+      "url": "https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Enterprise-Data---AI-Intern--Fall-2026-Internship_JR-102685",
+      "location": "Virginia Beach, VA",
+      "department": "AI/ML/Data",
+      "company": "Sentara Health",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:8d6600ff957e9dff",
+      "title": "Engineering Intern",
+      "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Toronto-Canada/Intern-Engineering_JR14268",
+      "location": "Toronto, ON, Canada",
+      "department": "Hardware",
+      "company": "Generac",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:25170466c178dd22",
+      "title": "Research Intern - Video World Models - Research & ML Systems",
+      "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752",
+      "location": "Palo Alto, CA",
+      "department": "AI/ML/Data",
+      "company": "Tencent",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:366830ca3c1a6b87",
+      "title": "Data Development Intern",
+      "url": "https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5187532007",
+      "location": "Columbia, MD",
+      "department": "AI/ML/Data",
+      "company": "Sparksoft",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:96e71aa5f38e33c1",
+      "title": "Quantitative Research Analyst Intern",
+      "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe-2/",
+      "location": "London, UK",
+      "department": "Quant",
+      "company": "Citadel Securities",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
       ]
     },
     {
@@ -15821,19 +15917,6 @@
       "location": "Bellevue; Boulder; Denver; Irvine; New York; Seattle",
       "department": "Software / Summer 2027",
       "company": "The Trade Desk",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:81f4619a2b5155ca",
-      "title": "Enterprise Data & AI Intern- Fall 2026 Internship",
-      "url": "https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Enterprise-Data---AI-Intern--Fall-2026-Internship_JR-102685",
-      "location": "Virginia Beach, VA",
-      "department": "Data & ML/AI / Fall 2026",
-      "company": "Sentara Health",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
