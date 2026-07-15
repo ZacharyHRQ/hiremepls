@@ -1,6 +1,6 @@
 # Open Internships
 
-**1163** internships across **69/69** companies — last updated 2026-07-15.
+**1161** internships across **69/69** companies — last updated 2026-07-15.
 
 ## Companies
 
@@ -361,7 +361,8 @@
 - [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (14)
 - [Robert Bosch Venture Capital](#robert-bosch-venture-capital) (2)
 - [Robinhood](#robinhood) (1)
-- [Rocket Lab USA](#rocket-lab-usa) (2)
+- [Rocket Lab](#rocket-lab) (1)
+- [Rocket Lab USA](#rocket-lab-usa) (1)
 - [Rockwell Automation](#rockwell-automation) (1)
 - [RTX](#rtx) (1)
 - [Salesforce](#salesforce) (1)
@@ -403,14 +404,13 @@
 - [Susquehanna Investment Group](#susquehanna-investment-group) (1)
 - [Symmetry Systems](#symmetry-systems) (1)
 - [Synchrony Financial](#synchrony-financial) (1)
-- [TDS](#tds) (1)
 - [Teall Sports & Entertainment](#teall-sports-entertainment) (1)
 - [Technergetics](#technergetics) (1)
 - [Tencent](#tencent) (9)
 - [TENEX.AI](#tenex-ai) (1)
 - [Tenstorrent](#tenstorrent) (7)
 - [Terranox AI](#terranox-ai) (1)
-- [Tesla](#tesla) (95)
+- [Tesla](#tesla) (94)
 - [TETRAMEM](#tetramem) (1)
 - [Texas Instruments](#texas-instruments) (1)
 - [The D. E. Shaw Group](#the-d-e-shaw-group) (1)
@@ -814,7 +814,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [AI in Design & Manufacturing Intern](https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---Canada---Ontario---Toronto---University-Ave/Intern--Model-Based-Systems-Engineering_26WD94900) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-07-08 |
+| [AI in Design & Manufacturing Intern](https://autodesk.wd1.myworkdayjobs.com/uni/job/AMER---Canada---Ontario---Toronto---University-Ave/Intern--Model-Based-Systems-Engineering_26WD94900-2) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-07-08 |
 
 ## Avanade
 
@@ -3064,11 +3064,16 @@
 | --- | --- | --- | --- | --- |
 | [Customer Experience Associate (New Grad)](https://boards.greenhouse.io/robinhood/jobs/8024530?t=gh_src=&gh_jid=8024530) | 64 | Westlake, TX | — | 2026-07-02 |
 
+## Rocket Lab
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Intern](https://job-boards.greenhouse.io/rocketlab/jobs/7736776003) | 68 | Albuquerque, NM | — | 2026-07-15 |
+
 ## Rocket Lab USA
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Intern](https://job-boards.greenhouse.io/rocketlab/jobs/7736776003) | 68 | Albuquerque, NM | Software | 2026-06-17 |
 | [HITL Engineer Intern](https://job-boards.greenhouse.io/rocketlab/jobs/7734022003) | 58 | Long Beach, CA | Hardware | 2026-06-17 |
 
 ## Rockwell Automation
@@ -3362,12 +3367,6 @@
 | --- | --- | --- | --- | --- |
 | [Technology Intern - Technology](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Technology_2601695-1) | 68 | Stamford, CT | Software | 2026-06-17 |
 
-## TDS
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [GIS Intern](https://external-telecom-teldta.icims.com/jobs/29612/job?mobile=true&needsRedirect=false) | 60 | Remote in USA | AI/ML/Data | 2026-07-02 |
-
 ## Teall Sports & Entertainment
 
 | Title | Score | Location | Department | First seen |
@@ -3479,7 +3478,6 @@
 | [Embedded Software Engineer Intern - Embedded Software Engineer - Thermal Systems](https://www.tesla.com/careers/search/job/272290) | 85 | Palo Alto, CA | Hardware | 2026-06-07 |
 | [Embedded Software Engineering Intern - Embedded Software Engineer - High Voltage Systems](https://www.tesla.com/careers/search/job/270354) | 85 | Palo Alto, CA | Hardware | 2026-06-07 |
 | [Software Engineer Intern - AI Data Infrastructure](https://www.tesla.com/careers/search/job/269829) | 85 | Palo Alto, CA | Software | 2026-06-07 |
-| [Software Engineer Intern - Integration Tools](https://www.tesla.com/careers/search/job/269445) | 85 | Palo Alto, CA | Hardware | 2026-06-07 |
 | [Software Engineer Intern - Simulation Platform - Software Engineer](https://www.tesla.com/careers/search/job/270356) | 85 | Palo Alto, CA | Software | 2026-06-07 |
 | [Software Engineer Intern - Software Engineer - AI Hardware Infrastructure](https://www.tesla.com/careers/search/job/260382) | 85 | Palo Alto, CA | Software | 2026-06-07 |
 | [Software Integration Engineer Intern - Software Integration Engineer - Optimus](https://www.tesla.com/careers/search/job/269809) | 85 | Palo Alto, CA | Hardware | 2026-06-07 |
