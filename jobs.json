@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-15T21:47:19.670Z",
+  "generatedAt": "2026-07-15T22:48:17.413Z",
   "companyCount": 69,
   "okCount": 69,
-  "jobCount": 1157,
+  "jobCount": 1161,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1104,7 +1104,6 @@
     "canonical:1f1ff9bf6f98e35f": "2026-07-13T23:32:08.883Z",
     "canonical:0112152435b82dad": "2026-07-13T23:32:08.883Z",
     "canonical:ebb3f41446c4f107": "2026-07-13T23:32:08.883Z",
-    "canonical:52a5fdec400b2930": "2026-07-13T23:32:08.883Z",
     "canonical:5f700f46712af0b4": "2026-07-13T23:32:08.883Z",
     "canonical:35ca393cde137082": "2026-07-13T23:32:08.883Z",
     "canonical:525e6e83e886b36a": "2026-07-14T01:01:52.934Z",
@@ -1130,7 +1129,6 @@
     "canonical:58dc2e0e785f5d2d": "2026-07-14T23:09:45.194Z",
     "canonical:b09c0a4e6d147686": "2026-07-14T23:09:45.194Z",
     "canonical:31820da610fbcdc0": "2026-07-14T23:09:45.194Z",
-    "canonical:0aeba1f06d16925c": "2026-07-14T23:09:45.194Z",
     "canonical:3f5198ea0b4dff11": "2026-07-14T23:09:45.194Z",
     "canonical:154aa86837b41aa3": "2026-07-14T23:09:45.194Z",
     "canonical:36b556c01ba74b0d": "2026-07-14T23:09:45.194Z",
@@ -1160,7 +1158,13 @@
     "canonical:b06ae83b159eb239": "2026-07-15T17:35:56.580Z",
     "canonical:fcfdd39100036941": "2026-07-15T18:43:39.094Z",
     "canonical:6fbcace9a38d133f": "2026-07-15T18:43:39.094Z",
-    "canonical:d14a513f8325af8e": "2026-07-15T21:47:19.670Z"
+    "canonical:d14a513f8325af8e": "2026-07-15T21:47:19.670Z",
+    "canonical:c8ed86e2d1d09b0b": "2026-07-15T22:48:17.413Z",
+    "canonical:5cd6364a43e655f2": "2026-07-15T22:48:17.413Z",
+    "canonical:b76f80c6e44d295b": "2026-07-15T22:48:17.413Z",
+    "canonical:ce69206f257dadc3": "2026-07-15T22:48:17.413Z",
+    "canonical:a77e967a1117761e": "2026-07-15T22:48:17.413Z",
+    "canonical:dff97d4c81a7d61b": "2026-07-15T22:48:17.413Z"
   },
   "jobs": [
     {
@@ -1472,10 +1476,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1487,10 +1491,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -4709,6 +4713,20 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:c8ed86e2d1d09b0b",
+      "title": "Software Engineer – Machine Learning Intern/Co-op",
+      "url": "http://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a/application",
+      "location": "Toronto, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "Bree",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -13009,20 +13027,6 @@
       "scoreReasons": []
     },
     {
-      "id": "canonical:52a5fdec400b2930",
-      "title": "Engineering Engineer Intern",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Engineering-Intern_R-00187036",
-      "location": "Huntsville, AL",
-      "department": "Software",
-      "company": "Leidos",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:5f700f46712af0b4",
       "title": "Quantitative Research Engineer Intern",
       "url": "https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-europe/",
@@ -13121,18 +13125,6 @@
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:0aeba1f06d16925c",
-      "title": "BB Process Engineering Intern",
-      "url": "https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11508",
-      "location": "Ambler, PA",
-      "department": "Software",
-      "company": "Kulicke & Soffa",
-      "score": 60,
-      "scoreReasons": [
         "high-signal role"
       ]
     },
@@ -13407,6 +13399,70 @@
       "location": "Neukirchen-Vluyn, Germany / Frankfurt, Germany",
       "department": "AI/ML/Data",
       "company": "Evonik",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:5cd6364a43e655f2",
+      "title": "Software Engineer Intern",
+      "url": "https://www.citadelsecurities.com/careers/details/software-engineer-intern-europe/",
+      "location": "London, UK",
+      "department": "Software",
+      "company": "Citadel Securities",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:b76f80c6e44d295b",
+      "title": "Full-Stack AI Developer Intern",
+      "url": "https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-Stack-AI-Developer-Intern_JR-044912",
+      "location": "Remote in Canada",
+      "department": "Software",
+      "company": "Revvity",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ce69206f257dadc3",
+      "title": "Product Manager Intern",
+      "url": "https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Product-Manager-Intern_JR-044908-1",
+      "location": "Remote in Canada",
+      "department": "Product",
+      "company": "Revvity",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:a77e967a1117761e",
+      "title": "AI & Data Analytics Intern",
+      "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505878",
+      "location": "Scottsdale, AZ",
+      "department": "AI/ML/Data",
+      "company": "onsemi",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:dff97d4c81a7d61b",
+      "title": "Technology Intern - Multiple Teams",
+      "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Internship-Program_R88052",
+      "location": "Buffalo, NY",
+      "department": "Software",
+      "company": "M&T Bank",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
