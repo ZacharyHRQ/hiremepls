@@ -1,6 +1,6 @@
 # Open Internships
 
-**1159** internships across **69/69** companies — last updated 2026-07-15.
+**1157** internships across **69/69** companies — last updated 2026-07-15.
 
 ## Companies
 
@@ -296,7 +296,6 @@
 - [Navy Federal](#navy-federal) (2)
 - [NBCUniversal](#nbcuniversal) (2)
 - [Nelnet](#nelnet) (1)
-- [Nestle](#nestle) (1)
 - [Netflix](#netflix) (2)
 - [Neuralink](#neuralink) (3)
 - [NewsBreak](#newsbreak) (2)
@@ -315,7 +314,7 @@
 - [OfferUp](#offerup) (1)
 - [Old Mission](#old-mission) (5)
 - [Omnis](#omnis) (1)
-- [onsemi](#onsemi) (3)
+- [onsemi](#onsemi) (2)
 - [Optiver](#optiver) (3)
 - [Oracle](#oracle) (7)
 - [Orennia](#orennia) (1)
@@ -1488,8 +1487,8 @@
 | [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7992936) | 93 | Chicago, IL | Software | 2026-07-13 |
 | [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7668776) | 68 | Chicago, IL | Quant | 2026-07-13 |
 | [FPGA Intern](https://job-boards.greenhouse.io/drweng/jobs/8038923) | 58 | Chicago, IL | Hardware | 2026-07-13 |
-| [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7991196) | 93 | Montreal | — | 2026-07-13 |
 | [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7942281) | 93 | London, UK | Software | 2026-07-13 |
+| [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7991196) | 93 | Montreal | — | 2026-07-13 |
 | [AI/ML Research Intern](https://job-boards.greenhouse.io/drweng/jobs/7991171) | 68 | Montreal | — | 2026-07-13 |
 | [Quantitative Research Intern](https://job-boards.greenhouse.io/drweng/jobs/7818540) | 68 | Chicago, New York City | — | 2026-07-13 |
 | [Leadership Rotation Network Intern](https://job-boards.greenhouse.io/drweng/jobs/7993195) | 58 | Chicago, IL | — | 2026-07-13 |
@@ -2563,12 +2562,6 @@
 | --- | --- | --- | --- | --- |
 | [AI Engineer Intern](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---AI-Engineer_R22763) | 93 | Lincoln, NE | AI/ML/Data | 2026-07-01 |
 
-## Nestle
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [R&D Sustainability Intern - Nestlé Health Science](https://jobdetails.nestle.com/job/Bridgewater-R&D-Sustainability-Intern-Nestl%C3%A9-Health-Science-NJ-08807/1410946433/?ats=successfactors) | 60 | Bridgewater Township, NJ | AI/ML/Data | 2026-07-02 |
-
 ## Netflix
 
 | Title | Score | Location | Department | First seen |
@@ -2710,7 +2703,6 @@
 | --- | --- | --- | --- | --- |
 | [Electrical Device Characterization Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505101) | 50 | San Jose, CA | Hardware | 2026-05-27 |
 | [LLM Research Intern: Physics-AI-Powered Analysis of Atomistic Systems](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2503970) | 60 | Fairview, OR | AI/ML/Data | 2026-05-09 |
-| [Quality and Reliability Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2503669) | 60 | Allen, TX | AI/ML/Data | 2026-05-09 |
 
 ## Optiver
 
