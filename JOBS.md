@@ -1,6 +1,6 @@
 # Open Internships
 
-**1199** internships across **69/69** companies — last updated 2026-07-16.
+**1198** internships across **69/69** companies — last updated 2026-07-16.
 
 ## Companies
 
@@ -129,7 +129,7 @@
 - [Cubist Systematic Strategies](#cubist-systematic-strategies) (1)
 - [Cupertino Electric, Inc.](#cupertino-electric-inc) (1)
 - [Custom Computer Specialists](#custom-computer-specialists) (1)
-- [Cybernetic Labs](#cybernetic-labs) (3)
+- [Cybernetic Labs](#cybernetic-labs) (2)
 - [d-Matrix](#d-matrix) (1)
 - [Dandy](#dandy) (1)
 - [Databricks](#databricks) (1)
@@ -151,6 +151,7 @@
 - [Droyd Robotics](#droyd-robotics) (2)
 - [DRW](#drw) (19)
 - [Dryft](#dryft) (1)
+- [Duke University](#duke-university) (1)
 - [DuPont](#dupont) (5)
 - [Duracell](#duracell) (1)
 - [EdgeTrace](#edgetrace) (1)
@@ -263,6 +264,7 @@
 - [Lawrence Livermore National Laboratory (LLNL)](#lawrence-livermore-national-laboratory-llnl) (2)
 - [Legrand North America](#legrand-north-america) (1)
 - [Lensa](#lensa) (3)
+- [LexisNexis Risk Solutions](#lexisnexis-risk-solutions) (1)
 - [LinkedIn](#linkedin) (3)
 - [LiveRamp](#liveramp) (1)
 - [M&T Bank](#m-t-bank) (1)
@@ -305,14 +307,14 @@
 - [Neuralink](#neuralink) (3)
 - [NewsBreak](#newsbreak) (2)
 - [NextGen Federal Systems](#nextgen-federal-systems) (2)
-- [Nightwing Intelligence Solutions](#nightwing-intelligence-solutions) (2)
+- [Nightwing Intelligence Solutions](#nightwing-intelligence-solutions) (1)
 - [Nio](#nio) (2)
 - [Nissan Global](#nissan-global) (1)
 - [Niural](#niural) (1)
 - [Nokia](#nokia) (3)
 - [Northwestern Mutual](#northwestern-mutual) (2)
 - [Notion](#notion) (5)
-- [NVIDIA](#nvidia) (9)
+- [NVIDIA](#nvidia) (10)
 - [NXP Semiconductors](#nxp-semiconductors) (3)
 - [OCC](#occ) (1)
 - [Octaura](#octaura) (1)
@@ -394,8 +396,8 @@
 - [Smiths Detection](#smiths-detection) (1)
 - [Snowflake](#snowflake) (14)
 - [SoloPulse](#solopulse) (3)
-- [Sony](#sony) (2)
-- [SOTI](#soti) (2)
+- [Sony](#sony) (1)
+- [SOTI](#soti) (3)
 - [SpaceX](#spacex) (2)
 - [Sparksoft](#sparksoft) (1)
 - [Squarepoint Capital](#squarepoint-capital) (5)
@@ -418,7 +420,7 @@
 - [TENEX.AI](#tenex-ai) (1)
 - [Tenstorrent](#tenstorrent) (7)
 - [Terranox AI](#terranox-ai) (1)
-- [Tesla](#tesla) (92)
+- [Tesla](#tesla) (90)
 - [TETRAMEM](#tetramem) (1)
 - [Texas Instruments](#texas-instruments) (1)
 - [The D. E. Shaw Group](#the-d-e-shaw-group) (1)
@@ -1406,7 +1408,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern - Agent Platform](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7/application?embed=true) | 93 | SF | Software | 2026-07-16 |
-| [Forward Deployed Engineer Intern](https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c/application?embed=true) | 93 | SF | Software | 2026-07-16 |
 | [Full-Stack Software Engineer Intern - Product](https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef/application?embed=true) | 93 | SF | Software | 2026-07-16 |
 
 ## d-Matrix
@@ -1560,6 +1561,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Full-Stack Engineer Intern](https://jobs.ashbyhq.com/dryft/3f1c261d-9b65-412b-9f17-34b8968bdd78/application) | 93 | SF | Software | 2026-05-09 |
+
+## Duke University
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Administrative Intern - Sanford School of Public Policy](https://careers.duke.edu/job/Durham-Administrative-Intern,-Sanford-School-of-Public-Policy-NC-27710/1395747700/?ats=successfactors) | 60 | Durham, NC | AI/ML/Data | 2026-07-16 |
 
 ## DuPont
 
@@ -2359,6 +2366,12 @@
 | [2026 Summer Internship Program - Investment Banking](https://www.linkedin.com/jobs/view/4257296455) | 42 | Baltimore, MD | — | 2026-07-09 |
 | [Accounting Internship Summer 2026](https://lensa.com/job-application-accounting-internship-summer-2026-in-wayne-pa/cpc-jd-v3/bdd3c15c3b73ec0e9b7e0b5b4cbefe35453222188f523f433d39e72a3abd4740?tr=b4a83a7f255547c9982fd106a9550d5aincc1&utm_source=linkedin&utm_medium=slot&utm_campaign=Financial+Specialists&utm_term=jse) | 22 | Wayne, PA | — | 2026-07-09 |
 
+## LexisNexis Risk Solutions
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Editorial Data Reporting Intern](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1) | 68 | Remote in USA | AI/ML/Data | 2026-07-16 |
+
 ## LinkedIn
 
 | Title | Score | Location | Department | First seen |
@@ -2654,7 +2667,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Radio Frequency Engineering Intern](https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/RF-Engineering-Intern---2026_JR101095) | 58 | Dulles, VA | Hardware | 2026-07-14 |
 | [Software / Hardware Engineering Intern](https://nwis.wd12.myworkdayjobs.com/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733) | 68 | Annapolis Junction, MD | Hardware | 2026-06-03 |
 
 ## Nio
@@ -2705,6 +2717,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [PhD Research Intern - Security and Privacy](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1) | 68 | Santa Clara, CA | AI/ML/Data | 2026-07-16 |
 | [PhD Software Engineer Intern - Decision Intelligence](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522) | 93 | Santa Clara, CA | Hardware | 2026-07-15 |
 | [Java Engineer Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Java-Engineering-Intern---Fall-2026_JR2019769) | 93 | Santa Clara, CA | Software | 2026-07-14 |
 | [Software Engineering Intern, JAX](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745) | 68 | Santa Clara, CA | — | 2026-07-14 |
@@ -3331,12 +3344,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Research Intern on Generative and Protective AI for Content Creation](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335) | 68 | Remote - New York | Data & ML/AI / Summer 2027 | 2026-07-16 |
-| [Software Engineer Intern](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-119282) | 93 | San Diego, CA | Software | 2026-07-05 |
 
 ## SOTI
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data Scientist Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--September-2026-12-Months-_R10065) | 93 | Mississauga, ON, Canada | AI/ML/Data | 2026-07-16 |
 | [Product Manager Intern - Sales Enablement Products](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Product-Manager--Intern-_R10095) | 38 | Mississauga, ON, Canada | Product | 2026-07-14 |
 | [Associate Product Manager Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--September-2026-12-Months-_R10041) | 58 | Mississauga, ON, Canada | Product | 2026-07-03 |
 
@@ -3471,7 +3484,7 @@
 | [Game Research & Development Intern - Engine Research](https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/US-California-Los-Angeles/Game-Research---Development-Intern--Engine-Research_R107344) | 68 | LA | Software | 2026-07-11 |
 | [Software Engineering Intern - PC Game Client Development](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Software-Engineering-Intern_R107162-1) | 68 | London, UK | Software | 2026-07-07 |
 | [Video Generation Content Understanding and Feedback Research Intern](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/UK-London/Video-Generation-Content-Understanding-and-Feedback-Research-Intern_R107680) | 68 | London, UK | AI/ML/Data | 2026-06-22 |
-| [Hunyuan Multimodal Algorithm Researcher intern - Omni-Modal](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650) | 93 | Palo Alto, CA | AI/ML/Data | 2026-06-13 |
+| [Hunyuan Multimodal Algorithm Researcher Intern - Omni-Modal](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650-2) | 93 | Palo Alto, CA | AI/ML/Data | 2026-06-13 |
 | [Hunyuan Multimodal Reinforcement Learning Research Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Reinforcement-Learning-Research-Intern_R107084-1) | 68 | Palo Alto, CA | AI/ML/Data | 2026-06-13 |
 | [Research Intern](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-Washington-Bellevue/Research-Internship---Reinforcement-Learning-for-Large-Foundation-Models_R106337) | 68 | Bellevue, WA | AI/ML/Data | 2026-06-13 |
 | [Agent Development Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Agent-Development-Intern_R107276-2) | 68 | London, UK | Software | 2026-05-20 |
@@ -3556,7 +3569,6 @@
 | [Electronic Design Engineer Intern - Optimus](https://www.tesla.com/careers/search/job/271981) | 50 | Palo Alto, CA | Hardware | 2026-06-08 |
 | [AI Inference Engineer Intern - Software Compiler Engineer - AI Inference](https://www.tesla.com/careers/search/job/263211) | 85 | Palo Alto, CA | Software | 2026-06-07 |
 | [AI Performance Engineer Intern - AI Performance Engineer - Performance Optimization](https://www.tesla.com/careers/search/job/263759) | 85 | Palo Alto, CA | AI/ML/Data | 2026-06-07 |
-| [Embedded Software Engineer Intern - Embedded Software Engineer - Thermal Systems](https://www.tesla.com/careers/search/job/272290) | 85 | Palo Alto, CA | Hardware | 2026-06-07 |
 | [Embedded Software Engineering Intern - Embedded Software Engineer - High Voltage Systems](https://www.tesla.com/careers/search/job/270354) | 85 | Palo Alto, CA | Hardware | 2026-06-07 |
 | [Software Engineer Intern - AI Data Infrastructure](https://www.tesla.com/careers/search/job/269829) | 85 | Palo Alto, CA | Software | 2026-06-07 |
 | [Software Engineer Intern - Simulation Platform - Software Engineer](https://www.tesla.com/careers/search/job/270356) | 85 | Palo Alto, CA | Software | 2026-06-07 |
@@ -3569,7 +3581,6 @@
 | [Software Engineer Intern - Site Controller Software Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/272615) | 60 | Palo Alto, CA | Software | 2026-06-07 |
 | [Sensor Hardware Engineer Intern - Sensor Hardware Design Engineer - Optimus](https://www.tesla.com/careers/search/job/272581) | 50 | Palo Alto, CA | Hardware | 2026-06-07 |
 | [Software Engineer Intern - Wireless Connectivity Software Engineer - Electronic Devices](https://www.tesla.com/careers/search/job/269792) | 85 | Palo Alto, CA | Software | 2026-06-07 |
-| [Software Integration Engineer Intern - Software Integration Engineer - Battery Management Systems](https://www.tesla.com/careers/search/job/270351) | 85 | Palo Alto, CA | Hardware | 2026-06-07 |
 | [Electronics Design Engineer Intern - Reliability Electronics Design Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/272601) | 50 | Palo Alto, CA | Hardware | 2026-06-07 |
 | [Data Engineer Intern - Data Engineer - Energy](https://www.tesla.com/careers/search/job/271331) | 85 | Palo Alto, CA | AI/ML/Data | 2026-06-07 |
 | [Fullstack Engineer Intern - Fullstack Engineer - Build Infrastructure](https://www.tesla.com/careers/search/job/267005) | 85 | Palo Alto, CA | Software | 2026-06-07 |
