@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-16T14:57:35.787Z",
+  "generatedAt": "2026-07-16T16:14:34.276Z",
   "companyCount": 69,
   "okCount": 69,
-  "jobCount": 1193,
+  "jobCount": 1197,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1168,7 +1168,6 @@
     "canonical:692e540aae052d72": "2026-07-16T09:25:51.977Z",
     "canonical:09d3e6e1ab0e0269": "2026-07-16T09:25:51.977Z",
     "canonical:cb9ae54c5ea4b30c": "2026-07-16T09:25:51.977Z",
-    "canonical:5cc168d62887285a": "2026-07-16T09:25:51.977Z",
     "canonical:a7dac50e7df8f8dc": "2026-07-16T09:25:51.977Z",
     "canonical:3b1ff7887a20844f": "2026-07-16T09:25:51.977Z",
     "canonical:9191f9b165aea77c": "2026-07-16T09:25:51.977Z",
@@ -1196,7 +1195,12 @@
     "canonical:71f4c1680b019759": "2026-07-16T14:57:35.787Z",
     "canonical:d4522e592923d04c": "2026-07-16T14:57:35.787Z",
     "canonical:ec23121dc644d031": "2026-07-16T14:57:35.787Z",
-    "canonical:70b2afd01cdeb431": "2026-07-16T14:57:35.787Z"
+    "canonical:70b2afd01cdeb431": "2026-07-16T14:57:35.787Z",
+    "canonical:1cb970dd90b802db": "2026-07-16T16:14:34.276Z",
+    "canonical:dc4433667883584e": "2026-07-16T16:14:34.276Z",
+    "canonical:4340ff87cce8bf1f": "2026-07-16T16:14:34.276Z",
+    "canonical:58ed62f8b84ef83e": "2026-07-16T16:14:34.276Z",
+    "canonical:b90d174a181318ef": "2026-07-16T16:14:34.276Z"
   },
   "jobs": [
     {
@@ -1701,20 +1705,20 @@
       ]
     },
     {
-      "id": "canonical:3bdc6e03d29a7ec1",
+      "id": "canonical:b64de5fd09122dce",
       "title": "Campus FPGA Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7974391",
-      "location": "London",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8003013",
+      "location": "Chicago",
       "department": "",
       "company": "Jump Trading",
       "score": 50,
       "scoreReasons": []
     },
     {
-      "id": "canonical:b64de5fd09122dce",
+      "id": "canonical:3bdc6e03d29a7ec1",
       "title": "Campus FPGA Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8003013",
-      "location": "Chicago",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7974391",
+      "location": "London",
       "department": "",
       "company": "Jump Trading",
       "score": 50,
@@ -1873,10 +1877,10 @@
       ]
     },
     {
-      "id": "canonical:7286f2830b7e7578",
+      "id": "canonical:46205b9335861e9c",
       "title": "Campus UI Software Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019",
-      "location": "Chicago",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7974943",
+      "location": "London",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -1886,10 +1890,10 @@
       ]
     },
     {
-      "id": "canonical:46205b9335861e9c",
+      "id": "canonical:7286f2830b7e7578",
       "title": "Campus UI Software Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7974943",
-      "location": "London",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019",
+      "location": "Chicago",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -2040,10 +2044,10 @@
       ]
     },
     {
-      "id": "canonical:1d41c103b87b651a",
+      "id": "canonical:bd72b8a6944f6777",
       "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
-      "location": "Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
+      "location": "London, UK",
       "department": "Software",
       "company": "DRW",
       "score": 93,
@@ -2068,10 +2072,10 @@
       ]
     },
     {
-      "id": "canonical:bd72b8a6944f6777",
+      "id": "canonical:1d41c103b87b651a",
       "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
-      "location": "London, UK",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
+      "location": "Chicago, IL",
       "department": "Software",
       "company": "DRW",
       "score": 93,
@@ -9403,6 +9407,19 @@
       ]
     },
     {
+      "id": "canonical:1cb970dd90b802db",
+      "title": "Research and Development Intern - Research & Development: AI/ML",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--AI-ML_JR-202612795",
+      "location": "Mountain View, CA / Warren, MI",
+      "department": "AI/ML/Data",
+      "company": "General Motors",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:0df76adfa71f50bc",
       "title": "Systems Engineer Intern",
       "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235413",
@@ -13557,6 +13574,30 @@
       ]
     },
     {
+      "id": "canonical:dc4433667883584e",
+      "title": "Machine Learning Center of Excellence Summer Associate Time Series & Reinforcement Learning Interns…",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770593",
+      "location": "London, UK",
+      "department": "AI/ML/Data",
+      "company": "JP Morgan Chase",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:4340ff87cce8bf1f",
+      "title": "Spaceflight Hardware Intern",
+      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Fall-2026---Spaceflight-Hardware-Intern_R0166096",
+      "location": "Houston, TX",
+      "department": "Hardware",
+      "company": "Amentum",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:12cd06c0eec80152",
       "title": "Frontend Software Engineer Intern",
       "url": "https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c",
@@ -15902,6 +15943,31 @@
       ]
     },
     {
+      "id": "canonical:58ed62f8b84ef83e",
+      "title": "AI Research Internship",
+      "url": "https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7094",
+      "location": "Oakland, CA, United States",
+      "department": "Data & ML/AI / Summer 2027",
+      "company": "DNV",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:b90d174a181318ef",
+      "title": "Intern, IT Computer Science - Data Analytics",
+      "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--IT-Computer-Science---Data-Analytics_R-26-17145",
+      "location": "Buffalo, NY",
+      "department": "Data & ML/AI / Fall 2026",
+      "company": "Moog",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:0456c762c29ab039",
       "title": "AI Software Engineer Intern- Bastazo",
       "url": "https://jobs.lever.co/acds/65b739c3-02ad-4814-ad24-24abecbc83f4",
@@ -16068,19 +16134,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:5cc168d62887285a",
-      "title": "Software Engineering Intern (Part-Time, Internal Tooling)",
-      "url": "https://jobs.lever.co/traackr/9d884d26-018c-45b2-8cfb-f17d29d4e688",
-      "location": "New York City",
-      "department": "Software / Summer 2027",
-      "company": "Traackr",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {

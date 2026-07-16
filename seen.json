@@ -46,8 +46,8 @@
     "7362318",
     "7975008",
     "8002998",
-    "7974391",
     "8003013",
+    "7974391",
     "7977145",
     "8010307",
     "8059384",
@@ -60,8 +60,8 @@
     "8000323",
     "8007788",
     "7565728",
-    "8003019",
-    "7974943"
+    "7974943",
+    "8003019"
   ],
   "DRW": [
     "7991171",
@@ -75,9 +75,9 @@
     "7957243",
     "7668776",
     "8014919",
-    "7992936",
-    "7991196",
     "7942281",
+    "7991196",
+    "7992936",
     "8020364",
     "8014910",
     "7992670",
@@ -750,6 +750,7 @@
     "simplify:a475fa37-e595-443b-807e-dce909238f55",
     "simplify:cae7ba56-b661-44a0-ad83-07cbc36b4ca4",
     "simplify:4e1c3c96-80a3-44d4-85ff-7da897beb1f5",
+    "simplify:9c4619b9-f695-4144-b0f7-42620ccfbc1e",
     "simplify:1734e112-a0d8-49a9-b887-3d1ec517cec8",
     "simplify:7399b9f8-0c80-46ff-917e-a92d246e936f",
     "simplify:2b7fae57-a8e0-402c-8cd6-83e7aaffd1a5",
@@ -1108,7 +1109,9 @@
     "simplify:abf4c581-31e3-4e0b-96a4-1451bdb4e8af",
     "simplify:9f3c0656-6cef-4be9-9103-18c13986bef8",
     "simplify:a6f02442-de0a-454f-a56f-8462c72d7c74",
-    "simplify:f35a104f-8aa2-4e17-9c25-aec1fe42185e"
+    "simplify:f35a104f-8aa2-4e17-9c25-aec1fe42185e",
+    "simplify:eb1d24c5-f96d-49eb-88c4-9c78d81659f8",
+    "simplify:b7ce9d33-8b07-4a15-9258-6067fd375c26"
   ],
   "vanshb03": [
     "vansh:df70fa57-977b-4f31-832e-a0e57ed070b5",
@@ -1334,6 +1337,8 @@
   ],
   "Wayve": [],
   "zshah101 Summer 2027/Fall 2026": [
+    "github-json:zshah101-summer-2027-fall-2026:oracle:ecyq.fa.em2.oraclecloud.com:7094",
+    "github-json:zshah101-summer-2027-fall-2026:workday:moog:/job/Buffalo-NY/Intern--IT-Computer-Science---Data-Analytics_R-26-17145",
     "github-json:zshah101-summer-2027-fall-2026:lever:acds:65b739c3-02ad-4814-ad24-24abecbc83f4",
     "github-json:zshah101-summer-2027-fall-2026:oracle:ejta.fa.us6.oraclecloud.com:10126",
     "github-json:zshah101-summer-2027-fall-2026:workday:datasite:/job/USA---MN---Minneapolis/AI-Transformation---Forward-Deployed-Engineer--FDE--Intern_R36255",
@@ -1361,7 +1366,6 @@
     "github-json:zshah101-summer-2027-fall-2026:workday:nvidia:/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:towerresearchcapital:8044334",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:botauto:5289440008",
-    "github-json:zshah101-summer-2027-fall-2026:lever:traackr:9d884d26-018c-45b2-8cfb-f17d29d4e688",
     "github-json:zshah101-summer-2027-fall-2026:workable:connectprep:C0CA13664F",
     "github-json:zshah101-summer-2027-fall-2026:ashby:saronic:c95c2e3a-4c67-47b0-a03d-0e0317ac11a3",
     "github-json:zshah101-summer-2027-fall-2026:lever:palantir:9e40d77f-b07c-437b-98e7-def9b0184d89",
