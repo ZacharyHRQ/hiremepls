@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T01:42:07.657Z",
+  "generatedAt": "2026-07-16T04:43:37.093Z",
   "companyCount": 69,
   "okCount": 69,
   "jobCount": 1170,
@@ -392,7 +392,6 @@
     "canonical:ba965d4e55272c0c": "2026-06-07T06:16:50.879Z",
     "canonical:e985dc0d5394208a": "2026-06-07T09:43:12.130Z",
     "canonical:db0080d8fe4190e3": "2026-06-07T09:43:12.130Z",
-    "canonical:94ca7d01a2bd8b32": "2026-06-07T09:43:12.130Z",
     "canonical:681685a64ad12ec9": "2026-06-07T09:43:12.130Z",
     "canonical:27af27128fc52c29": "2026-06-07T09:43:12.130Z",
     "canonical:96a407f94a6ab84f": "2026-06-07T09:43:12.130Z",
@@ -1173,7 +1172,8 @@
     "canonical:96e71aa5f38e33c1": "2026-07-15T23:49:46.007Z",
     "canonical:f87d3b12f3b13cda": "2026-07-16T01:42:07.657Z",
     "canonical:7ceaf62a71c3688e": "2026-07-16T01:42:07.657Z",
-    "canonical:59545eac26b00b96": "2026-07-16T01:42:07.657Z"
+    "canonical:59545eac26b00b96": "2026-07-16T01:42:07.657Z",
+    "canonical:905ca4c671109896": "2026-07-16T04:43:37.093Z"
   },
   "jobs": [
     {
@@ -6582,19 +6582,6 @@
       "url": "https://www.tesla.com/careers/search/job/269809",
       "location": "Palo Alto, CA",
       "department": "Hardware",
-      "company": "Tesla",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:94ca7d01a2bd8b32",
-      "title": "Data Engineer Intern - Multiple Teams",
-      "url": "https://www.tesla.com/careers/search/job/269828",
-      "location": "Palo Alto, CA",
-      "department": "AI/ML/Data",
       "company": "Tesla",
       "score": 85,
       "scoreReasons": [
@@ -12309,6 +12296,19 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:905ca4c671109896",
+      "title": "Software Engineering Intern",
+      "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Round-Rock/Software-Engineer-Intern_2026-21720",
+      "location": "Round Rock, TX",
+      "department": "Software",
+      "company": "Schweitzer Engineering Laboratories",
+      "score": 68,
+      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]

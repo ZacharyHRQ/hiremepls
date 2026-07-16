@@ -375,6 +375,7 @@
 - [Saronic](#saronic) (2)
 - [Scale AI](#scale-ai) (3)
 - [Schonfeld](#schonfeld) (4)
+- [Schweitzer Engineering Laboratories](#schweitzer-engineering-laboratories) (1)
 - [Seaspan](#seaspan) (2)
 - [Sentara Health](#sentara-health) (1)
 - [Serval](#serval) (1)
@@ -414,7 +415,7 @@
 - [TENEX.AI](#tenex-ai) (1)
 - [Tenstorrent](#tenstorrent) (7)
 - [Terranox AI](#terranox-ai) (1)
-- [Tesla](#tesla) (93)
+- [Tesla](#tesla) (92)
 - [TETRAMEM](#tetramem) (1)
 - [Texas Instruments](#texas-instruments) (1)
 - [The D. E. Shaw Group](#the-d-e-shaw-group) (1)
@@ -3165,6 +3166,12 @@
 | [2026 BSc/MSc/PhD Quantitative Research/Strat Internship](https://job-boards.greenhouse.io/schonfeld/jobs/7950797) | 68 | São Paulo, Brazil | — | 2026-07-01 |
 | [Quantitative Research / Developer - Intern](https://job-boards.greenhouse.io/schonfeld/jobs/7185553) | 93 | Hong Kong, Hong Kong | — | 2026-05-06 |
 
+## Schweitzer Engineering Laboratories
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineering Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Round-Rock/Software-Engineer-Intern_2026-21720) | 68 | Round Rock, TX | Software | 2026-07-16 |
+
 ## Seaspan
 
 | Title | Score | Location | Department | First seen |
@@ -3506,7 +3513,6 @@
 | [Electronic Design Engineer Intern - Optimus](https://www.tesla.com/careers/search/job/271981) | 50 | Palo Alto, CA | Hardware | 2026-06-08 |
 | [AI Inference Engineer Intern - Software Compiler Engineer - AI Inference](https://www.tesla.com/careers/search/job/263211) | 85 | Palo Alto, CA | Software | 2026-06-07 |
 | [AI Performance Engineer Intern - AI Performance Engineer - Performance Optimization](https://www.tesla.com/careers/search/job/263759) | 85 | Palo Alto, CA | AI/ML/Data | 2026-06-07 |
-| [Data Engineer Intern - Multiple Teams](https://www.tesla.com/careers/search/job/269828) | 85 | Palo Alto, CA | AI/ML/Data | 2026-06-07 |
 | [Embedded Software Engineer Intern - Embedded Software Engineer - Thermal Systems](https://www.tesla.com/careers/search/job/272290) | 85 | Palo Alto, CA | Hardware | 2026-06-07 |
 | [Embedded Software Engineering Intern - Embedded Software Engineer - High Voltage Systems](https://www.tesla.com/careers/search/job/270354) | 85 | Palo Alto, CA | Hardware | 2026-06-07 |
 | [Software Engineer Intern - AI Data Infrastructure](https://www.tesla.com/careers/search/job/269829) | 85 | Palo Alto, CA | Software | 2026-06-07 |
