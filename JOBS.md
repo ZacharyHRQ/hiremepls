@@ -1,6 +1,6 @@
 # Open Internships
 
-**1170** internships across **69/69** companies — last updated 2026-07-16.
+**1199** internships across **69/69** companies — last updated 2026-07-16.
 
 ## Companies
 
@@ -10,6 +10,7 @@
 - [Abundant](#abundant) (1)
 - [Accenture](#accenture) (1)
 - [AccuWeather](#accuweather) (1)
+- [Acds](#acds) (2)
 - [ACI Worldwide ](#aci-worldwide) (1)
 - [ACLU Kentucky](#aclu-kentucky) (1)
 - [Ada](#ada) (1)
@@ -23,7 +24,7 @@
 - [Akuna Capital](#akuna-capital) (8)
 - [Al Warren Oil Company](#al-warren-oil-company) (1)
 - [Altasciences](#altasciences) (1)
-- [Altom Transport](#altom-transport) (1)
+- [Altom Transport](#altom-transport) (2)
 - [AMAROK Security](#amarok-security) (1)
 - [Amazon](#amazon) (13)
 - [Ambarella](#ambarella) (2)
@@ -61,6 +62,7 @@
 - [Base Power](#base-power) (3)
 - [BDO Canada](#bdo-canada) (1)
 - [Beacon Software](#beacon-software) (1)
+- [Beaconsoftware](#beaconsoftware) (1)
 - [beBeeManufacturingEngineering](#bebeemanufacturingengineering) (1)
 - [Berkshire Hathaway Energy](#berkshire-hathaway-energy) (1)
 - [Beyondsoft](#beyondsoft) (1)
@@ -97,7 +99,7 @@
 - [CareScout](#carescout) (1)
 - [Caterpillar Inc.](#caterpillar-inc) (1)
 - [Center for AI Safety](#center-for-ai-safety) (2)
-- [Centerfield](#centerfield) (2)
+- [Centerfield](#centerfield) (4)
 - [Chartwells Higher Education Dining Services](#chartwells-higher-education-dining-services) (1)
 - [Cherry Bekaert](#cherry-bekaert) (2)
 - [Chevron Corporation](#chevron-corporation) (2)
@@ -115,11 +117,11 @@
 - [Cole Engineering Services](#cole-engineering-services) (1)
 - [Colgate-Palmolive](#colgate-palmolive) (1)
 - [Conagra Brands](#conagra-brands) (2)
-- [ConnectPrep](#connectprep) (1)
+- [ConnectPrep](#connectprep) (2)
 - [Consensus Cloud Solutions](#consensus-cloud-solutions) (1)
 - [Constellation Space](#constellation-space) (1)
 - [Context](#context) (1)
-- [Copart](#copart) (4)
+- [Copart](#copart) (5)
 - [Cotiviti](#cotiviti) (4)
 - [Creatify Lab ](#creatify-lab) (1)
 - [Cresta](#cresta) (2)
@@ -133,7 +135,7 @@
 - [Databricks](#databricks) (1)
 - [Datadog](#datadog) (1)
 - [DataRobot](#datarobot) (1)
-- [Datasite](#datasite) (2)
+- [Datasite](#datasite) (3)
 - [DE Shaw](#de-shaw) (1)
 - [Dedalus Labs](#dedalus-labs) (1)
 - [Definity Financial](#definity-financial) (4)
@@ -144,7 +146,7 @@
 - [DiDi Global](#didi-global) (1)
 - [Digs](#digs) (1)
 - [DimeHealth AI](#dimehealth-ai) (1)
-- [Doctors Without Borders](#doctors-without-borders) (1)
+- [Doctors Without Borders](#doctors-without-borders) (2)
 - [Docugami](#docugami) (2)
 - [Droyd Robotics](#droyd-robotics) (2)
 - [DRW](#drw) (19)
@@ -172,7 +174,7 @@
 - [Everfox](#everfox) (1)
 - [Evolver](#evolver) (1)
 - [Evonik](#evonik) (1)
-- [Exowatt](#exowatt) (1)
+- [Exowatt](#exowatt) (3)
 - [Expedia Group](#expedia-group) (1)
 - [F. Schumacher & Co.](#f-schumacher-co) (1)
 - [Facility Solutions Group](#facility-solutions-group) (1)
@@ -182,15 +184,16 @@
 - [Fiserv](#fiserv) (2)
 - [Five Rings](#five-rings) (1)
 - [Flagright](#flagright) (1)
-- [Fluxergy](#fluxergy) (1)
+- [Fluxergy](#fluxergy) (2)
 - [Formlabs](#formlabs) (4)
 - [Fortinet](#fortinet) (1)
+- [Fortive](#fortive) (1)
 - [Forvis Mazars US](#forvis-mazars-us) (1)
-- [Four Hands](#four-hands) (1)
+- [Four Hands](#four-hands) (2)
 - [GE Vernova](#ge-vernova) (1)
 - [Gemini](#gemini) (1)
-- [GenBio AI](#genbio-ai) (1)
-- [Generac](#generac) (2)
+- [GenBio AI](#genbio-ai) (2)
+- [Generac](#generac) (3)
 - [General Astronautics](#general-astronautics) (1)
 - [General Motors](#general-motors) (2)
 - [GenScript](#genscript) (1)
@@ -232,7 +235,7 @@
 - [Instacart](#instacart) (2)
 - [Instawork](#instawork) (1)
 - [Instead](#instead) (1)
-- [Institute of Foundation Models](#institute-of-foundation-models) (3)
+- [Institute of Foundation Models](#institute-of-foundation-models) (4)
 - [Integra FEC](#integra-fec) (3)
 - [Integrity](#integrity) (1)
 - [Intel](#intel) (1)
@@ -263,7 +266,7 @@
 - [LinkedIn](#linkedin) (3)
 - [LiveRamp](#liveramp) (1)
 - [M&T Bank](#m-t-bank) (1)
-- [Magna](#magna) (2)
+- [Magna](#magna) (3)
 - [Maher Duessel](#maher-duessel) (1)
 - [MaloneBailey, LLP](#malonebailey-llp) (1)
 - [Man Group](#man-group) (2)
@@ -303,7 +306,7 @@
 - [NewsBreak](#newsbreak) (2)
 - [NextGen Federal Systems](#nextgen-federal-systems) (2)
 - [Nightwing Intelligence Solutions](#nightwing-intelligence-solutions) (2)
-- [Nio](#nio) (1)
+- [Nio](#nio) (2)
 - [Nissan Global](#nissan-global) (1)
 - [Niural](#niural) (1)
 - [Nokia](#nokia) (3)
@@ -316,12 +319,12 @@
 - [OfferUp](#offerup) (1)
 - [Old Mission](#old-mission) (5)
 - [Omnis](#omnis) (1)
-- [onsemi](#onsemi) (3)
+- [onsemi](#onsemi) (4)
 - [Optiver](#optiver) (3)
 - [Oracle](#oracle) (7)
 - [Orennia](#orennia) (1)
 - [Output Biosciences](#output-biosciences) (2)
-- [Palantir](#palantir) (6)
+- [Palantir](#palantir) (10)
 - [Palo Alto Networks](#palo-alto-networks) (1)
 - [Paragon](#paragon) (1)
 - [PathAI](#pathai) (1)
@@ -391,8 +394,8 @@
 - [Smiths Detection](#smiths-detection) (1)
 - [Snowflake](#snowflake) (14)
 - [SoloPulse](#solopulse) (3)
-- [Sony](#sony) (1)
-- [SOTI](#soti) (3)
+- [Sony](#sony) (2)
+- [SOTI](#soti) (2)
 - [SpaceX](#spacex) (2)
 - [Sparksoft](#sparksoft) (1)
 - [Squarepoint Capital](#squarepoint-capital) (5)
@@ -436,10 +439,10 @@
 - [Tower Research](#tower-research) (1)
 - [Tower Research Capital](#tower-research-capital) (5)
 - [Toyota Research Institute](#toyota-research-institute) (2)
-- [Traackr](#traackr) (1)
+- [Traackr](#traackr) (2)
 - [Tradeweb](#tradeweb) (1)
 - [Trane Technologies](#trane-technologies) (1)
-- [TransMarket Group](#transmarket-group) (1)
+- [TransMarket Group](#transmarket-group) (2)
 - [Trata](#trata) (1)
 - [Truland Equipment](#truland-equipment) (1)
 - [Truveta](#truveta) (1)
@@ -453,7 +456,7 @@
 - [Veeam Software](#veeam-software) (2)
 - [Veeva](#veeva) (1)
 - [Verne Robotics](#verne-robotics) (1)
-- [VetsEZ](#vetsez) (1)
+- [VetsEZ](#vetsez) (2)
 - [Viridien](#viridien) (1)
 - [Vital Lyfe](#vital-lyfe) (1)
 - [VITAL LYFE](#vital-lyfe) (1)
@@ -475,7 +478,7 @@
 - [WTW](#wtw) (1)
 - [X Development](#x-development) (1)
 - [XPENG Motors](#xpeng-motors) (2)
-- [Xsolla](#xsolla) (3)
+- [Xsolla](#xsolla) (4)
 
 ## 1X
 
@@ -512,6 +515,13 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Product Analyst Intern](https://job-boards.greenhouse.io/accuweather/jobs/7453001) | 58 | State College, PA / Remote in USA | Product | 2026-05-09 |
+
+## Acds
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI Software Engineer Intern- Bastazo](https://jobs.lever.co/acds/65b739c3-02ad-4814-ad24-24abecbc83f4) | 93 | Bentonville, AR | Data & ML/AI / Summer 2027 | 2026-07-16 |
+| [AI Operations Intern - Naukr AI](https://jobs.lever.co/acds/41bee5e2-6477-428f-b359-34b4071d545f) | 68 | Bentonville, AR | Data & ML/AI / Summer 2027 | 2026-07-16 |
 
 ## ACI Worldwide 
 
@@ -602,6 +612,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Fall Software Development Intern](https://apply.workable.com/altom-transport/j/9FC654F05E/) | 68 | Hammond, Indiana, United States | Software / Fall 2026 | 2026-07-16 |
 | [Software Development Intern](https://apply.workable.com/altom-transport/j/8536165C7B/apply) | 68 | Markham, IL | Software | 2026-06-03 |
 
 ## AMAROK Security
@@ -889,6 +900,12 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/beaconsoftware/2452d342-a069-4eda-adbe-9df296808ca1/application?embed=true) | 93 | SF | Software | 2026-07-15 |
 
+## Beaconsoftware
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineering Intern](https://jobs.ashbyhq.com/beaconsoftware/2452d342-a069-4eda-adbe-9df296808ca1) | 68 | San Francisco, CA | Software / Fall 2026 | 2026-07-16 |
+
 ## beBeeManufacturingEngineering
 
 | Title | Score | Location | Department | First seen |
@@ -1151,6 +1168,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://jobs.ashbyhq.com/centerfield/3279e803-56ab-4e12-8168-c2fd60bc8e60) | 93 | Los Angeles, California | Software / Summer 2027 | 2026-07-16 |
+| [Data Science Intern](https://jobs.ashbyhq.com/centerfield/916dcf42-d69a-4f00-875a-f8fe630e0f33) | 68 | Los Angeles, California | Data & ML/AI / Summer 2027 | 2026-07-16 |
 | [Data Science Intern](https://jobs.ashbyhq.com/centerfield/916dcf42-d69a-4f00-875a-f8fe630e0f33/application) | 68 | LA | AI/ML/Data | 2026-06-23 |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/centerfield/3279e803-56ab-4e12-8168-c2fd60bc8e60/application) | 93 | LA | Software | 2026-06-09 |
 
@@ -1254,7 +1273,7 @@
 | [Technical Support Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8041135?gh_jid=8041135) | 58 | In-Office | — | 2026-07-03 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
 | [Sales Project Manager Intern (AI Innovation) (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8020830?gh_jid=8020830) | 38 | In-Office | — | 2026-06-23 |
 | [People Team Intern - HR Operations & AI Innovation (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240) | 58 | In-Office | — | 2026-05-20 |
 | [Global Trade Compliance Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7799138?gh_jid=7799138) | 58 | In-Office | — | 2026-05-06 |
@@ -1305,6 +1324,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data Analyst Internship](https://apply.workable.com/connectprep/j/C0CA13664F/) | 68 | Washington, District of Columbia, United States (Remote) | Data & ML/AI / Summer 2027 | 2026-07-16 |
 | [Data Analyst Intern](https://apply.workable.com/connectprep/j/C0CA13664F/apply) | 68 | Washington, DC / Remote in USA | AI/ML/Data | 2026-07-02 |
 
 ## Consensus Cloud Solutions
@@ -1329,6 +1349,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [DevOps Engineering Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/DevOps-Engineering-Intern_JR109490) | 68 | Dallas, TX - Headquarters | Software / Summer 2027 | 2026-07-16 |
 | [Database Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Database-Engineering-Intern_JR109636) | 93 | Dallas, TX | Software | 2026-07-01 |
 | [Software Engineering Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR106129) | 68 | Dallas, TX | Software | 2026-07-01 |
 | [Technology Product Analyst Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107890) | 58 | Dallas, TX | Product | 2026-06-24 |
@@ -1422,6 +1443,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [AI Transformation / Forward Deployed Engineer (FDE) Internship](https://datasite.wd1.myworkdayjobs.com/datasite/job/USA---MN---Minneapolis/AI-Transformation---Forward-Deployed-Engineer--FDE--Intern_R36255) | 93 | USA - MN - Minneapolis | Data & ML/AI / Summer 2027 | 2026-07-16 |
 | [AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer](https://datasite.wd1.myworkdayjobs.com/datasite/job/USA---NY---New-York-City/AI-Transformation---Forward-Deployed-Engineer--FDE--Intern_R36255) | 93 | NYC | Software | 2026-07-15 |
 | [Forward Deployed Engineer Intern](https://datasite.wd1.myworkdayjobs.com/en-GB/datasite/job/USA---NY---New-York-City/AI-Transformation---Forward-Deployed-Engineer--FDE--Intern_R36255) | 58 | New York, NY | — | 2026-07-10 |
 
@@ -1492,6 +1514,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data Science Intern](https://job-boards.greenhouse.io/msfcareers/jobs/5271141008) | 68 | New York, New York, United States | Data & ML/AI / Summer 2027 | 2026-07-16 |
 | [Data Science Intern](https://job-boards.greenhouse.io/msfcareers/jobs/4993728008) | 68 | New York, NY | Data Science, AI & Machine Learning | 2026-05-09 |
 
 ## Docugami
@@ -1699,6 +1722,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineering Intern  - Inventory Automation & IoT/Robotics](https://jobs.lever.co/exowatt/46c8f4fd-f059-4ad6-a5f4-4fcd55d84f9c) | 68 | Austin, TX | Hardware / Summer 2027 | 2026-07-16 |
+| [Software Engineering Intern - Agent Platform (AI)](https://jobs.lever.co/exowatt/2623555d-8b81-4f95-8bca-de9fafd2381c) | 68 | Miami, FL | Data & ML/AI / Summer 2027 | 2026-07-16 |
 | [Software Engineer Intern - Agent Platform - AI](https://jobs.lever.co/exowatt/2623555d-8b81-4f95-8bca-de9fafd2381c/apply) | 93 | Austin, TX | Software | 2026-07-10 |
 
 ## Expedia Group
@@ -1764,6 +1789,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Firmware Engineer Intern](https://jobs.lever.co/fluxergy-2/c592763e-56ba-4d20-b751-3a4574470eec) | 83 | Irvine, California | Hardware / Summer 2027 | 2026-07-16 |
 | [Firmware Engineer Intern](https://jobs.lever.co/fluxergy-2/c592763e-56ba-4d20-b751-3a4574470eec/apply) | 83 | Irvine, CA | Hardware | 2026-06-03 |
 
 ## Formlabs
@@ -1781,6 +1807,12 @@
 | --- | --- | --- | --- | --- |
 | [AI Intern](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22741) | 60 | Sunnyvale, CA | Software | 2026-05-13 |
 
+## Fortive
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [IT Infrastructure Internship](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10126) | 60 | Irvine, CA, United States | Software / Summer 2027 | 2026-07-16 |
+
 ## Forvis Mazars US
 
 | Title | Score | Location | Department | First seen |
@@ -1791,6 +1823,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Cybersecurity Intern](https://job-boards.greenhouse.io/fourhands/jobs/4267718009) | 68 | Austin, TX | Security / Fall 2026 | 2026-07-16 |
 | [Product Development Intern](https://job-boards.greenhouse.io/fourhands/jobs/4272048009) | 58 | Austin, TX | Product | 2026-06-08 |
 
 ## GE Vernova
@@ -1809,12 +1842,14 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineering Intern](https://jobs.lever.co/genbio/4bdb14ae-e19f-40c8-84db-1307dbdabe74) | 68 | Palo Alto, CA | Software / Summer 2027 | 2026-07-16 |
 | [Software Engineer Intern](https://jobs.lever.co/genbio/4bdb14ae-e19f-40c8-84db-1307dbdabe74/apply) | 93 | Palo Alto, CA | Software | 2026-06-01 |
 
 ## Generac
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Intern Firmware Engineering](https://generac.wd5.myworkdayjobs.com/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR14674) | 58 | Reno, NV - USA | Hardware / Summer 2027 | 2026-07-16 |
 | [Engineering Intern](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Toronto-Canada/Intern-Engineering_JR14268) | 58 | Toronto, ON, Canada | Hardware | 2026-07-15 |
 | [Firmware Engineering Intern](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR14674) | 58 | Reno, NV | Hardware | 2026-06-19 |
 
@@ -2108,6 +2143,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [AI Research Internship - WM](https://jobs.lever.co/ifm-us/3eec355c-6dde-4a3e-8cdf-b2a8930d5678) | 68 | Sunnyvale, CA | Data & ML/AI / Summer 2027 | 2026-07-16 |
 | [Inference Optimization Intern - Performance Modeling](https://jobs.lever.co/ifm-us/1a09231e-44f2-4c82-a7a1-793bd159d68d/apply) | 68 | Sunnyvale, CA | AI/ML/Data | 2026-06-25 |
 | [AI Research Intern](https://jobs.lever.co/ifm-us/3eec355c-6dde-4a3e-8cdf-b2a8930d5678/apply) | 68 | Sunnyvale, CA | AI/ML/Data | 2026-06-13 |
 | [AIE Intern](https://jobs.lever.co/ifm-us/5342e333-61b9-406d-bfea-61a687a94d1f/apply) | 68 | Sunnyvale, CA | AI/ML/Data | 2026-05-09 |
@@ -2202,14 +2238,14 @@
 | [Campus UI Software Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=8003019) | 93 | Chicago, IL | Software | 2026-07-08 |
 | [Campus Quantitative Trader Intern](https://boards.greenhouse.io/embed/job_app?token=7848371) | 68 | Chicago, IL / NYC | Quant | 2026-07-08 |
 | [FPGA Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=8003013) | 58 | Chicago, IL | Hardware | 2026-07-08 |
+| [Campus AI Research Engineer - Deep Learning (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8052338) | 85 | Chicago; New York | Data & ML/AI / Summer 2027 | 2026-07-08 |
+| [Campus AI Research Engineer – Research Automation (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8052351) | 85 | Chicago; New York | Data & ML/AI / Summer 2027 | 2026-07-08 |
+| [Campus AI Research Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8052281) | 85 | Chicago; New York | Data & ML/AI / Summer 2027 | 2026-07-08 |
 | [Campus Data Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8002998) | 85 | Chicago | — | 2026-07-08 |
 | [Campus Quantitative Researcher, PhD (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8049938) | 85 | Chicago; New York | — | 2026-07-08 |
 | [Campus Quantitative Researcher, UG/MS (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7982648) | 85 | Chicago; New York | — | 2026-07-08 |
 | [Campus Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8002989) | 85 | Chicago | — | 2026-07-08 |
 | [Campus UI Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8003019) | 85 | Chicago | — | 2026-07-08 |
-| [Campus AI Research Engineer - Deep Learning (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8052338) | 75 | Chicago; New York | — | 2026-07-08 |
-| [Campus AI Research Engineer – Research Automation (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8052351) | 75 | Chicago; New York | — | 2026-07-08 |
-| [Campus AI Research Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8052281) | 75 | Chicago; New York | — | 2026-07-08 |
 | [Campus Systems Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8007788) | 75 | Chicago | — | 2026-07-08 |
 | [Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7848371) | 60 | Chicago; New York | — | 2026-07-08 |
 | [Campus FPGA Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8003013) | 50 | Chicago | — | 2026-07-08 |
@@ -2347,6 +2383,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Systems Engineer Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235413) | 85 | Southfield, MI | AI/ML/Data | 2026-07-16 |
 | [Engineering ADAS Perception Features Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235438) | 60 | Auburn Hills, MI | AI/ML/Data | 2026-07-11 |
 | [Product Engineering Engineer Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Grand-Rapids-Michigan-US/Product-Engineering-Intern_R00243272) | 85 | Grand Rapids, MI | Software | 2026-06-15 |
 
@@ -2624,6 +2661,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [AI Robotics Researcher Intern (Dexterous Manipulation)](https://nio.wd3.myworkdayjobs.com/NIO_Careers/job/San-Jose-US/AI-Robotics-Researcher-Intern--Dexterous-Manipulation-_R-000144) | 93 | San Jose-US | Data & ML/AI / Summer 2027 | 2026-07-16 |
 | [Systems Verification & Concurrent Kernel Architecture Research Intern](https://nio.wd3.myworkdayjobs.com/NIO_Careers/job/San-Jose-US/Systems-Verification---Concurrent-Kernel-Architecture-Research-Intern_R-000139) | 68 | San Jose, CA | Software | 2026-05-09 |
 
 ## Nissan Global
@@ -2723,6 +2761,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Fall 2026 - AI & Data Analytics Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2505878) | 60 | Scottsdale, AZ, United States | Data & ML/AI / Fall 2026 | 2026-07-16 |
 | [AI & Data Analytics Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505878) | 60 | Scottsdale, AZ | AI/ML/Data | 2026-07-15 |
 | [Electrical Device Characterization Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505101) | 50 | San Jose, CA | Hardware | 2026-05-27 |
 | [LLM Research Intern: Physics-AI-Powered Analysis of Atomistic Systems](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2503970) | 60 | Fairview, OR | AI/ML/Data | 2026-05-09 |
@@ -2764,6 +2803,10 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Forward Deployed Infrastructure Engineer, Internship - US Government](https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9) | 93 | Washington, D.C. | Software / Summer 2027 | 2026-07-16 |
+| [Forward Deployed Software Engineer, Internship - Commercial](https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2) | 93 | Chicago, IL | Software / Summer 2027 | 2026-07-16 |
+| [Forward Deployed Software Engineer, Internship - Intel](https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89) | 93 | Washington, D.C. | Software / Summer 2027 | 2026-07-16 |
+| [Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial](https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3) | 93 | Chicago, IL | Software / Summer 2027 | 2026-07-16 |
 | [Palantir Software Engineer Intern - Forward Deployed Software Engineer - Commercial](https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3/apply) | 93 | Chicago, IL | Software | 2026-07-01 |
 | [Year at Palantir Intern - Forward Deployed Software Engineer](https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333/apply) | 93 | NYC | Software | 2026-05-15 |
 | [Year at Palantir Intern - Forward Deployed Software Engineer](https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019/apply) | 93 | Washington, DC | Software | 2026-05-14 |
@@ -2908,8 +2951,8 @@
 | [2027 Technology Development Intern – IIT Kanpur](https://boards.greenhouse.io/point72/jobs/8617343002?gh_jid=8617343002) | 58 | India, Bengaluru | — | 2026-07-02 |
 | [Corporate Access, off-cycle internship (6-months) – Japanese speaking](https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002) | 58 | Hong Kong | — | 2026-06-30 |
 | [Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7586061002) | 93 | NYC | Quant | 2026-05-09 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -3287,6 +3330,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Research Intern on Generative and Protective AI for Content Creation](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335) | 68 | Remote - New York | Data & ML/AI / Summer 2027 | 2026-07-16 |
 | [Software Engineer Intern](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-119282) | 93 | San Diego, CA | Software | 2026-07-05 |
 
 ## SOTI
@@ -3295,7 +3339,6 @@
 | --- | --- | --- | --- | --- |
 | [Product Manager Intern - Sales Enablement Products](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Product-Manager--Intern-_R10095) | 38 | Mississauga, ON, Canada | Product | 2026-07-14 |
 | [Associate Product Manager Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--September-2026-12-Months-_R10041) | 58 | Mississauga, ON, Canada | Product | 2026-07-03 |
-| [Data Scientist Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--September-2026-12-Months-_R10065) | 93 | Mississauga, ON, Canada | AI/ML/Data | 2026-07-01 |
 
 ## SpaceX
 
@@ -3754,6 +3797,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineering Intern (Part-Time, Internal Tooling)](https://jobs.lever.co/traackr/9d884d26-018c-45b2-8cfb-f17d29d4e688) | 68 | New York City | Software / Summer 2027 | 2026-07-16 |
 | [Software Engineer Intern - Internal Tooling](https://jobs.lever.co/traackr/9d884d26-018c-45b2-8cfb-f17d29d4e688/apply) | 93 | NYC | Software | 2026-07-02 |
 
 ## Tradeweb
@@ -3772,6 +3816,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [DevOps/SRE Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007?gh_jid=5151577007) | 68 | Chicago, Illinois, United States | Software / Summer 2027 | 2026-07-16 |
 | [Quantitative Trader Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?gh_jid=5151569007) | 68 | Chicago, IL | Quant | 2026-06-03 |
 
 ## Trata
@@ -3857,6 +3902,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Full Stack Developer Intern (Remote Opportunity)](https://vetsez.breezy.hr/p/d18961a7a7e701-full-stack-developer-intern-remote-opportunity) | 85 | Dallas, TX | Software / Summer 2027 | 2026-07-16 |
 | [Full Stack Developer Intern](https://vetsez.breezy.hr/p/a4010fdb3a7001-full-stack-developer-intern-remote-opportunity) | 85 | Remote in US | Software Engineering | 2026-06-24 |
 
 ## Viridien
@@ -4003,6 +4049,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [AI-First Engineering Intern](https://jobs.lever.co/xsolla/1c0e5375-2352-4a2c-a816-48ddebbdd3d6) | 68 | Los Angeles, United States | Data & ML/AI / Summer 2027 | 2026-07-16 |
 | [AI Engineer Intern](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571/apply) | 93 | Montreal, QC, Canada | Software | 2026-07-10 |
 | [AI-First Engineer Intern](https://jobs.lever.co/xsolla/5d5fd6b3-d82f-437a-b251-abf4674ac874/apply) | 93 | Raleigh, NC | Software | 2026-07-10 |
 | [AI-First Engineer Intern](https://jobs.lever.co/xsolla/1c0e5375-2352-4a2c-a816-48ddebbdd3d6/apply) | 93 | LA | Software | 2026-07-10 |
