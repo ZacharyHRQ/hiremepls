@@ -1,6 +1,6 @@
 # Open Internships
 
-**1167** internships across **69/69** companies — last updated 2026-07-15.
+**1170** internships across **69/69** companies — last updated 2026-07-16.
 
 ## Companies
 
@@ -127,6 +127,7 @@
 - [Cubist Systematic Strategies](#cubist-systematic-strategies) (1)
 - [Cupertino Electric, Inc.](#cupertino-electric-inc) (1)
 - [Custom Computer Specialists](#custom-computer-specialists) (1)
+- [Cybernetic Labs](#cybernetic-labs) (2)
 - [d-Matrix](#d-matrix) (1)
 - [Dandy](#dandy) (1)
 - [Databricks](#databricks) (1)
@@ -356,7 +357,7 @@
 - [Reply](#reply) (2)
 - [RESPEC](#respec) (1)
 - [Revvity](#revvity) (2)
-- [RFCUNY](#rfcuny) (1)
+- [RFCUNY](#rfcuny) (2)
 - [Rippling](#rippling) (3)
 - [Rise8](#rise8) (1)
 - [Rivian](#rivian) (1)
@@ -1377,6 +1378,13 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Developer Intern](https://job-boards.greenhouse.io/customcomputerspecialists/jobs/4221846009) | 93 | Long Island, New York | Software | 2026-07-15 |
+
+## Cybernetic Labs
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Forward Deployed Engineer Intern](https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c/application?embed=true) | 93 | SF | Software | 2026-07-16 |
+| [Full-Stack Software Engineer Intern - Product](https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef/application?embed=true) | 93 | SF | Software | 2026-07-16 |
 
 ## d-Matrix
 
@@ -3027,6 +3035,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [IT & Data Systems Intern - Archibus & Applications Development](https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/New-York-NY/IT---Data-Systems-Intern--Archibus---Applications-Development-_JR3276) | 68 | NYC | AI/ML/Data | 2026-07-16 |
 | [Data Analyst Intern](https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/New-York-NY/Data-Analyst-Intern_JR2987) | 68 | NYC | AI/ML/Data | 2026-07-01 |
 
 ## Rippling

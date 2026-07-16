@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-15T23:49:46.007Z",
+  "generatedAt": "2026-07-16T01:42:07.657Z",
   "companyCount": 69,
   "okCount": 69,
-  "jobCount": 1167,
+  "jobCount": 1170,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1170,7 +1170,10 @@
     "canonical:8d6600ff957e9dff": "2026-07-15T23:49:46.007Z",
     "canonical:25170466c178dd22": "2026-07-15T23:49:46.007Z",
     "canonical:366830ca3c1a6b87": "2026-07-15T23:49:46.007Z",
-    "canonical:96e71aa5f38e33c1": "2026-07-15T23:49:46.007Z"
+    "canonical:96e71aa5f38e33c1": "2026-07-15T23:49:46.007Z",
+    "canonical:f87d3b12f3b13cda": "2026-07-16T01:42:07.657Z",
+    "canonical:7ceaf62a71c3688e": "2026-07-16T01:42:07.657Z",
+    "canonical:59545eac26b00b96": "2026-07-16T01:42:07.657Z"
   },
   "jobs": [
     {
@@ -13563,6 +13566,47 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:f87d3b12f3b13cda",
+      "title": "Forward Deployed Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c/application?embed=true",
+      "location": "SF",
+      "department": "Software",
+      "company": "Cybernetic Labs",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:7ceaf62a71c3688e",
+      "title": "Full-Stack Software Engineer Intern - Product",
+      "url": "https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef/application?embed=true",
+      "location": "SF",
+      "department": "Software",
+      "company": "Cybernetic Labs",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:59545eac26b00b96",
+      "title": "IT & Data Systems Intern - Archibus & Applications Development",
+      "url": "https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/New-York-NY/IT---Data-Systems-Intern--Archibus---Applications-Development-_JR3276",
+      "location": "NYC",
+      "department": "AI/ML/Data",
+      "company": "RFCUNY",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
