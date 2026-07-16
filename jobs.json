@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T04:43:37.093Z",
+  "generatedAt": "2026-07-16T07:08:54.521Z",
   "companyCount": 69,
   "okCount": 69,
   "jobCount": 1170,
@@ -1127,7 +1127,6 @@
     "canonical:c3f909dd643f2906": "2026-07-14T16:36:08.415Z",
     "canonical:58dc2e0e785f5d2d": "2026-07-14T23:09:45.194Z",
     "canonical:b09c0a4e6d147686": "2026-07-14T23:09:45.194Z",
-    "canonical:31820da610fbcdc0": "2026-07-14T23:09:45.194Z",
     "canonical:3f5198ea0b4dff11": "2026-07-14T23:09:45.194Z",
     "canonical:154aa86837b41aa3": "2026-07-14T23:09:45.194Z",
     "canonical:36b556c01ba74b0d": "2026-07-14T23:09:45.194Z",
@@ -1173,7 +1172,8 @@
     "canonical:f87d3b12f3b13cda": "2026-07-16T01:42:07.657Z",
     "canonical:7ceaf62a71c3688e": "2026-07-16T01:42:07.657Z",
     "canonical:59545eac26b00b96": "2026-07-16T01:42:07.657Z",
-    "canonical:905ca4c671109896": "2026-07-16T04:43:37.093Z"
+    "canonical:905ca4c671109896": "2026-07-16T04:43:37.093Z",
+    "canonical:060b9bddf19d9b69": "2026-07-16T07:08:54.521Z"
   },
   "jobs": [
     {
@@ -13139,19 +13139,6 @@
       ]
     },
     {
-      "id": "canonical:31820da610fbcdc0",
-      "title": "Frontend Application Engineer Intern",
-      "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/29776",
-      "location": "Pensacola, FL / Vienna, VA",
-      "department": "Software",
-      "company": "Navy Federal",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:3f5198ea0b4dff11",
       "title": "Year Round Intern - Business Intelligence Analyst",
       "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/30289",
@@ -13605,6 +13592,20 @@
       "company": "RFCUNY",
       "score": 68,
       "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:060b9bddf19d9b69",
+      "title": "Software Engineer Intern - Agent Platform",
+      "url": "https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7/application?embed=true",
+      "location": "SF",
+      "department": "Software",
+      "company": "Cybernetic Labs",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]

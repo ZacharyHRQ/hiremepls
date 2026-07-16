@@ -127,7 +127,7 @@
 - [Cubist Systematic Strategies](#cubist-systematic-strategies) (1)
 - [Cupertino Electric, Inc.](#cupertino-electric-inc) (1)
 - [Custom Computer Specialists](#custom-computer-specialists) (1)
-- [Cybernetic Labs](#cybernetic-labs) (2)
+- [Cybernetic Labs](#cybernetic-labs) (3)
 - [d-Matrix](#d-matrix) (1)
 - [Dandy](#dandy) (1)
 - [Databricks](#databricks) (1)
@@ -295,7 +295,7 @@
 - [Nash](#nash) (1)
 - [National Laboratory of the Rockies](#national-laboratory-of-the-rockies) (2)
 - [Navaide](#navaide) (1)
-- [Navy Federal](#navy-federal) (2)
+- [Navy Federal](#navy-federal) (1)
 - [NBCUniversal](#nbcuniversal) (2)
 - [Nelnet](#nelnet) (1)
 - [Netflix](#netflix) (2)
@@ -1384,6 +1384,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern - Agent Platform](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7/application?embed=true) | 93 | SF | Software | 2026-07-16 |
 | [Forward Deployed Engineer Intern](https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c/application?embed=true) | 93 | SF | Software | 2026-07-16 |
 | [Full-Stack Software Engineer Intern - Product](https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef/application?embed=true) | 93 | SF | Software | 2026-07-16 |
 
@@ -2568,7 +2569,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Frontend Application Engineer Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/29776) | 85 | Pensacola, FL / Vienna, VA | Software | 2026-07-14 |
 | [Year Round Intern - Business Intelligence Analyst](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/30289) | 60 | Winchester, VA / Vienna, VA | AI/ML/Data | 2026-07-14 |
 
 ## NBCUniversal
