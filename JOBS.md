@@ -1,6 +1,6 @@
 # Open Internships
 
-**1195** internships across **69/69** companies — last updated 2026-07-16.
+**1194** internships across **69/69** companies — last updated 2026-07-16.
 
 ## Companies
 
@@ -173,7 +173,6 @@
 - [Eulerity](#eulerity) (4)
 - [Eurofins](#eurofins) (3)
 - [EV Realty](#ev-realty) (1)
-- [Everfox](#everfox) (1)
 - [Evolver](#evolver) (1)
 - [Evonik](#evonik) (1)
 - [Exowatt](#exowatt) (3)
@@ -1714,12 +1713,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Data Analytics Intern](https://jobs.lever.co/evrealty-us/0274f48f-9b19-4bed-bf6a-5e02a2b1e865/apply) | 68 | Salt Lake City, UT / SF | AI/ML/Data | 2026-05-22 |
-
-## Everfox
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Product Engineering Intern](https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/UK---London/Product-Intern_JR500719) | 68 | London, UK | Software | 2026-07-15 |
 
 ## Evolver
 

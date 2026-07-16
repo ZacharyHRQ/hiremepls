@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-16T21:57:49.828Z",
+  "generatedAt": "2026-07-16T22:48:37.663Z",
   "companyCount": 69,
   "okCount": 69,
-  "jobCount": 1195,
+  "jobCount": 1194,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1121,7 +1121,6 @@
     "canonical:f652b42fc85fb65c": "2026-07-15T05:52:53.357Z",
     "canonical:1a265ff27273b417": "2026-07-15T07:49:32.127Z",
     "canonical:f27c30f5eef5d1fb": "2026-07-15T12:48:03.230Z",
-    "canonical:bc7560e54784ab8d": "2026-07-15T12:48:03.230Z",
     "canonical:f1555b7490d7d9b9": "2026-07-15T14:41:21.741Z",
     "canonical:18c1469bc3267e0b": "2026-07-15T14:41:21.741Z",
     "canonical:32d9708995752a28": "2026-07-15T14:41:21.741Z",
@@ -11973,19 +11972,6 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:bc7560e54784ab8d",
-      "title": "Product Engineering Intern",
-      "url": "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/UK---London/Product-Intern_JR500719",
-      "location": "London, UK",
-      "department": "Software",
-      "company": "Everfox",
-      "score": 68,
-      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
