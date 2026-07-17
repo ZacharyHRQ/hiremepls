@@ -49,7 +49,7 @@
 - [Astera](#astera) (2)
 - [Astera Labs](#astera-labs) (3)
 - [Astranis](#astranis) (10)
-- [Atomic Semi](#atomic-semi) (4)
+- [Atomic Semi](#atomic-semi) (3)
 - [Auctor](#auctor) (1)
 - [Autodesk](#autodesk) (1)
 - [Avanade](#avanade) (1)
@@ -108,7 +108,7 @@
 - [Ciena](#ciena) (2)
 - [Cirrus Logic](#cirrus-logic) (1)
 - [Citadel](#citadel) (13)
-- [Citadel Securities](#citadel-securities) (11)
+- [Citadel Securities](#citadel-securities) (9)
 - [City of Aurora](#city-of-aurora) (1)
 - [City of Charlotte](#city-of-charlotte) (1)
 - [Clarity Innovations](#clarity-innovations) (1)
@@ -142,6 +142,7 @@
 - [Datasite](#datasite) (3)
 - [DE Shaw](#de-shaw) (1)
 - [Dedalus Labs](#dedalus-labs) (1)
+- [Deepgram](#deepgram) (1)
 - [Definity Financial](#definity-financial) (4)
 - [Delta Air Lines](#delta-air-lines) (1)
 - [Delta Dental](#delta-dental) (1)
@@ -344,7 +345,7 @@
 - [Pinterest](#pinterest) (3)
 - [PlusAI](#plusai) (19)
 - [Podium](#podium) (1)
-- [Point72](#point72) (20)
+- [Point72](#point72) (21)
 - [pony.ai](#pony-ai) (2)
 - [Poshmark](#poshmark) (1)
 - [Prior Labs](#prior-labs) (1)
@@ -404,6 +405,7 @@
 - [StarSling](#starsling) (1)
 - [State of North Carolina](#state-of-north-carolina) (1)
 - [Stevens Capital Management](#stevens-capital-management) (1)
+- [Stevens Institute of Technology](#stevens-institute-of-technology) (1)
 - [Stoke Space](#stoke-space) (1)
 - [Stripe](#stripe) (4)
 - [Sundt](#sundt) (2)
@@ -816,7 +818,6 @@
 | --- | --- | --- | --- | --- |
 | [Embedded Software Engineering Intern](https://jobs.ashbyhq.com/AtomicSemi/13e95284-dbcf-4cf2-8151-c9687dfc1889) | 68 | San Francisco, CA | — | 2026-07-09 |
 | [Software Engineering Intern, Fab](https://jobs.ashbyhq.com/AtomicSemi/947338ca-e135-4398-9aa3-79e131bc03d5?jr_id=69e8f6053aa0c479643a5ee5) | 68 | Austin, TX / San Francisco, CA | — | 2026-07-09 |
-| [Automation Software Engineering Intern](https://jobs.ashbyhq.com/atomicsemi/615feebf-d9e3-4583-9c85-ba16af44e65c/application) | 68 | SF | Hardware | 2026-05-09 |
 | [Infrastructure Software Engineering Intern](https://jobs.ashbyhq.com/atomicsemi/867c67f7-20b5-4726-b9da-85a760d3851e) | 68 | San Francisco, CA / Austin, TX | Software Engineering | 2026-05-09 |
 
 ## Auctor
@@ -1239,10 +1240,8 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Quantitative Research Analyst Intern](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe-2/) | 60 | London, UK | Quant | 2026-07-15 |
-| [Software Engineer Intern](https://www.citadelsecurities.com/careers/details/software-engineer-intern-europe/) | 85 | London, UK | Software | 2026-07-15 |
 | [Quantitative Research Analyst Bachelor's or master's degree Intern](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/) | 60 | London, UK / Paris, France | Quant | 2026-07-13 |
 | [Quantitative Trading Intern](https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-europe/) | 60 | London, UK / Paris, France | Quant | 2026-07-13 |
-| [Rates Trading Intern](https://www.citadelsecurities.com/careers/details/rates-trading-intern-europe/) | 60 | London, UK / Paris, France | Quant | 2026-07-13 |
 | [Quantitative Researcher PhD Intern](https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-europe/) | 85 | London, UK | Quant | 2026-07-08 |
 | [Software Engineer Intern](https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/) | 85 | Miami, FL / NYC | Software | 2026-07-06 |
 | [Credit & Rates Rotational Trader Intern](https://www.citadelsecurities.com/careers/details/credit-rates-rotational-trader-intern-us/) | 60 | NYC | Quant | 2026-07-06 |
@@ -1289,7 +1288,7 @@
 | [Technical Support Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8041135?gh_jid=8041135) | 58 | In-Office | — | 2026-07-03 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
 | [Sales Project Manager Intern (AI Innovation) (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8020830?gh_jid=8020830) | 38 | In-Office | — | 2026-06-23 |
 | [People Team Intern - HR Operations & AI Innovation (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240) | 58 | In-Office | — | 2026-05-20 |
 
@@ -1482,6 +1481,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Forward Deployed Engineer Intern](https://www.workatastartup.com/jobs/94400) | 56 | San Francisco, CA | — | 2026-07-09 |
+
+## Deepgram
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineering- Internship](https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1) | 68 | USA \| Remote | Software / Summer 2027 | 2026-07-17 |
 
 ## Definity Financial
 
@@ -2955,14 +2960,15 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [2027 Technology Development Intern – IIT Kanpur](https://boards.greenhouse.io/point72/jobs/8617343002?gh_jid=8617343002) | 58 | India, Bengaluru | — | 2026-07-17 |
 | [Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) | 85 | New York, NY | — | 2026-07-09 |
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-07-09 |
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-07-09 |
 | [2027 Technology Development Intern – IIT Hyderabad](https://boards.greenhouse.io/point72/jobs/8617340002?gh_jid=8617340002) | 58 | India, Bengaluru | — | 2026-07-02 |
 | [Corporate Access, off-cycle internship (6-months) – Japanese speaking](https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002) | 58 | Hong Kong | — | 2026-06-30 |
 | [Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7586061002) | 93 | NYC | Quant | 2026-05-09 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -3390,6 +3396,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Quantitative Research Analyst Internship](https://job-boards.greenhouse.io/scminternships/jobs/1146416) | 68 | Villanova, PA | Quant | 2026-05-09 |
+
+## Stevens Institute of Technology
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Summer 2026 Intern:  Cyber Security and Reliable AI for UAS and Contested Environments](https://stevens.wd5.myworkdayjobs.com/External/job/Hoboken-NJ---Main-Campus/Summer-2026-Intern---Cyber-Security-and-Reliable-AI-for-UAS-and-Contested-Environments_RQ30408-1) | 68 | Hoboken, NJ - Main Campus | Data & ML/AI / Summer 2027 | 2026-07-17 |
 
 ## Stoke Space
 
