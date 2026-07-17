@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-17T14:09:46.381Z",
+  "generatedAt": "2026-07-17T15:36:14.600Z",
   "companyCount": 69,
   "okCount": 69,
-  "jobCount": 1196,
+  "jobCount": 1195,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -139,8 +139,6 @@
     "canonical:f38b80d1d6c35520": "2026-05-09T15:28:15.527Z",
     "canonical:1ff85e8ca14b40b6": "2026-05-09T15:28:15.527Z",
     "canonical:a5a6f6f8aad4e113": "2026-05-09T15:28:15.527Z",
-    "canonical:23ba199774caa9e1": "2026-05-09T15:28:15.527Z",
-    "canonical:b86053a97df4e116": "2026-05-09T15:28:15.527Z",
     "canonical:35d0d770049adbd3": "2026-05-09T15:28:15.527Z",
     "canonical:33e86b7068f81940": "2026-05-09T15:28:15.527Z",
     "canonical:b926da94b8d1765f": "2026-05-09T15:28:15.527Z",
@@ -983,7 +981,6 @@
     "canonical:e2f701da53ad34d0": "2026-05-06T06:42:07.596Z",
     "canonical:d7e3fa9eea5d3be9": "2026-05-06T06:42:07.596Z",
     "canonical:96b9858b94efd554": "2026-07-02T12:27:44.176Z",
-    "canonical:0790d8066c2219b7": "2026-07-02T12:27:44.176Z",
     "canonical:f6a2850a62ab9742": "2026-05-06T06:42:07.596Z",
     "canonical:91f612fafafcf030": "2026-07-09T00:19:16.415Z",
     "canonical:6e64194c6ae570c0": "2026-07-13T09:28:03.797Z",
@@ -1199,7 +1196,9 @@
     "canonical:b0995157b52a70dd": "2026-07-17T12:19:57.771Z",
     "canonical:309b13379723112b": "2026-07-17T12:19:57.771Z",
     "canonical:4325fb8e7b267a59": "2026-07-17T14:09:46.381Z",
-    "canonical:ec23121dc644d031": "2026-07-17T14:09:46.381Z"
+    "canonical:ec23121dc644d031": "2026-07-17T14:09:46.381Z",
+    "canonical:3a0280cd297d1f55": "2026-07-17T15:36:14.600Z",
+    "canonical:1d5c078c172058f5": "2026-07-17T15:36:14.600Z"
   },
   "jobs": [
     {
@@ -1915,18 +1914,6 @@
       ]
     },
     {
-      "id": "canonical:c61b0e3859703fc5",
-      "title": "FPGA Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/8070392",
-      "location": "London",
-      "department": "",
-      "company": "DRW",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:2bc4df178e85b4f6",
       "title": "FPGA Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/8038923",
@@ -1939,10 +1926,10 @@
       ]
     },
     {
-      "id": "canonical:8f04983c528e0d41",
-      "title": "Leadership Rotation Network Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7993195",
-      "location": "Chicago, IL",
+      "id": "canonical:c61b0e3859703fc5",
+      "title": "FPGA Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/8070392",
+      "location": "London",
       "department": "",
       "company": "DRW",
       "score": 58,
@@ -1955,6 +1942,18 @@
       "title": "Leadership Rotation Network Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7957735",
       "location": "London",
+      "department": "",
+      "company": "DRW",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:8f04983c528e0d41",
+      "title": "Leadership Rotation Network Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7993195",
+      "location": "Chicago, IL",
       "department": "",
       "company": "DRW",
       "score": 58,
@@ -2016,11 +2015,11 @@
       ]
     },
     {
-      "id": "canonical:ae44a67983e1d43a",
+      "id": "canonical:d689c6189209d3fc",
       "title": "Quantitative Trading Analyst Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7668776",
-      "location": "Chicago, IL",
-      "department": "Quant",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957243",
+      "location": "London",
+      "department": "",
       "company": "DRW",
       "score": 68,
       "scoreReasons": [
@@ -2029,11 +2028,11 @@
       ]
     },
     {
-      "id": "canonical:d689c6189209d3fc",
+      "id": "canonical:ae44a67983e1d43a",
       "title": "Quantitative Trading Analyst Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957243",
-      "location": "London",
-      "department": "",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7668776",
+      "location": "Chicago, IL",
+      "department": "Quant",
       "company": "DRW",
       "score": 68,
       "scoreReasons": [
@@ -2050,20 +2049,6 @@
       "company": "DRW",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:bd72b8a6944f6777",
-      "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
-      "location": "London, UK",
-      "department": "Software",
-      "company": "DRW",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -2087,6 +2072,20 @@
       "title": "Software Developer Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
       "location": "Chicago, IL",
+      "department": "Software",
+      "company": "DRW",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:bd72b8a6944f6777",
+      "title": "Software Developer Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
+      "location": "London, UK",
       "department": "Software",
       "company": "DRW",
       "score": 93,
@@ -2448,18 +2447,6 @@
       "id": "canonical:96b9858b94efd554",
       "title": "2027 Technology Development Intern – IIT Hyderabad",
       "url": "https://boards.greenhouse.io/point72/jobs/8617340002?gh_jid=8617340002",
-      "location": "India, Bengaluru",
-      "department": "",
-      "company": "Point72",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:0790d8066c2219b7",
-      "title": "2027 Technology Development Intern – IIT Kanpur",
-      "url": "https://boards.greenhouse.io/point72/jobs/8617343002?gh_jid=8617343002",
       "location": "India, Bengaluru",
       "department": "",
       "company": "Point72",
@@ -5562,32 +5549,6 @@
       "location": "New York, NY",
       "department": "Data Science, AI & Machine Learning",
       "company": "Doctors Without Borders",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:23ba199774caa9e1",
-      "title": "Rust Software Engineering Intern",
-      "url": "https://jobs.ashbyhq.com/atomicsemi/009d0819-c688-4ab9-8816-a3c7ab002470/application",
-      "location": "SF",
-      "department": "Software",
-      "company": "Atomic Semi",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:b86053a97df4e116",
-      "title": "Embedded Software Engineering Intern",
-      "url": "https://jobs.ashbyhq.com/atomicsemi/de448098-ffc6-4b99-b341-d6a5874f390f/application",
-      "location": "SF",
-      "department": "Hardware",
-      "company": "Atomic Semi",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -12357,6 +12318,19 @@
       ]
     },
     {
+      "id": "canonical:3a0280cd297d1f55",
+      "title": "Editorial Data Reporting Intern",
+      "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "LexisNexis Risk Solutions",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:03256d9192dfcb79",
       "title": "Research Scientist Intern - Monetization Computer Vision",
       "url": "https://www.metacareers.com/jobs/2281218542616482",
@@ -13598,6 +13572,19 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1d5c078c172058f5",
+      "title": "Management Analyst Intern - Research and Planning Division",
+      "url": "https://charlottenc.wd12.myworkdayjobs.com/citgov/job/CMPD-HQ/Management-Analyst-Intern--Research-and-Planning-Division_JR104084-1",
+      "location": "Charlotte, NC",
+      "department": "AI/ML/Data",
+      "company": "City of Charlotte",
+      "score": 68,
+      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
