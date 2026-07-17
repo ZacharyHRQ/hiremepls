@@ -1,6 +1,6 @@
 # Open Internships
 
-**1192** internships across **69/69** companies — last updated 2026-07-17.
+**1188** internships across **69/69** companies — last updated 2026-07-17.
 
 ## Companies
 
@@ -91,7 +91,7 @@
 - [Brookfield](#brookfield) (1)
 - [Brunswick](#brunswick) (1)
 - [BSE Global](#bse-global) (1)
-- [ByteDance](#bytedance) (32)
+- [ByteDance](#bytedance) (31)
 - [CACI](#caci) (1)
 - [Cadence Design Systems](#cadence-design-systems) (3)
 - [CAE](#cae) (2)
@@ -113,7 +113,7 @@
 - [City of Charlotte](#city-of-charlotte) (1)
 - [Clarity Innovations](#clarity-innovations) (1)
 - [Clera](#clera) (1)
-- [Cloudflare](#cloudflare) (14)
+- [Cloudflare](#cloudflare) (13)
 - [Cloudforce](#cloudforce) (1)
 - [Codeage](#codeage) (1)
 - [Cohere](#cohere) (6)
@@ -371,7 +371,6 @@
 - [Robinhood](#robinhood) (1)
 - [Rocket Lab](#rocket-lab) (1)
 - [Rockwell Automation](#rockwell-automation) (1)
-- [RTX](#rtx) (2)
 - [Salesforce](#salesforce) (1)
 - [Samaya](#samaya) (1)
 - [Samsung Research America](#samsung-research-america) (3)
@@ -1111,7 +1110,6 @@
 | [Researcher Intern - Virtual Network](https://jobs.bytedance.com/en/position/7537163899668531474/detail) | 75 | Seattle, WA | Hardware | 2026-06-03 |
 | [Research Intern - AI/LLM Network](https://jobs.bytedance.com/en/position/7539992380817639687/detail) | 60 | Seattle, WA | AI/ML/Data | 2026-06-03 |
 | [Research Intern - AI/LLM Network](https://jobs.bytedance.com/en/position/7539991964504017170/detail) | 60 | San Jose, CA | AI/ML/Data | 2026-06-03 |
-| [Research Intern - Video Data Compression and Application](https://jobs.bytedance.com/en/position/7538674634397813010/detail) | 60 | San Diego, CA | AI/ML/Data | 2026-06-03 |
 | [Research Intern - Virtual Network](https://jobs.bytedance.com/en/position/7537164763424606482/detail) | 50 | San Jose, CA | Hardware | 2026-06-03 |
 
 ## CACI
@@ -1277,7 +1275,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Security Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8060959?gh_jid=8060959) | 93 | In-Office | — | 2026-07-15 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-15 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-15 |
 | [Public Policy Intern](https://boards.greenhouse.io/cloudflare/jobs/8053437?gh_jid=8053437) | 58 | Hybrid; In-Office | — | 2026-07-14 |
@@ -1288,7 +1285,7 @@
 | [Technical Support Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8041135?gh_jid=8041135) | 58 | In-Office | — | 2026-07-03 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
 | [Sales Project Manager Intern (AI Innovation) (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8020830?gh_jid=8020830) | 38 | In-Office | — | 2026-06-23 |
 | [People Team Intern - HR Operations & AI Innovation (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240) | 58 | In-Office | — | 2026-05-20 |
 
@@ -3155,13 +3152,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Firmware Engineering Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Cambridge-Ontario-Canada/Intern--Firmware-Engineering_R26-4530-1) | 58 | Cambridge, ON, Canada | Hardware | 2026-07-07 |
-
-## RTX
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Transformation numerique Intern - Digital Transformation](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage--Automne-2026-Transformation-numerique---Internship---Fall-2026---Digital-Transformation_01852099) | 68 | Longueuil, QC, Canada | AI/ML/Data | 2026-07-17 |
-| [Digital Project Engineer Intern - Digital Project Engineering](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship-Fall-2026---Digital-Project-Engineering_01837887-1) | 93 | Mississauga, ON, Canada | AI/ML/Data | 2026-07-17 |
 
 ## Salesforce
 

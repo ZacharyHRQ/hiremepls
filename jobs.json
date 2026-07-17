@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-17T17:46:14.426Z",
+  "generatedAt": "2026-07-17T18:52:29.849Z",
   "companyCount": 69,
   "okCount": 69,
-  "jobCount": 1192,
+  "jobCount": 1188,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -309,7 +309,6 @@
     "canonical:591f77d8c25c0856": "2026-06-03T00:01:07.922Z",
     "canonical:a24cbe9d8652e7b2": "2026-06-03T00:01:07.922Z",
     "canonical:2fc67c32963a8970": "2026-06-03T00:01:07.922Z",
-    "canonical:b756c1405d005a89": "2026-06-03T00:01:07.922Z",
     "canonical:f335cc870420f551": "2026-06-03T00:01:07.922Z",
     "canonical:9f26983a768cc42f": "2026-06-03T00:01:07.922Z",
     "canonical:0f3e220c90e81be2": "2026-06-03T00:01:07.922Z",
@@ -1107,7 +1106,6 @@
     "canonical:b06ae83b159eb239": "2026-07-15T17:35:56.580Z",
     "canonical:fcfdd39100036941": "2026-07-15T18:43:39.094Z",
     "canonical:6fbcace9a38d133f": "2026-07-15T18:43:39.094Z",
-    "canonical:d14a513f8325af8e": "2026-07-15T21:47:19.670Z",
     "canonical:c8ed86e2d1d09b0b": "2026-07-15T22:48:17.413Z",
     "canonical:b76f80c6e44d295b": "2026-07-15T22:48:17.413Z",
     "canonical:ce69206f257dadc3": "2026-07-15T22:48:17.413Z",
@@ -1185,10 +1183,8 @@
     "canonical:165736f3f7436d71": "2026-07-17T11:01:51.540Z",
     "canonical:e4e59c3d19a3ebd0": "2026-07-17T11:01:51.540Z",
     "canonical:dc3e9c508c732c43": "2026-07-17T11:01:51.540Z",
-    "canonical:b21894b5051413ee": "2026-07-17T11:01:51.540Z",
     "canonical:ac88b4fd6305623b": "2026-07-17T12:19:57.771Z",
     "canonical:b0995157b52a70dd": "2026-07-17T12:19:57.771Z",
-    "canonical:309b13379723112b": "2026-07-17T12:19:57.771Z",
     "canonical:4325fb8e7b267a59": "2026-07-17T14:09:46.381Z",
     "canonical:ec23121dc644d031": "2026-07-17T14:09:46.381Z",
     "canonical:3a0280cd297d1f55": "2026-07-17T15:36:14.600Z",
@@ -3145,7 +3141,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -3201,20 +3197,6 @@
       "scoreReasons": [
         "direct ATS",
         "lower-fit title"
-      ]
-    },
-    {
-      "id": "canonical:d14a513f8325af8e",
-      "title": "Security Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8060959?gh_jid=8060959",
-      "location": "In-Office",
-      "department": "",
-      "company": "Cloudflare",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -7922,18 +7904,6 @@
       ]
     },
     {
-      "id": "canonical:b756c1405d005a89",
-      "title": "Research Intern - Video Data Compression and Application",
-      "url": "https://jobs.bytedance.com/en/position/7538674634397813010/detail",
-      "location": "San Diego, CA",
-      "department": "AI/ML/Data",
-      "company": "ByteDance",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:f335cc870420f551",
       "title": "Optical Packaging and Characterization Engineer Intern",
       "url": "https://www.psiquantum.com/apply?gh_jid=7761881003",
@@ -12450,19 +12420,6 @@
       ]
     },
     {
-      "id": "canonical:309b13379723112b",
-      "title": "Transformation numerique Intern - Digital Transformation",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage--Automne-2026-Transformation-numerique---Internship---Fall-2026---Digital-Transformation_01852099",
-      "location": "Longueuil, QC, Canada",
-      "department": "AI/ML/Data",
-      "company": "RTX",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:43728627d97ce77d",
       "title": "Campus Quantitative Researcher M1/M2 Intern",
       "url": "https://boards.greenhouse.io/embed/job_app?token=8059384",
@@ -13493,20 +13450,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:b21894b5051413ee",
-      "title": "Digital Project Engineer Intern - Digital Project Engineering",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship-Fall-2026---Digital-Project-Engineering_01837887-1",
-      "location": "Mississauga, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "RTX",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
