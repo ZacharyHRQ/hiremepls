@@ -1,6 +1,6 @@
 # Open Internships
 
-**1198** internships across **69/69** companies — last updated 2026-07-17.
+**1196** internships across **69/69** companies — last updated 2026-07-17.
 
 ## Companies
 
@@ -49,7 +49,7 @@
 - [Astera](#astera) (2)
 - [Astera Labs](#astera-labs) (3)
 - [Astranis](#astranis) (10)
-- [Atomic Semi](#atomic-semi) (8)
+- [Atomic Semi](#atomic-semi) (6)
 - [Auctor](#auctor) (1)
 - [Autodesk](#autodesk) (1)
 - [Avanade](#avanade) (1)
@@ -128,7 +128,7 @@
 - [Cotiviti](#cotiviti) (4)
 - [Creatify Lab ](#creatify-lab) (1)
 - [Cresta](#cresta) (2)
-- [Cribl](#cribl) (1)
+- [Cribl](#cribl) (2)
 - [Cubist Systematic Strategies](#cubist-systematic-strategies) (1)
 - [Cupertino Electric, Inc.](#cupertino-electric-inc) (1)
 - [CuspAI](#cuspai) (1)
@@ -219,7 +219,6 @@
 - [Hershey Entertainment & Resorts Company](#hershey-entertainment-resorts-company) (1)
 - [HEXAWARE](#hexaware) (1)
 - [Hitachi](#hitachi) (1)
-- [Hitachi Energy](#hitachi-energy) (1)
 - [Hiverge](#hiverge) (1)
 - [HNTB](#hntb) (1)
 - [Homebase](#homebase) (1)
@@ -264,7 +263,6 @@
 - [Lambda](#lambda) (1)
 - [Landis+Gyr](#landis-gyr) (1)
 - [Lawrence Livermore National Laboratory (LLNL)](#lawrence-livermore-national-laboratory-llnl) (2)
-- [Legrand North America](#legrand-north-america) (1)
 - [Lensa](#lensa) (3)
 - [LinkedIn](#linkedin) (3)
 - [LiveRamp](#liveramp) (1)
@@ -398,7 +396,7 @@
 - [Snowflake](#snowflake) (12)
 - [Solar Turbines](#solar-turbines) (1)
 - [SoloPulse](#solopulse) (3)
-- [Sony](#sony) (1)
+- [Sony](#sony) (2)
 - [SOTI](#soti) (3)
 - [SpaceX](#spacex) (2)
 - [Sparksoft](#sparksoft) (1)
@@ -818,12 +816,10 @@
 | --- | --- | --- | --- | --- |
 | [Embedded Software Engineering Intern](https://jobs.ashbyhq.com/AtomicSemi/13e95284-dbcf-4cf2-8151-c9687dfc1889) | 68 | San Francisco, CA | — | 2026-07-09 |
 | [Software Engineering Intern, Fab](https://jobs.ashbyhq.com/AtomicSemi/947338ca-e135-4398-9aa3-79e131bc03d5?jr_id=69e8f6053aa0c479643a5ee5) | 68 | Austin, TX / San Francisco, CA | — | 2026-07-09 |
-| [Packaging Engineering Intern](https://jobs.ashbyhq.com/atomicsemi/4497473d-0ce0-4e83-88c3-2afedceac622/application) | 58 | SF | Hardware | 2026-07-04 |
 | [Automation Software Engineering Intern](https://jobs.ashbyhq.com/atomicsemi/615feebf-d9e3-4583-9c85-ba16af44e65c/application) | 68 | SF | Hardware | 2026-05-09 |
 | [Embedded Software Engineering Intern](https://jobs.ashbyhq.com/atomicsemi/de448098-ffc6-4b99-b341-d6a5874f390f/application) | 68 | SF | Hardware | 2026-05-09 |
 | [Infrastructure Software Engineering Intern](https://jobs.ashbyhq.com/atomicsemi/867c67f7-20b5-4726-b9da-85a760d3851e) | 68 | San Francisco, CA / Austin, TX | Software Engineering | 2026-05-09 |
 | [Rust Software Engineering Intern](https://jobs.ashbyhq.com/atomicsemi/009d0819-c688-4ab9-8816-a3c7ab002470/application) | 68 | SF | Software | 2026-05-09 |
-| [Software Engineering Intern](https://jobs.ashbyhq.com/atomicsemi/947338ca-e135-4398-9aa3-79e131bc03d5/application) | 68 | SF | Software | 2026-05-09 |
 
 ## Auctor
 
@@ -1403,6 +1399,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Customer Advocacy Intern](https://cribl.io/job-detail/?gh_jid=6111976004) | 50 | Remote - San Francisco, California | — | 2026-07-17 |
 | [Revenue Enablement Intern](https://cribl.io/job-detail/?gh_jid=5165439004) | 50 | Remote - United States | — | 2026-06-16 |
 
 ## Cubist Systematic Strategies
@@ -2026,12 +2023,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Analyst Intern](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--12months-_R1012380-1) | 68 | Toronto, ON, Canada | Software | 2026-07-07 |
 
-## Hitachi Energy
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Analyst Intern](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Burnaby-British-Columbia-Canada/Software-Analyst-Intern--Fall-2026--4-8-12-months-_R1012892-1) | 68 | Burnaby, BC, Canada | Software | 2026-07-07 |
-
 ## Hiverge
 
 | Title | Score | Location | Department | First seen |
@@ -2131,8 +2122,8 @@
 | [Hardware Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) | 58 | Chicago, United States | — | 2026-07-01 |
 | [Graduate Quantitative Researcher](https://job-boards.eu.greenhouse.io/imc/jobs/4892687101) | 99 | Zug, Switzerland | — | 2026-06-12 |
 | [Hardware Machine Learning PhD Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, IL | AI/ML/Data | 2026-05-09 |
-| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
+| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
 
 ## Impulse Space
 
@@ -2371,12 +2362,6 @@
 | --- | --- | --- | --- | --- |
 | [Computing Graduate Student Intern](https://jobs.smartrecruiters.com/LLNL/3743990013801396) | 74 | Livermore, CA | AI/ML/Data | 2026-07-01 |
 | [Computing Undergraduate Student Intern](https://jobs.smartrecruiters.com/LLNL/3743990013801386) | 68 | Livermore, CA | AI/ML/Data | 2026-07-01 |
-
-## Legrand North America
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Applied Data Analytics Intern](https://jobs-legrand.icims.com/jobs/10117/job?mobile=true&needsRedirect=false) | 60 | Syracuse, NY | AI/ML/Data | 2026-07-01 |
 
 ## Lensa
 
@@ -2974,8 +2959,8 @@
 | [2027 Technology Development Intern – IIT Kanpur](https://boards.greenhouse.io/point72/jobs/8617343002?gh_jid=8617343002) | 58 | India, Bengaluru | — | 2026-07-02 |
 | [Corporate Access, off-cycle internship (6-months) – Japanese speaking](https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002) | 58 | Hong Kong | — | 2026-06-30 |
 | [Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7586061002) | 93 | NYC | Quant | 2026-05-09 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -3358,6 +3343,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-119282) | 93 | San Diego, CA | Software | 2026-07-17 |
 | [Research Intern on Generative and Protective AI for Content Creation](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335) | 68 | Remote - New York | Data & ML/AI / Summer 2027 | 2026-07-16 |
 
 ## SOTI
