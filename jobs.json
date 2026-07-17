@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-17T20:52:14.855Z",
+  "generatedAt": "2026-07-17T21:41:23.615Z",
   "companyCount": 69,
   "okCount": 69,
-  "jobCount": 1189,
+  "jobCount": 1187,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -239,7 +239,6 @@
     "canonical:7f6bafc59ca8e261": "2026-05-19T08:58:19.722Z",
     "canonical:ae587a3dd163baf3": "2026-05-19T12:09:46.073Z",
     "canonical:fb66aae0f309968e": "2026-05-19T23:43:59.617Z",
-    "canonical:fbdd5a056fe65f91": "2026-05-20T01:49:18.107Z",
     "canonical:ec7947b941c678b5": "2026-05-20T05:58:26.449Z",
     "canonical:662cd93e03a48f7c": "2026-05-20T05:58:26.449Z",
     "canonical:7f419ef77a740af3": "2026-05-20T12:10:44.642Z",
@@ -1174,7 +1173,6 @@
     "canonical:dcf668a2472e4356": "2026-07-17T01:45:24.952Z",
     "canonical:c8a575c78cf2837d": "2026-07-17T01:45:24.952Z",
     "canonical:a42145cb84215a88": "2026-07-17T01:45:24.952Z",
-    "canonical:5e4daa88db85e9c8": "2026-07-17T01:45:24.952Z",
     "canonical:120eb953bd1f0b9f": "2026-07-17T01:45:24.952Z",
     "canonical:83533ab9de2805c9": "2026-07-17T01:45:24.952Z",
     "canonical:09305d61718c8a08": "2026-07-17T01:45:24.952Z",
@@ -3142,19 +3140,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
-      "location": "In-Office",
-      "department": "",
-      "company": "Cloudflare",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:fbdd5a056fe65f91",
-      "title": "People Team Intern - HR Operations & AI Innovation (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -13359,20 +13345,6 @@
       "company": "CuspAI",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:5e4daa88db85e9c8",
-      "title": "Full Stack Developer Intern",
-      "url": "https://jobs.lever.co/geocomply-2/a3131ad8-06ec-4c6e-b27c-81aa4c02cc40/apply",
-      "location": "Vancouver, BC, Canada",
-      "department": "Software",
-      "company": "GeoComply",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
