@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-18T19:21:35.040Z",
+  "generatedAt": "2026-07-18T20:10:41.153Z",
   "companyCount": 69,
   "okCount": 69,
-  "jobCount": 1154,
+  "jobCount": 1152,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -26,7 +26,6 @@
     "canonical:6a8c381d419eba3a": "2026-05-06T06:42:07.596Z",
     "canonical:25a35a8868c43e61": "2026-05-06T06:42:07.596Z",
     "canonical:d277a6a426412a6c": "2026-05-06T06:42:07.596Z",
-    "canonical:e849d8f5eadb294f": "2026-05-09T15:28:15.527Z",
     "canonical:e1aa6798960d42b7": "2026-05-09T15:28:15.527Z",
     "canonical:3875facf3ff103d4": "2026-05-09T15:28:15.527Z",
     "canonical:1975c7c0a164af01": "2026-05-09T15:28:15.527Z",
@@ -1154,7 +1153,6 @@
     "canonical:b0995157b52a70dd": "2026-07-18T18:05:59.798Z",
     "canonical:6372dbe5b6be1779": "2026-07-18T18:05:59.798Z",
     "canonical:a4269b2f09e7625a": "2026-07-18T18:05:59.798Z",
-    "canonical:0eba384396bae400": "2026-07-18T18:05:59.798Z",
     "canonical:18c1469bc3267e0b": "2026-07-18T19:21:35.040Z",
     "canonical:25170466c178dd22": "2026-07-18T19:21:35.040Z",
     "canonical:001e3f9b46493b2f": "2026-07-18T19:21:35.040Z"
@@ -3261,20 +3259,6 @@
       "company": "Cribl",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:e849d8f5eadb294f",
-      "title": "Rtk Internship - Junior Software Engineer",
-      "url": "https://job-boards.greenhouse.io/aechelontechnology/jobs/4904960008",
-      "location": "Farmers Branch, TX",
-      "department": "Software",
-      "company": "Aechelon Technology",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
     },
     {
       "id": "canonical:e1aa6798960d42b7",
@@ -12892,19 +12876,6 @@
       "location": "Chicago, IL",
       "department": "AI/ML/Data",
       "company": "Light & Wonder",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:0eba384396bae400",
-      "title": "ML PhD Intern - LLMs & Generative AI",
-      "url": "https://job-boards.greenhouse.io/truveta/jobs/5712997004",
-      "location": "Seattle, WA",
-      "department": "AI/ML/Data",
-      "company": "Truveta",
       "score": 68,
       "scoreReasons": [
         "high-signal role",

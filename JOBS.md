@@ -1,6 +1,6 @@
 # Open Internships
 
-**1154** internships across **69/69** companies — last updated 2026-07-18.
+**1152** internships across **69/69** companies — last updated 2026-07-18.
 
 ## Companies
 
@@ -16,7 +16,6 @@
 - [Adaptive Security](#adaptive-security) (1)
 - [Advanced Energy](#advanced-energy) (1)
 - [Advantmed](#advantmed) (1)
-- [Aechelon Technology](#aechelon-technology) (1)
 - [AeroVironment](#aerovironment) (1)
 - [AfterQuery](#afterquery) (1)
 - [Agilent Technologies](#agilent-technologies) (1)
@@ -425,7 +424,6 @@
 - [TransMarket Group](#transmarket-group) (2)
 - [Trata](#trata) (1)
 - [Truland Equipment](#truland-equipment) (1)
-- [Truveta](#truveta) (1)
 - [Two Six Technologies](#two-six-technologies) (1)
 - [Uber](#uber) (1)
 - [Uncountable](#uncountable) (1)
@@ -531,12 +529,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [AI Automation Intern](https://apply.workable.com/advantmed/j/45F5E3C394/) | 68 | Remote in USA | Data Science, AI & Machine Learning | 2026-05-09 |
-
-## Aechelon Technology
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Rtk Internship - Junior Software Engineer](https://job-boards.greenhouse.io/aechelontechnology/jobs/4904960008) | 93 | Farmers Branch, TX | Software | 2026-05-09 |
 
 ## AeroVironment
 
@@ -3665,12 +3657,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Power Platform Intern](https://www.trulandequip.com/about-us/careers/?gh_jid=5174621007) | 60 | Fort Wayne, IN | AI/ML/Data | 2026-07-01 |
-
-## Truveta
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [ML PhD Intern - LLMs & Generative AI](https://job-boards.greenhouse.io/truveta/jobs/5712997004) | 68 | Seattle, WA | AI/ML/Data | 2026-07-18 |
 
 ## Two Six Technologies
 
