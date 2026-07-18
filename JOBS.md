@@ -1,6 +1,6 @@
 # Open Internships
 
-**1147** internships across **69/69** companies — last updated 2026-07-18.
+**1152** internships across **69/69** companies — last updated 2026-07-18.
 
 ## Companies
 
@@ -253,6 +253,7 @@
 - [Landis+Gyr](#landis-gyr) (1)
 - [Lawrence Livermore National Laboratory (LLNL)](#lawrence-livermore-national-laboratory-llnl) (2)
 - [Lensa](#lensa) (3)
+- [Light & Wonder](#light-wonder) (1)
 - [LinkedIn](#linkedin) (3)
 - [LiveRamp](#liveramp) (1)
 - [Mackenzie Investments](#mackenzie-investments) (1)
@@ -296,7 +297,7 @@
 - [Nokia](#nokia) (3)
 - [Northwestern Mutual](#northwestern-mutual) (2)
 - [Notion](#notion) (5)
-- [NVIDIA](#nvidia) (8)
+- [NVIDIA](#nvidia) (10)
 - [NXP Semiconductors](#nxp-semiconductors) (2)
 - [Octaura](#octaura) (1)
 - [OfferUp](#offerup) (1)
@@ -405,7 +406,7 @@
 - [The Trade Desk](#the-trade-desk) (2)
 - [The University of Edinburgh](#the-university-of-edinburgh) (1)
 - [The Wonderful Company](#the-wonderful-company) (1)
-- [thyssenkrupp](#thyssenkrupp) (1)
+- [thyssenkrupp](#thyssenkrupp) (2)
 - [TIFIN](#tifin) (1)
 - [TikTok](#tiktok) (66)
 - [Tilde Research](#tilde-research) (2)
@@ -423,6 +424,7 @@
 - [TransMarket Group](#transmarket-group) (2)
 - [Trata](#trata) (1)
 - [Truland Equipment](#truland-equipment) (1)
+- [Truveta](#truveta) (1)
 - [Two Six Technologies](#two-six-technologies) (1)
 - [Uber](#uber) (1)
 - [Uncountable](#uncountable) (1)
@@ -1213,7 +1215,7 @@
 | [Technical Support Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8041135?gh_jid=8041135) | 58 | In-Office | — | 2026-07-03 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
 | [Sales Project Manager Intern (AI Innovation) (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8020830?gh_jid=8020830) | 38 | In-Office | — | 2026-06-23 |
 
 ## Cloudforce
@@ -1299,10 +1301,10 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Database Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Database-Engineering-Intern_JR109636) | 93 | Dallas, TX | Software | 2026-07-18 |
 | [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393) | 93 | Dallas, TX | Software | 2026-07-18 |
 | [Software Engineering Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR106129) | 68 | Dallas, TX | Software | 2026-07-18 |
 | [Technology Product Analyst Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107890) | 58 | Dallas, TX | Product | 2026-07-18 |
-| [Software Engineering Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109672) | 68 | Dallas, TX - Headquarters | Software / Summer 2027 | 2026-07-18 |
 | [DevOps Engineering Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/DevOps-Engineering-Intern_JR109490) | 68 | Dallas, TX - Headquarters | Software / Summer 2027 | 2026-07-16 |
 
 ## Cotiviti
@@ -2267,6 +2269,12 @@
 | [2026 Summer Internship Program - Investment Banking](https://www.linkedin.com/jobs/view/4257296455) | 42 | Baltimore, MD | — | 2026-07-09 |
 | [Accounting Internship Summer 2026](https://lensa.com/job-application-accounting-internship-summer-2026-in-wayne-pa/cpc-jd-v3/bdd3c15c3b73ec0e9b7e0b5b4cbefe35453222188f523f433d39e72a3abd4740?tr=b4a83a7f255547c9982fd106a9550d5aincc1&utm_source=linkedin&utm_medium=slot&utm_campaign=Financial+Specialists&utm_term=jse) | 22 | Wayne, PA | — | 2026-07-09 |
 
+## Light & Wonder
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Mathematics Intern](https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Chicago-IL/Math-Intern_R322327) | 68 | Chicago, IL | AI/ML/Data | 2026-07-18 |
+
 ## LinkedIn
 
 | Title | Score | Location | Department | First seen |
@@ -2571,11 +2579,13 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Java Engineer Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Java-Engineering-Intern---Fall-2026_JR2019769) | 93 | Santa Clara, CA | Software | 2026-07-18 |
+| [Applied Research Intern - NLP](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488) | 68 | Santa Clara, CA | AI/ML/Data | 2026-07-18 |
+| [PhD Research Intern - System Software and I/O Architecture](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--System-Software-and-I-O-Architecture---Fall-2026_JR2019667) | 68 | Urbana, IL / Remote in USA / Santa Clara, CA | Software | 2026-07-18 |
 | [PhD Software Engineer Intern - Decision Intelligence](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522) | 93 | Santa Clara, CA | Hardware | 2026-07-18 |
 | [Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398) | 68 | Santa Clara, CA | AI/ML/Data | 2026-07-18 |
 | [PhD Research Intern - Security and Privacy](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1) | 68 | Santa Clara, CA | AI/ML/Data | 2026-07-18 |
 | [PhD Research Intern - Generative AI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035) | 68 | California / Santa Clara, CA / United States | AI/ML/Data | 2026-07-18 |
-| [Applied Research Intern, NLP - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488) | 68 | US, CA, Santa Clara | Data & ML/AI / Fall 2026 | 2026-07-18 |
 | [Software Engineering Intern, JAX](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745) | 68 | Santa Clara, CA | — | 2026-07-14 |
 | [Performance Engineer Intern, Systems Software-  Fall 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779) | 93 | US, MO, St. Louis | Software / Fall 2026 | 2026-07-13 |
 | [Quantum Research Scientist Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244) | 93 | Santa Clara, CA | — | 2026-07-09 |
@@ -2800,8 +2810,8 @@
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-07-09 |
 | [Corporate Access, off-cycle internship (6-months) – Japanese speaking](https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002) | 58 | Hong Kong | — | 2026-06-30 |
 | [Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7586061002) | 93 | NYC | Quant | 2026-05-09 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -3469,6 +3479,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Analytics Intern](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Analytics-Intern_JR105406) | 68 | Cleveland, OH | AI/ML/Data | 2026-07-18 |
 | [Sustainability Systems Intern](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Sustainability-Systems-Intern_JR104148) | 68 | Cleveland, OH | AI/ML/Data | 2026-07-18 |
 
 ## TIFIN
@@ -3646,6 +3657,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Power Platform Intern](https://www.trulandequip.com/about-us/careers/?gh_jid=5174621007) | 60 | Fort Wayne, IN | AI/ML/Data | 2026-07-01 |
+
+## Truveta
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [ML PhD Intern - LLMs & Generative AI](https://job-boards.greenhouse.io/truveta/jobs/5712997004) | 68 | Seattle, WA | AI/ML/Data | 2026-07-18 |
 
 ## Two Six Technologies
 
