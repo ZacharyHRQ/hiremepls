@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T01:03:35.430Z",
+  "generatedAt": "2026-07-18T04:11:49.614Z",
   "companyCount": 69,
   "okCount": 69,
   "jobCount": 1192,
@@ -971,7 +971,6 @@
     "canonical:b76456a99ff87181": "2026-05-06T06:42:07.596Z",
     "canonical:e2f701da53ad34d0": "2026-05-06T06:42:07.596Z",
     "canonical:d7e3fa9eea5d3be9": "2026-05-06T06:42:07.596Z",
-    "canonical:96b9858b94efd554": "2026-07-02T12:27:44.176Z",
     "canonical:f6a2850a62ab9742": "2026-05-06T06:42:07.596Z",
     "canonical:91f612fafafcf030": "2026-07-09T00:19:16.415Z",
     "canonical:6e64194c6ae570c0": "2026-07-13T09:28:03.797Z",
@@ -1179,7 +1178,6 @@
     "canonical:4325fb8e7b267a59": "2026-07-17T14:09:46.381Z",
     "canonical:ec23121dc644d031": "2026-07-17T14:09:46.381Z",
     "canonical:1d5c078c172058f5": "2026-07-17T15:36:14.600Z",
-    "canonical:0790d8066c2219b7": "2026-07-17T17:46:14.426Z",
     "canonical:40f4a990c528ee6c": "2026-07-17T17:46:14.426Z",
     "canonical:8329eb3d1368fcd7": "2026-07-17T17:46:14.426Z",
     "canonical:e3ce3fd715c5506d": "2026-07-17T19:58:09.405Z",
@@ -1195,7 +1193,9 @@
     "canonical:1ab88e5514c107f0": "2026-07-17T23:32:15.714Z",
     "canonical:aa62fdde2d6e0515": "2026-07-17T23:32:15.714Z",
     "canonical:06a20a4e118ea6bf": "2026-07-18T01:03:35.430Z",
-    "canonical:dfa904bb63df5fe7": "2026-07-18T01:03:35.430Z"
+    "canonical:dfa904bb63df5fe7": "2026-07-18T01:03:35.430Z",
+    "canonical:1ee6ba6747ac87c2": "2026-07-18T04:11:49.614Z",
+    "canonical:417e3f281b3a03a3": "2026-07-18T04:11:49.614Z"
   },
   "jobs": [
     {
@@ -2441,30 +2441,6 @@
       ]
     },
     {
-      "id": "canonical:96b9858b94efd554",
-      "title": "2027 Technology Development Intern – IIT Hyderabad",
-      "url": "https://boards.greenhouse.io/point72/jobs/8617340002?gh_jid=8617340002",
-      "location": "India, Bengaluru",
-      "department": "",
-      "company": "Point72",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:0790d8066c2219b7",
-      "title": "2027 Technology Development Intern – IIT Kanpur",
-      "url": "https://boards.greenhouse.io/point72/jobs/8617343002?gh_jid=8617343002",
-      "location": "India, Bengaluru",
-      "department": "",
-      "company": "Point72",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:2c4e07bd36facad2",
       "title": "Corporate Access, off-cycle internship (6-months) – Japanese speaking",
       "url": "https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002",
@@ -2477,10 +2453,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -2491,10 +2467,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -10916,6 +10892,32 @@
       ]
     },
     {
+      "id": "canonical:1ee6ba6747ac87c2",
+      "title": "Machine Learning Researcher PhD Intern",
+      "url": "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-intern-us/",
+      "location": "Miami, FL / NYC",
+      "department": "AI/ML/Data",
+      "company": "Citadel Securities",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:417e3f281b3a03a3",
+      "title": "Quantitative Researcher PhD Intern",
+      "url": "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-us/",
+      "location": "Miami, FL / NYC",
+      "department": "Quant",
+      "company": "Citadel Securities",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:9b2f6d5991a31273",
       "title": "Quantitative Researcher PhD Intern",
       "url": "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-europe/",
@@ -15878,7 +15880,7 @@
     },
     {
       "id": "canonical:40f4a990c528ee6c",
-      "title": "Software Engineering- Internship",
+      "title": "Software Engineering- Internship (Fall 2026/Summer 2027)",
       "url": "https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1",
       "location": "USA | Remote",
       "department": "Software / Summer 2027",
