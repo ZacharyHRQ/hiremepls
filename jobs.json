@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-18T09:44:51.577Z",
+  "generatedAt": "2026-07-18T10:49:16.292Z",
   "companyCount": 69,
   "okCount": 69,
-  "jobCount": 1122,
+  "jobCount": 1121,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -889,7 +889,6 @@
     "canonical:c6951e2db477e52a": "2026-07-10T23:30:41.605Z",
     "canonical:4b21328cc5217e15": "2026-07-11T04:25:06.399Z",
     "canonical:f70b33853919b982": "2026-07-11T08:25:30.402Z",
-    "canonical:1782ca39c8f2f506": "2026-07-11T11:43:49.489Z",
     "canonical:01dae773e3ef7062": "2026-07-12T06:25:25.384Z",
     "canonical:61c93da9140cb7e3": "2026-07-12T14:02:35.390Z",
     "canonical:6418a1b0042bfe92": "2026-07-12T14:02:35.390Z",
@@ -1101,7 +1100,6 @@
     "canonical:83533ab9de2805c9": "2026-07-17T01:45:24.952Z",
     "canonical:13a0556000f86173": "2026-07-17T01:45:24.952Z",
     "canonical:165736f3f7436d71": "2026-07-17T11:01:51.540Z",
-    "canonical:e4e59c3d19a3ebd0": "2026-07-17T11:01:51.540Z",
     "canonical:dc3e9c508c732c43": "2026-07-17T11:01:51.540Z",
     "canonical:ac88b4fd6305623b": "2026-07-17T12:19:57.771Z",
     "canonical:4325fb8e7b267a59": "2026-07-17T14:09:46.381Z",
@@ -1110,7 +1108,6 @@
     "canonical:8329eb3d1368fcd7": "2026-07-17T17:46:14.426Z",
     "canonical:e3ce3fd715c5506d": "2026-07-17T19:58:09.405Z",
     "canonical:01c8480748dbc10b": "2026-07-17T23:32:15.714Z",
-    "canonical:45be727efdef9ad8": "2026-07-17T23:32:15.714Z",
     "canonical:62eff68f5025af9e": "2026-07-17T23:32:15.714Z",
     "canonical:a09174c93d289213": "2026-07-17T23:32:15.714Z",
     "canonical:1077d2415e921017": "2026-07-17T23:32:15.714Z",
@@ -1125,7 +1122,9 @@
     "canonical:91c261b50eed5174": "2026-07-18T09:44:51.577Z",
     "canonical:81f4619a2b5155ca": "2026-07-18T09:44:51.577Z",
     "canonical:321021f4a1164f56": "2026-07-18T09:44:51.577Z",
-    "canonical:7be1b905cc475b20": "2026-07-18T09:44:51.577Z"
+    "canonical:7be1b905cc475b20": "2026-07-18T09:44:51.577Z",
+    "canonical:5fad4f58541c53c3": "2026-07-18T10:49:16.292Z",
+    "canonical:27fa5d3290d6515b": "2026-07-18T10:49:16.292Z"
   },
   "jobs": [
     {
@@ -4052,6 +4051,19 @@
       ]
     },
     {
+      "id": "canonical:5fad4f58541c53c3",
+      "title": "Research Intern",
+      "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-Washington-Bellevue/Research-Internship---Reinforcement-Learning-for-Large-Foundation-Models_R106337",
+      "location": "Bellevue, WA",
+      "department": "AI/ML/Data",
+      "company": "Tencent",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:14904318e185f409",
       "title": "Software Engineer Intern - Commerce Ads - 2026 Summer",
       "url": "https://lifeattiktok.com/search/7595346355196954933",
@@ -4873,6 +4885,19 @@
       "location": "Atlanta, GA",
       "department": "Hardware Engineering",
       "company": "Hermeus",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:27fa5d3290d6515b",
+      "title": "Hunyuan Multimodal Reinforcement Learning Research Intern",
+      "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Hunyuan-Multimodal-Reinforcement-Learning-Research-Intern_R107084",
+      "location": "Palo Alto, CA",
+      "department": "AI/ML/Data",
+      "company": "Tencent",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -6120,18 +6145,6 @@
       "company": "Advanced Energy",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:1782ca39c8f2f506",
-      "title": "Collections Data Analyst Intern",
-      "url": "https://careers.tranetechnologies.com/global/en/job/JR-4222",
-      "location": "Winona, MN",
-      "department": "AI/ML/Data",
-      "company": "Trane Technologies",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
     },
     {
       "id": "canonical:afc9f49cbd23b95f",
@@ -12272,19 +12285,6 @@
       ]
     },
     {
-      "id": "canonical:e4e59c3d19a3ebd0",
-      "title": "Chemistry Intern - MLFF Distillation & GCMC Integration",
-      "url": "https://jobs.ashbyhq.com/cuspai/d7b80299-ed98-4dfe-b306-729cd10d3f04/application?embed=true",
-      "location": "London, UK / Cambridge, UK",
-      "department": "AI/ML/Data",
-      "company": "CuspAI",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:120eb953bd1f0b9f",
       "title": "Engineer Intern",
       "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700250",
@@ -12343,20 +12343,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:45be727efdef9ad8",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1/application?embed=true",
-      "location": "Remote in USA",
-      "department": "Software",
-      "company": "Deepgram",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {

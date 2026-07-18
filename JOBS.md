@@ -1,6 +1,6 @@
 # Open Internships
 
-**1122** internships across **69/69** companies — last updated 2026-07-18.
+**1121** internships across **69/69** companies — last updated 2026-07-18.
 
 ## Companies
 
@@ -122,7 +122,6 @@
 - [Cribl](#cribl) (2)
 - [Cubist Systematic Strategies](#cubist-systematic-strategies) (1)
 - [Cupertino Electric, Inc.](#cupertino-electric-inc) (1)
-- [CuspAI](#cuspai) (1)
 - [Custom Computer Specialists](#custom-computer-specialists) (1)
 - [Cybernetic Labs](#cybernetic-labs) (3)
 - [Dandy](#dandy) (1)
@@ -131,7 +130,7 @@
 - [Datasite](#datasite) (2)
 - [DE Shaw](#de-shaw) (1)
 - [Dedalus Labs](#dedalus-labs) (1)
-- [Deepgram](#deepgram) (2)
+- [Deepgram](#deepgram) (1)
 - [Definity Financial](#definity-financial) (4)
 - [Delta Air Lines](#delta-air-lines) (1)
 - [Democratic Governors Association](#democratic-governors-association) (1)
@@ -385,7 +384,7 @@
 - [Symmetry Systems](#symmetry-systems) (1)
 - [Teall Sports & Entertainment](#teall-sports-entertainment) (1)
 - [Technergetics](#technergetics) (1)
-- [Tencent](#tencent) (2)
+- [Tencent](#tencent) (4)
 - [TENEX.AI](#tenex-ai) (1)
 - [Tenstorrent](#tenstorrent) (6)
 - [Terranox AI](#terranox-ai) (1)
@@ -411,7 +410,6 @@
 - [Tower Research Capital](#tower-research-capital) (5)
 - [Toyota Research Institute](#toyota-research-institute) (2)
 - [Tradeweb](#tradeweb) (1)
-- [Trane Technologies](#trane-technologies) (1)
 - [TransMarket Group](#transmarket-group) (2)
 - [Trata](#trata) (1)
 - [Truland Equipment](#truland-equipment) (1)
@@ -1311,12 +1309,6 @@
 | --- | --- | --- | --- | --- |
 | [Summer Safety Internship (Multiple Locations)](https://www.linkedin.com/jobs/view/4157995744) | 42 | New Albany, OH | — | 2026-07-09 |
 
-## CuspAI
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Chemistry Intern - MLFF Distillation & GCMC Integration](https://jobs.ashbyhq.com/cuspai/d7b80299-ed98-4dfe-b306-729cd10d3f04/application?embed=true) | 68 | London, UK / Cambridge, UK | AI/ML/Data | 2026-07-17 |
-
 ## Custom Computer Specialists
 
 | Title | Score | Location | Department | First seen |
@@ -1374,7 +1366,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1/application?embed=true) | 93 | Remote in USA | Software | 2026-07-17 |
 | [Software Engineering- Internship (Fall 2026/Summer 2027)](https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1) | 68 | USA \| Remote | Software / Summer 2027 | 2026-07-17 |
 
 ## Definity Financial
@@ -3227,6 +3218,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Hunyuan Multimodal Reinforcement Learning Research Intern](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Hunyuan-Multimodal-Reinforcement-Learning-Research-Intern_R107084) | 68 | Palo Alto, CA | AI/ML/Data | 2026-07-18 |
+| [Research Intern](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-Washington-Bellevue/Research-Internship---Reinforcement-Learning-for-Large-Foundation-Models_R106337) | 68 | Bellevue, WA | AI/ML/Data | 2026-07-18 |
 | [Research Intern – Video World Models (Research & ML Systems)](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752-1) | 68 | US-California-Palo Alto | Data & ML/AI / Summer 2027 | 2026-07-18 |
 | [Software Engineering Intern - PC Game Client Development](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/UK-London/Software-Engineering-Intern_R107162) | 68 | London, UK | Software | 2026-07-07 |
 
@@ -3548,12 +3541,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Tradeweb International Intern Program - JavaScript UI Developer - Technology Division](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301721) | 85 | London, UK | Software | 2026-05-09 |
-
-## Trane Technologies
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Collections Data Analyst Intern](https://careers.tranetechnologies.com/global/en/job/JR-4222) | 60 | Winona, MN | AI/ML/Data | 2026-07-11 |
 
 ## TransMarket Group
 
