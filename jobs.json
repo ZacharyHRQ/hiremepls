@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-18T16:08:54.330Z",
+  "generatedAt": "2026-07-18T17:11:18.270Z",
   "companyCount": 69,
   "okCount": 69,
-  "jobCount": 1139,
+  "jobCount": 1147,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -26,9 +26,6 @@
     "canonical:6a8c381d419eba3a": "2026-05-06T06:42:07.596Z",
     "canonical:25a35a8868c43e61": "2026-05-06T06:42:07.596Z",
     "canonical:d277a6a426412a6c": "2026-05-06T06:42:07.596Z",
-    "canonical:0eba384396bae400": "2026-05-09T15:28:15.527Z",
-    "canonical:be5ddfb13c343eec": "2026-05-09T15:28:15.527Z",
-    "canonical:48087b446b770e72": "2026-05-09T15:28:15.527Z",
     "canonical:e849d8f5eadb294f": "2026-05-09T15:28:15.527Z",
     "canonical:e1aa6798960d42b7": "2026-05-09T15:28:15.527Z",
     "canonical:3875facf3ff103d4": "2026-05-09T15:28:15.527Z",
@@ -1142,7 +1139,18 @@
     "canonical:71f4c1680b019759": "2026-07-18T16:08:54.330Z",
     "canonical:78e461e91d26f884": "2026-07-18T16:08:54.330Z",
     "canonical:4657deb65ec280ac": "2026-07-18T16:08:54.330Z",
-    "canonical:55f7914d8c2bdcce": "2026-07-18T16:08:54.330Z"
+    "canonical:55f7914d8c2bdcce": "2026-07-18T16:08:54.330Z",
+    "canonical:6a54db97364bf00a": "2026-07-18T17:11:18.270Z",
+    "canonical:bca1cc17005e460b": "2026-07-18T17:11:18.270Z",
+    "canonical:f30a89c4a549a784": "2026-07-18T17:11:18.270Z",
+    "canonical:8c45020d76e40a27": "2026-07-18T17:11:18.270Z",
+    "canonical:f27c30f5eef5d1fb": "2026-07-18T17:11:18.270Z",
+    "canonical:f5d84370157fe2ee": "2026-07-18T17:11:18.270Z",
+    "canonical:a54dfaa9c2670ee3": "2026-07-18T17:11:18.270Z",
+    "canonical:6a08b8735bc24eb5": "2026-07-18T17:11:18.270Z",
+    "canonical:1cb970dd90b802db": "2026-07-18T17:11:18.270Z",
+    "canonical:ae1902dace82286a": "2026-07-18T17:11:18.270Z",
+    "canonical:2fc4577ec2058740": "2026-07-18T17:11:18.270Z"
   },
   "jobs": [
     {
@@ -3248,46 +3256,6 @@
       "scoreReasons": []
     },
     {
-      "id": "canonical:0eba384396bae400",
-      "title": "ML PhD Intern - LLMs & Generative AI",
-      "url": "https://job-boards.greenhouse.io/truveta/jobs/5712997004",
-      "location": "Seattle, WA",
-      "department": "Data Science, AI & Machine Learning",
-      "company": "Truveta",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:be5ddfb13c343eec",
-      "title": "Year-Round Intern - Quantitative Risk Management",
-      "url": "https://theocc.wd5.myworkdayjobs.com/en-US/careers/job/Chicago---125-S-Franklin/Year-Round-Intern---Quantitative-Risk-Management_REQ-4483-1",
-      "location": "Chicago, IL",
-      "department": "Quantitative Finance",
-      "company": "OCC",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:48087b446b770e72",
-      "title": "Software Application Developer Intern for GOES-R Series Satellites",
-      "url": "https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Silver-Spring-Maryland/Software-Application-Developer-Intern-for-GOES-R-Series-Satellites_R2115543",
-      "location": "Silver Spring, MD",
-      "department": "Software Engineering",
-      "company": "KBR",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:e849d8f5eadb294f",
       "title": "Rtk Internship - Junior Software Engineer",
       "url": "https://job-boards.greenhouse.io/aechelontechnology/jobs/4904960008",
@@ -4832,6 +4800,19 @@
       ]
     },
     {
+      "id": "canonical:6a54db97364bf00a",
+      "title": "Research and Development Engineering Intern",
+      "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineering-Intern_REQ_0000076214-1",
+      "location": "State College, PA",
+      "department": "Software",
+      "company": "PennState University",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:ff280c9810ac0117",
       "title": "Product Management/Marketing Intern - Summer 2026",
       "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Charlotte-NC/Product-Management-Marketing-Intern---Summer-2026_JR0000037719-3",
@@ -5011,6 +4992,18 @@
       "company": "TikTok",
       "score": 50,
       "scoreReasons": []
+    },
+    {
+      "id": "canonical:bca1cc17005e460b",
+      "title": "Radio Frequency Engineering Intern",
+      "url": "https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/RF-Engineering-Intern---2026_JR101095",
+      "location": "Dulles, VA",
+      "department": "Hardware",
+      "company": "Nightwing Intelligence Solutions",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
     },
     {
       "id": "canonical:5ec53d479123c910",
@@ -5926,7 +5919,7 @@
     {
       "id": "canonical:78e461e91d26f884",
       "title": "Game Research & Development Intern - Engine Research",
-      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Game-Research---Development-Intern--Engine-Research_R107363-1",
+      "url": "https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/US-Washington-Bellevue/Game-Research---Development-Intern--Engine-Research_R107363",
       "location": "Bellevue, WA",
       "department": "Software",
       "company": "Tencent",
@@ -6235,6 +6228,19 @@
       ]
     },
     {
+      "id": "canonical:f30a89c4a549a784",
+      "title": "Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398",
+      "location": "Santa Clara, CA",
+      "department": "AI/ML/Data",
+      "company": "NVIDIA",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:7134f71d6610c363",
       "title": "AI Intern",
       "url": "https://jobs-cesi.icims.com/jobs/10965/ai-intern/job",
@@ -6420,6 +6426,19 @@
       "company": "Astranis",
       "score": 58,
       "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:8c45020d76e40a27",
+      "title": "PhD Research Intern - Security and Privacy",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1",
+      "location": "Santa Clara, CA",
+      "department": "AI/ML/Data",
+      "company": "NVIDIA",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
         "direct ATS"
       ]
     },
@@ -7225,6 +7244,20 @@
       ]
     },
     {
+      "id": "canonical:f27c30f5eef5d1fb",
+      "title": "PhD Software Engineer Intern - Decision Intelligence",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522",
+      "location": "Santa Clara, CA",
+      "department": "Hardware",
+      "company": "NVIDIA",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:296035cd95b6d0a8",
       "title": "Software Development Co-op/Intern - C++",
       "url": "https://careers-kinaxis.icims.com/jobs/34764/job?mobile=true&needsRedirect=false",
@@ -7349,6 +7382,19 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f5d84370157fe2ee",
+      "title": "Financial Analyst Intern",
+      "url": "https://fhlbtopeka.wd1.myworkdayjobs.com/FHLBT/job/Topeka-Kansas/Member-Solutions-Intern_JR100348",
+      "location": "Topeka, KS",
+      "department": "AI/ML/Data",
+      "company": "FHLBank Topeka",
+      "score": 68,
+      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
@@ -7583,6 +7629,19 @@
         "high-signal role",
         "direct ATS",
         "lower-fit title"
+      ]
+    },
+    {
+      "id": "canonical:a54dfaa9c2670ee3",
+      "title": "Artificial Intelligence & Machine Learning Intern",
+      "url": "https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Artificial-Intelligence---Machine-Learning-Intern_REQ-2026-8543-1",
+      "location": "Omaha, NE",
+      "department": "AI/ML/Data",
+      "company": "Boys Town",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -7895,6 +7954,19 @@
       "location": "Markham, IL",
       "department": "Software",
       "company": "Altom Transport",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:6a08b8735bc24eb5",
+      "title": "Multimedia Development Intern",
+      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Multimedia-development-intern_R107331",
+      "location": "Palo Alto, CA",
+      "department": "AI/ML/Data",
+      "company": "Tencent",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -8902,6 +8974,19 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1cb970dd90b802db",
+      "title": "Research and Development Intern - Research & Development: AI/ML",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--AI-ML_JR-202612795",
+      "location": "Mountain View, CA / Warren, MI",
+      "department": "AI/ML/Data",
+      "company": "General Motors",
+      "score": 68,
+      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
@@ -10982,6 +11067,19 @@
       ]
     },
     {
+      "id": "canonical:ae1902dace82286a",
+      "title": "Office of Career Services Intern - Technology Team",
+      "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Intern--Office-of-Career-Services---Technology-Team_JR104246-1",
+      "location": "Hyattsville, MD",
+      "department": "AI/ML/Data",
+      "company": "University of Maryland - College Park",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:69629f2e556a8b42",
       "title": "Machine Learning Intern",
       "url": "https://jobs.ashbyhq.com/droyd/fd533fd8-65a7-41eb-bdf0-e75f02e739e9/application",
@@ -11183,6 +11281,19 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:2fc4577ec2058740",
+      "title": "Research and Development Intern - Research & Development",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development_JR-202613027",
+      "location": "Warren, MI",
+      "department": "AI/ML/Data",
+      "company": "General Motors",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
