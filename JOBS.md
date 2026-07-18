@@ -1,6 +1,6 @@
 # Open Internships
 
-**1195** internships across **69/69** companies — last updated 2026-07-17.
+**1192** internships across **69/69** companies — last updated 2026-07-18.
 
 ## Companies
 
@@ -8,7 +8,6 @@
 - [ABB](#abb) (1)
 - [ABC News](#abc-news) (1)
 - [Abundant](#abundant) (1)
-- [Accenture](#accenture) (1)
 - [AccuWeather](#accuweather) (1)
 - [Acds](#acds) (2)
 - [ACI Worldwide ](#aci-worldwide) (1)
@@ -365,7 +364,6 @@
 - [Replit](#replit) (1)
 - [Reply](#reply) (2)
 - [RESPEC](#respec) (1)
-- [Revvity](#revvity) (2)
 - [RFCUNY](#rfcuny) (2)
 - [Rippling](#rippling) (3)
 - [Rise8](#rise8) (1)
@@ -400,6 +398,7 @@
 - [Smiths Detection](#smiths-detection) (1)
 - [Snowflake](#snowflake) (12)
 - [Solar Turbines](#solar-turbines) (1)
+- [Solid Power](#solid-power) (1)
 - [SoloPulse](#solopulse) (3)
 - [Sony](#sony) (2)
 - [SOTI](#soti) (3)
@@ -465,7 +464,6 @@
 - [Verne Robotics](#verne-robotics) (1)
 - [VetsEZ](#vetsez) (2)
 - [Viavi Solutions](#viavi-solutions) (1)
-- [Viridien](#viridien) (1)
 - [Vital Lyfe](#vital-lyfe) (1)
 - [VITAL LYFE](#vital-lyfe) (1)
 - [Voloridge](#voloridge) (1)
@@ -511,12 +509,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern, Research Focused](https://www.workatastartup.com/jobs/94634) | 66 | San Francisco, CA | — | 2026-07-09 |
-
-## Accenture
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Technology Apprentice Intern](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Montreal-5-Place-Ville-Marie-Corp/Current-Apprentice-Intern-Only---Technology-Apprentice---Montreal---NAELFY26_R00343036) | 68 | Montreal, QC, Canada | Software | 2026-07-13 |
 
 ## AccuWeather
 
@@ -620,7 +612,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [AI Software Development Engineer - Intern](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/AI-Software-Development-Engineer---Intern_R02707) | 93 | San Jose, California, United States | Data & ML/AI / Summer 2027 | 2026-07-17 |
+| [AI Software Development Engineer Intern](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/AI-Software-Development-Engineer---Intern_R02707) | 93 | San Jose, CA | Software | 2026-07-18 |
 
 ## Altom Transport
 
@@ -2995,8 +2987,8 @@
 | [2027 Technology Development Intern – IIT Hyderabad](https://boards.greenhouse.io/point72/jobs/8617340002?gh_jid=8617340002) | 58 | India, Bengaluru | — | 2026-07-02 |
 | [Corporate Access, off-cycle internship (6-months) – Japanese speaking](https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002) | 58 | Hong Kong | — | 2026-06-30 |
 | [Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7586061002) | 93 | NYC | Quant | 2026-05-09 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -3105,13 +3097,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Student Engineering Intern - Data Science](https://jobs.smartrecruiters.com/RESPECInc/744000107100902) | 68 | Rapid City, SD | AI/ML/Data | 2026-05-09 |
-
-## Revvity
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Full-Stack AI Developer Intern](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-Stack-AI-Developer-Intern_JR-044905) | 93 | Remote in Canada | Software | 2026-07-15 |
-| [Product Manager Intern](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Product-Manager-Intern_JR-044907) | 58 | Remote in Canada | Product | 2026-07-15 |
 
 ## RFCUNY
 
@@ -3359,6 +3344,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Gas Turbine Products Engineering Intern](https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027--Gas-Turbine-Product-Engineering-Internship_R0000382293) | 68 | San Diego, CA | Software | 2026-07-16 |
+
+## Solid Power
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Product Development Intern](https://job-boards.greenhouse.io/solidpower/jobs/6118972004) | 58 | Thornton, CO | Product | 2026-07-18 |
 
 ## SoloPulse
 
@@ -3948,12 +3939,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Development Data Analytics Intern](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Home-Office-USA/SW-Development-Intern-Data-Analytics_260004919-1) | 68 | Remote in USA | AI/ML/Data | 2026-07-17 |
-
-## Viridien
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Crawley-United-Kingdom/Software-Engineering-Intern_JR101336-1) | 93 | Crawley, UK | Software | 2026-06-17 |
 
 ## Vital Lyfe
 
