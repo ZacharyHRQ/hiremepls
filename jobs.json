@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-18T10:49:16.292Z",
+  "generatedAt": "2026-07-18T11:44:07.122Z",
   "companyCount": 69,
   "okCount": 69,
-  "jobCount": 1121,
+  "jobCount": 1122,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1030,7 +1030,6 @@
     "canonical:0da11cb18d22855a": "2026-07-14T23:09:45.194Z",
     "canonical:c17233719bef91b4": "2026-07-14T23:09:45.194Z",
     "canonical:69c75e01b56b435e": "2026-07-15T00:03:05.499Z",
-    "canonical:b28e03b8d5ddfd5c": "2026-07-15T00:03:05.499Z",
     "canonical:26035e0e18b50360": "2026-07-15T03:29:24.211Z",
     "canonical:c0f07270e7c3c68c": "2026-07-15T03:29:24.211Z",
     "canonical:c28670d02da5114b": "2026-07-15T03:29:24.211Z",
@@ -1079,9 +1078,7 @@
     "canonical:ddbc7e4d2352a8b2": "2026-07-16T09:25:51.977Z",
     "canonical:1f8f9213250ddf43": "2026-07-16T09:25:51.977Z",
     "canonical:f87d3b12f3b13cda": "2026-07-16T12:57:27.743Z",
-    "canonical:d4522e592923d04c": "2026-07-16T14:57:35.787Z",
     "canonical:1cb970dd90b802db": "2026-07-16T16:14:34.276Z",
-    "canonical:dc4433667883584e": "2026-07-16T16:14:34.276Z",
     "canonical:b90d174a181318ef": "2026-07-16T16:14:34.276Z",
     "canonical:542135e9a98efc68": "2026-07-16T17:40:07.390Z",
     "canonical:9a232892cccae7f7": "2026-07-16T17:40:07.390Z",
@@ -1124,7 +1121,11 @@
     "canonical:321021f4a1164f56": "2026-07-18T09:44:51.577Z",
     "canonical:7be1b905cc475b20": "2026-07-18T09:44:51.577Z",
     "canonical:5fad4f58541c53c3": "2026-07-18T10:49:16.292Z",
-    "canonical:27fa5d3290d6515b": "2026-07-18T10:49:16.292Z"
+    "canonical:27fa5d3290d6515b": "2026-07-18T10:49:16.292Z",
+    "canonical:31962d85f79aae5b": "2026-07-18T11:44:07.122Z",
+    "canonical:1782ca39c8f2f506": "2026-07-18T11:44:07.122Z",
+    "canonical:2e1957ef2ef86ad4": "2026-07-18T11:44:07.122Z",
+    "canonical:8da55afe8d7ed93f": "2026-07-18T11:44:07.122Z"
   },
   "jobs": [
     {
@@ -5682,6 +5683,20 @@
       ]
     },
     {
+      "id": "canonical:31962d85f79aae5b",
+      "title": "Hunyuan Multimodal Algorithm Researcher Intern - Omni Modal",
+      "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-Intern-Omni-Modal---_R107051-1",
+      "location": "Palo Alto, CA",
+      "department": "AI/ML/Data",
+      "company": "Tencent",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:e8f8acb3e1ee5857",
       "title": "Intern",
       "url": "https://jobs.ashbyhq.com/context/1c657ebf-3842-4ca4-ab55-54ffaf1e49d8/application",
@@ -6147,6 +6162,18 @@
       "scoreReasons": []
     },
     {
+      "id": "canonical:1782ca39c8f2f506",
+      "title": "Collections Data Analyst Intern",
+      "url": "https://careers.tranetechnologies.com/global/en/job/JR-4222",
+      "location": "Winona, MN",
+      "department": "AI/ML/Data",
+      "company": "Trane Technologies",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:afc9f49cbd23b95f",
       "title": "Associate Product Manager Intern",
       "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--September-2026-12-Months-_R10041",
@@ -6328,19 +6355,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:d4522e592923d04c",
-      "title": "Product Manager Intern - Sales Enablement Products",
-      "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Product-Manager--Intern-_R10095",
-      "location": "Mississauga, ON, Canada",
-      "department": "Product",
-      "company": "SOTI",
-      "score": 38,
-      "scoreReasons": [
-        "direct ATS",
-        "lower-fit title"
       ]
     },
     {
@@ -8674,6 +8688,20 @@
       "company": "AMAROK Security",
       "score": 58,
       "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:2e1957ef2ef86ad4",
+      "title": "AI Software Engineer Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641",
+      "location": "Phoenix, AZ",
+      "department": "Software",
+      "company": "Intel",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
         "direct ATS"
       ]
     },
@@ -11946,19 +11974,6 @@
       ]
     },
     {
-      "id": "canonical:b28e03b8d5ddfd5c",
-      "title": "AI & Strategic Analytics Intern",
-      "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/AI---Strategic-Analytics-Intern---Fall-2026_JR0150114",
-      "location": "Mississauga, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "McKesson",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:c0f07270e7c3c68c",
       "title": "Engineer/Scientist Intern",
       "url": "https://ignite-digital.com/careers/job-listings/?gh_jid=5348498008",
@@ -12157,18 +12172,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:dc4433667883584e",
-      "title": "Machine Learning Center of Excellence Summer Associate Time Series & Reinforcement Learning Interns…",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770593",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "JP Morgan Chase",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {
@@ -12403,6 +12406,19 @@
       "company": "Solid Power",
       "score": 58,
       "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:8da55afe8d7ed93f",
+      "title": "Technology Intern",
+      "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Other-Remote-NY/Technology-Intern---Fall-2026_2601748",
+      "location": "NYC",
+      "department": "AI/ML/Data",
+      "company": "Synchrony Financial",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
         "direct ATS"
       ]
     },
