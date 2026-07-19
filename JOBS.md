@@ -1,6 +1,6 @@
 # Open Internships
 
-**1145** internships across **69/69** companies — last updated 2026-07-19.
+**1144** internships across **69/69** companies — last updated 2026-07-19.
 
 ## Companies
 
@@ -376,7 +376,6 @@
 - [Sparksoft](#sparksoft) (1)
 - [Squarepoint Capital](#squarepoint-capital) (5)
 - [StarSling](#starsling) (1)
-- [Stevens Capital Management](#stevens-capital-management) (1)
 - [Stevens Institute of Technology](#stevens-institute-of-technology) (1)
 - [Stoke Space](#stoke-space) (1)
 - [Stripe](#stripe) (4)
@@ -3176,12 +3175,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://www.workatastartup.com/jobs/95003) | 91 | San Mateo, CA | — | 2026-07-09 |
-
-## Stevens Capital Management
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Quantitative Research Analyst Internship](https://job-boards.greenhouse.io/scminternships/jobs/1146416) | 68 | Villanova, PA | Quant | 2026-05-09 |
 
 ## Stevens Institute of Technology
 
