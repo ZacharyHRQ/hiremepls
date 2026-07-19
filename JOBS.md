@@ -1,6 +1,6 @@
 # Open Internships
 
-**1148** internships across **69/69** companies — last updated 2026-07-19.
+**1145** internships across **69/69** companies — last updated 2026-07-19.
 
 ## Companies
 
@@ -175,7 +175,6 @@
 - [Facility Solutions Group](#facility-solutions-group) (1)
 - [Faire](#faire) (1)
 - [Fanatics](#fanatics) (3)
-- [FHLBank Topeka](#fhlbank-topeka) (1)
 - [Figure](#figure) (3)
 - [Fiserv](#fiserv) (2)
 - [Five Rings](#five-rings) (1)
@@ -265,7 +264,7 @@
 - [Marmon Holdings](#marmon-holdings) (1)
 - [Maxima](#maxima) (1)
 - [MCG Health](#mcg-health) (1)
-- [McKesson](#mckesson) (3)
+- [McKesson](#mckesson) (2)
 - [Medical Informatics Engineering](#medical-informatics-engineering) (1)
 - [Medpace](#medpace) (1)
 - [Medpace, Inc.](#medpace-inc) (3)
@@ -311,7 +310,6 @@
 - [Paragon](#paragon) (1)
 - [PathAI](#pathai) (1)
 - [PayPal](#paypal) (1)
-- [PennState University](#pennstate-university) (1)
 - [Peraton](#peraton) (1)
 - [Periodic Labs](#periodic-labs) (1)
 - [Perplexity](#perplexity) (3)
@@ -1300,7 +1298,7 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Database Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Database-Engineering-Intern_JR109636) | 93 | Dallas, TX | Software | 2026-07-19 |
-| [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109441) | 93 | Dallas, TX | Software | 2026-07-18 |
+| [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393) | 93 | Dallas, TX | Software | 2026-07-18 |
 | [Software Engineering Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR106129) | 68 | Dallas, TX | Software | 2026-07-18 |
 | [Technology Product Analyst Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107890) | 58 | Dallas, TX | Product | 2026-07-18 |
 | [DevOps Engineering Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/DevOps-Engineering-Intern_JR109490) | 68 | Dallas, TX - Headquarters | Software / Summer 2027 | 2026-07-16 |
@@ -1693,12 +1691,6 @@
 | [AI Intern](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27180) | 60 | NYC | Software | 2026-05-09 |
 | [Collectibles Intern - Product - Physical Trading Cards](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26720) | 60 | NYC | Quant | 2026-05-09 |
 | [Collectibles Intern - Product - Physical Trading Cards](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27190) | 60 | Coppell, TX | Quant | 2026-05-09 |
-
-## FHLBank Topeka
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Financial Analyst Intern](https://fhlbtopeka.wd1.myworkdayjobs.com/FHLBT/job/Topeka-Kansas/Member-Solutions-Intern_JR100348) | 68 | Topeka, KS | AI/ML/Data | 2026-07-18 |
 
 ## Figure
 
@@ -2345,7 +2337,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [AI & Strategic Analytics Intern](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/AI---Strategic-Analytics-Intern---Fall-2026_JR0150114) | 68 | Mississauga, ON, Canada | AI/ML/Data | 2026-07-18 |
 | [Data Governance Analyst Intern](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Data-Governance-Analyst-Intern---Fall-2026_JR0149860) | 68 | Mississauga, ON, Canada | AI/ML/Data | 2026-07-09 |
 | [Supply Chain Engineering and Analytics Intern](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-BC-Surrey/Supply-Chain-Engineering-and-Analytics-Intern---Fall-2026_JR0149819) | 68 | Surrey, BC, Canada | AI/ML/Data | 2026-07-02 |
 
@@ -2689,12 +2680,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Machine Learning Engineer PhD Intern](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer-PhD-Intern_R0130591) | 93 | San Jose, CA | Data Science, AI & Machine Learning | 2026-05-09 |
-
-## PennState University
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Research and Development Engineering Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineering-Intern_REQ_0000076214-1) | 68 | State College, PA | Software | 2026-07-18 |
 
 ## Peraton
 
