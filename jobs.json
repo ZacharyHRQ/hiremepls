@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-19T15:45:31.220Z",
+  "generatedAt": "2026-07-19T16:43:35.621Z",
   "companyCount": 69,
   "okCount": 69,
-  "jobCount": 1147,
+  "jobCount": 1146,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -26,7 +26,6 @@
     "canonical:6a8c381d419eba3a": "2026-05-06T06:42:07.596Z",
     "canonical:25a35a8868c43e61": "2026-05-06T06:42:07.596Z",
     "canonical:d277a6a426412a6c": "2026-05-06T06:42:07.596Z",
-    "canonical:e1aa6798960d42b7": "2026-05-09T15:28:15.527Z",
     "canonical:3875facf3ff103d4": "2026-05-09T15:28:15.527Z",
     "canonical:1975c7c0a164af01": "2026-05-09T15:28:15.527Z",
     "canonical:a37175ad66cb394f": "2026-05-09T15:28:15.527Z",
@@ -3254,19 +3253,6 @@
       "company": "Cribl",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:e1aa6798960d42b7",
-      "title": "AI Automation Intern",
-      "url": "https://apply.workable.com/advantmed/j/45F5E3C394/",
-      "location": "Remote in USA",
-      "department": "Data Science, AI & Machine Learning",
-      "company": "Advantmed",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
     },
     {
       "id": "canonical:3875facf3ff103d4",

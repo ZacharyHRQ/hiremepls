@@ -1,6 +1,6 @@
 # Open Internships
 
-**1147** internships across **69/69** companies — last updated 2026-07-19.
+**1146** internships across **69/69** companies — last updated 2026-07-19.
 
 ## Companies
 
@@ -15,7 +15,6 @@
 - [Ada](#ada) (1)
 - [Adaptive Security](#adaptive-security) (1)
 - [Advanced Energy](#advanced-energy) (1)
-- [Advantmed](#advantmed) (1)
 - [AeroVironment](#aerovironment) (1)
 - [AfterQuery](#afterquery) (1)
 - [Agilent Technologies](#agilent-technologies) (1)
@@ -521,12 +520,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Electronics Service Intern](https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Electronics-Service-CO-80525/1389595200/?ats=successfactors) | 50 | Fort Collins, CO | Hardware | 2026-07-09 |
-
-## Advantmed
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI Automation Intern](https://apply.workable.com/advantmed/j/45F5E3C394/) | 68 | Remote in USA | Data Science, AI & Machine Learning | 2026-05-09 |
 
 ## AeroVironment
 
