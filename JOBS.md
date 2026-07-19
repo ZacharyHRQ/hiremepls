@@ -1,6 +1,6 @@
 # Open Internships
 
-**1149** internships across **69/69** companies — last updated 2026-07-19.
+**1148** internships across **69/69** companies — last updated 2026-07-19.
 
 ## Companies
 
@@ -53,7 +53,6 @@
 - [AXQ Capital](#axq-capital) (1)
 - [BAE Systems](#bae-systems) (2)
 - [Bank of America](#bank-of-america) (1)
-- [Bank of Montreal](#bank-of-montreal) (1)
 - [Barkback](#barkback) (1)
 - [Base Power](#base-power) (3)
 - [BDO Canada](#bdo-canada) (1)
@@ -119,7 +118,7 @@
 - [Consensus Cloud Solutions](#consensus-cloud-solutions) (1)
 - [Constellation Space](#constellation-space) (1)
 - [Context](#context) (1)
-- [Copart](#copart) (5)
+- [Copart](#copart) (4)
 - [Cotiviti](#cotiviti) (4)
 - [Creatify Lab ](#creatify-lab) (1)
 - [Cresta](#cresta) (2)
@@ -257,7 +256,7 @@
 - [LinkedIn](#linkedin) (3)
 - [LiveRamp](#liveramp) (1)
 - [Mackenzie Investments](#mackenzie-investments) (1)
-- [Magna](#magna) (2)
+- [Magna](#magna) (3)
 - [Maher Duessel](#maher-duessel) (1)
 - [MaloneBailey, LLP](#malonebailey-llp) (1)
 - [Marathon Petroleum Corporation](#marathon-petroleum-corporation) (1)
@@ -415,7 +414,6 @@
 - [Together AI](#together-ai) (3)
 - [Topel Forman LLC](#topel-forman-llc) (1)
 - [Torc Robotics](#torc-robotics) (1)
-- [Torch Technologies](#torch-technologies) (1)
 - [Tower Research](#tower-research) (1)
 - [Tower Research Capital](#tower-research-capital) (5)
 - [Toyota Research Institute](#toyota-research-institute) (2)
@@ -435,6 +433,7 @@
 - [Verne Robotics](#verne-robotics) (1)
 - [VetsEZ](#vetsez) (2)
 - [Viavi Solutions](#viavi-solutions) (1)
+- [Vital Lyfe](#vital-lyfe) (1)
 - [VITAL LYFE](#vital-lyfe) (1)
 - [Voloridge](#voloridge) (1)
 - [Voloridge Investment Management](#voloridge-investment-management) (1)
@@ -811,12 +810,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Global Technology Summer Analyst 2026 - Business Analyst](https://careers.bankofamerica.com/en-us/students/job-detail/12943/global-technology-summer-analyst-2026-business-analyst-multiple-locations-esomprank-d41yanam0v-12) | 50 | Charlotte, North Carolina; Chicago, Illinois; Dallas, Texas; | — | 2026-07-09 |
-
-## Bank of Montreal
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Scientist Co-op/Internship - Months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879) | 93 | Toronto, ON, Canada | AI/ML/Data | 2026-07-07 |
 
 ## Barkback
 
@@ -1300,7 +1293,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Database Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Database-Engineering-Intern_JR109636) | 93 | Dallas, TX | Software | 2026-07-18 |
 | [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393) | 93 | Dallas, TX | Software | 2026-07-18 |
 | [Software Engineering Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR106129) | 68 | Dallas, TX | Software | 2026-07-18 |
 | [Technology Product Analyst Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107890) | 58 | Dallas, TX | Product | 2026-07-18 |
@@ -2296,6 +2288,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Systems Engineer Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235413) | 85 | Southfield, MI | AI/ML/Data | 2026-07-19 |
 | [Engineering ADAS Perception Features Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235438) | 60 | Auburn Hills, MI | AI/ML/Data | 2026-07-18 |
 | [Product Engineering Engineer Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Grand-Rapids-Michigan-US/Product-Engineering-Intern_R00243272) | 85 | Grand Rapids, MI | Software | 2026-06-15 |
 
@@ -3595,12 +3588,6 @@
 | --- | --- | --- | --- | --- |
 | [System Triage Engineer Intern](https://job-boards.greenhouse.io/torcrobotics/jobs/8597138002) | 93 | Blacksburg, VA / Ann Arbor, MI / Fort Worth, TX | AI/ML/Data | 2026-07-01 |
 
-## Torch Technologies
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Software-Engineer-Intern_R1381) | 93 | Huntsville, AL | Software / Summer 2027 | 2026-07-16 |
-
 ## Tower Research
 
 | Title | Score | Location | Department | First seen |
@@ -3722,6 +3709,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Development Data Analytics Intern](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Home-Office-USA/SW-Development-Intern-Data-Analytics_260004919-1) | 68 | Remote in USA | AI/ML/Data | 2026-07-17 |
+
+## Vital Lyfe
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af/application) | 93 | Carson, CA | Software | 2026-07-19 |
 
 ## VITAL LYFE
 
