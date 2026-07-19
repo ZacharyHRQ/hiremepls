@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-19T00:06:30.778Z",
+  "generatedAt": "2026-07-19T03:49:04.898Z",
   "companyCount": 69,
   "okCount": 69,
-  "jobCount": 1152,
+  "jobCount": 1150,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1144,9 +1144,7 @@
     "canonical:f5d84370157fe2ee": "2026-07-18T17:11:18.270Z",
     "canonical:a54dfaa9c2670ee3": "2026-07-18T17:11:18.270Z",
     "canonical:6a08b8735bc24eb5": "2026-07-18T17:11:18.270Z",
-    "canonical:1cb970dd90b802db": "2026-07-18T17:11:18.270Z",
     "canonical:ae1902dace82286a": "2026-07-18T17:11:18.270Z",
-    "canonical:2fc4577ec2058740": "2026-07-18T17:11:18.270Z",
     "canonical:c1e9394452463ed1": "2026-07-18T18:05:59.798Z",
     "canonical:957953dd04839b8d": "2026-07-18T18:05:59.798Z",
     "canonical:bf33bee56c7f7e21": "2026-07-18T18:05:59.798Z",
@@ -8970,19 +8968,6 @@
       ]
     },
     {
-      "id": "canonical:1cb970dd90b802db",
-      "title": "Research and Development Intern - Research & Development: AI/ML",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--AI-ML_JR-202612795",
-      "location": "Mountain View, CA / Warren, MI",
-      "department": "AI/ML/Data",
-      "company": "General Motors",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:761db21fd7aa5b3e",
       "title": "Characterization and Support Intern",
       "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Intern---Characterization-and-Support_R54998",
@@ -11339,19 +11324,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:2fc4577ec2058740",
-      "title": "Research and Development Intern - Research & Development",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development_JR-202613027",
-      "location": "Warren, MI",
-      "department": "AI/ML/Data",
-      "company": "General Motors",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
