@@ -1,6 +1,6 @@
 # Open Internships
 
-**1150** internships across **69/69** companies — last updated 2026-07-19.
+**1149** internships across **69/69** companies — last updated 2026-07-19.
 
 ## Companies
 
@@ -435,7 +435,6 @@
 - [Verne Robotics](#verne-robotics) (1)
 - [VetsEZ](#vetsez) (2)
 - [Viavi Solutions](#viavi-solutions) (1)
-- [Vital Lyfe](#vital-lyfe) (1)
 - [VITAL LYFE](#vital-lyfe) (1)
 - [Voloridge](#voloridge) (1)
 - [Voloridge Investment Management](#voloridge-investment-management) (1)
@@ -3600,7 +3599,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Software-Engineer-Intern_R1381) | 93 | Huntsville, AL | Software | 2026-07-16 |
+| [Software Engineer Intern](https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Software-Engineer-Intern_R1381) | 93 | Huntsville, AL | Software / Summer 2027 | 2026-07-16 |
 
 ## Tower Research
 
@@ -3723,12 +3722,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Development Data Analytics Intern](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Home-Office-USA/SW-Development-Intern-Data-Analytics_260004919-1) | 68 | Remote in USA | AI/ML/Data | 2026-07-17 |
-
-## Vital Lyfe
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af/application) | 93 | Carson, CA | Software | 2026-07-09 |
 
 ## VITAL LYFE
 

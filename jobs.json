@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-19T03:49:04.898Z",
+  "generatedAt": "2026-07-19T06:22:11.185Z",
   "companyCount": 69,
   "okCount": 69,
-  "jobCount": 1150,
+  "jobCount": 1149,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -868,7 +868,6 @@
     "canonical:e3b70e287d0e2aef": "2026-07-09T23:57:26.906Z",
     "canonical:7dbc291135c89eff": "2026-07-09T23:57:26.906Z",
     "canonical:4157a8e979cb648f": "2026-07-09T23:57:26.906Z",
-    "canonical:d0301d5322394fa7": "2026-07-09T23:57:26.906Z",
     "canonical:06761d279119b020": "2026-07-09T23:57:26.906Z",
     "canonical:f639bf6dc39c8e1a": "2026-07-10T02:38:18.769Z",
     "canonical:f876ea0d26bc5ee4": "2026-07-10T02:38:18.769Z",
@@ -11743,20 +11742,6 @@
       ]
     },
     {
-      "id": "canonical:d0301d5322394fa7",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af/application",
-      "location": "Carson, CA",
-      "department": "Software",
-      "company": "Vital Lyfe",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:f639bf6dc39c8e1a",
       "title": "Software Engineer Intern - Energy Engineering",
       "url": "https://www.tesla.com/careers/search/job/276333",
@@ -12611,20 +12596,6 @@
       "company": "GeoComply",
       "score": 58,
       "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:9dcf0293be4d4f0f",
-      "title": "Software Engineer Intern",
-      "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Software-Engineer-Intern_R1381",
-      "location": "Huntsville, AL",
-      "department": "Software",
-      "company": "Torch Technologies",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
         "direct ATS"
       ]
     },
@@ -15247,6 +15218,20 @@
       "company": "Stevens Institute of Technology",
       "score": 68,
       "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:9dcf0293be4d4f0f",
+      "title": "Software Engineer Intern",
+      "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Software-Engineer-Intern_R1381",
+      "location": "Huntsville, AL",
+      "department": "Software / Summer 2027",
+      "company": "Torch Technologies",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
