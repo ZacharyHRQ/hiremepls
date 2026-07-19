@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T13:51:52.419Z",
+  "generatedAt": "2026-07-19T14:46:25.696Z",
   "companyCount": 69,
   "okCount": 69,
   "jobCount": 1146,
@@ -1147,9 +1147,9 @@
     "canonical:1782ca39c8f2f506": "2026-07-19T11:28:29.896Z",
     "canonical:ac88b4fd6305623b": "2026-07-19T11:28:29.896Z",
     "canonical:4657deb65ec280ac": "2026-07-19T11:28:29.896Z",
-    "canonical:7cd65dbc34efa0fa": "2026-07-19T11:28:29.896Z",
     "canonical:6a54db97364bf00a": "2026-07-19T13:51:52.419Z",
-    "canonical:b28e03b8d5ddfd5c": "2026-07-19T13:51:52.419Z"
+    "canonical:b28e03b8d5ddfd5c": "2026-07-19T13:51:52.419Z",
+    "canonical:3a0280cd297d1f55": "2026-07-19T14:46:25.696Z"
   },
   "jobs": [
     {
@@ -11030,18 +11030,6 @@
       ]
     },
     {
-      "id": "canonical:7cd65dbc34efa0fa",
-      "title": "Skillbridge Intern - Product Manager",
-      "url": "https://job-boards.greenhouse.io/rise8/jobs/4359627007",
-      "location": "Remote in USA",
-      "department": "Product",
-      "company": "Rise8",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:2696d27e53de0c2e",
       "title": "Utility Engineering Intern",
       "url": "https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1624",
@@ -11745,6 +11733,19 @@
       "location": "Palo Alto, CA",
       "department": "AI/ML/Data",
       "company": "Pika",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:3a0280cd297d1f55",
+      "title": "Editorial Data Reporting Intern",
+      "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "LexisNexis Risk Solutions",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
