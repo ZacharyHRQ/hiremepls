@@ -1,6 +1,6 @@
 # Open Internships
 
-**1142** internships across **69/69** companies — last updated 2026-07-20.
+**1145** internships across **69/69** companies — last updated 2026-07-20.
 
 ## Companies
 
@@ -21,6 +21,7 @@
 - [Akuna Capital](#akuna-capital) (8)
 - [Al Warren Oil Company](#al-warren-oil-company) (1)
 - [Altasciences](#altasciences) (1)
+- [Altera Corporation](#altera-corporation) (1)
 - [Altom Transport](#altom-transport) (2)
 - [AMAROK Security](#amarok-security) (1)
 - [Amazon](#amazon) (13)
@@ -47,6 +48,7 @@
 - [Auctor](#auctor) (1)
 - [Avanade](#avanade) (1)
 - [Avery Dennison](#avery-dennison) (1)
+- [AVEVA](#aveva) (1)
 - [Axiomatic AI](#axiomatic-ai) (2)
 - [AXQ Capital](#axq-capital) (1)
 - [BAE Systems](#bae-systems) (2)
@@ -445,6 +447,7 @@
 - [Wealth.com](#wealth-com) (1)
 - [Wells Fargo](#wells-fargo) (11)
 - [WeRide](#weride) (1)
+- [Western Digital](#western-digital) (1)
 - [Westinghouse](#westinghouse) (1)
 - [WindBorne Systems](#windborne-systems) (1)
 - [Workato](#workato) (1)
@@ -564,6 +567,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Process Innovation - Software Engineering Intern](https://altasciences.wd1.myworkdayjobs.com/Careers/job/Overland-Park-Kansas/Process-Innovation---Software-Engineering-Intern_R102750) | 68 | Overland Park, Kansas | Software / Summer 2027 | 2026-07-18 |
+
+## Altera Corporation
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI Software Development Engineer - Intern](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/AI-Software-Development-Engineer---Intern_R02707) | 93 | San Jose, California, United States | Data & ML/AI / Summer 2027 | 2026-07-20 |
 
 ## Altom Transport
 
@@ -772,6 +781,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Finance Intern](https://www.linkedin.com/jobs/view/4277230317) | 42 | Mentor, OH | — | 2026-07-09 |
+
+## AVEVA
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Developer Intern- Drexel Co-op US](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Philadelphia-Pennsylvania-United-States-of-America/Software-Developer-Intern--Drexel-Co-op-US_R014478) | 93 | Philadelphia, Pennsylvania, United States of America | Software / Summer 2027 | 2026-07-20 |
 
 ## Axiomatic AI
 
@@ -3788,6 +3803,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Intern - PhD](https://jobs.lever.co/weride/c7652fd5-65d8-443d-ab4c-5b450acac77d/apply) | 68 | San Jose, CA | AI/ML/Data | 2026-06-05 |
+
+## Western Digital
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Summer 2027 - Software Engineering Internship](https://jobs.smartrecruiters.com/WesternDigital/744000138727213) | 68 | San Jose, CA, United States | Software / Summer 2027 | 2026-07-20 |
 
 ## Westinghouse
 

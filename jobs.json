@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-20T20:10:55.945Z",
+  "generatedAt": "2026-07-20T21:22:27.558Z",
   "companyCount": 69,
   "okCount": 69,
-  "jobCount": 1142,
+  "jobCount": 1145,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1145,7 +1145,10 @@
     "canonical:fe10f6277c3a3f8b": "2026-07-20T12:54:06.189Z",
     "canonical:d7ebb5572f0e17c1": "2026-07-20T15:01:21.264Z",
     "canonical:f6c35638c896d642": "2026-07-20T18:31:43.132Z",
-    "canonical:a68dcf1452f33761": "2026-07-20T18:31:43.132Z"
+    "canonical:a68dcf1452f33761": "2026-07-20T18:31:43.132Z",
+    "canonical:c2b972f6e03a0c85": "2026-07-20T21:22:27.558Z",
+    "canonical:5ac6f64db3a22a3f": "2026-07-20T21:22:27.558Z",
+    "canonical:bed45dec59abc364": "2026-07-20T21:22:27.558Z"
   },
   "jobs": [
     {
@@ -15100,12 +15103,26 @@
       ]
     },
     {
-      "id": "canonical:f6c35638c896d642",
-      "title": "AI Operations Intern-Caddell Reynolds",
-      "url": "https://jobs.lever.co/acds/01fdf41b-a835-4e00-8d01-0275677a8f08",
-      "location": "Fort Smith, AR",
-      "department": "Data & ML/AI / Summer 2027",
-      "company": "Acds",
+      "id": "canonical:c2b972f6e03a0c85",
+      "title": "Software Developer Intern- Drexel Co-op US",
+      "url": "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Philadelphia-Pennsylvania-United-States-of-America/Software-Developer-Intern--Drexel-Co-op-US_R014478",
+      "location": "Philadelphia, Pennsylvania, United States of America",
+      "department": "Software / Summer 2027",
+      "company": "AVEVA",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:5ac6f64db3a22a3f",
+      "title": "Summer 2027 - Software Engineering Internship",
+      "url": "https://jobs.smartrecruiters.com/WesternDigital/744000138727213",
+      "location": "San Jose, CA, United States",
+      "department": "Software / Summer 2027",
+      "company": "Western Digital",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -15126,6 +15143,19 @@
       ]
     },
     {
+      "id": "canonical:f6c35638c896d642",
+      "title": "AI Operations Intern-Caddell Reynolds",
+      "url": "https://jobs.lever.co/acds/01fdf41b-a835-4e00-8d01-0275677a8f08",
+      "location": "Fort Smith, AR",
+      "department": "Data & ML/AI / Summer 2027",
+      "company": "Acds",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:d7ebb5572f0e17c1",
       "title": "Intern AI Vision for Equipment Development",
       "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Lausanne-Vaud-Switzerland/Intern-AI-Vision-for-Equipment-Development_R72173",
@@ -15134,6 +15164,20 @@
       "company": "Medtronic",
       "score": 68,
       "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:bed45dec59abc364",
+      "title": "AI Software Development Engineer - Intern",
+      "url": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/AI-Software-Development-Engineer---Intern_R02707",
+      "location": "San Jose, California, United States",
+      "department": "Data & ML/AI / Summer 2027",
+      "company": "Altera Corporation",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
