@@ -1,6 +1,6 @@
 # Open Internships
 
-**1146** internships across **69/69** companies — last updated 2026-07-20.
+**1142** internships across **69/69** companies — last updated 2026-07-20.
 
 ## Companies
 
@@ -21,7 +21,6 @@
 - [Akuna Capital](#akuna-capital) (8)
 - [Al Warren Oil Company](#al-warren-oil-company) (1)
 - [Altasciences](#altasciences) (1)
-- [Altera Corporation](#altera-corporation) (1)
 - [Altom Transport](#altom-transport) (2)
 - [AMAROK Security](#amarok-security) (1)
 - [Amazon](#amazon) (13)
@@ -99,6 +98,7 @@
 - [CHEP](#chep) (1)
 - [Cherry Bekaert](#cherry-bekaert) (2)
 - [Chevron Corporation](#chevron-corporation) (1)
+- [Chicago Trading Company](#chicago-trading-company) (1)
 - [Ciena](#ciena) (1)
 - [Cirrus Logic](#cirrus-logic) (1)
 - [Citadel](#citadel) (13)
@@ -266,7 +266,7 @@
 - [Marmon Holdings](#marmon-holdings) (1)
 - [Maxima](#maxima) (1)
 - [MCG Health](#mcg-health) (1)
-- [McKesson](#mckesson) (3)
+- [McKesson](#mckesson) (2)
 - [Medical Informatics Engineering](#medical-informatics-engineering) (1)
 - [Medpace](#medpace) (1)
 - [Medpace, Inc.](#medpace-inc) (3)
@@ -299,7 +299,7 @@
 - [Northwestern Mutual](#northwestern-mutual) (2)
 - [Notion](#notion) (5)
 - [NVIDIA](#nvidia) (9)
-- [NXP Semiconductors](#nxp-semiconductors) (2)
+- [NXP Semiconductors](#nxp-semiconductors) (1)
 - [Octaura](#octaura) (1)
 - [OfferUp](#offerup) (1)
 - [Old Mission](#old-mission) (5)
@@ -334,13 +334,11 @@
 - [PsiQuantum](#psiquantum) (2)
 - [Quadric](#quadric) (3)
 - [QuantCo](#quantco) (1)
-- [QuEra Computing](#quera-computing) (1)
 - [Radix Trading](#radix-trading) (1)
 - [Rainmaker](#rainmaker) (2)
 - [Rakuten International](#rakuten-international) (1)
 - [Ralliant](#ralliant) (1)
 - [Ramp](#ramp) (1)
-- [Reliable Robotics](#reliable-robotics) (1)
 - [Replit](#replit) (1)
 - [Reply](#reply) (2)
 - [RESPEC](#respec) (1)
@@ -491,7 +489,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [AI Software Engineer Intern- Bastazo](https://jobs.lever.co/acds/65b739c3-02ad-4814-ad24-24abecbc83f4) | 93 | Bentonville, AR | Data & ML/AI / Summer 2027 | 2026-07-16 |
+| [AI Operations Intern-Caddell Reynolds](https://jobs.lever.co/acds/01fdf41b-a835-4e00-8d01-0275677a8f08) | 68 | Fort Smith, AR | Data & ML/AI / Summer 2027 | 2026-07-20 |
 | [AI Operations Intern - Naukr AI](https://jobs.lever.co/acds/41bee5e2-6477-428f-b359-34b4071d545f) | 68 | Bentonville, AR | Data & ML/AI / Summer 2027 | 2026-07-16 |
 
 ## ACI Worldwide 
@@ -566,12 +564,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Process Innovation - Software Engineering Intern](https://altasciences.wd1.myworkdayjobs.com/Careers/job/Overland-Park-Kansas/Process-Innovation---Software-Engineering-Intern_R102750) | 68 | Overland Park, Kansas | Software / Summer 2027 | 2026-07-18 |
-
-## Altera Corporation
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI Software Development Engineer - Intern](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/AI-Software-Development-Engineer---Intern_R02707) | 93 | San Jose, California, United States | Data & ML/AI / Summer 2027 | 2026-07-18 |
 
 ## Altom Transport
 
@@ -1137,6 +1129,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [2026-2027 Information Technology - Software Engineer - Intern](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Intern_R000072398-1) | 93 | Houston, Texas, United States of America | Software / Summer 2027 | 2026-07-18 |
+
+## Chicago Trading Company
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineering Internship - Summer 2027](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005) | 68 | Chicago, Illinois, United States | Software / Summer 2027 | 2026-07-20 |
 
 ## Ciena
 
@@ -2354,7 +2352,6 @@
 | --- | --- | --- | --- | --- |
 | [AI & Strategic Analytics Intern](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/AI---Strategic-Analytics-Intern---Fall-2026_JR0150114) | 68 | Mississauga, ON, Canada | AI/ML/Data | 2026-07-19 |
 | [Data Governance Analyst Intern](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Data-Governance-Analyst-Intern---Fall-2026_JR0149860) | 68 | Mississauga, ON, Canada | AI/ML/Data | 2026-07-09 |
-| [Supply Chain Engineering and Analytics Intern](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-BC-Surrey/Supply-Chain-Engineering-and-Analytics-Intern---Fall-2026_JR0149819) | 68 | Surrey, BC, Canada | AI/ML/Data | 2026-07-02 |
 
 ## Medical Informatics Engineering
 
@@ -2597,7 +2594,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Digital Verification Engineer Intern](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kanata/Digital-Verification-Engineer-Intern_R-10064047) | 58 | Kanata, Ottawa, ON, Canada | Hardware | 2026-07-01 |
-| [Digital Verification Engineer Intern](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Verification-Engineer-Intern---Fall-2026_R-10064107) | 58 | Austin, TX | Hardware | 2026-06-23 |
 
 ## Octaura
 
@@ -2873,12 +2869,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://jobs.lever.co/quantco-/d69096fa-b673-4953-ba63-7deee08bc13c/apply) | 93 | London, UK / Bellheim, Germany / Wenden, Germany / Berlin, Germany / Munich, Germany | Software | 2026-07-14 |
 
-## QuEra Computing
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Photonics Data Engineer Intern - Data Management](https://job-boards.greenhouse.io/queracomputinginc/jobs/5239489008) | 93 | Boston, MA | AI/ML/Data | 2026-06-03 |
-
 ## Radix Trading
 
 | Title | Score | Location | Department | First seen |
@@ -2909,12 +2899,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Internship, Android](https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b) | 90 | — | — | 2026-05-29 |
-
-## Reliable Robotics
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Flight Software Engineering Intern (Fall 2026 Internship)](https://jobs.ashbyhq.com/reliable-robotics/c4968e8a-a901-4ec1-9a9d-bb5cd96efc4f) | 68 | Mountain View, CA | Software / Fall 2026 | 2026-07-20 |
 
 ## Replit
 
