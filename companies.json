@@ -31,6 +31,13 @@
   { "name": "Cohere", "ats": "ashby", "slug": "cohere" },
   { "name": "Wayve", "ats": "greenhouse", "slug": "wayve" },
 
+  { "name": "Airbnb", "ats": "greenhouse", "slug": "airbnb" },
+  { "name": "Palantir", "ats": "lever", "slug": "palantir" },
+  { "name": "Spotify", "ats": "lever", "slug": "spotify" },
+  { "name": "The Trade Desk", "ats": "greenhouse", "slug": "thetradedesk" },
+  { "name": "Amazon", "ats": "amazon", "slug": "amazon" },
+  { "name": "Snap", "ats": "workday", "slug": "snap", "cluster": "wd1", "tenant": "snapchat", "site": "snap" },
+
   { "name": "Stripe", "ats": "greenhouse", "slug": "stripe" },
   { "name": "Databricks", "ats": "greenhouse", "slug": "databricks" },
   { "name": "Snowflake", "ats": "ashby", "slug": "snowflake" },
@@ -73,7 +80,13 @@
 
   { "name": "Visa", "ats": "smartrecruiters", "slug": "Visa" },
 
-  { "name": "SimplifyJobs", "ats": "simplify", "slug": "" },
+  { "name": "SimplifyJobs 2026", "ats": "simplify", "slug": "" },
+  {
+    "name": "SimplifyJobs 2027",
+    "ats": "simplify",
+    "slug": "",
+    "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json"
+  },
   { "name": "vanshb03", "ats": "vanshb03", "slug": "" },
   {
     "name": "Rethinkjobs Summer 2026",
