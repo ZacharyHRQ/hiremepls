@@ -1,6 +1,6 @@
 # Open Internships
 
-**1145** internships across **69/69** companies — last updated 2026-07-20.
+**1144** internships across **69/69** companies — last updated 2026-07-20.
 
 ## Companies
 
@@ -252,7 +252,6 @@
 - [KRAFTON](#krafton) (1)
 - [Kudu Dynamics](#kudu-dynamics) (1)
 - [Kulicke & Soffa](#kulicke-soffa) (1)
-- [Lambda](#lambda) (1)
 - [Landis+Gyr](#landis-gyr) (1)
 - [Lawrence Livermore National Laboratory (LLNL)](#lawrence-livermore-national-laboratory-llnl) (2)
 - [Lensa](#lensa) (3)
@@ -2257,12 +2256,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Intern, Software Engineering](https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11497) | 60 | Fort Washington, PA, United States | Software / Summer 2027 | 2026-07-20 |
-
-## Lambda
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI Research Marketing Intern](https://jobs.ashbyhq.com/lambda/1c764f96-966d-4560-8087-35452480d330/application) | 48 | SF | AI/ML/Data | 2026-06-01 |
 
 ## Landis+Gyr
 

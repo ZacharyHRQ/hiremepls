@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-20T21:22:27.558Z",
+  "generatedAt": "2026-07-20T22:28:36.535Z",
   "companyCount": 69,
   "okCount": 69,
-  "jobCount": 1145,
+  "jobCount": 1144,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -290,7 +290,6 @@
     "canonical:1df04de60e393fed": "2026-05-29T17:55:07.126Z",
     "canonical:b661e8e93c959d87": "2026-05-31T04:52:04.247Z",
     "canonical:b2ba7fb9dd17dfe9": "2026-05-31T04:52:04.247Z",
-    "canonical:6cdd1633b8f5ce3a": "2026-06-01T23:55:48.935Z",
     "canonical:13e1acc0b159fe16": "2026-06-01T23:55:48.935Z",
     "canonical:591f77d8c25c0856": "2026-06-03T00:01:07.922Z",
     "canonical:a24cbe9d8652e7b2": "2026-06-03T00:01:07.922Z",
@@ -7603,20 +7602,6 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:6cdd1633b8f5ce3a",
-      "title": "AI Research Marketing Intern",
-      "url": "https://jobs.ashbyhq.com/lambda/1c764f96-966d-4560-8087-35452480d330/application",
-      "location": "SF",
-      "department": "AI/ML/Data",
-      "company": "Lambda",
-      "score": 48,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS",
-        "lower-fit title"
       ]
     },
     {
