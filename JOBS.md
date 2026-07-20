@@ -1,6 +1,6 @@
 # Open Internships
 
-**1140** internships across **69/69** companies — last updated 2026-07-20.
+**1141** internships across **69/69** companies — last updated 2026-07-20.
 
 ## Companies
 
@@ -208,6 +208,7 @@
 - [Heron Power](#heron-power) (2)
 - [Hershey Entertainment & Resorts Company](#hershey-entertainment-resorts-company) (1)
 - [HEXAWARE](#hexaware) (1)
+- [Hitachi Energy](#hitachi-energy) (1)
 - [Hiverge](#hiverge) (1)
 - [HNTB](#hntb) (1)
 - [Homebase](#homebase) (1)
@@ -220,7 +221,7 @@
 - [Ignite Digital Services](#ignite-digital-services) (1)
 - [iHerb](#iherb) (1)
 - [IMC](#imc) (1)
-- [IMC Trading](#imc-trading) (24)
+- [IMC Trading](#imc-trading) (25)
 - [Impulse Space](#impulse-space) (1)
 - [Infojini](#infojini) (1)
 - [Instacart](#instacart) (2)
@@ -253,7 +254,7 @@
 - [LinkedIn](#linkedin) (3)
 - [LiveRamp](#liveramp) (1)
 - [Mackenzie Investments](#mackenzie-investments) (1)
-- [Magna](#magna) (3)
+- [Magna](#magna) (2)
 - [Maher Duessel](#maher-duessel) (1)
 - [MaloneBailey, LLP](#malonebailey-llp) (1)
 - [Marathon Petroleum Corporation](#marathon-petroleum-corporation) (1)
@@ -1908,6 +1909,12 @@
 | --- | --- | --- | --- | --- |
 | [Intern Data Engineer](https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/623864) | 85 | United States | AI/ML/Data | 2026-05-09 |
 
+## Hitachi Energy
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Cloud & Data Specialist Intern](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/London-London-United-Kingdom/Intern---Cloud---Data-Specialist--67651-_R0138533) | 68 | London, UK | AI/ML/Data | 2026-07-20 |
+
 ## Hiverge
 
 | Title | Score | Location | Department | First seen |
@@ -1985,6 +1992,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Graduate Software Engineer (Digital Assets)](https://job-boards.eu.greenhouse.io/imc/jobs/4932192101) | 99 | Zug, Switzerland | — | 2026-07-20 |
 | [Graduate Machine Learning Researcher - London](https://job-boards.eu.greenhouse.io/imc/jobs/4914883101) | 99 | London, United Kingdom | — | 2026-07-08 |
 | [Graduate Machine Learning Researcher - Chicago](https://job-boards.eu.greenhouse.io/imc/jobs/4907416101) | 99 | Chicago, United States | — | 2026-07-08 |
 | [Machine Learning Research Intern - Summer 2027 - Amsterdam](https://job-boards.eu.greenhouse.io/imc/jobs/4912874101) | 68 | Amsterdam, Netherlands | — | 2026-07-08 |
@@ -2007,8 +2015,8 @@
 | [Hardware Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) | 58 | Chicago, United States | — | 2026-07-01 |
 | [Graduate Quantitative Researcher](https://job-boards.eu.greenhouse.io/imc/jobs/4892687101) | 99 | Zug, Switzerland | — | 2026-06-12 |
 | [Hardware Machine Learning PhD Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, IL | AI/ML/Data | 2026-05-09 |
-| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
+| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
 
 ## Impulse Space
 
@@ -2265,7 +2273,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Systems Engineer Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235413) | 85 | Southfield, MI | AI/ML/Data | 2026-07-19 |
-| [Engineering ADAS Perception Features Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235438) | 60 | Auburn Hills, MI | AI/ML/Data | 2026-07-18 |
 | [Product Engineering Engineer Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Grand-Rapids-Michigan-US/Product-Engineering-Intern_R00243272) | 85 | Grand Rapids, MI | Software | 2026-06-15 |
 
 ## Maher Duessel

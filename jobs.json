@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-20T07:51:11.040Z",
+  "generatedAt": "2026-07-20T10:40:05.756Z",
   "companyCount": 69,
   "okCount": 69,
-  "jobCount": 1140,
+  "jobCount": 1141,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1107,7 +1107,6 @@
     "canonical:941d02dc047a74b1": "2026-07-18T12:38:18.926Z",
     "canonical:60d48ea9b4193a8f": "2026-07-18T12:38:18.926Z",
     "canonical:d4522e592923d04c": "2026-07-18T12:38:18.926Z",
-    "canonical:ebdb73f1d53cde75": "2026-07-18T12:38:18.926Z",
     "canonical:a6f482844306182e": "2026-07-18T12:38:18.926Z",
     "canonical:dc4433667883584e": "2026-07-18T14:06:05.106Z",
     "canonical:e4e59c3d19a3ebd0": "2026-07-18T14:06:05.106Z",
@@ -1143,7 +1142,9 @@
     "canonical:6a54db97364bf00a": "2026-07-19T13:51:52.419Z",
     "canonical:b28e03b8d5ddfd5c": "2026-07-19T13:51:52.419Z",
     "canonical:7cd65dbc34efa0fa": "2026-07-19T15:45:31.220Z",
-    "canonical:79ef6b01cffd742c": "2026-07-20T07:51:11.040Z"
+    "canonical:79ef6b01cffd742c": "2026-07-20T07:51:11.040Z",
+    "canonical:fca7d1a15e65a689": "2026-07-20T10:40:05.756Z",
+    "canonical:e38b3ab6188552c6": "2026-07-20T10:40:05.756Z"
   },
   "jobs": [
     {
@@ -1417,6 +1418,21 @@
       ]
     },
     {
+      "id": "canonical:13cbc9dfd9f78b7b",
+      "title": "Graduate Software Engineer (2026)",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 99,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
@@ -1432,10 +1448,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
-      "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "id": "canonical:fca7d1a15e65a689",
+      "title": "Graduate Software Engineer (Digital Assets)",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4932192101",
+      "location": "Zug, Switzerland",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1648,20 +1664,20 @@
       ]
     },
     {
-      "id": "canonical:b64de5fd09122dce",
+      "id": "canonical:3bdc6e03d29a7ec1",
       "title": "Campus FPGA Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8003013",
-      "location": "Chicago",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7974391",
+      "location": "London",
       "department": "",
       "company": "Jump Trading",
       "score": 50,
       "scoreReasons": []
     },
     {
-      "id": "canonical:3bdc6e03d29a7ec1",
+      "id": "canonical:b64de5fd09122dce",
       "title": "Campus FPGA Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7974391",
-      "location": "London",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8003013",
+      "location": "Chicago",
       "department": "",
       "company": "Jump Trading",
       "score": 50,
@@ -1733,10 +1749,10 @@
       ]
     },
     {
-      "id": "canonical:5d7744db1dee2002",
+      "id": "canonical:fe88e70c975c6d4f",
       "title": "Campus Quantitative Trader (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8050772",
-      "location": "London; Amsterdam",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7848371",
+      "location": "Chicago; New York",
       "department": "",
       "company": "Jump Trading",
       "score": 60,
@@ -1745,10 +1761,10 @@
       ]
     },
     {
-      "id": "canonical:fe88e70c975c6d4f",
+      "id": "canonical:5d7744db1dee2002",
       "title": "Campus Quantitative Trader (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7848371",
-      "location": "Chicago; New York",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8050772",
+      "location": "London; Amsterdam",
       "department": "",
       "company": "Jump Trading",
       "score": 60,
@@ -1783,10 +1799,10 @@
       ]
     },
     {
-      "id": "canonical:eea417b083785298",
+      "id": "canonical:3b590c340646bfa7",
       "title": "Campus Systems Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
-      "location": "London; Amsterdam",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
+      "location": "Chicago",
       "department": "",
       "company": "Jump Trading",
       "score": 75,
@@ -1795,10 +1811,10 @@
       ]
     },
     {
-      "id": "canonical:3b590c340646bfa7",
+      "id": "canonical:eea417b083785298",
       "title": "Campus Systems Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
-      "location": "Chicago",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
+      "location": "London; Amsterdam",
       "department": "",
       "company": "Jump Trading",
       "score": 75,
@@ -7431,18 +7447,6 @@
       ]
     },
     {
-      "id": "canonical:ebdb73f1d53cde75",
-      "title": "Engineering ADAS Perception Features Intern",
-      "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235438",
-      "location": "Auburn Hills, MI",
-      "department": "AI/ML/Data",
-      "company": "Magna",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:9e2ca9c244113a9f",
       "title": "Computer Vision/AI Intern - Computer Vision/AI",
       "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8560657002",
@@ -12759,6 +12763,19 @@
       "company": "BlackRock",
       "score": 58,
       "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:e38b3ab6188552c6",
+      "title": "Cloud & Data Specialist Intern",
+      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/London-London-United-Kingdom/Intern---Cloud---Data-Specialist--67651-_R0138533",
+      "location": "London, UK",
+      "department": "AI/ML/Data",
+      "company": "Hitachi Energy",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
         "direct ATS"
       ]
     },
