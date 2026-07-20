@@ -1,6 +1,6 @@
 # Open Internships
 
-**1144** internships across **69/69** companies — last updated 2026-07-20.
+**1142** internships across **69/69** companies — last updated 2026-07-20.
 
 ## Companies
 
@@ -131,7 +131,7 @@
 - [Dandy](#dandy) (1)
 - [Databricks](#databricks) (3)
 - [Datadog](#datadog) (1)
-- [Datasite](#datasite) (2)
+- [Datasite](#datasite) (1)
 - [DE Shaw](#de-shaw) (1)
 - [Dedalus Labs](#dedalus-labs) (1)
 - [Deepgram](#deepgram) (2)
@@ -143,7 +143,7 @@
 - [Digs](#digs) (1)
 - [DimeHealth AI](#dimehealth-ai) (1)
 - [DNV](#dnv) (1)
-- [Doctors Without Borders](#doctors-without-borders) (2)
+- [Doctors Without Borders](#doctors-without-borders) (1)
 - [Docugami](#docugami) (2)
 - [Droyd Robotics](#droyd-robotics) (2)
 - [DRW](#drw) (20)
@@ -251,6 +251,7 @@
 - [Landis+Gyr](#landis-gyr) (1)
 - [Lawrence Livermore National Laboratory (LLNL)](#lawrence-livermore-national-laboratory-llnl) (2)
 - [Lensa](#lensa) (3)
+- [LexisNexis Risk Solutions](#lexisnexis-risk-solutions) (1)
 - [LinkedIn](#linkedin) (3)
 - [LiveRamp](#liveramp) (1)
 - [Mackenzie Investments](#mackenzie-investments) (1)
@@ -376,7 +377,6 @@
 - [Sparksoft](#sparksoft) (1)
 - [Squarepoint Capital](#squarepoint-capital) (5)
 - [StarSling](#starsling) (1)
-- [Stevens Institute of Technology](#stevens-institute-of-technology) (1)
 - [Stoke Space](#stoke-space) (1)
 - [Stripe](#stripe) (4)
 - [Sundt](#sundt) (2)
@@ -1381,7 +1381,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [AI Transformation / Forward Deployed Engineer (FDE) Internship](https://datasite.wd1.myworkdayjobs.com/datasite/job/USA---MN---Minneapolis/AI-Transformation---Forward-Deployed-Engineer--FDE--Intern_R36255) | 93 | USA - MN - Minneapolis | Data & ML/AI / Summer 2027 | 2026-07-16 |
 | [Forward Deployed Engineer Intern](https://datasite.wd1.myworkdayjobs.com/en-GB/datasite/job/USA---NY---New-York-City/AI-Transformation---Forward-Deployed-Engineer--FDE--Intern_R36255) | 58 | New York, NY | — | 2026-07-10 |
 
 ## DE Shaw
@@ -1458,7 +1457,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Data Science Intern](https://job-boards.greenhouse.io/msfcareers/jobs/5271141008) | 68 | New York, New York, United States | Data & ML/AI / Summer 2027 | 2026-07-16 |
 | [Data Science Intern](https://job-boards.greenhouse.io/msfcareers/jobs/4993728008) | 68 | New York, NY | Data Science, AI & Machine Learning | 2026-05-09 |
 
 ## Docugami
@@ -2250,6 +2248,12 @@
 | [2026 Summer Internship Program - Investment Banking](https://www.linkedin.com/jobs/view/4257296455) | 42 | Baltimore, MD | — | 2026-07-09 |
 | [Accounting Internship Summer 2026](https://lensa.com/job-application-accounting-internship-summer-2026-in-wayne-pa/cpc-jd-v3/bdd3c15c3b73ec0e9b7e0b5b4cbefe35453222188f523f433d39e72a3abd4740?tr=b4a83a7f255547c9982fd106a9550d5aincc1&utm_source=linkedin&utm_medium=slot&utm_campaign=Financial+Specialists&utm_term=jse) | 22 | Wayne, PA | — | 2026-07-09 |
 
+## LexisNexis Risk Solutions
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Editorial Data Reporting Intern](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1) | 68 | Remote in USA | AI/ML/Data | 2026-07-20 |
+
 ## LinkedIn
 
 | Title | Score | Location | Department | First seen |
@@ -2785,8 +2789,8 @@
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-07-09 |
 | [Corporate Access, off-cycle internship (6-months) – Japanese speaking](https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002) | 58 | Hong Kong | — | 2026-06-30 |
 | [Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7586061002) | 93 | NYC | Quant | 2026-05-09 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -3175,12 +3179,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://www.workatastartup.com/jobs/95003) | 91 | San Mateo, CA | — | 2026-07-09 |
-
-## Stevens Institute of Technology
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Summer 2026 Intern:  Cyber Security and Reliable AI for UAS and Contested Environments](https://stevens.wd5.myworkdayjobs.com/External/job/Hoboken-NJ---Main-Campus/Summer-2026-Intern---Cyber-Security-and-Reliable-AI-for-UAS-and-Contested-Environments_RQ30408-1) | 68 | Hoboken, NJ - Main Campus | Data & ML/AI / Summer 2027 | 2026-07-17 |
 
 ## Stoke Space
 
