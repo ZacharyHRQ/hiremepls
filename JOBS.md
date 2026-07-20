@@ -270,6 +270,7 @@
 - [Medical Informatics Engineering](#medical-informatics-engineering) (1)
 - [Medpace](#medpace) (1)
 - [Medpace, Inc.](#medpace-inc) (3)
+- [Medtronic](#medtronic) (1)
 - [Melotech](#melotech) (3)
 - [Mercor](#mercor) (1)
 - [Meshy](#meshy) (1)
@@ -277,7 +278,7 @@
 - [Microsoft](#microsoft) (1)
 - [Mindsmith](#mindsmith) (1)
 - [Moog](#moog) (1)
-- [Motorola](#motorola) (2)
+- [Motorola](#motorola) (1)
 - [Multiply Labs](#multiply-labs) (2)
 - [Muru](#muru) (2)
 - [MyEmployment](#myemployment) (1)
@@ -2375,6 +2376,12 @@
 | [Feasibility Informatics Intern/Co-op](https://careers.medpace.com/jobs/12566?lang=en-us&icims=1) | 60 | Cincinnati, OH | AI/ML/Data | 2026-05-15 |
 | [AI Engineer Intern](https://careers.medpace.com/jobs/12729?lang=en-us&icims=1) | 85 | Cincinnati, OH | AI/ML/Data | 2026-05-15 |
 
+## Medtronic
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Intern AI Vision for Equipment Development](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Lausanne-Vaud-Switzerland/Intern-AI-Vision-for-Equipment-Development_R72173) | 68 | Lausanne, Vaud, Switzerland | Data & ML/AI / Fall 2026 | 2026-07-20 |
+
 ## Melotech
 
 | Title | Score | Location | Department | First seen |
@@ -2440,7 +2447,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Intern - Embedded Software, System, and Test Engineer - 2026](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/Intern---Embedded-Software--System--and-Test-Engineer---2026_R62372) | 93 | Irvine, CA | Software / Fall 2026 | 2026-07-13 |
-| [Intern – Web Interface Software Engineer (2026)](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Intern---Web-Interface-Software-Engineer--2026-_R64590) | 93 | Los Angeles, CA | Software / Fall 2026 | 2026-07-13 |
 
 ## Multiply Labs
 

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T12:54:06.189Z",
+  "generatedAt": "2026-07-20T15:01:21.264Z",
   "companyCount": 69,
   "okCount": 69,
   "jobCount": 1146,
@@ -932,7 +932,6 @@
     "canonical:52404265a1f2ac9b": "2026-07-13T09:28:03.797Z",
     "canonical:910a33048f04484e": "2026-07-13T09:28:03.797Z",
     "canonical:64216e826caaa5c4": "2026-07-13T09:28:03.797Z",
-    "canonical:691e1679dc0142e2": "2026-07-13T09:28:03.797Z",
     "canonical:d1299831c12f4c9d": "2026-07-13T09:28:03.797Z",
     "canonical:bb57cdbefd819b25": "2026-07-13T09:28:03.797Z",
     "canonical:d036fda9de6fb486": "2026-07-13T09:28:03.797Z",
@@ -1149,7 +1148,8 @@
     "canonical:ebdb73f1d53cde75": "2026-07-20T12:54:06.189Z",
     "canonical:e7378a3262e57aad": "2026-07-20T12:54:06.189Z",
     "canonical:21bf1e9044ba1971": "2026-07-20T12:54:06.189Z",
-    "canonical:fe10f6277c3a3f8b": "2026-07-20T12:54:06.189Z"
+    "canonical:fe10f6277c3a3f8b": "2026-07-20T12:54:06.189Z",
+    "canonical:d7ebb5572f0e17c1": "2026-07-20T15:01:21.264Z"
   },
   "jobs": [
     {
@@ -15143,6 +15143,19 @@
       ]
     },
     {
+      "id": "canonical:d7ebb5572f0e17c1",
+      "title": "Intern AI Vision for Equipment Development",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Lausanne-Vaud-Switzerland/Intern-AI-Vision-for-Equipment-Development_R72173",
+      "location": "Lausanne, Vaud, Switzerland",
+      "department": "Data & ML/AI / Fall 2026",
+      "company": "Medtronic",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:bed45dec59abc364",
       "title": "AI Software Development Engineer - Intern",
       "url": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/AI-Software-Development-Engineer---Intern_R02707",
@@ -15702,20 +15715,6 @@
       "location": "New York, New York",
       "department": "Quant / Summer 2027",
       "company": "Walleye Capital",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:691e1679dc0142e2",
-      "title": "Intern – Web Interface Software Engineer (2026)",
-      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Intern---Web-Interface-Software-Engineer--2026-_R64590",
-      "location": "Los Angeles, CA",
-      "department": "Software / Fall 2026",
-      "company": "Motorola",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
