@@ -10,6 +10,7 @@ import { fetchGithubJson } from "./ats/githubJson.ts";
 import { fetchRipplingAlgolia } from "./ats/ripplingAlgolia.ts";
 import { fetchSmartRecruiters } from "./ats/smartrecruiters.ts";
 import { fetchWorkable } from "./ats/workable.ts";
+import { fetchAmazon } from "./ats/amazon.ts";
 import {
   isInternship,
   isSoftwareEngineering,
@@ -53,6 +54,7 @@ async function fetchCompany(c: Company): Promise<Job[]> {
   if (c.ats === "ripplingAlgolia") return fetchRipplingAlgolia(c);
   if (c.ats === "smartrecruiters") return fetchSmartRecruiters(c);
   if (c.ats === "workable") return fetchWorkable(c);
+  if (c.ats === "amazon") return fetchAmazon(c);
   throw new Error(`unknown ats: ${c.ats}`);
 }
 

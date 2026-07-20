@@ -77,9 +77,18 @@ export async function fetchWorkday(company: Company): Promise<Job[]> {
       `workday ${company.slug}: missing cluster/site (need both for ${company.name})`,
     );
   }
-  const base = `https://${company.slug}.${company.cluster}.myworkdayjobs.com`;
-  const apiUrl = `${base}/wday/cxs/${company.slug}/${company.site}/jobs`;
-  const viewBase = `${base}/en-US/${company.site}`;
+
+  // Shared-domain Workday (e.g. wd1.myworkdaysite.com) uses tenant/site path
+  // rather than a company-specific subdomain.
+  const isShared = !!company.tenant;
+  const base = isShared
+    ? `https://${company.cluster}.myworkdaysite.com`
+    : `https://${company.slug}.${company.cluster}.myworkdayjobs.com`;
+  const tenant = company.tenant ?? company.slug;
+  const apiUrl = `${base}/wday/cxs/${tenant}/${company.site}/jobs`;
+  const viewBase = isShared
+    ? `${base}/recruiting/${tenant}/${company.site}`
+    : `${base}/en-US/${company.site}`;
 
   const all: WdJobPosting[] = [];
   let offset = 0;

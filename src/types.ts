@@ -9,7 +9,8 @@ export type AtsKind =
   | "githubJson"
   | "ripplingAlgolia"
   | "smartrecruiters"
-  | "workable";
+  | "workable"
+  | "amazon";
 
 export interface Company {
   name: string;
@@ -17,6 +18,7 @@ export interface Company {
   slug: string;
   cluster?: string;
   site?: string;
+  tenant?: string;
   sourceUrl?: string;
 }
 
