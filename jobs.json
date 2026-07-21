@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-21T16:15:03.141Z",
+  "generatedAt": "2026-07-21T17:46:04.417Z",
   "companyCount": 80,
   "okCount": 79,
-  "jobCount": 1575,
+  "jobCount": 1590,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1578,7 +1578,22 @@
     "canonical:890a2ff395907e1e": "2026-07-21T16:15:03.141Z",
     "canonical:b928618c8d52206e": "2026-07-21T16:15:03.141Z",
     "canonical:c9fd3f9e80dff55e": "2026-07-21T16:15:03.141Z",
-    "canonical:ad2f41df16e0359e": "2026-07-21T16:15:03.141Z"
+    "canonical:ad2f41df16e0359e": "2026-07-21T16:15:03.141Z",
+    "canonical:55f7914d8c2bdcce": "2026-07-21T17:46:04.417Z",
+    "canonical:525d35ef69b019bc": "2026-07-21T17:46:04.417Z",
+    "canonical:c8e10a577ab2a8bf": "2026-07-21T17:46:04.417Z",
+    "canonical:8a10421b10f0725a": "2026-07-21T17:46:04.417Z",
+    "canonical:1188eeec8fc3af96": "2026-07-21T17:46:04.417Z",
+    "canonical:0d5a980cf3c25a32": "2026-07-21T17:46:04.417Z",
+    "canonical:3089be45802d505e": "2026-07-21T17:46:04.417Z",
+    "canonical:38febced94700d05": "2026-07-21T17:46:04.417Z",
+    "canonical:c1e9394452463ed1": "2026-07-21T17:46:04.417Z",
+    "canonical:fae742742a2eb1de": "2026-07-21T17:46:04.417Z",
+    "canonical:4340ff87cce8bf1f": "2026-07-21T17:46:04.417Z",
+    "canonical:be990bc0f7ca2689": "2026-07-21T17:46:04.417Z",
+    "canonical:6eaf0d2e9dca8ca5": "2026-07-21T17:46:04.417Z",
+    "canonical:5231500a16373cd4": "2026-07-21T17:46:04.417Z",
+    "canonical:12b419c9a4fc7350": "2026-07-21T17:46:04.417Z"
   },
   "jobs": [
     {
@@ -2436,11 +2451,11 @@
       ]
     },
     {
-      "id": "canonical:f9963438d881a851",
+      "id": "canonical:81000bcd395c1244",
       "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
-      "location": "Amsterdam",
-      "department": "",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
+      "location": "Montreal, QC, Canada",
+      "department": "Software",
       "company": "DRW",
       "score": 93,
       "scoreReasons": [
@@ -2450,10 +2465,10 @@
       ]
     },
     {
-      "id": "canonical:81000bcd395c1244",
+      "id": "canonical:bd72b8a6944f6777",
       "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
-      "location": "Montreal, QC, Canada",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
+      "location": "London, UK",
       "department": "Software",
       "company": "DRW",
       "score": 93,
@@ -2478,11 +2493,11 @@
       ]
     },
     {
-      "id": "canonical:bd72b8a6944f6777",
+      "id": "canonical:f9963438d881a851",
       "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
-      "location": "London, UK",
-      "department": "Software",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
+      "location": "Amsterdam",
+      "department": "",
       "company": "DRW",
       "score": 93,
       "scoreReasons": [
@@ -11395,6 +11410,19 @@
       ]
     },
     {
+      "id": "canonical:55f7914d8c2bdcce",
+      "title": "PhD Research Intern - Generative AI",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035",
+      "location": "California / Santa Clara, CA / United States",
+      "department": "AI/ML/Data",
+      "company": "NVIDIA",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:0d69edb886321d54",
       "title": "Data Science Intern - Tiktok Shop-Supply Chain & Logistics",
       "url": "https://lifeattiktok.com/search/7644719084681234741",
@@ -12035,6 +12063,19 @@
       ]
     },
     {
+      "id": "canonical:525d35ef69b019bc",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://www.zipline.com/careers?gh_jid=7765240003#open-roles",
+      "location": "San Bruno, CA",
+      "department": "Hardware",
+      "company": "Zipline",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:7ab57e97fb879c0f",
       "title": "Service Engineering Intern - Product Support Engineer - Service Engineering",
       "url": "https://www.tesla.com/careers/search/job/271630",
@@ -12608,6 +12649,19 @@
       ]
     },
     {
+      "id": "canonical:c8e10a577ab2a8bf",
+      "title": "Grid Automation & Software Intern",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041709",
+      "location": "United States",
+      "department": "Software",
+      "company": "GE Vernova",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:3f94a7964c2e6f0f",
       "title": "Product Development Intern",
       "url": "https://job-boards.greenhouse.io/fourhands/jobs/4272048009",
@@ -12628,6 +12682,20 @@
       "company": "Tenstorrent",
       "score": 58,
       "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:8212975b7a6dc9b6",
+      "title": "Software Engineer Intern",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393",
+      "location": "Dallas, TX",
+      "department": "Software",
+      "company": "Copart",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
         "direct ATS"
       ]
     },
@@ -12878,6 +12946,20 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:8a10421b10f0725a",
+      "title": "Machine Learning Developer Intern",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Machine-Learning-Developer_25WD92311-2",
+      "location": "Toronto, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "Autodesk",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -13481,6 +13563,19 @@
       ]
     },
     {
+      "id": "canonical:1188eeec8fc3af96",
+      "title": "Technology Intern - Technology",
+      "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Technology_2601695-1",
+      "location": "Stamford, CT",
+      "department": "Software",
+      "company": "Synchrony Financial",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:ed844f44d7281700",
       "title": "Systems Modeling & Optimization Intern - Robotaxi Simulation Engineer - Systems Modeling & Optimization",
       "url": "https://www.tesla.com/careers/search/job/273933",
@@ -13561,6 +13656,18 @@
       "location": "Santa Clara, CA",
       "department": "Product",
       "company": "Flagright",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:0d5a980cf3c25a32",
+      "title": "Design Verification Engineer Intern",
+      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Design-Verification-Engineer-Intern---Fall-2026_2602706",
+      "location": "Ottawa, ON, Canada",
+      "department": "Hardware",
+      "company": "Marvell",
       "score": 58,
       "scoreReasons": [
         "direct ATS"
@@ -13677,6 +13784,20 @@
       "company": "Toyota Research Institute",
       "score": 68,
       "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:3089be45802d505e",
+      "title": "Cloud Developer Intern",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-2",
+      "location": "Remote in Canada",
+      "department": "Software",
+      "company": "Autodesk",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -14321,6 +14442,20 @@
       ]
     },
     {
+      "id": "canonical:38febced94700d05",
+      "title": "Graduate Intern",
+      "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--3-12-month--Intern---Artificial-Intelligence-for-Power-System-Operations_R14160",
+      "location": "Golden, CO",
+      "department": "AI/ML/Data",
+      "company": "National Laboratory of the Rockies",
+      "score": 74,
+      "scoreReasons": [
+        "high-signal role",
+        "new grad",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:2f127a7c6f9ba9ec",
       "title": "Hardware Design Intern - Software Defined Radio Team",
       "url": "https://job-boards.greenhouse.io/astranis/jobs/4691163006",
@@ -14476,6 +14611,19 @@
       ]
     },
     {
+      "id": "canonical:c1e9394452463ed1",
+      "title": "Analytics Intern",
+      "url": "https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Analytics-Intern_JR105406",
+      "location": "Cleveland, OH",
+      "department": "AI/ML/Data",
+      "company": "thyssenkrupp",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:4df26887a64db100",
       "title": "Quantitative Trader Intern",
       "url": "https://careers-sig.icims.com/jobs/10849/job?mobile=true&needsRedirect=false",
@@ -14626,20 +14774,6 @@
       "company": "Cadence Design Systems",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:8212975b7a6dc9b6",
-      "title": "Software Engineer Intern",
-      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR101510",
-      "location": "Dallas, TX",
-      "department": "Software",
-      "company": "Copart",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -15202,7 +15336,7 @@
     {
       "id": "canonical:68297b37cb4f4754",
       "title": "Software Engineer Intern",
-      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011602",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011570",
       "location": "California",
       "department": "Software",
       "company": "Palo Alto Networks",
@@ -15637,6 +15771,19 @@
       "location": "SF / NYC",
       "department": "AI/ML/Data",
       "company": "Output Biosciences",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:fae742742a2eb1de",
+      "title": "Construction Technologies Intern",
+      "url": "https://mosscm.wd1.myworkdayjobs.com/moss_careers/job/FORT-LAUDERDALE-FL/Construction-Technologies-Internship_R-2710",
+      "location": "McKinney, TX / Tampa, FL / Fort Lauderdale, FL",
+      "department": "AI/ML/Data",
+      "company": "Moss & Associates",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -17370,6 +17517,18 @@
       ]
     },
     {
+      "id": "canonical:4340ff87cce8bf1f",
+      "title": "Spaceflight Hardware Intern",
+      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Fall-2026---Spaceflight-Hardware-Intern_R0166096",
+      "location": "Houston, TX",
+      "department": "Hardware",
+      "company": "Amentum",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:4e89d2ad018b512e",
       "title": "Algorithms Software Intern",
       "url": "https://careers.formlabs.com/job/8060759/apply/?gh_jid=8060759",
@@ -18811,6 +18970,56 @@
       "score": 58,
       "scoreReasons": [
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:be990bc0f7ca2689",
+      "title": "Applications Engineer Intern",
+      "url": "https://www.zipline.com/open-roles?gh_jid=7765099003",
+      "location": "San Bruno, CA",
+      "department": "Hardware",
+      "company": "Zipline",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:6eaf0d2e9dca8ca5",
+      "title": "Graduate Geospatial Data Science Intern",
+      "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern--Geospatial-Data-Science-Modeling-and-Analysis_R14338",
+      "location": "Golden, CO",
+      "department": "AI/ML/Data",
+      "company": "National Laboratory of the Rockies",
+      "score": 74,
+      "scoreReasons": [
+        "high-signal role",
+        "new grad",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:5231500a16373cd4",
+      "title": "Intern to Entry Level Conversion Intern Program - Engineering",
+      "url": "https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Seattle-WA/Intern-to-Entry-Level-Conversion---Engineering--Summer-2026-Intern-Program-_JR2026516292",
+      "location": "Germantown, MD / Seattle, WA / Houston, TX / New Orleans, LA / Long Beach, CA / Newburgh, NY / Mesa, AZ / Miami, FL / Colorado Springs, CO / Fairfax, VA / Philadelphia, PA / Merritt Island, FL / Seal Beach, CA / Tukwila, WA / St Charles, MO / San Antonio, TX / St. Louis, MO / Everett, WA / Auburn, WA / Ridgecrest, CA / Heath, OH / Fort Walton Beach, FL / Oklahoma City, OK / Kent, WA / Portland, OR / Huntsville, AL / North Charleston, SC / Huntington Beach, CA / Hazelwood, MO / El Segundo, CA",
+      "department": "Software",
+      "company": "The Boeing Company",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:12b419c9a4fc7350",
+      "title": "AI Engineer Intern",
+      "url": "https://careers.medpace.com/jobs/12863?icims=1",
+      "location": "London, UK",
+      "department": "AI/ML/Data",
+      "company": "Medpace",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
