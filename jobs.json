@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-21T19:02:41.322Z",
+  "generatedAt": "2026-07-21T20:33:07.988Z",
   "companyCount": 80,
   "okCount": 79,
-  "jobCount": 1595,
+  "jobCount": 1606,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1138,7 +1138,6 @@
     "canonical:34b4070200920bbc": "2026-07-20T23:30:05.931Z",
     "canonical:12183f6c69d51353": "2026-07-20T23:30:05.931Z",
     "canonical:db71d8bc265c546e": "2026-07-20T23:30:05.931Z",
-    "canonical:3d555acaaf3bf054": "2026-07-20T23:30:05.931Z",
     "canonical:e529b51d5a59d5ff": "2026-07-20T23:30:05.931Z",
     "canonical:860bcc481b25d07b": "2026-07-20T23:30:05.931Z",
     "canonical:09a914a09cfa2273": "2026-07-20T23:30:05.931Z",
@@ -1392,7 +1391,6 @@
     "canonical:2cacdd8f58d07a4e": "2026-07-21T00:59:18.207Z",
     "canonical:deea13b3e07deb00": "2026-07-21T00:59:18.207Z",
     "canonical:266417341de7bffc": "2026-07-21T00:59:18.207Z",
-    "canonical:81a4c4ac9ab7c7da": "2026-07-21T04:15:38.512Z",
     "canonical:5102d25030cf046b": "2026-07-21T04:15:38.512Z",
     "canonical:d9c4595a701de09d": "2026-07-21T04:15:38.512Z",
     "canonical:7c5d7d5814a19bff": "2026-07-21T04:15:38.512Z",
@@ -1434,7 +1432,6 @@
     "canonical:0e179c296197a963": "2026-07-21T04:15:38.512Z",
     "canonical:5beb63ad5b91a27f": "2026-07-21T04:15:38.512Z",
     "canonical:61a5a21e0c0bfaaa": "2026-07-21T04:15:38.512Z",
-    "canonical:7d65a65dacade57a": "2026-07-21T04:15:38.512Z",
     "canonical:e2da4182bcd33dd0": "2026-07-21T07:03:27.767Z",
     "canonical:359a8c067eedb3bf": "2026-07-21T07:03:27.767Z",
     "canonical:5147cd9949056765": "2026-07-21T07:03:27.767Z",
@@ -1534,7 +1531,6 @@
     "canonical:7dee87124373df05": "2026-07-21T12:50:49.633Z",
     "canonical:bf33bee56c7f7e21": "2026-07-21T12:50:49.633Z",
     "canonical:731ee7c68a517757": "2026-07-21T12:50:49.633Z",
-    "canonical:3cca6bdde23d065f": "2026-07-21T12:50:49.633Z",
     "canonical:276fa60f1597cd67": "2026-07-21T12:50:49.633Z",
     "canonical:5fad4f58541c53c3": "2026-07-21T14:54:50.893Z",
     "canonical:27fa5d3290d6515b": "2026-07-21T14:54:50.893Z",
@@ -1598,7 +1594,22 @@
     "canonical:621773561875f0d2": "2026-07-21T19:02:41.322Z",
     "canonical:cb8d735868564283": "2026-07-21T19:02:41.322Z",
     "canonical:27bdb3f23ff4322a": "2026-07-21T19:02:41.322Z",
-    "canonical:590a103b29130a4c": "2026-07-21T19:02:41.322Z"
+    "canonical:590a103b29130a4c": "2026-07-21T19:02:41.322Z",
+    "canonical:133608b1bfb1c38e": "2026-07-21T20:33:07.988Z",
+    "canonical:bca1cc17005e460b": "2026-07-21T20:33:07.988Z",
+    "canonical:4657deb65ec280ac": "2026-07-21T20:33:07.988Z",
+    "canonical:914e052821800035": "2026-07-21T20:33:07.988Z",
+    "canonical:449b39e3baa7b17a": "2026-07-21T20:33:07.988Z",
+    "canonical:18c1469bc3267e0b": "2026-07-21T20:33:07.988Z",
+    "canonical:25170466c178dd22": "2026-07-21T20:33:07.988Z",
+    "canonical:70b2afd01cdeb431": "2026-07-21T20:33:07.988Z",
+    "canonical:e4e59c3d19a3ebd0": "2026-07-21T20:33:07.988Z",
+    "canonical:e1ab6110196d85d9": "2026-07-21T20:33:07.988Z",
+    "canonical:38a7d4388515b288": "2026-07-21T20:33:07.988Z",
+    "canonical:559862a3c8507c45": "2026-07-21T20:33:07.988Z",
+    "canonical:c070e919f5ea6bac": "2026-07-21T20:33:07.988Z",
+    "canonical:0f5324e2e79ce224": "2026-07-21T20:33:07.988Z",
+    "canonical:9aaef3e4c361fe82": "2026-07-21T20:33:07.988Z"
   },
   "jobs": [
     {
@@ -2316,18 +2327,6 @@
       ]
     },
     {
-      "id": "canonical:1f361269ec79c7b7",
-      "title": "FPGA Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/8070392",
-      "location": "London, UK",
-      "department": "Hardware",
-      "company": "DRW",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:2bc4df178e85b4f6",
       "title": "FPGA Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/8038923",
@@ -2340,11 +2339,11 @@
       ]
     },
     {
-      "id": "canonical:6e64194c6ae570c0",
-      "title": "Leadership Rotation Network Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957735",
-      "location": "London",
-      "department": "",
+      "id": "canonical:1f361269ec79c7b7",
+      "title": "FPGA Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/8070392",
+      "location": "London, UK",
+      "department": "Hardware",
       "company": "DRW",
       "score": 58,
       "scoreReasons": [
@@ -2356,6 +2355,18 @@
       "title": "Leadership Rotation Network Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7993195",
       "location": "Chicago, IL",
+      "department": "",
+      "company": "DRW",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:6e64194c6ae570c0",
+      "title": "Leadership Rotation Network Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957735",
+      "location": "London",
       "department": "",
       "company": "DRW",
       "score": 58,
@@ -2456,20 +2467,6 @@
       ]
     },
     {
-      "id": "canonical:1d41c103b87b651a",
-      "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
-      "location": "Chicago, IL",
-      "department": "Software",
-      "company": "DRW",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:bd72b8a6944f6777",
       "title": "Software Developer Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
@@ -2489,6 +2486,20 @@
       "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
       "location": "Amsterdam",
       "department": "",
+      "company": "DRW",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1d41c103b87b651a",
+      "title": "Software Developer Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
+      "location": "Chicago, IL",
+      "department": "Software",
       "company": "DRW",
       "score": 93,
       "scoreReasons": [
@@ -5185,18 +5196,6 @@
       "scoreReasons": []
     },
     {
-      "id": "canonical:3d555acaaf3bf054",
-      "title": "(Fall 2026) Annapurna Labs at AWS Internship (US) - Machine Learning Systems & Silicon Innovation",
-      "url": "https://amazon.jobs/en/jobs/10400153/fall-2026-annapurna-labs-at-aws-internship-us-machine-learning-systems-silicon-innovation",
-      "location": "Cupertino",
-      "department": "Software Development",
-      "company": "Amazon",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:e529b51d5a59d5ff",
       "title": "软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years)",
       "url": "https://amazon.jobs/en/jobs/10399403/new-graduate-or-entry-level-engineer-0-2-years",
@@ -6915,6 +6914,20 @@
       ]
     },
     {
+      "id": "canonical:31962d85f79aae5b",
+      "title": "Hunyuan Multimodal Algorithm Researcher intern - Omni-Modal",
+      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650",
+      "location": "Palo Alto, CA",
+      "department": "AI/ML/Data",
+      "company": "Tencent",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:885c7029ab2fb04a",
       "title": "Internship - Software Development Engineer in Test",
       "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Development-Engineer-in-Test_J-00328071",
@@ -6935,6 +6948,19 @@
       "location": "Dallas, TX",
       "department": "Software",
       "company": "Copart",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:133608b1bfb1c38e",
+      "title": "Sustainability Systems Intern",
+      "url": "https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Sustainability-Systems-Intern_JR104148",
+      "location": "Cleveland, OH",
+      "department": "AI/ML/Data",
+      "company": "thyssenkrupp",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -7233,20 +7259,6 @@
       "company": "Tencent",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:31962d85f79aae5b",
-      "title": "Hunyuan Multimodal Algorithm Researcher Intern - Omni-Modal",
-      "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650-2",
-      "location": "Palo Alto, CA",
-      "department": "AI/ML/Data",
-      "company": "Tencent",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -8368,6 +8380,18 @@
       "score": 68,
       "scoreReasons": [
         "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:bca1cc17005e460b",
+      "title": "Radio Frequency Engineering Intern",
+      "url": "https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/RF-Engineering-Intern---2026_JR101095",
+      "location": "Dulles, VA",
+      "department": "Hardware",
+      "company": "Nightwing Intelligence Solutions",
+      "score": 58,
+      "scoreReasons": [
         "direct ATS"
       ]
     },
@@ -10622,6 +10646,19 @@
       ]
     },
     {
+      "id": "canonical:c15c53c8a342ba6b",
+      "title": "AI Agent Research & Application Intern",
+      "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/UK-London/AI-Agent-Research---Application-Intern_R106432",
+      "location": "London, UK",
+      "department": "AI/ML/Data",
+      "company": "Tencent",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:fb66aae0f309968e",
       "title": "Subsystem Test Engineer Intern",
       "url": "https://jobs.lever.co/hermeus/3ee3f243-bab8-4bdb-b0d0-2214874ef49e/apply",
@@ -10745,6 +10782,20 @@
       "location": "Troy, MI",
       "department": "Software",
       "company": "Menasha Corporation",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:4657deb65ec280ac",
+      "title": "Computer Graphics Software Developer Intern",
+      "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Computer-Graphics-Software-Developer-Intern_JR-050234",
+      "location": "Urbana, IL",
+      "department": "Software",
+      "company": "Brunswick",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -13246,6 +13297,19 @@
       ]
     },
     {
+      "id": "canonical:914e052821800035",
+      "title": "Speech Research Intern - Centific AI Research",
+      "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Speech-Research-Intern-2_JR107448-1",
+      "location": "Remote in USA / Redmond, WA",
+      "department": "AI/ML/Data",
+      "company": "Centific",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:db74d5d02de964bf",
       "title": "Systems Research Engineer Intern - GPU Programming",
       "url": "https://job-boards.greenhouse.io/togetherai/jobs/5157559007",
@@ -14457,6 +14521,20 @@
       "scoreReasons": [
         "high-signal role",
         "new grad",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:449b39e3baa7b17a",
+      "title": "Racing Performance Engineer Intern",
+      "url": "https://hendrick.wd5.myworkdayjobs.com/HMSCareers/job/Hendrick-Motorsports/Racing-Performance-Engineer---Fall-2026-Internship_R-81564",
+      "location": "Charlotte, NC",
+      "department": "AI/ML/Data",
+      "company": "Hendrick Motorsports",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
         "direct ATS"
       ]
     },
@@ -17366,6 +17444,18 @@
       ]
     },
     {
+      "id": "canonical:18c1469bc3267e0b",
+      "title": "Global Product Intern",
+      "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/New-York-NY/XMLNAME-2027-Global-Product-Intern-New-York_R265170",
+      "location": "NYC",
+      "department": "Product",
+      "company": "BlackRock",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:32d9708995752a28",
       "title": "Graduate Researcher Intern - Machine Learning",
       "url": "https://jobs.ashbyhq.com/constellationspace/b763d4ba-7b77-479b-89a0-f632d9d02f4a/application?embed=true",
@@ -17483,6 +17573,19 @@
       ]
     },
     {
+      "id": "canonical:25170466c178dd22",
+      "title": "Research Intern - Video World Models - Research & ML Systems",
+      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752-1",
+      "location": "Palo Alto, CA",
+      "department": "AI/ML/Data",
+      "company": "Tencent",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:366830ca3c1a6b87",
       "title": "Data Development Intern",
       "url": "https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5187532007",
@@ -17559,6 +17662,19 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:70b2afd01cdeb431",
+      "title": "Gas Turbine Products Engineering Intern",
+      "url": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027--Gas-Turbine-Product-Engineering-Internship_R0000382293",
+      "location": "San Diego, CA",
+      "department": "Software",
+      "company": "Solar Turbines",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -17678,6 +17794,19 @@
       "location": "Montreal, QC, Canada",
       "department": "AI/ML/Data",
       "company": "CAE",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:e4e59c3d19a3ebd0",
+      "title": "Chemistry Intern - MLFF Distillation & GCMC Integration",
+      "url": "https://jobs.ashbyhq.com/cuspai/d7b80299-ed98-4dfe-b306-729cd10d3f04/application?embed=true",
+      "location": "London, UK / Cambridge, UK",
+      "department": "AI/ML/Data",
+      "company": "CuspAI",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -17866,6 +17995,19 @@
       "location": "Cambridge, MA / SF / San Jose, CA / Plano, TX / McLean, VA / Richmond, VA / Chicago, IL / NYC",
       "department": "AI/ML/Data",
       "company": "Capital One",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:e1ab6110196d85d9",
+      "title": "Engineering Development Program Intern - Software",
+      "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Intern---Software_R4043933-2",
+      "location": "Waukesha, WI",
+      "department": "AI/ML/Data",
+      "company": "GE Healthcare",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -18133,20 +18275,6 @@
       ]
     },
     {
-      "id": "canonical:81a4c4ac9ab7c7da",
-      "title": "Rust Software Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/fab2/009d0819-c688-4ab9-8816-a3c7ab002470/application?embed=true",
-      "location": "SF / Austin, TX",
-      "department": "Software",
-      "company": "Fab2",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:5102d25030cf046b",
       "title": "Technical Marketing Intern - Analytics - Research & Automation",
       "url": "https://jobs.ashbyhq.com/outpostnow/6f63d0c8-c332-498f-ac69-08c305f5a9ee/application?embed=true",
@@ -18294,6 +18422,19 @@
       ]
     },
     {
+      "id": "canonical:38a7d4388515b288",
+      "title": "Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI",
+      "url": "https://ats.rippling.com/spreeai/jobs/aa087086-dd4b-42be-a499-051546655e97",
+      "location": "SF",
+      "department": "AI/ML/Data",
+      "company": "SpreeAI ",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:5c2778d446a1f22f",
       "title": "Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web",
       "url": "https://ats.rippling.com/spreeai/jobs/c52472cb-2671-45d7-b666-17196dc3df25",
@@ -18385,6 +18526,19 @@
       "score": 58,
       "scoreReasons": [
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:559862a3c8507c45",
+      "title": "Software Engineer Intern",
+      "url": "https://ats.rippling.com/gitar-careers/jobs/bfc2d948-40d8-4479-9885-fd1619ec2bda",
+      "location": "San Mateo, CA",
+      "department": "Software",
+      "company": "Gitar, Inc.",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
@@ -18811,19 +18965,6 @@
       ]
     },
     {
-      "id": "canonical:c15c53c8a342ba6b",
-      "title": "AI Agent Research & Application Intern",
-      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/AI-Agent-Research---Application-Intern_R106432-1",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "Tencent",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:1209e5630e633455",
       "title": "Analog Engineer Intern",
       "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Vancouver-Canada/Analog-Engineer-Intern---PhD_2502424-1",
@@ -19086,6 +19227,41 @@
       "location": "Chicago, IL",
       "department": "Quant",
       "company": "BlackEdge Capital",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c070e919f5ea6bac",
+      "title": "FPGA Engineer Intern",
+      "url": "https://www.optiver.com/join-us/jobs/8641352002/?gh_jid=8641352002",
+      "location": "Austin, TX",
+      "department": "Hardware",
+      "company": "Optiver",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:0f5324e2e79ce224",
+      "title": "AI/ML Research Intern",
+      "url": "https://jobs.keysight.com/jobs/52557?icims=1",
+      "location": "Edinburgh, UK",
+      "department": "AI/ML/Data",
+      "company": "Keysight Technologies",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:9aaef3e4c361fe82",
+      "title": "Software Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003",
+      "location": "Boston, MA / Seattle, WA",
+      "department": "Software",
+      "company": "Axon",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -21412,19 +21588,6 @@
       ]
     },
     {
-      "id": "canonical:7d65a65dacade57a",
-      "title": "2027 US Software Engineering Internship",
-      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003",
-      "location": "Seattle, Washington, United States",
-      "department": "Software / Summer 2027",
-      "company": "Axon",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:61a5a21e0c0bfaaa",
       "title": "2027 US Firmware Engineering Internship",
       "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800628003",
@@ -21523,19 +21686,6 @@
       "location": "Buffalo, NY",
       "department": "Data & ML/AI / Fall 2026",
       "company": "Moog",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:3cca6bdde23d065f",
-      "title": "Research Intern – Video World Models (Research & ML Systems)",
-      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752-1",
-      "location": "US-California-Palo Alto",
-      "department": "Data & ML/AI / Summer 2027",
-      "company": "Tencent",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
