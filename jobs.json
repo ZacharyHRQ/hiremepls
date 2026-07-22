@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-22T21:43:09.386Z",
+  "generatedAt": "2026-07-22T22:40:14.581Z",
   "companyCount": 80,
   "okCount": 79,
-  "jobCount": 1605,
+  "jobCount": 1595,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -137,7 +137,6 @@
     "canonical:3ac7e929b6c7398f": "2026-05-09T15:28:15.527Z",
     "canonical:60d4eb07453b6428": "2026-05-09T15:28:15.527Z",
     "canonical:7ca63fb282883ee7": "2026-05-09T15:28:15.527Z",
-    "canonical:fd3a144ce91c5f4a": "2026-05-09T15:28:15.527Z",
     "canonical:ce8b9d9ff03ce5eb": "2026-05-09T15:28:15.527Z",
     "canonical:dbfb22c1cc92cb7d": "2026-05-09T15:28:15.527Z",
     "canonical:8108ed7544fbae39": "2026-05-09T15:28:15.527Z",
@@ -153,7 +152,6 @@
     "canonical:f5a5dbf294122ad1": "2026-05-09T15:28:15.527Z",
     "canonical:e0150c05751b4a2a": "2026-05-09T15:28:15.527Z",
     "canonical:9bb7084f7e28f80a": "2026-05-09T15:28:15.527Z",
-    "canonical:31dee9f85cf9e5f7": "2026-05-09T15:28:15.527Z",
     "canonical:7fe1ed821878aa89": "2026-05-09T15:28:15.527Z",
     "canonical:9508a5dd181c1039": "2026-05-09T15:28:15.527Z",
     "canonical:e8f8acb3e1ee5857": "2026-05-09T15:28:15.527Z",
@@ -427,12 +425,10 @@
     "canonical:2a600b101ee31a5b": "2026-06-17T06:49:09.742Z",
     "canonical:411bdab6bb2d495d": "2026-06-17T11:27:12.169Z",
     "canonical:c32262e36ae9b8e5": "2026-06-17T17:36:29.585Z",
-    "canonical:7a84ea827ea42d52": "2026-06-18T01:59:36.874Z",
     "canonical:644048b3b78a8390": "2026-06-18T06:55:12.727Z",
     "canonical:ba7d90657c7616fd": "2026-06-18T06:55:12.727Z",
     "canonical:2490d8bfc16fc718": "2026-06-18T11:04:19.200Z",
     "canonical:7dd8143286e8669f": "2026-06-18T11:04:19.200Z",
-    "canonical:e31c6f05c180cfcc": "2026-06-19T02:17:31.951Z",
     "canonical:b4321a96d5262a5c": "2026-06-19T17:03:13.004Z",
     "canonical:0d51b143c8459099": "2026-06-20T03:57:11.576Z",
     "canonical:495a5708640f7aa7": "2026-06-20T03:57:11.576Z",
@@ -611,8 +607,6 @@
     "canonical:3b590c340646bfa7": "2026-07-08T21:59:46.351Z",
     "canonical:7286f2830b7e7578": "2026-07-08T21:59:46.351Z",
     "canonical:9b2f6d5991a31273": "2026-07-08T23:10:12.765Z",
-    "canonical:907e0eb62b4d94cf": "2026-07-08T23:10:12.765Z",
-    "canonical:37ba4790d497d153": "2026-07-08T23:10:12.765Z",
     "canonical:c448db142045aa40": "2026-07-08T23:10:12.765Z",
     "canonical:5f80367634004dde": "2026-07-08T23:10:12.765Z",
     "canonical:7b8f06ccf79331d5": "2026-07-08T23:10:12.765Z",
@@ -888,13 +882,8 @@
     "canonical:43728627d97ce77d": "2026-07-14T00:56:03.544Z",
     "canonical:71948c456d694546": "2026-07-14T00:56:03.544Z",
     "canonical:d653e530bf00d5d7": "2026-07-14T00:56:03.544Z",
-    "canonical:919263a5f4e5bf2a": "2026-07-14T00:56:03.544Z",
     "canonical:f573ba7c8582d943": "2026-07-14T00:56:03.544Z",
     "canonical:3db241f6f3d11bfa": "2026-07-14T00:56:03.544Z",
-    "canonical:d7f4d0fccfb1c39a": "2026-07-14T00:56:03.544Z",
-    "canonical:436600042890ca57": "2026-07-14T00:56:03.544Z",
-    "canonical:5f4502ddb3d68d0e": "2026-07-14T00:56:03.544Z",
-    "canonical:cd24694e0e5961cf": "2026-07-14T00:56:03.544Z",
     "canonical:cd12c76f4d95ac8b": "2026-07-14T00:56:03.544Z",
     "canonical:cd616f6d99f7d341": "2026-07-14T00:56:03.544Z",
     "canonical:80c7a4c7c5536ec7": "2026-07-14T00:56:03.544Z",
@@ -1528,7 +1517,6 @@
     "canonical:afb536cb1eecb81f": "2026-07-22T01:04:17.268Z",
     "canonical:6eacff78103b9cac": "2026-07-22T01:04:17.268Z",
     "canonical:d9dd9592117efd45": "2026-07-22T01:04:17.268Z",
-    "canonical:c3f909dd643f2906": "2026-07-22T04:30:46.300Z",
     "canonical:581a4f2c28dd6752": "2026-07-22T04:30:46.300Z",
     "canonical:78e461e91d26f884": "2026-07-22T04:30:46.300Z",
     "canonical:117f07893ccc9f34": "2026-07-22T04:30:46.300Z",
@@ -1600,7 +1588,6 @@
     "canonical:c1817238d89b26e3": "2026-07-22T15:14:46.881Z",
     "canonical:aa43ee77d75cfa12": "2026-07-22T15:14:46.881Z",
     "canonical:ec23121dc644d031": "2026-07-22T15:14:46.881Z",
-    "canonical:2fc4577ec2058740": "2026-07-22T15:14:46.881Z",
     "canonical:858328f679817e3a": "2026-07-22T15:14:46.881Z",
     "canonical:44b52479685bc87d": "2026-07-22T15:14:46.881Z",
     "canonical:371f0538c738195d": "2026-07-22T15:14:46.881Z",
@@ -1608,7 +1595,10 @@
     "canonical:b43d354d2f8a9d87": "2026-07-22T16:46:23.121Z",
     "canonical:98aaddec88d0841f": "2026-07-22T19:40:17.932Z",
     "canonical:2b0ccba6d67456c0": "2026-07-22T21:43:09.386Z",
-    "canonical:d36ccef236051a76": "2026-07-22T21:43:09.386Z"
+    "canonical:d36ccef236051a76": "2026-07-22T21:43:09.386Z",
+    "canonical:d72f5b20685fcff0": "2026-07-22T22:40:14.581Z",
+    "canonical:314b90eb0f07a49c": "2026-07-22T22:40:14.581Z",
+    "canonical:7e71c09c84f24ad0": "2026-07-22T22:40:14.581Z"
   },
   "jobs": [
     {
@@ -8492,19 +8482,6 @@
       ]
     },
     {
-      "id": "canonical:c3f909dd643f2906",
-      "title": "Mission Software – Intern - Python",
-      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7676465003",
-      "location": "El Segundo, CA",
-      "department": "Software",
-      "company": "Varda Space",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:bb63a577c98aec70",
       "title": "Data Analyst Project Intern - Data Science",
       "url": "https://lifeattiktok.com/search/7620775575152462085",
@@ -8889,16 +8866,6 @@
       ]
     },
     {
-      "id": "canonical:fd3a144ce91c5f4a",
-      "title": "Radio Frequency Engineering Intern",
-      "url": "https://impulsespace.pinpointhq.com/en/postings/89b783a7-a1be-4aa4-8e3d-117e03d175cd?ats=pinpointhq",
-      "location": "El Segundo, CA",
-      "department": "Hardware",
-      "company": "Impulse Space",
-      "score": 50,
-      "scoreReasons": []
-    },
-    {
       "id": "canonical:ce8b9d9ff03ce5eb",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90/application",
@@ -9155,18 +9122,6 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:31dee9f85cf9e5f7",
-      "title": "Data Science Co-op/Intern",
-      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34327",
-      "location": "Ottawa, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Nokia",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {
@@ -13099,6 +13054,19 @@
       ]
     },
     {
+      "id": "canonical:d72f5b20685fcff0",
+      "title": "Gas Compressor Data Analyst Intern",
+      "url": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027-Internship--Gas-Compressor-Data-Analyst_R0000375786",
+      "location": "San Diego, CA",
+      "department": "AI/ML/Data",
+      "company": "Solar Turbines",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:e5b8024c19031c98",
       "title": "Software Engineer Intern - Residential Energy Device Software Engineer - Energy Engineering",
       "url": "https://www.tesla.com/careers/search/job/273810",
@@ -13544,18 +13512,6 @@
       ]
     },
     {
-      "id": "canonical:7a84ea827ea42d52",
-      "title": "Data Specialist Co-op Intern - Claim Operations Management",
-      "url": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9148",
-      "location": "Kitchener, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Definity Financial",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:644048b3b78a8390",
       "title": "Software Engineer Intern",
       "url": "https://careers-beyondsoft.icims.com/jobs/10912/job?mobile=true&needsRedirect=false",
@@ -13619,18 +13575,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:e31c6f05c180cfcc",
-      "title": "Firmware Engineering Intern",
-      "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR14674",
-      "location": "Reno, NV",
-      "department": "Hardware",
-      "company": "Generac",
-      "score": 58,
-      "scoreReasons": [
         "direct ATS"
       ]
     },
@@ -15765,19 +15709,6 @@
       ]
     },
     {
-      "id": "canonical:2fc4577ec2058740",
-      "title": "Research and Development Intern - Research & Development",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development_JR-202613027",
-      "location": "Warren, MI",
-      "department": "AI/ML/Data",
-      "company": "General Motors",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:b47e9c3e1c95372e",
       "title": "Data Scientist Intern",
       "url": "https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003",
@@ -16116,34 +16047,6 @@
       "company": "Autodesk",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:907e0eb62b4d94cf",
-      "title": "Campus UI Software Engineer Intern",
-      "url": "https://boards.greenhouse.io/embed/job_app?token=8003019",
-      "location": "Chicago, IL",
-      "department": "Software",
-      "company": "Jump Trading",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:37ba4790d497d153",
-      "title": "Campus Data Engineer Intern",
-      "url": "https://boards.greenhouse.io/embed/job_app?token=8002998",
-      "location": "Chicago, IL",
-      "department": "AI/ML/Data",
-      "company": "Jump Trading",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -16575,18 +16478,6 @@
       ]
     },
     {
-      "id": "canonical:919263a5f4e5bf2a",
-      "title": "Campus FPGA Engineer Intern",
-      "url": "https://boards.greenhouse.io/embed/job_app?token=7974391",
-      "location": "London, UK",
-      "department": "Hardware",
-      "company": "Jump Trading",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:f573ba7c8582d943",
       "title": "Campus Quantitative Researcher Intern",
       "url": "https://boards.greenhouse.io/embed/job_app?token=8010307",
@@ -16610,60 +16501,6 @@
       "score": 68,
       "scoreReasons": [
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:d7f4d0fccfb1c39a",
-      "title": "Campus UI Software Engineer Intern",
-      "url": "https://boards.greenhouse.io/embed/job_app?token=7974943",
-      "location": "London, UK",
-      "department": "Software",
-      "company": "Jump Trading",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:436600042890ca57",
-      "title": "Campus ML Research Engineer Intern",
-      "url": "https://boards.greenhouse.io/embed/job_app?token=7977145",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "Jump Trading",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:5f4502ddb3d68d0e",
-      "title": "Campus Software Engineer Intern",
-      "url": "https://boards.greenhouse.io/embed/job_app?token=7975026",
-      "location": "London, UK",
-      "department": "Software",
-      "company": "Jump Trading",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:cd24694e0e5961cf",
-      "title": "Campus ASIC Engineer Intern",
-      "url": "https://boards.greenhouse.io/embed/job_app?token=7974837",
-      "location": "Bristol, UK",
-      "department": "Hardware",
-      "company": "Jump Trading",
-      "score": 58,
-      "scoreReasons": [
         "direct ATS"
       ]
     },
@@ -19365,6 +19202,18 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:314b90eb0f07a49c",
+      "title": "FPGA Digital Design Engineer Intern",
+      "url": "https://jobs.lever.co/kepler/f06ca5e6-2e7f-4b76-a5c4-cb423d3cfc03/apply",
+      "location": "Toronto, ON, Canada",
+      "department": "Hardware",
+      "company": "Kepler Communications",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
       ]
     },
     {
@@ -22078,6 +21927,19 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:7e71c09c84f24ad0",
+      "title": "Flight Software Internship - Fall 2026",
+      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7676465003",
+      "location": "El Segundo, California, United States",
+      "department": "Software / Fall 2026",
+      "company": "Varda Space",
+      "score": 68,
+      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
