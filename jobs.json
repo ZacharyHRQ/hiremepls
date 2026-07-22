@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-22T15:14:46.881Z",
+  "generatedAt": "2026-07-22T16:46:23.121Z",
   "companyCount": 80,
   "okCount": 79,
-  "jobCount": 1617,
+  "jobCount": 1616,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -26,8 +26,6 @@
     "canonical:6a8c381d419eba3a": "2026-05-06T06:42:07.596Z",
     "canonical:25a35a8868c43e61": "2026-05-06T06:42:07.596Z",
     "canonical:d277a6a426412a6c": "2026-05-06T06:42:07.596Z",
-    "canonical:1975c7c0a164af01": "2026-05-09T15:28:15.527Z",
-    "canonical:a37175ad66cb394f": "2026-05-09T15:28:15.527Z",
     "canonical:a2f41ad6f73372d3": "2026-05-09T15:28:15.527Z",
     "canonical:8becbc5b06a34de3": "2026-05-09T15:28:15.527Z",
     "canonical:b31a51e08085624b": "2026-05-09T15:28:15.527Z",
@@ -1620,7 +1618,8 @@
     "canonical:cd8355ae67511e33": "2026-07-22T15:14:46.881Z",
     "canonical:44b52479685bc87d": "2026-07-22T15:14:46.881Z",
     "canonical:371f0538c738195d": "2026-07-22T15:14:46.881Z",
-    "canonical:442875471c477a65": "2026-07-22T15:14:46.881Z"
+    "canonical:442875471c477a65": "2026-07-22T15:14:46.881Z",
+    "canonical:b43d354d2f8a9d87": "2026-07-22T16:46:23.121Z"
   },
   "jobs": [
     {
@@ -6052,7 +6051,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -6231,34 +6230,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:1975c7c0a164af01",
-      "title": "Full Stack Developer Intern",
-      "url": "https://jobs.ashbyhq.com/walrusfi/99c93c0e-ed9a-4e41-862a-0cdbe71d7d54",
-      "location": "New York, NY",
-      "department": "Software Engineering",
-      "company": "Walrus",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:a37175ad66cb394f",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/tenex/fbfefd5c-ae95-4a71-8a75-e2b61facb304",
-      "location": "San Jose, CA",
-      "department": "Software Engineering",
-      "company": "TENEX.AI",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -21838,6 +21809,19 @@
       "score": 42,
       "scoreReasons": [
         "aggregator link"
+      ]
+    },
+    {
+      "id": "canonical:b43d354d2f8a9d87",
+      "title": "Research Intern - School of Computer Science - LTI",
+      "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Intern---School-of-Computer-Science---LTI_2024870",
+      "location": "Pittsburgh, PA",
+      "department": "Software / Summer 2027",
+      "company": "Carnegie Mellon University",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
