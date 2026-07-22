@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-22T04:30:46.300Z",
+  "generatedAt": "2026-07-22T07:18:38.084Z",
   "companyCount": 80,
   "okCount": 79,
-  "jobCount": 1677,
+  "jobCount": 1673,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -379,7 +379,6 @@
     "canonical:0942563fedd29433": "2026-06-09T23:41:04.347Z",
     "canonical:c4899e61c3f2d9c6": "2026-06-09T23:41:04.347Z",
     "canonical:c9dbb6701d414954": "2026-06-10T10:32:54.759Z",
-    "canonical:45ff47914f15fa4a": "2026-06-10T13:58:51.425Z",
     "canonical:4e042622b9f5b371": "2026-06-10T23:18:38.796Z",
     "canonical:dc7dc5305ed05ed6": "2026-06-10T23:18:38.796Z",
     "canonical:5c13be71e2802136": "2026-06-11T01:44:46.869Z",
@@ -849,7 +848,6 @@
     "canonical:f639bf6dc39c8e1a": "2026-07-10T02:38:18.769Z",
     "canonical:f876ea0d26bc5ee4": "2026-07-10T02:38:18.769Z",
     "canonical:f2498b799ca62100": "2026-07-10T02:38:18.769Z",
-    "canonical:cb9df15343a5b55b": "2026-07-10T02:38:18.769Z",
     "canonical:d6368170104e0f33": "2026-07-10T02:38:18.769Z",
     "canonical:e8a5b9fc6e1a4de2": "2026-07-10T06:27:50.376Z",
     "canonical:bd73a2ff32a0ca98": "2026-07-10T17:05:29.317Z",
@@ -1194,7 +1192,6 @@
     "canonical:da6219705c64207d": "2026-07-20T23:30:05.931Z",
     "canonical:3c4bc3e534b204ec": "2026-07-20T23:30:05.931Z",
     "canonical:48e1ab77cc12a4fa": "2026-07-20T23:30:05.931Z",
-    "canonical:be4de81e50134fdd": "2026-07-20T23:30:05.931Z",
     "canonical:09ef1d88b0b3ede4": "2026-07-20T23:30:05.931Z",
     "canonical:45f45dfc884caf44": "2026-07-20T23:30:05.931Z",
     "canonical:c8ed86e2d1d09b0b": "2026-07-20T23:30:05.931Z",
@@ -1227,7 +1224,6 @@
     "canonical:d5c20328e22a63d5": "2026-07-20T23:30:05.931Z",
     "canonical:cf3dc0301ace4e1d": "2026-07-20T23:30:05.931Z",
     "canonical:857260fd628a863f": "2026-07-20T23:30:05.931Z",
-    "canonical:d4fabe3cbd210b7a": "2026-07-20T23:30:05.931Z",
     "canonical:9774be18bf50fc70": "2026-07-20T23:30:05.931Z",
     "canonical:5b14c55cf566adb1": "2026-07-20T23:30:05.931Z",
     "canonical:4e44d4117aab67df": "2026-07-20T23:30:05.931Z",
@@ -1584,7 +1580,6 @@
     "canonical:449b39e3baa7b17a": "2026-07-21T20:33:07.988Z",
     "canonical:18c1469bc3267e0b": "2026-07-21T20:33:07.988Z",
     "canonical:25170466c178dd22": "2026-07-21T20:33:07.988Z",
-    "canonical:70b2afd01cdeb431": "2026-07-21T20:33:07.988Z",
     "canonical:e4e59c3d19a3ebd0": "2026-07-21T20:33:07.988Z",
     "canonical:e1ab6110196d85d9": "2026-07-21T20:33:07.988Z",
     "canonical:38a7d4388515b288": "2026-07-21T20:33:07.988Z",
@@ -1658,7 +1653,6 @@
     "canonical:ae1902dace82286a": "2026-07-22T04:30:46.300Z",
     "canonical:cb6ec0e16b9f5a51": "2026-07-22T04:30:46.300Z",
     "canonical:905ca4c671109896": "2026-07-22T04:30:46.300Z",
-    "canonical:3a0280cd297d1f55": "2026-07-22T04:30:46.300Z",
     "canonical:81c0f29f101f3da7": "2026-07-22T04:30:46.300Z",
     "canonical:e6bcb29d693ddee4": "2026-07-22T04:30:46.300Z",
     "canonical:ea516bcb2c3049bb": "2026-07-22T04:30:46.300Z",
@@ -1680,7 +1674,9 @@
     "canonical:e793dd21f092256d": "2026-07-22T04:30:46.300Z",
     "canonical:c37a67d5e82096c6": "2026-07-22T04:30:46.300Z",
     "canonical:f5b932c4dfe674f3": "2026-07-22T04:30:46.300Z",
-    "canonical:07c662be3b869c84": "2026-07-22T04:30:46.300Z"
+    "canonical:07c662be3b869c84": "2026-07-22T04:30:46.300Z",
+    "canonical:b4e6df7dcb42b162": "2026-07-22T07:18:38.084Z",
+    "canonical:9e164e33a03c704d": "2026-07-22T07:18:38.084Z"
   },
   "jobs": [
     {
@@ -2398,10 +2394,10 @@
       ]
     },
     {
-      "id": "canonical:2bc4df178e85b4f6",
+      "id": "canonical:1f361269ec79c7b7",
       "title": "FPGA Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/8038923",
-      "location": "Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/8070392",
+      "location": "London, UK",
       "department": "Hardware",
       "company": "DRW",
       "score": 58,
@@ -2410,10 +2406,10 @@
       ]
     },
     {
-      "id": "canonical:1f361269ec79c7b7",
+      "id": "canonical:2bc4df178e85b4f6",
       "title": "FPGA Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/8070392",
-      "location": "London, UK",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/8038923",
+      "location": "Chicago, IL",
       "department": "Hardware",
       "company": "DRW",
       "score": 58,
@@ -7248,16 +7244,6 @@
       ]
     },
     {
-      "id": "canonical:be4de81e50134fdd",
-      "title": "Product Manager Intern",
-      "url": "https://careers.leggett.com/job/Conover-Product-Manager-Trainee-NC/1345826500/?ats=successfactors",
-      "location": "Hickory, NC",
-      "department": "Product",
-      "company": "Leggett & Platt",
-      "score": 50,
-      "scoreReasons": []
-    },
-    {
       "id": "canonical:9efa8c168531892f",
       "title": "Machine Learning Engineer Intern - Commerce Ads - 2026 Summer",
       "url": "https://lifeattiktok.com/search/7595346361319491893",
@@ -10863,6 +10849,18 @@
       ]
     },
     {
+      "id": "canonical:b4e6df7dcb42b162",
+      "title": "Data Science Intern - Data Platforms",
+      "url": "https://mhicareers.com/job/Lake-Mary-Data-Science-Internship-(Data-Platforms)-FL-32746/1395217733/?ats=successfactors",
+      "location": "Lake Mary, FL",
+      "department": "AI/ML/Data",
+      "company": "Primetals Technologies",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:fb66aae0f309968e",
       "title": "Subsystem Test Engineer Intern",
       "url": "https://jobs.lever.co/hermeus/3ee3f243-bab8-4bdb-b0d0-2214874ef49e/apply",
@@ -11888,19 +11886,6 @@
       "scoreReasons": [
         "high-signal role",
         "new grad",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:d4fabe3cbd210b7a",
-      "title": "Futures Summit Intern",
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000129860849",
-      "location": "West Palm Beach, FL",
-      "department": "Software",
-      "company": "ServiceNow",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
         "direct ATS"
       ]
     },
@@ -13268,18 +13253,6 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:45ff47914f15fa4a",
-      "title": "Energy Management Intern",
-      "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8356",
-      "location": "Vancouver, BC, Canada",
-      "department": "AI/ML/Data",
-      "company": "Seaspan",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {
@@ -17075,6 +17048,19 @@
       ]
     },
     {
+      "id": "canonical:9e164e33a03c704d",
+      "title": "Application Engineering Intern",
+      "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Fall-2026_JR00038999",
+      "location": "Lombard, IL / Alpharetta, GA",
+      "department": "Software",
+      "company": "ABB",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:862f3e74bce7442d",
       "title": "Digital Marketing Intern - Technical AI & Automation",
       "url": "https://job-boards.greenhouse.io/eulerity/jobs/4695806006",
@@ -17172,19 +17158,6 @@
       "location": "Palo Alto, CA",
       "department": "AI/ML/Data",
       "company": "Pika",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:3a0280cd297d1f55",
-      "title": "Editorial Data Reporting Intern",
-      "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "LexisNexis Risk Solutions",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -18244,19 +18217,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:70b2afd01cdeb431",
-      "title": "Gas Turbine Products Engineering Intern",
-      "url": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027--Gas-Turbine-Product-Engineering-Internship_R0000382293",
-      "location": "San Diego, CA",
-      "department": "Software",
-      "company": "Solar Turbines",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -21848,18 +21808,6 @@
       "location": "New York, NY",
       "department": "",
       "company": "Datasite",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:cb9df15343a5b55b",
-      "title": "Application Engineering Intern",
-      "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Fall-2026_JR00038999",
-      "location": "Alpharetta, GA / Lombard, IL",
-      "department": "",
-      "company": "ABB",
       "score": 58,
       "scoreReasons": [
         "direct ATS"
