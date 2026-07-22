@@ -1,6 +1,6 @@
 # Open Internships
 
-**1616** internships across **79/80** companies — last updated 2026-07-22.
+**1614** internships across **79/80** companies — last updated 2026-07-22.
 
 ## Companies
 
@@ -288,7 +288,7 @@
 - [Impulse Space](#impulse-space) (1)
 - [InfiniteQuant](#infinitequant) (1)
 - [Infojini](#infojini) (1)
-- [Instacart](#instacart) (2)
+- [Instacart](#instacart) (1)
 - [Instawork](#instawork) (1)
 - [Instead](#instead) (1)
 - [Institute of Foundation Models](#institute-of-foundation-models) (4)
@@ -328,7 +328,6 @@
 - [Landis+Gyr](#landis-gyr) (1)
 - [Lawrence Livermore National Laboratory (LLNL)](#lawrence-livermore-national-laboratory-llnl) (3)
 - [Lensa](#lensa) (3)
-- [Lightmatter](#lightmatter) (1)
 - [LinkedIn](#linkedin) (3)
 - [Littelfuse](#littelfuse) (1)
 - [LiveRamp](#liveramp) (1)
@@ -2765,7 +2764,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Machine Learning PhD Intern - Economics](https://instacart.careers/job/?gh_jid=7532267) | 60 | Remote in USA | AI/ML/Data | 2026-06-11 |
 | [Machine Learning Engineer Intern](https://instacart.careers/job/?gh_jid=5917202) | 85 | Remote in USA | AI/ML/Data | 2026-06-10 |
 
 ## Instawork
@@ -3063,12 +3061,6 @@
 | [2026 Summer Internship Program - AMERS](https://www.linkedin.com/jobs/view/4257402148) | 42 | San Francisco, CA | — | 2026-07-09 |
 | [2026 Summer Internship Program - Investment Banking](https://www.linkedin.com/jobs/view/4257296455) | 42 | Baltimore, MD | — | 2026-07-09 |
 | [Accounting Internship Summer 2026](https://lensa.com/job-application-accounting-internship-summer-2026-in-wayne-pa/cpc-jd-v3/bdd3c15c3b73ec0e9b7e0b5b4cbefe35453222188f523f433d39e72a3abd4740?tr=b4a83a7f255547c9982fd106a9550d5aincc1&utm_source=linkedin&utm_medium=slot&utm_campaign=Financial+Specialists&utm_term=jse) | 22 | Wayne, PA | — | 2026-07-09 |
-
-## Lightmatter
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Laser Characterization Intern](https://boards.greenhouse.io/lightmatter/jobs/5252538008) | 58 | Mountain View, CA | Hardware | 2026-07-20 |
 
 ## LinkedIn
 

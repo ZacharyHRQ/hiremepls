@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-22T16:46:23.121Z",
+  "generatedAt": "2026-07-22T18:01:43.257Z",
   "companyCount": 80,
   "okCount": 79,
-  "jobCount": 1616,
+  "jobCount": 1614,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -366,7 +366,6 @@
     "canonical:c9dbb6701d414954": "2026-06-10T10:32:54.759Z",
     "canonical:4e042622b9f5b371": "2026-06-10T23:18:38.796Z",
     "canonical:dc7dc5305ed05ed6": "2026-06-10T23:18:38.796Z",
-    "canonical:5c13be71e2802136": "2026-06-11T01:44:46.869Z",
     "canonical:a408343a5d65fbb1": "2026-06-11T01:44:46.869Z",
     "canonical:481abe28ff8a5d8b": "2026-06-11T11:07:45.069Z",
     "canonical:30d3864435f150b7": "2026-06-11T11:07:45.069Z",
@@ -1183,7 +1182,6 @@
     "canonical:47fd14e5d9ea4d0a": "2026-07-20T23:30:05.931Z",
     "canonical:4190d5e683492192": "2026-07-20T23:30:05.931Z",
     "canonical:1397ff60cc88bfb6": "2026-07-20T23:30:05.931Z",
-    "canonical:68c802ce13e4e88f": "2026-07-20T23:30:05.931Z",
     "canonical:4fca6bad2c5a12e0": "2026-07-20T23:30:05.931Z",
     "canonical:66ef9d6f9fe3202f": "2026-07-20T23:30:05.931Z",
     "canonical:e7bf29f3e1c77b82": "2026-07-20T23:30:05.931Z",
@@ -6962,18 +6960,6 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:5c13be71e2802136",
-      "title": "Machine Learning PhD Intern - Economics",
-      "url": "https://instacart.careers/job/?gh_jid=7532267",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "Instacart",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {
@@ -12865,18 +12851,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:68c802ce13e4e88f",
-      "title": "Laser Characterization Intern",
-      "url": "https://boards.greenhouse.io/lightmatter/jobs/5252538008",
-      "location": "Mountain View, CA",
-      "department": "Hardware",
-      "company": "Lightmatter",
-      "score": 58,
-      "scoreReasons": [
         "direct ATS"
       ]
     },
