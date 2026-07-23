@@ -1,6 +1,6 @@
 # Open Internships
 
-**1564** internships across **79/80** companies — last updated 2026-07-23.
+**1561** internships across **79/80** companies — last updated 2026-07-23.
 
 ## Companies
 
@@ -22,7 +22,6 @@
 - [AlixPartners](#alixpartners) (1)
 - [Altasciences](#altasciences) (2)
 - [Altom Transport](#altom-transport) (2)
-- [AMAROK Security](#amarok-security) (1)
 - [Amazon](#amazon) (163)
 - [Ambarella](#ambarella) (8)
 - [Amentum](#amentum) (1)
@@ -31,6 +30,7 @@
 - [Amgen](#amgen) (1)
 - [Anduril](#anduril) (2)
 - [Apex Technology, Inc.](#apex-technology-inc) (1)
+- [Appian](#appian) (1)
 - [Apple](#apple) (15)
 - [Applied Intuition](#applied-intuition) (3)
 - [Applied Materials](#applied-materials) (1)
@@ -98,7 +98,6 @@
 - [Bosch Home Comfort](#bosch-home-comfort) (3)
 - [Boston Consulting Group](#boston-consulting-group) (2)
 - [Bot Auto](#bot-auto) (1)
-- [Boys Town](#boys-town) (1)
 - [Bree](#bree) (1)
 - [Brex](#brex) (1)
 - [Brookfield](#brookfield) (2)
@@ -257,7 +256,6 @@
 - [HEXAWARE](#hexaware) (1)
 - [HireVue](#hirevue) (1)
 - [Hitachi](#hitachi) (1)
-- [Hitachi Energy](#hitachi-energy) (1)
 - [Hiverge](#hiverge) (1)
 - [HNTB](#hntb) (1)
 - [Homebase](#homebase) (1)
@@ -454,7 +452,7 @@
 - [Saronic](#saronic) (2)
 - [Scale AI](#scale-ai) (3)
 - [Schonfeld](#schonfeld) (4)
-- [Schweitzer Engineering Laboratories](#schweitzer-engineering-laboratories) (3)
+- [Schweitzer Engineering Laboratories](#schweitzer-engineering-laboratories) (2)
 - [SCOR](#scor) (1)
 - [Seaspan](#seaspan) (1)
 - [Sentara Health](#sentara-health) (1)
@@ -487,7 +485,7 @@
 - [StarSling](#starsling) (1)
 - [Stoke Space](#stoke-space) (2)
 - [Stripe](#stripe) (4)
-- [Sundt](#sundt) (2)
+- [Sundt](#sundt) (1)
 - [Super](#super) (2)
 - [Susquehanna](#susquehanna) (1)
 - [Susquehanna International Group (SIG)](#susquehanna-international-group-sig) (18)
@@ -500,7 +498,7 @@
 - [Techtronic Industries](#techtronic-industries) (1)
 - [Teledyne](#teledyne) (1)
 - [Tencent](#tencent) (15)
-- [Tenstorrent](#tenstorrent) (6)
+- [Tenstorrent](#tenstorrent) (7)
 - [Terranox AI](#terranox-ai) (1)
 - [Tesla](#tesla) (89)
 - [TETRAMEM](#tetramem) (1)
@@ -691,12 +689,6 @@
 | --- | --- | --- | --- | --- |
 | [Fall Software Development Intern](https://apply.workable.com/altom-transport/j/9FC654F05E/) | 68 | Hammond, Indiana, United States | Software / Fall 2026 | 2026-07-20 |
 | [Software Development Intern](https://apply.workable.com/altom-transport/j/8536165C7B/apply) | 68 | Markham, IL | Software | 2026-06-03 |
-
-## AMAROK Security
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Research and Development Intern](https://job-boards.greenhouse.io/amarok/jobs/6018661004) | 58 | Columbia, SC | Hardware | 2026-06-11 |
 
 ## Amazon
 
@@ -916,6 +908,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern, Embedded Systems](https://jobs.ashbyhq.com/apex-technology-inc/5ec2dfa9-724d-4ce4-ab97-5067ec747f11) | 68 | Los Angeles | — | 2026-07-09 |
+
+## Appian
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineering Intern](https://job-boards.greenhouse.io/appian/jobs/8041237) | 68 | McLean, Virginia | Software / Summer 2027 | 2026-07-23 |
 
 ## Apple
 
@@ -1375,12 +1373,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Deep Learning Engineer Intern](https://job-boards.greenhouse.io/botauto/jobs/5289440008) | 93 | Houston, TX | AI/ML/Data | 2026-07-02 |
-
-## Boys Town
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Artificial Intelligence & Machine Learning Intern](https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Artificial-Intelligence---Machine-Learning-Intern_REQ-2026-8543-1) | 68 | Omaha, NE | AI/ML/Data | 2026-07-23 |
 
 ## Bree
 
@@ -2516,12 +2508,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Analyst Intern](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1012810-1) | 68 | Toronto, ON, Canada | Software | 2026-07-21 |
 
-## Hitachi Energy
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Engineering Knowledge Management Intern - 8 months](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Engineering-Knowledge-Management-Intern--Fall-2026--8-months-_R1012818-1) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-07-21 |
-
 ## Hiverge
 
 | Title | Score | Location | Department | First seen |
@@ -2627,8 +2613,8 @@
 | [Graduate Quantitative Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4751729101) | 74 | Chicago, United States | — | 2026-07-01 |
 | [Graduate Hardware Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4823805101) | 64 | Chicago, United States | — | 2026-07-01 |
 | [Hardware Machine Learning PhD Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, IL | AI/ML/Data | 2026-05-09 |
-| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
+| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
 
 ## Impulse Space
 
@@ -4006,7 +3992,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-22321) | 93 | Boise, ID | Software | 2026-07-22 |
-| [Software Engineering Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Round-Rock/Software-Engineer-Intern_2026-21720) | 68 | Round Rock, TX | Software | 2026-07-22 |
 | [Engineering Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Houston/Engineering-Intern_2026-22278) | 58 | Houston, TX | Hardware | 2026-07-21 |
 
 ## SCOR
@@ -4236,7 +4221,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Support Group Intern - Artificial Intelligence](https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/10300) | 60 | Tempe, AZ | AI/ML/Data | 2026-06-06 |
 | [Support Group Intern - Data Engineering](https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/9662) | 60 | Tempe, AZ | AI/ML/Data | 2026-05-09 |
 
 ## Super
@@ -4352,6 +4336,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineering Intern, Power Modeling & AI Tools](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007) | 68 | Santa Clara, California, United States | Data & ML/AI / Summer 2027 | 2026-07-23 |
 | [Machine Learning for Physical Design Intern - CPU/AI Hardware](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968215007) | 68 | Santa Clara, CA | AI/ML/Data | 2026-07-02 |
 | [CPU/AI Workload Analysis Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5158533007) | 58 | Santa Clara, CA | Hardware | 2026-06-08 |
 | [Formal Verification Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4868622007) | 58 | Austin, TX | Hardware | 2026-05-31 |
