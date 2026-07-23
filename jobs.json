@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-23T20:41:13.830Z",
+  "generatedAt": "2026-07-23T21:40:37.292Z",
   "companyCount": 80,
   "okCount": 79,
-  "jobCount": 1561,
+  "jobCount": 1555,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -53,7 +53,6 @@
     "canonical:1db3bab4c5e8e26e": "2026-05-09T15:28:15.527Z",
     "canonical:a46716efbe460f37": "2026-05-09T15:28:15.527Z",
     "canonical:2ffb724536922a79": "2026-05-09T15:28:15.527Z",
-    "canonical:ff397b78c1921581": "2026-05-09T15:28:15.527Z",
     "canonical:cc0f5ecfa6da9985": "2026-05-09T15:28:15.527Z",
     "canonical:9fe324aefc9cbb4f": "2026-05-13T22:37:04.081Z",
     "canonical:6895e853b6d20f91": "2026-05-09T15:28:15.527Z",
@@ -552,7 +551,6 @@
     "canonical:2e3063b0200f566c": "2026-07-03T12:23:04.459Z",
     "canonical:31dd1ab15c427f1e": "2026-07-03T14:37:19.255Z",
     "canonical:1af904be74b273c4": "2026-07-03T16:11:18.836Z",
-    "canonical:2e677a89e89c9f6b": "2026-07-04T01:14:24.808Z",
     "canonical:d83eba2924c17739": "2026-07-04T09:50:25.841Z",
     "canonical:69629f2e556a8b42": "2026-07-04T15:29:35.645Z",
     "canonical:0b183a378a19c53a": "2026-07-04T15:29:35.645Z",
@@ -1210,12 +1208,9 @@
     "canonical:c2b972f6e03a0c85": "2026-07-20T23:30:05.931Z",
     "canonical:f6c35638c896d642": "2026-07-20T23:30:05.931Z",
     "canonical:d7ebb5572f0e17c1": "2026-07-20T23:30:05.931Z",
-    "canonical:e3ce3fd715c5506d": "2026-07-20T23:30:05.931Z",
     "canonical:40f4a990c528ee6c": "2026-07-20T23:30:05.931Z",
     "canonical:b90d174a181318ef": "2026-07-20T23:30:05.931Z",
     "canonical:22cf3f38abcae45e": "2026-07-20T23:30:05.931Z",
-    "canonical:dd794039dc31a55d": "2026-07-20T23:30:05.931Z",
-    "canonical:f2a7ecce6bfb7339": "2026-07-20T23:30:05.931Z",
     "canonical:692e540aae052d72": "2026-07-20T23:30:05.931Z",
     "canonical:09d3e6e1ab0e0269": "2026-07-20T23:30:05.931Z",
     "canonical:cb9ae54c5ea4b30c": "2026-07-20T23:30:05.931Z",
@@ -1457,7 +1452,6 @@
     "canonical:fcfdd39100036941": "2026-07-22T11:30:09.788Z",
     "canonical:903ed5adf5945dd7": "2026-07-22T11:30:09.788Z",
     "canonical:a5e52b57015d254e": "2026-07-22T11:30:09.788Z",
-    "canonical:98d169a93517ae1a": "2026-07-22T11:30:09.788Z",
     "canonical:d2b7efd385e8df37": "2026-07-22T13:08:02.810Z",
     "canonical:0f4a52f7d1dc29c7": "2026-07-22T13:08:02.810Z",
     "canonical:78820ef2fa54b1e2": "2026-07-22T13:08:02.810Z",
@@ -6032,7 +6026,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -6705,20 +6699,6 @@
       "company": "LinkedIn",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:ff397b78c1921581",
-      "title": "Full Stack Software Engineer Intern",
-      "url": "https://jobs.lever.co/SymmetrySystems/dbca271b-a99b-48ab-83f2-b596a037ad65/apply",
-      "location": "Remote in USA",
-      "department": "Software",
-      "company": "Symmetry Systems",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -15225,18 +15205,6 @@
       ]
     },
     {
-      "id": "canonical:2e677a89e89c9f6b",
-      "title": "Product Intern",
-      "url": "https://job-boards.greenhouse.io/sezzle/jobs/6599073003",
-      "location": "Remote in Canada",
-      "department": "Product",
-      "company": "Sezzle",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:d83eba2924c17739",
       "title": "Research Intern - Machine Learning",
       "url": "https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239/application",
@@ -21105,19 +21073,6 @@
       ]
     },
     {
-      "id": "canonical:e3ce3fd715c5506d",
-      "title": "AI Software Engineering Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641",
-      "location": "US, Arizona, Phoenix",
-      "department": "Data & ML/AI / Summer 2027",
-      "company": "Intel",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:40f4a990c528ee6c",
       "title": "Software Engineering- Internship (Fall 2026/Summer 2027)",
       "url": "https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1",
@@ -21137,32 +21092,6 @@
       "location": "Bentonville, AR",
       "department": "Data & ML/AI / Summer 2027",
       "company": "Acds",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:dd794039dc31a55d",
-      "title": "Software Engineering Intern - Agent Platform (AI)",
-      "url": "https://jobs.lever.co/exowatt/2623555d-8b81-4f95-8bca-de9fafd2381c",
-      "location": "Miami, FL",
-      "department": "Data & ML/AI / Summer 2027",
-      "company": "Exowatt",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:f2a7ecce6bfb7339",
-      "title": "Software Engineering Intern  - Inventory Automation & IoT/Robotics",
-      "url": "https://jobs.lever.co/exowatt/46c8f4fd-f059-4ad6-a5f4-4fcd55d84f9c",
-      "location": "Austin, TX",
-      "department": "Hardware / Summer 2027",
-      "company": "Exowatt",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -21282,19 +21211,6 @@
       "location": "Cambridge, MA",
       "department": "Software / Fall 2026",
       "company": "Charlesriveranalytics90",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:98d169a93517ae1a",
-      "title": "Software Engineering Intern",
-      "url": "https://jobs.ashbyhq.com/quadrillion-labs/601e105d-2f0f-4482-9bae-3a825a1b97fd",
-      "location": "New York City",
-      "department": "Software / Summer 2027",
-      "company": "Quadrillion",
       "score": 68,
       "scoreReasons": [
         "high-signal role",

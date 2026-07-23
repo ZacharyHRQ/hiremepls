@@ -1,6 +1,6 @@
 # Open Internships
 
-**1561** internships across **79/80** companies — last updated 2026-07-23.
+**1555** internships across **79/80** companies — last updated 2026-07-23.
 
 ## Companies
 
@@ -203,7 +203,7 @@
 - [Evolver](#evolver) (1)
 - [Evonik](#evonik) (1)
 - [Excel Sports Management](#excel-sports-management) (1)
-- [Exowatt](#exowatt) (3)
+- [Exowatt](#exowatt) (1)
 - [Expedia Group](#expedia-group) (1)
 - [F. Schumacher & Co.](#f-schumacher-co) (1)
 - [Fab2](#fab2) (5)
@@ -278,7 +278,7 @@
 - [Institute of Foundation Models](#institute-of-foundation-models) (4)
 - [Integra FEC](#integra-fec) (3)
 - [Integrity](#integrity) (1)
-- [Intel](#intel) (3)
+- [Intel](#intel) (2)
 - [Interac](#interac) (1)
 - [Intercontinental Exchange, Inc.](#intercontinental-exchange-inc) (1)
 - [Interdigital](#interdigital) (1)
@@ -419,7 +419,7 @@
 - [PsiQuantum](#psiquantum) (1)
 - [Pylon](#pylon) (1)
 - [Quadric](#quadric) (3)
-- [Quadrillion](#quadrillion) (2)
+- [Quadrillion](#quadrillion) (1)
 - [QuantCo](#quantco) (1)
 - [Radix Trading](#radix-trading) (1)
 - [Rainmaker](#rainmaker) (1)
@@ -458,7 +458,6 @@
 - [Sentara Health](#sentara-health) (1)
 - [Serval](#serval) (1)
 - [Seven Research](#seven-research) (4)
-- [Sezzle](#sezzle) (1)
 - [SHEIN](#shein) (1)
 - [Shenzhen ANQI SHISHANG Articles Co., ltd.](#shenzhen-anqi-shishang-articles-co-ltd) (1)
 - [Shopify](#shopify) (1)
@@ -491,7 +490,6 @@
 - [Susquehanna International Group (SIG)](#susquehanna-international-group-sig) (18)
 - [Susquehanna International Group, LLP (SIG)](#susquehanna-international-group-llp-sig) (3)
 - [Susquehanna Investment Group](#susquehanna-investment-group) (1)
-- [Symmetry Systems](#symmetry-systems) (1)
 - [Synchrony Financial](#synchrony-financial) (4)
 - [Teall Sports & Entertainment](#teall-sports-entertainment) (1)
 - [Technergetics](#technergetics) (1)
@@ -1682,7 +1680,7 @@
 | [Technical Support Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8041135?gh_jid=8041135) | 58 | In-Office | — | 2026-07-03 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
 | [Sales Project Manager Intern (AI Innovation) (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8020830?gh_jid=8020830) | 38 | In-Office | — | 2026-06-23 |
 
 ## Cloudforce
@@ -2159,8 +2157,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineering Intern  - Inventory Automation & IoT/Robotics](https://jobs.lever.co/exowatt/46c8f4fd-f059-4ad6-a5f4-4fcd55d84f9c) | 68 | Austin, TX | Hardware / Summer 2027 | 2026-07-20 |
-| [Software Engineering Intern - Agent Platform (AI)](https://jobs.lever.co/exowatt/2623555d-8b81-4f95-8bca-de9fafd2381c) | 68 | Miami, FL | Data & ML/AI / Summer 2027 | 2026-07-20 |
 | [Software Engineer Intern - Agent Platform - AI](https://jobs.lever.co/exowatt/2623555d-8b81-4f95-8bca-de9fafd2381c/apply) | 93 | Austin, TX | Software | 2026-07-10 |
 
 ## Expedia Group
@@ -2674,7 +2670,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [AI Software Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641) | 93 | Phoenix, AZ | Software | 2026-07-23 |
-| [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641) | 68 | US, Arizona, Phoenix | Data & ML/AI / Summer 2027 | 2026-07-20 |
 | [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) | 68 | Hillsboro, OR / Folsom, CA | Hardware | 2026-07-09 |
 
 ## Interac
@@ -3762,7 +3757,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineering Intern](https://jobs.ashbyhq.com/quadrillion-labs/601e105d-2f0f-4482-9bae-3a825a1b97fd) | 68 | New York City | Software / Summer 2027 | 2026-07-22 |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/quadrillion-labs/601e105d-2f0f-4482-9bae-3a825a1b97fd/application?embed=true) | 93 | NYC | Software | 2026-07-21 |
 
 ## QuantCo
@@ -4027,12 +4021,6 @@
 | [Deep Learning Researcher Intern](https://job-boards.greenhouse.io/sevenresearch/jobs/4895007008) | 93 | NYC | AI/ML/Data | 2026-07-01 |
 | [Quantitative Researcher Intern](https://job-boards.greenhouse.io/sevenresearch/jobs/4894946008) | 93 | NYC | Quant | 2026-07-01 |
 
-## Sezzle
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Product Intern](https://job-boards.greenhouse.io/sezzle/jobs/6599073003) | 58 | Remote in Canada | Product | 2026-07-04 |
-
 ## SHEIN
 
 | Title | Score | Location | Department | First seen |
@@ -4272,12 +4260,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Quantitative Strategy Developer Intern](https://careers.sig.com/intern-co-op-technology/jobs/10838?lang=en-us) | 85 | Bala Cynwyd, PA | — | 2026-07-09 |
-
-## Symmetry Systems
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Full Stack Software Engineer Intern](https://jobs.lever.co/SymmetrySystems/dbca271b-a99b-48ab-83f2-b596a037ad65/apply) | 93 | Remote in USA | Software | 2026-05-09 |
 
 ## Synchrony Financial
 
