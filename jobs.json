@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-23T22:36:18.111Z",
+  "generatedAt": "2026-07-23T23:35:05.953Z",
   "companyCount": 80,
   "okCount": 79,
-  "jobCount": 1558,
+  "jobCount": 1564,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -104,7 +104,6 @@
     "canonical:81494230370de12a": "2026-05-09T15:28:15.527Z",
     "canonical:6a149cb9a2be52a1": "2026-05-09T15:28:15.527Z",
     "canonical:eb1c3b475c210318": "2026-05-09T15:28:15.527Z",
-    "canonical:6e3cbc591a3a558b": "2026-05-09T15:28:15.527Z",
     "canonical:08c93deb66c76958": "2026-05-09T15:28:15.527Z",
     "canonical:442421c8b78134c2": "2026-05-09T15:28:15.527Z",
     "canonical:848a0432a1a778c6": "2026-05-09T15:28:15.527Z",
@@ -789,7 +788,6 @@
     "canonical:bd73a2ff32a0ca98": "2026-07-10T17:05:29.317Z",
     "canonical:7b3cc8868ca7ea4e": "2026-07-10T23:30:41.605Z",
     "canonical:03256d9192dfcb79": "2026-07-10T23:30:41.605Z",
-    "canonical:231f083d8fe55a00": "2026-07-10T23:30:41.605Z",
     "canonical:b534606d935d0b90": "2026-07-10T23:30:41.605Z",
     "canonical:01dae773e3ef7062": "2026-07-12T06:25:25.384Z",
     "canonical:61c93da9140cb7e3": "2026-07-12T14:02:35.390Z",
@@ -1550,7 +1548,6 @@
     "canonical:dc80f6e3fbe724ad": "2026-07-23T16:52:46.107Z",
     "canonical:44e68c5e803cd8a8": "2026-07-23T16:52:46.107Z",
     "canonical:c35b88fad13f9581": "2026-07-23T16:52:46.107Z",
-    "canonical:92ba6cd74cc5d78e": "2026-07-23T19:42:43.006Z",
     "canonical:e5352ecac86f34d9": "2026-07-23T22:36:18.111Z",
     "canonical:70b2afd01cdeb431": "2026-07-23T22:36:18.111Z",
     "canonical:61ab7d0c7f75511f": "2026-07-23T22:36:18.111Z",
@@ -1559,9 +1556,18 @@
     "canonical:f38d26ac181b908b": "2026-07-23T22:36:18.111Z",
     "canonical:7666a9ab23d258f9": "2026-07-23T22:36:18.111Z",
     "canonical:ec16c071527631d0": "2026-07-23T22:36:18.111Z",
-    "canonical:982b85ba82860b4f": "2026-07-23T22:36:18.111Z",
-    "canonical:ad2f41df16e0359e": "2026-07-23T22:36:18.111Z",
-    "canonical:7e71c09c84f24ad0": "2026-07-23T22:36:18.111Z"
+    "canonical:c3f909dd643f2906": "2026-07-23T23:35:05.953Z",
+    "canonical:9ee847098be201d0": "2026-07-23T23:35:05.953Z",
+    "canonical:bb7dddb8c991bc8a": "2026-07-23T23:35:05.953Z",
+    "canonical:2e7e5ba5bc6422d1": "2026-07-23T23:35:05.953Z",
+    "canonical:d98c3dd86005748b": "2026-07-23T23:35:05.953Z",
+    "canonical:15b3f0ca472d9cb2": "2026-07-23T23:35:05.953Z",
+    "canonical:f9dc8a6d163b6cd4": "2026-07-23T23:35:05.953Z",
+    "canonical:c1de0bc8cffbfaab": "2026-07-23T23:35:05.953Z",
+    "canonical:00f3c0ed08ae0a1f": "2026-07-23T23:35:05.953Z",
+    "canonical:c66bdf218e8e2b56": "2026-07-23T23:35:05.953Z",
+    "canonical:ecf3c220bd694a07": "2026-07-23T23:35:05.953Z",
+    "canonical:28ebf9f9488e14ee": "2026-07-23T23:35:05.953Z"
   },
   "jobs": [
     {
@@ -6029,7 +6035,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -8054,18 +8060,6 @@
       ]
     },
     {
-      "id": "canonical:6e3cbc591a3a558b",
-      "title": "Support Group Intern - Data Engineering",
-      "url": "https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/9662",
-      "location": "Tempe, AZ",
-      "department": "AI/ML/Data",
-      "company": "Sundt",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:08c93deb66c76958",
       "title": "Kernel Engineer – Intern and Full-time",
       "url": "https://jobs.ashbyhq.com/tilderesearch/bc4e4071-cf64-4460-8265-b1e5a603d6b8/application",
@@ -8425,6 +8419,19 @@
       "company": "Copart",
       "score": 58,
       "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c3f909dd643f2906",
+      "title": "Mission Software – Intern - Python",
+      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7676465003",
+      "location": "El Segundo, CA",
+      "department": "Software",
+      "company": "Varda Space",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
         "direct ATS"
       ]
     },
@@ -9530,19 +9537,6 @@
       "company": "Louisiana State University (LSU)",
       "score": 58,
       "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:72a13f956e90ff2e",
-      "title": "AI Software Engineering Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639",
-      "location": "Hillsboro, OR / Folsom, CA",
-      "department": "Hardware",
-      "company": "Intel",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
         "direct ATS"
       ]
     },
@@ -15999,20 +15993,6 @@
       ]
     },
     {
-      "id": "canonical:231f083d8fe55a00",
-      "title": "Software Engineer Intern - Agent Platform - AI",
-      "url": "https://jobs.lever.co/exowatt/2623555d-8b81-4f95-8bca-de9fafd2381c/apply",
-      "location": "Austin, TX",
-      "department": "Software",
-      "company": "Exowatt",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:564534a264215b14",
       "title": "Quantitative Researcher Intern",
       "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505",
@@ -18108,6 +18088,20 @@
       ]
     },
     {
+      "id": "canonical:9ee847098be201d0",
+      "title": "Software Engineer Intern - Software Engineer",
+      "url": "https://job-boards.greenhouse.io/virtu/jobs/8624410002",
+      "location": "Austin, TX / NYC",
+      "department": "Software",
+      "company": "Virtu Financial",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:677f4180981519f2",
       "title": "Quant Trading Intern",
       "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4709545005",
@@ -18431,6 +18425,20 @@
       ]
     },
     {
+      "id": "canonical:bb7dddb8c991bc8a",
+      "title": "Quantitative Researcher Internship",
+      "url": "https://job-boards.greenhouse.io/virtu/jobs/8624424002",
+      "location": "NYC",
+      "department": "Quant",
+      "company": "Virtu Financial",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:d6dd989f7ac4831c",
       "title": "Data Science Intern - Data Science",
       "url": "https://jobs.smartrecruiters.com/RedBull/744000139168339",
@@ -18667,6 +18675,126 @@
       "location": "Santa Clara, CA",
       "department": "Software",
       "company": "Tenstorrent",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:2e7e5ba5bc6422d1",
+      "title": "Relationship Manager Commercial Markets Intern",
+      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CHARLOTTETOWN-Prince-Edward-Island-Canada/Relationship-Manager-Commercial-Markets-ntern-CFS_R-0000181764-1",
+      "location": "Charlottetown, PE, Canada",
+      "department": "Quant",
+      "company": "Royal Bank of Canada",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:d98c3dd86005748b",
+      "title": "Relationship Manager Commercial Markets Intern",
+      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CAPE-BRETON-Nova-Scotia-Canada/Relationship-Manager-Commercial-Markets--Intern_R-0000181768",
+      "location": "Inverness, NS, Canada",
+      "department": "Quant",
+      "company": "Royal Bank of Canada",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:15b3f0ca472d9cb2",
+      "title": "Engineering Intern",
+      "url": "https://spectrumcontrol.wd1.myworkdayjobs.com/spectrumcontrol/job/Fairview-PA/Engineering-Intern_JR101449",
+      "location": "Erie, PA",
+      "department": "Hardware",
+      "company": "Spectrum Control",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f9dc8a6d163b6cd4",
+      "title": "Graduate Researcher - Redwing Group - Materials Science and Engineering",
+      "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Graduate-Researcher---Redwing-Group----Materials-Science-and-Engineering_REQ_0000080560-1",
+      "location": "State College, PA",
+      "department": "AI/ML/Data",
+      "company": "Pennsylvania State University",
+      "score": 99,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c1de0bc8cffbfaab",
+      "title": "Data Analytics Intern",
+      "url": "https://job-boards.greenhouse.io/goldenpetbrands/jobs/4713182005",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "Golden Pet Brands",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:00f3c0ed08ae0a1f",
+      "title": "Software Engineer Intern - Enterprise Systems",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4699071006",
+      "location": "SF",
+      "department": "Software",
+      "company": "Astranis",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c66bdf218e8e2b56",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/appian/jobs/8041237",
+      "location": "McLean, VA",
+      "department": "Software",
+      "company": "Appian",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ecf3c220bd694a07",
+      "title": "Product Manager Intern",
+      "url": "https://job-boards.greenhouse.io/appian/jobs/8041243",
+      "location": "McLean, VA",
+      "department": "Product",
+      "company": "Appian",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:28ebf9f9488e14ee",
+      "title": "Quant Developer / Quant Research Intern",
+      "url": "https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96/application?embed=true",
+      "location": "NYC",
+      "department": "Quant",
+      "company": "Anthelion Capital",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -19469,6 +19597,19 @@
       "company": "Homebase",
       "score": 58,
       "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:72a13f956e90ff2e",
+      "title": "AI Software Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639",
+      "location": "Hillsboro, OR / Folsom, CA",
+      "department": "",
+      "company": "Intel",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
         "direct ATS"
       ]
     },
@@ -20955,33 +21096,6 @@
       ]
     },
     {
-      "id": "canonical:982b85ba82860b4f",
-      "title": "Software Engineer Intern - Enterprise Systems (Fall 2026)",
-      "url": "https://job-boards.greenhouse.io/astranis/jobs/4699071006",
-      "location": "San Francisco, CA",
-      "department": "Software / Fall 2026",
-      "company": "Astranis",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:92ba6cd74cc5d78e",
-      "title": "Software Engineering Intern",
-      "url": "https://job-boards.greenhouse.io/appian/jobs/8041237",
-      "location": "McLean, Virginia",
-      "department": "Software / Summer 2027",
-      "company": "Appian",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:160c6b5f332b287d",
       "title": "Cyber Security Compliance Intern",
       "url": "https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Cyber-Security-Compliance-Intern_JR-97927-1",
@@ -21027,20 +21141,6 @@
       "location": "Fremont, California, United States",
       "department": "Software / Summer 2027",
       "company": "Pony Dot Ai",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:ad2f41df16e0359e",
-      "title": "2027 Internship - Software Engineer",
-      "url": "https://job-boards.greenhouse.io/virtu/jobs/8624410002",
-      "location": "Austin, TX; New York",
-      "department": "Software / Summer 2027",
-      "company": "Virtu Financial",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -21415,19 +21515,6 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:7e71c09c84f24ad0",
-      "title": "Flight Software Internship - Fall 2026",
-      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7676465003",
-      "location": "El Segundo, California, United States",
-      "department": "Software / Fall 2026",
-      "company": "Varda Space",
-      "score": 68,
-      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
