@@ -1,6 +1,6 @@
 # Open Internships
 
-**1608** internships across **79/80** companies — last updated 2026-07-23.
+**1604** internships across **79/80** companies — last updated 2026-07-23.
 
 ## Companies
 
@@ -38,7 +38,7 @@
 - [Apple](#apple) (15)
 - [Applied Intuition](#applied-intuition) (3)
 - [Applied Materials](#applied-materials) (1)
-- [Aptiv](#aptiv) (2)
+- [Aptiv](#aptiv) (1)
 - [Aptura](#aptura) (1)
 - [AQR](#aqr) (8)
 - [AQR Capital Management](#aqr-capital-management) (1)
@@ -177,7 +177,6 @@
 - [Denari](#denari) (1)
 - [Desjardins Group](#desjardins-group) (1)
 - [Dewberry](#dewberry) (1)
-- [DiDi Global](#didi-global) (1)
 - [Digs](#digs) (1)
 - [DimeHealth AI](#dimehealth-ai) (1)
 - [Ditto](#ditto) (1)
@@ -206,7 +205,7 @@
 - [Etched.ai](#etched-ai) (5)
 - [Ether.fi](#ether-fi) (1)
 - [ETHGlobal](#ethglobal) (1)
-- [Eulerity](#eulerity) (4)
+- [Eulerity](#eulerity) (3)
 - [Eurofins](#eurofins) (3)
 - [EV Realty](#ev-realty) (1)
 - [Evolver](#evolver) (1)
@@ -443,6 +442,7 @@
 - [Rainmaker](#rainmaker) (2)
 - [Rakuten International](#rakuten-international) (1)
 - [Ramp](#ramp) (1)
+- [Red Bull](#red-bull) (1)
 - [Replit](#replit) (1)
 - [Reply](#reply) (1)
 - [RESPEC](#respec) (1)
@@ -517,7 +517,7 @@
 - [Tencent](#tencent) (15)
 - [Tenstorrent](#tenstorrent) (6)
 - [Terranox AI](#terranox-ai) (1)
-- [Tesla](#tesla) (90)
+- [Tesla](#tesla) (89)
 - [TETRAMEM](#tetramem) (1)
 - [Texas Instruments](#texas-instruments) (1)
 - [The Boeing Company](#the-boeing-company) (1)
@@ -579,7 +579,6 @@
 - [Westinghouse](#westinghouse) (1)
 - [WindBorne Systems](#windborne-systems) (1)
 - [Workato](#workato) (1)
-- [World Surf League](#world-surf-league) (1)
 - [WSP](#wsp) (1)
 - [WTW](#wtw) (1)
 - [X Development](#x-development) (1)
@@ -993,7 +992,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Engineering Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000691719) | 58 | Ontario, Canada / Kanata, Ottawa, ON, Canada | Hardware | 2026-07-21 |
-| [Engineer Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700250) | 58 | Kanata, Ottawa, ON, Canada | Hardware | 2026-07-20 |
 
 ## Aptura
 
@@ -1986,12 +1984,6 @@
 | --- | --- | --- | --- | --- |
 | [Site/Civil Engineering Intern](https://www.linkedin.com/jobs/view/4275448602) | 42 | Richmond, VA | — | 2026-07-09 |
 
-## DiDi Global
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Motion Planning Engineer Intern](https://job-boards.greenhouse.io/didi/jobs/8056492) | 93 | San Jose, CA | AI/ML/Data | 2026-07-11 |
-
 ## Digs
 
 | Title | Score | Location | Department | First seen |
@@ -2040,15 +2032,15 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7992936) | 93 | Chicago | — | 2026-07-23 |
+| [Quantitative Research Intern](https://job-boards.greenhouse.io/drweng/jobs/7818540) | 68 | Chicago, New York City | — | 2026-07-23 |
+| [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7668776) | 68 | Chicago, Illinois | — | 2026-07-23 |
 | [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7991196) | 93 | Montreal, QC, Canada | Software | 2026-07-20 |
 | [AI/ML Research Intern](https://job-boards.greenhouse.io/drweng/jobs/7991171) | 68 | Montreal, QC, Canada | AI/ML/Data | 2026-07-20 |
 | [Quantitative Research Intern](https://job-boards.greenhouse.io/drweng/jobs/7957756) | 68 | London, UK | Quant | 2026-07-20 |
-| [Quantitative Research Intern](https://job-boards.greenhouse.io/drweng/jobs/7818540) | 68 | Chicago, IL / NYC | Quant | 2026-07-20 |
 | [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7957243) | 68 | London, UK | Quant | 2026-07-20 |
 | [FPGA Intern](https://job-boards.greenhouse.io/drweng/jobs/8070392) | 58 | London, UK | Hardware | 2026-07-20 |
-| [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7992936) | 93 | Chicago, IL | Software | 2026-07-14 |
 | [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7942281) | 93 | London, UK | Software | 2026-07-14 |
-| [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7668776) | 68 | Chicago, IL | Quant | 2026-07-14 |
 | [FPGA Intern](https://job-boards.greenhouse.io/drweng/jobs/8038923) | 58 | Chicago, IL | Hardware | 2026-07-14 |
 | [Leadership Rotation Network Intern](https://job-boards.greenhouse.io/drweng/jobs/7993195) | 58 | Chicago, IL | — | 2026-07-14 |
 | [Strategy Intern](https://job-boards.greenhouse.io/drweng/jobs/7992670) | 58 | Chicago, IL | — | 2026-07-14 |
@@ -2201,7 +2193,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Digital Marketing Intern - Technical AI & Automation](https://job-boards.greenhouse.io/eulerity/jobs/4695806006) | 48 | NYC | AI/ML/Data | 2026-07-09 |
 | [Website Development & Content Marketing Intern - AI & Automation](https://job-boards.greenhouse.io/eulerity/jobs/4694300006) | 48 | NYC | Software | 2026-07-03 |
 | [Android Developer Intern](https://job-boards.greenhouse.io/eulerity/jobs/4671031006) | 93 | NYC | Software | 2026-05-09 |
 | [Mobile iOS Developer Intern](https://job-boards.greenhouse.io/eulerity/jobs/4671025006) | 93 | NYC | Software | 2026-05-09 |
@@ -3946,6 +3937,12 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Internship, Android](https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b) | 90 | — | Engineering | 2026-05-29 |
 
+## Red Bull
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data Science Intern - Data Science](https://jobs.smartrecruiters.com/RedBull/744000139168339) | 68 | Morristown, NJ | AI/ML/Data | 2026-07-23 |
+
 ## Replit
 
 | Title | Score | Location | Department | First seen |
@@ -4340,7 +4337,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Healthcare AI & Automation Intern](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---Florida-US/Healthcare-AI---Automation-Intern_R45126) | 68 | Remote - Florida, US | Data & ML/AI / Summer 2027 | 2026-07-22 |
+| [Healthcare AI & Automation Intern](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---Florida-US/Healthcare-AI---Automation-Intern_R45126) | 68 | Florida | Software | 2026-07-23 |
 | [Intern – Technical](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Ontario-Toronto/Intern---Technical_R40419) | 68 | Toronto, ON, Canada | Software | 2026-07-21 |
 
 ## StarSling
@@ -4566,7 +4563,6 @@
 | [Machine Learning Platform Intern - Multiple Teams](https://www.tesla.com/careers/search/job/269812) | 60 | Palo Alto, CA | Software | 2026-06-07 |
 | [Software Engineer Intern - Site Controller Software Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/272615) | 60 | Palo Alto, CA | Software | 2026-06-07 |
 | [Sensor Hardware Engineer Intern - Sensor Hardware Design Engineer - Optimus](https://www.tesla.com/careers/search/job/272581) | 50 | Palo Alto, CA | Hardware | 2026-06-07 |
-| [Software Engineer Intern - Wireless Connectivity Software Engineer - Electronic Devices](https://www.tesla.com/careers/search/job/269792) | 85 | Palo Alto, CA | Software | 2026-06-07 |
 | [Electronics Design Engineer Intern - Reliability Electronics Design Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/272601) | 50 | Palo Alto, CA | Hardware | 2026-06-07 |
 | [Data Engineer Intern - Data Engineer - Energy](https://www.tesla.com/careers/search/job/271331) | 85 | Palo Alto, CA | AI/ML/Data | 2026-06-07 |
 | [Mobile App Software Engineer Intern - Mobile Application Software Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/271382) | 85 | Palo Alto, CA | Software | 2026-06-07 |
@@ -5055,12 +5051,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Intern AI Engineering](https://job-boards.greenhouse.io/workato/jobs/8492935002) | 68 | SF | AI/ML/Data | 2026-05-09 |
-
-## World Surf League
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Partnerships Analytics & Reporting Intern](https://boards.greenhouse.io/worldsurfleague/jobs/8629100002) | 68 | Inglewood, CA | AI/ML/Data | 2026-07-11 |
 
 ## WSP
 

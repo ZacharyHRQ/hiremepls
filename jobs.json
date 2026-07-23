@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-23T01:10:02.696Z",
+  "generatedAt": "2026-07-23T04:29:49.993Z",
   "companyCount": 80,
   "okCount": 79,
-  "jobCount": 1608,
+  "jobCount": 1604,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -331,7 +331,6 @@
     "canonical:493342a1a4fa0803": "2026-06-07T01:56:06.706Z",
     "canonical:29fdb193792038c4": "2026-06-07T01:56:06.706Z",
     "canonical:54e3e1093ebbff0f": "2026-06-07T06:16:50.879Z",
-    "canonical:68b8bf927ec4b525": "2026-06-07T06:16:50.879Z",
     "canonical:e985dc0d5394208a": "2026-06-07T09:43:12.130Z",
     "canonical:db0080d8fe4190e3": "2026-06-07T09:43:12.130Z",
     "canonical:681685a64ad12ec9": "2026-06-07T09:43:12.130Z",
@@ -786,7 +785,6 @@
     "canonical:e4240dee8fc1eab4": "2026-07-09T10:57:50.412Z",
     "canonical:5fc518fc7b2d3289": "2026-07-09T16:14:47.391Z",
     "canonical:9795d61afb3cfc4d": "2026-07-09T16:14:47.391Z",
-    "canonical:862f3e74bce7442d": "2026-07-09T16:14:47.391Z",
     "canonical:5c3a7585df271d94": "2026-07-09T20:01:55.555Z",
     "canonical:ae1c44502b279528": "2026-07-09T20:01:55.555Z",
     "canonical:fea9770016787b1f": "2026-07-09T22:54:21.856Z",
@@ -805,8 +803,6 @@
     "canonical:231f083d8fe55a00": "2026-07-10T23:30:41.605Z",
     "canonical:b534606d935d0b90": "2026-07-10T23:30:41.605Z",
     "canonical:c6951e2db477e52a": "2026-07-10T23:30:41.605Z",
-    "canonical:4b21328cc5217e15": "2026-07-11T04:25:06.399Z",
-    "canonical:f70b33853919b982": "2026-07-11T08:25:30.402Z",
     "canonical:01dae773e3ef7062": "2026-07-12T06:25:25.384Z",
     "canonical:61c93da9140cb7e3": "2026-07-12T14:02:35.390Z",
     "canonical:6418a1b0042bfe92": "2026-07-12T14:02:35.390Z",
@@ -859,8 +855,6 @@
     "canonical:46205b9335861e9c": "2026-07-14T00:56:03.544Z",
     "canonical:2bc4df178e85b4f6": "2026-07-14T00:56:03.544Z",
     "canonical:8f04983c528e0d41": "2026-07-14T00:56:03.544Z",
-    "canonical:ae44a67983e1d43a": "2026-07-14T00:56:03.544Z",
-    "canonical:1d41c103b87b651a": "2026-07-14T00:56:03.544Z",
     "canonical:bd72b8a6944f6777": "2026-07-14T00:56:03.544Z",
     "canonical:c20f0f6d8e2f8c14": "2026-07-14T00:56:03.544Z",
     "canonical:ee6161966c2c1c8a": "2026-07-14T00:56:03.544Z",
@@ -904,7 +898,6 @@
     "canonical:ab504400fc0688f5": "2026-07-20T23:30:05.931Z",
     "canonical:1f361269ec79c7b7": "2026-07-20T23:30:05.931Z",
     "canonical:8c7dcade35ccab5b": "2026-07-20T23:30:05.931Z",
-    "canonical:82850fd9eebc2f04": "2026-07-20T23:30:05.931Z",
     "canonical:d40e55f9a26db473": "2026-07-20T23:30:05.931Z",
     "canonical:81000bcd395c1244": "2026-07-20T23:30:05.931Z",
     "canonical:3a341521d3cb5684": "2026-07-20T23:30:05.931Z",
@@ -1237,7 +1230,6 @@
     "canonical:c8a575c78cf2837d": "2026-07-20T23:30:05.931Z",
     "canonical:a42145cb84215a88": "2026-07-20T23:30:05.931Z",
     "canonical:2cced6e3edd28c31": "2026-07-20T23:30:05.931Z",
-    "canonical:120eb953bd1f0b9f": "2026-07-20T23:30:05.931Z",
     "canonical:d8d5c6f65e7267f2": "2026-07-20T23:30:05.931Z",
     "canonical:62eff68f5025af9e": "2026-07-20T23:30:05.931Z",
     "canonical:1077d2415e921017": "2026-07-20T23:30:05.931Z",
@@ -1609,9 +1601,13 @@
     "canonical:b4dc9e032f1592ff": "2026-07-22T23:37:47.994Z",
     "canonical:de86b51d5550854e": "2026-07-22T23:37:47.994Z",
     "canonical:74826e76148d133e": "2026-07-22T23:37:47.994Z",
-    "canonical:3ad1467a74246ec3": "2026-07-22T23:37:47.994Z",
     "canonical:436600042890ca57": "2026-07-23T01:10:02.696Z",
-    "canonical:bb7dddb8c991bc8a": "2026-07-23T01:10:02.696Z"
+    "canonical:bb7dddb8c991bc8a": "2026-07-23T01:10:02.696Z",
+    "canonical:03ff9719f5d57641": "2026-07-23T04:29:49.993Z",
+    "canonical:9e95e04411aed5dd": "2026-07-23T04:29:49.993Z",
+    "canonical:d5ec2122996844c4": "2026-07-23T04:29:49.993Z",
+    "canonical:cd8355ae67511e33": "2026-07-23T04:29:49.993Z",
+    "canonical:d6dd989f7ac4831c": "2026-07-23T04:29:49.993Z"
   },
   "jobs": [
     {
@@ -2391,11 +2387,11 @@
       ]
     },
     {
-      "id": "canonical:82850fd9eebc2f04",
+      "id": "canonical:03ff9719f5d57641",
       "title": "Quantitative Research Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7818540",
-      "location": "Chicago, IL / NYC",
-      "department": "Quant",
+      "location": "Chicago, New York City",
+      "department": "",
       "company": "DRW",
       "score": 68,
       "scoreReasons": [
@@ -2417,11 +2413,11 @@
       ]
     },
     {
-      "id": "canonical:ae44a67983e1d43a",
+      "id": "canonical:9e95e04411aed5dd",
       "title": "Quantitative Trading Analyst Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7668776",
-      "location": "Chicago, IL",
-      "department": "Quant",
+      "location": "Chicago, Illinois",
+      "department": "",
       "company": "DRW",
       "score": 68,
       "scoreReasons": [
@@ -2456,11 +2452,11 @@
       ]
     },
     {
-      "id": "canonical:1d41c103b87b651a",
+      "id": "canonical:d5ec2122996844c4",
       "title": "Software Developer Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
-      "location": "Chicago, IL",
-      "department": "Software",
+      "location": "Chicago",
+      "department": "",
       "company": "DRW",
       "score": 93,
       "scoreReasons": [
@@ -12186,19 +12182,6 @@
       "scoreReasons": []
     },
     {
-      "id": "canonical:68b8bf927ec4b525",
-      "title": "Software Engineer Intern - Wireless Connectivity Software Engineer - Electronic Devices",
-      "url": "https://www.tesla.com/careers/search/job/269792",
-      "location": "Palo Alto, CA",
-      "department": "Software",
-      "company": "Tesla",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:681685a64ad12ec9",
       "title": "Sensor Hardware Engineer Intern - Sensor Hardware Design Engineer - Optimus",
       "url": "https://www.tesla.com/careers/search/job/272581",
@@ -16253,20 +16236,6 @@
       ]
     },
     {
-      "id": "canonical:862f3e74bce7442d",
-      "title": "Digital Marketing Intern - Technical AI & Automation",
-      "url": "https://job-boards.greenhouse.io/eulerity/jobs/4695806006",
-      "location": "NYC",
-      "department": "AI/ML/Data",
-      "company": "Eulerity",
-      "score": 48,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS",
-        "lower-fit title"
-      ]
-    },
-    {
       "id": "canonical:d756b75031b93280",
       "title": "Applications Engineering Intern",
       "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---Roseville/Intern---Applications-Engineering_R2542-26",
@@ -16417,33 +16386,6 @@
       "location": "Boston, MA",
       "department": "Quant",
       "company": "Arrowstreet Capital",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:4b21328cc5217e15",
-      "title": "Partnerships Analytics & Reporting Intern",
-      "url": "https://boards.greenhouse.io/worldsurfleague/jobs/8629100002",
-      "location": "Inglewood, CA",
-      "department": "AI/ML/Data",
-      "company": "World Surf League",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:f70b33853919b982",
-      "title": "Motion Planning Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/didi/jobs/8056492",
-      "location": "San Jose, CA",
-      "department": "AI/ML/Data",
-      "company": "DiDi Global",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -17451,18 +17393,6 @@
       "location": "SF / Bellevue, WA / Mountain View, CA",
       "department": "Product",
       "company": "Databricks",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:120eb953bd1f0b9f",
-      "title": "Engineer Intern",
-      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700250",
-      "location": "Kanata, Ottawa, ON, Canada",
-      "department": "Hardware",
-      "company": "Aptiv",
       "score": 58,
       "scoreReasons": [
         "direct ATS"
@@ -19289,6 +19219,19 @@
       ]
     },
     {
+      "id": "canonical:cd8355ae67511e33",
+      "title": "Healthcare AI & Automation Intern",
+      "url": "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---Florida-US/Healthcare-AI---Automation-Intern_R45126",
+      "location": "Florida",
+      "department": "Software",
+      "company": "SS&C",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:44b52479685bc87d",
       "title": "Intern",
       "url": "https://careers.rivian.com/jobs/32355?icims=1",
@@ -19421,6 +19364,19 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:d6dd989f7ac4831c",
+      "title": "Data Science Intern - Data Science",
+      "url": "https://jobs.smartrecruiters.com/RedBull/744000139168339",
+      "location": "Morristown, NJ",
+      "department": "AI/ML/Data",
+      "company": "Red Bull",
+      "score": 68,
+      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
@@ -21727,19 +21683,6 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:3ad1467a74246ec3",
-      "title": "Healthcare AI & Automation Intern",
-      "url": "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---Florida-US/Healthcare-AI---Automation-Intern_R45126",
-      "location": "Remote - Florida, US",
-      "department": "Data & ML/AI / Summer 2027",
-      "company": "SS&C",
-      "score": 68,
-      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
