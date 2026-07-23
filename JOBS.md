@@ -1,6 +1,6 @@
 # Open Internships
 
-**1604** internships across **79/80** companies — last updated 2026-07-23.
+**1606** internships across **79/80** companies — last updated 2026-07-23.
 
 ## Companies
 
@@ -77,6 +77,7 @@
 - [Beacon Software](#beacon-software) (1)
 - [Beaconsoftware](#beaconsoftware) (1)
 - [beBeeManufacturingEngineering](#bebeemanufacturingengineering) (1)
+- [Bee Sweet Citrus](#bee-sweet-citrus) (1)
 - [Berkshire Hathaway Energy](#berkshire-hathaway-energy) (2)
 - [Beyondsoft](#beyondsoft) (1)
 - [Bild AI](#bild-ai) (1)
@@ -126,7 +127,7 @@
 - [CHEP](#chep) (1)
 - [Cherry Bekaert](#cherry-bekaert) (2)
 - [Chevron Corporation](#chevron-corporation) (4)
-- [Chicago Trading Company](#chicago-trading-company) (3)
+- [Chicago Trading Company](#chicago-trading-company) (2)
 - [Ciena](#ciena) (6)
 - [Circle K](#circle-k) (1)
 - [Circleback](#circleback) (1)
@@ -138,6 +139,7 @@
 - [Clarity Innovations](#clarity-innovations) (1)
 - [Clera](#clera) (1)
 - [Clerkie](#clerkie) (1)
+- [CloudFit Software](#cloudfit-software) (1)
 - [Cloudflare](#cloudflare) (12)
 - [Cloudforce](#cloudforce) (1)
 - [CME Group](#cme-group) (1)
@@ -224,7 +226,7 @@
 - [First Quality](#first-quality) (1)
 - [Fiserv](#fiserv) (2)
 - [Five Rings](#five-rings) (1)
-- [Five Rings Capital](#five-rings-capital) (3)
+- [Five Rings Capital](#five-rings-capital) (1)
 - [Flagright](#flagright) (1)
 - [Flow Traders](#flow-traders) (1)
 - [Fluency](#fluency) (1)
@@ -314,7 +316,7 @@
 - [Kensington](#kensington) (2)
 - [Kepler Communications](#kepler-communications) (1)
 - [Keysight Technologies](#keysight-technologies) (2)
-- [Kinaxis](#kinaxis) (2)
+- [Kinaxis](#kinaxis) (1)
 - [Kinetic Systems](#kinetic-systems) (1)
 - [KION Group](#kion-group) (1)
 - [Kirin](#kirin) (2)
@@ -380,7 +382,7 @@
 - [NeoSigma](#neosigma) (1)
 - [Netflix](#netflix) (1)
 - [Neuralink](#neuralink) (5)
-- [NewsBreak](#newsbreak) (2)
+- [NewsBreak](#newsbreak) (1)
 - [Nightwing Intelligence Solutions](#nightwing-intelligence-solutions) (2)
 - [Nio](#nio) (3)
 - [Nissan Global](#nissan-global) (1)
@@ -418,7 +420,6 @@
 - [Persistent Systems](#persistent-systems) (2)
 - [Persona AI](#persona-ai) (1)
 - [Phamily](#phamily) (1)
-- [Phia](#phia) (1)
 - [Phlair](#phlair) (1)
 - [Phonely](#phonely) (1)
 - [Phonic](#phonic) (1)
@@ -442,6 +443,7 @@
 - [Rainmaker](#rainmaker) (2)
 - [Rakuten International](#rakuten-international) (1)
 - [Ramp](#ramp) (1)
+- [Rantec Power Systems Inc.](#rantec-power-systems-inc) (1)
 - [Red Bull](#red-bull) (1)
 - [Replit](#replit) (1)
 - [Reply](#reply) (1)
@@ -496,6 +498,7 @@
 - [SpaceX](#spacex) (2)
 - [Spacial AI](#spacial-ai) (1)
 - [Sparksoft](#sparksoft) (1)
+- [SPHERIX GLOBAL INSIGHTS US INC](#spherix-global-insights-us-inc) (1)
 - [SpreeAI ](#spreeai) (3)
 - [Squarepoint Capital](#squarepoint-capital) (5)
 - [SS&C](#ss-c) (2)
@@ -510,6 +513,7 @@
 - [Susquehanna Investment Group](#susquehanna-investment-group) (1)
 - [Symmetry Systems](#symmetry-systems) (1)
 - [Synchrony Financial](#synchrony-financial) (4)
+- [T. Rowe Price](#t-rowe-price) (3)
 - [Teall Sports & Entertainment](#teall-sports-entertainment) (1)
 - [Technergetics](#technergetics) (1)
 - [Techtronic Industries](#techtronic-industries) (1)
@@ -572,6 +576,7 @@
 - [Waabi](#waabi) (2)
 - [Walleye Capital](#walleye-capital) (8)
 - [Walmart](#walmart) (1)
+- [Warner Bros.](#warner-bros) (2)
 - [Wealth.com](#wealth-com) (1)
 - [Wells Fargo](#wells-fargo) (12)
 - [WeRide](#weride) (1)
@@ -584,7 +589,7 @@
 - [X Development](#x-development) (1)
 - [XPENG Motors](#xpeng-motors) (2)
 - [Xsolla](#xsolla) (3)
-- [Zipline](#zipline) (5)
+- [Zipline](#zipline) (4)
 - [Zuru](#zuru) (1)
 
 ## ABB
@@ -1255,6 +1260,12 @@
 | --- | --- | --- | --- | --- |
 | [Manufacturing Engineering Internship for Summer 2026](https://us.bebee.com/job/8d5893a024a720602b9c4d9162d87d66?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 42 | Lafayette, IN | — | 2026-07-09 |
 
+## Bee Sweet Citrus
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data Processing Intern - Multiple Teams](https://beesweetcitrus.applytojob.com/apply/MMbyNj6r3a/Data-Processing-Intern) | 60 | Fresno, CA | AI/ML/Data | 2026-07-23 |
+
 ## Berkshire Hathaway Energy
 
 | Title | Score | Location | Department | First seen |
@@ -1617,9 +1628,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineering Internship - Summer 2027](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005) | 68 | Chicago, Illinois, United States | Software / Summer 2027 | 2026-07-23 |
 | [Quant Trading Intern](https://job-boards.greenhouse.io/ctccampusboard/jobs/4709545005) | 68 | London, UK | Quant | 2026-07-22 |
-| [Quant Trading Intern](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005) | 68 | Chicago, IL | Quant | 2026-07-20 |
-| [Software Engineering Intern](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005) | 68 | Chicago, IL | Software | 2026-07-20 |
 
 ## Ciena
 
@@ -1716,6 +1726,12 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](http://getfiber.ai/careers?gh_jid=5152467007) | 85 | Remote in USA | Software | 2026-07-20 |
 
+## CloudFit Software
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [CloudFit Software Internship - Company name withheld](https://cloudfitsoftware.applytojob.com/apply/oaG5GcybAo/Future-Intern-2027) | 60 | Lynchburg, VA | Software | 2026-07-23 |
+
 ## Cloudflare
 
 | Title | Score | Location | Department | First seen |
@@ -1730,7 +1746,7 @@
 | [Technical Support Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8041135?gh_jid=8041135) | 58 | In-Office | — | 2026-07-03 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
 | [Sales Project Manager Intern (AI Innovation) (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8020830?gh_jid=8020830) | 38 | In-Office | — | 2026-06-23 |
 
 ## Cloudforce
@@ -2322,9 +2338,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Quantitative Researcher Intern](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008) | 93 | NYC | Quant | 2026-07-20 |
 | [Software Developer Intern - Software Developer](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) | 93 | NYC | Software | 2026-07-20 |
-| [Quantitative Trader Intern - Quantitative Trader](https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008) | 68 | NYC | Quant | 2026-07-20 |
 
 ## Flagright
 
@@ -2969,7 +2983,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Engineer Co-op/Intern - Data & Analytics](https://careers-kinaxis.icims.com/jobs/34766/job?mobile=true&needsRedirect=false) | 85 | Ottawa, ON, Canada | AI/ML/Data | 2026-07-21 |
-| [Software Development Co-op/Intern - C++](https://careers-kinaxis.icims.com/jobs/34764/job?mobile=true&needsRedirect=false) | 60 | Ottawa, ON, Canada | Software | 2026-07-21 |
 
 ## Kinetic Systems
 
@@ -3416,7 +3429,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Growth Engineer Intern - Growth Engineering](https://job-boards.greenhouse.io/newsbreak/jobs/4697070006) | 93 | Mountain View, CA | AI/ML/Data | 2026-07-20 |
 | [Research Intern - Agent Reinforcement Learning Training](https://job-boards.greenhouse.io/newsbreak/jobs/4684555006) | 68 | Mountain View, CA | AI/ML/Data | 2026-05-27 |
 
 ## Nightwing Intelligence Solutions
@@ -3754,12 +3766,6 @@
 | --- | --- | --- | --- | --- |
 | [Business Intelligence & Data Analytics Intern - Undergraduate](https://job-boards.greenhouse.io/jobsatphamily/jobs/5281446008) | 68 | NYC | AI/ML/Data | 2026-07-01 |
 
-## Phia
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Full Stack Engineer Intern](https://jobs.ashbyhq.com/phia/71c26b8b-86cd-446d-a63f-8cd8c2a3f162/application) | 93 | NYC | Software | 2026-06-05 |
-
 ## Phlair
 
 | Title | Score | Location | Department | First seen |
@@ -3936,6 +3942,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Internship, Android](https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b) | 90 | — | Engineering | 2026-05-29 |
+
+## Rantec Power Systems Inc.
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [PCB Design Engineer Intern](https://rantecpowersystemsinc.applytojob.com/apply/C88xK8WZio/PCB-Design-Engineering-Intern) | 50 | San Luis Obispo, CA | Hardware | 2026-07-23 |
 
 ## Red Bull
 
@@ -4315,6 +4327,12 @@
 | --- | --- | --- | --- | --- |
 | [Data Development Intern](https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5187532007) | 68 | Columbia, MD | AI/ML/Data | 2026-07-20 |
 
+## SPHERIX GLOBAL INSIGHTS US INC
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Market Research Insights Intern](https://spherixglobalinsights.applytojob.com/apply/tXLqnpK9I3/Market-Research-Insights-Internship) | 60 | Exton, PA | AI/ML/Data | 2026-07-23 |
+
 ## SpreeAI 
 
 | Title | Score | Location | Department | First seen |
@@ -4433,6 +4451,14 @@
 | [Technology Intern - Technology](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Technology_2601695-1) | 68 | Stamford, CT | Software | 2026-07-21 |
 | [Data Analytics Intern](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Data-Analytics_2601688) | 68 | Stamford, CT | AI/ML/Data | 2026-07-21 |
 | [Technology Intern](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Other-Remote-NY/Technology-Intern---Fall-2026_2601748) | 68 | NYC | AI/ML/Data | 2026-07-20 |
+
+## T. Rowe Price
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Global Trading Intern](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718) | 68 | Baltimore, MD | Quant | 2026-07-23 |
+| [Quantitative Equity Investing Intern](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699) | 68 | Baltimore, MD | Quant | 2026-07-23 |
+| [Technology and Data Intern](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677) | 68 | Owings Mills, MD / Baltimore, MD | AI/ML/Data | 2026-07-23 |
 
 ## Teall Sports & Entertainment
 
@@ -4623,8 +4649,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [2027 North America Software Engineering Internship](https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007) | 68 | Bellevue; Boulder; Denver; Irvine; New York; Seattle | Software / Summer 2027 | 2026-07-23 |
 | [2026 Australia Software Engineering Internship](https://job-boards.greenhouse.io/thetradedesk/jobs/5033765007) | 68 | Sydney | — | 2026-07-20 |
-| [Software Engineering Intern](https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007) | 68 | Seattle, WA / Irvine, CA / NYC / Bellevue, WA / Denver, CO / Boulder, CO | Software | 2026-07-20 |
 | [2026 North America Software Engineering Internship](https://www.linkedin.com/jobs/view/4270526982) | 52 | Boulder, CO | — | 2026-07-09 |
 
 ## The Wonderful Company
@@ -4999,6 +5025,13 @@
 | --- | --- | --- | --- | --- |
 | [Corporate Intern - Global Public Polic](https://www.linkedin.com/jobs/view/4270116457) | 42 | Washington, DC | — | 2026-07-09 |
 
+## Warner Bros.
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Research, Analytics & Strategy Intern](https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-30-Hudson-Yards/Research--Analytics---Strategy-Internships--NYC---Fall-2026_R000107153) | 68 | NYC | AI/ML/Data | 2026-07-23 |
+| [Sports Growth Strategy and Data Intern](https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Sports-Growth-Strategy-and-Data-Internships--ATL---Fall-2026_R000107173) | 68 | Atlanta, GA | AI/ML/Data | 2026-07-23 |
+
 ## Wealth.com
 
 | Title | Score | Location | Department | First seen |
@@ -5092,7 +5125,6 @@
 | [Software Engineer Intern](https://www.zipline.com/open-roles?gh_jid=7787509003) | 85 | San Bruno, CA | Software | 2026-07-22 |
 | [Enterprise Systems Software Engineer Intern](https://www.zipline.com/careers?gh_jid=7767667003#open-roles) | 85 | San Bruno, CA | Software | 2026-07-21 |
 | [Perception Intern](https://www.zipline.com/careers?gh_jid=7761650003#open-roles) | 60 | Dallas, TX / San Bruno, CA | AI/ML/Data | 2026-07-21 |
-| [Applications Engineer Intern](https://www.zipline.com/open-roles?gh_jid=7765099003) | 50 | San Bruno, CA | Hardware | 2026-07-21 |
 | [Maps Intern](https://www.zipline.com/open-roles?gh_jid=7787868003) | 60 | San Bruno, CA | AI/ML/Data | 2026-07-21 |
 
 ## Zuru

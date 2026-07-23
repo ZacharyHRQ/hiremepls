@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-23T04:29:49.993Z",
+  "generatedAt": "2026-07-23T07:06:31.066Z",
   "companyCount": 80,
   "okCount": 79,
-  "jobCount": 1604,
+  "jobCount": 1606,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -302,7 +302,6 @@
     "canonical:a44498a12494d8e0": "2026-06-04T23:50:18.472Z",
     "canonical:30eff37a0373d994": "2026-06-04T23:50:18.472Z",
     "canonical:1e423a804a7c32cd": "2026-06-04T23:50:18.472Z",
-    "canonical:4ca619c34eb3463e": "2026-06-05T10:40:30.398Z",
     "canonical:9a93c8600bc816f6": "2026-06-05T10:40:30.398Z",
     "canonical:1e55d948abe3148a": "2026-06-05T10:40:30.398Z",
     "canonical:464ecfeba366891e": "2026-06-05T10:40:30.398Z",
@@ -959,7 +958,6 @@
     "canonical:80ac048bab3755ae": "2026-07-20T23:30:05.931Z",
     "canonical:498dd379fab5ddbe": "2026-07-20T23:30:05.931Z",
     "canonical:7111b148790400b1": "2026-07-20T23:30:05.931Z",
-    "canonical:f96200f54c0186d5": "2026-07-20T23:30:05.931Z",
     "canonical:680d2a2bdeaa88c1": "2026-07-20T23:30:05.931Z",
     "canonical:48a0612444cb233e": "2026-07-20T23:30:05.931Z",
     "canonical:6f6f5cb6ae78fead": "2026-07-20T23:30:05.931Z",
@@ -1203,12 +1201,9 @@
     "canonical:ccf5a2571af6dded": "2026-07-20T23:30:05.931Z",
     "canonical:c44df2462902407d": "2026-07-20T23:30:05.931Z",
     "canonical:c17233719bef91b4": "2026-07-20T23:30:05.931Z",
-    "canonical:69c75e01b56b435e": "2026-07-20T23:30:05.931Z",
     "canonical:c0f07270e7c3c68c": "2026-07-20T23:30:05.931Z",
-    "canonical:ba976e845af333e9": "2026-07-20T23:30:05.931Z",
     "canonical:48dad6c3979a85b7": "2026-07-20T23:30:05.931Z",
     "canonical:c28670d02da5114b": "2026-07-20T23:30:05.931Z",
-    "canonical:0774fddf335499e0": "2026-07-20T23:30:05.931Z",
     "canonical:af1555d8fe323c2d": "2026-07-20T23:30:05.931Z",
     "canonical:1a265ff27273b417": "2026-07-20T23:30:05.931Z",
     "canonical:3e0dcf415ee6a9e0": "2026-07-20T23:30:05.931Z",
@@ -1245,8 +1240,6 @@
     "canonical:e63b78c0ca503004": "2026-07-20T23:30:05.931Z",
     "canonical:56609ba6b76dfebc": "2026-07-20T23:30:05.931Z",
     "canonical:8555801df793b74c": "2026-07-20T23:30:05.931Z",
-    "canonical:a74dd2e3c3bbb901": "2026-07-20T23:30:05.931Z",
-    "canonical:e988a18585048ebe": "2026-07-20T23:30:05.931Z",
     "canonical:b629da02292c0c76": "2026-07-20T23:30:05.931Z",
     "canonical:62c4660c60ba11dc": "2026-07-20T23:30:05.931Z",
     "canonical:cd090e03edcb6380": "2026-07-20T23:30:05.931Z",
@@ -1423,7 +1416,6 @@
     "canonical:60d48ea9b4193a8f": "2026-07-21T16:15:03.141Z",
     "canonical:f30a89c4a549a784": "2026-07-21T16:15:03.141Z",
     "canonical:ac88b4fd6305623b": "2026-07-21T16:15:03.141Z",
-    "canonical:296035cd95b6d0a8": "2026-07-21T16:15:03.141Z",
     "canonical:c246f55f8c194616": "2026-07-21T16:15:03.141Z",
     "canonical:a6f482844306182e": "2026-07-21T16:15:03.141Z",
     "canonical:8212975b7a6dc9b6": "2026-07-21T16:15:03.141Z",
@@ -1444,7 +1436,6 @@
     "canonical:c1e9394452463ed1": "2026-07-21T17:46:04.417Z",
     "canonical:fae742742a2eb1de": "2026-07-21T17:46:04.417Z",
     "canonical:4340ff87cce8bf1f": "2026-07-21T17:46:04.417Z",
-    "canonical:be990bc0f7ca2689": "2026-07-21T17:46:04.417Z",
     "canonical:5231500a16373cd4": "2026-07-21T17:46:04.417Z",
     "canonical:12b419c9a4fc7350": "2026-07-21T17:46:04.417Z",
     "canonical:6a08b8735bc24eb5": "2026-07-21T19:02:41.322Z",
@@ -1607,7 +1598,18 @@
     "canonical:9e95e04411aed5dd": "2026-07-23T04:29:49.993Z",
     "canonical:d5ec2122996844c4": "2026-07-23T04:29:49.993Z",
     "canonical:cd8355ae67511e33": "2026-07-23T04:29:49.993Z",
-    "canonical:d6dd989f7ac4831c": "2026-07-23T04:29:49.993Z"
+    "canonical:d6dd989f7ac4831c": "2026-07-23T04:29:49.993Z",
+    "canonical:b06ae83b159eb239": "2026-07-23T07:06:31.066Z",
+    "canonical:5405bd150f6c1b31": "2026-07-23T07:06:31.066Z",
+    "canonical:fe04260501acd4c5": "2026-07-23T07:06:31.066Z",
+    "canonical:09d0192be88d0a71": "2026-07-23T07:06:31.066Z",
+    "canonical:441328640e06c627": "2026-07-23T07:06:31.066Z",
+    "canonical:b0ba12e2c2473e93": "2026-07-23T07:06:31.066Z",
+    "canonical:473f0c4491a49e67": "2026-07-23T07:06:31.066Z",
+    "canonical:22193bff6b309591": "2026-07-23T07:06:31.066Z",
+    "canonical:ae5c4148f404ac6f": "2026-07-23T07:06:31.066Z",
+    "canonical:fa26bdb0a115901d": "2026-07-23T07:06:31.066Z",
+    "canonical:a68dcf1452f33761": "2026-07-23T07:06:31.066Z"
   },
   "jobs": [
     {
@@ -4031,11 +4033,11 @@
       ]
     },
     {
-      "id": "canonical:f96200f54c0186d5",
-      "title": "Software Engineering Intern",
+      "id": "canonical:b06ae83b159eb239",
+      "title": "2027 North America Software Engineering Internship",
       "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007",
-      "location": "Seattle, WA / Irvine, CA / NYC / Bellevue, WA / Denver, CO / Boulder, CO",
-      "department": "Software",
+      "location": "Bellevue; Boulder; Denver; Irvine; New York; Seattle",
+      "department": "Software / Summer 2027",
       "company": "The Trade Desk",
       "score": 68,
       "scoreReasons": [
@@ -6039,7 +6041,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -7967,20 +7969,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:4ca619c34eb3463e",
-      "title": "Full Stack Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/phia/71c26b8b-86cd-446d-a63f-8cd8c2a3f162/application",
-      "location": "NYC",
-      "department": "Software",
-      "company": "Phia",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -10956,18 +10944,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:296035cd95b6d0a8",
-      "title": "Software Development Co-op/Intern - C++",
-      "url": "https://careers-kinaxis.icims.com/jobs/34764/job?mobile=true&needsRedirect=false",
-      "location": "Ottawa, ON, Canada",
-      "department": "Software",
-      "company": "Kinaxis",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {
@@ -16877,20 +16853,6 @@
       "scoreReasons": []
     },
     {
-      "id": "canonical:69c75e01b56b435e",
-      "title": "Growth Engineer Intern - Growth Engineering",
-      "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4697070006",
-      "location": "Mountain View, CA",
-      "department": "AI/ML/Data",
-      "company": "NewsBreak",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:11bf5d076c1ef7ce",
       "title": "Graduate Intern - Transportation Systems Analysis",
       "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Transportation-Systems-Analysis_R14153",
@@ -16931,19 +16893,6 @@
       ]
     },
     {
-      "id": "canonical:ba976e845af333e9",
-      "title": "Quantitative Trader Intern - Quantitative Trader",
-      "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008",
-      "location": "NYC",
-      "department": "Quant",
-      "company": "Five Rings Capital",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:48dad6c3979a85b7",
       "title": "Software Developer Intern - Software Developer",
       "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
@@ -16964,20 +16913,6 @@
       "location": "Long Island, New York",
       "department": "Software",
       "company": "Custom Computer Specialists",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:0774fddf335499e0",
-      "title": "Quantitative Researcher Intern",
-      "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008",
-      "location": "NYC",
-      "department": "Quant",
-      "company": "Five Rings Capital",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -17693,32 +17628,6 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:a74dd2e3c3bbb901",
-      "title": "Software Engineering Intern",
-      "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005",
-      "location": "Chicago, IL",
-      "department": "Software",
-      "company": "Chicago Trading Company",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:e988a18585048ebe",
-      "title": "Quant Trading Intern",
-      "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005",
-      "location": "Chicago, IL",
-      "department": "Quant",
-      "company": "Chicago Trading Company",
-      "score": 68,
-      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
@@ -18710,16 +18619,6 @@
       ]
     },
     {
-      "id": "canonical:be990bc0f7ca2689",
-      "title": "Applications Engineer Intern",
-      "url": "https://www.zipline.com/open-roles?gh_jid=7765099003",
-      "location": "San Bruno, CA",
-      "department": "Hardware",
-      "company": "Zipline",
-      "score": 50,
-      "scoreReasons": []
-    },
-    {
       "id": "canonical:5231500a16373cd4",
       "title": "Intern to Entry Level Conversion Intern Program - Engineering",
       "url": "https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Seattle-WA/Intern-to-Entry-Level-Conversion---Engineering--Summer-2026-Intern-Program-_JR2026516292",
@@ -19375,6 +19274,117 @@
       "location": "Morristown, NJ",
       "department": "AI/ML/Data",
       "company": "Red Bull",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:5405bd150f6c1b31",
+      "title": "PCB Design Engineer Intern",
+      "url": "https://rantecpowersystemsinc.applytojob.com/apply/C88xK8WZio/PCB-Design-Engineering-Intern",
+      "location": "San Luis Obispo, CA",
+      "department": "Hardware",
+      "company": "Rantec Power Systems Inc.",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:fe04260501acd4c5",
+      "title": "Sports Growth Strategy and Data Intern",
+      "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Sports-Growth-Strategy-and-Data-Internships--ATL---Fall-2026_R000107173",
+      "location": "Atlanta, GA",
+      "department": "AI/ML/Data",
+      "company": "Warner Bros.",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:09d0192be88d0a71",
+      "title": "Data Processing Intern - Multiple Teams",
+      "url": "https://beesweetcitrus.applytojob.com/apply/MMbyNj6r3a/Data-Processing-Intern",
+      "location": "Fresno, CA",
+      "department": "AI/ML/Data",
+      "company": "Bee Sweet Citrus",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:441328640e06c627",
+      "title": "Research, Analytics & Strategy Intern",
+      "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-30-Hudson-Yards/Research--Analytics---Strategy-Internships--NYC---Fall-2026_R000107153",
+      "location": "NYC",
+      "department": "AI/ML/Data",
+      "company": "Warner Bros.",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:b0ba12e2c2473e93",
+      "title": "Market Research Insights Intern",
+      "url": "https://spherixglobalinsights.applytojob.com/apply/tXLqnpK9I3/Market-Research-Insights-Internship",
+      "location": "Exton, PA",
+      "department": "AI/ML/Data",
+      "company": "SPHERIX GLOBAL INSIGHTS US INC",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:473f0c4491a49e67",
+      "title": "CloudFit Software Internship - Company name withheld",
+      "url": "https://cloudfitsoftware.applytojob.com/apply/oaG5GcybAo/Future-Intern-2027",
+      "location": "Lynchburg, VA",
+      "department": "Software",
+      "company": "CloudFit Software",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:22193bff6b309591",
+      "title": "Quantitative Equity Investing Intern",
+      "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699",
+      "location": "Baltimore, MD",
+      "department": "Quant",
+      "company": "T. Rowe Price",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ae5c4148f404ac6f",
+      "title": "Technology and Data Intern",
+      "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677",
+      "location": "Owings Mills, MD / Baltimore, MD",
+      "department": "AI/ML/Data",
+      "company": "T. Rowe Price",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:fa26bdb0a115901d",
+      "title": "Global Trading Intern",
+      "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718",
+      "location": "Baltimore, MD",
+      "department": "Quant",
+      "company": "T. Rowe Price",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -21697,6 +21707,19 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:a68dcf1452f33761",
+      "title": "Software Engineering Internship - Summer 2027",
+      "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005",
+      "location": "Chicago, Illinois, United States",
+      "department": "Software / Summer 2027",
+      "company": "Chicago Trading Company",
+      "score": 68,
+      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
