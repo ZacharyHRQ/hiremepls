@@ -1,6 +1,6 @@
 # Open Internships
 
-**1585** internships across **79/80** companies — last updated 2026-07-24.
+**1591** internships across **79/80** companies — last updated 2026-07-24.
 
 ## Companies
 
@@ -65,7 +65,7 @@
 - [AXQ Capital](#axq-capital) (1)
 - [BAE Systems](#bae-systems) (1)
 - [Bank of America](#bank-of-america) (1)
-- [Bank of Montreal](#bank-of-montreal) (1)
+- [Bank of Montreal](#bank-of-montreal) (2)
 - [Barclays](#barclays) (1)
 - [Barkback](#barkback) (1)
 - [Base Power](#base-power) (3)
@@ -79,7 +79,7 @@
 - [Bild AI](#bild-ai) (1)
 - [Bio-Techne](#bio-techne) (1)
 - [Black Box](#black-box) (2)
-- [BlackEdge Capital](#blackedge-capital) (1)
+- [BlackEdge Capital](#blackedge-capital) (2)
 - [BlackRock](#blackrock) (2)
 - [Blackstone](#blackstone) (2)
 - [BlinqLABS](#blinqlabs) (1)
@@ -124,6 +124,7 @@
 - [Cisive](#cisive) (1)
 - [Citadel](#citadel) (13)
 - [Citadel Securities](#citadel-securities) (12)
+- [City of Austin](#city-of-austin) (1)
 - [City of Charlotte](#city-of-charlotte) (1)
 - [Clarity Innovations](#clarity-innovations) (1)
 - [Clera](#clera) (1)
@@ -215,6 +216,7 @@
 - [Formlabs](#formlabs) (1)
 - [Forvis Mazars US](#forvis-mazars-us) (1)
 - [Four Hands](#four-hands) (2)
+- [Freeform](#freeform) (1)
 - [Frontier Health](#frontier-health) (1)
 - [Fundwell](#fundwell) (1)
 - [Fussball Club Cincinnati LLC (“FC Cincinnati”)](#fussball-club-cincinnati-llc-fc-cincinnati) (1)
@@ -311,7 +313,7 @@
 - [LinkedIn](#linkedin) (3)
 - [Littelfuse](#littelfuse) (1)
 - [Louisiana State University (LSU)](#louisiana-state-university-lsu) (1)
-- [Magna](#magna) (3)
+- [Magna](#magna) (4)
 - [Magna International](#magna-international) (1)
 - [Maher Duessel](#maher-duessel) (1)
 - [MaloneBailey, LLP](#malonebailey-llp) (1)
@@ -360,6 +362,7 @@
 - [Netic](#netic) (3)
 - [Neuralink](#neuralink) (4)
 - [NewsBreak](#newsbreak) (1)
+- [Nextiva](#nextiva) (1)
 - [Nightwing Intelligence Solutions](#nightwing-intelligence-solutions) (2)
 - [Nio](#nio) (3)
 - [Nissan Global](#nissan-global) (1)
@@ -1172,6 +1175,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Market Risk Analyst Co-op/Intern](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Market-Risk-Analyst--Fall-2026--Co-op-Internship----4-Months_R260022055) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-07-24 |
 | [Data Scientist Co-op/Internship - Months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879) | 93 | Toronto, ON, Canada | AI/ML/Data | 2026-07-22 |
 
 ## Barclays
@@ -1260,6 +1264,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Quantitative Developer Intern](https://job-boards.greenhouse.io/blackedgecapital/jobs/4703821005) | 93 | Chicago, IL | Quant | 2026-07-24 |
 | [Quantitative Trader Intern](https://job-boards.greenhouse.io/blackedgecapital/jobs/4703820005) | 68 | Chicago, IL | Quant | 2026-07-21 |
 
 ## BlackRock
@@ -1610,6 +1615,12 @@
 | [Designated Market Maker Intern - Designated Market Maker - Trader](https://www.citadelsecurities.com/careers/details/designated-market-maker-dmm-trader-intern-us/) | 60 | NYC | Quant | 2026-07-06 |
 | [Machine Learning Researcher PhD Intern](https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-intern-us/) | 85 | Miami, FL / NYC | AI/ML/Data | 2026-07-01 |
 | [Quantitative Research Engineer Intern](https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-intern-us/) | 85 | Miami, FL / NYC | Quant | 2026-07-01 |
+
+## City of Austin
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Austin Aviation Undergraduate Intern - IT Business Systems Analyst](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/AUS-Information-Systems-Building-IS/Austin-Aviation--IT-Business-Systems-Analyst---Undergraduate-Intern_JR104583) | 68 | Austin, TX | AI/ML/Data | 2026-07-24 |
 
 ## City of Charlotte
 
@@ -2238,6 +2249,12 @@
 | --- | --- | --- | --- | --- |
 | [Cybersecurity Intern](https://job-boards.greenhouse.io/fourhands/jobs/4267718009) | 68 | Austin, TX | Security / Fall 2026 | 2026-07-20 |
 | [Product Development Intern](https://job-boards.greenhouse.io/fourhands/jobs/4272048009) | 58 | Austin, TX | Product | 2026-06-08 |
+
+## Freeform
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Process Engineer Intern](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7765271003) | 93 | LA | AI/ML/Data | 2026-07-24 |
 
 ## Frontier Health
 
@@ -2943,6 +2960,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [R&D-Computer Vision Engineer Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/R-D--Computer-Vision-Engineering-Intern_R00253444-1) | 85 | Troy, MI | AI/ML/Data | 2026-07-24 |
 | [Product Engineering Engineer Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Grand-Rapids-Michigan-US/Product-Engineering-Intern_R00243272) | 85 | Grand Rapids, MI | Software | 2026-07-24 |
 | [Engineering ADAS Perception Features Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235438) | 60 | Auburn Hills, MI | AI/ML/Data | 2026-07-23 |
 | [Student Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Highland-Park-Michigan-US/Student-Intern---Engineering-1_R00240865) | 60 | Ferndale, MI | AI/ML/Data | 2026-07-23 |
@@ -3275,6 +3293,12 @@
 | --- | --- | --- | --- | --- |
 | [Research Intern - Agent Reinforcement Learning Training](https://job-boards.greenhouse.io/newsbreak/jobs/4684555006) | 68 | Mountain View, CA | AI/ML/Data | 2026-05-27 |
 
+## Nextiva
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Forward Deployed Engineer Intern - AI Implementation](https://www.nextiva.com/company/careers-listing?gh_jid=8639480002) | 85 | Scottsdale, AZ | Software | 2026-07-24 |
+
 ## Nightwing Intelligence Solutions
 
 | Title | Score | Location | Department | First seen |
@@ -3555,7 +3579,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Summer 2027 Software Engineering Intern](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) | 68 | New York, NY | — | 2026-07-24 |
+| [Software Engineer Intern](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) | 93 | NYC | Software | 2026-07-24 |
 | [Summer 2027 Systems Engineering Intern](https://job-boards.greenhouse.io/pdtpartners/jobs/8083292) | 58 | New York, NY | — | 2026-07-24 |
 
 ## Pendulum Intelligence
