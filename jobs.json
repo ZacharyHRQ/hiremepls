@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-24T16:38:46.477Z",
+  "generatedAt": "2026-07-24T17:48:38.558Z",
   "companyCount": 80,
   "okCount": 79,
-  "jobCount": 1587,
+  "jobCount": 1583,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -123,7 +123,6 @@
     "canonical:f38b80d1d6c35520": "2026-05-09T15:28:15.527Z",
     "canonical:1ff85e8ca14b40b6": "2026-05-09T15:28:15.527Z",
     "canonical:a5a6f6f8aad4e113": "2026-05-09T15:28:15.527Z",
-    "canonical:35d0d770049adbd3": "2026-05-09T15:28:15.527Z",
     "canonical:33e86b7068f81940": "2026-05-09T15:28:15.527Z",
     "canonical:b926da94b8d1765f": "2026-05-09T15:28:15.527Z",
     "canonical:606d7f53b8e4e670": "2026-05-09T15:28:15.527Z",
@@ -838,7 +837,6 @@
     "canonical:ee2c03aa49e82137": "2026-07-14T00:56:03.544Z",
     "canonical:046f50b1fbbfdf3b": "2026-07-14T00:56:03.544Z",
     "canonical:044306bab4aa363e": "2026-07-14T00:56:03.544Z",
-    "canonical:525e6e83e886b36a": "2026-07-14T00:56:03.544Z",
     "canonical:d00761de896465cf": "2026-07-14T00:56:03.544Z",
     "canonical:630c1198382a5d1c": "2026-07-14T00:56:03.544Z",
     "canonical:51098f384b0f48ac": "2026-07-14T00:56:03.544Z",
@@ -1469,7 +1467,6 @@
     "canonical:bc5c9009a8514433": "2026-07-23T11:29:56.453Z",
     "canonical:5fad4f58541c53c3": "2026-07-23T11:29:56.453Z",
     "canonical:165736f3f7436d71": "2026-07-23T11:29:56.453Z",
-    "canonical:c57b86ae713961f3": "2026-07-23T11:29:56.453Z",
     "canonical:3064ebd205b9b80d": "2026-07-23T11:29:56.453Z",
     "canonical:da0234b2290b1dd0": "2026-07-23T11:29:56.453Z",
     "canonical:2d61efba51dca122": "2026-07-23T11:29:56.453Z",
@@ -1511,7 +1508,6 @@
     "canonical:70b2afd01cdeb431": "2026-07-23T22:36:18.111Z",
     "canonical:61ab7d0c7f75511f": "2026-07-23T22:36:18.111Z",
     "canonical:846c9eb689223ddc": "2026-07-23T22:36:18.111Z",
-    "canonical:f38d26ac181b908b": "2026-07-23T22:36:18.111Z",
     "canonical:7666a9ab23d258f9": "2026-07-23T22:36:18.111Z",
     "canonical:ec16c071527631d0": "2026-07-23T22:36:18.111Z",
     "canonical:c3f909dd643f2906": "2026-07-23T23:35:05.953Z",
@@ -2193,19 +2189,6 @@
       ]
     },
     {
-      "id": "canonical:4da2c943e4eb3f7c",
-      "title": "Campus Software Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7975026",
-      "location": "London",
-      "department": "",
-      "company": "Jump Trading",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:aa053f6ba830d433",
       "title": "Campus Software Engineer (Intern)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
@@ -2219,10 +2202,23 @@
       ]
     },
     {
-      "id": "canonical:3b590c340646bfa7",
+      "id": "canonical:4da2c943e4eb3f7c",
+      "title": "Campus Software Engineer (Intern)",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7975026",
+      "location": "London",
+      "department": "",
+      "company": "Jump Trading",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:eea417b083785298",
       "title": "Campus Systems Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
-      "location": "Chicago",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
+      "location": "London; Amsterdam",
       "department": "",
       "company": "Jump Trading",
       "score": 75,
@@ -2231,10 +2227,10 @@
       ]
     },
     {
-      "id": "canonical:eea417b083785298",
+      "id": "canonical:3b590c340646bfa7",
       "title": "Campus Systems Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
-      "location": "London; Amsterdam",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
+      "location": "Chicago",
       "department": "",
       "company": "Jump Trading",
       "score": 75,
@@ -2295,18 +2291,6 @@
       ]
     },
     {
-      "id": "canonical:1f361269ec79c7b7",
-      "title": "FPGA Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/8070392",
-      "location": "London, UK",
-      "department": "Hardware",
-      "company": "DRW",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:2bc4df178e85b4f6",
       "title": "FPGA Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/8038923",
@@ -2319,11 +2303,11 @@
       ]
     },
     {
-      "id": "canonical:6e64194c6ae570c0",
-      "title": "Leadership Rotation Network Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957735",
-      "location": "London",
-      "department": "",
+      "id": "canonical:1f361269ec79c7b7",
+      "title": "FPGA Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/8070392",
+      "location": "London, UK",
+      "department": "Hardware",
       "company": "DRW",
       "score": 58,
       "scoreReasons": [
@@ -2335,6 +2319,18 @@
       "title": "Leadership Rotation Network Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7993195",
       "location": "Chicago, IL",
+      "department": "",
+      "company": "DRW",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:6e64194c6ae570c0",
+      "title": "Leadership Rotation Network Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957735",
+      "location": "London",
       "department": "",
       "company": "DRW",
       "score": 58,
@@ -2396,11 +2392,11 @@
       ]
     },
     {
-      "id": "canonical:9e95e04411aed5dd",
+      "id": "canonical:d40e55f9a26db473",
       "title": "Quantitative Trading Analyst Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7668776",
-      "location": "Chicago, Illinois",
-      "department": "",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957243",
+      "location": "London, UK",
+      "department": "Quant",
       "company": "DRW",
       "score": 68,
       "scoreReasons": [
@@ -2409,11 +2405,11 @@
       ]
     },
     {
-      "id": "canonical:d40e55f9a26db473",
+      "id": "canonical:9e95e04411aed5dd",
       "title": "Quantitative Trading Analyst Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957243",
-      "location": "London, UK",
-      "department": "Quant",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7668776",
+      "location": "Chicago, Illinois",
+      "department": "",
       "company": "DRW",
       "score": 68,
       "scoreReasons": [
@@ -6039,20 +6035,6 @@
       ]
     },
     {
-      "id": "canonical:525e6e83e886b36a",
-      "title": "AI-Powered BI Intern: Fall 2026",
-      "url": "https://jobs.ashbyhq.com/snowflake/634e9517-583c-446c-9a13-c0c5fe5960bb",
-      "location": "",
-      "department": "Marketing",
-      "company": "Snowflake",
-      "score": 35,
-      "scoreReasons": [
-        "direct ATS",
-        "lower-fit title",
-        "unknown location"
-      ]
-    },
-    {
       "id": "canonical:e1a5f05e6336ffe6",
       "title": "AI Transformation Intern – Global Customer Engineering, Service Sales (Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395",
@@ -8630,18 +8612,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:35d0d770049adbd3",
-      "title": "Intern",
-      "url": "https://jobs.smartrecruiters.com/Eurofins/744000102593098",
-      "location": "Hayward, CA",
-      "department": "Hardware",
-      "company": "Eurofins",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
       ]
     },
     {
@@ -16861,18 +16831,6 @@
       ]
     },
     {
-      "id": "canonical:c57b86ae713961f3",
-      "title": "Engineering Development Program Intern - Hardware",
-      "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Internship---Hardware_R4043923-1",
-      "location": "Twinsburg, OH / Waukesha, WI",
-      "department": "Hardware",
-      "company": "GE Healthcare",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:e1ab6110196d85d9",
       "title": "Engineering Development Program Intern - Software",
       "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Intern---Software_R4043933-2",
@@ -18520,19 +18478,6 @@
       "company": "Primetals Technologies",
       "score": 60,
       "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:f38d26ac181b908b",
-      "title": "AI/ML Engineer Intern",
-      "url": "https://www.axogeninc.com/about-axogen/careers/?gh_jid=8645955002",
-      "location": "Tampa, FL",
-      "department": "AI/ML/Data",
-      "company": "Axogen",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role"
       ]
     },
