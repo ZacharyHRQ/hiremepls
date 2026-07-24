@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-24T20:39:49.554Z",
+  "generatedAt": "2026-07-24T21:43:02.151Z",
   "companyCount": 80,
   "okCount": 79,
-  "jobCount": 1580,
+  "jobCount": 1578,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -406,7 +406,6 @@
     "canonical:ed844f44d7281700": "2026-06-17T06:49:09.742Z",
     "canonical:baf2d5063a323ec0": "2026-06-17T06:49:09.742Z",
     "canonical:d15a582725b4129b": "2026-06-17T06:49:09.742Z",
-    "canonical:3c6099c18b55d40a": "2026-06-17T06:49:09.742Z",
     "canonical:5b93475ac32ee191": "2026-06-17T06:49:09.742Z",
     "canonical:411bdab6bb2d495d": "2026-06-17T11:27:12.169Z",
     "canonical:c32262e36ae9b8e5": "2026-06-17T17:36:29.585Z",
@@ -1327,7 +1326,6 @@
     "canonical:8f0220e3ccd8e047": "2026-07-21T16:15:03.141Z",
     "canonical:b928618c8d52206e": "2026-07-21T16:15:03.141Z",
     "canonical:c8e10a577ab2a8bf": "2026-07-21T17:46:04.417Z",
-    "canonical:8a10421b10f0725a": "2026-07-21T17:46:04.417Z",
     "canonical:1188eeec8fc3af96": "2026-07-21T17:46:04.417Z",
     "canonical:3089be45802d505e": "2026-07-21T17:46:04.417Z",
     "canonical:38febced94700d05": "2026-07-21T17:46:04.417Z",
@@ -12559,20 +12557,6 @@
       ]
     },
     {
-      "id": "canonical:8a10421b10f0725a",
-      "title": "Machine Learning Developer Intern",
-      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Machine-Learning-Developer_25WD92311-2",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Autodesk",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:a408343a5d65fbb1",
       "title": "Supercharger Product Engineer Intern - Supercharger Product Support Engineering",
       "url": "https://www.tesla.com/careers/search/job/273531",
@@ -13160,19 +13144,6 @@
       "company": "Definity Financial",
       "score": 60,
       "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:3c6099c18b55d40a",
-      "title": "Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems",
-      "url": "https://www.tesla.com/careers/search/job/274047",
-      "location": "Palo Alto, CA",
-      "department": "Hardware",
-      "company": "Tesla",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role"
       ]
     },

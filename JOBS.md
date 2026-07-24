@@ -1,6 +1,6 @@
 # Open Internships
 
-**1580** internships across **79/80** companies — last updated 2026-07-24.
+**1578** internships across **79/80** companies — last updated 2026-07-24.
 
 ## Companies
 
@@ -57,7 +57,7 @@
 - [Astranis](#astranis) (11)
 - [Atomic Semi](#atomic-semi) (3)
 - [Auctor](#auctor) (1)
-- [Autodesk](#autodesk) (4)
+- [Autodesk](#autodesk) (3)
 - [Avanade](#avanade) (1)
 - [Avery Dennison](#avery-dennison) (1)
 - [AVEVA](#aveva) (1)
@@ -495,7 +495,7 @@
 - [Tencent](#tencent) (15)
 - [Tenstorrent](#tenstorrent) (7)
 - [Terranox AI](#terranox-ai) (1)
-- [Tesla](#tesla) (90)
+- [Tesla](#tesla) (89)
 - [TETRAMEM](#tetramem) (1)
 - [The Boeing Company](#the-boeing-company) (1)
 - [The D. E. Shaw Group](#the-d-e-shaw-group) (1)
@@ -1123,7 +1123,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Cloud Developer Intern](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-2) | 93 | Remote in Canada | Software | 2026-07-21 |
-| [Machine Learning Developer Intern](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Machine-Learning-Developer_25WD92311-2) | 93 | Toronto, ON, Canada | AI/ML/Data | 2026-07-21 |
 | [Software Developer Intern - Stagiaire en Développement Logiciel](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-2) | 93 | Canada | Software | 2026-07-21 |
 | [AI in Design & Manufacturing Intern](https://autodesk.wd1.myworkdayjobs.com/uni/job/AMER---Canada---Ontario---Toronto---University-Ave/Intern--Model-Based-Systems-Engineering_26WD94900-2) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-07-21 |
 
@@ -4379,7 +4378,6 @@
 | [Vehicle Software Intern - Torque Path & Chassis Controls](https://www.tesla.com/careers/search/job/274760) | 60 | Palo Alto, CA | Software | 2026-07-01 |
 | [Product Management Intern - Product Engineer - Applications Engineering](https://www.tesla.com/careers/search/job/274754) | 85 | Fremont, CA | Software | 2026-06-24 |
 | [Data Analytics Intern - People Analytics](https://www.tesla.com/careers/search/job/274560) | 60 | Austin, TX | AI/ML/Data | 2026-06-23 |
-| [Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems](https://www.tesla.com/careers/search/job/274047) | 85 | Palo Alto, CA | Hardware | 2026-06-17 |
 | [Systems Modeling & Optimization Intern - Robotaxi Simulation Engineer - Systems Modeling & Optimization](https://www.tesla.com/careers/search/job/273933) | 85 | Palo Alto, CA | Software | 2026-06-17 |
 | [Embedded System Software Engineer Intern - Embedded System Software Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/273822) | 85 | Palo Alto, CA | Hardware | 2026-06-17 |
 | [Data Capture Engineering Intern - Data Capture Application Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/273927) | 85 | Palo Alto, CA | Software | 2026-06-16 |
