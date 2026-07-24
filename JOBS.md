@@ -1,6 +1,6 @@
 # Open Internships
 
-**1584** internships across **79/80** companies — last updated 2026-07-24.
+**1591** internships across **79/80** companies — last updated 2026-07-24.
 
 ## Companies
 
@@ -206,6 +206,7 @@
 - [Fab2](#fab2) (5)
 - [Faire](#faire) (1)
 - [Fanatics](#fanatics) (3)
+- [FHLBank Topeka](#fhlbank-topeka) (1)
 - [Figure](#figure) (3)
 - [First Quality](#first-quality) (1)
 - [Fiserv](#fiserv) (2)
@@ -271,6 +272,7 @@
 - [iHerb](#iherb) (1)
 - [IMC](#imc) (4)
 - [IMC Trading](#imc-trading) (23)
+- [Impulse Space](#impulse-space) (1)
 - [InfiniteQuant](#infinitequant) (1)
 - [Infojini](#infojini) (1)
 - [Instawork](#instawork) (1)
@@ -289,7 +291,7 @@
 - [Jain Global](#jain-global) (1)
 - [Jane Street](#jane-street) (19)
 - [JINGDONG](#jingdong) (1)
-- [JP Morgan Chase](#jp-morgan-chase) (1)
+- [JP Morgan Chase](#jp-morgan-chase) (2)
 - [Jump Trading](#jump-trading) (43)
 - [Junior](#junior) (1)
 - [k-ID](#k-id) (1)
@@ -345,7 +347,7 @@
 - [Monogram](#monogram) (1)
 - [Monolithic Power Systems](#monolithic-power-systems) (1)
 - [Moog ](#moog) (2)
-- [Moon](#moon) (1)
+- [Moon](#moon) (2)
 - [Moss & Associates](#moss-associates) (1)
 - [Motorola](#motorola) (1)
 - [Multiply Labs](#multiply-labs) (2)
@@ -358,7 +360,7 @@
 - [NBCUniversal](#nbcuniversal) (2)
 - [Nelnet](#nelnet) (1)
 - [NeoCognition](#neocognition) (1)
-- [NeoSigma](#neosigma) (1)
+- [NeoSigma](#neosigma) (2)
 - [Netflix](#netflix) (1)
 - [Netic](#netic) (3)
 - [Neuralink](#neuralink) (4)
@@ -374,6 +376,7 @@
 - [NXP Semiconductors](#nxp-semiconductors) (3)
 - [Occidental Petroleum](#occidental-petroleum) (1)
 - [Octaura](#octaura) (1)
+- [Odin Dynamics, Inc](#odin-dynamics-inc) (1)
 - [Old Mission](#old-mission) (5)
 - [Oligo Space](#oligo-space) (1)
 - [Omnis](#omnis) (1)
@@ -414,6 +417,7 @@
 - [Primetals Technologies](#primetals-technologies) (2)
 - [Prior Labs](#prior-labs) (1)
 - [PsiQuantum](#psiquantum) (1)
+- [Pylon](#pylon) (1)
 - [Quadric](#quadric) (3)
 - [Quadrillion](#quadrillion) (2)
 - [QuantCo](#quantco) (1)
@@ -465,7 +469,7 @@
 - [Solar Turbines](#solar-turbines) (2)
 - [SoloPulse](#solopulse) (3)
 - [Sony](#sony) (3)
-- [SOTI](#soti) (2)
+- [SOTI](#soti) (3)
 - [SpaceX](#spacex) (2)
 - [Spacial AI](#spacial-ai) (1)
 - [Sparksoft](#sparksoft) (1)
@@ -473,7 +477,7 @@
 - [SPHERIX GLOBAL INSIGHTS US INC](#spherix-global-insights-us-inc) (1)
 - [SpreeAI](#spreeai) (1)
 - [SPREEAI](#spreeai) (1)
-- [SpreeAI ](#spreeai) (2)
+- [SpreeAI ](#spreeai) (3)
 - [Squarepoint Capital](#squarepoint-capital) (5)
 - [SS&C](#ss-c) (1)
 - [StarSling](#starsling) (1)
@@ -502,7 +506,7 @@
 - [Thermo Fisher Scientific](#thermo-fisher-scientific) (1)
 - [thyssenkrupp](#thyssenkrupp) (2)
 - [TIFIN](#tifin) (1)
-- [TikTok](#tiktok) (57)
+- [TikTok](#tiktok) (56)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
 - [Together AI](#together-ai) (3)
@@ -522,7 +526,7 @@
 - [Uncountable](#uncountable) (1)
 - [Unisys](#unisys) (1)
 - [United Parcel Service (UPS)](#united-parcel-service-ups) (1)
-- [University of Texas at Austin](#university-of-texas-at-austin) (4)
+- [University of Texas at Austin](#university-of-texas-at-austin) (3)
 - [University of Virginia](#university-of-virginia) (1)
 - [University System of New Hampshire](#university-system-of-new-hampshire) (1)
 - [Vanguard](#vanguard) (1)
@@ -2181,6 +2185,12 @@
 | [Collectibles Intern - Product - Physical Trading Cards](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26720) | 60 | NYC | Quant | 2026-05-09 |
 | [Collectibles Intern - Product - Physical Trading Cards](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27190) | 60 | Coppell, TX | Quant | 2026-05-09 |
 
+## FHLBank Topeka
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Financial Analyst Intern](https://fhlbtopeka.wd1.myworkdayjobs.com/FHLBT/job/Topeka-Kansas/Member-Solutions-Intern_JR100348) | 68 | Topeka, KS | AI/ML/Data | 2026-07-24 |
+
 ## Figure
 
 | Title | Score | Location | Department | First seen |
@@ -2358,7 +2368,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://ats.rippling.com/gitar-careers/jobs/bfc2d948-40d8-4479-9885-fd1619ec2bda) | 85 | San Mateo, CA | Software | 2026-07-23 |
+| [Software Engineer Intern](https://ats.rippling.com/gitar-careers/jobs/76868d2c-10f0-4c43-8f47-c541f1d41e49) | 85 | San Mateo, CA | Software | 2026-07-23 |
 
 ## Global Infrastructure
 
@@ -2628,6 +2638,12 @@
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
 
+## Impulse Space
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data Analytics Intern](https://impulsespace.pinpointhq.com/en/postings/bf86b5dc-b3bd-4bb1-b51c-75744ff8d978?ats=pinpointhq) | 60 | El Segundo, CA | AI/ML/Data | 2026-07-24 |
+
 ## InfiniteQuant
 
 | Title | Score | Location | Department | First seen |
@@ -2764,6 +2780,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Machine Learning Center of Excellence Summer Associate Time Series & Reinforcement Learning Interns…](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770593) | 60 | London, UK | AI/ML/Data | 2026-07-24 |
 | [Machine Learning Center of Excellence Intern - NLP](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765492) | 60 | London, UK | AI/ML/Data | 2026-07-02 |
 
 ## Jump Trading
@@ -3148,7 +3165,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [AI Data Solutions Intern - Data Partnerships](https://jobs.ashbyhq.com/mtesting.ai/60fcc44d-4d96-469d-a96c-d6a9bbfe8edd/application?embed=true) | 68 | Palo Alto, CA | AI/ML/Data | 2026-07-24 |
+| [AI Data Solutions Intern - Data Partnerships](https://jobs.ashbyhq.com/mistral.ai/60fcc44d-4d96-469d-a96c-d6a9bbfe8edd/application?embed=true) | 68 | Palo Alto, CA | AI/ML/Data | 2026-07-24 |
 | [Applied Scientist / Research Engineer Intern](https://jobs.ashbyhq.com/mistral.ai/de46ba8b-00cb-4618-83df-66e15a78434e/application?embed=true) | 93 | London, UK / Paris, France | AI/ML/Data | 2026-07-21 |
 
 ## Mobius Renewables
@@ -3180,7 +3197,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer Intern, Backend & API](https://ats.rippling.com/en-GB/moon/jobs/8b81bca7-1a64-4377-8ea8-869aac03080b) | 85 | Glendale, CA | — | 2026-07-23 |
+| [Software Engineer Intern - Data & Machine Learning](https://ats.rippling.com/moon/jobs/5f0b98b7-561a-41d2-9104-76bdf06df094) | 85 | Glendale, CA | AI/ML/Data | 2026-07-24 |
+| [Software Engineer Intern - Backend & API](https://ats.rippling.com/moon/jobs/8b81bca7-1a64-4377-8ea8-869aac03080b) | 85 | Glendale, CA | Software | 2026-07-23 |
 
 ## Moss & Associates
 
@@ -3263,6 +3281,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Member of Technical Staff Intern](https://ats.rippling.com/neosigma/jobs/a2ee1d26-a551-45d2-9854-6dbf8ed2c866) | 60 | SF | Software | 2026-07-24 |
 | [Member of Technical Staff Intern](https://ats.rippling.com/en-GB/neosigma/jobs/a2ee1d26-a551-45d2-9854-6dbf8ed2c866) | 50 | San Francisco, CA | — | 2026-07-24 |
 
 ## Netflix
@@ -3371,6 +3390,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Intern – Data Engineering](https://job-boards.greenhouse.io/octaura/jobs/4662934007) | 68 | NYC | AI/ML/Data | 2026-07-13 |
+
+## Odin Dynamics, Inc
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Engineering Intern](https://jobs.ashbyhq.com/odin-dynamics/db6fe6ed-3517-423d-a757-3b6edea4b51d/application?embed=true) | 58 | LA | Hardware | 2026-07-24 |
 
 ## Old Mission
 
@@ -3744,6 +3769,12 @@
 | --- | --- | --- | --- | --- |
 | [Optical Packaging and Characterization Engineer Intern](https://www.psiquantum.com/apply?gh_jid=7761881003) | 50 | Milpitas, CA | Hardware | 2026-06-03 |
 
+## Pylon
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application) | 93 | SF | Software | 2026-07-24 |
+
 ## Quadric
 
 | Title | Score | Location | Department | First seen |
@@ -4109,6 +4140,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Product Manager Intern - Sales Enablement Products](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Product-Manager--Intern-_R10095) | 38 | Mississauga, ON, Canada | Product | 2026-07-24 |
 | [Data Scientist Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--September-2026-12-Months-_R10065) | 93 | Mississauga, ON, Canada | AI/ML/Data | 2026-07-23 |
 | [Associate Product Manager Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--September-2026-12-Months-_R10041) | 58 | Mississauga, ON, Canada | Product | 2026-07-21 |
 
@@ -4159,6 +4191,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI](https://ats.rippling.com/spreeai/jobs/aa087086-dd4b-42be-a499-051546655e97) | 85 | SF | AI/ML/Data | 2026-07-24 |
 | [Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web](https://ats.rippling.com/spreeai/jobs/c52472cb-2671-45d7-b666-17196dc3df25) | 85 | SF | Software | 2026-07-23 |
 | [Software Engineer Intern](https://ats.rippling.com/spreeai/jobs/d34aed29-7a11-4e37-b5bc-e9317f82f0b1) | 85 | SF | Software | 2026-07-21 |
 
@@ -4481,7 +4514,6 @@
 | [Product Manager Intern - Tiktok-Product-Search](https://lifeattiktok.com/search/7663349357178620165) | 50 | San Jose, CA | Product | 2026-07-22 |
 | [Research Scientist Intern - E-commerce Recommendation - Multiple Teams](https://lifeattiktok.com/search/7629188397976586501) | 85 | Seattle, WA | AI/ML/Data | 2026-07-21 |
 | [Data Analyst Project Intern](https://lifeattiktok.com/search/7616659899507591477) | 60 | London, UK | AI/ML/Data | 2026-07-21 |
-| [Research Scientist Intern - Monetization GenAI - 2026 Start](https://lifeattiktok.com/search/7535623435700766984) | 85 | San Jose, CA | AI/ML/Data | 2026-07-20 |
 | [Research Scientist Intern - TikTok Search / Generative AI - LLM](https://lifeattiktok.com/search/7629250876813642037) | 85 | San Jose, CA | AI/ML/Data | 2026-07-20 |
 | [Software Engineer Intern, Recommendation Infrastructure](https://lifeattiktok.com/referral/tiktok/campus/position/7537493362585979154/detail?token=MzsxNzU3OTM3MTgyMDE1OzczNzM0OTcwMTcxNzQxMzIyNDA7MDsy) | 85 | Seattle, WA | — | 2026-07-09 |
 | [LLM Post-training Engineer Intern, Research & Product](https://lifeattiktok.com/search/7631599293708126517) | 75 | San Jose, CA | — | 2026-07-09 |
@@ -4663,7 +4695,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Graduate Researcher](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/E3-Alliance-UT-Graduate-Research-Assistant_R_00047491) | 99 | Austin, TX | AI/ML/Data | 2026-07-23 |
 | [Graduate Research Assistant](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Graduate-Research-Assistant_R_00046050) | 74 | Austin, TX | AI/ML/Data | 2026-07-22 |
 | [Graduate Assistant - Data - Dell Medical School](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Graduate-Assistant--Data--Texas-Child-Mental-Health-Programs--Department-of-Psychiatry-and-Behavioral-Sciences--Dell-Medical-School_R_00047460-1) | 74 | Austin, TX | AI/ML/Data | 2026-07-21 |
 | [Career Success Reporting and Insights Graduate Assistant](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Career-Success-Reporting-and-Insights-Graduate-Assistant_R_00046976) | 74 | Austin, TX | AI/ML/Data | 2026-07-20 |
