@@ -1,6 +1,6 @@
 # Open Internships
 
-**1583** internships across **79/80** companies — last updated 2026-07-24.
+**1580** internships across **79/80** companies — last updated 2026-07-24.
 
 ## Companies
 
@@ -23,7 +23,7 @@
 - [Altasciences](#altasciences) (2)
 - [Altera Corporation](#altera-corporation) (1)
 - [Altom Transport](#altom-transport) (2)
-- [Amazon](#amazon) (166)
+- [Amazon](#amazon) (167)
 - [Ambarella](#ambarella) (8)
 - [Amentum](#amentum) (1)
 - [American Enterprise Institute](#american-enterprise-institute) (2)
@@ -32,7 +32,7 @@
 - [Anduril](#anduril) (2)
 - [Anthelion Capital](#anthelion-capital) (2)
 - [Apex Technology, Inc.](#apex-technology-inc) (1)
-- [Appian](#appian) (2)
+- [Appian](#appian) (3)
 - [Apple](#apple) (15)
 - [Applied Intuition](#applied-intuition) (3)
 - [Applied Materials](#applied-materials) (1)
@@ -118,7 +118,7 @@
 - [Cherry Bekaert](#cherry-bekaert) (2)
 - [Chevron Corporation](#chevron-corporation) (1)
 - [Chicago Trading Company](#chicago-trading-company) (2)
-- [Ciena](#ciena) (5)
+- [Ciena](#ciena) (4)
 - [Circle K](#circle-k) (1)
 - [Circleback](#circleback) (1)
 - [Cirrus Logic](#cirrus-logic) (2)
@@ -143,6 +143,7 @@
 - [Context](#context) (1)
 - [Cooper Companies](#cooper-companies) (1)
 - [Copart](#copart) (5)
+- [Core & Main](#core-main) (1)
 - [Cotiviti](#cotiviti) (3)
 - [Creatify Lab ](#creatify-lab) (1)
 - [Cresta](#cresta) (2)
@@ -193,7 +194,7 @@
 - [Ether.fi](#ether-fi) (1)
 - [ETHGlobal](#ethglobal) (1)
 - [Eulerity](#eulerity) (3)
-- [Eurofins](#eurofins) (2)
+- [Eurofins](#eurofins) (1)
 - [EV Realty](#ev-realty) (1)
 - [Evolver](#evolver) (1)
 - [Evonik](#evonik) (1)
@@ -219,7 +220,6 @@
 - [Fundwell](#fundwell) (1)
 - [Fussball Club Cincinnati LLC (“FC Cincinnati”)](#fussball-club-cincinnati-llc-fc-cincinnati) (1)
 - [G-Research](#g-research) (4)
-- [GE Healthcare](#ge-healthcare) (1)
 - [GE Vernova](#ge-vernova) (5)
 - [Geisinger](#geisinger) (1)
 - [Gemini](#gemini) (1)
@@ -372,7 +372,7 @@
 - [Northwestern Mutual](#northwestern-mutual) (2)
 - [Notion](#notion) (5)
 - [NVIDIA](#nvidia) (2)
-- [NXP Semiconductors](#nxp-semiconductors) (3)
+- [NXP Semiconductors](#nxp-semiconductors) (2)
 - [Occidental Petroleum](#occidental-petroleum) (1)
 - [Octaura](#octaura) (1)
 - [Odin Dynamics, Inc](#odin-dynamics-inc) (1)
@@ -407,7 +407,7 @@
 - [Phonic](#phonic) (1)
 - [Pika](#pika) (1)
 - [Pine Rest](#pine-rest) (1)
-- [Pinterest](#pinterest) (3)
+- [Pinterest](#pinterest) (2)
 - [PlusAI](#plusai) (13)
 - [Point72](#point72) (20)
 - [Pony Dot Ai](#pony-dot-ai) (2)
@@ -435,7 +435,7 @@
 - [Rise8](#rise8) (1)
 - [Rivian](#rivian) (3)
 - [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (14)
-- [Robert Bosch Venture Capital](#robert-bosch-venture-capital) (4)
+- [Robert Bosch Venture Capital](#robert-bosch-venture-capital) (3)
 - [Robinhood](#robinhood) (1)
 - [RoboForce](#roboforce) (1)
 - [Rockwell Automation](#rockwell-automation) (1)
@@ -696,6 +696,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [General Marketing Intern](https://amazon.jobs/en/jobs/3091876/general-marketing-intern) | 30 | Mexico City | Administrative Support | 2026-07-24 |
 | [Software Dev Engineer Intern Machine Learning, Amazon Robotics](https://amazon.jobs/en/jobs/10401402/software-dev-engineer-intern-machine-learning-amazon-robotics) | 85 | Berlin | Software Development | 2026-07-24 |
 | [Marketing AI Product Specialist Intern, Prospect End-to-End Journey, Amazon Global Selling](https://amazon.jobs/en/jobs/10483293/marketing-ai-product-specialist-intern-prospect-end-to-end-journey-amazon-global-selling) | 30 | Shanghai | Marketing & PR | 2026-07-24 |
 | [Product Marketing AI Specialist Intern, Amazon Global Selling](https://amazon.jobs/en/jobs/10483215/product-marketing-ai-specialist-intern-amazon-global-selling) | 30 | Shanghai | Marketing & PR | 2026-07-24 |
@@ -925,6 +926,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineering Intern](https://careers.appian.com/jobs/8041237-software-engineering-intern) | 60 | McLean, VA | — | 2026-07-24 |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/appian/jobs/8041237) | 93 | McLean, VA | Software | 2026-07-23 |
 | [Product Manager Intern](https://job-boards.greenhouse.io/appian/jobs/8041243) | 58 | McLean, VA | Product | 2026-07-23 |
 
@@ -1554,7 +1556,6 @@
 | [Software Engineer and Tools Developer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineer-and-Tools-Developer-Intern--Fall-2026-_R028752) | 93 | Ottawa, ON, Canada | Software | 2026-07-22 |
 | [Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/UK--Edinburgh---19A-Canning-St/Software-Engineering-Intern--3-12-Months-_R031332) | 93 | Edinburgh, UK | Hardware | 2026-07-22 |
 | [Optical Modem Hardware Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Fall-2026-Optical-Modem-Hardware-Intern--8-12-months-_R031214) | 58 | Ottawa, ON, Canada | Hardware | 2026-07-21 |
-| [Embedded Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031219) | 93 | Ottawa, ON, Canada | Hardware | 2026-06-03 |
 
 ## Circle K
 
@@ -1744,6 +1745,12 @@
 | [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393) | 93 | Dallas, TX | Software | 2026-07-21 |
 | [Technology Product Analyst Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107890) | 58 | Dallas, TX | Product | 2026-07-21 |
 | [DevOps Engineering Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/DevOps-Engineering-Intern_JR109490) | 68 | Dallas, TX - Headquarters | Software / Summer 2027 | 2026-07-20 |
+
+## Core & Main
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Intern - AI/ML Data Engineering  -  Onsite - St. Louis](https://coreandmain.wd1.myworkdayjobs.com/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804) | 68 | Saint Louis, MO 63146 | Data & ML/AI / Summer 2027 | 2026-07-24 |
 
 ## Cotiviti
 
@@ -2099,7 +2106,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Business Intelligence Intern](https://jobs.smartrecruiters.com/Eurofins/744000131132249) | 68 | Lancaster, PA | AI/ML/Data | 2026-06-08 |
-| [Engineering Intern - Test Engineer](https://jobs.smartrecruiters.com/Eurofins/744000102591529) | 58 | Santa Clara, CA | Hardware | 2026-05-09 |
 
 ## EV Realty
 
@@ -2264,12 +2270,6 @@
 | [Machine Learning Research Intern](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Research-Internship_R3682) | 68 | London, UK | AI/ML/Data | 2026-07-23 |
 | [Natural Language Processing Intern](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Natural-Language-Processing-Internship_R3686) | 68 | London, UK | AI/ML/Data | 2026-07-23 |
 | [Quantitative Research Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quant-Research-Internship_R3691) | 68 | London, UK | Quant | 2026-07-23 |
-
-## GE Healthcare
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Engineering Development Program Intern - Software](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Intern---Software_R4043933-2) | 68 | Waukesha, WI | AI/ML/Data | 2026-07-23 |
 
 ## GE Vernova
 
@@ -3360,7 +3360,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Digital Physical Design Intern - P&R](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Digital-Physical-Design--P-R--Intern_R-10064673) | 58 | Chandler, AZ | Hardware | 2026-07-22 |
-| [AI / Software Engineering Intern](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/AI---Software-Engineering-Intern---Fall-2026_R-10064807) | 68 | Austin, TX | Software | 2026-07-20 |
 | [Digital Verification Engineer Intern](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kanata/Digital-Verification-Engineer-Intern_R-10064047) | 58 | Kanata, Ottawa, ON, Canada | Hardware | 2026-07-01 |
 
 ## Occidental Petroleum
@@ -3667,7 +3666,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)](https://www.pinterestcareers.com/jobs/?gh_jid=7255640) | 60 | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US | — | 2026-07-22 |
 | [Software Engineer Intern](https://www.pinterestcareers.com/jobs/7252886/software-engineer-intern-winter-term-2026-toronto/) | 85 | Toronto, Canada | — | 2026-07-09 |
 | [Machine Learning Intern, PhD](https://www.pinterestcareers.com/jobs/7255640/phd-fall-machine-learning-intern-atg-visual-multimodal-and-recommender-systems/?jr_id=69e683219b6eb37e26f80c4f&gh_jid=7255640) | 60 | San Francisco, CA / Palo Alto, CA / Seattle, WA / New York, NY | — | 2026-07-09 |
 
@@ -3897,7 +3895,6 @@
 | --- | --- | --- | --- | --- |
 | [Autonomous Driving – Internship in Machine Learning](https://jobs.smartrecruiters.com/BoschGroup/744000139649345) | 68 | Sunnyvale, CA, United States | Data & ML/AI / Summer 2027 | 2026-07-24 |
 | [Powertrain Controls Software Engineering Intern](https://jobs.smartrecruiters.com/BoschGroup/744000139639579) | 68 | Farmington Hills, MI, United States | Software / Summer 2027 | 2026-07-24 |
-| [Hardware & Embedded Research Intern](https://jobs.smartrecruiters.com/BoschGroup/744000131150005) | 58 | Sunnyvale, CA | Hardware | 2026-06-09 |
 | [Wireless Sensing Research Intern](https://jobs.smartrecruiters.com/BoschGroup/744000121477597) | 68 | Sunnyvale, CA | AI/ML/Data | 2026-05-09 |
 
 ## Robinhood
