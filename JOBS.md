@@ -1,6 +1,6 @@
 # Open Internships
 
-**1585** internships across **79/80** companies — last updated 2026-07-24.
+**1587** internships across **79/80** companies — last updated 2026-07-24.
 
 ## Companies
 
@@ -21,8 +21,9 @@
 - [Al Warren Oil Company](#al-warren-oil-company) (1)
 - [AlixPartners](#alixpartners) (1)
 - [Altasciences](#altasciences) (2)
+- [Altera Corporation](#altera-corporation) (1)
 - [Altom Transport](#altom-transport) (2)
-- [Amazon](#amazon) (168)
+- [Amazon](#amazon) (166)
 - [Ambarella](#ambarella) (8)
 - [Amentum](#amentum) (1)
 - [American Enterprise Institute](#american-enterprise-institute) (2)
@@ -212,7 +213,7 @@
 - [Flagright](#flagright) (1)
 - [Flow Traders](#flow-traders) (1)
 - [Fluxergy](#fluxergy) (2)
-- [Formlabs](#formlabs) (2)
+- [Formlabs](#formlabs) (1)
 - [Forvis Mazars US](#forvis-mazars-us) (1)
 - [Four Hands](#four-hands) (2)
 - [Frontier Health](#frontier-health) (1)
@@ -315,6 +316,7 @@
 - [Littelfuse](#littelfuse) (1)
 - [Louisiana State University (LSU)](#louisiana-state-university-lsu) (1)
 - [Magna](#magna) (3)
+- [Magna International](#magna-international) (1)
 - [Maher Duessel](#maher-duessel) (1)
 - [MaloneBailey, LLP](#malonebailey-llp) (1)
 - [Marathon Petroleum Corporation](#marathon-petroleum-corporation) (1)
@@ -367,6 +369,7 @@
 - [Nissan Global](#nissan-global) (1)
 - [Niural](#niural) (1)
 - [Nokia](#nokia) (1)
+- [Northwell Health](#northwell-health) (1)
 - [Northwestern Mutual](#northwestern-mutual) (2)
 - [Notion](#notion) (5)
 - [NVIDIA](#nvidia) (2)
@@ -433,7 +436,7 @@
 - [Rise8](#rise8) (1)
 - [Rivian](#rivian) (3)
 - [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (14)
-- [Robert Bosch Venture Capital](#robert-bosch-venture-capital) (2)
+- [Robert Bosch Venture Capital](#robert-bosch-venture-capital) (4)
 - [Robinhood](#robinhood) (1)
 - [RoboForce](#roboforce) (1)
 - [Rockwell Automation](#rockwell-automation) (1)
@@ -448,7 +451,7 @@
 - [Schonfeld](#schonfeld) (4)
 - [Schweitzer Engineering Laboratories](#schweitzer-engineering-laboratories) (2)
 - [SCOR](#scor) (1)
-- [Sentara Health](#sentara-health) (1)
+- [Sentara Health](#sentara-health) (2)
 - [Serval](#serval) (1)
 - [Seven Research](#seven-research) (4)
 - [SHEIN](#shein) (1)
@@ -512,7 +515,6 @@
 - [Tower Research Capital](#tower-research-capital) (5)
 - [Toyota Research Institute](#toyota-research-institute) (2)
 - [Tradeweb](#tradeweb) (1)
-- [Trane Technologies](#trane-technologies) (1)
 - [TransMarket Group](#transmarket-group) (3)
 - [Trata](#trata) (1)
 - [Truland Equipment](#truland-equipment) (1)
@@ -678,6 +680,12 @@
 | [Software Engineer Intern](https://altasciences.wd1.myworkdayjobs.com/Careers/job/Overland-Park-Kansas/Process-Innovation---Software-Engineering-Intern_R102750) | 93 | Overland Park, KS | Software | 2026-07-22 |
 | [Process Innovation Product Management Intern](https://altasciences.wd1.myworkdayjobs.com/Careers/job/Laval-Quebec/Process-Innovation---Product-Management-Intern_R102753) | 58 | Laval, QC, Canada / Overland Park, KS | Product | 2026-07-21 |
 
+## Altera Corporation
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI Software Development Engineer - Intern](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/AI-Software-Development-Engineer---Intern_R02707) | 93 | San Jose, California, United States | Data & ML/AI / Summer 2027 | 2026-07-24 |
+
 ## Altom Transport
 
 | Title | Score | Location | Department | First seen |
@@ -764,7 +772,6 @@
 | [Graduate Area/Shift Manager - Lombardia](https://amazon.jobs/en/jobs/10467985/graduate-area-shift-manager-lombardia) | 56 | Rovido (mi) | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Area/Shift Manager - Novara](https://amazon.jobs/en/jobs/3188208/graduate-area-shift-manager-novara) | 56 | Agognate | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Area/Shift Manager - Piemonte](https://amazon.jobs/en/jobs/10465611/graduate-area-shift-manager-piemonte) | 56 | Torrazza | Fulfillment & Operations Management | 2026-07-20 |
-| [Graduate Area/Shift Manager - Pisa](https://amazon.jobs/en/jobs/3188169/graduate-area-shift-manager-pisa) | 56 | Pisa | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Area/Shift Manager - Rome](https://amazon.jobs/en/jobs/10448455/graduate-area-shift-manager-rome) | 56 | Passo Corese | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Area/Shift Manager - Veneto](https://amazon.jobs/en/jobs/3165132/graduate-area-shift-manager-veneto) | 56 | Rovigo | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Area/Shift Manager Emilia-Romagna](https://amazon.jobs/en/jobs/10457654/graduate-area-shift-manager-emilia-romagna) | 56 | Spilamberto | Fulfillment & Operations Management | 2026-07-20 |
@@ -789,7 +796,6 @@
 | [Graduate Logistik Manager - Werne](https://amazon.jobs/en/jobs/10476049/graduate-logistik-manager-werne) | 56 | Werne | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Logistik Manager - Zweibrücken](https://amazon.jobs/en/jobs/3184919/graduate-logistik-manager-zweibrucken) | 56 | Contwig | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate OPS Area/Shift Manager - UK , Amazon Operations](https://amazon.jobs/en/jobs/10402423/graduate-ops-area-shift-manager-uk-amazon-operations) | 56 | Chesterfield | Fulfillment & Operations Management | 2026-07-20 |
-| [Graduate Process Improvement Manager - Alessandria, EU ICQA](https://amazon.jobs/en/jobs/3201147/graduate-process-improvement-manager-alessandria-eu-icqa) | 56 | Alessandria | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Shift Manager - Bayern Area](https://amazon.jobs/en/jobs/10418441/graduate-shift-manager-bayern-area) | 56 | Oerlenbach | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Shift Manager - bei Linz](https://amazon.jobs/en/jobs/10462185/graduate-shift-manager-bei-linz) | 56 | Enns | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Shift Manager - München](https://amazon.jobs/en/jobs/10419575/graduate-shift-manager-munchen) | 56 | Olching | Fulfillment & Operations Management | 2026-07-20 |
@@ -1519,7 +1525,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software QA Tester Intern/Co-op (Fall 2026)](https://job-boards.greenhouse.io/charlesriveranalytics90/jobs/8035563) | 68 | Cambridge, MA | Software / Fall 2026 | 2026-07-20 |
+| [Software QA Tester Intern/Co-op](https://job-boards.greenhouse.io/charlesriveranalytics90/jobs/8035563) | 68 | Cambridge, MA | Software / Fall 2026 | 2026-07-20 |
 
 ## Chartwells Higher Education Dining Services
 
@@ -2225,7 +2231,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Manufacturing Test Software Intern](https://careers.formlabs.com/job/8021679/apply/?gh_jid=8021679) | 60 | Cambridge, MA | Software | 2026-07-01 |
 | [Hardware Systems Integration Intern](https://careers.formlabs.com/job/7927471/apply/?gh_jid=7927471) | 50 | Cambridge, MA | Hardware | 2026-05-15 |
 
 ## Forvis Mazars US
@@ -2618,8 +2623,8 @@
 | [Graduate Quantitative Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4751729101) | 74 | Chicago, United States | — | 2026-07-01 |
 | [Graduate Hardware Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4823805101) | 64 | Chicago, United States | — | 2026-07-01 |
 | [Hardware Machine Learning PhD Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, IL | AI/ML/Data | 2026-05-09 |
-| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
+| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
 
 ## Impulse Space
 
@@ -2967,6 +2972,12 @@
 | [Product Engineering Engineer Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Grand-Rapids-Michigan-US/Product-Engineering-Intern_R00243272) | 85 | Grand Rapids, MI | Software | 2026-07-24 |
 | [Engineering ADAS Perception Features Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235438) | 60 | Auburn Hills, MI | AI/ML/Data | 2026-07-23 |
 | [Student Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Highland-Park-Michigan-US/Student-Intern---Engineering-1_R00240865) | 60 | Ferndale, MI | AI/ML/Data | 2026-07-23 |
+
+## Magna International
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [R&D- Computer Vision Engineering Intern](https://magna.wd3.myworkdayjobs.com/Magna/job/Troy-Michigan-US/R-D--Computer-Vision-Engineering-Intern_R00253444-1) | 68 | Troy, Michigan, US | Data & ML/AI / Summer 2027 | 2026-07-24 |
 
 ## Maher Duessel
 
@@ -3322,6 +3333,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Embedded C/C++ Software Developer Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35268) | 85 | Ottawa, ON, Canada | Hardware | 2026-05-20 |
+
+## Northwell Health
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data Analytics / Data Science Intern](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/192734) | 60 | Lake Success, Nassau, United States | Data & ML/AI / Summer 2027 | 2026-07-24 |
 
 ## Northwestern Mutual
 
@@ -3887,6 +3904,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Autonomous Driving – Internship in Machine Learning](https://jobs.smartrecruiters.com/BoschGroup/744000139649345) | 68 | Sunnyvale, CA, United States | Data & ML/AI / Summer 2027 | 2026-07-24 |
+| [Powertrain Controls Software Engineering Intern](https://jobs.smartrecruiters.com/BoschGroup/744000139639579) | 68 | Farmington Hills, MI, United States | Software / Summer 2027 | 2026-07-24 |
 | [Hardware & Embedded Research Intern](https://jobs.smartrecruiters.com/BoschGroup/744000131150005) | 58 | Sunnyvale, CA | Hardware | 2026-06-09 |
 | [Wireless Sensing Research Intern](https://jobs.smartrecruiters.com/BoschGroup/744000121477597) | 68 | Sunnyvale, CA | AI/ML/Data | 2026-05-09 |
 
@@ -3988,6 +4007,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data & AI Finance Strategy Intern - Fall 2026 Internship Remote](https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Data---AI-Finance-Strategy-Intern---Fall-2026-Internship-Remote_JR-103073) | 68 | Virginia Beach, VA | Data & ML/AI / Fall 2026 | 2026-07-24 |
 | [Cyber Security Compliance Intern](https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Cyber-Security-Compliance-Intern_JR-97927-1) | 68 | Virginia Beach, VA | Security / Summer 2027 | 2026-07-23 |
 
 ## Serval
@@ -4598,12 +4618,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Tradeweb International Intern Program - JavaScript UI Developer - Technology Division](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301721) | 85 | London, UK | Software | 2026-05-09 |
-
-## Trane Technologies
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Collections Data Analyst Intern](https://careers.tranetechnologies.com/global/en/job/JR-4222) | 60 | Winona, MN | AI/ML/Data | 2026-07-23 |
 
 ## TransMarket Group
 

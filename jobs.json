@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-24T14:43:59.859Z",
+  "generatedAt": "2026-07-24T16:38:46.477Z",
   "companyCount": 80,
   "okCount": 79,
-  "jobCount": 1585,
+  "jobCount": 1587,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -470,7 +470,6 @@
     "canonical:c8ca3869c2c9394e": "2026-07-01T06:55:26.212Z",
     "canonical:b06c1c658f9e9640": "2026-07-01T06:55:26.212Z",
     "canonical:e74ff208aa9bd56c": "2026-07-01T06:55:26.212Z",
-    "canonical:4d3f2d2457092a66": "2026-07-01T06:55:26.212Z",
     "canonical:8bbf5106040685f9": "2026-07-01T06:55:26.212Z",
     "canonical:3e20e348fe7e7c8d": "2026-07-01T06:55:26.212Z",
     "canonical:c0eb083bfbe7a4b1": "2026-07-01T06:55:26.212Z",
@@ -1033,7 +1032,6 @@
     "canonical:af2a08af8c9938a7": "2026-07-20T23:30:05.931Z",
     "canonical:07c730020cc1775e": "2026-07-20T23:30:05.931Z",
     "canonical:2203dd84d3cafb82": "2026-07-20T23:30:05.931Z",
-    "canonical:752ffb3413143586": "2026-07-20T23:30:05.931Z",
     "canonical:2eebb657e4672157": "2026-07-20T23:30:05.931Z",
     "canonical:3af1c456dcd44b85": "2026-07-20T23:30:05.931Z",
     "canonical:064293d5cdbb4720": "2026-07-20T23:30:05.931Z",
@@ -1045,7 +1043,6 @@
     "canonical:981d6b4992d9da98": "2026-07-20T23:30:05.931Z",
     "canonical:b9ef7e2d0419457a": "2026-07-20T23:30:05.931Z",
     "canonical:0444089427057b3e": "2026-07-20T23:30:05.931Z",
-    "canonical:0140bd7ed5a4e520": "2026-07-20T23:30:05.931Z",
     "canonical:ed5a3140fa64e38e": "2026-07-20T23:30:05.931Z",
     "canonical:020d28cd061f0ede": "2026-07-20T23:30:05.931Z",
     "canonical:8697580af61f0458": "2026-07-20T23:30:05.931Z",
@@ -1477,7 +1474,6 @@
     "canonical:da0234b2290b1dd0": "2026-07-23T11:29:56.453Z",
     "canonical:2d61efba51dca122": "2026-07-23T11:29:56.453Z",
     "canonical:79cfcc7e8096fa91": "2026-07-23T13:01:14.511Z",
-    "canonical:1782ca39c8f2f506": "2026-07-23T13:01:14.511Z",
     "canonical:ac88b4fd6305623b": "2026-07-23T13:01:14.511Z",
     "canonical:ec23121dc644d031": "2026-07-23T13:01:14.511Z",
     "canonical:c686a4438be89e1f": "2026-07-23T13:01:14.511Z",
@@ -1588,7 +1584,13 @@
     "canonical:ea516bcb2c3049bb": "2026-07-24T12:52:14.698Z",
     "canonical:38a7d4388515b288": "2026-07-24T12:52:14.698Z",
     "canonical:9579037e880fa14c": "2026-07-24T12:52:14.698Z",
-    "canonical:f737fd209e879331": "2026-07-24T12:52:14.698Z"
+    "canonical:f737fd209e879331": "2026-07-24T12:52:14.698Z",
+    "canonical:b7e2b2dbebb1a7cb": "2026-07-24T16:38:46.477Z",
+    "canonical:b4058c23693f9118": "2026-07-24T16:38:46.477Z",
+    "canonical:0e6f0662a18170b5": "2026-07-24T16:38:46.477Z",
+    "canonical:41caa2ccbcb2071a": "2026-07-24T16:38:46.477Z",
+    "canonical:8dd11d540cc523a9": "2026-07-24T16:38:46.477Z",
+    "canonical:bed45dec59abc364": "2026-07-24T16:38:46.477Z"
   },
   "jobs": [
     {
@@ -1836,10 +1838,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1851,10 +1853,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -2254,10 +2256,10 @@
       ]
     },
     {
-      "id": "canonical:46205b9335861e9c",
+      "id": "canonical:7286f2830b7e7578",
       "title": "Campus UI Software Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7974943",
-      "location": "London",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019",
+      "location": "Chicago",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -2267,10 +2269,10 @@
       ]
     },
     {
-      "id": "canonical:7286f2830b7e7578",
+      "id": "canonical:46205b9335861e9c",
       "title": "Campus UI Software Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019",
-      "location": "Chicago",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7974943",
+      "location": "London",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -5443,18 +5445,6 @@
       "scoreReasons": []
     },
     {
-      "id": "canonical:752ffb3413143586",
-      "title": "Graduate Process Improvement Manager - Alessandria, EU ICQA",
-      "url": "https://amazon.jobs/en/jobs/3201147/graduate-process-improvement-manager-alessandria-eu-icqa",
-      "location": "Alessandria",
-      "department": "Fulfillment & Operations Management",
-      "company": "Amazon",
-      "score": 56,
-      "scoreReasons": [
-        "new grad"
-      ]
-    },
-    {
       "id": "canonical:2eebb657e4672157",
       "title": "Software Dev Engineer Intern, (Sustaining Operations) 2026 Shanghai",
       "url": "https://amazon.jobs/en/jobs/10376736/software-dev-engineer-intern-sustaining-operations-2026-shanghai",
@@ -5589,18 +5579,6 @@
       "company": "Amazon",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:0140bd7ed5a4e520",
-      "title": "Graduate Area/Shift Manager - Pisa",
-      "url": "https://amazon.jobs/en/jobs/3188169/graduate-area-shift-manager-pisa",
-      "location": "Pisa",
-      "department": "Fulfillment & Operations Management",
-      "company": "Amazon",
-      "score": 56,
-      "scoreReasons": [
-        "new grad"
-      ]
     },
     {
       "id": "canonical:ed5a3140fa64e38e",
@@ -9953,18 +9931,6 @@
       ]
     },
     {
-      "id": "canonical:1782ca39c8f2f506",
-      "title": "Collections Data Analyst Intern",
-      "url": "https://careers.tranetechnologies.com/global/en/job/JR-4222",
-      "location": "Winona, MN",
-      "department": "AI/ML/Data",
-      "company": "Trane Technologies",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:afc9f49cbd23b95f",
       "title": "Associate Product Manager Intern",
       "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--September-2026-12-Months-_R10041",
@@ -14168,18 +14134,6 @@
       "location": "Fort Wayne, IN",
       "department": "AI/ML/Data",
       "company": "Truland Equipment",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:4d3f2d2457092a66",
-      "title": "Manufacturing Test Software Intern",
-      "url": "https://careers.formlabs.com/job/8021679/apply/?gh_jid=8021679",
-      "location": "Cambridge, MA",
-      "department": "Software",
-      "company": "Formlabs",
       "score": 60,
       "scoreReasons": [
         "high-signal role"
@@ -21319,6 +21273,70 @@
       ]
     },
     {
+      "id": "canonical:b7e2b2dbebb1a7cb",
+      "title": "R&D- Computer Vision Engineering Intern",
+      "url": "https://magna.wd3.myworkdayjobs.com/Magna/job/Troy-Michigan-US/R-D--Computer-Vision-Engineering-Intern_R00253444-1",
+      "location": "Troy, Michigan, US",
+      "department": "Data & ML/AI / Summer 2027",
+      "company": "Magna International",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:b4058c23693f9118",
+      "title": "Data Analytics / Data Science Intern",
+      "url": "https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/192734",
+      "location": "Lake Success, Nassau, United States",
+      "department": "Data & ML/AI / Summer 2027",
+      "company": "Northwell Health",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:0e6f0662a18170b5",
+      "title": "Autonomous Driving – Internship in Machine Learning",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000139649345",
+      "location": "Sunnyvale, CA, United States",
+      "department": "Data & ML/AI / Summer 2027",
+      "company": "Robert Bosch Venture Capital",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:41caa2ccbcb2071a",
+      "title": "Powertrain Controls Software Engineering Intern",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000139639579",
+      "location": "Farmington Hills, MI, United States",
+      "department": "Software / Summer 2027",
+      "company": "Robert Bosch Venture Capital",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:8dd11d540cc523a9",
+      "title": "Data & AI Finance Strategy Intern - Fall 2026 Internship Remote",
+      "url": "https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Data---AI-Finance-Strategy-Intern---Fall-2026-Internship-Remote_JR-103073",
+      "location": "Virginia Beach, VA",
+      "department": "Data & ML/AI / Fall 2026",
+      "company": "Sentara Health",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:98d169a93517ae1a",
       "title": "Software Engineering Intern (Summer 2027)",
       "url": "https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05",
@@ -21466,6 +21484,20 @@
       ]
     },
     {
+      "id": "canonical:bed45dec59abc364",
+      "title": "AI Software Development Engineer - Intern",
+      "url": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/AI-Software-Development-Engineer---Intern_R02707",
+      "location": "San Jose, California, United States",
+      "department": "Data & ML/AI / Summer 2027",
+      "company": "Altera Corporation",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:22cf3f38abcae45e",
       "title": "AI Operations Intern - Naukr AI",
       "url": "https://jobs.lever.co/acds/41bee5e2-6477-428f-b359-34b4071d545f",
@@ -21586,7 +21618,7 @@
     },
     {
       "id": "canonical:fe10f6277c3a3f8b",
-      "title": "Software QA Tester Intern/Co-op (Fall 2026)",
+      "title": "Software QA Tester Intern/Co-op",
       "url": "https://job-boards.greenhouse.io/charlesriveranalytics90/jobs/8035563",
       "location": "Cambridge, MA",
       "department": "Software / Fall 2026",
