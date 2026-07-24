@@ -1,6 +1,6 @@
 # Open Internships
 
-**1564** internships across **79/80** companies — last updated 2026-07-23.
+**1562** internships across **79/80** companies — last updated 2026-07-24.
 
 ## Companies
 
@@ -370,7 +370,7 @@
 - [Nio](#nio) (3)
 - [Nissan Global](#nissan-global) (1)
 - [Niural](#niural) (1)
-- [Nokia](#nokia) (2)
+- [Nokia](#nokia) (1)
 - [Northwestern Mutual](#northwestern-mutual) (2)
 - [Notion](#notion) (5)
 - [NVIDIA](#nvidia) (5)
@@ -455,7 +455,6 @@
 - [Schonfeld](#schonfeld) (4)
 - [Schweitzer Engineering Laboratories](#schweitzer-engineering-laboratories) (2)
 - [SCOR](#scor) (1)
-- [Seaspan](#seaspan) (1)
 - [Sentara Health](#sentara-health) (1)
 - [Serval](#serval) (1)
 - [Seven Research](#seven-research) (4)
@@ -3323,7 +3322,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Product Development Intern/Co-op](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34184) | 50 | Ottawa, ON, Canada | Product | 2026-06-11 |
 | [Embedded C/C++ Software Developer Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35268) | 85 | Ottawa, ON, Canada | Hardware | 2026-05-20 |
 
 ## Northwestern Mutual
@@ -4006,12 +4004,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Databricks & Palantir Analytics Graduate Trainee](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/4840) | 66 | London, UK | AI/ML/Data | 2026-07-20 |
-
-## Seaspan
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Digital Ship Intern](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8754) | 60 | Vancouver, BC, Canada | Software | 2026-06-08 |
 
 ## Sentara Health
 

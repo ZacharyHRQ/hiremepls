@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-23T23:35:05.953Z",
+  "generatedAt": "2026-07-24T01:05:35.546Z",
   "companyCount": 80,
   "okCount": 79,
-  "jobCount": 1564,
+  "jobCount": 1562,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -344,7 +344,6 @@
     "canonical:e8d4f3f5b0ae7484": "2026-06-08T07:01:35.019Z",
     "canonical:782cfcad8628b60f": "2026-06-08T07:01:35.019Z",
     "canonical:5954b7a93f23c25a": "2026-06-08T07:01:35.019Z",
-    "canonical:031e3abdc8ee9ccc": "2026-06-08T12:06:41.807Z",
     "canonical:80d8b55bc00c3b4c": "2026-06-08T23:57:00.045Z",
     "canonical:3f94a7964c2e6f0f": "2026-06-08T23:57:00.045Z",
     "canonical:97a6914dba9e6da7": "2026-06-08T23:57:00.045Z",
@@ -362,7 +361,6 @@
     "canonical:48afc5e5298e0d91": "2026-06-11T11:07:45.069Z",
     "canonical:17f48dbc6cffe995": "2026-06-11T11:07:45.069Z",
     "canonical:c8b6b3b53807f1b9": "2026-06-11T11:07:45.069Z",
-    "canonical:8f5214849f9398a5": "2026-06-11T11:07:45.069Z",
     "canonical:f669100424c0bd48": "2026-06-11T11:07:45.069Z",
     "canonical:8bb3fdfb8f3776da": "2026-06-11T11:07:45.069Z",
     "canonical:627ecb13b3a05166": "2026-06-11T11:07:45.069Z",
@@ -12259,18 +12257,6 @@
       ]
     },
     {
-      "id": "canonical:031e3abdc8ee9ccc",
-      "title": "Digital Ship Intern",
-      "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8754",
-      "location": "Vancouver, BC, Canada",
-      "department": "Software",
-      "company": "Seaspan",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:c8e10a577ab2a8bf",
       "title": "Grid Automation & Software Intern",
       "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041709",
@@ -12680,16 +12666,6 @@
         "high-signal role",
         "direct ATS"
       ]
-    },
-    {
-      "id": "canonical:8f5214849f9398a5",
-      "title": "Product Development Intern/Co-op",
-      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34184",
-      "location": "Ottawa, ON, Canada",
-      "department": "Product",
-      "company": "Nokia",
-      "score": 50,
-      "scoreReasons": []
     },
     {
       "id": "canonical:f669100424c0bd48",
