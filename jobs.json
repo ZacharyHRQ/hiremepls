@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-24T04:28:45.651Z",
+  "generatedAt": "2026-07-24T07:06:55.054Z",
   "companyCount": 80,
   "okCount": 79,
-  "jobCount": 1564,
+  "jobCount": 1568,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1398,7 +1398,6 @@
     "canonical:cc65309c51a0f196": "2026-07-22T01:04:17.268Z",
     "canonical:b76f80c6e44d295b": "2026-07-22T01:04:17.268Z",
     "canonical:59545eac26b00b96": "2026-07-22T01:04:17.268Z",
-    "canonical:39d18e8215d3f2ee": "2026-07-22T01:04:17.268Z",
     "canonical:09305d61718c8a08": "2026-07-22T01:04:17.268Z",
     "canonical:dc88457b3359d992": "2026-07-22T01:04:17.268Z",
     "canonical:c732f09cdb180531": "2026-07-22T01:04:17.268Z",
@@ -1567,7 +1566,12 @@
     "canonical:28ebf9f9488e14ee": "2026-07-23T23:35:05.953Z",
     "canonical:e8eb36641706c2d0": "2026-07-24T04:28:45.651Z",
     "canonical:3a0280cd297d1f55": "2026-07-24T04:28:45.651Z",
-    "canonical:2a60758eae4f91e1": "2026-07-24T04:28:45.651Z"
+    "canonical:2a60758eae4f91e1": "2026-07-24T04:28:45.651Z",
+    "canonical:f4c12efc66c30df0": "2026-07-24T07:06:55.054Z",
+    "canonical:91640f77cbe334f9": "2026-07-24T07:06:55.054Z",
+    "canonical:f2a5fd73d6708d31": "2026-07-24T07:06:55.054Z",
+    "canonical:1b5eaf8dba2ab591": "2026-07-24T07:06:55.054Z",
+    "canonical:98d169a93517ae1a": "2026-07-24T07:06:55.054Z"
   },
   "jobs": [
     {
@@ -4004,6 +4008,42 @@
       ]
     },
     {
+      "id": "canonical:57a83ce2e217c172",
+      "title": "Marketing AI Specialist Intern, Amazon Global Selling",
+      "url": "https://amazon.jobs/en/jobs/10482212/marketing-ai-specialist-intern-amazon-global-selling",
+      "location": "Taipei",
+      "department": "Marketing & PR",
+      "company": "Amazon",
+      "score": 30,
+      "scoreReasons": [
+        "lower-fit title"
+      ]
+    },
+    {
+      "id": "canonical:f4c12efc66c30df0",
+      "title": "Product Marketing AI Specialist Intern, Amazon Global Selling",
+      "url": "https://amazon.jobs/en/jobs/10483215/product-marketing-ai-specialist-intern-amazon-global-selling",
+      "location": "Shanghai",
+      "department": "Marketing & PR",
+      "company": "Amazon",
+      "score": 30,
+      "scoreReasons": [
+        "lower-fit title"
+      ]
+    },
+    {
+      "id": "canonical:91640f77cbe334f9",
+      "title": "Product Marketing AI Specialist Intern, Compliance, Amazon Global Selling",
+      "url": "https://amazon.jobs/en/jobs/10483214/product-marketing-ai-specialist-intern-compliance-amazon-global-selling",
+      "location": "Shanghai",
+      "department": "Marketing & PR",
+      "company": "Amazon",
+      "score": 30,
+      "scoreReasons": [
+        "lower-fit title"
+      ]
+    },
+    {
       "id": "canonical:efae17b38f305c76",
       "title": "Graduate Shift Manager - near Villingen-Schwenningen, Baden-Württemberg",
       "url": "https://amazon.jobs/en/jobs/10482494/graduate-shift-manager-near-villingen-schwenningen-baden-wurttemberg",
@@ -4046,18 +4086,6 @@
       "company": "Amazon",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:57a83ce2e217c172",
-      "title": "Marketing AI Specialist Intern, Amazon Global Selling",
-      "url": "https://amazon.jobs/en/jobs/10482212/marketing-ai-specialist-intern-amazon-global-selling",
-      "location": "Taipei",
-      "department": "Sales, Advertising, & Account Management",
-      "company": "Amazon",
-      "score": 30,
-      "scoreReasons": [
-        "lower-fit title"
-      ]
     },
     {
       "id": "canonical:6dd39ca62649568c",
@@ -6045,7 +6073,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -8311,6 +8339,18 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f2a5fd73d6708d31",
+      "title": "Controls Application Engineering Intern",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Stafford/Controls-Application-Engineering-Intern_R5035278-2",
+      "location": "Stoke-on-Trent, UK",
+      "department": "Hardware",
+      "company": "GE Vernova",
+      "score": 58,
+      "scoreReasons": [
         "direct ATS"
       ]
     },
@@ -16748,19 +16788,6 @@
       ]
     },
     {
-      "id": "canonical:39d18e8215d3f2ee",
-      "title": "Cost and Data Analyst Intern",
-      "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/CAONMississauga2251-Speakman-Drive/Cost-and-Data-Analyst-Student---Fall_R-158933",
-      "location": "Mississauga, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "AtkinsRéalis",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:c8a575c78cf2837d",
       "title": "Energy Battery Firmware Intern - Software Engineer - Energy Engineering",
       "url": "https://www.tesla.com/careers/search/job/276987",
@@ -18800,6 +18827,19 @@
       "location": "Stamford, CT",
       "department": "Quant",
       "company": "Group 1001",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1b5eaf8dba2ab591",
+      "title": "Software Engineering Intern",
+      "url": "https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05/application?embed=true",
+      "location": "NYC",
+      "department": "Software",
+      "company": "Quadrillion",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -21097,6 +21137,19 @@
       "score": 42,
       "scoreReasons": [
         "aggregator link"
+      ]
+    },
+    {
+      "id": "canonical:98d169a93517ae1a",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05",
+      "location": "New York City",
+      "department": "Software / Summer 2027",
+      "company": "Quadrillion",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {

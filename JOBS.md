@@ -1,6 +1,6 @@
 # Open Internships
 
-**1564** internships across **79/80** companies — last updated 2026-07-24.
+**1568** internships across **79/80** companies — last updated 2026-07-24.
 
 ## Companies
 
@@ -22,7 +22,7 @@
 - [AlixPartners](#alixpartners) (1)
 - [Altasciences](#altasciences) (2)
 - [Altom Transport](#altom-transport) (2)
-- [Amazon](#amazon) (164)
+- [Amazon](#amazon) (166)
 - [Ambarella](#ambarella) (8)
 - [Amentum](#amentum) (1)
 - [American Enterprise Institute](#american-enterprise-institute) (2)
@@ -55,7 +55,6 @@
 - [Astera](#astera) (2)
 - [Astera Labs](#astera-labs) (3)
 - [Astranis](#astranis) (11)
-- [AtkinsRéalis](#atkinsr-alis) (1)
 - [Atomic Semi](#atomic-semi) (3)
 - [Auctor](#auctor) (1)
 - [Autodesk](#autodesk) (4)
@@ -225,7 +224,7 @@
 - [Fussball Club Cincinnati LLC (“FC Cincinnati”)](#fussball-club-cincinnati-llc-fc-cincinnati) (1)
 - [G-Research](#g-research) (4)
 - [GE Healthcare](#ge-healthcare) (2)
-- [GE Vernova](#ge-vernova) (4)
+- [GE Vernova](#ge-vernova) (5)
 - [Geisinger](#geisinger) (1)
 - [Gemini](#gemini) (1)
 - [Generac](#generac) (2)
@@ -423,6 +422,7 @@
 - [PsiQuantum](#psiquantum) (1)
 - [Pylon](#pylon) (1)
 - [Quadric](#quadric) (3)
+- [Quadrillion](#quadrillion) (2)
 - [QuantCo](#quantco) (1)
 - [Radix Trading](#radix-trading) (1)
 - [Rainmaker](#rainmaker) (1)
@@ -694,10 +694,12 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Product Marketing AI Specialist Intern, Amazon Global Selling](https://amazon.jobs/en/jobs/10483215/product-marketing-ai-specialist-intern-amazon-global-selling) | 30 | Shanghai | Marketing & PR | 2026-07-24 |
+| [Product Marketing AI Specialist Intern, Compliance, Amazon Global Selling](https://amazon.jobs/en/jobs/10483214/product-marketing-ai-specialist-intern-compliance-amazon-global-selling) | 30 | Shanghai | Marketing & PR | 2026-07-24 |
 | [Technical Business Developer Intern, 2026 Hong Kong](https://amazon.jobs/en/jobs/10394507/technical-business-developer-intern-2026-hong-kong) | 50 | Hong Kong | Project/Program/Product Management--Technical | 2026-07-24 |
 | [Graduate Shift Manager - near München](https://amazon.jobs/en/jobs/10482491/graduate-shift-manager-near-munchen) | 56 | Moosburg | Fulfillment & Operations Management | 2026-07-23 |
 | [Graduate Shift Manager - near Villingen-Schwenningen, Baden-Württemberg](https://amazon.jobs/en/jobs/10482494/graduate-shift-manager-near-villingen-schwenningen-baden-wurttemberg) | 56 | Messkirch | Fulfillment & Operations Management | 2026-07-23 |
-| [Marketing AI Specialist Intern, Amazon Global Selling](https://amazon.jobs/en/jobs/10482212/marketing-ai-specialist-intern-amazon-global-selling) | 30 | Taipei | Sales, Advertising, & Account Management | 2026-07-23 |
+| [Marketing AI Specialist Intern, Amazon Global Selling](https://amazon.jobs/en/jobs/10482212/marketing-ai-specialist-intern-amazon-global-selling) | 30 | Taipei | Marketing & PR | 2026-07-23 |
 | [Graduate HR Partner](https://amazon.jobs/en/jobs/10467286/graduate-hr-partner) | 56 | Barcelona | Administrative Support | 2026-07-21 |
 | [2026 Graduate Software Dev Engineer](https://amazon.jobs/en/jobs/10386987/2026-graduate-software-dev-engineer) | 91 | Haifa | Software Development | 2026-07-20 |
 | [软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years)](https://amazon.jobs/en/jobs/10399403/new-graduate-or-entry-level-engineer-0-2-years) | 91 | Beijing | Software Development | 2026-07-20 |
@@ -1101,12 +1103,6 @@
 | [Software Engineer-Backend Intern](https://job-boards.greenhouse.io/astranis/jobs/4681183006) | 93 | SF | Software | 2026-05-14 |
 | [Assembly and Test Intern - Integration](https://job-boards.greenhouse.io/astranis/jobs/4679080006) | 58 | SF | Hardware | 2026-05-14 |
 | [Reliability Test Intern](https://job-boards.greenhouse.io/astranis/jobs/4677973006) | 58 | SF | Hardware | 2026-05-09 |
-
-## AtkinsRéalis
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Cost and Data Analyst Intern](https://slihrms.wd3.myworkdayjobs.com/careers/job/CAONMississauga2251-Speakman-Drive/Cost-and-Data-Analyst-Student---Fall_R-158933) | 68 | Mississauga, ON, Canada | AI/ML/Data | 2026-07-22 |
 
 ## Atomic Semi
 
@@ -1697,7 +1693,7 @@
 | [Technical Support Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8041135?gh_jid=8041135) | 58 | In-Office | — | 2026-07-03 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
 | [Sales Project Manager Intern (AI Innovation) (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8020830?gh_jid=8020830) | 38 | In-Office | — | 2026-06-23 |
 
 ## Cloudforce
@@ -2310,6 +2306,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Controls Application Engineering Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Stafford/Controls-Application-Engineering-Intern_R5035278-2) | 58 | Stoke-on-Trent, UK | Hardware | 2026-07-24 |
 | [Grid Automation & Software Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041709) | 68 | United States | Software | 2026-07-21 |
 | [Grid Automation & Software Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041706-3) | 68 | Remote in USA | Software | 2026-07-21 |
 | [GE Vernova Grid Automation Product Management Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Grid-Automation-Product-Management-Intern---Fall-2026_R5035460-3) | 58 | Rochester, NY | Product | 2026-07-21 |
@@ -3781,6 +3778,13 @@
 | [AI Inference Engineer Intern - Model Pruning](https://apply.workable.com/quadric-dot-i-o-inc/j/870833317E/apply) | 93 | Burlingame, CA | AI/ML/Data | 2026-05-23 |
 | [AI Kernel Engineer Intern - Kernel Optimization](https://apply.workable.com/quadric-dot-i-o-inc/j/6BEF4752B5/apply) | 83 | Burlingame, CA | Hardware | 2026-05-23 |
 | [Design Verification Intern](https://apply.workable.com/quadric-dot-i-o-inc/j/AAE0675990/apply) | 58 | Burlingame, CA | Hardware | 2026-05-19 |
+
+## Quadrillion
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineering Intern](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05/application?embed=true) | 68 | NYC | Software | 2026-07-24 |
+| [Software Engineering Intern (Summer 2027)](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05) | 68 | New York City | Software / Summer 2027 | 2026-07-24 |
 
 ## QuantCo
 

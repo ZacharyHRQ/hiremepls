@@ -196,8 +196,8 @@
     "8044395",
     "8054093",
     "8053546",
-    "8031027",
     "8013562",
+    "8031027",
     "7796077",
     "8020830",
     "8052785",
@@ -1311,6 +1311,7 @@
   ],
   "Wayve": [],
   "zshah101 Summer 2027/Fall 2026": [
+    "github-json:zshah101-summer-2027-fall-2026:ashby:quadrillion-labs:a4acc44c-31ce-41a0-ab44-2500487b4d05",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:astranis:4699071006",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:appian:8041237",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:tenstorrentuniversity:5186916007",
@@ -1480,11 +1481,13 @@
     "5187605007"
   ],
   "Amazon": [
+    "10482212",
+    "10483215",
+    "10483214",
     "10482494",
     "10482491",
     "10394248",
     "10394156",
-    "10482212",
     "10467273",
     "10467286",
     "3078635",
@@ -1813,6 +1816,7 @@
     "simplify:f4ab5c55-fdaa-4b85-bae6-d22f9b18e7ce",
     "simplify:f2003bcd-3a85-486f-ab57-496ec1a066b8",
     "simplify:68e0f4f7-a759-4ad0-b621-9e31a714f39f",
+    "simplify:2bfd1c4d-795c-497f-b0d6-1d455cd67aeb",
     "simplify:871ea091-c41d-4cff-88d4-49f6877d63e5",
     "simplify:ab5fa332-ca73-429e-83d4-712536d312df",
     "simplify:767e5cb4-c607-49eb-a7be-20f99eec0c61",
@@ -1827,6 +1831,7 @@
     "simplify:df3c511f-ea8d-40ab-9614-aebb2dedd305",
     "simplify:4261438c-b2b0-4cdc-a13d-9642454eef75",
     "simplify:cce7f674-04ef-491a-8e8d-9adbfff6a06f",
+    "simplify:7439f59d-7849-4135-905d-ac5f88ad7b9b",
     "simplify:72234fcf-6866-4797-aa4b-afd49f2e7924",
     "simplify:c5d99aec-a24e-48a7-a680-3954ba770c54",
     "simplify:5e4572a4-e876-4056-a421-eab41b69f824",
@@ -2546,7 +2551,6 @@
     "simplify:eb1d24c5-f96d-49eb-88c4-9c78d81659f8",
     "simplify:b7ce9d33-8b07-4a15-9258-6067fd375c26",
     "simplify:ec5ff4c9-5e03-4eb3-854e-5f9967c79b46",
-    "simplify:eca14cf3-9cb2-4442-9923-14a6d67b70fd",
     "simplify:ce535c93-f706-49f8-98ac-5f72c9bd6729",
     "simplify:794a6e37-b706-4b81-b622-a436e5852cad",
     "simplify:6b1b10ea-f6d5-4ef2-893e-11b5c623b352",
@@ -2715,6 +2719,7 @@
     "simplify:31b95070-c5a6-4523-b7d4-54fbaa062677",
     "simplify:f4b6208a-2701-4f97-bf10-b54704e67c32",
     "simplify:5715d5fe-76a4-46e6-9cea-0b6ab4f8fc11",
-    "simplify:a5aa45ee-0926-4b52-be7d-2da9c0da54da"
+    "simplify:a5aa45ee-0926-4b52-be7d-2da9c0da54da",
+    "simplify:53663e4c-42be-4d2a-ba0f-ac7a0d65da22"
   ]
 }
