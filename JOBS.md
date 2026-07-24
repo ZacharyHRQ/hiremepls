@@ -1,6 +1,6 @@
 # Open Internships
 
-**1578** internships across **79/80** companies — last updated 2026-07-24.
+**1585** internships across **79/80** companies — last updated 2026-07-24.
 
 ## Companies
 
@@ -21,7 +21,6 @@
 - [Al Warren Oil Company](#al-warren-oil-company) (1)
 - [AlixPartners](#alixpartners) (1)
 - [Altasciences](#altasciences) (2)
-- [Altera Corporation](#altera-corporation) (1)
 - [Altom Transport](#altom-transport) (2)
 - [Amazon](#amazon) (167)
 - [Ambarella](#ambarella) (8)
@@ -95,7 +94,7 @@
 - [Bombardier](#bombardier) (1)
 - [BorgWarner](#borgwarner) (1)
 - [Bosch](#bosch) (2)
-- [Bosch Home Comfort](#bosch-home-comfort) (3)
+- [Bosch Home Comfort](#bosch-home-comfort) (4)
 - [Boston Consulting Group](#boston-consulting-group) (2)
 - [Bot Auto](#bot-auto) (1)
 - [Bree](#bree) (1)
@@ -143,7 +142,7 @@
 - [Context](#context) (1)
 - [Cooper Companies](#cooper-companies) (1)
 - [Copart](#copart) (5)
-- [Core & Main](#core-main) (1)
+- [Core & Main](#core-main) (2)
 - [Cotiviti](#cotiviti) (3)
 - [Creatify Lab ](#creatify-lab) (1)
 - [Cresta](#cresta) (2)
@@ -233,7 +232,6 @@
 - [Ginkgo Bioworks](#ginkgo-bioworks) (2)
 - [Gitar, Inc.](#gitar-inc) (1)
 - [Global Infrastructure](#global-infrastructure) (1)
-- [Golden Pet Brands](#golden-pet-brands) (1)
 - [Google](#google) (1)
 - [Grant Thornton](#grant-thornton) (1)
 - [Green Planet Solutions](#green-planet-solutions) (1)
@@ -310,7 +308,6 @@
 - [Landis+Gyr](#landis-gyr) (1)
 - [Lawrence Livermore National Laboratory (LLNL)](#lawrence-livermore-national-laboratory-llnl) (3)
 - [Lensa](#lensa) (3)
-- [LexisNexis Risk Solutions](#lexisnexis-risk-solutions) (1)
 - [LinkedIn](#linkedin) (3)
 - [Littelfuse](#littelfuse) (1)
 - [Louisiana State University (LSU)](#louisiana-state-university-lsu) (1)
@@ -369,7 +366,7 @@
 - [Niural](#niural) (1)
 - [Nokia](#nokia) (1)
 - [Northwell Health](#northwell-health) (1)
-- [Northwestern Mutual](#northwestern-mutual) (2)
+- [Northwestern Mutual](#northwestern-mutual) (3)
 - [Notion](#notion) (5)
 - [NVIDIA](#nvidia) (2)
 - [NXP Semiconductors](#nxp-semiconductors) (2)
@@ -387,7 +384,8 @@
 - [Orennia](#orennia) (1)
 - [Outpost Technologies](#outpost-technologies) (1)
 - [Output Biosciences](#output-biosciences) (2)
-- [Palantir](#palantir) (64)
+- [Palantir](#palantir) (65)
+- [Palantir Technologies](#palantir-technologies) (2)
 - [Palo Alto Networks](#palo-alto-networks) (1)
 - [Paragon](#paragon) (1)
 - [PathAI](#pathai) (1)
@@ -436,11 +434,11 @@
 - [Rise8](#rise8) (1)
 - [Rivian](#rivian) (3)
 - [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (14)
-- [Robert Bosch Venture Capital](#robert-bosch-venture-capital) (2)
+- [Robert Bosch Venture Capital](#robert-bosch-venture-capital) (1)
 - [Robinhood](#robinhood) (1)
 - [RoboForce](#roboforce) (1)
 - [Rockwell Automation](#rockwell-automation) (1)
-- [ROCKWOOL Group](#rockwool-group) (1)
+- [ROCKWOOL Group](#rockwool-group) (2)
 - [Royal Bank of Canada](#royal-bank-of-canada) (3)
 - [RTX](#rtx) (1)
 - [Samaya](#samaya) (1)
@@ -517,6 +515,7 @@
 - [Tradeweb](#tradeweb) (1)
 - [TransMarket Group](#transmarket-group) (3)
 - [Trata](#trata) (1)
+- [Trillium](#trillium) (3)
 - [Truland Equipment](#truland-equipment) (1)
 - [Two Six Technologies](#two-six-technologies) (1)
 - [Uber](#uber) (1)
@@ -524,7 +523,7 @@
 - [Uncountable](#uncountable) (1)
 - [Unisys](#unisys) (1)
 - [United Parcel Service (UPS)](#united-parcel-service-ups) (1)
-- [University of Texas at Austin](#university-of-texas-at-austin) (3)
+- [University of Texas at Austin](#university-of-texas-at-austin) (4)
 - [University of Virginia](#university-of-virginia) (1)
 - [University System of New Hampshire](#university-system-of-new-hampshire) (1)
 - [Vanguard](#vanguard) (1)
@@ -679,12 +678,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://altasciences.wd1.myworkdayjobs.com/Careers/job/Overland-Park-Kansas/Process-Innovation---Software-Engineering-Intern_R102750) | 93 | Overland Park, KS | Software | 2026-07-22 |
 | [Process Innovation Product Management Intern](https://altasciences.wd1.myworkdayjobs.com/Careers/job/Laval-Quebec/Process-Innovation---Product-Management-Intern_R102753) | 58 | Laval, QC, Canada / Overland Park, KS | Product | 2026-07-21 |
-
-## Altera Corporation
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI Software Development Engineer - Intern](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/AI-Software-Development-Engineer---Intern_R02707) | 93 | San Jose, California, United States | Data & ML/AI / Summer 2027 | 2026-07-24 |
 
 ## Altom Transport
 
@@ -1361,6 +1354,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Autonomous Driving Intern](https://jobs.smartrecruiters.com/BoschGroup/744000139649345) | 68 | Sunnyvale, CA | AI/ML/Data | 2026-07-24 |
 | [Research Intern](https://jobs.smartrecruiters.com/BoschGroup/744000136313549) | 68 | Sunnyvale, CA | AI/ML/Data | 2026-07-07 |
 | [A.1. Integration Intern](https://jobs.smartrecruiters.com/BoschGroup/744000134840254) | 68 | Columbia City, IN | AI/ML/Data | 2026-07-02 |
 | [Hardware Prototyping Intern - Data Center Rack](https://jobs.smartrecruiters.com/BoschGroup/744000134543799) | 58 | Sunnyvale, CA | Hardware | 2026-07-02 |
@@ -1750,6 +1744,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data Engineering Intern](https://coreandmain.wd1.myworkdayjobs.com/en-US/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804) | 68 | St. Louis, MO | AI/ML/Data | 2026-07-24 |
 | [Intern - AI/ML Data Engineering  -  Onsite - St. Louis](https://coreandmain.wd1.myworkdayjobs.com/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804) | 68 | Saint Louis, MO 63146 | Data & ML/AI / Summer 2027 | 2026-07-24 |
 
 ## Cotiviti
@@ -2355,12 +2350,6 @@
 | --- | --- | --- | --- | --- |
 | [Alternative Delivery Project Analytics Intern](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--IL--Chicago---200-South-Wacker-Drive/Alternative-Delivery-Project-Analytics-Intern_5963-1) | 68 | Chicago, IL | AI/ML/Data | 2026-07-07 |
 
-## Golden Pet Brands
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Analytics Intern](https://job-boards.greenhouse.io/goldenpetbrands/jobs/4713182005) | 68 | Remote in USA | AI/ML/Data | 2026-07-23 |
-
 ## Google
 
 | Title | Score | Location | Department | First seen |
@@ -2930,12 +2919,6 @@
 | [2026 Summer Internship Program - Investment Banking](https://www.linkedin.com/jobs/view/4257296455) | 42 | Baltimore, MD | — | 2026-07-09 |
 | [Accounting Internship Summer 2026](https://lensa.com/job-application-accounting-internship-summer-2026-in-wayne-pa/cpc-jd-v3/bdd3c15c3b73ec0e9b7e0b5b4cbefe35453222188f523f433d39e72a3abd4740?tr=b4a83a7f255547c9982fd106a9550d5aincc1&utm_source=linkedin&utm_medium=slot&utm_campaign=Financial+Specialists&utm_term=jse) | 22 | Wayne, PA | — | 2026-07-09 |
 
-## LexisNexis Risk Solutions
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Editorial Data Reporting Intern](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1) | 68 | Remote in USA | AI/ML/Data | 2026-07-24 |
-
 ## LinkedIn
 
 | Title | Score | Location | Department | First seen |
@@ -3329,12 +3312,13 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Data Analytics / Data Science Intern](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/192734) | 60 | Lake Success, Nassau, United States | Data & ML/AI / Summer 2027 | 2026-07-24 |
+| [Data Analytics / Data Science Intern](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/192734) | 60 | Manhasset, NY | AI/ML/Data | 2026-07-24 |
 
 ## Northwestern Mutual
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Investment Analyst Intern - Private Debt & Equity](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Analyst-Intern---Private-Debt---Equity--Summer-2027_JR-45705) | 68 | Milwaukee, WI | Quant | 2026-07-24 |
 | [Analytics Intern](https://jobs.smartrecruiters.com/NorthwesternMutual/85751677) | 68 | Milwaukee, WI | AI/ML/Data | 2026-05-09 |
 | [Application Development Intern](https://jobs.smartrecruiters.com/NorthwesternMutual/85751711) | 68 | Milwaukee, WI | Software | 2026-05-09 |
 
@@ -3470,6 +3454,9 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Forward Deployed Infrastructure Engineer, New Grad - US Government](https://jobs.lever.co/palantir/33243fb5-6907-40c7-930c-968b25d825d0) | 99 | Palo Alto, CA | Delta | 2026-07-24 |
+| [Forward Deployed Infrastructure Engineer, New Grad - US Government](https://jobs.lever.co/palantir/5a28f3a5-8655-47f2-ab19-a79b8a319da8) | 99 | Washington, D.C. | Delta | 2026-07-24 |
+| [Forward Deployed Infrastructure Engineer, New Grad - US Government](https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8) | 99 | New York, NY | Delta | 2026-07-24 |
 | [Forward Deployed Software Engineer, New Grad - Commercial](https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728) | 99 | New York, NY | Delta | 2026-07-20 |
 | [Forward Deployed Software Engineer, New Grad - Commercial](https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40) | 99 | Chicago, IL | Delta | 2026-07-20 |
 | [Forward Deployed Software Engineer, New Grad - Intel, US Government](https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382) | 99 | Washington, D.C. | Delta | 2026-07-20 |
@@ -3485,9 +3472,7 @@
 | [Software Engineer, New Grad - Production Infrastructure](https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6) | 99 | Washington, D.C. | Dev | 2026-07-20 |
 | [Software Engineer, New Grad - Production Infrastructure](https://jobs.lever.co/palantir/4d5a144e-87ea-45e2-a68c-3fad590629af) | 99 | Seattle, WA | Dev | 2026-07-20 |
 | [Software Engineer, New Grad - Production Infrastructure](https://jobs.lever.co/palantir/e1a6c138-98bf-45e2-97f7-2c70371cc38a) | 99 | New York, NY | Dev | 2026-07-20 |
-| [Forward Deployed Infrastructure Engineer, Internship - US Government](https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9) | 93 | Washington, D.C. | Delta | 2026-07-20 |
-| [Forward Deployed Infrastructure Engineer, Internship - US Government](https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69) | 93 | Palo Alto, CA | Delta | 2026-07-20 |
-| [Forward Deployed Infrastructure Engineer, Internship - US Government](https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b) | 93 | New York, NY | Delta | 2026-07-20 |
+| [Forward Deployed Infrastructure Engineer, Internship - US Government](https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9) | 93 | Washington, D.C. | Software / Summer 2027 | 2026-07-20 |
 | [Forward Deployed Software Engineer Intern - Commercial](https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6/apply) | 93 | NYC | Software | 2026-07-20 |
 | [Forward Deployed Software Engineer Intern - Defense Tech](https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b/apply) | 93 | Washington, DC | Software | 2026-07-20 |
 | [Forward Deployed Software Engineer Intern - Intel](https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89/apply) | 93 | Washington, DC | Software | 2026-07-20 |
@@ -3534,6 +3519,13 @@
 | [Year at Palantir Intern - Forward Deployed Software Engineer - Commercial](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d/apply) | 93 | NYC | Software | 2026-05-14 |
 | [Forward Deployed Software Engineer Intern](https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9/apply) | 93 | NYC | Software | 2026-05-09 |
 | [Deployment Strategist, Internship - US Government](https://jobs.lever.co/palantir/a49d4181-a289-435a-b581-7f5af0497c8e) | 58 | Honolulu, HI | Echo | 2026-05-09 |
+
+## Palantir Technologies
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Forward Deployed Infrastructure Engineer Intern](https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b) | 93 | New York, NY | — | 2026-07-24 |
+| [Forward Deployed Infrastructure Engineer Intern](https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69) | 93 | Palo Alto, CA | — | 2026-07-24 |
 
 ## Palo Alto Networks
 
@@ -3900,7 +3892,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Autonomous Driving – Internship in Machine Learning](https://jobs.smartrecruiters.com/BoschGroup/744000139649345) | 68 | Sunnyvale, CA, United States | Data & ML/AI / Summer 2027 | 2026-07-24 |
 | [Wireless Sensing Research Intern](https://jobs.smartrecruiters.com/BoschGroup/744000121477597) | 68 | Sunnyvale, CA | AI/ML/Data | 2026-05-09 |
 
 ## Robinhood
@@ -3925,6 +3916,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Paint & Coating Intern](https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Mono---Paint---Coating-Intern_R0035879) | 58 | Chicago, IL | Product | 2026-07-24 |
 | [Product Management Intern](https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Product-Management---Intern_R0035795) | 58 | Chicago, IL | Product | 2026-07-22 |
 
 ## Royal Bank of Canada
@@ -4624,6 +4616,14 @@
 | --- | --- | --- | --- | --- |
 | [Research Scientist Intern](https://www.workatastartup.com/jobs/94620) | 81 | San Francisco, CA / New York, NY | — | 2026-07-09 |
 
+## Trillium
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Equity Trader Intern](https://www.trlm.com/apply/5076003007?gh_jid=5076003007) | 60 | Miami, FL / Chicago, IL / NYC | Quant | 2026-07-24 |
+| [Equity Trader Intern](https://www.trlm.com/apply/5076017007?gh_jid=5076017007) | 60 | Chicago, IL | Quant | 2026-07-24 |
+| [Equity Trader Intern](https://www.trlm.com/apply/5076067007?gh_jid=5076067007) | 60 | Miami, FL | Quant | 2026-07-24 |
+
 ## Truland Equipment
 
 | Title | Score | Location | Department | First seen |
@@ -4670,6 +4670,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data & Insights Graduate Research Assistant](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Data---Insights-Graduate-Research-Assistant_R_00047610) | 74 | Austin, TX | AI/ML/Data | 2026-07-24 |
 | [Graduate Research Assistant](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Graduate-Research-Assistant_R_00046050) | 74 | Austin, TX | AI/ML/Data | 2026-07-22 |
 | [Graduate Assistant - Data - Dell Medical School](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Graduate-Assistant--Data--Texas-Child-Mental-Health-Programs--Department-of-Psychiatry-and-Behavioral-Sciences--Dell-Medical-School_R_00047460-1) | 74 | Austin, TX | AI/ML/Data | 2026-07-21 |
 | [Career Success Reporting and Insights Graduate Assistant](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Career-Success-Reporting-and-Insights-Graduate-Assistant_R_00046976) | 74 | Austin, TX | AI/ML/Data | 2026-07-20 |

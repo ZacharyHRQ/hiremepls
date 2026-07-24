@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-24T21:43:02.151Z",
+  "generatedAt": "2026-07-24T22:42:05.015Z",
   "companyCount": 80,
   "okCount": 79,
-  "jobCount": 1578,
+  "jobCount": 1585,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -867,8 +867,6 @@
     "canonical:238479ad2755faff": "2026-07-20T23:30:05.931Z",
     "canonical:8336305b2f08b004": "2026-07-20T23:30:05.931Z",
     "canonical:2f5327979cf48624": "2026-07-20T23:30:05.931Z",
-    "canonical:422a2132bdd8648e": "2026-07-20T23:30:05.931Z",
-    "canonical:86bf418733e81225": "2026-07-20T23:30:05.931Z",
     "canonical:4c559bf2aa2f7510": "2026-07-20T23:30:05.931Z",
     "canonical:f198a2c5e20edc62": "2026-07-20T23:30:05.931Z",
     "canonical:2501fddd6f81d2c3": "2026-07-20T23:30:05.931Z",
@@ -1507,13 +1505,11 @@
     "canonical:2e7e5ba5bc6422d1": "2026-07-23T23:35:05.953Z",
     "canonical:d98c3dd86005748b": "2026-07-23T23:35:05.953Z",
     "canonical:f9dc8a6d163b6cd4": "2026-07-23T23:35:05.953Z",
-    "canonical:c1de0bc8cffbfaab": "2026-07-23T23:35:05.953Z",
     "canonical:00f3c0ed08ae0a1f": "2026-07-23T23:35:05.953Z",
     "canonical:c66bdf218e8e2b56": "2026-07-23T23:35:05.953Z",
     "canonical:ecf3c220bd694a07": "2026-07-23T23:35:05.953Z",
     "canonical:28ebf9f9488e14ee": "2026-07-23T23:35:05.953Z",
     "canonical:e8eb36641706c2d0": "2026-07-24T04:28:45.651Z",
-    "canonical:3a0280cd297d1f55": "2026-07-24T04:28:45.651Z",
     "canonical:2a60758eae4f91e1": "2026-07-24T04:28:45.651Z",
     "canonical:f4c12efc66c30df0": "2026-07-24T07:06:55.054Z",
     "canonical:91640f77cbe334f9": "2026-07-24T07:06:55.054Z",
@@ -1573,15 +1569,26 @@
     "canonical:9579037e880fa14c": "2026-07-24T12:52:14.698Z",
     "canonical:f737fd209e879331": "2026-07-24T12:52:14.698Z",
     "canonical:b7e2b2dbebb1a7cb": "2026-07-24T16:38:46.477Z",
-    "canonical:b4058c23693f9118": "2026-07-24T16:38:46.477Z",
-    "canonical:0e6f0662a18170b5": "2026-07-24T16:38:46.477Z",
     "canonical:8dd11d540cc523a9": "2026-07-24T16:38:46.477Z",
-    "canonical:bed45dec59abc364": "2026-07-24T16:38:46.477Z",
     "canonical:e8674cce6188dff6": "2026-07-24T19:11:20.088Z",
     "canonical:73f70898682998f4": "2026-07-24T19:11:20.088Z",
     "canonical:99928d510fec02a5": "2026-07-24T19:11:20.088Z",
     "canonical:42e5f7ee624370b5": "2026-07-24T20:39:49.554Z",
-    "canonical:1157660e96042c8c": "2026-07-24T20:39:49.554Z"
+    "canonical:1157660e96042c8c": "2026-07-24T20:39:49.554Z",
+    "canonical:7a187301654803f6": "2026-07-24T22:42:05.015Z",
+    "canonical:6fdcd86f07bff47b": "2026-07-24T22:42:05.015Z",
+    "canonical:d642f5df026ac60a": "2026-07-24T22:42:05.015Z",
+    "canonical:1fd516f098e80e1d": "2026-07-24T22:42:05.015Z",
+    "canonical:6341b083656cfe26": "2026-07-24T22:42:05.015Z",
+    "canonical:6a174eaed7de4a7b": "2026-07-24T22:42:05.015Z",
+    "canonical:1f23504ddab9ce74": "2026-07-24T22:42:05.015Z",
+    "canonical:47f4547c78cbe49c": "2026-07-24T22:42:05.015Z",
+    "canonical:60f0c29fe1cf9feb": "2026-07-24T22:42:05.015Z",
+    "canonical:effba85f704368fa": "2026-07-24T22:42:05.015Z",
+    "canonical:0a5b28109c032dfd": "2026-07-24T22:42:05.015Z",
+    "canonical:0af133d9a30e3d6c": "2026-07-24T22:42:05.015Z",
+    "canonical:8cf196bbf7dc679c": "2026-07-24T22:42:05.015Z",
+    "canonical:f8b98161d0d229d1": "2026-07-24T22:42:05.015Z"
   },
   "jobs": [
     {
@@ -3331,44 +3338,47 @@
       ]
     },
     {
-      "id": "canonical:2f5327979cf48624",
-      "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
-      "url": "https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9",
-      "location": "Washington, D.C.",
-      "department": "Delta",
-      "company": "Palantir",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:422a2132bdd8648e",
-      "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
-      "url": "https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69",
+      "id": "canonical:7a187301654803f6",
+      "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
+      "url": "https://jobs.lever.co/palantir/33243fb5-6907-40c7-930c-968b25d825d0",
       "location": "Palo Alto, CA",
       "department": "Delta",
       "company": "Palantir",
-      "score": 93,
+      "score": 99,
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
+        "new grad",
         "direct ATS"
       ]
     },
     {
-      "id": "canonical:86bf418733e81225",
-      "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
-      "url": "https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b",
-      "location": "New York, NY",
+      "id": "canonical:6fdcd86f07bff47b",
+      "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
+      "url": "https://jobs.lever.co/palantir/5a28f3a5-8655-47f2-ab19-a79b8a319da8",
+      "location": "Washington, D.C.",
       "department": "Delta",
       "company": "Palantir",
-      "score": 93,
+      "score": 99,
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
+        "new grad",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:d642f5df026ac60a",
+      "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
+      "url": "https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8",
+      "location": "New York, NY",
+      "department": "Delta",
+      "company": "Palantir",
+      "score": 99,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
         "direct ATS"
       ]
     },
@@ -13342,6 +13352,19 @@
       ]
     },
     {
+      "id": "canonical:1fd516f098e80e1d",
+      "title": "Data Engineering Intern",
+      "url": "https://coreandmain.wd1.myworkdayjobs.com/en-US/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804",
+      "location": "St. Louis, MO",
+      "department": "AI/ML/Data",
+      "company": "Core & Main",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:baa8d20fda37086a",
       "title": "Data Science Intern",
       "url": "https://jobs.ashbyhq.com/centerfield/916dcf42-d69a-4f00-875a-f8fe630e0f33/application",
@@ -15859,19 +15882,6 @@
       "location": "Palo Alto, CA",
       "department": "AI/ML/Data",
       "company": "Pika",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:3a0280cd297d1f55",
-      "title": "Editorial Data Reporting Intern",
-      "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "LexisNexis Risk Solutions",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -18480,19 +18490,6 @@
       ]
     },
     {
-      "id": "canonical:c1de0bc8cffbfaab",
-      "title": "Data Analytics Intern",
-      "url": "https://job-boards.greenhouse.io/goldenpetbrands/jobs/4713182005",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "Golden Pet Brands",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:00f3c0ed08ae0a1f",
       "title": "Software Engineer Intern - Enterprise Systems",
       "url": "https://job-boards.greenhouse.io/astranis/jobs/4699071006",
@@ -18582,6 +18579,106 @@
       "score": 68,
       "scoreReasons": [
         "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:6341b083656cfe26",
+      "title": "Equity Trader Intern",
+      "url": "https://www.trlm.com/apply/5076003007?gh_jid=5076003007",
+      "location": "Miami, FL / Chicago, IL / NYC",
+      "department": "Quant",
+      "company": "Trillium",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:6a174eaed7de4a7b",
+      "title": "Equity Trader Intern",
+      "url": "https://www.trlm.com/apply/5076017007?gh_jid=5076017007",
+      "location": "Chicago, IL",
+      "department": "Quant",
+      "company": "Trillium",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:1f23504ddab9ce74",
+      "title": "Equity Trader Intern",
+      "url": "https://www.trlm.com/apply/5076067007?gh_jid=5076067007",
+      "location": "Miami, FL",
+      "department": "Quant",
+      "company": "Trillium",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:47f4547c78cbe49c",
+      "title": "Paint & Coating Intern",
+      "url": "https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Mono---Paint---Coating-Intern_R0035879",
+      "location": "Chicago, IL",
+      "department": "Product",
+      "company": "ROCKWOOL Group",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:60f0c29fe1cf9feb",
+      "title": "Data Analytics / Data Science Intern",
+      "url": "https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/192734",
+      "location": "Manhasset, NY",
+      "department": "AI/ML/Data",
+      "company": "Northwell Health",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:effba85f704368fa",
+      "title": "Investment Analyst Intern - Private Debt & Equity",
+      "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Analyst-Intern---Private-Debt---Equity--Summer-2027_JR-45705",
+      "location": "Milwaukee, WI",
+      "department": "Quant",
+      "company": "Northwestern Mutual",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:0a5b28109c032dfd",
+      "title": "Autonomous Driving Intern",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000139649345",
+      "location": "Sunnyvale, CA",
+      "department": "AI/ML/Data",
+      "company": "Bosch Home Comfort",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:0af133d9a30e3d6c",
+      "title": "Data & Insights Graduate Research Assistant",
+      "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Data---Insights-Graduate-Research-Assistant_R_00047610",
+      "location": "Austin, TX",
+      "department": "AI/ML/Data",
+      "company": "University of Texas at Austin",
+      "score": 74,
+      "scoreReasons": [
+        "high-signal role",
+        "new grad",
         "direct ATS"
       ]
     },
@@ -20282,6 +20379,48 @@
       ]
     },
     {
+      "id": "canonical:2f5327979cf48624",
+      "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
+      "url": "https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9",
+      "location": "Washington, D.C.",
+      "department": "Software / Summer 2027",
+      "company": "Palantir",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:8cf196bbf7dc679c",
+      "title": "Forward Deployed Infrastructure Engineer Intern",
+      "url": "https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b",
+      "location": "New York, NY",
+      "department": "",
+      "company": "Palantir Technologies",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f8b98161d0d229d1",
+      "title": "Forward Deployed Infrastructure Engineer Intern",
+      "url": "https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69",
+      "location": "Palo Alto, CA",
+      "department": "",
+      "company": "Palantir Technologies",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:fb65511f170f8cec",
       "title": "Technology Intern",
       "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006",
@@ -21172,31 +21311,6 @@
       ]
     },
     {
-      "id": "canonical:b4058c23693f9118",
-      "title": "Data Analytics / Data Science Intern",
-      "url": "https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/192734",
-      "location": "Lake Success, Nassau, United States",
-      "department": "Data & ML/AI / Summer 2027",
-      "company": "Northwell Health",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:0e6f0662a18170b5",
-      "title": "Autonomous Driving – Internship in Machine Learning",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000139649345",
-      "location": "Sunnyvale, CA, United States",
-      "department": "Data & ML/AI / Summer 2027",
-      "company": "Robert Bosch Venture Capital",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:b7e2b2dbebb1a7cb",
       "title": "R&D- Computer Vision Engineering Intern",
       "url": "https://magna.wd3.myworkdayjobs.com/Magna/job/Troy-Michigan-US/R-D--Computer-Vision-Engineering-Intern_R00253444-1",
@@ -21352,20 +21466,6 @@
       "company": "Medtronic",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:bed45dec59abc364",
-      "title": "AI Software Development Engineer - Intern",
-      "url": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/AI-Software-Development-Engineer---Intern_R02707",
-      "location": "San Jose, California, United States",
-      "department": "Data & ML/AI / Summer 2027",
-      "company": "Altera Corporation",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
