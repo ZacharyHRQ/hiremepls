@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-24T01:05:35.546Z",
+  "generatedAt": "2026-07-24T04:28:45.651Z",
   "companyCount": 80,
   "okCount": 79,
-  "jobCount": 1562,
+  "jobCount": 1564,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -412,7 +412,6 @@
     "canonical:d15a582725b4129b": "2026-06-17T06:49:09.742Z",
     "canonical:3c6099c18b55d40a": "2026-06-17T06:49:09.742Z",
     "canonical:5b93475ac32ee191": "2026-06-17T06:49:09.742Z",
-    "canonical:2a600b101ee31a5b": "2026-06-17T06:49:09.742Z",
     "canonical:411bdab6bb2d495d": "2026-06-17T11:27:12.169Z",
     "canonical:c32262e36ae9b8e5": "2026-06-17T17:36:29.585Z",
     "canonical:644048b3b78a8390": "2026-06-18T06:55:12.727Z",
@@ -1565,7 +1564,10 @@
     "canonical:00f3c0ed08ae0a1f": "2026-07-23T23:35:05.953Z",
     "canonical:c66bdf218e8e2b56": "2026-07-23T23:35:05.953Z",
     "canonical:ecf3c220bd694a07": "2026-07-23T23:35:05.953Z",
-    "canonical:28ebf9f9488e14ee": "2026-07-23T23:35:05.953Z"
+    "canonical:28ebf9f9488e14ee": "2026-07-23T23:35:05.953Z",
+    "canonical:e8eb36641706c2d0": "2026-07-24T04:28:45.651Z",
+    "canonical:3a0280cd297d1f55": "2026-07-24T04:28:45.651Z",
+    "canonical:2a60758eae4f91e1": "2026-07-24T04:28:45.651Z"
   },
   "jobs": [
     {
@@ -4306,6 +4308,16 @@
       "scoreReasons": []
     },
     {
+      "id": "canonical:e8eb36641706c2d0",
+      "title": "Technical Business Developer Intern, 2026 Hong Kong",
+      "url": "https://amazon.jobs/en/jobs/10394507/technical-business-developer-intern-2026-hong-kong",
+      "location": "Hong Kong",
+      "department": "Project/Program/Product Management--Technical",
+      "company": "Amazon",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
       "id": "canonical:19a741914212782a",
       "title": "Sales Ops Analyst Intern, AI & Automation, Amazon Global Selling",
       "url": "https://amazon.jobs/en/jobs/10469660/sales-ops-analyst-intern-ai-automation-amazon-global-selling",
@@ -6033,7 +6045,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -13202,16 +13214,6 @@
       ]
     },
     {
-      "id": "canonical:2a600b101ee31a5b",
-      "title": "Engineering Technician Intern",
-      "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010550",
-      "location": "Dallas, TX / Tucson, AZ",
-      "department": "Hardware",
-      "company": "Texas Instruments",
-      "score": 50,
-      "scoreReasons": []
-    },
-    {
       "id": "canonical:c32262e36ae9b8e5",
       "title": "Product Operations Intern",
       "url": "https://jobs.ashbyhq.com/flagright.com/cdc0b71f-fb24-49bf-babe-de63bdaacb7e/application",
@@ -15949,6 +15951,19 @@
       "location": "Palo Alto, CA",
       "department": "AI/ML/Data",
       "company": "Pika",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:3a0280cd297d1f55",
+      "title": "Editorial Data Reporting Intern",
+      "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "LexisNexis Risk Solutions",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -18774,6 +18789,19 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:2a60758eae4f91e1",
+      "title": "Quantitative Analysis Intern",
+      "url": "https://group1001wd.wd5.myworkdayjobs.com/careers/job/Stamford-Connecticut/Quantitative-Analysis-Intern_R26_0405",
+      "location": "Stamford, CT",
+      "department": "Quant",
+      "company": "Group 1001",
+      "score": 68,
+      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]

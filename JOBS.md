@@ -1,6 +1,6 @@
 # Open Internships
 
-**1562** internships across **79/80** companies — last updated 2026-07-24.
+**1564** internships across **79/80** companies — last updated 2026-07-24.
 
 ## Companies
 
@@ -22,7 +22,7 @@
 - [AlixPartners](#alixpartners) (1)
 - [Altasciences](#altasciences) (2)
 - [Altom Transport](#altom-transport) (2)
-- [Amazon](#amazon) (163)
+- [Amazon](#amazon) (164)
 - [Ambarella](#ambarella) (8)
 - [Amentum](#amentum) (1)
 - [American Enterprise Institute](#american-enterprise-institute) (2)
@@ -242,6 +242,7 @@
 - [Grant Thornton](#grant-thornton) (1)
 - [Green Planet Solutions](#green-planet-solutions) (1)
 - [Gritt Robotics Inc](#gritt-robotics-inc) (1)
+- [Group 1001](#group-1001) (1)
 - [GSA Capital](#gsa-capital) (2)
 - [H&CO](#h-co) (1)
 - [Haize Labs](#haize-labs) (1)
@@ -315,6 +316,7 @@
 - [Lawrence Livermore National Laboratory (LLNL)](#lawrence-livermore-national-laboratory-llnl) (3)
 - [Leidos](#leidos) (1)
 - [Lensa](#lensa) (3)
+- [LexisNexis Risk Solutions](#lexisnexis-risk-solutions) (1)
 - [LinkedIn](#linkedin) (3)
 - [Littelfuse](#littelfuse) (1)
 - [LiveRamp](#liveramp) (1)
@@ -500,7 +502,6 @@
 - [Terranox AI](#terranox-ai) (1)
 - [Tesla](#tesla) (89)
 - [TETRAMEM](#tetramem) (1)
-- [Texas Instruments](#texas-instruments) (1)
 - [The Boeing Company](#the-boeing-company) (1)
 - [The D. E. Shaw Group](#the-d-e-shaw-group) (1)
 - [The Exploration Company](#the-exploration-company) (1)
@@ -693,6 +694,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Technical Business Developer Intern, 2026 Hong Kong](https://amazon.jobs/en/jobs/10394507/technical-business-developer-intern-2026-hong-kong) | 50 | Hong Kong | Project/Program/Product Management--Technical | 2026-07-24 |
 | [Graduate Shift Manager - near München](https://amazon.jobs/en/jobs/10482491/graduate-shift-manager-near-munchen) | 56 | Moosburg | Fulfillment & Operations Management | 2026-07-23 |
 | [Graduate Shift Manager - near Villingen-Schwenningen, Baden-Württemberg](https://amazon.jobs/en/jobs/10482494/graduate-shift-manager-near-villingen-schwenningen-baden-wurttemberg) | 56 | Messkirch | Fulfillment & Operations Management | 2026-07-23 |
 | [Marketing AI Specialist Intern, Amazon Global Selling](https://amazon.jobs/en/jobs/10482212/marketing-ai-specialist-intern-amazon-global-selling) | 30 | Taipei | Sales, Advertising, & Account Management | 2026-07-23 |
@@ -1695,7 +1697,7 @@
 | [Technical Support Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8041135?gh_jid=8041135) | 58 | In-Office | — | 2026-07-03 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
 | [Sales Project Manager Intern (AI Innovation) (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8020830?gh_jid=8020830) | 38 | In-Office | — | 2026-06-23 |
 
 ## Cloudforce
@@ -2412,6 +2414,12 @@
 | --- | --- | --- | --- | --- |
 | [Robot Learning Engineer Intern](https://jobs.ashbyhq.com/gritt/5c4737ce-f546-453b-b30d-791a121fb9fd/application?embed=true) | 93 | San Bruno, CA | AI/ML/Data | 2026-07-21 |
 
+## Group 1001
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Quantitative Analysis Intern](https://group1001wd.wd5.myworkdayjobs.com/careers/job/Stamford-Connecticut/Quantitative-Analysis-Intern_R26_0405) | 68 | Stamford, CT | Quant | 2026-07-24 |
+
 ## GSA Capital
 
 | Title | Score | Location | Department | First seen |
@@ -2942,6 +2950,12 @@
 | [2026 Summer Internship Program - AMERS](https://www.linkedin.com/jobs/view/4257402148) | 42 | San Francisco, CA | — | 2026-07-09 |
 | [2026 Summer Internship Program - Investment Banking](https://www.linkedin.com/jobs/view/4257296455) | 42 | Baltimore, MD | — | 2026-07-09 |
 | [Accounting Internship Summer 2026](https://lensa.com/job-application-accounting-internship-summer-2026-in-wayne-pa/cpc-jd-v3/bdd3c15c3b73ec0e9b7e0b5b4cbefe35453222188f523f433d39e72a3abd4740?tr=b4a83a7f255547c9982fd106a9550d5aincc1&utm_source=linkedin&utm_medium=slot&utm_campaign=Financial+Specialists&utm_term=jse) | 22 | Wayne, PA | — | 2026-07-09 |
+
+## LexisNexis Risk Solutions
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Editorial Data Reporting Intern](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1) | 68 | Remote in USA | AI/ML/Data | 2026-07-24 |
 
 ## LinkedIn
 
@@ -4437,12 +4451,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern, Embedded](https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job) | 85 | San Jose, CA | — | 2026-07-09 |
-
-## Texas Instruments
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Engineering Technician Intern](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010550) | 50 | Dallas, TX / Tucson, AZ | Hardware | 2026-06-17 |
 
 ## The Boeing Company
 
