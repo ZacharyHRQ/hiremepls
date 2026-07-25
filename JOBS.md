@@ -1,6 +1,6 @@
 # Open Internships
 
-**1593** internships across **79/80** companies — last updated 2026-07-25.
+**1591** internships across **79/80** companies — last updated 2026-07-25.
 
 ## Companies
 
@@ -152,7 +152,6 @@
 - [Cupertino Electric, Inc.](#cupertino-electric-inc) (1)
 - [CuspAI](#cuspai) (1)
 - [Cybernetic Labs](#cybernetic-labs) (3)
-- [Dandy](#dandy) (1)
 - [Databricks](#databricks) (4)
 - [Datadog](#datadog) (1)
 - [DataRobot](#datarobot) (1)
@@ -226,7 +225,6 @@
 - [Gemini](#gemini) (1)
 - [Generac](#generac) (2)
 - [General Astronautics](#general-astronautics) (1)
-- [General Motors](#general-motors) (1)
 - [GenMD](#genmd) (1)
 - [Gensyn](#gensyn) (1)
 - [Genworth](#genworth) (1)
@@ -1813,12 +1811,6 @@
 | [Full-Stack Software Engineer Intern - Product](https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef/application?embed=true) | 93 | SF | Software | 2026-07-20 |
 | [Software Engineer Intern - Agent Platform](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7/application?embed=true) | 93 | SF | Software | 2026-07-20 |
 
-## Dandy
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer, Intern](https://jobs.ashbyhq.com/dandy/d8491a88-fa90-4299-afb0-af3a2121663f) | 93 | New York, NY | Software Engineering | 2026-05-09 |
-
 ## Databricks
 
 | Title | Score | Location | Department | First seen |
@@ -2318,12 +2310,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Engineering Intern](https://www.workatastartup.com/jobs/94206) | 56 | San Francisco, CA | — | 2026-07-09 |
-
-## General Motors
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [2026 Summer Intern - Software Engineer, Machine Learning Validation (PhD)](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Software-Engineer--Machine-Learning-Validation--PhD-_JR-202523181) | 93 | Mountain View, CA / Sunnyvale, CA | Data Science, AI & Machine Learning | 2026-05-09 |
 
 ## GenMD
 
