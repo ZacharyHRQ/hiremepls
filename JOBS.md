@@ -1,6 +1,6 @@
 # Open Internships
 
-**1592** internships across **79/80** companies — last updated 2026-07-25.
+**1593** internships across **79/80** companies — last updated 2026-07-25.
 
 ## Companies
 
@@ -526,6 +526,7 @@
 - [Uncountable](#uncountable) (1)
 - [Unisys](#unisys) (1)
 - [United Parcel Service (UPS)](#united-parcel-service-ups) (1)
+- [University of Maryland - College Park](#university-of-maryland-college-park) (1)
 - [University of Texas at Austin](#university-of-texas-at-austin) (4)
 - [University of Virginia](#university-of-virginia) (1)
 - [University System of New Hampshire](#university-system-of-new-hampshire) (1)
@@ -4690,6 +4691,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Buildings and Systems Engineering Intern](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/Summer-2026-Buildings---Systems-Engineering--BaSE--Intern---Information-Systems-Intern_R26015318) | 68 | United States | AI/ML/Data | 2026-07-21 |
+
+## University of Maryland - College Park
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Office of Career Services Intern - Technology Team](https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Intern--Office-of-Career-Services---Technology-Team_JR104246-1) | 68 | Hyattsville, MD | AI/ML/Data | 2026-07-25 |
 
 ## University of Texas at Austin
 
