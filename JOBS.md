@@ -1,6 +1,6 @@
 # Open Internships
 
-**1589** internships across **77/80** companies — last updated 2026-07-25.
+**1589** internships across **79/80** companies — last updated 2026-07-25.
 
 ## Companies
 
@@ -476,7 +476,7 @@
 - [SPHERIX GLOBAL INSIGHTS US INC](#spherix-global-insights-us-inc) (1)
 - [SpreeAI](#spreeai) (1)
 - [SPREEAI](#spreeai) (1)
-- [SpreeAI ](#spreeai) (3)
+- [SpreeAI ](#spreeai) (2)
 - [Squarepoint Capital](#squarepoint-capital) (5)
 - [SS&C](#ss-c) (1)
 - [StarSling](#starsling) (1)
@@ -500,6 +500,7 @@
 - [The Boeing Company](#the-boeing-company) (1)
 - [The D. E. Shaw Group](#the-d-e-shaw-group) (1)
 - [The Exploration Company](#the-exploration-company) (1)
+- [The Federal Reserve System](#the-federal-reserve-system) (1)
 - [The Trade Desk](#the-trade-desk) (3)
 - [The Wonderful Company](#the-wonderful-company) (1)
 - [Thermo Fisher Scientific](#thermo-fisher-scientific) (1)
@@ -4185,7 +4186,6 @@
 | --- | --- | --- | --- | --- |
 | [Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI](https://ats.rippling.com/spreeai/jobs/aa087086-dd4b-42be-a499-051546655e97) | 85 | SF | AI/ML/Data | 2026-07-24 |
 | [Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web](https://ats.rippling.com/spreeai/jobs/c52472cb-2671-45d7-b666-17196dc3df25) | 85 | SF | Software | 2026-07-23 |
-| [Software Engineer Intern](https://ats.rippling.com/spreeai/jobs/d34aed29-7a11-4e37-b5bc-e9317f82f0b1) | 85 | SF | Software | 2026-07-21 |
 
 ## Squarepoint Capital
 
@@ -4462,6 +4462,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Crew Systems Engineering Intern - Avionics/Software](https://jobs.ashbyhq.com/the-exploration-company/da63221d-dd60-41fe-8dd5-bb1a565a7824) | 68 | Houston, TX | Software Engineering | 2026-05-09 |
+
+## The Federal Reserve System
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Business Survey Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Richmond-VA/Fall-2026-Business-Survey-Intern_R-0000032532) | 68 | Richmond, VA | AI/ML/Data | 2026-07-25 |
 
 ## The Trade Desk
 
@@ -4950,6 +4956,4 @@
 
 ## Errors this run
 
-- **Snap**: workday snap: expected JSON, got text/html; charset=UTF-8: <!DOCTYPE html> <html lang="en" dir="ltr">   <head>     <meta charset="utf-8" />
-- **BlackRock**: workday blackrock: expected JSON, got text/html; charset=UTF-8: <!DOCTYPE html> <html lang="en" dir="ltr">   <head>     <meta charset="utf-8" />
 - **SimplifyJobs 2027**: simplify: HTTP 404
