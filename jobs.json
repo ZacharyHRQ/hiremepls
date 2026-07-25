@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-25T08:35:51.911Z",
+  "generatedAt": "2026-07-25T10:14:23.784Z",
   "companyCount": 80,
   "okCount": 79,
-  "jobCount": 1589,
+  "jobCount": 1587,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1462,7 +1462,6 @@
     "canonical:c686a4438be89e1f": "2026-07-23T13:01:14.511Z",
     "canonical:2d1db51a4619b0f0": "2026-07-23T13:01:14.511Z",
     "canonical:b28e03b8d5ddfd5c": "2026-07-23T13:01:14.511Z",
-    "canonical:e4e59c3d19a3ebd0": "2026-07-23T13:01:14.511Z",
     "canonical:e6bcb29d693ddee4": "2026-07-23T13:01:14.511Z",
     "canonical:5c2778d446a1f22f": "2026-07-23T13:01:14.511Z",
     "canonical:559862a3c8507c45": "2026-07-23T13:01:14.511Z",
@@ -1481,7 +1480,6 @@
     "canonical:efae17b38f305c76": "2026-07-23T16:52:46.107Z",
     "canonical:f64d863a4ace37bb": "2026-07-23T16:52:46.107Z",
     "canonical:d6972571c434c70f": "2026-07-23T16:52:46.107Z",
-    "canonical:7cd65dbc34efa0fa": "2026-07-23T16:52:46.107Z",
     "canonical:f81c24d44860f18d": "2026-07-23T16:52:46.107Z",
     "canonical:47e7ade3e59b2b85": "2026-07-23T16:52:46.107Z",
     "canonical:d544babedda5887c": "2026-07-23T16:52:46.107Z",
@@ -1558,7 +1556,6 @@
     "canonical:f5d84370157fe2ee": "2026-07-24T12:52:14.698Z",
     "canonical:ba545b91215fc20b": "2026-07-24T12:52:14.698Z",
     "canonical:dc4433667883584e": "2026-07-24T12:52:14.698Z",
-    "canonical:27bdb3f23ff4322a": "2026-07-24T12:52:14.698Z",
     "canonical:ea516bcb2c3049bb": "2026-07-24T12:52:14.698Z",
     "canonical:38a7d4388515b288": "2026-07-24T12:52:14.698Z",
     "canonical:9579037e880fa14c": "2026-07-24T12:52:14.698Z",
@@ -1587,12 +1584,13 @@
     "canonical:32b1d2cc0e89c258": "2026-07-24T23:42:50.061Z",
     "canonical:4247bea2cf4aab99": "2026-07-24T23:42:50.061Z",
     "canonical:5bae5af5d984f063": "2026-07-24T23:42:50.061Z",
-    "canonical:cc91abd223a4eab3": "2026-07-24T23:42:50.061Z",
     "canonical:a25fb518e8c28f8c": "2026-07-24T23:42:50.061Z",
     "canonical:ecee67fa5e5ef0e7": "2026-07-25T01:09:11.036Z",
     "canonical:ef650b16fce50cc6": "2026-07-25T04:24:58.500Z",
     "canonical:1d7a63ccedca3fdd": "2026-07-25T04:24:58.500Z",
-    "canonical:fbed77d636f7fa42": "2026-07-25T08:35:51.911Z"
+    "canonical:fbed77d636f7fa42": "2026-07-25T08:35:51.911Z",
+    "canonical:8f0220e3ccd8e047": "2026-07-25T10:14:23.784Z",
+    "canonical:022b1d06c3aa6aac": "2026-07-25T10:14:23.784Z"
   },
   "jobs": [
     {
@@ -15051,18 +15049,6 @@
       ]
     },
     {
-      "id": "canonical:7cd65dbc34efa0fa",
-      "title": "Skillbridge Intern - Product Manager",
-      "url": "https://job-boards.greenhouse.io/rise8/jobs/4359627007",
-      "location": "Remote in USA",
-      "department": "Product",
-      "company": "Rise8",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:2696d27e53de0c2e",
       "title": "Utility Engineering Intern",
       "url": "https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1624",
@@ -16658,19 +16644,6 @@
       ]
     },
     {
-      "id": "canonical:e4e59c3d19a3ebd0",
-      "title": "Chemistry Intern - MLFF Distillation & GCMC Integration",
-      "url": "https://jobs.ashbyhq.com/cuspai/d7b80299-ed98-4dfe-b306-729cd10d3f04/application?embed=true",
-      "location": "London, UK / Cambridge, UK",
-      "department": "AI/ML/Data",
-      "company": "CuspAI",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:2cced6e3edd28c31",
       "title": "Product Management Intern",
       "url": "https://boards.greenhouse.io/embed/job_app?token=6883068002",
@@ -16879,18 +16852,6 @@
       ]
     },
     {
-      "id": "canonical:27bdb3f23ff4322a",
-      "title": "Engineering Intern",
-      "url": "https://jobs.ashbyhq.com/odin-dynamics/db6fe6ed-3517-423d-a757-3b6edea4b51d/application?embed=true",
-      "location": "LA",
-      "department": "Hardware",
-      "company": "Odin Dynamics, Inc",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:5102d25030cf046b",
       "title": "Technical Marketing Intern - Analytics - Research & Automation",
       "url": "https://jobs.ashbyhq.com/outpostnow/6f63d0c8-c332-498f-ac69-08c305f5a9ee/application?embed=true",
@@ -17029,6 +16990,19 @@
       "location": "Edmonton, AB, Canada",
       "department": "Software",
       "company": "Onware",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:8f0220e3ccd8e047",
+      "title": "Software Engineer Intern",
+      "url": "https://ats.rippling.com/spreeai/jobs/d34aed29-7a11-4e37-b5bc-e9317f82f0b1",
+      "location": "SF",
+      "department": "Software",
+      "company": "SpreeAI ",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -18087,6 +18061,16 @@
       ]
     },
     {
+      "id": "canonical:022b1d06c3aa6aac",
+      "title": "Engineer Intern",
+      "url": "https://ats.rippling.com/etg/jobs/75ad65e6-f504-4ae2-adf1-587e704b2bcc",
+      "location": "SF",
+      "department": "Hardware",
+      "company": "Exploration Technology Corp.",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
       "id": "canonical:44b52479685bc87d",
       "title": "Intern",
       "url": "https://careers.rivian.com/jobs/32355?icims=1",
@@ -18698,19 +18682,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:cc91abd223a4eab3",
-      "title": "Austin Aviation Undergraduate Intern - IT Business Systems Analyst",
-      "url": "https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/AUS-Information-Systems-Building-IS/Austin-Aviation--IT-Business-Systems-Analyst---Undergraduate-Intern_JR104583",
-      "location": "Austin, TX",
-      "department": "AI/ML/Data",
-      "company": "City of Austin",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
