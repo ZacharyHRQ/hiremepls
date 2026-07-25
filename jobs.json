@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T12:41:32.993Z",
+  "generatedAt": "2026-07-25T14:16:17.059Z",
   "companyCount": 80,
   "okCount": 79,
   "jobCount": 1592,
@@ -1407,7 +1407,6 @@
     "canonical:0f4a52f7d1dc29c7": "2026-07-22T13:08:02.810Z",
     "canonical:78820ef2fa54b1e2": "2026-07-22T13:08:02.810Z",
     "canonical:c6bd1cc3d8bd01b8": "2026-07-22T15:14:46.881Z",
-    "canonical:941d02dc047a74b1": "2026-07-22T15:14:46.881Z",
     "canonical:44b52479685bc87d": "2026-07-22T15:14:46.881Z",
     "canonical:371f0538c738195d": "2026-07-22T15:14:46.881Z",
     "canonical:442875471c477a65": "2026-07-22T15:14:46.881Z",
@@ -1595,7 +1594,8 @@
     "canonical:f5d84370157fe2ee": "2026-07-25T12:41:32.993Z",
     "canonical:ebdb73f1d53cde75": "2026-07-25T12:41:32.993Z",
     "canonical:c1e9394452463ed1": "2026-07-25T12:41:32.993Z",
-    "canonical:ba545b91215fc20b": "2026-07-25T12:41:32.993Z"
+    "canonical:ba545b91215fc20b": "2026-07-25T12:41:32.993Z",
+    "canonical:04172e347ecd89c6": "2026-07-25T14:16:17.059Z"
   },
   "jobs": [
     {
@@ -8216,19 +8216,6 @@
       ]
     },
     {
-      "id": "canonical:941d02dc047a74b1",
-      "title": "AI Intern",
-      "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Atlanta-GA-United-States/AI-Internships_JR-0088855-1",
-      "location": "Grand Rapids, MI / Plano, TX / Atlanta, GA",
-      "department": "Software",
-      "company": "KION Group",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:8e0cd3743b2a5477",
       "title": "Product Manager Intern",
       "url": "https://lifeattiktok.com/search/7613587198434855173",
@@ -9451,7 +9438,7 @@
     {
       "id": "canonical:78e461e91d26f884",
       "title": "Game Research & Development Intern - Engine Research",
-      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Game-Research---Development-Intern--Engine-Research_R107363-1",
+      "url": "https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/US-Washington-Bellevue/Game-Research---Development-Intern--Engine-Research_R107363",
       "location": "Bellevue, WA",
       "department": "Software",
       "company": "Tencent",
@@ -18783,6 +18770,19 @@
       "location": "Richmond, VA",
       "department": "AI/ML/Data",
       "company": "The Federal Reserve System",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:04172e347ecd89c6",
+      "title": "Research Engineering Intern",
+      "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Engineering-Interns_REQ_0000080335-1",
+      "location": "State College, PA",
+      "department": "Software",
+      "company": "Pennsylvania State University",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
