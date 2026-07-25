@@ -1,6 +1,6 @@
 # Open Internships
 
-**1589** internships across **79/80** companies — last updated 2026-07-25.
+**1590** internships across **79/80** companies — last updated 2026-07-25.
 
 ## Companies
 
@@ -22,7 +22,7 @@
 - [AlixPartners](#alixpartners) (1)
 - [Altasciences](#altasciences) (2)
 - [Altom Transport](#altom-transport) (2)
-- [Amazon](#amazon) (166)
+- [Amazon](#amazon) (167)
 - [Ambarella](#ambarella) (8)
 - [Amentum](#amentum) (1)
 - [American Enterprise Institute](#american-enterprise-institute) (2)
@@ -216,7 +216,6 @@
 - [Formlabs](#formlabs) (1)
 - [Forvis Mazars US](#forvis-mazars-us) (1)
 - [Four Hands](#four-hands) (2)
-- [Freeform](#freeform) (1)
 - [Frontier Health](#frontier-health) (1)
 - [Fundwell](#fundwell) (1)
 - [Fussball Club Cincinnati LLC (“FC Cincinnati”)](#fussball-club-cincinnati-llc-fc-cincinnati) (1)
@@ -281,7 +280,7 @@
 - [Interac](#interac) (1)
 - [Intercontinental Exchange, Inc.](#intercontinental-exchange-inc) (1)
 - [Interdigital](#interdigital) (1)
-- [International Rescue Committee (IRC)](#international-rescue-committee-irc) (1)
+- [International Rescue Committee (IRC)](#international-rescue-committee-irc) (2)
 - [Internship](#internship) (1)
 - [Intuitive Surgical](#intuitive-surgical) (1)
 - [Ivy Tech Community College](#ivy-tech-community-college) (1)
@@ -693,6 +692,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Tech Ops Engineer Intern  - Fall 2026, AWS Data Center Commissioning](https://amazon.jobs/en/jobs/10426739/tech-ops-engineer-intern-fall-2026-aws-data-center-commissioning) | 75 | Jeffersonville | Facilities, Maintenance, & Real Estate | 2026-07-25 |
 | [General Marketing Intern](https://amazon.jobs/en/jobs/3091876/general-marketing-intern) | 30 | Mexico City | Administrative Support | 2026-07-24 |
 | [Software Dev Engineer Intern Machine Learning, Amazon Robotics](https://amazon.jobs/en/jobs/10401402/software-dev-engineer-intern-machine-learning-amazon-robotics) | 85 | Berlin | Software Development | 2026-07-24 |
 | [Marketing AI Product Specialist Intern, Prospect End-to-End Journey, Amazon Global Selling](https://amazon.jobs/en/jobs/10483293/marketing-ai-product-specialist-intern-prospect-end-to-end-journey-amazon-global-selling) | 30 | Shanghai | Marketing & PR | 2026-07-24 |
@@ -2249,12 +2249,6 @@
 | [Cybersecurity Intern](https://job-boards.greenhouse.io/fourhands/jobs/4267718009) | 68 | Austin, TX | Security / Fall 2026 | 2026-07-20 |
 | [Product Development Intern](https://job-boards.greenhouse.io/fourhands/jobs/4272048009) | 58 | Austin, TX | Product | 2026-06-08 |
 
-## Freeform
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Process Engineer Intern](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7765271003) | 93 | LA | AI/ML/Data | 2026-07-24 |
-
 ## Frontier Health
 
 | Title | Score | Location | Department | First seen |
@@ -2697,6 +2691,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data Integration & Reporting Intern](https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/San-Diego-CA-USA/Fall-2026--Data-Integration---Reporting-Intern--Unpaid-_JR00004327) | 68 | San Diego, CA | AI/ML/Data | 2026-07-25 |
 | [Development Data and Research Intern](https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/Silver-Spring-MD-USA/Development---Grant-Coordination-Intern--Summer-2026-_JR00002373) | 68 | Silver Spring, MD | AI/ML/Data | 2026-07-21 |
 
 ## Internship
