@@ -1,6 +1,6 @@
 # Open Internships
 
-**1590** internships across **79/80** companies — last updated 2026-07-25.
+**1589** internships across **77/80** companies — last updated 2026-07-25.
 
 ## Companies
 
@@ -505,7 +505,7 @@
 - [Thermo Fisher Scientific](#thermo-fisher-scientific) (1)
 - [thyssenkrupp](#thyssenkrupp) (2)
 - [TIFIN](#tifin) (1)
-- [TikTok](#tiktok) (56)
+- [TikTok](#tiktok) (55)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
 - [Together AI](#together-ai) (3)
@@ -4516,7 +4516,6 @@
 | [Machine Learning Engineer Intern - Global E-Commerce Content Recommendation](https://lifeattiktok.com/search/7527077153591675154) | 85 | Seattle, WA | AI/ML/Data | 2026-06-28 |
 | [Software Engineer Intern - Capital Platform](https://lifeattiktok.com/search/7534536157456058632) | 85 | San Jose, CA | Software | 2026-06-28 |
 | [Machine Learning Engineer Intern - Trust and Safety - CV/NLP/Multimodal LLM](https://lifeattiktok.com/search/7527589557336869138) | 85 | San Jose, CA | AI/ML/Data | 2026-06-28 |
-| [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7534855949620119815) | 85 | San Jose, CA | AI/ML/Data | 2026-06-28 |
 | [Machine Learning Engineer Intern - Tiktok-Recommendation](https://lifeattiktok.com/search/7527065936093858055) | 85 | San Jose, CA | AI/ML/Data | 2026-06-28 |
 | [Backend Software Engineer Intern - Media Platform](https://lifeattiktok.com/search/7538301580093720840) | 85 | San Jose, CA | Software | 2026-06-15 |
 | [Data Engineer Intern - Ads Data - 2026 Summer](https://lifeattiktok.com/search/7584219416980818229) | 85 | San Jose, CA | AI/ML/Data | 2026-06-15 |
@@ -4951,4 +4950,6 @@
 
 ## Errors this run
 
+- **Snap**: workday snap: expected JSON, got text/html; charset=UTF-8: <!DOCTYPE html> <html lang="en" dir="ltr">   <head>     <meta charset="utf-8" />
+- **BlackRock**: workday blackrock: expected JSON, got text/html; charset=UTF-8: <!DOCTYPE html> <html lang="en" dir="ltr">   <head>     <meta charset="utf-8" />
 - **SimplifyJobs 2027**: simplify: HTTP 404

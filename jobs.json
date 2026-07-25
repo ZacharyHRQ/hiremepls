@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-25T04:24:58.500Z",
+  "generatedAt": "2026-07-25T06:34:56.652Z",
   "companyCount": 80,
-  "okCount": 79,
-  "jobCount": 1590,
+  "okCount": 77,
+  "jobCount": 1589,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -443,7 +443,6 @@
     "canonical:10a5b74a72d648b4": "2026-06-25T15:10:46.027Z",
     "canonical:99c46587db530588": "2026-06-25T15:10:46.027Z",
     "canonical:1f4885c46cec6b73": "2026-06-26T19:02:49.713Z",
-    "canonical:f3a1eff98d8da5ba": "2026-06-28T06:45:31.851Z",
     "canonical:52ac108893ce480f": "2026-06-28T06:45:31.851Z",
     "canonical:213d463a36c92170": "2026-06-28T09:52:26.057Z",
     "canonical:cbb2914bff9402e9": "2026-06-28T09:52:26.057Z",
@@ -13662,19 +13661,6 @@
       ]
     },
     {
-      "id": "canonical:f3a1eff98d8da5ba",
-      "title": "Machine Learning Engineer Intern",
-      "url": "https://lifeattiktok.com/search/7534855949620119815",
-      "location": "San Jose, CA",
-      "department": "AI/ML/Data",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:52ac108893ce480f",
       "title": "Machine Learning Engineer Intern - Tiktok-Recommendation",
       "url": "https://lifeattiktok.com/search/7527065936093858055",
@@ -21887,6 +21873,14 @@
     }
   ],
   "errors": [
+    {
+      "company": "Snap",
+      "message": "workday snap: expected JSON, got text/html; charset=UTF-8: <!DOCTYPE html>\n<html lang=\"en\" dir=\"ltr\">\n  <head>\n    <meta charset=\"utf-8\" />"
+    },
+    {
+      "company": "BlackRock",
+      "message": "workday blackrock: expected JSON, got text/html; charset=UTF-8: <!DOCTYPE html>\n<html lang=\"en\" dir=\"ltr\">\n  <head>\n    <meta charset=\"utf-8\" />"
+    },
     {
       "company": "SimplifyJobs 2027",
       "message": "simplify: HTTP 404"
