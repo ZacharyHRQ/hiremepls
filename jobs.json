@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T21:09:56.437Z",
+  "generatedAt": "2026-07-26T22:09:50.721Z",
   "companyCount": 80,
   "okCount": 79,
   "jobCount": 1586,
@@ -6248,20 +6248,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:1a7ad445267d293c",
-      "title": "Software Engineer Intern",
-      "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Engineer-Intern_JR100107",
-      "location": "United States",
-      "department": "Hardware",
-      "company": "Ambarella",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -18689,6 +18675,20 @@
       "company": "Mosaic",
       "score": 68,
       "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1a7ad445267d293c",
+      "title": "Software Engineer Intern",
+      "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Engineer-Intern_JR100107",
+      "location": "United States",
+      "department": "Hardware",
+      "company": "Ambarella",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
