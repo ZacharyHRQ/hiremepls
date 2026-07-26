@@ -1,6 +1,6 @@
 # Open Internships
 
-**1593** internships across **79/80** companies — last updated 2026-07-26.
+**1588** internships across **79/80** companies — last updated 2026-07-26.
 
 ## Companies
 
@@ -267,7 +267,7 @@
 - [iHeartMedia](#iheartmedia) (1)
 - [iHerb](#iherb) (1)
 - [IMC](#imc) (4)
-- [IMC Trading](#imc-trading) (23)
+- [IMC Trading](#imc-trading) (20)
 - [Impulse Space](#impulse-space) (1)
 - [InfiniteQuant](#infinitequant) (1)
 - [Infojini](#infojini) (1)
@@ -307,7 +307,6 @@
 - [Landis+Gyr](#landis-gyr) (1)
 - [Lawrence Livermore National Laboratory (LLNL)](#lawrence-livermore-national-laboratory-llnl) (3)
 - [Lensa](#lensa) (3)
-- [LexisNexis Risk Solutions](#lexisnexis-risk-solutions) (1)
 - [LinkedIn](#linkedin) (3)
 - [Littelfuse](#littelfuse) (1)
 - [Louisiana State University (LSU)](#louisiana-state-university-lsu) (1)
@@ -506,7 +505,7 @@
 - [Thermo Fisher Scientific](#thermo-fisher-scientific) (1)
 - [thyssenkrupp](#thyssenkrupp) (2)
 - [TIFIN](#tifin) (1)
-- [TikTok](#tiktok) (56)
+- [TikTok](#tiktok) (55)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
 - [Together AI](#together-ai) (3)
@@ -2599,18 +2598,15 @@
 | [Hardware Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) | 58 | Chicago, IL | Hardware | 2026-07-20 |
 | [Graduate Machine Learning Researcher - London](https://job-boards.eu.greenhouse.io/imc/jobs/4914883101) | 99 | London, United Kingdom | — | 2026-07-08 |
 | [Graduate Machine Learning Researcher - Chicago](https://job-boards.eu.greenhouse.io/imc/jobs/4907416101) | 99 | Chicago, United States | — | 2026-07-08 |
-| [2027 - Quant Research Intern - IIT Bombay](https://job-boards.eu.greenhouse.io/imc/jobs/4860277101) | 68 | Amsterdam, Netherlands; Mumbai, India | — | 2026-07-07 |
 | [2027 - Software Engineering Intern - BITS Pilani](https://job-boards.eu.greenhouse.io/imc/jobs/4917549101) | 68 | Mumbai, India | — | 2026-07-07 |
-| [2027 - Software Engineering Intern - IIT Bombay](https://job-boards.eu.greenhouse.io/imc/jobs/4860319101) | 68 | Mumbai, India | — | 2026-07-07 |
-| [2027 - FPGA Intern - IIT Bombay](https://job-boards.eu.greenhouse.io/imc/jobs/4860306101) | 58 | Amsterdam, Netherlands; Mumbai, India | — | 2026-07-07 |
 | [Graduate Quantitative Researcher (BS/MS)](https://job-boards.eu.greenhouse.io/imc/jobs/4907368101) | 99 | Chicago, United States | — | 2026-07-01 |
 | [Graduate Quantitative Researcher (PhD)](https://job-boards.eu.greenhouse.io/imc/jobs/4912325101) | 99 | Chicago, United States | — | 2026-07-01 |
 | [Graduate Software Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4818790101) | 99 | Chicago, United States | — | 2026-07-01 |
 | [Graduate Quantitative Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4751729101) | 74 | Chicago, United States | — | 2026-07-01 |
 | [Graduate Hardware Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4823805101) | 64 | Chicago, United States | — | 2026-07-01 |
 | [Hardware Machine Learning PhD Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, IL | AI/ML/Data | 2026-05-09 |
-| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
+| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
 
 ## Impulse Space
 
@@ -2919,12 +2915,6 @@
 | [2026 Summer Internship Program - AMERS](https://www.linkedin.com/jobs/view/4257402148) | 42 | San Francisco, CA | — | 2026-07-09 |
 | [2026 Summer Internship Program - Investment Banking](https://www.linkedin.com/jobs/view/4257296455) | 42 | Baltimore, MD | — | 2026-07-09 |
 | [Accounting Internship Summer 2026](https://lensa.com/job-application-accounting-internship-summer-2026-in-wayne-pa/cpc-jd-v3/bdd3c15c3b73ec0e9b7e0b5b4cbefe35453222188f523f433d39e72a3abd4740?tr=b4a83a7f255547c9982fd106a9550d5aincc1&utm_source=linkedin&utm_medium=slot&utm_campaign=Financial+Specialists&utm_term=jse) | 22 | Wayne, PA | — | 2026-07-09 |
-
-## LexisNexis Risk Solutions
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Editorial Data Reporting Intern](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1) | 68 | Remote in USA | AI/ML/Data | 2026-07-26 |
 
 ## LinkedIn
 
@@ -4546,7 +4536,6 @@
 | [Software Engineer Intern - Commerce Ads - 2026 Summer](https://lifeattiktok.com/search/7595346355196954933) | 85 | Seattle, WA | Software | 2026-06-15 |
 | [Software Engineer Intern - Global Site Reliability Engineer](https://lifeattiktok.com/search/7536042624604997896) | 85 | San Jose, CA | Software | 2026-06-15 |
 | [Software Engineer Intern - Monetization Technology](https://lifeattiktok.com/search/7561941583777941813) | 85 | San Jose, CA | Software | 2026-06-15 |
-| [Software Engineer Project Intern – Lead Ads - 2026 Start - BS/MS](https://lifeattiktok.com/search/7584179082162653445) | 85 | San Jose, CA | Software | 2026-06-15 |
 | [Software Engineer/Mobile Engineer Intern - Monetization Technology - Ads Core Demonstration](https://lifeattiktok.com/search/7532444719809628424) | 85 | San Jose, CA | Software | 2026-06-15 |
 | [Data Science Project Intern - Advertising Team - 2026 Start](https://lifeattiktok.com/search/7605353124442343733) | 60 | San Jose, CA | AI/ML/Data | 2026-06-15 |
 | [AI Software Engineer Intern - Transaction Platform](https://lifeattiktok.com/search/7646621925436131637) | 85 | San Jose, CA | Software | 2026-06-09 |
