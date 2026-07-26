@@ -1,6 +1,6 @@
 # Open Internships
 
-**1589** internships across **79/80** companies — last updated 2026-07-26.
+**1587** internships across **79/80** companies — last updated 2026-07-26.
 
 ## Companies
 
@@ -204,7 +204,6 @@
 - [Fab2](#fab2) (5)
 - [Faire](#faire) (1)
 - [Fanatics](#fanatics) (3)
-- [FHLBank Topeka](#fhlbank-topeka) (1)
 - [Figure](#figure) (3)
 - [First Quality](#first-quality) (1)
 - [Fiserv](#fiserv) (2)
@@ -526,7 +525,6 @@
 - [Unisys](#unisys) (1)
 - [United Parcel Service (UPS)](#united-parcel-service-ups) (1)
 - [University of Arkansas](#university-of-arkansas) (1)
-- [University of Maryland - College Park](#university-of-maryland-college-park) (1)
 - [University of Texas at Austin](#university-of-texas-at-austin) (4)
 - [University of Virginia](#university-of-virginia) (1)
 - [University System of New Hampshire](#university-system-of-new-hampshire) (1)
@@ -2173,12 +2171,6 @@
 | [AI Intern](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27180) | 60 | NYC | Software | 2026-05-09 |
 | [Collectibles Intern - Product - Physical Trading Cards](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26720) | 60 | NYC | Quant | 2026-05-09 |
 | [Collectibles Intern - Product - Physical Trading Cards](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27190) | 60 | Coppell, TX | Quant | 2026-05-09 |
-
-## FHLBank Topeka
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Financial Analyst Intern](https://fhlbtopeka.wd1.myworkdayjobs.com/FHLBT/job/Topeka-Kansas/Member-Solutions-Intern_JR100348) | 68 | Topeka, KS | AI/ML/Data | 2026-07-25 |
 
 ## Figure
 
@@ -4687,12 +4679,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Graduate Assistant - Information Science](https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/Graduate-Assistant---Information-Science_R0062021) | 74 | Little Rock, AR | AI/ML/Data | 2026-07-26 |
-
-## University of Maryland - College Park
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Office of Career Services Intern - Technology Team](https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Intern--Office-of-Career-Services---Technology-Team_JR104246-1) | 68 | Hyattsville, MD | AI/ML/Data | 2026-07-25 |
 
 ## University of Texas at Austin
 
