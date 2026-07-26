@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T13:52:58.154Z",
+  "generatedAt": "2026-07-26T14:56:04.133Z",
   "companyCount": 80,
   "okCount": 79,
   "jobCount": 1587,
@@ -12134,19 +12134,6 @@
       ]
     },
     {
-      "id": "canonical:80d8b55bc00c3b4c",
-      "title": "Business Intelligence Intern",
-      "url": "https://jobs.smartrecruiters.com/Eurofins/744000130829489",
-      "location": "Lancaster, PA",
-      "department": "AI/ML/Data",
-      "company": "Eurofins",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:3f94a7964c2e6f0f",
       "title": "Product Development Intern",
       "url": "https://job-boards.greenhouse.io/fourhands/jobs/4272048009",
@@ -12195,6 +12182,19 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:80d8b55bc00c3b4c",
+      "title": "Business Intelligence Intern",
+      "url": "https://jobs.smartrecruiters.com/Eurofins/744000131132249",
+      "location": "Lancaster, PA",
+      "department": "AI/ML/Data",
+      "company": "Eurofins",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
