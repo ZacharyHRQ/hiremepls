@@ -1,6 +1,6 @@
 # Open Internships
 
-**1586** internships across **79/80** companies — last updated 2026-07-26.
+**1581** internships across **79/80** companies — last updated 2026-07-26.
 
 ## Companies
 
@@ -198,7 +198,6 @@
 - [Evonik](#evonik) (1)
 - [Excel Sports Management](#excel-sports-management) (1)
 - [Expedia Group](#expedia-group) (1)
-- [Exploration Technology Corp.](#exploration-technology-corp) (1)
 - [F. Schumacher & Co.](#f-schumacher-co) (1)
 - [fab2](#fab2) (1)
 - [Fab2](#fab2) (5)
@@ -287,7 +286,7 @@
 - [Jain Global](#jain-global) (1)
 - [Jane Street](#jane-street) (19)
 - [JINGDONG](#jingdong) (1)
-- [JP Morgan Chase](#jp-morgan-chase) (2)
+- [JP Morgan Chase](#jp-morgan-chase) (1)
 - [Jump Trading](#jump-trading) (43)
 - [Junior](#junior) (1)
 - [k-ID](#k-id) (1)
@@ -296,7 +295,6 @@
 - [Kensington](#kensington) (2)
 - [Kepler Communications](#kepler-communications) (1)
 - [Keysight Technologies](#keysight-technologies) (1)
-- [Kinaxis](#kinaxis) (1)
 - [Kinetic Systems](#kinetic-systems) (1)
 - [Kirin](#kirin) (2)
 - [KLA](#kla) (1)
@@ -354,7 +352,7 @@
 - [NBCUniversal](#nbcuniversal) (2)
 - [Nelnet](#nelnet) (1)
 - [NeoCognition](#neocognition) (1)
-- [NeoSigma](#neosigma) (2)
+- [NeoSigma](#neosigma) (1)
 - [Netflix](#netflix) (1)
 - [Netic](#netic) (3)
 - [Neuralink](#neuralink) (4)
@@ -365,6 +363,7 @@
 - [Nissan Global](#nissan-global) (1)
 - [Niural](#niural) (1)
 - [Nokia](#nokia) (1)
+- [North Cloud](#north-cloud) (1)
 - [Northrop Grumman](#northrop-grumman) (1)
 - [Northwell Health](#northwell-health) (1)
 - [Northwestern Mutual](#northwestern-mutual) (3)
@@ -416,7 +415,6 @@
 - [Primetals Technologies](#primetals-technologies) (2)
 - [Prior Labs](#prior-labs) (1)
 - [PsiQuantum](#psiquantum) (1)
-- [Pylon](#pylon) (1)
 - [Quadric](#quadric) (3)
 - [Quadrillion](#quadrillion) (2)
 - [QuantCo](#quantco) (1)
@@ -441,7 +439,6 @@
 - [Rockwell Automation](#rockwell-automation) (1)
 - [ROCKWOOL Group](#rockwool-group) (2)
 - [Royal Bank of Canada](#royal-bank-of-canada) (3)
-- [RTX](#rtx) (1)
 - [Samaya](#samaya) (1)
 - [Samsung Research America](#samsung-research-america) (1)
 - [Sandhills Global](#sandhills-global) (2)
@@ -2098,7 +2095,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Business Intelligence Intern](https://jobs.smartrecruiters.com/Eurofins/744000131132249) | 68 | Lancaster, PA | AI/ML/Data | 2026-06-08 |
+| [Business Intelligence Intern](https://jobs.smartrecruiters.com/Eurofins/744000130829489) | 68 | Lancaster, PA | AI/ML/Data | 2026-06-08 |
 
 ## EV Realty
 
@@ -2129,12 +2126,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Machine Learning Science Intern](https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Machine-Learning-Science-Intern---PhD---2026---Austin--San-Jose_R-98585) | 68 | San Jose, CA / Austin, TX | AI/ML/Data | 2026-07-21 |
-
-## Exploration Technology Corp.
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Engineer Intern](https://ats.rippling.com/etg/jobs/75ad65e6-f504-4ae2-adf1-587e704b2bcc) | 50 | SF | Hardware | 2026-07-25 |
 
 ## F. Schumacher & Co.
 
@@ -2346,7 +2337,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://ats.rippling.com/gitar-careers/jobs/76868d2c-10f0-4c43-8f47-c541f1d41e49) | 85 | San Mateo, CA | Software | 2026-07-23 |
+| [Software Engineer Intern](https://ats.rippling.com/gitar-careers/jobs/bfc2d948-40d8-4479-9885-fd1619ec2bda) | 85 | San Mateo, CA | Software | 2026-07-23 |
 
 ## Global Infrastructure
 
@@ -2750,7 +2741,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Machine Learning Center of Excellence Summer Associate Time Series & Reinforcement Learning Interns…](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770593) | 60 | London, UK | AI/ML/Data | 2026-07-24 |
 | [Machine Learning Center of Excellence Intern - NLP](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765492) | 60 | London, UK | AI/ML/Data | 2026-07-02 |
 
 ## Jump Trading
@@ -2843,12 +2833,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [AI/ML Research Intern](https://jobs.keysight.com/jobs/52557?icims=1) | 60 | Edinburgh, UK | AI/ML/Data | 2026-07-21 |
-
-## Kinaxis
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Engineer Co-op/Intern - Data & Analytics](https://careers-kinaxis.icims.com/jobs/34766/job?mobile=true&needsRedirect=false) | 85 | Ottawa, ON, Canada | AI/ML/Data | 2026-07-23 |
 
 ## Kinetic Systems
 
@@ -3157,7 +3141,7 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern - Data & Machine Learning](https://ats.rippling.com/moon/jobs/5f0b98b7-561a-41d2-9104-76bdf06df094) | 85 | Glendale, CA | AI/ML/Data | 2026-07-24 |
-| [Software Engineer Intern - Backend & API](https://ats.rippling.com/moon/jobs/8b81bca7-1a64-4377-8ea8-869aac03080b) | 85 | Glendale, CA | Software | 2026-07-23 |
+| [Software Engineer Intern, Backend & API](https://ats.rippling.com/en-GB/moon/jobs/8b81bca7-1a64-4377-8ea8-869aac03080b) | 85 | Glendale, CA | — | 2026-07-23 |
 
 ## Moss & Associates
 
@@ -3240,7 +3224,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Member of Technical Staff Intern](https://ats.rippling.com/neosigma/jobs/a2ee1d26-a551-45d2-9854-6dbf8ed2c866) | 60 | SF | Software | 2026-07-24 |
 | [Member of Technical Staff Intern](https://ats.rippling.com/en-GB/neosigma/jobs/a2ee1d26-a551-45d2-9854-6dbf8ed2c866) | 50 | San Francisco, CA | — | 2026-07-24 |
 
 ## Netflix
@@ -3310,6 +3293,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Embedded C/C++ Software Developer Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35268) | 85 | Ottawa, ON, Canada | Hardware | 2026-05-20 |
+
+## North Cloud
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI Automation Intern](https://ats.rippling.com/north-cloud/jobs/9d9d6db9-2da0-45e2-a3d3-6373c61763a4) | 60 | Brooklyn, NY | Software | 2026-07-26 |
 
 ## Northrop Grumman
 
@@ -3760,12 +3749,6 @@
 | --- | --- | --- | --- | --- |
 | [Optical Packaging and Characterization Engineer Intern](https://www.psiquantum.com/apply?gh_jid=7761881003) | 50 | Milpitas, CA | Hardware | 2026-06-03 |
 
-## Pylon
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application) | 93 | SF | Software | 2026-07-25 |
-
 ## Quadric
 
 | Title | Score | Location | Department | First seen |
@@ -3937,12 +3920,6 @@
 | [Relationship Manager Commercial Markets Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CAPE-BRETON-Nova-Scotia-Canada/Relationship-Manager-Commercial-Markets--Intern_R-0000181768) | 68 | Inverness, NS, Canada | Quant | 2026-07-23 |
 | [Relationship Manager Commercial Markets Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/GRAND-FALLS-New-Brunswick-Canada/Relationship-Manager-Commercial-Markets-Intern_R-0000178547) | 68 | Madawaska County, NB, Canada | Quant | 2026-07-22 |
 
-## RTX
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Machine Learning Researcher Intern/Co-op](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-RTRC-K--411-Silver-Ln--RTRC-K/Fall-2026--Intern-Coop--Machine-Learning-Researcher_01860050) | 93 | Hartford, CT | AI/ML/Data | 2026-07-23 |
-
 ## Samaya
 
 | Title | Score | Location | Department | First seen |
@@ -4086,7 +4063,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Technical Service Engineer Intern](https://jobs.smartrecruiters.com/SmithsGroup2/744000128739981) | 58 | Parsippany-Troy Hills, NJ | Hardware | 2026-07-20 |
+| [Depot Service Engineer Intern](https://jobs.smartrecruiters.com/SmithsGroup2/744000125196499) | 58 | Gunpowder, MD | Hardware | 2026-07-26 |
 
 ## Snowflake
 
@@ -4175,7 +4152,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI](https://ats.rippling.com/spreeai/jobs/aa087086-dd4b-42be-a499-051546655e97) | 85 | SF | AI/ML/Data | 2026-07-24 |
+| [Software Engineer Intern](https://ats.rippling.com/spreeai/jobs/d34aed29-7a11-4e37-b5bc-e9317f82f0b1) | 85 | SF | Software | 2026-07-26 |
 | [Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web](https://ats.rippling.com/spreeai/jobs/c52472cb-2671-45d7-b666-17196dc3df25) | 85 | SF | Software | 2026-07-23 |
 
 ## Squarepoint Capital

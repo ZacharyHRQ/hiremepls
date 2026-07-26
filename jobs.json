@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-26T09:29:21.820Z",
+  "generatedAt": "2026-07-26T11:00:02.862Z",
   "companyCount": 80,
   "okCount": 79,
-  "jobCount": 1586,
+  "jobCount": 1581,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1085,7 +1085,6 @@
     "canonical:ea747858241817da": "2026-07-20T23:30:05.931Z",
     "canonical:5ff2346ae4f85ba5": "2026-07-20T23:30:05.931Z",
     "canonical:0eee5ca2931ec3cd": "2026-07-20T23:30:05.931Z",
-    "canonical:d5c20328e22a63d5": "2026-07-20T23:30:05.931Z",
     "canonical:cf3dc0301ace4e1d": "2026-07-20T23:30:05.931Z",
     "canonical:857260fd628a863f": "2026-07-20T23:30:05.931Z",
     "canonical:9774be18bf50fc70": "2026-07-20T23:30:05.931Z",
@@ -1448,12 +1447,10 @@
     "canonical:da0234b2290b1dd0": "2026-07-23T11:29:56.453Z",
     "canonical:2d61efba51dca122": "2026-07-23T11:29:56.453Z",
     "canonical:79cfcc7e8096fa91": "2026-07-23T13:01:14.511Z",
-    "canonical:ac88b4fd6305623b": "2026-07-23T13:01:14.511Z",
     "canonical:ec23121dc644d031": "2026-07-23T13:01:14.511Z",
     "canonical:c686a4438be89e1f": "2026-07-23T13:01:14.511Z",
     "canonical:2d1db51a4619b0f0": "2026-07-23T13:01:14.511Z",
     "canonical:b28e03b8d5ddfd5c": "2026-07-23T13:01:14.511Z",
-    "canonical:e6bcb29d693ddee4": "2026-07-23T13:01:14.511Z",
     "canonical:5c2778d446a1f22f": "2026-07-23T13:01:14.511Z",
     "canonical:559862a3c8507c45": "2026-07-23T13:01:14.511Z",
     "canonical:0efa575b2c80556c": "2026-07-23T13:01:14.511Z",
@@ -1543,9 +1540,6 @@
     "canonical:06912e30d2002b80": "2026-07-24T11:21:51.310Z",
     "canonical:ec9d67665134d10a": "2026-07-24T11:21:51.310Z",
     "canonical:d4522e592923d04c": "2026-07-24T12:52:14.698Z",
-    "canonical:dc4433667883584e": "2026-07-24T12:52:14.698Z",
-    "canonical:ea516bcb2c3049bb": "2026-07-24T12:52:14.698Z",
-    "canonical:38a7d4388515b288": "2026-07-24T12:52:14.698Z",
     "canonical:9579037e880fa14c": "2026-07-24T12:52:14.698Z",
     "canonical:f737fd209e879331": "2026-07-24T12:52:14.698Z",
     "canonical:b7e2b2dbebb1a7cb": "2026-07-24T16:38:46.477Z",
@@ -1576,7 +1570,6 @@
     "canonical:ecee67fa5e5ef0e7": "2026-07-25T01:09:11.036Z",
     "canonical:ef650b16fce50cc6": "2026-07-25T04:24:58.500Z",
     "canonical:1d7a63ccedca3fdd": "2026-07-25T04:24:58.500Z",
-    "canonical:022b1d06c3aa6aac": "2026-07-25T10:14:23.784Z",
     "canonical:b3223570baf82253": "2026-07-25T11:34:41.314Z",
     "canonical:216181f28694752a": "2026-07-25T11:34:41.314Z",
     "canonical:7cd65dbc34efa0fa": "2026-07-25T11:34:41.314Z",
@@ -1586,10 +1579,12 @@
     "canonical:f5d84370157fe2ee": "2026-07-25T12:41:32.993Z",
     "canonical:ebdb73f1d53cde75": "2026-07-25T12:41:32.993Z",
     "canonical:c1e9394452463ed1": "2026-07-25T12:41:32.993Z",
-    "canonical:ba545b91215fc20b": "2026-07-25T12:41:32.993Z",
     "canonical:04172e347ecd89c6": "2026-07-25T14:16:17.059Z",
     "canonical:ae1902dace82286a": "2026-07-25T15:34:59.731Z",
-    "canonical:1098fd2568a157c1": "2026-07-25T19:52:27.129Z"
+    "canonical:1098fd2568a157c1": "2026-07-25T19:52:27.129Z",
+    "canonical:dceb2c721f2704e4": "2026-07-26T11:00:02.862Z",
+    "canonical:8f0220e3ccd8e047": "2026-07-26T11:00:02.862Z",
+    "canonical:71a300b6245d569f": "2026-07-26T11:00:02.862Z"
   },
   "jobs": [
     {
@@ -9747,6 +9742,18 @@
       ]
     },
     {
+      "id": "canonical:dceb2c721f2704e4",
+      "title": "Depot Service Engineer Intern",
+      "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000125196499",
+      "location": "Gunpowder, MD",
+      "department": "Hardware",
+      "company": "Smiths Detection Group",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:5cb9ff5d80f675ba",
       "title": "ML/NLP Research Intern",
       "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8541339002",
@@ -10294,19 +10301,6 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:ac88b4fd6305623b",
-      "title": "Engineer Co-op/Intern - Data & Analytics",
-      "url": "https://careers-kinaxis.icims.com/jobs/34766/job?mobile=true&needsRedirect=false",
-      "location": "Ottawa, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Kinaxis",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -10996,18 +10990,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:d5c20328e22a63d5",
-      "title": "Technical Service Engineer Intern",
-      "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000128739981",
-      "location": "Parsippany-Troy Hills, NJ",
-      "department": "Hardware",
-      "company": "Smiths Detection Group",
-      "score": 58,
-      "scoreReasons": [
         "direct ATS"
       ]
     },
@@ -12131,6 +12113,19 @@
       ]
     },
     {
+      "id": "canonical:80d8b55bc00c3b4c",
+      "title": "Business Intelligence Intern",
+      "url": "https://jobs.smartrecruiters.com/Eurofins/744000130829489",
+      "location": "Lancaster, PA",
+      "department": "AI/ML/Data",
+      "company": "Eurofins",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:3f94a7964c2e6f0f",
       "title": "Product Development Intern",
       "url": "https://job-boards.greenhouse.io/fourhands/jobs/4272048009",
@@ -12179,19 +12174,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:80d8b55bc00c3b4c",
-      "title": "Business Intelligence Intern",
-      "url": "https://jobs.smartrecruiters.com/Eurofins/744000131132249",
-      "location": "Lancaster, PA",
-      "department": "AI/ML/Data",
-      "company": "Eurofins",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -15675,20 +15657,6 @@
       ]
     },
     {
-      "id": "canonical:ba545b91215fc20b",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application",
-      "location": "SF",
-      "department": "Software",
-      "company": "Pylon",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:d0301d5322394fa7",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af/application",
@@ -16457,18 +16425,6 @@
       ]
     },
     {
-      "id": "canonical:dc4433667883584e",
-      "title": "Machine Learning Center of Excellence Summer Associate Time Series & Reinforcement Learning Interns…",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770593",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "JP Morgan Chase",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:4340ff87cce8bf1f",
       "title": "Spaceflight Hardware Intern",
       "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Fall-2026---Spaceflight-Hardware-Intern_R0166096",
@@ -16676,20 +16632,6 @@
       ]
     },
     {
-      "id": "canonical:e6bcb29d693ddee4",
-      "title": "Machine Learning Researcher Intern/Co-op",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-RTRC-K--411-Silver-Ln--RTRC-K/Fall-2026--Intern-Coop--Machine-Learning-Researcher_01860050",
-      "location": "Hartford, CT",
-      "department": "AI/ML/Data",
-      "company": "RTX",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:cd090e03edcb6380",
       "title": "Product Operations Intern",
       "url": "https://jobs.ashbyhq.com/vega/ebce385f-d4d3-4a39-a999-e048877a81e4/application?embed=true",
@@ -16846,18 +16788,6 @@
       ]
     },
     {
-      "id": "canonical:ea516bcb2c3049bb",
-      "title": "Member of Technical Staff Intern",
-      "url": "https://ats.rippling.com/neosigma/jobs/a2ee1d26-a551-45d2-9854-6dbf8ed2c866",
-      "location": "SF",
-      "department": "Software",
-      "company": "NeoSigma",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:1c888f1275ab0501",
       "title": "Applied Scientist / Research Engineer Intern",
       "url": "https://jobs.ashbyhq.com/mistral.ai/de46ba8b-00cb-4618-83df-66e15a78434e/application?embed=true",
@@ -16885,11 +16815,11 @@
       ]
     },
     {
-      "id": "canonical:38a7d4388515b288",
-      "title": "Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI",
-      "url": "https://ats.rippling.com/spreeai/jobs/aa087086-dd4b-42be-a499-051546655e97",
+      "id": "canonical:8f0220e3ccd8e047",
+      "title": "Software Engineer Intern",
+      "url": "https://ats.rippling.com/spreeai/jobs/d34aed29-7a11-4e37-b5bc-e9317f82f0b1",
       "location": "SF",
-      "department": "AI/ML/Data",
+      "department": "Software",
       "company": "SpreeAI ",
       "score": 85,
       "scoreReasons": [
@@ -16980,7 +16910,7 @@
     {
       "id": "canonical:559862a3c8507c45",
       "title": "Software Engineer Intern",
-      "url": "https://ats.rippling.com/gitar-careers/jobs/76868d2c-10f0-4c43-8f47-c541f1d41e49",
+      "url": "https://ats.rippling.com/gitar-careers/jobs/bfc2d948-40d8-4479-9885-fd1619ec2bda",
       "location": "San Mateo, CA",
       "department": "Software",
       "company": "Gitar, Inc.",
@@ -16999,19 +16929,6 @@
       "company": "Pendulum Intelligence",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:657f691a0a88c3ba",
-      "title": "Software Engineer Intern - Backend & API",
-      "url": "https://ats.rippling.com/moon/jobs/8b81bca7-1a64-4377-8ea8-869aac03080b",
-      "location": "Glendale, CA",
-      "department": "Software",
-      "company": "Moon",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
     },
     {
       "id": "canonical:9579037e880fa14c",
@@ -17936,14 +17853,16 @@
       ]
     },
     {
-      "id": "canonical:022b1d06c3aa6aac",
-      "title": "Engineer Intern",
-      "url": "https://ats.rippling.com/etg/jobs/75ad65e6-f504-4ae2-adf1-587e704b2bcc",
-      "location": "SF",
-      "department": "Hardware",
-      "company": "Exploration Technology Corp.",
-      "score": 50,
-      "scoreReasons": []
+      "id": "canonical:71a300b6245d569f",
+      "title": "AI Automation Intern",
+      "url": "https://ats.rippling.com/north-cloud/jobs/9d9d6db9-2da0-45e2-a3d3-6373c61763a4",
+      "location": "Brooklyn, NY",
+      "department": "Software",
+      "company": "North Cloud",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
     },
     {
       "id": "canonical:44b52479685bc87d",
@@ -20132,6 +20051,19 @@
       "location": "San Francisco, CA",
       "department": "",
       "company": "SpreeAI",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:657f691a0a88c3ba",
+      "title": "Software Engineer Intern, Backend & API",
+      "url": "https://ats.rippling.com/en-GB/moon/jobs/8b81bca7-1a64-4377-8ea8-869aac03080b",
+      "location": "Glendale, CA",
+      "department": "",
+      "company": "Moon",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
