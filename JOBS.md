@@ -1,6 +1,6 @@
 # Open Internships
 
-**1587** internships across **79/80** companies — last updated 2026-07-26.
+**1586** internships across **79/80** companies — last updated 2026-07-26.
 
 ## Companies
 
@@ -327,7 +327,6 @@
 - [Medtronic](#medtronic) (1)
 - [Melotech](#melotech) (3)
 - [Menasha Corporation](#menasha-corporation) (2)
-- [Mercor](#mercor) (1)
 - [Meshy](#meshy) (1)
 - [Meta](#meta) (16)
 - [Microchip Technology](#microchip-technology) (1)
@@ -3050,12 +3049,6 @@
 | --- | --- | --- | --- | --- |
 | [Application Engineer Intern](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Troy-Michigan/Application-Engineer-Intern--Summer-2026-_R13999) | 93 | Troy, MI | Software | 2026-07-21 |
 | [Material Innovation Center Intern](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Menasha-Wisconsin/Material-Innovation-Center-Intern_R12621) | 68 | Neenah, WI | AI/ML/Data | 2026-07-21 |
-
-## Mercor
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Science Intern](https://jobs.ashbyhq.com/mercor/11516609-e54b-4087-87c2-e84a8bafbb5a) | 68 | San Francisco, CA | Data Science, AI & Machine Learning | 2026-05-09 |
 
 ## Meshy
 
