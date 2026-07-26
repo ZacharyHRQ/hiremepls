@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-26T01:12:35.307Z",
+  "generatedAt": "2026-07-26T04:40:19.897Z",
   "companyCount": 80,
   "okCount": 79,
-  "jobCount": 1592,
+  "jobCount": 1593,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1595,7 +1595,8 @@
     "canonical:ba545b91215fc20b": "2026-07-25T12:41:32.993Z",
     "canonical:04172e347ecd89c6": "2026-07-25T14:16:17.059Z",
     "canonical:ae1902dace82286a": "2026-07-25T15:34:59.731Z",
-    "canonical:1098fd2568a157c1": "2026-07-25T19:52:27.129Z"
+    "canonical:1098fd2568a157c1": "2026-07-25T19:52:27.129Z",
+    "canonical:3a0280cd297d1f55": "2026-07-26T04:40:19.897Z"
   },
   "jobs": [
     {
@@ -15779,6 +15780,19 @@
       "location": "Palo Alto, CA",
       "department": "AI/ML/Data",
       "company": "Pika",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:3a0280cd297d1f55",
+      "title": "Editorial Data Reporting Intern",
+      "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "LexisNexis Risk Solutions",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
