@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T23:40:01.587Z",
+  "generatedAt": "2026-07-26T01:12:35.307Z",
   "companyCount": 80,
   "okCount": 79,
   "jobCount": 1592,
@@ -6292,86 +6292,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:e2da4182bcd33dd0",
-      "title": "Verification Engineer Intern",
-      "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Verification-Engineer-Intern_JR100109",
-      "location": "United States",
-      "department": "Hardware",
-      "company": "Ambarella",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:359a8c067eedb3bf",
-      "title": "Software Development Engineer Intern",
-      "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Development-Engineer-Intern_JR100108",
-      "location": "United States",
-      "department": "Hardware",
-      "company": "Ambarella",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:5147cd9949056765",
-      "title": "Data Scientist Intern",
-      "url": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Data-Scientist-Intern_JR1001434",
-      "location": "NYC",
-      "department": "AI/ML/Data",
-      "company": "Ardian",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:028d18b34318bfc8",
-      "title": "Algorithm Engineer Intern",
-      "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Algorithm-Engineer-Intern_JR100102",
-      "location": "United States",
-      "department": "AI/ML/Data",
-      "company": "Ambarella",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:3675cf3fec65ee87",
-      "title": "DFT Engineer Intern",
-      "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/DFT-Engineer-Intern_JR100103",
-      "location": "United States",
-      "department": "AI/ML/Data",
-      "company": "Ambarella",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:89a3d384d07dea86",
-      "title": "ASIC Design Engineer Intern",
-      "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/ASIC-Design-Engineer-Intern_JR100100",
-      "location": "United States",
-      "department": "Hardware",
-      "company": "Ambarella",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
       ]
     },
     {
@@ -18770,6 +18690,84 @@
       "company": "Pennsylvania State University",
       "score": 68,
       "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:3675cf3fec65ee87",
+      "title": "DFT Engineer Intern",
+      "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/DFT-Engineer-Intern_JR100103",
+      "location": "United States",
+      "department": "Hardware",
+      "company": "Ambarella",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:89a3d384d07dea86",
+      "title": "ASIC Design Engineer Intern",
+      "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/ASIC-Design-Engineer-Intern_JR100100",
+      "location": "United States",
+      "department": "Hardware",
+      "company": "Ambarella",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:5147cd9949056765",
+      "title": "Data Scientist Intern",
+      "url": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Data-Scientist-Intern_JR1001434",
+      "location": "NYC",
+      "department": "AI/ML/Data",
+      "company": "Ardian",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:028d18b34318bfc8",
+      "title": "Algorithm Engineer Intern",
+      "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Algorithm-Engineer-Intern_JR100102",
+      "location": "United States",
+      "department": "AI/ML/Data",
+      "company": "Ambarella",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:e2da4182bcd33dd0",
+      "title": "Verification Engineer Intern",
+      "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Verification-Engineer-Intern_JR100109",
+      "location": "United States",
+      "department": "Hardware",
+      "company": "Ambarella",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:359a8c067eedb3bf",
+      "title": "Software Development Engineer Intern",
+      "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Development-Engineer-Intern_JR100108",
+      "location": "United States",
+      "department": "Hardware",
+      "company": "Ambarella",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]

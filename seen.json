@@ -1715,12 +1715,6 @@
   ],
   "Snap": [],
   "SimplifyJobs 2026": [
-    "simplify:d5dc5d72-f912-436f-8385-faa6dc97d1f4",
-    "simplify:cd94083e-cc43-4ac3-ab77-eb4e883cf7ab",
-    "simplify:bb4315b8-bb8b-468f-932a-30ee22b6b85c",
-    "simplify:8fc7291e-0de8-484f-8554-ea5ae8d9b5dd",
-    "simplify:736a514c-c180-47cd-9b72-e9b5613e1d6e",
-    "simplify:22d08295-47cf-4b31-9064-5548c060a73f",
     "simplify:5c5c4c46-e9d5-4a1b-9fef-0e4d36cbc982",
     "simplify:7ec18b92-6234-459e-a584-65cfa7366928",
     "simplify:56813151-7d36-4d52-8cf7-4a0684c891ef",
@@ -2775,6 +2769,12 @@
     "simplify:3bd15e3e-ccea-4147-9d76-8699875570f9",
     "simplify:e3234588-2be6-40da-8aa3-d096c6574e76",
     "simplify:008e0d90-7269-48e2-83ff-7df9f23e5d28",
-    "simplify:cff6c5a6-5c4a-4f30-bb48-4543328cc059"
+    "simplify:cff6c5a6-5c4a-4f30-bb48-4543328cc059",
+    "simplify:736a514c-c180-47cd-9b72-e9b5613e1d6e",
+    "simplify:22d08295-47cf-4b31-9064-5548c060a73f",
+    "simplify:bb4315b8-bb8b-468f-932a-30ee22b6b85c",
+    "simplify:8fc7291e-0de8-484f-8554-ea5ae8d9b5dd",
+    "simplify:d5dc5d72-f912-436f-8385-faa6dc97d1f4",
+    "simplify:cd94083e-cc43-4ac3-ab77-eb4e883cf7ab"
   ]
 }
