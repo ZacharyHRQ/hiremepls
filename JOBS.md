@@ -1,6 +1,6 @@
 # Open Internships
 
-**1592** internships across **79/80** companies — last updated 2026-07-27.
+**1599** internships across **79/80** companies — last updated 2026-07-27.
 
 ## Companies
 
@@ -66,7 +66,7 @@
 - [AXQ Capital](#axq-capital) (1)
 - [BAE Systems](#bae-systems) (1)
 - [Bank of America](#bank-of-america) (1)
-- [Bank of Montreal](#bank-of-montreal) (2)
+- [Bank of Montreal](#bank-of-montreal) (3)
 - [Barclays](#barclays) (1)
 - [Barkback](#barkback) (1)
 - [Base Power](#base-power) (3)
@@ -93,8 +93,8 @@
 - [BNP Paribas](#bnp-paribas) (1)
 - [Bombardier](#bombardier) (1)
 - [BorgWarner](#borgwarner) (1)
-- [Bosch](#bosch) (4)
-- [Bosch Home Comfort](#bosch-home-comfort) (3)
+- [Bosch](#bosch) (3)
+- [Bosch Home Comfort](#bosch-home-comfort) (4)
 - [Boston Consulting Group](#boston-consulting-group) (2)
 - [Bot Auto](#bot-auto) (1)
 - [Bree](#bree) (1)
@@ -172,6 +172,7 @@
 - [Doctors Without Borders](#doctors-without-borders) (1)
 - [Docugami](#docugami) (2)
 - [DoorDash](#doordash) (1)
+- [Draper](#draper) (1)
 - [Droyd Robotics](#droyd-robotics) (2)
 - [DRW](#drw) (20)
 - [Dryft](#dryft) (1)
@@ -198,7 +199,7 @@
 - [EV Realty](#ev-realty) (1)
 - [Evolver](#evolver) (1)
 - [Evonik](#evonik) (1)
-- [Excel Sports Management](#excel-sports-management) (1)
+- [Excel Sports Management](#excel-sports-management) (2)
 - [Expedia Group](#expedia-group) (1)
 - [F. Schumacher & Co.](#f-schumacher-co) (1)
 - [fab2](#fab2) (1)
@@ -276,7 +277,7 @@
 - [Institute of Foundation Models](#institute-of-foundation-models) (4)
 - [Integra FEC](#integra-fec) (3)
 - [Integrity](#integrity) (1)
-- [Intel](#intel) (1)
+- [Intel](#intel) (2)
 - [Intercontinental Exchange, Inc.](#intercontinental-exchange-inc) (1)
 - [Interdigital](#interdigital) (1)
 - [International Rescue Committee (IRC)](#international-rescue-committee-irc) (2)
@@ -295,12 +296,13 @@
 - [KBR](#kbr) (1)
 - [Kensington](#kensington) (2)
 - [Kepler Communications](#kepler-communications) (1)
-- [Keysight Technologies](#keysight-technologies) (1)
+- [Keysight Technologies](#keysight-technologies) (2)
 - [Kinaxis](#kinaxis) (1)
 - [Kinetic Systems](#kinetic-systems) (1)
 - [Kirin](#kirin) (2)
 - [KLA](#kla) (1)
 - [KLA Corporation](#kla-corporation) (1)
+- [Kodak](#kodak) (1)
 - [kos.ai](#kos-ai) (1)
 - [KPH Healthcare Services](#kph-healthcare-services) (1)
 - [KRAFTON](#krafton) (1)
@@ -366,7 +368,7 @@
 - [Nissan Global](#nissan-global) (1)
 - [Niural](#niural) (1)
 - [Nokia](#nokia) (1)
-- [Northrop Grumman](#northrop-grumman) (2)
+- [Northrop Grumman](#northrop-grumman) (1)
 - [Northwestern Mutual](#northwestern-mutual) (3)
 - [Notion](#notion) (5)
 - [NVIDIA](#nvidia) (2)
@@ -510,7 +512,7 @@
 - [Together AI](#together-ai) (3)
 - [Topel Forman LLC](#topel-forman-llc) (1)
 - [Torc Robotics](#torc-robotics) (1)
-- [Toshiba Global Commerce](#toshiba-global-commerce) (3)
+- [Toshiba Global Commerce](#toshiba-global-commerce) (5)
 - [Tower Research](#tower-research) (1)
 - [Tower Research Capital](#tower-research-capital) (5)
 - [Toyota Research Institute](#toyota-research-institute) (2)
@@ -1153,8 +1155,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [RenderATL - 2027 US Software Engineering Internship](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003) | 68 | Seattle, Washington, United States | Software / Summer 2027 | 2026-07-27 |
-| [RenderATL 2027 US Firmware Engineering Internship](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800628003) | 58 | Seattle, Washington, United States | Hardware / Summer 2027 | 2026-07-27 |
+| [Software Engineering Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003) | 68 | Boston, MA / Seattle, WA | Software | 2026-07-27 |
+| [Firmware Engineering Internship](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800628003) | 58 | Boston, MA / Seattle, WA | Hardware | 2026-07-27 |
 
 ## Axos Bank
 
@@ -1184,6 +1186,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data and AI Operations Analyst Intern/Co-op - Cloud - 8 months](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-07-27 |
 | [Market Risk Analyst Co-op/Intern](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Market-Risk-Analyst--Fall-2026--Co-op-Internship----4-Months_R260022055) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-07-24 |
 | [Data Scientist Co-op/Internship - Months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879) | 93 | Toronto, ON, Canada | AI/ML/Data | 2026-07-22 |
 
@@ -1356,7 +1359,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Powertrain Controls Software Engineering Intern (6-Months)](https://jobs.smartrecruiters.com/BoschGroup/744000140089589) | 68 | Farmington Hills, MI, United States | Software / Not stated | 2026-07-27 |
 | [Autonomous Driving – Internship in Machine Learning](https://jobs.smartrecruiters.com/BoschGroup/744000139649345) | 68 | Sunnyvale, CA, United States | Data & ML/AI / Not stated | 2026-07-27 |
 | [AI Research Intern - Wireless Perception](https://jobs.smartrecruiters.com/BoschGroup/c4621e0f-5c1e-4a67-adc4-0671cbcaf28c) | 68 | Pittsburgh, PA | Data Science, AI & Machine Learning | 2026-05-09 |
 | [LLM & Agentic AI R&D Intern](https://jobs.bosch.com/en/job/REF273459Q-llm-agentic-ai-r-d-intern) | 60 | Sunnyvale, CA | Data Science, AI & Machine Learning | 2026-05-09 |
@@ -1365,6 +1367,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Powertrain Controls Software Engineer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140089589) | 93 | Southfield, MI | Hardware | 2026-07-27 |
 | [Research Intern](https://jobs.smartrecruiters.com/BoschGroup/744000136313549) | 68 | Sunnyvale, CA | AI/ML/Data | 2026-07-07 |
 | [A.1. Integration Intern](https://jobs.smartrecruiters.com/BoschGroup/744000134840254) | 68 | Columbia City, IN | AI/ML/Data | 2026-07-02 |
 | [Hardware Prototyping Intern - Data Center Rack](https://jobs.smartrecruiters.com/BoschGroup/744000134543799) | 58 | Sunnyvale, CA | Hardware | 2026-07-02 |
@@ -1944,6 +1947,12 @@
 | --- | --- | --- | --- | --- |
 | [AI Research Fellowship Intern](https://job-boards.greenhouse.io/doordashusa/jobs/7848317) | 68 | SF | AI/ML/Data | 2026-07-20 |
 
+## Draper
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Microsystems Integration Intern](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Microsystems-Integration-Intern_JR002730) | 58 | Cambridge, MA | Hardware | 2026-07-27 |
+
 ## Droyd Robotics
 
 | Title | Score | Location | Department | First seen |
@@ -2143,6 +2152,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Football Coaches Intern](https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4718768005) | 68 | Chicago, IL | AI/ML/Data | 2026-07-27 |
 | [Analytics Intern - Analytics](https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4716581005) | 68 | Chicago, IL | AI/ML/Data | 2026-07-22 |
 
 ## Expedia Group
@@ -2616,8 +2626,8 @@
 | [Graduate Quantitative Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4751729101) | 74 | Chicago, United States | — | 2026-07-01 |
 | [Graduate Hardware Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4823805101) | 64 | Chicago, United States | — | 2026-07-01 |
 | [Hardware Machine Learning PhD Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, IL | AI/ML/Data | 2026-05-09 |
-| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
+| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
 
 ## InfiniteQuant
 
@@ -2670,6 +2680,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [AI Applied Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916) | 68 | Hillsboro, OR | AI/ML/Data | 2026-07-27 |
 | [AI Applied intern](https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916) | 68 | US, Oregon, Hillsboro | Data & ML/AI / Not stated | 2026-07-27 |
 
 ## Intercontinental Exchange, Inc.
@@ -2848,6 +2859,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [R&D Software Engineer Intern](https://jobs.keysight.com/jobs/53652?icims=1) | 85 | Santa Clara, CA / Calabasas, CA | Hardware | 2026-07-27 |
 | [AI/ML Research Intern](https://jobs.keysight.com/jobs/52557?icims=1) | 60 | Edinburgh, UK | AI/ML/Data | 2026-07-21 |
 
 ## Kinaxis
@@ -2880,6 +2892,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [AI Intern](https://kla.wd1.myworkdayjobs.com/Search/job/Newport-United-Kingdom/AI-Summer-Intern_2638689) | 68 | Cardiff, UK | AI/ML/Data | 2026-07-07 |
+
+## Kodak
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Marketing Analytics Intern](https://careers.kodak.com/job/USA-Marketing-Analytics-Intern-CA/1412894200/?ats=successfactors) | 40 | Remote in USA | AI/ML/Data | 2026-07-27 |
 
 ## kos.ai
 
@@ -3325,8 +3343,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [2027 Returning Intern Software Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Returning-Intern-Software-Engineer_R10242378) | 93 | United States-Florida-Melbourne | Software / Summer 2027 | 2026-07-27 |
-| [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275) | 93 | Melbourne, FL | — | 2026-07-25 |
+| [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Returning-Intern-Software-Engineer_R10242378) | 93 | Melbourne, FL | Software | 2026-07-25 |
 
 ## Northwestern Mutual
 
@@ -3999,7 +4016,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Enterprise Data & AI Intern- Fall 2026 Internship](https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Enterprise-Data---AI-Intern--Fall-2026-Internship_JR-102685) | 68 | Virginia Beach, VA | Data & ML/AI / Fall 2026 | 2026-07-27 |
+| [Enterprise Data & AI Intern](https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Enterprise-Data---AI-Intern--Fall-2026-Internship_JR-102685) | 68 | Virginia Beach, VA | AI/ML/Data | 2026-07-27 |
 | [Data & AI Finance Strategy Intern - Fall 2026 Internship Remote](https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Data---AI-Finance-Strategy-Intern---Fall-2026-Internship-Remote_JR-103073) | 68 | Virginia Beach, VA | Data & ML/AI / Fall 2026 | 2026-07-24 |
 
 ## Serval
@@ -4590,6 +4607,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Product & Business Analytics Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195802007) | 68 | Durham, NC | AI/ML/Data | 2026-07-27 |
+| [AI Product Management Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195826007) | 58 | Durham, NC | Product | 2026-07-27 |
 | [Agentic Software Engineer Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5177892007) | 93 | Durham, NC | Software | 2026-07-27 |
 | [AI Engineer Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5192820007) | 93 | Frisco, TX | AI/ML/Data | 2026-07-27 |
 | [Project Management & AI Automation Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5190937007) | 68 | Frisco, TX | Data & ML/AI / Fall 2026 | 2026-07-27 |

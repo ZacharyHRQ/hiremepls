@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-27T22:51:22.243Z",
+  "generatedAt": "2026-07-27T23:54:43.222Z",
   "companyCount": 80,
   "okCount": 79,
-  "jobCount": 1592,
+  "jobCount": 1599,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1577,17 +1577,12 @@
     "canonical:2e58aed08b4a40b3": "2026-07-27T17:53:21.474Z",
     "canonical:1284ad8e46fc112b": "2026-07-27T17:53:21.474Z",
     "canonical:88375c6d48e7559d": "2026-07-27T17:53:21.474Z",
-    "canonical:14ea1a5cbe4d09bc": "2026-07-27T17:53:21.474Z",
-    "canonical:81f4619a2b5155ca": "2026-07-27T17:53:21.474Z",
     "canonical:7bf3ea60dbe8427a": "2026-07-27T19:11:14.803Z",
     "canonical:deaf88c40b6153ff": "2026-07-27T19:11:14.803Z",
     "canonical:c2685b423012adeb": "2026-07-27T19:11:14.803Z",
     "canonical:b9c2e23d57f69a86": "2026-07-27T20:41:18.581Z",
     "canonical:261581191e18b8e6": "2026-07-27T20:41:18.581Z",
     "canonical:8d6dde2532cc7dc8": "2026-07-27T20:41:18.581Z",
-    "canonical:a57688bba877331e": "2026-07-27T21:46:25.868Z",
-    "canonical:316de01d02e09fd8": "2026-07-27T21:46:25.868Z",
-    "canonical:16de358dd7a37b62": "2026-07-27T21:46:25.868Z",
     "canonical:d585baef5ea2b919": "2026-07-27T22:51:22.243Z",
     "canonical:a0ce1bc7635a7efb": "2026-07-27T22:51:22.243Z",
     "canonical:13a1acd9a79374b5": "2026-07-27T22:51:22.243Z",
@@ -1595,7 +1590,19 @@
     "canonical:20c91ce66d78abf8": "2026-07-27T22:51:22.243Z",
     "canonical:919d3be901285fee": "2026-07-27T22:51:22.243Z",
     "canonical:c23a7645caf77e31": "2026-07-27T22:51:22.243Z",
-    "canonical:e465ee8c7586c906": "2026-07-27T22:51:22.243Z"
+    "canonical:e465ee8c7586c906": "2026-07-27T22:51:22.243Z",
+    "canonical:503d23975813fd5c": "2026-07-27T23:54:43.222Z",
+    "canonical:9aaef3e4c361fe82": "2026-07-27T23:54:43.222Z",
+    "canonical:9bd73b3c81e5211b": "2026-07-27T23:54:43.222Z",
+    "canonical:ad1518ec22686d31": "2026-07-27T23:54:43.222Z",
+    "canonical:d040f46cd850b32c": "2026-07-27T23:54:43.222Z",
+    "canonical:d2f874c4fbf05014": "2026-07-27T23:54:43.222Z",
+    "canonical:12b1829640aa173c": "2026-07-27T23:54:43.222Z",
+    "canonical:a521bec16f3e19c2": "2026-07-27T23:54:43.222Z",
+    "canonical:f8288193650c793d": "2026-07-27T23:54:43.222Z",
+    "canonical:64ebc8191f377b6f": "2026-07-27T23:54:43.222Z",
+    "canonical:c8ab851034017db2": "2026-07-27T23:54:43.222Z",
+    "canonical:b42cdf2979b3fd03": "2026-07-27T23:54:43.222Z"
   },
   "jobs": [
     {
@@ -1818,10 +1825,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1833,10 +1840,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -16230,6 +16237,19 @@
       ]
     },
     {
+      "id": "canonical:503d23975813fd5c",
+      "title": "Enterprise Data & AI Intern",
+      "url": "https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Enterprise-Data---AI-Intern--Fall-2026-Internship_JR-102685",
+      "location": "Virginia Beach, VA",
+      "department": "AI/ML/Data",
+      "company": "Sentara Health",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:25170466c178dd22",
       "title": "Research Intern - Video World Models - Research & ML Systems",
       "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752",
@@ -17388,6 +17408,19 @@
       ]
     },
     {
+      "id": "canonical:9aaef3e4c361fe82",
+      "title": "Software Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003",
+      "location": "Boston, MA / Seattle, WA",
+      "department": "Software",
+      "company": "Axon",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:e34b719b483db9f2",
       "title": "FPGA Engineer Intern",
       "url": "https://www.optiver.com/join-us/jobs/8402114002/?gh_jid=8402114002",
@@ -18513,6 +18546,31 @@
       ]
     },
     {
+      "id": "canonical:9bd73b3c81e5211b",
+      "title": "AI Product Management Intern",
+      "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195826007",
+      "location": "Durham, NC",
+      "department": "Product",
+      "company": "Toshiba Global Commerce",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ad1518ec22686d31",
+      "title": "Product & Business Analytics Intern",
+      "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195802007",
+      "location": "Durham, NC",
+      "department": "AI/ML/Data",
+      "company": "Toshiba Global Commerce",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:33b63becca5acff3",
       "title": "Software Engineer Intern",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--On-site-_01860801",
@@ -18640,6 +18698,123 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:d040f46cd850b32c",
+      "title": "Football Coaches Intern",
+      "url": "https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4718768005",
+      "location": "Chicago, IL",
+      "department": "AI/ML/Data",
+      "company": "Excel Sports Management",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:d2f874c4fbf05014",
+      "title": "Marketing Analytics Intern",
+      "url": "https://careers.kodak.com/job/USA-Marketing-Analytics-Intern-CA/1412894200/?ats=successfactors",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "Kodak",
+      "score": 40,
+      "scoreReasons": [
+        "high-signal role",
+        "lower-fit title"
+      ]
+    },
+    {
+      "id": "canonical:12b1829640aa173c",
+      "title": "R&D Software Engineer Intern",
+      "url": "https://jobs.keysight.com/jobs/53652?icims=1",
+      "location": "Santa Clara, CA / Calabasas, CA",
+      "department": "Hardware",
+      "company": "Keysight Technologies",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:a521bec16f3e19c2",
+      "title": "Data and AI Operations Analyst Intern/Co-op - Cloud - 8 months",
+      "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724",
+      "location": "Toronto, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "Bank of Montreal",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f8288193650c793d",
+      "title": "Microsystems Integration Intern",
+      "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Microsystems-Integration-Intern_JR002730",
+      "location": "Cambridge, MA",
+      "department": "Hardware",
+      "company": "Draper",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:64ebc8191f377b6f",
+      "title": "Powertrain Controls Software Engineer Intern",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000140089589",
+      "location": "Southfield, MI",
+      "department": "Hardware",
+      "company": "Bosch Home Comfort",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1098fd2568a157c1",
+      "title": "Software Engineer Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Returning-Intern-Software-Engineer_R10242378",
+      "location": "Melbourne, FL",
+      "department": "Software",
+      "company": "Northrop Grumman",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c8ab851034017db2",
+      "title": "AI Applied Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916",
+      "location": "Hillsboro, OR",
+      "department": "AI/ML/Data",
+      "company": "Intel",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:b42cdf2979b3fd03",
+      "title": "Firmware Engineering Internship",
+      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800628003",
+      "location": "Boston, MA / Seattle, WA",
+      "department": "Hardware",
+      "company": "Axon",
+      "score": 58,
+      "scoreReasons": [
         "direct ATS"
       ]
     },
@@ -20461,20 +20636,6 @@
       ]
     },
     {
-      "id": "canonical:1098fd2568a157c1",
-      "title": "Software Engineer Intern",
-      "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275",
-      "location": "Melbourne, FL",
-      "department": "",
-      "company": "Northrop Grumman",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:98d169a93517ae1a",
       "title": "Software Engineering Intern (Summer 2027)",
       "url": "https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05",
@@ -21484,39 +21645,12 @@
       ]
     },
     {
-      "id": "canonical:a57688bba877331e",
-      "title": "Powertrain Controls Software Engineering Intern (6-Months)",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000140089589",
-      "location": "Farmington Hills, MI, United States",
-      "department": "Software / Not stated",
-      "company": "Bosch",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:8d6dde2532cc7dc8",
       "title": "Software Engineer Intern - ML Systems",
       "url": "https://boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004",
       "location": "Onsite - Austin, TX",
       "department": "Data & ML/AI / Not stated",
       "company": "Apptronik",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:14ea1a5cbe4d09bc",
-      "title": "2027 Returning Intern Software Engineer",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Returning-Intern-Software-Engineer_R10242378",
-      "location": "United States-Florida-Melbourne",
-      "department": "Software / Summer 2027",
-      "company": "Northrop Grumman",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -21534,31 +21668,6 @@
       "score": 68,
       "scoreReasons": [
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:316de01d02e09fd8",
-      "title": "RenderATL - 2027 US Software Engineering Internship",
-      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003",
-      "location": "Seattle, Washington, United States",
-      "department": "Software / Summer 2027",
-      "company": "Axon",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:16de358dd7a37b62",
-      "title": "RenderATL 2027 US Firmware Engineering Internship",
-      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800628003",
-      "location": "Seattle, Washington, United States",
-      "department": "Hardware / Summer 2027",
-      "company": "Axon",
-      "score": 58,
-      "scoreReasons": [
         "direct ATS"
       ]
     },
@@ -21596,19 +21705,6 @@
       "location": "Fort Smith, AR",
       "department": "Data & ML/AI / Not stated",
       "company": "ACDS",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:81f4619a2b5155ca",
-      "title": "Enterprise Data & AI Intern- Fall 2026 Internship",
-      "url": "https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Enterprise-Data---AI-Intern--Fall-2026-Internship_JR-102685",
-      "location": "Virginia Beach, VA",
-      "department": "Data & ML/AI / Fall 2026",
-      "company": "Sentara Health",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
