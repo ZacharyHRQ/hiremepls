@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-27T16:01:50.350Z",
+  "generatedAt": "2026-07-27T17:53:21.474Z",
   "companyCount": 80,
   "okCount": 79,
-  "jobCount": 1587,
+  "jobCount": 1591,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1539,7 +1539,6 @@
     "canonical:47f4547c78cbe49c": "2026-07-24T22:42:05.015Z",
     "canonical:effba85f704368fa": "2026-07-24T22:42:05.015Z",
     "canonical:0a5b28109c032dfd": "2026-07-24T22:42:05.015Z",
-    "canonical:0af133d9a30e3d6c": "2026-07-24T22:42:05.015Z",
     "canonical:8cf196bbf7dc679c": "2026-07-24T22:42:05.015Z",
     "canonical:f8b98161d0d229d1": "2026-07-24T22:42:05.015Z",
     "canonical:42c4a6d8c5264cf5": "2026-07-24T23:42:50.061Z",
@@ -1590,7 +1589,12 @@
     "canonical:33b63becca5acff3": "2026-07-27T16:01:50.350Z",
     "canonical:cc27892b2185aa28": "2026-07-27T16:01:50.350Z",
     "canonical:298e52b8e516ee2b": "2026-07-27T16:01:50.350Z",
-    "canonical:c4cdd8a2e8efc343": "2026-07-27T16:01:50.350Z"
+    "canonical:c4cdd8a2e8efc343": "2026-07-27T16:01:50.350Z",
+    "canonical:2e58aed08b4a40b3": "2026-07-27T17:53:21.474Z",
+    "canonical:1284ad8e46fc112b": "2026-07-27T17:53:21.474Z",
+    "canonical:88375c6d48e7559d": "2026-07-27T17:53:21.474Z",
+    "canonical:14ea1a5cbe4d09bc": "2026-07-27T17:53:21.474Z",
+    "canonical:81f4619a2b5155ca": "2026-07-27T17:53:21.474Z"
   },
   "jobs": [
     {
@@ -5249,6 +5253,18 @@
       "company": "Amazon",
       "score": 50,
       "scoreReasons": []
+    },
+    {
+      "id": "canonical:2e58aed08b4a40b3",
+      "title": "Graduate Area Manager - 2026 Start Date",
+      "url": "https://amazon.jobs/en/jobs/3078645/graduate-area-manager-2026-start-date",
+      "location": "Vrskman",
+      "department": "Fulfillment & Operations Management",
+      "company": "Amazon",
+      "score": 56,
+      "scoreReasons": [
+        "new grad"
+      ]
     },
     {
       "id": "canonical:7958500f83486df8",
@@ -18311,20 +18327,6 @@
       ]
     },
     {
-      "id": "canonical:0af133d9a30e3d6c",
-      "title": "Data & Insights Graduate Research Assistant",
-      "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Data---Insights-Graduate-Research-Assistant_R_00047610",
-      "location": "Austin, TX",
-      "department": "AI/ML/Data",
-      "company": "University of Texas at Austin",
-      "score": 74,
-      "scoreReasons": [
-        "high-signal role",
-        "new grad",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:32b1d2cc0e89c258",
       "title": "Quantitative Developer Intern",
       "url": "https://job-boards.greenhouse.io/blackedgecapital/jobs/4703821005",
@@ -21405,6 +21407,47 @@
       ]
     },
     {
+      "id": "canonical:1284ad8e46fc112b",
+      "title": "Information Security Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/appian/jobs/8088496",
+      "location": "McLean, Virginia",
+      "department": "Security / Summer 2027",
+      "company": "Appian",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:88375c6d48e7559d",
+      "title": "Intern Program - Agentic AI",
+      "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern-Program---Agentic-AI_R22904",
+      "location": "Lincoln, NE",
+      "department": "Data & ML/AI / Summer 2027",
+      "company": "Nelnet",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:14ea1a5cbe4d09bc",
+      "title": "2027 Returning Intern Software Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Returning-Intern-Software-Engineer_R10242378",
+      "location": "United States-Florida-Melbourne",
+      "department": "Software / Summer 2027",
+      "company": "Northrop Grumman",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:c4cdd8a2e8efc343",
       "title": "Informational Technology Cybersecurity Co-Op/Intern - Fall 2026",
       "url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Co-op-Student-Admin_64613-1",
@@ -21464,6 +21507,19 @@
       "location": "Fort Smith, AR",
       "department": "Data & ML/AI / Summer 2027",
       "company": "ACDS",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:81f4619a2b5155ca",
+      "title": "Enterprise Data & AI Intern- Fall 2026 Internship",
+      "url": "https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Enterprise-Data---AI-Intern--Fall-2026-Internship_JR-102685",
+      "location": "Virginia Beach, VA",
+      "department": "Data & ML/AI / Fall 2026",
+      "company": "Sentara Health",
       "score": 68,
       "scoreReasons": [
         "high-signal role",

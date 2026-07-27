@@ -1,6 +1,6 @@
 # Open Internships
 
-**1587** internships across **79/80** companies — last updated 2026-07-27.
+**1591** internships across **79/80** companies — last updated 2026-07-27.
 
 ## Companies
 
@@ -22,7 +22,7 @@
 - [AlixPartners](#alixpartners) (1)
 - [Altasciences](#altasciences) (2)
 - [Altom Transport](#altom-transport) (2)
-- [Amazon](#amazon) (166)
+- [Amazon](#amazon) (167)
 - [Ambarella](#ambarella) (8)
 - [Amentum](#amentum) (1)
 - [American Enterprise Institute](#american-enterprise-institute) (2)
@@ -30,7 +30,7 @@
 - [Anduril](#anduril) (2)
 - [Anthelion Capital](#anthelion-capital) (2)
 - [Apex Technology, Inc.](#apex-technology-inc) (1)
-- [Appian](#appian) (3)
+- [Appian](#appian) (4)
 - [Apple](#apple) (15)
 - [Applied Intuition](#applied-intuition) (3)
 - [Applied Materials](#applied-materials) (1)
@@ -345,7 +345,7 @@
 - [National Laboratory of the Rockies](#national-laboratory-of-the-rockies) (3)
 - [NationGraph](#nationgraph) (1)
 - [NBCUniversal](#nbcuniversal) (2)
-- [Nelnet](#nelnet) (1)
+- [Nelnet](#nelnet) (2)
 - [NeoCognition](#neocognition) (1)
 - [NeoSigma](#neosigma) (2)
 - [Netflix](#netflix) (2)
@@ -358,7 +358,7 @@
 - [Nissan Global](#nissan-global) (1)
 - [Niural](#niural) (1)
 - [Nokia](#nokia) (1)
-- [Northrop Grumman](#northrop-grumman) (1)
+- [Northrop Grumman](#northrop-grumman) (2)
 - [Northwestern Mutual](#northwestern-mutual) (3)
 - [Notion](#notion) (5)
 - [NVIDIA](#nvidia) (2)
@@ -442,7 +442,7 @@
 - [Schonfeld](#schonfeld) (4)
 - [Schweitzer Engineering Laboratories](#schweitzer-engineering-laboratories) (2)
 - [SCOR](#scor) (1)
-- [Sentara Health](#sentara-health) (1)
+- [Sentara Health](#sentara-health) (2)
 - [Serval](#serval) (1)
 - [Seven Research](#seven-research) (4)
 - [SHEIN](#shein) (1)
@@ -518,7 +518,7 @@
 - [Uncountable](#uncountable) (1)
 - [Unisys](#unisys) (1)
 - [United Parcel Service (UPS)](#united-parcel-service-ups) (1)
-- [University of Texas at Austin](#university-of-texas-at-austin) (4)
+- [University of Texas at Austin](#university-of-texas-at-austin) (3)
 - [University of Virginia](#university-of-virginia) (1)
 - [University System of New Hampshire](#university-system-of-new-hampshire) (1)
 - [Vanguard](#vanguard) (1)
@@ -685,6 +685,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Graduate Area Manager - 2026 Start Date](https://amazon.jobs/en/jobs/3078645/graduate-area-manager-2026-start-date) | 56 | Vrskman | Fulfillment & Operations Management | 2026-07-27 |
 | [Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)](https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more) | 85 | North Reading, Massachusetts, USA | Data & ML/AI / Fall 2026 | 2026-07-27 |
 | [Robotics - Software Development Engineer Intern/Co-op - 2026](https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026) | 85 | Westboro, Massachusetts, USA | Hardware / Fall 2026 | 2026-07-27 |
 | [Software Development Engineer Internship - Fall 2026 (US)](https://www.amazon.jobs/en/jobs/3116030/software-development-engineer-internship-fall-2026-us) | 85 | Seattle, Washington, USA | Software / Fall 2026 | 2026-07-27 |
@@ -908,6 +909,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Information Security Engineer Intern](https://job-boards.greenhouse.io/appian/jobs/8088496) | 93 | McLean, Virginia | Security / Summer 2027 | 2026-07-27 |
 | [Software Engineering Intern](https://careers.appian.com/jobs/8041237-software-engineering-intern) | 60 | McLean, VA | — | 2026-07-24 |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/appian/jobs/8041237) | 93 | McLean, VA | Software | 2026-07-23 |
 | [Product Manager Intern](https://job-boards.greenhouse.io/appian/jobs/8041243) | 58 | McLean, VA | Product | 2026-07-23 |
@@ -3177,6 +3179,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Intern Program - Agentic AI](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern-Program---Agentic-AI_R22904) | 68 | Lincoln, NE | Data & ML/AI / Summer 2027 | 2026-07-27 |
 | [AI Engineer Intern](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---AI-Engineer_R22763) | 93 | Lincoln, NE | AI/ML/Data | 2026-07-01 |
 
 ## NeoCognition
@@ -3265,6 +3268,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [2027 Returning Intern Software Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Returning-Intern-Software-Engineer_R10242378) | 93 | United States-Florida-Melbourne | Software / Summer 2027 | 2026-07-27 |
 | [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275) | 93 | Melbourne, FL | — | 2026-07-25 |
 
 ## Northwestern Mutual
@@ -3946,6 +3950,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Enterprise Data & AI Intern- Fall 2026 Internship](https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Enterprise-Data---AI-Intern--Fall-2026-Internship_JR-102685) | 68 | Virginia Beach, VA | Data & ML/AI / Fall 2026 | 2026-07-27 |
 | [Data & AI Finance Strategy Intern - Fall 2026 Internship Remote](https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Data---AI-Finance-Strategy-Intern---Fall-2026-Internship-Remote_JR-103073) | 68 | Virginia Beach, VA | Data & ML/AI / Fall 2026 | 2026-07-24 |
 
 ## Serval
@@ -4640,7 +4645,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Data & Insights Graduate Research Assistant](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Data---Insights-Graduate-Research-Assistant_R_00047610) | 74 | Austin, TX | AI/ML/Data | 2026-07-24 |
 | [Graduate Research Assistant](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Graduate-Research-Assistant_R_00046050) | 74 | Austin, TX | AI/ML/Data | 2026-07-22 |
 | [Graduate Assistant - Data - Dell Medical School](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Graduate-Assistant--Data--Texas-Child-Mental-Health-Programs--Department-of-Psychiatry-and-Behavioral-Sciences--Dell-Medical-School_R_00047460-1) | 74 | Austin, TX | AI/ML/Data | 2026-07-21 |
 | [Career Success Reporting and Insights Graduate Assistant](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Career-Success-Reporting-and-Insights-Graduate-Assistant_R_00046976) | 74 | Austin, TX | AI/ML/Data | 2026-07-20 |
