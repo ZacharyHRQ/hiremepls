@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-27T21:46:25.868Z",
+  "generatedAt": "2026-07-27T22:51:22.243Z",
   "companyCount": 80,
   "okCount": 79,
-  "jobCount": 1587,
+  "jobCount": 1592,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1570,8 +1570,6 @@
     "canonical:cc91abd223a4eab3": "2026-07-27T13:32:10.012Z",
     "canonical:48739c5e0a1226f2": "2026-07-27T16:01:50.350Z",
     "canonical:7513b79c2374e7a1": "2026-07-27T16:01:50.350Z",
-    "canonical:9bd73b3c81e5211b": "2026-07-27T16:01:50.350Z",
-    "canonical:ad1518ec22686d31": "2026-07-27T16:01:50.350Z",
     "canonical:33b63becca5acff3": "2026-07-27T16:01:50.350Z",
     "canonical:cc27892b2185aa28": "2026-07-27T16:01:50.350Z",
     "canonical:298e52b8e516ee2b": "2026-07-27T16:01:50.350Z",
@@ -1588,9 +1586,16 @@
     "canonical:261581191e18b8e6": "2026-07-27T20:41:18.581Z",
     "canonical:8d6dde2532cc7dc8": "2026-07-27T20:41:18.581Z",
     "canonical:a57688bba877331e": "2026-07-27T21:46:25.868Z",
-    "canonical:0a7f1c1ed0ae4b7a": "2026-07-27T21:46:25.868Z",
     "canonical:316de01d02e09fd8": "2026-07-27T21:46:25.868Z",
-    "canonical:16de358dd7a37b62": "2026-07-27T21:46:25.868Z"
+    "canonical:16de358dd7a37b62": "2026-07-27T21:46:25.868Z",
+    "canonical:d585baef5ea2b919": "2026-07-27T22:51:22.243Z",
+    "canonical:a0ce1bc7635a7efb": "2026-07-27T22:51:22.243Z",
+    "canonical:13a1acd9a79374b5": "2026-07-27T22:51:22.243Z",
+    "canonical:f808069b826a9f52": "2026-07-27T22:51:22.243Z",
+    "canonical:20c91ce66d78abf8": "2026-07-27T22:51:22.243Z",
+    "canonical:919d3be901285fee": "2026-07-27T22:51:22.243Z",
+    "canonical:c23a7645caf77e31": "2026-07-27T22:51:22.243Z",
+    "canonical:e465ee8c7586c906": "2026-07-27T22:51:22.243Z"
   },
   "jobs": [
     {
@@ -2033,10 +2038,10 @@
       "scoreReasons": []
     },
     {
-      "id": "canonical:adc1bdd879675b5a",
+      "id": "canonical:d1d20c5456576574",
       "title": "Campus Data Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7975008",
-      "location": "London",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
+      "location": "Chicago",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -2046,10 +2051,10 @@
       ]
     },
     {
-      "id": "canonical:d1d20c5456576574",
+      "id": "canonical:adc1bdd879675b5a",
       "title": "Campus Data Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
-      "location": "Chicago",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7975008",
+      "location": "London",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -2144,10 +2149,10 @@
       ]
     },
     {
-      "id": "canonical:fe88e70c975c6d4f",
+      "id": "canonical:5d7744db1dee2002",
       "title": "Campus Quantitative Trader (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7848371",
-      "location": "Chicago; New York",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8050772",
+      "location": "London; Amsterdam",
       "department": "",
       "company": "Jump Trading",
       "score": 60,
@@ -2156,10 +2161,10 @@
       ]
     },
     {
-      "id": "canonical:5d7744db1dee2002",
+      "id": "canonical:fe88e70c975c6d4f",
       "title": "Campus Quantitative Trader (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8050772",
-      "location": "London; Amsterdam",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7848371",
+      "location": "Chicago; New York",
       "department": "",
       "company": "Jump Trading",
       "score": 60,
@@ -18508,31 +18513,6 @@
       ]
     },
     {
-      "id": "canonical:9bd73b3c81e5211b",
-      "title": "AI Product Management Intern",
-      "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195826007",
-      "location": "Durham, NC",
-      "department": "Product",
-      "company": "Toshiba Global Commerce",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:ad1518ec22686d31",
-      "title": "Product & Business Analytics Intern",
-      "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195802007",
-      "location": "Durham, NC",
-      "department": "AI/ML/Data",
-      "company": "Toshiba Global Commerce",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:33b63becca5acff3",
       "title": "Software Engineer Intern",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--On-site-_01860801",
@@ -18553,6 +18533,109 @@
       "location": "Dallas, TX",
       "department": "AI/ML/Data",
       "company": "Copart",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:d585baef5ea2b919",
+      "title": "Software Engineer Intern",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering-Intern_R031372",
+      "location": "Ottawa, ON, Canada",
+      "department": "Software",
+      "company": "Ciena",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:a0ce1bc7635a7efb",
+      "title": "Graduate Assistant - Center for Sports Analytics",
+      "url": "https://merceruniversity.wd1.myworkdayjobs.com/student/job/Macon-Campus/SHSB-Graduate-Assistant--Center-for-Sports-Analytics_JR104053",
+      "location": "Macon, GA",
+      "department": "AI/ML/Data",
+      "company": "Mercer University",
+      "score": 74,
+      "scoreReasons": [
+        "high-signal role",
+        "new grad",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:13a1acd9a79374b5",
+      "title": "Applied AI Engineer Intern",
+      "url": "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Applied-AI-Engineering-Intern_0014827",
+      "location": "Chicago, IL",
+      "department": "AI/ML/Data",
+      "company": " CCC Intelligent Solutions",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f808069b826a9f52",
+      "title": "Device Engineer Intern - Ulp Cmos",
+      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Product-Business-Unit-Finance-Intern--Summer-2026-_JR-2502830",
+      "location": "Malta, NY",
+      "department": "Hardware",
+      "company": "GlobalFoundries",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:20c91ce66d78abf8",
+      "title": "Data Engineer Intern",
+      "url": "https://careers-eastpennmanufacturing.icims.com/jobs/30007/job?mobile=true&needsRedirect=false",
+      "location": "Ann Arbor, MI",
+      "department": "AI/ML/Data",
+      "company": "East Penn Manufacturing Company",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:919d3be901285fee",
+      "title": "Product Engineer Intern",
+      "url": "https://careers-eastpennmanufacturing.icims.com/jobs/30021/job?mobile=true&needsRedirect=false",
+      "location": "Ann Arbor, MI",
+      "department": "Hardware",
+      "company": "East Penn Manufacturing Company",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:c23a7645caf77e31",
+      "title": "Power BI & Analytics Intern",
+      "url": "https://careers-eastpennmanufacturing.icims.com/jobs/30020/job?mobile=true&needsRedirect=false",
+      "location": "Ann Arbor, MI",
+      "department": "AI/ML/Data",
+      "company": "East Penn Manufacturing Company",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:e465ee8c7586c906",
+      "title": "Software Engineer Intern - ML Systems",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/6128057004",
+      "location": "Austin, TX",
+      "department": "Software",
+      "company": "Apptronik",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -21407,19 +21490,6 @@
       "location": "Farmington Hills, MI, United States",
       "department": "Software / Not stated",
       "company": "Bosch",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:0a7f1c1ed0ae4b7a",
-      "title": "Applied AI Engineering Intern",
-      "url": "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Applied-AI-Engineering-Intern_0014827",
-      "location": "Chicago (Green St), IL",
-      "department": "Data & ML/AI / Not stated",
-      "company": "CCC Intelligent Solutions",
       "score": 68,
       "scoreReasons": [
         "high-signal role",

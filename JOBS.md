@@ -1,9 +1,10 @@
 # Open Internships
 
-**1587** internships across **79/80** companies — last updated 2026-07-27.
+**1592** internships across **79/80** companies — last updated 2026-07-27.
 
 ## Companies
 
+- [ CCC Intelligent Solutions](#ccc-intelligent-solutions) (1)
 - [ABB](#abb) (1)
 - [ABC News](#abc-news) (1)
 - [Abundant](#abundant) (1)
@@ -33,7 +34,7 @@
 - [Apple](#apple) (15)
 - [Applied Intuition](#applied-intuition) (3)
 - [Applied Materials](#applied-materials) (1)
-- [Apptronik](#apptronik) (1)
+- [Apptronik](#apptronik) (2)
 - [Aptiv](#aptiv) (1)
 - [AQR](#aqr) (8)
 - [AQR Capital Management](#aqr-capital-management) (1)
@@ -109,7 +110,6 @@
 - [Carnegie Mellon University](#carnegie-mellon-university) (1)
 - [Castleton Commodities International](#castleton-commodities-international) (8)
 - [Caterpillar Inc.](#caterpillar-inc) (1)
-- [CCC Intelligent Solutions](#ccc-intelligent-solutions) (1)
 - [Centerfield](#centerfield) (3)
 - [Centific](#centific) (1)
 - [Chanel](#chanel) (1)
@@ -118,7 +118,7 @@
 - [Cherry Bekaert](#cherry-bekaert) (2)
 - [Chevron Corporation](#chevron-corporation) (1)
 - [Chicago Trading Company](#chicago-trading-company) (2)
-- [Ciena](#ciena) (4)
+- [Ciena](#ciena) (5)
 - [Circle K](#circle-k) (1)
 - [Circleback](#circleback) (1)
 - [Cirrus Logic](#cirrus-logic) (2)
@@ -178,6 +178,7 @@
 - [DTCC](#dtcc) (1)
 - [DuPont](#dupont) (5)
 - [Duracell](#duracell) (1)
+- [East Penn Manufacturing Company](#east-penn-manufacturing-company) (3)
 - [EdgeTrace](#edgetrace) (1)
 - [Ekimetrics](#ekimetrics) (1)
 - [Electronic Arts](#electronic-arts) (1)
@@ -230,6 +231,7 @@
 - [Ginkgo Bioworks](#ginkgo-bioworks) (2)
 - [Gitar, Inc.](#gitar-inc) (1)
 - [Global Infrastructure](#global-infrastructure) (1)
+- [GlobalFoundries](#globalfoundries) (1)
 - [Google](#google) (1)
 - [Grant Thornton](#grant-thornton) (1)
 - [Green Planet Solutions](#green-planet-solutions) (1)
@@ -327,6 +329,7 @@
 - [Medpace, Inc.](#medpace-inc) (3)
 - [Melotech](#melotech) (3)
 - [Menasha Corporation](#menasha-corporation) (2)
+- [Mercer University](#mercer-university) (1)
 - [Meshy](#meshy) (1)
 - [Meta](#meta) (15)
 - [Microchip Technology](#microchip-technology) (1)
@@ -507,7 +510,7 @@
 - [Together AI](#together-ai) (3)
 - [Topel Forman LLC](#topel-forman-llc) (1)
 - [Torc Robotics](#torc-robotics) (1)
-- [Toshiba Global Commerce](#toshiba-global-commerce) (5)
+- [Toshiba Global Commerce](#toshiba-global-commerce) (3)
 - [Tower Research](#tower-research) (1)
 - [Tower Research Capital](#tower-research-capital) (5)
 - [Toyota Research Institute](#toyota-research-institute) (2)
@@ -560,6 +563,12 @@
 - [Xsolla](#xsolla) (3)
 - [Zipline](#zipline) (4)
 - [Zuru](#zuru) (1)
+
+##  CCC Intelligent Solutions
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Applied AI Engineer Intern](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Applied-AI-Engineering-Intern_0014827) | 93 | Chicago, IL | AI/ML/Data | 2026-07-27 |
 
 ## ABB
 
@@ -950,6 +959,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern - ML Systems](https://boards.greenhouse.io/apptronik/jobs/6128057004) | 93 | Austin, TX | Software | 2026-07-27 |
 | [Software Engineer Intern - ML Systems](https://boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004) | 93 | Onsite - Austin, TX | Data & ML/AI / Not stated | 2026-07-27 |
 
 ## Aptiv
@@ -1495,12 +1505,6 @@
 | --- | --- | --- | --- | --- |
 | [2026 Engineering Internship Program- Metallurgical Engineering](https://www.linkedin.com/jobs/view/4260034721) | 42 | Mossville, IL | — | 2026-07-09 |
 
-## CCC Intelligent Solutions
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Applied AI Engineering Intern](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Applied-AI-Engineering-Intern_0014827) | 68 | Chicago (Green St), IL | Data & ML/AI / Not stated | 2026-07-27 |
-
 ## Centerfield
 
 | Title | Score | Location | Department | First seen |
@@ -1557,6 +1561,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering-Intern_R031372) | 93 | Ottawa, ON, Canada | Software | 2026-07-27 |
 | [Routing/IP Software Developer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Developer-Intern--4-8-Months-_R031326) | 93 | Ottawa, ON, Canada | Software | 2026-07-22 |
 | [Software Engineer and Tools Developer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineer-and-Tools-Developer-Intern--Fall-2026-_R028752) | 93 | Ottawa, ON, Canada | Software | 2026-07-22 |
 | [Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/UK--Edinburgh---19A-Canning-St/Software-Engineering-Intern--3-12-Months-_R031332) | 93 | Edinburgh, UK | Hardware | 2026-07-22 |
@@ -1999,6 +2004,14 @@
 | --- | --- | --- | --- | --- |
 | [Electronics Tech Intern](https://fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_26/job/1330) | 50 | Atlanta, GA | Hardware | 2026-07-20 |
 
+## East Penn Manufacturing Company
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data Engineer Intern](https://careers-eastpennmanufacturing.icims.com/jobs/30007/job?mobile=true&needsRedirect=false) | 85 | Ann Arbor, MI | AI/ML/Data | 2026-07-27 |
+| [Power BI & Analytics Intern](https://careers-eastpennmanufacturing.icims.com/jobs/30020/job?mobile=true&needsRedirect=false) | 60 | Ann Arbor, MI | AI/ML/Data | 2026-07-27 |
+| [Product Engineer Intern](https://careers-eastpennmanufacturing.icims.com/jobs/30021/job?mobile=true&needsRedirect=false) | 50 | Ann Arbor, MI | Hardware | 2026-07-27 |
+
 ## EdgeTrace
 
 | Title | Score | Location | Department | First seen |
@@ -2341,6 +2354,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Alternative Delivery Project Analytics Intern](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--IL--Chicago---200-South-Wacker-Drive/Alternative-Delivery-Project-Analytics-Intern_5963-1) | 68 | Chicago, IL | AI/ML/Data | 2026-07-07 |
+
+## GlobalFoundries
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Device Engineer Intern - Ulp Cmos](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Product-Business-Unit-Finance-Intern--Summer-2026-_JR-2502830) | 58 | Malta, NY | Hardware | 2026-07-27 |
 
 ## Google
 
@@ -3048,6 +3067,12 @@
 | --- | --- | --- | --- | --- |
 | [Application Engineer Intern](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Troy-Michigan/Application-Engineer-Intern--Summer-2026-_R13999) | 93 | Troy, MI | Software | 2026-07-21 |
 | [Material Innovation Center Intern](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Menasha-Wisconsin/Material-Innovation-Center-Intern_R12621) | 68 | Neenah, WI | AI/ML/Data | 2026-07-21 |
+
+## Mercer University
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Graduate Assistant - Center for Sports Analytics](https://merceruniversity.wd1.myworkdayjobs.com/student/job/Macon-Campus/SHSB-Graduate-Assistant--Center-for-Sports-Analytics_JR104053) | 74 | Macon, GA | AI/ML/Data | 2026-07-27 |
 
 ## Meshy
 
@@ -4565,8 +4590,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Product & Business Analytics Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195802007) | 68 | Durham, NC | AI/ML/Data | 2026-07-27 |
-| [AI Product Management Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195826007) | 58 | Durham, NC | Product | 2026-07-27 |
 | [Agentic Software Engineer Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5177892007) | 93 | Durham, NC | Software | 2026-07-27 |
 | [AI Engineer Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5192820007) | 93 | Frisco, TX | AI/ML/Data | 2026-07-27 |
 | [Project Management & AI Automation Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5190937007) | 68 | Frisco, TX | Data & ML/AI / Fall 2026 | 2026-07-27 |
