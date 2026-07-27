@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T19:11:14.803Z",
+  "generatedAt": "2026-07-27T20:41:18.581Z",
   "companyCount": 80,
   "okCount": 79,
   "jobCount": 1589,
@@ -1535,14 +1535,11 @@
     "canonical:1f23504ddab9ce74": "2026-07-24T22:42:05.015Z",
     "canonical:47f4547c78cbe49c": "2026-07-24T22:42:05.015Z",
     "canonical:effba85f704368fa": "2026-07-24T22:42:05.015Z",
-    "canonical:8cf196bbf7dc679c": "2026-07-24T22:42:05.015Z",
-    "canonical:f8b98161d0d229d1": "2026-07-24T22:42:05.015Z",
     "canonical:42c4a6d8c5264cf5": "2026-07-24T23:42:50.061Z",
     "canonical:32b1d2cc0e89c258": "2026-07-24T23:42:50.061Z",
     "canonical:4247bea2cf4aab99": "2026-07-24T23:42:50.061Z",
     "canonical:5bae5af5d984f063": "2026-07-24T23:42:50.061Z",
     "canonical:a25fb518e8c28f8c": "2026-07-24T23:42:50.061Z",
-    "canonical:ecee67fa5e5ef0e7": "2026-07-25T01:09:11.036Z",
     "canonical:ef650b16fce50cc6": "2026-07-25T04:24:58.500Z",
     "canonical:1d7a63ccedca3fdd": "2026-07-25T04:24:58.500Z",
     "canonical:216181f28694752a": "2026-07-25T11:34:41.314Z",
@@ -1592,7 +1589,10 @@
     "canonical:81f4619a2b5155ca": "2026-07-27T17:53:21.474Z",
     "canonical:7bf3ea60dbe8427a": "2026-07-27T19:11:14.803Z",
     "canonical:deaf88c40b6153ff": "2026-07-27T19:11:14.803Z",
-    "canonical:c2685b423012adeb": "2026-07-27T19:11:14.803Z"
+    "canonical:c2685b423012adeb": "2026-07-27T19:11:14.803Z",
+    "canonical:b9c2e23d57f69a86": "2026-07-27T20:41:18.581Z",
+    "canonical:261581191e18b8e6": "2026-07-27T20:41:18.581Z",
+    "canonical:8d6dde2532cc7dc8": "2026-07-27T20:41:18.581Z"
   },
   "jobs": [
     {
@@ -6085,7 +6085,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -20286,48 +20286,6 @@
       ]
     },
     {
-      "id": "canonical:ecee67fa5e5ef0e7",
-      "title": "Forward Deployed Infrastructure Engineer Intern",
-      "url": "https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9",
-      "location": "Washington, D.C.",
-      "department": "",
-      "company": "Palantir Technologies",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:8cf196bbf7dc679c",
-      "title": "Forward Deployed Infrastructure Engineer Intern",
-      "url": "https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b",
-      "location": "New York, NY",
-      "department": "",
-      "company": "Palantir Technologies",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:f8b98161d0d229d1",
-      "title": "Forward Deployed Infrastructure Engineer Intern",
-      "url": "https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69",
-      "location": "Palo Alto, CA",
-      "department": "",
-      "company": "Palantir Technologies",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:fb65511f170f8cec",
       "title": "Technology Intern",
       "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006",
@@ -20578,6 +20536,85 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:b9c2e23d57f69a86",
+      "title": "Web Application Developer Intern",
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?jobId=565843",
+      "location": "Falls Church, VA",
+      "department": "",
+      "company": "Mathtech",
+      "score": 75,
+      "scoreReasons": [
+        "SWE-aligned"
+      ]
+    },
+    {
+      "id": "canonical:261581191e18b8e6",
+      "title": "ML & Cloud Infrastructure Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523",
+      "location": "South San Francisco, CA",
+      "department": "",
+      "company": "GRITT ROBOTICS INC",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c4cdd8a2e8efc343",
+      "title": "Informational Technology Cybersecurity Co-Op/Intern - Fall 2026",
+      "url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Co-op-Student-Admin_64613-1",
+      "location": "US - Tampa, FL (Lithia area)",
+      "department": "Security / Fall 2026",
+      "company": "Mosaic",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1284ad8e46fc112b",
+      "title": "Information Security Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/appian/jobs/8088496",
+      "location": "McLean, Virginia",
+      "department": "Security / Summer 2027",
+      "company": "Appian",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c2685b423012adeb",
+      "title": "AI Applied intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916",
+      "location": "US, Oregon, Hillsboro",
+      "department": "Data & ML/AI / Summer 2027",
+      "company": "Intel",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:88375c6d48e7559d",
+      "title": "Intern Program - Agentic AI",
+      "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern-Program---Agentic-AI_R22904",
+      "location": "Lincoln, NE",
+      "department": "Data & ML/AI / Summer 2027",
+      "company": "Nelnet",
+      "score": 68,
+      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
@@ -21366,41 +21403,15 @@
       ]
     },
     {
-      "id": "canonical:c2685b423012adeb",
-      "title": "AI Applied intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916",
-      "location": "US, Oregon, Hillsboro",
+      "id": "canonical:8d6dde2532cc7dc8",
+      "title": "Software Engineer Intern - ML Systems",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004",
+      "location": "Onsite - Austin, TX",
       "department": "Data & ML/AI / Summer 2027",
-      "company": "Intel",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:1284ad8e46fc112b",
-      "title": "Information Security Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/appian/jobs/8088496",
-      "location": "McLean, Virginia",
-      "department": "Security / Summer 2027",
-      "company": "Appian",
+      "company": "Apptronik",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:88375c6d48e7559d",
-      "title": "Intern Program - Agentic AI",
-      "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern-Program---Agentic-AI_R22904",
-      "location": "Lincoln, NE",
-      "department": "Data & ML/AI / Summer 2027",
-      "company": "Nelnet",
-      "score": 68,
-      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
@@ -21415,19 +21426,6 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:c4cdd8a2e8efc343",
-      "title": "Informational Technology Cybersecurity Co-Op/Intern - Fall 2026",
-      "url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Co-op-Student-Admin_64613-1",
-      "location": "US - Tampa, FL (Lithia area)",
-      "department": "Security / Fall 2026",
-      "company": "Mosaic",
-      "score": 68,
-      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]

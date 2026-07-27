@@ -33,6 +33,7 @@
 - [Apple](#apple) (15)
 - [Applied Intuition](#applied-intuition) (3)
 - [Applied Materials](#applied-materials) (1)
+- [Apptronik](#apptronik) (1)
 - [Aptiv](#aptiv) (1)
 - [AQR](#aqr) (8)
 - [AQR Capital Management](#aqr-capital-management) (1)
@@ -231,6 +232,7 @@
 - [Grant Thornton](#grant-thornton) (1)
 - [Green Planet Solutions](#green-planet-solutions) (1)
 - [Gritt Robotics Inc](#gritt-robotics-inc) (1)
+- [GRITT ROBOTICS INC](#gritt-robotics-inc) (1)
 - [Group 1001](#group-1001) (1)
 - [GSA Capital](#gsa-capital) (2)
 - [H&CO](#h-co) (1)
@@ -314,6 +316,7 @@
 - [Marmon Holdings](#marmon-holdings) (2)
 - [Marshall Wace](#marshall-wace) (2)
 - [Marvell](#marvell) (4)
+- [Mathtech](#mathtech) (1)
 - [Maxima](#maxima) (1)
 - [MCG Health](#mcg-health) (1)
 - [McKesson](#mckesson) (1)
@@ -378,7 +381,6 @@
 - [Outpost Technologies](#outpost-technologies) (1)
 - [Output Biosciences](#output-biosciences) (2)
 - [Palantir](#palantir) (64)
-- [Palantir Technologies](#palantir-technologies) (3)
 - [Palo Alto Networks](#palo-alto-networks) (1)
 - [Paragon](#paragon) (1)
 - [PathAI](#pathai) (1)
@@ -941,6 +943,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Intern - Physics & AI modeling Engineering](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Intern---Physics---AI-modeling-Engineering_R2616095) | 68 | Santa Clara, CA | AI/ML/Data | 2026-07-21 |
+
+## Apptronik
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer Intern - ML Systems](https://boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004) | 93 | Onsite - Austin, TX | Data & ML/AI / Summer 2027 | 2026-07-27 |
 
 ## Aptiv
 
@@ -1642,7 +1650,7 @@
 | [Technical Support Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8041135?gh_jid=8041135) | 58 | In-Office | — | 2026-07-03 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
 | [Sales Project Manager Intern (AI Innovation) (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8020830?gh_jid=8020830) | 38 | In-Office | — | 2026-06-23 |
 
 ## Cloudforce
@@ -2344,6 +2352,12 @@
 | --- | --- | --- | --- | --- |
 | [Robot Learning Engineer Intern](https://jobs.ashbyhq.com/gritt/5c4737ce-f546-453b-b30d-791a121fb9fd/application?embed=true) | 93 | San Bruno, CA | AI/ML/Data | 2026-07-21 |
 
+## GRITT ROBOTICS INC
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [ML & Cloud Infrastructure Engineer Intern](https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523) | 93 | South San Francisco, CA | — | 2026-07-27 |
+
 ## Group 1001
 
 | Title | Score | Location | Department | First seen |
@@ -2961,6 +2975,12 @@
 | [Analog Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Vancouver-Canada/Analog-Engineer-Intern---PhD_2502424-1) | 58 | Vancouver, BC, Canada | Hardware | 2026-07-21 |
 | [Model Correlation & SI Intern - PhD Degree](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Model-Correlation---SI-Intern---Ph-D-Degree_2502364) | 58 | Ottawa, ON, Canada | Hardware | 2026-07-21 |
 
+## Mathtech
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Web Application Developer Intern](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?jobId=565843) | 75 | Falls Church, VA | — | 2026-07-27 |
+
 ## Maxima
 
 | Title | Score | Location | Department | First seen |
@@ -3474,14 +3494,6 @@
 | [Year at Palantir Intern - Forward Deployed Software Engineer - Commercial](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d/apply) | 93 | NYC | Software | 2026-05-14 |
 | [Forward Deployed Software Engineer Intern](https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9/apply) | 93 | NYC | Software | 2026-05-09 |
 | [Deployment Strategist, Internship - US Government](https://jobs.lever.co/palantir/a49d4181-a289-435a-b581-7f5af0497c8e) | 58 | Honolulu, HI | Echo | 2026-05-09 |
-
-## Palantir Technologies
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Forward Deployed Infrastructure Engineer Intern](https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9) | 93 | Washington, D.C. | — | 2026-07-25 |
-| [Forward Deployed Infrastructure Engineer Intern](https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b) | 93 | New York, NY | — | 2026-07-24 |
-| [Forward Deployed Infrastructure Engineer Intern](https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69) | 93 | Palo Alto, CA | — | 2026-07-24 |
 
 ## Palo Alto Networks
 
