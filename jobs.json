@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-27T00:10:30.257Z",
+  "generatedAt": "2026-07-27T03:58:51.891Z",
   "companyCount": 80,
   "okCount": 79,
-  "jobCount": 1587,
+  "jobCount": 1585,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -922,7 +922,6 @@
     "canonical:4f0b13c326308fd3": "2026-07-20T23:30:05.931Z",
     "canonical:ce91d524019980bf": "2026-07-20T23:30:05.931Z",
     "canonical:71fcbb75a25c6e17": "2026-07-20T23:30:05.931Z",
-    "canonical:19a741914212782a": "2026-07-20T23:30:05.931Z",
     "canonical:66dfdbaa8cb48f07": "2026-07-20T23:30:05.931Z",
     "canonical:fba9d4d9ab8c6d01": "2026-07-20T23:30:05.931Z",
     "canonical:c3a1e9ecbe0a8d53": "2026-07-20T23:30:05.931Z",
@@ -930,7 +929,6 @@
     "canonical:c4287a1c888a7ff2": "2026-07-20T23:30:05.931Z",
     "canonical:6bfed6d76148839b": "2026-07-20T23:30:05.931Z",
     "canonical:793f24c65608249c": "2026-07-20T23:30:05.931Z",
-    "canonical:dcc402b770a2ceef": "2026-07-20T23:30:05.931Z",
     "canonical:f52c056f24bb4eb8": "2026-07-20T23:30:05.931Z",
     "canonical:6dd39ca62649568c": "2026-07-20T23:30:05.931Z",
     "canonical:ee129f14c18053dd": "2026-07-20T23:30:05.931Z",
@@ -960,7 +958,6 @@
     "canonical:cfd7b0f8264f8cdc": "2026-07-20T23:30:05.931Z",
     "canonical:e96e80cf4391fa6c": "2026-07-20T23:30:05.931Z",
     "canonical:7aee135b5983c8ed": "2026-07-20T23:30:05.931Z",
-    "canonical:9acfcc28acf03ec8": "2026-07-20T23:30:05.931Z",
     "canonical:ce0f1baf6acd9356": "2026-07-20T23:30:05.931Z",
     "canonical:ef1d8e7f1b5e85e1": "2026-07-20T23:30:05.931Z",
     "canonical:58c7d404cfffb363": "2026-07-20T23:30:05.931Z",
@@ -1539,7 +1536,6 @@
     "canonical:06912e30d2002b80": "2026-07-24T11:21:51.310Z",
     "canonical:ec9d67665134d10a": "2026-07-24T11:21:51.310Z",
     "canonical:d4522e592923d04c": "2026-07-24T12:52:14.698Z",
-    "canonical:9579037e880fa14c": "2026-07-24T12:52:14.698Z",
     "canonical:f737fd209e879331": "2026-07-24T12:52:14.698Z",
     "canonical:b7e2b2dbebb1a7cb": "2026-07-24T16:38:46.477Z",
     "canonical:8dd11d540cc523a9": "2026-07-24T16:38:46.477Z",
@@ -1590,7 +1586,9 @@
     "canonical:ea516bcb2c3049bb": "2026-07-26T12:05:11.412Z",
     "canonical:38a7d4388515b288": "2026-07-26T12:05:11.412Z",
     "canonical:327605e65961b143": "2026-07-26T12:05:11.412Z",
-    "canonical:3a0280cd297d1f55": "2026-07-26T23:09:38.790Z"
+    "canonical:a1249849f89768ef": "2026-07-27T03:58:51.891Z",
+    "canonical:1f7326f8b3215d01": "2026-07-27T03:58:51.891Z",
+    "canonical:31fe20066b0b0992": "2026-07-27T03:58:51.891Z"
   },
   "jobs": [
     {
@@ -1800,10 +1798,10 @@
       ]
     },
     {
-      "id": "canonical:13cbc9dfd9f78b7b",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1815,10 +1813,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:13cbc9dfd9f78b7b",
       "title": "Graduate Software Engineer (2026)",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101",
+      "location": "Amsterdam, Netherlands",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -4393,18 +4391,6 @@
       "scoreReasons": []
     },
     {
-      "id": "canonical:19a741914212782a",
-      "title": "Sales Ops Analyst Intern, AI & Automation, Amazon Global Selling",
-      "url": "https://amazon.jobs/en/jobs/10469660/sales-ops-analyst-intern-ai-automation-amazon-global-selling",
-      "location": "Taipei",
-      "department": "Sales, Advertising, & Account Management",
-      "company": "Amazon",
-      "score": 30,
-      "scoreReasons": [
-        "lower-fit title"
-      ]
-    },
-    {
       "id": "canonical:66dfdbaa8cb48f07",
       "title": "2026 Fall Applied Science Internship - Information & Knowledge Management (Machine Learning) - United States, PhD Student Science Recruiting",
       "url": "https://amazon.jobs/en/jobs/10394230/2026-fall-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting",
@@ -4469,18 +4455,6 @@
       "company": "Amazon",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:dcc402b770a2ceef",
-      "title": "Sales Ops Analyst Intern - Shanghai, Amazon Global Selling",
-      "url": "https://amazon.jobs/en/jobs/10468413/sales-ops-analyst-intern-shanghai-amazon-global-selling",
-      "location": "Shanghai",
-      "department": "Sales, Advertising, & Account Management",
-      "company": "Amazon",
-      "score": 30,
-      "scoreReasons": [
-        "lower-fit title"
-      ]
     },
     {
       "id": "canonical:f52c056f24bb4eb8",
@@ -4838,18 +4812,6 @@
       "score": 56,
       "scoreReasons": [
         "new grad"
-      ]
-    },
-    {
-      "id": "canonical:9acfcc28acf03ec8",
-      "title": "Network Development Engineer Intern, Core Networking",
-      "url": "https://amazon.jobs/en/jobs/3201714/network-development-engineer-intern-core-networking",
-      "location": "Sydney",
-      "department": "Operations, IT, & Support Engineering",
-      "company": "Amazon",
-      "score": 75,
-      "scoreReasons": [
-        "SWE-aligned"
       ]
     },
     {
@@ -6094,7 +6056,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -8602,19 +8564,6 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:b2595de9378567ba",
-      "title": "Software Engineer Intern - Payment Network - Global Payment",
-      "url": "https://jobs.bytedance.com/en/position/7533369475380070663/detail",
-      "location": "Seattle, WA",
-      "department": "Software",
-      "company": "ByteDance",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -15692,19 +15641,6 @@
       ]
     },
     {
-      "id": "canonical:3a0280cd297d1f55",
-      "title": "Editorial Data Reporting Intern",
-      "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "LexisNexis Risk Solutions",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:03256d9192dfcb79",
       "title": "Research Scientist Intern - Monetization Computer Vision",
       "url": "https://www.metacareers.com/jobs/2281218542616482",
@@ -16988,32 +16924,6 @@
       "company": "Pendulum Intelligence",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:657f691a0a88c3ba",
-      "title": "Software Engineer Intern - Backend & API",
-      "url": "https://ats.rippling.com/moon/jobs/8b81bca7-1a64-4377-8ea8-869aac03080b",
-      "location": "Glendale, CA",
-      "department": "Software",
-      "company": "Moon",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:9579037e880fa14c",
-      "title": "Software Engineer Intern - Data & Machine Learning",
-      "url": "https://ats.rippling.com/moon/jobs/5f0b98b7-561a-41d2-9104-76bdf06df094",
-      "location": "Glendale, CA",
-      "department": "AI/ML/Data",
-      "company": "Moon",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
     },
     {
       "id": "canonical:4d3ecad04d206251",
@@ -18708,6 +18618,47 @@
       ]
     },
     {
+      "id": "canonical:b2595de9378567ba",
+      "title": "Software Engineer Intern - Payment Network - Global Payment",
+      "url": "https://jobs.bytedance.com/en/position/7533369475380070663/detail",
+      "location": "Seattle, WA",
+      "department": "Software",
+      "company": "ByteDance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:a1249849f89768ef",
+      "title": "Agentic Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5177892007",
+      "location": "Durham, NC",
+      "department": "Software",
+      "company": "Toshiba Global Commerce",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1f7326f8b3215d01",
+      "title": "AI Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5192820007",
+      "location": "Frisco, TX",
+      "department": "AI/ML/Data",
+      "company": "Toshiba Global Commerce",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:12cd06c0eec80152",
       "title": "Frontend Software Engineer Intern",
       "url": "https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c",
@@ -20157,6 +20108,19 @@
       ]
     },
     {
+      "id": "canonical:657f691a0a88c3ba",
+      "title": "Software Engineer Intern, Backend & API",
+      "url": "https://ats.rippling.com/en-GB/moon/jobs/8b81bca7-1a64-4377-8ea8-869aac03080b",
+      "location": "Glendale, CA",
+      "department": "",
+      "company": "Moon",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:26d347754eaf2770",
       "title": "Member of Technical Staff Intern",
       "url": "https://ats.rippling.com/en-GB/neosigma/jobs/a2ee1d26-a551-45d2-9854-6dbf8ed2c866",
@@ -21334,6 +21298,19 @@
       "score": 42,
       "scoreReasons": [
         "aggregator link"
+      ]
+    },
+    {
+      "id": "canonical:31fe20066b0b0992",
+      "title": "Project Management & AI Automation Intern",
+      "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5190937007",
+      "location": "Frisco, TX",
+      "department": "Data & ML/AI / Summer 2027",
+      "company": "Toshiba Global Commerce",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
