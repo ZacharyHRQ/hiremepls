@@ -1,6 +1,6 @@
 # Open Internships
 
-**1591** internships across **79/80** companies — last updated 2026-07-27.
+**1589** internships across **79/80** companies — last updated 2026-07-27.
 
 ## Companies
 
@@ -10,7 +10,6 @@
 - [AccuWeather](#accuweather) (1)
 - [ACDS](#acds) (2)
 - [ACI Worldwide ](#aci-worldwide) (1)
-- [Ada](#ada) (1)
 - [Adobe](#adobe) (2)
 - [Adtheorant](#adtheorant) (1)
 - [AeroVironment](#aerovironment) (1)
@@ -91,8 +90,8 @@
 - [BNP Paribas](#bnp-paribas) (1)
 - [Bombardier](#bombardier) (1)
 - [BorgWarner](#borgwarner) (1)
-- [Bosch](#bosch) (2)
-- [Bosch Home Comfort](#bosch-home-comfort) (4)
+- [Bosch](#bosch) (3)
+- [Bosch Home Comfort](#bosch-home-comfort) (3)
 - [Boston Consulting Group](#boston-consulting-group) (2)
 - [Bot Auto](#bot-auto) (1)
 - [Bree](#bree) (1)
@@ -259,7 +258,7 @@
 - [Hudson River Trading](#hudson-river-trading) (4)
 - [Human Computer Lab](#human-computer-lab) (1)
 - [Hunt Oil Company](#hunt-oil-company) (2)
-- [Hyperlight](#hyperlight) (1)
+- [HyperLight](#hyperlight) (1)
 - [iHeartMedia](#iheartmedia) (1)
 - [iHerb](#iherb) (1)
 - [IMC](#imc) (4)
@@ -271,6 +270,7 @@
 - [Institute of Foundation Models](#institute-of-foundation-models) (4)
 - [Integra FEC](#integra-fec) (3)
 - [Integrity](#integrity) (1)
+- [Intel](#intel) (1)
 - [Intercontinental Exchange, Inc.](#intercontinental-exchange-inc) (1)
 - [Interdigital](#interdigital) (1)
 - [International Rescue Committee (IRC)](#international-rescue-committee-irc) (2)
@@ -323,7 +323,7 @@
 - [Melotech](#melotech) (3)
 - [Menasha Corporation](#menasha-corporation) (2)
 - [Meshy](#meshy) (1)
-- [Meta](#meta) (16)
+- [Meta](#meta) (15)
 - [Microchip Technology](#microchip-technology) (1)
 - [Microsoft](#microsoft) (1)
 - [Midmark ](#midmark) (1)
@@ -455,7 +455,7 @@
 - [Sixtyfour (X25)](#sixtyfour-x25) (1)
 - [Skydio](#skydio) (1)
 - [Smiths Detection](#smiths-detection) (1)
-- [Smiths Detection Group](#smiths-detection-group) (2)
+- [Smiths Detection Group](#smiths-detection-group) (1)
 - [Snowflake](#snowflake) (10)
 - [Solar Turbines](#solar-turbines) (2)
 - [SoloPulse](#solopulse) (3)
@@ -593,12 +593,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19500) | 60 | Norcross, GA | Software | 2026-06-20 |
-
-## Ada
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://job-boards.greenhouse.io/ada18/jobs/5180710007) | 93 | Remote in Canada | Software | 2026-07-07 |
 
 ## Adobe
 
@@ -1335,6 +1329,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Autonomous Driving – Internship in Machine Learning](https://jobs.smartrecruiters.com/BoschGroup/744000139649345) | 68 | Sunnyvale, CA, United States | Data & ML/AI / Summer 2027 | 2026-07-27 |
 | [AI Research Intern - Wireless Perception](https://jobs.smartrecruiters.com/BoschGroup/c4621e0f-5c1e-4a67-adc4-0671cbcaf28c) | 68 | Pittsburgh, PA | Data Science, AI & Machine Learning | 2026-05-09 |
 | [LLM & Agentic AI R&D Intern](https://jobs.bosch.com/en/job/REF273459Q-llm-agentic-ai-r-d-intern) | 60 | Sunnyvale, CA | Data Science, AI & Machine Learning | 2026-05-09 |
 
@@ -1342,7 +1337,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Autonomous Driving Intern](https://jobs.smartrecruiters.com/BoschGroup/744000139649345) | 68 | Sunnyvale, CA | AI/ML/Data | 2026-07-24 |
 | [Research Intern](https://jobs.smartrecruiters.com/BoschGroup/744000136313549) | 68 | Sunnyvale, CA | AI/ML/Data | 2026-07-07 |
 | [A.1. Integration Intern](https://jobs.smartrecruiters.com/BoschGroup/744000134840254) | 68 | Columbia City, IN | AI/ML/Data | 2026-07-02 |
 | [Hardware Prototyping Intern - Data Center Rack](https://jobs.smartrecruiters.com/BoschGroup/744000134543799) | 58 | Sunnyvale, CA | Hardware | 2026-07-02 |
@@ -2526,11 +2520,11 @@
 | [SAP BTP Application Developer Intern - Summer 2026](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/886) | 85 | Dallas, TX | Software | 2026-05-09 |
 | [Software Engineer Intern - Summer 2026](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/891) | 85 | Dallas, TX | Software | 2026-05-09 |
 
-## Hyperlight
+## HyperLight
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://apply.workable.com/hyperlight/j/5581EA0668/) | 93 | Cambridge, Massachusetts, United States | Software / Summer 2027 | 2026-07-24 |
+| [Software Engineer Intern](https://apply.workable.com/hyperlight/j/5581EA0668/) | 93 | Cambridge, MA | — | 2026-07-27 |
 
 ## iHeartMedia
 
@@ -2624,6 +2618,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Research Intern](https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Minneapolis-MN/Research-Intern_JR4284) | 68 | Minneapolis, MN | AI/ML/Data | 2026-07-21 |
+
+## Intel
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI Applied intern](https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916) | 68 | US, Oregon, Hillsboro | Data & ML/AI / Summer 2027 | 2026-07-27 |
 
 ## Intercontinental Exchange, Inc.
 
@@ -3035,7 +3035,6 @@
 | [Research Scientist Intern](https://www.metacareers.com/jobs/779670167783218) | 85 | Seattle, WA / Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Scientist Intern - AI/ML - Core Ads Growth](https://www.metacareers.com/jobs/771948392580541) | 85 | London, UK | AI/ML/Data | 2026-05-09 |
 | [Research Scientist Intern - Applied Vision and Image Quality - PhD](https://www.metacareers.com/jobs/1422892385992613) | 85 | Redmond, WA | AI/ML/Data | 2026-05-09 |
-| [Research Scientist Intern - Photorealistic Telepresence](https://www.metacareers.com/jobs/2022109075207025) | 85 | Sausalito, CA / Redmond, WA / Pittsburgh, PA | AI/ML/Data | 2026-05-09 |
 | [Research Scientist Intern PhD - Applied Research](https://www.metacareers.com/jobs/2633206137040139) | 85 | Menlo Park, CA / NYC / Bellevue, WA | AI/ML/Data | 2026-05-09 |
 | [Research Scientist Intern, LLM Evaluation](https://www.metacareers.com/profile/job_details/4203446973242742) | 85 | New York, NY | Data Science, AI & Machine Learning | 2026-05-09 |
 | [Research Scientist Intern, Advanced Materials for Soft Robotics (PhD)](https://www.metacareers.com/profile/job_details/25514049594874160) | 75 | Redmond, WA | Hardware Engineering | 2026-05-09 |
@@ -3937,7 +3936,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-22321) | 93 | Boise, ID | Software | 2026-07-22 |
+| [Software Engineer Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-22321) | 93 | Boise, ID | — | 2026-07-22 |
 | [Engineering Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Houston/Engineering-Intern_2026-22278) | 58 | Houston, TX | Hardware | 2026-07-21 |
 
 ## SCOR
@@ -4034,7 +4033,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Technical Service Engineer Intern](https://jobs.smartrecruiters.com/SmithsGroup2/744000140008569) | 58 | Parsippany-Troy Hills, NJ | Hardware | 2026-07-27 |
 | [Depot Service Engineer Intern](https://jobs.smartrecruiters.com/SmithsGroup2/744000125196499) | 58 | Gunpowder, MD | Hardware | 2026-07-26 |
 
 ## Snowflake

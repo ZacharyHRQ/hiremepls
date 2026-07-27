@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-27T17:53:21.474Z",
+  "generatedAt": "2026-07-27T19:11:14.803Z",
   "companyCount": 80,
   "okCount": 79,
-  "jobCount": 1591,
+  "jobCount": 1589,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -174,7 +174,6 @@
     "canonical:7c07dd1661862a16": "2026-05-11T23:38:25.770Z",
     "canonical:d740b7c5e5a74f25": "2026-05-11T23:38:25.770Z",
     "canonical:ce5569247a10aa36": "2026-05-13T22:37:04.081Z",
-    "canonical:266566b1da26f312": "2026-05-09T15:28:15.527Z",
     "canonical:9439282ae35186c1": "2026-05-14T01:31:29.727Z",
     "canonical:4d80d3c0fa984737": "2026-05-14T05:32:10.854Z",
     "canonical:5d5c9780f955f253": "2026-05-14T05:32:10.854Z",
@@ -550,7 +549,6 @@
     "canonical:80cca71dae305229": "2026-07-06T16:08:02.314Z",
     "canonical:70d6d85016f5db82": "2026-07-06T16:08:02.314Z",
     "canonical:a12772f2bf1637b3": "2026-07-06T22:57:31.301Z",
-    "canonical:806493ec5051ab27": "2026-07-07T00:04:51.849Z",
     "canonical:ea9e7fa8ece78c88": "2026-07-07T00:04:51.849Z",
     "canonical:0b356c888be04818": "2026-07-07T04:14:22.126Z",
     "canonical:cda2c4658acd891e": "2026-07-07T04:14:22.126Z",
@@ -1521,7 +1519,6 @@
     "canonical:957953dd04839b8d": "2026-07-24T11:21:51.310Z",
     "canonical:fc0d630e0237c20e": "2026-07-24T11:21:51.310Z",
     "canonical:06912e30d2002b80": "2026-07-24T11:21:51.310Z",
-    "canonical:ec9d67665134d10a": "2026-07-24T11:21:51.310Z",
     "canonical:d4522e592923d04c": "2026-07-24T12:52:14.698Z",
     "canonical:b7e2b2dbebb1a7cb": "2026-07-24T16:38:46.477Z",
     "canonical:8dd11d540cc523a9": "2026-07-24T16:38:46.477Z",
@@ -1538,7 +1535,6 @@
     "canonical:1f23504ddab9ce74": "2026-07-24T22:42:05.015Z",
     "canonical:47f4547c78cbe49c": "2026-07-24T22:42:05.015Z",
     "canonical:effba85f704368fa": "2026-07-24T22:42:05.015Z",
-    "canonical:0a5b28109c032dfd": "2026-07-24T22:42:05.015Z",
     "canonical:8cf196bbf7dc679c": "2026-07-24T22:42:05.015Z",
     "canonical:f8b98161d0d229d1": "2026-07-24T22:42:05.015Z",
     "canonical:42c4a6d8c5264cf5": "2026-07-24T23:42:50.061Z",
@@ -1585,7 +1581,6 @@
     "canonical:7513b79c2374e7a1": "2026-07-27T16:01:50.350Z",
     "canonical:9bd73b3c81e5211b": "2026-07-27T16:01:50.350Z",
     "canonical:ad1518ec22686d31": "2026-07-27T16:01:50.350Z",
-    "canonical:d5c20328e22a63d5": "2026-07-27T16:01:50.350Z",
     "canonical:33b63becca5acff3": "2026-07-27T16:01:50.350Z",
     "canonical:cc27892b2185aa28": "2026-07-27T16:01:50.350Z",
     "canonical:298e52b8e516ee2b": "2026-07-27T16:01:50.350Z",
@@ -1594,7 +1589,10 @@
     "canonical:1284ad8e46fc112b": "2026-07-27T17:53:21.474Z",
     "canonical:88375c6d48e7559d": "2026-07-27T17:53:21.474Z",
     "canonical:14ea1a5cbe4d09bc": "2026-07-27T17:53:21.474Z",
-    "canonical:81f4619a2b5155ca": "2026-07-27T17:53:21.474Z"
+    "canonical:81f4619a2b5155ca": "2026-07-27T17:53:21.474Z",
+    "canonical:7bf3ea60dbe8427a": "2026-07-27T19:11:14.803Z",
+    "canonical:deaf88c40b6153ff": "2026-07-27T19:11:14.803Z",
+    "canonical:c2685b423012adeb": "2026-07-27T19:11:14.803Z"
   },
   "jobs": [
     {
@@ -9845,19 +9843,6 @@
       ]
     },
     {
-      "id": "canonical:266566b1da26f312",
-      "title": "Research Scientist Intern - Photorealistic Telepresence",
-      "url": "https://www.metacareers.com/jobs/2022109075207025",
-      "location": "Sausalito, CA / Redmond, WA / Pittsburgh, PA",
-      "department": "AI/ML/Data",
-      "company": "Meta",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:caf9da635ac3aba7",
       "title": "Software Development Intern",
       "url": "https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Development-Intern_JR100290",
@@ -15102,20 +15087,6 @@
       ]
     },
     {
-      "id": "canonical:806493ec5051ab27",
-      "title": "Software Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/ada18/jobs/5180710007",
-      "location": "Remote in Canada",
-      "department": "Software",
-      "company": "Ada",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:ea9e7fa8ece78c88",
       "title": "Machine Learning Intern - Autonomy",
       "url": "https://www.bluerivertechnology.com/job/?gh_jid=7947246",
@@ -17698,20 +17669,6 @@
       ]
     },
     {
-      "id": "canonical:9dc2dde4ee5e6587",
-      "title": "Software Engineer Intern",
-      "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-22321",
-      "location": "Boise, ID",
-      "department": "Software",
-      "company": "Schweitzer Engineering Laboratories",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:cfe7b67d532d58e9",
       "title": "Data Science Machine Learning Intern",
       "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344",
@@ -18314,19 +18271,6 @@
       ]
     },
     {
-      "id": "canonical:0a5b28109c032dfd",
-      "title": "Autonomous Driving Intern",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000139649345",
-      "location": "Sunnyvale, CA",
-      "department": "AI/ML/Data",
-      "company": "Bosch Home Comfort",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:32b1d2cc0e89c258",
       "title": "Quantitative Developer Intern",
       "url": "https://job-boards.greenhouse.io/blackedgecapital/jobs/4703821005",
@@ -18587,18 +18531,6 @@
       "score": 68,
       "scoreReasons": [
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:d5c20328e22a63d5",
-      "title": "Technical Service Engineer Intern",
-      "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000140008569",
-      "location": "Parsippany-Troy Hills, NJ",
-      "department": "Hardware",
-      "company": "Smiths Detection Group",
-      "score": 58,
-      "scoreReasons": [
         "direct ATS"
       ]
     },
@@ -20143,6 +20075,20 @@
       ]
     },
     {
+      "id": "canonical:9dc2dde4ee5e6587",
+      "title": "Software Engineer Intern",
+      "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-22321",
+      "location": "Boise, ID",
+      "department": "",
+      "company": "Schweitzer Engineering Laboratories",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:de4ba387e6347ef1",
       "title": "Full-Stack Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef?embed=true",
@@ -20544,12 +20490,12 @@
       ]
     },
     {
-      "id": "canonical:ec9d67665134d10a",
+      "id": "canonical:7bf3ea60dbe8427a",
       "title": "Software Engineer Intern",
       "url": "https://apply.workable.com/hyperlight/j/5581EA0668/",
-      "location": "Cambridge, Massachusetts, United States",
-      "department": "Software / Summer 2027",
-      "company": "Hyperlight",
+      "location": "Cambridge, MA",
+      "department": "",
+      "company": "HyperLight",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -20603,6 +20549,19 @@
       "location": "Saint Louis, MO 63146",
       "department": "Data & ML/AI / Summer 2027",
       "company": "Core & Main",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:deaf88c40b6153ff",
+      "title": "Autonomous Driving – Internship in Machine Learning",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000139649345",
+      "location": "Sunnyvale, CA, United States",
+      "department": "Data & ML/AI / Summer 2027",
+      "company": "Bosch",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -21404,6 +21363,19 @@
       "score": 42,
       "scoreReasons": [
         "aggregator link"
+      ]
+    },
+    {
+      "id": "canonical:c2685b423012adeb",
+      "title": "AI Applied intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916",
+      "location": "US, Oregon, Hillsboro",
+      "department": "Data & ML/AI / Summer 2027",
+      "company": "Intel",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
