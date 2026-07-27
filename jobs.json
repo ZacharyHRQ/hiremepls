@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-27T20:41:18.581Z",
+  "generatedAt": "2026-07-27T21:46:25.868Z",
   "companyCount": 80,
   "okCount": 79,
-  "jobCount": 1589,
+  "jobCount": 1587,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1162,16 +1162,11 @@
     "canonical:22cf3f38abcae45e": "2026-07-20T23:30:05.931Z",
     "canonical:692e540aae052d72": "2026-07-20T23:30:05.931Z",
     "canonical:09d3e6e1ab0e0269": "2026-07-20T23:30:05.931Z",
-    "canonical:cb9ae54c5ea4b30c": "2026-07-20T23:30:05.931Z",
     "canonical:a7dac50e7df8f8dc": "2026-07-20T23:30:05.931Z",
     "canonical:b6fef321b22488fa": "2026-07-20T23:30:05.931Z",
     "canonical:1a64534dee1c578c": "2026-07-20T23:30:05.931Z",
-    "canonical:23c0ad606da5f00d": "2026-07-20T23:30:05.931Z",
     "canonical:d2c034a91a974899": "2026-07-20T23:30:05.931Z",
-    "canonical:36bc46a94b9dbea1": "2026-07-20T23:30:05.931Z",
     "canonical:af898e812d0107e6": "2026-07-20T23:30:05.931Z",
-    "canonical:02ed8d0c7ccd88eb": "2026-07-20T23:30:05.931Z",
-    "canonical:ddbc7e4d2352a8b2": "2026-07-20T23:30:05.931Z",
     "canonical:5102d25030cf046b": "2026-07-21T04:15:38.512Z",
     "canonical:d9c4595a701de09d": "2026-07-21T04:15:38.512Z",
     "canonical:836096831e4c3187": "2026-07-21T04:15:38.512Z",
@@ -1554,7 +1549,6 @@
     "canonical:655f5e30c9cb8e9e": "2026-07-27T07:30:47.104Z",
     "canonical:fe2adc4afff84724": "2026-07-27T07:30:47.104Z",
     "canonical:ceaed297777b1a28": "2026-07-27T07:30:47.104Z",
-    "canonical:b2b8f69b16b2bc8c": "2026-07-27T07:30:47.104Z",
     "canonical:2b66bce40b0e7b7e": "2026-07-27T07:30:47.104Z",
     "canonical:09285feace2720eb": "2026-07-27T07:30:47.104Z",
     "canonical:d7aeb4ad30fc69c5": "2026-07-27T07:30:47.104Z",
@@ -1592,7 +1586,11 @@
     "canonical:c2685b423012adeb": "2026-07-27T19:11:14.803Z",
     "canonical:b9c2e23d57f69a86": "2026-07-27T20:41:18.581Z",
     "canonical:261581191e18b8e6": "2026-07-27T20:41:18.581Z",
-    "canonical:8d6dde2532cc7dc8": "2026-07-27T20:41:18.581Z"
+    "canonical:8d6dde2532cc7dc8": "2026-07-27T20:41:18.581Z",
+    "canonical:a57688bba877331e": "2026-07-27T21:46:25.868Z",
+    "canonical:0a7f1c1ed0ae4b7a": "2026-07-27T21:46:25.868Z",
+    "canonical:316de01d02e09fd8": "2026-07-27T21:46:25.868Z",
+    "canonical:16de358dd7a37b62": "2026-07-27T21:46:25.868Z"
   },
   "jobs": [
     {
@@ -1968,7 +1966,7 @@
       "title": "Campus AI Research Engineer - Deep Learning (Intern)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=8052338",
       "location": "Chicago; New York",
-      "department": "Data & ML/AI / Summer 2027",
+      "department": "Data & ML/AI / Not stated",
       "company": "Jump Trading",
       "score": 85,
       "scoreReasons": [
@@ -1981,7 +1979,7 @@
       "title": "Campus AI Research Engineer (Intern)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=8052281",
       "location": "Chicago; New York",
-      "department": "Data & ML/AI / Summer 2027",
+      "department": "Data & ML/AI / Not stated",
       "company": "Jump Trading",
       "score": 85,
       "scoreReasons": [
@@ -1994,7 +1992,7 @@
       "title": "Campus AI Research Engineer – Research Automation (Intern)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=8052351",
       "location": "Chicago; New York",
-      "department": "Data & ML/AI / Summer 2027",
+      "department": "Data & ML/AI / Not stated",
       "company": "Jump Trading",
       "score": 85,
       "scoreReasons": [
@@ -20425,7 +20423,7 @@
       "title": "Software Engineer Intern - Generalist",
       "url": "https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/",
       "location": "Fremont, California, United States",
-      "department": "Software / Summer 2027",
+      "department": "Software / Not stated",
       "company": "Pony.ai",
       "score": 93,
       "scoreReasons": [
@@ -20439,7 +20437,7 @@
       "title": "Research Intern - Deep Learning",
       "url": "https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/",
       "location": "Fremont, California, United States",
-      "department": "Data & ML/AI / Summer 2027",
+      "department": "Data & ML/AI / Not stated",
       "company": "Pony.ai",
       "score": 68,
       "scoreReasons": [
@@ -20492,7 +20490,7 @@
       "title": "Project Management & AI Automation Intern",
       "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5190937007",
       "location": "Frisco, TX",
-      "department": "Data & ML/AI / Summer 2027",
+      "department": "Data & ML/AI / Fall 2026",
       "company": "Toshiba Global Commerce",
       "score": 68,
       "scoreReasons": [
@@ -20505,7 +20503,7 @@
       "title": "Intern - AI/ML Data Engineering  -  Onsite - St. Louis",
       "url": "https://coreandmain.wd1.myworkdayjobs.com/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804",
       "location": "Saint Louis, MO 63146",
-      "department": "Data & ML/AI / Summer 2027",
+      "department": "Data & ML/AI / Not stated",
       "company": "Core & Main",
       "score": 68,
       "scoreReasons": [
@@ -20518,7 +20516,7 @@
       "title": "Autonomous Driving – Internship in Machine Learning",
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000139649345",
       "location": "Sunnyvale, CA, United States",
-      "department": "Data & ML/AI / Summer 2027",
+      "department": "Data & ML/AI / Not stated",
       "company": "Bosch",
       "score": 68,
       "scoreReasons": [
@@ -20598,7 +20596,7 @@
       "title": "AI Applied intern",
       "url": "https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916",
       "location": "US, Oregon, Hillsboro",
-      "department": "Data & ML/AI / Summer 2027",
+      "department": "Data & ML/AI / Not stated",
       "company": "Intel",
       "score": 68,
       "scoreReasons": [
@@ -20611,7 +20609,7 @@
       "title": "Intern Program - Agentic AI",
       "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern-Program---Agentic-AI_R22904",
       "location": "Lincoln, NE",
-      "department": "Data & ML/AI / Summer 2027",
+      "department": "Data & ML/AI / Not stated",
       "company": "Nelnet",
       "score": 68,
       "scoreReasons": [
@@ -21403,11 +21401,37 @@
       ]
     },
     {
+      "id": "canonical:a57688bba877331e",
+      "title": "Powertrain Controls Software Engineering Intern (6-Months)",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000140089589",
+      "location": "Farmington Hills, MI, United States",
+      "department": "Software / Not stated",
+      "company": "Bosch",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:0a7f1c1ed0ae4b7a",
+      "title": "Applied AI Engineering Intern",
+      "url": "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Applied-AI-Engineering-Intern_0014827",
+      "location": "Chicago (Green St), IL",
+      "department": "Data & ML/AI / Not stated",
+      "company": "CCC Intelligent Solutions",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:8d6dde2532cc7dc8",
       "title": "Software Engineer Intern - ML Systems",
       "url": "https://boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004",
       "location": "Onsite - Austin, TX",
-      "department": "Data & ML/AI / Summer 2027",
+      "department": "Data & ML/AI / Not stated",
       "company": "Apptronik",
       "score": 93,
       "scoreReasons": [
@@ -21435,7 +21459,7 @@
       "title": "R&D- Computer Vision Engineering Intern",
       "url": "https://magna.wd3.myworkdayjobs.com/Magna/job/Troy-Michigan-US/R-D--Computer-Vision-Engineering-Intern_R00253444-1",
       "location": "Troy, Michigan, US",
-      "department": "Data & ML/AI / Summer 2027",
+      "department": "Data & ML/AI / Not stated",
       "company": "Magna International",
       "score": 68,
       "scoreReasons": [
@@ -21444,11 +21468,36 @@
       ]
     },
     {
+      "id": "canonical:316de01d02e09fd8",
+      "title": "RenderATL - 2027 US Software Engineering Internship",
+      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003",
+      "location": "Seattle, Washington, United States",
+      "department": "Software / Summer 2027",
+      "company": "Axon",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:16de358dd7a37b62",
+      "title": "RenderATL 2027 US Firmware Engineering Internship",
+      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800628003",
+      "location": "Seattle, Washington, United States",
+      "department": "Hardware / Summer 2027",
+      "company": "Axon",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:c2b972f6e03a0c85",
       "title": "Software Developer Intern- Drexel Co-op US",
       "url": "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Philadelphia-Pennsylvania-United-States-of-America/Software-Developer-Intern--Drexel-Co-op-US_R014478",
       "location": "Philadelphia, Pennsylvania, United States of America",
-      "department": "Software / Summer 2027",
+      "department": "Software / Not stated",
       "company": "AVEVA",
       "score": 93,
       "scoreReasons": [
@@ -21475,7 +21524,7 @@
       "title": "AI Operations Intern-Caddell Reynolds",
       "url": "https://jobs.lever.co/acds/01fdf41b-a835-4e00-8d01-0275677a8f08",
       "location": "Fort Smith, AR",
-      "department": "Data & ML/AI / Summer 2027",
+      "department": "Data & ML/AI / Not stated",
       "company": "ACDS",
       "score": 68,
       "scoreReasons": [
@@ -21497,24 +21546,11 @@
       ]
     },
     {
-      "id": "canonical:b2b8f69b16b2bc8c",
-      "title": "Full Stack Developer Intern (Remote Opportunity)",
-      "url": "https://vetsez.breezy.hr/p/45cb34b38e8301-full-stack-developer-intern-remote-opportunity",
-      "location": "Tampa, FL",
-      "department": "Software / Summer 2027",
-      "company": "VetsEZ",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:22cf3f38abcae45e",
       "title": "AI Operations Intern - Naukr AI",
       "url": "https://jobs.lever.co/acds/41bee5e2-6477-428f-b359-34b4071d545f",
       "location": "Bentonville, AR",
-      "department": "Data & ML/AI / Summer 2027",
+      "department": "Data & ML/AI / Not stated",
       "company": "ACDS",
       "score": 68,
       "scoreReasons": [
@@ -21527,7 +21563,7 @@
       "title": "AI-First Engineering Intern",
       "url": "https://jobs.lever.co/xsolla/5d5fd6b3-d82f-437a-b251-abf4674ac874",
       "location": "Raleigh, United States",
-      "department": "Data & ML/AI / Summer 2027",
+      "department": "Data & ML/AI / Not stated",
       "company": "Xsolla",
       "score": 68,
       "scoreReasons": [
@@ -21540,7 +21576,7 @@
       "title": "AI-First Engineering Intern",
       "url": "https://jobs.lever.co/xsolla/1c0e5375-2352-4a2c-a816-48ddebbdd3d6",
       "location": "Los Angeles, United States",
-      "department": "Data & ML/AI / Summer 2027",
+      "department": "Data & ML/AI / Not stated",
       "company": "Xsolla",
       "score": 68,
       "scoreReasons": [
@@ -21553,7 +21589,7 @@
       "title": "DevOps Engineering Intern",
       "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/DevOps-Engineering-Intern_JR109490",
       "location": "Dallas, TX - Headquarters",
-      "department": "Software / Summer 2027",
+      "department": "Software / Not stated",
       "company": "Copart",
       "score": 68,
       "scoreReasons": [
@@ -21562,24 +21598,11 @@
       ]
     },
     {
-      "id": "canonical:cb9ae54c5ea4b30c",
-      "title": "Full Stack Developer Intern (Remote Opportunity)",
-      "url": "https://vetsez.breezy.hr/p/d18961a7a7e701-full-stack-developer-intern-remote-opportunity",
-      "location": "Dallas, TX",
-      "department": "Software / Summer 2027",
-      "company": "VetsEZ",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:a7dac50e7df8f8dc",
       "title": "Data Analyst Internship",
       "url": "https://apply.workable.com/connectprep/j/C0CA13664F/",
       "location": "Washington, District of Columbia, United States (Remote)",
-      "department": "Data & ML/AI / Summer 2027",
+      "department": "Data & ML/AI / Not stated",
       "company": "ConnectPrep",
       "score": 68,
       "scoreReasons": [
@@ -21618,7 +21641,7 @@
       "title": "Software Engineer Intern - Machine Learning Workflow",
       "url": "https://apply.workable.com/halo-industries/j/29728B1DAF/",
       "location": "Santa Clara, California, United States",
-      "department": "Data & ML/AI / Summer 2027",
+      "department": "Data & ML/AI / Not stated",
       "company": "Halo Industries",
       "score": 93,
       "scoreReasons": [
@@ -21632,7 +21655,7 @@
       "title": "Internship - Veeda AI Scientist",
       "url": "https://jobs.ashbyhq.com/veeda-labs/58cc42fb-1d6f-4e5f-860d-3b97bdccc6f4",
       "location": "California",
-      "department": "Data & ML/AI / Summer 2027",
+      "department": "Data & ML/AI / Not stated",
       "company": "Veeda AI",
       "score": 93,
       "scoreReasons": [
@@ -21659,7 +21682,7 @@
       "title": "Fall Software Development Intern",
       "url": "https://apply.workable.com/altom-transport/j/9FC654F05E/",
       "location": "Hammond, Indiana, United States",
-      "department": "Software / Fall 2026",
+      "department": "Software / Not stated",
       "company": "Altom Transport",
       "score": 68,
       "scoreReasons": [
@@ -21672,24 +21695,10 @@
       "title": "Data Science Intern",
       "url": "https://jobs.ashbyhq.com/centerfield/916dcf42-d69a-4f00-875a-f8fe630e0f33",
       "location": "Los Angeles, California",
-      "department": "Data & ML/AI / Summer 2027",
+      "department": "Data & ML/AI / Not stated",
       "company": "Centerfield",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:23c0ad606da5f00d",
-      "title": "AI Robotics Researcher Intern (Dexterous Manipulation)",
-      "url": "https://nio.wd3.myworkdayjobs.com/NIO_Careers/job/San-Jose-US/AI-Robotics-Researcher-Intern--Dexterous-Manipulation-_R-000144",
-      "location": "San Jose-US",
-      "department": "Data & ML/AI / Summer 2027",
-      "company": "Nio",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -21713,24 +21722,10 @@
       "title": "AI Research Internship - WM",
       "url": "https://jobs.lever.co/ifm-us/3eec355c-6dde-4a3e-8cdf-b2a8930d5678",
       "location": "Sunnyvale, CA",
-      "department": "Data & ML/AI / Summer 2027",
+      "department": "Data & ML/AI / Not stated",
       "company": "Institute of Foundation Models",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:36bc46a94b9dbea1",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/centerfield/3279e803-56ab-4e12-8168-c2fd60bc8e60",
-      "location": "Los Angeles, California",
-      "department": "Software / Summer 2027",
-      "company": "Centerfield",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -21758,32 +21753,6 @@
       "score": 68,
       "scoreReasons": [
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:02ed8d0c7ccd88eb",
-      "title": "DevOps/SRE Intern",
-      "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007?gh_jid=5151577007",
-      "location": "Chicago, Illinois, United States",
-      "department": "Software / Summer 2027",
-      "company": "TransMarket Group",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:ddbc7e4d2352a8b2",
-      "title": "Firmware Engineer Intern",
-      "url": "https://jobs.lever.co/fluxergy-2/c592763e-56ba-4d20-b751-3a4574470eec",
-      "location": "Irvine, California",
-      "department": "Hardware / Summer 2027",
-      "company": "Fluxergy",
-      "score": 83,
-      "scoreReasons": [
-        "SWE-aligned",
         "direct ATS"
       ]
     },
