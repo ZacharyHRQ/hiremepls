@@ -1,6 +1,6 @@
 # Open Internships
 
-**1585** internships across **79/80** companies — last updated 2026-07-27.
+**1587** internships across **79/80** companies — last updated 2026-07-27.
 
 ## Companies
 
@@ -8,7 +8,7 @@
 - [ABC News](#abc-news) (1)
 - [Abundant](#abundant) (1)
 - [AccuWeather](#accuweather) (1)
-- [Acds](#acds) (2)
+- [ACDS](#acds) (2)
 - [ACI Worldwide ](#aci-worldwide) (1)
 - [Ada](#ada) (1)
 - [Adobe](#adobe) (2)
@@ -22,7 +22,7 @@
 - [AlixPartners](#alixpartners) (1)
 - [Altasciences](#altasciences) (2)
 - [Altom Transport](#altom-transport) (2)
-- [Amazon](#amazon) (164)
+- [Amazon](#amazon) (166)
 - [Ambarella](#ambarella) (8)
 - [Amentum](#amentum) (1)
 - [American Enterprise Institute](#american-enterprise-institute) (2)
@@ -69,8 +69,7 @@
 - [Barkback](#barkback) (1)
 - [Base Power](#base-power) (3)
 - [BDO Canada](#bdo-canada) (1)
-- [Beacon Software](#beacon-software) (1)
-- [Beaconsoftware](#beaconsoftware) (1)
+- [Beacon Software](#beacon-software) (2)
 - [beBeeManufacturingEngineering](#bebeemanufacturingengineering) (1)
 - [Bee Sweet Citrus](#bee-sweet-citrus) (1)
 - [Berkshire Hathaway Energy](#berkshire-hathaway-energy) (2)
@@ -111,7 +110,7 @@
 - [Caterpillar Inc.](#caterpillar-inc) (1)
 - [Centerfield](#centerfield) (4)
 - [Centific](#centific) (1)
-- [Charlesriveranalytics90](#charlesriveranalytics90) (1)
+- [Charles River Analytics](#charles-river-analytics) (1)
 - [Chartwells Higher Education Dining Services](#chartwells-higher-education-dining-services) (1)
 - [CHEP](#chep) (1)
 - [Cherry Bekaert](#cherry-bekaert) (2)
@@ -125,7 +124,6 @@
 - [Citadel](#citadel) (13)
 - [Citadel Securities](#citadel-securities) (12)
 - [City of Austin](#city-of-austin) (1)
-- [City of Charlotte](#city-of-charlotte) (1)
 - [Clarity Innovations](#clarity-innovations) (1)
 - [Clera](#clera) (1)
 - [Clerkie](#clerkie) (1)
@@ -274,7 +272,6 @@
 - [Institute of Foundation Models](#institute-of-foundation-models) (4)
 - [Integra FEC](#integra-fec) (3)
 - [Integrity](#integrity) (1)
-- [Interac](#interac) (1)
 - [Intercontinental Exchange, Inc.](#intercontinental-exchange-inc) (1)
 - [Interdigital](#interdigital) (1)
 - [International Rescue Committee (IRC)](#international-rescue-committee-irc) (2)
@@ -324,7 +321,6 @@
 - [Medical Informatics Engineering](#medical-informatics-engineering) (1)
 - [Medpace](#medpace) (2)
 - [Medpace, Inc.](#medpace-inc) (3)
-- [Medtronic](#medtronic) (1)
 - [Melotech](#melotech) (3)
 - [Menasha Corporation](#menasha-corporation) (2)
 - [Meshy](#meshy) (1)
@@ -365,10 +361,9 @@
 - [Nokia](#nokia) (1)
 - [North Cloud](#north-cloud) (1)
 - [Northrop Grumman](#northrop-grumman) (1)
-- [Northwell Health](#northwell-health) (1)
 - [Northwestern Mutual](#northwestern-mutual) (3)
 - [Notion](#notion) (5)
-- [NVIDIA](#nvidia) (2)
+- [NVIDIA](#nvidia) (3)
 - [NXP Semiconductors](#nxp-semiconductors) (2)
 - [Occidental Petroleum](#occidental-petroleum) (1)
 - [Octaura](#octaura) (1)
@@ -409,8 +404,8 @@
 - [Pinterest](#pinterest) (2)
 - [PlusAI](#plusai) (13)
 - [Point72](#point72) (20)
-- [Pony Dot Ai](#pony-dot-ai) (2)
 - [pony.ai](#pony-ai) (2)
+- [Pony.ai](#pony-ai) (2)
 - [Poshmark](#poshmark) (1)
 - [Primetals Technologies](#primetals-technologies) (2)
 - [Prior Labs](#prior-labs) (1)
@@ -478,6 +473,7 @@
 - [Squarepoint Capital](#squarepoint-capital) (5)
 - [SS&C](#ss-c) (1)
 - [StarSling](#starsling) (1)
+- [Stevens Capital Management](#stevens-capital-management) (1)
 - [Stoke Space](#stoke-space) (2)
 - [Stripe](#stripe) (4)
 - [Super](#super) (2)
@@ -537,7 +533,7 @@
 - [Vega Investment Technologies](#vega-investment-technologies) (1)
 - [Vendelux](#vendelux) (1)
 - [Veralto](#veralto) (1)
-- [VetsEZ](#vetsez) (2)
+- [VetsEZ](#vetsez) (3)
 - [Viridien](#viridien) (1)
 - [Virtu Financial](#virtu-financial) (4)
 - [Vital Lyfe](#vital-lyfe) (1)
@@ -560,7 +556,7 @@
 - [WTW](#wtw) (1)
 - [X Development](#x-development) (2)
 - [XPENG Motors](#xpeng-motors) (2)
-- [Xsolla](#xsolla) (2)
+- [Xsolla](#xsolla) (3)
 - [Zipline](#zipline) (4)
 - [Zuru](#zuru) (1)
 
@@ -588,7 +584,7 @@
 | --- | --- | --- | --- | --- |
 | [Product Analyst Intern](https://job-boards.greenhouse.io/accuweather/jobs/7453001) | 58 | State College, PA / Remote in USA | Product | 2026-05-09 |
 
-## Acds
+## ACDS
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
@@ -692,6 +688,9 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)](https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more) | 85 | North Reading, Massachusetts, USA | Data & ML/AI / Fall 2026 | 2026-07-27 |
+| [Robotics - Software Development Engineer Intern/Co-op - 2026](https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026) | 85 | Westboro, Massachusetts, USA | Hardware / Fall 2026 | 2026-07-27 |
+| [Software Development Engineer Internship - Fall 2026 (US)](https://www.amazon.jobs/en/jobs/3116030/software-development-engineer-internship-fall-2026-us) | 85 | Seattle, Washington, USA | Software / Fall 2026 | 2026-07-27 |
 | [Tech Ops Engineer Intern  - Fall 2026, AWS Data Center Commissioning](https://amazon.jobs/en/jobs/10426739/tech-ops-engineer-intern-fall-2026-aws-data-center-commissioning) | 75 | Jeffersonville | Facilities, Maintenance, & Real Estate | 2026-07-25 |
 | [General Marketing Intern](https://amazon.jobs/en/jobs/3091876/general-marketing-intern) | 30 | Mexico City | Administrative Support | 2026-07-24 |
 | [Software Dev Engineer Intern Machine Learning, Amazon Robotics](https://amazon.jobs/en/jobs/10401402/software-dev-engineer-intern-machine-learning-amazon-robotics) | 85 | Berlin | Software Development | 2026-07-24 |
@@ -848,7 +847,6 @@
 | [Sales Ops Analyst Intern 인턴, New Seller Recruitment](https://amazon.jobs/en/jobs/10472164/sales-ops-analyst-intern-new-seller-recruitment) | 30 | Seoul | Sales, Advertising, & Account Management | 2026-07-20 |
 | [Sales Ops Analyst Intern 인턴, Strategic Account Services](https://amazon.jobs/en/jobs/10472134/sales-ops-analyst-intern-strategic-account-services) | 30 | Seoul | Sales, Advertising, & Account Management | 2026-07-20 |
 | [Amazon Industrial Robotics - Applied Scientist II Intern / Co-op - 2026, Amazon Industrial Robotics](https://www.amazon.jobs/en/jobs/3132414/amazon-industrial-robotics-applied-scientist-ii-intern-co-op-2026-amazon-industrial-robotics) | 85 | North Reading, Massachusetts, USA | Data & ML/AI / Fall 2026 | 2026-07-13 |
-| [Robotics - Software Development Engineer Intern/Co-op - 2026](https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026) | 85 | Westboro, Wisconsin, USA | Hardware / Fall 2026 | 2026-07-13 |
 | [Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)](https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us) | 85 | Seattle, Washington, USA | Data & ML/AI / Fall 2026 | 2026-07-13 |
 | [Robotics - Software Development Engineer Intern/Co-op](https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1) | 85 | Sunnyvale, CA / North Reading, MA / Westboro, MA / Nashville, TN / Austin, TX / Arlington, VA / Bellevue, WA / Seattle, WA | — | 2026-07-09 |
 | [Software Development Engineer Intern](https://www.amazon.jobs/en/jobs/3101249/software-development-engineer-internship-winter-2026-us) | 85 | Phoenix, AZ / Tempe, AZ / Berkeley, CA / Culver City, CA / Cupertino, CA / East Palo Alto, CA / Irvine, CA / Los Angeles, CA / Manhattan Beach, CA / Palo Alto, CA / San Diego, CA / San Francisco, CA / San Jose, CA / San Luis Obispo, CA / Santa Barbara, CA / Santa Clara, CA / Santa Cruz, CA / Santa Monica, CA / Sunnyvale, CA / Boulder, CO / Denver, CO / Atlanta, GA / Kennesaw, GA / Chicago, IL / Boston, MA / Cambridge, MA / Hudson, MA / North Reading, MA / Westborough, MA / Baltimore, MD / Detroit, MI / Minneapolis, MN / Jersey City, NJ / New York, NY / Portland, OR / Philadelphia, PA / Pittsburgh, PA / Nashville, TN / Austin, TX / Dallas, TX / Arlington, VA / Herndon, VA / Madison, WI / Bellevue, WA / Seattle, WA / Redmond, WA | — | 2026-07-09 |
@@ -1198,13 +1196,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineering Intern](https://jobs.ashbyhq.com/beaconsoftware/2452d342-a069-4eda-adbe-9df296808ca1) | 68 | San Francisco, CA | Software / Fall 2026 | 2026-07-27 |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/beaconsoftware/2452d342-a069-4eda-adbe-9df296808ca1/application?embed=true) | 93 | SF | Software | 2026-07-20 |
-
-## Beaconsoftware
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineering Intern](https://jobs.ashbyhq.com/beaconsoftware/2452d342-a069-4eda-adbe-9df296808ca1) | 68 | San Francisco, CA | Software / Fall 2026 | 2026-07-20 |
 
 ## beBeeManufacturingEngineering
 
@@ -1505,11 +1498,11 @@
 | --- | --- | --- | --- | --- |
 | [Research Intern - Applied Reinforcement Learning](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Research-Intern---Applied-Reinforcement-Learning_JR106882) | 68 | Remote in USA | AI/ML/Data | 2026-07-22 |
 
-## Charlesriveranalytics90
+## Charles River Analytics
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software QA Tester Intern/Co-op](https://job-boards.greenhouse.io/charlesriveranalytics90/jobs/8035563) | 68 | Cambridge, MA | Software / Fall 2026 | 2026-07-20 |
+| [Software QA Tester Intern/Co-op](https://job-boards.greenhouse.io/charlesriveranalytics90/jobs/8035563) | 68 | Cambridge, MA | Software / Fall 2026 | 2026-07-27 |
 
 ## Chartwells Higher Education Dining Services
 
@@ -1617,12 +1610,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Austin Aviation Undergraduate Intern - IT Business Systems Analyst](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/AUS-Information-Systems-Building-IS/Austin-Aviation--IT-Business-Systems-Analyst---Undergraduate-Intern_JR104583) | 68 | Austin, TX | AI/ML/Data | 2026-07-25 |
-
-## City of Charlotte
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Management Analyst Intern - Research and Planning Division](https://charlottenc.wd12.myworkdayjobs.com/citgov/job/CMPD-HQ/Management-Analyst-Intern--Research-and-Planning-Division_JR104084-1) | 68 | Charlotte, NC | AI/ML/Data | 2026-07-21 |
 
 ## Clarity Innovations
 
@@ -2645,12 +2632,6 @@
 | --- | --- | --- | --- | --- |
 | [Research Intern](https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Minneapolis-MN/Research-Intern_JR4284) | 68 | Minneapolis, MN | AI/ML/Data | 2026-07-21 |
 
-## Interac
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Product Intern - Money Movement](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Intern--Money-Movement_REQ-2240) | 58 | Toronto, ON, Canada | Product | 2026-07-21 |
-
 ## Intercontinental Exchange, Inc.
 
 | Title | Score | Location | Department | First seen |
@@ -3027,12 +3008,6 @@
 | [Feasibility Informatics Intern/Co-op](https://careers.medpace.com/jobs/12566?lang=en-us&icims=1) | 60 | Cincinnati, OH | AI/ML/Data | 2026-05-15 |
 | [AI Engineer Intern](https://careers.medpace.com/jobs/12729?lang=en-us&icims=1) | 85 | Cincinnati, OH | AI/ML/Data | 2026-05-15 |
 
-## Medtronic
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Intern AI Vision for Equipment Development](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Lausanne-Vaud-Switzerland/Intern-AI-Vision-for-Equipment-Development_R72173) | 68 | Lausanne, Vaud, Switzerland | Data & ML/AI / Fall 2026 | 2026-07-20 |
-
 ## Melotech
 
 | Title | Score | Location | Department | First seen |
@@ -3307,12 +3282,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275) | 93 | Melbourne, FL | — | 2026-07-25 |
 
-## Northwell Health
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Analytics / Data Science Intern](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/192734) | 60 | Manhasset, NY | AI/ML/Data | 2026-07-24 |
-
 ## Northwestern Mutual
 
 | Title | Score | Location | Department | First seen |
@@ -3335,6 +3304,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [PhD Software Engineer Intern - Decision Intelligence](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522) | 93 | Santa Clara, CA | Hardware | 2026-07-27 |
 | [Performance Engineer Intern, Systems Software-  Fall 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779) | 93 | US, MO, St. Louis | Software / Fall 2026 | 2026-07-23 |
 | [Applied Research Intern, NLP - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488) | 68 | US, CA, Santa Clara | Data & ML/AI / Fall 2026 | 2026-07-23 |
 
@@ -3711,19 +3681,19 @@
 | [2027 Point72 Academy Investment Analyst Summer Internship Program - Japan](https://boards.greenhouse.io/point72/jobs/8491138002?gh_jid=8491138002) | 58 | Japan | — | 2026-05-06 |
 | [2027 Point72 Academy Investment Analyst Summer Internship Program - Singapore](https://boards.greenhouse.io/point72/jobs/8491128002?gh_jid=8491128002) | 58 | Singapore | — | 2026-05-06 |
 
-## Pony Dot Ai
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Intern - Generalist](https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/) | 93 | Fremont, California, United States | Software / Summer 2027 | 2026-07-22 |
-| [Research Intern - Deep Learning](https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/) | 68 | Fremont, California, United States | Data & ML/AI / Summer 2027 | 2026-07-22 |
-
 ## pony.ai
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/apply) | 93 | Fremont, CA | Software | 2026-07-01 |
 | [Research Intern - Deep Learning](https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/apply) | 68 | Fremont, CA | AI/ML/Data | 2026-06-24 |
+
+## Pony.ai
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer Intern - Generalist](https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/) | 93 | Fremont, California, United States | Software / Summer 2027 | 2026-07-27 |
+| [Research Intern - Deep Learning](https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/) | 68 | Fremont, California, United States | Data & ML/AI / Summer 2027 | 2026-07-27 |
 
 ## Poshmark
 
@@ -4190,6 +4160,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://www.workatastartup.com/jobs/95003) | 91 | San Mateo, CA | — | 2026-07-09 |
+
+## Stevens Capital Management
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Quantitative Research Analyst Internship](https://job-boards.greenhouse.io/scm/jobs/721895) | 68 | Radnor, PA | — | 2026-07-27 |
 
 ## Stoke Space
 
@@ -4759,6 +4735,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Full Stack Developer Intern (Remote Opportunity)](https://vetsez.breezy.hr/p/45cb34b38e8301-full-stack-developer-intern-remote-opportunity) | 85 | Tampa, FL | Software / Summer 2027 | 2026-07-27 |
 | [Full Stack Developer Intern (Remote Opportunity)](https://vetsez.breezy.hr/p/d18961a7a7e701-full-stack-developer-intern-remote-opportunity) | 85 | Dallas, TX | Software / Summer 2027 | 2026-07-20 |
 | [Full Stack Developer Intern](https://vetsez.breezy.hr/p/a4010fdb3a7001-full-stack-developer-intern-remote-opportunity) | 85 | Remote in US | Software Engineering | 2026-06-24 |
 
@@ -4926,6 +4903,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [AI-First Engineering Intern](https://jobs.lever.co/xsolla/5d5fd6b3-d82f-437a-b251-abf4674ac874) | 68 | Raleigh, United States | Data & ML/AI / Summer 2027 | 2026-07-27 |
 | [AI-First Engineering Intern](https://jobs.lever.co/xsolla/1c0e5375-2352-4a2c-a816-48ddebbdd3d6) | 68 | Los Angeles, United States | Data & ML/AI / Summer 2027 | 2026-07-20 |
 | [AI-First Engineer Intern](https://jobs.lever.co/xsolla/7a8f8d4c-10fc-4c64-bc9d-167ba1e367c4/apply) | 93 | LA | AI/ML/Data | 2026-07-10 |
 
