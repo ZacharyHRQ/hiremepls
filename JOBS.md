@@ -1,6 +1,6 @@
 # Open Internships
 
-**1599** internships across **79/80** companies — last updated 2026-07-27.
+**1599** internships across **79/80** companies — last updated 2026-07-28.
 
 ## Companies
 
@@ -160,6 +160,7 @@
 - [Dedalus Labs](#dedalus-labs) (1)
 - [Deepgram](#deepgram) (1)
 - [Definity Financial](#definity-financial) (3)
+- [Deloitte](#deloitte) (1)
 - [Delta Air Lines](#delta-air-lines) (1)
 - [Delta Dental](#delta-dental) (1)
 - [Democratic Governors Association](#democratic-governors-association) (1)
@@ -274,7 +275,7 @@
 - [Infojini](#infojini) (1)
 - [Instawork](#instawork) (1)
 - [Instead](#instead) (1)
-- [Institute of Foundation Models](#institute-of-foundation-models) (4)
+- [Institute of Foundation Models](#institute-of-foundation-models) (3)
 - [Integra FEC](#integra-fec) (3)
 - [Integrity](#integrity) (1)
 - [Intel](#intel) (2)
@@ -458,7 +459,6 @@
 - [Shenzhen ANQI SHISHANG Articles Co., ltd.](#shenzhen-anqi-shishang-articles-co-ltd) (1)
 - [Shopify](#shopify) (1)
 - [ShyftLabs](#shyftlabs) (2)
-- [Sila Nanotechnologies](#sila-nanotechnologies) (1)
 - [SimonComputing](#simoncomputing) (1)
 - [Simular](#simular) (2)
 - [Sixtyfour (X25)](#sixtyfour-x25) (1)
@@ -496,7 +496,7 @@
 - [Tencent](#tencent) (14)
 - [Tenstorrent](#tenstorrent) (7)
 - [Terranox AI](#terranox-ai) (1)
-- [Tesla](#tesla) (89)
+- [Tesla](#tesla) (90)
 - [TETRAMEM](#tetramem) (1)
 - [The Boeing Company](#the-boeing-company) (1)
 - [The D. E. Shaw Group](#the-d-e-shaw-group) (1)
@@ -1874,6 +1874,12 @@
 | [Reporting Specialist Co-op/Intern](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9150) | 60 | Mississauga, ON, Canada / Kitchener, ON, Canada | AI/ML/Data | 2026-06-17 |
 | [Data Analyst Co-op/Intern](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9152) | 60 | Toronto, ON, Canada | AI/ML/Data | 2026-06-17 |
 
+## Deloitte
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Consultative Offerings Intern - Government & Public Services - Cyber Analytics](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Cyber-Analytics/360259) | 60 | Arlington, VA | AI/ML/Data | 2026-07-28 |
+
 ## Delta Air Lines
 
 | Title | Score | Location | Department | First seen |
@@ -2657,7 +2663,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [AI Research Internship - WM](https://jobs.lever.co/ifm-us/3eec355c-6dde-4a3e-8cdf-b2a8930d5678) | 68 | Sunnyvale, CA | Data & ML/AI / Not stated | 2026-07-20 |
 | [Inference Optimization Intern - Performance Modeling](https://jobs.lever.co/ifm-us/1a09231e-44f2-4c82-a7a1-793bd159d68d/apply) | 68 | Sunnyvale, CA | AI/ML/Data | 2026-06-25 |
 | [AI Research Intern](https://jobs.lever.co/ifm-us/3eec355c-6dde-4a3e-8cdf-b2a8930d5678/apply) | 68 | Sunnyvale, CA | AI/ML/Data | 2026-06-13 |
 | [AIE Intern](https://jobs.lever.co/ifm-us/5342e333-61b9-406d-bfea-61a687a94d1f/apply) | 68 | Sunnyvale, CA | AI/ML/Data | 2026-05-09 |
@@ -3255,7 +3260,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Intern Program - Agentic AI](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern-Program---Agentic-AI_R22904) | 68 | Lincoln, NE | Data & ML/AI / Not stated | 2026-07-27 |
+| [Program Intern - Agentic AI](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern-Program---Agentic-AI_R22904) | 68 | Lincoln, NE | AI/ML/Data | 2026-07-28 |
 | [AI Engineer Intern](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---AI-Engineer_R22763) | 93 | Lincoln, NE | AI/ML/Data | 2026-07-01 |
 
 ## NeoCognition
@@ -3719,8 +3724,8 @@
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-07-09 |
 | [Corporate Access, off-cycle internship (6-months) – Japanese speaking](https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002) | 58 | Hong Kong | — | 2026-06-30 |
 | [Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7586061002) | 93 | NYC | Quant | 2026-05-09 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -4059,12 +4064,6 @@
 | [AI Engineer Intern](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd) | 83 | Toronto, Canada | — | 2026-07-24 |
 | [AI Engineer Intern](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd/apply) | 93 | Toronto, ON, Canada | Software | 2026-07-22 |
 
-## Sila Nanotechnologies
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Battery Simulation & Computational Scientist Intern](https://job-boards.greenhouse.io/silananotechnologies/jobs/7584168) | 93 | Alameda, CA | AI/ML/Data | 2026-05-09 |
-
 ## SimonComputing
 
 | Title | Score | Location | Department | First seen |
@@ -4363,6 +4362,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Vehicle Software Intern - Vehicle Controls](https://www.tesla.com/careers/search/job/278203) | 60 | Palo Alto, CA | AI/ML/Data | 2026-07-28 |
 | [Localization Specialist Intern](https://www.tesla.com/careers/search/job/internship-localization-specialist-it-applications-fall-2026-276308) | 50 | Fremont, CA | — | 2026-07-24 |
 | [Fullstack Engineer Intern - Fullstack Engineer - Build Infrastructure](https://www.tesla.com/careers/search/job/267005) | 85 | Palo Alto, CA | Software | 2026-07-21 |
 | [Energy Battery Firmware Intern - Software Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/276987) | 85 | Palo Alto, CA | Hardware | 2026-07-20 |
