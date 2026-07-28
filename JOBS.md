@@ -1,6 +1,6 @@
 # Open Internships
 
-**1622** internships across **142/143** companies — last updated 2026-07-28.
+**1626** internships across **142/143** companies — last updated 2026-07-28.
 
 ## Companies
 
@@ -22,7 +22,7 @@
 - [AlixPartners](#alixpartners) (1)
 - [Altasciences](#altasciences) (2)
 - [Altom Transport](#altom-transport) (2)
-- [Amazon](#amazon) (170)
+- [Amazon](#amazon) (171)
 - [Ambarella](#ambarella) (8)
 - [Amentum](#amentum) (1)
 - [American Enterprise Institute](#american-enterprise-institute) (2)
@@ -34,7 +34,7 @@
 - [Apple](#apple) (15)
 - [Applied Intuition](#applied-intuition) (3)
 - [Applied Materials](#applied-materials) (1)
-- [Apptronik](#apptronik) (1)
+- [Apptronik](#apptronik) (2)
 - [Aptiv](#aptiv) (1)
 - [AQR](#aqr) (8)
 - [AQR Capital Management](#aqr-capital-management) (1)
@@ -66,7 +66,7 @@
 - [AXQ Capital](#axq-capital) (1)
 - [BAE Systems](#bae-systems) (1)
 - [Bank of America](#bank-of-america) (1)
-- [Bank of Montreal](#bank-of-montreal) (3)
+- [Bank of Montreal](#bank-of-montreal) (2)
 - [Barclays](#barclays) (1)
 - [Barkback](#barkback) (1)
 - [Base Power](#base-power) (3)
@@ -120,7 +120,7 @@
 - [CHEP](#chep) (1)
 - [Cherry Bekaert](#cherry-bekaert) (2)
 - [Chevron Corporation](#chevron-corporation) (2)
-- [Chicago Trading Company](#chicago-trading-company) (2)
+- [Chicago Trading Company](#chicago-trading-company) (3)
 - [Ciena](#ciena) (5)
 - [Circle K](#circle-k) (1)
 - [Circleback](#circleback) (1)
@@ -132,7 +132,7 @@
 - [Clera](#clera) (1)
 - [Clerkie](#clerkie) (1)
 - [CloudFit Software](#cloudfit-software) (1)
-- [Cloudflare](#cloudflare) (11)
+- [Cloudflare](#cloudflare) (12)
 - [Cloudforce](#cloudforce) (1)
 - [CME Group](#cme-group) (1)
 - [Codeage](#codeage) (1)
@@ -226,7 +226,7 @@
 - [GE Healthcare](#ge-healthcare) (1)
 - [GE Vernova](#ge-vernova) (4)
 - [Geisinger](#geisinger) (1)
-- [Gemini](#gemini) (1)
+- [Gemini](#gemini) (2)
 - [Generac](#generac) (2)
 - [General Astronautics](#general-astronautics) (1)
 - [GenMD](#genmd) (1)
@@ -282,7 +282,6 @@
 - [Institute of Foundation Models](#institute-of-foundation-models) (3)
 - [Integra FEC](#integra-fec) (3)
 - [Integrity](#integrity) (1)
-- [Intel Corporation](#intel-corporation) (1)
 - [Intercontinental Exchange, Inc.](#intercontinental-exchange-inc) (1)
 - [Interdigital](#interdigital) (1)
 - [International Rescue Committee (IRC)](#international-rescue-committee-irc) (2)
@@ -373,7 +372,7 @@
 - [Nissan Global](#nissan-global) (1)
 - [Niural](#niural) (1)
 - [Nokia](#nokia) (1)
-- [Northrop Grumman](#northrop-grumman) (2)
+- [Northrop Grumman](#northrop-grumman) (1)
 - [Northwestern Mutual](#northwestern-mutual) (3)
 - [Notion](#notion) (6)
 - [Nuro](#nuro) (3)
@@ -433,6 +432,7 @@
 - [Ramp](#ramp) (1)
 - [Rantec Power Systems Inc.](#rantec-power-systems-inc) (1)
 - [Red Bull](#red-bull) (1)
+- [Rendezvous Robotics](#rendezvous-robotics) (1)
 - [Replit](#replit) (1)
 - [Reply](#reply) (1)
 - [RESPEC](#respec) (1)
@@ -519,6 +519,7 @@
 - [Topel Forman LLC](#topel-forman-llc) (1)
 - [Torc Robotics](#torc-robotics) (1)
 - [Toshiba Global Commerce](#toshiba-global-commerce) (5)
+- [Touchdown Labs](#touchdown-labs) (1)
 - [Tower Research](#tower-research) (1)
 - [Tower Research Capital](#tower-research-capital) (5)
 - [Toyota Research Institute](#toyota-research-institute) (2)
@@ -547,8 +548,7 @@
 - [Veralto](#veralto) (1)
 - [VetsEZ](#vetsez) (1)
 - [Viridien](#viridien) (1)
-- [Virtu](#virtu) (1)
-- [Virtu Financial](#virtu-financial) (3)
+- [Virtu Financial](#virtu-financial) (4)
 - [Vital Lyfe](#vital-lyfe) (1)
 - [VITAL LYFE](#vital-lyfe) (1)
 - [Voloridge](#voloridge) (2)
@@ -704,6 +704,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Graduate Logistik Manager - Pforzheim](https://amazon.jobs/en/jobs/3160003/graduate-logistik-manager-pforzheim) | 56 | Pforzheim | Fulfillment & Operations Management | 2026-07-28 |
 | [Marketing AI Product Specialist Intern, Channel Management, Amazon Global Selling](https://amazon.jobs/en/jobs/10485773/marketing-ai-product-specialist-intern-channel-management-amazon-global-selling) | 30 | Shanghai | Marketing & PR | 2026-07-28 |
 | [Event AI Marketing Intern, Amazon Global Selling](https://amazon.jobs/en/jobs/10485545/event-ai-marketing-intern-amazon-global-selling) | 30 | Shanghai | Marketing & PR | 2026-07-28 |
 | [Online Marketing AI Specialist Intern, Amazon Global Selling](https://amazon.jobs/en/jobs/10485562/online-marketing-ai-specialist-intern-amazon-global-selling) | 30 | Shanghai | Marketing & PR | 2026-07-28 |
@@ -974,6 +975,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern - ML Systems](https://boards.greenhouse.io/apptronik/jobs/6128057004) | 93 | Austin, TX | Software | 2026-07-28 |
 | [Software Engineer Intern - ML Systems](https://boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004) | 93 | Onsite - Austin, TX | Data & ML/AI / Not stated | 2026-07-27 |
 
 ## Aptiv
@@ -1198,7 +1200,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Data and AI Operations Analyst Intern/Co-op - Cloud - 8 months](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-07-27 |
 | [Market Risk Analyst Co-op/Intern](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Market-Risk-Analyst--Fall-2026--Co-op-Internship----4-Months_R260022055) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-07-24 |
 | [Data Scientist Co-op/Internship - Months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879) | 93 | Toronto, ON, Canada | AI/ML/Data | 2026-07-22 |
 
@@ -1590,6 +1591,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Quant Trading Intern](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005) | 68 | Chicago, IL | — | 2026-07-28 |
 | [Software Engineering Internship - Summer 2027](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005) | 68 | Chicago, Illinois, United States | Software / Summer 2027 | 2026-07-23 |
 | [Quant Trading Intern](https://job-boards.greenhouse.io/ctccampusboard/jobs/4709545005) | 68 | London, UK | Quant | 2026-07-22 |
 
@@ -1690,6 +1692,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
 | [Public Policy Intern](https://boards.greenhouse.io/cloudflare/jobs/8053437?gh_jid=8053437) | 58 | Hybrid; In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
@@ -1699,7 +1702,7 @@
 | [AI Builder Intern - Global Customer Engineering - Service Sales](https://boards.greenhouse.io/cloudflare/jobs/8044395) | 48 | London, UK | Software | 2026-07-06 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
 | [Sales Project Manager Intern (AI Innovation) (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8020830?gh_jid=8020830) | 38 | In-Office | — | 2026-06-23 |
 
 ## Cloudforce
@@ -2345,6 +2348,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineering Intern](https://job-boards.greenhouse.io/embed/job_app?for=gemini&token=7875125) | 68 | New York, NY | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7875125&gh_jid=7875125) | 93 | NYC | Software | 2026-05-09 |
 
 ## Generac
@@ -2672,8 +2676,8 @@
 | [Graduate Quantitative Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4751729101) | 74 | Chicago, United States | — | 2026-07-01 |
 | [Graduate Hardware Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4823805101) | 64 | Chicago, United States | — | 2026-07-01 |
 | [Hardware Machine Learning PhD Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, IL | AI/ML/Data | 2026-05-09 |
-| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
+| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
 
 ## InfiniteQuant
 
@@ -2720,12 +2724,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Research Intern](https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Minneapolis-MN/Research-Intern_JR4284) | 68 | Minneapolis, MN | AI/ML/Data | 2026-07-21 |
-
-## Intel Corporation
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI Software Engineering PhD Intern](https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916) | 68 | Hillsboro, OR | — | 2026-07-28 |
 
 ## Intercontinental Exchange, Inc.
 
@@ -3387,7 +3385,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [2027 Returning Intern Software Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Returning-Intern-Software-Engineer_R10242378) | 93 | United States-Florida-Melbourne | Software / Summer 2027 | 2026-07-28 |
-| [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275) | 93 | Melbourne, FL | — | 2026-07-25 |
 
 ## Northwestern Mutual
 
@@ -3774,8 +3771,8 @@
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-07-09 |
 | [Corporate Access, off-cycle internship (6-months) – Japanese speaking](https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002) | 58 | Hong Kong | — | 2026-06-30 |
 | [Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7586061002) | 93 | NYC | Quant | 2026-05-09 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -3890,6 +3887,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Data Science Intern - Data Science](https://jobs.smartrecruiters.com/RedBull/744000139168339) | 68 | Morristown, NJ | AI/ML/Data | 2026-07-23 |
+
+## Rendezvous Robotics
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineering Intern](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4328555009?gh_src=kpek4mqz9us) | 68 | Golden, CO | — | 2026-07-28 |
 
 ## Replit
 
@@ -4669,6 +4672,12 @@
 | [AI Engineer Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5192820007) | 93 | Frisco, TX | AI/ML/Data | 2026-07-27 |
 | [Project Management & AI Automation Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5190937007) | 68 | Frisco, TX | Data & ML/AI / Fall 2026 | 2026-07-27 |
 
+## Touchdown Labs
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Member of Technical Staff Intern](https://touchdown-labs.com/careers/mts-intern/?jr_id=6a68292c50dec41e3527e633) | 50 | San Francisco, CA | — | 2026-07-28 |
+
 ## Tower Research
 
 | Title | Score | Location | Department | First seen |
@@ -4849,16 +4858,11 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Crawley-United-Kingdom/Software-Engineering-Intern_JR101336-1) | 93 | Crawley, UK | Software | 2026-07-21 |
 
-## Virtu
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Quantitative Trading Intern](https://job-boards.greenhouse.io/virtu/jobs/8624408002) | 68 | Austin, TX / Chicago, IL / New York, NY | — | 2026-07-28 |
-
 ## Virtu Financial
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Quantitative Trading Intern](https://job-boards.greenhouse.io/virtu/jobs/8624408002) | 68 | Austin, TX / Chicago, IL / NYC | Quant | 2026-07-28 |
 | [Quantitative Researcher Internship](https://job-boards.greenhouse.io/virtu/jobs/8624424002) | 93 | NYC | Quant | 2026-07-23 |
 | [Software Engineer Intern - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8624410002) | 93 | Austin, TX / NYC | Software | 2026-07-23 |
 | [Quantitative Research Intern - Quant Research - Undergrad](https://job-boards.greenhouse.io/virtu/jobs/8142539002) | 68 | NYC | Quant | 2026-07-21 |
