@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-28T01:30:07.958Z",
+  "generatedAt": "2026-07-28T04:43:41.737Z",
   "companyCount": 80,
   "okCount": 79,
-  "jobCount": 1599,
+  "jobCount": 1602,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -364,7 +364,6 @@
     "canonical:31962d85f79aae5b": "2026-06-13T15:55:40.354Z",
     "canonical:0a2b62285b02a051": "2026-06-15T11:27:26.940Z",
     "canonical:aeec652ded729013": "2026-06-15T11:27:26.940Z",
-    "canonical:575f09fb283e941a": "2026-06-15T11:27:26.940Z",
     "canonical:251d68af734c14ba": "2026-06-15T11:27:26.940Z",
     "canonical:0bcde6c5e5e98b72": "2026-06-15T11:27:26.940Z",
     "canonical:155e006f06d12e77": "2026-06-15T11:27:26.940Z",
@@ -979,7 +978,6 @@
     "canonical:bb6b9f49bd862bc7": "2026-07-20T23:30:05.931Z",
     "canonical:c535ae5161baafd0": "2026-07-20T23:30:05.931Z",
     "canonical:9b9ec3d75e008073": "2026-07-20T23:30:05.931Z",
-    "canonical:10cee47f3106f07b": "2026-07-20T23:30:05.931Z",
     "canonical:18f13536ae9a202a": "2026-07-20T23:30:05.931Z",
     "canonical:2f5adda0b74dca34": "2026-07-20T23:30:05.931Z",
     "canonical:1a461a67e8dd66f7": "2026-07-20T23:30:05.931Z",
@@ -1602,7 +1600,12 @@
     "canonical:b42cdf2979b3fd03": "2026-07-27T23:54:43.222Z",
     "canonical:01a65994dfbf12e0": "2026-07-28T01:30:07.958Z",
     "canonical:44ec83c9380d959e": "2026-07-28T01:30:07.958Z",
-    "canonical:00074f14b5fec3d5": "2026-07-28T01:30:07.958Z"
+    "canonical:00074f14b5fec3d5": "2026-07-28T01:30:07.958Z",
+    "canonical:7ff33328e33da6b5": "2026-07-28T04:43:41.737Z",
+    "canonical:4f420d7160bdf5f9": "2026-07-28T04:43:41.737Z",
+    "canonical:dcc402b770a2ceef": "2026-07-28T04:43:41.737Z",
+    "canonical:3a0280cd297d1f55": "2026-07-28T04:43:41.737Z",
+    "canonical:5065505f2c2a77d4": "2026-07-28T04:43:41.737Z"
   },
   "jobs": [
     {
@@ -4043,6 +4046,90 @@
       ]
     },
     {
+      "id": "canonical:e43c1cdec7bb821b",
+      "title": "Demand Generation Rep Intern - Indonesian Market",
+      "url": "https://amazon.jobs/en/jobs/10444661/demand-generation-rep-intern-indonesian-market",
+      "location": "Jakarta",
+      "department": "Sales, Advertising, & Account Management",
+      "company": "Amazon",
+      "score": 30,
+      "scoreReasons": [
+        "lower-fit title"
+      ]
+    },
+    {
+      "id": "canonical:a55c648f64f4f4ae",
+      "title": "Demand Generation Rep Intern",
+      "url": "https://amazon.jobs/en/jobs/10380900/demand-generation-rep-intern",
+      "location": "Singapore",
+      "department": "Sales, Advertising, & Account Management",
+      "company": "Amazon",
+      "score": 30,
+      "scoreReasons": [
+        "lower-fit title"
+      ]
+    },
+    {
+      "id": "canonical:ce91d524019980bf",
+      "title": "Demand Generation Rep Intern - Vietnam Market",
+      "url": "https://amazon.jobs/en/jobs/10444660/demand-generation-rep-intern-vietnam-market",
+      "location": "Ho Chi Minh City",
+      "department": "Sales, Advertising, & Account Management",
+      "company": "Amazon",
+      "score": 30,
+      "scoreReasons": [
+        "lower-fit title"
+      ]
+    },
+    {
+      "id": "canonical:9b6122aa3ade099d",
+      "title": "Demand Generation Rep Intern - Vietnam Market",
+      "url": "https://amazon.jobs/en/jobs/3125230/demand-generation-rep-intern-vietnam-market",
+      "location": "Singapore",
+      "department": "Sales, Advertising, & Account Management",
+      "company": "Amazon",
+      "score": 30,
+      "scoreReasons": [
+        "lower-fit title"
+      ]
+    },
+    {
+      "id": "canonical:7ff33328e33da6b5",
+      "title": "Online Marketing AI Specialist Intern, Amazon Global Selling",
+      "url": "https://amazon.jobs/en/jobs/10485562/online-marketing-ai-specialist-intern-amazon-global-selling",
+      "location": "Shanghai",
+      "department": "Marketing & PR",
+      "company": "Amazon",
+      "score": 30,
+      "scoreReasons": [
+        "lower-fit title"
+      ]
+    },
+    {
+      "id": "canonical:4f420d7160bdf5f9",
+      "title": "Event AI Marketing Intern, Amazon Global Selling",
+      "url": "https://amazon.jobs/en/jobs/10485545/event-ai-marketing-intern-amazon-global-selling",
+      "location": "Shanghai",
+      "department": "Marketing & PR",
+      "company": "Amazon",
+      "score": 30,
+      "scoreReasons": [
+        "lower-fit title"
+      ]
+    },
+    {
+      "id": "canonical:dcc402b770a2ceef",
+      "title": "Sales Ops Analyst Intern - Shanghai, Amazon Global Selling",
+      "url": "https://amazon.jobs/en/jobs/10468413/sales-ops-analyst-intern-shanghai-amazon-global-selling",
+      "location": "Shanghai",
+      "department": "Sales, Advertising, & Account Management",
+      "company": "Amazon",
+      "score": 30,
+      "scoreReasons": [
+        "lower-fit title"
+      ]
+    },
+    {
       "id": "canonical:33fb22065a2a8e8e",
       "title": "Marketing AI Product Specialist Intern, Prospect End-to-End Journey, Amazon Global Selling",
       "url": "https://amazon.jobs/en/jobs/10483293/marketing-ai-product-specialist-intern-prospect-end-to-end-journey-amazon-global-selling",
@@ -4374,18 +4461,6 @@
       ]
     },
     {
-      "id": "canonical:ce91d524019980bf",
-      "title": "Demand Generation Rep Intern - Vietnam Market",
-      "url": "https://amazon.jobs/en/jobs/10444660/demand-generation-rep-intern-vietnam-market",
-      "location": "Ho Chi Minh City",
-      "department": "Sales, Advertising, & Account Management",
-      "company": "Amazon",
-      "score": 30,
-      "scoreReasons": [
-        "lower-fit title"
-      ]
-    },
-    {
       "id": "canonical:71fcbb75a25c6e17",
       "title": "Reliability, Maintenance & Engineering Intern",
       "url": "https://amazon.jobs/en/jobs/10471667/reliability-maintenance-engineering-intern",
@@ -4569,18 +4644,6 @@
       ]
     },
     {
-      "id": "canonical:a55c648f64f4f4ae",
-      "title": "Demand Generation Rep Intern",
-      "url": "https://amazon.jobs/en/jobs/10380900/demand-generation-rep-intern",
-      "location": "Singapore",
-      "department": "Sales, Advertising, & Account Management",
-      "company": "Amazon",
-      "score": 30,
-      "scoreReasons": [
-        "lower-fit title"
-      ]
-    },
-    {
       "id": "canonical:7cfcb1bfcfffee6d",
       "title": "Graduate Area Manager:in near Ulm",
       "url": "https://amazon.jobs/en/jobs/10463740/graduate-area-manager-in-near-ulm",
@@ -4693,18 +4756,6 @@
       ]
     },
     {
-      "id": "canonical:e43c1cdec7bb821b",
-      "title": "Demand Generation Rep Intern - Indonesian Market",
-      "url": "https://amazon.jobs/en/jobs/10444661/demand-generation-rep-intern-indonesian-market",
-      "location": "Jakarta",
-      "department": "Sales, Advertising, & Account Management",
-      "company": "Amazon",
-      "score": 30,
-      "scoreReasons": [
-        "lower-fit title"
-      ]
-    },
-    {
       "id": "canonical:f9e0c3f31e2698f1",
       "title": "Software Development Graduate (2027, Stores), Brisbane",
       "url": "https://amazon.jobs/en/jobs/10419485/software-development-graduate-2027-stores-brisbane",
@@ -4715,18 +4766,6 @@
       "scoreReasons": [
         "high-signal role",
         "new grad"
-      ]
-    },
-    {
-      "id": "canonical:9b6122aa3ade099d",
-      "title": "Demand Generation Rep Intern - Vietnam Market",
-      "url": "https://amazon.jobs/en/jobs/3125230/demand-generation-rep-intern-vietnam-market",
-      "location": "Singapore",
-      "department": "Sales, Advertising, & Account Management",
-      "company": "Amazon",
-      "score": 30,
-      "scoreReasons": [
-        "lower-fit title"
       ]
     },
     {
@@ -5135,16 +5174,6 @@
       "scoreReasons": [
         "high-signal role"
       ]
-    },
-    {
-      "id": "canonical:10cee47f3106f07b",
-      "title": "2026 Program Manager Intern , Prime video",
-      "url": "https://amazon.jobs/en/jobs/10435185/2026-program-manager-intern-prime-video",
-      "location": "Sydney",
-      "department": "Project/Program/Product Management--Non-Tech",
-      "company": "Amazon",
-      "score": 50,
-      "scoreReasons": []
     },
     {
       "id": "canonical:18f13536ae9a202a",
@@ -6095,7 +6124,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -6637,19 +6666,6 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:575f09fb283e941a",
-      "title": "Data Engineer Intern - Ads Data - 2026 Summer",
-      "url": "https://lifeattiktok.com/search/7584219416980818229",
-      "location": "San Jose, CA",
-      "department": "AI/ML/Data",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -15601,6 +15617,19 @@
       ]
     },
     {
+      "id": "canonical:3a0280cd297d1f55",
+      "title": "Editorial Data Reporting Intern",
+      "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "LexisNexis Risk Solutions",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:03256d9192dfcb79",
       "title": "Research Scientist Intern - Monetization Computer Vision",
       "url": "https://www.metacareers.com/jobs/2281218542616482",
@@ -18836,6 +18865,18 @@
       "location": "Arlington, VA",
       "department": "AI/ML/Data",
       "company": "Deloitte",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:5065505f2c2a77d4",
+      "title": "Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency",
+      "url": "https://lifeattiktok.com/search/7667248888103782661",
+      "location": "NYC",
+      "department": "AI/ML/Data",
+      "company": "TikTok",
       "score": 60,
       "scoreReasons": [
         "high-signal role"

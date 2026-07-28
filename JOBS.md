@@ -1,6 +1,6 @@
 # Open Internships
 
-**1599** internships across **79/80** companies — last updated 2026-07-28.
+**1602** internships across **79/80** companies — last updated 2026-07-28.
 
 ## Companies
 
@@ -22,7 +22,7 @@
 - [AlixPartners](#alixpartners) (1)
 - [Altasciences](#altasciences) (2)
 - [Altom Transport](#altom-transport) (2)
-- [Amazon](#amazon) (167)
+- [Amazon](#amazon) (169)
 - [Ambarella](#ambarella) (8)
 - [Amentum](#amentum) (1)
 - [American Enterprise Institute](#american-enterprise-institute) (2)
@@ -310,6 +310,7 @@
 - [Landis+Gyr](#landis-gyr) (1)
 - [Lawrence Livermore National Laboratory (LLNL)](#lawrence-livermore-national-laboratory-llnl) (3)
 - [Lensa](#lensa) (3)
+- [LexisNexis Risk Solutions](#lexisnexis-risk-solutions) (1)
 - [LinkedIn](#linkedin) (3)
 - [Littelfuse](#littelfuse) (1)
 - [Louisiana State University (LSU)](#louisiana-state-university-lsu) (1)
@@ -694,6 +695,9 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Event AI Marketing Intern, Amazon Global Selling](https://amazon.jobs/en/jobs/10485545/event-ai-marketing-intern-amazon-global-selling) | 30 | Shanghai | Marketing & PR | 2026-07-28 |
+| [Online Marketing AI Specialist Intern, Amazon Global Selling](https://amazon.jobs/en/jobs/10485562/online-marketing-ai-specialist-intern-amazon-global-selling) | 30 | Shanghai | Marketing & PR | 2026-07-28 |
+| [Sales Ops Analyst Intern - Shanghai, Amazon Global Selling](https://amazon.jobs/en/jobs/10468413/sales-ops-analyst-intern-shanghai-amazon-global-selling) | 30 | Shanghai | Sales, Advertising, & Account Management | 2026-07-28 |
 | [Graduate Area Manager - 2026 Start Date](https://amazon.jobs/en/jobs/3078645/graduate-area-manager-2026-start-date) | 56 | Vrskman | Fulfillment & Operations Management | 2026-07-27 |
 | [Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)](https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more) | 85 | North Reading, Massachusetts, USA | Data & ML/AI / Fall 2026 | 2026-07-27 |
 | [Robotics - Software Development Engineer Intern/Co-op - 2026](https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026) | 85 | Westboro, Massachusetts, USA | Hardware / Fall 2026 | 2026-07-27 |
@@ -818,7 +822,6 @@
 | [2026 Fall Applied Science Internship - Gen AI & Large Language Models - United States, PhD Student Science Recruiting](https://amazon.jobs/en/jobs/10394934/2026-fall-applied-science-internship-gen-ai-large-language-models-united-states-phd-student-science-recruiting) | 50 | Seattle | Applied Science | 2026-07-20 |
 | [2026 Fall Applied Science Internship - Natural Language Processing and Speech Technologies - United States, PhD Student Science Recruiting](https://amazon.jobs/en/jobs/10394268/2026-fall-applied-science-internship-natural-language-processing-and-speech-technologies-united-states-phd-student-science-recruiting) | 50 | Seattle | Applied Science | 2026-07-20 |
 | [2026 Fall Research Science Internship - United States, PhD Student Science Recruiting](https://amazon.jobs/en/jobs/10398392/2026-fall-research-science-internship-united-states-phd-student-science-recruiting) | 50 | Seattle | Research Science | 2026-07-20 |
-| [2026 Program Manager Intern , Prime video](https://amazon.jobs/en/jobs/10435185/2026-program-manager-intern-prime-video) | 50 | Sydney | Project/Program/Product Management--Non-Tech | 2026-07-20 |
 | [2026 Safety Specialist Intern, Workplace , Health & Safety](https://amazon.jobs/en/jobs/10388184/2026-safety-specialist-intern-workplace-health-safety) | 50 | Melbourne | Medical, Health, & Safety | 2026-07-20 |
 | [Applied Scientist Intern, 2026 Shenzhen](https://amazon.jobs/en/jobs/10376947/applied-scientist-intern-2026-shenzhen) | 50 | Shenzhen | Applied Science | 2026-07-20 |
 | [Applied Scientist Intern, International Technology, 2026 Beijing](https://amazon.jobs/en/jobs/3149133/applied-scientist-intern-international-technology-2026-beijing) | 50 | Beijing | Applied Science | 2026-07-20 |
@@ -846,8 +849,8 @@
 | [2027 Amazon Operations Finance Rotational Program Summer Internship](https://amazon.jobs/en/jobs/10435673/2027-amazon-operations-finance-rotational-program-summer-internship) | 30 | Seattle | Finance & Accounting | 2026-07-20 |
 | [2027 Tax Intern (Summer Internship)](https://amazon.jobs/en/jobs/10435122/2027-tax-intern-summer-internship) | 30 | Seattle | Finance & Accounting | 2026-07-20 |
 | [Demand Generation Rep Intern](https://amazon.jobs/en/jobs/10380900/demand-generation-rep-intern) | 30 | Singapore | Sales, Advertising, & Account Management | 2026-07-20 |
-| [Demand Generation Rep Intern - Indonesian Market](https://amazon.jobs/en/jobs/3125228/demand-generation-rep-intern-indonesian-market) | 30 | Singapore | Sales, Advertising, & Account Management | 2026-07-20 |
 | [Demand Generation Rep Intern - Indonesian Market](https://amazon.jobs/en/jobs/10444661/demand-generation-rep-intern-indonesian-market) | 30 | Jakarta | Sales, Advertising, & Account Management | 2026-07-20 |
+| [Demand Generation Rep Intern - Indonesian Market](https://amazon.jobs/en/jobs/3125228/demand-generation-rep-intern-indonesian-market) | 30 | Singapore | Sales, Advertising, & Account Management | 2026-07-20 |
 | [Demand Generation Rep Intern - Philippines market](https://amazon.jobs/en/jobs/3125227/demand-generation-rep-intern-philippines-market) | 30 | Singapore | Sales, Advertising, & Account Management | 2026-07-20 |
 | [Demand Generation Rep Intern - Vietnam Market](https://amazon.jobs/en/jobs/10444660/demand-generation-rep-intern-vietnam-market) | 30 | Ho Chi Minh City | Sales, Advertising, & Account Management | 2026-07-20 |
 | [Demand Generation Rep Intern - Vietnam Market](https://amazon.jobs/en/jobs/3125230/demand-generation-rep-intern-vietnam-market) | 30 | Singapore | Sales, Advertising, & Account Management | 2026-07-20 |
@@ -1673,7 +1676,7 @@
 | [Technical Support Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8041135?gh_jid=8041135) | 58 | In-Office | — | 2026-07-03 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
 | [Sales Project Manager Intern (AI Innovation) (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8020830?gh_jid=8020830) | 38 | In-Office | — | 2026-06-23 |
 
 ## Cloudforce
@@ -2943,6 +2946,12 @@
 | [2026 Summer Internship Program - AMERS](https://www.linkedin.com/jobs/view/4257402148) | 42 | San Francisco, CA | — | 2026-07-09 |
 | [2026 Summer Internship Program - Investment Banking](https://www.linkedin.com/jobs/view/4257296455) | 42 | Baltimore, MD | — | 2026-07-09 |
 | [Accounting Internship Summer 2026](https://lensa.com/job-application-accounting-internship-summer-2026-in-wayne-pa/cpc-jd-v3/bdd3c15c3b73ec0e9b7e0b5b4cbefe35453222188f523f433d39e72a3abd4740?tr=b4a83a7f255547c9982fd106a9550d5aincc1&utm_source=linkedin&utm_medium=slot&utm_campaign=Financial+Specialists&utm_term=jse) | 22 | Wayne, PA | — | 2026-07-09 |
+
+## LexisNexis Risk Solutions
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Editorial Data Reporting Intern](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1) | 68 | Remote in USA | AI/ML/Data | 2026-07-28 |
 
 ## LinkedIn
 
@@ -4514,6 +4523,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency](https://lifeattiktok.com/search/7667248888103782661) | 60 | NYC | AI/ML/Data | 2026-07-28 |
 | [Research Scientist Intern - Nextgen LLM](https://lifeattiktok.com/search/7633668061979543813) | 85 | San Jose, CA | AI/ML/Data | 2026-07-25 |
 | [Data Scientist Intern - Tiktok Integrity and Safety - 2026 Summer](https://lifeattiktok.com/search/7610543185362372917) | 85 | San Jose, CA | AI/ML/Data | 2026-07-22 |
 | [Product Manager Intern - Tiktok-Product-Search](https://lifeattiktok.com/search/7663349357178620165) | 50 | San Jose, CA | Product | 2026-07-22 |
@@ -4533,7 +4543,6 @@
 | [Machine Learning Engineer Intern - Trust and Safety - CV/NLP/Multimodal LLM](https://lifeattiktok.com/search/7527589557336869138) | 85 | San Jose, CA | AI/ML/Data | 2026-06-28 |
 | [Machine Learning Engineer Intern - Tiktok-Recommendation](https://lifeattiktok.com/search/7527065936093858055) | 85 | San Jose, CA | AI/ML/Data | 2026-06-28 |
 | [Backend Software Engineer Intern - Media Platform](https://lifeattiktok.com/search/7538301580093720840) | 85 | San Jose, CA | Software | 2026-06-15 |
-| [Data Engineer Intern - Ads Data - 2026 Summer](https://lifeattiktok.com/search/7584219416980818229) | 85 | San Jose, CA | AI/ML/Data | 2026-06-15 |
 | [Data Scientist Intern - TikTok Shop User Product DS](https://lifeattiktok.com/search/7532254890627696903) | 85 | Seattle, WA | AI/ML/Data | 2026-06-15 |
 | [Frontend Engineer Intern - Ads Interface and Platform](https://lifeattiktok.com/search/7595344466313529653) | 85 | San Jose, CA | Software | 2026-06-15 |
 | [General Hire – Software Engineer Intern](https://lifeattiktok.com/search/7592368550477465909) | 85 | San Jose, CA | Software | 2026-06-15 |
