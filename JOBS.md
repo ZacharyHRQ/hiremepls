@@ -1,6 +1,6 @@
 # Open Internships
 
-**1617** internships across **142/143** companies — last updated 2026-07-28.
+**1630** internships across **142/143** companies — last updated 2026-07-28.
 
 ## Companies
 
@@ -31,7 +31,7 @@
 - [Anthelion Capital](#anthelion-capital) (2)
 - [Apex Technology, Inc.](#apex-technology-inc) (1)
 - [Appian](#appian) (4)
-- [Apple](#apple) (15)
+- [Apple](#apple) (17)
 - [Applied Intuition](#applied-intuition) (3)
 - [Applied Materials](#applied-materials) (1)
 - [Apptronik](#apptronik) (2)
@@ -68,7 +68,7 @@
 - [AXQ Capital](#axq-capital) (1)
 - [BAE Systems](#bae-systems) (1)
 - [Bank of America](#bank-of-america) (1)
-- [Bank of Montreal](#bank-of-montreal) (2)
+- [Bank of Montreal](#bank-of-montreal) (3)
 - [Barclays](#barclays) (1)
 - [Barkback](#barkback) (1)
 - [Base Power](#base-power) (3)
@@ -134,7 +134,7 @@
 - [Clera](#clera) (1)
 - [Clerkie](#clerkie) (1)
 - [CloudFit Software](#cloudfit-software) (1)
-- [Cloudflare](#cloudflare) (10)
+- [Cloudflare](#cloudflare) (11)
 - [Cloudforce](#cloudforce) (1)
 - [CME Group](#cme-group) (1)
 - [Codeage](#codeage) (1)
@@ -210,7 +210,9 @@
 - [Fab2](#fab2) (5)
 - [Faire](#faire) (1)
 - [Fanatics](#fanatics) (3)
+- [Field AI](#field-ai) (1)
 - [Figure](#figure) (3)
+- [First Bank & Trust](#first-bank-trust) (1)
 - [First Quality](#first-quality) (1)
 - [Fiserv](#fiserv) (2)
 - [Five Rings](#five-rings) (1)
@@ -221,6 +223,7 @@
 - [Forvis Mazars US](#forvis-mazars-us) (1)
 - [Four Hands](#four-hands) (1)
 - [Frontier Health](#frontier-health) (1)
+- [FTI Consulting](#fti-consulting) (2)
 - [Fundwell](#fundwell) (1)
 - [Fussball Club Cincinnati LLC (“FC Cincinnati”)](#fussball-club-cincinnati-llc-fc-cincinnati) (1)
 - [G-Research](#g-research) (4)
@@ -306,6 +309,7 @@
 - [KLA](#kla) (1)
 - [KLA Corporation](#kla-corporation) (1)
 - [Kodak](#kodak) (1)
+- [Kognitos](#kognitos) (1)
 - [kos.ai](#kos-ai) (1)
 - [KPH Healthcare Services](#kph-healthcare-services) (1)
 - [KRAFTON](#krafton) (1)
@@ -344,7 +348,7 @@
 - [Mindsmith](#mindsmith) (1)
 - [Mistral AI](#mistral-ai) (2)
 - [Mobius Renewables](#mobius-renewables) (1)
-- [Modal](#modal) (1)
+- [Modal](#modal) (2)
 - [Monogram](#monogram) (1)
 - [Monolithic Power Systems](#monolithic-power-systems) (1)
 - [Moog ](#moog) (2)
@@ -450,7 +454,7 @@
 - [RoboForce](#roboforce) (1)
 - [Rockwell Automation](#rockwell-automation) (1)
 - [ROCKWOOL Group](#rockwool-group) (1)
-- [Royal Bank of Canada](#royal-bank-of-canada) (3)
+- [Royal Bank of Canada](#royal-bank-of-canada) (4)
 - [RTX](#rtx) (1)
 - [Samaya](#samaya) (1)
 - [Samsung Research America](#samsung-research-america) (1)
@@ -576,7 +580,9 @@
 - [X Development](#x-development) (2)
 - [XPENG Motors](#xpeng-motors) (2)
 - [Xsolla](#xsolla) (5)
+- [XTX Markets](#xtx-markets) (1)
 - [Zipline](#zipline) (4)
+- [Zurich Insurance](#zurich-insurance) (1)
 - [Zuru](#zuru) (1)
 
 ##  CCC Intelligent Solutions
@@ -942,6 +948,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Applied Data Solutions Program Intern](https://jobs.apple.com/en-us/details/200673612) | 60 | Austin, TX | AI/ML/Data | 2026-07-28 |
+| [Early Career CAD Tools Optimisation Engineer Intern - Design Verification](https://jobs.apple.com/en-us/details/200650800) | 50 | Cambridge, MA | Hardware | 2026-07-28 |
 | [Hardware Systems Engineering Intern](https://jobs.apple.com/en-us/details/200647863) | 50 | Austin, TX | Hardware | 2026-07-20 |
 | [Software Engineer Intern, Undergrad](https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships) | 85 | United States | — | 2026-07-09 |
 | [Machine Learning Intern](https://www.apple.com) | 60 | San Francisco, CA | — | 2026-07-09 |
@@ -1213,6 +1221,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data and AI Operations Analyst Co-op/Internship - Cloud](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724-2) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-07-28 |
 | [Market Risk Analyst Co-op/Intern](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Market-Risk-Analyst--Fall-2026--Co-op-Internship----4-Months_R260022055) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-07-24 |
 | [Data Scientist Co-op/Internship - Months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879) | 93 | Toronto, ON, Canada | AI/ML/Data | 2026-07-22 |
 
@@ -1704,6 +1713,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
 | [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
 | [Public Policy Intern](https://boards.greenhouse.io/cloudflare/jobs/8053437?gh_jid=8053437) | 58 | Hybrid; In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
@@ -2237,6 +2247,12 @@
 | [Collectibles Intern - Product - Physical Trading Cards](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26720) | 60 | NYC | Quant | 2026-05-09 |
 | [Collectibles Intern - Product - Physical Trading Cards](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27190) | 60 | Coppell, TX | Quant | 2026-05-09 |
 
+## Field AI
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Robotics Controls Intern - Robot Control Systems](https://jobs.lever.co/field-ai/8a3b5d4b-f88f-4704-bfdd-74e8dcd30704/apply) | 68 | Irvine, CA | AI/ML/Data | 2026-07-28 |
+
 ## Figure
 
 | Title | Score | Location | Department | First seen |
@@ -2244,6 +2260,12 @@
 | [Hardware Reliability Intern](https://job-boards.greenhouse.io/figureai/jobs/4613067006) | 58 | San Jose, CA | Hardware | 2026-07-13 |
 | [Special Projects Intern](https://job-boards.greenhouse.io/figureai/jobs/4694889006) | 68 | San Jose, CA | AI/ML/Data | 2026-07-07 |
 | [Firmware Intern](https://job-boards.greenhouse.io/figureai/jobs/4691070006) | 58 | San Jose, CA | Hardware | 2026-06-23 |
+
+## First Bank & Trust
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [SharePoint/Power Platform Intern - SharePoint - Power Platform](https://bankeasy.wd5.myworkdayjobs.com/bank-easy-job-openings/job/Brookings-SD-East/SharePoint-Power-Platform-Intern_R-100780) | 68 | Brookings, SD | Software | 2026-07-28 |
 
 ## First Quality
 
@@ -2305,6 +2327,13 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Applied Scientist / Research Engineer Intern](https://jobs.ashbyhq.com/frontier-health/0ff47d07-91b5-4456-9ecf-8438239b00ef/application?embed=true) | 93 | London, UK | AI/ML/Data | 2026-07-21 |
+
+## FTI Consulting
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Technology Intern](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/United-States/XMLNAME-2027-Intern---Technology_JR260339-1) | 68 | Houston, TX / Washington, DC / SF / LA / Chicago, IL / NYC / Atlanta, GA | AI/ML/Data | 2026-07-28 |
+| [Technology Intern - Technology](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareersPrivate/job/United-States/XMLNAME-2027-Intern---Technology_JR260339) | 68 | Houston, TX / Washington, DC / SF / LA / Chicago, IL / NYC / Atlanta, GA | AI/ML/Data | 2026-07-28 |
 
 ## Fundwell
 
@@ -2932,6 +2961,12 @@
 | --- | --- | --- | --- | --- |
 | [Marketing Analytics Intern](https://careers.kodak.com/job/USA-Marketing-Analytics-Intern-CA/1412894200/?ats=successfactors) | 40 | Remote in USA | AI/ML/Data | 2026-07-27 |
 
+## Kognitos
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Forward Deployed Engineer Intern](https://jobs.ashbyhq.com/Kognitos/a4bc3ebf-b619-4c1b-9c9e-784d16c8b148/application?embed=true) | 93 | Mountain View, CA | Software | 2026-07-28 |
+
 ## kos.ai
 
 | Title | Score | Location | Department | First seen |
@@ -3195,7 +3230,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [ML Research Intern](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a) | 65 | — | Engineering | 2026-07-28 |
+| [Machine Learning Research Intern](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a/application?embed=true) | 68 | SF / NYC | AI/ML/Data | 2026-07-28 |
+| [ML Research Intern](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a) | 68 | New York | Data & ML/AI / Not stated | 2026-07-28 |
 
 ## Monogram
 
@@ -4014,6 +4050,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Business Markets Relationship Manager Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/BATHURST-New-Brunswick-Canada/Relationship-Manager-Business-Markets--Intern_R-0000182302) | 68 | Bathurst, NB, Canada | Quant | 2026-07-28 |
 | [Relationship Manager Commercial Markets Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CHARLOTTETOWN-Prince-Edward-Island-Canada/Relationship-Manager-Commercial-Markets-ntern-CFS_R-0000181764-1) | 68 | Charlottetown, PE, Canada | Quant | 2026-07-23 |
 | [Relationship Manager Commercial Markets Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CAPE-BRETON-Nova-Scotia-Canada/Relationship-Manager-Commercial-Markets--Intern_R-0000181768) | 68 | Inverness, NS, Canada | Quant | 2026-07-23 |
 | [Relationship Manager Commercial Markets Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/GRAND-FALLS-New-Brunswick-Canada/Relationship-Manager-Commercial-Markets-Intern_R-0000178547) | 68 | Madawaska County, NB, Canada | Quant | 2026-07-22 |
@@ -4054,7 +4091,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [ASPIRE Software Developer Undergraduate Intern](https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2164) | 85 | Aiken, SC, United States | Software / Not stated | 2026-07-28 |
+| [Software Developer Undergraduate Intern](https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2164) | 85 | North Augusta, SC | Software | 2026-07-28 |
 
 ## Scale AI
 
@@ -4426,6 +4463,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Charging Data Modeling Intern - Charging Data Modeling - Machine Learning Engineer](https://www.tesla.com/careers/search/job/278249) | 85 | Palo Alto, CA | AI/ML/Data | 2026-07-28 |
 | [Vehicle Software Intern - Vehicle Controls](https://www.tesla.com/careers/search/job/278203) | 60 | Palo Alto, CA | AI/ML/Data | 2026-07-28 |
 | [Localization Specialist Intern](https://www.tesla.com/careers/search/job/internship-localization-specialist-it-applications-fall-2026-276308) | 50 | Fremont, CA | — | 2026-07-24 |
 | [Fullstack Engineer Intern - Fullstack Engineer - Build Infrastructure](https://www.tesla.com/careers/search/job/267005) | 85 | Palo Alto, CA | Software | 2026-07-21 |
@@ -4487,7 +4525,6 @@
 | [Software Integration Engineer Intern - Software Integration Engineer - Optimus](https://www.tesla.com/careers/search/job/269809) | 85 | Palo Alto, CA | Hardware | 2026-06-07 |
 | [AI Hardware Design Engineer Intern - AI Hardware Design Engineer - AI Hardware](https://www.tesla.com/careers/search/job/272462) | 75 | Palo Alto, CA / Austin, TX | Hardware | 2026-06-07 |
 | [Applied AI Engineer Intern - AI Hardware](https://www.tesla.com/careers/search/job/262946) | 75 | Palo Alto, CA | Hardware | 2026-06-07 |
-| [Electronic Design Engineer Internship - Electronic Design Engineer - Electronic Systems](https://www.tesla.com/careers/search/job/267750) | 75 | Palo Alto, CA | Hardware | 2026-06-07 |
 | [Machine Learning Platform Intern - Multiple Teams](https://www.tesla.com/careers/search/job/269812) | 60 | Palo Alto, CA | Software | 2026-06-07 |
 | [Software Engineer Intern - Site Controller Software Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/272615) | 60 | Palo Alto, CA | Software | 2026-06-07 |
 | [Sensor Hardware Engineer Intern - Sensor Hardware Design Engineer - Optimus](https://www.tesla.com/careers/search/job/272581) | 50 | Palo Alto, CA | Hardware | 2026-06-07 |
@@ -5051,6 +5088,12 @@
 | [AI-First Engineering Intern](https://jobs.lever.co/xsolla/5d5fd6b3-d82f-437a-b251-abf4674ac874) | 68 | Raleigh, United States | Data & ML/AI / Not stated | 2026-07-27 |
 | [AI-First Engineering Intern](https://jobs.lever.co/xsolla/1c0e5375-2352-4a2c-a816-48ddebbdd3d6) | 68 | Los Angeles, United States | Data & ML/AI / Not stated | 2026-07-20 |
 
+## XTX Markets
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Philanthropy Intern](https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/7819416003) | 68 | London, UK | AI/ML/Data | 2026-07-28 |
+
 ## Zipline
 
 | Title | Score | Location | Department | First seen |
@@ -5059,6 +5102,12 @@
 | [Enterprise Systems Software Engineer Intern](https://www.zipline.com/careers?gh_jid=7767667003#open-roles) | 85 | San Bruno, CA | Software | 2026-07-21 |
 | [Perception Intern](https://www.zipline.com/careers?gh_jid=7761650003#open-roles) | 60 | Dallas, TX / San Bruno, CA | AI/ML/Data | 2026-07-21 |
 | [Maps Intern](https://www.zipline.com/open-roles?gh_jid=7787868003) | 60 | San Bruno, CA | AI/ML/Data | 2026-07-21 |
+
+## Zurich Insurance
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data Analytics & AI Internship/Co-op - Data Analytics & AI](https://www.careers.zurich.com/job/Toronto-Fall-2026-InternshipCo-op-Data-Analytics-&-AI-ON/1367953057/?ats=successfactors) | 60 | Toronto, ON, Canada | AI/ML/Data | 2026-07-28 |
 
 ## Zuru
 
