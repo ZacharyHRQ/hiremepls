@@ -1,6 +1,6 @@
 # Open Internships
 
-**1626** internships across **142/143** companies — last updated 2026-07-28.
+**1624** internships across **142/143** companies — last updated 2026-07-28.
 
 ## Companies
 
@@ -80,7 +80,7 @@
 - [Bio-Techne](#bio-techne) (1)
 - [Black Box](#black-box) (2)
 - [BlackEdge Capital](#blackedge-capital) (2)
-- [BlackRock](#blackrock) (2)
+- [BlackRock](#blackrock) (1)
 - [Blackstone](#blackstone) (2)
 - [BlinqLABS](#blinqlabs) (1)
 - [Block](#block) (2)
@@ -227,7 +227,7 @@
 - [GE Vernova](#ge-vernova) (4)
 - [Geisinger](#geisinger) (1)
 - [Gemini](#gemini) (2)
-- [Generac](#generac) (2)
+- [Generac](#generac) (1)
 - [General Astronautics](#general-astronautics) (1)
 - [GenMD](#genmd) (1)
 - [Gensyn](#gensyn) (1)
@@ -367,6 +367,7 @@
 - [Neuralink](#neuralink) (4)
 - [NewsBreak](#newsbreak) (1)
 - [Nextiva](#nextiva) (1)
+- [Nightwing](#nightwing) (1)
 - [Nightwing Intelligence Solutions](#nightwing-intelligence-solutions) (2)
 - [Nio](#nio) (2)
 - [Nissan Global](#nissan-global) (1)
@@ -415,7 +416,7 @@
 - [Pine Rest](#pine-rest) (1)
 - [Pinterest](#pinterest) (2)
 - [PlusAI](#plusai) (13)
-- [Point72](#point72) (20)
+- [Point72](#point72) (19)
 - [pony.ai](#pony-ai) (2)
 - [Pony.ai](#pony-ai) (2)
 - [Poshmark](#poshmark) (1)
@@ -1291,7 +1292,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Global Product Intern](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/New-York-NY/XMLNAME-2027-Global-Product-Intern-New-York_R265170) | 58 | NYC | Product | 2026-07-21 |
 | [Global Product Intern](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/XMLNAME-2027-Global-Product-Intern-Non-New-York_R265169) | 58 | Wilmington, DE | Product | 2026-07-20 |
 
 ## Blackstone
@@ -2355,7 +2355,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Toronto-Canada/Sofware-Engineer---Intern_JR14371) | 93 | Toronto, ON, Canada | Software | 2026-07-22 |
 | [Lab Technician Intern](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Santa-Monica-CA----USA/Lab-Technician-Intern_JR14695) | 58 | Santa Monica, CA | Hardware | 2026-07-21 |
 
 ## General Astronautics
@@ -3348,6 +3347,12 @@
 | --- | --- | --- | --- | --- |
 | [Forward Deployed Engineer Intern - AI Implementation](https://www.nextiva.com/company/careers-listing?gh_jid=8639480002) | 85 | Scottsdale, AZ | Software | 2026-07-24 |
 
+## Nightwing
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software / Hardware Engineering Intern](https://nwis.wd12.myworkdayjobs.com/en-US/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733) | 68 | Annapolis Junction, MD | — | 2026-07-28 |
+
 ## Nightwing Intelligence Solutions
 
 | Title | Score | Location | Department | First seen |
@@ -3770,7 +3775,6 @@
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-07-09 |
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-07-09 |
 | [Corporate Access, off-cycle internship (6-months) – Japanese speaking](https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002) | 58 | Hong Kong | — | 2026-06-30 |
-| [Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7586061002) | 93 | NYC | Quant | 2026-05-09 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |

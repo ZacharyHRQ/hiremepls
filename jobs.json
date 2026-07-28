@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-28T16:21:38.267Z",
+  "generatedAt": "2026-07-28T17:48:54.176Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1626,
+  "jobCount": 1624,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -26,7 +26,6 @@
     "canonical:6a8c381d419eba3a": "2026-05-06T06:42:07.596Z",
     "canonical:25a35a8868c43e61": "2026-05-06T06:42:07.596Z",
     "canonical:d277a6a426412a6c": "2026-05-06T06:42:07.596Z",
-    "canonical:42b1cca7e9a74503": "2026-05-09T15:28:15.527Z",
     "canonical:d89aa26a2f283d5f": "2026-05-09T15:28:15.527Z",
     "canonical:d10803c270fcc583": "2026-05-09T15:28:15.527Z",
     "canonical:421608d6fc539581": "2026-05-09T15:28:15.527Z",
@@ -1297,7 +1296,6 @@
     "canonical:cb8d735868564283": "2026-07-21T19:02:41.322Z",
     "canonical:590a103b29130a4c": "2026-07-21T19:02:41.322Z",
     "canonical:449b39e3baa7b17a": "2026-07-21T20:33:07.988Z",
-    "canonical:18c1469bc3267e0b": "2026-07-21T20:33:07.988Z",
     "canonical:25170466c178dd22": "2026-07-21T20:33:07.988Z",
     "canonical:c070e919f5ea6bac": "2026-07-21T20:33:07.988Z",
     "canonical:0f5324e2e79ce224": "2026-07-21T20:33:07.988Z",
@@ -1343,7 +1341,6 @@
     "canonical:cb6ec0e16b9f5a51": "2026-07-22T04:30:46.300Z",
     "canonical:81c0f29f101f3da7": "2026-07-22T04:30:46.300Z",
     "canonical:677f4180981519f2": "2026-07-22T04:30:46.300Z",
-    "canonical:a34f29c6a5b4839a": "2026-07-22T04:30:46.300Z",
     "canonical:1cbe3709bfdebf2d": "2026-07-22T04:30:46.300Z",
     "canonical:09230a2dbad3916e": "2026-07-22T04:30:46.300Z",
     "canonical:a330b21960c70185": "2026-07-22T04:30:46.300Z",
@@ -1629,7 +1626,8 @@
     "canonical:e988a18585048ebe": "2026-07-28T16:21:38.267Z",
     "canonical:460cae12873e15d4": "2026-07-28T16:21:38.267Z",
     "canonical:38067b315ddd4856": "2026-07-28T16:21:38.267Z",
-    "canonical:ee163e214703918f": "2026-07-28T16:21:38.267Z"
+    "canonical:ee163e214703918f": "2026-07-28T16:21:38.267Z",
+    "canonical:cf3329319dcf05b8": "2026-07-28T17:48:54.176Z"
   },
   "jobs": [
     {
@@ -2410,11 +2408,11 @@
       ]
     },
     {
-      "id": "canonical:d40e55f9a26db473",
+      "id": "canonical:9e95e04411aed5dd",
       "title": "Quantitative Trading Analyst Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957243",
-      "location": "London, UK",
-      "department": "Quant",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7668776",
+      "location": "Chicago, Illinois",
+      "department": "",
       "company": "DRW",
       "score": 68,
       "scoreReasons": [
@@ -2423,11 +2421,11 @@
       ]
     },
     {
-      "id": "canonical:9e95e04411aed5dd",
+      "id": "canonical:d40e55f9a26db473",
       "title": "Quantitative Trading Analyst Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7668776",
-      "location": "Chicago, Illinois",
-      "department": "",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957243",
+      "location": "London, UK",
+      "department": "Quant",
       "company": "DRW",
       "score": 68,
       "scoreReasons": [
@@ -2449,11 +2447,11 @@
       ]
     },
     {
-      "id": "canonical:bd72b8a6944f6777",
+      "id": "canonical:f9963438d881a851",
       "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
-      "location": "London, UK",
-      "department": "Software",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
+      "location": "Amsterdam",
+      "department": "",
       "company": "DRW",
       "score": 93,
       "scoreReasons": [
@@ -2463,10 +2461,10 @@
       ]
     },
     {
-      "id": "canonical:81000bcd395c1244",
+      "id": "canonical:bd72b8a6944f6777",
       "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
-      "location": "Montreal, QC, Canada",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
+      "location": "London, UK",
       "department": "Software",
       "company": "DRW",
       "score": 93,
@@ -2491,11 +2489,11 @@
       ]
     },
     {
-      "id": "canonical:f9963438d881a851",
+      "id": "canonical:81000bcd395c1244",
       "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
-      "location": "Amsterdam",
-      "department": "",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
+      "location": "Montreal, QC, Canada",
+      "department": "Software",
       "company": "DRW",
       "score": 93,
       "scoreReasons": [
@@ -6673,20 +6671,6 @@
       "company": "Chainguard",
       "score": 58,
       "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:42b1cca7e9a74503",
-      "title": "Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7586061002",
-      "location": "NYC",
-      "department": "Quant",
-      "company": "Point72",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
         "direct ATS"
       ]
     },
@@ -16475,18 +16459,6 @@
       ]
     },
     {
-      "id": "canonical:18c1469bc3267e0b",
-      "title": "Global Product Intern",
-      "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/New-York-NY/XMLNAME-2027-Global-Product-Intern-New-York_R265170",
-      "location": "NYC",
-      "department": "Product",
-      "company": "BlackRock",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:f524071f1a30aa1c",
       "title": "Quantitative Research Intern",
       "url": "https://careers-sig.icims.com/jobs/11007/job?mobile=true&needsRedirect=false",
@@ -17970,20 +17942,6 @@
       "company": "Chicago Trading Company",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:a34f29c6a5b4839a",
-      "title": "Software Engineer Intern",
-      "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Toronto-Canada/Sofware-Engineer---Intern_JR14371",
-      "location": "Toronto, ON, Canada",
-      "department": "Software",
-      "company": "Generac",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -21262,6 +21220,19 @@
       "location": "Golden, CO",
       "department": "",
       "company": "Rendezvous Robotics",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:cf3329319dcf05b8",
+      "title": "Software / Hardware Engineering Intern",
+      "url": "https://nwis.wd12.myworkdayjobs.com/en-US/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733",
+      "location": "Annapolis Junction, MD",
+      "department": "",
+      "company": "Nightwing",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
