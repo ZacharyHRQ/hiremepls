@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-28T20:33:11.283Z",
+  "generatedAt": "2026-07-28T21:44:54.334Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1622,
+  "jobCount": 1617,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -264,7 +264,6 @@
     "canonical:57d1ee7ccdd064d5": "2026-06-03T10:04:55.299Z",
     "canonical:1c9d411b67164726": "2026-06-03T10:04:55.299Z",
     "canonical:3dc165a7fa56ca58": "2026-06-03T10:04:55.299Z",
-    "canonical:b3a0b3bc244cb3ec": "2026-06-03T10:04:55.299Z",
     "canonical:92e4412f3bb06802": "2026-06-03T10:04:55.299Z",
     "canonical:ff3c995308534fb2": "2026-06-03T10:04:55.299Z",
     "canonical:2f23ff51dce45508": "2026-06-03T10:04:55.299Z",
@@ -297,10 +296,8 @@
     "canonical:2b95c48ea9f5b253": "2026-06-06T14:14:20.078Z",
     "canonical:808521aedb31fb4f": "2026-06-06T15:40:28.831Z",
     "canonical:7ab57e97fb879c0f": "2026-06-06T15:40:28.831Z",
-    "canonical:9787b6e04120138f": "2026-06-06T15:40:28.831Z",
     "canonical:85735fa4cd042164": "2026-06-06T17:59:37.822Z",
     "canonical:7906b1bff6dfef42": "2026-06-07T01:56:06.706Z",
-    "canonical:07027ad19a5352fe": "2026-06-07T01:56:06.706Z",
     "canonical:9de45eedb1335ef6": "2026-06-07T01:56:06.706Z",
     "canonical:186d139d517116a9": "2026-06-07T01:56:06.706Z",
     "canonical:0dd89319a7c4740f": "2026-06-07T01:56:06.706Z",
@@ -556,7 +553,6 @@
     "canonical:e6967e910537de21": "2026-07-07T23:26:57.673Z",
     "canonical:71c04954bfd630da": "2026-07-08T16:49:50.978Z",
     "canonical:6ea6c17f49efe765": "2026-07-08T16:49:50.978Z",
-    "canonical:e1a5f05e6336ffe6": "2026-07-08T20:56:03.047Z",
     "canonical:ad09295d2e80859c": "2026-07-08T21:59:46.351Z",
     "canonical:560117e6223bbc44": "2026-07-08T21:59:46.351Z",
     "canonical:9750bf54b300cf9e": "2026-07-08T21:59:46.351Z",
@@ -1035,7 +1031,6 @@
     "canonical:9a232892cccae7f7": "2026-07-20T23:30:05.931Z",
     "canonical:26035e0e18b50360": "2026-07-20T23:30:05.931Z",
     "canonical:4325fb8e7b267a59": "2026-07-20T23:30:05.931Z",
-    "canonical:da6219705c64207d": "2026-07-20T23:30:05.931Z",
     "canonical:3c4bc3e534b204ec": "2026-07-20T23:30:05.931Z",
     "canonical:48e1ab77cc12a4fa": "2026-07-20T23:30:05.931Z",
     "canonical:09ef1d88b0b3ede4": "2026-07-20T23:30:05.931Z",
@@ -5956,18 +5951,6 @@
       ]
     },
     {
-      "id": "canonical:c4899e61c3f2d9c6",
-      "title": "Applied Research Intern Co-op",
-      "url": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Block",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:0942563fedd29433",
       "title": "Applied Research Intern PhD / Graduate Co-op",
       "url": "http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008",
@@ -5978,6 +5961,18 @@
       "scoreReasons": [
         "high-signal role",
         "new grad"
+      ]
+    },
+    {
+      "id": "canonical:c4899e61c3f2d9c6",
+      "title": "Applied Research Intern Co-op",
+      "url": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
+      "location": "Toronto, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "Block",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
       ]
     },
     {
@@ -6359,19 +6354,6 @@
       ]
     },
     {
-      "id": "canonical:e1a5f05e6336ffe6",
-      "title": "AI Transformation Intern – Global Customer Engineering, Service Sales (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395",
-      "location": "In-Office",
-      "department": "",
-      "company": "Cloudflare",
-      "score": 38,
-      "scoreReasons": [
-        "direct ATS",
-        "lower-fit title"
-      ]
-    },
-    {
       "id": "canonical:bd73a2ff32a0ca98",
       "title": "Brand Social Media Intern (Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8054093?gh_jid=8054093",
@@ -6669,20 +6651,6 @@
       "company": "Chainguard",
       "score": 58,
       "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:da6219705c64207d",
-      "title": "Software Engineer Intern - BCI Applications",
-      "url": "https://boards.greenhouse.io/neuralink/jobs/6594422003",
-      "location": "Fremont, CA",
-      "department": "Software",
-      "company": "Neuralink",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
         "direct ATS"
       ]
     },
@@ -11543,19 +11511,6 @@
       ]
     },
     {
-      "id": "canonical:b3a0b3bc244cb3ec",
-      "title": "Software Engineer Intern - Applied Machine Learning-Enterprise",
-      "url": "https://jobs.bytedance.com/en/position/7533045355162044690/detail",
-      "location": "San Jose, CA",
-      "department": "AI/ML/Data",
-      "company": "ByteDance",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:92e4412f3bb06802",
       "title": "Research Intern - SDN Traffic Intelligence & Control",
       "url": "https://jobs.bytedance.com/en/position/7537161874254776583/detail",
@@ -11890,16 +11845,6 @@
       ]
     },
     {
-      "id": "canonical:9787b6e04120138f",
-      "title": "Failure Analysis Engineer Intern - Failure Analysis Engineer - Energy Engineering",
-      "url": "https://www.tesla.com/careers/search/job/271544",
-      "location": "Palo Alto, CA",
-      "department": "Hardware",
-      "company": "Tesla",
-      "score": 50,
-      "scoreReasons": []
-    },
-    {
       "id": "canonical:85735fa4cd042164",
       "title": "Solar Hardware Engineer Intern - Solar Hardware Engineer - Energy Engineering",
       "url": "https://www.tesla.com/careers/search/job/271539",
@@ -11914,19 +11859,6 @@
       "title": "Software Engineer Intern - Software Engineer - Information Security",
       "url": "https://www.tesla.com/careers/search/job/270497",
       "location": "Bellevue, WA",
-      "department": "Software",
-      "company": "Tesla",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:07027ad19a5352fe",
-      "title": "Software Engineer Intern - Software Engineer Opticaster - Energy Engineering",
-      "url": "https://www.tesla.com/careers/search/job/272937",
-      "location": "Palo Alto, CA",
       "department": "Software",
       "company": "Tesla",
       "score": 85,

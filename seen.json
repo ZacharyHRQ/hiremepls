@@ -193,7 +193,6 @@
   ],
   "MongoDB": [],
   "Cloudflare": [
-    "8044395",
     "8054093",
     "8053546",
     "8031027",
@@ -1752,7 +1751,6 @@
   ],
   "Snap": [],
   "SimplifyJobs 2026": [
-    "simplify:a38841c9-abc7-41d2-bc9b-aa3059599020",
     "simplify:c6b69846-839a-44c7-b22c-fa62c69a2ffd",
     "simplify:d8d464b4-b131-453f-ae9a-2db23f02f687",
     "simplify:956eb018-34d4-4f47-96dc-57a2372ae07d",
@@ -2157,7 +2155,6 @@
     "simplify:8d981cf1-c610-41cc-84d1-800ea078fd37",
     "simplify:77245ac7-931e-4d69-8030-18400e8793a2",
     "simplify:6cf0985b-9f4b-4fbb-9dee-114a376730a2",
-    "simplify:f1526646-4e0f-4501-b158-b8d7eb77bf4e",
     "simplify:ee7765e2-658f-4be4-a4a8-45e6f41a7c4b",
     "simplify:8ec30018-f2c6-45b8-ba34-9afbf20eee7f",
     "simplify:88789b47-9fb6-403c-bad2-041cccae3d74",
@@ -2190,10 +2187,8 @@
     "simplify:10f26a2e-0806-4a95-ab5a-9937df1917fa",
     "simplify:80d17130-e8af-42ec-9d13-451a3db46199",
     "simplify:cf47c883-2639-4a34-8c85-22ca57d03eea",
-    "simplify:899430e7-72cd-4e65-9394-58fd69b316ad",
     "simplify:513c29f5-023b-4e36-98fa-0c921ddddaa2",
     "simplify:69729365-7318-4429-8374-8d91cea81e29",
-    "simplify:a8790742-1793-4b5a-b3a7-faf1d438c4fb",
     "simplify:374d074b-0137-4dae-98f5-8441c0136ad4",
     "simplify:f4601ab3-f480-4a5c-b297-ead3081a4469",
     "simplify:d8407a57-173d-4104-a650-05c5456bd0b5",
@@ -2819,8 +2814,8 @@
   ],
   "xAI": [],
   "Block": [
-    "5108009008",
-    "5108007008"
+    "5108007008",
+    "5108009008"
   ],
   "Coinbase": [],
   "Toast": [],

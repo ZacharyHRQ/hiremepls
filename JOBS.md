@@ -1,6 +1,6 @@
 # Open Internships
 
-**1622** internships across **142/143** companies — last updated 2026-07-28.
+**1617** internships across **142/143** companies — last updated 2026-07-28.
 
 ## Companies
 
@@ -102,7 +102,7 @@
 - [Brex](#brex) (1)
 - [Brookfield](#brookfield) (2)
 - [Brunswick](#brunswick) (1)
-- [ByteDance](#bytedance) (33)
+- [ByteDance](#bytedance) (32)
 - [Cadence Design Systems](#cadence-design-systems) (5)
 - [CAE](#cae) (1)
 - [Capella](#capella) (2)
@@ -133,7 +133,7 @@
 - [Clera](#clera) (1)
 - [Clerkie](#clerkie) (1)
 - [CloudFit Software](#cloudfit-software) (1)
-- [Cloudflare](#cloudflare) (12)
+- [Cloudflare](#cloudflare) (11)
 - [Cloudforce](#cloudforce) (1)
 - [CME Group](#cme-group) (1)
 - [Codeage](#codeage) (1)
@@ -363,7 +363,7 @@
 - [NeoSigma](#neosigma) (2)
 - [Netflix](#netflix) (2)
 - [Netic](#netic) (3)
-- [Neuralink](#neuralink) (4)
+- [Neuralink](#neuralink) (3)
 - [NewsBreak](#newsbreak) (1)
 - [Nextiva](#nextiva) (1)
 - [Nightwing](#nightwing) (1)
@@ -502,7 +502,7 @@
 - [Tencent](#tencent) (14)
 - [Tenstorrent](#tenstorrent) (7)
 - [Terranox AI](#terranox-ai) (1)
-- [Tesla](#tesla) (90)
+- [Tesla](#tesla) (88)
 - [TETRAMEM](#tetramem) (1)
 - [The Boeing Company](#the-boeing-company) (1)
 - [The D. E. Shaw Group](#the-d-e-shaw-group) (1)
@@ -1455,7 +1455,6 @@
 | [Research Scientist Intern - Applied Machine Learning-Enterprise](https://jobs.bytedance.com/en/position/7539697151993268488/detail) | 85 | San Jose, CA | AI/ML/Data | 2026-06-03 |
 | [Software Development Engineer Intern - Network Automation](https://jobs.bytedance.com/en/position/7537152240618195208/detail) | 85 | San Jose, CA | Software | 2026-06-03 |
 | [Software Development Engineer Intern - Network Automation](https://jobs.bytedance.com/en/position/7537152632018012424/detail) | 85 | Seattle, WA | Software | 2026-06-03 |
-| [Software Engineer Intern - Applied Machine Learning-Enterprise](https://jobs.bytedance.com/en/position/7533045355162044690/detail) | 85 | San Jose, CA | AI/ML/Data | 2026-06-03 |
 | [Student Researcher Intern](https://jobs.bytedance.com/en/position/7538943251756910856/detail) | 85 | San Jose, CA | AI/ML/Data | 2026-06-03 |
 | [Applied Research Intern - AI Safety Security - Global Tech Research Program](https://jobs.bytedance.com/en/position/7645070235035044101/detail) | 60 | San Jose, CA | AI/ML/Data | 2026-06-03 |
 | [Payment Partnership Project Intern - Global Payment](https://jobs.bytedance.com/en/position/7642450978503641397/detail) | 60 | San Jose, CA | AI/ML/Data | 2026-06-03 |
@@ -1703,7 +1702,6 @@
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Brand Social Media Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8054093?gh_jid=8054093) | 58 | In-Office | — | 2026-07-10 |
 | [Marketing Events and Campaigns Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8053546?gh_jid=8053546) | 38 | In-Office | — | 2026-07-09 |
-| [AI Transformation Intern – Global Customer Engineering, Service Sales (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395) | 38 | In-Office | — | 2026-07-08 |
 | [AI Builder Intern - Global Customer Engineering - Service Sales](https://boards.greenhouse.io/cloudflare/jobs/8044395) | 48 | London, UK | Software | 2026-07-06 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -3322,7 +3320,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer Intern - BCI Applications](https://boards.greenhouse.io/neuralink/jobs/6594422003) | 93 | Fremont, CA | Software | 2026-07-20 |
 | [Software Engineer Intern - Infrastructure](https://boards.greenhouse.io/neuralink/jobs/5469298003) | 93 | Fremont, CA | Software | 2026-05-16 |
 | [Machine Learning Engineer Intern](https://boards.greenhouse.io/neuralink/jobs/6594261003) | 93 | Fremont, CA | AI/ML/Data | 2026-05-13 |
 | [Software Engineer Intern - Internal Apps](https://boards.greenhouse.io/neuralink/jobs/6083322003) | 93 | Fremont, CA / Austin, TX | Software | 2026-05-09 |
@@ -4493,7 +4490,6 @@
 | [Software Engineer Intern - Software Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/271362) | 85 | Palo Alto, CA / Fremont, CA | Software | 2026-06-07 |
 | [Software Engineer Intern - Software Engineer - Information Security](https://www.tesla.com/careers/search/job/270497) | 85 | Bellevue, WA | Software | 2026-06-07 |
 | [Software Engineer Intern - Software Engineer - IT Apps](https://www.tesla.com/careers/search/job/271209) | 85 | Fremont, CA | Software | 2026-06-07 |
-| [Software Engineer Intern - Software Engineer Opticaster - Energy Engineering](https://www.tesla.com/careers/search/job/272937) | 85 | Palo Alto, CA | Software | 2026-06-07 |
 | [Software Integration Engineer Intern - Software Integration Engineer - Service Tooling](https://www.tesla.com/careers/search/job/271866) | 85 | Fremont, CA | Hardware | 2026-06-07 |
 | [Data Analyst Intern - Data Analyst - Energy](https://www.tesla.com/careers/search/job/271329) | 60 | Fremont, CA | AI/ML/Data | 2026-06-07 |
 | [Energy System Optimization Intern - Energy Optimization Software](https://www.tesla.com/careers/search/job/271349) | 60 | Palo Alto, CA / Fremont, CA / Austin, TX | AI/ML/Data | 2026-06-07 |
@@ -4501,7 +4497,6 @@
 | [Solar Hardware Engineer Intern - Solar Hardware Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/271539) | 50 | Palo Alto, CA | Hardware | 2026-06-06 |
 | [Embedded Software Engineer Intern - AI Platforms - Embedded Software Engineer](https://www.tesla.com/careers/search/job/269819) | 85 | Palo Alto, CA | Hardware | 2026-06-06 |
 | [Service Engineering Intern - Product Support Engineer - Service Engineering](https://www.tesla.com/careers/search/job/271630) | 85 | Palo Alto, CA | Software | 2026-06-06 |
-| [Failure Analysis Engineer Intern - Failure Analysis Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/271544) | 50 | Palo Alto, CA | Hardware | 2026-06-06 |
 | [Commercial UI Software Engineer Intern - Energy Engineering](https://www.tesla.com/careers/search/job/273723) | 85 | Palo Alto, CA | Software | 2026-05-09 |
 | [Embedded Software Engineer Intern - Keys & Authentication](https://www.tesla.com/careers/search/job/270067) | 85 | Palo Alto, CA | Hardware | 2026-05-09 |
 | [Software Engineer Intern - Linux Update Systems](https://www.tesla.com/careers/search/job/266986) | 85 | Palo Alto, CA | Software | 2026-05-09 |
