@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-28T17:48:54.176Z",
+  "generatedAt": "2026-07-28T19:06:34.080Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1624,
+  "jobCount": 1621,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -95,7 +95,6 @@
     "canonical:d94c161d45204183": "2026-05-09T15:28:15.527Z",
     "canonical:c7bd53089331df83": "2026-05-09T15:28:15.527Z",
     "canonical:9e42770bf99c0f7e": "2026-05-09T15:28:15.527Z",
-    "canonical:81494230370de12a": "2026-05-09T15:28:15.527Z",
     "canonical:6a149cb9a2be52a1": "2026-05-09T15:28:15.527Z",
     "canonical:eb1c3b475c210318": "2026-05-09T15:28:15.527Z",
     "canonical:08c93deb66c76958": "2026-05-09T15:28:15.527Z",
@@ -445,7 +444,6 @@
     "canonical:157a48af4fed8855": "2026-06-30T15:08:09.560Z",
     "canonical:9062f0a2659dadf6": "2026-07-01T06:55:26.212Z",
     "canonical:c41ef117bb4ff60c": "2026-07-01T06:55:26.212Z",
-    "canonical:9dc2a65da3cbfb3d": "2026-07-01T06:55:26.212Z",
     "canonical:11b276e5677a2970": "2026-07-01T06:55:26.212Z",
     "canonical:ad9df2e5b0e5d395": "2026-07-01T06:55:26.212Z",
     "canonical:2f127a7c6f9ba9ec": "2026-07-01T06:55:26.212Z",
@@ -556,7 +554,6 @@
     "canonical:f3efe9dbc44b3ee6": "2026-07-07T23:26:57.673Z",
     "canonical:18c7966a9dc06483": "2026-07-07T23:26:57.673Z",
     "canonical:e6967e910537de21": "2026-07-07T23:26:57.673Z",
-    "canonical:8076253cd145ab02": "2026-07-08T04:12:01.868Z",
     "canonical:71c04954bfd630da": "2026-07-08T16:49:50.978Z",
     "canonical:6ea6c17f49efe765": "2026-07-08T16:49:50.978Z",
     "canonical:e1a5f05e6336ffe6": "2026-07-08T20:56:03.047Z",
@@ -1282,7 +1279,6 @@
     "canonical:fe29bf95496da916": "2026-07-21T14:54:50.893Z",
     "canonical:60d48ea9b4193a8f": "2026-07-21T16:15:03.141Z",
     "canonical:8212975b7a6dc9b6": "2026-07-21T16:15:03.141Z",
-    "canonical:b928618c8d52206e": "2026-07-21T16:15:03.141Z",
     "canonical:c8e10a577ab2a8bf": "2026-07-21T17:46:04.417Z",
     "canonical:1188eeec8fc3af96": "2026-07-21T17:46:04.417Z",
     "canonical:3089be45802d505e": "2026-07-21T17:46:04.417Z",
@@ -1627,7 +1623,8 @@
     "canonical:460cae12873e15d4": "2026-07-28T16:21:38.267Z",
     "canonical:38067b315ddd4856": "2026-07-28T16:21:38.267Z",
     "canonical:ee163e214703918f": "2026-07-28T16:21:38.267Z",
-    "canonical:cf3329319dcf05b8": "2026-07-28T17:48:54.176Z"
+    "canonical:cf3329319dcf05b8": "2026-07-28T17:48:54.176Z",
+    "canonical:8bb84dd14c633b38": "2026-07-28T19:06:34.080Z"
   },
   "jobs": [
     {
@@ -2369,11 +2366,11 @@
       ]
     },
     {
-      "id": "canonical:8c7dcade35ccab5b",
+      "id": "canonical:03ff9719f5d57641",
       "title": "Quantitative Research Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957756",
-      "location": "London, UK",
-      "department": "Quant",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7818540",
+      "location": "Chicago, New York City",
+      "department": "",
       "company": "DRW",
       "score": 68,
       "scoreReasons": [
@@ -2382,11 +2379,11 @@
       ]
     },
     {
-      "id": "canonical:03ff9719f5d57641",
+      "id": "canonical:8c7dcade35ccab5b",
       "title": "Quantitative Research Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7818540",
-      "location": "Chicago, New York City",
-      "department": "",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957756",
+      "location": "London, UK",
+      "department": "Quant",
       "company": "DRW",
       "score": 68,
       "scoreReasons": [
@@ -2447,20 +2444,6 @@
       ]
     },
     {
-      "id": "canonical:f9963438d881a851",
-      "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
-      "location": "Amsterdam",
-      "department": "",
-      "company": "DRW",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:bd72b8a6944f6777",
       "title": "Software Developer Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
@@ -2479,6 +2462,20 @@
       "title": "Software Developer Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
       "location": "Chicago",
+      "department": "",
+      "company": "DRW",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f9963438d881a851",
+      "title": "Software Developer Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
+      "location": "Amsterdam",
       "department": "",
       "company": "DRW",
       "score": 93,
@@ -8266,19 +8263,6 @@
       ]
     },
     {
-      "id": "canonical:81494230370de12a",
-      "title": "Research Scientist Intern PhD - Applied Research",
-      "url": "https://www.metacareers.com/jobs/2633206137040139",
-      "location": "Menlo Park, CA / NYC / Bellevue, WA",
-      "department": "AI/ML/Data",
-      "company": "Meta",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:6a149cb9a2be52a1",
       "title": "Research Scientist Intern - AI/ML - Core Ads Growth",
       "url": "https://www.metacareers.com/jobs/771948392580541",
@@ -9850,18 +9834,6 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:9dc2a65da3cbfb3d",
-      "title": "Data Analysis & AI Policy Intern",
-      "url": "https://internships-aei.icims.com/jobs/2612/job?mobile=true&needsRedirect=false",
-      "location": "Washington, DC",
-      "department": "AI/ML/Data",
-      "company": "American Enterprise Institute",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {
@@ -15657,19 +15629,6 @@
       ]
     },
     {
-      "id": "canonical:8076253cd145ab02",
-      "title": "Data and Coding Intern",
-      "url": "https://jobs.lever.co/dga/cc41da12-5af0-41b6-b85e-301af4868bca/apply",
-      "location": "Washington, DC",
-      "department": "AI/ML/Data",
-      "company": "Democratic Governors Association",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:6904baff90564385",
       "title": "Product Management Intern",
       "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214160",
@@ -17666,19 +17625,6 @@
       "company": "Altasciences",
       "score": 58,
       "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:b928618c8d52206e",
-      "title": "National Security Solutions Intern - Nss",
-      "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/National-Security-Solutions--NSS--Semiconductor-Research-Internship--Fall-2026-_R2126603",
-      "location": "Beavercreek, OH",
-      "department": "Hardware",
-      "company": "KBR",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
         "direct ATS"
       ]
     },
@@ -22020,6 +21966,19 @@
       "score": 42,
       "scoreReasons": [
         "aggregator link"
+      ]
+    },
+    {
+      "id": "canonical:8bb84dd14c633b38",
+      "title": "ADAS Software Engineering Intern",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000140317669",
+      "location": "Plymouth, MI, United States",
+      "department": "Software / Not stated",
+      "company": "Bosch",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
