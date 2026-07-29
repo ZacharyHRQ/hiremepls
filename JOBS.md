@@ -1,6 +1,6 @@
 # Open Internships
 
-**1628** internships across **142/143** companies — last updated 2026-07-29.
+**1632** internships across **142/143** companies — last updated 2026-07-29.
 
 ## Companies
 
@@ -35,7 +35,7 @@
 - [Apple](#apple) (17)
 - [Applied Intuition](#applied-intuition) (3)
 - [Applied Materials](#applied-materials) (1)
-- [Apptronik](#apptronik) (2)
+- [Apptronik](#apptronik) (3)
 - [Aptiv](#aptiv) (1)
 - [AQR](#aqr) (8)
 - [AQR Capital Management](#aqr-capital-management) (1)
@@ -73,7 +73,6 @@
 - [Barclays](#barclays) (1)
 - [Barkback](#barkback) (1)
 - [Base Power](#base-power) (3)
-- [BDO Canada](#bdo-canada) (1)
 - [Beacon Software](#beacon-software) (2)
 - [beBeeManufacturingEngineering](#bebeemanufacturingengineering) (1)
 - [Bee Sweet Citrus](#bee-sweet-citrus) (1)
@@ -95,7 +94,7 @@
 - [Blue River Technology](#blue-river-technology) (1)
 - [BNP Paribas](#bnp-paribas) (1)
 - [Bombardier](#bombardier) (1)
-- [BorgWarner](#borgwarner) (2)
+- [BorgWarner](#borgwarner) (1)
 - [Bosch](#bosch) (3)
 - [Bosch Home Comfort](#bosch-home-comfort) (6)
 - [Boston Consulting Group](#boston-consulting-group) (2)
@@ -197,7 +196,7 @@
 - [Etched.ai](#etched-ai) (5)
 - [Ether.fi](#ether-fi) (1)
 - [ETHGlobal](#ethglobal) (1)
-- [Eulerity](#eulerity) (3)
+- [Eulerity](#eulerity) (2)
 - [Eurofins](#eurofins) (1)
 - [EV Realty](#ev-realty) (1)
 - [Evolver](#evolver) (1)
@@ -225,6 +224,7 @@
 - [Fundwell](#fundwell) (1)
 - [Fussball Club Cincinnati LLC (“FC Cincinnati”)](#fussball-club-cincinnati-llc-fc-cincinnati) (1)
 - [G-Research](#g-research) (4)
+- [GE Healthcare](#ge-healthcare) (2)
 - [GE Vernova](#ge-vernova) (3)
 - [Geisinger](#geisinger) (1)
 - [Gemini](#gemini) (2)
@@ -313,6 +313,7 @@
 - [Lawrence Livermore National Laboratory (LLNL)](#lawrence-livermore-national-laboratory-llnl) (3)
 - [Leidos](#leidos) (3)
 - [Lensa](#lensa) (3)
+- [LexisNexis Risk Solutions](#lexisnexis-risk-solutions) (1)
 - [LinkedIn](#linkedin) (3)
 - [Littelfuse](#littelfuse) (1)
 - [Louisiana State University (LSU)](#louisiana-state-university-lsu) (1)
@@ -470,6 +471,7 @@
 - [Shenzhen ANQI SHISHANG Articles Co., ltd.](#shenzhen-anqi-shishang-articles-co-ltd) (1)
 - [Shopify](#shopify) (1)
 - [ShyftLabs](#shyftlabs) (2)
+- [SiFive](#sifive) (1)
 - [SimonComputing](#simoncomputing) (1)
 - [Simular](#simular) (2)
 - [Sixtyfour (X25)](#sixtyfour-x25) (1)
@@ -551,11 +553,12 @@
 - [Veralto](#veralto) (1)
 - [VetsEZ](#vetsez) (1)
 - [Viridien](#viridien) (1)
-- [Virtu Financial](#virtu-financial) (4)
+- [Virtu Financial](#virtu-financial) (5)
 - [Vital Lyfe](#vital-lyfe) (1)
 - [VITAL LYFE](#vital-lyfe) (1)
 - [Voloridge](#voloridge) (2)
 - [Voloridge Investment Management](#voloridge-investment-management) (1)
+- [Voltus](#voltus) (1)
 - [Waabi](#waabi) (2)
 - [Walleye Capital](#walleye-capital) (9)
 - [Walmart](#walmart) (1)
@@ -982,6 +985,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Robotics Software Intern - Real-Time Controls](https://boards.greenhouse.io/apptronik/jobs/5985132004) | 68 | Austin, TX | Hardware | 2026-07-29 |
 | [Software Engineer Intern - ML Systems](https://boards.greenhouse.io/apptronik/jobs/6128057004) | 93 | Austin, TX | Software | 2026-07-28 |
 | [Software Engineer Intern - ML Systems](https://boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004) | 93 | Onsite - Austin, TX | Data & ML/AI / Not stated | 2026-07-27 |
 
@@ -1242,12 +1246,6 @@
 | [Software Engineer Intern](https://jobs.ashbyhq.com/base-power/5353ea33-57d4-46fa-9a96-e392a3f841bc/application) | 93 | Austin, TX | Software | 2026-05-27 |
 | [Hardware Engineer Intern](https://jobs.ashbyhq.com/base-power/f22cee0e-55d9-42cd-806e-1c1fc7217770/application) | 58 | Austin, TX | Hardware | 2026-05-21 |
 
-## BDO Canada
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data & Analytics Co-op/Intern - Data & Analytics](https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Co-op-or-Intern--Data---Analytics--September-2026-_JR6295) | 68 | Montreal, QC, Canada / Toronto, ON, Canada / Calgary, AB, Canada / Oakville, ON, Canada / Ottawa, ON, Canada / Vancouver, BC, Canada / Halifax Regional Municipality, NS, Canada | AI/ML/Data | 2026-07-23 |
-
 ## Beacon Software
 
 | Title | Score | Location | Department | First seen |
@@ -1384,7 +1382,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Application Engineering Intern (Year Round)](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Application-Engineering-Intern--Year-Round-_R2026-1645) | 68 | Auburn Hills - Michigan - USA | Software / Not stated | 2026-07-29 |
 | [Validation Intern](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Validation-Intern--Year-Round-_R2026-1960) | 58 | Kokomo, IN | Hardware | 2026-07-22 |
 
 ## Bosch
@@ -2160,7 +2157,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Website Development & Content Marketing Intern - AI & Automation](https://job-boards.greenhouse.io/eulerity/jobs/4694300006) | 48 | NYC | Software | 2026-07-03 |
-| [Android Developer Intern](https://job-boards.greenhouse.io/eulerity/jobs/4671031006) | 93 | NYC | Software | 2026-05-09 |
 | [Mobile iOS Developer Intern](https://job-boards.greenhouse.io/eulerity/jobs/4671025006) | 93 | NYC | Software | 2026-05-09 |
 
 ## Eurofins
@@ -2338,6 +2334,13 @@
 | [Machine Learning Research Intern](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Research-Internship_R3682) | 68 | London, UK | AI/ML/Data | 2026-07-23 |
 | [Natural Language Processing Intern](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Natural-Language-Processing-Internship_R3686) | 68 | London, UK | AI/ML/Data | 2026-07-23 |
 | [Quantitative Research Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quant-Research-Internship_R3691) | 68 | London, UK | Quant | 2026-07-23 |
+
+## GE Healthcare
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Engineering Development Program Intern - Software](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Intern---Software_R4043933-2) | 68 | Waukesha, WI | AI/ML/Data | 2026-07-29 |
+| [Engineering Development Program Intern - Hardware](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Internship---Hardware_R4043923-1) | 58 | Twinsburg, OH / Waukesha, WI | Hardware | 2026-07-29 |
 
 ## GE Vernova
 
@@ -2986,6 +2989,12 @@
 | [2026 Summer Internship Program - AMERS](https://www.linkedin.com/jobs/view/4257402148) | 42 | San Francisco, CA | — | 2026-07-09 |
 | [2026 Summer Internship Program - Investment Banking](https://www.linkedin.com/jobs/view/4257296455) | 42 | Baltimore, MD | — | 2026-07-09 |
 | [Accounting Internship Summer 2026](https://lensa.com/job-application-accounting-internship-summer-2026-in-wayne-pa/cpc-jd-v3/bdd3c15c3b73ec0e9b7e0b5b4cbefe35453222188f523f433d39e72a3abd4740?tr=b4a83a7f255547c9982fd106a9550d5aincc1&utm_source=linkedin&utm_medium=slot&utm_campaign=Financial+Specialists&utm_term=jse) | 22 | Wayne, PA | — | 2026-07-09 |
+
+## LexisNexis Risk Solutions
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Editorial Data Reporting Intern](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1) | 68 | Remote in USA | AI/ML/Data | 2026-07-29 |
 
 ## LinkedIn
 
@@ -4156,6 +4165,12 @@
 | [AI Engineer Intern](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd) | 83 | Toronto, Canada | — | 2026-07-24 |
 | [AI Engineer Intern](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd/apply) | 93 | Toronto, ON, Canada | Software | 2026-07-22 |
 
+## SiFive
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Platform Technologies Language Design Intern](https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Santa-Clara-California-United-States/Platform-Technologies-Language-Design-Intern_R-101183) | 68 | Santa Clara, CA / Berkeley, CA | Software | 2026-07-29 |
+
 ## SimonComputing
 
 | Title | Score | Location | Department | First seen |
@@ -4692,10 +4707,10 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [AI Engineering Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5192820007) | 68 | Durham, NC; Frisco, TX | Data & ML/AI / Fall 2026 | 2026-07-29 |
 | [Product & Business Analytics Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195802007) | 68 | Durham, NC | AI/ML/Data | 2026-07-27 |
 | [AI Product Management Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195826007) | 58 | Durham, NC | Product | 2026-07-27 |
 | [Agentic Software Engineer Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5177892007) | 93 | Durham, NC | Software | 2026-07-27 |
-| [AI Engineer Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5192820007) | 93 | Frisco, TX | AI/ML/Data | 2026-07-27 |
 | [Project Management & AI Automation Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5190937007) | 68 | Frisco, TX | Data & ML/AI / Fall 2026 | 2026-07-27 |
 
 ## Touchdown Labs
@@ -4883,6 +4898,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [2027 Internship - Frontend & User Experience](https://job-boards.greenhouse.io/virtu/jobs/8657500002) | 93 | New York | Software / Summer 2027 | 2026-07-29 |
 | [Quantitative Trading Intern](https://job-boards.greenhouse.io/virtu/jobs/8624408002) | 68 | Austin, TX / Chicago, IL / NYC | Quant | 2026-07-28 |
 | [Quantitative Researcher Internship](https://job-boards.greenhouse.io/virtu/jobs/8624424002) | 93 | NYC | Quant | 2026-07-23 |
 | [Software Engineer Intern - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8624410002) | 93 | Austin, TX / NYC | Software | 2026-07-23 |
@@ -4912,6 +4928,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Quantitative Developer Intern](https://voloridge-investment-management.hiringthing.com/job/1013126/quantitative-developer-intern-2027?s=lif&jr_id=69eaa8e4dc35f7132c4ab803) | 85 | Jupiter, FL | — | 2026-07-09 |
+
+## Voltus
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Energy Markets Intern](https://jobs.lever.co/voltus/b7833dd8-d742-44d8-aae2-2e7de7541ce4/apply) | 68 | Remote in USA / Remote in Canada | Quant | 2026-07-29 |
 
 ## Waabi
 
