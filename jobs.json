@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-29T20:51:45.412Z",
+  "generatedAt": "2026-07-29T21:48:15.888Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1631,
+  "jobCount": 1628,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -195,7 +195,6 @@
     "canonical:ae587a3dd163baf3": "2026-05-19T12:09:46.073Z",
     "canonical:ec7947b941c678b5": "2026-05-20T05:58:26.449Z",
     "canonical:662cd93e03a48f7c": "2026-05-20T05:58:26.449Z",
-    "canonical:7f419ef77a740af3": "2026-05-20T12:10:44.642Z",
     "canonical:20eefe09e12c4c97": "2026-05-20T15:54:33.666Z",
     "canonical:58a0ad72fc379a2e": "2026-05-20T15:54:33.666Z",
     "canonical:d35985b2727191b1": "2026-05-21T05:52:27.471Z",
@@ -309,7 +308,6 @@
     "canonical:493342a1a4fa0803": "2026-06-07T01:56:06.706Z",
     "canonical:29fdb193792038c4": "2026-06-07T01:56:06.706Z",
     "canonical:54e3e1093ebbff0f": "2026-06-07T06:16:50.879Z",
-    "canonical:e985dc0d5394208a": "2026-06-07T09:43:12.130Z",
     "canonical:db0080d8fe4190e3": "2026-06-07T09:43:12.130Z",
     "canonical:681685a64ad12ec9": "2026-06-07T09:43:12.130Z",
     "canonical:27af27128fc52c29": "2026-06-07T09:43:12.130Z",
@@ -403,7 +401,6 @@
     "canonical:baa8d20fda37086a": "2026-06-23T04:36:40.243Z",
     "canonical:e035aef29d392d1e": "2026-06-23T04:36:40.243Z",
     "canonical:a4bfa7421cb2dd8c": "2026-06-23T08:18:38.816Z",
-    "canonical:95a71a6031acbd00": "2026-06-23T11:35:18.438Z",
     "canonical:c32317a9ac6c5b72": "2026-06-23T14:03:34.437Z",
     "canonical:05a30cbc3123c379": "2026-06-23T14:03:34.437Z",
     "canonical:ab20f77386bc364b": "2026-06-23T14:03:34.437Z",
@@ -466,7 +463,6 @@
     "canonical:1ee6ba6747ac87c2": "2026-07-01T06:55:26.212Z",
     "canonical:acc4eb5c29e25657": "2026-07-01T06:55:26.212Z",
     "canonical:60fe78b324230eaa": "2026-07-01T10:37:16.482Z",
-    "canonical:c5c8d41f5222405f": "2026-07-01T10:37:16.482Z",
     "canonical:db74d5d02de964bf": "2026-07-01T10:37:16.482Z",
     "canonical:00451d7a723c1b5b": "2026-07-01T10:37:16.482Z",
     "canonical:2bd3c8b5646bf01b": "2026-07-01T10:37:16.482Z",
@@ -482,7 +478,6 @@
     "canonical:8832b80e79a94a12": "2026-07-01T23:02:00.772Z",
     "canonical:68297b37cb4f4754": "2026-07-01T23:02:00.772Z",
     "canonical:0b40e9373e32ee3a": "2026-07-01T23:02:00.772Z",
-    "canonical:3a6ae29ca0f41c86": "2026-07-01T23:02:00.772Z",
     "canonical:090c30f9249f9ff1": "2026-07-01T23:02:00.772Z",
     "canonical:d0ba5b968199b27e": "2026-07-01T23:02:00.772Z",
     "canonical:37441aba4bffccd6": "2026-07-01T23:02:00.772Z",
@@ -1634,7 +1629,9 @@
     "canonical:8fc863f495e5ebf7": "2026-07-29T16:06:59.600Z",
     "canonical:21d9130831f177c9": "2026-07-29T16:06:59.600Z",
     "canonical:f19a89eb45fa42b7": "2026-07-29T17:34:32.752Z",
-    "canonical:06c0a2c3751f2622": "2026-07-29T19:57:36.635Z"
+    "canonical:06c0a2c3751f2622": "2026-07-29T19:57:36.635Z",
+    "canonical:36bf0aa065eb7ac0": "2026-07-29T21:48:15.888Z",
+    "canonical:daf99901433a25a0": "2026-07-29T21:48:15.888Z"
   },
   "jobs": [
     {
@@ -6446,7 +6443,7 @@
     {
       "id": "canonical:1a056010d15d11c7",
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -6454,19 +6451,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:95a71a6031acbd00",
-      "title": "Sales Project Manager Intern (AI Innovation) (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8020830?gh_jid=8020830",
-      "location": "In-Office",
-      "department": "",
-      "company": "Cloudflare",
-      "score": 38,
-      "scoreReasons": [
-        "direct ATS",
-        "lower-fit title"
       ]
     },
     {
@@ -9904,18 +9888,6 @@
       ]
     },
     {
-      "id": "canonical:e985dc0d5394208a",
-      "title": "Machine Learning Platform Intern - Multiple Teams",
-      "url": "https://www.tesla.com/careers/search/job/269812",
-      "location": "Palo Alto, CA",
-      "department": "Software",
-      "company": "Tesla",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:db0080d8fe4190e3",
       "title": "Software Integration Engineer Intern - Software Integration Engineer - Optimus",
       "url": "https://www.tesla.com/careers/search/job/269809",
@@ -10555,19 +10527,6 @@
       "location": "Ottawa, ON, Canada",
       "department": "AI/ML/Data",
       "company": "Kinaxis",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:7f419ef77a740af3",
-      "title": "Embedded C/C++ Software Developer Co-op/Intern",
-      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35268",
-      "location": "Ottawa, ON, Canada",
-      "department": "Hardware",
-      "company": "Nokia",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -12780,19 +12739,6 @@
       ]
     },
     {
-      "id": "canonical:c5c8d41f5222405f",
-      "title": "Research Intern - Inference",
-      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5157759007",
-      "location": "SF",
-      "department": "AI/ML/Data",
-      "company": "Together AI",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:f81a19cf9fd83e98",
       "title": "Commercial UI Software Engineer Intern - Energy Engineering",
       "url": "https://www.tesla.com/careers/search/job/273723",
@@ -14618,19 +14564,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:3a6ae29ca0f41c86",
-      "title": "Summer Internship Intern - Business Systems Analyst",
-      "url": "https://jobs.smartrecruiters.com/TheWonderfulCompany/744000135343439",
-      "location": "Bakersfield, CA",
-      "department": "AI/ML/Data",
-      "company": "The Wonderful Company",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -22073,6 +22006,33 @@
       "score": 42,
       "scoreReasons": [
         "aggregator link"
+      ]
+    },
+    {
+      "id": "canonical:36bf0aa065eb7ac0",
+      "title": "Data Science Intern",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Data-Science-Intern_R-00188405",
+      "location": "San Diego, CA",
+      "department": "Data & ML/AI / Not stated",
+      "company": "Leidos",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:daf99901433a25a0",
+      "title": "Embedded Software Engineer Intern - Fall 2026",
+      "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004?gh_jid=6126784004",
+      "location": "San Francisco, California, United States",
+      "department": "Software / Fall 2026",
+      "company": "Redwood Materials",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
