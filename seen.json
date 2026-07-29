@@ -1401,6 +1401,7 @@
   ],
   "Wayve": [],
   "zshah101 Summer 2027/Fall 2026": [
+    "github-json:zshah101-summer-2027-fall-2026:workday:brunswick:/job/Champaign-IL/Software-Engineer-Intern_JR-050991",
     "github-json:zshah101-summer-2027-fall-2026:ashby:modal:38888294-6bc7-4dab-b072-6d0f0c2ed79a",
     "github-json:zshah101-summer-2027-fall-2026:oracle:ewvl.fa.us8.oraclecloud.com:2164",
     "github-json:zshah101-summer-2027-fall-2026:workday:draper:/job/Cambridge-MA/Electronics---Embedded-Systems-Intern--Summer-2027-_JR002735",
@@ -1584,6 +1585,7 @@
     "5187605007"
   ],
   "Amazon": [
+    "10468413",
     "10485773",
     "10444661",
     "10380900",
@@ -1591,7 +1593,6 @@
     "3125230",
     "10485562",
     "10485545",
-    "10468413",
     "10483293",
     "10482212",
     "10483215",
@@ -2453,6 +2454,7 @@
     "simplify:01788188-df5d-4bc7-8a1c-b32f1569da13",
     "simplify:35d73839-e8d5-46bd-9d06-9cfafc3a8c62",
     "simplify:a904747c-0a1b-4b0e-822d-ca3184c2c4b5",
+    "simplify:0317c6ee-8867-463c-899c-dab81eee99b4",
     "simplify:eb6abc1f-b44d-436b-a6ab-6ab6af1e18c6",
     "simplify:d132216a-f98b-4a13-9f0f-2204eee2733a",
     "simplify:fa7fbaf4-50b2-4148-af69-22df652b6fd5",
@@ -2535,7 +2537,6 @@
     "simplify:1de12102-5f3b-4c75-83ce-02e4d9bb828d",
     "simplify:f5df0ff3-923c-48b4-abf3-9c10848eb7ed",
     "simplify:99cfa529-cdea-4b33-896c-40df0577187c",
-    "simplify:3d5030c9-5b53-4ead-8664-250c3688b6ee",
     "simplify:ba1e95d6-38c8-4dfd-98bb-f6954a1aaab8",
     "simplify:cbc90c52-de35-4d7b-b7f2-bc0a30bb1d72",
     "simplify:9eeb2878-4b21-43db-94eb-1586edccfa2a",
@@ -2644,7 +2645,6 @@
     "simplify:4c54516c-986b-40c6-be23-fc11b0404861",
     "simplify:fc5686cd-7212-4d14-b8c4-20c9dfeb974d",
     "simplify:c4946cfa-e397-493b-a5f8-f1e84a399bc5",
-    "simplify:c240d04c-b78f-4385-95d6-379ebd0c3801",
     "simplify:6c0ab4e5-360b-4ac9-870b-63679e2b79d0",
     "simplify:a00e4b08-8ddd-417a-8de5-07d284def8c3",
     "simplify:c8b23aef-956a-4e8f-bf36-9f747b2a67ef",
@@ -2824,7 +2824,10 @@
     "simplify:02855d39-751b-42b4-909c-814d9d98b768",
     "simplify:0493a5d3-fb9f-430d-8751-58b168f5a0f4",
     "simplify:d4e082c8-3281-4af2-923d-bbf1d427be5a",
-    "simplify:c9ad7130-d51b-4977-b457-507b9ff86717"
+    "simplify:c9ad7130-d51b-4977-b457-507b9ff86717",
+    "simplify:6219c04b-bc5c-4d14-90ea-426f117b51c0",
+    "simplify:2522e64f-6b7b-4896-8fec-6536ad4ea335",
+    "simplify:7a671b3f-8535-4895-8252-5687d2076563"
   ],
   "DoorDash": [],
   "Waymo": [

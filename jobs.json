@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-29T01:05:58.664Z",
+  "generatedAt": "2026-07-29T04:27:11.492Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1630,
+  "jobCount": 1633,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1149,7 +1149,6 @@
     "canonical:9214246f0ca3cac8": "2026-07-21T04:15:38.512Z",
     "canonical:1c888f1275ab0501": "2026-07-21T04:15:38.512Z",
     "canonical:f5b0d2bc4032f956": "2026-07-21T04:15:38.512Z",
-    "canonical:7393e9c3335ef0f5": "2026-07-21T04:15:38.512Z",
     "canonical:691e7be471a676f2": "2026-07-21T04:15:38.512Z",
     "canonical:1150d82501addcd9": "2026-07-21T04:15:38.512Z",
     "canonical:d9cecf43fe6e0b68": "2026-07-21T04:15:38.512Z",
@@ -1612,7 +1611,6 @@
     "canonical:cf3329319dcf05b8": "2026-07-28T17:48:54.176Z",
     "canonical:d1724f6d20ce1186": "2026-07-28T20:33:11.283Z",
     "canonical:b3a0b3bc244cb3ec": "2026-07-28T22:41:55.739Z",
-    "canonical:3a0280cd297d1f55": "2026-07-28T22:41:55.739Z",
     "canonical:019ccc4c218fc0df": "2026-07-28T22:41:55.739Z",
     "canonical:136c3179d65cdc79": "2026-07-28T22:41:55.739Z",
     "canonical:c61e79e404fe2dc6": "2026-07-28T22:41:55.739Z",
@@ -1633,7 +1631,12 @@
     "canonical:7ebfc68970dd7a2e": "2026-07-28T23:38:50.618Z",
     "canonical:08a06731349f99d6": "2026-07-28T23:38:50.618Z",
     "canonical:b6f790f27b00198b": "2026-07-28T23:38:50.618Z",
-    "canonical:142be00c1e8cb362": "2026-07-28T23:38:50.618Z"
+    "canonical:142be00c1e8cb362": "2026-07-28T23:38:50.618Z",
+    "canonical:bf33bee56c7f7e21": "2026-07-29T04:27:11.492Z",
+    "canonical:ea138e7431ac1dc4": "2026-07-29T04:27:11.492Z",
+    "canonical:e7de59809d31bf30": "2026-07-29T04:27:11.492Z",
+    "canonical:16a40ebc1e926500": "2026-07-29T04:27:11.492Z",
+    "canonical:4cfb5723dc9ecab3": "2026-07-29T04:27:11.492Z"
   },
   "jobs": [
     {
@@ -4074,6 +4077,18 @@
       ]
     },
     {
+      "id": "canonical:dcc402b770a2ceef",
+      "title": "Sales Ops Analyst Intern - Shanghai, Amazon Global Selling",
+      "url": "https://amazon.jobs/en/jobs/10468413/sales-ops-analyst-intern-shanghai-amazon-global-selling",
+      "location": "Shanghai",
+      "department": "Sales, Advertising, & Account Management",
+      "company": "Amazon",
+      "score": 30,
+      "scoreReasons": [
+        "lower-fit title"
+      ]
+    },
+    {
       "id": "canonical:f29d9e1edf65097e",
       "title": "Marketing AI Product Specialist Intern, Channel Management, Amazon Global Selling",
       "url": "https://amazon.jobs/en/jobs/10485773/marketing-ai-product-specialist-intern-channel-management-amazon-global-selling",
@@ -4151,18 +4166,6 @@
       "url": "https://amazon.jobs/en/jobs/10485545/event-ai-marketing-intern-amazon-global-selling",
       "location": "Shanghai",
       "department": "Marketing & PR",
-      "company": "Amazon",
-      "score": 30,
-      "scoreReasons": [
-        "lower-fit title"
-      ]
-    },
-    {
-      "id": "canonical:dcc402b770a2ceef",
-      "title": "Sales Ops Analyst Intern - Shanghai, Amazon Global Selling",
-      "url": "https://amazon.jobs/en/jobs/10468413/sales-ops-analyst-intern-shanghai-amazon-global-selling",
-      "location": "Shanghai",
-      "department": "Sales, Advertising, & Account Management",
       "company": "Amazon",
       "score": 30,
       "scoreReasons": [
@@ -14821,6 +14824,19 @@
       ]
     },
     {
+      "id": "canonical:bf33bee56c7f7e21",
+      "title": "PhD Research Intern - System Software and I/O Architecture",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--System-Software-and-I-O-Architecture---Fall-2026_JR2019667",
+      "location": "Urbana, IL / Remote in USA / Santa Clara, CA",
+      "department": "Software",
+      "company": "NVIDIA",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:d55fc31614ca91f3",
       "title": "A.1. Integration Intern",
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000134840254",
@@ -15778,19 +15794,6 @@
       "location": "Palo Alto, CA",
       "department": "AI/ML/Data",
       "company": "Pika",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:3a0280cd297d1f55",
-      "title": "Editorial Data Reporting Intern",
-      "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "LexisNexis Risk Solutions",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -17017,20 +17020,6 @@
       "location": "Seattle, WA / Toronto, ON, Canada / California",
       "department": "AI/ML/Data",
       "company": "Veeda AI",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:7393e9c3335ef0f5",
-      "title": "Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/varick-agents/b2df1c3b-43c7-40d4-8271-150a06f10bf2/application?embed=true",
-      "location": "SF",
-      "department": "Software",
-      "company": "Varick Agents",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -19224,6 +19213,44 @@
       "location": "SF / NYC",
       "department": "AI/ML/Data",
       "company": "Modal",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ea138e7431ac1dc4",
+      "title": "Machine Learning Engineer Intern - Tiktok-Data-Search-Search Quality",
+      "url": "https://lifeattiktok.com/search/7667690418804902149",
+      "location": "San Jose, CA",
+      "department": "AI/ML/Data",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:e7de59809d31bf30",
+      "title": "Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency",
+      "url": "https://lifeattiktok.com/search/7667613782697232693",
+      "location": "San Jose, CA",
+      "department": "AI/ML/Data",
+      "company": "TikTok",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:16a40ebc1e926500",
+      "title": "Business Analytics Intern",
+      "url": "https://richemont.wd3.myworkdayjobs.com/richemont/job/BELLEVUE/Business-Analytics-Intern_JR124478-1",
+      "location": "Bellevue, WA",
+      "department": "AI/ML/Data",
+      "company": "Richemont",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -22103,6 +22130,20 @@
       "score": 42,
       "scoreReasons": [
         "aggregator link"
+      ]
+    },
+    {
+      "id": "canonical:4cfb5723dc9ecab3",
+      "title": "Software Engineer Intern",
+      "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Champaign-IL/Software-Engineer-Intern_JR-050991",
+      "location": "Champaign, IL",
+      "department": "Software / Not stated",
+      "company": "Brunswick",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
