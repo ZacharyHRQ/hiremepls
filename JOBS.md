@@ -1,6 +1,6 @@
 # Open Internships
 
-**1636** internships across **142/143** companies — last updated 2026-07-29.
+**1635** internships across **142/143** companies — last updated 2026-07-29.
 
 ## Companies
 
@@ -22,7 +22,7 @@
 - [AlixPartners](#alixpartners) (1)
 - [Altasciences](#altasciences) (1)
 - [Altom Transport](#altom-transport) (2)
-- [Amazon](#amazon) (170)
+- [Amazon](#amazon) (169)
 - [Ambarella](#ambarella) (8)
 - [Amentum](#amentum) (1)
 - [American Enterprise Institute](#american-enterprise-institute) (1)
@@ -95,7 +95,7 @@
 - [Blue River Technology](#blue-river-technology) (1)
 - [BNP Paribas](#bnp-paribas) (1)
 - [Bombardier](#bombardier) (1)
-- [BorgWarner](#borgwarner) (1)
+- [BorgWarner](#borgwarner) (2)
 - [Bosch](#bosch) (3)
 - [Bosch Home Comfort](#bosch-home-comfort) (6)
 - [Boston Consulting Group](#boston-consulting-group) (2)
@@ -560,7 +560,6 @@
 - [VITAL LYFE](#vital-lyfe) (1)
 - [Voloridge](#voloridge) (2)
 - [Voloridge Investment Management](#voloridge-investment-management) (1)
-- [W.R. Berkley](#w-r-berkley) (1)
 - [Waabi](#waabi) (2)
 - [Walleye Capital](#walleye-capital) (9)
 - [Walmart](#walmart) (1)
@@ -832,7 +831,6 @@
 | [2026 Applied Scientist Intern, Amazon University Talent Acquisition](https://amazon.jobs/en/jobs/3115016/2026-applied-scientist-intern-amazon-university-talent-acquisition) | 50 | Berlin | Applied Science | 2026-07-20 |
 | [2026 Applied Scientist Intern, Amazon University Talent Acquisition](https://amazon.jobs/en/jobs/3148406/2026-applied-scientist-intern-amazon-university-talent-acquisition) | 50 | Jordan | Applied Science | 2026-07-20 |
 | [2026 Applied Scientist Intern, Amazon University Talent Acquisition](https://amazon.jobs/en/jobs/3126764/2026-applied-scientist-intern-amazon-university-talent-acquisition) | 50 | London | Applied Science | 2026-07-20 |
-| [2026 Applied Scientist Intern, Amazon University Talent Acquisition](https://amazon.jobs/en/jobs/3115055/2026-applied-scientist-intern-amazon-university-talent-acquisition) | 50 | Tel Aviv | Applied Science | 2026-07-20 |
 | [2026 Area Manager Intern, Operations](https://amazon.jobs/en/jobs/10389248/2026-area-manager-intern-operations) | 50 | Horsley Park | Fulfillment & Operations Management | 2026-07-20 |
 | [2026 Brand Specialist (e-Commerce) Intern, Amazon Vendor Services](https://amazon.jobs/en/jobs/10376663/2026-brand-specialist-e-commerce-intern-amazon-vendor-services) | 50 | Sydney | Buying, Planning, & Instock Management | 2026-07-20 |
 | [2026 Fall Applied Science Internship - Automated Reasoning - United States, PhD Student Science Recruiting](https://amazon.jobs/en/jobs/10394156/2026-fall-applied-science-internship-automated-reasoning-united-states-phd-student-science-recruiting) | 50 | Seattle | Applied Science | 2026-07-20 |
@@ -1390,6 +1388,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Application Engineering Intern (Year Round)](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Application-Engineering-Intern--Year-Round-_R2026-1645) | 68 | Auburn Hills - Michigan - USA | Software / Not stated | 2026-07-29 |
 | [Validation Intern](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Validation-Intern--Year-Round-_R2026-1960) | 58 | Kokomo, IN | Hardware | 2026-07-22 |
 
 ## Bosch
@@ -1715,7 +1714,7 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
 | [Public Policy Intern](https://boards.greenhouse.io/cloudflare/jobs/8053437?gh_jid=8053437) | 58 | Hybrid; In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
@@ -2702,8 +2701,8 @@
 | [Graduate Quantitative Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4751729101) | 74 | Chicago, United States | — | 2026-07-01 |
 | [Graduate Hardware Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4823805101) | 64 | Chicago, United States | — | 2026-07-01 |
 | [Hardware Machine Learning PhD Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, IL | AI/ML/Data | 2026-05-09 |
-| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
+| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
 
 ## InfiniteQuant
 
@@ -3813,8 +3812,8 @@
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-07-09 |
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-07-09 |
 | [Corporate Access, off-cycle internship (6-months) – Japanese speaking](https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002) | 58 | Hong Kong | — | 2026-06-30 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -4944,12 +4943,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Quantitative Developer Intern](https://voloridge-investment-management.hiringthing.com/job/1013126/quantitative-developer-intern-2027?s=lif&jr_id=69eaa8e4dc35f7132c4ab803) | 85 | Jupiter, FL | — | 2026-07-09 |
-
-## W.R. Berkley
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Business and Data Analyst Intern](https://careers-berkley.icims.com/jobs/13507/job?mobile=true&needsRedirect=false) | 60 | Farmington, CT | AI/ML/Data | 2026-05-09 |
 
 ## Waabi
 
