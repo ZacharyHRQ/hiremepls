@@ -1,6 +1,6 @@
 # Open Internships
 
-**1635** internships across **143/143** companies — last updated 2026-07-30.
+**1629** internships across **143/143** companies — last updated 2026-07-30.
 
 ## Companies
 
@@ -105,7 +105,6 @@
 - [CareScout](#carescout) (1)
 - [Castleton Commodities International](#castleton-commodities-international) (8)
 - [Caterpillar Inc.](#caterpillar-inc) (1)
-- [CCC Intelligent Solutions](#ccc-intelligent-solutions) (1)
 - [Centerfield](#centerfield) (3)
 - [Centific](#centific) (1)
 - [Cerebras](#cerebras) (3)
@@ -387,7 +386,7 @@
 - [Oracle](#oracle) (7)
 - [Orennia](#orennia) (1)
 - [Outpost Technologies](#outpost-technologies) (1)
-- [Output Biosciences](#output-biosciences) (2)
+- [Output Biosciences](#output-biosciences) (1)
 - [Palantir](#palantir) (64)
 - [Palo Alto Networks](#palo-alto-networks) (1)
 - [Paragon](#paragon) (1)
@@ -410,7 +409,7 @@
 - [Pika](#pika) (2)
 - [Pine Rest](#pine-rest) (1)
 - [Pinterest](#pinterest) (2)
-- [PlusAI](#plusai) (12)
+- [PlusAI](#plusai) (9)
 - [Point72](#point72) (19)
 - [pony.ai](#pony-ai) (2)
 - [Pony.ai](#pony-ai) (2)
@@ -503,7 +502,7 @@
 - [Tencent](#tencent) (13)
 - [Tenstorrent](#tenstorrent) (7)
 - [Terranox AI](#terranox-ai) (1)
-- [Tesla](#tesla) (88)
+- [Tesla](#tesla) (87)
 - [TETRAMEM](#tetramem) (1)
 - [Tevora](#tevora) (8)
 - [Texas Instruments](#texas-instruments) (1)
@@ -1486,12 +1485,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [2026 Engineering Internship Program- Metallurgical Engineering](https://www.linkedin.com/jobs/view/4260034721) | 42 | Mossville, IL | — | 2026-07-09 |
-
-## CCC Intelligent Solutions
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Applied AI Engineering Intern](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Applied-AI-Engineering-Intern_0014827) | 68 | Chicago (Green St), IL | Data & ML/AI / Not stated | 2026-07-30 |
 
 ## Centerfield
 
@@ -3504,7 +3497,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Research Intern - Machine Learning](https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239/application) | 68 | SF / NYC | AI/ML/Data | 2026-07-04 |
 | [Research Intern, Machine Learning](https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239) | 68 | New York, NY / San Francisco, CA | Data Science, AI & Machine Learning | 2026-05-09 |
 
 ## Palantir
@@ -3724,10 +3716,7 @@
 | --- | --- | --- | --- | --- |
 | [Research Engineer Intern](https://jobs.lever.co/plus-2/5f066e92-3ca3-4c04-ae21-2377352166ca/apply) | 93 | Santa Clara, CA | AI/ML/Data | 2026-05-27 |
 | [Research Engineer Intern - Mapping & Localization](https://jobs.lever.co/plus-2/efbb82d3-1c4a-4fc9-8b40-ee1545085061/apply) | 93 | Santa Clara, CA | AI/ML/Data | 2026-05-27 |
-| [Deep Learning Intern](https://jobs.lever.co/plus-2/58d77886-bf3a-4707-8af8-e1af47162e2e/apply) | 68 | Santa Clara, CA | AI/ML/Data | 2026-05-27 |
 | [Computer Vision Engineer Intern](https://jobs.lever.co/plus-2/c143df6e-66c2-4498-b19b-8323f9954ca9/apply) | 93 | Santa Clara, CA | AI/ML/Data | 2026-05-27 |
-| [Perception Intern](https://jobs.lever.co/plus-2/e4b669b3-c07f-4b5f-abb6-c1c6db602a64/apply) | 68 | Santa Clara, CA | AI/ML/Data | 2026-05-27 |
-| [Systems Engineer Intern](https://jobs.lever.co/plus-2/1864b1be-25e5-424f-9626-09e58f6147f2/apply) | 93 | Santa Clara, CA | Software | 2026-05-27 |
 | [Machine Learning Engineer Intern - Planning](https://jobs.lever.co/plus-2/91a07eb1-2244-48bf-a65b-dc166a327ddc/apply) | 93 | Santa Clara, CA | AI/ML/Data | 2026-05-24 |
 | [Software Engineer Intern-Runtime - Robotics](https://jobs.lever.co/plus-2/a3bcdba6-b0d0-46ba-9af3-a387926a6fb4/apply) | 93 | Santa Clara, CA | Hardware | 2026-05-24 |
 | [Scenario Simulation Intern](https://jobs.lever.co/plus-2/b4f750e7-0148-41f0-b2b1-ff054450a320/apply) | 68 | Santa Clara, CA | AI/ML/Data | 2026-05-23 |
@@ -4506,7 +4495,6 @@
 | [Software Engineer Intern - Software Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/271362) | 85 | Palo Alto, CA / Fremont, CA | Software | 2026-06-07 |
 | [Software Engineer Intern - Software Engineer - Information Security](https://www.tesla.com/careers/search/job/270497) | 85 | Bellevue, WA | Software | 2026-06-07 |
 | [Software Engineer Intern - Software Engineer - IT Apps](https://www.tesla.com/careers/search/job/271209) | 85 | Fremont, CA | Software | 2026-06-07 |
-| [Software Integration Engineer Intern - Software Integration Engineer - Service Tooling](https://www.tesla.com/careers/search/job/271866) | 85 | Fremont, CA | Hardware | 2026-06-07 |
 | [Data Analyst Intern - Data Analyst - Energy](https://www.tesla.com/careers/search/job/271329) | 60 | Fremont, CA | AI/ML/Data | 2026-06-07 |
 | [Energy System Optimization Intern - Energy Optimization Software](https://www.tesla.com/careers/search/job/271349) | 60 | Palo Alto, CA / Fremont, CA / Austin, TX | AI/ML/Data | 2026-06-07 |
 | [Software Engineering Intern - Software Engineering - Service Engineering](https://www.tesla.com/careers/search/job/266119) | 60 | Palo Alto, CA | Software | 2026-06-07 |

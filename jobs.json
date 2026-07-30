@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-30T20:54:51.198Z",
+  "generatedAt": "2026-07-30T21:58:39.759Z",
   "companyCount": 143,
   "okCount": 143,
-  "jobCount": 1635,
+  "jobCount": 1629,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -219,15 +219,12 @@
     "canonical:0909350769decf2b": "2026-05-27T02:52:54.000Z",
     "canonical:da1d1f81b47de301": "2026-05-27T02:52:54.000Z",
     "canonical:aaf453fcebecd6b3": "2026-05-27T02:52:54.000Z",
-    "canonical:26834ab146689c4d": "2026-05-27T02:52:54.000Z",
     "canonical:7cd11e7ec9f67cb6": "2026-05-27T06:54:37.687Z",
     "canonical:20085e5eef82ddf3": "2026-05-27T10:47:24.465Z",
     "canonical:e87b9219892bc7ee": "2026-05-27T14:19:21.217Z",
     "canonical:5391ceaa9b10ee30": "2026-05-27T14:19:21.217Z",
-    "canonical:54a1ed2427bb13ad": "2026-05-27T14:19:21.217Z",
     "canonical:fdcbfd1a53fb0e8a": "2026-05-27T17:38:56.111Z",
     "canonical:dc784fbedc1313dc": "2026-05-27T17:38:56.111Z",
-    "canonical:4c90073ef9333aec": "2026-05-27T17:38:56.111Z",
     "canonical:5356f8a7b55607a4": "2026-05-27T17:38:56.111Z",
     "canonical:73cd4f2761a3469b": "2026-05-27T21:45:52.221Z",
     "canonical:e0d5ce31dfaf1a2a": "2026-05-27T21:45:52.221Z",
@@ -286,7 +283,6 @@
     "canonical:7ab57e97fb879c0f": "2026-06-06T15:40:28.831Z",
     "canonical:85735fa4cd042164": "2026-06-06T17:59:37.822Z",
     "canonical:7906b1bff6dfef42": "2026-06-07T01:56:06.706Z",
-    "canonical:9de45eedb1335ef6": "2026-06-07T01:56:06.706Z",
     "canonical:186d139d517116a9": "2026-06-07T01:56:06.706Z",
     "canonical:0dd89319a7c4740f": "2026-06-07T01:56:06.706Z",
     "canonical:5f5f4291563c764e": "2026-06-07T01:56:06.706Z",
@@ -499,7 +495,6 @@
     "canonical:2696d27e53de0c2e": "2026-07-03T07:37:01.415Z",
     "canonical:2e3063b0200f566c": "2026-07-03T12:23:04.459Z",
     "canonical:1af904be74b273c4": "2026-07-03T16:11:18.836Z",
-    "canonical:d83eba2924c17739": "2026-07-04T09:50:25.841Z",
     "canonical:69629f2e556a8b42": "2026-07-04T15:29:35.645Z",
     "canonical:0b183a378a19c53a": "2026-07-04T15:29:35.645Z",
     "canonical:c685309cdcec6f5d": "2026-07-05T18:44:25.098Z",
@@ -1637,8 +1632,7 @@
     "canonical:c5c0535f6dd18864": "2026-07-30T16:56:57.416Z",
     "canonical:01c32ec544ff3ad4": "2026-07-30T16:56:57.416Z",
     "canonical:27cae929a3c10453": "2026-07-30T16:56:57.416Z",
-    "canonical:049b5dcec2861158": "2026-07-30T18:11:25.157Z",
-    "canonical:0a7f1c1ed0ae4b7a": "2026-07-30T18:11:25.157Z"
+    "canonical:049b5dcec2861158": "2026-07-30T18:11:25.157Z"
   },
   "jobs": [
     {
@@ -5996,18 +5990,6 @@
       ]
     },
     {
-      "id": "canonical:c4899e61c3f2d9c6",
-      "title": "Applied Research Intern Co-op",
-      "url": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Block",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:0942563fedd29433",
       "title": "Applied Research Intern PhD / Graduate Co-op",
       "url": "http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008",
@@ -6018,6 +6000,18 @@
       "scoreReasons": [
         "high-signal role",
         "new grad"
+      ]
+    },
+    {
+      "id": "canonical:c4899e61c3f2d9c6",
+      "title": "Applied Research Intern Co-op",
+      "url": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
+      "location": "Toronto, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "Block",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
       ]
     },
     {
@@ -10913,20 +10907,6 @@
       ]
     },
     {
-      "id": "canonical:26834ab146689c4d",
-      "title": "Systems Engineer Intern",
-      "url": "https://jobs.lever.co/plus-2/1864b1be-25e5-424f-9626-09e58f6147f2/apply",
-      "location": "Santa Clara, CA",
-      "department": "Software",
-      "company": "PlusAI",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:7cd11e7ec9f67cb6",
       "title": "Research Intern - Agent Reinforcement Learning Training",
       "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4684555006",
@@ -10994,19 +10974,6 @@
       ]
     },
     {
-      "id": "canonical:54a1ed2427bb13ad",
-      "title": "Perception Intern",
-      "url": "https://jobs.lever.co/plus-2/e4b669b3-c07f-4b5f-abb6-c1c6db602a64/apply",
-      "location": "Santa Clara, CA",
-      "department": "AI/ML/Data",
-      "company": "PlusAI",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:dc784fbedc1313dc",
       "title": "Research Engineer Intern - Mapping & Localization",
       "url": "https://jobs.lever.co/plus-2/efbb82d3-1c4a-4fc9-8b40-ee1545085061/apply",
@@ -11016,19 +10983,6 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:4c90073ef9333aec",
-      "title": "Deep Learning Intern",
-      "url": "https://jobs.lever.co/plus-2/58d77886-bf3a-4707-8af8-e1af47162e2e/apply",
-      "location": "Santa Clara, CA",
-      "department": "AI/ML/Data",
-      "company": "PlusAI",
-      "score": 68,
-      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
@@ -11699,19 +11653,6 @@
       "url": "https://www.tesla.com/careers/search/job/270497",
       "location": "Bellevue, WA",
       "department": "Software",
-      "company": "Tesla",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:9de45eedb1335ef6",
-      "title": "Software Integration Engineer Intern - Software Integration Engineer - Service Tooling",
-      "url": "https://www.tesla.com/careers/search/job/271866",
-      "location": "Fremont, CA",
-      "department": "Hardware",
       "company": "Tesla",
       "score": 85,
       "scoreReasons": [
@@ -14771,19 +14712,6 @@
         "high-signal role",
         "direct ATS",
         "lower-fit title"
-      ]
-    },
-    {
-      "id": "canonical:d83eba2924c17739",
-      "title": "Research Intern - Machine Learning",
-      "url": "https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239/application",
-      "location": "SF / NYC",
-      "department": "AI/ML/Data",
-      "company": "Output Biosciences",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -22091,19 +22019,6 @@
       "location": "Cambridge, MA",
       "department": "Software / Summer 2027",
       "company": "Draper",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:0a7f1c1ed0ae4b7a",
-      "title": "Applied AI Engineering Intern",
-      "url": "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Applied-AI-Engineering-Intern_0014827",
-      "location": "Chicago (Green St), IL",
-      "department": "Data & ML/AI / Not stated",
-      "company": "CCC Intelligent Solutions",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
