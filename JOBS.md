@@ -1,6 +1,6 @@
 # Open Internships
 
-**1633** internships across **143/143** companies — last updated 2026-07-30.
+**1644** internships across **143/143** companies — last updated 2026-07-30.
 
 ## Companies
 
@@ -115,6 +115,7 @@
 - [Chainguard](#chainguard) (1)
 - [Chanel](#chanel) (1)
 - [Chartwells Higher Education Dining Services](#chartwells-higher-education-dining-services) (1)
+- [CHEP](#chep) (1)
 - [Cherry Bekaert](#cherry-bekaert) (2)
 - [Chevron Corporation](#chevron-corporation) (4)
 - [Chicago Trading Company](#chicago-trading-company) (3)
@@ -125,6 +126,7 @@
 - [Cisive](#cisive) (1)
 - [Citadel](#citadel) (13)
 - [Citadel Securities](#citadel-securities) (11)
+- [City of Austin](#city-of-austin) (1)
 - [Clarity Innovations](#clarity-innovations) (1)
 - [Clera](#clera) (1)
 - [Clerkie](#clerkie) (1)
@@ -223,7 +225,7 @@
 - [Fundwell](#fundwell) (1)
 - [Fussball Club Cincinnati LLC (“FC Cincinnati”)](#fussball-club-cincinnati-llc-fc-cincinnati) (1)
 - [G-Research](#g-research) (4)
-- [GE Healthcare](#ge-healthcare) (2)
+- [GE Healthcare](#ge-healthcare) (1)
 - [GE Vernova](#ge-vernova) (3)
 - [Geisinger](#geisinger) (1)
 - [Gemini](#gemini) (2)
@@ -313,8 +315,9 @@
 - [LexisNexis Risk Solutions](#lexisnexis-risk-solutions) (1)
 - [LinkedIn](#linkedin) (3)
 - [Littelfuse](#littelfuse) (1)
+- [Loop](#loop) (1)
 - [Louisiana State University (LSU)](#louisiana-state-university-lsu) (1)
-- [Magna](#magna) (2)
+- [Magna](#magna) (3)
 - [Magna International](#magna-international) (1)
 - [Maher Duessel](#maher-duessel) (1)
 - [MaloneBailey, LLP](#malonebailey-llp) (1)
@@ -350,7 +353,6 @@
 - [Moon](#moon) (1)
 - [Mosaic](#mosaic) (1)
 - [Moss & Associates](#moss-associates) (1)
-- [Motorola](#motorola) (1)
 - [Multiply Labs](#multiply-labs) (2)
 - [Muru](#muru) (2)
 - [MyEmployment](#myemployment) (1)
@@ -400,7 +402,7 @@
 - [PDT Partners](#pdt-partners) (2)
 - [Pendulum Intelligence](#pendulum-intelligence) (1)
 - [PennState University](#pennstate-university) (1)
-- [Pennsylvania State University](#pennsylvania-state-university) (9)
+- [Pennsylvania State University](#pennsylvania-state-university) (10)
 - [Peraton](#peraton) (1)
 - [Periodic Labs](#periodic-labs) (1)
 - [Perplexity](#perplexity) (3)
@@ -451,7 +453,7 @@
 - [Rockwell Automation](#rockwell-automation) (2)
 - [ROCKWOOL Group](#rockwool-group) (1)
 - [Royal Bank of Canada](#royal-bank-of-canada) (4)
-- [RTX](#rtx) (2)
+- [RTX](#rtx) (1)
 - [Samaya](#samaya) (1)
 - [Samsung Research America](#samsung-research-america) (1)
 - [Sandhills Global](#sandhills-global) (2)
@@ -504,11 +506,12 @@
 - [Technergetics](#technergetics) (1)
 - [Techtronic Industries](#techtronic-industries) (1)
 - [Teledyne](#teledyne) (1)
-- [Tencent](#tencent) (14)
+- [Tencent](#tencent) (15)
 - [Tenstorrent](#tenstorrent) (7)
 - [Terranox AI](#terranox-ai) (1)
 - [Tesla](#tesla) (88)
 - [TETRAMEM](#tetramem) (1)
+- [Tevora](#tevora) (8)
 - [Texas Instruments](#texas-instruments) (1)
 - [The Boeing Company](#the-boeing-company) (1)
 - [The D. E. Shaw Group](#the-d-e-shaw-group) (1)
@@ -1558,6 +1561,12 @@
 | --- | --- | --- | --- | --- |
 | [Field Marketing Intern, Chartwells Higher Ed / University of North Carolina](https://www.linkedin.com/jobs/view/4261076817) | 22 | Charlotte, NC | — | 2026-07-09 |
 
+## CHEP
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [FP&A Business Intelligence Intern](https://brambles.wd5.myworkdayjobs.com/en-US/Brambles_Careers/job/London-England-United-Kingdom/FP-A-Business-Intelligence-Intern_JR23946-1) | 68 | London, UK / Orlando, FL / Atlanta, GA | AI/ML/Data | 2026-07-30 |
+
 ## Cherry Bekaert
 
 | Title | Score | Location | Department | First seen |
@@ -1652,6 +1661,12 @@
 | [Machine Learning Researcher PhD Intern](https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-intern-us/) | 85 | Miami, FL / NYC | AI/ML/Data | 2026-07-01 |
 | [Quantitative Research Engineer Intern](https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-intern-us/) | 85 | Miami, FL / NYC | Quant | 2026-07-01 |
 
+## City of Austin
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Austin Aviation Undergraduate Intern - IT Business Systems Analyst](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/AUS-Information-Systems-Building-IS/Austin-Aviation--IT-Business-Systems-Analyst---Undergraduate-Intern_JR104583) | 68 | Austin, TX | AI/ML/Data | 2026-07-30 |
+
 ## Clarity Innovations
 
 | Title | Score | Location | Department | First seen |
@@ -1682,14 +1697,14 @@
 | --- | --- | --- | --- | --- |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-07-29 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Brand Social Media Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8054093?gh_jid=8054093) | 58 | In-Office | — | 2026-07-10 |
 | [Marketing Events and Campaigns Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8053546?gh_jid=8053546) | 38 | In-Office | — | 2026-07-09 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
 
 ## Cloudforce
 
@@ -1771,7 +1786,7 @@
 | [Database Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Database-Engineering-Intern_JR109636) | 93 | Dallas, TX | Software | 2026-07-30 |
 | [Data Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Engineering-Intern_JR110075) | 93 | Dallas, TX | AI/ML/Data | 2026-07-29 |
 | [Software Engineering Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR106129) | 68 | Dallas, TX | Software | 2026-07-23 |
-| [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393) | 93 | Dallas, TX | Software | 2026-07-21 |
+| [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109441) | 93 | Dallas, TX | Software | 2026-07-21 |
 | [Technology Product Analyst Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107890) | 58 | Dallas, TX | Product | 2026-07-21 |
 | [DevOps Engineering Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/DevOps-Engineering-Intern_JR109490) | 68 | Dallas, TX - Headquarters | Software / Not stated | 2026-07-20 |
 
@@ -2331,7 +2346,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Engineering Development Program Intern - Software](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Intern---Software_R4043933-2) | 68 | Waukesha, WI | AI/ML/Data | 2026-07-29 |
 | [Engineering Development Program Intern - Hardware](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Internship---Hardware_R4043923-1) | 58 | Twinsburg, OH / Waukesha, WI | Hardware | 2026-07-29 |
 
 ## GE Vernova
@@ -2680,8 +2694,8 @@
 | [Graduate Quantitative Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4751729101) | 74 | Chicago, United States | — | 2026-07-01 |
 | [Graduate Hardware Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4823805101) | 64 | Chicago, United States | — | 2026-07-01 |
 | [Hardware Machine Learning PhD Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, IL | AI/ML/Data | 2026-05-09 |
-| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4635938101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
+| [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
 
 ## InfiniteQuant
 
@@ -2958,8 +2972,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Data Science Intern](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Data-Science-Intern_R-00188405) | 68 | San Diego, CA | AI/ML/Data | 2026-07-29 |
-| [Application Developer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Indianapolis-IN/Application-Developer-Intern_R-00188193-1) | 93 | Indianapolis, IN | Software / Not stated | 2026-07-29 |
+| [Data Science Intern](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Data-Science-Intern_R-00188405) | 68 | San Diego, CA | Data & ML/AI / Not stated | 2026-07-29 |
+| [Application Developer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Indianapolis-IN/Application-Developer-Intern_R-00188193-1) | 93 | Indianapolis, IN | Software | 2026-07-29 |
 | [Software Developer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00188311) | 93 | Annapolis Junction, MD | Software | 2026-07-29 |
 
 ## Lensa
@@ -2990,6 +3004,12 @@
 | --- | --- | --- | --- | --- |
 | [Intern 1 - Engineering](https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-Careers/job/Dole/Intern-I--engineering_JR-112116) | 68 | Gastonia, NC | Software | 2026-07-21 |
 
+## Loop
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data Scientist Intern](https://ats.rippling.com/loop-careers/jobs/e016b693-7ce9-4dad-95ff-03b934fbd580) | 85 | Toronto, ON, Canada | AI/ML/Data | 2026-07-30 |
+
 ## Louisiana State University (LSU)
 
 | Title | Score | Location | Department | First seen |
@@ -3000,6 +3020,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [R&D-Computer Vision Engineer Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/R-D--Computer-Vision-Engineering-Intern_R00253444-1) | 85 | Troy, MI | AI/ML/Data | 2026-07-30 |
 | [Student Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Highland-Park-Michigan-US/Student-Intern---Engineering-1_R00240865) | 60 | Ferndale, MI | AI/ML/Data | 2026-07-30 |
 | [Product Engineering Engineer Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Grand-Rapids-Michigan-US/Product-Engineering-Intern_R00243272) | 85 | Grand Rapids, MI | Software | 2026-07-24 |
 
@@ -3238,12 +3259,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Construction Technologies Intern](https://mosscm.wd1.myworkdayjobs.com/moss_careers/job/FORT-LAUDERDALE-FL/Construction-Technologies-Internship_R-2710) | 68 | McKinney, TX / Tampa, FL / Fort Lauderdale, FL | AI/ML/Data | 2026-07-21 |
-
-## Motorola
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Intern - Embedded Software, System, and Test Engineer - 2026](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/Intern---Embedded-Software--System--and-Test-Engineer---2026_R62372) | 93 | Irvine, CA | Software / Fall 2026 | 2026-07-13 |
 
 ## Multiply Labs
 
@@ -3653,6 +3668,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Research Engineering Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Engineering-Interns_REQ_0000080335-1) | 68 | State College, PA | Software | 2026-07-30 |
 | [Graduate Researcher - Redwing Group - Materials Science and Engineering](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Graduate-Researcher---Redwing-Group----Materials-Science-and-Engineering_REQ_0000080560-1) | 99 | State College, PA | AI/ML/Data | 2026-07-23 |
 | [CSE Researcher-Narayanan Intern - V](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/CSE-Part-Time-Researcher-Narayanan--V_REQ_0000078135-1) | 93 | State College, PA | AI/ML/Data | 2026-07-21 |
 | [Research Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Intern_REQ_0000077386-1) | 68 | State College, PA | AI/ML/Data | 2026-07-21 |
@@ -3773,8 +3789,8 @@
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-07-09 |
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-07-09 |
 | [Corporate Access, off-cycle internship (6-months) – Japanese speaking](https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002) | 58 | Hong Kong | — | 2026-06-30 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -4034,7 +4050,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--Summer-2027-_01862842) | 93 | State College, PA | Software | 2026-07-29 |
 | [Machine Learning Researcher Intern/Co-op](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-RTRC-K--411-Silver-Ln--RTRC-K/Fall-2026--Intern-Coop--Machine-Learning-Researcher_01860050) | 93 | Hartford, CT | AI/ML/Data | 2026-07-28 |
 
 ## Samaya
@@ -4422,6 +4437,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Research Intern – Video World Models (Research & ML Systems)](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752-1) | 68 | US-California-Palo Alto | Data & ML/AI / Not stated | 2026-07-30 |
 | [Hunyuan Multimodal Algorithm Researcher Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-Intern-Omni-Modal---_R107051) | 93 | Palo Alto, CA | AI/ML/Data | 2026-07-29 |
 | [Multimedia Development Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Multimedia-development-intern_R107331) | 68 | Palo Alto, CA | AI/ML/Data | 2026-07-29 |
 | [Game Research & Development Intern - Engine Research](https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/US-Washington-Bellevue/Game-Research---Development-Intern--Engine-Research_R107363) | 68 | Bellevue, WA | Software | 2026-07-22 |
@@ -4553,6 +4569,19 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern, Embedded](https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job) | 85 | San Jose, CA | — | 2026-07-09 |
+
+## Tevora
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Cybersecurity Internship Fall 2026 - Enterprise Risk Management](https://jobs.lever.co/tevora/1be28747-e28c-43af-b38c-087452263f96) | 68 | Irvine, CA | Security / Fall 2026 | 2026-07-30 |
+| [Cybersecurity Internship Fall 2026 - Federal](https://jobs.lever.co/tevora/335ec3e2-c7ee-4e4c-b4a9-04428999e954) | 68 | Fairfax, VA | Security / Fall 2026 | 2026-07-30 |
+| [Cybersecurity Internship Fall 2026 - Healthcare](https://jobs.lever.co/tevora/f3d10f98-0ee6-4ad7-a1a0-6863ff008adf) | 68 | Irvine, CA | Security / Fall 2026 | 2026-07-30 |
+| [Cybersecurity Internship Fall 2026 - International Organization for Standardization (ISO)](https://jobs.lever.co/tevora/dd7cd048-9997-425d-b1f4-d13f37c66df0) | 68 | Irvine, CA | Security / Fall 2026 | 2026-07-30 |
+| [Cybersecurity Internship Fall 2026 - Payments](https://jobs.lever.co/tevora/c0af26d1-51b0-41ba-9916-a208c1cafc29) | 68 | Fairfax, VA | Security / Fall 2026 | 2026-07-30 |
+| [Cybersecurity Internship Fall 2026 - Solutions](https://jobs.lever.co/tevora/23fb4ead-6204-4f9b-9a60-9c28b7d1d3dc) | 68 | Irvine, CA | Security / Fall 2026 | 2026-07-30 |
+| [Cybersecurity Internship Fall 2026 - Systems and Organizations Controls (SOC)](https://jobs.lever.co/tevora/fe730e76-b19c-4026-97d6-f4b6120b299e) | 68 | Irvine, CA | Security / Fall 2026 | 2026-07-30 |
+| [Cybersecurity Internship Fall 2026 - Threat](https://jobs.lever.co/tevora/5bec7454-0bde-4db3-85ec-f0af7a0a1733) | 68 | Irvine, CA | Security / Fall 2026 | 2026-07-30 |
 
 ## Texas Instruments
 
