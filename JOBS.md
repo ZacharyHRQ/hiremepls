@@ -1,6 +1,6 @@
 # Open Internships
 
-**1639** internships across **143/143** companies — last updated 2026-07-30.
+**1636** internships across **143/143** companies — last updated 2026-07-30.
 
 ## Companies
 
@@ -14,7 +14,6 @@
 - [AeroVironment](#aerovironment) (1)
 - [AfterQuery](#afterquery) (1)
 - [AI Fund](#ai-fund) (3)
-- [Airbnb](#airbnb) (1)
 - [Akuna Capital](#akuna-capital) (11)
 - [Al Warren Oil Company](#al-warren-oil-company) (1)
 - [AlixPartners](#alixpartners) (1)
@@ -502,7 +501,7 @@
 - [Technergetics](#technergetics) (1)
 - [Techtronic Industries](#techtronic-industries) (1)
 - [Teledyne](#teledyne) (1)
-- [Tencent](#tencent) (14)
+- [Tencent](#tencent) (13)
 - [Tenstorrent](#tenstorrent) (7)
 - [Terranox AI](#terranox-ai) (1)
 - [Tesla](#tesla) (88)
@@ -541,7 +540,6 @@
 - [University of Virginia](#university-of-virginia) (1)
 - [University System of New Hampshire](#university-system-of-new-hampshire) (1)
 - [Vanguard](#vanguard) (1)
-- [Varda Space](#varda-space) (1)
 - [Veeam Software](#veeam-software) (2)
 - [Veeda AI](#veeda-ai) (2)
 - [Veeva](#veeva) (1)
@@ -642,12 +640,6 @@
 | [Engineer in Residence: Enterprise Agent Infrastructure Intern](https://jobs.lever.co/AIFund/0b219991-32db-4827-b052-7207faac151d/apply) | 93 | Mountain View, CA | Software | 2026-07-20 |
 | [Visiting Engineer: Briocare Intern](https://jobs.lever.co/AIFund/a5f3a47b-93e0-4941-9061-b3ee1ed82959/apply) | 93 | Mountain View, CA | Software | 2026-07-20 |
 | [Visiting Engineer: Live Selling Copilot Intern](https://jobs.lever.co/AIFund/6b9fc8cd-f405-48ca-a071-5873a9233ef4/apply) | 93 | Mountain View, CA | Software | 2026-07-20 |
-
-## Airbnb
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Sales Operations Intern, Italy](https://careers.airbnb.com/positions/7979270?gh_jid=7979270) | 30 | Milan, Italy | — | 2026-07-20 |
 
 ## Akuna Capital
 
@@ -1692,7 +1684,7 @@
 | [Marketing Events and Campaigns Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8053546?gh_jid=8053546) | 38 | In-Office | — | 2026-07-09 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
 
 ## Cloudforce
 
@@ -3759,8 +3751,8 @@
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-07-09 |
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-07-09 |
 | [Corporate Access, off-cycle internship (6-months) – Japanese speaking](https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002) | 58 | Hong Kong | — | 2026-06-30 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -4419,7 +4411,6 @@
 | [Hunyuan Multimodal Reinforcement Learning Research Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Reinforcement-Learning-Research-Intern_R107084-1) | 68 | Palo Alto, CA | AI/ML/Data | 2026-07-21 |
 | [Video Generation Content Understanding and Feedback Research Intern](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/UK-London/Video-Generation-Content-Understanding-and-Feedback-Research-Intern_R107680) | 68 | London, UK | AI/ML/Data | 2026-07-21 |
 | [Agent Evaluation Intern](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/UK-London/Agent-Evaluation-Intern_R107491) | 68 | London, UK | Software | 2026-07-21 |
-| [AI Agent Research & Application Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/AI-Agent-Research---Application-Intern_R106432-1) | 68 | London, UK | AI/ML/Data | 2026-07-21 |
 | [NLP Research Intern](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/UK-London/NLP-Research-Intern_R106758) | 68 | London, UK | AI/ML/Data | 2026-07-21 |
 | [Software Engineering Intern - PC Game Client Development](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Software-Engineering-Intern_R107162-1) | 68 | London, UK | Software | 2026-07-07 |
 | [Hunyuan Multimodal Algorithm Researcher intern - Omni-Modal](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650) | 93 | Palo Alto, CA | AI/ML/Data | 2026-06-13 |
@@ -4827,12 +4818,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [College to Corporate Internship - Application Development (PA)](https://jobright.ai/jobs/info/685c0c24346ed107ef4ed397?utm_source=1099&utm_campaign=Software%20Engineer) | 42 | Malvern, PA | — | 2026-07-09 |
-
-## Varda Space
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Flight Software Internship - Fall 2026](https://job-boards.greenhouse.io/vardaspace/jobs/7676465003) | 68 | El Segundo, California, United States | Software / Fall 2026 | 2026-07-30 |
 
 ## Veeam Software
 
