@@ -1,6 +1,6 @@
 # Open Internships
 
-**1640** internships across **143/143** companies — last updated 2026-07-30.
+**1642** internships across **143/143** companies — last updated 2026-07-30.
 
 ## Companies
 
@@ -21,7 +21,7 @@
 - [AlixPartners](#alixpartners) (1)
 - [Altasciences](#altasciences) (1)
 - [Altom Transport](#altom-transport) (2)
-- [Amazon](#amazon) (169)
+- [Amazon](#amazon) (168)
 - [Ambarella](#ambarella) (8)
 - [Amentum](#amentum) (1)
 - [American Enterprise Institute](#american-enterprise-institute) (1)
@@ -68,7 +68,6 @@
 - [BAE Systems](#bae-systems) (1)
 - [Bank of America](#bank-of-america) (1)
 - [Bank of Montreal](#bank-of-montreal) (2)
-- [Barclays](#barclays) (1)
 - [Barkback](#barkback) (1)
 - [Base Power](#base-power) (3)
 - [Beacon Software](#beacon-software) (2)
@@ -105,7 +104,7 @@
 - [Cadence Design Systems](#cadence-design-systems) (5)
 - [CAE](#cae) (1)
 - [Capella](#capella) (2)
-- [Capital One](#capital-one) (1)
+- [Capital One](#capital-one) (2)
 - [CareScout](#carescout) (1)
 - [Castleton Commodities International](#castleton-commodities-international) (8)
 - [Caterpillar Inc.](#caterpillar-inc) (1)
@@ -131,7 +130,7 @@
 - [Clera](#clera) (1)
 - [Clerkie](#clerkie) (1)
 - [CloudFit Software](#cloudfit-software) (1)
-- [Cloudflare](#cloudflare) (10)
+- [Cloudflare](#cloudflare) (11)
 - [Cloudforce](#cloudforce) (1)
 - [CME Group](#cme-group) (1)
 - [Codeage](#codeage) (1)
@@ -175,14 +174,13 @@
 - [DoorDash](#doordash) (1)
 - [Draper](#draper) (2)
 - [Droyd Robotics](#droyd-robotics) (2)
-- [DRW](#drw) (20)
+- [DRW](#drw) (21)
 - [Dryft](#dryft) (1)
 - [DTCC](#dtcc) (1)
 - [DuPont](#dupont) (5)
 - [Duracell](#duracell) (1)
 - [East Penn Manufacturing Company](#east-penn-manufacturing-company) (3)
 - [EdgeTrace](#edgetrace) (1)
-- [Ekimetrics](#ekimetrics) (1)
 - [Electronic Arts](#electronic-arts) (1)
 - [Eluvio](#eluvio) (1)
 - [Engineers Gate](#engineers-gate) (1)
@@ -381,7 +379,7 @@
 - [Occidental Petroleum](#occidental-petroleum) (1)
 - [Octaura](#octaura) (1)
 - [Odin Dynamics, Inc](#odin-dynamics-inc) (1)
-- [Old Mission](#old-mission) (5)
+- [Old Mission](#old-mission) (6)
 - [Oligo Space](#oligo-space) (1)
 - [Omnis](#omnis) (1)
 - [onsemi](#onsemi) (2)
@@ -451,7 +449,7 @@
 - [Rockwell Automation](#rockwell-automation) (2)
 - [ROCKWOOL Group](#rockwool-group) (1)
 - [Royal Bank of Canada](#royal-bank-of-canada) (4)
-- [RTX](#rtx) (3)
+- [RTX](#rtx) (4)
 - [Samaya](#samaya) (1)
 - [Samsung Research America](#samsung-research-america) (1)
 - [Sandhills Global](#sandhills-global) (2)
@@ -744,7 +742,6 @@
 | [Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)](https://amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us) | 85 | Seattle | Software Development | 2026-07-20 |
 | [Software Development Engineer Internship - Fall 2026 (US)](https://amazon.jobs/en/jobs/3116030/software-development-engineer-internship-fall-2026-us) | 85 | Seattle | Software Development | 2026-07-20 |
 | [Software Development Engineer Internship - Vaga para mulheres, IES- LATECH](https://amazon.jobs/en/jobs/3139827/software-development-engineer-internship-vaga-para-mulheres-ies-latech) | 85 | Virtual | Administrative Support | 2026-07-20 |
-| [Software Development Engineer Internship, Costa Rica](https://amazon.jobs/en/jobs/3126072/software-development-engineer-internship-costa-rica) | 85 | San Jose | Software Development | 2026-07-20 |
 | [Software Development Engineer Internship, Guadalajara](https://amazon.jobs/en/jobs/3123243/software-development-engineer-internship-guadalajara) | 85 | Zapopan | Software Development | 2026-07-20 |
 | [Software Development Engineer Internship, Mexico City](https://amazon.jobs/en/jobs/3123246/software-development-engineer-internship-mexico-city) | 85 | Mexico City | Software Development | 2026-07-20 |
 | [Graduate Network Dev Engineer](https://amazon.jobs/en/jobs/3023635/graduate-network-dev-engineer) | 81 | Sydney | Operations, IT, & Support Engineering | 2026-07-20 |
@@ -1212,12 +1209,6 @@
 | [Market Risk Analyst Co-op/Intern](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Market-Risk-Analyst--Fall-2026--Co-op-Internship----4-Months_R260022055) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-07-24 |
 | [Data Scientist Co-op/Internship - Months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879) | 93 | Toronto, ON, Canada | AI/ML/Data | 2026-07-22 |
 
-## Barclays
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Markets Quantitative Analyst Summer Internship 2027 New York](https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/745-7th-Avenue-New-York/Markets-Quantitative-Analyst-Summer-Internship-2027-New-York_JR-0000083408) | 68 | New York, NY | Quantitative Finance | 2026-07-20 |
-
 ## Barkback
 
 | Title | Score | Location | Department | First seen |
@@ -1491,6 +1482,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Full Stack Software Engineer Intern](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Fall-2026_R246990) | 93 | Toronto, ON, Canada | Software | 2026-07-30 |
 | [Data Analyst Intern](https://www.capitalonecareers.com/job/mclean/data-analyst-intern-summer-2027/31238/97421687472) | 50 | Mclean, VA | — | 2026-07-09 |
 
 ## CareScout
@@ -1692,6 +1684,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [AI Innovation Intern – Service Sales (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395) | 38 | In-Office | — | 2026-07-30 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-07-29 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
 | [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
@@ -1701,7 +1694,7 @@
 | [Marketing Events and Campaigns Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8053546?gh_jid=8053546) | 38 | In-Office | — | 2026-07-09 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
 
 ## Cloudforce
 
@@ -1780,7 +1773,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineering Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110011) | 68 | Dallas, TX - Headquarters | Software / Not stated | 2026-07-30 |
+| [Software Engineering Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109964) | 68 | Dallas, TX - Headquarters | Software / Not stated | 2026-07-30 |
 | [Database Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Database-Engineering-Intern_JR109636) | 93 | Dallas, TX | Software | 2026-07-30 |
 | [Data Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Engineering-Intern_JR110075) | 93 | Dallas, TX | AI/ML/Data | 2026-07-29 |
 | [Software Engineering Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR106129) | 68 | Dallas, TX | Software | 2026-07-23 |
@@ -1993,6 +1986,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Platform Engineer Intern](https://job-boards.greenhouse.io/drweng/jobs/7997729) | 93 | Chicago | — | 2026-07-30 |
 | [Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7992936) | 93 | Chicago | — | 2026-07-23 |
 | [Quantitative Research Intern](https://job-boards.greenhouse.io/drweng/jobs/7818540) | 68 | Chicago, New York City | — | 2026-07-23 |
 | [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7668776) | 68 | Chicago, Illinois | — | 2026-07-23 |
@@ -2055,12 +2049,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [AI Full-Stack Engineering Intern](https://www.workatastartup.com/jobs/86239) | 56 | San Mateo, CA | — | 2026-07-09 |
-
-## Ekimetrics
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [6 months Internship in Strategy & Data Science - New York](https://jobs.lever.co/ekimetrics/d8f0b664-ad5b-4111-a1dc-a8143934bf24/apply) | 68 | NYC | AI/ML/Data | 2026-05-09 |
 
 ## Electronic Arts
 
@@ -2807,7 +2795,7 @@
 | [Quantitative Researcher Intern](https://job-boards.greenhouse.io/janestreet/jobs/8498547002) | 93 | NYC | Quant | 2026-07-20 |
 | [Data Engineering Intern](https://job-boards.greenhouse.io/janestreet/jobs/8631973002) | 68 | NYC | AI/ML/Data | 2026-07-20 |
 | [Software Engineering Intern](https://job-boards.greenhouse.io/janestreet/jobs/8419303002) | 68 | NYC | Software | 2026-07-20 |
-| [Cybersecurity Analyst: New Grad](https://job-boards.greenhouse.io/janestreet/jobs/8613910002) | 64 | New York, New York, United States | — | 2026-07-06 |
+| [Cybersecurity Analyst: New Grad](https://www.janestreet.com/join-jane-street/apply/8613910002?gh_jid=8613910002) | 56 | New York, New York, United States | — | 2026-07-06 |
 
 ## JINGDONG
 
@@ -3403,7 +3391,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer Intern (Fall 2026)](https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90) | 93 | San Francisco, CA | Early Career | 2026-07-28 |
+| [Software Engineer Intern (Fall 2026)](https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90) | 93 | San Francisco, California | Software / Fall 2026 | 2026-07-30 |
 | [Governance, Risk, and Compliance Intern (Fall 2026)](https://jobs.ashbyhq.com/notion/6ccbc30c-2de0-4395-af14-3641cd15961b) | 55 | — | Early Career | 2026-07-28 |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/notion/fc762b58-24c9-4f34-bf5f-2af6e8adc644) | 93 | San Francisco, CA / New York, NY | — | 2026-07-09 |
 | [Software Engineer Intern, Mobile](https://jobs.ashbyhq.com/notion/3e56e35b-f35b-4b1a-ba2b-0ccdc6f60421) | 93 | San Francisco, CA / New York, NY | — | 2026-07-09 |
@@ -3454,6 +3442,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Quantitative Researcher (Ph.D.) - 2027 Graduate Program - (August Start)](https://www.oldmissioncapital.com/careers/?gh_jid=7814534003) | 91 | Chicago, IL, United States | — | 2026-07-30 |
 | [Software Engineer – 2027 Internship Program (June Start)](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003) | 85 | Chicago, IL, United States | — | 2026-07-22 |
 | [Software Engineer – 2027 Graduate Program (August Start)](https://www.oldmissioncapital.com/careers/?gh_jid=7796048003) | 91 | Chicago, IL, United States | — | 2026-07-14 |
 | [Quantitative Trader – 2027 Graduate Program (August Start)](https://www.oldmissioncapital.com/careers/?gh_jid=7796044003) | 66 | Chicago, IL or New York, NY | — | 2026-07-14 |
@@ -4034,6 +4023,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012) | 93 | Anaheim, CA | Software | 2026-07-30 |
 | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--Summer-2027-_01862842) | 93 | State College, PA | Software | 2026-07-30 |
 | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072) | 93 | McKinney, TX | Software | 2026-07-30 |
 | [Machine Learning Researcher Intern/Co-op](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-RTRC-K--411-Silver-Ln--RTRC-K/Fall-2026--Intern-Coop--Machine-Learning-Researcher_01860050) | 93 | Hartford, CT | AI/ML/Data | 2026-07-28 |

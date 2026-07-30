@@ -66,17 +66,18 @@
     "8070392",
     "7957735",
     "7993195",
+    "7997729",
     "7981754",
     "7818540",
     "7957756",
     "8014915",
-    "7957243",
     "7668776",
+    "7957243",
     "8014919",
-    "8020364",
-    "7991196",
     "7992936",
+    "7991196",
     "7942281",
+    "8020364",
     "8014910",
     "7992670",
     "7993565",
@@ -136,6 +137,7 @@
     "7185553"
   ],
   "Old Mission": [
+    "7814534003",
     "7796044003",
     "7796058003",
     "7796031003",
@@ -197,14 +199,15 @@
   ],
   "MongoDB": [],
   "Cloudflare": [
+    "8044395",
     "8054093",
     "8053546",
-    "8031027",
     "8013562",
+    "8031027",
     "7796077",
     "8089407",
-    "8089400",
     "8089379",
+    "8089400",
     "8052785"
   ],
   "Datadog": [],
@@ -1399,6 +1402,8 @@
   ],
   "Wayve": [],
   "zshah101 Summer 2027/Fall 2026": [
+    "github-json:zshah101-summer-2027-fall-2026:workday:copart:/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109964",
+    "github-json:zshah101-summer-2027-fall-2026:workday:copart:/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109965",
     "github-json:zshah101-summer-2027-fall-2026:workday:spe:/job/Culver-City-California/Current-Programming-Intern--Sony-Pictures-Television---Fall-2026_JR113893",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:virtu:8657500002",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:redwoodmaterials:6126784004",
@@ -1436,7 +1441,6 @@
     "github-json:zshah101-summer-2027-fall-2026:workable:pony-dot-ai:4C1F53EF5D",
     "github-json:zshah101-summer-2027-fall-2026:workable:pony-dot-ai:BA5FFDBC71",
     "github-json:zshah101-summer-2027-fall-2026:workday:moog:/job/Buffalo-NY/Intern--Software-Engineering_R-26-18885-1",
-    "github-json:zshah101-summer-2027-fall-2026:workday:copart:/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110011",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:virtu:8624410002",
     "github-json:zshah101-summer-2027-fall-2026:workday:copart:/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110079",
     "github-json:zshah101-summer-2027-fall-2026:smartrecruiters:HireVue:744000138728139",
@@ -1670,7 +1674,6 @@
     "10452956",
     "10452287",
     "10402423",
-    "3126072",
     "3099761",
     "10435122",
     "10447768",
@@ -1762,7 +1765,6 @@
     "/job/Abingdon---141-Park-Drive/Chemistry-Intern_R0046314"
   ],
   "SimplifyJobs 2026": [
-    "simplify:d8d464b4-b131-453f-ae9a-2db23f02f687",
     "simplify:956eb018-34d4-4f47-96dc-57a2372ae07d",
     "simplify:53db5db1-d434-4b8f-b661-f156d51ef856",
     "simplify:0f2e6b7c-2185-4da8-9eab-26cb0081ec69",
@@ -1951,7 +1953,6 @@
     "simplify:624a2b7b-51e9-4b7e-87d8-5e15ae69b867",
     "simplify:c635048f-2bb2-4949-b1ab-bd8c0d76ec14",
     "simplify:50476edb-b428-4583-901b-6dc310fab018",
-    "simplify:97964cb8-fdda-4a97-a78d-19c194e59388",
     "simplify:7da3c280-040c-4a6b-bbdc-ccf7e3d9f527",
     "simplify:3573d36a-ea3c-46e3-aec1-3ca8d67c5f44",
     "simplify:6d5e8652-a493-422e-ba2a-0811ef8f8cff",
@@ -2834,7 +2835,9 @@
     "simplify:c6b69846-839a-44c7-b22c-fa62c69a2ffd",
     "simplify:e1ef0c61-0133-4fe9-b4eb-f96359766b1f",
     "simplify:04d1606f-f4e5-4d3e-8dfb-7e6f6058d4ef",
-    "simplify:0b26c2f0-079a-457d-b9bc-8123655ff605"
+    "simplify:0b26c2f0-079a-457d-b9bc-8123655ff605",
+    "simplify:1e0a3f9d-9e1d-4b13-b9c6-eccbe4b65079",
+    "simplify:c3d4ae08-ce75-4327-94cf-38da2d5cbae0"
   ],
   "DoorDash": [],
   "Waymo": [
@@ -2842,8 +2845,8 @@
   ],
   "xAI": [],
   "Block": [
-    "5108009008",
-    "5108007008"
+    "5108007008",
+    "5108009008"
   ],
   "Coinbase": [],
   "Toast": [],
@@ -2863,8 +2866,7 @@
   "HubSpot": [],
   "Confluent": [],
   "Notion": [
-    "6ccbc30c-2de0-4395-af14-3641cd15961b",
-    "5b15697c-fa91-4511-9482-c98a6ff29f90"
+    "6ccbc30c-2de0-4395-af14-3641cd15961b"
   ],
   "Plaid": [],
   "ElevenLabs": [],
@@ -2936,7 +2938,6 @@
   "Mercury": [],
   "Alchemy": [],
   "SimplifyJobs 2027": [
-    "simplify:d8d464b4-b131-453f-ae9a-2db23f02f687",
     "simplify:956eb018-34d4-4f47-96dc-57a2372ae07d",
     "simplify:53db5db1-d434-4b8f-b661-f156d51ef856",
     "simplify:0f2e6b7c-2185-4da8-9eab-26cb0081ec69",
@@ -3125,7 +3126,6 @@
     "simplify:624a2b7b-51e9-4b7e-87d8-5e15ae69b867",
     "simplify:c635048f-2bb2-4949-b1ab-bd8c0d76ec14",
     "simplify:50476edb-b428-4583-901b-6dc310fab018",
-    "simplify:97964cb8-fdda-4a97-a78d-19c194e59388",
     "simplify:7da3c280-040c-4a6b-bbdc-ccf7e3d9f527",
     "simplify:3573d36a-ea3c-46e3-aec1-3ca8d67c5f44",
     "simplify:6d5e8652-a493-422e-ba2a-0811ef8f8cff",
@@ -4008,6 +4008,8 @@
     "simplify:c6b69846-839a-44c7-b22c-fa62c69a2ffd",
     "simplify:e1ef0c61-0133-4fe9-b4eb-f96359766b1f",
     "simplify:04d1606f-f4e5-4d3e-8dfb-7e6f6058d4ef",
-    "simplify:0b26c2f0-079a-457d-b9bc-8123655ff605"
+    "simplify:0b26c2f0-079a-457d-b9bc-8123655ff605",
+    "simplify:1e0a3f9d-9e1d-4b13-b9c6-eccbe4b65079",
+    "simplify:c3d4ae08-ce75-4327-94cf-38da2d5cbae0"
   ]
 }
