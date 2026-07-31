@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-31T00:13:54.114Z",
+  "generatedAt": "2026-07-31T03:49:31.102Z",
   "companyCount": 143,
   "okCount": 143,
-  "jobCount": 1638,
+  "jobCount": 1640,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -212,7 +212,6 @@
     "canonical:c40434041482eff7": "2026-05-23T16:29:56.405Z",
     "canonical:e2cbec72bcde74c4": "2026-05-24T16:41:35.666Z",
     "canonical:0e419b8e484c38cb": "2026-05-26T22:48:29.543Z",
-    "canonical:ae629747d79357a8": "2026-05-26T23:56:50.661Z",
     "canonical:0909350769decf2b": "2026-05-27T02:52:54.000Z",
     "canonical:da1d1f81b47de301": "2026-05-27T02:52:54.000Z",
     "canonical:aaf453fcebecd6b3": "2026-05-27T02:52:54.000Z",
@@ -1641,7 +1640,10 @@
     "canonical:99a13e746f2a0a9f": "2026-07-30T23:05:50.164Z",
     "canonical:8fdad12663157c17": "2026-07-30T23:05:50.164Z",
     "canonical:ba21966a379a7071": "2026-07-30T23:05:50.164Z",
-    "canonical:565067ddf44a757c": "2026-07-30T23:05:50.164Z"
+    "canonical:565067ddf44a757c": "2026-07-30T23:05:50.164Z",
+    "canonical:8822074b703794d1": "2026-07-31T03:49:31.102Z",
+    "canonical:fce68dbc498b426e": "2026-07-31T03:49:31.102Z",
+    "canonical:8dc234f594f06cf1": "2026-07-31T03:49:31.102Z"
   },
   "jobs": [
     {
@@ -4132,6 +4134,28 @@
       ]
     },
     {
+      "id": "canonical:4f0b13c326308fd3",
+      "title": "Sales Ops Analyst Intern 인턴, Strategic Account Services",
+      "url": "https://amazon.jobs/en/jobs/10472134/sales-ops-analyst-intern-strategic-account-services",
+      "location": "Seoul",
+      "department": "Sales, Advertising, & Account Management",
+      "company": "Amazon",
+      "score": 30,
+      "scoreReasons": [
+        "lower-fit title"
+      ]
+    },
+    {
+      "id": "canonical:8822074b703794d1",
+      "title": "2026 PM Intern - Supply Chain, Operations",
+      "url": "https://amazon.jobs/en/jobs/10488893/2026-pm-intern-supply-chain-operations",
+      "location": "Melbourne",
+      "department": "Fulfillment & Operations Management",
+      "company": "Amazon",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
       "id": "canonical:e8eb36641706c2d0",
       "title": "Technical Business Developer Intern, 2026 Hong Kong",
       "url": "https://amazon.jobs/en/jobs/10394507/technical-business-developer-intern-2026-hong-kong",
@@ -4579,18 +4603,6 @@
       "company": "Amazon",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:4f0b13c326308fd3",
-      "title": "Sales Ops Analyst Intern 인턴, Strategic Account Services",
-      "url": "https://amazon.jobs/en/jobs/10472134/sales-ops-analyst-intern-strategic-account-services",
-      "location": "Seoul",
-      "department": "Sales, Advertising, & Account Management",
-      "company": "Amazon",
-      "score": 30,
-      "scoreReasons": [
-        "lower-fit title"
-      ]
     },
     {
       "id": "canonical:71fcbb75a25c6e17",
@@ -6440,7 +6452,7 @@
     {
       "id": "canonical:1a056010d15d11c7",
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -10805,18 +10817,6 @@
       "score": 68,
       "scoreReasons": [
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:ae629747d79357a8",
-      "title": "FPGA Intern",
-      "url": "https://job-boards.greenhouse.io/astranis/jobs/4677338006",
-      "location": "SF",
-      "department": "Hardware",
-      "company": "Astranis",
-      "score": 58,
-      "scoreReasons": [
         "direct ATS"
       ]
     },
@@ -19232,6 +19232,33 @@
       "location": "Charlottesville, VA",
       "department": "Quant",
       "company": "University of Virginia Investment Management Company (UVIMCO)",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:fce68dbc498b426e",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/melius/6a944911-dbbf-44c7-ba52-7866f7b433cf/application?embed=true",
+      "location": "NYC",
+      "department": "Software",
+      "company": "Melius",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:8dc234f594f06cf1",
+      "title": "Management Intern - Career Data and Analytics",
+      "url": "https://asu.wd1.myworkdayjobs.com/ASUStaffCareers/job/Campus-Tempe/Management-Intern---Career-Data-and-Analytics_JR124023",
+      "location": "Tempe, AZ",
+      "department": "AI/ML/Data",
+      "company": "Arizona State University",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
