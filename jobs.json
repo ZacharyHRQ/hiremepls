@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-31T18:49:22.227Z",
+  "generatedAt": "2026-07-31T20:13:50.992Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1658,
+  "jobCount": 1657,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1324,7 +1324,6 @@
     "canonical:559862a3c8507c45": "2026-07-23T13:01:14.511Z",
     "canonical:657f691a0a88c3ba": "2026-07-23T13:01:14.511Z",
     "canonical:4d3ecad04d206251": "2026-07-23T13:01:14.511Z",
-    "canonical:283c88b35cd9ef1f": "2026-07-23T13:01:14.511Z",
     "canonical:133608b1bfb1c38e": "2026-07-23T15:21:51.767Z",
     "canonical:efae17b38f305c76": "2026-07-23T16:52:46.107Z",
     "canonical:f64d863a4ace37bb": "2026-07-23T16:52:46.107Z",
@@ -22597,20 +22596,6 @@
       "company": "Junior",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:283c88b35cd9ef1f",
-      "title": "Software Engineer Intern - Machine Learning Workflow",
-      "url": "https://apply.workable.com/halo-industries/j/29728B1DAF/",
-      "location": "Santa Clara, California, United States",
-      "department": "Data & ML/AI / Not stated",
-      "company": "Halo Industries",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]

@@ -1,6 +1,6 @@
 # Open Internships
 
-**1658** internships across **142/143** companies — last updated 2026-07-31.
+**1657** internships across **142/143** companies — last updated 2026-07-31.
 
 ## Companies
 
@@ -246,7 +246,6 @@
 - [GSA Capital](#gsa-capital) (2)
 - [H&CO](#h-co) (1)
 - [Haize Labs](#haize-labs) (1)
-- [Halo Industries](#halo-industries) (1)
 - [HARMAN](#harman) (1)
 - [HCompany](#hcompany) (1)
 - [Heliux](#heliux) (2)
@@ -2483,12 +2482,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/haizelabs/jobs/4685944008) | 93 | NYC | Software | 2026-05-09 |
-
-## Halo Industries
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Intern - Machine Learning Workflow](https://apply.workable.com/halo-industries/j/29728B1DAF/) | 93 | Santa Clara, California, United States | Data & ML/AI / Not stated | 2026-07-23 |
 
 ## HARMAN
 
