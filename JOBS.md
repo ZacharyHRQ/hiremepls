@@ -124,7 +124,6 @@
 - [Cisive](#cisive) (1)
 - [Citadel](#citadel) (13)
 - [Citadel Securities](#citadel-securities) (11)
-- [City of Austin](#city-of-austin) (1)
 - [Clarity Innovations](#clarity-innovations) (1)
 - [Clera](#clera) (1)
 - [Clerkie](#clerkie) (1)
@@ -252,6 +251,7 @@
 - [Halo Industries](#halo-industries) (1)
 - [HARMAN](#harman) (1)
 - [HCompany](#hcompany) (1)
+- [Heliux](#heliux) (1)
 - [Helix Electric](#helix-electric) (1)
 - [Helsing](#helsing) (1)
 - [Hendrick Motorsports](#hendrick-motorsports) (2)
@@ -337,7 +337,7 @@
 - [Medpace, Inc.](#medpace-inc) (2)
 - [Melius](#melius) (1)
 - [Melotech](#melotech) (3)
-- [Menasha Corporation](#menasha-corporation) (2)
+- [Menasha Corporation](#menasha-corporation) (1)
 - [Mercer University](#mercer-university) (1)
 - [Meshy](#meshy) (1)
 - [Meta](#meta) (14)
@@ -510,7 +510,7 @@
 - [Tencent](#tencent) (13)
 - [Tenstorrent](#tenstorrent) (7)
 - [Terranox AI](#terranox-ai) (1)
-- [Tesla](#tesla) (87)
+- [Tesla](#tesla) (88)
 - [TETRAMEM](#tetramem) (1)
 - [Tevora](#tevora) (8)
 - [Texas Instruments](#texas-instruments) (1)
@@ -1652,12 +1652,6 @@
 | [Machine Learning Researcher PhD Intern](https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-intern-us/) | 85 | Miami, FL / NYC | AI/ML/Data | 2026-07-01 |
 | [Quantitative Research Engineer Intern](https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-intern-us/) | 85 | Miami, FL / NYC | Quant | 2026-07-01 |
 
-## City of Austin
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Austin Aviation Undergraduate Intern - IT Business Systems Analyst](https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/AUS-Information-Systems-Building-IS/Austin-Aviation--IT-Business-Systems-Analyst---Undergraduate-Intern_JR104583) | 68 | Austin, TX | AI/ML/Data | 2026-07-30 |
-
 ## Clarity Innovations
 
 | Title | Score | Location | Department | First seen |
@@ -2518,6 +2512,12 @@
 | --- | --- | --- | --- | --- |
 | [Research Scientist Intern - Model Team](https://jobs.ashbyhq.com/hcompany/856b1025-791f-46ed-9ea0-a88bb2f32ce5/application) | 93 | London, UK | AI/ML/Data | 2026-05-09 |
 
+## Heliux
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application?embed=true) | 93 | SF | Software | 2026-07-31 |
+
 ## Helix Electric
 
 | Title | Score | Location | Department | First seen |
@@ -3157,7 +3157,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Supply Chain Analytics Intern](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Neenah-Wisconsin/Supply-Chain-Analytics-Intern_R14985) | 68 | Neenah, WI | AI/ML/Data | 2026-07-29 |
 | [Application Engineer Intern](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Troy-Michigan/Application-Engineer-Intern--Summer-2026-_R13999) | 93 | Troy, MI | Software | 2026-07-21 |
 
 ## Mercer University
@@ -3316,7 +3315,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://jobs.ashbyhq.com/nationgraph/6c3e8de6-bd8e-4ead-936f-d98c277c6416/application?embed=true) | 93 | Toronto, ON, Canada | Software | 2026-07-21 |
+| [Software Engineer Intern](https://jobs.ashbyhq.com/nationgraph/a1bcdd3e-d863-42b6-8469-ec587190ad68/application?embed=true) | 93 | Toronto, ON, Canada | Software | 2026-07-21 |
 
 ## NBCUniversal
 
@@ -4478,6 +4477,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Vehicle Software Intern - Vehicle Software Engineer-Diagnostic User Interface](https://www.tesla.com/careers/search/job/278703) | 85 | Palo Alto, CA | Software | 2026-07-31 |
 | [Software Engineer Intern - Software Engineer - AI Infrastructure](https://www.tesla.com/careers/search/job/278578) | 85 | Palo Alto, CA | Software | 2026-07-30 |
 | [Charging Data Modeling Intern - Charging Data Modeling - Machine Learning Engineer](https://www.tesla.com/careers/search/job/278249) | 85 | Palo Alto, CA | AI/ML/Data | 2026-07-28 |
 | [Vehicle Software Intern - Vehicle Controls](https://www.tesla.com/careers/search/job/278203) | 60 | Palo Alto, CA | AI/ML/Data | 2026-07-28 |

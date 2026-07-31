@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T03:49:31.102Z",
+  "generatedAt": "2026-07-31T06:36:20.072Z",
   "companyCount": 143,
   "okCount": 143,
   "jobCount": 1640,
@@ -1579,7 +1579,6 @@
     "canonical:1d0321a95fc9534a": "2026-07-29T23:52:26.433Z",
     "canonical:2db8dc270070158c": "2026-07-29T23:52:26.433Z",
     "canonical:0e9e3f24b312ca3e": "2026-07-29T23:52:26.433Z",
-    "canonical:06c74e57524f9472": "2026-07-29T23:52:26.433Z",
     "canonical:edc62f7832537a12": "2026-07-29T23:52:26.433Z",
     "canonical:7cfcff8cf1f7588a": "2026-07-29T23:52:26.433Z",
     "canonical:dcc6761ceeb896c4": "2026-07-29T23:52:26.433Z",
@@ -1605,7 +1604,6 @@
     "canonical:5c2778d446a1f22f": "2026-07-30T11:31:57.881Z",
     "canonical:c1817238d89b26e3": "2026-07-30T13:12:50.036Z",
     "canonical:5bae5af5d984f063": "2026-07-30T13:12:50.036Z",
-    "canonical:cc91abd223a4eab3": "2026-07-30T13:12:50.036Z",
     "canonical:04172e347ecd89c6": "2026-07-30T13:12:50.036Z",
     "canonical:5056e78546af9d35": "2026-07-30T13:12:50.036Z",
     "canonical:c980c7ebaf1149ba": "2026-07-30T13:12:50.036Z",
@@ -1643,7 +1641,9 @@
     "canonical:565067ddf44a757c": "2026-07-30T23:05:50.164Z",
     "canonical:8822074b703794d1": "2026-07-31T03:49:31.102Z",
     "canonical:fce68dbc498b426e": "2026-07-31T03:49:31.102Z",
-    "canonical:8dc234f594f06cf1": "2026-07-31T03:49:31.102Z"
+    "canonical:8dc234f594f06cf1": "2026-07-31T03:49:31.102Z",
+    "canonical:f2a958c8f6ff3dd7": "2026-07-31T06:36:20.072Z",
+    "canonical:9a538bb6e4167dc0": "2026-07-31T06:36:20.072Z"
   },
   "jobs": [
     {
@@ -4134,6 +4134,18 @@
       ]
     },
     {
+      "id": "canonical:6fa1ba0664fe87ba",
+      "title": "Sales Ops Analyst Intern 인턴, New Seller Recruitment",
+      "url": "https://amazon.jobs/en/jobs/10472164/sales-ops-analyst-intern-new-seller-recruitment",
+      "location": "Seoul",
+      "department": "Sales, Advertising, & Account Management",
+      "company": "Amazon",
+      "score": 30,
+      "scoreReasons": [
+        "lower-fit title"
+      ]
+    },
+    {
       "id": "canonical:4f0b13c326308fd3",
       "title": "Sales Ops Analyst Intern 인턴, Strategic Account Services",
       "url": "https://amazon.jobs/en/jobs/10472134/sales-ops-analyst-intern-strategic-account-services",
@@ -4575,18 +4587,6 @@
       "title": "Demand Generation Rep Intern - Indonesian Market",
       "url": "https://amazon.jobs/en/jobs/3125228/demand-generation-rep-intern-indonesian-market",
       "location": "Singapore",
-      "department": "Sales, Advertising, & Account Management",
-      "company": "Amazon",
-      "score": 30,
-      "scoreReasons": [
-        "lower-fit title"
-      ]
-    },
-    {
-      "id": "canonical:6fa1ba0664fe87ba",
-      "title": "Sales Ops Analyst Intern 인턴, New Seller Recruitment",
-      "url": "https://amazon.jobs/en/jobs/10472164/sales-ops-analyst-intern-new-seller-recruitment",
-      "location": "Seoul",
       "department": "Sales, Advertising, & Account Management",
       "company": "Amazon",
       "score": 30,
@@ -16698,20 +16698,6 @@
       ]
     },
     {
-      "id": "canonical:74ad0f81645977ec",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/nationgraph/6c3e8de6-bd8e-4ead-936f-d98c277c6416/application?embed=true",
-      "location": "Toronto, ON, Canada",
-      "department": "Software",
-      "company": "NationGraph",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:cb4d3a946d4982dc",
       "title": "AI/Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/bild-ai/b333f0f7-0ca6-4509-8697-9303396b5364/application?embed=true",
@@ -16732,6 +16718,20 @@
       "location": "Palo Alto, CA",
       "department": "AI/ML/Data",
       "company": "GenMD",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:74ad0f81645977ec",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/nationgraph/a1bcdd3e-d863-42b6-8469-ec587190ad68/application?embed=true",
+      "location": "Toronto, ON, Canada",
+      "department": "Software",
+      "company": "NationGraph",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -18047,19 +18047,6 @@
       ]
     },
     {
-      "id": "canonical:cc91abd223a4eab3",
-      "title": "Austin Aviation Undergraduate Intern - IT Business Systems Analyst",
-      "url": "https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/AUS-Information-Systems-Building-IS/Austin-Aviation--IT-Business-Systems-Analyst---Undergraduate-Intern_JR104583",
-      "location": "Austin, TX",
-      "department": "AI/ML/Data",
-      "company": "City of Austin",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:1d7a63ccedca3fdd",
       "title": "Data Integration & Reporting Intern",
       "url": "https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/San-Diego-CA-USA/Fall-2026--Data-Integration---Reporting-Intern--Unpaid-_JR00004327",
@@ -18940,19 +18927,6 @@
       ]
     },
     {
-      "id": "canonical:06c74e57524f9472",
-      "title": "Supply Chain Analytics Intern",
-      "url": "https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Neenah-Wisconsin/Supply-Chain-Analytics-Intern_R14985",
-      "location": "Neenah, WI",
-      "department": "AI/ML/Data",
-      "company": "Menasha Corporation",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:edc62f7832537a12",
       "title": "Frontend Developer Internship",
       "url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002",
@@ -19263,6 +19237,33 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f2a958c8f6ff3dd7",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application?embed=true",
+      "location": "SF",
+      "department": "Software",
+      "company": "Heliux",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:9a538bb6e4167dc0",
+      "title": "Vehicle Software Intern - Vehicle Software Engineer-Diagnostic User Interface",
+      "url": "https://www.tesla.com/careers/search/job/278703",
+      "location": "Palo Alto, CA",
+      "department": "Software",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
