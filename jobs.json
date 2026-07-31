@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-30T23:05:50.164Z",
+  "generatedAt": "2026-07-31T00:13:54.114Z",
   "companyCount": 143,
   "okCount": 143,
-  "jobCount": 1639,
+  "jobCount": 1638,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1619,7 +1619,6 @@
     "canonical:4d12ce96f45f4b09": "2026-07-30T13:12:50.036Z",
     "canonical:33b63becca5acff3": "2026-07-30T15:22:35.510Z",
     "canonical:4a036fe3e4ee7e6b": "2026-07-30T15:22:35.510Z",
-    "canonical:276fa60f1597cd67": "2026-07-30T15:22:35.510Z",
     "canonical:4be8d92c71cf84ea": "2026-07-30T16:56:57.416Z",
     "canonical:c5c0535f6dd18864": "2026-07-30T16:56:57.416Z",
     "canonical:01c32ec544ff3ad4": "2026-07-30T16:56:57.416Z",
@@ -22204,19 +22203,6 @@
       "location": "US, Arizona, Phoenix",
       "department": "Data & ML/AI / Not stated",
       "company": "Intel",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:276fa60f1597cd67",
-      "title": "Software Engineering Intern",
-      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109897",
-      "location": "Dallas, TX - Headquarters",
-      "department": "Software / Not stated",
-      "company": "Copart",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
