@@ -1,6 +1,6 @@
 # Open Internships
 
-**1655** internships across **141/143** companies — last updated 2026-07-31.
+**1664** internships across **141/143** companies — last updated 2026-07-31.
 
 ## Companies
 
@@ -17,6 +17,7 @@
 - [Akuna Capital](#akuna-capital) (11)
 - [Al Warren Oil Company](#al-warren-oil-company) (1)
 - [AlixPartners](#alixpartners) (1)
+- [Altice USA](#altice-usa) (1)
 - [Altom Transport](#altom-transport) (2)
 - [Amazon](#amazon) (169)
 - [Ambarella](#ambarella) (8)
@@ -230,12 +231,14 @@
 - [GenMD](#genmd) (1)
 - [Gensyn](#gensyn) (1)
 - [Genworth](#genworth) (1)
+- [Genworth Financial](#genworth-financial) (1)
 - [Georgian Partners Growth](#georgian-partners-growth) (1)
 - [Ginkgo Bioworks](#ginkgo-bioworks) (2)
 - [Gitar, Inc.](#gitar-inc) (1)
 - [Global Infrastructure](#global-infrastructure) (1)
 - [GlobalFoundries](#globalfoundries) (1)
 - [GoDaddy](#godaddy) (1)
+- [Golden Pet Brands](#golden-pet-brands) (1)
 - [Gong](#gong) (3)
 - [Google](#google) (1)
 - [Grant Thornton](#grant-thornton) (1)
@@ -301,7 +304,6 @@
 - [Keysight Technologies](#keysight-technologies) (2)
 - [Kirin](#kirin) (2)
 - [KLA](#kla) (1)
-- [Kodak](#kodak) (1)
 - [Kognitos](#kognitos) (1)
 - [kos.ai](#kos-ai) (1)
 - [KRAFTON](#krafton) (1)
@@ -363,7 +365,7 @@
 - [NeoSigma](#neosigma) (2)
 - [Netflix](#netflix) (2)
 - [Netic](#netic) (3)
-- [Neuralink](#neuralink) (3)
+- [Neuralink](#neuralink) (4)
 - [NewsBreak](#newsbreak) (1)
 - [Nextiva](#nextiva) (1)
 - [Nightwing](#nightwing) (1)
@@ -392,7 +394,7 @@
 - [Orennia](#orennia) (1)
 - [Outpost Technologies](#outpost-technologies) (1)
 - [Output Biosciences](#output-biosciences) (1)
-- [Palantir](#palantir) (76)
+- [Palantir](#palantir) (86)
 - [Palo Alto Networks](#palo-alto-networks) (1)
 - [Paragon](#paragon) (1)
 - [PathAI](#pathai) (1)
@@ -461,7 +463,7 @@
 - [Schonfeld](#schonfeld) (5)
 - [Schweitzer Engineering Laboratories](#schweitzer-engineering-laboratories) (1)
 - [SCOR](#scor) (1)
-- [Sentara Health](#sentara-health) (2)
+- [Sentara Health](#sentara-health) (1)
 - [Serval](#serval) (1)
 - [Seven Research](#seven-research) (4)
 - [SHEIN](#shein) (1)
@@ -508,7 +510,7 @@
 - [Tencent](#tencent) (12)
 - [Tenstorrent](#tenstorrent) (7)
 - [Terranox AI](#terranox-ai) (1)
-- [Tesla](#tesla) (88)
+- [Tesla](#tesla) (85)
 - [TETRAMEM](#tetramem) (1)
 - [Tevora](#tevora) (8)
 - [Texas Instruments](#texas-instruments) (1)
@@ -526,7 +528,7 @@
 - [Together AI](#together-ai) (3)
 - [Topel Forman LLC](#topel-forman-llc) (1)
 - [Torc Robotics](#torc-robotics) (1)
-- [Toshiba Global Commerce](#toshiba-global-commerce) (4)
+- [Toshiba Global Commerce](#toshiba-global-commerce) (3)
 - [Touchdown Labs](#touchdown-labs) (1)
 - [Tower Research](#tower-research) (1)
 - [Tower Research Capital](#tower-research-capital) (6)
@@ -569,7 +571,7 @@
 - [Weaviate](#weaviate) (1)
 - [Wells Fargo](#wells-fargo) (12)
 - [WeRide](#weride) (1)
-- [Western Digital](#western-digital) (2)
+- [Western Digital](#western-digital) (3)
 - [Westinghouse](#westinghouse) (1)
 - [WindBorne Systems](#windborne-systems) (1)
 - [Wise](#wise) (1)
@@ -674,6 +676,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Data Scientist Intern](https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003) | 85 | NYC | AI/ML/Data | 2026-07-20 |
+
+## Altice USA
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data Engineer Intern](https://www.optimumcareers.com/job/Long-Island-City-Intern-Data-Engineer-NY-11101/1414286700/?ats=successfactors) | 85 | Long Island City, Queens, NY | AI/ML/Data | 2026-07-31 |
 
 ## Altom Transport
 
@@ -1675,7 +1683,7 @@
 | [AI Innovation Intern – Service Sales (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395) | 38 | In-Office | — | 2026-07-30 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-07-29 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Brand Social Media Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8054093?gh_jid=8054093) | 58 | In-Office | — | 2026-07-10 |
@@ -2383,6 +2391,12 @@
 | --- | --- | --- | --- | --- |
 | [Genworth Finance Development Program Intern – Summer 2026](https://www.linkedin.com/jobs/view/4268379282) | 42 | Richmond, VA | — | 2026-07-09 |
 
+## Genworth Financial
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [IT Development Program Intern - IT Development Program](https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Genworth-IT-Development-Program-Intern---Summer-2027_REQ-260269-1) | 68 | Richmond, VA | Software | 2026-07-31 |
+
 ## Georgian Partners Growth
 
 | Title | Score | Location | Department | First seen |
@@ -2419,6 +2433,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Development Engineer Intern](https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003) | 93 | Tempe, AZ | Software | 2026-07-30 |
+
+## Golden Pet Brands
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data Analytics Intern](https://job-boards.greenhouse.io/goldenpetbrands/jobs/4713182005) | 68 | Remote in USA | AI/ML/Data | 2026-07-31 |
 
 ## Gong
 
@@ -2926,12 +2946,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](https://kla.wd1.myworkdayjobs.com/AnnArbor/job/Ann-Arbor-MI/Software-Engineering-Intern_2531653) | 68 | Ann Arbor, MI | AI/ML/Data | 2026-07-21 |
 
-## Kodak
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Marketing Analytics Intern](https://careers.kodak.com/job/USA-Marketing-Analytics-Intern-CA/1412894200/?ats=successfactors) | 40 | Remote in USA | AI/ML/Data | 2026-07-27 |
-
 ## Kognitos
 
 | Title | Score | Location | Department | First seen |
@@ -3348,6 +3362,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Analog and Mixed-Signal IC Design Engineer Intern](https://boards.greenhouse.io/neuralink/jobs/7565469003) | 58 | South SF | Hardware | 2026-07-31 |
 | [Software Engineer Intern - Infrastructure](https://boards.greenhouse.io/neuralink/jobs/5469298003) | 93 | Fremont, CA | Software | 2026-05-16 |
 | [Machine Learning Engineer Intern](https://boards.greenhouse.io/neuralink/jobs/6594261003) | 93 | Fremont, CA | AI/ML/Data | 2026-05-13 |
 | [Software Engineer Intern - Internal Apps](https://boards.greenhouse.io/neuralink/jobs/6083322003) | 93 | Fremont, CA / Austin, TX | Software | 2026-05-09 |
@@ -3556,6 +3571,16 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Product Designer, New Grad](https://jobs.lever.co/palantir/4c0fb3a1-8256-4d14-9a27-23727235752e) | 64 | New York, NY | Design | 2026-07-31 |
+| [Product Designer, New Grad](https://jobs.lever.co/palantir/76161763-bafa-4ebb-a2ce-2a25e315b7d7) | 64 | London, United Kingdom | Design | 2026-07-31 |
+| [Product Designer, New Grad - US Government](https://jobs.lever.co/palantir/25378ba0-db78-4c70-8174-a05ce514fc65) | 64 | Washington, D.C. | Design | 2026-07-31 |
+| [Product Designer, New Grad - US Government](https://jobs.lever.co/palantir/32295454-6629-4f47-b11e-bbd7f5d41acb) | 64 | Palo Alto, CA | Design | 2026-07-31 |
+| [Product Designer, New Grad - US Government](https://jobs.lever.co/palantir/5f7a90e7-f927-47bf-90ed-52d17c58ae02) | 64 | New York, NY | Design | 2026-07-31 |
+| [Product Designer, Internship](https://jobs.lever.co/palantir/1a935143-e857-480c-bc5a-ad625d754eb6) | 58 | New York, NY | Design | 2026-07-31 |
+| [Product Designer, Internship](https://jobs.lever.co/palantir/44129013-01e0-4699-8fc1-7a189bb37b63) | 58 | London, United Kingdom | Design | 2026-07-31 |
+| [Product Designer, Internship - US Government](https://jobs.lever.co/palantir/8f7bbffa-92aa-4d25-9586-943b3322a27d) | 58 | New York, NY | Design | 2026-07-31 |
+| [Product Designer, Internship - US Government](https://jobs.lever.co/palantir/9db71277-3a9a-481b-a2a3-25c3125b0e8a) | 58 | Palo Alto, CA | Design | 2026-07-31 |
+| [Product Designer, Internship - US Government](https://jobs.lever.co/palantir/fa060d94-f85d-4d02-be58-b81787fe57e5) | 58 | Washington, D.C. | Design | 2026-07-31 |
 | [Forward Deployed Software Engineer Intern](https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf/apply) | 93 | London, UK | Software | 2026-07-31 |
 | [Forward Deployed Software Engineer Intern - Commercial](https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636/apply) | 93 | London, UK | Software | 2026-07-31 |
 | [Software Engineer Intern](https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602/apply) | 93 | London, UK | Software | 2026-07-31 |
@@ -3840,7 +3865,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Data Analyst Intern](https://psecu.wd12.myworkdayjobs.com/PSECU/job/Harrisburg-PA/Data-Analyst-Intern_JR100964) | 68 | Harrisburg, PA | Data & ML/AI / Not stated | 2026-07-31 |
+| [Data Analyst Intern](https://psecu.wd12.myworkdayjobs.com/PSECU/job/Harrisburg-PA/Data-Analyst-Intern_JR100964) | 68 | Harrisburg, PA | AI/ML/Data | 2026-07-31 |
 
 ## PsiQuantum
 
@@ -4125,8 +4150,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Enterprise Data & AI Intern](https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Enterprise-Data---AI-Intern--Fall-2026-Internship_JR-102685) | 68 | Virginia Beach, VA | AI/ML/Data | 2026-07-27 |
-| [Data & AI Finance Strategy Intern - Fall 2026 Internship Remote](https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Data---AI-Finance-Strategy-Intern---Fall-2026-Internship-Remote_JR-103073) | 68 | Virginia Beach, VA | Data & ML/AI / Fall 2026 | 2026-07-24 |
+| [Data & AI Finance Strategy Intern](https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/Data---AI-Finance-Strategy-Intern---Fall-2026-Internship-Remote_JR-103073) | 58 | Virginia Beach, VA | — | 2026-07-31 |
 
 ## Serval
 
@@ -4538,7 +4562,6 @@
 | [Physics Engine Development Intern - Physics Engine Development Engineer - Optimus](https://www.tesla.com/careers/search/job/257048) | 85 | Palo Alto, CA | Software | 2026-06-08 |
 | [Energy Engineering Intern - Cost Reduction](https://www.tesla.com/careers/search/job/270511) | 60 | Palo Alto, CA | AI/ML/Data | 2026-06-08 |
 | [Electronic Design Engineer Intern - Optimus](https://www.tesla.com/careers/search/job/271981) | 50 | Palo Alto, CA | Hardware | 2026-06-08 |
-| [AI Inference Engineer Intern - Software Compiler Engineer - AI Inference](https://www.tesla.com/careers/search/job/263211) | 85 | Palo Alto, CA | Software | 2026-06-07 |
 | [AI Performance Engineer Intern - AI Performance Engineer - Performance Optimization](https://www.tesla.com/careers/search/job/263759) | 85 | Palo Alto, CA | AI/ML/Data | 2026-06-07 |
 | [Embedded Software Engineering Intern - Embedded Software Engineer - High Voltage Systems](https://www.tesla.com/careers/search/job/270354) | 85 | Palo Alto, CA | Hardware | 2026-06-07 |
 | [Software Engineer Intern - AI Data Infrastructure](https://www.tesla.com/careers/search/job/269829) | 85 | Palo Alto, CA | Software | 2026-06-07 |
@@ -4551,9 +4574,7 @@
 | [Electronics Design Engineer Intern - Reliability Electronics Design Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/272601) | 50 | Palo Alto, CA | Hardware | 2026-06-07 |
 | [Data Engineer Intern - Data Engineer - Energy](https://www.tesla.com/careers/search/job/271331) | 85 | Palo Alto, CA | AI/ML/Data | 2026-06-07 |
 | [Mobile App Software Engineer Intern - Mobile Application Software Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/271382) | 85 | Palo Alto, CA | Software | 2026-06-07 |
-| [Mobile Applications Engineering Intern - Android Engineer - Mobile Software](https://www.tesla.com/careers/search/job/266980) | 85 | Palo Alto, CA | Software | 2026-06-07 |
 | [Operational Automation Software Engineer Intern - Operational Automation Engineer - Residential Energy](https://www.tesla.com/careers/search/job/271352) | 85 | Draper, UT | Software | 2026-06-07 |
-| [Software Engineer Intern - Fullstack Software Engineer - Fleetnet](https://www.tesla.com/careers/search/job/266764) | 85 | Palo Alto, CA | Software | 2026-06-07 |
 | [Software Engineer Intern - Multiple Teams](https://www.tesla.com/careers/search/job/271372) | 85 | Palo Alto, CA | Software | 2026-06-07 |
 | [Software Engineer Intern - Software Engineer - Data Platforms](https://www.tesla.com/careers/search/job/267004) | 85 | Palo Alto, CA | Software | 2026-06-07 |
 | [Software Engineer Intern - Software Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/271362) | 85 | Palo Alto, CA / Fremont, CA | Software | 2026-06-07 |
@@ -4745,7 +4766,6 @@
 | [AI Engineer Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5192820007) | 93 | Frisco, TX | AI/ML/Data | 2026-07-29 |
 | [Product & Business Analytics Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195802007) | 68 | Durham, NC | AI/ML/Data | 2026-07-27 |
 | [AI Product Management Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195826007) | 58 | Durham, NC | Product | 2026-07-27 |
-| [Agentic Software Engineer Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5177892007) | 93 | Durham, NC | Software | 2026-07-27 |
 
 ## Touchdown Labs
 
@@ -5044,6 +5064,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Hardware Engineering Intern](https://jobs.smartrecruiters.com/WesternDigital/744000140949875) | 58 | Fremont, CA / Rochester, MN / San Jose, CA / Irvine, CA / Colorado Springs, CO / Longmont, CO | Hardware | 2026-07-31 |
 | [Failure Analysis Automation Engineer Intern - Failure Analysis Automation Engineering](https://jobs.smartrecruiters.com/WesternDigital/744000139338269) | 93 | San Jose, CA | AI/ML/Data | 2026-07-23 |
 | [Software Engineer Intern](https://jobs.smartrecruiters.com/WesternDigital/744000138727213) | 93 | Fremont, CA / Rochester, MN / San Jose, CA / Irvine, CA / Colorado Springs, CO / Longmont, CO | Software | 2026-07-20 |
 
