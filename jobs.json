@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-31T22:31:38.042Z",
+  "generatedAt": "2026-07-31T23:39:05.867Z",
   "companyCount": 143,
   "okCount": 141,
-  "jobCount": 1664,
+  "jobCount": 1668,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1153,7 +1153,6 @@
     "canonical:b941a6d41c2f9a59": "2026-07-21T07:03:27.767Z",
     "canonical:9bbf82015a29a0c2": "2026-07-21T07:03:27.767Z",
     "canonical:9a2e2f8f76500ed1": "2026-07-21T07:03:27.767Z",
-    "canonical:e9362a0768cb5f36": "2026-07-21T07:03:27.767Z",
     "canonical:773a4bab35a8f78f": "2026-07-21T07:03:27.767Z",
     "canonical:383efe2591007c81": "2026-07-21T07:03:27.767Z",
     "canonical:019da6ccfe10383d": "2026-07-21T07:03:27.767Z",
@@ -1403,7 +1402,6 @@
     "canonical:effba85f704368fa": "2026-07-24T22:42:05.015Z",
     "canonical:42c4a6d8c5264cf5": "2026-07-24T23:42:50.061Z",
     "canonical:32b1d2cc0e89c258": "2026-07-24T23:42:50.061Z",
-    "canonical:4247bea2cf4aab99": "2026-07-24T23:42:50.061Z",
     "canonical:ef650b16fce50cc6": "2026-07-25T04:24:58.500Z",
     "canonical:1d7a63ccedca3fdd": "2026-07-25T04:24:58.500Z",
     "canonical:216181f28694752a": "2026-07-25T11:34:41.314Z",
@@ -1468,7 +1466,6 @@
     "canonical:bbcebf2f0ea3cf47": "2026-07-28T10:01:49.734Z",
     "canonical:f039fda78946ab75": "2026-07-28T10:01:49.734Z",
     "canonical:c1e9394452463ed1": "2026-07-28T12:10:10.864Z",
-    "canonical:7cd65dbc34efa0fa": "2026-07-28T12:10:10.864Z",
     "canonical:b3db40bed27920e6": "2026-07-28T12:10:10.864Z",
     "canonical:b534606d935d0b90": "2026-07-28T12:10:10.864Z",
     "canonical:c6951e2db477e52a": "2026-07-28T12:10:10.864Z",
@@ -1494,7 +1491,6 @@
     "canonical:842345f0b7509cbe": "2026-07-28T22:41:55.739Z",
     "canonical:c708edc8d14ae659": "2026-07-28T23:38:50.618Z",
     "canonical:ea623ace644a874a": "2026-07-28T23:38:50.618Z",
-    "canonical:076f78668e3326d7": "2026-07-28T23:38:50.618Z",
     "canonical:b9b785e4657fef04": "2026-07-28T23:38:50.618Z",
     "canonical:f94529af6ba1b7b6": "2026-07-28T23:38:50.618Z",
     "canonical:1a096f31dc68a4b9": "2026-07-28T23:38:50.618Z",
@@ -1667,7 +1663,15 @@
     "canonical:b2483be6a5d3871f": "2026-07-31T22:31:38.042Z",
     "canonical:3e5f2a2755e117fa": "2026-07-31T22:31:38.042Z",
     "canonical:159c25090b877d18": "2026-07-31T22:31:38.042Z",
-    "canonical:52ffeb80dce7fc64": "2026-07-31T22:31:38.042Z"
+    "canonical:52ffeb80dce7fc64": "2026-07-31T22:31:38.042Z",
+    "canonical:190209721673190e": "2026-07-31T23:39:05.867Z",
+    "canonical:a038ce47c589019e": "2026-07-31T23:39:05.867Z",
+    "canonical:440cb15bebbd0374": "2026-07-31T23:39:05.867Z",
+    "canonical:1eb4633d9c774e5b": "2026-07-31T23:39:05.867Z",
+    "canonical:1f38e65fda3dd0ea": "2026-07-31T23:39:05.867Z",
+    "canonical:f9b7a6c3ada9dd55": "2026-07-31T23:39:05.867Z",
+    "canonical:c734c6d1df5733f3": "2026-07-31T23:39:05.867Z",
+    "canonical:7057a2cbb57f9823": "2026-07-31T23:39:05.867Z"
   },
   "jobs": [
     {
@@ -10596,20 +10600,6 @@
       ]
     },
     {
-      "id": "canonical:e9362a0768cb5f36",
-      "title": "Research Scientist/Engineer Intern",
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Research-Scientist-Engineer_R160317",
-      "location": "Seattle, WA / Toronto, ON, Canada / SF / Lafayette, KS / San Jose, CA / Hyattsville, MD / NYC",
-      "department": "AI/ML/Data",
-      "company": "Adobe",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:cef1c4aee4877b0b",
       "title": "Platform Technologies Language Design Intern",
       "url": "https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Santa-Clara-California-United-States/Platform-Technologies-Language-Design-Intern_R-101183",
@@ -14894,18 +14884,6 @@
       ]
     },
     {
-      "id": "canonical:7cd65dbc34efa0fa",
-      "title": "Skillbridge Intern - Product Manager",
-      "url": "https://job-boards.greenhouse.io/rise8/jobs/4359627007",
-      "location": "Remote in USA",
-      "department": "Product",
-      "company": "Rise8",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:2696d27e53de0c2e",
       "title": "Utility Engineering Intern",
       "url": "https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1624",
@@ -18047,6 +18025,19 @@
       ]
     },
     {
+      "id": "canonical:c1de0bc8cffbfaab",
+      "title": "Data Analytics Intern",
+      "url": "https://job-boards.greenhouse.io/goldenpetbrands/jobs/4713182005",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "Golden Pet Brands",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:00f3c0ed08ae0a1f",
       "title": "Software Engineer Intern - Enterprise Systems",
       "url": "https://job-boards.greenhouse.io/astranis/jobs/4699071006",
@@ -18212,19 +18203,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:4247bea2cf4aab99",
-      "title": "Forward Deployed Engineer Intern - AI Implementation",
-      "url": "https://www.nextiva.com/company/careers-listing?gh_jid=8639480002",
-      "location": "Scottsdale, AZ",
-      "department": "Software",
-      "company": "Nextiva",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -18699,18 +18677,6 @@
       "company": "Texas Instruments",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:076f78668e3326d7",
-      "title": "Applied Data Solutions Program Intern",
-      "url": "https://jobs.apple.com/en-us/details/200673612",
-      "location": "Austin, TX",
-      "department": "AI/ML/Data",
-      "company": "Apple",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
     },
     {
       "id": "canonical:63e18490d11ef543",
@@ -19486,19 +19452,6 @@
       ]
     },
     {
-      "id": "canonical:c1de0bc8cffbfaab",
-      "title": "Data Analytics Intern",
-      "url": "https://job-boards.greenhouse.io/goldenpetbrands/jobs/4713182005",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "Golden Pet Brands",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:294fa8608525e8fc",
       "title": "Data Engineer Intern",
       "url": "https://www.optimumcareers.com/job/Long-Island-City-Intern-Data-Engineer-NY-11101/1414286700/?ats=successfactors",
@@ -19559,6 +19512,106 @@
       "score": 58,
       "scoreReasons": [
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:190209721673190e",
+      "title": "Business Intelligence Intern - Business Intelligence",
+      "url": "https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Fire-Headquarters/Business-Intelligence-Internship_JR104636",
+      "location": "United States",
+      "department": "AI/ML/Data",
+      "company": "City of Austin",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:a038ce47c589019e",
+      "title": "Product Intern",
+      "url": "https://dowjones.wd1.myworkdayjobs.com/New_York_Post_Careers/job/NYC---1211-Ave-of-the-Americas/Product-Intern--Fall-2026--10-weeks--24-hours-a-week-_Job_Req_54488",
+      "location": "NYC",
+      "department": "Product",
+      "company": "New York Post Holdings",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:440cb15bebbd0374",
+      "title": "Hardware Engineer Intern - FPGA",
+      "url": "https://job-boards.greenhouse.io/virtu/jobs/8657286002",
+      "location": "Austin, TX",
+      "department": "Hardware",
+      "company": "Virtu Financial",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1eb4633d9c774e5b",
+      "title": "Quant Trader Intern",
+      "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552",
+      "location": "London, UK",
+      "department": "Quant",
+      "company": "Maven Securities",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1f38e65fda3dd0ea",
+      "title": "Machine Learning Intern - Manipulation",
+      "url": "https://jobs.ashbyhq.com/persona.ai/ed9a7425-9798-471e-b46a-fefd59570630/application?embed=true",
+      "location": "Houston, TX",
+      "department": "AI/ML/Data",
+      "company": "Persona AI",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f9b7a6c3ada9dd55",
+      "title": "Product Management Intern",
+      "url": "https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf/application?embed=true",
+      "location": "San Mateo, CA",
+      "department": "Product",
+      "company": "Skydio",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c734c6d1df5733f3",
+      "title": "Analytics Intern",
+      "url": "https://jobs.ashbyhq.com/Zello/3453d476-7b75-4938-8cff-502d1575859b/application?embed=true",
+      "location": "Austin, TX",
+      "department": "AI/ML/Data",
+      "company": "Zello",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:7057a2cbb57f9823",
+      "title": "AI Automation & Business Analytics Intern - Rotational Program",
+      "url": "https://ats.rippling.com/briowt/jobs/52da1fca-1cb1-49ff-8a94-b6f3850cd8eb",
+      "location": "Glendale, CA",
+      "department": "AI/ML/Data",
+      "company": "Brio Water Technology",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
       ]
     },
     {
