@@ -1,6 +1,6 @@
 # Open Internships
 
-**1588** internships across **141/143** companies — last updated 2026-08-01.
+**1593** internships across **141/143** companies — last updated 2026-08-01.
 
 ## Companies
 
@@ -45,6 +45,7 @@
 - [Arkema Global](#arkema-global) (1)
 - [Arlington County VA](#arlington-county-va) (1)
 - [Arlo](#arlo) (2)
+- [Arrowstreet Capital](#arrowstreet-capital) (2)
 - [ASM Global](#asm-global) (4)
 - [ASM International](#asm-international) (1)
 - [ASML](#asml) (2)
@@ -314,8 +315,8 @@
 - [Melotech](#melotech) (3)
 - [Menasha Corporation](#menasha-corporation) (1)
 - [Meshy](#meshy) (2)
-- [Meta](#meta) (13)
-- [Microchip Technology](#microchip-technology) (3)
+- [Meta](#meta) (14)
+- [Microchip Technology](#microchip-technology) (4)
 - [Microsoft](#microsoft) (1)
 - [Midmark ](#midmark) (1)
 - [Mindsmith](#mindsmith) (1)
@@ -355,6 +356,7 @@
 - [Notion](#notion) (5)
 - [Nuro](#nuro) (3)
 - [NVIDIA](#nvidia) (2)
+- [NXP Semiconductors](#nxp-semiconductors) (1)
 - [Occidental Petroleum](#occidental-petroleum) (1)
 - [Octaura](#octaura) (1)
 - [Old Mission](#old-mission) (6)
@@ -1014,6 +1016,13 @@
 | --- | --- | --- | --- | --- |
 | [SW Engineer Intern, Android (AI-Assisted Development)](https://arlo.wd12.myworkdayjobs.com/en-US/external_careers/job/Milpitas-CA/SW-Engineer-Intern--Android--AI-Assisted-Development-_JR100300) | 93 | Milpitas, CA | Software Engineering | 2026-05-09 |
 | [SW Engineer Intern, iOS (AI-Assisted Development)](https://arlo.wd12.myworkdayjobs.com/en-US/external_careers/job/Milpitas-CA/SW-Engineer-Intern--iOS--AI-Assisted-Development-_JR100299) | 93 | Milpitas, CA | Software Engineering | 2026-05-09 |
+
+## Arrowstreet Capital
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Quantitative Developer Intern](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506) | 93 | Boston, MA | Quant | 2026-08-01 |
+| [Quantitative Researcher Intern](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505) | 93 | Boston, MA | Quant | 2026-08-01 |
 
 ## ASM Global
 
@@ -2970,6 +2979,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Research Scientist Intern - Monetization Computer Vision](https://www.metacareers.com/jobs/2281218542616482) | 85 | Menlo Park, CA | AI/ML/Data | 2026-08-01 |
 | [Research Scientist Intern - Photorealistic Telepresence](https://www.metacareers.com/jobs/924149567345400) | 85 | London, UK | AI/ML/Data | 2026-08-01 |
 | [Research Scientist Intern - State Estimation for Dexterous Manipulation](https://www.metacareers.com/jobs/2774289902955470) | 85 | Redmond, WA | AI/ML/Data | 2026-08-01 |
 | [Research Scientist Intern - AI/ML - Core Ads Growth](https://www.metacareers.com/jobs/771948392580541) | 85 | London, UK | AI/ML/Data | 2026-08-01 |
@@ -2988,6 +2998,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Equipment Engineering Technician Intern - Metrology](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/OR---Gresham/Intern-Equipment-Engineering-Technician--Metrology-_R3077-26) | 50 | Fairview, OR | Hardware | 2026-08-01 |
 | [Equipment Engineering Technician Intern - Wet Process](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/OR---Gresham/Intern--Equipment-Engineering-Technician--Wet-Process-_R2124-25) | 50 | Gresham, OR | Hardware | 2026-08-01 |
 | [Intern Technician - Electronics](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/PA---Mount-Holly-Springs/Intern-Technician--Electronics-_R847-26) | 50 | Carlisle, PA | Hardware | 2026-08-01 |
 | [Power, Analog and Mixed-Signal IC Product Engineer Intern - Product Engineering](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Product-Engineering-_R3151-26-1) | 85 | Chandler, AZ | Software | 2026-08-01 |
@@ -3249,6 +3260,12 @@
 | --- | --- | --- | --- | --- |
 | [Performance Engineer Intern, Systems Software-  Fall 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779) | 93 | US, MO, St. Louis | Software / Fall 2026 | 2026-07-23 |
 | [Applied Research Intern, NLP - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488) | 68 | US, CA, Santa Clara | Data & ML/AI / Fall 2026 | 2026-07-23 |
+
+## NXP Semiconductors
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Digital Physical Design Intern - P&R](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Digital-Physical-Design--P-R--Intern_R-10064673) | 58 | Chandler, AZ | Hardware | 2026-08-01 |
 
 ## Occidental Petroleum
 

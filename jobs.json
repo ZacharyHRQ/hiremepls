@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-01T17:41:31.231Z",
+  "generatedAt": "2026-08-01T18:37:19.731Z",
   "companyCount": 143,
   "okCount": 141,
-  "jobCount": 1588,
+  "jobCount": 1593,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1591,7 +1591,12 @@
     "canonical:d0301d5322394fa7": "2026-08-01T17:41:31.231Z",
     "canonical:e162d0a0007f859b": "2026-08-01T17:41:31.231Z",
     "canonical:1724b377a213ea63": "2026-08-01T17:41:31.231Z",
-    "canonical:aa04d03e09a5416f": "2026-08-01T17:41:31.231Z"
+    "canonical:aa04d03e09a5416f": "2026-08-01T17:41:31.231Z",
+    "canonical:03256d9192dfcb79": "2026-08-01T18:37:19.731Z",
+    "canonical:824b038c14b32c4d": "2026-08-01T18:37:19.731Z",
+    "canonical:564534a264215b14": "2026-08-01T18:37:19.731Z",
+    "canonical:81c0f29f101f3da7": "2026-08-01T18:37:19.731Z",
+    "canonical:0c169a28a359e53a": "2026-08-01T18:37:19.731Z"
   },
   "jobs": [
     {
@@ -15527,6 +15532,19 @@
       ]
     },
     {
+      "id": "canonical:03256d9192dfcb79",
+      "title": "Research Scientist Intern - Monetization Computer Vision",
+      "url": "https://www.metacareers.com/jobs/2281218542616482",
+      "location": "Menlo Park, CA",
+      "department": "AI/ML/Data",
+      "company": "Meta",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:b3db40bed27920e6",
       "title": "AI-First Engineer Intern",
       "url": "https://jobs.lever.co/xsolla/5d5fd6b3-d82f-437a-b251-abf4674ac874/apply",
@@ -15561,6 +15579,34 @@
       "location": "Montreal, QC, Canada",
       "department": "Software",
       "company": "Xsolla",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:824b038c14b32c4d",
+      "title": "Quantitative Developer Intern",
+      "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506",
+      "location": "Boston, MA",
+      "department": "Quant",
+      "company": "Arrowstreet Capital",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:564534a264215b14",
+      "title": "Quantitative Researcher Intern",
+      "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505",
+      "location": "Boston, MA",
+      "department": "Quant",
+      "company": "Arrowstreet Capital",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -15813,6 +15859,18 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:81c0f29f101f3da7",
+      "title": "Digital Physical Design Intern - P&R",
+      "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Digital-Physical-Design--P-R--Intern_R-10064673",
+      "location": "Chandler, AZ",
+      "department": "Hardware",
+      "company": "NXP Semiconductors",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
       ]
     },
     {
@@ -16626,6 +16684,16 @@
       "scoreReasons": [
         "direct ATS"
       ]
+    },
+    {
+      "id": "canonical:0c169a28a359e53a",
+      "title": "Equipment Engineering Technician Intern - Metrology",
+      "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/OR---Gresham/Intern-Equipment-Engineering-Technician--Metrology-_R3077-26",
+      "location": "Fairview, OR",
+      "department": "Hardware",
+      "company": "Microchip Technology",
+      "score": 50,
+      "scoreReasons": []
     },
     {
       "id": "canonical:afb536cb1eecb81f",
