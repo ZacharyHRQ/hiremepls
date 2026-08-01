@@ -1,6 +1,6 @@
 # Open Internships
 
-**1668** internships across **141/143** companies — last updated 2026-07-31.
+**1667** internships across **141/143** companies — last updated 2026-08-01.
 
 ## Companies
 
@@ -95,7 +95,6 @@
 - [Boston Consulting Group](#boston-consulting-group) (2)
 - [Bot Auto](#bot-auto) (1)
 - [Bree](#bree) (1)
-- [Brex](#brex) (1)
 - [Brio Water Technology](#brio-water-technology) (1)
 - [Brookfield](#brookfield) (2)
 - [Brunswick](#brunswick) (2)
@@ -393,7 +392,7 @@
 - [Onware](#onware) (1)
 - [Optiver](#optiver) (9)
 - [OpusClip](#opusclip) (1)
-- [Oracle](#oracle) (7)
+- [Oracle](#oracle) (6)
 - [Orennia](#orennia) (1)
 - [Outpost Technologies](#outpost-technologies) (1)
 - [Output Biosciences](#output-biosciences) (1)
@@ -431,7 +430,7 @@
 - [Quadric](#quadric) (2)
 - [Quadrillion](#quadrillion) (2)
 - [QuantCo](#quantco) (1)
-- [Quora](#quora) (1)
+- [Quora](#quora) (2)
 - [Radix Trading](#radix-trading) (1)
 - [Rainmaker](#rainmaker) (1)
 - [Ramp](#ramp) (1)
@@ -1392,12 +1391,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer – Machine Learning Intern/Co-op](http://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a/application) | 93 | Toronto, ON, Canada | AI/ML/Data | 2026-07-20 |
-
-## Brex
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Brex Internship Program](https://www.brex.com/careers/8578067002?gh_jid=8578067002) | 50 | São Paulo, São Paulo, Brazil | — | 2026-06-04 |
 
 ## Brio Water Technology
 
@@ -3566,7 +3559,6 @@
 | [Advanced Degree Software Engineer Intern](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/329007) | 85 | Pleasanton, CA / San Carlos, CA / Santa Clara, CA | Software | 2026-05-09 |
 | [Advanced Degree Software Engineer Intern - Industries](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/320947) | 85 | United States | Software | 2026-05-09 |
 | [Data Analyst Intern](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/326682) | 60 | Nashville, TN | AI/ML/Data | 2026-05-09 |
-| [Oracle Pathways Software School Intern](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/318087) | 60 | Nashville, TN | Software | 2026-05-09 |
 
 ## Orennia
 
@@ -3923,6 +3915,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer, Machine Learning Platform, New Grad - Quora (Remote)](https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db) | 96 | — | Engineering | 2026-08-01 |
 | [Machine Learning Engineer, New Grad - Quora (Remote)](https://jobs.ashbyhq.com/quora/3eb7e80e-6a0d-41b6-8ee4-f62421c486e4) | 96 | — | Engineering | 2026-07-28 |
 
 ## Radix Trading

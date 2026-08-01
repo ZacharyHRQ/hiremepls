@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-31T23:39:05.867Z",
+  "generatedAt": "2026-08-01T01:11:39.659Z",
   "companyCount": 143,
   "okCount": 141,
-  "jobCount": 1668,
+  "jobCount": 1667,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -56,7 +56,6 @@
     "canonical:3f44cd57fca349f6": "2026-05-09T15:28:15.527Z",
     "canonical:c9ec25487402b980": "2026-05-09T15:28:15.527Z",
     "canonical:1142853ad5f25a81": "2026-05-09T15:28:15.527Z",
-    "canonical:21c3452540b2e7d3": "2026-05-09T15:28:15.527Z",
     "canonical:18df2a1964fc05b8": "2026-05-09T15:28:15.527Z",
     "canonical:c8e0ad6b0204c789": "2026-05-09T15:28:15.527Z",
     "canonical:28e42db883c713ad": "2026-05-09T15:28:15.527Z",
@@ -249,7 +248,6 @@
     "canonical:0cb411253e09ff95": "2026-06-03T10:04:55.299Z",
     "canonical:d5989df87e86b977": "2026-06-03T10:04:55.299Z",
     "canonical:15c9ad54e5b37301": "2026-06-03T23:25:54.380Z",
-    "canonical:a75f26c83f13cb1f": "2026-06-04T02:03:01.247Z",
     "canonical:82923c3db9bd2d1e": "2026-06-04T10:33:21.660Z",
     "canonical:763df8b7c0adebc0": "2026-06-04T22:43:20.014Z",
     "canonical:7ff4f5a09ec23d64": "2026-06-04T22:43:20.014Z",
@@ -1671,7 +1669,8 @@
     "canonical:1f38e65fda3dd0ea": "2026-07-31T23:39:05.867Z",
     "canonical:f9b7a6c3ada9dd55": "2026-07-31T23:39:05.867Z",
     "canonical:c734c6d1df5733f3": "2026-07-31T23:39:05.867Z",
-    "canonical:7057a2cbb57f9823": "2026-07-31T23:39:05.867Z"
+    "canonical:7057a2cbb57f9823": "2026-07-31T23:39:05.867Z",
+    "canonical:7756f5c0ccf773ae": "2026-08-01T01:11:39.659Z"
   },
   "jobs": [
     {
@@ -6512,6 +6511,22 @@
       ]
     },
     {
+      "id": "canonical:7756f5c0ccf773ae",
+      "title": "Software Engineer, Machine Learning Platform, New Grad - Quora (Remote)",
+      "url": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db",
+      "location": "",
+      "department": "Engineering",
+      "company": "Quora",
+      "score": 96,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
+        "direct ATS",
+        "unknown location"
+      ]
+    },
+    {
       "id": "canonical:f33f79381a77dc3f",
       "title": "Accounting Intern",
       "url": "https://jobs.smartrecruiters.com/Wise/744000140165324",
@@ -6875,16 +6890,6 @@
         "direct ATS",
         "unknown location"
       ]
-    },
-    {
-      "id": "canonical:a75f26c83f13cb1f",
-      "title": "Brex Internship Program",
-      "url": "https://www.brex.com/careers/8578067002?gh_jid=8578067002",
-      "location": "São Paulo, São Paulo, Brazil",
-      "department": "",
-      "company": "Brex",
-      "score": 50,
-      "scoreReasons": []
     },
     {
       "id": "canonical:4325fb8e7b267a59",
@@ -7522,18 +7527,6 @@
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:21c3452540b2e7d3",
-      "title": "Oracle Pathways Software School Intern",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/318087",
-      "location": "Nashville, TN",
-      "department": "Software",
-      "company": "Oracle",
-      "score": 60,
-      "scoreReasons": [
         "high-signal role"
       ]
     },
