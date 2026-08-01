@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-01T04:33:44.989Z",
+  "generatedAt": "2026-08-01T07:12:07.696Z",
   "companyCount": 143,
-  "okCount": 141,
-  "jobCount": 1671,
+  "okCount": 139,
+  "jobCount": 1670,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1540,7 +1540,6 @@
     "canonical:3ff9782528b8221c": "2026-07-30T04:26:22.286Z",
     "canonical:19245c35f8891eba": "2026-07-30T07:08:20.036Z",
     "canonical:e2b367f8233e27f7": "2026-07-30T09:38:48.011Z",
-    "canonical:1af2d0ed6e4d9fa1": "2026-07-30T11:31:57.881Z",
     "canonical:875860d7eb0edefe": "2026-07-30T11:31:57.881Z",
     "canonical:165736f3f7436d71": "2026-07-30T11:31:57.881Z",
     "canonical:3dc165a7fa56ca58": "2026-07-30T11:31:57.881Z",
@@ -6346,16 +6345,6 @@
       "location": "London",
       "department": "Applied Science",
       "company": "Amazon",
-      "score": 50,
-      "scoreReasons": []
-    },
-    {
-      "id": "canonical:1af2d0ed6e4d9fa1",
-      "title": "Chemistry Intern",
-      "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Abingdon---141-Park-Drive/Chemistry-Intern_R0046314",
-      "location": "Abingdon - 141 Park Drive",
-      "department": "",
-      "company": "Snap",
       "score": 50,
       "scoreReasons": []
     },
@@ -23038,12 +23027,20 @@
   ],
   "errors": [
     {
+      "company": "Snap",
+      "message": "workday snap: expected JSON, got text/html; charset=UTF-8: <!DOCTYPE html>\n<html lang=\"en\" dir=\"ltr\">\n  <head>\n    <meta charset=\"utf-8\" />"
+    },
+    {
       "company": "Coursera",
       "message": "greenhouse coursera: HTTP 404"
     },
     {
       "company": "Fireworks AI",
       "message": "greenhouse fireworksai: HTTP 404"
+    },
+    {
+      "company": "BlackRock",
+      "message": "workday blackrock: expected JSON, got text/html; charset=UTF-8: <!DOCTYPE html>\n<html lang=\"en\" dir=\"ltr\">\n  <head>\n    <meta charset=\"utf-8\" />"
     }
   ]
 }

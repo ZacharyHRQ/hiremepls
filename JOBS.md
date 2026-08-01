@@ -1,6 +1,6 @@
 # Open Internships
 
-**1671** internships across **141/143** companies — last updated 2026-08-01.
+**1670** internships across **139/143** companies — last updated 2026-08-01.
 
 ## Companies
 
@@ -478,7 +478,6 @@
 - [Skydio](#skydio) (2)
 - [Smiths Detection](#smiths-detection) (1)
 - [Smiths Detection Group](#smiths-detection-group) (2)
-- [Snap](#snap) (1)
 - [Snowflake](#snowflake) (10)
 - [Solar Turbines](#solar-turbines) (2)
 - [SoloPulse](#solopulse) (3)
@@ -4247,12 +4246,6 @@
 | [Commercial Intern - Commercial Tools & Business Intelligence](https://jobs.smartrecruiters.com/SmithsGroup2/744000140169009) | 68 | Slough, UK | AI/ML/Data | 2026-07-28 |
 | [Depot Service Engineer Intern](https://jobs.smartrecruiters.com/SmithsGroup2/744000125196499) | 58 | Gunpowder, MD | Hardware | 2026-07-26 |
 
-## Snap
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Chemistry Intern](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Abingdon---141-Park-Drive/Chemistry-Intern_R0046314) | 50 | Abingdon - 141 Park Drive | — | 2026-07-30 |
-
 ## Snowflake
 
 | Title | Score | Location | Department | First seen |
@@ -5176,5 +5169,7 @@
 
 ## Errors this run
 
+- **Snap**: workday snap: expected JSON, got text/html; charset=UTF-8: <!DOCTYPE html> <html lang="en" dir="ltr">   <head>     <meta charset="utf-8" />
 - **Coursera**: greenhouse coursera: HTTP 404
 - **Fireworks AI**: greenhouse fireworksai: HTTP 404
+- **BlackRock**: workday blackrock: expected JSON, got text/html; charset=UTF-8: <!DOCTYPE html> <html lang="en" dir="ltr">   <head>     <meta charset="utf-8" />
