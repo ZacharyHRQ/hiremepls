@@ -1,6 +1,6 @@
 # Open Internships
 
-**1667** internships across **141/143** companies — last updated 2026-08-01.
+**1671** internships across **141/143** companies — last updated 2026-08-01.
 
 ## Companies
 
@@ -17,7 +17,6 @@
 - [Akuna Capital](#akuna-capital) (11)
 - [Al Warren Oil Company](#al-warren-oil-company) (1)
 - [AlixPartners](#alixpartners) (1)
-- [Altice USA](#altice-usa) (1)
 - [Altom Transport](#altom-transport) (2)
 - [Amazon](#amazon) (169)
 - [Ambarella](#ambarella) (8)
@@ -122,7 +121,7 @@
 - [Circleback](#circleback) (1)
 - [Cirrus Logic](#cirrus-logic) (3)
 - [Cisive](#cisive) (1)
-- [Citadel](#citadel) (13)
+- [Citadel](#citadel) (14)
 - [Citadel Securities](#citadel-securities) (11)
 - [City of Austin](#city-of-austin) (1)
 - [Clarity Innovations](#clarity-innovations) (1)
@@ -340,7 +339,7 @@
 - [Mercer University](#mercer-university) (1)
 - [Meshy](#meshy) (1)
 - [Meta](#meta) (14)
-- [Microchip Technology](#microchip-technology) (1)
+- [Microchip Technology](#microchip-technology) (2)
 - [Microsoft](#microsoft) (1)
 - [Midmark ](#midmark) (1)
 - [Mindsmith](#mindsmith) (1)
@@ -472,6 +471,7 @@
 - [Shopify](#shopify) (1)
 - [ShyftLabs](#shyftlabs) (2)
 - [SiFive](#sifive) (1)
+- [SiMa.ai](#sima-ai) (2)
 - [SimonComputing](#simoncomputing) (1)
 - [Sixtyfour (X25)](#sixtyfour-x25) (1)
 - [SK Hynix Memory Solution](#sk-hynix-memory-solution) (1)
@@ -545,6 +545,7 @@
 - [Uncountable](#uncountable) (1)
 - [Unisys](#unisys) (1)
 - [University of Arkansas](#university-of-arkansas) (2)
+- [University of Maryland - College Park](#university-of-maryland-college-park) (1)
 - [University of Texas at Austin](#university-of-texas-at-austin) (4)
 - [University of Virginia](#university-of-virginia) (1)
 - [University of Virginia Investment Management Company (UVIMCO)](#university-of-virginia-investment-management-company-uvimco) (1)
@@ -677,12 +678,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Data Scientist Intern](https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003) | 85 | NYC | AI/ML/Data | 2026-07-20 |
-
-## Altice USA
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Engineer Intern](https://www.optimumcareers.com/job/Long-Island-City-Intern-Data-Engineer-NY-11101/1414286700/?ats=successfactors) | 85 | Long Island City, Queens, NY | AI/ML/Data | 2026-07-31 |
 
 ## Altom Transport
 
@@ -1620,6 +1615,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Sector Data Analyst Intern](https://www.citadel.com/careers/details/sector-data-analyst-intern-europe/) | 60 | London, UK | AI/ML/Data | 2026-08-01 |
 | [Quantitative Research Engineer Intern](https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-europe/) | 85 | London, UK | Quant | 2026-07-14 |
 | [Software Engineer Intern](https://www.citadel.com/careers/details/software-engineer-intern-europe/) | 85 | London, UK | Software | 2026-07-14 |
 | [Investment & Trading Intern](https://www.citadel.com/careers/details/investment-trading-intern-europe/) | 60 | London, UK / Paris, France | Quant | 2026-07-14 |
@@ -3200,6 +3196,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Power, Analog and Mixed-Signal IC Product Engineer Intern - Product Engineering](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Product-Engineering-_R3151-26-1) | 85 | Chandler, AZ | Software | 2026-08-01 |
 | [Equipment Engineering Technician Intern - Metrology](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/OR---Gresham/Intern-Equipment-Engineering-Technician--Metrology-_R3077-26) | 50 | Fairview, OR | Hardware | 2026-07-21 |
 
 ## Microsoft
@@ -4205,6 +4202,13 @@
 | --- | --- | --- | --- | --- |
 | [Platform Technologies Language Design Intern](https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Santa-Clara-California-United-States/Platform-Technologies-Language-Design-Intern_R-101183) | 68 | Santa Clara, CA / Berkeley, CA | Software | 2026-07-29 |
 
+## SiMa.ai
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Application Development Intern](https://jobs.jobvite.com/simaai/job/ohRqAfwS?nl=1&nl=1&fr=false) | 60 | San Jose, CA | Software | 2026-08-01 |
+| [Application Engineering Intern](https://jobs.jobvite.com/simaai/job/oBUkAfw9?nl=1&nl=1&fr=false) | 60 | San Jose, CA | Software | 2026-08-01 |
+
 ## SimonComputing
 
 | Title | Score | Location | Department | First seen |
@@ -4527,7 +4531,7 @@
 | [C++ Software Engineer Intern, Systems, AI](https://www.tesla.com/careers/search/job/247862) | 85 | Palo Alto, CA | — | 2026-07-09 |
 | [Charging Distributed Systems Software Engineer Intern, Energy Engineering](https://www.tesla.com/careers/search/job/248070?source=Indeed&source=Indeed&tags=organicjob) | 85 | Palo Alto, CA | — | 2026-07-09 |
 | [Machine Learning Engineer Intern, Noise Vibration Harshness Engineering](https://www.tesla.com/careers/search/job/244786?source=Indeed&source=Indeed&tags=organicjob) | 85 | Fremont, CA | — | 2026-07-09 |
-| [Software Compiler Engineer Intern, AI Inference](https://www.tesla.com/careers/search/job/247889) | 85 | Palo Alto, CA | — | 2026-07-09 |
+| [Software Compiler Engineer Intern - AI Inference](https://www.tesla.com/careers/search/job/278847) | 85 | Palo Alto, CA | Software | 2026-07-09 |
 | [Software Developer Intern, Integration Platforms](https://www.tesla.com/careers/search/job/internship-software-developer-integration-platforms-fall-2026-270037) | 85 | Palo Alto, CA | — | 2026-07-09 |
 | [Software Engineer Intern, Factory Software](https://www.tesla.com/careers/search/job/248001) | 85 | Fremont, CA | — | 2026-07-09 |
 | [Software Engineer Intern, Information Security](https://www.tesla.com/careers/search/job/254590) | 85 | Bellevue, WA | — | 2026-07-09 |
@@ -4874,6 +4878,12 @@
 | --- | --- | --- | --- | --- |
 | [Cosmos Graduate Research Assistant](https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Researcher-_R0053889-2) | 74 | Little Rock, AR | AI/ML/Data | 2026-07-31 |
 | [Graduate Research Assistant Intern](https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Developer-_R0053891) | 74 | Little Rock, AR | Software | 2026-07-31 |
+
+## University of Maryland - College Park
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Office of Career Services Intern - Technology Team](https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Intern--Office-of-Career-Services---Technology-Team_JR104246-1) | 68 | Hyattsville, MD | AI/ML/Data | 2026-08-01 |
 
 ## University of Texas at Austin
 

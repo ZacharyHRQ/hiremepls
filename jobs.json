@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-01T01:11:39.659Z",
+  "generatedAt": "2026-08-01T04:33:44.989Z",
   "companyCount": 143,
   "okCount": 141,
-  "jobCount": 1667,
+  "jobCount": 1671,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1657,7 +1657,6 @@
     "canonical:632bbc401e9bc83a": "2026-07-31T22:31:38.042Z",
     "canonical:c5a1b3a3fc946bff": "2026-07-31T22:31:38.042Z",
     "canonical:c1de0bc8cffbfaab": "2026-07-31T22:31:38.042Z",
-    "canonical:294fa8608525e8fc": "2026-07-31T22:31:38.042Z",
     "canonical:b2483be6a5d3871f": "2026-07-31T22:31:38.042Z",
     "canonical:3e5f2a2755e117fa": "2026-07-31T22:31:38.042Z",
     "canonical:159c25090b877d18": "2026-07-31T22:31:38.042Z",
@@ -1670,7 +1669,12 @@
     "canonical:f9b7a6c3ada9dd55": "2026-07-31T23:39:05.867Z",
     "canonical:c734c6d1df5733f3": "2026-07-31T23:39:05.867Z",
     "canonical:7057a2cbb57f9823": "2026-07-31T23:39:05.867Z",
-    "canonical:7756f5c0ccf773ae": "2026-08-01T01:11:39.659Z"
+    "canonical:7756f5c0ccf773ae": "2026-08-01T01:11:39.659Z",
+    "canonical:ae1902dace82286a": "2026-08-01T04:33:44.989Z",
+    "canonical:e0e6eb4065078ce5": "2026-08-01T04:33:44.989Z",
+    "canonical:da17fa2a382986c7": "2026-08-01T04:33:44.989Z",
+    "canonical:5481651d6639fcbb": "2026-08-01T04:33:44.989Z",
+    "canonical:654cca24226e8e3c": "2026-08-01T04:33:44.989Z"
   },
   "jobs": [
     {
@@ -14916,6 +14920,19 @@
       ]
     },
     {
+      "id": "canonical:ae1902dace82286a",
+      "title": "Office of Career Services Intern - Technology Team",
+      "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Intern--Office-of-Career-Services---Technology-Team_JR104246-1",
+      "location": "Hyattsville, MD",
+      "department": "AI/ML/Data",
+      "company": "University of Maryland - College Park",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:903ed5adf5945dd7",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application",
@@ -19445,19 +19462,6 @@
       ]
     },
     {
-      "id": "canonical:294fa8608525e8fc",
-      "title": "Data Engineer Intern",
-      "url": "https://www.optimumcareers.com/job/Long-Island-City-Intern-Data-Engineer-NY-11101/1414286700/?ats=successfactors",
-      "location": "Long Island City, Queens, NY",
-      "department": "AI/ML/Data",
-      "company": "Altice USA",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:b2483be6a5d3871f",
       "title": "IT Development Program Intern - IT Development Program",
       "url": "https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Genworth-IT-Development-Program-Intern---Summer-2027_REQ-260269-1",
@@ -19608,6 +19612,68 @@
       ]
     },
     {
+      "id": "canonical:e0e6eb4065078ce5",
+      "title": "Power, Analog and Mixed-Signal IC Product Engineer Intern - Product Engineering",
+      "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Product-Engineering-_R3151-26-1",
+      "location": "Chandler, AZ",
+      "department": "Software",
+      "company": "Microchip Technology",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:da17fa2a382986c7",
+      "title": "Application Development Intern",
+      "url": "https://jobs.jobvite.com/simaai/job/ohRqAfwS?nl=1&nl=1&fr=false",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "SiMa.ai",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:5481651d6639fcbb",
+      "title": "Application Engineering Intern",
+      "url": "https://jobs.jobvite.com/simaai/job/oBUkAfw9?nl=1&nl=1&fr=false",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "SiMa.ai",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:654cca24226e8e3c",
+      "title": "Sector Data Analyst Intern",
+      "url": "https://www.citadel.com/careers/details/sector-data-analyst-intern-europe/",
+      "location": "London, UK",
+      "department": "AI/ML/Data",
+      "company": "Citadel",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:e17757e617451828",
+      "title": "Software Compiler Engineer Intern - AI Inference",
+      "url": "https://www.tesla.com/careers/search/job/278847",
+      "location": "Palo Alto, CA",
+      "department": "Software",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:12cd06c0eec80152",
       "title": "Frontend Software Engineer Intern",
       "url": "https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c",
@@ -19685,19 +19751,6 @@
       "id": "canonical:d5060d82e7e68380",
       "title": "C++ Software Engineer Intern, Systems, AI",
       "url": "https://www.tesla.com/careers/search/job/247862",
-      "location": "Palo Alto, CA",
-      "department": "",
-      "company": "Tesla",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:e17757e617451828",
-      "title": "Software Compiler Engineer Intern, AI Inference",
-      "url": "https://www.tesla.com/careers/search/job/247889",
       "location": "Palo Alto, CA",
       "department": "",
       "company": "Tesla",
