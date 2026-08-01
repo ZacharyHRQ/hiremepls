@@ -1,6 +1,6 @@
 # Open Internships
 
-**1706** internships across **141/143** companies — last updated 2026-08-01.
+**1714** internships across **141/143** companies — last updated 2026-08-01.
 
 ## Companies
 
@@ -118,7 +118,7 @@
 - [Cherry Bekaert](#cherry-bekaert) (2)
 - [Chevron Corporation](#chevron-corporation) (4)
 - [Chicago Trading Company](#chicago-trading-company) (3)
-- [Ciena](#ciena) (7)
+- [Ciena](#ciena) (8)
 - [Circle K](#circle-k) (1)
 - [Circleback](#circleback) (1)
 - [Cirrus Logic](#cirrus-logic) (3)
@@ -131,7 +131,7 @@
 - [CloudFit Software](#cloudfit-software) (1)
 - [Cloudflare](#cloudflare) (13)
 - [Cloudforce](#cloudforce) (1)
-- [Clyde Companies](#clyde-companies) (1)
+- [Clyde Companies](#clyde-companies) (2)
 - [CME Group](#cme-group) (1)
 - [Codeage](#codeage) (1)
 - [Cohere](#cohere) (5)
@@ -141,6 +141,7 @@
 - [Composio](#composio) (1)
 - [Conagra Brands](#conagra-brands) (2)
 - [ConnectPrep](#connectprep) (2)
+- [ConocoPhillips](#conocophillips) (2)
 - [Constellation Space](#constellation-space) (1)
 - [Cooper Companies](#cooper-companies) (1)
 - [Copart](#copart) (6)
@@ -280,7 +281,7 @@
 - [Hone Health](#hone-health) (1)
 - [Horizon Industries](#horizon-industries) (1)
 - [HPM Building Supply](#hpm-building-supply) (1)
-- [HPR (Hyannis Port Research)](#hpr-hyannis-port-research) (1)
+- [HPR (Hyannis Port Research)](#hpr-hyannis-port-research) (2)
 - [Hubs.is](#hubs-is) (1)
 - [Hudson River Trading](#hudson-river-trading) (4)
 - [Human Computer Lab](#human-computer-lab) (1)
@@ -344,6 +345,7 @@
 - [Medical Informatics Engineering](#medical-informatics-engineering) (1)
 - [Medpace](#medpace) (2)
 - [Medpace, Inc.](#medpace-inc) (2)
+- [Medtronic](#medtronic) (1)
 - [Melius](#melius) (2)
 - [Melotech](#melotech) (3)
 - [Menasha Corporation](#menasha-corporation) (1)
@@ -429,6 +431,7 @@
 - [Pony.ai](#pony-ai) (2)
 - [Poshmark](#poshmark) (1)
 - [Postman](#postman) (1)
+- [PPL](#ppl) (1)
 - [Primetals Technologies](#primetals-technologies) (2)
 - [Prior Labs](#prior-labs) (1)
 - [PSECU](#psecu) (1)
@@ -540,6 +543,7 @@
 - [TikTok](#tiktok) (53)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
+- [TMX Group](#tmx-group) (1)
 - [Together AI](#together-ai) (3)
 - [Topel Forman LLC](#topel-forman-llc) (1)
 - [Torc Robotics](#torc-robotics) (1)
@@ -1616,6 +1620,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [WaveLogic Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/WaveLogic-Software---Intern_R031443) | 93 | Ottawa, ON, Canada | Hardware | 2026-08-01 |
 | [Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering-Intern_R031372) | 93 | Ottawa, ON, Canada | Software | 2026-08-01 |
 | [Software Liquid Spectrum Applications Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Liquid-Spectrum-Applications-Intern--Fall-2026-_R031412) | 68 | Ottawa, ON, Canada | Software | 2026-08-01 |
 | [Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/UK--Edinburgh---19A-Canning-St/Software-Engineering-Intern--3-12-Months-_R031332) | 93 | Edinburgh, UK | Hardware | 2026-08-01 |
@@ -1738,6 +1743,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Business Intelligence Intern](https://careers.clydeinc.com/jobs/22659?icims=1) | 60 | Orem, UT | AI/ML/Data | 2026-08-01 |
 | [Application Development Intern](https://careers.clydeinc.com/jobs/24398?icims=1) | 60 | Orem, UT | AI/ML/Data | 2026-08-01 |
 
 ## CME Group
@@ -1799,6 +1805,13 @@
 | --- | --- | --- | --- | --- |
 | [Data Analyst Intern](https://apply.workable.com/connectprep/j/C0CA13664F/apply) | 68 | Washington, DC / Remote in USA | AI/ML/Data | 2026-08-01 |
 | [Data Analyst Internship](https://apply.workable.com/connectprep/j/C0CA13664F/) | 68 | Washington, District of Columbia, United States (Remote) | Data & ML/AI / Not stated | 2026-07-20 |
+
+## ConocoPhillips
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Geosciences Intern](https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Intern--Geosciences-2027_REQ-006385) | 68 | Midland, TX / Houston, TX / Anchorage, AK | AI/ML/Data | 2026-08-01 |
+| [GIS Intern](https://conocophillips.wd1.myworkdayjobs.com/External/job/Bartlesville-OK/GIS-Intern--Corporate-Land-2027_REQ-006208) | 68 | Bartlesville, OK | AI/ML/Data | 2026-08-01 |
 
 ## Constellation Space
 
@@ -2730,7 +2743,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineering Intern - Summer 2027](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003) | 68 | Needham, MA | Software / Summer 2027 | 2026-08-01 |
+| [Software Engineer Intern](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003) | 93 | Needham, MA | Software | 2026-08-01 |
+| [FPGA Engineer Intern](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003) | 58 | Needham, MA | Hardware | 2026-08-01 |
 
 ## Hubs.is
 
@@ -3233,6 +3247,12 @@
 | --- | --- | --- | --- | --- |
 | [AI Engineer Intern](https://careers.medpace.com/jobs/12729?lang=en-us&icims=1) | 85 | Cincinnati, OH | AI/ML/Data | 2026-08-01 |
 | [Data Engineer Intern](https://careers.medpace.com/jobs/12767?lang=en-us&icims=1) | 85 | Cincinnati, OH | AI/ML/Data | 2026-08-01 |
+
+## Medtronic
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630) | 93 | Boston, MA / Santa Ana, CA / Fridley, MN / Santa Rosa, CA / Irvine, CA / Mansfield, MA / Mounds View, MN / Tempe, AZ / Memphis, TN / Brooklyn Center, MN / Plymouth, MN / Brooklyn Park, MN / Fort Worth, TX / Dexter, MI / North Haven, CT / Lafayette, CO / Minneapolis, MN / Newton, MA / Jacksonville, FL / Eatontown, NJ / Boulder, CO | Software | 2026-08-01 |
 
 ## Melius
 
@@ -3937,7 +3957,13 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [AI Engineer, Intern](https://job-boards.greenhouse.io/postman/jobs/7823417003) | 93 | Berkeley, California, United States | Data & ML/AI / Not stated | 2026-08-01 |
+| [AI Engineer Intern](https://job-boards.greenhouse.io/postman/jobs/7823417003) | 93 | Berkeley, CA | AI/ML/Data | 2026-08-01 |
+
+## PPL
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Research & Development PhD Engineer Intern](https://careers.pplweb.com/jobs/14149?icims=1) | 85 | Lexington, KY / Providence, RI / Allentown, PA | AI/ML/Data | 2026-08-01 |
 
 ## Primetals Technologies
 
@@ -4874,6 +4900,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Intern - Applications, AI and Machine Learning](https://apply.workable.com/tmeic-corporation-americas/j/FD4C9770FF/) | 68 | Roanoke, VA | Data Science, AI & Machine Learning | 2026-05-09 |
+
+## TMX Group
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Analyst Student Intern - Market Insights](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Analyst--Market-Insights--Student-Intern_R-6125) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-08-01 |
 
 ## Together AI
 

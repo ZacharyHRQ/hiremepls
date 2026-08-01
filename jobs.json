@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-01T22:35:45.744Z",
+  "generatedAt": "2026-08-01T23:37:49.562Z",
   "companyCount": 143,
   "okCount": 141,
-  "jobCount": 1706,
+  "jobCount": 1714,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1516,7 +1516,6 @@
     "canonical:4a50c95efa3ac4f5": "2026-08-01T14:23:11.511Z",
     "canonical:d32ae9699e017f4c": "2026-08-01T14:23:11.511Z",
     "canonical:1df22a3412cdd30e": "2026-08-01T14:23:11.511Z",
-    "canonical:a87a72c9a3af093b": "2026-08-01T15:33:38.600Z",
     "canonical:4f85d18e62f2efe6": "2026-08-01T15:33:38.600Z",
     "canonical:6a54db97364bf00a": "2026-08-01T15:33:38.600Z",
     "canonical:46f7a31ad3598b53": "2026-08-01T15:33:38.600Z",
@@ -1567,7 +1566,6 @@
     "canonical:75cf3391e1042ac2": "2026-08-01T16:36:04.156Z",
     "canonical:eedbd3feb3976008": "2026-08-01T16:36:04.156Z",
     "canonical:cbe4f7922dc61a8c": "2026-08-01T16:36:04.156Z",
-    "canonical:2de2899062ef729b": "2026-08-01T16:36:04.156Z",
     "canonical:ce0adcff9203e4c5": "2026-08-01T17:41:31.231Z",
     "canonical:903ed5adf5945dd7": "2026-08-01T17:41:31.231Z",
     "canonical:afa2d46863565441": "2026-08-01T17:41:31.231Z",
@@ -1709,7 +1707,17 @@
     "canonical:c734c6d1df5733f3": "2026-08-01T22:35:45.744Z",
     "canonical:7057a2cbb57f9823": "2026-08-01T22:35:45.744Z",
     "canonical:edc3a522c9208e66": "2026-08-01T22:35:45.744Z",
-    "canonical:b4f9dde6d2e8fd17": "2026-08-01T22:35:45.744Z"
+    "canonical:b4f9dde6d2e8fd17": "2026-08-01T22:35:45.744Z",
+    "canonical:2bfd044e05f72cfa": "2026-08-01T23:37:49.562Z",
+    "canonical:954aaee20b550fc2": "2026-08-01T23:37:49.562Z",
+    "canonical:a37a272f9143198f": "2026-08-01T23:37:49.562Z",
+    "canonical:42d728827081c1e1": "2026-08-01T23:37:49.562Z",
+    "canonical:3dad91b9bad22aba": "2026-08-01T23:37:49.562Z",
+    "canonical:0e017ac8de8fe28a": "2026-08-01T23:37:49.562Z",
+    "canonical:ce8129deaf03cf09": "2026-08-01T23:37:49.562Z",
+    "canonical:132d9ddb0eea7bdd": "2026-08-01T23:37:49.562Z",
+    "canonical:23f870c8003a163b": "2026-08-01T23:37:49.562Z",
+    "canonical:ff3d1065d5a25996": "2026-08-01T23:37:49.562Z"
   },
   "jobs": [
     {
@@ -6964,11 +6972,11 @@
       "scoreReasons": []
     },
     {
-      "id": "canonical:a87a72c9a3af093b",
-      "title": "AI Engineer, Intern",
+      "id": "canonical:2bfd044e05f72cfa",
+      "title": "AI Engineer Intern",
       "url": "https://job-boards.greenhouse.io/postman/jobs/7823417003",
-      "location": "Berkeley, California, United States",
-      "department": "Data & ML/AI / Not stated",
+      "location": "Berkeley, CA",
+      "department": "AI/ML/Data",
       "company": "Postman",
       "score": 93,
       "scoreReasons": [
@@ -20098,6 +20106,124 @@
       ]
     },
     {
+      "id": "canonical:954aaee20b550fc2",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003",
+      "location": "Needham, MA",
+      "department": "Software",
+      "company": "HPR (Hyannis Port Research)",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:a37a272f9143198f",
+      "title": "FPGA Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003",
+      "location": "Needham, MA",
+      "department": "Hardware",
+      "company": "HPR (Hyannis Port Research)",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:42d728827081c1e1",
+      "title": "Software Engineer Intern",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630",
+      "location": "Boston, MA / Santa Ana, CA / Fridley, MN / Santa Rosa, CA / Irvine, CA / Mansfield, MA / Mounds View, MN / Tempe, AZ / Memphis, TN / Brooklyn Center, MN / Plymouth, MN / Brooklyn Park, MN / Fort Worth, TX / Dexter, MI / North Haven, CT / Lafayette, CO / Minneapolis, MN / Newton, MA / Jacksonville, FL / Eatontown, NJ / Boulder, CO",
+      "department": "Software",
+      "company": "Medtronic",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:3dad91b9bad22aba",
+      "title": "GIS Intern",
+      "url": "https://conocophillips.wd1.myworkdayjobs.com/External/job/Bartlesville-OK/GIS-Intern--Corporate-Land-2027_REQ-006208",
+      "location": "Bartlesville, OK",
+      "department": "AI/ML/Data",
+      "company": "ConocoPhillips",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:0e017ac8de8fe28a",
+      "title": "Geosciences Intern",
+      "url": "https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Intern--Geosciences-2027_REQ-006385",
+      "location": "Midland, TX / Houston, TX / Anchorage, AK",
+      "department": "AI/ML/Data",
+      "company": "ConocoPhillips",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ce8129deaf03cf09",
+      "title": "Analyst Student Intern - Market Insights",
+      "url": "https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Analyst--Market-Insights--Student-Intern_R-6125",
+      "location": "Toronto, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "TMX Group",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:132d9ddb0eea7bdd",
+      "title": "WaveLogic Software Engineer Intern",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/WaveLogic-Software---Intern_R031443",
+      "location": "Ottawa, ON, Canada",
+      "department": "Hardware",
+      "company": "Ciena",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:23f870c8003a163b",
+      "title": "Research & Development PhD Engineer Intern",
+      "url": "https://careers.pplweb.com/jobs/14149?icims=1",
+      "location": "Lexington, KY / Providence, RI / Allentown, PA",
+      "department": "AI/ML/Data",
+      "company": "PPL",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:ff3d1065d5a25996",
+      "title": "Business Intelligence Intern",
+      "url": "https://careers.clydeinc.com/jobs/22659?icims=1",
+      "location": "Orem, UT",
+      "department": "AI/ML/Data",
+      "company": "Clyde Companies",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:12cd06c0eec80152",
       "title": "Frontend Software Engineer Intern",
       "url": "https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c",
@@ -23030,19 +23156,6 @@
       "score": 42,
       "scoreReasons": [
         "aggregator link"
-      ]
-    },
-    {
-      "id": "canonical:2de2899062ef729b",
-      "title": "Software Engineering Intern - Summer 2027",
-      "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003",
-      "location": "Needham, MA",
-      "department": "Software / Summer 2027",
-      "company": "HPR (Hyannis Port Research)",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
