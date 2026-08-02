@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-02T12:00:40.689Z",
+  "generatedAt": "2026-08-02T13:50:28.285Z",
   "companyCount": 143,
   "okCount": 141,
-  "jobCount": 1707,
+  "jobCount": 1705,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -660,7 +660,6 @@
     "canonical:8ddb5a8388091527": "2026-07-13T06:45:53.680Z",
     "canonical:eeb618990e9d07bf": "2026-07-13T06:45:53.680Z",
     "canonical:a9cb2c629af56218": "2026-07-13T06:45:53.680Z",
-    "canonical:b894f8b908b7a698": "2026-07-07T15:49:17.557Z",
     "canonical:4d38c88503f7c4b7": "2026-05-15T12:06:03.304Z",
     "canonical:58fd17b31fd8c5af": "2026-05-15T12:06:03.304Z",
     "canonical:17536a822c3bfd3d": "2026-07-01T13:21:48.812Z",
@@ -1535,7 +1534,6 @@
     "canonical:88079371a8e904df": "2026-08-01T15:33:38.600Z",
     "canonical:87eab4529cff3827": "2026-08-01T15:33:38.600Z",
     "canonical:ddffb4a8c01d536c": "2026-08-01T15:33:38.600Z",
-    "canonical:2cdd1ac3dca134d6": "2026-08-01T16:36:04.156Z",
     "canonical:1fd516f098e80e1d": "2026-08-01T16:36:04.156Z",
     "canonical:38febced94700d05": "2026-08-01T16:36:04.156Z",
     "canonical:252d1a4a3ebaaca9": "2026-08-01T16:36:04.156Z",
@@ -1799,32 +1797,6 @@
       "score": 56,
       "scoreReasons": [
         "new grad"
-      ]
-    },
-    {
-      "id": "canonical:2cdd1ac3dca134d6",
-      "title": "2027 - Quant Research Intern - BITS Pilani",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4942958101",
-      "location": "Amsterdam, Netherlands; Mumbai, India",
-      "department": "",
-      "company": "IMC Trading",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:b894f8b908b7a698",
-      "title": "2027 - Software Engineering Intern - BITS Pilani",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917549101",
-      "location": "Mumbai, India",
-      "department": "",
-      "company": "IMC Trading",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
