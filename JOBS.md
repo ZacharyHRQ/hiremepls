@@ -1,6 +1,6 @@
 # Open Internships
 
-**1717** internships across **141/143** companies — last updated 2026-08-02.
+**1708** internships across **141/143** companies — last updated 2026-08-02.
 
 ## Companies
 
@@ -14,7 +14,6 @@
 - [Adtheorant](#adtheorant) (1)
 - [AeroVironment](#aerovironment) (1)
 - [AfterQuery](#afterquery) (2)
-- [AI Fund](#ai-fund) (3)
 - [Akuna Capital](#akuna-capital) (11)
 - [Al Warren Oil Company](#al-warren-oil-company) (1)
 - [AlixPartners](#alixpartners) (1)
@@ -24,7 +23,6 @@
 - [Ambarella](#ambarella) (8)
 - [Amentum](#amentum) (2)
 - [American Enterprise Institute](#american-enterprise-institute) (3)
-- [American University](#american-university) (1)
 - [Amgen](#amgen) (1)
 - [Anduril](#anduril) (2)
 - [Anthelion Capital](#anthelion-capital) (2)
@@ -99,7 +97,7 @@
 - [Brio Water Technology](#brio-water-technology) (1)
 - [Brookfield](#brookfield) (2)
 - [Brunswick](#brunswick) (2)
-- [ByteDance](#bytedance) (31)
+- [ByteDance](#bytedance) (30)
 - [Cadence Design Systems](#cadence-design-systems) (6)
 - [CAE](#cae) (1)
 - [CALSTART](#calstart) (3)
@@ -174,7 +172,6 @@
 - [Ditto](#ditto) (1)
 - [Doctors Without Borders](#doctors-without-borders) (1)
 - [Docugami](#docugami) (2)
-- [DoorDash](#doordash) (1)
 - [Droyd Robotics](#droyd-robotics) (2)
 - [DRW](#drw) (25)
 - [Dryft](#dryft) (1)
@@ -230,6 +227,7 @@
 - [Fundwell](#fundwell) (1)
 - [Fussball Club Cincinnati LLC (“FC Cincinnati”)](#fussball-club-cincinnati-llc-fc-cincinnati) (1)
 - [G-Research](#g-research) (4)
+- [GE Appliances](#ge-appliances) (1)
 - [GE Vernova](#ge-vernova) (1)
 - [Geisinger](#geisinger) (1)
 - [Gemini](#gemini) (3)
@@ -426,7 +424,7 @@
 - [Pine Rest](#pine-rest) (1)
 - [Pinterest](#pinterest) (2)
 - [PlusAI](#plusai) (6)
-- [Point72](#point72) (19)
+- [Point72](#point72) (18)
 - [pony.ai](#pony-ai) (2)
 - [Pony.ai](#pony-ai) (2)
 - [Poshmark](#poshmark) (1)
@@ -460,7 +458,6 @@
 - [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (14)
 - [Roam](#roam) (1)
 - [Robinhood](#robinhood) (1)
-- [RoboForce](#roboforce) (1)
 - [Rockwell Automation](#rockwell-automation) (2)
 - [ROCKWOOL Group](#rockwool-group) (1)
 - [Royal Bank of Canada](#royal-bank-of-canada) (4)
@@ -488,7 +485,7 @@
 - [SK Hynix Memory Solution](#sk-hynix-memory-solution) (1)
 - [Skydio](#skydio) (2)
 - [Smiths Detection](#smiths-detection) (1)
-- [Smiths Detection Group](#smiths-detection-group) (2)
+- [Smiths Detection Group](#smiths-detection-group) (1)
 - [Snap](#snap) (1)
 - [Snowflake](#snowflake) (10)
 - [Solar Turbines](#solar-turbines) (2)
@@ -564,7 +561,6 @@
 - [Uber](#uber) (1)
 - [UMB](#umb) (1)
 - [Uncountable](#uncountable) (1)
-- [Unisys](#unisys) (1)
 - [University of Arkansas](#university-of-arkansas) (2)
 - [University of Nevada, Reno](#university-of-nevada-reno) (2)
 - [University of Texas at Austin](#university-of-texas-at-austin) (2)
@@ -671,14 +667,6 @@
 | --- | --- | --- | --- | --- |
 | [Coding Intern - Strategic Projects](https://jobs.ashbyhq.com/AfterQuery/51437c4c-9510-4704-a779-e61ac52c39d7/application?embed=true) | 68 | SF | AI/ML/Data | 2026-08-01 |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/AfterQuery/83ca470d-b1f7-41d6-935f-c1f2b8243e4b/application) | 93 | SF | Software | 2026-07-01 |
-
-## AI Fund
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Engineer in Residence: Enterprise Agent Infrastructure Intern](https://jobs.lever.co/AIFund/0b219991-32db-4827-b052-7207faac151d/apply) | 93 | Mountain View, CA | Software | 2026-07-20 |
-| [Visiting Engineer: Briocare Intern](https://jobs.lever.co/AIFund/a5f3a47b-93e0-4941-9061-b3ee1ed82959/apply) | 93 | Mountain View, CA | Software | 2026-07-20 |
-| [Visiting Engineer: Live Selling Copilot Intern](https://jobs.lever.co/AIFund/6b9fc8cd-f405-48ca-a071-5873a9233ef4/apply) | 93 | Mountain View, CA | Software | 2026-07-20 |
 
 ## Akuna Capital
 
@@ -922,12 +910,6 @@
 | [Housing Center Intern](https://internships-aei.icims.com/jobs/2614/job?mobile=true&needsRedirect=false) | 60 | Washington, DC | AI/ML/Data | 2026-08-01 |
 | [Intern](https://internships-aei.icims.com/jobs/2616/job?mobile=true&needsRedirect=false) | 60 | Washington, DC | AI/ML/Data | 2026-08-01 |
 | [Intern: Economic Policy](https://internships-aei.icims.com/jobs/2618/job?mobile=true&needsRedirect=false) | 60 | Washington, DC | AI/ML/Data | 2026-08-01 |
-
-## American University
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Graduate Event Data Assistant - Student](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Graduate-Event-Data-Assistant--Student-_R4326) | 74 | Washington, DC | AI/ML/Data | 2026-08-01 |
 
 ## Amgen
 
@@ -1450,7 +1432,6 @@
 | --- | --- | --- | --- | --- |
 | [Applied Research Intern - AI Safety Security - Global Tech Research Program](https://jobs.bytedance.com/en/position/7645070235035044101/detail) | 60 | San Jose, CA | AI/ML/Data | 2026-07-30 |
 | [Software Engineer Intern - Applied Machine Learning-Enterprise](https://jobs.bytedance.com/en/position/7533045355162044690/detail) | 85 | San Jose, CA | AI/ML/Data | 2026-07-28 |
-| [Graduate Software Development Engineer](https://jobs.bytedance.com/en/position/7509266973236152583/detail) | 91 | San Jose, CA | Software | 2026-07-20 |
 | [Research Intern - Seed](https://jobs.bytedance.com/en/position/7529661012351420690/detail) | 60 | San Jose, CA | AI/ML/Data | 2026-07-20 |
 | [3D Graphics Engineer Intern - PICO Foundation](https://jobs.bytedance.com/en/position/7564516412456306997/detail) | 85 | San Jose, CA | Software | 2026-07-12 |
 | [Research Scientist Intern - Security for AI - 2026 Start](https://jobs.bytedance.com/en/position/7595676762475415861/detail) | 85 | San Jose, CA | AI/ML/Data | 2026-06-04 |
@@ -2025,12 +2006,6 @@
 | [Data Science PhD Intern](https://job-boards.greenhouse.io/docugami/jobs/4192122003) | 68 | Kirkland, WA | AI/ML/Data | 2026-07-05 |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/docugami/jobs/4014838003) | 93 | Kirkland, WA | Software | 2026-05-15 |
 
-## DoorDash
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI Research Fellowship Intern](https://job-boards.greenhouse.io/doordashusa/jobs/7848317) | 68 | SF | AI/ML/Data | 2026-07-20 |
-
 ## Droyd Robotics
 
 | Title | Score | Location | Department | First seen |
@@ -2419,6 +2394,12 @@
 | [Machine Learning Research Intern](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Research-Internship_R3682) | 68 | London, UK | AI/ML/Data | 2026-08-01 |
 | [Natural Language Processing Intern](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Natural-Language-Processing-Internship_R3686) | 68 | London, UK | AI/ML/Data | 2026-08-01 |
 | [Quantitative Research Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quant-Research-Internship_R3691) | 68 | London, UK | Quant | 2026-08-01 |
+
+## GE Appliances
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Engineering Intern/Co-op](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-LaFayette-GA/Engineering-Co-op-Spring-2027_REQ-24836) | 58 | Calhoun, GA | Hardware | 2026-08-02 |
 
 ## GE Vernova
 
@@ -3914,7 +3895,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Point72 Academy Investment Analyst Program for Upcoming Graduates Intern](https://boards.greenhouse.io/point72/jobs/8541241002) | 68 | SF / Florida / Chicago, IL / NYC | Quant | 2026-07-20 |
 | [Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) | 85 | New York, NY | — | 2026-07-09 |
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-07-09 |
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-07-09 |
@@ -4162,12 +4142,6 @@
 | --- | --- | --- | --- | --- |
 | [Customer Experience Associate (New Grad)](https://boards.greenhouse.io/robinhood/jobs/8024530?t=gh_src=&gh_jid=8024530) | 64 | Westlake, TX | — | 2026-07-02 |
 
-## RoboForce
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI Resident Intern](https://job-boards.greenhouse.io/roboforce/jobs/5196164008) | 68 | Milpitas, CA | AI/ML/Data | 2026-07-20 |
-
 ## Rockwell Automation
 
 | Title | Score | Location | Department | First seen |
@@ -4356,7 +4330,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Commercial Intern - Commercial Tools & Business Intelligence](https://jobs.smartrecruiters.com/SmithsGroup2/744000140169009) | 68 | Slough, UK | AI/ML/Data | 2026-07-28 |
-| [Depot Service Engineer Intern](https://jobs.smartrecruiters.com/SmithsGroup2/744000125196499) | 58 | Gunpowder, MD | Hardware | 2026-07-26 |
 
 ## Snap
 
@@ -5041,12 +5014,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Full-Stack Intern](https://jobs.ashbyhq.com/uncountable/b9495eab-c04c-4333-b338-7dabdbddcaae/application) | 68 | London, UK / SF / NYC / Munich, Germany | Software | 2026-05-09 |
-
-## Unisys
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Banco de Talentos Jóvenes Intern](https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Bogota-DC-Colombia/Banco-de-Talentos-Jvenes---UIS-Colombia_REQ563731) | 68 | Washington, DC | Software | 2026-07-21 |
 
 ## University of Arkansas
 

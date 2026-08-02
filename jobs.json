@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-02T09:28:32.995Z",
+  "generatedAt": "2026-08-02T10:58:14.459Z",
   "companyCount": 143,
   "okCount": 141,
-  "jobCount": 1717,
+  "jobCount": 1708,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -932,14 +932,8 @@
     "canonical:5e2ba87470f96412": "2026-07-20T23:30:05.931Z",
     "canonical:555ffcca483c3201": "2026-07-20T23:30:05.931Z",
     "canonical:6093fedf4567192f": "2026-07-20T23:30:05.931Z",
-    "canonical:011ad98e01710da8": "2026-07-20T23:30:05.931Z",
     "canonical:02592ca6af81229f": "2026-07-20T23:30:05.931Z",
     "canonical:cb9f764aa38bff1c": "2026-07-20T23:30:05.931Z",
-    "canonical:7b1f4932f95b2d37": "2026-07-20T23:30:05.931Z",
-    "canonical:7d64f90c3defbada": "2026-07-20T23:30:05.931Z",
-    "canonical:18eff3db893845db": "2026-07-20T23:30:05.931Z",
-    "canonical:619a24ac7cd0498f": "2026-07-20T23:30:05.931Z",
-    "canonical:5ff2346ae4f85ba5": "2026-07-20T23:30:05.931Z",
     "canonical:0eee5ca2931ec3cd": "2026-07-20T23:30:05.931Z",
     "canonical:cf3dc0301ace4e1d": "2026-07-20T23:30:05.931Z",
     "canonical:857260fd628a863f": "2026-07-20T23:30:05.931Z",
@@ -952,7 +946,6 @@
     "canonical:66ef9d6f9fe3202f": "2026-07-20T23:30:05.931Z",
     "canonical:e7bf29f3e1c77b82": "2026-07-20T23:30:05.931Z",
     "canonical:b6af9dda186d81eb": "2026-07-20T23:30:05.931Z",
-    "canonical:6dc98a5f42e3bd7f": "2026-07-20T23:30:05.931Z",
     "canonical:bf0306d776f6e620": "2026-07-20T23:30:05.931Z",
     "canonical:50a93aad750015fa": "2026-07-20T23:30:05.931Z",
     "canonical:eda04be1cd1d1765": "2026-07-20T23:30:05.931Z",
@@ -1043,7 +1036,6 @@
     "canonical:e5b7fab3e0bff565": "2026-07-21T07:03:27.767Z",
     "canonical:ca086772871f4731": "2026-07-21T07:03:27.767Z",
     "canonical:27f541e6c789257a": "2026-07-21T07:03:27.767Z",
-    "canonical:b941a6d41c2f9a59": "2026-07-21T07:03:27.767Z",
     "canonical:9bbf82015a29a0c2": "2026-07-21T07:03:27.767Z",
     "canonical:9a2e2f8f76500ed1": "2026-07-21T07:03:27.767Z",
     "canonical:773a4bab35a8f78f": "2026-07-21T07:03:27.767Z",
@@ -1231,7 +1223,6 @@
     "canonical:ef650b16fce50cc6": "2026-07-25T04:24:58.500Z",
     "canonical:1d7a63ccedca3fdd": "2026-07-25T04:24:58.500Z",
     "canonical:216181f28694752a": "2026-07-25T11:34:41.314Z",
-    "canonical:dceb2c721f2704e4": "2026-07-26T11:00:02.862Z",
     "canonical:655f5e30c9cb8e9e": "2026-07-27T07:30:47.104Z",
     "canonical:fe2adc4afff84724": "2026-07-27T07:30:47.104Z",
     "canonical:ceaed297777b1a28": "2026-07-27T07:30:47.104Z",
@@ -1519,7 +1510,6 @@
     "canonical:4f85d18e62f2efe6": "2026-08-01T15:33:38.600Z",
     "canonical:6a54db97364bf00a": "2026-08-01T15:33:38.600Z",
     "canonical:46f7a31ad3598b53": "2026-08-01T15:33:38.600Z",
-    "canonical:d2b7efd385e8df37": "2026-08-01T15:33:38.600Z",
     "canonical:365196b713f8c54f": "2026-08-01T15:33:38.600Z",
     "canonical:51c9b4da188261da": "2026-08-01T15:33:38.600Z",
     "canonical:6a08b8735bc24eb5": "2026-08-01T15:33:38.600Z",
@@ -1720,7 +1710,8 @@
     "canonical:ff3d1065d5a25996": "2026-08-01T23:37:49.562Z",
     "canonical:1b25f712aef14179": "2026-08-02T04:36:28.873Z",
     "canonical:3742cb3fd4aca9f9": "2026-08-02T04:36:28.873Z",
-    "canonical:0da11cb18d22855a": "2026-08-02T07:15:27.434Z"
+    "canonical:0da11cb18d22855a": "2026-08-02T07:15:27.434Z",
+    "canonical:b3223570baf82253": "2026-08-02T10:58:14.459Z"
   },
   "jobs": [
     {
@@ -9341,6 +9332,18 @@
       ]
     },
     {
+      "id": "canonical:b3223570baf82253",
+      "title": "Engineering Intern/Co-op",
+      "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-LaFayette-GA/Engineering-Co-op-Spring-2027_REQ-24836",
+      "location": "Calhoun, GA",
+      "department": "Hardware",
+      "company": "GE Appliances",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:4f0f9f75731af333",
       "title": "Software Engineer Intern - Multiple Teams",
       "url": "https://lifeattiktok.com/search/7533295761208559890",
@@ -9700,19 +9703,6 @@
       ]
     },
     {
-      "id": "canonical:b941a6d41c2f9a59",
-      "title": "Banco de Talentos Jóvenes Intern",
-      "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Bogota-DC-Colombia/Banco-de-Talentos-Jvenes---UIS-Colombia_REQ563731",
-      "location": "Washington, DC",
-      "department": "Software",
-      "company": "Unisys",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:ca225b03436f081a",
       "title": "Software Engineering Intern - PC Game Client Development",
       "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Software-Engineering-Intern_R107162-1",
@@ -9841,19 +9831,6 @@
       ]
     },
     {
-      "id": "canonical:011ad98e01710da8",
-      "title": "AI Resident Intern",
-      "url": "https://job-boards.greenhouse.io/roboforce/jobs/5196164008",
-      "location": "Milpitas, CA",
-      "department": "AI/ML/Data",
-      "company": "RoboForce",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:02592ca6af81229f",
       "title": "Software Engineer Intern",
       "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10004529",
@@ -9968,34 +9945,6 @@
       ]
     },
     {
-      "id": "canonical:7b1f4932f95b2d37",
-      "title": "Visiting Engineer: Live Selling Copilot Intern",
-      "url": "https://jobs.lever.co/AIFund/6b9fc8cd-f405-48ca-a071-5873a9233ef4/apply",
-      "location": "Mountain View, CA",
-      "department": "Software",
-      "company": "AI Fund",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:7d64f90c3defbada",
-      "title": "Visiting Engineer: Briocare Intern",
-      "url": "https://jobs.lever.co/AIFund/a5f3a47b-93e0-4941-9061-b3ee1ed82959/apply",
-      "location": "Mountain View, CA",
-      "department": "Software",
-      "company": "AI Fund",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:efeb516c369ef725",
       "title": "Video Algorithms Intern - Video Coding - Gaussian Splatting",
       "url": "https://explore.jobs.netflix.net/careers/job/790315673635",
@@ -10083,33 +10032,6 @@
       "company": "Apptronik",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:18eff3db893845db",
-      "title": "AI Research Fellowship Intern",
-      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7848317",
-      "location": "SF",
-      "department": "AI/ML/Data",
-      "company": "DoorDash",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:619a24ac7cd0498f",
-      "title": "Engineer in Residence: Enterprise Agent Infrastructure Intern",
-      "url": "https://jobs.lever.co/AIFund/0b219991-32db-4827-b052-7207faac151d/apply",
-      "location": "Mountain View, CA",
-      "department": "Software",
-      "company": "AI Fund",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -10336,37 +10258,12 @@
       ]
     },
     {
-      "id": "canonical:dceb2c721f2704e4",
-      "title": "Depot Service Engineer Intern",
-      "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000125196499",
-      "location": "Gunpowder, MD",
-      "department": "Hardware",
-      "company": "Smiths Detection Group",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:5cb9ff5d80f675ba",
       "title": "ML/NLP Research Intern",
       "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8541339002",
       "location": "Mountain View, CA",
       "department": "AI/ML/Data",
       "company": "Samsung Research America",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:5ff2346ae4f85ba5",
-      "title": "Point72 Academy Investment Analyst Program for Upcoming Graduates Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/8541241002",
-      "location": "SF / Florida / Chicago, IL / NYC",
-      "department": "Quant",
-      "company": "Point72",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -11461,20 +11358,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:d2b7efd385e8df37",
-      "title": "Graduate Event Data Assistant - Student",
-      "url": "https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Graduate-Event-Data-Assistant--Student-_R4326",
-      "location": "Washington, DC",
-      "department": "AI/ML/Data",
-      "company": "American University",
-      "score": 74,
-      "scoreReasons": [
-        "high-signal role",
-        "new grad",
-        "direct ATS"
       ]
     },
     {
@@ -13717,20 +13600,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:6dc98a5f42e3bd7f",
-      "title": "Graduate Software Development Engineer",
-      "url": "https://jobs.bytedance.com/en/position/7509266973236152583/detail",
-      "location": "San Jose, CA",
-      "department": "Software",
-      "company": "ByteDance",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad"
       ]
     },
     {
