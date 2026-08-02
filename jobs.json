@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-02T01:12:32.958Z",
+  "generatedAt": "2026-08-02T04:36:28.873Z",
   "companyCount": 143,
   "okCount": 141,
-  "jobCount": 1714,
+  "jobCount": 1716,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1717,7 +1717,9 @@
     "canonical:ce8129deaf03cf09": "2026-08-01T23:37:49.562Z",
     "canonical:132d9ddb0eea7bdd": "2026-08-01T23:37:49.562Z",
     "canonical:23f870c8003a163b": "2026-08-01T23:37:49.562Z",
-    "canonical:ff3d1065d5a25996": "2026-08-01T23:37:49.562Z"
+    "canonical:ff3d1065d5a25996": "2026-08-01T23:37:49.562Z",
+    "canonical:1b25f712aef14179": "2026-08-02T04:36:28.873Z",
+    "canonical:3742cb3fd4aca9f9": "2026-08-02T04:36:28.873Z"
   },
   "jobs": [
     {
@@ -20220,6 +20222,32 @@
       "company": "Clyde Companies",
       "score": 60,
       "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:1b25f712aef14179",
+      "title": "Quantitative Researcher Intern",
+      "url": "https://twosigma.avature.net/careers/JobDetail/13945",
+      "location": "NYC",
+      "department": "Quant",
+      "company": "Two Sigma",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:3742cb3fd4aca9f9",
+      "title": "AI Research Scientist Intern - 2027 Summer",
+      "url": "https://twosigma.avature.net/careers/JobDetail/14096",
+      "location": "NYC",
+      "department": "AI/ML/Data",
+      "company": "Two Sigma",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },

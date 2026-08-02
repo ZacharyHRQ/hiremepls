@@ -1,6 +1,6 @@
 # Open Internships
 
-**1714** internships across **141/143** companies — last updated 2026-08-02.
+**1716** internships across **141/143** companies — last updated 2026-08-02.
 
 ## Companies
 
@@ -559,6 +559,7 @@
 - [Trend Micro](#trend-micro) (1)
 - [Trillium](#trillium) (3)
 - [Truland Equipment](#truland-equipment) (1)
+- [Two Sigma](#two-sigma) (2)
 - [Two Six Technologies](#two-six-technologies) (1)
 - [Uber](#uber) (1)
 - [UMB](#umb) (1)
@@ -5008,6 +5009,13 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Power Platform Intern](https://www.trulandequip.com/about-us/careers/?gh_jid=5174621007) | 60 | Fort Wayne, IN | AI/ML/Data | 2026-07-01 |
+
+## Two Sigma
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI Research Scientist Intern - 2027 Summer](https://twosigma.avature.net/careers/JobDetail/14096) | 85 | NYC | AI/ML/Data | 2026-08-02 |
+| [Quantitative Researcher Intern](https://twosigma.avature.net/careers/JobDetail/13945) | 85 | NYC | Quant | 2026-08-02 |
 
 ## Two Six Technologies
 
