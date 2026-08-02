@@ -1,6 +1,6 @@
 # Open Internships
 
-**1708** internships across **141/143** companies — last updated 2026-08-02.
+**1707** internships across **141/143** companies — last updated 2026-08-02.
 
 ## Companies
 
@@ -411,7 +411,7 @@
 - [PDT Partners](#pdt-partners) (2)
 - [Pendulum Intelligence](#pendulum-intelligence) (1)
 - [PennState University](#pennstate-university) (1)
-- [Pennsylvania State University](#pennsylvania-state-university) (8)
+- [Pennsylvania State University](#pennsylvania-state-university) (9)
 - [Peraton](#peraton) (1)
 - [Periodic Labs](#periodic-labs) (1)
 - [Perplexity](#perplexity) (3)
@@ -561,7 +561,6 @@
 - [Uber](#uber) (1)
 - [UMB](#umb) (1)
 - [Uncountable](#uncountable) (1)
-- [University of Arkansas](#university-of-arkansas) (2)
 - [University of Nevada, Reno](#university-of-nevada-reno) (2)
 - [University of Texas at Austin](#university-of-texas-at-austin) (2)
 - [University of Virginia Investment Management Company (UVIMCO)](#university-of-virginia-investment-management-company-uvimco) (1)
@@ -1706,7 +1705,7 @@
 | [AI Innovation Intern – Service Sales (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395) | 38 | In-Office | — | 2026-07-30 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-07-29 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Brand Social Media Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8054093?gh_jid=8054093) | 58 | In-Office | — | 2026-07-10 |
@@ -3798,6 +3797,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Research Engineering Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Engineering-Interns_REQ_0000080335-1) | 68 | State College, PA | Software | 2026-08-02 |
 | [Electronic Materials and Devices Engineer Intern - Electronic Materials and Devices](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Electronic-Materials-and-Devices-Engineering-Intern_REQ_0000053210) | 58 | University Park, State College, PA | Hardware | 2026-08-01 |
 | [CSE Researcher-Narayanan Intern - V](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/CSE-Part-Time-Researcher-Narayanan--V_REQ_0000078135-1) | 93 | State College, PA | AI/ML/Data | 2026-07-21 |
 | [Research Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Intern_REQ_0000077386-1) | 68 | State College, PA | AI/ML/Data | 2026-07-21 |
@@ -5014,13 +5014,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Full-Stack Intern](https://jobs.ashbyhq.com/uncountable/b9495eab-c04c-4333-b338-7dabdbddcaae/application) | 68 | London, UK / SF / NYC / Munich, Germany | Software | 2026-05-09 |
-
-## University of Arkansas
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Graduate Research Assistant Intern](https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Developer-_R0053891) | 74 | Little Rock, AR | Software | 2026-08-01 |
-| [Graduate Assistant - Information Science](https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/Graduate-Assistant---Information-Science_R0062021) | 74 | Little Rock, AR | AI/ML/Data | 2026-08-01 |
 
 ## University of Nevada, Reno
 
