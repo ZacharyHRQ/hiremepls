@@ -1,6 +1,6 @@
 # Open Internships
 
-**1706** internships across **142/143** companies — last updated 2026-08-02.
+**1708** internships across **142/143** companies — last updated 2026-08-02.
 
 ## Companies
 
@@ -350,7 +350,7 @@
 - [Meshy](#meshy) (2)
 - [Meta](#meta) (14)
 - [Microchip Technology](#microchip-technology) (4)
-- [Microsoft](#microsoft) (1)
+- [Microsoft](#microsoft) (2)
 - [Midmark ](#midmark) (1)
 - [Mindsmith](#mindsmith) (1)
 - [Mistral AI](#mistral-ai) (2)
@@ -395,7 +395,8 @@
 - [Occidental Petroleum](#occidental-petroleum) (1)
 - [Octaura](#octaura) (1)
 - [Odin Dynamics, Inc](#odin-dynamics-inc) (1)
-- [Old Mission](#old-mission) (6)
+- [Old Mission](#old-mission) (5)
+- [Old Mission Capital](#old-mission-capital) (1)
 - [Oligo Space](#oligo-space) (1)
 - [Omnis](#omnis) (1)
 - [onsemi](#onsemi) (2)
@@ -600,6 +601,7 @@
 - [X Development](#x-development) (2)
 - [XPENG Motors](#xpeng-motors) (2)
 - [Xsolla](#xsolla) (5)
+- [Yotta Labs](#yotta-labs) (1)
 - [Zello](#zello) (1)
 - [Zettabyte](#zettabyte) (1)
 - [Zipline](#zipline) (4)
@@ -3294,6 +3296,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393556951951) | 85 | Vancouver, BC, Canada | Software | 2026-08-02 |
 | [Research Intern - Self-Improving AI](https://apply.careers.microsoft.com/careers/job/1970393556867858) | 60 | Cambridge, MA / NYC | AI/ML/Data | 2026-05-19 |
 
 ## Midmark 
@@ -3596,11 +3599,16 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Quantitative Researcher (Ph.D.) - 2027 Graduate Program - (August Start)](https://www.oldmissioncapital.com/careers/?gh_jid=7814534003) | 91 | Chicago, IL, United States | — | 2026-07-30 |
-| [Software Engineer – 2027 Internship Program (June Start)](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003) | 85 | Chicago, IL, United States | — | 2026-07-22 |
 | [Software Engineer – 2027 Graduate Program (August Start)](https://www.oldmissioncapital.com/careers/?gh_jid=7796048003) | 91 | Chicago, IL, United States | — | 2026-07-14 |
 | [Quantitative Trader – 2027 Graduate Program (August Start)](https://www.oldmissioncapital.com/careers/?gh_jid=7796044003) | 66 | Chicago, IL or New York, NY | — | 2026-07-14 |
 | [Quantitative Trader – 2027 Graduate Program (August Start)](https://www.oldmissioncapital.com/careers/?gh_jid=7796058003) | 66 | London | — | 2026-07-14 |
 | [Quantitative Trader – 2027 Graduate Program (February Start)](https://www.oldmissioncapital.com/careers/?gh_jid=7796031003) | 66 | Chicago, IL or New York, NY | — | 2026-07-14 |
+
+## Old Mission Capital
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer – 2027 Internship Program (June Start)](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003) | 85 | Chicago, IL, United States | Software / Summer 2027 | 2026-08-02 |
 
 ## Oligo Space
 
@@ -5283,6 +5291,12 @@
 | [AI-First Engineer Intern](https://jobs.lever.co/xsolla/1c0e5375-2352-4a2c-a816-48ddebbdd3d6/apply) | 93 | LA | Software | 2026-07-28 |
 | [AI-First Engineering Intern](https://jobs.lever.co/xsolla/5d5fd6b3-d82f-437a-b251-abf4674ac874) | 68 | Raleigh, United States | Data & ML/AI / Not stated | 2026-07-27 |
 | [AI-First Engineering Intern](https://jobs.lever.co/xsolla/1c0e5375-2352-4a2c-a816-48ddebbdd3d6) | 68 | Los Angeles, United States | Data & ML/AI / Not stated | 2026-07-20 |
+
+## Yotta Labs
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Research Engineer Intern - AI Systems](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3/application?embed=true) | 93 | Remote in USA / Remote in Canada | AI/ML/Data | 2026-08-02 |
 
 ## Zello
 

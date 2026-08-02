@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-02T22:07:33.217Z",
+  "generatedAt": "2026-08-02T23:07:55.211Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1706,
+  "jobCount": 1708,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1108,7 +1108,6 @@
     "canonical:d0cc0809498c940b": "2026-07-22T11:30:09.788Z",
     "canonical:0bccd7af4a1e046b": "2026-07-22T11:30:09.788Z",
     "canonical:1d2a7315bea883d4": "2026-07-22T11:30:09.788Z",
-    "canonical:fcfdd39100036941": "2026-07-22T11:30:09.788Z",
     "canonical:a5e52b57015d254e": "2026-07-22T11:30:09.788Z",
     "canonical:0f4a52f7d1dc29c7": "2026-07-22T13:08:02.810Z",
     "canonical:78820ef2fa54b1e2": "2026-07-22T13:08:02.810Z",
@@ -1709,7 +1708,10 @@
     "canonical:0da11cb18d22855a": "2026-08-02T07:15:27.434Z",
     "canonical:b3223570baf82253": "2026-08-02T10:58:14.459Z",
     "canonical:04172e347ecd89c6": "2026-08-02T12:00:40.689Z",
-    "canonical:dfebe5919a290031": "2026-08-02T14:53:15.233Z"
+    "canonical:dfebe5919a290031": "2026-08-02T14:53:15.233Z",
+    "canonical:23c0d3e0550a0e53": "2026-08-02T23:07:55.211Z",
+    "canonical:555fbaee4ddb09bd": "2026-08-02T23:07:55.211Z",
+    "canonical:5a61e90d183d7c8a": "2026-08-02T23:07:55.211Z"
   },
   "jobs": [
     {
@@ -3311,12 +3313,12 @@
       ]
     },
     {
-      "id": "canonical:fcfdd39100036941",
+      "id": "canonical:23c0d3e0550a0e53",
       "title": "Software Engineer – 2027 Internship Program (June Start)",
       "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796180003",
       "location": "Chicago, IL, United States",
-      "department": "",
-      "company": "Old Mission",
+      "department": "Software / Summer 2027",
+      "company": "Old Mission Capital",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -20097,6 +20099,33 @@
       "location": "Fredericksburg, VA",
       "department": "Software",
       "company": "Obsidian Solutions Group",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:555fbaee4ddb09bd",
+      "title": "Research Engineer Intern - AI Systems",
+      "url": "https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3/application?embed=true",
+      "location": "Remote in USA / Remote in Canada",
+      "department": "AI/ML/Data",
+      "company": "Yotta Labs",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:5a61e90d183d7c8a",
+      "title": "Software Engineer Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951951",
+      "location": "Vancouver, BC, Canada",
+      "department": "Software",
+      "company": "Microsoft",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
