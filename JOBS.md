@@ -1,6 +1,6 @@
 # Open Internships
 
-**1708** internships across **142/143** companies — last updated 2026-08-02.
+**1708** internships across **142/143** companies — last updated 2026-08-03.
 
 ## Companies
 
