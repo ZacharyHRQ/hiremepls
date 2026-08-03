@@ -294,7 +294,7 @@
 - [Instead](#instead) (1)
 - [Institute of Foundation Models](#institute-of-foundation-models) (2)
 - [Integra FEC](#integra-fec) (3)
-- [Intel](#intel) (3)
+- [Intel](#intel) (4)
 - [IntelliGenesis](#intelligenesis) (1)
 - [Intercontinental Exchange, Inc.](#intercontinental-exchange-inc) (1)
 - [Interdigital](#interdigital) (1)
@@ -306,7 +306,7 @@
 - [Jain Global](#jain-global) (1)
 - [Jane Street](#jane-street) (23)
 - [JP Morgan Chase](#jp-morgan-chase) (8)
-- [JPMorganChase](#jpmorganchase) (3)
+- [JPMorganChase](#jpmorganchase) (2)
 - [Jump Trading](#jump-trading) (48)
 - [Junior](#junior) (1)
 - [Junior AI](#junior-ai) (1)
@@ -2861,6 +2861,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [AI Software Engineer Graduate Intern](https://intel.wd1.myworkdayjobs.com/external/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989) | 99 | Virtual US | Data & ML/AI / Not stated | 2026-08-03 |
 | [AI Software Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641) | 93 | Phoenix, AZ | Software | 2026-08-01 |
 | [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) | 68 | Hillsboro, OR / Folsom, CA | Hardware | 2026-07-31 |
 | [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641) | 68 | US, Arizona, Phoenix | Data & ML/AI / Not stated | 2026-07-29 |
@@ -2968,7 +2969,6 @@
 | --- | --- | --- | --- | --- |
 | [2027 Code for Good Hackathon - Software Engineer Program - Summer Internship – United States](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773759) | 85 | Chicago, IL, United States | Software / Summer 2027 | 2026-08-03 |
 | [2027 Data & AI Program - Summer Internship - Analyst - United States](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773869) | 60 | Chicago, IL, United States | Data & ML/AI / Summer 2027 | 2026-08-03 |
-| [2027 Data for Good Hackathon - Data & AI Program - Summer Internship](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210775223) | 60 | Chicago, IL, United States | Data & ML/AI / Summer 2027 | 2026-08-03 |
 
 ## Jump Trading
 
