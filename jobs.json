@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-03T18:02:08.034Z",
+  "generatedAt": "2026-08-03T19:53:54.012Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1757,
+  "jobCount": 1746,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -98,7 +98,6 @@
     "canonical:cb9e60d77115f361": "2026-05-09T15:28:15.527Z",
     "canonical:1ae22981c8ef9f13": "2026-05-09T15:28:15.527Z",
     "canonical:bb63a577c98aec70": "2026-05-09T15:28:15.527Z",
-    "canonical:6826e54d8a988fcb": "2026-05-09T15:28:15.527Z",
     "canonical:f38b80d1d6c35520": "2026-05-09T15:28:15.527Z",
     "canonical:a5a6f6f8aad4e113": "2026-05-09T15:28:15.527Z",
     "canonical:b926da94b8d1765f": "2026-05-09T15:28:15.527Z",
@@ -118,7 +117,6 @@
     "canonical:e0150c05751b4a2a": "2026-05-09T15:28:15.527Z",
     "canonical:9bb7084f7e28f80a": "2026-05-09T15:28:15.527Z",
     "canonical:9508a5dd181c1039": "2026-05-09T15:28:15.527Z",
-    "canonical:057efbf85e60e686": "2026-05-09T15:28:15.527Z",
     "canonical:12679842c69ce81c": "2026-05-09T15:28:15.527Z",
     "canonical:11c1b4c81d7b5642": "2026-05-09T15:28:15.527Z",
     "canonical:4ad551198f20a1aa": "2026-05-09T15:28:15.527Z",
@@ -145,7 +143,6 @@
     "canonical:89e2504c81c54e71": "2026-05-14T23:10:51.689Z",
     "canonical:31143e047ec31f91": "2026-05-15T04:15:31.167Z",
     "canonical:c031cb55c680003f": "2026-05-15T22:36:45.367Z",
-    "canonical:f37bc45fd732af97": "2026-05-15T23:35:38.383Z",
     "canonical:47a58dc4b6e43e69": "2026-05-16T04:46:03.679Z",
     "canonical:28c2d7cab3607025": "2026-05-09T15:28:15.527Z",
     "canonical:ad86f83d65fd08c6": "2026-05-09T15:28:15.527Z",
@@ -308,7 +305,6 @@
     "canonical:ba7d90657c7616fd": "2026-06-18T06:55:12.727Z",
     "canonical:7dd8143286e8669f": "2026-06-18T11:04:19.200Z",
     "canonical:b4321a96d5262a5c": "2026-06-19T17:03:13.004Z",
-    "canonical:0d51b143c8459099": "2026-06-20T03:57:11.576Z",
     "canonical:495a5708640f7aa7": "2026-06-20T03:57:11.576Z",
     "canonical:5c5c4aaee7bd2d24": "2026-06-21T11:34:18.126Z",
     "canonical:5703b8a0a55c3350": "2026-06-23T00:19:39.353Z",
@@ -486,7 +482,6 @@
     "canonical:368e64dedbd8ba08": "2026-07-09T00:19:16.415Z",
     "canonical:00e90bc881e9527b": "2026-07-09T00:19:16.415Z",
     "canonical:35348a1ebb7fc1d8": "2026-07-09T00:19:16.415Z",
-    "canonical:b24e3627265b33bc": "2026-07-09T00:19:16.415Z",
     "canonical:62a988fb3748ca3f": "2026-07-09T00:19:16.415Z",
     "canonical:611906776fbfddab": "2026-07-09T00:19:16.415Z",
     "canonical:86e52af7f4448747": "2026-07-09T00:19:16.415Z",
@@ -615,7 +610,6 @@
     "canonical:f876ea0d26bc5ee4": "2026-07-10T02:38:18.769Z",
     "canonical:d6368170104e0f33": "2026-07-10T02:38:18.769Z",
     "canonical:e8a5b9fc6e1a4de2": "2026-07-10T06:27:50.376Z",
-    "canonical:bd73a2ff32a0ca98": "2026-07-10T17:05:29.317Z",
     "canonical:7b3cc8868ca7ea4e": "2026-07-10T23:30:41.605Z",
     "canonical:61c93da9140cb7e3": "2026-07-12T14:02:35.390Z",
     "canonical:6418a1b0042bfe92": "2026-07-12T14:02:35.390Z",
@@ -642,7 +636,6 @@
     "canonical:e0d9e6d1c80a362f": "2026-07-13T09:28:03.797Z",
     "canonical:328db5146f8a7f95": "2026-07-13T09:28:03.797Z",
     "canonical:2db16c4eefaac9f3": "2026-07-13T09:28:03.797Z",
-    "canonical:d1299831c12f4c9d": "2026-07-13T09:28:03.797Z",
     "canonical:bb57cdbefd819b25": "2026-07-13T09:28:03.797Z",
     "canonical:6bc029b682edad7b": "2026-07-13T09:28:03.797Z",
     "canonical:5e23cf54210c9ea5": "2026-07-14T00:56:03.544Z",
@@ -820,7 +813,6 @@
     "canonical:5e9c403d6cc2bbf5": "2026-07-20T23:30:05.931Z",
     "canonical:f300c71a0a9bb843": "2026-07-20T23:30:05.931Z",
     "canonical:0b099b4fe538e990": "2026-07-20T23:30:05.931Z",
-    "canonical:bb6b9f49bd862bc7": "2026-07-20T23:30:05.931Z",
     "canonical:c535ae5161baafd0": "2026-07-20T23:30:05.931Z",
     "canonical:9b9ec3d75e008073": "2026-07-20T23:30:05.931Z",
     "canonical:18f13536ae9a202a": "2026-07-20T23:30:05.931Z",
@@ -948,7 +940,6 @@
     "canonical:d8d5c6f65e7267f2": "2026-07-20T23:30:05.931Z",
     "canonical:001e3f9b46493b2f": "2026-07-20T23:30:05.931Z",
     "canonical:e63b78c0ca503004": "2026-07-20T23:30:05.931Z",
-    "canonical:8555801df793b74c": "2026-07-20T23:30:05.931Z",
     "canonical:5efdc210cff58e9c": "2026-07-20T23:30:05.931Z",
     "canonical:f6c35638c896d642": "2026-07-20T23:30:05.931Z",
     "canonical:40f4a990c528ee6c": "2026-07-20T23:30:05.931Z",
@@ -1203,7 +1194,6 @@
     "canonical:261581191e18b8e6": "2026-07-27T20:41:18.581Z",
     "canonical:f808069b826a9f52": "2026-07-27T22:51:22.243Z",
     "canonical:9aaef3e4c361fe82": "2026-07-27T23:54:43.222Z",
-    "canonical:9bd73b3c81e5211b": "2026-07-27T23:54:43.222Z",
     "canonical:ad1518ec22686d31": "2026-07-27T23:54:43.222Z",
     "canonical:d040f46cd850b32c": "2026-07-27T23:54:43.222Z",
     "canonical:64ebc8191f377b6f": "2026-07-27T23:54:43.222Z",
@@ -1267,7 +1257,6 @@
     "canonical:f365dddcf02dfa43": "2026-07-29T14:37:10.626Z",
     "canonical:ffc37a97b1396536": "2026-07-29T16:06:59.600Z",
     "canonical:06c0a2c3751f2622": "2026-07-29T19:57:36.635Z",
-    "canonical:36bf0aa065eb7ac0": "2026-07-29T21:48:15.888Z",
     "canonical:daf99901433a25a0": "2026-07-29T21:48:15.888Z",
     "canonical:697a47b2af9a8c05": "2026-07-29T22:49:10.014Z",
     "canonical:4bd5e89a43bed32b": "2026-07-29T22:49:10.014Z",
@@ -1422,7 +1411,6 @@
     "canonical:66412bb9a55971a4": "2026-08-01T11:57:30.860Z",
     "canonical:c9fd3f9e80dff55e": "2026-08-01T11:57:30.860Z",
     "canonical:103b32da1ae68399": "2026-08-01T11:57:30.860Z",
-    "canonical:51d8864b9bd2c7db": "2026-08-01T11:57:30.860Z",
     "canonical:bdaa687430a7d06e": "2026-08-01T12:56:36.100Z",
     "canonical:8060fbb0da9f52f8": "2026-08-01T12:56:36.100Z",
     "canonical:6a149cb9a2be52a1": "2026-08-01T12:56:36.100Z",
@@ -1571,7 +1559,6 @@
     "canonical:aa14eb8a821940e3": "2026-08-01T20:39:53.991Z",
     "canonical:c4ac427a0ce209b2": "2026-08-01T20:39:53.991Z",
     "canonical:b51e8cde26195f5c": "2026-08-01T20:39:53.991Z",
-    "canonical:21104ad4a89fa842": "2026-08-01T20:39:53.991Z",
     "canonical:41e4c9630758f599": "2026-08-01T20:39:53.991Z",
     "canonical:5e8b571b6f2715f1": "2026-08-01T20:39:53.991Z",
     "canonical:8fa19e59aa634156": "2026-08-01T20:39:53.991Z",
@@ -1754,13 +1741,15 @@
     "canonical:9a409e41a58c86fa": "2026-08-03T16:01:49.102Z",
     "canonical:e5a58639cc003ab8": "2026-08-03T16:01:49.102Z",
     "canonical:1581298beccb768e": "2026-08-03T16:01:49.102Z",
-    "canonical:87e7fb84700c8242": "2026-08-03T16:01:49.102Z",
     "canonical:8ed781d62e50946e": "2026-08-03T16:01:49.102Z",
     "canonical:c0843219a96affcf": "2026-08-03T16:01:49.102Z",
     "canonical:c1fd0cf811053f2d": "2026-08-03T18:02:08.034Z",
     "canonical:8a6e383199d0862b": "2026-08-03T18:02:08.034Z",
     "canonical:39b952a6e394b9d9": "2026-08-03T18:02:08.034Z",
-    "canonical:6cfa491f764781ed": "2026-08-03T18:02:08.034Z"
+    "canonical:6cfa491f764781ed": "2026-08-03T18:02:08.034Z",
+    "canonical:924f2b73ea4300a1": "2026-08-03T19:53:54.012Z",
+    "canonical:dda010ac12f067fa": "2026-08-03T19:53:54.012Z",
+    "canonical:c9142345c7458fa8": "2026-08-03T19:53:54.012Z"
   },
   "jobs": [
     {
@@ -5751,18 +5740,6 @@
       ]
     },
     {
-      "id": "canonical:bb6b9f49bd862bc7",
-      "title": "Network Development Engineer Intern - Fall 2026",
-      "url": "https://amazon.jobs/en/jobs/3134080/network-development-engineer-intern-fall-2026",
-      "location": "Cupertino",
-      "department": "Hardware Development",
-      "company": "Amazon",
-      "score": 75,
-      "scoreReasons": [
-        "SWE-aligned"
-      ]
-    },
-    {
       "id": "canonical:c535ae5161baafd0",
       "title": "Design Intern , Amazon University Talent Acquisition ",
       "url": "https://amazon.jobs/en/jobs/10438927/design-intern-amazon-university-talent-acquisition",
@@ -6913,9 +6890,9 @@
       ]
     },
     {
-      "id": "canonical:01c32ec544ff3ad4",
-      "title": "AI Innovation Intern – Service Sales (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395",
+      "id": "canonical:924f2b73ea4300a1",
+      "title": "Accounting Intern (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7902104?gh_jid=7902104",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -6926,15 +6903,16 @@
       ]
     },
     {
-      "id": "canonical:bd73a2ff32a0ca98",
-      "title": "Brand Social Media Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8054093?gh_jid=8054093",
+      "id": "canonical:01c32ec544ff3ad4",
+      "title": "AI Innovation Intern – Service Sales (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
-      "score": 58,
+      "score": 38,
       "scoreReasons": [
-        "direct ATS"
+        "direct ATS",
+        "lower-fit title"
       ]
     },
     {
@@ -6965,7 +6943,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -9061,19 +9039,6 @@
       "company": "Etched",
       "score": 58,
       "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:6826e54d8a988fcb",
-      "title": "Software Engineering Intern/Co-op",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8403219002",
-      "location": "Bastrop, TX / Irvine, CA / Cape Canaveral, FL / Brownsville, TX / Redmond, WA / McGregor, TX / West Athens, CA / Sunnyvale, CA",
-      "department": "Hardware",
-      "company": "SpaceX",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
         "direct ATS"
       ]
     },
@@ -12931,18 +12896,6 @@
       ]
     },
     {
-      "id": "canonical:0d51b143c8459099",
-      "title": "Software Engineering Intern",
-      "url": "https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19500",
-      "location": "Norcross, GA",
-      "department": "Software",
-      "company": "ACI Worldwide ",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:495a5708640f7aa7",
       "title": "Technology Solutions Data Platform & Engineering Co-op/Intern",
       "url": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9124",
@@ -16792,20 +16745,6 @@
       ]
     },
     {
-      "id": "canonical:21104ad4a89fa842",
-      "title": "Software Engineer Intern - AI Agents + Devices",
-      "url": "https://jobs.ashbyhq.com/kirin/38772f01-84fd-4f09-a36d-e7fa86341b99/application?embed=true",
-      "location": "NYC",
-      "department": "Software",
-      "company": "Kirin",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:41e4c9630758f599",
       "title": "Robot Learning Engineer Intern",
       "url": "https://jobs.ashbyhq.com/gritt/5c4737ce-f546-453b-b30d-791a121fb9fd/application?embed=true",
@@ -20609,18 +20548,6 @@
       ]
     },
     {
-      "id": "canonical:87e7fb84700c8242",
-      "title": "Data Analyst Intern",
-      "url": "https://aramarkcareers.com/UnitedStates/job/Newark-Student-Dietetic-Intern-DE-19716/1415241000/?ats=successfactors",
-      "location": "Newark, DE",
-      "department": "AI/ML/Data",
-      "company": "Aramark",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:8ed781d62e50946e",
       "title": "Linux Engineer Intern",
       "url": "https://www.janestreet.com/join-jane-street/apply/8626146002?gh_jid=8626146002",
@@ -20631,57 +20558,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:057efbf85e60e686",
-      "title": "Hardware-In-the-Loop Software Engineering Intern - Fall 2026",
-      "url": "https://jobs.lever.co/hermeus/10d69ef6-a754-42ab-833c-76adf01367bf/apply",
-      "location": "Atlanta, GA",
-      "department": "Hardware",
-      "company": "Hermeus",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:f37bc45fd732af97",
-      "title": "Research Scientist Intern - Multimodal Contextual AI",
-      "url": "https://www.metacareers.com/jobs/2160167211413098",
-      "location": "Redmond, WA",
-      "department": "AI/ML/Data",
-      "company": "Meta",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:8555801df793b74c",
-      "title": "Data Science Intern",
-      "url": "https://jobs.smartrecruiters.com/HireVue/744000138728139",
-      "location": "Draper, UT",
-      "department": "AI/ML/Data",
-      "company": "HireVue",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:9bd73b3c81e5211b",
-      "title": "AI Product Management Intern",
-      "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195826007",
-      "location": "Durham, NC",
-      "department": "Product",
-      "company": "Toshiba Global Commerce",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
       ]
     },
     {
@@ -21182,18 +21058,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:b24e3627265b33bc",
-      "title": "Engineering Intern",
-      "url": "https://job-boards.greenhouse.io/spacex/jobs/8403206002",
-      "location": "Bastrop, TX / Cape Canaveral, FL / Hawthorne, CA / Irvine, CA / McGregor, TX / Redmond, WA / Starbase, TX / Vandenberg, CA",
-      "department": "",
-      "company": "SpaceX",
-      "score": 58,
-      "scoreReasons": [
         "direct ATS"
       ]
     },
@@ -21931,20 +21795,6 @@
       ]
     },
     {
-      "id": "canonical:0a84f3b21f47e8c0",
-      "title": "Performance Engineer Intern, Systems Software-  Fall 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
-      "location": "US, MO, St. Louis",
-      "department": "Software / Fall 2026",
-      "company": "NVIDIA",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:f876ea0d26bc5ee4",
       "title": "Software Engineer Intern",
       "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate--Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-249424",
@@ -22582,18 +22432,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:51d8864b9bd2c7db",
-      "title": "Cybersecurity Co-Op/Intern",
-      "url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Co-op-Student-Admin_64613-1",
-      "location": "Tampa, FL",
-      "department": "",
-      "company": "The Mosaic Company",
-      "score": 58,
-      "scoreReasons": [
         "direct ATS"
       ]
     },
@@ -23640,6 +23478,32 @@
       ]
     },
     {
+      "id": "canonical:dda010ac12f067fa",
+      "title": "Intern-Engineering (Firmware Development)",
+      "url": "https://microchiphr.wd5.myworkdayjobs.com/external/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Firmware-Development-_R3372-26",
+      "location": "TX - Houston - Compaq Center Dr",
+      "department": "Hardware / Not stated",
+      "company": "Microchip Technology",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c9142345c7458fa8",
+      "title": "Software Engineer Intern (Summer 2027 Internship)",
+      "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667",
+      "location": "Overland Park, KS",
+      "department": "Software / Summer 2027",
+      "company": "Netsmart",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:39b952a6e394b9d9",
       "title": "AI and SW Development Engineering Intern",
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000141302469",
@@ -23752,19 +23616,6 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:36bf0aa065eb7ac0",
-      "title": "Data Science Intern",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Data-Science-Intern_R-00188405",
-      "location": "San Diego, CA",
-      "department": "Data & ML/AI / Not stated",
-      "company": "Leidos",
-      "score": 68,
-      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
@@ -23897,6 +23748,20 @@
       "company": "Copart",
       "score": 68,
       "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:0a84f3b21f47e8c0",
+      "title": "Performance Engineer Intern, Systems Software-  Fall 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
+      "location": "US, MO, St. Louis",
+      "department": "Software / Fall 2026",
+      "company": "NVIDIA",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -24105,19 +23970,6 @@
       "location": "San Francisco, CA",
       "department": "Software / Fall 2026",
       "company": "Beacon Software",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:d1299831c12f4c9d",
-      "title": "Software Engineering Intern (HIL) - Fall 2026",
-      "url": "https://jobs.lever.co/hermeus/10d69ef6-a754-42ab-833c-76adf01367bf",
-      "location": "Atlanta, GA",
-      "department": "Software / Fall 2026",
-      "company": "Hermeus",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
