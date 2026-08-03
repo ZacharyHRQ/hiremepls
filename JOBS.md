@@ -1,6 +1,6 @@
 # Open Internships
 
-**1748** internships across **142/143** companies — last updated 2026-08-03.
+**1753** internships across **142/143** companies — last updated 2026-08-03.
 
 ## Companies
 
@@ -18,7 +18,7 @@
 - [AlixPartners](#alixpartners) (1)
 - [Alljoined](#alljoined) (1)
 - [Altom Transport](#altom-transport) (2)
-- [Amazon](#amazon) (168)
+- [Amazon](#amazon) (169)
 - [Ambarella](#ambarella) (8)
 - [Amentum](#amentum) (1)
 - [American Enterprise Institute](#american-enterprise-institute) (3)
@@ -161,7 +161,6 @@
 - [Dedalus Labs](#dedalus-labs) (1)
 - [Deepgram](#deepgram) (2)
 - [Definity Financial](#definity-financial) (3)
-- [Deloitte](#deloitte) (1)
 - [Delta Air Lines](#delta-air-lines) (1)
 - [Delta Dental](#delta-dental) (1)
 - [Denari](#denari) (1)
@@ -271,6 +270,7 @@
 - [Hershey Entertainment & Resorts Company](#hershey-entertainment-resorts-company) (1)
 - [Hewlett Packard (HP)](#hewlett-packard-hp) (3)
 - [HEXAWARE](#hexaware) (1)
+- [HireVue](#hirevue) (1)
 - [Hitachi](#hitachi) (1)
 - [Hiverge](#hiverge) (1)
 - [HNTB](#hntb) (1)
@@ -394,6 +394,7 @@
 - [Northrop Grumman](#northrop-grumman) (1)
 - [Northwestern Mutual](#northwestern-mutual) (3)
 - [Notion](#notion) (5)
+- [Novanta](#novanta) (1)
 - [Nuro](#nuro) (3)
 - [NVIDIA](#nvidia) (1)
 - [NXP Semiconductors](#nxp-semiconductors) (1)
@@ -420,6 +421,7 @@
 - [Pendulum Intelligence](#pendulum-intelligence) (1)
 - [PennState University](#pennstate-university) (1)
 - [Pennsylvania State University](#pennsylvania-state-university) (9)
+- [Pentair](#pentair) (1)
 - [Peraton](#peraton) (1)
 - [Periodic Labs](#periodic-labs) (1)
 - [Perplexity](#perplexity) (3)
@@ -446,6 +448,7 @@
 - [Quadric](#quadric) (2)
 - [Quadrillion](#quadrillion) (3)
 - [QuantCo](#quantco) (1)
+- [QuEra Computing](#quera-computing) (1)
 - [Quora](#quora) (2)
 - [Radix Trading](#radix-trading) (1)
 - [Rainmaker](#rainmaker) (1)
@@ -596,6 +599,7 @@
 - [WeRide](#weride) (1)
 - [Western Digital](#western-digital) (3)
 - [Westinghouse](#westinghouse) (1)
+- [Williams](#williams) (1)
 - [WindBorne Systems](#windborne-systems) (1)
 - [Wise](#wise) (1)
 - [Workato](#workato) (1)
@@ -711,6 +715,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://amazon.jobs/en/jobs/10491025/summer-2027-aws-human-resources-leadership-development-program-internship-aws) | 50 | Seattle | Human Resources | 2026-08-03 |
 | [Graduate Area/Shift Manager - Lombardia](https://amazon.jobs/en/jobs/10467985/graduate-area-shift-manager-lombardia) | 56 | Origgio | Fulfillment & Operations Management | 2026-07-31 |
 | [2026 PM Intern - Supply Chain, Operations](https://amazon.jobs/en/jobs/10488893/2026-pm-intern-supply-chain-operations) | 50 | Melbourne | Fulfillment & Operations Management | 2026-07-31 |
 | [Graduate Logistik Manager - Pforzheim](https://amazon.jobs/en/jobs/3160003/graduate-logistik-manager-pforzheim) | 56 | Pforzheim | Fulfillment & Operations Management | 2026-07-28 |
@@ -1953,12 +1958,6 @@
 | [Reporting Specialist Co-op/Intern](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9150) | 60 | Mississauga, ON, Canada / Kitchener, ON, Canada | AI/ML/Data | 2026-06-17 |
 | [Data Analyst Co-op/Intern](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9152) | 60 | Toronto, ON, Canada | AI/ML/Data | 2026-06-17 |
 
-## Deloitte
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Consultative Offerings Intern - Government & Public Services - Cyber Analytics](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Cyber-Analytics/360259) | 60 | Arlington, VA | AI/ML/Data | 2026-07-28 |
-
 ## Delta Air Lines
 
 | Title | Score | Location | Department | First seen |
@@ -2684,6 +2683,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Intern Data Engineer](https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/623864) | 85 | United States | AI/ML/Data | 2026-05-09 |
+
+## HireVue
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [IO Product Science Intern](https://jobs.smartrecruiters.com/HireVue/744000141285569) | 68 | Sandy, UT | AI/ML/Data | 2026-08-03 |
 
 ## Hitachi
 
@@ -3618,6 +3623,12 @@
 | [Software Engineer Intern, Mobile](https://jobs.ashbyhq.com/notion/3e56e35b-f35b-4b1a-ba2b-0ccdc6f60421) | 93 | San Francisco, CA / New York, NY | — | 2026-07-09 |
 | [Software Engineer, AI Intern](https://jobs.ashbyhq.com/notion/39d70209-37f6-4623-949b-18fbd8889933) | 93 | San Francisco, CA / New York, NY | — | 2026-07-09 |
 
+## Novanta
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Engineer Intern](https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Apex-NC/Intern-Engineering_R009484) | 58 | Apex, NC | Hardware | 2026-08-03 |
+
 ## Nuro
 
 | Title | Score | Location | Department | First seen |
@@ -3888,6 +3899,12 @@
 | [Privacy and Security in LLM-Driven Agentic Systems PhD Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Privacy-Security-in-LLM-Driven-Agentic-Systems-PhD-Internship-w--Dr-Sharma_REQ_0000067719) | 68 | State College, PA | AI/ML/Data | 2026-07-21 |
 | [Research Assistant Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistants_REQ_0000063953-1) | 68 | State College, PA | AI/ML/Data | 2026-07-21 |
 
+## Pentair
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Product Management Internship](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Product-Management-Leadership-Development-Internship-Program---Summer-2027_R23713) | 58 | Apex, NC / Brookfield, WI / Delavan, WI / North Aurora, IL / New Brighton, MN / Golden Valley, MN | Product | 2026-08-03 |
+
 ## Peraton
 
 | Title | Score | Location | Department | First seen |
@@ -4019,7 +4036,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [AI Engineer Intern](https://job-boards.greenhouse.io/postman/jobs/7823417003) | 93 | Berkeley, CA | AI/ML/Data | 2026-08-01 |
+| [AI Engineer, Intern](https://job-boards.greenhouse.io/postman/jobs/7823417003) | 93 | Berkeley, California, United States | Data & ML/AI / Not stated | 2026-08-03 |
 
 ## PPL
 
@@ -4078,6 +4095,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://jobs.lever.co/quantco-/d69096fa-b673-4953-ba63-7deee08bc13c/apply) | 93 | London, UK / Bellheim, Germany / Wenden, Germany / Berlin, Germany / Munich, Germany | Software | 2026-07-20 |
+
+## QuEra Computing
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Photonics Data Engineer Intern - Data Management](https://job-boards.greenhouse.io/queracomputinginc/jobs/5378366008) | 93 | Boston, MA | AI/ML/Data | 2026-08-03 |
 
 ## Quora
 
@@ -5294,6 +5317,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](https://careers.westinghousenuclear.com/job/Shoreview-Software-Engineering-Intern-Summer-2026-MN-55126/1348239000/) | 60 | Shoreview, MN | Software Engineering | 2026-05-09 |
+
+## Williams
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Engineering Intern](https://williams.wd5.myworkdayjobs.com/External/job/OK-Tulsa---Headquarters/Summer-2027-Return-Engineering-Intern_R112502) | 68 | Salt Lake City, UT / Houston, TX / Tulsa, OK | AI/ML/Data | 2026-08-03 |
 
 ## WindBorne Systems
 

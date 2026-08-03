@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-03T21:57:50.604Z",
+  "generatedAt": "2026-08-03T22:56:56.083Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1748,
+  "jobCount": 1753,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1198,7 +1198,6 @@
     "canonical:64ebc8191f377b6f": "2026-07-27T23:54:43.222Z",
     "canonical:b42cdf2979b3fd03": "2026-07-27T23:54:43.222Z",
     "canonical:01a65994dfbf12e0": "2026-07-28T01:30:07.958Z",
-    "canonical:00074f14b5fec3d5": "2026-07-28T01:30:07.958Z",
     "canonical:7ff33328e33da6b5": "2026-07-28T04:43:41.737Z",
     "canonical:4f420d7160bdf5f9": "2026-07-28T04:43:41.737Z",
     "canonical:dcc402b770a2ceef": "2026-07-28T04:43:41.737Z",
@@ -1621,7 +1620,6 @@
     "canonical:7057a2cbb57f9823": "2026-08-01T22:35:45.744Z",
     "canonical:edc3a522c9208e66": "2026-08-01T22:35:45.744Z",
     "canonical:b4f9dde6d2e8fd17": "2026-08-01T22:35:45.744Z",
-    "canonical:2bfd044e05f72cfa": "2026-08-01T23:37:49.562Z",
     "canonical:954aaee20b550fc2": "2026-08-01T23:37:49.562Z",
     "canonical:a37a272f9143198f": "2026-08-01T23:37:49.562Z",
     "canonical:42d728827081c1e1": "2026-08-01T23:37:49.562Z",
@@ -1751,7 +1749,14 @@
     "canonical:f4da55fc186bd171": "2026-08-03T20:54:21.831Z",
     "canonical:bd73a2ff32a0ca98": "2026-08-03T21:57:50.604Z",
     "canonical:034675ec7f5db015": "2026-08-03T21:57:50.604Z",
-    "canonical:a404c76c08bbb355": "2026-08-03T21:57:50.604Z"
+    "canonical:a404c76c08bbb355": "2026-08-03T21:57:50.604Z",
+    "canonical:582d6baa394fac8a": "2026-08-03T22:56:56.083Z",
+    "canonical:a87a72c9a3af093b": "2026-08-03T22:56:56.083Z",
+    "canonical:8ab3835c5fa0def9": "2026-08-03T22:56:56.083Z",
+    "canonical:28162d1a7dba7403": "2026-08-03T22:56:56.083Z",
+    "canonical:0e93f286ad316954": "2026-08-03T22:56:56.083Z",
+    "canonical:00f76402b372da9e": "2026-08-03T22:56:56.083Z",
+    "canonical:5cd25c758b7a85d2": "2026-08-03T22:56:56.083Z"
   },
   "jobs": [
     {
@@ -4625,6 +4630,16 @@
       ]
     },
     {
+      "id": "canonical:582d6baa394fac8a",
+      "title": "Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS",
+      "url": "https://amazon.jobs/en/jobs/10491025/summer-2027-aws-human-resources-leadership-development-program-internship-aws",
+      "location": "Seattle",
+      "department": "Human Resources",
+      "company": "Amazon",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
       "id": "canonical:af87550f23f62375",
       "title": "Graduate Area/Shift Manager - Lombardia",
       "url": "https://amazon.jobs/en/jobs/10467985/graduate-area-shift-manager-lombardia",
@@ -7054,11 +7069,11 @@
       "scoreReasons": []
     },
     {
-      "id": "canonical:2bfd044e05f72cfa",
-      "title": "AI Engineer Intern",
+      "id": "canonical:a87a72c9a3af093b",
+      "title": "AI Engineer, Intern",
       "url": "https://job-boards.greenhouse.io/postman/jobs/7823417003",
-      "location": "Berkeley, CA",
-      "department": "AI/ML/Data",
+      "location": "Berkeley, California, United States",
+      "department": "Data & ML/AI / Not stated",
       "company": "Postman",
       "score": 93,
       "scoreReasons": [
@@ -18145,18 +18160,6 @@
       ]
     },
     {
-      "id": "canonical:00074f14b5fec3d5",
-      "title": "Consultative Offerings Intern - Government & Public Services - Cyber Analytics",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Cyber-Analytics/360259",
-      "location": "Arlington, VA",
-      "department": "AI/ML/Data",
-      "company": "Deloitte",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:5065505f2c2a77d4",
       "title": "Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency",
       "url": "https://lifeattiktok.com/search/7667248888103782661",
@@ -20572,6 +20575,70 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:8ab3835c5fa0def9",
+      "title": "Product Management Internship",
+      "url": "https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Product-Management-Leadership-Development-Internship-Program---Summer-2027_R23713",
+      "location": "Apex, NC / Brookfield, WI / Delavan, WI / North Aurora, IL / New Brighton, MN / Golden Valley, MN",
+      "department": "Product",
+      "company": "Pentair",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:28162d1a7dba7403",
+      "title": "Engineering Intern",
+      "url": "https://williams.wd5.myworkdayjobs.com/External/job/OK-Tulsa---Headquarters/Summer-2027-Return-Engineering-Intern_R112502",
+      "location": "Salt Lake City, UT / Houston, TX / Tulsa, OK",
+      "department": "AI/ML/Data",
+      "company": "Williams",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:0e93f286ad316954",
+      "title": "Engineer Intern",
+      "url": "https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Apex-NC/Intern-Engineering_R009484",
+      "location": "Apex, NC",
+      "department": "Hardware",
+      "company": "Novanta",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:00f76402b372da9e",
+      "title": "Photonics Data Engineer Intern - Data Management",
+      "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5378366008",
+      "location": "Boston, MA",
+      "department": "AI/ML/Data",
+      "company": "QuEra Computing",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:5cd25c758b7a85d2",
+      "title": "IO Product Science Intern",
+      "url": "https://jobs.smartrecruiters.com/HireVue/744000141285569",
+      "location": "Sandy, UT",
+      "department": "AI/ML/Data",
+      "company": "HireVue",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {

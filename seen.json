@@ -1634,6 +1634,7 @@
     "5187605007"
   ],
   "Amazon": [
+    "10491025",
     "10467985",
     "10472164",
     "10472134",
@@ -2741,7 +2742,6 @@
     "simplify:d71bed9a-99bb-4a02-ae62-3ee72d73fb36",
     "simplify:a6c8a7bd-365e-48e9-89f6-f884a9809150",
     "simplify:498eccae-caa0-431f-8c04-ffd7922d92a6",
-    "simplify:4b79443f-64b0-4381-aa54-5febee12149d",
     "simplify:d91645a0-c83d-4a09-bb25-c45044295c83",
     "simplify:138aace0-50eb-474e-bdb9-b1b513a1aa72",
     "simplify:d4041518-dc22-4f01-96d9-aa0030510fd8",
@@ -2852,7 +2852,6 @@
     "simplify:d719e9cc-0e4d-4015-9ad9-367e0858f42d",
     "simplify:e142c984-ca46-4624-af2c-e5061b8b60f2",
     "simplify:b000afca-793b-458b-811c-ebfc26ed646b",
-    "simplify:cef7eb65-ef35-4d6e-961e-cd3c0afe1058",
     "simplify:43929c26-d19b-4057-9543-bf087c4bbf62",
     "simplify:1d56fcf0-39ad-4779-9c90-25804a75135e",
     "simplify:6782ff48-fa1d-47f8-bab9-bb94b0ab30f1",
@@ -2954,7 +2953,12 @@
     "simplify:04b480ff-ebb0-42e4-b8b2-91fc9a145fe2",
     "simplify:14e4cecc-8df0-4784-b302-5fa8e96fae39",
     "simplify:aa3ae48a-c50e-4ccf-ad24-b0dee7dbdabc",
-    "simplify:6b833521-4df7-4224-994b-3d4e142cd98a"
+    "simplify:6b833521-4df7-4224-994b-3d4e142cd98a",
+    "simplify:9fede417-0d28-4566-ac69-820d4c8e5f90",
+    "simplify:de4fe3d1-76de-472c-8e5d-cd3753a6ab3c",
+    "simplify:69d82e73-0d15-4a79-8bd0-592041531569",
+    "simplify:3f75b98c-3c6a-4192-8268-3e946dae7519",
+    "simplify:96b741b8-2256-4846-ae66-6fbce7641a46"
   ],
   "DoorDash": [],
   "Waymo": [
@@ -3993,7 +3997,6 @@
     "simplify:d71bed9a-99bb-4a02-ae62-3ee72d73fb36",
     "simplify:a6c8a7bd-365e-48e9-89f6-f884a9809150",
     "simplify:498eccae-caa0-431f-8c04-ffd7922d92a6",
-    "simplify:4b79443f-64b0-4381-aa54-5febee12149d",
     "simplify:d91645a0-c83d-4a09-bb25-c45044295c83",
     "simplify:138aace0-50eb-474e-bdb9-b1b513a1aa72",
     "simplify:d4041518-dc22-4f01-96d9-aa0030510fd8",
@@ -4104,7 +4107,6 @@
     "simplify:d719e9cc-0e4d-4015-9ad9-367e0858f42d",
     "simplify:e142c984-ca46-4624-af2c-e5061b8b60f2",
     "simplify:b000afca-793b-458b-811c-ebfc26ed646b",
-    "simplify:cef7eb65-ef35-4d6e-961e-cd3c0afe1058",
     "simplify:43929c26-d19b-4057-9543-bf087c4bbf62",
     "simplify:1d56fcf0-39ad-4779-9c90-25804a75135e",
     "simplify:6782ff48-fa1d-47f8-bab9-bb94b0ab30f1",
@@ -4206,6 +4208,11 @@
     "simplify:04b480ff-ebb0-42e4-b8b2-91fc9a145fe2",
     "simplify:14e4cecc-8df0-4784-b302-5fa8e96fae39",
     "simplify:aa3ae48a-c50e-4ccf-ad24-b0dee7dbdabc",
-    "simplify:6b833521-4df7-4224-994b-3d4e142cd98a"
+    "simplify:6b833521-4df7-4224-994b-3d4e142cd98a",
+    "simplify:9fede417-0d28-4566-ac69-820d4c8e5f90",
+    "simplify:de4fe3d1-76de-472c-8e5d-cd3753a6ab3c",
+    "simplify:69d82e73-0d15-4a79-8bd0-592041531569",
+    "simplify:3f75b98c-3c6a-4192-8268-3e946dae7519",
+    "simplify:96b741b8-2256-4846-ae66-6fbce7641a46"
   ]
 }
