@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T00:09:08.015Z",
+  "generatedAt": "2026-08-03T03:50:23.619Z",
   "companyCount": 143,
   "okCount": 142,
   "jobCount": 1708,
@@ -2231,10 +2231,10 @@
       "scoreReasons": []
     },
     {
-      "id": "canonical:adc1bdd879675b5a",
+      "id": "canonical:d1d20c5456576574",
       "title": "Campus Data Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7975008",
-      "location": "London",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
+      "location": "Chicago",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -2244,10 +2244,10 @@
       ]
     },
     {
-      "id": "canonical:d1d20c5456576574",
+      "id": "canonical:adc1bdd879675b5a",
       "title": "Campus Data Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
-      "location": "Chicago",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7975008",
+      "location": "London",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -2342,10 +2342,10 @@
       ]
     },
     {
-      "id": "canonical:fe88e70c975c6d4f",
+      "id": "canonical:5d7744db1dee2002",
       "title": "Campus Quantitative Trader (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7848371",
-      "location": "Chicago; New York",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8050772",
+      "location": "London; Amsterdam",
       "department": "",
       "company": "Jump Trading",
       "score": 60,
@@ -2354,10 +2354,10 @@
       ]
     },
     {
-      "id": "canonical:5d7744db1dee2002",
+      "id": "canonical:fe88e70c975c6d4f",
       "title": "Campus Quantitative Trader (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8050772",
-      "location": "London; Amsterdam",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7848371",
+      "location": "Chicago; New York",
       "department": "",
       "company": "Jump Trading",
       "score": 60,
