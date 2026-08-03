@@ -60,8 +60,8 @@
     "7982648",
     "8050772",
     "7848371",
-    "7975026",
     "8002989",
+    "7975026",
     "8000323",
     "8007788",
     "7565728",
@@ -72,8 +72,8 @@
     "7991171",
     "8038923",
     "8070392",
-    "7993195",
     "7957735",
+    "7993195",
     "7997729",
     "7981754",
     "7818540",
@@ -82,10 +82,10 @@
     "7957243",
     "7668776",
     "8014919",
-    "7942281",
     "8020364",
-    "7992936",
+    "7942281",
     "7991196",
+    "7992936",
     "8014910",
     "7992670",
     "7993565",
@@ -126,8 +126,8 @@
     "8491138002",
     "8491128002",
     "8603979002",
-    "7297611002",
     "7297598002",
+    "7297611002",
     "7302611002",
     "7609197002",
     "7586061002",
@@ -214,9 +214,9 @@
     "8031027",
     "8013562",
     "7796077",
-    "8089379",
-    "8089407",
     "8089400",
+    "8089407",
+    "8089379",
     "8052785"
   ],
   "Datadog": [],
@@ -1423,6 +1423,10 @@
   ],
   "Wayve": [],
   "zshah101 Summer 2027/Fall 2026": [
+    "github-json:zshah101-summer-2027-fall-2026:oracle:jpmc.fa.oraclecloud.com:210773869",
+    "github-json:zshah101-summer-2027-fall-2026:oracle:jpmc.fa.oraclecloud.com:210773759",
+    "github-json:zshah101-summer-2027-fall-2026:oracle:jpmc.fa.oraclecloud.com:210775223",
+    "github-json:zshah101-summer-2027-fall-2026:workday:copart:/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110353",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:hyannisportresearch:7822989003",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:postman:7823417003",
     "github-json:zshah101-summer-2027-fall-2026:workday:psecu:/job/Harrisburg-PA/Data-Analyst-Intern_JR100964",
@@ -1788,6 +1792,7 @@
     "3060829"
   ],
   "Snap": [
+    "/job/Riyadh-Saudi-Arabia/Graduate---Client-Partners_R0046337-1",
     "/job/Abingdon---141-Park-Drive/Chemistry-Intern_R0046314"
   ],
   "SimplifyJobs 2026": [
@@ -2815,7 +2820,6 @@
     "simplify:04d1606f-f4e5-4d3e-8dfb-7e6f6058d4ef",
     "simplify:0b26c2f0-079a-457d-b9bc-8123655ff605",
     "simplify:c3d4ae08-ce75-4327-94cf-38da2d5cbae0",
-    "simplify:9a6942e8-038d-4b47-8c8a-c56f0b1800fa",
     "simplify:c63937cc-49b3-4672-b316-c4e35731c6af",
     "simplify:079e1669-46b8-488f-8297-f7c139a745ec",
     "simplify:bca90a25-419e-46da-864d-1d8564cdf838",
@@ -2905,7 +2909,14 @@
     "simplify:6bb2553b-f9bc-4c0b-ae90-ae4d6dabeeee",
     "simplify:ee1bc7a8-d82f-4c73-8228-18ce9b38d4b0",
     "simplify:48c4cfa3-389b-4a66-abd7-a1d6cb9708a5",
-    "simplify:14175068-fa33-4dcb-b0de-4819bdef5ae5"
+    "simplify:14175068-fa33-4dcb-b0de-4819bdef5ae5",
+    "simplify:bf242ed9-9919-4627-bcd1-35178762d9c5",
+    "simplify:05ab114c-f9d4-45b3-ac84-20227b44db3f",
+    "simplify:19c7a628-f5e1-4852-ae69-dc9b1519d3c3",
+    "simplify:d1787088-b958-47f6-91df-8bc1262f98bf",
+    "simplify:c06e2ba7-807a-41d2-907c-16ab14e6257d",
+    "simplify:b7198b61-27db-46c1-8155-5a5bdb14370f",
+    "simplify:3217e7e4-0695-43ab-aabb-76560f697ed4"
   ],
   "DoorDash": [],
   "Waymo": [
@@ -4031,7 +4042,6 @@
     "simplify:04d1606f-f4e5-4d3e-8dfb-7e6f6058d4ef",
     "simplify:0b26c2f0-079a-457d-b9bc-8123655ff605",
     "simplify:c3d4ae08-ce75-4327-94cf-38da2d5cbae0",
-    "simplify:9a6942e8-038d-4b47-8c8a-c56f0b1800fa",
     "simplify:c63937cc-49b3-4672-b316-c4e35731c6af",
     "simplify:079e1669-46b8-488f-8297-f7c139a745ec",
     "simplify:bca90a25-419e-46da-864d-1d8564cdf838",
@@ -4121,6 +4131,13 @@
     "simplify:6bb2553b-f9bc-4c0b-ae90-ae4d6dabeeee",
     "simplify:ee1bc7a8-d82f-4c73-8228-18ce9b38d4b0",
     "simplify:48c4cfa3-389b-4a66-abd7-a1d6cb9708a5",
-    "simplify:14175068-fa33-4dcb-b0de-4819bdef5ae5"
+    "simplify:14175068-fa33-4dcb-b0de-4819bdef5ae5",
+    "simplify:bf242ed9-9919-4627-bcd1-35178762d9c5",
+    "simplify:05ab114c-f9d4-45b3-ac84-20227b44db3f",
+    "simplify:19c7a628-f5e1-4852-ae69-dc9b1519d3c3",
+    "simplify:d1787088-b958-47f6-91df-8bc1262f98bf",
+    "simplify:c06e2ba7-807a-41d2-907c-16ab14e6257d",
+    "simplify:b7198b61-27db-46c1-8155-5a5bdb14370f",
+    "simplify:3217e7e4-0695-43ab-aabb-76560f697ed4"
   ]
 }

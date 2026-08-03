@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-03T03:50:23.619Z",
+  "generatedAt": "2026-08-03T06:50:49.506Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1708,
+  "jobCount": 1717,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1339,7 +1339,6 @@
     "canonical:ae44a67983e1d43a": "2026-07-30T23:05:50.164Z",
     "canonical:1d41c103b87b651a": "2026-07-30T23:05:50.164Z",
     "canonical:70d6d85016f5db82": "2026-07-30T23:05:50.164Z",
-    "canonical:9a58dcf2a038aadc": "2026-07-30T23:05:50.164Z",
     "canonical:c7b755cee21dae11": "2026-07-30T23:05:50.164Z",
     "canonical:9ec2156fe6e4db18": "2026-07-30T23:05:50.164Z",
     "canonical:0b3ed1f21f17af1c": "2026-07-30T23:05:50.164Z",
@@ -1711,7 +1710,17 @@
     "canonical:dfebe5919a290031": "2026-08-02T14:53:15.233Z",
     "canonical:23c0d3e0550a0e53": "2026-08-02T23:07:55.211Z",
     "canonical:555fbaee4ddb09bd": "2026-08-02T23:07:55.211Z",
-    "canonical:5a61e90d183d7c8a": "2026-08-02T23:07:55.211Z"
+    "canonical:5a61e90d183d7c8a": "2026-08-02T23:07:55.211Z",
+    "canonical:d68411deab859a50": "2026-08-03T06:50:49.506Z",
+    "canonical:58530fa6c4e518eb": "2026-08-03T06:50:49.506Z",
+    "canonical:2d6c73aef26039d0": "2026-08-03T06:50:49.506Z",
+    "canonical:89f43b3fae89fee4": "2026-08-03T06:50:49.506Z",
+    "canonical:f3a6c5e89086ec3d": "2026-08-03T06:50:49.506Z",
+    "canonical:9142ad2681019e9a": "2026-08-03T06:50:49.506Z",
+    "canonical:4d57ef2423ce1c27": "2026-08-03T06:50:49.506Z",
+    "canonical:aee0616429acae2f": "2026-08-03T06:50:49.506Z",
+    "canonical:fa771ed4cad148e6": "2026-08-03T06:50:49.506Z",
+    "canonical:b4b260564799df8f": "2026-08-03T06:50:49.506Z"
   },
   "jobs": [
     {
@@ -2366,10 +2375,10 @@
       ]
     },
     {
-      "id": "canonical:4da2c943e4eb3f7c",
+      "id": "canonical:aa053f6ba830d433",
       "title": "Campus Software Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7975026",
-      "location": "London",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
+      "location": "Chicago",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -2379,10 +2388,10 @@
       ]
     },
     {
-      "id": "canonical:aa053f6ba830d433",
+      "id": "canonical:4da2c943e4eb3f7c",
       "title": "Campus Software Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
-      "location": "Chicago",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7975026",
+      "location": "London",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -2492,10 +2501,10 @@
       ]
     },
     {
-      "id": "canonical:8f04983c528e0d41",
+      "id": "canonical:6e64194c6ae570c0",
       "title": "Leadership Rotation Network Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7993195",
-      "location": "Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957735",
+      "location": "London",
       "department": "",
       "company": "DRW",
       "score": 58,
@@ -2504,10 +2513,10 @@
       ]
     },
     {
-      "id": "canonical:6e64194c6ae570c0",
+      "id": "canonical:8f04983c528e0d41",
       "title": "Leadership Rotation Network Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957735",
-      "location": "London",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7993195",
+      "location": "Chicago, IL",
       "department": "",
       "company": "DRW",
       "score": 58,
@@ -2622,20 +2631,6 @@
       ]
     },
     {
-      "id": "canonical:bd72b8a6944f6777",
-      "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
-      "location": "London, UK",
-      "department": "Software",
-      "company": "DRW",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:f9963438d881a851",
       "title": "Software Developer Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
@@ -2650,10 +2645,10 @@
       ]
     },
     {
-      "id": "canonical:1d41c103b87b651a",
+      "id": "canonical:bd72b8a6944f6777",
       "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
-      "location": "Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
+      "location": "London, UK",
       "department": "Software",
       "company": "DRW",
       "score": 93,
@@ -2668,6 +2663,20 @@
       "title": "Software Developer Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
       "location": "Montreal, QC, Canada",
+      "department": "Software",
+      "company": "DRW",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1d41c103b87b651a",
+      "title": "Software Developer Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
+      "location": "Chicago, IL",
       "department": "Software",
       "company": "DRW",
       "score": 93,
@@ -3046,10 +3055,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -3060,10 +3069,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -6374,6 +6383,18 @@
       "scoreReasons": []
     },
     {
+      "id": "canonical:d68411deab859a50",
+      "title": "Graduate - Client Partners",
+      "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Riyadh-Saudi-Arabia/Graduate---Client-Partners_R0046337-1",
+      "location": "Riyadh, Saudi Arabia",
+      "department": "",
+      "company": "Snap",
+      "score": 56,
+      "scoreReasons": [
+        "new grad"
+      ]
+    },
+    {
       "id": "canonical:1af2d0ed6e4d9fa1",
       "title": "Chemistry Intern",
       "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Abingdon---141-Park-Drive/Chemistry-Intern_R0046314",
@@ -6867,7 +6888,7 @@
     {
       "id": "canonical:1a056010d15d11c7",
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -19078,18 +19099,6 @@
       ]
     },
     {
-      "id": "canonical:9a58dcf2a038aadc",
-      "title": "Digital and Logic Design Engineer Intern",
-      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AL-Huntsville/Intern---Digital-and-Logic-Design-Engineer-Fall-Intern_R0167259",
-      "location": "Huntsville, AL",
-      "department": "Hardware",
-      "company": "Amentum",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:c7b755cee21dae11",
       "title": "Data Analysis Intern",
       "url": "https://jobs.lever.co/calstart/39565f0d-d10f-458b-b72d-d807420059b8/apply",
@@ -20131,6 +20140,73 @@
         "SWE-aligned",
         "high-signal role"
       ]
+    },
+    {
+      "id": "canonical:58530fa6c4e518eb",
+      "title": "Campus Undergraduate Summer Internship - Strategy & Analytics - Credit & Fraud Risk",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011984",
+      "location": "NYC",
+      "department": "AI/ML/Data",
+      "company": "American Express",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:2d6c73aef26039d0",
+      "title": "Product Management Intern - Product Innovation - Credit & Fraud Risk",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011992",
+      "location": "NYC",
+      "department": "Product",
+      "company": "American Express",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:89f43b3fae89fee4",
+      "title": "Software Engineer Intern",
+      "url": "https://blackcape.applytojob.com/apply/7o6mmAYryt/US-Military-Skillbridge-Internship-Software-EngineerArlington-VA",
+      "location": "Arlington County, Arlington, VA",
+      "department": "Software",
+      "company": "Black Cape",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:f3a6c5e89086ec3d",
+      "title": "Digital Product Analyst Intern",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011918",
+      "location": "NYC",
+      "department": "Product",
+      "company": "American Express",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:9142ad2681019e9a",
+      "title": "Undergraduate Intern - Strategy & Analytics",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011990",
+      "location": "Phoenix, AZ",
+      "department": "AI/ML/Data",
+      "company": "American Express",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:4d57ef2423ce1c27",
+      "title": "Product Manager Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
+      "location": "Redmond, WA",
+      "department": "Product",
+      "company": "Microsoft",
+      "score": 50,
+      "scoreReasons": []
     },
     {
       "id": "canonical:12cd06c0eec80152",
@@ -23065,6 +23141,43 @@
       "score": 42,
       "scoreReasons": [
         "aggregator link"
+      ]
+    },
+    {
+      "id": "canonical:aee0616429acae2f",
+      "title": "2027 Data & AI Program - Summer Internship - Analyst - United States",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773869",
+      "location": "Chicago, IL, United States",
+      "department": "Data & ML/AI / Summer 2027",
+      "company": "JPMorganChase",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:fa771ed4cad148e6",
+      "title": "2027 Code for Good Hackathon - Software Engineer Program - Summer Internship – United States",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773759",
+      "location": "Chicago, IL, United States",
+      "department": "Software / Summer 2027",
+      "company": "JPMorganChase",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:b4b260564799df8f",
+      "title": "2027 Data for Good Hackathon - Data & AI Program - Summer Internship",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210775223",
+      "location": "Chicago, IL, United States",
+      "department": "Data & ML/AI / Summer 2027",
+      "company": "JPMorganChase",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
       ]
     },
     {

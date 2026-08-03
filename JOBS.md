@@ -1,6 +1,6 @@
 # Open Internships
 
-**1708** internships across **142/143** companies — last updated 2026-08-03.
+**1717** internships across **142/143** companies — last updated 2026-08-03.
 
 ## Companies
 
@@ -21,8 +21,9 @@
 - [Altom Transport](#altom-transport) (2)
 - [Amazon](#amazon) (169)
 - [Ambarella](#ambarella) (8)
-- [Amentum](#amentum) (2)
+- [Amentum](#amentum) (1)
 - [American Enterprise Institute](#american-enterprise-institute) (3)
+- [American Express](#american-express) (4)
 - [Amgen](#amgen) (1)
 - [Anduril](#anduril) (2)
 - [Anthelion Capital](#anthelion-capital) (2)
@@ -75,6 +76,7 @@
 - [Binance](#binance) (1)
 - [Bio-Techne](#bio-techne) (1)
 - [Black Box](#black-box) (2)
+- [Black Cape](#black-cape) (1)
 - [BlackEdge Capital](#blackedge-capital) (2)
 - [BlackRock](#blackrock) (1)
 - [Blackstone](#blackstone) (2)
@@ -305,6 +307,7 @@
 - [Jain Global](#jain-global) (1)
 - [Jane Street](#jane-street) (19)
 - [JP Morgan Chase](#jp-morgan-chase) (1)
+- [JPMorganChase](#jpmorganchase) (3)
 - [Jump Trading](#jump-trading) (43)
 - [Junior](#junior) (1)
 - [Junior AI](#junior-ai) (1)
@@ -350,7 +353,7 @@
 - [Meshy](#meshy) (2)
 - [Meta](#meta) (14)
 - [Microchip Technology](#microchip-technology) (4)
-- [Microsoft](#microsoft) (2)
+- [Microsoft](#microsoft) (3)
 - [Midmark ](#midmark) (1)
 - [Mindsmith](#mindsmith) (1)
 - [Mistral AI](#mistral-ai) (2)
@@ -488,7 +491,7 @@
 - [Skydio](#skydio) (2)
 - [Smiths Detection](#smiths-detection) (1)
 - [Smiths Detection Group](#smiths-detection-group) (1)
-- [Snap](#snap) (1)
+- [Snap](#snap) (2)
 - [Snowflake](#snowflake) (10)
 - [Solar Turbines](#solar-turbines) (2)
 - [SoloPulse](#solopulse) (3)
@@ -902,7 +905,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Digital and Logic Design Engineer Intern](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AL-Huntsville/Intern---Digital-and-Logic-Design-Engineer-Fall-Intern_R0167259) | 58 | Huntsville, AL | Hardware | 2026-07-30 |
 | [Spaceflight Hardware Intern](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Fall-2026---Spaceflight-Hardware-Intern_R0166096) | 58 | Houston, TX | Hardware | 2026-07-21 |
 
 ## American Enterprise Institute
@@ -912,6 +914,15 @@
 | [Housing Center Intern](https://internships-aei.icims.com/jobs/2614/job?mobile=true&needsRedirect=false) | 60 | Washington, DC | AI/ML/Data | 2026-08-01 |
 | [Intern](https://internships-aei.icims.com/jobs/2616/job?mobile=true&needsRedirect=false) | 60 | Washington, DC | AI/ML/Data | 2026-08-01 |
 | [Intern: Economic Policy](https://internships-aei.icims.com/jobs/2618/job?mobile=true&needsRedirect=false) | 60 | Washington, DC | AI/ML/Data | 2026-08-01 |
+
+## American Express
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Campus Undergraduate Summer Internship - Strategy & Analytics - Credit & Fraud Risk](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011984) | 60 | NYC | AI/ML/Data | 2026-08-03 |
+| [Undergraduate Intern - Strategy & Analytics](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011990) | 60 | Phoenix, AZ | AI/ML/Data | 2026-08-03 |
+| [Digital Product Analyst Intern](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011918) | 50 | NYC | Product | 2026-08-03 |
+| [Product Management Intern - Product Innovation - Credit & Fraud Risk](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011992) | 50 | NYC | Product | 2026-08-03 |
 
 ## Amgen
 
@@ -1282,6 +1293,12 @@
 | --- | --- | --- | --- | --- |
 | [AI Engineer Intern](https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/6315) | 85 | Plano, TX | AI/ML/Data | 2026-05-27 |
 | [AI Intern USA](https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/5523) | 60 | Plano, TX | AI/ML/Data | 2026-05-09 |
+
+## Black Cape
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://blackcape.applytojob.com/apply/7o6mmAYryt/US-Military-Skillbridge-Internship-Software-EngineerArlington-VA) | 85 | Arlington County, Arlington, VA | Software | 2026-08-03 |
 
 ## BlackEdge Capital
 
@@ -1708,7 +1725,7 @@
 | [AI Innovation Intern – Service Sales (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395) | 38 | In-Office | — | 2026-07-30 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-07-29 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Brand Social Media Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8054093?gh_jid=8054093) | 58 | In-Office | — | 2026-07-10 |
@@ -2937,6 +2954,14 @@
 | --- | --- | --- | --- | --- |
 | [Machine Learning Center of Excellence Intern - NLP](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765492) | 60 | London, UK | AI/ML/Data | 2026-07-02 |
 
+## JPMorganChase
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [2027 Code for Good Hackathon - Software Engineer Program - Summer Internship – United States](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773759) | 85 | Chicago, IL, United States | Software / Summer 2027 | 2026-08-03 |
+| [2027 Data & AI Program - Summer Internship - Analyst - United States](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773869) | 60 | Chicago, IL, United States | Data & ML/AI / Summer 2027 | 2026-08-03 |
+| [2027 Data for Good Hackathon - Data & AI Program - Summer Internship](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210775223) | 60 | Chicago, IL, United States | Data & ML/AI / Summer 2027 | 2026-08-03 |
+
 ## Jump Trading
 
 | Title | Score | Location | Department | First seen |
@@ -3296,6 +3321,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Product Manager Intern](https://apply.careers.microsoft.com/careers/job/1970393556953113) | 50 | Redmond, WA | Product | 2026-08-03 |
 | [Software Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393556951951) | 85 | Vancouver, BC, Canada | Software | 2026-08-02 |
 | [Research Intern - Self-Improving AI](https://apply.careers.microsoft.com/careers/job/1970393556867858) | 60 | Cambridge, MA / NYC | AI/ML/Data | 2026-05-19 |
 
@@ -3912,8 +3938,8 @@
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-07-09 |
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-07-09 |
 | [Corporate Access, off-cycle internship (6-months) – Japanese speaking](https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002) | 58 | Hong Kong | — | 2026-06-30 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -4348,6 +4374,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Graduate - Client Partners](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Riyadh-Saudi-Arabia/Graduate---Client-Partners_R0046337-1) | 56 | Riyadh, Saudi Arabia | — | 2026-08-03 |
 | [Chemistry Intern](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Abingdon---141-Park-Drive/Chemistry-Intern_R0046314) | 50 | Abingdon - 141 Park Drive | — | 2026-08-01 |
 
 ## Snowflake
