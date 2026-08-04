@@ -1,6 +1,6 @@
 # Open Internships
 
-**1826** internships across **142/143** companies — last updated 2026-08-04.
+**1817** internships across **142/143** companies — last updated 2026-08-04.
 
 ## Companies
 
@@ -19,7 +19,7 @@
 - [AlixPartners](#alixpartners) (1)
 - [Alljoined](#alljoined) (1)
 - [Altom Transport](#altom-transport) (2)
-- [Amazon](#amazon) (169)
+- [Amazon](#amazon) (170)
 - [Ambarella](#ambarella) (8)
 - [Amentum](#amentum) (1)
 - [American Enterprise Institute](#american-enterprise-institute) (3)
@@ -56,7 +56,6 @@
 - [Astranis](#astranis) (9)
 - [Atomic Semi](#atomic-semi) (4)
 - [Auctor](#auctor) (1)
-- [Autodesk](#autodesk) (2)
 - [Avery Dennison](#avery-dennison) (1)
 - [Axiomatic AI](#axiomatic-ai) (2)
 - [Axis Capital](#axis-capital) (1)
@@ -92,13 +91,13 @@
 - [Bombardier](#bombardier) (1)
 - [BorgWarner](#borgwarner) (1)
 - [Bosch](#bosch) (4)
-- [Bosch Home Comfort](#bosch-home-comfort) (5)
+- [Bosch Home Comfort](#bosch-home-comfort) (4)
 - [Boston Consulting Group](#boston-consulting-group) (2)
 - [Bot Auto](#bot-auto) (1)
 - [Bree](#bree) (1)
 - [Brio Water Technology](#brio-water-technology) (1)
 - [Brookfield](#brookfield) (2)
-- [Brunswick](#brunswick) (2)
+- [Brunswick](#brunswick) (1)
 - [ByteDance](#bytedance) (37)
 - [Cadence Design Systems](#cadence-design-systems) (6)
 - [CAE](#cae) (1)
@@ -320,14 +319,13 @@
 - [Kastle AI](#kastle-ai) (1)
 - [Kensington](#kensington) (2)
 - [Kepler Communications](#kepler-communications) (1)
-- [Keysight Technologies](#keysight-technologies) (2)
+- [Keysight Technologies](#keysight-technologies) (1)
 - [Kirin](#kirin) (1)
 - [KLA](#kla) (1)
 - [Kognitos](#kognitos) (1)
 - [kos.ai](#kos-ai) (1)
 - [Landis+Gyr](#landis-gyr) (1)
 - [Lawrence Livermore National Laboratory (LLNL)](#lawrence-livermore-national-laboratory-llnl) (3)
-- [Leidos](#leidos) (1)
 - [Lensa](#lensa) (3)
 - [LinkedIn](#linkedin) (3)
 - [Magna](#magna) (3)
@@ -357,7 +355,7 @@
 - [Meta](#meta) (13)
 - [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (1)
 - [Microchip Technology](#microchip-technology) (8)
-- [Microsoft](#microsoft) (14)
+- [Microsoft](#microsoft) (13)
 - [Midmark ](#midmark) (1)
 - [Mindsmith](#mindsmith) (1)
 - [Mistral AI](#mistral-ai) (2)
@@ -462,11 +460,9 @@
 - [Radix Trading](#radix-trading) (1)
 - [Rainmaker](#rainmaker) (1)
 - [Ramp](#ramp) (1)
-- [RapDev](#rapdev) (1)
 - [Red Bull](#red-bull) (1)
 - [Redwood Materials](#redwood-materials) (2)
 - [Rendezvous Robotics](#rendezvous-robotics) (1)
-- [Replit](#replit) (1)
 - [Reply](#reply) (1)
 - [RESPEC](#respec) (1)
 - [Revise Robotics](#revise-robotics) (1)
@@ -541,11 +537,12 @@
 - [Tenstorrent](#tenstorrent) (6)
 - [Terranova](#terranova) (1)
 - [Terranox AI](#terranox-ai) (1)
-- [Tesla](#tesla) (87)
+- [Tesla](#tesla) (86)
 - [Tessera Labs](#tessera-labs) (1)
 - [TETRAMEM](#tetramem) (1)
 - [Tevora](#tevora) (8)
 - [Texas Instruments](#texas-instruments) (1)
+- [Thales](#thales) (1)
 - [The Boeing Company](#the-boeing-company) (2)
 - [The D. E. Shaw Group](#the-d-e-shaw-group) (1)
 - [The Exploration Company](#the-exploration-company) (1)
@@ -563,7 +560,6 @@
 - [TMX Group](#tmx-group) (1)
 - [Together AI](#together-ai) (3)
 - [Topel Forman LLC](#topel-forman-llc) (1)
-- [Torc Robotics](#torc-robotics) (1)
 - [Toshiba Global Commerce](#toshiba-global-commerce) (1)
 - [Touchdown Labs](#touchdown-labs) (1)
 - [Tower Research](#tower-research) (1)
@@ -735,6 +731,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [2027 Amazon Leadership Accelerator (ALA) Product Manager Internship](https://amazon.jobs/en/jobs/10491935/2027-amazon-leadership-accelerator-ala-product-manager-internship) | 50 | Seattle | Project/Program/Product Management--Technical | 2026-08-04 |
 | [2026 Graduate Software Dev Engineer](https://amazon.jobs/en/jobs/10491309/2026-graduate-software-dev-engineer) | 91 | Tel Aviv | Software Development | 2026-08-04 |
 | [2027 MBA Leadership Development Program (MLDP) Intern](https://amazon.jobs/en/jobs/10491603/2027-mba-leadership-development-program-mldp-intern) | 50 | Seattle | Buying, Planning, & Instock Management | 2026-08-04 |
 | [【MBA Class of 2028／Internship】Sr Product Manager (Business Leadership Course)](https://amazon.jobs/en/jobs/10491293/mba-class-of-2028-internship-sr-product-manager-business-leadership-course) | 50 | Tokyo | Project/Program/Product Management--Non-Tech | 2026-08-04 |
@@ -1185,13 +1182,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](https://jobs.ashbyhq.com/auctor/9d67c881-3ca7-4616-a059-e94c03e19607/application) | 68 | NYC | Software | 2026-08-01 |
 
-## Autodesk
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Developer Intern - Stagiaire en Développement Logiciel](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-2) | 93 | Canada | Software | 2026-07-21 |
-| [AI in Design & Manufacturing Intern](https://autodesk.wd1.myworkdayjobs.com/uni/job/AMER---Canada---Ontario---Toronto---University-Ave/Intern--Model-Based-Systems-Engineering_26WD94900-2) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-07-21 |
-
 ## Avery Dennison
 
 | Title | Score | Location | Department | First seen |
@@ -1422,7 +1412,6 @@
 | [Product Management Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140457960) | 58 | Southfield, MI | Product | 2026-07-29 |
 | [ADAS Software Engineer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140317669) | 93 | Plymouth, MI | Hardware | 2026-07-28 |
 | [Powertrain Controls Software Engineer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140089589) | 93 | Southfield, MI | Hardware | 2026-07-27 |
-| [Research Intern](https://jobs.smartrecruiters.com/BoschGroup/744000136313549) | 68 | Sunnyvale, CA | AI/ML/Data | 2026-07-07 |
 | [A.1. Integration Intern](https://jobs.smartrecruiters.com/BoschGroup/744000134840254) | 68 | Columbia City, IN | AI/ML/Data | 2026-07-02 |
 
 ## Boston Consulting Group
@@ -1461,7 +1450,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Engineer-Intern_JR-050991) | 93 | Urbana, IL | Software | 2026-08-01 |
 | [Software Engineer Intern](https://brunswick.wd1.myworkdayjobs.com/search/job/Champaign-IL/Software-Engineer-Intern_JR-050991) | 93 | Champaign, IL | Software / Not stated | 2026-07-29 |
 
 ## ByteDance
@@ -1768,13 +1756,13 @@
 | [AI Innovation Intern – Service Sales (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395) | 38 | In-Office | — | 2026-07-30 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-07-29 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Marketing Events and Campaigns Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8053546?gh_jid=8053546) | 38 | In-Office | — | 2026-07-09 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
 
 ## Cloudforce
 
@@ -3128,7 +3116,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [R&D Software Engineer Intern](https://jobs.keysight.com/jobs/53652?icims=1) | 85 | Santa Clara, CA / Calabasas, CA | Hardware | 2026-08-01 |
 | [AI/ML Research Intern](https://jobs.keysight.com/jobs/52557?icims=1) | 60 | Edinburgh, UK | AI/ML/Data | 2026-08-01 |
 
 ## Kirin
@@ -3168,12 +3155,6 @@
 | [Machine Learning Physics Graduate Student Intern](https://jobs.smartrecruiters.com/LLNL/3743990013424486) | 74 | Livermore, CA | AI/ML/Data | 2026-07-20 |
 | [Computing Graduate Student Intern](https://jobs.smartrecruiters.com/LLNL/3743990013801396) | 74 | Livermore, CA | AI/ML/Data | 2026-07-01 |
 | [Computing Undergraduate Student Intern](https://jobs.smartrecruiters.com/LLNL/3743990013801386) | 68 | Livermore, CA | AI/ML/Data | 2026-07-01 |
-
-## Leidos
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Application Developer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Indianapolis-IN/Application-Developer-Intern_R-00188193-1) | 93 | Indianapolis, IN | Software | 2026-07-29 |
 
 ## Lensa
 
@@ -3406,7 +3387,6 @@
 | [Software Engineer Intern, CoreAI](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0) | 85 | Multiple Locations, United States | — | 2026-08-03 |
 | [Software Engineer Intern - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393556951950) | 85 | Redmond, WA | Software | 2026-08-03 |
 | [Product Manager Intern](https://apply.careers.microsoft.com/careers/job/1970393556953113) | 50 | Redmond, WA | Product | 2026-08-03 |
-| [Software Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393556951951) | 85 | Vancouver, BC, Canada | Software | 2026-08-02 |
 | [Research Intern - Self-Improving AI](https://apply.careers.microsoft.com/careers/job/1970393556867858) | 60 | Cambridge, MA / NYC | AI/ML/Data | 2026-05-19 |
 
 ## Midmark 
@@ -4216,12 +4196,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Internship, Android](https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b) | 90 | — | Engineering | 2026-05-29 |
 
-## RapDev
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [ServiceNow Engineer Intern](https://jobs.ashbyhq.com/rapdev/b022388e-79d0-43b8-b524-64aaed9ff4dc/application?embed=true) | 93 | Boston, MA | Software | 2026-08-01 |
-
 ## Red Bull
 
 | Title | Score | Location | Department | First seen |
@@ -4240,12 +4214,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern (Fall 2026)](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4328555009) | 68 | Golden, CO | Software / Fall 2026 | 2026-07-28 |
-
-## Replit
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineering Intern (Summer 2026)](https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1) | 65 | — | Engineering | 2026-05-29 |
 
 ## Reply
 
@@ -4820,7 +4788,6 @@
 | [Charging Data Modeling Intern - Charging Data Modeling - Machine Learning Engineer](https://www.tesla.com/careers/search/job/278249) | 85 | Palo Alto, CA | AI/ML/Data | 2026-07-28 |
 | [Vehicle Software Intern - Vehicle Controls](https://www.tesla.com/careers/search/job/278203) | 60 | Palo Alto, CA | AI/ML/Data | 2026-07-28 |
 | [Localization Specialist Intern](https://www.tesla.com/careers/search/job/internship-localization-specialist-it-applications-fall-2026-276308) | 50 | Fremont, CA | — | 2026-07-24 |
-| [Fullstack Engineer Intern - Fullstack Engineer - Build Infrastructure](https://www.tesla.com/careers/search/job/267005) | 85 | Palo Alto, CA | Software | 2026-07-21 |
 | [Energy Battery Firmware Intern - Software Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/276987) | 85 | Palo Alto, CA | Hardware | 2026-07-20 |
 | [Reinforcement Learning Engineer Intern - Reinforcement Learning Engineer - Optimus](https://www.tesla.com/careers/search/job/253454) | 85 | Palo Alto, CA | AI/ML/Data | 2026-07-20 |
 | [Software Engineer Intern - Energy Engineering](https://www.tesla.com/careers/search/job/276333) | 85 | Palo Alto, CA | Software | 2026-07-10 |
@@ -4931,6 +4898,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Product Operations Analyst Intern](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016766) | 50 | Dallas, TX | Product | 2026-07-28 |
+
+## Thales
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AppSec Product Support Intern](https://thales.wd3.myworkdayjobs.com/careers/job/Texas/AppSec-Product-Support-Intern_R0328978-1) | 68 | Texas | Security / Not stated | 2026-08-04 |
 
 ## The Boeing Company
 
@@ -5130,12 +5103,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Summer 2026 Tax Internship](https://www.linkedin.com/jobs/view/4234423835) | 22 | Chicago, IL | — | 2026-07-09 |
-
-## Torc Robotics
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [System Triage Engineer Intern](https://job-boards.greenhouse.io/torcrobotics/jobs/8597138002) | 93 | Blacksburg, VA / Ann Arbor, MI / Fort Worth, TX | AI/ML/Data | 2026-07-01 |
 
 ## Toshiba Global Commerce
 
