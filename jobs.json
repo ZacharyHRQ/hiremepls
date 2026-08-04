@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-04T13:20:57.127Z",
+  "generatedAt": "2026-08-04T15:42:03.554Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1820,
+  "jobCount": 1825,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -760,7 +760,6 @@
     "canonical:793f24c65608249c": "2026-07-20T23:30:05.931Z",
     "canonical:6dd39ca62649568c": "2026-07-20T23:30:05.931Z",
     "canonical:ee129f14c18053dd": "2026-07-20T23:30:05.931Z",
-    "canonical:feaae9662cdd6964": "2026-07-20T23:30:05.931Z",
     "canonical:f5ebcfecdddab96e": "2026-07-20T23:30:05.931Z",
     "canonical:e14500e74061c5e5": "2026-07-20T23:30:05.931Z",
     "canonical:61d9d37aeb17cfca": "2026-07-20T23:30:05.931Z",
@@ -1228,7 +1227,6 @@
     "canonical:b3a0b3bc244cb3ec": "2026-07-28T22:41:55.739Z",
     "canonical:136c3179d65cdc79": "2026-07-28T22:41:55.739Z",
     "canonical:842345f0b7509cbe": "2026-07-28T22:41:55.739Z",
-    "canonical:c708edc8d14ae659": "2026-07-28T23:38:50.618Z",
     "canonical:f94529af6ba1b7b6": "2026-07-28T23:38:50.618Z",
     "canonical:52cc9694fd580233": "2026-07-28T23:38:50.618Z",
     "canonical:4d4208aef05be9c6": "2026-07-28T23:38:50.618Z",
@@ -1638,7 +1636,6 @@
     "canonical:4d567555739a50bd": "2026-08-03T10:31:55.539Z",
     "canonical:4d5f67728d4d467a": "2026-08-03T10:31:55.539Z",
     "canonical:5b786140062d44ba": "2026-08-03T10:31:55.539Z",
-    "canonical:97a36a7b7039b26d": "2026-08-03T10:31:55.539Z",
     "canonical:55d3166b5410acf5": "2026-08-03T10:31:55.539Z",
     "canonical:7cb79ae94e00d14c": "2026-08-03T10:31:55.539Z",
     "canonical:0da226c1e13728e9": "2026-08-03T10:31:55.539Z",
@@ -1674,11 +1671,8 @@
     "canonical:3ced86cb3190a573": "2026-08-03T10:31:55.539Z",
     "canonical:6bfce9d272befe10": "2026-08-03T10:31:55.539Z",
     "canonical:f664759a785d28a0": "2026-08-03T10:31:55.539Z",
-    "canonical:8e89ca6bf2647ae9": "2026-08-03T10:31:55.539Z",
     "canonical:dff4fe802092d2b4": "2026-08-03T10:31:55.539Z",
     "canonical:ceed035698c28f31": "2026-08-03T10:31:55.539Z",
-    "canonical:ec7ffb2ee8776982": "2026-08-03T10:31:55.539Z",
-    "canonical:42cbd751a157374e": "2026-08-03T10:31:55.539Z",
     "canonical:be9c2b5d1013a66e": "2026-08-03T10:31:55.539Z",
     "canonical:ddf6c5adffd632c9": "2026-08-03T10:31:55.539Z",
     "canonical:0285929a67345024": "2026-08-03T10:31:55.539Z",
@@ -1754,7 +1748,6 @@
     "canonical:6975da923dc24346": "2026-08-04T00:03:15.414Z",
     "canonical:2ab3741333feccc9": "2026-08-04T00:03:15.414Z",
     "canonical:4be1ac2e80f04e3d": "2026-08-04T00:03:15.414Z",
-    "canonical:eb302329e947c5da": "2026-08-04T00:03:15.414Z",
     "canonical:6d0604849d779bb2": "2026-08-04T00:03:15.414Z",
     "canonical:f48ec8940e130dfa": "2026-08-04T00:03:15.414Z",
     "canonical:e5a643b4ea3e674e": "2026-08-04T00:03:15.414Z",
@@ -1787,7 +1780,6 @@
     "canonical:4bea22f80f62e164": "2026-08-04T09:06:37.515Z",
     "canonical:d80882b0599096c9": "2026-08-04T09:06:37.515Z",
     "canonical:ce9d5d84ac506408": "2026-08-04T09:06:37.515Z",
-    "canonical:48698c6718fd48ab": "2026-08-04T09:06:37.515Z",
     "canonical:a6aab99e0fa558e3": "2026-08-04T09:06:37.515Z",
     "canonical:75bdde5a544492cd": "2026-08-04T09:06:37.515Z",
     "canonical:cab1f739c8bc1611": "2026-08-04T09:06:37.515Z",
@@ -1823,7 +1815,20 @@
     "canonical:ce30b9ca9530fd33": "2026-08-04T11:32:00.975Z",
     "canonical:839ee63b40c32a54": "2026-08-04T11:32:00.975Z",
     "canonical:495ae2ce2a6d7d60": "2026-08-04T11:32:00.975Z",
-    "canonical:3a619cbfb60f98dd": "2026-08-04T13:20:57.127Z"
+    "canonical:3a619cbfb60f98dd": "2026-08-04T13:20:57.127Z",
+    "canonical:50fd3e6f96c21a9f": "2026-08-04T15:42:03.554Z",
+    "canonical:66fa57028702e22b": "2026-08-04T15:42:03.554Z",
+    "canonical:a391feca3038a564": "2026-08-04T15:42:03.554Z",
+    "canonical:1272674430327970": "2026-08-04T15:42:03.554Z",
+    "canonical:c49b52bf93f2f3aa": "2026-08-04T15:42:03.554Z",
+    "canonical:80b96797dc5b1f64": "2026-08-04T15:42:03.554Z",
+    "canonical:27a65c0291f53953": "2026-08-04T15:42:03.554Z",
+    "canonical:07c48ec8c1230c8f": "2026-08-04T15:42:03.554Z",
+    "canonical:10f8a26a4c08ab40": "2026-08-04T15:42:03.554Z",
+    "canonical:dd18ddea0891a402": "2026-08-04T15:42:03.554Z",
+    "canonical:1f53ed947ec7aba6": "2026-08-04T15:42:03.554Z",
+    "canonical:f7a61eb1ff3447c5": "2026-08-04T15:42:03.554Z",
+    "canonical:39b952a6e394b9d9": "2026-08-04T15:42:03.554Z"
   },
   "jobs": [
     {
@@ -4697,6 +4702,26 @@
       ]
     },
     {
+      "id": "canonical:50fd3e6f96c21a9f",
+      "title": "2027 MBA Leadership Development Program (MLDP) Intern",
+      "url": "https://amazon.jobs/en/jobs/10491603/2027-mba-leadership-development-program-mldp-intern",
+      "location": "Seattle",
+      "department": "Buying, Planning, & Instock Management",
+      "company": "Amazon",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:582d6baa394fac8a",
+      "title": "Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS",
+      "url": "https://amazon.jobs/en/jobs/10491574/summer-2027-aws-human-resources-leadership-development-program-internship-aws",
+      "location": "Seattle",
+      "department": "Human Resources",
+      "company": "Amazon",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
       "id": "canonical:18f13536ae9a202a",
       "title": "Graduate Area/Shift Manager - Veneto",
       "url": "https://amazon.jobs/en/jobs/3165132/graduate-area-shift-manager-veneto",
@@ -4758,16 +4783,6 @@
       "url": "https://amazon.jobs/en/jobs/10491075/2027-mba-pathways-operations-manager-intern-nationwide-opportunities",
       "location": "Seattle",
       "department": "Administrative Support",
-      "company": "Amazon",
-      "score": 50,
-      "scoreReasons": []
-    },
-    {
-      "id": "canonical:582d6baa394fac8a",
-      "title": "Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS",
-      "url": "https://amazon.jobs/en/jobs/10491025/summer-2027-aws-human-resources-leadership-development-program-internship-aws",
-      "location": "Seattle",
-      "department": "Human Resources",
       "company": "Amazon",
       "score": 50,
       "scoreReasons": []
@@ -5329,19 +5344,6 @@
       "score": 56,
       "scoreReasons": [
         "new grad"
-      ]
-    },
-    {
-      "id": "canonical:feaae9662cdd6964",
-      "title": "2026 Software Dev Engineer Intern - Haifa, Israel",
-      "url": "https://amazon.jobs/en/jobs/3147202/2026-software-dev-engineer-intern-haifa-israel",
-      "location": "Haifa",
-      "department": "Software Development",
-      "company": "Amazon",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -6950,6 +6952,20 @@
       ]
     },
     {
+      "id": "canonical:66fa57028702e22b",
+      "title": "SDR Intern - London",
+      "url": "https://jobs.ashbyhq.com/snowflake/b9bd62f1-ad91-423a-a680-cf9366960976",
+      "location": "",
+      "department": "Sales Development",
+      "company": "Snowflake",
+      "score": 35,
+      "scoreReasons": [
+        "direct ATS",
+        "lower-fit title",
+        "unknown location"
+      ]
+    },
+    {
       "id": "canonical:924f2b73ea4300a1",
       "title": "Accounting Intern (Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7902104?gh_jid=7902104",
@@ -7191,11 +7207,11 @@
       ]
     },
     {
-      "id": "canonical:c708edc8d14ae659",
+      "id": "canonical:a391feca3038a564",
       "title": "ML Research Intern",
       "url": "https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a",
-      "location": "New York",
-      "department": "Data & ML/AI / Not stated",
+      "location": "New York, NY / San Francisco, CA",
+      "department": "Engineering",
       "company": "Modal",
       "score": 68,
       "scoreReasons": [
@@ -19710,18 +19726,6 @@
       "scoreReasons": []
     },
     {
-      "id": "canonical:97a36a7b7039b26d",
-      "title": "Technology Intern",
-      "url": "https://zgfarchitects.applytojob.com/apply/uqHC8SCmq2/Technology-Intern",
-      "location": "Portland, OR",
-      "department": "Software",
-      "company": "ZGF Architects",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:55d3166b5410acf5",
       "title": "Scientific Software Developer Intern Co-op",
       "url": "https://stellarscience.applytojob.com/apply/my4AC4VXHI/Scientific-Software-Developer-Paid-CoopInternship",
@@ -20172,18 +20176,6 @@
       ]
     },
     {
-      "id": "canonical:8e89ca6bf2647ae9",
-      "title": "Quantitative Research Intern - Markets - Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038",
-      "location": "NYC",
-      "department": "Quant",
-      "company": "JP Morgan Chase",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:dff4fe802092d2b4",
       "title": "Quantitative Research Intern - Risk and Treasury",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773978",
@@ -20205,30 +20197,6 @@
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:ec7ffb2ee8776982",
-      "title": "Quantitative Research Summer Analyst Intern - Asset Management",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774074",
-      "location": "NYC",
-      "department": "Quant",
-      "company": "JP Morgan Chase",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:42cbd751a157374e",
-      "title": "Quantitative Research Intern",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774061",
-      "location": "NYC",
-      "department": "Quant",
-      "company": "JP Morgan Chase",
-      "score": 60,
-      "scoreReasons": [
         "high-signal role"
       ]
     },
@@ -20804,19 +20772,6 @@
       ]
     },
     {
-      "id": "canonical:eb302329e947c5da",
-      "title": "Artificial Intelligence and Software Development Engineering Intern",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000141302469",
-      "location": "Plymouth, MI",
-      "department": "Software",
-      "company": "Bosch Home Comfort",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:6d0604849d779bb2",
       "title": "Technology Intern",
       "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Technology-Undergraduate-Intern_R231441-1",
@@ -21185,20 +21140,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:48698c6718fd48ab",
-      "title": "Software Engineer Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-REMOTE/Software-Engineering--Intern--Summer-2027-_01863749",
-      "location": "Texas",
-      "department": "Software",
-      "company": "RTX",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -21602,6 +21543,55 @@
       "location": "South SF",
       "department": "Hardware",
       "company": "Zipline",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:1272674430327970",
+      "title": "Associate Business Systems Analyst Intern - Data Hub Canada",
+      "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-associ-e---analyste-des-systmes-d-affaires---Automne-2026---Associate-Business-Systems-Analyst-Intern---Fall-2026_JR0150830",
+      "location": "Montreal, QC, Canada",
+      "department": "AI/ML/Data",
+      "company": "McKesson",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c49b52bf93f2f3aa",
+      "title": "Data and Analytics Intern - Modeling",
+      "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Data--Modeling--and-Analytics-Undergraduate-Intern_R231526-1",
+      "location": "Pittsburgh, PA",
+      "department": "AI/ML/Data",
+      "company": "PNC Financial Services",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:80b96797dc5b1f64",
+      "title": "Data Warehouse & Analytics Intern",
+      "url": "https://nbtbancorp.wd12.myworkdayjobs.com/NBT-B/job/Williamsville-NY/Internship---Data-Warehouse---Analytics-Consultant_JR4868",
+      "location": "Williamsville, NY",
+      "department": "AI/ML/Data",
+      "company": "NBT Bank",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:27a65c0291f53953",
+      "title": "Product Innovation Intern - Credit & Fraud Risk",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011994",
+      "location": "Phoenix, AZ",
+      "department": "Product",
+      "company": "American Express",
       "score": 50,
       "scoreReasons": []
     },
@@ -23753,6 +23743,85 @@
       ]
     },
     {
+      "id": "canonical:07c48ec8c1230c8f",
+      "title": "Software Engineer Intern, Data Platform/Analytics",
+      "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922931",
+      "location": "Redmond, WA",
+      "department": "",
+      "company": "Microsoft",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:10f8a26a4c08ab40",
+      "title": "Software Engineer Intern, Security & Identity",
+      "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922930",
+      "location": "Redmond, WA",
+      "department": "",
+      "company": "Microsoft",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:dd18ddea0891a402",
+      "title": "Software Engineer Intern, AI/ML & LLM",
+      "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922929",
+      "location": "Redmond, WA",
+      "department": "",
+      "company": "Microsoft",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:1f53ed947ec7aba6",
+      "title": "Software Engineer Intern, Fullstack Product (Web + Services)",
+      "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922922",
+      "location": "Multiple Locations, United States",
+      "department": "",
+      "company": "Microsoft",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:c0843219a96affcf",
+      "title": "Research Engineer Intern - AI Systems",
+      "url": "https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3",
+      "location": "United States",
+      "department": "Data & ML/AI / Not stated",
+      "company": "Yotta Labs",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f7a61eb1ff3447c5",
+      "title": "Software Engineer Intern, Distributed NoSQL Database Systems",
+      "url": "https://joinbytedance.com/search/7668373268886161669",
+      "location": "Seattle, WA",
+      "department": "",
+      "company": "ByteDance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:d590901df9c6b5b8",
       "title": "2026 Business Analyst Intern",
       "url": "https://www.linkedin.com/jobs/view/4276977256",
@@ -24587,6 +24656,19 @@
       ]
     },
     {
+      "id": "canonical:39b952a6e394b9d9",
+      "title": "AI and SW Development Engineering Intern",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000141302469",
+      "location": "Plymouth, MI, United States",
+      "department": "Data & ML/AI / Not stated",
+      "company": "Bosch",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:6cfa491f764781ed",
       "title": "Intern-Engineering (Software Development)",
       "url": "https://microchiphr.wd5.myworkdayjobs.com/external/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Software-Development-_R3371-26",
@@ -24595,20 +24677,6 @@
       "company": "Microchip Technology",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:c0843219a96affcf",
-      "title": "Research Engineer Intern - AI Systems",
-      "url": "https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3",
-      "location": "United States",
-      "department": "Data & ML/AI / Not stated",
-      "company": "Yotta Labs",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
