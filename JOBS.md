@@ -1,6 +1,6 @@
 # Open Internships
 
-**1793** internships across **142/143** companies — last updated 2026-08-04.
+**1808** internships across **142/143** companies — last updated 2026-08-04.
 
 ## Companies
 
@@ -19,7 +19,7 @@
 - [AlixPartners](#alixpartners) (1)
 - [Alljoined](#alljoined) (1)
 - [Altom Transport](#altom-transport) (2)
-- [Amazon](#amazon) (170)
+- [Amazon](#amazon) (171)
 - [Ambarella](#ambarella) (8)
 - [Amentum](#amentum) (1)
 - [American Enterprise Institute](#american-enterprise-institute) (3)
@@ -312,7 +312,7 @@
 - [Jain Global](#jain-global) (1)
 - [Jane Street](#jane-street) (23)
 - [JP Morgan Chase](#jp-morgan-chase) (8)
-- [JPMorganChase](#jpmorganchase) (2)
+- [JPMorganChase](#jpmorganchase) (1)
 - [Jump Trading](#jump-trading) (48)
 - [Junior](#junior) (1)
 - [Junior AI](#junior-ai) (1)
@@ -331,7 +331,7 @@
 - [Leidos](#leidos) (1)
 - [Lensa](#lensa) (3)
 - [LinkedIn](#linkedin) (3)
-- [Magna](#magna) (3)
+- [Magna](#magna) (2)
 - [Magna International](#magna-international) (1)
 - [Maher Duessel](#maher-duessel) (1)
 - [MaloneBailey, LLP](#malonebailey-llp) (1)
@@ -358,7 +358,7 @@
 - [Meta](#meta) (13)
 - [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (1)
 - [Microchip Technology](#microchip-technology) (8)
-- [Microsoft](#microsoft) (5)
+- [Microsoft](#microsoft) (10)
 - [Midmark ](#midmark) (1)
 - [Mindsmith](#mindsmith) (1)
 - [Mistral AI](#mistral-ai) (2)
@@ -481,7 +481,7 @@
 - [Rockwell Automation](#rockwell-automation) (2)
 - [ROCKWOOL Group](#rockwool-group) (1)
 - [Royal Bank of Canada](#royal-bank-of-canada) (4)
-- [RTX](#rtx) (3)
+- [RTX](#rtx) (4)
 - [Samaya](#samaya) (1)
 - [Samsara](#samsara) (2)
 - [Sandhills Global](#sandhills-global) (2)
@@ -558,7 +558,7 @@
 - [Thomson Reuters](#thomson-reuters) (1)
 - [thyssenkrupp](#thyssenkrupp) (2)
 - [TIFIN](#tifin) (1)
-- [TikTok](#tiktok) (66)
+- [TikTok](#tiktok) (75)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
 - [TMX Group](#tmx-group) (1)
@@ -610,6 +610,7 @@
 - [Warner Bros.](#warner-bros) (2)
 - [Waymo](#waymo) (1)
 - [Weaviate](#weaviate) (1)
+- [WebMD](#webmd) (1)
 - [Wells Fargo](#wells-fargo) (12)
 - [WeRide](#weride) (1)
 - [Western Digital](#western-digital) (3)
@@ -737,6 +738,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [【MBA Class of 2028／Internship】Sr Product Manager (Business Leadership Course)](https://amazon.jobs/en/jobs/10491293/mba-class-of-2028-internship-sr-product-manager-business-leadership-course) | 50 | Tokyo | Project/Program/Product Management--Non-Tech | 2026-08-04 |
 | [【MBA Class of 2028／Internship】Finance Manager, Amazon Japan](https://amazon.jobs/en/jobs/10491120/mba-class-of-2028-internship-finance-manager-amazon-japan) | 30 | Tokyo | Finance & Accounting | 2026-08-04 |
 | [2027 MBA Pathways Operations Manager Intern (Nationwide Opportunities)](https://amazon.jobs/en/jobs/10491075/2027-mba-pathways-operations-manager-intern-nationwide-opportunities) | 50 | Seattle | Administrative Support | 2026-08-04 |
 | [Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://amazon.jobs/en/jobs/10491025/summer-2027-aws-human-resources-leadership-development-program-internship-aws) | 50 | Seattle | Human Resources | 2026-08-03 |
@@ -1773,7 +1775,7 @@
 | [Marketing Events and Campaigns Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8053546?gh_jid=8053546) | 38 | In-Office | — | 2026-07-09 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
 
 ## Cloudforce
 
@@ -3035,7 +3037,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [2027 Code for Good Hackathon - Software Engineer Program - Summer Internship – United States](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773759) | 85 | Chicago, IL, United States | Software / Summer 2027 | 2026-08-03 |
 | [2027 Data & AI Program - Summer Internship - Analyst - United States](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773869) | 60 | Chicago, IL, United States | Data & ML/AI / Summer 2027 | 2026-08-03 |
 
 ## Jump Trading
@@ -3208,7 +3209,6 @@
 | --- | --- | --- | --- | --- |
 | [Student Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Highland-Park-Michigan-US/Student-Intern---Engineering-1_R00240865) | 60 | Ferndale, MI | AI/ML/Data | 2026-08-03 |
 | [R&D-Computer Vision Engineer Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/R-D--Computer-Vision-Engineering-Intern_R00253444-1) | 85 | Troy, MI | AI/ML/Data | 2026-08-01 |
-| [Product Engineering Engineer Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Grand-Rapids-Michigan-US/Product-Engineering-Intern_R00243272) | 85 | Grand Rapids, MI | Software | 2026-08-01 |
 
 ## Magna International
 
@@ -3404,6 +3404,11 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Full-Stack Product Engineer Intern - Web + Services](https://apply.careers.microsoft.com/careers/job/1970393556922922) | 85 | Redmond, WA | Software | 2026-08-04 |
+| [Software Engineer Intern - Cloud & Distributed Backend](https://apply.careers.microsoft.com/careers/job/1970393556922923) | 85 | Redmond, WA | Software | 2026-08-04 |
+| [Software Engineer Intern - Data Platform & Analytics](https://apply.careers.microsoft.com/careers/job/1970393556922931) | 85 | Redmond, WA | AI/ML/Data | 2026-08-04 |
+| [Software Engineer Security & Identity Intern](https://apply.careers.microsoft.com/careers/job/1970393556922930) | 85 | Redmond, WA | Software | 2026-08-04 |
+| [Software Engineer: AI/ML & LLM Intern](https://apply.careers.microsoft.com/careers/job/1970393556922929) | 85 | Redmond, WA | AI/ML/Data | 2026-08-04 |
 | [Software Engineer Intern, CoreAI](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0) | 85 | Multiple Locations, United States | — | 2026-08-03 |
 | [Software Engineer Intern - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393556951950) | 85 | Redmond, WA | Software | 2026-08-03 |
 | [Product Manager Intern](https://apply.careers.microsoft.com/careers/job/1970393556953113) | 50 | Redmond, WA | Product | 2026-08-03 |
@@ -4354,6 +4359,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-REMOTE/Software-Engineering--Intern--Summer-2027-_01863749) | 93 | Texas | Software | 2026-08-04 |
 | [Machine Learning Researcher Intern/Co-op](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-RTRC-K--411-Silver-Ln--RTRC-K/Fall-2026--Intern-Coop--Machine-Learning-Researcher_01860050) | 93 | Hartford, CT | AI/ML/Data | 2026-08-03 |
 | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072) | 93 | McKinney, TX | Software | 2026-08-01 |
 | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012) | 93 | Anaheim, CA | Software | 2026-08-01 |
@@ -5005,6 +5011,15 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Backend Software Engineer Intern - Global E-Commerce](https://lifeattiktok.com/search/7668834837268138293) | 85 | San Jose, CA | Software | 2026-08-04 |
+| [Backend Software Engineer Intern - Global E-Commerce](https://lifeattiktok.com/search/7668834837268416821) | 85 | Seattle, WA | Software | 2026-08-04 |
+| [Backend Software Engineer Intern - Product Infrastructure](https://lifeattiktok.com/search/7667935633764370741) | 85 | San Jose, CA | Software | 2026-08-04 |
+| [Machine Learning Engineer Intern - Ads Signal & Measurement](https://lifeattiktok.com/search/7669700361976809733) | 85 | San Jose, CA | AI/ML/Data | 2026-08-04 |
+| [Machine Learning Engineer Intern - Commercial AI-CRM and Transaction](https://lifeattiktok.com/search/7669702702763018501) | 85 | San Jose, CA | AI/ML/Data | 2026-08-04 |
+| [Machine Learning Engineer Intern - Data Search Local Service](https://lifeattiktok.com/search/7668381860191734021) | 85 | San Jose, CA | AI/ML/Data | 2026-08-04 |
+| [Software Engineer Intern - Ads Interface](https://lifeattiktok.com/search/7669705785962727733) | 85 | San Jose, CA | Software | 2026-08-04 |
+| [Software Engineer Intern - Effects Performance](https://lifeattiktok.com/search/7668725183121000757) | 85 | San Jose, CA | Software | 2026-08-04 |
+| [Software Engineer Intern - Global CRM](https://lifeattiktok.com/search/7669711844487399685) | 85 | San Jose, CA | Software | 2026-08-04 |
 | [Data Scientist Intern - Tiktok Integrity and Safety - 2026 Summer](https://lifeattiktok.com/search/7610543185362372917) | 85 | San Jose, CA | AI/ML/Data | 2026-08-03 |
 | [Research Engineer Intern - Monetization Technology - Business Integrity](https://lifeattiktok.com/search/7668204394458466565) | 85 | San Jose, CA | AI/ML/Data | 2026-08-03 |
 | [Research Scientist Intern - Monetization Technology - Business Integrity](https://lifeattiktok.com/search/7668204438271969589) | 85 | San Jose, CA | AI/ML/Data | 2026-08-03 |
@@ -5410,6 +5425,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Developer Advocate Intern](https://jobs.ashbyhq.com/weaviate/0d1c47c4-bc5b-45d8-8791-8f30f0fb2a12) | 55 | — | Growth | 2026-07-28 |
+
+## WebMD
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Business Intelligence Intern](https://jobs.jobvite.com/webmd/job/oQBjAfw4?nl=1&nl=1&fr=false) | 60 | Newark, NJ | AI/ML/Data | 2026-08-04 |
 
 ## Wells Fargo
 

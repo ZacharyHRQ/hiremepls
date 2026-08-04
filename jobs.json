@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-04T06:13:50.144Z",
+  "generatedAt": "2026-08-04T09:06:37.515Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1793,
+  "jobCount": 1808,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1369,7 +1369,6 @@
     "canonical:e4240dee8fc1eab4": "2026-08-01T10:54:12.708Z",
     "canonical:f96555673f195af4": "2026-08-01T10:54:12.708Z",
     "canonical:f0728ff29575654a": "2026-08-01T10:54:12.708Z",
-    "canonical:c246f55f8c194616": "2026-08-01T10:54:12.708Z",
     "canonical:7b565341af2d7a36": "2026-08-01T10:54:12.708Z",
     "canonical:9a93c8600bc816f6": "2026-08-01T10:54:12.708Z",
     "canonical:48afc5e5298e0d91": "2026-08-01T10:54:12.708Z",
@@ -1639,7 +1638,6 @@
     "canonical:9142ad2681019e9a": "2026-08-03T06:50:49.506Z",
     "canonical:4d57ef2423ce1c27": "2026-08-03T06:50:49.506Z",
     "canonical:aee0616429acae2f": "2026-08-03T06:50:49.506Z",
-    "canonical:fa771ed4cad148e6": "2026-08-03T06:50:49.506Z",
     "canonical:a1463d846fbcc734": "2026-08-03T10:31:55.539Z",
     "canonical:07d09bdf9fb14136": "2026-08-03T10:31:55.539Z",
     "canonical:51b92253e4e72e9b": "2026-08-03T10:31:55.539Z",
@@ -1796,7 +1794,24 @@
     "canonical:042a8d9d42943a98": "2026-08-04T03:32:55.088Z",
     "canonical:0ad549998f3e854e": "2026-08-04T03:32:55.088Z",
     "canonical:88c728d0a77c0cde": "2026-08-04T03:32:55.088Z",
-    "canonical:675e4983d1c4aad9": "2026-08-04T03:32:55.088Z"
+    "canonical:675e4983d1c4aad9": "2026-08-04T03:32:55.088Z",
+    "canonical:0c1fdaa49f9ee376": "2026-08-04T09:06:37.515Z",
+    "canonical:4bea22f80f62e164": "2026-08-04T09:06:37.515Z",
+    "canonical:d80882b0599096c9": "2026-08-04T09:06:37.515Z",
+    "canonical:ce9d5d84ac506408": "2026-08-04T09:06:37.515Z",
+    "canonical:48698c6718fd48ab": "2026-08-04T09:06:37.515Z",
+    "canonical:a6aab99e0fa558e3": "2026-08-04T09:06:37.515Z",
+    "canonical:75bdde5a544492cd": "2026-08-04T09:06:37.515Z",
+    "canonical:cab1f739c8bc1611": "2026-08-04T09:06:37.515Z",
+    "canonical:16e4d02d2c543748": "2026-08-04T09:06:37.515Z",
+    "canonical:f9adb752458a7386": "2026-08-04T09:06:37.515Z",
+    "canonical:6a925437a1f1396a": "2026-08-04T09:06:37.515Z",
+    "canonical:b8e7b1a073682a5a": "2026-08-04T09:06:37.515Z",
+    "canonical:c1ef52fe73a36eae": "2026-08-04T09:06:37.515Z",
+    "canonical:c180c152c99822e9": "2026-08-04T09:06:37.515Z",
+    "canonical:474d478e5b0cfd04": "2026-08-04T09:06:37.515Z",
+    "canonical:abe137a4dc363a6d": "2026-08-04T09:06:37.515Z",
+    "canonical:9d563730afb6f774": "2026-08-04T09:06:37.515Z"
   },
   "jobs": [
     {
@@ -2018,10 +2033,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:cc5154b2bc1dc1f6",
       "title": "Graduate Software Engineer",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917773101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4818790101",
+      "location": "Chicago, United States",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -2033,10 +2048,10 @@
       ]
     },
     {
-      "id": "canonical:cc5154b2bc1dc1f6",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4818790101",
-      "location": "Chicago, United States",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917773101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -4670,6 +4685,16 @@
       ]
     },
     {
+      "id": "canonical:0c1fdaa49f9ee376",
+      "title": "【MBA Class of 2028／Internship】Sr Product Manager (Business Leadership Course)",
+      "url": "https://amazon.jobs/en/jobs/10491293/mba-class-of-2028-internship-sr-product-manager-business-leadership-course",
+      "location": "Tokyo",
+      "department": "Project/Program/Product Management--Non-Tech",
+      "company": "Amazon",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
       "id": "canonical:43053c99d40f4af2",
       "title": "2026 Graduate Brand Analyst, Amazon Vendor Services",
       "url": "https://amazon.jobs/en/jobs/3178509/2026-graduate-brand-analyst-amazon-vendor-services",
@@ -7037,7 +7062,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -11201,19 +11226,6 @@
       "company": "TikTok",
       "score": 60,
       "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:c246f55f8c194616",
-      "title": "Product Engineering Engineer Intern",
-      "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Grand-Rapids-Michigan-US/Product-Engineering-Intern_R00243272",
-      "location": "Grand Rapids, MI",
-      "department": "Software",
-      "company": "Magna",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -21192,6 +21204,214 @@
       ]
     },
     {
+      "id": "canonical:4bea22f80f62e164",
+      "title": "Business Intelligence Intern",
+      "url": "https://jobs.jobvite.com/webmd/job/oQBjAfw4?nl=1&nl=1&fr=false",
+      "location": "Newark, NJ",
+      "department": "AI/ML/Data",
+      "company": "WebMD",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:d80882b0599096c9",
+      "title": "Software Engineer: AI/ML & LLM Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
+      "location": "Redmond, WA",
+      "department": "AI/ML/Data",
+      "company": "Microsoft",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:ce9d5d84ac506408",
+      "title": "Software Engineer Intern - Data Platform & Analytics",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
+      "location": "Redmond, WA",
+      "department": "AI/ML/Data",
+      "company": "Microsoft",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:48698c6718fd48ab",
+      "title": "Software Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-REMOTE/Software-Engineering--Intern--Summer-2027-_01863749",
+      "location": "Texas",
+      "department": "Software",
+      "company": "RTX",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:a6aab99e0fa558e3",
+      "title": "Software Engineer Security & Identity Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+      "location": "Redmond, WA",
+      "department": "Software",
+      "company": "Microsoft",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:75bdde5a544492cd",
+      "title": "Full-Stack Product Engineer Intern - Web + Services",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
+      "location": "Redmond, WA",
+      "department": "Software",
+      "company": "Microsoft",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:cab1f739c8bc1611",
+      "title": "Software Engineer Intern - Cloud & Distributed Backend",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
+      "location": "Redmond, WA",
+      "department": "Software",
+      "company": "Microsoft",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:16e4d02d2c543748",
+      "title": "Machine Learning Engineer Intern - Data Search Local Service",
+      "url": "https://lifeattiktok.com/search/7668381860191734021",
+      "location": "San Jose, CA",
+      "department": "AI/ML/Data",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:f9adb752458a7386",
+      "title": "Software Engineer Intern - Global CRM",
+      "url": "https://lifeattiktok.com/search/7669711844487399685",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:6a925437a1f1396a",
+      "title": "Software Engineer Intern - Effects Performance",
+      "url": "https://lifeattiktok.com/search/7668725183121000757",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:b8e7b1a073682a5a",
+      "title": "Backend Software Engineer Intern - Product Infrastructure",
+      "url": "https://lifeattiktok.com/search/7667935633764370741",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:c1ef52fe73a36eae",
+      "title": "Backend Software Engineer Intern - Global E-Commerce",
+      "url": "https://lifeattiktok.com/search/7668834837268138293",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:c180c152c99822e9",
+      "title": "Machine Learning Engineer Intern - Commercial AI-CRM and Transaction",
+      "url": "https://lifeattiktok.com/search/7669702702763018501",
+      "location": "San Jose, CA",
+      "department": "AI/ML/Data",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:474d478e5b0cfd04",
+      "title": "Software Engineer Intern - Ads Interface",
+      "url": "https://lifeattiktok.com/search/7669705785962727733",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:abe137a4dc363a6d",
+      "title": "Machine Learning Engineer Intern - Ads Signal & Measurement",
+      "url": "https://lifeattiktok.com/search/7669700361976809733",
+      "location": "San Jose, CA",
+      "department": "AI/ML/Data",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:9d563730afb6f774",
+      "title": "Backend Software Engineer Intern - Global E-Commerce",
+      "url": "https://lifeattiktok.com/search/7668834837268416821",
+      "location": "Seattle, WA",
+      "department": "Software",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:12cd06c0eec80152",
       "title": "Frontend Software Engineer Intern",
       "url": "https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c",
@@ -24170,19 +24390,6 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:fa771ed4cad148e6",
-      "title": "2027 Code for Good Hackathon - Software Engineer Program - Summer Internship – United States",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773759",
-      "location": "Chicago, IL, United States",
-      "department": "Software / Summer 2027",
-      "company": "JPMorganChase",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
