@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-04T21:52:56.466Z",
+  "generatedAt": "2026-08-04T22:51:33.061Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1817,
+  "jobCount": 1828,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1226,7 +1226,6 @@
     "canonical:b6f790f27b00198b": "2026-07-28T23:38:50.618Z",
     "canonical:ea138e7431ac1dc4": "2026-07-29T04:27:11.492Z",
     "canonical:e7de59809d31bf30": "2026-07-29T04:27:11.492Z",
-    "canonical:4cfb5723dc9ecab3": "2026-07-29T04:27:11.492Z",
     "canonical:98aaddec88d0841f": "2026-07-29T07:16:37.220Z",
     "canonical:3d6000f88ded754a": "2026-07-29T10:02:43.882Z",
     "canonical:e3ce3fd715c5506d": "2026-07-29T10:02:43.882Z",
@@ -1285,7 +1284,6 @@
     "canonical:485530a69cf7d77d": "2026-07-31T11:46:04.698Z",
     "canonical:da8dcf9f4aae0586": "2026-07-31T11:46:04.698Z",
     "canonical:0d583e36448bbfca": "2026-07-31T11:46:04.698Z",
-    "canonical:b423637cc4021184": "2026-07-31T11:46:04.698Z",
     "canonical:af87550f23f62375": "2026-07-31T13:38:45.202Z",
     "canonical:bca1cc17005e460b": "2026-07-31T13:38:45.202Z",
     "canonical:60d48ea9b4193a8f": "2026-07-31T13:38:45.202Z",
@@ -1806,7 +1804,6 @@
     "canonical:a391feca3038a564": "2026-08-04T15:42:03.554Z",
     "canonical:1272674430327970": "2026-08-04T15:42:03.554Z",
     "canonical:c49b52bf93f2f3aa": "2026-08-04T15:42:03.554Z",
-    "canonical:80b96797dc5b1f64": "2026-08-04T15:42:03.554Z",
     "canonical:27a65c0291f53953": "2026-08-04T15:42:03.554Z",
     "canonical:07c48ec8c1230c8f": "2026-08-04T15:42:03.554Z",
     "canonical:10f8a26a4c08ab40": "2026-08-04T15:42:03.554Z",
@@ -1820,7 +1817,21 @@
     "canonical:e7a715fbc28ec226": "2026-08-04T19:02:18.117Z",
     "canonical:e98faa68b92372c8": "2026-08-04T19:02:18.117Z",
     "canonical:0f7136b50b1d85e3": "2026-08-04T20:40:16.164Z",
-    "canonical:ee3b5ad3f2347d35": "2026-08-04T20:40:16.164Z"
+    "canonical:ee3b5ad3f2347d35": "2026-08-04T20:40:16.164Z",
+    "canonical:e3b70e287d0e2aef": "2026-08-04T22:51:33.061Z",
+    "canonical:8e89ca6bf2647ae9": "2026-08-04T22:51:33.061Z",
+    "canonical:4404a059783ecd88": "2026-08-04T22:51:33.061Z",
+    "canonical:ec7ffb2ee8776982": "2026-08-04T22:51:33.061Z",
+    "canonical:42cbd751a157374e": "2026-08-04T22:51:33.061Z",
+    "canonical:97174b0b6c0afd2a": "2026-08-04T22:51:33.061Z",
+    "canonical:dd330df63152542e": "2026-08-04T22:51:33.061Z",
+    "canonical:24bc6528e0437c46": "2026-08-04T22:51:33.061Z",
+    "canonical:c6690b19f98de110": "2026-08-04T22:51:33.061Z",
+    "canonical:382e5e21383853e9": "2026-08-04T22:51:33.061Z",
+    "canonical:a39684f8652a0a73": "2026-08-04T22:51:33.061Z",
+    "canonical:d7be8ed4523d36c1": "2026-08-04T22:51:33.061Z",
+    "canonical:aef5b67e297164a0": "2026-08-04T22:51:33.061Z",
+    "canonical:910a33048f04484e": "2026-08-04T22:51:33.061Z"
   },
   "jobs": [
     {
@@ -10225,6 +10236,16 @@
         "high-signal role",
         "direct ATS"
       ]
+    },
+    {
+      "id": "canonical:e3b70e287d0e2aef",
+      "title": "Electronics Service Intern",
+      "url": "https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Electronics-Service-CO-80525/1389595200/?ats=successfactors",
+      "location": "Fort Collins, CO",
+      "department": "Hardware",
+      "company": "Advanced Energy",
+      "score": 50,
+      "scoreReasons": []
     },
     {
       "id": "canonical:afc9f49cbd23b95f",
@@ -18725,18 +18746,6 @@
       ]
     },
     {
-      "id": "canonical:b423637cc4021184",
-      "title": "Product Management Intern",
-      "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8041452&gh_jid=8041452",
-      "location": "NYC",
-      "department": "Product",
-      "company": "Gemini",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:093c01e322f50a82",
       "title": "Software Engineer Intern - Infrastructure",
       "url": "https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e/apply",
@@ -20040,6 +20049,30 @@
       ]
     },
     {
+      "id": "canonical:8e89ca6bf2647ae9",
+      "title": "Quantitative Research Intern - Markets - Analyst",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038",
+      "location": "NYC",
+      "department": "Quant",
+      "company": "JP Morgan Chase",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:4404a059783ecd88",
+      "title": "Data Internship - Data & AI Program",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775223",
+      "location": "Palo Alto, CA / Newark, DE / Plano, TX / Chicago, IL / Jersey City, NJ / Columbus, OH / NYC / Wilmington, DE",
+      "department": "AI/ML/Data",
+      "company": "JP Morgan Chase",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:dff4fe802092d2b4",
       "title": "Quantitative Research Intern - Risk and Treasury",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773978",
@@ -20061,6 +20094,30 @@
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:ec7ffb2ee8776982",
+      "title": "Quantitative Research Summer Analyst Intern - Asset Management",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774074",
+      "location": "NYC",
+      "department": "Quant",
+      "company": "JP Morgan Chase",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:42cbd751a157374e",
+      "title": "Quantitative Research Intern",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774061",
+      "location": "NYC",
+      "department": "Quant",
+      "company": "JP Morgan Chase",
+      "score": 60,
+      "scoreReasons": [
         "high-signal role"
       ]
     },
@@ -21437,19 +21494,6 @@
       ]
     },
     {
-      "id": "canonical:80b96797dc5b1f64",
-      "title": "Data Warehouse & Analytics Intern",
-      "url": "https://nbtbancorp.wd12.myworkdayjobs.com/NBT-B/job/Williamsville-NY/Internship---Data-Warehouse---Analytics-Consultant_JR4868",
-      "location": "Williamsville, NY",
-      "department": "AI/ML/Data",
-      "company": "NBT Bank",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:27a65c0291f53953",
       "title": "Product Innovation Intern - Credit & Fraud Risk",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011994",
@@ -21458,6 +21502,110 @@
       "company": "American Express",
       "score": 50,
       "scoreReasons": []
+    },
+    {
+      "id": "canonical:97174b0b6c0afd2a",
+      "title": "Research Intern - Firmware Security",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556955518",
+      "location": "Redmond, WA",
+      "department": "AI/ML/Data",
+      "company": "Microsoft",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:dd330df63152542e",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01863980-1",
+      "location": "Cedar Rapids, IA",
+      "department": "Hardware",
+      "company": "RTX",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:24bc6528e0437c46",
+      "title": "Software Engineer Intern - R&D - FPGA",
+      "url": "https://jobs.keysight.com/jobs/53636?icims=1",
+      "location": "Santa Clara, CA / Calabasas, CA",
+      "department": "Hardware",
+      "company": "Keysight Technologies",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:c6690b19f98de110",
+      "title": "Software Developer Intern",
+      "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1",
+      "location": "Annapolis Junction, MD",
+      "department": "Software",
+      "company": "General Dynamics Information Technology",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:382e5e21383853e9",
+      "title": "Optical Verification Technician Intern/Co-op",
+      "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Technician-Intern-Co-op_20261048",
+      "location": "Ottawa, ON, Canada",
+      "department": "Hardware",
+      "company": "Lumentum",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:a39684f8652a0a73",
+      "title": "Optical Verification Technician Co-op Intern",
+      "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-VerificationTechnician-Intern-Co-op_20261049",
+      "location": "Ottawa, ON, Canada",
+      "department": "Hardware",
+      "company": "Lumentum",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:d7be8ed4523d36c1",
+      "title": "Graduate Statistical Analysis Intern - Regional & Community Outreach",
+      "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Boston-MA/Graduate-Intern---Statistical-Analysis_R-0000032931",
+      "location": "Boston, MA",
+      "department": "AI/ML/Data",
+      "company": "The Federal Reserve System",
+      "score": 74,
+      "scoreReasons": [
+        "high-signal role",
+        "new grad",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:aef5b67e297164a0",
+      "title": "Digital Technology Intern",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Atlanta/GE-Vernova-Digital-Technology-Internship---Summer-2027_R5049176-3",
+      "location": "Greenville, SC / Schenectady, NY / Atlanta, GA",
+      "department": "AI/ML/Data",
+      "company": "GE Vernova",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
     },
     {
       "id": "canonical:12cd06c0eec80152",
@@ -24614,20 +24762,6 @@
       ]
     },
     {
-      "id": "canonical:4cfb5723dc9ecab3",
-      "title": "Software Engineer Intern",
-      "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Champaign-IL/Software-Engineer-Intern_JR-050991",
-      "location": "Champaign, IL",
-      "department": "Software / Not stated",
-      "company": "Brunswick",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:14ea1a5cbe4d09bc",
       "title": "2027 Returning Intern Software Engineer",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Returning-Intern-Software-Engineer_R10242378",
@@ -24951,6 +25085,20 @@
       "company": "Beacon Software",
       "score": 68,
       "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:910a33048f04484e",
+      "title": "Quantic – Quantitative Developer Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
+      "location": "Boston, MA",
+      "department": "Quant / Summer 2027",
+      "company": "Walleye Capital",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
