@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-04T22:51:33.061Z",
+  "generatedAt": "2026-08-04T23:53:58.307Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1828,
+  "jobCount": 1833,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -333,7 +333,6 @@
     "canonical:2212e3fbe2cb1a38": "2026-07-01T06:55:26.212Z",
     "canonical:c8ca3869c2c9394e": "2026-07-01T06:55:26.212Z",
     "canonical:b06c1c658f9e9640": "2026-07-01T06:55:26.212Z",
-    "canonical:e74ff208aa9bd56c": "2026-07-01T06:55:26.212Z",
     "canonical:8bbf5106040685f9": "2026-07-01T06:55:26.212Z",
     "canonical:3e20e348fe7e7c8d": "2026-07-01T06:55:26.212Z",
     "canonical:c0eb083bfbe7a4b1": "2026-07-01T06:55:26.212Z",
@@ -1831,7 +1830,13 @@
     "canonical:a39684f8652a0a73": "2026-08-04T22:51:33.061Z",
     "canonical:d7be8ed4523d36c1": "2026-08-04T22:51:33.061Z",
     "canonical:aef5b67e297164a0": "2026-08-04T22:51:33.061Z",
-    "canonical:910a33048f04484e": "2026-08-04T22:51:33.061Z"
+    "canonical:1397ff60cc88bfb6": "2026-08-04T23:53:58.307Z",
+    "canonical:a521bec16f3e19c2": "2026-08-04T23:53:58.307Z",
+    "canonical:7d316eb6f1b4b690": "2026-08-04T23:53:58.307Z",
+    "canonical:e611fca719964abd": "2026-08-04T23:53:58.307Z",
+    "canonical:af368b474b8c85e2": "2026-08-04T23:53:58.307Z",
+    "canonical:b4f71bcab4781984": "2026-08-04T23:53:58.307Z",
+    "canonical:c3a2790b2d8c2bf3": "2026-08-04T23:53:58.307Z"
   },
   "jobs": [
     {
@@ -12334,6 +12339,20 @@
       ]
     },
     {
+      "id": "canonical:1397ff60cc88bfb6",
+      "title": "Quantitative Developer Intern",
+      "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
+      "location": "Boston, MA",
+      "department": "Quant",
+      "company": "Walleye Capital",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:917c8771cd813a8d",
       "title": "Applied Data Science Intern",
       "url": "https://job-boards.greenhouse.io/evolver/jobs/4254540009",
@@ -13524,18 +13543,6 @@
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:e74ff208aa9bd56c",
-      "title": "Power Platform Intern",
-      "url": "https://www.trulandequip.com/about-us/careers/?gh_jid=5174621007",
-      "location": "Fort Wayne, IN",
-      "department": "AI/ML/Data",
-      "company": "Truland Equipment",
-      "score": 60,
-      "scoreReasons": [
         "high-signal role"
       ]
     },
@@ -18125,6 +18132,19 @@
       ]
     },
     {
+      "id": "canonical:a521bec16f3e19c2",
+      "title": "Data and AI Operations Analyst Intern/Co-op - Cloud - 8 months",
+      "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724",
+      "location": "Toronto, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "Bank of Montreal",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:64ebc8191f377b6f",
       "title": "Powertrain Controls Software Engineer Intern",
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000140089589",
@@ -21608,6 +21628,66 @@
       ]
     },
     {
+      "id": "canonical:7d316eb6f1b4b690",
+      "title": "Quantitative Risk Intern",
+      "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719118005",
+      "location": "Chicago, IL",
+      "department": "Quant",
+      "company": "DV Trading",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:e611fca719964abd",
+      "title": "Industrial Engineer Intern - Technology & Products Group - Global Industrial Engineering",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---TPG-Global-IE_JR107486",
+      "location": "Boise, ID",
+      "department": "AI/ML/Data",
+      "company": "Micron Technology",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:af368b474b8c85e2",
+      "title": "Data Analyst Intern - Power - Emerging Talent",
+      "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/o6OAAfwO?nl=1&nl=1&fr=false",
+      "location": "NYC",
+      "department": "AI/ML/Data",
+      "company": "Metropolitan Transportation Authority",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:b4f71bcab4781984",
+      "title": "Firmware Engineer Intern",
+      "url": "https://jobs.jobvite.com/inogen/job/om2zAfwh?nl=1&nl=1&fr=false",
+      "location": "Plano, TX",
+      "department": "Hardware",
+      "company": "Inogen",
+      "score": 75,
+      "scoreReasons": [
+        "SWE-aligned"
+      ]
+    },
+    {
+      "id": "canonical:c3a2790b2d8c2bf3",
+      "title": "Product Development Intern - US Consumer Services",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012174",
+      "location": "NYC",
+      "department": "Product",
+      "company": "American Express",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
       "id": "canonical:12cd06c0eec80152",
       "title": "Frontend Software Engineer Intern",
       "url": "https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c",
@@ -25085,20 +25165,6 @@
       "company": "Beacon Software",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:910a33048f04484e",
-      "title": "Quantic – Quantitative Developer Intern (Summer 2027)",
-      "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
-      "location": "Boston, MA",
-      "department": "Quant / Summer 2027",
-      "company": "Walleye Capital",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]

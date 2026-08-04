@@ -1,6 +1,6 @@
 # Open Internships
 
-**1828** internships across **142/143** companies — last updated 2026-08-04.
+**1833** internships across **142/143** companies — last updated 2026-08-04.
 
 ## Companies
 
@@ -24,7 +24,7 @@
 - [Ambarella](#ambarella) (8)
 - [Amentum](#amentum) (1)
 - [American Enterprise Institute](#american-enterprise-institute) (3)
-- [American Express](#american-express) (6)
+- [American Express](#american-express) (7)
 - [Amgen](#amgen) (1)
 - [Anduril](#anduril) (2)
 - [Anthelion Capital](#anthelion-capital) (2)
@@ -64,7 +64,7 @@
 - [AXQ Capital](#axq-capital) (1)
 - [BAE Systems](#bae-systems) (1)
 - [Bank of America](#bank-of-america) (1)
-- [Bank of Montreal](#bank-of-montreal) (1)
+- [Bank of Montreal](#bank-of-montreal) (2)
 - [Barkback](#barkback) (1)
 - [Base Power](#base-power) (3)
 - [Beacon Software](#beacon-software) (2)
@@ -179,6 +179,7 @@
 - [Dryft](#dryft) (1)
 - [DuPont](#dupont) (5)
 - [Duracell](#duracell) (1)
+- [DV Trading](#dv-trading) (1)
 - [East Penn Manufacturing Company](#east-penn-manufacturing-company) (3)
 - [EdgeTrace](#edgetrace) (1)
 - [Egra](#egra) (1)
@@ -296,6 +297,7 @@
 - [Infojini](#infojini) (1)
 - [Inizio](#inizio) (1)
 - [Innovation Works, Inc.](#innovation-works-inc) (1)
+- [Inogen](#inogen) (1)
 - [Instead](#instead) (1)
 - [Institute of Foundation Models](#institute-of-foundation-models) (2)
 - [Integra FEC](#integra-fec) (3)
@@ -354,8 +356,9 @@
 - [Menasha Corporation](#menasha-corporation) (1)
 - [Meshy](#meshy) (2)
 - [Meta](#meta) (13)
-- [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (1)
+- [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (2)
 - [Microchip Technology](#microchip-technology) (8)
+- [Micron Technology](#micron-technology) (1)
 - [Microsoft](#microsoft) (14)
 - [Midmark ](#midmark) (1)
 - [Mindsmith](#mindsmith) (1)
@@ -571,7 +574,6 @@
 - [Trata](#trata) (1)
 - [Trend Micro](#trend-micro) (1)
 - [Trillium](#trillium) (3)
-- [Truland Equipment](#truland-equipment) (1)
 - [Two Sigma](#two-sigma) (2)
 - [Two Six Technologies](#two-six-technologies) (1)
 - [Uber](#uber) (1)
@@ -941,6 +943,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Product Development Intern - US Consumer Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012174) | 50 | NYC | Product | 2026-08-04 |
 | [Product Innovation Intern - Credit & Fraud Risk](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011994) | 50 | Phoenix, AZ | Product | 2026-08-04 |
 | [Product Management Intern](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916) | 50 | NYC | Product | 2026-08-04 |
 | [Campus Undergraduate Summer Internship - Strategy & Analytics - Credit & Fraud Risk](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011984) | 60 | NYC | AI/ML/Data | 2026-08-03 |
@@ -1237,6 +1240,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data and AI Operations Analyst Intern/Co-op - Cloud - 8 months](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-08-04 |
 | [Data Scientist Co-op/Internship - Months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879) | 93 | Toronto, ON, Canada | AI/ML/Data | 2026-07-22 |
 
 ## Barkback
@@ -2116,6 +2120,12 @@
 | --- | --- | --- | --- | --- |
 | [Electronics Tech Intern](https://fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_26/job/1330) | 50 | Atlanta, GA | Hardware | 2026-07-20 |
 
+## DV Trading
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Quantitative Risk Intern](https://job-boards.greenhouse.io/dvtrading/jobs/4719118005) | 68 | Chicago, IL | Quant | 2026-08-04 |
+
 ## East Penn Manufacturing Company
 
 | Title | Score | Location | Department | First seen |
@@ -2895,6 +2905,12 @@
 | --- | --- | --- | --- | --- |
 | [Scale Prototyping Shop Intern](https://innovationworks.applytojob.com/apply/nrxEUkXjtp/Scale-Prototyping-Shop-Intern-Innovation-Works-Inc) | 50 | Pittsburgh, PA | Hardware | 2026-08-03 |
 
+## Inogen
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Firmware Engineer Intern](https://jobs.jobvite.com/inogen/job/om2zAfwh?nl=1&nl=1&fr=false) | 75 | Plano, TX | Hardware | 2026-08-04 |
+
 ## Instead
 
 | Title | Score | Location | Department | First seen |
@@ -3371,6 +3387,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data Analyst Intern - Power - Emerging Talent](https://jobs.jobvite.com/metropolitantransportationauthority/job/o6OAAfwO?nl=1&nl=1&fr=false) | 60 | NYC | AI/ML/Data | 2026-08-04 |
 | [Data Analyst Intern](https://jobs.jobvite.com/metropolitantransportationauthority/job/oboAAfwt?nl=1&nl=1&fr=false) | 60 | Brooklyn, NY | AI/ML/Data | 2026-08-04 |
 
 ## Microchip Technology
@@ -3385,6 +3402,12 @@
 | [Equipment Engineering Technician Intern - Wet Process](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/OR---Gresham/Intern--Equipment-Engineering-Technician--Wet-Process-_R2124-25) | 50 | Gresham, OR | Hardware | 2026-08-01 |
 | [Intern Technician - Electronics](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/PA---Mount-Holly-Springs/Intern-Technician--Electronics-_R847-26) | 50 | Carlisle, PA | Hardware | 2026-08-01 |
 | [Power, Analog and Mixed-Signal IC Product Engineer Intern - Product Engineering](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Product-Engineering-_R3151-26-1) | 85 | Chandler, AZ | Software | 2026-08-01 |
+
+## Micron Technology
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Industrial Engineer Intern - Technology & Products Group - Global Industrial Engineering](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---TPG-Global-IE_JR107486) | 68 | Boise, ID | AI/ML/Data | 2026-08-04 |
 
 ## Microsoft
 
@@ -5190,12 +5213,6 @@
 | [Equity Trader Intern](https://www.trlm.com/apply/5076017007?gh_jid=5076017007) | 60 | Chicago, IL | Quant | 2026-07-24 |
 | [Equity Trader Intern](https://www.trlm.com/apply/5076067007?gh_jid=5076067007) | 60 | Miami, FL | Quant | 2026-07-24 |
 
-## Truland Equipment
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Power Platform Intern](https://www.trulandequip.com/about-us/careers/?gh_jid=5174621007) | 60 | Fort Wayne, IN | AI/ML/Data | 2026-07-01 |
-
 ## Two Sigma
 
 | Title | Score | Location | Department | First seen |
@@ -5392,7 +5409,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Quantic – Quantitative Developer Intern (Summer 2027)](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) | 93 | Boston, MA | Quant / Summer 2027 | 2026-08-04 |
+| [Quantitative Developer Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) | 93 | Boston, MA | Quant | 2026-08-04 |
 | [Equity Volatility Quant Researcher Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006) | 93 | Miami, FL | Quant | 2026-07-20 |
 | [PhD Quantitative Researcher Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679184006) | 93 | Boston, MA | Quant | 2026-07-20 |
 
