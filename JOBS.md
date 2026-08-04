@@ -1,6 +1,6 @@
 # Open Internships
 
-**1808** internships across **142/143** companies — last updated 2026-08-04.
+**1823** internships across **142/143** companies — last updated 2026-08-04.
 
 ## Companies
 
@@ -19,7 +19,7 @@
 - [AlixPartners](#alixpartners) (1)
 - [Alljoined](#alljoined) (1)
 - [Altom Transport](#altom-transport) (2)
-- [Amazon](#amazon) (171)
+- [Amazon](#amazon) (168)
 - [Ambarella](#ambarella) (8)
 - [Amentum](#amentum) (1)
 - [American Enterprise Institute](#american-enterprise-institute) (3)
@@ -51,7 +51,6 @@
 - [ASM Global](#asm-global) (4)
 - [ASM International](#asm-international) (1)
 - [ASML](#asml) (2)
-- [Assurant](#assurant) (1)
 - [Astera](#astera) (3)
 - [Astera Labs](#astera-labs) (3)
 - [Astranis](#astranis) (9)
@@ -100,7 +99,7 @@
 - [Brio Water Technology](#brio-water-technology) (1)
 - [Brookfield](#brookfield) (2)
 - [Brunswick](#brunswick) (2)
-- [ByteDance](#bytedance) (35)
+- [ByteDance](#bytedance) (36)
 - [Cadence Design Systems](#cadence-design-systems) (6)
 - [CAE](#cae) (1)
 - [CALSTART](#calstart) (3)
@@ -116,6 +115,7 @@
 - [Chainguard](#chainguard) (1)
 - [Chanel](#chanel) (1)
 - [Chartwells Higher Education Dining Services](#chartwells-higher-education-dining-services) (1)
+- [CHEP](#chep) (1)
 - [Cherry Bekaert](#cherry-bekaert) (2)
 - [Chevron Corporation](#chevron-corporation) (4)
 - [Chicago Trading Company](#chicago-trading-company) (5)
@@ -204,7 +204,6 @@
 - [Evolver](#evolver) (1)
 - [Excel Sports Management](#excel-sports-management) (2)
 - [Expedia Group](#expedia-group) (1)
-- [Exploration Technology Corp.](#exploration-technology-corp) (1)
 - [fab2](#fab2) (1)
 - [Fab2](#fab2) (4)
 - [Facility Solutions Group](#facility-solutions-group) (1)
@@ -296,6 +295,7 @@
 - [Incident IQ](#incident-iq) (1)
 - [InfiniteQuant](#infinitequant) (1)
 - [Infojini](#infojini) (1)
+- [Inizio](#inizio) (1)
 - [Innovation Works, Inc.](#innovation-works-inc) (1)
 - [Instead](#instead) (1)
 - [Institute of Foundation Models](#institute-of-foundation-models) (2)
@@ -312,7 +312,6 @@
 - [Jain Global](#jain-global) (1)
 - [Jane Street](#jane-street) (23)
 - [JP Morgan Chase](#jp-morgan-chase) (8)
-- [JPMorganChase](#jpmorganchase) (1)
 - [Jump Trading](#jump-trading) (48)
 - [Junior](#junior) (1)
 - [Junior AI](#junior-ai) (1)
@@ -331,7 +330,7 @@
 - [Leidos](#leidos) (1)
 - [Lensa](#lensa) (3)
 - [LinkedIn](#linkedin) (3)
-- [Magna](#magna) (2)
+- [Magna](#magna) (3)
 - [Magna International](#magna-international) (1)
 - [Maher Duessel](#maher-duessel) (1)
 - [MaloneBailey, LLP](#malonebailey-llp) (1)
@@ -558,7 +557,7 @@
 - [Thomson Reuters](#thomson-reuters) (1)
 - [thyssenkrupp](#thyssenkrupp) (2)
 - [TIFIN](#tifin) (1)
-- [TikTok](#tiktok) (75)
+- [TikTok](#tiktok) (92)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
 - [TMX Group](#tmx-group) (1)
@@ -615,7 +614,6 @@
 - [WeRide](#weride) (1)
 - [Western Digital](#western-digital) (3)
 - [Westinghouse](#westinghouse) (1)
-- [Williams](#williams) (1)
 - [WindBorne Systems](#windborne-systems) (1)
 - [Wise](#wise) (1)
 - [Workato](#workato) (1)
@@ -628,7 +626,7 @@
 - [Zello](#zello) (1)
 - [Zettabyte](#zettabyte) (1)
 - [ZGF Architects](#zgf-architects) (1)
-- [Zipline](#zipline) (4)
+- [Zipline](#zipline) (5)
 - [Zuru](#zuru) (1)
 
 ## 1X
@@ -825,7 +823,6 @@
 | [Graduate Area Manager, Operations](https://amazon.jobs/en/jobs/3204188/graduate-area-manager-operations) | 56 | Dobromierz | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Area Manager:in near Ulm](https://amazon.jobs/en/jobs/10463740/graduate-area-manager-in-near-ulm) | 56 | Heidenheim An Der Brenz | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Area/Shift Manager - Abruzzo](https://amazon.jobs/en/jobs/10454849/graduate-area-shift-manager-abruzzo) | 56 | San Salvo | Fulfillment & Operations Management | 2026-07-20 |
-| [Graduate Area/Shift Manager - Novara](https://amazon.jobs/en/jobs/3188208/graduate-area-shift-manager-novara) | 56 | Agognate | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Area/Shift Manager - Piemonte](https://amazon.jobs/en/jobs/10465611/graduate-area-shift-manager-piemonte) | 56 | Torrazza | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Area/Shift Manager - Rome](https://amazon.jobs/en/jobs/10448455/graduate-area-shift-manager-rome) | 56 | Passo Corese | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Area/Shift Manager - Veneto](https://amazon.jobs/en/jobs/3165132/graduate-area-shift-manager-veneto) | 56 | Rovigo | Fulfillment & Operations Management | 2026-07-20 |
@@ -899,8 +896,6 @@
 | [Demand Generation Rep Intern - Philippines market](https://amazon.jobs/en/jobs/3125227/demand-generation-rep-intern-philippines-market) | 30 | Singapore | Sales, Advertising, & Account Management | 2026-07-20 |
 | [Demand Generation Rep Intern - Vietnam Market](https://amazon.jobs/en/jobs/10444660/demand-generation-rep-intern-vietnam-market) | 30 | Ho Chi Minh City | Sales, Advertising, & Account Management | 2026-07-20 |
 | [Demand Generation Rep Intern - Vietnam Market](https://amazon.jobs/en/jobs/3125230/demand-generation-rep-intern-vietnam-market) | 30 | Singapore | Sales, Advertising, & Account Management | 2026-07-20 |
-| [Sales Ops Analyst Intern 인턴, New Seller Recruitment](https://amazon.jobs/en/jobs/10472164/sales-ops-analyst-intern-new-seller-recruitment) | 30 | Seoul | Sales, Advertising, & Account Management | 2026-07-20 |
-| [Sales Ops Analyst Intern 인턴, Strategic Account Services](https://amazon.jobs/en/jobs/10472134/sales-ops-analyst-intern-strategic-account-services) | 30 | Seoul | Sales, Advertising, & Account Management | 2026-07-20 |
 | [Amazon Industrial Robotics - Applied Scientist II Intern / Co-op - 2026, Amazon Industrial Robotics](https://www.amazon.jobs/en/jobs/3132414/amazon-industrial-robotics-applied-scientist-ii-intern-co-op-2026-amazon-industrial-robotics) | 85 | North Reading, Massachusetts, USA | Data & ML/AI / Fall 2026 | 2026-07-13 |
 | [Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)](https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us) | 85 | Seattle, Washington, USA | Data & ML/AI / Fall 2026 | 2026-07-13 |
 | [Robotics - Software Development Engineer Intern/Co-op](https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1) | 85 | Sunnyvale, CA / North Reading, MA / Westboro, MA / Nashville, TN / Austin, TX / Arlington, VA / Bellevue, WA / Seattle, WA | — | 2026-07-09 |
@@ -1143,12 +1138,6 @@
 | --- | --- | --- | --- | --- |
 | [Internship - Software Development Engineer in Test](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Development-Engineer-in-Test_J-00328071) | 93 | San Jose, CA | Software Engineering | 2026-05-09 |
 | [Internship - Software Quality Assurance](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Software-Quality-Assurance_J-00327394) | 68 | San Jose, CA | Software Engineering | 2026-05-09 |
-
-## Assurant
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Digital & AI Transformation Intern](https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Digital---AI-Transformation-Intern_R-114103-3) | 68 | Atlanta, GA | Data & ML/AI / Not stated | 2026-08-03 |
 
 ## Astera
 
@@ -1478,6 +1467,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern - AI Platform](https://jobs.bytedance.com/en/position/7668212952030841093/detail) | 85 | San Jose, CA | Software | 2026-08-04 |
 | [Network Security Software Engineer Intern - Security Engineering](https://jobs.bytedance.com/en/position/7667876489597257989/detail) | 85 | San Jose, CA | Software | 2026-08-03 |
 | [Research Scientist Intern](https://jobs.bytedance.com/en/position/7667379218929780997/detail) | 85 | Seattle, WA | AI/ML/Data | 2026-08-03 |
 | [Research Scientist Intern](https://jobs.bytedance.com/en/position/7667380188619131189/detail) | 85 | San Jose, CA | AI/ML/Data | 2026-08-03 |
@@ -1630,6 +1620,12 @@
 | --- | --- | --- | --- | --- |
 | [Field Marketing Intern, Chartwells Higher Ed / University of North Carolina](https://www.linkedin.com/jobs/view/4261076817) | 22 | Charlotte, NC | — | 2026-07-09 |
 
+## CHEP
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [FP&A Business Intelligence Intern](https://brambles.wd5.myworkdayjobs.com/en-US/Brambles_Careers/job/London-England-United-Kingdom/FP-A-Business-Intelligence-Intern_JR23946-1) | 68 | London, UK / Orlando, FL / Atlanta, GA | AI/ML/Data | 2026-08-04 |
+
 ## Cherry Bekaert
 
 | Title | Score | Location | Department | First seen |
@@ -1769,13 +1765,13 @@
 | [AI Innovation Intern – Service Sales (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395) | 38 | In-Office | — | 2026-07-30 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-07-29 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Marketing Events and Campaigns Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8053546?gh_jid=8053546) | 38 | In-Office | — | 2026-07-09 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
 
 ## Cloudforce
 
@@ -2288,12 +2284,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Machine Learning Science Intern](https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Machine-Learning-Science-Intern---PhD---2026---Austin--San-Jose_R-98585) | 68 | San Jose, CA / Austin, TX | AI/ML/Data | 2026-07-21 |
-
-## Exploration Technology Corp.
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Engineer Intern](https://ats.rippling.com/etg/jobs/75ad65e6-f504-4ae2-adf1-587e704b2bcc) | 50 | SF | Hardware | 2026-08-01 |
 
 ## fab2
 
@@ -2899,6 +2889,12 @@
 | --- | --- | --- | --- | --- |
 | [GIS Intern Analyst](https://jobs.smartrecruiters.com/InfojiniInc1/104263488) | 68 | Columbia, SC | AI/ML/Data | 2026-06-19 |
 
+## Inizio
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data and Analytics Intern](https://job-boards.greenhouse.io/inizio/jobs/8066854) | 68 | Manchester, UK | AI/ML/Data | 2026-08-04 |
+
 ## Innovation Works, Inc.
 
 | Title | Score | Location | Department | First seen |
@@ -3032,12 +3028,6 @@
 | [Quantitative Research Intern - Risk and Treasury](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773978) | 60 | Plano, TX / Chicago, IL / NYC | Quant | 2026-08-03 |
 | [Quantitative Research Summer Analyst Intern - Asset Management](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774074) | 60 | NYC | Quant | 2026-08-03 |
 | [Machine Learning Center of Excellence Intern - NLP](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765492) | 60 | London, UK | AI/ML/Data | 2026-07-02 |
-
-## JPMorganChase
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [2027 Data & AI Program - Summer Internship - Analyst - United States](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773869) | 60 | Chicago, IL, United States | Data & ML/AI / Summer 2027 | 2026-08-03 |
 
 ## Jump Trading
 
@@ -3207,6 +3197,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Product Engineering Engineer Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Grand-Rapids-Michigan-US/Product-Engineering-Intern_R00243272) | 85 | Grand Rapids, MI | Software | 2026-08-04 |
 | [Student Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Highland-Park-Michigan-US/Student-Intern---Engineering-1_R00240865) | 60 | Ferndale, MI | AI/ML/Data | 2026-08-03 |
 | [R&D-Computer Vision Engineer Intern](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/R-D--Computer-Vision-Engineering-Intern_R00253444-1) | 85 | Troy, MI | AI/ML/Data | 2026-08-01 |
 
@@ -5011,6 +5002,23 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Backend Software Engineer Intern - LIVE Foundation Governance Engineering](https://lifeattiktok.com/search/7667935150530840837) | 85 | San Jose, CA | Software | 2026-08-04 |
+| [Frontend Engineer Intern - Global CRM](https://lifeattiktok.com/search/7669711026846058757) | 85 | San Jose, CA | Software | 2026-08-04 |
+| [Machine Learning Engineer Intern - App Ads and Gaming](https://lifeattiktok.com/search/7669709472078170373) | 85 | San Jose, CA | AI/ML/Data | 2026-08-04 |
+| [Machine Learning Engineer Intern - Commerce Ads - Summer 2027](https://lifeattiktok.com/search/7669711968043092229) | 85 | San Jose, CA | AI/ML/Data | 2026-08-04 |
+| [Machine Learning Engineer Intern - Data Search Recommendation Global E-Commerce](https://lifeattiktok.com/search/7668383643375257909) | 85 | Seattle, WA | AI/ML/Data | 2026-08-04 |
+| [Machine Learning Engineer Intern - Lead Ads](https://lifeattiktok.com/search/7669707492914727221) | 85 | San Jose, CA | AI/ML/Data | 2026-08-04 |
+| [Machine Learning Engineer Intern - Performance Monetization](https://lifeattiktok.com/search/7669693163422845237) | 85 | San Jose, CA | AI/ML/Data | 2026-08-04 |
+| [Machine Learning Engineer Intern - Search Ads](https://lifeattiktok.com/search/7669698648817305909) | 85 | San Jose, CA | AI/ML/Data | 2026-08-04 |
+| [Research Engineer Intern - Agentic Systems & AI Infrastructure - Generalized Architecture](https://lifeattiktok.com/search/7667934792727906565) | 85 | Seattle, WA | AI/ML/Data | 2026-08-04 |
+| [Research Engineer Intern - Agentic Systems & AI Infrastructure - Tiktok-Generalized Arch](https://lifeattiktok.com/search/7667935568626043141) | 85 | San Jose, CA | AI/ML/Data | 2026-08-04 |
+| [Software Engineer Intern - Intelligent Creation-Camera](https://lifeattiktok.com/search/7668862422178318597) | 85 | San Jose, CA | Software | 2026-08-04 |
+| [Software Engineer Intern - Transaction Platform](https://lifeattiktok.com/search/7669943120351906053) | 85 | San Jose, CA | Software | 2026-08-04 |
+| [Data Science Intern - Integrity and Safety](https://lifeattiktok.com/search/7669682935444900149) | 60 | San Jose, CA | AI/ML/Data | 2026-08-04 |
+| [Data Science Intern - TikTok Live](https://lifeattiktok.com/search/7669700822370945333) | 60 | San Jose, CA | AI/ML/Data | 2026-08-04 |
+| [Machine Learning Engineer Intern - Brand Ads](https://lifeattiktok.com/search/7668654528822954245) | 60 | San Jose, CA | AI/ML/Data | 2026-08-04 |
+| [AI Product Manager Intern - Content Ecosystem](https://lifeattiktok.com/search/7667578131150506293) | 50 | San Jose, CA | Product | 2026-08-04 |
+| [Recommendation Product Manager Intern - Content Ecosystem](https://lifeattiktok.com/search/7667874197682899205) | 50 | San Jose, CA | Product | 2026-08-04 |
 | [Backend Software Engineer Intern - Global E-Commerce](https://lifeattiktok.com/search/7668834837268138293) | 85 | San Jose, CA | Software | 2026-08-04 |
 | [Backend Software Engineer Intern - Global E-Commerce](https://lifeattiktok.com/search/7668834837268416821) | 85 | Seattle, WA | Software | 2026-08-04 |
 | [Backend Software Engineer Intern - Product Infrastructure](https://lifeattiktok.com/search/7667935633764370741) | 85 | San Jose, CA | Software | 2026-08-04 |
@@ -5469,12 +5477,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](https://careers.westinghousenuclear.com/job/Shoreview-Software-Engineering-Intern-Summer-2026-MN-55126/1348239000/) | 60 | Shoreview, MN | Software Engineering | 2026-05-09 |
 
-## Williams
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Engineering Intern](https://williams.wd5.myworkdayjobs.com/External/job/OK-Tulsa---Headquarters/Summer-2027-Return-Engineering-Intern_R112502) | 68 | Salt Lake City, UT / Houston, TX / Tulsa, OK | AI/ML/Data | 2026-08-03 |
-
 ## WindBorne Systems
 
 | Title | Score | Location | Department | First seen |
@@ -5558,10 +5560,11 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Embedded Software Engineer Intern](https://www.zipline.com/careers?gh_jid=7765240003#open-roles) | 85 | San Bruno, CA | Hardware | 2026-08-04 |
+| [Mechatronics Perception Intern - Fall 2026](https://www.zipline.com/open-roles?gh_jid=7763697003) | 50 | South SF | Hardware | 2026-08-04 |
 | [Software Engineer Intern](https://www.zipline.com/open-roles?gh_jid=7787509003) | 85 | San Bruno, CA | Software | 2026-07-22 |
 | [Enterprise Systems Software Engineer Intern](https://www.zipline.com/careers?gh_jid=7767667003#open-roles) | 85 | San Bruno, CA | Software | 2026-07-21 |
 | [Perception Intern](https://www.zipline.com/careers?gh_jid=7761650003#open-roles) | 60 | Dallas, TX / San Bruno, CA | AI/ML/Data | 2026-07-21 |
-| [Maps Intern](https://www.zipline.com/open-roles?gh_jid=7787868003) | 60 | San Bruno, CA | AI/ML/Data | 2026-07-21 |
 
 ## Zuru
 
