@@ -1,6 +1,6 @@
 # Open Internships
 
-**1794** internships across **142/143** companies — last updated 2026-08-04.
+**1793** internships across **142/143** companies — last updated 2026-08-04.
 
 ## Companies
 
@@ -484,7 +484,6 @@
 - [RTX](#rtx) (3)
 - [Samaya](#samaya) (1)
 - [Samsara](#samsara) (2)
-- [Samsung Research America](#samsung-research-america) (1)
 - [Sandhills Global](#sandhills-global) (2)
 - [Saronic](#saronic) (2)
 - [Savannah River National Laboratory](#savannah-river-national-laboratory) (1)
@@ -1147,7 +1146,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Digital & AI Transformation Intern](https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Digital---AI-Transformation-Intern_R-114103-3) | 68 | Atlanta, GA | AI/ML/Data | 2026-08-03 |
+| [Digital & AI Transformation Intern](https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Digital---AI-Transformation-Intern_R-114103-3) | 68 | Atlanta, GA | Data & ML/AI / Not stated | 2026-08-03 |
 
 ## Astera
 
@@ -4371,12 +4370,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091) | 60 | SF | Software | 2026-08-04 |
 | [Software Engineering Intern](https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093) | 60 | London, UK | Software | 2026-08-04 |
-
-## Samsung Research America
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [2026 Fall Intern, ML/NLP Research](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8541339002) | 68 | 665 Clyde Avenue, Mountain View,  CA, USA | Data & ML/AI / Fall 2026 | 2026-08-04 |
 
 ## Sandhills Global
 
