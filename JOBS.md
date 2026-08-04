@@ -1,6 +1,6 @@
 # Open Internships
 
-**1817** internships across **142/143** companies — last updated 2026-08-04.
+**1818** internships across **142/143** companies — last updated 2026-08-04.
 
 ## Companies
 
@@ -19,7 +19,7 @@
 - [AlixPartners](#alixpartners) (1)
 - [Alljoined](#alljoined) (1)
 - [Altom Transport](#altom-transport) (2)
-- [Amazon](#amazon) (170)
+- [Amazon](#amazon) (171)
 - [Ambarella](#ambarella) (8)
 - [Amentum](#amentum) (1)
 - [American Enterprise Institute](#american-enterprise-institute) (3)
@@ -129,7 +129,7 @@
 - [Clarity Innovations](#clarity-innovations) (1)
 - [Clerkie](#clerkie) (1)
 - [CloudFit Software](#cloudfit-software) (1)
-- [Cloudflare](#cloudflare) (18)
+- [Cloudflare](#cloudflare) (19)
 - [Cloudforce](#cloudforce) (1)
 - [Clyde Companies](#clyde-companies) (2)
 - [CME Group](#cme-group) (1)
@@ -554,7 +554,7 @@
 - [Thomson Reuters](#thomson-reuters) (1)
 - [thyssenkrupp](#thyssenkrupp) (2)
 - [TIFIN](#tifin) (1)
-- [TikTok](#tiktok) (92)
+- [TikTok](#tiktok) (91)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
 - [TMX Group](#tmx-group) (1)
@@ -731,6 +731,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [2027 MBA Finance Leadership Development Program (FLDP) Internship](https://amazon.jobs/en/jobs/10492198/2027-mba-finance-leadership-development-program-fldp-internship) | 30 | Seattle | Finance & Accounting | 2026-08-04 |
 | [2027 Amazon Leadership Accelerator (ALA) Product Manager Internship](https://amazon.jobs/en/jobs/10491935/2027-amazon-leadership-accelerator-ala-product-manager-internship) | 50 | Seattle | Project/Program/Product Management--Technical | 2026-08-04 |
 | [2026 Graduate Software Dev Engineer](https://amazon.jobs/en/jobs/10491309/2026-graduate-software-dev-engineer) | 91 | Tel Aviv | Software Development | 2026-08-04 |
 | [2027 MBA Leadership Development Program (MLDP) Intern](https://amazon.jobs/en/jobs/10491603/2027-mba-leadership-development-program-mldp-intern) | 50 | Seattle | Buying, Planning, & Instock Management | 2026-08-04 |
@@ -1745,6 +1746,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [U.S. Public Policy and AI Innovation Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8105728?gh_jid=8105728) | 58 | In-Office | — | 2026-08-04 |
 | [GRC Team Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8095533?gh_jid=8095533) | 58 | In-Office | — | 2026-08-04 |
 | [Marketing Programs and Analytics Intern](https://boards.greenhouse.io/cloudflare/jobs/8104138) | 48 | Austin, TX | AI/ML/Data | 2026-08-04 |
 | [Marketing Programs and Analytics Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8104138?gh_jid=8104138) | 38 | In-Office | — | 2026-08-04 |
@@ -1756,7 +1758,7 @@
 | [AI Innovation Intern – Service Sales (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395) | 38 | In-Office | — | 2026-07-30 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-07-29 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Marketing Events and Campaigns Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8053546?gh_jid=8053546) | 38 | In-Office | — | 2026-07-09 |
@@ -4060,8 +4062,8 @@
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-07-09 |
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-07-09 |
 | [Corporate Access, off-cycle internship (6-months) – Japanese speaking](https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002) | 58 | Hong Kong | — | 2026-06-30 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -5056,7 +5058,6 @@
 | [Product Manager Intern - TikTok Product Content Ecosystem](https://lifeattiktok.com/search/7657778928769534213) | 50 | San Jose, CA | Product | 2026-07-03 |
 | [Frontend Software Engineer Project Intern - Global CRM](https://lifeattiktok.com/search/7654431844394322229) | 85 | San Jose, CA | Software | 2026-07-02 |
 | [Data Scientist Intern - TikTok Shop User Product DS](https://lifeattiktok.com/search/7532254890627696903) | 85 | Seattle, WA | AI/ML/Data | 2026-06-15 |
-| [Machine Learning Scientist Intern - Global E-Commerce Content Recommendation](https://lifeattiktok.com/search/7623531249253255429) | 85 | San Jose, CA | AI/ML/Data | 2026-06-15 |
 | [Research Scientist Intern - TikTok Recommendation](https://lifeattiktok.com/search/7625928030560700725) | 85 | San Jose, CA | AI/ML/Data | 2026-06-15 |
 | [Research Scientist Intern - Trust and Safety](https://lifeattiktok.com/search/7527582397938223367) | 85 | San Jose, CA | AI/ML/Data | 2026-06-15 |
 | [Research Scientist Intern - Trust and Safety - CV/NLP/Multimodal LLM](https://lifeattiktok.com/search/7527585101065652498) | 85 | Seattle, WA | AI/ML/Data | 2026-06-15 |

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-04T19:02:18.117Z",
+  "generatedAt": "2026-08-04T20:40:16.164Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1817,
+  "jobCount": 1818,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -279,7 +279,6 @@
     "canonical:31962d85f79aae5b": "2026-06-13T15:55:40.354Z",
     "canonical:19300e1217fa0c5e": "2026-06-15T11:27:26.940Z",
     "canonical:a0632e28376b8397": "2026-06-15T11:27:26.940Z",
-    "canonical:f369d606bb40eeff": "2026-06-15T11:27:26.940Z",
     "canonical:38f37f3ad8017ec7": "2026-06-15T11:27:26.940Z",
     "canonical:9b7665abbb0be729": "2026-06-15T11:27:26.940Z",
     "canonical:35e5f856ba8cdd00": "2026-06-15T11:27:26.940Z",
@@ -1820,7 +1819,9 @@
     "canonical:7cf4badefc5f7512": "2026-08-04T17:19:05.834Z",
     "canonical:e2c152c623d8c2e3": "2026-08-04T17:19:05.834Z",
     "canonical:e7a715fbc28ec226": "2026-08-04T19:02:18.117Z",
-    "canonical:e98faa68b92372c8": "2026-08-04T19:02:18.117Z"
+    "canonical:e98faa68b92372c8": "2026-08-04T19:02:18.117Z",
+    "canonical:0f7136b50b1d85e3": "2026-08-04T20:40:16.164Z",
+    "canonical:ee3b5ad3f2347d35": "2026-08-04T20:40:16.164Z"
   },
   "jobs": [
     {
@@ -3231,10 +3232,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -3245,10 +3246,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -4664,6 +4665,18 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:0f7136b50b1d85e3",
+      "title": "2027 MBA Finance Leadership Development Program (FLDP) Internship ",
+      "url": "https://amazon.jobs/en/jobs/10492198/2027-mba-finance-leadership-development-program-fldp-internship",
+      "location": "Seattle",
+      "department": "Finance & Accounting",
+      "company": "Amazon",
+      "score": 30,
+      "scoreReasons": [
+        "lower-fit title"
       ]
     },
     {
@@ -6563,18 +6576,6 @@
       ]
     },
     {
-      "id": "canonical:c4899e61c3f2d9c6",
-      "title": "Applied Research Intern Co-op",
-      "url": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Block",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:0942563fedd29433",
       "title": "Applied Research Intern PhD / Graduate Co-op",
       "url": "http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008",
@@ -6585,6 +6586,18 @@
       "scoreReasons": [
         "high-signal role",
         "new grad"
+      ]
+    },
+    {
+      "id": "canonical:c4899e61c3f2d9c6",
+      "title": "Applied Research Intern Co-op",
+      "url": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
+      "location": "Toronto, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "Block",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
       ]
     },
     {
@@ -7069,7 +7082,7 @@
     {
       "id": "canonical:1a056010d15d11c7",
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -7104,6 +7117,18 @@
       "scoreReasons": [
         "direct ATS",
         "lower-fit title"
+      ]
+    },
+    {
+      "id": "canonical:ee3b5ad3f2347d35",
+      "title": "U.S. Public Policy and AI Innovation Intern (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8105728?gh_jid=8105728",
+      "location": "In-Office",
+      "department": "",
+      "company": "Cloudflare",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
       ]
     },
     {
@@ -9325,19 +9350,6 @@
       "score": 58,
       "scoreReasons": [
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:f369d606bb40eeff",
-      "title": "Machine Learning Scientist Intern - Global E-Commerce Content Recommendation",
-      "url": "https://lifeattiktok.com/search/7623531249253255429",
-      "location": "San Jose, CA",
-      "department": "AI/ML/Data",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
