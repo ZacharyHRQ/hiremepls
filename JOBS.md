@@ -1,6 +1,6 @@
 # Open Internships
 
-**1791** internships across **142/143** companies — last updated 2026-08-04.
+**1794** internships across **142/143** companies — last updated 2026-08-04.
 
 ## Companies
 
@@ -23,7 +23,7 @@
 - [Ambarella](#ambarella) (8)
 - [Amentum](#amentum) (1)
 - [American Enterprise Institute](#american-enterprise-institute) (3)
-- [American Express](#american-express) (4)
+- [American Express](#american-express) (5)
 - [Amgen](#amgen) (1)
 - [Anduril](#anduril) (2)
 - [Anthelion Capital](#anthelion-capital) (2)
@@ -130,7 +130,7 @@
 - [Clarity Innovations](#clarity-innovations) (1)
 - [Clerkie](#clerkie) (1)
 - [CloudFit Software](#cloudfit-software) (1)
-- [Cloudflare](#cloudflare) (16)
+- [Cloudflare](#cloudflare) (17)
 - [Cloudforce](#cloudforce) (1)
 - [Clyde Companies](#clyde-companies) (2)
 - [CME Group](#cme-group) (1)
@@ -290,7 +290,6 @@
 - [HyperLight](#hyperlight) (1)
 - [IDEXX](#idexx) (1)
 - [iHeartMedia](#iheartmedia) (1)
-- [iHerb](#iherb) (1)
 - [IMC](#imc) (4)
 - [IMC Trading](#imc-trading) (26)
 - [Impulse Space](#impulse-space) (1)
@@ -327,7 +326,6 @@
 - [KLA](#kla) (1)
 - [Kognitos](#kognitos) (1)
 - [kos.ai](#kos-ai) (1)
-- [KRAFTON](#krafton) (1)
 - [Landis+Gyr](#landis-gyr) (1)
 - [Lawrence Livermore National Laboratory (LLNL)](#lawrence-livermore-national-laboratory-llnl) (3)
 - [Leidos](#leidos) (1)
@@ -359,7 +357,7 @@
 - [Meshy](#meshy) (2)
 - [Meta](#meta) (13)
 - [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (1)
-- [Microchip Technology](#microchip-technology) (7)
+- [Microchip Technology](#microchip-technology) (8)
 - [Microsoft](#microsoft) (5)
 - [Midmark ](#midmark) (1)
 - [Mindsmith](#mindsmith) (1)
@@ -545,7 +543,7 @@
 - [Tenstorrent](#tenstorrent) (6)
 - [Terranova](#terranova) (1)
 - [Terranox AI](#terranox-ai) (1)
-- [Tesla](#tesla) (85)
+- [Tesla](#tesla) (87)
 - [Tessera Labs](#tessera-labs) (1)
 - [TETRAMEM](#tetramem) (1)
 - [Tevora](#tevora) (8)
@@ -740,6 +738,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [【MBA Class of 2028／Internship】Finance Manager, Amazon Japan](https://amazon.jobs/en/jobs/10491120/mba-class-of-2028-internship-finance-manager-amazon-japan) | 30 | Tokyo | Finance & Accounting | 2026-08-04 |
 | [2027 MBA Pathways Operations Manager Intern (Nationwide Opportunities)](https://amazon.jobs/en/jobs/10491075/2027-mba-pathways-operations-manager-intern-nationwide-opportunities) | 50 | Seattle | Administrative Support | 2026-08-04 |
 | [Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://amazon.jobs/en/jobs/10491025/summer-2027-aws-human-resources-leadership-development-program-internship-aws) | 50 | Seattle | Human Resources | 2026-08-03 |
 | [Graduate Area/Shift Manager - Lombardia](https://amazon.jobs/en/jobs/10467985/graduate-area-shift-manager-lombardia) | 56 | Origgio | Fulfillment & Operations Management | 2026-07-31 |
@@ -801,6 +800,7 @@
 | [2027 Applied Science Intern (Machine Learning, Recommender Systems), Amazon International Machine Learning](https://amazon.jobs/en/jobs/10456239/2027-applied-science-intern-machine-learning-recommender-systems-amazon-international-machine-learning) | 60 | Melbourne | Research Science | 2026-07-20 |
 | [Quality Assurance Eng. Intern, 2026 Beijing](https://amazon.jobs/en/jobs/3149135/quality-assurance-eng-intern-2026-beijing) | 60 | Beijing | Systems, Quality, & Security Engineering | 2026-07-20 |
 | [Software Development Intern, Intech](https://amazon.jobs/en/jobs/3120598/software-development-intern-intech) | 60 | Virtual | Administrative Support | 2026-07-20 |
+| [2026 Graduate Brand Analyst, Amazon Vendor Services](https://amazon.jobs/en/jobs/3178509/2026-graduate-brand-analyst-amazon-vendor-services) | 56 | Sydney | Buying, Planning, & Instock Management | 2026-07-20 |
 | [2027 Graduate Area Manager, Operations](https://amazon.jobs/en/jobs/10452287/2027-graduate-area-manager-operations) | 56 | Kemps Creek | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Area Manager](https://amazon.jobs/en/jobs/10457588/graduate-area-manager) | 56 | Dortmund | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Area Manager](https://amazon.jobs/en/jobs/10412234/graduate-area-manager) | 56 | Swiebodzin | Fulfillment & Operations Management | 2026-07-20 |
@@ -830,7 +830,6 @@
 | [Graduate Area/Shift Manager - Veneto](https://amazon.jobs/en/jobs/3165132/graduate-area-shift-manager-veneto) | 56 | Rovigo | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Area/Shift Manager Emilia-Romagna](https://amazon.jobs/en/jobs/10457654/graduate-area-shift-manager-emilia-romagna) | 56 | Spilamberto | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Area/Shift Manager Friuli-Venezia Giulia](https://amazon.jobs/en/jobs/10478831/graduate-area-shift-manager-friuli-venezia-giulia) | 56 | Udine | Fulfillment & Operations Management | 2026-07-20 |
-| [Graduate Brand Analyst, Amazon Vendor Services](https://amazon.jobs/en/jobs/3178509/graduate-brand-analyst-amazon-vendor-services) | 56 | Sydney | Buying, Planning, & Instock Management | 2026-07-20 |
 | [Graduate HR Partner](https://amazon.jobs/en/jobs/10467273/graduate-hr-partner) | 56 | Rheinberg | Human Resources | 2026-07-20 |
 | [Graduate HR Partner](https://amazon.jobs/en/jobs/10452666/graduate-hr-partner) | 56 | Contwig | Human Resources | 2026-07-20 |
 | [Graduate HR Partner](https://amazon.jobs/en/jobs/10465722/graduate-hr-partner) | 56 | Moenchengladbach | Human Resources | 2026-07-20 |
@@ -885,7 +884,6 @@
 | [Engineering Intern](https://amazon.jobs/en/jobs/3083050/engineering-intern) | 50 | Agognate | Corporate Operations | 2026-07-20 |
 | [Fall 2026 Applied Science Internship - Canada, PhD Student Science Recruiting](https://amazon.jobs/en/jobs/10394248/fall-2026-applied-science-internship-canada-phd-student-science-recruiting) | 50 | Vancouver | Applied Science | 2026-07-20 |
 | [Financial Analyst I Intern](https://amazon.jobs/en/jobs/10452956/financial-analyst-i-intern) | 50 | San Jose | Administrative Support | 2026-07-20 |
-| [HR Assistant Intern](https://amazon.jobs/en/jobs/3092498/hr-assistant-intern) | 50 | Mexico City | Administrative Support | 2026-07-20 |
 | [Mechanical Process Engineer Intern, 2026 Internship, Shenzhen, China](https://amazon.jobs/en/jobs/3149573/mechanical-process-engineer-intern-2026-internship-shenzhen-china) | 50 | Shenzhen | Hardware Development | 2026-07-20 |
 | [Program Manager Intern](https://amazon.jobs/en/jobs/10410587/program-manager-intern) | 50 | Mexico City | Administrative Support | 2026-07-20 |
 | [Reliability, Maintenance & Engineering Intern](https://amazon.jobs/en/jobs/10471667/reliability-maintenance-engineering-intern) | 50 | Mexico City | Administrative Support | 2026-07-20 |
@@ -942,6 +940,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Product Management Intern](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916) | 50 | NYC | Product | 2026-08-04 |
 | [Campus Undergraduate Summer Internship - Strategy & Analytics - Credit & Fraud Risk](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011984) | 60 | NYC | AI/ML/Data | 2026-08-03 |
 | [Undergraduate Intern - Strategy & Analytics](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011990) | 60 | Phoenix, AZ | AI/ML/Data | 2026-08-03 |
 | [Digital Product Analyst Intern](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011918) | 50 | NYC | Product | 2026-08-03 |
@@ -1759,6 +1758,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Marketing Programs and Analytics Intern](https://boards.greenhouse.io/cloudflare/jobs/8104138) | 48 | Austin, TX | AI/ML/Data | 2026-08-04 |
 | [Marketing Programs and Analytics Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8104138?gh_jid=8104138) | 38 | In-Office | — | 2026-08-04 |
 | [Technical Marketing Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8104024?gh_jid=8104024) | 38 | In-Office | — | 2026-08-04 |
 | [Brand Social Media Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8054093?gh_jid=8054093) | 58 | In-Office | — | 2026-08-03 |
@@ -2834,12 +2834,6 @@
 | --- | --- | --- | --- | --- |
 | [Research Intern](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Virtual-FL/Research-Intern_Req37325) | 68 | Florida | AI/ML/Data | 2026-07-21 |
 
-## iHerb
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Development Intern](https://job-boards.greenhouse.io/iherb/jobs/7776154003) | 68 | Remote in USA | Software | 2026-06-18 |
-
 ## IMC
 
 | Title | Score | Location | Department | First seen |
@@ -3173,12 +3167,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/kos.ai/efab6ffb-9658-47f7-8b5f-a295c55957d3/application) | 93 | SF | Software | 2026-08-01 |
 
-## KRAFTON
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Programming Intern](https://job-boards.greenhouse.io/studiokraftonboard/jobs/8613468002) | 68 | Montreal, QC, Canada | Software | 2026-06-30 |
-
 ## Landis+Gyr
 
 | Title | Score | Location | Department | First seen |
@@ -3404,6 +3392,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Engineering Intern - Software Development](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Software-Development-_R3371-26) | 60 | Houston, TX | Software | 2026-08-04 |
 | [Engineering Intern - Firmware Development](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Firmware-Development-_R3372-26) | 50 | Houston, TX | Hardware | 2026-08-04 |
 | [Intern-Engineering (Firmware Development)](https://microchiphr.wd5.myworkdayjobs.com/external/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Firmware-Development-_R3372-26) | 58 | TX - Houston - Compaq Center Dr | Hardware / Not stated | 2026-08-03 |
 | [Intern-Engineering (Software Development)](https://microchiphr.wd5.myworkdayjobs.com/external/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Software-Development-_R3371-26) | 68 | TX - Houston - Compaq Center Dr | Software / Not stated | 2026-08-03 |
@@ -4074,7 +4063,7 @@
 | [Machine Learning Engineer Intern - Planning](https://jobs.lever.co/plus-2/91a07eb1-2244-48bf-a65b-dc166a327ddc/apply) | 93 | Santa Clara, CA | AI/ML/Data | 2026-05-24 |
 | [Scenario Simulation Intern](https://jobs.lever.co/plus-2/b4f750e7-0148-41f0-b2b1-ff054450a320/apply) | 68 | Santa Clara, CA | AI/ML/Data | 2026-05-23 |
 | [Research Engineer Intern - Control](https://jobs.lever.co/plus-2/ac7f8f73-88d0-48d5-8d4f-71ed4cfa6ecc/apply) | 93 | Santa Clara, CA | AI/ML/Data | 2026-05-23 |
-| [Machine Learning Engineer Intern](https://jobs.lever.co/plus-2/b69c9b6d-483f-41d4-b487-97c99332ca40/apply) | 93 | Santa Clara, CA | AI/ML/Data | 2026-05-19 |
+| [Machine Learning Engineer Intern](https://jobs.lever.co/plus-2/5d71c173-fef1-409f-b3f0-750e3b828266/apply) | 93 | Santa Clara, CA | AI/ML/Data | 2026-05-19 |
 
 ## PNC Financial Services
 
@@ -4387,7 +4376,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [ML/NLP Research Intern](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8541339002) | 68 | Mountain View, CA | AI/ML/Data | 2026-05-09 |
+| [2026 Fall Intern, ML/NLP Research](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8541339002) | 68 | 665 Clyde Avenue, Mountain View,  CA, USA | Data & ML/AI / Fall 2026 | 2026-08-04 |
 
 ## Sandhills Global
 
@@ -4830,6 +4819,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data Engineer Intern - Cell Engineering](https://www.tesla.com/careers/search/job/278622) | 85 | Palo Alto, CA | AI/ML/Data | 2026-08-04 |
+| [Cell Engineering Intern - Cell Qualification](https://www.tesla.com/careers/search/job/278620) | 60 | Palo Alto, CA / San Diego, CA | AI/ML/Data | 2026-08-04 |
 | [Vehicle Software Intern - Vehicle Software Engineer-Diagnostic User Interface](https://www.tesla.com/careers/search/job/278703) | 85 | Palo Alto, CA | Software | 2026-07-31 |
 | [Software Engineer Intern - Software Engineer - AI Infrastructure](https://www.tesla.com/careers/search/job/278578) | 85 | Palo Alto, CA | Software | 2026-07-30 |
 | [Charging Data Modeling Intern - Charging Data Modeling - Machine Learning Engineer](https://www.tesla.com/careers/search/job/278249) | 85 | Palo Alto, CA | AI/ML/Data | 2026-07-28 |
