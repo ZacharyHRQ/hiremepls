@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-04T15:42:03.554Z",
+  "generatedAt": "2026-08-04T17:19:05.834Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1825,
+  "jobCount": 1826,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -632,7 +632,6 @@
     "canonical:e0d9e6d1c80a362f": "2026-07-13T09:28:03.797Z",
     "canonical:328db5146f8a7f95": "2026-07-13T09:28:03.797Z",
     "canonical:2db16c4eefaac9f3": "2026-07-13T09:28:03.797Z",
-    "canonical:bb57cdbefd819b25": "2026-07-13T09:28:03.797Z",
     "canonical:6bc029b682edad7b": "2026-07-13T09:28:03.797Z",
     "canonical:5e23cf54210c9ea5": "2026-07-14T00:56:03.544Z",
     "canonical:6e5b1d4022fe8ec1": "2026-07-14T00:56:03.544Z",
@@ -733,7 +732,6 @@
     "canonical:fcbdf875a9443293": "2026-07-20T23:30:05.931Z",
     "canonical:80ac048bab3755ae": "2026-07-20T23:30:05.931Z",
     "canonical:498dd379fab5ddbe": "2026-07-20T23:30:05.931Z",
-    "canonical:7111b148790400b1": "2026-07-20T23:30:05.931Z",
     "canonical:680d2a2bdeaa88c1": "2026-07-20T23:30:05.931Z",
     "canonical:48a0612444cb233e": "2026-07-20T23:30:05.931Z",
     "canonical:6f6f5cb6ae78fead": "2026-07-20T23:30:05.931Z",
@@ -1828,7 +1826,10 @@
     "canonical:dd18ddea0891a402": "2026-08-04T15:42:03.554Z",
     "canonical:1f53ed947ec7aba6": "2026-08-04T15:42:03.554Z",
     "canonical:f7a61eb1ff3447c5": "2026-08-04T15:42:03.554Z",
-    "canonical:39b952a6e394b9d9": "2026-08-04T15:42:03.554Z"
+    "canonical:39b952a6e394b9d9": "2026-08-04T15:42:03.554Z",
+    "canonical:fc88d88d07c0c6cd": "2026-08-04T17:19:05.834Z",
+    "canonical:7cf4badefc5f7512": "2026-08-04T17:19:05.834Z",
+    "canonical:e2c152c623d8c2e3": "2026-08-04T17:19:05.834Z"
   },
   "jobs": [
     {
@@ -4676,19 +4677,6 @@
       ]
     },
     {
-      "id": "canonical:7111b148790400b1",
-      "title": "2026 Australia Software Engineering Internship",
-      "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5033765007",
-      "location": "Sydney",
-      "department": "",
-      "company": "The Trade Desk",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:b06ae83b159eb239",
       "title": "2027 North America Software Engineering Internship",
       "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007",
@@ -4730,6 +4718,20 @@
       "company": "Amazon",
       "score": 56,
       "scoreReasons": [
+        "new grad"
+      ]
+    },
+    {
+      "id": "canonical:fc88d88d07c0c6cd",
+      "title": "2026 Graduate Software Dev Engineer ",
+      "url": "https://amazon.jobs/en/jobs/10491309/2026-graduate-software-dev-engineer",
+      "location": "Tel Aviv",
+      "department": "Software Development",
+      "company": "Amazon",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
         "new grad"
       ]
     },
@@ -6574,18 +6576,6 @@
       ]
     },
     {
-      "id": "canonical:c4899e61c3f2d9c6",
-      "title": "Applied Research Intern Co-op",
-      "url": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Block",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:0942563fedd29433",
       "title": "Applied Research Intern PhD / Graduate Co-op",
       "url": "http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008",
@@ -6596,6 +6586,18 @@
       "scoreReasons": [
         "high-signal role",
         "new grad"
+      ]
+    },
+    {
+      "id": "canonical:c4899e61c3f2d9c6",
+      "title": "Applied Research Intern Co-op",
+      "url": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
+      "location": "Toronto, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "Block",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
       ]
     },
     {
@@ -7016,6 +7018,18 @@
       ]
     },
     {
+      "id": "canonical:7cf4badefc5f7512",
+      "title": "GRC Team Intern (Fall 2026) ",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8095533?gh_jid=8095533",
+      "location": "In-Office",
+      "department": "",
+      "company": "Cloudflare",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:9795d61afb3cfc4d",
       "title": "Marketing Events and Campaigns Intern (Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8053546?gh_jid=8053546",
@@ -7044,7 +7058,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -7068,7 +7082,7 @@
     {
       "id": "canonical:1a056010d15d11c7",
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -25079,8 +25093,8 @@
       ]
     },
     {
-      "id": "canonical:bb57cdbefd819b25",
-      "title": "Software Engineering Intern (HMI) - Fall 2026",
+      "id": "canonical:e2c152c623d8c2e3",
+      "title": "Software Engineering Intern (Command & Control) - Fall 2026",
       "url": "https://jobs.lever.co/hermeus/a3a1f0ea-6a4f-42e5-81c8-3b34dac22a67",
       "location": "Atlanta, GA",
       "department": "Software / Fall 2026",
