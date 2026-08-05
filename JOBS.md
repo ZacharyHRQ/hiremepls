@@ -1,6 +1,6 @@
 # Open Internships
 
-**1842** internships across **142/143** companies — last updated 2026-08-05.
+**1844** internships across **142/143** companies — last updated 2026-08-05.
 
 ## Companies
 
@@ -311,6 +311,7 @@
 - [Jade Global](#jade-global) (2)
 - [Jain Global](#jain-global) (1)
 - [Jane Street](#jane-street) (23)
+- [John Deere](#john-deere) (1)
 - [JP Morgan Chase](#jp-morgan-chase) (7)
 - [Jump Trading](#jump-trading) (48)
 - [Junior](#junior) (1)
@@ -458,6 +459,7 @@
 - [Pylon](#pylon) (1)
 - [Quadric](#quadric) (2)
 - [Quadrillion](#quadrillion) (3)
+- [Qualcomm](#qualcomm) (1)
 - [QuantCo](#quantco) (1)
 - [QuEra Computing](#quera-computing) (1)
 - [Quora](#quora) (2)
@@ -1757,13 +1759,13 @@
 | [AI Innovation Intern – Service Sales (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395) | 38 | In-Office | — | 2026-07-30 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-07-29 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Marketing Events and Campaigns Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8053546?gh_jid=8053546) | 38 | In-Office | — | 2026-07-09 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
 
 ## Cloudforce
 
@@ -3021,6 +3023,12 @@
 | [Software Engineering Intern](https://job-boards.greenhouse.io/janestreet/jobs/8419303002) | 68 | NYC | Software | 2026-07-20 |
 | [Cybersecurity Analyst: New Grad](https://www.janestreet.com/join-jane-street/apply/8613910002?gh_jid=8613910002) | 56 | New York, New York, United States | — | 2026-07-06 |
 
+## John Deere
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Advanced Engineering Student Intern - Product Engineering](https://johndeere.eightfold.ai/careers/job/137481393611) | 60 | Fargo, ND | Software | 2026-08-05 |
+
 ## JP Morgan Chase
 
 | Title | Score | Location | Department | First seen |
@@ -4103,8 +4111,8 @@
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-07-09 |
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-07-09 |
 | [Corporate Access, off-cycle internship (6-months) – Japanese speaking](https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002) | 58 | Hong Kong | — | 2026-06-30 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -4201,6 +4209,12 @@
 | [Software Engineering Intern](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05/application?embed=true) | 68 | NYC | Software | 2026-08-01 |
 | [Research Intern](https://jobs.ashbyhq.com/quadrillion-labs/579cef88-1dbf-45b5-a938-7ddc23505765/application?embed=true) | 68 | NYC | AI/ML/Data | 2026-08-01 |
 | [Software Engineering Intern (Summer 2027)](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05) | 68 | New York City | Software / Summer 2027 | 2026-07-24 |
+
+## Qualcomm
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI Integration & Interoperability Intern](https://qualcomm.eightfold.ai/careers/job/446716226621) | 60 | Cheektowaga, NY | Software | 2026-08-05 |
 
 ## QuantCo
 
