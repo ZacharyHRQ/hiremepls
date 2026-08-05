@@ -1,6 +1,6 @@
 # Open Internships
 
-**1851** internships across **142/143** companies — last updated 2026-08-05.
+**1849** internships across **142/143** companies — last updated 2026-08-05.
 
 ## Companies
 
@@ -10,7 +10,6 @@
 - [AccuWeather](#accuweather) (1)
 - [ACDS](#acds) (2)
 - [AcreTrader](#acretrader) (1)
-- [Adobe](#adobe) (1)
 - [Adtheorant](#adtheorant) (1)
 - [Advanced Energy](#advanced-energy) (1)
 - [AeroVironment](#aerovironment) (1)
@@ -120,7 +119,7 @@
 - [Ciena](#ciena) (7)
 - [Circle K](#circle-k) (1)
 - [Circleback](#circleback) (1)
-- [Cirrus Logic](#cirrus-logic) (3)
+- [Cirrus Logic](#cirrus-logic) (2)
 - [Cisive](#cisive) (1)
 - [Citadel](#citadel) (14)
 - [Citadel Securities](#citadel-securities) (11)
@@ -161,7 +160,7 @@
 - [DE Shaw](#de-shaw) (1)
 - [Dedalus Labs](#dedalus-labs) (1)
 - [Deepgram](#deepgram) (2)
-- [Definity Financial](#definity-financial) (3)
+- [Definity Financial](#definity-financial) (2)
 - [Delta Air Lines](#delta-air-lines) (1)
 - [Delta Dental](#delta-dental) (1)
 - [Denari](#denari) (1)
@@ -173,6 +172,7 @@
 - [Ditto](#ditto) (1)
 - [Doctors Without Borders](#doctors-without-borders) (1)
 - [Docugami](#docugami) (2)
+- [Draper](#draper) (1)
 - [Droyd Robotics](#droyd-robotics) (2)
 - [DRW](#drw) (25)
 - [Dryft](#dryft) (1)
@@ -462,13 +462,13 @@
 - [Quadrillion](#quadrillion) (3)
 - [Qualcomm](#qualcomm) (1)
 - [QuantCo](#quantco) (1)
-- [QuEra Computing](#quera-computing) (1)
 - [Quora](#quora) (2)
 - [Radix Trading](#radix-trading) (1)
 - [Rainmaker](#rainmaker) (1)
 - [Ramp](#ramp) (1)
 - [Red Bull](#red-bull) (1)
 - [Redwood Materials](#redwood-materials) (2)
+- [Regions Bank](#regions-bank) (1)
 - [Rendezvous Robotics](#rendezvous-robotics) (1)
 - [Reply](#reply) (1)
 - [RESPEC](#respec) (1)
@@ -671,12 +671,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Data Intern](https://ats.rippling.com/acretrader-jobs/jobs/e0192aa0-bd65-4262-81ed-d64685c7dc41) | 60 | Fayetteville, AR | AI/ML/Data | 2026-08-04 |
-
-## Adobe
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI/ML Intern – Machine Learning Engineer/Researcher Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706) | 93 | Seattle, WA / SF / San Jose, CA | AI/ML/Data | 2026-07-21 |
 
 ## Adtheorant
 
@@ -1676,7 +1670,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [AI Business Analytics Co-op Intern](https://jobs.eu.lever.co/cirrus/f85c944c-d437-4685-9f04-c7b79ae65ecb/apply) | 68 | Austin, TX | AI/ML/Data | 2026-08-01 |
 | [Embedded Software Test Engineer Intern](https://jobs.eu.lever.co/cirrus/2926421c-691a-434a-ae59-c828e7fcbf5b) | 93 | Austin, TX | — | 2026-07-31 |
 | [Embedded Software AI Intern Co-op](https://jobs.eu.lever.co/cirrus/3d6df577-91f6-4b58-9e7f-c982e49ff515/apply) | 68 | Austin, TX | Hardware | 2026-07-01 |
 
@@ -1992,7 +1985,6 @@
 | --- | --- | --- | --- | --- |
 | [Technology Solutions Data Platform & Engineering Co-op/Intern](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9124) | 60 | Toronto, ON, Canada | AI/ML/Data | 2026-06-20 |
 | [Reporting Specialist Co-op/Intern](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9150) | 60 | Mississauga, ON, Canada / Kitchener, ON, Canada | AI/ML/Data | 2026-06-17 |
-| [Data Analyst Co-op/Intern](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9152) | 60 | Toronto, ON, Canada | AI/ML/Data | 2026-06-17 |
 
 ## Delta Air Lines
 
@@ -2060,6 +2052,12 @@
 | --- | --- | --- | --- | --- |
 | [Data Science PhD Intern](https://job-boards.greenhouse.io/docugami/jobs/4192122003) | 68 | Kirkland, WA | AI/ML/Data | 2026-07-05 |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/docugami/jobs/4014838003) | 93 | Kirkland, WA | Software | 2026-05-15 |
+
+## Draper
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Embedded Quality & Fielded Systems Intern](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Embedded-Quality---Fielded-Systems-Intern_JR002718) | 68 | Cambridge, MA | Software / Not stated | 2026-08-05 |
 
 ## Droyd Robotics
 
@@ -4231,12 +4229,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://jobs.lever.co/quantco-/d69096fa-b673-4953-ba63-7deee08bc13c/apply) | 93 | London, UK / Bellheim, Germany / Wenden, Germany / Berlin, Germany / Munich, Germany | Software | 2026-07-20 |
 
-## QuEra Computing
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Photonics Data Engineer Intern - Data Management](https://job-boards.greenhouse.io/queracomputinginc/jobs/5378366008) | 93 | Boston, MA | AI/ML/Data | 2026-08-03 |
-
 ## Quora
 
 | Title | Score | Location | Department | First seen |
@@ -4274,6 +4266,12 @@
 | --- | --- | --- | --- | --- |
 | [Embedded Software Engineer Intern](https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004) | 93 | SF | Hardware | 2026-07-29 |
 | [Embedded Software Engineer Intern - Fall 2026](https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004?gh_jid=6126784004) | 93 | San Francisco, California, United States | Software / Fall 2026 | 2026-07-29 |
+
+## Regions Bank
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [2027 ETP Intern – Corporate Banking Group, Commercial Credit Products, Mobile, AL](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Mobile-AL---RSA-Tower/XMLNAME-2027-ETP-Intern---Corporate-Banking-Group--Commercial-Credit-Products--Mobile--AL_R104975) | 68 | Mobile, AL - RSA Tower | Software / Summer 2027 | 2026-08-05 |
 
 ## Rendezvous Robotics
 
