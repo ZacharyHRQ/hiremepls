@@ -1,6 +1,6 @@
 # Open Internships
 
-**1844** internships across **142/143** companies — last updated 2026-08-05.
+**1845** internships across **142/143** companies — last updated 2026-08-05.
 
 ## Companies
 
@@ -20,7 +20,7 @@
 - [AlixPartners](#alixpartners) (1)
 - [Alljoined](#alljoined) (1)
 - [Altom Transport](#altom-transport) (2)
-- [Amazon](#amazon) (170)
+- [Amazon](#amazon) (169)
 - [Ambarella](#ambarella) (8)
 - [Amentum](#amentum) (1)
 - [American Enterprise Institute](#american-enterprise-institute) (3)
@@ -88,6 +88,7 @@
 - [Blue Cross Blue Shield of Michigan](#blue-cross-blue-shield-of-michigan) (1)
 - [Blue River Technology](#blue-river-technology) (1)
 - [BNP Paribas](#bnp-paribas) (1)
+- [Boeing](#boeing) (1)
 - [Bombardier](#bombardier) (1)
 - [BorgWarner](#borgwarner) (1)
 - [Bosch](#bosch) (4)
@@ -97,7 +98,7 @@
 - [Bree](#bree) (1)
 - [Brio Water Technology](#brio-water-technology) (1)
 - [Brookfield](#brookfield) (2)
-- [ByteDance](#bytedance) (36)
+- [ByteDance](#bytedance) (37)
 - [Cadence Design Systems](#cadence-design-systems) (6)
 - [CAE](#cae) (1)
 - [CALSTART](#calstart) (3)
@@ -113,7 +114,6 @@
 - [Chainguard](#chainguard) (1)
 - [Chanel](#chanel) (1)
 - [Chartwells Higher Education Dining Services](#chartwells-higher-education-dining-services) (1)
-- [CHEP](#chep) (1)
 - [Cherry Bekaert](#cherry-bekaert) (2)
 - [Chevron Corporation](#chevron-corporation) (4)
 - [Chicago Trading Company](#chicago-trading-company) (5)
@@ -144,7 +144,7 @@
 - [ConocoPhillips](#conocophillips) (2)
 - [Constellation Space](#constellation-space) (1)
 - [Cooper Companies](#cooper-companies) (1)
-- [Copart](#copart) (6)
+- [Copart](#copart) (5)
 - [Core & Main](#core-main) (2)
 - [Cotiviti](#cotiviti) (3)
 - [Creatify Lab ](#creatify-lab) (1)
@@ -358,7 +358,7 @@
 - [Meshy](#meshy) (2)
 - [Meta](#meta) (13)
 - [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (2)
-- [Microchip Technology](#microchip-technology) (8)
+- [Microchip Technology](#microchip-technology) (7)
 - [Micron Technology](#micron-technology) (1)
 - [Microsoft](#microsoft) (14)
 - [Midmark ](#midmark) (1)
@@ -371,7 +371,6 @@
 - [Moog](#moog) (1)
 - [Moog ](#moog) (1)
 - [Moon](#moon) (1)
-- [Motorola](#motorola) (1)
 - [Multiply Labs](#multiply-labs) (2)
 - [Muru](#muru) (2)
 - [MyEmployment](#myemployment) (1)
@@ -381,6 +380,7 @@
 - [NationGraph](#nationgraph) (1)
 - [Nationwide Children's Hospital](#nationwide-children-s-hospital) (1)
 - [Naver U.Hub INC](#naver-u-hub-inc) (1)
+- [NAXO](#naxo) (1)
 - [NBCUniversal](#nbcuniversal) (2)
 - [Nebo](#nebo) (3)
 - [Nelnet](#nelnet) (2)
@@ -411,7 +411,6 @@
 - [Obsidian Solutions Group](#obsidian-solutions-group) (1)
 - [Occidental Petroleum](#occidental-petroleum) (1)
 - [Octaura](#octaura) (1)
-- [Odin Dynamics, Inc](#odin-dynamics-inc) (1)
 - [Old Mission](#old-mission) (5)
 - [Old Mission Capital](#old-mission-capital) (1)
 - [Oligo Space](#oligo-space) (1)
@@ -562,7 +561,7 @@
 - [Thomson Reuters](#thomson-reuters) (1)
 - [thyssenkrupp](#thyssenkrupp) (2)
 - [TIFIN](#tifin) (1)
-- [TikTok](#tiktok) (94)
+- [TikTok](#tiktok) (98)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
 - [TMX Group](#tmx-group) (1)
@@ -913,7 +912,6 @@
 | [Software Development Engineer Intern](https://www.amazon.jobs/en/jobs/3101249/software-development-engineer-internship-winter-2026-us) | 85 | Phoenix, AZ / Tempe, AZ / Berkeley, CA / Culver City, CA / Cupertino, CA / East Palo Alto, CA / Irvine, CA / Los Angeles, CA / Manhattan Beach, CA / Palo Alto, CA / San Diego, CA / San Francisco, CA / San Jose, CA / San Luis Obispo, CA / Santa Barbara, CA / Santa Clara, CA / Santa Cruz, CA / Santa Monica, CA / Sunnyvale, CA / Boulder, CO / Denver, CO / Atlanta, GA / Kennesaw, GA / Chicago, IL / Boston, MA / Cambridge, MA / Hudson, MA / North Reading, MA / Westborough, MA / Baltimore, MD / Detroit, MI / Minneapolis, MN / Jersey City, NJ / New York, NY / Portland, OR / Philadelphia, PA / Pittsburgh, PA / Nashville, TN / Austin, TX / Dallas, TX / Arlington, VA / Herndon, VA / Madison, WI / Bellevue, WA / Seattle, WA / Redmond, WA | — | 2026-07-09 |
 | [2026 Business Analyst Intern](https://www.linkedin.com/jobs/view/4276977256) | 42 | Seattle, WA | — | 2026-07-09 |
 | [Software Development Engineer Internship - Summer 2026 - US](https://amazon.jobs/en/jobs/3116030/software-development-engineer-internship-summer-2026-us) | 85 | Seattle, WA | Software | 2026-05-15 |
-| [Amazon Robotics – Applied Scientist 2 Intern / Co-op - 2026](https://amazon.jobs/en/jobs/3104589/amazon-robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more) | 85 | Seattle, WA / Wakefield, MA / Westborough, MA | AI/ML/Data | 2026-05-09 |
 | [Software Development Engineer Intern - Military Veteran](https://amazon.jobs/en/jobs/3179209/software-development-engineer-internship-military-veteran) | 85 | NYC / Culver City, CA / Santa Clara, CA / Boston, MA / Seattle, WA / Denver, CO / SF / Arlington, VA / Sunnyvale, CA / Brooklyn, NY / Williston Park, NY | Software | 2026-05-09 |
 
 ## Ambarella
@@ -1393,6 +1391,12 @@
 | --- | --- | --- | --- | --- |
 | [2026 - Summer Analyst Internship – CIB Functions, Enterprise Services](https://www.linkedin.com/jobs/view/4233229433) | 42 | Jersey City, NJ | — | 2026-07-09 |
 
+## Boeing
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data Analytics Intern](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/details/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1?q=JR2026520976) | 58 | Everett, WA / Saint Charles, MO / Huntsville, AL / Charleston, SC / Oklahoma City, OK / Berkeley, MO / Huntington Beach, CA / Hazelwood, MO / El Segundo, CA / Herndon, VA / Plano, TX / Arlington, VA / Ridley Park, PA / Tukwila, WA / North Charleston, SC / Fairfax, VA / Colorado Springs, CO / Chicago, IL / Seal Beach, CA / Mukilteo, WA / Long Beach, CA / Atlanta, GA / Renton, WA / Dallas, TX / Seattle, WA / Auburn, WA / Bellevue, WA / San Antonio, TX / Kent, WA / Mesa, AZ / Tukwila, WA | — | 2026-08-05 |
+
 ## Bombardier
 
 | Title | Score | Location | Department | First seen |
@@ -1459,6 +1463,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Student Researcher Intern - AI Foundation Models Infrastructure - Seed Infra](https://jobs.bytedance.com/en/position/7670330161462364421/detail) | 85 | Seattle, WA | AI/ML/Data | 2026-08-05 |
 | [Software Engineer Intern, Distributed NoSQL Database Systems](https://joinbytedance.com/search/7668373268886161669) | 85 | Seattle, WA | — | 2026-08-04 |
 | [Software Engineer Intern - AI Platform](https://jobs.bytedance.com/en/position/7668212952030841093/detail) | 85 | San Jose, CA | Software | 2026-08-04 |
 | [Network Security Software Engineer Intern - Security Engineering](https://jobs.bytedance.com/en/position/7667876489597257989/detail) | 85 | San Jose, CA | Software | 2026-08-03 |
@@ -1611,12 +1616,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Field Marketing Intern, Chartwells Higher Ed / University of North Carolina](https://www.linkedin.com/jobs/view/4261076817) | 22 | Charlotte, NC | — | 2026-07-09 |
-
-## CHEP
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [FP&A Business Intelligence Intern](https://brambles.wd5.myworkdayjobs.com/en-US/Brambles_Careers/job/London-England-United-Kingdom/FP-A-Business-Intelligence-Intern_JR23946-1) | 68 | London, UK / Orlando, FL / Atlanta, GA | AI/ML/Data | 2026-08-04 |
 
 ## Cherry Bekaert
 
@@ -1872,7 +1871,6 @@
 | [Data Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Engineering-Intern_JR110075) | 93 | Dallas, TX | AI/ML/Data | 2026-08-01 |
 | [Technology Product Analyst Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107890) | 58 | Dallas, TX | Product | 2026-08-01 |
 | [Database Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Database-Engineering-Intern_JR109636) | 93 | Dallas, TX | Software | 2026-08-01 |
-| [Software Engineering Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR106129) | 68 | Dallas, TX | Software | 2026-07-23 |
 | [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393) | 93 | Dallas, TX | Software | 2026-07-21 |
 | [DevOps Engineering Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/DevOps-Engineering-Intern_JR109490) | 68 | Dallas, TX - Headquarters | Software / Not stated | 2026-07-20 |
 
@@ -2839,7 +2837,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Graduate Quant Researcher](https://job-boards.eu.greenhouse.io/imc/jobs/4939821101) | 99 | Amsterdam, Netherlands | — | 2026-07-31 |
+| [Graduate Quantitative Researcher](https://job-boards.eu.greenhouse.io/imc/jobs/4939821101) | 99 | Amsterdam, Netherlands | — | 2026-08-05 |
 | [Software Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4667854101) | 93 | Amsterdam, Netherlands | — | 2026-07-31 |
 | [Quantitative Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4936262101) | 68 | Amsterdam, Netherlands | — | 2026-07-31 |
 | [Graduate Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4667815101) | 64 | Amsterdam, Netherlands | — | 2026-07-31 |
@@ -3413,7 +3411,6 @@
 | [Equipment Engineering Technician Intern - Metrology](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/OR---Gresham/Intern-Equipment-Engineering-Technician--Metrology-_R3077-26) | 50 | Fairview, OR | Hardware | 2026-08-01 |
 | [Equipment Engineering Technician Intern - Wet Process](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/OR---Gresham/Intern--Equipment-Engineering-Technician--Wet-Process-_R2124-25) | 50 | Gresham, OR | Hardware | 2026-08-01 |
 | [Intern Technician - Electronics](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/PA---Mount-Holly-Springs/Intern-Technician--Electronics-_R847-26) | 50 | Carlisle, PA | Hardware | 2026-08-01 |
-| [Power, Analog and Mixed-Signal IC Product Engineer Intern - Product Engineering](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Product-Engineering-_R3151-26-1) | 85 | Chandler, AZ | Software | 2026-08-01 |
 
 ## Micron Technology
 
@@ -3502,12 +3499,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern, Backend & API](https://ats.rippling.com/en-GB/moon/jobs/8b81bca7-1a64-4377-8ea8-869aac03080b) | 85 | Glendale, CA | — | 2026-07-23 |
 
-## Motorola
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Intern - Embedded Software, System, and Test Engineer - 2026](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/Intern---Embedded-Software--System--and-Test-Engineer---2026_R62372) | 93 | Irvine, CA | Software / Fall 2026 | 2026-08-05 |
-
 ## Multiply Labs
 
 | Title | Score | Location | Department | First seen |
@@ -3569,6 +3560,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Product Management Intern](https://naveruhubinc.applytojob.com/apply/snw35vU7eX/ThingsBook-Product-Management-Intern) | 50 | Redwood City, CA | Product | 2026-08-03 |
+
+## NAXO
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Technical Investigations Support Intern](https://ats.rippling.com/naxo/jobs/09e22a83-c30d-47ce-903d-f684e17f656c) | 60 | NYC | AI/ML/Data | 2026-08-05 |
 
 ## NBCUniversal
 
@@ -3771,12 +3768,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Intern – Data Engineering](https://job-boards.greenhouse.io/octaura/jobs/4662934007) | 68 | NYC | AI/ML/Data | 2026-07-13 |
-
-## Odin Dynamics, Inc
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Engineering Intern](https://jobs.ashbyhq.com/odin-dynamics/db6fe6ed-3517-423d-a757-3b6edea4b51d/application?embed=true) | 58 | LA | Hardware | 2026-08-01 |
 
 ## Old Mission
 
@@ -5049,6 +5040,10 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Backend Software Engineer Intern - Creation Platform](https://lifeattiktok.com/search/7670289874020993285) | 85 | San Jose, CA | Software | 2026-08-05 |
+| [Data Engineer Intern - Ads Targeting](https://lifeattiktok.com/search/7668533140146817333) | 85 | San Jose, CA | AI/ML/Data | 2026-08-05 |
+| [Data Scientist Intern - VOD Data](https://lifeattiktok.com/search/7670287013157095733) | 85 | San Jose, CA | AI/ML/Data | 2026-08-05 |
+| [Machine Learning Engineer Intern - Search](https://lifeattiktok.com/search/7668396597746862341) | 85 | Seattle, WA | AI/ML/Data | 2026-08-05 |
 | [Machine Learning Engineer Intern - Data-Global E-Commerce-Search](https://lifeattiktok.com/search/7668415591670417717) | 85 | Seattle, WA | AI/ML/Data | 2026-08-05 |
 | [Data Science Intern - TikTok Product](https://lifeattiktok.com/search/7669683639101884725) | 60 | San Jose, CA | AI/ML/Data | 2026-08-05 |
 | [Product Operations Intern - Apps and API](https://lifeattiktok.com/search/7669927344569764101) | 50 | Seattle, WA | Product | 2026-08-05 |

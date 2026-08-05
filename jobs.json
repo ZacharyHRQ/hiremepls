@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-05T07:31:57.239Z",
+  "generatedAt": "2026-08-05T10:14:13.679Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1844,
+  "jobCount": 1845,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -26,7 +26,6 @@
     "canonical:6a8c381d419eba3a": "2026-05-06T06:42:07.596Z",
     "canonical:25a35a8868c43e61": "2026-05-06T06:42:07.596Z",
     "canonical:d277a6a426412a6c": "2026-05-06T06:42:07.596Z",
-    "canonical:a85d35081103309e": "2026-05-09T15:28:15.527Z",
     "canonical:d46502a1f7280b8f": "2026-05-09T15:28:15.527Z",
     "canonical:4a7e7f97cc1efba4": "2026-05-09T15:28:15.527Z",
     "canonical:0a664938fd8f726f": "2026-05-15T23:35:38.383Z",
@@ -1067,7 +1066,6 @@
     "canonical:a08081e95a533131": "2026-07-23T09:33:37.593Z",
     "canonical:321021f4a1164f56": "2026-07-23T09:33:37.593Z",
     "canonical:bc5c9009a8514433": "2026-07-23T11:29:56.453Z",
-    "canonical:79cfcc7e8096fa91": "2026-07-23T13:01:14.511Z",
     "canonical:c686a4438be89e1f": "2026-07-23T13:01:14.511Z",
     "canonical:2d1db51a4619b0f0": "2026-07-23T13:01:14.511Z",
     "canonical:657f691a0a88c3ba": "2026-07-23T13:01:14.511Z",
@@ -1286,7 +1284,6 @@
     "canonical:72a13f956e90ff2e": "2026-07-31T13:38:45.202Z",
     "canonical:cd4af5c4366cd50d": "2026-07-31T13:38:45.202Z",
     "canonical:0c4da77069236a47": "2026-07-31T13:38:45.202Z",
-    "canonical:e537be9dabef7330": "2026-07-31T15:47:34.445Z",
     "canonical:d3e044a7cf0a5bf2": "2026-07-31T15:47:34.445Z",
     "canonical:ed8d693a066bee89": "2026-07-31T15:47:34.445Z",
     "canonical:a590feb891f64fd6": "2026-07-31T15:47:34.445Z",
@@ -1326,7 +1323,6 @@
     "canonical:1f38e65fda3dd0ea": "2026-07-31T23:39:05.867Z",
     "canonical:f9b7a6c3ada9dd55": "2026-07-31T23:39:05.867Z",
     "canonical:7756f5c0ccf773ae": "2026-08-01T01:11:39.659Z",
-    "canonical:e0e6eb4065078ce5": "2026-08-01T04:33:44.989Z",
     "canonical:da17fa2a382986c7": "2026-08-01T04:33:44.989Z",
     "canonical:654cca24226e8e3c": "2026-08-01T04:33:44.989Z",
     "canonical:357d504c8f658c9e": "2026-08-01T09:19:26.401Z",
@@ -1505,7 +1501,6 @@
     "canonical:62c4660c60ba11dc": "2026-08-01T20:39:53.991Z",
     "canonical:cd090e03edcb6380": "2026-08-01T20:39:53.991Z",
     "canonical:3064ebd205b9b80d": "2026-08-01T20:39:53.991Z",
-    "canonical:27bdb3f23ff4322a": "2026-08-01T20:39:53.991Z",
     "canonical:7c5d7d5814a19bff": "2026-08-01T20:39:53.991Z",
     "canonical:da0234b2290b1dd0": "2026-08-01T20:39:53.991Z",
     "canonical:5af9b95a04c883c1": "2026-08-01T20:39:53.991Z",
@@ -1772,7 +1767,6 @@
     "canonical:abe137a4dc363a6d": "2026-08-04T09:06:37.515Z",
     "canonical:9d563730afb6f774": "2026-08-04T09:06:37.515Z",
     "canonical:c246f55f8c194616": "2026-08-04T11:32:00.975Z",
-    "canonical:c1817238d89b26e3": "2026-08-04T11:32:00.975Z",
     "canonical:525d35ef69b019bc": "2026-08-04T11:32:00.975Z",
     "canonical:365dd2be3b3a9b78": "2026-08-04T11:32:00.975Z",
     "canonical:4f4a3d169d3ec42f": "2026-08-04T11:32:00.975Z",
@@ -1845,9 +1839,16 @@
     "canonical:21e178f2faf3da7e": "2026-08-05T01:39:42.673Z",
     "canonical:3432b7d35558fc51": "2026-08-05T01:39:42.673Z",
     "canonical:d540857d7d0ba219": "2026-08-05T01:39:42.673Z",
-    "canonical:d036fda9de6fb486": "2026-08-05T04:47:18.487Z",
     "canonical:868e1614ff290f4d": "2026-08-05T07:31:57.239Z",
-    "canonical:eaeb61aaf6a23a04": "2026-08-05T07:31:57.239Z"
+    "canonical:eaeb61aaf6a23a04": "2026-08-05T07:31:57.239Z",
+    "canonical:3f149cc99cee7477": "2026-08-05T10:14:13.679Z",
+    "canonical:da67e62a9d5c25d9": "2026-08-05T10:14:13.679Z",
+    "canonical:7c526bf806a51d5a": "2026-08-05T10:14:13.679Z",
+    "canonical:5229003ab8416048": "2026-08-05T10:14:13.679Z",
+    "canonical:2c9a15d62874bca8": "2026-08-05T10:14:13.679Z",
+    "canonical:3bed837f5a3edcbd": "2026-08-05T10:14:13.679Z",
+    "canonical:ff9c07a03129ef85": "2026-08-05T10:14:13.679Z",
+    "canonical:5e185fa8c0f97aea": "2026-08-05T10:14:13.679Z"
   },
   "jobs": [
     {
@@ -1995,6 +1996,21 @@
       ]
     },
     {
+      "id": "canonical:3f149cc99cee7477",
+      "title": "Graduate Quantitative Researcher",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4939821101",
+      "location": "Amsterdam, Netherlands",
+      "department": "",
+      "company": "IMC Trading",
+      "score": 99,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:09bbbe30e614c9ef",
       "title": "Graduate Quantitative Researcher (BS/MS)",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907368101",
@@ -2039,21 +2055,6 @@
       ]
     },
     {
-      "id": "canonical:e537be9dabef7330",
-      "title": "Graduate Quant Researcher",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4939821101",
-      "location": "Amsterdam, Netherlands",
-      "department": "",
-      "company": "IMC Trading",
-      "score": 99,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:8159e92c8a8fb0d3",
       "title": "Graduate Quant Researcher - Digital Assets ",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4892687101",
@@ -2069,10 +2070,10 @@
       ]
     },
     {
-      "id": "canonical:cc5154b2bc1dc1f6",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4818790101",
-      "location": "Chicago, United States",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917773101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -2084,10 +2085,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:cc5154b2bc1dc1f6",
       "title": "Graduate Software Engineer",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917773101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4818790101",
+      "location": "Chicago, United States",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -7337,19 +7338,6 @@
       ]
     },
     {
-      "id": "canonical:a85d35081103309e",
-      "title": "Amazon Robotics – Applied Scientist 2 Intern / Co-op - 2026",
-      "url": "https://amazon.jobs/en/jobs/3104589/amazon-robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more",
-      "location": "Seattle, WA / Wakefield, MA / Westborough, MA",
-      "department": "AI/ML/Data",
-      "company": "Amazon",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:d46502a1f7280b8f",
       "title": "Product Analyst Intern",
       "url": "https://job-boards.greenhouse.io/accuweather/jobs/7453001",
@@ -7652,19 +7640,6 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:79cfcc7e8096fa91",
-      "title": "Software Engineering Intern",
-      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR106129",
-      "location": "Dallas, TX",
-      "department": "Software",
-      "company": "Copart",
-      "score": 68,
-      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
@@ -11700,19 +11675,6 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:c1817238d89b26e3",
-      "title": "FP&A Business Intelligence Intern",
-      "url": "https://brambles.wd5.myworkdayjobs.com/en-US/Brambles_Careers/job/London-England-United-Kingdom/FP-A-Business-Intelligence-Intern_JR23946-1",
-      "location": "London, UK / Orlando, FL / Atlanta, GA",
-      "department": "AI/ML/Data",
-      "company": "CHEP",
-      "score": 68,
-      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
@@ -16293,18 +16255,6 @@
       ]
     },
     {
-      "id": "canonical:27bdb3f23ff4322a",
-      "title": "Engineering Intern",
-      "url": "https://jobs.ashbyhq.com/odin-dynamics/db6fe6ed-3517-423d-a757-3b6edea4b51d/application?embed=true",
-      "location": "LA",
-      "department": "Hardware",
-      "company": "Odin Dynamics, Inc",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:7c5d7d5814a19bff",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/junior/23ee686b-d305-4ac9-860d-16c99ddb4891/application?embed=true",
@@ -18741,6 +18691,18 @@
       ]
     },
     {
+      "id": "canonical:da67e62a9d5c25d9",
+      "title": "Technical Investigations Support Intern",
+      "url": "https://ats.rippling.com/naxo/jobs/09e22a83-c30d-47ce-903d-f684e17f656c",
+      "location": "NYC",
+      "department": "AI/ML/Data",
+      "company": "NAXO",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:093c01e322f50a82",
       "title": "Software Engineer Intern - Infrastructure",
       "url": "https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e/apply",
@@ -18930,19 +18892,6 @@
       "company": "Brio Water Technology",
       "score": 60,
       "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:e0e6eb4065078ce5",
-      "title": "Power, Analog and Mixed-Signal IC Product Engineer Intern - Product Engineering",
-      "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Product-Engineering-_R3151-26-1",
-      "location": "Chandler, AZ",
-      "department": "Software",
-      "company": "Microchip Technology",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -21825,6 +21774,71 @@
       ]
     },
     {
+      "id": "canonical:7c526bf806a51d5a",
+      "title": "Data Scientist Intern - VOD Data",
+      "url": "https://lifeattiktok.com/search/7670287013157095733",
+      "location": "San Jose, CA",
+      "department": "AI/ML/Data",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:5229003ab8416048",
+      "title": "Machine Learning Engineer Intern - Search",
+      "url": "https://lifeattiktok.com/search/7668396597746862341",
+      "location": "Seattle, WA",
+      "department": "AI/ML/Data",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:2c9a15d62874bca8",
+      "title": "Backend Software Engineer Intern - Creation Platform",
+      "url": "https://lifeattiktok.com/search/7670289874020993285",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:3bed837f5a3edcbd",
+      "title": "Data Engineer Intern - Ads Targeting",
+      "url": "https://lifeattiktok.com/search/7668533140146817333",
+      "location": "San Jose, CA",
+      "department": "AI/ML/Data",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:ff9c07a03129ef85",
+      "title": "Student Researcher Intern - AI Foundation Models Infrastructure - Seed Infra",
+      "url": "https://jobs.bytedance.com/en/position/7670330161462364421/detail",
+      "location": "Seattle, WA",
+      "department": "AI/ML/Data",
+      "company": "ByteDance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:12cd06c0eec80152",
       "title": "Frontend Software Engineer Intern",
       "url": "https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c",
@@ -24064,6 +24078,18 @@
       ]
     },
     {
+      "id": "canonical:5e185fa8c0f97aea",
+      "title": "Data Analytics Intern",
+      "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/details/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1?q=JR2026520976",
+      "location": "Everett, WA / Saint Charles, MO / Huntsville, AL / Charleston, SC / Oklahoma City, OK / Berkeley, MO / Huntington Beach, CA / Hazelwood, MO / El Segundo, CA / Herndon, VA / Plano, TX / Arlington, VA / Ridley Park, PA / Tukwila, WA / North Charleston, SC / Fairfax, VA / Colorado Springs, CO / Chicago, IL / Seal Beach, CA / Mukilteo, WA / Long Beach, CA / Atlanta, GA / Renton, WA / Dallas, TX / Seattle, WA / Auburn, WA / Bellevue, WA / San Antonio, TX / Kent, WA / Mesa, AZ / Tukwila, WA",
+      "department": "",
+      "company": "Boeing",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:d590901df9c6b5b8",
       "title": "2026 Business Analyst Intern",
       "url": "https://www.linkedin.com/jobs/view/4276977256",
@@ -25315,20 +25341,6 @@
       "company": "Hermeus",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:d036fda9de6fb486",
-      "title": "Intern - Embedded Software, System, and Test Engineer - 2026",
-      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/Intern---Embedded-Software--System--and-Test-Engineer---2026_R62372",
-      "location": "Irvine, CA",
-      "department": "Software / Fall 2026",
-      "company": "Motorola",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
