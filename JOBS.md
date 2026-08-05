@@ -1,6 +1,6 @@
 # Open Internships
 
-**1850** internships across **142/143** companies — last updated 2026-08-05.
+**1851** internships across **142/143** companies — last updated 2026-08-05.
 
 ## Companies
 
@@ -313,6 +313,7 @@
 - [Jane Street](#jane-street) (23)
 - [John Deere](#john-deere) (1)
 - [JP Morgan Chase](#jp-morgan-chase) (6)
+- [JPMorganChase](#jpmorganchase) (1)
 - [Jump Trading](#jump-trading) (48)
 - [Junior](#junior) (1)
 - [Junior AI](#junior-ai) (1)
@@ -406,7 +407,7 @@
 - [Novogradac](#novogradac) (1)
 - [NTT DATA AIVista](#ntt-data-aivista) (1)
 - [Nuro](#nuro) (3)
-- [NVIDIA](#nvidia) (1)
+- [NVIDIA](#nvidia) (2)
 - [NXP Semiconductors](#nxp-semiconductors) (1)
 - [Obsidian Solutions Group](#obsidian-solutions-group) (1)
 - [Occidental Petroleum](#occidental-petroleum) (1)
@@ -487,7 +488,7 @@
 - [Samaya](#samaya) (1)
 - [Samsara](#samsara) (2)
 - [Sandhills Global](#sandhills-global) (2)
-- [Saronic](#saronic) (2)
+- [Saronic](#saronic) (1)
 - [Savannah River National Laboratory](#savannah-river-national-laboratory) (1)
 - [Scale AI](#scale-ai) (3)
 - [Schonfeld](#schonfeld) (4)
@@ -1761,7 +1762,7 @@
 | [AI Innovation Intern – Service Sales (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395) | 38 | In-Office | — | 2026-07-30 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-07-29 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Marketing Events and Campaigns Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8053546?gh_jid=8053546) | 38 | In-Office | — | 2026-07-09 |
@@ -3042,6 +3043,12 @@
 | [Quantitative Research Intern - Risk and Treasury](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773978) | 60 | Plano, TX / Chicago, IL / NYC | Quant | 2026-08-03 |
 | [Machine Learning Center of Excellence Intern - NLP](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765492) | 60 | London, UK | AI/ML/Data | 2026-07-02 |
 
+## JPMorganChase
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [2027 Data & AI Program - Summer Internship - Analyst - United States](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773869) | 60 | Chicago, IL, United States | Data & ML/AI / Summer 2027 | 2026-08-05 |
+
 ## Jump Trading
 
 | Title | Score | Location | Department | First seen |
@@ -3747,6 +3754,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineering Intern, Dynamo - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295) | 68 | US, CA, Santa Clara | Software / Fall 2026 | 2026-08-05 |
 | [Applied Research Intern, NLP - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488) | 68 | US, CA, Santa Clara | Data & ML/AI / Fall 2026 | 2026-07-23 |
 
 ## NXP Semiconductors
@@ -4416,7 +4424,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Enterprise Technology Intern - AI and Automation (Fall 2026)](https://jobs.ashbyhq.com/saronic/c95c2e3a-4c67-47b0-a03d-0e0317ac11a3) | 68 | Austin, TX | Data & ML/AI / Fall 2026 | 2026-07-03 |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/saronic/1c74957f-0895-415b-9324-08b0994747d7/application) | 93 | Austin, TX | Software | 2026-07-01 |
 
 ## Savannah River National Laboratory
