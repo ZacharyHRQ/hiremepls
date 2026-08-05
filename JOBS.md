@@ -1,6 +1,6 @@
 # Open Internships
 
-**1853** internships across **142/143** companies — last updated 2026-08-05.
+**1850** internships across **142/143** companies — last updated 2026-08-05.
 
 ## Companies
 
@@ -20,7 +20,7 @@
 - [AlixPartners](#alixpartners) (1)
 - [Alljoined](#alljoined) (1)
 - [Altom Transport](#altom-transport) (2)
-- [Amazon](#amazon) (171)
+- [Amazon](#amazon) (172)
 - [Ambarella](#ambarella) (8)
 - [Amentum](#amentum) (1)
 - [American Enterprise Institute](#american-enterprise-institute) (3)
@@ -70,7 +70,6 @@
 - [beBeeManufacturingEngineering](#bebeemanufacturingengineering) (1)
 - [Bee Sweet Citrus](#bee-sweet-citrus) (1)
 - [Berkshire Hathaway Energy](#berkshire-hathaway-energy) (2)
-- [Beyondsoft](#beyondsoft) (1)
 - [Bild AI](#bild-ai) (1)
 - [Binance](#binance) (1)
 - [Bio-Techne](#bio-techne) (1)
@@ -232,7 +231,7 @@
 - [G-Research](#g-research) (4)
 - [GE Vernova](#ge-vernova) (2)
 - [Geisinger](#geisinger) (1)
-- [Gemini](#gemini) (2)
+- [Gemini](#gemini) (1)
 - [Generac](#generac) (1)
 - [General Astronautics](#general-astronautics) (1)
 - [General Dynamics Information Technology](#general-dynamics-information-technology) (3)
@@ -522,7 +521,6 @@
 - [SpreeAI ](#spreeai) (3)
 - [Squarepoint Capital](#squarepoint-capital) (8)
 - [SRI International](#sri-international) (1)
-- [SS&C](#ss-c) (1)
 - [StarSling](#starsling) (1)
 - [Stellar Science](#stellar-science) (1)
 - [StepStone Group](#stepstone-group) (1)
@@ -582,7 +580,6 @@
 - [Trend Micro](#trend-micro) (1)
 - [Trillium](#trillium) (3)
 - [Two Sigma](#two-sigma) (2)
-- [Two Six Technologies](#two-six-technologies) (1)
 - [Uber](#uber) (1)
 - [Uline](#uline) (6)
 - [UMB](#umb) (1)
@@ -749,6 +746,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Talent solutions Intern](https://amazon.jobs/en/jobs/10493313/talent-solutions-intern) | 50 | Mexico City | Administrative Support | 2026-08-05 |
 | [2027 MBA Marketing Manager (MM) Internship](https://amazon.jobs/en/jobs/10493144/2027-mba-marketing-manager-mm-internship) | 30 | Seattle | Marketing & PR | 2026-08-05 |
 | [Operations Intern - Région Nord - Start Date 2027](https://amazon.jobs/en/jobs/10492799/operations-intern-region-nord-start-date-2027) | 50 | Lille | Fulfillment & Operations Management | 2026-08-05 |
 | [2027 MBA Finance Leadership Development Program (FLDP) Internship](https://amazon.jobs/en/jobs/10492198/2027-mba-finance-leadership-development-program-fldp-internship) | 30 | Seattle | Finance & Accounting | 2026-08-04 |
@@ -1284,12 +1282,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10004529) | 85 | Des Moines, IA / Richmond, VA / Reno, NV / Sioux City, IA / Davenport, IA | Software | 2026-07-20 |
 | [Intern – Corp IT - Grid Operations Applications](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003904) | 60 | Davenport, IA | AI/ML/Data | 2026-05-09 |
-
-## Beyondsoft
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://careers-beyondsoft.icims.com/jobs/10912/job?mobile=true&needsRedirect=false) | 85 | United States | Software | 2026-08-01 |
 
 ## Bild AI
 
@@ -2481,7 +2473,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7875125&gh_jid=7875125) | 93 | NYC | Software | 2026-07-31 |
 | [Software Engineering Intern](https://job-boards.greenhouse.io/embed/job_app?for=gemini&token=7875125) | 68 | New York, NY | — | 2026-07-28 |
 
 ## Generac
@@ -4425,7 +4416,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Enterprise Technology Intern - AI and Automation](https://jobs.ashbyhq.com/saronic/c95c2e3a-4c67-47b0-a03d-0e0317ac11a3/application) | 68 | Austin, TX | Software | 2026-07-03 |
+| [Enterprise Technology Intern - AI and Automation (Fall 2026)](https://jobs.ashbyhq.com/saronic/c95c2e3a-4c67-47b0-a03d-0e0317ac11a3) | 68 | Austin, TX | Data & ML/AI / Fall 2026 | 2026-07-03 |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/saronic/1c74957f-0895-415b-9324-08b0994747d7/application) | 93 | Austin, TX | Software | 2026-07-01 |
 
 ## Savannah River National Laboratory
@@ -4666,12 +4657,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Computer Science Intern](https://careers-sri.icims.com/jobs/6438/job?mobile=true&needsRedirect=false) | 60 | Menlo Park, CA | AI/ML/Data | 2026-08-03 |
-
-## SS&C
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Intern – Technical](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Ontario-Toronto/Intern---Technical_R40419) | 68 | Toronto, ON, Canada | Software | 2026-07-21 |
 
 ## StarSling
 
@@ -5279,12 +5264,6 @@
 | --- | --- | --- | --- | --- |
 | [AI Research Scientist Intern - 2027 Summer](https://twosigma.avature.net/careers/JobDetail/14096) | 85 | NYC | AI/ML/Data | 2026-08-02 |
 | [Quantitative Researcher Intern](https://twosigma.avature.net/careers/JobDetail/13945) | 85 | NYC | Quant | 2026-08-02 |
-
-## Two Six Technologies
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [China Subject Matter Expert Intern](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6105290004) | 68 | Remote in USA | AI/ML/Data | 2026-07-02 |
 
 ## Uber
 
