@@ -1,6 +1,6 @@
 # Open Internships
 
-**1851** internships across **142/143** companies — last updated 2026-08-05.
+**1853** internships across **142/143** companies — last updated 2026-08-05.
 
 ## Companies
 
@@ -20,7 +20,7 @@
 - [AlixPartners](#alixpartners) (1)
 - [Alljoined](#alljoined) (1)
 - [Altom Transport](#altom-transport) (2)
-- [Amazon](#amazon) (170)
+- [Amazon](#amazon) (171)
 - [Ambarella](#ambarella) (8)
 - [Amentum](#amentum) (1)
 - [American Enterprise Institute](#american-enterprise-institute) (3)
@@ -480,6 +480,7 @@
 - [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (14)
 - [Roam](#roam) (1)
 - [Robinhood](#robinhood) (1)
+- [Roblox](#roblox) (1)
 - [Rockwell Automation](#rockwell-automation) (2)
 - [ROCKWOOL Group](#rockwool-group) (1)
 - [Royal Bank of Canada](#royal-bank-of-canada) (4)
@@ -748,6 +749,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [2027 MBA Marketing Manager (MM) Internship](https://amazon.jobs/en/jobs/10493144/2027-mba-marketing-manager-mm-internship) | 30 | Seattle | Marketing & PR | 2026-08-05 |
 | [Operations Intern - Région Nord - Start Date 2027](https://amazon.jobs/en/jobs/10492799/operations-intern-region-nord-start-date-2027) | 50 | Lille | Fulfillment & Operations Management | 2026-08-05 |
 | [2027 MBA Finance Leadership Development Program (FLDP) Internship](https://amazon.jobs/en/jobs/10492198/2027-mba-finance-leadership-development-program-fldp-internship) | 30 | Seattle | Finance & Accounting | 2026-08-04 |
 | [2027 Amazon Leadership Accelerator (ALA) Product Manager Internship](https://amazon.jobs/en/jobs/10491935/2027-amazon-leadership-accelerator-ala-product-manager-internship) | 50 | Seattle | Project/Program/Product Management--Technical | 2026-08-04 |
@@ -1767,7 +1769,7 @@
 | [AI Innovation Intern – Service Sales (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395) | 38 | In-Office | — | 2026-07-30 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-07-29 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Marketing Events and Campaigns Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8053546?gh_jid=8053546) | 38 | In-Office | — | 2026-07-09 |
@@ -4361,6 +4363,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Customer Experience Associate (New Grad)](https://boards.greenhouse.io/robinhood/jobs/8024530?t=gh_src=&gh_jid=8024530) | 64 | Westlake, TX | — | 2026-07-02 |
+
+## Roblox
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [[Summer 2027] Software Engineer Intern](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) | 85 | San Mateo, CA, United States | Software / Summer 2027 | 2026-08-05 |
 
 ## Rockwell Automation
 
