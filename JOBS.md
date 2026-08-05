@@ -1,6 +1,6 @@
 # Open Internships
 
-**1843** internships across **142/143** companies — last updated 2026-08-05.
+**1842** internships across **142/143** companies — last updated 2026-08-05.
 
 ## Companies
 
@@ -20,7 +20,7 @@
 - [AlixPartners](#alixpartners) (1)
 - [Alljoined](#alljoined) (1)
 - [Altom Transport](#altom-transport) (2)
-- [Amazon](#amazon) (171)
+- [Amazon](#amazon) (170)
 - [Ambarella](#ambarella) (8)
 - [Amentum](#amentum) (1)
 - [American Enterprise Institute](#american-enterprise-institute) (3)
@@ -39,7 +39,6 @@
 - [AQR Capital Management](#aqr-capital-management) (1)
 - [Aquatic Capital](#aquatic-capital) (1)
 - [Aquatic Capital Management](#aquatic-capital-management) (2)
-- [Arcadis](#arcadis) (1)
 - [Architect Labs](#architect-labs) (1)
 - [Ardian](#ardian) (1)
 - [Argmax](#argmax) (1)
@@ -371,6 +370,7 @@
 - [Moog](#moog) (1)
 - [Moog ](#moog) (1)
 - [Moon](#moon) (1)
+- [Motorola](#motorola) (1)
 - [Multiply Labs](#multiply-labs) (2)
 - [Muru](#muru) (2)
 - [MyEmployment](#myemployment) (1)
@@ -903,7 +903,6 @@
 | [Demand Generation Rep Intern](https://amazon.jobs/en/jobs/10380900/demand-generation-rep-intern) | 30 | Singapore | Sales, Advertising, & Account Management | 2026-07-20 |
 | [Demand Generation Rep Intern - Indonesian Market](https://amazon.jobs/en/jobs/10444661/demand-generation-rep-intern-indonesian-market) | 30 | Jakarta | Sales, Advertising, & Account Management | 2026-07-20 |
 | [Demand Generation Rep Intern - Indonesian Market](https://amazon.jobs/en/jobs/3125228/demand-generation-rep-intern-indonesian-market) | 30 | Singapore | Sales, Advertising, & Account Management | 2026-07-20 |
-| [Demand Generation Rep Intern - Philippines market](https://amazon.jobs/en/jobs/3125227/demand-generation-rep-intern-philippines-market) | 30 | Singapore | Sales, Advertising, & Account Management | 2026-07-20 |
 | [Demand Generation Rep Intern - Vietnam Market](https://amazon.jobs/en/jobs/10444660/demand-generation-rep-intern-vietnam-market) | 30 | Ho Chi Minh City | Sales, Advertising, & Account Management | 2026-07-20 |
 | [Demand Generation Rep Intern - Vietnam Market](https://amazon.jobs/en/jobs/3125230/demand-generation-rep-intern-vietnam-market) | 30 | Singapore | Sales, Advertising, & Account Management | 2026-07-20 |
 | [Amazon Industrial Robotics - Applied Scientist II Intern / Co-op - 2026, Amazon Industrial Robotics](https://www.amazon.jobs/en/jobs/3132414/amazon-industrial-robotics-applied-scientist-ii-intern-co-op-2026-amazon-industrial-robotics) | 85 | North Reading, Massachusetts, USA | Data & ML/AI / Fall 2026 | 2026-07-13 |
@@ -1066,12 +1065,6 @@
 | --- | --- | --- | --- | --- |
 | [Quantitative Researcher – Intern](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) | 93 | London, UK / Chicago, IL | Quant | 2026-07-20 |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) | 93 | London, UK / Chicago, IL | Software | 2026-07-20 |
-
-## Arcadis
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [GIS Intern](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42762) | 60 | Atlanta, GA | AI/ML/Data | 2026-07-22 |
 
 ## Architect Labs
 
@@ -3500,6 +3493,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern, Backend & API](https://ats.rippling.com/en-GB/moon/jobs/8b81bca7-1a64-4377-8ea8-869aac03080b) | 85 | Glendale, CA | — | 2026-07-23 |
+
+## Motorola
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Intern - Embedded Software, System, and Test Engineer - 2026](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/Intern---Embedded-Software--System--and-Test-Engineer---2026_R62372) | 93 | Irvine, CA | Software / Fall 2026 | 2026-08-05 |
 
 ## Multiply Labs
 

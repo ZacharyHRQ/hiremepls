@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-05T01:39:42.673Z",
+  "generatedAt": "2026-08-05T04:47:18.487Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1843,
+  "jobCount": 1842,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -796,7 +796,6 @@
     "canonical:6f9231e64e5653a4": "2026-07-20T23:30:05.931Z",
     "canonical:f3129412c4cda2ee": "2026-07-20T23:30:05.931Z",
     "canonical:5e9c403d6cc2bbf5": "2026-07-20T23:30:05.931Z",
-    "canonical:f300c71a0a9bb843": "2026-07-20T23:30:05.931Z",
     "canonical:0b099b4fe538e990": "2026-07-20T23:30:05.931Z",
     "canonical:c535ae5161baafd0": "2026-07-20T23:30:05.931Z",
     "canonical:9b9ec3d75e008073": "2026-07-20T23:30:05.931Z",
@@ -1052,7 +1051,6 @@
     "canonical:d7f4d0fccfb1c39a": "2026-07-22T23:37:47.994Z",
     "canonical:5f4502ddb3d68d0e": "2026-07-22T23:37:47.994Z",
     "canonical:cd24694e0e5961cf": "2026-07-22T23:37:47.994Z",
-    "canonical:5cdab76f508307f7": "2026-07-22T23:37:47.994Z",
     "canonical:436600042890ca57": "2026-07-23T01:10:02.696Z",
     "canonical:03ff9719f5d57641": "2026-07-23T04:29:49.993Z",
     "canonical:d6dd989f7ac4831c": "2026-07-23T04:29:49.993Z",
@@ -1846,7 +1844,8 @@
     "canonical:428e69a7b6e0f61d": "2026-08-05T01:39:42.673Z",
     "canonical:21e178f2faf3da7e": "2026-08-05T01:39:42.673Z",
     "canonical:3432b7d35558fc51": "2026-08-05T01:39:42.673Z",
-    "canonical:d540857d7d0ba219": "2026-08-05T01:39:42.673Z"
+    "canonical:d540857d7d0ba219": "2026-08-05T01:39:42.673Z",
+    "canonical:d036fda9de6fb486": "2026-08-05T04:47:18.487Z"
   },
   "jobs": [
     {
@@ -2392,19 +2391,6 @@
       ]
     },
     {
-      "id": "canonical:d1d20c5456576574",
-      "title": "Campus Data Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
-      "location": "Chicago",
-      "department": "",
-      "company": "Jump Trading",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:adc1bdd879675b5a",
       "title": "Campus Data Engineer (Intern)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=7975008",
@@ -2418,20 +2404,33 @@
       ]
     },
     {
-      "id": "canonical:b64de5fd09122dce",
-      "title": "Campus FPGA Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8003013",
+      "id": "canonical:d1d20c5456576574",
+      "title": "Campus Data Engineer (Intern)",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
       "location": "Chicago",
       "department": "",
       "company": "Jump Trading",
-      "score": 50,
-      "scoreReasons": []
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
     },
     {
       "id": "canonical:3bdc6e03d29a7ec1",
       "title": "Campus FPGA Engineer (Intern)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=7974391",
       "location": "London",
+      "department": "",
+      "company": "Jump Trading",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:b64de5fd09122dce",
+      "title": "Campus FPGA Engineer (Intern)",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8003013",
+      "location": "Chicago",
       "department": "",
       "company": "Jump Trading",
       "score": 50,
@@ -2464,10 +2463,10 @@
       ]
     },
     {
-      "id": "canonical:748b9a19eca0fd1b",
+      "id": "canonical:51b92253e4e72e9b",
       "title": "Campus Quantitative Researcher (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8010307",
-      "location": "London; Amsterdam",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027939",
+      "location": "Singapore",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -2477,10 +2476,10 @@
       ]
     },
     {
-      "id": "canonical:51b92253e4e72e9b",
+      "id": "canonical:748b9a19eca0fd1b",
       "title": "Campus Quantitative Researcher (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027939",
-      "location": "Singapore",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8010307",
+      "location": "London; Amsterdam",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -2565,19 +2564,6 @@
       ]
     },
     {
-      "id": "canonical:4da2c943e4eb3f7c",
-      "title": "Campus Software Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7975026",
-      "location": "London",
-      "department": "",
-      "company": "Jump Trading",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:aa053f6ba830d433",
       "title": "Campus Software Engineer (Intern)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
@@ -2591,10 +2577,23 @@
       ]
     },
     {
-      "id": "canonical:3b590c340646bfa7",
+      "id": "canonical:4da2c943e4eb3f7c",
+      "title": "Campus Software Engineer (Intern)",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7975026",
+      "location": "London",
+      "department": "",
+      "company": "Jump Trading",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:4d567555739a50bd",
       "title": "Campus Systems Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
-      "location": "Chicago",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
+      "location": "Singapore",
       "department": "",
       "company": "Jump Trading",
       "score": 75,
@@ -2603,10 +2602,10 @@
       ]
     },
     {
-      "id": "canonical:4d567555739a50bd",
+      "id": "canonical:3b590c340646bfa7",
       "title": "Campus Systems Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
-      "location": "Singapore",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
+      "location": "Chicago",
       "department": "",
       "company": "Jump Trading",
       "score": 75,
@@ -5857,18 +5856,6 @@
       "company": "Amazon",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:f300c71a0a9bb843",
-      "title": "Demand Generation Rep Intern - Philippines market",
-      "url": "https://amazon.jobs/en/jobs/3125227/demand-generation-rep-intern-philippines-market",
-      "location": "Singapore",
-      "department": "Sales, Advertising, & Account Management",
-      "company": "Amazon",
-      "score": 30,
-      "scoreReasons": [
-        "lower-fit title"
-      ]
     },
     {
       "id": "canonical:0b099b4fe538e990",
@@ -17407,18 +17394,6 @@
       ]
     },
     {
-      "id": "canonical:5cdab76f508307f7",
-      "title": "GIS Intern",
-      "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42762",
-      "location": "Atlanta, GA",
-      "department": "AI/ML/Data",
-      "company": "Arcadis",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:f737fd209e879331",
       "title": "Data Analytics Intern",
       "url": "https://impulsespace.pinpointhq.com/en/postings/bf86b5dc-b3bd-4bb1-b51c-75744ff8d978?ats=pinpointhq",
@@ -25314,6 +25289,20 @@
       "company": "Hermeus",
       "score": 68,
       "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:d036fda9de6fb486",
+      "title": "Intern - Embedded Software, System, and Test Engineer - 2026",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/Intern---Embedded-Software--System--and-Test-Engineer---2026_R62372",
+      "location": "Irvine, CA",
+      "department": "Software / Fall 2026",
+      "company": "Motorola",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
