@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-06T11:30:41.010Z",
+  "generatedAt": "2026-08-06T13:16:15.765Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1868,
+  "jobCount": 1872,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1679,7 +1679,6 @@
     "canonical:6975da923dc24346": "2026-08-04T00:03:15.414Z",
     "canonical:2ab3741333feccc9": "2026-08-04T00:03:15.414Z",
     "canonical:4be1ac2e80f04e3d": "2026-08-04T00:03:15.414Z",
-    "canonical:6d0604849d779bb2": "2026-08-04T00:03:15.414Z",
     "canonical:f48ec8940e130dfa": "2026-08-04T00:03:15.414Z",
     "canonical:bca517d914accfc5": "2026-08-04T00:03:15.414Z",
     "canonical:5537ed205a048c2c": "2026-08-04T00:03:15.414Z",
@@ -1823,7 +1822,6 @@
     "canonical:22193bff6b309591": "2026-08-05T23:16:13.094Z",
     "canonical:fa26bdb0a115901d": "2026-08-05T23:16:13.094Z",
     "canonical:57f646554e4d20f4": "2026-08-05T23:16:13.094Z",
-    "canonical:4404a059783ecd88": "2026-08-05T23:16:13.094Z",
     "canonical:74e9268082ab3804": "2026-08-05T23:16:13.094Z",
     "canonical:40c0a3e55a4cb4cb": "2026-08-05T23:16:13.094Z",
     "canonical:e7163ea3d9bc32b1": "2026-08-05T23:16:13.094Z",
@@ -1871,7 +1869,13 @@
     "canonical:b2ec21f033deda74": "2026-08-06T09:05:10.260Z",
     "canonical:cb9df15343a5b55b": "2026-08-06T09:05:10.260Z",
     "canonical:4785197d33cac6ce": "2026-08-06T11:30:41.010Z",
-    "canonical:0bcde6c5e5e98b72": "2026-08-06T11:30:41.010Z"
+    "canonical:0bcde6c5e5e98b72": "2026-08-06T11:30:41.010Z",
+    "canonical:85f69ee29a2144d5": "2026-08-06T13:16:15.765Z",
+    "canonical:96eb3c86fb5f2043": "2026-08-06T13:16:15.765Z",
+    "canonical:28587ac172fe3342": "2026-08-06T13:16:15.765Z",
+    "canonical:d6338326adc397d4": "2026-08-06T13:16:15.765Z",
+    "canonical:3e58718d23ad32ac": "2026-08-06T13:16:15.765Z",
+    "canonical:276fa60f1597cd67": "2026-08-06T13:16:15.765Z"
   },
   "jobs": [
     {
@@ -3282,10 +3286,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -3296,10 +3300,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -4919,6 +4923,16 @@
       "scoreReasons": []
     },
     {
+      "id": "canonical:85f69ee29a2144d5",
+      "title": "Operations & Logistics Internship Abruzzo - Talent Pool",
+      "url": "https://amazon.jobs/en/jobs/10484620/operations-logistics-internship-abruzzo-talent-pool",
+      "location": "San Salvo",
+      "department": "Fulfillment & Operations Management",
+      "company": "Amazon",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
       "id": "canonical:e8eb36641706c2d0",
       "title": "Technical Business Developer Intern, 2026 Hong Kong",
       "url": "https://amazon.jobs/en/jobs/10394507/technical-business-developer-intern-2026-hong-kong",
@@ -5107,6 +5121,46 @@
       "scoreReasons": [
         "lower-fit title"
       ]
+    },
+    {
+      "id": "canonical:96eb3c86fb5f2043",
+      "title": "Operations & Logistics Internship Friuli Venezia Giulia- Talent Pool",
+      "url": "https://amazon.jobs/en/jobs/10484579/operations-logistics-internship-friuli-venezia-giulia-talent-pool",
+      "location": "Udine",
+      "department": "Fulfillment & Operations Management",
+      "company": "Amazon",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:28587ac172fe3342",
+      "title": "Operations & Logistics Internship Emilia Romagna- Talent Pool",
+      "url": "https://amazon.jobs/en/jobs/10484559/operations-logistics-internship-emilia-romagna-talent-pool",
+      "location": "Spilamberto",
+      "department": "Fulfillment & Operations Management",
+      "company": "Amazon",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:d6338326adc397d4",
+      "title": "Operations & Logistics Internship Veneto - Talent Pool",
+      "url": "https://amazon.jobs/en/jobs/10484489/operations-logistics-internship-veneto-talent-pool",
+      "location": "Rovigo",
+      "department": "Fulfillment & Operations Management",
+      "company": "Amazon",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:3e58718d23ad32ac",
+      "title": "Operations & Logistics Internship Lazio - Talent Pool",
+      "url": "https://amazon.jobs/en/jobs/10484439/operations-logistics-internship-lazio-talent-pool",
+      "location": "Passo Corese",
+      "department": "Fulfillment & Operations Management",
+      "company": "Amazon",
+      "score": 50,
+      "scoreReasons": []
     },
     {
       "id": "canonical:efae17b38f305c76",
@@ -7169,7 +7223,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -7193,7 +7247,7 @@
     {
       "id": "canonical:1a056010d15d11c7",
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -10796,7 +10850,7 @@
     {
       "id": "canonical:117f07893ccc9f34",
       "title": "Validation Intern",
-      "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Validation-Intern--Year-Round-_R2026-1960",
+      "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Validation-Intern--Year-Round-_R2026-1958-1",
       "location": "Kokomo, IN",
       "department": "Hardware",
       "company": "BorgWarner",
@@ -20499,19 +20553,6 @@
       ]
     },
     {
-      "id": "canonical:6d0604849d779bb2",
-      "title": "Technology Intern",
-      "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Technology-Undergraduate-Intern_R231441-1",
-      "location": "Cleveland, OH / Birmingham, AL / Dallas, TX / Pittsburgh, PA / Phoenix, AZ / Denver, CO",
-      "department": "Software",
-      "company": "PNC Financial Services",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:f48ec8940e130dfa",
       "title": "Data Analytics Intern",
       "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1",
@@ -22169,18 +22210,6 @@
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:4404a059783ecd88",
-      "title": "Data Internship - Data & AI Program",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775223",
-      "location": "Palo Alto, CA / Newark, DE / Plano, TX / Chicago, IL / Jersey City, NJ / Columbus, OH / NYC / Wilmington, DE",
-      "department": "AI/ML/Data",
-      "company": "JP Morgan Chase",
-      "score": 60,
-      "scoreReasons": [
         "high-signal role"
       ]
     },
@@ -25462,6 +25491,19 @@
       "location": "US, Arizona, Phoenix",
       "department": "Data & ML/AI / Not stated",
       "company": "Intel",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:276fa60f1597cd67",
+      "title": "Software Engineering Intern",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109673",
+      "location": "Dallas, TX - Headquarters",
+      "department": "Software / Not stated",
+      "company": "Copart",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
