@@ -1,6 +1,6 @@
 # Open Internships
 
-**1872** internships across **142/143** companies — last updated 2026-08-06.
+**1868** internships across **142/143** companies — last updated 2026-08-06.
 
 ## Companies
 
@@ -100,7 +100,7 @@
 - [Cadence Design Systems](#cadence-design-systems) (6)
 - [CAE](#cae) (1)
 - [CALSTART](#calstart) (3)
-- [Canva](#canva) (3)
+- [Canva](#canva) (2)
 - [Capella](#capella) (2)
 - [Capital One](#capital-one) (6)
 - [CareScout](#carescout) (1)
@@ -196,7 +196,7 @@
 - [Eragon](#eragon) (1)
 - [Eridu AI](#eridu-ai) (1)
 - [Espa AI](#espa-ai) (1)
-- [Etched](#etched) (9)
+- [Etched](#etched) (8)
 - [Etched.ai](#etched-ai) (4)
 - [Ether.fi](#ether-fi) (1)
 - [ETHGlobal](#ethglobal) (1)
@@ -278,7 +278,6 @@
 - [Hershey Entertainment & Resorts Company](#hershey-entertainment-resorts-company) (1)
 - [Hewlett Packard (HP)](#hewlett-packard-hp) (3)
 - [HEXAWARE](#hexaware) (1)
-- [HireVue](#hirevue) (1)
 - [Hitachi](#hitachi) (1)
 - [Hiverge](#hiverge) (1)
 - [HNTB](#hntb) (1)
@@ -489,7 +488,7 @@
 - [Roam](#roam) (1)
 - [Robinhood](#robinhood) (1)
 - [Roblox](#roblox) (1)
-- [Rockwell Automation](#rockwell-automation) (2)
+- [Rockwell Automation](#rockwell-automation) (1)
 - [ROCKWOOL Group](#rockwool-group) (1)
 - [Royal Bank of Canada](#royal-bank-of-canada) (2)
 - [RTX](#rtx) (5)
@@ -544,7 +543,6 @@
 - [Susquehanna International Group, LLP (SIG)](#susquehanna-international-group-llp-sig) (3)
 - [Susquehanna Investment Group](#susquehanna-investment-group) (1)
 - [Sweatpals](#sweatpals) (1)
-- [Swift](#swift) (1)
 - [Synchrony Financial](#synchrony-financial) (6)
 - [T. Rowe Price](#t-rowe-price) (2)
 - [Tacit](#tacit) (1)
@@ -573,7 +571,7 @@
 - [Thomson Reuters](#thomson-reuters) (1)
 - [thyssenkrupp](#thyssenkrupp) (2)
 - [TIFIN](#tifin) (1)
-- [TikTok](#tiktok) (105)
+- [TikTok](#tiktok) (106)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
 - [TMX Group](#tmx-group) (1)
@@ -753,6 +751,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Graduate Area Manager](https://amazon.jobs/en/jobs/10478496/graduate-area-manager) | 56 | Cape Town | Fulfillment & Operations Management | 2026-08-06 |
 | [Talent solutions Intern](https://amazon.jobs/en/jobs/10493313/talent-solutions-intern) | 50 | Mexico City | Administrative Support | 2026-08-05 |
 | [2027 MBA Marketing Manager (MM) Internship](https://amazon.jobs/en/jobs/10493144/2027-mba-marketing-manager-mm-internship) | 30 | Seattle | Marketing & PR | 2026-08-05 |
 | [Operations Intern - Région Nord - Start Date 2027](https://amazon.jobs/en/jobs/10492799/operations-intern-region-nord-start-date-2027) | 50 | Lille | Fulfillment & Operations Management | 2026-08-05 |
@@ -814,7 +813,6 @@
 | [Software Development Graduate, 2027 Melbourne](https://amazon.jobs/en/jobs/10462011/software-development-graduate-2027-melbourne) | 66 | Melbourne | Software Development | 2026-07-20 |
 | [Software Development Graduate, AWS, 2027 Sydney](https://amazon.jobs/en/jobs/10462014/software-development-graduate-aws-2027-sydney) | 66 | Sydney | Software Development | 2026-07-20 |
 | [2026  Fall Applied Science Internship - Recommender Systems/ Information Retrieval (Machine Learning) - United States, PhD Student Science Recruiting](https://amazon.jobs/en/jobs/10391774/2026-fall-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting) | 60 | Seattle | Applied Science | 2026-07-20 |
-| [2026 Data Scientist Internship , Amazon University Talent Acquisition](https://amazon.jobs/en/jobs/10417108/2026-data-scientist-internship-amazon-university-talent-acquisition) | 60 | Tel Aviv | Data Science | 2026-07-20 |
 | [2026 Fall Applied Science Internship - Information & Knowledge Management (Machine Learning) - United States, PhD Student Science Recruiting](https://amazon.jobs/en/jobs/10394230/2026-fall-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting) | 60 | Seattle | Applied Science | 2026-07-20 |
 | [2026 Fall Applied Science Internship - Reinforcement Learning & Optimization (Machine Learning) - United States, PhD Student Science Recruiting](https://amazon.jobs/en/jobs/10394278/2026-fall-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting) | 60 | Seattle | Applied Science | 2026-07-20 |
 | [2026 Fall Quantum Applied Science Internship, Center for Quantum Computing](https://amazon.jobs/en/jobs/10419240/2026-fall-quantum-applied-science-internship-center-for-quantum-computing) | 60 | Pasadena | Applied Science | 2026-07-20 |
@@ -1547,7 +1545,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [PhD Research Scientist Intern - Generative AI](https://jobs.smartrecruiters.com/Canva/6000000001289897) | 93 | SF | AI/ML/Data | 2026-08-06 |
 | [PhD Research Scientist Intern](https://jobs.smartrecruiters.com/Canva/6000000001291655) | 83 | San Francisco, CA, United States | Information Technology | 2026-08-06 |
 | [PhD Research Scientist Intern](https://jobs.smartrecruiters.com/Canva/6000000001289889) | 83 | Sydney, , Australia | Information Technology | 2026-08-06 |
 
@@ -1785,7 +1782,7 @@
 | [AI Innovation Intern – Service Sales (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395) | 38 | In-Office | — | 2026-07-30 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-07-29 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Marketing Events and Campaigns Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8053546?gh_jid=8053546) | 38 | In-Office | — | 2026-07-09 |
@@ -2259,7 +2256,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Performance Tools Intern](https://jobs.ashbyhq.com/Etched/f02e8035-7dc9-4b0c-aab7-75bbb4e975b8/application?embed=true) | 68 | San Jose, CA | Software | 2026-08-04 |
-| [Electrical Platform Intern](https://jobs.ashbyhq.com/Etched/904ddf46-55fc-4a8f-8b49-f32cfe88116a/application) | 68 | San Jose, CA | Hardware | 2026-08-01 |
 | [Infrastructure Intern](https://jobs.ashbyhq.com/Etched/80926a71-0a62-4bf8-a877-b6d96df279b7) | 68 | San Jose, CA | — | 2026-07-09 |
 | [Firmware Intern](https://jobs.ashbyhq.com/Etched/1efd9b58-66fe-4798-a877-776857b4e189) | 58 | San Jose, CA | — | 2026-07-09 |
 | [Inference Intern, Architecture](https://jobs.ashbyhq.com/Etched/aa17bfa2-2922-4aa7-820d-76064f2551a8) | 58 | San Jose, CA | — | 2026-07-09 |
@@ -2784,12 +2780,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Intern Data Engineer](https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/623864) | 85 | United States | AI/ML/Data | 2026-05-09 |
-
-## HireVue
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [IO Product Science Intern](https://jobs.smartrecruiters.com/HireVue/744000141285569) | 68 | Sandy, UT | AI/ML/Data | 2026-08-03 |
 
 ## Hitachi
 
@@ -4187,8 +4177,8 @@
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-07-09 |
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-07-09 |
 | [Corporate Access, off-cycle internship (6-months) – Japanese speaking](https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002) | 58 | Hong Kong | — | 2026-06-30 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -4446,7 +4436,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Intern, Applied AI](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Austin-Texas-United-States/Intern--Applied-AI_R26-5631-2) | 68 | Austin, Texas, United States | Data & ML/AI / Not stated | 2026-08-06 |
 | [Firmware Engineering Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Cambridge-Ontario-Canada/Intern--Firmware-Engineering_R26-4530-1) | 58 | Cambridge, ON, Canada | Hardware | 2026-07-21 |
 
 ## ROCKWOOL Group
@@ -4846,12 +4835,6 @@
 | --- | --- | --- | --- | --- |
 | [Product Manager Intern - Host Squad](https://jobs.ashbyhq.com/sweatpals/be2f5fa7-2542-40e6-873f-778322bb0522/application?embed=true) | 58 | Remote in USA | Product | 2026-08-01 |
 
-## Swift
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Industry Engagement Research Analyst Intern](https://swift.wd3.myworkdayjobs.com/join-swift/job/London-United-Kingdom/Industry-Engagement---Intern-Research-Analyst_2026-16321) | 68 | London, UK | AI/ML/Data | 2026-08-05 |
-
 ## Synchrony Financial
 
 | Title | Score | Location | Department | First seen |
@@ -5132,6 +5115,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern - Ads Infrastructure](https://lifeattiktok.com/search/7572665884037826869) | 85 | San Jose, CA | Software | 2026-08-06 |
 | [Machine Learning Engineer Intern - E-Commerce Recommendation/Search Alliance](https://lifeattiktok.com/search/7670247810111768837) | 85 | Seattle, WA | AI/ML/Data | 2026-08-06 |
 | [Software Engineer Intern - Foundation Platform](https://lifeattiktok.com/search/7670281449668905269) | 85 | San Jose, CA | Software | 2026-08-06 |
 | [Software Engineer Intern - Media Engine](https://lifeattiktok.com/search/7670295535077427509) | 85 | San Jose, CA | Software | 2026-08-06 |
