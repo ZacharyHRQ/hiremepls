@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-06T06:14:01.526Z",
+  "generatedAt": "2026-08-06T09:05:10.260Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1861,
+  "jobCount": 1872,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1018,7 +1018,6 @@
     "canonical:677f4180981519f2": "2026-07-22T04:30:46.300Z",
     "canonical:09230a2dbad3916e": "2026-07-22T04:30:46.300Z",
     "canonical:b4e6df7dcb42b162": "2026-07-22T07:18:38.084Z",
-    "canonical:9e164e33a03c704d": "2026-07-22T07:18:38.084Z",
     "canonical:5b66d1f7104ba7e4": "2026-07-22T11:30:09.788Z",
     "canonical:c76fbea5d5eba789": "2026-07-22T11:30:09.788Z",
     "canonical:d0cc0809498c940b": "2026-07-22T11:30:09.788Z",
@@ -1211,7 +1210,6 @@
     "canonical:697a47b2af9a8c05": "2026-07-29T22:49:10.014Z",
     "canonical:4bd5e89a43bed32b": "2026-07-29T22:49:10.014Z",
     "canonical:cef1c4aee4877b0b": "2026-07-29T22:49:10.014Z",
-    "canonical:e472f1a25b63aefb": "2026-07-29T23:52:26.433Z",
     "canonical:2db8dc270070158c": "2026-07-29T23:52:26.433Z",
     "canonical:0e9e3f24b312ca3e": "2026-07-29T23:52:26.433Z",
     "canonical:edc62f7832537a12": "2026-07-29T23:52:26.433Z",
@@ -1386,7 +1384,6 @@
     "canonical:1cb970dd90b802db": "2026-08-01T15:33:38.600Z",
     "canonical:360f81d0ff355ed6": "2026-08-01T15:33:38.600Z",
     "canonical:761db21fd7aa5b3e": "2026-08-01T15:33:38.600Z",
-    "canonical:d72f5b20685fcff0": "2026-08-01T15:33:38.600Z",
     "canonical:8c76e328dc89930b": "2026-08-01T15:33:38.600Z",
     "canonical:fe20009b43ec4446": "2026-08-01T15:33:38.600Z",
     "canonical:63670afc972c356a": "2026-08-01T15:33:38.600Z",
@@ -1864,7 +1861,21 @@
     "canonical:8bbeda8ecce863c3": "2026-08-06T03:38:35.332Z",
     "canonical:2f822da865670914": "2026-08-06T03:38:35.332Z",
     "canonical:7e0fab102cfca7dd": "2026-08-06T03:38:35.332Z",
-    "canonical:9ffd8a959f8befdc": "2026-08-06T03:38:35.332Z"
+    "canonical:9ffd8a959f8befdc": "2026-08-06T03:38:35.332Z",
+    "canonical:68eff4d0c8582bcb": "2026-08-06T09:05:10.260Z",
+    "canonical:48e5ba9e2ea1ea09": "2026-08-06T09:05:10.260Z",
+    "canonical:d3ac4a035bf89211": "2026-08-06T09:05:10.260Z",
+    "canonical:fea9770016787b1f": "2026-08-06T09:05:10.260Z",
+    "canonical:cd12c76f4d95ac8b": "2026-08-06T09:05:10.260Z",
+    "canonical:b1b279ea44e9486a": "2026-08-06T09:05:10.260Z",
+    "canonical:294fa8608525e8fc": "2026-08-06T09:05:10.260Z",
+    "canonical:654cca24226e8e3c": "2026-08-06T09:05:10.260Z",
+    "canonical:aca6017612788af4": "2026-08-06T09:05:10.260Z",
+    "canonical:2ec09be0aa36044e": "2026-08-06T09:05:10.260Z",
+    "canonical:b2ec21f033deda74": "2026-08-06T09:05:10.260Z",
+    "canonical:a858102d2c63ecc0": "2026-08-06T09:05:10.260Z",
+    "canonical:cb9df15343a5b55b": "2026-08-06T09:05:10.260Z",
+    "canonical:21d9130831f177c9": "2026-08-06T09:05:10.260Z"
   },
   "jobs": [
     {
@@ -4711,6 +4722,19 @@
       ]
     },
     {
+      "id": "canonical:ee1dda9581bca923",
+      "title": "Graduate Network Dev Engineer",
+      "url": "https://amazon.jobs/en/jobs/3023635/graduate-network-dev-engineer",
+      "location": "Sydney",
+      "department": "Operations, IT, & Support Engineering",
+      "company": "Amazon",
+      "score": 81,
+      "scoreReasons": [
+        "SWE-aligned",
+        "new grad"
+      ]
+    },
+    {
       "id": "canonical:0b77dfb3a125d63e",
       "title": "Talent solutions Intern",
       "url": "https://amazon.jobs/en/jobs/10493313/talent-solutions-intern",
@@ -5248,19 +5272,6 @@
       "company": "Amazon",
       "score": 56,
       "scoreReasons": [
-        "new grad"
-      ]
-    },
-    {
-      "id": "canonical:ee1dda9581bca923",
-      "title": "Graduate Network Dev Engineer",
-      "url": "https://amazon.jobs/en/jobs/3023635/graduate-network-dev-engineer",
-      "location": "Sydney",
-      "department": "Operations, IT, & Support Engineering",
-      "company": "Amazon",
-      "score": 81,
-      "scoreReasons": [
-        "SWE-aligned",
         "new grad"
       ]
     },
@@ -9663,6 +9674,18 @@
       ]
     },
     {
+      "id": "canonical:68eff4d0c8582bcb",
+      "title": "Surgery Field Engineer Apprentice Intern",
+      "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Lower-CT--Stamford-Fairfield-area-_R4039861-1",
+      "location": "Stamford, CT",
+      "department": "Hardware",
+      "company": "GE Healthcare",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:e5b7fab3e0bff565",
       "title": "Research Scientist Intern - E-commerce Recommendation - Multiple Teams",
       "url": "https://lifeattiktok.com/search/7629188397976586501",
@@ -12584,19 +12607,6 @@
       ]
     },
     {
-      "id": "canonical:d72f5b20685fcff0",
-      "title": "Gas Compressor Data Analyst Intern",
-      "url": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027-Internship--Gas-Compressor-Data-Analyst_R0000375786",
-      "location": "San Diego, CA",
-      "department": "AI/ML/Data",
-      "company": "Solar Turbines",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:e5b8024c19031c98",
       "title": "Software Engineer Intern - Residential Energy Device Software Engineer - Energy Engineering",
       "url": "https://www.tesla.com/careers/search/job/273810",
@@ -13969,6 +13979,19 @@
       ]
     },
     {
+      "id": "canonical:48e5ba9e2ea1ea09",
+      "title": "Quantitative Researcher – PhD Intern",
+      "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/",
+      "location": "Greenwich, CT / Houston, TX / Miami, FL / NYC",
+      "department": "Quant",
+      "company": "Citadel",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:4dc5a36b57fb5e32",
       "title": "Software Engineer Intern",
       "url": "https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002",
@@ -14472,6 +14495,18 @@
       ]
     },
     {
+      "id": "canonical:d3ac4a035bf89211",
+      "title": "Trader: Fixed Income & Macro Intern",
+      "url": "https://www.citadel.com/careers/details/trader-fixed-income-macro-intern-us/",
+      "location": "Greenwich, CT / Miami, FL / NYC",
+      "department": "Quant",
+      "company": "Citadel",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:6534e2ff980befe8",
       "title": "Quantitative Research Analyst Intern",
       "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/",
@@ -14751,6 +14786,18 @@
       ]
     },
     {
+      "id": "canonical:fea9770016787b1f",
+      "title": "Quantitative Trader: Equity Quantitative Research Intern",
+      "url": "https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-intern-us/",
+      "location": "NYC",
+      "department": "Quant",
+      "company": "Citadel",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:f3efe9dbc44b3ee6",
       "title": "Clinical Business Intelligence Intern",
       "url": "https://careers.medpace.com/jobs/12845?icims=1",
@@ -14982,19 +15029,6 @@
       "location": "NYC",
       "department": "Quant",
       "company": "Flow Traders",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:9e164e33a03c704d",
-      "title": "Application Engineering Intern",
-      "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Fall-2026_JR00038999",
-      "location": "Lombard, IL / Alpharetta, GA",
-      "department": "Software",
-      "company": "ABB",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -15325,6 +15359,18 @@
       ]
     },
     {
+      "id": "canonical:cd12c76f4d95ac8b",
+      "title": "Quantitative Trading Intern",
+      "url": "https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-europe/",
+      "location": "London, UK / Paris, France",
+      "department": "Quant",
+      "company": "Citadel Securities",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:cd616f6d99f7d341",
       "title": "Investment & Trading Intern",
       "url": "https://www.citadel.com/careers/details/investment-trading-intern-europe/",
@@ -15346,6 +15392,18 @@
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:b1b279ea44e9486a",
+      "title": "Rates Trading Intern",
+      "url": "https://www.citadelsecurities.com/careers/details/rates-trading-intern-europe/",
+      "location": "London, UK / Paris, France",
+      "department": "Quant",
+      "company": "Citadel Securities",
+      "score": 60,
+      "scoreReasons": [
         "high-signal role"
       ]
     },
@@ -18224,19 +18282,6 @@
       ]
     },
     {
-      "id": "canonical:e472f1a25b63aefb",
-      "title": "Applied AI Intern",
-      "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Austin-Texas-United-States/Intern--Applied-AI_R26-5631-2",
-      "location": "Austin, TX",
-      "department": "AI/ML/Data",
-      "company": "Rockwell Automation",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:1d0321a95fc9534a",
       "title": "Focused Ion Beam, Electron Microscopy, and Autonomous Characterization Intern - Multiple Teams",
       "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---Focused-Ion-Beam--Electron-Microscopy--and-Autonomous-Characterization_R14431",
@@ -18606,6 +18651,19 @@
       ]
     },
     {
+      "id": "canonical:294fa8608525e8fc",
+      "title": "Data Engineer Intern",
+      "url": "https://www.optimumcareers.com/job/Long-Island-City-Intern-Data-Engineer-NY-11101/1414286700/?ats=successfactors",
+      "location": "Long Island City, Queens, NY",
+      "department": "AI/ML/Data",
+      "company": "Altice USA",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:b2483be6a5d3871f",
       "title": "IT Development Program Intern - IT Development Program",
       "url": "https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Genworth-IT-Development-Program-Intern---Summer-2027_REQ-260269-1",
@@ -18749,6 +18807,18 @@
       "location": "San Jose, CA",
       "department": "Software",
       "company": "SiMa.ai",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:654cca24226e8e3c",
+      "title": "Sector Data Analyst Intern",
+      "url": "https://www.citadel.com/careers/details/sector-data-analyst-intern-europe/",
+      "location": "London, UK",
+      "department": "AI/ML/Data",
+      "company": "Citadel",
       "score": 60,
       "scoreReasons": [
         "high-signal role"
@@ -22106,6 +22176,59 @@
       "scoreReasons": []
     },
     {
+      "id": "canonical:aca6017612788af4",
+      "title": "Machine Learning Engineer Intern - E-Commerce Recommendation/Search Alliance",
+      "url": "https://lifeattiktok.com/search/7670247810111768837",
+      "location": "Seattle, WA",
+      "department": "AI/ML/Data",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:2ec09be0aa36044e",
+      "title": "AI Network Automation Engineer Intern - Global Physical Network Infrastructure",
+      "url": "https://jobs.bytedance.com/en/position/7670690923748870405/detail",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "ByteDance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:b2ec21f033deda74",
+      "title": "Applied Machine Learning Production Engineer Intern - AML Production Engineer",
+      "url": "https://jobs.bytedance.com/en/position/7670009669494704437/detail",
+      "location": "San Jose, CA",
+      "department": "AI/ML/Data",
+      "company": "ByteDance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:a858102d2c63ecc0",
+      "title": "PhD Research Scientist Intern - Generative AI",
+      "url": "https://jobs.smartrecruiters.com/Canva/6000000001289897",
+      "location": "SF",
+      "department": "AI/ML/Data",
+      "company": "Canva",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:12cd06c0eec80152",
       "title": "Frontend Software Engineer Intern",
       "url": "https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c",
@@ -23338,6 +23461,18 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:cb9df15343a5b55b",
+      "title": "Application Engineering Intern",
+      "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Fall-2026_JR00038999",
+      "location": "Alpharetta, GA / Lombard, IL",
+      "department": "",
+      "company": "ABB",
+      "score": 58,
+      "scoreReasons": [
         "direct ATS"
       ]
     },
@@ -25307,6 +25442,19 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:21d9130831f177c9",
+      "title": "Intern, Applied AI",
+      "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Austin-Texas-United-States/Intern--Applied-AI_R26-5631-2",
+      "location": "Austin, Texas, United States",
+      "department": "Data & ML/AI / Not stated",
+      "company": "Rockwell Automation",
+      "score": 68,
+      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
