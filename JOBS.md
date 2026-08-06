@@ -1,6 +1,6 @@
 # Open Internships
 
-**1863** internships across **142/143** companies — last updated 2026-08-06.
+**1861** internships across **142/143** companies — last updated 2026-08-06.
 
 ## Companies
 
@@ -489,7 +489,7 @@
 - [Roblox](#roblox) (1)
 - [Rockwell Automation](#rockwell-automation) (2)
 - [ROCKWOOL Group](#rockwool-group) (1)
-- [Royal Bank of Canada](#royal-bank-of-canada) (3)
+- [Royal Bank of Canada](#royal-bank-of-canada) (2)
 - [RTX](#rtx) (5)
 - [Samaya](#samaya) (1)
 - [Samsara](#samsara) (2)
@@ -636,7 +636,7 @@
 - [WSP](#wsp) (1)
 - [WTW](#wtw) (1)
 - [X Development](#x-development) (2)
-- [XPENG Motors](#xpeng-motors) (2)
+- [XPENG Motors](#xpeng-motors) (1)
 - [Xsolla](#xsolla) (5)
 - [Yotta Labs](#yotta-labs) (2)
 - [Zello](#zello) (1)
@@ -1537,7 +1537,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [PhD Research Scientist Intern](https://jobs.smartrecruiters.com/Canva/6000000001289897) | 83 | San Francisco, CA, United States | Information Technology | 2026-08-06 |
+| [PhD Research Scientist Intern](https://jobs.smartrecruiters.com/Canva/6000000001291655) | 83 | San Francisco, CA, United States | Information Technology | 2026-08-06 |
 | [PhD Research Scientist Intern](https://jobs.smartrecruiters.com/Canva/6000000001289889) | 83 | Sydney, , Australia | Information Technology | 2026-08-06 |
 
 ## Capella
@@ -4437,7 +4437,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Business Markets Relationship Manager Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/BATHURST-New-Brunswick-Canada/Relationship-Manager-Business-Markets--Intern_R-0000182302) | 68 | Bathurst, NB, Canada | Quant | 2026-07-28 |
-| [Relationship Manager Commercial Markets Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CHARLOTTETOWN-Prince-Edward-Island-Canada/Relationship-Manager-Commercial-Markets-ntern-CFS_R-0000181764-1) | 68 | Charlottetown, PE, Canada | Quant | 2026-07-23 |
 | [Relationship Manager Commercial Markets Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/GRAND-FALLS-New-Brunswick-Canada/Relationship-Manager-Commercial-Markets-Intern_R-0000178547) | 68 | Madawaska County, NB, Canada | Quant | 2026-07-22 |
 
 ## RTX
@@ -5655,7 +5654,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [AI Infrastructure Onboard Performance Intern](https://job-boards.greenhouse.io/xpengmotors/jobs/8581353002) | 68 | Santa Clara, CA | AI/ML/Data | 2026-06-06 |
-| [VLA Deployment AI Intern](https://job-boards.greenhouse.io/xpengmotors/jobs/8535409002) | 58 | Santa Clara, CA | Hardware | 2026-05-09 |
 
 ## Xsolla
 

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-06T03:38:35.332Z",
+  "generatedAt": "2026-08-06T06:14:01.526Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1863,
+  "jobCount": 1861,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -123,7 +123,6 @@
     "canonical:f2f1d1df11463641": "2026-05-09T15:28:15.527Z",
     "canonical:c4364ae941de1dfd": "2026-05-09T15:28:15.527Z",
     "canonical:db017660ddf68d47": "2026-05-09T15:28:15.527Z",
-    "canonical:4871e71be3a18e9d": "2026-05-09T15:28:15.527Z",
     "canonical:9f4992259e91b180": "2026-05-09T15:28:15.527Z",
     "canonical:7134f71d6610c363": "2026-05-09T15:28:15.527Z",
     "canonical:b06161b2a0f4c01f": "2026-05-09T15:28:15.527Z",
@@ -1067,7 +1066,6 @@
     "canonical:ec16c071527631d0": "2026-07-23T22:36:18.111Z",
     "canonical:9ee847098be201d0": "2026-07-23T23:35:05.953Z",
     "canonical:bb7dddb8c991bc8a": "2026-07-23T23:35:05.953Z",
-    "canonical:2e7e5ba5bc6422d1": "2026-07-23T23:35:05.953Z",
     "canonical:00f3c0ed08ae0a1f": "2026-07-23T23:35:05.953Z",
     "canonical:c66bdf218e8e2b56": "2026-07-23T23:35:05.953Z",
     "canonical:ecf3c220bd694a07": "2026-07-23T23:35:05.953Z",
@@ -2088,10 +2086,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:cc5154b2bc1dc1f6",
       "title": "Graduate Software Engineer",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917773101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4818790101",
+      "location": "Chicago, United States",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -2103,10 +2101,10 @@
       ]
     },
     {
-      "id": "canonical:cc5154b2bc1dc1f6",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4818790101",
-      "location": "Chicago, United States",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917773101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -6800,7 +6798,7 @@
     {
       "id": "canonical:94ad8209f1cb9e8d",
       "title": "PhD Research Scientist Intern",
-      "url": "https://jobs.smartrecruiters.com/Canva/6000000001289897",
+      "url": "https://jobs.smartrecruiters.com/Canva/6000000001291655",
       "location": "San Francisco, CA, United States",
       "department": "Information Technology",
       "company": "Canva",
@@ -10190,18 +10188,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:4871e71be3a18e9d",
-      "title": "VLA Deployment AI Intern",
-      "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8535409002",
-      "location": "Santa Clara, CA",
-      "department": "Hardware",
-      "company": "XPENG Motors",
-      "score": 58,
-      "scoreReasons": [
         "direct ATS"
       ]
     },
@@ -17487,19 +17473,6 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:2e7e5ba5bc6422d1",
-      "title": "Relationship Manager Commercial Markets Intern",
-      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CHARLOTTETOWN-Prince-Edward-Island-Canada/Relationship-Manager-Commercial-Markets-ntern-CFS_R-0000181764-1",
-      "location": "Charlottetown, PE, Canada",
-      "department": "Quant",
-      "company": "Royal Bank of Canada",
-      "score": 68,
-      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
