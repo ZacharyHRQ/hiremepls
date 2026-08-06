@@ -1,6 +1,6 @@
 # Open Internships
 
-**1865** internships across **142/143** companies — last updated 2026-08-06.
+**1863** internships across **142/143** companies — last updated 2026-08-06.
 
 ## Companies
 
@@ -51,7 +51,7 @@
 - [ASML](#asml) (2)
 - [Astera](#astera) (3)
 - [Astera Labs](#astera-labs) (3)
-- [Astranis](#astranis) (8)
+- [Astranis](#astranis) (7)
 - [Atomic Semi](#atomic-semi) (4)
 - [Auctor](#auctor) (1)
 - [Avery Dennison](#avery-dennison) (1)
@@ -95,10 +95,11 @@
 - [Bree](#bree) (1)
 - [Brio Water Technology](#brio-water-technology) (1)
 - [Brookfield](#brookfield) (2)
-- [ByteDance](#bytedance) (37)
+- [ByteDance](#bytedance) (44)
 - [Cadence Design Systems](#cadence-design-systems) (6)
 - [CAE](#cae) (1)
 - [CALSTART](#calstart) (3)
+- [Canva](#canva) (2)
 - [Capella](#capella) (2)
 - [Capital One](#capital-one) (6)
 - [CareScout](#carescout) (1)
@@ -120,8 +121,8 @@
 - [Circleback](#circleback) (1)
 - [Cirrus Logic](#cirrus-logic) (1)
 - [Cisive](#cisive) (1)
-- [Citadel](#citadel) (14)
-- [Citadel Securities](#citadel-securities) (11)
+- [Citadel](#citadel) (10)
+- [Citadel Securities](#citadel-securities) (9)
 - [City of Austin](#city-of-austin) (2)
 - [Clarity Innovations](#clarity-innovations) (1)
 - [Clerkie](#clerkie) (1)
@@ -488,11 +489,12 @@
 - [Roblox](#roblox) (1)
 - [Rockwell Automation](#rockwell-automation) (2)
 - [ROCKWOOL Group](#rockwool-group) (1)
-- [Royal Bank of Canada](#royal-bank-of-canada) (4)
+- [Royal Bank of Canada](#royal-bank-of-canada) (3)
 - [RTX](#rtx) (5)
 - [Samaya](#samaya) (1)
 - [Samsara](#samsara) (2)
 - [Sandhills Global](#sandhills-global) (2)
+- [Sargent & Lundy](#sargent-lundy) (1)
 - [Saronic](#saronic) (1)
 - [Savannah River National Laboratory](#savannah-river-national-laboratory) (1)
 - [Scale AI](#scale-ai) (3)
@@ -517,7 +519,7 @@
 - [Snowflake](#snowflake) (11)
 - [Solar Turbines](#solar-turbines) (2)
 - [SoloPulse](#solopulse) (3)
-- [Sony](#sony) (3)
+- [Sony](#sony) (2)
 - [Sony Pictures Entertainment](#sony-pictures-entertainment) (2)
 - [SOTI](#soti) (2)
 - [SpaceX](#spacex) (3)
@@ -552,10 +554,9 @@
 - [Tenstorrent](#tenstorrent) (6)
 - [Terranova](#terranova) (1)
 - [Terranox AI](#terranox-ai) (1)
-- [Tesla](#tesla) (86)
+- [Tesla](#tesla) (85)
 - [Tessera Labs](#tessera-labs) (1)
 - [TETRAMEM](#tetramem) (1)
-- [Tevora](#tevora) (8)
 - [Texas Instruments](#texas-instruments) (1)
 - [Thales](#thales) (1)
 - [The Boeing Company](#the-boeing-company) (2)
@@ -570,7 +571,7 @@
 - [Thomson Reuters](#thomson-reuters) (1)
 - [thyssenkrupp](#thyssenkrupp) (2)
 - [TIFIN](#tifin) (1)
-- [TikTok](#tiktok) (98)
+- [TikTok](#tiktok) (104)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
 - [TMX Group](#tmx-group) (1)
@@ -1172,7 +1173,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern - Enterprise Systems](https://job-boards.greenhouse.io/astranis/jobs/4699071006) | 93 | SF | Software | 2026-07-23 |
 | [Radiation Effects Engineer Intern](https://job-boards.greenhouse.io/astranis/jobs/4694853006) | 58 | SF | Hardware | 2026-07-07 |
-| [Reliability Design Intern](https://job-boards.greenhouse.io/astranis/jobs/4681472006) | 58 | SF | Hardware | 2026-07-01 |
 | [Reliability Design Associate Intern](https://job-boards.greenhouse.io/astranis/jobs/4681416006) | 58 | SF | Hardware | 2026-06-23 |
 | [Embedded Software Developer – Network/Payload Software Intern](https://job-boards.greenhouse.io/astranis/jobs/4601135006) | 93 | SF | Hardware | 2026-06-21 |
 | [Software Engineer-Backend Intern](https://job-boards.greenhouse.io/astranis/jobs/4681183006) | 93 | SF | Software | 2026-05-14 |
@@ -1463,6 +1463,13 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [GPU/AI Application System Software Engineer Intern - System Technologies and Engineering](https://jobs.bytedance.com/en/position/7668464504736876853/detail) | 85 | San Jose, CA | Software | 2026-08-06 |
+| [Research Scientist Intern - Multimedia Streaming](https://jobs.bytedance.com/en/position/7670354800621603125/detail) | 85 | San Diego, CA | AI/ML/Data | 2026-08-06 |
+| [Video/Image AI/ML Software Engineer Intern - Multimedia](https://jobs.bytedance.com/en/position/7670354329765464373/detail) | 85 | San Diego, CA | Software | 2026-08-06 |
+| [AI/LLM Network Research Intern - High Speed Network](https://jobs.bytedance.com/en/position/7670281454740818181/detail) | 60 | Seattle, WA | AI/ML/Data | 2026-08-06 |
+| [AI/LLM Network Research Intern - High Speed Network - PhD](https://jobs.bytedance.com/en/position/7669969771686775045/detail) | 60 | San Jose, CA | AI/ML/Data | 2026-08-06 |
+| [Software Engineer Intern - Global Payment - Compliance](https://jobs.bytedance.com/en/position/7669774721406208261/detail) | 60 | San Jose, CA | Software | 2026-08-06 |
+| [ASIC Design Engineer Intern - Video Silicon IP](https://jobs.bytedance.com/en/position/7670332179383699717/detail) | 50 | San Jose, CA | Hardware | 2026-08-06 |
 | [Student Researcher Intern - AI Foundation Models Infrastructure - Seed Infra](https://jobs.bytedance.com/en/position/7670330161462364421/detail) | 85 | Seattle, WA | AI/ML/Data | 2026-08-05 |
 | [Software Engineer Intern, Distributed NoSQL Database Systems](https://joinbytedance.com/search/7668373268886161669) | 85 | Seattle, WA | — | 2026-08-04 |
 | [Software Engineer Intern - AI Platform](https://jobs.bytedance.com/en/position/7668212952030841093/detail) | 85 | San Jose, CA | Software | 2026-08-04 |
@@ -1525,6 +1532,13 @@
 | [Data Analysis Intern](https://jobs.lever.co/calstart/39565f0d-d10f-458b-b72d-d807420059b8/apply) | 68 | Remote in USA | AI/ML/Data | 2026-07-30 |
 | [Web Development Intern](https://jobs.lever.co/calstart/cbd0d758-18b0-481d-9e67-a065682f30ea/apply) | 68 | Remote in USA | Software | 2026-07-30 |
 | [Zero-Emission Data & Research Intern](https://jobs.lever.co/calstart/faf839b1-8c62-4fcf-991c-71750d8fc909/apply) | 68 | Remote in USA | AI/ML/Data | 2026-07-30 |
+
+## Canva
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [PhD Research Scientist Intern](https://jobs.smartrecruiters.com/Canva/6000000001289897) | 83 | San Francisco, CA, United States | Information Technology | 2026-08-06 |
+| [PhD Research Scientist Intern](https://jobs.smartrecruiters.com/Canva/6000000001289889) | 83 | Sydney, , Australia | Information Technology | 2026-08-06 |
 
 ## Capella
 
@@ -1688,20 +1702,16 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Sector Data Analyst Intern](https://www.citadel.com/careers/details/sector-data-analyst-intern-europe/) | 60 | London, UK | AI/ML/Data | 2026-08-01 |
 | [Quantitative Research Engineer Intern](https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-europe/) | 85 | London, UK | Quant | 2026-07-14 |
 | [Software Engineer Intern](https://www.citadel.com/careers/details/software-engineer-intern-europe/) | 85 | London, UK | Software | 2026-07-14 |
 | [Investment & Trading Intern](https://www.citadel.com/careers/details/investment-trading-intern-europe/) | 60 | London, UK / Paris, France | Quant | 2026-07-14 |
 | [Quantitative Research Analyst Intern](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/) | 60 | London, UK / Paris, France | Quant | 2026-07-14 |
-| [Quantitative Trader: Equity Quantitative Research Intern](https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-intern-us/) | 60 | NYC | Quant | 2026-07-09 |
 | [Software Engineer, Intern (Summer 2026)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002?fbclid=PAQ0xDSwK38VtleHRuA2FlbQIxMQABpwFCtP3w0jUMJ2UyUfRb7jqEW6gF5Rr31twvg5geVxUyYXlmmQrGSEf9O3Pw_aem_MfePXp-UnrQgRcTvm_Lh4Q) | 93 | Chicago | — | 2026-07-09 |
 | [Software Engineer Intern](https://www.citadel.com/careers/details/software-engineer-intern-us/) | 85 | Greenwich, CT / Houston, TX / Miami, FL / NYC | Software | 2026-07-06 |
 | [Quantitative Research Analyst Intern](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/) | 60 | Greenwich, CT / Miami, FL / NYC | Quant | 2026-07-06 |
-| [Trader: Fixed Income & Macro Intern](https://www.citadel.com/careers/details/trader-fixed-income-macro-intern-us/) | 60 | Greenwich, CT / Miami, FL / NYC | Quant | 2026-07-06 |
 | [Machine Learning Researcher – PhD Intern - US](https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-us/) | 85 | NYC | AI/ML/Data | 2026-07-01 |
 | [Quantitative Research Engineer Intern](https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-us/) | 85 | Greenwich, CT / Houston, TX / Miami, FL / NYC | Quant | 2026-07-01 |
 | [Quantitative Researcher – PhD Intern](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-europe/) | 85 | London, UK | Quant | 2026-07-01 |
-| [Quantitative Researcher – PhD Intern](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/) | 85 | Greenwich, CT / Houston, TX / Miami, FL / NYC | Quant | 2026-07-01 |
 
 ## Citadel Securities
 
@@ -1710,10 +1720,8 @@
 | [FPGA Engineer Intern](https://www.citadelsecurities.com/careers/details/fpga-engineer-intern-us/) | 50 | Miami, FL / NYC | Hardware | 2026-07-28 |
 | [Quantitative Researcher PhD Intern](https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-us/) | 85 | Miami, FL / NYC | Quant | 2026-07-21 |
 | [Software Engineer Intern](https://www.citadelsecurities.com/careers/details/software-engineer-intern-europe/) | 85 | London, UK | Software | 2026-07-21 |
-| [Rates Trading Intern](https://www.citadelsecurities.com/careers/details/rates-trading-intern-europe/) | 60 | London, UK / Paris, France | Quant | 2026-07-21 |
 | [Quantitative Research Analyst Intern](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe-2/) | 60 | London, UK | Quant | 2026-07-20 |
 | [Quantitative Research Analyst Bachelor's or master's degree Intern](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/) | 60 | London, UK / Paris, France | Quant | 2026-07-14 |
-| [Quantitative Trading Intern](https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-europe/) | 60 | London, UK / Paris, France | Quant | 2026-07-14 |
 | [Quantitative Researcher PhD Intern](https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-europe/) | 85 | London, UK | Quant | 2026-07-08 |
 | [Software Engineer Intern](https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/) | 85 | Miami, FL / NYC | Software | 2026-07-06 |
 | [Machine Learning Researcher PhD Intern](https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-intern-us/) | 85 | Miami, FL / NYC | AI/ML/Data | 2026-07-01 |
@@ -1760,7 +1768,7 @@
 | [AI Innovation Intern – Service Sales (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395) | 38 | In-Office | — | 2026-07-30 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-07-29 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Marketing Events and Campaigns Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8053546?gh_jid=8053546) | 38 | In-Office | — | 2026-07-09 |
@@ -3732,7 +3740,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [2027 Intern Software Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573) | 93 | United States-Florida-Melbourne | Software / Summer 2027 | 2026-08-06 |
+| [Software Engineer Intern - Aeronautics Systems](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573) | 93 | Melbourne, FL | Software | 2026-08-06 |
 | [2027 Returning Intern Software Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Returning-Intern-Software-Engineer_R10242378) | 93 | United States-Florida-Melbourne | Software / Summer 2027 | 2026-07-28 |
 
 ## Northwestern Mutual
@@ -4430,7 +4438,6 @@
 | --- | --- | --- | --- | --- |
 | [Business Markets Relationship Manager Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/BATHURST-New-Brunswick-Canada/Relationship-Manager-Business-Markets--Intern_R-0000182302) | 68 | Bathurst, NB, Canada | Quant | 2026-07-28 |
 | [Relationship Manager Commercial Markets Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CHARLOTTETOWN-Prince-Edward-Island-Canada/Relationship-Manager-Commercial-Markets-ntern-CFS_R-0000181764-1) | 68 | Charlottetown, PE, Canada | Quant | 2026-07-23 |
-| [Relationship Manager Commercial Markets Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CAPE-BRETON-Nova-Scotia-Canada/Relationship-Manager-Commercial-Markets--Intern_R-0000181768) | 68 | Inverness, NS, Canada | Quant | 2026-07-23 |
 | [Relationship Manager Commercial Markets Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/GRAND-FALLS-New-Brunswick-Canada/Relationship-Manager-Commercial-Markets-Intern_R-0000178547) | 68 | Madawaska County, NB, Canada | Quant | 2026-07-22 |
 
 ## RTX
@@ -4462,6 +4469,12 @@
 | --- | --- | --- | --- | --- |
 | [Software Development Intern](https://www.sandhills.com/careers-and-internships/details/careers/sandhills/1196/software-development-intern) | 60 | Scottsdale, AZ | Software Engineering | 2026-06-24 |
 | [Software Development Intern](https://www.sandhills.com/careers-and-internships/details/careers/sandhills/1195/software-development-intern) | 60 | Lincoln, NE | Software Engineering | 2026-05-09 |
+
+## Sargent & Lundy
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI & Automation Intern - Summer 2027](https://careers-sargentlundy.icims.com/jobs/25857/job?mobile=true&needsRedirect=false) | 60 | Wilmington, DE | AI/ML/Data | 2026-08-06 |
 
 ## Saronic
 
@@ -4638,7 +4651,6 @@
 | --- | --- | --- | --- | --- |
 | [Research on Generative and Protective AI for Content Creation Intern](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335) | 68 | NYC | AI/ML/Data | 2026-08-01 |
 | [Software Engineer Intern](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-119282) | 93 | San Diego, CA | Software | 2026-08-01 |
-| [Research Intern on Generative and Protective AI for Content Creation](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-118961) | 68 | NYC | AI/ML/Data | 2026-08-01 |
 
 ## Sony Pictures Entertainment
 
@@ -4969,7 +4981,6 @@
 | [Electronic Design Engineer Intern - Optimus](https://www.tesla.com/careers/search/job/271981) | 50 | Palo Alto, CA | Hardware | 2026-06-08 |
 | [AI Performance Engineer Intern - AI Performance Engineer - Performance Optimization](https://www.tesla.com/careers/search/job/263759) | 85 | Palo Alto, CA | AI/ML/Data | 2026-06-07 |
 | [Embedded Software Engineering Intern - Embedded Software Engineer - High Voltage Systems](https://www.tesla.com/careers/search/job/270354) | 85 | Palo Alto, CA | Hardware | 2026-06-07 |
-| [Software Engineer Intern - AI Data Infrastructure](https://www.tesla.com/careers/search/job/269829) | 85 | Palo Alto, CA | Software | 2026-06-07 |
 | [Software Engineer Intern - Software Engineer - AI Hardware Infrastructure](https://www.tesla.com/careers/search/job/260382) | 85 | Palo Alto, CA | Software | 2026-06-07 |
 | [Software Integration Engineer Intern - Software Integration Engineer - Optimus](https://www.tesla.com/careers/search/job/269809) | 85 | Palo Alto, CA | Hardware | 2026-06-07 |
 | [AI Hardware Design Engineer Intern - AI Hardware Design Engineer - AI Hardware](https://www.tesla.com/careers/search/job/272462) | 75 | Palo Alto, CA / Austin, TX | Hardware | 2026-06-07 |
@@ -5008,19 +5019,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern, Embedded](https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job) | 85 | San Jose, CA | — | 2026-07-09 |
-
-## Tevora
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Cybersecurity Internship Fall 2026 - Enterprise Risk Management](https://jobs.lever.co/tevora/1be28747-e28c-43af-b38c-087452263f96) | 68 | Irvine, CA | Security / Fall 2026 | 2026-07-30 |
-| [Cybersecurity Internship Fall 2026 - Federal](https://jobs.lever.co/tevora/335ec3e2-c7ee-4e4c-b4a9-04428999e954) | 68 | Fairfax, VA | Security / Fall 2026 | 2026-07-30 |
-| [Cybersecurity Internship Fall 2026 - Healthcare](https://jobs.lever.co/tevora/f3d10f98-0ee6-4ad7-a1a0-6863ff008adf) | 68 | Irvine, CA | Security / Fall 2026 | 2026-07-30 |
-| [Cybersecurity Internship Fall 2026 - International Organization for Standardization (ISO)](https://jobs.lever.co/tevora/dd7cd048-9997-425d-b1f4-d13f37c66df0) | 68 | Irvine, CA | Security / Fall 2026 | 2026-07-30 |
-| [Cybersecurity Internship Fall 2026 - Payments](https://jobs.lever.co/tevora/c0af26d1-51b0-41ba-9916-a208c1cafc29) | 68 | Fairfax, VA | Security / Fall 2026 | 2026-07-30 |
-| [Cybersecurity Internship Fall 2026 - Solutions](https://jobs.lever.co/tevora/23fb4ead-6204-4f9b-9a60-9c28b7d1d3dc) | 68 | Irvine, CA | Security / Fall 2026 | 2026-07-30 |
-| [Cybersecurity Internship Fall 2026 - Systems and Organizations Controls (SOC)](https://jobs.lever.co/tevora/fe730e76-b19c-4026-97d6-f4b6120b299e) | 68 | Irvine, CA | Security / Fall 2026 | 2026-07-30 |
-| [Cybersecurity Internship Fall 2026 - Threat](https://jobs.lever.co/tevora/5bec7454-0bde-4db3-85ec-f0af7a0a1733) | 68 | Irvine, CA | Security / Fall 2026 | 2026-07-30 |
 
 ## Texas Instruments
 
@@ -5113,6 +5111,12 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern - Foundation Platform](https://lifeattiktok.com/search/7670281449668905269) | 85 | San Jose, CA | Software | 2026-08-06 |
+| [Software Engineer Intern - Media Engine](https://lifeattiktok.com/search/7670295535077427509) | 85 | San Jose, CA | Software | 2026-08-06 |
+| [Data Science Intern - Advertisement Team - 2026 Start','PhD](https://lifeattiktok.com/search/7602395891774802181) | 60 | San Jose, CA | AI/ML/Data | 2026-08-06 |
+| [Product Manager Intern - Product Infrastructure - Account](https://lifeattiktok.com/search/7670009830602721589) | 60 | San Jose, CA | Product | 2026-08-06 |
+| [Strategy Product Manager Intern - Platform Responsibility](https://lifeattiktok.com/search/7670420287191517493) | 60 | San Jose, CA | Product | 2026-08-06 |
+| [Product Operations Intern - TikTok Shop Apps and API - MBA](https://lifeattiktok.com/search/7668820702623467781) | 50 | Seattle, WA | Product | 2026-08-06 |
 | [Backend Software Engineer Intern - Creation Platform](https://lifeattiktok.com/search/7670289874020993285) | 85 | San Jose, CA | Software | 2026-08-05 |
 | [Data Engineer Intern - Ads Targeting](https://lifeattiktok.com/search/7668533140146817333) | 85 | San Jose, CA | AI/ML/Data | 2026-08-05 |
 | [Data Scientist Intern - VOD Data](https://lifeattiktok.com/search/7670287013157095733) | 85 | San Jose, CA | AI/ML/Data | 2026-08-05 |
@@ -5190,8 +5194,8 @@
 | [Research Scientist Intern - E-commerce Recommendation - Multiple Teams](https://lifeattiktok.com/search/7629188397976586501) | 85 | Seattle, WA | AI/ML/Data | 2026-07-21 |
 | [Data Analyst Project Intern](https://lifeattiktok.com/search/7616659899507591477) | 60 | London, UK | AI/ML/Data | 2026-07-21 |
 | [Research Scientist Intern - TikTok Search / Generative AI - LLM](https://lifeattiktok.com/search/7629250876813642037) | 85 | San Jose, CA | AI/ML/Data | 2026-07-20 |
+| [LLM Post-training Engineer Intern - Research & Product](https://lifeattiktok.com/search/7670285031018432773) | 85 | San Jose, CA | AI/ML/Data | 2026-07-09 |
 | [Software Engineer Intern, Recommendation Infrastructure](https://lifeattiktok.com/referral/tiktok/campus/position/7537493362585979154/detail?token=MzsxNzU3OTM3MTgyMDE1OzczNzM0OTcwMTcxNzQxMzIyNDA7MDsy) | 85 | Seattle, WA | — | 2026-07-09 |
-| [LLM Post-training Engineer Intern, Research & Product](https://lifeattiktok.com/search/7631599293708126517) | 75 | San Jose, CA | — | 2026-07-09 |
 | [Applied Scientist Intern - Recommendation AI Lab](https://lifeattiktok.com/search/7659527183984019765) | 85 | San Jose, CA | AI/ML/Data | 2026-07-07 |
 | [Product Manager Intern - TikTok Ads Agent-Scaled Growth](https://lifeattiktok.com/search/7657728959042046213) | 50 | San Jose, CA | Product | 2026-07-07 |
 | [Copyright Solution Product Manager Intern - Tiktok-Music](https://lifeattiktok.com/search/7657541997725288757) | 50 | San Jose, CA | Product | 2026-07-03 |
