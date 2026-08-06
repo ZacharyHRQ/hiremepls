@@ -1,6 +1,6 @@
 # Open Internships
 
-**1867** internships across **142/143** companies — last updated 2026-08-05.
+**1865** internships across **142/143** companies — last updated 2026-08-06.
 
 ## Companies
 
@@ -104,7 +104,7 @@
 - [CareScout](#carescout) (1)
 - [Castleton Commodities International](#castleton-commodities-international) (8)
 - [Caterpillar Inc.](#caterpillar-inc) (2)
-- [Centerfield](#centerfield) (4)
+- [Centerfield](#centerfield) (3)
 - [Centerstone](#centerstone) (1)
 - [Centific](#centific) (1)
 - [Cerebras](#cerebras) (3)
@@ -195,7 +195,7 @@
 - [Eridu AI](#eridu-ai) (1)
 - [Espa AI](#espa-ai) (1)
 - [Etched](#etched) (9)
-- [Etched.ai](#etched-ai) (5)
+- [Etched.ai](#etched-ai) (4)
 - [Ether.fi](#ether-fi) (1)
 - [ETHGlobal](#ethglobal) (1)
 - [Eulerity](#eulerity) (2)
@@ -403,7 +403,7 @@
 - [Nio](#nio) (3)
 - [Nissan Global](#nissan-global) (1)
 - [Niural](#niural) (1)
-- [Northrop Grumman](#northrop-grumman) (1)
+- [Northrop Grumman](#northrop-grumman) (2)
 - [Northwestern Mutual](#northwestern-mutual) (3)
 - [Notion](#notion) (5)
 - [Novanta](#novanta) (1)
@@ -517,7 +517,7 @@
 - [Snowflake](#snowflake) (11)
 - [Solar Turbines](#solar-turbines) (2)
 - [SoloPulse](#solopulse) (3)
-- [Sony](#sony) (4)
+- [Sony](#sony) (3)
 - [Sony Pictures Entertainment](#sony-pictures-entertainment) (2)
 - [SOTI](#soti) (2)
 - [SpaceX](#spacex) (3)
@@ -1574,7 +1574,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Product Manager Intern](https://jobs.ashbyhq.com/centerfield/92a124aa-9efd-4dbd-90f1-6319be7706b2/application?embed=true) | 58 | LA | Product | 2026-08-01 |
 | [Data Science Intern](https://jobs.ashbyhq.com/centerfield/916dcf42-d69a-4f00-875a-f8fe630e0f33) | 68 | Los Angeles, California | Data & ML/AI / Not stated | 2026-07-20 |
 | [Data Science Intern](https://jobs.ashbyhq.com/centerfield/916dcf42-d69a-4f00-875a-f8fe630e0f33/application) | 68 | LA | AI/ML/Data | 2026-06-23 |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/centerfield/3279e803-56ab-4e12-8168-c2fd60bc8e60/application) | 93 | LA | Software | 2026-06-09 |
@@ -1767,7 +1766,7 @@
 | [Marketing Events and Campaigns Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8053546?gh_jid=8053546) | 38 | In-Office | — | 2026-07-09 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
 
 ## Cloudforce
 
@@ -2250,7 +2249,6 @@
 | --- | --- | --- | --- | --- |
 | [Chipsim Intern](https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8/application) | 58 | San Jose, CA | Hardware | 2026-05-20 |
 | [Software Intern](https://jobs.ashbyhq.com/etched/605c286d-be56-4e83-83b8-436d29ce17df) | 68 | San Jose, CA | Software Engineering | 2026-05-09 |
-| [Architecture Intern](https://jobs.ashbyhq.com/Etched/6f23713f-5409-45b7-aae8-adb8710cdbc3/application) | 58 | San Jose, CA | Hardware | 2026-05-09 |
 | [DV Intern](https://jobs.ashbyhq.com/Etched/dacedaca-c4ca-4964-85a7-8df1738005bb/application) | 58 | San Jose, CA | Hardware | 2026-05-09 |
 | [Firmware Intern - Firmware](https://jobs.ashbyhq.com/Etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc/application) | 58 | San Jose, CA | Hardware | 2026-05-09 |
 
@@ -3734,6 +3732,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [2027 Intern Software Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573) | 93 | United States-Florida-Melbourne | Software / Summer 2027 | 2026-08-06 |
 | [2027 Returning Intern Software Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Returning-Intern-Software-Engineer_R10242378) | 93 | United States-Florida-Melbourne | Software / Summer 2027 | 2026-07-28 |
 
 ## Northwestern Mutual
@@ -4640,7 +4639,6 @@
 | [Research on Generative and Protective AI for Content Creation Intern](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335) | 68 | NYC | AI/ML/Data | 2026-08-01 |
 | [Software Engineer Intern](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-119282) | 93 | San Diego, CA | Software | 2026-08-01 |
 | [Research Intern on Generative and Protective AI for Content Creation](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-118961) | 68 | NYC | AI/ML/Data | 2026-08-01 |
-| [Intern – Advanced Computer Graphics Research](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Culver-City/Intern--Advanced-Computer-Graphics-Research_JR-118801) | 68 | Culver City, CA | AI/ML/Data | 2026-08-01 |
 
 ## Sony Pictures Entertainment
 
