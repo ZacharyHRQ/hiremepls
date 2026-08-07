@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-07T19:27:37.563Z",
+  "generatedAt": "2026-08-07T20:04:19.993Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1896,
+  "jobCount": 1895,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -323,7 +323,6 @@
     "canonical:c0eb083bfbe7a4b1": "2026-07-01T06:55:26.212Z",
     "canonical:29e5d4f961b72298": "2026-07-01T06:55:26.212Z",
     "canonical:3c5ef86675f85fd7": "2026-07-01T06:55:26.212Z",
-    "canonical:6e052f0809bb5c01": "2026-07-01T06:55:26.212Z",
     "canonical:4b8a37a15794fbdd": "2026-07-01T06:55:26.212Z",
     "canonical:14458563db8768c0": "2026-07-01T06:55:26.212Z",
     "canonical:1c5596e89463019b": "2026-07-01T06:55:26.212Z",
@@ -13562,18 +13561,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:6e052f0809bb5c01",
-      "title": "Product Intern",
-      "url": "https://job-boards.greenhouse.io/kensingtontours/jobs/5172007007",
-      "location": "Toronto, ON, Canada",
-      "department": "Product",
-      "company": "Kensington",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
       ]
     },
     {

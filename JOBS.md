@@ -1,6 +1,6 @@
 # Open Internships
 
-**1896** internships across **142/143** companies — last updated 2026-08-07.
+**1895** internships across **142/143** companies — last updated 2026-08-07.
 
 ## Companies
 
@@ -326,7 +326,7 @@
 - [K1](#k1) (1)
 - [Kastle AI](#kastle-ai) (2)
 - [KBR](#kbr) (1)
-- [Kensington](#kensington) (2)
+- [Kensington](#kensington) (1)
 - [Kepler Communications](#kepler-communications) (1)
 - [Keysight Technologies](#keysight-technologies) (2)
 - [Kirin](#kirin) (1)
@@ -3216,7 +3216,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Operations Intern - Ultraluxe Product](https://job-boards.greenhouse.io/kensingtontours/jobs/5172026007) | 58 | Toronto, ON, Canada | Product | 2026-07-01 |
-| [Product Intern](https://job-boards.greenhouse.io/kensingtontours/jobs/5172007007) | 58 | Toronto, ON, Canada | Product | 2026-07-01 |
 
 ## Kepler Communications
 
