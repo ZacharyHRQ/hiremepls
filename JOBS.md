@@ -1,6 +1,6 @@
 # Open Internships
 
-**1900** internships across **142/143** companies — last updated 2026-08-07.
+**1899** internships across **142/143** companies — last updated 2026-08-07.
 
 ## Companies
 
@@ -473,7 +473,7 @@
 - [Quadric](#quadric) (2)
 - [Quadrillion](#quadrillion) (3)
 - [Qualcomm](#qualcomm) (1)
-- [Quora](#quora) (2)
+- [Quora](#quora) (1)
 - [Radix Trading](#radix-trading) (1)
 - [Rainmaker](#rainmaker) (1)
 - [Ramp](#ramp) (1)
@@ -490,7 +490,7 @@
 - [Rivian](#rivian) (4)
 - [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (14)
 - [Roam](#roam) (1)
-- [Robinhood](#robinhood) (1)
+- [Robinhood](#robinhood) (2)
 - [Roblox](#roblox) (1)
 - [ROCKWOOL Group](#rockwool-group) (1)
 - [Royal Bank of Canada](#royal-bank-of-canada) (2)
@@ -641,7 +641,7 @@
 - [Workato](#workato) (1)
 - [WSP](#wsp) (1)
 - [WTW](#wtw) (1)
-- [X Development](#x-development) (2)
+- [X Development](#x-development) (1)
 - [XPENG Motors](#xpeng-motors) (1)
 - [Xsolla](#xsolla) (5)
 - [Yotta Labs](#yotta-labs) (2)
@@ -3263,7 +3263,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Application Developer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Indianapolis-IN/Application-Developer-Intern_R-00188193-1) | 93 | Indianapolis, IN | Software | 2026-08-07 |
+| [Application Developer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Indianapolis-IN/Application-Developer-Intern_R-00188193-1) | 93 | Indianapolis, IN | Software / Not stated | 2026-08-07 |
 
 ## Lensa
 
@@ -4350,7 +4350,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer, Machine Learning Platform, New Grad - Quora (Remote)](https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db) | 96 | — | Engineering | 2026-08-01 |
-| [Machine Learning Engineer, New Grad - Quora (Remote)](https://jobs.ashbyhq.com/quora/3eb7e80e-6a0d-41b6-8ee4-f62421c486e4) | 96 | — | Engineering | 2026-07-28 |
 
 ## Radix Trading
 
@@ -4476,6 +4475,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Market Research Strategy Intern](https://boards.greenhouse.io/robinhood/jobs/8103727?t=gh_src=&gh_jid=8103727) | 58 | Singapore | — | 2026-08-07 |
 | [Customer Experience Associate (New Grad)](https://boards.greenhouse.io/robinhood/jobs/8024530?t=gh_src=&gh_jid=8024530) | 64 | Westlake, TX | — | 2026-07-02 |
 
 ## Roblox
@@ -5722,7 +5722,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [PhD Residency Intern - Operations Research and Optimization](https://x.company/careers/8511395002?gh_jid=8511395002) | 60 | Mountain View, CA | AI/ML/Data | 2026-07-23 |
 | [PhD Residency Intern - Physical ML & Hardware-in-the-Loop - Future of Compute](https://x.company/careers/8616839002?gh_jid=8616839002) | 60 | Mountain View, CA | Hardware | 2026-07-02 |
 
 ## XPENG Motors

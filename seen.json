@@ -219,15 +219,16 @@
     "8013562",
     "7796077",
     "8089379",
-    "8089400",
     "8089407",
+    "8089400",
     "8052785",
     "8104024",
     "8105728"
   ],
   "Datadog": [],
   "Robinhood": [
-    "8024530"
+    "8024530",
+    "8103727"
   ],
   "Ramp": [
     "67fadb77-43d8-4449-954b-d4cf2c6d3b8b"
@@ -2100,7 +2101,6 @@
     "simplify:68188134-cafa-4b8d-aa5c-4edf4278eb7c",
     "simplify:708843fa-cd23-4f58-8f6b-9d646ec6460d",
     "simplify:01b73789-a55c-4227-864d-4e1c9f06b059",
-    "simplify:89566391-fb11-4a1c-8973-916ece3bb6ce",
     "simplify:04690200-00da-4592-b697-fc3f8a39af9c",
     "simplify:4f46a01a-d152-4a18-9cf9-ff106eede269",
     "simplify:1eeacbc8-6f20-4cf6-b5a2-0a2578151236",
@@ -2814,7 +2814,6 @@
     "simplify:6219c04b-bc5c-4d14-90ea-426f117b51c0",
     "simplify:2522e64f-6b7b-4896-8fec-6536ad4ea335",
     "simplify:2970def3-bba8-4f36-a2fe-f710b8bf6414",
-    "simplify:589c3fd9-a059-4f9e-a14c-c3e9ebebfc74",
     "simplify:d821822b-83af-4852-9853-6c6285ac4f11",
     "simplify:73204d10-3227-4e0a-a54c-1c869cac51f0",
     "simplify:c97b1332-a2e5-4276-8d54-70df4b7c21e7",
@@ -3229,7 +3228,6 @@
   "Nubank": [],
   "Runway": [],
   "Quora": [
-    "3eb7e80e-6a0d-41b6-8ee4-f62421c486e4",
     "452afc2e-0c79-41f8-8201-1aab7df775db"
   ],
   "Canva": [
@@ -3294,7 +3292,6 @@
   "Mercury": [],
   "Alchemy": [],
   "SimplifyJobs 2027": [
-    "simplify:faaeecec-2f51-4926-b379-c75a7cabe96b",
     "simplify:41b49e0b-6452-42a9-8893-0d31db922126",
     "simplify:1009dc2c-0870-44a9-a48f-4ac0b57cd856",
     "simplify:2ef20c02-0da5-469f-ae3b-77415aa7081c",
@@ -3551,7 +3548,6 @@
     "simplify:991a8f63-65fa-4790-8de1-d09deeed8643",
     "simplify:ea8ff237-6cb5-424b-917e-9ce08abf23a1",
     "simplify:2bf9596e-6416-4fef-8c6d-48ac964d59fa",
-    "simplify:00f44446-ad17-4f48-b8bb-b740cf261ff7",
     "simplify:78ecf03f-56f1-4a4f-8ec9-e5b351b77080",
     "simplify:7f826bfb-a9e6-425c-a6dc-82510874e1d0",
     "simplify:04c61af9-3fff-42ea-b8cb-7e2f17ca3778",
@@ -3674,7 +3670,6 @@
     "simplify:87840e6d-dbd7-4d75-8c8f-875bc8946ef0",
     "simplify:6148bc47-e98c-4c1a-9255-16279e18a578",
     "simplify:4c400c0a-2206-461c-9b0e-098446c599a8",
-    "simplify:183067f3-544e-4de5-8991-0da96367cf8d",
     "simplify:0606524d-078f-47d6-8447-f7842723a934",
     "simplify:92479793-1fc7-4426-8dea-7774d88b1d87",
     "simplify:eee826e6-97e1-40a7-91fd-be9d495e5e43",
@@ -4204,7 +4199,6 @@
     "simplify:6219c04b-bc5c-4d14-90ea-426f117b51c0",
     "simplify:2522e64f-6b7b-4896-8fec-6536ad4ea335",
     "simplify:2970def3-bba8-4f36-a2fe-f710b8bf6414",
-    "simplify:589c3fd9-a059-4f9e-a14c-c3e9ebebfc74",
     "simplify:d821822b-83af-4852-9853-6c6285ac4f11",
     "simplify:73204d10-3227-4e0a-a54c-1c869cac51f0",
     "simplify:c97b1332-a2e5-4276-8d54-70df4b7c21e7",
@@ -4544,7 +4538,6 @@
     "simplify:5eb62a8d-6a50-43b2-8ad5-9e2a0cd7947c",
     "simplify:efcb42ec-c0ae-4445-80bf-7e91ae4e749b",
     "simplify:c15f3015-5cd2-4085-b96b-0f494e898517",
-    "simplify:e5d6ed75-e71c-4466-a1c4-803fdc3bb93a",
     "simplify:b02864c4-64dc-4d65-9a2c-b9f7c09f26ee",
     "simplify:f0643ec0-8c50-47a7-9ed4-2932c56a1413",
     "simplify:5379a4df-fa7a-4799-8978-00d1844415b9",

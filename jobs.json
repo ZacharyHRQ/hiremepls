@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-07T16:31:28.951Z",
+  "generatedAt": "2026-08-07T17:30:56.020Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1900,
+  "jobCount": 1899,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1035,7 +1035,6 @@
     "canonical:6b7b6bd8b438d062": "2026-07-23T09:33:37.593Z",
     "canonical:2546a48edb53c369": "2026-07-23T09:33:37.593Z",
     "canonical:57a83ce2e217c172": "2026-07-23T09:33:37.593Z",
-    "canonical:a08081e95a533131": "2026-07-23T09:33:37.593Z",
     "canonical:321021f4a1164f56": "2026-07-23T09:33:37.593Z",
     "canonical:bc5c9009a8514433": "2026-07-23T11:29:56.453Z",
     "canonical:c686a4438be89e1f": "2026-07-23T13:01:14.511Z",
@@ -1151,7 +1150,6 @@
     "canonical:df49585228e5d6c4": "2026-07-28T10:01:49.734Z",
     "canonical:afd06236a322ba10": "2026-07-28T10:01:49.734Z",
     "canonical:8aecd6d568b068f0": "2026-07-28T10:01:49.734Z",
-    "canonical:aab4f0b4d1f76d91": "2026-07-28T10:01:49.734Z",
     "canonical:3ee04cf2f63f3a75": "2026-07-28T10:01:49.734Z",
     "canonical:7091eeb8a9b3166b": "2026-07-28T10:01:49.734Z",
     "canonical:b9ffd2f740690b14": "2026-07-28T10:01:49.734Z",
@@ -1903,7 +1901,8 @@
     "canonical:f5c7a8a6ddcf8063": "2026-08-07T15:33:10.128Z",
     "canonical:b38ae0f281342cfe": "2026-08-07T16:31:28.951Z",
     "canonical:bcaec80a2a8aa537": "2026-08-07T16:31:28.951Z",
-    "canonical:c16178a20f9ea8d1": "2026-08-07T16:31:28.951Z"
+    "canonical:c16178a20f9ea8d1": "2026-08-07T16:31:28.951Z",
+    "canonical:d8c556e249e58a87": "2026-08-07T17:30:56.020Z"
   },
   "jobs": [
     {
@@ -6849,22 +6848,6 @@
       ]
     },
     {
-      "id": "canonical:aab4f0b4d1f76d91",
-      "title": "Machine Learning Engineer, New Grad - Quora (Remote)",
-      "url": "https://jobs.ashbyhq.com/quora/3eb7e80e-6a0d-41b6-8ee4-f62421c486e4",
-      "location": "",
-      "department": "Engineering",
-      "company": "Quora",
-      "score": 96,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
-        "direct ATS",
-        "unknown location"
-      ]
-    },
-    {
       "id": "canonical:7756f5c0ccf773ae",
       "title": "Software Engineer, Machine Learning Platform, New Grad - Quora (Remote)",
       "url": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db",
@@ -7358,6 +7341,18 @@
       "score": 64,
       "scoreReasons": [
         "new grad",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:d8c556e249e58a87",
+      "title": "Market Research Strategy Intern",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8103727?t=gh_src=&gh_jid=8103727",
+      "location": "Singapore",
+      "department": "",
+      "company": "Robinhood",
+      "score": 58,
+      "scoreReasons": [
         "direct ATS"
       ]
     },
@@ -9864,18 +9859,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:a08081e95a533131",
-      "title": "PhD Residency Intern - Operations Research and Optimization",
-      "url": "https://x.company/careers/8511395002?gh_jid=8511395002",
-      "location": "Mountain View, CA",
-      "department": "AI/ML/Data",
-      "company": "X Development",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {
@@ -18139,20 +18122,6 @@
       ]
     },
     {
-      "id": "canonical:06c0a2c3751f2622",
-      "title": "Application Developer Intern",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Indianapolis-IN/Application-Developer-Intern_R-00188193-1",
-      "location": "Indianapolis, IN",
-      "department": "Software",
-      "company": "Leidos",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:1d0321a95fc9534a",
       "title": "Focused Ion Beam, Electron Microscopy, and Autonomous Characterization Intern - Multiple Teams",
       "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---Focused-Ion-Beam--Electron-Microscopy--and-Autonomous-Characterization_R14431",
@@ -25850,6 +25819,20 @@
       "location": "San Francisco, California, United States",
       "department": "Software / Fall 2026",
       "company": "Redwood Materials",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:06c0a2c3751f2622",
+      "title": "Application Developer Intern",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Indianapolis-IN/Application-Developer-Intern_R-00188193-1",
+      "location": "Indianapolis, IN",
+      "department": "Software / Not stated",
+      "company": "Leidos",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
