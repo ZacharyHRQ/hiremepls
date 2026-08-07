@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-07T20:55:41.443Z",
+  "generatedAt": "2026-08-07T21:29:13.411Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1896,
+  "jobCount": 1894,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -281,7 +281,6 @@
     "canonical:739d08f7f355d918": "2026-06-17T01:40:00.105Z",
     "canonical:ed844f44d7281700": "2026-06-17T06:49:09.742Z",
     "canonical:baf2d5063a323ec0": "2026-06-17T06:49:09.742Z",
-    "canonical:d15a582725b4129b": "2026-06-17T06:49:09.742Z",
     "canonical:411bdab6bb2d495d": "2026-06-17T11:27:12.169Z",
     "canonical:7dd8143286e8669f": "2026-06-18T11:04:19.200Z",
     "canonical:b4321a96d5262a5c": "2026-06-19T17:03:13.004Z",
@@ -1659,7 +1658,6 @@
     "canonical:88c728d0a77c0cde": "2026-08-04T03:32:55.088Z",
     "canonical:675e4983d1c4aad9": "2026-08-04T03:32:55.088Z",
     "canonical:0c1fdaa49f9ee376": "2026-08-04T09:06:37.515Z",
-    "canonical:4bea22f80f62e164": "2026-08-04T09:06:37.515Z",
     "canonical:d80882b0599096c9": "2026-08-04T09:06:37.515Z",
     "canonical:ce9d5d84ac506408": "2026-08-04T09:06:37.515Z",
     "canonical:a6aab99e0fa558e3": "2026-08-04T09:06:37.515Z",
@@ -6710,18 +6708,6 @@
       ]
     },
     {
-      "id": "canonical:c4899e61c3f2d9c6",
-      "title": "Applied Research Intern Co-op",
-      "url": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Block",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:0942563fedd29433",
       "title": "Applied Research Intern PhD / Graduate Co-op",
       "url": "http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008",
@@ -6732,6 +6718,18 @@
       "scoreReasons": [
         "high-signal role",
         "new grad"
+      ]
+    },
+    {
+      "id": "canonical:c4899e61c3f2d9c6",
+      "title": "Applied Research Intern Co-op",
+      "url": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
+      "location": "Toronto, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "Block",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
       ]
     },
     {
@@ -12735,18 +12733,6 @@
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:d15a582725b4129b",
-      "title": "Reporting Specialist Co-op/Intern",
-      "url": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9150",
-      "location": "Mississauga, ON, Canada / Kitchener, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Definity Financial",
-      "score": 60,
-      "scoreReasons": [
         "high-signal role"
       ]
     },
@@ -20450,18 +20436,6 @@
         "high-signal role",
         "direct ATS",
         "lower-fit title"
-      ]
-    },
-    {
-      "id": "canonical:4bea22f80f62e164",
-      "title": "Business Intelligence Intern",
-      "url": "https://jobs.jobvite.com/webmd/job/oQBjAfw4?nl=1&nl=1&fr=false",
-      "location": "Newark, NJ",
-      "department": "AI/ML/Data",
-      "company": "WebMD",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {

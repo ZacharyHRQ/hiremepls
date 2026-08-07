@@ -1,6 +1,6 @@
 # Open Internships
 
-**1896** internships across **142/143** companies — last updated 2026-08-07.
+**1894** internships across **142/143** companies — last updated 2026-08-07.
 
 ## Companies
 
@@ -163,7 +163,7 @@
 - [DE Shaw](#de-shaw) (1)
 - [Dedalus Labs](#dedalus-labs) (1)
 - [Deepgram](#deepgram) (2)
-- [Definity Financial](#definity-financial) (2)
+- [Definity Financial](#definity-financial) (1)
 - [Deloitte](#deloitte) (1)
 - [Delta Air Lines](#delta-air-lines) (1)
 - [Delta Dental](#delta-dental) (1)
@@ -631,7 +631,6 @@
 - [Warner Bros.](#warner-bros) (3)
 - [Waymo](#waymo) (1)
 - [Weaviate](#weaviate) (1)
-- [WebMD](#webmd) (1)
 - [Wells Fargo](#wells-fargo) (11)
 - [WeRide](#weride) (1)
 - [Western Digital](#western-digital) (3)
@@ -2042,7 +2041,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Technology Solutions Data Platform & Engineering Co-op/Intern](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9124) | 60 | Toronto, ON, Canada | AI/ML/Data | 2026-06-20 |
-| [Reporting Specialist Co-op/Intern](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9150) | 60 | Mississauga, ON, Canada / Kitchener, ON, Canada | AI/ML/Data | 2026-06-17 |
 
 ## Deloitte
 
@@ -5642,12 +5640,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Developer Advocate Intern](https://jobs.ashbyhq.com/weaviate/0d1c47c4-bc5b-45d8-8791-8f30f0fb2a12) | 55 | — | Growth | 2026-07-28 |
-
-## WebMD
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Business Intelligence Intern](https://jobs.jobvite.com/webmd/job/oQBjAfw4?nl=1&nl=1&fr=false) | 60 | Newark, NJ | AI/ML/Data | 2026-08-04 |
 
 ## Wells Fargo
 
