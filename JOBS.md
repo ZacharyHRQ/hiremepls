@@ -1,6 +1,6 @@
 # Open Internships
 
-**1895** internships across **142/143** companies — last updated 2026-08-07.
+**1896** internships across **142/143** companies — last updated 2026-08-07.
 
 ## Companies
 
@@ -241,7 +241,7 @@
 - [Gemini](#gemini) (1)
 - [Generac](#generac) (1)
 - [General Astronautics](#general-astronautics) (1)
-- [General Dynamics Information Technology](#general-dynamics-information-technology) (3)
+- [General Dynamics Information Technology](#general-dynamics-information-technology) (4)
 - [General Intuition &amp; Medal](#general-intuition-amp-medal) (1)
 - [General Motors](#general-motors) (1)
 - [GenMD](#genmd) (1)
@@ -2569,6 +2569,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Summer 2027 AI/Machine Learning Internship -DC Metro Area](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912) | 68 | USA VA Falls Church | Data & ML/AI / Summer 2027 | 2026-08-07 |
 | [Artificial Intelligence/Machine Learning Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church---3150-Fairview-Park-Dr-VAS095/GDIT-2027-Summer-AI---ML-Internship_RQ225401) | 68 | Falls Church, VA | AI/ML/Data | 2026-08-05 |
 | [Software Developer Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225450-1) | 93 | Annapolis Junction, MD | Software | 2026-08-04 |
 | [Systems Engineer Intern](https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity) | 75 | Albany, NY | — | 2026-07-30 |

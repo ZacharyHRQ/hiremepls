@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-07T20:04:19.993Z",
+  "generatedAt": "2026-08-07T20:55:41.443Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1895,
+  "jobCount": 1896,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1898,7 +1898,8 @@
     "canonical:2263174a973b82d0": "2026-08-07T19:27:37.563Z",
     "canonical:869c2e779bf6d405": "2026-08-07T19:27:37.563Z",
     "canonical:efd5d04b90313526": "2026-08-07T19:27:37.563Z",
-    "canonical:103536fb91331fcf": "2026-08-07T19:27:37.563Z"
+    "canonical:103536fb91331fcf": "2026-08-07T19:27:37.563Z",
+    "canonical:36e774ce9ddfbe1d": "2026-08-07T20:55:41.443Z"
   },
   "jobs": [
     {
@@ -25409,26 +25410,12 @@
       ]
     },
     {
-      "id": "canonical:5e598c12e2dca262",
-      "title": "AI Operations Engineer Intern",
-      "url": "https://jobs.lever.co/acds/e468d15b-69c3-4534-8072-7ff3f85fbf83",
-      "location": "Lowell, AR",
-      "department": "Data & ML/AI / Not stated",
-      "company": "ACDS",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:2263174a973b82d0",
-      "title": "Asc Cybersecurity Gov&Risk Analyst - Intern/Co-op Conversion 2027 (Souza)",
-      "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Asc-Cybersecurity-Gov-Risk-Analyst---Intern-Co-op-Conversion-2027--Souza-_R40863",
-      "location": "Charlotte, NC",
-      "department": "Security / Summer 2027",
-      "company": "Duke Energy",
+      "id": "canonical:36e774ce9ddfbe1d",
+      "title": "Summer 2027 AI/Machine Learning Internship -DC Metro Area",
+      "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912",
+      "location": "USA VA Falls Church",
+      "department": "Data & ML/AI / Summer 2027",
+      "company": "General Dynamics Information Technology",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -25441,6 +25428,19 @@
       "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383163008",
       "location": "Washington, DC",
       "department": "Data & ML/AI / Fall 2026",
+      "company": "The Nuclear Company",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:103536fb91331fcf",
+      "title": "Summer 2027 Software Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008",
+      "location": "Washington, DC",
+      "department": "Software / Summer 2027",
       "company": "The Nuclear Company",
       "score": 68,
       "scoreReasons": [
@@ -25462,12 +25462,26 @@
       ]
     },
     {
-      "id": "canonical:103536fb91331fcf",
-      "title": "Summer 2027 Software Engineering Intern",
-      "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008",
-      "location": "Washington, DC",
-      "department": "Software / Summer 2027",
-      "company": "The Nuclear Company",
+      "id": "canonical:5e598c12e2dca262",
+      "title": "AI Operations Engineer Intern",
+      "url": "https://jobs.lever.co/acds/e468d15b-69c3-4534-8072-7ff3f85fbf83",
+      "location": "Lowell, AR",
+      "department": "Data & ML/AI / Not stated",
+      "company": "ACDS",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:2263174a973b82d0",
+      "title": "Asc Cybersecurity Gov&Risk Analyst - Intern/Co-op Conversion 2027 (Souza)",
+      "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Asc-Cybersecurity-Gov-Risk-Analyst---Intern-Co-op-Conversion-2027--Souza-_R40863",
+      "location": "Charlotte, NC",
+      "department": "Security / Summer 2027",
+      "company": "Duke Energy",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
