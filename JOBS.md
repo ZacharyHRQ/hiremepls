@@ -1,6 +1,6 @@
 # Open Internships
 
-**1899** internships across **142/143** companies — last updated 2026-08-07.
+**1900** internships across **142/143** companies — last updated 2026-08-07.
 
 ## Companies
 
@@ -117,7 +117,7 @@
 - [Cherry Bekaert](#cherry-bekaert) (2)
 - [Chevron Corporation](#chevron-corporation) (4)
 - [Chicago Trading Company](#chicago-trading-company) (5)
-- [Ciena](#ciena) (7)
+- [Ciena](#ciena) (8)
 - [Circle K](#circle-k) (1)
 - [Circleback](#circleback) (1)
 - [Cirrus Logic](#cirrus-logic) (1)
@@ -165,6 +165,7 @@
 - [Definity Financial](#definity-financial) (2)
 - [Deloitte](#deloitte) (1)
 - [Delta Air Lines](#delta-air-lines) (1)
+- [Delta Dental](#delta-dental) (1)
 - [Denari](#denari) (1)
 - [Densityai](#densityai) (1)
 - [Dewberry](#dewberry) (1)
@@ -314,7 +315,7 @@
 - [Jain Global](#jain-global) (1)
 - [Jane Street](#jane-street) (22)
 - [John Deere](#john-deere) (1)
-- [JP Morgan Chase](#jp-morgan-chase) (8)
+- [JP Morgan Chase](#jp-morgan-chase) (6)
 - [JPMorganChase](#jpmorganchase) (7)
 - [Jump Trading](#jump-trading) (48)
 - [Junior](#junior) (1)
@@ -548,6 +549,7 @@
 - [Susquehanna International Group, LLP (SIG)](#susquehanna-international-group-llp-sig) (3)
 - [Susquehanna Investment Group](#susquehanna-investment-group) (1)
 - [Sweatpals](#sweatpals) (1)
+- [Swift](#swift) (1)
 - [Synchrony Financial](#synchrony-financial) (6)
 - [Tacit](#tacit) (1)
 - [tarte cosmetics](#tarte-cosmetics) (1)
@@ -1696,6 +1698,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Developer Intern - Fall 2026](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Fall-2026_R031492) | 93 | Ottawa, ON, Canada | Hardware | 2026-08-07 |
 | [WaveLogic Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/WaveLogic-Software---Intern_R031443) | 93 | Ottawa, ON, Canada | Hardware | 2026-08-01 |
 | [Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering-Intern_R031372) | 93 | Ottawa, ON, Canada | Software | 2026-08-01 |
 | [Software Liquid Spectrum Applications Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Liquid-Spectrum-Applications-Intern--Fall-2026-_R031412) | 68 | Ottawa, ON, Canada | Software | 2026-08-01 |
@@ -1808,7 +1811,7 @@
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
 
 ## Cloudforce
 
@@ -2047,6 +2050,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Intern, Innovation - AI Engineering](https://delta.avature.net/en_US/careers/JobDetail?jobId=32774) | 60 | Atlanta, GA | Data Science, AI & Machine Learning | 2026-06-24 |
+
+## Delta Dental
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Application Development Intern](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101382) | 68 | Okemos, MI | Software | 2026-08-07 |
 
 ## Denari
 
@@ -3082,8 +3091,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Data Internship - Data & AI Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775223) | 60 | Palo Alto, CA / Newark, DE / Plano, TX / Chicago, IL / Jersey City, NJ / Columbus, OH / NYC / Wilmington, DE | AI/ML/Data | 2026-08-07 |
-| [Data & AI Intern - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869) | 60 | Palo Alto, CA / Newark, DE / Plano, TX / Chicago, IL / Jersey City, NJ / Columbus, OH / NYC / Wilmington, DE | AI/ML/Data | 2026-08-05 |
 | [Quantitative Research Intern](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774061) | 60 | NYC | Quant | 2026-08-04 |
 | [Quantitative Research Intern - Markets - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038) | 60 | NYC | Quant | 2026-08-04 |
 | [Quantitative Research Summer Analyst Intern - Asset Management](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774074) | 60 | NYC | Quant | 2026-08-04 |
@@ -4228,8 +4235,8 @@
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-07-09 |
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-07-09 |
 | [Corporate Access, off-cycle internship (6-months) – Japanese speaking](https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002) | 58 | Hong Kong | — | 2026-06-30 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -4892,6 +4899,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Product Manager Intern - Host Squad](https://jobs.ashbyhq.com/sweatpals/be2f5fa7-2542-40e6-873f-778322bb0522/application?embed=true) | 58 | Remote in USA | Product | 2026-08-01 |
+
+## Swift
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Industry Engagement Research Analyst Intern](https://swift.wd3.myworkdayjobs.com/join-swift/job/London-United-Kingdom/Industry-Engagement---Intern-Research-Analyst_2026-16321) | 68 | London, UK | AI/ML/Data | 2026-08-07 |
 
 ## Synchrony Financial
 
