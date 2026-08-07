@@ -1,6 +1,6 @@
 # Open Internships
 
-**1898** internships across **142/143** companies — last updated 2026-08-07.
+**1899** internships across **142/143** companies — last updated 2026-08-07.
 
 ## Companies
 
@@ -100,7 +100,7 @@
 - [Cadence Design Systems](#cadence-design-systems) (6)
 - [CAE](#cae) (1)
 - [CALSTART](#calstart) (3)
-- [Canva](#canva) (4)
+- [Canva](#canva) (5)
 - [Capella](#capella) (2)
 - [Capital One](#capital-one) (6)
 - [CareScout](#carescout) (1)
@@ -319,7 +319,7 @@
 - [Jump Trading](#jump-trading) (48)
 - [Junior](#junior) (1)
 - [Junior AI](#junior-ai) (1)
-- [k-ID](#k-id) (1)
+- [k-ID](#k-id) (2)
 - [K1](#k1) (1)
 - [Kastle AI](#kastle-ai) (2)
 - [KBR](#kbr) (1)
@@ -472,7 +472,6 @@
 - [Quadric](#quadric) (2)
 - [Quadrillion](#quadrillion) (3)
 - [Qualcomm](#qualcomm) (1)
-- [QuantCo](#quantco) (1)
 - [Quora](#quora) (2)
 - [Radix Trading](#radix-trading) (1)
 - [Rainmaker](#rainmaker) (1)
@@ -1564,6 +1563,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [PhD Research Scientist Intern - Reinforcement Learning - Images](https://jobs.smartrecruiters.com/Canva/6000000001292768) | 93 | London, UK | AI/ML/Data | 2026-08-07 |
 | [PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling](https://jobs.smartrecruiters.com/Canva/6000000001295209) | 83 | London, England, United Kingdom | Information Technology | 2026-08-07 |
 | [PhD Research Scientist Intern](https://jobs.smartrecruiters.com/Canva/6000000001291655-phd-research-scientist-intern) | 83 | San Francisco, CA | — | 2026-08-07 |
 | [PhD Research Scientist Intern](https://jobs.smartrecruiters.com/Canva/6000000001291655) | 83 | San Francisco, CA, United States | Information Technology | 2026-08-06 |
@@ -1921,7 +1921,7 @@
 | [Software Engineering Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR106129) | 68 | Dallas, TX | Software | 2026-08-05 |
 | [Technology Product Analyst Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107890) | 58 | Dallas, TX | Product | 2026-08-01 |
 | [Database Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Database-Engineering-Intern_JR109636) | 93 | Dallas, TX | Software | 2026-08-01 |
-| [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393) | 93 | Dallas, TX | Software | 2026-07-21 |
+| [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109441) | 93 | Dallas, TX | Software | 2026-07-21 |
 
 ## Core & Main
 
@@ -3172,6 +3172,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Engineering Intern - Program](https://jobs.ashbyhq.com/k-id/18619df2-45d8-4732-8815-9a340d498d48/application?embed=true) | 68 | United States | Software | 2026-08-07 |
 | [Product Intern](https://jobs.ashbyhq.com/k-id/35d45263-db3b-4553-b017-b4b1bbd0570d/application?embed=true) | 58 | United States | Product | 2026-07-21 |
 
 ## K1
@@ -4337,12 +4338,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [AI Integration & Interoperability Intern](https://qualcomm.eightfold.ai/careers/job/446716226621) | 60 | Cheektowaga, NY | Software | 2026-08-05 |
-
-## QuantCo
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://jobs.lever.co/quantco-/d69096fa-b673-4953-ba63-7deee08bc13c/apply) | 93 | London, UK / Bellheim, Germany / Wenden, Germany / Berlin, Germany / Munich, Germany | Software | 2026-07-20 |
 
 ## Quora
 

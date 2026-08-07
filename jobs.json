@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-07T11:29:59.962Z",
+  "generatedAt": "2026-08-07T12:09:44.568Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1898,
+  "jobCount": 1899,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -887,7 +887,6 @@
     "canonical:8b47260bbf8d9c30": "2026-07-20T23:30:05.931Z",
     "canonical:e07432483a22cedd": "2026-07-20T23:30:05.931Z",
     "canonical:b5671043797d16a2": "2026-07-20T23:30:05.931Z",
-    "canonical:50e5885bdeab08ff": "2026-07-20T23:30:05.931Z",
     "canonical:b09c0a4e6d147686": "2026-07-20T23:30:05.931Z",
     "canonical:92b3ad66c7dc9963": "2026-07-20T23:30:05.931Z",
     "canonical:ccf5a2571af6dded": "2026-07-20T23:30:05.931Z",
@@ -1901,7 +1900,9 @@
     "canonical:5c284124e0f71ec8": "2026-08-07T10:41:48.959Z",
     "canonical:c1e9394452463ed1": "2026-08-07T11:29:59.962Z",
     "canonical:0e017ac8de8fe28a": "2026-08-07T11:29:59.962Z",
-    "canonical:bdf92d3b568936a7": "2026-08-07T11:29:59.962Z"
+    "canonical:bdf92d3b568936a7": "2026-08-07T11:29:59.962Z",
+    "canonical:6b58b647e5acfee3": "2026-08-07T12:09:44.568Z",
+    "canonical:69acd4c0fa388415": "2026-08-07T12:09:44.568Z"
   },
   "jobs": [
     {
@@ -12170,20 +12171,6 @@
       ]
     },
     {
-      "id": "canonical:8212975b7a6dc9b6",
-      "title": "Software Engineer Intern",
-      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393",
-      "location": "Dallas, TX",
-      "department": "Software",
-      "company": "Copart",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:a9fec30c036e9862",
       "title": "AI Software Engineer Intern - Transaction Platform",
       "url": "https://lifeattiktok.com/search/7646621925436131637",
@@ -12917,6 +12904,20 @@
       "location": "Lincoln, NE",
       "department": "AI/ML/Data",
       "company": "Nelnet",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:8212975b7a6dc9b6",
+      "title": "Software Engineer Intern",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109441",
+      "location": "Dallas, TX",
+      "department": "Software",
+      "company": "Copart",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -15423,20 +15424,6 @@
       "company": "Duracell",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:50e5885bdeab08ff",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.lever.co/quantco-/d69096fa-b673-4953-ba63-7deee08bc13c/apply",
-      "location": "London, UK / Bellheim, Germany / Wenden, Germany / Berlin, Germany / Munich, Germany",
-      "department": "Software",
-      "company": "QuantCo",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
     },
     {
       "id": "canonical:66412bb9a55971a4",
@@ -18948,6 +18935,19 @@
       ]
     },
     {
+      "id": "canonical:6b58b647e5acfee3",
+      "title": "Engineering Intern - Program",
+      "url": "https://jobs.ashbyhq.com/k-id/18619df2-45d8-4732-8815-9a340d498d48/application?embed=true",
+      "location": "United States",
+      "department": "Software",
+      "company": "k-ID",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:f26d240f8c720268",
       "title": "Embedded Systems Intern",
       "url": "https://jobs.ashbyhq.com/terranova/8fdce1f7-a1df-4e64-8f10-c78771a399da/application?embed=true",
@@ -22123,6 +22123,20 @@
       "company": "Samsung Research America",
       "score": 68,
       "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:69acd4c0fa388415",
+      "title": "PhD Research Scientist Intern - Reinforcement Learning - Images",
+      "url": "https://jobs.smartrecruiters.com/Canva/6000000001292768",
+      "location": "London, UK",
+      "department": "AI/ML/Data",
+      "company": "Canva",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
