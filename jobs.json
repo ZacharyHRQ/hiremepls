@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-07T15:33:10.128Z",
+  "generatedAt": "2026-08-07T16:31:28.951Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1899,
+  "jobCount": 1900,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1287,7 +1287,6 @@
     "canonical:ee20935cdc5741b0": "2026-08-01T10:54:12.708Z",
     "canonical:569927c9e0027bb1": "2026-08-01T10:54:12.708Z",
     "canonical:063960912dad752e": "2026-08-01T10:54:12.708Z",
-    "canonical:6891c0ba8d854c9b": "2026-08-01T10:54:12.708Z",
     "canonical:afc9f49cbd23b95f": "2026-08-01T10:54:12.708Z",
     "canonical:e4240dee8fc1eab4": "2026-08-01T10:54:12.708Z",
     "canonical:f96555673f195af4": "2026-08-01T10:54:12.708Z",
@@ -1367,7 +1366,6 @@
     "canonical:671476feb017f2b4": "2026-08-01T15:33:38.600Z",
     "canonical:5b93475ac32ee191": "2026-08-01T15:33:38.600Z",
     "canonical:c32262e36ae9b8e5": "2026-08-01T15:33:38.600Z",
-    "canonical:83bb1cea723f1a8d": "2026-08-01T15:33:38.600Z",
     "canonical:ec23121dc644d031": "2026-08-01T15:33:38.600Z",
     "canonical:11b276e5677a2970": "2026-08-01T15:33:38.600Z",
     "canonical:2490d8bfc16fc718": "2026-08-01T15:33:38.600Z",
@@ -1902,7 +1900,10 @@
     "canonical:30e5103de8e36788": "2026-08-07T14:37:49.870Z",
     "canonical:b262fe5a924d1afe": "2026-08-07T14:37:49.870Z",
     "canonical:abae9c25da7a48c5": "2026-08-07T14:37:49.870Z",
-    "canonical:f5c7a8a6ddcf8063": "2026-08-07T15:33:10.128Z"
+    "canonical:f5c7a8a6ddcf8063": "2026-08-07T15:33:10.128Z",
+    "canonical:b38ae0f281342cfe": "2026-08-07T16:31:28.951Z",
+    "canonical:bcaec80a2a8aa537": "2026-08-07T16:31:28.951Z",
+    "canonical:c16178a20f9ea8d1": "2026-08-07T16:31:28.951Z"
   },
   "jobs": [
     {
@@ -2723,18 +2724,6 @@
       ]
     },
     {
-      "id": "canonical:1f361269ec79c7b7",
-      "title": "FPGA Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/8070392",
-      "location": "London, UK",
-      "department": "Hardware",
-      "company": "DRW",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:2bc4df178e85b4f6",
       "title": "FPGA Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/8038923",
@@ -2747,11 +2736,11 @@
       ]
     },
     {
-      "id": "canonical:8f04983c528e0d41",
-      "title": "Leadership Rotation Network Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7993195",
-      "location": "Chicago, IL",
-      "department": "",
+      "id": "canonical:1f361269ec79c7b7",
+      "title": "FPGA Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/8070392",
+      "location": "London, UK",
+      "department": "Hardware",
       "company": "DRW",
       "score": 58,
       "scoreReasons": [
@@ -2763,6 +2752,18 @@
       "title": "Leadership Rotation Network Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7957735",
       "location": "London",
+      "department": "",
+      "company": "DRW",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:8f04983c528e0d41",
+      "title": "Leadership Rotation Network Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7993195",
+      "location": "Chicago, IL",
       "department": "",
       "company": "DRW",
       "score": 58,
@@ -2838,10 +2839,10 @@
       ]
     },
     {
-      "id": "canonical:d40e55f9a26db473",
+      "id": "canonical:ae44a67983e1d43a",
       "title": "Quantitative Trading Analyst Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957243",
-      "location": "London, UK",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7668776",
+      "location": "Chicago, IL",
       "department": "Quant",
       "company": "DRW",
       "score": 68,
@@ -2851,10 +2852,10 @@
       ]
     },
     {
-      "id": "canonical:ae44a67983e1d43a",
+      "id": "canonical:d40e55f9a26db473",
       "title": "Quantitative Trading Analyst Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7668776",
-      "location": "Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957243",
+      "location": "London, UK",
       "department": "Quant",
       "company": "DRW",
       "score": 68,
@@ -3301,10 +3302,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -3315,10 +3316,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -6880,6 +6881,45 @@
       ]
     },
     {
+      "id": "canonical:b38ae0f281342cfe",
+      "title": "PhD Research Scientist Intern - Edge AI",
+      "url": "https://jobs.smartrecruiters.com/Canva/6000000001295792",
+      "location": "Vienna, Vienna, Austria",
+      "department": "Information Technology",
+      "company": "Canva",
+      "score": 83,
+      "scoreReasons": [
+        "SWE-aligned",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:bcaec80a2a8aa537",
+      "title": "PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling",
+      "url": "https://jobs.smartrecruiters.com/Canva/6000000001295787",
+      "location": "Vienna, Vienna, Austria",
+      "department": "Information Technology",
+      "company": "Canva",
+      "score": 83,
+      "scoreReasons": [
+        "SWE-aligned",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c16178a20f9ea8d1",
+      "title": "PhD Research Scientist Intern - Edge AI",
+      "url": "https://jobs.smartrecruiters.com/Canva/6000000001295782",
+      "location": "London, , United Kingdom",
+      "department": "Information Technology",
+      "company": "Canva",
+      "score": 83,
+      "scoreReasons": [
+        "SWE-aligned",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:f51807ef02a26de3",
       "title": "PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling",
       "url": "https://jobs.smartrecruiters.com/Canva/6000000001295209",
@@ -10186,19 +10226,6 @@
       ]
     },
     {
-      "id": "canonical:6891c0ba8d854c9b",
-      "title": "Research Scientist Intern",
-      "url": "https://www.metacareers.com/jobs/779670167783218",
-      "location": "Seattle, WA / Redmond, WA",
-      "department": "AI/ML/Data",
-      "company": "Meta",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:db017660ddf68d47",
       "title": "Reliability Test Intern",
       "url": "https://job-boards.greenhouse.io/astranis/jobs/4677973006",
@@ -12855,18 +12882,6 @@
       "location": "Santa Clara, CA",
       "department": "Product",
       "company": "Flagright",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:83bb1cea723f1a8d",
-      "title": "Optical Modem Hardware Intern",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Fall-2026-Optical-Modem-Hardware-Intern--8-12-months-_R031214",
-      "location": "Ottawa, ON, Canada",
-      "department": "Hardware",
-      "company": "Ciena",
       "score": 58,
       "scoreReasons": [
         "direct ATS"
