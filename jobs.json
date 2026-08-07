@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-07T07:56:51.250Z",
+  "generatedAt": "2026-08-07T08:51:25.928Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1902,
+  "jobCount": 1901,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -578,7 +578,6 @@
     "canonical:3b85b8606d58b1c1": "2026-07-09T00:19:16.415Z",
     "canonical:c7d944825ebe9b46": "2026-07-09T00:19:16.415Z",
     "canonical:5fc518fc7b2d3289": "2026-07-09T16:14:47.391Z",
-    "canonical:9795d61afb3cfc4d": "2026-07-09T16:14:47.391Z",
     "canonical:ae1c44502b279528": "2026-07-09T20:01:55.555Z",
     "canonical:f639bf6dc39c8e1a": "2026-07-10T02:38:18.769Z",
     "canonical:f876ea0d26bc5ee4": "2026-07-10T02:38:18.769Z",
@@ -7221,19 +7220,6 @@
       ]
     },
     {
-      "id": "canonical:9795d61afb3cfc4d",
-      "title": "Marketing Events and Campaigns Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8053546?gh_jid=8053546",
-      "location": "In-Office",
-      "department": "",
-      "company": "Cloudflare",
-      "score": 38,
-      "scoreReasons": [
-        "direct ATS",
-        "lower-fit title"
-      ]
-    },
-    {
       "id": "canonical:4653cafe91c23549",
       "title": "Marketing Programs and Analytics Intern (Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8104138?gh_jid=8104138",
@@ -7249,7 +7235,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
