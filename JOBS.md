@@ -1,6 +1,6 @@
 # Open Internships
 
-**1898** internships across **142/143** companies — last updated 2026-08-07.
+**1896** internships across **142/143** companies — last updated 2026-08-07.
 
 ## Companies
 
@@ -42,7 +42,6 @@
 - [Ardian](#ardian) (1)
 - [Argmax](#argmax) (1)
 - [Argonne National Laboratory](#argonne-national-laboratory) (1)
-- [Arizona State University](#arizona-state-university) (1)
 - [Arkema Global](#arkema-global) (1)
 - [Arlington County VA](#arlington-county-va) (1)
 - [Arlo](#arlo) (2)
@@ -143,7 +142,6 @@
 - [Commercial Metals](#commercial-metals) (1)
 - [Conagra Brands](#conagra-brands) (2)
 - [ConnectPrep](#connectprep) (2)
-- [ConocoPhillips](#conocophillips) (1)
 - [Constellation Space](#constellation-space) (1)
 - [Cooper Companies](#cooper-companies) (1)
 - [Copart](#copart) (4)
@@ -204,6 +202,7 @@
 - [Eulerity](#eulerity) (2)
 - [Eurofins](#eurofins) (1)
 - [EV Realty](#ev-realty) (1)
+- [Everstream Analytics](#everstream-analytics) (1)
 - [Evolver](#evolver) (1)
 - [Excel Sports Management](#excel-sports-management) (2)
 - [Expedia Group](#expedia-group) (1)
@@ -576,7 +575,7 @@
 - [The Trade Desk](#the-trade-desk) (2)
 - [Thermo Fisher Scientific](#thermo-fisher-scientific) (1)
 - [Thomson Reuters](#thomson-reuters) (1)
-- [thyssenkrupp](#thyssenkrupp) (2)
+- [thyssenkrupp](#thyssenkrupp) (1)
 - [TIFIN](#tifin) (1)
 - [TikTok](#tiktok) (109)
 - [Tilde Research](#tilde-research) (2)
@@ -1114,12 +1113,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Business Systems Administration Internship](https://argonne.wd1.myworkdayjobs.com/EDU_PUB/job/Lemont-IL-USA/Business-Systems-Administration-Internship_413528) | 68 | Remote in USA / Woodridge, IL | AI/ML/Data | 2026-07-21 |
-
-## Arizona State University
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Management Intern - Career Data and Analytics](https://asu.wd1.myworkdayjobs.com/ASUStaffCareers/job/Campus-Tempe/Management-Intern---Career-Data-and-Analytics_JR124023) | 68 | Tempe, AZ | AI/ML/Data | 2026-08-01 |
 
 ## Arkema Global
 
@@ -1902,12 +1895,6 @@
 | [Data Analyst Intern](https://apply.workable.com/connectprep/j/C0CA13664F/apply) | 68 | Washington, DC / Remote in USA | AI/ML/Data | 2026-08-01 |
 | [Data Analyst Internship](https://apply.workable.com/connectprep/j/C0CA13664F/) | 68 | Washington, District of Columbia, United States (Remote) | Data & ML/AI / Not stated | 2026-07-20 |
 
-## ConocoPhillips
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Geosciences Intern](https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Intern--Geosciences-2027_REQ-006385) | 68 | Midland, TX / Houston, TX / Anchorage, AK | AI/ML/Data | 2026-08-01 |
-
 ## Constellation Space
 
 | Title | Score | Location | Department | First seen |
@@ -2325,6 +2312,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Data Analytics Intern](https://jobs.lever.co/evrealty-us/0274f48f-9b19-4bed-bf6a-5e02a2b1e865/apply) | 68 | Salt Lake City, UT / SF | AI/ML/Data | 2026-05-22 |
+
+## Everstream Analytics
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Intelligence Solutions Intern](https://everstream.ai/careers/jobs/?gh_jid=5991766004) | 60 | Remote in USA | AI/ML/Data | 2026-08-07 |
 
 ## Evolver
 
@@ -3835,7 +3828,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineering Intern, Dynamo - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295) | 68 | US, CA, Santa Clara | Software / Fall 2026 | 2026-08-07 |
+| [Software Engineer Intern - Dynamo](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295) | 93 | Santa Clara, CA | Software | 2026-08-07 |
 | [Software Engineering Intern, Dynamo](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295) | 68 | Santa Clara, CA | — | 2026-08-07 |
 | [Applied Research Intern, NLP - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488) | 68 | US, CA, Santa Clara | Data & ML/AI / Fall 2026 | 2026-07-23 |
 
@@ -5172,7 +5165,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Analytics Intern](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Analytics-Intern_JR105406) | 68 | Cleveland, OH | AI/ML/Data | 2026-08-03 |
 | [Sustainability Systems Intern](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Sustainability-Systems-Intern_JR104148) | 68 | Cleveland, OH | AI/ML/Data | 2026-07-23 |
 
 ## TIFIN

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-07T09:50:19.095Z",
+  "generatedAt": "2026-08-07T10:41:48.959Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1898,
+  "jobCount": 1896,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1511,7 +1511,6 @@
     "canonical:1d0321a95fc9534a": "2026-08-01T22:35:45.744Z",
     "canonical:27cae929a3c10453": "2026-08-01T22:35:45.744Z",
     "canonical:31242e8a60d671a4": "2026-08-01T22:35:45.744Z",
-    "canonical:8dc234f594f06cf1": "2026-08-01T22:35:45.744Z",
     "canonical:f2a958c8f6ff3dd7": "2026-08-01T22:35:45.744Z",
     "canonical:190209721673190e": "2026-08-01T22:35:45.744Z",
     "canonical:c734c6d1df5733f3": "2026-08-01T22:35:45.744Z",
@@ -1520,7 +1519,6 @@
     "canonical:954aaee20b550fc2": "2026-08-01T23:37:49.562Z",
     "canonical:a37a272f9143198f": "2026-08-01T23:37:49.562Z",
     "canonical:42d728827081c1e1": "2026-08-01T23:37:49.562Z",
-    "canonical:0e017ac8de8fe28a": "2026-08-01T23:37:49.562Z",
     "canonical:ce8129deaf03cf09": "2026-08-01T23:37:49.562Z",
     "canonical:132d9ddb0eea7bdd": "2026-08-01T23:37:49.562Z",
     "canonical:23f870c8003a163b": "2026-08-01T23:37:49.562Z",
@@ -1610,7 +1608,6 @@
     "canonical:1c8eda468b824cfa": "2026-08-03T10:31:55.539Z",
     "canonical:c121e759e75f5f73": "2026-08-03T10:31:55.539Z",
     "canonical:43c945396857ea6b": "2026-08-03T13:28:35.284Z",
-    "canonical:c1e9394452463ed1": "2026-08-03T13:28:35.284Z",
     "canonical:38a7d4388515b288": "2026-08-03T13:28:35.284Z",
     "canonical:cdc4fd92a12f8be4": "2026-08-03T13:28:35.284Z",
     "canonical:d9f92d09097ee8fc": "2026-08-03T16:01:49.102Z",
@@ -1901,7 +1898,8 @@
     "canonical:f51807ef02a26de3": "2026-08-07T07:56:51.250Z",
     "canonical:ab769da5c943a9ae": "2026-08-07T07:56:51.250Z",
     "canonical:be2ae838019b7f75": "2026-08-07T09:50:19.095Z",
-    "canonical:222f0c62ed4ff4f8": "2026-08-07T09:50:19.095Z"
+    "canonical:ebbbcbbfb970e64c": "2026-08-07T10:41:48.959Z",
+    "canonical:5c284124e0f71ec8": "2026-08-07T10:41:48.959Z"
   },
   "jobs": [
     {
@@ -13436,19 +13434,6 @@
       ]
     },
     {
-      "id": "canonical:c1e9394452463ed1",
-      "title": "Analytics Intern",
-      "url": "https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Analytics-Intern_JR105406",
-      "location": "Cleveland, OH",
-      "department": "AI/ML/Data",
-      "company": "thyssenkrupp",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:4df26887a64db100",
       "title": "Quantitative Trader Intern",
       "url": "https://careers-sig.icims.com/jobs/10849/job?mobile=true&needsRedirect=false",
@@ -18410,19 +18395,6 @@
       ]
     },
     {
-      "id": "canonical:8dc234f594f06cf1",
-      "title": "Management Intern - Career Data and Analytics",
-      "url": "https://asu.wd1.myworkdayjobs.com/ASUStaffCareers/job/Campus-Tempe/Management-Intern---Career-Data-and-Analytics_JR124023",
-      "location": "Tempe, AZ",
-      "department": "AI/ML/Data",
-      "company": "Arizona State University",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:f2a958c8f6ff3dd7",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application?embed=true",
@@ -19060,19 +19032,6 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:0e017ac8de8fe28a",
-      "title": "Geosciences Intern",
-      "url": "https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Intern--Geosciences-2027_REQ-006385",
-      "location": "Midland, TX / Houston, TX / Anchorage, AK",
-      "department": "AI/ML/Data",
-      "company": "ConocoPhillips",
-      "score": 68,
-      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
@@ -21621,6 +21580,20 @@
       ]
     },
     {
+      "id": "canonical:ebbbcbbfb970e64c",
+      "title": "Software Engineer Intern - Dynamo",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295",
+      "location": "Santa Clara, CA",
+      "department": "Software",
+      "company": "NVIDIA",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:cff522e67b826a3d",
       "title": "Lab Intern",
       "url": "https://ats.rippling.com/eridu-ai/jobs/7f4d858d-b26e-45ce-acdc-7593d8a1f7b1",
@@ -22374,6 +22347,18 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:5c284124e0f71ec8",
+      "title": "Intelligence Solutions Intern",
+      "url": "https://everstream.ai/careers/jobs/?gh_jid=5991766004",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "Everstream Analytics",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
       ]
     },
     {
@@ -25572,19 +25557,6 @@
       "location": "Cambridge, MA",
       "department": "Software / Not stated",
       "company": "Draper",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:222f0c62ed4ff4f8",
-      "title": "Software Engineering Intern, Dynamo - Fall 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295",
-      "location": "US, CA, Santa Clara",
-      "department": "Software / Fall 2026",
-      "company": "NVIDIA",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
