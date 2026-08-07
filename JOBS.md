@@ -1,6 +1,6 @@
 # Open Internships
 
-**1899** internships across **142/143** companies — last updated 2026-08-07.
+**1894** internships across **142/143** companies — last updated 2026-08-07.
 
 ## Companies
 
@@ -53,7 +53,7 @@
 - [Astera Labs](#astera-labs) (3)
 - [Astranis](#astranis) (7)
 - [Atomic Semi](#atomic-semi) (4)
-- [Atoms](#atoms) (1)
+- [Atoms](#atoms) (2)
 - [Auctor](#auctor) (1)
 - [Avery Dennison](#avery-dennison) (1)
 - [Axiomatic AI](#axiomatic-ai) (2)
@@ -68,6 +68,7 @@
 - [Beacon Software](#beacon-software) (2)
 - [beBeeManufacturingEngineering](#bebeemanufacturingengineering) (1)
 - [Bee Sweet Citrus](#bee-sweet-citrus) (1)
+- [Belvedere Trading](#belvedere-trading) (2)
 - [Berkshire Hathaway Energy](#berkshire-hathaway-energy) (2)
 - [Bild AI](#bild-ai) (1)
 - [Binance](#binance) (1)
@@ -89,7 +90,7 @@
 - [Boeing](#boeing) (1)
 - [Bombardier](#bombardier) (1)
 - [BorgWarner](#borgwarner) (1)
-- [Bosch](#bosch) (4)
+- [Bosch](#bosch) (3)
 - [Bosch Home Comfort](#bosch-home-comfort) (4)
 - [Boston Consulting Group](#boston-consulting-group) (2)
 - [Bot Auto](#bot-auto) (1)
@@ -225,7 +226,7 @@
 - [Flow Traders](#flow-traders) (1)
 - [Fluency](#fluency) (1)
 - [Fluxergy](#fluxergy) (1)
-- [Formlabs](#formlabs) (2)
+- [Formlabs](#formlabs) (1)
 - [Forus](#forus) (1)
 - [Forvis Mazars US](#forvis-mazars-us) (1)
 - [Four Hands](#four-hands) (1)
@@ -363,7 +364,7 @@
 - [Melotech](#melotech) (3)
 - [Menasha Corporation](#menasha-corporation) (1)
 - [Meshy](#meshy) (2)
-- [Meta](#meta) (12)
+- [Meta](#meta) (9)
 - [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (2)
 - [Microchip Technology](#microchip-technology) (7)
 - [Micron Technology](#micron-technology) (1)
@@ -499,7 +500,6 @@
 - [Samsara](#samsara) (2)
 - [Samsung Research America](#samsung-research-america) (1)
 - [Sandhills Global](#sandhills-global) (2)
-- [Sargent & Lundy](#sargent-lundy) (1)
 - [Saronic](#saronic) (1)
 - [Savannah River National Laboratory](#savannah-river-national-laboratory) (1)
 - [Scale AI](#scale-ai) (3)
@@ -561,7 +561,7 @@
 - [Terminal](#terminal) (2)
 - [Terranova](#terranova) (2)
 - [Terranox AI](#terranox-ai) (1)
-- [Tesla](#tesla) (85)
+- [Tesla](#tesla) (84)
 - [Tessera Labs](#tessera-labs) (1)
 - [TETRAMEM](#tetramem) (1)
 - [Texas Instruments](#texas-instruments) (1)
@@ -572,6 +572,7 @@
 - [The Federal Reserve System](#the-federal-reserve-system) (1)
 - [The Home Depot](#the-home-depot) (1)
 - [The Hub Project](#the-hub-project) (1)
+- [The Nuclear Company](#the-nuclear-company) (1)
 - [The Tatitlek Corporation](#the-tatitlek-corporation) (1)
 - [The Trade Desk](#the-trade-desk) (2)
 - [Thermo Fisher Scientific](#thermo-fisher-scientific) (1)
@@ -612,7 +613,6 @@
 - [Veeva](#veeva) (1)
 - [Vega Investment Technologies](#vega-investment-technologies) (1)
 - [Vendelux](#vendelux) (2)
-- [Veralto](#veralto) (1)
 - [Verne Robotics](#verne-robotics) (1)
 - [Vertiv](#vertiv) (1)
 - [VetsEZ](#vetsez) (1)
@@ -634,7 +634,6 @@
 - [Wells Fargo](#wells-fargo) (11)
 - [WeRide](#weride) (1)
 - [Western Digital](#western-digital) (3)
-- [Westinghouse](#westinghouse) (1)
 - [WGU](#wgu) (1)
 - [WindBorne Systems](#windborne-systems) (1)
 - [Winland Foods](#winland-foods) (1)
@@ -1203,6 +1202,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/cssmerge/jobs/8687896002) | 93 | Los Angeles, CA | Software / Summer 2027 | 2026-08-07 |
 | [Software Engineer Intern - Winter 2027](https://job-boards.greenhouse.io/cssmerge/jobs/8687915002) | 93 | Seattle, WA / SF / LA / NYC / Mountain View, CA | Software | 2026-08-07 |
 
 ## Auctor
@@ -1295,6 +1295,13 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Data Processing Intern - Multiple Teams](https://beesweetcitrus.applytojob.com/apply/MMbyNj6r3a/Data-Processing-Intern) | 60 | Fresno, CA | AI/ML/Data | 2026-07-23 |
+
+## Belvedere Trading
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer Intern - Summer 2027](https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0) | 93 | Chicago, Illinois | Software / Summer 2027 | 2026-08-07 |
+| [Quantitative Trading Intern - Summer 2027](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab) | 68 | Chicago, Illinois | Quant / Summer 2027 | 2026-08-07 |
 
 ## Berkshire Hathaway Energy
 
@@ -1434,7 +1441,6 @@
 | [AI and SW Development Engineering Intern](https://jobs.smartrecruiters.com/BoschGroup/744000141302469) | 68 | Plymouth, MI, United States | Data & ML/AI / Not stated | 2026-08-04 |
 | [Autonomous Driving – Internship in Machine Learning](https://jobs.smartrecruiters.com/BoschGroup/744000139649345) | 68 | Sunnyvale, CA, United States | Data & ML/AI / Not stated | 2026-07-27 |
 | [AI Research Intern - Wireless Perception](https://jobs.smartrecruiters.com/BoschGroup/c4621e0f-5c1e-4a67-adc4-0671cbcaf28c) | 68 | Pittsburgh, PA | Data Science, AI & Machine Learning | 2026-05-09 |
-| [LLM & Agentic AI R&D Intern](https://jobs.bosch.com/en/job/REF273459Q-llm-agentic-ai-r-d-intern) | 60 | Sunnyvale, CA | Data Science, AI & Machine Learning | 2026-05-09 |
 
 ## Bosch Home Comfort
 
@@ -2470,7 +2476,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Hardware R&D Engineer Intern](https://careers.formlabs.com/job/8097694/apply/?gh_jid=8097694) | 50 | Cambridge, MA | Hardware | 2026-07-30 |
-| [Hardware Systems Integration Intern](https://careers.formlabs.com/job/7927471/apply/?gh_jid=7927471) | 50 | Cambridge, MA | Hardware | 2026-05-15 |
 
 ## Forus
 
@@ -3479,9 +3484,6 @@
 | [Research Scientist Intern - Monetization Generative AI - LLM](https://www.metacareers.com/jobs/2916726525182155) | 85 | Seattle, WA / Menlo Park, CA / NYC / Bellevue, WA | AI/ML/Data | 2026-05-18 |
 | [Research Scientist Intern - Applied Vision and Image Quality - PhD](https://www.metacareers.com/jobs/1422892385992613) | 85 | Redmond, WA | AI/ML/Data | 2026-05-09 |
 | [Research Scientist Intern, LLM Evaluation](https://www.metacareers.com/profile/job_details/4203446973242742) | 85 | New York, NY | Data Science, AI & Machine Learning | 2026-05-09 |
-| [Research Scientist Intern, Advanced Materials for Soft Robotics (PhD)](https://www.metacareers.com/profile/job_details/25514049594874160) | 75 | Redmond, WA | Hardware Engineering | 2026-05-09 |
-| [Research Scientist Intern, Organic Optoelectronic Materials (PhD)](https://www.metacareers.com/profile/job_details/843617948284299) | 75 | Redmond, WA | Hardware Engineering | 2026-05-09 |
-| [Research Scientist Intern, Computational Chemist](https://www.metacareers.com/profile/job_details/2059739221232640) | 60 | Redmond, WA | Data Science, AI & Machine Learning | 2026-05-09 |
 
 ## Metropolitan Transportation Authority
 
@@ -4533,12 +4535,6 @@
 | [Software Development Intern](https://www.sandhills.com/careers-and-internships/details/careers/sandhills/1196/software-development-intern) | 60 | Scottsdale, AZ | Software Engineering | 2026-06-24 |
 | [Software Development Intern](https://www.sandhills.com/careers-and-internships/details/careers/sandhills/1195/software-development-intern) | 60 | Lincoln, NE | Software Engineering | 2026-05-09 |
 
-## Sargent & Lundy
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://careers-sargentlundy.icims.com/jobs/25889/job?mobile=true&needsRedirect=false) | 85 | Chicago, IL | Software | 2026-08-07 |
-
 ## Saronic
 
 | Title | Score | Location | Department | First seen |
@@ -5060,7 +5056,6 @@
 | [Software Engineer Intern - Software Engineer - AI Hardware Infrastructure](https://www.tesla.com/careers/search/job/260382) | 85 | Palo Alto, CA | Software | 2026-06-07 |
 | [Software Integration Engineer Intern - Software Integration Engineer - Optimus](https://www.tesla.com/careers/search/job/269809) | 85 | Palo Alto, CA | Hardware | 2026-06-07 |
 | [AI Hardware Design Engineer Intern - AI Hardware Design Engineer - AI Hardware](https://www.tesla.com/careers/search/job/272462) | 75 | Palo Alto, CA / Austin, TX | Hardware | 2026-06-07 |
-| [Applied AI Engineer Intern - AI Hardware](https://www.tesla.com/careers/search/job/262946) | 75 | Palo Alto, CA | Hardware | 2026-06-07 |
 | [Software Engineer Intern - Site Controller Software Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/272615) | 60 | Palo Alto, CA | Software | 2026-06-07 |
 | [Sensor Hardware Engineer Intern - Sensor Hardware Design Engineer - Optimus](https://www.tesla.com/careers/search/job/272581) | 50 | Palo Alto, CA | Hardware | 2026-06-07 |
 | [Electronics Design Engineer Intern - Reliability Electronics Design Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/272601) | 50 | Palo Alto, CA | Hardware | 2026-06-07 |
@@ -5144,6 +5139,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Polling and Outreach Intern](https://newventurefund.applytojob.com/apply/RFdviqLOwW/Polling-And-Outreach-Intern) | 60 | Washington, DC | AI/ML/Data | 2026-08-03 |
+
+## The Nuclear Company
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Fall 2026 AI Software Engineering Intern](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383113008) | 68 | Washington, DC | Data & ML/AI / Fall 2026 | 2026-08-07 |
 
 ## The Tatitlek Corporation
 
@@ -5521,12 +5522,6 @@
 | [Tech Internship](https://jobs.ashbyhq.com/vendelux/8ec77cd6-e731-44be-bb58-5ef4fb0314de/application) | 58 | NYC | Product | 2026-08-01 |
 | [Part Time Data Intern](https://jobs.ashbyhq.com/vendelux/9d881505-f522-43fd-b99d-be71a397cb43/application) | 68 | NYC | AI/ML/Data | 2026-07-20 |
 
-## Veralto
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Machine Learning Co-op Intern](https://veralto.wd1.myworkdayjobs.com/hachjobs/job/London-Ontario-Canada/Aquatic-Informatics---Machine-Learning-Co-Op--Intern-_R10267571) | 68 | Vancouver, BC, Canada | AI/ML/Data | 2026-07-23 |
-
 ## Verne Robotics
 
 | Title | Score | Location | Department | First seen |
@@ -5675,12 +5670,6 @@
 | [Hardware Engineering Intern](https://jobs.smartrecruiters.com/WesternDigital/744000140949875) | 58 | Fremont, CA / Rochester, MN / San Jose, CA / Irvine, CA / Colorado Springs, CO / Longmont, CO | Hardware | 2026-07-31 |
 | [Failure Analysis Automation Engineer Intern - Failure Analysis Automation Engineering](https://jobs.smartrecruiters.com/WesternDigital/744000139338269) | 93 | San Jose, CA | AI/ML/Data | 2026-07-23 |
 | [Software Engineer Intern](https://jobs.smartrecruiters.com/WesternDigital/744000138727213) | 93 | Fremont, CA / Rochester, MN / San Jose, CA / Irvine, CA / Colorado Springs, CO / Longmont, CO | Software | 2026-07-20 |
-
-## Westinghouse
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineering Intern](https://careers.westinghousenuclear.com/job/Shoreview-Software-Engineering-Intern-Summer-2026-MN-55126/1348239000/) | 60 | Shoreview, MN | Software Engineering | 2026-05-09 |
 
 ## WGU
 

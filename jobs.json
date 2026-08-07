@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-07T17:30:56.020Z",
+  "generatedAt": "2026-08-07T18:27:46.582Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1899,
+  "jobCount": 1894,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -26,11 +26,6 @@
     "canonical:6a8c381d419eba3a": "2026-05-06T06:42:07.596Z",
     "canonical:25a35a8868c43e61": "2026-05-06T06:42:07.596Z",
     "canonical:d277a6a426412a6c": "2026-05-06T06:42:07.596Z",
-    "canonical:221f01e60338afe0": "2026-05-09T15:28:15.527Z",
-    "canonical:d7ee14700f2c3639": "2026-05-09T15:28:15.527Z",
-    "canonical:c3d67ed0a9a17909": "2026-05-09T15:28:15.527Z",
-    "canonical:20ece0c72d9ebfbd": "2026-05-09T15:28:15.527Z",
-    "canonical:3f17d0aa96ce7a07": "2026-05-09T15:28:15.527Z",
     "canonical:a9091112dc9c9132": "2026-05-09T15:28:15.527Z",
     "canonical:413dd4595adc13b0": "2026-05-09T15:28:15.527Z",
     "canonical:fecc1eeef47a30a2": "2026-05-09T15:28:15.527Z",
@@ -134,7 +129,6 @@
     "canonical:4d80d3c0fa984737": "2026-05-14T05:32:10.854Z",
     "canonical:5d5c9780f955f253": "2026-05-14T05:32:10.854Z",
     "canonical:89e2504c81c54e71": "2026-05-14T23:10:51.689Z",
-    "canonical:31143e047ec31f91": "2026-05-15T04:15:31.167Z",
     "canonical:c031cb55c680003f": "2026-05-15T22:36:45.367Z",
     "canonical:47a58dc4b6e43e69": "2026-05-16T04:46:03.679Z",
     "canonical:28c2d7cab3607025": "2026-05-09T15:28:15.527Z",
@@ -239,7 +233,6 @@
     "canonical:27af27128fc52c29": "2026-06-07T09:43:12.130Z",
     "canonical:b0c7c34408d513e8": "2026-06-07T09:43:12.130Z",
     "canonical:bee36ee266b77ee7": "2026-06-07T09:43:12.130Z",
-    "canonical:1c3309ba85b6ccb1": "2026-06-07T09:43:12.130Z",
     "canonical:472afbb7e1eb560d": "2026-06-07T09:43:12.130Z",
     "canonical:5a67a98fabd00752": "2026-06-07T09:43:12.130Z",
     "canonical:681b4aad01eba811": "2026-06-08T07:01:35.019Z",
@@ -1047,7 +1040,6 @@
     "canonical:d6972571c434c70f": "2026-07-23T16:52:46.107Z",
     "canonical:f81c24d44860f18d": "2026-07-23T16:52:46.107Z",
     "canonical:44e68c5e803cd8a8": "2026-07-23T16:52:46.107Z",
-    "canonical:61ab7d0c7f75511f": "2026-07-23T22:36:18.111Z",
     "canonical:846c9eb689223ddc": "2026-07-23T22:36:18.111Z",
     "canonical:7666a9ab23d258f9": "2026-07-23T22:36:18.111Z",
     "canonical:ec16c071527631d0": "2026-07-23T22:36:18.111Z",
@@ -1838,7 +1830,6 @@
     "canonical:3991fa2cbfee863d": "2026-08-07T00:35:31.024Z",
     "canonical:646d47c8079d4595": "2026-08-07T00:35:31.024Z",
     "canonical:7037d3a96f64c8b6": "2026-08-07T00:35:31.024Z",
-    "canonical:5a7967446d71c388": "2026-08-07T00:35:31.024Z",
     "canonical:d1f90bff265b0abb": "2026-08-07T00:35:31.024Z",
     "canonical:95bdf11ad37a661b": "2026-08-07T00:35:31.024Z",
     "canonical:0f259dc0186e372e": "2026-08-07T00:35:31.024Z",
@@ -1902,7 +1893,11 @@
     "canonical:b38ae0f281342cfe": "2026-08-07T16:31:28.951Z",
     "canonical:bcaec80a2a8aa537": "2026-08-07T16:31:28.951Z",
     "canonical:c16178a20f9ea8d1": "2026-08-07T16:31:28.951Z",
-    "canonical:d8c556e249e58a87": "2026-08-07T17:30:56.020Z"
+    "canonical:d8c556e249e58a87": "2026-08-07T17:30:56.020Z",
+    "canonical:5556bd31c1703745": "2026-08-07T18:27:46.582Z",
+    "canonical:a9c8f84ae34adbb2": "2026-08-07T18:27:46.582Z",
+    "canonical:729dbbe632f1376f": "2026-08-07T18:27:46.582Z",
+    "canonical:0752b58b3e9b6b90": "2026-08-07T18:27:46.582Z"
   },
   "jobs": [
     {
@@ -7521,66 +7516,6 @@
       ]
     },
     {
-      "id": "canonical:221f01e60338afe0",
-      "title": "Software Engineering Intern",
-      "url": "https://careers.westinghousenuclear.com/job/Shoreview-Software-Engineering-Intern-Summer-2026-MN-55126/1348239000/",
-      "location": "Shoreview, MN",
-      "department": "Software Engineering",
-      "company": "Westinghouse",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:d7ee14700f2c3639",
-      "title": "Research Scientist Intern, Computational Chemist",
-      "url": "https://www.metacareers.com/profile/job_details/2059739221232640",
-      "location": "Redmond, WA",
-      "department": "Data Science, AI & Machine Learning",
-      "company": "Meta",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:c3d67ed0a9a17909",
-      "title": "Research Scientist Intern, Advanced Materials for Soft Robotics (PhD)",
-      "url": "https://www.metacareers.com/profile/job_details/25514049594874160",
-      "location": "Redmond, WA",
-      "department": "Hardware Engineering",
-      "company": "Meta",
-      "score": 75,
-      "scoreReasons": [
-        "SWE-aligned"
-      ]
-    },
-    {
-      "id": "canonical:20ece0c72d9ebfbd",
-      "title": "LLM & Agentic AI R&D Intern",
-      "url": "https://jobs.bosch.com/en/job/REF273459Q-llm-agentic-ai-r-d-intern",
-      "location": "Sunnyvale, CA",
-      "department": "Data Science, AI & Machine Learning",
-      "company": "Bosch",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:3f17d0aa96ce7a07",
-      "title": "Research Scientist Intern, Organic Optoelectronic Materials (PhD)",
-      "url": "https://www.metacareers.com/profile/job_details/843617948284299",
-      "location": "Redmond, WA",
-      "department": "Hardware Engineering",
-      "company": "Meta",
-      "score": 75,
-      "scoreReasons": [
-        "SWE-aligned"
-      ]
-    },
-    {
       "id": "canonical:a9091112dc9c9132",
       "title": "Research Scientist Intern, LLM Evaluation",
       "url": "https://www.metacareers.com/profile/job_details/4203446973242742",
@@ -10570,16 +10505,6 @@
       ]
     },
     {
-      "id": "canonical:31143e047ec31f91",
-      "title": "Hardware Systems Integration Intern",
-      "url": "https://careers.formlabs.com/job/7927471/apply/?gh_jid=7927471",
-      "location": "Cambridge, MA",
-      "department": "Hardware",
-      "company": "Formlabs",
-      "score": 50,
-      "scoreReasons": []
-    },
-    {
       "id": "canonical:c031cb55c680003f",
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/docugami/jobs/4014838003",
@@ -12031,18 +11956,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:1c3309ba85b6ccb1",
-      "title": "Applied AI Engineer Intern - AI Hardware",
-      "url": "https://www.tesla.com/careers/search/job/262946",
-      "location": "Palo Alto, CA",
-      "department": "Hardware",
-      "company": "Tesla",
-      "score": 75,
-      "scoreReasons": [
-        "SWE-aligned"
       ]
     },
     {
@@ -17349,19 +17262,6 @@
       ]
     },
     {
-      "id": "canonical:61ab7d0c7f75511f",
-      "title": "Machine Learning Co-op Intern",
-      "url": "https://veralto.wd1.myworkdayjobs.com/hachjobs/job/London-Ontario-Canada/Aquatic-Informatics---Machine-Learning-Co-Op--Intern-_R10267571",
-      "location": "Vancouver, BC, Canada",
-      "department": "AI/ML/Data",
-      "company": "Veralto",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:846c9eb689223ddc",
       "title": "Data Science Internship - Governance",
       "url": "https://mhicareers.com/job/Lake-Mary-Data-Science-Internship-(Governance)-FL-32746/1401009733/?ats=successfactors",
@@ -22000,19 +21900,6 @@
       ]
     },
     {
-      "id": "canonical:5a7967446d71c388",
-      "title": "Software Engineer Intern",
-      "url": "https://careers-sargentlundy.icims.com/jobs/25889/job?mobile=true&needsRedirect=false",
-      "location": "Chicago, IL",
-      "department": "Software",
-      "company": "Sargent & Lundy",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:d1f90bff265b0abb",
       "title": "Artificial Intelligence Intern",
       "url": "https://careers-otterproducts.icims.com/jobs/6912/job?mobile=true&needsRedirect=false",
@@ -25543,6 +25430,33 @@
       ]
     },
     {
+      "id": "canonical:5556bd31c1703745",
+      "title": "Fall 2026 AI Software Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383113008",
+      "location": "Washington, DC",
+      "department": "Data & ML/AI / Fall 2026",
+      "company": "The Nuclear Company",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:a9c8f84ae34adbb2",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
+      "location": "Los Angeles, CA",
+      "department": "Software / Summer 2027",
+      "company": "Atoms",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:98e21fafbc68ad8c",
       "title": "Frontend Engineer Intern (6 month internship)",
       "url": "https://jobs.ashbyhq.com/centerfield/1d7eacc1-37f7-478c-9b0a-fa7974f1a9e4",
@@ -25578,6 +25492,33 @@
       "company": "Draper",
       "score": 68,
       "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:729dbbe632f1376f",
+      "title": "Quantitative Trading Intern - Summer 2027",
+      "url": "https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab",
+      "location": "Chicago, Illinois",
+      "department": "Quant / Summer 2027",
+      "company": "Belvedere Trading",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:0752b58b3e9b6b90",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0",
+      "location": "Chicago, Illinois",
+      "department": "Software / Summer 2027",
+      "company": "Belvedere Trading",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
