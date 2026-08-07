@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-07T06:40:16.218Z",
+  "generatedAt": "2026-08-07T07:56:51.250Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1901,
+  "jobCount": 1902,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -909,7 +909,6 @@
     "canonical:b90d174a181318ef": "2026-07-20T23:30:05.931Z",
     "canonical:22cf3f38abcae45e": "2026-07-20T23:30:05.931Z",
     "canonical:692e540aae052d72": "2026-07-20T23:30:05.931Z",
-    "canonical:09d3e6e1ab0e0269": "2026-07-20T23:30:05.931Z",
     "canonical:a7dac50e7df8f8dc": "2026-07-20T23:30:05.931Z",
     "canonical:b6fef321b22488fa": "2026-07-20T23:30:05.931Z",
     "canonical:836096831e4c3187": "2026-07-21T04:15:38.512Z",
@@ -1847,7 +1846,6 @@
     "canonical:3e58718d23ad32ac": "2026-08-06T13:16:15.765Z",
     "canonical:2f808e8e258b99d3": "2026-08-07T00:35:31.024Z",
     "canonical:0e3f34b7706597e9": "2026-08-07T00:35:31.024Z",
-    "canonical:b7ae81a3ad96a689": "2026-08-07T00:35:31.024Z",
     "canonical:06c0a2c3751f2622": "2026-08-07T00:35:31.024Z",
     "canonical:4404a059783ecd88": "2026-08-07T00:35:31.024Z",
     "canonical:a7b1801d93b03b08": "2026-08-07T00:35:31.024Z",
@@ -1904,7 +1902,10 @@
     "canonical:85d80cd2a414e25e": "2026-08-07T06:40:16.218Z",
     "canonical:8a41c952f8219db3": "2026-08-07T06:40:16.218Z",
     "canonical:cfa37089d7b290e5": "2026-08-07T06:40:16.218Z",
-    "canonical:bb36ddfd8fc31688": "2026-08-07T06:40:16.218Z"
+    "canonical:bb36ddfd8fc31688": "2026-08-07T06:40:16.218Z",
+    "canonical:f51807ef02a26de3": "2026-08-07T07:56:51.250Z",
+    "canonical:69acd4c0fa388415": "2026-08-07T07:56:51.250Z",
+    "canonical:ab769da5c943a9ae": "2026-08-07T07:56:51.250Z"
   },
   "jobs": [
     {
@@ -6894,9 +6895,9 @@
       ]
     },
     {
-      "id": "canonical:b7ae81a3ad96a689",
-      "title": "PhD Research Scientist Intern - Reinforcement Learning, Images",
-      "url": "https://jobs.smartrecruiters.com/Canva/6000000001292768",
+      "id": "canonical:f51807ef02a26de3",
+      "title": "PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling",
+      "url": "https://jobs.smartrecruiters.com/Canva/6000000001295209",
       "location": "London, England, United Kingdom",
       "department": "Information Technology",
       "company": "Canva",
@@ -22208,6 +22209,20 @@
       ]
     },
     {
+      "id": "canonical:69acd4c0fa388415",
+      "title": "PhD Research Scientist Intern - Reinforcement Learning - Images",
+      "url": "https://jobs.smartrecruiters.com/Canva/6000000001292768",
+      "location": "London, UK",
+      "department": "AI/ML/Data",
+      "company": "Canva",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:1b9ebef2b324c80c",
       "title": "Full-Stack Developer Intern - Python",
       "url": "https://alayacare.com/open-positions?gh_jid=8687981002",
@@ -22413,6 +22428,20 @@
       "company": "tarte cosmetics",
       "score": 58,
       "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ab769da5c943a9ae",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/kastle/6f32db51-de45-472f-a9c8-d9419d3634ee/application?embed=true",
+      "location": "SF",
+      "department": "Software",
+      "company": "Kastle AI",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
         "direct ATS"
       ]
     },
@@ -25947,19 +25976,6 @@
       "location": "Los Angeles, United States",
       "department": "Data & ML/AI / Not stated",
       "company": "Xsolla",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:09d3e6e1ab0e0269",
-      "title": "DevOps Engineering Intern",
-      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/DevOps-Engineering-Intern_JR109490",
-      "location": "Dallas, TX - Headquarters",
-      "department": "Software / Not stated",
-      "company": "Copart",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
