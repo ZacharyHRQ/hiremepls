@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-07T18:27:46.582Z",
+  "generatedAt": "2026-08-07T19:27:37.563Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1894,
+  "jobCount": 1896,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -829,7 +829,6 @@
     "canonical:79943e24040a386e": "2026-07-20T23:30:05.931Z",
     "canonical:5dd0aaa8e9001464": "2026-07-20T23:30:05.931Z",
     "canonical:1ef88cbbd7649ce6": "2026-07-20T23:30:05.931Z",
-    "canonical:bbfc7d559e5a5caf": "2026-07-20T23:30:05.931Z",
     "canonical:1b0e037d5c508d88": "2026-07-20T23:30:05.931Z",
     "canonical:2e45fdcddb4ad9c2": "2026-07-20T23:30:05.931Z",
     "canonical:542135e9a98efc68": "2026-07-20T23:30:05.931Z",
@@ -1654,7 +1653,6 @@
     "canonical:42dae01c3d903c52": "2026-08-04T00:03:15.414Z",
     "canonical:6d3e10583552930b": "2026-08-04T00:03:15.414Z",
     "canonical:08e5ea3a4bd0d9c3": "2026-08-04T00:03:15.414Z",
-    "canonical:d8cf77a1e9c45ec9": "2026-08-04T00:03:15.414Z",
     "canonical:8bfa00e4b9291079": "2026-08-04T03:32:55.088Z",
     "canonical:fe3bb8bdd9175f27": "2026-08-04T03:32:55.088Z",
     "canonical:042a8d9d42943a98": "2026-08-04T03:32:55.088Z",
@@ -1895,9 +1893,13 @@
     "canonical:c16178a20f9ea8d1": "2026-08-07T16:31:28.951Z",
     "canonical:d8c556e249e58a87": "2026-08-07T17:30:56.020Z",
     "canonical:5556bd31c1703745": "2026-08-07T18:27:46.582Z",
-    "canonical:a9c8f84ae34adbb2": "2026-08-07T18:27:46.582Z",
     "canonical:729dbbe632f1376f": "2026-08-07T18:27:46.582Z",
-    "canonical:0752b58b3e9b6b90": "2026-08-07T18:27:46.582Z"
+    "canonical:0752b58b3e9b6b90": "2026-08-07T18:27:46.582Z",
+    "canonical:5e598c12e2dca262": "2026-08-07T19:27:37.563Z",
+    "canonical:2263174a973b82d0": "2026-08-07T19:27:37.563Z",
+    "canonical:869c2e779bf6d405": "2026-08-07T19:27:37.563Z",
+    "canonical:efd5d04b90313526": "2026-08-07T19:27:37.563Z",
+    "canonical:103536fb91331fcf": "2026-08-07T19:27:37.563Z"
   },
   "jobs": [
     {
@@ -4732,6 +4734,16 @@
       ]
     },
     {
+      "id": "canonical:0b77dfb3a125d63e",
+      "title": "Talent solutions Intern",
+      "url": "https://amazon.jobs/en/jobs/10493313/talent-solutions-intern",
+      "location": "Mexico City",
+      "department": "Administrative Support",
+      "company": "Amazon",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
       "id": "canonical:4785197d33cac6ce",
       "title": "Graduate Area Manager",
       "url": "https://amazon.jobs/en/jobs/10478496/graduate-area-manager",
@@ -4755,16 +4767,6 @@
         "SWE-aligned",
         "new grad"
       ]
-    },
-    {
-      "id": "canonical:0b77dfb3a125d63e",
-      "title": "Talent solutions Intern",
-      "url": "https://amazon.jobs/en/jobs/10493313/talent-solutions-intern",
-      "location": "Mexico City",
-      "department": "Administrative Support",
-      "company": "Amazon",
-      "score": 50,
-      "scoreReasons": []
     },
     {
       "id": "canonical:e4474c1cecb6e9a5",
@@ -6645,16 +6647,6 @@
       "url": "https://amazon.jobs/en/jobs/3148406/2026-applied-scientist-intern-amazon-university-talent-acquisition",
       "location": "Jordan",
       "department": "Applied Science",
-      "company": "Amazon",
-      "score": 50,
-      "scoreReasons": []
-    },
-    {
-      "id": "canonical:bbfc7d559e5a5caf",
-      "title": "Business Analyst Intern",
-      "url": "https://amazon.jobs/en/jobs/3091886/business-analyst-intern",
-      "location": "Mexico City",
-      "department": "Business Intelligence",
       "company": "Amazon",
       "score": 50,
       "scoreReasons": []
@@ -21643,20 +21635,6 @@
       ]
     },
     {
-      "id": "canonical:7b6302842eda5e24",
-      "title": "Software Engineer Intern - Aeronautics Systems",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573",
-      "location": "Melbourne, FL",
-      "department": "Software",
-      "company": "Northrop Grumman",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:51fc80b89853111c",
       "title": "AI/LLM Network Research Intern - High Speed Network - PhD",
       "url": "https://jobs.bytedance.com/en/position/7669969771686775045/detail",
@@ -22002,6 +21980,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:7b6302842eda5e24",
+      "title": "Software Engineer Intern - Aeronautics Systems",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395",
+      "location": "Melbourne, FL",
+      "department": "Software",
+      "company": "Northrop Grumman",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -25430,9 +25422,36 @@
       ]
     },
     {
-      "id": "canonical:5556bd31c1703745",
-      "title": "Fall 2026 AI Software Engineering Intern",
-      "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383113008",
+      "id": "canonical:5e598c12e2dca262",
+      "title": "AI Operations Engineer Intern",
+      "url": "https://jobs.lever.co/acds/e468d15b-69c3-4534-8072-7ff3f85fbf83",
+      "location": "Lowell, AR",
+      "department": "Data & ML/AI / Not stated",
+      "company": "ACDS",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:2263174a973b82d0",
+      "title": "Asc Cybersecurity Gov&Risk Analyst - Intern/Co-op Conversion 2027 (Souza)",
+      "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Asc-Cybersecurity-Gov-Risk-Analyst---Intern-Co-op-Conversion-2027--Souza-_R40863",
+      "location": "Charlotte, NC",
+      "department": "Security / Summer 2027",
+      "company": "Duke Energy",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:869c2e779bf6d405",
+      "title": "Fall 2026 AI/ML Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383163008",
       "location": "Washington, DC",
       "department": "Data & ML/AI / Fall 2026",
       "company": "The Nuclear Company",
@@ -25443,15 +25462,40 @@
       ]
     },
     {
-      "id": "canonical:a9c8f84ae34adbb2",
-      "title": "Software Engineer Intern - Summer 2027",
-      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
-      "location": "Los Angeles, CA",
-      "department": "Software / Summer 2027",
-      "company": "Atoms",
-      "score": 93,
+      "id": "canonical:efd5d04b90313526",
+      "title": "Summer 2027 Data Science Intern",
+      "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383244008",
+      "location": "Washington, DC",
+      "department": "Data & ML/AI / Summer 2027",
+      "company": "The Nuclear Company",
+      "score": 68,
       "scoreReasons": [
-        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:103536fb91331fcf",
+      "title": "Summer 2027 Software Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008",
+      "location": "Washington, DC",
+      "department": "Software / Summer 2027",
+      "company": "The Nuclear Company",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:5556bd31c1703745",
+      "title": "Fall 2026 AI Software Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383113008",
+      "location": "Washington, DC",
+      "department": "Data & ML/AI / Fall 2026",
+      "company": "The Nuclear Company",
+      "score": 68,
+      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
@@ -25497,19 +25541,6 @@
       ]
     },
     {
-      "id": "canonical:729dbbe632f1376f",
-      "title": "Quantitative Trading Intern - Summer 2027",
-      "url": "https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab",
-      "location": "Chicago, Illinois",
-      "department": "Quant / Summer 2027",
-      "company": "Belvedere Trading",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:0752b58b3e9b6b90",
       "title": "Software Engineer Intern - Summer 2027",
       "url": "https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0",
@@ -25519,6 +25550,19 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:729dbbe632f1376f",
+      "title": "Quantitative Trading Intern - Summer 2027",
+      "url": "https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab",
+      "location": "Chicago, Illinois",
+      "department": "Quant / Summer 2027",
+      "company": "Belvedere Trading",
+      "score": 68,
+      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
@@ -25631,19 +25675,6 @@
       "location": "Golden Valley, MN",
       "department": "Security / Summer 2027",
       "company": "Pentair",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:d8cf77a1e9c45ec9",
-      "title": "Cyber Security IT Intern - REMOTE",
-      "url": "https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Cyber-Security-IT-Intern---REMOTE_JR170419",
-      "location": "Carmel, IN",
-      "department": "Security / Summer 2027",
-      "company": "CNO Financial Group",
       "score": 68,
       "scoreReasons": [
         "high-signal role",

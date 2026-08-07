@@ -1,6 +1,6 @@
 # Open Internships
 
-**1894** internships across **142/143** companies — last updated 2026-08-07.
+**1896** internships across **142/143** companies — last updated 2026-08-07.
 
 ## Companies
 
@@ -8,7 +8,7 @@
 - [1X](#1x) (2)
 - [ABB](#abb) (1)
 - [Abundant](#abundant) (1)
-- [ACDS](#acds) (2)
+- [ACDS](#acds) (3)
 - [AcreTrader](#acretrader) (1)
 - [Adtheorant](#adtheorant) (1)
 - [Advanced Energy](#advanced-energy) (1)
@@ -19,7 +19,7 @@
 - [Alayacare](#alayacare) (1)
 - [AlixPartners](#alixpartners) (1)
 - [Altom Transport](#altom-transport) (2)
-- [Amazon](#amazon) (177)
+- [Amazon](#amazon) (176)
 - [Ambarella](#ambarella) (8)
 - [Amentum](#amentum) (1)
 - [American Enterprise Institute](#american-enterprise-institute) (3)
@@ -53,7 +53,7 @@
 - [Astera Labs](#astera-labs) (3)
 - [Astranis](#astranis) (7)
 - [Atomic Semi](#atomic-semi) (4)
-- [Atoms](#atoms) (2)
+- [Atoms](#atoms) (1)
 - [Auctor](#auctor) (1)
 - [Avery Dennison](#avery-dennison) (1)
 - [Axiomatic AI](#axiomatic-ai) (2)
@@ -133,7 +133,7 @@
 - [Cloudforce](#cloudforce) (1)
 - [Clyde Companies](#clyde-companies) (2)
 - [CME Group](#cme-group) (1)
-- [CNO Financial Group](#cno-financial-group) (2)
+- [CNO Financial Group](#cno-financial-group) (1)
 - [CNO Financial Group ](#cno-financial-group) (1)
 - [Codeage](#codeage) (1)
 - [Cohere](#cohere) (5)
@@ -180,6 +180,7 @@
 - [Droyd Robotics](#droyd-robotics) (2)
 - [DRW](#drw) (25)
 - [Dryft](#dryft) (1)
+- [Duke Energy](#duke-energy) (1)
 - [DuPont](#dupont) (5)
 - [Duracell](#duracell) (1)
 - [DV Trading](#dv-trading) (1)
@@ -572,7 +573,7 @@
 - [The Federal Reserve System](#the-federal-reserve-system) (1)
 - [The Home Depot](#the-home-depot) (1)
 - [The Hub Project](#the-hub-project) (1)
-- [The Nuclear Company](#the-nuclear-company) (1)
+- [The Nuclear Company](#the-nuclear-company) (4)
 - [The Tatitlek Corporation](#the-tatitlek-corporation) (1)
 - [The Trade Desk](#the-trade-desk) (2)
 - [Thermo Fisher Scientific](#thermo-fisher-scientific) (1)
@@ -678,6 +679,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [AI Operations Engineer Intern](https://jobs.lever.co/acds/e468d15b-69c3-4534-8072-7ff3f85fbf83) | 93 | Lowell, AR | Data & ML/AI / Not stated | 2026-08-07 |
 | [AI Operations Intern - Naukr AI](https://jobs.lever.co/acds/41bee5e2-6477-428f-b359-34b4071d545f) | 68 | Bentonville, AR | Data & ML/AI / Not stated | 2026-07-20 |
 | [AI Operations Intern-Caddell Reynolds](https://jobs.lever.co/acds/01fdf41b-a835-4e00-8d01-0275677a8f08) | 68 | Fort Smith, AR | Data & ML/AI / Not stated | 2026-07-20 |
 
@@ -904,7 +906,6 @@
 | [Associate Solutions Architect Intern, Beijing](https://amazon.jobs/en/jobs/3147130/associate-solutions-architect-intern-beijing) | 50 | Beijing | Solutions Architect | 2026-07-20 |
 | [Associate Solutions Architect Intern, Shanghai](https://amazon.jobs/en/jobs/3147132/associate-solutions-architect-intern-shanghai) | 50 | Shanghai | Solutions Architect | 2026-07-20 |
 | [Associate Solutions Architect Intern, Shenzhen](https://amazon.jobs/en/jobs/3147141/associate-solutions-architect-intern-shenzhen) | 50 | Shenzhen | Solutions Architect | 2026-07-20 |
-| [Business Analyst Intern](https://amazon.jobs/en/jobs/3091886/business-analyst-intern) | 50 | Mexico City | Business Intelligence | 2026-07-20 |
 | [Commercial-Vendor Management Intern](https://amazon.jobs/en/jobs/3091935/commercial-vendor-management-intern) | 50 | Mexico City | Buying, Planning, & Instock Management | 2026-07-20 |
 | [Design Intern , Amazon University Talent Acquisition](https://amazon.jobs/en/jobs/10438927/design-intern-amazon-university-talent-acquisition) | 50 | Rio De Janeiro | Design | 2026-07-20 |
 | [Design Intern , Amazon University Talent Acquisition](https://amazon.jobs/en/jobs/10404485/design-intern-amazon-university-talent-acquisition) | 50 | Sao Paulo | Design | 2026-07-20 |
@@ -1202,7 +1203,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/cssmerge/jobs/8687896002) | 93 | Los Angeles, CA | Software / Summer 2027 | 2026-08-07 |
 | [Software Engineer Intern - Winter 2027](https://job-boards.greenhouse.io/cssmerge/jobs/8687915002) | 93 | Seattle, WA / SF / LA / NYC / Mountain View, CA | Software | 2026-08-07 |
 
 ## Auctor
@@ -1843,7 +1843,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Cyber Security IT Intern](https://cnoinc.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Cyber-Security-IT-Intern---REMOTE_JR170419?jr_id=6a70f504e2b7476e7b20bfd4) | 68 | Remote / Carmel, IN | — | 2026-08-07 |
-| [Cyber Security IT Intern - REMOTE](https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Cyber-Security-IT-Intern---REMOTE_JR170419) | 68 | Carmel, IN | Security / Summer 2027 | 2026-08-04 |
 
 ## CNO Financial Group 
 
@@ -2166,6 +2165,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Full-Stack Engineer Intern](https://jobs.ashbyhq.com/dryft/3f1c261d-9b65-412b-9f17-34b8968bdd78/application) | 93 | SF | Software | 2026-05-09 |
+
+## Duke Energy
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Asc Cybersecurity Gov&Risk Analyst - Intern/Co-op Conversion 2027 (Souza)](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Asc-Cybersecurity-Gov-Risk-Analyst---Intern-Co-op-Conversion-2027--Souza-_R40863) | 68 | Charlotte, NC | Security / Summer 2027 | 2026-08-07 |
 
 ## DuPont
 
@@ -3793,7 +3798,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer Intern - Aeronautics Systems](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573) | 93 | Melbourne, FL | Software | 2026-08-06 |
+| [Software Engineer Intern - Aeronautics Systems](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395) | 93 | Melbourne, FL | Software | 2026-08-06 |
 
 ## Northwestern Mutual
 
@@ -5144,6 +5149,9 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Fall 2026 AI/ML Engineering Intern](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383163008) | 68 | Washington, DC | Data & ML/AI / Fall 2026 | 2026-08-07 |
+| [Summer 2027 Data Science Intern](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383244008) | 68 | Washington, DC | Data & ML/AI / Summer 2027 | 2026-08-07 |
+| [Summer 2027 Software Engineering Intern](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008) | 68 | Washington, DC | Software / Summer 2027 | 2026-08-07 |
 | [Fall 2026 AI Software Engineering Intern](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383113008) | 68 | Washington, DC | Data & ML/AI / Fall 2026 | 2026-08-07 |
 
 ## The Tatitlek Corporation
