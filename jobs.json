@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-07T21:29:13.411Z",
+  "generatedAt": "2026-08-07T22:05:57.506Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1894,
+  "jobCount": 1892,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -935,7 +935,6 @@
     "canonical:0355ce93b2f2fcac": "2026-07-21T07:03:27.767Z",
     "canonical:cabdced545f0edd0": "2026-07-21T07:03:27.767Z",
     "canonical:13998fbd40b07f3d": "2026-07-21T07:03:27.767Z",
-    "canonical:207e7f74a78f1ceb": "2026-07-21T07:03:27.767Z",
     "canonical:e0ee645062b88839": "2026-07-21T07:03:27.767Z",
     "canonical:e5b7fab3e0bff565": "2026-07-21T07:03:27.767Z",
     "canonical:ca086772871f4731": "2026-07-21T07:03:27.767Z",
@@ -1767,7 +1766,6 @@
     "canonical:e340e9ea471ea289": "2026-08-05T22:05:07.979Z",
     "canonical:4d863ac16d10f977": "2026-08-05T23:16:13.094Z",
     "canonical:74e9268082ab3804": "2026-08-05T23:16:13.094Z",
-    "canonical:40c0a3e55a4cb4cb": "2026-08-05T23:16:13.094Z",
     "canonical:e7163ea3d9bc32b1": "2026-08-05T23:16:13.094Z",
     "canonical:b1b6af2ff839b69b": "2026-08-05T23:16:13.094Z",
     "canonical:bff2ba257cf61772": "2026-08-05T23:16:13.094Z",
@@ -9368,19 +9366,6 @@
       "location": "Hillsboro, OR",
       "department": "Software",
       "company": "Thermo Fisher Scientific",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:207e7f74a78f1ceb",
-      "title": "AI/ML Research and Development Intern",
-      "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/AI-ML-Research-and-Development-Intern_REQ_0000077083-1",
-      "location": "State College, PA / Reston, VA",
-      "department": "AI/ML/Data",
-      "company": "Pennsylvania State University",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -21349,19 +21334,6 @@
       ]
     },
     {
-      "id": "canonical:40c0a3e55a4cb4cb",
-      "title": "Derivatives Sales Trader Intern - Summer 2027",
-      "url": "https://careers-sig.icims.com/jobs/10626/job?mobile=true&needsRedirect=false",
-      "location": "NYC",
-      "department": "Quant",
-      "company": "Susquehanna International Group (SIG)",
-      "score": 40,
-      "scoreReasons": [
-        "high-signal role",
-        "lower-fit title"
-      ]
-    },
-    {
       "id": "canonical:e7163ea3d9bc32b1",
       "title": "Quantitative Intern - Summer 2027",
       "url": "https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002",
@@ -21988,9 +21960,9 @@
     {
       "id": "canonical:62eaa88b99a2a688",
       "title": "Dynamic Intern",
-      "url": "https://empower.wd12.myworkdayjobs.com/PanAgora/job/MA-Boston---PanAgora/Intern--Dynamic_R0061446",
+      "url": "https://empower.wd12.myworkdayjobs.com/PanAgora/job/MA-Boston---PanAgora/Intern--Dynamic_R0061449",
       "location": "Boston, MA",
-      "department": "Quant",
+      "department": "AI/ML/Data",
       "company": "PanAgora",
       "score": 68,
       "scoreReasons": [
