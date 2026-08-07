@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-07T08:51:25.928Z",
+  "generatedAt": "2026-08-07T09:50:19.095Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1901,
+  "jobCount": 1898,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1303,7 +1303,6 @@
     "canonical:3dd65a4b9efe6631": "2026-08-01T10:54:12.708Z",
     "canonical:957953dd04839b8d": "2026-08-01T10:54:12.708Z",
     "canonical:d49aaa9aae874182": "2026-08-01T10:54:12.708Z",
-    "canonical:731ee7c68a517757": "2026-08-01T10:54:12.708Z",
     "canonical:03cb780dbfa22b88": "2026-08-01T10:54:12.708Z",
     "canonical:1db79d19d95e2606": "2026-08-01T10:54:12.708Z",
     "canonical:8ebc29e44900cbca": "2026-08-01T10:54:12.708Z",
@@ -1517,7 +1516,6 @@
     "canonical:190209721673190e": "2026-08-01T22:35:45.744Z",
     "canonical:c734c6d1df5733f3": "2026-08-01T22:35:45.744Z",
     "canonical:7057a2cbb57f9823": "2026-08-01T22:35:45.744Z",
-    "canonical:edc3a522c9208e66": "2026-08-01T22:35:45.744Z",
     "canonical:b4f9dde6d2e8fd17": "2026-08-01T22:35:45.744Z",
     "canonical:954aaee20b550fc2": "2026-08-01T23:37:49.562Z",
     "canonical:a37a272f9143198f": "2026-08-01T23:37:49.562Z",
@@ -1799,7 +1797,6 @@
     "canonical:b1b6af2ff839b69b": "2026-08-05T23:16:13.094Z",
     "canonical:bff2ba257cf61772": "2026-08-05T23:16:13.094Z",
     "canonical:cbe426723018965d": "2026-08-05T23:16:13.094Z",
-    "canonical:ebbbcbbfb970e64c": "2026-08-05T23:16:13.094Z",
     "canonical:cff522e67b826a3d": "2026-08-05T23:16:13.094Z",
     "canonical:4c2d7abc4fa8db32": "2026-08-05T23:16:13.094Z",
     "canonical:a93d6df06498ca08": "2026-08-05T23:16:13.094Z",
@@ -1825,7 +1822,6 @@
     "canonical:2f822da865670914": "2026-08-06T03:38:35.332Z",
     "canonical:7e0fab102cfca7dd": "2026-08-06T03:38:35.332Z",
     "canonical:9ffd8a959f8befdc": "2026-08-06T03:38:35.332Z",
-    "canonical:68eff4d0c8582bcb": "2026-08-06T09:05:10.260Z",
     "canonical:48e5ba9e2ea1ea09": "2026-08-06T09:05:10.260Z",
     "canonical:d3ac4a035bf89211": "2026-08-06T09:05:10.260Z",
     "canonical:fea9770016787b1f": "2026-08-06T09:05:10.260Z",
@@ -1903,8 +1899,9 @@
     "canonical:cfa37089d7b290e5": "2026-08-07T06:40:16.218Z",
     "canonical:bb36ddfd8fc31688": "2026-08-07T06:40:16.218Z",
     "canonical:f51807ef02a26de3": "2026-08-07T07:56:51.250Z",
-    "canonical:69acd4c0fa388415": "2026-08-07T07:56:51.250Z",
-    "canonical:ab769da5c943a9ae": "2026-08-07T07:56:51.250Z"
+    "canonical:ab769da5c943a9ae": "2026-08-07T07:56:51.250Z",
+    "canonical:be2ae838019b7f75": "2026-08-07T09:50:19.095Z",
+    "canonical:222f0c62ed4ff4f8": "2026-08-07T09:50:19.095Z"
   },
   "jobs": [
     {
@@ -2749,10 +2746,10 @@
       ]
     },
     {
-      "id": "canonical:6e64194c6ae570c0",
+      "id": "canonical:8f04983c528e0d41",
       "title": "Leadership Rotation Network Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957735",
-      "location": "London",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7993195",
+      "location": "Chicago, IL",
       "department": "",
       "company": "DRW",
       "score": 58,
@@ -2761,10 +2758,10 @@
       ]
     },
     {
-      "id": "canonical:8f04983c528e0d41",
+      "id": "canonical:6e64194c6ae570c0",
       "title": "Leadership Rotation Network Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7993195",
-      "location": "Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957735",
+      "location": "London",
       "department": "",
       "company": "DRW",
       "score": 58,
@@ -2801,11 +2798,11 @@
       ]
     },
     {
-      "id": "canonical:03ff9719f5d57641",
+      "id": "canonical:8c7dcade35ccab5b",
       "title": "Quantitative Research Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7818540",
-      "location": "Chicago, New York City",
-      "department": "Quant / Not stated",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957756",
+      "location": "London, UK",
+      "department": "Quant",
       "company": "DRW",
       "score": 68,
       "scoreReasons": [
@@ -2814,11 +2811,11 @@
       ]
     },
     {
-      "id": "canonical:8c7dcade35ccab5b",
+      "id": "canonical:03ff9719f5d57641",
       "title": "Quantitative Research Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957756",
-      "location": "London, UK",
-      "department": "Quant",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7818540",
+      "location": "Chicago, New York City",
+      "department": "Quant / Not stated",
       "company": "DRW",
       "score": 68,
       "scoreReasons": [
@@ -2840,10 +2837,10 @@
       ]
     },
     {
-      "id": "canonical:ae44a67983e1d43a",
+      "id": "canonical:d40e55f9a26db473",
       "title": "Quantitative Trading Analyst Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7668776",
-      "location": "Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957243",
+      "location": "London, UK",
       "department": "Quant",
       "company": "DRW",
       "score": 68,
@@ -2853,10 +2850,10 @@
       ]
     },
     {
-      "id": "canonical:d40e55f9a26db473",
+      "id": "canonical:ae44a67983e1d43a",
       "title": "Quantitative Trading Analyst Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957243",
-      "location": "London, UK",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7668776",
+      "location": "Chicago, IL",
       "department": "Quant",
       "company": "DRW",
       "score": 68,
@@ -2879,20 +2876,6 @@
       ]
     },
     {
-      "id": "canonical:f9963438d881a851",
-      "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
-      "location": "Amsterdam",
-      "department": "",
-      "company": "DRW",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:81000bcd395c1244",
       "title": "Software Developer Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
@@ -2907,10 +2890,10 @@
       ]
     },
     {
-      "id": "canonical:1d41c103b87b651a",
+      "id": "canonical:bd72b8a6944f6777",
       "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
-      "location": "Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
+      "location": "London, UK",
       "department": "Software",
       "company": "DRW",
       "score": 93,
@@ -2921,10 +2904,24 @@
       ]
     },
     {
-      "id": "canonical:bd72b8a6944f6777",
+      "id": "canonical:f9963438d881a851",
       "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
-      "location": "London, UK",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
+      "location": "Amsterdam",
+      "department": "",
+      "company": "DRW",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1d41c103b87b651a",
+      "title": "Software Developer Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
+      "location": "Chicago, IL",
       "department": "Software",
       "company": "DRW",
       "score": 93,
@@ -9693,18 +9690,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:68eff4d0c8582bcb",
-      "title": "Surgery Field Engineer Apprentice Intern",
-      "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Lower-CT--Stamford-Fairfield-area-_R4039861-1",
-      "location": "Stamford, CT",
-      "department": "Hardware",
-      "company": "GE Healthcare",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
       ]
     },
     {
@@ -16793,18 +16778,6 @@
       ]
     },
     {
-      "id": "canonical:731ee7c68a517757",
-      "title": "Corporate Risk Development Program Intern - Core Risk - Early Careers",
-      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Corporate-Risk-Development-Program-Summer-Internship--Core-Risk----Early-Careers_R-556123",
-      "location": "Charlotte, NC",
-      "department": "AI/ML/Data",
-      "company": "Wells Fargo",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:c9fd3f9e80dff55e",
       "title": "Analog/Mixed-Signal IC Design Co-Op/Intern",
       "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/MOUNT-ROYAL-Montreal/Analog-Mixed-Signal-IC-Design-Co-Op-Intern---Summer-2026----Stage-Co-Op-en-Conception-de-CI-Analogiques-Signal-Mixte--t--2026-_R53993-2",
@@ -19035,20 +19008,6 @@
       "score": 68,
       "scoreReasons": [
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:edc3a522c9208e66",
-      "title": "Graduate Intern - Advanced Technologies",
-      "url": "https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/Culver-City-California/Graduate-Intern--Advanced-Technologies_JR113816",
-      "location": "Culver City, CA",
-      "department": "AI/ML/Data",
-      "company": "Sony Pictures Entertainment",
-      "score": 74,
-      "scoreReasons": [
-        "high-signal role",
-        "new grad",
         "direct ATS"
       ]
     },
@@ -21662,20 +21621,6 @@
       ]
     },
     {
-      "id": "canonical:ebbbcbbfb970e64c",
-      "title": "Software Engineer Intern - Dynamo",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295",
-      "location": "Santa Clara, CA",
-      "department": "Software",
-      "company": "NVIDIA",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:cff522e67b826a3d",
       "title": "Lab Intern",
       "url": "https://ats.rippling.com/eridu-ai/jobs/7f4d858d-b26e-45ce-acdc-7593d8a1f7b1",
@@ -22195,20 +22140,6 @@
       ]
     },
     {
-      "id": "canonical:69acd4c0fa388415",
-      "title": "PhD Research Scientist Intern - Reinforcement Learning - Images",
-      "url": "https://jobs.smartrecruiters.com/Canva/6000000001292768",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "Canva",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:1b9ebef2b324c80c",
       "title": "Full-Stack Developer Intern - Python",
       "url": "https://alayacare.com/open-positions?gh_jid=8687981002",
@@ -22424,6 +22355,20 @@
       "location": "SF",
       "department": "Software",
       "company": "Kastle AI",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:be2ae838019b7f75",
+      "title": "Fire Science Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/standinsurance/21bf587a-312c-4a23-91d0-68c3c91e1fa4/application?embed=true",
+      "location": "SF",
+      "department": "AI/ML/Data",
+      "company": "Stand Insurance",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -25627,6 +25572,19 @@
       "location": "Cambridge, MA",
       "department": "Software / Not stated",
       "company": "Draper",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:222f0c62ed4ff4f8",
+      "title": "Software Engineering Intern, Dynamo - Fall 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295",
+      "location": "US, CA, Santa Clara",
+      "department": "Software / Fall 2026",
+      "company": "NVIDIA",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
