@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-07T05:21:25.689Z",
+  "generatedAt": "2026-08-07T06:40:16.218Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1896,
+  "jobCount": 1901,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1899,7 +1899,12 @@
     "canonical:47a8cf2960fb17c4": "2026-08-07T03:36:51.941Z",
     "canonical:19c081f1b6eaaa82": "2026-08-07T03:36:51.941Z",
     "canonical:be475bb5b0807a75": "2026-08-07T03:36:51.941Z",
-    "canonical:d036fda9de6fb486": "2026-08-07T03:36:51.941Z"
+    "canonical:d036fda9de6fb486": "2026-08-07T03:36:51.941Z",
+    "canonical:2e54d6318abbdf1f": "2026-08-07T06:40:16.218Z",
+    "canonical:85d80cd2a414e25e": "2026-08-07T06:40:16.218Z",
+    "canonical:8a41c952f8219db3": "2026-08-07T06:40:16.218Z",
+    "canonical:cfa37089d7b290e5": "2026-08-07T06:40:16.218Z",
+    "canonical:bb36ddfd8fc31688": "2026-08-07T06:40:16.218Z"
   },
   "jobs": [
     {
@@ -2109,10 +2114,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:cc5154b2bc1dc1f6",
       "title": "Graduate Software Engineer",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917773101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4818790101",
+      "location": "Chicago, United States",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -2124,10 +2129,10 @@
       ]
     },
     {
-      "id": "canonical:cc5154b2bc1dc1f6",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4818790101",
-      "location": "Chicago, United States",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917773101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -22343,6 +22348,71 @@
       "score": 83,
       "scoreReasons": [
         "SWE-aligned",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:2e54d6318abbdf1f",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0/application?embed=true",
+      "location": "Berkeley, CA",
+      "department": "Software",
+      "company": "Terranova",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:85d80cd2a414e25e",
+      "title": "Real Estate Investment Analyst Intern",
+      "url": "https://apply.workable.com/premium-merchant-funding-3/j/395F154DF8/apply",
+      "location": "Miami, FL",
+      "department": "Quant",
+      "company": "Premium Merchant Funding",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:8a41c952f8219db3",
+      "title": "AI Engineering Intern",
+      "url": "https://apply.workable.com/luminance-1/j/E045EF5A7A/apply",
+      "location": "Cambridge, UK",
+      "department": "AI/ML/Data",
+      "company": "Luminance",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:cfa37089d7b290e5",
+      "title": "Monitoring & Evaluation Intern",
+      "url": "https://apply.workable.com/healthcorpsorg/j/DD52981B55/apply",
+      "location": "Remote in USA / Phoenix, AZ",
+      "department": "AI/ML/Data",
+      "company": "HealthCorps",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:bb36ddfd8fc31688",
+      "title": "Product Development Intern",
+      "url": "https://apply.workable.com/tarte-inc/j/66E81C77A4/apply",
+      "location": "NYC",
+      "department": "Product",
+      "company": "tarte cosmetics",
+      "score": 58,
+      "scoreReasons": [
         "direct ATS"
       ]
     },

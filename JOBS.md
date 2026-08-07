@@ -1,6 +1,6 @@
 # Open Internships
 
-**1896** internships across **142/143** companies — last updated 2026-08-07.
+**1901** internships across **142/143** companies — last updated 2026-08-07.
 
 ## Companies
 
@@ -266,6 +266,7 @@
 - [HARMAN](#harman) (1)
 - [Harris Computer](#harris-computer) (2)
 - [HCompany](#hcompany) (1)
+- [HealthCorps](#healthcorps) (1)
 - [Heliux](#heliux) (2)
 - [Helix Electric](#helix-electric) (1)
 - [Helsing](#helsing) (1)
@@ -337,6 +338,7 @@
 - [LinkedIn](#linkedin) (3)
 - [Louisiana Blue](#louisiana-blue) (4)
 - [Lumentum](#lumentum) (2)
+- [Luminance](#luminance) (1)
 - [Magna](#magna) (3)
 - [Magna International](#magna-international) (1)
 - [Maher Duessel](#maher-duessel) (1)
@@ -461,6 +463,7 @@
 - [Poshmark](#poshmark) (1)
 - [Postman](#postman) (1)
 - [PPL](#ppl) (1)
+- [Premium Merchant Funding](#premium-merchant-funding) (1)
 - [Primetals Technologies](#primetals-technologies) (2)
 - [Prior Labs](#prior-labs) (1)
 - [Prophet](#prophet) (1)
@@ -549,6 +552,7 @@
 - [Sweatpals](#sweatpals) (1)
 - [Synchrony Financial](#synchrony-financial) (6)
 - [Tacit](#tacit) (1)
+- [tarte cosmetics](#tarte-cosmetics) (1)
 - [Teall Sports & Entertainment](#teall-sports-entertainment) (1)
 - [Technergetics](#technergetics) (1)
 - [Techtronic Industries](#techtronic-industries) (1)
@@ -556,7 +560,7 @@
 - [Tencent](#tencent) (11)
 - [Tenstorrent](#tenstorrent) (6)
 - [Terminal](#terminal) (2)
-- [Terranova](#terranova) (1)
+- [Terranova](#terranova) (2)
 - [Terranox AI](#terranox-ai) (1)
 - [Tesla](#tesla) (85)
 - [Tessera Labs](#tessera-labs) (1)
@@ -2720,6 +2724,12 @@
 | --- | --- | --- | --- | --- |
 | [Research Scientist Intern - Model Team](https://jobs.ashbyhq.com/hcompany/856b1025-791f-46ed-9ea0-a88bb2f32ce5/application) | 93 | London, UK | AI/ML/Data | 2026-05-09 |
 
+## HealthCorps
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Monitoring & Evaluation Intern](https://apply.workable.com/healthcorpsorg/j/DD52981B55/apply) | 68 | Remote in USA / Phoenix, AZ | AI/ML/Data | 2026-08-07 |
+
 ## Heliux
 
 | Title | Score | Location | Department | First seen |
@@ -3287,6 +3297,12 @@
 | --- | --- | --- | --- | --- |
 | [Optical Verification Technician Co-op Intern](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-VerificationTechnician-Intern-Co-op_20261049) | 58 | Ottawa, ON, Canada | Hardware | 2026-08-04 |
 | [Optical Verification Technician Intern/Co-op](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Technician-Intern-Co-op_20261048) | 58 | Ottawa, ON, Canada | Hardware | 2026-08-04 |
+
+## Luminance
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI Engineering Intern](https://apply.workable.com/luminance-1/j/E045EF5A7A/apply) | 68 | Cambridge, UK | AI/ML/Data | 2026-08-07 |
 
 ## Magna
 
@@ -4267,6 +4283,12 @@
 | --- | --- | --- | --- | --- |
 | [Research & Development PhD Engineer Intern](https://careers.pplweb.com/jobs/14149?icims=1) | 85 | Lexington, KY / Providence, RI / Allentown, PA | AI/ML/Data | 2026-08-01 |
 
+## Premium Merchant Funding
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Real Estate Investment Analyst Intern](https://apply.workable.com/premium-merchant-funding-3/j/395F154DF8/apply) | 68 | Miami, FL | Quant | 2026-08-07 |
+
 ## Primetals Technologies
 
 | Title | Score | Location | Department | First seen |
@@ -4901,6 +4923,12 @@
 | --- | --- | --- | --- | --- |
 | [Radio Frequency Hardware Intern - Fall 2026](https://jobs.ashbyhq.com/tacit/d001e2d9-90af-4d0b-bc97-fd6fa149ad19/application?embed=true) | 58 | SF | Hardware | 2026-08-05 |
 
+## tarte cosmetics
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Product Development Intern](https://apply.workable.com/tarte-inc/j/66E81C77A4/apply) | 58 | NYC | Product | 2026-08-07 |
+
 ## Teall Sports & Entertainment
 
 | Title | Score | Location | Department | First seen |
@@ -4963,6 +4991,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0/application?embed=true) | 93 | Berkeley, CA | Software | 2026-08-07 |
 | [Embedded Systems Intern](https://jobs.ashbyhq.com/terranova/8fdce1f7-a1df-4e64-8f10-c78771a399da/application?embed=true) | 58 | Berkeley, CA | Hardware | 2026-08-01 |
 
 ## Terranox AI
