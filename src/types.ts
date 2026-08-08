@@ -10,7 +10,8 @@ export type AtsKind =
   | "ripplingAlgolia"
   | "smartrecruiters"
   | "workable"
-  | "amazon";
+  | "amazon"
+  | "manual";
 
 export interface Company {
   name: string;

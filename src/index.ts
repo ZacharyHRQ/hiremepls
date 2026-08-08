@@ -55,6 +55,7 @@ async function fetchCompany(c: Company): Promise<Job[]> {
   if (c.ats === "smartrecruiters") return fetchSmartRecruiters(c);
   if (c.ats === "workable") return fetchWorkable(c);
   if (c.ats === "amazon") return fetchAmazon(c);
+  if (c.ats === "manual") return [];
   throw new Error(`unknown ats: ${c.ats}`);
 }
 

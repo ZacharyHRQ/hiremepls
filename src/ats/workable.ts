@@ -16,7 +16,7 @@ interface WkPosting {
   application_url?: string;
   url?: string;
   state?: string;
-  department?: string;
+  department?: string[];
   employment_type?: string;
   locations?: WkLocation[];
   remote?: boolean;
@@ -31,10 +31,10 @@ const PAGE_LIMIT = 50;
 const MAX_PAGES = 25;
 
 export async function fetchWorkable(company: Company): Promise<Job[]> {
-  const url = `https://apply.workable.com/api/v3/accounts/${company.slug}/jobs`;
   const all: WkPosting[] = [];
   let offset = 0;
   for (let page = 0; page < MAX_PAGES; page++) {
+    const url = `https://apply.workable.com/api/v3/accounts/${company.slug}/jobs?limit=${PAGE_LIMIT}&offset=${offset}`;
     const res = await fetch(url, {
       method: "POST",
       headers: {
@@ -46,8 +46,6 @@ export async function fetchWorkable(company: Company): Promise<Job[]> {
         location: [],
         department: [],
         workplace: [],
-        limit: PAGE_LIMIT,
-        offset,
       }),
     });
     if (!res.ok) {
@@ -72,7 +70,7 @@ export async function fetchWorkable(company: Company): Promise<Job[]> {
         p.url ??
         `https://apply.workable.com/${company.slug}/j/${p.shortcode}/`,
       location: loc || (p.remote ? "Remote" : ""),
-      department: p.department ?? "",
+      department: p.department?.join(", ") ?? "",
       company: company.name,
     };
   });
