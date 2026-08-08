@@ -1,6 +1,6 @@
 # Open Internships
 
-**1936** internships across **151/151** companies — last updated 2026-08-08.
+**1935** internships across **151/151** companies — last updated 2026-08-08.
 
 ## Companies
 
@@ -373,7 +373,7 @@
 - [Melotech](#melotech) (3)
 - [Menasha Corporation](#menasha-corporation) (1)
 - [Meshy](#meshy) (2)
-- [Meta](#meta) (9)
+- [Meta](#meta) (8)
 - [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (2)
 - [Microchip Technology](#microchip-technology) (7)
 - [Micron Technology](#micron-technology) (1)
@@ -3562,7 +3562,6 @@
 | [Research Scientist Intern - Language & Multimodal Foundations](https://www.metacareers.com/jobs/24536664159369645) | 85 | Seattle, WA / Menlo Park, CA / NYC | AI/ML/Data | 2026-05-31 |
 | [Research Scientist Intern - Monetization Generative AI - LLM](https://www.metacareers.com/jobs/2916726525182155) | 85 | Seattle, WA / Menlo Park, CA / NYC / Bellevue, WA | AI/ML/Data | 2026-05-18 |
 | [Research Scientist Intern - Applied Vision and Image Quality - PhD](https://www.metacareers.com/jobs/1422892385992613) | 85 | Redmond, WA | AI/ML/Data | 2026-05-09 |
-| [Research Scientist Intern, LLM Evaluation](https://www.metacareers.com/profile/job_details/4203446973242742) | 85 | New York, NY | Data Science, AI & Machine Learning | 2026-05-09 |
 
 ## Metropolitan Transportation Authority
 

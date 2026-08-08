@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-08T20:02:29.166Z",
+  "generatedAt": "2026-08-08T20:45:30.226Z",
   "companyCount": 151,
   "okCount": 151,
-  "jobCount": 1936,
+  "jobCount": 1935,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -26,7 +26,6 @@
     "canonical:6a8c381d419eba3a": "2026-05-06T06:42:07.596Z",
     "canonical:25a35a8868c43e61": "2026-05-06T06:42:07.596Z",
     "canonical:d277a6a426412a6c": "2026-05-06T06:42:07.596Z",
-    "canonical:a9091112dc9c9132": "2026-05-09T15:28:15.527Z",
     "canonical:413dd4595adc13b0": "2026-05-09T15:28:15.527Z",
     "canonical:fecc1eeef47a30a2": "2026-05-09T15:28:15.527Z",
     "canonical:0f4f8c8a1ca0554b": "2026-05-09T15:28:15.527Z",
@@ -7660,19 +7659,6 @@
       "score": 58,
       "scoreReasons": [
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:a9091112dc9c9132",
-      "title": "Research Scientist Intern, LLM Evaluation",
-      "url": "https://www.metacareers.com/profile/job_details/4203446973242742",
-      "location": "New York, NY",
-      "department": "Data Science, AI & Machine Learning",
-      "company": "Meta",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
