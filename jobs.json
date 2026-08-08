@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-08T00:51:24.394Z",
+  "generatedAt": "2026-08-08T02:49:42.619Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1920,
+  "jobCount": 1929,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1923,7 +1923,16 @@
     "canonical:1a04f188266afcc0": "2026-08-07T23:24:27.053Z",
     "canonical:da8c887e25a53ec1": "2026-08-07T23:24:27.053Z",
     "canonical:867b9d33229f2f87": "2026-08-07T23:24:27.053Z",
-    "canonical:f9d31769701ee367": "2026-08-07T23:24:27.053Z"
+    "canonical:f9d31769701ee367": "2026-08-07T23:24:27.053Z",
+    "canonical:d8b95d5c557f8f38": "2026-08-08T02:49:42.619Z",
+    "canonical:238137864346fd56": "2026-08-08T02:49:42.619Z",
+    "canonical:49bf67ea708debcf": "2026-08-08T02:49:42.619Z",
+    "canonical:8f0c18554654c437": "2026-08-08T02:49:42.619Z",
+    "canonical:c763693deab87e5f": "2026-08-08T02:49:42.619Z",
+    "canonical:924cac1e974b9413": "2026-08-08T02:49:42.619Z",
+    "canonical:346cea3ad7b894ed": "2026-08-08T02:49:42.619Z",
+    "canonical:7152aeb407ea8522": "2026-08-08T02:49:42.619Z",
+    "canonical:c153bd5ef8789cba": "2026-08-08T02:49:42.619Z"
   },
   "jobs": [
     {
@@ -10642,6 +10651,20 @@
       ]
     },
     {
+      "id": "canonical:7f6bafc59ca8e261",
+      "title": "Machine Learning Engineer Intern",
+      "url": "https://jobs.lever.co/plus-2/b69c9b6d-483f-41d4-b487-97c99332ca40/apply",
+      "location": "Santa Clara, CA",
+      "department": "AI/ML/Data",
+      "company": "PlusAI",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:ae587a3dd163baf3",
       "title": "Research Intern - Self-Improving AI",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556867858",
@@ -10999,20 +11022,6 @@
       "id": "canonical:29da251a9e02427f",
       "title": "Research Engineer Intern - Control",
       "url": "https://jobs.lever.co/plus-2/ac7f8f73-88d0-48d5-8d4f-71ed4cfa6ecc/apply",
-      "location": "Santa Clara, CA",
-      "department": "AI/ML/Data",
-      "company": "PlusAI",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:7f6bafc59ca8e261",
-      "title": "Machine Learning Engineer Intern",
-      "url": "https://jobs.lever.co/plus-2/5d71c173-fef1-409f-b3f0-750e3b828266/apply",
       "location": "Santa Clara, CA",
       "department": "AI/ML/Data",
       "company": "PlusAI",
@@ -22685,6 +22694,124 @@
       "company": "WSP",
       "score": 60,
       "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:d8b95d5c557f8f38",
+      "title": "Software Engineer Intern",
+      "url": "https://apply.workable.com/pronexus-1/j/AF8C34AC6D/apply",
+      "location": "Remote in USA",
+      "department": "Software",
+      "company": "ProNexus",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:238137864346fd56",
+      "title": "Trading and Research Intern",
+      "url": "https://apply.workable.com/capula-investment-management-ltd/j/A15A62A8BE/apply",
+      "location": "London, UK",
+      "department": "Quant",
+      "company": "Capula",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:49bf67ea708debcf",
+      "title": "Research Intern",
+      "url": "https://apply.workable.com/flexion-robotics/j/8FF540773C/apply",
+      "location": "SF",
+      "department": "AI/ML/Data",
+      "company": "Flexion Robotics",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:8f0c18554654c437",
+      "title": "Integrated Photonics Intern",
+      "url": "https://apply.workable.com/hyperlight/j/498D9988C8/apply",
+      "location": "Cambridge, MA",
+      "department": "Hardware",
+      "company": "HyperLight",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c763693deab87e5f",
+      "title": "Quantitative Trading Intern",
+      "url": "https://apply.workable.com/wallstreetquants/j/8CB119E789/apply",
+      "location": "Miami, FL",
+      "department": "Quant",
+      "company": "WallStreetQuants",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:924cac1e974b9413",
+      "title": "Quantitative Researcher Intern",
+      "url": "https://apply.workable.com/wallstreetquants/j/494E392FD3/apply",
+      "location": "NYC",
+      "department": "Quant",
+      "company": "WallStreetQuants",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:346cea3ad7b894ed",
+      "title": "AI Automation Intern",
+      "url": "https://apply.workable.com/turabify-co/j/0B50CC0D49/apply",
+      "location": "Franklin, OH",
+      "department": "AI/ML/Data",
+      "company": "Turabify",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:7152aeb407ea8522",
+      "title": "Applications Intern - AI and Machine Learning",
+      "url": "https://apply.workable.com/tmeic-corporation-americas/j/FD4C9770FF/apply",
+      "location": "Roanoke, VA",
+      "department": "AI/ML/Data",
+      "company": "TMEIC Corporation Americas",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c153bd5ef8789cba",
+      "title": "Software Development Engineer Intern - Network Automation - 2027 Summer",
+      "url": "https://jobs.bytedance.com/en/position/7671147251943213317/detail",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "ByteDance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },

@@ -1,6 +1,6 @@
 # Open Internships
 
-**1920** internships across **142/143** companies — last updated 2026-08-08.
+**1929** internships across **142/143** companies — last updated 2026-08-08.
 
 ## Companies
 
@@ -100,13 +100,14 @@
 - [Bree](#bree) (1)
 - [Brio Water Technology](#brio-water-technology) (1)
 - [Brookfield](#brookfield) (2)
-- [ByteDance](#bytedance) (52)
+- [ByteDance](#bytedance) (53)
 - [Cadence Design Systems](#cadence-design-systems) (6)
 - [CAE](#cae) (1)
 - [CALSTART](#calstart) (3)
 - [Canva](#canva) (8)
 - [Capella](#capella) (2)
 - [Capital One](#capital-one) (6)
+- [Capula](#capula) (1)
 - [CareScout](#carescout) (1)
 - [Castleton Commodities International](#castleton-commodities-international) (8)
 - [Caterpillar Inc.](#caterpillar-inc) (2)
@@ -227,6 +228,7 @@
 - [Fiserv](#fiserv) (2)
 - [Five Rings](#five-rings) (2)
 - [Flagright](#flagright) (1)
+- [Flexion Robotics](#flexion-robotics) (1)
 - [Flow Traders](#flow-traders) (1)
 - [Fluency](#fluency) (1)
 - [Fluxergy](#fluxergy) (1)
@@ -295,7 +297,7 @@
 - [Hudson River Trading](#hudson-river-trading) (4)
 - [Human Computer Lab](#human-computer-lab) (1)
 - [Hunt Oil Company](#hunt-oil-company) (2)
-- [HyperLight](#hyperlight) (1)
+- [HyperLight](#hyperlight) (2)
 - [IDEXX](#idexx) (1)
 - [iHeartMedia](#iheartmedia) (1)
 - [IMC](#imc) (4)
@@ -472,6 +474,7 @@
 - [Premium Merchant Funding](#premium-merchant-funding) (1)
 - [Primetals Technologies](#primetals-technologies) (2)
 - [Prior Labs](#prior-labs) (1)
+- [ProNexus](#pronexus) (1)
 - [Prophet](#prophet) (1)
 - [Prospect Equities](#prospect-equities) (1)
 - [PsiQuantum](#psiquantum) (1)
@@ -588,6 +591,7 @@
 - [TikTok](#tiktok) (112)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
+- [TMEIC Corporation Americas](#tmeic-corporation-americas) (1)
 - [TMX Group](#tmx-group) (1)
 - [Together AI](#together-ai) (3)
 - [Topel Forman LLC](#topel-forman-llc) (1)
@@ -601,6 +605,7 @@
 - [Trata](#trata) (1)
 - [Trend Micro](#trend-micro) (1)
 - [Trillium](#trillium) (4)
+- [Turabify](#turabify) (1)
 - [Two Sigma](#two-sigma) (2)
 - [Uber](#uber) (1)
 - [Uline](#uline) (6)
@@ -633,6 +638,7 @@
 - [Voltus](#voltus) (1)
 - [Waabi](#waabi) (2)
 - [Walleye Capital](#walleye-capital) (3)
+- [WallStreetQuants](#wallstreetquants) (2)
 - [Walmart](#walmart) (1)
 - [Warner Bros.](#warner-bros) (3)
 - [Waymo](#waymo) (1)
@@ -1516,6 +1522,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Development Engineer Intern - Network Automation - 2027 Summer](https://jobs.bytedance.com/en/position/7671147251943213317/detail) | 85 | San Jose, CA | Software | 2026-08-08 |
 | [Machine Learning Research Scientist Intern - Seed AI for Science - Atomistic AI](https://jobs.bytedance.com/en/position/7670855041951795509/detail) | 85 | Seattle, WA | AI/ML/Data | 2026-08-07 |
 | [Network Software Engineer Intern - Network Observation](https://jobs.bytedance.com/en/position/7670772641439041797/detail) | 85 | San Jose, CA | Software | 2026-08-07 |
 | [Network Software Engineer Intern - Network Switch](https://jobs.bytedance.com/en/position/7670778018960542005/detail) | 85 | San Jose, CA | Software | 2026-08-07 |
@@ -1624,6 +1631,12 @@
 | [Data Science Intern](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-PhD---Data-Science-Internship---Summer-2027_R244287-1) | 68 | Cambridge, MA / SF / San Jose, CA / Plano, TX / McLean, VA / Richmond, VA / Chicago, IL / NYC | AI/ML/Data | 2026-08-01 |
 | [Master's Data Science Internship](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-Master-s---Data-Science-Internship---Summer-2027_R244285-1) | 68 | Cambridge, MA / SF / San Jose, CA / Plano, TX / McLean, VA / Richmond, VA / Chicago, IL / NYC | AI/ML/Data | 2026-08-01 |
 | [Data Analyst Intern](https://www.capitalonecareers.com/job/mclean/data-analyst-intern-summer-2027/31238/97421687472) | 50 | Mclean, VA | — | 2026-07-09 |
+
+## Capula
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Trading and Research Intern](https://apply.workable.com/capula-investment-management-ltd/j/A15A62A8BE/apply) | 68 | London, UK | Quant | 2026-08-08 |
 
 ## CareScout
 
@@ -2487,6 +2500,12 @@
 | --- | --- | --- | --- | --- |
 | [Product Operations Intern](https://jobs.ashbyhq.com/flagright.com/cdc0b71f-fb24-49bf-babe-de63bdaacb7e/application) | 58 | Santa Clara, CA | Product | 2026-08-01 |
 
+## Flexion Robotics
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Research Intern](https://apply.workable.com/flexion-robotics/j/8FF540773C/apply) | 68 | SF | AI/ML/Data | 2026-08-08 |
+
 ## Flow Traders
 
 | Title | Score | Location | Department | First seen |
@@ -2922,6 +2941,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Integrated Photonics Intern](https://apply.workable.com/hyperlight/j/498D9988C8/apply) | 58 | Cambridge, MA | Hardware | 2026-08-08 |
 | [Software Engineer Intern](https://apply.workable.com/hyperlight/j/5581EA0668/) | 93 | Cambridge, MA | — | 2026-07-27 |
 
 ## IDEXX
@@ -4254,7 +4274,7 @@
 | [Machine Learning Engineer Intern - Planning](https://jobs.lever.co/plus-2/91a07eb1-2244-48bf-a65b-dc166a327ddc/apply) | 93 | Santa Clara, CA | AI/ML/Data | 2026-05-24 |
 | [Scenario Simulation Intern](https://jobs.lever.co/plus-2/b4f750e7-0148-41f0-b2b1-ff054450a320/apply) | 68 | Santa Clara, CA | AI/ML/Data | 2026-05-23 |
 | [Research Engineer Intern - Control](https://jobs.lever.co/plus-2/ac7f8f73-88d0-48d5-8d4f-71ed4cfa6ecc/apply) | 93 | Santa Clara, CA | AI/ML/Data | 2026-05-23 |
-| [Machine Learning Engineer Intern](https://jobs.lever.co/plus-2/5d71c173-fef1-409f-b3f0-750e3b828266/apply) | 93 | Santa Clara, CA | AI/ML/Data | 2026-05-19 |
+| [Machine Learning Engineer Intern](https://jobs.lever.co/plus-2/b69c9b6d-483f-41d4-b487-97c99332ca40/apply) | 93 | Santa Clara, CA | AI/ML/Data | 2026-05-19 |
 
 ## PNC Financial Services
 
@@ -4342,6 +4362,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Research Scientist Intern - PhD](https://jobs.ashbyhq.com/prior-labs/09410424-8e94-4747-8155-bbcd0b1d4f6e/application) | 93 | Freiburg im Breisgau, Germany / NYC / Berlin, Germany | AI/ML/Data | 2026-05-09 |
+
+## ProNexus
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://apply.workable.com/pronexus-1/j/AF8C34AC6D/apply) | 93 | Remote in USA | Software | 2026-08-08 |
 
 ## Prophet
 
@@ -5369,6 +5395,12 @@
 | --- | --- | --- | --- | --- |
 | [Intern - Applications, AI and Machine Learning](https://apply.workable.com/tmeic-corporation-americas/j/FD4C9770FF/) | 68 | Roanoke, VA | Data Science, AI & Machine Learning | 2026-05-09 |
 
+## TMEIC Corporation Americas
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Applications Intern - AI and Machine Learning](https://apply.workable.com/tmeic-corporation-americas/j/FD4C9770FF/apply) | 68 | Roanoke, VA | AI/ML/Data | 2026-08-08 |
+
 ## TMX Group
 
 | Title | Score | Location | Department | First seen |
@@ -5459,6 +5491,12 @@
 | [Equity Trader Intern](https://www.trlm.com/apply/5076003007?gh_jid=5076003007) | 60 | Miami, FL / Chicago, IL / NYC | Quant | 2026-07-24 |
 | [Equity Trader Intern](https://www.trlm.com/apply/5076017007?gh_jid=5076017007) | 60 | Chicago, IL | Quant | 2026-07-24 |
 | [Equity Trader Intern](https://www.trlm.com/apply/5076067007?gh_jid=5076067007) | 60 | Miami, FL | Quant | 2026-07-24 |
+
+## Turabify
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI Automation Intern](https://apply.workable.com/turabify-co/j/0B50CC0D49/apply) | 68 | Franklin, OH | AI/ML/Data | 2026-08-08 |
 
 ## Two Sigma
 
@@ -5675,6 +5713,13 @@
 | [Quantitative Developer Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) | 93 | Boston, MA | Quant | 2026-08-04 |
 | [Equity Volatility Quant Researcher Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006) | 93 | Miami, FL | Quant | 2026-07-20 |
 | [PhD Quantitative Researcher Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679184006) | 93 | Boston, MA | Quant | 2026-07-20 |
+
+## WallStreetQuants
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Quantitative Researcher Intern](https://apply.workable.com/wallstreetquants/j/494E392FD3/apply) | 93 | NYC | Quant | 2026-08-08 |
+| [Quantitative Trading Intern](https://apply.workable.com/wallstreetquants/j/8CB119E789/apply) | 68 | Miami, FL | Quant | 2026-08-08 |
 
 ## Walmart
 

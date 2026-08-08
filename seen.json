@@ -2174,6 +2174,7 @@
     "simplify:39d9c34d-25c2-4b63-b896-ad1ecb98c563",
     "simplify:0ee42cec-fd2b-4ffa-8687-8c302e90fbcf",
     "simplify:683140b0-3387-4bc2-b341-7ea5fa65f78f",
+    "simplify:681758c6-c283-429d-9627-0f285a799b54",
     "simplify:5407f428-b513-492f-97d0-d2bd020610b6",
     "simplify:8bcfb3f6-ce15-48ea-bde9-874808ef8dba",
     "simplify:e484710b-5e00-46ed-bb45-b6b53b1559ac",
@@ -3222,7 +3223,16 @@
     "simplify:8b6ea404-0949-4cd3-a4e1-f77ec1d8cca0",
     "simplify:e296a9f7-4502-4c56-9801-a0b9fca3e850",
     "simplify:e0146efc-ad03-47dd-b1a8-89f53a3fac8c",
-    "simplify:3e61b1a6-a2f1-43ac-b111-540ea2cf2915"
+    "simplify:3e61b1a6-a2f1-43ac-b111-540ea2cf2915",
+    "simplify:7ededa5d-af4b-4f9d-80ae-9e03985190e9",
+    "simplify:eaa01856-85b6-42f8-97ab-deedc1304759",
+    "simplify:11e5114f-3ac5-4d35-a25a-64c8f7661b81",
+    "simplify:c6c209fe-1929-49b7-bc1b-acc754aa5793",
+    "simplify:e658540c-4e9e-4242-ae48-0e3059df35a4",
+    "simplify:ab59c6f6-ec45-4285-aebc-93331fbe2b8f",
+    "simplify:bf2f6a21-e220-45d3-a0b5-847a2cb769f8",
+    "simplify:aedb4915-aa4d-46c4-9e18-d1b6144d3a70",
+    "simplify:30e36d66-cf25-4851-9655-d22bb0c6d319"
   ],
   "DoorDash": [],
   "Waymo": [
@@ -3590,6 +3600,7 @@
     "simplify:39d9c34d-25c2-4b63-b896-ad1ecb98c563",
     "simplify:0ee42cec-fd2b-4ffa-8687-8c302e90fbcf",
     "simplify:683140b0-3387-4bc2-b341-7ea5fa65f78f",
+    "simplify:681758c6-c283-429d-9627-0f285a799b54",
     "simplify:5407f428-b513-492f-97d0-d2bd020610b6",
     "simplify:8bcfb3f6-ce15-48ea-bde9-874808ef8dba",
     "simplify:e484710b-5e00-46ed-bb45-b6b53b1559ac",
@@ -4638,6 +4649,15 @@
     "simplify:8b6ea404-0949-4cd3-a4e1-f77ec1d8cca0",
     "simplify:e296a9f7-4502-4c56-9801-a0b9fca3e850",
     "simplify:e0146efc-ad03-47dd-b1a8-89f53a3fac8c",
-    "simplify:3e61b1a6-a2f1-43ac-b111-540ea2cf2915"
+    "simplify:3e61b1a6-a2f1-43ac-b111-540ea2cf2915",
+    "simplify:7ededa5d-af4b-4f9d-80ae-9e03985190e9",
+    "simplify:eaa01856-85b6-42f8-97ab-deedc1304759",
+    "simplify:11e5114f-3ac5-4d35-a25a-64c8f7661b81",
+    "simplify:c6c209fe-1929-49b7-bc1b-acc754aa5793",
+    "simplify:e658540c-4e9e-4242-ae48-0e3059df35a4",
+    "simplify:ab59c6f6-ec45-4285-aebc-93331fbe2b8f",
+    "simplify:bf2f6a21-e220-45d3-a0b5-847a2cb769f8",
+    "simplify:aedb4915-aa4d-46c4-9e18-d1b6144d3a70",
+    "simplify:30e36d66-cf25-4851-9655-d22bb0c6d319"
   ]
 }
