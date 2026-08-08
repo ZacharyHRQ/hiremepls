@@ -2550,7 +2550,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Technology Intern](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/United-States/XMLNAME-2027-Intern---Technology_JR260339-1) | 68 | Houston, TX / Washington, DC / SF / LA / Chicago, IL / NYC / Atlanta, GA | AI/ML/Data | 2026-07-28 |
+| [Technology Intern](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/United-States/XMLNAME-2027-Intern---Technology_JR260339-1) | 58 | Atlanta, GA / Chicago, IL / Houston, TX / Los Angeles, CA / New York, NY / San Francisco, CA / Washington, DC / Chicago, IL / Los Angeles, CA / New York, NY / San Francisco, CA / Washington, DC | — | 2026-08-08 |
 | [Technology Intern - Technology](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareersPrivate/job/United-States/XMLNAME-2027-Intern---Technology_JR260339) | 68 | Houston, TX / Washington, DC / SF / LA / Chicago, IL / NYC / Atlanta, GA | AI/ML/Data | 2026-07-28 |
 
 ## Fundwell

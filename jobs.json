@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T11:22:16.843Z",
+  "generatedAt": "2026-08-08T11:50:38.326Z",
   "companyCount": 143,
   "okCount": 142,
   "jobCount": 1927,
@@ -1156,7 +1156,6 @@
     "canonical:136c3179d65cdc79": "2026-07-28T22:41:55.739Z",
     "canonical:842345f0b7509cbe": "2026-07-28T22:41:55.739Z",
     "canonical:f94529af6ba1b7b6": "2026-07-28T23:38:50.618Z",
-    "canonical:52cc9694fd580233": "2026-07-28T23:38:50.618Z",
     "canonical:4d4208aef05be9c6": "2026-07-28T23:38:50.618Z",
     "canonical:014cf51a9c82af9f": "2026-07-28T23:38:50.618Z",
     "canonical:7ebfc68970dd7a2e": "2026-07-28T23:38:50.618Z",
@@ -1930,7 +1929,8 @@
     "canonical:957953dd04839b8d": "2026-08-08T10:56:46.452Z",
     "canonical:d7be8ed4523d36c1": "2026-08-08T10:56:46.452Z",
     "canonical:523334f852948e02": "2026-08-08T10:56:46.452Z",
-    "canonical:e370e6c0c1fe05d1": "2026-08-08T10:56:46.452Z"
+    "canonical:e370e6c0c1fe05d1": "2026-08-08T10:56:46.452Z",
+    "canonical:e25668fbf5036bc0": "2026-08-08T11:50:38.326Z"
   },
   "jobs": [
     {
@@ -17869,19 +17869,6 @@
       ]
     },
     {
-      "id": "canonical:52cc9694fd580233",
-      "title": "Technology Intern",
-      "url": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/United-States/XMLNAME-2027-Intern---Technology_JR260339-1",
-      "location": "Houston, TX / Washington, DC / SF / LA / Chicago, IL / NYC / Atlanta, GA",
-      "department": "AI/ML/Data",
-      "company": "FTI Consulting",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:4d4208aef05be9c6",
       "title": "Robotics Controls Intern - Robot Control Systems",
       "url": "https://jobs.lever.co/field-ai/8a3b5d4b-f88f-4704-bfdd-74e8dcd30704/apply",
@@ -24736,6 +24723,18 @@
       "score": 75,
       "scoreReasons": [
         "SWE-aligned"
+      ]
+    },
+    {
+      "id": "canonical:e25668fbf5036bc0",
+      "title": "Technology Intern",
+      "url": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/United-States/XMLNAME-2027-Intern---Technology_JR260339-1",
+      "location": "Atlanta, GA / Chicago, IL / Houston, TX / Los Angeles, CA / New York, NY / San Francisco, CA / Washington, DC / Chicago, IL / Los Angeles, CA / New York, NY / San Francisco, CA / Washington, DC",
+      "department": "",
+      "company": "FTI Consulting",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
       ]
     },
     {
