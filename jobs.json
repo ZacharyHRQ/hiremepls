@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-07T23:54:46.449Z",
+  "generatedAt": "2026-08-08T00:51:24.394Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1922,
+  "jobCount": 1920,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -897,9 +897,7 @@
     "canonical:22cf3f38abcae45e": "2026-07-20T23:30:05.931Z",
     "canonical:692e540aae052d72": "2026-07-20T23:30:05.931Z",
     "canonical:a7dac50e7df8f8dc": "2026-07-20T23:30:05.931Z",
-    "canonical:b6fef321b22488fa": "2026-07-20T23:30:05.931Z",
     "canonical:836096831e4c3187": "2026-07-21T04:15:38.512Z",
-    "canonical:d3bdc2c47c09da65": "2026-07-21T04:15:38.512Z",
     "canonical:b87404da5255e720": "2026-07-21T04:15:38.512Z",
     "canonical:9214246f0ca3cac8": "2026-07-21T04:15:38.512Z",
     "canonical:691e7be471a676f2": "2026-07-21T04:15:38.512Z",
@@ -16041,20 +16039,6 @@
       ]
     },
     {
-      "id": "canonical:d3bdc2c47c09da65",
-      "title": "Embedded Software Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/fab2/de448098-ffc6-4b99-b341-d6a5874f390f/application?embed=true",
-      "location": "SF / Austin, TX",
-      "department": "Hardware",
-      "company": "Fab2",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:b87404da5255e720",
       "title": "Automation Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/fab2/615feebf-d9e3-4583-9c85-ba16af44e65c/application?embed=true",
@@ -26332,19 +26316,6 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:b6fef321b22488fa",
-      "title": "Fall Software Development Intern",
-      "url": "https://apply.workable.com/altom-transport/j/9FC654F05E/",
-      "location": "Hammond, Indiana, United States",
-      "department": "Software / Not stated",
-      "company": "Altom Transport",
-      "score": 68,
-      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
