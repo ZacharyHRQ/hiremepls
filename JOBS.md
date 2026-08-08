@@ -1,6 +1,6 @@
 # Open Internships
 
-**1928** internships across **142/143** companies — last updated 2026-08-08.
+**1936** internships across **151/151** companies — last updated 2026-08-08.
 
 ## Companies
 
@@ -21,6 +21,7 @@
 - [Altom Transport](#altom-transport) (1)
 - [Amazon](#amazon) (176)
 - [Ambarella](#ambarella) (8)
+- [Amber Group](#amber-group) (1)
 - [Amcor](#amcor) (1)
 - [Amentum](#amentum) (1)
 - [Ameren](#ameren) (1)
@@ -229,7 +230,7 @@
 - [Five Rings](#five-rings) (2)
 - [Flagright](#flagright) (1)
 - [Flexion Robotics](#flexion-robotics) (1)
-- [Flow Traders](#flow-traders) (1)
+- [Flow Traders](#flow-traders) (5)
 - [Fluency](#fluency) (1)
 - [Fluxergy](#fluxergy) (1)
 - [Formlabs](#formlabs) (1)
@@ -478,6 +479,7 @@
 - [Prospect Equities](#prospect-equities) (1)
 - [PsiQuantum](#psiquantum) (1)
 - [Pylon](#pylon) (1)
+- [QCP](#qcp) (3)
 - [Quadric](#quadric) (2)
 - [Quadrillion](#quadrillion) (3)
 - [Qualcomm](#qualcomm) (1)
@@ -957,6 +959,12 @@
 | [DFT Engineer Intern](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/DFT-Engineer-Intern_JR100103) | 58 | United States | Hardware | 2026-07-21 |
 | [Mixed Signal Engineer Intern](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Engineer-Intern_JR100105) | 58 | United States | Hardware | 2026-07-21 |
 | [Verification Engineer Intern](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Verification-Engineer-Intern_JR100109) | 58 | United States | Hardware | 2026-07-21 |
+
+## Amber Group
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Quant Intern](https://jobs.lever.co/ambergroup/a4df0b48-88f8-4cd9-9084-e211bdb0027e) | 68 | Singapore | AM | 2026-08-08 |
 
 ## Amcor
 
@@ -1853,7 +1861,7 @@
 | [AI Innovation Intern – Service Sales (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395) | 38 | In-Office | — | 2026-07-30 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-07-29 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
@@ -2509,6 +2517,10 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Graduate Quant Trader](https://job-boards.greenhouse.io/flowtraders/jobs/7760610) | 74 | Hong Kong | — | 2026-08-08 |
+| [Graduate Quantitative Trader](https://job-boards.greenhouse.io/flowtraders/jobs/8094581) | 74 | New York | — | 2026-08-08 |
+| [Graduate Trader](https://job-boards.greenhouse.io/flowtraders/jobs/7507482) | 64 | Amsterdam | — | 2026-08-08 |
+| [Trading Intern](https://job-boards.greenhouse.io/flowtraders/jobs/8102618) | 58 | Hong Kong | — | 2026-08-08 |
 | [Quantitative Trading Intern](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) | 68 | NYC | Quant | 2026-07-20 |
 
 ## Fluency
@@ -4289,8 +4301,8 @@
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-07-09 |
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-07-09 |
 | [Corporate Access, off-cycle internship (6-months) – Japanese speaking](https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002) | 58 | Hong Kong | — | 2026-06-30 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -4384,6 +4396,14 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application) | 93 | SF | Software | 2026-08-01 |
+
+## QCP
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Intern, Compliance (AML Operations)](https://apply.workable.com/qcp-group/j/68D6E36FDF/) | 58 | Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia | Compliance | 2026-08-08 |
+| [Intern, Compliance (Project Management)](https://apply.workable.com/qcp-group/j/D2512DB61F/) | 58 | Singapore, Singapore, Singapore | Compliance | 2026-08-08 |
+| [Intern, Trading - ALM (Jan - Jun 2027)](https://apply.workable.com/qcp-group/j/4599D0F542/) | 58 | Singapore, Singapore, Singapore | Trading - ALM | 2026-08-08 |
 
 ## Quadric
 
@@ -5868,7 +5888,3 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Data Analyst Intern](https://jobs.ashbyhq.com/zuru/750dea66-6f5a-4622-80d6-b6289954d3d0/application?embed=true) | 68 | LA | AI/ML/Data | 2026-07-21 |
-
-## Errors this run
-
-- **Fireworks AI**: greenhouse fireworksai: HTTP 404
