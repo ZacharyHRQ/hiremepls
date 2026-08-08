@@ -1,6 +1,6 @@
 # Open Internships
 
-**1934** internships across **151/151** companies — last updated 2026-08-08.
+**1932** internships across **151/151** companies — last updated 2026-08-08.
 
 ## Companies
 
@@ -590,7 +590,7 @@
 - [Thomson Reuters](#thomson-reuters) (1)
 - [thyssenkrupp](#thyssenkrupp) (2)
 - [TIFIN](#tifin) (1)
-- [TikTok](#tiktok) (111)
+- [TikTok](#tiktok) (109)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
 - [TMEIC Corporation Americas](#tmeic-corporation-americas) (1)
@@ -5366,7 +5366,6 @@
 | [Software Engineer Intern - ML Infra](https://lifeattiktok.com/search/7668696895234197813) | 85 | San Jose, CA | Software | 2026-08-03 |
 | [Software Engineer Intern - Social Friending](https://lifeattiktok.com/search/7667935399050692917) | 85 | San Jose, CA | Software | 2026-08-03 |
 | [Software Engineer Intern - Trust and Safety Engineering](https://lifeattiktok.com/search/7662684280234232117) | 85 | Seattle, WA | Software | 2026-08-03 |
-| [Online Architecture Research Intern - TikTok Generalized Arch - PhD](https://lifeattiktok.com/search/7549086862464338184) | 60 | Seattle, WA | AI/ML/Data | 2026-08-03 |
 | [Software Engineer Intern - Creative Intelligence and Brand Innovation](https://lifeattiktok.com/search/7668642761473902901) | 60 | San Jose, CA | Software | 2026-08-03 |
 | [Research Scientist Intern - E-commerce Recommendation - LLM Applications](https://lifeattiktok.com/search/7629187524074342709) | 85 | San Jose, CA | AI/ML/Data | 2026-07-30 |
 | [Machine Learning Engineer Intern - Tiktok-Data-Search-Search Quality](https://lifeattiktok.com/search/7667690418804902149) | 85 | San Jose, CA | AI/ML/Data | 2026-07-29 |
@@ -5393,7 +5392,6 @@
 | [Data Analyst Intern - TikTok Live](https://lifeattiktok.com/search/7642264645810292997) | 60 | London, UK | AI/ML/Data | 2026-05-21 |
 | [Machine Learning Scientist Intern - TikTok Recommendation](https://lifeattiktok.com/search/7519241729582516487) | 85 | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Research Scientist Intern](https://lifeattiktok.com/search/7602701787133249797) | 85 | San Jose, CA | AI/ML/Data | 2026-05-09 |
-| [Research Scientist Intern - Nextgen Recommendation](https://lifeattiktok.com/search/7519768631745087752) | 85 | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [AI Product Operations Intern](https://lifeattiktok.com/search/7611950589973186821) | 60 | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Data Analyst Project Intern - Data Science](https://lifeattiktok.com/search/7620775575152462085) | 60 | London, UK | AI/ML/Data | 2026-05-09 |
 

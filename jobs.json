@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-08T23:17:27.752Z",
+  "generatedAt": "2026-08-08T23:50:48.489Z",
   "companyCount": 151,
   "okCount": 151,
-  "jobCount": 1934,
+  "jobCount": 1932,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -102,7 +102,6 @@
     "canonical:5636590fd704c203": "2026-05-09T15:28:15.527Z",
     "canonical:d4ff08fb2c47d73d": "2026-05-09T15:28:15.527Z",
     "canonical:325ed7972e038b2d": "2026-05-09T15:28:15.527Z",
-    "canonical:f5a5dbf294122ad1": "2026-05-09T15:28:15.527Z",
     "canonical:e0150c05751b4a2a": "2026-05-09T15:28:15.527Z",
     "canonical:9bb7084f7e28f80a": "2026-05-09T15:28:15.527Z",
     "canonical:9508a5dd181c1039": "2026-05-09T15:28:15.527Z",
@@ -1510,7 +1509,6 @@
     "canonical:51b92253e4e72e9b": "2026-08-03T10:31:55.539Z",
     "canonical:ed45659c10bdc70a": "2026-08-03T10:31:55.539Z",
     "canonical:4d567555739a50bd": "2026-08-03T10:31:55.539Z",
-    "canonical:5b786140062d44ba": "2026-08-03T10:31:55.539Z",
     "canonical:55d3166b5410acf5": "2026-08-03T10:31:55.539Z",
     "canonical:7cb79ae94e00d14c": "2026-08-03T10:31:55.539Z",
     "canonical:0da226c1e13728e9": "2026-08-03T10:31:55.539Z",
@@ -9687,19 +9685,6 @@
       ]
     },
     {
-      "id": "canonical:f5a5dbf294122ad1",
-      "title": "Research Scientist Intern - Nextgen Recommendation",
-      "url": "https://lifeattiktok.com/search/7519768631745087752",
-      "location": "San Jose, CA",
-      "department": "AI/ML/Data",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:d7c0dc3be032d935",
       "title": "Quant Risk Management Intern",
       "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/New-York---300-Vesey-Street/Quant-Risk-Management-Intern---Year-Round_34278",
@@ -10400,18 +10385,6 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:5b786140062d44ba",
-      "title": "Online Architecture Research Intern - TikTok Generalized Arch - PhD",
-      "url": "https://lifeattiktok.com/search/7549086862464338184",
-      "location": "Seattle, WA",
-      "department": "AI/ML/Data",
-      "company": "TikTok",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {
