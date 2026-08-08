@@ -9,7 +9,6 @@
 - [ABB](#abb) (1)
 - [Abundant](#abundant) (1)
 - [ACDS](#acds) (3)
-- [AcreTrader](#acretrader) (1)
 - [Adtheorant](#adtheorant) (1)
 - [Advanced Energy](#advanced-energy) (1)
 - [AeroVironment](#aerovironment) (1)
@@ -189,6 +188,7 @@
 - [East Penn Manufacturing Company](#east-penn-manufacturing-company) (3)
 - [EdgeTrace](#edgetrace) (1)
 - [Egra](#egra) (1)
+- [Eko Health](#eko-health) (1)
 - [Electronic Arts](#electronic-arts) (1)
 - [Eluvio](#eluvio) (1)
 - [Engineers Gate](#engineers-gate) (1)
@@ -692,12 +692,6 @@
 | [AI Operations Engineer Intern](https://jobs.lever.co/acds/e468d15b-69c3-4534-8072-7ff3f85fbf83) | 93 | Lowell, AR | Data & ML/AI / Not stated | 2026-08-07 |
 | [AI Operations Intern - Naukr AI](https://jobs.lever.co/acds/41bee5e2-6477-428f-b359-34b4071d545f) | 68 | Bentonville, AR | Data & ML/AI / Not stated | 2026-07-20 |
 | [AI Operations Intern-Caddell Reynolds](https://jobs.lever.co/acds/01fdf41b-a835-4e00-8d01-0275677a8f08) | 68 | Fort Smith, AR | Data & ML/AI / Not stated | 2026-07-20 |
-
-## AcreTrader
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Intern](https://ats.rippling.com/acretrader-jobs/jobs/e0192aa0-bd65-4262-81ed-d64685c7dc41) | 60 | Fayetteville, AR | AI/ML/Data | 2026-08-04 |
 
 ## Adtheorant
 
@@ -1852,7 +1846,7 @@
 | [AI Innovation Intern – Service Sales (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395) | 38 | In-Office | — | 2026-07-30 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-07-29 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
@@ -2240,6 +2234,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [AI Researcher Intern](https://jobs.ashbyhq.com/egra/6f295102-6330-4a9e-9fc4-9b414e620003/application?embed=true) | 93 | NYC | AI/ML/Data | 2026-08-01 |
+
+## Eko Health
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Clinical Product Strategy Intern - Clinical Technology](https://jobs.lever.co/ekohealth/ff0ee63d-4733-4c97-b3c5-0a6f1e303f1d/apply) | 58 | Remote in USA | Product | 2026-08-08 |
 
 ## Electronic Arts
 
@@ -4282,8 +4282,8 @@
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-07-09 |
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-07-09 |
 | [Corporate Access, off-cycle internship (6-months) – Japanese speaking](https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002) | 58 | Hong Kong | — | 2026-06-30 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -4536,7 +4536,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) | 85 | San Mateo, CA | Software | 2026-08-05 |
+| [[Summer 2027] Software Engineer Intern](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) | 85 | San Mateo, CA, United States | Software / Summer 2027 | 2026-08-08 |
 
 ## ROCKWOOL Group
 
