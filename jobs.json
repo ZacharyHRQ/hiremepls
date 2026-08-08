@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-08T15:19:07.966Z",
+  "generatedAt": "2026-08-08T15:53:27.228Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1927,
+  "jobCount": 1928,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1930,7 +1930,8 @@
     "canonical:52cc9694fd580233": "2026-08-08T12:25:12.784Z",
     "canonical:39d1a5d79ce4428b": "2026-08-08T13:24:43.816Z",
     "canonical:abb48de1c93fbbb0": "2026-08-08T14:03:37.449Z",
-    "canonical:b1b6af2ff839b69b": "2026-08-08T14:03:37.449Z"
+    "canonical:b1b6af2ff839b69b": "2026-08-08T14:03:37.449Z",
+    "canonical:133608b1bfb1c38e": "2026-08-08T15:53:27.228Z"
   },
   "jobs": [
     {
@@ -7761,6 +7762,19 @@
       ]
     },
     {
+      "id": "canonical:133608b1bfb1c38e",
+      "title": "Sustainability Systems Intern",
+      "url": "https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Sustainability-Systems-Intern_JR104148",
+      "location": "Cleveland, OH",
+      "department": "AI/ML/Data",
+      "company": "thyssenkrupp",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:7a35a217bd7a55a7",
       "title": "Software Engineering Intern – Hyper-RF Division",
       "url": "https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/20521-Seneca-Meadows-Pkwy-Germantown-MD/Software-Engineering-Intern---Hyper-RF-Division_6367",
@@ -9899,7 +9913,7 @@
     {
       "id": "canonical:78e461e91d26f884",
       "title": "Game Research & Development Intern - Engine Research",
-      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Game-Research---Development-Intern--Engine-Research_R107363-1",
+      "url": "https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/US-Washington-Bellevue/Game-Research---Development-Intern--Engine-Research_R107363",
       "location": "Bellevue, WA",
       "department": "Software",
       "company": "Tencent",
