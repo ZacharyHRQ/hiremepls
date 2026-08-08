@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-08T10:20:29.819Z",
+  "generatedAt": "2026-08-08T10:56:46.452Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1924,
+  "jobCount": 1927,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1927,7 +1927,10 @@
     "canonical:d68411deab859a50": "2026-08-08T09:07:22.360Z",
     "canonical:669cf21fa7895579": "2026-08-08T09:07:22.360Z",
     "canonical:096966ca116f0d67": "2026-08-08T10:20:29.819Z",
-    "canonical:a0a508829fbb51da": "2026-08-08T10:20:29.819Z"
+    "canonical:957953dd04839b8d": "2026-08-08T10:56:46.452Z",
+    "canonical:d7be8ed4523d36c1": "2026-08-08T10:56:46.452Z",
+    "canonical:523334f852948e02": "2026-08-08T10:56:46.452Z",
+    "canonical:e370e6c0c1fe05d1": "2026-08-08T10:56:46.452Z"
   },
   "jobs": [
     {
@@ -13587,6 +13590,20 @@
       ]
     },
     {
+      "id": "canonical:957953dd04839b8d",
+      "title": "Database Engineer Intern",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Database-Engineering-Intern_JR109636",
+      "location": "Dallas, TX",
+      "department": "Software",
+      "company": "Copart",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:d49aaa9aae874182",
       "title": "Analytics Intern",
       "url": "https://careers-sig.icims.com/jobs/11099/job?mobile=true&needsRedirect=false",
@@ -20959,6 +20976,20 @@
       ]
     },
     {
+      "id": "canonical:d7be8ed4523d36c1",
+      "title": "Graduate Statistical Analysis Intern - Regional & Community Outreach",
+      "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Boston-MA/Graduate-Intern---Statistical-Analysis_R-0000032931",
+      "location": "Boston, MA",
+      "department": "AI/ML/Data",
+      "company": "The Federal Reserve System",
+      "score": 74,
+      "scoreReasons": [
+        "high-signal role",
+        "new grad",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:aef5b67e297164a0",
       "title": "Digital Technology Intern",
       "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Atlanta/GE-Vernova-Digital-Technology-Internship---Summer-2027_R5049176-3",
@@ -25909,19 +25940,6 @@
       ]
     },
     {
-      "id": "canonical:a0a508829fbb51da",
-      "title": "Database Engineering Intern",
-      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Database-Engineering-Intern_JR109636",
-      "location": "Dallas, TX - Headquarters",
-      "department": "Software / Not stated",
-      "company": "Copart",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:98e21fafbc68ad8c",
       "title": "Frontend Engineer Intern (6 month internship)",
       "url": "https://jobs.ashbyhq.com/centerfield/1d7eacc1-37f7-478c-9b0a-fa7974f1a9e4",
@@ -26265,6 +26283,33 @@
       "location": "US, Arizona, Phoenix",
       "department": "Data & ML/AI / Not stated",
       "company": "Intel",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:523334f852948e02",
+      "title": "Quantitative Researcher - Internship",
+      "url": "https://apply.workable.com/wallstreetquants/j/494E392FD3/",
+      "location": "New York, New York, United States",
+      "department": "Quant / Not stated",
+      "company": "WallStreetQuants",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:e370e6c0c1fe05d1",
+      "title": "Quantitative Trading Intern",
+      "url": "https://apply.workable.com/wallstreetquants/j/8CB119E789/",
+      "location": "Miami, Florida, United States",
+      "department": "Quant / Not stated",
+      "company": "WallStreetQuants",
       "score": 68,
       "scoreReasons": [
         "high-signal role",

@@ -1,6 +1,6 @@
 # Open Internships
 
-**1924** internships across **142/143** companies — last updated 2026-08-08.
+**1927** internships across **142/143** companies — last updated 2026-08-08.
 
 ## Companies
 
@@ -577,6 +577,7 @@
 - [The Boeing Company](#the-boeing-company) (2)
 - [The D. E. Shaw Group](#the-d-e-shaw-group) (1)
 - [The Exploration Company](#the-exploration-company) (1)
+- [The Federal Reserve System](#the-federal-reserve-system) (1)
 - [The Home Depot](#the-home-depot) (1)
 - [The Hub Project](#the-hub-project) (1)
 - [The Nuclear Company](#the-nuclear-company) (6)
@@ -636,7 +637,7 @@
 - [Voltus](#voltus) (1)
 - [Waabi](#waabi) (2)
 - [Walleye Capital](#walleye-capital) (3)
-- [WallStreetQuants](#wallstreetquants) (2)
+- [WallStreetQuants](#wallstreetquants) (4)
 - [Walmart](#walmart) (1)
 - [Warner Bros.](#warner-bros) (3)
 - [Waymo](#waymo) (1)
@@ -1965,7 +1966,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Database Engineering Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Database-Engineering-Intern_JR109636) | 68 | Dallas, TX - Headquarters | Software / Not stated | 2026-08-08 |
+| [Database Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Database-Engineering-Intern_JR109636) | 93 | Dallas, TX | Software | 2026-08-08 |
 | [Software Engineering Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR106129) | 68 | Dallas, TX | Software | 2026-08-05 |
 | [Technology Product Analyst Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107890) | 58 | Dallas, TX | Product | 2026-08-01 |
 | [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393) | 93 | Dallas, TX | Software | 2026-07-21 |
@@ -5187,6 +5188,12 @@
 | --- | --- | --- | --- | --- |
 | [Crew Systems Engineering Intern - Avionics/Software](https://jobs.ashbyhq.com/the-exploration-company/da63221d-dd60-41fe-8dd5-bb1a565a7824) | 68 | Houston, TX | Software Engineering | 2026-05-09 |
 
+## The Federal Reserve System
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Graduate Statistical Analysis Intern - Regional & Community Outreach](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Boston-MA/Graduate-Intern---Statistical-Analysis_R-0000032931) | 74 | Boston, MA | AI/ML/Data | 2026-08-08 |
+
 ## The Home Depot
 
 | Title | Score | Location | Department | First seen |
@@ -5701,6 +5708,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Quantitative Researcher - Internship](https://apply.workable.com/wallstreetquants/j/494E392FD3/) | 93 | New York, New York, United States | Quant / Not stated | 2026-08-08 |
+| [Quantitative Trading Intern](https://apply.workable.com/wallstreetquants/j/8CB119E789/) | 68 | Miami, Florida, United States | Quant / Not stated | 2026-08-08 |
 | [Quantitative Researcher Intern](https://apply.workable.com/wallstreetquants/j/494E392FD3/apply) | 93 | NYC | Quant | 2026-08-08 |
 | [Quantitative Trading Intern](https://apply.workable.com/wallstreetquants/j/8CB119E789/apply) | 68 | Miami, FL | Quant | 2026-08-08 |
 
