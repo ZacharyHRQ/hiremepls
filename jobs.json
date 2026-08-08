@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-08T05:08:05.152Z",
+  "generatedAt": "2026-08-08T05:53:53.097Z",
   "companyCount": 143,
   "okCount": 142,
-  "jobCount": 1926,
+  "jobCount": 1925,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1634,7 +1634,6 @@
     "canonical:5eec04423d29c2e0": "2026-08-04T00:03:15.414Z",
     "canonical:8ceacee887ecbce5": "2026-08-04T00:03:15.414Z",
     "canonical:a4afd4e307aeb3e9": "2026-08-04T00:03:15.414Z",
-    "canonical:669cf21fa7895579": "2026-08-04T00:03:15.414Z",
     "canonical:fe54dfcbfcaf5f28": "2026-08-04T00:03:15.414Z",
     "canonical:1b6756d868776a32": "2026-08-04T00:03:15.414Z",
     "canonical:ff0dd79bfe3d7adf": "2026-08-04T00:03:15.414Z",
@@ -1761,7 +1760,6 @@
     "canonical:74e9268082ab3804": "2026-08-05T23:16:13.094Z",
     "canonical:e7163ea3d9bc32b1": "2026-08-05T23:16:13.094Z",
     "canonical:b1b6af2ff839b69b": "2026-08-05T23:16:13.094Z",
-    "canonical:bff2ba257cf61772": "2026-08-05T23:16:13.094Z",
     "canonical:cbe426723018965d": "2026-08-05T23:16:13.094Z",
     "canonical:cff522e67b826a3d": "2026-08-05T23:16:13.094Z",
     "canonical:4c2d7abc4fa8db32": "2026-08-05T23:16:13.094Z",
@@ -1929,7 +1927,8 @@
     "canonical:924cac1e974b9413": "2026-08-08T02:49:42.619Z",
     "canonical:346cea3ad7b894ed": "2026-08-08T02:49:42.619Z",
     "canonical:7152aeb407ea8522": "2026-08-08T02:49:42.619Z",
-    "canonical:c153bd5ef8789cba": "2026-08-08T02:49:42.619Z"
+    "canonical:c153bd5ef8789cba": "2026-08-08T02:49:42.619Z",
+    "canonical:c9142345c7458fa8": "2026-08-08T05:53:53.097Z"
   },
   "jobs": [
     {
@@ -20280,20 +20279,6 @@
       ]
     },
     {
-      "id": "canonical:669cf21fa7895579",
-      "title": "Software Engineer Intern",
-      "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667",
-      "location": "Overland Park, KS",
-      "department": "Software",
-      "company": "Netsmart",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:fe54dfcbfcaf5f28",
       "title": "Financial Data Analyst Intern",
       "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Financial-Data-Analyst-Internship---Summer-2027_R265665",
@@ -21392,19 +21377,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:bff2ba257cf61772",
-      "title": "Database Operations Co-op Intern",
-      "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Database-Operations-Co-op--Fall-2026--Co-op-Internship----4-months_R260022911",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Bank of Montreal",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -24984,6 +24956,20 @@
       "company": "Melius",
       "score": 68,
       "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c9142345c7458fa8",
+      "title": "Software Engineer Intern (Summer 2027 Internship)",
+      "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667",
+      "location": "Overland Park, KS",
+      "department": "Software / Summer 2027",
+      "company": "Netsmart",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
