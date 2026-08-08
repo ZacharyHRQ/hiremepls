@@ -1,6 +1,6 @@
 # Open Internships
 
-**1927** internships across **142/143** companies — last updated 2026-08-08.
+**1928** internships across **142/143** companies — last updated 2026-08-08.
 
 ## Companies
 
@@ -9,6 +9,7 @@
 - [ABB](#abb) (1)
 - [Abundant](#abundant) (1)
 - [ACDS](#acds) (3)
+- [AcreTrader](#acretrader) (1)
 - [Adtheorant](#adtheorant) (1)
 - [Advanced Energy](#advanced-energy) (1)
 - [AeroVironment](#aerovironment) (1)
@@ -692,6 +693,12 @@
 | [AI Operations Engineer Intern](https://jobs.lever.co/acds/e468d15b-69c3-4534-8072-7ff3f85fbf83) | 93 | Lowell, AR | Data & ML/AI / Not stated | 2026-08-07 |
 | [AI Operations Intern - Naukr AI](https://jobs.lever.co/acds/41bee5e2-6477-428f-b359-34b4071d545f) | 68 | Bentonville, AR | Data & ML/AI / Not stated | 2026-07-20 |
 | [AI Operations Intern-Caddell Reynolds](https://jobs.lever.co/acds/01fdf41b-a835-4e00-8d01-0275677a8f08) | 68 | Fort Smith, AR | Data & ML/AI / Not stated | 2026-07-20 |
+
+## AcreTrader
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data Intern](https://ats.rippling.com/acretrader-jobs/jobs/e0192aa0-bd65-4262-81ed-d64685c7dc41) | 60 | Fayetteville, AR | AI/ML/Data | 2026-08-08 |
 
 ## Adtheorant
 
@@ -4536,7 +4543,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [[Summer 2027] Software Engineer Intern](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) | 85 | San Mateo, CA, United States | Software / Summer 2027 | 2026-08-08 |
+| [Software Engineer Intern](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) | 85 | San Mateo, CA | Software | 2026-08-08 |
 
 ## ROCKWOOL Group
 
