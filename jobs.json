@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-09T13:29:10.287Z",
+  "generatedAt": "2026-08-09T14:06:21.925Z",
   "companyCount": 151,
   "okCount": 151,
-  "jobCount": 1926,
+  "jobCount": 1927,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1929,7 +1929,8 @@
     "canonical:21f7860e2eb4a9b1": "2026-08-09T11:19:53.222Z",
     "canonical:546e80b33e748f19": "2026-08-09T11:52:17.962Z",
     "canonical:b73044f3f4b06159": "2026-08-09T11:52:17.962Z",
-    "canonical:ee7a99cc74c69488": "2026-08-09T11:52:17.962Z"
+    "canonical:ee7a99cc74c69488": "2026-08-09T11:52:17.962Z",
+    "canonical:04172e347ecd89c6": "2026-08-09T14:06:21.925Z"
   },
   "jobs": [
     {
@@ -17516,6 +17517,19 @@
       "location": "San Diego, CA",
       "department": "AI/ML/Data",
       "company": "International Rescue Committee (IRC)",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:04172e347ecd89c6",
+      "title": "Research Engineering Intern",
+      "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Engineering-Interns_REQ_0000080335-1",
+      "location": "State College, PA",
+      "department": "Software",
+      "company": "Pennsylvania State University",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
