@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-09T00:54:28.078Z",
+  "generatedAt": "2026-08-09T02:56:53.922Z",
   "companyCount": 151,
   "okCount": 151,
-  "jobCount": 1932,
+  "jobCount": 1931,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1331,7 +1331,6 @@
     "canonical:8d4bad907295dfbf": "2026-08-01T15:33:38.600Z",
     "canonical:93c1aa291cbc1779": "2026-08-01T15:33:38.600Z",
     "canonical:2e1957ef2ef86ad4": "2026-08-01T15:33:38.600Z",
-    "canonical:1cb970dd90b802db": "2026-08-01T15:33:38.600Z",
     "canonical:360f81d0ff355ed6": "2026-08-01T15:33:38.600Z",
     "canonical:761db21fd7aa5b3e": "2026-08-01T15:33:38.600Z",
     "canonical:8c76e328dc89930b": "2026-08-01T15:33:38.600Z",
@@ -1934,8 +1933,8 @@
     "canonical:eb36ec82c13c13da": "2026-08-08T16:50:09.022Z",
     "canonical:2b5d9a1ec020d8b2": "2026-08-08T16:50:09.022Z",
     "canonical:9421986cd523105f": "2026-08-08T16:50:09.022Z",
-    "canonical:53f689ec74bffd45": "2026-08-09T00:54:28.078Z",
-    "canonical:6fdcd00eacc1ddb2": "2026-08-09T00:54:28.078Z"
+    "canonical:6fdcd00eacc1ddb2": "2026-08-09T00:54:28.078Z",
+    "canonical:2bfd044e05f72cfa": "2026-08-09T02:56:53.922Z"
   },
   "jobs": [
     {
@@ -7530,15 +7529,16 @@
       "scoreReasons": []
     },
     {
-      "id": "canonical:53f689ec74bffd45",
-      "title": "AI Engineer, Internship - Summer 2026 - Applications Open Now",
+      "id": "canonical:2bfd044e05f72cfa",
+      "title": "AI Engineer Intern",
       "url": "https://job-boards.greenhouse.io/postman/jobs/7823417003",
-      "location": "Berkeley, California, United States; San Francisco, California, United States",
-      "department": "",
+      "location": "Berkeley, CA",
+      "department": "AI/ML/Data",
       "company": "Postman",
-      "score": 83,
+      "score": 93,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role",
         "direct ATS"
       ]
     },
@@ -12487,19 +12487,6 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:1cb970dd90b802db",
-      "title": "Research and Development Intern - Research & Development: AI/ML",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--AI-ML_JR-202612795",
-      "location": "Mountain View, CA / Warren, MI",
-      "department": "AI/ML/Data",
-      "company": "General Motors",
-      "score": 68,
-      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]

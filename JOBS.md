@@ -1,6 +1,6 @@
 # Open Internships
 
-**1932** internships across **151/151** companies — last updated 2026-08-09.
+**1931** internships across **151/151** companies — last updated 2026-08-09.
 
 ## Companies
 
@@ -250,7 +250,6 @@
 - [General Astronautics](#general-astronautics) (1)
 - [General Dynamics Information Technology](#general-dynamics-information-technology) (3)
 - [General Intuition &amp; Medal](#general-intuition-amp-medal) (1)
-- [General Motors](#general-motors) (1)
 - [GenMD](#genmd) (1)
 - [Gensyn](#gensyn) (1)
 - [Genworth](#genworth) (1)
@@ -2645,12 +2644,6 @@
 | --- | --- | --- | --- | --- |
 | [Technical Intern and New Grad](https://jobs.ashbyhq.com/generalintuition-medal/aaa8928d-7d07-4859-86c1-eb39c4c4cbd3/application?embed=true) | 74 | London, UK / NYC | Software | 2026-08-01 |
 
-## General Motors
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Research and Development Intern - Research & Development: AI/ML](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--AI-ML_JR-202612795) | 68 | Mountain View, CA / Warren, MI | AI/ML/Data | 2026-08-01 |
-
 ## GenMD
 
 | Title | Score | Location | Department | First seen |
@@ -4340,7 +4333,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [AI Engineer, Internship - Summer 2026 - Applications Open Now](https://job-boards.greenhouse.io/postman/jobs/7823417003) | 83 | Berkeley, California, United States; San Francisco, California, United States | — | 2026-08-09 |
+| [AI Engineer Intern](https://job-boards.greenhouse.io/postman/jobs/7823417003) | 93 | Berkeley, CA | AI/ML/Data | 2026-08-09 |
 
 ## PPL
 
