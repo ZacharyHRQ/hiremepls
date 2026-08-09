@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-09T14:50:10.563Z",
+  "generatedAt": "2026-08-09T15:20:38.028Z",
   "companyCount": 151,
   "okCount": 151,
-  "jobCount": 1926,
+  "jobCount": 1927,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1929,7 +1929,8 @@
     "canonical:546e80b33e748f19": "2026-08-09T11:52:17.962Z",
     "canonical:b73044f3f4b06159": "2026-08-09T11:52:17.962Z",
     "canonical:ee7a99cc74c69488": "2026-08-09T11:52:17.962Z",
-    "canonical:04172e347ecd89c6": "2026-08-09T14:06:21.925Z"
+    "canonical:04172e347ecd89c6": "2026-08-09T14:06:21.925Z",
+    "canonical:4f1f05af7cf9e97c": "2026-08-09T15:20:38.028Z"
   },
   "jobs": [
     {
@@ -9828,6 +9829,20 @@
       "score": 68,
       "scoreReasons": [
         "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:4f1f05af7cf9e97c",
+      "title": "Graduate Research Assistant Intern",
+      "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Developer-_R0053891",
+      "location": "Little Rock, AR",
+      "department": "Software",
+      "company": "University of Arkansas",
+      "score": 74,
+      "scoreReasons": [
+        "high-signal role",
+        "new grad",
         "direct ATS"
       ]
     },

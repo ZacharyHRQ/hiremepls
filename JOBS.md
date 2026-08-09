@@ -1,6 +1,6 @@
 # Open Internships
 
-**1926** internships across **151/151** companies — last updated 2026-08-09.
+**1927** internships across **151/151** companies — last updated 2026-08-09.
 
 ## Companies
 
@@ -610,7 +610,7 @@
 - [Uline](#uline) (6)
 - [UMB](#umb) (1)
 - [Uncountable](#uncountable) (1)
-- [University of Arkansas](#university-of-arkansas) (1)
+- [University of Arkansas](#university-of-arkansas) (2)
 - [University of Nevada, Reno](#university-of-nevada-reno) (2)
 - [University of Texas at Austin](#university-of-texas-at-austin) (3)
 - [University of Virginia Investment Management Company (UVIMCO)](#university-of-virginia-investment-management-company-uvimco) (1)
@@ -5528,6 +5528,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Graduate Research Assistant Intern](https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Developer-_R0053891) | 74 | Little Rock, AR | Software | 2026-08-09 |
 | [Cosmos Graduate Research Assistant - ML/AI](https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--ML-AI-_R0053896) | 74 | Little Rock, AR | AI/ML/Data | 2026-08-05 |
 
 ## University of Nevada, Reno
