@@ -1,6 +1,6 @@
 # Open Internships
 
-**1930** internships across **151/151** companies — last updated 2026-08-09.
+**1929** internships across **151/151** companies — last updated 2026-08-09.
 
 ## Companies
 
@@ -66,7 +66,7 @@
 - [AXQ Capital](#axq-capital) (1)
 - [BAE Systems](#bae-systems) (1)
 - [Bank of America](#bank-of-america) (1)
-- [Bank of Montreal](#bank-of-montreal) (2)
+- [Bank of Montreal](#bank-of-montreal) (1)
 - [Barkback](#barkback) (1)
 - [Base Power](#base-power) (4)
 - [Beacon Software](#beacon-software) (2)
@@ -1296,7 +1296,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Card Products Intern Co-op - Customer Solutions](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Card-Products-Internship--Fall-2026-Co-op-Internship--Toronto--CA-_R260023035) | 58 | Toronto, ON, Canada | Product | 2026-08-07 |
 | [Data Scientist Co-op/Internship - Months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879) | 93 | Toronto, ON, Canada | AI/ML/Data | 2026-07-22 |
 
 ## Barkback
@@ -3585,6 +3584,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Product Manager Intern](https://apply.careers.microsoft.com/careers/job/1970393556953113) | 50 | Remote | — | 2026-08-09 |
 | [Software Engineer Intern - Gears of War](https://apply.careers.microsoft.com/careers/job/1970393556956276) | 85 | Vancouver, BC, Canada | Software | 2026-08-07 |
 | [Research Intern - Firmware Security](https://apply.careers.microsoft.com/careers/job/1970393556955518) | 60 | Redmond, WA | AI/ML/Data | 2026-08-04 |
 | [Software Engineer Intern, AI/ML & LLM](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922929) | 85 | Redmond, WA | — | 2026-08-04 |
@@ -3598,7 +3598,6 @@
 | [Software Engineer: AI/ML & LLM Intern](https://apply.careers.microsoft.com/careers/job/1970393556922929) | 85 | Redmond, WA | AI/ML/Data | 2026-08-04 |
 | [Software Engineer Intern, CoreAI](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0) | 85 | Multiple Locations, United States | — | 2026-08-03 |
 | [Software Engineer Intern - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393556951950) | 85 | Redmond, WA | Software | 2026-08-03 |
-| [Product Manager Intern](https://apply.careers.microsoft.com/careers/job/1970393556953113) | 50 | Redmond, WA | Product | 2026-08-03 |
 | [Research Intern - Self-Improving AI](https://apply.careers.microsoft.com/careers/job/1970393556867858) | 60 | Cambridge, MA / NYC | AI/ML/Data | 2026-05-19 |
 
 ## Mindsmith

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-09T07:13:10.494Z",
+  "generatedAt": "2026-08-09T08:00:29.493Z",
   "companyCount": 151,
   "okCount": 151,
-  "jobCount": 1930,
+  "jobCount": 1929,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1500,7 +1500,6 @@
     "canonical:89f43b3fae89fee4": "2026-08-03T06:50:49.506Z",
     "canonical:f3a6c5e89086ec3d": "2026-08-03T06:50:49.506Z",
     "canonical:9142ad2681019e9a": "2026-08-03T06:50:49.506Z",
-    "canonical:4d57ef2423ce1c27": "2026-08-03T06:50:49.506Z",
     "canonical:a1463d846fbcc734": "2026-08-03T10:31:55.539Z",
     "canonical:07d09bdf9fb14136": "2026-08-03T10:31:55.539Z",
     "canonical:51b92253e4e72e9b": "2026-08-03T10:31:55.539Z",
@@ -1895,7 +1894,6 @@
     "canonical:35f63524f04330a2": "2026-08-07T23:24:27.053Z",
     "canonical:b7945a931c365378": "2026-08-07T23:24:27.053Z",
     "canonical:c2993471df627941": "2026-08-07T23:24:27.053Z",
-    "canonical:7c328cd8cb3f673c": "2026-08-07T23:24:27.053Z",
     "canonical:68ab0febe76666d8": "2026-08-07T23:24:27.053Z",
     "canonical:cfed1482f3d87d19": "2026-08-07T23:24:27.053Z",
     "canonical:1a04f188266afcc0": "2026-08-07T23:24:27.053Z",
@@ -1933,7 +1931,8 @@
     "canonical:2b5d9a1ec020d8b2": "2026-08-08T16:50:09.022Z",
     "canonical:9421986cd523105f": "2026-08-08T16:50:09.022Z",
     "canonical:6fdcd00eacc1ddb2": "2026-08-09T00:54:28.078Z",
-    "canonical:2bfd044e05f72cfa": "2026-08-09T02:56:53.922Z"
+    "canonical:2bfd044e05f72cfa": "2026-08-09T02:56:53.922Z",
+    "canonical:5f4de7a945974ffe": "2026-08-09T08:00:29.493Z"
   },
   "jobs": [
     {
@@ -19092,16 +19091,6 @@
       ]
     },
     {
-      "id": "canonical:4d57ef2423ce1c27",
-      "title": "Product Manager Intern",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
-      "location": "Redmond, WA",
-      "department": "Product",
-      "company": "Microsoft",
-      "score": 50,
-      "scoreReasons": []
-    },
-    {
       "id": "canonical:55d3166b5410acf5",
       "title": "Scientific Software Developer Intern Co-op",
       "url": "https://stellarscience.applytojob.com/apply/my4AC4VXHI/Scientific-Software-Developer-Paid-CoopInternship",
@@ -22585,18 +22574,6 @@
       ]
     },
     {
-      "id": "canonical:7c328cd8cb3f673c",
-      "title": "Card Products Intern Co-op - Customer Solutions",
-      "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Card-Products-Internship--Fall-2026-Co-op-Internship--Toronto--CA-_R260023035",
-      "location": "Toronto, ON, Canada",
-      "department": "Product",
-      "company": "Bank of Montreal",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:68ab0febe76666d8",
       "title": "Capital Markets Quant Summer Associate - Quantitative Technology Services",
       "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000183482",
@@ -25055,6 +25032,16 @@
         "SWE-aligned",
         "high-signal role"
       ]
+    },
+    {
+      "id": "canonical:5f4de7a945974ffe",
+      "title": "Product Manager Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
+      "location": "Remote",
+      "department": "",
+      "company": "Microsoft",
+      "score": 50,
+      "scoreReasons": []
     },
     {
       "id": "canonical:3e3bb28d83a2a55f",
