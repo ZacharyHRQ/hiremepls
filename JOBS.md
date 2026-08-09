@@ -1,6 +1,6 @@
 # Open Internships
 
-**1927** internships across **151/151** companies — last updated 2026-08-09.
+**1928** internships across **151/151** companies — last updated 2026-08-09.
 
 ## Companies
 
@@ -286,7 +286,7 @@
 - [HEXAWARE](#hexaware) (1)
 - [Hitachi](#hitachi) (1)
 - [Hiverge](#hiverge) (1)
-- [HNTB](#hntb) (1)
+- [HNTB](#hntb) (2)
 - [Homebase](#homebase) (1)
 - [Hone Health](#hone-health) (1)
 - [Horizon Industries](#horizon-industries) (1)
@@ -2872,6 +2872,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Strategic Technology Intern - SED Division](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Tallahassee-FL/Strategic-Technology-Intern---Summer-2027--SED-Division--For-Current-Former-HNTB-Interns-Only-_R-31092) | 68 | Tampa, FL / Tallahassee, FL | AI/ML/Data | 2026-08-09 |
 | [Returning Strategic Technology Intern - Summer 2026 (Southeast Division)](https://www.linkedin.com/jobs/view/4275241199) | 42 | Tallahassee, FL | — | 2026-07-09 |
 
 ## Homebase

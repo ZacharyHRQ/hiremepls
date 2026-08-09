@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-09T22:18:58.842Z",
+  "generatedAt": "2026-08-09T22:56:08.825Z",
   "companyCount": 151,
   "okCount": 151,
-  "jobCount": 1927,
+  "jobCount": 1928,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1930,7 +1930,8 @@
     "canonical:b73044f3f4b06159": "2026-08-09T11:52:17.962Z",
     "canonical:ee7a99cc74c69488": "2026-08-09T11:52:17.962Z",
     "canonical:04172e347ecd89c6": "2026-08-09T14:06:21.925Z",
-    "canonical:4f1f05af7cf9e97c": "2026-08-09T15:20:38.028Z"
+    "canonical:4f1f05af7cf9e97c": "2026-08-09T15:20:38.028Z",
+    "canonical:66d06ce4b40ffb7e": "2026-08-09T22:56:08.825Z"
   },
   "jobs": [
     {
@@ -22772,6 +22773,19 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:66d06ce4b40ffb7e",
+      "title": "Strategic Technology Intern - SED Division",
+      "url": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Tallahassee-FL/Strategic-Technology-Intern---Summer-2027--SED-Division--For-Current-Former-HNTB-Interns-Only-_R-31092",
+      "location": "Tampa, FL / Tallahassee, FL",
+      "department": "AI/ML/Data",
+      "company": "HNTB",
+      "score": 68,
+      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
