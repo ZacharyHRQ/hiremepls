@@ -1,6 +1,6 @@
 # Open Internships
 
-**1931** internships across **151/151** companies — last updated 2026-08-09.
+**1930** internships across **151/151** companies — last updated 2026-08-09.
 
 ## Companies
 
@@ -580,7 +580,6 @@
 - [The D. E. Shaw Group](#the-d-e-shaw-group) (1)
 - [The Exploration Company](#the-exploration-company) (1)
 - [The Federal Reserve System](#the-federal-reserve-system) (1)
-- [The Home Depot](#the-home-depot) (1)
 - [The Hub Project](#the-hub-project) (1)
 - [The Nuclear Company](#the-nuclear-company) (6)
 - [The Tatitlek Corporation](#the-tatitlek-corporation) (1)
@@ -5213,12 +5212,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Graduate Statistical Analysis Intern - Regional & Community Outreach](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Boston-MA/Graduate-Intern---Statistical-Analysis_R-0000032931) | 74 | Boston, MA | AI/ML/Data | 2026-08-08 |
-
-## The Home Depot
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI Engineer Intern](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Engineer_Req188547) | 93 | Toronto, ON, Canada | Software | 2026-07-30 |
 
 ## The Hub Project
 

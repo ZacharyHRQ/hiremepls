@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-09T04:13:25.580Z",
+  "generatedAt": "2026-08-09T05:17:26.656Z",
   "companyCount": 151,
   "okCount": 151,
-  "jobCount": 1931,
+  "jobCount": 1930,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1186,7 +1186,6 @@
     "canonical:c7b755cee21dae11": "2026-07-30T23:05:50.164Z",
     "canonical:9ec2156fe6e4db18": "2026-07-30T23:05:50.164Z",
     "canonical:0b3ed1f21f17af1c": "2026-07-30T23:05:50.164Z",
-    "canonical:ce8e30244dedb0b8": "2026-07-30T23:05:50.164Z",
     "canonical:21f7860e2eb4a9b1": "2026-07-30T23:05:50.164Z",
     "canonical:7a1273d24faf09b2": "2026-07-30T23:05:50.164Z",
     "canonical:99a13e746f2a0a9f": "2026-07-30T23:05:50.164Z",
@@ -18209,20 +18208,6 @@
       "company": "University of Texas at Austin",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:ce8e30244dedb0b8",
-      "title": "AI Engineer Intern",
-      "url": "https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Engineer_Req188547",
-      "location": "Toronto, ON, Canada",
-      "department": "Software",
-      "company": "The Home Depot",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
