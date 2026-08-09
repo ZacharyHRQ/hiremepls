@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-09T09:39:20.518Z",
+  "generatedAt": "2026-08-09T10:13:56.890Z",
   "companyCount": 151,
   "okCount": 151,
-  "jobCount": 1927,
+  "jobCount": 1926,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1413,7 +1413,6 @@
     "canonical:1c888f1275ab0501": "2026-08-01T20:39:53.991Z",
     "canonical:2d61efba51dca122": "2026-08-01T20:39:53.991Z",
     "canonical:8f0220e3ccd8e047": "2026-08-01T20:39:53.991Z",
-    "canonical:5c2778d446a1f22f": "2026-08-01T20:39:53.991Z",
     "canonical:52ea1ef7dab63704": "2026-08-01T20:39:53.991Z",
     "canonical:f5b0d2bc4032f956": "2026-08-01T20:39:53.991Z",
     "canonical:559862a3c8507c45": "2026-08-01T20:39:53.991Z",
@@ -1751,7 +1750,6 @@
     "canonical:9cb0421552c11b9f": "2026-08-05T23:16:13.094Z",
     "canonical:32b11b2369e0996b": "2026-08-05T23:16:13.094Z",
     "canonical:8b54373f2be8e50d": "2026-08-05T23:16:13.094Z",
-    "canonical:cba9d7f33389e8b2": "2026-08-05T23:16:13.094Z",
     "canonical:94ad8209f1cb9e8d": "2026-08-06T03:38:35.332Z",
     "canonical:467f8f4fe3444d0f": "2026-08-06T03:38:35.332Z",
     "canonical:01202bdbe36c02b3": "2026-08-06T03:38:35.332Z",
@@ -1930,7 +1928,8 @@
     "canonical:9421986cd523105f": "2026-08-08T16:50:09.022Z",
     "canonical:6fdcd00eacc1ddb2": "2026-08-09T00:54:28.078Z",
     "canonical:2bfd044e05f72cfa": "2026-08-09T02:56:53.922Z",
-    "canonical:5f4de7a945974ffe": "2026-08-09T08:00:29.493Z"
+    "canonical:5f4de7a945974ffe": "2026-08-09T08:00:29.493Z",
+    "canonical:7057a2cbb57f9823": "2026-08-09T10:13:56.890Z"
   },
   "jobs": [
     {
@@ -16165,19 +16164,6 @@
       ]
     },
     {
-      "id": "canonical:5c2778d446a1f22f",
-      "title": "Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web",
-      "url": "https://ats.rippling.com/spreeai/jobs/c52472cb-2671-45d7-b666-17196dc3df25",
-      "location": "SF",
-      "department": "Software",
-      "company": "SpreeAI ",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:52ea1ef7dab63704",
       "title": "AI Researcher Intern",
       "url": "https://jobs.ashbyhq.com/egra/6f295102-6330-4a9e-9fc4-9b414e620003/application?embed=true",
@@ -18488,6 +18474,18 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:7057a2cbb57f9823",
+      "title": "AI Automation & Business Analytics Intern - Rotational Program",
+      "url": "https://ats.rippling.com/briowt/jobs/52da1fca-1cb1-49ff-8a94-b6f3850cd8eb",
+      "location": "Glendale, CA",
+      "department": "AI/ML/Data",
+      "company": "Brio Water Technology",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
       ]
     },
     {
@@ -21483,20 +21481,6 @@
       "location": "Salt Lake City, UT",
       "department": "AI/ML/Data",
       "company": "WGU",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:cba9d7f33389e8b2",
-      "title": "Machine Learning Researcher Intern/Co-op",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-RTRC-K--411-Silver-Ln--RTRC-K/Fall-2026--Intern-Coop--Machine-Learning-Researcher_01864471",
-      "location": "East Hartford, CT",
-      "department": "AI/ML/Data",
-      "company": "RTX",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
