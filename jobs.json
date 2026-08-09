@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-09T08:59:06.463Z",
+  "generatedAt": "2026-08-09T09:39:20.518Z",
   "companyCount": 151,
   "okCount": 151,
-  "jobCount": 1929,
+  "jobCount": 1927,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -983,7 +983,6 @@
     "canonical:78e461e91d26f884": "2026-07-22T04:30:46.300Z",
     "canonical:117f07893ccc9f34": "2026-07-22T04:30:46.300Z",
     "canonical:dac83ccb1e51252c": "2026-07-22T04:30:46.300Z",
-    "canonical:cb6ec0e16b9f5a51": "2026-07-22T04:30:46.300Z",
     "canonical:677f4180981519f2": "2026-07-22T04:30:46.300Z",
     "canonical:09230a2dbad3916e": "2026-07-22T04:30:46.300Z",
     "canonical:b4e6df7dcb42b162": "2026-07-22T07:18:38.084Z",
@@ -1479,7 +1478,6 @@
     "canonical:f2a958c8f6ff3dd7": "2026-08-01T22:35:45.744Z",
     "canonical:190209721673190e": "2026-08-01T22:35:45.744Z",
     "canonical:c734c6d1df5733f3": "2026-08-01T22:35:45.744Z",
-    "canonical:7057a2cbb57f9823": "2026-08-01T22:35:45.744Z",
     "canonical:b4f9dde6d2e8fd17": "2026-08-01T22:35:45.744Z",
     "canonical:954aaee20b550fc2": "2026-08-01T23:37:49.562Z",
     "canonical:a37a272f9143198f": "2026-08-01T23:37:49.562Z",
@@ -14697,20 +14695,6 @@
       ]
     },
     {
-      "id": "canonical:cb6ec0e16b9f5a51",
-      "title": "Data Scientist Co-op/Internship - Months",
-      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Bank of Montreal",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:be0b347adbb5ffe2",
       "title": "Associate/Undergraduate Intern",
       "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Remote/XMLNAME--Associate-Undergraduate--Intern---Carbon-Management-and-Large-Energy-Systems_R14405",
@@ -18504,18 +18488,6 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:7057a2cbb57f9823",
-      "title": "AI Automation & Business Analytics Intern - Rotational Program",
-      "url": "https://ats.rippling.com/briowt/jobs/52da1fca-1cb1-49ff-8a94-b6f3850cd8eb",
-      "location": "Glendale, CA",
-      "department": "AI/ML/Data",
-      "company": "Brio Water Technology",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {
