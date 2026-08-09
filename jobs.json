@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T10:13:56.890Z",
+  "generatedAt": "2026-08-09T10:51:58.415Z",
   "companyCount": 151,
   "okCount": 151,
   "jobCount": 1926,
@@ -1185,7 +1185,6 @@
     "canonical:c7b755cee21dae11": "2026-07-30T23:05:50.164Z",
     "canonical:9ec2156fe6e4db18": "2026-07-30T23:05:50.164Z",
     "canonical:0b3ed1f21f17af1c": "2026-07-30T23:05:50.164Z",
-    "canonical:21f7860e2eb4a9b1": "2026-07-30T23:05:50.164Z",
     "canonical:7a1273d24faf09b2": "2026-07-30T23:05:50.164Z",
     "canonical:99a13e746f2a0a9f": "2026-07-30T23:05:50.164Z",
     "canonical:8fdad12663157c17": "2026-07-30T23:05:50.164Z",
@@ -1929,7 +1928,8 @@
     "canonical:6fdcd00eacc1ddb2": "2026-08-09T00:54:28.078Z",
     "canonical:2bfd044e05f72cfa": "2026-08-09T02:56:53.922Z",
     "canonical:5f4de7a945974ffe": "2026-08-09T08:00:29.493Z",
-    "canonical:7057a2cbb57f9823": "2026-08-09T10:13:56.890Z"
+    "canonical:7057a2cbb57f9823": "2026-08-09T10:13:56.890Z",
+    "canonical:5c2778d446a1f22f": "2026-08-09T10:51:58.415Z"
   },
   "jobs": [
     {
@@ -16164,6 +16164,19 @@
       ]
     },
     {
+      "id": "canonical:5c2778d446a1f22f",
+      "title": "Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web",
+      "url": "https://ats.rippling.com/spreeai/jobs/c52472cb-2671-45d7-b666-17196dc3df25",
+      "location": "SF",
+      "department": "Software",
+      "company": "SpreeAI ",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:52ea1ef7dab63704",
       "title": "AI Researcher Intern",
       "url": "https://jobs.ashbyhq.com/egra/6f295102-6330-4a9e-9fc4-9b414e620003/application?embed=true",
@@ -18180,16 +18193,6 @@
         "high-signal role",
         "direct ATS"
       ]
-    },
-    {
-      "id": "canonical:21f7860e2eb4a9b1",
-      "title": "Hardware R&D Engineer Intern",
-      "url": "https://careers.formlabs.com/job/8097694/apply/?gh_jid=8097694",
-      "location": "Cambridge, MA",
-      "department": "Hardware",
-      "company": "Formlabs",
-      "score": 50,
-      "scoreReasons": []
     },
     {
       "id": "canonical:7a1273d24faf09b2",
