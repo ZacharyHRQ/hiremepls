@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-09T11:19:53.222Z",
+  "generatedAt": "2026-08-09T11:52:17.962Z",
   "companyCount": 151,
-  "okCount": 149,
-  "jobCount": 1924,
+  "okCount": 151,
+  "jobCount": 1927,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1927,7 +1927,10 @@
     "canonical:5f4de7a945974ffe": "2026-08-09T08:00:29.493Z",
     "canonical:7057a2cbb57f9823": "2026-08-09T10:13:56.890Z",
     "canonical:5c2778d446a1f22f": "2026-08-09T10:51:58.415Z",
-    "canonical:21f7860e2eb4a9b1": "2026-08-09T11:19:53.222Z"
+    "canonical:21f7860e2eb4a9b1": "2026-08-09T11:19:53.222Z",
+    "canonical:546e80b33e748f19": "2026-08-09T11:52:17.962Z",
+    "canonical:b73044f3f4b06159": "2026-08-09T11:52:17.962Z",
+    "canonical:ee7a99cc74c69488": "2026-08-09T11:52:17.962Z"
   },
   "jobs": [
     {
@@ -3668,6 +3671,42 @@
       "score": 68,
       "scoreReasons": [
         "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:546e80b33e748f19",
+      "title": "Intern, Trading - ALM (Jan - Jun 2027)",
+      "url": "https://apply.workable.com/qcp-group/j/4599D0F542/",
+      "location": "Singapore, Singapore, Singapore",
+      "department": "Trading - ALM",
+      "company": "QCP",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:b73044f3f4b06159",
+      "title": "Intern, Compliance (Project Management)",
+      "url": "https://apply.workable.com/qcp-group/j/D2512DB61F/",
+      "location": "Singapore, Singapore, Singapore",
+      "department": "Compliance",
+      "company": "QCP",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ee7a99cc74c69488",
+      "title": "Intern, Compliance (AML Operations)",
+      "url": "https://apply.workable.com/qcp-group/j/68D6E36FDF/",
+      "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+      "department": "Compliance",
+      "company": "QCP",
+      "score": 58,
+      "scoreReasons": [
         "direct ATS"
       ]
     },
@@ -26487,14 +26526,5 @@
       ]
     }
   ],
-  "errors": [
-    {
-      "company": "Wintermute",
-      "message": "workable wintermute-trading: HTTP 429"
-    },
-    {
-      "company": "QCP",
-      "message": "workable qcp-group: HTTP 429"
-    }
-  ]
+  "errors": []
 }

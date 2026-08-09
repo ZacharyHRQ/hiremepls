@@ -1,6 +1,6 @@
 # Open Internships
 
-**1924** internships across **149/151** companies — last updated 2026-08-09.
+**1927** internships across **151/151** companies — last updated 2026-08-09.
 
 ## Companies
 
@@ -477,6 +477,7 @@
 - [Prospect Equities](#prospect-equities) (1)
 - [PsiQuantum](#psiquantum) (1)
 - [Pylon](#pylon) (1)
+- [QCP](#qcp) (3)
 - [Quadric](#quadric) (2)
 - [Quadrillion](#quadrillion) (3)
 - [Qualcomm](#qualcomm) (1)
@@ -4380,6 +4381,14 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application) | 93 | SF | Software | 2026-08-01 |
 
+## QCP
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Intern, Compliance (AML Operations)](https://apply.workable.com/qcp-group/j/68D6E36FDF/) | 58 | Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia | Compliance | 2026-08-09 |
+| [Intern, Compliance (Project Management)](https://apply.workable.com/qcp-group/j/D2512DB61F/) | 58 | Singapore, Singapore, Singapore | Compliance | 2026-08-09 |
+| [Intern, Trading - ALM (Jan - Jun 2027)](https://apply.workable.com/qcp-group/j/4599D0F542/) | 58 | Singapore, Singapore, Singapore | Trading - ALM | 2026-08-09 |
+
 ## Quadric
 
 | Title | Score | Location | Department | First seen |
@@ -5852,8 +5861,3 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Data Analyst Intern](https://jobs.ashbyhq.com/zuru/750dea66-6f5a-4622-80d6-b6289954d3d0/application?embed=true) | 68 | LA | AI/ML/Data | 2026-07-21 |
-
-## Errors this run
-
-- **Wintermute**: workable wintermute-trading: HTTP 429
-- **QCP**: workable qcp-group: HTTP 429
