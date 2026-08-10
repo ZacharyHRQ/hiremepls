@@ -10,6 +10,9 @@ interface YcCompany {
   isHiring?: boolean;
   tags?: string[];
   url?: string;
+  top_company?: boolean;
+  team_size?: number;
+  stage?: string;
 }
 
 const YC_COMPANIES_URL = "https://yc-oss.github.io/api/companies/all.json";
@@ -56,6 +59,10 @@ function matchesTags(company: YcCompany, wanted: string[]): boolean {
 
 const limit = Number(getFlag("limit") ?? "40");
 const tags = parseTags(getFlag("tags"));
+// YC's own "top_company" flag marks its most successful alumni (Stripe/Deel/Flexport-tier) —
+// the closest thing to a "next Uber/Facebook" signal available in the public dataset.
+const topOnly = process.argv.includes("--top-only");
+const minTeamSize = Number(getFlag("min-team-size") ?? "0");
 
 const res = await fetch(YC_COMPANIES_URL, {
   headers: { "User-Agent": "hireme-yc-discovery" },
@@ -67,8 +74,10 @@ if (!res.ok) {
 const companies = ((await res.json()) as YcCompany[])
   .filter((company) => company.status === "Active")
   .filter((company) => company.isHiring)
-  .filter((company) => matchesTags(company, tags))
+  .filter((company) => (topOnly ? company.top_company : matchesTags(company, tags)))
+  .filter((company) => (company.team_size ?? 0) >= minTeamSize)
   .sort((a, b) => {
+    if (topOnly) return (b.team_size ?? 0) - (a.team_size ?? 0);
     if (a.batch !== b.batch) return String(b.batch).localeCompare(String(a.batch));
     return a.name.localeCompare(b.name);
   })
@@ -80,6 +89,7 @@ console.log(JSON.stringify(companies.map((company) => ({
   website: company.website ?? "",
   location: company.all_locations ?? "",
   batch: company.batch ?? "",
+  teamSize: company.team_size ?? 0,
   industry: company.industry ?? "",
   tags: company.tags ?? [],
   ycUrl: company.url ?? `https://www.ycombinator.com/companies/${company.slug}`,

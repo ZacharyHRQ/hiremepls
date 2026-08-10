@@ -157,6 +157,19 @@
 
   { "name": "Visa", "ats": "smartrecruiters", "slug": "Visa" },
 
+  { "name": "Deel", "ats": "ashby", "slug": "deel" },
+  { "name": "Flexport", "ats": "greenhouse", "slug": "flexport" },
+  { "name": "GOAT Group", "ats": "greenhouse", "slug": "goatgroup" },
+  { "name": "Podium", "ats": "ashby", "slug": "podium" },
+  { "name": "Faire", "ats": "greenhouse", "slug": "faire" },
+  { "name": "Algolia", "ats": "greenhouse", "slug": "algolia" },
+  { "name": "Checkr", "ats": "greenhouse", "slug": "checkr" },
+  { "name": "Zapier", "ats": "ashby", "slug": "zapier" },
+  { "name": "Bird", "ats": "greenhouse", "slug": "bird" },
+  { "name": "Mixpanel", "ats": "greenhouse", "slug": "mixpanel" },
+  { "name": "Odeko", "ats": "greenhouse", "slug": "odeko" },
+  { "name": "SmartAsset", "ats": "greenhouse", "slug": "smartasset" },
+
   { "name": "SimplifyJobs 2026", "ats": "simplify", "slug": "" },
   {
     "name": "SimplifyJobs 2027",
