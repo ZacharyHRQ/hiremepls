@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-10T12:29:55.665Z",
+  "generatedAt": "2026-08-10T13:55:59.000Z",
   "companyCount": 179,
   "okCount": 179,
-  "jobCount": 1932,
+  "jobCount": 1935,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1935,7 +1935,10 @@
     "canonical:cbe17f15254cbaed": "2026-08-10T09:45:05.520Z",
     "canonical:957953dd04839b8d": "2026-08-10T10:47:13.407Z",
     "canonical:d7be8ed4523d36c1": "2026-08-10T10:47:13.407Z",
-    "canonical:222f0c62ed4ff4f8": "2026-08-10T10:47:13.407Z"
+    "canonical:222f0c62ed4ff4f8": "2026-08-10T10:47:13.407Z",
+    "canonical:961739ba3b88cd14": "2026-08-10T13:55:59.000Z",
+    "canonical:399413da6b9bcfd8": "2026-08-10T13:55:59.000Z",
+    "canonical:c49b52bf93f2f3aa": "2026-08-10T13:55:59.000Z"
   },
   "jobs": [
     {
@@ -1983,6 +1986,19 @@
       "title": "Intern Quant Researcher",
       "url": "https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853",
       "location": "London, Paris, New York, Singapore, Hong Kong",
+      "department": "",
+      "company": "Squarepoint Capital",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:961739ba3b88cd14",
+      "title": "Intern Software Developer - London - 2027",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=7231006&gh_jid=7231006",
+      "location": "London",
       "department": "",
       "company": "Squarepoint Capital",
       "score": 85,
@@ -2756,18 +2772,6 @@
       ]
     },
     {
-      "id": "canonical:1f361269ec79c7b7",
-      "title": "FPGA Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/8070392",
-      "location": "London, UK",
-      "department": "Hardware",
-      "company": "DRW",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:2bc4df178e85b4f6",
       "title": "FPGA Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/8038923",
@@ -2780,11 +2784,11 @@
       ]
     },
     {
-      "id": "canonical:6e64194c6ae570c0",
-      "title": "Leadership Rotation Network Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957735",
-      "location": "London",
-      "department": "",
+      "id": "canonical:1f361269ec79c7b7",
+      "title": "FPGA Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/8070392",
+      "location": "London, UK",
+      "department": "Hardware",
       "company": "DRW",
       "score": 58,
       "scoreReasons": [
@@ -2796,6 +2800,18 @@
       "title": "Leadership Rotation Network Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7993195",
       "location": "Chicago, IL",
+      "department": "",
+      "company": "DRW",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:6e64194c6ae570c0",
+      "title": "Leadership Rotation Network Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957735",
+      "location": "London",
       "department": "",
       "company": "DRW",
       "score": 58,
@@ -2832,11 +2848,11 @@
       ]
     },
     {
-      "id": "canonical:8c7dcade35ccab5b",
+      "id": "canonical:03ff9719f5d57641",
       "title": "Quantitative Research Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957756",
-      "location": "London, UK",
-      "department": "Quant",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7818540",
+      "location": "Chicago, New York City",
+      "department": "Quant / Not stated",
       "company": "DRW",
       "score": 68,
       "scoreReasons": [
@@ -2845,11 +2861,11 @@
       ]
     },
     {
-      "id": "canonical:03ff9719f5d57641",
+      "id": "canonical:8c7dcade35ccab5b",
       "title": "Quantitative Research Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7818540",
-      "location": "Chicago, New York City",
-      "department": "Quant / Not stated",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957756",
+      "location": "London, UK",
+      "department": "Quant",
       "company": "DRW",
       "score": 68,
       "scoreReasons": [
@@ -2871,10 +2887,10 @@
       ]
     },
     {
-      "id": "canonical:ae44a67983e1d43a",
+      "id": "canonical:d40e55f9a26db473",
       "title": "Quantitative Trading Analyst Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7668776",
-      "location": "Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957243",
+      "location": "London, UK",
       "department": "Quant",
       "company": "DRW",
       "score": 68,
@@ -2884,10 +2900,10 @@
       ]
     },
     {
-      "id": "canonical:d40e55f9a26db473",
+      "id": "canonical:ae44a67983e1d43a",
       "title": "Quantitative Trading Analyst Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957243",
-      "location": "London, UK",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7668776",
+      "location": "Chicago, IL",
       "department": "Quant",
       "company": "DRW",
       "score": 68,
@@ -2910,10 +2926,10 @@
       ]
     },
     {
-      "id": "canonical:1d41c103b87b651a",
+      "id": "canonical:81000bcd395c1244",
       "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
-      "location": "Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
+      "location": "Montreal, QC, Canada",
       "department": "Software",
       "company": "DRW",
       "score": 93,
@@ -2938,10 +2954,10 @@
       ]
     },
     {
-      "id": "canonical:81000bcd395c1244",
+      "id": "canonical:1d41c103b87b651a",
       "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
-      "location": "Montreal, QC, Canada",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
+      "location": "Chicago, IL",
       "department": "Software",
       "company": "DRW",
       "score": 93,
@@ -4005,6 +4021,20 @@
       "title": "Forward Deployed Software Engineer, Internship - AUS Government",
       "url": "https://jobs.lever.co/palantir/395a4483-fc3d-4b77-a500-501923fd0976",
       "location": "Sydney, Australia",
+      "department": "Delta",
+      "company": "Palantir",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:399413da6b9bcfd8",
+      "title": "Forward Deployed Software Engineer, Internship - Commercial",
+      "url": "https://jobs.lever.co/palantir/2ad0ab10-34c3-410d-883b-8052864a95cd",
+      "location": "Seoul, South Korea",
       "department": "Delta",
       "company": "Palantir",
       "score": 93,
@@ -9787,19 +9817,6 @@
       "location": "SF",
       "department": "AI/ML/Data",
       "company": "Workato",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:b90d174a181318ef",
-      "title": "Intern IT Computer Science - Data Analytics",
-      "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--IT-Computer-Science---Data-Analytics_R-26-17145",
-      "location": "Buffalo, NY",
-      "department": "AI/ML/Data",
-      "company": "Moog ",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -20963,6 +20980,19 @@
       ]
     },
     {
+      "id": "canonical:c49b52bf93f2f3aa",
+      "title": "Data and Analytics Intern - Modeling",
+      "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Data--Modeling--and-Analytics-Undergraduate-Intern_R231526-1",
+      "location": "Pittsburgh, PA",
+      "department": "AI/ML/Data",
+      "company": "PNC Financial Services",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:27a65c0291f53953",
       "title": "Product Innovation Intern - Credit & Fraud Risk",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011994",
@@ -26352,6 +26382,19 @@
       "location": "US, Arizona, Phoenix",
       "department": "Data & ML/AI / Not stated",
       "company": "Intel",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:b90d174a181318ef",
+      "title": "Intern, IT Computer Science - Data Analytics",
+      "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--IT-Computer-Science---Data-Analytics_R-26-17145",
+      "location": "Buffalo, NY",
+      "department": "Data & ML/AI / Fall 2026",
+      "company": "Moog",
       "score": 68,
       "scoreReasons": [
         "high-signal role",

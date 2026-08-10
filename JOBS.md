@@ -1,6 +1,6 @@
 # Open Internships
 
-**1932** internships across **179/179** companies — last updated 2026-08-10.
+**1935** internships across **179/179** companies — last updated 2026-08-10.
 
 ## Companies
 
@@ -381,8 +381,7 @@
 - [Mobius Renewables](#mobius-renewables) (1)
 - [Modal](#modal) (2)
 - [Monolithic Power Systems](#monolithic-power-systems) (1)
-- [Moog](#moog) (1)
-- [Moog ](#moog) (1)
+- [Moog](#moog) (2)
 - [Moon](#moon) (1)
 - [Motorola](#motorola) (1)
 - [Multiply Labs](#multiply-labs) (2)
@@ -438,7 +437,7 @@
 - [Orennia](#orennia) (1)
 - [Otter Products](#otter-products) (1)
 - [Output Biosciences](#output-biosciences) (1)
-- [Palantir](#palantir) (86)
+- [Palantir](#palantir) (87)
 - [Palo Alto Networks](#palo-alto-networks) (1)
 - [PanAgora](#panagora) (1)
 - [Paragon](#paragon) (1)
@@ -460,7 +459,7 @@
 - [Pine Rest](#pine-rest) (1)
 - [Pinterest](#pinterest) (2)
 - [PlusAI](#plusai) (7)
-- [PNC Financial Services](#pnc-financial-services) (1)
+- [PNC Financial Services](#pnc-financial-services) (2)
 - [Point72](#point72) (18)
 - [pony.ai](#pony-ai) (2)
 - [Pony.ai](#pony-ai) (2)
@@ -539,7 +538,7 @@
 - [SpreeAI](#spreeai) (1)
 - [SPREEAI](#spreeai) (1)
 - [SpreeAI ](#spreeai) (3)
-- [Squarepoint Capital](#squarepoint-capital) (8)
+- [Squarepoint Capital](#squarepoint-capital) (9)
 - [Stand Insurance](#stand-insurance) (1)
 - [StarSling](#starsling) (1)
 - [State of Nebraska](#state-of-nebraska) (1)
@@ -3637,12 +3636,7 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Intern, Software Engineering](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-18885-1) | 68 | Buffalo, NY | Software / Not stated | 2026-07-29 |
-
-## Moog 
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Intern IT Computer Science - Data Analytics](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--IT-Computer-Science---Data-Analytics_R-26-17145) | 68 | Buffalo, NY | AI/ML/Data | 2026-07-20 |
+| [Intern, IT Computer Science - Data Analytics](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--IT-Computer-Science---Data-Analytics_R-26-17145) | 68 | Buffalo, NY | Data & ML/AI / Fall 2026 | 2026-07-20 |
 
 ## Moon
 
@@ -4029,6 +4023,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Forward Deployed Software Engineer, Internship - Commercial](https://jobs.lever.co/palantir/2ad0ab10-34c3-410d-883b-8052864a95cd) | 93 | Seoul, South Korea | Delta | 2026-08-10 |
 | [Forward Deployed Software Engineer Intern - Commercial](https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6/apply) | 93 | NYC | Software | 2026-08-01 |
 | [Product Designer, New Grad](https://jobs.lever.co/palantir/4c0fb3a1-8256-4d14-9a27-23727235752e) | 64 | New York, NY | Design | 2026-07-31 |
 | [Product Designer, New Grad](https://jobs.lever.co/palantir/76161763-bafa-4ebb-a2ce-2a25e315b7d7) | 64 | London, United Kingdom | Design | 2026-07-31 |
@@ -4269,6 +4264,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data and Analytics Intern - Modeling](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Data--Modeling--and-Analytics-Undergraduate-Intern_R231526-1) | 68 | Pittsburgh, PA | AI/ML/Data | 2026-08-10 |
 | [Product Innovation Intern - Retail Product Innovation](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Product-Innovation-Undergraduate-Intern_R230925-1) | 38 | Pittsburgh, PA | Product | 2026-08-05 |
 
 ## Point72
@@ -4836,6 +4832,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Intern Software Developer - London - 2027](https://www.squarepoint-capital.com/open-opportunities?id=7231006&gh_jid=7231006) | 85 | London | — | 2026-08-10 |
 | [Intern Software Developer - Singapore - 2027](https://www.squarepoint-capital.com/open-opportunities?id=6201998&gh_jid=6201998) | 85 | Singapore | — | 2026-08-03 |
 | [Intern Quant Researcher](https://boards.greenhouse.io/embed/job_app?token=243853) | 93 | London, UK / Paris, France / NYC | Quant | 2026-07-27 |
 | [Intern Quant Researcher](https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853) | 85 | London, Paris, New York, Singapore, Hong Kong | — | 2026-07-27 |
