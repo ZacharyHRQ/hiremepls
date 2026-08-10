@@ -1,6 +1,6 @@
 # Open Internships
 
-**1941** internships across **179/179** companies — last updated 2026-08-10.
+**1943** internships across **179/179** companies — last updated 2026-08-10.
 
 ## Companies
 
@@ -105,6 +105,7 @@
 - [Cadence Design Systems](#cadence-design-systems) (7)
 - [CAE](#cae) (1)
 - [CALSTART](#calstart) (3)
+- [Canadian Solar](#canadian-solar) (1)
 - [Canva](#canva) (8)
 - [Capella](#capella) (2)
 - [Capital One](#capital-one) (5)
@@ -425,7 +426,7 @@
 - [Occidental Petroleum](#occidental-petroleum) (1)
 - [Octaura](#octaura) (1)
 - [Odin Dynamics, Inc](#odin-dynamics-inc) (1)
-- [Old Mission](#old-mission) (5)
+- [Old Mission](#old-mission) (6)
 - [Old Mission Capital](#old-mission-capital) (1)
 - [Oligo Space](#oligo-space) (1)
 - [Omnis](#omnis) (1)
@@ -762,6 +763,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Pathways Operations Manager Intern – Summer 2027 (Nationwide Opportunities)](https://amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) | 50 | Seattle | Administrative Support | 2026-08-10 |
 | [Operations & Logistics Internship Lombardia - Talent Pool](https://amazon.jobs/en/jobs/10484409/operations-logistics-internship-lombardia-talent-pool) | 50 | Casirate Dadda | Fulfillment & Operations Management | 2026-08-07 |
 | [Operations & Logistics Internship Piemonte - Talent Pool](https://amazon.jobs/en/jobs/10484369/operations-logistics-internship-piemonte-talent-pool) | 50 | Torrazza | Fulfillment & Operations Management | 2026-08-07 |
 | [Operations & Logistics Internship Abruzzo - Talent Pool](https://amazon.jobs/en/jobs/10484620/operations-logistics-internship-abruzzo-talent-pool) | 50 | San Salvo | Fulfillment & Operations Management | 2026-08-06 |
@@ -779,7 +781,6 @@
 | [2027 MBA Leadership Development Program (MLDP) Intern](https://amazon.jobs/en/jobs/10491603/2027-mba-leadership-development-program-mldp-intern) | 50 | Seattle | Buying, Planning, & Instock Management | 2026-08-04 |
 | [【MBA Class of 2028／Internship】Sr Product Manager (Business Leadership Course)](https://amazon.jobs/en/jobs/10491293/mba-class-of-2028-internship-sr-product-manager-business-leadership-course) | 50 | Tokyo | Project/Program/Product Management--Non-Tech | 2026-08-04 |
 | [【MBA Class of 2028／Internship】Finance Manager, Amazon Japan](https://amazon.jobs/en/jobs/10491120/mba-class-of-2028-internship-finance-manager-amazon-japan) | 30 | Tokyo | Finance & Accounting | 2026-08-04 |
-| [2027 MBA Pathways Operations Manager Intern (Nationwide Opportunities)](https://amazon.jobs/en/jobs/10491075/2027-mba-pathways-operations-manager-intern-nationwide-opportunities) | 50 | Seattle | Administrative Support | 2026-08-04 |
 | [Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://amazon.jobs/en/jobs/10491574/summer-2027-aws-human-resources-leadership-development-program-internship-aws) | 50 | Seattle | Human Resources | 2026-08-03 |
 | [Graduate Area/Shift Manager - Lombardia](https://amazon.jobs/en/jobs/10467985/graduate-area-shift-manager-lombardia) | 56 | Origgio | Fulfillment & Operations Management | 2026-07-31 |
 | [2026 PM Intern - Supply Chain, Operations](https://amazon.jobs/en/jobs/10488893/2026-pm-intern-supply-chain-operations) | 50 | Melbourne | Fulfillment & Operations Management | 2026-07-31 |
@@ -1605,6 +1606,12 @@
 | [Web Development Intern](https://jobs.lever.co/calstart/cbd0d758-18b0-481d-9e67-a065682f30ea/apply) | 68 | Remote in USA | Software | 2026-07-30 |
 | [Zero-Emission Data & Research Intern](https://jobs.lever.co/calstart/faf839b1-8c62-4fcf-991c-71750d8fc909/apply) | 68 | Remote in USA | AI/ML/Data | 2026-07-30 |
 
+## Canadian Solar
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Intern, IT Infrastructure Support](https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Walnut-Creek-CA/Intern--IT-Infrastructure-Support_10001383) | 68 | Walnut Creek, CA | Software / Not stated | 2026-08-10 |
+
 ## Canva
 
 | Title | Score | Location | Department | First seen |
@@ -1856,7 +1863,7 @@
 | [AI Innovation Intern – Service Sales (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395) | 38 | In-Office | — | 2026-07-30 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-07-29 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
@@ -3930,6 +3937,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Legal Intern - Summer 2027](https://www.oldmissioncapital.com/careers/?gh_jid=7832843003) | 50 | Chicago, IL, United States | — | 2026-08-10 |
 | [Quantitative Researcher (Ph.D.) - 2027 Graduate Program - (August Start)](https://www.oldmissioncapital.com/careers/?gh_jid=7814534003) | 91 | Chicago, IL, United States | — | 2026-07-30 |
 | [Software Engineer – 2027 Graduate Program (August Start)](https://www.oldmissioncapital.com/careers/?gh_jid=7796048003) | 91 | Chicago, IL, United States | — | 2026-07-14 |
 | [Quantitative Trader – 2027 Graduate Program (August Start)](https://www.oldmissioncapital.com/careers/?gh_jid=7796044003) | 66 | Chicago, IL or New York, NY | — | 2026-07-14 |
@@ -4280,8 +4288,8 @@
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-07-09 |
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-07-09 |
 | [Corporate Access, off-cycle internship (6-months) – Japanese speaking](https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002) | 58 | Hong Kong | — | 2026-06-30 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
