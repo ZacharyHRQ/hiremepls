@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-10T20:20:38.770Z",
+  "generatedAt": "2026-08-10T21:08:54.119Z",
   "companyCount": 179,
   "okCount": 179,
-  "jobCount": 1954,
+  "jobCount": 1951,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1446,7 +1446,6 @@
     "canonical:c35b88fad13f9581": "2026-08-01T21:34:07.254Z",
     "canonical:2a60758eae4f91e1": "2026-08-01T21:34:07.254Z",
     "canonical:1b5eaf8dba2ab591": "2026-08-01T21:34:07.254Z",
-    "canonical:47f4547c78cbe49c": "2026-08-01T21:34:07.254Z",
     "canonical:effba85f704368fa": "2026-08-01T21:34:07.254Z",
     "canonical:5bae5af5d984f063": "2026-08-01T21:34:07.254Z",
     "canonical:48739c5e0a1226f2": "2026-08-01T21:34:07.254Z",
@@ -1460,7 +1459,6 @@
     "canonical:385131ee72405d30": "2026-08-01T21:34:07.254Z",
     "canonical:142be00c1e8cb362": "2026-08-01T22:35:45.744Z",
     "canonical:1d0321a95fc9534a": "2026-08-01T22:35:45.744Z",
-    "canonical:27cae929a3c10453": "2026-08-01T22:35:45.744Z",
     "canonical:31242e8a60d671a4": "2026-08-01T22:35:45.744Z",
     "canonical:f2a958c8f6ff3dd7": "2026-08-01T22:35:45.744Z",
     "canonical:190209721673190e": "2026-08-01T22:35:45.744Z",
@@ -1812,7 +1810,6 @@
     "canonical:bb36ddfd8fc31688": "2026-08-07T06:40:16.218Z",
     "canonical:f51807ef02a26de3": "2026-08-07T07:56:51.250Z",
     "canonical:ab769da5c943a9ae": "2026-08-07T07:56:51.250Z",
-    "canonical:be2ae838019b7f75": "2026-08-07T09:50:19.095Z",
     "canonical:5c284124e0f71ec8": "2026-08-07T10:41:48.959Z",
     "canonical:c1e9394452463ed1": "2026-08-07T11:29:59.962Z",
     "canonical:0e017ac8de8fe28a": "2026-08-07T11:29:59.962Z",
@@ -1834,7 +1831,6 @@
     "canonical:52a5fdec400b2930": "2026-08-07T23:24:27.053Z",
     "canonical:a74dd2e3c3bbb901": "2026-08-07T23:24:27.053Z",
     "canonical:e988a18585048ebe": "2026-08-07T23:24:27.053Z",
-    "canonical:57f646554e4d20f4": "2026-08-07T23:24:27.053Z",
     "canonical:4404a059783ecd88": "2026-08-07T23:24:27.053Z",
     "canonical:2719c5db11d77be5": "2026-08-07T23:24:27.053Z",
     "canonical:1eb0c663558457cd": "2026-08-07T23:24:27.053Z",
@@ -1957,7 +1953,8 @@
     "canonical:9d550e5e7da8f3f4": "2026-08-10T19:39:37.264Z",
     "canonical:a289d125e38009e0": "2026-08-10T19:39:37.264Z",
     "canonical:eb7d12c75186a0c1": "2026-08-10T19:39:37.264Z",
-    "canonical:a942c95deb7af8ca": "2026-08-10T20:20:38.770Z"
+    "canonical:a942c95deb7af8ca": "2026-08-10T20:20:38.770Z",
+    "canonical:e0b00c2a6f3dbf37": "2026-08-10T21:08:54.119Z"
   },
   "jobs": [
     {
@@ -7493,7 +7490,7 @@
     {
       "id": "canonical:1a056010d15d11c7",
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -17555,18 +17552,6 @@
       ]
     },
     {
-      "id": "canonical:47f4547c78cbe49c",
-      "title": "Paint & Coating Intern",
-      "url": "https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Mono---Paint---Coating-Intern_R0035879",
-      "location": "Chicago, IL",
-      "department": "Product",
-      "company": "ROCKWOOL Group",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:effba85f704368fa",
       "title": "Investment Analyst Intern - Private Debt & Equity",
       "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Analyst-Intern---Private-Debt---Equity--Summer-2027_JR-45705",
@@ -18208,20 +18193,6 @@
       "company": "Rivian and Volkswagen Group Technologies",
       "score": 58,
       "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:27cae929a3c10453",
-      "title": "Software Engineer Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012",
-      "location": "Anaheim, CA",
-      "department": "Software",
-      "company": "RTX",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
         "direct ATS"
       ]
     },
@@ -19600,18 +19571,6 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038",
       "location": "NYC",
       "department": "Quant",
-      "company": "JP Morgan Chase",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:57f646554e4d20f4",
-      "title": "Data & AI Intern - Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869",
-      "location": "Palo Alto, CA / Newark, DE / Plano, TX / Chicago, IL / Jersey City, NJ / Columbus, OH / NYC / Wilmington, DE",
-      "department": "AI/ML/Data",
       "company": "JP Morgan Chase",
       "score": 60,
       "scoreReasons": [
@@ -22086,20 +22045,6 @@
       "location": "SF",
       "department": "Software",
       "company": "Kastle AI",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:be2ae838019b7f75",
-      "title": "Fire Science Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/standinsurance/21bf587a-312c-4a23-91d0-68c3c91e1fa4/application?embed=true",
-      "location": "SF",
-      "department": "AI/ML/Data",
-      "company": "Stand Insurance",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -25285,6 +25230,20 @@
       "company": "Microsoft",
       "score": 50,
       "scoreReasons": []
+    },
+    {
+      "id": "canonical:e0b00c2a6f3dbf37",
+      "title": "Software Engineer Intern, Fleet Health Instrumentation",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012",
+      "location": "Fullerton, CA",
+      "department": "",
+      "company": "RTX",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
     },
     {
       "id": "canonical:3e3bb28d83a2a55f",
