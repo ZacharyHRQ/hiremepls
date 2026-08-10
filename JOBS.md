@@ -1,6 +1,6 @@
 # Open Internships
 
-**1943** internships across **179/179** companies — last updated 2026-08-10.
+**1941** internships across **179/179** companies — last updated 2026-08-10.
 
 ## Companies
 
@@ -123,7 +123,7 @@
 - [Cherry Bekaert](#cherry-bekaert) (2)
 - [Chevron Corporation](#chevron-corporation) (4)
 - [Chicago Trading Company](#chicago-trading-company) (5)
-- [Ciena](#ciena) (7)
+- [Ciena](#ciena) (6)
 - [Circle K](#circle-k) (1)
 - [Circleback](#circleback) (1)
 - [Cirrus Logic](#cirrus-logic) (1)
@@ -381,6 +381,7 @@
 - [Mobius Renewables](#mobius-renewables) (1)
 - [Modal](#modal) (2)
 - [Monolithic Power Systems](#monolithic-power-systems) (1)
+- [Montenson](#montenson) (1)
 - [Moog](#moog) (2)
 - [Moon](#moon) (1)
 - [Motorola](#motorola) (1)
@@ -591,7 +592,6 @@
 - [TMX Group](#tmx-group) (1)
 - [Together AI](#together-ai) (3)
 - [Topel Forman LLC](#topel-forman-llc) (1)
-- [Toshiba Global Commerce](#toshiba-global-commerce) (1)
 - [Touchdown Labs](#touchdown-labs) (1)
 - [Tower Research](#tower-research) (1)
 - [Tower Research Capital](#tower-research-capital) (6)
@@ -637,7 +637,6 @@
 - [Walmart](#walmart) (1)
 - [Warner Bros.](#warner-bros) (3)
 - [Waymo](#waymo) (1)
-- [Weaviate](#weaviate) (1)
 - [Wells Fargo](#wells-fargo) (11)
 - [WeRide](#weride) (1)
 - [Western Digital](#western-digital) (3)
@@ -1753,7 +1752,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Developer Intern - Fall 2026](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Fall-2026_R031492) | 93 | Ottawa, ON, Canada | Hardware | 2026-08-07 |
 | [WaveLogic Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/WaveLogic-Software---Intern_R031443) | 93 | Ottawa, ON, Canada | Hardware | 2026-08-01 |
-| [Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering-Intern_R031372) | 93 | Ottawa, ON, Canada | Software | 2026-08-01 |
 | [Software Liquid Spectrum Applications Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Liquid-Spectrum-Applications-Intern--Fall-2026-_R031412) | 68 | Ottawa, ON, Canada | Software | 2026-08-01 |
 | [Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/UK--Edinburgh---19A-Canning-St/Software-Engineering-Intern--3-12-Months-_R031332) | 93 | Edinburgh, UK | Hardware | 2026-08-01 |
 | [Wavelogic Systems Design Architecture Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/WaveLogic-Systems-Design-Architecture-Intern--8-12-months-_R031286) | 58 | Ottawa, ON, Canada | Hardware | 2026-08-01 |
@@ -3631,6 +3629,12 @@
 | --- | --- | --- | --- | --- |
 | [Application Engineer Intern](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Application-Engineer-Intern_R-890) | 58 | San Jose, CA | Hardware | 2026-08-01 |
 
+## Montenson
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI Intern](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23339) | 60 | MN, United States | Data & ML/AI / Summer 2027 | 2026-08-10 |
+
 ## Moog
 
 | Title | Score | Location | Department | First seen |
@@ -4276,8 +4280,8 @@
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-07-09 |
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-07-09 |
 | [Corporate Access, off-cycle internship (6-months) – Japanese speaking](https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002) | 58 | Hong Kong | — | 2026-06-30 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -5406,12 +5410,6 @@
 | --- | --- | --- | --- | --- |
 | [Summer 2026 Tax Internship](https://www.linkedin.com/jobs/view/4234423835) | 22 | Chicago, IL | — | 2026-07-09 |
 
-## Toshiba Global Commerce
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Product & Business Analytics Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195802007) | 68 | Durham, NC | AI/ML/Data | 2026-07-27 |
-
 ## Touchdown Labs
 
 | Title | Score | Location | Department | First seen |
@@ -5724,12 +5722,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Machine Learning Engineer Perception LLM/VLM (PhD, New Grad)](https://careers.withwaymo.com/jobs?gh_jid=7488508) | 91 | Mountain View, CA USA;  San Francisco, CA USA; | — | 2026-07-28 |
-
-## Weaviate
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Developer Advocate Intern](https://jobs.ashbyhq.com/weaviate/0d1c47c4-bc5b-45d8-8791-8f30f0fb2a12) | 55 | — | Growth | 2026-07-28 |
 
 ## Wells Fargo
 
