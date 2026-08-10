@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-10T13:55:59.000Z",
+  "generatedAt": "2026-08-10T14:50:42.083Z",
   "companyCount": 179,
   "okCount": 179,
-  "jobCount": 1935,
+  "jobCount": 1942,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1380,7 +1380,6 @@
     "canonical:d083107d365df8fb": "2026-08-01T19:51:12.786Z",
     "canonical:fa5a8c7a59802335": "2026-08-01T19:51:12.786Z",
     "canonical:b76f80c6e44d295b": "2026-08-01T19:51:12.786Z",
-    "canonical:25170466c178dd22": "2026-08-01T19:51:12.786Z",
     "canonical:f87d3b12f3b13cda": "2026-08-01T19:51:12.786Z",
     "canonical:7ceaf62a71c3688e": "2026-08-01T19:51:12.786Z",
     "canonical:59545eac26b00b96": "2026-08-01T19:51:12.786Z",
@@ -1721,7 +1720,6 @@
     "canonical:cdb5a1b1b2c6b27d": "2026-08-05T14:42:16.168Z",
     "canonical:fa5e20c5f803fea4": "2026-08-05T14:42:16.168Z",
     "canonical:e5a643b4ea3e674e": "2026-08-05T14:42:16.168Z",
-    "canonical:f77ca8bb8595db4b": "2026-08-05T14:42:16.168Z",
     "canonical:026b50bb472e1106": "2026-08-05T14:42:16.168Z",
     "canonical:3e3bb28d83a2a55f": "2026-08-05T14:42:16.168Z",
     "canonical:7b9951c4906c2cc9": "2026-08-05T16:20:23.974Z",
@@ -1890,7 +1888,6 @@
     "canonical:c763693deab87e5f": "2026-08-08T02:49:42.619Z",
     "canonical:924cac1e974b9413": "2026-08-08T02:49:42.619Z",
     "canonical:346cea3ad7b894ed": "2026-08-08T02:49:42.619Z",
-    "canonical:7152aeb407ea8522": "2026-08-08T02:49:42.619Z",
     "canonical:c153bd5ef8789cba": "2026-08-08T02:49:42.619Z",
     "canonical:4d5f67728d4d467a": "2026-08-08T09:07:22.360Z",
     "canonical:d68411deab859a50": "2026-08-08T09:07:22.360Z",
@@ -1938,7 +1935,17 @@
     "canonical:222f0c62ed4ff4f8": "2026-08-10T10:47:13.407Z",
     "canonical:961739ba3b88cd14": "2026-08-10T13:55:59.000Z",
     "canonical:399413da6b9bcfd8": "2026-08-10T13:55:59.000Z",
-    "canonical:c49b52bf93f2f3aa": "2026-08-10T13:55:59.000Z"
+    "canonical:c49b52bf93f2f3aa": "2026-08-10T13:55:59.000Z",
+    "canonical:b31a92678ae1437d": "2026-08-10T14:50:42.083Z",
+    "canonical:fdfd243c2aa915ab": "2026-08-10T14:50:42.083Z",
+    "canonical:24e766b24cff172b": "2026-08-10T14:50:42.083Z",
+    "canonical:9e3172f6d8e30498": "2026-08-10T14:50:42.083Z",
+    "canonical:f0778455e661e266": "2026-08-10T14:50:42.083Z",
+    "canonical:95ab5c2f0b2d3804": "2026-08-10T14:50:42.083Z",
+    "canonical:a08a5e161799dccd": "2026-08-10T14:50:42.083Z",
+    "canonical:46164356d7705806": "2026-08-10T14:50:42.083Z",
+    "canonical:9c7e4748e29a872c": "2026-08-10T14:50:42.083Z",
+    "canonical:3cca6bdde23d065f": "2026-08-10T14:50:42.083Z"
   },
   "jobs": [
     {
@@ -3945,6 +3952,19 @@
       ]
     },
     {
+      "id": "canonical:b31a92678ae1437d",
+      "title": "Deployment Strategist, New Grad - Commercial",
+      "url": "https://jobs.lever.co/palantir/d5f11334-3a73-4094-b7e0-d05b54e475b8",
+      "location": "Seoul, South Korea",
+      "department": "Echo",
+      "company": "Palantir",
+      "score": 64,
+      "scoreReasons": [
+        "new grad",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:8336305b2f08b004",
       "title": "Deployment Strategist, New Grad - Intel, US Government",
       "url": "https://jobs.lever.co/palantir/5d8286d6-992a-404b-94af-99c173d40299",
@@ -4218,6 +4238,21 @@
       "title": "Forward Deployed Software Engineer, New Grad - Commercial",
       "url": "https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728",
       "location": "New York, NY",
+      "department": "Delta",
+      "company": "Palantir",
+      "score": 99,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:fdfd243c2aa915ab",
+      "title": "Forward Deployed Software Engineer, New Grad - Commercial",
+      "url": "https://jobs.lever.co/palantir/341d5cae-a473-4813-9a6c-0f67fcc1b253",
+      "location": "Seoul, South Korea",
       "department": "Delta",
       "company": "Palantir",
       "score": 99,
@@ -6891,6 +6926,18 @@
       ]
     },
     {
+      "id": "canonical:c4899e61c3f2d9c6",
+      "title": "Applied Research Intern Co-op",
+      "url": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
+      "location": "Toronto, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "Block",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:0942563fedd29433",
       "title": "Applied Research Intern PhD / Graduate Co-op",
       "url": "http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008",
@@ -6901,18 +6948,6 @@
       "scoreReasons": [
         "high-signal role",
         "new grad"
-      ]
-    },
-    {
-      "id": "canonical:c4899e61c3f2d9c6",
-      "title": "Applied Research Intern Co-op",
-      "url": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Block",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {
@@ -7450,7 +7485,7 @@
     {
       "id": "canonical:1a056010d15d11c7",
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -15693,19 +15728,6 @@
       ]
     },
     {
-      "id": "canonical:25170466c178dd22",
-      "title": "Research Intern - Video World Models - Research & ML Systems",
-      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752-1",
-      "location": "Palo Alto, CA",
-      "department": "AI/ML/Data",
-      "company": "Tencent",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:96e71aa5f38e33c1",
       "title": "Quantitative Research Analyst Intern",
       "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe-2/",
@@ -21381,19 +21403,6 @@
       ]
     },
     {
-      "id": "canonical:f77ca8bb8595db4b",
-      "title": "People Analytics Intern",
-      "url": "https://usacs.wd1.myworkdayjobs.com/usacscareers/job/Virtual-OH/People-Analytics-Intern_R0002363",
-      "location": "Remote in USA / Ohio",
-      "department": "AI/ML/Data",
-      "company": "US Acute Care Solutions",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:026b50bb472e1106",
       "title": "Artificial Intelligence/Machine Learning Intern",
       "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church---3150-Fairview-Park-Dr-VAS095/GDIT-2027-Summer-AI---ML-Internship_RQ225401",
@@ -22750,19 +22759,6 @@
       ]
     },
     {
-      "id": "canonical:7152aeb407ea8522",
-      "title": "Applications Intern - AI and Machine Learning",
-      "url": "https://apply.workable.com/tmeic-corporation-americas/j/FD4C9770FF/apply",
-      "location": "Roanoke, VA",
-      "department": "AI/ML/Data",
-      "company": "TMEIC Corporation Americas",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:c153bd5ef8789cba",
       "title": "Software Development Engineer Intern - Network Automation - 2027 Summer",
       "url": "https://jobs.bytedance.com/en/position/7671147251943213317/detail",
@@ -22863,6 +22859,65 @@
       "scoreReasons": [
         "high-signal role"
       ]
+    },
+    {
+      "id": "canonical:24e766b24cff172b",
+      "title": "Data Engineer Intern - Monetization Data",
+      "url": "https://lifeattiktok.com/search/7671232204182276405",
+      "location": "San Jose, CA",
+      "department": "AI/ML/Data",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:9e3172f6d8e30498",
+      "title": "Software Engineer Intern - Global E-commerce-Search",
+      "url": "https://lifeattiktok.com/search/7670839727059339525",
+      "location": "Seattle, WA",
+      "department": "Software",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:f0778455e661e266",
+      "title": "Product Management Intern",
+      "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278933",
+      "location": "Westerville, OH",
+      "department": "Product",
+      "company": "Vertiv",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:95ab5c2f0b2d3804",
+      "title": "Software Engineer Intern",
+      "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278777",
+      "location": "Delaware, OH",
+      "department": "Hardware",
+      "company": "Vertiv",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:a08a5e161799dccd",
+      "title": "Thermal Engineer Intern - Summer 2027",
+      "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278813",
+      "location": "Westerville, OH",
+      "department": "Hardware",
+      "company": "Vertiv",
+      "score": 50,
+      "scoreReasons": []
     },
     {
       "id": "canonical:12cd06c0eec80152",
@@ -25998,6 +26053,32 @@
       ]
     },
     {
+      "id": "canonical:46164356d7705806",
+      "title": "Summer 2027 Internship - Tech (Information Security)",
+      "url": "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Information-Security-_REQ-10119620",
+      "location": "New York",
+      "department": "Security / Summer 2027",
+      "company": "ING",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:9c7e4748e29a872c",
+      "title": "Summer 2027 Internship - Tech (Infrastructure)",
+      "url": "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Infrastructure-_REQ-10119621",
+      "location": "New York",
+      "department": "Software / Summer 2027",
+      "company": "ING",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:5e598c12e2dca262",
       "title": "AI Operations Engineer Intern",
       "url": "https://jobs.lever.co/acds/e468d15b-69c3-4534-8072-7ff3f85fbf83",
@@ -26422,6 +26503,19 @@
       "location": "Miami, Florida, United States",
       "department": "Quant / Not stated",
       "company": "WallStreetQuants",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:3cca6bdde23d065f",
+      "title": "Research Intern – Video World Models (Research & ML Systems)",
+      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752-1",
+      "location": "US-California-Palo Alto",
+      "department": "Data & ML/AI / Not stated",
+      "company": "Tencent",
       "score": 68,
       "scoreReasons": [
         "high-signal role",

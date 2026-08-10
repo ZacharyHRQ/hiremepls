@@ -1,6 +1,6 @@
 # Open Internships
 
-**1935** internships across **179/179** companies — last updated 2026-08-10.
+**1942** internships across **179/179** companies — last updated 2026-08-10.
 
 ## Companies
 
@@ -304,6 +304,7 @@
 - [Incident IQ](#incident-iq) (1)
 - [InfiniteQuant](#infinitequant) (1)
 - [Infojini](#infojini) (1)
+- [ING](#ing) (2)
 - [Inizio](#inizio) (1)
 - [Innovation Works, Inc.](#innovation-works-inc) (1)
 - [Instead](#instead) (1)
@@ -437,7 +438,7 @@
 - [Orennia](#orennia) (1)
 - [Otter Products](#otter-products) (1)
 - [Output Biosciences](#output-biosciences) (1)
-- [Palantir](#palantir) (87)
+- [Palantir](#palantir) (89)
 - [Palo Alto Networks](#palo-alto-networks) (1)
 - [PanAgora](#panagora) (1)
 - [Paragon](#paragon) (1)
@@ -585,10 +586,9 @@
 - [Thomson Reuters](#thomson-reuters) (1)
 - [thyssenkrupp](#thyssenkrupp) (2)
 - [TIFIN](#tifin) (1)
-- [TikTok](#tiktok) (108)
+- [TikTok](#tiktok) (110)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
-- [TMEIC Corporation Americas](#tmeic-corporation-americas) (1)
 - [TMX Group](#tmx-group) (1)
 - [Together AI](#together-ai) (3)
 - [Topel Forman LLC](#topel-forman-llc) (1)
@@ -613,7 +613,6 @@
 - [University of Texas at Austin](#university-of-texas-at-austin) (3)
 - [University of Virginia Investment Management Company (UVIMCO)](#university-of-virginia-investment-management-company-uvimco) (1)
 - [University System of New Hampshire](#university-system-of-new-hampshire) (1)
-- [US Acute Care Solutions](#us-acute-care-solutions) (1)
 - [Valstad](#valstad) (2)
 - [Vanguard](#vanguard) (1)
 - [Varda Space](#varda-space) (2)
@@ -623,7 +622,7 @@
 - [Vega Investment Technologies](#vega-investment-technologies) (1)
 - [Vendelux](#vendelux) (2)
 - [Verne Robotics](#verne-robotics) (1)
-- [Vertiv](#vertiv) (1)
+- [Vertiv](#vertiv) (4)
 - [VetsEZ](#vetsez) (1)
 - [Viridien](#viridien) (1)
 - [Virtu Financial](#virtu-financial) (6)
@@ -1861,7 +1860,7 @@
 | [AI Innovation Intern – Service Sales (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395) | 38 | In-Office | — | 2026-07-30 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-07-29 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
@@ -3017,6 +3016,13 @@
 | --- | --- | --- | --- | --- |
 | [GIS Intern Analyst](https://jobs.smartrecruiters.com/InfojiniInc1/104263488) | 68 | Columbia, SC | AI/ML/Data | 2026-06-19 |
 
+## ING
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Summer 2027 Internship - Tech (Information Security)](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Information-Security-_REQ-10119620) | 68 | New York | Security / Summer 2027 | 2026-08-10 |
+| [Summer 2027 Internship - Tech (Infrastructure)](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Infrastructure-_REQ-10119621) | 68 | New York | Software / Summer 2027 | 2026-08-10 |
+
 ## Inizio
 
 | Title | Score | Location | Department | First seen |
@@ -4023,6 +4029,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Forward Deployed Software Engineer, New Grad - Commercial](https://jobs.lever.co/palantir/341d5cae-a473-4813-9a6c-0f67fcc1b253) | 99 | Seoul, South Korea | Delta | 2026-08-10 |
+| [Deployment Strategist, New Grad - Commercial](https://jobs.lever.co/palantir/d5f11334-3a73-4094-b7e0-d05b54e475b8) | 64 | Seoul, South Korea | Echo | 2026-08-10 |
 | [Forward Deployed Software Engineer, Internship - Commercial](https://jobs.lever.co/palantir/2ad0ab10-34c3-410d-883b-8052864a95cd) | 93 | Seoul, South Korea | Delta | 2026-08-10 |
 | [Forward Deployed Software Engineer Intern - Commercial](https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6/apply) | 93 | NYC | Software | 2026-08-01 |
 | [Product Designer, New Grad](https://jobs.lever.co/palantir/4c0fb3a1-8256-4d14-9a27-23727235752e) | 64 | New York, NY | Design | 2026-07-31 |
@@ -5022,7 +5030,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Research Intern - Video World Models - Research & ML Systems](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752-1) | 68 | Palo Alto, CA | AI/ML/Data | 2026-08-01 |
+| [Research Intern – Video World Models (Research & ML Systems)](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752-1) | 68 | US-California-Palo Alto | Data & ML/AI / Not stated | 2026-08-10 |
 | [Multimedia Development Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Multimedia-development-intern_R107331) | 68 | Palo Alto, CA | AI/ML/Data | 2026-08-01 |
 | [Data Product Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Data-Product-Intern_R107644-1) | 58 | London, UK | Product | 2026-08-01 |
 | [Hunyuan Multimodal Algorithm Researcher Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-Intern-Omni-Modal---_R107051) | 93 | Palo Alto, CA | AI/ML/Data | 2026-07-31 |
@@ -5259,6 +5267,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data Engineer Intern - Monetization Data](https://lifeattiktok.com/search/7671232204182276405) | 85 | San Jose, CA | AI/ML/Data | 2026-08-10 |
+| [Software Engineer Intern - Global E-commerce-Search](https://lifeattiktok.com/search/7670839727059339525) | 85 | Seattle, WA | Software | 2026-08-10 |
 | [Frontend Engineer Intern - Ads Interface](https://lifeattiktok.com/search/7671211313289398581) | 85 | San Jose, CA | Software | 2026-08-07 |
 | [AI Agent Product Manager Intern - Product Infrastructure-Customer Service Platform](https://lifeattiktok.com/search/7670010726514493749) | 60 | San Jose, CA | Product | 2026-08-07 |
 | [Search Safety Operations Intern - Platform Responsibility - Search](https://lifeattiktok.com/search/7670420117406452021) | 60 | San Jose, CA | AI/ML/Data | 2026-08-07 |
@@ -5380,12 +5390,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Intern - Applications, AI and Machine Learning](https://apply.workable.com/tmeic-corporation-americas/j/FD4C9770FF/) | 68 | Roanoke, VA | Data Science, AI & Machine Learning | 2026-05-09 |
-
-## TMEIC Corporation Americas
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Applications Intern - AI and Machine Learning](https://apply.workable.com/tmeic-corporation-americas/j/FD4C9770FF/apply) | 68 | Roanoke, VA | AI/ML/Data | 2026-08-08 |
 
 ## TMX Group
 
@@ -5554,12 +5558,6 @@
 | --- | --- | --- | --- | --- |
 | [Broadband Intern](https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/High-Tech-Bound-Broadband-Intern_JR8298) | 68 | Dover, NH | Software | 2026-08-01 |
 
-## US Acute Care Solutions
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [People Analytics Intern](https://usacs.wd1.myworkdayjobs.com/usacscareers/job/Virtual-OH/People-Analytics-Intern_R0002363) | 68 | Remote in USA / Ohio | AI/ML/Data | 2026-08-05 |
-
 ## Valstad
 
 | Title | Score | Location | Department | First seen |
@@ -5623,6 +5621,9 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278777) | 85 | Delaware, OH | Hardware | 2026-08-10 |
+| [Product Management Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278933) | 50 | Westerville, OH | Product | 2026-08-10 |
+| [Thermal Engineer Intern - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278813) | 50 | Westerville, OH | Hardware | 2026-08-10 |
 | [Thermal Application Engineer Intern - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278512) | 85 | Westerville, OH | Software | 2026-08-05 |
 
 ## VetsEZ

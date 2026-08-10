@@ -219,9 +219,9 @@
     "8013562",
     "8031027",
     "7796077",
-    "8089400",
     "8089379",
     "8089407",
+    "8089400",
     "8052785",
     "8104024",
     "8105728"
@@ -1496,6 +1496,8 @@
   ],
   "Wayve": [],
   "zshah101 Summer 2027/Fall 2026": [
+    "github-json:zshah101-summer-2027-fall-2026:workday:ing:/job/New-York/Summer-2027-Internship---Tech--Information-Security-_REQ-10119620",
+    "github-json:zshah101-summer-2027-fall-2026:workday:ing:/job/New-York/Summer-2027-Internship---Tech--Infrastructure-_REQ-10119621",
     "github-json:zshah101-summer-2027-fall-2026:smartrecruiters:InfiniteQuant:744000142560129",
     "github-json:zshah101-summer-2027-fall-2026:workday:gdit:/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:thenuclearcompany:5383163008",
@@ -1529,7 +1531,6 @@
     "github-json:zshah101-summer-2027-fall-2026:oracle:jpmc.fa.oraclecloud.com:210773978",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:densityai:4336452009",
     "github-json:zshah101-summer-2027-fall-2026:workday:pentair:/job/Golden-Valley-MN/IT---Cybersecurity-Leadership-Development-Internship-Program----Summer-2027_R23700",
-    "github-json:zshah101-summer-2027-fall-2026:workday:cnoinc:/job/Carmel-IN/Artificial-Intelligence--AI--IT-Intern-2027---REMOTE_JR170389",
     "github-json:zshah101-summer-2027-fall-2026:workday:idexx:/job/Westbrook-ME/Security-Operations--Cybersecurity--internship_J-053268",
     "github-json:zshah101-summer-2027-fall-2026:workday:microchiphr:/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Firmware-Development-_R3372-26",
     "github-json:zshah101-summer-2027-fall-2026:smartrecruiters:BoschGroup:744000141302469",
@@ -1661,6 +1662,7 @@
   "Palantir": [
     "774cf5c9-bf6a-4d77-bf60-d50ef1beb1a0",
     "a49d4181-a289-435a-b581-7f5af0497c8e",
+    "d5f11334-3a73-4094-b7e0-d05b54e475b8",
     "5d8286d6-992a-404b-94af-99c173d40299",
     "33243fb5-6907-40c7-930c-968b25d825d0",
     "5a28f3a5-8655-47f2-ab19-a79b8a319da8",
@@ -1681,6 +1683,7 @@
     "e6ff8bf2-135e-474d-ad37-24f490ae1dd2",
     "2aa14e4f-d406-486e-9aa8-6ff3358d70a0",
     "2e6b0ac8-83e9-4be5-a3aa-cf319f751728",
+    "341d5cae-a473-4813-9a6c-0f67fcc1b253",
     "e500bcf3-19d8-4d3c-b340-4d76e4a55b40",
     "fbca0358-083a-4222-bdbb-3bd729b48382",
     "b4aa51a2-bc43-4d67-bf55-12db7feefb3a",
@@ -2596,7 +2599,6 @@
     "simplify:aec4ad25-f3ea-4386-99cc-b24aaa5e5926",
     "simplify:830082c4-7e61-4591-99a3-e37c2e5b2c92",
     "simplify:a7d8ee7d-d813-4aac-afa0-b2cc56b8b7f6",
-    "simplify:fbb72559-8ab8-44a7-b199-5fa04ec5a879",
     "simplify:a869b3f7-71bd-4b08-9c7e-8c6706e98035",
     "simplify:d939c49f-1d93-4ba9-aa2f-32e4e7398633",
     "simplify:fe8fd0a0-0ded-47c1-8bba-8ac16fdd2926",
@@ -3082,7 +3084,6 @@
     "simplify:7fdf2de6-75ca-4715-8764-720c7cc52695",
     "simplify:fe93fbfa-cba0-4f3c-8f20-9cbc4828ef01",
     "simplify:af0010c7-8bfd-4664-aa13-4626a4140ee2",
-    "simplify:fef69e02-fe37-4ff4-b158-7dceacfeb578",
     "simplify:d11cbbe8-c970-459f-bf95-530ed6400b12",
     "simplify:f8c7b2c2-899a-4a4f-9f36-7893a8512aed",
     "simplify:76d0cd65-7277-4783-9523-cf9608d9d9b0",
@@ -3202,7 +3203,6 @@
     "simplify:e658540c-4e9e-4242-ae48-0e3059df35a4",
     "simplify:ab59c6f6-ec45-4285-aebc-93331fbe2b8f",
     "simplify:bf2f6a21-e220-45d3-a0b5-847a2cb769f8",
-    "simplify:aedb4915-aa4d-46c4-9e18-d1b6144d3a70",
     "simplify:30e36d66-cf25-4851-9655-d22bb0c6d319",
     "simplify:0c687375-0fdb-4eb5-b7da-1951113f5b0a",
     "simplify:ccc26e13-7964-413d-8db2-404361781e7a",
@@ -3211,7 +3211,13 @@
     "simplify:19e8cd86-cd45-45f4-a5f1-a82b1077c564",
     "simplify:9ac6ae38-9b5a-4373-934b-b04f5fbdc09c",
     "simplify:4ff7c715-a529-4fd1-b03a-7e208e1721da",
-    "simplify:08783e42-22f6-47ea-b391-ad53b2579350"
+    "simplify:08783e42-22f6-47ea-b391-ad53b2579350",
+    "simplify:fdd7e7ec-c300-4a26-931c-56c3adc48425",
+    "simplify:d1768aee-f240-4353-b609-278b04785c95",
+    "simplify:2851e500-7a2b-4e96-a2fa-681730e8d48e",
+    "simplify:fa8b65b7-46f3-4fed-bdff-a50d4855519d",
+    "simplify:8fdae942-cdba-4211-9277-dd563870610d",
+    "simplify:49768538-85b4-448b-8ccc-a130226cee78"
   ],
   "DoorDash": [],
   "Waymo": [
@@ -3219,8 +3225,8 @@
   ],
   "xAI": [],
   "Block": [
-    "5108007008",
-    "5108009008"
+    "5108009008",
+    "5108007008"
   ],
   "Coinbase": [],
   "Toast": [],
@@ -3999,7 +4005,6 @@
     "simplify:aec4ad25-f3ea-4386-99cc-b24aaa5e5926",
     "simplify:830082c4-7e61-4591-99a3-e37c2e5b2c92",
     "simplify:a7d8ee7d-d813-4aac-afa0-b2cc56b8b7f6",
-    "simplify:fbb72559-8ab8-44a7-b199-5fa04ec5a879",
     "simplify:a869b3f7-71bd-4b08-9c7e-8c6706e98035",
     "simplify:d939c49f-1d93-4ba9-aa2f-32e4e7398633",
     "simplify:fe8fd0a0-0ded-47c1-8bba-8ac16fdd2926",
@@ -4485,7 +4490,6 @@
     "simplify:7fdf2de6-75ca-4715-8764-720c7cc52695",
     "simplify:fe93fbfa-cba0-4f3c-8f20-9cbc4828ef01",
     "simplify:af0010c7-8bfd-4664-aa13-4626a4140ee2",
-    "simplify:fef69e02-fe37-4ff4-b158-7dceacfeb578",
     "simplify:d11cbbe8-c970-459f-bf95-530ed6400b12",
     "simplify:f8c7b2c2-899a-4a4f-9f36-7893a8512aed",
     "simplify:76d0cd65-7277-4783-9523-cf9608d9d9b0",
@@ -4605,7 +4609,6 @@
     "simplify:e658540c-4e9e-4242-ae48-0e3059df35a4",
     "simplify:ab59c6f6-ec45-4285-aebc-93331fbe2b8f",
     "simplify:bf2f6a21-e220-45d3-a0b5-847a2cb769f8",
-    "simplify:aedb4915-aa4d-46c4-9e18-d1b6144d3a70",
     "simplify:30e36d66-cf25-4851-9655-d22bb0c6d319",
     "simplify:0c687375-0fdb-4eb5-b7da-1951113f5b0a",
     "simplify:ccc26e13-7964-413d-8db2-404361781e7a",
@@ -4614,7 +4617,13 @@
     "simplify:19e8cd86-cd45-45f4-a5f1-a82b1077c564",
     "simplify:9ac6ae38-9b5a-4373-934b-b04f5fbdc09c",
     "simplify:4ff7c715-a529-4fd1-b03a-7e208e1721da",
-    "simplify:08783e42-22f6-47ea-b391-ad53b2579350"
+    "simplify:08783e42-22f6-47ea-b391-ad53b2579350",
+    "simplify:fdd7e7ec-c300-4a26-931c-56c3adc48425",
+    "simplify:d1768aee-f240-4353-b609-278b04785c95",
+    "simplify:2851e500-7a2b-4e96-a2fa-681730e8d48e",
+    "simplify:fa8b65b7-46f3-4fed-bdff-a50d4855519d",
+    "simplify:8fdae942-cdba-4211-9277-dd563870610d",
+    "simplify:49768538-85b4-448b-8ccc-a130226cee78"
   ],
   "Wintermute": [],
   "QCP": [
