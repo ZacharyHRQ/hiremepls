@@ -1,6 +1,6 @@
 # Open Internships
 
-**1927** internships across **151/151** companies — last updated 2026-08-10.
+**1929** internships across **163/163** companies — last updated 2026-08-10.
 
 ## Companies
 
@@ -195,7 +195,6 @@
 - [Engineers Gate](#engineers-gate) (1)
 - [Ensemble Health Partners](#ensemble-health-partners) (2)
 - [Enterprise](#enterprise) (1)
-- [Environmental Defense Fund](#environmental-defense-fund) (1)
 - [Epic Games](#epic-games) (3)
 - [EPRI](#epri) (1)
 - [Equifax](#equifax) (2)
@@ -217,7 +216,7 @@
 - [fab2](#fab2) (1)
 - [Fab2](#fab2) (3)
 - [Facility Solutions Group](#facility-solutions-group) (1)
-- [Faire](#faire) (1)
+- [Faire](#faire) (2)
 - [Fanatics](#fanatics) (3)
 - [Ferrovial](#ferrovial) (1)
 - [Field AI](#field-ai) (1)
@@ -229,6 +228,7 @@
 - [Five Rings](#five-rings) (2)
 - [Flagright](#flagright) (1)
 - [Flexion Robotics](#flexion-robotics) (1)
+- [Flexport](#flexport) (3)
 - [Flow Traders](#flow-traders) (5)
 - [Fluency](#fluency) (1)
 - [Fluxergy](#fluxergy) (1)
@@ -462,7 +462,6 @@
 - [Pinterest](#pinterest) (2)
 - [PlusAI](#plusai) (7)
 - [PNC Financial Services](#pnc-financial-services) (2)
-- [Point Blue Conservation Science](#point-blue-conservation-science) (1)
 - [Point72](#point72) (18)
 - [pony.ai](#pony-ai) (2)
 - [Pony.ai](#pony-ai) (2)
@@ -1852,7 +1851,7 @@
 | [AI Innovation Intern – Service Sales (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395) | 38 | In-Office | — | 2026-07-30 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-07-29 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
@@ -2278,12 +2277,6 @@
 | --- | --- | --- | --- | --- |
 | [Sales Management Trainee Intern-Fall- Lithia Springs](https://www.linkedin.com/jobs/view/4255559163) | 22 | Lithia Springs, GA | — | 2026-07-09 |
 
-## Environmental Defense Fund
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Climate & Health Intern](https://osv-edf.wd5.myworkdayjobs.com/en-US/Confidential/job/Remote---US-Home/Climate---Health-Intern_REQ-002561) | 68 | NYC | AI/ML/Data | 2026-08-04 |
-
 ## Epic Games
 
 | Title | Score | Location | Department | First seen |
@@ -2430,6 +2423,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data Science Intern](https://boards.greenhouse.io/faire/jobs/8376377002?gh_jid=8376377002) | 58 | San Francisco, CA | — | 2026-08-10 |
 | [Data Science Intern](https://boards.greenhouse.io/faire/jobs/8376377002) | 68 | Toronto, ON, Canada / Kitchener, ON, Canada / SF | AI/ML/Data | 2026-06-17 |
 
 ## Fanatics
@@ -2503,6 +2497,14 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Research Intern](https://apply.workable.com/flexion-robotics/j/8FF540773C/apply) | 68 | SF | AI/ML/Data | 2026-08-08 |
+
+## Flexport
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Area Manager - New Grad](https://job-boards.greenhouse.io/flexport/jobs/8070269) | 64 | Phillipsburg Warehouse | — | 2026-08-10 |
+| [Inbound Sales Development Representative - New Grad](https://job-boards.greenhouse.io/flexport/jobs/5850324) | 44 | Chicago, Illinois, United States | — | 2026-08-10 |
+| [Sales Development Representative - New Grad](https://job-boards.greenhouse.io/flexport/jobs/8084127) | 44 | Chicago, Illinois, United States | — | 2026-08-10 |
 
 ## Flow Traders
 
@@ -4273,12 +4275,6 @@
 | [Product Innovation Intern - Retail Product Innovation](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Product-Innovation-Undergraduate-Intern_R230925-1) | 38 | Pittsburgh, PA | Product | 2026-08-05 |
 | [Data and Analytics Intern - Modeling](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Data--Modeling--and-Analytics-Undergraduate-Intern_R231526-1) | 68 | Pittsburgh, PA | AI/ML/Data | 2026-08-04 |
 
-## Point Blue Conservation Science
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Science Intern - Ecoinformatics](https://pointblueconservationscience.applytojob.com/apply/mcXovIM1zn/Data-Science-Graduate-Student-Intern) | 60 | Petaluma, CA | AI/ML/Data | 2026-08-05 |
-
 ## Point72
 
 | Title | Score | Location | Department | First seen |
@@ -4287,8 +4283,8 @@
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-07-09 |
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-07-09 |
 | [Corporate Access, off-cycle internship (6-months) – Japanese speaking](https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002) | 58 | Hong Kong | — | 2026-06-30 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -5026,7 +5022,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Research Intern - Video World Models - Research & ML Systems](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752) | 68 | Palo Alto, CA | AI/ML/Data | 2026-08-01 |
+| [Research Intern - Video World Models - Research & ML Systems](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752-1) | 68 | Palo Alto, CA | AI/ML/Data | 2026-08-01 |
 | [Multimedia Development Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Multimedia-development-intern_R107331) | 68 | Palo Alto, CA | AI/ML/Data | 2026-08-01 |
 | [Data Product Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Data-Product-Intern_R107644-1) | 58 | London, UK | Product | 2026-08-01 |
 | [Hunyuan Multimodal Algorithm Researcher Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-Intern-Omni-Modal---_R107051) | 93 | Palo Alto, CA | AI/ML/Data | 2026-07-31 |
