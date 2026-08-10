@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-10T19:39:37.264Z",
+  "generatedAt": "2026-08-10T20:20:38.770Z",
   "companyCount": 179,
   "okCount": 179,
-  "jobCount": 1956,
+  "jobCount": 1954,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -254,7 +254,6 @@
     "canonical:8bb3fdfb8f3776da": "2026-06-11T11:07:45.069Z",
     "canonical:627ecb13b3a05166": "2026-06-11T11:07:45.069Z",
     "canonical:911024e35734afb8": "2026-06-11T11:07:45.069Z",
-    "canonical:1f027cb6d4618bf9": "2026-06-11T18:04:03.516Z",
     "canonical:e5b8024c19031c98": "2026-06-13T00:12:58.112Z",
     "canonical:ecf76b0599cdcaca": "2026-06-13T00:12:58.112Z",
     "canonical:31962d85f79aae5b": "2026-06-13T15:55:40.354Z",
@@ -1724,7 +1723,6 @@
     "canonical:02166f08cb06d66b": "2026-08-05T23:16:13.094Z",
     "canonical:9cb0421552c11b9f": "2026-08-05T23:16:13.094Z",
     "canonical:32b11b2369e0996b": "2026-08-05T23:16:13.094Z",
-    "canonical:8b54373f2be8e50d": "2026-08-05T23:16:13.094Z",
     "canonical:94ad8209f1cb9e8d": "2026-08-06T03:38:35.332Z",
     "canonical:467f8f4fe3444d0f": "2026-08-06T03:38:35.332Z",
     "canonical:01202bdbe36c02b3": "2026-08-06T03:38:35.332Z",
@@ -1831,7 +1829,6 @@
     "canonical:d8c556e249e58a87": "2026-08-07T17:30:56.020Z",
     "canonical:729dbbe632f1376f": "2026-08-07T18:27:46.582Z",
     "canonical:0752b58b3e9b6b90": "2026-08-07T18:27:46.582Z",
-    "canonical:5e598c12e2dca262": "2026-08-07T19:27:37.563Z",
     "canonical:efd5d04b90313526": "2026-08-07T19:27:37.563Z",
     "canonical:103536fb91331fcf": "2026-08-07T19:27:37.563Z",
     "canonical:52a5fdec400b2930": "2026-08-07T23:24:27.053Z",
@@ -1959,7 +1956,8 @@
     "canonical:804596cd1902528a": "2026-08-10T19:39:37.264Z",
     "canonical:9d550e5e7da8f3f4": "2026-08-10T19:39:37.264Z",
     "canonical:a289d125e38009e0": "2026-08-10T19:39:37.264Z",
-    "canonical:eb7d12c75186a0c1": "2026-08-10T19:39:37.264Z"
+    "canonical:eb7d12c75186a0c1": "2026-08-10T19:39:37.264Z",
+    "canonical:a942c95deb7af8ca": "2026-08-10T20:20:38.770Z"
   },
   "jobs": [
     {
@@ -7228,20 +7226,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:1f027cb6d4618bf9",
-      "title": "Software Engineer, New Grad, Developer & End User Experience Platform",
-      "url": "https://stripe.com/jobs/search?gh_jid=7991718",
-      "location": "Toronto",
-      "department": "",
-      "company": "Stripe",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad"
       ]
     },
     {
@@ -21475,20 +21459,6 @@
       "scoreReasons": []
     },
     {
-      "id": "canonical:8b54373f2be8e50d",
-      "title": "Data Support Engineer Intern",
-      "url": "https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Data-Support-Engineer-Intern_JR-025859",
-      "location": "Salt Lake City, UT",
-      "department": "AI/ML/Data",
-      "company": "WGU",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:70bb83da294664ed",
       "title": "LLM Post-training Engineer Intern - Research & Product",
       "url": "https://lifeattiktok.com/search/7670285031018432773",
@@ -26266,15 +26236,14 @@
       ]
     },
     {
-      "id": "canonical:5e598c12e2dca262",
-      "title": "AI Operations Engineer Intern",
+      "id": "canonical:a942c95deb7af8ca",
+      "title": "AI Operations Intern",
       "url": "https://jobs.lever.co/acds/e468d15b-69c3-4534-8072-7ff3f85fbf83",
       "location": "Lowell, AR",
       "department": "Data & ML/AI / Not stated",
       "company": "ACDS",
-      "score": 93,
+      "score": 68,
       "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]

@@ -1,6 +1,6 @@
 # Open Internships
 
-**1956** internships across **179/179** companies — last updated 2026-08-10.
+**1954** internships across **179/179** companies — last updated 2026-08-10.
 
 ## Companies
 
@@ -552,7 +552,7 @@
 - [StepStone Group](#stepstone-group) (1)
 - [Stevens Capital Management](#stevens-capital-management) (1)
 - [Stoke Space](#stoke-space) (1)
-- [Stripe](#stripe) (4)
+- [Stripe](#stripe) (3)
 - [StudyFetch](#studyfetch) (2)
 - [Super](#super) (3)
 - [Susquehanna](#susquehanna) (1)
@@ -646,7 +646,6 @@
 - [Wells Fargo](#wells-fargo) (11)
 - [WeRide](#weride) (1)
 - [Western Digital](#western-digital) (3)
-- [WGU](#wgu) (1)
 - [WindBorne Systems](#windborne-systems) (1)
 - [Winland Foods](#winland-foods) (1)
 - [Workato](#workato) (1)
@@ -690,7 +689,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [AI Operations Engineer Intern](https://jobs.lever.co/acds/e468d15b-69c3-4534-8072-7ff3f85fbf83) | 93 | Lowell, AR | Data & ML/AI / Not stated | 2026-08-07 |
+| [AI Operations Intern](https://jobs.lever.co/acds/e468d15b-69c3-4534-8072-7ff3f85fbf83) | 68 | Lowell, AR | Data & ML/AI / Not stated | 2026-08-10 |
 | [AI Operations Intern - Naukr AI](https://jobs.lever.co/acds/41bee5e2-6477-428f-b359-34b4071d545f) | 68 | Bentonville, AR | Data & ML/AI / Not stated | 2026-07-20 |
 | [AI Operations Intern-Caddell Reynolds](https://jobs.lever.co/acds/01fdf41b-a835-4e00-8d01-0275677a8f08) | 68 | Fort Smith, AR | Data & ML/AI / Not stated | 2026-07-20 |
 
@@ -4941,7 +4940,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8031833) | 85 | Bengaluru | — | 2026-07-10 |
-| [Software Engineer, New Grad, Developer & End User Experience Platform](https://stripe.com/jobs/search?gh_jid=7991718) | 91 | Toronto | — | 2026-06-11 |
 | [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547) | 56 | Mexico City, Mexico | — | 2026-05-06 |
 | [Tech Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7718947) | 56 | Mexico City, Mexico | — | 2026-05-06 |
 
@@ -5803,12 +5801,6 @@
 | [Hardware Engineering Intern](https://jobs.smartrecruiters.com/WesternDigital/744000140949875) | 58 | Fremont, CA / Rochester, MN / San Jose, CA / Irvine, CA / Colorado Springs, CO / Longmont, CO | Hardware | 2026-07-31 |
 | [Failure Analysis Automation Engineer Intern - Failure Analysis Automation Engineering](https://jobs.smartrecruiters.com/WesternDigital/744000139338269) | 93 | San Jose, CA | AI/ML/Data | 2026-07-23 |
 | [Software Engineer Intern](https://jobs.smartrecruiters.com/WesternDigital/744000138727213) | 93 | Fremont, CA / Rochester, MN / San Jose, CA / Irvine, CA / Colorado Springs, CO / Longmont, CO | Software | 2026-07-20 |
-
-## WGU
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Support Engineer Intern](https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Data-Support-Engineer-Intern_JR-025859) | 93 | Salt Lake City, UT | AI/ML/Data | 2026-08-05 |
 
 ## WindBorne Systems
 
