@@ -1,6 +1,6 @@
 # Open Internships
 
-**1927** internships across **162/163** companies — last updated 2026-08-10.
+**1933** internships across **179/179** companies — last updated 2026-08-10.
 
 ## Companies
 
@@ -28,7 +28,7 @@
 - [American Enterprise Institute](#american-enterprise-institute) (3)
 - [American Express](#american-express) (9)
 - [Amgen](#amgen) (1)
-- [Anduril](#anduril) (2)
+- [Anduril](#anduril) (5)
 - [Anthelion Capital](#anthelion-capital) (2)
 - [Apex Technology, Inc.](#apex-technology-inc) (1)
 - [Appian](#appian) (4)
@@ -57,6 +57,7 @@
 - [Astranis](#astranis) (7)
 - [Atomic Semi](#atomic-semi) (4)
 - [Atoms](#atoms) (1)
+- [Attio](#attio) (3)
 - [Auctor](#auctor) (1)
 - [Autodesk](#autodesk) (2)
 - [Avery Dennison](#avery-dennison) (1)
@@ -301,7 +302,7 @@
 - [IMC Trading](#imc-trading) (26)
 - [Impulse Space](#impulse-space) (1)
 - [Incident IQ](#incident-iq) (1)
-- [InfiniteQuant](#infinitequant) (2)
+- [InfiniteQuant](#infinitequant) (1)
 - [Infojini](#infojini) (1)
 - [Inizio](#inizio) (1)
 - [Innovation Works, Inc.](#innovation-works-inc) (1)
@@ -530,6 +531,7 @@
 - [Solar Turbines](#solar-turbines) (1)
 - [SoloPulse](#solopulse) (3)
 - [Sony](#sony) (2)
+- [Sony Music Entertainment](#sony-music-entertainment) (2)
 - [Sony Pictures Entertainment](#sony-pictures-entertainment) (1)
 - [SOTI](#soti) (2)
 - [SpaceX](#spacex) (3)
@@ -575,7 +577,6 @@
 - [The Boeing Company](#the-boeing-company) (2)
 - [The D. E. Shaw Group](#the-d-e-shaw-group) (1)
 - [The Exploration Company](#the-exploration-company) (1)
-- [The Federal Reserve System](#the-federal-reserve-system) (1)
 - [The Hub Project](#the-hub-project) (1)
 - [The Nuclear Company](#the-nuclear-company) (6)
 - [The Tatitlek Corporation](#the-tatitlek-corporation) (1)
@@ -842,8 +843,8 @@
 | [2026 Graduate Brand Analyst, Amazon Vendor Services](https://amazon.jobs/en/jobs/3178509/2026-graduate-brand-analyst-amazon-vendor-services) | 56 | Sydney | Buying, Planning, & Instock Management | 2026-07-20 |
 | [2027 Graduate Area Manager, Operations](https://amazon.jobs/en/jobs/10452287/2027-graduate-area-manager-operations) | 56 | Kemps Creek | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Area Manager](https://amazon.jobs/en/jobs/10457588/graduate-area-manager) | 56 | Dortmund | Fulfillment & Operations Management | 2026-07-20 |
-| [Graduate Area Manager](https://amazon.jobs/en/jobs/10412234/graduate-area-manager) | 56 | Swiebodzin | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Area Manager](https://amazon.jobs/en/jobs/3160008/graduate-area-manager) | 56 | Gera | Fulfillment & Operations Management | 2026-07-20 |
+| [Graduate Area Manager](https://amazon.jobs/en/jobs/10412234/graduate-area-manager) | 56 | Swiebodzin | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Area Manager - 2026 (PRG2/BRQ2), Operations](https://amazon.jobs/en/jobs/10447505/graduate-area-manager-2026-prg2-brq2-operations) | 56 | Dobroviz | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Area Manager - 2026 Start Date](https://amazon.jobs/en/jobs/3078656/graduate-area-manager-2026-start-date) | 56 | Sered | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Area Manager - 2026 Start Date, BRQ2 Operations](https://amazon.jobs/en/jobs/3078635/graduate-area-manager-2026-start-date-brq2-operations) | 56 | Kojetin | Fulfillment & Operations Management | 2026-07-20 |
@@ -1010,6 +1011,9 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [2027 Electrical Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) | 58 | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | — | 2026-08-10 |
+| [2027 Manufacturing Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) | 58 | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States | — | 2026-08-10 |
+| [2027 Mechanical Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) | 58 | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | — | 2026-08-10 |
 | [Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148079007) | 93 | Boston, MA / Seattle, WA / Newport Beach, CA / Irvine, CA / Reston, VA / Atlanta, GA | Software | 2026-07-20 |
 | [2027 Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) | 93 | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | Software / Summer 2027 | 2026-07-13 |
 
@@ -1228,6 +1232,14 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern - Winter 2027](https://job-boards.greenhouse.io/cssmerge/jobs/8687915002) | 93 | Seattle, WA / SF / LA / NYC / Mountain View, CA | Software | 2026-08-07 |
+
+## Attio
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Graduate Associate, GTM](https://jobs.ashbyhq.com/attio/6df9a62f-11a9-4020-b68b-93b8a8c98f1a) | 61 | — | Graduate | 2026-08-10 |
+| [Graduate Associate, Operations](https://jobs.ashbyhq.com/attio/448ecdc1-4869-41ef-a9a2-5d0b4949ce4a) | 61 | — | Graduate | 2026-08-10 |
+| [Graduate Associate, Marketing](https://jobs.ashbyhq.com/attio/d931deed-5261-4cd3-8c4a-27811455c371) | 41 | — | Graduate | 2026-08-10 |
 
 ## Auctor
 
@@ -1849,12 +1861,12 @@
 | [AI Innovation Intern – Service Sales (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395) | 38 | In-Office | — | 2026-07-30 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-07-29 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
 
 ## Cloudforce
 
@@ -1963,7 +1975,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Database Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Database-Engineering-Intern_JR109636) | 93 | Dallas, TX | Software | 2026-08-08 |
+| [Database Engineering Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Database-Engineering-Intern_JR109636) | 68 | Dallas, TX - Headquarters | Software / Not stated | 2026-08-10 |
 | [Software Engineering Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR106129) | 68 | Dallas, TX | Software | 2026-08-05 |
 | [Technology Product Analyst Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107890) | 58 | Dallas, TX | Product | 2026-08-01 |
 | [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393) | 93 | Dallas, TX | Software | 2026-07-21 |
@@ -2998,7 +3010,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Quantitative Researcher - Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000129235439) | 93 | New York, NY, United States | Quant / Summer 2027 | 2026-08-10 |
 | [Quantitative Researcher Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000142560129) | 93 | Dubai - United Arab Emirates / NYC | Quant | 2026-07-20 |
 
 ## Infojini
@@ -4269,8 +4280,8 @@
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-07-09 |
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-07-09 |
 | [Corporate Access, off-cycle internship (6-months) – Japanese speaking](https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002) | 58 | Hong Kong | — | 2026-06-30 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -4768,6 +4779,13 @@
 | [Research on Generative and Protective AI for Content Creation Intern](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335) | 68 | NYC | AI/ML/Data | 2026-08-01 |
 | [Software Engineer Intern](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-119282) | 93 | San Diego, CA | Software | 2026-08-01 |
 
+## Sony Music Entertainment
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data Analytics Intern - A&R Research](https://www.sonymusic.co.uk/careers/job-description/?gh_jid=8653163002) | 60 | London, UK | AI/ML/Data | 2026-08-10 |
+| [Insight & Analytics Intern](https://www.sonymusic.co.uk/careers/job-description/?gh_jid=8638298002) | 60 | London, UK | AI/ML/Data | 2026-08-10 |
+
 ## Sony Pictures Entertainment
 
 | Title | Score | Location | Department | First seen |
@@ -5179,12 +5197,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Crew Systems Engineering Intern - Avionics/Software](https://jobs.ashbyhq.com/the-exploration-company/da63221d-dd60-41fe-8dd5-bb1a565a7824) | 68 | Houston, TX | Software Engineering | 2026-05-09 |
-
-## The Federal Reserve System
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Graduate Statistical Analysis Intern - Regional & Community Outreach](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Boston-MA/Graduate-Intern---Statistical-Analysis_R-0000032931) | 74 | Boston, MA | AI/ML/Data | 2026-08-08 |
 
 ## The Hub Project
 
@@ -5843,7 +5855,3 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Data Analyst Intern](https://jobs.ashbyhq.com/zuru/750dea66-6f5a-4622-80d6-b6289954d3d0/application?embed=true) | 68 | LA | AI/ML/Data | 2026-07-21 |
-
-## Errors this run
-
-- **Vellum**: ashby vellum: HTTP 404
