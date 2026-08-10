@@ -19,10 +19,11 @@ import {
 } from "./filter.ts";
 import { canonicalJobId, dedupeJobs } from "./dedupe.ts";
 import { compareJobsByScore, scoreJobs } from "./rank.ts";
-import { sendJob } from "./notifier.ts";
+import { sendJob, sendText } from "./notifier.ts";
 import { renderMarkdown } from "./render/markdown.ts";
 import type {
   Company,
+  CompanyHealth,
   Job,
   JobsSnapshot,
   SeenState,
@@ -33,6 +34,12 @@ const SEEN_PATH = "seen.json";
 const COMPANIES_PATH = "companies.json";
 const JOBS_PATH = "jobs.json";
 const MARKDOWN_PATH = "JOBS.md";
+const HEALTH_PATH = "health.json";
+// A single run every 15 min can fail for transient reasons (rate limits, network
+// blips). Only alert once a source has been broken for this many consecutive
+// runs (~45 min), and only once per outage — re-alerting resumes if it heals
+// and breaks again.
+const FAILURE_ALERT_THRESHOLD = 3;
 
 async function loadJson<T>(path: string, fallback: T): Promise<T> {
   try {
@@ -142,6 +149,35 @@ async function main() {
     console.log(
       `✓ ${company.name}: ${jobs.length} total, ${interns.length} intern`,
     );
+  }
+
+  const health = await loadJson<CompanyHealth>(HEALTH_PATH, {});
+  const nextHealth: CompanyHealth = {};
+  const newlyBroken: { company: string; message: string; failures: number }[] = [];
+  for (const err of errors) {
+    const prev = health[err.company];
+    const consecutiveFailures = (prev?.consecutiveFailures ?? 0) + 1;
+    const alerted = prev?.alerted ?? false;
+    nextHealth[err.company] = { consecutiveFailures, lastError: err.message, alerted };
+    if (consecutiveFailures >= FAILURE_ALERT_THRESHOLD && !alerted) {
+      newlyBroken.push({ company: err.company, message: err.message, failures: consecutiveFailures });
+      nextHealth[err.company].alerted = true;
+    }
+  }
+  await writeFile(HEALTH_PATH, JSON.stringify(nextHealth, null, 2) + "\n");
+
+  if (newlyBroken.length > 0) {
+    const lines = newlyBroken.map(
+      (b) => `⚠ <b>${b.company}</b> has failed ${b.failures} runs in a row: ${b.message}`,
+    );
+    console.warn(lines.join("\n"));
+    if (!dryRun) {
+      try {
+        await sendText(token!, chatId!, lines.join("\n\n"));
+      } catch (e) {
+        console.warn(`  ✗ broken-source alert failed: ${(e as Error).message}`);
+      }
+    }
   }
 
   const jobs = scoreJobs(dedupeJobs(allInterns));

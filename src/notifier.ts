@@ -35,3 +35,24 @@ export async function sendJob(
     throw new Error(`telegram sendMessage failed: ${res.status} ${body}`);
   }
 }
+
+export async function sendText(
+  token: string,
+  chatId: string,
+  text: string,
+): Promise<void> {
+  const res = await fetch(`${TG_API}/bot${token}/sendMessage`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      chat_id: chatId,
+      text,
+      parse_mode: "HTML",
+      disable_web_page_preview: true,
+    }),
+  });
+  if (!res.ok) {
+    const body = await res.text();
+    throw new Error(`telegram sendMessage failed: ${res.status} ${body}`);
+  }
+}

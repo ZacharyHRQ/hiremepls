@@ -41,6 +41,14 @@ export interface SnapshotError {
   message: string;
 }
 
+export interface CompanyHealthEntry {
+  consecutiveFailures: number;
+  lastError: string;
+  alerted: boolean;
+}
+
+export type CompanyHealth = Record<string, CompanyHealthEntry>;
+
 export interface JobsSnapshot {
   generatedAt: string;
   companyCount: number;

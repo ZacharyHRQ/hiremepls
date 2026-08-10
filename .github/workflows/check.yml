@@ -36,7 +36,7 @@ jobs:
 
       - name: Commit updated snapshot
         run: |
-          git add seen.json jobs.json JOBS.md
+          git add seen.json jobs.json JOBS.md health.json
           if git diff --cached --quiet; then
             echo "no changes"
             exit 0
