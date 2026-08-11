@@ -20,7 +20,7 @@
 - [AlixPartners](#alixpartners) (1)
 - [Altamira Technologies](#altamira-technologies) (2)
 - [Altom Transport](#altom-transport) (1)
-- [Amazon](#amazon) (172)
+- [Amazon](#amazon) (170)
 - [Ambarella](#ambarella) (8)
 - [Amber Group](#amber-group) (1)
 - [Amcor](#amcor) (1)
@@ -60,7 +60,7 @@
 - [Atoms](#atoms) (2)
 - [Attio](#attio) (3)
 - [Auctor](#auctor) (1)
-- [Autodesk](#autodesk) (2)
+- [Autodesk](#autodesk) (4)
 - [Avery Dennison](#avery-dennison) (1)
 - [Axiomatic AI](#axiomatic-ai) (2)
 - [Axis Capital](#axis-capital) (1)
@@ -109,7 +109,7 @@
 - [CAE](#cae) (1)
 - [CALSTART](#calstart) (3)
 - [Canadian Solar](#canadian-solar) (1)
-- [Canva](#canva) (8)
+- [Canva](#canva) (7)
 - [Capella](#capella) (2)
 - [Capital One](#capital-one) (5)
 - [Capula](#capula) (1)
@@ -631,7 +631,7 @@
 - [University of Nevada, Reno](#university-of-nevada-reno) (2)
 - [University of Texas at Austin](#university-of-texas-at-austin) (3)
 - [University of Virginia Investment Management Company (UVIMCO)](#university-of-virginia-investment-management-company-uvimco) (1)
-- [University System of New Hampshire](#university-system-of-new-hampshire) (1)
+- [University System of New Hampshire](#university-system-of-new-hampshire) (2)
 - [Valstad](#valstad) (2)
 - [Vanguard](#vanguard) (1)
 - [Varda Space](#varda-space) (2)
@@ -887,7 +887,6 @@
 | [Graduate Area/Shift Manager - Veneto](https://amazon.jobs/en/jobs/3165132/graduate-area-shift-manager-veneto) | 56 | Rovigo | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Area/Shift Manager Emilia-Romagna](https://amazon.jobs/en/jobs/10457654/graduate-area-shift-manager-emilia-romagna) | 56 | Spilamberto | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Area/Shift Manager Friuli-Venezia Giulia](https://amazon.jobs/en/jobs/10478831/graduate-area-shift-manager-friuli-venezia-giulia) | 56 | Udine | Fulfillment & Operations Management | 2026-07-20 |
-| [Graduate HR Partner](https://amazon.jobs/en/jobs/10467273/graduate-hr-partner) | 56 | Rheinberg | Human Resources | 2026-07-20 |
 | [Graduate HR Partner](https://amazon.jobs/en/jobs/10452666/graduate-hr-partner) | 56 | Contwig | Human Resources | 2026-07-20 |
 | [Graduate HR Partner](https://amazon.jobs/en/jobs/10465722/graduate-hr-partner) | 56 | Moenchengladbach | Human Resources | 2026-07-20 |
 | [Graduate Logistik Manager - Bad Hersfeld, FRA1](https://amazon.jobs/en/jobs/3156037/graduate-logistik-manager-bad-hersfeld-fra1) | 56 | Bad Hersfeld | Fulfillment & Operations Management | 2026-07-20 |
@@ -905,7 +904,6 @@
 | [Graduate Logistik Manager - Raum Rostock](https://amazon.jobs/en/jobs/3156010/graduate-logistik-manager-raum-rostock) | 56 | Dummerstorf | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Logistik Manager - Werne](https://amazon.jobs/en/jobs/10476049/graduate-logistik-manager-werne) | 56 | Werne | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Logistik Manager - Zweibrücken](https://amazon.jobs/en/jobs/3184919/graduate-logistik-manager-zweibrucken) | 56 | Contwig | Fulfillment & Operations Management | 2026-07-20 |
-| [Graduate OPS Area/Shift Manager - UK , Amazon Operations](https://amazon.jobs/en/jobs/10402423/graduate-ops-area-shift-manager-uk-amazon-operations) | 56 | Chesterfield | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Shift Manager - Bayern Area](https://amazon.jobs/en/jobs/10418441/graduate-shift-manager-bayern-area) | 56 | Oerlenbach | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Shift Manager - bei Linz](https://amazon.jobs/en/jobs/10462185/graduate-shift-manager-bei-linz) | 56 | Enns | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Shift Manager - München](https://amazon.jobs/en/jobs/10419575/graduate-shift-manager-munchen) | 56 | Olching | Fulfillment & Operations Management | 2026-07-20 |
@@ -1270,6 +1268,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Developer Intern](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-1) | 93 | Montreal, QC, Canada | Software | 2026-08-11 |
+| [Software Developer Intern - Interactive Graphics, Media & Entertainment](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2) | 93 | Montreal, QC, Canada | Software | 2026-08-11 |
 | [Cloud Developer Intern - Fcap](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-1) | 93 | Montreal, QC, Canada | Software | 2026-08-07 |
 | [Cloud Developer Intern - Interactive Graphics, Media & Entertainment](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400-3) | 93 | Montreal, QC, Canada | Software | 2026-08-07 |
 
@@ -1657,7 +1657,6 @@
 | [PhD Research Scientist Intern - Edge AI](https://jobs.smartrecruiters.com/Canva/6000000001295792) | 83 | Vienna, Vienna, Austria | Information Technology | 2026-08-07 |
 | [PhD Research Scientist Intern - Edge AI](https://jobs.smartrecruiters.com/Canva/6000000001295782) | 83 | London, , United Kingdom | Information Technology | 2026-08-07 |
 | [PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling](https://jobs.smartrecruiters.com/Canva/6000000001295787) | 83 | Vienna, Vienna, Austria | Information Technology | 2026-08-07 |
-| [PhD Research Scientist Intern - Reinforcement Learning - Images](https://jobs.smartrecruiters.com/Canva/6000000001292768) | 93 | London, UK | AI/ML/Data | 2026-08-07 |
 | [PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling](https://jobs.smartrecruiters.com/Canva/6000000001295209) | 83 | London, England, United Kingdom | Information Technology | 2026-08-07 |
 | [PhD Research Scientist Intern](https://jobs.smartrecruiters.com/Canva/6000000001291655-phd-research-scientist-intern) | 83 | San Francisco, CA | — | 2026-08-07 |
 | [PhD Research Scientist Intern](https://jobs.smartrecruiters.com/Canva/6000000001291655) | 83 | San Francisco, CA, United States | Information Technology | 2026-08-06 |
@@ -1907,7 +1906,7 @@
 | [AI Innovation Intern – Service Sales (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395) | 38 | In-Office | — | 2026-07-30 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-07-29 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
@@ -5711,6 +5710,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Robotics Intern](https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Research-Intern_JR8972) | 58 | Durham, NH | Hardware | 2026-08-11 |
 | [Broadband Intern](https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/High-Tech-Bound-Broadband-Intern_JR8298) | 68 | Dover, NH | Software | 2026-08-01 |
 
 ## Valstad

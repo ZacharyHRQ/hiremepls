@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T13:37:56.774Z",
+  "generatedAt": "2026-08-11T14:41:28.509Z",
   "companyCount": 179,
   "okCount": 179,
   "jobCount": 1981,
@@ -712,7 +712,6 @@
     "canonical:c4287a1c888a7ff2": "2026-07-20T23:30:05.931Z",
     "canonical:6bfed6d76148839b": "2026-07-20T23:30:05.931Z",
     "canonical:793f24c65608249c": "2026-07-20T23:30:05.931Z",
-    "canonical:6dd39ca62649568c": "2026-07-20T23:30:05.931Z",
     "canonical:ee129f14c18053dd": "2026-07-20T23:30:05.931Z",
     "canonical:f5ebcfecdddab96e": "2026-07-20T23:30:05.931Z",
     "canonical:e14500e74061c5e5": "2026-07-20T23:30:05.931Z",
@@ -742,7 +741,6 @@
     "canonical:ef1d8e7f1b5e85e1": "2026-07-20T23:30:05.931Z",
     "canonical:58c7d404cfffb363": "2026-07-20T23:30:05.931Z",
     "canonical:fd1f5e48dc53ddfc": "2026-07-20T23:30:05.931Z",
-    "canonical:1609729690255bf1": "2026-07-20T23:30:05.931Z",
     "canonical:8ebece0cea38bda9": "2026-07-20T23:30:05.931Z",
     "canonical:e40db52a378a86e5": "2026-07-20T23:30:05.931Z",
     "canonical:e45f028113d91d5d": "2026-07-20T23:30:05.931Z",
@@ -1796,7 +1794,6 @@
     "canonical:0e017ac8de8fe28a": "2026-08-07T11:29:59.962Z",
     "canonical:bdf92d3b568936a7": "2026-08-07T11:29:59.962Z",
     "canonical:6b58b647e5acfee3": "2026-08-07T12:09:44.568Z",
-    "canonical:69acd4c0fa388415": "2026-08-07T12:09:44.568Z",
     "canonical:30e5103de8e36788": "2026-08-07T14:37:49.870Z",
     "canonical:b262fe5a924d1afe": "2026-08-07T14:37:49.870Z",
     "canonical:abae9c25da7a48c5": "2026-08-07T14:37:49.870Z",
@@ -1984,7 +1981,10 @@
     "canonical:ac70b64d2865996c": "2026-08-11T10:31:43.512Z",
     "canonical:89adea911b44f806": "2026-08-11T13:37:56.774Z",
     "canonical:9e7b971d08ddf1aa": "2026-08-11T13:37:56.774Z",
-    "canonical:38b6456c27b7457d": "2026-08-11T13:37:56.774Z"
+    "canonical:38b6456c27b7457d": "2026-08-11T13:37:56.774Z",
+    "canonical:00d29f26aecf4ff5": "2026-08-11T14:41:28.509Z",
+    "canonical:f53e3e132520eb19": "2026-08-11T14:41:28.509Z",
+    "canonical:c08d254cc9bce08d": "2026-08-11T14:41:28.509Z"
   },
   "jobs": [
     {
@@ -2818,10 +2818,10 @@
       ]
     },
     {
-      "id": "canonical:1f361269ec79c7b7",
+      "id": "canonical:2bc4df178e85b4f6",
       "title": "FPGA Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/8070392",
-      "location": "London, UK",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/8038923",
+      "location": "Chicago, IL",
       "department": "Hardware",
       "company": "DRW",
       "score": 58,
@@ -2830,10 +2830,10 @@
       ]
     },
     {
-      "id": "canonical:2bc4df178e85b4f6",
+      "id": "canonical:1f361269ec79c7b7",
       "title": "FPGA Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/8038923",
-      "location": "Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/8070392",
+      "location": "London, UK",
       "department": "Hardware",
       "company": "DRW",
       "score": 58,
@@ -2933,10 +2933,10 @@
       ]
     },
     {
-      "id": "canonical:ae44a67983e1d43a",
+      "id": "canonical:d40e55f9a26db473",
       "title": "Quantitative Trading Analyst Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7668776",
-      "location": "Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957243",
+      "location": "London, UK",
       "department": "Quant",
       "company": "DRW",
       "score": 68,
@@ -2946,10 +2946,10 @@
       ]
     },
     {
-      "id": "canonical:d40e55f9a26db473",
+      "id": "canonical:ae44a67983e1d43a",
       "title": "Quantitative Trading Analyst Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957243",
-      "location": "London, UK",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7668776",
+      "location": "Chicago, IL",
       "department": "Quant",
       "company": "DRW",
       "score": 68,
@@ -2986,6 +2986,20 @@
       ]
     },
     {
+      "id": "canonical:bd72b8a6944f6777",
+      "title": "Software Developer Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
+      "location": "London, UK",
+      "department": "Software",
+      "company": "DRW",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:1d41c103b87b651a",
       "title": "Software Developer Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
@@ -3004,20 +3018,6 @@
       "title": "Software Developer Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
       "location": "Montreal, QC, Canada",
-      "department": "Software",
-      "company": "DRW",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:bd72b8a6944f6777",
-      "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
-      "location": "London, UK",
       "department": "Software",
       "company": "DRW",
       "score": 93,
@@ -5400,18 +5400,6 @@
       ]
     },
     {
-      "id": "canonical:6dd39ca62649568c",
-      "title": "Graduate HR Partner",
-      "url": "https://amazon.jobs/en/jobs/10467273/graduate-hr-partner",
-      "location": "Rheinberg",
-      "department": "Human Resources",
-      "company": "Amazon",
-      "score": 56,
-      "scoreReasons": [
-        "new grad"
-      ]
-    },
-    {
       "id": "canonical:58c7d404cfffb363",
       "title": "Graduate HR Partner",
       "url": "https://amazon.jobs/en/jobs/10452666/graduate-hr-partner",
@@ -6135,18 +6123,6 @@
       "company": "Amazon",
       "score": 50,
       "scoreReasons": []
-    },
-    {
-      "id": "canonical:1609729690255bf1",
-      "title": "Graduate OPS Area/Shift Manager - UK , Amazon Operations ",
-      "url": "https://amazon.jobs/en/jobs/10402423/graduate-ops-area-shift-manager-uk-amazon-operations",
-      "location": "Chesterfield",
-      "department": "Fulfillment & Operations Management",
-      "company": "Amazon",
-      "score": 56,
-      "scoreReasons": [
-        "new grad"
-      ]
     },
     {
       "id": "canonical:8ebece0cea38bda9",
@@ -7460,7 +7436,7 @@
     {
       "id": "canonical:1a056010d15d11c7",
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -21666,20 +21642,6 @@
       ]
     },
     {
-      "id": "canonical:69acd4c0fa388415",
-      "title": "PhD Research Scientist Intern - Reinforcement Learning - Images",
-      "url": "https://jobs.smartrecruiters.com/Canva/6000000001292768",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "Canva",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:1b9ebef2b324c80c",
       "title": "Full-Stack Developer Intern - Python",
       "url": "https://alayacare.com/open-positions?gh_jid=8687981002",
@@ -23396,6 +23358,46 @@
       "score": 68,
       "scoreReasons": [
         "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:00d29f26aecf4ff5",
+      "title": "Software Developer Intern - Interactive Graphics, Media & Entertainment",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2",
+      "location": "Montreal, QC, Canada",
+      "department": "Software",
+      "company": "Autodesk",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f53e3e132520eb19",
+      "title": "Software Developer Intern",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-1",
+      "location": "Montreal, QC, Canada",
+      "department": "Software",
+      "company": "Autodesk",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c08d254cc9bce08d",
+      "title": "Robotics Intern",
+      "url": "https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Research-Intern_JR8972",
+      "location": "Durham, NH",
+      "department": "Hardware",
+      "company": "University System of New Hampshire",
+      "score": 58,
+      "scoreReasons": [
         "direct ATS"
       ]
     },
