@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T18:32:35.051Z",
+  "generatedAt": "2026-08-11T19:43:14.290Z",
   "companyCount": 179,
   "okCount": 179,
   "jobCount": 1997,
@@ -1344,7 +1344,6 @@
     "canonical:d0301d5322394fa7": "2026-08-01T17:41:31.231Z",
     "canonical:e162d0a0007f859b": "2026-08-01T17:41:31.231Z",
     "canonical:1724b377a213ea63": "2026-08-01T17:41:31.231Z",
-    "canonical:03256d9192dfcb79": "2026-08-01T18:37:19.731Z",
     "canonical:824b038c14b32c4d": "2026-08-01T18:37:19.731Z",
     "canonical:564534a264215b14": "2026-08-01T18:37:19.731Z",
     "canonical:81c0f29f101f3da7": "2026-08-01T18:37:19.731Z",
@@ -2000,7 +1999,8 @@
     "canonical:1ebb36311723c118": "2026-08-11T17:37:01.648Z",
     "canonical:9bf494d2d2c1b003": "2026-08-11T17:37:01.648Z",
     "canonical:8090dbcaf5c6355d": "2026-08-11T18:32:35.051Z",
-    "canonical:c119404437a1a8a3": "2026-08-11T18:32:35.051Z"
+    "canonical:c119404437a1a8a3": "2026-08-11T18:32:35.051Z",
+    "canonical:c60e84787ad144af": "2026-08-11T19:43:14.290Z"
   },
   "jobs": [
     {
@@ -3231,6 +3231,18 @@
       "company": "AQR",
       "score": 50,
       "scoreReasons": []
+    },
+    {
+      "id": "canonical:c60e84787ad144af",
+      "title": "2027 Quantitative Prediction Markets Research Summer Analyst",
+      "url": "https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378",
+      "location": "Greenwich, CT",
+      "department": "",
+      "company": "AQR",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
     },
     {
       "id": "canonical:6c8c8b45632bb7cb",
@@ -15037,19 +15049,6 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:03256d9192dfcb79",
-      "title": "Research Scientist Intern - Monetization Computer Vision",
-      "url": "https://www.metacareers.com/jobs/2281218542616482",
-      "location": "Menlo Park, CA",
-      "department": "AI/ML/Data",
-      "company": "Meta",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
