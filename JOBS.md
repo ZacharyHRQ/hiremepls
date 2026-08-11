@@ -1,6 +1,6 @@
 # Open Internships
 
-**1988** internships across **179/179** companies — last updated 2026-08-11.
+**1986** internships across **179/179** companies — last updated 2026-08-11.
 
 ## Companies
 
@@ -518,7 +518,7 @@
 - [Roam](#roam) (1)
 - [Robinhood](#robinhood) (2)
 - [Roblox](#roblox) (1)
-- [Royal Bank of Canada](#royal-bank-of-canada) (5)
+- [Royal Bank of Canada](#royal-bank-of-canada) (4)
 - [RTX](#rtx) (9)
 - [Samaya](#samaya) (1)
 - [Samsara](#samsara) (2)
@@ -643,7 +643,7 @@
 - [Vega Investment Technologies](#vega-investment-technologies) (1)
 - [Vendelux](#vendelux) (2)
 - [Verne Robotics](#verne-robotics) (1)
-- [Vertiv](#vertiv) (4)
+- [Vertiv](#vertiv) (3)
 - [VetsEZ](#vetsez) (1)
 - [Viridien](#viridien) (1)
 - [Virtu Financial](#virtu-financial) (6)
@@ -1920,7 +1920,7 @@
 | [AI Innovation Intern – Service Sales (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395) | 38 | In-Office | — | 2026-07-30 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-07-29 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
@@ -4714,7 +4714,6 @@
 | [Capital Markets Quant Summer Associate - Quantitative Technology Services](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000183482) | 68 | NYC | AI/ML/Data | 2026-08-07 |
 | [Global Markets Quantitative Trading Summer Analyst - Capital Markets](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Global-Markets-Quantitative-Trading-Summer-Analyst_R-0000183468) | 68 | NYC | Quant | 2026-08-07 |
 | [Global Markets Sales & Trading Summer Analyst - Capital Markets](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Global-Markets-Sales---Trading-Summer-Analyst_R-0000147305-2) | 48 | NYC | Quant | 2026-08-07 |
-| [Business Markets Relationship Manager Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/BATHURST-New-Brunswick-Canada/Relationship-Manager-Business-Markets--Intern_R-0000182302) | 68 | Bathurst, NB, Canada | Quant | 2026-07-28 |
 | [Relationship Manager Commercial Markets Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/GRAND-FALLS-New-Brunswick-Canada/Relationship-Manager-Commercial-Markets-Intern_R-0000178547) | 68 | Madawaska County, NB, Canada | Quant | 2026-07-22 |
 
 ## RTX
@@ -5794,7 +5793,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278777) | 85 | Delaware, OH | Hardware | 2026-08-10 |
 | [Product Management Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278933) | 50 | Westerville, OH | Product | 2026-08-10 |
 | [Thermal Engineer Intern - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278813) | 50 | Westerville, OH | Hardware | 2026-08-10 |
 | [Thermal Application Engineer Intern - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278512) | 85 | Westerville, OH | Software | 2026-08-05 |
