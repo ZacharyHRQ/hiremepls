@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-11T17:37:01.648Z",
+  "generatedAt": "2026-08-11T18:32:35.051Z",
   "companyCount": 179,
   "okCount": 179,
-  "jobCount": 1998,
+  "jobCount": 1997,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1198,7 +1198,6 @@
     "canonical:8aa078ca6aa36f81": "2026-07-31T15:47:34.445Z",
     "canonical:567fb8d0979b48d0": "2026-07-31T15:47:34.445Z",
     "canonical:e6d2acd0830a25e8": "2026-07-31T15:47:34.445Z",
-    "canonical:ad5b3cc499788169": "2026-07-31T17:18:07.274Z",
     "canonical:8a61fd9ef4db2809": "2026-07-31T17:18:07.274Z",
     "canonical:db5b3bdd4a0ea0e1": "2026-07-31T17:18:07.274Z",
     "canonical:01da82cd06537b1a": "2026-07-31T17:18:07.274Z",
@@ -1734,7 +1733,6 @@
     "canonical:2f808e8e258b99d3": "2026-08-07T00:35:31.024Z",
     "canonical:0e3f34b7706597e9": "2026-08-07T00:35:31.024Z",
     "canonical:06c0a2c3751f2622": "2026-08-07T00:35:31.024Z",
-    "canonical:a7b1801d93b03b08": "2026-08-07T00:35:31.024Z",
     "canonical:6b4fff86ba60e72a": "2026-08-07T00:35:31.024Z",
     "canonical:b7489e5649917ad2": "2026-08-07T00:35:31.024Z",
     "canonical:d6eaa0e1b202840b": "2026-08-07T00:35:31.024Z",
@@ -1931,7 +1929,6 @@
     "canonical:403b59e92bdabdd6": "2026-08-10T23:05:00.755Z",
     "canonical:b37ce8210c6e0e4d": "2026-08-10T23:05:00.755Z",
     "canonical:c034a6d449a02452": "2026-08-10T23:05:00.755Z",
-    "canonical:121af2bf086954b2": "2026-08-10T23:05:00.755Z",
     "canonical:44f9f0cc35000d2c": "2026-08-10T23:05:00.755Z",
     "canonical:e202a2e8ee7ee52b": "2026-08-10T23:05:00.755Z",
     "canonical:0ca1264d660170f3": "2026-08-10T23:05:00.755Z",
@@ -2001,7 +1998,9 @@
     "canonical:8136b771bdf847e6": "2026-08-11T17:37:01.648Z",
     "canonical:2c01b77277cd5d82": "2026-08-11T17:37:01.648Z",
     "canonical:1ebb36311723c118": "2026-08-11T17:37:01.648Z",
-    "canonical:9bf494d2d2c1b003": "2026-08-11T17:37:01.648Z"
+    "canonical:9bf494d2d2c1b003": "2026-08-11T17:37:01.648Z",
+    "canonical:8090dbcaf5c6355d": "2026-08-11T18:32:35.051Z",
+    "canonical:c119404437a1a8a3": "2026-08-11T18:32:35.051Z"
   },
   "jobs": [
     {
@@ -7384,18 +7383,6 @@
       "id": "canonical:bd73a2ff32a0ca98",
       "title": "Brand Social Media Intern (Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8054093?gh_jid=8054093",
-      "location": "In-Office",
-      "department": "",
-      "company": "Cloudflare",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:ad5b3cc499788169",
-      "title": "Customer Advocacy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8093127?gh_jid=8093127",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -21530,19 +21517,6 @@
       ]
     },
     {
-      "id": "canonical:a7b1801d93b03b08",
-      "title": "Technology Architecture Intern - Corporate AI Foundation",
-      "url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Office---Rimouski/Stagiaire-en-architecture-technologique---Socle-IA-corporatif_R0045667-3",
-      "location": "Rimouski, QC, Canada",
-      "department": "Software",
-      "company": "Harris Computer",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:6b4fff86ba60e72a",
       "title": "Associate Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/impact/jobs/8645964002",
@@ -22922,19 +22896,6 @@
       ]
     },
     {
-      "id": "canonical:121af2bf086954b2",
-      "title": "Trading Intern",
-      "url": "https://peak6group.wd1.myworkdayjobs.com/CapMan/job/Chicago-IL/Trading-Internship-for-Women-_JR105061",
-      "location": "Chicago, IL",
-      "department": "Quant",
-      "company": "PEAK6",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:44f9f0cc35000d2c",
       "title": "Community Product Management Intern - Summer 2027",
       "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309",
@@ -23713,6 +23674,32 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:8090dbcaf5c6355d",
+      "title": "Software Engineering Analyst Intern - Government & Public Services",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Software-Engineering/362448",
+      "location": "Austin, TX",
+      "department": "Software",
+      "company": "Deloitte",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:c119404437a1a8a3",
+      "title": "AI and Data Engineering Summer Scholar Intern - Government & Public Services",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-AI-and-Data-Engineering/362479",
+      "location": "Austin, TX",
+      "department": "AI/ML/Data",
+      "company": "Deloitte",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {

@@ -1,6 +1,6 @@
 # Open Internships
 
-**1998** internships across **179/179** companies — last updated 2026-08-11.
+**1997** internships across **179/179** companies — last updated 2026-08-11.
 
 ## Companies
 
@@ -141,7 +141,7 @@
 - [Clarity Innovations](#clarity-innovations) (1)
 - [Clerkie](#clerkie) (1)
 - [CloudFit Software](#cloudfit-software) (1)
-- [Cloudflare](#cloudflare) (17)
+- [Cloudflare](#cloudflare) (16)
 - [Cloudforce](#cloudforce) (1)
 - [Clyde Companies](#clyde-companies) (2)
 - [CME Group](#cme-group) (1)
@@ -175,7 +175,7 @@
 - [DE Shaw](#de-shaw) (1)
 - [Dedalus Labs](#dedalus-labs) (1)
 - [Deepgram](#deepgram) (2)
-- [Deloitte](#deloitte) (4)
+- [Deloitte](#deloitte) (6)
 - [Delta Air Lines](#delta-air-lines) (1)
 - [Delta Dental](#delta-dental) (1)
 - [Denari](#denari) (1)
@@ -280,7 +280,7 @@
 - [H&CO](#h-co) (1)
 - [Haize Labs](#haize-labs) (1)
 - [HARMAN](#harman) (1)
-- [Harris Computer](#harris-computer) (2)
+- [Harris Computer](#harris-computer) (1)
 - [HCompany](#hcompany) (1)
 - [HealthCorps](#healthcorps) (1)
 - [Heliux](#heliux) (2)
@@ -464,7 +464,7 @@
 - [Paragon](#paragon) (1)
 - [PathAI](#pathai) (1)
 - [PDT Partners](#pdt-partners) (2)
-- [PEAK6](#peak6) (2)
+- [PEAK6](#peak6) (1)
 - [Pendulum Intelligence](#pendulum-intelligence) (1)
 - [PennState University](#pennstate-university) (1)
 - [Pennsylvania State University](#pennsylvania-state-university) (7)
@@ -1923,7 +1923,6 @@
 | [Marketing Programs and Analytics Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8104138?gh_jid=8104138) | 38 | In-Office | — | 2026-08-04 |
 | [Brand Social Media Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8054093?gh_jid=8054093) | 58 | In-Office | — | 2026-08-03 |
 | [Accounting Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7902104?gh_jid=7902104) | 38 | In-Office | — | 2026-08-03 |
-| [Customer Advocacy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8093127?gh_jid=8093127) | 58 | In-Office | — | 2026-07-31 |
 | [AI Builder Intern - Global Customer Engineering - Service Sales](https://boards.greenhouse.io/cloudflare/jobs/8044395) | 48 | London, UK | Software | 2026-07-30 |
 | [AI Innovation Intern – Service Sales (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395) | 38 | In-Office | — | 2026-07-30 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-07-29 |
@@ -2158,6 +2157,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [AI and Data Engineering Summer Scholar Intern - Government & Public Services](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-AI-and-Data-Engineering/362479) | 85 | Austin, TX | AI/ML/Data | 2026-08-11 |
+| [Software Engineering Analyst Intern - Government & Public Services](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Software-Engineering/362448) | 85 | Austin, TX | Software | 2026-08-11 |
 | [Summer Scholar Intern - Government & Public Services - Cyber Software Engineering](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Cyber-Software-Engineering/362346) | 85 | Austin, TX | Software | 2026-08-10 |
 | [Consultative Offerings Intern - Government & Public Services - Cyber Analytics](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Cyber-Analytics/360259) | 60 | Arlington, VA | AI/ML/Data | 2026-08-10 |
 | [Data Management Solutions Summer Scholar Intern - Government & Public Services - Data Management Solutions](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Data-Management-Solutions/362366) | 60 | Rosslyn, Arlington, VA | AI/ML/Data | 2026-08-10 |
@@ -2867,7 +2868,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Technology Architecture Intern - Corporate AI Foundation](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Office---Rimouski/Stagiaire-en-architecture-technologique---Socle-IA-corporatif_R0045667-3) | 68 | Rimouski, QC, Canada | Software | 2026-08-07 |
 | [Software Development Intern](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Montreal-Quebec/Stagiaire-en-dveloppement-de-logiciels---Software-Development-Intern_R0044820-1) | 68 | Montreal, QC, Canada | Software | 2026-08-01 |
 
 ## HCompany
@@ -4314,7 +4314,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Trading Bootcamp Micro-Internship - Summer 2027](https://peak6group.wd1.myworkdayjobs.com/CapMan/job/Chicago-IL/Trading-Bootcamp-Micro-Internship---Summer-2027_JR105057) | 68 | Chicago, IL | Quant | 2026-08-10 |
-| [Trading Intern](https://peak6group.wd1.myworkdayjobs.com/CapMan/job/Chicago-IL/Trading-Internship-for-Women-_JR105061) | 68 | Chicago, IL | Quant | 2026-08-10 |
 
 ## Pendulum Intelligence
 
