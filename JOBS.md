@@ -1,6 +1,6 @@
 # Open Internships
 
-**2008** internships across **179/179** companies — last updated 2026-08-11.
+**2012** internships across **179/179** companies — last updated 2026-08-11.
 
 ## Companies
 
@@ -297,7 +297,7 @@
 - [Hermeus](#hermeus) (3)
 - [Heron Power](#heron-power) (2)
 - [Hershey Entertainment & Resorts Company](#hershey-entertainment-resorts-company) (1)
-- [Hewlett Packard (HP)](#hewlett-packard-hp) (3)
+- [Hewlett Packard (HP)](#hewlett-packard-hp) (4)
 - [HEXAWARE](#hexaware) (1)
 - [HeyGen](#heygen) (1)
 - [Hiebing](#hiebing) (1)
@@ -322,7 +322,7 @@
 - [Incident IQ](#incident-iq) (1)
 - [InfiniteQuant](#infinitequant) (1)
 - [Infojini](#infojini) (1)
-- [ING](#ing) (3)
+- [ING](#ing) (2)
 - [Inizio](#inizio) (1)
 - [Innovation Works, Inc.](#innovation-works-inc) (1)
 - [Instead](#instead) (1)
@@ -365,7 +365,7 @@
 - [LinkedIn](#linkedin) (3)
 - [Louisiana Blue](#louisiana-blue) (4)
 - [LPL Financial Holdings](#lpl-financial-holdings) (3)
-- [Lumentum](#lumentum) (2)
+- [Lumentum](#lumentum) (1)
 - [Luminance](#luminance) (1)
 - [Magna](#magna) (3)
 - [Magna International](#magna-international) (1)
@@ -393,12 +393,12 @@
 - [Menasha Corporation](#menasha-corporation) (1)
 - [Meshy](#meshy) (2)
 - [Meta](#meta) (7)
-- [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (2)
+- [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (3)
 - [Microchip Technology](#microchip-technology) (6)
 - [Micron Technology](#micron-technology) (2)
 - [Microsoft](#microsoft) (10)
 - [Mindsmith](#mindsmith) (1)
-- [Mistral AI](#mistral-ai) (2)
+- [Mistral AI](#mistral-ai) (1)
 - [Mizuho Securities USA](#mizuho-securities-usa) (1)
 - [Mobius Renewables](#mobius-renewables) (1)
 - [Modal](#modal) (2)
@@ -507,7 +507,7 @@
 - [Quadric](#quadric) (2)
 - [Quadrillion](#quadrillion) (3)
 - [Qualcomm](#qualcomm) (1)
-- [Quantbot Technologies](#quantbot-technologies) (5)
+- [Quantbot Technologies](#quantbot-technologies) (7)
 - [QuEra Computing](#quera-computing) (1)
 - [Quora](#quora) (1)
 - [Radix Trading](#radix-trading) (1)
@@ -531,7 +531,8 @@
 - [Robinhood](#robinhood) (2)
 - [Roblox](#roblox) (1)
 - [Royal Bank of Canada](#royal-bank-of-canada) (4)
-- [RTX](#rtx) (13)
+- [RTX](#rtx) (14)
+- [Salesforce](#salesforce) (1)
 - [Samaya](#samaya) (1)
 - [Samsara](#samsara) (2)
 - [Samsung Research America](#samsung-research-america) (1)
@@ -543,7 +544,7 @@
 - [Schonfeld](#schonfeld) (4)
 - [Schweitzer Engineering Laboratories](#schweitzer-engineering-laboratories) (2)
 - [SCOR](#scor) (1)
-- [Sentry](#sentry) (1)
+- [Sentry](#sentry) (2)
 - [Serval](#serval) (1)
 - [Seven Research](#seven-research) (4)
 - [SHEIN](#shein) (1)
@@ -559,7 +560,7 @@
 - [Skydio](#skydio) (3)
 - [SkyGig](#skygig) (1)
 - [Smiths Detection](#smiths-detection) (1)
-- [Snap](#snap) (2)
+- [Snap](#snap) (1)
 - [Snowflake](#snowflake) (12)
 - [Solar Turbines](#solar-turbines) (1)
 - [SoloPulse](#solopulse) (3)
@@ -636,6 +637,7 @@
 - [Turabify](#turabify) (1)
 - [Two Sigma](#two-sigma) (2)
 - [Uber](#uber) (1)
+- [UHY](#uhy) (1)
 - [Uline](#uline) (6)
 - [UMB](#umb) (1)
 - [Uncountable](#uncountable) (1)
@@ -2986,6 +2988,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Enterprise Operations Software Internship](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Software-Internship_3167271-2) | 68 | Spring, Texas, United States of America | Software / Summer 2027 | 2026-08-11 |
 | [Graduate Web Developer](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Cambridge-Cambridgeshire-United-Kingdom/Graduate-Web-Developer--1-year-Placement_3159344-1) | 99 | Cambridge, UK | Software | 2026-07-21 |
 | [Graduate Web Developer - 1 year Placement](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Graduate-Web-Developer--1-year-Placement_3159344) | 99 | Cambridge, UK | Software | 2026-07-21 |
 | [Browser Software Engineer Intern](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Cambridge-Cambridgeshire-United-Kingdom/Browser-Software-Engineer-Intern_3160410-1) | 93 | Cambridge, UK | Hardware | 2026-07-21 |
@@ -3173,7 +3176,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Technology Intern - Innovation](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Innovation-_REQ-10119619) | 68 | NYC | Software | 2026-08-10 |
 | [Summer 2027 Internship - Tech (Information Security)](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Information-Security-_REQ-10119620) | 68 | New York | Security / Summer 2027 | 2026-08-10 |
 | [Summer 2027 Internship - Tech (Infrastructure)](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Infrastructure-_REQ-10119621) | 68 | New York | Software / Summer 2027 | 2026-08-10 |
 
@@ -3538,7 +3540,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Optical Verification Technician Co-op Intern](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-VerificationTechnician-Intern-Co-op_20261049) | 58 | Ottawa, ON, Canada | Hardware | 2026-08-04 |
 | [Optical Verification Technician Intern/Co-op](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Technician-Intern-Co-op_20261048) | 58 | Ottawa, ON, Canada | Hardware | 2026-08-04 |
 
 ## Luminance
@@ -3734,6 +3735,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data Analyst Intern](https://jobs.jobvite.com/metropolitantransportationauthority/job/oecDAfwn?nl=1&nl=1&fr=false) | 60 | NYC | AI/ML/Data | 2026-08-11 |
 | [Data Analyst Intern - Power - Emerging Talent](https://jobs.jobvite.com/metropolitantransportationauthority/job/o6OAAfwO?nl=1&nl=1&fr=false) | 60 | NYC | AI/ML/Data | 2026-08-04 |
 | [Data Analyst Intern](https://jobs.jobvite.com/metropolitantransportationauthority/job/oboAAfwt?nl=1&nl=1&fr=false) | 60 | Brooklyn, NY | AI/ML/Data | 2026-08-04 |
 
@@ -3781,7 +3783,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Applied Scientist / Research Engineer Intern](https://jobs.ashbyhq.com/mistral.ai/de46ba8b-00cb-4618-83df-66e15a78434e/application?embed=true) | 93 | London, UK / Paris, France | AI/ML/Data | 2026-08-01 |
-| [AI Data Solutions Intern - Data Partnerships](https://jobs.ashbyhq.com/mistral.ai/60fcc44d-4d96-469d-a96c-d6a9bbfe8edd/application?embed=true) | 68 | Palo Alto, CA | AI/ML/Data | 2026-07-24 |
 
 ## Mizuho Securities USA
 
@@ -4630,6 +4631,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Quantitative Researcher Intern](https://www.quantbot.com/careers/4299863009?gh_jid=4299863009) | 85 | London, UK | Quant | 2026-08-11 |
+| [Data Trading Analyst Intern - Data Trading Lab](https://www.quantbot.com/careers/4299858009?gh_jid=4299858009) | 60 | London, UK | Quant | 2026-08-11 |
 | [Machine Learning Research Engineer Intern](https://www.quantbot.com/careers/4340833009?gh_jid=4340833009) | 85 | NYC | AI/ML/Data | 2026-08-11 |
 | [Quantitative Developer Intern](https://www.quantbot.com/careers/4341038009?gh_jid=4341038009) | 85 | NYC | Quant | 2026-08-11 |
 | [Quantitative Researcher Intern](https://www.quantbot.com/careers/4299496009?gh_jid=4299496009) | 85 | NYC | Quant | 2026-08-11 |
@@ -4806,6 +4809,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Electro-Optical Systems Technician Intern - AN/ZSQ-2](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-KY-FORT-CAMPBELL-7228NS-CUST--7228-Nightstalker-Wy--BLDG-6882-Rm-210-External-Site/SkillBridge--AN-ZSQ-2-Electro-Optical-Systems-Depot-Technician-Intern_01865923) | 58 | Fort Campbell, KY | Hardware | 2026-08-11 |
 | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Software-Engineering-Intern--2027-_01865474) | 93 | Burnsville, MN | Software | 2026-08-11 |
 | [Software Engineering Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineering-Intern--Summer-2027-_01865025) | 93 | El Segundo, CA | Hardware | 2026-08-11 |
 | [Enterprise Extended Reality Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-NY-REMOTE/Enterprise-Extended-Reality--XR--Intern--Summer-2027---Remote-_01865894) | 68 | NYC | Software | 2026-08-11 |
@@ -4819,6 +4823,12 @@
 | [Software Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01863980-1) | 93 | US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 | Software / Summer 2027 | 2026-08-07 |
 | [Software Engineer Intern, Fleet Health Instrumentation](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072) | 93 | McKinney, TX | — | 2026-08-05 |
 | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01863980-1) | 93 | Cedar Rapids, IA | Hardware | 2026-08-04 |
+
+## Salesforce
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer Intern - Future Pathways](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-Intern---Future-Pathways_JR355842) | 93 | Seattle, WA / SF | Software | 2026-08-11 |
 
 ## Samaya
 
@@ -4898,6 +4908,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/sentry/672e2a76-d8e1-49c1-b227-4a189c4e49a1/application?embed=true) | 93 | SF | Software | 2026-08-11 |
 | [Software Engineer, Intern (Summer 2027)](https://jobs.ashbyhq.com/sentry/672e2a76-d8e1-49c1-b227-4a189c4e49a1) | 93 | San Francisco, California | Software / Summer 2027 | 2026-08-11 |
 
 ## Serval
@@ -5001,7 +5012,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Graduate - Client Partners](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Riyadh-Saudi-Arabia/Graduate---Client-Partners_R0046337-1) | 56 | Riyadh, Saudi Arabia | — | 2026-08-08 |
 | [Graduate- Partnerships Associate](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Riyadh-Saudi-Arabia/Graduate--Partnerships-Associate_R0046339-1) | 56 | Riyadh, Saudi Arabia | — | 2026-08-08 |
 
 ## Snowflake
@@ -5753,6 +5763,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](https://university-uber.icims.com/jobs/159161/job?mobile=false&width=1270&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | 85 | San Francisco, CA | — | 2026-07-09 |
+
+## UHY
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data Operations Intern](https://uhyus.wd12.myworkdayjobs.com/uhy/job/Kansas-City-MO/XMLNAME-2027-Data-Operations-Winter-Internship---Kansas-City_JR102226) | 68 | Kansas City, MO | AI/ML/Data | 2026-08-11 |
 
 ## Uline
 

@@ -1498,6 +1498,7 @@
   ],
   "Wayve": [],
   "zshah101 Summer 2027/Fall 2026": [
+    "github-json:zshah101-summer-2027-fall-2026:workday:hp:/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Software-Internship_3167271-2",
     "github-json:zshah101-summer-2027-fall-2026:workday:copart:/job/Dallas-TX---Headquarters/Data-Analytics-Engineer-Intern_JR110584",
     "github-json:zshah101-summer-2027-fall-2026:workday:cccis:/job/Chicago-Green-St-IL/R-D---Data-Science-Internship-Fall-2026_0014841",
     "github-json:zshah101-summer-2027-fall-2026:workday:bah:/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869",
@@ -1916,8 +1917,7 @@
     "3060829"
   ],
   "Snap": [
-    "/job/Riyadh-Saudi-Arabia/Graduate--Partnerships-Associate_R0046339-1",
-    "/job/Riyadh-Saudi-Arabia/Graduate---Client-Partners_R0046337-1"
+    "/job/Riyadh-Saudi-Arabia/Graduate--Partnerships-Associate_R0046339-1"
   ],
   "SimplifyJobs 2026": [
     "simplify:9ee25c43-14d2-48c6-9657-2f9919fc5cbe",
@@ -2743,7 +2743,6 @@
     "simplify:5715d5fe-76a4-46e6-9cea-0b6ab4f8fc11",
     "simplify:a5aa45ee-0926-4b52-be7d-2da9c0da54da",
     "simplify:53663e4c-42be-4d2a-ba0f-ac7a0d65da22",
-    "simplify:2cad125a-155b-4008-b769-930277d26375",
     "simplify:82a4d731-9bcd-4a93-8dda-6d7af0e3b64c",
     "simplify:5b1d76c6-a7ec-4033-afed-6f676bf2129a",
     "simplify:311ec440-4ace-4b64-9b10-5400f36e62ac",
@@ -3040,7 +3039,6 @@
     "simplify:7a398a79-2792-4181-8700-a5fbd8d17e76",
     "simplify:cbd56b83-ba52-4c04-b781-d4ae5e585151",
     "simplify:9ea4299f-1e3a-45fc-b204-aa0870712b23",
-    "simplify:b4f18be0-b5b1-4a3f-9a4d-2854559898b7",
     "simplify:1924d443-3b61-47d4-addf-d6db4308935b",
     "simplify:7d3709c5-eca0-4793-8cbd-bb444a1d8975",
     "simplify:f6c11914-46a2-4cc1-af73-a4ddaa2fd4be",
@@ -3195,7 +3193,6 @@
     "simplify:912eecfa-63a9-49e1-8eaf-4ee42653061e",
     "simplify:7225ea19-19a0-4919-8853-b1621afa60a9",
     "simplify:583fdb8b-7707-41fb-afa9-ce4d972d9bf0",
-    "simplify:0d836d0f-86b0-426e-9d8a-55a68f233a3c",
     "simplify:739b6998-abbe-4971-ac78-5de770dd33b3",
     "simplify:f57a89f7-f1c7-44ac-826b-23f1d9a409cf",
     "simplify:47af09f8-fbb3-4457-8694-17076a62cd06",
@@ -3287,7 +3284,15 @@
     "simplify:f3f9b259-5f4f-4f09-af62-b8d45604be0d",
     "simplify:11790ea3-adf1-4805-b706-783322b07491",
     "simplify:34a18efe-cd13-4293-a683-2e44304e1154",
-    "simplify:aa614bc4-58c3-40d5-a9fb-f5fdbe4a7c43"
+    "simplify:aa614bc4-58c3-40d5-a9fb-f5fdbe4a7c43",
+    "simplify:f26b598d-fb2f-48d8-9e25-00a30de66fed",
+    "simplify:6838ef77-24cf-457a-b01e-3f440a027527",
+    "simplify:4928dfb2-7a20-4da6-8405-a591089e515c",
+    "simplify:f683599d-0ac1-4900-8528-722d0bcfb4c4",
+    "simplify:d01ebc03-05a8-45ae-90cb-8456c83c83e2",
+    "simplify:52ceda8c-4220-45e3-b041-4de25d61aaee",
+    "simplify:072dbf25-7509-499b-9478-b00e9e52963d",
+    "simplify:4165516a-c0f2-4f44-a98a-ad4501fb11ad"
   ],
   "DoorDash": [],
   "Waymo": [
@@ -4215,7 +4220,6 @@
     "simplify:5715d5fe-76a4-46e6-9cea-0b6ab4f8fc11",
     "simplify:a5aa45ee-0926-4b52-be7d-2da9c0da54da",
     "simplify:53663e4c-42be-4d2a-ba0f-ac7a0d65da22",
-    "simplify:2cad125a-155b-4008-b769-930277d26375",
     "simplify:82a4d731-9bcd-4a93-8dda-6d7af0e3b64c",
     "simplify:5b1d76c6-a7ec-4033-afed-6f676bf2129a",
     "simplify:311ec440-4ace-4b64-9b10-5400f36e62ac",
@@ -4512,7 +4516,6 @@
     "simplify:7a398a79-2792-4181-8700-a5fbd8d17e76",
     "simplify:cbd56b83-ba52-4c04-b781-d4ae5e585151",
     "simplify:9ea4299f-1e3a-45fc-b204-aa0870712b23",
-    "simplify:b4f18be0-b5b1-4a3f-9a4d-2854559898b7",
     "simplify:1924d443-3b61-47d4-addf-d6db4308935b",
     "simplify:7d3709c5-eca0-4793-8cbd-bb444a1d8975",
     "simplify:f6c11914-46a2-4cc1-af73-a4ddaa2fd4be",
@@ -4667,7 +4670,6 @@
     "simplify:912eecfa-63a9-49e1-8eaf-4ee42653061e",
     "simplify:7225ea19-19a0-4919-8853-b1621afa60a9",
     "simplify:583fdb8b-7707-41fb-afa9-ce4d972d9bf0",
-    "simplify:0d836d0f-86b0-426e-9d8a-55a68f233a3c",
     "simplify:739b6998-abbe-4971-ac78-5de770dd33b3",
     "simplify:f57a89f7-f1c7-44ac-826b-23f1d9a409cf",
     "simplify:47af09f8-fbb3-4457-8694-17076a62cd06",
@@ -4759,7 +4761,15 @@
     "simplify:f3f9b259-5f4f-4f09-af62-b8d45604be0d",
     "simplify:11790ea3-adf1-4805-b706-783322b07491",
     "simplify:34a18efe-cd13-4293-a683-2e44304e1154",
-    "simplify:aa614bc4-58c3-40d5-a9fb-f5fdbe4a7c43"
+    "simplify:aa614bc4-58c3-40d5-a9fb-f5fdbe4a7c43",
+    "simplify:f26b598d-fb2f-48d8-9e25-00a30de66fed",
+    "simplify:6838ef77-24cf-457a-b01e-3f440a027527",
+    "simplify:4928dfb2-7a20-4da6-8405-a591089e515c",
+    "simplify:f683599d-0ac1-4900-8528-722d0bcfb4c4",
+    "simplify:d01ebc03-05a8-45ae-90cb-8456c83c83e2",
+    "simplify:52ceda8c-4220-45e3-b041-4de25d61aaee",
+    "simplify:072dbf25-7509-499b-9478-b00e9e52963d",
+    "simplify:4165516a-c0f2-4f44-a98a-ad4501fb11ad"
   ],
   "Wintermute": [],
   "QCP": [

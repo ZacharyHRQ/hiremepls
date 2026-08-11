@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-11T22:59:42.931Z",
+  "generatedAt": "2026-08-11T23:42:03.420Z",
   "companyCount": 179,
   "okCount": 179,
-  "jobCount": 2008,
+  "jobCount": 2012,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1055,7 +1055,6 @@
     "canonical:30f01c8d81337167": "2026-07-24T09:30:50.304Z",
     "canonical:3e44d1caac82dc94": "2026-07-24T09:30:50.304Z",
     "canonical:d6ac202f67cdb97c": "2026-07-24T09:30:50.304Z",
-    "canonical:fc0d630e0237c20e": "2026-07-24T11:21:51.310Z",
     "canonical:b7e2b2dbebb1a7cb": "2026-07-24T16:38:46.477Z",
     "canonical:e8674cce6188dff6": "2026-07-24T19:11:20.088Z",
     "canonical:73f70898682998f4": "2026-07-24T19:11:20.088Z",
@@ -1645,7 +1644,6 @@
     "canonical:dd330df63152542e": "2026-08-04T22:51:33.061Z",
     "canonical:24bc6528e0437c46": "2026-08-04T22:51:33.061Z",
     "canonical:382e5e21383853e9": "2026-08-04T22:51:33.061Z",
-    "canonical:a39684f8652a0a73": "2026-08-04T22:51:33.061Z",
     "canonical:aef5b67e297164a0": "2026-08-04T22:51:33.061Z",
     "canonical:1397ff60cc88bfb6": "2026-08-04T23:53:58.307Z",
     "canonical:7d316eb6f1b4b690": "2026-08-04T23:53:58.307Z",
@@ -1839,7 +1837,6 @@
     "canonical:346cea3ad7b894ed": "2026-08-08T02:49:42.619Z",
     "canonical:c153bd5ef8789cba": "2026-08-08T02:49:42.619Z",
     "canonical:4d5f67728d4d467a": "2026-08-08T09:07:22.360Z",
-    "canonical:d68411deab859a50": "2026-08-08T09:07:22.360Z",
     "canonical:669cf21fa7895579": "2026-08-08T09:07:22.360Z",
     "canonical:096966ca116f0d67": "2026-08-08T10:20:29.819Z",
     "canonical:523334f852948e02": "2026-08-08T10:56:46.452Z",
@@ -1901,7 +1898,6 @@
     "canonical:f4cf53d4de386dc0": "2026-08-10T19:39:37.264Z",
     "canonical:3e61bd7d54d1d13a": "2026-08-10T19:39:37.264Z",
     "canonical:fb4a52ca0748c177": "2026-08-10T19:39:37.264Z",
-    "canonical:4b54445cf163a129": "2026-08-10T19:39:37.264Z",
     "canonical:c6ec15da7fab7b1f": "2026-08-10T19:39:37.264Z",
     "canonical:813f40c359ee0159": "2026-08-10T19:39:37.264Z",
     "canonical:29b71bf37785be78": "2026-08-10T19:39:37.264Z",
@@ -2011,7 +2007,15 @@
     "canonical:1b47510526da261b": "2026-08-11T22:59:42.931Z",
     "canonical:c72c0f5c70a9162d": "2026-08-11T22:59:42.931Z",
     "canonical:dd0ed1328dc77054": "2026-08-11T22:59:42.931Z",
-    "canonical:ddb21727e49634e8": "2026-08-11T22:59:42.931Z"
+    "canonical:ddb21727e49634e8": "2026-08-11T22:59:42.931Z",
+    "canonical:67046daa9ba025ff": "2026-08-11T23:42:03.420Z",
+    "canonical:550ca4cc0a849f15": "2026-08-11T23:42:03.420Z",
+    "canonical:3f886b547dceda76": "2026-08-11T23:42:03.420Z",
+    "canonical:2cb384fafac553c6": "2026-08-11T23:42:03.420Z",
+    "canonical:e6ef445f8cf42903": "2026-08-11T23:42:03.420Z",
+    "canonical:672531f86f6d39cd": "2026-08-11T23:42:03.420Z",
+    "canonical:478aa2a2382213af": "2026-08-11T23:42:03.420Z",
+    "canonical:186a1e462ba54815": "2026-08-11T23:42:03.420Z"
   },
   "jobs": [
     {
@@ -6900,18 +6904,6 @@
       "id": "canonical:4d5f67728d4d467a",
       "title": "Graduate- Partnerships Associate",
       "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Riyadh-Saudi-Arabia/Graduate--Partnerships-Associate_R0046339-1",
-      "location": "Riyadh, Saudi Arabia",
-      "department": "",
-      "company": "Snap",
-      "score": 56,
-      "scoreReasons": [
-        "new grad"
-      ]
-    },
-    {
-      "id": "canonical:d68411deab859a50",
-      "title": "Graduate - Client Partners",
-      "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Riyadh-Saudi-Arabia/Graduate---Client-Partners_R0046337-1",
       "location": "Riyadh, Saudi Arabia",
       "department": "",
       "company": "Snap",
@@ -17483,19 +17475,6 @@
       ]
     },
     {
-      "id": "canonical:fc0d630e0237c20e",
-      "title": "AI Data Solutions Intern - Data Partnerships",
-      "url": "https://jobs.ashbyhq.com/mistral.ai/60fcc44d-4d96-469d-a96c-d6a9bbfe8edd/application?embed=true",
-      "location": "Palo Alto, CA",
-      "department": "AI/ML/Data",
-      "company": "Mistral AI",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:6341b083656cfe26",
       "title": "Equity Trader Intern",
       "url": "https://www.trlm.com/apply/5076003007?gh_jid=5076003007",
@@ -20894,18 +20873,6 @@
       ]
     },
     {
-      "id": "canonical:a39684f8652a0a73",
-      "title": "Optical Verification Technician Co-op Intern",
-      "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-VerificationTechnician-Intern-Co-op_20261049",
-      "location": "Ottawa, ON, Canada",
-      "department": "Hardware",
-      "company": "Lumentum",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:d7be8ed4523d36c1",
       "title": "Graduate Statistical Analysis Intern - Regional & Community Outreach",
       "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Boston-MA/Graduate-Intern---Statistical-Analysis_R-0000032931",
@@ -22666,19 +22633,6 @@
       ]
     },
     {
-      "id": "canonical:4b54445cf163a129",
-      "title": "Technology Intern - Innovation",
-      "url": "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Innovation-_REQ-10119619",
-      "location": "NYC",
-      "department": "Software",
-      "company": "ING",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:c6ec15da7fab7b1f",
       "title": "AI RAN Telecommunications Engineer Intern",
       "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415",
@@ -23826,6 +23780,96 @@
         "SWE-aligned",
         "high-signal role",
         "new grad",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:67046daa9ba025ff",
+      "title": "Quantitative Researcher Intern",
+      "url": "https://www.quantbot.com/careers/4299863009?gh_jid=4299863009",
+      "location": "London, UK",
+      "department": "Quant",
+      "company": "Quantbot Technologies",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:550ca4cc0a849f15",
+      "title": "Data Trading Analyst Intern - Data Trading Lab",
+      "url": "https://www.quantbot.com/careers/4299858009?gh_jid=4299858009",
+      "location": "London, UK",
+      "department": "Quant",
+      "company": "Quantbot Technologies",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:3f886b547dceda76",
+      "title": "Data Operations Intern",
+      "url": "https://uhyus.wd12.myworkdayjobs.com/uhy/job/Kansas-City-MO/XMLNAME-2027-Data-Operations-Winter-Internship---Kansas-City_JR102226",
+      "location": "Kansas City, MO",
+      "department": "AI/ML/Data",
+      "company": "UHY",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:2cb384fafac553c6",
+      "title": "Software Engineer Intern - Future Pathways",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-Intern---Future-Pathways_JR355842",
+      "location": "Seattle, WA / SF",
+      "department": "Software",
+      "company": "Salesforce",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:e6ef445f8cf42903",
+      "title": "Electro-Optical Systems Technician Intern - AN/ZSQ-2",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-KY-FORT-CAMPBELL-7228NS-CUST--7228-Nightstalker-Wy--BLDG-6882-Rm-210-External-Site/SkillBridge--AN-ZSQ-2-Electro-Optical-Systems-Depot-Technician-Intern_01865923",
+      "location": "Fort Campbell, KY",
+      "department": "Hardware",
+      "company": "RTX",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:672531f86f6d39cd",
+      "title": "Data Analyst Intern",
+      "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oecDAfwn?nl=1&nl=1&fr=false",
+      "location": "NYC",
+      "department": "AI/ML/Data",
+      "company": "Metropolitan Transportation Authority",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:478aa2a2382213af",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://jobs.ashbyhq.com/sentry/672e2a76-d8e1-49c1-b227-4a189c4e49a1/application?embed=true",
+      "location": "SF",
+      "department": "Software",
+      "company": "Sentry",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
         "direct ATS"
       ]
     },
@@ -27030,6 +27074,19 @@
       "score": 42,
       "scoreReasons": [
         "aggregator link"
+      ]
+    },
+    {
+      "id": "canonical:186a1e462ba54815",
+      "title": "Enterprise Operations Software Internship",
+      "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Software-Internship_3167271-2",
+      "location": "Spring, Texas, United States of America",
+      "department": "Software / Summer 2027",
+      "company": "Hewlett Packard (HP)",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
