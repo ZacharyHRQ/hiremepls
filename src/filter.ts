@@ -13,13 +13,14 @@ export function isInternship(job: Job): boolean {
 }
 
 const SWE_ROLE_PATTERNS = [
-  /\b(software|swe|backend|back[- ]end|frontend|front[- ]end|fullstack|full[- ]stack|infrastructure|platform|devops|sre|systems?|distributed|networks?|security|mobile|ios|android|web|game|gameplay|graphics|firmware|embedded|robotics|controls)\b/i,
+  /\b(software|swe|backend|back[- ]end|frontend|front[- ]end|fullstack|full[- ]stack|infrastructure|platform|devops|sre|systems?|distributed|networks?|security|mobile|ios|android|web|game|gameplay|graphics|firmware|embedded|robotics|controls|cloud)\b/i,
   /\b(machine[- ]learning|deep[- ]learning|reinforcement[- ]learning|computer[- ]vision|nlp|natural[- ]language|ml|ai|llm|generative|data|analytics|research)\b/i,
   /\b(quant(itative)?|algorithmic|hft|low[- ]latency)\b/i,
+  /\bforward[- ]deploy(ed)?\b/i,
 ];
 
 const SWE_TITLE_PATTERNS = [
-  /\b(engineer|developer|programmer|architect|scientist|researcher|sde|swe)\b/i,
+  /\b(engineer(ing)?|developer|dev|programmer|architect|scientist|researcher|sde|swe)\b/i,
 ];
 
 const SWE_EXPLICIT_PATTERNS = [
@@ -28,6 +29,11 @@ const SWE_EXPLICIT_PATTERNS = [
   /\bml\s+engineer\b/i,
   /\bdata\s+(scientist|engineer)\b/i,
   /\b(backend|frontend|fullstack)\b/i,
+  /\bfull[- ]stack\s+engineer\b/i,
+  /\bcloud\s+engineer\b/i,
+  /\bforward[- ]deploy(ed)?\s+engineer\b/i,
+  /\bapplied\s+ai\b/i,
+  /\bquant(itative)?\s+dev(eloper)?\b/i,
 ];
 
 const NON_SWE_PATTERNS = [
