@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T14:41:28.509Z",
+  "generatedAt": "2026-08-11T15:36:25.817Z",
   "companyCount": 179,
   "okCount": 179,
   "jobCount": 1981,
@@ -1103,7 +1103,6 @@
     "canonical:0a79a60ca311db6f": "2026-07-28T10:01:49.734Z",
     "canonical:546e92533d8e6aa0": "2026-07-28T10:01:49.734Z",
     "canonical:4f446bcf3e9c0164": "2026-07-28T10:01:49.734Z",
-    "canonical:9c6369aa9ae3c803": "2026-07-28T10:01:49.734Z",
     "canonical:2a062b2f648469bd": "2026-07-28T10:01:49.734Z",
     "canonical:df49585228e5d6c4": "2026-07-28T10:01:49.734Z",
     "canonical:afd06236a322ba10": "2026-07-28T10:01:49.734Z",
@@ -1984,7 +1983,8 @@
     "canonical:38b6456c27b7457d": "2026-08-11T13:37:56.774Z",
     "canonical:00d29f26aecf4ff5": "2026-08-11T14:41:28.509Z",
     "canonical:f53e3e132520eb19": "2026-08-11T14:41:28.509Z",
-    "canonical:c08d254cc9bce08d": "2026-08-11T14:41:28.509Z"
+    "canonical:c08d254cc9bce08d": "2026-08-11T14:41:28.509Z",
+    "canonical:fa2a16c4cf3e72d6": "2026-08-11T15:36:25.817Z"
   },
   "jobs": [
     {
@@ -2531,10 +2531,10 @@
       ]
     },
     {
-      "id": "canonical:d1d20c5456576574",
+      "id": "canonical:adc1bdd879675b5a",
       "title": "Campus Data Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
-      "location": "Chicago",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7975008",
+      "location": "London",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -2544,10 +2544,10 @@
       ]
     },
     {
-      "id": "canonical:adc1bdd879675b5a",
+      "id": "canonical:d1d20c5456576574",
       "title": "Campus Data Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7975008",
-      "location": "London",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
+      "location": "Chicago",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -2603,10 +2603,10 @@
       ]
     },
     {
-      "id": "canonical:748b9a19eca0fd1b",
+      "id": "canonical:51b92253e4e72e9b",
       "title": "Campus Quantitative Researcher (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8010307",
-      "location": "London; Amsterdam",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027939",
+      "location": "Singapore",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -2616,10 +2616,10 @@
       ]
     },
     {
-      "id": "canonical:51b92253e4e72e9b",
+      "id": "canonical:748b9a19eca0fd1b",
       "title": "Campus Quantitative Researcher (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027939",
-      "location": "Singapore",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8010307",
+      "location": "London; Amsterdam",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -2730,10 +2730,10 @@
       ]
     },
     {
-      "id": "canonical:4d567555739a50bd",
+      "id": "canonical:eea417b083785298",
       "title": "Campus Systems Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
-      "location": "Singapore",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
+      "location": "London; Amsterdam",
       "department": "",
       "company": "Jump Trading",
       "score": 75,
@@ -2742,10 +2742,10 @@
       ]
     },
     {
-      "id": "canonical:eea417b083785298",
+      "id": "canonical:4d567555739a50bd",
       "title": "Campus Systems Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
-      "location": "London; Amsterdam",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
+      "location": "Singapore",
       "department": "",
       "company": "Jump Trading",
       "score": 75,
@@ -2818,10 +2818,10 @@
       ]
     },
     {
-      "id": "canonical:2bc4df178e85b4f6",
+      "id": "canonical:1f361269ec79c7b7",
       "title": "FPGA Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/8038923",
-      "location": "Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/8070392",
+      "location": "London, UK",
       "department": "Hardware",
       "company": "DRW",
       "score": 58,
@@ -2830,10 +2830,10 @@
       ]
     },
     {
-      "id": "canonical:1f361269ec79c7b7",
+      "id": "canonical:2bc4df178e85b4f6",
       "title": "FPGA Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/8070392",
-      "location": "London, UK",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/8038923",
+      "location": "Chicago, IL",
       "department": "Hardware",
       "company": "DRW",
       "score": 58,
@@ -2894,11 +2894,11 @@
       ]
     },
     {
-      "id": "canonical:8c7dcade35ccab5b",
+      "id": "canonical:03ff9719f5d57641",
       "title": "Quantitative Research Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957756",
-      "location": "London, UK",
-      "department": "Quant",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7818540",
+      "location": "Chicago, New York City",
+      "department": "Quant / Not stated",
       "company": "DRW",
       "score": 68,
       "scoreReasons": [
@@ -2907,11 +2907,11 @@
       ]
     },
     {
-      "id": "canonical:03ff9719f5d57641",
+      "id": "canonical:8c7dcade35ccab5b",
       "title": "Quantitative Research Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7818540",
-      "location": "Chicago, New York City",
-      "department": "Quant / Not stated",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957756",
+      "location": "London, UK",
+      "department": "Quant",
       "company": "DRW",
       "score": 68,
       "scoreReasons": [
@@ -2972,34 +2972,6 @@
       ]
     },
     {
-      "id": "canonical:f9963438d881a851",
-      "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
-      "location": "Amsterdam",
-      "department": "",
-      "company": "DRW",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:bd72b8a6944f6777",
-      "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
-      "location": "London, UK",
-      "department": "Software",
-      "company": "DRW",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:1d41c103b87b651a",
       "title": "Software Developer Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
@@ -3018,6 +2990,34 @@
       "title": "Software Developer Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
       "location": "Montreal, QC, Canada",
+      "department": "Software",
+      "company": "DRW",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f9963438d881a851",
+      "title": "Software Developer Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
+      "location": "Amsterdam",
+      "department": "",
+      "company": "DRW",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:bd72b8a6944f6777",
+      "title": "Software Developer Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
+      "location": "London, UK",
       "department": "Software",
       "company": "DRW",
       "score": 93,
@@ -3223,8 +3223,10 @@
       "location": "Greenwich, CT",
       "department": "",
       "company": "AQR",
-      "score": 50,
-      "scoreReasons": []
+      "score": 75,
+      "scoreReasons": [
+        "SWE-aligned"
+      ]
     },
     {
       "id": "canonical:511cc84f2a685b38",
@@ -3396,10 +3398,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -3410,10 +3412,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -3707,8 +3709,9 @@
       "location": "New York, NY",
       "department": "",
       "company": "PDT Partners",
-      "score": 58,
+      "score": 83,
       "scoreReasons": [
+        "SWE-aligned",
         "direct ATS"
       ]
     },
@@ -4980,8 +4983,9 @@
       "location": "Bellevue; Boulder; Denver; Irvine; New York; Seattle",
       "department": "Software / Summer 2027",
       "company": "The Trade Desk",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -6807,8 +6811,9 @@
       "location": "Beijing",
       "department": "Systems, Quality, & Security Engineering",
       "company": "Amazon",
-      "score": 60,
+      "score": 85,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -6932,20 +6937,6 @@
       "id": "canonical:4f446bcf3e9c0164",
       "title": "Software Engineer, AI Platform - New Grad",
       "url": "https://nuro.ai/careersitem?gh_jid=7351066",
-      "location": "Mountain View, California (HQ)",
-      "department": "",
-      "company": "Nuro",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad"
-      ]
-    },
-    {
-      "id": "canonical:9c6369aa9ae3c803",
-      "title": "Software Engineer, Performance - New Grad",
-      "url": "https://nuro.ai/careersitem?gh_jid=6972272",
       "location": "Mountain View, California (HQ)",
       "department": "",
       "company": "Nuro",
@@ -7412,7 +7403,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -7436,7 +7427,7 @@
     {
       "id": "canonical:1a056010d15d11c7",
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -7620,8 +7611,9 @@
       "location": "New York, NY / San Francisco, CA",
       "department": "Engineering",
       "company": "Modal",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -7843,8 +7835,9 @@
       "location": "San Francisco, CA",
       "department": "Hardware Engineering",
       "company": "Capella",
-      "score": 60,
+      "score": 85,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -7855,8 +7848,9 @@
       "location": "San Jose, CA",
       "department": "Software Engineering",
       "company": "ASML",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -7868,8 +7862,9 @@
       "location": "Fort Wayne, IN",
       "department": "Software Engineering",
       "company": "BAE Systems",
-      "score": 60,
+      "score": 85,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -7880,8 +7875,9 @@
       "location": "Louisville, CO",
       "department": "Hardware Engineering",
       "company": "Capella",
-      "score": 60,
+      "score": 85,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -7945,8 +7941,9 @@
       "location": "Houston, TX",
       "department": "Software Engineering",
       "company": "The Exploration Company",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -8026,8 +8023,9 @@
       "location": "Dallas, TX",
       "department": "Software",
       "company": "Copart",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -8052,8 +8050,9 @@
       "location": "Germantown, MD",
       "department": "Software Engineering",
       "company": "AeroVironment",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -8065,8 +8064,9 @@
       "location": "Seattle, WA",
       "department": "Software Engineering",
       "company": "MCG Health",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -8183,8 +8183,9 @@
       "location": "Pittsburgh, PA",
       "department": "AI/ML/Data",
       "company": "Cadence Design Systems",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -8365,8 +8366,9 @@
       "location": "Remote in Canada",
       "department": "AI/ML/Data",
       "company": "Cresta",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -8378,8 +8380,9 @@
       "location": "Rapid City, SD",
       "department": "AI/ML/Data",
       "company": "RESPEC",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -8455,8 +8458,9 @@
       "location": "NYC",
       "department": "Software",
       "company": "Auctor",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -8817,8 +8821,9 @@
       "location": "San Francisco, CA",
       "department": "Software Engineering",
       "company": "Multiply Labs",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -8830,8 +8835,9 @@
       "location": "San Francisco, CA",
       "department": "Software Engineering",
       "company": "Multiply Labs",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -9024,8 +9030,9 @@
       "location": "State College, PA",
       "department": "Software",
       "company": "PennState University",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -9037,8 +9044,9 @@
       "location": "Milwaukee, WI",
       "department": "AI/ML/Data",
       "company": "Marmon Holdings",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -9063,8 +9071,9 @@
       "location": "Milwaukee, WI",
       "department": "Software",
       "company": "Marmon Holdings",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -9171,8 +9180,9 @@
       "location": "Atlanta, GA",
       "department": "Hardware Engineering",
       "company": "Hermeus",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -9235,8 +9245,9 @@
       "location": "New York, NY",
       "department": "Data Science, AI & Machine Learning",
       "company": "Internship",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -9248,8 +9259,9 @@
       "location": "Midland, TX / Houston, TX / Fort Lupton, CO / Morton, TX / Denver, CO",
       "department": "AI/ML/Data",
       "company": "Occidental Petroleum",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -9283,8 +9295,9 @@
       "location": "Edgewood, MD",
       "department": "Software Engineering",
       "company": "Smiths Detection",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -9455,8 +9468,9 @@
       "location": "Vancouver, WA",
       "department": "Software Engineering",
       "company": "Digs",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -9554,8 +9568,9 @@
       "location": "Santa Clara, CA",
       "department": "AI/ML/Data",
       "company": "Applied Materials",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -9619,8 +9634,9 @@
       "location": "Atlanta, GA",
       "department": "Software",
       "company": "Hermeus",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -9673,8 +9689,9 @@
       "location": "Hillsboro, OR",
       "department": "Software",
       "company": "Thermo Fisher Scientific",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -9686,8 +9703,9 @@
       "location": "Norcross, GA",
       "department": "Hardware",
       "company": "SoloPulse",
-      "score": 58,
+      "score": 83,
       "scoreReasons": [
+        "SWE-aligned",
         "direct ATS"
       ]
     },
@@ -9737,8 +9755,9 @@
       "location": "Venice, CA",
       "department": "Software Engineering",
       "company": "Omnis",
-      "score": 60,
+      "score": 85,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -9828,8 +9847,9 @@
       "location": "SF",
       "department": "AI/ML/Data",
       "company": "Workato",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -9841,8 +9861,9 @@
       "location": "Lincoln, NE",
       "department": "Software Engineering",
       "company": "Sandhills Global",
-      "score": 60,
+      "score": 85,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -9992,8 +10013,9 @@
       "location": "London, UK",
       "department": "Software",
       "company": "Tencent",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -10121,8 +10143,9 @@
       "location": "Phoenix, AZ",
       "department": "Software",
       "company": "ASM International",
-      "score": 60,
+      "score": 85,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -10172,8 +10195,9 @@
       "location": "Ardmore, PA",
       "department": "Quant",
       "company": "Susquehanna International Group (SIG)",
-      "score": 60,
+      "score": 85,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -10197,8 +10221,9 @@
       "location": "Charlotte, NC / Boulder, CO",
       "department": "Software",
       "company": "TIFIN",
-      "score": 60,
+      "score": 85,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -10275,8 +10300,9 @@
       "location": "Hillsboro, OR / Folsom, CA",
       "department": "Hardware",
       "company": "Intel",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -10301,8 +10327,9 @@
       "location": "Boston, MA",
       "department": "Software Engineering",
       "company": "Axiomatic AI",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -10314,8 +10341,9 @@
       "location": "Boston, MA",
       "department": "Software Engineering",
       "company": "Axiomatic AI",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -10327,8 +10355,9 @@
       "location": "El Segundo, CA",
       "department": "Software Engineering",
       "company": "Rainmaker",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -10340,8 +10369,9 @@
       "location": "San Francisco, CA / Austin, TX",
       "department": "Software Engineering",
       "company": "Atomic Semi",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -10519,8 +10549,9 @@
       "location": "Ann Arbor, MI",
       "department": "AI/ML/Data",
       "company": "KLA",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -11090,8 +11121,9 @@
       "location": "United States",
       "department": "Software",
       "company": "Apple",
-      "score": 60,
+      "score": 85,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -11718,8 +11750,9 @@
       "location": "Annapolis Junction, MD",
       "department": "Hardware",
       "company": "Nightwing Intelligence Solutions",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -11985,8 +12018,9 @@
       "location": "Palo Alto, CA",
       "department": "Software",
       "company": "Tesla",
-      "score": 60,
+      "score": 85,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -12194,8 +12228,9 @@
       "location": "Palo Alto, CA",
       "department": "AI/ML/Data",
       "company": "Tesla",
-      "score": 60,
+      "score": 85,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -12472,8 +12507,9 @@
       "location": "Palo Alto, CA",
       "department": "AI/ML/Data",
       "company": "Rivian and Volkswagen Group Technologies",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -12987,8 +13023,9 @@
       "location": "St. Louis, MO",
       "department": "AI/ML/Data",
       "company": "Core & Main",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -13075,8 +13112,9 @@
       "location": "Alexandria, VA",
       "department": "Software Engineering",
       "company": "SimonComputing",
-      "score": 60,
+      "score": 85,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -13100,8 +13138,9 @@
       "location": "Irvine, CA / Palo Alto, CA",
       "department": "Software Engineering",
       "company": "Rivian and Volkswagen Group Technologies",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -13113,8 +13152,9 @@
       "location": "Scottsdale, AZ",
       "department": "Software Engineering",
       "company": "Sandhills Global",
-      "score": 60,
+      "score": 85,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -13125,8 +13165,9 @@
       "location": "Lehi, UT",
       "department": "Software Engineering",
       "company": "Mindsmith",
-      "score": 60,
+      "score": 85,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -13150,8 +13191,9 @@
       "location": "Sunnyvale, CA",
       "department": "Software Engineering",
       "company": "HARMAN",
-      "score": 60,
+      "score": 85,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -13175,8 +13217,9 @@
       "location": "Atlanta, GA",
       "department": "Data Science, AI & Machine Learning",
       "company": "Delta Air Lines",
-      "score": 60,
+      "score": 85,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -13658,8 +13701,9 @@
       "location": "Dahlgren, VA",
       "department": "AI/ML/Data",
       "company": "The Tatitlek Corporation",
-      "score": 60,
+      "score": 85,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -14142,8 +14186,9 @@
       "location": "Toronto, ON, Canada / SF",
       "department": "AI/ML/Data",
       "company": "Human Computer Lab",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -14329,8 +14374,9 @@
       "location": "Arlington, VA",
       "department": "AI/ML/Data",
       "company": "Arlington County VA",
-      "score": 60,
+      "score": 85,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -14382,8 +14428,9 @@
       "location": "San Bruno, CA",
       "department": "AI/ML/Data",
       "company": "Verne Robotics",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -14602,8 +14649,9 @@
       "location": "NYC",
       "department": "Software",
       "company": "Jane Street",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -14818,8 +14866,9 @@
       "location": "Remote in USA",
       "department": "AI/ML/Data",
       "company": "Hone Health",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -15101,8 +15150,9 @@
       "location": "NYC",
       "department": "AI/ML/Data",
       "company": "Octaura",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -15348,8 +15398,9 @@
       "location": "Houston, TX / Pensacola, FL",
       "department": "Software",
       "company": "Persona AI",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -15361,8 +15412,9 @@
       "location": "NYC",
       "department": "AI/ML/Data",
       "company": "Jane Street",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -15713,8 +15765,9 @@
       "location": "San Diego, CA",
       "department": "Software",
       "company": "Solar Turbines",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -15841,8 +15894,9 @@
       "location": "Remote in USA",
       "department": "AI/ML/Data",
       "company": "Ensemble Health Partners",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -15985,8 +16039,9 @@
       "location": "Chicago, IL",
       "department": "Software",
       "company": "Chicago Trading Company",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -16472,8 +16527,9 @@
       "location": "SF",
       "department": "AI/ML/Data",
       "company": "Eragon",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -16721,8 +16777,9 @@
       "location": "Germantown, MD / Seattle, WA / Houston, TX / New Orleans, LA / Long Beach, CA / Newburgh, NY / Mesa, AZ / Miami, FL / Colorado Springs, CO / Fairfax, VA / Philadelphia, PA / Merritt Island, FL / Seal Beach, CA / Tukwila, WA / St Charles, MO / San Antonio, TX / St. Louis, MO / Everett, WA / Auburn, WA / Ridgecrest, CA / Heath, OH / Fort Walton Beach, FL / Oklahoma City, OK / Kent, WA / Portland, OR / Huntsville, AL / North Charleston, SC / Huntington Beach, CA / Hazelwood, MO / El Segundo, CA",
       "department": "Software",
       "company": "The Boeing Company",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -16782,8 +16839,9 @@
       "location": "Boston, MA / Seattle, WA",
       "department": "Software",
       "company": "Axon",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -17013,8 +17071,9 @@
       "location": "London, UK",
       "department": "AI/ML/Data",
       "company": "Castleton Commodities International",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -17026,8 +17085,9 @@
       "location": "Houston, TX / Stamford, CT / NYC",
       "department": "AI/ML/Data",
       "company": "Castleton Commodities International",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -17401,8 +17461,9 @@
       "location": "NYC",
       "department": "Software",
       "company": "Quadrillion",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -17529,8 +17590,9 @@
       "location": "State College, PA",
       "department": "Software",
       "company": "Pennsylvania State University",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -17723,8 +17785,9 @@
       "location": "Boston, MA / Seattle, WA",
       "department": "Hardware",
       "company": "Axon",
-      "score": 58,
+      "score": 83,
       "scoreReasons": [
+        "SWE-aligned",
         "direct ATS"
       ]
     },
@@ -18734,8 +18797,9 @@
       "location": "United States",
       "department": "Software",
       "company": "k-ID",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -19914,8 +19978,9 @@
       "location": "Beverly Hills, CA",
       "department": "Software",
       "company": "StudyFetch",
-      "score": 60,
+      "score": 85,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -20110,8 +20175,9 @@
       "location": "SF",
       "department": "Software",
       "company": "Samsara",
-      "score": 60,
+      "score": 85,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -20135,8 +20201,9 @@
       "location": "London, UK",
       "department": "Software",
       "company": "Samsara",
-      "score": 60,
+      "score": 85,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -20147,8 +20214,9 @@
       "location": "Palo Alto, CA / Bastrop, TX / Irvine, CA / Cape Canaveral, FL / Brownsville, TX / Redmond, WA / McGregor, TX / Hawthorne, CA",
       "department": "Software",
       "company": "SpaceX",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -20278,8 +20346,9 @@
       "location": "Palo Alto, CA / San Diego, CA",
       "department": "AI/ML/Data",
       "company": "Tesla",
-      "score": 60,
+      "score": 85,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -20303,8 +20372,9 @@
       "location": "Houston, TX",
       "department": "Software",
       "company": "Microchip Technology",
-      "score": 60,
+      "score": 85,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -21042,8 +21112,9 @@
       "location": "Fargo, ND",
       "department": "Software",
       "company": "John Deere",
-      "score": 60,
+      "score": 85,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -21675,8 +21746,9 @@
       "location": "San Ramon, CA",
       "department": "Software",
       "company": "Schweitzer Engineering Laboratories",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -21820,8 +21892,9 @@
       "location": "Cambridge, UK",
       "department": "AI/ML/Data",
       "company": "Luminance",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -22132,8 +22205,9 @@
       "location": "Washington, DC",
       "department": "Software",
       "company": "The Nuclear Company",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -22172,8 +22246,9 @@
       "location": "Washington, DC",
       "department": "Software",
       "company": "The Nuclear Company",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -22952,8 +23027,9 @@
       "location": "Austin, TX",
       "department": "Software",
       "company": "Deloitte",
-      "score": 60,
+      "score": 85,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -23627,8 +23703,9 @@
       "location": "San Francisco, CA",
       "department": "",
       "company": "Atomic Semi",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -23640,8 +23717,9 @@
       "location": "Boston, MA / New York, NY",
       "department": "",
       "company": "Datadog",
-      "score": 60,
+      "score": 85,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -23652,8 +23730,10 @@
       "location": "Remote / Canada",
       "department": "",
       "company": "Shopify",
-      "score": 50,
-      "scoreReasons": []
+      "score": 75,
+      "scoreReasons": [
+        "SWE-aligned"
+      ]
     },
     {
       "id": "canonical:74d90c6f4f2b8bc1",
@@ -23700,8 +23780,9 @@
       "location": "Remote",
       "department": "",
       "company": "ETHGlobal",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -23799,8 +23880,9 @@
       "location": "Palo Alto, CA",
       "department": "",
       "company": "Rivian and Volkswagen Group Technologies",
-      "score": 60,
+      "score": 85,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -23824,8 +23906,10 @@
       "location": "Palo Alto, CA",
       "department": "",
       "company": "Rivian and Volkswagen Group Technologies",
-      "score": 50,
-      "scoreReasons": []
+      "score": 75,
+      "scoreReasons": [
+        "SWE-aligned"
+      ]
     },
     {
       "id": "canonical:85e8bbf185683405",
@@ -23834,8 +23918,9 @@
       "location": "San Francisco, CA",
       "department": "",
       "company": "Sixtyfour (X25)",
-      "score": 66,
+      "score": 91,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "YC job"
       ]
@@ -23847,8 +23932,9 @@
       "location": "San Mateo, CA",
       "department": "",
       "company": "EdgeTrace",
-      "score": 56,
+      "score": 81,
       "scoreReasons": [
+        "SWE-aligned",
         "YC job"
       ]
     },
@@ -23909,8 +23995,9 @@
       "location": "Universal City, CA",
       "department": "",
       "company": "NBCUniversal",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -23922,8 +24009,9 @@
       "location": "New York, NY",
       "department": "",
       "company": "NBCUniversal",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -24043,8 +24131,9 @@
       "location": "Austin, TX / San Francisco, CA",
       "department": "",
       "company": "Atomic Semi",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -24108,8 +24197,9 @@
       "location": "Houston, TX / San Francisco, CA",
       "department": "",
       "company": "Homebase",
-      "score": 58,
+      "score": 83,
       "scoreReasons": [
+        "SWE-aligned",
         "direct ATS"
       ]
     },
@@ -24199,8 +24289,9 @@
       "location": "San Jose, CA",
       "department": "",
       "company": "Veeam Software",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -24251,8 +24342,9 @@
       "location": "San Francisco, CA",
       "department": "",
       "company": "Uber",
-      "score": 60,
+      "score": 85,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -24263,8 +24355,9 @@
       "location": "San Francisco, CA",
       "department": "",
       "company": "Dedalus Labs",
-      "score": 56,
+      "score": 81,
       "scoreReasons": [
+        "SWE-aligned",
         "YC job"
       ]
     },
@@ -24275,8 +24368,9 @@
       "location": "New York, NY",
       "department": "",
       "company": "DimeHealth AI",
-      "score": 56,
+      "score": 81,
       "scoreReasons": [
+        "SWE-aligned",
         "YC job"
       ]
     },
@@ -24299,8 +24393,9 @@
       "location": "San Francisco, CA",
       "department": "",
       "company": "Paragon",
-      "score": 56,
+      "score": 81,
       "scoreReasons": [
+        "SWE-aligned",
         "YC job"
       ]
     },
@@ -24311,8 +24406,9 @@
       "location": "Los Angeles",
       "department": "",
       "company": "Apex Technology, Inc.",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -24350,8 +24446,9 @@
       "location": "San Francisco, CA",
       "department": "",
       "company": "Terranox AI",
-      "score": 66,
+      "score": 91,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "YC job"
       ]
@@ -24363,8 +24460,9 @@
       "location": "San Francisco, CA",
       "department": "",
       "company": "Abundant",
-      "score": 66,
+      "score": 91,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "YC job"
       ]
@@ -24404,8 +24502,9 @@
       "location": "San Francisco, CA",
       "department": "",
       "company": "Nash",
-      "score": 56,
+      "score": 81,
       "scoreReasons": [
+        "SWE-aligned",
         "YC job"
       ]
     },
@@ -24416,8 +24515,10 @@
       "location": "Bala Cynwyd, PA",
       "department": "",
       "company": "Susquehanna",
-      "score": 50,
-      "scoreReasons": []
+      "score": 75,
+      "scoreReasons": [
+        "SWE-aligned"
+      ]
     },
     {
       "id": "canonical:662cd93e03a48f7c",
@@ -24475,8 +24576,9 @@
       "location": "United States",
       "department": "",
       "company": "Apple",
-      "score": 60,
+      "score": 85,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -24642,8 +24744,9 @@
       "location": "Los Angeles, CA",
       "department": "",
       "company": "VITAL LYFE",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -24655,8 +24758,9 @@
       "location": "Mountain View, CA / Atlanta, GA / Austin, TX / Boulder, CO / Cambridge, MA / Bellevue, WA / Chicago, IL / Houston, TX / Irvine, CA / Kirkland, WA / Los Angeles, CA / Madison, WI / New York, NY / Palo Alto, CA / Portland, OR / Pittsburgh, PA / Raleigh, NC / Durham, NC / Reston, VA / Redmond, WA / Redwood City, CA / San Diego, CA / Goleta, CA / San Bruno, CA / Seattle, WA / San Francisco, CA / San Jose, CA / Santa Cruz, CA / South San Francisco, CA / Sunnyvale, CA",
       "department": "",
       "company": "Google",
-      "score": 60,
+      "score": 85,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -24817,8 +24921,9 @@
       "location": "San Francisco, CA",
       "department": "",
       "company": "fab2",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -24830,8 +24935,9 @@
       "location": "USA | Remote",
       "department": "Software / Summer 2027",
       "company": "Deepgram",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -24857,8 +24963,9 @@
       "location": "San Francisco, CA",
       "department": "",
       "company": "Netic",
-      "score": 58,
+      "score": 83,
       "scoreReasons": [
+        "SWE-aligned",
         "direct ATS"
       ]
     },
@@ -25110,8 +25217,9 @@
       "location": "McLean, VA",
       "department": "",
       "company": "Appian",
-      "score": 60,
+      "score": 85,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -25122,8 +25230,9 @@
       "location": "New York City",
       "department": "Software / Summer 2027",
       "company": "Quadrillion",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -25203,8 +25312,9 @@
       "location": "Saint Louis, MO 63146",
       "department": "Data & ML/AI / Not stated",
       "company": "Core & Main",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -25306,8 +25416,9 @@
       "location": "New York, NY",
       "department": "",
       "company": "Gemini",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -25319,8 +25430,9 @@
       "location": "Golden, CO",
       "department": "Software / Fall 2026",
       "company": "Rendezvous Robotics",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -25332,8 +25444,9 @@
       "location": "Annapolis Junction, MD",
       "department": "",
       "company": "Nightwing",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -25435,8 +25548,9 @@
       "location": "Fridley, MN / Tempe, AZ / Eatontown, NJ / Santa Rosa, CA / Lafayette, CO",
       "department": "",
       "company": "Medtronic",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -25448,8 +25562,9 @@
       "location": "Emeryville, CA",
       "department": "",
       "company": "Astera",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -25580,8 +25695,9 @@
       "location": "New York City",
       "department": "Software / Summer 2027",
       "company": "Melius",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -25747,8 +25863,9 @@
       "location": "Santa Clara, CA",
       "department": "",
       "company": "NVIDIA",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -25760,8 +25877,9 @@
       "location": "Remote",
       "department": "",
       "company": "Shopify",
-      "score": 60,
+      "score": 85,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -26382,8 +26500,9 @@
       "location": "Boulder, CO",
       "department": "",
       "company": "The Trade Desk",
-      "score": 52,
+      "score": 77,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "aggregator link"
       ]
@@ -26562,6 +26681,20 @@
       ]
     },
     {
+      "id": "canonical:fa2a16c4cf3e72d6",
+      "title": "Powertrain Controls Software Engineering Intern (6-Months, Full-Time)",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000142898574",
+      "location": "Farmington Hills, MI, United States",
+      "department": "Software / Not stated",
+      "company": "Bosch",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:98dc4bcc06878b26",
       "title": "Intern, IT Infrastructure Support",
       "url": "https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Walnut-Creek-CA/Intern--IT-Infrastructure-Support_10001383",
@@ -26674,8 +26807,9 @@
       "location": "US, CA, Santa Clara",
       "department": "Software / Fall 2026",
       "company": "NVIDIA",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -26714,8 +26848,9 @@
       "location": "US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137",
       "department": "Software / Summer 2027",
       "company": "RTX",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -26827,8 +26962,9 @@
       "location": "TX - Houston - Compaq Center Dr",
       "department": "Hardware / Not stated",
       "company": "Microchip Technology",
-      "score": 58,
+      "score": 83,
       "scoreReasons": [
+        "SWE-aligned",
         "direct ATS"
       ]
     },
@@ -26839,8 +26975,9 @@
       "location": "Plymouth, MI, United States",
       "department": "Data & ML/AI / Not stated",
       "company": "Bosch",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -26852,8 +26989,9 @@
       "location": "TX - Houston - Compaq Center Dr",
       "department": "Software / Not stated",
       "company": "Microchip Technology",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -26902,8 +27040,9 @@
       "location": "Dallas, TX - Headquarters",
       "department": "Software / Not stated",
       "company": "Copart",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -26958,8 +27097,9 @@
       "location": "Troy, Michigan, US",
       "department": "Data & ML/AI / Not stated",
       "company": "Magna International",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -26971,8 +27111,9 @@
       "location": "Buffalo, NY",
       "department": "Software / Not stated",
       "company": "Moog",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -26997,8 +27138,9 @@
       "location": "US, Arizona, Phoenix",
       "department": "Data & ML/AI / Not stated",
       "company": "Intel",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -27089,8 +27231,9 @@
       "location": "Raleigh, United States",
       "department": "Data & ML/AI / Not stated",
       "company": "Xsolla",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -27102,8 +27245,9 @@
       "location": "Los Angeles, United States",
       "department": "Data & ML/AI / Not stated",
       "company": "Xsolla",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -27141,8 +27285,9 @@
       "location": "New York City",
       "department": "Software / Fall 2026",
       "company": "Junior",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -27182,8 +27327,9 @@
       "location": "San Francisco, CA",
       "department": "Software / Fall 2026",
       "company": "Beacon Software",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -27195,8 +27341,9 @@
       "location": "Atlanta, GA",
       "department": "Software / Fall 2026",
       "company": "Hermeus",
-      "score": 68,
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
