@@ -1,6 +1,6 @@
 # Open Internships
 
-**1987** internships across **179/179** companies — last updated 2026-08-11.
+**1981** internships across **179/179** companies — last updated 2026-08-11.
 
 ## Companies
 
@@ -20,7 +20,7 @@
 - [AlixPartners](#alixpartners) (1)
 - [Altamira Technologies](#altamira-technologies) (2)
 - [Altom Transport](#altom-transport) (1)
-- [Amazon](#amazon) (176)
+- [Amazon](#amazon) (172)
 - [Ambarella](#ambarella) (8)
 - [Amber Group](#amber-group) (1)
 - [Amcor](#amcor) (1)
@@ -348,7 +348,7 @@
 - [kos.ai](#kos-ai) (1)
 - [Landis+Gyr](#landis-gyr) (1)
 - [Lawrence Livermore National Laboratory (LLNL)](#lawrence-livermore-national-laboratory-llnl) (3)
-- [Leidos](#leidos) (2)
+- [Leidos](#leidos) (1)
 - [Leland](#leland) (1)
 - [Lensa](#lensa) (3)
 - [LinkedIn](#linkedin) (3)
@@ -546,7 +546,6 @@
 - [Skydio](#skydio) (3)
 - [SkyGig](#skygig) (1)
 - [Smiths Detection](#smiths-detection) (1)
-- [Smiths Detection Group](#smiths-detection-group) (1)
 - [Snap](#snap) (2)
 - [Snowflake](#snowflake) (12)
 - [Solar Turbines](#solar-turbines) (1)
@@ -788,6 +787,9 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Graduate Area Manager](https://amazon.jobs/en/jobs/10498341/graduate-area-manager) | 56 | Dobromierz | Fulfillment & Operations Management | 2026-08-11 |
+| [Graduate Area Manager - 2026 Start Date](https://amazon.jobs/en/jobs/10498339/graduate-area-manager-2026-start-date) | 56 | Swiebodzin | Fulfillment & Operations Management | 2026-08-11 |
+| [Financial Analyst Intern](https://amazon.jobs/en/jobs/10498382/financial-analyst-intern) | 30 | Bengaluru | Finance & Accounting | 2026-08-11 |
 | [Pathways Operations Manager Intern – Summer 2027 (Nationwide Opportunities)](https://amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) | 50 | Seattle | Administrative Support | 2026-08-10 |
 | [Operations & Logistics Internship Lombardia - Talent Pool](https://amazon.jobs/en/jobs/10484409/operations-logistics-internship-lombardia-talent-pool) | 50 | Casirate Dadda | Fulfillment & Operations Management | 2026-08-07 |
 | [Operations & Logistics Internship Piemonte - Talent Pool](https://amazon.jobs/en/jobs/10484369/operations-logistics-internship-piemonte-talent-pool) | 50 | Torrazza | Fulfillment & Operations Management | 2026-08-07 |
@@ -867,7 +869,6 @@
 | [2027 Graduate Area Manager, Operations](https://amazon.jobs/en/jobs/10452287/2027-graduate-area-manager-operations) | 56 | Kemps Creek | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Area Manager](https://amazon.jobs/en/jobs/10457588/graduate-area-manager) | 56 | Dortmund | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Area Manager](https://amazon.jobs/en/jobs/3160008/graduate-area-manager) | 56 | Gera | Fulfillment & Operations Management | 2026-07-20 |
-| [Graduate Area Manager](https://amazon.jobs/en/jobs/10412234/graduate-area-manager) | 56 | Swiebodzin | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Area Manager - 2026 (PRG2/BRQ2), Operations](https://amazon.jobs/en/jobs/10447505/graduate-area-manager-2026-prg2-brq2-operations) | 56 | Dobroviz | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Area Manager - 2026 Start Date](https://amazon.jobs/en/jobs/3078656/graduate-area-manager-2026-start-date) | 56 | Sered | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Area Manager - 2026 Start Date, BRQ2 Operations](https://amazon.jobs/en/jobs/3078635/graduate-area-manager-2026-start-date-brq2-operations) | 56 | Kojetin | Fulfillment & Operations Management | 2026-07-20 |
@@ -875,16 +876,10 @@
 | [Graduate Area Manager - Bad Hersfeld, Hessen](https://amazon.jobs/en/jobs/10463336/graduate-area-manager-bad-hersfeld-hessen) | 56 | Bad Hersfeld | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Area Manager - Contwig, Rheinland-Pfalz](https://amazon.jobs/en/jobs/3154970/graduate-area-manager-contwig-rheinland-pfalz) | 56 | Contwig | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Area Manager - Gera, bei Leipzig](https://amazon.jobs/en/jobs/10462187/graduate-area-manager-gera-bei-leipzig) | 56 | Gera | Fulfillment & Operations Management | 2026-07-20 |
-| [Graduate Area Manager - Gliwice](https://amazon.jobs/en/jobs/10447765/graduate-area-manager-gliwice) | 56 | Gliwice | Fulfillment & Operations Management | 2026-07-20 |
-| [Graduate Area Manager - Gorzyczki](https://amazon.jobs/en/jobs/10447766/graduate-area-manager-gorzyczki) | 56 | Gorzyczki | Fulfillment & Operations Management | 2026-07-20 |
-| [Graduate Area Manager - Koblenz](https://amazon.jobs/en/jobs/10462186/graduate-area-manager-koblenz) | 56 | Kobern-gondorf | Fulfillment & Operations Management | 2026-07-20 |
-| [Graduate Area Manager - Okmiany](https://amazon.jobs/en/jobs/10447768/graduate-area-manager-okmiany) | 56 | Okmiany | Fulfillment & Operations Management | 2026-07-20 |
+| [Graduate Area Manager - Okmiany](https://amazon.jobs/en/jobs/10498340/graduate-area-manager-okmiany) | 56 | Okmiany | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Area Manager - Raum Paderborn](https://amazon.jobs/en/jobs/3078311/graduate-area-manager-raum-paderborn) | 56 | Horn-bad Meinberg | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Area Manager - Raum Ulm, Shift Manager](https://amazon.jobs/en/jobs/10477320/graduate-area-manager-raum-ulm-shift-manager) | 56 | Heidenheim An Der Brenz | Fulfillment & Operations Management | 2026-07-20 |
-| [Graduate Area Manager - Sosnowiec](https://amazon.jobs/en/jobs/10447764/graduate-area-manager-sosnowiec) | 56 | Sosnowiec | Fulfillment & Operations Management | 2026-07-20 |
-| [Graduate Area Manager - Szczecin](https://amazon.jobs/en/jobs/10447767/graduate-area-manager-szczecin) | 56 | Szczecin | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Area Manager - Zweibrücken](https://amazon.jobs/en/jobs/3184834/graduate-area-manager-zweibrucken) | 56 | Contwig | Fulfillment & Operations Management | 2026-07-20 |
-| [Graduate Area Manager, Operations](https://amazon.jobs/en/jobs/3204188/graduate-area-manager-operations) | 56 | Dobromierz | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Area Manager:in near Ulm](https://amazon.jobs/en/jobs/10463740/graduate-area-manager-in-near-ulm) | 56 | Heidenheim An Der Brenz | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Area/Shift Manager - Abruzzo](https://amazon.jobs/en/jobs/10454849/graduate-area-shift-manager-abruzzo) | 56 | San Salvo | Fulfillment & Operations Management | 2026-07-20 |
 | [Graduate Area/Shift Manager - Piemonte](https://amazon.jobs/en/jobs/10465611/graduate-area-shift-manager-piemonte) | 56 | Torrazza | Fulfillment & Operations Management | 2026-07-20 |
@@ -2020,7 +2015,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineering Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR101510) | 68 | Dallas, TX - Headquarters | Software / Not stated | 2026-08-10 |
+| [Software Engineering Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110353) | 68 | Dallas, TX - Headquarters | Software / Not stated | 2026-08-10 |
 | [Database Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Database-Engineering-Intern_JR109636) | 93 | Dallas, TX | Software | 2026-08-10 |
 | [Software Engineering Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR106129) | 68 | Dallas, TX | Software | 2026-08-05 |
 | [Technology Product Analyst Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107890) | 58 | Dallas, TX | Product | 2026-08-01 |
@@ -3409,7 +3404,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Engineering Engineer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Engineering-Intern_R-00187036) | 93 | Huntsville, AL | Software | 2026-08-07 |
 | [Application Developer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Indianapolis-IN/Application-Developer-Intern_R-00188193-1) | 93 | Indianapolis, IN | Software / Not stated | 2026-08-07 |
 
 ## Leland
@@ -4896,12 +4890,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern (Cyber focus)](https://jobs.smartrecruiters.com/SmithsGroup2/a22945f0-59b6-4c3f-87f1-43c05b535677) | 68 | Edgewood, MD | Software Engineering | 2026-05-09 |
-
-## Smiths Detection Group
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Commercial Intern - Commercial Tools & Business Intelligence](https://jobs.smartrecruiters.com/SmithsGroup2/744000140169009) | 68 | Slough, UK | AI/ML/Data | 2026-07-28 |
 
 ## Snap
 

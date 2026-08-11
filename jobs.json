@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-11T12:07:02.746Z",
+  "generatedAt": "2026-08-11T13:37:56.774Z",
   "companyCount": 179,
   "okCount": 179,
-  "jobCount": 1987,
+  "jobCount": 1981,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -721,7 +721,6 @@
     "canonical:a55c648f64f4f4ae": "2026-07-20T23:30:05.931Z",
     "canonical:7cfcb1bfcfffee6d": "2026-07-20T23:30:05.931Z",
     "canonical:b8122b23f95b555d": "2026-07-20T23:30:05.931Z",
-    "canonical:152cdc07f27b75b2": "2026-07-20T23:30:05.931Z",
     "canonical:c1936594d98e34cf": "2026-07-20T23:30:05.931Z",
     "canonical:4d3deb044cd5677a": "2026-07-20T23:30:05.931Z",
     "canonical:c6d36606b76d7a58": "2026-07-20T23:30:05.931Z",
@@ -747,10 +746,6 @@
     "canonical:8ebece0cea38bda9": "2026-07-20T23:30:05.931Z",
     "canonical:e40db52a378a86e5": "2026-07-20T23:30:05.931Z",
     "canonical:e45f028113d91d5d": "2026-07-20T23:30:05.931Z",
-    "canonical:5a2a9102383846ca": "2026-07-20T23:30:05.931Z",
-    "canonical:f7db309c14886797": "2026-07-20T23:30:05.931Z",
-    "canonical:a1a3dae4519c45bc": "2026-07-20T23:30:05.931Z",
-    "canonical:b223162025bb869a": "2026-07-20T23:30:05.931Z",
     "canonical:cd1827e13a142fad": "2026-07-20T23:30:05.931Z",
     "canonical:43053c99d40f4af2": "2026-07-20T23:30:05.931Z",
     "canonical:9986bf10ced828dc": "2026-07-20T23:30:05.931Z",
@@ -765,7 +760,6 @@
     "canonical:2f5adda0b74dca34": "2026-07-20T23:30:05.931Z",
     "canonical:1a461a67e8dd66f7": "2026-07-20T23:30:05.931Z",
     "canonical:16e3ef1732a56494": "2026-07-20T23:30:05.931Z",
-    "canonical:ed6bee804bc4ac53": "2026-07-20T23:30:05.931Z",
     "canonical:ca8da888e42666cb": "2026-07-20T23:30:05.931Z",
     "canonical:e2acca53a185fdd1": "2026-07-20T23:30:05.931Z",
     "canonical:34b4070200920bbc": "2026-07-20T23:30:05.931Z",
@@ -791,7 +785,6 @@
     "canonical:0a84a2a18001f0fb": "2026-07-20T23:30:05.931Z",
     "canonical:6e2765afc4ca119f": "2026-07-20T23:30:05.931Z",
     "canonical:19ea6e8fa303f6db": "2026-07-20T23:30:05.931Z",
-    "canonical:67a8e464b094d290": "2026-07-20T23:30:05.931Z",
     "canonical:7958500f83486df8": "2026-07-20T23:30:05.931Z",
     "canonical:981d6b4992d9da98": "2026-07-20T23:30:05.931Z",
     "canonical:b9ef7e2d0419457a": "2026-07-20T23:30:05.931Z",
@@ -1127,7 +1120,6 @@
     "canonical:b534606d935d0b90": "2026-07-28T12:10:10.864Z",
     "canonical:c6951e2db477e52a": "2026-07-28T12:10:10.864Z",
     "canonical:62eff68f5025af9e": "2026-07-28T12:10:10.864Z",
-    "canonical:fb4c61e4cdff7544": "2026-07-28T12:10:10.864Z",
     "canonical:c6644ecc22307e2b": "2026-07-28T14:32:31.140Z",
     "canonical:85fd65366b98ad1d": "2026-07-28T16:21:38.267Z",
     "canonical:1a056010d15d11c7": "2026-07-28T16:21:38.267Z",
@@ -1817,7 +1809,6 @@
     "canonical:0752b58b3e9b6b90": "2026-08-07T18:27:46.582Z",
     "canonical:efd5d04b90313526": "2026-08-07T19:27:37.563Z",
     "canonical:103536fb91331fcf": "2026-08-07T19:27:37.563Z",
-    "canonical:52a5fdec400b2930": "2026-08-07T23:24:27.053Z",
     "canonical:a74dd2e3c3bbb901": "2026-08-07T23:24:27.053Z",
     "canonical:e988a18585048ebe": "2026-08-07T23:24:27.053Z",
     "canonical:4404a059783ecd88": "2026-08-07T23:24:27.053Z",
@@ -1990,7 +1981,10 @@
     "canonical:1c3309ba85b6ccb1": "2026-08-11T06:33:01.480Z",
     "canonical:48698c6718fd48ab": "2026-08-11T09:40:44.007Z",
     "canonical:e225e35aca830ff4": "2026-08-11T09:40:44.007Z",
-    "canonical:ac70b64d2865996c": "2026-08-11T10:31:43.512Z"
+    "canonical:ac70b64d2865996c": "2026-08-11T10:31:43.512Z",
+    "canonical:89adea911b44f806": "2026-08-11T13:37:56.774Z",
+    "canonical:9e7b971d08ddf1aa": "2026-08-11T13:37:56.774Z",
+    "canonical:38b6456c27b7457d": "2026-08-11T13:37:56.774Z"
   },
   "jobs": [
     {
@@ -4993,6 +4987,54 @@
       ]
     },
     {
+      "id": "canonical:89adea911b44f806",
+      "title": "Financial Analyst Intern",
+      "url": "https://amazon.jobs/en/jobs/10498382/financial-analyst-intern",
+      "location": "Bengaluru",
+      "department": "Finance & Accounting",
+      "company": "Amazon",
+      "score": 30,
+      "scoreReasons": [
+        "lower-fit title"
+      ]
+    },
+    {
+      "id": "canonical:9e7b971d08ddf1aa",
+      "title": "Graduate Area Manager",
+      "url": "https://amazon.jobs/en/jobs/10498341/graduate-area-manager",
+      "location": "Dobromierz",
+      "department": "Fulfillment & Operations Management",
+      "company": "Amazon",
+      "score": 56,
+      "scoreReasons": [
+        "new grad"
+      ]
+    },
+    {
+      "id": "canonical:e45f028113d91d5d",
+      "title": "Graduate Area Manager - Okmiany",
+      "url": "https://amazon.jobs/en/jobs/10498340/graduate-area-manager-okmiany",
+      "location": "Okmiany",
+      "department": "Fulfillment & Operations Management",
+      "company": "Amazon",
+      "score": 56,
+      "scoreReasons": [
+        "new grad"
+      ]
+    },
+    {
+      "id": "canonical:38b6456c27b7457d",
+      "title": "Graduate Area Manager - 2026 Start Date",
+      "url": "https://amazon.jobs/en/jobs/10498339/graduate-area-manager-2026-start-date",
+      "location": "Swiebodzin",
+      "department": "Fulfillment & Operations Management",
+      "company": "Amazon",
+      "score": 56,
+      "scoreReasons": [
+        "new grad"
+      ]
+    },
+    {
       "id": "canonical:fd1f5e48dc53ddfc",
       "title": "2027 Graduate Area Manager, Operations",
       "url": "https://amazon.jobs/en/jobs/10452287/2027-graduate-area-manager-operations",
@@ -5872,18 +5914,6 @@
       ]
     },
     {
-      "id": "canonical:152cdc07f27b75b2",
-      "title": "Graduate Area Manager - Koblenz",
-      "url": "https://amazon.jobs/en/jobs/10462186/graduate-area-manager-koblenz",
-      "location": "Kobern-gondorf",
-      "department": "Fulfillment & Operations Management",
-      "company": "Amazon",
-      "score": 56,
-      "scoreReasons": [
-        "new grad"
-      ]
-    },
-    {
       "id": "canonical:c1936594d98e34cf",
       "title": "Graduate Shift Manager - bei Linz",
       "url": "https://amazon.jobs/en/jobs/10462185/graduate-shift-manager-bei-linz",
@@ -6143,66 +6173,6 @@
       ]
     },
     {
-      "id": "canonical:e45f028113d91d5d",
-      "title": "Graduate Area Manager - Okmiany",
-      "url": "https://amazon.jobs/en/jobs/10447768/graduate-area-manager-okmiany",
-      "location": "Okmiany",
-      "department": "Fulfillment & Operations Management",
-      "company": "Amazon",
-      "score": 56,
-      "scoreReasons": [
-        "new grad"
-      ]
-    },
-    {
-      "id": "canonical:5a2a9102383846ca",
-      "title": "Graduate Area Manager - Szczecin",
-      "url": "https://amazon.jobs/en/jobs/10447767/graduate-area-manager-szczecin",
-      "location": "Szczecin",
-      "department": "Fulfillment & Operations Management",
-      "company": "Amazon",
-      "score": 56,
-      "scoreReasons": [
-        "new grad"
-      ]
-    },
-    {
-      "id": "canonical:f7db309c14886797",
-      "title": "Graduate Area Manager - Gorzyczki",
-      "url": "https://amazon.jobs/en/jobs/10447766/graduate-area-manager-gorzyczki",
-      "location": "Gorzyczki",
-      "department": "Fulfillment & Operations Management",
-      "company": "Amazon",
-      "score": 56,
-      "scoreReasons": [
-        "new grad"
-      ]
-    },
-    {
-      "id": "canonical:a1a3dae4519c45bc",
-      "title": "Graduate Area Manager - Gliwice",
-      "url": "https://amazon.jobs/en/jobs/10447765/graduate-area-manager-gliwice",
-      "location": "Gliwice",
-      "department": "Fulfillment & Operations Management",
-      "company": "Amazon",
-      "score": 56,
-      "scoreReasons": [
-        "new grad"
-      ]
-    },
-    {
-      "id": "canonical:b223162025bb869a",
-      "title": "Graduate Area Manager - Sosnowiec",
-      "url": "https://amazon.jobs/en/jobs/10447764/graduate-area-manager-sosnowiec",
-      "location": "Sosnowiec",
-      "department": "Fulfillment & Operations Management",
-      "company": "Amazon",
-      "score": 56,
-      "scoreReasons": [
-        "new grad"
-      ]
-    },
-    {
       "id": "canonical:cd1827e13a142fad",
       "title": "Graduate Area Manager - 2026 (PRG2/BRQ2), Operations",
       "url": "https://amazon.jobs/en/jobs/10447505/graduate-area-manager-2026-prg2-brq2-operations",
@@ -6336,18 +6306,6 @@
       "title": "Graduate Shift Manager - Bayern Area",
       "url": "https://amazon.jobs/en/jobs/10418441/graduate-shift-manager-bayern-area",
       "location": "Oerlenbach",
-      "department": "Fulfillment & Operations Management",
-      "company": "Amazon",
-      "score": 56,
-      "scoreReasons": [
-        "new grad"
-      ]
-    },
-    {
-      "id": "canonical:ed6bee804bc4ac53",
-      "title": "Graduate Area Manager ",
-      "url": "https://amazon.jobs/en/jobs/10412234/graduate-area-manager",
-      "location": "Swiebodzin",
       "department": "Fulfillment & Operations Management",
       "company": "Amazon",
       "score": 56,
@@ -6662,18 +6620,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:67a8e464b094d290",
-      "title": "Graduate Area Manager, Operations ",
-      "url": "https://amazon.jobs/en/jobs/3204188/graduate-area-manager-operations",
-      "location": "Dobromierz",
-      "department": "Fulfillment & Operations Management",
-      "company": "Amazon",
-      "score": 56,
-      "scoreReasons": [
-        "new grad"
       ]
     },
     {
@@ -15407,20 +15353,6 @@
       ]
     },
     {
-      "id": "canonical:52a5fdec400b2930",
-      "title": "Engineering Engineer Intern",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Engineering-Intern_R-00187036",
-      "location": "Huntsville, AL",
-      "department": "Software",
-      "company": "Leidos",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:5f700f46712af0b4",
       "title": "Quantitative Research Engineer Intern",
       "url": "https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-europe/",
@@ -17854,19 +17786,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:fb4c61e4cdff7544",
-      "title": "Commercial Intern - Commercial Tools & Business Intelligence",
-      "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000140169009",
-      "location": "Slough, UK",
-      "department": "AI/ML/Data",
-      "company": "Smiths Detection Group",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -26693,19 +26612,6 @@
       ]
     },
     {
-      "id": "canonical:276fa60f1597cd67",
-      "title": "Software Engineering Intern",
-      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR101510",
-      "location": "Dallas, TX - Headquarters",
-      "department": "Software / Not stated",
-      "company": "Copart",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:1d87142e66472af4",
       "title": "Summer 2027 Software Developer Internship",
       "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225450-1",
@@ -26985,6 +26891,19 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:276fa60f1597cd67",
+      "title": "Software Engineering Intern",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110353",
+      "location": "Dallas, TX - Headquarters",
+      "department": "Software / Not stated",
+      "company": "Copart",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
