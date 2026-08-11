@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-11T09:40:44.007Z",
+  "generatedAt": "2026-08-11T10:31:43.512Z",
   "companyCount": 179,
   "okCount": 179,
-  "jobCount": 1990,
+  "jobCount": 1989,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1308,7 +1308,6 @@
     "canonical:d32ae9699e017f4c": "2026-08-01T14:23:11.511Z",
     "canonical:1df22a3412cdd30e": "2026-08-01T14:23:11.511Z",
     "canonical:4f85d18e62f2efe6": "2026-08-01T15:33:38.600Z",
-    "canonical:365196b713f8c54f": "2026-08-01T15:33:38.600Z",
     "canonical:51c9b4da188261da": "2026-08-01T15:33:38.600Z",
     "canonical:6a08b8735bc24eb5": "2026-08-01T15:33:38.600Z",
     "canonical:1903ea6b0e57aeaa": "2026-08-01T15:33:38.600Z",
@@ -1604,7 +1603,6 @@
     "canonical:88c728d0a77c0cde": "2026-08-04T03:32:55.088Z",
     "canonical:675e4983d1c4aad9": "2026-08-04T03:32:55.088Z",
     "canonical:0c1fdaa49f9ee376": "2026-08-04T09:06:37.515Z",
-    "canonical:ce9d5d84ac506408": "2026-08-04T09:06:37.515Z",
     "canonical:a6aab99e0fa558e3": "2026-08-04T09:06:37.515Z",
     "canonical:cab1f739c8bc1611": "2026-08-04T09:06:37.515Z",
     "canonical:16e4d02d2c543748": "2026-08-04T09:06:37.515Z",
@@ -1993,7 +1991,8 @@
     "canonical:bf98938ea45fb54b": "2026-08-11T06:33:01.480Z",
     "canonical:1c3309ba85b6ccb1": "2026-08-11T06:33:01.480Z",
     "canonical:48698c6718fd48ab": "2026-08-11T09:40:44.007Z",
-    "canonical:e225e35aca830ff4": "2026-08-11T09:40:44.007Z"
+    "canonical:e225e35aca830ff4": "2026-08-11T09:40:44.007Z",
+    "canonical:ac70b64d2865996c": "2026-08-11T10:31:43.512Z"
   },
   "jobs": [
     {
@@ -7517,7 +7516,7 @@
     {
       "id": "canonical:1a056010d15d11c7",
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -11772,20 +11771,6 @@
       "location": "SF",
       "department": "Software",
       "company": "Instead",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:365196b713f8c54f",
-      "title": "Embedded Software Engineer Intern",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Intern_R031146",
-      "location": "Ottawa, ON, Canada",
-      "department": "Hardware",
-      "company": "Ciena",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -16140,18 +16125,6 @@
       ]
     },
     {
-      "id": "canonical:27bdb3f23ff4322a",
-      "title": "Engineering Intern",
-      "url": "https://jobs.ashbyhq.com/odin-dynamics/db6fe6ed-3517-423d-a757-3b6edea4b51d/application?embed=true",
-      "location": "LA",
-      "department": "Hardware",
-      "company": "Odin Dynamics, Inc",
-      "score": 58,
-      "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:7c5d7d5814a19bff",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/junior/23ee686b-d305-4ac9-860d-16c99ddb4891/application?embed=true",
@@ -20455,19 +20428,6 @@
       ]
     },
     {
-      "id": "canonical:ce9d5d84ac506408",
-      "title": "Software Engineer Intern - Data Platform & Analytics",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
-      "location": "Redmond, WA",
-      "department": "AI/ML/Data",
-      "company": "Microsoft",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:48698c6718fd48ab",
       "title": "Software Engineer Intern",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-REMOTE/Software-Engineering--Intern--Summer-2027-_01863749",
@@ -23522,6 +23482,31 @@
       "company": "TikTok",
       "score": 50,
       "scoreReasons": []
+    },
+    {
+      "id": "canonical:ac70b64d2865996c",
+      "title": "AI Education Intern",
+      "url": "https://jobs.ashbyhq.com/leland/94347c0b-273b-4c17-9987-563912629633/application?embed=true",
+      "location": "Lehi, UT",
+      "department": "AI/ML/Data",
+      "company": "Leland",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:27bdb3f23ff4322a",
+      "title": "Engineering Intern",
+      "url": "https://jobs.ashbyhq.com/odin-dynamics/db6fe6ed-3517-423d-a757-3b6edea4b51d/application?embed=true",
+      "location": "LA",
+      "department": "Hardware",
+      "company": "Odin Dynamics, Inc",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
     },
     {
       "id": "canonical:12cd06c0eec80152",
