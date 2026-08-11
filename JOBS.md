@@ -1,6 +1,6 @@
 # Open Internships
 
-**1997** internships across **179/179** companies — last updated 2026-08-11.
+**1999** internships across **179/179** companies — last updated 2026-08-11.
 
 ## Companies
 
@@ -117,6 +117,7 @@
 - [CareScout](#carescout) (1)
 - [Castleton Commodities International](#castleton-commodities-international) (8)
 - [Caterpillar Inc.](#caterpillar-inc) (2)
+- [CCC Intelligent Solutions](#ccc-intelligent-solutions) (1)
 - [Centerfield](#centerfield) (4)
 - [Centerstone](#centerstone) (1)
 - [Centific](#centific) (1)
@@ -537,6 +538,7 @@
 - [Schonfeld](#schonfeld) (4)
 - [Schweitzer Engineering Laboratories](#schweitzer-engineering-laboratories) (2)
 - [SCOR](#scor) (1)
+- [Sentry](#sentry) (1)
 - [Serval](#serval) (1)
 - [Seven Research](#seven-research) (4)
 - [SHEIN](#shein) (1)
@@ -1727,6 +1729,12 @@
 | --- | --- | --- | --- | --- |
 | [Engineering Intern - Product Development Track](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Intern-Program-----Product-Development-Track_R0000380479) | 58 | West Chester, PA / Peoria, IL / Houston, TX / Flanagan, IL / McDonough, GA / Fargo, ND / Schertz, TX / Alpharetta, GA / Pittsburgh, PA / Rapid City, SD / Durant, OK / Brooklyn Park, MN / Clayton, NC / Fort Worth, TX / West Lafayette, IN / Canadian County, OK / Decatur, IL | Hardware | 2026-08-01 |
 | [2026 Engineering Internship Program- Metallurgical Engineering](https://www.linkedin.com/jobs/view/4260034721) | 42 | Mossville, IL | — | 2026-07-09 |
+
+## CCC Intelligent Solutions
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [R&D & Data Science Internship Fall 2026](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/R-D---Data-Science-Internship-Fall-2026_0014841) | 68 | Chicago (Green St), IL | Data & ML/AI / Fall 2026 | 2026-08-11 |
 
 ## Centerfield
 
@@ -4844,6 +4852,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Databricks & Palantir Analytics Graduate Trainee](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/4840) | 66 | London, UK | AI/ML/Data | 2026-07-20 |
+
+## Sentry
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer, Intern (Summer 2027)](https://jobs.ashbyhq.com/sentry/672e2a76-d8e1-49c1-b227-4a189c4e49a1) | 93 | San Francisco, California | Software / Summer 2027 | 2026-08-11 |
 
 ## Serval
 

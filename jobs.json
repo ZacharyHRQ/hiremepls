@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-11T21:10:55.253Z",
+  "generatedAt": "2026-08-11T22:01:34.107Z",
   "companyCount": 179,
   "okCount": 179,
-  "jobCount": 1997,
+  "jobCount": 1999,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2000,7 +2000,9 @@
     "canonical:8090dbcaf5c6355d": "2026-08-11T18:32:35.051Z",
     "canonical:c119404437a1a8a3": "2026-08-11T18:32:35.051Z",
     "canonical:c60e84787ad144af": "2026-08-11T19:43:14.290Z",
-    "canonical:5014f00021f6ca37": "2026-08-11T21:10:55.253Z"
+    "canonical:5014f00021f6ca37": "2026-08-11T21:10:55.253Z",
+    "canonical:c6dbb787ad7971d4": "2026-08-11T22:01:34.107Z",
+    "canonical:9f2e2931792115fe": "2026-08-11T22:01:34.107Z"
   },
   "jobs": [
     {
@@ -23341,19 +23343,6 @@
       ]
     },
     {
-      "id": "canonical:18a8f6ead124a6a2",
-      "title": "Analyst Intern Conversion - Multiple Teams",
-      "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/XMLNAME-2027-Truist-Securities---Equity-S-T--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117763-1",
-      "location": "NYC",
-      "department": "Quant",
-      "company": "Truist Bank",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:bf98938ea45fb54b",
       "title": "Product Engineering Intern",
       "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Product-Engineering_R-26-19224",
@@ -23698,6 +23687,19 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:18a8f6ead124a6a2",
+      "title": "Analyst Intern Conversion - Multiple Teams",
+      "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/XMLNAME-2027-Truist-Securities---Equity-S-T--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117763-1",
+      "location": "NYC",
+      "department": "Quant",
+      "company": "Truist Bank",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -26904,6 +26906,19 @@
       ]
     },
     {
+      "id": "canonical:c6dbb787ad7971d4",
+      "title": "R&D & Data Science Internship Fall 2026",
+      "url": "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/R-D---Data-Science-Internship-Fall-2026_0014841",
+      "location": "Chicago (Green St), IL",
+      "department": "Data & ML/AI / Fall 2026",
+      "company": "CCC Intelligent Solutions",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:fa2a16c4cf3e72d6",
       "title": "Powertrain Controls Software Engineering Intern (6-Months, Full-Time)",
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000142898574",
@@ -27263,6 +27278,20 @@
       "location": "Dallas, TX - Headquarters",
       "department": "Software / Not stated",
       "company": "Copart",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:9f2e2931792115fe",
+      "title": "Software Engineer, Intern (Summer 2027)",
+      "url": "https://jobs.ashbyhq.com/sentry/672e2a76-d8e1-49c1-b227-4a189c4e49a1",
+      "location": "San Francisco, California",
+      "department": "Software / Summer 2027",
+      "company": "Sentry",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
