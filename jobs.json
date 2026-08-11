@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-11T11:27:28.734Z",
+  "generatedAt": "2026-08-11T12:07:02.746Z",
   "companyCount": 179,
   "okCount": 179,
-  "jobCount": 1988,
+  "jobCount": 1987,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1603,7 +1603,6 @@
     "canonical:88c728d0a77c0cde": "2026-08-04T03:32:55.088Z",
     "canonical:675e4983d1c4aad9": "2026-08-04T03:32:55.088Z",
     "canonical:0c1fdaa49f9ee376": "2026-08-04T09:06:37.515Z",
-    "canonical:a6aab99e0fa558e3": "2026-08-04T09:06:37.515Z",
     "canonical:cab1f739c8bc1611": "2026-08-04T09:06:37.515Z",
     "canonical:16e4d02d2c543748": "2026-08-04T09:06:37.515Z",
     "canonical:f9adb752458a7386": "2026-08-04T09:06:37.515Z",
@@ -20453,19 +20452,6 @@
       ]
     },
     {
-      "id": "canonical:a6aab99e0fa558e3",
-      "title": "Software Engineer Security & Identity Intern",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
-      "location": "Redmond, WA",
-      "department": "Software",
-      "company": "Microsoft",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:16e4d02d2c543748",
       "title": "Machine Learning Engineer Intern - Data Search Local Service",
       "url": "https://lifeattiktok.com/search/7668381860191734021",
@@ -26707,6 +26693,19 @@
       ]
     },
     {
+      "id": "canonical:276fa60f1597cd67",
+      "title": "Software Engineering Intern",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR101510",
+      "location": "Dallas, TX - Headquarters",
+      "department": "Software / Not stated",
+      "company": "Copart",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:1d87142e66472af4",
       "title": "Summer 2027 Software Developer Internship",
       "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225450-1",
@@ -26986,19 +26985,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:276fa60f1597cd67",
-      "title": "Software Engineering Intern",
-      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110353",
-      "location": "Dallas, TX - Headquarters",
-      "department": "Software / Not stated",
-      "company": "Copart",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {

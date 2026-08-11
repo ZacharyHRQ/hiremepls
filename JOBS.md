@@ -1,6 +1,6 @@
 # Open Internships
 
-**1988** internships across **179/179** companies — last updated 2026-08-11.
+**1987** internships across **179/179** companies — last updated 2026-08-11.
 
 ## Companies
 
@@ -385,7 +385,7 @@
 - [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (2)
 - [Microchip Technology](#microchip-technology) (6)
 - [Micron Technology](#micron-technology) (3)
-- [Microsoft](#microsoft) (11)
+- [Microsoft](#microsoft) (10)
 - [Mindsmith](#mindsmith) (1)
 - [Mistral AI](#mistral-ai) (2)
 - [Mizuho Securities USA](#mizuho-securities-usa) (1)
@@ -2020,7 +2020,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineering Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110353) | 68 | Dallas, TX - Headquarters | Software / Not stated | 2026-08-10 |
+| [Software Engineering Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR101510) | 68 | Dallas, TX - Headquarters | Software / Not stated | 2026-08-10 |
 | [Database Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Database-Engineering-Intern_JR109636) | 93 | Dallas, TX | Software | 2026-08-10 |
 | [Software Engineering Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR106129) | 68 | Dallas, TX | Software | 2026-08-05 |
 | [Technology Product Analyst Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107890) | 58 | Dallas, TX | Product | 2026-08-01 |
@@ -3686,7 +3686,6 @@
 | [Software Engineer Intern, Fullstack Product (Web + Services)](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922922) | 85 | Multiple Locations, United States | — | 2026-08-04 |
 | [Software Engineer Intern, Security & Identity](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922930) | 85 | Redmond, WA | — | 2026-08-04 |
 | [Software Engineer Intern, Cloud & Distributed Backend](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922923) | 85 | Redmond, WA | — | 2026-08-04 |
-| [Software Engineer Security & Identity Intern](https://apply.careers.microsoft.com/careers/job/1970393556922930) | 85 | Redmond, WA | Software | 2026-08-04 |
 | [Software Engineer Intern, CoreAI](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0) | 85 | Multiple Locations, United States | — | 2026-08-03 |
 | [Research Intern - Self-Improving AI](https://apply.careers.microsoft.com/careers/job/1970393556867858) | 60 | Cambridge, MA / NYC | AI/ML/Data | 2026-05-19 |
 
