@@ -1,9 +1,10 @@
 # Open Internships
 
-**1999** internships across **179/179** companies — last updated 2026-08-11.
+**2008** internships across **179/179** companies — last updated 2026-08-11.
 
 ## Companies
 
+- [ CCC Intelligent Solutions](#ccc-intelligent-solutions) (1)
 - [ impact.com ](#impact-com) (1)
 - [1X](#1x) (2)
 - [ABB](#abb) (1)
@@ -11,7 +12,7 @@
 - [ACDS](#acds) (3)
 - [AcreTrader](#acretrader) (1)
 - [Adtheorant](#adtheorant) (1)
-- [Advanced Energy](#advanced-energy) (1)
+- [Advanced Energy](#advanced-energy) (2)
 - [AeroVironment](#aerovironment) (1)
 - [AfterQuery](#afterquery) (1)
 - [Akuna Capital](#akuna-capital) (11)
@@ -19,6 +20,7 @@
 - [Alayacare](#alayacare) (1)
 - [AlixPartners](#alixpartners) (1)
 - [Altamira Technologies](#altamira-technologies) (2)
+- [Altice USA](#altice-usa) (1)
 - [Altom Transport](#altom-transport) (1)
 - [Amazon](#amazon) (170)
 - [Ambarella](#ambarella) (7)
@@ -91,6 +93,7 @@
 - [Blue & Co., LLC](#blue-co-llc) (1)
 - [Blue Bolt Partners](#blue-bolt-partners) (1)
 - [Blue Cross Blue Shield of Michigan](#blue-cross-blue-shield-of-michigan) (1)
+- [Blue Origin](#blue-origin) (1)
 - [Blue River Technology](#blue-river-technology) (1)
 - [BNP Paribas](#bnp-paribas) (1)
 - [Boeing](#boeing) (1)
@@ -109,6 +112,7 @@
 - [Cadence Design Systems](#cadence-design-systems) (7)
 - [CAE](#cae) (1)
 - [CALSTART](#calstart) (3)
+- [Cambium Learning Group](#cambium-learning-group) (1)
 - [Canadian Solar](#canadian-solar) (1)
 - [Canva](#canva) (7)
 - [Capella](#capella) (2)
@@ -117,7 +121,6 @@
 - [CareScout](#carescout) (1)
 - [Castleton Commodities International](#castleton-commodities-international) (8)
 - [Caterpillar Inc.](#caterpillar-inc) (2)
-- [CCC Intelligent Solutions](#ccc-intelligent-solutions) (1)
 - [Centerfield](#centerfield) (4)
 - [Centerstone](#centerstone) (1)
 - [Centific](#centific) (1)
@@ -156,10 +159,10 @@
 - [Commercial Metals](#commercial-metals) (1)
 - [Conagra Brands](#conagra-brands) (2)
 - [ConnectPrep](#connectprep) (2)
-- [ConocoPhillips](#conocophillips) (1)
+- [ConocoPhillips](#conocophillips) (2)
 - [Constellation Space](#constellation-space) (1)
 - [Cooper Companies](#cooper-companies) (1)
-- [Copart](#copart) (5)
+- [Copart](#copart) (6)
 - [Core & Main](#core-main) (2)
 - [Cotiviti](#cotiviti) (2)
 - [Creatify Lab ](#creatify-lab) (1)
@@ -244,6 +247,7 @@
 - [Forus](#forus) (1)
 - [Forvis Mazars US](#forvis-mazars-us) (1)
 - [Four Hands](#four-hands) (1)
+- [Foxconn Industrial Internet](#foxconn-industrial-internet) (2)
 - [Frontier Health](#frontier-health) (1)
 - [FTI Consulting](#fti-consulting) (2)
 - [Fundwell](#fundwell) (1)
@@ -256,6 +260,7 @@
 - [Generac](#generac) (1)
 - [General Astronautics](#general-astronautics) (1)
 - [General Dynamics Information Technology](#general-dynamics-information-technology) (3)
+- [General Dynamics Mission Systems](#general-dynamics-mission-systems) (1)
 - [General Intuition &amp; Medal](#general-intuition-amp-medal) (1)
 - [GenMD](#genmd) (1)
 - [Gensyn](#gensyn) (1)
@@ -335,7 +340,7 @@
 - [Jain Global](#jain-global) (1)
 - [Jane Street](#jane-street) (22)
 - [John Deere](#john-deere) (1)
-- [JP Morgan Chase](#jp-morgan-chase) (7)
+- [JP Morgan Chase](#jp-morgan-chase) (8)
 - [JPMorganChase](#jpmorganchase) (7)
 - [Jump Trading](#jump-trading) (48)
 - [Junior](#junior) (1)
@@ -353,7 +358,7 @@
 - [Kognitos](#kognitos) (1)
 - [kos.ai](#kos-ai) (1)
 - [Landis+Gyr](#landis-gyr) (1)
-- [Lawrence Livermore National Laboratory (LLNL)](#lawrence-livermore-national-laboratory-llnl) (3)
+- [Lawrence Livermore National Laboratory (LLNL)](#lawrence-livermore-national-laboratory-llnl) (4)
 - [Leidos](#leidos) (1)
 - [Leland](#leland) (1)
 - [Lensa](#lensa) (3)
@@ -402,7 +407,7 @@
 - [Moog](#moog) (2)
 - [Moog ](#moog) (1)
 - [Moon](#moon) (1)
-- [Motorola](#motorola) (1)
+- [Motorola](#motorola) (2)
 - [Mujin](#mujin) (3)
 - [Multiply Labs](#multiply-labs) (2)
 - [Muru](#muru) (2)
@@ -529,7 +534,7 @@
 - [RTX](#rtx) (13)
 - [Samaya](#samaya) (1)
 - [Samsara](#samsara) (2)
-- [Samsung Research America](#samsung-research-america) (2)
+- [Samsung Research America](#samsung-research-america) (1)
 - [Sandhills Global](#sandhills-global) (2)
 - [Sargent & Lundy](#sargent-lundy) (1)
 - [Saronic](#saronic) (1)
@@ -595,7 +600,7 @@
 - [Terminal](#terminal) (2)
 - [Terranova](#terranova) (2)
 - [Terranox AI](#terranox-ai) (1)
-- [Tesla](#tesla) (85)
+- [Tesla](#tesla) (84)
 - [Tessera Labs](#tessera-labs) (1)
 - [TETRAMEM](#tetramem) (1)
 - [Texas Instruments](#texas-instruments) (1)
@@ -627,7 +632,7 @@
 - [Trata](#trata) (1)
 - [Trend Micro](#trend-micro) (1)
 - [Trillium](#trillium) (4)
-- [Truist Bank](#truist-bank) (4)
+- [Truist Bank](#truist-bank) (3)
 - [Turabify](#turabify) (1)
 - [Two Sigma](#two-sigma) (2)
 - [Uber](#uber) (1)
@@ -680,6 +685,12 @@
 - [Zipline](#zipline) (3)
 - [Zuru](#zuru) (1)
 
+##  CCC Intelligent Solutions
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data Science Intern - R&D](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/R-D---Data-Science-Internship-Fall-2026_0014841) | 68 | Chicago, IL | AI/ML/Data | 2026-08-11 |
+
 ##  impact.com 
 
 | Title | Score | Location | Department | First seen |
@@ -729,6 +740,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Firmware Engineer Intern - Fall 2026](https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Firmware-Engineer-Fall-2026-CO-80525/1418389400/?ats=successfactors) | 75 | Fort Collins, CO | Hardware | 2026-08-11 |
 | [Electronics Service Intern](https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Electronics-Service-CO-80525/1389595200/?ats=successfactors) | 50 | Fort Collins, CO | Hardware | 2026-08-04 |
 
 ## AeroVironment
@@ -783,6 +795,12 @@
 | --- | --- | --- | --- | --- |
 | [Research and Development Intern](https://jobs.jobvite.com/altamiracorps/job/oHqCAfw3?nl=1&nl=1&fr=false) | 60 | Fairborn, OH | AI/ML/Data | 2026-08-10 |
 | [Software Development Intern](https://jobs.jobvite.com/altamiracorps/job/oMqCAfw8?nl=1&nl=1&fr=false) | 60 | Fairborn, OH | Software | 2026-08-10 |
+
+## Altice USA
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data Engineer Intern](https://www.optimumcareers.com/job/Long-Island-City-Intern-Data-Engineer-NY-11101/1414286700/?ats=successfactors) | 85 | Long Island City, Queens, NY | AI/ML/Data | 2026-08-11 |
 
 ## Altom Transport
 
@@ -1477,6 +1495,12 @@
 | --- | --- | --- | --- | --- |
 | [IT Intern](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14393) | 60 | Detroit, MI | AI/ML/Data | 2026-07-01 |
 
+## Blue Origin
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Development Engineer 1 Intern - Corporate Functions](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Software-Development-Engineer-I_R70275) | 93 | Seattle, WA / LA / Florida / Longmont, CO / Arlington County, Arlington, VA / Reston, VA / Denver, CO / Huntsville, AL / Van Horn, TX | Software | 2026-08-11 |
+
 ## Blue River Technology
 
 | Title | Score | Location | Department | First seen |
@@ -1663,6 +1687,12 @@
 | [Web Development Intern](https://jobs.lever.co/calstart/cbd0d758-18b0-481d-9e67-a065682f30ea/apply) | 68 | Remote in USA | Software | 2026-07-30 |
 | [Zero-Emission Data & Research Intern](https://jobs.lever.co/calstart/faf839b1-8c62-4fcf-991c-71750d8fc909/apply) | 68 | Remote in USA | AI/ML/Data | 2026-07-30 |
 
+## Cambium Learning Group
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Machine Learning Intern](https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Remote/Machine-Learning-Intern_REQ-4561) | 68 | Remote in USA | AI/ML/Data | 2026-08-11 |
+
 ## Canadian Solar
 
 | Title | Score | Location | Department | First seen |
@@ -1729,12 +1759,6 @@
 | --- | --- | --- | --- | --- |
 | [Engineering Intern - Product Development Track](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Intern-Program-----Product-Development-Track_R0000380479) | 58 | West Chester, PA / Peoria, IL / Houston, TX / Flanagan, IL / McDonough, GA / Fargo, ND / Schertz, TX / Alpharetta, GA / Pittsburgh, PA / Rapid City, SD / Durant, OK / Brooklyn Park, MN / Clayton, NC / Fort Worth, TX / West Lafayette, IN / Canadian County, OK / Decatur, IL | Hardware | 2026-08-01 |
 | [2026 Engineering Internship Program- Metallurgical Engineering](https://www.linkedin.com/jobs/view/4260034721) | 42 | Mossville, IL | — | 2026-07-09 |
-
-## CCC Intelligent Solutions
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [R&D & Data Science Internship Fall 2026](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/R-D---Data-Science-Internship-Fall-2026_0014841) | 68 | Chicago (Green St), IL | Data & ML/AI / Fall 2026 | 2026-08-11 |
 
 ## Centerfield
 
@@ -2032,6 +2056,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Trading Analytics Intern](https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Intern--Trading-Analytics-2027_REQ-006429) | 68 | Houston, TX | Quant | 2026-08-11 |
 | [Geosciences Intern](https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Intern--Geosciences-2027_REQ-006385) | 68 | Midland, TX / Houston, TX / Anchorage, AK | AI/ML/Data | 2026-08-07 |
 
 ## Constellation Space
@@ -2050,6 +2075,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data Analytics Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Analytics-Engineer-Intern_JR110584) | 93 | Dallas, TX - Headquarters | Data & ML/AI / Not stated | 2026-08-11 |
 | [Software Engineering Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110353) | 93 | Dallas, TX - Headquarters | Software / Not stated | 2026-08-10 |
 | [Database Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Database-Engineering-Intern_JR109636) | 93 | Dallas, TX | Software | 2026-08-10 |
 | [Software Engineering Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR106129) | 93 | Dallas, TX | Software | 2026-08-05 |
@@ -2640,6 +2666,13 @@
 | --- | --- | --- | --- | --- |
 | [Product Development Intern](https://job-boards.greenhouse.io/fourhands/jobs/4272048009) | 58 | Austin, TX | Product | 2026-06-08 |
 
+## Foxconn Industrial Internet
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data Visualization & Analytics Intern - Engineering](http://foxconnggroup.applytojob.com/apply/VZnsanT4LU/Engineering-Data-Visualization-Analytics-Intern) | 85 | Houston, TX | AI/ML/Data | 2026-08-11 |
+| [Software Engineer Intern - Engineering and Operations](http://foxconnggroup.applytojob.com/apply/xf0soVofyI/Software-Engineering-Intern) | 85 | Houston, TX | Software | 2026-08-11 |
+
 ## Frontier Health
 
 | Title | Score | Location | Department | First seen |
@@ -2718,6 +2751,12 @@
 | [Summer 2027 Software Developer Internship](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225450-1) | 93 | USA MD Annapolis Junction | Software / Summer 2027 | 2026-08-10 |
 | [Artificial Intelligence/Machine Learning Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church---3150-Fairview-Park-Dr-VAS095/GDIT-2027-Summer-AI---ML-Internship_RQ225401) | 68 | Falls Church, VA | AI/ML/Data | 2026-08-05 |
 | [Systems Engineer Intern](https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity) | 75 | Albany, NY | — | 2026-07-30 |
+
+## General Dynamics Mission Systems
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Cybersecurity Software Engineer Intern](https://careers-gdms.icims.com/jobs/74257/job?mobile=true&needsRedirect=false) | 85 | Manassas, VA | Software | 2026-08-11 |
 
 ## General Intuition &amp; Medal
 
@@ -3274,6 +3313,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data & AI Intern - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869) | 60 | Palo Alto, CA / Newark, DE / Plano, TX / Chicago, IL / Jersey City, NJ / Columbus, OH / NYC / Wilmington, DE | AI/ML/Data | 2026-08-11 |
 | [Data Internship - Data & AI Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775223) | 60 | Palo Alto, CA / Newark, DE / Plano, TX / Chicago, IL / Jersey City, NJ / Columbus, OH / NYC / Wilmington, DE | AI/ML/Data | 2026-08-07 |
 | [Quantitative Research Intern](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774061) | 60 | NYC | Quant | 2026-08-04 |
 | [Quantitative Research Intern - Markets - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038) | 60 | NYC | Quant | 2026-08-04 |
@@ -3444,6 +3484,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Computational Engineering Graduate Intern - Fall 2026](https://jobs.smartrecruiters.com/LLNL/3743990014541076) | 99 | Livermore, CA | AI/ML/Data | 2026-08-11 |
 | [Machine Learning Physics Graduate Student Intern](https://jobs.smartrecruiters.com/LLNL/3743990013424486) | 74 | Livermore, CA | AI/ML/Data | 2026-07-20 |
 | [Computing Graduate Student Intern](https://jobs.smartrecruiters.com/LLNL/3743990013801396) | 74 | Livermore, CA | AI/ML/Data | 2026-07-01 |
 | [Computing Undergraduate Student Intern](https://jobs.smartrecruiters.com/LLNL/3743990013801386) | 68 | Livermore, CA | AI/ML/Data | 2026-07-01 |
@@ -3800,6 +3841,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Supply Chain Data Analyst Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2027_R67489) | 68 | Chicago, IL | AI/ML/Data | 2026-08-11 |
 | [Intern - Embedded Software, System, and Test Engineer - 2026](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/Intern---Embedded-Software--System--and-Test-Engineer---2026_R62372) | 93 | Irvine, CA | Software / Fall 2026 | 2026-08-07 |
 
 ## Mujin
@@ -4796,7 +4838,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Memory and Personalization Intern - Memory and Personalization](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8438402002) | 68 | Mountain View, CA | AI/ML/Data | 2026-08-10 |
-| [Digital Health Algorithms Intern](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8678880002) | 68 | Mountain View, CA | AI/ML/Data | 2026-08-07 |
 
 ## Sandhills Global
 
@@ -5321,7 +5362,6 @@
 | [Software Engineer Intern - Distributed Systems Software Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/275558) | 85 | Palo Alto, CA | Software | 2026-07-01 |
 | [AI/ML Modeling Engineer Intern - ML Modeling Engineer - AI Hardware](https://www.tesla.com/careers/search/job/275316) | 85 | Palo Alto, CA | AI/ML/Data | 2026-07-01 |
 | [Data Engineer Intern - Applications Engineering](https://www.tesla.com/careers/search/job/272928) | 85 | Fremont, CA | AI/ML/Data | 2026-07-01 |
-| [Machine Learning Engineer Intern - Machine Learning Engineer - Factory Software](https://www.tesla.com/careers/search/job/275380) | 85 | Fremont, CA | AI/ML/Data | 2026-07-01 |
 | [RL Engineer Intern - RL Engineer - Tesla AI](https://www.tesla.com/careers/search/job/275494) | 85 | Palo Alto, CA | AI/ML/Data | 2026-07-01 |
 | [Inline Metrology Systems Design/Engineer Intern - Cell Engineering](https://www.tesla.com/careers/search/job/275335) | 75 | Fremont, CA | Hardware | 2026-07-01 |
 | [Thermal Controls Engineer Intern - Thermal Controls Engineer - Vehicle Controls](https://www.tesla.com/careers/search/job/275327) | 75 | Palo Alto, CA | Hardware | 2026-07-01 |
@@ -5691,7 +5731,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Analyst Intern Conversion - Multiple Teams](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/XMLNAME-2027-Truist-Securities---Equity-S-T--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117763-1) | 68 | NYC | Quant | 2026-08-11 |
 | [Analyst Intern - Equity Research - Sales, Trading & Research](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/XMLNAME-2027-Truist-Securities---Equity-Research--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117762-1) | 48 | NYC / Atlanta, GA | Quant | 2026-08-11 |
 | [Fixed Income Loans S&T Intern - Sales, Trading & Research - Analyst Program](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/XMLNAME-2027-Truist-Securities---Fixed-Income-Loans-S-T--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117765-1) | 48 | NYC | Quant | 2026-08-11 |
 | [Technology and Operations Intern Conversion - Data](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/XMLNAME-2027-Technology--Data--and-Operations-Internship---Intern-Conversion-_R0117276) | 68 | Charlotte, NC / Atlanta, GA | Software | 2026-08-10 |

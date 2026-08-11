@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-11T22:01:34.107Z",
+  "generatedAt": "2026-08-11T22:59:42.931Z",
   "companyCount": 179,
   "okCount": 179,
-  "jobCount": 1999,
+  "jobCount": 2008,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -305,7 +305,6 @@
     "canonical:9062f0a2659dadf6": "2026-07-01T06:55:26.212Z",
     "canonical:c41ef117bb4ff60c": "2026-07-01T06:55:26.212Z",
     "canonical:2212e3fbe2cb1a38": "2026-07-01T06:55:26.212Z",
-    "canonical:c8ca3869c2c9394e": "2026-07-01T06:55:26.212Z",
     "canonical:b06c1c658f9e9640": "2026-07-01T06:55:26.212Z",
     "canonical:8bbf5106040685f9": "2026-07-01T06:55:26.212Z",
     "canonical:3e20e348fe7e7c8d": "2026-07-01T06:55:26.212Z",
@@ -1743,7 +1742,6 @@
     "canonical:0f259dc0186e372e": "2026-08-07T00:35:31.024Z",
     "canonical:cc1ecd880688e472": "2026-08-07T00:35:31.024Z",
     "canonical:1348bb7c13ecef28": "2026-08-07T00:35:31.024Z",
-    "canonical:dc6b71e1ce662ca8": "2026-08-07T00:35:31.024Z",
     "canonical:1b9ebef2b324c80c": "2026-08-07T00:35:31.024Z",
     "canonical:e49df8e50ad33a69": "2026-08-07T00:35:31.024Z",
     "canonical:c16489b8c56f986c": "2026-08-07T00:35:31.024Z",
@@ -1965,7 +1963,6 @@
     "canonical:4c56ae0c795de31a": "2026-08-11T06:33:01.480Z",
     "canonical:4670de827e8c60dc": "2026-08-11T06:33:01.480Z",
     "canonical:92ab6121cee9c982": "2026-08-11T06:33:01.480Z",
-    "canonical:18a8f6ead124a6a2": "2026-08-11T06:33:01.480Z",
     "canonical:bf98938ea45fb54b": "2026-08-11T06:33:01.480Z",
     "canonical:1c3309ba85b6ccb1": "2026-08-11T06:33:01.480Z",
     "canonical:48698c6718fd48ab": "2026-08-11T09:40:44.007Z",
@@ -2001,8 +1998,20 @@
     "canonical:c119404437a1a8a3": "2026-08-11T18:32:35.051Z",
     "canonical:c60e84787ad144af": "2026-08-11T19:43:14.290Z",
     "canonical:5014f00021f6ca37": "2026-08-11T21:10:55.253Z",
-    "canonical:c6dbb787ad7971d4": "2026-08-11T22:01:34.107Z",
-    "canonical:9f2e2931792115fe": "2026-08-11T22:01:34.107Z"
+    "canonical:9f2e2931792115fe": "2026-08-11T22:01:34.107Z",
+    "canonical:294fa8608525e8fc": "2026-08-11T22:59:42.931Z",
+    "canonical:57f646554e4d20f4": "2026-08-11T22:59:42.931Z",
+    "canonical:a7704afe9874a8b1": "2026-08-11T22:59:42.931Z",
+    "canonical:1db8d1eed17f3f3e": "2026-08-11T22:59:42.931Z",
+    "canonical:daad3d2155c8e8bf": "2026-08-11T22:59:42.931Z",
+    "canonical:901418353a47d365": "2026-08-11T22:59:42.931Z",
+    "canonical:96f32ba86c32c430": "2026-08-11T22:59:42.931Z",
+    "canonical:1209e98cd8936a94": "2026-08-11T22:59:42.931Z",
+    "canonical:ee96420574858150": "2026-08-11T22:59:42.931Z",
+    "canonical:1b47510526da261b": "2026-08-11T22:59:42.931Z",
+    "canonical:c72c0f5c70a9162d": "2026-08-11T22:59:42.931Z",
+    "canonical:dd0ed1328dc77054": "2026-08-11T22:59:42.931Z",
+    "canonical:ddb21727e49634e8": "2026-08-11T22:59:42.931Z"
   },
   "jobs": [
     {
@@ -13517,19 +13526,6 @@
       ]
     },
     {
-      "id": "canonical:c8ca3869c2c9394e",
-      "title": "Machine Learning Engineer Intern - Machine Learning Engineer - Factory Software",
-      "url": "https://www.tesla.com/careers/search/job/275380",
-      "location": "Fremont, CA",
-      "department": "AI/ML/Data",
-      "company": "Tesla",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:0c6a01a05ca81c51",
       "title": "Data Analyst Intern",
       "url": "https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/New-York-NY/Data-Analyst-Intern_JR2987",
@@ -18377,6 +18373,19 @@
       ]
     },
     {
+      "id": "canonical:294fa8608525e8fc",
+      "title": "Data Engineer Intern",
+      "url": "https://www.optimumcareers.com/job/Long-Island-City-Intern-Data-Engineer-NY-11101/1414286700/?ats=successfactors",
+      "location": "Long Island City, Queens, NY",
+      "department": "AI/ML/Data",
+      "company": "Altice USA",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:b2483be6a5d3871f",
       "title": "IT Development Program Intern - IT Development Program",
       "url": "https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Genworth-IT-Development-Program-Intern---Summer-2027_REQ-260269-1",
@@ -19530,6 +19539,18 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038",
       "location": "NYC",
       "department": "Quant",
+      "company": "JP Morgan Chase",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:57f646554e4d20f4",
+      "title": "Data & AI Intern - Analyst",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869",
+      "location": "Palo Alto, CA / Newark, DE / Plano, TX / Chicago, IL / Jersey City, NJ / Columbus, OH / NYC / Wilmington, DE",
+      "department": "AI/ML/Data",
       "company": "JP Morgan Chase",
       "score": 60,
       "scoreReasons": [
@@ -21678,19 +21699,6 @@
       ]
     },
     {
-      "id": "canonical:dc6b71e1ce662ca8",
-      "title": "Digital Health Algorithms Intern",
-      "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8678880002",
-      "location": "Mountain View, CA",
-      "department": "AI/ML/Data",
-      "company": "Samsung Research America",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:1b9ebef2b324c80c",
       "title": "Full-Stack Developer Intern - Python",
       "url": "https://alayacare.com/open-positions?gh_jid=8687981002",
@@ -23690,15 +23698,134 @@
       ]
     },
     {
-      "id": "canonical:18a8f6ead124a6a2",
-      "title": "Analyst Intern Conversion - Multiple Teams",
-      "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/XMLNAME-2027-Truist-Securities---Equity-S-T--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117763-1",
-      "location": "NYC",
+      "id": "canonical:a7704afe9874a8b1",
+      "title": "Software Engineer Intern - Engineering and Operations",
+      "url": "http://foxconnggroup.applytojob.com/apply/xf0soVofyI/Software-Engineering-Intern",
+      "location": "Houston, TX",
+      "department": "Software",
+      "company": "Foxconn Industrial Internet",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:1db8d1eed17f3f3e",
+      "title": "Software Development Engineer 1 Intern - Corporate Functions",
+      "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Software-Development-Engineer-I_R70275",
+      "location": "Seattle, WA / LA / Florida / Longmont, CO / Arlington County, Arlington, VA / Reston, VA / Denver, CO / Huntsville, AL / Van Horn, TX",
+      "department": "Software",
+      "company": "Blue Origin",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:daad3d2155c8e8bf",
+      "title": "Data Visualization & Analytics Intern - Engineering",
+      "url": "http://foxconnggroup.applytojob.com/apply/VZnsanT4LU/Engineering-Data-Visualization-Analytics-Intern",
+      "location": "Houston, TX",
+      "department": "AI/ML/Data",
+      "company": "Foxconn Industrial Internet",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:901418353a47d365",
+      "title": "Trading Analytics Intern",
+      "url": "https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Intern--Trading-Analytics-2027_REQ-006429",
+      "location": "Houston, TX",
       "department": "Quant",
-      "company": "Truist Bank",
+      "company": "ConocoPhillips",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:96f32ba86c32c430",
+      "title": "Machine Learning Intern",
+      "url": "https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Remote/Machine-Learning-Intern_REQ-4561",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "Cambium Learning Group",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1209e98cd8936a94",
+      "title": "Supply Chain Data Analyst Intern",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2027_R67489",
+      "location": "Chicago, IL",
+      "department": "AI/ML/Data",
+      "company": "Motorola",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ee96420574858150",
+      "title": "Cybersecurity Software Engineer Intern",
+      "url": "https://careers-gdms.icims.com/jobs/74257/job?mobile=true&needsRedirect=false",
+      "location": "Manassas, VA",
+      "department": "Software",
+      "company": "General Dynamics Mission Systems",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:1b47510526da261b",
+      "title": "Data Science Intern - R&D",
+      "url": "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/R-D---Data-Science-Internship-Fall-2026_0014841",
+      "location": "Chicago, IL",
+      "department": "AI/ML/Data",
+      "company": " CCC Intelligent Solutions",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c72c0f5c70a9162d",
+      "title": "Firmware Engineer Intern - Fall 2026",
+      "url": "https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Firmware-Engineer-Fall-2026-CO-80525/1418389400/?ats=successfactors",
+      "location": "Fort Collins, CO",
+      "department": "Hardware",
+      "company": "Advanced Energy",
+      "score": 75,
+      "scoreReasons": [
+        "SWE-aligned"
+      ]
+    },
+    {
+      "id": "canonical:dd0ed1328dc77054",
+      "title": "Computational Engineering Graduate Intern - Fall 2026",
+      "url": "https://jobs.smartrecruiters.com/LLNL/3743990014541076",
+      "location": "Livermore, CA",
+      "department": "AI/ML/Data",
+      "company": "Lawrence Livermore National Laboratory (LLNL)",
+      "score": 99,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
         "direct ATS"
       ]
     },
@@ -26906,14 +27033,15 @@
       ]
     },
     {
-      "id": "canonical:c6dbb787ad7971d4",
-      "title": "R&D & Data Science Internship Fall 2026",
-      "url": "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/R-D---Data-Science-Internship-Fall-2026_0014841",
-      "location": "Chicago (Green St), IL",
-      "department": "Data & ML/AI / Fall 2026",
-      "company": "CCC Intelligent Solutions",
-      "score": 68,
+      "id": "canonical:ddb21727e49634e8",
+      "title": "Data Analytics Engineer Intern",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Analytics-Engineer-Intern_JR110584",
+      "location": "Dallas, TX - Headquarters",
+      "department": "Data & ML/AI / Not stated",
+      "company": "Copart",
+      "score": 93,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
