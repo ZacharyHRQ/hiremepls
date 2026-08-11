@@ -1,6 +1,6 @@
 # Open Internships
 
-**1977** internships across **179/179** companies — last updated 2026-08-11.
+**1988** internships across **179/179** companies — last updated 2026-08-11.
 
 ## Companies
 
@@ -105,6 +105,7 @@
 - [Brio Water Technology](#brio-water-technology) (1)
 - [Brookfield](#brookfield) (2)
 - [ByteDance](#bytedance) (58)
+- [Caddi Workflow Automation](#caddi-workflow-automation) (1)
 - [Cadence Design Systems](#cadence-design-systems) (7)
 - [CAE](#cae) (1)
 - [CALSTART](#calstart) (3)
@@ -139,7 +140,7 @@
 - [Clarity Innovations](#clarity-innovations) (1)
 - [Clerkie](#clerkie) (1)
 - [CloudFit Software](#cloudfit-software) (1)
-- [Cloudflare](#cloudflare) (16)
+- [Cloudflare](#cloudflare) (17)
 - [Cloudforce](#cloudforce) (1)
 - [Clyde Companies](#clyde-companies) (2)
 - [CME Group](#cme-group) (1)
@@ -189,7 +190,7 @@
 - [Dryft](#dryft) (1)
 - [DuPont](#dupont) (5)
 - [Duracell](#duracell) (1)
-- [DV Trading](#dv-trading) (2)
+- [DV Trading](#dv-trading) (3)
 - [East Penn Manufacturing Company](#east-penn-manufacturing-company) (3)
 - [EdgeTrace](#edgetrace) (1)
 - [Egra](#egra) (1)
@@ -352,6 +353,7 @@
 - [Lensa](#lensa) (3)
 - [LinkedIn](#linkedin) (3)
 - [Louisiana Blue](#louisiana-blue) (4)
+- [LPL Financial Holdings](#lpl-financial-holdings) (3)
 - [Lumentum](#lumentum) (2)
 - [Luminance](#luminance) (1)
 - [Magna](#magna) (3)
@@ -435,6 +437,7 @@
 - [NXP Semiconductors](#nxp-semiconductors) (1)
 - [Obsidian Solutions Group](#obsidian-solutions-group) (1)
 - [Occidental Petroleum](#occidental-petroleum) (1)
+- [OceanComm](#oceancomm) (1)
 - [Octaura](#octaura) (1)
 - [Odin Dynamics, Inc](#odin-dynamics-inc) (1)
 - [Old Mission](#old-mission) (6)
@@ -445,7 +448,7 @@
 - [Onware](#onware) (1)
 - [Open Road Integrated Media](#open-road-integrated-media) (1)
 - [Optiver](#optiver) (10)
-- [OpusClip](#opusclip) (1)
+- [OpusClip](#opusclip) (2)
 - [Oracle](#oracle) (6)
 - [Orennia](#orennia) (1)
 - [Otter Products](#otter-products) (1)
@@ -487,11 +490,13 @@
 - [Prophet](#prophet) (1)
 - [Prospect Equities](#prospect-equities) (1)
 - [PsiQuantum](#psiquantum) (1)
+- [PSP Investments](#psp-investments) (1)
 - [Pylon](#pylon) (1)
-- [QCP](#qcp) (3)
+- [QCP](#qcp) (2)
 - [Quadric](#quadric) (2)
 - [Quadrillion](#quadrillion) (3)
 - [Qualcomm](#qualcomm) (1)
+- [QuEra Computing](#quera-computing) (1)
 - [Quora](#quora) (1)
 - [Radix Trading](#radix-trading) (1)
 - [Rainmaker](#rainmaker) (1)
@@ -501,6 +506,7 @@
 - [Rendezvous Robotics](#rendezvous-robotics) (1)
 - [Reply](#reply) (1)
 - [RESPEC](#respec) (1)
+- [ResponsiveAds](#responsiveads) (1)
 - [Revise Robotics](#revise-robotics) (1)
 - [Revvity](#revvity) (1)
 - [RFCUNY](#rfcuny) (2)
@@ -538,6 +544,7 @@
 - [Sixtyfour (X25)](#sixtyfour-x25) (1)
 - [SK Hynix Memory Solution](#sk-hynix-memory-solution) (1)
 - [Skydio](#skydio) (3)
+- [SkyGig](#skygig) (1)
 - [Smiths Detection](#smiths-detection) (1)
 - [Smiths Detection Group](#smiths-detection-group) (1)
 - [Snap](#snap) (2)
@@ -596,6 +603,7 @@
 - [The Tatitlek Corporation](#the-tatitlek-corporation) (1)
 - [The Trade Desk](#the-trade-desk) (2)
 - [Thermo Fisher Scientific](#thermo-fisher-scientific) (1)
+- [Thingtrax](#thingtrax) (1)
 - [Thomson Reuters](#thomson-reuters) (1)
 - [thyssenkrupp](#thyssenkrupp) (2)
 - [TIFIN](#tifin) (1)
@@ -664,7 +672,7 @@
 - [Yotta Labs](#yotta-labs) (2)
 - [Zello](#zello) (1)
 - [Zettabyte](#zettabyte) (1)
-- [Zipline](#zipline) (4)
+- [Zipline](#zipline) (3)
 - [Zuru](#zuru) (1)
 
 ##  impact.com 
@@ -1616,6 +1624,12 @@
 | [Research Intern - AI/LLM Network](https://jobs.bytedance.com/en/position/7539991964504017170/detail) | 60 | San Jose, CA | AI/ML/Data | 2026-06-03 |
 | [Research Intern - Virtual Network](https://jobs.bytedance.com/en/position/7537164763424606482/detail) | 50 | San Jose, CA | Hardware | 2026-06-03 |
 
+## Caddi Workflow Automation
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://apply.workable.com/trycaddi/j/9D1291C697/apply) | 93 | Seattle, WA | Software | 2026-08-11 |
+
 ## Cadence Design Systems
 
 | Title | Score | Location | Department | First seen |
@@ -1895,6 +1909,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | 93 | In-Office | — | 2026-08-11 |
 | [U.S. Public Policy and AI Innovation Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8105728?gh_jid=8105728) | 58 | In-Office | — | 2026-08-04 |
 | [Marketing Programs and Analytics Intern](https://boards.greenhouse.io/cloudflare/jobs/8104138) | 48 | Austin, TX | AI/ML/Data | 2026-08-04 |
 | [Marketing Programs and Analytics Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8104138?gh_jid=8104138) | 38 | In-Office | — | 2026-08-04 |
@@ -2264,7 +2279,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719119005) | 93 | New York | Software / Summer 2027 | 2026-08-10 |
+| [Software Engineer Intern](https://job-boards.greenhouse.io/dvtrading/jobs/4719119005) | 93 | NYC | Software | 2026-08-11 |
+| [Software Engineer Intern - DV Commodities](https://job-boards.greenhouse.io/dvtrading/jobs/4719125005) | 93 | London, UK | Software | 2026-08-11 |
 | [Quantitative Risk Intern](https://job-boards.greenhouse.io/dvtrading/jobs/4719118005) | 68 | Chicago, IL | Quant | 2026-08-04 |
 
 ## East Penn Manufacturing Company
@@ -3429,6 +3445,14 @@
 | [Operational Reporting & Data Analyst Intern - CW](https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/CW-Operational-Reporting---Data-Analyst-Intern_R11907) | 68 | Baton Rouge, LA | AI/ML/Data | 2026-08-05 |
 | [Provider Reimbursement Intern](https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/CW-Provider-Reimbursement-Intern_R11964) | 68 | Baton Rouge, LA | AI/ML/Data | 2026-08-05 |
 
+## LPL Financial Holdings
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data Engineer Intern - Data](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027---Data_R-052914) | 93 | Austin, TX / Fort Mill, SC / Charlotte, NC | AI/ML/Data | 2026-08-11 |
+| [Software Engineer Intern](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Software-Engineer_R-052921) | 93 | Austin, TX / Fort Mill, SC / Charlotte, NC | Software | 2026-08-11 |
+| [Product Intern - Product](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Product_R-052918) | 58 | Austin, TX / Fort Mill, SC | Product | 2026-08-11 |
+
 ## Lumentum
 
 | Title | Score | Location | Department | First seen |
@@ -4016,6 +4040,12 @@
 | --- | --- | --- | --- | --- |
 | [Intern/Co-op Data - Well Servicing & Engineering](https://oxy.wd5.myworkdayjobs.com/Corporate/job/_JR100413) | 68 | Midland, TX / Houston, TX / Fort Lupton, CO / Morton, TX / Denver, CO | AI/ML/Data | 2026-07-21 |
 
+## OceanComm
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Electronics Technician Intern](https://apply.workable.com/oceancomm/j/AB7EE4F02B/apply) | 58 | Chicago, IL | Hardware | 2026-08-11 |
+
 ## Octaura
 
 | Title | Score | Location | Department | First seen |
@@ -4095,6 +4125,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [AI Product Management Intern](https://jobs.ashbyhq.com/opusclip/501d374d-7d4f-4889-bc53-0a1fd16253ea/application?embed=true) | 58 | Mountain View, CA | Product | 2026-08-11 |
 | [AI Research Intern](https://jobs.ashbyhq.com/opusclip/1966160d-8b4a-40f8-96c5-39a6d81122c2/application?embed=true) | 68 | Mountain View, CA | AI/ML/Data | 2026-08-01 |
 
 ## Oracle
@@ -4479,6 +4510,12 @@
 | --- | --- | --- | --- | --- |
 | [Optical Packaging and Characterization Engineer Intern](https://www.psiquantum.com/apply?gh_jid=7761881003) | 50 | Milpitas, CA | Hardware | 2026-06-03 |
 
+## PSP Investments
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI Solutions Intern - External Manager Selection & Monitoring](https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--AI-Solutions-for-External-Manager-Selection---Monitoring--May---August-2027-_R4933) | 68 | Montreal, QC, Canada | AI/ML/Data | 2026-08-11 |
+
 ## Pylon
 
 | Title | Score | Location | Department | First seen |
@@ -4489,9 +4526,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Intern, AML Compliance (Project Management)](https://apply.workable.com/qcp-group/j/D2512DB61F/) | 58 | Singapore, Singapore, Singapore | Compliance | 2026-08-11 |
 | [Intern, Compliance (AML Operations)](https://apply.workable.com/qcp-group/j/68D6E36FDF/) | 58 | Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia | Compliance | 2026-08-09 |
-| [Intern, Compliance (Project Management)](https://apply.workable.com/qcp-group/j/D2512DB61F/) | 58 | Singapore, Singapore, Singapore | Compliance | 2026-08-09 |
-| [Intern, Trading - ALM (Jan - Jun 2027)](https://apply.workable.com/qcp-group/j/4599D0F542/) | 58 | Singapore, Singapore, Singapore | Trading - ALM | 2026-08-09 |
 
 ## Quadric
 
@@ -4513,6 +4549,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [AI Integration & Interoperability Intern](https://qualcomm.eightfold.ai/careers/job/446716226621) | 60 | Cheektowaga, NY | Software | 2026-08-05 |
+
+## QuEra Computing
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Photonics Data Engineer Intern - Data Management](https://job-boards.greenhouse.io/queracomputinginc/jobs/5378366008) | 93 | Boston, MA | AI/ML/Data | 2026-08-11 |
 
 ## Quora
 
@@ -4569,6 +4611,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Student Engineering Intern - Data Science](https://jobs.smartrecruiters.com/RESPECInc/744000107100902) | 68 | Rapid City, SD | AI/ML/Data | 2026-05-09 |
+
+## ResponsiveAds
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Full-Stack Developer Intern - ResponsiveAds - Studio 4](https://apply.workable.com/responsiveads-inc/j/493EAC12D6/apply) | 93 | Vancouver, BC, Canada | Software | 2026-08-11 |
 
 ## Revise Robotics
 
@@ -4841,6 +4889,12 @@
 | [Hardware Test & Reliability Intern](https://jobs.ashbyhq.com/skydio/d75d4adf-760c-46b6-bb98-3497650a8924/application?embed=true) | 58 | San Mateo, CA | Hardware | 2026-08-05 |
 | [Product Management Intern](https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf/application?embed=true) | 58 | San Mateo, CA | Product | 2026-07-31 |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/skydio/f6320e9b-4eed-408d-8d37-d509fb0406ee) | 93 | San Mateo, CA | — | 2026-05-09 |
+
+## SkyGig
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [RFIC Design Intern](https://apply.workable.com/skygig/j/10A5A58F9E/apply) | 58 | San Jose, CA | Hardware | 2026-08-11 |
 
 ## Smiths Detection
 
@@ -5355,6 +5409,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Engineering Intern/Co-op](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Hillsboro-Oregon-USA/Winter-Engineering-Co-Op_R-01329364) | 68 | Hillsboro, OR | Software | 2026-07-21 |
+
+## Thingtrax
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Vision AI Intern - Vision AI](https://apply.workable.com/thingtrax/j/5D09B73294/apply) | 68 | Remote in UK | AI/ML/Data | 2026-08-11 |
 
 ## Thomson Reuters
 
@@ -5946,7 +6006,6 @@
 | [Embedded Software Engineer Intern](https://www.zipline.com/careers?gh_jid=7765240003#open-roles) | 85 | San Bruno, CA | Hardware | 2026-08-04 |
 | [Mechatronics Perception Intern - Fall 2026](https://www.zipline.com/open-roles?gh_jid=7763697003) | 50 | South SF | Hardware | 2026-08-04 |
 | [Enterprise Systems Software Engineer Intern](https://www.zipline.com/careers?gh_jid=7767667003#open-roles) | 85 | San Bruno, CA | Software | 2026-07-21 |
-| [Perception Intern](https://www.zipline.com/careers?gh_jid=7761650003#open-roles) | 60 | Dallas, TX / San Bruno, CA | AI/ML/Data | 2026-07-21 |
 
 ## Zuru
 
