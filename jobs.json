@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-11T06:33:01.480Z",
+  "generatedAt": "2026-08-11T07:51:31.050Z",
   "companyCount": 179,
   "okCount": 179,
-  "jobCount": 1991,
+  "jobCount": 1989,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1604,10 +1604,8 @@
     "canonical:88c728d0a77c0cde": "2026-08-04T03:32:55.088Z",
     "canonical:675e4983d1c4aad9": "2026-08-04T03:32:55.088Z",
     "canonical:0c1fdaa49f9ee376": "2026-08-04T09:06:37.515Z",
-    "canonical:d80882b0599096c9": "2026-08-04T09:06:37.515Z",
     "canonical:ce9d5d84ac506408": "2026-08-04T09:06:37.515Z",
     "canonical:a6aab99e0fa558e3": "2026-08-04T09:06:37.515Z",
-    "canonical:75bdde5a544492cd": "2026-08-04T09:06:37.515Z",
     "canonical:cab1f739c8bc1611": "2026-08-04T09:06:37.515Z",
     "canonical:16e4d02d2c543748": "2026-08-04T09:06:37.515Z",
     "canonical:f9adb752458a7386": "2026-08-04T09:06:37.515Z",
@@ -2541,10 +2539,10 @@
       ]
     },
     {
-      "id": "canonical:d1d20c5456576574",
+      "id": "canonical:adc1bdd879675b5a",
       "title": "Campus Data Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
-      "location": "Chicago",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7975008",
+      "location": "London",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -2554,10 +2552,10 @@
       ]
     },
     {
-      "id": "canonical:adc1bdd879675b5a",
+      "id": "canonical:d1d20c5456576574",
       "title": "Campus Data Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7975008",
-      "location": "London",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
+      "location": "Chicago",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -2714,10 +2712,10 @@
       ]
     },
     {
-      "id": "canonical:aa053f6ba830d433",
+      "id": "canonical:4da2c943e4eb3f7c",
       "title": "Campus Software Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
-      "location": "Chicago",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7975026",
+      "location": "London",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -2727,10 +2725,10 @@
       ]
     },
     {
-      "id": "canonical:4da2c943e4eb3f7c",
+      "id": "canonical:aa053f6ba830d433",
       "title": "Campus Software Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7975026",
-      "location": "London",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
+      "location": "Chicago",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -2752,10 +2750,10 @@
       ]
     },
     {
-      "id": "canonical:3b590c340646bfa7",
+      "id": "canonical:4d567555739a50bd",
       "title": "Campus Systems Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
-      "location": "Chicago",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
+      "location": "Singapore",
       "department": "",
       "company": "Jump Trading",
       "score": 75,
@@ -2764,10 +2762,10 @@
       ]
     },
     {
-      "id": "canonical:4d567555739a50bd",
+      "id": "canonical:3b590c340646bfa7",
       "title": "Campus Systems Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
-      "location": "Singapore",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
+      "location": "Chicago",
       "department": "",
       "company": "Jump Trading",
       "score": 75,
@@ -2789,10 +2787,10 @@
       ]
     },
     {
-      "id": "canonical:46205b9335861e9c",
+      "id": "canonical:7286f2830b7e7578",
       "title": "Campus UI Software Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7974943",
-      "location": "London",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019",
+      "location": "Chicago",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -2802,10 +2800,10 @@
       ]
     },
     {
-      "id": "canonical:7286f2830b7e7578",
+      "id": "canonical:46205b9335861e9c",
       "title": "Campus UI Software Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019",
-      "location": "Chicago",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7974943",
+      "location": "London",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -20456,19 +20454,6 @@
       ]
     },
     {
-      "id": "canonical:d80882b0599096c9",
-      "title": "Software Engineer: AI/ML & LLM Intern",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
-      "location": "Redmond, WA",
-      "department": "AI/ML/Data",
-      "company": "Microsoft",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:ce9d5d84ac506408",
       "title": "Software Engineer Intern - Data Platform & Analytics",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
@@ -20499,19 +20484,6 @@
       "id": "canonical:a6aab99e0fa558e3",
       "title": "Software Engineer Security & Identity Intern",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
-      "location": "Redmond, WA",
-      "department": "Software",
-      "company": "Microsoft",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:75bdde5a544492cd",
-      "title": "Full-Stack Product Engineer Intern - Web + Services",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
       "location": "Redmond, WA",
       "department": "Software",
       "company": "Microsoft",
