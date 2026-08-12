@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-12T06:12:23.109Z",
+  "generatedAt": "2026-08-12T07:50:19.837Z",
   "companyCount": 179,
   "okCount": 179,
-  "jobCount": 2010,
+  "jobCount": 2006,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -91,7 +91,6 @@
     "canonical:606d7f53b8e4e670": "2026-05-09T15:28:15.527Z",
     "canonical:30b49bc17727b7b6": "2026-05-09T15:28:15.527Z",
     "canonical:877c0a343b3cc748": "2026-05-09T15:28:15.527Z",
-    "canonical:3ac7e929b6c7398f": "2026-05-09T15:28:15.527Z",
     "canonical:60d4eb07453b6428": "2026-05-09T15:28:15.527Z",
     "canonical:7ca63fb282883ee7": "2026-05-09T15:28:15.527Z",
     "canonical:dbfb22c1cc92cb7d": "2026-05-09T15:28:15.527Z",
@@ -900,7 +899,6 @@
     "canonical:4adbc338b845e24f": "2026-07-21T07:03:27.767Z",
     "canonical:48ec88269f1f5384": "2026-07-21T07:03:27.767Z",
     "canonical:c1ed15000e565857": "2026-07-21T07:03:27.767Z",
-    "canonical:1a36c38a48406fc0": "2026-07-21T07:03:27.767Z",
     "canonical:c283b1d0aad7eb52": "2026-07-21T07:03:27.767Z",
     "canonical:219d5b6a1f795c65": "2026-07-21T07:03:27.767Z",
     "canonical:6b97deb726a272c9": "2026-07-21T07:03:27.767Z",
@@ -953,7 +951,6 @@
     "canonical:4e38cf81ef08bf49": "2026-07-21T22:35:30.061Z",
     "canonical:4cd3d8c99b8271ab": "2026-07-21T23:38:12.778Z",
     "canonical:8f719e98d94259cd": "2026-07-21T23:38:12.778Z",
-    "canonical:ecf345addfc0b406": "2026-07-21T23:38:12.778Z",
     "canonical:f8bfe29c74a5df11": "2026-07-21T23:38:12.778Z",
     "canonical:cc65309c51a0f196": "2026-07-22T01:04:17.268Z",
     "canonical:09305d61718c8a08": "2026-07-22T01:04:17.268Z",
@@ -1409,7 +1406,6 @@
     "canonical:f5b932c4dfe674f3": "2026-08-01T21:34:07.254Z",
     "canonical:07c662be3b869c84": "2026-08-01T21:34:07.254Z",
     "canonical:44b52479685bc87d": "2026-08-01T21:34:07.254Z",
-    "canonical:442875471c477a65": "2026-08-01T21:34:07.254Z",
     "canonical:b4dc9e032f1592ff": "2026-08-01T21:34:07.254Z",
     "canonical:de86b51d5550854e": "2026-08-01T21:34:07.254Z",
     "canonical:fe04260501acd4c5": "2026-08-01T21:34:07.254Z",
@@ -1729,7 +1725,6 @@
     "canonical:3991fa2cbfee863d": "2026-08-07T00:35:31.024Z",
     "canonical:646d47c8079d4595": "2026-08-07T00:35:31.024Z",
     "canonical:7037d3a96f64c8b6": "2026-08-07T00:35:31.024Z",
-    "canonical:d1f90bff265b0abb": "2026-08-07T00:35:31.024Z",
     "canonical:95bdf11ad37a661b": "2026-08-07T00:35:31.024Z",
     "canonical:0f259dc0186e372e": "2026-08-07T00:35:31.024Z",
     "canonical:cc1ecd880688e472": "2026-08-07T00:35:31.024Z",
@@ -1949,7 +1944,6 @@
     "canonical:40f31282007c6c8e": "2026-08-11T02:59:51.670Z",
     "canonical:f70db9a691cea305": "2026-08-11T06:33:01.480Z",
     "canonical:4c56ae0c795de31a": "2026-08-11T06:33:01.480Z",
-    "canonical:4670de827e8c60dc": "2026-08-11T06:33:01.480Z",
     "canonical:92ab6121cee9c982": "2026-08-11T06:33:01.480Z",
     "canonical:bf98938ea45fb54b": "2026-08-11T06:33:01.480Z",
     "canonical:1c3309ba85b6ccb1": "2026-08-11T06:33:01.480Z",
@@ -1981,7 +1975,6 @@
     "canonical:8136b771bdf847e6": "2026-08-11T17:37:01.648Z",
     "canonical:2c01b77277cd5d82": "2026-08-11T17:37:01.648Z",
     "canonical:1ebb36311723c118": "2026-08-11T17:37:01.648Z",
-    "canonical:9bf494d2d2c1b003": "2026-08-11T17:37:01.648Z",
     "canonical:8090dbcaf5c6355d": "2026-08-11T18:32:35.051Z",
     "canonical:c119404437a1a8a3": "2026-08-11T18:32:35.051Z",
     "canonical:c60e84787ad144af": "2026-08-11T19:43:14.290Z",
@@ -2012,8 +2005,11 @@
     "canonical:d11b1867dbaf8e91": "2026-08-12T03:09:31.251Z",
     "canonical:54b09af27e67eeef": "2026-08-12T03:09:31.251Z",
     "canonical:4548c1b1dea5d5ff": "2026-08-12T03:09:31.251Z",
-    "canonical:d76cf337a8154aca": "2026-08-12T04:58:23.983Z",
-    "canonical:d9ee2f30f45bb2d8": "2026-08-12T04:58:23.983Z"
+    "canonical:d9ee2f30f45bb2d8": "2026-08-12T04:58:23.983Z",
+    "canonical:3e28c9633776a8de": "2026-08-12T07:50:19.837Z",
+    "canonical:ac61dc3efffd3b7f": "2026-08-12T07:50:19.837Z",
+    "canonical:10c4af94f5d9c6fb": "2026-08-12T07:50:19.837Z",
+    "canonical:8da60f74695dc8d1": "2026-08-12T07:50:19.837Z"
   },
   "jobs": [
     {
@@ -3810,10 +3806,10 @@
       ]
     },
     {
-      "id": "canonical:d76cf337a8154aca",
+      "id": "canonical:3e28c9633776a8de",
       "title": "Intern, Risk (Jan - Jun 2027)",
       "url": "https://apply.workable.com/qcp-group/j/6B1690698E/",
-      "location": "Singapore, Central Singapore, Singapore",
+      "location": "Singapore, Singapore, Singapore",
       "department": "Market Risk",
       "company": "QCP",
       "score": 58,
@@ -9148,20 +9144,6 @@
       ]
     },
     {
-      "id": "canonical:1a36c38a48406fc0",
-      "title": "Software Architecture Engineer Intern",
-      "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Architecture-Engineer-Intern_JR100106",
-      "location": "United States",
-      "department": "Hardware",
-      "company": "Ambarella",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:71f4c1680b019759",
       "title": "Hunyuan Multimodal Algorithm Researcher Intern",
       "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-Intern-Omni-Modal---_R107051",
@@ -9776,19 +9758,6 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:3ac7e929b6c7398f",
-      "title": "Machine Learning Scientist Intern - TikTok Recommendation",
-      "url": "https://lifeattiktok.com/search/7519241729582516487",
-      "location": "San Jose, CA",
-      "department": "AI/ML/Data",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -11795,19 +11764,6 @@
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:ecf345addfc0b406",
-      "title": "Data Analysis Intern",
-      "url": "https://nio.wd3.myworkdayjobs.com/NIO_Careers/job/San-Jose-US/Data-Analysis-Intern_R-000153",
-      "location": "San Jose, CA",
-      "department": "AI/ML/Data",
-      "company": "Nio",
-      "score": 68,
-      "scoreReasons": [
         "high-signal role",
         "direct ATS"
       ]
@@ -17135,18 +17091,6 @@
       ]
     },
     {
-      "id": "canonical:442875471c477a65",
-      "title": "UIUC Research Park Intern - Computational Methods Development",
-      "url": "https://careers.rivian.com/jobs/32340?icims=1",
-      "location": "Urbana, IL",
-      "department": "AI/ML/Data",
-      "company": "Rivian",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:314b90eb0f07a49c",
       "title": "FPGA Digital Design Engineer Intern",
       "url": "https://jobs.lever.co/kepler/f06ca5e6-2e7f-4b76-a5c4-cb423d3cfc03/apply",
@@ -21546,18 +21490,6 @@
       ]
     },
     {
-      "id": "canonical:d1f90bff265b0abb",
-      "title": "Artificial Intelligence Intern",
-      "url": "https://careers-otterproducts.icims.com/jobs/6912/job?mobile=true&needsRedirect=false",
-      "location": "Fort Collins, CO",
-      "department": "AI/ML/Data",
-      "company": "Otter Products",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:95bdf11ad37a661b",
       "title": "Deep Learning Research Intern - Multimodal BEV Perception",
       "url": "https://jobs.lever.co/plus-2/2ee24f85-bfa1-47fc-bfe3-fd07521a7b62/apply",
@@ -23222,20 +23154,6 @@
       ]
     },
     {
-      "id": "canonical:4670de827e8c60dc",
-      "title": "Analyst Intern - Equity Research - Sales, Trading & Research",
-      "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/XMLNAME-2027-Truist-Securities---Equity-Research--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117762-1",
-      "location": "NYC / Atlanta, GA",
-      "department": "Quant",
-      "company": "Truist Bank",
-      "score": 48,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS",
-        "lower-fit title"
-      ]
-    },
-    {
       "id": "canonical:92ab6121cee9c982",
       "title": "Fixed Income Loans S&T Intern - Sales, Trading & Research - Analyst Program",
       "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/XMLNAME-2027-Truist-Securities---Fixed-Income-Loans-S-T--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117765-1",
@@ -23557,20 +23475,6 @@
       ]
     },
     {
-      "id": "canonical:9bf494d2d2c1b003",
-      "title": "Full Stack Engineer Intern - Data Cognition Team",
-      "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto_R260021769",
-      "location": "Toronto, ON, Canada",
-      "department": "Software",
-      "company": "Bank of Montreal",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:8090dbcaf5c6355d",
       "title": "Software Engineering Analyst Intern - Government & Public Services",
       "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Software-Engineering/362448",
@@ -23842,6 +23746,47 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:ac61dc3efffd3b7f",
+      "title": "Web Developer/Programmer Intern",
+      "url": "https://jobs.smartrecruiters.com/LuxeMediaLLC/83337967",
+      "location": "Chicago, IL",
+      "department": "Software",
+      "company": "Felix Magazine",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:10c4af94f5d9c6fb",
+      "title": "Database Coordinator Volunteer/Intern",
+      "url": "https://jobs.smartrecruiters.com/LuxeMediaLLC/83121944",
+      "location": "Chicago, IL",
+      "department": "AI/ML/Data",
+      "company": "Felix Magazine",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:8da60f74695dc8d1",
+      "title": "Web Developer/Programmer Intern",
+      "url": "https://jobs.smartrecruiters.com/LuxeMediaLLC/83337884",
+      "location": "LA",
+      "department": "Software",
+      "company": "Felix Magazine",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {

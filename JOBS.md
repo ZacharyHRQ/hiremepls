@@ -1,6 +1,6 @@
 # Open Internships
 
-**2010** internships across **179/179** companies — last updated 2026-08-12.
+**2006** internships across **179/179** companies — last updated 2026-08-12.
 
 ## Companies
 
@@ -23,7 +23,7 @@
 - [Altice USA](#altice-usa) (1)
 - [Altom Transport](#altom-transport) (1)
 - [Amazon](#amazon) (170)
-- [Ambarella](#ambarella) (7)
+- [Ambarella](#ambarella) (6)
 - [Amber Group](#amber-group) (1)
 - [Amcor](#amcor) (1)
 - [Amentum](#amentum) (1)
@@ -70,7 +70,6 @@
 - [AXQ Capital](#axq-capital) (1)
 - [BAE Systems](#bae-systems) (1)
 - [Bank of America](#bank-of-america) (1)
-- [Bank of Montreal](#bank-of-montreal) (1)
 - [Barkback](#barkback) (1)
 - [Base Power](#base-power) (3)
 - [Beacon Software](#beacon-software) (2)
@@ -229,6 +228,7 @@
 - [Facility Solutions Group](#facility-solutions-group) (1)
 - [Faire](#faire) (2)
 - [Fanatics](#fanatics) (3)
+- [Felix Magazine](#felix-magazine) (3)
 - [Field AI](#field-ai) (1)
 - [Figma](#figma) (2)
 - [Figure](#figure) (3)
@@ -433,7 +433,7 @@
 - [Nextiva](#nextiva) (1)
 - [Nightwing](#nightwing) (1)
 - [Nightwing Intelligence Solutions](#nightwing-intelligence-solutions) (2)
-- [Nio](#nio) (3)
+- [Nio](#nio) (2)
 - [Nissan Global](#nissan-global) (1)
 - [Niural](#niural) (1)
 - [Noblis](#noblis) (1)
@@ -462,7 +462,6 @@
 - [OpusClip](#opusclip) (2)
 - [Oracle](#oracle) (6)
 - [Orennia](#orennia) (1)
-- [Otter Products](#otter-products) (1)
 - [Output Biosciences](#output-biosciences) (1)
 - [Palantir](#palantir) (89)
 - [Palo Alto Networks](#palo-alto-networks) (1)
@@ -523,7 +522,7 @@
 - [RFCUNY](#rfcuny) (2)
 - [Rho](#rho) (1)
 - [Rippling](#rippling) (6)
-- [Rivian](#rivian) (4)
+- [Rivian](#rivian) (3)
 - [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (14)
 - [RLI](#rli) (1)
 - [Roam](#roam) (1)
@@ -617,7 +616,7 @@
 - [Thomson Reuters](#thomson-reuters) (1)
 - [thyssenkrupp](#thyssenkrupp) (2)
 - [TIFIN](#tifin) (1)
-- [TikTok](#tiktok) (112)
+- [TikTok](#tiktok) (111)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
 - [Together AI](#together-ai) (3)
@@ -631,7 +630,7 @@
 - [Trata](#trata) (1)
 - [Trend Micro](#trend-micro) (1)
 - [Trillium](#trillium) (4)
-- [Truist Bank](#truist-bank) (3)
+- [Truist Bank](#truist-bank) (2)
 - [Turabify](#turabify) (1)
 - [Two Sigma](#two-sigma) (2)
 - [Uber](#uber) (1)
@@ -988,7 +987,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Algorithm Engineer Intern](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Algorithm-Engineer-Intern_JR100102) | 93 | United States | AI/ML/Data | 2026-07-21 |
-| [Software Architecture Engineer Intern](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Architecture-Engineer-Intern_JR100106) | 93 | United States | Hardware | 2026-07-21 |
 | [Software Engineer Intern](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Engineer-Intern_JR100107) | 93 | United States | Hardware | 2026-07-21 |
 | [ASIC Design Engineer Intern](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/ASIC-Design-Engineer-Intern_JR100100) | 58 | United States | Hardware | 2026-07-21 |
 | [DFT Engineer Intern](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/DFT-Engineer-Intern_JR100103) | 58 | United States | Hardware | 2026-07-21 |
@@ -1343,12 +1341,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Global Technology Summer Analyst 2026 - Business Analyst](https://careers.bankofamerica.com/en-us/students/job-detail/12943/global-technology-summer-analyst-2026-business-analyst-multiple-locations-esomprank-d41yanam0v-12) | 50 | Charlotte, North Carolina; Chicago, Illinois; Dallas, Texas; | — | 2026-07-09 |
-
-## Bank of Montreal
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Full Stack Engineer Intern - Data Cognition Team](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto_R260021769) | 93 | Toronto, ON, Canada | Software | 2026-08-11 |
 
 ## Barkback
 
@@ -2545,6 +2537,14 @@
 | [AI Intern](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27180) | 60 | NYC | Software | 2026-05-09 |
 | [Collectibles Intern - Product - Physical Trading Cards](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26720) | 60 | NYC | Quant | 2026-05-09 |
 | [Collectibles Intern - Product - Physical Trading Cards](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27190) | 60 | Coppell, TX | Quant | 2026-05-09 |
+
+## Felix Magazine
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Web Developer/Programmer Intern](https://jobs.smartrecruiters.com/LuxeMediaLLC/83337967) | 93 | Chicago, IL | Software | 2026-08-12 |
+| [Web Developer/Programmer Intern](https://jobs.smartrecruiters.com/LuxeMediaLLC/83337884) | 93 | LA | Software | 2026-08-12 |
+| [Database Coordinator Volunteer/Intern](https://jobs.smartrecruiters.com/LuxeMediaLLC/83121944) | 68 | Chicago, IL | AI/ML/Data | 2026-08-12 |
 
 ## Field AI
 
@@ -4019,7 +4019,6 @@
 | --- | --- | --- | --- | --- |
 | [Systems Verification & Concurrent Kernel Architecture Research Intern](https://nio.wd3.myworkdayjobs.com/NIO_Careers/job/San-Jose-US/Systems-Verification---Concurrent-Kernel-Architecture-Research-Intern_R-000139) | 68 | San Jose, CA | Software | 2026-08-01 |
 | [LLM Algorithmic Optimization Engineer – Intern](https://nio.wd3.myworkdayjobs.com/NIO_Careers/job/San-Jose-US/LLM-Algorithmic-Optimization-Engineer---Intern_R-000119) | 93 | San Jose, CA | AI/ML/Data | 2026-08-01 |
-| [Data Analysis Intern](https://nio.wd3.myworkdayjobs.com/NIO_Careers/job/San-Jose-US/Data-Analysis-Intern_R-000153) | 68 | San Jose, CA | AI/ML/Data | 2026-07-21 |
 
 ## Nissan Global
 
@@ -4218,12 +4217,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Analytics Intern](https://boards.greenhouse.io/orennia/jobs/5277706008) | 68 | Calgary, AB, Canada | AI/ML/Data | 2026-07-07 |
-
-## Otter Products
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Artificial Intelligence Intern](https://careers-otterproducts.icims.com/jobs/6912/job?mobile=true&needsRedirect=false) | 60 | Fort Collins, CO | AI/ML/Data | 2026-08-07 |
 
 ## Output Biosciences
 
@@ -4593,7 +4586,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Intern, Risk (Jan - Jun 2027)](https://apply.workable.com/qcp-group/j/6B1690698E/) | 58 | Singapore, Central Singapore, Singapore | Market Risk | 2026-08-12 |
+| [Intern, Risk (Jan - Jun 2027)](https://apply.workable.com/qcp-group/j/6B1690698E/) | 58 | Singapore, Singapore, Singapore | Market Risk | 2026-08-12 |
 | [Intern, Quantitative Developer (Jan - Jun 2027)](https://apply.workable.com/qcp-group/j/22CE3A4EDE/) | 93 | Singapore, Singapore, Singapore | Research & Development | 2026-08-12 |
 | [Intern, AML Compliance - Project Management (Jan - Jun 2027)](https://apply.workable.com/qcp-group/j/D2512DB61F/) | 58 | Singapore, Singapore, Singapore | Compliance | 2026-08-12 |
 | [Intern, Compliance - AML Operations (Jan 2027 intake)](https://apply.workable.com/qcp-group/j/68D6E36FDF/) | 58 | Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia | Compliance | 2026-08-12 |
@@ -4742,7 +4735,6 @@
 | [UIUC Research Park Intern - Validation](https://careers.rivian.com/jobs/29771?lang=en-us&icims=1) | 50 | Urbana, IL | Hardware | 2026-08-10 |
 | [Machine Learning Compiler Intern - Machine Learning Compiler](https://careers.rivian.com/jobs/29851?icims=1) | 60 | Urbana, IL | AI/ML/Data | 2026-08-02 |
 | [Intern](https://careers.rivian.com/jobs/32355?icims=1) | 60 | Urbana, IL | AI/ML/Data | 2026-08-01 |
-| [UIUC Research Park Intern - Computational Methods Development](https://careers.rivian.com/jobs/32340?icims=1) | 60 | Urbana, IL | AI/ML/Data | 2026-08-01 |
 
 ## Rivian and Volkswagen Group Technologies
 
@@ -5627,7 +5619,6 @@
 | [AI Software Engineer Intern - Transaction Platform](https://lifeattiktok.com/search/7646621925436131637) | 85 | San Jose, CA | Software | 2026-06-09 |
 | [Data Science Intern - Tiktok Shop-Supply Chain & Logistics](https://lifeattiktok.com/search/7644719084681234741) | 60 | Seattle, WA | AI/ML/Data | 2026-05-28 |
 | [Data Analyst Intern - TikTok Live](https://lifeattiktok.com/search/7642264645810292997) | 60 | London, UK | AI/ML/Data | 2026-05-21 |
-| [Machine Learning Scientist Intern - TikTok Recommendation](https://lifeattiktok.com/search/7519241729582516487) | 85 | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [AI Product Operations Intern](https://lifeattiktok.com/search/7611950589973186821) | 60 | San Jose, CA | AI/ML/Data | 2026-05-09 |
 | [Data Analyst Project Intern - Data Science](https://lifeattiktok.com/search/7620775575152462085) | 60 | London, UK | AI/ML/Data | 2026-05-09 |
 
@@ -5727,7 +5718,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Analyst Intern - Equity Research - Sales, Trading & Research](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/XMLNAME-2027-Truist-Securities---Equity-Research--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117762-1) | 48 | NYC / Atlanta, GA | Quant | 2026-08-11 |
 | [Fixed Income Loans S&T Intern - Sales, Trading & Research - Analyst Program](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/XMLNAME-2027-Truist-Securities---Fixed-Income-Loans-S-T--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117765-1) | 48 | NYC | Quant | 2026-08-11 |
 | [Technology and Operations Intern Conversion - Data](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/XMLNAME-2027-Technology--Data--and-Operations-Internship---Intern-Conversion-_R0117276) | 68 | Charlotte, NC / Atlanta, GA | Software | 2026-08-10 |
 
