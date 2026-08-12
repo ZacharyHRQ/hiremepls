@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-12T17:38:04.745Z",
+  "generatedAt": "2026-08-12T18:32:41.982Z",
   "companyCount": 179,
   "okCount": 179,
-  "jobCount": 2012,
+  "jobCount": 2014,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2015,7 +2015,9 @@
     "canonical:a050afb4a6afe403": "2026-08-12T16:32:38.617Z",
     "canonical:d68411deab859a50": "2026-08-12T17:38:04.745Z",
     "canonical:04172e347ecd89c6": "2026-08-12T17:38:04.745Z",
-    "canonical:8c33dd8961483d6c": "2026-08-12T17:38:04.745Z"
+    "canonical:8c33dd8961483d6c": "2026-08-12T17:38:04.745Z",
+    "canonical:ef16c05140251791": "2026-08-12T18:32:41.982Z",
+    "canonical:e86e40624ec28eed": "2026-08-12T18:32:41.982Z"
   },
   "jobs": [
     {
@@ -7047,18 +7049,6 @@
       ]
     },
     {
-      "id": "canonical:c4899e61c3f2d9c6",
-      "title": "Applied Research Intern Co-op",
-      "url": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Block",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:0942563fedd29433",
       "title": "Applied Research Intern PhD / Graduate Co-op",
       "url": "http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008",
@@ -7069,6 +7059,18 @@
       "scoreReasons": [
         "high-signal role",
         "new grad"
+      ]
+    },
+    {
+      "id": "canonical:c4899e61c3f2d9c6",
+      "title": "Applied Research Intern Co-op",
+      "url": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
+      "location": "Toronto, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "Block",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
       ]
     },
     {
@@ -23214,19 +23216,6 @@
       ]
     },
     {
-      "id": "canonical:f85bbf8b59220012",
-      "title": "Software Engineer Intern",
-      "url": "https://www.quantbot.com/careers/4299458009?gh_jid=4299458009",
-      "location": "NYC",
-      "department": "Software",
-      "company": "Quantbot Technologies",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:d6c416e9054d8a83",
       "title": "Machine Learning Research Engineer Intern",
       "url": "https://www.quantbot.com/careers/4340833009?gh_jid=4340833009",
@@ -23818,6 +23807,19 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f85bbf8b59220012",
+      "title": "Software Engineer Intern",
+      "url": "https://www.quantbot.com/careers/4299458009?gh_jid=4299458009",
+      "location": "NYC",
+      "department": "Software",
+      "company": "Quantbot Technologies",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
@@ -27021,6 +27023,34 @@
       "score": 42,
       "scoreReasons": [
         "aggregator link"
+      ]
+    },
+    {
+      "id": "canonical:ef16c05140251791",
+      "title": "Fall 2026 Intern - Product Software Developer",
+      "url": "https://boards.greenhouse.io/assuredguaranty/jobs/8700953002?gh_jid=8700953002",
+      "location": "New York, NY, United States",
+      "department": "Software / Fall 2026",
+      "company": "Assured Guaranty",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:e86e40624ec28eed",
+      "title": "Sports Research Engineer Intern",
+      "url": "https://newbalance.wd1.myworkdayjobs.com/careers/job/Sports-Research-Lab-Brighton-MA/Sports-Research-Engineer-Intern_R40740",
+      "location": "Sports Research Lab, Brighton MA",
+      "department": "Software / Not stated",
+      "company": "New Balance",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {

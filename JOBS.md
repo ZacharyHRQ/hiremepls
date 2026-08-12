@@ -1,6 +1,6 @@
 # Open Internships
 
-**2012** internships across **179/179** companies — last updated 2026-08-12.
+**2014** internships across **179/179** companies — last updated 2026-08-12.
 
 ## Companies
 
@@ -56,6 +56,7 @@
 - [ASM Global](#asm-global) (4)
 - [ASM International](#asm-international) (1)
 - [ASML](#asml) (2)
+- [Assured Guaranty](#assured-guaranty) (1)
 - [Astera](#astera) (3)
 - [Astera Labs](#astera-labs) (3)
 - [Astranis](#astranis) (7)
@@ -427,6 +428,7 @@
 - [Netic](#netic) (3)
 - [Netsmart](#netsmart) (1)
 - [Neuralink](#neuralink) (4)
+- [New Balance](#new-balance) (1)
 - [New York Post Holdings](#new-york-post-holdings) (1)
 - [NewsBreak](#newsbreak) (1)
 - [Nexstar](#nexstar) (1)
@@ -1234,6 +1236,12 @@
 | --- | --- | --- | --- | --- |
 | [Internship - Software Development Engineer in Test](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Development-Engineer-in-Test_J-00328071) | 93 | San Jose, CA | Software Engineering | 2026-05-09 |
 | [Internship - Software Quality Assurance](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Software-Quality-Assurance_J-00327394) | 93 | San Jose, CA | Software Engineering | 2026-05-09 |
+
+## Assured Guaranty
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Fall 2026 Intern - Product Software Developer](https://boards.greenhouse.io/assuredguaranty/jobs/8700953002?gh_jid=8700953002) | 93 | New York, NY, United States | Software / Fall 2026 | 2026-08-12 |
 
 ## Astera
 
@@ -3974,6 +3982,12 @@
 | [Software Engineer Intern - Infrastructure](https://boards.greenhouse.io/neuralink/jobs/5469298003) | 93 | Fremont, CA | Software | 2026-05-16 |
 | [Machine Learning Engineer Intern](https://boards.greenhouse.io/neuralink/jobs/6594261003) | 93 | Fremont, CA | AI/ML/Data | 2026-05-13 |
 | [Software Engineer Intern - Internal Apps](https://boards.greenhouse.io/neuralink/jobs/6083322003) | 93 | Fremont, CA / Austin, TX | Software | 2026-05-09 |
+
+## New Balance
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Sports Research Engineer Intern](https://newbalance.wd1.myworkdayjobs.com/careers/job/Sports-Research-Lab-Brighton-MA/Sports-Research-Engineer-Intern_R40740) | 93 | Sports Research Lab, Brighton MA | Software / Not stated | 2026-08-12 |
 
 ## New York Post Holdings
 
