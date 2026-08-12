@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-12T18:32:41.982Z",
+  "generatedAt": "2026-08-12T19:45:06.044Z",
   "companyCount": 179,
   "okCount": 179,
-  "jobCount": 2014,
+  "jobCount": 2011,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -116,7 +116,6 @@
     "canonical:b5545588e338ddbb": "2026-05-09T15:28:15.527Z",
     "canonical:7c9a6f1e70b82f33": "2026-05-09T15:28:15.527Z",
     "canonical:7c07dd1661862a16": "2026-05-11T23:38:25.770Z",
-    "canonical:d740b7c5e5a74f25": "2026-05-11T23:38:25.770Z",
     "canonical:ce5569247a10aa36": "2026-05-13T22:37:04.081Z",
     "canonical:9439282ae35186c1": "2026-05-14T01:31:29.727Z",
     "canonical:4d80d3c0fa984737": "2026-05-14T05:32:10.854Z",
@@ -946,7 +945,6 @@
     "canonical:34fe0e96b7df43d3": "2026-07-21T22:35:30.061Z",
     "canonical:4e38cf81ef08bf49": "2026-07-21T22:35:30.061Z",
     "canonical:4cd3d8c99b8271ab": "2026-07-21T23:38:12.778Z",
-    "canonical:8f719e98d94259cd": "2026-07-21T23:38:12.778Z",
     "canonical:f8bfe29c74a5df11": "2026-07-21T23:38:12.778Z",
     "canonical:cc65309c51a0f196": "2026-07-22T01:04:17.268Z",
     "canonical:09305d61718c8a08": "2026-07-22T01:04:17.268Z",
@@ -1535,7 +1533,6 @@
     "canonical:582d6baa394fac8a": "2026-08-03T22:56:56.083Z",
     "canonical:8ab3835c5fa0def9": "2026-08-03T22:56:56.083Z",
     "canonical:0e93f286ad316954": "2026-08-03T22:56:56.083Z",
-    "canonical:f737fd209e879331": "2026-08-04T00:03:15.414Z",
     "canonical:4247bea2cf4aab99": "2026-08-04T00:03:15.414Z",
     "canonical:6911f37ee88aa6e6": "2026-08-04T00:03:15.414Z",
     "canonical:ff8825c8332d6109": "2026-08-04T00:03:15.414Z",
@@ -1940,7 +1937,6 @@
     "canonical:89e7b0c6b4dfe205": "2026-08-11T17:37:01.648Z",
     "canonical:761eec75116a8104": "2026-08-11T17:37:01.648Z",
     "canonical:2a6ed25ad9b13b4f": "2026-08-11T17:37:01.648Z",
-    "canonical:f85bbf8b59220012": "2026-08-11T17:37:01.648Z",
     "canonical:d6c416e9054d8a83": "2026-08-11T17:37:01.648Z",
     "canonical:d873e9e921930979": "2026-08-11T17:37:01.648Z",
     "canonical:99d4d3b064aee8b6": "2026-08-11T17:37:01.648Z",
@@ -2017,7 +2013,8 @@
     "canonical:04172e347ecd89c6": "2026-08-12T17:38:04.745Z",
     "canonical:8c33dd8961483d6c": "2026-08-12T17:38:04.745Z",
     "canonical:ef16c05140251791": "2026-08-12T18:32:41.982Z",
-    "canonical:e86e40624ec28eed": "2026-08-12T18:32:41.982Z"
+    "canonical:e86e40624ec28eed": "2026-08-12T18:32:41.982Z",
+    "canonical:b16d4746e2e8eaa3": "2026-08-12T19:45:06.044Z"
   },
   "jobs": [
     {
@@ -9180,19 +9177,6 @@
       ]
     },
     {
-      "id": "canonical:ff280c9810ac0117",
-      "title": "Product Management/Marketing Intern - Summer 2026",
-      "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Charlotte-NC/Product-Management-Marketing-Intern---Summer-2026_JR0000037719-3",
-      "location": "Charlotte, NC",
-      "department": "Product",
-      "company": "Marmon Holdings",
-      "score": 38,
-      "scoreReasons": [
-        "direct ATS",
-        "lower-fit title"
-      ]
-    },
-    {
       "id": "canonical:60b30a2541365f63",
       "title": "Digital Production Engineering Intern OR Student Co-Op",
       "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Digital-Production-Engineering-Intern-OR-Student-Co-Op_JR0000037451",
@@ -10584,19 +10568,6 @@
       ]
     },
     {
-      "id": "canonical:8f719e98d94259cd",
-      "title": "Research Intern",
-      "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Intern_REQ_0000077386-1",
-      "location": "State College, PA",
-      "department": "AI/ML/Data",
-      "company": "Pennsylvania State University",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:7134f71d6610c363",
       "title": "AI Intern",
       "url": "https://jobs-cesi.icims.com/jobs/10965/ai-intern/job",
@@ -10619,6 +10590,19 @@
       "scoreReasons": [
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ff280c9810ac0117",
+      "title": "Product Management/Marketing Intern - Summer 2026",
+      "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Charlotte-NC/Product-Management-Marketing-Intern---Summer-2026_JR0000037719-4",
+      "location": "Charlotte, NC",
+      "department": "Product",
+      "company": "Marmon Holdings",
+      "score": 38,
+      "scoreReasons": [
+        "direct ATS",
+        "lower-fit title"
       ]
     },
     {
@@ -10718,20 +10702,6 @@
       "company": "Heron Power",
       "score": 58,
       "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:d740b7c5e5a74f25",
-      "title": "Payments Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/super.com/6a0dc25b-6eb2-411e-a862-6b083d9bad3c/application",
-      "location": "Toronto, ON, Canada",
-      "department": "Software",
-      "company": "Super",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
         "direct ATS"
       ]
     },
@@ -17166,18 +17136,6 @@
       ]
     },
     {
-      "id": "canonical:f737fd209e879331",
-      "title": "Data Analytics Intern",
-      "url": "https://impulsespace.pinpointhq.com/en/postings/bf86b5dc-b3bd-4bb1-b51c-75744ff8d978?ats=pinpointhq",
-      "location": "El Segundo, CA",
-      "department": "AI/ML/Data",
-      "company": "Impulse Space",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:b4dc9e032f1592ff",
       "title": "AI Research Intern",
       "url": "https://jobs.ashbyhq.com/opusclip/1966160d-8b4a-40f8-96c5-39a6d81122c2/application?embed=true",
@@ -21051,19 +21009,6 @@
       ]
     },
     {
-      "id": "canonical:026b50bb472e1106",
-      "title": "Artificial Intelligence/Machine Learning Intern",
-      "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church---3150-Fairview-Park-Dr-VAS095/GDIT-2027-Summer-AI---ML-Internship_RQ225401",
-      "location": "Falls Church, VA",
-      "department": "AI/ML/Data",
-      "company": "General Dynamics Information Technology",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:7b9951c4906c2cc9",
       "title": "Trader Intern - Summer",
       "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937",
@@ -21787,6 +21732,19 @@
       "location": "Okemos, MI",
       "department": "Software",
       "company": "Delta Dental",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:026b50bb472e1106",
+      "title": "Artificial Intelligence/Machine Learning Intern",
+      "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912",
+      "location": "Falls Church, VA",
+      "department": "AI/ML/Data",
+      "company": "General Dynamics Information Technology",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -23807,19 +23765,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:f85bbf8b59220012",
-      "title": "Software Engineer Intern",
-      "url": "https://www.quantbot.com/careers/4299458009?gh_jid=4299458009",
-      "location": "NYC",
-      "department": "Software",
-      "company": "Quantbot Technologies",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -27249,6 +27194,19 @@
       "location": "Houston, Texas",
       "department": "Software / Not stated",
       "company": "KBR",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:b16d4746e2e8eaa3",
+      "title": "GDIT 2027 Summer AI / ML Internship",
+      "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church---3150-Fairview-Park-Dr-VAS095/GDIT-2027-Summer-AI---ML-Internship_RQ225401",
+      "location": "USA VA Falls Church - 3150 Fairview Park Dr (VAS095)",
+      "department": "Data & ML/AI / Summer 2027",
+      "company": "General Dynamics Information Technology",
       "score": 68,
       "scoreReasons": [
         "high-signal role",

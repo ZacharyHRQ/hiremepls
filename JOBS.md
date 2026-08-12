@@ -1,6 +1,6 @@
 # Open Internships
 
-**2014** internships across **179/179** companies — last updated 2026-08-12.
+**2011** internships across **179/179** companies — last updated 2026-08-12.
 
 ## Companies
 
@@ -260,7 +260,7 @@
 - [Gemini](#gemini) (1)
 - [Generac](#generac) (1)
 - [General Astronautics](#general-astronautics) (1)
-- [General Dynamics Information Technology](#general-dynamics-information-technology) (3)
+- [General Dynamics Information Technology](#general-dynamics-information-technology) (4)
 - [General Dynamics Mission Systems](#general-dynamics-mission-systems) (1)
 - [General Intuition &amp; Medal](#general-intuition-amp-medal) (1)
 - [GenMD](#genmd) (1)
@@ -318,7 +318,6 @@
 - [iHeartMedia](#iheartmedia) (1)
 - [IMC](#imc) (4)
 - [IMC Trading](#imc-trading) (29)
-- [Impulse Space](#impulse-space) (1)
 - [Incident IQ](#incident-iq) (1)
 - [InfiniteQuant](#infinitequant) (1)
 - [Infojini](#infojini) (1)
@@ -473,7 +472,7 @@
 - [PDT Partners](#pdt-partners) (2)
 - [Pendulum Intelligence](#pendulum-intelligence) (1)
 - [PennState University](#pennstate-university) (1)
-- [Pennsylvania State University](#pennsylvania-state-university) (7)
+- [Pennsylvania State University](#pennsylvania-state-university) (6)
 - [Pentair](#pentair) (2)
 - [Peraton](#peraton) (1)
 - [Periodic Labs](#periodic-labs) (1)
@@ -506,7 +505,7 @@
 - [Quadric](#quadric) (2)
 - [Quadrillion](#quadrillion) (3)
 - [Qualcomm](#qualcomm) (1)
-- [Quantbot Technologies](#quantbot-technologies) (7)
+- [Quantbot Technologies](#quantbot-technologies) (6)
 - [QuEra Computing](#quera-computing) (1)
 - [Quora](#quora) (1)
 - [Radix Trading](#radix-trading) (1)
@@ -579,7 +578,7 @@
 - [Stoke Space](#stoke-space) (1)
 - [Stripe](#stripe) (3)
 - [StudyFetch](#studyfetch) (2)
-- [Super](#super) (3)
+- [Super](#super) (2)
 - [Susquehanna](#susquehanna) (1)
 - [Susquehanna International Group (SIG)](#susquehanna-international-group-sig) (19)
 - [Susquehanna International Group, LLP (SIG)](#susquehanna-international-group-llp-sig) (3)
@@ -2751,8 +2750,9 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [GDIT 2027 Summer AI / ML Internship](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church---3150-Fairview-Park-Dr-VAS095/GDIT-2027-Summer-AI---ML-Internship_RQ225401) | 68 | USA VA Falls Church - 3150 Fairview Park Dr (VAS095) | Data & ML/AI / Summer 2027 | 2026-08-12 |
 | [Summer 2027 Software Developer Internship](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1) | 93 | USA MD Annapolis Junction | Software / Summer 2027 | 2026-08-10 |
-| [Artificial Intelligence/Machine Learning Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church---3150-Fairview-Park-Dr-VAS095/GDIT-2027-Summer-AI---ML-Internship_RQ225401) | 68 | Falls Church, VA | AI/ML/Data | 2026-08-05 |
+| [Artificial Intelligence/Machine Learning Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912) | 68 | Falls Church, VA | AI/ML/Data | 2026-08-05 |
 | [Systems Engineer Intern](https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity) | 75 | Albany, NY | — | 2026-07-30 |
 
 ## General Dynamics Mission Systems
@@ -3145,12 +3145,6 @@
 | [Hardware Machine Learning PhD Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) | 68 | Chicago, IL | AI/ML/Data | 2026-05-09 |
 | [Graduate Software Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4917773101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
-
-## Impulse Space
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Analytics Intern](https://impulsespace.pinpointhq.com/en/postings/bf86b5dc-b3bd-4bb1-b51c-75744ff8d978?ats=pinpointhq) | 60 | El Segundo, CA | AI/ML/Data | 2026-08-04 |
 
 ## Incident IQ
 
@@ -3603,7 +3597,7 @@
 | [Digital Production Engineering Intern OR Student Co-Op](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Digital-Production-Engineering-Intern-OR-Student-Co-Op_JR0000037451) | 93 | Milwaukee, WI | Software | 2026-08-01 |
 | [New Product Development Intern](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Charlotte-NC/New-Product-Development-Intern---Summer-2026_JR0000037718) | 58 | Charlotte, NC | Product | 2026-08-01 |
 | [Data Engineering Intern/Co-op](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453) | 93 | Milwaukee, WI | AI/ML/Data | 2026-07-20 |
-| [Product Management/Marketing Intern - Summer 2026](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Charlotte-NC/Product-Management-Marketing-Intern---Summer-2026_JR0000037719-3) | 38 | Charlotte, NC | Product | 2026-05-17 |
+| [Product Management/Marketing Intern - Summer 2026](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Charlotte-NC/Product-Management-Marketing-Intern---Summer-2026_JR0000037719-4) | 38 | Charlotte, NC | Product | 2026-05-17 |
 
 ## Marshall Wace
 
@@ -4383,7 +4377,6 @@
 | [Research Engineering Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Engineering-Interns_REQ_0000080335-1) | 93 | State College, PA | Software | 2026-08-12 |
 | [AI Research Assistant Graduate](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-Harrisburg/Part-Time---Student--Graduate----AI-Research-Assistant_REQ_0000081095-1) | 74 | Middletown, PA | AI/ML/Data | 2026-08-07 |
 | [CSE Researcher-Narayanan Intern - V](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/CSE-Part-Time-Researcher-Narayanan--V_REQ_0000078135-1) | 93 | State College, PA | AI/ML/Data | 2026-07-21 |
-| [Research Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Intern_REQ_0000077386-1) | 68 | State College, PA | AI/ML/Data | 2026-07-21 |
 | [Graduate Student Researcher - Mohney Group - Materials Science and Engineering](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Graduate-Student-Researcher---Mohney-Group---Materials-Science-and-Engineering_REQ_0000076727-1) | 99 | State College, PA | AI/ML/Data | 2026-07-21 |
 | [IT Applications Specialist Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/IT-Applications-Specialist---Part-Time_REQ_0000067530-1) | 68 | State College, PA | Software | 2026-07-21 |
 | [Research Assistant Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistants_REQ_0000063953-1) | 68 | State College, PA | AI/ML/Data | 2026-07-21 |
@@ -4630,7 +4623,6 @@
 | [Machine Learning Research Engineer Intern](https://www.quantbot.com/careers/4340833009?gh_jid=4340833009) | 85 | NYC | AI/ML/Data | 2026-08-11 |
 | [Quantitative Developer Intern](https://www.quantbot.com/careers/4341038009?gh_jid=4341038009) | 85 | NYC | Quant | 2026-08-11 |
 | [Quantitative Researcher Intern](https://www.quantbot.com/careers/4299496009?gh_jid=4299496009) | 85 | NYC | Quant | 2026-08-11 |
-| [Software Engineer Intern](https://www.quantbot.com/careers/4299458009?gh_jid=4299458009) | 85 | NYC | Software | 2026-08-11 |
 | [Data Trading Analyst Intern](https://www.quantbot.com/careers/4299767009?gh_jid=4299767009) | 60 | NYC | Quant | 2026-08-11 |
 
 ## QuEra Computing
@@ -5157,7 +5149,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Travel Supply Analyst Intern](https://jobs.ashbyhq.com/super.com/d12fc858-e930-4f43-9c92-da2f02dd2cd2/application?embed=true) | 68 | Toronto, ON, Canada / Remote in Canada | AI/ML/Data | 2026-08-01 |
-| [Payments Engineer Intern](https://jobs.ashbyhq.com/super.com/6a0dc25b-6eb2-411e-a862-6b083d9bad3c/application) | 93 | Toronto, ON, Canada | Software | 2026-05-11 |
 | [Software Engineer Intern - Product - Full-Stack](https://jobs.ashbyhq.com/super.com/8179b5ad-9074-4d96-aa92-366cf12ab5d5/application) | 93 | Toronto, ON, Canada | Software | 2026-05-11 |
 
 ## Susquehanna
