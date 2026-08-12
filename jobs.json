@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-12T11:57:36.778Z",
+  "generatedAt": "2026-08-12T13:00:26.911Z",
   "companyCount": 179,
   "okCount": 179,
-  "jobCount": 2000,
+  "jobCount": 2001,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1934,7 +1934,6 @@
     "canonical:40f31282007c6c8e": "2026-08-11T02:59:51.670Z",
     "canonical:f70db9a691cea305": "2026-08-11T06:33:01.480Z",
     "canonical:4c56ae0c795de31a": "2026-08-11T06:33:01.480Z",
-    "canonical:92ab6121cee9c982": "2026-08-11T06:33:01.480Z",
     "canonical:bf98938ea45fb54b": "2026-08-11T06:33:01.480Z",
     "canonical:1c3309ba85b6ccb1": "2026-08-11T06:33:01.480Z",
     "canonical:e225e35aca830ff4": "2026-08-11T09:40:44.007Z",
@@ -2003,7 +2002,9 @@
     "canonical:ecf345addfc0b406": "2026-08-12T09:00:38.242Z",
     "canonical:e48c840bad5604ea": "2026-08-12T11:13:49.501Z",
     "canonical:ae2198c9ecbb102e": "2026-08-12T11:57:36.778Z",
-    "canonical:f6a762529d418d76": "2026-08-12T11:57:36.778Z"
+    "canonical:f6a762529d418d76": "2026-08-12T11:57:36.778Z",
+    "canonical:1b5acd5e09ee7b18": "2026-08-12T13:00:26.911Z",
+    "canonical:5c2778d446a1f22f": "2026-08-12T13:00:26.911Z"
   },
   "jobs": [
     {
@@ -2226,10 +2227,10 @@
       ]
     },
     {
-      "id": "canonical:cc5154b2bc1dc1f6",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4818790101",
-      "location": "Chicago, United States",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917773101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -2241,10 +2242,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:cc5154b2bc1dc1f6",
       "title": "Graduate Software Engineer",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917773101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4818790101",
+      "location": "Chicago, United States",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -2589,10 +2590,10 @@
       ]
     },
     {
-      "id": "canonical:d1d20c5456576574",
+      "id": "canonical:adc1bdd879675b5a",
       "title": "Campus Data Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
-      "location": "Chicago",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7975008",
+      "location": "London",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -2602,10 +2603,10 @@
       ]
     },
     {
-      "id": "canonical:adc1bdd879675b5a",
+      "id": "canonical:d1d20c5456576574",
       "title": "Campus Data Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7975008",
-      "location": "London",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
+      "location": "Chicago",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -2661,10 +2662,10 @@
       ]
     },
     {
-      "id": "canonical:748b9a19eca0fd1b",
+      "id": "canonical:51b92253e4e72e9b",
       "title": "Campus Quantitative Researcher (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8010307",
-      "location": "London; Amsterdam",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027939",
+      "location": "Singapore",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -2674,10 +2675,10 @@
       ]
     },
     {
-      "id": "canonical:51b92253e4e72e9b",
+      "id": "canonical:748b9a19eca0fd1b",
       "title": "Campus Quantitative Researcher (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027939",
-      "location": "Singapore",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8010307",
+      "location": "London; Amsterdam",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -2788,10 +2789,10 @@
       ]
     },
     {
-      "id": "canonical:4d567555739a50bd",
+      "id": "canonical:eea417b083785298",
       "title": "Campus Systems Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
-      "location": "Singapore",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
+      "location": "London; Amsterdam",
       "department": "",
       "company": "Jump Trading",
       "score": 75,
@@ -2800,10 +2801,10 @@
       ]
     },
     {
-      "id": "canonical:eea417b083785298",
+      "id": "canonical:4d567555739a50bd",
       "title": "Campus Systems Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
-      "location": "London; Amsterdam",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
+      "location": "Singapore",
       "department": "",
       "company": "Jump Trading",
       "score": 75,
@@ -2952,11 +2953,11 @@
       ]
     },
     {
-      "id": "canonical:8c7dcade35ccab5b",
+      "id": "canonical:03ff9719f5d57641",
       "title": "Quantitative Research Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957756",
-      "location": "London, UK",
-      "department": "Quant",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7818540",
+      "location": "Chicago, New York City",
+      "department": "Quant / Not stated",
       "company": "DRW",
       "score": 68,
       "scoreReasons": [
@@ -2965,11 +2966,11 @@
       ]
     },
     {
-      "id": "canonical:03ff9719f5d57641",
+      "id": "canonical:8c7dcade35ccab5b",
       "title": "Quantitative Research Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7818540",
-      "location": "Chicago, New York City",
-      "department": "Quant / Not stated",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957756",
+      "location": "London, UK",
+      "department": "Quant",
       "company": "DRW",
       "score": 68,
       "scoreReasons": [
@@ -2991,10 +2992,10 @@
       ]
     },
     {
-      "id": "canonical:ae44a67983e1d43a",
+      "id": "canonical:d40e55f9a26db473",
       "title": "Quantitative Trading Analyst Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7668776",
-      "location": "Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957243",
+      "location": "London, UK",
       "department": "Quant",
       "company": "DRW",
       "score": 68,
@@ -3004,10 +3005,10 @@
       ]
     },
     {
-      "id": "canonical:d40e55f9a26db473",
+      "id": "canonical:ae44a67983e1d43a",
       "title": "Quantitative Trading Analyst Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957243",
-      "location": "London, UK",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7668776",
+      "location": "Chicago, IL",
       "department": "Quant",
       "company": "DRW",
       "score": 68,
@@ -3025,20 +3026,6 @@
       "company": "DRW",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:f9963438d881a851",
-      "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
-      "location": "Amsterdam",
-      "department": "",
-      "company": "DRW",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -3077,6 +3064,20 @@
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
       "location": "Chicago, IL",
       "department": "Software",
+      "company": "DRW",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f9963438d881a851",
+      "title": "Software Developer Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
+      "location": "Amsterdam",
+      "department": "",
       "company": "DRW",
       "score": 93,
       "scoreReasons": [
@@ -3370,6 +3371,18 @@
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:1b5acd5e09ee7b18",
+      "title": "Quantitative Research Internship - 6 Months, Central Execution Research",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=8113986",
+      "location": "London",
+      "department": "",
+      "company": "Tower Research Capital",
+      "score": 60,
+      "scoreReasons": [
         "high-signal role"
       ]
     },
@@ -7499,7 +7512,7 @@
     {
       "id": "canonical:1a056010d15d11c7",
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -16209,6 +16222,19 @@
       ]
     },
     {
+      "id": "canonical:5c2778d446a1f22f",
+      "title": "Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web",
+      "url": "https://ats.rippling.com/spreeai/jobs/c52472cb-2671-45d7-b666-17196dc3df25",
+      "location": "SF",
+      "department": "Software",
+      "company": "SpreeAI ",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:52ea1ef7dab63704",
       "title": "AI Researcher Intern",
       "url": "https://jobs.ashbyhq.com/egra/6f295102-6330-4a9e-9fc4-9b414e620003/application?embed=true",
@@ -23071,20 +23097,6 @@
       "score": 58,
       "scoreReasons": [
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:92ab6121cee9c982",
-      "title": "Fixed Income Loans S&T Intern - Sales, Trading & Research - Analyst Program",
-      "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/XMLNAME-2027-Truist-Securities---Fixed-Income-Loans-S-T--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117765-1",
-      "location": "NYC",
-      "department": "Quant",
-      "company": "Truist Bank",
-      "score": 48,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS",
-        "lower-fit title"
       ]
     },
     {

@@ -1,6 +1,6 @@
 # Open Internships
 
-**2000** internships across **179/179** companies — last updated 2026-08-12.
+**2001** internships across **179/179** companies — last updated 2026-08-12.
 
 ## Companies
 
@@ -568,7 +568,7 @@
 - [Spacial AI](#spacial-ai) (1)
 - [SpreeAI](#spreeai) (1)
 - [SPREEAI](#spreeai) (1)
-- [SpreeAI ](#spreeai) (2)
+- [SpreeAI ](#spreeai) (3)
 - [Squarepoint Capital](#squarepoint-capital) (10)
 - [StarSling](#starsling) (1)
 - [State of Nebraska](#state-of-nebraska) (1)
@@ -622,14 +622,14 @@
 - [Topel Forman LLC](#topel-forman-llc) (1)
 - [Touchdown Labs](#touchdown-labs) (1)
 - [Tower Research](#tower-research) (1)
-- [Tower Research Capital](#tower-research-capital) (6)
+- [Tower Research Capital](#tower-research-capital) (7)
 - [Toyota Research Institute](#toyota-research-institute) (2)
 - [Tradeweb](#tradeweb) (1)
 - [TransMarket Group](#transmarket-group) (3)
 - [Trata](#trata) (1)
 - [Trend Micro](#trend-micro) (1)
 - [Trillium](#trillium) (4)
-- [Truist Bank](#truist-bank) (2)
+- [Truist Bank](#truist-bank) (1)
 - [Turabify](#turabify) (1)
 - [Two Sigma](#two-sigma) (2)
 - [Uber](#uber) (1)
@@ -1948,7 +1948,7 @@
 | [AI Innovation Intern – Service Sales (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395) | 38 | In-Office | — | 2026-07-30 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-07-29 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
@@ -5070,6 +5070,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web](https://ats.rippling.com/spreeai/jobs/c52472cb-2671-45d7-b666-17196dc3df25) | 85 | SF | Software | 2026-08-12 |
 | [Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI](https://ats.rippling.com/spreeai/jobs/aa087086-dd4b-42be-a499-051546655e97) | 85 | SF | AI/ML/Data | 2026-08-03 |
 | [Software Engineer Intern](https://ats.rippling.com/spreeai/jobs/d34aed29-7a11-4e37-b5bc-e9317f82f0b1) | 85 | SF | Software | 2026-08-01 |
 
@@ -5653,6 +5654,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Quantitative Research Internship - 6 Months, Central Execution Research](https://www.tower-research.com/open-positions/?gh_jid=8113986) | 60 | London | — | 2026-08-12 |
 | [Junior Execution Trader Intern](https://www.tower-research.com/open-positions/?gh_jid=8091833) | 50 | Gift City | — | 2026-07-31 |
 | [Quantitative Trader Intern - Summer 2027](https://www.tower-research.com/open-positions/?gh_jid=8024128) | 60 | New York, Chicago | Quant / Summer 2027 | 2026-07-22 |
 | [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=8044334) | 85 | Chicago, IL / NYC | Quant | 2026-07-20 |
@@ -5706,7 +5708,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Fixed Income Loans S&T Intern - Sales, Trading & Research - Analyst Program](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/XMLNAME-2027-Truist-Securities---Fixed-Income-Loans-S-T--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117765-1) | 48 | NYC | Quant | 2026-08-11 |
 | [Technology and Operations Intern Conversion - Data](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/XMLNAME-2027-Technology--Data--and-Operations-Internship---Intern-Conversion-_R0117276) | 68 | Charlotte, NC / Atlanta, GA | Software | 2026-08-10 |
 
 ## Turabify
