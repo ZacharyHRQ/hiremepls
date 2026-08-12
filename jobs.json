@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-12T14:30:52.542Z",
+  "generatedAt": "2026-08-12T15:34:31.653Z",
   "companyCount": 179,
   "okCount": 179,
-  "jobCount": 2003,
+  "jobCount": 2013,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -963,7 +963,6 @@
     "canonical:c76fbea5d5eba789": "2026-07-22T11:30:09.788Z",
     "canonical:d0cc0809498c940b": "2026-07-22T11:30:09.788Z",
     "canonical:0bccd7af4a1e046b": "2026-07-22T11:30:09.788Z",
-    "canonical:1d2a7315bea883d4": "2026-07-22T11:30:09.788Z",
     "canonical:a5e52b57015d254e": "2026-07-22T11:30:09.788Z",
     "canonical:0f4a52f7d1dc29c7": "2026-07-22T13:08:02.810Z",
     "canonical:78820ef2fa54b1e2": "2026-07-22T13:08:02.810Z",
@@ -2001,12 +2000,23 @@
     "canonical:e48c840bad5604ea": "2026-08-12T11:13:49.501Z",
     "canonical:ae2198c9ecbb102e": "2026-08-12T11:57:36.778Z",
     "canonical:f6a762529d418d76": "2026-08-12T11:57:36.778Z",
-    "canonical:1b5acd5e09ee7b18": "2026-08-12T13:00:26.911Z",
     "canonical:5c2778d446a1f22f": "2026-08-12T13:00:26.911Z",
     "canonical:9a6eb466353c5afa": "2026-08-12T14:30:52.542Z",
     "canonical:cf354af41a43ac2a": "2026-08-12T14:30:52.542Z",
     "canonical:afde2f0e07bcc8f8": "2026-08-12T14:30:52.542Z",
-    "canonical:b33fa9dd25771901": "2026-08-12T14:30:52.542Z"
+    "canonical:b33fa9dd25771901": "2026-08-12T14:30:52.542Z",
+    "canonical:a77edd7bc042f472": "2026-08-12T15:34:31.653Z",
+    "canonical:f9f8bc69f47c01d3": "2026-08-12T15:34:31.653Z",
+    "canonical:dd330df63152542e": "2026-08-12T15:34:31.653Z",
+    "canonical:5d5b3e09463a16cf": "2026-08-12T15:34:31.653Z",
+    "canonical:387ab11377538581": "2026-08-12T15:34:31.653Z",
+    "canonical:31d34a0b71c4ab79": "2026-08-12T15:34:31.653Z",
+    "canonical:9bb2cfd223349b3f": "2026-08-12T15:34:31.653Z",
+    "canonical:a25f5a613a9e3d34": "2026-08-12T15:34:31.653Z",
+    "canonical:36aaf31fe6e7ccd5": "2026-08-12T15:34:31.653Z",
+    "canonical:9169af0f52efbbff": "2026-08-12T15:34:31.653Z",
+    "canonical:25d18ab9f4b1ba63": "2026-08-12T15:34:31.653Z",
+    "canonical:c37760602da77ea9": "2026-08-12T15:34:31.653Z"
   },
   "jobs": [
     {
@@ -3377,11 +3387,11 @@
       ]
     },
     {
-      "id": "canonical:1b5acd5e09ee7b18",
-      "title": "Quantitative Research Internship - 6 Months, Central Execution Research",
+      "id": "canonical:a77edd7bc042f472",
+      "title": "Quantitative Research Intern - Central Execution Research",
       "url": "https://www.tower-research.com/open-positions/?gh_jid=8113986",
-      "location": "London",
-      "department": "",
+      "location": "London, UK",
+      "department": "Quant",
       "company": "Tower Research Capital",
       "score": 60,
       "scoreReasons": [
@@ -3401,14 +3411,15 @@
       ]
     },
     {
-      "id": "canonical:1d2a7315bea883d4",
-      "title": "Quantitative Trader Intern - Summer 2027",
+      "id": "canonical:f9f8bc69f47c01d3",
+      "title": "Quantitative Trader/Researcher Intern - Summer 2027",
       "url": "https://www.tower-research.com/open-positions/?gh_jid=8024128",
       "location": "New York, Chicago",
       "department": "Quant / Summer 2027",
       "company": "Tower Research Capital",
-      "score": 60,
+      "score": 85,
       "scoreReasons": [
+        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -7544,7 +7555,7 @@
     {
       "id": "canonical:1a056010d15d11c7",
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -12362,20 +12373,6 @@
       ]
     },
     {
-      "id": "canonical:8212975b7a6dc9b6",
-      "title": "Software Engineer Intern",
-      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393",
-      "location": "Dallas, TX",
-      "department": "Software",
-      "company": "Copart",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:a9fec30c036e9862",
       "title": "AI Software Engineer Intern - Transaction Platform",
       "url": "https://lifeattiktok.com/search/7646621925436131637",
@@ -13047,6 +13044,20 @@
       "location": "Lincoln, NE",
       "department": "AI/ML/Data",
       "company": "Nelnet",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:8212975b7a6dc9b6",
+      "title": "Software Engineer Intern",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109441",
+      "location": "Dallas, TX",
+      "department": "Software",
+      "company": "Copart",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -20737,6 +20748,20 @@
       ]
     },
     {
+      "id": "canonical:dd330df63152542e",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01863980-1",
+      "location": "Cedar Rapids, IA",
+      "department": "Hardware",
+      "company": "RTX",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:24bc6528e0437c46",
       "title": "Software Engineer Intern - R&D - FPGA",
       "url": "https://jobs.keysight.com/jobs/53636?icims=1",
@@ -23724,6 +23749,89 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:5d5b3e09463a16cf",
+      "title": "Product Manager Intern - Signal and Identity Product",
+      "url": "https://lifeattiktok.com/search/7672554809555192117",
+      "location": "San Jose, CA",
+      "department": "Product",
+      "company": "TikTok",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:387ab11377538581",
+      "title": "Product Manager Intern - Ads Interface and Platform",
+      "url": "https://lifeattiktok.com/search/7672562486917286149",
+      "location": "San Jose, CA",
+      "department": "Product",
+      "company": "TikTok",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:31d34a0b71c4ab79",
+      "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Foundation",
+      "url": "https://lifeattiktok.com/search/7672883129493948677",
+      "location": "San Jose, CA",
+      "department": "AI/ML/Data",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:9bb2cfd223349b3f",
+      "title": "Product Manager Intern - Ads Interface and Platform",
+      "url": "https://lifeattiktok.com/search/7672569081632229685",
+      "location": "Seattle, WA",
+      "department": "Product",
+      "company": "TikTok",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:a25f5a613a9e3d34",
+      "title": "Product Manager Intern - Commerce Ads",
+      "url": "https://lifeattiktok.com/search/7672557943224961333",
+      "location": "San Jose, CA",
+      "department": "Product",
+      "company": "TikTok",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:36aaf31fe6e7ccd5",
+      "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Mall",
+      "url": "https://lifeattiktok.com/search/7672920375646488885",
+      "location": "Seattle, WA",
+      "department": "AI/ML/Data",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:9169af0f52efbbff",
+      "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Foundation",
+      "url": "https://lifeattiktok.com/search/7672881840860940597",
+      "location": "Seattle, WA",
+      "department": "AI/ML/Data",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
@@ -26927,6 +27035,34 @@
       "score": 42,
       "scoreReasons": [
         "aggregator link"
+      ]
+    },
+    {
+      "id": "canonical:25d18ab9f4b1ba63",
+      "title": "Data Science Engineer Internship",
+      "url": "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Data-Science-Engineer-Internship_0014843",
+      "location": "Chicago (Green St), IL",
+      "department": "Data & ML/AI / Not stated",
+      "company": "CCC Intelligent Solutions",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c37760602da77ea9",
+      "title": "2027 Intern Software Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255",
+      "location": "United States-Florida-Melbourne",
+      "department": "Software / Summer 2027",
+      "company": "Northrop Grumman",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
