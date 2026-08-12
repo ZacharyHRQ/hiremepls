@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-12T15:34:31.653Z",
+  "generatedAt": "2026-08-12T16:32:38.617Z",
   "companyCount": 179,
   "okCount": 179,
-  "jobCount": 2013,
+  "jobCount": 2011,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1535,7 +1535,6 @@
     "canonical:582d6baa394fac8a": "2026-08-03T22:56:56.083Z",
     "canonical:8ab3835c5fa0def9": "2026-08-03T22:56:56.083Z",
     "canonical:0e93f286ad316954": "2026-08-03T22:56:56.083Z",
-    "canonical:4653cafe91c23549": "2026-08-04T00:03:15.414Z",
     "canonical:f737fd209e879331": "2026-08-04T00:03:15.414Z",
     "canonical:4247bea2cf4aab99": "2026-08-04T00:03:15.414Z",
     "canonical:6911f37ee88aa6e6": "2026-08-04T00:03:15.414Z",
@@ -1836,7 +1835,6 @@
     "canonical:5f4de7a945974ffe": "2026-08-09T08:00:29.493Z",
     "canonical:7057a2cbb57f9823": "2026-08-09T10:13:56.890Z",
     "canonical:21f7860e2eb4a9b1": "2026-08-09T11:19:53.222Z",
-    "canonical:04172e347ecd89c6": "2026-08-09T14:06:21.925Z",
     "canonical:4f1f05af7cf9e97c": "2026-08-09T15:20:38.028Z",
     "canonical:66d06ce4b40ffb7e": "2026-08-09T22:56:08.825Z",
     "canonical:1d87142e66472af4": "2026-08-10T00:56:36.224Z",
@@ -1895,7 +1893,6 @@
     "canonical:c023167c5909ccb2": "2026-08-10T23:05:00.755Z",
     "canonical:fb87510ef79bdbdf": "2026-08-10T23:05:00.755Z",
     "canonical:403b59e92bdabdd6": "2026-08-10T23:05:00.755Z",
-    "canonical:b37ce8210c6e0e4d": "2026-08-10T23:05:00.755Z",
     "canonical:c034a6d449a02452": "2026-08-10T23:05:00.755Z",
     "canonical:44f9f0cc35000d2c": "2026-08-10T23:05:00.755Z",
     "canonical:e202a2e8ee7ee52b": "2026-08-10T23:05:00.755Z",
@@ -2015,8 +2012,9 @@
     "canonical:a25f5a613a9e3d34": "2026-08-12T15:34:31.653Z",
     "canonical:36aaf31fe6e7ccd5": "2026-08-12T15:34:31.653Z",
     "canonical:9169af0f52efbbff": "2026-08-12T15:34:31.653Z",
-    "canonical:25d18ab9f4b1ba63": "2026-08-12T15:34:31.653Z",
-    "canonical:c37760602da77ea9": "2026-08-12T15:34:31.653Z"
+    "canonical:c37760602da77ea9": "2026-08-12T15:34:31.653Z",
+    "canonical:aece095750619adf": "2026-08-12T16:32:38.617Z",
+    "canonical:a050afb4a6afe403": "2026-08-12T16:32:38.617Z"
   },
   "jobs": [
     {
@@ -7036,6 +7034,18 @@
       ]
     },
     {
+      "id": "canonical:c4899e61c3f2d9c6",
+      "title": "Applied Research Intern Co-op",
+      "url": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
+      "location": "Toronto, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "Block",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:0942563fedd29433",
       "title": "Applied Research Intern PhD / Graduate Co-op",
       "url": "http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008",
@@ -7046,18 +7056,6 @@
       "scoreReasons": [
         "high-signal role",
         "new grad"
-      ]
-    },
-    {
-      "id": "canonical:c4899e61c3f2d9c6",
-      "title": "Applied Research Intern Co-op",
-      "url": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Block",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {
@@ -7516,22 +7514,9 @@
       ]
     },
     {
-      "id": "canonical:4653cafe91c23549",
-      "title": "Marketing Programs and Analytics Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8104138?gh_jid=8104138",
-      "location": "In-Office",
-      "department": "",
-      "company": "Cloudflare",
-      "score": 38,
-      "scoreReasons": [
-        "direct ATS",
-        "lower-fit title"
-      ]
-    },
-    {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -7555,7 +7540,7 @@
     {
       "id": "canonical:1a056010d15d11c7",
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -12373,6 +12358,20 @@
       ]
     },
     {
+      "id": "canonical:8212975b7a6dc9b6",
+      "title": "Software Engineer Intern",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393",
+      "location": "Dallas, TX",
+      "department": "Software",
+      "company": "Copart",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:a9fec30c036e9862",
       "title": "AI Software Engineer Intern - Transaction Platform",
       "url": "https://lifeattiktok.com/search/7646621925436131637",
@@ -13044,20 +13043,6 @@
       "location": "Lincoln, NE",
       "department": "AI/ML/Data",
       "company": "Nelnet",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:8212975b7a6dc9b6",
-      "title": "Software Engineer Intern",
-      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109441",
-      "location": "Dallas, TX",
-      "department": "Software",
-      "company": "Copart",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -17563,20 +17548,6 @@
       "company": "International Rescue Committee (IRC)",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:04172e347ecd89c6",
-      "title": "Research Engineering Intern",
-      "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Engineering-Interns_REQ_0000080335-1",
-      "location": "State College, PA",
-      "department": "Software",
-      "company": "Pennsylvania State University",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -22698,19 +22669,6 @@
       "scoreReasons": []
     },
     {
-      "id": "canonical:b37ce8210c6e0e4d",
-      "title": "Trading Bootcamp Micro-Internship - Summer 2027",
-      "url": "https://peak6group.wd1.myworkdayjobs.com/CapMan/job/Chicago-IL/Trading-Bootcamp-Micro-Internship---Summer-2027_JR105057",
-      "location": "Chicago, IL",
-      "department": "Quant",
-      "company": "PEAK6",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:c034a6d449a02452",
       "title": "Technology Intern",
       "url": "https://mckesson.wd3.myworkdayjobs.com/sourcer_on_req/job/USA-OH-Columbus/CMM-Technology-Intern---Summer-2027_JR0151979",
@@ -23832,6 +23790,34 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:aece095750619adf",
+      "title": "Data Science Engineer Intern",
+      "url": "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Data-Science-Engineer-Internship_0014843",
+      "location": "Chicago, IL",
+      "department": "AI/ML/Data",
+      "company": " CCC Intelligent Solutions",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:a050afb4a6afe403",
+      "title": "Software Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Summer-2027--Software-Intern-OnSite_01865160",
+      "location": "Huntsville, AL",
+      "department": "Software",
+      "company": "RTX",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -27035,20 +27021,6 @@
       "score": 42,
       "scoreReasons": [
         "aggregator link"
-      ]
-    },
-    {
-      "id": "canonical:25d18ab9f4b1ba63",
-      "title": "Data Science Engineer Internship",
-      "url": "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Data-Science-Engineer-Internship_0014843",
-      "location": "Chicago (Green St), IL",
-      "department": "Data & ML/AI / Not stated",
-      "company": "CCC Intelligent Solutions",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {

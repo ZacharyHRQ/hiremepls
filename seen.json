@@ -219,13 +219,12 @@
     "7902104",
     "8044395",
     "8054093",
-    "8104138",
-    "8031027",
     "8013562",
+    "8031027",
     "7796077",
-    "8089400",
     "8089407",
     "8089379",
+    "8089400",
     "8118845",
     "8052785",
     "8105728"
@@ -2296,6 +2295,7 @@
     "simplify:65d7082a-180e-4d87-914c-87e9e3d15ae0",
     "simplify:88766d81-38a1-4e05-86b9-0d4f5f4f630b",
     "simplify:86bafca9-f202-4817-8184-32aabc6ac975",
+    "simplify:ecb57e2b-b9a6-4967-9d05-bd9596de3537",
     "simplify:47768da2-8643-4881-8249-a78543064605",
     "simplify:0aa79267-f4f3-4104-9034-edd9903b03e5",
     "simplify:6b82845f-920e-43ac-9aab-77038fb0b19b",
@@ -2751,7 +2751,6 @@
     "simplify:7e5feb76-9fea-420d-a0ea-32c19e256975",
     "simplify:d1b5909b-5773-4d89-92a7-604b04556e03",
     "simplify:e3234588-2be6-40da-8aa3-d096c6574e76",
-    "simplify:cff6c5a6-5c4a-4f30-bb48-4543328cc059",
     "simplify:22d08295-47cf-4b31-9064-5548c060a73f",
     "simplify:bb4315b8-bb8b-468f-932a-30ee22b6b85c",
     "simplify:8fc7291e-0de8-484f-8554-ea5ae8d9b5dd",
@@ -3196,7 +3195,6 @@
     "simplify:4de1af82-e491-4ce1-8a1f-4fdc1c58dcc9",
     "simplify:241a43cd-dad1-4859-a5e3-071488f9dd2f",
     "simplify:887bd43f-e027-47d5-b8ee-3d03c067e13c",
-    "simplify:fa275c09-336d-4067-ad94-70cbcecb4ed9",
     "simplify:8b699e41-5c53-4b40-aaf9-57a6bd162427",
     "simplify:e5dfef91-5533-406d-a42a-fab2b837638b",
     "simplify:3ee0c355-bfb2-4580-a632-b2cd47e53858",
@@ -3289,7 +3287,10 @@
     "simplify:0e6104ee-b59a-435c-af2d-24c7e880c109",
     "simplify:fc4e61cf-8b0d-41bc-a27f-9081dc511bca",
     "simplify:baeedb05-7415-43b1-a352-ff0efdc23b6b",
-    "simplify:0d1a5d14-2cc4-4c85-a1a6-aa02ecc2b4f8"
+    "simplify:0d1a5d14-2cc4-4c85-a1a6-aa02ecc2b4f8",
+    "simplify:05cc6b19-1ebc-4435-b908-56f4805a54d3",
+    "simplify:e92a0796-43f8-4a18-a670-14394cd7cb1b",
+    "simplify:98803f68-563e-4966-9b99-92606c5b702e"
   ],
   "DoorDash": [],
   "Waymo": [
@@ -3297,8 +3298,8 @@
   ],
   "xAI": [],
   "Block": [
-    "5108007008",
-    "5108009008"
+    "5108009008",
+    "5108007008"
   ],
   "Coinbase": [],
   "Toast": [],
@@ -3760,6 +3761,7 @@
     "simplify:65d7082a-180e-4d87-914c-87e9e3d15ae0",
     "simplify:88766d81-38a1-4e05-86b9-0d4f5f4f630b",
     "simplify:86bafca9-f202-4817-8184-32aabc6ac975",
+    "simplify:ecb57e2b-b9a6-4967-9d05-bd9596de3537",
     "simplify:47768da2-8643-4881-8249-a78543064605",
     "simplify:0aa79267-f4f3-4104-9034-edd9903b03e5",
     "simplify:6b82845f-920e-43ac-9aab-77038fb0b19b",
@@ -4215,7 +4217,6 @@
     "simplify:7e5feb76-9fea-420d-a0ea-32c19e256975",
     "simplify:d1b5909b-5773-4d89-92a7-604b04556e03",
     "simplify:e3234588-2be6-40da-8aa3-d096c6574e76",
-    "simplify:cff6c5a6-5c4a-4f30-bb48-4543328cc059",
     "simplify:22d08295-47cf-4b31-9064-5548c060a73f",
     "simplify:bb4315b8-bb8b-468f-932a-30ee22b6b85c",
     "simplify:8fc7291e-0de8-484f-8554-ea5ae8d9b5dd",
@@ -4660,7 +4661,6 @@
     "simplify:4de1af82-e491-4ce1-8a1f-4fdc1c58dcc9",
     "simplify:241a43cd-dad1-4859-a5e3-071488f9dd2f",
     "simplify:887bd43f-e027-47d5-b8ee-3d03c067e13c",
-    "simplify:fa275c09-336d-4067-ad94-70cbcecb4ed9",
     "simplify:8b699e41-5c53-4b40-aaf9-57a6bd162427",
     "simplify:e5dfef91-5533-406d-a42a-fab2b837638b",
     "simplify:3ee0c355-bfb2-4580-a632-b2cd47e53858",
@@ -4753,7 +4753,10 @@
     "simplify:0e6104ee-b59a-435c-af2d-24c7e880c109",
     "simplify:fc4e61cf-8b0d-41bc-a27f-9081dc511bca",
     "simplify:baeedb05-7415-43b1-a352-ff0efdc23b6b",
-    "simplify:0d1a5d14-2cc4-4c85-a1a6-aa02ecc2b4f8"
+    "simplify:0d1a5d14-2cc4-4c85-a1a6-aa02ecc2b4f8",
+    "simplify:05cc6b19-1ebc-4435-b908-56f4805a54d3",
+    "simplify:e92a0796-43f8-4a18-a670-14394cd7cb1b",
+    "simplify:98803f68-563e-4966-9b99-92606c5b702e"
   ],
   "Wintermute": [],
   "QCP": [
