@@ -1,6 +1,6 @@
 # Open Internships
 
-**2012** internships across **179/179** companies — last updated 2026-08-12.
+**2011** internships across **179/179** companies — last updated 2026-08-12.
 
 ## Companies
 
@@ -271,7 +271,6 @@
 - [Gitar, Inc.](#gitar-inc) (1)
 - [Global Partners](#global-partners) (1)
 - [GoDaddy](#godaddy) (1)
-- [Golden Pet Brands](#golden-pet-brands) (1)
 - [Gong](#gong) (3)
 - [Google](#google) (1)
 - [Grant Thornton](#grant-thornton) (1)
@@ -359,13 +358,13 @@
 - [kos.ai](#kos-ai) (1)
 - [Landis+Gyr](#landis-gyr) (1)
 - [Lawrence Livermore National Laboratory (LLNL)](#lawrence-livermore-national-laboratory-llnl) (4)
+- [Léger](#l-ger) (1)
 - [Leidos](#leidos) (1)
 - [Leland](#leland) (1)
 - [Lensa](#lensa) (3)
 - [LinkedIn](#linkedin) (3)
 - [Louisiana Blue](#louisiana-blue) (4)
 - [LPL Financial Holdings](#lpl-financial-holdings) (3)
-- [Lumentum](#lumentum) (1)
 - [Luminance](#luminance) (1)
 - [Magna](#magna) (3)
 - [Magna International](#magna-international) (1)
@@ -503,7 +502,7 @@
 - [PsiQuantum](#psiquantum) (1)
 - [PSP Investments](#psp-investments) (1)
 - [Pylon](#pylon) (1)
-- [QCP](#qcp) (2)
+- [QCP](#qcp) (3)
 - [Quadric](#quadric) (2)
 - [Quadrillion](#quadrillion) (3)
 - [Qualcomm](#qualcomm) (1)
@@ -583,7 +582,7 @@
 - [StudyFetch](#studyfetch) (2)
 - [Super](#super) (3)
 - [Susquehanna](#susquehanna) (1)
-- [Susquehanna International Group (SIG)](#susquehanna-international-group-sig) (20)
+- [Susquehanna International Group (SIG)](#susquehanna-international-group-sig) (19)
 - [Susquehanna International Group, LLP (SIG)](#susquehanna-international-group-llp-sig) (3)
 - [Susquehanna Investment Group](#susquehanna-investment-group) (1)
 - [Sweatpals](#sweatpals) (1)
@@ -1967,7 +1966,7 @@
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
 
 ## Cloudforce
 
@@ -2821,12 +2820,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Development Engineer Intern](https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003) | 93 | Tempe, AZ | Software | 2026-07-30 |
 
-## Golden Pet Brands
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Analytics Intern](https://job-boards.greenhouse.io/goldenpetbrands/jobs/4713182005) | 68 | Remote in USA | AI/ML/Data | 2026-07-31 |
-
 ## Gong
 
 | Title | Score | Location | Department | First seen |
@@ -3491,6 +3484,12 @@
 | [Computing Graduate Student Intern](https://jobs.smartrecruiters.com/LLNL/3743990013801396) | 74 | Livermore, CA | AI/ML/Data | 2026-07-01 |
 | [Computing Undergraduate Student Intern](https://jobs.smartrecruiters.com/LLNL/3743990013801386) | 68 | Livermore, CA | AI/ML/Data | 2026-07-01 |
 
+## Léger
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Research Intern](https://jobs.smartrecruiters.com/Leger2/744000141569336) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-08-12 |
+
 ## Leidos
 
 | Title | Score | Location | Department | First seen |
@@ -3535,12 +3534,6 @@
 | [Data Engineer Intern - Data](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027---Data_R-052914) | 93 | Austin, TX / Fort Mill, SC / Charlotte, NC | AI/ML/Data | 2026-08-11 |
 | [Software Engineer Intern](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Software-Engineer_R-052921) | 93 | Austin, TX / Fort Mill, SC / Charlotte, NC | Software | 2026-08-11 |
 | [Product Intern - Product](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Product_R-052918) | 58 | Austin, TX / Fort Mill, SC | Product | 2026-08-11 |
-
-## Lumentum
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Optical Verification Technician Intern/Co-op](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Technician-Intern-Co-op_20261048) | 58 | Ottawa, ON, Canada | Hardware | 2026-08-04 |
 
 ## Luminance
 
@@ -4603,8 +4596,9 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Intern, AML Compliance (Project Management)](https://apply.workable.com/qcp-group/j/D2512DB61F/) | 58 | Singapore, Singapore, Singapore | Compliance | 2026-08-11 |
-| [Intern, Compliance (AML Operations)](https://apply.workable.com/qcp-group/j/68D6E36FDF/) | 58 | Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia | Compliance | 2026-08-09 |
+| [Intern, Quantitative Developer (Jan - Jun 2027)](https://apply.workable.com/qcp-group/j/22CE3A4EDE/) | 93 | Singapore, Singapore, Singapore | Research & Development | 2026-08-12 |
+| [Intern, AML Compliance - Project Management (Jan - Jun 2027)](https://apply.workable.com/qcp-group/j/D2512DB61F/) | 58 | Singapore, Singapore, Singapore | Compliance | 2026-08-12 |
+| [Intern, Compliance - AML Operations (Jan 2027 intake)](https://apply.workable.com/qcp-group/j/68D6E36FDF/) | 58 | Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia | Compliance | 2026-08-12 |
 
 ## Quadric
 
@@ -5195,7 +5189,6 @@
 | [Quantitative Research Intern - PhD: Summer 2027](https://careers-sig.icims.com/jobs/10817/job?mobile=true&needsRedirect=false) | 60 | Ardmore, PA | Quant | 2026-08-01 |
 | [Quantitative Trader Intern](https://careers-sig.icims.com/jobs/10717/job?mobile=true&needsRedirect=false) | 60 | Ardmore, PA | Quant | 2026-08-01 |
 | [Machine Learning Intern](https://careers-sig.icims.com/jobs/10785/job?mobile=true&needsRedirect=false) | 60 | Ardmore, PA | AI/ML/Data | 2026-08-01 |
-| [Quantitative Strategy Developer Intern](https://careers-sig.icims.com/jobs/10838/job?mobile=true&needsRedirect=false) | 85 | Ardmore, PA | Quant | 2026-08-01 |
 | [Trading System Engineer Intern](https://careers-sig.icims.com/jobs/11169/job?mobile=true&needsRedirect=false) | 85 | United States | Quant | 2026-08-01 |
 | [Analytics Intern](https://careers-sig.icims.com/jobs/11099/job?mobile=true&needsRedirect=false) | 60 | Richmond, VA | AI/ML/Data | 2026-08-01 |
 | [Quantitative Research Intern](https://careers-sig.icims.com/jobs/10819/job?mobile=true&needsRedirect=false) | 60 | Ardmore, PA | Quant | 2026-08-01 |
