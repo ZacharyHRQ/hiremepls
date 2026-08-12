@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-12T20:23:04.846Z",
+  "generatedAt": "2026-08-12T21:10:05.758Z",
   "companyCount": 179,
-  "okCount": 179,
-  "jobCount": 2011,
+  "okCount": 178,
+  "jobCount": 2023,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1621,7 +1621,6 @@
     "canonical:8e89ca6bf2647ae9": "2026-08-04T22:51:33.061Z",
     "canonical:ec7ffb2ee8776982": "2026-08-04T22:51:33.061Z",
     "canonical:42cbd751a157374e": "2026-08-04T22:51:33.061Z",
-    "canonical:97174b0b6c0afd2a": "2026-08-04T22:51:33.061Z",
     "canonical:24bc6528e0437c46": "2026-08-04T22:51:33.061Z",
     "canonical:aef5b67e297164a0": "2026-08-04T22:51:33.061Z",
     "canonical:1397ff60cc88bfb6": "2026-08-04T23:53:58.307Z",
@@ -2014,7 +2013,20 @@
     "canonical:8c33dd8961483d6c": "2026-08-12T17:38:04.745Z",
     "canonical:ef16c05140251791": "2026-08-12T18:32:41.982Z",
     "canonical:e86e40624ec28eed": "2026-08-12T18:32:41.982Z",
-    "canonical:b16d4746e2e8eaa3": "2026-08-12T19:45:06.044Z"
+    "canonical:b16d4746e2e8eaa3": "2026-08-12T19:45:06.044Z",
+    "canonical:c6690b19f98de110": "2026-08-12T21:10:05.758Z",
+    "canonical:4670de827e8c60dc": "2026-08-12T21:10:05.758Z",
+    "canonical:05ecd7f1123cf080": "2026-08-12T21:10:05.758Z",
+    "canonical:550e8085552561e2": "2026-08-12T21:10:05.758Z",
+    "canonical:f541f7b9c3a51ddc": "2026-08-12T21:10:05.758Z",
+    "canonical:a83146ac43cdad57": "2026-08-12T21:10:05.758Z",
+    "canonical:51d95cc64403a0a2": "2026-08-12T21:10:05.758Z",
+    "canonical:5574e56be9a2912b": "2026-08-12T21:10:05.758Z",
+    "canonical:557e86444158cf9b": "2026-08-12T21:10:05.758Z",
+    "canonical:7152aeb407ea8522": "2026-08-12T21:10:05.758Z",
+    "canonical:c044a7e192c15a57": "2026-08-12T21:10:05.758Z",
+    "canonical:afe000cd060460db": "2026-08-12T21:10:05.758Z",
+    "canonical:cee27f704d5023f1": "2026-08-12T21:10:05.758Z"
   },
   "jobs": [
     {
@@ -20680,18 +20692,6 @@
       "scoreReasons": []
     },
     {
-      "id": "canonical:97174b0b6c0afd2a",
-      "title": "Research Intern - Firmware Security",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556955518",
-      "location": "Redmond, WA",
-      "department": "AI/ML/Data",
-      "company": "Microsoft",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:dd330df63152542e",
       "title": "Software Engineer Intern - Summer 2027",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01863980-1",
@@ -20716,6 +20716,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:c6690b19f98de110",
+      "title": "Software Developer Intern",
+      "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1",
+      "location": "Annapolis Junction, MD",
+      "department": "Software",
+      "company": "General Dynamics Information Technology",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -23061,6 +23075,20 @@
       ]
     },
     {
+      "id": "canonical:4670de827e8c60dc",
+      "title": "Analyst Intern - Equity Research - Sales, Trading & Research",
+      "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/XMLNAME-2027-Truist-Securities---Equity-Research--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117762-1",
+      "location": "NYC / Atlanta, GA",
+      "department": "Quant",
+      "company": "Truist Bank",
+      "score": 48,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS",
+        "lower-fit title"
+      ]
+    },
+    {
       "id": "canonical:bf98938ea45fb54b",
       "title": "Product Engineering Intern",
       "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Product-Engineering_R-26-19224",
@@ -23760,6 +23788,129 @@
       "location": "Huntsville, AL",
       "department": "Software",
       "company": "RTX",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:05ecd7f1123cf080",
+      "title": "Trading Intern",
+      "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719135005",
+      "location": "London, UK",
+      "department": "Quant",
+      "company": "DV Trading",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:550e8085552561e2",
+      "title": "Product Software Developer Intern",
+      "url": "https://boards.greenhouse.io/assuredguaranty/jobs/8700953002",
+      "location": "NYC",
+      "department": "Software",
+      "company": "Assured Guaranty",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f541f7b9c3a51ddc",
+      "title": "IT Systems Product Management Intern - Summer 2027",
+      "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279239",
+      "location": "Westerville, OH",
+      "department": "Product",
+      "company": "Vertiv",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:a83146ac43cdad57",
+      "title": "Product Management Intern - MBA - Power Solutions & Distribution",
+      "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278959",
+      "location": "Delaware, OH",
+      "department": "Product",
+      "company": "Vertiv",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:51d95cc64403a0a2",
+      "title": "Product Management Intern",
+      "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278958",
+      "location": "Delaware, OH",
+      "department": "Product",
+      "company": "Vertiv",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:5574e56be9a2912b",
+      "title": "Quantitative Analyst Intern - Public Investments",
+      "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Public-Investments-Quantitative-Analyst-Intern--Summer-2027_JR-45807",
+      "location": "Milwaukee, WI",
+      "department": "Quant",
+      "company": "Northwestern Mutual",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:557e86444158cf9b",
+      "title": "Engineer Intern - Spring 2027",
+      "url": "https://apply.workable.com/tmeic-corporation-americas/j/68E556E5CA/apply",
+      "location": "Houston, TX",
+      "department": "Hardware",
+      "company": "TMEIC Corporation Americas",
+      "score": 58,
+      "scoreReasons": [
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:7152aeb407ea8522",
+      "title": "Applications Intern - AI and Machine Learning",
+      "url": "https://apply.workable.com/tmeic-corporation-americas/j/6FDBF2FD32/apply",
+      "location": "Roanoke, VA",
+      "department": "AI/ML/Data",
+      "company": "TMEIC Corporation Americas",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c044a7e192c15a57",
+      "title": "Engineer Intern - Spring 2027 - Eis",
+      "url": "https://apply.workable.com/tmeic-corporation-americas/j/D44B74C42B/apply",
+      "location": "Roanoke, VA",
+      "department": "Software",
+      "company": "TMEIC Corporation Americas",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:afe000cd060460db",
+      "title": "Surface Scientist Intern - Corporate Labs",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Corporate-Labs_JR108442",
+      "location": "Boise, ID",
+      "department": "AI/ML/Data",
+      "company": "Micron Technology",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -26971,6 +27122,20 @@
       ]
     },
     {
+      "id": "canonical:cee27f704d5023f1",
+      "title": "Summer 2027 Intern - Software Engineering",
+      "url": "https://jobs.smartrecruiters.com/WesternDigital/744000143171017",
+      "location": "San Jose, CA, United States",
+      "department": "Software / Summer 2027",
+      "company": "Western Digital",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:ef16c05140251791",
       "title": "Fall 2026 Intern - Product Software Developer",
       "url": "https://boards.greenhouse.io/assuredguaranty/jobs/8700953002?gh_jid=8700953002",
@@ -27033,20 +27198,6 @@
       "location": "United States-Florida-Melbourne",
       "department": "Software / Summer 2027",
       "company": "Northrop Grumman",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:1d87142e66472af4",
-      "title": "Summer 2027 Software Developer Internship",
-      "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1",
-      "location": "USA MD Annapolis Junction",
-      "department": "Software / Summer 2027",
-      "company": "General Dynamics Information Technology",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -27156,6 +27307,20 @@
       "company": "ACDS",
       "score": 68,
       "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1d87142e66472af4",
+      "title": "Summer 2027 Software Developer Internship",
+      "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225450-1",
+      "location": "USA MD Annapolis Junction",
+      "department": "Software / Summer 2027",
+      "company": "General Dynamics Information Technology",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -27828,5 +27993,10 @@
       ]
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "company": "BlackRock",
+      "message": "workday blackrock: expected JSON, got application/xml; charset=utf-8: <wml:Application_Error xmlns:wml=\"http://www.workday.com/ns/model/1.0\" Type=\"Val"
+    }
+  ]
 }

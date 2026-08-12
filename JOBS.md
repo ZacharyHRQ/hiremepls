@@ -1,6 +1,6 @@
 # Open Internships
 
-**2011** internships across **179/179** companies — last updated 2026-08-12.
+**2023** internships across **178/179** companies — last updated 2026-08-12.
 
 ## Companies
 
@@ -56,7 +56,7 @@
 - [ASM Global](#asm-global) (4)
 - [ASM International](#asm-international) (1)
 - [ASML](#asml) (2)
-- [Assured Guaranty](#assured-guaranty) (1)
+- [Assured Guaranty](#assured-guaranty) (2)
 - [Astera](#astera) (3)
 - [Astera Labs](#astera-labs) (3)
 - [Astranis](#astranis) (7)
@@ -196,7 +196,7 @@
 - [Dryft](#dryft) (1)
 - [DuPont](#dupont) (5)
 - [Duracell](#duracell) (1)
-- [DV Trading](#dv-trading) (3)
+- [DV Trading](#dv-trading) (4)
 - [East Penn Manufacturing Company](#east-penn-manufacturing-company) (3)
 - [EdgeTrace](#edgetrace) (1)
 - [Egra](#egra) (1)
@@ -260,7 +260,7 @@
 - [Gemini](#gemini) (1)
 - [Generac](#generac) (1)
 - [General Astronautics](#general-astronautics) (1)
-- [General Dynamics Information Technology](#general-dynamics-information-technology) (4)
+- [General Dynamics Information Technology](#general-dynamics-information-technology) (5)
 - [General Dynamics Mission Systems](#general-dynamics-mission-systems) (1)
 - [General Intuition &amp; Medal](#general-intuition-amp-medal) (1)
 - [GenMD](#genmd) (1)
@@ -394,8 +394,8 @@
 - [Meta](#meta) (7)
 - [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (3)
 - [Microchip Technology](#microchip-technology) (6)
-- [Micron Technology](#micron-technology) (2)
-- [Microsoft](#microsoft) (10)
+- [Micron Technology](#micron-technology) (3)
+- [Microsoft](#microsoft) (9)
 - [Mindsmith](#mindsmith) (1)
 - [Mistral AI](#mistral-ai) (1)
 - [Mizuho Securities USA](#mizuho-securities-usa) (1)
@@ -439,7 +439,7 @@
 - [Niural](#niural) (1)
 - [Noblis](#noblis) (1)
 - [Northrop Grumman](#northrop-grumman) (2)
-- [Northwestern Mutual](#northwestern-mutual) (3)
+- [Northwestern Mutual](#northwestern-mutual) (4)
 - [Notion](#notion) (5)
 - [Novanta](#novanta) (1)
 - [Novogradac](#novogradac) (1)
@@ -617,6 +617,7 @@
 - [TikTok](#tiktok) (117)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
+- [TMEIC Corporation Americas](#tmeic-corporation-americas) (3)
 - [Together AI](#together-ai) (3)
 - [Topel Forman LLC](#topel-forman-llc) (1)
 - [Touchdown Labs](#touchdown-labs) (1)
@@ -628,7 +629,7 @@
 - [Trata](#trata) (1)
 - [Trend Micro](#trend-micro) (1)
 - [Trillium](#trillium) (4)
-- [Truist Bank](#truist-bank) (1)
+- [Truist Bank](#truist-bank) (2)
 - [Turabify](#turabify) (1)
 - [Two Sigma](#two-sigma) (2)
 - [Uber](#uber) (1)
@@ -650,7 +651,7 @@
 - [Vega Investment Technologies](#vega-investment-technologies) (1)
 - [Vendelux](#vendelux) (2)
 - [Verne Robotics](#verne-robotics) (1)
-- [Vertiv](#vertiv) (3)
+- [Vertiv](#vertiv) (6)
 - [VetsEZ](#vetsez) (1)
 - [Viridien](#viridien) (1)
 - [Virtu Financial](#virtu-financial) (6)
@@ -667,7 +668,7 @@
 - [Warner Bros.](#warner-bros) (3)
 - [Waymo](#waymo) (1)
 - [Wells Fargo](#wells-fargo) (11)
-- [Western Digital](#western-digital) (3)
+- [Western Digital](#western-digital) (4)
 - [WindBorne Systems](#windborne-systems) (1)
 - [Winland Foods](#winland-foods) (1)
 - [Workato](#workato) (1)
@@ -1240,6 +1241,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Product Software Developer Intern](https://boards.greenhouse.io/assuredguaranty/jobs/8700953002) | 93 | NYC | Software | 2026-08-12 |
 | [Fall 2026 Intern - Product Software Developer](https://boards.greenhouse.io/assuredguaranty/jobs/8700953002?gh_jid=8700953002) | 93 | New York, NY, United States | Software / Fall 2026 | 2026-08-12 |
 
 ## Astera
@@ -2323,6 +2325,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Trading Intern](https://job-boards.greenhouse.io/dvtrading/jobs/4719135005) | 68 | London, UK | Quant | 2026-08-12 |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/dvtrading/jobs/4719119005) | 93 | NYC | Software | 2026-08-11 |
 | [Software Engineer Intern - DV Commodities](https://job-boards.greenhouse.io/dvtrading/jobs/4719125005) | 93 | London, UK | Software | 2026-08-11 |
 | [Quantitative Risk Intern](https://job-boards.greenhouse.io/dvtrading/jobs/4719118005) | 68 | Chicago, IL | Quant | 2026-08-04 |
@@ -2750,8 +2753,9 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Developer Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1) | 93 | Annapolis Junction, MD | Software | 2026-08-12 |
 | [GDIT 2027 Summer AI / ML Internship](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church---3150-Fairview-Park-Dr-VAS095/GDIT-2027-Summer-AI---ML-Internship_RQ225401) | 68 | USA VA Falls Church - 3150 Fairview Park Dr (VAS095) | Data & ML/AI / Summer 2027 | 2026-08-12 |
-| [Summer 2027 Software Developer Internship](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1) | 93 | USA MD Annapolis Junction | Software / Summer 2027 | 2026-08-10 |
+| [Summer 2027 Software Developer Internship](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225450-1) | 93 | USA MD Annapolis Junction | Software / Summer 2027 | 2026-08-10 |
 | [Artificial Intelligence/Machine Learning Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912) | 68 | Falls Church, VA | AI/ML/Data | 2026-08-05 |
 | [Systems Engineer Intern](https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity) | 75 | Albany, NY | — | 2026-07-30 |
 
@@ -3745,6 +3749,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Surface Scientist Intern - Corporate Labs](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Corporate-Labs_JR108442) | 93 | Boise, ID | AI/ML/Data | 2026-08-12 |
 | [DRAM Design Engineer Intern](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108468) | 58 | Boise, ID | Hardware | 2026-08-11 |
 | [DRAM IP Circuits Design Engineer Intern - IP Development](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-IP-Circuits-Design-Engineer_JR108471) | 58 | Boise, ID | Hardware | 2026-08-11 |
 
@@ -3754,7 +3759,6 @@
 | --- | --- | --- | --- | --- |
 | [Product Manager Intern](https://apply.careers.microsoft.com/careers/job/1970393556953113) | 50 | Remote | — | 2026-08-09 |
 | [Software Engineer Intern - Gears of War](https://apply.careers.microsoft.com/careers/job/1970393556956276) | 85 | Vancouver, BC, Canada | Software | 2026-08-07 |
-| [Research Intern - Firmware Security](https://apply.careers.microsoft.com/careers/job/1970393556955518) | 60 | Redmond, WA | AI/ML/Data | 2026-08-04 |
 | [Software Engineer Intern, AI/ML & LLM](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922929) | 85 | Redmond, WA | — | 2026-08-04 |
 | [Software Engineer Intern, Data Platform/Analytics](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922931) | 85 | Redmond, WA | — | 2026-08-04 |
 | [Software Engineer Intern, Fullstack Product (Web + Services)](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922922) | 85 | Multiple Locations, United States | — | 2026-08-04 |
@@ -4057,6 +4061,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Quantitative Analyst Intern - Public Investments](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Public-Investments-Quantitative-Analyst-Intern--Summer-2027_JR-45807) | 68 | Milwaukee, WI | Quant | 2026-08-12 |
 | [Investment Analyst Intern - Private Debt & Equity](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Analyst-Intern---Private-Debt---Equity--Summer-2027_JR-45705) | 68 | Milwaukee, WI | Quant | 2026-08-01 |
 | [Analytics Intern](https://jobs.smartrecruiters.com/NorthwesternMutual/85751677) | 68 | Milwaukee, WI | AI/ML/Data | 2026-05-09 |
 | [Application Development Intern](https://jobs.smartrecruiters.com/NorthwesternMutual/85751711) | 68 | Milwaukee, WI | Software | 2026-05-09 |
@@ -5628,6 +5633,14 @@
 | --- | --- | --- | --- | --- |
 | [Intern - Applications, AI and Machine Learning](https://apply.workable.com/tmeic-corporation-americas/j/FD4C9770FF/) | 68 | Roanoke, VA | Data Science, AI & Machine Learning | 2026-05-09 |
 
+## TMEIC Corporation Americas
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Engineer Intern - Spring 2027 - Eis](https://apply.workable.com/tmeic-corporation-americas/j/D44B74C42B/apply) | 93 | Roanoke, VA | Software | 2026-08-12 |
+| [Applications Intern - AI and Machine Learning](https://apply.workable.com/tmeic-corporation-americas/j/6FDBF2FD32/apply) | 68 | Roanoke, VA | AI/ML/Data | 2026-08-12 |
+| [Engineer Intern - Spring 2027](https://apply.workable.com/tmeic-corporation-americas/j/68E556E5CA/apply) | 58 | Houston, TX | Hardware | 2026-08-12 |
+
 ## Together AI
 
 | Title | Score | Location | Department | First seen |
@@ -5712,6 +5725,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Analyst Intern - Equity Research - Sales, Trading & Research](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/XMLNAME-2027-Truist-Securities---Equity-Research--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117762-1) | 48 | NYC / Atlanta, GA | Quant | 2026-08-12 |
 | [Technology and Operations Intern Conversion - Data](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/XMLNAME-2027-Technology--Data--and-Operations-Internship---Intern-Conversion-_R0117276) | 68 | Charlotte, NC / Atlanta, GA | Software | 2026-08-10 |
 
 ## Turabify
@@ -5860,6 +5874,9 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [IT Systems Product Management Intern - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279239) | 50 | Westerville, OH | Product | 2026-08-12 |
+| [Product Management Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278958) | 50 | Delaware, OH | Product | 2026-08-12 |
+| [Product Management Intern - MBA - Power Solutions & Distribution](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278959) | 50 | Delaware, OH | Product | 2026-08-12 |
 | [Product Management Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278933) | 50 | Westerville, OH | Product | 2026-08-10 |
 | [Thermal Engineer Intern - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278813) | 50 | Westerville, OH | Hardware | 2026-08-10 |
 | [Thermal Application Engineer Intern - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278512) | 85 | Westerville, OH | Software | 2026-08-05 |
@@ -5988,6 +6005,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Summer 2027 Intern - Software Engineering](https://jobs.smartrecruiters.com/WesternDigital/744000143171017) | 93 | San Jose, CA, United States | Software / Summer 2027 | 2026-08-12 |
 | [Hardware Engineering Intern](https://jobs.smartrecruiters.com/WesternDigital/744000140949875) | 58 | Fremont, CA / Rochester, MN / San Jose, CA / Irvine, CA / Colorado Springs, CO / Longmont, CO | Hardware | 2026-07-31 |
 | [Failure Analysis Automation Engineer Intern - Failure Analysis Automation Engineering](https://jobs.smartrecruiters.com/WesternDigital/744000139338269) | 93 | San Jose, CA | AI/ML/Data | 2026-07-23 |
 | [Software Engineer Intern](https://jobs.smartrecruiters.com/WesternDigital/744000138727213) | 93 | Fremont, CA / Rochester, MN / San Jose, CA / Irvine, CA / Colorado Springs, CO / Longmont, CO | Software | 2026-07-20 |
@@ -6077,3 +6095,7 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Data Analyst Intern](https://jobs.ashbyhq.com/zuru/750dea66-6f5a-4622-80d6-b6289954d3d0/application?embed=true) | 68 | LA | AI/ML/Data | 2026-07-21 |
+
+## Errors this run
+
+- **BlackRock**: workday blackrock: expected JSON, got application/xml; charset=utf-8: <wml:Application_Error xmlns:wml="http://www.workday.com/ns/model/1.0" Type="Val
