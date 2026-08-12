@@ -1,6 +1,6 @@
 # Open Internships
 
-**2034** internships across **179/179** companies — last updated 2026-08-12.
+**2031** internships across **179/179** companies — last updated 2026-08-12.
 
 ## Companies
 
@@ -534,7 +534,6 @@
 - [Roblox](#roblox) (1)
 - [Royal Bank of Canada](#royal-bank-of-canada) (4)
 - [RTX](#rtx) (15)
-- [Salesforce](#salesforce) (1)
 - [Samaya](#samaya) (1)
 - [Samsara](#samsara) (2)
 - [Samsung Research America](#samsung-research-america) (1)
@@ -561,7 +560,6 @@
 - [Skydio](#skydio) (3)
 - [SkyGig](#skygig) (1)
 - [Smiths Detection](#smiths-detection) (1)
-- [Snap](#snap) (2)
 - [Snowflake](#snowflake) (12)
 - [Solar Turbines](#solar-turbines) (1)
 - [SoloPulse](#solopulse) (3)
@@ -584,7 +582,7 @@
 - [StudyFetch](#studyfetch) (2)
 - [Super](#super) (2)
 - [Susquehanna](#susquehanna) (1)
-- [Susquehanna International Group (SIG)](#susquehanna-international-group-sig) (19)
+- [Susquehanna International Group (SIG)](#susquehanna-international-group-sig) (20)
 - [Susquehanna International Group, LLP (SIG)](#susquehanna-international-group-llp-sig) (3)
 - [Susquehanna Investment Group](#susquehanna-investment-group) (1)
 - [Sweatpals](#sweatpals) (1)
@@ -622,7 +620,7 @@
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
 - [TMEIC Corporation Americas](#tmeic-corporation-americas) (3)
-- [Together AI](#together-ai) (3)
+- [Together AI](#together-ai) (2)
 - [Topel Forman LLC](#topel-forman-llc) (1)
 - [Touchdown Labs](#touchdown-labs) (1)
 - [Tower Research](#tower-research) (1)
@@ -1972,7 +1970,7 @@
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
 
 ## Cloudforce
 
@@ -2759,10 +2757,10 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [PTOC  AI/Machine Learning Internship -DC Metro Area](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912) | 68 | USA VA Falls Church | Data & ML/AI / Summer 2027 | 2026-08-12 |
 | [Software Developer Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1) | 93 | Annapolis Junction, MD | Software | 2026-08-12 |
 | [GDIT 2027 Summer AI / ML Internship](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church---3150-Fairview-Park-Dr-VAS095/GDIT-2027-Summer-AI---ML-Internship_RQ225401) | 68 | USA VA Falls Church - 3150 Fairview Park Dr (VAS095) | Data & ML/AI / Summer 2027 | 2026-08-12 |
 | [Summer 2027 Software Developer Internship](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225450-1) | 93 | USA MD Annapolis Junction | Software / Summer 2027 | 2026-08-10 |
-| [Artificial Intelligence/Machine Learning Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912) | 68 | Falls Church, VA | AI/ML/Data | 2026-08-05 |
 | [Systems Engineer Intern](https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity) | 75 | Albany, NY | — | 2026-07-30 |
 
 ## General Dynamics Mission Systems
@@ -3144,9 +3142,9 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [HK - 2027 - Software Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4941206101) | 93 | Hong Kong, Hong Kong | — | 2026-08-12 |
-| [HK - 2027 - Quant Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4941208101) | 68 | Hong Kong, Hong Kong | — | 2026-08-12 |
-| [HK - 2027 - Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4941205101) | 58 | Hong Kong, Hong Kong | — | 2026-08-12 |
+| [Software Engineer Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941206101) | 93 | Hong Kong, Hong Kong | — | 2026-08-12 |
+| [Quant Research Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941208101) | 68 | Hong Kong, Hong Kong | — | 2026-08-12 |
+| [Trader Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941205101) | 58 | Hong Kong, Hong Kong | — | 2026-08-12 |
 | [Graduate Quantitative Researcher](https://job-boards.eu.greenhouse.io/imc/jobs/4939821101) | 99 | Amsterdam, Netherlands | — | 2026-08-05 |
 | [Software Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4667854101) | 93 | Amsterdam, Netherlands | — | 2026-07-31 |
 | [Quantitative Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4936262101) | 68 | Amsterdam, Netherlands | — | 2026-07-31 |
@@ -3624,7 +3622,7 @@
 | [AI Project Management Intern](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Chicago-IL/AI-Project-Management-Intern_JR0000045089-1) | 68 | Chicago, IL | Data & ML/AI / Not stated | 2026-08-12 |
 | [Digital Production Engineer Intern Co-op](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Milwaukee-WI/Digital-Production-Engineering-Intern-OR-Student-Co-Op_JR0000037451-2) | 93 | Milwaukee, WI | Software | 2026-08-01 |
 | [Digital Production Engineering Intern OR Student Co-Op](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Digital-Production-Engineering-Intern-OR-Student-Co-Op_JR0000037451) | 93 | Milwaukee, WI | Software | 2026-08-01 |
-| [New Product Development Intern](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Charlotte-NC/New-Product-Development-Intern---Summer-2026_JR0000037718) | 58 | Charlotte, NC | Product | 2026-08-01 |
+| [New Product Development Intern](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Charlotte-NC/New-Product-Development-Intern---Summer-2026_JR0000037718-5) | 58 | Charlotte, NC | Product | 2026-08-01 |
 | [Data Engineering Intern/Co-op](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453) | 93 | Milwaukee, WI | AI/ML/Data | 2026-07-20 |
 | [Product Management/Marketing Intern - Summer 2026](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Charlotte-NC/Product-Management-Marketing-Intern---Summer-2026_JR0000037719-4) | 38 | Charlotte, NC | Product | 2026-05-17 |
 
@@ -4251,7 +4249,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Platform Software Engineer 1 - Full-time Intern Conversion](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342415) | 85 | United States | Software / Not stated | 2026-08-12 |
+| [Platform Software Engineer 1 Intern - Full-time Intern Conversion](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342415) | 85 | United States | Software | 2026-08-12 |
 | [Customer Solutions Analyst Intern - Ovip](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334388) | 60 | United States | AI/ML/Data | 2026-07-02 |
 | [Software Engineer Intern](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334325) | 85 | Seattle, WA / Santa Clara, CA | Software | 2026-05-21 |
 | [Software Engineer Intern - Ovip](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334333) | 85 | Nashville, TN / Austin, TX / United States | Software | 2026-05-21 |
@@ -4848,12 +4846,6 @@
 | [Software Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01863980-1) | 93 | US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 | Software / Summer 2027 | 2026-08-07 |
 | [Software Engineer Intern, Fleet Health Instrumentation](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072) | 93 | McKinney, TX | — | 2026-08-05 |
 
-## Salesforce
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Intern - Future Pathways](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-Intern---Future-Pathways_JR355842) | 93 | Seattle, WA / SF | Software | 2026-08-11 |
-
 ## Samaya
 
 | Title | Score | Location | Department | First seen |
@@ -5026,13 +5018,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern (Cyber focus)](https://jobs.smartrecruiters.com/SmithsGroup2/a22945f0-59b6-4c3f-87f1-43c05b535677) | 93 | Edgewood, MD | Software Engineering | 2026-05-09 |
 
-## Snap
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Graduate - Client Partners](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Riyadh-Saudi-Arabia/Graduate---Client-Partners_R0046337-1) | 56 | Riyadh, Saudi Arabia | — | 2026-08-12 |
-| [Graduate- Partnerships Associate](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Riyadh-Saudi-Arabia/Graduate--Partnerships-Associate_R0046339-1) | 56 | Riyadh, Saudi Arabia | — | 2026-08-12 |
-
 ## Snowflake
 
 | Title | Score | Location | Department | First seen |
@@ -5201,6 +5186,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Quantitative Strategy Developer Intern](https://careers-sig.icims.com/jobs/10838/job?mobile=true&needsRedirect=false) | 85 | Ardmore, PA | Quant | 2026-08-12 |
 | [Quantitative Research Intern](https://careers-sig.icims.com/jobs/11007/job?mobile=true&needsRedirect=false) | 60 | London, UK | Quant | 2026-08-01 |
 | [Quantitative Systematic Trading Intern](https://careers-sig.icims.com/jobs/11006/job?mobile=true&needsRedirect=false) | 60 | London, UK | Quant | 2026-08-01 |
 | [Quantitative Trading Internship](https://careers-sig.icims.com/jobs/11005/job?mobile=true&needsRedirect=false) | 60 | London, UK | Quant | 2026-08-01 |
@@ -5680,7 +5666,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Frontier Agents Intern (Fall 2026)](https://job-boards.greenhouse.io/togetherai/jobs/5157380007) | 58 | San Francisco | — | 2026-07-28 |
 | [Systems Research Engineer Intern - GPU Programming](https://job-boards.greenhouse.io/togetherai/jobs/5157559007) | 93 | SF | AI/ML/Data | 2026-07-01 |
 | [Research Intern - Model Shaping](https://job-boards.greenhouse.io/togetherai/jobs/5157661007) | 68 | SF | AI/ML/Data | 2026-06-17 |
 
