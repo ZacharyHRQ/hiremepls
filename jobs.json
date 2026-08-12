@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-12T09:00:38.242Z",
+  "generatedAt": "2026-08-12T10:17:45.474Z",
   "companyCount": 179,
   "okCount": 179,
-  "jobCount": 2008,
+  "jobCount": 2005,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -255,7 +255,6 @@
     "canonical:19300e1217fa0c5e": "2026-06-15T11:27:26.940Z",
     "canonical:a0632e28376b8397": "2026-06-15T11:27:26.940Z",
     "canonical:9b7665abbb0be729": "2026-06-15T11:27:26.940Z",
-    "canonical:35e5f856ba8cdd00": "2026-06-15T11:27:26.940Z",
     "canonical:2b6b13fd07779d8a": "2026-06-15T11:27:26.940Z",
     "canonical:8a584693aa3805ae": "2026-06-15T16:25:40.601Z",
     "canonical:e6d9cce14ccbac53": "2026-06-16T15:25:00.747Z",
@@ -1904,7 +1903,6 @@
     "canonical:c023167c5909ccb2": "2026-08-10T23:05:00.755Z",
     "canonical:00074f14b5fec3d5": "2026-08-10T23:05:00.755Z",
     "canonical:fb87510ef79bdbdf": "2026-08-10T23:05:00.755Z",
-    "canonical:7f15f4416380332e": "2026-08-10T23:05:00.755Z",
     "canonical:403b59e92bdabdd6": "2026-08-10T23:05:00.755Z",
     "canonical:b37ce8210c6e0e4d": "2026-08-10T23:05:00.755Z",
     "canonical:c034a6d449a02452": "2026-08-10T23:05:00.755Z",
@@ -1962,7 +1960,6 @@
     "canonical:d6c416e9054d8a83": "2026-08-11T17:37:01.648Z",
     "canonical:d873e9e921930979": "2026-08-11T17:37:01.648Z",
     "canonical:99d4d3b064aee8b6": "2026-08-11T17:37:01.648Z",
-    "canonical:ccfaa3e871cf71fb": "2026-08-11T17:37:01.648Z",
     "canonical:03dde52273791c03": "2026-08-11T17:37:01.648Z",
     "canonical:dec8b4642f59e2e6": "2026-08-11T17:37:01.648Z",
     "canonical:535c28f331c0693c": "2026-08-11T17:37:01.648Z",
@@ -12757,32 +12754,6 @@
       ]
     },
     {
-      "id": "canonical:9b7665abbb0be729",
-      "title": "Research Scientist Intern - Trust and Safety",
-      "url": "https://lifeattiktok.com/search/7527582397938223367",
-      "location": "San Jose, CA",
-      "department": "AI/ML/Data",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:35e5f856ba8cdd00",
-      "title": "Research Scientist Intern - Trust and Safety - CV/NLP/Multimodal LLM",
-      "url": "https://lifeattiktok.com/search/7527585101065652498",
-      "location": "Seattle, WA",
-      "department": "AI/ML/Data",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:2b6b13fd07779d8a",
       "title": "Data Scientist Intern - TikTok Shop User Product DS",
       "url": "https://lifeattiktok.com/search/7532254890627696903",
@@ -19365,6 +19336,19 @@
       ]
     },
     {
+      "id": "canonical:9b7665abbb0be729",
+      "title": "Research Scientist Intern - Trust and Safety",
+      "url": "https://lifeattiktok.com/search/7662674242861074741",
+      "location": "San Jose, CA",
+      "department": "AI/ML/Data",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:f4ed967614bd9c81",
       "title": "Frontend Engineer Intern - Open Platform",
       "url": "https://lifeattiktok.com/search/7667935739300792629",
@@ -22714,18 +22698,6 @@
       ]
     },
     {
-      "id": "canonical:7f15f4416380332e",
-      "title": "AI & Automation Intern - Enterprise Data & Analytics",
-      "url": "https://careers-sargentlundy.icims.com/jobs/25986/job?mobile=true&needsRedirect=false",
-      "location": "Chicago, IL",
-      "department": "AI/ML/Data",
-      "company": "Sargent & Lundy",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:403b59e92bdabdd6",
       "title": "Product Management Intern",
       "url": "https://wd1.myworkdaysite.com/recruiting/rlicorp/RLI_Corp_Careers/job/Honolulu-HI/Product-Management-Intern--Honolulu--HI_R1646",
@@ -23356,19 +23328,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:ccfaa3e871cf71fb",
-      "title": "Enterprise Extended Reality Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-NY-REMOTE/Enterprise-Extended-Reality--XR--Intern--Summer-2027---Remote-_01865894",
-      "location": "NYC",
-      "department": "Software",
-      "company": "RTX",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
