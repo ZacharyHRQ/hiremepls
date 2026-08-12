@@ -1,7 +1,7 @@
 {
-  "BlackRock": {
+  "Snap": {
     "consecutiveFailures": 1,
-    "lastError": "workday blackrock: expected JSON, got application/xml; charset=utf-8: <wml:Application_Error xmlns:wml=\"http://www.workday.com/ns/model/1.0\" Type=\"Val",
+    "lastError": "workday snap: HTTP 503",
     "alerted": false
   }
 }

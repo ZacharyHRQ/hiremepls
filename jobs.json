@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-12T21:10:05.758Z",
+  "generatedAt": "2026-08-12T21:59:55.585Z",
   "companyCount": 179,
   "okCount": 178,
-  "jobCount": 2023,
+  "jobCount": 2021,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1810,7 +1810,6 @@
     "canonical:924cac1e974b9413": "2026-08-08T02:49:42.619Z",
     "canonical:346cea3ad7b894ed": "2026-08-08T02:49:42.619Z",
     "canonical:c153bd5ef8789cba": "2026-08-08T02:49:42.619Z",
-    "canonical:4d5f67728d4d467a": "2026-08-08T09:07:22.360Z",
     "canonical:669cf21fa7895579": "2026-08-08T09:07:22.360Z",
     "canonical:096966ca116f0d67": "2026-08-08T10:20:29.819Z",
     "canonical:523334f852948e02": "2026-08-08T10:56:46.452Z",
@@ -2008,7 +2007,6 @@
     "canonical:c37760602da77ea9": "2026-08-12T15:34:31.653Z",
     "canonical:aece095750619adf": "2026-08-12T16:32:38.617Z",
     "canonical:a050afb4a6afe403": "2026-08-12T16:32:38.617Z",
-    "canonical:d68411deab859a50": "2026-08-12T17:38:04.745Z",
     "canonical:04172e347ecd89c6": "2026-08-12T17:38:04.745Z",
     "canonical:8c33dd8961483d6c": "2026-08-12T17:38:04.745Z",
     "canonical:ef16c05140251791": "2026-08-12T18:32:41.982Z",
@@ -7020,30 +7018,6 @@
       "scoreReasons": []
     },
     {
-      "id": "canonical:4d5f67728d4d467a",
-      "title": "Graduate- Partnerships Associate",
-      "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Riyadh-Saudi-Arabia/Graduate--Partnerships-Associate_R0046339-1",
-      "location": "Riyadh, Saudi Arabia",
-      "department": "",
-      "company": "Snap",
-      "score": 56,
-      "scoreReasons": [
-        "new grad"
-      ]
-    },
-    {
-      "id": "canonical:d68411deab859a50",
-      "title": "Graduate - Client Partners",
-      "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Riyadh-Saudi-Arabia/Graduate---Client-Partners_R0046337-1",
-      "location": "Riyadh, Saudi Arabia",
-      "department": "",
-      "company": "Snap",
-      "score": 56,
-      "scoreReasons": [
-        "new grad"
-      ]
-    },
-    {
       "id": "canonical:0a79a60ca311db6f",
       "title": "Machine Learning Engineer Perception LLM/VLM (PhD, New Grad)",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=7488508",
@@ -7564,7 +7538,7 @@
     {
       "id": "canonical:1a056010d15d11c7",
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -27995,8 +27969,8 @@
   ],
   "errors": [
     {
-      "company": "BlackRock",
-      "message": "workday blackrock: expected JSON, got application/xml; charset=utf-8: <wml:Application_Error xmlns:wml=\"http://www.workday.com/ns/model/1.0\" Type=\"Val"
+      "company": "Snap",
+      "message": "workday snap: HTTP 503"
     }
   ]
 }
