@@ -1,6 +1,6 @@
 # Open Internships
 
-**2006** internships across **179/179** companies — last updated 2026-08-12.
+**2008** internships across **179/179** companies — last updated 2026-08-12.
 
 ## Companies
 
@@ -114,7 +114,7 @@
 - [Cambium Learning Group](#cambium-learning-group) (1)
 - [Canadian Solar](#canadian-solar) (1)
 - [Canva](#canva) (7)
-- [Capella](#capella) (2)
+- [Capella](#capella) (1)
 - [Capital One](#capital-one) (5)
 - [Capula](#capula) (1)
 - [CareScout](#carescout) (1)
@@ -316,7 +316,7 @@
 - [IDEXX](#idexx) (1)
 - [iHeartMedia](#iheartmedia) (1)
 - [IMC](#imc) (4)
-- [IMC Trading](#imc-trading) (26)
+- [IMC Trading](#imc-trading) (29)
 - [Impulse Space](#impulse-space) (1)
 - [Incident IQ](#incident-iq) (1)
 - [InfiniteQuant](#infinitequant) (1)
@@ -433,7 +433,7 @@
 - [Nextiva](#nextiva) (1)
 - [Nightwing](#nightwing) (1)
 - [Nightwing Intelligence Solutions](#nightwing-intelligence-solutions) (2)
-- [Nio](#nio) (2)
+- [Nio](#nio) (3)
 - [Nissan Global](#nissan-global) (1)
 - [Niural](#niural) (1)
 - [Noblis](#noblis) (1)
@@ -529,7 +529,7 @@
 - [Robinhood](#robinhood) (2)
 - [Roblox](#roblox) (1)
 - [Royal Bank of Canada](#royal-bank-of-canada) (4)
-- [RTX](#rtx) (14)
+- [RTX](#rtx) (13)
 - [Salesforce](#salesforce) (1)
 - [Samaya](#samaya) (1)
 - [Samsara](#samsara) (2)
@@ -1706,7 +1706,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Flight Software Engineering Intern](https://www.capellaspace.com/company/apply?gh_jid=5735295004) | 85 | San Francisco, CA | Hardware Engineering | 2026-05-09 |
 | [Flight Software Engineering Intern](https://www.capellaspace.com/company/apply?gh_jid=5737184004) | 85 | Louisville, CO | Hardware Engineering | 2026-05-09 |
 
 ## Capital One
@@ -1951,7 +1950,7 @@
 | [AI Innovation Intern – Service Sales (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395) | 38 | In-Office | — | 2026-07-30 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-07-29 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
@@ -3112,6 +3111,9 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [HK - 2027 - Software Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4941206101) | 93 | Hong Kong, Hong Kong | — | 2026-08-12 |
+| [HK - 2027 - Quant Research Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4941208101) | 68 | Hong Kong, Hong Kong | — | 2026-08-12 |
+| [HK - 2027 - Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4941205101) | 58 | Hong Kong, Hong Kong | — | 2026-08-12 |
 | [Graduate Quantitative Researcher](https://job-boards.eu.greenhouse.io/imc/jobs/4939821101) | 99 | Amsterdam, Netherlands | — | 2026-08-05 |
 | [Software Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4667854101) | 93 | Amsterdam, Netherlands | — | 2026-07-31 |
 | [Quantitative Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4936262101) | 68 | Amsterdam, Netherlands | — | 2026-07-31 |
@@ -4017,6 +4019,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data Analysis Intern](https://nio.wd3.myworkdayjobs.com/NIO_Careers/job/San-Jose-US/Data-Analysis-Intern_R-000153) | 68 | San Jose, CA | AI/ML/Data | 2026-08-12 |
 | [Systems Verification & Concurrent Kernel Architecture Research Intern](https://nio.wd3.myworkdayjobs.com/NIO_Careers/job/San-Jose-US/Systems-Verification---Concurrent-Kernel-Architecture-Research-Intern_R-000139) | 68 | San Jose, CA | Software | 2026-08-01 |
 | [LLM Algorithmic Optimization Engineer – Intern](https://nio.wd3.myworkdayjobs.com/NIO_Careers/job/San-Jose-US/LLM-Algorithmic-Optimization-Engineer---Intern_R-000119) | 93 | San Jose, CA | AI/ML/Data | 2026-08-01 |
 
@@ -4798,7 +4801,6 @@
 | [Software Engineering Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineering-Intern--Summer-2027-_01865025) | 93 | El Segundo, CA | Hardware | 2026-08-11 |
 | [Enterprise Extended Reality Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-NY-REMOTE/Enterprise-Extended-Reality--XR--Intern--Summer-2027---Remote-_01865894) | 68 | NYC | Software | 2026-08-11 |
 | [Software Development Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01865635) | 68 | Tewksbury, MA | Software | 2026-08-11 |
-| [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-REMOTE/Software-Engineering--Intern--Summer-2027-_01863749) | 93 | Texas | Software | 2026-08-11 |
 | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineer-Intern--Summer-2027-_01864811-1) | 93 | Largo, FL | Software | 2026-08-10 |
 | [Software Engineer Intern, Fleet Health Instrumentation](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012) | 93 | Fullerton, CA | — | 2026-08-10 |
 | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineering-Intern--Summer-2027-_01865158) | 93 | Marlborough, MA | Software | 2026-08-10 |
