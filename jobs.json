@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-12T21:59:55.585Z",
+  "generatedAt": "2026-08-12T22:42:34.077Z",
   "companyCount": 179,
-  "okCount": 178,
-  "jobCount": 2021,
+  "okCount": 179,
+  "jobCount": 2034,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2004,13 +2004,10 @@
     "canonical:a25f5a613a9e3d34": "2026-08-12T15:34:31.653Z",
     "canonical:36aaf31fe6e7ccd5": "2026-08-12T15:34:31.653Z",
     "canonical:9169af0f52efbbff": "2026-08-12T15:34:31.653Z",
-    "canonical:c37760602da77ea9": "2026-08-12T15:34:31.653Z",
     "canonical:aece095750619adf": "2026-08-12T16:32:38.617Z",
     "canonical:a050afb4a6afe403": "2026-08-12T16:32:38.617Z",
     "canonical:04172e347ecd89c6": "2026-08-12T17:38:04.745Z",
-    "canonical:8c33dd8961483d6c": "2026-08-12T17:38:04.745Z",
     "canonical:ef16c05140251791": "2026-08-12T18:32:41.982Z",
-    "canonical:e86e40624ec28eed": "2026-08-12T18:32:41.982Z",
     "canonical:b16d4746e2e8eaa3": "2026-08-12T19:45:06.044Z",
     "canonical:c6690b19f98de110": "2026-08-12T21:10:05.758Z",
     "canonical:4670de827e8c60dc": "2026-08-12T21:10:05.758Z",
@@ -2024,7 +2021,23 @@
     "canonical:7152aeb407ea8522": "2026-08-12T21:10:05.758Z",
     "canonical:c044a7e192c15a57": "2026-08-12T21:10:05.758Z",
     "canonical:afe000cd060460db": "2026-08-12T21:10:05.758Z",
-    "canonical:cee27f704d5023f1": "2026-08-12T21:10:05.758Z"
+    "canonical:cee27f704d5023f1": "2026-08-12T21:10:05.758Z",
+    "canonical:4d5f67728d4d467a": "2026-08-12T22:42:34.077Z",
+    "canonical:d68411deab859a50": "2026-08-12T22:42:34.077Z",
+    "canonical:31820da610fbcdc0": "2026-08-12T22:42:34.077Z",
+    "canonical:57f646554e4d20f4": "2026-08-12T22:42:34.077Z",
+    "canonical:e53ce630cf87c4df": "2026-08-12T22:42:34.077Z",
+    "canonical:7fea43b905a0dddd": "2026-08-12T22:42:34.077Z",
+    "canonical:29011807afa879d7": "2026-08-12T22:42:34.077Z",
+    "canonical:d00e4385530b0f24": "2026-08-12T22:42:34.077Z",
+    "canonical:246bba35f79f8344": "2026-08-12T22:42:34.077Z",
+    "canonical:a3a78589e5c803b8": "2026-08-12T22:42:34.077Z",
+    "canonical:fe20009b43ec4446": "2026-08-12T22:42:34.077Z",
+    "canonical:cf2b866448ee17d1": "2026-08-12T22:42:34.077Z",
+    "canonical:8d71da300532b2f1": "2026-08-12T22:42:34.077Z",
+    "canonical:1d9a6ab2e69dc85c": "2026-08-12T22:42:34.077Z",
+    "canonical:b45077e0a7ab4ea9": "2026-08-12T22:42:34.077Z",
+    "canonical:b873d54b29eddb1e": "2026-08-12T22:42:34.077Z"
   },
   "jobs": [
     {
@@ -7016,6 +7029,30 @@
       "company": "Amazon",
       "score": 50,
       "scoreReasons": []
+    },
+    {
+      "id": "canonical:4d5f67728d4d467a",
+      "title": "Graduate- Partnerships Associate",
+      "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Riyadh-Saudi-Arabia/Graduate--Partnerships-Associate_R0046339-1",
+      "location": "Riyadh, Saudi Arabia",
+      "department": "",
+      "company": "Snap",
+      "score": 56,
+      "scoreReasons": [
+        "new grad"
+      ]
+    },
+    {
+      "id": "canonical:d68411deab859a50",
+      "title": "Graduate - Client Partners",
+      "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Riyadh-Saudi-Arabia/Graduate---Client-Partners_R0046337-1",
+      "location": "Riyadh, Saudi Arabia",
+      "department": "",
+      "company": "Snap",
+      "score": 56,
+      "scoreReasons": [
+        "new grad"
+      ]
     },
     {
       "id": "canonical:0a79a60ca311db6f",
@@ -15446,6 +15483,19 @@
       ]
     },
     {
+      "id": "canonical:31820da610fbcdc0",
+      "title": "Frontend Application Engineer Intern",
+      "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/29776",
+      "location": "Pensacola, FL / Vienna, VA",
+      "department": "Software",
+      "company": "Navy Federal",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:92b3ad66c7dc9963",
       "title": "Quantitative Research Intern",
       "url": "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009",
@@ -19429,6 +19479,18 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038",
       "location": "NYC",
       "department": "Quant",
+      "company": "JP Morgan Chase",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:57f646554e4d20f4",
+      "title": "Data & AI Intern - Analyst",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869",
+      "location": "Palo Alto, CA / Newark, DE / Plano, TX / Chicago, IL / Jersey City, NJ / Columbus, OH / NYC / Wilmington, DE",
+      "department": "AI/ML/Data",
       "company": "JP Morgan Chase",
       "score": 60,
       "scoreReasons": [
@@ -23893,6 +23955,151 @@
       ]
     },
     {
+      "id": "canonical:e53ce630cf87c4df",
+      "title": "Engineering Intern",
+      "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/118908",
+      "location": "Laval, QC, Canada",
+      "department": "AI/ML/Data",
+      "company": "Howmet Aerospace",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:7fea43b905a0dddd",
+      "title": "Data Engineering Intern",
+      "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/29792",
+      "location": "Vienna, VA",
+      "department": "AI/ML/Data",
+      "company": "Navy Federal",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:29011807afa879d7",
+      "title": "Data Scientist Intern",
+      "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/31873",
+      "location": "Pensacola, FL / Vienna, VA",
+      "department": "AI/ML/Data",
+      "company": "Navy Federal",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:d00e4385530b0f24",
+      "title": "Software Development Intern",
+      "url": "https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Software-Dev-Internship_JR1005",
+      "location": "Oklahoma City, OK",
+      "department": "Software",
+      "company": "American Fidelity",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:246bba35f79f8344",
+      "title": "Sports Research Engineer Intern",
+      "url": "https://newbalance.wd1.myworkdayjobs.com/careers/job/Sports-Research-Lab-Brighton-MA/Sports-Research-Engineer-Intern_R40740",
+      "location": "Brighton, Boston, MA",
+      "department": "AI/ML/Data",
+      "company": "New Balance",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:a3a78589e5c803b8",
+      "title": "Master Data Intern - Service & Support",
+      "url": "https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Irving-TX/Master-Data-Intern_JR10017954-1",
+      "location": "Irving, TX",
+      "department": "AI/ML/Data",
+      "company": "Heidelberg Materials",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:fe20009b43ec4446",
+      "title": "Agentic AI Research Intern",
+      "url": "https://careers-cotiviti.icims.com/jobs/19480/job?mobile=true&needsRedirect=false",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "Cotiviti",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:cf2b866448ee17d1",
+      "title": "Data Analytics Intern",
+      "url": "https://joinus.ies-co.com/jobs/24176?icims=1",
+      "location": "Manitowoc, WI",
+      "department": "AI/ML/Data",
+      "company": "IES Holdings",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:8d71da300532b2f1",
+      "title": "Software Engineering Intern - Summer 2027",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875",
+      "location": "Cedar Rapids, IA",
+      "department": "Hardware",
+      "company": "RTX",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1d9a6ab2e69dc85c",
+      "title": "Engineering Intern",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2",
+      "location": "Niskayuna, NY",
+      "department": "Software",
+      "company": "GE Vernova",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:b45077e0a7ab4ea9",
+      "title": "Validation Engineer Intern - Product Safety - Certification & Validation",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Intern--Validation-Engineering---Product-Safety--Certification---Validation---Onsite-_01864406",
+      "location": "East Hartford, CT",
+      "department": "AI/ML/Data",
+      "company": "RTX",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:12cd06c0eec80152",
       "title": "Frontend Software Engineer Intern",
       "url": "https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c",
@@ -27096,6 +27303,19 @@
       ]
     },
     {
+      "id": "canonical:b873d54b29eddb1e",
+      "title": "Platform Software Engineer 1 - Full-time Intern Conversion",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342415",
+      "location": "United States",
+      "department": "Software / Not stated",
+      "company": "Oracle",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:cee27f704d5023f1",
       "title": "Summer 2027 Intern - Software Engineering",
       "url": "https://jobs.smartrecruiters.com/WesternDigital/744000143171017",
@@ -27116,62 +27336,6 @@
       "location": "New York, NY, United States",
       "department": "Software / Fall 2026",
       "company": "Assured Guaranty",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:e86e40624ec28eed",
-      "title": "Sports Research Engineer Intern",
-      "url": "https://newbalance.wd1.myworkdayjobs.com/careers/job/Sports-Research-Lab-Brighton-MA/Sports-Research-Engineer-Intern_R40740",
-      "location": "Sports Research Lab, Brighton MA",
-      "department": "Software / Not stated",
-      "company": "New Balance",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:8c33dd8961483d6c",
-      "title": "Software Dev Internship",
-      "url": "https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Software-Dev-Internship_JR1005",
-      "location": "Oklahoma City, Oklahoma",
-      "department": "Software / Not stated",
-      "company": "American Fidelity",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:bdf92d3b568936a7",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875",
-      "location": "US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137",
-      "department": "Software / Summer 2027",
-      "company": "RTX",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:c37760602da77ea9",
-      "title": "2027 Intern Software Engineer",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255",
-      "location": "United States-Florida-Melbourne",
-      "department": "Software / Summer 2027",
-      "company": "Northrop Grumman",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -27402,6 +27566,20 @@
       "company": "Belvedere Trading",
       "score": 68,
       "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:bdf92d3b568936a7",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01863980-1",
+      "location": "US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137",
+      "department": "Software / Summer 2027",
+      "company": "RTX",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -27967,10 +28145,5 @@
       ]
     }
   ],
-  "errors": [
-    {
-      "company": "Snap",
-      "message": "workday snap: HTTP 503"
-    }
-  ]
+  "errors": []
 }

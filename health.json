@@ -1,7 +1,1 @@
-{
-  "Snap": {
-    "consecutiveFailures": 1,
-    "lastError": "workday snap: HTTP 503",
-    "alerted": false
-  }
-}
+{}
