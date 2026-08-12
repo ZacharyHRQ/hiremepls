@@ -1,6 +1,6 @@
 # Open Internships
 
-**2012** internships across **179/179** companies — last updated 2026-08-11.
+**2012** internships across **179/179** companies — last updated 2026-08-12.
 
 ## Companies
 
@@ -1138,7 +1138,7 @@
 | [2027 Portfolio Solutions Group Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8041362&gh_jid=8041362) | 50 | Greenwich, CT | — | 2026-07-01 |
 | [2027 Business Development Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) | 50 | Greenwich, CT | — | 2026-05-15 |
 | [2027 Engineering Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926647&gh_jid=7926647) | 50 | Greenwich, CT | — | 2026-05-15 |
-| [2027 Research Product Specialist Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926704&gh_jid=7926704) | 50 | Greenwich, CT | — | 2026-05-15 |
+| [2027 Research Product Specialist Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8123095&gh_jid=8123095) | 50 | Greenwich, CT | — | 2026-05-15 |
 | [2027 Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7895583&gh_jid=7895583) | 50 | Greenwich, CT | — | 2026-05-15 |
 | [2027 Risk Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926692&gh_jid=7926692) | 50 | Greenwich, CT | — | 2026-05-15 |
 
