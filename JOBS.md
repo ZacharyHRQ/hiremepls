@@ -1,6 +1,6 @@
 # Open Internships
 
-**2001** internships across **179/179** companies — last updated 2026-08-12.
+**2003** internships across **179/179** companies — last updated 2026-08-12.
 
 ## Companies
 
@@ -22,7 +22,7 @@
 - [Altamira Technologies](#altamira-technologies) (2)
 - [Altice USA](#altice-usa) (1)
 - [Altom Transport](#altom-transport) (1)
-- [Amazon](#amazon) (170)
+- [Amazon](#amazon) (173)
 - [Ambarella](#ambarella) (5)
 - [Amber Group](#amber-group) (1)
 - [Amcor](#amcor) (1)
@@ -182,7 +182,6 @@
 - [Delta Air Lines](#delta-air-lines) (1)
 - [Delta Dental](#delta-dental) (1)
 - [Denari](#denari) (1)
-- [Densityai](#densityai) (1)
 - [Dewberry](#dewberry) (1)
 - [Dexmate](#dexmate) (1)
 - [Digs](#digs) (1)
@@ -374,7 +373,7 @@
 - [Marathon Petroleum Corporation](#marathon-petroleum-corporation) (1)
 - [Maricopa Association of Governments (MAG)](#maricopa-association-of-governments-mag) (1)
 - [Markem-Imaje](#markem-imaje) (1)
-- [Marmon Holdings](#marmon-holdings) (5)
+- [Marmon Holdings](#marmon-holdings) (6)
 - [Marshall Wace](#marshall-wace) (2)
 - [Marvell](#marvell) (4)
 - [Mathtech](#mathtech) (1)
@@ -529,7 +528,7 @@
 - [Robinhood](#robinhood) (2)
 - [Roblox](#roblox) (1)
 - [Royal Bank of Canada](#royal-bank-of-canada) (4)
-- [RTX](#rtx) (12)
+- [RTX](#rtx) (11)
 - [Salesforce](#salesforce) (1)
 - [Samaya](#samaya) (1)
 - [Samsara](#samsara) (2)
@@ -810,6 +809,9 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [2027 Account Manager Intern](https://amazon.jobs/en/jobs/10499683/2027-account-manager-intern) | 50 | Cape Town | Administrative Support | 2026-08-12 |
+| [2027 Financial Analyst Intern](https://amazon.jobs/en/jobs/10499685/2027-financial-analyst-intern) | 50 | Cape Town | Administrative Support | 2026-08-12 |
+| [2027 Program/Product Manager Intern](https://amazon.jobs/en/jobs/10499684/2027-program-product-manager-intern) | 50 | Cape Town | Administrative Support | 2026-08-12 |
 | [Graduate Area Manager](https://amazon.jobs/en/jobs/10498341/graduate-area-manager) | 56 | Dobromierz | Fulfillment & Operations Management | 2026-08-11 |
 | [Graduate Area Manager - 2026 Start Date](https://amazon.jobs/en/jobs/10498339/graduate-area-manager-2026-start-date) | 56 | Swiebodzin | Fulfillment & Operations Management | 2026-08-11 |
 | [Financial Analyst Intern](https://amazon.jobs/en/jobs/10498382/financial-analyst-intern) | 30 | Bengaluru | Finance & Accounting | 2026-08-11 |
@@ -1953,7 +1955,7 @@
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
 
 ## Cloudforce
 
@@ -2203,12 +2205,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Product & Software Internship](https://ats.rippling.com/denari/jobs/8aca4674-f7de-4afa-b031-41c77c533282) | 60 | Madison, WI | Software | 2026-08-01 |
-
-## Densityai
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Technical Intern- Software  (Fall 2026)](https://job-boards.greenhouse.io/densityai/jobs/4336452009) | 68 | Mountain View, CA | Software / Fall 2026 | 2026-08-07 |
 
 ## Dewberry
 
@@ -2743,7 +2739,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Summer 2027 Software Developer Internship](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225450-1) | 93 | USA MD Annapolis Junction | Software / Summer 2027 | 2026-08-10 |
+| [Summer 2027 Software Developer Internship](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1) | 93 | USA MD Annapolis Junction | Software / Summer 2027 | 2026-08-10 |
 | [Artificial Intelligence/Machine Learning Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church---3150-Fairview-Park-Dr-VAS095/GDIT-2027-Summer-AI---ML-Internship_RQ225401) | 68 | Falls Church, VA | AI/ML/Data | 2026-08-05 |
 | [Systems Engineer Intern](https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity) | 75 | Albany, NY | — | 2026-07-30 |
 
@@ -3590,6 +3586,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [AI Project Management Intern](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Chicago-IL/AI-Project-Management-Intern_JR0000045089-1) | 68 | Chicago, IL | Data & ML/AI / Not stated | 2026-08-12 |
 | [Digital Production Engineer Intern Co-op](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Milwaukee-WI/Digital-Production-Engineering-Intern-OR-Student-Co-Op_JR0000037451-2) | 93 | Milwaukee, WI | Software | 2026-08-01 |
 | [Digital Production Engineering Intern OR Student Co-Op](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Digital-Production-Engineering-Intern-OR-Student-Co-Op_JR0000037451) | 93 | Milwaukee, WI | Software | 2026-08-01 |
 | [New Product Development Intern](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Charlotte-NC/New-Product-Development-Intern---Summer-2026_JR0000037718) | 58 | Charlotte, NC | Product | 2026-08-01 |
@@ -4803,7 +4800,6 @@
 | [Systems Engineer 1 Intern - Intern Conversion](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion--Systems-Engineer-I--Onsite-_01863190) | 93 | Cedar Rapids, IA | Software | 2026-08-07 |
 | [Software Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01863980-1) | 93 | US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 | Software / Summer 2027 | 2026-08-07 |
 | [Software Engineer Intern, Fleet Health Instrumentation](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072) | 93 | McKinney, TX | — | 2026-08-05 |
-| [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01863980-1) | 93 | Cedar Rapids, IA | Hardware | 2026-08-04 |
 
 ## Salesforce
 

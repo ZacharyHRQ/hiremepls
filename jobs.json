@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-12T13:00:26.911Z",
+  "generatedAt": "2026-08-12T14:30:52.542Z",
   "companyCount": 179,
   "okCount": 179,
-  "jobCount": 2001,
+  "jobCount": 2003,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1628,7 +1628,6 @@
     "canonical:ec7ffb2ee8776982": "2026-08-04T22:51:33.061Z",
     "canonical:42cbd751a157374e": "2026-08-04T22:51:33.061Z",
     "canonical:97174b0b6c0afd2a": "2026-08-04T22:51:33.061Z",
-    "canonical:dd330df63152542e": "2026-08-04T22:51:33.061Z",
     "canonical:24bc6528e0437c46": "2026-08-04T22:51:33.061Z",
     "canonical:aef5b67e297164a0": "2026-08-04T22:51:33.061Z",
     "canonical:1397ff60cc88bfb6": "2026-08-04T23:53:58.307Z",
@@ -1738,7 +1737,6 @@
     "canonical:9c377905a87cbb93": "2026-08-07T00:35:31.024Z",
     "canonical:98e21fafbc68ad8c": "2026-08-07T00:35:31.024Z",
     "canonical:f142a2399b6e91f4": "2026-08-07T00:35:31.024Z",
-    "canonical:31a527e0b3894c5a": "2026-08-07T00:35:31.024Z",
     "canonical:73376349f86a8a2c": "2026-08-07T03:36:51.941Z",
     "canonical:7f58b60095071963": "2026-08-07T03:36:51.941Z",
     "canonical:94e9f24d7431af1c": "2026-08-07T03:36:51.941Z",
@@ -2004,7 +2002,11 @@
     "canonical:ae2198c9ecbb102e": "2026-08-12T11:57:36.778Z",
     "canonical:f6a762529d418d76": "2026-08-12T11:57:36.778Z",
     "canonical:1b5acd5e09ee7b18": "2026-08-12T13:00:26.911Z",
-    "canonical:5c2778d446a1f22f": "2026-08-12T13:00:26.911Z"
+    "canonical:5c2778d446a1f22f": "2026-08-12T13:00:26.911Z",
+    "canonical:9a6eb466353c5afa": "2026-08-12T14:30:52.542Z",
+    "canonical:cf354af41a43ac2a": "2026-08-12T14:30:52.542Z",
+    "canonical:afde2f0e07bcc8f8": "2026-08-12T14:30:52.542Z",
+    "canonical:b33fa9dd25771901": "2026-08-12T14:30:52.542Z"
   },
   "jobs": [
     {
@@ -5100,6 +5102,36 @@
       ]
     },
     {
+      "id": "canonical:9a6eb466353c5afa",
+      "title": "2027 Financial Analyst Intern",
+      "url": "https://amazon.jobs/en/jobs/10499685/2027-financial-analyst-intern",
+      "location": "Cape Town",
+      "department": "Administrative Support",
+      "company": "Amazon",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:cf354af41a43ac2a",
+      "title": "2027 Program/Product Manager Intern ",
+      "url": "https://amazon.jobs/en/jobs/10499684/2027-program-product-manager-intern",
+      "location": "Cape Town",
+      "department": "Administrative Support",
+      "company": "Amazon",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:afde2f0e07bcc8f8",
+      "title": "2027 Account Manager Intern",
+      "url": "https://amazon.jobs/en/jobs/10499683/2027-account-manager-intern",
+      "location": "Cape Town",
+      "department": "Administrative Support",
+      "company": "Amazon",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
       "id": "canonical:89adea911b44f806",
       "title": "Financial Analyst Intern",
       "url": "https://amazon.jobs/en/jobs/10498382/financial-analyst-intern",
@@ -6993,18 +7025,6 @@
       ]
     },
     {
-      "id": "canonical:c4899e61c3f2d9c6",
-      "title": "Applied Research Intern Co-op",
-      "url": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Block",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:0942563fedd29433",
       "title": "Applied Research Intern PhD / Graduate Co-op",
       "url": "http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008",
@@ -7015,6 +7035,18 @@
       "scoreReasons": [
         "high-signal role",
         "new grad"
+      ]
+    },
+    {
+      "id": "canonical:c4899e61c3f2d9c6",
+      "title": "Applied Research Intern Co-op",
+      "url": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
+      "location": "Toronto, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "Block",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
       ]
     },
     {
@@ -7488,7 +7520,7 @@
     {
       "id": "canonical:1f4885c46cec6b73",
       "title": "Network Strategy Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -20705,20 +20737,6 @@
       ]
     },
     {
-      "id": "canonical:dd330df63152542e",
-      "title": "Software Engineer Intern - Summer 2027",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01863980-1",
-      "location": "Cedar Rapids, IA",
-      "department": "Hardware",
-      "company": "RTX",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:24bc6528e0437c46",
       "title": "Software Engineer Intern - R&D - FPGA",
       "url": "https://jobs.keysight.com/jobs/53636?icims=1",
@@ -26912,6 +26930,33 @@
       ]
     },
     {
+      "id": "canonical:1d87142e66472af4",
+      "title": "Summer 2027 Software Developer Internship",
+      "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1",
+      "location": "USA MD Annapolis Junction",
+      "department": "Software / Summer 2027",
+      "company": "General Dynamics Information Technology",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:b33fa9dd25771901",
+      "title": "AI Project Management Intern",
+      "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Chicago-IL/AI-Project-Management-Intern_JR0000045089-1",
+      "location": "Chicago, IL",
+      "department": "Data & ML/AI / Not stated",
+      "company": "Marmon Holdings",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:186a1e462ba54815",
       "title": "Enterprise Operations Software Internship",
       "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Software-Internship_3167271-2",
@@ -27000,20 +27045,6 @@
       "company": "ACDS",
       "score": 68,
       "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:1d87142e66472af4",
-      "title": "Summer 2027 Software Developer Internship",
-      "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225450-1",
-      "location": "USA MD Annapolis Junction",
-      "department": "Software / Summer 2027",
-      "company": "General Dynamics Information Technology",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
         "high-signal role",
         "direct ATS"
       ]
@@ -27185,19 +27216,6 @@
       "score": 60,
       "scoreReasons": [
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:31a527e0b3894c5a",
-      "title": "Technical Intern- Software  (Fall 2026)",
-      "url": "https://job-boards.greenhouse.io/densityai/jobs/4336452009",
-      "location": "Mountain View, CA",
-      "department": "Software / Fall 2026",
-      "company": "Densityai",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
