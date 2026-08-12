@@ -1,6 +1,6 @@
 # Open Internships
 
-**2011** internships across **179/179** companies — last updated 2026-08-12.
+**2010** internships across **179/179** companies — last updated 2026-08-12.
 
 ## Companies
 
@@ -72,7 +72,7 @@
 - [Bank of America](#bank-of-america) (1)
 - [Bank of Montreal](#bank-of-montreal) (1)
 - [Barkback](#barkback) (1)
-- [Base Power](#base-power) (4)
+- [Base Power](#base-power) (3)
 - [Beacon Software](#beacon-software) (2)
 - [beBeeManufacturingEngineering](#bebeemanufacturingengineering) (1)
 - [Bee Sweet Citrus](#bee-sweet-citrus) (1)
@@ -327,7 +327,7 @@
 - [Instead](#instead) (1)
 - [Institute of Foundation Models](#institute-of-foundation-models) (2)
 - [Integra FEC](#integra-fec) (3)
-- [Intel](#intel) (5)
+- [Intel](#intel) (4)
 - [IntelliGenesis](#intelligenesis) (1)
 - [Intercontinental Exchange, Inc.](#intercontinental-exchange-inc) (1)
 - [Interdigital](#interdigital) (1)
@@ -502,7 +502,7 @@
 - [PsiQuantum](#psiquantum) (1)
 - [PSP Investments](#psp-investments) (1)
 - [Pylon](#pylon) (1)
-- [QCP](#qcp) (3)
+- [QCP](#qcp) (4)
 - [Quadric](#quadric) (2)
 - [Quadrillion](#quadrillion) (3)
 - [Qualcomm](#qualcomm) (1)
@@ -600,7 +600,7 @@
 - [Terminal](#terminal) (2)
 - [Terranova](#terranova) (2)
 - [Terranox AI](#terranox-ai) (1)
-- [Tesla](#tesla) (84)
+- [Tesla](#tesla) (85)
 - [Tessera Labs](#tessera-labs) (1)
 - [TETRAMEM](#tetramem) (1)
 - [Texas Instruments](#texas-instruments) (1)
@@ -620,7 +620,6 @@
 - [TikTok](#tiktok) (112)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
-- [TMX Group](#tmx-group) (1)
 - [Together AI](#together-ai) (3)
 - [Topel Forman LLC](#topel-forman-llc) (1)
 - [Touchdown Labs](#touchdown-labs) (1)
@@ -1362,7 +1361,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Firmware Engineer Intern](https://jobs.ashbyhq.com/base-power/a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7/application?embed=true) | 83 | Austin, TX | Hardware | 2026-08-07 |
-| [Quantitative Developer Intern](https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e/application) | 93 | Austin, TX | Quant | 2026-05-27 |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/base-power/5353ea33-57d4-46fa-9a96-e392a3f841bc/application) | 93 | Austin, TX | Software | 2026-05-27 |
 | [Hardware Engineer Intern](https://jobs.ashbyhq.com/base-power/f22cee0e-55d9-42cd-806e-1c1fc7217770/application) | 58 | Austin, TX | Hardware | 2026-05-21 |
 
@@ -1966,7 +1964,7 @@
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
 
 ## Cloudforce
 
@@ -3209,7 +3207,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [AI Software Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989) | 93 | Remote in USA | Software | 2026-08-04 |
 | [AI Software Engineer Graduate Intern](https://intel.wd1.myworkdayjobs.com/external/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989) | 99 | Virtual US | Data & ML/AI / Not stated | 2026-08-03 |
 | [AI Software Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641) | 93 | Phoenix, AZ | Software | 2026-08-01 |
 | [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) | 93 | Hillsboro, OR / Folsom, CA | Hardware | 2026-07-31 |
@@ -4596,6 +4593,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Intern, Risk (Jan - Jun 2027)](https://apply.workable.com/qcp-group/j/6B1690698E/) | 58 | Singapore, Central Singapore, Singapore | Market Risk | 2026-08-12 |
 | [Intern, Quantitative Developer (Jan - Jun 2027)](https://apply.workable.com/qcp-group/j/22CE3A4EDE/) | 93 | Singapore, Singapore, Singapore | Research & Development | 2026-08-12 |
 | [Intern, AML Compliance - Project Management (Jan - Jun 2027)](https://apply.workable.com/qcp-group/j/D2512DB61F/) | 58 | Singapore, Singapore, Singapore | Compliance | 2026-08-12 |
 | [Intern, Compliance - AML Operations (Jan 2027 intake)](https://apply.workable.com/qcp-group/j/68D6E36FDF/) | 58 | Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia | Compliance | 2026-08-12 |
@@ -5326,6 +5324,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern - AI Inference Co Design](https://www.tesla.com/careers/search/job/279600) | 85 | Palo Alto, CA | Software | 2026-08-12 |
 | [Applied AI Engineer Intern - AI Hardware](https://www.tesla.com/careers/search/job/279603) | 75 | Palo Alto, CA | Hardware | 2026-08-11 |
 | [Software Engineer Intern - Engineering Automation - Vehicle Engineering](https://www.tesla.com/careers/search/job/279763) | 85 | Palo Alto, CA | Software | 2026-08-10 |
 | [Electronic Design Engineer Intern - Electronic Systems](https://www.tesla.com/careers/search/job/279760) | 75 | Palo Alto, CA | Hardware | 2026-08-10 |
@@ -5644,12 +5643,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Intern - Applications, AI and Machine Learning](https://apply.workable.com/tmeic-corporation-americas/j/FD4C9770FF/) | 68 | Roanoke, VA | Data Science, AI & Machine Learning | 2026-05-09 |
-
-## TMX Group
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Analyst Student Intern - Market Insights](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Analyst--Market-Insights--Student-Intern_R-6125) | 68 | Toronto, ON, Canada | AI/ML/Data | 2026-08-01 |
 
 ## Together AI
 
