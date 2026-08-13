@@ -1,6 +1,6 @@
 # Open Internships
 
-**2056** internships across **179/179** companies — last updated 2026-08-13.
+**2058** internships across **179/179** companies — last updated 2026-08-13.
 
 ## Companies
 
@@ -116,7 +116,7 @@
 - [CALSTART](#calstart) (3)
 - [Cambium Learning Group](#cambium-learning-group) (1)
 - [Canadian Solar](#canadian-solar) (1)
-- [Canva](#canva) (7)
+- [Canva](#canva) (8)
 - [Capella](#capella) (1)
 - [Capital One](#capital-one) (5)
 - [Capula](#capula) (1)
@@ -147,7 +147,7 @@
 - [Clarity Innovations](#clarity-innovations) (1)
 - [Clerkie](#clerkie) (1)
 - [CloudFit Software](#cloudfit-software) (1)
-- [Cloudflare](#cloudflare) (12)
+- [Cloudflare](#cloudflare) (11)
 - [Cloudforce](#cloudforce) (1)
 - [Clyde Companies](#clyde-companies) (2)
 - [CME Group](#cme-group) (1)
@@ -356,7 +356,7 @@
 - [KBR](#kbr) (1)
 - [Kensington](#kensington) (1)
 - [Kepler Communications](#kepler-communications) (1)
-- [Keysight Technologies](#keysight-technologies) (2)
+- [Keysight Technologies](#keysight-technologies) (3)
 - [Kimley-Horn](#kimley-horn) (1)
 - [Kirin](#kirin) (1)
 - [KLA](#kla) (1)
@@ -495,7 +495,7 @@
 - [Pine Rest](#pine-rest) (1)
 - [Pinterest](#pinterest) (2)
 - [PlusAI](#plusai) (1)
-- [PNC Financial Services](#pnc-financial-services) (2)
+- [PNC Financial Services](#pnc-financial-services) (1)
 - [Point72](#point72) (18)
 - [pony.ai](#pony-ai) (2)
 - [Pony.ai](#pony-ai) (2)
@@ -598,7 +598,7 @@
 - [Teall Sports & Entertainment](#teall-sports-entertainment) (1)
 - [Techtronic Industries](#techtronic-industries) (1)
 - [Teledyne](#teledyne) (1)
-- [Tencent](#tencent) (10)
+- [Tencent](#tencent) (11)
 - [Tenstorrent](#tenstorrent) (4)
 - [Terminal](#terminal) (2)
 - [Terranova](#terranova) (2)
@@ -620,7 +620,7 @@
 - [Thomson Reuters](#thomson-reuters) (1)
 - [thyssenkrupp](#thyssenkrupp) (2)
 - [TIFIN](#tifin) (1)
-- [TikTok](#tiktok) (119)
+- [TikTok](#tiktok) (120)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
 - [TMEIC Corporation Americas](#tmeic-corporation-americas) (3)
@@ -1737,6 +1737,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [PhD Research Scientist Intern - Reinforcement Learning - Images](https://jobs.smartrecruiters.com/Canva/6000000001292768) | 93 | London, UK | AI/ML/Data | 2026-08-13 |
 | [PhD Research Scientist Intern - Edge AI](https://jobs.smartrecruiters.com/Canva/6000000001295792) | 83 | Vienna, Vienna, Austria | Information Technology | 2026-08-07 |
 | [PhD Research Scientist Intern - Edge AI](https://jobs.smartrecruiters.com/Canva/6000000001295782) | 83 | London, , United Kingdom | Information Technology | 2026-08-07 |
 | [PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling](https://jobs.smartrecruiters.com/Canva/6000000001295787) | 83 | Vienna, Vienna, Austria | Information Technology | 2026-08-07 |
@@ -1986,15 +1987,14 @@
 | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | 93 | In-Office | — | 2026-08-11 |
 | [Accounting Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7902104?gh_jid=7902104) | 38 | In-Office | — | 2026-08-03 |
 | [AI Builder Intern - Global Customer Engineering - Service Sales](https://boards.greenhouse.io/cloudflare/jobs/8044395) | 48 | London, UK | Software | 2026-07-30 |
-| [AI Innovation Intern – Service Sales (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395) | 38 | In-Office | — | 2026-07-30 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-07-29 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
 
 ## Cloudforce
 
@@ -3222,9 +3222,9 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Quantitative Developer - Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594) | 93 | New York, New York, United States (Remote) | Quant / Summer 2027 | 2026-08-13 |
+| [Quantitative Developer Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594) | 93 | Dubai - United Arab Emirates / NYC | Quant | 2026-08-13 |
 | [Quantitative Researcher - Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143292044) | 93 | New York, NY, United States | Quant / Summer 2027 | 2026-08-13 |
-| [Quantitative Researcher Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000142560129) | 93 | Dubai - United Arab Emirates / NYC | Quant | 2026-07-20 |
+| [Quantitative Researcher Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421) | 93 | Dubai - United Arab Emirates / NYC | Quant | 2026-07-20 |
 
 ## Infojini
 
@@ -3501,6 +3501,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Development Intern](https://jobs.keysight.com/jobs/53081?lang=en-us&icims=1) | 60 | Fleet, UK | Software | 2026-08-13 |
 | [Software Engineer Intern - R&D - FPGA](https://jobs.keysight.com/jobs/53636?icims=1) | 85 | Santa Clara, CA / Calabasas, CA | Hardware | 2026-08-04 |
 | [AI/ML Research Intern](https://jobs.keysight.com/jobs/52557?icims=1) | 60 | Edinburgh, UK | AI/ML/Data | 2026-08-01 |
 
@@ -4565,7 +4566,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Data and Analytics Intern - Modeling](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Data--Modeling--and-Analytics-Undergraduate-Intern_R231526-1) | 68 | Pittsburgh, PA | AI/ML/Data | 2026-08-10 |
 | [Product Innovation Intern - Retail Product Innovation](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Product-Innovation-Undergraduate-Intern_R230925-1) | 38 | Pittsburgh, PA | Product | 2026-08-05 |
 
 ## Point72
@@ -4576,8 +4576,8 @@
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-07-09 |
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-07-09 |
 | [Corporate Access, off-cycle internship (6-months) – Japanese speaking](https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002) | 58 | Hong Kong | — | 2026-06-30 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -5331,6 +5331,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Multimedia Development Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Multimedia-development-intern_R107331) | 68 | Palo Alto, CA | AI/ML/Data | 2026-08-13 |
 | [Research Intern – Video World Models (Research & ML Systems)](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752-1) | 68 | US-California-Palo Alto | Data & ML/AI / Not stated | 2026-08-10 |
 | [Data Product Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Data-Product-Intern_R107644-1) | 58 | London, UK | Product | 2026-08-01 |
 | [Hunyuan Multimodal Algorithm Researcher Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-Intern-Omni-Modal---_R107051) | 93 | Palo Alto, CA | AI/ML/Data | 2026-07-31 |
@@ -5571,6 +5572,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Seller Growth Strategy & Analytics Intern - TikTok Shop](https://lifeattiktok.com/search/7673120794853034245) | 60 | London, UK | AI/ML/Data | 2026-08-13 |
 | [Data Science Intern - Advertisement Team](https://lifeattiktok.com/search/7673226686054107445) | 60 | San Jose, CA | AI/ML/Data | 2026-08-13 |
 | [Product Operations Intern - TikTok Shop Apps and API](https://lifeattiktok.com/search/7669705525866383621) | 50 | Seattle, WA | Product | 2026-08-13 |
 | [Machine Learning Engineer Intern - E-Commerce Recommendation Foundation](https://lifeattiktok.com/search/7672883129493948677) | 85 | San Jose, CA | AI/ML/Data | 2026-08-12 |
