@@ -1,6 +1,6 @@
 # Open Internships
 
-**1023** internships across **186/186** companies — last updated 2026-08-13.
+**1020** internships across **186/186** companies — last updated 2026-08-13.
 
 ## Companies
 
@@ -69,7 +69,6 @@
 - [Cadence Design Systems](#cadence-design-systems) (3)
 - [Calpion/Plutus Health](#calpion-plutus-health) (1)
 - [Canva](#canva) (8)
-- [Capella](#capella) (1)
 - [Capital One](#capital-one) (1)
 - [Castleton Commodities International](#castleton-commodities-international) (4)
 - [Centerfield](#centerfield) (3)
@@ -193,7 +192,6 @@
 - [kos.ai](#kos-ai) (1)
 - [Lawrence Livermore National Laboratory (LLNL)](#lawrence-livermore-national-laboratory-llnl) (1)
 - [Leidos](#leidos) (1)
-- [LinkedIn](#linkedin) (1)
 - [LPL Financial Holdings](#lpl-financial-holdings) (2)
 - [Luminance](#luminance) (1)
 - [Magna](#magna) (2)
@@ -302,7 +300,6 @@
 - [RTX](#rtx) (12)
 - [Samsara](#samsara) (2)
 - [Sandhills Global](#sandhills-global) (2)
-- [Saronic](#saronic) (1)
 - [Savannah River National Laboratory](#savannah-river-national-laboratory) (1)
 - [Schonfeld](#schonfeld) (1)
 - [Schweitzer Engineering Laboratories](#schweitzer-engineering-laboratories) (2)
@@ -910,12 +907,6 @@
 | [PhD Research Scientist Intern](https://jobs.smartrecruiters.com/Canva/6000000001291655-phd-research-scientist-intern) | 83 | San Francisco, CA | — | 2026-08-07 |
 | [PhD Research Scientist Intern](https://jobs.smartrecruiters.com/Canva/6000000001291655) | 83 | San Francisco, CA, United States | Information Technology | 2026-08-06 |
 | [PhD Research Scientist Intern](https://jobs.smartrecruiters.com/Canva/6000000001289889) | 83 | Sydney, , Australia | Information Technology | 2026-08-06 |
-
-## Capella
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Flight Software Engineering Intern](https://www.capellaspace.com/company/apply?gh_jid=5737184004) | 85 | Louisville, CO | Hardware Engineering | 2026-05-09 |
 
 ## Capital One
 
@@ -1783,12 +1774,6 @@
 | --- | --- | --- | --- | --- |
 | [Application Developer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Indianapolis-IN/Application-Developer-Intern_R-00188193-1) | 93 | Indianapolis, IN | Software / Not stated | 2026-08-07 |
 
-## LinkedIn
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Engineer- Data Science Intern, Master's](https://jobs.smartrecruiters.com/LinkedIn3/aa222455-47c8-492e-a445-5ccbcee7ae9b) | 93 | Mountain View, CA | Data Science, AI & Machine Learning | 2026-05-09 |
-
 ## LPL Financial Holdings
 
 | Title | Score | Location | Department | First seen |
@@ -2607,12 +2592,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Development Intern](https://www.sandhills.com/careers-and-internships/details/careers/sandhills/1196/software-development-intern) | 85 | Scottsdale, AZ | Software Engineering | 2026-06-24 |
 | [Software Development Intern](https://www.sandhills.com/careers-and-internships/details/careers/sandhills/1195/software-development-intern) | 85 | Lincoln, NE | Software Engineering | 2026-05-09 |
-
-## Saronic
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://jobs.ashbyhq.com/saronic/1c74957f-0895-415b-9324-08b0994747d7/application) | 93 | Austin, TX | Software | 2026-07-01 |
 
 ## Savannah River National Laboratory
 
