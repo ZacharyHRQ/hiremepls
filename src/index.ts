@@ -98,8 +98,11 @@ function buildPreviousFirstSeen(snapshot: JobsSnapshot): Record<string, string> 
 
 async function main() {
   const token = process.env.TELEGRAM_BOT_TOKEN;
-  const chatId = process.env.TELEGRAM_CHAT_ID;
-  const dryRun = process.argv.includes("--dry-run") || !token || !chatId;
+  const chatIds = (process.env.TELEGRAM_CHAT_ID ?? "")
+    .split(",")
+    .map((s) => s.trim())
+    .filter(Boolean);
+  const dryRun = process.argv.includes("--dry-run") || !token || chatIds.length === 0;
   if (dryRun && !process.argv.includes("--dry-run")) {
     console.warn("⚠ TELEGRAM_BOT_TOKEN/CHAT_ID missing — running in dry-run mode");
   }
@@ -172,10 +175,12 @@ async function main() {
     );
     console.warn(lines.join("\n"));
     if (!dryRun) {
-      try {
-        await sendText(token!, chatId!, lines.join("\n\n"));
-      } catch (e) {
-        console.warn(`  ✗ broken-source alert failed: ${(e as Error).message}`);
+      for (const chatId of chatIds) {
+        try {
+          await sendText(token!, chatId, lines.join("\n\n"));
+        } catch (e) {
+          console.warn(`  ✗ broken-source alert failed (${chatId}): ${(e as Error).message}`);
+        }
       }
     }
   }
@@ -199,11 +204,13 @@ async function main() {
         console.log(`  [dry-run] would notify: ${job.title} — ${job.url}`);
         continue;
       }
-      try {
-        await sendJob(token!, chatId!, job);
-        await new Promise((r) => setTimeout(r, 500));
-      } catch (e) {
-        console.warn(`  ✗ notify failed: ${(e as Error).message}`);
+      for (const chatId of chatIds) {
+        try {
+          await sendJob(token!, chatId, job);
+          await new Promise((r) => setTimeout(r, 500));
+        } catch (e) {
+          console.warn(`  ✗ notify failed (${chatId}): ${(e as Error).message}`);
+        }
       }
     }
   }
