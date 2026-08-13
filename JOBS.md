@@ -1,6 +1,6 @@
 # Open Internships
 
-**2045** internships across **179/179** companies — last updated 2026-08-13.
+**2056** internships across **179/179** companies — last updated 2026-08-13.
 
 ## Companies
 
@@ -22,7 +22,7 @@
 - [Altamira Technologies](#altamira-technologies) (2)
 - [Altice USA](#altice-usa) (1)
 - [Altom Transport](#altom-transport) (1)
-- [Amazon](#amazon) (174)
+- [Amazon](#amazon) (187)
 - [Ambarella](#ambarella) (5)
 - [Amber Group](#amber-group) (1)
 - [Amcor](#amcor) (1)
@@ -345,7 +345,7 @@
 - [Jain Global](#jain-global) (1)
 - [Jane Street](#jane-street) (22)
 - [John Deere](#john-deere) (1)
-- [JP Morgan Chase](#jp-morgan-chase) (8)
+- [JP Morgan Chase](#jp-morgan-chase) (7)
 - [JPMorganChase](#jpmorganchase) (7)
 - [Jump Trading](#jump-trading) (48)
 - [Junior](#junior) (1)
@@ -598,7 +598,7 @@
 - [Teall Sports & Entertainment](#teall-sports-entertainment) (1)
 - [Techtronic Industries](#techtronic-industries) (1)
 - [Teledyne](#teledyne) (1)
-- [Tencent](#tencent) (11)
+- [Tencent](#tencent) (10)
 - [Tenstorrent](#tenstorrent) (4)
 - [Terminal](#terminal) (2)
 - [Terranova](#terranova) (2)
@@ -819,6 +819,19 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Operations & Logistics Internship, Amazon Logistics](https://amazon.jobs/en/jobs/10492646/operations-logistics-internship-amazon-logistics) | 50 | Dublin | Administrative Support | 2026-08-13 |
+| [Operations & Logistics Internship, Amazon Logistics](https://amazon.jobs/en/jobs/10488185/operations-logistics-internship-amazon-logistics) | 50 | Milton Keynes | Administrative Support | 2026-08-13 |
+| [Operations & Logistics Internship, Amazon Logistics](https://amazon.jobs/en/jobs/10488992/operations-logistics-internship-amazon-logistics) | 50 | Doncaster | Administrative Support | 2026-08-13 |
+| [Operations & Logistics Internship, Amazon Logistics](https://amazon.jobs/en/jobs/10488984/operations-logistics-internship-amazon-logistics) | 50 | Dunstable | Administrative Support | 2026-08-13 |
+| [Operations & Logistics Internship, Amazon Logistics](https://amazon.jobs/en/jobs/10488168/operations-logistics-internship-amazon-logistics) | 50 | Redditch | Administrative Support | 2026-08-13 |
+| [Operations & Logistics Internship, Amazon Logistics](https://amazon.jobs/en/jobs/10488163/operations-logistics-internship-amazon-logistics) | 50 | Coalville | Administrative Support | 2026-08-13 |
+| [Operations & Logistics Internship, Amazon Logistics](https://amazon.jobs/en/jobs/10488176/operations-logistics-internship-amazon-logistics) | 50 | Swindon | Administrative Support | 2026-08-13 |
+| [Operations & Logistics Internship, Amazon Logistics](https://amazon.jobs/en/jobs/10489009/operations-logistics-internship-amazon-logistics) | 50 | Belvedere | Administrative Support | 2026-08-13 |
+| [Operations & Logistics Internship, Amazon Logistics](https://amazon.jobs/en/jobs/10487074/operations-logistics-internship-amazon-logistics) | 50 | Darlington | Administrative Support | 2026-08-13 |
+| [Operations & Logistics Internship, Amazon Logistics](https://amazon.jobs/en/jobs/10487062/operations-logistics-internship-amazon-logistics) | 50 | Manchester | Administrative Support | 2026-08-13 |
+| [Operations & Logistics Internship, Amazon Logistics](https://amazon.jobs/en/jobs/10487050/operations-logistics-internship-amazon-logistics) | 50 | Belfast | Administrative Support | 2026-08-13 |
+| [Operations & Logistics Internship, Amazon Logistics](https://amazon.jobs/en/jobs/10487040/operations-logistics-internship-amazon-logistics) | 50 | Glasgow | Administrative Support | 2026-08-13 |
+| [Operations & Logistics Internship, Amazon Logistics](https://amazon.jobs/en/jobs/10487035/operations-logistics-internship-amazon-logistics) | 50 | Swansea | Administrative Support | 2026-08-13 |
 | [Operations & Logistics Internship, Amazon Logistics](https://amazon.jobs/en/jobs/10500718/operations-logistics-internship-amazon-logistics) | 50 | Kojetin | Administrative Support | 2026-08-13 |
 | [2027 Account Manager Intern](https://amazon.jobs/en/jobs/10499683/2027-account-manager-intern) | 50 | Cape Town | Administrative Support | 2026-08-12 |
 | [2027 Financial Analyst Intern](https://amazon.jobs/en/jobs/10499685/2027-financial-analyst-intern) | 50 | Cape Town | Administrative Support | 2026-08-12 |
@@ -1976,7 +1989,7 @@
 | [AI Innovation Intern – Service Sales (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395) | 38 | In-Office | — | 2026-07-30 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-07-29 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
@@ -3361,7 +3374,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Data & AI Intern - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869) | 60 | Palo Alto, CA / Newark, DE / Plano, TX / Chicago, IL / Jersey City, NJ / Columbus, OH / NYC / Wilmington, DE | AI/ML/Data | 2026-08-12 |
 | [Data Internship - Data & AI Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775223) | 60 | Palo Alto, CA / Newark, DE / Plano, TX / Chicago, IL / Jersey City, NJ / Columbus, OH / NYC / Wilmington, DE | AI/ML/Data | 2026-08-07 |
 | [Quantitative Research Intern](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774061) | 60 | NYC | Quant | 2026-08-04 |
 | [Quantitative Research Intern - Markets - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038) | 60 | NYC | Quant | 2026-08-04 |
@@ -4564,8 +4576,8 @@
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-07-09 |
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-07-09 |
 | [Corporate Access, off-cycle internship (6-months) – Japanese speaking](https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002) | 58 | Hong Kong | — | 2026-06-30 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -4871,13 +4883,13 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Modeling, Simulation & Analysis Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Modeling--Simulation---Analysis-Intern_01866254) | 68 | Tucson, AZ | AI/ML/Data | 2026-08-13 |
 | [Software Engineering Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875) | 93 | Cedar Rapids, IA | Hardware | 2026-08-12 |
 | [Validation Engineer Intern - Product Safety - Certification & Validation](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Intern--Validation-Engineering---Product-Safety--Certification---Validation---Onsite-_01864406) | 93 | East Hartford, CT | AI/ML/Data | 2026-08-12 |
 | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Summer-2027--Software-Intern-OnSite_01865160) | 93 | Huntsville, AL | Software | 2026-08-12 |
 | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01863980-1) | 93 | Cedar Rapids, IA | Hardware | 2026-08-12 |
 | [Electro-Optical Systems Technician Intern - AN/ZSQ-2](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-KY-FORT-CAMPBELL-7228NS-CUST--7228-Nightstalker-Wy--BLDG-6882-Rm-210-External-Site/SkillBridge--AN-ZSQ-2-Electro-Optical-Systems-Depot-Technician-Intern_01865923) | 58 | Fort Campbell, KY | Hardware | 2026-08-11 |
 | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Software-Engineering-Intern--2027-_01865474) | 93 | Burnsville, MN | Software | 2026-08-11 |
-| [Software Engineering Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineering-Intern--Summer-2027-_01865025) | 93 | El Segundo, CA | Hardware | 2026-08-11 |
 | [Software Development Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01865635) | 68 | Tewksbury, MA | Software | 2026-08-11 |
 | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineer-Intern--Summer-2027-_01864811-1) | 93 | Largo, FL | Software | 2026-08-10 |
 | [Software Engineer Intern, Fleet Health Instrumentation](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012) | 93 | Fullerton, CA | — | 2026-08-10 |
@@ -5320,7 +5332,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Research Intern – Video World Models (Research & ML Systems)](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752-1) | 68 | US-California-Palo Alto | Data & ML/AI / Not stated | 2026-08-10 |
-| [Multimedia Development Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Multimedia-development-intern_R107331) | 68 | Palo Alto, CA | AI/ML/Data | 2026-08-01 |
 | [Data Product Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Data-Product-Intern_R107644-1) | 58 | London, UK | Product | 2026-08-01 |
 | [Hunyuan Multimodal Algorithm Researcher Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-Intern-Omni-Modal---_R107051) | 93 | Palo Alto, CA | AI/ML/Data | 2026-07-31 |
 | [Game Research & Development Intern - Engine Research](https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/US-California-Los-Angeles/Game-Research---Development-Intern--Engine-Research_R107344) | 68 | LA | Software | 2026-07-31 |
@@ -5730,7 +5741,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Quantitative Trader/Researcher Intern - Summer 2027](https://www.tower-research.com/open-positions/?gh_jid=8024128) | 85 | New York, Chicago | Quant / Summer 2027 | 2026-08-12 |
+| [Quantitative Trader Intern](https://www.tower-research.com/open-positions/?gh_jid=8024128) | 60 | Chicago, IL / NYC | Quant | 2026-08-13 |
 | [Quantitative Research Intern - Central Execution Research](https://www.tower-research.com/open-positions/?gh_jid=8113986) | 60 | London, UK | Quant | 2026-08-12 |
 | [Junior Execution Trader Intern](https://www.tower-research.com/open-positions/?gh_jid=8091833) | 50 | Gift City | — | 2026-07-31 |
 | [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=8044334) | 85 | Chicago, IL / NYC | Quant | 2026-07-20 |

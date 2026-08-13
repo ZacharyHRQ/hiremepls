@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-13T12:30:27.283Z",
+  "generatedAt": "2026-08-13T14:05:49.552Z",
   "companyCount": 179,
   "okCount": 179,
-  "jobCount": 2045,
+  "jobCount": 2056,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1268,7 +1268,6 @@
     "canonical:1df22a3412cdd30e": "2026-08-01T14:23:11.511Z",
     "canonical:4f85d18e62f2efe6": "2026-08-01T15:33:38.600Z",
     "canonical:51c9b4da188261da": "2026-08-01T15:33:38.600Z",
-    "canonical:6a08b8735bc24eb5": "2026-08-01T15:33:38.600Z",
     "canonical:1903ea6b0e57aeaa": "2026-08-01T15:33:38.600Z",
     "canonical:8d4bad907295dfbf": "2026-08-01T15:33:38.600Z",
     "canonical:93c1aa291cbc1779": "2026-08-01T15:33:38.600Z",
@@ -1918,7 +1917,6 @@
     "canonical:99d4d3b064aee8b6": "2026-08-11T17:37:01.648Z",
     "canonical:03dde52273791c03": "2026-08-11T17:37:01.648Z",
     "canonical:dec8b4642f59e2e6": "2026-08-11T17:37:01.648Z",
-    "canonical:535c28f331c0693c": "2026-08-11T17:37:01.648Z",
     "canonical:26f720de03bf2ec3": "2026-08-11T17:37:01.648Z",
     "canonical:d43ee9bbd472eda1": "2026-08-11T17:37:01.648Z",
     "canonical:187b1614fae8f345": "2026-08-11T17:37:01.648Z",
@@ -1969,7 +1967,6 @@
     "canonical:afde2f0e07bcc8f8": "2026-08-12T14:30:52.542Z",
     "canonical:b33fa9dd25771901": "2026-08-12T14:30:52.542Z",
     "canonical:a77edd7bc042f472": "2026-08-12T15:34:31.653Z",
-    "canonical:f9f8bc69f47c01d3": "2026-08-12T15:34:31.653Z",
     "canonical:dd330df63152542e": "2026-08-12T15:34:31.653Z",
     "canonical:5d5b3e09463a16cf": "2026-08-12T15:34:31.653Z",
     "canonical:387ab11377538581": "2026-08-12T15:34:31.653Z",
@@ -1994,7 +1991,6 @@
     "canonical:afe000cd060460db": "2026-08-12T21:10:05.758Z",
     "canonical:cee27f704d5023f1": "2026-08-12T21:10:05.758Z",
     "canonical:31820da610fbcdc0": "2026-08-12T22:42:34.077Z",
-    "canonical:57f646554e4d20f4": "2026-08-12T22:42:34.077Z",
     "canonical:e53ce630cf87c4df": "2026-08-12T22:42:34.077Z",
     "canonical:7fea43b905a0dddd": "2026-08-12T22:42:34.077Z",
     "canonical:29011807afa879d7": "2026-08-12T22:42:34.077Z",
@@ -2048,7 +2044,22 @@
     "canonical:58dd154df069b7a6": "2026-08-13T11:38:23.444Z",
     "canonical:a68a09aabc3245d9": "2026-08-13T12:30:27.283Z",
     "canonical:1869c3e8ff779ad9": "2026-08-13T12:30:27.283Z",
-    "canonical:ac81291362622ecd": "2026-08-13T12:30:27.283Z"
+    "canonical:ac81291362622ecd": "2026-08-13T12:30:27.283Z",
+    "canonical:f00f133b3594686f": "2026-08-13T14:05:49.552Z",
+    "canonical:689f5cd475a7fe40": "2026-08-13T14:05:49.552Z",
+    "canonical:9b60cca730e99049": "2026-08-13T14:05:49.552Z",
+    "canonical:57e65700b0d67b53": "2026-08-13T14:05:49.552Z",
+    "canonical:e4e893ebd37ee7ae": "2026-08-13T14:05:49.552Z",
+    "canonical:930ca26720c1b43f": "2026-08-13T14:05:49.552Z",
+    "canonical:aeb9ae5d1f856922": "2026-08-13T14:05:49.552Z",
+    "canonical:c825a0eafe9f35dd": "2026-08-13T14:05:49.552Z",
+    "canonical:a7327962e2e50d85": "2026-08-13T14:05:49.552Z",
+    "canonical:f1c66b5bad2f611d": "2026-08-13T14:05:49.552Z",
+    "canonical:497a775440ed0eb1": "2026-08-13T14:05:49.552Z",
+    "canonical:1f025ca8e70c68a6": "2026-08-13T14:05:49.552Z",
+    "canonical:4a0786ca86a5ec8d": "2026-08-13T14:05:49.552Z",
+    "canonical:a5fb10a5dbca8c9b": "2026-08-13T14:05:49.552Z",
+    "canonical:65053a243af8512b": "2026-08-13T14:05:49.552Z"
   },
   "jobs": [
     {
@@ -2660,20 +2671,20 @@
       ]
     },
     {
-      "id": "canonical:3bdc6e03d29a7ec1",
+      "id": "canonical:b64de5fd09122dce",
       "title": "Campus FPGA Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7974391",
-      "location": "London",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8003013",
+      "location": "Chicago",
       "department": "",
       "company": "Jump Trading",
       "score": 50,
       "scoreReasons": []
     },
     {
-      "id": "canonical:b64de5fd09122dce",
+      "id": "canonical:3bdc6e03d29a7ec1",
       "title": "Campus FPGA Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8003013",
-      "location": "Chicago",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7974391",
+      "location": "London",
       "department": "",
       "company": "Jump Trading",
       "score": 50,
@@ -2706,10 +2717,10 @@
       ]
     },
     {
-      "id": "canonical:51b92253e4e72e9b",
+      "id": "canonical:748b9a19eca0fd1b",
       "title": "Campus Quantitative Researcher (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027939",
-      "location": "Singapore",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8010307",
+      "location": "London; Amsterdam",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -2719,10 +2730,10 @@
       ]
     },
     {
-      "id": "canonical:748b9a19eca0fd1b",
+      "id": "canonical:51b92253e4e72e9b",
       "title": "Campus Quantitative Researcher (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8010307",
-      "location": "London; Amsterdam",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027939",
+      "location": "Singapore",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -2783,18 +2794,6 @@
       ]
     },
     {
-      "id": "canonical:ed45659c10bdc70a",
-      "title": "Campus Quantitative Trader (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027941",
-      "location": "Singapore",
-      "department": "",
-      "company": "Jump Trading",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:5d7744db1dee2002",
       "title": "Campus Quantitative Trader (Intern)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=8050772",
@@ -2807,15 +2806,14 @@
       ]
     },
     {
-      "id": "canonical:aa053f6ba830d433",
-      "title": "Campus Software Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
-      "location": "Chicago",
+      "id": "canonical:ed45659c10bdc70a",
+      "title": "Campus Quantitative Trader (Intern)",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027941",
+      "location": "Singapore",
       "department": "",
       "company": "Jump Trading",
-      "score": 85,
+      "score": 60,
       "scoreReasons": [
-        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -2833,10 +2831,23 @@
       ]
     },
     {
-      "id": "canonical:eea417b083785298",
+      "id": "canonical:aa053f6ba830d433",
+      "title": "Campus Software Engineer (Intern)",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
+      "location": "Chicago",
+      "department": "",
+      "company": "Jump Trading",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:4d567555739a50bd",
       "title": "Campus Systems Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
-      "location": "London; Amsterdam",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
+      "location": "Singapore",
       "department": "",
       "company": "Jump Trading",
       "score": 75,
@@ -2845,10 +2856,10 @@
       ]
     },
     {
-      "id": "canonical:4d567555739a50bd",
+      "id": "canonical:eea417b083785298",
       "title": "Campus Systems Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
-      "location": "Singapore",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
+      "location": "London; Amsterdam",
       "department": "",
       "company": "Jump Trading",
       "score": 75,
@@ -2882,10 +2893,10 @@
       ]
     },
     {
-      "id": "canonical:46205b9335861e9c",
+      "id": "canonical:7286f2830b7e7578",
       "title": "Campus UI Software Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7974943",
-      "location": "London",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019",
+      "location": "Chicago",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -2895,10 +2906,10 @@
       ]
     },
     {
-      "id": "canonical:7286f2830b7e7578",
+      "id": "canonical:46205b9335861e9c",
       "title": "Campus UI Software Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019",
-      "location": "Chicago",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7974943",
+      "location": "London",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -3036,10 +3047,10 @@
       ]
     },
     {
-      "id": "canonical:d40e55f9a26db473",
+      "id": "canonical:ae44a67983e1d43a",
       "title": "Quantitative Trading Analyst Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957243",
-      "location": "London, UK",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7668776",
+      "location": "Chicago, IL",
       "department": "Quant",
       "company": "DRW",
       "score": 68,
@@ -3049,10 +3060,10 @@
       ]
     },
     {
-      "id": "canonical:ae44a67983e1d43a",
+      "id": "canonical:d40e55f9a26db473",
       "title": "Quantitative Trading Analyst Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7668776",
-      "location": "Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957243",
+      "location": "London, UK",
       "department": "Quant",
       "company": "DRW",
       "score": 68,
@@ -3075,10 +3086,10 @@
       ]
     },
     {
-      "id": "canonical:1d41c103b87b651a",
+      "id": "canonical:bd72b8a6944f6777",
       "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
-      "location": "Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
+      "location": "London, UK",
       "department": "Software",
       "company": "DRW",
       "score": 93,
@@ -3117,10 +3128,10 @@
       ]
     },
     {
-      "id": "canonical:bd72b8a6944f6777",
+      "id": "canonical:1d41c103b87b651a",
       "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
-      "location": "London, UK",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
+      "location": "Chicago, IL",
       "department": "Software",
       "company": "DRW",
       "score": 93,
@@ -3457,15 +3468,14 @@
       ]
     },
     {
-      "id": "canonical:f9f8bc69f47c01d3",
-      "title": "Quantitative Trader/Researcher Intern - Summer 2027",
+      "id": "canonical:f00f133b3594686f",
+      "title": "Quantitative Trader Intern",
       "url": "https://www.tower-research.com/open-positions/?gh_jid=8024128",
-      "location": "New York, Chicago",
-      "department": "Quant / Summer 2027",
+      "location": "Chicago, IL / NYC",
+      "department": "Quant",
       "company": "Tower Research Capital",
-      "score": 85,
+      "score": 60,
       "scoreReasons": [
-        "SWE-aligned",
         "high-signal role"
       ]
     },
@@ -3540,10 +3550,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -3554,10 +3564,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -5172,6 +5182,76 @@
       ]
     },
     {
+      "id": "canonical:689f5cd475a7fe40",
+      "title": "Operations & Logistics Internship, Amazon Logistics",
+      "url": "https://amazon.jobs/en/jobs/10492646/operations-logistics-internship-amazon-logistics",
+      "location": "Dublin",
+      "department": "Administrative Support",
+      "company": "Amazon",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:9b60cca730e99049",
+      "title": "Operations & Logistics Internship, Amazon Logistics",
+      "url": "https://amazon.jobs/en/jobs/10488185/operations-logistics-internship-amazon-logistics",
+      "location": "Milton Keynes",
+      "department": "Administrative Support",
+      "company": "Amazon",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:57e65700b0d67b53",
+      "title": "Operations & Logistics Internship, Amazon Logistics",
+      "url": "https://amazon.jobs/en/jobs/10488992/operations-logistics-internship-amazon-logistics",
+      "location": "Doncaster",
+      "department": "Administrative Support",
+      "company": "Amazon",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:e4e893ebd37ee7ae",
+      "title": "Operations & Logistics Internship, Amazon Logistics",
+      "url": "https://amazon.jobs/en/jobs/10488984/operations-logistics-internship-amazon-logistics",
+      "location": "Dunstable",
+      "department": "Administrative Support",
+      "company": "Amazon",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:930ca26720c1b43f",
+      "title": "Operations & Logistics Internship, Amazon Logistics",
+      "url": "https://amazon.jobs/en/jobs/10488168/operations-logistics-internship-amazon-logistics",
+      "location": "Redditch",
+      "department": "Administrative Support",
+      "company": "Amazon",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:aeb9ae5d1f856922",
+      "title": "Operations & Logistics Internship, Amazon Logistics",
+      "url": "https://amazon.jobs/en/jobs/10488163/operations-logistics-internship-amazon-logistics",
+      "location": "Coalville",
+      "department": "Administrative Support",
+      "company": "Amazon",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:c825a0eafe9f35dd",
+      "title": "Operations & Logistics Internship, Amazon Logistics",
+      "url": "https://amazon.jobs/en/jobs/10488176/operations-logistics-internship-amazon-logistics",
+      "location": "Swindon",
+      "department": "Administrative Support",
+      "company": "Amazon",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
       "id": "canonical:a68a09aabc3245d9",
       "title": "Operations & Logistics Internship, Amazon Logistics",
       "url": "https://amazon.jobs/en/jobs/10500718/operations-logistics-internship-amazon-logistics",
@@ -5569,6 +5649,16 @@
       ]
     },
     {
+      "id": "canonical:a7327962e2e50d85",
+      "title": "Operations & Logistics Internship, Amazon Logistics",
+      "url": "https://amazon.jobs/en/jobs/10489009/operations-logistics-internship-amazon-logistics",
+      "location": "Belvedere",
+      "department": "Administrative Support",
+      "company": "Amazon",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
       "id": "canonical:8822074b703794d1",
       "title": "2026 PM Intern - Supply Chain, Operations",
       "url": "https://amazon.jobs/en/jobs/10488893/2026-pm-intern-supply-chain-operations",
@@ -5671,6 +5761,56 @@
       "scoreReasons": [
         "lower-fit title"
       ]
+    },
+    {
+      "id": "canonical:f1c66b5bad2f611d",
+      "title": "Operations & Logistics Internship, Amazon Logistics",
+      "url": "https://amazon.jobs/en/jobs/10487074/operations-logistics-internship-amazon-logistics",
+      "location": "Darlington",
+      "department": "Administrative Support",
+      "company": "Amazon",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:497a775440ed0eb1",
+      "title": "Operations & Logistics Internship, Amazon Logistics",
+      "url": "https://amazon.jobs/en/jobs/10487062/operations-logistics-internship-amazon-logistics",
+      "location": "Manchester",
+      "department": "Administrative Support",
+      "company": "Amazon",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:1f025ca8e70c68a6",
+      "title": "Operations & Logistics Internship, Amazon Logistics",
+      "url": "https://amazon.jobs/en/jobs/10487050/operations-logistics-internship-amazon-logistics",
+      "location": "Belfast",
+      "department": "Administrative Support",
+      "company": "Amazon",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:4a0786ca86a5ec8d",
+      "title": "Operations & Logistics Internship, Amazon Logistics",
+      "url": "https://amazon.jobs/en/jobs/10487040/operations-logistics-internship-amazon-logistics",
+      "location": "Glasgow",
+      "department": "Administrative Support",
+      "company": "Amazon",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:a5fb10a5dbca8c9b",
+      "title": "Operations & Logistics Internship, Amazon Logistics",
+      "url": "https://amazon.jobs/en/jobs/10487035/operations-logistics-internship-amazon-logistics",
+      "location": "Swansea",
+      "department": "Administrative Support",
+      "company": "Amazon",
+      "score": 50,
+      "scoreReasons": []
     },
     {
       "id": "canonical:fcb993f8f88553d5",
@@ -7093,6 +7233,18 @@
       ]
     },
     {
+      "id": "canonical:c4899e61c3f2d9c6",
+      "title": "Applied Research Intern Co-op",
+      "url": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
+      "location": "Toronto, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "Block",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:0942563fedd29433",
       "title": "Applied Research Intern PhD / Graduate Co-op",
       "url": "http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008",
@@ -7103,18 +7255,6 @@
       "scoreReasons": [
         "high-signal role",
         "new grad"
-      ]
-    },
-    {
-      "id": "canonical:c4899e61c3f2d9c6",
-      "title": "Applied Research Intern Co-op",
-      "url": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Block",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
       ]
     },
     {
@@ -7587,7 +7727,7 @@
     {
       "id": "canonical:1a056010d15d11c7",
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -11765,19 +11905,6 @@
       "location": "San Jose, CA",
       "department": "AI/ML/Data",
       "company": "Nio",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:6a08b8735bc24eb5",
-      "title": "Multimedia Development Intern",
-      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Multimedia-development-intern_R107331",
-      "location": "Palo Alto, CA",
-      "department": "AI/ML/Data",
-      "company": "Tencent",
       "score": 68,
       "scoreReasons": [
         "high-signal role",
@@ -19327,18 +19454,6 @@
       ]
     },
     {
-      "id": "canonical:57f646554e4d20f4",
-      "title": "Data & AI Intern - Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869",
-      "location": "Palo Alto, CA / Newark, DE / Plano, TX / Chicago, IL / Jersey City, NJ / Columbus, OH / NYC / Wilmington, DE",
-      "department": "AI/ML/Data",
-      "company": "JP Morgan Chase",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:4404a059783ecd88",
       "title": "Data Internship - Data & AI Program",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775223",
@@ -23079,20 +23194,6 @@
       ]
     },
     {
-      "id": "canonical:535c28f331c0693c",
-      "title": "Software Engineering Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineering-Intern--Summer-2027-_01865025",
-      "location": "El Segundo, CA",
-      "department": "Hardware",
-      "company": "RTX",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:26f720de03bf2ec3",
       "title": "GIS Planning Intern",
       "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4377573",
@@ -24230,6 +24331,19 @@
       "company": "Tesla",
       "score": 50,
       "scoreReasons": []
+    },
+    {
+      "id": "canonical:65053a243af8512b",
+      "title": "Modeling, Simulation & Analysis Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Modeling--Simulation---Analysis-Intern_01866254",
+      "location": "Tucson, AZ",
+      "department": "AI/ML/Data",
+      "company": "RTX",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
     },
     {
       "id": "canonical:12cd06c0eec80152",
