@@ -1,6 +1,6 @@
 # Open Internships
 
-**2027** internships across **179/179** companies — last updated 2026-08-13.
+**2025** internships across **179/179** companies — last updated 2026-08-13.
 
 ## Companies
 
@@ -108,7 +108,7 @@
 - [Bree](#bree) (1)
 - [Brio Water Technology](#brio-water-technology) (1)
 - [Brookfield](#brookfield) (2)
-- [ByteDance](#bytedance) (63)
+- [ByteDance](#bytedance) (64)
 - [Caddi Workflow Automation](#caddi-workflow-automation) (1)
 - [Cadence Design Systems](#cadence-design-systems) (7)
 - [CAE](#cae) (1)
@@ -146,7 +146,7 @@
 - [Clarity Innovations](#clarity-innovations) (1)
 - [Clerkie](#clerkie) (1)
 - [CloudFit Software](#cloudfit-software) (1)
-- [Cloudflare](#cloudflare) (14)
+- [Cloudflare](#cloudflare) (12)
 - [Cloudforce](#cloudforce) (1)
 - [Clyde Companies](#clyde-companies) (2)
 - [CME Group](#cme-group) (1)
@@ -205,7 +205,7 @@
 - [Engineers Gate](#engineers-gate) (1)
 - [Ensemble Health Partners](#ensemble-health-partners) (2)
 - [Enterprise](#enterprise) (1)
-- [Epic Games](#epic-games) (3)
+- [Epic Games](#epic-games) (4)
 - [EPRI](#epri) (1)
 - [Equifax](#equifax) (2)
 - [EquipmentShare](#equipmentshare) (1)
@@ -377,7 +377,7 @@
 - [Marathon Petroleum Corporation](#marathon-petroleum-corporation) (1)
 - [Maricopa Association of Governments (MAG)](#maricopa-association-of-governments-mag) (1)
 - [Markem-Imaje](#markem-imaje) (1)
-- [Marmon Holdings](#marmon-holdings) (6)
+- [Marmon Holdings](#marmon-holdings) (5)
 - [Marshall Wace](#marshall-wace) (2)
 - [Marvell](#marvell) (4)
 - [Mathtech](#mathtech) (1)
@@ -489,7 +489,7 @@
 - [Pika](#pika) (2)
 - [Pine Rest](#pine-rest) (1)
 - [Pinterest](#pinterest) (2)
-- [PlusAI](#plusai) (6)
+- [PlusAI](#plusai) (4)
 - [PNC Financial Services](#pnc-financial-services) (2)
 - [Point72](#point72) (18)
 - [pony.ai](#pony-ai) (2)
@@ -505,7 +505,7 @@
 - [PsiQuantum](#psiquantum) (1)
 - [PSP Investments](#psp-investments) (1)
 - [Pylon](#pylon) (1)
-- [QCP](#qcp) (4)
+- [QCP](#qcp) (5)
 - [Quadric](#quadric) (2)
 - [Quadrillion](#quadrillion) (3)
 - [Qualcomm](#qualcomm) (1)
@@ -522,7 +522,6 @@
 - [RESPEC](#respec) (1)
 - [ResponsiveAds](#responsiveads) (1)
 - [Revise Robotics](#revise-robotics) (1)
-- [Revvity](#revvity) (1)
 - [RFCUNY](#rfcuny) (1)
 - [Rho](#rho) (1)
 - [Rippling](#rippling) (6)
@@ -542,7 +541,7 @@
 - [Savannah River National Laboratory](#savannah-river-national-laboratory) (1)
 - [Scale AI](#scale-ai) (3)
 - [Schonfeld](#schonfeld) (4)
-- [Schweitzer Engineering Laboratories](#schweitzer-engineering-laboratories) (2)
+- [Schweitzer Engineering Laboratories](#schweitzer-engineering-laboratories) (3)
 - [SCOR](#scor) (1)
 - [Sentry](#sentry) (2)
 - [Serval](#serval) (1)
@@ -591,7 +590,6 @@
 - [Tacit](#tacit) (1)
 - [tarte cosmetics](#tarte-cosmetics) (1)
 - [Teall Sports & Entertainment](#teall-sports-entertainment) (1)
-- [Technergetics](#technergetics) (1)
 - [Techtronic Industries](#techtronic-industries) (1)
 - [Teledyne](#teledyne) (1)
 - [Tencent](#tencent) (11)
@@ -616,7 +614,7 @@
 - [Thomson Reuters](#thomson-reuters) (1)
 - [thyssenkrupp](#thyssenkrupp) (2)
 - [TIFIN](#tifin) (1)
-- [TikTok](#tiktok) (117)
+- [TikTok](#tiktok) (118)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
 - [TMEIC Corporation Americas](#tmeic-corporation-americas) (3)
@@ -1599,6 +1597,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Self-Built Engineer Intern - CDN Platform](https://jobs.bytedance.com/en/position/7670364362450733317/detail) | 85 | San Jose, CA | AI/ML/Data | 2026-08-13 |
 | [Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7672391300141877557/detail) | 85 | Seattle, WA | AI/ML/Data | 2026-08-11 |
 | [Data Lake Infrastructure & Data Analytics Research Engineer Intern - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7672394389001816325/detail) | 85 | Seattle, WA | AI/ML/Data | 2026-08-11 |
 | [Machine Learning Engineer Intern - AML-Engine-Orchestration](https://jobs.bytedance.com/en/position/7672382828525832501/detail) | 85 | Seattle, WA | AI/ML/Data | 2026-08-11 |
@@ -1958,8 +1957,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | 93 | In-Office | — | 2026-08-11 |
-| [U.S. Public Policy and AI Innovation Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8105728?gh_jid=8105728) | 58 | In-Office | — | 2026-08-04 |
-| [Brand Social Media Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8054093?gh_jid=8054093) | 58 | In-Office | — | 2026-08-03 |
 | [Accounting Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7902104?gh_jid=7902104) | 38 | In-Office | — | 2026-08-03 |
 | [AI Builder Intern - Global Customer Engineering - Service Sales](https://boards.greenhouse.io/cloudflare/jobs/8044395) | 48 | London, UK | Software | 2026-07-30 |
 | [AI Innovation Intern – Service Sales (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395) | 38 | In-Office | — | 2026-07-30 |
@@ -1970,7 +1967,7 @@
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
 
 ## Cloudforce
 
@@ -2388,6 +2385,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Gameplay Programmer Intern](https://epicgames.com/careers/jobs/6141180004?gh_jid=6141180004) | 85 | Cary, NC | Software | 2026-08-13 |
 | [Machine Learning Intern](https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004) | 60 | Canada / United Kingdom / United States | AI/ML/Data | 2026-08-07 |
 | [Machine Learning Intern - Special Projects - Epic Research Group](https://epicgames.com/careers/jobs/5708589004?gh_jid=5708589004) | 60 | London, UK | AI/ML/Data | 2026-08-07 |
 | [Machine Learning Intern - Special Projects - Epic Research Group](https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004) | 60 | Montreal, QC, Canada | AI/ML/Data | 2026-08-07 |
@@ -3622,7 +3620,6 @@
 | [AI Project Management Intern](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Chicago-IL/AI-Project-Management-Intern_JR0000045089-1) | 68 | Chicago, IL | Data & ML/AI / Not stated | 2026-08-12 |
 | [Digital Production Engineer Intern Co-op](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Milwaukee-WI/Digital-Production-Engineering-Intern-OR-Student-Co-Op_JR0000037451-2) | 93 | Milwaukee, WI | Software | 2026-08-01 |
 | [Digital Production Engineering Intern OR Student Co-Op](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Digital-Production-Engineering-Intern-OR-Student-Co-Op_JR0000037451) | 93 | Milwaukee, WI | Software | 2026-08-01 |
-| [New Product Development Intern](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Charlotte-NC/New-Product-Development-Intern---Summer-2026_JR0000037718-5) | 58 | Charlotte, NC | Product | 2026-08-01 |
 | [Data Engineering Intern/Co-op](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453) | 93 | Milwaukee, WI | AI/ML/Data | 2026-07-20 |
 | [Product Management/Marketing Intern - Summer 2026](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Charlotte-NC/Product-Management-Marketing-Intern---Summer-2026_JR0000037719-4) | 38 | Charlotte, NC | Product | 2026-05-17 |
 
@@ -4503,10 +4500,8 @@
 | --- | --- | --- | --- | --- |
 | [Deep Learning Research Intern - Multimodal BEV Perception](https://jobs.lever.co/plus-2/2ee24f85-bfa1-47fc-bfe3-fd07521a7b62/apply) | 68 | Santa Clara, CA | AI/ML/Data | 2026-08-07 |
 | [Computer Vision Engineer Intern](https://jobs.lever.co/plus-2/c143df6e-66c2-4498-b19b-8323f9954ca9/apply) | 93 | Santa Clara, CA | AI/ML/Data | 2026-05-27 |
-| [Machine Learning Engineer Intern - Planning](https://jobs.lever.co/plus-2/91a07eb1-2244-48bf-a65b-dc166a327ddc/apply) | 93 | Santa Clara, CA | AI/ML/Data | 2026-05-24 |
 | [Scenario Simulation Intern](https://jobs.lever.co/plus-2/b4f750e7-0148-41f0-b2b1-ff054450a320/apply) | 68 | Santa Clara, CA | AI/ML/Data | 2026-05-23 |
 | [Research Engineer Intern - Control](https://jobs.lever.co/plus-2/ac7f8f73-88d0-48d5-8d4f-71ed4cfa6ecc/apply) | 93 | Santa Clara, CA | AI/ML/Data | 2026-05-23 |
-| [Machine Learning Engineer Intern](https://jobs.lever.co/plus-2/b69c9b6d-483f-41d4-b487-97c99332ca40/apply) | 93 | Santa Clara, CA | AI/ML/Data | 2026-05-19 |
 
 ## PNC Financial Services
 
@@ -4622,6 +4617,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Intern, Sales (Jan - Jun 2027)](https://apply.workable.com/qcp-group/j/982BD19023/) | 38 | Singapore, Singapore, Singapore | Sales & Business Development | 2026-08-13 |
 | [Intern, Risk (Jan - Jun 2027)](https://apply.workable.com/qcp-group/j/6B1690698E/) | 58 | Singapore, Singapore, Singapore | Market Risk | 2026-08-12 |
 | [Intern, Quantitative Developer (Jan - Jun 2027)](https://apply.workable.com/qcp-group/j/22CE3A4EDE/) | 93 | Singapore, Singapore, Singapore | Research & Development | 2026-08-12 |
 | [Intern, AML Compliance - Project Management (Jan - Jun 2027)](https://apply.workable.com/qcp-group/j/D2512DB61F/) | 58 | Singapore, Singapore, Singapore | Compliance | 2026-08-12 |
@@ -4732,12 +4728,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Engineer Intern](https://jobs.ashbyhq.com/reviserobotics/7b0426d4-cf8c-4fdf-98a8-5a0360706633/application?embed=true) | 58 | NYC | Hardware | 2026-08-01 |
-
-## Revvity
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Full-Stack AI Developer Intern](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-Stack-AI-Developer-Intern_JR-044905) | 93 | Remote in Canada | Software | 2026-08-01 |
 
 ## RFCUNY
 
@@ -4902,6 +4892,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern - AI Focus](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineering-Intern--AI-Focus-_2026-22601) | 93 | Pullman, WA | Software | 2026-08-13 |
 | [Data Analyst Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Pullman---One/Data-Analyst-Intern_2026-21105) | 68 | Moscow, ID | AI/ML/Data | 2026-08-11 |
 | [Application Engineering Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/California---San-Ramon/Application-Engineering-Intern_2026-22385) | 93 | San Ramon, CA | Software | 2026-08-07 |
 
@@ -5259,12 +5250,6 @@
 | --- | --- | --- | --- | --- |
 | [REVELxp - Hospitality Intern, Premium Field Suites, University of Cincinnati](https://www.linkedin.com/jobs/view/4259418194) | 42 | Cincinnati, OH | — | 2026-07-09 |
 
-## Technergetics
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [R&D Engineer Intern](https://job-boards.greenhouse.io/technergetics/jobs/4681908006) | 58 | Remote in USA | Hardware | 2026-05-26 |
-
 ## Techtronic Industries
 
 | Title | Score | Location | Department | First seen |
@@ -5520,6 +5505,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Product Operations Intern - TikTok Shop Apps and API](https://lifeattiktok.com/search/7669705525866383621) | 50 | Seattle, WA | Product | 2026-08-13 |
 | [Machine Learning Engineer Intern - E-Commerce Recommendation Foundation](https://lifeattiktok.com/search/7672883129493948677) | 85 | San Jose, CA | AI/ML/Data | 2026-08-12 |
 | [Machine Learning Engineer Intern - E-Commerce Recommendation Foundation](https://lifeattiktok.com/search/7672881840860940597) | 85 | Seattle, WA | AI/ML/Data | 2026-08-12 |
 | [Machine Learning Engineer Intern - E-Commerce Recommendation Mall](https://lifeattiktok.com/search/7672920375646488885) | 85 | Seattle, WA | AI/ML/Data | 2026-08-12 |
