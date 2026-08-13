@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-13T05:57:03.471Z",
+  "generatedAt": "2026-08-13T07:18:17.639Z",
   "companyCount": 179,
   "okCount": 179,
-  "jobCount": 2020,
+  "jobCount": 2041,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1521,7 +1521,6 @@
     "canonical:4247bea2cf4aab99": "2026-08-04T00:03:15.414Z",
     "canonical:6911f37ee88aa6e6": "2026-08-04T00:03:15.414Z",
     "canonical:ff8825c8332d6109": "2026-08-04T00:03:15.414Z",
-    "canonical:3355d49024865c6d": "2026-08-04T00:03:15.414Z",
     "canonical:16bb89b98f0ba2fa": "2026-08-04T00:03:15.414Z",
     "canonical:e49deea9b22330f5": "2026-08-04T00:03:15.414Z",
     "canonical:d0c9a01681e4d364": "2026-08-04T00:03:15.414Z",
@@ -2023,7 +2022,29 @@
     "canonical:12340fe797f32227": "2026-08-13T02:43:38.281Z",
     "canonical:3f67758be9160946": "2026-08-13T02:43:38.281Z",
     "canonical:8ae106b08e40c5b5": "2026-08-13T02:43:38.281Z",
-    "canonical:8e710bc5e4b99b30": "2026-08-13T05:57:03.471Z"
+    "canonical:8e710bc5e4b99b30": "2026-08-13T05:57:03.471Z",
+    "canonical:856c811948ca2478": "2026-08-13T07:18:17.639Z",
+    "canonical:a9e958b1247a0838": "2026-08-13T07:18:17.639Z",
+    "canonical:3641d13c0a0beaf1": "2026-08-13T07:18:17.639Z",
+    "canonical:9a5c9f0aebd01b12": "2026-08-13T07:18:17.639Z",
+    "canonical:f9c79e59b1bca503": "2026-08-13T07:18:17.639Z",
+    "canonical:be753d6b95ae5391": "2026-08-13T07:18:17.639Z",
+    "canonical:78e55676cf592661": "2026-08-13T07:18:17.639Z",
+    "canonical:17c0866e03bf1ffc": "2026-08-13T07:18:17.639Z",
+    "canonical:1a4a6a4662dec0eb": "2026-08-13T07:18:17.639Z",
+    "canonical:e21227f58c40593a": "2026-08-13T07:18:17.639Z",
+    "canonical:9f5f1fecef816bf3": "2026-08-13T07:18:17.639Z",
+    "canonical:7bc915201e402578": "2026-08-13T07:18:17.639Z",
+    "canonical:3684eefe41406c20": "2026-08-13T07:18:17.639Z",
+    "canonical:832265513e218ea6": "2026-08-13T07:18:17.639Z",
+    "canonical:fcd36a8a86234395": "2026-08-13T07:18:17.639Z",
+    "canonical:6014bdd6a682091e": "2026-08-13T07:18:17.639Z",
+    "canonical:bc0820f17a5deb53": "2026-08-13T07:18:17.639Z",
+    "canonical:4e8245e5492c2021": "2026-08-13T07:18:17.639Z",
+    "canonical:86d0c4fa592f5381": "2026-08-13T07:18:17.639Z",
+    "canonical:7cb2049dccc53e73": "2026-08-13T07:18:17.639Z",
+    "canonical:67f2441e2feedc71": "2026-08-13T07:18:17.639Z",
+    "canonical:cfde0581298e6d01": "2026-08-13T07:18:17.639Z"
   },
   "jobs": [
     {
@@ -7715,6 +7736,21 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:856c811948ca2478",
+      "title": "Software Engineer, Intern",
+      "url": "https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16",
+      "location": "",
+      "department": "Engineering",
+      "company": "Exa",
+      "score": 90,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS",
+        "unknown location"
       ]
     },
     {
@@ -19717,19 +19753,6 @@
       "scoreReasons": []
     },
     {
-      "id": "canonical:3355d49024865c6d",
-      "title": "Engineering Intern",
-      "url": "https://ats.rippling.com/studyfetch/jobs/4ab846a3-a963-46c3-a60d-03fa832fa7d5",
-      "location": "Beverly Hills, CA",
-      "department": "Software",
-      "company": "StudyFetch",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:16bb89b98f0ba2fa",
       "title": "Autonomy Software Engineer Intern - World Modeling",
       "url": "https://jobs.ashbyhq.com/persona.ai/fd514a3f-4138-48d5-9862-05ff74a4ca08/application?embed=true",
@@ -23912,6 +23935,280 @@
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:a9e958b1247a0838",
+      "title": "Junior Front End Developer Intern",
+      "url": "https://jobs.smartrecruiters.com/InbulksCorp/743999750129753",
+      "location": "Long Island City, Queens, NY",
+      "department": "Software",
+      "company": "Inbulks",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:3641d13c0a0beaf1",
+      "title": "Quantitative Researcher Intern",
+      "url": "https://jobs.smartrecruiters.com/VWHCapitalManagementLP/744000135105801",
+      "location": "Dallas, TX",
+      "department": "Quant",
+      "company": "VWH Capital Management",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:9a5c9f0aebd01b12",
+      "title": "PHP or Drupal Web Developer Intern",
+      "url": "https://jobs.smartrecruiters.com/Mapjectscom/79253426",
+      "location": "Washington, DC",
+      "department": "Software",
+      "company": "Mapjects",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f9c79e59b1bca503",
+      "title": "Oracle Database Administrator Intern",
+      "url": "https://jobs.smartrecruiters.com/Mapjectscom/79183345",
+      "location": "New Orleans, LA",
+      "department": "Software",
+      "company": "Mapjects",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:be753d6b95ae5391",
+      "title": "Java Developer Intern - Salary",
+      "url": "https://jobs.smartrecruiters.com/Mapjectscom/79183538",
+      "location": "College Park, MD",
+      "department": "Software",
+      "company": "Mapjects",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:78e55676cf592661",
+      "title": "PHP Developer Intern",
+      "url": "https://jobs.smartrecruiters.com/Mapjectscom/78665247",
+      "location": "Washington, DC",
+      "department": "Software",
+      "company": "Mapjects",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:17c0866e03bf1ffc",
+      "title": "Java Developer Intern - Web Application Developer",
+      "url": "https://jobs.smartrecruiters.com/Mapjectscom/78913939",
+      "location": "Washington, DC",
+      "department": "Software",
+      "company": "Mapjects",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1a4a6a4662dec0eb",
+      "title": "C# ASP.NET C Intern",
+      "url": "https://jobs.smartrecruiters.com/Mapjectscom/79400823",
+      "location": "Arlington County, Arlington, VA",
+      "department": "Software",
+      "company": "Mapjects",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:e21227f58c40593a",
+      "title": "Java Developer Intern",
+      "url": "https://jobs.smartrecruiters.com/Mapjectscom/79770294",
+      "location": "Washington, DC",
+      "department": "Software",
+      "company": "Mapjects",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:9f5f1fecef816bf3",
+      "title": "Data Analyst Intern",
+      "url": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Data-Analyst-Internship--2028-Graduates-_113297",
+      "location": "Irving, TX",
+      "department": "AI/ML/Data",
+      "company": "Gartner",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:7bc915201e402578",
+      "title": "Quantitative Analytics Development Program Intern",
+      "url": "https://jobs.smartrecruiters.com/RRSGroup/744000141124349",
+      "location": "SF",
+      "department": "Quant",
+      "company": "RRS Group",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:3684eefe41406c20",
+      "title": "Investment Analyst Intern",
+      "url": "https://jobs.smartrecruiters.com/RRSGroup/744000133857769",
+      "location": "SF",
+      "department": "Quant",
+      "company": "RRS Group",
+      "score": 68,
+      "scoreReasons": [
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:832265513e218ea6",
+      "title": "Software Engineer Intern - Placement Year",
+      "url": "https://jobs.smartrecruiters.com/RRSGroup/744000142513209",
+      "location": "SF",
+      "department": "Software",
+      "company": "RRS Group",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:fcd36a8a86234395",
+      "title": "Product Management Intern",
+      "url": "https://tnuck.bamboohr.com/careers/273/",
+      "location": "Washington, DC",
+      "department": "Product",
+      "company": "Tuckernuck",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:6014bdd6a682091e",
+      "title": "Data Engineering & Analytics Intern",
+      "url": "https://jobs.smartrecruiters.com/RRSGroup/744000130586249",
+      "location": "SF",
+      "department": "AI/ML/Data",
+      "company": "RRS Group",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:bc0820f17a5deb53",
+      "title": "Research Intern",
+      "url": "https://bga.bamboohr.com/careers/152/",
+      "location": "Washington, DC",
+      "department": "AI/ML/Data",
+      "company": "BowerGroupAsia",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:4e8245e5492c2021",
+      "title": "Business Data Analyst Intern",
+      "url": "https://pictonmahoney.bamboohr.com/careers/356/",
+      "location": "Toronto, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "Picton Mahoney Asset Management",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:86d0c4fa592f5381",
+      "title": "Quantitative Research & Risk Intern",
+      "url": "https://pictonmahoney.bamboohr.com/careers/350/",
+      "location": "Toronto, ON, Canada",
+      "department": "Quant",
+      "company": "Picton Mahoney Asset Management",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:7cb2049dccc53e73",
+      "title": "AI Engineering Intern - Python & Agentic AI",
+      "url": "https://calpionplutus.bamboohr.com/careers/310/",
+      "location": "Dallas, TX",
+      "department": "Software",
+      "company": "Calpion/Plutus Health",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:67f2441e2feedc71",
+      "title": "Quantitative Analytics Intern - Multiple Teams",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--PhD----Early-Careers_R-568279",
+      "location": "Charlotte, NC",
+      "department": "AI/ML/Data",
+      "company": "Wells Fargo",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:cfde0581298e6d01",
+      "title": "Quantitative Analytics Intern - Capital Markets - Masters",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--Masters----Early-Careers_R-568270",
+      "location": "Charlotte, NC",
+      "department": "Quant",
+      "company": "Wells Fargo",
+      "score": 60,
+      "scoreReasons": [
         "high-signal role"
       ]
     },

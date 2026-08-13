@@ -1,6 +1,6 @@
 # Open Internships
 
-**2020** internships across **179/179** companies — last updated 2026-08-13.
+**2041** internships across **179/179** companies — last updated 2026-08-13.
 
 ## Companies
 
@@ -105,6 +105,7 @@
 - [Bosch Home Comfort](#bosch-home-comfort) (4)
 - [Boston Consulting Group](#boston-consulting-group) (2)
 - [Bot Auto](#bot-auto) (1)
+- [BowerGroupAsia](#bowergroupasia) (1)
 - [Bree](#bree) (1)
 - [Brio Water Technology](#brio-water-technology) (1)
 - [Brookfield](#brookfield) (2)
@@ -112,6 +113,7 @@
 - [Caddi Workflow Automation](#caddi-workflow-automation) (1)
 - [Cadence Design Systems](#cadence-design-systems) (7)
 - [CAE](#cae) (1)
+- [Calpion/Plutus Health](#calpion-plutus-health) (1)
 - [CALSTART](#calstart) (3)
 - [Cambium Learning Group](#cambium-learning-group) (1)
 - [Canadian Solar](#canadian-solar) (1)
@@ -221,6 +223,7 @@
 - [EV Realty](#ev-realty) (1)
 - [Everstream Analytics](#everstream-analytics) (1)
 - [Evolver](#evolver) (1)
+- [Exa](#exa) (1)
 - [Excel Sports Management](#excel-sports-management) (2)
 - [Expedia Group](#expedia-group) (1)
 - [ExxonMobil](#exxonmobil) (1)
@@ -254,6 +257,7 @@
 - [Fundwell](#fundwell) (1)
 - [Fussball Club Cincinnati LLC (“FC Cincinnati”)](#fussball-club-cincinnati-llc-fc-cincinnati) (1)
 - [G-Research](#g-research) (4)
+- [Gartner](#gartner) (1)
 - [GCI](#gci) (1)
 - [GE Vernova](#ge-vernova) (3)
 - [Geisinger](#geisinger) (1)
@@ -320,6 +324,7 @@
 - [iHeartMedia](#iheartmedia) (1)
 - [IMC](#imc) (4)
 - [IMC Trading](#imc-trading) (29)
+- [Inbulks](#inbulks) (1)
 - [Incident IQ](#incident-iq) (1)
 - [InfiniteQuant](#infinitequant) (1)
 - [Infojini](#infojini) (1)
@@ -373,6 +378,7 @@
 - [Maher Duessel](#maher-duessel) (1)
 - [MaloneBailey, LLP](#malonebailey-llp) (1)
 - [Man Group](#man-group) (1)
+- [Mapjects](#mapjects) (7)
 - [Marathon Petroleum Corporation](#marathon-petroleum-corporation) (1)
 - [Maricopa Association of Governments (MAG)](#maricopa-association-of-governments-mag) (1)
 - [Markem-Imaje](#markem-imaje) (1)
@@ -485,6 +491,7 @@
 - [Persona AI](#persona-ai) (3)
 - [Phonely](#phonely) (2)
 - [Phonic](#phonic) (1)
+- [Picton Mahoney Asset Management](#picton-mahoney-asset-management) (2)
 - [Pika](#pika) (2)
 - [Pine Rest](#pine-rest) (1)
 - [Pinterest](#pinterest) (2)
@@ -531,6 +538,7 @@
 - [Robinhood](#robinhood) (2)
 - [Roblox](#roblox) (1)
 - [Royal Bank of Canada](#royal-bank-of-canada) (4)
+- [RRS Group](#rrs-group) (4)
 - [RTX](#rtx) (15)
 - [Samaya](#samaya) (1)
 - [Samsara](#samsara) (2)
@@ -577,7 +585,7 @@
 - [Stevens Capital Management](#stevens-capital-management) (1)
 - [Stoke Space](#stoke-space) (1)
 - [Stripe](#stripe) (3)
-- [StudyFetch](#studyfetch) (2)
+- [StudyFetch](#studyfetch) (1)
 - [Super](#super) (2)
 - [Susquehanna](#susquehanna) (1)
 - [Susquehanna International Group (SIG)](#susquehanna-international-group-sig) (20)
@@ -629,6 +637,7 @@
 - [Trend Micro](#trend-micro) (1)
 - [Trillium](#trillium) (4)
 - [Truist Bank](#truist-bank) (2)
+- [Tuckernuck](#tuckernuck) (1)
 - [Turabify](#turabify) (1)
 - [Two Sigma](#two-sigma) (2)
 - [Uber](#uber) (1)
@@ -660,13 +669,14 @@
 - [Voloridge](#voloridge) (2)
 - [Voloridge Investment Management](#voloridge-investment-management) (1)
 - [Voltus](#voltus) (1)
+- [VWH Capital Management](#vwh-capital-management) (1)
 - [Waabi](#waabi) (2)
 - [Walleye Capital](#walleye-capital) (3)
 - [WallStreetQuants](#wallstreetquants) (4)
 - [Walmart](#walmart) (1)
 - [Warner Bros.](#warner-bros) (3)
 - [Waymo](#waymo) (1)
-- [Wells Fargo](#wells-fargo) (11)
+- [Wells Fargo](#wells-fargo) (13)
 - [Western Digital](#western-digital) (4)
 - [WindBorne Systems](#windborne-systems) (1)
 - [Winland Foods](#winland-foods) (1)
@@ -1572,6 +1582,12 @@
 | --- | --- | --- | --- | --- |
 | [Deep Learning Engineer Intern](https://job-boards.greenhouse.io/botauto/jobs/5289440008) | 93 | Houston, TX | AI/ML/Data | 2026-07-02 |
 
+## BowerGroupAsia
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Research Intern](https://bga.bamboohr.com/careers/152/) | 60 | Washington, DC | AI/ML/Data | 2026-08-13 |
+
 ## Bree
 
 | Title | Score | Location | Department | First seen |
@@ -1683,6 +1699,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Data Specialist Intern](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-IT-105--Data-Specialist-intern_122741) | 68 | Montreal, QC, Canada | AI/ML/Data | 2026-08-01 |
+
+## Calpion/Plutus Health
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI Engineering Intern - Python & Agentic AI](https://calpionplutus.bamboohr.com/careers/310/) | 85 | Dallas, TX | Software | 2026-08-13 |
 
 ## CALSTART
 
@@ -2490,6 +2512,12 @@
 | --- | --- | --- | --- | --- |
 | [Applied Data Science Intern](https://job-boards.greenhouse.io/evolver/jobs/4254540009) | 68 | Palo Alto, CA | AI/ML/Data | 2026-07-02 |
 
+## Exa
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer, Intern](https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16) | 90 | — | Engineering | 2026-08-13 |
+
 ## Excel Sports Management
 
 | Title | Score | Location | Department | First seen |
@@ -2711,6 +2739,12 @@
 | [Machine Learning Research Intern](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Research-Internship_R3682) | 68 | London, UK | AI/ML/Data | 2026-08-01 |
 | [Natural Language Processing Intern](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Natural-Language-Processing-Internship_R3686) | 68 | London, UK | AI/ML/Data | 2026-08-01 |
 | [Quantitative Research Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quant-Research-Internship_R3691) | 68 | London, UK | Quant | 2026-08-01 |
+
+## Gartner
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data Analyst Intern](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Data-Analyst-Internship--2028-Graduates-_113297) | 68 | Irving, TX | AI/ML/Data | 2026-08-13 |
 
 ## GCI
 
@@ -3163,6 +3197,12 @@
 | [Graduate Software Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4917773101) | 99 | Aarhus, Central Denmark Region, Denmark | — | 2026-05-06 |
 | [Graduate Software Engineer (2026)](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | 99 | Amsterdam, Netherlands | — | 2026-05-06 |
 
+## Inbulks
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Junior Front End Developer Intern](https://jobs.smartrecruiters.com/InbulksCorp/743999750129753) | 93 | Long Island City, Queens, NY | Software | 2026-08-13 |
+
 ## Incident IQ
 
 | Title | Score | Location | Department | First seen |
@@ -3587,6 +3627,18 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [AHL IDI Graduate Analyst](https://job-boards.eu.greenhouse.io/mangroup/jobs/4672725101) | 64 | London | — | 2026-07-29 |
+
+## Mapjects
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Java Developer Intern](https://jobs.smartrecruiters.com/Mapjectscom/79770294) | 93 | Washington, DC | Software | 2026-08-13 |
+| [Java Developer Intern - Salary](https://jobs.smartrecruiters.com/Mapjectscom/79183538) | 93 | College Park, MD | Software | 2026-08-13 |
+| [Java Developer Intern - Web Application Developer](https://jobs.smartrecruiters.com/Mapjectscom/78913939) | 93 | Washington, DC | Software | 2026-08-13 |
+| [PHP Developer Intern](https://jobs.smartrecruiters.com/Mapjectscom/78665247) | 93 | Washington, DC | Software | 2026-08-13 |
+| [PHP or Drupal Web Developer Intern](https://jobs.smartrecruiters.com/Mapjectscom/79253426) | 93 | Washington, DC | Software | 2026-08-13 |
+| [C# ASP.NET C Intern](https://jobs.smartrecruiters.com/Mapjectscom/79400823) | 68 | Arlington County, Arlington, VA | Software | 2026-08-13 |
+| [Oracle Database Administrator Intern](https://jobs.smartrecruiters.com/Mapjectscom/79183345) | 68 | New Orleans, LA | Software | 2026-08-13 |
 
 ## Marathon Petroleum Corporation
 
@@ -4466,6 +4518,13 @@
 | --- | --- | --- | --- | --- |
 | [Machine Learning Research Intern](https://jobs.ashbyhq.com/phonic/a6c8c3d2-250a-4c2f-8a20-e4667ca38e41/application?embed=true) | 68 | SF | AI/ML/Data | 2026-08-01 |
 
+## Picton Mahoney Asset Management
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Business Data Analyst Intern](https://pictonmahoney.bamboohr.com/careers/356/) | 60 | Toronto, ON, Canada | AI/ML/Data | 2026-08-13 |
+| [Quantitative Research & Risk Intern](https://pictonmahoney.bamboohr.com/careers/350/) | 60 | Toronto, ON, Canada | Quant | 2026-08-13 |
+
 ## Pika
 
 | Title | Score | Location | Department | First seen |
@@ -4801,6 +4860,15 @@
 | [Global Markets Quantitative Trading Summer Analyst - Capital Markets](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Global-Markets-Quantitative-Trading-Summer-Analyst_R-0000183468) | 68 | NYC | Quant | 2026-08-07 |
 | [Global Markets Sales & Trading Summer Analyst - Capital Markets](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Global-Markets-Sales---Trading-Summer-Analyst_R-0000147305-2) | 48 | NYC | Quant | 2026-08-07 |
 | [Relationship Manager Commercial Markets Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/GRAND-FALLS-New-Brunswick-Canada/Relationship-Manager-Commercial-Markets-Intern_R-0000178547) | 68 | Madawaska County, NB, Canada | Quant | 2026-07-22 |
+
+## RRS Group
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data Engineering & Analytics Intern](https://jobs.smartrecruiters.com/RRSGroup/744000130586249) | 93 | SF | AI/ML/Data | 2026-08-13 |
+| [Software Engineer Intern - Placement Year](https://jobs.smartrecruiters.com/RRSGroup/744000142513209) | 93 | SF | Software | 2026-08-13 |
+| [Investment Analyst Intern](https://jobs.smartrecruiters.com/RRSGroup/744000133857769) | 68 | SF | Quant | 2026-08-13 |
+| [Quantitative Analytics Development Program Intern](https://jobs.smartrecruiters.com/RRSGroup/744000141124349) | 68 | SF | Quant | 2026-08-13 |
 
 ## RTX
 
@@ -5143,7 +5211,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Engineering Intern](https://ats.rippling.com/studyfetch/jobs/4ab846a3-a963-46c3-a60d-03fa832fa7d5) | 85 | Beverly Hills, CA | Software | 2026-08-04 |
 | [Product Intern](https://ats.rippling.com/studyfetch/jobs/45f16361-69b0-4e74-8cc3-d2574336c76f) | 50 | Beverly Hills, CA | Product | 2026-08-04 |
 
 ## Super
@@ -5720,6 +5787,12 @@
 | [Analyst Intern - Equity Research - Sales, Trading & Research](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/XMLNAME-2027-Truist-Securities---Equity-Research--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117762-1) | 48 | NYC / Atlanta, GA | Quant | 2026-08-12 |
 | [Technology and Operations Intern Conversion - Data](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/XMLNAME-2027-Technology--Data--and-Operations-Internship---Intern-Conversion-_R0117276) | 68 | Charlotte, NC / Atlanta, GA | Software | 2026-08-10 |
 
+## Tuckernuck
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Product Management Intern](https://tnuck.bamboohr.com/careers/273/) | 50 | Washington, DC | Product | 2026-08-13 |
+
 ## Turabify
 
 | Title | Score | Location | Department | First seen |
@@ -5933,6 +6006,12 @@
 | --- | --- | --- | --- | --- |
 | [Energy Markets Intern](https://jobs.lever.co/voltus/b7833dd8-d742-44d8-aae2-2e7de7541ce4/apply) | 68 | Remote in USA / Remote in Canada | Quant | 2026-07-29 |
 
+## VWH Capital Management
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Quantitative Researcher Intern](https://jobs.smartrecruiters.com/VWHCapitalManagementLP/744000135105801) | 93 | Dallas, TX | Quant | 2026-08-13 |
+
 ## Waabi
 
 | Title | Score | Location | Department | First seen |
@@ -5981,6 +6060,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Quantitative Analytics Intern - Capital Markets - Masters](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--Masters----Early-Careers_R-568270) | 60 | Charlotte, NC | Quant | 2026-08-13 |
+| [Quantitative Analytics Intern - Multiple Teams](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--PhD----Early-Careers_R-568279) | 60 | Charlotte, NC | AI/ML/Data | 2026-08-13 |
 | [2026 Technology Summer Internship - Early Careers (Software Engineer)](https://careers.techtitans.org/companies/wells-fargo/jobs/54862105-2026-technology-summer-internship-early-careers-software-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 85 | St. Louis, MO | — | 2026-07-09 |
 | [2026 Technology Summer Internship - Early Careers (Software Engineer)](https://www.linkedin.com/jobs/view/2026-technology-summer-internship-early-careers-software-engineer-at-wells-fargo-4271041288?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 77 | Irving, TX | — | 2026-07-09 |
 | [2026 Commercial Banking Summer Internship - Early Careers](https://www.linkedin.com/jobs/view/4256850790) | 42 | Dallas, TX | — | 2026-07-09 |
