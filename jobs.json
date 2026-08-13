@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-13T19:16:37.935Z",
+  "generatedAt": "2026-08-13T20:02:08.936Z",
   "companyCount": 186,
   "okCount": 186,
-  "jobCount": 1020,
+  "jobCount": 1022,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1023,7 +1023,9 @@
     "canonical:3552aa8e994f6bc7": "2026-08-13T17:09:36.735Z",
     "canonical:bdaac8a2e96db0c2": "2026-08-13T17:09:36.735Z",
     "canonical:8c33dd8961483d6c": "2026-08-13T17:09:36.735Z",
-    "canonical:27a09e08b462cce2": "2026-08-13T17:09:36.735Z"
+    "canonical:27a09e08b462cce2": "2026-08-13T17:09:36.735Z",
+    "canonical:9b2571ad2c92f469": "2026-08-13T20:02:08.936Z",
+    "canonical:3c98819eee65993d": "2026-08-13T20:02:08.936Z"
   },
   "jobs": [
     {
@@ -1610,20 +1612,6 @@
       ]
     },
     {
-      "id": "canonical:f9963438d881a851",
-      "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
-      "location": "Amsterdam",
-      "department": "",
-      "company": "DRW",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:1d41c103b87b651a",
       "title": "Software Developer Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
@@ -1643,6 +1631,20 @@
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
       "location": "Montreal, QC, Canada",
       "department": "Software",
+      "company": "DRW",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f9963438d881a851",
+      "title": "Software Developer Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
+      "location": "Amsterdam",
+      "department": "",
       "company": "DRW",
       "score": 93,
       "scoreReasons": [
@@ -14333,6 +14335,34 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:9b2571ad2c92f469",
+      "title": "AI Engineering Intern",
+      "url": "https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/AI-Engineering-Intern_R-51782",
+      "location": "Chicago IL USA",
+      "department": "Data & ML/AI / Not stated",
+      "company": "Crowe",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:3c98819eee65993d",
+      "title": "NHRC Software Engineering Internship (Summer 2027)",
+      "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193",
+      "location": "US - Huntsville, AL",
+      "department": "Software / Summer 2027",
+      "company": "Teledyne",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {

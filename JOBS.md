@@ -1,6 +1,6 @@
 # Open Internships
 
-**1020** internships across **186/186** companies — last updated 2026-08-13.
+**1022** internships across **186/186** companies — last updated 2026-08-13.
 
 ## Companies
 
@@ -91,6 +91,7 @@
 - [Cotiviti](#cotiviti) (1)
 - [Creatify Lab ](#creatify-lab) (1)
 - [Cresta](#cresta) (1)
+- [Crowe](#crowe) (1)
 - [CTGT](#ctgt) (1)
 - [Cubist Systematic Strategies](#cubist-systematic-strategies) (1)
 - [Cybernetic Labs](#cybernetic-labs) (3)
@@ -333,6 +334,7 @@
 - [Susquehanna International Group (SIG)](#susquehanna-international-group-sig) (4)
 - [Susquehanna Investment Group](#susquehanna-investment-group) (1)
 - [Synchrony Financial](#synchrony-financial) (1)
+- [Teledyne](#teledyne) (1)
 - [Tencent](#tencent) (3)
 - [Tenstorrent](#tenstorrent) (1)
 - [Terminal](#terminal) (2)
@@ -1073,6 +1075,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Forward Deployed Engineering Intern - AI Agent](https://job-boards.greenhouse.io/cresta/jobs/5106468008) | 93 | Remote in Canada | AI/ML/Data | 2026-05-09 |
+
+## Crowe
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI Engineering Intern](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/AI-Engineering-Intern_R-51782) | 93 | Chicago IL USA | Data & ML/AI / Not stated | 2026-08-13 |
 
 ## CTGT
 
@@ -2816,6 +2824,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Canton-Engagement-Hub-OH/Software-Engineer-Intern---Fall-2026_2601751-1) | 93 | Sharonville, OH / Canton, OH / Ohio | Software | 2026-08-01 |
+
+## Teledyne
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [NHRC Software Engineering Internship (Summer 2027)](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193) | 93 | US - Huntsville, AL | Software / Summer 2027 | 2026-08-13 |
 
 ## Tencent
 
