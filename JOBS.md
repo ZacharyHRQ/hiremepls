@@ -1,6 +1,6 @@
 # Open Internships
 
-**2023** internships across **179/179** companies — last updated 2026-08-13.
+**2020** internships across **179/179** companies — last updated 2026-08-13.
 
 ## Companies
 
@@ -56,7 +56,7 @@
 - [ASM Global](#asm-global) (4)
 - [ASM International](#asm-international) (1)
 - [ASML](#asml) (2)
-- [Assured Guaranty](#assured-guaranty) (2)
+- [Assured Guaranty](#assured-guaranty) (1)
 - [Astera](#astera) (3)
 - [Astera Labs](#astera-labs) (3)
 - [Astranis](#astranis) (7)
@@ -192,7 +192,7 @@
 - [Docugami](#docugami) (2)
 - [Draper](#draper) (1)
 - [Droyd Robotics](#droyd-robotics) (2)
-- [DRW](#drw) (25)
+- [DRW](#drw) (26)
 - [Dryft](#dryft) (1)
 - [DuPont](#dupont) (5)
 - [Duracell](#duracell) (1)
@@ -286,7 +286,6 @@
 - [H&CO](#h-co) (1)
 - [Haize Labs](#haize-labs) (1)
 - [HARMAN](#harman) (1)
-- [Harris Computer](#harris-computer) (1)
 - [HCompany](#hcompany) (1)
 - [HealthCorps](#healthcorps) (1)
 - [Heidelberg Materials](#heidelberg-materials) (1)
@@ -489,7 +488,7 @@
 - [Pika](#pika) (2)
 - [Pine Rest](#pine-rest) (1)
 - [Pinterest](#pinterest) (2)
-- [PlusAI](#plusai) (4)
+- [PlusAI](#plusai) (2)
 - [PNC Financial Services](#pnc-financial-services) (2)
 - [Point72](#point72) (18)
 - [pony.ai](#pony-ai) (2)
@@ -1242,7 +1241,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Product Software Developer Intern](https://boards.greenhouse.io/assuredguaranty/jobs/8700953002) | 93 | NYC | Software | 2026-08-12 |
-| [Fall 2026 Intern - Product Software Developer](https://boards.greenhouse.io/assuredguaranty/jobs/8700953002?gh_jid=8700953002) | 93 | New York, NY, United States | Software / Fall 2026 | 2026-08-12 |
 
 ## Astera
 
@@ -2273,6 +2271,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Developer Intern (Data Engineering)](https://job-boards.greenhouse.io/drweng/jobs/8127242) | 93 | Singapore | — | 2026-08-13 |
 | [Platform Engineer Intern](https://www.drw.com/work-at-drw/listings/platform-engineer-intern-3468737) | 85 | Chicago, IL | — | 2026-07-31 |
 | [Software Developer Intern](https://www.drw.com/work-at-drw/listings/software-developer-intern-3466687) | 85 | Montréal | — | 2026-07-31 |
 | [AI/ML Research Intern](https://www.drw.com/work-at-drw/listings/aiml-research-intern-3466679) | 60 | Montréal | — | 2026-07-31 |
@@ -2914,12 +2913,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Intern – Software Engineering](https://jobsearch.harman.com/en_US/careers/JobDetail/Intern-Software-Engineering/31931) | 85 | Sunnyvale, CA | Software Engineering | 2026-06-24 |
-
-## Harris Computer
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Development Intern](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Montreal-Quebec/Stagiaire-en-dveloppement-de-logiciels---Software-Development-Intern_R0044820-1) | 68 | Montreal, QC, Canada | Software | 2026-08-01 |
 
 ## HCompany
 
@@ -4498,9 +4491,7 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Deep Learning Research Intern - Multimodal BEV Perception](https://jobs.lever.co/plus-2/2ee24f85-bfa1-47fc-bfe3-fd07521a7b62/apply) | 68 | Santa Clara, CA | AI/ML/Data | 2026-08-07 |
-| [Computer Vision Engineer Intern](https://jobs.lever.co/plus-2/c143df6e-66c2-4498-b19b-8323f9954ca9/apply) | 93 | Santa Clara, CA | AI/ML/Data | 2026-05-27 |
 | [Scenario Simulation Intern](https://jobs.lever.co/plus-2/b4f750e7-0148-41f0-b2b1-ff054450a320/apply) | 68 | Santa Clara, CA | AI/ML/Data | 2026-05-23 |
-| [Research Engineer Intern - Control](https://jobs.lever.co/plus-2/ac7f8f73-88d0-48d5-8d4f-71ed4cfa6ecc/apply) | 93 | Santa Clara, CA | AI/ML/Data | 2026-05-23 |
 
 ## PNC Financial Services
 
