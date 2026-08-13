@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-13T22:30:16.349Z",
+  "generatedAt": "2026-08-13T23:22:47.944Z",
   "companyCount": 186,
   "okCount": 186,
-  "jobCount": 1022,
+  "jobCount": 1023,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -847,7 +847,6 @@
     "canonical:b2ec21f033deda74": "2026-08-06T09:05:10.260Z",
     "canonical:0bcde6c5e5e98b72": "2026-08-06T11:30:41.010Z",
     "canonical:06c0a2c3751f2622": "2026-08-07T00:35:31.024Z",
-    "canonical:6b4fff86ba60e72a": "2026-08-07T00:35:31.024Z",
     "canonical:3991fa2cbfee863d": "2026-08-07T00:35:31.024Z",
     "canonical:646d47c8079d4595": "2026-08-07T00:35:31.024Z",
     "canonical:0f259dc0186e372e": "2026-08-07T00:35:31.024Z",
@@ -1013,11 +1012,9 @@
     "canonical:2ef814da8da02125": "2026-08-13T09:53:01.918Z",
     "canonical:cbebb2666d4a65c1": "2026-08-13T09:53:01.918Z",
     "canonical:1bab936d4529ffd1": "2026-08-13T09:53:01.918Z",
-    "canonical:ac81291362622ecd": "2026-08-13T12:30:27.283Z",
     "canonical:69acd4c0fa388415": "2026-08-13T15:12:21.386Z",
     "canonical:1acb5d1a74182db7": "2026-08-13T15:12:21.386Z",
     "canonical:97e22bbcb7a75783": "2026-08-13T15:57:09.615Z",
-    "canonical:1843ac4fbdc019e9": "2026-08-13T15:57:09.615Z",
     "canonical:f9f8bc69f47c01d3": "2026-08-13T17:09:36.735Z",
     "canonical:3552aa8e994f6bc7": "2026-08-13T17:09:36.735Z",
     "canonical:bdaac8a2e96db0c2": "2026-08-13T17:09:36.735Z",
@@ -1025,7 +1022,11 @@
     "canonical:27a09e08b462cce2": "2026-08-13T17:09:36.735Z",
     "canonical:9b2571ad2c92f469": "2026-08-13T20:02:08.936Z",
     "canonical:3c98819eee65993d": "2026-08-13T20:02:08.936Z",
-    "canonical:48635e7437bbccae": "2026-08-13T21:47:03.239Z"
+    "canonical:48635e7437bbccae": "2026-08-13T21:47:03.239Z",
+    "canonical:c6062debf2a20902": "2026-08-13T23:22:47.944Z",
+    "canonical:3d21be998abcfdbd": "2026-08-13T23:22:47.944Z",
+    "canonical:384018ef9fafd329": "2026-08-13T23:22:47.944Z",
+    "canonical:e5e162dd2e1bc6a8": "2026-08-13T23:22:47.944Z"
   },
   "jobs": [
     {
@@ -10782,20 +10783,6 @@
       ]
     },
     {
-      "id": "canonical:6b4fff86ba60e72a",
-      "title": "Associate Software Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/impact/jobs/8645964002",
-      "location": "Santa Barbara, CA",
-      "department": "Software",
-      "company": " impact.com ",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:3991fa2cbfee863d",
       "title": "Software Engineer Intern - Data Platform",
       "url": "https://jobs.ashbyhq.com/terminal/d7e128ed-617c-4b9b-9e42-0e909fb25729/application?embed=true",
@@ -12378,6 +12365,20 @@
       ]
     },
     {
+      "id": "canonical:c6062debf2a20902",
+      "title": "Quantitative Researcher Intern - Summer 2027",
+      "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421",
+      "location": "Dubai - United Arab Emirates / NYC",
+      "department": "Quant",
+      "company": "InfiniteQuant",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:1acb5d1a74182db7",
       "title": "Quantitative Developer Intern - Summer 2027",
       "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594",
@@ -12412,6 +12413,48 @@
       "location": "Ottawa, ON, Canada",
       "department": "AI/ML/Data",
       "company": "Thales",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:3d21be998abcfdbd",
+      "title": "Research Scientist Intern",
+      "url": "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Remote---New-Jersey/Graduate-Research-Scientist-intern_R-100717-1",
+      "location": "New Jersey",
+      "department": "AI/ML/Data",
+      "company": "Analytical Mechanics Associates",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:384018ef9fafd329",
+      "title": "Software Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Intern--Summer-2027-_01864400",
+      "location": "Annapolis, MD",
+      "department": "Software",
+      "company": "RTX",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:e5e162dd2e1bc6a8",
+      "title": "AI Engineering Intern",
+      "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Engineering-Intern_R-51782",
+      "location": "Chicago, IL",
+      "department": "AI/ML/Data",
+      "company": "Crowe",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -14358,35 +14401,6 @@
       "location": "US - Huntsville, AL",
       "department": "Software / Summer 2027",
       "company": "Teledyne",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:1843ac4fbdc019e9",
-      "title": "Graduate Research Scientist intern",
-      "url": "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Remote---New-Jersey/Graduate-Research-Scientist-intern_R-100717-1",
-      "location": "Remote - New Jersey",
-      "department": "Data & ML/AI / Not stated",
-      "company": "Analytical Mechanics Associates",
-      "score": 99,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:ac81291362622ecd",
-      "title": "Quantitative Researcher - Internship - Summer 2027",
-      "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421",
-      "location": "New York, NY, United States",
-      "department": "Quant / Summer 2027",
-      "company": "InfiniteQuant",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
