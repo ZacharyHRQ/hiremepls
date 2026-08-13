@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-13T20:59:33.370Z",
+  "generatedAt": "2026-08-13T21:47:03.239Z",
   "companyCount": 186,
   "okCount": 186,
-  "jobCount": 1021,
+  "jobCount": 1022,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1024,7 +1024,8 @@
     "canonical:8c33dd8961483d6c": "2026-08-13T17:09:36.735Z",
     "canonical:27a09e08b462cce2": "2026-08-13T17:09:36.735Z",
     "canonical:9b2571ad2c92f469": "2026-08-13T20:02:08.936Z",
-    "canonical:3c98819eee65993d": "2026-08-13T20:02:08.936Z"
+    "canonical:3c98819eee65993d": "2026-08-13T20:02:08.936Z",
+    "canonical:48635e7437bbccae": "2026-08-13T21:47:03.239Z"
   },
   "jobs": [
     {
@@ -1185,10 +1186,10 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:cc5154b2bc1dc1f6",
       "title": "Graduate Software Engineer",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917773101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4818790101",
+      "location": "Chicago, United States",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1200,10 +1201,10 @@
       ]
     },
     {
-      "id": "canonical:cc5154b2bc1dc1f6",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4818790101",
-      "location": "Chicago, United States",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917773101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
       "department": "",
       "company": "IMC Trading",
       "score": 99,
@@ -1351,10 +1352,10 @@
       ]
     },
     {
-      "id": "canonical:d1d20c5456576574",
+      "id": "canonical:adc1bdd879675b5a",
       "title": "Campus Data Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
-      "location": "Chicago",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7975008",
+      "location": "London",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -1364,10 +1365,10 @@
       ]
     },
     {
-      "id": "canonical:adc1bdd879675b5a",
+      "id": "canonical:d1d20c5456576574",
       "title": "Campus Data Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7975008",
-      "location": "London",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
+      "location": "Chicago",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -1597,20 +1598,6 @@
       ]
     },
     {
-      "id": "canonical:1d41c103b87b651a",
-      "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
-      "location": "Chicago, IL",
-      "department": "Software",
-      "company": "DRW",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:f9963438d881a851",
       "title": "Software Developer Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
@@ -1629,6 +1616,20 @@
       "title": "Software Developer Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
       "location": "London, UK",
+      "department": "Software",
+      "company": "DRW",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1d41c103b87b651a",
+      "title": "Software Developer Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
+      "location": "Chicago, IL",
       "department": "Software",
       "company": "DRW",
       "score": 93,
@@ -12397,6 +12398,20 @@
       "location": "East Hartford, CT",
       "department": "Software",
       "company": "RTX",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:48635e7437bbccae",
+      "title": "Data Engineer Intern - Student",
+      "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Ottawa/Data-Engineer---student_R0337006-1",
+      "location": "Ottawa, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "Thales",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",

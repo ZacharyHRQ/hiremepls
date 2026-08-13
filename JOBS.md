@@ -1,6 +1,6 @@
 # Open Internships
 
-**1021** internships across **186/186** companies — last updated 2026-08-13.
+**1022** internships across **186/186** companies — last updated 2026-08-13.
 
 ## Companies
 
@@ -341,6 +341,7 @@
 - [Terranox AI](#terranox-ai) (1)
 - [Tesla](#tesla) (73)
 - [TETRAMEM](#tetramem) (1)
+- [Thales](#thales) (1)
 - [The Boeing Company](#the-boeing-company) (1)
 - [The Exploration Company](#the-exploration-company) (1)
 - [The Nuclear Company](#the-nuclear-company) (5)
@@ -2940,6 +2941,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern, Embedded](https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job) | 85 | San Jose, CA | — | 2026-07-09 |
+
+## Thales
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data Engineer Intern - Student](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Ottawa/Data-Engineer---student_R0337006-1) | 93 | Ottawa, ON, Canada | AI/ML/Data | 2026-08-13 |
 
 ## The Boeing Company
 
