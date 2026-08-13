@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-13T08:48:14.551Z",
+  "generatedAt": "2026-08-13T09:53:01.918Z",
   "companyCount": 179,
   "okCount": 179,
-  "jobCount": 2041,
+  "jobCount": 2044,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2023,7 +2023,6 @@
     "canonical:3f67758be9160946": "2026-08-13T02:43:38.281Z",
     "canonical:8ae106b08e40c5b5": "2026-08-13T02:43:38.281Z",
     "canonical:8e710bc5e4b99b30": "2026-08-13T05:57:03.471Z",
-    "canonical:856c811948ca2478": "2026-08-13T07:18:17.639Z",
     "canonical:a9e958b1247a0838": "2026-08-13T07:18:17.639Z",
     "canonical:3641d13c0a0beaf1": "2026-08-13T07:18:17.639Z",
     "canonical:9a5c9f0aebd01b12": "2026-08-13T07:18:17.639Z",
@@ -2044,7 +2043,11 @@
     "canonical:86d0c4fa592f5381": "2026-08-13T07:18:17.639Z",
     "canonical:7cb2049dccc53e73": "2026-08-13T07:18:17.639Z",
     "canonical:67f2441e2feedc71": "2026-08-13T07:18:17.639Z",
-    "canonical:cfde0581298e6d01": "2026-08-13T07:18:17.639Z"
+    "canonical:cfde0581298e6d01": "2026-08-13T07:18:17.639Z",
+    "canonical:2ef814da8da02125": "2026-08-13T09:53:01.918Z",
+    "canonical:cbebb2666d4a65c1": "2026-08-13T09:53:01.918Z",
+    "canonical:1bab936d4529ffd1": "2026-08-13T09:53:01.918Z",
+    "canonical:f22c383e84d41e35": "2026-08-13T09:53:01.918Z"
   },
   "jobs": [
     {
@@ -7739,18 +7742,17 @@
       ]
     },
     {
-      "id": "canonical:856c811948ca2478",
+      "id": "canonical:2ef814da8da02125",
       "title": "Software Engineer, Intern",
       "url": "https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16",
-      "location": "",
-      "department": "Engineering",
-      "company": "Exa",
-      "score": 90,
+      "location": "San Francisco, California",
+      "department": "Software / Not stated",
+      "company": "Exa Labs",
+      "score": 93,
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
-        "direct ATS",
-        "unknown location"
+        "direct ATS"
       ]
     },
     {
@@ -8689,6 +8691,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:cbebb2666d4a65c1",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16/application",
+      "location": "SF",
+      "department": "Software",
+      "company": "Exa Labs",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -24207,6 +24223,30 @@
       "location": "Charlotte, NC",
       "department": "Quant",
       "company": "Wells Fargo",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:1bab936d4529ffd1",
+      "title": "Firmware Engineer Intern - New Programs Engineering",
+      "url": "https://www.tesla.com/careers/search/job/279991",
+      "location": "Fremont, CA",
+      "department": "Hardware",
+      "company": "Tesla",
+      "score": 75,
+      "scoreReasons": [
+        "SWE-aligned"
+      ]
+    },
+    {
+      "id": "canonical:f22c383e84d41e35",
+      "title": "Data Science Intern - Advertisement Team",
+      "url": "https://lifeattiktok.com/search/7673226686054107445",
+      "location": "San Jose, CA",
+      "department": "AI/ML/Data",
+      "company": "TikTok",
       "score": 60,
       "scoreReasons": [
         "high-signal role"

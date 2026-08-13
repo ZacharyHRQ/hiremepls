@@ -1,6 +1,6 @@
 # Open Internships
 
-**2041** internships across **179/179** companies — last updated 2026-08-13.
+**2044** internships across **179/179** companies — last updated 2026-08-13.
 
 ## Companies
 
@@ -223,7 +223,7 @@
 - [EV Realty](#ev-realty) (1)
 - [Everstream Analytics](#everstream-analytics) (1)
 - [Evolver](#evolver) (1)
-- [Exa](#exa) (1)
+- [Exa Labs](#exa-labs) (2)
 - [Excel Sports Management](#excel-sports-management) (2)
 - [Expedia Group](#expedia-group) (1)
 - [ExxonMobil](#exxonmobil) (1)
@@ -604,7 +604,7 @@
 - [Terminal](#terminal) (2)
 - [Terranova](#terranova) (2)
 - [Terranox AI](#terranox-ai) (1)
-- [Tesla](#tesla) (85)
+- [Tesla](#tesla) (86)
 - [Tessera Labs](#tessera-labs) (1)
 - [TETRAMEM](#tetramem) (1)
 - [Texas Instruments](#texas-instruments) (1)
@@ -621,7 +621,7 @@
 - [Thomson Reuters](#thomson-reuters) (1)
 - [thyssenkrupp](#thyssenkrupp) (2)
 - [TIFIN](#tifin) (1)
-- [TikTok](#tiktok) (118)
+- [TikTok](#tiktok) (119)
 - [Tilde Research](#tilde-research) (2)
 - [TMEIC](#tmeic) (1)
 - [TMEIC Corporation Americas](#tmeic-corporation-americas) (3)
@@ -2512,11 +2512,12 @@
 | --- | --- | --- | --- | --- |
 | [Applied Data Science Intern](https://job-boards.greenhouse.io/evolver/jobs/4254540009) | 68 | Palo Alto, CA | AI/ML/Data | 2026-07-02 |
 
-## Exa
+## Exa Labs
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer, Intern](https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16) | 90 | — | Engineering | 2026-08-13 |
+| [Software Engineer Intern](https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16/application) | 93 | SF | Software | 2026-08-13 |
+| [Software Engineer, Intern](https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16) | 93 | San Francisco, California | Software / Not stated | 2026-08-13 |
 
 ## Excel Sports Management
 
@@ -5367,6 +5368,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Firmware Engineer Intern - New Programs Engineering](https://www.tesla.com/careers/search/job/279991) | 75 | Fremont, CA | Hardware | 2026-08-13 |
 | [Software Engineer Intern - AI Inference Co Design](https://www.tesla.com/careers/search/job/279600) | 85 | Palo Alto, CA | Software | 2026-08-12 |
 | [Applied AI Engineer Intern - AI Hardware](https://www.tesla.com/careers/search/job/279603) | 75 | Palo Alto, CA | Hardware | 2026-08-11 |
 | [Software Engineer Intern - Engineering Automation - Vehicle Engineering](https://www.tesla.com/careers/search/job/279763) | 85 | Palo Alto, CA | Software | 2026-08-10 |
@@ -5561,6 +5563,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data Science Intern - Advertisement Team](https://lifeattiktok.com/search/7673226686054107445) | 60 | San Jose, CA | AI/ML/Data | 2026-08-13 |
 | [Product Operations Intern - TikTok Shop Apps and API](https://lifeattiktok.com/search/7669705525866383621) | 50 | Seattle, WA | Product | 2026-08-13 |
 | [Machine Learning Engineer Intern - E-Commerce Recommendation Foundation](https://lifeattiktok.com/search/7672883129493948677) | 85 | San Jose, CA | AI/ML/Data | 2026-08-12 |
 | [Machine Learning Engineer Intern - E-Commerce Recommendation Foundation](https://lifeattiktok.com/search/7672881840860940597) | 85 | Seattle, WA | AI/ML/Data | 2026-08-12 |
