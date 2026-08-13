@@ -1,6 +1,6 @@
 # Open Internships
 
-**2058** internships across **179/179** companies — last updated 2026-08-13.
+**2062** internships across **179/179** companies — last updated 2026-08-13.
 
 ## Companies
 
@@ -32,6 +32,7 @@
 - [American Express](#american-express) (9)
 - [American Fidelity](#american-fidelity) (1)
 - [Amgen](#amgen) (1)
+- [Analytical Mechanics Associates](#analytical-mechanics-associates) (1)
 - [Anduril](#anduril) (5)
 - [Anthelion Capital](#anthelion-capital) (2)
 - [Apex Technology, Inc.](#apex-technology-inc) (1)
@@ -183,7 +184,7 @@
 - [Deepgram](#deepgram) (2)
 - [Deloitte](#deloitte) (5)
 - [Delta Air Lines](#delta-air-lines) (1)
-- [Delta Dental](#delta-dental) (1)
+- [Delta Dental](#delta-dental) (2)
 - [Denari](#denari) (1)
 - [Dewberry](#dewberry) (1)
 - [Dexmate](#dexmate) (1)
@@ -325,7 +326,7 @@
 - [IMC Trading](#imc-trading) (29)
 - [Inbulks](#inbulks) (1)
 - [Incident IQ](#incident-iq) (1)
-- [InfiniteQuant](#infinitequant) (3)
+- [InfiniteQuant](#infinitequant) (2)
 - [Infojini](#infojini) (1)
 - [ING](#ing) (2)
 - [Inizio](#inizio) (1)
@@ -495,7 +496,7 @@
 - [Pine Rest](#pine-rest) (1)
 - [Pinterest](#pinterest) (2)
 - [PlusAI](#plusai) (1)
-- [PNC Financial Services](#pnc-financial-services) (1)
+- [PNC Financial Services](#pnc-financial-services) (2)
 - [Point72](#point72) (18)
 - [pony.ai](#pony-ai) (2)
 - [Pony.ai](#pony-ai) (2)
@@ -538,7 +539,7 @@
 - [Roblox](#roblox) (1)
 - [Royal Bank of Canada](#royal-bank-of-canada) (4)
 - [RRS Group](#rrs-group) (4)
-- [RTX](#rtx) (15)
+- [RTX](#rtx) (16)
 - [Samaya](#samaya) (1)
 - [Samsara](#samsara) (2)
 - [Samsung Research America](#samsung-research-america) (1)
@@ -549,6 +550,7 @@
 - [Schonfeld](#schonfeld) (4)
 - [Schweitzer Engineering Laboratories](#schweitzer-engineering-laboratories) (3)
 - [SCOR](#scor) (1)
+- [Sensata](#sensata) (1)
 - [Sentry](#sentry) (2)
 - [Serval](#serval) (1)
 - [Seven Research](#seven-research) (4)
@@ -1074,6 +1076,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate--Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-249424) | 93 | Burnaby, Canada | — | 2026-07-10 |
+
+## Analytical Mechanics Associates
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Graduate Research Scientist intern](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Remote---New-Jersey/Graduate-Research-Scientist-intern_R-100717-1) | 99 | Remote - New Jersey | Data & ML/AI / Not stated | 2026-08-13 |
 
 ## Anduril
 
@@ -2238,6 +2246,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Knowledge Science Intern](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Knowledge-Science_JR101405) | 68 | Okemos, MI | AI/ML/Data | 2026-08-13 |
 | [Application Development Intern](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101382) | 68 | Okemos, MI | Software | 2026-08-07 |
 
 ## Denari
@@ -3223,8 +3232,7 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Quantitative Developer Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594) | 93 | Dubai - United Arab Emirates / NYC | Quant | 2026-08-13 |
-| [Quantitative Researcher - Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143292044) | 93 | New York, NY, United States | Quant / Summer 2027 | 2026-08-13 |
-| [Quantitative Researcher Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421) | 93 | Dubai - United Arab Emirates / NYC | Quant | 2026-07-20 |
+| [Quantitative Researcher - Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421) | 93 | New York, NY, United States | Quant / Summer 2027 | 2026-08-13 |
 
 ## Infojini
 
@@ -4566,6 +4574,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data and Analytics Intern - Modeling](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Data--Modeling--and-Analytics-Undergraduate-Intern_R231526-1) | 68 | Pittsburgh, PA | AI/ML/Data | 2026-08-13 |
 | [Product Innovation Intern - Retail Product Innovation](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Product-Innovation-Undergraduate-Intern_R230925-1) | 38 | Pittsburgh, PA | Product | 2026-08-05 |
 
 ## Point72
@@ -4576,8 +4585,8 @@
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-07-09 |
 | [Investment Analyst Intern, Point72 Academy](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) | 50 | New York, NY / San Francisco, CA / Chicago, IL / West Palm Beach, FL / Miami, FL | — | 2026-07-09 |
 | [Corporate Access, off-cycle internship (6-months) – Japanese speaking](https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002) | 58 | Hong Kong | — | 2026-06-30 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -4883,6 +4892,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Methods Intern - Hot Section Engineering](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Methods-Intern---Hot-Section-Engineering--Summer-2027---Onsite-_01864520) | 93 | East Hartford, CT | Software | 2026-08-13 |
 | [Modeling, Simulation & Analysis Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Modeling--Simulation---Analysis-Intern_01866254) | 68 | Tucson, AZ | AI/ML/Data | 2026-08-13 |
 | [Software Engineering Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875) | 93 | Cedar Rapids, IA | Hardware | 2026-08-12 |
 | [Validation Engineer Intern - Product Safety - Certification & Validation](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Intern--Validation-Engineering---Product-Safety--Certification---Validation---Onsite-_01864406) | 93 | East Hartford, CT | AI/ML/Data | 2026-08-12 |
@@ -4967,6 +4977,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Databricks & Palantir Analytics Graduate Trainee](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/4840) | 66 | London, UK | AI/ML/Data | 2026-07-20 |
+
+## Sensata
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Hardware Engineer Intern - Multiple Teams](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Newtownabbey-United-Kingdom/Hardware-Engineering-Placement-Students_IRC96147) | 58 | Newtownabbey, UK | Hardware | 2026-08-13 |
 
 ## Sentry
 

@@ -67,14 +67,14 @@
     "8027941",
     "7848371",
     "8050772",
-    "7975026",
     "8002989",
-    "8027952",
-    "8000323",
+    "7975026",
     "8007788",
+    "8000323",
+    "8027952",
     "7565728",
-    "8003019",
-    "7974943"
+    "7974943",
+    "8003019"
   ],
   "DRW": [
     "7991171",
@@ -90,10 +90,10 @@
     "7668776",
     "7957243",
     "8014919",
+    "7942281",
+    "8020364",
     "7991196",
     "7992936",
-    "8020364",
-    "7942281",
     "8014910",
     "8127242",
     "7992670",
@@ -137,8 +137,8 @@
     "8491138002",
     "8491128002",
     "8603979002",
-    "7297611002",
     "7297598002",
+    "7297611002",
     "7302611002",
     "7609197002",
     "7586061002",
@@ -222,8 +222,8 @@
     "8013562",
     "7796077",
     "8089400",
-    "8089407",
     "8089379",
+    "8089407",
     "8118845",
     "8052785"
   ],
@@ -1499,9 +1499,9 @@
   ],
   "Wayve": [],
   "zshah101 Summer 2027/Fall 2026": [
+    "github-json:zshah101-summer-2027-fall-2026:workday:amainc:/job/Remote---New-Jersey/Graduate-Research-Scientist-intern_R-100717-1",
     "github-json:zshah101-summer-2027-fall-2026:smartrecruiters:InfiniteQuant:744000143307421",
     "github-json:zshah101-summer-2027-fall-2026:smartrecruiters:InfiniteQuant:744000143287594",
-    "github-json:zshah101-summer-2027-fall-2026:smartrecruiters:InfiniteQuant:744000143292044",
     "github-json:zshah101-summer-2027-fall-2026:ashby:exa:a9e01521-66f1-481b-89da-ec01d4620f16",
     "github-json:zshah101-summer-2027-fall-2026:workable:connectprep:D1C67258C0",
     "github-json:zshah101-summer-2027-fall-2026:oracle:eeho.fa.us2.oraclecloud.com:342415",
@@ -3027,6 +3027,7 @@
     "simplify:ac3e3883-21b0-4ad1-8011-bf5060c01aab",
     "simplify:b27edad4-236e-4268-8fe8-1e913b1d59c8",
     "simplify:6460be14-109c-4ede-a2ad-63b0be123a5a",
+    "simplify:8d9b8a71-2379-496c-bfbe-ba06bd67f73e",
     "simplify:b4947a2f-6ea5-4d4a-8cb0-1e08e351d0e9",
     "simplify:7a398a79-2792-4181-8700-a5fbd8d17e76",
     "simplify:cbd56b83-ba52-4c04-b781-d4ae5e585151",
@@ -3338,8 +3339,10 @@
     "simplify:6442a0a1-6fb5-447b-b984-3d48c1c6070f",
     "simplify:7e2a97b1-541b-498e-9f8b-09e9fb6b0b9f",
     "simplify:973baf93-b4d1-46c0-a60c-d4a170c31505",
-    "simplify:9bd5bf91-17e4-4d57-9268-dd61b4b3cdf4",
-    "simplify:d15c2dd4-7288-4110-bf59-550c753167ab"
+    "simplify:d15c2dd4-7288-4110-bf59-550c753167ab",
+    "simplify:b90b1f48-7c8c-4d10-889d-59e14160b61a",
+    "simplify:4970d8e6-5a35-42a8-b190-f87e93fe1d23",
+    "simplify:aed64cac-7a3d-4140-a085-279c03698a7b"
   ],
   "DoorDash": [],
   "Waymo": [
@@ -3347,8 +3350,8 @@
   ],
   "xAI": [],
   "Block": [
-    "5108007008",
-    "5108009008"
+    "5108009008",
+    "5108007008"
   ],
   "Coinbase": [],
   "Toast": [],
@@ -4524,6 +4527,7 @@
     "simplify:ac3e3883-21b0-4ad1-8011-bf5060c01aab",
     "simplify:b27edad4-236e-4268-8fe8-1e913b1d59c8",
     "simplify:6460be14-109c-4ede-a2ad-63b0be123a5a",
+    "simplify:8d9b8a71-2379-496c-bfbe-ba06bd67f73e",
     "simplify:b4947a2f-6ea5-4d4a-8cb0-1e08e351d0e9",
     "simplify:7a398a79-2792-4181-8700-a5fbd8d17e76",
     "simplify:cbd56b83-ba52-4c04-b781-d4ae5e585151",
@@ -4835,8 +4839,10 @@
     "simplify:6442a0a1-6fb5-447b-b984-3d48c1c6070f",
     "simplify:7e2a97b1-541b-498e-9f8b-09e9fb6b0b9f",
     "simplify:973baf93-b4d1-46c0-a60c-d4a170c31505",
-    "simplify:9bd5bf91-17e4-4d57-9268-dd61b4b3cdf4",
-    "simplify:d15c2dd4-7288-4110-bf59-550c753167ab"
+    "simplify:d15c2dd4-7288-4110-bf59-550c753167ab",
+    "simplify:b90b1f48-7c8c-4d10-889d-59e14160b61a",
+    "simplify:4970d8e6-5a35-42a8-b190-f87e93fe1d23",
+    "simplify:aed64cac-7a3d-4140-a085-279c03698a7b"
   ],
   "Wintermute": [],
   "QCP": [
