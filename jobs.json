@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-13T10:52:19.656Z",
+  "generatedAt": "2026-08-13T11:38:23.444Z",
   "companyCount": 179,
   "okCount": 179,
-  "jobCount": 2041,
+  "jobCount": 2042,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -149,7 +149,6 @@
     "canonical:c299015364c1db18": "2026-05-22T09:54:00.041Z",
     "canonical:1ed5a7059fed0450": "2026-05-22T22:57:08.943Z",
     "canonical:3199ccc6d28ca766": "2026-05-23T10:21:14.097Z",
-    "canonical:2031e4e9473b2185": "2026-05-23T11:39:27.713Z",
     "canonical:c40434041482eff7": "2026-05-23T16:29:56.405Z",
     "canonical:da1d1f81b47de301": "2026-05-27T02:52:54.000Z",
     "canonical:7cd11e7ec9f67cb6": "2026-05-27T06:54:37.687Z",
@@ -1984,7 +1983,6 @@
     "canonical:04172e347ecd89c6": "2026-08-12T17:38:04.745Z",
     "canonical:b16d4746e2e8eaa3": "2026-08-12T19:45:06.044Z",
     "canonical:c6690b19f98de110": "2026-08-12T21:10:05.758Z",
-    "canonical:4670de827e8c60dc": "2026-08-12T21:10:05.758Z",
     "canonical:05ecd7f1123cf080": "2026-08-12T21:10:05.758Z",
     "canonical:f541f7b9c3a51ddc": "2026-08-12T21:10:05.758Z",
     "canonical:a83146ac43cdad57": "2026-08-12T21:10:05.758Z",
@@ -2044,7 +2042,10 @@
     "canonical:2ef814da8da02125": "2026-08-13T09:53:01.918Z",
     "canonical:cbebb2666d4a65c1": "2026-08-13T09:53:01.918Z",
     "canonical:1bab936d4529ffd1": "2026-08-13T09:53:01.918Z",
-    "canonical:f22c383e84d41e35": "2026-08-13T09:53:01.918Z"
+    "canonical:f22c383e84d41e35": "2026-08-13T09:53:01.918Z",
+    "canonical:b9acfe0029d0e293": "2026-08-13T11:38:23.444Z",
+    "canonical:00074f14b5fec3d5": "2026-08-13T11:38:23.444Z",
+    "canonical:58dd154df069b7a6": "2026-08-13T11:38:23.444Z"
   },
   "jobs": [
     {
@@ -2829,6 +2830,18 @@
       ]
     },
     {
+      "id": "canonical:eea417b083785298",
+      "title": "Campus Systems Engineer (Intern)",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
+      "location": "London; Amsterdam",
+      "department": "",
+      "company": "Jump Trading",
+      "score": 75,
+      "scoreReasons": [
+        "SWE-aligned"
+      ]
+    },
+    {
       "id": "canonical:4d567555739a50bd",
       "title": "Campus Systems Engineer (Intern)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
@@ -2845,18 +2858,6 @@
       "title": "Campus Systems Engineer (Intern)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
       "location": "Chicago",
-      "department": "",
-      "company": "Jump Trading",
-      "score": 75,
-      "scoreReasons": [
-        "SWE-aligned"
-      ]
-    },
-    {
-      "id": "canonical:eea417b083785298",
-      "title": "Campus Systems Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
-      "location": "London; Amsterdam",
       "department": "",
       "company": "Jump Trading",
       "score": 75,
@@ -8717,6 +8718,19 @@
       ]
     },
     {
+      "id": "canonical:b9acfe0029d0e293",
+      "title": "Tax Technology Intern - Summer 2027",
+      "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/114405",
+      "location": "Bellevue, WA",
+      "department": "AI/ML/Data",
+      "company": "Grant Thornton",
+      "score": 40,
+      "scoreReasons": [
+        "high-signal role",
+        "lower-fit title"
+      ]
+    },
+    {
       "id": "canonical:ec6f178e215cef02",
       "title": "Software Development Engineer Intern - Military Veteran",
       "url": "https://amazon.jobs/en/jobs/3179209/software-development-engineer-internship-military-veteran",
@@ -11284,19 +11298,6 @@
       "company": "Cadence Design Systems",
       "score": 58,
       "scoreReasons": [
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:2031e4e9473b2185",
-      "title": "Scenario Simulation Intern",
-      "url": "https://jobs.lever.co/plus-2/b4f750e7-0148-41f0-b2b1-ff054450a320/apply",
-      "location": "Santa Clara, CA",
-      "department": "AI/ML/Data",
-      "company": "PlusAI",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
         "direct ATS"
       ]
     },
@@ -17596,6 +17597,18 @@
       ]
     },
     {
+      "id": "canonical:00074f14b5fec3d5",
+      "title": "Consultative Offerings Intern - Government & Public Services - Cyber Analytics",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Cyber-Analytics/360259",
+      "location": "Arlington, VA",
+      "department": "AI/ML/Data",
+      "company": "Deloitte",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:5065505f2c2a77d4",
       "title": "Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency",
       "url": "https://lifeattiktok.com/search/7667248888103782661",
@@ -22875,20 +22888,6 @@
       ]
     },
     {
-      "id": "canonical:4670de827e8c60dc",
-      "title": "Analyst Intern - Equity Research - Sales, Trading & Research",
-      "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/XMLNAME-2027-Truist-Securities---Equity-Research--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117762-1",
-      "location": "NYC / Atlanta, GA",
-      "department": "Quant",
-      "company": "Truist Bank",
-      "score": 48,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS",
-        "lower-fit title"
-      ]
-    },
-    {
       "id": "canonical:bf98938ea45fb54b",
       "title": "Product Engineering Intern",
       "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Product-Engineering_R-26-19224",
@@ -24208,6 +24207,16 @@
       "scoreReasons": [
         "high-signal role"
       ]
+    },
+    {
+      "id": "canonical:58dd154df069b7a6",
+      "title": "Product Manager Intern - Residential Energy Engineering",
+      "url": "https://www.tesla.com/careers/search/job/275178",
+      "location": "Palo Alto, CA",
+      "department": "Product",
+      "company": "Tesla",
+      "score": 50,
+      "scoreReasons": []
     },
     {
       "id": "canonical:12cd06c0eec80152",

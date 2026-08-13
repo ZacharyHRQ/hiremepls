@@ -1,6 +1,6 @@
 # Open Internships
 
-**2041** internships across **179/179** companies — last updated 2026-08-13.
+**2042** internships across **179/179** companies — last updated 2026-08-13.
 
 ## Companies
 
@@ -181,7 +181,7 @@
 - [DE Shaw](#de-shaw) (1)
 - [Dedalus Labs](#dedalus-labs) (1)
 - [Deepgram](#deepgram) (2)
-- [Deloitte](#deloitte) (4)
+- [Deloitte](#deloitte) (5)
 - [Delta Air Lines](#delta-air-lines) (1)
 - [Delta Dental](#delta-dental) (1)
 - [Denari](#denari) (1)
@@ -277,7 +277,7 @@
 - [GoDaddy](#godaddy) (1)
 - [Gong](#gong) (3)
 - [Google](#google) (1)
-- [Grant Thornton](#grant-thornton) (1)
+- [Grant Thornton](#grant-thornton) (2)
 - [Green Planet Solutions](#green-planet-solutions) (1)
 - [Gritt Robotics Inc](#gritt-robotics-inc) (1)
 - [GRITT ROBOTICS INC](#gritt-robotics-inc) (1)
@@ -494,7 +494,7 @@
 - [Pika](#pika) (2)
 - [Pine Rest](#pine-rest) (1)
 - [Pinterest](#pinterest) (2)
-- [PlusAI](#plusai) (2)
+- [PlusAI](#plusai) (1)
 - [PNC Financial Services](#pnc-financial-services) (2)
 - [Point72](#point72) (18)
 - [pony.ai](#pony-ai) (2)
@@ -603,7 +603,7 @@
 - [Terminal](#terminal) (2)
 - [Terranova](#terranova) (2)
 - [Terranox AI](#terranox-ai) (1)
-- [Tesla](#tesla) (86)
+- [Tesla](#tesla) (87)
 - [Tessera Labs](#tessera-labs) (1)
 - [TETRAMEM](#tetramem) (1)
 - [Texas Instruments](#texas-instruments) (1)
@@ -635,7 +635,7 @@
 - [Trata](#trata) (1)
 - [Trend Micro](#trend-micro) (1)
 - [Trillium](#trillium) (4)
-- [Truist Bank](#truist-bank) (2)
+- [Truist Bank](#truist-bank) (1)
 - [Tuckernuck](#tuckernuck) (1)
 - [Turabify](#turabify) (1)
 - [Two Sigma](#two-sigma) (2)
@@ -2208,6 +2208,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Consultative Offerings Intern - Government & Public Services - Cyber Analytics](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Cyber-Analytics/360259) | 60 | Arlington, VA | AI/ML/Data | 2026-08-13 |
 | [Data Management Solutions Summer Scholar Intern - Government & Public Services - Data Management Solutions](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Data-Management-Solutions/362366) | 60 | Rosslyn, Arlington, VA | AI/ML/Data | 2026-08-12 |
 | [AI and Data Engineering Summer Scholar Intern - Government & Public Services](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-AI-and-Data-Engineering/362479) | 85 | Austin, TX | AI/ML/Data | 2026-08-11 |
 | [Software Engineering Analyst Intern - Government & Public Services](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Software-Engineering/362448) | 85 | Austin, TX | Software | 2026-08-11 |
@@ -2872,6 +2873,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Tax Technology Intern - Summer 2027](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/114405) | 40 | Bellevue, WA | AI/ML/Data | 2026-08-13 |
 | [Tax Technology Intern - Summer 2027](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/114404) | 40 | Dallas, TX | AI/ML/Data | 2026-07-20 |
 
 ## Green Planet Solutions
@@ -4543,7 +4545,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Deep Learning Research Intern - Multimodal BEV Perception](https://jobs.lever.co/plus-2/2ee24f85-bfa1-47fc-bfe3-fd07521a7b62/apply) | 68 | Santa Clara, CA | AI/ML/Data | 2026-08-07 |
-| [Scenario Simulation Intern](https://jobs.lever.co/plus-2/b4f750e7-0148-41f0-b2b1-ff054450a320/apply) | 68 | Santa Clara, CA | AI/ML/Data | 2026-05-23 |
 
 ## PNC Financial Services
 
@@ -5360,6 +5361,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Product Manager Intern - Residential Energy Engineering](https://www.tesla.com/careers/search/job/275178) | 50 | Palo Alto, CA | Product | 2026-08-13 |
 | [Firmware Engineer Intern - New Programs Engineering](https://www.tesla.com/careers/search/job/279991) | 75 | Fremont, CA | Hardware | 2026-08-13 |
 | [Software Engineer Intern - AI Inference Co Design](https://www.tesla.com/careers/search/job/279600) | 85 | Palo Alto, CA | Software | 2026-08-12 |
 | [Applied AI Engineer Intern - AI Hardware](https://www.tesla.com/careers/search/job/279603) | 75 | Palo Alto, CA | Hardware | 2026-08-11 |
@@ -5779,7 +5781,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Analyst Intern - Equity Research - Sales, Trading & Research](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/XMLNAME-2027-Truist-Securities---Equity-Research--Sales--Trading---Research----Analyst-Program--INTERN-CONVERSION-_R0117762-1) | 48 | NYC / Atlanta, GA | Quant | 2026-08-12 |
 | [Technology and Operations Intern Conversion - Data](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/XMLNAME-2027-Technology--Data--and-Operations-Internship---Intern-Conversion-_R0117276) | 68 | Charlotte, NC / Atlanta, GA | Software | 2026-08-10 |
 
 ## Tuckernuck
