@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-12T23:22:34.765Z",
+  "generatedAt": "2026-08-13T00:04:58.394Z",
   "companyCount": 179,
   "okCount": 179,
-  "jobCount": 2031,
+  "jobCount": 2027,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -162,7 +162,6 @@
     "canonical:e87b9219892bc7ee": "2026-05-27T14:19:21.217Z",
     "canonical:5391ceaa9b10ee30": "2026-05-27T14:19:21.217Z",
     "canonical:fdcbfd1a53fb0e8a": "2026-05-27T17:38:56.111Z",
-    "canonical:dc784fbedc1313dc": "2026-05-27T17:38:56.111Z",
     "canonical:73cd4f2761a3469b": "2026-05-27T21:45:52.221Z",
     "canonical:e0d5ce31dfaf1a2a": "2026-05-27T21:45:52.221Z",
     "canonical:55deb68272c97b7f": "2026-05-27T21:45:52.221Z",
@@ -945,7 +944,6 @@
     "canonical:34fe0e96b7df43d3": "2026-07-21T22:35:30.061Z",
     "canonical:4e38cf81ef08bf49": "2026-07-21T22:35:30.061Z",
     "canonical:4cd3d8c99b8271ab": "2026-07-21T23:38:12.778Z",
-    "canonical:f8bfe29c74a5df11": "2026-07-21T23:38:12.778Z",
     "canonical:cc65309c51a0f196": "2026-07-22T01:04:17.268Z",
     "canonical:09305d61718c8a08": "2026-07-22T01:04:17.268Z",
     "canonical:afb536cb1eecb81f": "2026-07-22T01:04:17.268Z",
@@ -1300,7 +1298,6 @@
     "canonical:1fd516f098e80e1d": "2026-08-01T16:36:04.156Z",
     "canonical:38febced94700d05": "2026-08-01T16:36:04.156Z",
     "canonical:252d1a4a3ebaaca9": "2026-08-01T16:36:04.156Z",
-    "canonical:0c6a01a05ca81c51": "2026-08-01T16:36:04.156Z",
     "canonical:4df26887a64db100": "2026-08-01T16:36:04.156Z",
     "canonical:27b33e66567f5f14": "2026-08-01T16:36:04.156Z",
     "canonical:3a586592cda0efdc": "2026-08-01T16:36:04.156Z",
@@ -1712,7 +1709,6 @@
     "canonical:7037d3a96f64c8b6": "2026-08-07T00:35:31.024Z",
     "canonical:95bdf11ad37a661b": "2026-08-07T00:35:31.024Z",
     "canonical:0f259dc0186e372e": "2026-08-07T00:35:31.024Z",
-    "canonical:cc1ecd880688e472": "2026-08-07T00:35:31.024Z",
     "canonical:1348bb7c13ecef28": "2026-08-07T00:35:31.024Z",
     "canonical:1b9ebef2b324c80c": "2026-08-07T00:35:31.024Z",
     "canonical:e49df8e50ad33a69": "2026-08-07T00:35:31.024Z",
@@ -7042,18 +7038,6 @@
       ]
     },
     {
-      "id": "canonical:c4899e61c3f2d9c6",
-      "title": "Applied Research Intern Co-op",
-      "url": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Block",
-      "score": 60,
-      "scoreReasons": [
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:0942563fedd29433",
       "title": "Applied Research Intern PhD / Graduate Co-op",
       "url": "http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008",
@@ -7064,6 +7048,18 @@
       "scoreReasons": [
         "high-signal role",
         "new grad"
+      ]
+    },
+    {
+      "id": "canonical:c4899e61c3f2d9c6",
+      "title": "Applied Research Intern Co-op",
+      "url": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
+      "location": "Toronto, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "Block",
+      "score": 60,
+      "scoreReasons": [
+        "high-signal role"
       ]
     },
     {
@@ -11471,20 +11467,6 @@
       ]
     },
     {
-      "id": "canonical:dc784fbedc1313dc",
-      "title": "Research Engineer Intern - Mapping & Localization",
-      "url": "https://jobs.lever.co/plus-2/efbb82d3-1c4a-4fc9-8b40-ee1545085061/apply",
-      "location": "Santa Clara, CA",
-      "department": "AI/ML/Data",
-      "company": "PlusAI",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:0d69edb886321d54",
       "title": "Data Science Intern - Tiktok Shop-Supply Chain & Logistics",
       "url": "https://lifeattiktok.com/search/7644719084681234741",
@@ -12400,19 +12382,6 @@
       "location": "Palo Alto, CA",
       "department": "Hardware",
       "company": "Tesla",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:f8bfe29c74a5df11",
-      "title": "Enterprise Systems Software Engineer Intern",
-      "url": "https://www.zipline.com/careers?gh_jid=7767667003#open-roles",
-      "location": "San Bruno, CA",
-      "department": "Software",
-      "company": "Zipline",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -13498,19 +13467,6 @@
       "score": 75,
       "scoreReasons": [
         "SWE-aligned"
-      ]
-    },
-    {
-      "id": "canonical:0c6a01a05ca81c51",
-      "title": "Data Analyst Intern",
-      "url": "https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/New-York-NY/Data-Analyst-Intern_JR2987",
-      "location": "NYC",
-      "department": "AI/ML/Data",
-      "company": "RFCUNY",
-      "score": 68,
-      "scoreReasons": [
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -21469,19 +21425,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:cc1ecd880688e472",
-      "title": "Software Engineer Intern - Gears of War",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556956276",
-      "location": "Vancouver, BC, Canada",
-      "department": "Software",
-      "company": "Microsoft",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {

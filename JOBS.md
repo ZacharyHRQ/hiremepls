@@ -1,6 +1,6 @@
 # Open Internships
 
-**2031** internships across **179/179** companies — last updated 2026-08-12.
+**2027** internships across **179/179** companies — last updated 2026-08-13.
 
 ## Companies
 
@@ -398,7 +398,7 @@
 - [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (3)
 - [Microchip Technology](#microchip-technology) (6)
 - [Micron Technology](#micron-technology) (3)
-- [Microsoft](#microsoft) (9)
+- [Microsoft](#microsoft) (8)
 - [Mindsmith](#mindsmith) (1)
 - [Mistral AI](#mistral-ai) (1)
 - [Mizuho Securities USA](#mizuho-securities-usa) (1)
@@ -489,7 +489,7 @@
 - [Pika](#pika) (2)
 - [Pine Rest](#pine-rest) (1)
 - [Pinterest](#pinterest) (2)
-- [PlusAI](#plusai) (7)
+- [PlusAI](#plusai) (6)
 - [PNC Financial Services](#pnc-financial-services) (2)
 - [Point72](#point72) (18)
 - [pony.ai](#pony-ai) (2)
@@ -523,7 +523,7 @@
 - [ResponsiveAds](#responsiveads) (1)
 - [Revise Robotics](#revise-robotics) (1)
 - [Revvity](#revvity) (1)
-- [RFCUNY](#rfcuny) (2)
+- [RFCUNY](#rfcuny) (1)
 - [Rho](#rho) (1)
 - [Rippling](#rippling) (6)
 - [Rivian](#rivian) (3)
@@ -682,7 +682,7 @@
 - [Yotta Labs](#yotta-labs) (2)
 - [Zello](#zello) (1)
 - [Zettabyte](#zettabyte) (1)
-- [Zipline](#zipline) (3)
+- [Zipline](#zipline) (2)
 - [Zuru](#zuru) (1)
 
 ##  CCC Intelligent Solutions
@@ -3781,7 +3781,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Product Manager Intern](https://apply.careers.microsoft.com/careers/job/1970393556953113) | 50 | Remote | — | 2026-08-09 |
-| [Software Engineer Intern - Gears of War](https://apply.careers.microsoft.com/careers/job/1970393556956276) | 85 | Vancouver, BC, Canada | Software | 2026-08-07 |
 | [Software Engineer Intern, AI/ML & LLM](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922929) | 85 | Redmond, WA | — | 2026-08-04 |
 | [Software Engineer Intern, Data Platform/Analytics](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922931) | 85 | Redmond, WA | — | 2026-08-04 |
 | [Software Engineer Intern, Fullstack Product (Web + Services)](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922922) | 85 | Multiple Locations, United States | — | 2026-08-04 |
@@ -4503,7 +4502,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Deep Learning Research Intern - Multimodal BEV Perception](https://jobs.lever.co/plus-2/2ee24f85-bfa1-47fc-bfe3-fd07521a7b62/apply) | 68 | Santa Clara, CA | AI/ML/Data | 2026-08-07 |
-| [Research Engineer Intern - Mapping & Localization](https://jobs.lever.co/plus-2/efbb82d3-1c4a-4fc9-8b40-ee1545085061/apply) | 93 | Santa Clara, CA | AI/ML/Data | 2026-05-27 |
 | [Computer Vision Engineer Intern](https://jobs.lever.co/plus-2/c143df6e-66c2-4498-b19b-8323f9954ca9/apply) | 93 | Santa Clara, CA | AI/ML/Data | 2026-05-27 |
 | [Machine Learning Engineer Intern - Planning](https://jobs.lever.co/plus-2/91a07eb1-2244-48bf-a65b-dc166a327ddc/apply) | 93 | Santa Clara, CA | AI/ML/Data | 2026-05-24 |
 | [Scenario Simulation Intern](https://jobs.lever.co/plus-2/b4f750e7-0148-41f0-b2b1-ff054450a320/apply) | 68 | Santa Clara, CA | AI/ML/Data | 2026-05-23 |
@@ -4746,7 +4744,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [IT & Data Systems Intern - Archibus & Applications Development](https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/New-York-NY/IT---Data-Systems-Intern--Archibus---Applications-Development-_JR3276) | 68 | NYC | AI/ML/Data | 2026-08-01 |
-| [Data Analyst Intern](https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/New-York-NY/Data-Analyst-Intern_JR2987) | 68 | NYC | AI/ML/Data | 2026-08-01 |
 
 ## Rho
 
@@ -6108,7 +6105,6 @@
 | --- | --- | --- | --- | --- |
 | [Embedded Software Engineer Intern](https://www.zipline.com/careers?gh_jid=7765240003#open-roles) | 85 | San Bruno, CA | Hardware | 2026-08-04 |
 | [Mechatronics Perception Intern - Fall 2026](https://www.zipline.com/open-roles?gh_jid=7763697003) | 50 | South SF | Hardware | 2026-08-04 |
-| [Enterprise Systems Software Engineer Intern](https://www.zipline.com/careers?gh_jid=7767667003#open-roles) | 85 | San Bruno, CA | Software | 2026-07-21 |
 
 ## Zuru
 
