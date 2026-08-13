@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-13T11:38:23.444Z",
+  "generatedAt": "2026-08-13T12:30:27.283Z",
   "companyCount": 179,
   "okCount": 179,
-  "jobCount": 2042,
+  "jobCount": 2045,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2045,7 +2045,10 @@
     "canonical:f22c383e84d41e35": "2026-08-13T09:53:01.918Z",
     "canonical:b9acfe0029d0e293": "2026-08-13T11:38:23.444Z",
     "canonical:00074f14b5fec3d5": "2026-08-13T11:38:23.444Z",
-    "canonical:58dd154df069b7a6": "2026-08-13T11:38:23.444Z"
+    "canonical:58dd154df069b7a6": "2026-08-13T11:38:23.444Z",
+    "canonical:a68a09aabc3245d9": "2026-08-13T12:30:27.283Z",
+    "canonical:1869c3e8ff779ad9": "2026-08-13T12:30:27.283Z",
+    "canonical:ac81291362622ecd": "2026-08-13T12:30:27.283Z"
   },
   "jobs": [
     {
@@ -5169,6 +5172,86 @@
       ]
     },
     {
+      "id": "canonical:a68a09aabc3245d9",
+      "title": "Operations & Logistics Internship, Amazon Logistics",
+      "url": "https://amazon.jobs/en/jobs/10500718/operations-logistics-internship-amazon-logistics",
+      "location": "Kojetin",
+      "department": "Administrative Support",
+      "company": "Amazon",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:85f69ee29a2144d5",
+      "title": "Operations & Logistics Internship Abruzzo - Talent Pool",
+      "url": "https://amazon.jobs/en/jobs/10484620/operations-logistics-internship-abruzzo-talent-pool",
+      "location": "San Salvo",
+      "department": "Fulfillment & Operations Management",
+      "company": "Amazon",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:28587ac172fe3342",
+      "title": "Operations & Logistics Internship Emilia Romagna- Talent Pool",
+      "url": "https://amazon.jobs/en/jobs/10484559/operations-logistics-internship-emilia-romagna-talent-pool",
+      "location": "Spilamberto",
+      "department": "Fulfillment & Operations Management",
+      "company": "Amazon",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:96eb3c86fb5f2043",
+      "title": "Operations & Logistics Internship Friuli Venezia Giulia- Talent Pool",
+      "url": "https://amazon.jobs/en/jobs/10484579/operations-logistics-internship-friuli-venezia-giulia-talent-pool",
+      "location": "Udine",
+      "department": "Fulfillment & Operations Management",
+      "company": "Amazon",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:3e58718d23ad32ac",
+      "title": "Operations & Logistics Internship Lazio - Talent Pool",
+      "url": "https://amazon.jobs/en/jobs/10484439/operations-logistics-internship-lazio-talent-pool",
+      "location": "Passo Corese",
+      "department": "Fulfillment & Operations Management",
+      "company": "Amazon",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:2f808e8e258b99d3",
+      "title": "Operations & Logistics Internship Lombardia - Talent Pool",
+      "url": "https://amazon.jobs/en/jobs/10484409/operations-logistics-internship-lombardia-talent-pool",
+      "location": "Casirate Dadda",
+      "department": "Fulfillment & Operations Management",
+      "company": "Amazon",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:0e3f34b7706597e9",
+      "title": "Operations & Logistics Internship Piemonte - Talent Pool",
+      "url": "https://amazon.jobs/en/jobs/10484369/operations-logistics-internship-piemonte-talent-pool",
+      "location": "Torrazza",
+      "department": "Fulfillment & Operations Management",
+      "company": "Amazon",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
+      "id": "canonical:d6338326adc397d4",
+      "title": "Operations & Logistics Internship Veneto - Talent Pool",
+      "url": "https://amazon.jobs/en/jobs/10484489/operations-logistics-internship-veneto-talent-pool",
+      "location": "Rovigo",
+      "department": "Fulfillment & Operations Management",
+      "company": "Amazon",
+      "score": 50,
+      "scoreReasons": []
+    },
+    {
       "id": "canonical:9a6eb466353c5afa",
       "title": "2027 Financial Analyst Intern",
       "url": "https://amazon.jobs/en/jobs/10499685/2027-financial-analyst-intern",
@@ -5496,16 +5579,6 @@
       "scoreReasons": []
     },
     {
-      "id": "canonical:85f69ee29a2144d5",
-      "title": "Operations & Logistics Internship Abruzzo - Talent Pool",
-      "url": "https://amazon.jobs/en/jobs/10484620/operations-logistics-internship-abruzzo-talent-pool",
-      "location": "San Salvo",
-      "department": "Fulfillment & Operations Management",
-      "company": "Amazon",
-      "score": 50,
-      "scoreReasons": []
-    },
-    {
       "id": "canonical:e8eb36641706c2d0",
       "title": "Technical Business Developer Intern, 2026 Hong Kong",
       "url": "https://amazon.jobs/en/jobs/10394507/technical-business-developer-intern-2026-hong-kong",
@@ -5670,66 +5743,6 @@
       "scoreReasons": [
         "lower-fit title"
       ]
-    },
-    {
-      "id": "canonical:96eb3c86fb5f2043",
-      "title": "Operations & Logistics Internship Friuli Venezia Giulia- Talent Pool",
-      "url": "https://amazon.jobs/en/jobs/10484579/operations-logistics-internship-friuli-venezia-giulia-talent-pool",
-      "location": "Udine",
-      "department": "Fulfillment & Operations Management",
-      "company": "Amazon",
-      "score": 50,
-      "scoreReasons": []
-    },
-    {
-      "id": "canonical:28587ac172fe3342",
-      "title": "Operations & Logistics Internship Emilia Romagna- Talent Pool",
-      "url": "https://amazon.jobs/en/jobs/10484559/operations-logistics-internship-emilia-romagna-talent-pool",
-      "location": "Spilamberto",
-      "department": "Fulfillment & Operations Management",
-      "company": "Amazon",
-      "score": 50,
-      "scoreReasons": []
-    },
-    {
-      "id": "canonical:d6338326adc397d4",
-      "title": "Operations & Logistics Internship Veneto - Talent Pool",
-      "url": "https://amazon.jobs/en/jobs/10484489/operations-logistics-internship-veneto-talent-pool",
-      "location": "Rovigo",
-      "department": "Fulfillment & Operations Management",
-      "company": "Amazon",
-      "score": 50,
-      "scoreReasons": []
-    },
-    {
-      "id": "canonical:3e58718d23ad32ac",
-      "title": "Operations & Logistics Internship Lazio - Talent Pool",
-      "url": "https://amazon.jobs/en/jobs/10484439/operations-logistics-internship-lazio-talent-pool",
-      "location": "Passo Corese",
-      "department": "Fulfillment & Operations Management",
-      "company": "Amazon",
-      "score": 50,
-      "scoreReasons": []
-    },
-    {
-      "id": "canonical:2f808e8e258b99d3",
-      "title": "Operations & Logistics Internship Lombardia - Talent Pool",
-      "url": "https://amazon.jobs/en/jobs/10484409/operations-logistics-internship-lombardia-talent-pool",
-      "location": "Casirate Dadda",
-      "department": "Fulfillment & Operations Management",
-      "company": "Amazon",
-      "score": 50,
-      "scoreReasons": []
-    },
-    {
-      "id": "canonical:0e3f34b7706597e9",
-      "title": "Operations & Logistics Internship Piemonte - Talent Pool",
-      "url": "https://amazon.jobs/en/jobs/10484369/operations-logistics-internship-piemonte-talent-pool",
-      "location": "Torrazza",
-      "department": "Fulfillment & Operations Management",
-      "company": "Amazon",
-      "score": 50,
-      "scoreReasons": []
     },
     {
       "id": "canonical:efae17b38f305c76",
@@ -27419,6 +27432,34 @@
       "score": 42,
       "scoreReasons": [
         "aggregator link"
+      ]
+    },
+    {
+      "id": "canonical:1869c3e8ff779ad9",
+      "title": "Quantitative Developer - Internship - Summer 2027",
+      "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594",
+      "location": "New York, New York, United States (Remote)",
+      "department": "Quant / Summer 2027",
+      "company": "InfiniteQuant",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ac81291362622ecd",
+      "title": "Quantitative Researcher - Internship - Summer 2027",
+      "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000143292044",
+      "location": "New York, NY, United States",
+      "department": "Quant / Summer 2027",
+      "company": "InfiniteQuant",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {

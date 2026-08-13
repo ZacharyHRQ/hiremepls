@@ -1,6 +1,6 @@
 # Open Internships
 
-**2042** internships across **179/179** companies — last updated 2026-08-13.
+**2045** internships across **179/179** companies — last updated 2026-08-13.
 
 ## Companies
 
@@ -22,7 +22,7 @@
 - [Altamira Technologies](#altamira-technologies) (2)
 - [Altice USA](#altice-usa) (1)
 - [Altom Transport](#altom-transport) (1)
-- [Amazon](#amazon) (173)
+- [Amazon](#amazon) (174)
 - [Ambarella](#ambarella) (5)
 - [Amber Group](#amber-group) (1)
 - [Amcor](#amcor) (1)
@@ -325,7 +325,7 @@
 - [IMC Trading](#imc-trading) (29)
 - [Inbulks](#inbulks) (1)
 - [Incident IQ](#incident-iq) (1)
-- [InfiniteQuant](#infinitequant) (1)
+- [InfiniteQuant](#infinitequant) (3)
 - [Infojini](#infojini) (1)
 - [ING](#ing) (2)
 - [Inizio](#inizio) (1)
@@ -819,6 +819,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Operations & Logistics Internship, Amazon Logistics](https://amazon.jobs/en/jobs/10500718/operations-logistics-internship-amazon-logistics) | 50 | Kojetin | Administrative Support | 2026-08-13 |
 | [2027 Account Manager Intern](https://amazon.jobs/en/jobs/10499683/2027-account-manager-intern) | 50 | Cape Town | Administrative Support | 2026-08-12 |
 | [2027 Financial Analyst Intern](https://amazon.jobs/en/jobs/10499685/2027-financial-analyst-intern) | 50 | Cape Town | Administrative Support | 2026-08-12 |
 | [2027 Program/Product Manager Intern](https://amazon.jobs/en/jobs/10499684/2027-program-product-manager-intern) | 50 | Cape Town | Administrative Support | 2026-08-12 |
@@ -3208,6 +3209,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Quantitative Developer - Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594) | 93 | New York, New York, United States (Remote) | Quant / Summer 2027 | 2026-08-13 |
+| [Quantitative Researcher - Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143292044) | 93 | New York, NY, United States | Quant / Summer 2027 | 2026-08-13 |
 | [Quantitative Researcher Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000142560129) | 93 | Dubai - United Arab Emirates / NYC | Quant | 2026-07-20 |
 
 ## Infojini
