@@ -1,6 +1,6 @@
 # Open Internships
 
-**2044** internships across **179/179** companies — last updated 2026-08-13.
+**2041** internships across **179/179** companies — last updated 2026-08-13.
 
 ## Companies
 
@@ -56,7 +56,6 @@
 - [ASM Global](#asm-global) (4)
 - [ASM International](#asm-international) (1)
 - [ASML](#asml) (2)
-- [Assured Guaranty](#assured-guaranty) (1)
 - [Astera](#astera) (3)
 - [Astera Labs](#astera-labs) (3)
 - [Astranis](#astranis) (7)
@@ -182,7 +181,7 @@
 - [DE Shaw](#de-shaw) (1)
 - [Dedalus Labs](#dedalus-labs) (1)
 - [Deepgram](#deepgram) (2)
-- [Deloitte](#deloitte) (5)
+- [Deloitte](#deloitte) (4)
 - [Delta Air Lines](#delta-air-lines) (1)
 - [Delta Dental](#delta-dental) (1)
 - [Denari](#denari) (1)
@@ -677,7 +676,7 @@
 - [Warner Bros.](#warner-bros) (3)
 - [Waymo](#waymo) (1)
 - [Wells Fargo](#wells-fargo) (13)
-- [Western Digital](#western-digital) (4)
+- [Western Digital](#western-digital) (3)
 - [WindBorne Systems](#windborne-systems) (1)
 - [Winland Foods](#winland-foods) (1)
 - [Workato](#workato) (1)
@@ -1245,12 +1244,6 @@
 | --- | --- | --- | --- | --- |
 | [Internship - Software Development Engineer in Test](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Development-Engineer-in-Test_J-00328071) | 93 | San Jose, CA | Software Engineering | 2026-05-09 |
 | [Internship - Software Quality Assurance](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Software-Quality-Assurance_J-00327394) | 93 | San Jose, CA | Software Engineering | 2026-05-09 |
-
-## Assured Guaranty
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Product Software Developer Intern](https://boards.greenhouse.io/assuredguaranty/jobs/8700953002) | 93 | NYC | Software | 2026-08-12 |
 
 ## Astera
 
@@ -1982,12 +1975,12 @@
 | [AI Innovation Intern – Service Sales (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395) | 38 | In-Office | — | 2026-07-30 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-07-29 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077) | 58 | In-Office | — | 2026-07-02 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | 58 | In-Office | — | 2026-06-26 |
+| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | 58 | In-Office | — | 2026-06-26 |
 
 ## Cloudforce
 
@@ -2071,7 +2064,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Data Analyst Intern](https://apply.workable.com/connectprep/j/C0CA13664F/apply) | 68 | Washington, DC / Remote in USA | AI/ML/Data | 2026-08-01 |
+| [Data Analyst Intern](https://apply.workable.com/connectprep/j/D1C67258C0/apply) | 68 | Washington, DC / Remote in USA | AI/ML/Data | 2026-08-01 |
 | [Data Analyst Internship](https://apply.workable.com/connectprep/j/D1C67258C0/) | 68 | Washington, District of Columbia, United States (Remote) | Data & ML/AI / Not stated | 2026-07-20 |
 
 ## ConocoPhillips
@@ -2219,7 +2212,6 @@
 | [AI and Data Engineering Summer Scholar Intern - Government & Public Services](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-AI-and-Data-Engineering/362479) | 85 | Austin, TX | AI/ML/Data | 2026-08-11 |
 | [Software Engineering Analyst Intern - Government & Public Services](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Software-Engineering/362448) | 85 | Austin, TX | Software | 2026-08-11 |
 | [Summer Scholar Intern - Government & Public Services - Cyber Software Engineering](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Cyber-Software-Engineering/362346) | 85 | Austin, TX | Software | 2026-08-10 |
-| [Risk Analytics Analyst Intern - Government & Public Services](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Risk-Analytics/360270) | 60 | Rosslyn, Arlington, VA | AI/ML/Data | 2026-08-10 |
 
 ## Delta Air Lines
 
@@ -6084,7 +6076,6 @@
 | [Summer 2027 Intern - Software Engineering](https://jobs.smartrecruiters.com/WesternDigital/744000143171017) | 93 | San Jose, CA, United States | Software / Summer 2027 | 2026-08-12 |
 | [Hardware Engineering Intern](https://jobs.smartrecruiters.com/WesternDigital/744000140949875) | 58 | Fremont, CA / Rochester, MN / San Jose, CA / Irvine, CA / Colorado Springs, CO / Longmont, CO | Hardware | 2026-07-31 |
 | [Failure Analysis Automation Engineer Intern - Failure Analysis Automation Engineering](https://jobs.smartrecruiters.com/WesternDigital/744000139338269) | 93 | San Jose, CA | AI/ML/Data | 2026-07-23 |
-| [Software Engineer Intern](https://jobs.smartrecruiters.com/WesternDigital/744000138727213) | 93 | Fremont, CA / Rochester, MN / San Jose, CA / Irvine, CA / Colorado Springs, CO / Longmont, CO | Software | 2026-07-20 |
 
 ## WindBorne Systems
 
