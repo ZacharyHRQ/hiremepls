@@ -11,6 +11,8 @@ export type AtsKind =
   | "smartrecruiters"
   | "workable"
   | "amazon"
+  | "recruitee"
+  | "personio"
   | "manual";
 
 export interface Company {

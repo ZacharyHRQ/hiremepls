@@ -186,6 +186,13 @@
   { "name": "Decagon", "ats": "ashby", "slug": "decagon" },
   { "name": "Crusoe", "ats": "ashby", "slug": "crusoe" },
   { "name": "Lambda", "ats": "ashby", "slug": "lambda" },
+  { "name": "Helsing", "ats": "greenhouse", "slug": "helsing" },
+  { "name": "Fastned", "ats": "recruitee", "slug": "fastned" },
+  { "name": "Wingcopter", "ats": "personio", "slug": "wingcopter" },
+  { "name": "Scalable Capital", "ats": "personio", "slug": "scalablecapital" },
+  { "name": "Trade Republic", "ats": "personio", "slug": "traderepublic" },
+  { "name": "Solarisbank", "ats": "personio", "slug": "solarisbank" },
+  { "name": "Deepset", "ats": "personio", "slug": "deepset" },
 
   { "name": "SimplifyJobs 2026", "ats": "simplify", "slug": "" },
   {

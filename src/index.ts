@@ -11,6 +11,8 @@ import { fetchRipplingAlgolia } from "./ats/ripplingAlgolia.ts";
 import { fetchSmartRecruiters } from "./ats/smartrecruiters.ts";
 import { fetchWorkable } from "./ats/workable.ts";
 import { fetchAmazon } from "./ats/amazon.ts";
+import { fetchRecruitee } from "./ats/recruitee.ts";
+import { fetchPersonio } from "./ats/personio.ts";
 import {
   isInternship,
   isSoftwareEngineering,
@@ -62,6 +64,8 @@ async function fetchCompany(c: Company): Promise<Job[]> {
   if (c.ats === "smartrecruiters") return fetchSmartRecruiters(c);
   if (c.ats === "workable") return fetchWorkable(c);
   if (c.ats === "amazon") return fetchAmazon(c);
+  if (c.ats === "recruitee") return fetchRecruitee(c);
+  if (c.ats === "personio") return fetchPersonio(c);
   if (c.ats === "manual") return [];
   throw new Error(`unknown ats: ${c.ats}`);
 }
