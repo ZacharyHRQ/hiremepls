@@ -32,8 +32,8 @@
     "8052351",
     "7976964",
     "8027946",
-    "8002998",
     "7975008",
+    "8002998",
     "7977145",
     "8027955",
     "8027939",
@@ -43,9 +43,9 @@
     "7982648",
     "8002989",
     "7975026",
-    "8007788",
-    "8000323",
     "8027952",
+    "8000323",
+    "8007788",
     "7565728",
     "7974943",
     "8003019"
@@ -53,10 +53,10 @@
   "DRW": [
     "7997729",
     "7981754",
-    "7992936",
     "8020364",
-    "7991196",
     "7942281",
+    "7992936",
+    "7991196",
     "8014910",
     "8127242"
   ],
@@ -128,8 +128,8 @@
   "MongoDB": [],
   "Cloudflare": [
     "8089407",
-    "8089379",
     "8089400",
+    "8089379",
     "8118845",
     "8052785"
   ],
@@ -1279,6 +1279,7 @@
     "github-json:zshah101-summer-2027-fall-2026:workday:americanfidelity:/job/Oklahoma-City-Oklahoma/Software-Dev-Internship_JR1005",
     "github-json:zshah101-summer-2027-fall-2026:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875",
     "github-json:zshah101-summer-2027-fall-2026:workday:cccis:/job/Chicago-Green-St-IL/Data-Science-Engineer-Internship_0014843",
+    "github-json:zshah101-summer-2027-fall-2026:workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255",
     "github-json:zshah101-summer-2027-fall-2026:workday:gdit:/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1",
     "github-json:zshah101-summer-2027-fall-2026:workday:copart:/job/Dallas-TX---Headquarters/Data-Analytics-Engineer-Intern_JR110584",
     "github-json:zshah101-summer-2027-fall-2026:workday:bah:/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869",
@@ -1337,8 +1338,6 @@
     "github-json:zshah101-summer-2027-fall-2026:ashby:deepgram:dc8693b5-72ce-4ca3-ab15-9c8434d35da1",
     "github-json:zshah101-summer-2027-fall-2026:workable:wallstreetquants:494E392FD3",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:oldmissioncapital:7796180003",
-    "github-json:zshah101-summer-2027-fall-2026:workday:copart:/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109689",
-    "github-json:zshah101-summer-2027-fall-2026:workday:copart:/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109673",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:thetradedesk:5187605007",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:fiveringsllc:5349707008",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:akunacapital:8018847",
@@ -1500,7 +1499,6 @@
     "simplify:91c0873c-728c-4585-9b82-4d3dd3dd4253",
     "simplify:9a900104-2a94-4f83-8db2-d908f008ed99",
     "simplify:19adb890-3588-42e8-ac86-3d099f703889",
-    "simplify:275b40b6-35f1-4ef6-9c1b-741a35b72c1f",
     "simplify:aba3cf97-4ffd-4dce-876d-ab3305231512",
     "simplify:128e7ee0-9110-45e1-992d-270f1fa2be3d",
     "simplify:97e6ece1-7a71-4d9d-a1b3-255d28e56d89",
@@ -1712,7 +1710,6 @@
     "simplify:2c50d66a-bdb8-46dc-8a47-f505dcf9f116",
     "simplify:1d80a1df-6557-427b-8e92-f3380038cd16",
     "simplify:5b9e82eb-e170-450f-9dfe-62e7281dc8ae",
-    "simplify:26ca5f88-4aa3-47dd-b7c2-3d192287ce69",
     "simplify:da1074aa-7344-4ad3-9b53-078f1dbd2edc",
     "simplify:d0302d05-c84f-4a36-a91e-cc293f08604e",
     "simplify:4b0a0a22-ba97-43e6-b131-336344fb7fe6",
@@ -2204,7 +2201,8 @@
     "simplify:b3254ba9-4ac8-4f93-8a5a-67c31517f742",
     "simplify:46378d7c-8f2b-4684-9119-6454bb14df9b",
     "simplify:cfe783b7-14a9-475b-b867-fa47ee7a6ba7",
-    "simplify:4c0cebd4-5e15-474e-8493-34860927bdfb"
+    "simplify:4c0cebd4-5e15-474e-8493-34860927bdfb",
+    "simplify:a5d3459d-3d46-44dd-8e4e-693ca7320203"
   ],
   "DoorDash": [],
   "Waymo": [
@@ -2307,7 +2305,6 @@
     "simplify:91c0873c-728c-4585-9b82-4d3dd3dd4253",
     "simplify:9a900104-2a94-4f83-8db2-d908f008ed99",
     "simplify:19adb890-3588-42e8-ac86-3d099f703889",
-    "simplify:275b40b6-35f1-4ef6-9c1b-741a35b72c1f",
     "simplify:aba3cf97-4ffd-4dce-876d-ab3305231512",
     "simplify:128e7ee0-9110-45e1-992d-270f1fa2be3d",
     "simplify:97e6ece1-7a71-4d9d-a1b3-255d28e56d89",
@@ -2519,7 +2516,6 @@
     "simplify:2c50d66a-bdb8-46dc-8a47-f505dcf9f116",
     "simplify:1d80a1df-6557-427b-8e92-f3380038cd16",
     "simplify:5b9e82eb-e170-450f-9dfe-62e7281dc8ae",
-    "simplify:26ca5f88-4aa3-47dd-b7c2-3d192287ce69",
     "simplify:da1074aa-7344-4ad3-9b53-078f1dbd2edc",
     "simplify:d0302d05-c84f-4a36-a91e-cc293f08604e",
     "simplify:4b0a0a22-ba97-43e6-b131-336344fb7fe6",
@@ -3011,7 +3007,8 @@
     "simplify:b3254ba9-4ac8-4f93-8a5a-67c31517f742",
     "simplify:46378d7c-8f2b-4684-9119-6454bb14df9b",
     "simplify:cfe783b7-14a9-475b-b867-fa47ee7a6ba7",
-    "simplify:4c0cebd4-5e15-474e-8493-34860927bdfb"
+    "simplify:4c0cebd4-5e15-474e-8493-34860927bdfb",
+    "simplify:a5d3459d-3d46-44dd-8e4e-693ca7320203"
   ],
   "Wintermute": [],
   "QCP": [

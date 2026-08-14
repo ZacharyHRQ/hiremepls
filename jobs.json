@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-14T08:35:49.863Z",
+  "generatedAt": "2026-08-14T09:41:28.560Z",
   "companyCount": 186,
   "okCount": 186,
-  "jobCount": 1012,
+  "jobCount": 1013,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -984,7 +984,6 @@
     "canonical:cb08f28c3bde9687": "2026-08-13T02:43:38.281Z",
     "canonical:12340fe797f32227": "2026-08-13T02:43:38.281Z",
     "canonical:8ae106b08e40c5b5": "2026-08-13T02:43:38.281Z",
-    "canonical:8e710bc5e4b99b30": "2026-08-13T05:57:03.471Z",
     "canonical:a9e958b1247a0838": "2026-08-13T07:18:17.639Z",
     "canonical:3641d13c0a0beaf1": "2026-08-13T07:18:17.639Z",
     "canonical:9a5c9f0aebd01b12": "2026-08-13T07:18:17.639Z",
@@ -1015,7 +1014,9 @@
     "canonical:e6670721215235f6": "2026-08-14T04:28:02.113Z",
     "canonical:fdfacbd06a834e6a": "2026-08-14T04:28:02.113Z",
     "canonical:9f0b12f85f203d4e": "2026-08-14T04:28:02.113Z",
-    "canonical:e8969dcd0d1a310a": "2026-08-14T07:07:48.026Z"
+    "canonical:e8969dcd0d1a310a": "2026-08-14T07:07:48.026Z",
+    "canonical:eb8d4c567ea12e08": "2026-08-14T09:41:28.560Z",
+    "canonical:84b32739e26a143e": "2026-08-14T09:41:28.560Z"
   },
   "jobs": [
     {
@@ -1342,10 +1343,10 @@
       ]
     },
     {
-      "id": "canonical:d1d20c5456576574",
+      "id": "canonical:adc1bdd879675b5a",
       "title": "Campus Data Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
-      "location": "Chicago",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7975008",
+      "location": "London",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -1355,10 +1356,10 @@
       ]
     },
     {
-      "id": "canonical:adc1bdd879675b5a",
+      "id": "canonical:d1d20c5456576574",
       "title": "Campus Data Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7975008",
-      "location": "London",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
+      "location": "Chicago",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -1485,10 +1486,10 @@
       ]
     },
     {
-      "id": "canonical:3b590c340646bfa7",
+      "id": "canonical:4d567555739a50bd",
       "title": "Campus Systems Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
-      "location": "Chicago",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
+      "location": "Singapore",
       "department": "",
       "company": "Jump Trading",
       "score": 75,
@@ -1509,10 +1510,10 @@
       ]
     },
     {
-      "id": "canonical:4d567555739a50bd",
+      "id": "canonical:3b590c340646bfa7",
       "title": "Campus Systems Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
-      "location": "Singapore",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
+      "location": "Chicago",
       "department": "",
       "company": "Jump Trading",
       "score": 75,
@@ -1588,20 +1589,6 @@
       ]
     },
     {
-      "id": "canonical:1d41c103b87b651a",
-      "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
-      "location": "Chicago, IL",
-      "department": "Software",
-      "company": "DRW",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:f9963438d881a851",
       "title": "Software Developer Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
@@ -1616,10 +1603,10 @@
       ]
     },
     {
-      "id": "canonical:81000bcd395c1244",
+      "id": "canonical:bd72b8a6944f6777",
       "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
-      "location": "Montreal, QC, Canada",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
+      "location": "London, UK",
       "department": "Software",
       "company": "DRW",
       "score": 93,
@@ -1630,10 +1617,24 @@
       ]
     },
     {
-      "id": "canonical:bd72b8a6944f6777",
+      "id": "canonical:1d41c103b87b651a",
       "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
-      "location": "London, UK",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
+      "location": "Chicago, IL",
+      "department": "Software",
+      "company": "DRW",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:81000bcd395c1244",
+      "title": "Software Developer Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
+      "location": "Montreal, QC, Canada",
       "department": "Software",
       "company": "DRW",
       "score": 93,
@@ -1658,8 +1659,8 @@
       ]
     },
     {
-      "id": "canonical:8e710bc5e4b99b30",
-      "title": "Software Developer Intern (Data Engineering)",
+      "id": "canonical:eb8d4c567ea12e08",
+      "title": "Software Engineer Intern (Data Engineering)",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/8127242",
       "location": "Singapore",
       "department": "",
@@ -12330,6 +12331,19 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:84b32739e26a143e",
+      "title": "Mobile Software Engineer Intern - Global E-Commerce",
+      "url": "https://lifeattiktok.com/search/7673663349758675205",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
