@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-14T00:04:52.458Z",
+  "generatedAt": "2026-08-14T02:42:40.336Z",
   "companyCount": 186,
   "okCount": 186,
-  "jobCount": 1015,
+  "jobCount": 1012,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -471,7 +471,6 @@
     "canonical:d9dd9592117efd45": "2026-07-22T01:04:17.268Z",
     "canonical:09230a2dbad3916e": "2026-07-22T04:30:46.300Z",
     "canonical:c76fbea5d5eba789": "2026-07-22T11:30:09.788Z",
-    "canonical:a5e52b57015d254e": "2026-07-22T11:30:09.788Z",
     "canonical:0f4a52f7d1dc29c7": "2026-07-22T13:08:02.810Z",
     "canonical:907e0eb62b4d94cf": "2026-07-22T23:37:47.994Z",
     "canonical:37ba4790d497d153": "2026-07-22T23:37:47.994Z",
@@ -674,7 +673,6 @@
     "canonical:8fa19e59aa634156": "2026-08-01T20:39:53.991Z",
     "canonical:5beb63ad5b91a27f": "2026-08-01T20:39:53.991Z",
     "canonical:12b419c9a4fc7350": "2026-08-01T20:39:53.991Z",
-    "canonical:c732f09cdb180531": "2026-08-01T20:39:53.991Z",
     "canonical:f7cc88ceef2bcc36": "2026-08-01T21:34:07.254Z",
     "canonical:e793dd21f092256d": "2026-08-01T21:34:07.254Z",
     "canonical:c37a67d5e82096c6": "2026-08-01T21:34:07.254Z",
@@ -972,7 +970,6 @@
     "canonical:aece095750619adf": "2026-08-12T16:32:38.617Z",
     "canonical:a050afb4a6afe403": "2026-08-12T16:32:38.617Z",
     "canonical:04172e347ecd89c6": "2026-08-12T17:38:04.745Z",
-    "canonical:c6690b19f98de110": "2026-08-12T21:10:05.758Z",
     "canonical:c044a7e192c15a57": "2026-08-12T21:10:05.758Z",
     "canonical:afe000cd060460db": "2026-08-12T21:10:05.758Z",
     "canonical:cee27f704d5023f1": "2026-08-12T21:10:05.758Z",
@@ -8352,20 +8349,6 @@
       ]
     },
     {
-      "id": "canonical:c732f09cdb180531",
-      "title": "Software Engineer Intern",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/UK--Edinburgh---19A-Canning-St/Software-Engineering-Intern--3-12-Months-_R031332",
-      "location": "Edinburgh, UK",
-      "department": "Hardware",
-      "company": "Ciena",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:d9dd9592117efd45",
       "title": "Rust Software Engineer Intern - Chip Design Tools",
       "url": "https://jobs.ashbyhq.com/fab2/907766af-a3c0-49a3-b01e-246baa437d10/application?embed=true",
@@ -10393,20 +10376,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:c6690b19f98de110",
-      "title": "Software Developer Intern",
-      "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1",
-      "location": "Annapolis Junction, MD",
-      "department": "Software",
-      "company": "General Dynamics Information Technology",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -14324,6 +14293,20 @@
       ]
     },
     {
+      "id": "canonical:1d87142e66472af4",
+      "title": "Summer 2027 Software Developer Internship",
+      "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1",
+      "location": "USA MD Annapolis Junction",
+      "department": "Software / Summer 2027",
+      "company": "General Dynamics Information Technology",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:ddb21727e49634e8",
       "title": "Data Analytics Engineer Intern",
       "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Analytics-Engineer-Intern_JR110584",
@@ -14344,20 +14327,6 @@
       "location": "Farmington Hills, MI, United States",
       "department": "Software / Not stated",
       "company": "Bosch",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:1d87142e66472af4",
-      "title": "Summer 2027 Software Developer Internship",
-      "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225450-1",
-      "location": "USA MD Annapolis Junction",
-      "department": "Software / Summer 2027",
-      "company": "General Dynamics Information Technology",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -14637,20 +14606,6 @@
       "location": "New York City",
       "department": "Software / Fall 2026",
       "company": "Junior",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:a5e52b57015d254e",
-      "title": "Internship - Veeda AI Scientist",
-      "url": "https://jobs.ashbyhq.com/veeda-labs/58cc42fb-1d6f-4e5f-860d-3b97bdccc6f4",
-      "location": "California",
-      "department": "Data & ML/AI / Not stated",
-      "company": "Veeda AI",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",

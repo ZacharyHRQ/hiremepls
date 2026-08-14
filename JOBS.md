@@ -1,6 +1,6 @@
 # Open Internships
 
-**1015** internships across **186/186** companies — last updated 2026-08-14.
+**1012** internships across **186/186** companies — last updated 2026-08-14.
 
 ## Companies
 
@@ -73,7 +73,7 @@
 - [Cerebras](#cerebras) (2)
 - [Chevron Corporation](#chevron-corporation) (1)
 - [Chicago Trading Company](#chicago-trading-company) (2)
-- [Ciena](#ciena) (3)
+- [Ciena](#ciena) (2)
 - [Circleback](#circleback) (1)
 - [Cirrus Logic](#cirrus-logic) (1)
 - [Citadel](#citadel) (9)
@@ -133,7 +133,7 @@
 - [Frontier Health](#frontier-health) (1)
 - [GE Vernova](#ge-vernova) (1)
 - [Gemini](#gemini) (1)
-- [General Dynamics Information Technology](#general-dynamics-information-technology) (3)
+- [General Dynamics Information Technology](#general-dynamics-information-technology) (2)
 - [General Dynamics Mission Systems](#general-dynamics-mission-systems) (1)
 - [GenMD](#genmd) (1)
 - [Georgian Partners Growth](#georgian-partners-growth) (1)
@@ -363,7 +363,7 @@
 - [Valstad](#valstad) (1)
 - [Varda Space](#varda-space) (1)
 - [Veeam Software](#veeam-software) (1)
-- [Veeda AI](#veeda-ai) (2)
+- [Veeda AI](#veeda-ai) (1)
 - [Veeva](#veeva) (1)
 - [Verne Robotics](#verne-robotics) (1)
 - [Vertiv](#vertiv) (1)
@@ -946,7 +946,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Developer Intern - Fall 2026](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Fall-2026_R031492) | 93 | Ottawa, ON, Canada | Hardware | 2026-08-07 |
 | [WaveLogic Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/WaveLogic-Software---Intern_R031443) | 93 | Ottawa, ON, Canada | Hardware | 2026-08-01 |
-| [Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/UK--Edinburgh---19A-Canning-St/Software-Engineering-Intern--3-12-Months-_R031332) | 93 | Edinburgh, UK | Hardware | 2026-08-01 |
 
 ## Circleback
 
@@ -1353,8 +1352,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Developer Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1) | 93 | Annapolis Junction, MD | Software | 2026-08-12 |
-| [Summer 2027 Software Developer Internship](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225450-1) | 93 | USA MD Annapolis Junction | Software / Summer 2027 | 2026-08-10 |
+| [Summer 2027 Software Developer Internship](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1) | 93 | USA MD Annapolis Junction | Software / Summer 2027 | 2026-08-10 |
 | [Systems Engineer Intern](https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity) | 75 | Albany, NY | — | 2026-07-30 |
 
 ## General Dynamics Mission Systems
@@ -3165,7 +3163,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [AI Scientist Intern - Veeda AI Scientist](https://jobs.ashbyhq.com/veeda-labs/58cc42fb-1d6f-4e5f-860d-3b97bdccc6f4/application?embed=true) | 93 | Seattle, WA / Toronto, ON, Canada / California | AI/ML/Data | 2026-08-01 |
-| [Internship - Veeda AI Scientist](https://jobs.ashbyhq.com/veeda-labs/58cc42fb-1d6f-4e5f-860d-3b97bdccc6f4) | 93 | California | Data & ML/AI / Not stated | 2026-07-22 |
 
 ## Veeva
 
