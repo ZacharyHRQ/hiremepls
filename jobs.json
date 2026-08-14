@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-14T22:38:27.992Z",
+  "generatedAt": "2026-08-14T22:57:06.363Z",
   "companyCount": 186,
   "okCount": 186,
-  "jobCount": 1024,
+  "jobCount": 1026,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1027,7 +1027,9 @@
     "canonical:e34d54a98e46db9c": "2026-08-14T22:38:27.992Z",
     "canonical:e31c6f05c180cfcc": "2026-08-14T22:38:27.992Z",
     "canonical:0fcedda01cafb728": "2026-08-14T22:38:27.992Z",
-    "canonical:4f80923d88ed59e9": "2026-08-14T22:38:27.992Z"
+    "canonical:4f80923d88ed59e9": "2026-08-14T22:38:27.992Z",
+    "canonical:054a6ad4d0b8930f": "2026-08-14T22:57:06.363Z",
+    "canonical:77077aa3870a7868": "2026-08-14T22:57:06.363Z"
   },
   "jobs": [
     {
@@ -14384,6 +14386,34 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:054a6ad4d0b8930f",
+      "title": "Software Engineering Intern",
+      "url": "https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Software-Engineering-Intern_R058261",
+      "location": "USA, California, Remote",
+      "department": "Software / Not stated",
+      "company": "First American",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:77077aa3870a7868",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern--Summer-2027-_01866136",
+      "location": "US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131",
+      "department": "Software / Summer 2027",
+      "company": "RTX",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
