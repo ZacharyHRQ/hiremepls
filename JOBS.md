@@ -1,6 +1,6 @@
 # Open Internships
 
-**1012** internships across **186/186** companies — last updated 2026-08-14.
+**1013** internships across **186/186** companies — last updated 2026-08-14.
 
 ## Companies
 
@@ -354,6 +354,7 @@
 - [Tower Research](#tower-research) (1)
 - [Tower Research Capital](#tower-research-capital) (2)
 - [Tradeweb](#tradeweb) (1)
+- [TransMarket Group](#transmarket-group) (1)
 - [Trata](#trata) (1)
 - [Trillium](#trillium) (1)
 - [Two Sigma](#two-sigma) (2)
@@ -3102,6 +3103,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Tradeweb International Intern Program - JavaScript UI Developer - Technology Division](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301721) | 85 | London, UK | Software | 2026-05-09 |
+
+## TransMarket Group
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineering Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5212335007?gh_jid=5212335007) | 93 | Chicago, Illinois, United States | Software / Not stated | 2026-08-14 |
 
 ## Trata
 
