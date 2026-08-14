@@ -1,6 +1,6 @@
 # Open Internships
 
-**1012** internships across **186/186** companies — last updated 2026-08-14.
+**1011** internships across **186/186** companies — last updated 2026-08-14.
 
 ## Companies
 
@@ -336,7 +336,6 @@
 - [Teledyne](#teledyne) (1)
 - [Tencent](#tencent) (3)
 - [Tenstorrent](#tenstorrent) (1)
-- [Terminal](#terminal) (1)
 - [Terranova](#terranova) (1)
 - [Terranox AI](#terranox-ai) (1)
 - [Tesla](#tesla) (67)
@@ -1345,7 +1344,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Engineering Intern](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2) | 93 | Niskayuna, NY | Software | 2026-08-12 |
+| [Engineering Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-1) | 93 | Niskayuna, NY | Software | 2026-08-12 |
 
 ## Gemini
 
@@ -2835,12 +2834,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern - Power Modeling & AI Tools](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007) | 93 | Santa Clara, CA | Software | 2026-07-23 |
-
-## Terminal
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Intern - Backend](https://jobs.ashbyhq.com/terminal/6855293e-a817-4b70-835c-cd57e3bfcfde/application?embed=true) | 93 | Toronto, ON, Canada | Software | 2026-08-07 |
 
 ## Terranova
 

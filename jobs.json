@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-14T12:03:48.139Z",
+  "generatedAt": "2026-08-14T13:37:22.676Z",
   "companyCount": 186,
   "okCount": 186,
-  "jobCount": 1012,
+  "jobCount": 1011,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -835,7 +835,6 @@
     "canonical:b2ec21f033deda74": "2026-08-06T09:05:10.260Z",
     "canonical:0bcde6c5e5e98b72": "2026-08-06T11:30:41.010Z",
     "canonical:06c0a2c3751f2622": "2026-08-07T00:35:31.024Z",
-    "canonical:646d47c8079d4595": "2026-08-07T00:35:31.024Z",
     "canonical:0f259dc0186e372e": "2026-08-07T00:35:31.024Z",
     "canonical:1b9ebef2b324c80c": "2026-08-07T00:35:31.024Z",
     "canonical:e49df8e50ad33a69": "2026-08-07T00:35:31.024Z",
@@ -8018,6 +8017,19 @@
       ]
     },
     {
+      "id": "canonical:38a7d4388515b288",
+      "title": "Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI",
+      "url": "https://ats.rippling.com/spreeai/jobs/aa087086-dd4b-42be-a499-051546655e97",
+      "location": "SF",
+      "department": "AI/ML/Data",
+      "company": "SpreeAI ",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:5c2778d446a1f22f",
       "title": "Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web",
       "url": "https://ats.rippling.com/spreeai/jobs/c52472cb-2671-45d7-b666-17196dc3df25",
@@ -10600,20 +10612,6 @@
       ]
     },
     {
-      "id": "canonical:646d47c8079d4595",
-      "title": "Software Engineer Intern - Backend",
-      "url": "https://jobs.ashbyhq.com/terminal/6855293e-a817-4b70-835c-cd57e3bfcfde/application?embed=true",
-      "location": "Toronto, ON, Canada",
-      "department": "Software",
-      "company": "Terminal",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:0f259dc0186e372e",
       "title": "Software Engineer Intern - Winter 2027",
       "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002",
@@ -11910,7 +11908,7 @@
     {
       "id": "canonical:1d9a6ab2e69dc85c",
       "title": "Engineering Intern",
-      "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-1",
       "location": "Niskayuna, NY",
       "department": "Software",
       "company": "GE Vernova",
@@ -12311,19 +12309,6 @@
       "location": "Seattle, WA",
       "department": "AI/ML/Data",
       "company": "ByteDance",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:38a7d4388515b288",
-      "title": "Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI",
-      "url": "https://ats.rippling.com/spreeai/jobs/aa087086-dd4b-42be-a499-051546655e97",
-      "location": "SF",
-      "department": "AI/ML/Data",
-      "company": "SpreeAI ",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
