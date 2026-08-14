@@ -15,7 +15,7 @@
 - [AlixPartners](#alixpartners) (1)
 - [Altice USA](#altice-usa) (1)
 - [Amazon](#amazon) (34)
-- [Ambarella](#ambarella) (2)
+- [Ambarella](#ambarella) (1)
 - [American Fidelity](#american-fidelity) (1)
 - [Amgen](#amgen) (1)
 - [Analytical Mechanics Associates](#analytical-mechanics-associates) (1)
@@ -62,7 +62,7 @@
 - [Boston Consulting Group](#boston-consulting-group) (2)
 - [Bot Auto](#bot-auto) (1)
 - [Bree](#bree) (1)
-- [ByteDance](#bytedance) (51)
+- [ByteDance](#bytedance) (52)
 - [Caddi Workflow Automation](#caddi-workflow-automation) (1)
 - [Cadence Design Systems](#cadence-design-systems) (3)
 - [Calpion/Plutus Health](#calpion-plutus-health) (1)
@@ -498,7 +498,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Algorithm Engineer Intern](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Algorithm-Engineer-Intern_JR100102) | 93 | United States | AI/ML/Data | 2026-07-21 |
 | [Software Engineer Intern](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Engineer-Intern_JR100107) | 93 | United States | Hardware | 2026-07-21 |
 
 ## American Fidelity
@@ -812,6 +811,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Self-Built Engineer Intern - CDN Platform](https://jobs.bytedance.com/en/position/7673608499872827701/detail) | 85 | Seattle, WA | AI/ML/Data | 2026-08-14 |
 | [Self-Built Engineer Intern - CDN Platform](https://jobs.bytedance.com/en/position/7670364362450733317/detail) | 85 | San Jose, CA | AI/ML/Data | 2026-08-13 |
 | [Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7672391300141877557/detail) | 85 | Seattle, WA | AI/ML/Data | 2026-08-11 |
 | [Data Lake Infrastructure & Data Analytics Research Engineer Intern - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7672394389001816325/detail) | 85 | Seattle, WA | AI/ML/Data | 2026-08-11 |
