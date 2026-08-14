@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-14T19:12:10.235Z",
+  "generatedAt": "2026-08-14T19:54:56.748Z",
   "companyCount": 186,
   "okCount": 186,
-  "jobCount": 1016,
+  "jobCount": 1020,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1019,7 +1019,11 @@
     "canonical:5cab31cbf6934d69": "2026-08-14T18:12:14.855Z",
     "canonical:93b116c97812aac7": "2026-08-14T18:12:14.855Z",
     "canonical:4d78f79e8d1374e1": "2026-08-14T18:12:14.855Z",
-    "canonical:4f9dd5454ba6f609": "2026-08-14T19:12:10.235Z"
+    "canonical:4f9dd5454ba6f609": "2026-08-14T19:12:10.235Z",
+    "canonical:0f0825d68c7a5a74": "2026-08-14T19:54:56.748Z",
+    "canonical:d1561a9bc2032e11": "2026-08-14T19:54:56.748Z",
+    "canonical:e9b0dc5a1b4f8614": "2026-08-14T19:54:56.748Z",
+    "canonical:aee6db1fb5f1c1ec": "2026-08-14T19:54:56.748Z"
   },
   "jobs": [
     {
@@ -3271,6 +3275,36 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
+        "direct ATS",
+        "unknown location"
+      ]
+    },
+    {
+      "id": "canonical:0f0825d68c7a5a74",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "url": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c",
+      "location": "San Francisco, California",
+      "department": "Software / Summer 2027",
+      "company": "Notion",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:d1561a9bc2032e11",
+      "title": "Software Engineer, New Grad (Dec 2026)",
+      "url": "https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816",
+      "location": "",
+      "department": "Early Career",
+      "company": "Notion",
+      "score": 96,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
         "direct ATS",
         "unknown location"
       ]
@@ -14264,6 +14298,34 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:e9b0dc5a1b4f8614",
+      "title": "Data Analytics Developer Intern",
+      "url": "https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041",
+      "location": "Chicago IL USA",
+      "department": "Data & ML/AI / Not stated",
+      "company": "Crowe",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:aee6db1fb5f1c1ec",
+      "title": "Software Engineer Intern",
+      "url": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Software-Engineer-Intern_REQ2026076575",
+      "location": "Troy, MI",
+      "department": "Software / Not stated",
+      "company": "Valeo",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {

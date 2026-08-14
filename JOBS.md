@@ -1,6 +1,6 @@
 # Open Internships
 
-**1016** internships across **186/186** companies — last updated 2026-08-14.
+**1020** internships across **186/186** companies — last updated 2026-08-14.
 
 ## Companies
 
@@ -91,7 +91,7 @@
 - [Cotiviti](#cotiviti) (1)
 - [Creatify Lab ](#creatify-lab) (1)
 - [Cresta](#cresta) (1)
-- [Crowe](#crowe) (2)
+- [Crowe](#crowe) (3)
 - [CTGT](#ctgt) (1)
 - [Cubist Systematic Strategies](#cubist-systematic-strategies) (1)
 - [Cybernetic Labs](#cybernetic-labs) (3)
@@ -245,7 +245,7 @@
 - [Nightwing Intelligence Solutions](#nightwing-intelligence-solutions) (1)
 - [Nio](#nio) (1)
 - [Northrop Grumman](#northrop-grumman) (1)
-- [Notion](#notion) (5)
+- [Notion](#notion) (7)
 - [NTT DATA AIVista](#ntt-data-aivista) (1)
 - [Nuro](#nuro) (2)
 - [NVIDIA](#nvidia) (2)
@@ -362,6 +362,7 @@
 - [Two Sigma](#two-sigma) (2)
 - [Uber](#uber) (1)
 - [Uline](#uline) (1)
+- [Valeo](#valeo) (1)
 - [Valstad](#valstad) (1)
 - [Varda Space](#varda-space) (1)
 - [Veeam Software](#veeam-software) (1)
@@ -1079,6 +1080,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data Analytics Developer Intern](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041) | 93 | Chicago IL USA | Data & ML/AI / Not stated | 2026-08-14 |
 | [AI Engineering Intern](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Engineering-Intern_R-51782) | 93 | Chicago, IL | AI/ML/Data | 2026-08-13 |
 | [AI Engineering Intern](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/AI-Engineering-Intern_R-51782) | 93 | Chicago IL USA | Data & ML/AI / Not stated | 2026-08-13 |
 
@@ -2135,6 +2137,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer, New Grad (Dec 2026)](https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816) | 96 | — | Early Career | 2026-08-14 |
+| [Software Engineer Intern (Summer 2027)](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c) | 93 | San Francisco, California | Software / Summer 2027 | 2026-08-14 |
 | [Software Engineer Intern (Winter 2027)](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8) | 90 | — | Early Career | 2026-08-14 |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90) | 93 | San Francisco, CA | — | 2026-07-30 |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/notion/fc762b58-24c9-4f34-bf5f-2af6e8adc644) | 93 | San Francisco, CA / New York, NY | — | 2026-07-09 |
@@ -3155,6 +3159,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Business Intelligence Developer Intern](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Business-Intelligence-Developer-Internship---Summer-2027_R265685) | 93 | Waukegan, IL / Milwaukee, WI / Glenview, IL / Pleasant Prairie, WI / Kenosha, WI | AI/ML/Data | 2026-08-04 |
+
+## Valeo
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Software-Engineer-Intern_REQ2026076575) | 93 | Troy, MI | Software / Not stated | 2026-08-14 |
 
 ## Valstad
 
