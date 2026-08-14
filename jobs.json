@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-14T05:54:05.353Z",
+  "generatedAt": "2026-08-14T07:07:48.026Z",
   "companyCount": 186,
   "okCount": 186,
-  "jobCount": 1011,
+  "jobCount": 1012,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1014,7 +1014,8 @@
     "canonical:e5e162dd2e1bc6a8": "2026-08-13T23:22:47.944Z",
     "canonical:e6670721215235f6": "2026-08-14T04:28:02.113Z",
     "canonical:fdfacbd06a834e6a": "2026-08-14T04:28:02.113Z",
-    "canonical:9f0b12f85f203d4e": "2026-08-14T04:28:02.113Z"
+    "canonical:9f0b12f85f203d4e": "2026-08-14T04:28:02.113Z",
+    "canonical:e8969dcd0d1a310a": "2026-08-14T07:07:48.026Z"
   },
   "jobs": [
     {
@@ -12315,6 +12316,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:e8969dcd0d1a310a",
+      "title": "Fullstack Engineer Intern - Product Team",
+      "url": "https://jobs.ashbyhq.com/composio/eea3c0be-8589-4e3d-a684-de29a9eada0d/application?embed=true",
+      "location": "SF",
+      "department": "Software",
+      "company": "Composio",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {

@@ -1,6 +1,6 @@
 # Open Internships
 
-**1011** internships across **186/186** companies — last updated 2026-08-14.
+**1012** internships across **186/186** companies — last updated 2026-08-14.
 
 ## Companies
 
@@ -83,6 +83,7 @@
 - [Cloudflare](#cloudflare) (7)
 - [Codeage](#codeage) (1)
 - [Cohere](#cohere) (2)
+- [Composio](#composio) (1)
 - [Constellation Space](#constellation-space) (1)
 - [Copart](#copart) (5)
 - [Core & Main](#core-main) (2)
@@ -1019,6 +1020,12 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern (Fall / Winter 2026)](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254) | 90 | — | Internships | 2026-07-02 |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254/application) | 93 | Toronto, ON, Canada / SF / NYC | Software | 2026-05-09 |
+
+## Composio
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Fullstack Engineer Intern - Product Team](https://jobs.ashbyhq.com/composio/eea3c0be-8589-4e3d-a684-de29a9eada0d/application?embed=true) | 93 | SF | Software | 2026-08-14 |
 
 ## Constellation Space
 
