@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-14T17:23:17.625Z",
+  "generatedAt": "2026-08-14T18:12:14.855Z",
   "companyCount": 186,
   "okCount": 186,
-  "jobCount": 1012,
+  "jobCount": 1015,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1015,7 +1015,10 @@
     "canonical:1f8be94ab116ffd4": "2026-08-14T10:38:55.819Z",
     "canonical:c246f55f8c194616": "2026-08-14T15:28:02.269Z",
     "canonical:bc95081b076c3dcf": "2026-08-14T15:28:02.269Z",
-    "canonical:8259ecab6797bdc6": "2026-08-14T16:22:00.196Z"
+    "canonical:8259ecab6797bdc6": "2026-08-14T16:22:00.196Z",
+    "canonical:5cab31cbf6934d69": "2026-08-14T18:12:14.855Z",
+    "canonical:93b116c97812aac7": "2026-08-14T18:12:14.855Z",
+    "canonical:4d78f79e8d1374e1": "2026-08-14T18:12:14.855Z"
   },
   "jobs": [
     {
@@ -12303,6 +12306,33 @@
       ]
     },
     {
+      "id": "canonical:5cab31cbf6934d69",
+      "title": "AI Engineer Intern - Innovation Team",
+      "url": "https://www.dmgmedia.co.uk/careers/jobs/id/8130352?gh_jid=8130352",
+      "location": "London, UK",
+      "department": "AI/ML/Data",
+      "company": "Dmg Media",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:93b116c97812aac7",
+      "title": "Benefit Tool Developer Intern - Month Fixed Term Contract",
+      "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-AC-ABERDEEN-BAKER-HUGHES-BUILDING/Intern---Benefit-Tool-Developer--12-Month-Fixed-Term-Contract-_R168066",
+      "location": "Aberdeen, UK",
+      "department": "AI/ML/Data",
+      "company": "Baker Hughes",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:12cd06c0eec80152",
       "title": "Frontend Software Engineer Intern",
       "url": "https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c",
@@ -14218,6 +14248,19 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:4d78f79e8d1374e1",
+      "title": "Intern Firmware Engineering",
+      "url": "https://generac.wd5.myworkdayjobs.com/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR16149",
+      "location": "Reno, NV - USA",
+      "department": "Hardware / Not stated",
+      "company": "Generac",
+      "score": 83,
+      "scoreReasons": [
+        "SWE-aligned",
+        "direct ATS"
       ]
     },
     {

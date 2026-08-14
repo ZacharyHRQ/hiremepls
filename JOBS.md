@@ -1,6 +1,6 @@
 # Open Internships
 
-**1012** internships across **186/186** companies — last updated 2026-08-14.
+**1015** internships across **186/186** companies — last updated 2026-08-14.
 
 ## Companies
 
@@ -45,6 +45,7 @@
 - [Axiomatic AI](#axiomatic-ai) (2)
 - [Axis Capital](#axis-capital) (1)
 - [Axon](#axon) (4)
+- [Baker Hughes](#baker-hughes) (1)
 - [Base Power](#base-power) (2)
 - [Beacon Software](#beacon-software) (2)
 - [Belvedere Trading](#belvedere-trading) (2)
@@ -104,6 +105,7 @@
 - [Dexmate](#dexmate) (1)
 - [Digs](#digs) (1)
 - [DimeHealth AI](#dimehealth-ai) (1)
+- [Dmg Media](#dmg-media) (1)
 - [Docugami](#docugami) (1)
 - [Droyd Robotics](#droyd-robotics) (1)
 - [DRW](#drw) (10)
@@ -134,6 +136,7 @@
 - [Frontier Health](#frontier-health) (1)
 - [GE Vernova](#ge-vernova) (1)
 - [Gemini](#gemini) (1)
+- [Generac](#generac) (1)
 - [General Dynamics Information Technology](#general-dynamics-information-technology) (2)
 - [General Dynamics Mission Systems](#general-dynamics-mission-systems) (1)
 - [GenMD](#genmd) (1)
@@ -697,6 +700,12 @@
 | [Software Engineering Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003) | 93 | Boston, MA / Seattle, WA | Software | 2026-07-27 |
 | [Firmware Engineering Internship](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800628003) | 83 | Boston, MA / Seattle, WA | Hardware | 2026-07-27 |
 
+## Baker Hughes
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Benefit Tool Developer Intern - Month Fixed Term Contract](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-AC-ABERDEEN-BAKER-HUGHES-BUILDING/Intern---Benefit-Tool-Developer--12-Month-Fixed-Term-Contract-_R168066) | 93 | Aberdeen, UK | AI/ML/Data | 2026-08-14 |
+
 ## Base Power
 
 | Title | Score | Location | Department | First seen |
@@ -1156,6 +1165,12 @@
 | --- | --- | --- | --- | --- |
 | [Forward Deployed Engineering Intern](https://www.workatastartup.com/jobs/94211) | 81 | New York, NY | — | 2026-07-09 |
 
+## Dmg Media
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI Engineer Intern - Innovation Team](https://www.dmgmedia.co.uk/careers/jobs/id/8130352?gh_jid=8130352) | 85 | London, UK | AI/ML/Data | 2026-08-14 |
+
 ## Docugami
 
 | Title | Score | Location | Department | First seen |
@@ -1351,6 +1366,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](https://job-boards.greenhouse.io/embed/job_app?for=gemini&token=7875125) | 93 | New York, NY | — | 2026-07-28 |
+
+## Generac
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Intern Firmware Engineering](https://generac.wd5.myworkdayjobs.com/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR16149) | 83 | Reno, NV - USA | Hardware / Not stated | 2026-08-14 |
 
 ## General Dynamics Information Technology
 
