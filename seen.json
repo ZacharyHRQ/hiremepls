@@ -32,8 +32,8 @@
     "8052351",
     "7976964",
     "8027946",
-    "8002998",
     "7975008",
+    "8002998",
     "7977145",
     "8027955",
     "8027939",
@@ -53,10 +53,10 @@
   "DRW": [
     "7997729",
     "7981754",
-    "8020364",
     "7942281",
-    "7991196",
+    "8020364",
     "7992936",
+    "7991196",
     "8014910",
     "8127242"
   ],
@@ -2044,7 +2044,6 @@
     "simplify:b59992d0-e14b-4009-9121-ed1172ad9b24",
     "simplify:ac3e3883-21b0-4ad1-8011-bf5060c01aab",
     "simplify:7a398a79-2792-4181-8700-a5fbd8d17e76",
-    "simplify:cbd56b83-ba52-4c04-b781-d4ae5e585151",
     "simplify:87667d11-6adc-446a-9b2e-15e0dc0b761b",
     "simplify:daba25e4-9e11-4769-bf2a-22371dbb26a5",
     "simplify:3341457c-dacb-42db-bb9e-af3db4702f0a",
@@ -2203,7 +2202,11 @@
     "simplify:1ed38264-654d-4366-b1fc-9e0df58b47a0",
     "simplify:58f7e9f6-b7b9-4af8-bfd7-466b0e3255e7",
     "simplify:45df96a1-aefa-4c09-ae4c-5c32680da300",
-    "simplify:8876789e-be2c-4a8f-9478-572e3f0085cb"
+    "simplify:8876789e-be2c-4a8f-9478-572e3f0085cb",
+    "simplify:449fbbfa-ffc9-46b4-8983-f3bb67052e03",
+    "simplify:b3254ba9-4ac8-4f93-8a5a-67c31517f742",
+    "simplify:46378d7c-8f2b-4684-9119-6454bb14df9b",
+    "simplify:cfe783b7-14a9-475b-b867-fa47ee7a6ba7"
   ],
   "DoorDash": [],
   "Waymo": [
@@ -2848,7 +2851,6 @@
     "simplify:b59992d0-e14b-4009-9121-ed1172ad9b24",
     "simplify:ac3e3883-21b0-4ad1-8011-bf5060c01aab",
     "simplify:7a398a79-2792-4181-8700-a5fbd8d17e76",
-    "simplify:cbd56b83-ba52-4c04-b781-d4ae5e585151",
     "simplify:87667d11-6adc-446a-9b2e-15e0dc0b761b",
     "simplify:daba25e4-9e11-4769-bf2a-22371dbb26a5",
     "simplify:3341457c-dacb-42db-bb9e-af3db4702f0a",
@@ -3007,7 +3009,11 @@
     "simplify:1ed38264-654d-4366-b1fc-9e0df58b47a0",
     "simplify:58f7e9f6-b7b9-4af8-bfd7-466b0e3255e7",
     "simplify:45df96a1-aefa-4c09-ae4c-5c32680da300",
-    "simplify:8876789e-be2c-4a8f-9478-572e3f0085cb"
+    "simplify:8876789e-be2c-4a8f-9478-572e3f0085cb",
+    "simplify:449fbbfa-ffc9-46b4-8983-f3bb67052e03",
+    "simplify:b3254ba9-4ac8-4f93-8a5a-67c31517f742",
+    "simplify:46378d7c-8f2b-4684-9119-6454bb14df9b",
+    "simplify:cfe783b7-14a9-475b-b867-fa47ee7a6ba7"
   ],
   "Wintermute": [],
   "QCP": [

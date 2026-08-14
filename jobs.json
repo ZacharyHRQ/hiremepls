@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-14T02:42:40.336Z",
+  "generatedAt": "2026-08-14T04:28:02.113Z",
   "companyCount": 186,
   "okCount": 186,
-  "jobCount": 1012,
+  "jobCount": 1013,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -808,7 +808,6 @@
     "canonical:39b952a6e394b9d9": "2026-08-04T15:42:03.554Z",
     "canonical:fc88d88d07c0c6cd": "2026-08-04T17:19:05.834Z",
     "canonical:e2c152c623d8c2e3": "2026-08-04T17:19:05.834Z",
-    "canonical:24bc6528e0437c46": "2026-08-04T22:51:33.061Z",
     "canonical:1397ff60cc88bfb6": "2026-08-04T23:53:58.307Z",
     "canonical:ffc2cc38852953d4": "2026-08-05T01:39:42.673Z",
     "canonical:960918f0c7889298": "2026-08-05T01:39:42.673Z",
@@ -1010,12 +1009,14 @@
     "canonical:8c33dd8961483d6c": "2026-08-13T17:09:36.735Z",
     "canonical:27a09e08b462cce2": "2026-08-13T17:09:36.735Z",
     "canonical:9b2571ad2c92f469": "2026-08-13T20:02:08.936Z",
-    "canonical:3c98819eee65993d": "2026-08-13T20:02:08.936Z",
     "canonical:48635e7437bbccae": "2026-08-13T21:47:03.239Z",
     "canonical:c6062debf2a20902": "2026-08-13T23:22:47.944Z",
     "canonical:3d21be998abcfdbd": "2026-08-13T23:22:47.944Z",
     "canonical:384018ef9fafd329": "2026-08-13T23:22:47.944Z",
-    "canonical:e5e162dd2e1bc6a8": "2026-08-13T23:22:47.944Z"
+    "canonical:e5e162dd2e1bc6a8": "2026-08-13T23:22:47.944Z",
+    "canonical:e6670721215235f6": "2026-08-14T04:28:02.113Z",
+    "canonical:fdfacbd06a834e6a": "2026-08-14T04:28:02.113Z",
+    "canonical:9f0b12f85f203d4e": "2026-08-14T04:28:02.113Z"
   },
   "jobs": [
     {
@@ -1342,10 +1343,10 @@
       ]
     },
     {
-      "id": "canonical:d1d20c5456576574",
+      "id": "canonical:adc1bdd879675b5a",
       "title": "Campus Data Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
-      "location": "Chicago",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7975008",
+      "location": "London",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -1355,10 +1356,10 @@
       ]
     },
     {
-      "id": "canonical:adc1bdd879675b5a",
+      "id": "canonical:d1d20c5456576574",
       "title": "Campus Data Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7975008",
-      "location": "London",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
+      "location": "Chicago",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -1588,20 +1589,6 @@
       ]
     },
     {
-      "id": "canonical:f9963438d881a851",
-      "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
-      "location": "Amsterdam",
-      "department": "",
-      "company": "DRW",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:bd72b8a6944f6777",
       "title": "Software Developer Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
@@ -1616,11 +1603,11 @@
       ]
     },
     {
-      "id": "canonical:81000bcd395c1244",
+      "id": "canonical:f9963438d881a851",
       "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
-      "location": "Montreal, QC, Canada",
-      "department": "Software",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
+      "location": "Amsterdam",
+      "department": "",
       "company": "DRW",
       "score": 93,
       "scoreReasons": [
@@ -1634,6 +1621,20 @@
       "title": "Software Developer Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
       "location": "Chicago, IL",
+      "department": "Software",
+      "company": "DRW",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:81000bcd395c1244",
+      "title": "Software Developer Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
+      "location": "Montreal, QC, Canada",
       "department": "Software",
       "company": "DRW",
       "score": 93,
@@ -10366,19 +10367,6 @@
       ]
     },
     {
-      "id": "canonical:24bc6528e0437c46",
-      "title": "Software Engineer Intern - R&D - FPGA",
-      "url": "https://jobs.keysight.com/jobs/53636?icims=1",
-      "location": "Santa Clara, CA / Calabasas, CA",
-      "department": "Hardware",
-      "company": "Keysight Technologies",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:ffc2cc38852953d4",
       "title": "Machine Learning Engineer Intern - Data-Global E-Commerce-Search",
       "url": "https://lifeattiktok.com/search/7668415591670417717",
@@ -12319,6 +12307,46 @@
       ]
     },
     {
+      "id": "canonical:e6670721215235f6",
+      "title": "Software Developer Intern Co-op - Asset Management Digital Solutions - Software Developer",
+      "url": "https://careers.kpmg.ca/jobs/33306?icims=1",
+      "location": "Toronto, ON, Canada",
+      "department": "Software",
+      "company": "KPMG",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:fdfacbd06a834e6a",
+      "title": "Software Engineer Intern - NHRC",
+      "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193",
+      "location": "Huntsville, AL",
+      "department": "Software",
+      "company": "Teledyne",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:9f0b12f85f203d4e",
+      "title": "Trading Desk Operations Engineer Intern",
+      "url": "https://www.janestreet.com/join-jane-street/apply/8700980002?gh_jid=8700980002",
+      "location": "London, UK",
+      "department": "Quant",
+      "company": "Jane Street",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:12cd06c0eec80152",
       "title": "Frontend Software Engineer Intern",
       "url": "https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c",
@@ -14243,20 +14271,6 @@
       "location": "Chicago IL USA",
       "department": "Data & ML/AI / Not stated",
       "company": "Crowe",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:3c98819eee65993d",
-      "title": "NHRC Software Engineering Internship (Summer 2027)",
-      "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193",
-      "location": "US - Huntsville, AL",
-      "department": "Software / Summer 2027",
-      "company": "Teledyne",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",

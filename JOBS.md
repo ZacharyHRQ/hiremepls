@@ -1,6 +1,6 @@
 # Open Internships
 
-**1012** internships across **186/186** companies — last updated 2026-08-14.
+**1013** internships across **186/186** companies — last updated 2026-08-14.
 
 ## Companies
 
@@ -175,7 +175,7 @@
 - [Internship](#internship) (1)
 - [Intuitive Surgical](#intuitive-surgical) (1)
 - [Jade Global](#jade-global) (1)
-- [Jane Street](#jane-street) (11)
+- [Jane Street](#jane-street) (12)
 - [John Deere](#john-deere) (1)
 - [JP Morgan Chase](#jp-morgan-chase) (1)
 - [JPMorganChase](#jpmorganchase) (1)
@@ -184,11 +184,11 @@
 - [Junior AI](#junior-ai) (1)
 - [k-ID](#k-id) (1)
 - [Kastle AI](#kastle-ai) (1)
-- [Keysight Technologies](#keysight-technologies) (1)
 - [Kimley-Horn](#kimley-horn) (1)
 - [KLA](#kla) (1)
 - [Kognitos](#kognitos) (1)
 - [kos.ai](#kos-ai) (1)
+- [KPMG](#kpmg) (1)
 - [Lawrence Livermore National Laboratory (LLNL)](#lawrence-livermore-national-laboratory-llnl) (1)
 - [Leidos](#leidos) (1)
 - [LPL Financial Holdings](#lpl-financial-holdings) (2)
@@ -1630,6 +1630,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Trading Desk Operations Engineer Intern](https://www.janestreet.com/join-jane-street/apply/8700980002?gh_jid=8700980002) | 85 | London, UK | Quant | 2026-08-14 |
 | [Linux Engineer Intern](https://www.janestreet.com/join-jane-street/apply/8626146002?gh_jid=8626146002) | 85 | London, UK | Software | 2026-08-03 |
 | [Software Engineer Intern](https://www.janestreet.com/join-jane-street/apply/8589868002?gh_jid=8589868002) | 85 | London, UK | Software | 2026-08-03 |
 | [Data Engineer Intern](https://www.janestreet.com/join-jane-street/position/8631973002/) | 85 | New York, NY | — | 2026-07-24 |
@@ -1725,12 +1726,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/kastle/6f32db51-de45-472f-a9c8-d9419d3634ee/application?embed=true) | 93 | SF | Software | 2026-08-07 |
 
-## Keysight Technologies
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Intern - R&D - FPGA](https://jobs.keysight.com/jobs/53636?icims=1) | 85 | Santa Clara, CA / Calabasas, CA | Hardware | 2026-08-04 |
-
 ## Kimley-Horn
 
 | Title | Score | Location | Department | First seen |
@@ -1754,6 +1749,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/kos.ai/efab6ffb-9658-47f7-8b5f-a295c55957d3/application) | 93 | SF | Software | 2026-08-01 |
+
+## KPMG
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Developer Intern Co-op - Asset Management Digital Solutions - Software Developer](https://careers.kpmg.ca/jobs/33306?icims=1) | 85 | Toronto, ON, Canada | Software | 2026-08-14 |
 
 ## Lawrence Livermore National Laboratory (LLNL)
 
@@ -2815,7 +2816,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [NHRC Software Engineering Internship (Summer 2027)](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193) | 93 | US - Huntsville, AL | Software / Summer 2027 | 2026-08-13 |
+| [Software Engineer Intern - NHRC](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193) | 93 | Huntsville, AL | Software | 2026-08-14 |
 
 ## Tencent
 
