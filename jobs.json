@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-13T23:22:47.944Z",
+  "generatedAt": "2026-08-14T00:04:52.458Z",
   "companyCount": 186,
   "okCount": 186,
-  "jobCount": 1023,
+  "jobCount": 1015,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -109,11 +109,8 @@
     "canonical:7ab57e97fb879c0f": "2026-06-06T15:40:28.831Z",
     "canonical:7906b1bff6dfef42": "2026-06-07T01:56:06.706Z",
     "canonical:5f5f4291563c764e": "2026-06-07T01:56:06.706Z",
-    "canonical:551d3ef7a63a8047": "2026-06-07T01:56:06.706Z",
     "canonical:00da794bf6e2eed9": "2026-06-07T01:56:06.706Z",
-    "canonical:59ece841c5623d5e": "2026-06-07T01:56:06.706Z",
     "canonical:ef2b41f33d0d6b98": "2026-06-07T01:56:06.706Z",
-    "canonical:493342a1a4fa0803": "2026-06-07T01:56:06.706Z",
     "canonical:29fdb193792038c4": "2026-06-07T01:56:06.706Z",
     "canonical:db0080d8fe4190e3": "2026-06-07T09:43:12.130Z",
     "canonical:27af27128fc52c29": "2026-06-07T09:43:12.130Z",
@@ -121,13 +118,11 @@
     "canonical:472afbb7e1eb560d": "2026-06-07T09:43:12.130Z",
     "canonical:5a67a98fabd00752": "2026-06-07T09:43:12.130Z",
     "canonical:681b4aad01eba811": "2026-06-08T07:01:35.019Z",
-    "canonical:ed3091faa90e59ef": "2026-06-08T07:01:35.019Z",
     "canonical:e8d4f3f5b0ae7484": "2026-06-08T07:01:35.019Z",
     "canonical:782cfcad8628b60f": "2026-06-08T07:01:35.019Z",
     "canonical:a9fec30c036e9862": "2026-06-09T10:23:15.549Z",
     "canonical:5c6da3333f2763a6": "2026-06-09T23:41:04.347Z",
     "canonical:3cfa8d538fe65c66": "2026-06-09T23:41:04.347Z",
-    "canonical:a408343a5d65fbb1": "2026-06-11T01:44:46.869Z",
     "canonical:481abe28ff8a5d8b": "2026-06-11T11:07:45.069Z",
     "canonical:30d3864435f150b7": "2026-06-11T11:07:45.069Z",
     "canonical:17f48dbc6cffe995": "2026-06-11T11:07:45.069Z",
@@ -165,7 +160,6 @@
     "canonical:2212e3fbe2cb1a38": "2026-07-01T06:55:26.212Z",
     "canonical:b06c1c658f9e9640": "2026-07-01T06:55:26.212Z",
     "canonical:8bbf5106040685f9": "2026-07-01T06:55:26.212Z",
-    "canonical:3e20e348fe7e7c8d": "2026-07-01T06:55:26.212Z",
     "canonical:c0eb083bfbe7a4b1": "2026-07-01T06:55:26.212Z",
     "canonical:1c5596e89463019b": "2026-07-01T06:55:26.212Z",
     "canonical:06a5a711379628ba": "2026-07-01T06:55:26.212Z",
@@ -445,7 +439,6 @@
     "canonical:c8a575c78cf2837d": "2026-07-20T23:30:05.931Z",
     "canonical:40f4a990c528ee6c": "2026-07-20T23:30:05.931Z",
     "canonical:692e540aae052d72": "2026-07-20T23:30:05.931Z",
-    "canonical:836096831e4c3187": "2026-07-21T04:15:38.512Z",
     "canonical:b87404da5255e720": "2026-07-21T04:15:38.512Z",
     "canonical:74ad0f81645977ec": "2026-07-21T04:15:38.512Z",
     "canonical:cb4d3a946d4982dc": "2026-07-21T04:15:38.512Z",
@@ -847,7 +840,6 @@
     "canonical:b2ec21f033deda74": "2026-08-06T09:05:10.260Z",
     "canonical:0bcde6c5e5e98b72": "2026-08-06T11:30:41.010Z",
     "canonical:06c0a2c3751f2622": "2026-08-07T00:35:31.024Z",
-    "canonical:3991fa2cbfee863d": "2026-08-07T00:35:31.024Z",
     "canonical:646d47c8079d4595": "2026-08-07T00:35:31.024Z",
     "canonical:0f259dc0186e372e": "2026-08-07T00:35:31.024Z",
     "canonical:1b9ebef2b324c80c": "2026-08-07T00:35:31.024Z",
@@ -5654,19 +5646,6 @@
       ]
     },
     {
-      "id": "canonical:551d3ef7a63a8047",
-      "title": "Software Engineer Intern - Software Engineer - Data Platforms",
-      "url": "https://www.tesla.com/careers/search/job/267004",
-      "location": "Palo Alto, CA",
-      "department": "Software",
-      "company": "Tesla",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:2e59ae295d4fdbbf",
       "title": "Software Engineer Intern - Linux Update Systems",
       "url": "https://www.tesla.com/careers/search/job/266986",
@@ -5693,36 +5672,10 @@
       ]
     },
     {
-      "id": "canonical:59ece841c5623d5e",
-      "title": "Data Engineer Intern - Data Engineer - Energy",
-      "url": "https://www.tesla.com/careers/search/job/271331",
-      "location": "Palo Alto, CA",
-      "department": "AI/ML/Data",
-      "company": "Tesla",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:ef2b41f33d0d6b98",
       "title": "Mobile App Software Engineer Intern - Mobile Application Software Engineer - Energy Engineering",
       "url": "https://www.tesla.com/careers/search/job/271382",
       "location": "Palo Alto, CA",
-      "department": "Software",
-      "company": "Tesla",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:493342a1a4fa0803",
-      "title": "Software Engineer Intern - Software Engineer - Energy Engineering",
-      "url": "https://www.tesla.com/careers/search/job/271362",
-      "location": "Palo Alto, CA / Fremont, CA",
       "department": "Software",
       "company": "Tesla",
       "score": 85,
@@ -5840,19 +5793,6 @@
       "url": "https://www.tesla.com/careers/search/job/257048",
       "location": "Palo Alto, CA",
       "department": "Software",
-      "company": "Tesla",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:ed3091faa90e59ef",
-      "title": "Energy Engineering Intern - Cost Reduction",
-      "url": "https://www.tesla.com/careers/search/job/270511",
-      "location": "Palo Alto, CA",
-      "department": "AI/ML/Data",
       "company": "Tesla",
       "score": 85,
       "scoreReasons": [
@@ -6007,19 +5947,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:a408343a5d65fbb1",
-      "title": "Supercharger Product Engineer Intern - Supercharger Product Support Engineering",
-      "url": "https://www.tesla.com/careers/search/job/273531",
-      "location": "Palo Alto, CA",
-      "department": "AI/ML/Data",
-      "company": "Tesla",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -6694,18 +6621,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:3e20e348fe7e7c8d",
-      "title": "Inline Metrology Systems Design/Engineer Intern - Cell Engineering",
-      "url": "https://www.tesla.com/careers/search/job/275335",
-      "location": "Fremont, CA",
-      "department": "Hardware",
-      "company": "Tesla",
-      "score": 75,
-      "scoreReasons": [
-        "SWE-aligned"
       ]
     },
     {
@@ -8057,20 +7972,6 @@
       "location": "NYC",
       "department": "Software",
       "company": "Junior AI",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:836096831e4c3187",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/fab2/947338ca-e135-4398-9aa3-79e131bc03d5/application?embed=true",
-      "location": "SF",
-      "department": "Software",
-      "company": "Fab2",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -10780,20 +10681,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:3991fa2cbfee863d",
-      "title": "Software Engineer Intern - Data Platform",
-      "url": "https://jobs.ashbyhq.com/terminal/d7e128ed-617c-4b9b-9e42-0e909fb25729/application?embed=true",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Terminal",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
