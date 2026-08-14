@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-14T22:57:06.363Z",
+  "generatedAt": "2026-08-14T23:16:20.876Z",
   "companyCount": 186,
   "okCount": 186,
-  "jobCount": 1026,
+  "jobCount": 1025,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -854,7 +854,6 @@
     "canonical:88993e05b592ff54": "2026-08-07T03:36:51.941Z",
     "canonical:891a0ad00e27b373": "2026-08-07T03:36:51.941Z",
     "canonical:99dccf87dcbce75a": "2026-08-07T03:36:51.941Z",
-    "canonical:d036fda9de6fb486": "2026-08-07T03:36:51.941Z",
     "canonical:2e54d6318abbdf1f": "2026-08-07T06:40:16.218Z",
     "canonical:8a41c952f8219db3": "2026-08-07T06:40:16.218Z",
     "canonical:f51807ef02a26de3": "2026-08-07T07:56:51.250Z",
@@ -14855,20 +14854,6 @@
       "location": "Atlanta, GA",
       "department": "Software / Fall 2026",
       "company": "Hermeus",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:d036fda9de6fb486",
-      "title": "Intern - Embedded Software, System, and Test Engineer - 2026",
-      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/Intern---Embedded-Software--System--and-Test-Engineer---2026_R62372",
-      "location": "Irvine, CA",
-      "department": "Software / Fall 2026",
-      "company": "Motorola",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",

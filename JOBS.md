@@ -1,6 +1,6 @@
 # Open Internships
 
-**1026** internships across **186/186** companies — last updated 2026-08-14.
+**1025** internships across **186/186** companies — last updated 2026-08-14.
 
 ## Companies
 
@@ -225,7 +225,7 @@
 - [Montenson](#montenson) (1)
 - [Moog](#moog) (1)
 - [Moon](#moon) (1)
-- [Motorola](#motorola) (2)
+- [Motorola](#motorola) (1)
 - [Multiply Labs](#multiply-labs) (2)
 - [Muru](#muru) (2)
 - [MyEmployment](#myemployment) (1)
@@ -2011,7 +2011,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Android Platform Software Engineer Intern - Summer 2027](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1) | 93 | Schaumburg, IL / Plantation, FL | Software | 2026-08-14 |
-| [Intern - Embedded Software, System, and Test Engineer - 2026](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/Intern---Embedded-Software--System--and-Test-Engineer---2026_R62372) | 93 | Irvine, CA | Software / Fall 2026 | 2026-08-07 |
 
 ## Multiply Labs
 
