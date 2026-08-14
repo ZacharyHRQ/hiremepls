@@ -2066,6 +2066,7 @@
     "simplify:d22b9a28-466e-4bdc-aa6e-bb61ca96a1e7",
     "simplify:ca012a00-87e1-40b7-ac6f-1464ce5ad2f1",
     "simplify:83e8dcee-3e30-49d2-97e2-42937bcfe4fa",
+    "simplify:40fce4fe-2ffc-4371-9b54-174b5b8f649b",
     "simplify:5379a4df-fa7a-4799-8978-00d1844415b9",
     "simplify:8695d3de-326d-44ff-976a-ba070dbbe750",
     "simplify:25caade8-8d17-4ab4-bf25-ec493e15a86a",
@@ -2207,7 +2208,14 @@
     "simplify:acad052e-b794-4a83-82c4-4d5ff40c200d",
     "simplify:a46d596b-c711-4444-99f7-3c846ae35bb6",
     "simplify:4d2fd538-d00b-4c2f-9137-dd8193ee0066",
-    "simplify:25747e2e-ee6b-44e3-bc88-704d6db5696a"
+    "simplify:25747e2e-ee6b-44e3-bc88-704d6db5696a",
+    "simplify:990a1adb-e945-417c-b734-fb15286f993b",
+    "simplify:3bbe3661-8a0b-43c9-a4f7-5c1b984cc3f9",
+    "simplify:18a8a6d4-4cc6-4e2c-bcc6-db027db69988",
+    "simplify:adeac3f1-1c24-456d-a09f-179101c39c2f",
+    "simplify:ab4dacc0-3b0f-4a64-8351-f7ee4198e2ab",
+    "simplify:f097b101-bba2-4782-92c8-8b5bf641c43d",
+    "simplify:cf012f7c-ffe4-475e-ab48-18debac5047e"
   ],
   "DoorDash": [],
   "Waymo": [
@@ -2875,6 +2883,7 @@
     "simplify:d22b9a28-466e-4bdc-aa6e-bb61ca96a1e7",
     "simplify:ca012a00-87e1-40b7-ac6f-1464ce5ad2f1",
     "simplify:83e8dcee-3e30-49d2-97e2-42937bcfe4fa",
+    "simplify:40fce4fe-2ffc-4371-9b54-174b5b8f649b",
     "simplify:5379a4df-fa7a-4799-8978-00d1844415b9",
     "simplify:8695d3de-326d-44ff-976a-ba070dbbe750",
     "simplify:25caade8-8d17-4ab4-bf25-ec493e15a86a",
@@ -3016,7 +3025,14 @@
     "simplify:acad052e-b794-4a83-82c4-4d5ff40c200d",
     "simplify:a46d596b-c711-4444-99f7-3c846ae35bb6",
     "simplify:4d2fd538-d00b-4c2f-9137-dd8193ee0066",
-    "simplify:25747e2e-ee6b-44e3-bc88-704d6db5696a"
+    "simplify:25747e2e-ee6b-44e3-bc88-704d6db5696a",
+    "simplify:990a1adb-e945-417c-b734-fb15286f993b",
+    "simplify:3bbe3661-8a0b-43c9-a4f7-5c1b984cc3f9",
+    "simplify:18a8a6d4-4cc6-4e2c-bcc6-db027db69988",
+    "simplify:adeac3f1-1c24-456d-a09f-179101c39c2f",
+    "simplify:ab4dacc0-3b0f-4a64-8351-f7ee4198e2ab",
+    "simplify:f097b101-bba2-4782-92c8-8b5bf641c43d",
+    "simplify:cf012f7c-ffe4-475e-ab48-18debac5047e"
   ],
   "Wintermute": [],
   "QCP": [

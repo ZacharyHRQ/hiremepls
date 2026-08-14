@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-14T22:11:58.404Z",
+  "generatedAt": "2026-08-14T22:38:27.992Z",
   "companyCount": 186,
   "okCount": 186,
-  "jobCount": 1020,
+  "jobCount": 1024,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1014,8 +1014,6 @@
     "canonical:84b32739e26a143e": "2026-08-14T09:41:28.560Z",
     "canonical:1f8be94ab116ffd4": "2026-08-14T10:38:55.819Z",
     "canonical:c246f55f8c194616": "2026-08-14T15:28:02.269Z",
-    "canonical:bc95081b076c3dcf": "2026-08-14T15:28:02.269Z",
-    "canonical:8259ecab6797bdc6": "2026-08-14T16:22:00.196Z",
     "canonical:5cab31cbf6934d69": "2026-08-14T18:12:14.855Z",
     "canonical:93b116c97812aac7": "2026-08-14T18:12:14.855Z",
     "canonical:4d78f79e8d1374e1": "2026-08-14T18:12:14.855Z",
@@ -1023,7 +1021,13 @@
     "canonical:0f0825d68c7a5a74": "2026-08-14T19:54:56.748Z",
     "canonical:d1561a9bc2032e11": "2026-08-14T19:54:56.748Z",
     "canonical:e9b0dc5a1b4f8614": "2026-08-14T19:54:56.748Z",
-    "canonical:aee6db1fb5f1c1ec": "2026-08-14T19:54:56.748Z"
+    "canonical:aee6db1fb5f1c1ec": "2026-08-14T19:54:56.748Z",
+    "canonical:45958a3aab2a7874": "2026-08-14T22:38:27.992Z",
+    "canonical:f86cd1a9d95f40db": "2026-08-14T22:38:27.992Z",
+    "canonical:e34d54a98e46db9c": "2026-08-14T22:38:27.992Z",
+    "canonical:e31c6f05c180cfcc": "2026-08-14T22:38:27.992Z",
+    "canonical:0fcedda01cafb728": "2026-08-14T22:38:27.992Z",
+    "canonical:4f80923d88ed59e9": "2026-08-14T22:38:27.992Z"
   },
   "jobs": [
     {
@@ -12383,6 +12387,88 @@
       ]
     },
     {
+      "id": "canonical:45958a3aab2a7874",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5212335007?gh_jid=5212335007",
+      "location": "Chicago, IL",
+      "department": "Software",
+      "company": "TransMarket Group",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f86cd1a9d95f40db",
+      "title": "Computer Science/Engineering Intern - Computer Vision Applications",
+      "url": "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/Computer-Science-Engineering-Intern---Computer-Vision-Applications_R-100731",
+      "location": "New Mexico / Washington / Kansas / Pennsylvania / North Dakota / Oregon / Delaware / Iowa / California / Washington, DC / Vermont / Wyoming / Connecticut / Texas / Montana / Florida / New Hampshire / Nevada / South Carolina / South Dakota / Georgia / Hampton, VA / Arizona / Mississippi / Tennessee / Virginia / Arkansas / Minnesota / Colorado / Nebraska / Rhode Island / Utah / Kentucky / West Virginia / NYC / Maryland / Hawaii / Wisconsin / Maine / Massachusetts / North Carolina / Oklahoma / Missouri / Ohio / New Jersey / Indiana / Louisiana / Alaska / Michigan / Illinois / Alabama / Idaho",
+      "department": "AI/ML/Data",
+      "company": "Analytical Mechanics Associates",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:e34d54a98e46db9c",
+      "title": "Research Scientist Intern - User Modeling and Personalization",
+      "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Bellevue-Washington/Research-Intern--User-Modeling-and-Personalization_R0046464-1",
+      "location": "LA / Bellevue, WA",
+      "department": "AI/ML/Data",
+      "company": "Snap",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:e31c6f05c180cfcc",
+      "title": "Firmware Engineering Intern",
+      "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR16149",
+      "location": "Reno, NV",
+      "department": "Hardware",
+      "company": "Generac",
+      "score": 83,
+      "scoreReasons": [
+        "SWE-aligned",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:0fcedda01cafb728",
+      "title": "Android Platform Software Engineer Intern - Summer 2027",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1",
+      "location": "Schaumburg, IL / Plantation, FL",
+      "department": "Software",
+      "company": "Motorola",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:4f80923d88ed59e9",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/Software-Engineering-Intern--Summer-2027-_01866619",
+      "location": "El Segundo, CA",
+      "department": "Hardware",
+      "company": "RTX",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:12cd06c0eec80152",
       "title": "Frontend Software Engineer Intern",
       "url": "https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c",
@@ -14338,34 +14424,6 @@
       "score": 83,
       "scoreReasons": [
         "SWE-aligned",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:8259ecab6797bdc6",
-      "title": "Software Engineering Intern",
-      "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5212335007?gh_jid=5212335007",
-      "location": "Chicago, Illinois, United States",
-      "department": "Software / Not stated",
-      "company": "TransMarket Group",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:bc95081b076c3dcf",
-      "title": "Android Platform Software Engineering Intern - Summer 2027",
-      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1",
-      "location": "Plantation, FL, More...",
-      "department": "Software / Summer 2027",
-      "company": "Motorola",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
         "direct ATS"
       ]
     },
