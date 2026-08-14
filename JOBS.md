@@ -1,6 +1,6 @@
 # Open Internships
 
-**1013** internships across **186/186** companies — last updated 2026-08-14.
+**1011** internships across **186/186** companies — last updated 2026-08-14.
 
 ## Companies
 
@@ -14,7 +14,7 @@
 - [Alayacare](#alayacare) (1)
 - [AlixPartners](#alixpartners) (1)
 - [Altice USA](#altice-usa) (1)
-- [Amazon](#amazon) (35)
+- [Amazon](#amazon) (34)
 - [Ambarella](#ambarella) (2)
 - [American Fidelity](#american-fidelity) (1)
 - [Amgen](#amgen) (1)
@@ -296,7 +296,7 @@
 - [Robert Bosch LLC](#robert-bosch-llc) (1)
 - [Roblox](#roblox) (1)
 - [RRS Group](#rrs-group) (2)
-- [RTX](#rtx) (13)
+- [RTX](#rtx) (12)
 - [Samsara](#samsara) (2)
 - [Sandhills Global](#sandhills-global) (2)
 - [Savannah River National Laboratory](#savannah-river-national-laboratory) (1)
@@ -487,7 +487,6 @@
 | [Software Development Engineer Internship - Vaga para mulheres, IES- LATECH](https://amazon.jobs/en/jobs/3139827/software-development-engineer-internship-vaga-para-mulheres-ies-latech) | 85 | Virtual | Administrative Support | 2026-07-20 |
 | [Software Development Engineer Internship, Guadalajara](https://amazon.jobs/en/jobs/3123243/software-development-engineer-internship-guadalajara) | 85 | Zapopan | Software Development | 2026-07-20 |
 | [Software Development Engineer Internship, Mexico City](https://amazon.jobs/en/jobs/3123246/software-development-engineer-internship-mexico-city) | 85 | Mexico City | Software Development | 2026-07-20 |
-| [Graduate Network Dev Engineer](https://amazon.jobs/en/jobs/3023635/graduate-network-dev-engineer) | 81 | Sydney | Operations, IT, & Support Engineering | 2026-07-20 |
 | [Amazon Industrial Robotics - Applied Scientist II Intern / Co-op - 2026, Amazon Industrial Robotics](https://www.amazon.jobs/en/jobs/3132414/amazon-industrial-robotics-applied-scientist-ii-intern-co-op-2026-amazon-industrial-robotics) | 85 | North Reading, Massachusetts, USA | Data & ML/AI / Fall 2026 | 2026-07-13 |
 | [Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)](https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us) | 85 | Seattle, Washington, USA | Data & ML/AI / Fall 2026 | 2026-07-13 |
 | [Robotics - Software Development Engineer Intern/Co-op](https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1) | 85 | Sunnyvale, CA / North Reading, MA / Westboro, MA / Nashville, TN / Austin, TX / Arlington, VA / Bellevue, WA / Seattle, WA | — | 2026-07-09 |
@@ -2564,7 +2563,6 @@
 | [Methods Intern - Hot Section Engineering](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Methods-Intern---Hot-Section-Engineering--Summer-2027---Onsite-_01864520) | 93 | East Hartford, CT | Software | 2026-08-13 |
 | [Software Engineering Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875) | 93 | Cedar Rapids, IA | Hardware | 2026-08-12 |
 | [Validation Engineer Intern - Product Safety - Certification & Validation](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Intern--Validation-Engineering---Product-Safety--Certification---Validation---Onsite-_01864406) | 93 | East Hartford, CT | AI/ML/Data | 2026-08-12 |
-| [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Summer-2027--Software-Intern-OnSite_01865160) | 93 | Huntsville, AL | Software | 2026-08-12 |
 | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01863980-1) | 93 | Cedar Rapids, IA | Hardware | 2026-08-12 |
 | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Software-Engineering-Intern--2027-_01865474) | 93 | Burnsville, MN | Software | 2026-08-11 |
 | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineer-Intern--Summer-2027-_01864811-1) | 93 | Largo, FL | Software | 2026-08-10 |

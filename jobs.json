@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-14T04:28:02.113Z",
+  "generatedAt": "2026-08-14T05:54:05.353Z",
   "companyCount": 186,
   "okCount": 186,
-  "jobCount": 1013,
+  "jobCount": 1011,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -380,7 +380,6 @@
     "canonical:6f6f5cb6ae78fead": "2026-07-20T23:30:05.931Z",
     "canonical:28c8ddd5f4656a31": "2026-07-20T23:30:05.931Z",
     "canonical:9ae50cfd98da465c": "2026-07-20T23:30:05.931Z",
-    "canonical:ee1dda9581bca923": "2026-07-20T23:30:05.931Z",
     "canonical:82e7224c7c7bdcff": "2026-07-20T23:30:05.931Z",
     "canonical:cdd94c56950c8d4f": "2026-07-20T23:30:05.931Z",
     "canonical:abd276002c9253e3": "2026-07-20T23:30:05.931Z",
@@ -967,7 +966,6 @@
     "canonical:36aaf31fe6e7ccd5": "2026-08-12T15:34:31.653Z",
     "canonical:9169af0f52efbbff": "2026-08-12T15:34:31.653Z",
     "canonical:aece095750619adf": "2026-08-12T16:32:38.617Z",
-    "canonical:a050afb4a6afe403": "2026-08-12T16:32:38.617Z",
     "canonical:04172e347ecd89c6": "2026-08-12T17:38:04.745Z",
     "canonical:c044a7e192c15a57": "2026-08-12T21:10:05.758Z",
     "canonical:afe000cd060460db": "2026-08-12T21:10:05.758Z",
@@ -2873,19 +2871,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:ee1dda9581bca923",
-      "title": "Graduate Network Dev Engineer",
-      "url": "https://amazon.jobs/en/jobs/3023635/graduate-network-dev-engineer",
-      "location": "Sydney",
-      "department": "Operations, IT, & Support Engineering",
-      "company": "Amazon",
-      "score": 81,
-      "scoreReasons": [
-        "SWE-aligned",
-        "new grad"
       ]
     },
     {
@@ -11860,20 +11845,6 @@
       "location": "Chicago, IL",
       "department": "AI/ML/Data",
       "company": " CCC Intelligent Solutions",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:a050afb4a6afe403",
-      "title": "Software Engineer Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Summer-2027--Software-Intern-OnSite_01865160",
-      "location": "Huntsville, AL",
-      "department": "Software",
-      "company": "RTX",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
