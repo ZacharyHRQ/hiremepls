@@ -1,6 +1,6 @@
 # Open Internships
 
-**1041** internships across **186/186** companies — last updated 2026-08-15.
+**1044** internships across **186/186** companies — last updated 2026-08-15.
 
 ## Companies
 
@@ -82,7 +82,7 @@
 - [Citadel Securities](#citadel-securities) (6)
 - [Clarity Innovations](#clarity-innovations) (1)
 - [Clerkie](#clerkie) (1)
-- [Cloudflare](#cloudflare) (6)
+- [Cloudflare](#cloudflare) (7)
 - [Codeage](#codeage) (1)
 - [Cohere](#cohere) (2)
 - [Composio](#composio) (1)
@@ -128,7 +128,7 @@
 - [Felix Magazine](#felix-magazine) (2)
 - [Figma](#figma) (2)
 - [Firetiger](#firetiger) (1)
-- [First American](#first-american) (2)
+- [First American](#first-american) (1)
 - [First Quality](#first-quality) (1)
 - [Five Rings](#five-rings) (1)
 - [Fluency](#fluency) (1)
@@ -294,9 +294,9 @@
 - [Quora](#quora) (1)
 - [Rainmaker](#rainmaker) (1)
 - [Ramp](#ramp) (1)
-- [Redwood Materials](#redwood-materials) (1)
+- [Redwood Materials](#redwood-materials) (2)
 - [Rendezvous Robotics](#rendezvous-robotics) (1)
-- [Replit](#replit) (1)
+- [Replit](#replit) (2)
 - [Reply](#reply) (1)
 - [RESPEC](#respec) (1)
 - [ResponsiveAds](#responsiveads) (1)
@@ -348,7 +348,7 @@
 - [Tenstorrent](#tenstorrent) (1)
 - [Terranova](#terranova) (1)
 - [Terranox AI](#terranox-ai) (1)
-- [Tesla](#tesla) (66)
+- [Tesla](#tesla) (67)
 - [TETRAMEM](#tetramem) (1)
 - [Thales](#thales) (1)
 - [The Boeing Company](#the-boeing-company) (1)
@@ -1025,9 +1025,10 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
 | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -1336,8 +1337,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Software-Engineering-Intern_R058260) | 93 | California | Software | 2026-08-15 |
-| [Software Engineering Intern](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Software-Engineering-Intern_R058261) | 93 | USA, California, Remote | Software / Not stated | 2026-08-14 |
+| [Software Engineering Intern](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Software-Engineering-Intern_R058260) | 93 | USA, California, Remote | Software / Not stated | 2026-08-14 |
 
 ## First Quality
 
@@ -2441,8 +2441,8 @@
 | --- | --- | --- | --- | --- |
 | [Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) | 85 | New York, NY | — | 2026-07-09 |
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-07-09 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -2553,6 +2553,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Embedded Software Engineer Intern](https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004) | 93 | SF | Hardware | 2026-08-15 |
 | [Embedded Software Engineer Intern - Fall 2026](https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004?gh_jid=6126784004) | 93 | San Francisco, California, United States | Software / Fall 2026 | 2026-07-29 |
 
 ## Rendezvous Robotics
@@ -2565,6 +2566,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application?embed=true) | 93 | Foster City, CA | Software | 2026-08-15 |
 | [Software Engineering Intern (Summer 2027)](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1) | 93 | Foster City, CA | Software / Summer 2027 | 2026-08-15 |
 
 ## Reply
@@ -2942,6 +2944,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern - Software Engineer - AI Infrastructure](https://www.tesla.com/careers/search/job/278578) | 85 | Palo Alto, CA | Software | 2026-08-15 |
 | [Firmware Engineer Intern - New Programs Engineering](https://www.tesla.com/careers/search/job/279991) | 75 | Fremont, CA | Hardware | 2026-08-13 |
 | [Software Engineer Intern - AI Inference Co Design](https://www.tesla.com/careers/search/job/279600) | 85 | Palo Alto, CA | Software | 2026-08-12 |
 | [Applied AI Engineer Intern - AI Hardware](https://www.tesla.com/careers/search/job/279603) | 75 | Palo Alto, CA | Hardware | 2026-08-11 |
@@ -3293,7 +3296,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [2027 Internship - Frontend Engineer (UI)](https://job-boards.greenhouse.io/virtu/jobs/8657500002) | 93 | New York | Software / Summer 2027 | 2026-08-15 |
+| [Frontend Developer Internship](https://job-boards.greenhouse.io/virtu/jobs/8657500002) | 93 | NYC | Software | 2026-08-15 |
 | [2027 Internship - Quantitative Researcher (Undergrad)](https://job-boards.greenhouse.io/virtu/jobs/8142539002) | 93 | New York | Quant / Summer 2027 | 2026-08-13 |
 | [Quantitative Researcher Internship](https://job-boards.greenhouse.io/virtu/jobs/8624424002) | 93 | NYC | Quant | 2026-07-23 |
 | [Software Engineer Intern - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8624410002) | 93 | Austin, TX / NYC | Software | 2026-07-23 |

@@ -32,8 +32,8 @@
     "8052351",
     "7976964",
     "8027946",
-    "8002998",
     "7975008",
+    "8002998",
     "7977145",
     "8027955",
     "8010307",
@@ -44,8 +44,8 @@
     "7975026",
     "8002989",
     "8007788",
-    "8000323",
     "8027952",
+    "8000323",
     "7565728",
     "8003019",
     "7974943"
@@ -53,10 +53,10 @@
   "DRW": [
     "7997729",
     "7981754",
-    "7992936",
     "8020364",
-    "7991196",
     "7942281",
+    "7992936",
+    "7991196",
     "8014910",
     "8127242"
   ],
@@ -75,8 +75,8 @@
     "8024128"
   ],
   "Point72": [
-    "7297611002",
     "7297598002",
+    "7297611002",
     "7302611002",
     "7609197002",
     "7586061002",
@@ -129,9 +129,9 @@
   ],
   "MongoDB": [],
   "Cloudflare": [
-    "8089379",
-    "8089407",
     "8089400",
+    "8089407",
+    "8089379",
     "8118845",
     "8052785"
   ],
@@ -1908,7 +1908,11 @@
     "simplify:02855d39-751b-42b4-909c-814d9d98b768",
     "simplify:0493a5d3-fb9f-430d-8751-58b168f5a0f4",
     "simplify:6219c04b-bc5c-4d14-90ea-426f117b51c0",
+    "simplify:c97b1332-a2e5-4276-8d54-70df4b7c21e7",
+    "simplify:d8419553-b116-44e9-8ec0-d1ae843c6512",
+    "simplify:42a4495c-329d-4277-8dcf-363d9fabcffd",
     "simplify:0b70d1e1-a241-43ea-b553-844b484972d9",
+    "simplify:0fe46774-0c06-4ab5-94e3-f5f8af293290",
     "simplify:c63937cc-49b3-4672-b316-c4e35731c6af",
     "simplify:079e1669-46b8-488f-8297-f7c139a745ec",
     "simplify:12d18ee4-5916-44bb-8d90-d5b39f8a7c4b",
@@ -2211,7 +2215,6 @@
     "simplify:f097b101-bba2-4782-92c8-8b5bf641c43d",
     "simplify:cf012f7c-ffe4-475e-ab48-18debac5047e",
     "simplify:d2981791-a95a-4770-939a-7234d38f079d",
-    "simplify:cacbb3b2-0e62-4234-a536-a54968746677",
     "simplify:c61b3999-cfc9-4184-8e3e-3a21a00ebcef",
     "simplify:14e51d14-067b-43b8-80cf-dcf3c6893565",
     "simplify:c2308ec8-a80e-4bb3-ae50-a835b8c50958",
@@ -2233,7 +2236,8 @@
     "simplify:ee23b508-8622-4e85-a48c-712f76a6db3b",
     "simplify:7b78baf6-f74f-4d7b-924f-a68d5e0e0dbf",
     "simplify:8c8c7d2c-0377-4609-87fb-df719e4b5165",
-    "simplify:aa0ebb73-f646-4f78-ac9d-900e2925f3e9"
+    "simplify:aa0ebb73-f646-4f78-ac9d-900e2925f3e9",
+    "simplify:7e21b76f-fae1-4564-9f64-456d019b46b2"
   ],
   "DoorDash": [],
   "Waymo": [
@@ -2738,7 +2742,11 @@
     "simplify:02855d39-751b-42b4-909c-814d9d98b768",
     "simplify:0493a5d3-fb9f-430d-8751-58b168f5a0f4",
     "simplify:6219c04b-bc5c-4d14-90ea-426f117b51c0",
+    "simplify:c97b1332-a2e5-4276-8d54-70df4b7c21e7",
+    "simplify:d8419553-b116-44e9-8ec0-d1ae843c6512",
+    "simplify:42a4495c-329d-4277-8dcf-363d9fabcffd",
     "simplify:0b70d1e1-a241-43ea-b553-844b484972d9",
+    "simplify:0fe46774-0c06-4ab5-94e3-f5f8af293290",
     "simplify:c63937cc-49b3-4672-b316-c4e35731c6af",
     "simplify:079e1669-46b8-488f-8297-f7c139a745ec",
     "simplify:12d18ee4-5916-44bb-8d90-d5b39f8a7c4b",
@@ -3041,7 +3049,6 @@
     "simplify:f097b101-bba2-4782-92c8-8b5bf641c43d",
     "simplify:cf012f7c-ffe4-475e-ab48-18debac5047e",
     "simplify:d2981791-a95a-4770-939a-7234d38f079d",
-    "simplify:cacbb3b2-0e62-4234-a536-a54968746677",
     "simplify:c61b3999-cfc9-4184-8e3e-3a21a00ebcef",
     "simplify:14e51d14-067b-43b8-80cf-dcf3c6893565",
     "simplify:c2308ec8-a80e-4bb3-ae50-a835b8c50958",
@@ -3063,7 +3070,8 @@
     "simplify:ee23b508-8622-4e85-a48c-712f76a6db3b",
     "simplify:7b78baf6-f74f-4d7b-924f-a68d5e0e0dbf",
     "simplify:8c8c7d2c-0377-4609-87fb-df719e4b5165",
-    "simplify:aa0ebb73-f646-4f78-ac9d-900e2925f3e9"
+    "simplify:aa0ebb73-f646-4f78-ac9d-900e2925f3e9",
+    "simplify:7e21b76f-fae1-4564-9f64-456d019b46b2"
   ],
   "Wintermute": [],
   "QCP": [
