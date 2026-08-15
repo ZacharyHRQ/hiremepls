@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-14T23:59:10.184Z",
+  "generatedAt": "2026-08-15T01:15:49.054Z",
   "companyCount": 186,
   "okCount": 186,
-  "jobCount": 1025,
+  "jobCount": 1034,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -871,7 +871,6 @@
     "canonical:d2c1de770fa5ce59": "2026-08-07T23:24:27.053Z",
     "canonical:58c139b3140d0446": "2026-08-07T23:24:27.053Z",
     "canonical:aa5d2d572d7bc455": "2026-08-07T23:24:27.053Z",
-    "canonical:bcd306396df863e5": "2026-08-07T23:24:27.053Z",
     "canonical:a5328a1734e5d1d8": "2026-08-07T23:24:27.053Z",
     "canonical:9afeca2860e795ea": "2026-08-07T23:24:27.053Z",
     "canonical:2d4be91688c6f1f4": "2026-08-07T23:24:27.053Z",
@@ -956,7 +955,6 @@
     "canonical:ac61dc3efffd3b7f": "2026-08-12T07:50:19.837Z",
     "canonical:8da60f74695dc8d1": "2026-08-12T07:50:19.837Z",
     "canonical:5c2778d446a1f22f": "2026-08-12T13:00:26.911Z",
-    "canonical:dd330df63152542e": "2026-08-12T15:34:31.653Z",
     "canonical:31d34a0b71c4ab79": "2026-08-12T15:34:31.653Z",
     "canonical:36aaf31fe6e7ccd5": "2026-08-12T15:34:31.653Z",
     "canonical:9169af0f52efbbff": "2026-08-12T15:34:31.653Z",
@@ -1028,7 +1026,18 @@
     "canonical:0fcedda01cafb728": "2026-08-14T22:38:27.992Z",
     "canonical:4f80923d88ed59e9": "2026-08-14T22:38:27.992Z",
     "canonical:054a6ad4d0b8930f": "2026-08-14T22:57:06.363Z",
-    "canonical:77077aa3870a7868": "2026-08-14T22:57:06.363Z"
+    "canonical:77077aa3870a7868": "2026-08-14T22:57:06.363Z",
+    "canonical:24e05e83163e38fd": "2026-08-15T01:15:49.054Z",
+    "canonical:f521eb40e5c66c68": "2026-08-15T01:15:49.054Z",
+    "canonical:9a0b9db97fbe5f08": "2026-08-15T01:15:49.054Z",
+    "canonical:8c1d103abb55b0ac": "2026-08-15T01:15:49.054Z",
+    "canonical:ad2ce5521b9448f7": "2026-08-15T01:15:49.054Z",
+    "canonical:cf9b365633987d1b": "2026-08-15T01:15:49.054Z",
+    "canonical:7bb1a6b6e928634c": "2026-08-15T01:15:49.054Z",
+    "canonical:7bbe6244c3cb8453": "2026-08-15T01:15:49.054Z",
+    "canonical:8d3122b5e167508d": "2026-08-15T01:15:49.054Z",
+    "canonical:34ef3678784b30e7": "2026-08-15T01:15:49.054Z",
+    "canonical:ede3c9bcfe0a75a0": "2026-08-15T01:15:49.054Z"
   },
   "jobs": [
     {
@@ -10383,20 +10392,6 @@
       ]
     },
     {
-      "id": "canonical:dd330df63152542e",
-      "title": "Software Engineer Intern - Summer 2027",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01863980-1",
-      "location": "Cedar Rapids, IA",
-      "department": "Hardware",
-      "company": "RTX",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:ffc2cc38852953d4",
       "title": "Machine Learning Engineer Intern - Data-Global E-Commerce-Search",
       "url": "https://lifeattiktok.com/search/7668415591670417717",
@@ -10953,20 +10948,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:bcd306396df863e5",
-      "title": "Software Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003",
-      "location": "Boston, MA / Seattle, WA",
-      "department": "Software",
-      "company": "Axon",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -12462,6 +12443,171 @@
       "location": "El Segundo, CA",
       "department": "Hardware",
       "company": "RTX",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:24e05e83163e38fd",
+      "title": "GTM Engineering Intern",
+      "url": "https://jobs.ashbyhq.com/unify/6a5b351f-8893-435f-951f-2458b24b6d3c/application?embed=true",
+      "location": "SF",
+      "department": "AI/ML/Data",
+      "company": "Unify",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f521eb40e5c66c68",
+      "title": "Software Engineer Intern",
+      "url": "https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Software-Engineering-Intern_R058260",
+      "location": "California",
+      "department": "Software",
+      "company": "First American",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:9a0b9db97fbe5f08",
+      "title": "Software Engineer Intern - Winter 2027",
+      "url": "https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8/application?embed=true",
+      "location": "SF / NYC",
+      "department": "Software",
+      "company": "Notion",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:8c1d103abb55b0ac",
+      "title": "Wireless Engineering Intern - 6G Wireless Systems",
+      "url": "https://interdigital.wd5.myworkdayjobs.com/InterDigital_Career/job/Conshohocken-PA/PhD-Intern--6G-Wireless-Systems---Sept-2026_REQ26-1135-1",
+      "location": "Manhattan, NYC / Melville, NY / Conshohocken, PA",
+      "department": "AI/ML/Data",
+      "company": "Interdigital",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ad2ce5521b9448f7",
+      "title": "Engineering Intern",
+      "url": "https://oneok.wd1.myworkdayjobs.com/ONEOK_Early_Careers/job/Sidney-MT/Engineering-Intern---Sidney--MT_R8601",
+      "location": "Sidney, MT",
+      "department": "AI/ML/Data",
+      "company": "ONEOK",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:cf9b365633987d1b",
+      "title": "Software Engineer Intern - Global Payment Infra and SRE",
+      "url": "https://jobs.bytedance.com/en/position/7668315137242351925/detail",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "ByteDance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:7bb1a6b6e928634c",
+      "title": "Software Engineer Intern - Global Traffic Architecture",
+      "url": "https://jobs.bytedance.com/en/position/7672557061679483189/detail",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "ByteDance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:7bbe6244c3cb8453",
+      "title": "Software Engineer Intern - Traffic Infrastructure",
+      "url": "https://jobs.bytedance.com/en/position/7672626707586746629/detail",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "ByteDance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:8d3122b5e167508d",
+      "title": "Engineering Intern",
+      "url": "https://oneok.wd1.myworkdayjobs.com/ONEOK_Early_Careers/job/Dallas-TX/Engineering-Intern---Dallas--TX_R8156",
+      "location": "Dallas, TX",
+      "department": "AI/ML/Data",
+      "company": "ONEOK",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:34ef3678784b30e7",
+      "title": "Engineering Intern",
+      "url": "https://oneok.wd1.myworkdayjobs.com/ONEOK_Early_Careers/job/Tulsa-OK/Engineering-Intern---Tulsa--OK_R8155",
+      "location": "Tulsa, OK",
+      "department": "AI/ML/Data",
+      "company": "ONEOK",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:aee6db1fb5f1c1ec",
+      "title": "Software Engineer Intern",
+      "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Software-Engineer-Intern_REQ2026076575",
+      "location": "Troy, MI",
+      "department": "Hardware",
+      "company": "Valeo",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ede3c9bcfe0a75a0",
+      "title": "Data Analytics Developer Intern - Consulting Practice",
+      "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041",
+      "location": "Chicago, IL",
+      "department": "AI/ML/Data",
+      "company": "Crowe",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -14390,7 +14536,7 @@
     {
       "id": "canonical:054a6ad4d0b8930f",
       "title": "Software Engineering Intern",
-      "url": "https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Software-Engineering-Intern_R058260",
+      "url": "https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Software-Engineering-Intern_R058261",
       "location": "USA, California, Remote",
       "department": "Software / Not stated",
       "company": "First American",
@@ -14422,20 +14568,6 @@
       "location": "Chicago IL USA",
       "department": "Data & ML/AI / Not stated",
       "company": "Crowe",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:aee6db1fb5f1c1ec",
-      "title": "Software Engineer Intern",
-      "url": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Software-Engineer-Intern_REQ2026076575",
-      "location": "Troy, MI",
-      "department": "Software / Not stated",
-      "company": "Valeo",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
