@@ -1,6 +1,6 @@
 # Open Internships
 
-**1042** internships across **184/186** companies — last updated 2026-08-15.
+**1043** internships across **185/186** companies — last updated 2026-08-15.
 
 ## Companies
 
@@ -99,7 +99,7 @@
 - [Databricks](#databricks) (1)
 - [Datadog](#datadog) (1)
 - [DE Shaw](#de-shaw) (1)
-- [Dedalus Labs](#dedalus-labs) (1)
+- [Dedalus Labs](#dedalus-labs) (2)
 - [Deepgram](#deepgram) (2)
 - [Deloitte](#deloitte) (3)
 - [Delta Air Lines](#delta-air-lines) (1)
@@ -1143,6 +1143,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Design Engineer Intern](https://jobs.ashbyhq.com/dedalus-labs/bcd6db2e-400b-4ffa-aef3-0948a7b558c2/application?embed=true) | 93 | SF | Software | 2026-08-15 |
 | [Forward Deployed Engineer Intern](https://www.workatastartup.com/jobs/94400) | 81 | San Francisco, CA | — | 2026-07-09 |
 
 ## Deepgram
@@ -3419,5 +3420,4 @@
 
 ## Errors this run
 
-- **Snap**: workday snap: expected JSON, got text/html; charset=UTF-8: <!DOCTYPE html> <html lang="en" dir="ltr">   <head>     <meta charset="utf-8" />
 - **BlackRock**: workday blackrock: expected JSON, got text/html; charset=UTF-8: <!DOCTYPE html> <html lang="en" dir="ltr">   <head>     <meta charset="utf-8" />

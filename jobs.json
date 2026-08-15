@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-15T07:04:33.797Z",
+  "generatedAt": "2026-08-15T07:40:55.917Z",
   "companyCount": 186,
-  "okCount": 184,
-  "jobCount": 1042,
+  "okCount": 185,
+  "jobCount": 1043,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1045,7 +1045,8 @@
     "canonical:e7f8cbac3cbaef2a": "2026-08-15T05:15:45.235Z",
     "canonical:56dda4e7adbf59ab": "2026-08-15T05:15:45.235Z",
     "canonical:6d17f2f7fc77166d": "2026-08-15T05:15:45.235Z",
-    "canonical:d036fda9de6fb486": "2026-08-15T06:19:31.024Z"
+    "canonical:d036fda9de6fb486": "2026-08-15T06:19:31.024Z",
+    "canonical:89ec950b6f0dbb30": "2026-08-15T07:40:55.917Z"
   },
   "jobs": [
     {
@@ -12709,6 +12710,20 @@
       ]
     },
     {
+      "id": "canonical:89ec950b6f0dbb30",
+      "title": "Design Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/dedalus-labs/bcd6db2e-400b-4ffa-aef3-0948a7b558c2/application?embed=true",
+      "location": "SF",
+      "department": "Software",
+      "company": "Dedalus Labs",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:12cd06c0eec80152",
       "title": "Frontend Software Engineer Intern",
       "url": "https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c",
@@ -15182,10 +15197,6 @@
     }
   ],
   "errors": [
-    {
-      "company": "Snap",
-      "message": "workday snap: expected JSON, got text/html; charset=UTF-8: <!DOCTYPE html>\n<html lang=\"en\" dir=\"ltr\">\n  <head>\n    <meta charset=\"utf-8\" />"
-    },
     {
       "company": "BlackRock",
       "message": "workday blackrock: expected JSON, got text/html; charset=UTF-8: <!DOCTYPE html>\n<html lang=\"en\" dir=\"ltr\">\n  <head>\n    <meta charset=\"utf-8\" />"
