@@ -1,6 +1,6 @@
 # Open Internships
 
-**1043** internships across **186/186** companies — last updated 2026-08-15.
+**1041** internships across **186/186** companies — last updated 2026-08-15.
 
 ## Companies
 
@@ -68,7 +68,7 @@
 - [Caddi Workflow Automation](#caddi-workflow-automation) (1)
 - [Cadence Design Systems](#cadence-design-systems) (3)
 - [Calpion/Plutus Health](#calpion-plutus-health) (1)
-- [Canva](#canva) (7)
+- [Canva](#canva) (8)
 - [Capital One](#capital-one) (1)
 - [Castleton Commodities International](#castleton-commodities-international) (4)
 - [Centerfield](#centerfield) (3)
@@ -82,7 +82,7 @@
 - [Citadel Securities](#citadel-securities) (6)
 - [Clarity Innovations](#clarity-innovations) (1)
 - [Clerkie](#clerkie) (1)
-- [Cloudflare](#cloudflare) (7)
+- [Cloudflare](#cloudflare) (6)
 - [Codeage](#codeage) (1)
 - [Cohere](#cohere) (2)
 - [Composio](#composio) (1)
@@ -294,7 +294,7 @@
 - [Quora](#quora) (1)
 - [Rainmaker](#rainmaker) (1)
 - [Ramp](#ramp) (1)
-- [Redwood Materials](#redwood-materials) (2)
+- [Redwood Materials](#redwood-materials) (1)
 - [Rendezvous Robotics](#rendezvous-robotics) (1)
 - [Replit](#replit) (1)
 - [Reply](#reply) (1)
@@ -348,7 +348,7 @@
 - [Tenstorrent](#tenstorrent) (1)
 - [Terranova](#terranova) (1)
 - [Terranox AI](#terranox-ai) (1)
-- [Tesla](#tesla) (67)
+- [Tesla](#tesla) (66)
 - [TETRAMEM](#tetramem) (1)
 - [Thales](#thales) (1)
 - [The Boeing Company](#the-boeing-company) (1)
@@ -913,6 +913,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [PhD Research Scientist Intern - Reinforcement Learning - Images](https://jobs.smartrecruiters.com/Canva/6000000001292768) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
 | [PhD Research Scientist Intern - Edge AI](https://jobs.smartrecruiters.com/Canva/6000000001295792) | 83 | Vienna, Vienna, Austria | Information Technology | 2026-08-07 |
 | [PhD Research Scientist Intern - Edge AI](https://jobs.smartrecruiters.com/Canva/6000000001295782) | 83 | London, , United Kingdom | Information Technology | 2026-08-07 |
 | [PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling](https://jobs.smartrecruiters.com/Canva/6000000001295787) | 83 | Vienna, Vienna, Austria | Information Technology | 2026-08-07 |
@@ -1025,7 +1026,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | 93 | In-Office | — | 2026-08-11 |
-| [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-07-29 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
 | [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
@@ -2553,7 +2553,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Embedded Software Engineer Intern](https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004) | 93 | SF | Hardware | 2026-07-29 |
 | [Embedded Software Engineer Intern - Fall 2026](https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004?gh_jid=6126784004) | 93 | San Francisco, California, United States | Software / Fall 2026 | 2026-07-29 |
 
 ## Rendezvous Robotics
@@ -2951,7 +2950,6 @@
 | [Cell Engineering Intern - Cell Qualification](https://www.tesla.com/careers/search/job/278620) | 85 | Palo Alto, CA / San Diego, CA | AI/ML/Data | 2026-08-04 |
 | [Data Engineer Intern - Cell Engineering](https://www.tesla.com/careers/search/job/278622) | 85 | Palo Alto, CA | AI/ML/Data | 2026-08-04 |
 | [Vehicle Software Intern - Vehicle Software Engineer-Diagnostic User Interface](https://www.tesla.com/careers/search/job/278703) | 85 | Palo Alto, CA | Software | 2026-07-31 |
-| [Software Engineer Intern - Software Engineer - AI Infrastructure](https://www.tesla.com/careers/search/job/278578) | 85 | Palo Alto, CA | Software | 2026-07-30 |
 | [Charging Data Modeling Intern - Charging Data Modeling - Machine Learning Engineer](https://www.tesla.com/careers/search/job/278249) | 85 | Palo Alto, CA | AI/ML/Data | 2026-07-28 |
 | [Energy Battery Firmware Intern - Software Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/276987) | 85 | Palo Alto, CA | Hardware | 2026-07-20 |
 | [Reinforcement Learning Engineer Intern - Reinforcement Learning Engineer - Optimus](https://www.tesla.com/careers/search/job/253454) | 85 | Palo Alto, CA | AI/ML/Data | 2026-07-20 |
@@ -3295,8 +3293,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [2027 Internship - Frontend Engineer (UI)](https://job-boards.greenhouse.io/virtu/jobs/8657500002) | 93 | New York | Software / Summer 2027 | 2026-08-15 |
 | [2027 Internship - Quantitative Researcher (Undergrad)](https://job-boards.greenhouse.io/virtu/jobs/8142539002) | 93 | New York | Quant / Summer 2027 | 2026-08-13 |
-| [Frontend Developer Internship](https://job-boards.greenhouse.io/virtu/jobs/8657500002) | 93 | NYC | Software | 2026-07-29 |
 | [Quantitative Researcher Internship](https://job-boards.greenhouse.io/virtu/jobs/8624424002) | 93 | NYC | Quant | 2026-07-23 |
 | [Software Engineer Intern - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8624410002) | 93 | Austin, TX / NYC | Software | 2026-07-23 |
 

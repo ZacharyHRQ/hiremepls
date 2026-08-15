@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-15T22:10:09.446Z",
+  "generatedAt": "2026-08-15T22:35:18.979Z",
   "companyCount": 186,
   "okCount": 186,
-  "jobCount": 1043,
+  "jobCount": 1041,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -554,11 +554,7 @@
     "canonical:98aaddec88d0841f": "2026-07-29T07:16:37.220Z",
     "canonical:e3ce3fd715c5506d": "2026-07-29T10:02:43.882Z",
     "canonical:daf99901433a25a0": "2026-07-29T21:48:15.888Z",
-    "canonical:0e9e3f24b312ca3e": "2026-07-29T23:52:26.433Z",
-    "canonical:edc62f7832537a12": "2026-07-29T23:52:26.433Z",
-    "canonical:7cfcff8cf1f7588a": "2026-07-29T23:52:26.433Z",
     "canonical:e0391cd23d4a9b56": "2026-07-30T04:26:22.286Z",
-    "canonical:3ff9782528b8221c": "2026-07-30T04:26:22.286Z",
     "canonical:875860d7eb0edefe": "2026-07-30T11:31:57.881Z",
     "canonical:4be8d92c71cf84ea": "2026-07-30T16:56:57.416Z",
     "canonical:c5c0535f6dd18864": "2026-07-30T16:56:57.416Z",
@@ -1046,7 +1042,9 @@
     "canonical:04172e347ecd89c6": "2026-08-15T13:40:18.753Z",
     "canonical:43c945396857ea6b": "2026-08-15T15:41:41.179Z",
     "canonical:a356ac432d4a0c77": "2026-08-15T15:41:41.179Z",
-    "canonical:590ef4739668bc87": "2026-08-15T19:13:58.772Z"
+    "canonical:590ef4739668bc87": "2026-08-15T19:13:58.772Z",
+    "canonical:69acd4c0fa388415": "2026-08-15T22:35:18.979Z",
+    "canonical:6e47a835292f5803": "2026-08-15T22:35:18.979Z"
   },
   "jobs": [
     {
@@ -8798,48 +8796,6 @@
       ]
     },
     {
-      "id": "canonical:0e9e3f24b312ca3e",
-      "title": "Research Engineer Intern",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "Cloudflare",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:edc62f7832537a12",
-      "title": "Frontend Developer Internship",
-      "url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002",
-      "location": "NYC",
-      "department": "Software",
-      "company": "Virtu Financial",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:7cfcff8cf1f7588a",
-      "title": "Embedded Software Engineer Intern",
-      "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004",
-      "location": "SF",
-      "department": "Hardware",
-      "company": "Redwood Materials",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:e0391cd23d4a9b56",
       "title": "Engineer Intern",
       "url": "https://jobs.ashbyhq.com/forus/82e10191-232e-4e8d-9c5e-cb82940cdfc7/application?embed=true",
@@ -8851,19 +8807,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:3ff9782528b8221c",
-      "title": "Software Engineer Intern - Software Engineer - AI Infrastructure",
-      "url": "https://www.tesla.com/careers/search/job/278578",
-      "location": "Palo Alto, CA",
-      "department": "Software",
-      "company": "Tesla",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -10640,6 +10583,20 @@
       "location": "Seattle, WA / SF / LA / NYC / Mountain View, CA",
       "department": "Software",
       "company": "Atoms",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:69acd4c0fa388415",
+      "title": "PhD Research Scientist Intern - Reinforcement Learning - Images",
+      "url": "https://jobs.smartrecruiters.com/Canva/6000000001292768",
+      "location": "London, UK",
+      "department": "AI/ML/Data",
+      "company": "Canva",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -14234,6 +14191,20 @@
       "score": 75,
       "scoreReasons": [
         "SWE-aligned"
+      ]
+    },
+    {
+      "id": "canonical:6e47a835292f5803",
+      "title": "2027 Internship - Frontend Engineer (UI)",
+      "url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002",
+      "location": "New York",
+      "department": "Software / Summer 2027",
+      "company": "Virtu Financial",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
