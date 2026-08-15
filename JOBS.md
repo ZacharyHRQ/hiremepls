@@ -1,6 +1,6 @@
 # Open Internships
 
-**1042** internships across **186/186** companies — last updated 2026-08-15.
+**1043** internships across **186/186** companies — last updated 2026-08-15.
 
 ## Companies
 
@@ -268,7 +268,7 @@
 - [Paragon](#paragon) (1)
 - [PDT Partners](#pdt-partners) (2)
 - [PennState University](#pennstate-university) (1)
-- [Pennsylvania State University](#pennsylvania-state-university) (2)
+- [Pennsylvania State University](#pennsylvania-state-university) (3)
 - [Peraton](#peraton) (1)
 - [Perplexity](#perplexity) (2)
 - [Perplexity AI](#perplexity-ai) (1)
@@ -2379,6 +2379,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Research Engineering Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Engineering-Interns_REQ_0000080335-1) | 93 | State College, PA | Software | 2026-08-15 |
 | [CSE Researcher-Narayanan Intern - V](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/CSE-Part-Time-Researcher-Narayanan--V_REQ_0000078135-1) | 93 | State College, PA | AI/ML/Data | 2026-07-21 |
 | [Graduate Student Researcher - Mohney Group - Materials Science and Engineering](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Graduate-Student-Researcher---Mohney-Group---Materials-Science-and-Engineering_REQ_0000076727-1) | 99 | State College, PA | AI/ML/Data | 2026-07-21 |
 
