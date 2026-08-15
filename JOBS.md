@@ -1,6 +1,6 @@
 # Open Internships
 
-**1044** internships across **186/186** companies — last updated 2026-08-15.
+**1043** internships across **186/186** companies — last updated 2026-08-15.
 
 ## Companies
 
@@ -386,7 +386,6 @@
 - [Voloridge](#voloridge) (1)
 - [Voloridge Investment Management](#voloridge-investment-management) (1)
 - [VWH Capital Management](#vwh-capital-management) (1)
-- [Waabi](#waabi) (1)
 - [Walleye Capital](#walleye-capital) (3)
 - [WallStreetQuants](#wallstreetquants) (2)
 - [Waymo](#waymo) (1)
@@ -3330,12 +3329,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Quantitative Researcher Intern](https://jobs.smartrecruiters.com/VWHCapitalManagementLP/744000135105801) | 93 | Dallas, TX | Quant | 2026-08-13 |
-
-## Waabi
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Intern - PhD Research Scientist](https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e/apply) | 93 | Toronto, ON, Canada | AI/ML/Data | 2026-05-13 |
 
 ## Walleye Capital
 

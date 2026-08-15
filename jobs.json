@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-15T23:12:07.275Z",
+  "generatedAt": "2026-08-15T23:32:52.621Z",
   "companyCount": 186,
   "okCount": 186,
-  "jobCount": 1044,
+  "jobCount": 1043,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -18,7 +18,6 @@
     "canonical:7c6db6e223273197": "2026-05-06T06:42:07.596Z",
     "canonical:c3741eefab6317c5": "2026-05-06T06:42:07.596Z",
     "canonical:d277a6a426412a6c": "2026-05-06T06:42:07.596Z",
-    "canonical:9fe324aefc9cbb4f": "2026-05-13T22:37:04.081Z",
     "canonical:a1d4ba3b6c814e63": "2026-05-09T15:28:15.527Z",
     "canonical:885c7029ab2fb04a": "2026-05-09T15:28:15.527Z",
     "canonical:7a35a217bd7a55a7": "2026-05-09T15:28:15.527Z",
@@ -3716,20 +3715,6 @@
       "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
       "department": "Software / Summer 2027",
       "company": "Anduril",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:9fe324aefc9cbb4f",
-      "title": "Intern - PhD Research Scientist",
-      "url": "https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e/apply",
-      "location": "Toronto, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Waabi",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
