@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-15T04:53:27.033Z",
+  "generatedAt": "2026-08-15T05:15:45.235Z",
   "companyCount": 186,
   "okCount": 186,
-  "jobCount": 1041,
+  "jobCount": 1042,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -746,7 +746,6 @@
     "canonical:8748985990227042": "2026-08-03T10:31:55.539Z",
     "canonical:1c8eda468b824cfa": "2026-08-03T10:31:55.539Z",
     "canonical:c121e759e75f5f73": "2026-08-03T10:31:55.539Z",
-    "canonical:43c945396857ea6b": "2026-08-03T13:28:35.284Z",
     "canonical:38a7d4388515b288": "2026-08-03T13:28:35.284Z",
     "canonical:d9f92d09097ee8fc": "2026-08-03T16:01:49.102Z",
     "canonical:c6bd1cc3d8bd01b8": "2026-08-03T16:01:49.102Z",
@@ -1043,8 +1042,10 @@
     "canonical:dd330df63152542e": "2026-08-15T02:29:09.220Z",
     "canonical:b27fb17837ea07bb": "2026-08-15T02:29:09.220Z",
     "canonical:0e90d93932b5a90b": "2026-08-15T02:29:09.220Z",
-    "canonical:5f4dcd919c47c8f1": "2026-08-15T02:29:09.220Z",
-    "canonical:aebba111be1ddc7b": "2026-08-15T02:29:09.220Z"
+    "canonical:aebba111be1ddc7b": "2026-08-15T02:29:09.220Z",
+    "canonical:e7f8cbac3cbaef2a": "2026-08-15T05:15:45.235Z",
+    "canonical:56dda4e7adbf59ab": "2026-08-15T05:15:45.235Z",
+    "canonical:6d17f2f7fc77166d": "2026-08-15T05:15:45.235Z"
   },
   "jobs": [
     {
@@ -3896,19 +3897,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:43c945396857ea6b",
-      "title": "AI Engineer Intern - BCG X",
-      "url": "https://careers.bcg.com/global/en/job/56635",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "Boston Consulting Group",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -12693,6 +12681,48 @@
       ]
     },
     {
+      "id": "canonical:e7f8cbac3cbaef2a",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003",
+      "location": "LA",
+      "department": "Hardware",
+      "company": "Freeform",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:56dda4e7adbf59ab",
+      "title": "Software Engineering Intern",
+      "url": "https://jobs.ashbyhq.com/hypercubic/ab7a23f9-7280-4443-b442-2813dc39d490/application?embed=true",
+      "location": "SF",
+      "department": "Software",
+      "company": "Hypercubic",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:6d17f2f7fc77166d",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883/application?embed=true",
+      "location": "SF / NYC",
+      "department": "Software",
+      "company": "Abridge",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:12cd06c0eec80152",
       "title": "Frontend Software Engineer Intern",
       "url": "https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c",
@@ -14608,20 +14638,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:5f4dcd919c47c8f1",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003",
-      "location": "Los Angeles, CA (On-site)",
-      "department": "Software / Summer 2027",
-      "company": "Freeform",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {

@@ -1508,7 +1508,6 @@
     "simplify:9a900104-2a94-4f83-8db2-d908f008ed99",
     "simplify:19adb890-3588-42e8-ac86-3d099f703889",
     "simplify:275b40b6-35f1-4ef6-9c1b-741a35b72c1f",
-    "simplify:aba3cf97-4ffd-4dce-876d-ab3305231512",
     "simplify:128e7ee0-9110-45e1-992d-270f1fa2be3d",
     "simplify:97e6ece1-7a71-4d9d-a1b3-255d28e56d89",
     "simplify:9736b037-9a12-4587-8cf7-4a4cdde4054f",
@@ -2235,7 +2234,10 @@
     "simplify:92c2bfc9-3493-46c6-8ec0-69f9b4225fd4",
     "simplify:8fea2128-ad21-47ad-b431-eb973db4321e",
     "simplify:51b1f750-bdc8-4369-865b-5edb226a9d44",
-    "simplify:44a036f1-8b46-4596-939b-e10b3f0e8761"
+    "simplify:44a036f1-8b46-4596-939b-e10b3f0e8761",
+    "simplify:6e3ed174-33a5-41fb-9927-ca07c12a6774",
+    "simplify:ee23b508-8622-4e85-a48c-712f76a6db3b",
+    "simplify:7b78baf6-f74f-4d7b-924f-a68d5e0e0dbf"
   ],
   "DoorDash": [],
   "Waymo": [
@@ -2343,7 +2345,6 @@
     "simplify:9a900104-2a94-4f83-8db2-d908f008ed99",
     "simplify:19adb890-3588-42e8-ac86-3d099f703889",
     "simplify:275b40b6-35f1-4ef6-9c1b-741a35b72c1f",
-    "simplify:aba3cf97-4ffd-4dce-876d-ab3305231512",
     "simplify:128e7ee0-9110-45e1-992d-270f1fa2be3d",
     "simplify:97e6ece1-7a71-4d9d-a1b3-255d28e56d89",
     "simplify:9736b037-9a12-4587-8cf7-4a4cdde4054f",
@@ -3070,7 +3071,10 @@
     "simplify:92c2bfc9-3493-46c6-8ec0-69f9b4225fd4",
     "simplify:8fea2128-ad21-47ad-b431-eb973db4321e",
     "simplify:51b1f750-bdc8-4369-865b-5edb226a9d44",
-    "simplify:44a036f1-8b46-4596-939b-e10b3f0e8761"
+    "simplify:44a036f1-8b46-4596-939b-e10b3f0e8761",
+    "simplify:6e3ed174-33a5-41fb-9927-ca07c12a6774",
+    "simplify:ee23b508-8622-4e85-a48c-712f76a6db3b",
+    "simplify:7b78baf6-f74f-4d7b-924f-a68d5e0e0dbf"
   ],
   "Wintermute": [],
   "QCP": [

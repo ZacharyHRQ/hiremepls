@@ -1,10 +1,11 @@
 # Open Internships
 
-**1041** internships across **186/186** companies — last updated 2026-08-15.
+**1042** internships across **186/186** companies — last updated 2026-08-15.
 
 ## Companies
 
 - [ CCC Intelligent Solutions](#ccc-intelligent-solutions) (1)
+- [Abridge](#abridge) (1)
 - [Abundant](#abundant) (1)
 - [Advanced Energy](#advanced-energy) (1)
 - [AeroVironment](#aerovironment) (1)
@@ -60,7 +61,7 @@
 - [Booz Allen](#booz-allen) (1)
 - [Bosch](#bosch) (2)
 - [Bosch Home Comfort](#bosch-home-comfort) (2)
-- [Boston Consulting Group](#boston-consulting-group) (2)
+- [Boston Consulting Group](#boston-consulting-group) (1)
 - [Bot Auto](#bot-auto) (1)
 - [Bree](#bree) (1)
 - [ByteDance](#bytedance) (55)
@@ -168,6 +169,7 @@
 - [Hudson River Trading](#hudson-river-trading) (2)
 - [Human Computer Lab](#human-computer-lab) (1)
 - [Hunt Oil Company](#hunt-oil-company) (2)
+- [Hypercubic](#hypercubic) (1)
 - [HyperLight](#hyperlight) (1)
 - [IMC](#imc) (1)
 - [IMC Trading](#imc-trading) (13)
@@ -403,6 +405,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Data Science Engineer Intern](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Data-Science-Engineer-Internship_0014843) | 93 | Chicago, IL | AI/ML/Data | 2026-08-12 |
+
+## Abridge
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883/application?embed=true) | 93 | SF / NYC | Software | 2026-08-15 |
 
 ## Abundant
 
@@ -806,7 +814,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [AI Engineer Intern - BCG X](https://careers.bcg.com/global/en/job/56635) | 85 | London, UK | AI/ML/Data | 2026-08-03 |
 | [Data Scientist Intern](https://careers.bcg.com/global/en/job/56634) | 85 | London, UK | AI/ML/Data | 2026-08-01 |
 
 ## Bot Auto
@@ -1372,7 +1379,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003) | 93 | Los Angeles, CA (On-site) | Software / Summer 2027 | 2026-08-15 |
+| [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003) | 93 | LA | Hardware | 2026-08-15 |
 
 ## Frontier Health
 
@@ -1581,6 +1588,12 @@
 | --- | --- | --- | --- | --- |
 | [SAP BTP Application Developer Intern - Summer 2026](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/886) | 85 | Dallas, TX | Software | 2026-05-09 |
 | [Software Engineer Intern - Summer 2026](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/891) | 85 | Dallas, TX | Software | 2026-05-09 |
+
+## Hypercubic
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineering Intern](https://jobs.ashbyhq.com/hypercubic/ab7a23f9-7280-4443-b442-2813dc39d490/application?embed=true) | 93 | SF | Software | 2026-08-15 |
 
 ## HyperLight
 
