@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-15T14:16:03.930Z",
+  "generatedAt": "2026-08-15T14:44:28.032Z",
   "companyCount": 186,
   "okCount": 186,
-  "jobCount": 1042,
+  "jobCount": 1040,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -18,7 +18,6 @@
     "canonical:7c6db6e223273197": "2026-05-06T06:42:07.596Z",
     "canonical:c3741eefab6317c5": "2026-05-06T06:42:07.596Z",
     "canonical:d277a6a426412a6c": "2026-05-06T06:42:07.596Z",
-    "canonical:cc0f5ecfa6da9985": "2026-05-09T15:28:15.527Z",
     "canonical:9fe324aefc9cbb4f": "2026-05-13T22:37:04.081Z",
     "canonical:a1d4ba3b6c814e63": "2026-05-09T15:28:15.527Z",
     "canonical:885c7029ab2fb04a": "2026-05-09T15:28:15.527Z",
@@ -984,7 +983,6 @@
     "canonical:2ef814da8da02125": "2026-08-13T09:53:01.918Z",
     "canonical:cbebb2666d4a65c1": "2026-08-13T09:53:01.918Z",
     "canonical:1bab936d4529ffd1": "2026-08-13T09:53:01.918Z",
-    "canonical:69acd4c0fa388415": "2026-08-13T15:12:21.386Z",
     "canonical:1acb5d1a74182db7": "2026-08-13T15:12:21.386Z",
     "canonical:97e22bbcb7a75783": "2026-08-13T15:57:09.615Z",
     "canonical:f9f8bc69f47c01d3": "2026-08-13T17:09:36.735Z",
@@ -3700,20 +3698,6 @@
       "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
       "department": "Software / Summer 2027",
       "company": "Anduril",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:cc0f5ecfa6da9985",
-      "title": "Crew Systems Engineering Intern - Avionics/Software",
-      "url": "https://jobs.ashbyhq.com/the-exploration-company/da63221d-dd60-41fe-8dd5-bb1a565a7824",
-      "location": "Houston, TX",
-      "department": "Software Engineering",
-      "company": "The Exploration Company",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -10627,20 +10611,6 @@
       "location": "Seattle, WA / SF / LA / NYC / Mountain View, CA",
       "department": "Software",
       "company": "Atoms",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:69acd4c0fa388415",
-      "title": "PhD Research Scientist Intern - Reinforcement Learning - Images",
-      "url": "https://jobs.smartrecruiters.com/Canva/6000000001292768",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "Canva",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
