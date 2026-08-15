@@ -1,6 +1,6 @@
 # Open Internships
 
-**1040** internships across **186/186** companies — last updated 2026-08-15.
+**1042** internships across **186/186** companies — last updated 2026-08-15.
 
 ## Companies
 
@@ -61,6 +61,7 @@
 - [Booz Allen](#booz-allen) (1)
 - [Bosch](#bosch) (2)
 - [Bosch Home Comfort](#bosch-home-comfort) (2)
+- [Boston Consulting Group](#boston-consulting-group) (2)
 - [Bot Auto](#bot-auto) (1)
 - [Bree](#bree) (1)
 - [ByteDance](#bytedance) (55)
@@ -808,6 +809,13 @@
 | [ADAS Software Engineer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140317669) | 93 | Plymouth, MI | Hardware | 2026-07-28 |
 | [Powertrain Controls Software Engineer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140089589) | 93 | Southfield, MI | Hardware | 2026-07-27 |
 
+## Boston Consulting Group
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI Engineer Intern - BCG X](https://careers.bcg.com/global/en/job/56635) | 85 | London, UK | AI/ML/Data | 2026-08-15 |
+| [Data Scientist Intern](https://careers.bcg.com/global/en/job/56634) | 85 | London, UK | AI/ML/Data | 2026-08-15 |
+
 ## Bot Auto
 
 | Title | Score | Location | Department | First seen |
@@ -1018,7 +1026,7 @@
 | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-07-29 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -2432,8 +2440,8 @@
 | --- | --- | --- | --- | --- |
 | [Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) | 85 | New York, NY | — | 2026-07-09 |
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-07-09 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -3326,7 +3334,7 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Quantitative Developer Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) | 93 | Boston, MA | Quant | 2026-08-04 |
-| [Equity Volatility Quant Researcher Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006) | 93 | Miami, FL | Quant | 2026-07-20 |
+| [Equity Volatility Quant Researcher Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006) | 93 | Miami, FL | — | 2026-07-20 |
 | [PhD Quantitative Researcher Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679184006) | 93 | Boston, MA | Quant | 2026-07-20 |
 
 ## WallStreetQuants
