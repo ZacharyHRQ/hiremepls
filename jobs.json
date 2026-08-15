@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-15T13:56:55.680Z",
+  "generatedAt": "2026-08-15T14:16:03.930Z",
   "companyCount": 186,
   "okCount": 186,
-  "jobCount": 1043,
+  "jobCount": 1042,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -581,7 +581,6 @@
     "canonical:cd4af5c4366cd50d": "2026-07-31T13:38:45.202Z",
     "canonical:0c4da77069236a47": "2026-07-31T13:38:45.202Z",
     "canonical:d4646522869a2e02": "2026-07-31T15:47:34.445Z",
-    "canonical:71f4c1680b019759": "2026-07-31T15:47:34.445Z",
     "canonical:63e18490d11ef543": "2026-07-31T15:47:34.445Z",
     "canonical:093c01e322f50a82": "2026-07-31T15:47:34.445Z",
     "canonical:8aa078ca6aa36f81": "2026-07-31T15:47:34.445Z",
@@ -4289,20 +4288,6 @@
       "location": "Milwaukee, WI",
       "department": "Software",
       "company": "Marmon Holdings",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:71f4c1680b019759",
-      "title": "Hunyuan Multimodal Algorithm Researcher Intern",
-      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-Intern-Omni-Modal---_R107051",
-      "location": "Palo Alto, CA",
-      "department": "AI/ML/Data",
-      "company": "Tencent",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",

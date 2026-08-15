@@ -1,6 +1,6 @@
 # Open Internships
 
-**1043** internships across **186/186** companies — last updated 2026-08-15.
+**1042** internships across **186/186** companies — last updated 2026-08-15.
 
 ## Companies
 
@@ -342,7 +342,7 @@
 - [Susquehanna Investment Group](#susquehanna-investment-group) (1)
 - [Synchrony Financial](#synchrony-financial) (1)
 - [Teledyne](#teledyne) (1)
-- [Tencent](#tencent) (3)
+- [Tencent](#tencent) (2)
 - [Tenstorrent](#tenstorrent) (1)
 - [Terranova](#terranova) (1)
 - [Terranox AI](#terranox-ai) (1)
@@ -2905,7 +2905,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Hunyuan Multimodal Algorithm Researcher Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-Intern-Omni-Modal---_R107051) | 93 | Palo Alto, CA | AI/ML/Data | 2026-07-31 |
 | [Software Engineering Intern - PC Game Client Development](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Software-Engineering-Intern_R107162-1) | 93 | London, UK | Software | 2026-07-07 |
 | [Hunyuan Multimodal Algorithm Researcher intern - Omni-Modal](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650) | 93 | Palo Alto, CA | AI/ML/Data | 2026-06-13 |
 
