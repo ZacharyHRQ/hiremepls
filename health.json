@@ -1,1 +1,12 @@
-{}
+{
+  "Snap": {
+    "consecutiveFailures": 1,
+    "lastError": "workday snap: expected JSON, got text/html; charset=UTF-8: <!DOCTYPE html>\n<html lang=\"en\" dir=\"ltr\">\n  <head>\n    <meta charset=\"utf-8\" />",
+    "alerted": false
+  },
+  "BlackRock": {
+    "consecutiveFailures": 1,
+    "lastError": "workday blackrock: expected JSON, got text/html; charset=UTF-8: <!DOCTYPE html>\n<html lang=\"en\" dir=\"ltr\">\n  <head>\n    <meta charset=\"utf-8\" />",
+    "alerted": false
+  }
+}
