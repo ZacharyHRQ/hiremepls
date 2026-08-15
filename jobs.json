@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-15T08:51:37.455Z",
+  "generatedAt": "2026-08-15T09:15:52.477Z",
   "companyCount": 186,
   "okCount": 186,
-  "jobCount": 1043,
+  "jobCount": 1042,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -594,7 +594,6 @@
     "canonical:7756f5c0ccf773ae": "2026-08-01T01:11:39.659Z",
     "canonical:357d504c8f658c9e": "2026-08-01T09:19:26.401Z",
     "canonical:6353eecea9024842": "2026-08-01T10:54:12.708Z",
-    "canonical:a356ac432d4a0c77": "2026-08-01T10:54:12.708Z",
     "canonical:60b30a2541365f63": "2026-08-01T10:54:12.708Z",
     "canonical:39523ec1bced691c": "2026-08-01T10:54:12.708Z",
     "canonical:9a93c8600bc816f6": "2026-08-01T10:54:12.708Z",
@@ -3898,19 +3897,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:a356ac432d4a0c77",
-      "title": "Data Scientist Intern",
-      "url": "https://careers.bcg.com/global/en/job/56634",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "Boston Consulting Group",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -8141,19 +8127,6 @@
       "location": "San Mateo, CA",
       "department": "Software",
       "company": "Gitar, Inc.",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:4d3ecad04d206251",
-      "title": "Software Engineer Intern",
-      "url": "https://ats.rippling.com/greengas/jobs/b2938290-cc66-4f54-9888-bbe286c1d9b6",
-      "location": "Houston, TX",
-      "department": "Software",
-      "company": "Mobius Renewables",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -13880,6 +13853,19 @@
       "location": "Glendale, CA",
       "department": "",
       "company": "Moon",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:4d3ecad04d206251",
+      "title": "Software Engineer Intern",
+      "url": "https://ats.rippling.com/en-GB/greengas/jobs/b2938290-cc66-4f54-9888-bbe286c1d9b6",
+      "location": "Houston, TX",
+      "department": "",
+      "company": "Mobius Renewables",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
