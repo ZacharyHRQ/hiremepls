@@ -1,6 +1,6 @@
 # Open Internships
 
-**1042** internships across **186/186** companies — last updated 2026-08-15.
+**1043** internships across **186/186** companies — last updated 2026-08-15.
 
 ## Companies
 
@@ -296,6 +296,7 @@
 - [Ramp](#ramp) (1)
 - [Redwood Materials](#redwood-materials) (2)
 - [Rendezvous Robotics](#rendezvous-robotics) (1)
+- [Replit](#replit) (1)
 - [Reply](#reply) (1)
 - [RESPEC](#respec) (1)
 - [ResponsiveAds](#responsiveads) (1)
@@ -2560,6 +2561,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern (Fall 2026)](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4328555009) | 93 | Golden, CO | Software / Fall 2026 | 2026-07-28 |
+
+## Replit
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineering Intern (Summer 2027)](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1) | 90 | — | Engineering | 2026-08-15 |
 
 ## Reply
 

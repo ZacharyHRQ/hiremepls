@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-15T18:16:11.246Z",
+  "generatedAt": "2026-08-15T18:52:34.859Z",
   "companyCount": 186,
   "okCount": 186,
-  "jobCount": 1042,
+  "jobCount": 1043,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1045,7 +1045,8 @@
     "canonical:52c031b66b029fd2": "2026-08-15T09:46:15.911Z",
     "canonical:04172e347ecd89c6": "2026-08-15T13:40:18.753Z",
     "canonical:43c945396857ea6b": "2026-08-15T15:41:41.179Z",
-    "canonical:a356ac432d4a0c77": "2026-08-15T15:41:41.179Z"
+    "canonical:a356ac432d4a0c77": "2026-08-15T15:41:41.179Z",
+    "canonical:048062115e7c1def": "2026-08-15T18:52:34.859Z"
   },
   "jobs": [
     {
@@ -2046,6 +2047,21 @@
       "location": "",
       "department": "Search",
       "company": "Perplexity",
+      "score": 90,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS",
+        "unknown location"
+      ]
+    },
+    {
+      "id": "canonical:048062115e7c1def",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1",
+      "location": "",
+      "department": "Engineering",
+      "company": "Replit",
       "score": 90,
       "scoreReasons": [
         "SWE-aligned",
