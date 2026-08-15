@@ -1,7 +1,1 @@
-{
-  "BlackRock": {
-    "consecutiveFailures": 3,
-    "lastError": "workday blackrock: expected JSON, got text/html; charset=UTF-8: <!DOCTYPE html>\n<html lang=\"en\" dir=\"ltr\">\n  <head>\n    <meta charset=\"utf-8\" />",
-    "alerted": true
-  }
-}
+{}
