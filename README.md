@@ -1,6 +1,6 @@
 # hireme
 
-**A self-hosted, zero-cost pipeline that watches 180+ company career pages so you don't have to — and pings you the moment a relevant internship opens up.**
+**A self-hosted, zero-cost pipeline that watches 180+ company career pages so you don't have to, pings you the moment a relevant internship opens up.**
 
 ## Why this exists
 
