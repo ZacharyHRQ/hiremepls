@@ -1,8 +1,20 @@
 # hireme
 
-An automated internship discovery pipeline. It polls 180+ company career pages across 14 different ATS platforms every 15 minutes, filters and ranks the results for software engineering internships, deduplicates cross-posted listings, and pushes new matches to Telegram — all running unattended on GitHub Actions.
+**A self-hosted, zero-cost pipeline that watches 180+ company career pages so you don't have to — and pings you the moment a relevant internship opens up.**
 
-I built this because manually checking dozens of companies' career pages for internship postings doesn't scale. This does it for me, continuously, for free.
+## Why this exists
+
+Every serious internship search hits the same wall: the good roles get buried fast, career pages don't have a shared feed, and no single job board actually aggregates them all reliably. The alternative is manually re-checking dozens of tabs every day, which doesn't scale and burns hours you could spend actually applying.
+
+`hireme` treats that as a data engineering problem instead of a chore. It's a small, dependency-light system that:
+
+- **integrates with 14 different ATS platforms** (Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Workable, Recruitee, Personio, and more) behind one common interface, so adding a new company is a one-line config entry, not a new scraper
+- **classifies and scores** postings with a purpose-built heuristic engine to separate real SWE/new-grad roles from noise
+- **deduplicates** the same job when it's mirrored across multiple sources
+- **runs itself** on a 15-minute GitHub Actions cron with no server, no database, and no hosting cost — state lives in version-controlled JSON, and the workflow commits its own snapshots back to the repo
+- **delivers instantly** to Telegram, so new openings show up as a push notification instead of requiring a manual check
+
+It's a compact example of building a resilient, low-maintenance data pipeline: multi-source ingestion, normalization, dedupe, ranking, alerting, and observability (per-source health tracking with flap-tolerant alerts), all in well-organized, dependency-free TypeScript. Explore `src/ats/` to see the integration pattern, or `src/rank.ts` and `src/dedupe.ts` for the heuristics that make the results actually useful.
 
 ## How it works
 
