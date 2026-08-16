@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T22:55:30.584Z",
+  "generatedAt": "2026-08-16T23:10:54.376Z",
   "companyCount": 186,
   "okCount": 186,
   "jobCount": 1044,
@@ -316,9 +316,7 @@
     "canonical:548b826ab097792b": "2026-07-14T00:56:03.544Z",
     "canonical:6c8c8b45632bb7cb": "2026-07-14T00:56:03.544Z",
     "canonical:044306bab4aa363e": "2026-07-14T00:56:03.544Z",
-    "canonical:d00761de896465cf": "2026-07-14T00:56:03.544Z",
     "canonical:630c1198382a5d1c": "2026-07-14T00:56:03.544Z",
-    "canonical:51098f384b0f48ac": "2026-07-14T00:56:03.544Z",
     "canonical:43728627d97ce77d": "2026-07-14T00:56:03.544Z",
     "canonical:71948c456d694546": "2026-07-14T00:56:03.544Z",
     "canonical:d653e530bf00d5d7": "2026-07-14T00:56:03.544Z",
@@ -1047,7 +1045,9 @@
     "canonical:384018ef9fafd329": "2026-08-16T11:14:12.453Z",
     "canonical:2696d27e53de0c2e": "2026-08-16T12:17:42.410Z",
     "canonical:38a7d4388515b288": "2026-08-16T21:32:48.636Z",
-    "canonical:e2cc49b599955c1f": "2026-08-16T22:34:11.966Z"
+    "canonical:e2cc49b599955c1f": "2026-08-16T22:34:11.966Z",
+    "canonical:5d5e532bc1055333": "2026-08-16T23:10:54.376Z",
+    "canonical:50fb866ecf580376": "2026-08-16T23:10:54.376Z"
   },
   "jobs": [
     {
@@ -1374,10 +1374,10 @@
       ]
     },
     {
-      "id": "canonical:d1d20c5456576574",
+      "id": "canonical:adc1bdd879675b5a",
       "title": "Campus Data Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
-      "location": "Chicago",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7975008",
+      "location": "London",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -1387,10 +1387,10 @@
       ]
     },
     {
-      "id": "canonical:adc1bdd879675b5a",
+      "id": "canonical:d1d20c5456576574",
       "title": "Campus Data Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7975008",
-      "location": "London",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
+      "location": "Chicago",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -1529,10 +1529,10 @@
       ]
     },
     {
-      "id": "canonical:eea417b083785298",
+      "id": "canonical:4d567555739a50bd",
       "title": "Campus Systems Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
-      "location": "London; Amsterdam",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
+      "location": "Singapore",
       "department": "",
       "company": "Jump Trading",
       "score": 75,
@@ -1541,10 +1541,10 @@
       ]
     },
     {
-      "id": "canonical:4d567555739a50bd",
+      "id": "canonical:eea417b083785298",
       "title": "Campus Systems Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
-      "location": "Singapore",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
+      "location": "London; Amsterdam",
       "department": "",
       "company": "Jump Trading",
       "score": 75,
@@ -1620,20 +1620,6 @@
       ]
     },
     {
-      "id": "canonical:1d41c103b87b651a",
-      "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
-      "location": "Chicago, IL",
-      "department": "Software",
-      "company": "DRW",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:f9963438d881a851",
       "title": "Software Developer Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
@@ -1648,10 +1634,10 @@
       ]
     },
     {
-      "id": "canonical:81000bcd395c1244",
+      "id": "canonical:bd72b8a6944f6777",
       "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
-      "location": "Montreal, QC, Canada",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
+      "location": "London, UK",
       "department": "Software",
       "company": "DRW",
       "score": 93,
@@ -1662,10 +1648,24 @@
       ]
     },
     {
-      "id": "canonical:bd72b8a6944f6777",
+      "id": "canonical:1d41c103b87b651a",
       "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
-      "location": "London, UK",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
+      "location": "Chicago, IL",
+      "department": "Software",
+      "company": "DRW",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:81000bcd395c1244",
+      "title": "Software Developer Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
+      "location": "Montreal, QC, Canada",
       "department": "Software",
       "company": "DRW",
       "score": 93,
@@ -1807,10 +1807,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -1821,10 +1821,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -3546,7 +3546,7 @@
     {
       "id": "canonical:1a056010d15d11c7",
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -3628,36 +3628,10 @@
       ]
     },
     {
-      "id": "canonical:d00761de896465cf",
-      "title": "Full Stack Software Engineer Intern - Winter 2027",
-      "url": "https://ats.rippling.com/rippling/jobs/35b3ba25-ff2e-4b68-a2d7-61be26f2b24a",
-      "location": "Seattle, WA",
-      "department": "Engineering",
-      "company": "Rippling",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:630c1198382a5d1c",
       "title": "Machine Learning Software Engineer Intern - Winter 2027",
       "url": "https://ats.rippling.com/rippling/jobs/82c13e8f-ae96-4c60-a872-c0ddf9eb0781",
       "location": "San Francisco, CA",
-      "department": "Engineering",
-      "company": "Rippling",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:51098f384b0f48ac",
-      "title": "Software Engineer Intern - Backend Focused - Winter 2027",
-      "url": "https://ats.rippling.com/rippling/jobs/00cbc991-d2fb-452c-a8b6-2978f109a484",
-      "location": "Seattle, WA",
       "department": "Engineering",
       "company": "Rippling",
       "score": 85,
@@ -5634,6 +5608,32 @@
       "location": "Remote in USA",
       "department": "AI/ML/Data",
       "company": "Peraton",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:5d5e532bc1055333",
+      "title": "Full Stack Software Engineer Intern",
+      "url": "https://ats.rippling.com/rippling/jobs/35b3ba25-ff2e-4b68-a2d7-61be26f2b24a",
+      "location": "Seattle, WA / SF / NYC",
+      "department": "Software",
+      "company": "Rippling",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:50fb866ecf580376",
+      "title": "Software Engineer Intern - Backend Focused",
+      "url": "https://ats.rippling.com/rippling/jobs/00cbc991-d2fb-452c-a8b6-2978f109a484",
+      "location": "Seattle, WA / SF / NYC",
+      "department": "Software",
+      "company": "Rippling",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
