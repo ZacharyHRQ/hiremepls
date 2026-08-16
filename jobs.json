@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-16T10:56:47.153Z",
+  "generatedAt": "2026-08-16T11:14:12.453Z",
   "companyCount": 186,
   "okCount": 186,
-  "jobCount": 1043,
+  "jobCount": 1044,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1046,7 +1046,8 @@
     "canonical:3ff9782528b8221c": "2026-08-15T23:12:07.275Z",
     "canonical:2ff1cdec06dabfc6": "2026-08-15T23:12:07.275Z",
     "canonical:b33b629ebdcaad9a": "2026-08-16T02:10:05.581Z",
-    "canonical:71f4c1680b019759": "2026-08-16T09:19:37.366Z"
+    "canonical:71f4c1680b019759": "2026-08-16T09:19:37.366Z",
+    "canonical:384018ef9fafd329": "2026-08-16T11:14:12.453Z"
   },
   "jobs": [
     {
@@ -12166,6 +12167,20 @@
       "location": "New Jersey",
       "department": "AI/ML/Data",
       "company": "Analytical Mechanics Associates",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:384018ef9fafd329",
+      "title": "Software Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Intern--Summer-2027-_01864400",
+      "location": "Annapolis, MD",
+      "department": "Software",
+      "company": "RTX",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",

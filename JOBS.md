@@ -1,6 +1,6 @@
 # Open Internships
 
-**1043** internships across **186/186** companies — last updated 2026-08-16.
+**1044** internships across **186/186** companies — last updated 2026-08-16.
 
 ## Companies
 
@@ -307,7 +307,7 @@
 - [Robert Bosch LLC](#robert-bosch-llc) (1)
 - [Roblox](#roblox) (1)
 - [RRS Group](#rrs-group) (2)
-- [RTX](#rtx) (18)
+- [RTX](#rtx) (19)
 - [Samsara](#samsara) (2)
 - [Sandhills Global](#sandhills-global) (2)
 - [Savannah River National Laboratory](#savannah-river-national-laboratory) (1)
@@ -2650,6 +2650,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Intern--Summer-2027-_01864400) | 93 | Annapolis, MD | Software | 2026-08-16 |
 | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392) | 93 | San Jose, CA | Software | 2026-08-15 |
 | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Software-Engineering-Intern--Summer-2027-_01865808) | 93 | East Hartford, CT | Hardware | 2026-08-15 |
 | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01865952) | 93 | West Valley City, UT | Software | 2026-08-15 |
