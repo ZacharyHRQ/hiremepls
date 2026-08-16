@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-16T00:39:12.568Z",
+  "generatedAt": "2026-08-16T02:10:05.581Z",
   "companyCount": 186,
   "okCount": 186,
-  "jobCount": 1044,
+  "jobCount": 1043,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1041,13 +1041,12 @@
     "canonical:43c945396857ea6b": "2026-08-15T15:41:41.179Z",
     "canonical:a356ac432d4a0c77": "2026-08-15T15:41:41.179Z",
     "canonical:590ef4739668bc87": "2026-08-15T19:13:58.772Z",
-    "canonical:69acd4c0fa388415": "2026-08-15T22:35:18.979Z",
     "canonical:0e9e3f24b312ca3e": "2026-08-15T23:12:07.275Z",
     "canonical:edc62f7832537a12": "2026-08-15T23:12:07.275Z",
     "canonical:7cfcff8cf1f7588a": "2026-08-15T23:12:07.275Z",
     "canonical:3ff9782528b8221c": "2026-08-15T23:12:07.275Z",
     "canonical:2ff1cdec06dabfc6": "2026-08-15T23:12:07.275Z",
-    "canonical:2f302c5103e5056c": "2026-08-15T23:54:20.906Z"
+    "canonical:b33b629ebdcaad9a": "2026-08-16T02:10:05.581Z"
   },
   "jobs": [
     {
@@ -10635,20 +10634,6 @@
       ]
     },
     {
-      "id": "canonical:69acd4c0fa388415",
-      "title": "PhD Research Scientist Intern - Reinforcement Learning - Images",
-      "url": "https://jobs.smartrecruiters.com/Canva/6000000001292768",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "Canva",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:1b9ebef2b324c80c",
       "title": "Full-Stack Developer Intern - Python",
       "url": "https://alayacare.com/open-positions?gh_jid=8687981002",
@@ -12697,6 +12682,19 @@
       ]
     },
     {
+      "id": "canonical:b33b629ebdcaad9a",
+      "title": "Software Engineering Intern - AI",
+      "url": "https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26738",
+      "location": "Remote in USA",
+      "department": "Software",
+      "company": "Photon",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:12cd06c0eec80152",
       "title": "Frontend Software Engineer Intern",
       "url": "https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c",
@@ -14635,19 +14633,6 @@
       "location": "St. Louis, MO",
       "department": "",
       "company": "Wells Fargo",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:2f302c5103e5056c",
-      "title": "Software Engineering / AI Intern - US - Remote",
-      "url": "https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26738",
-      "location": "United States",
-      "department": "Data & ML/AI / Not stated",
-      "company": "Photon",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
