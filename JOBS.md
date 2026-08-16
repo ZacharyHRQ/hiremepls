@@ -1,6 +1,6 @@
 # Open Internships
 
-**1043** internships across **183/186** companies — last updated 2026-08-16.
+**1044** internships across **186/186** companies — last updated 2026-08-16.
 
 ## Companies
 
@@ -288,6 +288,7 @@
 - [ProNexus](#pronexus) (1)
 - [Prospect Equities](#prospect-equities) (1)
 - [Pylon](#pylon) (1)
+- [QCP](#qcp) (1)
 - [Quadrillion](#quadrillion) (2)
 - [Quantbot Technologies](#quantbot-technologies) (4)
 - [QuEra Computing](#quera-computing) (1)
@@ -2507,6 +2508,12 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application) | 93 | SF | Software | 2026-08-01 |
 
+## QCP
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Intern, Quantitative Developer (Jan - Jun 2027)](https://apply.workable.com/qcp-group/j/22CE3A4EDE/) | 93 | Singapore, Singapore, Singapore | Research & Development | 2026-08-16 |
+
 ## Quadrillion
 
 | Title | Score | Location | Department | First seen |
@@ -3411,9 +3418,3 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Embedded Software Engineer Intern](https://www.zipline.com/careers?gh_jid=7765240003#open-roles) | 85 | San Bruno, CA | Hardware | 2026-08-04 |
-
-## Errors this run
-
-- **Wintermute**: workable wintermute-trading: HTTP 429
-- **QCP**: workable qcp-group: HTTP 429
-- **Hugging Face**: workable huggingface: HTTP 429

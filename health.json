@@ -1,17 +1,1 @@
-{
-  "Wintermute": {
-    "consecutiveFailures": 1,
-    "lastError": "workable wintermute-trading: HTTP 429",
-    "alerted": false
-  },
-  "QCP": {
-    "consecutiveFailures": 1,
-    "lastError": "workable qcp-group: HTTP 429",
-    "alerted": false
-  },
-  "Hugging Face": {
-    "consecutiveFailures": 1,
-    "lastError": "workable huggingface: HTTP 429",
-    "alerted": false
-  }
-}
+{}

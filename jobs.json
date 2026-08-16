@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-16T22:10:14.877Z",
+  "generatedAt": "2026-08-16T22:34:11.966Z",
   "companyCount": 186,
-  "okCount": 183,
-  "jobCount": 1043,
+  "okCount": 186,
+  "jobCount": 1044,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1046,7 +1046,8 @@
     "canonical:71f4c1680b019759": "2026-08-16T09:19:37.366Z",
     "canonical:384018ef9fafd329": "2026-08-16T11:14:12.453Z",
     "canonical:2696d27e53de0c2e": "2026-08-16T12:17:42.410Z",
-    "canonical:38a7d4388515b288": "2026-08-16T21:32:48.636Z"
+    "canonical:38a7d4388515b288": "2026-08-16T21:32:48.636Z",
+    "canonical:e2cc49b599955c1f": "2026-08-16T22:34:11.966Z"
   },
   "jobs": [
     {
@@ -2009,6 +2010,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:e2cc49b599955c1f",
+      "title": "Intern, Quantitative Developer (Jan - Jun 2027)",
+      "url": "https://apply.workable.com/qcp-group/j/22CE3A4EDE/",
+      "location": "Singapore, Singapore, Singapore",
+      "department": "Research & Development",
+      "company": "QCP",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -15194,18 +15209,5 @@
       ]
     }
   ],
-  "errors": [
-    {
-      "company": "Wintermute",
-      "message": "workable wintermute-trading: HTTP 429"
-    },
-    {
-      "company": "QCP",
-      "message": "workable qcp-group: HTTP 429"
-    },
-    {
-      "company": "Hugging Face",
-      "message": "workable huggingface: HTTP 429"
-    }
-  ]
+  "errors": []
 }
