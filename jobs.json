@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T21:32:48.636Z",
+  "generatedAt": "2026-08-16T21:53:56.993Z",
   "companyCount": 186,
   "okCount": 186,
   "jobCount": 1044,
@@ -8067,6 +8067,19 @@
       ]
     },
     {
+      "id": "canonical:38a7d4388515b288",
+      "title": "Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI",
+      "url": "https://ats.rippling.com/spreeai/jobs/aa087086-dd4b-42be-a499-051546655e97",
+      "location": "SF",
+      "department": "AI/ML/Data",
+      "company": "SpreeAI ",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:5c2778d446a1f22f",
       "title": "Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web",
       "url": "https://ats.rippling.com/spreeai/jobs/c52472cb-2671-45d7-b666-17196dc3df25",
@@ -12690,19 +12703,6 @@
       "location": "Remote in USA",
       "department": "Software",
       "company": "Photon",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:38a7d4388515b288",
-      "title": "Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI",
-      "url": "https://ats.rippling.com/spreeai/jobs/aa087086-dd4b-42be-a499-051546655e97",
-      "location": "SF",
-      "department": "AI/ML/Data",
-      "company": "SpreeAI ",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
