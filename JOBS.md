@@ -1,6 +1,6 @@
 # Open Internships
 
-**1040** internships across **186/186** companies — last updated 2026-08-17.
+**1043** internships across **186/186** companies — last updated 2026-08-17.
 
 ## Companies
 
@@ -358,7 +358,7 @@
 - [Thermo Fisher Scientific](#thermo-fisher-scientific) (1)
 - [Thomson Reuters](#thomson-reuters) (1)
 - [TIFIN](#tifin) (1)
-- [TikTok](#tiktok) (87)
+- [TikTok](#tiktok) (89)
 - [Tilde Research](#tilde-research) (2)
 - [Together AI](#together-ai) (1)
 - [Tower Research](#tower-research) (1)
@@ -387,6 +387,7 @@
 - [Voloridge](#voloridge) (1)
 - [Voloridge Investment Management](#voloridge-investment-management) (1)
 - [VWH Capital Management](#vwh-capital-management) (1)
+- [W.W. Grainger](#w-w-grainger) (1)
 - [Walleye Capital](#walleye-capital) (3)
 - [WallStreetQuants](#wallstreetquants) (2)
 - [Waymo](#waymo) (1)
@@ -519,8 +520,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987) | 91 | Charlotte, NC, United States | Software / Summer 2027 | 2026-08-17 |
-| [Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- New York, NY](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082) | 91 | New York, NY, United States | Software / Summer 2027 | 2026-08-17 |
+| [Software Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987) | 85 | Charlotte, NC | Software | 2026-08-17 |
+| [Software Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082) | 85 | NYC | Software | 2026-08-17 |
 
 ## American Fidelity
 
@@ -1033,7 +1034,7 @@
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
 | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -3071,6 +3072,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data Engineer Intern - Data Platform Global Live](https://lifeattiktok.com/search/7674032146438162693) | 85 | San Jose, CA | AI/ML/Data | 2026-08-17 |
+| [Machine Learning Engineer Intern - E-Commerce Governance](https://lifeattiktok.com/search/7674029136531015941) | 85 | Seattle, WA | AI/ML/Data | 2026-08-17 |
 | [Mobile Software Engineer Intern - Global E-Commerce](https://lifeattiktok.com/search/7673663349758675205) | 85 | San Jose, CA | Software | 2026-08-14 |
 | [Machine Learning Engineer Intern - E-Commerce Recommendation Foundation](https://lifeattiktok.com/search/7672883129493948677) | 85 | San Jose, CA | AI/ML/Data | 2026-08-12 |
 | [Machine Learning Engineer Intern - E-Commerce Recommendation Foundation](https://lifeattiktok.com/search/7672881840860940597) | 85 | Seattle, WA | AI/ML/Data | 2026-08-12 |
@@ -3332,6 +3335,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Quantitative Researcher Intern](https://jobs.smartrecruiters.com/VWHCapitalManagementLP/744000135105801) | 93 | Dallas, TX | Quant | 2026-08-13 |
+
+## W.W. Grainger
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer Intern - Grainger Technology Group](https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Software-Engineer-IL-60661-4555/1419930800/?ats=successfactors) | 85 | Chicago, IL | Software | 2026-08-17 |
 
 ## Walleye Capital
 
