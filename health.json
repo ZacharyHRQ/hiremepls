@@ -1,1 +1,12 @@
-{}
+{
+  "vanshb03": {
+    "consecutiveFailures": 1,
+    "lastError": "vanshb03: HTTP 503",
+    "alerted": false
+  },
+  "Rethinkjobs Summer 2026": {
+    "consecutiveFailures": 1,
+    "lastError": "githubMarkdown Rethinkjobs Summer 2026: HTTP 503",
+    "alerted": false
+  }
+}
