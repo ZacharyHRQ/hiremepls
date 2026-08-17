@@ -1,15 +1,19 @@
 import type { Job } from "./types.ts";
 
-const INTERN_PATTERNS = [
+const EARLY_CAREER_PATTERNS = [
   /\bintern\b/i,
   /\binternship\b/i,
   /\bsummer\s+(analyst|associate|trader|researcher|engineer)\b/i,
-  /\b(graduate|new\s*grad)\b/i,
+  /\b(graduate|new\s*grad(uate)?)\b/i,
+  /\bearly[- ]career\b/i,
+  /\bearly[- ]in[- ]career\b/i,
+  /\buniversity\s+(grad(uate)?|hire)\b/i,
+  /\b(class\s+of\s+20\d{2})\b/i,
 ];
 
-export function isInternship(job: Job): boolean {
+export function isEarlyCareer(job: Job): boolean {
   const haystack = `${job.title} ${job.department}`;
-  return INTERN_PATTERNS.some((p) => p.test(haystack));
+  return EARLY_CAREER_PATTERNS.some((p) => p.test(haystack));
 }
 
 const SWE_ROLE_PATTERNS = [

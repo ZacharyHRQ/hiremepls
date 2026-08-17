@@ -13,13 +13,14 @@ interface VanshListing {
   source?: string;
 }
 
-const LISTINGS_URL =
+const DEFAULT_URL =
   "https://raw.githubusercontent.com/vanshb03/Summer2026-Internships/dev/.github/scripts/listings.json";
 
 const ACCEPTED_SEASONS = new Set(["Summer", "Fall", "Spring", "Winter"]);
 
 export async function fetchVanshb03(company: Company): Promise<Job[]> {
-  const res = await fetch(LISTINGS_URL, {
+  const url = company.sourceUrl ?? DEFAULT_URL;
+  const res = await fetch(url, {
     headers: { "User-Agent": "hireme-bot" },
   });
   if (!res.ok) {

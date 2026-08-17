@@ -14,7 +14,7 @@ import { fetchAmazon } from "./ats/amazon.ts";
 import { fetchRecruitee } from "./ats/recruitee.ts";
 import { fetchPersonio } from "./ats/personio.ts";
 import {
-  isInternship,
+  isEarlyCareer,
   isSoftwareEngineering,
   passesLocation,
   parseLocationFilter,
@@ -23,6 +23,7 @@ import { canonicalJobId, dedupeJobs } from "./dedupe.ts";
 import { compareJobsByScore, scoreJobs } from "./rank.ts";
 import { sendJob, sendText } from "./notifier.ts";
 import { renderMarkdown } from "./render/markdown.ts";
+import { filterLive, type LivenessCache } from "./liveness.ts";
 import type {
   Company,
   CompanyHealth,
@@ -37,6 +38,23 @@ const COMPANIES_PATH = "companies.json";
 const JOBS_PATH = "jobs.json";
 const MARKDOWN_PATH = "JOBS.md";
 const HEALTH_PATH = "health.json";
+const LIVENESS_PATH = "liveness.json";
+
+// These ATS kinds are third-party aggregators that mirror job links from
+// many companies rather than a company's own live board API. Their
+// active/is_visible flags lag reality, so postings that have actually been
+// pulled (404/410/closed) can still show up as "active" here — those links
+// need an extra liveness probe before we trust them. Direct-board kinds
+// (greenhouse, ashby, lever, ...) are already guaranteed live by the fetch
+// itself.
+const AGGREGATOR_ATS = new Set(["vanshb03", "simplify", "githubMarkdown", "githubJson"]);
+
+// These sources are dedicated new-grad job boards — every listing in them is
+// already early-career by construction, even when the title itself is a
+// plain "Software Engineer" with no "new grad"/"intern" qualifier. Skip the
+// keyword-based early-career check for their listings so those don't get
+// dropped.
+const ASSUME_EARLY_CAREER = new Set(["SimplifyJobs New Grad", "vanshb03 New Grad"]);
 // A single run every 15 min can fail for transient reasons (rate limits, network
 // blips). Only alert once a source has been broken for this many consecutive
 // runs (~45 min), and only once per outage — re-alerting resumes if it heals
@@ -117,7 +135,8 @@ async function main() {
   const next: SeenState = { ...seen };
   const firstRun = Object.keys(seen).length === 0;
   const generatedAt = new Date().toISOString();
-  const allInterns: Job[] = [];
+  const directInterns: Job[] = [];
+  const aggregatorInterns: Job[] = [];
   const errors: SnapshotError[] = [];
   let okCount = 0;
 
@@ -129,8 +148,8 @@ async function main() {
     );
   }
 
-  const matchesAll = (j: Job): boolean => {
-    if (!isInternship(j)) return false;
+  const matchesAll = (j: Job, assumeEarlyCareer: boolean): boolean => {
+    if (!assumeEarlyCareer && !isEarlyCareer(j)) return false;
     if (sweOnly && !isSoftwareEngineering(j)) return false;
     if (locationFilter && !passesLocation(j, locationFilter)) return false;
     return true;
@@ -148,8 +167,13 @@ async function main() {
     }
     okCount++;
 
-    const interns = jobs.filter(matchesAll);
-    allInterns.push(...interns);
+    const assumeEarlyCareer = ASSUME_EARLY_CAREER.has(company.name);
+    const interns = jobs.filter((j) => matchesAll(j, assumeEarlyCareer));
+    if (AGGREGATOR_ATS.has(company.ats)) {
+      aggregatorInterns.push(...interns);
+    } else {
+      directInterns.push(...interns);
+    }
     const ids = interns.map((j) => j.id);
     next[company.name] = ids;
 
@@ -157,6 +181,18 @@ async function main() {
       `✓ ${company.name}: ${jobs.length} total, ${interns.length} intern`,
     );
   }
+
+  const livenessCache = await loadJson<LivenessCache>(LIVENESS_PATH, {});
+  const { live: liveAggregatorInterns, cache: nextLivenessCache } = await filterLive(
+    aggregatorInterns,
+    livenessCache,
+  );
+  const deadCount = aggregatorInterns.length - liveAggregatorInterns.length;
+  if (deadCount > 0) {
+    console.log(`✗ dropped ${deadCount} aggregator job(s) with dead links`);
+  }
+  await writeFile(LIVENESS_PATH, JSON.stringify(nextLivenessCache, null, 2) + "\n");
+  const allInterns = [...directInterns, ...liveAggregatorInterns];
 
   const health = await loadJson<CompanyHealth>(HEALTH_PATH, {});
   const nextHealth: CompanyHealth = {};

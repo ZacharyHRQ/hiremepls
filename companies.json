@@ -203,6 +203,18 @@
   },
   { "name": "vanshb03", "ats": "vanshb03", "slug": "" },
   {
+    "name": "SimplifyJobs New Grad",
+    "ats": "simplify",
+    "slug": "",
+    "sourceUrl": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/.github/scripts/listings.json"
+  },
+  {
+    "name": "vanshb03 New Grad",
+    "ats": "vanshb03",
+    "slug": "",
+    "sourceUrl": "https://raw.githubusercontent.com/vanshb03/New-Grad-2027/dev/.github/scripts/listings.json"
+  },
+  {
     "name": "Rethinkjobs Summer 2026",
     "ats": "githubMarkdown",
     "slug": "rethinkjobs-summer-2026",
