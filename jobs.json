@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-17T14:50:43.429Z",
+  "generatedAt": "2026-08-17T15:15:37.907Z",
   "companyCount": 186,
-  "okCount": 184,
-  "jobCount": 910,
+  "okCount": 186,
+  "jobCount": 1046,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -913,7 +913,143 @@
     "canonical:4930d2491d1a5c4b": "2026-08-17T14:17:02.094Z",
     "canonical:48f04e22759b42b7": "2026-08-17T14:17:02.094Z",
     "canonical:29db48d1be8f8e14": "2026-08-17T14:50:43.429Z",
-    "canonical:dcd41031da39326d": "2026-08-17T14:50:43.429Z"
+    "canonical:090f48a3cab83e2f": "2026-08-17T15:15:37.907Z",
+    "canonical:12cd06c0eec80152": "2026-08-17T15:15:37.907Z",
+    "canonical:a388542959a948bc": "2026-08-17T15:15:37.907Z",
+    "canonical:792b7aa35dc86795": "2026-08-17T15:15:37.907Z",
+    "canonical:a53e7abdd11f04d1": "2026-08-17T15:15:37.907Z",
+    "canonical:042dd86627ec0efe": "2026-08-17T15:15:37.907Z",
+    "canonical:d5060d82e7e68380": "2026-08-17T15:15:37.907Z",
+    "canonical:fac25ce6e945447e": "2026-08-17T15:15:37.907Z",
+    "canonical:dab91c9dbb0f87f3": "2026-08-17T15:15:37.907Z",
+    "canonical:d57477bf7971e18d": "2026-08-17T15:15:37.907Z",
+    "canonical:1a9d27054c9d6239": "2026-08-17T15:15:37.907Z",
+    "canonical:63ecc2cb61e2df3a": "2026-08-17T15:15:37.907Z",
+    "canonical:52448535d87c8ab6": "2026-08-17T15:15:37.907Z",
+    "canonical:671decc4cb79dc64": "2026-08-17T15:15:37.907Z",
+    "canonical:01ddc1ee5fd1683c": "2026-08-17T15:15:37.907Z",
+    "canonical:8a766d2256f84b5d": "2026-08-17T15:15:37.907Z",
+    "canonical:0f6312e84fe4f4f3": "2026-08-17T15:15:37.907Z",
+    "canonical:bf4302ff74573298": "2026-08-17T15:15:37.907Z",
+    "canonical:a2a15e687e0acd90": "2026-08-17T15:15:37.907Z",
+    "canonical:b198ba4c9b9544ea": "2026-08-17T15:15:37.907Z",
+    "canonical:74d90c6f4f2b8bc1": "2026-08-17T15:15:37.907Z",
+    "canonical:bf58cb0dea3ca6ef": "2026-08-17T15:15:37.907Z",
+    "canonical:6e0cd96f9f86a26d": "2026-08-17T15:15:37.907Z",
+    "canonical:b01bca0e44faa926": "2026-08-17T15:15:37.907Z",
+    "canonical:b0682e13963fcdcc": "2026-08-17T15:15:37.907Z",
+    "canonical:92eb1447910366d7": "2026-08-17T15:15:37.907Z",
+    "canonical:d83e1c13fb27c8d8": "2026-08-17T15:15:37.907Z",
+    "canonical:43f9327b5c8afe66": "2026-08-17T15:15:37.907Z",
+    "canonical:8b6a7e2f0fd78ebe": "2026-08-17T15:15:37.907Z",
+    "canonical:dd70b27eb13ade65": "2026-08-17T15:15:37.907Z",
+    "canonical:61bd8040361a4b0b": "2026-08-17T15:15:37.907Z",
+    "canonical:85e8bbf185683405": "2026-08-17T15:15:37.907Z",
+    "canonical:f84c81f16f79dae9": "2026-08-17T15:15:37.907Z",
+    "canonical:14514f87d93361df": "2026-08-17T15:15:37.907Z",
+    "canonical:368e64dedbd8ba08": "2026-08-17T15:15:37.907Z",
+    "canonical:35348a1ebb7fc1d8": "2026-08-17T15:15:37.907Z",
+    "canonical:62a988fb3748ca3f": "2026-08-17T15:15:37.907Z",
+    "canonical:611906776fbfddab": "2026-08-17T15:15:37.907Z",
+    "canonical:86e52af7f4448747": "2026-08-17T15:15:37.907Z",
+    "canonical:0edb67f7bb65acb2": "2026-08-17T15:15:37.907Z",
+    "canonical:c340b9c31add6dab": "2026-08-17T15:15:37.907Z",
+    "canonical:f58a71dc5f85acd9": "2026-08-17T15:15:37.907Z",
+    "canonical:6329765fc96fd228": "2026-08-17T15:15:37.907Z",
+    "canonical:edbd6b98d5f456f7": "2026-08-17T15:15:37.907Z",
+    "canonical:049b5dcec2861158": "2026-08-17T15:15:37.907Z",
+    "canonical:e30aa939bfc8e927": "2026-08-17T15:15:37.907Z",
+    "canonical:9f4992259e91b180": "2026-08-17T15:15:37.907Z",
+    "canonical:16effbade988db46": "2026-08-17T15:15:37.907Z",
+    "canonical:40c97465193752de": "2026-08-17T15:15:37.907Z",
+    "canonical:b0c6cce724ffc4c6": "2026-08-17T15:15:37.907Z",
+    "canonical:2d59535fcae7e354": "2026-08-17T15:15:37.907Z",
+    "canonical:34e513ba2c3241f6": "2026-08-17T15:15:37.907Z",
+    "canonical:c95995bf729db9c5": "2026-08-17T15:15:37.907Z",
+    "canonical:2d5a52e7324c2806": "2026-08-17T15:15:37.907Z",
+    "canonical:23741aa6552ee6c2": "2026-08-17T15:15:37.907Z",
+    "canonical:3ebd458a3c1241c1": "2026-08-17T15:15:37.907Z",
+    "canonical:2f400cac610eb44d": "2026-08-17T15:15:37.907Z",
+    "canonical:84665b5f62f305f4": "2026-08-17T15:15:37.907Z",
+    "canonical:edb691ef74330e5c": "2026-08-17T15:15:37.907Z",
+    "canonical:520e3023bd1e7a03": "2026-08-17T15:15:37.907Z",
+    "canonical:018ef7f8b5354333": "2026-08-17T15:15:37.907Z",
+    "canonical:df6056312e05d997": "2026-08-17T15:15:37.907Z",
+    "canonical:7e77aa63006b14db": "2026-08-17T15:15:37.907Z",
+    "canonical:899b22def644ff06": "2026-08-17T15:15:37.907Z",
+    "canonical:09ae29fd77b17064": "2026-08-17T15:15:37.907Z",
+    "canonical:7fd0670d484537cc": "2026-08-17T15:15:37.907Z",
+    "canonical:eb6b7562a1aee5df": "2026-08-17T15:15:37.907Z",
+    "canonical:8f9f2d02d5a40f7b": "2026-08-17T15:15:37.907Z",
+    "canonical:44799d94b24795f4": "2026-08-17T15:15:37.907Z",
+    "canonical:ea35e8fcdad6f202": "2026-08-17T15:15:37.907Z",
+    "canonical:45cd46e8fc53009e": "2026-08-17T15:15:37.907Z",
+    "canonical:ffab8b01cb491678": "2026-08-17T15:15:37.907Z",
+    "canonical:7ded916c6253be2f": "2026-08-17T15:15:37.907Z",
+    "canonical:e990c94379fc68d8": "2026-08-17T15:15:37.907Z",
+    "canonical:08e507ebffded8bb": "2026-08-17T15:15:37.907Z",
+    "canonical:fc8595cce89b0297": "2026-08-17T15:15:37.907Z",
+    "canonical:016212ee850c24ca": "2026-08-17T15:15:37.907Z",
+    "canonical:f876ea0d26bc5ee4": "2026-08-17T15:15:37.907Z",
+    "canonical:d6368170104e0f33": "2026-08-17T15:15:37.907Z",
+    "canonical:11237b8001e39930": "2026-08-17T15:15:37.907Z",
+    "canonical:d9319a138b3c7888": "2026-08-17T15:15:37.907Z",
+    "canonical:4dc22ce45d667041": "2026-08-17T15:15:37.907Z",
+    "canonical:b89d42facc5401d2": "2026-08-17T15:15:37.907Z",
+    "canonical:7c9c56cb754af345": "2026-08-17T15:15:37.907Z",
+    "canonical:5b9b506cd2a3b02d": "2026-08-17T15:15:37.907Z",
+    "canonical:04255c4ad8ef9f67": "2026-08-17T15:15:37.907Z",
+    "canonical:657f691a0a88c3ba": "2026-08-17T15:15:37.907Z",
+    "canonical:4d3ecad04d206251": "2026-08-17T15:15:37.907Z",
+    "canonical:75de9a9945f5a903": "2026-08-17T15:15:37.907Z",
+    "canonical:e1c640f4fe607608": "2026-08-17T15:15:37.907Z",
+    "canonical:de4ba387e6347ef1": "2026-08-17T15:15:37.907Z",
+    "canonical:d5e065b9b668a6a3": "2026-08-17T15:15:37.907Z",
+    "canonical:30155547a3f0e19d": "2026-08-17T15:15:37.907Z",
+    "canonical:9cea6a78a9adb081": "2026-08-17T15:15:37.907Z",
+    "canonical:c11797f33e2b5d71": "2026-08-17T15:15:37.907Z",
+    "canonical:e7afead81d8fdce4": "2026-08-17T15:15:37.907Z",
+    "canonical:0b27e65d9f424f84": "2026-08-17T15:15:37.907Z",
+    "canonical:c400607c4dcb244f": "2026-08-17T15:15:37.907Z",
+    "canonical:ee1aa41013faee51": "2026-08-17T15:15:37.907Z",
+    "canonical:73f70898682998f4": "2026-08-17T15:15:37.907Z",
+    "canonical:891a0ad00e27b373": "2026-08-17T15:15:37.907Z",
+    "canonical:7bf3ea60dbe8427a": "2026-08-17T15:15:37.907Z",
+    "canonical:bdaac8a2e96db0c2": "2026-08-17T15:15:37.907Z",
+    "canonical:298e52b8e516ee2b": "2026-08-17T15:15:37.907Z",
+    "canonical:b9c2e23d57f69a86": "2026-08-17T15:15:37.907Z",
+    "canonical:261581191e18b8e6": "2026-08-17T15:15:37.907Z",
+    "canonical:38067b315ddd4856": "2026-08-17T15:15:37.907Z",
+    "canonical:cf3329319dcf05b8": "2026-08-17T15:15:37.907Z",
+    "canonical:565067ddf44a757c": "2026-08-17T15:15:37.907Z",
+    "canonical:db5b3bdd4a0ea0e1": "2026-08-17T15:15:37.907Z",
+    "canonical:1ee72e8475808f9c": "2026-08-17T15:15:37.907Z",
+    "canonical:11a05e4017e051ad": "2026-08-17T15:15:37.907Z",
+    "canonical:cf7ad5ff5dcf25ee": "2026-08-17T15:15:37.907Z",
+    "canonical:1c8eda468b824cfa": "2026-08-17T15:15:37.907Z",
+    "canonical:c121e759e75f5f73": "2026-08-17T15:15:37.907Z",
+    "canonical:c1fd0cf811053f2d": "2026-08-17T15:15:37.907Z",
+    "canonical:034675ec7f5db015": "2026-08-17T15:15:37.907Z",
+    "canonical:07c48ec8c1230c8f": "2026-08-17T15:15:37.907Z",
+    "canonical:10f8a26a4c08ab40": "2026-08-17T15:15:37.907Z",
+    "canonical:dd18ddea0891a402": "2026-08-17T15:15:37.907Z",
+    "canonical:cab1f739c8bc1611": "2026-08-17T15:15:37.907Z",
+    "canonical:1f53ed947ec7aba6": "2026-08-17T15:15:37.907Z",
+    "canonical:669cf21fa7895579": "2026-08-17T15:15:37.907Z",
+    "canonical:f7a61eb1ff3447c5": "2026-08-17T15:15:37.907Z",
+    "canonical:e0b00c2a6f3dbf37": "2026-08-17T15:15:37.907Z",
+    "canonical:3e3bb28d83a2a55f": "2026-08-17T15:15:37.907Z",
+    "canonical:15aae2454f838851": "2026-08-17T15:15:37.907Z",
+    "canonical:2fc42249e8f045d6": "2026-08-17T15:15:37.907Z",
+    "canonical:6ee3bf8d70ab4729": "2026-08-17T15:15:37.907Z",
+    "canonical:f2c5aaa275a49185": "2026-08-17T15:15:37.907Z",
+    "canonical:ed8af415dc1e7af6": "2026-08-17T15:15:37.907Z",
+    "canonical:f6b5b440fc79e718": "2026-08-17T15:15:37.907Z",
+    "canonical:e1cb819b5b9c30a1": "2026-08-17T15:15:37.907Z",
+    "canonical:cc0a4fa63a50f48c": "2026-08-17T15:15:37.907Z",
+    "canonical:662fa06a693ccfb5": "2026-08-17T15:15:37.907Z",
+    "canonical:eaf31d8c0d651b59": "2026-08-17T15:15:37.907Z",
+    "canonical:e0ce9547f4c3878b": "2026-08-17T15:15:37.907Z"
   },
   "jobs": [
     {
@@ -1357,19 +1493,6 @@
       ]
     },
     {
-      "id": "canonical:4da2c943e4eb3f7c",
-      "title": "Campus Software Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7975026",
-      "location": "London",
-      "department": "",
-      "company": "Jump Trading",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:aa053f6ba830d433",
       "title": "Campus Software Engineer (Intern)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
@@ -1383,10 +1506,23 @@
       ]
     },
     {
-      "id": "canonical:4d567555739a50bd",
+      "id": "canonical:4da2c943e4eb3f7c",
+      "title": "Campus Software Engineer (Intern)",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7975026",
+      "location": "London",
+      "department": "",
+      "company": "Jump Trading",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:3b590c340646bfa7",
       "title": "Campus Systems Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
-      "location": "Singapore",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
+      "location": "Chicago",
       "department": "",
       "company": "Jump Trading",
       "score": 75,
@@ -1395,10 +1531,10 @@
       ]
     },
     {
-      "id": "canonical:3b590c340646bfa7",
+      "id": "canonical:4d567555739a50bd",
       "title": "Campus Systems Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
-      "location": "Chicago",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
+      "location": "Singapore",
       "department": "",
       "company": "Jump Trading",
       "score": 75,
@@ -1486,34 +1622,6 @@
       ]
     },
     {
-      "id": "canonical:f9963438d881a851",
-      "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
-      "location": "Amsterdam",
-      "department": "",
-      "company": "DRW",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:bd72b8a6944f6777",
-      "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
-      "location": "London, UK",
-      "department": "Software",
-      "company": "DRW",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:1d41c103b87b651a",
       "title": "Software Developer Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
@@ -1528,10 +1636,38 @@
       ]
     },
     {
+      "id": "canonical:f9963438d881a851",
+      "title": "Software Developer Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
+      "location": "Amsterdam",
+      "department": "",
+      "company": "DRW",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:81000bcd395c1244",
       "title": "Software Developer Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
       "location": "Montreal, QC, Canada",
+      "department": "Software",
+      "company": "DRW",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:bd72b8a6944f6777",
+      "title": "Software Developer Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
+      "location": "London, UK",
       "department": "Software",
       "company": "DRW",
       "score": 93,
@@ -3411,7 +3547,7 @@
     {
       "id": "canonical:1a056010d15d11c7",
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -3450,11 +3586,11 @@
       ]
     },
     {
-      "id": "canonical:dcd41031da39326d",
-      "title": "Software Engineering Intern",
+      "id": "canonical:090f48a3cab83e2f",
+      "title": "Software Engineer Intern - Observability and Security Platform",
       "url": "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095",
-      "location": "Boston, Massachusetts, USA; New York, New York, USA",
-      "department": "",
+      "location": "Boston, MA / NYC",
+      "department": "Software",
       "company": "Datadog",
       "score": 85,
       "scoreReasons": [
@@ -11325,20 +11461,6 @@
       ]
     },
     {
-      "id": "canonical:03dde52273791c03",
-      "title": "Software Engineer Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Software-Engineering-Intern--2027-_01865474",
-      "location": "Burnsville, MN",
-      "department": "Software",
-      "company": "RTX",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:187b1614fae8f345",
       "title": "Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark",
       "url": "https://jobs.bytedance.com/en/position/7672391300141877557/detail",
@@ -12203,6 +12325,20 @@
       ]
     },
     {
+      "id": "canonical:03dde52273791c03",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MN-BURNSVILLE-NORTH--2900-County-Rd-42-W--NORTH-BLDG/Software-Engineering-Intern--Summer-2027-_01866681",
+      "location": "Burnsville, MN",
+      "department": "Hardware",
+      "company": "RTX",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:24e05e83163e38fd",
       "title": "GTM Engineering Intern",
       "url": "https://jobs.ashbyhq.com/unify/6a5b351f-8893-435f-951f-2458b24b6d3c/application?embed=true",
@@ -12573,6 +12709,1965 @@
       ]
     },
     {
+      "id": "canonical:12cd06c0eec80152",
+      "title": "Frontend Software Engineer Intern",
+      "url": "https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c",
+      "location": "New York, NY / San Francisco, CA",
+      "department": "",
+      "company": "Rippling",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:a388542959a948bc",
+      "title": "Machine Learning Engineer Intern",
+      "url": "https://ats.rippling.com/en-GB/rippling/jobs/ee1ec0b1-9a55-408d-979d-9c74f257e9ea",
+      "location": "San Francisco, CA",
+      "department": "",
+      "company": "Rippling",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:792b7aa35dc86795",
+      "title": "Software Engineer Intern",
+      "url": "https://ats.rippling.com/en-GB/rippling/jobs/203e0cac-0e30-4603-8087-f764e8c3f85c",
+      "location": "New York, NY / San Francisco, CA",
+      "department": "",
+      "company": "Rippling",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:a53e7abdd11f04d1",
+      "title": "Machine Learning Engineer Intern, Noise Vibration Harshness Engineering",
+      "url": "https://www.tesla.com/careers/search/job/244786?source=Indeed&source=Indeed&tags=organicjob",
+      "location": "Fremont, CA",
+      "department": "",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:042dd86627ec0efe",
+      "title": "Chassis Validation Engineer Intern, Vehicle Firmware",
+      "url": "https://www.tesla.com/careers/search/job/247990",
+      "location": "Palo Alto, CA",
+      "department": "",
+      "company": "Tesla",
+      "score": 75,
+      "scoreReasons": [
+        "SWE-aligned"
+      ]
+    },
+    {
+      "id": "canonical:d5060d82e7e68380",
+      "title": "C++ Software Engineer Intern, Systems, AI",
+      "url": "https://www.tesla.com/careers/search/job/247862",
+      "location": "Palo Alto, CA",
+      "department": "",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:fac25ce6e945447e",
+      "title": "Software Integration Engineer Intern, AI Platforms",
+      "url": "https://www.tesla.com/careers/search/job/247873?source=Indeed&source=Indeed&tags=organicjob",
+      "location": "Palo Alto, CA",
+      "department": "",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:dab91c9dbb0f87f3",
+      "title": "Chassis Integration Engineer Intern, Vehicle Firmware",
+      "url": "https://www.tesla.com/careers/search/job/247989?source=Indeed&source=Indeed&tags=organicjob",
+      "location": "Palo Alto, CA",
+      "department": "",
+      "company": "Tesla",
+      "score": 75,
+      "scoreReasons": [
+        "SWE-aligned"
+      ]
+    },
+    {
+      "id": "canonical:d57477bf7971e18d",
+      "title": "Software Engineer, AI Intern",
+      "url": "https://jobs.ashbyhq.com/notion/39d70209-37f6-4623-949b-18fbd8889933",
+      "location": "San Francisco, CA / New York, NY",
+      "department": "",
+      "company": "Notion",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1a9d27054c9d6239",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/notion/fc762b58-24c9-4f34-bf5f-2af6e8adc644",
+      "location": "San Francisco, CA / New York, NY",
+      "department": "",
+      "company": "Notion",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:63ecc2cb61e2df3a",
+      "title": "Software Engineer Intern, Mobile",
+      "url": "https://jobs.ashbyhq.com/notion/3e56e35b-f35b-4b1a-ba2b-0ccdc6f60421",
+      "location": "San Francisco, CA / New York, NY",
+      "department": "",
+      "company": "Notion",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:52448535d87c8ab6",
+      "title": "Charging Distributed Systems Software Engineer Intern, Energy Engineering",
+      "url": "https://www.tesla.com/careers/search/job/248070?source=Indeed&source=Indeed&tags=organicjob",
+      "location": "Palo Alto, CA",
+      "department": "",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:671decc4cb79dc64",
+      "title": "Backend Software Engineer Intern, Diagnostics",
+      "url": "https://www.tesla.com/careers/search/job/248358",
+      "location": "Palo Alto, CA / Austin, TX",
+      "department": "",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:01ddc1ee5fd1683c",
+      "title": "Software Engineer Intern, Maps & Self-Driving Navigation",
+      "url": "https://www.tesla.com/careers/search/job/248019?source=Indeed&source=Indeed&tags=organicjob",
+      "location": "Palo Alto, CA",
+      "department": "",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:8a766d2256f84b5d",
+      "title": "System Software Engineer Intern, System Software",
+      "url": "https://www.tesla.com/careers/search/job/248064",
+      "location": "Palo Alto, CA",
+      "department": "",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:0f6312e84fe4f4f3",
+      "title": "Software Engineer Intern, Update Systems",
+      "url": "https://www.tesla.com/careers/search/job/248104",
+      "location": "Palo Alto, CA",
+      "department": "",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:bf4302ff74573298",
+      "title": "Embedded Software Engineering Intern",
+      "url": "https://jobs.ashbyhq.com/AtomicSemi/13e95284-dbcf-4cf2-8151-c9687dfc1889",
+      "location": "San Francisco, CA",
+      "department": "",
+      "company": "Atomic Semi",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:a2a15e687e0acd90",
+      "title": "Software Engineering Intern",
+      "url": "https://careers.datadoghq.com/detail/6954161/?gh_jid=6954161",
+      "location": "Boston, MA / New York, NY",
+      "department": "",
+      "company": "Datadog",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:b198ba4c9b9544ea",
+      "title": "Engineering and Data Intern",
+      "url": "https://www.shopify.com/careers/canada-engineering-internships-winter-2026_04cf2b87-6660-45c7-95f2-e734b7844612",
+      "location": "Remote / Canada",
+      "department": "",
+      "company": "Shopify",
+      "score": 75,
+      "scoreReasons": [
+        "SWE-aligned"
+      ]
+    },
+    {
+      "id": "canonical:74d90c6f4f2b8bc1",
+      "title": "Software Engineer Intern, Factory Software",
+      "url": "https://www.tesla.com/careers/search/job/248001",
+      "location": "Fremont, CA",
+      "department": "",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:bf58cb0dea3ca6ef",
+      "title": "Software Integration Engineer Intern, Energy Engineering",
+      "url": "https://www.tesla.com/careers/search/job/250807",
+      "location": "Palo Alto, CA",
+      "department": "",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:6e0cd96f9f86a26d",
+      "title": "Software Engineering Intern",
+      "url": "https://jobs.ashbyhq.com/ethglobal/4522a1d6-956c-4434-a6db-9365f19c60fb",
+      "location": "Remote",
+      "department": "",
+      "company": "ETHGlobal",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:b01bca0e44faa926",
+      "title": "Fullstack C++ Engineer Intern, Vehicle User Interface",
+      "url": "https://www.tesla.com/careers/search/job/251798",
+      "location": "Palo Alto, CA",
+      "department": "",
+      "company": "Tesla",
+      "score": 75,
+      "scoreReasons": [
+        "SWE-aligned"
+      ]
+    },
+    {
+      "id": "canonical:b0682e13963fcdcc",
+      "title": "Software Engineer Intern",
+      "url": "https://www.pinterestcareers.com/jobs/7252886/software-engineer-intern-winter-term-2026-toronto/",
+      "location": "Toronto, Canada",
+      "department": "",
+      "company": "Pinterest",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:92eb1447910366d7",
+      "title": "Software Development Engineer Intern",
+      "url": "https://www.amazon.jobs/en/jobs/3101249/software-development-engineer-internship-winter-2026-us",
+      "location": "Phoenix, AZ / Tempe, AZ / Berkeley, CA / Culver City, CA / Cupertino, CA / East Palo Alto, CA / Irvine, CA / Los Angeles, CA / Manhattan Beach, CA / Palo Alto, CA / San Diego, CA / San Francisco, CA / San Jose, CA / San Luis Obispo, CA / Santa Barbara, CA / Santa Clara, CA / Santa Cruz, CA / Santa Monica, CA / Sunnyvale, CA / Boulder, CO / Denver, CO / Atlanta, GA / Kennesaw, GA / Chicago, IL / Boston, MA / Cambridge, MA / Hudson, MA / North Reading, MA / Westborough, MA / Baltimore, MD / Detroit, MI / Minneapolis, MN / Jersey City, NJ / New York, NY / Portland, OR / Philadelphia, PA / Pittsburgh, PA / Nashville, TN / Austin, TX / Dallas, TX / Arlington, VA / Herndon, VA / Madison, WI / Bellevue, WA / Seattle, WA / Redmond, WA",
+      "department": "",
+      "company": "Amazon",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:d83e1c13fb27c8d8",
+      "title": "Software Engineer Intern, Service Engineering",
+      "url": "https://www.tesla.com/careers/search/job/254611",
+      "location": "Palo Alto, CA",
+      "department": "",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:43f9327b5c8afe66",
+      "title": "Software Engineer Intern, Information Security",
+      "url": "https://www.tesla.com/careers/search/job/254590",
+      "location": "Bellevue, WA",
+      "department": "",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:8b6a7e2f0fd78ebe",
+      "title": "Software Engineering Intern, OTA Integration",
+      "url": "https://careers.rivianvw.tech/rivian-vw-group-technology/jobs/27233/job",
+      "location": "Palo Alto, CA",
+      "department": "",
+      "company": "Rivian and Volkswagen Group Technologies",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:dd70b27eb13ade65",
+      "title": "Software Engineer Intern, 3D",
+      "url": "https://careers.rivianvw.tech/rivian-vw-group-technology/jobs/27279/job",
+      "location": "Palo Alto, CA",
+      "department": "",
+      "company": "Rivian and Volkswagen Group Technologies",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:61bd8040361a4b0b",
+      "title": "Engineering Intern, Embedded Hardware, Vehicle Networking & Audio",
+      "url": "https://careers.rivianvw.tech/rivian-vw-group-technology/jobs/27276/job",
+      "location": "Palo Alto, CA",
+      "department": "",
+      "company": "Rivian and Volkswagen Group Technologies",
+      "score": 75,
+      "scoreReasons": [
+        "SWE-aligned"
+      ]
+    },
+    {
+      "id": "canonical:85e8bbf185683405",
+      "title": "Full-Stack Software Engineering Intern",
+      "url": "https://www.workatastartup.com/jobs/85257",
+      "location": "San Francisco, CA",
+      "department": "",
+      "company": "Sixtyfour (X25)",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "YC job"
+      ]
+    },
+    {
+      "id": "canonical:f84c81f16f79dae9",
+      "title": "AI Full-Stack Engineering Intern",
+      "url": "https://www.workatastartup.com/jobs/86239",
+      "location": "San Mateo, CA",
+      "department": "",
+      "company": "EdgeTrace",
+      "score": 81,
+      "scoreReasons": [
+        "SWE-aligned",
+        "YC job"
+      ]
+    },
+    {
+      "id": "canonical:14514f87d93361df",
+      "title": "Quantitative Developer Intern",
+      "url": "https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293",
+      "location": "New York, NY",
+      "department": "",
+      "company": "Point72",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:368e64dedbd8ba08",
+      "title": "Quantitative Researcher Intern",
+      "url": "https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295",
+      "location": "New York, NY",
+      "department": "",
+      "company": "Point72",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:35348a1ebb7fc1d8",
+      "title": "Cloud Platform Engineer Intern, Growth",
+      "url": "https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa",
+      "location": "Redwood City, CA",
+      "department": "",
+      "company": "Poshmark",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:62a988fb3748ca3f",
+      "title": "Software Engineering Intern",
+      "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000121851427",
+      "location": "Universal City, CA",
+      "department": "",
+      "company": "NBCUniversal",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:611906776fbfddab",
+      "title": "Software Engineering Intern",
+      "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000121848194",
+      "location": "New York, NY",
+      "department": "",
+      "company": "NBCUniversal",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:86e52af7f4448747",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210894",
+      "location": "Vancouver, Canada",
+      "department": "",
+      "company": "Electronic Arts",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:0edb67f7bb65acb2",
+      "title": "Software Engineer Intern, Embedded",
+      "url": "https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job",
+      "location": "San Jose, CA",
+      "department": "",
+      "company": "TETRAMEM",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:c340b9c31add6dab",
+      "title": "Software Engineer Intern, Recommendation Infrastructure",
+      "url": "https://lifeattiktok.com/referral/tiktok/campus/position/7537493362585979154/detail?token=MzsxNzU3OTM3MTgyMDE1OzczNzM0OTcwMTcxNzQxMzIyNDA7MDsy",
+      "location": "Seattle, WA",
+      "department": "",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:f58a71dc5f85acd9",
+      "title": "Software Engineer Intern, Vehicle Engineering",
+      "url": "https://www.tesla.com/careers/search/job/267767?jr_id=69dd6930bc6f6622c9912106",
+      "location": "Palo Alto, CA / Fremont, CA",
+      "department": "",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:6329765fc96fd228",
+      "title": "Software Engineering Intern, Fab",
+      "url": "https://jobs.ashbyhq.com/AtomicSemi/947338ca-e135-4398-9aa3-79e131bc03d5?jr_id=69e8f6053aa0c479643a5ee5",
+      "location": "Austin, TX / San Francisco, CA",
+      "department": "",
+      "company": "Atomic Semi",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:edbd6b98d5f456f7",
+      "title": "Software Developer Intern",
+      "url": "https://apply.workable.com/al-warren-oil-company-inc/j/A4487B349D/",
+      "location": "Bensenville, IL",
+      "department": "",
+      "company": "Al Warren Oil Company",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:049b5dcec2861158",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90",
+      "location": "San Francisco, CA",
+      "department": "",
+      "company": "Notion",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:e30aa939bfc8e927",
+      "title": "Forward Deployed Engineering Intern, AI-Native",
+      "url": "https://jobs.ashbyhq.com/homebase/a7ab59c0-786e-4675-b684-2ed19b240fb2",
+      "location": "Houston, TX / San Francisco, CA",
+      "department": "",
+      "company": "Homebase",
+      "score": 83,
+      "scoreReasons": [
+        "SWE-aligned",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:9f4992259e91b180",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/skydio/f6320e9b-4eed-408d-8d37-d509fb0406ee",
+      "location": "San Mateo, CA",
+      "department": "",
+      "company": "Skydio",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:16effbade988db46",
+      "title": "Software Engineer Intern, Database Engineering",
+      "url": "https://careers.snowflake.com/us/en/job/SNCOUSFA7B56D5F57047479C1775A3DB18737CEXTERNALENUSFD76A37F868D467BA2560B6746B9E961/Software-Engineer-Intern-Database-Engineering-Fall-2026",
+      "location": "Menlo Park, CA",
+      "department": "",
+      "company": "Snowflake",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:40c97465193752de",
+      "title": "Software Engineer Intern, Infrastructure Automation",
+      "url": "https://careers.snowflake.com/us/en/job/SNCOUSCC3FB214186D4B439D3F15B47307A231EXTERNALENUSBBDEE8BD443C456FA4F01B363D843310/Software-Engineer-Intern-Infrastructure-Automation-Fall-2026",
+      "location": "Menlo Park, CA / Bellevue, WA",
+      "department": "",
+      "company": "Snowflake",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:b0c6cce724ffc4c6",
+      "title": "Software Engineer Intern (Core Engineering)",
+      "url": "https://careers.snowflake.com/us/en/job/SNCOUS0214F57FFF904B4AB58DD1965DC9927EEXTERNALENUS4F34AEFA681B4AA8A0EA28CE56C9F1A5/Software-Engineer-Intern-Core-Engineering-Fall-2026",
+      "location": "Menlo Park, CA / Bellevue, WA",
+      "department": "",
+      "company": "Snowflake",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:e0d9e6d1c80a362f",
+      "title": "Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)",
+      "url": "https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us",
+      "location": "Seattle, Washington, USA",
+      "department": "Data & ML/AI / Fall 2026",
+      "company": "Amazon",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:2d59535fcae7e354",
+      "title": "Robotics - Software Development Engineer Intern/Co-op",
+      "url": "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1",
+      "location": "Sunnyvale, CA / North Reading, MA / Westboro, MA / Nashville, TN / Austin, TX / Arlington, VA / Bellevue, WA / Seattle, WA",
+      "department": "",
+      "company": "Amazon",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:34e513ba2c3241f6",
+      "title": "Software Engineering Intern, Platform, Security & AI",
+      "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857832101",
+      "location": "San Jose, CA",
+      "department": "",
+      "company": "Veeam Software",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c95995bf729db9c5",
+      "title": "Software Developer Intern, Integration Platforms",
+      "url": "https://www.tesla.com/careers/search/job/internship-software-developer-integration-platforms-fall-2026-270037",
+      "location": "Palo Alto, CA",
+      "department": "",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:2d5a52e7324c2806",
+      "title": "Software Engineer Intern, Maps & Navigation Validation",
+      "url": "https://www.tesla.com/careers/search/job/internship-software-engineer-maps-navigation-validation-fall-2026--270186",
+      "location": "Palo Alto, CA",
+      "department": "",
+      "company": "Tesla",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:23741aa6552ee6c2",
+      "title": "Software Engineering Intern",
+      "url": "https://university-uber.icims.com/jobs/159161/job?mobile=false&width=1270&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+      "location": "San Francisco, CA",
+      "department": "",
+      "company": "Uber",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:3ebd458a3c1241c1",
+      "title": "Forward Deployed Engineer Intern",
+      "url": "https://www.workatastartup.com/jobs/94400",
+      "location": "San Francisco, CA",
+      "department": "",
+      "company": "Dedalus Labs",
+      "score": 81,
+      "scoreReasons": [
+        "SWE-aligned",
+        "YC job"
+      ]
+    },
+    {
+      "id": "canonical:2f400cac610eb44d",
+      "title": "Forward Deployed Engineering Intern",
+      "url": "https://www.workatastartup.com/jobs/94211",
+      "location": "New York, NY",
+      "department": "",
+      "company": "DimeHealth AI",
+      "score": 81,
+      "scoreReasons": [
+        "SWE-aligned",
+        "YC job"
+      ]
+    },
+    {
+      "id": "canonical:84665b5f62f305f4",
+      "title": "Forward Deployed Engineer (FDE) Intern",
+      "url": "https://www.workatastartup.com/jobs/93642",
+      "location": "San Francisco, CA",
+      "department": "",
+      "company": "Paragon",
+      "score": 81,
+      "scoreReasons": [
+        "SWE-aligned",
+        "YC job"
+      ]
+    },
+    {
+      "id": "canonical:edb691ef74330e5c",
+      "title": "Software Engineering Intern, Embedded Systems",
+      "url": "https://jobs.ashbyhq.com/apex-technology-inc/5ec2dfa9-724d-4ce4-ab97-5067ec747f11",
+      "location": "Los Angeles",
+      "department": "",
+      "company": "Apex Technology, Inc.",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:520e3023bd1e7a03",
+      "title": "Software Developer Intern",
+      "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86808",
+      "location": "Dallas, TX",
+      "department": "",
+      "company": "WSP",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:018ef7f8b5354333",
+      "title": "Research Scientist Intern",
+      "url": "https://www.workatastartup.com/jobs/94620",
+      "location": "San Francisco, CA / New York, NY",
+      "department": "",
+      "company": "Trata",
+      "score": 81,
+      "scoreReasons": [
+        "SWE-aligned",
+        "YC job"
+      ]
+    },
+    {
+      "id": "canonical:df6056312e05d997",
+      "title": "Summer Intern - AI/ML Engineering",
+      "url": "https://www.workatastartup.com/jobs/94631",
+      "location": "San Francisco, CA",
+      "department": "",
+      "company": "Terranox AI",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "YC job"
+      ]
+    },
+    {
+      "id": "canonical:7e77aa63006b14db",
+      "title": "Software Engineering Intern, Research Focused",
+      "url": "https://www.workatastartup.com/jobs/94634",
+      "location": "San Francisco, CA",
+      "department": "",
+      "company": "Abundant",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "YC job"
+      ]
+    },
+    {
+      "id": "canonical:899b22def644ff06",
+      "title": "Software Engineer Intern",
+      "url": "https://www.workatastartup.com/jobs/94647",
+      "location": "San Francisco, CA / Remote",
+      "department": "",
+      "company": "Naïve",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "YC job"
+      ]
+    },
+    {
+      "id": "canonical:09ae29fd77b17064",
+      "title": "Software Engineer Intern",
+      "url": "https://www.workatastartup.com/jobs/95003",
+      "location": "San Mateo, CA",
+      "department": "",
+      "company": "StarSling",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "YC job"
+      ]
+    },
+    {
+      "id": "canonical:7fd0670d484537cc",
+      "title": "Full Stack Engineering Intern",
+      "url": "https://www.workatastartup.com/jobs/94993",
+      "location": "San Francisco, CA",
+      "department": "",
+      "company": "Nash",
+      "score": 81,
+      "scoreReasons": [
+        "SWE-aligned",
+        "YC job"
+      ]
+    },
+    {
+      "id": "canonical:eb6b7562a1aee5df",
+      "title": "Trading System Engineering Intern",
+      "url": "https://careers.sig.com/jobs/10837?lang=en-us&mode=apply&iis=LinkedIn&jr_id=69f3d11158b23a2329da8088",
+      "location": "Bala Cynwyd, PA",
+      "department": "",
+      "company": "Susquehanna",
+      "score": 75,
+      "scoreReasons": [
+        "SWE-aligned"
+      ]
+    },
+    {
+      "id": "canonical:8f9f2d02d5a40f7b",
+      "title": "Software Engineering Intern, Masters",
+      "url": "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships",
+      "location": "United States",
+      "department": "",
+      "company": "Apple",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:44799d94b24795f4",
+      "title": "Software Engineer Intern, Undergrad",
+      "url": "https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships",
+      "location": "United States",
+      "department": "",
+      "company": "Apple",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:ea35e8fcdad6f202",
+      "title": "Quantitative Developer Intern",
+      "url": "https://voloridge-investment-management.hiringthing.com/job/1013126/quantitative-developer-intern-2027?s=lif&jr_id=69eaa8e4dc35f7132c4ab803",
+      "location": "Jupiter, FL",
+      "department": "",
+      "company": "Voloridge Investment Management",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:45cd46e8fc53009e",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/embed/job_app?for=aquaticcapitalmanagement&jr_id=6a06fd77152f493123c4b595&token=8489233002",
+      "location": "Chicago, IL",
+      "department": "",
+      "company": "Aquatic Capital",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ffab8b01cb491678",
+      "title": "Software Engineer Intern",
+      "url": "https://www.stokespace.com/careers/current-openings/?gh_jid=5987663004&jr_id=69fae0acd21cf86d1e3cd79c",
+      "location": "Kent, WA",
+      "department": "",
+      "company": "Stoke Space",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:7ded916c6253be2f",
+      "title": "Quantitative Developer Intern",
+      "url": "https://job-boards.greenhouse.io/embed/job_app?for=point72&jr_id=6a07069024dcb03739f1ec72&token=7297613002",
+      "location": "New York, NY",
+      "department": "",
+      "company": "Cubist Systematic Strategies",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:e990c94379fc68d8",
+      "title": "Quantitative Developer Intern",
+      "url": "https://tower-research.com/open-positions/?gh_jid=8044334",
+      "location": "Chicago, IL / New York, NY",
+      "department": "",
+      "company": "Tower Research",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:08e507ebffded8bb",
+      "title": "Quantitative Strategy Developer Intern",
+      "url": "https://careers.sig.com/intern-co-op-technology/jobs/10838?lang=en-us",
+      "location": "Bala Cynwyd, PA",
+      "department": "",
+      "company": "Susquehanna Investment Group",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:fc8595cce89b0297",
+      "title": "Software Engineer Intern",
+      "url": "https://www.imc.com/us/careers/jobs/4823924101",
+      "location": "Chicago, IL",
+      "department": "",
+      "company": "IMC",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:016212ee850c24ca",
+      "title": "Software Developer Intern",
+      "url": "https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894",
+      "location": "New York, NY",
+      "department": "",
+      "company": "DE Shaw",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:f876ea0d26bc5ee4",
+      "title": "Software Engineer Intern",
+      "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate--Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-249424",
+      "location": "Burnaby, Canada",
+      "department": "",
+      "company": "Amgen",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:d6368170104e0f33",
+      "title": "Software Engineering Intern",
+      "url": "https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af",
+      "location": "Los Angeles, CA",
+      "department": "",
+      "company": "VITAL LYFE",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:11237b8001e39930",
+      "title": "Software Engineering Intern",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027",
+      "location": "Mountain View, CA / Atlanta, GA / Austin, TX / Boulder, CO / Cambridge, MA / Bellevue, WA / Chicago, IL / Houston, TX / Irvine, CA / Kirkland, WA / Los Angeles, CA / Madison, WI / New York, NY / Palo Alto, CA / Portland, OR / Pittsburgh, PA / Raleigh, NC / Durham, NC / Reston, VA / Redmond, WA / Redwood City, CA / San Diego, CA / Goleta, CA / San Bruno, CA / Seattle, WA / San Francisco, CA / San Jose, CA / Santa Cruz, CA / South San Francisco, CA / Sunnyvale, CA",
+      "department": "",
+      "company": "Google",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:d9319a138b3c7888",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7",
+      "location": "San Francisco, CA",
+      "department": "",
+      "company": "Netic",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:67dff8354f48371b",
+      "title": "Summer Intern 2027 - Software Developer",
+      "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
+      "location": "New York",
+      "department": "Software / Summer 2027",
+      "company": "Five Rings",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:4dc22ce45d667041",
+      "title": "Python Software Engineer Intern",
+      "url": "https://akunacapital.com/careers/job/8018853/?gh_jid=8018853",
+      "location": "Chicago, IL",
+      "department": "",
+      "company": "Akuna Capital",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:b89d42facc5401d2",
+      "title": "Software Engineer Intern",
+      "url": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
+      "location": "Austin, TX / Chicago, IL / New York, NY",
+      "department": "",
+      "company": "Hudson River Trading",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:7c9c56cb754af345",
+      "title": "AI Engineer Intern",
+      "url": "https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd",
+      "location": "Toronto, Canada",
+      "department": "",
+      "company": "ShyftLabs",
+      "score": 83,
+      "scoreReasons": [
+        "SWE-aligned",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:5b9b506cd2a3b02d",
+      "title": "Software Engineer Intern, AI Infrastructure / Training / Inference",
+      "url": "https://ats.rippling.com/en-GB/spreeai/jobs/d34aed29-7a11-4e37-b5bc-e9317f82f0b1",
+      "location": "San Francisco, CA",
+      "department": "",
+      "company": "SPREEAI",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:04255c4ad8ef9f67",
+      "title": "Mobile Software Engineer Intern",
+      "url": "https://ats.rippling.com/en-GB/spreeai/jobs/c52472cb-2671-45d7-b666-17196dc3df25",
+      "location": "San Francisco, CA",
+      "department": "",
+      "company": "SpreeAI",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:657f691a0a88c3ba",
+      "title": "Software Engineer Intern, Backend & API",
+      "url": "https://ats.rippling.com/en-GB/moon/jobs/8b81bca7-1a64-4377-8ea8-869aac03080b",
+      "location": "Glendale, CA",
+      "department": "",
+      "company": "Moon",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:4d3ecad04d206251",
+      "title": "Software Engineer Intern",
+      "url": "https://ats.rippling.com/en-GB/greengas/jobs/b2938290-cc66-4f54-9888-bbe286c1d9b6",
+      "location": "Houston, TX",
+      "department": "",
+      "company": "Mobius Renewables",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:75de9a9945f5a903",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/phonely/c83696cb-ca3a-4a9d-9e87-bfcf4f79fef5?embed=true",
+      "location": "San Francisco, CA",
+      "department": "",
+      "company": "Phonely",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:e1c640f4fe607608",
+      "title": "Software Engineering Intern",
+      "url": "https://jobs.ashbyhq.com/fab2/947338ca-e135-4398-9aa3-79e131bc03d5?embed=true",
+      "location": "San Francisco, CA",
+      "department": "",
+      "company": "fab2",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:40f4a990c528ee6c",
+      "title": "Software Engineering- Internship (Fall 2026/Summer 2027)",
+      "url": "https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1",
+      "location": "USA | Remote",
+      "department": "Software / Summer 2027",
+      "company": "Deepgram",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:de4ba387e6347ef1",
+      "title": "Full-Stack Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef?embed=true",
+      "location": "San Francisco, CA",
+      "department": "",
+      "company": "Netic",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:d5e065b9b668a6a3",
+      "title": "Forward Deployed Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c?embed=true",
+      "location": "San Francisco, CA",
+      "department": "",
+      "company": "Netic",
+      "score": 83,
+      "scoreReasons": [
+        "SWE-aligned",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:30155547a3f0e19d",
+      "title": "Quantitative Researcher Intern",
+      "url": "https://www.janestreet.com/join-jane-street/position/8498547002/",
+      "location": "New York, NY",
+      "department": "",
+      "company": "Jane Street",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:9cea6a78a9adb081",
+      "title": "Machine Learning Engineer Intern",
+      "url": "https://www.janestreet.com/join-jane-street/position/8611307002/",
+      "location": "New York, NY",
+      "department": "",
+      "company": "Jane Street",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:c11797f33e2b5d71",
+      "title": "Machine Learning Researcher Intern",
+      "url": "https://www.janestreet.com/join-jane-street/position/8384490002/",
+      "location": "New York, NY",
+      "department": "",
+      "company": "Jane Street",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:e7afead81d8fdce4",
+      "title": "Data Engineer Intern",
+      "url": "https://www.janestreet.com/join-jane-street/position/8631973002/",
+      "location": "New York, NY",
+      "department": "",
+      "company": "Jane Street",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:0b27e65d9f424f84",
+      "title": "Network Engineer Intern",
+      "url": "https://www.janestreet.com/join-jane-street/position/8620793002/",
+      "location": "New York, NY",
+      "department": "",
+      "company": "Jane Street",
+      "score": 75,
+      "scoreReasons": [
+        "SWE-aligned"
+      ]
+    },
+    {
+      "id": "canonical:c400607c4dcb244f",
+      "title": "Software Engineer Intern",
+      "url": "https://www.janestreet.com/join-jane-street/position/8419303002/",
+      "location": "New York, NY",
+      "department": "",
+      "company": "Jane Street",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:ee1aa41013faee51",
+      "title": "Equity Volatility Quant Researcher Intern",
+      "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006",
+      "location": "Miami, FL",
+      "department": "",
+      "company": "Walleye Capital",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:73f70898682998f4",
+      "title": "Software Engineering Intern",
+      "url": "https://careers.appian.com/jobs/8041237-software-engineering-intern",
+      "location": "McLean, VA",
+      "department": "",
+      "company": "Appian",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:98d169a93517ae1a",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05",
+      "location": "New York City",
+      "department": "Software / Summer 2027",
+      "company": "Quadrillion",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:891a0ad00e27b373",
+      "title": "Quant Developer / Quant Research Intern",
+      "url": "https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96",
+      "location": "New York City, NY",
+      "department": "",
+      "company": "Anthelion Capital",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:655f5e30c9cb8e9e",
+      "title": "Software Engineer Intern - Generalist",
+      "url": "https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/",
+      "location": "Fremont, California, United States",
+      "department": "Software / Not stated",
+      "company": "Pony.ai",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:7bf3ea60dbe8427a",
+      "title": "Software Engineer Intern",
+      "url": "https://apply.workable.com/hyperlight/j/5581EA0668/",
+      "location": "Cambridge, MA",
+      "department": "",
+      "company": "HyperLight",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:99928d510fec02a5",
+      "title": "Intern - AI/ML Data Engineering  -  Onsite - St. Louis",
+      "url": "https://coreandmain.wd1.myworkdayjobs.com/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804",
+      "location": "Saint Louis, MO 63146",
+      "department": "Data & ML/AI / Not stated",
+      "company": "Core & Main",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:bdaac8a2e96db0c2",
+      "title": "Software Engineer Intern, Autonomous Driving",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000139649345",
+      "location": "Sunnyvale, CA",
+      "department": "",
+      "company": "Robert Bosch LLC",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:298e52b8e516ee2b",
+      "title": "Software Engineer Intern, Chip Design Tools",
+      "url": "https://jobs.ashbyhq.com/fab2/907766af-a3c0-49a3-b01e-246baa437d10?embed=true",
+      "location": "San Francisco, CA",
+      "department": "",
+      "company": "Atomic Semi",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:b9c2e23d57f69a86",
+      "title": "Web Application Developer Intern",
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?jobId=565843",
+      "location": "Falls Church, VA",
+      "department": "",
+      "company": "Mathtech",
+      "score": 75,
+      "scoreReasons": [
+        "SWE-aligned"
+      ]
+    },
+    {
+      "id": "canonical:261581191e18b8e6",
+      "title": "ML & Cloud Infrastructure Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523",
+      "location": "South San Francisco, CA",
+      "department": "",
+      "company": "GRITT ROBOTICS INC",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1284ad8e46fc112b",
+      "title": "Information Security Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/appian/jobs/8088496",
+      "location": "McLean, Virginia",
+      "department": "Security / Summer 2027",
+      "company": "Appian",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:38067b315ddd4856",
+      "title": "Software Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/embed/job_app?for=gemini&token=7875125",
+      "location": "New York, NY",
+      "department": "",
+      "company": "Gemini",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ee163e214703918f",
+      "title": "Software Engineering Intern (Fall 2026)",
+      "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4328555009",
+      "location": "Golden, CO",
+      "department": "Software / Fall 2026",
+      "company": "Rendezvous Robotics",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:cf3329319dcf05b8",
+      "title": "Software / Hardware Engineering Intern",
+      "url": "https://nwis.wd12.myworkdayjobs.com/en-US/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733",
+      "location": "Annapolis Junction, MD",
+      "department": "",
+      "company": "Nightwing",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:565067ddf44a757c",
+      "title": "Systems Engineer Intern",
+      "url": "https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity",
+      "location": "Albany, NY",
+      "department": "",
+      "company": "General Dynamics Information Technology",
+      "score": 75,
+      "scoreReasons": [
+        "SWE-aligned"
+      ]
+    },
+    {
+      "id": "canonical:db5b3bdd4a0ea0e1",
+      "title": "Platform Engineer Intern",
+      "url": "https://www.drw.com/work-at-drw/listings/platform-engineer-intern-3468737",
+      "location": "Chicago, IL",
+      "department": "",
+      "company": "DRW",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:1ee72e8475808f9c",
+      "title": "Software Developer Intern",
+      "url": "https://www.drw.com/work-at-drw/listings/software-developer-intern-3466687",
+      "location": "Montréal",
+      "department": "",
+      "company": "DRW",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:11a05e4017e051ad",
+      "title": "Embedded Software Test Engineer Intern",
+      "url": "https://jobs.eu.lever.co/cirrus/2926421c-691a-434a-ae59-c828e7fcbf5b",
+      "location": "Austin, TX",
+      "department": "",
+      "company": "Cirrus Logic",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:cf7ad5ff5dcf25ee",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009",
+      "location": "San Jose, CA",
+      "department": "",
+      "company": "SK Hynix Memory Solution",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1c8eda468b824cfa",
+      "title": "Software Engineering Intern",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/medtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1",
+      "location": "Fridley, MN / Tempe, AZ / Eatontown, NJ / Santa Rosa, CA / Lafayette, CO",
+      "department": "",
+      "company": "Medtronic",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c121e759e75f5f73",
+      "title": "Software Engineering Intern, Neuro & AGI",
+      "url": "https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066",
+      "location": "Emeryville, CA",
+      "department": "",
+      "company": "Astera",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:cd4af5c4366cd50d",
+      "title": "Software Engineer (Internship, Summer 2027)",
+      "url": "https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef",
+      "location": "HQ (San Francisco, CA)",
+      "department": "Software / Summer 2027",
+      "company": "Heliux",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c1fd0cf811053f2d",
+      "title": "Software Engineer Intern",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Technology-Internship-Program---Summer-2027_R244387-1",
+      "location": "McLean, VA / Plano, TX / Richmond, VA",
+      "department": "",
+      "company": "Capital One",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:034675ec7f5db015",
+      "title": "Software Engineer Intern, CoreAI",
+      "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0",
+      "location": "Multiple Locations, United States",
+      "department": "",
+      "company": "Microsoft",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:07c48ec8c1230c8f",
+      "title": "Software Engineer Intern, Data Platform/Analytics",
+      "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922931",
+      "location": "Redmond, WA",
+      "department": "",
+      "company": "Microsoft",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:10f8a26a4c08ab40",
+      "title": "Software Engineer Intern, Security & Identity",
+      "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922930",
+      "location": "Redmond, WA",
+      "department": "",
+      "company": "Microsoft",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:dd18ddea0891a402",
+      "title": "Software Engineer Intern, AI/ML & LLM",
+      "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922929",
+      "location": "Redmond, WA",
+      "department": "",
+      "company": "Microsoft",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:cab1f739c8bc1611",
+      "title": "Software Engineer Intern, Cloud & Distributed Backend",
+      "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922923",
+      "location": "Redmond, WA",
+      "department": "",
+      "company": "Microsoft",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:1f53ed947ec7aba6",
+      "title": "Software Engineer Intern, Fullstack Product (Web + Services)",
+      "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922922",
+      "location": "Multiple Locations, United States",
+      "department": "",
+      "company": "Microsoft",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:0c4da77069236a47",
+      "title": "Software Engineering Intern [Spring/Summer 2027]",
+      "url": "https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280",
+      "location": "New York City",
+      "department": "Software / Summer 2027",
+      "company": "Melius",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:669cf21fa7895579",
+      "title": "Software Engineer Intern",
+      "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667",
+      "location": "Overland Park, KS",
+      "department": "",
+      "company": "Netsmart",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c0843219a96affcf",
+      "title": "Research Engineer Intern - AI Systems",
+      "url": "https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3",
+      "location": "United States",
+      "department": "Data & ML/AI / Not stated",
+      "company": "Yotta Labs",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f7a61eb1ff3447c5",
+      "title": "Software Engineer Intern, Distributed NoSQL Database Systems",
+      "url": "https://joinbytedance.com/search/7668373268886161669",
+      "location": "Seattle, WA",
+      "department": "",
+      "company": "ByteDance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:e0b00c2a6f3dbf37",
+      "title": "Software Engineer Intern, Fleet Health Instrumentation",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012",
+      "location": "Fullerton, CA",
+      "department": "",
+      "company": "RTX",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:3e3bb28d83a2a55f",
+      "title": "Software Engineer Intern, Fleet Health Instrumentation",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072",
+      "location": "McKinney, TX",
+      "department": "",
+      "company": "RTX",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:15aae2454f838851",
+      "title": "AI Network Automation Engineer Intern, Global Physical Network Infra",
+      "url": "https://joinbytedance.com/search/7670690923748870405",
+      "location": "San Jose, CA",
+      "department": "",
+      "company": "ByteDance",
+      "score": 75,
+      "scoreReasons": [
+        "SWE-aligned"
+      ]
+    },
+    {
+      "id": "canonical:2fc42249e8f045d6",
+      "title": "GPU/AI Application System Software Engineer Intern",
+      "url": "https://joinbytedance.com/search/7668464504736876853",
+      "location": "San Jose, CA",
+      "department": "",
+      "company": "ByteDance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:6ee3bf8d70ab4729",
+      "title": "Applied Machine Learning Production Engineer Intern",
+      "url": "https://joinbytedance.com/search/7670009669494704437",
+      "location": "San Jose, CA",
+      "department": "",
+      "company": "ByteDance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:f2c5aaa275a49185",
+      "title": "PhD Research Scientist Intern",
+      "url": "https://jobs.smartrecruiters.com/Canva/6000000001291655-phd-research-scientist-intern",
+      "location": "San Francisco, CA",
+      "department": "",
+      "company": "Canva",
+      "score": 83,
+      "scoreReasons": [
+        "SWE-aligned",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ed8af415dc1e7af6",
+      "title": "Software Engineering Intern, Dynamo",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295",
+      "location": "Santa Clara, CA",
+      "department": "",
+      "company": "NVIDIA",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f6b5b440fc79e718",
+      "title": "Software Engineering Intern",
+      "url": "https://www.shopify.com/careers/software-engineering-internships-winter-2027_404bb82e-37f3-4a78-b0f3-12923a7c4856?ashby_jid=404bb82e-37f3-4a78-b0f3-12923a7c4856",
+      "location": "Remote",
+      "department": "",
+      "company": "Shopify",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:e1cb819b5b9c30a1",
+      "title": "Software Engineer, Intern (Summer 2026)",
+      "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002?fbclid=PAQ0xDSwK38VtleHRuA2FlbQIxMQABpwFCtP3w0jUMJ2UyUfRb7jqEW6gF5Rr31twvg5geVxUyYXlmmQrGSEf9O3Pw_aem_MfePXp-UnrQgRcTvm_Lh4Q",
+      "location": "Chicago",
+      "department": "",
+      "company": "Citadel",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:cc0a4fa63a50f48c",
+      "title": "2026 North America Software Engineering Internship",
+      "url": "https://www.linkedin.com/jobs/view/4270526982",
+      "location": "Boulder, CO",
+      "department": "",
+      "company": "The Trade Desk",
+      "score": 77,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "aggregator link"
+      ]
+    },
+    {
+      "id": "canonical:662fa06a693ccfb5",
+      "title": "2026 Technology Summer Internship - Early Careers (Software Engineer)",
+      "url": "https://www.linkedin.com/jobs/view/2026-technology-summer-internship-early-careers-software-engineer-at-wells-fargo-4271041288?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "location": "Irving, TX",
+      "department": "",
+      "company": "Wells Fargo",
+      "score": 77,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "aggregator link"
+      ]
+    },
+    {
+      "id": "canonical:eaf31d8c0d651b59",
+      "title": "2026 Technology Summer Internship - Early Careers (Software Engineer)",
+      "url": "https://careers.techtitans.org/companies/wells-fargo/jobs/54862105-2026-technology-summer-internship-early-careers-software-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "location": "St. Louis, MO",
+      "department": "",
+      "company": "Wells Fargo",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:e0ce9547f4c3878b",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01867487",
+      "location": "US-IA-CEDAR RAPIDS-166 ~ 855 35Th St NE ~ BLDG 166",
+      "department": "Software / Summer 2027",
+      "company": "RTX",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:2f302c5103e5056c",
       "title": "Software Engineering / AI Intern - US - Remote",
       "url": "https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26738",
@@ -12849,20 +14944,6 @@
       ]
     },
     {
-      "id": "canonical:c0843219a96affcf",
-      "title": "Research Engineer Intern - AI Systems",
-      "url": "https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3",
-      "location": "United States",
-      "department": "Data & ML/AI / Not stated",
-      "company": "Yotta Labs",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:276fa60f1597cd67",
       "title": "Software Engineering Intern",
       "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110353",
@@ -12906,34 +14987,6 @@
       ]
     },
     {
-      "id": "canonical:0c4da77069236a47",
-      "title": "Software Engineering Intern [Spring/Summer 2027]",
-      "url": "https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280",
-      "location": "New York City",
-      "department": "Software / Summer 2027",
-      "company": "Melius",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:cd4af5c4366cd50d",
-      "title": "Software Engineer (Internship, Summer 2027)",
-      "url": "https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef",
-      "location": "HQ (San Francisco, CA)",
-      "department": "Software / Summer 2027",
-      "company": "Heliux",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:daf99901433a25a0",
       "title": "Embedded Software Engineer Intern - Fall 2026",
       "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004?gh_jid=6126784004",
@@ -12962,82 +15015,12 @@
       ]
     },
     {
-      "id": "canonical:1284ad8e46fc112b",
-      "title": "Information Security Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/appian/jobs/8088496",
-      "location": "McLean, Virginia",
-      "department": "Security / Summer 2027",
-      "company": "Appian",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:99928d510fec02a5",
-      "title": "Intern - AI/ML Data Engineering  -  Onsite - St. Louis",
-      "url": "https://coreandmain.wd1.myworkdayjobs.com/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804",
-      "location": "Saint Louis, MO 63146",
-      "department": "Data & ML/AI / Not stated",
-      "company": "Core & Main",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:b7e2b2dbebb1a7cb",
       "title": "R&D- Computer Vision Engineering Intern",
       "url": "https://magna.wd3.myworkdayjobs.com/Magna/job/Troy-Michigan-US/R-D--Computer-Vision-Engineering-Intern_R00253444-1",
       "location": "Troy, Michigan, US",
       "department": "Data & ML/AI / Not stated",
       "company": "Magna International",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:98d169a93517ae1a",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05",
-      "location": "New York City",
-      "department": "Software / Summer 2027",
-      "company": "Quadrillion",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:ee163e214703918f",
-      "title": "Software Engineering Intern (Fall 2026)",
-      "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4328555009",
-      "location": "Golden, CO",
-      "department": "Software / Fall 2026",
-      "company": "Rendezvous Robotics",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:655f5e30c9cb8e9e",
-      "title": "Software Engineer Intern - Generalist",
-      "url": "https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/",
-      "location": "Fremont, California, United States",
-      "department": "Software / Not stated",
-      "company": "Pony.ai",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -13074,40 +15057,12 @@
       ]
     },
     {
-      "id": "canonical:40f4a990c528ee6c",
-      "title": "Software Engineering- Internship (Fall 2026/Summer 2027)",
-      "url": "https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1",
-      "location": "USA | Remote",
-      "department": "Software / Summer 2027",
-      "company": "Deepgram",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:523334f852948e02",
       "title": "Quantitative Researcher - Internship",
       "url": "https://apply.workable.com/wallstreetquants/j/494E392FD3/",
       "location": "New York, New York, United States",
       "department": "Quant / Not stated",
       "company": "WallStreetQuants",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:67dff8354f48371b",
-      "title": "Summer Intern 2027 - Software Developer",
-      "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
-      "location": "New York",
-      "department": "Software / Summer 2027",
-      "company": "Five Rings",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -13183,19 +15138,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:e0d9e6d1c80a362f",
-      "title": "Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)",
-      "url": "https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us",
-      "location": "Seattle, Washington, USA",
-      "department": "Data & ML/AI / Fall 2026",
-      "company": "Amazon",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -13293,14 +15235,5 @@
       ]
     }
   ],
-  "errors": [
-    {
-      "company": "vanshb03",
-      "message": "vanshb03: HTTP 503"
-    },
-    {
-      "company": "Rethinkjobs Summer 2026",
-      "message": "githubMarkdown Rethinkjobs Summer 2026: HTTP 503"
-    }
-  ]
+  "errors": []
 }

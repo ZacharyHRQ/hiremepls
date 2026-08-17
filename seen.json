@@ -41,10 +41,10 @@
     "8059384",
     "8049938",
     "7982648",
-    "7975026",
     "8002989",
-    "8027952",
+    "7975026",
     "8007788",
+    "8027952",
     "8000323",
     "7565728",
     "8003019",
@@ -53,10 +53,10 @@
   "DRW": [
     "7997729",
     "7981754",
-    "8020364",
-    "7942281",
     "7992936",
+    "8020364",
     "7991196",
+    "7942281",
     "8014910",
     "8127242"
   ],
@@ -129,9 +129,9 @@
   ],
   "MongoDB": [],
   "Cloudflare": [
-    "8089407",
     "8089379",
     "8089400",
+    "8089407",
     "8118845",
     "8052785"
   ],
@@ -1270,6 +1270,7 @@
   ],
   "Wayve": [],
   "zshah101 Summer 2027/Fall 2026": [
+    "github-json:zshah101-summer-2027-fall-2026:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01867487",
     "github-json:zshah101-summer-2027-fall-2026:oracle:egug.fa.us2.oraclecloud.com:26011082",
     "github-json:zshah101-summer-2027-fall-2026:oracle:egug.fa.us2.oraclecloud.com:26011987",
     "github-json:zshah101-summer-2027-fall-2026:oracle:fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com:26738",
@@ -2136,7 +2137,6 @@
     "simplify:c0bc8e2c-204a-461b-bd1b-7d720fbcbd77",
     "simplify:d7cb67a6-930f-4fc0-a3b7-3f7d47bcdb31",
     "simplify:20ba2faa-8c06-4328-b38a-a1ff32e5b009",
-    "simplify:4e5a3408-a4e1-4fd4-bdc8-f76d25074374",
     "simplify:e670d442-7188-4ebf-a019-6706835ae548",
     "simplify:7b75fe14-a899-4b20-9785-85fc95da69b3",
     "simplify:4f77c21f-b6c5-45b9-87c7-4087d47b9589",
@@ -2167,7 +2167,6 @@
     "simplify:c249395f-01c2-45e9-bc84-85cb3cc66408",
     "simplify:bd6358b0-c6b0-436e-bb7a-e2dcb370e692",
     "simplify:f34b1f76-8c04-44e3-af69-ab94a7694d4b",
-    "simplify:2c773875-aa62-411f-a839-511d6f823d7d",
     "simplify:b560def8-65f9-4a57-a4f0-06cb45b403c3",
     "simplify:685487cc-2bf1-41f3-9324-4441e3ba0475",
     "simplify:acf117a3-c0c1-472f-ad4c-e68012e06ab4",
@@ -2235,7 +2234,8 @@
     "simplify:154ae79b-60c6-40a6-9be2-a48637bb96ff",
     "simplify:e95cee0e-a2ed-44d1-9017-9befd82e1561",
     "simplify:9831795d-d949-4a7a-87dd-f11aad5dc0c8",
-    "simplify:c344d643-aa8d-4d64-a497-67a78ca63dc9"
+    "simplify:c344d643-aa8d-4d64-a497-67a78ca63dc9",
+    "simplify:47fe2157-ddd3-4233-87d7-cf96058a286d"
   ],
   "DoorDash": [],
   "Waymo": [
@@ -2969,7 +2969,6 @@
     "simplify:c0bc8e2c-204a-461b-bd1b-7d720fbcbd77",
     "simplify:d7cb67a6-930f-4fc0-a3b7-3f7d47bcdb31",
     "simplify:20ba2faa-8c06-4328-b38a-a1ff32e5b009",
-    "simplify:4e5a3408-a4e1-4fd4-bdc8-f76d25074374",
     "simplify:e670d442-7188-4ebf-a019-6706835ae548",
     "simplify:7b75fe14-a899-4b20-9785-85fc95da69b3",
     "simplify:4f77c21f-b6c5-45b9-87c7-4087d47b9589",
@@ -3000,7 +2999,6 @@
     "simplify:c249395f-01c2-45e9-bc84-85cb3cc66408",
     "simplify:bd6358b0-c6b0-436e-bb7a-e2dcb370e692",
     "simplify:f34b1f76-8c04-44e3-af69-ab94a7694d4b",
-    "simplify:2c773875-aa62-411f-a839-511d6f823d7d",
     "simplify:b560def8-65f9-4a57-a4f0-06cb45b403c3",
     "simplify:685487cc-2bf1-41f3-9324-4441e3ba0475",
     "simplify:acf117a3-c0c1-472f-ad4c-e68012e06ab4",
@@ -3068,7 +3066,8 @@
     "simplify:154ae79b-60c6-40a6-9be2-a48637bb96ff",
     "simplify:e95cee0e-a2ed-44d1-9017-9befd82e1561",
     "simplify:9831795d-d949-4a7a-87dd-f11aad5dc0c8",
-    "simplify:c344d643-aa8d-4d64-a497-67a78ca63dc9"
+    "simplify:c344d643-aa8d-4d64-a497-67a78ca63dc9",
+    "simplify:47fe2157-ddd3-4233-87d7-cf96058a286d"
   ],
   "Wintermute": [],
   "QCP": [],
