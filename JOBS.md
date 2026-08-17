@@ -1,10 +1,9 @@
 # Open Internships
 
-**2595** internships across **188/188** companies — last updated 2026-08-17.
+**2594** internships across **188/188** companies — last updated 2026-08-17.
 
 ## Companies
 
-- [ CCC Intelligent Solutions](#ccc-intelligent-solutions) (1)
 - [21CS](#21cs) (1)
 - [3RedPartners](#3redpartners) (2)
 - [9to9 Software Solutions](#9to9-software-solutions) (7)
@@ -592,7 +591,7 @@
 - [MetroStar](#metrostar) (1)
 - [Meyer Distributing](#meyer-distributing) (1)
 - [Microchip Technology](#microchip-technology) (4)
-- [Micron Technology](#micron-technology) (6)
+- [Micron Technology](#micron-technology) (5)
 - [Microsoft](#microsoft) (11)
 - [Mindsmith](#mindsmith) (1)
 - [Mistral AI](#mistral-ai) (1)
@@ -979,6 +978,7 @@
 - [Verse Medical](#verse-medical) (1)
 - [Vertiv](#vertiv) (2)
 - [VetsEZ](#vetsez) (1)
+- [Viasat](#viasat) (1)
 - [Viridien](#viridien) (2)
 - [Virtu Financial](#virtu-financial) (5)
 - [Visa](#visa) (8)
@@ -1030,12 +1030,6 @@
 - [Zettabyte](#zettabyte) (2)
 - [Zip](#zip) (1)
 - [Zurn Elkay Water Solutions](#zurn-elkay-water-solutions) (2)
-
-##  CCC Intelligent Solutions
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Science Engineer Intern](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Data-Science-Engineer-Internship_0014843) | 93 | Chicago, IL | AI/ML/Data | 2026-08-12 |
 
 ## 21CS
 
@@ -5320,7 +5314,6 @@
 | [IT Software Support Engineer New Grad](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/New-College-Grad---IT-Software-Support-Engineer_JR108465) | 99 | Boise, ID | Software | 2026-08-17 |
 | [Engineer – Metro Real-time Defect Analysis - Real-time Defect Analysis - Process & Equipment](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Engineer--Metro-Real-time-Defect-Analysis--RDA--Process---Equipment_JR94375) | 93 | Leander, TX | AI/ML/Data | 2026-08-17 |
 | [New College Grad - EDA/CAD Engineer](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---EDA-CAD-Engineer_JR103201) | 93 | San Jose, CA / Boise, ID | AI/ML/Data | 2026-08-17 |
-| [Surface Scientist Intern - Corporate Labs](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Corporate-Labs_JR108442) | 93 | Boise, ID | AI/ML/Data | 2026-08-12 |
 
 ## Microsoft
 
@@ -8407,6 +8400,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Full Stack Developer Intern](https://vetsez.breezy.hr/p/a4010fdb3a7001-full-stack-developer-intern-remote-opportunity) | 85 | Remote in US | Software Engineering | 2026-06-24 |
+
+## Viasat
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer, Broadband Networks](https://careers.viasat.com/jobs/4993) | 85 | Carlsbad, CA | — | 2026-08-17 |
 
 ## Viridien
 
