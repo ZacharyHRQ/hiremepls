@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T05:19:43.806Z",
+  "generatedAt": "2026-08-17T05:56:57.818Z",
   "companyCount": 186,
   "okCount": 186,
   "jobCount": 1043,
@@ -14615,10 +14615,10 @@
       ]
     },
     {
-      "id": "canonical:7415b625cc275ede",
-      "title": "Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987",
-      "location": "Charlotte, NC, United States",
+      "id": "canonical:ffe7916084aed0ef",
+      "title": "Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- New York, NY",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082",
+      "location": "New York, NY, United States",
       "department": "Software / Summer 2027",
       "company": "American Express",
       "score": 91,
@@ -14629,10 +14629,10 @@
       ]
     },
     {
-      "id": "canonical:ffe7916084aed0ef",
-      "title": "Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- New York, NY",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082",
-      "location": "New York, NY, United States",
+      "id": "canonical:7415b625cc275ede",
+      "title": "Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987",
+      "location": "Charlotte, NC, United States",
       "department": "Software / Summer 2027",
       "company": "American Express",
       "score": 91,
