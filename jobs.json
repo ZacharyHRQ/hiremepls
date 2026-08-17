@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-17T21:46:40.071Z",
+  "generatedAt": "2026-08-17T22:12:49.528Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2585,
+  "jobCount": 2589,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -115,7 +115,6 @@
     "canonical:10a5b74a72d648b4": "2026-06-25T15:10:46.027Z",
     "canonical:99c46587db530588": "2026-06-25T15:10:46.027Z",
     "canonical:c41ef117bb4ff60c": "2026-07-01T06:55:26.212Z",
-    "canonical:c0eb083bfbe7a4b1": "2026-07-01T06:55:26.212Z",
     "canonical:1c5596e89463019b": "2026-07-01T06:55:26.212Z",
     "canonical:db74d5d02de964bf": "2026-07-01T10:37:16.482Z",
     "canonical:68297b37cb4f4754": "2026-07-01T23:02:00.772Z",
@@ -751,7 +750,6 @@
     "canonical:97e22bbcb7a75783": "2026-08-13T15:57:09.615Z",
     "canonical:f9f8bc69f47c01d3": "2026-08-13T17:09:36.735Z",
     "canonical:3552aa8e994f6bc7": "2026-08-13T17:09:36.735Z",
-    "canonical:8c33dd8961483d6c": "2026-08-13T17:09:36.735Z",
     "canonical:27a09e08b462cce2": "2026-08-13T17:09:36.735Z",
     "canonical:9b2571ad2c92f469": "2026-08-13T20:02:08.936Z",
     "canonical:c6062debf2a20902": "2026-08-13T23:22:47.944Z",
@@ -2033,7 +2031,6 @@
     "canonical:d15c2e5741550aa1": "2026-08-17T16:14:31.608Z",
     "canonical:a750a2abf59a6218": "2026-08-17T16:14:31.608Z",
     "canonical:eaa6a78991304e34": "2026-08-17T16:14:31.608Z",
-    "canonical:319c61730a2e741a": "2026-08-17T16:14:31.608Z",
     "canonical:67262944eb622996": "2026-08-17T16:14:31.608Z",
     "canonical:0cb4930be60bf321": "2026-08-17T16:14:31.608Z",
     "canonical:622f877838f27e9b": "2026-08-17T16:14:31.608Z",
@@ -2175,7 +2172,6 @@
     "canonical:95f2f5d3f5531789": "2026-08-17T16:14:31.608Z",
     "canonical:2f096c49f4fcbd3e": "2026-08-17T16:14:31.608Z",
     "canonical:5d7d3e024ceff487": "2026-08-17T16:14:31.608Z",
-    "canonical:6a225bc546882889": "2026-08-17T16:14:31.608Z",
     "canonical:256d8a4f6626f5ee": "2026-08-17T16:14:31.608Z",
     "canonical:f9c7d80c3594d732": "2026-08-17T16:14:31.608Z",
     "canonical:078f29fd4077dc7f": "2026-08-17T16:14:31.608Z",
@@ -2588,7 +2584,15 @@
     "canonical:ee1aa41013faee51": "2026-08-17T19:05:19.955Z",
     "canonical:68029ec5d4c63fd2": "2026-08-17T19:38:35.965Z",
     "canonical:3f44cd57fca349f6": "2026-08-17T20:49:44.734Z",
-    "canonical:e22881e22c747207": "2026-08-17T21:15:56.458Z"
+    "canonical:e22881e22c747207": "2026-08-17T21:15:56.458Z",
+    "canonical:43a18bc2b1e316c2": "2026-08-17T22:12:49.528Z",
+    "canonical:de52bee35dfa071d": "2026-08-17T22:12:49.528Z",
+    "canonical:eb500a0fa0dd25fb": "2026-08-17T22:12:49.528Z",
+    "canonical:56aeb469ac317098": "2026-08-17T22:12:49.528Z",
+    "canonical:c48dda66ccbb40f7": "2026-08-17T22:12:49.528Z",
+    "canonical:9394a4be7385cc0b": "2026-08-17T22:12:49.528Z",
+    "canonical:42c4fd045c2a305a": "2026-08-17T22:12:49.528Z",
+    "canonical:35e55d10f51de764": "2026-08-17T22:12:49.528Z"
   },
   "jobs": [
     {
@@ -2749,11 +2753,11 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:17fc1df56cefeb65",
       "title": "Graduate Software Engineer",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917773101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
-      "department": "",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4818790101",
+      "location": "Chicago, IL",
+      "department": "Software",
       "company": "IMC Trading",
       "score": 99,
       "scoreReasons": [
@@ -2764,11 +2768,11 @@
       ]
     },
     {
-      "id": "canonical:17fc1df56cefeb65",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4818790101",
-      "location": "Chicago, IL",
-      "department": "Software",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917773101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
+      "department": "",
       "company": "IMC Trading",
       "score": 99,
       "scoreReasons": [
@@ -3046,19 +3050,6 @@
       ]
     },
     {
-      "id": "canonical:4da2c943e4eb3f7c",
-      "title": "Campus Software Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7975026",
-      "location": "London",
-      "department": "",
-      "company": "Jump Trading",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:aa053f6ba830d433",
       "title": "Campus Software Engineer (Intern)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
@@ -3072,10 +3063,23 @@
       ]
     },
     {
-      "id": "canonical:4d567555739a50bd",
+      "id": "canonical:4da2c943e4eb3f7c",
+      "title": "Campus Software Engineer (Intern)",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7975026",
+      "location": "London",
+      "department": "",
+      "company": "Jump Trading",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:3b590c340646bfa7",
       "title": "Campus Systems Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
-      "location": "Singapore",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
+      "location": "Chicago",
       "department": "",
       "company": "Jump Trading",
       "score": 75,
@@ -3084,10 +3088,10 @@
       ]
     },
     {
-      "id": "canonical:3b590c340646bfa7",
+      "id": "canonical:4d567555739a50bd",
       "title": "Campus Systems Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
-      "location": "Chicago",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
+      "location": "Singapore",
       "department": "",
       "company": "Jump Trading",
       "score": 75,
@@ -3203,11 +3207,11 @@
       ]
     },
     {
-      "id": "canonical:f9963438d881a851",
+      "id": "canonical:bd72b8a6944f6777",
       "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
-      "location": "Amsterdam",
-      "department": "",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
+      "location": "London, UK",
+      "department": "Software",
       "company": "DRW",
       "score": 93,
       "scoreReasons": [
@@ -3217,11 +3221,11 @@
       ]
     },
     {
-      "id": "canonical:bd72b8a6944f6777",
+      "id": "canonical:f9963438d881a851",
       "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
-      "location": "London, UK",
-      "department": "Software",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
+      "location": "Amsterdam",
+      "department": "",
       "company": "DRW",
       "score": 93,
       "scoreReasons": [
@@ -5181,7 +5185,7 @@
     {
       "id": "canonical:1a056010d15d11c7",
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -7737,20 +7741,6 @@
       "location": "NYC",
       "department": "Software",
       "company": "Palantir",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:c0eb083bfbe7a4b1",
-      "title": "Computer Vision Engineer Intern",
-      "url": "https://jobs.smartrecruiters.com/Intuitive/744000133458290",
-      "location": "Sunnyvale, CA",
-      "department": "AI/ML/Data",
-      "company": "Intuitive Surgical",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -30181,23 +30171,9 @@
       ]
     },
     {
-      "id": "canonical:319c61730a2e741a",
-      "title": "Software Engineer 1-2 - Embedded",
-      "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineer-I-2_8367",
-      "location": "Sunrise, FL",
-      "department": "Hardware",
-      "company": "AeroVironment",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:1481881b12c83348",
       "title": "Software Engineer 1 - Embedded",
-      "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineer-I-1_8366",
+      "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineer-I-3_8368",
       "location": "Sunrise, FL",
       "department": "Hardware",
       "company": "AeroVironment",
@@ -32152,21 +32128,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:6a225bc546882889",
-      "title": "Technology Development Program New Grad - Data & Analytics Engineering Track",
-      "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Technology-Development-Program--TECDP----Data---Analytics-Engineering-Track_26009518-1",
-      "location": "Morris Plains, NJ / St. Louis, MO / Bloomfield, CT",
-      "department": "AI/ML/Data",
-      "company": "Cigna Group",
-      "score": 99,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
         "direct ATS"
       ]
     },
@@ -37452,6 +37413,20 @@
       ]
     },
     {
+      "id": "canonical:43a18bc2b1e316c2",
+      "title": "Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Sunrise, FL",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011084",
+      "location": "Sunrise, FL, United States",
+      "department": "Software / Summer 2027",
+      "company": "American Express",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
+      ]
+    },
+    {
       "id": "canonical:e22881e22c747207",
       "title": "Software Engineering Intern (Summer 2027)",
       "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Software-Engineering-Intern--Summer-2027-_01867324",
@@ -37603,8 +37578,8 @@
       ]
     },
     {
-      "id": "canonical:8c33dd8961483d6c",
-      "title": "Software Dev Internship",
+      "id": "canonical:de52bee35dfa071d",
+      "title": "Software Dev Internship (OKC local only)",
       "url": "https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Software-Dev-Internship_JR1005",
       "location": "Oklahoma City, Oklahoma",
       "department": "Software / Not stated",
@@ -38071,6 +38046,86 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:eb500a0fa0dd25fb",
+      "title": "Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Sunrise, FL",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011745",
+      "location": "Sunrise, FL, United States",
+      "department": "Data & ML/AI / Summer 2027",
+      "company": "American Express",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:56aeb469ac317098",
+      "title": "Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- New York, NY",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698",
+      "location": "New York, NY, United States",
+      "department": "Data & ML/AI / Summer 2027",
+      "company": "American Express",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:c48dda66ccbb40f7",
+      "title": "Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Technology - New York, NY",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970",
+      "location": "New York, NY, United States",
+      "department": "Software / Summer 2027",
+      "company": "American Express",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:9394a4be7385cc0b",
+      "title": "Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- New York, NY",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011991",
+      "location": "New York, NY, United States",
+      "department": "Data & ML/AI / Summer 2027",
+      "company": "American Express",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
+      ]
+    },
+    {
+      "id": "canonical:42c4fd045c2a305a",
+      "title": "Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Atlanta, GA",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011796",
+      "location": "Atlanta, GA, United States",
+      "department": "Data & ML/AI / Summer 2027",
+      "company": "American Express",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:35e55d10f51de764",
+      "title": "Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Sunrise, FL",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011999",
+      "location": "Sunrise, FL, United States",
+      "department": "Data & ML/AI / Summer 2027",
+      "company": "American Express",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
       ]
     }
   ],
