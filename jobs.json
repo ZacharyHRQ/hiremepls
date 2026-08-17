@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-17T20:49:44.734Z",
+  "generatedAt": "2026-08-17T21:15:56.458Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2591,
+  "jobCount": 2592,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2594,7 +2594,8 @@
     "canonical:53a02b915ee137e3": "2026-08-17T17:17:07.028Z",
     "canonical:ee1aa41013faee51": "2026-08-17T19:05:19.955Z",
     "canonical:68029ec5d4c63fd2": "2026-08-17T19:38:35.965Z",
-    "canonical:3f44cd57fca349f6": "2026-08-17T20:49:44.734Z"
+    "canonical:3f44cd57fca349f6": "2026-08-17T20:49:44.734Z",
+    "canonical:e22881e22c747207": "2026-08-17T21:15:56.458Z"
   },
   "jobs": [
     {
@@ -5441,6 +5442,20 @@
       "location": "Germantown, MD",
       "department": "Software Engineering",
       "company": "AeroVironment",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:3f44cd57fca349f6",
+      "title": "Software Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/mcghealth/jobs/8350486002",
+      "location": "Seattle, WA",
+      "department": "Software Engineering",
+      "company": "MCG Health",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -36572,20 +36587,6 @@
       ]
     },
     {
-      "id": "canonical:3f44cd57fca349f6",
-      "title": "Software Engineering Intern",
-      "url": "https://job-boards.greenhouse.io/mcghealth/jobs/8350486002",
-      "location": "Seattle, WA",
-      "department": "Software Engineering",
-      "company": "MCG Health",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:97e9e5b25e16fc8f",
       "title": "Software Engineer 1, Technology",
       "url": "https://aexp.eightfold.ai/careers/job/38270703",
@@ -38156,6 +38157,20 @@
       "location": "New York",
       "department": "Quant / Summer 2027",
       "company": "Virtu Financial",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:e22881e22c747207",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Software-Engineering-Intern--Summer-2027-_01867324",
+      "location": "US-IA-CEDAR RAPIDS-192 ~ 1205 Continental Place NE ~ BLDG 192",
+      "department": "Software / Summer 2027",
+      "company": "RTX",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",

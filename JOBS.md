@@ -1,6 +1,6 @@
 # Open Internships
 
-**2591** internships across **188/188** companies — last updated 2026-08-17.
+**2592** internships across **188/188** companies — last updated 2026-08-17.
 
 ## Companies
 
@@ -780,7 +780,7 @@
 - [Royal Bank of Canada](#royal-bank-of-canada) (1)
 - [Royal Caribbean Group](#royal-caribbean-group) (1)
 - [RRS Group](#rrs-group) (2)
-- [RTX](#rtx) (37)
+- [RTX](#rtx) (38)
 - [RunSybil](#runsybil) (1)
 - [Ryder System](#ryder-system) (1)
 - [SA Technologies](#sa-technologies) (2)
@@ -6758,6 +6758,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Software-Engineering-Intern--Summer-2027-_01867324) | 93 | US-IA-CEDAR RAPIDS-192 ~ 1205 Continental Place NE ~ BLDG 192 | Software / Summer 2027 | 2026-08-17 |
 | [Conversion Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/XMLNAME-2027-Conversion-Software-Engineer-I--Onsite-_01858534) | 93 | Richardson, TX | Software | 2026-08-17 |
 | [Data Analytics and Methods Engineer - Mission Applied Science & Technology](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I_01866279) | 93 | Richardson, TX | Software | 2026-08-17 |
 | [Embedded Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Embedded-Software-Engineer---P1_01864540) | 93 | East Hartford, CT | Hardware | 2026-08-17 |
