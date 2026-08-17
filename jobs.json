@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-17T17:17:07.028Z",
+  "generatedAt": "2026-08-17T17:51:16.325Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2594,
+  "jobCount": 2593,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1130,7 +1130,6 @@
     "canonical:eb60a96fc2db6896": "2026-08-17T16:14:31.608Z",
     "canonical:e522d30c1dbeb553": "2026-08-17T16:14:31.608Z",
     "canonical:6ced142713e8d71a": "2026-08-17T16:14:31.608Z",
-    "canonical:cbbd8c99ed859435": "2026-08-17T16:14:31.608Z",
     "canonical:ecf6b2472cf526ac": "2026-08-17T16:14:31.608Z",
     "canonical:1eab9d844a03d30b": "2026-08-17T16:14:31.608Z",
     "canonical:c8c1a94a4788b740": "2026-08-17T16:14:31.608Z",
@@ -5190,7 +5189,7 @@
     {
       "id": "canonical:1a056010d15d11c7",
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -17448,21 +17447,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:cbbd8c99ed859435",
-      "title": "Software Engineer New Grad - Security",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----New-Grad_R030880",
-      "location": "Atlanta, GA",
-      "department": "Hardware",
-      "company": "Ciena",
-      "score": 99,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
         "direct ATS"
       ]
     },
@@ -37183,6 +37167,19 @@
       ]
     },
     {
+      "id": "canonical:53a02b915ee137e3",
+      "title": "Software Engineer, Broadband Networks",
+      "url": "https://careers.viasat.com/jobs/4993",
+      "location": "Carlsbad, CA",
+      "department": "",
+      "company": "Viasat",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:df6d79b9c7d9aad6",
       "title": "New Grad: Software Engineer, Agent",
       "url": "https://jobs.ashbyhq.com/Sierra/6a75b530-b7bb-4439-bb67-37b4f2b75b96",
@@ -38194,19 +38191,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:53a02b915ee137e3",
-      "title": "Software Engineer, Broadband Networks",
-      "url": "https://careers.viasat.com/jobs/4993",
-      "location": "Carlsbad, CA",
-      "department": "",
-      "company": "Viasat",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     }
   ],
