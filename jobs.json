@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-17T15:15:37.907Z",
+  "generatedAt": "2026-08-17T15:46:19.711Z",
   "companyCount": 186,
-  "okCount": 186,
-  "jobCount": 1046,
+  "okCount": 185,
+  "jobCount": 1044,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -434,7 +434,6 @@
     "canonical:1a056010d15d11c7": "2026-07-28T16:21:38.267Z",
     "canonical:ee163e214703918f": "2026-07-28T16:21:38.267Z",
     "canonical:b3a0b3bc244cb3ec": "2026-07-28T22:41:55.739Z",
-    "canonical:136c3179d65cdc79": "2026-07-28T22:41:55.739Z",
     "canonical:014cf51a9c82af9f": "2026-07-28T23:38:50.618Z",
     "canonical:7ebfc68970dd7a2e": "2026-07-28T23:38:50.618Z",
     "canonical:08a06731349f99d6": "2026-07-28T23:38:50.618Z",
@@ -1045,11 +1044,10 @@
     "canonical:f2c5aaa275a49185": "2026-08-17T15:15:37.907Z",
     "canonical:ed8af415dc1e7af6": "2026-08-17T15:15:37.907Z",
     "canonical:f6b5b440fc79e718": "2026-08-17T15:15:37.907Z",
-    "canonical:e1cb819b5b9c30a1": "2026-08-17T15:15:37.907Z",
-    "canonical:cc0a4fa63a50f48c": "2026-08-17T15:15:37.907Z",
-    "canonical:662fa06a693ccfb5": "2026-08-17T15:15:37.907Z",
-    "canonical:eaf31d8c0d651b59": "2026-08-17T15:15:37.907Z",
-    "canonical:e0ce9547f4c3878b": "2026-08-17T15:15:37.907Z"
+    "canonical:e0ce9547f4c3878b": "2026-08-17T15:15:37.907Z",
+    "canonical:b6c6f9d692468cf8": "2026-08-17T15:46:19.711Z",
+    "canonical:d69cf47cefa45ee8": "2026-08-17T15:46:19.711Z",
+    "canonical:8bb84dd14c633b38": "2026-08-17T15:46:19.711Z"
   },
   "jobs": [
     {
@@ -8693,20 +8691,6 @@
       ]
     },
     {
-      "id": "canonical:136c3179d65cdc79",
-      "title": "ADAS Software Engineer Intern",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000140317669",
-      "location": "Plymouth, MI",
-      "department": "Hardware",
-      "company": "Bosch Home Comfort",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:63e18490d11ef543",
       "title": "Software Developer Undergraduate Intern",
       "url": "https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2164",
@@ -12709,6 +12693,33 @@
       ]
     },
     {
+      "id": "canonical:b6c6f9d692468cf8",
+      "title": "Motion Planning Engineer Intern - PhD",
+      "url": "https://job-boards.greenhouse.io/didi/jobs/8131863",
+      "location": "San Jose, CA",
+      "department": "AI/ML/Data",
+      "company": "DiDi Global",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:d69cf47cefa45ee8",
+      "title": "Software Engineer Intern",
+      "url": "https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002",
+      "location": "London, UK",
+      "department": "Software",
+      "company": "Optiver",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:12cd06c0eec80152",
       "title": "Frontend Software Engineer Intern",
       "url": "https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c",
@@ -14599,61 +14610,6 @@
       ]
     },
     {
-      "id": "canonical:e1cb819b5b9c30a1",
-      "title": "Software Engineer, Intern (Summer 2026)",
-      "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002?fbclid=PAQ0xDSwK38VtleHRuA2FlbQIxMQABpwFCtP3w0jUMJ2UyUfRb7jqEW6gF5Rr31twvg5geVxUyYXlmmQrGSEf9O3Pw_aem_MfePXp-UnrQgRcTvm_Lh4Q",
-      "location": "Chicago",
-      "department": "",
-      "company": "Citadel",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:cc0a4fa63a50f48c",
-      "title": "2026 North America Software Engineering Internship",
-      "url": "https://www.linkedin.com/jobs/view/4270526982",
-      "location": "Boulder, CO",
-      "department": "",
-      "company": "The Trade Desk",
-      "score": 77,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "aggregator link"
-      ]
-    },
-    {
-      "id": "canonical:662fa06a693ccfb5",
-      "title": "2026 Technology Summer Internship - Early Careers (Software Engineer)",
-      "url": "https://www.linkedin.com/jobs/view/2026-technology-summer-internship-early-careers-software-engineer-at-wells-fargo-4271041288?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "location": "Irving, TX",
-      "department": "",
-      "company": "Wells Fargo",
-      "score": 77,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "aggregator link"
-      ]
-    },
-    {
-      "id": "canonical:eaf31d8c0d651b59",
-      "title": "2026 Technology Summer Internship - Early Careers (Software Engineer)",
-      "url": "https://careers.techtitans.org/companies/wells-fargo/jobs/54862105-2026-technology-summer-internship-early-careers-software-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "location": "St. Louis, MO",
-      "department": "",
-      "company": "Wells Fargo",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:e0ce9547f4c3878b",
       "title": "Software Engineering Intern (Summer 2027)",
       "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01867487",
@@ -15015,6 +14971,20 @@
       ]
     },
     {
+      "id": "canonical:8bb84dd14c633b38",
+      "title": "ADAS Software Engineering Intern",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000140317669",
+      "location": "Plymouth, MI, United States",
+      "department": "Software / Not stated",
+      "company": "Bosch",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:b7e2b2dbebb1a7cb",
       "title": "R&D- Computer Vision Engineering Intern",
       "url": "https://magna.wd3.myworkdayjobs.com/Magna/job/Troy-Michigan-US/R-D--Computer-Vision-Engineering-Intern_R00253444-1",
@@ -15235,5 +15205,10 @@
       ]
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "company": "Rethinkjobs Summer 2026",
+      "message": "githubMarkdown Rethinkjobs Summer 2026: HTTP 429"
+    }
+  ]
 }

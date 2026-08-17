@@ -1,6 +1,6 @@
 # Open Internships
 
-**1046** internships across **186/186** companies — last updated 2026-08-17.
+**1044** internships across **185/186** companies — last updated 2026-08-17.
 
 ## Companies
 
@@ -60,8 +60,8 @@
 - [Blockhouse](#blockhouse) (1)
 - [Blue Origin](#blue-origin) (1)
 - [Booz Allen](#booz-allen) (1)
-- [Bosch](#bosch) (2)
-- [Bosch Home Comfort](#bosch-home-comfort) (2)
+- [Bosch](#bosch) (3)
+- [Bosch Home Comfort](#bosch-home-comfort) (1)
 - [Boston Consulting Group](#boston-consulting-group) (2)
 - [Bot Auto](#bot-auto) (1)
 - [Bree](#bree) (1)
@@ -79,7 +79,7 @@
 - [Ciena](#ciena) (2)
 - [Circleback](#circleback) (1)
 - [Cirrus Logic](#cirrus-logic) (1)
-- [Citadel](#citadel) (9)
+- [Citadel](#citadel) (8)
 - [Citadel Securities](#citadel-securities) (6)
 - [Clarity Innovations](#clarity-innovations) (1)
 - [Clerkie](#clerkie) (1)
@@ -105,6 +105,7 @@
 - [Deloitte](#deloitte) (3)
 - [Delta Air Lines](#delta-air-lines) (1)
 - [Dexmate](#dexmate) (1)
+- [DiDi Global](#didi-global) (1)
 - [Digs](#digs) (1)
 - [DimeHealth AI](#dimehealth-ai) (1)
 - [Dmg Media](#dmg-media) (1)
@@ -263,7 +264,7 @@
 - [Omnis](#omnis) (1)
 - [ONEOK](#oneok) (3)
 - [Onware](#onware) (1)
-- [Optiver](#optiver) (2)
+- [Optiver](#optiver) (3)
 - [Oracle](#oracle) (5)
 - [Palantir](#palantir) (74)
 - [Palo Alto Networks](#palo-alto-networks) (1)
@@ -354,7 +355,7 @@
 - [Thales](#thales) (1)
 - [The Boeing Company](#the-boeing-company) (1)
 - [The Nuclear Company](#the-nuclear-company) (5)
-- [The Trade Desk](#the-trade-desk) (2)
+- [The Trade Desk](#the-trade-desk) (1)
 - [Thermo Fisher Scientific](#thermo-fisher-scientific) (1)
 - [Thomson Reuters](#thomson-reuters) (1)
 - [TIFIN](#tifin) (1)
@@ -391,7 +392,6 @@
 - [Walleye Capital](#walleye-capital) (3)
 - [WallStreetQuants](#wallstreetquants) (2)
 - [Waymo](#waymo) (1)
-- [Wells Fargo](#wells-fargo) (2)
 - [Western Digital](#western-digital) (2)
 - [Workato](#workato) (1)
 - [WSP](#wsp) (1)
@@ -808,6 +808,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [ADAS Software Engineering Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140317669) | 93 | Plymouth, MI, United States | Software / Not stated | 2026-08-17 |
 | [Powertrain Controls Software Engineering Intern (6-Months, Full-Time)](https://jobs.smartrecruiters.com/BoschGroup/744000142898574) | 93 | Farmington Hills, MI, United States | Software / Not stated | 2026-08-11 |
 | [AI and SW Development Engineering Intern](https://jobs.smartrecruiters.com/BoschGroup/744000141302469) | 93 | Plymouth, MI, United States | Data & ML/AI / Not stated | 2026-08-04 |
 
@@ -815,7 +816,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [ADAS Software Engineer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140317669) | 93 | Plymouth, MI | Hardware | 2026-07-28 |
 | [Powertrain Controls Software Engineer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000140089589) | 93 | Southfield, MI | Hardware | 2026-07-27 |
 
 ## Boston Consulting Group
@@ -995,7 +995,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer, Intern (Summer 2026)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002?fbclid=PAQ0xDSwK38VtleHRuA2FlbQIxMQABpwFCtP3w0jUMJ2UyUfRb7jqEW6gF5Rr31twvg5geVxUyYXlmmQrGSEf9O3Pw_aem_MfePXp-UnrQgRcTvm_Lh4Q) | 93 | Chicago | — | 2026-08-17 |
 | [Sector Data Scientist Intern](https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/) | 85 | NYC | AI/ML/Data | 2026-08-10 |
 | [Quantitative Researcher – PhD Intern](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/) | 85 | Greenwich, CT / Houston, TX / Miami, FL / NYC | Quant | 2026-08-06 |
 | [Quantitative Research Engineer Intern](https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-europe/) | 85 | London, UK | Quant | 2026-07-14 |
@@ -1181,6 +1180,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Frontend Engineer Intern](https://jobs.ashbyhq.com/dexmate/eac26b6f-1a53-441f-8e52-ee0a0b1bc119/application?embed=true) | 93 | Fremont, CA | Software | 2026-08-01 |
+
+## DiDi Global
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Motion Planning Engineer Intern - PhD](https://job-boards.greenhouse.io/didi/jobs/8131863) | 93 | San Jose, CA | AI/ML/Data | 2026-08-17 |
 
 ## Digs
 
@@ -2273,6 +2278,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002) | 85 | London, UK | Software | 2026-08-17 |
 | [Software Engineer Intern](https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002) | 85 | Chicago, IL | Software | 2026-07-09 |
 | [Software Engineer Intern](https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002) | 85 | Austin, TX | Software | 2026-07-09 |
 
@@ -3050,7 +3056,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [2026 North America Software Engineering Internship](https://www.linkedin.com/jobs/view/4270526982) | 77 | Boulder, CO | — | 2026-08-17 |
 | [2027 North America Software Engineering Internship](https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007) | 93 | Bellevue; Boulder; Denver; Irvine; New York; Seattle | Software / Summer 2027 | 2026-07-23 |
 
 ## Thermo Fisher Scientific
@@ -3366,13 +3371,6 @@
 | --- | --- | --- | --- | --- |
 | [Machine Learning Engineer Perception LLM/VLM (PhD, New Grad)](https://careers.withwaymo.com/jobs?gh_jid=7488508) | 91 | Mountain View, CA USA;  San Francisco, CA USA; | — | 2026-07-28 |
 
-## Wells Fargo
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [2026 Technology Summer Internship - Early Careers (Software Engineer)](https://careers.techtitans.org/companies/wells-fargo/jobs/54862105-2026-technology-summer-internship-early-careers-software-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 85 | St. Louis, MO | — | 2026-08-17 |
-| [2026 Technology Summer Internship - Early Careers (Software Engineer)](https://www.linkedin.com/jobs/view/2026-technology-summer-internship-early-careers-software-engineer-at-wells-fargo-4271041288?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 77 | Irving, TX | — | 2026-08-17 |
-
 ## Western Digital
 
 | Title | Score | Location | Department | First seen |
@@ -3420,3 +3418,7 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/zettabyte-space/ec96b63a-e11c-4589-ab25-4f1779fb8759/application?embed=true) | 93 | Palo Alto, CA / United States | Software | 2026-08-01 |
+
+## Errors this run
+
+- **Rethinkjobs Summer 2026**: githubMarkdown Rethinkjobs Summer 2026: HTTP 429
