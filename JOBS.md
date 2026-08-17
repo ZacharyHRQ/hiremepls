@@ -1,6 +1,6 @@
 # Open Internships
 
-**2592** internships across **188/188** companies — last updated 2026-08-17.
+**2585** internships across **188/188** companies — last updated 2026-08-17.
 
 ## Companies
 
@@ -35,7 +35,6 @@
 - [Alkira](#alkira) (1)
 - [Allen Control Systems](#allen-control-systems) (1)
 - [AllianceBernstein](#alliancebernstein) (1)
-- [Allica Bank](#allica-bank) (1)
 - [Allstate Insurance Company](#allstate-insurance-company) (1)
 - [AlphaLife Sciences](#alphalife-sciences) (1)
 - [Alta Ares](#alta-ares) (1)
@@ -216,7 +215,6 @@
 - [Codeage](#codeage) (1)
 - [Cohere](#cohere) (3)
 - [Coherent ](#coherent) (2)
-- [Cohesity](#cohesity) (1)
 - [Collective Hub, Inc](#collective-hub-inc) (1)
 - [Color](#color) (1)
 - [Commure](#commure) (1)
@@ -371,7 +369,7 @@
 - [Generac](#generac) (3)
 - [General Dynamics](#general-dynamics) (1)
 - [General Dynamics Information Technology](#general-dynamics-information-technology) (6)
-- [General Dynamics Mission Systems](#general-dynamics-mission-systems) (8)
+- [General Dynamics Mission Systems](#general-dynamics-mission-systems) (7)
 - [General Matter](#general-matter) (1)
 - [General Motors](#general-motors) (2)
 - [Genetec](#genetec) (4)
@@ -807,7 +805,6 @@
 - [ServiceNow](#servicenow) (3)
 - [Set of X](#set-of-x) (1)
 - [Seven Research](#seven-research) (4)
-- [SharkNinja](#sharkninja) (1)
 - [Shift](#shift) (1)
 - [Shirley Ryan AbilityLab](#shirley-ryan-abilitylab) (1)
 - [Shopify](#shopify) (1)
@@ -899,11 +896,10 @@
 - [Texas A&M University System](#texas-a-m-university-system) (2)
 - [Texas Instruments](#texas-instruments) (3)
 - [Texas Sports Academy](#texas-sports-academy) (2)
-- [Thales](#thales) (1)
 - [The Anywhere](#the-anywhere) (1)
 - [The Boeing Company](#the-boeing-company) (4)
 - [The Brattle Group](#the-brattle-group) (1)
-- [The Home Depot](#the-home-depot) (3)
+- [The Home Depot](#the-home-depot) (2)
 - [The Nuclear Company](#the-nuclear-company) (6)
 - [The Trade Desk](#the-trade-desk) (3)
 - [The Walt Disney Company](#the-walt-disney-company) (1)
@@ -1008,7 +1004,6 @@
 - [White Cap Supply Holdings](#white-cap-supply-holdings) (1)
 - [Wolters Kluwer](#wolters-kluwer) (1)
 - [Wolverine Trading](#wolverine-trading) (1)
-- [WonderBotz](#wonderbotz) (1)
 - [Wonderschool](#wonderschool) (1)
 - [Workato](#workato) (1)
 - [Workstream](#workstream) (1)
@@ -1242,12 +1237,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Developer - Wealth Planning Tools - Wealth Forecasting System](https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Nashville-Tennessee/Developer_R0019142-2) | 93 | Nashville, TN | Software | 2026-08-17 |
-
-## Allica Bank
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Graduate AI Engineer](https://jobs.ashbyhq.com/allica-bank/e73d2e2f-4fcb-4fbf-8216-665a0a4a6c9d/application) | 99 | Milton Keynes, UK | AI/ML/Data | 2026-08-17 |
 
 ## Allstate Insurance Company
 
@@ -2681,7 +2670,7 @@
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
 | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -2718,12 +2707,6 @@
 | --- | --- | --- | --- | --- |
 | [Embedded Systems Software & FPGA Programmer](https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2010466) | 85 | Elmira, NY | Hardware | 2026-08-17 |
 | [Systems Software Engineer - Test & Automation Infrastructure](https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2012520) | 85 | Fremont, CA | Software | 2026-08-17 |
-
-## Cohesity
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer New Grad](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Software-Engineer_R01282) | 99 | Santa Clara, CA | Software | 2026-08-17 |
 
 ## Collective Hub, Inc
 
@@ -3771,7 +3754,6 @@
 | [Junior Full Stack Engineer (Java/React)](https://careers-gdms.icims.com/jobs/71647/junior-full-stack-engineer-%28java-react%29/job) | 85 | Dedham, MA | Software Engineering | 2026-08-17 |
 | [Junior Software Engineer](https://careers-gdms.icims.com/jobs/68413) | 85 | Dedham, MA | — | 2026-08-17 |
 | [Software Engineer - Entry Level](https://careers-gdms.icims.com/jobs/74274/job?mobile=true&needsRedirect=false) | 85 | Scottsdale, AZ | Software | 2026-08-17 |
-| [Cybersecurity Software Engineer Intern](https://careers-gdms.icims.com/jobs/74257/job?mobile=true&needsRedirect=false) | 85 | Manassas, VA | Software | 2026-08-11 |
 
 ## General Matter
 
@@ -6191,8 +6173,8 @@
 | [Quantitative Developer](https://careers.point72.com/CSJobDetail?jobName=quantitative-developer&jobCode=CSS-0013369&location=New%20York&locale=English) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-08-17 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -6979,12 +6961,6 @@
 | [Deep Learning Researcher Intern](https://job-boards.greenhouse.io/sevenresearch/jobs/4895007008) | 93 | NYC | AI/ML/Data | 2026-07-01 |
 | [Quantitative Researcher Intern](https://job-boards.greenhouse.io/sevenresearch/jobs/4894946008) | 93 | NYC | Quant | 2026-07-01 |
 
-## SharkNinja
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [D2C Digital Experience Web Developer - Early Talent](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4702667006) | 93 | London, UK | Software | 2026-08-17 |
-
 ## Shift
 
 | Title | Score | Location | Department | First seen |
@@ -7610,12 +7586,6 @@
 | [Junior AI Software Engineer](https://apply.workable.com/texas-sports-academy-main/j/CC2A1186D4/apply) | 93 | Austin, TX | Software | 2026-08-17 |
 | [Junior Software Engineer - AI-Forward](https://apply.workable.com/texas-sports-academy-main/j/2132C3AB96/apply) | 93 | Austin, TX | Software | 2026-08-17 |
 
-## Thales
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Engineer Intern - Student](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Ottawa/Data-Engineer---student_R0337006-1) | 93 | Ottawa, ON, Canada | AI/ML/Data | 2026-08-13 |
-
 ## The Anywhere
 
 | Title | Score | Location | Department | First seen |
@@ -7642,7 +7612,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Associate Data Scientist](https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist_Req183776) | 93 | Atlanta, GA | AI/ML/Data | 2026-08-17 |
-| [Associate Data Scientist - Space Intelligence](https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist---Space-Intelligence_Req178898-1) | 93 | Atlanta, GA | AI/ML/Data | 2026-08-17 |
 | [Associate Data Scientist - Tools & Automation](https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist--Tools---Automation_Req189666) | 93 | Atlanta, GA | AI/ML/Data | 2026-08-17 |
 
 ## The Nuclear Company
@@ -8607,12 +8576,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Entry Level C++ Software Engineer](https://wolve.pinpointhq.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6?ats=pinpointhq) | 85 | Chicago, IL | Software | 2026-08-17 |
-
-## WonderBotz
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Junior Software Engineer](https://wonderbotz.applytojob.com/apply/RrI9QanYDY/Junior-Software-Engineer) | 85 | Princeton, NJ | Software | 2026-08-17 |
 
 ## Wonderschool
 
