@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-17T10:20:54.335Z",
+  "generatedAt": "2026-08-17T10:53:24.346Z",
   "companyCount": 186,
   "okCount": 186,
-  "jobCount": 1042,
+  "jobCount": 1041,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -895,7 +895,6 @@
     "canonical:e0b00c2a6f3dbf37": "2026-08-10T21:08:54.119Z",
     "canonical:e202a2e8ee7ee52b": "2026-08-10T23:05:00.755Z",
     "canonical:0ca1264d660170f3": "2026-08-10T23:05:00.755Z",
-    "canonical:706de51a464b9b1f": "2026-08-10T23:05:00.755Z",
     "canonical:4440cf9a5dc01fa4": "2026-08-10T23:05:00.755Z",
     "canonical:0c857c4be4fbe1a9": "2026-08-10T23:05:00.755Z",
     "canonical:45056b4dbe0ee73a": "2026-08-10T23:05:00.755Z",
@@ -3530,7 +3529,7 @@
     {
       "id": "canonical:1a056010d15d11c7",
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -11181,20 +11180,6 @@
       "location": "Seattle, WA / LA / NYC / Mountain View, CA",
       "department": "Software",
       "company": "Atoms",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:706de51a464b9b1f",
-      "title": "Software Engineer Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineer-Intern--Summer-2027-_01864811-1",
-      "location": "Largo, FL",
-      "department": "Software",
-      "company": "RTX",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
