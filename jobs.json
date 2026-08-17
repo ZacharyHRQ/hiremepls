@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-17T03:58:54.301Z",
+  "generatedAt": "2026-08-17T04:40:38.989Z",
   "companyCount": 186,
   "okCount": 186,
-  "jobCount": 1042,
+  "jobCount": 1043,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -770,7 +770,6 @@
     "canonical:474d478e5b0cfd04": "2026-08-04T09:06:37.515Z",
     "canonical:abe137a4dc363a6d": "2026-08-04T09:06:37.515Z",
     "canonical:9d563730afb6f774": "2026-08-04T09:06:37.515Z",
-    "canonical:525d35ef69b019bc": "2026-08-04T11:32:00.975Z",
     "canonical:4f4a3d169d3ec42f": "2026-08-04T11:32:00.975Z",
     "canonical:e8f752070d81170c": "2026-08-04T11:32:00.975Z",
     "canonical:3f8e49ad7c074739": "2026-08-04T11:32:00.975Z",
@@ -1045,7 +1044,9 @@
     "canonical:384018ef9fafd329": "2026-08-16T11:14:12.453Z",
     "canonical:2696d27e53de0c2e": "2026-08-16T12:17:42.410Z",
     "canonical:38a7d4388515b288": "2026-08-16T21:32:48.636Z",
-    "canonical:e2cc49b599955c1f": "2026-08-16T22:34:11.966Z"
+    "canonical:e2cc49b599955c1f": "2026-08-16T22:34:11.966Z",
+    "canonical:7415b625cc275ede": "2026-08-17T04:40:38.989Z",
+    "canonical:ffe7916084aed0ef": "2026-08-17T04:40:38.989Z"
   },
   "jobs": [
     {
@@ -5606,19 +5607,6 @@
       "location": "Remote in USA",
       "department": "AI/ML/Data",
       "company": "Peraton",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:525d35ef69b019bc",
-      "title": "Embedded Software Engineer Intern",
-      "url": "https://www.zipline.com/careers?gh_jid=7765240003#open-roles",
-      "location": "San Bruno, CA",
-      "department": "Hardware",
-      "company": "Zipline",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -14624,6 +14612,34 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:7415b625cc275ede",
+      "title": "Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987",
+      "location": "Charlotte, NC, United States",
+      "department": "Software / Summer 2027",
+      "company": "American Express",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
+      ]
+    },
+    {
+      "id": "canonical:ffe7916084aed0ef",
+      "title": "Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- New York, NY",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082",
+      "location": "New York, NY, United States",
+      "department": "Software / Summer 2027",
+      "company": "American Express",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
       ]
     },
     {

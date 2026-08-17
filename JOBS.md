@@ -1,6 +1,6 @@
 # Open Internships
 
-**1042** internships across **186/186** companies — last updated 2026-08-17.
+**1043** internships across **186/186** companies — last updated 2026-08-17.
 
 ## Companies
 
@@ -17,6 +17,7 @@
 - [Altice USA](#altice-usa) (1)
 - [Amazon](#amazon) (34)
 - [Ambarella](#ambarella) (1)
+- [American Express](#american-express) (2)
 - [American Fidelity](#american-fidelity) (1)
 - [Amgen](#amgen) (1)
 - [Analytical Mechanics Associates](#analytical-mechanics-associates) (2)
@@ -398,7 +399,6 @@
 - [Xsolla](#xsolla) (5)
 - [Yotta Labs](#yotta-labs) (2)
 - [Zettabyte](#zettabyte) (1)
-- [Zipline](#zipline) (1)
 
 ##  CCC Intelligent Solutions
 
@@ -515,6 +515,13 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Engineer-Intern_JR100107) | 93 | United States | Hardware | 2026-07-21 |
+
+## American Express
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987) | 91 | Charlotte, NC, United States | Software / Summer 2027 | 2026-08-17 |
+| [Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- New York, NY](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082) | 91 | New York, NY, United States | Software / Summer 2027 | 2026-08-17 |
 
 ## American Fidelity
 
@@ -3410,9 +3417,3 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/zettabyte-space/ec96b63a-e11c-4589-ab25-4f1779fb8759/application?embed=true) | 93 | Palo Alto, CA / United States | Software | 2026-08-01 |
-
-## Zipline
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Embedded Software Engineer Intern](https://www.zipline.com/careers?gh_jid=7765240003#open-roles) | 85 | San Bruno, CA | Hardware | 2026-08-04 |
