@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-17T18:22:14.004Z",
+  "generatedAt": "2026-08-17T19:05:19.955Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2593,
+  "jobCount": 2589,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -561,7 +561,6 @@
     "canonical:6975da923dc24346": "2026-08-04T00:03:15.414Z",
     "canonical:5537ed205a048c2c": "2026-08-04T00:03:15.414Z",
     "canonical:6f76eaac54d09299": "2026-08-04T00:03:15.414Z",
-    "canonical:ed0787cc5a8f304f": "2026-08-04T00:03:15.414Z",
     "canonical:6be2062ffb2a8111": "2026-08-04T00:03:15.414Z",
     "canonical:a4afd4e307aeb3e9": "2026-08-04T00:03:15.414Z",
     "canonical:1b6756d868776a32": "2026-08-04T00:03:15.414Z",
@@ -1123,7 +1122,6 @@
     "canonical:1974f91be9425a9d": "2026-08-17T16:14:31.608Z",
     "canonical:de4f58ecea8a291c": "2026-08-17T16:14:31.608Z",
     "canonical:2678ff9ffb3b89c0": "2026-08-17T16:14:31.608Z",
-    "canonical:8d417707e5bfb719": "2026-08-17T16:14:31.608Z",
     "canonical:f350b99e1d2d73ae": "2026-08-17T16:14:31.608Z",
     "canonical:b453b9592120eca7": "2026-08-17T16:14:31.608Z",
     "canonical:9d97f2659f0600a0": "2026-08-17T16:14:31.608Z",
@@ -1847,7 +1845,6 @@
     "canonical:dd8f37042c76dd1f": "2026-08-17T16:14:31.608Z",
     "canonical:8058b658ffc4683e": "2026-08-17T16:14:31.608Z",
     "canonical:db7e306b9eb621b0": "2026-08-17T16:14:31.608Z",
-    "canonical:3c7fc99e6f595935": "2026-08-17T16:14:31.608Z",
     "canonical:8819d77f149b867d": "2026-08-17T16:14:31.608Z",
     "canonical:f090a4cd4b98c170": "2026-08-17T16:14:31.608Z",
     "canonical:514a440009d8e57c": "2026-08-17T16:14:31.608Z",
@@ -1958,7 +1955,6 @@
     "canonical:6098eef4d84cec63": "2026-08-17T16:14:31.608Z",
     "canonical:b98b49a8a1c7f4a5": "2026-08-17T16:14:31.608Z",
     "canonical:1496cb883fb40a70": "2026-08-17T16:14:31.608Z",
-    "canonical:6a461237b6874bb6": "2026-08-17T16:14:31.608Z",
     "canonical:7963697d710c9fff": "2026-08-17T16:14:31.608Z",
     "canonical:6592abdf938f07c1": "2026-08-17T16:14:31.608Z",
     "canonical:faeade7bc58f3985": "2026-08-17T16:14:31.608Z",
@@ -2186,7 +2182,6 @@
     "canonical:95f2f5d3f5531789": "2026-08-17T16:14:31.608Z",
     "canonical:2f096c49f4fcbd3e": "2026-08-17T16:14:31.608Z",
     "canonical:5d7d3e024ceff487": "2026-08-17T16:14:31.608Z",
-    "canonical:087a9646f514ecd5": "2026-08-17T16:14:31.608Z",
     "canonical:6a225bc546882889": "2026-08-17T16:14:31.608Z",
     "canonical:256d8a4f6626f5ee": "2026-08-17T16:14:31.608Z",
     "canonical:f9c7d80c3594d732": "2026-08-17T16:14:31.608Z",
@@ -2596,7 +2591,8 @@
     "canonical:332563f08f136e28": "2026-08-17T16:45:31.582Z",
     "canonical:808a940dfcbddaf1": "2026-08-17T16:45:31.582Z",
     "canonical:dc763765096afe5b": "2026-08-17T16:45:31.582Z",
-    "canonical:53a02b915ee137e3": "2026-08-17T17:17:07.028Z"
+    "canonical:53a02b915ee137e3": "2026-08-17T17:17:07.028Z",
+    "canonical:ee1aa41013faee51": "2026-08-17T19:05:19.955Z"
   },
   "jobs": [
     {
@@ -10751,19 +10747,6 @@
       ]
     },
     {
-      "id": "canonical:ed0787cc5a8f304f",
-      "title": "Software Engineering Intern",
-      "url": "https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093",
-      "location": "London, UK",
-      "department": "Software",
-      "company": "Samsara",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:6be2062ffb2a8111",
       "title": "Software Engineering Intern/Co-op",
       "url": "https://boards.greenhouse.io/spacex/jobs/8621757002",
@@ -17372,20 +17355,6 @@
       "location": "Paso Robles, CA",
       "department": "Software",
       "company": "Zurn Elkay Water Solutions",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:8d417707e5bfb719",
-      "title": "Software Engineer 1",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01844595",
-      "location": "Fort Wayne, IN",
-      "department": "Hardware",
-      "company": "RTX",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -27524,20 +27493,6 @@
       ]
     },
     {
-      "id": "canonical:3c7fc99e6f595935",
-      "title": "Associate Data Engineer",
-      "url": "https://boards.greenhouse.io/abacusinsights/jobs/8674746002",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "Abacus Insights",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:dd8f37042c76dd1f",
       "title": "Associate Software Engineer",
       "url": "https://asuresoftware.bamboohr.com/careers/1053/",
@@ -29107,20 +29062,6 @@
         "SWE-aligned",
         "high-signal role",
         "new grad",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:6a461237b6874bb6",
-      "title": "Business Intelligence Developer",
-      "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer_R_13789-1",
-      "location": "Lansing, MI",
-      "department": "AI/ML/Data",
-      "company": "Auto-Owners Insurance",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
         "direct ATS"
       ]
     },
@@ -32267,20 +32208,6 @@
       "location": "Lincoln, NE",
       "department": "Software",
       "company": "State of Nebraska",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:087a9646f514ecd5",
-      "title": "Software Engineer",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bowie-MD/Software-Engineer_R-00189564",
-      "location": "Bowie, MD",
-      "department": "Software",
-      "company": "Leidos",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -38186,6 +38113,20 @@
       "location": "New York",
       "department": "Quant / Summer 2027",
       "company": "Virtu Financial",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ee1aa41013faee51",
+      "title": "Equity Volatility Quant Researcher Intern",
+      "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006",
+      "location": "Miami, FL",
+      "department": "",
+      "company": "Walleye Capital",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
