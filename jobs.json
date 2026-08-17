@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-17T19:05:19.955Z",
+  "generatedAt": "2026-08-17T19:38:35.965Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2589,
+  "jobCount": 2590,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2592,7 +2592,8 @@
     "canonical:808a940dfcbddaf1": "2026-08-17T16:45:31.582Z",
     "canonical:dc763765096afe5b": "2026-08-17T16:45:31.582Z",
     "canonical:53a02b915ee137e3": "2026-08-17T17:17:07.028Z",
-    "canonical:ee1aa41013faee51": "2026-08-17T19:05:19.955Z"
+    "canonical:ee1aa41013faee51": "2026-08-17T19:05:19.955Z",
+    "canonical:68029ec5d4c63fd2": "2026-08-17T19:38:35.965Z"
   },
   "jobs": [
     {
@@ -2753,11 +2754,11 @@
       ]
     },
     {
-      "id": "canonical:17fc1df56cefeb65",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4818790101",
-      "location": "Chicago, IL",
-      "department": "Software",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917773101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
+      "department": "",
       "company": "IMC Trading",
       "score": 99,
       "scoreReasons": [
@@ -2768,11 +2769,11 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:17fc1df56cefeb65",
       "title": "Graduate Software Engineer",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917773101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
-      "department": "",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4818790101",
+      "location": "Chicago, IL",
+      "department": "Software",
       "company": "IMC Trading",
       "score": 99,
       "scoreReasons": [
@@ -3050,19 +3051,6 @@
       ]
     },
     {
-      "id": "canonical:aa053f6ba830d433",
-      "title": "Campus Software Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
-      "location": "Chicago",
-      "department": "",
-      "company": "Jump Trading",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:4da2c943e4eb3f7c",
       "title": "Campus Software Engineer (Intern)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=7975026",
@@ -3076,10 +3064,23 @@
       ]
     },
     {
-      "id": "canonical:3b590c340646bfa7",
-      "title": "Campus Systems Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
+      "id": "canonical:aa053f6ba830d433",
+      "title": "Campus Software Engineer (Intern)",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
       "location": "Chicago",
+      "department": "",
+      "company": "Jump Trading",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:4d567555739a50bd",
+      "title": "Campus Systems Engineer (Intern)",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
+      "location": "Singapore",
       "department": "",
       "company": "Jump Trading",
       "score": 75,
@@ -3088,10 +3089,10 @@
       ]
     },
     {
-      "id": "canonical:4d567555739a50bd",
+      "id": "canonical:3b590c340646bfa7",
       "title": "Campus Systems Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
-      "location": "Singapore",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
+      "location": "Chicago",
       "department": "",
       "company": "Jump Trading",
       "score": 75,
@@ -3179,6 +3180,20 @@
       ]
     },
     {
+      "id": "canonical:81000bcd395c1244",
+      "title": "Software Developer Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
+      "location": "Montreal, QC, Canada",
+      "department": "Software",
+      "company": "DRW",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:1d41c103b87b651a",
       "title": "Software Developer Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
@@ -3198,20 +3213,6 @@
       "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
       "location": "Amsterdam",
       "department": "",
-      "company": "DRW",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:81000bcd395c1244",
-      "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
-      "location": "Montreal, QC, Canada",
-      "department": "Software",
       "company": "DRW",
       "score": 93,
       "scoreReasons": [
@@ -14153,6 +14154,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:ee1aa41013faee51",
+      "title": "Equity Volatility Quant Researcher Intern",
+      "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006",
+      "location": "Miami, FL",
+      "department": "",
+      "company": "Walleye Capital",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -38121,17 +38136,16 @@
       ]
     },
     {
-      "id": "canonical:ee1aa41013faee51",
-      "title": "Equity Volatility Quant Researcher Intern",
-      "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006",
-      "location": "Miami, FL",
-      "department": "",
-      "company": "Walleye Capital",
-      "score": 93,
+      "id": "canonical:68029ec5d4c63fd2",
+      "title": "Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011679",
+      "location": "Charlotte, NC, United States",
+      "department": "Software / Summer 2027",
+      "company": "American Express",
+      "score": 85,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
+        "high-signal role"
       ]
     }
   ],

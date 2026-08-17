@@ -1,6 +1,6 @@
 # Open Internships
 
-**2589** internships across **188/188** companies — last updated 2026-08-17.
+**2590** internships across **188/188** companies — last updated 2026-08-17.
 
 ## Companies
 
@@ -45,7 +45,7 @@
 - [Ambarella](#ambarella) (1)
 - [Amentum](#amentum) (1)
 - [Ameren](#ameren) (1)
-- [American Express](#american-express) (3)
+- [American Express](#american-express) (4)
 - [American Fidelity](#american-fidelity) (1)
 - [AMERICAN SYSTEMS](#american-systems) (1)
 - [Amerisure](#amerisure) (1)
@@ -1353,6 +1353,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011679) | 85 | Charlotte, NC, United States | Software / Summer 2027 | 2026-08-17 |
 | [Software Engineer 1, Technology](https://aexp.eightfold.ai/careers/job/38270703) | 85 | Plantation, FL | — | 2026-08-17 |
 | [Software Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987) | 85 | Charlotte, NC | Software | 2026-08-17 |
 | [Software Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082) | 85 | NYC | Software | 2026-08-17 |
