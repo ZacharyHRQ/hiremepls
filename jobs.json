@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T12:21:21.050Z",
+  "generatedAt": "2026-08-17T13:12:56.691Z",
   "companyCount": 186,
   "okCount": 186,
   "jobCount": 1040,
@@ -2903,6 +2903,19 @@
       ]
     },
     {
+      "id": "canonical:6f6f5cb6ae78fead",
+      "title": "Software Dev Engineer internship - Embedded Development",
+      "url": "https://amazon.jobs/en/jobs/3134271/software-dev-engineer-internship-embedded-development",
+      "location": "Berlin",
+      "department": "Software Development",
+      "company": "Amazon",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:fc88d88d07c0c6cd",
       "title": "2026 Graduate Software Dev Engineer ",
       "url": "https://amazon.jobs/en/jobs/10491309/2026-graduate-software-dev-engineer",
@@ -2914,19 +2927,6 @@
         "SWE-aligned",
         "high-signal role",
         "new grad"
-      ]
-    },
-    {
-      "id": "canonical:6f6f5cb6ae78fead",
-      "title": "Software Dev Engineer internship - Embedded Development",
-      "url": "https://amazon.jobs/en/jobs/3134271/software-dev-engineer-internship-embedded-development",
-      "location": "Berlin",
-      "department": "Software Development",
-      "company": "Amazon",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
