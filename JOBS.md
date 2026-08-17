@@ -1,6 +1,6 @@
 # Open Internships
 
-**2638** internships across **188/188** companies — last updated 2026-08-17.
+**2640** internships across **188/188** companies — last updated 2026-08-17.
 
 ## Companies
 
@@ -160,7 +160,7 @@
 - [Bosch](#bosch) (3)
 - [Bosch Home Comfort](#bosch-home-comfort) (1)
 - [Boson Ai](#boson-ai) (1)
-- [Boston Consulting Group](#boston-consulting-group) (1)
+- [Boston Consulting Group](#boston-consulting-group) (2)
 - [Boston Scientific](#boston-scientific) (1)
 - [Bot Auto](#bot-auto) (3)
 - [Brain Co.](#brain-co) (1)
@@ -393,7 +393,7 @@
 - [Globus Medical](#globus-medical) (1)
 - [GM financial](#gm-financial) (2)
 - [GoDaddy](#godaddy) (1)
-- [Goldman Sachs](#goldman-sachs) (5)
+- [Goldman Sachs](#goldman-sachs) (7)
 - [Google](#google) (10)
 - [Gradient Robotics](#gradient-robotics) (1)
 - [Gritt Robotics Inc](#gritt-robotics-inc) (1)
@@ -414,7 +414,6 @@
 - [HD Supply](#hd-supply) (1)
 - [Headlands Tech Holdings](#headlands-tech-holdings) (1)
 - [Heliux](#heliux) (2)
-- [Helmerich & Payne](#helmerich-payne) (1)
 - [Hendrick Motorsports](#hendrick-motorsports) (1)
 - [Hermeus](#hermeus) (3)
 - [Hewlett Packard](#hewlett-packard) (1)
@@ -681,7 +680,6 @@
 - [Palo Alto Networks](#palo-alto-networks) (2)
 - [PAM Health](#pam-health) (1)
 - [Panasonic Holdings](#panasonic-holdings) (1)
-- [PaperCut](#papercut) (1)
 - [Parafin](#parafin) (1)
 - [Parallel Web Systems](#parallel-web-systems) (1)
 - [Pariveda Solutions](#pariveda-solutions) (1)
@@ -1002,7 +1000,7 @@
 - [Volaris Group](#volaris-group) (1)
 - [Voloridge](#voloridge) (1)
 - [Voltus](#voltus) (1)
-- [Voyager Technologies](#voyager-technologies) (1)
+- [Voyager Technologies](#voyager-technologies) (2)
 - [VTG](#vtg) (1)
 - [VWH Capital Management](#vwh-capital-management) (1)
 - [Vytalize Health](#vytalize-health) (1)
@@ -1371,7 +1369,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012392) | 85 | Phoenix, AZ | AI/ML/Data | 2026-08-17 |
+| [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375) | 85 | Phoenix, AZ | AI/ML/Data | 2026-08-17 |
 | [Software Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011784) | 85 | Phoenix, AZ | Software | 2026-08-17 |
 | [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011796) | 85 | Atlanta, GA | AI/ML/Data | 2026-08-17 |
 | [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698) | 85 | NYC | Software | 2026-08-17 |
@@ -2183,6 +2181,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data Scientist Intern](https://careers.bcg.com/global/en/job/56634) | 85 | London, UK | AI/ML/Data | 2026-08-17 |
 | [AI Engineer Intern - BCG X](https://careers.bcg.com/global/en/job/56635) | 85 | London, UK | AI/ML/Data | 2026-08-15 |
 
 ## Boston Scientific
@@ -3941,6 +3940,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Engineering New Analyst](https://higher.gs.com/roles/171568?type=students) | 85 | Dallas, TX | Software | 2026-08-17 |
+| [New Analyst - Engineering](https://higher.gs.com/roles/171569?type=students) | 85 | NYC | Software | 2026-08-17 |
 | [Engineering New Analyst - Engineering](https://higher.gs.com/roles/171570?type=students) | 85 | Salt Lake City, UT | Software | 2026-08-17 |
 | [Engineering New Analyst - Engineering](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807) | 85 | Seattle, WA | Software | 2026-08-17 |
 | [Corporate Planning & Management-Senior Analyst-Quantitative Engineering](https://higher.gs.com/roles/180216) | 85 | NYC | AI/ML/Data | 2026-08-17 |
@@ -4079,12 +4080,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application?embed=true) | 93 | SF | Software | 2026-08-01 |
 | [Software Engineer (Internship, Summer 2027)](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef) | 93 | HQ (San Francisco, CA) | Software / Summer 2027 | 2026-07-31 |
-
-## Helmerich & Payne
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Wellbore Positioning Engineer](https://hpinc.wd5.myworkdayjobs.com/hpinc/job/Tulsa-OK-USA/Wellbore-Positioning-Engineer_REQ-2815) | 93 | Tulsa, OK / Denver, CO | AI/ML/Data | 2026-08-17 |
 
 ## Hendrick Motorsports
 
@@ -4834,8 +4829,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Associate Software Engineer](https://jobs.l3harris.com/job/Clifton-Associate,-Software-Engineer-NJ-07014/1420248200/?ats=successfactors) | 85 | Clinton, MD / Clifton, NJ | Hardware | 2026-08-17 |
 | [Associate Software Engineer](https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineering-FL-32905-4101/1420103700/?ats=successfactors) | 85 | Palm Bay, FL | Hardware | 2026-08-17 |
+| [Associate Software Engineer](https://jobs.l3harris.com/job/Clifton-Associate,-Software-Engineer-NJ-07014/1420248200/?ats=successfactors) | 85 | Clinton, MD / Clifton, NJ | Hardware | 2026-08-17 |
 | [Associate Software Engineer](https://jobs.l3harris.com/job/Chantilly-Associate,-Software-Engineering-VA-20151/1420087500/?ats=successfactors) | 85 | Chantilly, VA | Hardware | 2026-08-17 |
 | [Associate Software Engineer - Software Engineering](https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1420290900/?ats=successfactors) | 85 | Rochester, NY | Hardware | 2026-08-17 |
 | [Software Engineer](https://jobs.l3harris.com/job/Salt-Lake-City-Sr-Associate,-Software-Engineer-UT-84116/1420304100/?ats=successfactors) | 85 | Salt Lake City, UT | Hardware | 2026-08-17 |
@@ -6095,12 +6090,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer 1 - Embedded Systems](https://careers.na.panasonic.com/jobs/50269?icims=1) | 85 | Irvine, CA | Hardware | 2026-08-17 |
-
-## PaperCut
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Associate Support Engineer](https://jobs.smartrecruiters.com/PaperCutSoftware/744000138284139) | 93 | Bracknell, UK | Software | 2026-08-17 |
 
 ## Parafin
 
@@ -8603,6 +8592,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Machine Learning Engineer - Associate](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4356977009) | 93 | El Segundo, CA | AI/ML/Data | 2026-08-17 |
 | [Accelerated Physics Simulation Engineer - Agentic Computational Engineering](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4079284009) | 93 | Seattle, WA / Washington, DC / LA | AI/ML/Data | 2026-08-17 |
 
 ## VTG

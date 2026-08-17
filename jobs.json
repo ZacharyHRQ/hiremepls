@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-17T23:18:48.642Z",
+  "generatedAt": "2026-08-17T23:42:51.615Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2638,
+  "jobCount": 2640,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1994,7 +1994,6 @@
     "canonical:ca7d3df8a365a545": "2026-08-17T16:14:31.608Z",
     "canonical:5105f39692e66947": "2026-08-17T16:14:31.608Z",
     "canonical:f1a85bbad073327e": "2026-08-17T16:14:31.608Z",
-    "canonical:9f7375a76318d61d": "2026-08-17T16:14:31.608Z",
     "canonical:1e1fbe1ed0ea3d7b": "2026-08-17T16:14:31.608Z",
     "canonical:264154ed19b27589": "2026-08-17T16:14:31.608Z",
     "canonical:7a576396e0e90118": "2026-08-17T16:14:31.608Z",
@@ -2062,7 +2061,6 @@
     "canonical:b090bdad0354a3bf": "2026-08-17T16:14:31.608Z",
     "canonical:81072d77114151db": "2026-08-17T16:14:31.608Z",
     "canonical:d8046d9b35d29973": "2026-08-17T16:14:31.608Z",
-    "canonical:169b8272dab18126": "2026-08-17T16:14:31.608Z",
     "canonical:ac8d5ef6b8574785": "2026-08-17T16:14:31.608Z",
     "canonical:38e665c0d1d95b64": "2026-08-17T16:14:31.608Z",
     "canonical:8da9b2e57b61069a": "2026-08-17T16:14:31.608Z",
@@ -2641,7 +2639,11 @@
     "canonical:beeb844257133700": "2026-08-17T23:18:48.642Z",
     "canonical:7fe8e53be23e1a73": "2026-08-17T23:18:48.642Z",
     "canonical:4a77656807157e3b": "2026-08-17T23:18:48.642Z",
-    "canonical:ff766509aa4c3856": "2026-08-17T23:18:48.642Z"
+    "canonical:ff766509aa4c3856": "2026-08-17T23:18:48.642Z",
+    "canonical:a356ac432d4a0c77": "2026-08-17T23:42:51.615Z",
+    "canonical:6fda02ae59b09506": "2026-08-17T23:42:51.615Z",
+    "canonical:5ccbdd16c804408f": "2026-08-17T23:42:51.615Z",
+    "canonical:ee2ac1afa3058d54": "2026-08-17T23:42:51.615Z"
   },
   "jobs": [
     {
@@ -7621,6 +7623,19 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:a356ac432d4a0c77",
+      "title": "Data Scientist Intern",
+      "url": "https://careers.bcg.com/global/en/job/56634",
+      "location": "London, UK",
+      "department": "AI/ML/Data",
+      "company": "Boston Consulting Group",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
@@ -13571,12 +13586,38 @@
       ]
     },
     {
+      "id": "canonical:98f1caec5fc4c190",
+      "title": "Software Engineer Intern - Enterprise Technology Services",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011784",
+      "location": "Phoenix, AZ",
+      "department": "Software",
+      "company": "American Express",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:ab30db973394f569",
       "title": "AI Engineer Intern - Enterprise Technology Services",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012392",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375",
       "location": "Phoenix, AZ",
       "department": "AI/ML/Data",
       "company": "American Express",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:639aad412d764660",
+      "title": "Software Engineering Intern",
+      "url": "https://jobs.l3harris.com/job/Clifton-Software-Engineering-Intern-(Clifton,-NJ)-1-NJ-07014/1420083900/?ats=successfactors",
+      "location": "Clifton, NJ",
+      "department": "Hardware",
+      "company": "L3Harris Technologies",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -13617,32 +13658,6 @@
       "location": "London, UK",
       "department": "AI/ML/Data",
       "company": "Google",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:98f1caec5fc4c190",
-      "title": "Software Engineer Intern - Enterprise Technology Services",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011784",
-      "location": "Phoenix, AZ",
-      "department": "Software",
-      "company": "American Express",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:639aad412d764660",
-      "title": "Software Engineering Intern",
-      "url": "https://jobs.l3harris.com/job/Clifton-Software-Engineering-Intern-(Clifton,-NJ)-1-NJ-07014/1420083900/?ats=successfactors",
-      "location": "Clifton, NJ",
-      "department": "Hardware",
-      "company": "L3Harris Technologies",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -16085,6 +16100,19 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:7e64d0cde9d73bc4",
+      "title": "Software Engineer",
+      "url": "https://www.weareroku.com/jobs/7680250?gh_jid=7680250",
+      "location": "San Jose, CA",
+      "department": "Hardware",
+      "company": "Roku",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
@@ -18805,6 +18833,19 @@
       "location": "London, UK",
       "department": "Software",
       "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:33e92ec6d66aec27",
+      "title": "Yield & Quality Systems Senior Engineer",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37243",
+      "location": "United States",
+      "department": "AI/ML/Data",
+      "company": "Nokia",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -22717,6 +22758,20 @@
       ]
     },
     {
+      "id": "canonical:afb28167f940be7b",
+      "title": "F-15 Mission Systems Software Engineer Senior - Associate",
+      "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/F-15-Mission-Systems-Software-Engineer--Associate--Experienced----Senior-_JR2026507780",
+      "location": "Hazelwood, MO",
+      "department": "Hardware",
+      "company": "The Boeing Company",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:436326b90913f640",
       "title": "Application Support Engineer 1",
       "url": "https://ryder.wd5.myworkdayjobs.com/RyderCareers/job/USA---Coral-Gables-FL-33134/Application-Support-Engineer-I_R170446",
@@ -22848,6 +22903,20 @@
       "location": "West Athens, CA",
       "department": "Hardware",
       "company": "SpaceX",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:8e0c0d163904a6ca",
+      "title": "Software Engineer-Developer - Phantom Works Weapons",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Saint-Charles-MO/Software-Engineer-Developer--Phantom-Works-Weapons--Associate-or-Experienced-_JR2026517300-1",
+      "location": "St Charles, MO / St. Louis, MO",
+      "department": "Hardware",
+      "company": "The Boeing Company",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -28816,6 +28885,20 @@
       ]
     },
     {
+      "id": "canonical:8a36b1d4f2393cb0",
+      "title": "Associate Software Engineer - Engineering Development Program",
+      "url": "https://jobs.lever.co/veeva/907dccc7-0052-41e9-920b-28e5ba6aaba9/apply",
+      "location": "Columbus, OH",
+      "department": "Software",
+      "company": "Veeva Systems",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:71186e9f1295d5cc",
       "title": "Data Scientist Graduate - Multiple Teams",
       "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/GB---London-United-Kingdom/Data-Science-Graduate_REF93870J-3",
@@ -28831,10 +28914,10 @@
       ]
     },
     {
-      "id": "canonical:8a36b1d4f2393cb0",
-      "title": "Associate Software Engineer - Engineering Development Program",
-      "url": "https://jobs.lever.co/veeva/907dccc7-0052-41e9-920b-28e5ba6aaba9/apply",
-      "location": "Columbus, OH",
+      "id": "canonical:f4c0db59ba8ef302",
+      "title": "Associate Software Engineer",
+      "url": "https://jobs.lever.co/veeva/8fe22df0-02b4-453d-919c-c8998cf913f6/apply",
+      "location": "Pleasanton, CA",
       "department": "Software",
       "company": "Veeva Systems",
       "score": 93,
@@ -28845,23 +28928,24 @@
       ]
     },
     {
-      "id": "canonical:7e64d0cde9d73bc4",
-      "title": "Software Engineer",
-      "url": "https://www.weareroku.com/jobs/7680250?gh_jid=7680250",
-      "location": "San Jose, CA",
-      "department": "Hardware",
-      "company": "Roku",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:6c3008645a37baf7",
       "title": "Associate Software Engineer - Engineering Development Program",
       "url": "https://jobs.lever.co/veeva/52ba79af-1086-457d-b5d2-8e184f111ffd/apply",
       "location": "Boston, MA",
+      "department": "Software",
+      "company": "Veeva Systems",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:406f35facf3c2bc7",
+      "title": "Associate Software Engineer - Engineering Development Program",
+      "url": "https://jobs.lever.co/veeva/54f473e7-f225-44b3-beb7-b5d50403fe02/apply",
+      "location": "Toronto, ON, Canada",
       "department": "Software",
       "company": "Veeva Systems",
       "score": 93,
@@ -30088,20 +30172,6 @@
       ]
     },
     {
-      "id": "canonical:9f7375a76318d61d",
-      "title": "Wellbore Positioning Engineer",
-      "url": "https://hpinc.wd5.myworkdayjobs.com/hpinc/job/Tulsa-OK-USA/Wellbore-Positioning-Engineer_REQ-2815",
-      "location": "Tulsa, OK / Denver, CO",
-      "department": "AI/ML/Data",
-      "company": "Helmerich & Payne",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:5105f39692e66947",
       "title": "Software Engineer 1 - AI and Decision Product Enablement",
       "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-280783",
@@ -31005,20 +31075,6 @@
       "location": "North Chicago, IL",
       "department": "Software",
       "company": "AbbVie",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:169b8272dab18126",
-      "title": "Associate Support Engineer",
-      "url": "https://jobs.smartrecruiters.com/PaperCutSoftware/744000138284139",
-      "location": "Bracknell, UK",
-      "department": "Software",
-      "company": "PaperCut",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -32582,12 +32638,12 @@
       ]
     },
     {
-      "id": "canonical:afb28167f940be7b",
-      "title": "F-15 Mission Systems Software Engineer Senior - Associate",
-      "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/F-15-Mission-Systems-Software-Engineer--Associate--Experienced----Senior-_JR2026507780",
-      "location": "Hazelwood, MO",
-      "department": "Hardware",
-      "company": "The Boeing Company",
+      "id": "canonical:a861eae7fd12dd2c",
+      "title": "Full-Stack Developer Associate",
+      "url": "https://associatedbank.wd1.myworkdayjobs.com/en-US/external_careers/job/US-WI-Remote/Full-Stack-Developer-Associate_JR106237",
+      "location": "Minnesota / Nebraska / Wisconsin / Illinois",
+      "department": "Software",
+      "company": "Associated Bank",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -32968,20 +33024,6 @@
         "SWE-aligned",
         "high-signal role",
         "new grad"
-      ]
-    },
-    {
-      "id": "canonical:406f35facf3c2bc7",
-      "title": "Associate Software Engineer - Engineering Development Program",
-      "url": "https://jobs.lever.co/veeva/54f473e7-f225-44b3-beb7-b5d50403fe02/apply",
-      "location": "Toronto, ON, Canada",
-      "department": "Software",
-      "company": "Veeva Systems",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -33703,17 +33745,16 @@
       ]
     },
     {
-      "id": "canonical:8e0c0d163904a6ca",
-      "title": "Software Engineer-Developer - Phantom Works Weapons",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Saint-Charles-MO/Software-Engineer-Developer--Phantom-Works-Weapons--Associate-or-Experienced-_JR2026517300-1",
-      "location": "St Charles, MO / St. Louis, MO",
-      "department": "Hardware",
-      "company": "The Boeing Company",
-      "score": 93,
+      "id": "canonical:d1da7b2ac572df8f",
+      "title": "Engineering New Analyst - Engineering",
+      "url": "https://higher.gs.com/roles/171570?type=students",
+      "location": "Salt Lake City, UT",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
+        "high-signal role"
       ]
     },
     {
@@ -33747,12 +33788,12 @@
       ]
     },
     {
-      "id": "canonical:33e92ec6d66aec27",
-      "title": "Yield & Quality Systems Senior Engineer",
-      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37243",
-      "location": "United States",
-      "department": "AI/ML/Data",
-      "company": "Nokia",
+      "id": "canonical:caa37dbb765c5132",
+      "title": "Engineering New Analyst - Engineering",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
+      "location": "Seattle, WA",
+      "department": "Software",
+      "company": "Goldman Sachs",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -34075,25 +34116,40 @@
       ]
     },
     {
-      "id": "canonical:d1da7b2ac572df8f",
-      "title": "Engineering New Analyst - Engineering",
-      "url": "https://higher.gs.com/roles/171570?type=students",
-      "location": "Salt Lake City, UT",
-      "department": "Software",
-      "company": "Goldman Sachs",
-      "score": 85,
+      "id": "canonical:0a2f42d9f1f59218",
+      "title": "Data Scientist - Data & Analytics",
+      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/Technology-Leadership-Program---Data---Analytics--Scientist----PA_180092-1",
+      "location": "Malvern, PA",
+      "department": "AI/ML/Data",
+      "company": "Vanguard",
+      "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role"
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
-      "id": "canonical:a861eae7fd12dd2c",
-      "title": "Full-Stack Developer Associate",
-      "url": "https://associatedbank.wd1.myworkdayjobs.com/en-US/external_careers/job/US-WI-Remote/Full-Stack-Developer-Associate_JR106237",
-      "location": "Minnesota / Nebraska / Wisconsin / Illinois",
+      "id": "canonical:021e7fdb327a311a",
+      "title": "Graduate Software Engineer",
+      "url": "https://www.monks.com/careers/6114370004/job?gh_jid=6114370004",
+      "location": "London, UK",
       "department": "Software",
-      "company": "Associated Bank",
+      "company": "Monks",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
+      ]
+    },
+    {
+      "id": "canonical:d7c4bb66ea084ab5",
+      "title": "Data Engineer - North America Fabric Care",
+      "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data-Engineer---North-America-Fabric-Care_R000157463",
+      "location": "Cincinnati, OH",
+      "department": "AI/ML/Data",
+      "company": "Procter & Gamble",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -34112,75 +34168,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:021e7fdb327a311a",
-      "title": "Graduate Software Engineer",
-      "url": "https://www.monks.com/careers/6114370004/job?gh_jid=6114370004",
-      "location": "London, UK",
-      "department": "Software",
-      "company": "Monks",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad"
-      ]
-    },
-    {
-      "id": "canonical:5e06121f3c1202e5",
-      "title": "Associate Software Engineer",
-      "url": "https://jobs.l3harris.com/job/Clifton-Associate,-Software-Engineer-NJ-07014/1420248200/?ats=successfactors",
-      "location": "Clinton, MD / Clifton, NJ",
-      "department": "Hardware",
-      "company": "L3Harris Technologies",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:0a2f42d9f1f59218",
-      "title": "Data Scientist - Data & Analytics",
-      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/Technology-Leadership-Program---Data---Analytics--Scientist----PA_180092-1",
-      "location": "Malvern, PA",
-      "department": "AI/ML/Data",
-      "company": "Vanguard",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:d7c4bb66ea084ab5",
-      "title": "Data Engineer - North America Fabric Care",
-      "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data-Engineer---North-America-Fabric-Care_R000157463",
-      "location": "Cincinnati, OH",
-      "department": "AI/ML/Data",
-      "company": "Procter & Gamble",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:f4c0db59ba8ef302",
-      "title": "Associate Software Engineer",
-      "url": "https://jobs.lever.co/veeva/8fe22df0-02b4-453d-919c-c8998cf913f6/apply",
-      "location": "Pleasanton, CA",
-      "department": "Software",
-      "company": "Veeva Systems",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -34210,6 +34197,19 @@
       ]
     },
     {
+      "id": "canonical:5e06121f3c1202e5",
+      "title": "Associate Software Engineer",
+      "url": "https://jobs.l3harris.com/job/Clifton-Associate,-Software-Engineer-NJ-07014/1420248200/?ats=successfactors",
+      "location": "Clinton, MD / Clifton, NJ",
+      "department": "Hardware",
+      "company": "L3Harris Technologies",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:44d9484c13f5eb70",
       "title": "Software Engineer - Software Engineering",
       "url": "https://jobs.l3harris.com/job/Greenville-Senior-Associate,-Software-Engineering-TX-75402/1420346000/?ats=successfactors",
@@ -34220,6 +34220,47 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:32637b2ec7c02324",
+      "title": "Associate Software Engineer",
+      "url": "https://jobs.l3harris.com/job/Chantilly-Associate,-Software-Engineering-VA-20151/1420087500/?ats=successfactors",
+      "location": "Chantilly, VA",
+      "department": "Hardware",
+      "company": "L3Harris Technologies",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:73d3c3f853090f6a",
+      "title": "C# Software Engineer - Engineering",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Everett-WA-US/C--Software-Engineer_330694",
+      "location": "Everett, WA",
+      "department": "Software",
+      "company": "CACI",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:b46d0a7f601d1ffc",
+      "title": "Data Scientist - Science",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Bethesda-MD-US/Data-Scientist_330691",
+      "location": "Bethesda, MD",
+      "department": "AI/ML/Data",
+      "company": "CACI",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -34251,66 +34292,26 @@
       ]
     },
     {
-      "id": "canonical:b46d0a7f601d1ffc",
-      "title": "Data Scientist - Science",
-      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Bethesda-MD-US/Data-Scientist_330691",
-      "location": "Bethesda, MD",
-      "department": "AI/ML/Data",
-      "company": "CACI",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:73d3c3f853090f6a",
-      "title": "C# Software Engineer - Engineering",
-      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Everett-WA-US/C--Software-Engineer_330694",
-      "location": "Everett, WA",
-      "department": "Software",
-      "company": "CACI",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:32637b2ec7c02324",
-      "title": "Associate Software Engineer",
-      "url": "https://jobs.l3harris.com/job/Chantilly-Associate,-Software-Engineering-VA-20151/1420087500/?ats=successfactors",
-      "location": "Chantilly, VA",
+      "id": "canonical:bcd45b344f031e5f",
+      "title": "On-Board Software Engineer",
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Stevenage/On-Board-Software-Engineer_JR10432675",
+      "location": "Stevenage, UK",
       "department": "Hardware",
-      "company": "L3Harris Technologies",
-      "score": 85,
+      "company": "Airbus",
+      "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role"
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
-      "id": "canonical:caa37dbb765c5132",
-      "title": "Engineering New Analyst - Engineering",
-      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
-      "location": "Seattle, WA",
+      "id": "canonical:ff766509aa4c3856",
+      "title": "Software Engineer - Foundation AI",
+      "url": "https://careers.roblox.com/jobs/8123004?gh_jid=8123004",
+      "location": "San Mateo, CA",
       "department": "Software",
-      "company": "Goldman Sachs",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:d94d433f6cb3c544",
-      "title": "Associate Software Engineer",
-      "url": "https://www.talroo.com/careers/apply/?gh_jid=1003689",
-      "location": "Austin, TX",
-      "department": "Software",
-      "company": "Talroo",
+      "company": "Roblox",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -34332,12 +34333,25 @@
       ]
     },
     {
-      "id": "canonical:4733e4d1047addcb",
-      "title": "Embedded DSP Software Engineer",
-      "url": "https://careers.qualcomm.com/careers/job/446704474013",
-      "location": "San Diego, CA",
-      "department": "",
-      "company": "Qualcomm",
+      "id": "canonical:d94d433f6cb3c544",
+      "title": "Associate Software Engineer",
+      "url": "https://www.talroo.com/careers/apply/?gh_jid=1003689",
+      "location": "Austin, TX",
+      "department": "Software",
+      "company": "Talroo",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:beeb844257133700",
+      "title": "AI Engineer",
+      "url": "https://careers.msasafety.com/jobs/9830?icims=1",
+      "location": "Cranberry Township, PA",
+      "department": "Software",
+      "company": "MSA Safety",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -34357,30 +34371,16 @@
       ]
     },
     {
-      "id": "canonical:74c2df6adfbdf397",
-      "title": "Software Engineer, Builder Tools",
-      "url": "https://careers.roblox.com/jobs/6759944",
-      "location": "San Mateo, CA",
-      "department": "",
-      "company": "Roblox",
+      "id": "canonical:7fe8e53be23e1a73",
+      "title": "Vibe Coding Engineer - Generative AI",
+      "url": "https://careers.ctg.com/jobs/17373?icims=1",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "CTG",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:bcd45b344f031e5f",
-      "title": "On-Board Software Engineer",
-      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Stevenage/On-Board-Software-Engineer_JR10432675",
-      "location": "Stevenage, UK",
-      "department": "Hardware",
-      "company": "Airbus",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -34395,6 +34395,72 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:4733e4d1047addcb",
+      "title": "Embedded DSP Software Engineer",
+      "url": "https://careers.qualcomm.com/careers/job/446704474013",
+      "location": "San Diego, CA",
+      "department": "",
+      "company": "Qualcomm",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:6fda02ae59b09506",
+      "title": "Machine Learning Engineer - Associate",
+      "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4356977009",
+      "location": "El Segundo, CA",
+      "department": "AI/ML/Data",
+      "company": "Voyager Technologies",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:74c2df6adfbdf397",
+      "title": "Software Engineer, Builder Tools",
+      "url": "https://careers.roblox.com/jobs/6759944",
+      "location": "San Mateo, CA",
+      "department": "",
+      "company": "Roblox",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:5ccbdd16c804408f",
+      "title": "Engineering New Analyst",
+      "url": "https://higher.gs.com/roles/171568?type=students",
+      "location": "Dallas, TX",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:ee2ac1afa3058d54",
+      "title": "New Analyst - Engineering",
+      "url": "https://higher.gs.com/roles/171569?type=students",
+      "location": "NYC",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
@@ -34427,19 +34493,6 @@
       ]
     },
     {
-      "id": "canonical:beeb844257133700",
-      "title": "AI Engineer",
-      "url": "https://careers.msasafety.com/jobs/9830?icims=1",
-      "location": "Cranberry Township, PA",
-      "department": "Software",
-      "company": "MSA Safety",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:461ea1c070649acf",
       "title": "Software Engineer I - Membership",
       "url": "https://join.softheon.com/_/j/4AFE55D62D/",
@@ -34459,19 +34512,6 @@
       "location": "Exton, PA",
       "department": "",
       "company": "Bentley",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:7fe8e53be23e1a73",
-      "title": "Vibe Coding Engineer - Generative AI",
-      "url": "https://careers.ctg.com/jobs/17373?icims=1",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "CTG",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -34934,6 +34974,20 @@
       ]
     },
     {
+      "id": "canonical:4a77656807157e3b",
+      "title": "Graduate C++ Software Engineer",
+      "url": "https://davincitrading.com/job/graduate-c-software-engineer-2/",
+      "location": "Miami, FL",
+      "department": "",
+      "company": "Da Vinci",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
+      ]
+    },
+    {
       "id": "canonical:a10cd2bdc9c86198",
       "title": "New Grad: Software Engineer",
       "url": "https://www.collective.com/careers/6614825003",
@@ -35131,20 +35185,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:4a77656807157e3b",
-      "title": "Graduate C++ Software Engineer",
-      "url": "https://davincitrading.com/job/graduate-c-software-engineer-2/",
-      "location": "Miami, FL",
-      "department": "",
-      "company": "Da Vinci",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad"
       ]
     },
     {
@@ -38822,19 +38862,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:ff766509aa4c3856",
-      "title": "Software Engineer - Foundation AI",
-      "url": "https://careers.roblox.com/jobs/8123004?gh_jid=8123004",
-      "location": "San Mateo, CA",
-      "department": "Software",
-      "company": "Roblox",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     }
   ],
