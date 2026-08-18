@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-17T23:57:29.007Z",
+  "generatedAt": "2026-08-18T00:58:22.493Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2642,
+  "jobCount": 2641,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1524,7 +1524,6 @@
     "canonical:a4b437bb36fa3319": "2026-08-17T16:14:31.608Z",
     "canonical:adcad9d56a343006": "2026-08-17T16:14:31.608Z",
     "canonical:aeffa50200430af9": "2026-08-17T16:14:31.608Z",
-    "canonical:671a5324d05466fb": "2026-08-17T16:14:31.608Z",
     "canonical:f20bcd604071e3fb": "2026-08-17T16:14:31.608Z",
     "canonical:2c7d6d2450d97097": "2026-08-17T16:14:31.608Z",
     "canonical:c3266e6b55663137": "2026-08-17T16:14:31.608Z",
@@ -23392,19 +23391,6 @@
       ]
     },
     {
-      "id": "canonical:671a5324d05466fb",
-      "title": "Associate Integration Engineer",
-      "url": "https://transact-campus.breezy.hr/p/e8d28d6d8087/apply",
-      "location": "Alpharetta, GA / Scottsdale, AZ",
-      "department": "Software",
-      "company": "Illumia",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:7b4620f6739f6e1b",
       "title": "Junior Generative AI Application Developer",
       "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Junior-Generative-AI-Application-Developer_26962476",
@@ -38259,6 +38245,33 @@
       ]
     },
     {
+      "id": "canonical:acbf197a7b215167",
+      "title": "Campus Undergraduate Summer Internship Program - 2027 Software Engineer I, Enterprise Technology Services- Phoenix, AZ",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011781",
+      "location": "Phoenix, AZ, United States",
+      "department": "Software / Summer 2027",
+      "company": "American Express",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:780619bd479c91b5",
+      "title": "Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Atlanta, GA",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000",
+      "location": "Atlanta, GA, United States",
+      "department": "Data & ML/AI / Summer 2027",
+      "company": "American Express",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
+      ]
+    },
+    {
       "id": "canonical:eb500a0fa0dd25fb",
       "title": "Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Sunrise, FL",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011745",
@@ -38864,33 +38877,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:acbf197a7b215167",
-      "title": "Campus Undergraduate Summer Internship Program - 2027 Software Engineer I, Enterprise Technology Services- Phoenix, AZ",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011781",
-      "location": "Phoenix, AZ, United States",
-      "department": "Software / Summer 2027",
-      "company": "American Express",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:780619bd479c91b5",
-      "title": "Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Atlanta, GA",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000",
-      "location": "Atlanta, GA, United States",
-      "department": "Data & ML/AI / Summer 2027",
-      "company": "American Express",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad"
       ]
     }
   ],

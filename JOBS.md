@@ -1,6 +1,6 @@
 # Open Internships
 
-**2642** internships across **188/188** companies — last updated 2026-08-17.
+**2641** internships across **188/188** companies — last updated 2026-08-18.
 
 ## Companies
 
@@ -449,7 +449,6 @@
 - [Idexcel](#idexcel) (1)
 - [Ignite Digital Services](#ignite-digital-services) (1)
 - [Illinois Tool Works](#illinois-tool-works) (1)
-- [Illumia](#illumia) (1)
 - [IMA Financial Group](#ima-financial-group) (1)
 - [IMC](#imc) (1)
 - [IMC Trading](#imc-trading) (14)
@@ -4307,12 +4306,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer](https://careers.itw.com/global/en/job/JR8874) | 85 | Albertville, MN | Software | 2026-08-17 |
-
-## Illumia
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Associate Integration Engineer](https://transact-campus.breezy.hr/p/e8d28d6d8087/apply) | 85 | Alpharetta, GA / Scottsdale, AZ | Software | 2026-08-17 |
 
 ## IMA Financial Group
 
