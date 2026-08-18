@@ -1394,7 +1394,7 @@
 | [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375) | 85 | Phoenix, AZ | AI/ML/Data | 2026-08-17 |
 | [Software Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011784) | 85 | Phoenix, AZ | Software | 2026-08-17 |
 | [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011796) | 85 | Atlanta, GA | AI/ML/Data | 2026-08-17 |
-| [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698) | 85 | NYC | Software | 2026-08-17 |
+| [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011991) | 85 | NYC | AI/ML/Data | 2026-08-17 |
 | [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011999) | 85 | Sunrise, FL | AI/ML/Data | 2026-08-17 |
 | [Software Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011084) | 85 | Sunrise, FL | Software | 2026-08-17 |
 | [Software Engineer Intern - Technology](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970) | 85 | NYC | Software | 2026-08-17 |
