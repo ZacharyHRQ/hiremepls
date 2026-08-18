@@ -1,6 +1,6 @@
 # Open Internships
 
-**2666** internships across **188/188** companies — last updated 2026-08-18.
+**2665** internships across **188/188** companies — last updated 2026-08-18.
 
 ## Companies
 
@@ -398,7 +398,7 @@
 - [Globus Medical](#globus-medical) (1)
 - [GM financial](#gm-financial) (2)
 - [GoDaddy](#godaddy) (1)
-- [Goldman Sachs](#goldman-sachs) (4)
+- [Goldman Sachs](#goldman-sachs) (3)
 - [Google](#google) (10)
 - [Gradient Robotics](#gradient-robotics) (1)
 - [Gritt Robotics Inc](#gritt-robotics-inc) (1)
@@ -2752,7 +2752,7 @@
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
 | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -3984,7 +3984,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Corporate Planning & Management-Senior Analyst-Quantitative Engineering](https://higher.gs.com/roles/180216) | 85 | NYC | AI/ML/Data | 2026-08-18 |
-| [New Analyst - Engineering](https://higher.gs.com/roles/171569?type=students) | 85 | NYC | Software | 2026-08-18 |
 | [Software Engineer](https://higher.gs.com/roles/179759) | 85 | Dallas, TX | AI/ML/Data | 2026-08-17 |
 | [Software Engineer - Data](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292) | 85 | London, UK | Software | 2026-08-17 |
 

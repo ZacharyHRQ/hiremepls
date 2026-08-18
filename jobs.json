@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-18T11:58:32.777Z",
+  "generatedAt": "2026-08-18T12:42:12.154Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2666,
+  "jobCount": 2665,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2657,7 +2657,6 @@
     "canonical:2dfd8b826f08bf18": "2026-08-18T09:00:08.385Z",
     "canonical:70bd8031a4940b10": "2026-08-18T09:35:52.481Z",
     "canonical:42a7330880b6ac3d": "2026-08-18T09:35:52.481Z",
-    "canonical:ee2ac1afa3058d54": "2026-08-18T09:35:52.481Z",
     "canonical:14f21457058d1e11": "2026-08-18T09:35:52.481Z",
     "canonical:ef816cf50608fc3b": "2026-08-18T09:35:52.481Z",
     "canonical:f2848f41baf426f0": "2026-08-18T10:02:17.034Z",
@@ -5288,7 +5287,7 @@
     {
       "id": "canonical:1a056010d15d11c7",
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -5635,6 +5634,19 @@
       "id": "canonical:43c945396857ea6b",
       "title": "AI Engineer Intern - BCG X",
       "url": "https://careers.bcg.com/global/en/job/56635",
+      "location": "London, UK",
+      "department": "AI/ML/Data",
+      "company": "Boston Consulting Group",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:a356ac432d4a0c77",
+      "title": "Data Scientist Intern",
+      "url": "https://careers.bcg.com/global/en/job/56634",
       "location": "London, UK",
       "department": "AI/ML/Data",
       "company": "Boston Consulting Group",
@@ -7301,19 +7313,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:a356ac432d4a0c77",
-      "title": "Data Scientist Intern",
-      "url": "https://careers.bcg.com/global/en/job/56634",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "Boston Consulting Group",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -33780,19 +33779,6 @@
       ]
     },
     {
-      "id": "canonical:ee2ac1afa3058d54",
-      "title": "New Analyst - Engineering",
-      "url": "https://higher.gs.com/roles/171569?type=students",
-      "location": "NYC",
-      "department": "Software",
-      "company": "Goldman Sachs",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:760df593b758dd84",
       "title": "Software Engineer TS",
       "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Software-Engineer_R175644-1",
@@ -34348,6 +34334,20 @@
       ]
     },
     {
+      "id": "canonical:6fda02ae59b09506",
+      "title": "Machine Learning Engineer - Associate",
+      "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4356977009",
+      "location": "El Segundo, CA",
+      "department": "AI/ML/Data",
+      "company": "Voyager Technologies",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:85084b94748401ec",
       "title": "Entry Level Software Engineer",
       "url": "https://jobs.smartrecruiters.com/NextCenturyCorporation/106031601",
@@ -34796,20 +34796,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:6fda02ae59b09506",
-      "title": "Machine Learning Engineer - Associate",
-      "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4356977009",
-      "location": "El Segundo, CA",
-      "department": "AI/ML/Data",
-      "company": "Voyager Technologies",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -35320,6 +35306,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:4a77656807157e3b",
+      "title": "Graduate C++ Software Engineer",
+      "url": "https://davincitrading.com/job/graduate-c-software-engineer-2/",
+      "location": "Miami, FL",
+      "department": "",
+      "company": "Da Vinci",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
       ]
     },
     {
@@ -37328,6 +37328,20 @@
       ]
     },
     {
+      "id": "canonical:39dcfeb3006ec1b2",
+      "title": "New Grad 2026: Application Security Engineer",
+      "url": "https://careers.adobe.com/us/en/job/ADOBUSR159164EXTERNALENUS/2026-University-Graduate-Application-Security-Engineer",
+      "location": "San Jose, CA / San Francisco, CA",
+      "department": "",
+      "company": "Adobe",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
+      ]
+    },
+    {
       "id": "canonical:9c3b9d907735cbb0",
       "title": "Android Engineer",
       "url": "https://careers.tripadvisor.com/job?jobId=7234900",
@@ -38605,6 +38619,20 @@
       ]
     },
     {
+      "id": "canonical:04727e1d227d7e82",
+      "title": "Intern - AI Innovation Engineer",
+      "url": "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ASC-Atlanta-HQ-GA/AI-Innovation-Engineer_REQ_93190",
+      "location": "ASC Atlanta HQ GA",
+      "department": "Data & ML/AI / Not stated",
+      "company": "Amcor",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:e22881e22c747207",
       "title": "Software Engineering Intern (Summer 2027)",
       "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Software-Engineering-Intern--Summer-2027-_01867324",
@@ -39197,48 +39225,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:04727e1d227d7e82",
-      "title": "Intern - AI Innovation Engineer",
-      "url": "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ASC-Atlanta-HQ-GA/AI-Innovation-Engineer_REQ_93190",
-      "location": "ASC Atlanta HQ GA",
-      "department": "Data & ML/AI / Not stated",
-      "company": "Amcor",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:4a77656807157e3b",
-      "title": "Graduate C++ Software Engineer",
-      "url": "https://davincitrading.com/job/graduate-c-software-engineer-2/",
-      "location": "Miami, FL",
-      "department": "",
-      "company": "Da Vinci",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad"
-      ]
-    },
-    {
-      "id": "canonical:39dcfeb3006ec1b2",
-      "title": "New Grad 2026: Application Security Engineer",
-      "url": "https://careers.adobe.com/us/en/job/ADOBUSR159164EXTERNALENUS/2026-University-Graduate-Application-Security-Engineer",
-      "location": "San Jose, CA / San Francisco, CA",
-      "department": "",
-      "company": "Adobe",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad"
       ]
     }
   ],
