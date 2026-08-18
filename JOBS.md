@@ -1,6 +1,6 @@
 # Open Internships
 
-**2671** internships across **188/188** companies — last updated 2026-08-18.
+**2670** internships across **188/188** companies — last updated 2026-08-18.
 
 ## Companies
 
@@ -288,7 +288,7 @@
 - [Draper](#draper) (1)
 - [Droyd Robotics](#droyd-robotics) (1)
 - [DRS](#drs) (1)
-- [DRW](#drw) (13)
+- [DRW](#drw) (12)
 - [Dryft](#dryft) (1)
 - [Duke University](#duke-university) (1)
 - [Dune](#dune) (1)
@@ -3249,7 +3249,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Research Engineer](https://www.drw.com/work-at-drw/listings/research-engineer-2930985) | 75 | New York, NY | — | 2026-08-18 |
 | [Quantitative Researcher](https://job-boards.greenhouse.io/drweng/jobs/8030406) | 93 | Chicago, IL / NYC | Quant | 2026-08-17 |
 | [Software Developer](https://job-boards.greenhouse.io/drweng/jobs/7980165) | 93 | Chicago, IL | Software | 2026-08-17 |
 | [Platform Engineer Intern](https://www.drw.com/work-at-drw/listings/platform-engineer-intern-3468737) | 85 | Chicago, IL | — | 2026-08-17 |

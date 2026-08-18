@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-18T19:54:42.370Z",
+  "generatedAt": "2026-08-18T20:11:24.801Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2671,
+  "jobCount": 2670,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2655,7 +2655,6 @@
     "canonical:4a77656807157e3b": "2026-08-18T11:58:32.777Z",
     "canonical:241f0a1cf5f5f8f1": "2026-08-18T13:28:24.018Z",
     "canonical:e86e40624ec28eed": "2026-08-18T14:05:04.677Z",
-    "canonical:32452ec542710d8f": "2026-08-18T14:05:04.677Z",
     "canonical:e7089571627412e3": "2026-08-18T14:49:16.187Z",
     "canonical:ac81291362622ecd": "2026-08-18T14:49:16.187Z",
     "canonical:d1da7b2ac572df8f": "2026-08-18T15:20:42.496Z",
@@ -35132,18 +35131,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:32452ec542710d8f",
-      "title": "Research Engineer",
-      "url": "https://www.drw.com/work-at-drw/listings/research-engineer-2930985",
-      "location": "New York, NY",
-      "department": "",
-      "company": "DRW",
-      "score": 75,
-      "scoreReasons": [
-        "SWE-aligned"
       ]
     },
     {
