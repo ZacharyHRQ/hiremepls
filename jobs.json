@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T15:20:42.496Z",
+  "generatedAt": "2026-08-18T15:53:45.928Z",
   "companyCount": 188,
   "okCount": 188,
   "jobCount": 2670,
@@ -188,7 +188,6 @@
     "canonical:74129eb9084168cf": "2026-07-20T23:30:05.931Z",
     "canonical:67c404c0bf6780fd": "2026-07-20T23:30:05.931Z",
     "canonical:3b1ff7887a20844f": "2026-07-20T23:30:05.931Z",
-    "canonical:dd13b96cfda085fc": "2026-07-20T23:30:05.931Z",
     "canonical:33718308010ce236": "2026-07-20T23:30:05.931Z",
     "canonical:921c278eb9088217": "2026-07-20T23:30:05.931Z",
     "canonical:36775f0e78600e2b": "2026-07-20T23:30:05.931Z",
@@ -1314,7 +1313,6 @@
     "canonical:5fb6c68b114f1eed": "2026-08-17T16:14:31.608Z",
     "canonical:714bc54cd82f36b7": "2026-08-17T16:14:31.608Z",
     "canonical:d8160b6e659fdd69": "2026-08-17T16:14:31.608Z",
-    "canonical:36e76fef99f2ff95": "2026-08-17T16:14:31.608Z",
     "canonical:8b437068b62c85ad": "2026-08-17T16:14:31.608Z",
     "canonical:a95dde95832b0876": "2026-08-17T16:14:31.608Z",
     "canonical:b7ffec283e9d3d31": "2026-08-17T16:14:31.608Z",
@@ -2673,7 +2671,9 @@
     "canonical:5ccbdd16c804408f": "2026-08-18T15:20:42.496Z",
     "canonical:ee2ac1afa3058d54": "2026-08-18T15:20:42.496Z",
     "canonical:82737dd32bfc8431": "2026-08-18T15:20:42.496Z",
-    "canonical:10177a26296f61a4": "2026-08-18T15:20:42.496Z"
+    "canonical:10177a26296f61a4": "2026-08-18T15:20:42.496Z",
+    "canonical:70507c79b6afa2de": "2026-08-18T15:53:45.928Z",
+    "canonical:03c3caf767d81c23": "2026-08-18T15:53:45.928Z"
   },
   "jobs": [
     {
@@ -2847,11 +2847,11 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:17fc1df56cefeb65",
       "title": "Graduate Software Engineer",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917773101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
-      "department": "",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4818790101",
+      "location": "Chicago, IL",
+      "department": "Software",
       "company": "IMC Trading",
       "score": 99,
       "scoreReasons": [
@@ -2862,11 +2862,11 @@
       ]
     },
     {
-      "id": "canonical:17fc1df56cefeb65",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4818790101",
-      "location": "Chicago, IL",
-      "department": "Software",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917773101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
+      "department": "",
       "company": "IMC Trading",
       "score": 99,
       "scoreReasons": [
@@ -3170,6 +3170,18 @@
       ]
     },
     {
+      "id": "canonical:eea417b083785298",
+      "title": "Campus Systems Engineer (Intern)",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
+      "location": "London; Amsterdam",
+      "department": "",
+      "company": "Jump Trading",
+      "score": 75,
+      "scoreReasons": [
+        "SWE-aligned"
+      ]
+    },
+    {
       "id": "canonical:3b590c340646bfa7",
       "title": "Campus Systems Engineer (Intern)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
@@ -3186,18 +3198,6 @@
       "title": "Campus Systems Engineer (Intern)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
       "location": "Singapore",
-      "department": "",
-      "company": "Jump Trading",
-      "score": 75,
-      "scoreReasons": [
-        "SWE-aligned"
-      ]
-    },
-    {
-      "id": "canonical:eea417b083785298",
-      "title": "Campus Systems Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
-      "location": "London; Amsterdam",
       "department": "",
       "company": "Jump Trading",
       "score": 75,
@@ -3287,6 +3287,20 @@
       ]
     },
     {
+      "id": "canonical:81000bcd395c1244",
+      "title": "Software Developer Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
+      "location": "Montreal, QC, Canada",
+      "department": "Software",
+      "company": "DRW",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:f9963438d881a851",
       "title": "Software Developer Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
@@ -3305,20 +3319,6 @@
       "title": "Software Developer Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
       "location": "Chicago, IL",
-      "department": "Software",
-      "company": "DRW",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:81000bcd395c1244",
-      "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
-      "location": "Montreal, QC, Canada",
       "department": "Software",
       "company": "DRW",
       "score": 93,
@@ -3899,20 +3899,6 @@
       "title": "Forward Deployed Software Engineer, Internship - Intel",
       "url": "https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89",
       "location": "Washington, D.C.",
-      "department": "Delta",
-      "company": "Palantir",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:dd13b96cfda085fc",
-      "title": "Forward Deployed Software Engineer, Internship - Poland",
-      "url": "https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9",
-      "location": "New York, NY",
       "department": "Delta",
       "company": "Palantir",
       "score": 93,
@@ -13788,25 +13774,12 @@
       ]
     },
     {
-      "id": "canonical:70bd8031a4940b10",
-      "title": "Software Engineer Intern - TikTok Search Data Infrastructure",
-      "url": "https://lifeattiktok.com/search/7675129440242010421",
-      "location": "San Jose, CA",
-      "department": "Software",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:42a7330880b6ac3d",
-      "title": "Software Engineer Intern - TikTok Search Data Infra",
-      "url": "https://lifeattiktok.com/search/7675128776856029445",
-      "location": "San Jose, CA",
-      "department": "Software",
-      "company": "TikTok",
+      "id": "canonical:e8b5108055d8c541",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1420340500/?ats=successfactors",
+      "location": "Palm Bay, FL",
+      "department": "Hardware",
+      "company": "L3Harris Technologies",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -13827,16 +13800,17 @@
       ]
     },
     {
-      "id": "canonical:e8b5108055d8c541",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1420340500/?ats=successfactors",
-      "location": "Palm Bay, FL",
-      "department": "Hardware",
-      "company": "L3Harris Technologies",
-      "score": 85,
+      "id": "canonical:70507c79b6afa2de",
+      "title": "Software Developer Intern",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=7905463",
+      "location": "Montreal, QC, Canada",
+      "department": "Software",
+      "company": "Squarepoint Capital",
+      "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role"
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -13918,6 +13892,32 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:42a7330880b6ac3d",
+      "title": "Software Engineer Intern - TikTok Search Data Infra",
+      "url": "https://lifeattiktok.com/search/7675128776856029445",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:70bd8031a4940b10",
+      "title": "Software Engineer Intern - TikTok Search Data Infrastructure",
+      "url": "https://lifeattiktok.com/search/7675129440242010421",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
@@ -20723,20 +20723,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:36e76fef99f2ff95",
-      "title": "Systems Engineer/Analyst",
-      "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Systems-Engineer-Analyst_R1322",
-      "location": "Huntsville, AL",
-      "department": "AI/ML/Data",
-      "company": "Torch Technologies",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -33656,6 +33642,32 @@
       ]
     },
     {
+      "id": "canonical:d1da7b2ac572df8f",
+      "title": "Engineering New Analyst - Engineering",
+      "url": "https://higher.gs.com/roles/171570?type=students",
+      "location": "Salt Lake City, UT",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:5ccbdd16c804408f",
+      "title": "Engineering New Analyst",
+      "url": "https://higher.gs.com/roles/171568?type=students",
+      "location": "Dallas, TX",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:f25c76a0a1a97682",
       "title": "Forward Deployed Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3/application?embed=true",
@@ -33683,6 +33695,19 @@
         "high-signal role",
         "new grad",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:caa37dbb765c5132",
+      "title": "Engineering New Analyst - Engineering",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
+      "location": "Seattle, WA",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
@@ -33725,6 +33750,19 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ee2ac1afa3058d54",
+      "title": "New Analyst - Engineering",
+      "url": "https://higher.gs.com/roles/171569?type=students",
+      "location": "NYC",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
@@ -34643,12 +34681,24 @@
       ]
     },
     {
-      "id": "canonical:d1da7b2ac572df8f",
-      "title": "Engineering New Analyst - Engineering",
-      "url": "https://higher.gs.com/roles/171570?type=students",
-      "location": "Salt Lake City, UT",
+      "id": "canonical:e5b4544b8d24a4c6",
+      "title": "Data Centre Engineer",
+      "url": "https://careers-iomart.icims.com/jobs/2179/job?mobile=true&needsRedirect=false",
+      "location": "Manchester, UK",
+      "department": "Hardware",
+      "company": "iomart",
+      "score": 75,
+      "scoreReasons": [
+        "SWE-aligned"
+      ]
+    },
+    {
+      "id": "canonical:591e4ff75a9d375b",
+      "title": "Software Engineer 0 - Entry-Level Software Engineering",
+      "url": "https://jobs-woodcons.icims.com/jobs/14759/job?mobile=true&needsRedirect=false",
+      "location": "Fort Meade, MD",
       "department": "Software",
-      "company": "Goldman Sachs",
+      "company": "WOOD Consulting Services",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -34656,31 +34706,16 @@
       ]
     },
     {
-      "id": "canonical:ef816cf50608fc3b",
-      "title": "Engineering Aide",
-      "url": "https://oakgov.wd5.myworkdayjobs.com/careers/job/Waterford-Michigan-United-States/Engineering-Aide--WRC_JR-0000739",
-      "location": "Waterford Twp, MI",
-      "department": "AI/ML/Data",
-      "company": "Oakland County, Michigan",
-      "score": 93,
+      "id": "canonical:2c65d5e27042b1b3",
+      "title": "Software Engineer",
+      "url": "https://jobs-woodcons.icims.com/jobs/14803/job?mobile=true&needsRedirect=false",
+      "location": "Fort Meade, MD",
+      "department": "Software",
+      "company": "WOOD Consulting Services",
+      "score": 85,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:14f21457058d1e11",
-      "title": "Data Scientist",
-      "url": "https://jobs.ashbyhq.com/sciemo/63626f61-8507-482c-8beb-56efcbb55cee/application?embed=true",
-      "location": "Research Triangle Park, Durham, NC / Philadelphia, PA / NYC / Atlanta, GA",
-      "department": "AI/ML/Data",
-      "company": "Sciemo",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
+        "high-signal role"
       ]
     },
     {
@@ -34724,31 +34759,6 @@
       ]
     },
     {
-      "id": "canonical:e5b4544b8d24a4c6",
-      "title": "Data Centre Engineer",
-      "url": "https://careers-iomart.icims.com/jobs/2179/job?mobile=true&needsRedirect=false",
-      "location": "Manchester, UK",
-      "department": "Hardware",
-      "company": "iomart",
-      "score": 75,
-      "scoreReasons": [
-        "SWE-aligned"
-      ]
-    },
-    {
-      "id": "canonical:591e4ff75a9d375b",
-      "title": "Software Engineer 0 - Entry-Level Software Engineering",
-      "url": "https://jobs-woodcons.icims.com/jobs/14759/job?mobile=true&needsRedirect=false",
-      "location": "Fort Meade, MD",
-      "department": "Software",
-      "company": "WOOD Consulting Services",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:74c2df6adfbdf397",
       "title": "Software Engineer, Builder Tools",
       "url": "https://careers.roblox.com/jobs/6759944",
@@ -34762,16 +34772,31 @@
       ]
     },
     {
-      "id": "canonical:2c65d5e27042b1b3",
-      "title": "Software Engineer",
-      "url": "https://jobs-woodcons.icims.com/jobs/14803/job?mobile=true&needsRedirect=false",
-      "location": "Fort Meade, MD",
-      "department": "Software",
-      "company": "WOOD Consulting Services",
-      "score": 85,
+      "id": "canonical:ef816cf50608fc3b",
+      "title": "Engineering Aide",
+      "url": "https://oakgov.wd5.myworkdayjobs.com/careers/job/Waterford-Michigan-United-States/Engineering-Aide--WRC_JR-0000739",
+      "location": "Waterford Twp, MI",
+      "department": "AI/ML/Data",
+      "company": "Oakland County, Michigan",
+      "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role"
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:03c3caf767d81c23",
+      "title": "Associate Cyber Software Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis-Junction/XMLNAME-2026----Associate-Cyber-Software-Engineer---Annapolis-Junction-MD_R10243399",
+      "location": "Annapolis Junction, MD",
+      "department": "Software",
+      "company": "Northrop Grumman",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -34800,6 +34825,20 @@
         "SWE-aligned",
         "high-signal role",
         "new grad",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:14f21457058d1e11",
+      "title": "Data Scientist",
+      "url": "https://jobs.ashbyhq.com/sciemo/63626f61-8507-482c-8beb-56efcbb55cee/application?embed=true",
+      "location": "Research Triangle Park, Durham, NC / Philadelphia, PA / NYC / Atlanta, GA",
+      "department": "AI/ML/Data",
+      "company": "Sciemo",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
         "direct ATS"
       ]
     },
@@ -35322,19 +35361,6 @@
         "SWE-aligned",
         "high-signal role",
         "new grad"
-      ]
-    },
-    {
-      "id": "canonical:caa37dbb765c5132",
-      "title": "Engineering New Analyst - Engineering",
-      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
-      "location": "Seattle, WA",
-      "department": "Software",
-      "company": "Goldman Sachs",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -38273,19 +38299,6 @@
       ]
     },
     {
-      "id": "canonical:5ccbdd16c804408f",
-      "title": "Engineering New Analyst",
-      "url": "https://higher.gs.com/roles/171568?type=students",
-      "location": "Dallas, TX",
-      "department": "Software",
-      "company": "Goldman Sachs",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:284d6cf656b00994",
       "title": "Research Scientist",
       "url": "https://www.rentec.com/Careers.action?jobs=true&selectedPosition=researchScientist",
@@ -38295,19 +38308,6 @@
       "score": 75,
       "scoreReasons": [
         "SWE-aligned"
-      ]
-    },
-    {
-      "id": "canonical:ee2ac1afa3058d54",
-      "title": "New Analyst - Engineering",
-      "url": "https://higher.gs.com/roles/171569?type=students",
-      "location": "NYC",
-      "department": "Software",
-      "company": "Goldman Sachs",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -38630,6 +38630,33 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:10177a26296f61a4",
+      "title": "Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Sunrise, FL",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011015",
+      "location": "Sunrise, FL, United States",
+      "department": "Software / Summer 2027",
+      "company": "American Express",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:82737dd32bfc8431",
+      "title": "2027 Summer Intern - Technology Analyst, Software Engineering",
+      "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745",
+      "location": "Austin, TX USA",
+      "department": "Software / Summer 2027",
+      "company": "PIMCO",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -39267,33 +39294,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:82737dd32bfc8431",
-      "title": "2027 Summer Intern - Technology Analyst, Software Engineering",
-      "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745",
-      "location": "Austin, TX USA",
-      "department": "Software / Summer 2027",
-      "company": "PIMCO",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:10177a26296f61a4",
-      "title": "Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Sunrise, FL",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011015",
-      "location": "Sunrise, FL, United States",
-      "department": "Software / Summer 2027",
-      "company": "American Express",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     }
   ],

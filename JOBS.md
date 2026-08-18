@@ -651,7 +651,7 @@
 - [Nordstrom](#nordstrom) (1)
 - [North Star Staffing Solutions](#north-star-staffing-solutions) (1)
 - [Northeastern](#northeastern) (1)
-- [Northrop Grumman](#northrop-grumman) (23)
+- [Northrop Grumman](#northrop-grumman) (24)
 - [Northwestern Mutual](#northwestern-mutual) (1)
 - [Northwood Space](#northwood-space) (1)
 - [Notion](#notion) (17)
@@ -683,7 +683,7 @@
 - [Oracle](#oracle) (11)
 - [Oxford Quantum Circuits (OQC)](#oxford-quantum-circuits-oqc) (1)
 - [Packz](#packz) (1)
-- [Palantir](#palantir) (85)
+- [Palantir](#palantir) (84)
 - [Palo Alto Networks](#palo-alto-networks) (2)
 - [PAM Health](#pam-health) (1)
 - [Panasonic Holdings](#panasonic-holdings) (1)
@@ -874,7 +874,7 @@
 - [SpreeAI](#spreeai) (1)
 - [SPREEAI](#spreeai) (1)
 - [SpreeAI ](#spreeai) (3)
-- [Squarepoint Capital](#squarepoint-capital) (9)
+- [Squarepoint Capital](#squarepoint-capital) (10)
 - [SquareTrade](#squaretrade) (1)
 - [Starbucks](#starbucks) (2)
 - [State Farm](#state-farm) (1)
@@ -942,7 +942,6 @@
 - [Titan](#titan) (1)
 - [Together AI](#together-ai) (1)
 - [Torc Robotics](#torc-robotics) (1)
-- [Torch Technologies](#torch-technologies) (1)
 - [Tower Health](#tower-health) (1)
 - [Tower Research](#tower-research) (1)
 - [Tower Research Capital](#tower-research-capital) (4)
@@ -4863,8 +4862,8 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Application Developer Associate](https://jobs.l3harris.com/job/Melbourne-Associate,-Application-Developer-FL-32919/1420524300/?ats=successfactors) | 85 | Melbourne, FL | Software | 2026-08-18 |
-| [Software Engineer Intern](https://jobs.l3harris.com/job/Greenville-Intern,-Software-Engineer-Spring-2027-TX-75402/1420331200/?ats=successfactors) | 85 | Greenville, TX | Hardware | 2026-08-18 |
 | [Software Engineer Intern](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1420340500/?ats=successfactors) | 85 | Palm Bay, FL | Hardware | 2026-08-18 |
+| [Software Engineer Intern](https://jobs.l3harris.com/job/Greenville-Intern,-Software-Engineer-Spring-2027-TX-75402/1420331200/?ats=successfactors) | 85 | Greenville, TX | Hardware | 2026-08-18 |
 | [Associate Software Engineer](https://jobs.l3harris.com/job/Clifton-Associate,-Software-Engineering-NJ-07014/1420387700/?ats=successfactors) | 85 | Clifton, NJ | Software | 2026-08-18 |
 | [Associate Software Engineer](https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineering-FL-32905-4101/1420103700/?ats=successfactors) | 85 | Palm Bay, FL | Hardware | 2026-08-17 |
 | [Associate Software Engineer](https://jobs.l3harris.com/job/Clifton-Associate,-Software-Engineer-NJ-07014/1420248200/?ats=successfactors) | 85 | Clinton, MD / Clifton, NJ | Hardware | 2026-08-17 |
@@ -5766,6 +5765,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Associate Cyber Software Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis-Junction/XMLNAME-2026----Associate-Cyber-Software-Engineer---Annapolis-Junction-MD_R10243399) | 93 | Annapolis Junction, MD | Software | 2026-08-18 |
 | [Embedded Software Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/Associate----Engineer-Embedded-Software_R10245875) | 93 | Warner Robins, GA / Beavercreek, OH | Hardware | 2026-08-17 |
 | [Embedded Software Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Associate---Engineer-Embedded-Software_R10245880) | 93 | Oklahoma City, OK | Hardware | 2026-08-17 |
 | [AI Software Engineer - Aht](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/Associate-AI-Software-Engineer--AI-Software-Engineer--AHT-_R10245469) | 93 | Beavercreek, OH | Software | 2026-08-17 |
@@ -6099,7 +6099,6 @@
 | [Forward Deployed Software Engineer, Internship - Defense Tech](https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b) | 93 | Washington, D.C. | Delta | 2026-07-20 |
 | [Forward Deployed Software Engineer, Internship - France](https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f) | 93 | New York, NY | Delta | 2026-07-20 |
 | [Forward Deployed Software Engineer, Internship - Intel](https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89) | 93 | Washington, D.C. | Delta | 2026-07-20 |
-| [Forward Deployed Software Engineer, Internship - Poland](https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9) | 93 | New York, NY | Delta | 2026-07-20 |
 | [Forward Deployed Software Engineer, Internship - US Government](https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e) | 93 | Honolulu, HI | Delta | 2026-07-20 |
 | [Forward Deployed Software Engineer, Internship - US Government](https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f) | 93 | New York, NY | Delta | 2026-07-20 |
 | [Forward Deployed Software Engineer, Internship - US Government](https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2) | 93 | Washington, D.C. | Delta | 2026-07-20 |
@@ -7490,6 +7489,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Developer Intern](https://boards.greenhouse.io/embed/job_app?token=7905463) | 93 | Montreal, QC, Canada | Software | 2026-08-18 |
 | [Intern Software Developer - Montreal - 2027](https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463) | 85 | Montreal | — | 2026-08-18 |
 | [Graduate Quant Developer](https://boards.greenhouse.io/embed/job_app?token=7918610) | 99 | Montreal, QC, Canada / London, UK | Quant | 2026-08-17 |
 | [Intern Software Developer - Summer 2026](https://boards.greenhouse.io/embed/job_app?token=7231006) | 93 | Montreal, QC, Canada / London, UK | Software | 2026-08-10 |
@@ -8226,12 +8226,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer 1 - Metrics for Release](https://job-boards.greenhouse.io/torcrobotics/jobs/8676173002) | 93 | Blacksburg, VA / Ann Arbor, MI / Fort Worth, TX | Software | 2026-08-17 |
-
-## Torch Technologies
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Systems Engineer/Analyst](https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Systems-Engineer-Analyst_R1322) | 93 | Huntsville, AL | AI/ML/Data | 2026-08-17 |
 
 ## Tower Health
 
