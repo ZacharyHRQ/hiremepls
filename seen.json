@@ -17,10 +17,10 @@
     "4907368101",
     "4912325101",
     "4892687101",
-    "4818790101",
     "4917773101",
-    "4564480101",
+    "4818790101",
     "4635938101",
+    "4564480101",
     "4667814101",
     "4932192101",
     "4577504101",
@@ -45,9 +45,9 @@
     "7982648",
     "7975026",
     "8002989",
-    "8000323",
     "8007788",
     "8027952",
+    "8000323",
     "7565728",
     "8003019",
     "7974943"
@@ -55,10 +55,10 @@
   "DRW": [
     "7997729",
     "7981754",
+    "7942281",
     "8020364",
     "7992936",
     "7991196",
-    "7942281",
     "8014910",
     "8127242"
   ],
@@ -120,8 +120,8 @@
     "7e0dafe8-3eec-442e-aa76-a4d84d779fb1"
   ],
   "Stripe": [
-    "8097801",
-    "8031833"
+    "8031833",
+    "8097801"
   ],
   "Databricks": [
     "7011263002"
@@ -133,8 +133,8 @@
   ],
   "MongoDB": [],
   "Cloudflare": [
-    "8089379",
     "8089407",
+    "8089379",
     "8089400",
     "8118845",
     "8052785"
@@ -1275,6 +1275,8 @@
   ],
   "Wayve": [],
   "zshah101 Summer 2027/Fall 2026": [
+    "github-json:zshah101-summer-2027-fall-2026:oracle:egug.fa.us2.oraclecloud.com:26011015",
+    "github-json:zshah101-summer-2027-fall-2026:workday:pimco:/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745",
     "github-json:zshah101-summer-2027-fall-2026:workday:amcor:/job/ASC-Atlanta-HQ-GA/AI-Innovation-Engineer_REQ_93190",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:xantium:4360768009",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:xantium:4371217009",
@@ -3892,7 +3894,6 @@
     "simplify:d6586a28-14d3-4627-88f6-5279119e3d74",
     "simplify:1827abb6-82cd-4735-aeff-87e0b81c8003",
     "simplify:832938a4-3ffe-4b33-92a1-cb77b96ca582",
-    "simplify:21ea7c78-a29a-4a0e-ba6d-b356f70186cc",
     "simplify:ba0fbd69-5e56-4eb3-9233-5fdd64f5073f",
     "simplify:e53a7275-853a-47b2-9c3c-c88f9d888cbe",
     "simplify:4210b033-ba9b-43b8-bbd4-a10f0a371610",
@@ -4669,14 +4670,18 @@
     "simplify:e7bf8164-6dba-40c2-bfc3-38f601c320fc",
     "simplify:29edc090-b552-4025-b423-23528dab82bb",
     "simplify:0438421d-e6a6-445d-8186-059bcb69347d",
+    "simplify:43a5374e-0e70-4dc9-82b0-687b54e8c5da",
     "simplify:00e9ac82-474b-46a0-bc46-aa9e240f3efd",
+    "simplify:a84b5ca0-5e89-4893-97cb-4be5aead281c",
     "simplify:6dda02da-3ec3-49ed-a963-fa6db627f830",
     "simplify:5e2b041d-3b5b-414f-8491-242be06bf425",
+    "simplify:e09149c6-13df-4156-b091-ebf0159330f8",
     "simplify:0796306e-88e8-47d9-90fc-d60dff210cfc",
     "simplify:7db6d258-87e7-4ae1-9627-a16a5d0c8513",
     "simplify:87423fa3-7d45-408d-836d-dc0f9d316d0c",
     "simplify:f4cc51bc-a3b3-4c1b-a7df-08cdc2293da4",
     "simplify:eeb5f071-123e-4b59-92a7-006c1689f7cd",
+    "simplify:ebecfe1f-3890-4cf8-8663-d7b118197e24",
     "simplify:154cf85d-ed07-4a20-9730-3f260ba95a0f",
     "simplify:2e2c0e4f-cc59-4c29-a9fb-d9908fcc7e06",
     "simplify:2ab3ea47-41c1-46b3-8932-fedbbb55e1cd",
@@ -4753,7 +4758,8 @@
     "simplify:30600f27-6e64-4519-9d2a-ea875352b5eb",
     "simplify:11738554-4081-4656-8eae-5e79d6ce2668",
     "simplify:a2b482d1-0a95-4518-ae61-f372a6170842",
-    "simplify:94cdc052-b0dd-4f83-bd97-334ea75abc20"
+    "simplify:94cdc052-b0dd-4f83-bd97-334ea75abc20",
+    "simplify:ef8b36d6-9967-4457-8ad8-2f8b9a8c9c91"
   ],
   "vanshb03 New Grad": [
     "vansh:5dac35b2-b148-49f8-b3f5-828ba68da99c",
