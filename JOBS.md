@@ -1,6 +1,6 @@
 # Open Internships
 
-**2659** internships across **188/188** companies — last updated 2026-08-18.
+**2656** internships across **188/188** companies — last updated 2026-08-18.
 
 ## Companies
 
@@ -292,7 +292,6 @@
 - [Duolingo](#duolingo) (3)
 - [Dutch Bros](#dutch-bros) (1)
 - [DV Trading](#dv-trading) (5)
-- [E Source Companies](#e-source-companies) (1)
 - [e-Careers](#e-careers) (1)
 - [EAi Technologies](#eai-technologies) (3)
 - [East Penn Manufacturing Company](#east-penn-manufacturing-company) (1)
@@ -582,7 +581,6 @@
 - [Maya HTT](#maya-htt) (2)
 - [McDonald's](#mcdonald-s) (1)
 - [McDonald's Corporation](#mcdonald-s-corporation) (1)
-- [MCG Health](#mcg-health) (1)
 - [Mechanize](#mechanize) (1)
 - [Medical College of Wisconsin](#medical-college-of-wisconsin) (1)
 - [Medpace](#medpace) (1)
@@ -820,7 +818,7 @@
 - [Selector Software](#selector-software) (1)
 - [Semtech](#semtech) (1)
 - [SentiLink](#sentilink) (5)
-- [Sentry](#sentry) (2)
+- [Sentry](#sentry) (1)
 - [Serval](#serval) (1)
 - [ServiceNow](#servicenow) (3)
 - [Set of X](#set-of-x) (1)
@@ -2748,7 +2746,7 @@
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
 | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -3290,12 +3288,6 @@
 | [Software Developer](https://job-boards.greenhouse.io/dvtrading/jobs/4687462005) | 93 | NYC | Quant | 2026-08-17 |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/dvtrading/jobs/4719119005) | 93 | NYC | Software | 2026-08-11 |
 | [Software Engineer Intern - DV Commodities](https://job-boards.greenhouse.io/dvtrading/jobs/4719125005) | 93 | London, UK | Software | 2026-08-11 |
-
-## E Source Companies
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Associate Engineer](https://jobs.ashbyhq.com/e-source/dff165ad-5cd8-4b5a-9b8b-57998954371b/application?embed=true) | 93 | Remote in USA | AI/ML/Data | 2026-08-17 |
 
 ## e-Careers
 
@@ -5289,12 +5281,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer I, iOS](https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-iOS-IL-60607/1322170500/) | 85 | Chicago, IL | — | 2026-08-17 |
 
-## MCG Health
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineering Intern](https://job-boards.greenhouse.io/mcghealth/jobs/8350486002) | 93 | Seattle, WA | Software Engineering | 2026-08-17 |
-
 ## Mechanize
 
 | Title | Score | Location | Department | First seen |
@@ -7115,7 +7101,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [New Grad 2025: Software Engineer](https://jobs.ashbyhq.com/sentry/90fb5dd4-410d-4672-9f40-3f11ea01c75d) | 99 | San Francisco, CA | — | 2026-08-17 |
-| [Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/sentry/672e2a76-d8e1-49c1-b227-4a189c4e49a1/application?embed=true) | 93 | SF | Software | 2026-08-11 |
 
 ## Serval
 
