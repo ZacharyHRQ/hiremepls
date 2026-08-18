@@ -1,6 +1,6 @@
 # Open Internships
 
-**2653** internships across **188/188** companies — last updated 2026-08-18.
+**2660** internships across **188/188** companies — last updated 2026-08-18.
 
 ## Companies
 
@@ -19,7 +19,7 @@
 - [ADT](#adt) (1)
 - [Advanced Energy](#advanced-energy) (2)
 - [AeroVect](#aerovect) (1)
-- [AeroVironment](#aerovironment) (5)
+- [AeroVironment](#aerovironment) (4)
 - [AffirmedRx](#affirmedrx) (1)
 - [Aflac](#aflac) (1)
 - [AfterQuery](#afterquery) (1)
@@ -383,6 +383,7 @@
 - [General Matter](#general-matter) (1)
 - [General Motors](#general-motors) (2)
 - [Genetec](#genetec) (4)
+- [Geneva Trading](#geneva-trading) (1)
 - [GenMD](#genmd) (1)
 - [Gentex Corporation](#gentex-corporation) (1)
 - [Georgian Partners Growth](#georgian-partners-growth) (1)
@@ -478,6 +479,7 @@
 - [InterImage](#interimage) (3)
 - [Internship](#internship) (1)
 - [Intuit](#intuit) (2)
+- [iomart](#iomart) (1)
 - [IonQ](#ionq) (1)
 - [IQVIA](#iqvia) (1)
 - [iSoftStone](#isoftstone) (2)
@@ -520,7 +522,7 @@
 - [KOSTAL Group](#kostal-group) (1)
 - [KPMG](#kpmg) (1)
 - [Kyndryl](#kyndryl) (2)
-- [L3Harris Technologies](#l3harris-technologies) (15)
+- [L3Harris Technologies](#l3harris-technologies) (17)
 - [Lambda](#lambda) (1)
 - [Laserfiche](#laserfiche) (1)
 - [Lawrence Livermore National Laboratory (LLNL)](#lawrence-livermore-national-laboratory-llnl) (7)
@@ -746,6 +748,7 @@
 - [Qualcomm Innovation Center, Inc.](#qualcomm-innovation-center-inc) (1)
 - [Qualcomm Technologies, Inc.](#qualcomm-technologies-inc) (2)
 - [Qualifacts](#qualifacts) (1)
+- [Qualtrics](#qualtrics) (2)
 - [Quantbot Technologies](#quantbot-technologies) (4)
 - [Quantcast](#quantcast) (3)
 - [QuEra Computing](#quera-computing) (1)
@@ -1032,6 +1035,7 @@
 - [Wolters Kluwer](#wolters-kluwer) (1)
 - [Wolverine Trading](#wolverine-trading) (1)
 - [Wonderschool](#wonderschool) (1)
+- [WOOD Consulting Services](#wood-consulting-services) (2)
 - [Workato](#workato) (1)
 - [Workstream](#workstream) (1)
 - [WorldQuant](#worldquant) (1)
@@ -1168,7 +1172,6 @@
 | --- | --- | --- | --- | --- |
 | [CNO Developer](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/420-National-Business-Parkway-Jessup-MD/CNO-Developer_6358) | 93 | Annapolis Junction, MD | Software | 2026-08-17 |
 | [Entry-Level Software Engineer](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Dayton-OH/Entry-Level-Software-Engineer_8010) | 93 | Dayton, OH | Software | 2026-08-17 |
-| [Software Engineer 1 - Embedded](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineer-I-3_8368) | 93 | Sunrise, FL | Hardware | 2026-08-17 |
 | [Software Engineer 2 - Applications](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/San-Diego-CA/Software-Engineer-II--Applications-_8151) | 93 | San Diego, CA | Hardware | 2026-08-17 |
 | [Software Engineering Intern – Hyper-RF Division](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/20521-Seneca-Meadows-Pkwy-Germantown-MD/Software-Engineering-Intern---Hyper-RF-Division_6367) | 93 | Germantown, MD | Software Engineering | 2026-05-09 |
 
@@ -3877,6 +3880,12 @@
 | [Software Developer - Multiple Teams](https://apply.workable.com/genetec-inc/j/9DC9768E16/apply) | 93 | Montreal, QC, Canada / Sherbrooke, QC, Canada | Software | 2026-08-17 |
 | [Software Developer - Physical Access Control - SaaS](https://apply.workable.com/genetec-inc/j/46C9414CC4/apply) | 93 | Montreal, QC, Canada | Software | 2026-08-17 |
 
+## Geneva Trading
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Junior Software Engineer](https://job-boards.greenhouse.io/genevatrading/jobs/5085231007) | 93 | Chicago, IL | Software Engineering | 2026-08-18 |
+
 ## GenMD
 
 | Title | Score | Location | Department | First seen |
@@ -4512,6 +4521,12 @@
 | [Software Engineer 1](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720) | 85 | NYC / Mountain View, CA / Atlanta, GA / San Diego, CA | Software | 2026-08-17 |
 | [Software Engineer 1](https://jobs.intuit.com/job/-/-/27595/87369448720) | 85 | Mountain View, CA | — | 2026-08-17 |
 
+## iomart
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data Centre Engineer](https://careers-iomart.icims.com/jobs/2179/job?mobile=true&needsRedirect=false) | 75 | Manchester, UK | Hardware | 2026-08-18 |
+
 ## IonQ
 
 | Title | Score | Location | Department | First seen |
@@ -4857,6 +4872,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1420340500/?ats=successfactors) | 85 | Palm Bay, FL | Hardware | 2026-08-18 |
+| [Software Engineer Intern](https://jobs.l3harris.com/job/Greenville-Intern,-Software-Engineer-Spring-2027-TX-75402/1420331200/?ats=successfactors) | 85 | Greenville, TX | Hardware | 2026-08-18 |
 | [Associate Software Engineer](https://jobs.l3harris.com/job/Clifton-Associate,-Software-Engineering-NJ-07014/1420387700/?ats=successfactors) | 85 | Clifton, NJ | Software | 2026-08-18 |
 | [Associate Software Engineer](https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineering-FL-32905-4101/1420103700/?ats=successfactors) | 85 | Palm Bay, FL | Hardware | 2026-08-17 |
 | [Associate Software Engineer](https://jobs.l3harris.com/job/Clifton-Associate,-Software-Engineer-NJ-07014/1420248200/?ats=successfactors) | 85 | Clinton, MD / Clifton, NJ | Hardware | 2026-08-17 |
@@ -6555,6 +6572,13 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer 1](https://qualifacts.wd5.myworkdayjobs.com/Qualifacts_External_Careers/job/Ontario---Remote/Software-Engineer-I--P1-_R-102648) | 93 | Ontario, Canada | Software | 2026-08-17 |
+
+## Qualtrics
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Machine Learning Engineer I](https://www.qualtrics.com/careers/us/en/job/6774164/Machine-Learning-Engineer-I-Data-Insights) | 85 | Seattle, WA | — | 2026-08-18 |
+| [Software Engineer I, Employee Experience](https://www.qualtrics.com/careers/us/en/job/QUALUS6957175EXTERNALENUS/Software-Engineer-I-Employee-Experience) | 85 | Seattle, WA | — | 2026-08-18 |
 
 ## Quantbot Technologies
 
@@ -8811,6 +8835,13 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Early Career Software Engineer - Applied AI](https://job-boards.greenhouse.io/wonderschool/jobs/6359139003) | 93 | SF | Software | 2026-08-17 |
+
+## WOOD Consulting Services
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer](https://jobs-woodcons.icims.com/jobs/14803/job?mobile=true&needsRedirect=false) | 85 | Fort Meade, MD | Software | 2026-08-18 |
+| [Software Engineer 0 - Entry-Level Software Engineering](https://jobs-woodcons.icims.com/jobs/14759/job?mobile=true&needsRedirect=false) | 85 | Fort Meade, MD | Software | 2026-08-18 |
 
 ## Workato
 

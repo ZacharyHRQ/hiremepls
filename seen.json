@@ -1534,7 +1534,6 @@
     "simplify:d4dc379c-1e13-4b2c-a752-0420dca7c8c6",
     "simplify:7ba71986-7f36-4096-9d70-31f988a5cd08",
     "simplify:8370f5b4-e4c5-4cd8-8d48-50a580ca3d04",
-    "simplify:bc6607ea-5320-4f25-8647-3ba280377230",
     "simplify:5a48777f-0af6-4e37-b9d2-1766b5c02ea2",
     "simplify:a39a86bb-991c-4915-982e-8a1388db3fd9",
     "simplify:e7edc8a3-8756-4127-82d1-45ef3ff3cee4",
@@ -2284,7 +2283,10 @@
     "simplify:df3b11d6-07b6-49f9-a445-97f32c89967e",
     "simplify:f9344b8e-43cf-4dac-aef6-05e00717fd78",
     "simplify:ac34479a-59f5-4dd7-afad-64f30851650e",
-    "simplify:9aaf0eed-7ca3-41fc-8076-90c4a66fa270"
+    "simplify:9aaf0eed-7ca3-41fc-8076-90c4a66fa270",
+    "simplify:c8239540-af84-491d-8907-13b4bb623874",
+    "simplify:8c190f84-7c21-4a30-a956-f5a480ccdec6",
+    "simplify:eaef6238-c317-4dda-953d-35f05f4fd670"
   ],
   "DoorDash": [],
   "Waymo": [
@@ -2710,7 +2712,6 @@
     "simplify:7d28754d-98f1-4b89-a78e-ecb4f103ce8b",
     "simplify:75892e9b-bebc-4e60-9e4b-a763af8e0759",
     "simplify:7387a1fc-9d17-4ccb-9dac-9de2c1006f0a",
-    "simplify:27bc7565-972b-4dff-a2b6-d86296a62c88",
     "simplify:7d13d689-657d-404d-9463-284ccb89bd44",
     "simplify:b8a3808e-1eee-4b31-a9ed-c8790b1c82b9",
     "simplify:1a44500b-c841-4121-ad65-9ed0746573db",
@@ -3149,7 +3150,10 @@
     "simplify:df3b11d6-07b6-49f9-a445-97f32c89967e",
     "simplify:f9344b8e-43cf-4dac-aef6-05e00717fd78",
     "simplify:ac34479a-59f5-4dd7-afad-64f30851650e",
-    "simplify:9aaf0eed-7ca3-41fc-8076-90c4a66fa270"
+    "simplify:9aaf0eed-7ca3-41fc-8076-90c4a66fa270",
+    "simplify:c8239540-af84-491d-8907-13b4bb623874",
+    "simplify:8c190f84-7c21-4a30-a956-f5a480ccdec6",
+    "simplify:eaef6238-c317-4dda-953d-35f05f4fd670"
   ],
   "Wintermute": [],
   "QCP": [],
@@ -4427,7 +4431,6 @@
     "simplify:e44a3eb5-f173-481f-b91f-cd3ace4d2b63",
     "simplify:aa9feb49-b586-4dba-80ab-d35720db8230",
     "simplify:a7ad89c3-bfca-4132-bafe-f790f3d25000",
-    "simplify:b149ffe7-5cf9-4e18-8175-052fb98c6c6b",
     "simplify:1c48a615-424d-40fa-89b5-62e31990980c",
     "simplify:407e1e4c-8d82-4e4c-b3ff-9482dc645fb7",
     "simplify:34511b41-e6df-4327-b844-adf04f6f221f",
@@ -4744,7 +4747,10 @@
     "simplify:8121dc2e-ce22-45e4-a3d0-1e4b4abc83ee",
     "simplify:f296a9f4-0dae-41f4-b15d-ae910f8c8f16",
     "simplify:034062ca-af46-4066-a960-533d027a734f",
-    "simplify:9b28f741-a7e8-4acb-8697-fb44335ee538"
+    "simplify:9b28f741-a7e8-4acb-8697-fb44335ee538",
+    "simplify:295719ba-3f4a-4fe6-b6fe-bd9f5d3d8aba",
+    "simplify:ec674790-bb38-423e-bf36-84796ef90847",
+    "simplify:30600f27-6e64-4519-9d2a-ea875352b5eb"
   ],
   "vanshb03 New Grad": [
     "vansh:5dac35b2-b148-49f8-b3f5-828ba68da99c",
