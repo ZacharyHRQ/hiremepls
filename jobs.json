@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-17T23:42:51.615Z",
+  "generatedAt": "2026-08-17T23:57:29.007Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2640,
+  "jobCount": 2642,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2643,7 +2643,9 @@
     "canonical:a356ac432d4a0c77": "2026-08-17T23:42:51.615Z",
     "canonical:6fda02ae59b09506": "2026-08-17T23:42:51.615Z",
     "canonical:5ccbdd16c804408f": "2026-08-17T23:42:51.615Z",
-    "canonical:ee2ac1afa3058d54": "2026-08-17T23:42:51.615Z"
+    "canonical:ee2ac1afa3058d54": "2026-08-17T23:42:51.615Z",
+    "canonical:acbf197a7b215167": "2026-08-17T23:57:29.007Z",
+    "canonical:780619bd479c91b5": "2026-08-17T23:57:29.007Z"
   },
   "jobs": [
     {
@@ -5593,6 +5595,19 @@
       ]
     },
     {
+      "id": "canonical:a356ac432d4a0c77",
+      "title": "Data Scientist Intern",
+      "url": "https://careers.bcg.com/global/en/job/56634",
+      "location": "London, UK",
+      "department": "AI/ML/Data",
+      "company": "Boston Consulting Group",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:029eb3cf2b108240",
       "title": "Software Engineer Project Intern - Security-Data - 2026 Start",
       "url": "https://jobs.bytedance.com/en/position/7600175469758040325/detail",
@@ -7623,19 +7638,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:a356ac432d4a0c77",
-      "title": "Data Scientist Intern",
-      "url": "https://careers.bcg.com/global/en/job/56634",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "Boston Consulting Group",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -33758,6 +33760,19 @@
       ]
     },
     {
+      "id": "canonical:5ccbdd16c804408f",
+      "title": "Engineering New Analyst",
+      "url": "https://higher.gs.com/roles/171568?type=students",
+      "location": "Dallas, TX",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:f25c76a0a1a97682",
       "title": "Forward Deployed Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3/application?embed=true",
@@ -33840,6 +33855,19 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ee2ac1afa3058d54",
+      "title": "New Analyst - Engineering",
+      "url": "https://higher.gs.com/roles/171569?type=students",
+      "location": "NYC",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
@@ -34398,19 +34426,6 @@
       ]
     },
     {
-      "id": "canonical:4733e4d1047addcb",
-      "title": "Embedded DSP Software Engineer",
-      "url": "https://careers.qualcomm.com/careers/job/446704474013",
-      "location": "San Diego, CA",
-      "department": "",
-      "company": "Qualcomm",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:6fda02ae59b09506",
       "title": "Machine Learning Engineer - Associate",
       "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4356977009",
@@ -34425,38 +34440,25 @@
       ]
     },
     {
+      "id": "canonical:4733e4d1047addcb",
+      "title": "Embedded DSP Software Engineer",
+      "url": "https://careers.qualcomm.com/careers/job/446704474013",
+      "location": "San Diego, CA",
+      "department": "",
+      "company": "Qualcomm",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:74c2df6adfbdf397",
       "title": "Software Engineer, Builder Tools",
       "url": "https://careers.roblox.com/jobs/6759944",
       "location": "San Mateo, CA",
       "department": "",
       "company": "Roblox",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:5ccbdd16c804408f",
-      "title": "Engineering New Analyst",
-      "url": "https://higher.gs.com/roles/171568?type=students",
-      "location": "Dallas, TX",
-      "department": "Software",
-      "company": "Goldman Sachs",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:ee2ac1afa3058d54",
-      "title": "New Analyst - Engineering",
-      "url": "https://higher.gs.com/roles/171569?type=students",
-      "location": "NYC",
-      "department": "Software",
-      "company": "Goldman Sachs",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -38862,6 +38864,33 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:acbf197a7b215167",
+      "title": "Campus Undergraduate Summer Internship Program - 2027 Software Engineer I, Enterprise Technology Services- Phoenix, AZ",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011781",
+      "location": "Phoenix, AZ, United States",
+      "department": "Software / Summer 2027",
+      "company": "American Express",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:780619bd479c91b5",
+      "title": "Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Atlanta, GA",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000",
+      "location": "Atlanta, GA, United States",
+      "department": "Data & ML/AI / Summer 2027",
+      "company": "American Express",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
       ]
     }
   ],
