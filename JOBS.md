@@ -207,6 +207,7 @@
 - [Ciena](#ciena) (3)
 - [Circleback](#circleback) (1)
 - [Cirrus Logic](#cirrus-logic) (1)
+- [Citadel](#citadel) (1)
 - [Citi](#citi) (1)
 - [Citizen Health](#citizen-health) (1)
 - [City and County of San Francisco](#city-and-county-of-san-francisco) (1)
@@ -711,7 +712,6 @@
 - [PHIHONG USA](#phihong-usa) (1)
 - [Phonely](#phonely) (2)
 - [Photon](#photon) (1)
-- [PIMCO](#pimco) (1)
 - [Plaid](#plaid) (1)
 - [PlusAI](#plusai) (3)
 - [PMG](#pmg) (1)
@@ -2695,6 +2695,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Embedded Software Test Engineer Intern](https://jobs.eu.lever.co/cirrus/2926421c-691a-434a-ae59-c828e7fcbf5b) | 93 | Austin, TX | — | 2026-08-17 |
+
+## Citadel
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer, Intern (Summer 2026)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002?fbclid=PAQ0xDSwK38VtleHRuA2FlbQIxMQABpwFCtP3w0jUMJ2UyUfRb7jqEW6gF5Rr31twvg5geVxUyYXlmmQrGSEf9O3Pw_aem_MfePXp-UnrQgRcTvm_Lh4Q) | 93 | Chicago | — | 2026-08-18 |
 
 ## Citi
 
@@ -6319,12 +6325,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineering / AI Intern - US - Remote](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26738) | 85 | United States | Data & ML/AI / Not stated | 2026-08-17 |
-
-## PIMCO
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [2027 Summer Intern - Technology Analyst, Software Engineering](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745) | 93 | Austin, TX USA | Software / Summer 2027 | 2026-08-18 |
 
 ## Plaid
 
