@@ -1,6 +1,6 @@
 # Open Internships
 
-**2656** internships across **188/188** companies — last updated 2026-08-18.
+**2655** internships across **188/188** companies — last updated 2026-08-18.
 
 ## Companies
 
@@ -112,7 +112,7 @@
 - [Aurora](#aurora) (1)
 - [Aurora Innovation](#aurora-innovation) (2)
 - [Auto-Owners Insurance](#auto-owners-insurance) (1)
-- [Autodesk](#autodesk) (6)
+- [Autodesk](#autodesk) (5)
 - [Avalore](#avalore) (1)
 - [Avoca AI](#avoca-ai) (1)
 - [Axis Capital](#axis-capital) (1)
@@ -1880,7 +1880,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Researcher Associate - Design and Manufacturing](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Associate-Researcher--Design-and-Manufacturing_26WD98040-1) | 93 | Toronto, ON, Canada | AI/ML/Data | 2026-08-17 |
-| [Software Developer](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Developer_25WD91160-1) | 93 | Toronto, ON, Canada | Software | 2026-08-17 |
 | [Software Developer Intern](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-1) | 93 | Montreal, QC, Canada | Software | 2026-08-11 |
 | [Software Developer Intern - Interactive Graphics, Media & Entertainment](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2) | 93 | Montreal, QC, Canada | Software | 2026-08-11 |
 | [Cloud Developer Intern - Fcap](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-1) | 93 | Montreal, QC, Canada | Software | 2026-08-07 |
