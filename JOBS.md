@@ -1,6 +1,6 @@
 # Open Internships
 
-**2666** internships across **188/188** companies — last updated 2026-08-18.
+**2667** internships across **188/188** companies — last updated 2026-08-18.
 
 ## Companies
 
@@ -492,7 +492,7 @@
 - [Jobs for Humanity](#jobs-for-humanity) (2)
 - [John Deere](#john-deere) (1)
 - [Johns Hopkins Applied Physics Laboratory](#johns-hopkins-applied-physics-laboratory) (19)
-- [Johnson Controls](#johnson-controls) (2)
+- [Johnson Controls](#johnson-controls) (3)
 - [Jones Lang LaSalle (JLL)](#jones-lang-lasalle-jll) (1)
 - [JP Morgan Chase](#jp-morgan-chase) (4)
 - [JPMorganChase](#jpmorganchase) (1)
@@ -1485,7 +1485,7 @@
 | [Early Career Firmware Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5167865007) | 83 | Newport Beach, CA | Hardware | 2026-08-17 |
 | [Early Career Firmware Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5167865007?gh_jid=5167865007) | 83 | Costa Mesa, California, United States | — | 2026-08-17 |
 | [Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148079007) | 93 | Boston, MA / Seattle, WA / Newport Beach, CA / Irvine, CA / Reston, VA / Atlanta, GA | Software | 2026-07-20 |
-| [2027 Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) | 93 | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | — | 2026-07-13 |
+| [2027 Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) | 93 | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | Software / Summer 2027 | 2026-07-13 |
 
 ## Anduril Industries
 
@@ -2751,7 +2751,7 @@
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
 | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -4395,7 +4395,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Quantitative Researcher Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421) | 93 | Dubai - United Arab Emirates / NYC | Quant | 2026-08-13 |
+| [Quantitative Researcher - Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421) | 93 | New York, NY, United States | Quant / Summer 2027 | 2026-08-18 |
 | [Quantitative Developer Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594) | 93 | Dubai - United Arab Emirates / NYC | Quant | 2026-08-13 |
 
 ## Infoblox
@@ -4643,6 +4643,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer 1 - Data Center Engineering](https://jci.wd5.myworkdayjobs.com/JCI/job/Glendale-Wisconsin-United-States-of-America/Software-Engineer-I---Data-Center-Engineering_WD30277201) | 93 | Glendale, WI | Software | 2026-08-18 |
 | [Embedded Software Engineer 2](https://jci.wd5.myworkdayjobs.com/JCI/job/Westford-Massachusetts-United-States-of-America/Embedded-Software-Engineer-II_WD30273363-1) | 93 | Westford, MA | Hardware | 2026-08-17 |
 | [HVAC Controls Systems Application Engineer](https://jci.wd5.myworkdayjobs.com/JCI/job/Capitol-Heights-Maryland-United-States-of-America/HVAC-Controls-Systems-Application-Engineer_WD30274054-1) | 83 | District Heights, MD | Hardware | 2026-08-17 |
 

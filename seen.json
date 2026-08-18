@@ -17,10 +17,10 @@
     "4907368101",
     "4912325101",
     "4892687101",
-    "4917773101",
     "4818790101",
-    "4635938101",
+    "4917773101",
     "4564480101",
+    "4635938101",
     "4667814101",
     "4932192101",
     "4577504101",
@@ -45,9 +45,9 @@
     "7982648",
     "7975026",
     "8002989",
+    "8000323",
     "8007788",
     "8027952",
-    "8000323",
     "7565728",
     "8003019",
     "7974943"
@@ -55,10 +55,10 @@
   "DRW": [
     "7997729",
     "7981754",
-    "7942281",
     "8020364",
     "7992936",
     "7991196",
+    "7942281",
     "8014910",
     "8127242"
   ],
@@ -133,9 +133,9 @@
   ],
   "MongoDB": [],
   "Cloudflare": [
+    "8089379",
     "8089407",
     "8089400",
-    "8089379",
     "8118845",
     "8052785"
   ],
@@ -1399,6 +1399,7 @@
     "github-json:zshah101-summer-2027-fall-2026:workday:copart:/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109441",
     "github-json:zshah101-summer-2027-fall-2026:lever:solopulseco:00fbde18-a387-4c9f-97d4-77059aec7b56",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:voloridgeinvestmentmanagement:4224862009",
+    "github-json:zshah101-summer-2027-fall-2026:greenhouse:andurilindustries:5148079007",
     "github-json:zshah101-summer-2027-fall-2026:ashby:beaconsoftware:2452d342-a069-4eda-adbe-9df296808ca1",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:walleyecapital-external-students:4679168006",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:astranis:4681183006",
@@ -2194,7 +2195,6 @@
     "simplify:fba68433-d063-4d27-b298-93d1a9e5e965",
     "simplify:88a8e50a-7fc5-4f13-97c6-fe8a2e9db33c",
     "simplify:f76334f0-b144-4ec8-9a36-f7bab853e4e7",
-    "simplify:9bd5bf91-17e4-4d57-9268-dd61b4b3cdf4",
     "simplify:d15c2dd4-7288-4110-bf59-550c753167ab",
     "simplify:aed64cac-7a3d-4140-a085-279c03698a7b",
     "simplify:1ed38264-654d-4366-b1fc-9e0df58b47a0",
@@ -3062,7 +3062,6 @@
     "simplify:fba68433-d063-4d27-b298-93d1a9e5e965",
     "simplify:88a8e50a-7fc5-4f13-97c6-fe8a2e9db33c",
     "simplify:f76334f0-b144-4ec8-9a36-f7bab853e4e7",
-    "simplify:9bd5bf91-17e4-4d57-9268-dd61b4b3cdf4",
     "simplify:d15c2dd4-7288-4110-bf59-550c753167ab",
     "simplify:aed64cac-7a3d-4140-a085-279c03698a7b",
     "simplify:1ed38264-654d-4366-b1fc-9e0df58b47a0",
@@ -4753,7 +4752,8 @@
     "simplify:ec674790-bb38-423e-bf36-84796ef90847",
     "simplify:30600f27-6e64-4519-9d2a-ea875352b5eb",
     "simplify:11738554-4081-4656-8eae-5e79d6ce2668",
-    "simplify:a2b482d1-0a95-4518-ae61-f372a6170842"
+    "simplify:a2b482d1-0a95-4518-ae61-f372a6170842",
+    "simplify:94cdc052-b0dd-4f83-bd97-334ea75abc20"
   ],
   "vanshb03 New Grad": [
     "vansh:5dac35b2-b148-49f8-b3f5-828ba68da99c",
