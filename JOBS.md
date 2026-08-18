@@ -1,6 +1,6 @@
 # Open Internships
 
-**2657** internships across **188/188** companies — last updated 2026-08-18.
+**2655** internships across **188/188** companies — last updated 2026-08-18.
 
 ## Companies
 
@@ -509,7 +509,6 @@
 - [KBR](#kbr) (2)
 - [Kearney](#kearney) (1)
 - [Keysight Technologies](#keysight-technologies) (1)
-- [Kitware](#kitware) (1)
 - [KLA](#kla) (2)
 - [KLA Corporation](#kla-corporation) (2)
 - [Klarity](#klarity) (2)
@@ -953,7 +952,6 @@
 - [Trexquant](#trexquant) (3)
 - [Trillium](#trillium) (1)
 - [Tripadvisor](#tripadvisor) (1)
-- [TRIUMF](#triumf) (1)
 - [TRM Labs](#trm-labs) (1)
 - [Trovy](#trovy) (1)
 - [True Anomaly](#true-anomaly) (2)
@@ -1315,7 +1313,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [【Class of 2028／Internship】Software Development Engineers , Amazon International Stores](https://amazon.jobs/en/jobs/10503558/class-of-2028-internship-software-development-engineers-amazon-international-stores) | 85 | Tokyo | Systems, Quality, & Security Engineering | 2026-08-18 |
+| [【Class of 2028 & 2029／Internship】Software Development Engineers , Amazon International Stores](https://amazon.jobs/en/jobs/10503558/class-of-2028-2029-internship-software-development-engineers-amazon-international-stores) | 85 | Tokyo | Systems, Quality, & Security Engineering | 2026-08-18 |
 | [EFA Network Software Engineer 1 - Annapurna Labs](https://amazon.jobs/en/jobs/10481932/efa-network-software-engineer-i-annapurna-labs) | 85 | Seattle, WA | Software | 2026-08-17 |
 | [Programmer Analyst 1](https://amazon.jobs/en/jobs/10480255/programmer-analyst-i-ftc) | 85 | Indianapolis, IN / Hyderabad, Telangana, India | Software | 2026-08-17 |
 | [Research Scientist - Amazon Music - Disco](https://amazon.jobs/en/jobs/10418485/research-scientist-amazon-music-disco) | 85 | Seattle, WA / SF / Culver City, CA / NYC | AI/ML/Data | 2026-08-17 |
@@ -2748,7 +2746,7 @@
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
 | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -4784,12 +4782,6 @@
 | --- | --- | --- | --- | --- |
 | [Wireless Protocol Software Engineer - Layer 2 - Radio Link Control](https://jobs.keysight.com/jobs/52141?lang=en-us&icims=1) | 85 | Fleet, UK / Milan, Metropolitan City of Milan, Italy | Hardware | 2026-08-17 |
 
-## Kitware
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [OSTP Software Developer](https://jobs.lever.co/kitware/0dade915-7f07-437e-8ddf-c346f70acd1d/apply) | 93 | Clifton Park, NY | Software | 2026-08-17 |
-
 ## KLA
 
 | Title | Score | Location | Department | First seen |
@@ -6332,8 +6324,8 @@
 | [Quantitative Developer](https://careers.point72.com/CSJobDetail?jobName=quantitative-developer&jobCode=CSS-0013369&location=New%20York&locale=English) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-08-17 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -8287,12 +8279,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Android Engineer](https://careers.tripadvisor.com/job?jobId=7234900) | 75 | Ottawa, Canada | — | 2026-08-17 |
-
-## TRIUMF
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Postdoctoral Researcher - XLZD experiment](https://triumf.wd10.myworkdayjobs.com/careers-at-triumf-job-postings/job/TRIUMF--Vancouver-BC/Postdoctoral-Researcher----XLZD-experiment_JR102139) | 93 | Vancouver, BC, Canada | AI/ML/Data | 2026-08-17 |
 
 ## TRM Labs
 
