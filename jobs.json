@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-18T00:58:22.493Z",
+  "generatedAt": "2026-08-18T02:14:22.426Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2641,
+  "jobCount": 2659,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -816,7 +816,6 @@
     "canonical:9ef0005a1853000d": "2026-08-17T14:17:02.094Z",
     "canonical:4930d2491d1a5c4b": "2026-08-17T14:17:02.094Z",
     "canonical:48f04e22759b42b7": "2026-08-17T14:17:02.094Z",
-    "canonical:29db48d1be8f8e14": "2026-08-17T14:50:43.429Z",
     "canonical:090f48a3cab83e2f": "2026-08-17T15:15:37.907Z",
     "canonical:12cd06c0eec80152": "2026-08-17T15:15:37.907Z",
     "canonical:a388542959a948bc": "2026-08-17T15:15:37.907Z",
@@ -2178,7 +2177,6 @@
     "canonical:d5aa276afda42e52": "2026-08-17T16:14:31.608Z",
     "canonical:69fe1a1c844688fd": "2026-08-17T16:14:31.608Z",
     "canonical:844d871193d49fa6": "2026-08-17T16:14:31.608Z",
-    "canonical:7e3aad63458cc473": "2026-08-17T16:14:31.608Z",
     "canonical:d85e1895365603ac": "2026-08-17T16:14:31.608Z",
     "canonical:dbf88f528fef3493": "2026-08-17T16:14:31.608Z",
     "canonical:4691c4d8d5b6df2c": "2026-08-17T16:14:31.608Z",
@@ -2570,7 +2568,6 @@
     "canonical:3f44cd57fca349f6": "2026-08-17T20:49:44.734Z",
     "canonical:e22881e22c747207": "2026-08-17T21:15:56.458Z",
     "canonical:de52bee35dfa071d": "2026-08-17T22:12:49.528Z",
-    "canonical:eb500a0fa0dd25fb": "2026-08-17T22:12:49.528Z",
     "canonical:8960324f4d40974b": "2026-08-17T22:39:29.520Z",
     "canonical:ca7fcbc3751099fe": "2026-08-17T22:39:29.520Z",
     "canonical:1e7fe10a47407db7": "2026-08-17T22:39:29.520Z",
@@ -2644,7 +2641,28 @@
     "canonical:5ccbdd16c804408f": "2026-08-17T23:42:51.615Z",
     "canonical:ee2ac1afa3058d54": "2026-08-17T23:42:51.615Z",
     "canonical:acbf197a7b215167": "2026-08-17T23:57:29.007Z",
-    "canonical:780619bd479c91b5": "2026-08-17T23:57:29.007Z"
+    "canonical:780619bd479c91b5": "2026-08-17T23:57:29.007Z",
+    "canonical:75f08c87ecd0a8b7": "2026-08-18T02:14:22.426Z",
+    "canonical:a154011669934dc2": "2026-08-18T02:14:22.426Z",
+    "canonical:f21ab7ebd622b4c3": "2026-08-18T02:14:22.426Z",
+    "canonical:18ec1a62a792d039": "2026-08-18T02:14:22.426Z",
+    "canonical:e4a52c8a0262c4f8": "2026-08-18T02:14:22.426Z",
+    "canonical:88d16cbdde791ee8": "2026-08-18T02:14:22.426Z",
+    "canonical:db0c502cd00c348f": "2026-08-18T02:14:22.426Z",
+    "canonical:85084b94748401ec": "2026-08-18T02:14:22.426Z",
+    "canonical:11d6d748d5bc2208": "2026-08-18T02:14:22.426Z",
+    "canonical:3cd5d1586ebaa9e4": "2026-08-18T02:14:22.426Z",
+    "canonical:9d205c00cd2f2101": "2026-08-18T02:14:22.426Z",
+    "canonical:cdff45627be09e13": "2026-08-18T02:14:22.426Z",
+    "canonical:e48ef801f316f346": "2026-08-18T02:14:22.426Z",
+    "canonical:51272aa38c30747c": "2026-08-18T02:14:22.426Z",
+    "canonical:4bfd9645482ba0e8": "2026-08-18T02:14:22.426Z",
+    "canonical:7c22cbcff41edd42": "2026-08-18T02:14:22.426Z",
+    "canonical:18cb146e976cf13f": "2026-08-18T02:14:22.426Z",
+    "canonical:671fd3ceaf9f8107": "2026-08-18T02:14:22.426Z",
+    "canonical:c251e8a1ba87b86d": "2026-08-18T02:14:22.426Z",
+    "canonical:019d9c7e9ae3f705": "2026-08-18T02:14:22.426Z",
+    "canonical:ba1bd9c3eb802a28": "2026-08-18T02:14:22.426Z"
   },
   "jobs": [
     {
@@ -4518,9 +4536,9 @@
       ]
     },
     {
-      "id": "canonical:29db48d1be8f8e14",
-      "title": "【Class of 2028 & 2029／Internship】Software Development Engineers , Amazon International Stores",
-      "url": "https://amazon.jobs/en/jobs/10503558/class-of-2028-2029-internship-software-development-engineers-amazon-international-stores",
+      "id": "canonical:75f08c87ecd0a8b7",
+      "title": "【Class of 2028／Internship】Software Development Engineers , Amazon International Stores",
+      "url": "https://amazon.jobs/en/jobs/10503558/class-of-2028-internship-software-development-engineers-amazon-international-stores",
       "location": "Tokyo",
       "department": "Systems, Quality, & Security Engineering",
       "company": "Amazon",
@@ -13666,6 +13684,75 @@
       ]
     },
     {
+      "id": "canonical:a154011669934dc2",
+      "title": "Front End Developer Intern",
+      "url": "https://jobs.smartrecruiters.com/RegDeskInc/92145731",
+      "location": "Philadelphia, PA",
+      "department": "Software",
+      "company": "RegDesk",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f21ab7ebd622b4c3",
+      "title": "Software Developer Intern",
+      "url": "https://jobs.smartrecruiters.com/EncephaloInvestments/743999734497349",
+      "location": "Woodbury, MN",
+      "department": "Software",
+      "company": "Encephalo Investments",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:18ec1a62a792d039",
+      "title": "Web Developer Intern",
+      "url": "https://jobs.smartrecruiters.com/SightCall/80298252",
+      "location": "SF",
+      "department": "Software",
+      "company": "SightCall",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:e4a52c8a0262c4f8",
+      "title": "PHP Programmer Intern - Social Enterprise",
+      "url": "https://jobs.smartrecruiters.com/iFLIP4/75391381",
+      "location": "East Hanover, NJ",
+      "department": "Software",
+      "company": "iFLIP4",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:88d16cbdde791ee8",
+      "title": "Systems Engineering Intern",
+      "url": "https://jobs.smartrecruiters.com/KOSTALGroup/744000138137225",
+      "location": "Troy, MI",
+      "department": "Hardware",
+      "company": "KOSTAL Group",
+      "score": 83,
+      "scoreReasons": [
+        "SWE-aligned",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:12cd06c0eec80152",
       "title": "Frontend Software Engineer Intern",
       "url": "https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c",
@@ -14474,20 +14561,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:ee1aa41013faee51",
-      "title": "Equity Volatility Quant Researcher Intern",
-      "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006",
-      "location": "Miami, FL",
-      "department": "",
-      "company": "Walleye Capital",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -32720,20 +32793,6 @@
       ]
     },
     {
-      "id": "canonical:7e3aad63458cc473",
-      "title": "Data Scientist - Analytics",
-      "url": "https://boards.greenhouse.io/applovin/jobs/4705263006",
-      "location": "Palo Alto, CA",
-      "department": "AI/ML/Data",
-      "company": "AppLovin",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:dbf88f528fef3493",
       "title": "Senior Engineer-Analyst - ISR Scientific Applications",
       "url": "https://careers.jhuapl.edu/jobs/57531?icims=1",
@@ -34426,12 +34485,164 @@
       ]
     },
     {
+      "id": "canonical:db0c502cd00c348f",
+      "title": "Electronic Systems Engineer - Entry-Level",
+      "url": "https://jobs.smartrecruiters.com/MesotechInternationalInc/744000085097170",
+      "location": "Rancho Cordova, CA",
+      "department": "Hardware",
+      "company": "Mesotech International",
+      "score": 83,
+      "scoreReasons": [
+        "SWE-aligned",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:85084b94748401ec",
+      "title": "Entry Level Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/NextCenturyCorporation/106031601",
+      "location": "Annapolis Junction, MD",
+      "department": "Software",
+      "company": "CACI",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:11d6d748d5bc2208",
+      "title": "Junior Data Engineer - Multiple Teams",
+      "url": "https://jobs.smartrecruiters.com/SmarterAgent/743999706496509",
+      "location": "Collingswood, NJ",
+      "department": "AI/ML/Data",
+      "company": "Smarter Agent",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:3cd5d1586ebaa9e4",
+      "title": "Back End Developer",
+      "url": "https://jobs.smartrecruiters.com/iFLIP4/84246109",
+      "location": "East Hanover, NJ",
+      "department": "Software",
+      "company": "iFLIP4",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:9d205c00cd2f2101",
+      "title": "Engineering Technologist 1, 2, or 3 - Asset Management",
+      "url": "https://jobs.smartrecruiters.com/CityOfMission/744000142746028",
+      "location": "Mission, BC, Canada",
+      "department": "AI/ML/Data",
+      "company": "City of Mission",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:cdff45627be09e13",
+      "title": "C++ Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/AlphaNexusGroup/90016777",
+      "location": "Chicago, IL",
+      "department": "Software",
+      "company": "Alpha Nexus Group",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:e48ef801f316f346",
+      "title": "Entry Level Programmer / Developer",
+      "url": "https://jobs.smartrecruiters.com/MarlabsInc1/82334887",
+      "location": "Piscataway, NJ",
+      "department": "Software",
+      "company": "Marlabs",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:51272aa38c30747c",
+      "title": "Entry Level Programmer Analyst",
+      "url": "https://jobs.smartrecruiters.com/MarlabsInc1/83216249",
+      "location": "Piscataway, NJ",
+      "department": "Software",
+      "company": "Marlabs",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:4bfd9645482ba0e8",
+      "title": "AI Engineer",
+      "url": "https://jobs.smartrecruiters.com/Shawbrook/744000140743148",
+      "location": "London, UK",
+      "department": "AI/ML/Data",
+      "company": "Shawbrook",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:4733e4d1047addcb",
       "title": "Embedded DSP Software Engineer",
       "url": "https://careers.qualcomm.com/careers/job/446704474013",
       "location": "San Diego, CA",
       "department": "",
       "company": "Qualcomm",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:7c22cbcff41edd42",
+      "title": "Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/DieselLaptops/743999719953833",
+      "location": "Dallas, TX",
+      "department": "Software",
+      "company": "Diesel Laptops",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:18cb146e976cf13f",
+      "title": "Safety Software 1&C Engineer HMI Systems",
+      "url": "https://careers.westinghousenuclear.com/job/Warrendale-Safety-SW-I&C-Engineer-HMI-Systems-OR/1420405300/?ats=successfactors",
+      "location": "Warrendale, PA",
+      "department": "Hardware",
+      "company": "Westinghouse Electric Company",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -34478,6 +34689,33 @@
         "high-signal role",
         "new grad",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:671fd3ceaf9f8107",
+      "title": "Full Stack Software Developer",
+      "url": "https://jobs.smartrecruiters.com/Zoro/87619425",
+      "location": "Chicago, IL / Buffalo Grove, IL",
+      "department": "Software",
+      "company": "Zoro",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c251e8a1ba87b86d",
+      "title": "Associate Software Engineer",
+      "url": "https://jobs.l3harris.com/job/Clifton-Associate,-Software-Engineering-NJ-07014/1420387700/?ats=successfactors",
+      "location": "Clifton, NJ",
+      "department": "Software",
+      "company": "L3Harris Technologies",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
@@ -35520,6 +35758,20 @@
       ]
     },
     {
+      "id": "canonical:019d9c7e9ae3f705",
+      "title": "Research Scientist Graduate - DPU & AI Infra - PhD",
+      "url": "https://jobs.bytedance.com/en/position/7673941558289205509/detail",
+      "location": "San Jose, CA",
+      "department": "AI/ML/Data",
+      "company": "ByteDance",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
+      ]
+    },
+    {
       "id": "canonical:2bd2fc0aa94e15c4",
       "title": "New Grad 2026: Backend Software Engineer (Customer Service Platform)",
       "url": "https://jobs.bytedance.com/en/position/7527836662400026898/detail?spread=BSPP2KS",
@@ -36266,6 +36518,19 @@
         "SWE-aligned",
         "high-signal role",
         "new grad"
+      ]
+    },
+    {
+      "id": "canonical:ba1bd9c3eb802a28",
+      "title": "Research Scientist - DPU & AI Infrastructure",
+      "url": "https://jobs.bytedance.com/en/position/7673946040656267573/detail",
+      "location": "Seattle, WA",
+      "department": "AI/ML/Data",
+      "company": "ByteDance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
@@ -37609,6 +37874,20 @@
       ]
     },
     {
+      "id": "canonical:ee1aa41013faee51",
+      "title": "Equity Volatility Quant Researcher Intern",
+      "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006",
+      "location": "Miami, FL",
+      "department": "",
+      "company": "Walleye Capital",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:9221395a8bfb87c4",
       "title": "New Grad 2026: Machine Learning Engineer, Machine Learning",
       "url": "https://about.nextdoor.com/careers-list/?gh_jid=7264954",
@@ -38269,19 +38548,6 @@
         "SWE-aligned",
         "high-signal role",
         "new grad"
-      ]
-    },
-    {
-      "id": "canonical:eb500a0fa0dd25fb",
-      "title": "Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Sunrise, FL",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011745",
-      "location": "Sunrise, FL, United States",
-      "department": "Data & ML/AI / Summer 2027",
-      "company": "American Express",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
