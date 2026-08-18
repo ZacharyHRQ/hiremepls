@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-18T09:35:52.481Z",
+  "generatedAt": "2026-08-18T10:02:17.034Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2665,
+  "jobCount": 2667,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1806,7 +1806,6 @@
     "canonical:6b1d83ba5e06daf5": "2026-08-17T16:14:31.608Z",
     "canonical:791755e5a2abf027": "2026-08-17T16:14:31.608Z",
     "canonical:4919d80d57539597": "2026-08-17T16:14:31.608Z",
-    "canonical:e5e67d3c9854742e": "2026-08-17T16:14:31.608Z",
     "canonical:b233e03a0dd76c6a": "2026-08-17T16:14:31.608Z",
     "canonical:e0f6e2cacc7c3069": "2026-08-17T16:14:31.608Z",
     "canonical:64e84813c3ff7570": "2026-08-17T16:14:31.608Z",
@@ -2559,7 +2558,6 @@
     "canonical:2dec70c7a7e40586": "2026-08-17T22:39:29.520Z",
     "canonical:844dd6e4649727ed": "2026-08-17T22:39:29.520Z",
     "canonical:b35b51d7cd95dcfc": "2026-08-17T22:39:29.520Z",
-    "canonical:58cd281c0fc59cd6": "2026-08-17T22:39:29.520Z",
     "canonical:a211abc107ff4bd8": "2026-08-17T22:39:29.520Z",
     "canonical:eb9265e601ba36e6": "2026-08-17T22:39:29.520Z",
     "canonical:e5b96073876c4b8e": "2026-08-17T22:39:29.520Z",
@@ -2668,7 +2666,11 @@
     "canonical:ee2ac1afa3058d54": "2026-08-18T09:35:52.481Z",
     "canonical:5ccbdd16c804408f": "2026-08-18T09:35:52.481Z",
     "canonical:14f21457058d1e11": "2026-08-18T09:35:52.481Z",
-    "canonical:ef816cf50608fc3b": "2026-08-18T09:35:52.481Z"
+    "canonical:ef816cf50608fc3b": "2026-08-18T09:35:52.481Z",
+    "canonical:f2848f41baf426f0": "2026-08-18T10:02:17.034Z",
+    "canonical:3f44cd57fca349f6": "2026-08-18T10:02:17.034Z",
+    "canonical:884f37722a72fa12": "2026-08-18T10:02:17.034Z",
+    "canonical:ef0953117b510fb9": "2026-08-18T10:02:17.034Z"
   },
   "jobs": [
     {
@@ -13823,6 +13825,32 @@
       ]
     },
     {
+      "id": "canonical:70bd8031a4940b10",
+      "title": "Software Engineer Intern - TikTok Search Data Infrastructure",
+      "url": "https://lifeattiktok.com/search/7675129440242010421",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:42a7330880b6ac3d",
+      "title": "Software Engineer Intern - TikTok Search Data Infra",
+      "url": "https://lifeattiktok.com/search/7675128776856029445",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:12cd06c0eec80152",
       "title": "Frontend Software Engineer Intern",
       "url": "https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c",
@@ -13941,19 +13969,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:70bd8031a4940b10",
-      "title": "Software Engineer Intern - TikTok Search Data Infrastructure",
-      "url": "https://lifeattiktok.com/search/7675129440242010421",
-      "location": "San Jose, CA",
-      "department": "Software",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -14168,19 +14183,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:42a7330880b6ac3d",
-      "title": "Software Engineer Intern - TikTok Search Data Infra",
-      "url": "https://lifeattiktok.com/search/7675128776856029445",
-      "location": "San Jose, CA",
-      "department": "Software",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -23558,20 +23560,6 @@
       ]
     },
     {
-      "id": "canonical:58cd281c0fc59cd6",
-      "title": "Engineer 1 - Systems Engineering",
-      "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Temple-Terrace-Florida/Engineer-I---Systems-Engineering_R-1097946",
-      "location": "E Fowler Ave, Tampa, FL",
-      "department": "AI/ML/Data",
-      "company": "Verizon Communications",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:736b0a835a03d98d",
       "title": "Applied AI Engineer - Markets Operations - Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210723353",
@@ -27825,21 +27813,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:e5e67d3c9854742e",
-      "title": "Graduate Software Engineer",
-      "url": "https://jobs.ashbyhq.com/gearset/4584873d-9645-4241-84bc-36cc4c504e7e/application?embed=true",
-      "location": "Cambridge, UK",
-      "department": "Software",
-      "company": "Gearset",
-      "score": 99,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
         "direct ATS"
       ]
     },
@@ -33694,6 +33667,19 @@
       ]
     },
     {
+      "id": "canonical:5ccbdd16c804408f",
+      "title": "Engineering New Analyst",
+      "url": "https://higher.gs.com/roles/171568?type=students",
+      "location": "Dallas, TX",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:f25c76a0a1a97682",
       "title": "Forward Deployed Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3/application?embed=true",
@@ -33763,6 +33749,19 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ee2ac1afa3058d54",
+      "title": "New Analyst - Engineering",
+      "url": "https://higher.gs.com/roles/171569?type=students",
+      "location": "NYC",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
@@ -34719,6 +34718,34 @@
       ]
     },
     {
+      "id": "canonical:ef816cf50608fc3b",
+      "title": "Engineering Aide",
+      "url": "https://oakgov.wd5.myworkdayjobs.com/careers/job/Waterford-Michigan-United-States/Engineering-Aide--WRC_JR-0000739",
+      "location": "Waterford Twp, MI",
+      "department": "AI/ML/Data",
+      "company": "Oakland County, Michigan",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:14f21457058d1e11",
+      "title": "Data Scientist",
+      "url": "https://jobs.ashbyhq.com/sciemo/63626f61-8507-482c-8beb-56efcbb55cee/application?embed=true",
+      "location": "Research Triangle Park, Durham, NC / Philadelphia, PA / NYC / Atlanta, GA",
+      "department": "AI/ML/Data",
+      "company": "Sciemo",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:4733e4d1047addcb",
       "title": "Embedded DSP Software Engineer",
       "url": "https://careers.qualcomm.com/careers/job/446704474013",
@@ -34787,24 +34814,11 @@
       ]
     },
     {
-      "id": "canonical:ee2ac1afa3058d54",
-      "title": "New Analyst - Engineering",
-      "url": "https://higher.gs.com/roles/171569?type=students",
+      "id": "canonical:f2848f41baf426f0",
+      "title": "Corporate Planning & Management-Senior Analyst-Quantitative Engineering",
+      "url": "https://higher.gs.com/roles/180216",
       "location": "NYC",
-      "department": "Software",
-      "company": "Goldman Sachs",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:5ccbdd16c804408f",
-      "title": "Engineering New Analyst",
-      "url": "https://higher.gs.com/roles/171568?type=students",
-      "location": "Dallas, TX",
-      "department": "Software",
+      "department": "AI/ML/Data",
       "company": "Goldman Sachs",
       "score": 85,
       "scoreReasons": [
@@ -34836,34 +34850,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:14f21457058d1e11",
-      "title": "Data Scientist",
-      "url": "https://jobs.ashbyhq.com/sciemo/63626f61-8507-482c-8beb-56efcbb55cee/application?embed=true",
-      "location": "Research Triangle Park, Durham, NC / Philadelphia, PA / NYC / Atlanta, GA",
-      "department": "AI/ML/Data",
-      "company": "Sciemo",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:ef816cf50608fc3b",
-      "title": "Engineering Aide",
-      "url": "https://oakgov.wd5.myworkdayjobs.com/careers/job/Waterford-Michigan-United-States/Engineering-Aide--WRC_JR-0000739",
-      "location": "Waterford Twp, MI",
-      "department": "AI/ML/Data",
-      "company": "Oakland County, Michigan",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -37716,6 +37702,20 @@
       ]
     },
     {
+      "id": "canonical:3f44cd57fca349f6",
+      "title": "Software Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/mcghealth/jobs/8350486002",
+      "location": "Seattle, WA",
+      "department": "Software Engineering",
+      "company": "MCG Health",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:6cc556235ad96392",
       "title": "Software Quality Assurance Engineer",
       "url": "https://uneekor.bamboohr.com/careers/119",
@@ -38284,6 +38284,20 @@
       ]
     },
     {
+      "id": "canonical:884f37722a72fa12",
+      "title": "Junior Software Engineer",
+      "url": "https://job-boards.greenhouse.io/oklo/jobs/5739861004",
+      "location": "Santa Clara, CA / Remote in USA",
+      "department": "Software Engineering",
+      "company": "Oklo",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:284d6cf656b00994",
       "title": "Research Scientist",
       "url": "https://www.rentec.com/Careers.action?jobs=true&selectedPosition=researchScientist",
@@ -38293,6 +38307,20 @@
       "score": 75,
       "scoreReasons": [
         "SWE-aligned"
+      ]
+    },
+    {
+      "id": "canonical:ef0953117b510fb9",
+      "title": "Junior Firmware Engineer",
+      "url": "https://job-boards.greenhouse.io/scoutai/jobs/4643333008",
+      "location": "Sunnyvale, CA",
+      "department": "Software Engineering",
+      "company": "Scout AI",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -38628,20 +38656,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:e22881e22c747207",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Software-Engineering-Intern--Summer-2027-_01867324",
-      "location": "US-IA-CEDAR RAPIDS-192 ~ 1205 Continental Place NE ~ BLDG 192",
-      "department": "Software / Summer 2027",
-      "company": "RTX",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -39218,6 +39232,20 @@
       "location": "New York",
       "department": "Quant / Summer 2027",
       "company": "Virtu Financial",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:e22881e22c747207",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Software-Engineering-Intern--Summer-2027-_01867324",
+      "location": "US-IA-CEDAR RAPIDS-192 ~ 1205 Continental Place NE ~ BLDG 192",
+      "department": "Software / Summer 2027",
+      "company": "RTX",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",

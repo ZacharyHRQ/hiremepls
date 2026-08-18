@@ -1,6 +1,6 @@
 # Open Internships
 
-**2665** internships across **188/188** companies — last updated 2026-08-18.
+**2667** internships across **188/188** companies — last updated 2026-08-18.
 
 ## Companies
 
@@ -373,7 +373,6 @@
 - [Gartner](#gartner) (1)
 - [GE Healthcare](#ge-healthcare) (1)
 - [GE Vernova](#ge-vernova) (1)
-- [Gearset](#gearset) (1)
 - [Gecko Robotics](#gecko-robotics) (1)
 - [Gemini](#gemini) (1)
 - [Generac](#generac) (3)
@@ -399,7 +398,7 @@
 - [Globus Medical](#globus-medical) (1)
 - [GM financial](#gm-financial) (2)
 - [GoDaddy](#godaddy) (1)
-- [Goldman Sachs](#goldman-sachs) (4)
+- [Goldman Sachs](#goldman-sachs) (5)
 - [Google](#google) (10)
 - [Gradient Robotics](#gradient-robotics) (1)
 - [Gritt Robotics Inc](#gritt-robotics-inc) (1)
@@ -584,6 +583,7 @@
 - [Maya HTT](#maya-htt) (2)
 - [McDonald's](#mcdonald-s) (1)
 - [McDonald's Corporation](#mcdonald-s-corporation) (1)
+- [MCG Health](#mcg-health) (1)
 - [Mechanize](#mechanize) (1)
 - [Medical College of Wisconsin](#medical-college-of-wisconsin) (1)
 - [Medpace](#medpace) (1)
@@ -669,6 +669,7 @@
 - [Obsidian Solutions Group](#obsidian-solutions-group) (1)
 - [Occidental Petroleum](#occidental-petroleum) (1)
 - [Octaura](#octaura) (1)
+- [Oklo](#oklo) (1)
 - [Old Mission](#old-mission) (4)
 - [Old Mission Capital](#old-mission-capital) (1)
 - [Oligo Space](#oligo-space) (1)
@@ -819,6 +820,7 @@
 - [Schweitzer Engineering Laboratories](#schweitzer-engineering-laboratories) (3)
 - [Sciemo](#sciemo) (1)
 - [Scott Logic](#scott-logic) (1)
+- [Scout AI](#scout-ai) (1)
 - [Seagate Technology ](#seagate-technology) (3)
 - [Selector Software](#selector-software) (1)
 - [Semtech](#semtech) (1)
@@ -1000,7 +1002,6 @@
 - [Vector Atomic](#vector-atomic) (1)
 - [Veeda AI](#veeda-ai) (1)
 - [Veeva Systems](#veeva-systems) (4)
-- [Verizon Communications](#verizon-communications) (1)
 - [Verne Robotics](#verne-robotics) (1)
 - [Verse Medical](#verse-medical) (1)
 - [Vertiv](#vertiv) (2)
@@ -3805,12 +3806,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer - Transmission](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova-Software-Engineer--Transmission_R5048311-3) | 93 | Bellevue, WA | Software | 2026-08-17 |
 
-## Gearset
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Graduate Software Engineer](https://jobs.ashbyhq.com/gearset/4584873d-9645-4241-84bc-36cc4c504e7e/application?embed=true) | 99 | Cambridge, UK | Software | 2026-08-17 |
-
 ## Gecko Robotics
 
 | Title | Score | Location | Department | First seen |
@@ -3988,6 +3983,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Corporate Planning & Management-Senior Analyst-Quantitative Engineering](https://higher.gs.com/roles/180216) | 85 | NYC | AI/ML/Data | 2026-08-18 |
 | [Engineering New Analyst](https://higher.gs.com/roles/171568?type=students) | 85 | Dallas, TX | Software | 2026-08-18 |
 | [New Analyst - Engineering](https://higher.gs.com/roles/171569?type=students) | 85 | NYC | Software | 2026-08-18 |
 | [Software Engineer](https://higher.gs.com/roles/179759) | 85 | Dallas, TX | AI/ML/Data | 2026-08-17 |
@@ -5297,6 +5293,12 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer I, iOS](https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-iOS-IL-60607/1322170500/) | 85 | Chicago, IL | — | 2026-08-17 |
 
+## MCG Health
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineering Intern](https://job-boards.greenhouse.io/mcghealth/jobs/8350486002) | 93 | Seattle, WA | Software Engineering | 2026-08-18 |
+
 ## Mechanize
 
 | Title | Score | Location | Department | First seen |
@@ -5921,6 +5923,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Intern – Data Engineering](https://job-boards.greenhouse.io/octaura/jobs/4662934007) | 93 | NYC | AI/ML/Data | 2026-07-13 |
+
+## Oklo
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Junior Software Engineer](https://job-boards.greenhouse.io/oklo/jobs/5739861004) | 93 | Santa Clara, CA / Remote in USA | Software Engineering | 2026-08-18 |
 
 ## Old Mission
 
@@ -7098,6 +7106,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Graduate Software Developer](https://jobs.lever.co/scottlogic/9184c6d5-3adc-4043-a1d4-44da49f14e60/apply) | 99 | Newcastle upon Tyne, UK | Software | 2026-08-17 |
+
+## Scout AI
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Junior Firmware Engineer](https://job-boards.greenhouse.io/scoutai/jobs/4643333008) | 93 | Sunnyvale, CA | Software Engineering | 2026-08-18 |
 
 ## Seagate Technology 
 
@@ -8598,12 +8612,6 @@
 | [Associate Software Engineer - Engineering Development Program](https://jobs.lever.co/veeva/907dccc7-0052-41e9-920b-28e5ba6aaba9/apply) | 93 | Columbus, OH | Software | 2026-08-17 |
 | [Associate Software Engineer - Engineering Development Program](https://jobs.lever.co/veeva/52ba79af-1086-457d-b5d2-8e184f111ffd/apply) | 93 | Boston, MA | Software | 2026-08-17 |
 | [Associate Software Engineer - Engineering Development Program](https://jobs.lever.co/veeva/54f473e7-f225-44b3-beb7-b5d50403fe02/apply) | 93 | Toronto, ON, Canada | Software | 2026-08-17 |
-
-## Verizon Communications
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Engineer 1 - Systems Engineering](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Temple-Terrace-Florida/Engineer-I---Systems-Engineering_R-1097946) | 93 | E Fowler Ave, Tampa, FL | AI/ML/Data | 2026-08-17 |
 
 ## Verne Robotics
 
