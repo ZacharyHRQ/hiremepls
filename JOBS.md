@@ -1,6 +1,6 @@
 # Open Internships
 
-**2669** internships across **188/188** companies — last updated 2026-08-18.
+**2670** internships across **188/188** companies — last updated 2026-08-18.
 
 ## Companies
 
@@ -854,6 +854,7 @@
 - [SMX](#smx) (1)
 - [Snap](#snap) (1)
 - [Snap-on](#snap-on) (1)
+- [Snorkel AI](#snorkel-ai) (1)
 - [Snowflake](#snowflake) (5)
 - [SOCOTEC Global](#socotec-global) (1)
 - [SoFi](#sofi) (1)
@@ -4874,8 +4875,8 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Application Developer Associate](https://jobs.l3harris.com/job/Melbourne-Associate,-Application-Developer-FL-32919/1420524300/?ats=successfactors) | 85 | Melbourne, FL | Software | 2026-08-18 |
-| [Software Engineer Intern](https://jobs.l3harris.com/job/Greenville-Intern,-Software-Engineer-Spring-2027-TX-75402/1420331200/?ats=successfactors) | 85 | Greenville, TX | Hardware | 2026-08-18 |
 | [Software Engineer Intern](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1420340500/?ats=successfactors) | 85 | Palm Bay, FL | Hardware | 2026-08-18 |
+| [Software Engineer Intern](https://jobs.l3harris.com/job/Greenville-Intern,-Software-Engineer-Spring-2027-TX-75402/1420331200/?ats=successfactors) | 85 | Greenville, TX | Hardware | 2026-08-18 |
 | [Associate Software Engineer](https://jobs.l3harris.com/job/Clifton-Associate,-Software-Engineering-NJ-07014/1420387700/?ats=successfactors) | 85 | Clifton, NJ | Software | 2026-08-18 |
 | [Associate Software Engineer](https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineering-FL-32905-4101/1420103700/?ats=successfactors) | 85 | Palm Bay, FL | Hardware | 2026-08-17 |
 | [Associate Software Engineer](https://jobs.l3harris.com/job/Clifton-Associate,-Software-Engineer-NJ-07014/1420248200/?ats=successfactors) | 85 | Clinton, MD / Clifton, NJ | Hardware | 2026-08-17 |
@@ -7324,6 +7325,12 @@
 | --- | --- | --- | --- | --- |
 | [Support Engineer](https://careers-snapon.icims.com/jobs/20333/job?mobile=true&needsRedirect=false) | 85 | Kenosha, WI | Software | 2026-08-17 |
 
+## Snorkel AI
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI Researcher —  Intern](https://job-boards.greenhouse.io/snorkelai/jobs/6146378004) | 93 | New York City, NY (Hybrid) | Data & ML/AI / Not stated | 2026-08-18 |
+
 ## Snowflake
 
 | Title | Score | Location | Department | First seen |
@@ -7533,7 +7540,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer New Grad](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-792647) | 99 | Burlington, MA | Software | 2026-08-17 |
+| [Software Engineer New Grad](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-795953) | 99 | Burlington, MA | Software | 2026-08-17 |
 | [Full Stack Software Engineer - Officer](https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Full-Stack-Software-Engineer--Officer_R-792060) | 93 | Toronto, ON, Canada | Software | 2026-08-17 |
 
 ## Stellar Science
