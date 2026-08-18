@@ -17,10 +17,10 @@
     "4907368101",
     "4912325101",
     "4892687101",
-    "4818790101",
     "4917773101",
-    "4564480101",
+    "4818790101",
     "4635938101",
+    "4564480101",
     "4667814101",
     "4932192101",
     "4577504101",
@@ -45,9 +45,9 @@
     "7982648",
     "7975026",
     "8002989",
-    "8000323",
     "8007788",
     "8027952",
+    "8000323",
     "7565728",
     "8003019",
     "7974943"
@@ -55,10 +55,10 @@
   "DRW": [
     "7997729",
     "7981754",
+    "7992936",
+    "8020364",
     "7942281",
     "7991196",
-    "8020364",
-    "7992936",
     "8014910",
     "8127242"
   ],
@@ -120,8 +120,8 @@
     "7e0dafe8-3eec-442e-aa76-a4d84d779fb1"
   ],
   "Stripe": [
-    "8031833",
-    "8097801"
+    "8097801",
+    "8031833"
   ],
   "Databricks": [
     "7011263002"
@@ -133,9 +133,9 @@
   ],
   "MongoDB": [],
   "Cloudflare": [
+    "8089400",
     "8089407",
     "8089379",
-    "8089400",
     "8118845",
     "8052785"
   ],
@@ -1401,7 +1401,6 @@
     "github-json:zshah101-summer-2027-fall-2026:workday:copart:/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109441",
     "github-json:zshah101-summer-2027-fall-2026:lever:solopulseco:00fbde18-a387-4c9f-97d4-77059aec7b56",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:voloridgeinvestmentmanagement:4224862009",
-    "github-json:zshah101-summer-2027-fall-2026:greenhouse:andurilindustries:5148079007",
     "github-json:zshah101-summer-2027-fall-2026:ashby:beaconsoftware:2452d342-a069-4eda-adbe-9df296808ca1",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:walleyecapital-external-students:4679168006",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:astranis:4681183006",
@@ -2198,7 +2197,6 @@
     "simplify:88a8e50a-7fc5-4f13-97c6-fe8a2e9db33c",
     "simplify:f76334f0-b144-4ec8-9a36-f7bab853e4e7",
     "simplify:d15c2dd4-7288-4110-bf59-550c753167ab",
-    "simplify:aed64cac-7a3d-4140-a085-279c03698a7b",
     "simplify:1ed38264-654d-4366-b1fc-9e0df58b47a0",
     "simplify:8876789e-be2c-4a8f-9478-572e3f0085cb",
     "simplify:449fbbfa-ffc9-46b4-8983-f3bb67052e03",
@@ -3066,7 +3064,6 @@
     "simplify:88a8e50a-7fc5-4f13-97c6-fe8a2e9db33c",
     "simplify:f76334f0-b144-4ec8-9a36-f7bab853e4e7",
     "simplify:d15c2dd4-7288-4110-bf59-550c753167ab",
-    "simplify:aed64cac-7a3d-4140-a085-279c03698a7b",
     "simplify:1ed38264-654d-4366-b1fc-9e0df58b47a0",
     "simplify:8876789e-be2c-4a8f-9478-572e3f0085cb",
     "simplify:449fbbfa-ffc9-46b4-8983-f3bb67052e03",
