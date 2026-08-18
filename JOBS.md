@@ -1,6 +1,6 @@
 # Open Internships
 
-**2670** internships across **188/188** companies — last updated 2026-08-18.
+**2671** internships across **188/188** companies — last updated 2026-08-18.
 
 ## Companies
 
@@ -1017,7 +1017,7 @@
 - [Vytalize Health](#vytalize-health) (1)
 - [W.W. Grainger](#w-w-grainger) (1)
 - [Walgreens](#walgreens) (1)
-- [Walleye Capital](#walleye-capital) (3)
+- [Walleye Capital](#walleye-capital) (4)
 - [WallStreetQuants](#wallstreetquants) (4)
 - [Walmart](#walmart) (1)
 - [Wanderlog](#wanderlog) (1)
@@ -8724,6 +8724,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Equity Volatility Quant Researcher Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006) | 93 | Miami, FL | — | 2026-08-18 |
 | [Quantitative Researcher - Single Stock Volatility](https://job-boards.greenhouse.io/walleyecapital-external-fulltime/jobs/4690167006) | 93 | Miami, FL | Quant | 2026-08-17 |
 | [Quantitative Developer Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) | 93 | Boston, MA | Quant | 2026-08-04 |
 | [PhD Quantitative Researcher Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679184006) | 93 | Boston, MA | Quant | 2026-07-20 |

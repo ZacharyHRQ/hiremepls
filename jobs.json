@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-18T18:21:27.600Z",
+  "generatedAt": "2026-08-18T19:04:24.064Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2670,
+  "jobCount": 2671,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2673,7 +2673,8 @@
     "canonical:ef0953117b510fb9": "2026-08-18T17:49:56.686Z",
     "canonical:1ae22981c8ef9f13": "2026-08-18T18:21:27.600Z",
     "canonical:3f44cd57fca349f6": "2026-08-18T18:21:27.600Z",
-    "canonical:00053ae33decdf2c": "2026-08-18T18:21:27.600Z"
+    "canonical:00053ae33decdf2c": "2026-08-18T18:21:27.600Z",
+    "canonical:ee1aa41013faee51": "2026-08-18T19:04:24.064Z"
   },
   "jobs": [
     {
@@ -5553,6 +5554,20 @@
       ]
     },
     {
+      "id": "canonical:3f44cd57fca349f6",
+      "title": "Software Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/mcghealth/jobs/8350486002",
+      "location": "Seattle, WA",
+      "department": "Software Engineering",
+      "company": "MCG Health",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:5c5c4aaee7bd2d24",
       "title": "Embedded Software Developer – Network/Payload Software Intern",
       "url": "https://job-boards.greenhouse.io/astranis/jobs/4601135006",
@@ -5624,6 +5639,19 @@
       "id": "canonical:43c945396857ea6b",
       "title": "AI Engineer Intern - BCG X",
       "url": "https://careers.bcg.com/global/en/job/56635",
+      "location": "London, UK",
+      "department": "AI/ML/Data",
+      "company": "Boston Consulting Group",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:a356ac432d4a0c77",
+      "title": "Data Scientist Intern",
+      "url": "https://careers.bcg.com/global/en/job/56634",
       "location": "London, UK",
       "department": "AI/ML/Data",
       "company": "Boston Consulting Group",
@@ -6234,6 +6262,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:1ae22981c8ef9f13",
+      "title": "Software Engineering Intern - Test Automation",
+      "url": "https://job-boards.greenhouse.io/digs/jobs/4663939006",
+      "location": "Vancouver, WA",
+      "department": "Software Engineering",
+      "company": "Digs",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -13799,19 +13841,6 @@
       ]
     },
     {
-      "id": "canonical:a356ac432d4a0c77",
-      "title": "Data Scientist Intern",
-      "url": "https://careers.bcg.com/global/en/job/56634",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "Boston Consulting Group",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:12cd06c0eec80152",
       "title": "Frontend Software Engineer Intern",
       "url": "https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c",
@@ -16370,6 +16399,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:00053ae33decdf2c",
+      "title": "Junior Software Engineer",
+      "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5085231007",
+      "location": "Chicago, IL",
+      "department": "Software Engineering",
+      "company": "Geneva Trading",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -34293,6 +34336,20 @@
       ]
     },
     {
+      "id": "canonical:6fda02ae59b09506",
+      "title": "Machine Learning Engineer - Associate",
+      "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4356977009",
+      "location": "El Segundo, CA",
+      "department": "AI/ML/Data",
+      "company": "Voyager Technologies",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:85084b94748401ec",
       "title": "Entry Level Software Engineer",
       "url": "https://jobs.smartrecruiters.com/NextCenturyCorporation/106031601",
@@ -34742,20 +34799,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:6fda02ae59b09506",
-      "title": "Machine Learning Engineer - Associate",
-      "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4356977009",
-      "location": "El Segundo, CA",
-      "department": "AI/ML/Data",
-      "company": "Voyager Technologies",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -35294,6 +35337,20 @@
       ]
     },
     {
+      "id": "canonical:4a77656807157e3b",
+      "title": "Graduate C++ Software Engineer",
+      "url": "https://davincitrading.com/job/graduate-c-software-engineer-2/",
+      "location": "Miami, FL",
+      "department": "",
+      "company": "Da Vinci",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
+      ]
+    },
+    {
       "id": "canonical:a10cd2bdc9c86198",
       "title": "New Grad: Software Engineer",
       "url": "https://www.collective.com/careers/6614825003",
@@ -35331,20 +35388,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:4a77656807157e3b",
-      "title": "Graduate C++ Software Engineer",
-      "url": "https://davincitrading.com/job/graduate-c-software-engineer-2/",
-      "location": "Miami, FL",
-      "department": "",
-      "company": "Da Vinci",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad"
       ]
     },
     {
@@ -36846,20 +36889,6 @@
       ]
     },
     {
-      "id": "canonical:1ae22981c8ef9f13",
-      "title": "Software Engineering Intern - Test Automation",
-      "url": "https://job-boards.greenhouse.io/digs/jobs/4663939006",
-      "location": "Vancouver, WA",
-      "department": "Software Engineering",
-      "company": "Digs",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:bbe5c11fa37f9352",
       "title": "Associate Software Engineer",
       "url": "https://careers.unitedhealthgroup.com/job/22310390/associate-software-engineer-vancouver-ca/",
@@ -37264,20 +37293,6 @@
       "location": "NYC",
       "department": "",
       "company": "Ellipsis Labs",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:3f44cd57fca349f6",
-      "title": "Software Engineering Intern",
-      "url": "https://job-boards.greenhouse.io/mcghealth/jobs/8350486002",
-      "location": "Seattle, WA",
-      "department": "Software Engineering",
-      "company": "MCG Health",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -38038,20 +38053,6 @@
       ]
     },
     {
-      "id": "canonical:00053ae33decdf2c",
-      "title": "Junior Software Engineer",
-      "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5085231007",
-      "location": "Chicago, IL",
-      "department": "Software Engineering",
-      "company": "Geneva Trading",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:d09e3d5289fb13b5",
       "title": "Product Software Engineer",
       "url": "https://careers.qualcomm.com/careers/job/446715361809",
@@ -38103,6 +38104,20 @@
       "score": 75,
       "scoreReasons": [
         "SWE-aligned"
+      ]
+    },
+    {
+      "id": "canonical:ee1aa41013faee51",
+      "title": "Equity Volatility Quant Researcher Intern",
+      "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006",
+      "location": "Miami, FL",
+      "department": "",
+      "company": "Walleye Capital",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -38651,6 +38666,20 @@
       "location": "Austin, TX USA",
       "department": "Software / Summer 2027",
       "company": "PIMCO",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:04727e1d227d7e82",
+      "title": "Intern - AI Innovation Engineer",
+      "url": "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ASC-Atlanta-HQ-GA/AI-Innovation-Engineer_REQ_93190",
+      "location": "ASC Atlanta HQ GA",
+      "department": "Data & ML/AI / Not stated",
+      "company": "Amcor",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -39274,20 +39303,6 @@
       "location": "New York",
       "department": "Quant / Summer 2027",
       "company": "Virtu Financial",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:04727e1d227d7e82",
-      "title": "Intern - AI Innovation Engineer",
-      "url": "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ASC-Atlanta-HQ-GA/AI-Innovation-Engineer_REQ_93190",
-      "location": "ASC Atlanta HQ GA",
-      "department": "Data & ML/AI / Not stated",
-      "company": "Amcor",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
