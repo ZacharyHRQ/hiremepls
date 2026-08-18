@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-18T10:02:17.034Z",
+  "generatedAt": "2026-08-18T10:44:19.926Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2667,
+  "jobCount": 2666,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -760,7 +760,6 @@
     "canonical:84b32739e26a143e": "2026-08-14T09:41:28.560Z",
     "canonical:1f8be94ab116ffd4": "2026-08-14T10:38:55.819Z",
     "canonical:c246f55f8c194616": "2026-08-14T15:28:02.269Z",
-    "canonical:5cab31cbf6934d69": "2026-08-14T18:12:14.855Z",
     "canonical:93b116c97812aac7": "2026-08-14T18:12:14.855Z",
     "canonical:4d78f79e8d1374e1": "2026-08-14T18:12:14.855Z",
     "canonical:4f9dd5454ba6f609": "2026-08-14T19:12:10.235Z",
@@ -2636,7 +2635,6 @@
     "canonical:86e72182a119b906": "2026-08-18T07:12:07.808Z",
     "canonical:4bd513dd2f0b9377": "2026-08-18T07:12:07.808Z",
     "canonical:0cbdbf83c130ed28": "2026-08-18T07:12:07.808Z",
-    "canonical:a3efb216ce332dd9": "2026-08-18T07:12:07.808Z",
     "canonical:ec8eec6143922e01": "2026-08-18T07:12:07.808Z",
     "canonical:a27088b255df501a": "2026-08-18T07:12:07.808Z",
     "canonical:a09b5a1047bf1b8e": "2026-08-18T07:12:07.808Z",
@@ -2670,7 +2668,8 @@
     "canonical:f2848f41baf426f0": "2026-08-18T10:02:17.034Z",
     "canonical:3f44cd57fca349f6": "2026-08-18T10:02:17.034Z",
     "canonical:884f37722a72fa12": "2026-08-18T10:02:17.034Z",
-    "canonical:ef0953117b510fb9": "2026-08-18T10:02:17.034Z"
+    "canonical:ef0953117b510fb9": "2026-08-18T10:02:17.034Z",
+    "canonical:7ded916c6253be2f": "2026-08-18T10:44:19.926Z"
   },
   "jobs": [
     {
@@ -5530,6 +5529,20 @@
       "location": "Germantown, MD",
       "department": "Software Engineering",
       "company": "AeroVironment",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:3f44cd57fca349f6",
+      "title": "Software Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/mcghealth/jobs/8350486002",
+      "location": "Seattle, WA",
+      "department": "Software Engineering",
+      "company": "MCG Health",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -12847,19 +12860,6 @@
       ]
     },
     {
-      "id": "canonical:5cab31cbf6934d69",
-      "title": "AI Engineer Intern - Innovation Team",
-      "url": "https://www.dmgmedia.co.uk/careers/jobs/id/8130352?gh_jid=8130352",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "Dmg Media",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:93b116c97812aac7",
       "title": "Benefit Tool Developer Intern - Month Fixed Term Contract",
       "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-AC-ABERDEEN-BAKER-HUGHES-BUILDING/Intern---Benefit-Tool-Developer--12-Month-Fixed-Term-Contract-_R168066",
@@ -13381,19 +13381,6 @@
       ]
     },
     {
-      "id": "canonical:ca7fcbc3751099fe",
-      "title": "AI Engineer Intern - Enterprise Technology Services",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011796",
-      "location": "Atlanta, GA",
-      "department": "AI/ML/Data",
-      "company": "American Express",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:1e7fe10a47407db7",
       "title": "Quantitative Researcher Intern",
       "url": "https://job-boards.greenhouse.io/xantium/jobs/4371217009",
@@ -13414,58 +13401,6 @@
       "location": "San Jose, CA",
       "department": "Software",
       "company": "ByteDance",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:15e286d884d22a26",
-      "title": "AI Engineer Intern - Enterprise Technology Services",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698",
-      "location": "NYC",
-      "department": "Software",
-      "company": "American Express",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:227436644095736b",
-      "title": "Software Engineer Intern - Enterprise Technology Services",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011084",
-      "location": "Sunrise, FL",
-      "department": "Software",
-      "company": "American Express",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:62c18a5a10bf3a8d",
-      "title": "AI Engineer Intern - Enterprise Technology Services",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011999",
-      "location": "Sunrise, FL",
-      "department": "AI/ML/Data",
-      "company": "American Express",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:d1d2df6182289bca",
-      "title": "Software Engineer Intern - Technology",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970",
-      "location": "NYC",
-      "department": "Software",
-      "company": "American Express",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -13704,6 +13639,19 @@
       ]
     },
     {
+      "id": "canonical:15e286d884d22a26",
+      "title": "AI Engineer Intern - Enterprise Technology Services",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698",
+      "location": "NYC",
+      "department": "Software",
+      "company": "American Express",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:86e72182a119b906",
       "title": "Conversion Systems Engineer 1 Intern",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion-Systems-Engineer-I--Onsite-_01866833",
@@ -13727,19 +13675,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:a3efb216ce332dd9",
-      "title": "Systems Engineering Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/XMLNAME-2027-Portsmouth-Systems-Engineering-Intern_01867557",
-      "location": "Portsmouth, RI",
-      "department": "Hardware",
-      "company": "RTX",
-      "score": 83,
-      "scoreReasons": [
-        "SWE-aligned",
         "direct ATS"
       ]
     },
@@ -13799,6 +13734,19 @@
       ]
     },
     {
+      "id": "canonical:ca7fcbc3751099fe",
+      "title": "AI Engineer Intern - Enterprise Technology Services",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000",
+      "location": "Atlanta, GA",
+      "department": "Software",
+      "company": "American Express",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:e8b5108055d8c541",
       "title": "Software Engineer Intern",
       "url": "https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1420340500/?ats=successfactors",
@@ -13844,6 +13792,45 @@
       "location": "San Jose, CA",
       "department": "Software",
       "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:d1d2df6182289bca",
+      "title": "Software Engineer Intern - Technology",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970",
+      "location": "NYC",
+      "department": "Software",
+      "company": "American Express",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:62c18a5a10bf3a8d",
+      "title": "AI Engineer Intern - Enterprise Technology Services",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011999",
+      "location": "Sunrise, FL",
+      "department": "AI/ML/Data",
+      "company": "American Express",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:227436644095736b",
+      "title": "Software Engineer Intern - Enterprise Technology Services",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011084",
+      "location": "Sunrise, FL",
+      "department": "Software",
+      "company": "American Express",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -15169,6 +15156,20 @@
       "location": "Santa Clara, CA",
       "department": "",
       "company": "NVIDIA",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:884f37722a72fa12",
+      "title": "Junior Software Engineer",
+      "url": "https://job-boards.greenhouse.io/oklo/jobs/5739861004",
+      "location": "Santa Clara, CA / Remote in USA",
+      "department": "Software Engineering",
+      "company": "Oklo",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -16604,6 +16605,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:ef0953117b510fb9",
+      "title": "Junior Firmware Engineer",
+      "url": "https://job-boards.greenhouse.io/scoutai/jobs/4643333008",
+      "location": "Sunnyvale, CA",
+      "department": "Software Engineering",
+      "company": "Scout AI",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -24319,6 +24334,19 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f2848f41baf426f0",
+      "title": "Corporate Planning & Management-Senior Analyst-Quantitative Engineering",
+      "url": "https://higher.gs.com/roles/180216",
+      "location": "NYC",
+      "department": "AI/ML/Data",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
@@ -34814,19 +34842,6 @@
       ]
     },
     {
-      "id": "canonical:f2848f41baf426f0",
-      "title": "Corporate Planning & Management-Senior Analyst-Quantitative Engineering",
-      "url": "https://higher.gs.com/roles/180216",
-      "location": "NYC",
-      "department": "AI/ML/Data",
-      "company": "Goldman Sachs",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:461ea1c070649acf",
       "title": "Software Engineer I - Membership",
       "url": "https://join.softheon.com/_/j/4AFE55D62D/",
@@ -37702,20 +37717,6 @@
       ]
     },
     {
-      "id": "canonical:3f44cd57fca349f6",
-      "title": "Software Engineering Intern",
-      "url": "https://job-boards.greenhouse.io/mcghealth/jobs/8350486002",
-      "location": "Seattle, WA",
-      "department": "Software Engineering",
-      "company": "MCG Health",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:6cc556235ad96392",
       "title": "Software Quality Assurance Engineer",
       "url": "https://uneekor.bamboohr.com/careers/119",
@@ -38284,20 +38285,6 @@
       ]
     },
     {
-      "id": "canonical:884f37722a72fa12",
-      "title": "Junior Software Engineer",
-      "url": "https://job-boards.greenhouse.io/oklo/jobs/5739861004",
-      "location": "Santa Clara, CA / Remote in USA",
-      "department": "Software Engineering",
-      "company": "Oklo",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:284d6cf656b00994",
       "title": "Research Scientist",
       "url": "https://www.rentec.com/Careers.action?jobs=true&selectedPosition=researchScientist",
@@ -38310,12 +38297,12 @@
       ]
     },
     {
-      "id": "canonical:ef0953117b510fb9",
-      "title": "Junior Firmware Engineer",
-      "url": "https://job-boards.greenhouse.io/scoutai/jobs/4643333008",
-      "location": "Sunnyvale, CA",
-      "department": "Software Engineering",
-      "company": "Scout AI",
+      "id": "canonical:7ded916c6253be2f",
+      "title": "Quantitative Developer Intern",
+      "url": "https://job-boards.greenhouse.io/embed/job_app?for=point72&jr_id=6a07069024dcb03739f1ec72&token=7297613002",
+      "location": "New York, NY",
+      "department": "",
+      "company": "Cubist Systematic Strategies",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -38656,6 +38643,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:e22881e22c747207",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Software-Engineering-Intern--Summer-2027-_01867324",
+      "location": "US-IA-CEDAR RAPIDS-192 ~ 1205 Continental Place NE ~ BLDG 192",
+      "department": "Software / Summer 2027",
+      "company": "RTX",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -39232,20 +39233,6 @@
       "location": "New York",
       "department": "Quant / Summer 2027",
       "company": "Virtu Financial",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:e22881e22c747207",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Software-Engineering-Intern--Summer-2027-_01867324",
-      "location": "US-IA-CEDAR RAPIDS-192 ~ 1205 Continental Place NE ~ BLDG 192",
-      "department": "Software / Summer 2027",
-      "company": "RTX",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
