@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T12:42:12.154Z",
+  "generatedAt": "2026-08-18T13:28:24.018Z",
   "companyCount": 188,
   "okCount": 188,
   "jobCount": 2665,
@@ -2639,7 +2639,6 @@
     "canonical:b104ffba93a62672": "2026-08-18T07:12:07.808Z",
     "canonical:ef47fb1f704c40a1": "2026-08-18T07:12:07.808Z",
     "canonical:e8b343368106d72f": "2026-08-18T07:12:07.808Z",
-    "canonical:d96ff33088b8a015": "2026-08-18T07:12:07.808Z",
     "canonical:409ff167ee7ac9b7": "2026-08-18T07:12:07.808Z",
     "canonical:4f705bb50e66aceb": "2026-08-18T07:12:07.808Z",
     "canonical:58cfbf0f6691fad1": "2026-08-18T07:12:07.808Z",
@@ -2668,7 +2667,8 @@
     "canonical:fe90dfa65c7919d1": "2026-08-18T11:36:44.628Z",
     "canonical:04727e1d227d7e82": "2026-08-18T11:58:32.777Z",
     "canonical:4a77656807157e3b": "2026-08-18T11:58:32.777Z",
-    "canonical:39dcfeb3006ec1b2": "2026-08-18T11:58:32.777Z"
+    "canonical:39dcfeb3006ec1b2": "2026-08-18T11:58:32.777Z",
+    "canonical:241f0a1cf5f5f8f1": "2026-08-18T13:28:24.018Z"
   },
   "jobs": [
     {
@@ -2717,6 +2717,19 @@
       "title": "Intern Software Developer - London - 2027",
       "url": "https://www.squarepoint-capital.com/open-opportunities?id=7231006&gh_jid=7231006",
       "location": "London",
+      "department": "",
+      "company": "Squarepoint Capital",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:241f0a1cf5f5f8f1",
+      "title": "Intern Software Developer - Montreal - 2027",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463",
+      "location": "Montreal",
       "department": "",
       "company": "Squarepoint Capital",
       "score": 85,
@@ -5202,10 +5215,10 @@
       ]
     },
     {
-      "id": "canonical:62beda5aaf0fcc6c",
+      "id": "canonical:e8a5b9fc6e1a4de2",
       "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
-      "location": "Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
+      "location": "Bengaluru",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -5215,10 +5228,10 @@
       ]
     },
     {
-      "id": "canonical:e8a5b9fc6e1a4de2",
+      "id": "canonical:62beda5aaf0fcc6c",
       "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
-      "location": "Bengaluru",
+      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
+      "location": "Dublin",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -5287,7 +5300,7 @@
     {
       "id": "canonical:1a056010d15d11c7",
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -5470,7 +5483,7 @@
       "title": "2027 Software Engineer Intern",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
       "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
-      "department": "Software / Summer 2027",
+      "department": "",
       "company": "Anduril",
       "score": 93,
       "scoreReasons": [
@@ -13743,6 +13756,58 @@
       ]
     },
     {
+      "id": "canonical:e8b5108055d8c541",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1420340500/?ats=successfactors",
+      "location": "Palm Bay, FL",
+      "department": "Hardware",
+      "company": "L3Harris Technologies",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:4576775faa318dce",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.l3harris.com/job/Greenville-Intern,-Software-Engineer-Spring-2027-TX-75402/1420331200/?ats=successfactors",
+      "location": "Greenville, TX",
+      "department": "Hardware",
+      "company": "L3Harris Technologies",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:70bd8031a4940b10",
+      "title": "Software Engineer Intern - TikTok Search Data Infrastructure",
+      "url": "https://lifeattiktok.com/search/7675129440242010421",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:42a7330880b6ac3d",
+      "title": "Software Engineer Intern - TikTok Search Data Infra",
+      "url": "https://lifeattiktok.com/search/7675128776856029445",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:0cbdbf83c130ed28",
       "title": "Software Engineer Intern - Intelligent Software & Systems",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineer-Intern--Onsite-_01866914",
@@ -13791,58 +13856,6 @@
       "location": "Appleton, WI",
       "department": "Software",
       "company": "Illinois Tool Works",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:e8b5108055d8c541",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1420340500/?ats=successfactors",
-      "location": "Palm Bay, FL",
-      "department": "Hardware",
-      "company": "L3Harris Technologies",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:4576775faa318dce",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.l3harris.com/job/Greenville-Intern,-Software-Engineer-Spring-2027-TX-75402/1420331200/?ats=successfactors",
-      "location": "Greenville, TX",
-      "department": "Hardware",
-      "company": "L3Harris Technologies",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:70bd8031a4940b10",
-      "title": "Software Engineer Intern - TikTok Search Data Infrastructure",
-      "url": "https://lifeattiktok.com/search/7675129440242010421",
-      "location": "San Jose, CA",
-      "department": "Software",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:42a7330880b6ac3d",
-      "title": "Software Engineer Intern - TikTok Search Data Infra",
-      "url": "https://lifeattiktok.com/search/7675128776856029445",
-      "location": "San Jose, CA",
-      "department": "Software",
-      "company": "TikTok",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -21222,20 +21235,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:ef47fb1f704c40a1",
-      "title": "Entry Level Application Engineer",
-      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/Entry-Level-Application-Engineer----2026-Start-Date_171145",
-      "location": "Charlotte, NC",
-      "department": "Software",
-      "company": "Vanguard",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -32063,19 +32062,6 @@
       ]
     },
     {
-      "id": "canonical:d96ff33088b8a015",
-      "title": "Software Engineer 1",
-      "url": "https://cdcn.avature.net/careers/JobDetail/8611",
-      "location": "Missoula, MT",
-      "department": "Software",
-      "company": "Consumer Direct Care Network",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:855e2decd095bf31",
       "title": "Entry Level Java Developer Associate",
       "url": "https://jobs.smartrecruiters.com/AccentureFederalServices/78366121",
@@ -34569,6 +34555,34 @@
       ]
     },
     {
+      "id": "canonical:a3538254574c4730",
+      "title": "Entry-Level Software Developer",
+      "url": "https://job-boards.greenhouse.io/cooksys/jobs/5386869008",
+      "location": "Nashville, TN",
+      "department": "Software",
+      "company": "Cook Systems",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ef47fb1f704c40a1",
+      "title": "Entry Level Application Engineer",
+      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/Entry-Level-Application-Engineer----2026-Start-Date_171145",
+      "location": "Charlotte, NC",
+      "department": "Software",
+      "company": "Vanguard",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:b104ffba93a62672",
       "title": "Software Engineer 2",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Software-Engineer-II--Onsite-_01864138",
@@ -34589,89 +34603,6 @@
       "location": "Cedar Rapids, IA",
       "department": "Software",
       "company": "RTX",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:a3538254574c4730",
-      "title": "Entry-Level Software Developer",
-      "url": "https://job-boards.greenhouse.io/cooksys/jobs/5386869008",
-      "location": "Nashville, TN",
-      "department": "Software",
-      "company": "Cook Systems",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:4f705bb50e66aceb",
-      "title": "Software Engineer New Grad",
-      "url": "https://nexthopai.bamboohr.com/careers/24/",
-      "location": "Santa Clara, CA",
-      "department": "Software",
-      "company": "Nexthop.ai",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad"
-      ]
-    },
-    {
-      "id": "canonical:5e3ef1447bd53c24",
-      "title": "Software Engineer - IS&T Early Career Opportunities",
-      "url": "https://jobs.apple.com/en-us/details/200678510",
-      "location": "Cupertino, CA / Sunnyvale, CA",
-      "department": "Software",
-      "company": "Apple",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:409ff167ee7ac9b7",
-      "title": "Software Engineer 1 - Observability & Insights",
-      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Software-Engineer-I_10157423",
-      "location": "Glendale, CA / NYC",
-      "department": "Software",
-      "company": "The Walt Disney Company",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:07a7e758f3ec5324",
-      "title": "Application Engineer - 2027 Start Date",
-      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/Entry-Level-Application-Engineer----2027-Start-Date_180412",
-      "location": "Charlotte, NC",
-      "department": "Software",
-      "company": "Vanguard",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:58cfbf0f6691fad1",
-      "title": "Entry Level Application Engineer",
-      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/Entry-Level-Application-Engineer---2027-Start-Date---Malvern_180413-1",
-      "location": "Malvern, PA",
-      "department": "Software",
-      "company": "Vanguard",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -34786,6 +34717,20 @@
       ]
     },
     {
+      "id": "canonical:4f705bb50e66aceb",
+      "title": "Software Engineer New Grad",
+      "url": "https://nexthopai.bamboohr.com/careers/24/",
+      "location": "Santa Clara, CA",
+      "department": "Software",
+      "company": "Nexthop.ai",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
+      ]
+    },
+    {
       "id": "canonical:74c2df6adfbdf397",
       "title": "Software Engineer, Builder Tools",
       "url": "https://careers.roblox.com/jobs/6759944",
@@ -34796,6 +34741,34 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:409ff167ee7ac9b7",
+      "title": "Software Engineer 1 - Observability & Insights",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Software-Engineer-I_10157423",
+      "location": "Glendale, CA / NYC",
+      "department": "Software",
+      "company": "The Walt Disney Company",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:07a7e758f3ec5324",
+      "title": "Application Engineer - 2027 Start Date",
+      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/Entry-Level-Application-Engineer----2027-Start-Date_180412",
+      "location": "Charlotte, NC",
+      "department": "Software",
+      "company": "Vanguard",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -34824,6 +34797,20 @@
         "SWE-aligned",
         "high-signal role",
         "new grad",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:58cfbf0f6691fad1",
+      "title": "Entry Level Application Engineer",
+      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/Entry-Level-Application-Engineer---2027-Start-Date---Malvern_180413-1",
+      "location": "Malvern, PA",
+      "department": "Software",
+      "company": "Vanguard",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
         "direct ATS"
       ]
     },
@@ -37298,6 +37285,19 @@
         "high-signal role",
         "new grad",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:5e3ef1447bd53c24",
+      "title": "Software Engineer - IS&T Early Career Opportunities",
+      "url": "https://jobs.apple.com/en-us/details/200678510",
+      "location": "Cupertino, CA / Sunnyvale, CA",
+      "department": "Software",
+      "company": "Apple",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {

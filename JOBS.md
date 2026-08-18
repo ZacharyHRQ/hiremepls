@@ -231,7 +231,6 @@
 - [Confido](#confido) (1)
 - [Constellation Energy](#constellation-energy) (1)
 - [Constellation Space](#constellation-space) (1)
-- [Consumer Direct Care Network](#consumer-direct-care-network) (1)
 - [Cook Systems](#cook-systems) (1)
 - [Copart](#copart) (5)
 - [Core & Main](#core-main) (2)
@@ -876,7 +875,7 @@
 - [SpreeAI](#spreeai) (1)
 - [SPREEAI](#spreeai) (1)
 - [SpreeAI ](#spreeai) (3)
-- [Squarepoint Capital](#squarepoint-capital) (8)
+- [Squarepoint Capital](#squarepoint-capital) (9)
 - [SquareTrade](#squaretrade) (1)
 - [Starbucks](#starbucks) (2)
 - [State Farm](#state-farm) (1)
@@ -1486,7 +1485,7 @@
 | [Early Career Firmware Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5167865007) | 83 | Newport Beach, CA | Hardware | 2026-08-17 |
 | [Early Career Firmware Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5167865007?gh_jid=5167865007) | 83 | Costa Mesa, California, United States | — | 2026-08-17 |
 | [Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148079007) | 93 | Boston, MA / Seattle, WA / Newport Beach, CA / Irvine, CA / Reston, VA / Atlanta, GA | Software | 2026-07-20 |
-| [2027 Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) | 93 | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | Software / Summer 2027 | 2026-07-13 |
+| [2027 Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) | 93 | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | — | 2026-07-13 |
 
 ## Anduril Industries
 
@@ -2752,7 +2751,7 @@
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
 | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -2852,12 +2851,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Graduate Researcher Intern - Machine Learning](https://jobs.ashbyhq.com/constellationspace/b763d4ba-7b77-479b-89a0-f632d9d02f4a/application?embed=true) | 99 | Seattle, WA | AI/ML/Data | 2026-08-01 |
-
-## Consumer Direct Care Network
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer 1](https://cdcn.avature.net/careers/JobDetail/8611) | 85 | Missoula, MT | Software | 2026-08-18 |
 
 ## Cook Systems
 
@@ -7498,6 +7491,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Intern Software Developer - Montreal - 2027](https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463) | 85 | Montreal | — | 2026-08-18 |
 | [Graduate Quant Developer](https://boards.greenhouse.io/embed/job_app?token=7918610) | 99 | Montreal, QC, Canada / London, UK | Quant | 2026-08-17 |
 | [Intern Software Developer - Summer 2026](https://boards.greenhouse.io/embed/job_app?token=7231006) | 93 | Montreal, QC, Canada / London, UK | Software | 2026-08-10 |
 | [Intern Software Developer - London - 2027](https://www.squarepoint-capital.com/open-opportunities?id=7231006&gh_jid=7231006) | 85 | London | — | 2026-08-10 |
