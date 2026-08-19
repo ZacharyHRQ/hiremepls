@@ -1,6 +1,6 @@
 # Open Internships
 
-**2694** internships across **188/188** companies — last updated 2026-08-19.
+**2690** internships across **188/188** companies — last updated 2026-08-19.
 
 ## Companies
 
@@ -93,7 +93,6 @@
 - [Artisan Partners](#artisan-partners) (1)
 - [Ashby](#ashby) (1)
 - [ASM International](#asm-international) (1)
-- [ASML](#asml) (1)
 - [ASSA ABLOY](#assa-abloy) (1)
 - [ASSYST](#assyst) (1)
 - [Astera](#astera) (2)
@@ -466,7 +465,7 @@
 - [Inbulks](#inbulks) (1)
 - [Incident IQ](#incident-iq) (1)
 - [Independent Software](#independent-software) (2)
-- [InfiniteQuant](#infinitequant) (3)
+- [InfiniteQuant](#infinitequant) (2)
 - [Infoblox](#infoblox) (1)
 - [Infojini](#infojini) (2)
 - [Innodata](#innodata) (1)
@@ -661,7 +660,7 @@
 - [North Star Staffing Solutions](#north-star-staffing-solutions) (1)
 - [Northeastern](#northeastern) (1)
 - [Northeastern University](#northeastern-university) (1)
-- [Northrop Grumman](#northrop-grumman) (25)
+- [Northrop Grumman](#northrop-grumman) (24)
 - [Northwestern Mutual](#northwestern-mutual) (1)
 - [Northwood Space](#northwood-space) (1)
 - [Notion](#notion) (17)
@@ -762,7 +761,6 @@
 - [QuEra Computing](#quera-computing) (1)
 - [QuinStreet](#quinstreet) (2)
 - [Quora](#quora) (3)
-- [Radian](#radian) (1)
 - [Radiance Technologies](#radiance-technologies) (1)
 - [Radius Limited](#radius-limited) (1)
 - [Radix Trading](#radix-trading) (1)
@@ -1751,12 +1749,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](https://www.asm.com/open-vacancies/?gh_jid=4830113101) | 85 | Phoenix, AZ | Software | 2026-07-20 |
-
-## ASML
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Internship - Software Development Engineer in Test](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Development-Engineer-in-Test_J-00328071) | 93 | San Jose, CA | Software Engineering | 2026-05-09 |
 
 ## ASSA ABLOY
 
@@ -4275,7 +4267,7 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Application Engineer 1 - Training - Building Automation - CX Learning & Enablement](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/154237) | 85 | Northford, CT | Software | 2026-08-19 |
-| [Software Engineer 1](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155860) | 85 | Richmond, VA | Software | 2026-08-19 |
+| [Software Engineer 1](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155551) | 85 | Richmond, VA | Software | 2026-08-19 |
 | [Software Engineer I](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/116510) | 85 | Fort Mill, SC | — | 2026-08-19 |
 | [Embedded Engineer 1 New Grad](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/140055) | 81 | St. Charles, IL | Hardware | 2026-08-19 |
 
@@ -4450,7 +4442,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Quantitative Developer - Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579) | 93 | New York, New York, United States (Remote) | Quant / Summer 2027 | 2026-08-19 |
 | [Quantitative Researcher Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421) | 93 | Dubai - United Arab Emirates / NYC | Quant | 2026-08-18 |
 | [Quantitative Developer Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594) | 93 | Dubai - United Arab Emirates / NYC | Quant | 2026-08-13 |
 
@@ -5855,7 +5846,6 @@
 | [Principal Structural Engineer - Structural Analysis](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Engineer-or-Principal-Engineer---Structural-Analysis_R10240064) | 93 | Hackleburg, AL | Software | 2026-08-17 |
 | [Software Development Engineer - Level 2 or 3](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/Software-Development-Engineers--Level-2-or-3-_R10239034) | 93 | McLean, VA | Software | 2026-08-17 |
 | [Software Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Software-Engineer_R10234799) | 93 | Oklahoma City, OK | Hardware | 2026-08-17 |
-| [Software Engineer / Principal Software Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Software-Engineer---Principal-Software-Engineer---Requirements---Test_R10230491) | 93 | Melbourne, FL | Software | 2026-08-17 |
 | [Software Engineer / Principal Software Engineer - Simulation](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Software-Engineer---Principal-Software-Engineer---Simulation_R10231372) | 93 | Melbourne, FL / Oklahoma City, OK | Software | 2026-08-17 |
 | [Software Engineer / User Experience Applications](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Software-Engineer---User-Experience-Applications_R10236991-1) | 93 | Oklahoma City, OK / San Diego, CA | Software | 2026-08-17 |
 | [Software Engineer Associate](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer_R10240764) | 93 | Melbourne, FL | Software | 2026-08-17 |
@@ -6690,12 +6680,6 @@
 | [New Grad: Machine Learning Engineer](https://jobs.ashbyhq.com/quora/e8acc816-a9af-445d-8135-47599ac9be0f) | 99 | Remote | — | 2026-08-17 |
 | [Software Engineer New Grad - Machine Learning Platform](https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application?embed=true) | 99 | Remote in USA / Remote in Canada | AI/ML/Data | 2026-08-17 |
 | [Software Engineer, Machine Learning Platform, New Grad - Quora (Remote)](https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db) | 99 | Remote | Engineering | 2026-08-17 |
-
-## Radian
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Scientist I - Hybrid](https://compass.wd501.myworkdayjobs.com/en-US/radian_external_career_site/job/New-York-NY/Data-Scientist-I---Hybrid_R20250160) | 93 | New York, NY | Data Science, AI & Machine Learning | 2026-08-17 |
 
 ## Radiance Technologies
 

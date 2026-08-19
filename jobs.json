@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-19T13:22:56.877Z",
+  "generatedAt": "2026-08-19T14:03:14.264Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2694,
+  "jobCount": 2690,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -18,7 +18,6 @@
     "canonical:7c6db6e223273197": "2026-05-06T06:42:07.596Z",
     "canonical:c3741eefab6317c5": "2026-05-06T06:42:07.596Z",
     "canonical:d277a6a426412a6c": "2026-05-06T06:42:07.596Z",
-    "canonical:885c7029ab2fb04a": "2026-05-09T15:28:15.527Z",
     "canonical:7a35a217bd7a55a7": "2026-05-09T15:28:15.527Z",
     "canonical:719fb84270c8e712": "2026-05-09T15:28:15.527Z",
     "canonical:28605a218de44c59": "2026-05-09T15:28:15.527Z",
@@ -911,7 +910,6 @@
     "canonical:e041e6960cc27b1a": "2026-08-17T16:14:31.608Z",
     "canonical:b73c98b9cfb80ed0": "2026-08-17T16:14:31.608Z",
     "canonical:1052bbab95d97c5d": "2026-08-17T16:14:31.608Z",
-    "canonical:d310ecd51902932d": "2026-08-17T16:14:31.608Z",
     "canonical:c431f03a8845950f": "2026-08-17T16:14:31.608Z",
     "canonical:6db4bc9e1f959df2": "2026-08-17T16:14:31.608Z",
     "canonical:93daf59f1680386f": "2026-08-17T16:14:31.608Z",
@@ -1065,7 +1063,6 @@
     "canonical:ddac5a4c1d674566": "2026-08-17T16:14:31.608Z",
     "canonical:20a34af671ace6d5": "2026-08-17T16:14:31.608Z",
     "canonical:2a3fbb570efd5b54": "2026-08-17T16:14:31.608Z",
-    "canonical:92e770913708a9ac": "2026-08-17T16:14:31.608Z",
     "canonical:180ae7da0adbe28b": "2026-08-17T16:14:31.608Z",
     "canonical:14b3f95742a42f4c": "2026-08-17T16:14:31.608Z",
     "canonical:7806bb03047674ab": "2026-08-17T16:14:31.608Z",
@@ -2694,7 +2691,6 @@
     "canonical:d1da7b2ac572df8f": "2026-08-19T10:17:58.666Z",
     "canonical:2e1957ef2ef86ad4": "2026-08-19T10:51:50.238Z",
     "canonical:42d728827081c1e1": "2026-08-19T10:51:50.238Z",
-    "canonical:1869c3e8ff779ad9": "2026-08-19T11:15:26.673Z",
     "canonical:dbfb22c1cc92cb7d": "2026-08-19T11:46:33.588Z",
     "canonical:5ccbdd16c804408f": "2026-08-19T11:46:33.588Z",
     "canonical:dd3fb020a490b7c1": "2026-08-19T13:22:56.877Z"
@@ -5521,20 +5517,6 @@
       ]
     },
     {
-      "id": "canonical:885c7029ab2fb04a",
-      "title": "Internship - Software Development Engineer in Test",
-      "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Development-Engineer-in-Test_J-00328071",
-      "location": "San Jose, CA",
-      "department": "Software Engineering",
-      "company": "ASML",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:79cfcc7e8096fa91",
       "title": "Software Engineering Intern",
       "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR106129",
@@ -5634,6 +5616,19 @@
       "id": "canonical:43c945396857ea6b",
       "title": "AI Engineer Intern - BCG X",
       "url": "https://careers.bcg.com/global/en/job/56635",
+      "location": "London, UK",
+      "department": "AI/ML/Data",
+      "company": "Boston Consulting Group",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:a356ac432d4a0c77",
+      "title": "Data Scientist Intern",
+      "url": "https://careers.bcg.com/global/en/job/56634",
       "location": "London, UK",
       "department": "AI/ML/Data",
       "company": "Boston Consulting Group",
@@ -7683,19 +7678,6 @@
       "location": "Alexandria, VA",
       "department": "Software Engineering",
       "company": "SimonComputing",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:a356ac432d4a0c77",
-      "title": "Data Scientist Intern",
-      "url": "https://careers.bcg.com/global/en/job/56634",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "Boston Consulting Group",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -13912,6 +13894,20 @@
       ]
     },
     {
+      "id": "canonical:bbe70c5f8e21ac9e",
+      "title": "AI Innovation Engineer Intern",
+      "url": "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ASC-Atlanta-HQ-GA/AI-Innovation-Engineer_REQ_93190",
+      "location": "Atlanta, GA",
+      "department": "AI/ML/Data",
+      "company": "Amcor",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:a522f49ad7e2b21e",
       "title": "Software Engineer Intern",
       "url": "https://jobs-cesi.icims.com/jobs/11204/job?mobile=true&needsRedirect=false",
@@ -14080,20 +14076,6 @@
       "location": "Canada / Santa Clara, CA",
       "department": "Software",
       "company": "NVIDIA",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:bbe70c5f8e21ac9e",
-      "title": "AI Innovation Engineer Intern",
-      "url": "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ASC-Atlanta-HQ-GA/AI-Innovation-Engineer_REQ_93190",
-      "location": "Atlanta, GA",
-      "department": "AI/ML/Data",
-      "company": "Amcor",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -15420,20 +15402,6 @@
       "location": "Santa Clara, CA",
       "department": "",
       "company": "NVIDIA",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:d310ecd51902932d",
-      "title": "Data Scientist I - Hybrid",
-      "url": "https://compass.wd501.myworkdayjobs.com/en-US/radian_external_career_site/job/New-York-NY/Data-Scientist-I---Hybrid_R20250160",
-      "location": "New York, NY",
-      "department": "Data Science, AI & Machine Learning",
-      "company": "Radian",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -17662,20 +17630,6 @@
       ]
     },
     {
-      "id": "canonical:92e770913708a9ac",
-      "title": "Software Engineer / Principal Software Engineer",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Software-Engineer---Principal-Software-Engineer---Requirements---Test_R10230491",
-      "location": "Melbourne, FL",
-      "department": "Software",
-      "company": "Northrop Grumman",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:180ae7da0adbe28b",
       "title": "Early Career Software Engineer - Applied AI",
       "url": "https://job-boards.greenhouse.io/wonderschool/jobs/6359139003",
@@ -18117,6 +18071,19 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ab0e9c0871a7e195",
+      "title": "Embedded Engineer 1 New Grad",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/140055",
+      "location": "St. Charles, IL",
+      "department": "Hardware",
+      "company": "Honeywell",
+      "score": 81,
+      "scoreReasons": [
+        "SWE-aligned",
+        "new grad"
       ]
     },
     {
@@ -32541,6 +32508,19 @@
       ]
     },
     {
+      "id": "canonical:f63c49d9a5582cdb",
+      "title": "Software Engineer 1",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155551",
+      "location": "Richmond, VA",
+      "department": "Software",
+      "company": "Honeywell",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:9c50c2a78c2c823b",
       "title": "Support Engineer - Mainframe",
       "url": "https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-IL-Lisle-Warrenville-Road/Support-Engineer---Mainframe_R026779",
@@ -35137,6 +35117,20 @@
       ]
     },
     {
+      "id": "canonical:0a8c2b16080041c9",
+      "title": "Software Development Engineer",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Software-Development-Engineer_R170921",
+      "location": "Lehi, UT",
+      "department": "AI/ML/Data",
+      "company": "Adobe",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:be0fc6377d332fb0",
       "title": "Machine Learning Engineer",
       "url": "https://jobs.ashbyhq.com/deeter-analytics/2c12339b-d302-427c-9a73-d825b4b942b0/application?embed=true",
@@ -35165,17 +35159,16 @@
       ]
     },
     {
-      "id": "canonical:0a8c2b16080041c9",
-      "title": "Software Development Engineer",
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Software-Development-Engineer_R170921",
-      "location": "Lehi, UT",
-      "department": "AI/ML/Data",
-      "company": "Adobe",
-      "score": 93,
+      "id": "canonical:dd3fb020a490b7c1",
+      "title": "Application Engineer 1 - Training - Building Automation - CX Learning & Enablement",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/154237",
+      "location": "Northford, CT",
+      "department": "Software",
+      "company": "Honeywell",
+      "score": 85,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
+        "high-signal role"
       ]
     },
     {
@@ -35192,38 +35185,12 @@
       ]
     },
     {
-      "id": "canonical:f63c49d9a5582cdb",
-      "title": "Software Engineer 1",
-      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155860",
-      "location": "Richmond, VA",
-      "department": "Software",
-      "company": "Honeywell",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:74c2df6adfbdf397",
       "title": "Software Engineer, Builder Tools",
       "url": "https://careers.roblox.com/jobs/6759944",
       "location": "San Mateo, CA",
       "department": "",
       "company": "Roblox",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:dd3fb020a490b7c1",
-      "title": "Application Engineer 1 - Training - Building Automation - CX Learning & Enablement",
-      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/154237",
-      "location": "Northford, CT",
-      "department": "Software",
-      "company": "Honeywell",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -35257,19 +35224,6 @@
         "high-signal role",
         "new grad",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:ab0e9c0871a7e195",
-      "title": "Embedded Engineer 1 New Grad",
-      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/140055",
-      "location": "St. Charles, IL",
-      "department": "Hardware",
-      "company": "Honeywell",
-      "score": 81,
-      "scoreReasons": [
-        "SWE-aligned",
-        "new grad"
       ]
     },
     {
@@ -38055,6 +38009,32 @@
       ]
     },
     {
+      "id": "canonical:c47ec3deda9d2151",
+      "title": "Software Engineer I",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/116510",
+      "location": "Fort Mill, SC",
+      "department": "",
+      "company": "Honeywell",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:976fedd53f510bf7",
+      "title": "Software Engineer I",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/119931",
+      "location": "Clearwater, FL",
+      "department": "",
+      "company": "HoneyWell",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:34729eae25d4053f",
       "title": "Software Engineer 1",
       "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1329771000/?ats=successfactors",
@@ -38224,32 +38204,6 @@
         "SWE-aligned",
         "high-signal role",
         "new grad"
-      ]
-    },
-    {
-      "id": "canonical:976fedd53f510bf7",
-      "title": "Software Engineer I",
-      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/119931",
-      "location": "Clearwater, FL",
-      "department": "",
-      "company": "HoneyWell",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:c47ec3deda9d2151",
-      "title": "Software Engineer I",
-      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/116510",
-      "location": "Fort Mill, SC",
-      "department": "",
-      "company": "Honeywell",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -39021,20 +38975,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:1869c3e8ff779ad9",
-      "title": "Quantitative Developer - Internship - Summer 2027",
-      "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579",
-      "location": "New York, New York, United States (Remote)",
-      "department": "Quant / Summer 2027",
-      "company": "InfiniteQuant",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {

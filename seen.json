@@ -1522,7 +1522,6 @@
   ],
   "Snap": [],
   "SimplifyJobs 2026": [
-    "simplify:f1cc7ce7-00a3-49c1-9092-46d88ff06988",
     "simplify:4fa1b683-fa30-44b0-a279-ea52a60e6a84",
     "simplify:3697b474-d02a-477a-949b-63c212baa9a1",
     "simplify:5428a3c8-3c8c-496a-87c2-2afbd536b54f",
@@ -2072,6 +2071,7 @@
     "simplify:fad1406c-cd92-4587-b376-d9839b629e3c",
     "simplify:0673c550-4c1f-4d6c-b03d-e2185d8183b0",
     "simplify:50940dc5-4b2f-4f49-983e-f589769f3848",
+    "simplify:a9d682ef-59ba-42c1-9fad-28a7afc1aea4",
     "simplify:4af25efe-2dc0-4ef6-bd62-34ad9f646360",
     "simplify:6f26ea4e-9081-475e-a1fa-ab0a978643f5",
     "simplify:34fa4813-bc92-4deb-8987-cf33bc625246",
@@ -2313,7 +2313,8 @@
     "simplify:20db6da0-8e69-4119-8287-080208c765ec",
     "simplify:19652a32-abb6-4c77-8971-0c6514ed8034",
     "simplify:ea8c5ebd-a6c4-49ff-9dac-f3532c41737a",
-    "simplify:be628885-fde3-4b73-bb0a-58e11856e97b"
+    "simplify:be628885-fde3-4b73-bb0a-58e11856e97b",
+    "simplify:480a3ec4-1b4b-4ee7-9901-ed9ea485c1c5"
   ],
   "DoorDash": [],
   "Waymo": [
@@ -2408,7 +2409,6 @@
   "Mercury": [],
   "Alchemy": [],
   "SimplifyJobs 2027": [
-    "simplify:f1cc7ce7-00a3-49c1-9092-46d88ff06988",
     "simplify:4fa1b683-fa30-44b0-a279-ea52a60e6a84",
     "simplify:3697b474-d02a-477a-949b-63c212baa9a1",
     "simplify:5428a3c8-3c8c-496a-87c2-2afbd536b54f",
@@ -3186,7 +3186,6 @@
     "simplify:662fdbd5-d4c2-4fa9-a706-cfa14134fff7",
     "simplify:1449024f-7d03-4430-a356-5c1ca206ed29",
     "simplify:f8a8d6e1-4ac2-45e9-a352-15eae10f1bdd",
-    "simplify:8a917451-91ce-4fdb-ab11-e7564dd99c37",
     "simplify:641bea35-1071-4095-99a9-1f68a28662c8",
     "simplify:d935bae6-e667-4bd1-b10d-4431b5555110",
     "simplify:b5d64ce3-a598-47f7-8195-48153775de70",
@@ -3250,7 +3249,6 @@
   "Solarisbank": [],
   "Deepset": [],
   "SimplifyJobs New Grad": [
-    "simplify:b2cfe407-2dcd-46b8-9e57-7d95300f2542",
     "simplify:39ebfdd7-702f-4997-a082-6bd4e62e24d2",
     "simplify:74b2d4ff-f0ec-41d4-bc51-c06875faa9b7",
     "simplify:36c9b7b4-9e96-49e9-adda-25c5ec121022",
@@ -3423,7 +3421,6 @@
     "simplify:7f7df86f-b755-44f7-b66d-492960736e29",
     "simplify:29013581-abf2-4112-bda4-1f097b45f298",
     "simplify:945197df-c892-48e9-b3b0-a1f5c12ac26e",
-    "simplify:b5b8fd8d-bfe1-4bc0-a902-6285c6270a00",
     "simplify:e5fee829-850f-4ae1-9f1f-eda2ab36fdbe",
     "simplify:6805a542-b373-4362-a01b-1340de5ba6db",
     "simplify:b7e63c73-882e-4daa-8061-fa5c4fad7d2a",
