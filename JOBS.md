@@ -383,7 +383,7 @@
 - [General Dynamics](#general-dynamics) (1)
 - [General Dynamics Information Technology](#general-dynamics-information-technology) (8)
 - [General Dynamics Mission Systems](#general-dynamics-mission-systems) (8)
-- [General Matter](#general-matter) (1)
+- [General Matter](#general-matter) (2)
 - [General Motors](#general-motors) (3)
 - [Genetec](#genetec) (4)
 - [Geneva Trading](#geneva-trading) (1)
@@ -865,7 +865,6 @@
 - [SMX](#smx) (1)
 - [Snap](#snap) (1)
 - [Snap-on](#snap-on) (1)
-- [Snorkel AI](#snorkel-ai) (1)
 - [Snowflake](#snowflake) (5)
 - [SOCOTEC Global](#socotec-global) (1)
 - [SoFi](#sofi) (1)
@@ -2779,7 +2778,7 @@
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
 | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -3904,6 +3903,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Summer 2027 Internship - Software Engineering](https://job-boards.greenhouse.io/generalmatter/jobs/5377118008) | 93 | Los Angeles, CA | Software / Summer 2027 | 2026-08-19 |
 | [Software Engineer New Grad](https://job-boards.greenhouse.io/generalmatter/jobs/5375987008) | 99 | LA | Hardware | 2026-08-17 |
 
 ## General Motors
@@ -4953,8 +4953,8 @@
 | [Software Engineer Intern](https://jobs.l3harris.com/job/Colorado-Springs-Intern-C,-Software-Engineer-CO-80916/1420701600/?ats=successfactors) | 85 | Colorado Springs, CO | Hardware | 2026-08-18 |
 | [Software Engineer Intern 3](https://jobs.l3harris.com/job/Colorado-Springs-Intern-C,-Software-Engineer-CO-80916/1420759900/?ats=successfactors) | 85 | Colorado Springs, CO | Hardware | 2026-08-18 |
 | [Application Developer Associate](https://jobs.l3harris.com/job/Melbourne-Associate,-Application-Developer-FL-32919/1420524300/?ats=successfactors) | 85 | Melbourne, FL | Software | 2026-08-18 |
-| [Software Engineer Intern](https://jobs.l3harris.com/job/Greenville-Intern,-Software-Engineer-Spring-2027-TX-75402/1420331200/?ats=successfactors) | 85 | Greenville, TX | Hardware | 2026-08-18 |
 | [Software Engineer Intern](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1420340500/?ats=successfactors) | 85 | Palm Bay, FL | Hardware | 2026-08-18 |
+| [Software Engineer Intern](https://jobs.l3harris.com/job/Greenville-Intern,-Software-Engineer-Spring-2027-TX-75402/1420331200/?ats=successfactors) | 85 | Greenville, TX | Hardware | 2026-08-18 |
 | [Associate Software Engineer](https://jobs.l3harris.com/job/Clifton-Associate,-Software-Engineering-NJ-07014/1420387700/?ats=successfactors) | 85 | Clifton, NJ | Software | 2026-08-18 |
 | [Associate Software Engineer](https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineering-FL-32905-4101/1420103700/?ats=successfactors) | 85 | Palm Bay, FL | Hardware | 2026-08-17 |
 | [Associate Software Engineer](https://jobs.l3harris.com/job/Clifton-Associate,-Software-Engineer-NJ-07014/1420248200/?ats=successfactors) | 85 | Clinton, MD / Clifton, NJ | Hardware | 2026-08-17 |
@@ -6460,8 +6460,8 @@
 | [Quantitative Developer](https://careers.point72.com/CSJobDetail?jobName=quantitative-developer&jobCode=CSS-0013369&location=New%20York&locale=English) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-08-17 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -7438,12 +7438,6 @@
 | --- | --- | --- | --- | --- |
 | [Support Engineer](https://careers-snapon.icims.com/jobs/20333/job?mobile=true&needsRedirect=false) | 85 | Kenosha, WI | Software | 2026-08-17 |
 
-## Snorkel AI
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI Researcher Intern](https://job-boards.greenhouse.io/snorkelai/jobs/6146378004) | 93 | NYC | AI/ML/Data | 2026-08-18 |
-
 ## Snowflake
 
 | Title | Score | Location | Department | First seen |
@@ -7654,7 +7648,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer New Grad](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-792647) | 99 | Burlington, MA | Software | 2026-08-17 |
+| [Software Engineer New Grad](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-795953) | 99 | Burlington, MA | Software | 2026-08-17 |
 | [Full Stack Software Engineer - Officer](https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Full-Stack-Software-Engineer--Officer_R-792060) | 93 | Toronto, ON, Canada | Software | 2026-08-17 |
 
 ## Stellar Science
@@ -8974,7 +8968,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer](https://jobs-woodcons.icims.com/jobs/14910/job?mobile=true&needsRedirect=false) | 85 | Fort Meade, MD | Software | 2026-08-18 |
+| [Software Engineer](https://jobs-woodcons.icims.com/jobs/14803/job?mobile=true&needsRedirect=false) | 85 | Fort Meade, MD | Software | 2026-08-18 |
 | [Software Engineer 0 - Entry-Level Software Engineering](https://jobs-woodcons.icims.com/jobs/14759/job?mobile=true&needsRedirect=false) | 85 | Fort Meade, MD | Software | 2026-08-18 |
 
 ## Workato
