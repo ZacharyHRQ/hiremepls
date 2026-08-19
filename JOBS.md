@@ -323,7 +323,6 @@
 - [Emerson](#emerson) (1)
 - [eMoney Advisor, LLC](#emoney-advisor-llc) (1)
 - [Encephalo Investments](#encephalo-investments) (1)
-- [Encova](#encova) (1)
 - [endeavorai.com](#endeavorai-com) (1)
 - [EnergyHub](#energyhub) (1)
 - [Enovation Controls LLC](#enovation-controls-llc) (1)
@@ -442,7 +441,7 @@
 - [Homebase](#homebase) (1)
 - [Homey](#homey) (1)
 - [Hone Health](#hone-health) (1)
-- [Honeywell](#honeywell) (3)
+- [Honeywell](#honeywell) (4)
 - [HoneyWell](#honeywell) (1)
 - [Horizon Technologies](#horizon-technologies) (1)
 - [Howmet Aerospace](#howmet-aerospace) (1)
@@ -1403,8 +1402,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012392) | 85 | Phoenix, AZ | AI/ML/Data | 2026-08-17 |
-| [Software Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011781) | 85 | Phoenix, AZ | Software | 2026-08-17 |
+| [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375) | 85 | Phoenix, AZ | AI/ML/Data | 2026-08-17 |
+| [Software Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011784) | 85 | Phoenix, AZ | Software | 2026-08-17 |
 | [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011796) | 85 | Atlanta, GA | AI/ML/Data | 2026-08-17 |
 | [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698) | 85 | NYC | Software | 2026-08-17 |
 | [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011999) | 85 | Sunrise, FL | AI/ML/Data | 2026-08-17 |
@@ -2688,7 +2687,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Associate Engineer](https://job-boards.greenhouse.io/ctccampusboard/jobs/4709991005) | 93 | Chicago, IL / NYC | Software | 2026-08-17 |
+| [Associate Engineer](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716937005) | 93 | Chicago, IL / NYC | Software | 2026-08-17 |
 | [Software Engineering Intern](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005) | 93 | Chicago, IL | Software | 2026-08-07 |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005) | 93 | Chicago, IL | Software | 2026-08-04 |
 
@@ -2774,7 +2773,7 @@
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
 | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -3489,12 +3488,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Developer Intern](https://jobs.smartrecruiters.com/EncephaloInvestments/743999734497349) | 93 | Woodbury, MN | Software | 2026-08-18 |
-
-## Encova
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Developer - Developer 1](https://encova.wd1.myworkdayjobs.com/Search/job/Charleston-WV/Developer_R002016) | 93 | Columbus, OH / Charleston, WV | Software | 2026-08-18 |
 
 ## endeavorai.com
 
@@ -4281,7 +4274,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer 1](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155551) | 85 | Richmond, VA | Software | 2026-08-19 |
+| [Application Engineer 1 - Training - Building Automation - CX Learning & Enablement](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/154237) | 85 | Northford, CT | Software | 2026-08-19 |
+| [Software Engineer 1](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155860) | 85 | Richmond, VA | Software | 2026-08-19 |
 | [Software Engineer I](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/116510) | 85 | Fort Mill, SC | — | 2026-08-19 |
 | [Embedded Engineer 1 New Grad](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/140055) | 81 | St. Charles, IL | Hardware | 2026-08-19 |
 
@@ -4943,8 +4937,8 @@
 | [Software Engineer Intern](https://jobs.l3harris.com/job/Greenville-Intern,-Software-Engineer-Spring-2027-TX-75402/1420331200/?ats=successfactors) | 85 | Greenville, TX | Hardware | 2026-08-18 |
 | [Associate Software Engineer](https://jobs.l3harris.com/job/Clifton-Associate,-Software-Engineering-NJ-07014/1420387700/?ats=successfactors) | 85 | Clifton, NJ | Software | 2026-08-18 |
 | [Associate Software Engineer](https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineering-FL-32905-4101/1420103700/?ats=successfactors) | 85 | Palm Bay, FL | Hardware | 2026-08-17 |
-| [Associate Software Engineer](https://jobs.l3harris.com/job/Chantilly-Associate,-Software-Engineering-VA-20151/1420087500/?ats=successfactors) | 85 | Chantilly, VA | Hardware | 2026-08-17 |
 | [Associate Software Engineer](https://jobs.l3harris.com/job/Clifton-Associate,-Software-Engineer-NJ-07014/1420248200/?ats=successfactors) | 85 | Clinton, MD / Clifton, NJ | Hardware | 2026-08-17 |
+| [Associate Software Engineer](https://jobs.l3harris.com/job/Chantilly-Associate,-Software-Engineering-VA-20151/1420087500/?ats=successfactors) | 85 | Chantilly, VA | Hardware | 2026-08-17 |
 | [Associate Software Engineer - Software Engineering](https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1420290900/?ats=successfactors) | 85 | Rochester, NY | Hardware | 2026-08-17 |
 | [Software Engineer](https://jobs.l3harris.com/job/Salt-Lake-City-Sr-Associate,-Software-Engineer-UT-84116/1420304100/?ats=successfactors) | 85 | Salt Lake City, UT | Hardware | 2026-08-17 |
 | [Software Engineer - Software Engineering](https://jobs.l3harris.com/job/Greenville-Senior-Associate,-Software-Engineering-TX-75402/1420346000/?ats=successfactors) | 85 | Greenville, TX | Hardware | 2026-08-17 |
@@ -6425,8 +6419,8 @@
 | [Quantitative Developer](https://careers.point72.com/CSJobDetail?jobName=quantitative-developer&jobCode=CSS-0013369&location=New%20York&locale=English) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-08-17 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
