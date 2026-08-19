@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-19T19:47:34.266Z",
+  "generatedAt": "2026-08-19T20:14:45.707Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2692,
+  "jobCount": 2693,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2695,7 +2695,8 @@
     "canonical:a858102d2c63ecc0": "2026-08-19T18:59:40.283Z",
     "canonical:6a36c703e1904fe8": "2026-08-19T18:59:40.283Z",
     "canonical:a6c653cc2c6d352e": "2026-08-19T19:26:45.138Z",
-    "canonical:6ab8da808e4e11ac": "2026-08-19T19:26:45.138Z"
+    "canonical:6ab8da808e4e11ac": "2026-08-19T19:26:45.138Z",
+    "canonical:91c5dfe1f8dea501": "2026-08-19T20:14:45.707Z"
   },
   "jobs": [
     {
@@ -11342,20 +11343,6 @@
       ]
     },
     {
-      "id": "canonical:7b6302842eda5e24",
-      "title": "Software Engineer Intern - Aeronautics Systems",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573",
-      "location": "Melbourne, FL",
-      "department": "Software",
-      "company": "Northrop Grumman",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:8748985990227042",
       "title": "Research Scientist Intern",
       "url": "https://jobs.bytedance.com/en/position/7670375041041320245/detail",
@@ -11485,6 +11472,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:7b6302842eda5e24",
+      "title": "Software Engineer Intern - Aeronautics Systems",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395",
+      "location": "Melbourne, FL",
+      "department": "Software",
+      "company": "Northrop Grumman",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -39609,6 +39610,20 @@
       "location": "New York",
       "department": "Quant / Summer 2027",
       "company": "Virtu Financial",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:91c5dfe1f8dea501",
+      "title": "Software Engineer Intern (Backend, Rust)",
+      "url": "https://jobs.ashbyhq.com/n1/afe7deb5-9cfd-4926-bcb4-058d418592a6",
+      "location": "New York City",
+      "department": "Software / Not stated",
+      "company": "N1",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",

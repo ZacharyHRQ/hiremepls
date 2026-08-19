@@ -1,6 +1,6 @@
 # Open Internships
 
-**2692** internships across **188/188** companies — last updated 2026-08-19.
+**2693** internships across **188/188** companies — last updated 2026-08-19.
 
 ## Companies
 
@@ -629,7 +629,7 @@
 - [MSA Safety](#msa-safety) (1)
 - [MUFG](#mufg) (1)
 - [Muon Space](#muon-space) (1)
-- [N1](#n1) (3)
+- [N1](#n1) (4)
 - [National Laboratory of the Rockies](#national-laboratory-of-the-rockies) (1)
 - [NationGraph](#nationgraph) (1)
 - [NatWest Group](#natwest-group) (1)
@@ -5631,6 +5631,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern (Backend, Rust)](https://jobs.ashbyhq.com/n1/afe7deb5-9cfd-4926-bcb4-058d418592a6) | 93 | New York City | Software / Not stated | 2026-08-19 |
 | [New Grad Software Engineer - Backend Rust](https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd/application) | 99 | SF / Remote in USA / Europe / NYC | Software | 2026-08-17 |
 | [Software Engineer (Backend Rust)](https://jobs.ashbyhq.com/n1/99a78724-a7eb-4801-9e75-cf4465950567) | 93 | New York City | — | 2026-08-17 |
 | [Software Engineer (Full Stack)](https://jobs.ashbyhq.com/n1/2213cef6-fbcd-42f7-8e0e-c6a23bfc1119) | 93 | New York City | — | 2026-08-17 |
@@ -5881,7 +5882,7 @@
 | [Space Flight Operations – Engineer/Principal Engineer Systems](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Space-Flight-Operations---Engineer-Principal-Engineer-Systems_R10233658) | 93 | Halethorpe, MD | Software | 2026-08-17 |
 | [Structural Analysis Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Engineer-or-Principal-Engineer-Structural-Analysis--4-10-2nd-Shift-_R10231985) | 93 | Palmdale, CA | Software | 2026-08-17 |
 | [Systems Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/Engineer-Principal-Engineer-Systems_R10241911) | 93 | Morrisville, NC | Software | 2026-08-17 |
-| [Software Engineer Intern - Aeronautics Systems](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573) | 93 | Melbourne, FL | Software | 2026-08-06 |
+| [Software Engineer Intern - Aeronautics Systems](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395) | 93 | Melbourne, FL | Software | 2026-08-06 |
 
 ## Northwestern Mutual
 
