@@ -1,6 +1,6 @@
 # Open Internships
 
-**2691** internships across **188/188** companies — last updated 2026-08-19.
+**2695** internships across **188/188** companies — last updated 2026-08-19.
 
 ## Companies
 
@@ -283,6 +283,7 @@
 - [Dexmate](#dexmate) (1)
 - [DiDi Global](#didi-global) (1)
 - [Diesel Laptops](#diesel-laptops) (1)
+- [Digs](#digs) (1)
 - [Diverge Health](#diverge-health) (1)
 - [DMC Engineering](#dmc-engineering) (1)
 - [Dmg Media](#dmg-media) (1)
@@ -381,7 +382,7 @@
 - [GE Healthcare](#ge-healthcare) (1)
 - [GE Vernova](#ge-vernova) (1)
 - [Gecko Robotics](#gecko-robotics) (1)
-- [Gemini](#gemini) (1)
+- [Gemini](#gemini) (2)
 - [Generac](#generac) (3)
 - [General Dynamics](#general-dynamics) (1)
 - [General Dynamics Information Technology](#general-dynamics-information-technology) (7)
@@ -403,6 +404,7 @@
 - [GlobalFoundries](#globalfoundries) (3)
 - [Globus Medical](#globus-medical) (1)
 - [GM financial](#gm-financial) (2)
+- [GoDaddy](#godaddy) (1)
 - [Goldman Sachs](#goldman-sachs) (5)
 - [Google](#google) (10)
 - [Gradient Robotics](#gradient-robotics) (1)
@@ -589,6 +591,7 @@
 - [Maya HTT](#maya-htt) (2)
 - [McDonald's](#mcdonald-s) (1)
 - [McDonald's Corporation](#mcdonald-s-corporation) (1)
+- [MCG Health](#mcg-health) (1)
 - [Mechanize](#mechanize) (1)
 - [Medical College of Wisconsin](#medical-college-of-wisconsin) (1)
 - [Medpace](#medpace) (1)
@@ -2766,7 +2769,7 @@
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
 | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -3224,6 +3227,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer](https://jobs.smartrecruiters.com/DieselLaptops/743999719953833) | 93 | Dallas, TX | Software | 2026-08-18 |
+
+## Digs
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineering Intern - Test Automation](https://job-boards.greenhouse.io/digs/jobs/4663939006) | 93 | Vancouver, WA | Software Engineering | 2026-08-19 |
 
 ## Diverge Health
 
@@ -3865,6 +3874,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineering Intern](https://job-boards.greenhouse.io/embed/job_app?for=gemini&token=7875125) | 93 | New York, NY | — | 2026-08-19 |
 | [Design Developer](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7951195&gh_jid=7951195) | 93 | NYC | Software | 2026-08-18 |
 
 ## Generac
@@ -4016,6 +4026,12 @@
 | --- | --- | --- | --- | --- |
 | [Software Development Engineer 1](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1991) | 85 | Arlington, TX / Irving, TX | Software | 2026-08-17 |
 | [Software Engineer 1 - Adobe Exp Platform](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260400) | 85 | Irving, TX | Software | 2026-08-17 |
+
+## GoDaddy
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Development Engineer Intern](https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003) | 93 | Tempe, AZ | — | 2026-08-19 |
 
 ## Goldman Sachs
 
@@ -4926,8 +4942,8 @@
 | [Associate Data Architect - Business Intelligence](https://jobs.l3harris.com/job/Melbourne-Associate,-Data-Architect-FL-32901/1420890100/?ats=successfactors) | 85 | Salt Lake City, UT / Rochester, NY / Nashville, TN / Londonderry, NH / Clifton, NJ / Melbourne, FL / Carlsbad, CA | AI/ML/Data | 2026-08-19 |
 | [Data Architect Senior Associate - Business Intelligence](https://jobs.l3harris.com/job/Melbourne-Senior-Associate,-Data-Architect-FL-32901/1420890800/?ats=successfactors) | 85 | Salt Lake City, UT / Rochester, NY / Nashville, TN / Londonderry, NH / Clifton, NJ / Melbourne, FL / Carlsbad, CA | AI/ML/Data | 2026-08-19 |
 | [Software Engineer Intern](https://jobs.l3harris.com/job/Melbourne-Intern,-Software-Engineer-FL-32919/1420708400/?ats=successfactors) | 85 | Melbourne, FL | Hardware | 2026-08-18 |
-| [Software Engineer Intern](https://jobs.l3harris.com/job/Colorado-Springs-Intern-C,-Software-Engineer-CO-80916/1420701600/?ats=successfactors) | 85 | Colorado Springs, CO | Hardware | 2026-08-18 |
 | [Software Engineer Intern](https://jobs.l3harris.com/job/Herndon-Intern-C,-Software-Engineer-VA-20171/1420704700/?ats=successfactors) | 85 | Herndon, VA | Hardware | 2026-08-18 |
+| [Software Engineer Intern](https://jobs.l3harris.com/job/Colorado-Springs-Intern-C,-Software-Engineer-CO-80916/1420701600/?ats=successfactors) | 85 | Colorado Springs, CO | Hardware | 2026-08-18 |
 | [Software Engineer Intern 3](https://jobs.l3harris.com/job/Colorado-Springs-Intern-C,-Software-Engineer-CO-80916/1420759900/?ats=successfactors) | 85 | Colorado Springs, CO | Hardware | 2026-08-18 |
 | [Application Developer Associate](https://jobs.l3harris.com/job/Melbourne-Associate,-Application-Developer-FL-32919/1420524300/?ats=successfactors) | 85 | Melbourne, FL | Software | 2026-08-18 |
 | [Software Engineer Intern](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1420340500/?ats=successfactors) | 85 | Palm Bay, FL | Hardware | 2026-08-18 |
@@ -5342,6 +5358,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer I, iOS](https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-iOS-IL-60607/1322170500/) | 85 | Chicago, IL | — | 2026-08-17 |
+
+## MCG Health
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineering Intern](https://job-boards.greenhouse.io/mcghealth/jobs/8350486002) | 93 | Seattle, WA | Software Engineering | 2026-08-19 |
 
 ## Mechanize
 
