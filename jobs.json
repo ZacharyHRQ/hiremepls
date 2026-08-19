@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-19T07:02:32.256Z",
+  "generatedAt": "2026-08-19T07:51:05.669Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2698,
+  "jobCount": 2697,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1993,7 +1993,6 @@
     "canonical:7bacbc96097add13": "2026-08-17T16:14:31.608Z",
     "canonical:a4ca07ea03e853f7": "2026-08-17T16:14:31.608Z",
     "canonical:224904b56a2ef867": "2026-08-17T16:14:31.608Z",
-    "canonical:b090bdad0354a3bf": "2026-08-17T16:14:31.608Z",
     "canonical:81072d77114151db": "2026-08-17T16:14:31.608Z",
     "canonical:d8046d9b35d29973": "2026-08-17T16:14:31.608Z",
     "canonical:ac8d5ef6b8574785": "2026-08-17T16:14:31.608Z",
@@ -5648,6 +5647,19 @@
       ]
     },
     {
+      "id": "canonical:a356ac432d4a0c77",
+      "title": "Data Scientist Intern",
+      "url": "https://careers.bcg.com/global/en/job/56634",
+      "location": "London, UK",
+      "department": "AI/ML/Data",
+      "company": "Boston Consulting Group",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:029eb3cf2b108240",
       "title": "Software Engineer Project Intern - Security-Data - 2026 Start",
       "url": "https://jobs.bytedance.com/en/position/7600175469758040325/detail",
@@ -8047,19 +8059,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:a356ac432d4a0c77",
-      "title": "Data Scientist Intern",
-      "url": "https://careers.bcg.com/global/en/job/56634",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "Boston Consulting Group",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -13930,6 +13929,20 @@
       ]
     },
     {
+      "id": "canonical:bbe70c5f8e21ac9e",
+      "title": "AI Innovation Engineer Intern",
+      "url": "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ASC-Atlanta-HQ-GA/AI-Innovation-Engineer_REQ_93190",
+      "location": "Atlanta, GA",
+      "department": "AI/ML/Data",
+      "company": "Amcor",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:a522f49ad7e2b21e",
       "title": "Software Engineer Intern",
       "url": "https://jobs-cesi.icims.com/jobs/11204/job?mobile=true&needsRedirect=false",
@@ -14031,20 +14044,6 @@
       "location": "Palo Alto, CA",
       "department": "AI/ML/Data",
       "company": "Tencent",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:bbe70c5f8e21ac9e",
-      "title": "AI Innovation Engineer Intern",
-      "url": "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ASC-Atlanta-HQ-GA/AI-Innovation-Engineer_REQ_93190",
-      "location": "Atlanta, GA",
-      "department": "AI/ML/Data",
-      "company": "Amcor",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -18068,6 +18067,19 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ab0e9c0871a7e195",
+      "title": "Embedded Engineer 1 New Grad",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/140055",
+      "location": "St. Charles, IL",
+      "department": "Hardware",
+      "company": "Honeywell",
+      "score": 81,
+      "scoreReasons": [
+        "SWE-aligned",
+        "new grad"
       ]
     },
     {
@@ -31060,20 +31072,6 @@
       ]
     },
     {
-      "id": "canonical:b090bdad0354a3bf",
-      "title": "Associate Software Engineer 1",
-      "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014551564",
-      "location": "North Chicago, IL",
-      "department": "Software",
-      "company": "AbbVie",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:38e665c0d1d95b64",
       "title": "Website Designer/Front End Developer",
       "url": "https://jobs.smartrecruiters.com/RetailInformationSystems/84362761",
@@ -32548,6 +32546,19 @@
       ]
     },
     {
+      "id": "canonical:f63c49d9a5582cdb",
+      "title": "Software Engineer 1",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155551",
+      "location": "Richmond, VA",
+      "department": "Software",
+      "company": "Honeywell",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:9c50c2a78c2c823b",
       "title": "Support Engineer - Mainframe",
       "url": "https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-IL-Lisle-Warrenville-Road/Support-Engineer---Mainframe_R026779",
@@ -33597,6 +33608,32 @@
       ]
     },
     {
+      "id": "canonical:d1da7b2ac572df8f",
+      "title": "Engineering New Analyst - Engineering",
+      "url": "https://higher.gs.com/roles/171570?type=students",
+      "location": "Salt Lake City, UT",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:5ccbdd16c804408f",
+      "title": "Engineering New Analyst",
+      "url": "https://higher.gs.com/roles/171568?type=students",
+      "location": "Dallas, TX",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:f25c76a0a1a97682",
       "title": "Forward Deployed Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3/application?embed=true",
@@ -34224,6 +34261,20 @@
       ]
     },
     {
+      "id": "canonical:6fda02ae59b09506",
+      "title": "Machine Learning Engineer - Associate",
+      "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4356977009",
+      "location": "El Segundo, CA",
+      "department": "AI/ML/Data",
+      "company": "Voyager Technologies",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:85084b94748401ec",
       "title": "Entry Level Software Engineer",
       "url": "https://jobs.smartrecruiters.com/NextCenturyCorporation/106031601",
@@ -34759,20 +34810,6 @@
       ]
     },
     {
-      "id": "canonical:6fda02ae59b09506",
-      "title": "Machine Learning Engineer - Associate",
-      "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4356972009",
-      "location": "El Segundo, CA",
-      "department": "AI/ML/Data",
-      "company": "Voyager Technologies",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:9daa31c53392037a",
       "title": "Agentic Engineer New Grad",
       "url": "https://www.noom.com/careers/job-listings/?gh_jid=8140376",
@@ -35231,6 +35268,20 @@
       ]
     },
     {
+      "id": "canonical:0a8c2b16080041c9",
+      "title": "Software Development Engineer",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Software-Development-Engineer_R170921",
+      "location": "Lehi, UT",
+      "department": "AI/ML/Data",
+      "company": "Adobe",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:4733e4d1047addcb",
       "title": "Embedded DSP Software Engineer",
       "url": "https://careers.qualcomm.com/careers/job/446704474013",
@@ -35244,38 +35295,12 @@
       ]
     },
     {
-      "id": "canonical:ab0e9c0871a7e195",
-      "title": "Embedded Engineer 1 New Grad",
-      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/140055",
-      "location": "St. Charles, IL",
-      "department": "Hardware",
-      "company": "Honeywell",
-      "score": 81,
-      "scoreReasons": [
-        "SWE-aligned",
-        "new grad"
-      ]
-    },
-    {
       "id": "canonical:74c2df6adfbdf397",
       "title": "Software Engineer, Builder Tools",
       "url": "https://careers.roblox.com/jobs/6759944",
       "location": "San Mateo, CA",
       "department": "",
       "company": "Roblox",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:f63c49d9a5582cdb",
-      "title": "Software Engineer 1",
-      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155664",
-      "location": "Richmond, VA",
-      "department": "Software",
-      "company": "Honeywell",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -35308,20 +35333,6 @@
         "SWE-aligned",
         "high-signal role",
         "new grad",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:0a8c2b16080041c9",
-      "title": "Software Development Engineer",
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Software-Development-Engineer_R170921",
-      "location": "Lehi, UT",
-      "department": "AI/ML/Data",
-      "company": "Adobe",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
         "direct ATS"
       ]
     },
@@ -38108,6 +38119,32 @@
       ]
     },
     {
+      "id": "canonical:c47ec3deda9d2151",
+      "title": "Software Engineer I",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/116510",
+      "location": "Fort Mill, SC",
+      "department": "",
+      "company": "Honeywell",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:976fedd53f510bf7",
+      "title": "Software Engineer I",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/119931",
+      "location": "Clearwater, FL",
+      "department": "",
+      "company": "HoneyWell",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:34729eae25d4053f",
       "title": "Software Engineer 1",
       "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1329771000/?ats=successfactors",
@@ -38146,19 +38183,6 @@
         "high-signal role",
         "new grad",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:976fedd53f510bf7",
-      "title": "Software Engineer I",
-      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/119931",
-      "location": "Clearwater, FL",
-      "department": "",
-      "company": "HoneyWell",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -38290,32 +38314,6 @@
         "SWE-aligned",
         "high-signal role",
         "new grad"
-      ]
-    },
-    {
-      "id": "canonical:c47ec3deda9d2151",
-      "title": "Software Engineer I",
-      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/116510",
-      "location": "Fort Mill, SC",
-      "department": "",
-      "company": "Honeywell",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:d1da7b2ac572df8f",
-      "title": "Engineering New Analyst - Engineering",
-      "url": "https://higher.gs.com/roles/171570?type=students",
-      "location": "Salt Lake City, UT",
-      "department": "Software",
-      "company": "Goldman Sachs",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -39696,19 +39694,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:5ccbdd16c804408f",
-      "title": "Engineering New Analyst",
-      "url": "https://higher.gs.com/roles/171568?type=students",
-      "location": "Dallas, TX",
-      "department": "Software",
-      "company": "Goldman Sachs",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     }
   ],

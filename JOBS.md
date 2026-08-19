@@ -1,6 +1,6 @@
 # Open Internships
 
-**2698** internships across **188/188** companies — last updated 2026-08-19.
+**2697** internships across **188/188** companies — last updated 2026-08-19.
 
 ## Companies
 
@@ -8,7 +8,7 @@
 - [3RedPartners](#3redpartners) (2)
 - [9to9 Software Solutions](#9to9-software-solutions) (7)
 - [AAR](#aar) (1)
-- [AbbVie](#abbvie) (2)
+- [AbbVie](#abbvie) (1)
 - [ABEC](#abec) (1)
 - [Abound](#abound) (3)
 - [Abridge](#abridge) (2)
@@ -1108,7 +1108,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [AI Support Engineer](https://jobs.smartrecruiters.com/AbbVie/3743990014267357) | 93 | Waukegan, IL | AI/ML/Data | 2026-08-17 |
-| [Associate Software Engineer 1](https://jobs.smartrecruiters.com/AbbVie/3743990014551564) | 93 | North Chicago, IL | Software | 2026-08-17 |
 
 ## ABEC
 
@@ -4284,7 +4283,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer 1](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155664) | 85 | Richmond, VA | Software | 2026-08-19 |
+| [Software Engineer 1](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155551) | 85 | Richmond, VA | Software | 2026-08-19 |
 | [Software Engineer I](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/116510) | 85 | Fort Mill, SC | — | 2026-08-19 |
 | [Embedded Engineer 1 New Grad](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/140055) | 81 | St. Charles, IL | Hardware | 2026-08-19 |
 
@@ -8793,7 +8792,7 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Accelerated Physics Simulation Engineer - Agentic Computational Engineering](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4079284009) | 93 | Seattle, WA / Washington, DC / LA | AI/ML/Data | 2026-08-18 |
-| [Machine Learning Engineer - Associate](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4356972009) | 93 | El Segundo, CA | AI/ML/Data | 2026-08-17 |
+| [Machine Learning Engineer - Associate](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4356977009) | 93 | El Segundo, CA | AI/ML/Data | 2026-08-17 |
 
 ## VTG
 
