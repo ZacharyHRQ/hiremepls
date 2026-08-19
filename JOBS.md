@@ -1,6 +1,6 @@
 # Open Internships
 
-**2700** internships across **188/188** companies — last updated 2026-08-19.
+**2695** internships across **188/188** companies — last updated 2026-08-19.
 
 ## Companies
 
@@ -283,7 +283,6 @@
 - [Dexmate](#dexmate) (1)
 - [DiDi Global](#didi-global) (1)
 - [Diesel Laptops](#diesel-laptops) (1)
-- [Digs](#digs) (1)
 - [Diverge Health](#diverge-health) (1)
 - [DMC Engineering](#dmc-engineering) (1)
 - [Dmg Media](#dmg-media) (1)
@@ -405,7 +404,7 @@
 - [GlobalFoundries](#globalfoundries) (3)
 - [Globus Medical](#globus-medical) (1)
 - [GM financial](#gm-financial) (2)
-- [Goldman Sachs](#goldman-sachs) (4)
+- [Goldman Sachs](#goldman-sachs) (3)
 - [Google](#google) (10)
 - [Gradient Robotics](#gradient-robotics) (1)
 - [Gritt Robotics Inc](#gritt-robotics-inc) (1)
@@ -674,12 +673,10 @@
 - [Nutanix](#nutanix) (1)
 - [NVIDIA](#nvidia) (14)
 - [NXP Semiconductors](#nxp-semiconductors) (3)
-- [Oakland County, Michigan](#oakland-county-michigan) (1)
 - [Observable Space](#observable-space) (1)
 - [Obsidian Solutions Group](#obsidian-solutions-group) (1)
 - [Occidental Petroleum](#occidental-petroleum) (1)
 - [Octaura](#octaura) (1)
-- [OKX](#okx) (1)
 - [Old Mission](#old-mission) (4)
 - [Old Mission Capital](#old-mission-capital) (1)
 - [Oligo Space](#oligo-space) (1)
@@ -940,7 +937,7 @@
 - [Texas Instruments](#texas-instruments) (2)
 - [Texas Sports Academy](#texas-sports-academy) (2)
 - [The Anywhere](#the-anywhere) (1)
-- [The Boeing Company](#the-boeing-company) (6)
+- [The Boeing Company](#the-boeing-company) (5)
 - [The Brattle Group](#the-brattle-group) (1)
 - [The Home Depot](#the-home-depot) (3)
 - [The Nuclear Company](#the-nuclear-company) (6)
@@ -2280,10 +2277,10 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Machine Learning Engineer Intern - E-Commerce Risk Control - PhD](https://jobs.bytedance.com/en/position/7675477254269765941/detail) | 85 | Seattle, WA | AI/ML/Data | 2026-08-19 |
 | [Machine Learning Engineer Intern - E-Commerce Risk Control - PhD](https://jobs.bytedance.com/en/position/7675478684795881781/detail) | 85 | San Jose, CA | AI/ML/Data | 2026-08-19 |
-| [Machine Learning Engineer Graduate - E-Commerce Risk Control](https://jobs.bytedance.com/en/position/7675477660855781637/detail) | 91 | San Jose, CA | AI/ML/Data | 2026-08-19 |
+| [Machine Learning Engineer Intern - E-Commerce Risk Control - PhD](https://jobs.bytedance.com/en/position/7675477254269765941/detail) | 85 | Seattle, WA | AI/ML/Data | 2026-08-19 |
 | [Machine Learning Engineer Graduate - E-Commerce Risk Control](https://jobs.bytedance.com/en/position/7675472998912051461/detail) | 91 | Seattle, WA | AI/ML/Data | 2026-08-19 |
+| [Machine Learning Engineer Graduate - E-Commerce Risk Control](https://jobs.bytedance.com/en/position/7675477660855781637/detail) | 91 | San Jose, CA | AI/ML/Data | 2026-08-19 |
 | [Research Scientist Graduate - Video Codec Algorithm](https://jobs.bytedance.com/en/position/7626928937260665093/detail) | 91 | San Diego, CA | AI/ML/Data | 2026-08-19 |
 | [Research Scientist Graduate - DPU & AI Infra - PhD](https://jobs.bytedance.com/en/position/7673941558289205509/detail) | 91 | San Jose, CA | AI/ML/Data | 2026-08-18 |
 | [Research Scientist - DPU & AI Infrastructure](https://jobs.bytedance.com/en/position/7673946040656267573/detail) | 85 | Seattle, WA | AI/ML/Data | 2026-08-18 |
@@ -3233,12 +3230,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer](https://jobs.smartrecruiters.com/DieselLaptops/743999719953833) | 93 | Dallas, TX | Software | 2026-08-18 |
 
-## Digs
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineering Intern - Test Automation](https://job-boards.greenhouse.io/digs/jobs/4663939006) | 93 | Vancouver, WA | Software Engineering | 2026-08-19 |
-
 ## Diverge Health
 
 | Title | Score | Location | Department | First seen |
@@ -4042,8 +4033,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Engineering New Analyst](https://higher.gs.com/roles/171568?type=students) | 85 | Dallas, TX | Software | 2026-08-19 |
-| [Engineering New Analyst - Engineering](https://higher.gs.com/roles/171570?type=students) | 85 | Salt Lake City, UT | Software | 2026-08-19 |
+| [Corporate Planning & Management-Senior Analyst-Quantitative Engineering](https://higher.gs.com/roles/180216) | 85 | NYC | AI/ML/Data | 2026-08-19 |
 | [Software Engineer](https://higher.gs.com/roles/179759) | 85 | Dallas, TX | AI/ML/Data | 2026-08-17 |
 | [Software Engineer - Data](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292) | 85 | London, UK | Software | 2026-08-17 |
 
@@ -5978,12 +5968,6 @@
 | [AI/ML-driven ASIC Design and Implementation Automation Engineer - Advanced Chip Engineering - Design Methodologies and Automation](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Diego-Treena-St/AI-ML-driven-ASIC-Design-and-Implementation-Automation-Engineer_R-10065564) | 93 | San Diego, CA | Hardware | 2026-08-17 |
 | [NFC System Software Engineer - Entry Level](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Jose-Holger-Way/NFC-System-Software-Engineer---Entry-Level_R-10064298) | 93 | San Jose, CA | Software | 2026-08-17 |
 
-## Oakland County, Michigan
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Engineering Aide](https://oakgov.wd5.myworkdayjobs.com/careers/job/Waterford-Michigan-United-States/Engineering-Aide--WRC_JR-0000739) | 93 | Waterford Twp, MI | AI/ML/Data | 2026-08-18 |
-
 ## Observable Space
 
 | Title | Score | Location | Department | First seen |
@@ -6007,12 +5991,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Intern – Data Engineering](https://job-boards.greenhouse.io/octaura/jobs/4662934007) | 93 | NYC | AI/ML/Data | 2026-07-13 |
-
-## OKX
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI-Native Mobile Engineer New Grad](https://job-boards.greenhouse.io/okx/jobs/7897680003) | 99 | San Jose, CA | Software | 2026-08-19 |
 
 ## Old Mission
 
@@ -7954,7 +7932,6 @@
 | --- | --- | --- | --- | --- |
 | [F-15 Mission Systems Software Engineer Senior - Associate](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/F-15-Mission-Systems-Software-Engineer--Associate--Experienced----Senior-_JR2026507780) | 93 | Hazelwood, MO | Hardware | 2026-08-17 |
 | [Software Engineer-Developer - Phantom Works Weapons](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Saint-Charles-MO/Software-Engineer-Developer--Phantom-Works-Weapons--Associate-or-Experienced-_JR2026517300-1) | 93 | St Charles, MO / St. Louis, MO | Hardware | 2026-08-17 |
-| [Embedded Software Engineer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Embedded-Software-Engineer---Entry-Level_JR2026522089-1) | 93 | Berkeley, MO / Hazelwood, MO | Hardware | 2026-08-17 |
 | [Embedded Software Engineer - Government Training](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Hazelwood-MO/Embedded-Software-Engineer---Entry-Level_JR2026522089) | 93 | Berkeley, MO / Hazelwood, MO | Hardware | 2026-08-17 |
 | [Software Systems Engineer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Colorado-Springs-CO/Software-Systems-Engineer--Associate-or-Experienced-_JR2026520215-1) | 93 | Colorado Springs, CO | Software | 2026-08-17 |
 | [Intern to Entry Level Conversion Intern Program - Engineering](https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Seattle-WA/Intern-to-Entry-Level-Conversion---Engineering--Summer-2026-Intern-Program-_JR2026516292) | 93 | Germantown, MD / Seattle, WA / Houston, TX / New Orleans, LA / Long Beach, CA / Newburgh, NY / Mesa, AZ / Miami, FL / Colorado Springs, CO / Fairfax, VA / Philadelphia, PA / Merritt Island, FL / Seal Beach, CA / Tukwila, WA / St Charles, MO / San Antonio, TX / St. Louis, MO / Everett, WA / Auburn, WA / Ridgecrest, CA / Heath, OH / Fort Walton Beach, FL / Oklahoma City, OK / Kent, WA / Portland, OR / Huntsville, AL / North Charleston, SC / Huntington Beach, CA / Hazelwood, MO / El Segundo, CA | Software | 2026-07-21 |
