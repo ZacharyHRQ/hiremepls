@@ -1,6 +1,6 @@
 # Open Internships
 
-**2697** internships across **188/188** companies — last updated 2026-08-19.
+**2700** internships across **188/188** companies — last updated 2026-08-19.
 
 ## Companies
 
@@ -172,7 +172,7 @@
 - [Brunswick](#brunswick) (1)
 - [Buyers Edge Platform](#buyers-edge-platform) (1)
 - [By Light Professional IT Services](#by-light-professional-it-services) (1)
-- [ByteDance](#bytedance) (174)
+- [ByteDance](#bytedance) (176)
 - [CACI](#caci) (7)
 - [Caddi Workflow Automation](#caddi-workflow-automation) (1)
 - [Cadence Design Systems](#cadence-design-systems) (9)
@@ -273,6 +273,7 @@
 - [DecisionPoint Corporation](#decisionpoint-corporation) (1)
 - [Dedalus Labs](#dedalus-labs) (1)
 - [Deepgram](#deepgram) (2)
+- [Deeter Analytics](#deeter-analytics) (1)
 - [Deliveroo](#deliveroo) (1)
 - [DellFor Technologies](#dellfor-technologies) (22)
 - [Deloitte](#deloitte) (8)
@@ -404,7 +405,7 @@
 - [GlobalFoundries](#globalfoundries) (3)
 - [Globus Medical](#globus-medical) (1)
 - [GM financial](#gm-financial) (2)
-- [Goldman Sachs](#goldman-sachs) (5)
+- [Goldman Sachs](#goldman-sachs) (4)
 - [Google](#google) (10)
 - [Gradient Robotics](#gradient-robotics) (1)
 - [Gritt Robotics Inc](#gritt-robotics-inc) (1)
@@ -610,7 +611,7 @@
 - [Meyer Distributing](#meyer-distributing) (1)
 - [Microchip Technology](#microchip-technology) (4)
 - [Micron Technology](#micron-technology) (5)
-- [Microsoft](#microsoft) (10)
+- [Microsoft](#microsoft) (11)
 - [Mindsmith](#mindsmith) (1)
 - [Mistral AI](#mistral-ai) (1)
 - [MiTek](#mitek) (1)
@@ -631,6 +632,7 @@
 - [National Laboratory of the Rockies](#national-laboratory-of-the-rockies) (1)
 - [NationGraph](#nationgraph) (1)
 - [NatWest Group](#natwest-group) (1)
+- [NAV CANADA](#nav-canada) (1)
 - [Navy Federal](#navy-federal) (3)
 - [NBCUniversal](#nbcuniversal) (2)
 - [NCR Voyix](#ncr-voyix) (1)
@@ -943,7 +945,7 @@
 - [The Home Depot](#the-home-depot) (3)
 - [The Nuclear Company](#the-nuclear-company) (6)
 - [The Trade Desk](#the-trade-desk) (3)
-- [The Walt Disney Company](#the-walt-disney-company) (2)
+- [The Walt Disney Company](#the-walt-disney-company) (1)
 - [Thermo Fisher Scientific](#thermo-fisher-scientific) (1)
 - [Thomson Reuters](#thomson-reuters) (1)
 - [Thor Solutions](#thor-solutions) (1)
@@ -2278,6 +2280,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Machine Learning Engineer Intern - E-Commerce Risk Control - PhD](https://jobs.bytedance.com/en/position/7675477254269765941/detail) | 85 | Seattle, WA | AI/ML/Data | 2026-08-19 |
+| [Machine Learning Engineer Intern - E-Commerce Risk Control - PhD](https://jobs.bytedance.com/en/position/7675478684795881781/detail) | 85 | San Jose, CA | AI/ML/Data | 2026-08-19 |
 | [Machine Learning Engineer Graduate - E-Commerce Risk Control](https://jobs.bytedance.com/en/position/7675477660855781637/detail) | 91 | San Jose, CA | AI/ML/Data | 2026-08-19 |
 | [Machine Learning Engineer Graduate - E-Commerce Risk Control](https://jobs.bytedance.com/en/position/7675472998912051461/detail) | 91 | Seattle, WA | AI/ML/Data | 2026-08-19 |
 | [Research Scientist Graduate - Video Codec Algorithm](https://jobs.bytedance.com/en/position/7626928937260665093/detail) | 91 | San Diego, CA | AI/ML/Data | 2026-08-19 |
@@ -2776,7 +2780,7 @@
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
 | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -3139,6 +3143,12 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1/application?embed=true) | 93 | Remote in USA | Software | 2026-08-01 |
 | [Software Engineering- Internship (Fall 2026/Summer 2027)](https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1) | 93 | USA \| Remote | Software / Summer 2027 | 2026-07-20 |
+
+## Deeter Analytics
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Machine Learning Engineer](https://jobs.ashbyhq.com/deeter-analytics/2c12339b-d302-427c-9a73-d825b4b942b0/application?embed=true) | 93 | Remote in USA | AI/ML/Data | 2026-08-19 |
 
 ## Deliveroo
 
@@ -4034,7 +4044,6 @@
 | --- | --- | --- | --- | --- |
 | [Engineering New Analyst](https://higher.gs.com/roles/171568?type=students) | 85 | Dallas, TX | Software | 2026-08-19 |
 | [Engineering New Analyst - Engineering](https://higher.gs.com/roles/171570?type=students) | 85 | Salt Lake City, UT | Software | 2026-08-19 |
-| [Corporate Planning & Management-Senior Analyst-Quantitative Engineering](https://higher.gs.com/roles/180216) | 85 | NYC | AI/ML/Data | 2026-08-19 |
 | [Software Engineer](https://higher.gs.com/roles/179759) | 85 | Dallas, TX | AI/ML/Data | 2026-08-17 |
 | [Software Engineer - Data](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292) | 85 | London, UK | Software | 2026-08-17 |
 
@@ -5499,6 +5508,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [AI Software Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393556962891) | 85 | Redmond, WA / Mountain View, CA | Software | 2026-08-19 |
 | [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556960468) | 85 | Redmond, WA | Software | 2026-08-17 |
 | [Software Engineer - PRISMA Research Fabric](https://apply.careers.microsoft.com/careers/job/1970393556937438) | 85 | Redmond, WA | Software | 2026-08-17 |
 | [Software Engineer 2](https://apply.careers.microsoft.com/careers/job/1970393556917742) | 85 | Redmond, WA / Reston, VA | Software | 2026-08-17 |
@@ -5642,6 +5652,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Tech Insight Experience for Women - Engineering](https://rbs.wd3.myworkdayjobs.com/rbs/job/Edinburgh/Tech-Insight-Experience-for-Women---Engineering_R-00276058) | 93 | Edinburgh, UK | Software | 2026-08-17 |
+
+## NAV CANADA
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Entry Level Developer](https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Developer---Entry-Level_JR-8291) | 93 | Ottawa, ON, Canada | Software | 2026-08-19 |
 
 ## Navy Federal
 
@@ -6431,8 +6447,8 @@
 | [Quantitative Developer](https://careers.point72.com/CSJobDetail?jobName=quantitative-developer&jobCode=CSS-0013369&location=New%20York&locale=English) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-08-17 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -7981,7 +7997,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer 1 - Observability & Insights](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Software-Engineer-I_10157423) | 93 | Glendale, CA / NYC | Software | 2026-08-18 |
-| [Product Software Engineer 1](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Product-Software-Engineer-I_10151599) | 93 | Glendale, CA | Software | 2026-08-17 |
 
 ## Thermo Fisher Scientific
 
