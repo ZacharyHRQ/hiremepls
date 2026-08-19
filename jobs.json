@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-19T16:52:56.981Z",
+  "generatedAt": "2026-08-19T17:17:29.034Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2692,
+  "jobCount": 2691,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2611,7 +2611,6 @@
     "canonical:e6ae069044258178": "2026-08-18T22:46:41.666Z",
     "canonical:9daa31c53392037a": "2026-08-18T22:46:41.666Z",
     "canonical:5c248a7e08424be5": "2026-08-18T22:46:41.666Z",
-    "canonical:4900f430e021440c": "2026-08-18T22:46:41.666Z",
     "canonical:6e9b1d61606de8e6": "2026-08-18T22:46:41.666Z",
     "canonical:201a0301e06f2b19": "2026-08-18T22:46:41.666Z",
     "canonical:f120790d2f4ddbde": "2026-08-18T22:46:41.666Z",
@@ -5228,10 +5227,10 @@
       ]
     },
     {
-      "id": "canonical:e8a5b9fc6e1a4de2",
+      "id": "canonical:62beda5aaf0fcc6c",
       "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
-      "location": "Bengaluru",
+      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
+      "location": "Dublin",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -5241,10 +5240,10 @@
       ]
     },
     {
-      "id": "canonical:62beda5aaf0fcc6c",
+      "id": "canonical:e8a5b9fc6e1a4de2",
       "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
-      "location": "Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
+      "location": "Bengaluru",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -6706,6 +6705,20 @@
       ]
     },
     {
+      "id": "canonical:70507c79b6afa2de",
+      "title": "Software Developer Intern",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=7905463",
+      "location": "Montreal, QC, Canada",
+      "department": "Software",
+      "company": "Squarepoint Capital",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:9a2e2f8f76500ed1",
       "title": "Software Engineering Intern",
       "url": "https://kla.wd1.myworkdayjobs.com/AnnArbor/job/Ann-Arbor-MI/Software-Engineering-Intern_2531653",
@@ -7482,6 +7495,20 @@
       ]
     },
     {
+      "id": "canonical:2e1957ef2ef86ad4",
+      "title": "AI Software Engineer Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641",
+      "location": "Phoenix, AZ",
+      "department": "Software",
+      "company": "Intel",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:360f81d0ff355ed6",
       "title": "Software Engineer Intern",
       "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Canton-Engagement-Hub-OH/Software-Engineer-Intern---Fall-2026_2601751-1",
@@ -7735,20 +7762,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:70507c79b6afa2de",
-      "title": "Software Developer Intern",
-      "url": "https://boards.greenhouse.io/embed/job_app?token=7905463",
-      "location": "Montreal, QC, Canada",
-      "department": "Software",
-      "company": "Squarepoint Capital",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -9912,6 +9925,20 @@
       ]
     },
     {
+      "id": "canonical:42d728827081c1e1",
+      "title": "Software Engineer Intern",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630",
+      "location": "Boston, MA / Santa Ana, CA / Fridley, MN / Santa Rosa, CA / Irvine, CA / Mansfield, MA / Mounds View, MN / Tempe, AZ / Memphis, TN / Brooklyn Center, MN / Plymouth, MN / Brooklyn Park, MN / Fort Worth, TX / Dexter, MI / North Haven, CT / Lafayette, CO / Minneapolis, MN / Newton, MA / Jacksonville, FL / Eatontown, NJ / Boulder, CO",
+      "department": "Software",
+      "company": "Medtronic",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:132d9ddb0eea7bdd",
       "title": "WaveLogic Software Engineer Intern",
       "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/WaveLogic-Software---Intern_R031443",
@@ -10777,19 +10804,6 @@
       ]
     },
     {
-      "id": "canonical:ed0787cc5a8f304f",
-      "title": "Software Engineering Intern",
-      "url": "https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093",
-      "location": "London, UK",
-      "department": "Software",
-      "company": "Samsara",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:6be2062ffb2a8111",
       "title": "Software Engineering Intern/Co-op",
       "url": "https://boards.greenhouse.io/spacex/jobs/8621757002",
@@ -10824,20 +10838,6 @@
       "location": "Waukegan, IL / Milwaukee, WI / Glenview, IL / Pleasant Prairie, WI / Kenosha, WI",
       "department": "AI/ML/Data",
       "company": "Uline",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:2e1957ef2ef86ad4",
-      "title": "AI Software Engineer Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641",
-      "location": "Phoenix, AZ",
-      "department": "Software",
-      "company": "Intel",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -13764,12 +13764,12 @@
       ]
     },
     {
-      "id": "canonical:e7112f72a0931be2",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.l3harris.com/job/Melbourne-Intern,-Software-Engineer-FL-32919/1420708400/?ats=successfactors",
-      "location": "Melbourne, FL",
-      "department": "Hardware",
-      "company": "L3Harris Technologies",
+      "id": "canonical:70bd8031a4940b10",
+      "title": "Software Engineer Intern - TikTok Search Data Infrastructure",
+      "url": "https://lifeattiktok.com/search/7675129440242010421",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "TikTok",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -13777,12 +13777,12 @@
       ]
     },
     {
-      "id": "canonical:b193cf2d6a74bfb1",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.l3harris.com/job/Herndon-Intern-C,-Software-Engineer-VA-20171/1420704700/?ats=successfactors",
-      "location": "Herndon, VA",
-      "department": "Hardware",
-      "company": "L3Harris Technologies",
+      "id": "canonical:42a7330880b6ac3d",
+      "title": "Software Engineer Intern - TikTok Search Data Infra",
+      "url": "https://lifeattiktok.com/search/7675128776856029445",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "TikTok",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -13794,6 +13794,19 @@
       "title": "Software Engineer Intern 3",
       "url": "https://jobs.l3harris.com/job/Colorado-Springs-Intern-C,-Software-Engineer-CO-80916/1420759900/?ats=successfactors",
       "location": "Colorado Springs, CO",
+      "department": "Hardware",
+      "company": "L3Harris Technologies",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:e7112f72a0931be2",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.l3harris.com/job/Melbourne-Intern,-Software-Engineer-FL-32919/1420708400/?ats=successfactors",
+      "location": "Melbourne, FL",
       "department": "Hardware",
       "company": "L3Harris Technologies",
       "score": 85,
@@ -13816,12 +13829,25 @@
       ]
     },
     {
-      "id": "canonical:51ad17a02704d96a",
-      "title": "Data Scientist Intern - Group Risk Management",
-      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Scientist-Intern--8-Months-_R-0000184624",
-      "location": "Toronto, ON, Canada",
+      "id": "canonical:b193cf2d6a74bfb1",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.l3harris.com/job/Herndon-Intern-C,-Software-Engineer-VA-20171/1420704700/?ats=successfactors",
+      "location": "Herndon, VA",
+      "department": "Hardware",
+      "company": "L3Harris Technologies",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:bbe70c5f8e21ac9e",
+      "title": "AI Innovation Engineer Intern",
+      "url": "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ASC-Atlanta-HQ-GA/AI-Innovation-Engineer_REQ_93190",
+      "location": "Atlanta, GA",
       "department": "AI/ML/Data",
-      "company": "Royal Bank of Canada",
+      "company": "Amcor",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -13856,20 +13882,6 @@
       ]
     },
     {
-      "id": "canonical:bbe70c5f8e21ac9e",
-      "title": "AI Innovation Engineer Intern",
-      "url": "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ASC-Atlanta-HQ-GA/AI-Innovation-Engineer_REQ_93190",
-      "location": "Atlanta, GA",
-      "department": "AI/ML/Data",
-      "company": "Amcor",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:a522f49ad7e2b21e",
       "title": "Software Engineer Intern",
       "url": "https://jobs-cesi.icims.com/jobs/11204/job?mobile=true&needsRedirect=false",
@@ -13883,12 +13895,12 @@
       ]
     },
     {
-      "id": "canonical:7c0bd1b0948ce847",
-      "title": "Software Engineer Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WESTFORD-WFD7--7-Technology-Park-Dr--BLDG-7/Software-Engineering-Intern--Summer-2027-_01867678",
-      "location": "Westford, MA",
-      "department": "Software",
-      "company": "RTX",
+      "id": "canonical:e8ed8aac2eda3ef1",
+      "title": "AI Researcher Intern",
+      "url": "https://job-boards.greenhouse.io/snorkelai/jobs/6146378004",
+      "location": "NYC",
+      "department": "AI/ML/Data",
+      "company": "Snorkel AI",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -14032,26 +14044,12 @@
       ]
     },
     {
-      "id": "canonical:42d728827081c1e1",
-      "title": "Software Engineer Intern",
-      "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630",
-      "location": "Boston, MA / Santa Ana, CA / Fridley, MN / Santa Rosa, CA / Irvine, CA / Mansfield, MA / Mounds View, MN / Tempe, AZ / Memphis, TN / Brooklyn Center, MN / Plymouth, MN / Brooklyn Park, MN / Fort Worth, TX / Dexter, MI / North Haven, CT / Lafayette, CO / Minneapolis, MN / Newton, MA / Jacksonville, FL / Eatontown, NJ / Boulder, CO",
-      "department": "Software",
-      "company": "Medtronic",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:e8ed8aac2eda3ef1",
-      "title": "AI Researcher Intern",
-      "url": "https://job-boards.greenhouse.io/snorkelai/jobs/6146378004",
-      "location": "NYC",
+      "id": "canonical:51ad17a02704d96a",
+      "title": "Data Scientist Intern - Group Risk Management",
+      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Scientist-Intern--8-Months-_R-0000184624",
+      "location": "Toronto, ON, Canada",
       "department": "AI/ML/Data",
-      "company": "Snorkel AI",
+      "company": "Royal Bank of Canada",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -14060,29 +14058,17 @@
       ]
     },
     {
-      "id": "canonical:70bd8031a4940b10",
-      "title": "Software Engineer Intern - TikTok Search Data Infrastructure",
-      "url": "https://lifeattiktok.com/search/7675129440242010421",
-      "location": "San Jose, CA",
+      "id": "canonical:7c0bd1b0948ce847",
+      "title": "Software Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WESTFORD-WFD7--7-Technology-Park-Dr--BLDG-7/Software-Engineering-Intern--Summer-2027-_01867678",
+      "location": "Westford, MA",
       "department": "Software",
-      "company": "TikTok",
-      "score": 85,
+      "company": "RTX",
+      "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:42a7330880b6ac3d",
-      "title": "Software Engineer Intern - TikTok Search Data Infra",
-      "url": "https://lifeattiktok.com/search/7675128776856029445",
-      "location": "San Jose, CA",
-      "department": "Software",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -14164,6 +14150,19 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ed0787cc5a8f304f",
+      "title": "Software Engineering Intern",
+      "url": "https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093",
+      "location": "London, UK",
+      "department": "Software",
+      "company": "Samsara",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
@@ -18089,20 +18088,6 @@
       ]
     },
     {
-      "id": "canonical:926d17c86501e459",
-      "title": "ML Engineer - AVP",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Jersey-City-NJ/ML-Engineer_10076539-WD",
-      "location": "NYC",
-      "department": "AI/ML/Data",
-      "company": "MUFG",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:1eab9d844a03d30b",
       "title": "Graduate Quant Developer",
       "url": "https://boards.greenhouse.io/embed/job_app?token=7918610",
@@ -19600,6 +19585,21 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:4a2b7f23d5c61afb",
+      "title": "Software Engineer New Grad",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-792647",
+      "location": "Burlington, MA",
+      "department": "Software",
+      "company": "State Street",
+      "score": 99,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
         "direct ATS"
       ]
     },
@@ -23546,20 +23546,6 @@
       ]
     },
     {
-      "id": "canonical:47fd5426103bfed9",
-      "title": "Software Engineer 1",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01861525",
-      "location": "Marlborough, MA",
-      "department": "Hardware",
-      "company": "RTX",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:7b4620f6739f6e1b",
       "title": "Junior Generative AI Application Developer",
       "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Junior-Generative-AI-Application-Developer_26962476",
@@ -27203,6 +27189,20 @@
       ]
     },
     {
+      "id": "canonical:03c3caf767d81c23",
+      "title": "Associate Cyber Software Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis-Junction/XMLNAME-2026----Associate-Cyber-Software-Engineer---Annapolis-Junction-MD_R10243399",
+      "location": "Annapolis Junction, MD",
+      "department": "Software",
+      "company": "Northrop Grumman",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:4601c7f746e1356d",
       "title": "Product Engineer - Design Evaluation",
       "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Engineer---RF-System_R263805",
@@ -30635,21 +30635,6 @@
       ]
     },
     {
-      "id": "canonical:4a2b7f23d5c61afb",
-      "title": "Software Engineer New Grad",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-795953",
-      "location": "Burlington, MA",
-      "department": "Software",
-      "company": "State Street",
-      "score": 99,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:0f92324e67826e1d",
       "title": "Agent Evaluation & Evolution Researcher Graduate - Applied Machine Learning Ark",
       "url": "https://jobs.bytedance.com/en/position/7672391176102676741/detail",
@@ -32447,20 +32432,6 @@
       "location": "Wilmington, DE",
       "department": "Software",
       "company": "BlackRock",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:51063842bc6ce6d2",
-      "title": "Software Engineer 1",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineer-I--Onsite-_01866533",
-      "location": "West Valley City, UT",
-      "department": "Software",
-      "company": "RTX",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -34553,6 +34524,20 @@
       ]
     },
     {
+      "id": "canonical:14f21457058d1e11",
+      "title": "Data Scientist",
+      "url": "https://jobs.ashbyhq.com/sciemo/63626f61-8507-482c-8beb-56efcbb55cee/application?embed=true",
+      "location": "Research Triangle Park, Durham, NC / Philadelphia, PA / NYC / Atlanta, GA",
+      "department": "AI/ML/Data",
+      "company": "Sciemo",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:3b8c38ed20a3b7b2",
       "title": "Application Developer Associate",
       "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Application-Developer-FL-32919/1420524300/?ats=successfactors",
@@ -34563,6 +34548,48 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:47fd5426103bfed9",
+      "title": "Software Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01861525",
+      "location": "Marlborough, MA",
+      "department": "Hardware",
+      "company": "RTX",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:926d17c86501e459",
+      "title": "ML Engineer - AVP",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Jersey-City-NJ/ML-Engineer_10076539-WD",
+      "location": "NYC",
+      "department": "AI/ML/Data",
+      "company": "MUFG",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:51063842bc6ce6d2",
+      "title": "Software Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineer-I--Onsite-_01866533",
+      "location": "West Valley City, UT",
+      "department": "Software",
+      "company": "RTX",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -34594,53 +34621,12 @@
       ]
     },
     {
-      "id": "canonical:f120790d2f4ddbde",
-      "title": "Associate Data Scientist - Decision Analytics",
-      "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist---Decision-Analytics_Req190547",
-      "location": "Atlanta, GA",
-      "department": "AI/ML/Data",
-      "company": "The Home Depot",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:6e9b1d61606de8e6",
-      "title": "Associate Research Scientist",
-      "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Associate-Research-Scientist_R141382-2",
-      "location": "Boston, MA",
-      "department": "AI/ML/Data",
-      "company": "Northeastern University",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:201a0301e06f2b19",
       "title": "R&D Engineer 1 - Software",
       "url": "https://jobs.keysight.com/jobs/53966?icims=1",
       "location": "Colorado Springs, CO",
       "department": "Software",
       "company": "Keysight Technologies",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:4900f430e021440c",
-      "title": "Systems Engineer - Measurement Analyst - Submarine Combat Systems",
-      "url": "https://careers-gdms.icims.com/jobs/74389/job?mobile=true&needsRedirect=false",
-      "location": "Manassas, VA",
-      "department": "AI/ML/Data",
-      "company": "General Dynamics Mission Systems",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -34659,6 +34645,34 @@
         "SWE-aligned",
         "high-signal role",
         "new grad"
+      ]
+    },
+    {
+      "id": "canonical:6e9b1d61606de8e6",
+      "title": "Associate Research Scientist",
+      "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Associate-Research-Scientist_R141382-2",
+      "location": "Boston, MA",
+      "department": "AI/ML/Data",
+      "company": "Northeastern University",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f120790d2f4ddbde",
+      "title": "Associate Data Scientist - Decision Analytics",
+      "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist---Decision-Analytics_Req190547",
+      "location": "Atlanta, GA",
+      "department": "AI/ML/Data",
+      "company": "The Home Depot",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -34682,76 +34696,6 @@
       "location": "Austin, TX",
       "department": "Software",
       "company": "Applied Materials",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:2a4a95a62d7d82d6",
-      "title": "Systems Design Engineer New Grad",
-      "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000144160389",
-      "location": "Austin, TX",
-      "department": "Hardware",
-      "company": "Renesas Electronics",
-      "score": 89,
-      "scoreReasons": [
-        "SWE-aligned",
-        "new grad",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:7c6c7b2c9b9b8a81",
-      "title": "R&D Engineer 1 - II - III",
-      "url": "https://jobs.smartrecruiters.com/CrownInnovationsInc/744000144158449",
-      "location": "Mountain View, CA",
-      "department": "AI/ML/Data",
-      "company": "Crown Innovations",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:6e4a84b34f3e70ed",
-      "title": "Software Engineer 1 - Advanced Products and Solutions - EO/IR Programs",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Software-Engineer-I--Onsite-_01867976",
-      "location": "McKinney, TX",
-      "department": "Software",
-      "company": "RTX",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:3f6ef5fdb2232bf1",
-      "title": "Software Engineer 1",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Software-Engineer-I--Onsite-_01866057",
-      "location": "Windsor Locks, CT",
-      "department": "Hardware",
-      "company": "RTX",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:3a23f40e4e7c18c4",
-      "title": "Software Engineer 1",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Software-Engineer-I--Onsite-_01865374",
-      "location": "Jupiter, FL",
-      "department": "Hardware",
-      "company": "RTX",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -35159,6 +35103,34 @@
       ]
     },
     {
+      "id": "canonical:6e4a84b34f3e70ed",
+      "title": "Software Engineer 1 - Advanced Products and Solutions - EO/IR Programs",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Software-Engineer-I--Onsite-_01867976",
+      "location": "McKinney, TX",
+      "department": "Software",
+      "company": "RTX",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:7c6c7b2c9b9b8a81",
+      "title": "R&D Engineer 1 - II - III",
+      "url": "https://jobs.smartrecruiters.com/CrownInnovationsInc/744000144158449",
+      "location": "Mountain View, CA",
+      "department": "AI/ML/Data",
+      "company": "Crown Innovations",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:74c2df6adfbdf397",
       "title": "Software Engineer, Builder Tools",
       "url": "https://careers.roblox.com/jobs/6759944",
@@ -35172,16 +35144,16 @@
       ]
     },
     {
-      "id": "canonical:03c3caf767d81c23",
-      "title": "Associate Cyber Software Engineer",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis-Junction/XMLNAME-2026----Associate-Cyber-Software-Engineer---Annapolis-Junction-MD_R10243399",
-      "location": "Annapolis Junction, MD",
-      "department": "Software",
-      "company": "Northrop Grumman",
-      "score": 93,
+      "id": "canonical:2a4a95a62d7d82d6",
+      "title": "Systems Design Engineer New Grad",
+      "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000144160389",
+      "location": "Austin, TX",
+      "department": "Hardware",
+      "company": "Renesas Electronics",
+      "score": 89,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
+        "new grad",
         "direct ATS"
       ]
     },
@@ -35215,12 +35187,26 @@
       ]
     },
     {
-      "id": "canonical:14f21457058d1e11",
-      "title": "Data Scientist",
-      "url": "https://jobs.ashbyhq.com/sciemo/63626f61-8507-482c-8beb-56efcbb55cee/application?embed=true",
-      "location": "Research Triangle Park, Durham, NC / Philadelphia, PA / NYC / Atlanta, GA",
-      "department": "AI/ML/Data",
-      "company": "Sciemo",
+      "id": "canonical:3f6ef5fdb2232bf1",
+      "title": "Software Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Software-Engineer-I--Onsite-_01866057",
+      "location": "Windsor Locks, CT",
+      "department": "Hardware",
+      "company": "RTX",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:3a23f40e4e7c18c4",
+      "title": "Software Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Software-Engineer-I--Onsite-_01865374",
+      "location": "Jupiter, FL",
+      "department": "Hardware",
+      "company": "RTX",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -39007,20 +38993,6 @@
       ]
     },
     {
-      "id": "canonical:e22881e22c747207",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Software-Engineering-Intern--Summer-2027-_01867324",
-      "location": "US-IA-CEDAR RAPIDS-192 ~ 1205 Continental Place NE ~ BLDG 192",
-      "department": "Software / Summer 2027",
-      "company": "RTX",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:e0ce9547f4c3878b",
       "title": "Software Engineering Intern (Summer 2027)",
       "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01867487",
@@ -39608,6 +39580,20 @@
       "location": "New York",
       "department": "Quant / Summer 2027",
       "company": "Virtu Financial",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:e22881e22c747207",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Software-Engineering-Intern--Summer-2027-_01867324",
+      "location": "US-IA-CEDAR RAPIDS-192 ~ 1205 Continental Place NE ~ BLDG 192",
+      "department": "Software / Summer 2027",
+      "company": "RTX",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",

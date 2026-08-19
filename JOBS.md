@@ -1,6 +1,6 @@
 # Open Internships
 
-**2692** internships across **188/188** companies — last updated 2026-08-19.
+**2691** internships across **188/188** companies — last updated 2026-08-19.
 
 ## Companies
 
@@ -385,7 +385,7 @@
 - [Generac](#generac) (3)
 - [General Dynamics](#general-dynamics) (1)
 - [General Dynamics Information Technology](#general-dynamics-information-technology) (7)
-- [General Dynamics Mission Systems](#general-dynamics-mission-systems) (8)
+- [General Dynamics Mission Systems](#general-dynamics-mission-systems) (7)
 - [General Matter](#general-matter) (1)
 - [General Motors](#general-motors) (2)
 - [Genetec](#genetec) (4)
@@ -3897,7 +3897,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Systems Engineer - Measurement Analyst - Submarine Combat Systems](https://careers-gdms.icims.com/jobs/74389/job?mobile=true&needsRedirect=false) | 85 | Manassas, VA | AI/ML/Data | 2026-08-18 |
 | [Entry Level Infrastructure Hardware Systems Engineer](https://careers-gdms.icims.com/jobs/72936/job?mobile=true&needsRedirect=false) | 85 | Pittsfield, MA | Hardware | 2026-08-17 |
 | [Entry Level Infrastructure Software Engineer](https://careers-gdms.icims.com/jobs/72580/job?mobile=true&needsRedirect=false) | 85 | Pittsfield, MA | Software | 2026-08-17 |
 | [Entry Level Software Engineer](https://careers-gdms.icims.com/jobs/72592/job?mobile=true&needsRedirect=false) | 85 | Brooklyn, OH | Software | 2026-08-17 |
@@ -4927,8 +4926,8 @@
 | [Associate Data Architect - Business Intelligence](https://jobs.l3harris.com/job/Melbourne-Associate,-Data-Architect-FL-32901/1420890100/?ats=successfactors) | 85 | Salt Lake City, UT / Rochester, NY / Nashville, TN / Londonderry, NH / Clifton, NJ / Melbourne, FL / Carlsbad, CA | AI/ML/Data | 2026-08-19 |
 | [Data Architect Senior Associate - Business Intelligence](https://jobs.l3harris.com/job/Melbourne-Senior-Associate,-Data-Architect-FL-32901/1420890800/?ats=successfactors) | 85 | Salt Lake City, UT / Rochester, NY / Nashville, TN / Londonderry, NH / Clifton, NJ / Melbourne, FL / Carlsbad, CA | AI/ML/Data | 2026-08-19 |
 | [Software Engineer Intern](https://jobs.l3harris.com/job/Melbourne-Intern,-Software-Engineer-FL-32919/1420708400/?ats=successfactors) | 85 | Melbourne, FL | Hardware | 2026-08-18 |
-| [Software Engineer Intern](https://jobs.l3harris.com/job/Herndon-Intern-C,-Software-Engineer-VA-20171/1420704700/?ats=successfactors) | 85 | Herndon, VA | Hardware | 2026-08-18 |
 | [Software Engineer Intern](https://jobs.l3harris.com/job/Colorado-Springs-Intern-C,-Software-Engineer-CO-80916/1420701600/?ats=successfactors) | 85 | Colorado Springs, CO | Hardware | 2026-08-18 |
+| [Software Engineer Intern](https://jobs.l3harris.com/job/Herndon-Intern-C,-Software-Engineer-VA-20171/1420704700/?ats=successfactors) | 85 | Herndon, VA | Hardware | 2026-08-18 |
 | [Software Engineer Intern 3](https://jobs.l3harris.com/job/Colorado-Springs-Intern-C,-Software-Engineer-CO-80916/1420759900/?ats=successfactors) | 85 | Colorado Springs, CO | Hardware | 2026-08-18 |
 | [Application Developer Associate](https://jobs.l3harris.com/job/Melbourne-Associate,-Application-Developer-FL-32919/1420524300/?ats=successfactors) | 85 | Melbourne, FL | Software | 2026-08-18 |
 | [Software Engineer Intern](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1420340500/?ats=successfactors) | 85 | Palm Bay, FL | Hardware | 2026-08-18 |
@@ -7606,7 +7605,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer New Grad](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-795953) | 99 | Burlington, MA | Software | 2026-08-17 |
+| [Software Engineer New Grad](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-792647) | 99 | Burlington, MA | Software | 2026-08-17 |
 | [Full Stack Software Engineer - Officer](https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Full-Stack-Software-Engineer--Officer_R-792060) | 93 | Toronto, ON, Canada | Software | 2026-08-17 |
 
 ## Stellar Science
