@@ -1,6 +1,6 @@
 # Open Internships
 
-**2717** internships across **188/188** companies — last updated 2026-08-20.
+**2716** internships across **188/188** companies — last updated 2026-08-20.
 
 ## Companies
 
@@ -86,7 +86,6 @@
 - [Artefact](#artefact) (1)
 - [Artera](#artera) (1)
 - [Artera Technologies](#artera-technologies) (1)
-- [Artisan Partners](#artisan-partners) (1)
 - [Ashby](#ashby) (1)
 - [ASM International](#asm-international) (1)
 - [ASSA ABLOY](#assa-abloy) (1)
@@ -1703,12 +1702,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer](https://arteratechnologies.applytojob.com/apply/CrjaEaiAxp/Software-Engineers) | 85 | Annapolis Junction, MD / Fort Meade, MD | Software | 2026-08-17 |
-
-## Artisan Partners
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Engineer Intern - Platform & Product](https://www.artisanpartners.com/careers/career-opportunities.html?gh_jid=8132641) | 85 | Milwaukee, WI | AI/ML/Data | 2026-08-17 |
 
 ## Ashby
 
@@ -7599,7 +7592,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer New Grad](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-792647) | 99 | Burlington, MA | Software | 2026-08-17 |
+| [Software Engineer New Grad](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-795953) | 99 | Burlington, MA | Software | 2026-08-17 |
 | [Full Stack Software Engineer - Officer](https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Full-Stack-Software-Engineer--Officer_R-792060) | 93 | Toronto, ON, Canada | Software | 2026-08-17 |
 
 ## Stellar Science
