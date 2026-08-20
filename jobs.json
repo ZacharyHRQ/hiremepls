@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-20T16:23:12.547Z",
+  "generatedAt": "2026-08-20T16:58:37.583Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2717,
+  "jobCount": 2716,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -772,7 +772,6 @@
     "canonical:590ef4739668bc87": "2026-08-15T19:13:58.772Z",
     "canonical:0e9e3f24b312ca3e": "2026-08-15T23:12:07.275Z",
     "canonical:edc62f7832537a12": "2026-08-15T23:12:07.275Z",
-    "canonical:7cfcff8cf1f7588a": "2026-08-15T23:12:07.275Z",
     "canonical:2ff1cdec06dabfc6": "2026-08-15T23:12:07.275Z",
     "canonical:71f4c1680b019759": "2026-08-16T09:19:37.366Z",
     "canonical:2696d27e53de0c2e": "2026-08-16T12:17:42.410Z",
@@ -5338,7 +5337,7 @@
     {
       "id": "canonical:1a056010d15d11c7",
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -9610,20 +9609,6 @@
       "location": "NYC",
       "department": "Software",
       "company": "Virtu Financial",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:7cfcff8cf1f7588a",
-      "title": "Embedded Software Engineer Intern",
-      "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004",
-      "location": "SF",
-      "department": "Hardware",
-      "company": "Redwood Materials",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
