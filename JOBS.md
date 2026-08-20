@@ -110,7 +110,7 @@
 - [Avalore](#avalore) (1)
 - [Avoca AI](#avoca-ai) (1)
 - [Axis Capital](#axis-capital) (1)
-- [Axon](#axon) (3)
+- [Axon](#axon) (2)
 - [Axos Bank](#axos-bank) (3)
 - [AXQ Capital](#axq-capital) (1)
 - [Babel Street](#babel-street) (1)
@@ -135,7 +135,7 @@
 - [Binance](#binance) (1)
 - [Bits to Atoms](#bits-to-atoms) (1)
 - [Black Box](#black-box) (1)
-- [Black Cape](#black-cape) (2)
+- [Black Cape](#black-cape) (1)
 - [Blackberry](#blackberry) (1)
 - [BlackEdge Capital](#blackedge-capital) (2)
 - [BlackRock](#blackrock) (1)
@@ -246,6 +246,7 @@
 - [Crusoe](#crusoe) (2)
 - [CTG](#ctg) (1)
 - [CTGT](#ctgt) (1)
+- [Cubist Systematic Strategies](#cubist-systematic-strategies) (1)
 - [Cummins](#cummins) (9)
 - [Curtiss-Wright Corporation](#curtiss-wright-corporation) (1)
 - [CWILL](#cwill) (1)
@@ -519,7 +520,7 @@
 - [KOSTAL Group](#kostal-group) (1)
 - [KPMG](#kpmg) (1)
 - [Kyndryl](#kyndryl) (2)
-- [L3Harris Technologies](#l3harris-technologies) (30)
+- [L3Harris Technologies](#l3harris-technologies) (29)
 - [Lambda](#lambda) (1)
 - [Laserfiche](#laserfiche) (1)
 - [Lawrence Livermore National Laboratory (LLNL)](#lawrence-livermore-national-laboratory-llnl) (5)
@@ -768,6 +769,7 @@
 - [RELX](#relx) (1)
 - [Remodel Health](#remodel-health) (1)
 - [Renaissance Technologies](#renaissance-technologies) (1)
+- [RenderATL](#renderatl) (1)
 - [Rendezvous Robotics](#rendezvous-robotics) (1)
 - [Repligen](#repligen) (1)
 - [Replit](#replit) (3)
@@ -919,6 +921,7 @@
 - [Tenstorrent](#tenstorrent) (1)
 - [Terranova](#terranova) (1)
 - [Teserac](#teserac) (1)
+- [Tesla](#tesla) (1)
 - [Testing Xperts](#testing-xperts) (2)
 - [TETRAMEM](#tetramem) (1)
 - [Tevora](#tevora) (1)
@@ -1868,8 +1871,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Firmware Engineer Intern - Platform Firmware](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837246003) | 93 | Boston, MA / Seattle, WA | Hardware | 2026-08-07 |
-| [Software Engineering Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003) | 93 | Boston, MA / Seattle, WA | Software | 2026-07-27 |
+| [US Firmware Engineering Internship](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837246003) | 83 | Seattle, Washington, United States | Hardware / Summer 2027 | 2026-08-20 |
 | [Firmware Engineering Internship](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800628003) | 83 | Boston, MA / Seattle, WA | Hardware | 2026-07-27 |
 
 ## Axos Bank
@@ -2029,7 +2031,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Python Data Engineer](https://blackcape.applytojob.com/apply/AxU2pDbq3P/Python-Data-Engineer) | 85 | Tampa, FL | AI/ML/Data | 2026-08-17 |
 | [Software Engineer Intern](https://blackcape.applytojob.com/apply/7o6mmAYryt/US-Military-Skillbridge-Internship-Software-EngineerArlington-VA) | 85 | Arlington County, Arlington, VA | Software | 2026-08-03 |
 
 ## Blackberry
@@ -2737,7 +2738,7 @@
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
 | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -2956,6 +2957,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application) | 93 | SF | Software | 2026-08-01 |
+
+## Cubist Systematic Strategies
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Quantitative Developer Intern](https://job-boards.greenhouse.io/embed/job_app?for=point72&jr_id=6a07069024dcb03739f1ec72&token=7297613002) | 93 | New York, NY | — | 2026-08-20 |
 
 ## Cummins
 
@@ -4883,7 +4890,6 @@
 | [Software Engineering Associate](https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1421454800/?ats=successfactors) | 85 | Rochester, NY | Hardware | 2026-08-20 |
 | [Software Engineering Senior Associate](https://jobs.l3harris.com/job/Tulsa-Senior-Associate,-Software-Engineering-OK-74115/1421451700/?ats=successfactors) | 85 | Tulsa, OK | Hardware | 2026-08-20 |
 | [Associate Software Engineer](https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineering-UT-84116/1421372400/?ats=successfactors) | 85 | Salt Lake City, UT | Hardware | 2026-08-20 |
-| [Associate Software Engineering](https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineering-(Colorado-Springs,-CO)-CO-80925/1421228500/?ats=successfactors) | 85 | Colorado Springs, CO | Software | 2026-08-19 |
 | [Application Developer Associate - Enterprise Data and AI](https://jobs.l3harris.com/job/Melbourne-Associate,-Application-Developer-FL-32919/1421158000/?ats=successfactors) | 85 | Melbourne, FL | Software | 2026-08-19 |
 | [Associate – Software Engineer](https://jobs.l3harris.com/job/Yorba-Linda-Associate,-Software-Engineer-CA-92887/1410487500/?ats=successfactors) | 85 | Yorba Linda, CA | Hardware | 2026-08-19 |
 | [Associate Data Architect - Business Intelligence](https://jobs.l3harris.com/job/Melbourne-Associate,-Data-Architect-FL-32901/1420890100/?ats=successfactors) | 85 | Salt Lake City, UT / Rochester, NY / Nashville, TN / Londonderry, NH / Clifton, NJ / Melbourne, FL / Carlsbad, CA | AI/ML/Data | 2026-08-19 |
@@ -6371,8 +6377,8 @@
 | [Quantitative Developer](https://careers.point72.com/CSJobDetail?jobName=quantitative-developer&jobCode=CSS-0013369&location=New%20York&locale=English) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-08-17 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -6742,6 +6748,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Research Scientist](https://www.rentec.com/Careers.action?jobs=true&selectedPosition=researchScientist) | 75 | East Setauket, NY | — | 2026-08-17 |
+
+## RenderATL
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003) | 93 | Seattle, WA | — | 2026-08-20 |
 
 ## Rendezvous Robotics
 
@@ -7826,6 +7838,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [AI Engineer](https://apply.workable.com/teserac-inc/j/6DB18627C3/apply) | 93 | Santa Clara, CA | AI/ML/Data | 2026-08-17 |
+
+## Tesla
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Machine Learning Engineer Intern - Reliability Energy Engineering](https://www.tesla.com/careers/search/job/272619) | 85 | Palo Alto, CA | AI/ML/Data | 2026-08-20 |
 
 ## Testing Xperts
 
