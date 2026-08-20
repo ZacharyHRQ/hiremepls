@@ -1,6 +1,6 @@
 # Open Internships
 
-**2716** internships across **188/188** companies — last updated 2026-08-20.
+**2717** internships across **188/188** companies — last updated 2026-08-20.
 
 ## Companies
 
@@ -372,7 +372,7 @@
 - [Gecko Robotics](#gecko-robotics) (1)
 - [Gemini](#gemini) (1)
 - [Generac](#generac) (3)
-- [General Dynamics Information Technology](#general-dynamics-information-technology) (8)
+- [General Dynamics Information Technology](#general-dynamics-information-technology) (7)
 - [General Dynamics Mission Systems](#general-dynamics-mission-systems) (8)
 - [General Matter](#general-matter) (2)
 - [General Motors](#general-motors) (3)
@@ -465,7 +465,7 @@
 - [Integra FEC](#integra-fec) (2)
 - [Integration Innovation (i3)](#integration-innovation-i3) (1)
 - [Integrity](#integrity) (1)
-- [Intel](#intel) (4)
+- [Intel](#intel) (6)
 - [IntelliGenesis](#intelligenesis) (2)
 - [Interdigital](#interdigital) (1)
 - [interface.ai](#interface-ai) (1)
@@ -2735,9 +2735,9 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
-| [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | 93 | In-Office | — | 2026-08-11 |
+| [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -3818,7 +3818,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Data Scientist Associate](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Sterling/Data-Scientist-Associate_RQ226712) | 93 | Sterling, VA | AI/ML/Data | 2026-08-19 |
 | [AI Engineer Associate](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/AI-Engineer_RQ226699) | 93 | United States | Software | 2026-08-18 |
 | [Data Quality Monitoring Engineer](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NE-Offutt-AFB/Data-Quality-Monitoring-Engineer_RQ226071-2) | 93 | Offutt AFB, NE | AI/ML/Data | 2026-08-18 |
 | [Human Performance Data Scientist 1](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-Hurlburt-Field---229-Cody-Ave-FLC017/Human-Performance-Data-Scientist-I_RQ210954) | 93 | Hurlburt Field, FL | AI/ML/Data | 2026-08-17 |
@@ -4456,6 +4455,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Graduate Intern](https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/Software-Engineer-Graduate-Intern_JR0286489) | 99 | US, Arizona, Phoenix | Software / Not stated | 2026-08-20 |
+| [Software Engineer Graduate Intern](https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/Software-Engineer-Graduate-Intern_JR0286491) | 99 | US, Oregon, Hillsboro | Software / Not stated | 2026-08-20 |
 | [AI Software Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641) | 93 | Phoenix, AZ | Software | 2026-08-19 |
 | [AI Software Engineer Graduate Intern](https://intel.wd1.myworkdayjobs.com/external/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989) | 99 | Virtual US | Data & ML/AI / Not stated | 2026-08-03 |
 | [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) | 93 | Hillsboro, OR / Folsom, CA | Hardware | 2026-07-31 |
