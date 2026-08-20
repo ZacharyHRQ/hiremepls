@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T16:58:37.583Z",
+  "generatedAt": "2026-08-20T17:26:42.595Z",
   "companyCount": 188,
   "okCount": 188,
   "jobCount": 2716,
@@ -5337,7 +5337,7 @@
     {
       "id": "canonical:1a056010d15d11c7",
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -39278,12 +39278,12 @@
       ]
     },
     {
-      "id": "canonical:ac81291362622ecd",
-      "title": "Quantitative Researcher - Internship - Summer 2027",
-      "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000144592181",
-      "location": "New York, NY, United States",
-      "department": "Quant / Summer 2027",
-      "company": "InfiniteQuant",
+      "id": "canonical:eae7b40779f0f1f3",
+      "title": "AI Software Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5214224007",
+      "location": "Durham, NC",
+      "department": "Data & ML/AI / Fall 2026",
+      "company": "Toshiba Global Commerce",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -39292,12 +39292,12 @@
       ]
     },
     {
-      "id": "canonical:eae7b40779f0f1f3",
-      "title": "AI Software Engineering Intern",
-      "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5214224007",
-      "location": "Durham, NC",
-      "department": "Data & ML/AI / Fall 2026",
-      "company": "Toshiba Global Commerce",
+      "id": "canonical:ac81291362622ecd",
+      "title": "Quantitative Researcher - Internship - Summer 2027",
+      "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000144592181",
+      "location": "New York, NY, United States",
+      "department": "Quant / Summer 2027",
+      "company": "InfiniteQuant",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
