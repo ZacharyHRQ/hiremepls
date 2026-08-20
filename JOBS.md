@@ -1,6 +1,6 @@
 # Open Internships
 
-**2708** internships across **188/188** companies — last updated 2026-08-20.
+**2717** internships across **188/188** companies — last updated 2026-08-20.
 
 ## Companies
 
@@ -72,7 +72,6 @@
 - [Aquatic Capital Management](#aquatic-capital-management) (4)
 - [Archer](#archer) (1)
 - [Ardian](#ardian) (1)
-- [Ares Management](#ares-management) (1)
 - [Arevon](#arevon) (1)
 - [Argmax](#argmax) (1)
 - [Argonne National Laboratory](#argonne-national-laboratory) (3)
@@ -228,7 +227,7 @@
 - [Conduent](#conduent) (1)
 - [ConeTec Group](#conetec-group) (2)
 - [Confido](#confido) (1)
-- [Constellation Energy](#constellation-energy) (1)
+- [Constellation Energy](#constellation-energy) (2)
 - [Constellation Space](#constellation-space) (1)
 - [Content Guru](#content-guru) (1)
 - [Copart](#copart) (6)
@@ -362,7 +361,7 @@
 - [Foxconn Industrial Internet](#foxconn-industrial-internet) (2)
 - [Freddie Mac](#freddie-mac) (1)
 - [Freedom Technology Solutions Group](#freedom-technology-solutions-group) (1)
-- [Freeform](#freeform) (2)
+- [Freeform](#freeform) (3)
 - [Frontier Health](#frontier-health) (1)
 - [FSH Technologies](#fsh-technologies) (1)
 - [Garda Capital Partners](#garda-capital-partners) (1)
@@ -520,7 +519,7 @@
 - [KOSTAL Group](#kostal-group) (1)
 - [KPMG](#kpmg) (1)
 - [Kyndryl](#kyndryl) (2)
-- [L3Harris Technologies](#l3harris-technologies) (25)
+- [L3Harris Technologies](#l3harris-technologies) (30)
 - [Lambda](#lambda) (1)
 - [Laserfiche](#laserfiche) (1)
 - [Lawrence Livermore National Laboratory (LLNL)](#lawrence-livermore-national-laboratory-llnl) (5)
@@ -804,7 +803,7 @@
 - [Saalex](#saalex) (1)
 - [Sajix](#sajix) (3)
 - [Salesforce](#salesforce) (1)
-- [Samsara](#samsara) (4)
+- [Samsara](#samsara) (5)
 - [Sandhills Global](#sandhills-global) (2)
 - [Sandisk](#sandisk) (2)
 - [Saronic](#saronic) (1)
@@ -1003,12 +1002,13 @@
 - [Verse Medical](#verse-medical) (1)
 - [Vertiv](#vertiv) (2)
 - [VetsEZ](#vetsez) (1)
-- [ViaSat](#viasat) (2)
+- [ViaSat](#viasat) (3)
 - [Viridien](#viridien) (2)
 - [Virtu Financial](#virtu-financial) (5)
 - [Visa](#visa) (7)
 - [Vital Lyfe](#vital-lyfe) (1)
 - [VITAL LYFE](#vital-lyfe) (1)
+- [VivSoft Technologies](#vivsoft-technologies) (1)
 - [Volaris Group](#volaris-group) (1)
 - [Voloridge](#voloridge) (1)
 - [Voltus](#voltus) (1)
@@ -1606,12 +1606,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Data Scientist Intern](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Data-Scientist-Intern_JR1001434) | 93 | NYC | AI/ML/Data | 2026-07-21 |
-
-## Ares Management
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Analyst - Credit Technology](https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/New-York-NY/Analyst--Credit-Technology_R8295) | 93 | NYC | Software | 2026-08-17 |
 
 ## Arevon
 
@@ -2742,7 +2736,7 @@
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
 | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -2841,6 +2835,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Associate Data Scientist - AI](https://jobs.constellationenergy.com/jobs/138187?icims=1) | 85 | De Pere, WI / Houston, TX / Chicago, IL / Kennett Square, PA / Baltimore, MD | AI/ML/Data | 2026-08-20 |
 | [Engineer – Risk Assessment](https://jobs.constellationenergy.com/jobs/136246?icims=1) | 85 | Lusby, MD / Delta, PA / Pottstown, PA / Kennett Square, PA | AI/ML/Data | 2026-08-17 |
 
 ## Constellation Space
@@ -3743,6 +3738,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Materials Engineer Intern](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7907965003) | 93 | LA | AI/ML/Data | 2026-08-20 |
 | [Software Engineer New Grad](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826634003) | 99 | LA | Hardware | 2026-08-17 |
 | [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003) | 93 | LA | Hardware | 2026-08-15 |
 
@@ -4879,6 +4875,11 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Associate Software Engineer](https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1421462300/?ats=successfactors) | 85 | Rochester, NY | Hardware | 2026-08-20 |
+| [Senior Associate Data Architect - Data Architect](https://jobs.l3harris.com/job/Huntsville-Senior-Associate,-Data-Architect-AL-35806/1404558300/?ats=successfactors) | 85 | Huntsville, AL | AI/ML/Data | 2026-08-20 |
+| [Software Engineer Associate](https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineer-UT-84116/1421457300/?ats=successfactors) | 85 | Salt Lake City, UT | Hardware | 2026-08-20 |
+| [Software Engineering Associate](https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1421454800/?ats=successfactors) | 85 | Rochester, NY | Hardware | 2026-08-20 |
+| [Software Engineering Senior Associate](https://jobs.l3harris.com/job/Tulsa-Senior-Associate,-Software-Engineering-OK-74115/1421451700/?ats=successfactors) | 85 | Tulsa, OK | Hardware | 2026-08-20 |
 | [Associate Software Engineer](https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineering-UT-84116/1421372400/?ats=successfactors) | 85 | Salt Lake City, UT | Hardware | 2026-08-20 |
 | [Associate Software Engineering](https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineering-(Colorado-Springs,-CO)-CO-80925/1421228500/?ats=successfactors) | 85 | Colorado Springs, CO | Software | 2026-08-19 |
 | [Application Developer Associate - Enterprise Data and AI](https://jobs.l3harris.com/job/Melbourne-Associate,-Application-Developer-FL-32919/1421158000/?ats=successfactors) | 85 | Melbourne, FL | Software | 2026-08-19 |
@@ -6368,8 +6369,8 @@
 | [Quantitative Developer](https://careers.point72.com/CSJobDetail?jobName=quantitative-developer&jobCode=CSS-0013369&location=New%20York&locale=English) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-08-17 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -7036,6 +7037,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer 1 New Grad](https://www.samsara.com/company/careers/roles/8097345?gh_jid=8097345) | 91 | London, UK | Software | 2026-08-20 |
 | [Software Engineering Intern](https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093) | 85 | London, UK | Software | 2026-08-18 |
 | [New Grad: Software Engineering](https://www.samsara.com/company/careers/roles/7172579) | 91 | San Francisco, CA | — | 2026-08-17 |
 | [Software Engineer 1 New Grad](https://www.samsara.com/company/careers/roles/8097343?gh_jid=8097343) | 91 | SF | Software | 2026-08-17 |
@@ -8664,6 +8666,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data Engineer - Early Career](https://careers.viasat.com/jobs/6698?icims=1) | 85 | London, UK | AI/ML/Data | 2026-08-20 |
 | [Embedded Software Engineer](https://careers.viasat.com/jobs/6723?icims=1) | 85 | Marlborough, MA / Tampa, FL / Tempe, AZ / Carlsbad, CA / Linthicum Heights, MD | Hardware | 2026-08-19 |
 | [Embedded Software Engineer - Secure Network Systems](https://careers.viasat.com/jobs/6722?icims=1) | 85 | Marlborough, MA / Tampa, FL / Tempe, AZ / Carlsbad, CA / Linthicum Heights, MD | Hardware | 2026-08-19 |
 
@@ -8707,6 +8710,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af) | 93 | Los Angeles, CA | — | 2026-08-17 |
+
+## VivSoft Technologies
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer](https://vivsofttechnologiesfa.applytojob.com/apply/QLa8RzmXAc/Software-Engineer-Entry-Level) | 85 | Remote in USA | Software | 2026-08-20 |
 
 ## Volaris Group
 
