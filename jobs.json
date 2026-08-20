@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-20T19:08:36.837Z",
+  "generatedAt": "2026-08-20T19:42:41.892Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2717,
+  "jobCount": 2681,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -338,7 +338,6 @@
     "canonical:7513b79c2374e7a1": "2026-07-27T16:01:50.350Z",
     "canonical:1284ad8e46fc112b": "2026-07-27T17:53:21.474Z",
     "canonical:64ebc8191f377b6f": "2026-07-27T23:54:43.222Z",
-    "canonical:b42cdf2979b3fd03": "2026-07-27T23:54:43.222Z",
     "canonical:546e92533d8e6aa0": "2026-07-28T10:01:49.734Z",
     "canonical:4f446bcf3e9c0164": "2026-07-28T10:01:49.734Z",
     "canonical:df49585228e5d6c4": "2026-07-28T10:01:49.734Z",
@@ -721,7 +720,6 @@
     "canonical:1acb5d1a74182db7": "2026-08-13T15:12:21.386Z",
     "canonical:f9f8bc69f47c01d3": "2026-08-13T17:09:36.735Z",
     "canonical:3552aa8e994f6bc7": "2026-08-13T17:09:36.735Z",
-    "canonical:27a09e08b462cce2": "2026-08-13T17:09:36.735Z",
     "canonical:9b2571ad2c92f469": "2026-08-13T20:02:08.936Z",
     "canonical:e5e162dd2e1bc6a8": "2026-08-13T23:22:47.944Z",
     "canonical:e6670721215235f6": "2026-08-14T04:28:02.113Z",
@@ -1114,7 +1112,6 @@
     "canonical:cd18679e441f56b6": "2026-08-17T16:14:31.608Z",
     "canonical:2071d9e7f5fba37b": "2026-08-17T16:14:31.608Z",
     "canonical:aad310b4d6dd09a7": "2026-08-17T16:14:31.608Z",
-    "canonical:e96d92776ed1df98": "2026-08-17T16:14:31.608Z",
     "canonical:46d37b87800e6b82": "2026-08-17T16:14:31.608Z",
     "canonical:f0f4c69491cf77b5": "2026-08-17T16:14:31.608Z",
     "canonical:2b450da8f240b106": "2026-08-17T16:14:31.608Z",
@@ -1782,8 +1779,6 @@
     "canonical:d6688f3268b6b7f2": "2026-08-17T16:14:31.608Z",
     "canonical:991e431efa78f204": "2026-08-17T16:14:31.608Z",
     "canonical:152a9d6d0d01ad26": "2026-08-17T16:14:31.608Z",
-    "canonical:2ab76dc06a45be58": "2026-08-17T16:14:31.608Z",
-    "canonical:33a74bc1baebfa4b": "2026-08-17T16:14:31.608Z",
     "canonical:062e1da676819048": "2026-08-17T16:14:31.608Z",
     "canonical:8c4746f4e723b53a": "2026-08-17T16:14:31.608Z",
     "canonical:5618f4f48254c29c": "2026-08-17T16:14:31.608Z",
@@ -1810,10 +1805,8 @@
     "canonical:17b0ac82ad641b4d": "2026-08-17T16:14:31.608Z",
     "canonical:80cd7b3bc8322bc9": "2026-08-17T16:14:31.608Z",
     "canonical:2f6c00d52d6465f7": "2026-08-17T16:14:31.608Z",
-    "canonical:1cd8de099d14f410": "2026-08-17T16:14:31.608Z",
     "canonical:8f0fa4ef6aeeb926": "2026-08-17T16:14:31.608Z",
     "canonical:f483fcb33ce0ab48": "2026-08-17T16:14:31.608Z",
-    "canonical:0d55807634d64041": "2026-08-17T16:14:31.608Z",
     "canonical:2060b71baf3eda79": "2026-08-17T16:14:31.608Z",
     "canonical:6098eef4d84cec63": "2026-08-17T16:14:31.608Z",
     "canonical:b98b49a8a1c7f4a5": "2026-08-17T16:14:31.608Z",
@@ -1824,7 +1817,6 @@
     "canonical:17ffc75fe680dbaf": "2026-08-17T16:14:31.608Z",
     "canonical:b3b11b83d92c2342": "2026-08-17T16:14:31.608Z",
     "canonical:7ac2e07eff79b2d8": "2026-08-17T16:14:31.608Z",
-    "canonical:7f1b0981c2cac362": "2026-08-17T16:14:31.608Z",
     "canonical:7040f896e3f5ca91": "2026-08-17T16:14:31.608Z",
     "canonical:33c6ecc528808f8a": "2026-08-17T16:14:31.608Z",
     "canonical:5d8eb1e1312f02f0": "2026-08-17T16:14:31.608Z",
@@ -1866,13 +1858,11 @@
     "canonical:ca7d3df8a365a545": "2026-08-17T16:14:31.608Z",
     "canonical:5105f39692e66947": "2026-08-17T16:14:31.608Z",
     "canonical:f1a85bbad073327e": "2026-08-17T16:14:31.608Z",
-    "canonical:1e1fbe1ed0ea3d7b": "2026-08-17T16:14:31.608Z",
     "canonical:264154ed19b27589": "2026-08-17T16:14:31.608Z",
     "canonical:7a576396e0e90118": "2026-08-17T16:14:31.608Z",
     "canonical:8fd9906f1576b677": "2026-08-17T16:14:31.608Z",
     "canonical:050b7bc093d7aa36": "2026-08-17T16:14:31.608Z",
     "canonical:87d023ada2f7a15a": "2026-08-17T16:14:31.608Z",
-    "canonical:01f1277947cfc5b2": "2026-08-17T16:14:31.608Z",
     "canonical:dca414db4cfe5817": "2026-08-17T16:14:31.608Z",
     "canonical:55ad7bccefabbf31": "2026-08-17T16:14:31.608Z",
     "canonical:4d982ee08861d475": "2026-08-17T16:14:31.608Z",
@@ -1882,7 +1872,6 @@
     "canonical:1cab0547b4a39d56": "2026-08-17T16:14:31.608Z",
     "canonical:c85c4125ac9c5af7": "2026-08-17T16:14:31.608Z",
     "canonical:34cc22dc00898c8a": "2026-08-17T16:14:31.608Z",
-    "canonical:4ff2d26233f3dbac": "2026-08-17T16:14:31.608Z",
     "canonical:0d44e3f8f9eb85e2": "2026-08-17T16:14:31.608Z",
     "canonical:f5d0f212be72d002": "2026-08-17T16:14:31.608Z",
     "canonical:e12790b4f4c7cbfd": "2026-08-17T16:14:31.608Z",
@@ -1893,7 +1882,6 @@
     "canonical:ae2d6c48cca7f19c": "2026-08-17T16:14:31.608Z",
     "canonical:98f140dfdf0be2ab": "2026-08-17T16:14:31.608Z",
     "canonical:7e8e85ffb6ac8f24": "2026-08-17T16:14:31.608Z",
-    "canonical:6a90d4a330dd93d5": "2026-08-17T16:14:31.608Z",
     "canonical:d15c2e5741550aa1": "2026-08-17T16:14:31.608Z",
     "canonical:a750a2abf59a6218": "2026-08-17T16:14:31.608Z",
     "canonical:eaa6a78991304e34": "2026-08-17T16:14:31.608Z",
@@ -1943,7 +1931,6 @@
     "canonical:5b563eb1a68cedc8": "2026-08-17T16:14:31.608Z",
     "canonical:5d78c1ecc1742519": "2026-08-17T16:14:31.608Z",
     "canonical:2ab7e74ce8033b92": "2026-08-17T16:14:31.608Z",
-    "canonical:6d2a3f111b968158": "2026-08-17T16:14:31.608Z",
     "canonical:2b307b322355f723": "2026-08-17T16:14:31.608Z",
     "canonical:c6cd591b047ae8af": "2026-08-17T16:14:31.608Z",
     "canonical:249fa0d7e5d508ac": "2026-08-17T16:14:31.608Z",
@@ -1957,7 +1944,6 @@
     "canonical:fd39e756c86948b7": "2026-08-17T16:14:31.608Z",
     "canonical:f2dcb3633444bd4e": "2026-08-17T16:14:31.608Z",
     "canonical:2a2d28a27021d598": "2026-08-17T16:14:31.608Z",
-    "canonical:404329e375fe4183": "2026-08-17T16:14:31.608Z",
     "canonical:59382639fa3415de": "2026-08-17T16:14:31.608Z",
     "canonical:3bbb385bc3c01491": "2026-08-17T16:14:31.608Z",
     "canonical:ae756f058aed97f0": "2026-08-17T16:14:31.608Z",
@@ -1969,7 +1955,6 @@
     "canonical:4e0fefd721b7796a": "2026-08-17T16:14:31.608Z",
     "canonical:b97cbf7ab8bdb0c7": "2026-08-17T16:14:31.608Z",
     "canonical:8a62ddd2fb62efc3": "2026-08-17T16:14:31.608Z",
-    "canonical:540aae86a997f88a": "2026-08-17T16:14:31.608Z",
     "canonical:f71625d525475333": "2026-08-17T16:14:31.608Z",
     "canonical:c414eb03f3c7e742": "2026-08-17T16:14:31.608Z",
     "canonical:253a3d81fd251361": "2026-08-17T16:14:31.608Z",
@@ -1980,7 +1965,6 @@
     "canonical:3c9a6f918e96acfd": "2026-08-17T16:14:31.608Z",
     "canonical:d1e8f725e5f68e00": "2026-08-17T16:14:31.608Z",
     "canonical:038f1dcfea7b92c3": "2026-08-17T16:14:31.608Z",
-    "canonical:2ad1a70f5fb81b3e": "2026-08-17T16:14:31.608Z",
     "canonical:ff9fe7fe9391efa7": "2026-08-17T16:14:31.608Z",
     "canonical:11e016bbaf4c3984": "2026-08-17T16:14:31.608Z",
     "canonical:5a9e6f36a0e6039f": "2026-08-17T16:14:31.608Z",
@@ -2022,7 +2006,6 @@
     "canonical:70a3dc295612d918": "2026-08-17T16:14:31.608Z",
     "canonical:561c15c4be3d95fb": "2026-08-17T16:14:31.608Z",
     "canonical:37d1587c4e2b623d": "2026-08-17T16:14:31.608Z",
-    "canonical:31daa150cf4aaa84": "2026-08-17T16:14:31.608Z",
     "canonical:a927742895277d47": "2026-08-17T16:14:31.608Z",
     "canonical:95f2f5d3f5531789": "2026-08-17T16:14:31.608Z",
     "canonical:2f096c49f4fcbd3e": "2026-08-17T16:14:31.608Z",
@@ -2042,7 +2025,6 @@
     "canonical:dbf88f528fef3493": "2026-08-17T16:14:31.608Z",
     "canonical:4691c4d8d5b6df2c": "2026-08-17T16:14:31.608Z",
     "canonical:1e695671ba739b66": "2026-08-17T16:14:31.608Z",
-    "canonical:1126871937b1eefc": "2026-08-17T16:14:31.608Z",
     "canonical:971f7dea6d6ad260": "2026-08-17T16:14:31.608Z",
     "canonical:ff873def334106ee": "2026-08-17T16:14:31.608Z",
     "canonical:e05755cbb1b89d01": "2026-08-17T16:14:31.608Z",
@@ -2058,7 +2040,6 @@
     "canonical:f6037fe64ae49391": "2026-08-17T16:14:31.608Z",
     "canonical:9873e58ef6972ecc": "2026-08-17T16:14:31.608Z",
     "canonical:62d2e37224a5bc7c": "2026-08-17T16:14:31.608Z",
-    "canonical:2fc9a3376e0f1a9b": "2026-08-17T16:14:31.608Z",
     "canonical:d06806d6d36715ee": "2026-08-17T16:14:31.608Z",
     "canonical:c8b2013a6103326c": "2026-08-17T16:14:31.608Z",
     "canonical:0dcf969f1369d139": "2026-08-17T16:14:31.608Z",
@@ -2070,13 +2051,10 @@
     "canonical:0c32c61cfa97bf87": "2026-08-17T16:14:31.608Z",
     "canonical:8900485ef60f506e": "2026-08-17T16:14:31.608Z",
     "canonical:bfbd3ee2c61386de": "2026-08-17T16:14:31.608Z",
-    "canonical:6f052f41bfe12eb1": "2026-08-17T16:14:31.608Z",
-    "canonical:1659145d5a3bb946": "2026-08-17T16:14:31.608Z",
     "canonical:b22ccf680482949e": "2026-08-17T16:14:31.608Z",
     "canonical:fe4063b410f8706e": "2026-08-17T16:14:31.608Z",
     "canonical:53979059560e3c45": "2026-08-17T16:14:31.608Z",
     "canonical:a03420568dc45ce5": "2026-08-17T16:14:31.608Z",
-    "canonical:2cb879f2039b951e": "2026-08-17T16:14:31.608Z",
     "canonical:6889934597428127": "2026-08-17T16:14:31.608Z",
     "canonical:4714c8b96f96a94c": "2026-08-17T16:14:31.608Z",
     "canonical:05740206cc629fc6": "2026-08-17T16:14:31.608Z",
@@ -2108,7 +2086,6 @@
     "canonical:f3ba0dab3d1890be": "2026-08-17T16:14:31.608Z",
     "canonical:760df593b758dd84": "2026-08-17T16:14:31.608Z",
     "canonical:095421c5d1601da3": "2026-08-17T16:14:31.608Z",
-    "canonical:8c0edd94b8a7f5ae": "2026-08-17T16:14:31.608Z",
     "canonical:719076c5f9436af7": "2026-08-17T16:14:31.608Z",
     "canonical:4733e4d1047addcb": "2026-08-17T16:14:31.608Z",
     "canonical:ed13dae26df62cb4": "2026-08-17T16:14:31.608Z",
@@ -2235,13 +2212,11 @@
     "canonical:578decaef7699e3f": "2026-08-17T16:14:31.608Z",
     "canonical:f3bfb23a24641fce": "2026-08-17T16:14:31.608Z",
     "canonical:ac1522a2c0a2c0a4": "2026-08-17T16:14:31.608Z",
-    "canonical:70591c801721b8a6": "2026-08-17T16:14:31.608Z",
     "canonical:e5559cf5e02e97bf": "2026-08-17T16:14:31.608Z",
     "canonical:1b0f1d1a01b3e6d5": "2026-08-17T16:14:31.608Z",
     "canonical:ce0321da2336f766": "2026-08-17T16:14:31.608Z",
     "canonical:b6f54cf21affc579": "2026-08-17T16:14:31.608Z",
     "canonical:c746f28d11de632a": "2026-08-17T16:14:31.608Z",
-    "canonical:a109656ea187d367": "2026-08-17T16:14:31.608Z",
     "canonical:731124721a275a25": "2026-08-17T16:14:31.608Z",
     "canonical:f6895535f8280917": "2026-08-17T16:14:31.608Z",
     "canonical:3448586a9a416cd0": "2026-08-17T16:14:31.608Z",
@@ -2341,9 +2316,7 @@
     "canonical:0675611a6025ade3": "2026-08-17T16:14:31.608Z",
     "canonical:78408dbfcd2f3a7c": "2026-08-17T16:14:31.608Z",
     "canonical:9221395a8bfb87c4": "2026-08-17T16:14:31.608Z",
-    "canonical:267b9d28cdeff519": "2026-08-17T16:14:31.608Z",
     "canonical:e58ce60e9fe563d7": "2026-08-17T16:14:31.608Z",
-    "canonical:65b59efac00d232b": "2026-08-17T16:14:31.608Z",
     "canonical:ad9631fdd159fc53": "2026-08-17T16:14:31.608Z",
     "canonical:d09e3d5289fb13b5": "2026-08-17T16:14:31.608Z",
     "canonical:30c1e2b4b16f2295": "2026-08-17T16:14:31.608Z",
@@ -2368,7 +2341,6 @@
     "canonical:553e118e4179566c": "2026-08-17T16:14:31.608Z",
     "canonical:3912ae2daa42d700": "2026-08-17T16:14:31.608Z",
     "canonical:7a50ba9fc0045263": "2026-08-17T16:14:31.608Z",
-    "canonical:d907091c9f584e6e": "2026-08-17T16:14:31.608Z",
     "canonical:d0345a6047e21b4b": "2026-08-17T16:14:31.608Z",
     "canonical:3f955f4220bdebc2": "2026-08-17T16:14:31.608Z",
     "canonical:617c996c7fa01cdb": "2026-08-17T16:14:31.608Z",
@@ -2400,9 +2372,7 @@
     "canonical:a668204fc4ebae16": "2026-08-17T16:45:31.582Z",
     "canonical:2d7ed73ce01ddf00": "2026-08-17T16:45:31.582Z",
     "canonical:be12e07aa61ecba4": "2026-08-17T16:45:31.582Z",
-    "canonical:37dcb5dca29463c3": "2026-08-17T16:45:31.582Z",
     "canonical:eae9e514a7146e2a": "2026-08-17T16:45:31.582Z",
-    "canonical:ac58ed7066ad25b3": "2026-08-17T16:45:31.582Z",
     "canonical:332563f08f136e28": "2026-08-17T16:45:31.582Z",
     "canonical:dc763765096afe5b": "2026-08-17T16:45:31.582Z",
     "canonical:e22881e22c747207": "2026-08-17T21:15:56.458Z",
@@ -2546,15 +2516,10 @@
     "canonical:c2db38c0370a3828": "2026-08-18T23:12:08.114Z",
     "canonical:46812e708e8ac29b": "2026-08-18T23:12:08.114Z",
     "canonical:894cbf59f83655c2": "2026-08-18T23:12:08.114Z",
-    "canonical:6ef9337612891a09": "2026-08-18T23:12:08.114Z",
-    "canonical:4b7374cbaf94d495": "2026-08-18T23:12:08.114Z",
-    "canonical:9d2e7bb1d2ca7708": "2026-08-18T23:12:08.114Z",
     "canonical:9b3badc30f32f1b8": "2026-08-18T23:12:08.114Z",
-    "canonical:f69e156649953788": "2026-08-18T23:12:08.114Z",
     "canonical:75e08d01da95d48b": "2026-08-18T23:12:08.114Z",
     "canonical:1c00a59fa8863509": "2026-08-18T23:12:08.114Z",
     "canonical:5cab31cbf6934d69": "2026-08-18T23:34:23.701Z",
-    "canonical:1481881b12c83348": "2026-08-18T23:34:23.701Z",
     "canonical:da64b333e4850a87": "2026-08-18T23:34:23.701Z",
     "canonical:5ece91158057f859": "2026-08-18T23:34:23.701Z",
     "canonical:c6ce8ca1ee1750c9": "2026-08-18T23:34:23.701Z",
@@ -2719,8 +2684,7 @@
     "canonical:d3e4c9ff2c085de6": "2026-08-20T18:22:23.089Z",
     "canonical:28c2d7cab3607025": "2026-08-20T19:08:36.837Z",
     "canonical:7ded916c6253be2f": "2026-08-20T19:08:36.837Z",
-    "canonical:50948aab91f859fd": "2026-08-20T19:08:36.837Z",
-    "canonical:61a5a21e0c0bfaaa": "2026-08-20T19:08:36.837Z"
+    "canonical:7349c9e50c7848f2": "2026-08-20T19:42:41.892Z"
   },
   "jobs": [
     {
@@ -4596,7 +4560,7 @@
       "title": "2027 North America Software Engineering Internship",
       "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007",
       "location": "Bellevue; Boulder; Denver; Irvine; New York; Seattle",
-      "department": "Software / Summer 2027",
+      "department": "",
       "company": "The Trade Desk",
       "score": 93,
       "scoreReasons": [
@@ -9508,19 +9472,6 @@
       ]
     },
     {
-      "id": "canonical:b42cdf2979b3fd03",
-      "title": "Firmware Engineering Internship",
-      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800628003",
-      "location": "Boston, MA / Seattle, WA",
-      "department": "Hardware",
-      "company": "Axon",
-      "score": 83,
-      "scoreReasons": [
-        "SWE-aligned",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:019ccc4c218fc0df",
       "title": "Renewable Energy Engineer Intern",
       "url": "https://axiscapital.wd1.myworkdayjobs.com/axiscareers/job/London---Scalpel/Renewable-Energy-Engineering-Intern_REQ06664-1",
@@ -11795,20 +11746,6 @@
       ]
     },
     {
-      "id": "canonical:62d7ed390ef9b19e",
-      "title": "Software Engineer Intern - Summer 2027",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineering-Intern--Summer-2027-_01865158",
-      "location": "Marlborough, MA",
-      "department": "Software",
-      "company": "RTX",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:c6ec15da7fab7b1f",
       "title": "AI RAN Telecommunications Engineer Intern",
       "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415",
@@ -13724,6 +13661,20 @@
       ]
     },
     {
+      "id": "canonical:62d7ed390ef9b19e",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineering-Intern--Summer-2027-_01867814",
+      "location": "Marlborough, MA",
+      "department": "Software",
+      "company": "RTX",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:c80b6354ac3b3386",
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/gardacp/jobs/6146213004",
@@ -15150,10 +15101,10 @@
     },
     {
       "id": "canonical:ee163e214703918f",
-      "title": "Software Engineering Intern (Fall 2026)",
-      "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4328555009",
+      "title": "Software Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4328555009?gh_src=kpek4mqz9us",
       "location": "Golden, CO",
-      "department": "Software / Fall 2026",
+      "department": "",
       "company": "Rendezvous Robotics",
       "score": 93,
       "scoreReasons": [
@@ -15362,20 +15313,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:50948aab91f859fd",
-      "title": "Software Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003",
-      "location": "Seattle, WA",
-      "department": "",
-      "company": "RenderATL",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -18709,20 +18646,6 @@
       "location": "Edinburgh, UK",
       "department": "Software",
       "company": "NatWest Group",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:e96d92776ed1df98",
-      "title": "Software Engineer",
-      "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-12023",
-      "location": "Austin, TX",
-      "department": "Software",
-      "company": "Q2",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -24049,20 +23972,6 @@
       ]
     },
     {
-      "id": "canonical:37dcb5dca29463c3",
-      "title": "Software Engineer 1",
-      "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5196864007",
-      "location": "Bellevue, WA",
-      "department": "Software",
-      "company": "The Trade Desk",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:a044d0745401a7e5",
       "title": "Staff Software Developer - Services",
       "url": "https://slice.careers/careers-listing?gh_jid=7547313",
@@ -24198,20 +24107,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:ac58ed7066ad25b3",
-      "title": "Data Engineer Associate",
-      "url": "https://job-boards.greenhouse.io/affirmedrxpbc/jobs/5372829008",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "AffirmedRx",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -28677,21 +28572,6 @@
       ]
     },
     {
-      "id": "canonical:2ab76dc06a45be58",
-      "title": "Software Engineer New Grad",
-      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687930002",
-      "location": "Seattle, WA / SF / LA / NYC / Mountain View, CA",
-      "department": "Software",
-      "company": "Atoms",
-      "score": 99,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:8a36b1d4f2393cb0",
       "title": "Associate Software Engineer - Engineering Development Program",
       "url": "https://jobs.lever.co/veeva/907dccc7-0052-41e9-920b-28e5ba6aaba9/apply",
@@ -28740,20 +28620,6 @@
       "location": "Toronto, ON, Canada",
       "department": "Software",
       "company": "Veeva Systems",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:33a74bc1baebfa4b",
-      "title": "Quantitative Researcher - Single Stock Volatility",
-      "url": "https://job-boards.greenhouse.io/walleyecapital-external-fulltime/jobs/4690167006",
-      "location": "Miami, FL",
-      "department": "Quant",
-      "company": "Walleye Capital",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -29176,19 +29042,6 @@
       ]
     },
     {
-      "id": "canonical:1cd8de099d14f410",
-      "title": "Associate Firmware Engineer",
-      "url": "https://job-boards.greenhouse.io/ionq/jobs/6096581004",
-      "location": "Pleasanton, CA",
-      "department": "Hardware",
-      "company": "IonQ",
-      "score": 83,
-      "scoreReasons": [
-        "SWE-aligned",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:f483fcb33ce0ab48",
       "title": "Software Engineer",
       "url": "https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f/apply",
@@ -29199,35 +29052,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:0d55807634d64041",
-      "title": "Junior AI Data Engineer",
-      "url": "https://job-boards.greenhouse.io/allcareers/jobs/8692383002",
-      "location": "San Diego, CA",
-      "department": "AI/ML/Data",
-      "company": "Cortica",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:2060b71baf3eda79",
-      "title": "Software Engineer New Grad",
-      "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826634003",
-      "location": "LA",
-      "department": "Hardware",
-      "company": "Freeform",
-      "score": 99,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
         "direct ATS"
       ]
     },
@@ -29326,20 +29150,6 @@
         "SWE-aligned",
         "high-signal role",
         "new grad"
-      ]
-    },
-    {
-      "id": "canonical:7f1b0981c2cac362",
-      "title": "Software Engineer - Evals",
-      "url": "https://job-boards.greenhouse.io/xai/jobs/5188230007",
-      "location": "Palo Alto, CA",
-      "department": "Software",
-      "company": "xAI",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -29939,20 +29749,6 @@
       ]
     },
     {
-      "id": "canonical:1e1fbe1ed0ea3d7b",
-      "title": "Software Engineer 0 - Multiple Teams",
-      "url": "https://job-boards.greenhouse.io/captivation/jobs/5384983008",
-      "location": "Annapolis Junction, MD",
-      "department": "Software",
-      "company": "Captivation",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:4d982ee08861d475",
       "title": "Software Development Engineer 1 - Early Career",
       "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2026-Starts-_R70051",
@@ -30030,20 +29826,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:01f1277947cfc5b2",
-      "title": "Data Warehouse Software Engineer",
-      "url": "https://job-boards.greenhouse.io/babelstreet/jobs/8120325",
-      "location": "Somerville, MA",
-      "department": "AI/ML/Data",
-      "company": "Babel Street",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -30155,21 +29937,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:4ff2d26233f3dbac",
-      "title": "Graduate Software Engineer - DV Commodities",
-      "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719126005",
-      "location": "NYC",
-      "department": "Software",
-      "company": "DV Trading",
-      "score": 99,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
         "direct ATS"
       ]
     },
@@ -30299,20 +30066,6 @@
       ]
     },
     {
-      "id": "canonical:6a90d4a330dd93d5",
-      "title": "Data Scientist - Metrology",
-      "url": "https://job-boards.greenhouse.io/usconec/jobs/4308970009",
-      "location": "Hickory, NC",
-      "department": "AI/ML/Data",
-      "company": "US Conec",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:622f877838f27e9b",
       "title": "IT Applications Developer",
       "url": "https://careers.gulfstream.com/job/Savannah-IT-Apps-Developer-GA-31401/1418077600/?ats=successfactors",
@@ -30332,20 +30085,6 @@
       "location": "San Jose, CA",
       "department": "Software",
       "company": "Western Digital",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:1481881b12c83348",
-      "title": "Software Engineer 1 - Embedded",
-      "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineer-I-1_8366",
-      "location": "Sunrise, FL",
-      "department": "Hardware",
-      "company": "AeroVironment",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -31008,20 +30747,6 @@
       ]
     },
     {
-      "id": "canonical:6d2a3f111b968158",
-      "title": "Software Engineer - Live Link",
-      "url": "https://job-boards.greenhouse.io/truveta/jobs/6140479004",
-      "location": "Seattle, WA",
-      "department": "Software",
-      "company": "Truveta",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:b6130f6ffac6b9d7",
       "title": "Research Scientist - Multimedia Streaming",
       "url": "https://jobs.bytedance.com/en/position/7670354696947009845/detail",
@@ -31184,21 +30909,6 @@
         "SWE-aligned",
         "high-signal role",
         "new grad"
-      ]
-    },
-    {
-      "id": "canonical:404329e375fe4183",
-      "title": "Graduate Data Scientist - Cyber Analytics",
-      "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8700231002",
-      "location": "Cheltenham, UK",
-      "department": "AI/ML/Data",
-      "company": "KnowBe4",
-      "score": 99,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
-        "direct ATS"
       ]
     },
     {
@@ -31409,20 +31119,6 @@
       ]
     },
     {
-      "id": "canonical:540aae86a997f88a",
-      "title": "Senior Machine Learning Engineer - Predictive World Model",
-      "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8702836002",
-      "location": "Santa Clara, CA",
-      "department": "AI/ML/Data",
-      "company": "XPENG Motors",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:11e016bbaf4c3984",
       "title": "Software Engineer Graduate - Video-on-Demand Algorithm",
       "url": "https://lifeattiktok.com/search/7670282906426476853",
@@ -31516,21 +31212,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:2ad1a70f5fb81b3e",
-      "title": "Software Engineer New Grad",
-      "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5375987008",
-      "location": "LA",
-      "department": "Hardware",
-      "company": "General Matter",
-      "score": 99,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
         "direct ATS"
       ]
     },
@@ -32120,20 +31801,6 @@
       ]
     },
     {
-      "id": "canonical:31daa150cf4aaa84",
-      "title": "Quantitative Developer - Portfolio Management Solutions",
-      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4700347006",
-      "location": "Connecticut / NYC",
-      "department": "Quant",
-      "company": "WorldQuant",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:6e179f27cd7704eb",
       "title": "OneStream Developer",
       "url": "https://andrew-morgan.com/current-openings/?gh_jid=5389586008",
@@ -32373,19 +32040,6 @@
       ]
     },
     {
-      "id": "canonical:1126871937b1eefc",
-      "title": "Cyber Engineer - Capabilities Development",
-      "url": "https://careers.jhuapl.edu/jobs/57600?icims=1",
-      "location": "Laurel, MD",
-      "department": "Software",
-      "company": "Johns Hopkins Applied Physics Laboratory",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:e05755cbb1b89d01",
       "title": "Software Engineering/ML/Data Scientist Graduate - Intelligence Systems",
       "url": "https://careers.jhuapl.edu/jobs/57747?icims=1",
@@ -32603,20 +32257,6 @@
       ]
     },
     {
-      "id": "canonical:2fc9a3376e0f1a9b",
-      "title": "Senior Machine Learning Engineer - LLM Quantization & Deployment",
-      "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8710019002",
-      "location": "Santa Clara, CA",
-      "department": "AI/ML/Data",
-      "company": "XPENG Motors",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:d06806d6d36715ee",
       "title": "Forward Deployed Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/composio/f83a19a0-8188-4100-9dd5-b259efb342e6/application?embed=true",
@@ -32756,21 +32396,6 @@
       ]
     },
     {
-      "id": "canonical:6f052f41bfe12eb1",
-      "title": "Software Engineer New Grad - Software",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8696058002",
-      "location": "Redmond, WA",
-      "department": "Hardware",
-      "company": "SpaceX",
-      "score": 99,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:a03420568dc45ce5",
       "title": "Associate Software Engineer",
       "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/North-York-Ontario/Associate-Software-Engineer_JR00126945-1",
@@ -32799,21 +32424,6 @@
       ]
     },
     {
-      "id": "canonical:1659145d5a3bb946",
-      "title": "Software Engineer New Grad - Software - Starlink",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8696080002",
-      "location": "Palo Alto, CA",
-      "department": "Hardware",
-      "company": "SpaceX",
-      "score": 99,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:6889934597428127",
       "title": "Software Engineer - Leap Program",
       "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/April-2027---Leap-Software-Engineer_2133870",
@@ -32824,21 +32434,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:2cb879f2039b951e",
-      "title": "Software Engineer New Grad - Software - Starlink",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8696097002",
-      "location": "Bastrop, TX",
-      "department": "Software",
-      "company": "SpaceX",
-      "score": 99,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
         "direct ATS"
       ]
     },
@@ -33345,20 +32940,6 @@
         "SWE-aligned",
         "high-signal role",
         "new grad"
-      ]
-    },
-    {
-      "id": "canonical:8c0edd94b8a7f5ae",
-      "title": "Junior .NET Developer",
-      "url": "https://job-boards.greenhouse.io/assystinc/jobs/4371586009",
-      "location": "Sterling, VA",
-      "department": "Software",
-      "company": "ASSYST",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -34414,68 +33995,12 @@
       ]
     },
     {
-      "id": "canonical:9d2e7bb1d2ca7708",
-      "title": "AI Software Engineer - Terrestrial Software - AI, Data and Platform Engineering",
-      "url": "https://boards.greenhouse.io/relativity/jobs/8726261002",
-      "location": "Long Beach, CA",
-      "department": "Software",
-      "company": "Relativity Space",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:6ef9337612891a09",
-      "title": "Junior AI Software Engineer",
-      "url": "https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886153003",
-      "location": "Chantilly, VA / Herndon, VA",
-      "department": "Software",
-      "company": "Dark Wolf Solutions",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:4b7374cbaf94d495",
-      "title": "Junior Data Engineer",
-      "url": "https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886212003",
-      "location": "Chantilly, VA / Herndon, VA",
-      "department": "AI/ML/Data",
-      "company": "Dark Wolf Solutions",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:75e08d01da95d48b",
       "title": "AI Engineer Associate",
       "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/AI-Engineer_RQ226699",
       "location": "United States",
       "department": "Software",
       "company": "General Dynamics Information Technology",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:f69e156649953788",
-      "title": "Integration Engineer",
-      "url": "https://job-boards.greenhouse.io/impact/jobs/8465082002",
-      "location": "Columbus, OH",
-      "department": "Software",
-      "company": "impact.com",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -35150,6 +34675,21 @@
       "location": "Austin, TX / Santa Clara, CA / Richardson, TX",
       "department": "Software",
       "company": "GlobalFoundries",
+      "score": 99,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:2060b71baf3eda79",
+      "title": "Software Engineer New Grad - Summer 2027",
+      "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003",
+      "location": "LA",
+      "department": "Hardware",
+      "company": "Freeform",
       "score": 99,
       "scoreReasons": [
         "SWE-aligned",
@@ -37164,34 +36704,6 @@
       ]
     },
     {
-      "id": "canonical:a109656ea187d367",
-      "title": "Air Dominance & Strike - Flight Software Engineer, Embedded C/C++",
-      "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4164476007?gh_jid=4164476007&gh_src=",
-      "location": "Costa Mesa, CA",
-      "department": "",
-      "company": "Anduril Industries",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:70591c801721b8a6",
-      "title": "Software Engineer, Connected Warfare",
-      "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4776690007?gh_jid=4776690007&gh_src=",
-      "location": "Costa Mesa, CA",
-      "department": "",
-      "company": "Anduril Industries",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:e5559cf5e02e97bf",
       "title": "Junior Software Engineer",
       "url": "https://remodelhealth.com/resources/job/?gh_jid=4880033008",
@@ -38644,34 +38156,6 @@
       ]
     },
     {
-      "id": "canonical:267b9d28cdeff519",
-      "title": "Software Engineer",
-      "url": "https://job-boards.greenhouse.io/warp/jobs/4324888004",
-      "location": "Remote",
-      "department": "",
-      "company": "Warp",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:65b59efac00d232b",
-      "title": "Software Engineer, Full Stack",
-      "url": "https://job-boards.greenhouse.io/figma/jobs/5691911004",
-      "location": "San Francisco, CA / New York, NY",
-      "department": "",
-      "company": "Figma",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:d09e3d5289fb13b5",
       "title": "Product Software Engineer",
       "url": "https://careers.qualcomm.com/careers/job/446715361809",
@@ -39022,20 +38506,6 @@
       ]
     },
     {
-      "id": "canonical:d907091c9f584e6e",
-      "title": "Software Engineer I, Commerce Engineering",
-      "url": "https://job-boards.greenhouse.io/twitch/jobs/8459320002",
-      "location": "Seattle, WA / San Francisco, CA",
-      "department": "",
-      "company": "Twitch",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:01efe06a6ac3a644",
       "title": "Software Engineer",
       "url": "https://jobs.supermicro.com/job/San-Jose-Software-Engineer-Cali/1376640400/?LinkedIn+Job+Slots=utm_source%3Dlinkedinjobpostings&jr_id=69c4408b6f4f855eeda6ac1e",
@@ -39249,6 +38719,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:7349c9e50c7848f2",
+      "title": "Intern - Engineering (Device Software and Test)",
+      "url": "https://microchiphr.wd5.myworkdayjobs.com/external/job/AZ---Chandler/Intern---Engineering--Device-Software-and-Test-_R3573-26",
+      "location": "AZ - Chandler",
+      "department": "Software / Not stated",
+      "company": "Microchip Technology",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -39783,19 +39267,6 @@
       ]
     },
     {
-      "id": "canonical:61a5a21e0c0bfaaa",
-      "title": "US Firmware Engineering Internship",
-      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837246003",
-      "location": "Seattle, Washington, United States",
-      "department": "Hardware / Summer 2027",
-      "company": "Axon",
-      "score": 83,
-      "scoreReasons": [
-        "SWE-aligned",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:e3ce3fd715c5506d",
       "title": "AI Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641",
@@ -39971,20 +39442,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:27a09e08b462cce2",
-      "title": "2027 Internship - Quantitative Researcher (Undergrad)",
-      "url": "https://job-boards.greenhouse.io/virtu/jobs/8142539002",
-      "location": "New York",
-      "department": "Quant / Summer 2027",
-      "company": "Virtu Financial",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     }
   ],
