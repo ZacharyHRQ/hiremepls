@@ -1,6 +1,6 @@
 # Open Internships
 
-**2719** internships across **188/188** companies — last updated 2026-08-20.
+**2717** internships across **188/188** companies — last updated 2026-08-20.
 
 ## Companies
 
@@ -524,7 +524,7 @@
 - [KOSTAL Group](#kostal-group) (1)
 - [KPMG](#kpmg) (1)
 - [Kyndryl](#kyndryl) (2)
-- [L3Harris Technologies](#l3harris-technologies) (25)
+- [L3Harris Technologies](#l3harris-technologies) (26)
 - [Lambda](#lambda) (1)
 - [Laserfiche](#laserfiche) (1)
 - [Lawrence Livermore National Laboratory (LLNL)](#lawrence-livermore-national-laboratory-llnl) (5)
@@ -668,7 +668,7 @@
 - [Nuro](#nuro) (4)
 - [Nutanix](#nutanix) (1)
 - [NVIDIA](#nvidia) (15)
-- [NXP Semiconductors](#nxp-semiconductors) (3)
+- [NXP Semiconductors](#nxp-semiconductors) (2)
 - [Observable Space](#observable-space) (1)
 - [Obsidian Solutions Group](#obsidian-solutions-group) (1)
 - [Occidental Petroleum](#occidental-petroleum) (1)
@@ -805,7 +805,7 @@
 - [Royal Bank of Canada](#royal-bank-of-canada) (2)
 - [Royal Caribbean Group](#royal-caribbean-group) (1)
 - [RRS Group](#rrs-group) (2)
-- [RTX](#rtx) (51)
+- [RTX](#rtx) (50)
 - [RunSybil](#runsybil) (1)
 - [Ryder System](#ryder-system) (1)
 - [SA Technologies](#sa-technologies) (2)
@@ -820,7 +820,7 @@
 - [Savannah River National Laboratory](#savannah-river-national-laboratory) (1)
 - [Saxon Global](#saxon-global) (2)
 - [Schonfeld](#schonfeld) (2)
-- [Schweitzer Engineering Laboratories](#schweitzer-engineering-laboratories) (3)
+- [Schweitzer Engineering Laboratories](#schweitzer-engineering-laboratories) (2)
 - [Sciemo](#sciemo) (1)
 - [Scott Logic](#scott-logic) (1)
 - [Seagate Technology ](#seagate-technology) (2)
@@ -1451,7 +1451,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Research Scientist Intern](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Remote---New-Jersey/Graduate-Research-Scientist-intern_R-100717-1) | 93 | New Jersey | AI/ML/Data | 2026-08-13 |
+| [Graduate Research Scientist intern](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Remote---New-Jersey/Graduate-Research-Scientist-intern_R-100717-1) | 99 | Remote - New Jersey | Data & ML/AI / Not stated | 2026-08-20 |
 
 ## Andrew Morgan
 
@@ -2762,7 +2762,7 @@
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
 | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -4239,7 +4239,7 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Application Engineer 1 - Training - Building Automation - CX Learning & Enablement](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/154237) | 85 | Northford, CT | Software | 2026-08-19 |
-| [Software Engineer 1](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155860) | 85 | Richmond, VA | Software | 2026-08-19 |
+| [Software Engineer 1](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155551) | 85 | Richmond, VA | Software | 2026-08-19 |
 | [Software Engineer I](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/116510) | 85 | Fort Mill, SC | — | 2026-08-19 |
 | [Embedded Engineer 1 New Grad](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/140055) | 81 | St. Charles, IL | Hardware | 2026-08-19 |
 
@@ -4908,6 +4908,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Associate Software Engineer](https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineering-UT-84116/1421372400/?ats=successfactors) | 85 | Salt Lake City, UT | Hardware | 2026-08-20 |
 | [Associate Software Engineering](https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineering-(Colorado-Springs,-CO)-CO-80925/1421228500/?ats=successfactors) | 85 | Colorado Springs, CO | Software | 2026-08-19 |
 | [Application Developer Associate - Enterprise Data and AI](https://jobs.l3harris.com/job/Melbourne-Associate,-Application-Developer-FL-32919/1421158000/?ats=successfactors) | 85 | Melbourne, FL | Software | 2026-08-19 |
 | [Associate – Software Engineer](https://jobs.l3harris.com/job/Yorba-Linda-Associate,-Software-Engineer-CA-92887/1410487500/?ats=successfactors) | 85 | Yorba Linda, CA | Hardware | 2026-08-19 |
@@ -5851,7 +5852,7 @@
 | [Space Flight Operations – Engineer/Principal Engineer Systems](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Space-Flight-Operations---Engineer-Principal-Engineer-Systems_R10233658) | 93 | Halethorpe, MD | Software | 2026-08-17 |
 | [Structural Analysis Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Engineer-or-Principal-Engineer-Structural-Analysis--4-10-2nd-Shift-_R10231985) | 93 | Palmdale, CA | Software | 2026-08-17 |
 | [Systems Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/Engineer-Principal-Engineer-Systems_R10241911) | 93 | Morrisville, NC | Software | 2026-08-17 |
-| [Software Engineer Intern - Aeronautics Systems](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395) | 93 | Melbourne, FL | Software | 2026-08-06 |
+| [Software Engineer Intern - Aeronautics Systems](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573) | 93 | Melbourne, FL | Software | 2026-08-06 |
 
 ## Northwestern Mutual
 
@@ -5951,7 +5952,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [AI and Software Engineer Intern - Automotive MPUs](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Glasgow/Intern-AI-and-Software-Engineer---Automotive-MPUs_R-10065882-1) | 93 | Glasgow, UK | Software | 2026-08-17 |
-| [AI/ML-driven ASIC Design and Implementation Automation Engineer - Advanced Chip Engineering - Design Methodologies and Automation](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Diego-Treena-St/AI-ML-driven-ASIC-Design-and-Implementation-Automation-Engineer_R-10065564) | 93 | San Diego, CA | Hardware | 2026-08-17 |
 | [NFC System Software Engineer - Entry Level](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Jose-Holger-Way/NFC-System-Software-Engineer---Entry-Level_R-10064298) | 93 | San Jose, CA | Software | 2026-08-17 |
 
 ## Observable Space
@@ -7010,7 +7010,6 @@
 | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Software-Engineer-I--Onsite-_01866057) | 93 | Windsor Locks, CT | Hardware | 2026-08-18 |
 | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Software-Engineer-I--Onsite-_01865374) | 93 | Jupiter, FL | Hardware | 2026-08-18 |
 | [Software Engineer 1 - Advanced Products and Solutions - EO/IR Programs](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Software-Engineer-I--Onsite-_01867976) | 93 | McKinney, TX | Software | 2026-08-18 |
-| [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WESTFORD-WFD7--7-Technology-Park-Dr--BLDG-7/Software-Engineering-Intern--Summer-2027-_01867678) | 93 | Westford, MA | Software | 2026-08-18 |
 | [Software Engineer 1 - Test Solutions](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492-1) | 93 | Tucson, AZ | Software | 2026-08-18 |
 | [Software Engineer 2](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Software-Engineer-II--Onsite-_01864138) | 93 | Melbourne, FL | Software | 2026-08-18 |
 | [Software Engineer Intern - Intelligent Software & Systems](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineer-Intern--Onsite-_01866914) | 93 | Cambridge, MA | Software | 2026-08-18 |
@@ -7151,7 +7150,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Associate Embedded Software Engineer](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Software-Engineer_2026-21564) | 93 | Moscow, ID | Hardware | 2026-08-17 |
 | [Software Engineer Intern - AI Focus](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineering-Intern--AI-Focus-_2026-22601) | 93 | Pullman, WA | Software | 2026-08-13 |
 | [Application Engineering Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/California---San-Ramon/Application-Engineering-Intern_2026-22385) | 93 | San Ramon, CA | Software | 2026-08-07 |
 
@@ -7999,8 +7997,8 @@
 | [Graduate Software Engineer - TikTok Search Data Infra](https://lifeattiktok.com/search/7675829388634392837) | 91 | San Jose, CA | Software | 2026-08-20 |
 | [Machine Learning Engineer Graduate - Multiple Teams](https://lifeattiktok.com/search/7675841339440941317) | 91 | San Jose, CA | AI/ML/Data | 2026-08-20 |
 | [Research Scientist/Software Engineer - Neural Graphics and World Models](https://lifeattiktok.com/search/7668854153882011957) | 85 | San Jose, CA | Software | 2026-08-20 |
-| [Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure](https://lifeattiktok.com/search/7672930401597671733) | 85 | San Jose, CA | Software | 2026-08-20 |
 | [Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure](https://lifeattiktok.com/search/7672926068681951493) | 85 | Seattle, WA | Software | 2026-08-20 |
+| [Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure](https://lifeattiktok.com/search/7672934842451577141) | 85 | San Jose, CA | Software | 2026-08-20 |
 | [Software Engineer Intern - Recommendation Infra - Performance Efficiency](https://lifeattiktok.com/search/7675159726676101381) | 85 | San Jose, CA | Software | 2026-08-20 |
 | [Software Engineer Intern - TikTok Search Architecture](https://lifeattiktok.com/search/7675517686256863541) | 85 | San Jose, CA | Software | 2026-08-20 |
 | [Machine Learning MLOps Intern - Global Site Reliability Engineering](https://lifeattiktok.com/search/7670875283026053381) | 85 | San Jose, CA | AI/ML/Data | 2026-08-19 |
@@ -8773,7 +8771,7 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Accelerated Physics Simulation Engineer - Agentic Computational Engineering](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4079284009) | 93 | Seattle, WA / Washington, DC / LA | AI/ML/Data | 2026-08-20 |
-| [Machine Learning Engineer - Associate](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4356972009) | 93 | El Segundo, CA | AI/ML/Data | 2026-08-17 |
+| [Machine Learning Engineer - Associate](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4356977009) | 93 | El Segundo, CA | AI/ML/Data | 2026-08-17 |
 
 ## VTG
 
