@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T14:06:16.720Z",
+  "generatedAt": "2026-08-20T15:23:38.471Z",
   "companyCount": 188,
   "okCount": 188,
   "jobCount": 2708,
@@ -355,7 +355,6 @@
     "canonical:ea138e7431ac1dc4": "2026-07-29T04:27:11.492Z",
     "canonical:98aaddec88d0841f": "2026-07-29T07:16:37.220Z",
     "canonical:e3ce3fd715c5506d": "2026-07-29T10:02:43.882Z",
-    "canonical:daf99901433a25a0": "2026-07-29T21:48:15.888Z",
     "canonical:e0391cd23d4a9b56": "2026-07-30T04:26:22.286Z",
     "canonical:875860d7eb0edefe": "2026-07-30T11:31:57.881Z",
     "canonical:4be8d92c71cf84ea": "2026-07-30T16:56:57.416Z",
@@ -1212,7 +1211,6 @@
     "canonical:73f6f06e37ef0541": "2026-08-17T16:14:31.608Z",
     "canonical:89446af10d081d84": "2026-08-17T16:14:31.608Z",
     "canonical:8117c76376532f6c": "2026-08-17T16:14:31.608Z",
-    "canonical:14afef68fedd3bae": "2026-08-17T16:14:31.608Z",
     "canonical:cd6b56e0567a61a1": "2026-08-17T16:14:31.608Z",
     "canonical:e89af87ff92960c7": "2026-08-17T16:14:31.608Z",
     "canonical:f594c68c959587ea": "2026-08-17T16:14:31.608Z",
@@ -2639,7 +2637,6 @@
     "canonical:8d417707e5bfb719": "2026-08-19T21:15:42.444Z",
     "canonical:cb6abc178deaaea9": "2026-08-19T21:15:42.444Z",
     "canonical:04213f9fab8d50b7": "2026-08-19T21:15:42.444Z",
-    "canonical:7f4a04febc6faa9d": "2026-08-19T21:15:42.444Z",
     "canonical:e556a9a736847508": "2026-08-19T21:46:36.890Z",
     "canonical:812589f1f8cce074": "2026-08-19T21:46:36.890Z",
     "canonical:b7faa5785a1882b5": "2026-08-19T22:13:42.289Z",
@@ -2694,7 +2691,6 @@
     "canonical:ea5de2d3dae88798": "2026-08-20T03:15:58.108Z",
     "canonical:38b95e9312401a1d": "2026-08-20T07:15:33.253Z",
     "canonical:6b3330d33540e2a5": "2026-08-20T07:15:33.253Z",
-    "canonical:d1da7b2ac572df8f": "2026-08-20T07:15:33.253Z",
     "canonical:e0260da668221c99": "2026-08-20T09:22:50.877Z",
     "canonical:4a77656807157e3b": "2026-08-20T09:22:50.877Z",
     "canonical:b29c9834c2731a1f": "2026-08-20T09:56:48.208Z",
@@ -2705,13 +2701,17 @@
     "canonical:2956aa5be4a2fffb": "2026-08-20T10:23:03.123Z",
     "canonical:670d77aad2bffdab": "2026-08-20T10:23:03.123Z",
     "canonical:2b767045c3b7b76f": "2026-08-20T10:54:19.846Z",
-    "canonical:5ccbdd16c804408f": "2026-08-20T11:16:52.866Z",
     "canonical:b58751cdc5af5ba0": "2026-08-20T11:16:52.866Z",
     "canonical:52c031b66b029fd2": "2026-08-20T12:25:42.473Z",
-    "canonical:ee2ac1afa3058d54": "2026-08-20T12:25:42.473Z",
     "canonical:edeba2e34721634d": "2026-08-20T13:25:05.116Z",
     "canonical:c5991ab76afd9743": "2026-08-20T13:25:05.116Z",
-    "canonical:8e3cd7d52ef739df": "2026-08-20T14:06:16.720Z"
+    "canonical:8e3cd7d52ef739df": "2026-08-20T14:06:16.720Z",
+    "canonical:69407ebd4e6d37de": "2026-08-20T15:23:38.471Z",
+    "canonical:ef0953117b510fb9": "2026-08-20T15:23:38.471Z",
+    "canonical:f1319d05ce27b81f": "2026-08-20T15:23:38.471Z",
+    "canonical:caa37dbb765c5132": "2026-08-20T15:23:38.471Z",
+    "canonical:8158f1888b420c3a": "2026-08-20T15:23:38.471Z",
+    "canonical:14883614861ef041": "2026-08-20T15:23:38.471Z"
   },
   "jobs": [
     {
@@ -3311,11 +3311,11 @@
       ]
     },
     {
-      "id": "canonical:81000bcd395c1244",
+      "id": "canonical:f9963438d881a851",
       "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
-      "location": "Montreal, QC, Canada",
-      "department": "Software",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
+      "location": "Amsterdam",
+      "department": "",
       "company": "DRW",
       "score": 93,
       "scoreReasons": [
@@ -3353,11 +3353,11 @@
       ]
     },
     {
-      "id": "canonical:f9963438d881a851",
+      "id": "canonical:81000bcd395c1244",
       "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
-      "location": "Amsterdam",
-      "department": "",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
+      "location": "Montreal, QC, Canada",
+      "department": "Software",
       "company": "DRW",
       "score": 93,
       "scoreReasons": [
@@ -14179,6 +14179,20 @@
       ]
     },
     {
+      "id": "canonical:69407ebd4e6d37de",
+      "title": "Business Technology Solutions Intern - Data & Software Engineering - Undergraduate",
+      "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014697918",
+      "location": "North Chicago, IL",
+      "department": "Software",
+      "company": "AbbVie",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:12cd06c0eec80152",
       "title": "Frontend Software Engineer Intern",
       "url": "https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c",
@@ -16877,6 +16891,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:ef0953117b510fb9",
+      "title": "Junior Firmware Engineer",
+      "url": "https://job-boards.greenhouse.io/scoutai/jobs/4643333008",
+      "location": "Sunnyvale, CA",
+      "department": "Software Engineering",
+      "company": "Scout AI",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -20012,20 +20040,6 @@
         "SWE-aligned",
         "high-signal role",
         "new grad",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:14afef68fedd3bae",
-      "title": "Application Engineer - Drone Technology",
-      "url": "https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4700747005",
-      "location": "Framingham, MA",
-      "department": "Software",
-      "company": "Re:Build Manufacturing",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
         "direct ATS"
       ]
     },
@@ -32946,6 +32960,20 @@
       ]
     },
     {
+      "id": "canonical:f1319d05ce27b81f",
+      "title": "Software Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-MELBOURNE-307--1100-W-Hibiscus-Blvd--BLDG-307/Software-Engineer-I--Onsite-_01866124",
+      "location": "Melbourne, FL",
+      "department": "Software",
+      "company": "RTX",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:dbd95b9b58c77063",
       "title": "Artificial Intelligence Engineer 1",
       "url": "https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Artificial-Intelligence-Engineer-I_JR103100",
@@ -33145,32 +33173,6 @@
       ]
     },
     {
-      "id": "canonical:d1da7b2ac572df8f",
-      "title": "Engineering New Analyst - Engineering",
-      "url": "https://higher.gs.com/roles/171570?type=students",
-      "location": "Salt Lake City, UT",
-      "department": "Software",
-      "company": "Goldman Sachs",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:5ccbdd16c804408f",
-      "title": "Engineering New Analyst",
-      "url": "https://higher.gs.com/roles/171568?type=students",
-      "location": "Dallas, TX",
-      "department": "Software",
-      "company": "Goldman Sachs",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:f25c76a0a1a97682",
       "title": "Forward Deployed Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3/application?embed=true",
@@ -33198,6 +33200,19 @@
         "high-signal role",
         "new grad",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:caa37dbb765c5132",
+      "title": "Engineering New Analyst - Engineering",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
+      "location": "Seattle, WA",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
@@ -33254,19 +33269,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:ee2ac1afa3058d54",
-      "title": "New Analyst - Engineering",
-      "url": "https://higher.gs.com/roles/171569?type=students",
-      "location": "NYC",
-      "department": "Software",
-      "company": "Goldman Sachs",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -34872,19 +34874,6 @@
       ]
     },
     {
-      "id": "canonical:7f4a04febc6faa9d",
-      "title": "Engineer 1 - UiPath Developer",
-      "url": "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Engineer-I---UiPath-Developer_R13659",
-      "location": "Dallas, TX / Phoenix, AZ",
-      "department": "Software",
-      "company": "Western Alliance",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:da7f6080a3c351e4",
       "title": "Associate Software Engineer/Software Engineer",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2026-Associate-Software-Engineer-Software-Engineer_R10246591",
@@ -35364,6 +35353,36 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:8158f1888b420c3a",
+      "title": "Software Engineer Graduate - Software",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rugby/GE-Power-Conversion---Storage-Graduate-Engineering-Training-Programme---SOFTWARE_R5020915-3",
+      "location": "Glasgow, UK / Rugby, UK",
+      "department": "Software",
+      "company": "GE Vernova",
+      "score": 99,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:14883614861ef041",
+      "title": "Graduate Engineering Training Programme - Software",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rugby/GE-Power-Conversion---Storage-Graduate-Engineering-Training-Programme---SOFTWARE_R5020915-1",
+      "location": "Glasgow, UK / Rugby, UK",
+      "department": "Software",
+      "company": "GE Vernova",
+      "score": 99,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
         "direct ATS"
       ]
     },
@@ -39587,20 +39606,6 @@
         "SWE-aligned",
         "high-signal role",
         "new grad",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:daf99901433a25a0",
-      "title": "Embedded Software Engineer Intern - Fall 2026",
-      "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004?gh_jid=6126784004",
-      "location": "San Francisco, California, United States",
-      "department": "Software / Fall 2026",
-      "company": "Redwood Materials",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
         "direct ATS"
       ]
     },

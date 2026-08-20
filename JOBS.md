@@ -8,7 +8,7 @@
 - [3RedPartners](#3redpartners) (2)
 - [9to9 Software Solutions](#9to9-software-solutions) (7)
 - [AAR](#aar) (1)
-- [AbbVie](#abbvie) (1)
+- [AbbVie](#abbvie) (2)
 - [Abound](#abound) (3)
 - [Abridge](#abridge) (2)
 - [Absolute Facility Solutions](#absolute-facility-solutions) (1)
@@ -369,7 +369,7 @@
 - [Garmin](#garmin) (6)
 - [Gartner](#gartner) (1)
 - [GE Healthcare](#ge-healthcare) (1)
-- [GE Vernova](#ge-vernova) (3)
+- [GE Vernova](#ge-vernova) (5)
 - [Gecko Robotics](#gecko-robotics) (1)
 - [Gemini](#gemini) (1)
 - [Generac](#generac) (3)
@@ -392,7 +392,7 @@
 - [GlobalFoundries](#globalfoundries) (3)
 - [Globus Medical](#globus-medical) (1)
 - [GM financial](#gm-financial) (2)
-- [Goldman Sachs](#goldman-sachs) (4)
+- [Goldman Sachs](#goldman-sachs) (2)
 - [Google](#google) (11)
 - [Gradient Robotics](#gradient-robotics) (1)
 - [Great American Insurance Company](#great-american-insurance-company) (1)
@@ -760,10 +760,9 @@
 - [Ramp](#ramp) (4)
 - [Ranger](#ranger) (1)
 - [RBI](#rbi) (1)
-- [Re:Build Manufacturing](#re-build-manufacturing) (1)
 - [Realm](#realm) (2)
 - [Realtor.com](#realtor-com) (1)
-- [Redwood Materials](#redwood-materials) (3)
+- [Redwood Materials](#redwood-materials) (2)
 - [RegDesk](#regdesk) (1)
 - [Relativity Space](#relativity-space) (1)
 - [ReliaQuest](#reliaquest) (1)
@@ -798,7 +797,7 @@
 - [Royal Bank of Canada](#royal-bank-of-canada) (2)
 - [Royal Caribbean Group](#royal-caribbean-group) (1)
 - [RRS Group](#rrs-group) (2)
-- [RTX](#rtx) (49)
+- [RTX](#rtx) (50)
 - [RunSybil](#runsybil) (1)
 - [Ryder System](#ryder-system) (1)
 - [SA Technologies](#sa-technologies) (2)
@@ -816,6 +815,7 @@
 - [Schweitzer Engineering Laboratories](#schweitzer-engineering-laboratories) (2)
 - [Sciemo](#sciemo) (1)
 - [Scott Logic](#scott-logic) (1)
+- [Scout AI](#scout-ai) (1)
 - [Seagate Technology ](#seagate-technology) (1)
 - [Seeq](#seeq) (1)
 - [Selector Software](#selector-software) (1)
@@ -1026,7 +1026,6 @@
 - [Waymo](#waymo) (3)
 - [Wells Fargo](#wells-fargo) (2)
 - [WeRide](#weride) (2)
-- [Western Alliance](#western-alliance) (1)
 - [Western Digital](#western-digital) (5)
 - [Western Magnetics](#western-magnetics) (2)
 - [Westinghouse Electric Company](#westinghouse-electric-company) (5)
@@ -1094,6 +1093,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Business Technology Solutions Intern - Data & Software Engineering - Undergraduate](https://jobs.smartrecruiters.com/AbbVie/3743990014697918) | 93 | North Chicago, IL | Software | 2026-08-20 |
 | [AI Support Engineer](https://jobs.smartrecruiters.com/AbbVie/3743990014267357) | 93 | Waukegan, IL | AI/ML/Data | 2026-08-17 |
 
 ## Abound
@@ -3791,6 +3791,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Graduate Engineering Training Programme - Software](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rugby/GE-Power-Conversion---Storage-Graduate-Engineering-Training-Programme---SOFTWARE_R5020915-1) | 99 | Glasgow, UK / Rugby, UK | Software | 2026-08-20 |
+| [Software Engineer Graduate - Software](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rugby/GE-Power-Conversion---Storage-Graduate-Engineering-Training-Programme---SOFTWARE_R5020915-3) | 99 | Glasgow, UK / Rugby, UK | Software | 2026-08-20 |
 | [Research Scientist - Ceramist](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/Research-Scientist---Ceramist_R5050337-1) | 93 | Niskayuna, NY | AI/ML/Data | 2026-08-20 |
 | [Application Engineer Co-op/Intern - PCS](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Findlay-Township/PCS-Application-Engineering-Co-Op-Intern---Summer-2027_R5050417-2) | 93 | Findlay Township, PA | Software | 2026-08-19 |
 | [Software Engineer - Transmission](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova-Software-Engineer--Transmission_R5048311-3) | 93 | Bellevue, WA | Software | 2026-08-17 |
@@ -3959,9 +3961,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [New Analyst - Engineering](https://higher.gs.com/roles/171569?type=students) | 85 | NYC | Software | 2026-08-20 |
-| [Engineering New Analyst](https://higher.gs.com/roles/171568?type=students) | 85 | Dallas, TX | Software | 2026-08-20 |
-| [Engineering New Analyst - Engineering](https://higher.gs.com/roles/171570?type=students) | 85 | Salt Lake City, UT | Software | 2026-08-20 |
+| [Engineering New Analyst - Engineering](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807) | 85 | Seattle, WA | Software | 2026-08-20 |
 | [Software Engineer - Data](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292) | 85 | London, UK | Software | 2026-08-17 |
 
 ## Google
@@ -6685,12 +6685,6 @@
 | --- | --- | --- | --- | --- |
 | [Data Engineer 1](https://rbi.wd3.myworkdayjobs.com/RBI_External_Career_Site/job/Corp---Miami-Corporate-Office/Data-Engineer-I--Burger-King_R3622) | 93 | Miami, FL | AI/ML/Data | 2026-08-17 |
 
-## Re:Build Manufacturing
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Application Engineer - Drone Technology](https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4700747005) | 93 | Framingham, MA | Software | 2026-08-17 |
-
 ## Realm
 
 | Title | Score | Location | Department | First seen |
@@ -6710,7 +6704,6 @@
 | --- | --- | --- | --- | --- |
 | [Senior Software Engineer - Energy Storage](https://boards.greenhouse.io/redwoodmaterials/jobs/5823270004) | 93 | SF | Software | 2026-08-17 |
 | [Embedded Software Engineer Intern](https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004) | 93 | SF | Hardware | 2026-08-15 |
-| [Embedded Software Engineer Intern - Fall 2026](https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004?gh_jid=6126784004) | 93 | San Francisco, California, United States | Software / Fall 2026 | 2026-07-29 |
 
 ## RegDesk
 
@@ -6949,6 +6942,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-MELBOURNE-307--1100-W-Hibiscus-Blvd--BLDG-307/Software-Engineer-I--Onsite-_01866124) | 93 | Melbourne, FL | Software | 2026-08-20 |
 | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392) | 93 | San Jose, CA | Software | 2026-08-20 |
 | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineer-I--Onsite-_01867905) | 93 | Aurora, CO | Software | 2026-08-20 |
 | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I---Onsite-_01868027) | 93 | Fort Wayne, IN | Software | 2026-08-19 |
@@ -7112,6 +7106,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Graduate Software Developer](https://jobs.lever.co/scottlogic/9184c6d5-3adc-4043-a1d4-44da49f14e60/apply) | 99 | Newcastle upon Tyne, UK | Software | 2026-08-17 |
+
+## Scout AI
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Junior Firmware Engineer](https://job-boards.greenhouse.io/scoutai/jobs/4643333008) | 93 | Sunnyvale, CA | Software Engineering | 2026-08-20 |
 
 ## Seagate Technology 
 
@@ -8819,12 +8819,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer New Grad - Algorithm](https://jobs.lever.co/weride/5a7cbc83-2381-482e-9d6d-e9c9d59ad63b/apply) | 99 | San Jose, CA | Software | 2026-08-17 |
 | [Software Engineer Intern - Perception/Computer Vision](https://jobs.lever.co/weride/5cde0d09-ba2d-408d-947e-4a42028cd4f7/apply) | 93 | San Jose, CA | AI/ML/Data | 2026-08-17 |
-
-## Western Alliance
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Engineer 1 - UiPath Developer](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Engineer-I---UiPath-Developer_R13659) | 85 | Dallas, TX / Phoenix, AZ | Software | 2026-08-19 |
 
 ## Western Digital
 
