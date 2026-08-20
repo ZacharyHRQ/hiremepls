@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T15:55:35.841Z",
+  "generatedAt": "2026-08-20T16:23:12.547Z",
   "companyCount": 188,
   "okCount": 188,
   "jobCount": 2717,
@@ -762,7 +762,6 @@
     "canonical:7157582e262b9981": "2026-08-15T02:29:09.220Z",
     "canonical:dd330df63152542e": "2026-08-15T02:29:09.220Z",
     "canonical:b27fb17837ea07bb": "2026-08-15T02:29:09.220Z",
-    "canonical:0e90d93932b5a90b": "2026-08-15T02:29:09.220Z",
     "canonical:aebba111be1ddc7b": "2026-08-15T02:29:09.220Z",
     "canonical:e7f8cbac3cbaef2a": "2026-08-15T05:15:45.235Z",
     "canonical:56dda4e7adbf59ab": "2026-08-15T05:15:45.235Z",
@@ -2540,7 +2539,6 @@
     "canonical:9daa31c53392037a": "2026-08-18T22:46:41.666Z",
     "canonical:5c248a7e08424be5": "2026-08-18T22:46:41.666Z",
     "canonical:6e9b1d61606de8e6": "2026-08-18T22:46:41.666Z",
-    "canonical:201a0301e06f2b19": "2026-08-18T22:46:41.666Z",
     "canonical:f120790d2f4ddbde": "2026-08-18T22:46:41.666Z",
     "canonical:90c79f2f194daeef": "2026-08-18T22:46:41.666Z",
     "canonical:7c6c7b2c9b9b8a81": "2026-08-18T22:46:41.666Z",
@@ -2720,7 +2718,9 @@
     "canonical:a4d67f64de6888e8": "2026-08-20T15:55:35.841Z",
     "canonical:9884a6725ee76278": "2026-08-20T15:55:35.841Z",
     "canonical:a4cea2401550f880": "2026-08-20T15:55:35.841Z",
-    "canonical:4f674c0cb0befe62": "2026-08-20T15:55:35.841Z"
+    "canonical:4f674c0cb0befe62": "2026-08-20T15:55:35.841Z",
+    "canonical:ac81291362622ecd": "2026-08-20T16:23:12.547Z",
+    "canonical:eae7b40779f0f1f3": "2026-08-20T16:23:12.547Z"
   },
   "jobs": [
     {
@@ -5253,10 +5253,10 @@
       ]
     },
     {
-      "id": "canonical:62beda5aaf0fcc6c",
+      "id": "canonical:e8a5b9fc6e1a4de2",
       "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
-      "location": "Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
+      "location": "Bengaluru",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -5266,10 +5266,10 @@
       ]
     },
     {
-      "id": "canonical:e8a5b9fc6e1a4de2",
+      "id": "canonical:62beda5aaf0fcc6c",
       "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
-      "location": "Bengaluru",
+      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
+      "location": "Dublin",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -12990,20 +12990,6 @@
       "title": "Software Engineer Intern - Summer 2027",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineering-Intern--Summer-2027-_01867439",
       "location": "Fullerton, CA",
-      "department": "Software",
-      "company": "RTX",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:0e90d93932b5a90b",
-      "title": "Software Engineer Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01865952",
-      "location": "West Valley City, UT",
       "department": "Software",
       "company": "RTX",
       "score": 93,
@@ -34302,19 +34288,6 @@
       ]
     },
     {
-      "id": "canonical:201a0301e06f2b19",
-      "title": "R&D Engineer 1 - Software",
-      "url": "https://jobs.keysight.com/jobs/53966?icims=1",
-      "location": "Colorado Springs, CO",
-      "department": "Software",
-      "company": "Keysight Technologies",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:9daa31c53392037a",
       "title": "Agentic Engineer New Grad",
       "url": "https://www.noom.com/careers/job-listings/?gh_jid=8140376",
@@ -39317,6 +39290,34 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:ac81291362622ecd",
+      "title": "Quantitative Researcher - Internship - Summer 2027",
+      "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000144592181",
+      "location": "New York, NY, United States",
+      "department": "Quant / Summer 2027",
+      "company": "InfiniteQuant",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:eae7b40779f0f1f3",
+      "title": "AI Software Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5214224007",
+      "location": "Durham, NC",
+      "department": "Data & ML/AI / Fall 2026",
+      "company": "Toshiba Global Commerce",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {

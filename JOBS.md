@@ -454,7 +454,7 @@
 - [Inbulks](#inbulks) (1)
 - [Incident IQ](#incident-iq) (1)
 - [Independent Software](#independent-software) (2)
-- [InfiniteQuant](#infinitequant) (2)
+- [InfiniteQuant](#infinitequant) (3)
 - [Infoblox](#infoblox) (1)
 - [Infojini](#infojini) (2)
 - [Innodata](#innodata) (1)
@@ -505,7 +505,7 @@
 - [KBR](#kbr) (2)
 - [Kearney](#kearney) (1)
 - [Kepler Communications](#kepler-communications) (1)
-- [Keysight Technologies](#keysight-technologies) (2)
+- [Keysight Technologies](#keysight-technologies) (1)
 - [Kikoff](#kikoff) (1)
 - [KLA](#kla) (2)
 - [KLA Corporation](#kla-corporation) (2)
@@ -796,7 +796,7 @@
 - [Royal Bank of Canada](#royal-bank-of-canada) (2)
 - [Royal Caribbean Group](#royal-caribbean-group) (1)
 - [RRS Group](#rrs-group) (2)
-- [RTX](#rtx) (50)
+- [RTX](#rtx) (49)
 - [RunSybil](#runsybil) (1)
 - [Ryder System](#ryder-system) (1)
 - [SA Technologies](#sa-technologies) (2)
@@ -943,6 +943,7 @@
 - [TJX](#tjx) (1)
 - [TMEIC Corporation Americas](#tmeic-corporation-americas) (1)
 - [Torc Robotics](#torc-robotics) (1)
+- [Toshiba Global Commerce](#toshiba-global-commerce) (1)
 - [Tower Health](#tower-health) (1)
 - [Tower Research](#tower-research) (1)
 - [Tower Research Capital](#tower-research-capital) (4)
@@ -4383,6 +4384,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Quantitative Researcher - Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000144592181) | 93 | New York, NY, United States | Quant / Summer 2027 | 2026-08-20 |
 | [Quantitative Researcher Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421) | 93 | Dubai - United Arab Emirates / NYC | Quant | 2026-08-18 |
 | [Quantitative Developer Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579) | 93 | Dubai - United Arab Emirates / NYC | Quant | 2026-08-13 |
 
@@ -4785,7 +4787,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [R&D Engineer 1 - Software](https://jobs.keysight.com/jobs/53966?icims=1) | 85 | Colorado Springs, CO | Software | 2026-08-18 |
 | [Wireless Protocol Software Engineer - Layer 2 - Radio Link Control](https://jobs.keysight.com/jobs/52141?lang=en-us&icims=1) | 85 | Fleet, UK / Milan, Metropolitan City of Milan, Italy | Hardware | 2026-08-17 |
 
 ## Kikoff
@@ -6982,7 +6983,6 @@
 | [Software Engineer Intern, Fleet Health Instrumentation](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072) | 93 | McKinney, TX | — | 2026-08-17 |
 | [Software Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01867487) | 93 | US-IA-CEDAR RAPIDS-166 ~ 855 35Th St NE ~ BLDG 166 | Software / Summer 2027 | 2026-08-17 |
 | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Software-Engineering-Intern--Summer-2027-_01865808) | 93 | East Hartford, CT | Hardware | 2026-08-15 |
-| [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01865952) | 93 | West Valley City, UT | Software | 2026-08-15 |
 | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern--Summer-2027-_01866136) | 93 | Cedar Rapids, IA | Hardware | 2026-08-15 |
 | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineering-Intern--Summer-2027-_01867439) | 93 | Fullerton, CA | Software | 2026-08-15 |
 | [Software Engineering Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineering-Intern--Summer-2027-_01866777) | 93 | Tucson, AZ | Hardware | 2026-08-15 |
@@ -8278,6 +8278,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer 1 - Metrics for Release](https://job-boards.greenhouse.io/torcrobotics/jobs/8676173002) | 93 | Blacksburg, VA / Ann Arbor, MI / Fort Worth, TX | Software | 2026-08-20 |
+
+## Toshiba Global Commerce
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI Software Engineering Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5214224007) | 93 | Durham, NC | Data & ML/AI / Fall 2026 | 2026-08-20 |
 
 ## Tower Health
 
