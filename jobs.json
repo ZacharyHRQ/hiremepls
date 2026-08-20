@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-20T08:02:14.294Z",
+  "generatedAt": "2026-08-20T08:53:03.440Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2712,
+  "jobCount": 2711,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2707,7 +2707,6 @@
     "canonical:f1d6a9f2686876fc": "2026-08-20T02:21:31.211Z",
     "canonical:98f52a3a415f6829": "2026-08-20T02:21:31.211Z",
     "canonical:bf010456a757fe8a": "2026-08-20T02:21:31.211Z",
-    "canonical:4a77656807157e3b": "2026-08-20T02:21:31.211Z",
     "canonical:ea5de2d3dae88798": "2026-08-20T03:15:58.108Z",
     "canonical:7ded916c6253be2f": "2026-08-20T04:04:28.859Z",
     "canonical:38b95e9312401a1d": "2026-08-20T07:15:33.253Z",
@@ -5248,10 +5247,10 @@
       ]
     },
     {
-      "id": "canonical:62beda5aaf0fcc6c",
+      "id": "canonical:e8a5b9fc6e1a4de2",
       "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
-      "location": "Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
+      "location": "Bengaluru",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -5261,10 +5260,10 @@
       ]
     },
     {
-      "id": "canonical:e8a5b9fc6e1a4de2",
+      "id": "canonical:62beda5aaf0fcc6c",
       "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
-      "location": "Bengaluru",
+      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
+      "location": "Dublin",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -5610,19 +5609,6 @@
       "id": "canonical:43c945396857ea6b",
       "title": "AI Engineer Intern - BCG X",
       "url": "https://careers.bcg.com/global/en/job/56635",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "Boston Consulting Group",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:a356ac432d4a0c77",
-      "title": "Data Scientist Intern",
-      "url": "https://careers.bcg.com/global/en/job/56634",
       "location": "London, UK",
       "department": "AI/ML/Data",
       "company": "Boston Consulting Group",
@@ -5998,19 +5984,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:6a149cb9a2be52a1",
-      "title": "Research Scientist Intern - AI/ML - Core Ads Growth",
-      "url": "https://www.metacareers.com/jobs/771948392580541",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "Meta",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -7244,6 +7217,19 @@
       "location": "Remote in USA",
       "department": "AI/ML/Data",
       "company": "Peraton",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:a356ac432d4a0c77",
+      "title": "Data Scientist Intern",
+      "url": "https://careers.bcg.com/global/en/job/56634",
+      "location": "London, UK",
+      "department": "AI/ML/Data",
+      "company": "Boston Consulting Group",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -11250,20 +11236,6 @@
       ]
     },
     {
-      "id": "canonical:7b6302842eda5e24",
-      "title": "Software Engineer Intern - Aeronautics Systems",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573",
-      "location": "Melbourne, FL",
-      "department": "Software",
-      "company": "Northrop Grumman",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:8748985990227042",
       "title": "Research Scientist Intern",
       "url": "https://jobs.bytedance.com/en/position/7670375041041320245/detail",
@@ -11393,6 +11365,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:7b6302842eda5e24",
+      "title": "Software Engineer Intern - Aeronautics Systems",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395",
+      "location": "Melbourne, FL",
+      "department": "Software",
+      "company": "Northrop Grumman",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -12577,6 +12563,19 @@
       "location": "Dallas, TX",
       "department": "Software",
       "company": "Calpion/Plutus Health",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:6a149cb9a2be52a1",
+      "title": "Research Scientist Intern - AI/ML - Core Ads Growth",
+      "url": "https://www.metacareers.com/jobs/771948392580541",
+      "location": "London, UK",
+      "department": "AI/ML/Data",
+      "company": "Meta",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -13776,20 +13775,6 @@
       ]
     },
     {
-      "id": "canonical:bbe70c5f8e21ac9e",
-      "title": "AI Innovation Engineer Intern",
-      "url": "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ASC-Atlanta-HQ-GA/AI-Innovation-Engineer_REQ_93190",
-      "location": "Atlanta, GA",
-      "department": "AI/ML/Data",
-      "company": "Amcor",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:a522f49ad7e2b21e",
       "title": "Software Engineer Intern",
       "url": "https://jobs-cesi.icims.com/jobs/11204/job?mobile=true&needsRedirect=false",
@@ -14118,16 +14103,17 @@
       ]
     },
     {
-      "id": "canonical:124270e4fa88037d",
-      "title": "Software Engineer Intern - Recommendation Infra - Performance Efficiency",
-      "url": "https://lifeattiktok.com/search/7675159726676101381",
-      "location": "San Jose, CA",
-      "department": "Software",
-      "company": "TikTok",
-      "score": 85,
+      "id": "canonical:bbe70c5f8e21ac9e",
+      "title": "AI Innovation Engineer Intern",
+      "url": "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ASC-Atlanta-HQ-GA/AI-Innovation-Engineer_REQ_93190",
+      "location": "Atlanta, GA",
+      "department": "AI/ML/Data",
+      "company": "Amcor",
+      "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role"
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -14135,32 +14121,6 @@
       "title": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure",
       "url": "https://lifeattiktok.com/search/7672926068681951493",
       "location": "Seattle, WA",
-      "department": "Software",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:1886fec3d5117f2e",
-      "title": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure",
-      "url": "https://lifeattiktok.com/search/7672934842451577141",
-      "location": "San Jose, CA",
-      "department": "Software",
-      "company": "TikTok",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:bd0c0f10cf4700d6",
-      "title": "Software Engineer Intern - TikTok Search Architecture",
-      "url": "https://lifeattiktok.com/search/7675517686256863541",
-      "location": "San Jose, CA",
       "department": "Software",
       "company": "TikTok",
       "score": 85,
@@ -14190,6 +14150,45 @@
       "location": "Houston, TX",
       "department": "Software",
       "company": "Sysco",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:124270e4fa88037d",
+      "title": "Software Engineer Intern - Recommendation Infra - Performance Efficiency",
+      "url": "https://lifeattiktok.com/search/7675159726676101381",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:1886fec3d5117f2e",
+      "title": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure",
+      "url": "https://lifeattiktok.com/search/7672930401597671733",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:bd0c0f10cf4700d6",
+      "title": "Software Engineer Intern - TikTok Search Architecture",
+      "url": "https://lifeattiktok.com/search/7675517686256863541",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "TikTok",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -18130,19 +18129,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:ab0e9c0871a7e195",
-      "title": "Embedded Engineer 1 New Grad",
-      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/140055",
-      "location": "St. Charles, IL",
-      "department": "Hardware",
-      "company": "Honeywell",
-      "score": 81,
-      "scoreReasons": [
-        "SWE-aligned",
-        "new grad"
       ]
     },
     {
@@ -22548,19 +22534,6 @@
       ]
     },
     {
-      "id": "canonical:a6c653cc2c6d352e",
-      "title": "Associate – Software Engineer",
-      "url": "https://jobs.l3harris.com/job/Yorba-Linda-Associate,-Software-Engineer-CA-92887/1410487500/?ats=successfactors",
-      "location": "Yorba Linda, CA",
-      "department": "Hardware",
-      "company": "L3Harris Technologies",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:32e2a06db294b70e",
       "title": "Software Engineer",
       "url": "https://jobs.smartrecruiters.com/WesternDigital/744000138717897",
@@ -24517,20 +24490,6 @@
       ]
     },
     {
-      "id": "canonical:699c1fdb93549cf5",
-      "title": "Software Engineer - Business Systems & Analytics",
-      "url": "https://job-boards.greenhouse.io/arevonenergyimpltest/jobs/5027450007",
-      "location": "Scottsdale, AZ",
-      "department": "Software",
-      "company": "Arevon",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:2d83a266a6699ef0",
       "title": "Software Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/nooks/311d6e70-5cfa-4e80-89f6-fe00ac1f9f53/application?embed=true",
@@ -24777,20 +24736,6 @@
       ]
     },
     {
-      "id": "canonical:808a940dfcbddaf1",
-      "title": "Design Developer",
-      "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=7951195&gh_jid=7951195",
-      "location": "NYC",
-      "department": "Software",
-      "company": "Gemini",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:b42940adea04ce7f",
       "title": "DevSecOps Research Computing Software Engineer",
       "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/DevSecOps-Research-Computing-Software-Engineer_REQ_0000079351-2",
@@ -24883,21 +24828,6 @@
       "location": "London, UK",
       "department": "Software",
       "company": "Palantir",
-      "score": 99,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:c3c15393690ff04c",
-      "title": "Software Engineer Junior New Grad - ML Infra",
-      "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4615879006",
-      "location": "Mountain View, CA",
-      "department": "Software",
-      "company": "NewsBreak",
       "score": 99,
       "scoreReasons": [
         "SWE-aligned",
@@ -25206,6 +25136,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:699c1fdb93549cf5",
+      "title": "Software Engineer - Business Systems & Analytics",
+      "url": "https://job-boards.greenhouse.io/arevonenergyimpltest/jobs/5027450007",
+      "location": "Scottsdale, AZ",
+      "department": "Software",
+      "company": "Arevon",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -25762,6 +25706,21 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c3c15393690ff04c",
+      "title": "Software Engineer Junior New Grad - ML Infra",
+      "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4615879006",
+      "location": "Mountain View, CA",
+      "department": "Software",
+      "company": "NewsBreak",
+      "score": 99,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
         "direct ATS"
       ]
     },
@@ -26872,21 +26831,6 @@
       ]
     },
     {
-      "id": "canonical:5f47b7ec7b871a75",
-      "title": "Quantitative Researcher New Grad",
-      "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048830",
-      "location": "Chicago, IL",
-      "department": "Quant",
-      "company": "Maven Securities",
-      "score": 99,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:846b9e0368faea58",
       "title": "Research Engineer Graduate - Monetization Technology - Business Integrity",
       "url": "https://lifeattiktok.com/search/7667769079948347701",
@@ -27082,20 +27026,6 @@
       ]
     },
     {
-      "id": "canonical:31f4fef8f128eda2",
-      "title": "Associate Engineer",
-      "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716937005",
-      "location": "Chicago, IL / NYC",
-      "department": "Software",
-      "company": "Chicago Trading Company",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:df3686a9e0ef32c0",
       "title": "Software Engineer 1 New Grad",
       "url": "https://www.samsara.com/company/careers/roles/8097343?gh_jid=8097343",
@@ -27110,17 +27040,16 @@
       ]
     },
     {
-      "id": "canonical:aeea24eb36157037",
-      "title": "Software Engineer 1 - User Systems",
-      "url": "https://job-boards.greenhouse.io/simplisafe/jobs/8095181",
-      "location": "Boston, MA",
-      "department": "Software",
-      "company": "SimpliSafe",
-      "score": 93,
+      "id": "canonical:a6c653cc2c6d352e",
+      "title": "Associate – Software Engineer",
+      "url": "https://jobs.l3harris.com/job/Yorba-Linda-Associate,-Software-Engineer-CA-92887/1410487500/?ats=successfactors",
+      "location": "Yorba Linda, CA",
+      "department": "Hardware",
+      "company": "L3Harris Technologies",
+      "score": 85,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
+        "high-signal role"
       ]
     },
     {
@@ -28244,16 +28173,17 @@
       ]
     },
     {
-      "id": "canonical:91f0a4d875308a30",
-      "title": "Software Engineer - Entry-Level",
-      "url": "https://job-boards.greenhouse.io/muonspace/jobs/5204498007",
-      "location": "San Jose, CA",
-      "department": "Hardware",
-      "company": "Muon Space",
-      "score": 93,
+      "id": "canonical:5f47b7ec7b871a75",
+      "title": "Quantitative Researcher New Grad",
+      "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048830",
+      "location": "Chicago, IL",
+      "department": "Quant",
+      "company": "Maven Securities",
+      "score": 99,
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
+        "new grad",
         "direct ATS"
       ]
     },
@@ -28299,12 +28229,12 @@
       ]
     },
     {
-      "id": "canonical:4926486b5d9d2a6f",
-      "title": "Software Engineer 1 - Metrics for Release",
-      "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8676173002",
-      "location": "Blacksburg, VA / Ann Arbor, MI / Fort Worth, TX",
+      "id": "canonical:aeea24eb36157037",
+      "title": "Software Engineer 1 - User Systems",
+      "url": "https://job-boards.greenhouse.io/simplisafe/jobs/8095181",
+      "location": "Boston, MA",
       "department": "Software",
-      "company": "Torc Robotics",
+      "company": "SimpliSafe",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -32307,16 +32237,17 @@
       ]
     },
     {
-      "id": "canonical:f63c49d9a5582cdb",
-      "title": "Software Engineer 1",
-      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155551",
-      "location": "Richmond, VA",
+      "id": "canonical:808a940dfcbddaf1",
+      "title": "Design Developer",
+      "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=7951195&gh_jid=7951195",
+      "location": "NYC",
       "department": "Software",
-      "company": "Honeywell",
-      "score": 85,
+      "company": "Gemini",
+      "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role"
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -33655,6 +33586,19 @@
       ]
     },
     {
+      "id": "canonical:ab0e9c0871a7e195",
+      "title": "Embedded Engineer 1 New Grad",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/140055",
+      "location": "St. Charles, IL",
+      "department": "Hardware",
+      "company": "Honeywell",
+      "score": 81,
+      "scoreReasons": [
+        "SWE-aligned",
+        "new grad"
+      ]
+    },
+    {
       "id": "canonical:0a2f42d9f1f59218",
       "title": "Data Scientist - Data & Analytics",
       "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/Technology-Leadership-Program---Data---Analytics--Scientist----PA_180092-1",
@@ -33923,12 +33867,12 @@
       ]
     },
     {
-      "id": "canonical:6fda02ae59b09506",
-      "title": "Machine Learning Engineer - Associate",
-      "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4356977009",
-      "location": "El Segundo, CA",
-      "department": "AI/ML/Data",
-      "company": "Voyager Technologies",
+      "id": "canonical:31f4fef8f128eda2",
+      "title": "Associate Engineer",
+      "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716937005",
+      "location": "Chicago, IL / NYC",
+      "department": "Software",
+      "company": "Chicago Trading Company",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -34403,6 +34347,20 @@
       ]
     },
     {
+      "id": "canonical:6fda02ae59b09506",
+      "title": "Machine Learning Engineer - Associate",
+      "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4356972009",
+      "location": "El Segundo, CA",
+      "department": "AI/ML/Data",
+      "company": "Voyager Technologies",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:9daa31c53392037a",
       "title": "Agentic Engineer New Grad",
       "url": "https://www.noom.com/careers/job-listings/?gh_jid=8140376",
@@ -34860,29 +34818,31 @@
       ]
     },
     {
-      "id": "canonical:dd3fb020a490b7c1",
-      "title": "Application Engineer 1 - Training - Building Automation - CX Learning & Enablement",
-      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/154237",
-      "location": "Northford, CT",
-      "department": "Software",
-      "company": "Honeywell",
-      "score": 85,
+      "id": "canonical:91f0a4d875308a30",
+      "title": "Software Engineer - Entry-Level",
+      "url": "https://job-boards.greenhouse.io/muonspace/jobs/5204498007",
+      "location": "San Jose, CA",
+      "department": "Hardware",
+      "company": "Muon Space",
+      "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role"
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
-      "id": "canonical:6ab8da808e4e11ac",
-      "title": "Application Developer Associate - Enterprise Data and AI",
-      "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Application-Developer-FL-32919/1421158000/?ats=successfactors",
-      "location": "Melbourne, FL",
+      "id": "canonical:4926486b5d9d2a6f",
+      "title": "Software Engineer 1 - Metrics for Release",
+      "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8676173002",
+      "location": "Blacksburg, VA / Ann Arbor, MI / Fort Worth, TX",
       "department": "Software",
-      "company": "L3Harris Technologies",
-      "score": 85,
+      "company": "Torc Robotics",
+      "score": 93,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role"
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -35383,20 +35343,6 @@
       ]
     },
     {
-      "id": "canonical:98f52a3a415f6829",
-      "title": "Graduate Software Engineer - TikTok Search Data Infra",
-      "url": "https://lifeattiktok.com/search/7675829388634392837",
-      "location": "San Jose, CA",
-      "department": "Software",
-      "company": "TikTok",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad"
-      ]
-    },
-    {
       "id": "canonical:390543008a596395",
       "title": "Software Engineer New Grad",
       "url": "https://job-boards.greenhouse.io/kikoff/jobs/4376677009",
@@ -35412,30 +35358,16 @@
       ]
     },
     {
-      "id": "canonical:bf010456a757fe8a",
-      "title": "Research Scientist/Software Engineer - Neural Graphics and World Models",
-      "url": "https://lifeattiktok.com/search/7668854153882011957",
-      "location": "San Jose, CA",
+      "id": "canonical:6ab8da808e4e11ac",
+      "title": "Application Developer Associate - Enterprise Data and AI",
+      "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Application-Developer-FL-32919/1421158000/?ats=successfactors",
+      "location": "Melbourne, FL",
       "department": "Software",
-      "company": "TikTok",
+      "company": "L3Harris Technologies",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:f1d6a9f2686876fc",
-      "title": "Machine Learning Engineer Graduate - Multiple Teams",
-      "url": "https://lifeattiktok.com/search/7675841339440941317",
-      "location": "San Jose, CA",
-      "department": "AI/ML/Data",
-      "company": "TikTok",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad"
       ]
     },
     {
@@ -35458,6 +35390,32 @@
       "location": "San Diego, CA",
       "department": "",
       "company": "Qualcomm",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:dd3fb020a490b7c1",
+      "title": "Application Engineer 1 - Training - Building Automation - CX Learning & Enablement",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/154237",
+      "location": "Northford, CT",
+      "department": "Software",
+      "company": "Honeywell",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:f63c49d9a5582cdb",
+      "title": "Software Engineer 1",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155551",
+      "location": "Richmond, VA",
+      "department": "Software",
+      "company": "Honeywell",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -35719,6 +35677,20 @@
       ]
     },
     {
+      "id": "canonical:98f52a3a415f6829",
+      "title": "Graduate Software Engineer - TikTok Search Data Infra",
+      "url": "https://lifeattiktok.com/search/7675829388634392837",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "TikTok",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
+      ]
+    },
+    {
       "id": "canonical:b6ec1da4ec343f57",
       "title": "Software Engineer",
       "url": "https://careers.qualcomm.com/careers/job/446705907067",
@@ -35851,6 +35823,20 @@
         "SWE-aligned",
         "new grad",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f1d6a9f2686876fc",
+      "title": "Machine Learning Engineer Graduate - Multiple Teams",
+      "url": "https://lifeattiktok.com/search/7675841339440941317",
+      "location": "San Jose, CA",
+      "department": "AI/ML/Data",
+      "company": "TikTok",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
       ]
     },
     {
@@ -35988,17 +35974,16 @@
       ]
     },
     {
-      "id": "canonical:4a77656807157e3b",
-      "title": "Graduate C++ Software Engineer",
-      "url": "https://davincitrading.com/job/graduate-c-software-engineer-2/",
-      "location": "Miami, FL",
-      "department": "",
-      "company": "Da Vinci",
-      "score": 91,
+      "id": "canonical:bf010456a757fe8a",
+      "title": "Research Scientist/Software Engineer - Neural Graphics and World Models",
+      "url": "https://lifeattiktok.com/search/7668854153882011957",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "TikTok",
+      "score": 85,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "new grad"
+        "high-signal role"
       ]
     },
     {
@@ -38289,32 +38274,6 @@
       ]
     },
     {
-      "id": "canonical:c47ec3deda9d2151",
-      "title": "Software Engineer I",
-      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/116510",
-      "location": "Fort Mill, SC",
-      "department": "",
-      "company": "Honeywell",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:976fedd53f510bf7",
-      "title": "Software Engineer I",
-      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/119931",
-      "location": "Clearwater, FL",
-      "department": "",
-      "company": "HoneyWell",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:34729eae25d4053f",
       "title": "Software Engineer 1",
       "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1329771000/?ats=successfactors",
@@ -38484,6 +38443,32 @@
         "SWE-aligned",
         "high-signal role",
         "new grad"
+      ]
+    },
+    {
+      "id": "canonical:976fedd53f510bf7",
+      "title": "Software Engineer I",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/119931",
+      "location": "Clearwater, FL",
+      "department": "",
+      "company": "HoneyWell",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:c47ec3deda9d2151",
+      "title": "Software Engineer I",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/116510",
+      "location": "Fort Mill, SC",
+      "department": "",
+      "company": "Honeywell",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
@@ -39272,20 +39257,6 @@
       ]
     },
     {
-      "id": "canonical:91c5dfe1f8dea501",
-      "title": "Software Engineer Intern (Backend, Rust)",
-      "url": "https://jobs.ashbyhq.com/n1/afe7deb5-9cfd-4926-bcb4-058d418592a6",
-      "location": "New York City",
-      "department": "Software / Not stated",
-      "company": "N1",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:7a6dc874ea4f88b6",
       "title": "Software Engineering Intern (Summer 2027)",
       "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineering-Intern--Summer-2027-_01868241",
@@ -39901,6 +39872,20 @@
       "location": "New York",
       "department": "Quant / Summer 2027",
       "company": "Virtu Financial",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:91c5dfe1f8dea501",
+      "title": "Software Engineer Intern (Backend, Rust)",
+      "url": "https://jobs.ashbyhq.com/n1/afe7deb5-9cfd-4926-bcb4-058d418592a6",
+      "location": "New York City",
+      "department": "Software / Not stated",
+      "company": "N1",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
