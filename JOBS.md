@@ -1,6 +1,6 @@
 # Open Internships
 
-**2745** internships across **188/188** companies — last updated 2026-08-20.
+**2749** internships across **188/188** companies — last updated 2026-08-20.
 
 ## Companies
 
@@ -8,6 +8,7 @@
 - [3RedPartners](#3redpartners) (2)
 - [9to9 Software Solutions](#9to9-software-solutions) (7)
 - [AAR](#aar) (1)
+- [Abacus Insights](#abacus-insights) (1)
 - [AbbVie](#abbvie) (2)
 - [Abound](#abound) (3)
 - [Abridge](#abridge) (2)
@@ -143,6 +144,7 @@
 - [Blissway](#blissway) (1)
 - [Blockhouse](#blockhouse) (1)
 - [Blue Origin](#blue-origin) (3)
+- [Blue Shield of California](#blue-shield-of-california) (1)
 - [Blue Sky Innovators](#blue-sky-innovators) (1)
 - [Bluehawk](#bluehawk) (1)
 - [Bluesight](#bluesight) (1)
@@ -231,6 +233,7 @@
 - [Constellation Energy](#constellation-energy) (2)
 - [Constellation Space](#constellation-space) (1)
 - [Content Guru](#content-guru) (1)
+- [Cook Systems](#cook-systems) (1)
 - [Copart](#copart) (6)
 - [Core & Main](#core-main) (2)
 - [Corning](#corning) (1)
@@ -380,7 +383,7 @@
 - [Geico](#geico) (2)
 - [Gemini](#gemini) (1)
 - [Generac](#generac) (3)
-- [General Dynamics Information Technology](#general-dynamics-information-technology) (7)
+- [General Dynamics Information Technology](#general-dynamics-information-technology) (6)
 - [General Dynamics Mission Systems](#general-dynamics-mission-systems) (8)
 - [General Matter](#general-matter) (2)
 - [General Motors](#general-motors) (3)
@@ -529,7 +532,7 @@
 - [KOSTAL Group](#kostal-group) (1)
 - [KPMG](#kpmg) (1)
 - [Kyndryl](#kyndryl) (2)
-- [L3Harris Technologies](#l3harris-technologies) (29)
+- [L3Harris Technologies](#l3harris-technologies) (30)
 - [Lambda](#lambda) (1)
 - [Laserfiche](#laserfiche) (1)
 - [Lawrence Livermore National Laboratory (LLNL)](#lawrence-livermore-national-laboratory-llnl) (5)
@@ -953,7 +956,7 @@
 - [Thorlabs](#thorlabs) (1)
 - [TickPick](#tickpick) (1)
 - [TIFIN](#tifin) (1)
-- [TikTok](#tiktok) (292)
+- [TikTok](#tiktok) (291)
 - [Tilde Research](#tilde-research) (2)
 - [Titan](#titan) (1)
 - [TJX](#tjx) (1)
@@ -1073,8 +1076,9 @@
 - [Zebra Technologies](#zebra-technologies) (1)
 - [Zettabyte](#zettabyte) (2)
 - [Zip](#zip) (1)
-- [Zipline](#zipline) (2)
+- [Zipline](#zipline) (3)
 - [Zoro](#zoro) (1)
+- [Zurich Insurance](#zurich-insurance) (1)
 - [Zurn Elkay Water Solutions](#zurn-elkay-water-solutions) (2)
 
 ## 21CS
@@ -1107,6 +1111,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Junior Web Developer](https://aarcorp.taleo.net/careersection/aar_mobile/jobdetail.ftl?job=18441) | 85 | Chicago, IL / Elk Grove Village, IL | Software | 2026-08-17 |
+
+## Abacus Insights
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Associate Data Engineer](https://boards.greenhouse.io/abacusinsights/jobs/8674746002) | 93 | Remote in USA | AI/ML/Data | 2026-08-20 |
 
 ## AbbVie
 
@@ -2093,6 +2103,12 @@
 | [Avionics / Embedded Software Engineer 1 - Early Career](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2026-Starts-_R70055) | 93 | LA / Kent, WA | Hardware | 2026-08-17 |
 | [Software Development Engineer 1 - Early Career](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2026-Starts-_R70051) | 93 | Seattle, WA | Software | 2026-08-17 |
 
+## Blue Shield of California
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data Full Stack Engineer Intern](https://ecge.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/20261580) | 85 | Oakland, CA | Software | 2026-08-20 |
+
 ## Blue Sky Innovators
 
 | Title | Score | Location | Department | First seen |
@@ -2760,7 +2776,7 @@
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
 | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -2873,6 +2889,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Graduate Software Developer - Assessment Day](https://contentguru.bamboohr.com/careers/319/) | 91 | Bracknell, UK | Software | 2026-08-18 |
+
+## Cook Systems
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Entry-Level Software Developer](https://job-boards.greenhouse.io/cooksys/jobs/5386869008) | 93 | Nashville, TN | Software | 2026-08-20 |
 
 ## Copart
 
@@ -3886,7 +3908,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [AI Engineer Associate](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/AI-Engineer_RQ226699) | 93 | United States | Software | 2026-08-18 |
 | [Data Quality Monitoring Engineer](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NE-Offutt-AFB/Data-Quality-Monitoring-Engineer_RQ226071-2) | 93 | Offutt AFB, NE | AI/ML/Data | 2026-08-18 |
 | [Human Performance Data Scientist 1](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-Hurlburt-Field---229-Cody-Ave-FLC017/Human-Performance-Data-Scientist-I_RQ210954) | 93 | Hurlburt Field, FL | AI/ML/Data | 2026-08-17 |
 | [Junior Software Developer - Active TS/SCI with Poly Required](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Junior-Software-Developer--Active-TS-SCI-with-Poly-Required-_RQ212931) | 93 | Annapolis Junction, MD | Software | 2026-08-17 |
@@ -4956,6 +4977,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Associate Software Engineer](https://jobs.l3harris.com/job/Lynchburg-Associate,-Software-Engineer-VA-24501-6952/1421773100/?ats=successfactors) | 85 | Lynchburg, VA | Hardware | 2026-08-20 |
 | [Associate Software Engineer](https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1421462300/?ats=successfactors) | 85 | Rochester, NY | Hardware | 2026-08-20 |
 | [Senior Associate Data Architect - Data Architect](https://jobs.l3harris.com/job/Huntsville-Senior-Associate,-Data-Architect-AL-35806/1404558300/?ats=successfactors) | 85 | Huntsville, AL | AI/ML/Data | 2026-08-20 |
 | [Software Engineer Associate](https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineer-UT-84116/1421457300/?ats=successfactors) | 85 | Salt Lake City, UT | Hardware | 2026-08-20 |
@@ -6476,8 +6498,8 @@
 | [Quantitative Developer](https://careers.point72.com/CSJobDetail?jobName=quantitative-developer&jobCode=CSS-0013369&location=New%20York&locale=English) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-08-17 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -8109,7 +8131,6 @@
 | [Backend Software Engineer New Grad - Trust & Safety](https://lifeattiktok.com/search/7664533229944178949) | 91 | Seattle, WA | Software | 2026-08-17 |
 | [Big Data Engineer Graduate - TikTok Recommendation Architecture](https://lifeattiktok.com/search/7672518398222387461) | 91 | San Jose, CA | AI/ML/Data | 2026-08-17 |
 | [CV/NLP/Multimodal Large Language Models Machine Learning Engineer Graduate - Tiktok-Trust and Safety](https://lifeattiktok.com/search/7517107684337748242) | 91 | Seattle, WA | AI/ML/Data | 2026-08-17 |
-| [CV/NLP/Multimodal LLM Research Scientist Graduate - Trust and Safety](https://lifeattiktok.com/search/7517106896071903496) | 91 | Seattle, WA | AI/ML/Data | 2026-08-17 |
 | [Data Engineer Graduate - Monetization Data](https://lifeattiktok.com/search/7668550561096665397) | 91 | San Jose, CA | AI/ML/Data | 2026-08-17 |
 | [Data Knowledge System Research Scientist Graduate - Data Platform-Global Live](https://lifeattiktok.com/search/7628363726332102965) | 91 | San Jose, CA | AI/ML/Data | 2026-08-17 |
 | [Data Scientist Graduate - E-Commerce Governance](https://lifeattiktok.com/search/7674027218993154357) | 91 | Seattle, WA | AI/ML/Data | 2026-08-17 |
@@ -9166,6 +9187,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern - Spring 2027](https://www.zipline.com/open-roles?gh_jid=7907191003) | 85 | South SF | Software | 2026-08-20 |
 | [Enterprise Systems Software Engineer Intern - Spring 2027](https://www.zipline.com/open-roles?gh_jid=7893926003) | 85 | South SF | Software | 2026-08-18 |
 | [Long Range Platform Hardware Engineering Intern](https://www.zipline.com/open-roles?gh_jid=7891460003) | 85 | South SF | Hardware | 2026-08-18 |
 
@@ -9174,6 +9196,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Full Stack Software Developer](https://jobs.smartrecruiters.com/Zoro/87619425) | 93 | Chicago, IL / Buffalo Grove, IL | Software | 2026-08-18 |
+
+## Zurich Insurance
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer Associate](https://www.careers.zurich.com/job/Bath-Associate-Software-Engineer-GB-E/1367510657/?ats=successfactors) | 85 | Trowbridge, UK | Software | 2026-08-20 |
 
 ## Zurn Elkay Water Solutions
 

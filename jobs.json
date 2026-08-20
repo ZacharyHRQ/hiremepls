@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-20T22:54:52.406Z",
+  "generatedAt": "2026-08-20T23:15:31.497Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2745,
+  "jobCount": 2749,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1161,7 +1161,6 @@
     "canonical:36371e804551ddcb": "2026-08-17T16:14:31.608Z",
     "canonical:ed4ab71e0ee3e03c": "2026-08-17T16:14:31.608Z",
     "canonical:020652663292d29e": "2026-08-17T16:14:31.608Z",
-    "canonical:1996a96113af8af9": "2026-08-17T16:14:31.608Z",
     "canonical:1549bb5d15c12da9": "2026-08-17T16:14:31.608Z",
     "canonical:a06c99be775f56f3": "2026-08-17T16:14:31.608Z",
     "canonical:f7e108ee4abf9af7": "2026-08-17T16:14:31.608Z",
@@ -2514,7 +2513,6 @@
     "canonical:46812e708e8ac29b": "2026-08-18T23:12:08.114Z",
     "canonical:894cbf59f83655c2": "2026-08-18T23:12:08.114Z",
     "canonical:9b3badc30f32f1b8": "2026-08-18T23:12:08.114Z",
-    "canonical:75e08d01da95d48b": "2026-08-18T23:12:08.114Z",
     "canonical:1c00a59fa8863509": "2026-08-18T23:12:08.114Z",
     "canonical:5cab31cbf6934d69": "2026-08-18T23:34:23.701Z",
     "canonical:da64b333e4850a87": "2026-08-18T23:34:23.701Z",
@@ -2748,7 +2746,13 @@
     "canonical:388a079ff43c389f": "2026-08-20T22:54:52.406Z",
     "canonical:eed44b815923bb03": "2026-08-20T22:54:52.406Z",
     "canonical:24e73fe1cd1f39a4": "2026-08-20T22:54:52.406Z",
-    "canonical:4a77656807157e3b": "2026-08-20T22:54:52.406Z"
+    "canonical:4a77656807157e3b": "2026-08-20T22:54:52.406Z",
+    "canonical:99b4e8774e610da6": "2026-08-20T23:15:31.497Z",
+    "canonical:fc50700a32f0c0c3": "2026-08-20T23:15:31.497Z",
+    "canonical:bf296544efd69ded": "2026-08-20T23:15:31.497Z",
+    "canonical:3c7fc99e6f595935": "2026-08-20T23:15:31.497Z",
+    "canonical:a3538254574c4730": "2026-08-20T23:15:31.497Z",
+    "canonical:ca0c53a3cd181230": "2026-08-20T23:15:31.497Z"
   },
   "jobs": [
     {
@@ -2922,11 +2926,11 @@
       ]
     },
     {
-      "id": "canonical:17fc1df56cefeb65",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4818790101",
-      "location": "Chicago, IL",
-      "department": "Software",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917773101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
+      "department": "",
       "company": "IMC Trading",
       "score": 99,
       "scoreReasons": [
@@ -2937,11 +2941,11 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:17fc1df56cefeb65",
       "title": "Graduate Software Engineer",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917773101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
-      "department": "",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4818790101",
+      "location": "Chicago, IL",
+      "department": "Software",
       "company": "IMC Trading",
       "score": 99,
       "scoreReasons": [
@@ -3154,10 +3158,10 @@
       ]
     },
     {
-      "id": "canonical:748b9a19eca0fd1b",
+      "id": "canonical:51b92253e4e72e9b",
       "title": "Campus Quantitative Researcher (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8010307",
-      "location": "London; Amsterdam",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027939",
+      "location": "Singapore",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -3167,10 +3171,10 @@
       ]
     },
     {
-      "id": "canonical:51b92253e4e72e9b",
+      "id": "canonical:748b9a19eca0fd1b",
       "title": "Campus Quantitative Researcher (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027939",
-      "location": "Singapore",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8010307",
+      "location": "London; Amsterdam",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -3219,19 +3223,6 @@
       ]
     },
     {
-      "id": "canonical:aa053f6ba830d433",
-      "title": "Campus Software Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
-      "location": "Chicago",
-      "department": "",
-      "company": "Jump Trading",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:4da2c943e4eb3f7c",
       "title": "Campus Software Engineer (Intern)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=7975026",
@@ -3245,10 +3236,23 @@
       ]
     },
     {
-      "id": "canonical:3b590c340646bfa7",
-      "title": "Campus Systems Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
+      "id": "canonical:aa053f6ba830d433",
+      "title": "Campus Software Engineer (Intern)",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
       "location": "Chicago",
+      "department": "",
+      "company": "Jump Trading",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:eea417b083785298",
+      "title": "Campus Systems Engineer (Intern)",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
+      "location": "London; Amsterdam",
       "department": "",
       "company": "Jump Trading",
       "score": 75,
@@ -3269,10 +3273,10 @@
       ]
     },
     {
-      "id": "canonical:eea417b083785298",
+      "id": "canonical:3b590c340646bfa7",
       "title": "Campus Systems Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
-      "location": "London; Amsterdam",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
+      "location": "Chicago",
       "department": "",
       "company": "Jump Trading",
       "score": 75,
@@ -3294,10 +3298,10 @@
       ]
     },
     {
-      "id": "canonical:46205b9335861e9c",
+      "id": "canonical:7286f2830b7e7578",
       "title": "Campus UI Software Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7974943",
-      "location": "London",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019",
+      "location": "Chicago",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -3307,10 +3311,10 @@
       ]
     },
     {
-      "id": "canonical:7286f2830b7e7578",
+      "id": "canonical:46205b9335861e9c",
       "title": "Campus UI Software Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019",
-      "location": "Chicago",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7974943",
+      "location": "London",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -3348,34 +3352,6 @@
       ]
     },
     {
-      "id": "canonical:f9963438d881a851",
-      "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
-      "location": "Amsterdam",
-      "department": "",
-      "company": "DRW",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:bd72b8a6944f6777",
-      "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
-      "location": "London, UK",
-      "department": "Software",
-      "company": "DRW",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:1d41c103b87b651a",
       "title": "Software Developer Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
@@ -3394,6 +3370,34 @@
       "title": "Software Developer Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
       "location": "Montreal, QC, Canada",
+      "department": "Software",
+      "company": "DRW",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f9963438d881a851",
+      "title": "Software Developer Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
+      "location": "Amsterdam",
+      "department": "",
+      "company": "DRW",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:bd72b8a6944f6777",
+      "title": "Software Developer Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
+      "location": "London, UK",
       "department": "Software",
       "company": "DRW",
       "score": 93,
@@ -3548,10 +3552,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -3562,10 +3566,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -5366,7 +5370,7 @@
     {
       "id": "canonical:1a056010d15d11c7",
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -14380,6 +14384,32 @@
       ]
     },
     {
+      "id": "canonical:99b4e8774e610da6",
+      "title": "Data Full Stack Engineer Intern",
+      "url": "https://ecge.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/20261580",
+      "location": "Oakland, CA",
+      "department": "Software",
+      "company": "Blue Shield of California",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:fc50700a32f0c0c3",
+      "title": "Software Engineer Intern - Spring 2027",
+      "url": "https://www.zipline.com/open-roles?gh_jid=7907191003",
+      "location": "South SF",
+      "department": "Software",
+      "company": "Zipline",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:12cd06c0eec80152",
       "title": "Frontend Software Engineer Intern",
       "url": "https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c",
@@ -19554,20 +19584,6 @@
       ]
     },
     {
-      "id": "canonical:1996a96113af8af9",
-      "title": "CV/NLP/Multimodal LLM Research Scientist Graduate - Trust and Safety",
-      "url": "https://lifeattiktok.com/search/7517106896071903496",
-      "location": "Seattle, WA",
-      "department": "AI/ML/Data",
-      "company": "TikTok",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad"
-      ]
-    },
-    {
       "id": "canonical:af95213b5bcc6640",
       "title": "Graduate Research Scientist - Multiple Teams",
       "url": "https://lifeattiktok.com/search/7517105710544161032",
@@ -23783,6 +23799,19 @@
       ]
     },
     {
+      "id": "canonical:bf296544efd69ded",
+      "title": "Software Engineer Associate",
+      "url": "https://www.careers.zurich.com/job/Bath-Associate-Software-Engineer-GB-E/1367510657/?ats=successfactors",
+      "location": "Trowbridge, UK",
+      "department": "Software",
+      "company": "Zurich Insurance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:7b4620f6739f6e1b",
       "title": "Junior Generative AI Application Developer",
       "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Junior-Generative-AI-Application-Developer_26962476",
@@ -27940,6 +27969,20 @@
       "location": "Mountain View, CA",
       "department": "Software",
       "company": "Kognitos",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:3c7fc99e6f595935",
+      "title": "Associate Data Engineer",
+      "url": "https://boards.greenhouse.io/abacusinsights/jobs/8674746002",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "Abacus Insights",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -34277,6 +34320,20 @@
       ]
     },
     {
+      "id": "canonical:a3538254574c4730",
+      "title": "Entry-Level Software Developer",
+      "url": "https://job-boards.greenhouse.io/cooksys/jobs/5386869008",
+      "location": "Nashville, TN",
+      "department": "Software",
+      "company": "Cook Systems",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:4f705bb50e66aceb",
       "title": "Software Engineer New Grad",
       "url": "https://nexthopai.bamboohr.com/careers/24/",
@@ -34655,20 +34712,6 @@
       "location": "Chantilly, VA / Herndon, VA",
       "department": "AI/ML/Data",
       "company": "Dark Wolf Solutions",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:75e08d01da95d48b",
-      "title": "AI Engineer Associate",
-      "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/AI-Engineer_RQ226699",
-      "location": "United States",
-      "department": "Software",
-      "company": "General Dynamics Information Technology",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -35840,6 +35883,19 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ca0c53a3cd181230",
+      "title": "Associate Software Engineer",
+      "url": "https://jobs.l3harris.com/job/Lynchburg-Associate,-Software-Engineer-VA-24501-6952/1421773100/?ats=successfactors",
+      "location": "Lynchburg, VA",
+      "department": "Hardware",
+      "company": "L3Harris Technologies",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
