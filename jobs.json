@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-20T20:43:25.260Z",
+  "generatedAt": "2026-08-20T21:03:53.158Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2717,
+  "jobCount": 2718,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -606,7 +606,6 @@
     "canonical:2aa8b7374c87fc71": "2026-08-07T03:36:51.941Z",
     "canonical:b4cdbdfbf031edbf": "2026-08-07T03:36:51.941Z",
     "canonical:88993e05b592ff54": "2026-08-07T03:36:51.941Z",
-    "canonical:99dccf87dcbce75a": "2026-08-07T03:36:51.941Z",
     "canonical:2e54d6318abbdf1f": "2026-08-07T06:40:16.218Z",
     "canonical:8a41c952f8219db3": "2026-08-07T06:40:16.218Z",
     "canonical:f51807ef02a26de3": "2026-08-07T07:56:51.250Z",
@@ -2720,7 +2719,9 @@
     "canonical:267b9d28cdeff519": "2026-08-20T20:01:35.132Z",
     "canonical:65b59efac00d232b": "2026-08-20T20:01:35.132Z",
     "canonical:d907091c9f584e6e": "2026-08-20T20:01:35.132Z",
-    "canonical:27a09e08b462cce2": "2026-08-20T20:01:35.132Z"
+    "canonical:27a09e08b462cce2": "2026-08-20T20:01:35.132Z",
+    "canonical:e1cb819b5b9c30a1": "2026-08-20T21:03:53.158Z",
+    "canonical:67f9b9d3a905fdc5": "2026-08-20T21:03:53.158Z"
   },
   "jobs": [
     {
@@ -5253,10 +5254,10 @@
       ]
     },
     {
-      "id": "canonical:62beda5aaf0fcc6c",
+      "id": "canonical:e8a5b9fc6e1a4de2",
       "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
-      "location": "Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
+      "location": "Bengaluru",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -5266,10 +5267,10 @@
       ]
     },
     {
-      "id": "canonical:e8a5b9fc6e1a4de2",
+      "id": "canonical:62beda5aaf0fcc6c",
       "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
-      "location": "Bengaluru",
+      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
+      "location": "Dublin",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -39198,6 +39199,20 @@
       ]
     },
     {
+      "id": "canonical:e1cb819b5b9c30a1",
+      "title": "Software Engineer, Intern (Summer 2026)",
+      "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002?fbclid=PAQ0xDSwK38VtleHRuA2FlbQIxMQABpwFCtP3w0jUMJ2UyUfRb7jqEW6gF5Rr31twvg5geVxUyYXlmmQrGSEf9O3Pw_aem_MfePXp-UnrQgRcTvm_Lh4Q",
+      "location": "Chicago",
+      "department": "",
+      "company": "Citadel",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:f4a859210ae8a7e7",
       "title": "NYC Early Career Open House Event - Software Engineering New Grads and Interns",
       "url": "https://jobright.ai/jobs/info/685c466bb6b7da281327301a?utm_source=1099&utm_campaign=Software%20Engineer",
@@ -39700,8 +39715,8 @@
       ]
     },
     {
-      "id": "canonical:99dccf87dcbce75a",
-      "title": "2027 Code for Good Hackathon - Software Engineer Program - Summer Internship – United States",
+      "id": "canonical:67f9b9d3a905fdc5",
+      "title": "Code for Good Hackathon - Software Engineer Program - 2027 Summer Internship – United States",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773759",
       "location": "Chicago, IL, United States; Columbus, OH, United States; Houston, TX, United States; Jersey City, NJ, United States; New York, NY, United States; Palo Alto, CA, United States; Plano, TX, United States; Wilmington, DE, United States; Tampa, FL, United States",
       "department": "Software / Summer 2027",
