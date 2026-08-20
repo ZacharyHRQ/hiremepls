@@ -3,10 +3,6 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:20:31.577Z"
   },
-  "https://job-boards.greenhouse.io/mcghealth/jobs/8350486002": {
-    "alive": true,
-    "checkedAt": "2026-08-19T17:48:24.335Z"
-  },
   "https://lifeattiktok.com/search/7572665884037826869": {
     "alive": true,
     "checkedAt": "2026-08-19T18:20:32.528Z"
@@ -215,10 +211,6 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:20:40.310Z"
   },
-  "https://job-boards.greenhouse.io/digs/jobs/4663939006": {
-    "alive": true,
-    "checkedAt": "2026-08-19T17:48:25.716Z"
-  },
   "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Intern---Physics---AI-modeling-Engineering_R2616095": {
     "alive": true,
     "checkedAt": "2026-08-19T18:20:37.864Z"
@@ -343,6 +335,10 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:20:40.968Z"
   },
+  "https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-us/": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:43.582Z"
+  },
   "https://jobs.lever.co/make-rain/b45f954e-19df-45b1-8748-c8ae442a2e8b": {
     "alive": true,
     "checkedAt": "2026-08-19T18:20:40.822Z"
@@ -362,6 +358,10 @@
   "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/CSE-Part-Time-Researcher-Narayanan--V_REQ_0000078135-1": {
     "alive": true,
     "checkedAt": "2026-08-19T18:20:41.391Z"
+  },
+  "https://jobs.lever.co/multiplylabs/8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:43.701Z"
   },
   "https://boards.greenhouse.io/embed/job_app?token=7905463": {
     "alive": true,
@@ -539,77 +539,77 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:20:48.766Z"
   },
-  "https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-us/": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:53.906Z"
-  },
   "https://jobs.lever.co/multiplylabs/acca98ab-c206-4f71-b7a5-6977e4828586": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:53.945Z"
-  },
-  "https://www.tesla.com/careers/search/job/271630": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:53.987Z"
+    "checkedAt": "2026-08-19T23:58:43.630Z"
   },
   "https://www.tesla.com/careers/search/job/269819": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:53.972Z"
+    "checkedAt": "2026-08-19T23:58:43.754Z"
+  },
+  "https://www.tesla.com/careers/search/job/271630": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:43.761Z"
   },
   "https://www.tesla.com/careers/search/job/270497": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:53.999Z"
+    "checkedAt": "2026-08-19T23:58:43.779Z"
   },
   "https://www.tesla.com/careers/search/job/271209": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.013Z"
-  },
-  "https://www.tesla.com/careers/search/job/266119": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.039Z"
+    "checkedAt": "2026-08-19T23:58:43.785Z"
   },
   "https://www.tesla.com/careers/search/job/266986": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.025Z"
-  },
-  "https://www.tesla.com/careers/search/job/271372": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.095Z"
+    "checkedAt": "2026-08-19T23:58:43.803Z"
   },
   "https://www.tesla.com/careers/search/job/271382": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.063Z"
+    "checkedAt": "2026-08-19T23:58:43.831Z"
+  },
+  "https://www.tesla.com/careers/search/job/271372": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:43.836Z"
   },
   "https://www.tesla.com/careers/search/job/263759": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.089Z"
+    "checkedAt": "2026-08-19T23:58:43.862Z"
   },
-  "https://www.tesla.com/careers/search/job/260382": {
+  "https://www.tesla.com/careers/search/job/266119": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.116Z"
-  },
-  "https://www.tesla.com/careers/search/job/270067": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.122Z"
-  },
-  "https://www.tesla.com/careers/search/job/270063": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.130Z"
+    "checkedAt": "2026-08-19T23:58:43.811Z"
   },
   "https://www.tesla.com/careers/search/job/272619": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.105Z"
+    "checkedAt": "2026-08-19T23:58:43.843Z"
   },
-  "https://www.tesla.com/careers/search/job/270354": {
+  "https://www.tesla.com/careers/search/job/260382": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.141Z"
+    "checkedAt": "2026-08-19T23:58:43.858Z"
+  },
+  "https://job-boards.greenhouse.io/mcghealth/jobs/8350486002": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:43.723Z"
+  },
+  "https://www.tesla.com/careers/search/job/270067": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:43.865Z"
+  },
+  "https://www.tesla.com/careers/search/job/272462": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:43.888Z"
+  },
+  "https://www.tesla.com/careers/search/job/270063": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:43.872Z"
   },
   "https://www.tesla.com/careers/search/job/257048": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.147Z"
+    "checkedAt": "2026-08-19T23:58:43.921Z"
   },
-  "https://www.tesla.com/careers/search/job/270618": {
+  "https://www.tesla.com/careers/search/job/270354": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.149Z"
+    "checkedAt": "2026-08-19T23:58:43.877Z"
   },
   "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393": {
     "alive": true,
@@ -619,9 +619,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:20:50.334Z"
   },
-  "https://www.tesla.com/careers/search/job/272462": {
+  "https://job-boards.greenhouse.io/digs/jobs/4663939006": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.145Z"
+    "checkedAt": "2026-08-19T23:58:43.809Z"
   },
   "https://jobs.ashbyhq.com/meshy/262d74c7-8aab-474e-9fc6-8c8c48ec6572/application": {
     "alive": true,
@@ -679,13 +679,13 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:20:51.694Z"
   },
+  "https://www.tesla.com/careers/search/job/270618": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:43.893Z"
+  },
   "https://www.tesla.com/careers/search/job/253454": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.154Z"
-  },
-  "https://www.tesla.com/careers/search/job/270778": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.170Z"
+    "checkedAt": "2026-08-19T23:58:43.897Z"
   },
   "https://job-boards.greenhouse.io/togetherai/jobs/5157559007": {
     "alive": true,
@@ -711,17 +711,17 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:20:50.689Z"
   },
+  "https://www.tesla.com/careers/search/job/270778": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:43.907Z"
+  },
   "https://www.tesla.com/careers/search/job/273272": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.168Z"
+    "checkedAt": "2026-08-19T23:58:43.916Z"
   },
-  "https://www.tesla.com/careers/search/job/273723": {
+  "https://careers.veeva.com/job/4df9c2ca-d702-4d41-af82-290deff66564/intern-software-engineer-summer-2026-pleasanton-ca/": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.178Z"
-  },
-  "https://www.tesla.com/careers/search/job/273810": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.179Z"
+    "checkedAt": "2026-08-19T23:58:43.849Z"
   },
   "https://www.metacareers.com/jobs/2774289902955470": {
     "alive": true,
@@ -731,9 +731,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:20:51.424Z"
   },
-  "https://www.tesla.com/careers/search/job/273927": {
+  "https://www.tesla.com/careers/search/job/273723": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.184Z"
+    "checkedAt": "2026-08-19T23:58:43.922Z"
   },
   "https://careers-cotiviti.icims.com/jobs/19341/job?mobile=true&needsRedirect=false": {
     "alive": true,
@@ -759,21 +759,21 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:20:52.051Z"
   },
-  "https://www.tesla.com/careers/search/job/273822": {
+  "https://www.tesla.com/careers/search/job/273810": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.192Z"
+    "checkedAt": "2026-08-19T23:58:43.924Z"
   },
-  "https://www.tesla.com/careers/search/job/273820": {
+  "https://www.tesla.com/careers/search/job/273927": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.193Z"
+    "checkedAt": "2026-08-19T23:58:43.938Z"
   },
   "https://simoncomputing.applicantpro.com/jobs/4115690": {
     "alive": true,
     "checkedAt": "2026-08-19T18:20:51.751Z"
   },
-  "https://careers.veeva.com/job/4df9c2ca-d702-4d41-af82-290deff66564/intern-software-engineer-summer-2026-pleasanton-ca/": {
+  "https://www.tesla.com/careers/search/job/273822": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.109Z"
+    "checkedAt": "2026-08-19T23:58:43.952Z"
   },
   "https://jobs.ashbyhq.com/rivianvw.tech/89feb2fe-c28c-4dad-846f-09594632ba55": {
     "alive": true,
@@ -791,9 +791,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:20:52.686Z"
   },
-  "https://jobs.lever.co/multiplylabs/8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b": {
+  "https://www.tesla.com/careers/search/job/273820": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:53.961Z"
+    "checkedAt": "2026-08-19T23:58:43.947Z"
   },
   "https://careers.dovercorporation.com/job/Keene-Software-Engineer-Intern-NH-03431/1404722033": {
     "alive": true,
@@ -805,7 +805,7 @@
   },
   "https://www.tesla.com/careers/search/job/273933": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.204Z"
+    "checkedAt": "2026-08-19T23:58:43.972Z"
   },
   "https://jobs.ashbyhq.com/hiverge/ea6edea4-5216-4cdc-b368-909ba91c78a3/application": {
     "alive": true,
@@ -853,11 +853,11 @@
   },
   "https://jobs.gusto.com/postings/myemployment-llc-ai-product-engineer-intern-c08d7fd3-115e-46ad-a46f-6c4be1f77263": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.208Z"
+    "checkedAt": "2026-08-19T23:58:43.968Z"
   },
-  "https://www.murumed.com/job-listings/web-software-engineer-intern": {
+  "https://www.murumed.com/job-listings/software-engineer-intern": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.203Z"
+    "checkedAt": "2026-08-19T23:58:43.951Z"
   },
   "https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/apply": {
     "alive": true,
@@ -925,35 +925,35 @@
   },
   "https://www.tesla.com/careers/search/job/272928": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.231Z"
+    "checkedAt": "2026-08-19T23:58:43.994Z"
   },
   "https://www.tesla.com/careers/search/job/274754": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.229Z"
+    "checkedAt": "2026-08-19T23:58:43.981Z"
   },
-  "https://www.murumed.com/job-listings/software-engineer-intern": {
+  "https://www.murumed.com/job-listings/web-software-engineer-intern": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.206Z"
+    "checkedAt": "2026-08-19T23:58:43.966Z"
   },
   "https://www.tesla.com/careers/search/job/275316": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.233Z"
+    "checkedAt": "2026-08-19T23:58:43.995Z"
   },
-  "https://www.tesla.com/careers/search/job/275494": {
+  "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-intern-us/": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.331Z"
-  },
-  "https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-europe/": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.268Z"
-  },
-  "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-europe/": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.248Z"
+    "checkedAt": "2026-08-19T23:58:44.006Z"
   },
   "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-us/": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.251Z"
+    "checkedAt": "2026-08-19T23:58:44.009Z"
+  },
+  "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-europe/": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:44.012Z"
+  },
+  "https://www.tesla.com/careers/search/job/275494": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:44.001Z"
   },
   "https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002": {
     "alive": true,
@@ -963,13 +963,13 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:20:54.554Z"
   },
-  "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-intern-us/": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.246Z"
-  },
   "https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-intern-us/": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.257Z"
+    "checkedAt": "2026-08-19T23:58:44.021Z"
+  },
+  "https://job-boards.eu.greenhouse.io/axiomaticai/jobs/4848128101": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:44.033Z"
   },
   "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011570": {
     "alive": true,
@@ -1015,9 +1015,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:20:59.819Z"
   },
-  "https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-us/": {
+  "https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-europe/": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.264Z"
+    "checkedAt": "2026-08-19T23:58:44.040Z"
   },
   "https://boards.greenhouse.io/cloudflare/jobs/8015230": {
     "alive": true,
@@ -1043,9 +1043,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:22:09.096Z"
   },
-  "https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/": {
+  "https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-us/": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.276Z"
+    "checkedAt": "2026-08-19T23:58:44.025Z"
   },
   "https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1624": {
     "alive": true,
@@ -1075,13 +1075,13 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:26:21.376Z"
   },
+  "https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:44.030Z"
+  },
   "https://www.tesla.com/careers/search/job/275558": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.297Z"
-  },
-  "https://www.tesla.com/careers/search/job/275331": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.298Z"
+    "checkedAt": "2026-08-19T23:58:44.060Z"
   },
   "https://careers-sig.icims.com/jobs/11170/job?mobile=true&needsRedirect=false": {
     "alive": true,
@@ -1143,9 +1143,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:20:58.808Z"
   },
-  "https://www.tesla.com/careers/search/job/275689": {
+  "https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.305Z"
+    "checkedAt": "2026-08-19T23:58:44.062Z"
   },
   "https://jobs.lever.co/xsolla/5d5fd6b3-d82f-437a-b251-abf4674ac874/apply": {
     "alive": true,
@@ -1203,9 +1203,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:20:58.856Z"
   },
-  "https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/": {
+  "https://www.citadel.com/careers/details/software-engineer-intern-us/": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.320Z"
+    "checkedAt": "2026-08-19T23:58:44.977Z"
   },
   "https://job-boards.greenhouse.io/drweng/jobs/7992936": {
     "alive": true,
@@ -1219,9 +1219,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:26:22.107Z"
   },
-  "https://job-boards.eu.greenhouse.io/axiomaticai/jobs/4848121101": {
+  "https://www.tesla.com/careers/search/job/275689": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.499Z"
+    "checkedAt": "2026-08-19T23:58:44.061Z"
   },
   "https://jobs.ashbyhq.com/persona.ai/6078fafd-ba34-4c89-b260-7eb15be3cb9c/application": {
     "alive": true,
@@ -1267,9 +1267,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T21:16:16.120Z"
   },
-  "https://www.citadel.com/careers/details/software-engineer-intern-us/": {
+  "https://www.tesla.com/careers/search/job/275805": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.343Z"
+    "checkedAt": "2026-08-19T23:58:44.067Z"
   },
   "https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c/application?embed=true": {
     "alive": true,
@@ -1287,9 +1287,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:21:01.113Z"
   },
-  "https://www.tesla.com/careers/search/job/275805": {
+  "https://www.citadel.com/careers/details/software-engineer-intern-europe/": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.323Z"
+    "checkedAt": "2026-08-19T23:58:44.081Z"
   },
   "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Intern_R000072398-1": {
     "alive": true,
@@ -1527,9 +1527,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:21:07.613Z"
   },
-  "https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-europe/": {
+  "https://www.citadelsecurities.com/careers/details/software-engineer-intern-europe/": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.340Z"
+    "checkedAt": "2026-08-19T23:58:44.086Z"
   },
   "https://boards.greenhouse.io/cloudflare/jobs/8089379": {
     "alive": true,
@@ -1559,9 +1559,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:21:09.563Z"
   },
-  "https://www.citadelsecurities.com/careers/details/software-engineer-intern-europe/": {
+  "https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-europe/": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.358Z"
+    "checkedAt": "2026-08-19T23:58:44.077Z"
   },
   "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109964": {
     "alive": true,
@@ -1583,9 +1583,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:21:09.512Z"
   },
-  "https://www.citadel.com/careers/details/software-engineer-intern-europe/": {
+  "https://www.tesla.com/careers/search/job/276333": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.336Z"
+    "checkedAt": "2026-08-19T23:58:44.093Z"
   },
   "https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e/apply": {
     "alive": true,
@@ -1611,9 +1611,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:21:08.984Z"
   },
-  "https://www.tesla.com/careers/search/job/276333": {
+  "https://www.tesla.com/careers/search/job/275331": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.342Z"
+    "checkedAt": "2026-08-19T23:58:44.055Z"
   },
   "https://careers-sig.icims.com/jobs/11169/job?mobile=true&needsRedirect=false": {
     "alive": true,
@@ -1971,13 +1971,13 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:21:25.262Z"
   },
+  "https://job-boards.eu.greenhouse.io/axiomaticai/jobs/4848121101": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:44.224Z"
+  },
   "https://www.tesla.com/careers/search/job/278249": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.372Z"
-  },
-  "https://www.tesla.com/careers/search/job/276987": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.368Z"
+    "checkedAt": "2026-08-19T23:58:44.109Z"
   },
   "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Software-Development-_R3371-26": {
     "alive": true,
@@ -2387,9 +2387,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:21:43.779Z"
   },
-  "https://www.tesla.com/careers/search/job/278703": {
+  "https://www.tesla.com/careers/search/job/276987": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.389Z"
+    "checkedAt": "2026-08-19T23:58:44.107Z"
   },
   "https://job-boards.greenhouse.io/cssmerge/jobs/8693034002": {
     "alive": true,
@@ -2397,7 +2397,7 @@
   },
   "https://www.tesla.com/careers/search/job/278578": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.371Z"
+    "checkedAt": "2026-08-19T23:58:44.126Z"
   },
   "https://careers.medpace.com/jobs/12921?icims=1": {
     "alive": true,
@@ -2411,9 +2411,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:21:46.246Z"
   },
-  "https://www.tesla.com/careers/search/job/278847": {
+  "https://www.tesla.com/careers/search/job/278703": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.425Z"
+    "checkedAt": "2026-08-19T23:58:44.115Z"
   },
   "https://boards.greenhouse.io/figma/jobs/6131089004": {
     "alive": true,
@@ -2443,9 +2443,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:21:44.776Z"
   },
-  "https://www.tesla.com/careers/search/job/278620": {
+  "https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.398Z"
+    "checkedAt": "2026-08-19T23:58:44.148Z"
   },
   "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2": {
     "alive": true,
@@ -2515,9 +2515,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:21:48.713Z"
   },
-  "https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/": {
+  "https://www.tesla.com/careers/search/job/278622": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.416Z"
+    "checkedAt": "2026-08-19T23:58:44.204Z"
   },
   "https://jobs.smartrecruiters.com/LuxeMediaLLC/83337967": {
     "alive": true,
@@ -2571,9 +2571,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:21:50.819Z"
   },
-  "https://www.tesla.com/careers/search/job/278622": {
+  "https://www.tesla.com/careers/search/job/279760": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.401Z"
+    "checkedAt": "2026-08-19T23:58:44.146Z"
   },
   "https://jobs.smartrecruiters.com/InbulksCorp/743999750129753": {
     "alive": true,
@@ -2615,9 +2615,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:21:50.310Z"
   },
-  "https://job-boards.eu.greenhouse.io/axiomaticai/jobs/4848128101": {
+  "https://www.tesla.com/careers/search/job/279763": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.501Z"
+    "checkedAt": "2026-08-19T23:58:44.153Z"
   },
   "https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421": {
     "alive": true,
@@ -3059,9 +3059,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T23:21:11.761Z"
   },
-  "https://www.tesla.com/careers/search/job/279763": {
+  "https://www.tesla.com/careers/search/job/278847": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.424Z"
+    "checkedAt": "2026-08-19T23:58:45.039Z"
   },
   "https://job-boards.greenhouse.io/gardacp/jobs/6146213004": {
     "alive": true,
@@ -3165,27 +3165,27 @@
   },
   "https://www.tesla.com/careers/search/job/279603": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.429Z"
-  },
-  "https://www.tesla.com/careers/search/job/279760": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.419Z"
-  },
-  "https://www.tesla.com/careers/search/job/279991": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.456Z"
+    "checkedAt": "2026-08-19T23:58:44.174Z"
   },
   "https://www.tesla.com/careers/search/job/279600": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.449Z"
+    "checkedAt": "2026-08-19T23:58:44.174Z"
+  },
+  "https://www.tesla.com/careers/search/job/279991": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:44.181Z"
+  },
+  "https://www.tesla.com/careers/search/job/278620": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:44.134Z"
   },
   "https://job-boards.greenhouse.io/snorkelai/jobs/6146378004": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.583Z"
+    "checkedAt": "2026-08-19T23:58:44.318Z"
   },
   "https://epicgames.com/careers/jobs/6141180004?gh_jid=6141180004": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.531Z"
+    "checkedAt": "2026-08-19T23:58:44.246Z"
   },
   "https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c": {
     "alive": true,
@@ -3199,17 +3199,17 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:21:59.601Z"
   },
-  "https://www.tesla.com/careers/search/job/247990": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.487Z"
-  },
   "https://www.tesla.com/careers/search/job/244786?source=Indeed&source=Indeed&tags=organicjob": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.518Z"
+    "checkedAt": "2026-08-19T23:58:44.201Z"
+  },
+  "https://www.tesla.com/careers/search/job/247990": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:44.210Z"
   },
   "https://www.tesla.com/careers/search/job/247862": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.519Z"
+    "checkedAt": "2026-08-19T23:58:44.228Z"
   },
   "https://jobs.ashbyhq.com/notion/39d70209-37f6-4623-949b-18fbd8889933": {
     "alive": true,
@@ -3225,47 +3225,47 @@
   },
   "https://www.tesla.com/careers/search/job/247889": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.529Z"
-  },
-  "https://www.tesla.com/careers/search/job/248070?source=Indeed&source=Indeed&tags=organicjob": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.542Z"
+    "checkedAt": "2026-08-19T23:58:44.248Z"
   },
   "https://www.tesla.com/careers/search/job/247989?source=Indeed&source=Indeed&tags=organicjob": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.543Z"
+    "checkedAt": "2026-08-19T23:58:44.255Z"
   },
   "https://www.tesla.com/careers/search/job/247873?source=Indeed&source=Indeed&tags=organicjob": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.548Z"
+    "checkedAt": "2026-08-19T23:58:44.256Z"
+  },
+  "https://www.tesla.com/careers/search/job/248070?source=Indeed&source=Indeed&tags=organicjob": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:44.257Z"
   },
   "https://www.tesla.com/careers/search/job/248358": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.553Z"
+    "checkedAt": "2026-08-19T23:58:44.275Z"
   },
   "https://jobs.ashbyhq.com/AtomicSemi/13e95284-dbcf-4cf2-8151-c9687dfc1889": {
     "alive": true,
     "checkedAt": "2026-08-19T18:21:59.962Z"
   },
-  "https://www.tesla.com/careers/search/job/248064": {
+  "https://www.tesla.com/careers/search/job/248019?source=Indeed&source=Indeed&tags=organicjob": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.566Z"
+    "checkedAt": "2026-08-19T23:58:44.277Z"
   },
   "https://www.shopify.com/careers/canada-engineering-internships-winter-2026_04cf2b87-6660-45c7-95f2-e734b7844612": {
     "alive": true,
     "checkedAt": "2026-08-19T18:22:00.209Z"
   },
-  "https://www.tesla.com/careers/search/job/248019?source=Indeed&source=Indeed&tags=organicjob": {
+  "https://www.tesla.com/careers/search/job/248064": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.570Z"
+    "checkedAt": "2026-08-19T23:58:44.282Z"
   },
   "https://www.tesla.com/careers/search/job/248104": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.570Z"
+    "checkedAt": "2026-08-19T23:58:44.301Z"
   },
   "https://www.tesla.com/careers/search/job/248062": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.575Z"
+    "checkedAt": "2026-08-19T23:58:44.305Z"
   },
   "https://jobs.ashbyhq.com/ethglobal/4522a1d6-956c-4434-a6db-9365f19c60fb": {
     "alive": true,
@@ -3273,23 +3273,23 @@
   },
   "https://www.tesla.com/careers/search/job/248805": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.591Z"
-  },
-  "https://www.tesla.com/careers/search/job/248001": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.598Z"
-  },
-  "https://www.tesla.com/careers/search/job/248920": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.599Z"
+    "checkedAt": "2026-08-19T23:58:44.330Z"
   },
   "https://www.tesla.com/careers/search/job/250807": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.603Z"
+    "checkedAt": "2026-08-19T23:58:44.334Z"
+  },
+  "https://www.tesla.com/careers/search/job/248920": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:44.339Z"
   },
   "https://www.tesla.com/careers/search/job/251798": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.617Z"
+    "checkedAt": "2026-08-19T23:58:44.342Z"
+  },
+  "https://www.tesla.com/careers/search/job/254611": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:44.369Z"
   },
   "https://careers.rivianvw.tech/rivian-vw-group-technology/jobs/27233/job": {
     "alive": true,
@@ -3303,13 +3303,13 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:22:00.413Z"
   },
-  "https://www.pinterestcareers.com/jobs/7252886/software-engineer-intern-winter-term-2026-toronto/": {
+  "https://www.tesla.com/careers/search/job/254590": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.648Z"
+    "checkedAt": "2026-08-19T23:58:44.370Z"
   },
-  "https://www.tesla.com/careers/search/job/254611": {
+  "https://www.tesla.com/careers/search/job/248001": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.650Z"
+    "checkedAt": "2026-08-19T23:58:44.422Z"
   },
   "https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293": {
     "alive": true,
@@ -3335,9 +3335,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:22:02.774Z"
   },
-  "https://www.tesla.com/careers/search/job/254590": {
+  "https://careers.datadoghq.com/detail/6954161/?gh_jid=6954161": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.652Z"
+    "checkedAt": "2026-08-19T23:58:44.455Z"
   },
   "https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job": {
     "alive": true,
@@ -3349,7 +3349,7 @@
   },
   "https://www.pinterestcareers.com/jobs/7258004/software-engineer-intern-fall-2026-toronto/?gh_jid=7258004": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.685Z"
+    "checkedAt": "2026-08-19T23:58:44.500Z"
   },
   "https://jobs.ashbyhq.com/AtomicSemi/947338ca-e135-4398-9aa3-79e131bc03d5?jr_id=69e8f6053aa0c479643a5ee5": {
     "alive": true,
@@ -3381,15 +3381,15 @@
   },
   "https://www.tesla.com/careers/search/job/267767?jr_id=69dd6930bc6f6622c9912106": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.686Z"
+    "checkedAt": "2026-08-19T23:58:44.511Z"
   },
-  "https://www.workatastartup.com/jobs/86239": {
+  "https://www.pinterestcareers.com/jobs/7252886/software-engineer-intern-winter-term-2026-toronto/": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.720Z"
+    "checkedAt": "2026-08-19T23:58:44.517Z"
   },
   "https://www.workatastartup.com/jobs/85257": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.722Z"
+    "checkedAt": "2026-08-19T23:58:44.561Z"
   },
   "https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us": {
     "alive": true,
@@ -3399,81 +3399,81 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:22:02.369Z"
   },
-  "https://careers.datadoghq.com/detail/6954161/?gh_jid=6954161": {
+  "https://www.workatastartup.com/jobs/86239": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.727Z"
+    "checkedAt": "2026-08-19T23:58:44.562Z"
   },
   "https://www.tesla.com/careers/search/job/internship-software-developer-integration-platforms-fall-2026-270037": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.815Z"
+    "checkedAt": "2026-08-19T23:58:44.591Z"
   },
   "https://www.tesla.com/careers/search/job/internship-software-engineer-vehicle-ui-development-fall-2026-270063": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.842Z"
+    "checkedAt": "2026-08-19T23:58:44.614Z"
+  },
+  "https://www.amazon.jobs/en/jobs/3101249/software-development-engineer-internship-winter-2026-us": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:44.663Z"
   },
   "https://www.tesla.com/careers/search/job/internship-embedded-software-engineer-keys-authentication-fall-2026-270067": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.866Z"
+    "checkedAt": "2026-08-19T23:58:44.678Z"
   },
   "https://www.tesla.com/careers/search/job/internship-software-engineer-maps-navigation-validation-fall-2026--270186": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.891Z"
+    "checkedAt": "2026-08-19T23:58:44.690Z"
   },
   "https://www.tesla.com/careers/search/job/internship-software-engineer-update-systems-fall-2026-267002": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:54.918Z"
-  },
-  "https://careers.snowflake.com/us/en/job/SNCOUS0214F57FFF904B4AB58DD1965DC9927EEXTERNALENUS4F34AEFA681B4AA8A0EA28CE56C9F1A5/Software-Engineer-Intern-Core-Engineering-Fall-2026": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.057Z"
-  },
-  "https://www.workatastartup.com/jobs/94400": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.100Z"
-  },
-  "https://www.workatastartup.com/jobs/94211": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.144Z"
+    "checkedAt": "2026-08-19T23:58:44.701Z"
   },
   "https://careers.snowflake.com/us/en/job/SNCOUSCC3FB214186D4B439D3F15B47307A231EXTERNALENUSBBDEE8BD443C456FA4F01B363D843310/Software-Engineer-Intern-Infrastructure-Automation-Fall-2026": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.198Z"
+    "checkedAt": "2026-08-19T23:58:44.761Z"
+  },
+  "https://www.workatastartup.com/jobs/94400": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:44.795Z"
+  },
+  "https://www.workatastartup.com/jobs/94211": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:44.804Z"
   },
   "https://jobs.ashbyhq.com/apex-technology-inc/5ec2dfa9-724d-4ce4-ab97-5067ec747f11": {
     "alive": true,
     "checkedAt": "2026-08-19T18:22:02.676Z"
   },
-  "https://www.workatastartup.com/jobs/93642": {
+  "https://www.tesla.com/careers/search/job/internship-software-engineer-service-engineering-fall-2026-266119": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.216Z"
+    "checkedAt": "2026-08-19T23:58:44.832Z"
   },
   "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86808": {
     "alive": true,
     "checkedAt": "2026-08-19T18:22:03.297Z"
   },
-  "https://www.tesla.com/careers/search/job/internship-software-engineer-service-engineering-fall-2026-266119": {
+  "https://www.workatastartup.com/jobs/93642": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.223Z"
+    "checkedAt": "2026-08-19T23:58:44.857Z"
   },
   "https://www.workatastartup.com/jobs/94620": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.258Z"
+    "checkedAt": "2026-08-19T23:58:44.874Z"
   },
   "https://www.workatastartup.com/jobs/94631": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.266Z"
+    "checkedAt": "2026-08-19T23:58:44.902Z"
   },
-  "https://www.amazon.jobs/en/jobs/3101249/software-development-engineer-internship-winter-2026-us": {
+  "https://www.workatastartup.com/jobs/94634": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.272Z"
+    "checkedAt": "2026-08-19T23:58:44.917Z"
+  },
+  "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857832101": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:44.920Z"
   },
   "https://careers.snowflake.com/us/en/job/SNCOUSFA7B56D5F57047479C1775A3DB18737CEXTERNALENUSFD76A37F868D467BA2560B6746B9E961/Software-Engineer-Intern-Database-Engineering-Fall-2026": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.293Z"
-  },
-  "https://www.workatastartup.com/jobs/94647": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.309Z"
+    "checkedAt": "2026-08-19T23:58:44.928Z"
   },
   "https://careers.sig.com/jobs/10837?lang=en-us&mode=apply&iis=LinkedIn&jr_id=69f3d11158b23a2329da8088": {
     "alive": true,
@@ -3487,9 +3487,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:22:03.803Z"
   },
-  "https://www.workatastartup.com/jobs/95003": {
+  "https://www.workatastartup.com/jobs/94647": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.315Z"
+    "checkedAt": "2026-08-19T23:58:44.952Z"
   },
   "https://job-boards.greenhouse.io/embed/job_app?for=aquaticcapitalmanagement&jr_id=6a06fd77152f493123c4b595&token=8489233002": {
     "alive": true,
@@ -3499,13 +3499,17 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:22:03.433Z"
   },
-  "https://www.workatastartup.com/jobs/94634": {
+  "https://www.workatastartup.com/jobs/95003": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.325Z"
+    "checkedAt": "2026-08-19T23:58:44.959Z"
   },
   "https://tower-research.com/open-positions/?gh_jid=8044334": {
     "alive": true,
     "checkedAt": "2026-08-19T18:22:03.356Z"
+  },
+  "https://www.workatastartup.com/jobs/94993": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:44.964Z"
   },
   "https://careers.sig.com/intern-co-op-technology/jobs/10838?lang=en-us": {
     "alive": true,
@@ -3715,10 +3719,6 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:22:06.828Z"
   },
-  "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857832101": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.355Z"
-  },
   "https://www.oldmissioncapital.com/careers/?gh_jid=7796180003": {
     "alive": true,
     "checkedAt": "2026-08-19T18:26:20.253Z"
@@ -3775,9 +3775,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:22:07.503Z"
   },
-  "https://job-boards.greenhouse.io/embed/job_app?for=gemini&token=7875125": {
-    "alive": true,
-    "checkedAt": "2026-08-19T17:48:28.733Z"
+  "https://careers.snowflake.com/us/en/job/SNCOUS0214F57FFF904B4AB58DD1965DC9927EEXTERNALENUS4F34AEFA681B4AA8A0EA28CE56C9F1A5/Software-Engineer-Intern-Core-Engineering-Fall-2026": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:44.978Z"
   },
   "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4328555009?gh_src=kpek4mqz9us": {
     "alive": true,
@@ -3791,9 +3791,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:22:07.862Z"
   },
-  "https://www.workatastartup.com/jobs/94993": {
+  "https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.375Z"
+    "checkedAt": "2026-08-19T23:58:45.012Z"
   },
   "https://www.drw.com/work-at-drw/listings/platform-engineer-intern-3468737": {
     "alive": true,
@@ -3891,9 +3891,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:22:16.326Z"
   },
-  "https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003": {
-    "alive": true,
-    "checkedAt": "2026-08-19T17:48:28.802Z"
+  "https://university-uber.icims.com/jobs/159161/job?mobile=false&width=1270&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:45.079Z"
   },
   "https://careers.roblox.com/jobs/8072713?gh_jid=8072713&gh_src=nnh32o631us": {
     "alive": true,
@@ -3923,9 +3923,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:22:17.241Z"
   },
-  "https://www.shopify.com/careers/software-engineering-internships-winter-2027_404bb82e-37f3-4a78-b0f3-12923a7c4856?ashby_jid=404bb82e-37f3-4a78-b0f3-12923a7c4856": {
+  "https://job-boards.greenhouse.io/embed/job_app?for=gemini&token=7875125": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.484Z"
+    "checkedAt": "2026-08-19T23:58:45.130Z"
   },
   "https://jobs.bytedance.com/en/position/7585034854077778181/detail": {
     "alive": true,
@@ -3947,9 +3947,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:22:18.213Z"
   },
-  "https://job-boards.greenhouse.io/embed/job_app?for=point72&jr_id=6a07069024dcb03739f1ec72&token=7297613002": {
+  "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.488Z"
+    "checkedAt": "2026-08-19T23:58:45.140Z"
   },
   "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--Circuit-Design---New-College-Grad-2026_JR2011517": {
     "alive": true,
@@ -4255,9 +4255,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:22:26.120Z"
   },
-  "https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity": {
+  "https://www.shopify.com/careers/software-engineering-internships-winter-2027_404bb82e-37f3-4a78-b0f3-12923a7c4856?ashby_jid=404bb82e-37f3-4a78-b0f3-12923a7c4856": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.520Z"
+    "checkedAt": "2026-08-19T23:58:45.142Z"
   },
   "https://jobs.smartrecruiters.com/JobsForHumanity/744000113595857": {
     "alive": true,
@@ -4359,9 +4359,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:22:27.742Z"
   },
-  "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-europe/": {
+  "https://job-boards.greenhouse.io/embed/job_app?for=point72&jr_id=6a07069024dcb03739f1ec72&token=7297613002": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.524Z"
+    "checkedAt": "2026-08-19T23:58:45.157Z"
   },
   "https://careers-gdms.icims.com/jobs/71647/junior-full-stack-engineer-%28java-react%29/job": {
     "alive": true,
@@ -4659,9 +4659,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:22:39.332Z"
   },
-  "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006": {
+  "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-europe/": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.526Z"
+    "checkedAt": "2026-08-19T23:58:45.163Z"
   },
   "https://amazon.jobs/en/jobs/3177934/software-development-engineer-2026-us": {
     "alive": true,
@@ -5515,33 +5515,33 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:23:06.381Z"
   },
-  "https://university-uber.icims.com/jobs/159161/job?mobile=false&width=1270&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240": {
+  "https://voloridge-investment-management.hiringthing.com/job/1013126/quantitative-developer-intern-2027?s=lif&jr_id=69eaa8e4dc35f7132c4ab803": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.527Z"
+    "checkedAt": "2026-08-19T23:58:45.193Z"
   },
   "https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-graduate-us/": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.541Z"
+    "checkedAt": "2026-08-19T23:58:45.217Z"
   },
   "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-europe/": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.544Z"
+    "checkedAt": "2026-08-19T23:58:45.226Z"
   },
-  "https://jobsearch.harman.com/en_US/careers/JobDetail/Intern-Software-Engineering/31931": {
+  "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-us/": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.868Z"
+    "checkedAt": "2026-08-19T23:58:45.230Z"
   },
   "https://careers-peraton.icims.com/jobs/168173/job?mobile=true&needsRedirect=false": {
     "alive": true,
     "checkedAt": "2026-08-19T18:23:06.640Z"
   },
+  "https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:45.234Z"
+  },
   "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-us/": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.559Z"
-  },
-  "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-us/": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.560Z"
+    "checkedAt": "2026-08-19T23:58:45.243Z"
   },
   "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Product-Software-Engineer-I_10151599-2": {
     "alive": true,
@@ -5727,17 +5727,17 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:23:13.241Z"
   },
-  "https://voloridge-investment-management.hiringthing.com/job/1013126/quantitative-developer-intern-2027?s=lif&jr_id=69eaa8e4dc35f7132c4ab803": {
+  "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-us/": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.568Z"
+    "checkedAt": "2026-08-19T23:58:45.244Z"
   },
   "https://job-boards.greenhouse.io/celonis/jobs/7725788003?gh_jid=7725788003": {
     "alive": true,
     "checkedAt": "2026-08-19T18:23:20.454Z"
   },
-  "https://www.citadel.com/careers/details/software-engineer-university-graduate-us/": {
+  "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-europe/": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.577Z"
+    "checkedAt": "2026-08-19T23:58:45.249Z"
   },
   "https://careers-appliedsystems.icims.com/jobs/7318/job?mobile=true&needsRedirect=false": {
     "alive": true,
@@ -5747,9 +5747,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:23:12.528Z"
   },
-  "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-europe/": {
+  "https://www.citadel.com/careers/details/software-engineer-university-graduate-us/": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.582Z"
+    "checkedAt": "2026-08-19T23:58:45.261Z"
   },
   "https://jobs.atos.net/job/Troy-ANALYST-IA/1411989933/?ats=successfactors": {
     "alive": true,
@@ -5777,7 +5777,7 @@
   },
   "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:57.361Z"
+    "checkedAt": "2026-08-19T23:58:46.925Z"
   },
   "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/Software-Development-Engineers--Level-2-or-3-_R10239034": {
     "alive": true,
@@ -6035,9 +6035,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:23:22.509Z"
   },
-  "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-us/": {
+  "https://www.tesla.com/careers/search/job/276000": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.590Z"
+    "checkedAt": "2026-08-19T23:58:45.276Z"
   },
   "https://jobs.ashbyhq.com/cerebras/bf6f81b2-f079-483a-9238-295a184b3f0f/application": {
     "alive": true,
@@ -6071,9 +6071,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T19:01:30.797Z"
   },
-  "https://www.tesla.com/careers/search/job/276000": {
+  "https://www.citadel.com/careers/details/software-engineer-university-graduate-europe/": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.604Z"
+    "checkedAt": "2026-08-19T23:58:45.279Z"
   },
   "https://job-boards.greenhouse.io/twitch/jobs/8623578002": {
     "alive": true,
@@ -6203,9 +6203,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T19:01:31.294Z"
   },
-  "https://www.citadel.com/careers/details/software-engineer-university-graduate-europe/": {
+  "https://jobsearch.harman.com/en_US/careers/JobDetail/Intern-Software-Engineering/31931": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.605Z"
+    "checkedAt": "2026-08-19T23:58:45.625Z"
   },
   "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/Denver-CO/Software-Engineer-II_R-2510887-1": {
     "alive": true,
@@ -6697,7 +6697,7 @@
   },
   "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-europe/": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.609Z"
+    "checkedAt": "2026-08-19T23:58:45.294Z"
   },
   "https://jobs.ashbyhq.com/runsybil-jobs/fd733ce7-7892-4019-9f6d-b6a75ba2aa59/application?embed=true": {
     "alive": true,
@@ -6785,7 +6785,7 @@
   },
   "https://www.citadel.com/careers/details/sector-data-scientist-central-team/": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.619Z"
+    "checkedAt": "2026-08-19T23:58:45.298Z"
   },
   "https://higher.gs.com/roles/180216": {
     "alive": true,
@@ -7061,7 +7061,7 @@
   },
   "https://www.citadel.com/careers/details/machine-learning-researcher-phd-graduate-us/": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.623Z"
+    "checkedAt": "2026-08-19T23:58:45.299Z"
   },
   "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Sotware-Engineer-II_01852180-1": {
     "alive": true,
@@ -7335,9 +7335,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:23:54.936Z"
   },
-  "https://www.tesla.com/careers/search/job/275999": {
+  "https://job-boards.greenhouse.io/scoutai/jobs/4643333008": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.625Z"
+    "checkedAt": "2026-08-19T23:58:45.320Z"
   },
   "https://eaiti.applytojob.com/apply/Y16NUsHVnd/Entry-Level-Software-Developer": {
     "alive": true,
@@ -10263,25 +10263,25 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:25:18.390Z"
   },
+  "https://www.tesla.com/careers/search/job/275999": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:45.322Z"
+  },
   "https://glginsights.com/careers/jobs/7813612003?gh_jid=7813612003": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.671Z"
-  },
-  "https://onedigital.wd5.myworkdayjobs.com/onedigital/job/Atlanta-GA/Data-Engineer_R9062": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.674Z"
+    "checkedAt": "2026-08-19T23:58:45.347Z"
   },
   "https://careers.roblox.com/jobs/6759944": {
     "alive": true,
     "checkedAt": "2026-08-19T18:25:28.317Z"
   },
-  "https://job-boards.greenhouse.io/scoutai/jobs/4643333008": {
+  "https://onedigital.wd5.myworkdayjobs.com/onedigital/job/Atlanta-GA/Data-Engineer_R9062": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.684Z"
+    "checkedAt": "2026-08-19T23:58:45.351Z"
   },
   "https://www.tesla.com/careers/search/job/240332": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.708Z"
+    "checkedAt": "2026-08-19T23:58:45.393Z"
   },
   "https://careers.roblox.com/jobs/6749070": {
     "alive": true,
@@ -10293,35 +10293,35 @@
   },
   "https://www.tesla.com/careers/search/job/240828": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.729Z"
+    "checkedAt": "2026-08-19T23:58:45.416Z"
   },
   "https://www.tesla.com/careers/search/job/software-engineer-metrics-genai-model-evaluation-226926": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.751Z"
+    "checkedAt": "2026-08-19T23:58:45.438Z"
   },
   "https://www.tesla.com/careers/search/job/frontend-engineer-genai-model-evaluation-226925": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.777Z"
-  },
-  "https://www.tesla.com/careers/search/job/235630": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.803Z"
+    "checkedAt": "2026-08-19T23:58:45.465Z"
   },
   "https://jobs.baesystems.com/global/en/job/BAE1US124432BREXTERNAL/Entry-Level-Software-Engineer": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.853Z"
+    "checkedAt": "2026-08-19T23:58:45.473Z"
   },
-  "https://amperity.com/careers/6799726?gh_jid=6799726&gh_src=053ff1fc1us&gh_jid=6799726": {
+  "https://www.tesla.com/careers/search/job/235630": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.912Z"
+    "checkedAt": "2026-08-19T23:58:45.489Z"
   },
   "https://www.amazon.jobs/en/jobs/2945843/system-development-engineer-project-kuiper": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.925Z"
+    "checkedAt": "2026-08-19T23:58:45.583Z"
   },
   "https://www.jahnelgroup.com/apply.html?gh_jid=5031747007": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:55.961Z"
+    "checkedAt": "2026-08-19T23:58:45.632Z"
+  },
+  "https://www.qualtrics.com/careers/us/en/job/6774164/Machine-Learning-Engineer-I-Data-Insights": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:45.643Z"
   },
   "https://join.softheon.com/_/j/4AFE55D62D/": {
     "alive": true,
@@ -10331,13 +10331,13 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:25:20.260Z"
   },
-  "https://www.amazon.jobs/en/jobs/2944002/software-engineer": {
+  "https://amperity.com/careers/6799726?gh_jid=6799726&gh_src=053ff1fc1us&gh_jid=6799726": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:56.011Z"
+    "checkedAt": "2026-08-19T23:58:45.644Z"
   },
-  "https://analyticallc.applytojob.com/apply/3QMztCSYzt/Data-Engineer": {
+  "https://www.careers.peraton.com/jobs/junior-software-engineer-sterling-virginia-156109-jobs--information-technology--?iis=Job%2BBoard&iisn=Vansh": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:56.022Z"
+    "checkedAt": "2026-08-19T23:58:45.738Z"
   },
   "https://recruiting.ultipro.com/VMS1002VMOO/JobBoard/3dde3e78-a60b-47af-93cf-ef6db6ed312b/OpportunityDetail?opportunityId=fa0772d7-fa49-4ce9-b7ae-de1a0da018eb": {
     "alive": true,
@@ -10363,9 +10363,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:25:23.016Z"
   },
-  "https://www.qualtrics.com/careers/us/en/job/6774164/Machine-Learning-Engineer-I-Data-Insights": {
+  "https://analyticallc.applytojob.com/apply/3QMztCSYzt/Data-Engineer": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:56.112Z"
+    "checkedAt": "2026-08-19T23:58:45.758Z"
   },
   "https://tower-research.com/open-positions/?gh_jid=6855851": {
     "alive": true,
@@ -10379,29 +10379,29 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:25:23.239Z"
   },
-  "https://www.tesla.com/careers/search/job/233715": {
+  "https://www.amazon.jobs/en/jobs/2944002/software-engineer": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:56.138Z"
+    "checkedAt": "2026-08-19T23:58:45.825Z"
   },
   "https://www.google.com/about/careers/applications/jobs/results/92218003445162694-relations-developer-cloud-and-generative-ai": {
     "alive": true,
     "checkedAt": "2026-08-19T18:25:23.182Z"
   },
+  "https://www.tesla.com/careers/search/job/233715": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:45.838Z"
+  },
   "https://www.tesla.com/careers/search/job/242774": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:56.164Z"
-  },
-  "https://www.amazon.jobs/en/jobs/2950609/software-dev-engineer-computer-science": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:56.167Z"
+    "checkedAt": "2026-08-19T23:58:45.849Z"
   },
   "https://jobs.ea.com/en_US/careers/JobDetail/Gameplay-Software-Engineer/208511": {
     "alive": true,
     "checkedAt": "2026-08-19T18:25:25.167Z"
   },
-  "https://www.amazon.jobs/en/jobs/2953226/systems-development-engineer-mechatronics-and-sustainable-packaging": {
+  "https://www.amazon.jobs/en/jobs/2950609/software-dev-engineer-computer-science": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:56.217Z"
+    "checkedAt": "2026-08-19T23:58:45.850Z"
   },
   "https://www.doppel.com/jobs?ashby_jid=07905bfc-1c21-465d-a6bb-39ef71744c3d": {
     "alive": true,
@@ -10411,9 +10411,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:25:25.221Z"
   },
-  "https://amazon.jobs/en/jobs/2855790/software-development-engineer-i-2025-computer-science": {
+  "https://www.amazon.jobs/en/jobs/2953226/systems-development-engineer-mechatronics-and-sustainable-packaging": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:56.301Z"
+    "checkedAt": "2026-08-19T23:58:45.852Z"
   },
   "https://bs.com/KBR_Careers/job/Moffett-Field-California/Full-Stack-Software-Engineer_R2106782": {
     "alive": true,
@@ -10423,9 +10423,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:25:25.398Z"
   },
-  "https://careers.snowflake.com/us/en/job/SNCOUSEBC678A52AB04A4EB7946E4E684BA055EXTERNALENUSAA0C5E9173DE47C2B57EF66519942F19/-Software-Engineer-Traffic": {
+  "https://amazon.jobs/en/jobs/2855790/software-development-engineer-i-2025-computer-science": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:56.394Z"
+    "checkedAt": "2026-08-19T23:58:45.961Z"
   },
   "https://careers.qualcomm.com/careers/job/446705907067": {
     "alive": true,
@@ -10443,21 +10443,21 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:25:25.920Z"
   },
-  "https://canada-appliedsystems.icims.com/jobs/6506/software-engineer/job": {
+  "https://careers.snowflake.com/us/en/job/SNCOUSEBC678A52AB04A4EB7946E4E684BA055EXTERNALENUSAA0C5E9173DE47C2B57EF66519942F19/-Software-Engineer-Traffic": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:56.430Z"
+    "checkedAt": "2026-08-19T23:58:46.148Z"
   },
   "https://careers.sig.com/job/SUSQA004Y9261": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:56.471Z"
+    "checkedAt": "2026-08-19T23:58:46.153Z"
   },
   "https://careers.point72.com/CSJobDetail?jobName=quantitative-developer&jobCode=CSS-0013369&location=New%20York&locale=English": {
     "alive": true,
     "checkedAt": "2026-08-19T18:25:26.477Z"
   },
-  "https://careers.mastercard.com/us/en/job/MASRUSR245943EXTERNALENUS/Software-Engineer-I-SDET-Java": {
+  "https://careers.adobe.com/us/en/job/ADOBUSR155500EXTERNALENUS/Software-Development-Engineer": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:56.529Z"
+    "checkedAt": "2026-08-19T23:58:46.301Z"
   },
   "https://www.ixl.com/company/careers?gh_jid=8017366002": {
     "alive": true,
@@ -10467,13 +10467,13 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:25:26.775Z"
   },
-  "https://www.esri.com/careers/4700976007?gh_jid=4700976007": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:56.659Z"
-  },
   "https://careers.garmin.com/careers-home/jobs/15924": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:56.691Z"
+    "checkedAt": "2026-08-19T23:58:46.304Z"
+  },
+  "https://canada-appliedsystems.icims.com/jobs/6506/software-engineer/job": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:46.329Z"
   },
   "https://jobs.smartrecruiters.com/SquareTrade1/744000045758179-associate-software-engineer?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73": {
     "alive": true,
@@ -10483,9 +10483,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:25:26.972Z"
   },
-  "https://www.tesla.com/careers/search/job/243628": {
+  "https://careers.mastercard.com/us/en/job/MASRUSR245943EXTERNALENUS/Software-Engineer-I-SDET-Java": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:56.717Z"
+    "checkedAt": "2026-08-19T23:58:46.351Z"
   },
   "https://jobs.ashbyhq.com/mandolin/703bd697-dd8f-4a42-8df3-999402605c2f": {
     "alive": true,
@@ -10495,9 +10495,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:25:27.263Z"
   },
-  "https://www.qualtrics.com/careers/us/en/job/QUALUS6889008EXTERNALENUS/Software-Development-Engineer-I-Customer-Experience-Seattle": {
+  "https://www.tesla.com/careers/search/job/243628": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:56.720Z"
+    "checkedAt": "2026-08-19T23:58:46.353Z"
   },
   "https://elrj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/search/job/4261": {
     "alive": true,
@@ -10519,9 +10519,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:25:27.779Z"
   },
-  "https://careers.adobe.com/us/en/job/ADOBUSR155500EXTERNALENUS/Software-Development-Engineer": {
+  "https://www.workatastartup.com/jobs/75855": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:56.723Z"
+    "checkedAt": "2026-08-19T23:58:46.394Z"
   },
   "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25037&siteid=5010&PageType=JobDetails&jobid=792011#jobDetails=792011_5010": {
     "alive": true,
@@ -10531,21 +10531,21 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:25:28.250Z"
   },
-  "https://www.tesla.com/careers/search/job/243519": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:56.747Z"
-  },
   "https://www.pega.com/about/careers/21949/associate-software-engineer-ux-engineering": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:56.755Z"
+    "checkedAt": "2026-08-19T23:58:46.398Z"
+  },
+  "https://www.tesla.com/careers/search/job/244263": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:46.421Z"
   },
   "https://careers.leonardodrs.com/job/San-Diego-Software-Engineer-CA-92127/1298209000/": {
     "alive": true,
     "checkedAt": "2026-08-19T18:25:28.395Z"
   },
-  "https://www.workatastartup.com/jobs/75855": {
+  "https://www.tesla.com/careers/search/job/243519": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:56.770Z"
+    "checkedAt": "2026-08-19T23:58:46.435Z"
   },
   "https://jobs.ashbyhq.com/sentry/90fb5dd4-410d-4672-9f40-3f11ea01c75d": {
     "alive": true,
@@ -10567,13 +10567,13 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:25:28.814Z"
   },
-  "https://www.tesla.com/careers/search/job/244263": {
+  "https://www.qualtrics.com/careers/us/en/job/QUALUS6889008EXTERNALENUS/Software-Development-Engineer-I-Customer-Experience-Seattle": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:56.773Z"
+    "checkedAt": "2026-08-19T23:58:46.439Z"
   },
   "https://www.tesla.com/careers/search/job/244793": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:56.796Z"
+    "checkedAt": "2026-08-19T23:58:46.458Z"
   },
   "https://jobs.smartrecruiters.com/Visa/744000066662880-systems-engineer-virtualization-linux-engineering-junior-level-": {
     "alive": true,
@@ -10583,9 +10583,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:25:28.828Z"
   },
-  "https://wellfound.com/l/2BpbUc": {
+  "https://www.esri.com/careers/4700976007?gh_jid=4700976007": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:56.982Z"
+    "checkedAt": "2026-08-19T23:58:46.508Z"
   },
   "https://careers.roblox.com/jobs/6993225": {
     "alive": true,
@@ -10595,37 +10595,37 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:25:28.957Z"
   },
-  "https://www.esri.com/careers/4735889007?gh_jid=4735889007": {
+  "https://www.drw.com/work-at-drw/listings/research-engineer-2930985": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:56.985Z"
+    "checkedAt": "2026-08-19T23:58:46.590Z"
+  },
+  "https://wellfound.com/l/2BpbUc": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:46.632Z"
   },
   "https://www.amazon.jobs/en/jobs/3018378/system-development-engineer-i-ops-tech-solutions": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:57.069Z"
-  },
-  "https://careers.viasat.com/jobs/4457": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:57.105Z"
+    "checkedAt": "2026-08-19T23:58:46.718Z"
   },
   "https://www.hashicorp.com/en/career/6914251": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:57.129Z"
+    "checkedAt": "2026-08-19T23:58:46.743Z"
   },
   "https://www.tesla.com/careers/search/job/225609": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:57.154Z"
+    "checkedAt": "2026-08-19T23:58:46.771Z"
   },
-  "https://jobs.spectrum.com/job/-/-/4673/81850982400": {
+  "https://careers.viasat.com/jobs/4457": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:57.170Z"
+    "checkedAt": "2026-08-19T23:58:46.782Z"
   },
   "https://www.amazon.jobs/en/jobs/3012833/security-engineer-appsec-testing-automation-and-insights": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:57.259Z"
+    "checkedAt": "2026-08-19T23:58:46.825Z"
   },
-  "https://www.qualtrics.com/careers/us/en/job/QUALUS6957175EXTERNALENUS/Software-Engineer-I-Employee-Experience": {
+  "https://www.amazon.jobs/en/jobs/3019865/software-engineer-creator": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:57.268Z"
+    "checkedAt": "2026-08-19T23:58:46.902Z"
   },
   "https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29": {
     "alive": true,
@@ -10655,9 +10655,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:25:39.816Z"
   },
-  "https://www.amazon.jobs/en/jobs/3019865/software-engineer-creator": {
+  "https://www.qualtrics.com/careers/us/en/job/QUALUS6957175EXTERNALENUS/Software-Engineer-I-Employee-Experience": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:57.345Z"
+    "checkedAt": "2026-08-19T23:58:46.908Z"
   },
   "https://optiver.com/working-at-optiver/career-opportunities/7967601002": {
     "alive": true,
@@ -10699,13 +10699,13 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:25:31.329Z"
   },
-  "https://www.careers.peraton.com/jobs/junior-software-engineer-sterling-virginia-156109-jobs--information-technology--?iis=Job%2BBoard&iisn=Vansh": {
+  "https://www.esri.com/careers/4735889007?gh_jid=4735889007": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:57.383Z"
+    "checkedAt": "2026-08-19T23:58:46.952Z"
   },
   "https://www.tesla.com/careers/search/job/245229": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:57.387Z"
+    "checkedAt": "2026-08-19T23:58:46.956Z"
   },
   "https://jobs.lever.co/palantir/4d5a144e-87ea-45e2-a68c-3fad590629af": {
     "alive": true,
@@ -10721,7 +10721,7 @@
   },
   "https://www.tesla.com/careers/search/job/237386": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:57.413Z"
+    "checkedAt": "2026-08-19T23:58:46.981Z"
   },
   "https://www.oldmissioncapital.com/careers/?gh_jid=6602927003": {
     "alive": true,
@@ -10741,7 +10741,7 @@
   },
   "https://www.amazon.jobs/en/jobs/3020911/software-engineer": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:57.426Z"
+    "checkedAt": "2026-08-19T23:58:47.045Z"
   },
   "https://www.ycombinator.com/companies/porter/jobs/6QhplSz-full-stack-engineer": {
     "alive": true,
@@ -10755,21 +10755,21 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:25:34.225Z"
   },
-  "https://www.tesla.com/careers/search/job/246089": {
+  "https://jobs.citi.com/job/-/-/287/79829803904": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:57.453Z"
+    "checkedAt": "2026-08-19T23:58:47.059Z"
   },
   "https://www.tesla.com/careers/search/job/246198": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:57.502Z"
+    "checkedAt": "2026-08-19T23:58:47.086Z"
   },
-  "https://jobs.citi.com/job/-/-/287/79829803904": {
+  "https://www.tesla.com/careers/search/job/246199": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:57.503Z"
+    "checkedAt": "2026-08-19T23:58:47.110Z"
   },
-  "https://www.drw.com/work-at-drw/listings/research-engineer-2930985": {
+  "https://www.tesla.com/careers/search/job/246089": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:57.515Z"
+    "checkedAt": "2026-08-19T23:58:47.151Z"
   },
   "https://lifeattiktok.com/search/7530759738491226386?spread=5MWH5CQ": {
     "alive": true,
@@ -10835,17 +10835,17 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:25:39.782Z"
   },
-  "https://jobs.cvshealth.com/us/en/job/CVSCHLUSR0632604EXTERNALENUS/Associate-Software-Engineer": {
+  "https://www.amazon.jobs/en/jobs/2940695/hardware-simulator-sde-i-aws-machine-learning-accelerators-annapurna-labs": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:57.518Z"
-  },
-  "https://www.tesla.com/careers/search/job/246199": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:57.527Z"
+    "checkedAt": "2026-08-19T23:58:47.207Z"
   },
   "https://careers.servicenow.com/jobs/744000073378905/associate-systems-engineer/?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:57.578Z"
+    "checkedAt": "2026-08-19T23:58:47.227Z"
+  },
+  "https://jobs.cvshealth.com/us/en/job/CVSCHLUSR0632604EXTERNALENUS/Associate-Software-Engineer": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:47.242Z"
   },
   "https://jobs.bytedance.com/en/position/7527836662400026898/detail?spread=BSPP2KS": {
     "alive": true,
@@ -10859,21 +10859,21 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:25:39.494Z"
   },
-  "https://www.amazon.jobs/en/jobs/2940695/hardware-simulator-sde-i-aws-machine-learning-accelerators-annapurna-labs": {
+  "https://jobs.spectrum.com/job/-/-/4673/81850982400": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:57.659Z"
+    "checkedAt": "2026-08-19T23:58:47.270Z"
   },
-  "https://www.qualtrics.com/careers/us/en/job/QUALUS6580294EXTERNALENUS/Machine-Learning-Engineer": {
+  "https://recruiting.paylocity.com/recruiting/jobs/Details/3409369/Cryptic-Vector/Full-Stack-Developer?source=Indeed_Feed": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:57.812Z"
+    "checkedAt": "2026-08-19T23:58:47.422Z"
   },
   "https://lifeattiktok.com/search/7531158600791705874?spread=5MWH5CQ": {
     "alive": true,
     "checkedAt": "2026-08-19T18:25:41.472Z"
   },
-  "https://recruiting.paylocity.com/recruiting/jobs/Details/3409369/Cryptic-Vector/Full-Stack-Developer?source=Indeed_Feed": {
+  "https://www.qualtrics.com/careers/us/en/job/QUALUS6580294EXTERNALENUS/Machine-Learning-Engineer": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:57.853Z"
+    "checkedAt": "2026-08-19T23:58:47.497Z"
   },
   "https://jobs.ashbyhq.com/ramp/83075cf0-9c22-4475-9c6b-e21923a96df8": {
     "alive": true,
@@ -11013,27 +11013,27 @@
   },
   "https://www.amazon.jobs/en/jobs/3044177/system-development-engineer-aws-vetting": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:57.861Z"
+    "checkedAt": "2026-08-19T23:58:47.514Z"
+  },
+  "https://www.amazon.jobs/en/jobs/3047432/system-development-engineer-ots-delivery-software-engineering": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:47.516Z"
   },
   "https://job-boards.eu.greenhouse.io/imc/jobs/4580753101": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:57.879Z"
-  },
-  "https://www.qualtrics.com/careers/us/en/job/QUALUS6922762EXTERNALENUS/Software-Engineer-I-PAAS": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:57.883Z"
+    "checkedAt": "2026-08-19T23:58:47.519Z"
   },
   "https://www.tesla.com/careers/search/job/247659": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:57.884Z"
+    "checkedAt": "2026-08-19T23:58:47.523Z"
   },
   "https://jobs.royalcaribbeangroup.com/job/Miramar-Associate-Engineer%2C-Software-FL-33132/1314694500/": {
     "alive": true,
     "checkedAt": "2026-08-19T18:25:47.710Z"
   },
-  "https://careers.amd.com/careers-home/jobs/67592": {
+  "https://www.tesla.com/careers/search/job/247595": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:57.895Z"
+    "checkedAt": "2026-08-19T23:58:47.542Z"
   },
   "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25024266": {
     "alive": true,
@@ -11049,19 +11049,19 @@
   },
   "https://www.tesla.com/careers/search/job/247480": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:57.909Z"
+    "checkedAt": "2026-08-19T23:58:47.547Z"
   },
-  "https://www.tesla.com/careers/search/job/247595": {
+  "https://www.qualtrics.com/careers/us/en/job/QUALUS6922762EXTERNALENUS/Software-Engineer-I-PAAS": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:57.963Z"
+    "checkedAt": "2026-08-19T23:58:47.555Z"
   },
   "https://jobs.ashbyhq.com/brm.ai/05cad7f7-2194-480d-8e70-7338cfd2a189/application": {
     "alive": true,
     "checkedAt": "2026-08-19T18:25:49.039Z"
   },
-  "https://www.amazon.jobs/en/jobs/3047432/system-development-engineer-ots-delivery-software-engineering": {
+  "https://careers.amd.com/careers-home/jobs/67592": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:57.966Z"
+    "checkedAt": "2026-08-19T23:58:47.615Z"
   },
   "https:/.workable.com/trexquant/j/A634E0E3F4/": {
     "alive": true,
@@ -11077,7 +11077,7 @@
   },
   "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3477495": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:58.018Z"
+    "checkedAt": "2026-08-19T23:58:47.661Z"
   },
   "https://bostonscientific.eightfold.ai/careers/job/563602803047194": {
     "alive": true,
@@ -11093,7 +11093,7 @@
   },
   "https://www.databricks.com/company/careers/university-recruiting/software-engineer---new-grad-2026-start-6865698002": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:58.137Z"
+    "checkedAt": "2026-08-19T23:58:47.701Z"
   },
   "https://job-boards.greenhouse.io/andurilindustries/jobs/4164476007?gh_jid=4164476007&gh_src=": {
     "alive": true,
@@ -11111,9 +11111,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:25:49.874Z"
   },
-  "https://www.amazon.jobs/en/jobs/3051896/system-development-engineer-amazon-robotics": {
+  "https://www.databricks.com/company/careers/university-recruiting/data-scientist---new-grad-2026-start-6866554002": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:58.188Z"
+    "checkedAt": "2026-08-19T23:58:47.777Z"
   },
   "https://bostonscientific.eightfold.ai/careers/job/563602803102071": {
     "alive": true,
@@ -11139,9 +11139,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:25:51.661Z"
   },
-  "https://www.databricks.com/company/careers/university-recruiting/data-scientist---new-grad-2026-start-6866554002": {
+  "https://www.amazon.jobs/en/jobs/3051896/system-development-engineer-amazon-robotics": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:58.421Z"
+    "checkedAt": "2026-08-19T23:58:47.803Z"
   },
   "https://jobs.bytedance.com/en/position/7537121677185534216/detail?spread=BSPP2KS": {
     "alive": true,
@@ -11153,11 +11153,11 @@
   },
   "https://www.citadelsecurities.com/careers/details/c-software-engineer-4/": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:58.437Z"
+    "checkedAt": "2026-08-19T23:58:47.826Z"
   },
-  "https://www.amazon.jobs/en/jobs/3057120/systems-development-engineer-i-ops-tech-solution-ots": {
+  "https://careers-i3-corps.icims.com/jobs/4833/entry-level-full-stack-software-engineer/job": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:58.482Z"
+    "checkedAt": "2026-08-19T23:58:47.946Z"
   },
   "https://joinbytedance.com/search/7535903852755814674": {
     "alive": true,
@@ -11175,9 +11175,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:25:54.440Z"
   },
-  "https://www.tesla.com/careers/search/job/248409": {
+  "https://careers-i3-corps.icims.com/jobs/4833/job": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:58.508Z"
+    "checkedAt": "2026-08-19T23:58:47.959Z"
   },
   "https://joinbytedance.com/search/7538433821165259015": {
     "alive": true,
@@ -11211,9 +11211,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:25:56.757Z"
   },
-  "https://careers-i3-corps.icims.com/jobs/4833/entry-level-full-stack-software-engineer/job": {
+  "https://www.tesla.com/careers/search/job/248409": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:58.625Z"
+    "checkedAt": "2026-08-19T23:58:47.973Z"
   },
   "https://lifeattiktok.com/search/7538213896365689096": {
     "alive": true,
@@ -11231,9 +11231,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:25:55.888Z"
   },
-  "https://careers-i3-corps.icims.com/jobs/4833/job": {
+  "https://www.amazon.jobs/en/jobs/3057120/systems-development-engineer-i-ops-tech-solution-ots": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:58.627Z"
+    "checkedAt": "2026-08-19T23:58:48.030Z"
   },
   "https://careers.unitedhealthgroup.com/job/22310390/associate-software-engineer-vancouver-ca/": {
     "alive": true,
@@ -11241,27 +11241,27 @@
   },
   "https://careers-peraton.icims.com/jobs/158789/software-engineering%2c-associate/job": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:58.640Z"
-  },
-  "https://careers-gannettfleming.icims.com/jobs/12404/entry-level-software-developer/job": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:58.693Z"
+    "checkedAt": "2026-08-19T23:58:48.037Z"
   },
   "https://www.amazon.jobs/en/jobs/3054843/robotics-systems-engineer-amazon-robotics-deployment-engineering": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:58.711Z"
+    "checkedAt": "2026-08-19T23:58:48.105Z"
+  },
+  "https://careers-gannettfleming.icims.com/jobs/12404/entry-level-software-developer/job": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:48.170Z"
   },
   "https://careers.codan.com.au/job/Victoria-Associate-Software-Engineer-Cana/1213160701/": {
     "alive": true,
     "checkedAt": "2026-08-19T18:25:57.743Z"
   },
-  "https://www.disneycareers.com/en/job/-/-/391/85002977104": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:58.771Z"
-  },
   "https://careers.amd.com/careers-home/jobs/68783": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:58.792Z"
+    "checkedAt": "2026-08-19T23:58:48.225Z"
+  },
+  "https://jobs.baesystems.com/global/en/job/BAE1US115338BREXTERNAL/Junior-Software-Engineer": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:48.240Z"
   },
   "https://ats.rippling.com/en-CA/edgehog-trading/jobs/a39cf004-d79c-4588-9a5f-6bdce04a85ee": {
     "alive": true,
@@ -11297,15 +11297,15 @@
   },
   "https://www.tesla.com/careers/search/job/248886": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:58.816Z"
+    "checkedAt": "2026-08-19T23:58:48.266Z"
+  },
+  "https://www.disneycareers.com/en/job/-/-/391/85002977104": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:48.269Z"
   },
   "https://www.tesla.com/careers/search/job/242064": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:58.840Z"
-  },
-  "https://jobs.baesystems.com/global/en/job/BAE1US115338BREXTERNAL/Junior-Software-Engineer": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:58.882Z"
+    "checkedAt": "2026-08-19T23:58:48.290Z"
   },
   "https://jobs.ashbyhq.com/zip/5f28357a-c95d-485a-84f9-feff64ce9fb3": {
     "alive": true,
@@ -11313,11 +11313,11 @@
   },
   "https://www.tesla.com/careers/search/job/249133": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:58.909Z"
+    "checkedAt": "2026-08-19T23:58:48.317Z"
   },
   "https://www.tesla.com/careers/search/job/248353": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:58.931Z"
+    "checkedAt": "2026-08-19T23:58:48.342Z"
   },
   "https://jobs.jobvite.com/emoneyadvisor-review/job/oD9hxfwk": {
     "alive": true,
@@ -11329,11 +11329,11 @@
   },
   "https://ats.rippling.com/en-CA/neo-financial/jobs/a2fd15b5-5bee-483e-b28f-66980dad691b": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:58.932Z"
+    "checkedAt": "2026-08-19T23:58:48.400Z"
   },
   "https://careers.amd.com/careers-home/jobs/68831": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:59.003Z"
+    "checkedAt": "2026-08-19T23:58:48.431Z"
   },
   "https://paypal.eightfold.ai/careers/job/274908747686": {
     "alive": true,
@@ -11341,19 +11341,19 @@
   },
   "https://careers.mastercard.com/us/en/job/MASRUSR258140EXTERNALENUS/Software-Engineer-I-Backend-Java": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:59.028Z"
+    "checkedAt": "2026-08-19T23:58:48.521Z"
   },
   "https://jobs.ashbyhq.com/Citizen%20Health/ea388b8a-16cb-4b1b-b64f-479f0dc69764": {
     "alive": true,
     "checkedAt": "2026-08-19T18:25:58.579Z"
   },
+  "https://www.metacareers.com/jobs/1947521902323717": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:48.533Z"
+  },
   "https://www.tesla.com/careers/search/job/249182": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:59.076Z"
-  },
-  "https://www.tesla.com/careers/search/job/249027": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:59.098Z"
+    "checkedAt": "2026-08-19T23:58:48.547Z"
   },
   "https://jobs.ashbyhq.com/Commure-Athelas/00dbfa4a-986c-4c98-a966-47874d1ff0f8": {
     "alive": true,
@@ -11367,25 +11367,25 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:25:59.983Z"
   },
+  "https://www.tesla.com/careers/search/job/249027": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:48.556Z"
+  },
   "https://www.tesla.com/careers/search/job/248966": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:59.123Z"
+    "checkedAt": "2026-08-19T23:58:48.571Z"
   },
   "https://www.tesla.com/careers/search/job/249481": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:59.148Z"
+    "checkedAt": "2026-08-19T23:58:48.579Z"
   },
   "https://www.tesla.com/careers/search/job/249467": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:59.185Z"
+    "checkedAt": "2026-08-19T23:58:48.594Z"
   },
-  "https://careers.amd.com/careers-home/jobs/68553": {
+  "https://www.tesla.com/careers/search/job/249335": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:59.207Z"
-  },
-  "https://careers.adobe.com/us/en/job/ADOBUSR158632EXTERNALENUS/2026-University-Graduate-Machine-Learning-Engineer": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:59.213Z"
+    "checkedAt": "2026-08-19T23:58:48.605Z"
   },
   "https://lifeattiktok.com/search/7541178634444589319": {
     "alive": true,
@@ -11423,21 +11423,21 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:25:59.216Z"
   },
-  "https://www.tesla.com/careers/search/job/249335": {
+  "https://careers.amd.com/careers-home/jobs/68553": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:59.221Z"
+    "checkedAt": "2026-08-19T23:58:48.626Z"
   },
-  "https://www.amazon.jobs/en/jobs/3064596/antenna-systems-engineer-antenna-calibration-kuiper": {
+  "https://careers.adobe.com/us/en/job/ADOBUSR158632EXTERNALENUS/2026-University-Graduate-Machine-Learning-Engineer": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:59.262Z"
+    "checkedAt": "2026-08-19T23:58:48.654Z"
   },
   "https://jobs.ashbyhq.com/luma-ai/f41a9fc6-40b5-4063-b093-b50ffe919ad8": {
     "alive": true,
     "checkedAt": "2026-08-19T18:25:59.629Z"
   },
-  "https://careers.garmin.com/jobs/16827": {
+  "https://www.amazon.jobs/en/jobs/3064596/antenna-systems-engineer-antenna-calibration-kuiper": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:59.398Z"
+    "checkedAt": "2026-08-19T23:58:48.747Z"
   },
   "https://www.metrostar.com/job-post/?gh_jid=6667276003": {
     "alive": true,
@@ -11459,49 +11459,49 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:25:59.934Z"
   },
+  "https://careers.garmin.com/jobs/16827": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:48.796Z"
+  },
   "https://www.okta.com/company/careers/product/software-engineer-i-7169515/": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:59.413Z"
-  },
-  "https://www.metacareers.com/jobs/1947521902323717": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:59.461Z"
+    "checkedAt": "2026-08-19T23:58:48.819Z"
   },
   "https://www.tesla.com/careers/search/job/225545": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:59.471Z"
+    "checkedAt": "2026-08-19T23:58:48.839Z"
   },
   "https://www.tesla.com/careers/search/job/250195": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:59.484Z"
-  },
-  "https://www.tesla.com/careers/search/job/250277": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:59.491Z"
+    "checkedAt": "2026-08-19T23:58:48.843Z"
   },
   "https://www.amazon.jobs/en/jobs/3066890/system-dev-engineer-i-analytics-adc": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:59.499Z"
+    "checkedAt": "2026-08-19T23:58:48.856Z"
+  },
+  "https://www.tesla.com/careers/search/job/250277": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:48.862Z"
   },
   "https://careers-americas.icims.com/jobs/20901/software-engineer%252c-2026-graduate-u.s./job": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:59.574Z"
+    "checkedAt": "2026-08-19T23:58:48.891Z"
   },
-  "https://stripe.com/jobs/listing/software-engineer-new-grad/7210112": {
+  "https://www.amazon.jobs/en/jobs/3071644/security-engineer-aws-global-services-security": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:59.648Z"
+    "checkedAt": "2026-08-19T23:58:49.009Z"
   },
   "https://jobs.ashbyhq.com/decagon/2a435dd5-1212-42bb-ae5a-d7432902acd2": {
     "alive": true,
     "checkedAt": "2026-08-19T18:26:00.468Z"
   },
+  "https://stripe.com/jobs/listing/software-engineer-new-grad/7210112": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:49.104Z"
+  },
   "https://careers-americas.icims.com/jobs/20906/machine-learning-engineer%252c-2026-graduate-u.s./job": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:59.743Z"
-  },
-  "https://careers.publicisgroupe.com/jobs/119914": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:59.744Z"
+    "checkedAt": "2026-08-19T23:58:49.116Z"
   },
   "https:/.workable.com/eluvio/j/A349A0D2AF": {
     "alive": true,
@@ -11511,21 +11511,21 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:26:00.813Z"
   },
-  "https://www.amazon.jobs/en/jobs/3071644/security-engineer-aws-global-services-security": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:43:59.779Z"
-  },
   "https://www.workatastartup.com/jobs/81292": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:59.790Z"
+    "checkedAt": "2026-08-19T23:58:49.161Z"
+  },
+  "https://careers.publicisgroupe.com/jobs/119914": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:49.201Z"
   },
   "https://www.workatastartup.com/jobs/81441": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:43:59.835Z"
+    "checkedAt": "2026-08-19T23:58:49.219Z"
   },
-  "https://careers.adobe.com/us/en/job/ADOBUSR159164EXTERNALENUS/2026-University-Graduate-Application-Security-Engineer": {
+  "https://careers.arm.com/job/austin/graduate-software-applications-engineer/33099/85831486416": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:00.002Z"
+    "checkedAt": "2026-08-19T23:58:49.362Z"
   },
   "https://careers.tripadvisor.com/job?jobId=7234900": {
     "alive": true,
@@ -11551,25 +11551,25 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:26:01.544Z"
   },
-  "https://www.disneycareers.com/en/job/-/-/391/85823385568": {
+  "https://careers.adobe.com/us/en/job/ADOBUSR159164EXTERNALENUS/2026-University-Graduate-Application-Security-Engineer": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:00.070Z"
+    "checkedAt": "2026-08-19T23:58:49.409Z"
   },
   "https://jobs.apple.com/en-us/details/200620177-3543/wi-fi-software-systems-performance-engineer": {
     "alive": true,
     "checkedAt": "2026-08-19T18:26:01.847Z"
   },
+  "https://www.metacareers.com/jobs/609052015548260": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:49.470Z"
+  },
+  "https://www.disneycareers.com/en/job/-/-/391/85823385568": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:49.480Z"
+  },
   "https://careers.adobe.com/us/en/job/ADOBUSR157573EXTERNALENUS/2026-University-Graduate-Machine-Learning-Engineer": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:00.079Z"
-  },
-  "https://www.tesla.com/careers/search/job/250792": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:44:00.104Z"
-  },
-  "https://www.tesla.com/careers/search/job/250710": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:44:00.126Z"
+    "checkedAt": "2026-08-19T23:58:49.482Z"
   },
   "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-iOS-IL-60607/1322170500/": {
     "alive": true,
@@ -11583,21 +11583,21 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:26:01.781Z"
   },
-  "https://careers-ebscoind.icims.com/jobs/1834/job": {
+  "https://www.tesla.com/careers/search/job/250792": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:00.128Z"
+    "checkedAt": "2026-08-19T23:58:49.497Z"
   },
   "https://jobs.ashbyhq.com/eliseai/1ffbd278-a5fe-443c-984f-521d61a97353": {
     "alive": true,
     "checkedAt": "2026-08-19T18:26:01.616Z"
   },
-  "https://careers.arm.com/job/austin/graduate-software-applications-engineer/33099/85831486416": {
+  "https://www.tesla.com/careers/search/job/250710": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:00.155Z"
+    "checkedAt": "2026-08-19T23:58:49.506Z"
   },
-  "https://careers.publicisgroupe.com/jobs/121504": {
+  "https://careers-ebscoind.icims.com/jobs/1834/job": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:00.263Z"
+    "checkedAt": "2026-08-19T23:58:49.594Z"
   },
   "https:/.workable.com/thorlabs/j/E79FA34ED4": {
     "alive": true,
@@ -11605,39 +11605,39 @@
   },
   "https://careers.publicisgroupe.com/jobs/121511": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:00.296Z"
+    "checkedAt": "2026-08-19T23:58:49.609Z"
   },
-  "https://www.metacareers.com/jobs/609052015548260": {
+  "https://careers.publicisgroupe.com/jobs/121504": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:00.382Z"
+    "checkedAt": "2026-08-19T23:58:49.685Z"
   },
   "https://www.workatastartup.com/jobs/81444": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:00.426Z"
+    "checkedAt": "2026-08-19T23:58:49.730Z"
   },
   "https://careers.nordstrom.com/engineer-1-full-stack-store-pos-team-hybrid-seattle-wa/job/4D8A4B0EBC4BABF554018E5C28260729": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:00.476Z"
-  },
-  "https://careers-i3-corps.icims.com/jobs/4833/job?mobile=true&needsRedirect=false": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:44:00.497Z"
+    "checkedAt": "2026-08-19T23:58:49.751Z"
   },
   "https://join.atlassian.com/atlassian-talent-community/jobs/20908?lang=en-us": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:00.505Z"
+    "checkedAt": "2026-08-19T23:58:49.761Z"
+  },
+  "https://careers-i3-corps.icims.com/jobs/4833/job?mobile=true&needsRedirect=false": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:49.877Z"
   },
   "https://jobs.ashbyhq.com/Anima/a6b86f92-0679-423b-b575-a23f8677dfd1": {
     "alive": true,
     "checkedAt": "2026-08-19T18:26:02.043Z"
   },
-  "https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false": {
+  "https://careers.garmin.com/jobs/16774": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:00.541Z"
+    "checkedAt": "2026-08-19T23:58:49.893Z"
   },
   "https://www.workatastartup.com/jobs/81629": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:00.584Z"
+    "checkedAt": "2026-08-19T23:58:49.935Z"
   },
   "https://careers.duolingo.com/jobs/8162849002": {
     "alive": true,
@@ -11663,17 +11663,17 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:26:02.489Z"
   },
-  "https://careers.garmin.com/jobs/16774": {
+  "https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:00.591Z"
+    "checkedAt": "2026-08-19T23:58:49.969Z"
   },
   "https://jobs.ashbyhq.com/persona/fd4d41b2-42b4-454e-91ad-d61fdc6a0042/application": {
     "alive": true,
     "checkedAt": "2026-08-19T18:26:02.495Z"
   },
-  "https://www.pinterestcareers.com/job-form?gh_jid=7211012": {
+  "https://careers.adobe.com/us/en/job/ADOBUSR159933EXTERNALENUS/2026-University-Graduate-Software-Engineer": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:00.611Z"
+    "checkedAt": "2026-08-19T23:58:49.993Z"
   },
   "https://jobs.ashbyhq.com/parafin/ced48a0b-f5ed-491a-ae38-2301fb881bd9/application": {
     "alive": true,
@@ -11691,53 +11691,53 @@
     "alive": true,
     "checkedAt": "2026-08-19T19:28:44.338Z"
   },
-  "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false": {
+  "https://www.pinterestcareers.com/job-form?gh_jid=7211012": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:00.637Z"
+    "checkedAt": "2026-08-19T23:58:49.995Z"
   },
   "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1329771000/?ats=successfactors": {
     "alive": true,
     "checkedAt": "2026-08-19T18:26:02.512Z"
   },
-  "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:44:00.695Z"
-  },
   "https://careers.adobe.com/us/en/job/ADOBUSR159163EXTERNALENUS/2026-University-Graduate-Software-Engineer": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:00.740Z"
+    "checkedAt": "2026-08-19T23:58:50.019Z"
   },
-  "https://careersatdoordash.com/jobs/software-engineer-i-entry-level-graduation-date-fall-2025-summer-2026/7263610/": {
+  "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:00.751Z"
+    "checkedAt": "2026-08-19T23:58:50.041Z"
+  },
+  "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:50.100Z"
   },
   "https://careers-gdms.icims.com/jobs/68413": {
     "alive": true,
     "checkedAt": "2026-08-19T18:26:03.266Z"
   },
+  "https://jobs.comcast.com/job/-/-/45483/86516813920": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:50.124Z"
+  },
+  "https://careersatdoordash.com/jobs/software-engineer-i-entry-level-graduation-date-fall-2025-summer-2026/7263610/": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:50.128Z"
+  },
   "https://www.tesla.com/careers/search/job/252374": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:00.775Z"
-  },
-  "https://careers.adobe.com/us/en/job/ADOBUSR159933EXTERNALENUS/2026-University-Graduate-Software-Engineer": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:44:00.796Z"
+    "checkedAt": "2026-08-19T23:58:50.136Z"
   },
   "https://www.tesla.com/careers/search/job/252946": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:00.798Z"
-  },
-  "https://www.tesla.com/careers/search/job/252915": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:44:00.823Z"
+    "checkedAt": "2026-08-19T23:58:50.153Z"
   },
   "https://jobs.ashbyhq.com/anyscale/31d09081-f5e7-45e4-b561-1c53d0ca9200": {
     "alive": true,
     "checkedAt": "2026-08-19T18:26:02.798Z"
   },
-  "https://careers-gdms.icims.com/jobs/67972/job?mobile=true&needsRedirect=false": {
+  "https://www.tesla.com/careers/search/job/252915": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:00.876Z"
+    "checkedAt": "2026-08-19T23:58:50.154Z"
   },
   "https://uneekor.bamboohr.com/careers/119": {
     "alive": true,
@@ -11757,11 +11757,11 @@
   },
   "https://www.tesla.com/careers/search/job/253221": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:00.901Z"
+    "checkedAt": "2026-08-19T23:58:50.181Z"
   },
   "https://www.tesla.com/careers/search/job/253222": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:00.923Z"
+    "checkedAt": "2026-08-19T23:58:50.207Z"
   },
   "https://aurora.tech/careers/8137861002": {
     "alive": true,
@@ -11785,75 +11785,75 @@
   },
   "https://www.tesla.com/careers/search/job/253464": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:00.949Z"
+    "checkedAt": "2026-08-19T23:58:50.232Z"
   },
-  "https://aexp.eightfold.ai/careers/job/38270703": {
+  "https://careers-gdms.icims.com/jobs/67972/job?mobile=true&needsRedirect=false": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:00.977Z"
+    "checkedAt": "2026-08-19T23:58:50.244Z"
   },
   "https://lifeattiktok.com/search/7559731427425257746": {
     "alive": true,
     "checkedAt": "2026-08-19T18:26:05.423Z"
   },
-  "https://careers-cellularsales.icims.com/jobs/19001/junior-data-engineer/job": {
+  "https://aexp.eightfold.ai/careers/job/38270703": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.018Z"
-  },
-  "https://www.workatastartup.com/jobs/83503": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.020Z"
+    "checkedAt": "2026-08-19T23:58:50.284Z"
   },
   "https://www.shopify.com/careers/software-engineer-monorepo-systems-rust-nix_95aac134-c21a-456d-b8b3-a9aac6aa6118": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.047Z"
+    "checkedAt": "2026-08-19T23:58:50.287Z"
   },
-  "https://www.esri.com/careers/4921407007?gh_jid=4921407007": {
+  "https://www.workatastartup.com/jobs/83503": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.062Z"
+    "checkedAt": "2026-08-19T23:58:50.289Z"
   },
   "https://www.workatastartup.com/jobs/83356": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.063Z"
+    "checkedAt": "2026-08-19T23:58:50.329Z"
+  },
+  "https://www.workatastartup.com/jobs/83287": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:50.343Z"
   },
   "https://careers.adobe.com/us/en/job/ADOBUSR158639EXTERNALENUS/2026-University-Graduate-AI-Context-Engineer": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.069Z"
-  },
-  "https://jobs.comcast.com/job/-/-/45483/86516813920": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.083Z"
-  },
-  "https://www.workatastartup.com/jobs/83025": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.089Z"
-  },
-  "https://university-uber.icims.com/jobs/149558/job": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.109Z"
-  },
-  "https://www.workatastartup.com/jobs/82877": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.114Z"
-  },
-  "https://www.workatastartup.com/jobs/82875": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.115Z"
+    "checkedAt": "2026-08-19T23:58:50.371Z"
   },
   "https://www.workatastartup.com/jobs/82935": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.131Z"
+    "checkedAt": "2026-08-19T23:58:50.375Z"
+  },
+  "https://careers-cellularsales.icims.com/jobs/19001/junior-data-engineer/job": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:50.379Z"
+  },
+  "https://www.workatastartup.com/jobs/82877": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:50.393Z"
   },
   "https://www.tesla.com/careers/search/job/253715": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.136Z"
+    "checkedAt": "2026-08-19T23:58:50.417Z"
+  },
+  "https://university-uber.icims.com/jobs/149558/job": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:50.431Z"
+  },
+  "https://www.shopify.com/careers/demo-engineer-software-development_a6126bad-c0ba-4d02-94fb-7c5e21bef9f5": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:50.439Z"
   },
   "https://www.tesla.com/careers/search/job/253673": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.140Z"
+    "checkedAt": "2026-08-19T23:58:50.441Z"
+  },
+  "https://www.workatastartup.com/jobs/83025": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:50.444Z"
   },
   "https://www.tesla.com/careers/search/job/253636": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.146Z"
+    "checkedAt": "2026-08-19T23:58:50.462Z"
   },
   "https://jobs.apple.com/en-us/details/200626941-0836/software-engineer-xcode-intelligence-experience": {
     "alive": true,
@@ -11863,21 +11863,21 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:26:04.982Z"
   },
-  "https://www.shopify.com/careers/demo-engineer-software-development_a6126bad-c0ba-4d02-94fb-7c5e21bef9f5": {
+  "https://www.workatastartup.com/jobs/82875": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.149Z"
-  },
-  "https://www.workatastartup.com/jobs/83287": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.169Z"
+    "checkedAt": "2026-08-19T23:58:50.464Z"
   },
   "https://www.workatastartup.com/jobs/83760": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.192Z"
+    "checkedAt": "2026-08-19T23:58:50.505Z"
   },
   "https://www.workatastartup.com/jobs/83761": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.193Z"
+    "checkedAt": "2026-08-19T23:58:50.514Z"
+  },
+  "https://www.workatastartup.com/jobs/82876": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:50.518Z"
   },
   "https://jobs.ashbyhq.com/zapier/63b14a57-064a-4617-bb8c-4a67c860e1e6": {
     "alive": true,
@@ -11887,13 +11887,13 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:26:05.275Z"
   },
-  "https://www.workatastartup.com/jobs/82876": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.211Z"
-  },
   "https://www.workatastartup.com/jobs/80466": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.216Z"
+    "checkedAt": "2026-08-19T23:58:50.550Z"
+  },
+  "https://www.amazon.jobs/en/jobs/3111750/systems-development-engineer-network-operations-oisl": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:50.685Z"
   },
   "https://revionics.com/about/careers/open-jobs?gh_jid=7172125": {
     "alive": true,
@@ -11901,7 +11901,7 @@
   },
   "https://www.amazon.jobs/en/jobs/3110582/system-development-engineer-payload-antenna-team": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.420Z"
+    "checkedAt": "2026-08-19T23:58:50.711Z"
   },
   "https://www.spotandtango.com/careers?gh_jid=4620638005": {
     "alive": true,
@@ -11923,25 +11923,25 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:26:06.237Z"
   },
-  "https://www.amazon.jobs/en/jobs/3111750/systems-development-engineer-network-operations-oisl": {
+  "https://amazon.jobs/en/jobs/3111761/software-engineer-i": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.429Z"
-  },
-  "https://www.workatastartup.com/jobs/84154": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.472Z"
+    "checkedAt": "2026-08-19T23:58:50.756Z"
   },
   "https://careers.adobe.com/us/en/job/ADOBUSR158465EXTERNALENUS/Software-Development-Engineer": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.473Z"
+    "checkedAt": "2026-08-19T23:58:50.758Z"
+  },
+  "https://www.workatastartup.com/jobs/84154": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:50.800Z"
   },
   "https://about.nextdoor.com/careers-list/?gh_jid=7264954": {
     "alive": true,
     "checkedAt": "2026-08-19T18:26:06.276Z"
   },
-  "https://amazon.jobs/en/jobs/3111761/software-engineer-i": {
+  "https://www.workatastartup.com/jobs/76499": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.477Z"
+    "checkedAt": "2026-08-19T23:58:50.801Z"
   },
   "https://jobs.ashbyhq.com/Citizen%20Health/0f4048fa-da35-4112-9166-123440a2cb57": {
     "alive": true,
@@ -11951,21 +11951,21 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:26:06.217Z"
   },
-  "https://www.qualtrics.com/careers/us/en/job/7340628?gh_jid=7340628": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.498Z"
-  },
   "https://www.tesla.com/careers/search/job/249570": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.506Z"
+    "checkedAt": "2026-08-19T23:58:50.828Z"
+  },
+  "https://www.qualtrics.com/careers/us/en/job/7340628?gh_jid=7340628": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:50.862Z"
   },
   "https://jobs.ashbyhq.com/clipboard/b83ea62e-f143-4673-a741-3e98e7e083bd": {
     "alive": true,
     "checkedAt": "2026-08-19T18:26:06.569Z"
   },
-  "https://www.workatastartup.com/jobs/76499": {
+  "https://www.amazon.jobs/en/jobs/3116902/2026-annapurna-labs-at-aws-early-career-us-silicon-ai-systems-innovation": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.517Z"
+    "checkedAt": "2026-08-19T23:58:51.073Z"
   },
   "https://job-boards.greenhouse.io/warp/jobs/4324888004": {
     "alive": true,
@@ -11975,33 +11975,33 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:26:06.536Z"
   },
-  "https://careers.servicenow.com/jobs/744000092358511/software-engineer/": {
+  "https://uscareers-pepsico.icims.com/jobs/415877/junior-data-scientist-%E2%80%93-new-grad/job": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.542Z"
+    "checkedAt": "2026-08-19T23:58:51.084Z"
   },
   "https://careers.qualcomm.com/careers/job/446715361809": {
     "alive": true,
     "checkedAt": "2026-08-19T18:26:06.793Z"
   },
-  "https://www.shopify.com/careers/software-engineers_c96af3a9-82a3-4c6a-9b86-1f7e6b376167": {
+  "https://careers.servicenow.com/jobs/744000092358511/software-engineer/": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.599Z"
-  },
-  "https://uscareers-pepsico.icims.com/jobs/415877/junior-data-scientist-%E2%80%93-new-grad/job": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.730Z"
-  },
-  "https://www.amazon.jobs/en/jobs/3116902/2026-annapurna-labs-at-aws-early-career-us-silicon-ai-systems-innovation": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.745Z"
-  },
-  "https://www.tesla.com/careers/search/job/255247": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.757Z"
+    "checkedAt": "2026-08-19T23:58:51.098Z"
   },
   "https://uscareers-docusign.icims.com/jobs/27628/software-engineering/job": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.763Z"
+    "checkedAt": "2026-08-19T23:58:51.107Z"
+  },
+  "https://www.amazon.jobs/en/jobs/3117171/system-development-engineer-macos-mdm-kuiper-devices-systems": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:51.112Z"
+  },
+  "https://www.tesla.com/careers/search/job/255247": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:51.132Z"
+  },
+  "https://www.shopify.com/careers/software-engineers_c96af3a9-82a3-4c6a-9b86-1f7e6b376167": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:51.148Z"
   },
   "https://jobs.ashbyhq.com/Citizen%20Health/ab0cc0c1-7122-4ca2-8ac9-84d1812b22d4/application": {
     "alive": true,
@@ -12013,7 +12013,7 @@
   },
   "https://www.tesla.com/careers/search/job/255357": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.781Z"
+    "checkedAt": "2026-08-19T23:58:51.153Z"
   },
   "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc": {
     "alive": true,
@@ -12025,51 +12025,51 @@
   },
   "https://www.tesla.com/careers/search/job/255342": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.785Z"
+    "checkedAt": "2026-08-19T23:58:51.157Z"
   },
-  "https://www.amazon.jobs/en/jobs/3117171/system-development-engineer-macos-mdm-kuiper-devices-systems": {
+  "https://www.coalitioninc.com/job-posting/4560711005": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.836Z"
+    "checkedAt": "2026-08-19T23:58:51.303Z"
+  },
+  "https://www.esri.com/careers/4921407007?gh_jid=4921407007": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:51.304Z"
   },
   "https://careers.adobe.com/us/en/job/ADOBUSR161750EXTERNALENUS/Software-Development-Engineer": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.847Z"
-  },
-  "https://www.tesla.com/careers/search/job/227179": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.861Z"
+    "checkedAt": "2026-08-19T23:58:51.320Z"
   },
   "https://jobs.apple.com/en-us/details/200627852-3956/software-engineer-is-t-early-career": {
     "alive": true,
     "checkedAt": "2026-08-19T18:26:08.015Z"
   },
-  "https://jobs.battelle.org/us/en/job/BMIBMIUS75654EXTERNALENUS/Early-Career-Software-Engineer": {
+  "https://www.tesla.com/careers/search/job/227179": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.898Z"
+    "checkedAt": "2026-08-19T23:58:51.327Z"
   },
   "https://www.workatastartup.com/jobs/85445": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.941Z"
-  },
-  "https://www.coalitioninc.com/job-posting/4560711005": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.955Z"
+    "checkedAt": "2026-08-19T23:58:51.386Z"
   },
   "https://www.workatastartup.com/jobs/85460": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.985Z"
-  },
-  "https://www.workatastartup.com/jobs/85459": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:44:01.998Z"
+    "checkedAt": "2026-08-19T23:58:51.430Z"
   },
   "https://www.databricks.com/company/careers/professional-services-operations/ai-tooling-program-engineer--8295414002": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:02.006Z"
+    "checkedAt": "2026-08-19T23:58:51.451Z"
+  },
+  "https://stripe.com/jobs/listing/backend-engineer-secure-endpoint-access/7396672": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:51.463Z"
+  },
+  "https://www.workatastartup.com/jobs/85459": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:51.474Z"
   },
   "https://www.tesla.com/careers/search/job/256719": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:02.012Z"
+    "checkedAt": "2026-08-19T23:58:51.475Z"
   },
   "https://careers.withwaymo.com/jobs/software-engineer-ml-tools-mountain-view-california-united-states": {
     "alive": true,
@@ -12081,7 +12081,7 @@
   },
   "https://www.tesla.com/careers/search/job/256595": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:02.023Z"
+    "checkedAt": "2026-08-19T23:58:51.488Z"
   },
   "https://jobs.ashbyhq.com/yotta/b5202314-91e1-4940-b8a1-9be0e02d1db5": {
     "alive": true,
@@ -12091,21 +12091,21 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:26:07.789Z"
   },
-  "https://stripe.com/jobs/listing/backend-engineer-secure-endpoint-access/7396672": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:44:02.024Z"
-  },
   "https://www.tesla.com/careers/search/job/256730": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:02.032Z"
+    "checkedAt": "2026-08-19T23:58:51.497Z"
+  },
+  "https://www.workatastartup.com/jobs/86703": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:51.537Z"
   },
   "https://www.workatastartup.com/jobs/86704": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:02.068Z"
+    "checkedAt": "2026-08-19T23:58:51.541Z"
   },
-  "https://www.workatastartup.com/jobs/86588": {
+  "https://jobs.battelle.org/us/en/job/BMIBMIUS75654EXTERNALENUS/Early-Career-Software-Engineer": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:02.075Z"
+    "checkedAt": "2026-08-19T23:58:51.561Z"
   },
   "https://jobs.ashbyhq.com/magical/2c4734af-1ca2-423a-bb4e-29a7da894249": {
     "alive": true,
@@ -12119,9 +12119,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:26:07.812Z"
   },
-  "https://www.workatastartup.com/jobs/86703": {
+  "https://www.amazon.jobs/en/jobs/3126885/software-engineer-i": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:02.081Z"
+    "checkedAt": "2026-08-19T23:58:51.573Z"
   },
   "https://jobs.ashbyhq.com/Sierra/6a75b530-b7bb-4439-bb67-37b4f2b75b96": {
     "alive": true,
@@ -12147,29 +12147,29 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:26:09.870Z"
   },
+  "https://www.workatastartup.com/jobs/86588": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:51.581Z"
+  },
   "https://www.workatastartup.com/jobs/83889": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:02.114Z"
-  },
-  "https://www.amazon.jobs/en/jobs/3126885/software-engineer-i": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:44:02.124Z"
+    "checkedAt": "2026-08-19T23:58:51.586Z"
   },
   "https://www.tesla.com/careers/search/job/259019": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:02.152Z"
-  },
-  "https://careers.circle.com/us/en/job/CIICIRUSJR100011EGEXTERNALENUS/New-Grad-Software-Engineer-Backend-2026": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:44:02.175Z"
+    "checkedAt": "2026-08-19T23:58:51.612Z"
   },
   "https://www.tesla.com/careers/search/job/259057": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:02.176Z"
+    "checkedAt": "2026-08-19T23:58:51.633Z"
+  },
+  "https://www.imc.com/us/careers/jobs/4580755101": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:51.782Z"
   },
   "https://www.amazon.jobs/en/jobs/3133994/system-development-engineer-robotics-integration-and-optimization-services": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:02.304Z"
+    "checkedAt": "2026-08-19T23:58:51.790Z"
   },
   "https://www.rentec.com/Careers.action?jobs=true&selectedPosition=researchScientist": {
     "alive": true,
@@ -12179,61 +12179,61 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:26:08.954Z"
   },
-  "https://stripe.com/jobs/listing/security-engineer-new-grad/7477571": {
+  "https://careers.adobe.com/us/en/job/ADOBUSR160657EXTERNALENUS/2026-University-Graduate-Software-Development-Engineer": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:02.348Z"
+    "checkedAt": "2026-08-19T23:58:51.839Z"
   },
   "https://www.tesla.com/careers/search/job/259428": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:02.375Z"
+    "checkedAt": "2026-08-19T23:58:51.861Z"
+  },
+  "https://stripe.com/jobs/listing/security-engineer-new-grad/7477571": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:51.881Z"
   },
   "https://www.tesla.com/careers/search/job/259410": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:02.399Z"
+    "checkedAt": "2026-08-19T23:58:51.884Z"
   },
   "https://www.tesla.com/careers/search/job/259427": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:02.424Z"
-  },
-  "https://careers.viasat.com/jobs/4993": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:44:02.439Z"
+    "checkedAt": "2026-08-19T23:58:51.930Z"
   },
   "https://www.tesla.com/careers/search/job/233307": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:02.448Z"
-  },
-  "https://www.tesla.com/careers/search/job/259300": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:44:02.467Z"
+    "checkedAt": "2026-08-19T23:58:51.932Z"
   },
   "https://university-uber.icims.com/jobs/152559/job?mobile=false&width=1069&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:02.490Z"
+    "checkedAt": "2026-08-19T23:58:51.944Z"
   },
-  "https://university-uber.icims.com/jobs/152427/job": {
+  "https://www.tesla.com/careers/search/job/259300": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:02.491Z"
+    "checkedAt": "2026-08-19T23:58:51.956Z"
+  },
+  "https://careers.viasat.com/jobs/4993": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:51.959Z"
   },
   "https://unity.com/careers/positions/7435121": {
     "alive": true,
     "checkedAt": "2026-08-19T18:26:09.597Z"
   },
-  "https://careers.adobe.com/us/en/job/ADOBUSR160657EXTERNALENUS/2026-University-Graduate-Software-Development-Engineer": {
+  "https://university-uber.icims.com/jobs/152427/job": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:02.510Z"
-  },
-  "https://www.imc.com/us/careers/jobs/4580755101": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:44:02.539Z"
+    "checkedAt": "2026-08-19T23:58:52.075Z"
   },
   "https://www.tesla.com/careers/search/job/261137": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:02.599Z"
+    "checkedAt": "2026-08-19T23:58:52.103Z"
   },
   "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4749965101": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:02.761Z"
+    "checkedAt": "2026-08-19T23:58:52.171Z"
+  },
+  "https://careers.adobe.com/us/en/job/ADOBUSR161061EXTERNALENUS/Software-Development-Engineer": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:52.282Z"
   },
   "https://jobs.apple.com/en-us/details/200643886-3956/software-engineer-is-t-early-career-opportunities?team=SFTWR": {
     "alive": true,
@@ -12247,37 +12247,37 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:26:09.889Z"
   },
+  "https://careers.twitch.com/en/career-posts/8360103002/": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:52.296Z"
+  },
   "https://www.amazon.jobs/en/jobs/3168547/systems-development-engineer-amazon-foundational-security-services-afss": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:02.830Z"
-  },
-  "https://careers.adobe.com/us/en/job/ADOBUSR161061EXTERNALENUS/Software-Development-Engineer": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:44:02.852Z"
+    "checkedAt": "2026-08-19T23:58:52.367Z"
   },
   "https://www.tesla.com/careers/search/job/261393": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:02.881Z"
+    "checkedAt": "2026-08-19T23:58:52.392Z"
+  },
+  "https://careers.twitch.com/en/career-posts/8334351002/": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:52.412Z"
   },
   "https://www.tesla.com/careers/search/job/252155": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:02.905Z"
-  },
-  "https://www.amazon.jobs/en/jobs/3168189/systems-development-engineer-amazon-enterprise-engineering-enterprise-engineering": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:44:02.916Z"
+    "checkedAt": "2026-08-19T23:58:52.413Z"
   },
   "https://jobs.apple.com/en-us/details/200646547-3956/software-engineer-customer-systems-is-t-early-career": {
     "alive": true,
     "checkedAt": "2026-08-19T18:26:11.171Z"
   },
-  "https://www.tesla.com/careers/search/job/262815": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:44:02.972Z"
-  },
   "https://careers.twitch.com/en/career-posts/8347863002/": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:03.014Z"
+    "checkedAt": "2026-08-19T23:58:52.417Z"
+  },
+  "https://www.amazon.jobs/en/jobs/3168189/systems-development-engineer-amazon-enterprise-engineering-enterprise-engineering": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:52.430Z"
   },
   "https://www.amazon.jobs/en/jobs/3177934/software-development-engineer-2026-us": {
     "alive": true,
@@ -12287,9 +12287,9 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:26:10.330Z"
   },
-  "https://www.tesla.com/careers/search/job/262739": {
+  "https://www.tesla.com/careers/search/job/262815": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:03.024Z"
+    "checkedAt": "2026-08-19T23:58:52.434Z"
   },
   "https://www.google.com/about/careers/applications/jobs/results/143333237156913862-software-engineer-ii/": {
     "alive": true,
@@ -12311,17 +12311,17 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:26:10.712Z"
   },
-  "https://careers.twitch.com/en/career-posts/8334351002/": {
+  "https://www.tesla.com/careers/search/job/262739": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:03.027Z"
+    "checkedAt": "2026-08-19T23:58:52.441Z"
   },
   "https://jobs.ashbyhq.com/notion/a6311f97-4850-4674-a5f3-d9fe5f6f2555": {
     "alive": true,
     "checkedAt": "2026-08-19T18:26:10.828Z"
   },
-  "https://careers.twitch.com/en/career-posts/8360103002/": {
+  "https://www.tryprofound.com/careers/1d4a905b-7b91-4763-88dd-7abc7562fbcd": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:03.051Z"
+    "checkedAt": "2026-08-19T23:58:52.473Z"
   },
   "https://careers.appian.com/jobs/8041241-software-engineer--2027-graduates-": {
     "alive": true,
@@ -12341,7 +12341,7 @@
   },
   "https://www.tesla.com/careers/search/job/262209": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:03.058Z"
+    "checkedAt": "2026-08-19T23:58:52.482Z"
   },
   "https://jobs.lever.co/artera-2/eae88c70-fbf5-4525-890c-d3f9377418b0": {
     "alive": true,
@@ -12367,13 +12367,13 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:26:12.096Z"
   },
+  "https://jobs.uber.com/en/jobs/160017/?_csid=BOBcQVO6jwRuNsBKbjoAZA&effect=&sm_flow_id=92Yhskrz&state=xlA80FxvL-2272sFxrCsxXWLk7KQR60tJLE43FsTxHI%3D": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:52.488Z"
+  },
   "https://www.amazon.jobs/en/jobs/3170102/sde-i-creator-monetization": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:03.109Z"
-  },
-  "https://www.tryprofound.com/careers/1d4a905b-7b91-4763-88dd-7abc7562fbcd": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:44:03.118Z"
+    "checkedAt": "2026-08-19T23:58:52.605Z"
   },
   "https://jobright.ai/jobs/info/685c466bb6b7da281327301a?utm_source=1099&utm_campaign=Software%20Engineer": {
     "alive": true,
@@ -12683,32 +12683,32 @@
     "alive": true,
     "checkedAt": "2026-08-19T18:26:21.718Z"
   },
-  "https://jobs.uber.com/en/jobs/160017/?_csid=BOBcQVO6jwRuNsBKbjoAZA&effect=&sm_flow_id=92Yhskrz&state=xlA80FxvL-2272sFxrCsxXWLk7KQR60tJLE43FsTxHI%3D": {
+  "https://www.amazon.jobs/en/jobs/3171130/security-engineer-i-security-incident-response-team-sirt-security-incident-response-team-sirt": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:03.132Z"
+    "checkedAt": "2026-08-19T23:58:52.655Z"
+  },
+  "https://careers.circle.com/us/en/job/CIICIRUSJR100011EGEXTERNALENUS/New-Grad-Software-Engineer-Backend-2026": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:52.675Z"
   },
   "https://www.uber.com/global/en/careers/list/157785/": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:03.305Z"
-  },
-  "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002?fbclid=PAQ0xDSwK38VtleHRuA2FlbQIxMQABpwFCtP3w0jUMJ2UyUfRb7jqEW6gF5Rr31twvg5geVxUyYXlmmQrGSEf9O3Pw_aem_MfePXp-UnrQgRcTvm_Lh4Q": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:44:03.311Z"
-  },
-  "https://www.amazon.jobs/en/jobs/3171130/security-engineer-i-security-incident-response-team-sirt-security-incident-response-team-sirt": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:44:03.336Z"
-  },
-  "https://careers.cisco.com/global/en/job/1449197": {
-    "alive": false,
-    "checkedAt": "2026-08-19T23:44:03.403Z"
+    "checkedAt": "2026-08-19T23:58:52.691Z"
   },
   "https://job-boards.greenhouse.io/fiveringsllc/jobs/4806713008": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:03.417Z"
+    "checkedAt": "2026-08-19T23:58:52.702Z"
+  },
+  "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002?fbclid=PAQ0xDSwK38VtleHRuA2FlbQIxMQABpwFCtP3w0jUMJ2UyUfRb7jqEW6gF5Rr31twvg5geVxUyYXlmmQrGSEf9O3Pw_aem_MfePXp-UnrQgRcTvm_Lh4Q": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:52.702Z"
+  },
+  "https://careers.cisco.com/global/en/job/1449197": {
+    "alive": false,
+    "checkedAt": "2026-08-19T23:58:52.772Z"
   },
   "https://www.metacareers.com/jobs/2578176955882259": {
     "alive": false,
-    "checkedAt": "2026-08-19T23:44:03.841Z"
+    "checkedAt": "2026-08-19T23:58:52.806Z"
   }
 }

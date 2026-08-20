@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-19T23:43:18.825Z",
+  "generatedAt": "2026-08-19T23:58:05.642Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2718,
+  "jobCount": 2714,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2659,10 +2659,6 @@
     "canonical:dbfb22c1cc92cb7d": "2026-08-19T11:46:33.588Z",
     "canonical:dd3fb020a490b7c1": "2026-08-19T13:22:56.877Z",
     "canonical:7a6dc874ea4f88b6": "2026-08-19T14:49:45.988Z",
-    "canonical:3f44cd57fca349f6": "2026-08-19T17:46:55.464Z",
-    "canonical:1ae22981c8ef9f13": "2026-08-19T17:46:55.464Z",
-    "canonical:38067b315ddd4856": "2026-08-19T17:46:55.464Z",
-    "canonical:99a13e746f2a0a9f": "2026-08-19T17:46:55.464Z",
     "canonical:00053ae33decdf2c": "2026-08-19T18:18:16.150Z",
     "canonical:a858102d2c63ecc0": "2026-08-19T18:59:40.283Z",
     "canonical:6a36c703e1904fe8": "2026-08-19T18:59:40.283Z",
@@ -5545,20 +5541,6 @@
       ]
     },
     {
-      "id": "canonical:3f44cd57fca349f6",
-      "title": "Software Engineering Intern",
-      "url": "https://job-boards.greenhouse.io/mcghealth/jobs/8350486002",
-      "location": "Seattle, WA",
-      "department": "Software Engineering",
-      "company": "MCG Health",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:0bcde6c5e5e98b72",
       "title": "Software Engineer Intern - Ads Infrastructure",
       "url": "https://lifeattiktok.com/search/7572665884037826869",
@@ -6253,20 +6235,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:1ae22981c8ef9f13",
-      "title": "Software Engineering Intern - Test Automation",
-      "url": "https://job-boards.greenhouse.io/digs/jobs/4663939006",
-      "location": "Vancouver, WA",
-      "department": "Software Engineering",
-      "company": "Digs",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -15155,20 +15123,6 @@
       ]
     },
     {
-      "id": "canonical:38067b315ddd4856",
-      "title": "Software Engineering Intern",
-      "url": "https://job-boards.greenhouse.io/embed/job_app?for=gemini&token=7875125",
-      "location": "New York, NY",
-      "department": "",
-      "company": "Gemini",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:ee163e214703918f",
       "title": "Software Engineering Intern (Fall 2026)",
       "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4328555009",
@@ -15460,20 +15414,6 @@
       "location": "McKinney, TX",
       "department": "",
       "company": "RTX",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:99a13e746f2a0a9f",
-      "title": "Software Development Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003",
-      "location": "Tempe, AZ",
-      "department": "",
-      "company": "GoDaddy",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",

@@ -1,6 +1,6 @@
 # Open Internships
 
-**2718** internships across **188/188** companies — last updated 2026-08-19.
+**2714** internships across **188/188** companies — last updated 2026-08-19.
 
 ## Companies
 
@@ -280,7 +280,6 @@
 - [Dexmate](#dexmate) (1)
 - [DiDi Global](#didi-global) (1)
 - [Diesel Laptops](#diesel-laptops) (1)
-- [Digs](#digs) (1)
 - [Diverge Health](#diverge-health) (1)
 - [DMC Engineering](#dmc-engineering) (1)
 - [Dmg Media](#dmg-media) (1)
@@ -378,7 +377,7 @@
 - [GE Healthcare](#ge-healthcare) (1)
 - [GE Vernova](#ge-vernova) (2)
 - [Gecko Robotics](#gecko-robotics) (1)
-- [Gemini](#gemini) (2)
+- [Gemini](#gemini) (1)
 - [Generac](#generac) (3)
 - [General Dynamics](#general-dynamics) (1)
 - [General Dynamics Information Technology](#general-dynamics-information-technology) (8)
@@ -401,7 +400,6 @@
 - [GlobalFoundries](#globalfoundries) (2)
 - [Globus Medical](#globus-medical) (1)
 - [GM financial](#gm-financial) (2)
-- [GoDaddy](#godaddy) (1)
 - [Goldman Sachs](#goldman-sachs) (5)
 - [Google](#google) (10)
 - [Gradient Robotics](#gradient-robotics) (1)
@@ -590,7 +588,6 @@
 - [Maya HTT](#maya-htt) (2)
 - [McDonald's](#mcdonald-s) (1)
 - [McDonald's Corporation](#mcdonald-s-corporation) (1)
-- [MCG Health](#mcg-health) (1)
 - [Mechanize](#mechanize) (1)
 - [Medical College of Wisconsin](#medical-college-of-wisconsin) (1)
 - [Medpace](#medpace) (1)
@@ -3215,12 +3212,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer](https://jobs.smartrecruiters.com/DieselLaptops/743999719953833) | 93 | Dallas, TX | Software | 2026-08-18 |
 
-## Digs
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineering Intern - Test Automation](https://job-boards.greenhouse.io/digs/jobs/4663939006) | 93 | Vancouver, WA | Software Engineering | 2026-08-19 |
-
 ## Diverge Health
 
 | Title | Score | Location | Department | First seen |
@@ -3857,7 +3848,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineering Intern](https://job-boards.greenhouse.io/embed/job_app?for=gemini&token=7875125) | 93 | New York, NY | — | 2026-08-19 |
 | [Design Developer](https://boards.greenhouse.io/embed/job_app?for=gemini&token=7951195&gh_jid=7951195) | 93 | NYC | Software | 2026-08-18 |
 
 ## Generac
@@ -4018,12 +4008,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Development Engineer 1](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1991) | 85 | Arlington, TX / Irving, TX | Software | 2026-08-17 |
 | [Software Engineer 1 - Adobe Exp Platform](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260400) | 85 | Irving, TX | Software | 2026-08-17 |
-
-## GoDaddy
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Development Engineer Intern](https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003) | 93 | Tempe, AZ | — | 2026-08-19 |
 
 ## Goldman Sachs
 
@@ -5366,12 +5350,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer I, iOS](https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-iOS-IL-60607/1322170500/) | 85 | Chicago, IL | — | 2026-08-17 |
-
-## MCG Health
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineering Intern](https://job-boards.greenhouse.io/mcghealth/jobs/8350486002) | 93 | Seattle, WA | Software Engineering | 2026-08-19 |
 
 ## Mechanize
 
