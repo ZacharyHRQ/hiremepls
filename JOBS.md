@@ -1,6 +1,6 @@
 # Open Internships
 
-**2746** internships across **188/188** companies — last updated 2026-08-21.
+**2745** internships across **188/188** companies — last updated 2026-08-21.
 
 ## Companies
 
@@ -950,7 +950,7 @@
 - [Thorlabs](#thorlabs) (1)
 - [TickPick](#tickpick) (1)
 - [TIFIN](#tifin) (1)
-- [TikTok](#tiktok) (290)
+- [TikTok](#tiktok) (289)
 - [Tilde Research](#tilde-research) (2)
 - [Titan](#titan) (1)
 - [TJX](#tjx) (1)
@@ -2768,7 +2768,7 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern - Fall 2026](https://boards.greenhouse.io/cloudflare/jobs/8118855) | 93 | London, UK | Software | 2026-08-20 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
-| [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855) | 93 | In-Office | — | 2026-08-11 |
+| [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
 | [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
@@ -6473,8 +6473,8 @@
 | [Quantitative Developer](https://careers.point72.com/CSJobDetail?jobName=quantitative-developer&jobCode=CSS-0013369&location=New%20York&locale=English) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-08-17 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -8101,7 +8101,6 @@
 | [Data Scientist Graduate - TikTok Live](https://lifeattiktok.com/search/7669660107303684405) | 91 | San Jose, CA | AI/ML/Data | 2026-08-17 |
 | [Data Scientist Graduate - TikTok Platform Safety](https://lifeattiktok.com/search/7667074822035261749) | 91 | San Jose, CA | AI/ML/Data | 2026-08-17 |
 | [Data Scientist Graduate - TikTok Product](https://lifeattiktok.com/search/7669654422861383941) | 91 | San Jose, CA | AI/ML/Data | 2026-08-17 |
-| [Data Scientist Graduate - UG-Mid Platform](https://lifeattiktok.com/search/7668512600592812293) | 91 | San Jose, CA | AI/ML/Data | 2026-08-17 |
 | [Design Engineering Graduate](https://lifeattiktok.com/search/7667837906192877829) | 91 | San Jose, CA | Software | 2026-08-17 |
 | [Frontend Engineer Graduate, Trust and Safety](https://lifeattiktok.com/search/7534826542867106066?spread=5MWH5CQ) | 91 | San Jose, CA | — | 2026-08-17 |
 | [Frontend Engineer Graduate, Trust and Safety](https://lifeattiktok.com/search/7530759729113680135?spread=5MWH5CQ) | 91 | Seattle, WA | — | 2026-08-17 |
