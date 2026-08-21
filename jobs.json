@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T16:19:54.438Z",
+  "generatedAt": "2026-08-21T16:57:56.617Z",
   "companyCount": 188,
   "okCount": 188,
   "jobCount": 2744,
@@ -2716,8 +2716,6 @@
     "canonical:40007bce3129233b": "2026-08-21T10:25:43.461Z",
     "canonical:7c204776b3c470b4": "2026-08-21T10:25:43.461Z",
     "canonical:a356ac432d4a0c77": "2026-08-21T10:54:38.893Z",
-    "canonical:6bfceb9505eec608": "2026-08-21T10:54:38.893Z",
-    "canonical:2e256a1d7b96ae64": "2026-08-21T10:54:38.893Z",
     "canonical:c0f4dca09fdb8deb": "2026-08-21T11:16:34.388Z",
     "canonical:c076cb07681d0506": "2026-08-21T11:49:02.405Z",
     "canonical:d1da7b2ac572df8f": "2026-08-21T13:23:53.905Z",
@@ -2747,7 +2745,9 @@
     "canonical:b4ff19a7527112e4": "2026-08-21T16:19:54.438Z",
     "canonical:9b5c63e8f7eab003": "2026-08-21T16:19:54.438Z",
     "canonical:fc32f4951c97b021": "2026-08-21T16:19:54.438Z",
-    "canonical:f83d76dbf5399d95": "2026-08-21T16:19:54.438Z"
+    "canonical:f83d76dbf5399d95": "2026-08-21T16:19:54.438Z",
+    "canonical:01f1277947cfc5b2": "2026-08-21T16:57:56.617Z",
+    "canonical:e1cb819b5b9c30a1": "2026-08-21T16:57:56.617Z"
   },
   "jobs": [
     {
@@ -7687,19 +7687,6 @@
       "location": "Remote in US",
       "department": "Software Engineering",
       "company": "VetsEZ",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:6bfceb9505eec608",
-      "title": "Intern – Software Engineering",
-      "url": "https://jobsearch.harman.com/en_US/careers/JobDetail/Intern-Software-Engineering/31931",
-      "location": "Sunnyvale, CA",
-      "department": "Software Engineering",
-      "company": "HARMAN",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -30145,6 +30132,20 @@
       ]
     },
     {
+      "id": "canonical:01f1277947cfc5b2",
+      "title": "Data Warehouse Software Engineer",
+      "url": "https://job-boards.greenhouse.io/babelstreet/jobs/8120325",
+      "location": "Somerville, MA",
+      "department": "AI/ML/Data",
+      "company": "Babel Street",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:eaa6a78991304e34",
       "title": "Software Engineer Graduate - AML-Engine-Orchestration - PhD",
       "url": "https://jobs.bytedance.com/en/position/7671160649137588485/detail",
@@ -38941,19 +38942,6 @@
       ]
     },
     {
-      "id": "canonical:2e256a1d7b96ae64",
-      "title": "Data Engineer, Analytics",
-      "url": "https://www.metacareers.com/jobs/2578176955882259",
-      "location": "New York, NY",
-      "department": "",
-      "company": "Meta",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:9d8d7ee6071b0068",
       "title": "Software Engineer, Backend",
       "url": "https://jobs.ashbyhq.com/clipboard/b83ea62e-f143-4673-a741-3e98e7e083bd",
@@ -39518,6 +39506,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:e1cb819b5b9c30a1",
+      "title": "Software Engineer, Intern (Summer 2026)",
+      "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002?fbclid=PAQ0xDSwK38VtleHRuA2FlbQIxMQABpwFCtP3w0jUMJ2UyUfRb7jqEW6gF5Rr31twvg5geVxUyYXlmmQrGSEf9O3Pw_aem_MfePXp-UnrQgRcTvm_Lh4Q",
+      "location": "Chicago",
+      "department": "",
+      "company": "Citadel",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {

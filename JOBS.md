@@ -117,6 +117,7 @@
 - [Axon](#axon) (1)
 - [Axos Bank](#axos-bank) (2)
 - [AXQ Capital](#axq-capital) (1)
+- [Babel Street](#babel-street) (1)
 - [Backbone Systems](#backbone-systems) (1)
 - [Baker Hughes](#baker-hughes) (1)
 - [Balyasny Asset Management](#balyasny-asset-management) (1)
@@ -208,6 +209,7 @@
 - [Circleback](#circleback) (1)
 - [Cirrus Logic](#cirrus-logic) (1)
 - [Cisco](#cisco) (3)
+- [Citadel](#citadel) (1)
 - [Citi](#citi) (1)
 - [Citizen Health](#citizen-health) (1)
 - [City and County of San Francisco](#city-and-county-of-san-francisco) (1)
@@ -416,7 +418,6 @@
 - [Gulfstream](#gulfstream) (1)
 - [Haize Labs](#haize-labs) (1)
 - [Handshake](#handshake) (1)
-- [HARMAN](#harman) (1)
 - [HarmonyTech](#harmonytech) (1)
 - [Harris Computer](#harris-computer) (1)
 - [Harvey](#harvey) (1)
@@ -607,7 +608,7 @@
 - [Mercor](#mercor) (1)
 - [Meshy](#meshy) (2)
 - [Mesotech International](#mesotech-international) (1)
-- [Meta](#meta) (8)
+- [Meta](#meta) (7)
 - [METECS](#metecs) (1)
 - [Meticulous](#meticulous) (1)
 - [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (1)
@@ -1938,6 +1939,12 @@
 | --- | --- | --- | --- | --- |
 | [Quantitative Developer](https://job-boards.greenhouse.io/axq/jobs/5575451004) | 93 | NYC | Quant | 2026-08-17 |
 
+## Babel Street
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data Warehouse Software Engineer](https://job-boards.greenhouse.io/babelstreet/jobs/8120325) | 93 | Somerville, MA | AI/ML/Data | 2026-08-21 |
+
 ## Backbone Systems
 
 | Title | Score | Location | Department | First seen |
@@ -2733,6 +2740,12 @@
 | [Software Engineer 3 - ENG/CPO/WTG ETR](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-III--Full-Time----United-States-ENG-CPO-WTG-ETR_2022055) | 93 | Milpitas, CA | Hardware | 2026-08-21 |
 | [Data Science Engineer 2](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Data-Science-Engineer-II---Full-Time----United-States_2023062) | 93 | San Jose, CA | AI/ML/Data | 2026-08-18 |
 | [Data Science Engineer 2 - Full Time](https://careers.cisco.com/global/en/job/2023062) | 85 | San Jose, CA | AI/ML/Data | 2026-08-18 |
+
+## Citadel
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer, Intern (Summer 2026)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002?fbclid=PAQ0xDSwK38VtleHRuA2FlbQIxMQABpwFCtP3w0jUMJ2UyUfRb7jqEW6gF5Rr31twvg5geVxUyYXlmmQrGSEf9O3Pw_aem_MfePXp-UnrQgRcTvm_Lh4Q) | 93 | Chicago | — | 2026-08-21 |
 
 ## Citi
 
@@ -4145,12 +4158,6 @@
 | --- | --- | --- | --- | --- |
 | [Associate Software Engineer](https://jobs.ashbyhq.com/handshake/fe319ff8-87e1-46d9-b23e-4b78cf6086f8/application?embed=true) | 93 | SF | Software | 2026-08-17 |
 
-## HARMAN
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Intern – Software Engineering](https://jobsearch.harman.com/en_US/careers/JobDetail/Intern-Software-Engineering/31931) | 85 | Sunnyvale, CA | Software Engineering | 2026-08-21 |
-
 ## HarmonyTech
 
 | Title | Score | Location | Department | First seen |
@@ -5508,7 +5515,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Data Engineer, Analytics](https://www.metacareers.com/jobs/2578176955882259) | 85 | New York, NY | — | 2026-08-21 |
 | [Research Scientist Intern - Photorealistic Telepresence](https://www.metacareers.com/jobs/924149567345400) | 85 | London, UK | AI/ML/Data | 2026-08-01 |
 | [Research Scientist Intern - State Estimation for Dexterous Manipulation](https://www.metacareers.com/jobs/2774289902955470) | 85 | Redmond, WA | AI/ML/Data | 2026-08-01 |
 | [Research Scientist Intern - AI/ML - Core Ads Growth](https://www.metacareers.com/jobs/771948392580541) | 85 | London, UK | AI/ML/Data | 2026-08-01 |
