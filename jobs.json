@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-21T15:55:10.771Z",
+  "generatedAt": "2026-08-21T16:19:54.438Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2739,
+  "jobCount": 2744,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2587,7 +2587,6 @@
     "canonical:d8acdf124c8d58bd": "2026-08-20T10:23:03.123Z",
     "canonical:2956aa5be4a2fffb": "2026-08-20T10:23:03.123Z",
     "canonical:670d77aad2bffdab": "2026-08-20T10:23:03.123Z",
-    "canonical:edeba2e34721634d": "2026-08-20T13:25:05.116Z",
     "canonical:8e3cd7d52ef739df": "2026-08-20T14:06:16.720Z",
     "canonical:69407ebd4e6d37de": "2026-08-20T15:23:38.471Z",
     "canonical:f1319d05ce27b81f": "2026-08-20T15:23:38.471Z",
@@ -2742,7 +2741,13 @@
     "canonical:4d878d0638b6bc78": "2026-08-21T15:55:10.771Z",
     "canonical:532a16a768d51ef9": "2026-08-21T15:55:10.771Z",
     "canonical:db65be0201afeab6": "2026-08-21T15:55:10.771Z",
-    "canonical:38167c44fa9a2c8a": "2026-08-21T15:55:10.771Z"
+    "canonical:38167c44fa9a2c8a": "2026-08-21T15:55:10.771Z",
+    "canonical:22b0039bb659c527": "2026-08-21T16:19:54.438Z",
+    "canonical:f0e3255814f6d721": "2026-08-21T16:19:54.438Z",
+    "canonical:b4ff19a7527112e4": "2026-08-21T16:19:54.438Z",
+    "canonical:9b5c63e8f7eab003": "2026-08-21T16:19:54.438Z",
+    "canonical:fc32f4951c97b021": "2026-08-21T16:19:54.438Z",
+    "canonical:f83d76dbf5399d95": "2026-08-21T16:19:54.438Z"
   },
   "jobs": [
     {
@@ -4627,6 +4632,20 @@
       ]
     },
     {
+      "id": "canonical:22b0039bb659c527",
+      "title": "软件开发工程师, 上海, (New graduate or Entry-level Engineer, 0-2 Years)",
+      "url": "https://amazon.jobs/en/jobs/10510140/new-graduate-or-entry-level-engineer-0-2-years",
+      "location": "Shanghai",
+      "department": "Software Development",
+      "company": "Amazon",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
+      ]
+    },
+    {
       "id": "canonical:08e9bf362f5945b7",
       "title": "Software Dev Engineer Intern Machine Learning, Amazon Robotics",
       "url": "https://amazon.jobs/en/jobs/10401402/software-dev-engineer-intern-machine-learning-amazon-robotics",
@@ -5261,10 +5280,10 @@
       ]
     },
     {
-      "id": "canonical:62beda5aaf0fcc6c",
+      "id": "canonical:e8a5b9fc6e1a4de2",
       "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
-      "location": "Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
+      "location": "Bengaluru",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -5274,10 +5293,10 @@
       ]
     },
     {
-      "id": "canonical:e8a5b9fc6e1a4de2",
+      "id": "canonical:62beda5aaf0fcc6c",
       "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
-      "location": "Bengaluru",
+      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
+      "location": "Dublin",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -15752,6 +15771,75 @@
       "location": "San Francisco, CA",
       "department": "",
       "company": "Kastle",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f0e3255814f6d721",
+      "title": "Software Engineering Intern",
+      "url": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2027-start---winter-8732364002?gh_jid=8732364002",
+      "location": "Bellevue, Washington / Mountain View, California / San Francisco, California",
+      "department": "",
+      "company": "Databricks",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:b4ff19a7527112e4",
+      "title": "Data Engineer Intern, DA&AI Co-Op",
+      "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65838",
+      "location": "Camden, NJ",
+      "department": "",
+      "company": "Campbell Soup Company",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:9b5c63e8f7eab003",
+      "title": "Software Engineer Intern, Team Pickle",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Pickle---Winter-2027_R249013",
+      "location": "Toronto, ON",
+      "department": "",
+      "company": "Capital One",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:fc32f4951c97b021",
+      "title": "Software Engineer Intern, Mobile",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Mobile-Software-Engineer---Team-Gringotts-North---Winter-2027_R249015",
+      "location": "Toronto, ON",
+      "department": "",
+      "company": "Capital One",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f83d76dbf5399d95",
+      "title": "Backend Software Engineer Intern, Team Interstellar",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Interstellar---Winter-2027_R249022",
+      "location": "Toronto, ON",
+      "department": "",
+      "company": "Capital One",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -35055,19 +35143,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:edeba2e34721634d",
-      "title": "Forward Deployed AI Engineer - Campus",
-      "url": "https://careers.bcg.com/global/en/job/59067",
-      "location": "Boston, MA / Seattle, WA / Washington, DC / SF / LA / Miami, FL / Dallas, TX / Chicago, IL / Pittsburgh, PA / NYC / Brooklyn, NY / Manhattan Beach, CA",
-      "department": "Software",
-      "company": "Boston Consulting Group",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {

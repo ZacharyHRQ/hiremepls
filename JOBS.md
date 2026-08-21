@@ -1,6 +1,6 @@
 # Open Internships
 
-**2739** internships across **188/188** companies — last updated 2026-08-21.
+**2744** internships across **188/188** companies — last updated 2026-08-21.
 
 ## Companies
 
@@ -42,7 +42,7 @@
 - [Alta Ares](#alta-ares) (1)
 - [Altice USA](#altice-usa) (2)
 - [AMAX](#amax) (1)
-- [Amazon](#amazon) (44)
+- [Amazon](#amazon) (45)
 - [Ambarella](#ambarella) (1)
 - [Amcor](#amcor) (1)
 - [AMD](#amd) (9)
@@ -158,7 +158,7 @@
 - [Bosch](#bosch) (3)
 - [Bosch Home Comfort](#bosch-home-comfort) (1)
 - [Boson Ai](#boson-ai) (1)
-- [Boston Consulting Group](#boston-consulting-group) (4)
+- [Boston Consulting Group](#boston-consulting-group) (3)
 - [Boston Engineering](#boston-engineering) (1)
 - [Boston Scientific](#boston-scientific) (1)
 - [Bot Auto](#bot-auto) (3)
@@ -175,6 +175,7 @@
 - [Caddi Workflow Automation](#caddi-workflow-automation) (1)
 - [Cadence Design Systems](#cadence-design-systems) (8)
 - [Calpion/Plutus Health](#calpion-plutus-health) (1)
+- [Campbell Soup Company](#campbell-soup-company) (1)
 - [Candid Health](#candid-health) (2)
 - [Canonical](#canonical) (4)
 - [Cantor Fitzgerald](#cantor-fitzgerald) (1)
@@ -182,7 +183,7 @@
 - [Cape](#cape) (1)
 - [Capgemini](#capgemini) (4)
 - [Capital Health](#capital-health) (1)
-- [Capital One](#capital-one) (4)
+- [Capital One](#capital-one) (7)
 - [Captivation](#captivation) (1)
 - [CaptiveAire Systems](#captiveaire-systems) (3)
 - [CarbonChain](#carbonchain) (1)
@@ -260,7 +261,7 @@
 - [Da Vinci](#da-vinci) (1)
 - [Daikin Applied](#daikin-applied) (1)
 - [Dark Wolf Solutions](#dark-wolf-solutions) (2)
-- [Databricks](#databricks) (3)
+- [Databricks](#databricks) (4)
 - [Datadog](#datadog) (1)
 - [Datalab USA](#datalab-usa) (1)
 - [DE Shaw](#de-shaw) (1)
@@ -1338,6 +1339,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [软件开发工程师, 上海, (New graduate or Entry-level Engineer, 0-2 Years)](https://amazon.jobs/en/jobs/10510140/new-graduate-or-entry-level-engineer-0-2-years) | 91 | Shanghai | Software Development | 2026-08-21 |
 | [Software Dev Engineer Intern Machine Learning, Amazon Robotics](https://amazon.jobs/en/jobs/10401402/software-dev-engineer-intern-machine-learning-amazon-robotics) | 85 | Berlin | Software Development | 2026-08-21 |
 | [【Class of 2028 & 2029／Internship】Software Development Engineers , Amazon International Stores](https://amazon.jobs/en/jobs/10503558/class-of-2028-2029-internship-software-development-engineers-amazon-international-stores) | 85 | Tokyo | Systems, Quality, & Security Engineering | 2026-08-18 |
 | [EFA Network Software Engineer 1 - Annapurna Labs](https://amazon.jobs/en/jobs/10481932/efa-network-software-engineer-i-annapurna-labs) | 85 | Seattle, WA | Software | 2026-08-17 |
@@ -2202,7 +2204,6 @@
 | --- | --- | --- | --- | --- |
 | [Data Scientist Intern](https://careers.bcg.com/global/en/job/56634) | 85 | London, UK | AI/ML/Data | 2026-08-21 |
 | [Forward Deployed AI Scientist - Campus](https://careers.bcg.com/global/en/job/59068) | 85 | Boston, MA / Seattle, WA / Washington, DC / SF / LA / Miami, FL / Dallas, TX / Chicago, IL / Pittsburgh, PA / NYC / Brooklyn, NY / Manhattan Beach, CA | AI/ML/Data | 2026-08-21 |
-| [Forward Deployed AI Engineer - Campus](https://careers.bcg.com/global/en/job/59067) | 85 | Boston, MA / Seattle, WA / Washington, DC / SF / LA / Miami, FL / Dallas, TX / Chicago, IL / Pittsburgh, PA / NYC / Brooklyn, NY / Manhattan Beach, CA | Software | 2026-08-20 |
 | [AI Engineer Intern - BCG X](https://careers.bcg.com/global/en/job/56635) | 85 | London, UK | AI/ML/Data | 2026-08-15 |
 
 ## Boston Engineering
@@ -2494,6 +2495,12 @@
 | --- | --- | --- | --- | --- |
 | [AI Engineering Intern - Python & Agentic AI](https://calpionplutus.bamboohr.com/careers/310/) | 85 | Dallas, TX | Software | 2026-08-13 |
 
+## Campbell Soup Company
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data Engineer Intern, DA&AI Co-Op](https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65838) | 93 | Camden, NJ | — | 2026-08-21 |
+
 ## Candid Health
 
 | Title | Score | Location | Department | First seen |
@@ -2554,6 +2561,9 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Backend Software Engineer Intern, Team Interstellar](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Interstellar---Winter-2027_R249022) | 93 | Toronto, ON | — | 2026-08-21 |
+| [Software Engineer Intern, Mobile](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Mobile-Software-Engineer---Team-Gringotts-North---Winter-2027_R249015) | 93 | Toronto, ON | — | 2026-08-21 |
+| [Software Engineer Intern, Team Pickle](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Pickle---Winter-2027_R249013) | 93 | Toronto, ON | — | 2026-08-21 |
 | [Backend Software Engineer Intern - Team Interstellar](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Interstellar---Winter-2027_R249022) | 93 | Toronto, ON, Canada | Software | 2026-08-17 |
 | [Full Stack Software Engineer Intern - Team Integrated Sprout](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Integrated-Sprout---Winter-2027_R249010) | 93 | Toronto, ON, Canada | Software | 2026-08-17 |
 | [Full Stack Software Engineer Intern - Team Pickle](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Pickle---Winter-2027_R249013) | 93 | Toronto, ON, Canada | Software | 2026-08-17 |
@@ -3083,6 +3093,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineering Intern](https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2027-start---winter-8732364002?gh_jid=8732364002) | 85 | Bellevue, Washington / Mountain View, California / San Francisco, California | — | 2026-08-21 |
 | [Software Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=8732364002) | 93 | SF / Bellevue, WA / Mountain View, CA | Software | 2026-08-21 |
 | [Software Engineering Intern (2027 Start) - Winter](https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002) | 85 | Bellevue, Washington; Mountain View, California; San Francisco, California | — | 2026-08-20 |
 | [PhD GenAI Research Scientist Intern](https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002) | 75 | San Francisco, California | — | 2026-05-06 |

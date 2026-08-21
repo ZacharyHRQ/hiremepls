@@ -120,8 +120,8 @@
     "7e0dafe8-3eec-442e-aa76-a4d84d779fb1"
   ],
   "Stripe": [
-    "8097801",
-    "8031833"
+    "8031833",
+    "8097801"
   ],
   "Databricks": [
     "7011263002",
@@ -1285,7 +1285,16 @@
     "vansh:cce8b4d4-483a-4493-bfa0-b352d4800928",
     "vansh:402dc9c0-a793-4251-91f2-671f344534d0",
     "vansh:7b2a02cc-3617-4263-b478-bbfbe59374be",
-    "vansh:b2edd378-9d95-4295-a2b7-849e12c932aa"
+    "vansh:b2edd378-9d95-4295-a2b7-849e12c932aa",
+    "vansh:c045a1de-0845-4fb4-8d88-73b2d41f0ca4",
+    "vansh:28af251c-8db7-41ae-95be-ef6230397853",
+    "vansh:546c4a60-2ac8-438f-ab80-a1426327fd62",
+    "vansh:d6288825-2aef-4086-b1b6-f29bf66edfb8",
+    "vansh:26dc04ff-78b4-4078-a223-a25add01bb70",
+    "vansh:b28ad3d6-dc11-46a0-8b90-945829de7543",
+    "vansh:9ed4ac46-4e59-4e9f-a06a-63a2fea39a34",
+    "vansh:ab806a40-3173-438c-b929-7cb4e21780ed",
+    "vansh:3cfb4048-a938-4850-b6b0-b3f227565a56"
   ],
   "Rethinkjobs Summer 2026": [
     "github-md:rethinkjobs-summer-2026:c75f085c318b",
@@ -1524,6 +1533,7 @@
     "5187605007"
   ],
   "Amazon": [
+    "10510140",
     "10401402",
     "10503558",
     "3134271",
@@ -4850,7 +4860,6 @@
     "simplify:10f2d7ca-1d2b-4654-a856-6e71168cdd7d",
     "simplify:cb2e6fa3-bfdc-4488-ae12-4f2fba3bc1c8",
     "simplify:2c715da0-fadf-4c6d-870a-68fb4e8f0eee",
-    "simplify:f6f17706-f32e-4624-8175-889945a160e5",
     "simplify:a1dfbc6b-cfc4-4f12-9930-a8f28dfba7c9",
     "simplify:c8c30733-c4c8-42b2-8665-fbbf5743b33d",
     "simplify:c86d490b-4b50-4436-9a7b-0d6287bbb4ca",
