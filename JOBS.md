@@ -1,6 +1,6 @@
 # Open Internships
 
-**2745** internships across **188/188** companies — last updated 2026-08-21.
+**2741** internships across **188/188** companies — last updated 2026-08-21.
 
 ## Companies
 
@@ -662,7 +662,7 @@
 - [North Star Staffing Solutions](#north-star-staffing-solutions) (1)
 - [Northeastern](#northeastern) (1)
 - [Northeastern University](#northeastern-university) (1)
-- [Northrop Grumman](#northrop-grumman) (26)
+- [Northrop Grumman](#northrop-grumman) (25)
 - [Northwestern Mutual](#northwestern-mutual) (1)
 - [Northwood Space](#northwood-space) (1)
 - [Notion](#notion) (17)
@@ -755,7 +755,7 @@
 - [Quadient](#quadient) (1)
 - [Quadric](#quadric) (1)
 - [Quadrillion](#quadrillion) (2)
-- [Qualcomm](#qualcomm) (20)
+- [Qualcomm](#qualcomm) (19)
 - [Qualcomm Canada ULC](#qualcomm-canada-ulc) (1)
 - [Qualcomm Innovation Center, Inc.](#qualcomm-innovation-center-inc) (1)
 - [Qualcomm Technologies, Inc.](#qualcomm-technologies-inc) (2)
@@ -810,7 +810,7 @@
 - [Royal Bank of Canada](#royal-bank-of-canada) (2)
 - [Royal Caribbean Group](#royal-caribbean-group) (1)
 - [RRS Group](#rrs-group) (2)
-- [RTX](#rtx) (51)
+- [RTX](#rtx) (50)
 - [RunSybil](#runsybil) (1)
 - [Ryder System](#ryder-system) (1)
 - [SA Technologies](#sa-technologies) (2)
@@ -888,7 +888,6 @@
 - [SquareTrade](#squaretrade) (1)
 - [Starbucks](#starbucks) (2)
 - [State Farm](#state-farm) (1)
-- [State of Nebraska](#state-of-nebraska) (1)
 - [State Street](#state-street) (2)
 - [Stellar Science](#stellar-science) (2)
 - [STEM Xpert](#stem-xpert) (1)
@@ -5886,7 +5885,6 @@
 | [Associate Software Engineer/Software Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2026-Associate-Software-Engineer-Software-Engineer_R10246591) | 93 | Redondo Beach, CA / Palmdale, CA / Oklahoma City, OK / San Diego, CA / Emerado, ND / El Segundo, CA | Software | 2026-08-19 |
 | [Software Engineer / User Experience Applications](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Software-Engineer---User-Experience-Applications_R10236991-1) | 93 | Oklahoma City, OK / San Diego, CA | Software | 2026-08-19 |
 | [Associate Systems Modeling & Simulation Engineer/Systems Modeling & Simulation Engineer - Test & Evaluation](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Systems-Modeling---Simulation-Engineer-Systems-Modeling---Simulation-Engineer_R10246372) | 93 | Melbourne, FL | Software | 2026-08-18 |
-| [Associate Cyber Software Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis-Junction/XMLNAME-2026----Associate-Cyber-Software-Engineer---Annapolis-Junction-MD_R10243399) | 93 | Annapolis Junction, MD | Software | 2026-08-18 |
 | [Embedded Software Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/Associate----Engineer-Embedded-Software_R10245875) | 93 | Warner Robins, GA / Beavercreek, OH | Hardware | 2026-08-17 |
 | [Embedded Software Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Associate---Engineer-Embedded-Software_R10245880) | 93 | Oklahoma City, OK | Hardware | 2026-08-17 |
 | [Associate Software Engineer / Software Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027--Associate-Software-Engineer---Software-Engineer_R10243060) | 93 | Melbourne, FL | Software | 2026-08-17 |
@@ -6678,7 +6676,6 @@
 | [System AI Engineer New Grad - Display - ASICS Engineering](https://qualcomm.eightfold.ai/careers/job/446718599884) | 81 | Markham, ON, Canada | Hardware | 2026-08-17 |
 | [Camera Firmware Engineer - Camera Engineering](https://qualcomm.eightfold.ai/careers/job/446719364433) | 75 | San Diego, CA | Hardware | 2026-08-17 |
 | [Senior ASIC Design Verification Engineer - Compute DSP/AI Processors - ASICS Engineering](https://qualcomm.eightfold.ai/careers/job/446720188585) | 75 | Markham, ON, Canada | Hardware | 2026-08-17 |
-| [System Level Test Engineer - Hardware Engineering](https://qualcomm.eightfold.ai/careers/job/446718848199) | 75 | San Diego, CA | Hardware | 2026-08-17 |
 | [System Performance Modeling Engineer - ASICS Engineering](https://qualcomm.eightfold.ai/careers/job/446715371689) | 75 | San Diego, CA | Hardware | 2026-08-17 |
 
 ## Qualcomm Canada ULC
@@ -7083,7 +7080,6 @@
 | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I--Onsite-_01865026-1) | 93 | Tucson, AZ | Software | 2026-08-17 |
 | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Software-Engineer-I--Onsite-_01866786) | 93 | Goleta, CA | Hardware | 2026-08-17 |
 | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineer-I--Onsite-_01867438) | 93 | Fullerton, CA | Software | 2026-08-17 |
-| [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01867385) | 93 | San Jose, CA | Software | 2026-08-17 |
 | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Software-Engineer-I--Onsite-_01865467) | 93 | East Hartford, CT | Hardware | 2026-08-17 |
 | [Software Engineer 2](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/XMLNAME-2026-Fulltime-Raytheon-Software-Engineer-II---Test-Equipment---Onsite_01790413) | 93 | Tucson, AZ | Software | 2026-08-17 |
 | [Software Engineer 2](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/XMLNAME-2027-Conversion---Software-Engineer-II---St-Petersburg--FL--Onsite-_01860305) | 93 | St. Petersburg, FL | Hardware | 2026-08-17 |
@@ -7642,12 +7638,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer - iOS](https://jobs.statefarm.com/jobs/44950?icims=1) | 85 | Tempe, AZ / Dunwoody, GA / Richardson, TX / Bloomington, IL | Software | 2026-08-17 |
-
-## State of Nebraska
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [IT Applications Developer - Public Health](https://son.wd108.myworkdayjobs.com/NebraskaStateCareers/job/Lincoln-NE/IT-Applications-Developer---Public-Health_JR2026-00028657) | 93 | Lincoln, NE | Software | 2026-08-17 |
 
 ## State Street
 

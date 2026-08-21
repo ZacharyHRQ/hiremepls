@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-21T05:23:11.409Z",
+  "generatedAt": "2026-08-21T05:54:08.922Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2745,
+  "jobCount": 2741,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1718,7 +1718,6 @@
     "canonical:4fd58bea8bea4fd7": "2026-08-17T16:14:31.608Z",
     "canonical:fb23544520e26e25": "2026-08-17T16:14:31.608Z",
     "canonical:04ba103dc0defa83": "2026-08-17T16:14:31.608Z",
-    "canonical:1fe5a10089cebcfe": "2026-08-17T16:14:31.608Z",
     "canonical:1b7f719194a5c510": "2026-08-17T16:14:31.608Z",
     "canonical:4b165e836087cd17": "2026-08-17T16:14:31.608Z",
     "canonical:331650cfa05fb696": "2026-08-17T16:14:31.608Z",
@@ -1995,7 +1994,6 @@
     "canonical:37d1587c4e2b623d": "2026-08-17T16:14:31.608Z",
     "canonical:a927742895277d47": "2026-08-17T16:14:31.608Z",
     "canonical:95f2f5d3f5531789": "2026-08-17T16:14:31.608Z",
-    "canonical:2f096c49f4fcbd3e": "2026-08-17T16:14:31.608Z",
     "canonical:5d7d3e024ceff487": "2026-08-17T16:14:31.608Z",
     "canonical:078f29fd4077dc7f": "2026-08-17T16:14:31.608Z",
     "canonical:1587526f46eff841": "2026-08-17T16:14:31.608Z",
@@ -2067,7 +2065,6 @@
     "canonical:975e457d87666b50": "2026-08-17T16:14:31.608Z",
     "canonical:ce643fd334aa509c": "2026-08-17T16:14:31.608Z",
     "canonical:34f26ea49943bc76": "2026-08-17T16:14:31.608Z",
-    "canonical:3ecc7cc895551179": "2026-08-17T16:14:31.608Z",
     "canonical:16f03335e9224bd0": "2026-08-17T16:14:31.608Z",
     "canonical:f3ba0dab3d1890be": "2026-08-17T16:14:31.608Z",
     "canonical:760df593b758dd84": "2026-08-17T16:14:31.608Z",
@@ -2472,7 +2469,6 @@
     "canonical:e86e40624ec28eed": "2026-08-18T14:05:04.677Z",
     "canonical:3b8c38ed20a3b7b2": "2026-08-18T15:20:42.496Z",
     "canonical:70507c79b6afa2de": "2026-08-18T15:53:45.928Z",
-    "canonical:03c3caf767d81c23": "2026-08-18T15:53:45.928Z",
     "canonical:c6062debf2a20902": "2026-08-18T22:46:41.666Z",
     "canonical:b193cf2d6a74bfb1": "2026-08-18T22:46:41.666Z",
     "canonical:652897c1ffbfd3a4": "2026-08-18T22:46:41.666Z",
@@ -27165,20 +27161,6 @@
       ]
     },
     {
-      "id": "canonical:03c3caf767d81c23",
-      "title": "Associate Cyber Software Engineer",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis-Junction/XMLNAME-2026----Associate-Cyber-Software-Engineer---Annapolis-Junction-MD_R10243399",
-      "location": "Annapolis Junction, MD",
-      "department": "Software",
-      "company": "Northrop Grumman",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:4601c7f746e1356d",
       "title": "Product Engineer - Design Evaluation",
       "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Engineer---RF-System_R263805",
@@ -28032,18 +28014,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:1fe5a10089cebcfe",
-      "title": "System Level Test Engineer - Hardware Engineering",
-      "url": "https://qualcomm.eightfold.ai/careers/job/446718848199",
-      "location": "San Diego, CA",
-      "department": "Hardware",
-      "company": "Qualcomm",
-      "score": 75,
-      "scoreReasons": [
-        "SWE-aligned"
       ]
     },
     {
@@ -32240,20 +32210,6 @@
       ]
     },
     {
-      "id": "canonical:2f096c49f4fcbd3e",
-      "title": "IT Applications Developer - Public Health",
-      "url": "https://son.wd108.myworkdayjobs.com/NebraskaStateCareers/job/Lincoln-NE/IT-Applications-Developer---Public-Health_JR2026-00028657",
-      "location": "Lincoln, NE",
-      "department": "Software",
-      "company": "State of Nebraska",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:1587526f46eff841",
       "title": "Application Engineer - Service Management Operations Group",
       "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Wilmington-DE/Analyst--Application-Engineer_R266106",
@@ -33322,20 +33278,6 @@
       "location": "London, UK",
       "department": "AI/ML/Data",
       "company": "AstraZeneca",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:3ecc7cc895551179",
-      "title": "Software Engineer 1",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01867385",
-      "location": "San Jose, CA",
-      "department": "Software",
-      "company": "RTX",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
