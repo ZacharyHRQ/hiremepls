@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-21T08:54:58.493Z",
+  "generatedAt": "2026-08-21T09:25:10.442Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2746,
+  "jobCount": 2740,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -748,7 +748,6 @@
     "canonical:34ef3678784b30e7": "2026-08-15T01:15:49.054Z",
     "canonical:ede3c9bcfe0a75a0": "2026-08-15T01:15:49.054Z",
     "canonical:74a1cfd9e650ba51": "2026-08-15T02:29:09.220Z",
-    "canonical:7157582e262b9981": "2026-08-15T02:29:09.220Z",
     "canonical:dd330df63152542e": "2026-08-15T02:29:09.220Z",
     "canonical:b27fb17837ea07bb": "2026-08-15T02:29:09.220Z",
     "canonical:aebba111be1ddc7b": "2026-08-15T02:29:09.220Z",
@@ -1316,7 +1315,6 @@
     "canonical:570c0b488a15e7d2": "2026-08-17T16:14:31.608Z",
     "canonical:2eca8f08082d6a76": "2026-08-17T16:14:31.608Z",
     "canonical:815d19e16efa0c10": "2026-08-17T16:14:31.608Z",
-    "canonical:9837ae6b94e4f435": "2026-08-17T16:14:31.608Z",
     "canonical:1670b83ef82febce": "2026-08-17T16:14:31.608Z",
     "canonical:25797b19cf0cc56e": "2026-08-17T16:14:31.608Z",
     "canonical:0a8102ecc69904d1": "2026-08-17T16:14:31.608Z",
@@ -1683,7 +1681,6 @@
     "canonical:25ac28e85783f0a1": "2026-08-17T16:14:31.608Z",
     "canonical:763a8d624491d52e": "2026-08-17T16:14:31.608Z",
     "canonical:be146a97fabf93f8": "2026-08-17T16:14:31.608Z",
-    "canonical:e796ad0276e885c3": "2026-08-17T16:14:31.608Z",
     "canonical:d705e9895d92cb9a": "2026-08-17T16:14:31.608Z",
     "canonical:b522d24a128fb762": "2026-08-17T16:14:31.608Z",
     "canonical:114122b90cf6be89": "2026-08-17T16:14:31.608Z",
@@ -2055,7 +2052,6 @@
     "canonical:f0773013b5b58fc0": "2026-08-17T16:14:31.608Z",
     "canonical:c6fa1f200e436b22": "2026-08-17T16:14:31.608Z",
     "canonical:f25c76a0a1a97682": "2026-08-17T16:14:31.608Z",
-    "canonical:975e457d87666b50": "2026-08-17T16:14:31.608Z",
     "canonical:ce643fd334aa509c": "2026-08-17T16:14:31.608Z",
     "canonical:34f26ea49943bc76": "2026-08-17T16:14:31.608Z",
     "canonical:16f03335e9224bd0": "2026-08-17T16:14:31.608Z",
@@ -2547,7 +2543,6 @@
     "canonical:cc27892b2185aa28": "2026-08-19T21:15:42.444Z",
     "canonical:21eaed85feb211f6": "2026-08-19T21:15:42.444Z",
     "canonical:37ff670929781a31": "2026-08-19T21:15:42.444Z",
-    "canonical:d0c3c1f0372a6fed": "2026-08-19T21:15:42.444Z",
     "canonical:1a169d3f140e04b7": "2026-08-19T21:15:42.444Z",
     "canonical:3a13e382a4c7a044": "2026-08-19T21:15:42.444Z",
     "canonical:2f4eda49645a79fa": "2026-08-19T21:15:42.444Z",
@@ -2697,7 +2692,6 @@
     "canonical:14d9db8b1c87185d": "2026-08-21T02:11:33.462Z",
     "canonical:f9378db2ef77ce9c": "2026-08-21T02:11:33.462Z",
     "canonical:9d4b3060931e1ed6": "2026-08-21T02:11:33.462Z",
-    "canonical:3f44cd57fca349f6": "2026-08-21T03:14:14.277Z",
     "canonical:2ab76dc06a45be58": "2026-08-21T03:14:14.277Z",
     "canonical:33a74bc1baebfa4b": "2026-08-21T03:14:14.277Z",
     "canonical:1cd8de099d14f410": "2026-08-21T03:14:14.277Z",
@@ -5256,10 +5250,10 @@
       ]
     },
     {
-      "id": "canonical:e8a5b9fc6e1a4de2",
+      "id": "canonical:62beda5aaf0fcc6c",
       "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
-      "location": "Bengaluru",
+      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
+      "location": "Dublin",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -5269,10 +5263,10 @@
       ]
     },
     {
-      "id": "canonical:62beda5aaf0fcc6c",
+      "id": "canonical:e8a5b9fc6e1a4de2",
       "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
-      "location": "Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
+      "location": "Bengaluru",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -5552,20 +5546,6 @@
       "location": "Germantown, MD",
       "department": "Software Engineering",
       "company": "AeroVironment",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:3f44cd57fca349f6",
-      "title": "Software Engineering Intern",
-      "url": "https://job-boards.greenhouse.io/mcghealth/jobs/8350486002",
-      "location": "Seattle, WA",
-      "department": "Software Engineering",
-      "company": "MCG Health",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -12863,20 +12843,6 @@
       ]
     },
     {
-      "id": "canonical:7157582e262b9981",
-      "title": "Software Engineer Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Software-Engineering-Intern--Summer-2027-_01865808",
-      "location": "East Hartford, CT",
-      "department": "Hardware",
-      "company": "RTX",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:b27fb17837ea07bb",
       "title": "Software Engineer Intern - Summer 2027",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineering-Intern--Summer-2027-_01867439",
@@ -13867,20 +13833,6 @@
       "location": "Findlay Township, PA",
       "department": "Software",
       "company": "GE Vernova",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:d0c3c1f0372a6fed",
-      "title": "Software Engineer Intern - Summer 2027",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01867892",
-      "location": "Aurora, CO",
-      "department": "Software",
-      "company": "RTX",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -21972,20 +21924,6 @@
       ]
     },
     {
-      "id": "canonical:9837ae6b94e4f435",
-      "title": "Software Engineer",
-      "url": "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace/application",
-      "location": "SF / NYC",
-      "department": "Software",
-      "company": "Abridge",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:1670b83ef82febce",
       "title": "Backend Compiler Engineer New Grad",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer---New-College-Grad-2026_JR2021242",
@@ -27577,20 +27515,6 @@
       "url": "https://lifeattiktok.com/search/7668843238309824773",
       "location": "San Jose, CA",
       "department": "Software",
-      "company": "TikTok",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad"
-      ]
-    },
-    {
-      "id": "canonical:e796ad0276e885c3",
-      "title": "Data Scientist Graduate - TikTok Platform Safety",
-      "url": "https://lifeattiktok.com/search/7667074822035261749",
-      "location": "San Jose, CA",
-      "department": "AI/ML/Data",
       "company": "TikTok",
       "score": 91,
       "scoreReasons": [
@@ -33201,20 +33125,6 @@
       "location": "Arlington County, Arlington, VA / San Diego, CA",
       "department": "AI/ML/Data",
       "company": "Booz Allen",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:975e457d87666b50",
-      "title": "Software Engineer 1",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineer-I--Onsite-_01867438",
-      "location": "Fullerton, CA",
-      "department": "Software",
-      "company": "RTX",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
