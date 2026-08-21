@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T19:34:37.977Z",
+  "generatedAt": "2026-08-21T19:54:37.646Z",
   "companyCount": 188,
   "okCount": 188,
   "jobCount": 2743,
@@ -1037,7 +1037,6 @@
     "canonical:dc78ef98afcc27aa": "2026-08-17T16:14:31.608Z",
     "canonical:de4f58ecea8a291c": "2026-08-17T16:14:31.608Z",
     "canonical:f350b99e1d2d73ae": "2026-08-17T16:14:31.608Z",
-    "canonical:b453b9592120eca7": "2026-08-17T16:14:31.608Z",
     "canonical:9d97f2659f0600a0": "2026-08-17T16:14:31.608Z",
     "canonical:e522d30c1dbeb553": "2026-08-17T16:14:31.608Z",
     "canonical:6ced142713e8d71a": "2026-08-17T16:14:31.608Z",
@@ -1389,7 +1388,6 @@
     "canonical:84c26a4e03c4677e": "2026-08-17T16:14:31.608Z",
     "canonical:36438a92d255683d": "2026-08-17T16:14:31.608Z",
     "canonical:d6d4f88455a241b5": "2026-08-17T16:14:31.608Z",
-    "canonical:cc45734544f4fb89": "2026-08-17T16:14:31.608Z",
     "canonical:cbfa080a6ab56b4c": "2026-08-17T16:14:31.608Z",
     "canonical:7d35c4457b4824f4": "2026-08-17T16:14:31.608Z",
     "canonical:bd97183e298735d9": "2026-08-17T16:14:31.608Z",
@@ -2746,7 +2744,9 @@
     "canonical:fed80507386d4b0d": "2026-08-21T18:21:28.013Z",
     "canonical:f7891827aaf55a36": "2026-08-21T18:21:28.013Z",
     "canonical:90e2560668c9e059": "2026-08-21T18:21:28.013Z",
-    "canonical:5bfb92c396922287": "2026-08-21T18:21:28.013Z"
+    "canonical:5bfb92c396922287": "2026-08-21T18:21:28.013Z",
+    "canonical:a8cbedc4fa3b0284": "2026-08-21T19:54:37.646Z",
+    "canonical:0b6eaab294ae2e88": "2026-08-21T19:54:37.646Z"
   },
   "jobs": [
     {
@@ -14374,20 +14374,6 @@
       ]
     },
     {
-      "id": "canonical:8bb3fdfb8f3776da",
-      "title": "Software Engineer Intern - Embedded Platforms",
-      "url": "https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff/application",
-      "location": "Palo Alto, CA / Irvine, CA",
-      "department": "Hardware",
-      "company": "Rivian and Volkswagen Group Technologies",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:12cd06c0eec80152",
       "title": "Frontend Software Engineer Intern",
       "url": "https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c",
@@ -15396,6 +15382,20 @@
       "location": "Austin, TX",
       "department": "",
       "company": "Cirrus Logic",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:8bb3fdfb8f3776da",
+      "title": "Software Engineer Intern, Embedded Platforms",
+      "url": "https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff",
+      "location": "Palo Alto, CA / Irvine, CA",
+      "department": "",
+      "company": "Rivian and Volkswagen Group Technologies",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -18321,20 +18321,6 @@
       "location": "Annapolis Junction, MD",
       "department": "Software",
       "company": "Synergy ECP",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:b453b9592120eca7",
-      "title": "Application Engineer",
-      "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Application-Engineer_REQ-019650",
-      "location": "Paso Robles, CA",
-      "department": "Software",
-      "company": "Zurn Elkay Water Solutions",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -23547,18 +23533,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:cc45734544f4fb89",
-      "title": "Modem Power Firmware Engineer - Pixel",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/91555030850511558",
-      "location": "San Diego, CA",
-      "department": "Hardware",
-      "company": "Google",
-      "score": 75,
-      "scoreReasons": [
-        "SWE-aligned"
       ]
     },
     {
@@ -35747,6 +35721,20 @@
       ]
     },
     {
+      "id": "canonical:a8cbedc4fa3b0284",
+      "title": "Applied Scientist 1",
+      "url": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-Kingdom---London-Onfido/Applied-Scientist-I_R003921",
+      "location": "London, UK",
+      "department": "AI/ML/Data",
+      "company": "Entrust",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:4733e4d1047addcb",
       "title": "Embedded DSP Software Engineer",
       "url": "https://careers.qualcomm.com/careers/job/446704474013",
@@ -39577,6 +39565,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:0b6eaab294ae2e88",
+      "title": "Software Engineering Intern",
+      "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Tulsa-OK/Software-Engineering-Intern_JR-051321",
+      "location": "Tulsa, OK",
+      "department": "Software / Not stated",
+      "company": "Brunswick",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {

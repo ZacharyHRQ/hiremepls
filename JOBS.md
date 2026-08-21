@@ -167,7 +167,7 @@
 - [Bridger](#bridger) (1)
 - [BRM](#brm) (1)
 - [Broadcom Limited](#broadcom-limited) (1)
-- [Brunswick](#brunswick) (1)
+- [Brunswick](#brunswick) (2)
 - [Buyers Edge Platform](#buyers-edge-platform) (1)
 - [By Light Professional IT Services](#by-light-professional-it-services) (1)
 - [ByteDance](#bytedance) (177)
@@ -325,6 +325,7 @@
 - [EnergyHub](#energyhub) (1)
 - [Enovation Controls LLC](#enovation-controls-llc) (1)
 - [Ensemble Health Partners](#ensemble-health-partners) (2)
+- [Entrust](#entrust) (1)
 - [Epos Now Group](#epos-now-group) (1)
 - [Eragon](#eragon) (1)
 - [Ernst & Young](#ernst-young) (1)
@@ -405,7 +406,7 @@
 - [Globus Medical](#globus-medical) (1)
 - [GM financial](#gm-financial) (2)
 - [Goldman Sachs](#goldman-sachs) (2)
-- [Google](#google) (11)
+- [Google](#google) (10)
 - [Gradient Robotics](#gradient-robotics) (1)
 - [Gritt Robotics Inc](#gritt-robotics-inc) (1)
 - [GRITT ROBOTICS INC](#gritt-robotics-inc) (1)
@@ -1073,7 +1074,7 @@
 - [Zipline](#zipline) (3)
 - [Zoro](#zoro) (1)
 - [Zurich Insurance](#zurich-insurance) (1)
-- [Zurn Elkay Water Solutions](#zurn-elkay-water-solutions) (2)
+- [Zurn Elkay Water Solutions](#zurn-elkay-water-solutions) (1)
 
 ## 21CS
 
@@ -2256,6 +2257,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineering Intern](https://brunswick.wd1.myworkdayjobs.com/search/job/Tulsa-OK/Software-Engineering-Intern_JR-051321) | 93 | Tulsa, OK | Software / Not stated | 2026-08-21 |
 | [Embedded Software Engineer](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Oshkosh-WI/Embedded-Software-Engineer_JR-050448) | 93 | Oshkosh, WI | Hardware | 2026-08-17 |
 
 ## Buyers Edge Platform
@@ -3530,6 +3532,12 @@
 | [Data Scientist Intern](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Data-Scientist--AI_R048077) | 93 | Remote in USA | AI/ML/Data | 2026-08-01 |
 | [Engineering Excellence Intern](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Engineering-Excellence-Intern_R048023) | 93 | Remote in USA | AI/ML/Data | 2026-08-01 |
 
+## Entrust
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Applied Scientist 1](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-Kingdom---London-Onfido/Applied-Scientist-I_R003921) | 93 | London, UK | AI/ML/Data | 2026-08-21 |
+
 ## Epos Now Group
 
 | Title | Score | Location | Department | First seen |
@@ -4077,7 +4085,6 @@
 | [Software Engineer – Early Career - AI/ML - PhD](https://www.google.com/about/careers/applications/jobs/results/92286686481785542) | 85 | London, UK | Software | 2026-08-17 |
 | [Software Engineer II, Early Career](https://www.google.com/about/careers/applications/jobs/results/143333237156913862-software-engineer-ii/) | 85 | Mountain View, CA / Kirkland, WA / Los Angeles, CA / Madison, WI / New York, NY / Palo Alto, CA / Pittsburgh, PA / Raleigh, NC / Durham, NC / San Bruno, CA / Seattle, WA / Sunnyvale, CA | — | 2026-08-17 |
 | [Software Engineer II, Early Career, Google Cloud AI Catalyst Program](https://www.google.com/about/careers/applications/jobs/results/90452041138086598-software-engineer-ii-early-career-google-cloud-ai-catalyst-program) | 85 | Sunnyvale, CA / Kirkland, WA / Seattle, WA | — | 2026-08-17 |
-| [Modem Power Firmware Engineer - Pixel](https://www.google.com/about/careers/applications/jobs/results/91555030850511558) | 75 | San Diego, CA | Hardware | 2026-08-17 |
 | [Relations Developer, Cloud and Generative AI](https://www.google.com/about/careers/applications/jobs/results/92218003445162694-relations-developer-cloud-and-generative-ai) | 75 | Seattle, WA / Cambridge, MA / Kirkland, WA / New York, NY / San Francisco, CA / Sunnyvale, CA / Toronto, Canada | — | 2026-08-17 |
 | [Software Engineering Intern](https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027) | 85 | Mountain View, CA / Atlanta, GA / Austin, TX / Boulder, CO / Cambridge, MA / Bellevue, WA / Chicago, IL / Houston, TX / Irvine, CA / Kirkland, WA / Los Angeles, CA / Madison, WI / New York, NY / Palo Alto, CA / Portland, OR / Pittsburgh, PA / Raleigh, NC / Durham, NC / Reston, VA / Redmond, WA / Redwood City, CA / San Diego, CA / Goleta, CA / San Bruno, CA / Seattle, WA / San Francisco, CA / San Jose, CA / Santa Cruz, CA / South San Francisco, CA / Sunnyvale, CA | — | 2026-08-17 |
 
@@ -6983,11 +6990,11 @@
 | [Engineering Intern, Embedded Hardware, Vehicle Networking & Audio](https://careers.rivianvw.tech/rivian-vw-group-technology/jobs/27276/job) | 75 | Palo Alto, CA | — | 2026-08-17 |
 | [Software Engineering Intern - Vehicle Controls](https://jobs.ashbyhq.com/rivianvw.tech/89feb2fe-c28c-4dad-846f-09594632ba55) | 93 | Irvine, CA / Palo Alto, CA | Software Engineering | 2026-06-24 |
 | [Android Developer Intern](https://jobs.ashbyhq.com/rivianvw.tech/5633bb03-cc16-47fc-af02-db9dc355eddd/application) | 93 | Palo Alto, CA | Software | 2026-06-11 |
-| [Software Engineer Intern - Embedded Platforms](https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff/application) | 93 | Palo Alto, CA / Irvine, CA | Hardware | 2026-06-11 |
 | [Software Engineer Intern - Vehicle Controls](https://jobs.ashbyhq.com/rivianvw.tech/89feb2fe-c28c-4dad-846f-09594632ba55/application) | 93 | Palo Alto, CA / Irvine, CA | Hardware | 2026-06-11 |
 | [Software Engineer Intern Co-op - Applications](https://jobs.ashbyhq.com/rivianvw.tech/259f1a7c-3102-47a3-9919-c1174d9be89c/application) | 93 | Toronto, ON, Canada / Vancouver, BC, Canada | Software | 2026-06-11 |
 | [Software Engineer Intern Co-op - Systems Engineering](https://jobs.ashbyhq.com/rivianvw.tech/28e87a5e-7aba-4f91-af44-74f739356a27/application) | 93 | Vancouver, BC, Canada | Hardware | 2026-06-11 |
 | [Software Engineer Intern Co-op - Vehicle Controls](https://jobs.ashbyhq.com/rivianvw.tech/a706bc73-8c3d-41b0-8bc5-874926a4af3e/application) | 93 | Toronto, ON, Canada / Vancouver, BC, Canada | Hardware | 2026-06-11 |
+| [Software Engineer Intern, Embedded Platforms](https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff) | 93 | Palo Alto, CA / Irvine, CA | — | 2026-06-11 |
 
 ## Roam
 
@@ -9165,5 +9172,4 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Application Engineer](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Application-Engineer_REQ-019650) | 93 | Paso Robles, CA | Software | 2026-08-17 |
 | [Application Engineer](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Erie-PA/Application-Engineer_REQ-019741) | 93 | Erie, PA | Software | 2026-08-17 |
