@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T05:54:08.922Z",
+  "generatedAt": "2026-08-21T06:27:18.178Z",
   "companyCount": 188,
   "okCount": 188,
   "jobCount": 2741,
@@ -1691,7 +1691,6 @@
     "canonical:b522d24a128fb762": "2026-08-17T16:14:31.608Z",
     "canonical:114122b90cf6be89": "2026-08-17T16:14:31.608Z",
     "canonical:ae6d6e8823674fdc": "2026-08-17T16:14:31.608Z",
-    "canonical:82808f701827e147": "2026-08-17T16:14:31.608Z",
     "canonical:e3e5fea5044c9d6f": "2026-08-17T16:14:31.608Z",
     "canonical:38365e9dfc55bd83": "2026-08-17T16:14:31.608Z",
     "canonical:114df915d77b4a66": "2026-08-17T16:14:31.608Z",
@@ -2744,7 +2743,8 @@
     "canonical:267b9d28cdeff519": "2026-08-21T03:14:14.277Z",
     "canonical:65b59efac00d232b": "2026-08-21T03:14:14.277Z",
     "canonical:d907091c9f584e6e": "2026-08-21T03:14:14.277Z",
-    "canonical:27a09e08b462cce2": "2026-08-21T03:14:14.277Z"
+    "canonical:27a09e08b462cce2": "2026-08-21T03:14:14.277Z",
+    "canonical:f4b2a9aa2d152c8e": "2026-08-21T06:27:18.178Z"
   },
   "jobs": [
     {
@@ -27580,20 +27580,6 @@
       ]
     },
     {
-      "id": "canonical:82808f701827e147",
-      "title": "Data Scientist Graduate - TikTok Product",
-      "url": "https://lifeattiktok.com/search/7669654422861383941",
-      "location": "San Jose, CA",
-      "department": "AI/ML/Data",
-      "company": "TikTok",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad"
-      ]
-    },
-    {
       "id": "canonical:e3e5fea5044c9d6f",
       "title": "Frontend Software Engineer Graduate - Global E-commerce",
       "url": "https://lifeattiktok.com/search/7668828193675036981",
@@ -36341,6 +36327,19 @@
         "SWE-aligned",
         "high-signal role",
         "new grad"
+      ]
+    },
+    {
+      "id": "canonical:f4b2a9aa2d152c8e",
+      "title": "Software Engineer",
+      "url": "https://www.metacareers.com/jobs/1947521902323717",
+      "location": "Menlo Park, CA",
+      "department": "",
+      "company": "Meta",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
