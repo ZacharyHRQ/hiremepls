@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-21T13:23:53.905Z",
+  "generatedAt": "2026-08-21T14:04:05.421Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2733,
+  "jobCount": 2735,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2642,7 +2642,6 @@
     "canonical:90e60de2ae57ccd1": "2026-08-20T22:54:52.406Z",
     "canonical:df13a83093b326fb": "2026-08-20T22:54:52.406Z",
     "canonical:3a00f9406036c569": "2026-08-20T22:54:52.406Z",
-    "canonical:6433c59c15115ae5": "2026-08-20T22:54:52.406Z",
     "canonical:e6058c0d653a2f7c": "2026-08-20T22:54:52.406Z",
     "canonical:2cce6fc637df884c": "2026-08-20T22:54:52.406Z",
     "canonical:388a079ff43c389f": "2026-08-20T22:54:52.406Z",
@@ -2736,7 +2735,10 @@
     "canonical:c076cb07681d0506": "2026-08-21T11:49:02.405Z",
     "canonical:d1da7b2ac572df8f": "2026-08-21T13:23:53.905Z",
     "canonical:5ccbdd16c804408f": "2026-08-21T13:23:53.905Z",
-    "canonical:ee2ac1afa3058d54": "2026-08-21T13:23:53.905Z"
+    "canonical:ee2ac1afa3058d54": "2026-08-21T13:23:53.905Z",
+    "canonical:15bf3d22c1919f77": "2026-08-21T14:04:05.421Z",
+    "canonical:a236151bf031cda9": "2026-08-21T14:04:05.421Z",
+    "canonical:cfe9ae1ed06f9c57": "2026-08-21T14:04:05.421Z"
   },
   "jobs": [
     {
@@ -5353,7 +5355,7 @@
     {
       "id": "canonical:1a056010d15d11c7",
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -5890,6 +5892,20 @@
       "location": "London, UK",
       "department": "AI/ML/Data",
       "company": "HCompany",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:15bf3d22c1919f77",
+      "title": "Robotics Software Intern",
+      "url": "https://jobs.lever.co/multiplylabs/acca98ab-c206-4f71-b7a5-6977e4828586",
+      "location": "San Francisco, CA",
+      "department": "Software Engineering",
+      "company": "Multiply Labs",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -35260,19 +35276,6 @@
       ]
     },
     {
-      "id": "canonical:6433c59c15115ae5",
-      "title": "Engineer 1 - AI Forward Engineer",
-      "url": "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Engineer-I---AI-Forward-Engineer_R13619",
-      "location": "Phoenix, AZ",
-      "department": "Software",
-      "company": "Western Alliance",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:e6058c0d653a2f7c",
       "title": "Software Engineer 1 / Software Engineer 2 - Salesforce focused",
       "url": "https://careers.principal.com/jobs/51898?icims=1",
@@ -37618,6 +37621,19 @@
       ]
     },
     {
+      "id": "canonical:a236151bf031cda9",
+      "title": "Software Engineer I",
+      "url": "https://www.disneycareers.com/en/job/-/-/391/85002977104",
+      "location": "Seattle, WA",
+      "department": "",
+      "company": "Disney",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:fa5319507ec80890",
       "title": "New Grad 2026: Software Engineer (Commerce Ads)",
       "url": "https://lifeattiktok.com/search/7538213896365689096",
@@ -38848,6 +38864,20 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:cfe9ae1ed06f9c57",
+      "title": "New Grad 2026: Software Engineer",
+      "url": "https://www.imc.com/us/careers/jobs/4580755101",
+      "location": "Chicago, IL",
+      "department": "",
+      "company": "IMC",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
       ]
     },
     {

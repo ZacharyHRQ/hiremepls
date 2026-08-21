@@ -1,6 +1,6 @@
 # Open Internships
 
-**2733** internships across **188/188** companies — last updated 2026-08-21.
+**2735** internships across **188/188** companies — last updated 2026-08-21.
 
 ## Companies
 
@@ -280,6 +280,7 @@
 - [DiDi Global](#didi-global) (1)
 - [Diesel Laptops](#diesel-laptops) (1)
 - [DigitalOcean](#digitalocean) (1)
+- [Disney](#disney) (1)
 - [Diverge Health](#diverge-health) (1)
 - [DMC Engineering](#dmc-engineering) (1)
 - [Dmg Media](#dmg-media) (1)
@@ -458,7 +459,7 @@
 - [Ignite Digital Services](#ignite-digital-services) (1)
 - [Illinois Tool Works](#illinois-tool-works) (2)
 - [IMA Financial Group](#ima-financial-group) (1)
-- [IMC](#imc) (1)
+- [IMC](#imc) (2)
 - [IMC Trading](#imc-trading) (14)
 - [impact.com](#impact-com) (1)
 - [Inbulks](#inbulks) (1)
@@ -626,6 +627,7 @@
 - [Motorola](#motorola) (12)
 - [MSA Safety](#msa-safety) (1)
 - [Mulligan Funding](#mulligan-funding) (2)
+- [Multiply Labs](#multiply-labs) (1)
 - [Muon Space](#muon-space) (1)
 - [N1](#n1) (4)
 - [National Laboratory of the Rockies](#national-laboratory-of-the-rockies) (2)
@@ -1039,7 +1041,6 @@
 - [Waymo](#waymo) (3)
 - [Wells Fargo](#wells-fargo) (2)
 - [WeRide](#weride) (2)
-- [Western Alliance](#western-alliance) (1)
 - [Western Digital](#western-digital) (5)
 - [Western Magnetics](#western-magnetics) (2)
 - [Westinghouse Electric Company](#westinghouse-electric-company) (5)
@@ -2779,7 +2780,7 @@
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
 | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -3223,6 +3224,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer - Automation](https://www.digitalocean.com/careers/position/apply/?gh_jid=8101988) | 85 | Seattle, WA | Software | 2026-08-20 |
+
+## Disney
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer I](https://www.disneycareers.com/en/job/-/-/391/85002977104) | 85 | Seattle, WA | — | 2026-08-21 |
 
 ## Diverge Health
 
@@ -4411,6 +4418,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [New Grad 2026: Software Engineer](https://www.imc.com/us/careers/jobs/4580755101) | 91 | Chicago, IL | — | 2026-08-21 |
 | [Software Engineer Intern](https://www.imc.com/us/careers/jobs/4823924101) | 85 | Chicago, IL | — | 2026-08-17 |
 
 ## IMC Trading
@@ -5641,6 +5649,12 @@
 | --- | --- | --- | --- | --- |
 | [Data Scientist 1 - Full Stack Management Trainee](https://jobs.lever.co/mulliganfunding/1eee966d-c798-4b4f-937d-7e2f73b00287/apply) | 93 | San Diego, CA | AI/ML/Data | 2026-08-20 |
 | [Data Scientist 1 - Management Trainee](https://jobs.lever.co/mulliganfunding/53531dc7-9593-44ea-8b42-2995664968a3/apply) | 93 | San Diego, CA | AI/ML/Data | 2026-08-20 |
+
+## Multiply Labs
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Robotics Software Intern](https://jobs.lever.co/multiplylabs/acca98ab-c206-4f71-b7a5-6977e4828586) | 93 | San Francisco, CA | Software Engineering | 2026-08-21 |
 
 ## Muon Space
 
@@ -8921,12 +8935,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer New Grad - Algorithm](https://jobs.lever.co/weride/5a7cbc83-2381-482e-9d6d-e9c9d59ad63b/apply) | 99 | San Jose, CA | Software | 2026-08-17 |
 | [Software Engineer Intern - Perception/Computer Vision](https://jobs.lever.co/weride/5cde0d09-ba2d-408d-947e-4a42028cd4f7/apply) | 93 | San Jose, CA | AI/ML/Data | 2026-08-17 |
-
-## Western Alliance
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Engineer 1 - AI Forward Engineer](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Engineer-I---AI-Forward-Engineer_R13619) | 85 | Phoenix, AZ | Software | 2026-08-20 |
 
 ## Western Digital
 
