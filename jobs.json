@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-21T19:54:37.646Z",
+  "generatedAt": "2026-08-21T20:13:32.090Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2743,
+  "jobCount": 2748,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2620,7 +2620,6 @@
     "canonical:99b4e8774e610da6": "2026-08-20T23:15:31.497Z",
     "canonical:fc50700a32f0c0c3": "2026-08-20T23:15:31.497Z",
     "canonical:bf296544efd69ded": "2026-08-20T23:15:31.497Z",
-    "canonical:a3538254574c4730": "2026-08-20T23:15:31.497Z",
     "canonical:ca0c53a3cd181230": "2026-08-20T23:15:31.497Z",
     "canonical:d497e0b63606abb0": "2026-08-20T23:46:17.472Z",
     "canonical:bcd306396df863e5": "2026-08-21T02:11:33.462Z",
@@ -2699,9 +2698,6 @@
     "canonical:a356ac432d4a0c77": "2026-08-21T10:54:38.893Z",
     "canonical:c0f4dca09fdb8deb": "2026-08-21T11:16:34.388Z",
     "canonical:c076cb07681d0506": "2026-08-21T11:49:02.405Z",
-    "canonical:15bf3d22c1919f77": "2026-08-21T14:04:05.421Z",
-    "canonical:a236151bf031cda9": "2026-08-21T14:04:05.421Z",
-    "canonical:cfe9ae1ed06f9c57": "2026-08-21T14:04:05.421Z",
     "canonical:5d05620765241bd6": "2026-08-21T14:51:02.139Z",
     "canonical:0dd99b5c9038115c": "2026-08-21T14:51:02.139Z",
     "canonical:c32f5ba67b868ed6": "2026-08-21T14:51:02.139Z",
@@ -2746,7 +2742,16 @@
     "canonical:90e2560668c9e059": "2026-08-21T18:21:28.013Z",
     "canonical:5bfb92c396922287": "2026-08-21T18:21:28.013Z",
     "canonical:a8cbedc4fa3b0284": "2026-08-21T19:54:37.646Z",
-    "canonical:0b6eaab294ae2e88": "2026-08-21T19:54:37.646Z"
+    "canonical:0b6eaab294ae2e88": "2026-08-21T19:54:37.646Z",
+    "canonical:44a8a07a8aae599b": "2026-08-21T20:13:32.090Z",
+    "canonical:160de77e26a3b197": "2026-08-21T20:13:32.090Z",
+    "canonical:dc0ffec794c1ffd7": "2026-08-21T20:13:32.090Z",
+    "canonical:937b361bf74c88f3": "2026-08-21T20:13:32.090Z",
+    "canonical:4b868f2dd0e45334": "2026-08-21T20:13:32.090Z",
+    "canonical:302496ad9fc477ab": "2026-08-21T20:13:32.090Z",
+    "canonical:e96b70e8567c22ca": "2026-08-21T20:13:32.090Z",
+    "canonical:34b92f6ac29c4fcd": "2026-08-21T20:13:32.090Z",
+    "canonical:a2494932cb75d54f": "2026-08-21T20:13:32.090Z"
   },
   "jobs": [
     {
@@ -5914,20 +5919,6 @@
       "location": "London, UK",
       "department": "AI/ML/Data",
       "company": "HCompany",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:15bf3d22c1919f77",
-      "title": "Robotics Software Intern",
-      "url": "https://jobs.lever.co/multiplylabs/acca98ab-c206-4f71-b7a5-6977e4828586",
-      "location": "San Francisco, CA",
-      "department": "Software Engineering",
-      "company": "Multiply Labs",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -14371,6 +14362,34 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:44a8a07a8aae599b",
+      "title": "Innovations Intern - Full Stack/Front End Engineering",
+      "url": "https://job-boards.greenhouse.io/syskahennessy/jobs/8147733",
+      "location": "NYC",
+      "department": "Software",
+      "company": "Syska Hennessy Group",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:160de77e26a3b197",
+      "title": "Software Engineer Intern",
+      "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Tulsa-OK/Software-Engineering-Intern_JR-051321",
+      "location": "Tulsa, OK",
+      "department": "Hardware",
+      "company": "Brunswick",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -33895,20 +33914,6 @@
       ]
     },
     {
-      "id": "canonical:a3538254574c4730",
-      "title": "Entry-Level Software Developer",
-      "url": "https://job-boards.greenhouse.io/cooksys/jobs/5386869008",
-      "location": "Nashville, TN",
-      "department": "Software",
-      "company": "Cook Systems",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:4f705bb50e66aceb",
       "title": "Software Engineer New Grad",
       "url": "https://nexthopai.bamboohr.com/careers/24/",
@@ -35732,6 +35737,102 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:dc0ffec794c1ffd7",
+      "title": "Software Engineer New Grad",
+      "url": "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Software-Engineer--New-College-Grad-_R55432",
+      "location": "Fremont, CA",
+      "department": "Software",
+      "company": "Hyve Solutions",
+      "score": 99,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:937b361bf74c88f3",
+      "title": "Associate Forward Deployed Engineer",
+      "url": "https://medable.wd503.myworkdayjobs.com/explore-career-opportunities/job/United-Kingdom/Associate-Forward-Deployed-Engineer_JR100219",
+      "location": "Remote in UK / Remote in Ireland",
+      "department": "Software",
+      "company": "Medable",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:4b868f2dd0e45334",
+      "title": "Associate Software Engineer",
+      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Associate-Software-Engineer_REQ369269",
+      "location": "Atlanta, GA",
+      "department": "Software",
+      "company": "T-Mobile",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:302496ad9fc477ab",
+      "title": "Software Engineer",
+      "url": "https://careers-i3-corps.icims.com/jobs/5218/job?mobile=true&needsRedirect=false",
+      "location": "Huntsville, AL",
+      "department": "Software",
+      "company": "Integration Innovation (i3)",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:e96b70e8567c22ca",
+      "title": "Software Engineer 1 Test",
+      "url": "https://careers-mercuryinsurance.icims.com/jobs/6745/job?mobile=true&needsRedirect=false",
+      "location": "Brea, CA",
+      "department": "Software",
+      "company": "Mercury Insurance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:34b92f6ac29c4fcd",
+      "title": "Software Engineer - AV Data Collection",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Data-Collection_JR-202618529",
+      "location": "Sunnyvale, CA",
+      "department": "Hardware",
+      "company": "General Motors",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:a2494932cb75d54f",
+      "title": "Software Engineer 1",
+      "url": "https://careers-mercuryinsurance.icims.com/jobs/6743/job?mobile=true&needsRedirect=false",
+      "location": "Brea, CA",
+      "department": "Software",
+      "company": "Mercury Insurance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
@@ -37768,19 +37869,6 @@
       ]
     },
     {
-      "id": "canonical:a236151bf031cda9",
-      "title": "Software Engineer I",
-      "url": "https://www.disneycareers.com/en/job/-/-/391/85002977104",
-      "location": "Seattle, WA",
-      "department": "",
-      "company": "Disney",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:fa5319507ec80890",
       "title": "New Grad 2026: Software Engineer (Commerce Ads)",
       "url": "https://lifeattiktok.com/search/7538213896365689096",
@@ -38998,20 +39086,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:cfe9ae1ed06f9c57",
-      "title": "New Grad 2026: Software Engineer",
-      "url": "https://www.imc.com/us/careers/jobs/4580755101",
-      "location": "Chicago, IL",
-      "department": "",
-      "company": "IMC",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad"
       ]
     },
     {

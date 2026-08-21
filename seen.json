@@ -2380,7 +2380,10 @@
     "simplify:7d67654b-4933-41a8-b796-81003c0d2c31",
     "simplify:230b8412-ca73-4abf-b01d-2013cfc1309b",
     "simplify:78f9e1b5-9870-4a25-816c-c69294b6b6cb",
-    "simplify:0d95ff8f-ccaa-4031-8bc2-ecf6014f6be0"
+    "simplify:0d95ff8f-ccaa-4031-8bc2-ecf6014f6be0",
+    "simplify:631bbbfe-8d2d-4b49-8e16-c60d7eebde34",
+    "simplify:6b73883a-ab74-444e-93ce-5fd790148177",
+    "simplify:c4bfe952-8e9a-4599-966c-127295b128ad"
   ],
   "DoorDash": [],
   "Waymo": [
@@ -3285,7 +3288,10 @@
     "simplify:7d67654b-4933-41a8-b796-81003c0d2c31",
     "simplify:230b8412-ca73-4abf-b01d-2013cfc1309b",
     "simplify:78f9e1b5-9870-4a25-816c-c69294b6b6cb",
-    "simplify:0d95ff8f-ccaa-4031-8bc2-ecf6014f6be0"
+    "simplify:0d95ff8f-ccaa-4031-8bc2-ecf6014f6be0",
+    "simplify:631bbbfe-8d2d-4b49-8e16-c60d7eebde34",
+    "simplify:6b73883a-ab74-444e-93ce-5fd790148177",
+    "simplify:c4bfe952-8e9a-4599-966c-127295b128ad"
   ],
   "Wintermute": [],
   "QCP": [],
@@ -4764,7 +4770,6 @@
     "simplify:79543c3a-5362-4db7-9aa3-96795e7c8871",
     "simplify:1684b5f7-9d7b-4b05-a2f1-4335f8426ec4",
     "simplify:1607a4ba-3b77-40cc-aa04-244640bdc0f7",
-    "simplify:0ac59efb-a60a-487e-ae88-72d4b34fac13",
     "simplify:4a0ac2bd-9aed-42eb-88de-3663340e79b5",
     "simplify:a96278c1-ade0-425c-83f0-3a2b804be61d",
     "simplify:8121dc2e-ce22-45e4-a3d0-1e4b4abc83ee",
@@ -4912,7 +4917,14 @@
     "simplify:adfcb3a2-2763-48e0-b417-77f931e4fcda",
     "simplify:eb3814c7-6fd3-4e58-852c-6cc00005cf9a",
     "simplify:22158ccb-39d8-4d56-8b2f-46828624cdea",
-    "simplify:1ca887fb-4325-40bd-9159-9a0beaf82f80"
+    "simplify:1ca887fb-4325-40bd-9159-9a0beaf82f80",
+    "simplify:91fbe496-c0ad-4be0-8f7d-981a254764b0",
+    "simplify:2114efe1-c38d-46f1-be07-396bfd2a4034",
+    "simplify:f174b1be-a056-4615-8dff-9e0ddd31ec21",
+    "simplify:b30acf92-00fa-4d87-ac6e-44032cdc640b",
+    "simplify:54eb5520-b9cf-4910-83b4-228b8b7a1a67",
+    "simplify:53ce3bb2-f715-4b48-a55a-31dcb2506112",
+    "simplify:9e675a71-dd54-4b7e-9dad-72b84c93433e"
   ],
   "vanshb03 New Grad": [
     "vansh:5dac35b2-b148-49f8-b3f5-828ba68da99c",

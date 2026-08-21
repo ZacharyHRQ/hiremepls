@@ -1,6 +1,6 @@
 # Open Internships
 
-**2743** internships across **188/188** companies — last updated 2026-08-21.
+**2748** internships across **188/188** companies — last updated 2026-08-21.
 
 ## Companies
 
@@ -167,7 +167,7 @@
 - [Bridger](#bridger) (1)
 - [BRM](#brm) (1)
 - [Broadcom Limited](#broadcom-limited) (1)
-- [Brunswick](#brunswick) (2)
+- [Brunswick](#brunswick) (3)
 - [Buyers Edge Platform](#buyers-edge-platform) (1)
 - [By Light Professional IT Services](#by-light-professional-it-services) (1)
 - [ByteDance](#bytedance) (177)
@@ -234,7 +234,6 @@
 - [Constellation Energy](#constellation-energy) (1)
 - [Constellation Space](#constellation-space) (1)
 - [Content Guru](#content-guru) (1)
-- [Cook Systems](#cook-systems) (1)
 - [Copart](#copart) (6)
 - [Core & Main](#core-main) (2)
 - [Corning](#corning) (1)
@@ -282,7 +281,6 @@
 - [Diesel Laptops](#diesel-laptops) (1)
 - [DigitalOcean](#digitalocean) (1)
 - [Digs](#digs) (1)
-- [Disney](#disney) (1)
 - [Diverge Health](#diverge-health) (1)
 - [DMC Engineering](#dmc-engineering) (1)
 - [Dmg Media](#dmg-media) (1)
@@ -389,7 +387,7 @@
 - [General Dynamics Information Technology](#general-dynamics-information-technology) (6)
 - [General Dynamics Mission Systems](#general-dynamics-mission-systems) (9)
 - [General Matter](#general-matter) (2)
-- [General Motors](#general-motors) (2)
+- [General Motors](#general-motors) (3)
 - [Genetec](#genetec) (4)
 - [GenMD](#genmd) (1)
 - [Gentex Corporation](#gentex-corporation) (1)
@@ -454,6 +452,7 @@
 - [Hunt Oil Company](#hunt-oil-company) (2)
 - [Hypercubic](#hypercubic) (2)
 - [HyperLight](#hyperlight) (1)
+- [Hyve Solutions](#hyve-solutions) (1)
 - [IBM](#ibm) (1)
 - [iboss](#iboss) (1)
 - [ibotta](#ibotta) (1)
@@ -462,7 +461,7 @@
 - [Ignite Digital Services](#ignite-digital-services) (1)
 - [Illinois Tool Works](#illinois-tool-works) (2)
 - [IMA Financial Group](#ima-financial-group) (1)
-- [IMC](#imc) (2)
+- [IMC](#imc) (1)
 - [IMC Trading](#imc-trading) (14)
 - [impact.com](#impact-com) (1)
 - [Inbulks](#inbulks) (1)
@@ -477,7 +476,7 @@
 - [InstaLILY](#instalily) (3)
 - [Instead](#instead) (1)
 - [Integra FEC](#integra-fec) (2)
-- [Integration Innovation (i3)](#integration-innovation-i3) (1)
+- [Integration Innovation (i3)](#integration-innovation-i3) (2)
 - [Integrity](#integrity) (1)
 - [Intel](#intel) (6)
 - [IntelliGenesis](#intelligenesis) (2)
@@ -595,6 +594,7 @@
 - [McDonald's](#mcdonald-s) (1)
 - [McDonald's Corporation](#mcdonald-s-corporation) (1)
 - [Mechanize](#mechanize) (1)
+- [Medable](#medable) (1)
 - [Medical College of Wisconsin](#medical-college-of-wisconsin) (1)
 - [Medpace](#medpace) (1)
 - [Medpace, Inc.](#medpace-inc) (3)
@@ -604,6 +604,7 @@
 - [Menasha Corporation](#menasha-corporation) (1)
 - [Merative](#merative) (1)
 - [Mercor](#mercor) (1)
+- [Mercury Insurance](#mercury-insurance) (2)
 - [Meshy](#meshy) (2)
 - [Mesotech International](#mesotech-international) (1)
 - [Meta](#meta) (7)
@@ -631,7 +632,6 @@
 - [Motorola](#motorola) (12)
 - [MSA Safety](#msa-safety) (1)
 - [Mulligan Funding](#mulligan-funding) (2)
-- [Multiply Labs](#multiply-labs) (1)
 - [Muon Space](#muon-space) (1)
 - [N1](#n1) (4)
 - [National Laboratory of the Rockies](#national-laboratory-of-the-rockies) (2)
@@ -919,9 +919,10 @@
 - [Synergy ECP](#synergy-ecp) (1)
 - [SynQor](#synqor) (1)
 - [Sysco](#sysco) (2)
+- [Syska Hennessy Group](#syska-hennessy-group) (1)
 - [System Canada Technologies](#system-canada-technologies) (1)
 - [SZNS Solutions](#szns-solutions) (1)
-- [T-Mobile](#t-mobile) (2)
+- [T-Mobile](#t-mobile) (3)
 - [T-Rex Solutions](#t-rex-solutions) (2)
 - [T2 Systems](#t2-systems) (1)
 - [Talroo](#talroo) (1)
@@ -2257,6 +2258,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Tulsa-OK/Software-Engineering-Intern_JR-051321) | 93 | Tulsa, OK | Hardware | 2026-08-21 |
 | [Software Engineering Intern](https://brunswick.wd1.myworkdayjobs.com/search/job/Tulsa-OK/Software-Engineering-Intern_JR-051321) | 93 | Tulsa, OK | Software / Not stated | 2026-08-21 |
 | [Embedded Software Engineer](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Oshkosh-WI/Embedded-Software-Engineer_JR-050448) | 93 | Oshkosh, WI | Hardware | 2026-08-17 |
 
@@ -2902,12 +2904,6 @@
 | --- | --- | --- | --- | --- |
 | [Graduate Software Developer - Assessment Day](https://contentguru.bamboohr.com/careers/319/) | 91 | Bracknell, UK | Software | 2026-08-18 |
 
-## Cook Systems
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Entry-Level Software Developer](https://job-boards.greenhouse.io/cooksys/jobs/5386869008) | 93 | Nashville, TN | Software | 2026-08-20 |
-
 ## Copart
 
 | Title | Score | Location | Department | First seen |
@@ -3246,12 +3242,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern - Test Automation](https://job-boards.greenhouse.io/digs/jobs/4663939006) | 93 | Vancouver, WA | Software Engineering | 2026-08-21 |
-
-## Disney
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer I](https://www.disneycareers.com/en/job/-/-/391/85002977104) | 85 | Seattle, WA | — | 2026-08-21 |
 
 ## Diverge Health
 
@@ -3964,6 +3954,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer - AV Data Collection](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Data-Collection_JR-202618529) | 93 | Sunnyvale, CA | Hardware | 2026-08-21 |
 | [Machine Learning Engineer - AI Inference Solutions](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/Machine-Learning-Engineer--AI-Inference-Solutions--University-Grad-_JR-202610103) | 93 | Sunnyvale, CA | AI/ML/Data | 2026-08-17 |
 | [Software Engineer – Early Career - Autonomous Vehicles Software Systems](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--Autonomous-Vehicles-Software-Systems---Early-Career_JR-202604759) | 93 | Sunnyvale, CA / Warren, MI | Software | 2026-08-17 |
 
@@ -4390,6 +4381,12 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://apply.workable.com/hyperlight/j/5581EA0668/) | 93 | Cambridge, MA | — | 2026-08-17 |
 
+## Hyve Solutions
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer New Grad](https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Software-Engineer--New-College-Grad-_R55432) | 99 | Fremont, CA | Software | 2026-08-21 |
+
 ## IBM
 
 | Title | Score | Location | Department | First seen |
@@ -4444,7 +4441,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [New Grad 2026: Software Engineer](https://www.imc.com/us/careers/jobs/4580755101) | 91 | Chicago, IL | — | 2026-08-21 |
 | [Software Engineer Intern](https://www.imc.com/us/careers/jobs/4823924101) | 85 | Chicago, IL | — | 2026-08-17 |
 
 ## IMC Trading
@@ -4554,6 +4550,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer](https://careers-i3-corps.icims.com/jobs/5218/job?mobile=true&needsRedirect=false) | 85 | Huntsville, AL | Software | 2026-08-21 |
 | [Associate Software Developer - COMPASS](https://careers-i3-corps.icims.com/jobs/5211/job?mobile=true&needsRedirect=false) | 85 | Huntsville, AL | Software | 2026-08-17 |
 
 ## Integrity
@@ -5423,6 +5420,12 @@
 | --- | --- | --- | --- | --- |
 | [Junior Software Engineer](https://www.mechanize.work/apply/software-engineer/?role=junior) | 85 | SF | Software | 2026-08-17 |
 
+## Medable
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Associate Forward Deployed Engineer](https://medable.wd503.myworkdayjobs.com/explore-career-opportunities/job/United-Kingdom/Associate-Forward-Deployed-Engineer_JR100219) | 93 | Remote in UK / Remote in Ireland | Software | 2026-08-21 |
+
 ## Medical College of Wisconsin
 
 | Title | Score | Location | Department | First seen |
@@ -5482,6 +5485,13 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Data Scientist](https://jobs.ashbyhq.com/mercor/982a0751-e9eb-4b96-ac93-a1fd1d2f9152/application) | 93 | SF | AI/ML/Data | 2026-08-17 |
+
+## Mercury Insurance
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer 1](https://careers-mercuryinsurance.icims.com/jobs/6743/job?mobile=true&needsRedirect=false) | 85 | Brea, CA | Software | 2026-08-21 |
+| [Software Engineer 1 Test](https://careers-mercuryinsurance.icims.com/jobs/6745/job?mobile=true&needsRedirect=false) | 85 | Brea, CA | Software | 2026-08-21 |
 
 ## Meshy
 
@@ -5682,12 +5692,6 @@
 | --- | --- | --- | --- | --- |
 | [Data Scientist 1 - Full Stack Management Trainee](https://jobs.lever.co/mulliganfunding/1eee966d-c798-4b4f-937d-7e2f73b00287/apply) | 93 | San Diego, CA | AI/ML/Data | 2026-08-20 |
 | [Data Scientist 1 - Management Trainee](https://jobs.lever.co/mulliganfunding/53531dc7-9593-44ea-8b42-2995664968a3/apply) | 93 | San Diego, CA | AI/ML/Data | 2026-08-20 |
-
-## Multiply Labs
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Robotics Software Intern](https://jobs.lever.co/multiplylabs/acca98ab-c206-4f71-b7a5-6977e4828586) | 93 | San Francisco, CA | Software Engineering | 2026-08-21 |
 
 ## Muon Space
 
@@ -7847,6 +7851,12 @@
 | [Data Engineer Intern](https://wd5.myworkdaysite.com/recruiting/sysco/syscocareers/job/Sysco-Corporate/Data-Engineer-Intern_R263666) | 85 | Houston, TX | AI/ML/Data | 2026-08-20 |
 | [Software Engineer Intern](https://wd5.myworkdaysite.com/recruiting/sysco/syscocareers/job/Sysco-Corporate/Software-Dev-Engineer-Intern_R263660) | 85 | Houston, TX | Software | 2026-08-20 |
 
+## Syska Hennessy Group
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Innovations Intern - Full Stack/Front End Engineering](https://job-boards.greenhouse.io/syskahennessy/jobs/8147733) | 93 | NYC | Software | 2026-08-21 |
+
 ## System Canada Technologies
 
 | Title | Score | Location | Department | First seen |
@@ -7863,6 +7873,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Associate Software Engineer](https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Associate-Software-Engineer_REQ369269) | 93 | Atlanta, GA | Software | 2026-08-21 |
 | [Associate Software Engineer](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Associate-Software-Engineer_REQ364465-1) | 93 | Frisco, TX / Bellevue, WA | Software | 2026-08-21 |
 | [Associate Engineer - Software](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Associate-Engineer--Software_REQ366936) | 93 | Frisco, TX | Software | 2026-08-19 |
 
