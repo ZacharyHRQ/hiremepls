@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-21T20:58:19.118Z",
+  "generatedAt": "2026-08-21T21:21:45.403Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2752,
+  "jobCount": 2750,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -89,7 +89,6 @@
     "canonical:c8b6b3b53807f1b9": "2026-06-11T11:07:45.069Z",
     "canonical:f669100424c0bd48": "2026-06-11T11:07:45.069Z",
     "canonical:8bb3fdfb8f3776da": "2026-06-11T11:07:45.069Z",
-    "canonical:627ecb13b3a05166": "2026-06-11T11:07:45.069Z",
     "canonical:911024e35734afb8": "2026-06-11T11:07:45.069Z",
     "canonical:31962d85f79aae5b": "2026-06-13T15:55:40.354Z",
     "canonical:19300e1217fa0c5e": "2026-06-15T11:27:26.940Z",
@@ -1536,7 +1535,6 @@
     "canonical:548b8c959d022be9": "2026-08-17T16:14:31.608Z",
     "canonical:e009234898d54303": "2026-08-17T16:14:31.608Z",
     "canonical:9b39fbe8b5b1327b": "2026-08-17T16:14:31.608Z",
-    "canonical:7894589778991973": "2026-08-17T16:14:31.608Z",
     "canonical:a6f9510898ad411b": "2026-08-17T16:14:31.608Z",
     "canonical:80079f6e62066930": "2026-08-17T16:14:31.608Z",
     "canonical:33ef807f06760748": "2026-08-17T16:14:31.608Z",
@@ -7364,20 +7362,6 @@
       "title": "Software Engineer Intern - Vehicle Controls",
       "url": "https://jobs.ashbyhq.com/rivianvw.tech/89feb2fe-c28c-4dad-846f-09594632ba55/application",
       "location": "Palo Alto, CA / Irvine, CA",
-      "department": "Hardware",
-      "company": "Rivian and Volkswagen Group Technologies",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:627ecb13b3a05166",
-      "title": "Software Engineer Intern Co-op - Vehicle Controls",
-      "url": "https://jobs.ashbyhq.com/rivianvw.tech/a706bc73-8c3d-41b0-8bc5-874926a4af3e/application",
-      "location": "Toronto, ON, Canada / Vancouver, BC, Canada",
       "department": "Hardware",
       "company": "Rivian and Volkswagen Group Technologies",
       "score": 93,
@@ -25912,19 +25896,6 @@
       "location": "Deerfield, IL",
       "department": "Software",
       "company": "Walgreens",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:7894589778991973",
-      "title": "Software Engineer",
-      "url": "https://independentsoftware.applytojob.com/apply/fCGbXaNPRL/Software-Engineer-Level-0-FORECASTED",
-      "location": "Fort Meade, MD",
-      "department": "Software",
-      "company": "Independent Software",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",

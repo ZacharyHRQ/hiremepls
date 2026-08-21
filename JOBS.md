@@ -1,6 +1,6 @@
 # Open Internships
 
-**2752** internships across **188/188** companies — last updated 2026-08-21.
+**2750** internships across **188/188** companies — last updated 2026-08-21.
 
 ## Companies
 
@@ -468,7 +468,6 @@
 - [impact.com](#impact-com) (1)
 - [Inbulks](#inbulks) (1)
 - [Incident IQ](#incident-iq) (1)
-- [Independent Software](#independent-software) (1)
 - [InfiniteQuant](#infinitequant) (3)
 - [Infoblox](#infoblox) (1)
 - [Infojini](#infojini) (2)
@@ -802,7 +801,7 @@
 - [Rippling](#rippling) (4)
 - [Ritchie Bros.](#ritchie-bros) (1)
 - [Riverside Research](#riverside-research) (1)
-- [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (10)
+- [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (9)
 - [Roam](#roam) (1)
 - [Robert Bosch LLC](#robert-bosch-llc) (1)
 - [Robert Bosch Venture Capital](#robert-bosch-venture-capital) (1)
@@ -4496,12 +4495,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/incidentiq/jobs/7824038003) | 93 | Alpharetta, GA | Software | 2026-08-04 |
 
-## Independent Software
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer](https://independentsoftware.applytojob.com/apply/fCGbXaNPRL/Software-Engineer-Level-0-FORECASTED) | 85 | Fort Meade, MD | Software | 2026-08-17 |
-
 ## InfiniteQuant
 
 | Title | Score | Location | Department | First seen |
@@ -7013,7 +7006,6 @@
 | [Software Engineer Intern - Vehicle Controls](https://jobs.ashbyhq.com/rivianvw.tech/89feb2fe-c28c-4dad-846f-09594632ba55/application) | 93 | Palo Alto, CA / Irvine, CA | Hardware | 2026-06-11 |
 | [Software Engineer Intern Co-op - Applications](https://jobs.ashbyhq.com/rivianvw.tech/259f1a7c-3102-47a3-9919-c1174d9be89c/application) | 93 | Toronto, ON, Canada / Vancouver, BC, Canada | Software | 2026-06-11 |
 | [Software Engineer Intern Co-op - Systems Engineering](https://jobs.ashbyhq.com/rivianvw.tech/28e87a5e-7aba-4f91-af44-74f739356a27/application) | 93 | Vancouver, BC, Canada | Hardware | 2026-06-11 |
-| [Software Engineer Intern Co-op - Vehicle Controls](https://jobs.ashbyhq.com/rivianvw.tech/a706bc73-8c3d-41b0-8bc5-874926a4af3e/application) | 93 | Toronto, ON, Canada / Vancouver, BC, Canada | Hardware | 2026-06-11 |
 | [Software Engineer Intern, Embedded Platforms](https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff) | 93 | Palo Alto, CA / Irvine, CA | — | 2026-06-11 |
 
 ## Roam
