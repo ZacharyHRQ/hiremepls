@@ -1,6 +1,6 @@
 # Open Internships
 
-**2752** internships across **188/188** companies — last updated 2026-08-21.
+**2749** internships across **188/188** companies — last updated 2026-08-21.
 
 ## Companies
 
@@ -42,7 +42,7 @@
 - [Alta Ares](#alta-ares) (1)
 - [Altice USA](#altice-usa) (2)
 - [AMAX](#amax) (1)
-- [Amazon](#amazon) (45)
+- [Amazon](#amazon) (44)
 - [Ambarella](#ambarella) (1)
 - [Amcor](#amcor) (1)
 - [Amentum](#amentum) (2)
@@ -386,7 +386,6 @@
 - [General Matter](#general-matter) (2)
 - [General Motors](#general-motors) (3)
 - [Genetec](#genetec) (4)
-- [Geneva Trading](#geneva-trading) (1)
 - [GenMD](#genmd) (1)
 - [Gentex Corporation](#gentex-corporation) (1)
 - [Georgian Partners Growth](#georgian-partners-growth) (1)
@@ -782,7 +781,6 @@
 - [RELX](#relx) (1)
 - [Remodel Health](#remodel-health) (1)
 - [Renaissance Technologies](#renaissance-technologies) (1)
-- [RenderATL](#renderatl) (1)
 - [Rendezvous Robotics](#rendezvous-robotics) (1)
 - [Repligen](#repligen) (1)
 - [Replit](#replit) (3)
@@ -1357,7 +1355,6 @@
 | [2026 Graduate Software Dev Engineer](https://amazon.jobs/en/jobs/10386987/2026-graduate-software-dev-engineer) | 91 | Haifa | Software Development | 2026-07-20 |
 | [软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years)](https://amazon.jobs/en/jobs/10399403/new-graduate-or-entry-level-engineer-0-2-years) | 91 | Beijing | Software Development | 2026-07-20 |
 | [2026 Software Dev Engineer Intern - Germany](https://amazon.jobs/en/jobs/3074226/2026-software-dev-engineer-intern-germany) | 85 | Berlin | Software Development | 2026-07-20 |
-| [2026 Software Dev Engineer Intern (Location : Sydney)](https://amazon.jobs/en/jobs/3204846/2026-software-dev-engineer-intern-location-sydney) | 85 | Sydney | Software Development | 2026-07-20 |
 | [2027 Software Dev Engineer Intern](https://amazon.jobs/en/jobs/10418355/2027-software-dev-engineer-intern) | 85 | Dublin | Software Development | 2026-07-20 |
 | [Quality Assurance Eng. Intern, 2026 Beijing](https://amazon.jobs/en/jobs/3149135/quality-assurance-eng-intern-2026-beijing) | 85 | Beijing | Systems, Quality, & Security Engineering | 2026-07-20 |
 | [SEED Engineer Program - Software Development Engineer Intern, 2026 Shenzhen](https://amazon.jobs/en/jobs/10377042/seed-engineer-program-software-development-engineer-intern-2026-shenzhen) | 85 | Shenzhen | Software Development | 2026-07-20 |
@@ -2771,9 +2768,9 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern - Fall 2026](https://boards.greenhouse.io/cloudflare/jobs/8118855) | 93 | London, UK | Software | 2026-08-20 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
-| [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855) | 93 | In-Office | — | 2026-08-11 |
+| [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -3936,12 +3933,6 @@
 | [Software Developer - Euse - Access Control Embedded](https://apply.workable.com/genetec-inc/j/1ECCB83458/apply) | 93 | Montreal, QC, Canada | Hardware | 2026-08-17 |
 | [Software Developer - Multiple Teams](https://apply.workable.com/genetec-inc/j/9DC9768E16/apply) | 93 | Montreal, QC, Canada / Sherbrooke, QC, Canada | Software | 2026-08-17 |
 | [Software Developer - Physical Access Control - SaaS](https://apply.workable.com/genetec-inc/j/46C9414CC4/apply) | 93 | Montreal, QC, Canada | Software | 2026-08-17 |
-
-## Geneva Trading
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Junior Software Engineer](https://job-boards.greenhouse.io/genevatrading/jobs/5085231007) | 93 | Chicago, IL | Software Engineering | 2026-08-20 |
 
 ## GenMD
 
@@ -6482,8 +6473,8 @@
 | [Quantitative Developer](https://careers.point72.com/CSJobDetail?jobName=quantitative-developer&jobCode=CSS-0013369&location=New%20York&locale=English) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-08-17 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -6853,12 +6844,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Research Scientist](https://www.rentec.com/Careers.action?jobs=true&selectedPosition=researchScientist) | 75 | East Setauket, NY | — | 2026-08-17 |
-
-## RenderATL
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003) | 93 | Seattle, WA | — | 2026-08-20 |
 
 ## Rendezvous Robotics
 
