@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-21T07:22:30.366Z",
+  "generatedAt": "2026-08-21T08:02:34.451Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2746,
+  "jobCount": 2743,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -316,7 +316,6 @@
     "canonical:c66bdf218e8e2b56": "2026-07-23T23:35:05.953Z",
     "canonical:28ebf9f9488e14ee": "2026-07-23T23:35:05.953Z",
     "canonical:98d169a93517ae1a": "2026-07-24T07:06:55.054Z",
-    "canonical:08e9bf362f5945b7": "2026-07-24T09:30:50.304Z",
     "canonical:b7e2b2dbebb1a7cb": "2026-07-24T16:38:46.477Z",
     "canonical:99928d510fec02a5": "2026-07-24T19:11:20.088Z",
     "canonical:1157660e96042c8c": "2026-07-24T20:39:49.554Z",
@@ -737,7 +736,6 @@
     "canonical:e34d54a98e46db9c": "2026-08-14T22:38:27.992Z",
     "canonical:e31c6f05c180cfcc": "2026-08-14T22:38:27.992Z",
     "canonical:0fcedda01cafb728": "2026-08-14T22:38:27.992Z",
-    "canonical:4f80923d88ed59e9": "2026-08-14T22:38:27.992Z",
     "canonical:054a6ad4d0b8930f": "2026-08-14T22:57:06.363Z",
     "canonical:77077aa3870a7868": "2026-08-14T22:57:06.363Z",
     "canonical:24e05e83163e38fd": "2026-08-15T01:15:49.054Z",
@@ -2370,7 +2368,6 @@
     "canonical:2dec70c7a7e40586": "2026-08-17T22:39:29.520Z",
     "canonical:844dd6e4649727ed": "2026-08-17T22:39:29.520Z",
     "canonical:b35b51d7cd95dcfc": "2026-08-17T22:39:29.520Z",
-    "canonical:a211abc107ff4bd8": "2026-08-17T22:39:29.520Z",
     "canonical:eb9265e601ba36e6": "2026-08-17T22:39:29.520Z",
     "canonical:e5b96073876c4b8e": "2026-08-17T22:39:29.520Z",
     "canonical:e95e1f4511b78d10": "2026-08-17T22:39:29.520Z",
@@ -2923,11 +2920,11 @@
       ]
     },
     {
-      "id": "canonical:03c9fa8995a8292a",
+      "id": "canonical:17fc1df56cefeb65",
       "title": "Graduate Software Engineer",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917773101",
-      "location": "Aarhus, Central Denmark Region, Denmark",
-      "department": "",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4818790101",
+      "location": "Chicago, IL",
+      "department": "Software",
       "company": "IMC Trading",
       "score": 99,
       "scoreReasons": [
@@ -2938,11 +2935,11 @@
       ]
     },
     {
-      "id": "canonical:17fc1df56cefeb65",
+      "id": "canonical:03c9fa8995a8292a",
       "title": "Graduate Software Engineer",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4818790101",
-      "location": "Chicago, IL",
-      "department": "Software",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917773101",
+      "location": "Aarhus, Central Denmark Region, Denmark",
+      "department": "",
       "company": "IMC Trading",
       "score": 99,
       "scoreReasons": [
@@ -3246,18 +3243,6 @@
       ]
     },
     {
-      "id": "canonical:4d567555739a50bd",
-      "title": "Campus Systems Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
-      "location": "Singapore",
-      "department": "",
-      "company": "Jump Trading",
-      "score": 75,
-      "scoreReasons": [
-        "SWE-aligned"
-      ]
-    },
-    {
       "id": "canonical:eea417b083785298",
       "title": "Campus Systems Engineer (Intern)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
@@ -3274,6 +3259,18 @@
       "title": "Campus Systems Engineer (Intern)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
       "location": "Chicago",
+      "department": "",
+      "company": "Jump Trading",
+      "score": 75,
+      "scoreReasons": [
+        "SWE-aligned"
+      ]
+    },
+    {
+      "id": "canonical:4d567555739a50bd",
+      "title": "Campus Systems Engineer (Intern)",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
+      "location": "Singapore",
       "department": "",
       "company": "Jump Trading",
       "score": 75,
@@ -3349,34 +3346,6 @@
       ]
     },
     {
-      "id": "canonical:1d41c103b87b651a",
-      "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
-      "location": "Chicago, IL",
-      "department": "Software",
-      "company": "DRW",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:81000bcd395c1244",
-      "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
-      "location": "Montreal, QC, Canada",
-      "department": "Software",
-      "company": "DRW",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:f9963438d881a851",
       "title": "Software Developer Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
@@ -3395,6 +3364,34 @@
       "title": "Software Developer Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
       "location": "London, UK",
+      "department": "Software",
+      "company": "DRW",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1d41c103b87b651a",
+      "title": "Software Developer Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
+      "location": "Chicago, IL",
+      "department": "Software",
+      "company": "DRW",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:81000bcd395c1244",
+      "title": "Software Developer Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
+      "location": "Montreal, QC, Canada",
       "department": "Software",
       "company": "DRW",
       "score": 93,
@@ -4753,19 +4750,6 @@
       ]
     },
     {
-      "id": "canonical:08e9bf362f5945b7",
-      "title": "Software Dev Engineer Intern Machine Learning, Amazon Robotics",
-      "url": "https://amazon.jobs/en/jobs/10401402/software-dev-engineer-intern-machine-learning-amazon-robotics",
-      "location": "Berlin",
-      "department": "Software Development",
-      "company": "Amazon",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:82e7224c7c7bdcff",
       "title": "2026 Software Dev Engineer Intern - Germany",
       "url": "https://amazon.jobs/en/jobs/3074226/2026-software-dev-engineer-intern-germany",
@@ -5367,7 +5351,7 @@
     {
       "id": "canonical:1a056010d15d11c7",
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -5380,7 +5364,7 @@
     {
       "id": "canonical:073e340d37608d22",
       "title": "Software Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -9001,20 +8985,6 @@
       "location": "SF",
       "department": "Software",
       "company": "Phonely",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:f1e5d09812c38d72",
-      "title": "Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/fluency/2aced4e2-485b-4525-802c-763e62c91e88/application?embed=true",
-      "location": "SF",
-      "department": "Software",
-      "company": "Fluency",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -12725,20 +12695,6 @@
       ]
     },
     {
-      "id": "canonical:4f80923d88ed59e9",
-      "title": "Software Engineer Intern - Summer 2027",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/Software-Engineering-Intern--Summer-2027-_01866619",
-      "location": "El Segundo, CA",
-      "department": "Hardware",
-      "company": "RTX",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:03dde52273791c03",
       "title": "Software Engineer Intern - Summer 2027",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MN-BURNSVILLE-NORTH--2900-County-Rd-42-W--NORTH-BLDG/Software-Engineering-Intern--Summer-2027-_01866681",
@@ -14498,6 +14454,20 @@
       "location": "SF / Bellevue, WA / Mountain View, CA",
       "department": "Software",
       "company": "Databricks",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f1e5d09812c38d72",
+      "title": "Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/fluency/2aced4e2-485b-4525-802c-763e62c91e88/application?embed=true",
+      "location": "SF",
+      "department": "Software",
+      "company": "Fluency",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -33470,20 +33440,6 @@
         "SWE-aligned",
         "high-signal role",
         "new grad"
-      ]
-    },
-    {
-      "id": "canonical:a211abc107ff4bd8",
-      "title": "Software Engineer Associate - Business Intelligence Enablement",
-      "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15219/Software-Engineer-Associate---Business-Intelligence-Enablement_R232352-1",
-      "location": "Pittsburgh, PA / Strongsville, OH",
-      "department": "Software",
-      "company": "PNC Financial Services",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {

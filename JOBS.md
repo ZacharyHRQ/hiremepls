@@ -1,6 +1,6 @@
 # Open Internships
 
-**2746** internships across **188/188** companies — last updated 2026-08-21.
+**2743** internships across **188/188** companies — last updated 2026-08-21.
 
 ## Companies
 
@@ -42,7 +42,7 @@
 - [Alta Ares](#alta-ares) (1)
 - [Altice USA](#altice-usa) (2)
 - [AMAX](#amax) (1)
-- [Amazon](#amazon) (44)
+- [Amazon](#amazon) (43)
 - [Ambarella](#ambarella) (1)
 - [Amcor](#amcor) (1)
 - [AMD](#amd) (9)
@@ -728,7 +728,7 @@
 - [Plaid](#plaid) (1)
 - [PlusAI](#plusai) (3)
 - [PMG](#pmg) (1)
-- [PNC Financial Services](#pnc-financial-services) (2)
+- [PNC Financial Services](#pnc-financial-services) (1)
 - [Point72](#point72) (12)
 - [pony.ai](#pony-ai) (1)
 - [Pony.ai](#pony-ai) (1)
@@ -812,7 +812,7 @@
 - [Royal Bank of Canada](#royal-bank-of-canada) (2)
 - [Royal Caribbean Group](#royal-caribbean-group) (1)
 - [RRS Group](#rrs-group) (2)
-- [RTX](#rtx) (49)
+- [RTX](#rtx) (48)
 - [RunSybil](#runsybil) (1)
 - [Ryder System](#ryder-system) (1)
 - [SA Technologies](#sa-technologies) (2)
@@ -1352,7 +1352,6 @@
 | [Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)](https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more) | 85 | North Reading, Massachusetts, USA | Data & ML/AI / Fall 2026 | 2026-07-27 |
 | [Robotics - Software Development Engineer Intern/Co-op - 2026](https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026) | 85 | Westboro, Massachusetts, USA | Hardware / Fall 2026 | 2026-07-27 |
 | [Software Development Engineer Internship - Fall 2026 (US)](https://www.amazon.jobs/en/jobs/3116030/software-development-engineer-internship-fall-2026-us) | 85 | Seattle, Washington, USA | Software / Fall 2026 | 2026-07-27 |
-| [Software Dev Engineer Intern Machine Learning, Amazon Robotics](https://amazon.jobs/en/jobs/10401402/software-dev-engineer-intern-machine-learning-amazon-robotics) | 85 | Berlin | Software Development | 2026-07-24 |
 | [2026 Graduate Software Dev Engineer](https://amazon.jobs/en/jobs/10386987/2026-graduate-software-dev-engineer) | 91 | Haifa | Software Development | 2026-07-20 |
 | [软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years)](https://amazon.jobs/en/jobs/10399403/new-graduate-or-entry-level-engineer-0-2-years) | 91 | Beijing | Software Development | 2026-07-20 |
 | [2026 Software Dev Engineer Intern - Germany](https://amazon.jobs/en/jobs/3074226/2026-software-dev-engineer-intern-germany) | 85 | Berlin | Software Development | 2026-07-20 |
@@ -2788,9 +2787,9 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern - Fall 2026](https://boards.greenhouse.io/cloudflare/jobs/8118855) | 93 | London, UK | Software | 2026-08-20 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
-| [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855) | 93 | In-Office | — | 2026-08-11 |
+| [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -6486,7 +6485,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Developer Associate](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Software-Developer-Associate_R217594-1) | 93 | Dallas, TX / Pittsburgh, PA / Strongsville, OH | Software | 2026-08-19 |
-| [Software Engineer Associate - Business Intelligence Enablement](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15219/Software-Engineer-Associate---Business-Intelligence-Enablement_R232352-1) | 93 | Pittsburgh, PA / Strongsville, OH | Software | 2026-08-17 |
 
 ## Point72
 
@@ -7113,7 +7111,6 @@
 | [Software Engineering Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineering-Intern--Summer-2027-_01866777) | 93 | Tucson, AZ | Hardware | 2026-08-15 |
 | [Software Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01867129) | 93 | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 | Software / Summer 2027 | 2026-08-15 |
 | [Software Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern--Summer-2027-_01866136) | 93 | US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 | Software / Summer 2027 | 2026-08-14 |
-| [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/Software-Engineering-Intern--Summer-2027-_01866619) | 93 | El Segundo, CA | Hardware | 2026-08-14 |
 | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MN-BURNSVILLE-NORTH--2900-County-Rd-42-W--NORTH-BLDG/Software-Engineering-Intern--Summer-2027-_01866681) | 93 | Burnsville, MN | Hardware | 2026-08-11 |
 | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineering-Intern--Summer-2027-_01867814) | 93 | Marlborough, MA | Software | 2026-08-10 |
 | [Systems Engineer 1 Intern - Intern Conversion](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion--Systems-Engineer-I--Onsite-_01863190) | 93 | Cedar Rapids, IA | Software | 2026-08-07 |
