@@ -1,6 +1,6 @@
 # Open Internships
 
-**2737** internships across **188/188** companies — last updated 2026-08-21.
+**2738** internships across **188/188** companies — last updated 2026-08-21.
 
 ## Companies
 
@@ -258,6 +258,7 @@
 - [Cylake](#cylake) (1)
 - [D2L](#d2l) (1)
 - [D3 Global Inc](#d3-global-inc) (1)
+- [Da Vinci](#da-vinci) (1)
 - [Daikin Applied](#daikin-applied) (1)
 - [Dark Wolf Solutions](#dark-wolf-solutions) (2)
 - [Databricks](#databricks) (3)
@@ -402,6 +403,7 @@
 - [GlobalFoundries](#globalfoundries) (3)
 - [Globus Medical](#globus-medical) (1)
 - [GM financial](#gm-financial) (2)
+- [GoDaddy](#godaddy) (1)
 - [Goldman Sachs](#goldman-sachs) (4)
 - [Google](#google) (11)
 - [Gradient Robotics](#gradient-robotics) (1)
@@ -619,7 +621,6 @@
 - [Mobius Renewables](#mobius-renewables) (1)
 - [Modal](#modal) (1)
 - [Moderna](#moderna) (1)
-- [Momentive](#momentive) (1)
 - [Monogram](#monogram) (1)
 - [Montenson](#montenson) (1)
 - [Montreal Institute for Learning Algorithms](#montreal-institute-for-learning-algorithms) (1)
@@ -3063,6 +3064,12 @@
 | --- | --- | --- | --- | --- |
 | [New Grad: Backend Engineer](https://d3.com/careers#jobs-listing) | 91 | Los Angeles, CA | — | 2026-08-17 |
 
+## Da Vinci
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Graduate C++ Software Engineer](https://davincitrading.com/job/graduate-c-software-engineer-2/) | 91 | Miami, FL | — | 2026-08-21 |
+
 ## Daikin Applied
 
 | Title | Score | Location | Department | First seen |
@@ -4040,6 +4047,12 @@
 | --- | --- | --- | --- | --- |
 | [Software Development Engineer 1](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1991) | 85 | Arlington, TX / Irving, TX | Software | 2026-08-17 |
 | [Software Engineer 1 - Adobe Exp Platform](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260400) | 85 | Irving, TX | Software | 2026-08-17 |
+
+## GoDaddy
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Development Engineer Intern](https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003) | 93 | Tempe, AZ | — | 2026-08-21 |
 
 ## Goldman Sachs
 
@@ -5592,12 +5605,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Data Scientist - Research](https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/Data-Scientist_R19572) | 93 | Cambridge, MA | AI/ML/Data | 2026-08-20 |
-
-## Momentive
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Associate Data Engineer](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Associate-Data-Engineer_R9821) | 93 | Niskayuna, NY | AI/ML/Data | 2026-08-20 |
 
 ## Monogram
 

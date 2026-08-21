@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-21T14:51:02.139Z",
+  "generatedAt": "2026-08-21T15:22:49.640Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2737,
+  "jobCount": 2738,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2631,7 +2631,6 @@
     "canonical:5e6699fa8919ebce": "2026-08-20T22:54:52.406Z",
     "canonical:fc0211871fa33832": "2026-08-20T22:54:52.406Z",
     "canonical:af728be96de82f8b": "2026-08-20T22:54:52.406Z",
-    "canonical:8ee74dbd57cdc52a": "2026-08-20T22:54:52.406Z",
     "canonical:a000b4aa9c3f4c77": "2026-08-20T22:54:52.406Z",
     "canonical:860afe338ca3eee4": "2026-08-20T22:54:52.406Z",
     "canonical:65486e387d175750": "2026-08-20T22:54:52.406Z",
@@ -2740,7 +2739,9 @@
     "canonical:c32f5ba67b868ed6": "2026-08-21T14:51:02.139Z",
     "canonical:790999835c327c40": "2026-08-21T14:51:02.139Z",
     "canonical:7a06ad32f76dbfee": "2026-08-21T14:51:02.139Z",
-    "canonical:5e9c64f3ff37fb4c": "2026-08-21T14:51:02.139Z"
+    "canonical:5e9c64f3ff37fb4c": "2026-08-21T14:51:02.139Z",
+    "canonical:99a13e746f2a0a9f": "2026-08-21T15:22:49.640Z",
+    "canonical:4a77656807157e3b": "2026-08-21T15:22:49.640Z"
   },
   "jobs": [
     {
@@ -15621,6 +15622,20 @@
       "location": "McKinney, TX",
       "department": "",
       "company": "RTX",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:99a13e746f2a0a9f",
+      "title": "Software Development Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003",
+      "location": "Tempe, AZ",
+      "department": "",
+      "company": "GoDaddy",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -35140,20 +35155,6 @@
       ]
     },
     {
-      "id": "canonical:8ee74dbd57cdc52a",
-      "title": "Associate Data Engineer",
-      "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Associate-Data-Engineer_R9821",
-      "location": "Niskayuna, NY",
-      "department": "AI/ML/Data",
-      "company": "Momentive",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:a000b4aa9c3f4c77",
       "title": "Quality Analytics Engineer",
       "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68687",
@@ -36164,6 +36165,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:4a77656807157e3b",
+      "title": "Graduate C++ Software Engineer",
+      "url": "https://davincitrading.com/job/graduate-c-software-engineer-2/",
+      "location": "Miami, FL",
+      "department": "",
+      "company": "Da Vinci",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
       ]
     },
     {
