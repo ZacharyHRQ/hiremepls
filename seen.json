@@ -19,8 +19,8 @@
     "4892687101",
     "4917773101",
     "4818790101",
-    "4564480101",
     "4635938101",
+    "4564480101",
     "4667814101",
     "4932192101",
     "4577504101",
@@ -45,9 +45,9 @@
     "7982648",
     "7975026",
     "8002989",
+    "8027952",
     "8000323",
     "8007788",
-    "8027952",
     "7565728",
     "8003019",
     "7974943"
@@ -55,10 +55,10 @@
   "DRW": [
     "7997729",
     "7981754",
-    "7992936",
-    "8020364",
     "7991196",
+    "7992936",
     "7942281",
+    "8020364",
     "8014910",
     "8127242"
   ],
@@ -78,8 +78,8 @@
     "8024128"
   ],
   "Point72": [
-    "7297598002",
     "7297611002",
+    "7297598002",
     "7302611002",
     "8721562002",
     "7586061002",
@@ -120,8 +120,8 @@
     "7e0dafe8-3eec-442e-aa76-a4d84d779fb1"
   ],
   "Stripe": [
-    "8031833",
-    "8097801"
+    "8097801",
+    "8031833"
   ],
   "Databricks": [
     "7011263002",
@@ -134,9 +134,9 @@
   ],
   "MongoDB": [],
   "Cloudflare": [
-    "8089407",
     "8089400",
     "8089379",
+    "8089407",
     "8118845",
     "8118855",
     "8052785"
@@ -2324,7 +2324,6 @@
     "simplify:fa9b8b4c-326b-46f7-8979-43e65256db21",
     "simplify:01f94977-fc40-414b-bd6d-f44693eacceb",
     "simplify:4fa1b683-fa30-44b0-a279-ea52a60e6a84",
-    "simplify:67334d37-7e0d-42f1-8946-bdab22643cc3",
     "simplify:52758ea7-052d-4c85-9fbe-2558a05538f1",
     "simplify:f9783cfd-0933-41da-8102-1c15ae7d9c3c",
     "simplify:dcab0a63-0790-4990-ad6c-517c42b6436b",
@@ -2381,7 +2380,8 @@
     "simplify:631bbbfe-8d2d-4b49-8e16-c60d7eebde34",
     "simplify:6b73883a-ab74-444e-93ce-5fd790148177",
     "simplify:c4bfe952-8e9a-4599-966c-127295b128ad",
-    "simplify:e4dd1ece-36bc-4785-88a7-beb7bdfb4414"
+    "simplify:e4dd1ece-36bc-4785-88a7-beb7bdfb4414",
+    "simplify:214fc73f-c4d9-4c6d-8455-16b74d79ce68"
   ],
   "DoorDash": [],
   "Waymo": [
@@ -3230,7 +3230,6 @@
     "simplify:fa9b8b4c-326b-46f7-8979-43e65256db21",
     "simplify:01f94977-fc40-414b-bd6d-f44693eacceb",
     "simplify:4fa1b683-fa30-44b0-a279-ea52a60e6a84",
-    "simplify:67334d37-7e0d-42f1-8946-bdab22643cc3",
     "simplify:52758ea7-052d-4c85-9fbe-2558a05538f1",
     "simplify:f9783cfd-0933-41da-8102-1c15ae7d9c3c",
     "simplify:dcab0a63-0790-4990-ad6c-517c42b6436b",
@@ -3287,7 +3286,8 @@
     "simplify:631bbbfe-8d2d-4b49-8e16-c60d7eebde34",
     "simplify:6b73883a-ab74-444e-93ce-5fd790148177",
     "simplify:c4bfe952-8e9a-4599-966c-127295b128ad",
-    "simplify:e4dd1ece-36bc-4785-88a7-beb7bdfb4414"
+    "simplify:e4dd1ece-36bc-4785-88a7-beb7bdfb4414",
+    "simplify:214fc73f-c4d9-4c6d-8455-16b74d79ce68"
   ],
   "Wintermute": [],
   "QCP": [],
@@ -3519,6 +3519,7 @@
     "simplify:27d46f0f-ff42-4028-970a-2feef813f4b6",
     "simplify:65849b96-f8c1-491c-a19f-a23719bc19ce",
     "simplify:bfa6d860-85c2-4118-8d8c-e224b9e52584",
+    "simplify:ab473ee5-6fc1-4616-9629-d7f6c4950bbc",
     "simplify:2d6875ea-83f7-4be7-b4c7-e6677cd3d295",
     "simplify:1867969a-db0e-4b61-bcfe-810cf5e1f73c",
     "simplify:5b6cfd98-f91e-4052-a508-d60c97d76317",
@@ -3583,7 +3584,6 @@
     "simplify:8673e698-fd13-4dcc-aef5-1ccc0e8dff9b",
     "simplify:f586670c-43fc-4aa0-876f-128f612b446a",
     "simplify:2008e979-6d81-4fe7-9be3-e05bce3c0990",
-    "simplify:915c9551-f026-4bb8-bd3c-b58af6e93968",
     "simplify:8e4681bc-b6c9-4d01-beaa-cc1ded6e2b9c",
     "simplify:70940fcd-5a16-43f2-a8b6-6d04d6592298",
     "simplify:3daf8975-d7c2-4997-a768-836ce9335cc6",
@@ -3934,6 +3934,7 @@
     "simplify:706ec5af-3b65-44e6-b035-00b49595c54a",
     "simplify:940af5e9-b061-4e04-bb67-81fe75ec728a",
     "simplify:3115293e-b441-44c4-a702-ffbbf8b9ef9e",
+    "simplify:617caf94-0106-4351-99bc-6d4f930e8107",
     "simplify:bdec9d0e-5c93-4f92-8f63-47a3797815fa",
     "simplify:e0464682-609a-4b97-808a-3243925dea62",
     "simplify:1a22f6de-6cee-4fe0-a021-eeef9cdb81ea",

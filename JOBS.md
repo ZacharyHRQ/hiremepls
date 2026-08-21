@@ -209,7 +209,6 @@
 - [Circleback](#circleback) (1)
 - [Cirrus Logic](#cirrus-logic) (1)
 - [Cisco](#cisco) (3)
-- [Citadel](#citadel) (1)
 - [Citi](#citi) (1)
 - [Citizen Health](#citizen-health) (1)
 - [City and County of San Francisco](#city-and-county-of-san-francisco) (1)
@@ -875,6 +874,7 @@
 - [Softheon](#softheon) (1)
 - [Solar Turbines](#solar-turbines) (3)
 - [Solerity](#solerity) (1)
+- [Solid Power](#solid-power) (1)
 - [SoloPulse](#solopulse) (3)
 - [Sony](#sony) (1)
 - [Sophos](#sophos) (1)
@@ -900,6 +900,7 @@
 - [State Street](#state-street) (1)
 - [Stellar Science](#stellar-science) (2)
 - [STEM Xpert](#stem-xpert) (1)
+- [Stewart](#stewart) (1)
 - [Stoke Space](#stoke-space) (1)
 - [STR](#str) (2)
 - [Strada](#strada) (1)
@@ -981,7 +982,7 @@
 - [Tripadvisor](#tripadvisor) (1)
 - [TRM Labs](#trm-labs) (1)
 - [Trovy](#trovy) (1)
-- [True Anomaly](#true-anomaly) (2)
+- [True Anomaly](#true-anomaly) (1)
 - [Truist Bank](#truist-bank) (1)
 - [Truveta](#truveta) (5)
 - [TSC](#tsc) (1)
@@ -1051,7 +1052,7 @@
 - [Wells Fargo](#wells-fargo) (2)
 - [WeRide](#weride) (2)
 - [Western Digital](#western-digital) (5)
-- [Western Magnetics](#western-magnetics) (2)
+- [Western Magnetics](#western-magnetics) (1)
 - [Westinghouse Electric Company](#westinghouse-electric-company) (5)
 - [White Cap Supply Holdings](#white-cap-supply-holdings) (1)
 - [Wolters Kluwer](#wolters-kluwer) (1)
@@ -1078,6 +1079,7 @@
 - [Zettabyte](#zettabyte) (2)
 - [Zip](#zip) (1)
 - [Zipline](#zipline) (3)
+- [Zone 5 Technologies](#zone-5-technologies) (1)
 - [Zoro](#zoro) (1)
 - [Zurich Insurance](#zurich-insurance) (1)
 - [Zurn Elkay Water Solutions](#zurn-elkay-water-solutions) (1)
@@ -2749,12 +2751,6 @@
 | [Data Science Engineer 2](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Data-Science-Engineer-II---Full-Time----United-States_2023062) | 93 | San Jose, CA | AI/ML/Data | 2026-08-18 |
 | [Data Science Engineer 2 - Full Time](https://careers.cisco.com/global/en/job/2023062) | 85 | San Jose, CA | AI/ML/Data | 2026-08-18 |
 
-## Citadel
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer, Intern (Summer 2026)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002?fbclid=PAQ0xDSwK38VtleHRuA2FlbQIxMQABpwFCtP3w0jUMJ2UyUfRb7jqEW6gF5Rr31twvg5geVxUyYXlmmQrGSEf9O3Pw_aem_MfePXp-UnrQgRcTvm_Lh4Q) | 93 | Chicago | — | 2026-08-21 |
-
 ## Citi
 
 | Title | Score | Location | Department | First seen |
@@ -2811,7 +2807,7 @@
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
 | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -6551,8 +6547,8 @@
 | [Quantitative Developer](https://careers.point72.com/CSJobDetail?jobName=quantitative-developer&jobCode=CSS-0013369&location=New%20York&locale=English) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-08-17 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -7532,6 +7528,12 @@
 | --- | --- | --- | --- | --- |
 | [JavaScript Software Engineer 1 - TS/SCI with Poly](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4272523) | 85 | Fort Meade, MD | Software | 2026-08-17 |
 
+## Solid Power
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Product Engineer Intern](https://job-boards.greenhouse.io/solidpower/jobs/6150710004) | 93 | Thornton, CO | Software | 2026-08-21 |
+
 ## SoloPulse
 
 | Title | Score | Location | Department | First seen |
@@ -7727,6 +7729,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Data Architect](https://jobs.smartrecruiters.com/StemXpert1/92601843) | 93 | East Lansing, MI | AI/ML/Data | 2026-08-17 |
+
+## Stewart
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Copilot Systems Engineer 1](https://stewart.wd1.myworkdayjobs.com/External/job/USA-TX---Remote/Systems-Engineer-I_JR108188) | 93 | Texas | Software | 2026-08-21 |
 
 ## Stoke Space
 
@@ -8560,7 +8568,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Flight Software Engineer 1](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5090441007) | 93 | Long Beach, CA / Denver, CO | Hardware | 2026-08-17 |
-| [Software Engineer 1 - QA](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5152215007) | 93 | Long Beach, CA / Denver, CO | Software | 2026-08-17 |
 
 ## Truist Bank
 
@@ -9029,7 +9036,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](https://apply.workable.com/western-magnetics/j/E366930F3F/) | 93 | South San Francisco, California, United States | Software / Not stated | 2026-08-20 |
-| [Software Engineer Intern](https://apply.workable.com/western-magnetics/j/E366930F3F/apply) | 93 | South SF | Software | 2026-08-20 |
 
 ## Westinghouse Electric Company
 
@@ -9206,6 +9212,12 @@
 | [Software Engineer Intern - Spring 2027](https://www.zipline.com/open-roles?gh_jid=7907191003) | 85 | South SF | Software | 2026-08-20 |
 | [Enterprise Systems Software Engineer Intern - Spring 2027](https://www.zipline.com/open-roles?gh_jid=7893926003) | 85 | South SF | Software | 2026-08-18 |
 | [Long Range Platform Hardware Engineering Intern](https://www.zipline.com/open-roles?gh_jid=7891460003) | 85 | South SF | Hardware | 2026-08-18 |
+
+## Zone 5 Technologies
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Embedded Software Engineer 1/2](https://job-boards.greenhouse.io/zone5technologies/jobs/5209498008) | 93 | San Luis Obispo, CA | Hardware | 2026-08-21 |
 
 ## Zoro
 

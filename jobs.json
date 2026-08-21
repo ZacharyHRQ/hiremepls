@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T22:57:50.674Z",
+  "generatedAt": "2026-08-21T23:20:03.307Z",
   "companyCount": 188,
   "okCount": 188,
   "jobCount": 2758,
@@ -1079,7 +1079,6 @@
     "canonical:2071d9e7f5fba37b": "2026-08-17T16:14:31.608Z",
     "canonical:aad310b4d6dd09a7": "2026-08-17T16:14:31.608Z",
     "canonical:46d37b87800e6b82": "2026-08-17T16:14:31.608Z",
-    "canonical:f0f4c69491cf77b5": "2026-08-17T16:14:31.608Z",
     "canonical:2b450da8f240b106": "2026-08-17T16:14:31.608Z",
     "canonical:7ab67264072eacce": "2026-08-17T16:14:31.608Z",
     "canonical:6c664e80b842bc4c": "2026-08-17T16:14:31.608Z",
@@ -2528,7 +2527,6 @@
     "canonical:d422d9a6f382f9ca": "2026-08-19T23:20:26.316Z",
     "canonical:674a405ca1f5de92": "2026-08-19T23:20:26.316Z",
     "canonical:620a2b12772a68a1": "2026-08-19T23:20:26.316Z",
-    "canonical:ea1e9dbf7f4c3633": "2026-08-20T01:05:21.178Z",
     "canonical:c7d5d063f2c52600": "2026-08-20T01:05:21.178Z",
     "canonical:cc9606ca0adb6dd8": "2026-08-20T01:05:21.178Z",
     "canonical:88f717e3806d30dc": "2026-08-20T01:05:21.178Z",
@@ -2712,7 +2710,6 @@
     "canonical:fc32f4951c97b021": "2026-08-21T16:19:54.438Z",
     "canonical:f83d76dbf5399d95": "2026-08-21T16:19:54.438Z",
     "canonical:01f1277947cfc5b2": "2026-08-21T16:57:56.617Z",
-    "canonical:e1cb819b5b9c30a1": "2026-08-21T16:57:56.617Z",
     "canonical:1ae22981c8ef9f13": "2026-08-21T17:25:19.249Z",
     "canonical:d1a37efb926fdbc6": "2026-08-21T17:52:52.838Z",
     "canonical:f5b7bf8d0e9fe0b1": "2026-08-21T18:21:28.013Z",
@@ -2761,7 +2758,10 @@
     "canonical:4de9a073fa8bc3d1": "2026-08-21T22:39:43.700Z",
     "canonical:28d2711ed8012f29": "2026-08-21T22:39:43.700Z",
     "canonical:d9438b9fc5b03079": "2026-08-21T22:39:43.700Z",
-    "canonical:4a77656807157e3b": "2026-08-21T22:39:43.700Z"
+    "canonical:4a77656807157e3b": "2026-08-21T22:39:43.700Z",
+    "canonical:b90bff8e0821679b": "2026-08-21T23:20:03.307Z",
+    "canonical:afe68e6aacc73ca5": "2026-08-21T23:20:03.307Z",
+    "canonical:dc85b73b7ad6a082": "2026-08-21T23:20:03.307Z"
   },
   "jobs": [
     {
@@ -3258,6 +3258,18 @@
       ]
     },
     {
+      "id": "canonical:4d567555739a50bd",
+      "title": "Campus Systems Engineer (Intern)",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
+      "location": "Singapore",
+      "department": "",
+      "company": "Jump Trading",
+      "score": 75,
+      "scoreReasons": [
+        "SWE-aligned"
+      ]
+    },
+    {
       "id": "canonical:eea417b083785298",
       "title": "Campus Systems Engineer (Intern)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
@@ -3274,18 +3286,6 @@
       "title": "Campus Systems Engineer (Intern)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
       "location": "Chicago",
-      "department": "",
-      "company": "Jump Trading",
-      "score": 75,
-      "scoreReasons": [
-        "SWE-aligned"
-      ]
-    },
-    {
-      "id": "canonical:4d567555739a50bd",
-      "title": "Campus Systems Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
-      "location": "Singapore",
       "department": "",
       "company": "Jump Trading",
       "score": 75,
@@ -3361,10 +3361,10 @@
       ]
     },
     {
-      "id": "canonical:1d41c103b87b651a",
+      "id": "canonical:81000bcd395c1244",
       "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
-      "location": "Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
+      "location": "Montreal, QC, Canada",
       "department": "Software",
       "company": "DRW",
       "score": 93,
@@ -3375,24 +3375,10 @@
       ]
     },
     {
-      "id": "canonical:f9963438d881a851",
+      "id": "canonical:1d41c103b87b651a",
       "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
-      "location": "Amsterdam",
-      "department": "",
-      "company": "DRW",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:81000bcd395c1244",
-      "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
-      "location": "Montreal, QC, Canada",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
+      "location": "Chicago, IL",
       "department": "Software",
       "company": "DRW",
       "score": 93,
@@ -3408,6 +3394,20 @@
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
       "location": "London, UK",
       "department": "Software",
+      "company": "DRW",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f9963438d881a851",
+      "title": "Software Developer Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
+      "location": "Amsterdam",
+      "department": "",
       "company": "DRW",
       "score": 93,
       "scoreReasons": [
@@ -3561,10 +3561,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -3575,10 +3575,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -5294,10 +5294,10 @@
       ]
     },
     {
-      "id": "canonical:e8a5b9fc6e1a4de2",
+      "id": "canonical:62beda5aaf0fcc6c",
       "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
-      "location": "Bengaluru",
+      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
+      "location": "Dublin",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -5307,10 +5307,10 @@
       ]
     },
     {
-      "id": "canonical:62beda5aaf0fcc6c",
+      "id": "canonical:e8a5b9fc6e1a4de2",
       "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
-      "location": "Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
+      "location": "Bengaluru",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -5392,7 +5392,7 @@
     {
       "id": "canonical:1a056010d15d11c7",
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -13732,20 +13732,6 @@
       ]
     },
     {
-      "id": "canonical:ea1e9dbf7f4c3633",
-      "title": "Software Engineer Intern",
-      "url": "https://apply.workable.com/western-magnetics/j/E366930F3F/apply",
-      "location": "South SF",
-      "department": "Software",
-      "company": "Western Magnetics",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:1a338f9e282882db",
       "title": "Software Engineering Intern",
       "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5377118008",
@@ -14358,6 +14344,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:b90bff8e0821679b",
+      "title": "Product Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/solidpower/jobs/6150710004",
+      "location": "Thornton, CO",
+      "department": "Software",
+      "company": "Solid Power",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -18164,6 +18164,20 @@
       ]
     },
     {
+      "id": "canonical:afe68e6aacc73ca5",
+      "title": "Embedded Software Engineer 1/2",
+      "url": "https://job-boards.greenhouse.io/zone5technologies/jobs/5209498008",
+      "location": "San Luis Obispo, CA",
+      "department": "Hardware",
+      "company": "Zone 5 Technologies",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:e825b093486910f5",
       "title": "Data Engineer - Junior",
       "url": "https://careers-americansystems.icims.com/jobs/4391/job?mobile=true&needsRedirect=false",
@@ -19000,20 +19014,6 @@
       "location": "Redmond, WA",
       "department": "Software",
       "company": "SpaceX",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:f0f4c69491cf77b5",
-      "title": "Software Engineer 1 - QA",
-      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5152215007",
-      "location": "Long Beach, CA / Denver, CO",
-      "department": "Software",
-      "company": "True Anomaly",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -23160,6 +23160,20 @@
       "location": "Coral Gables, FL",
       "department": "Software",
       "company": "Ryder System",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:dc85b73b7ad6a082",
+      "title": "Copilot Systems Engineer 1",
+      "url": "https://stewart.wd1.myworkdayjobs.com/External/job/USA-TX---Remote/Systems-Engineer-I_JR108188",
+      "location": "Texas",
+      "department": "Software",
+      "company": "Stewart",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -39715,20 +39729,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:e1cb819b5b9c30a1",
-      "title": "Software Engineer, Intern (Summer 2026)",
-      "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002?fbclid=PAQ0xDSwK38VtleHRuA2FlbQIxMQABpwFCtP3w0jUMJ2UyUfRb7jqEW6gF5Rr31twvg5geVxUyYXlmmQrGSEf9O3Pw_aem_MfePXp-UnrQgRcTvm_Lh4Q",
-      "location": "Chicago",
-      "department": "",
-      "company": "Citadel",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
