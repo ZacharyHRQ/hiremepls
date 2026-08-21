@@ -1,6 +1,6 @@
 # Open Internships
 
-**2754** internships across **188/188** companies — last updated 2026-08-21.
+**2744** internships across **188/188** companies — last updated 2026-08-21.
 
 ## Companies
 
@@ -8,7 +8,6 @@
 - [3RedPartners](#3redpartners) (2)
 - [9to9 Software Solutions](#9to9-software-solutions) (7)
 - [AAR](#aar) (1)
-- [Abacus Insights](#abacus-insights) (1)
 - [AbbVie](#abbvie) (2)
 - [Abound](#abound) (3)
 - [Abridge](#abridge) (1)
@@ -68,7 +67,7 @@
 - [Appian](#appian) (6)
 - [Apple](#apple) (31)
 - [Applied Intuition](#applied-intuition) (5)
-- [Applied Materials](#applied-materials) (7)
+- [Applied Materials](#applied-materials) (6)
 - [Applied Systems, Inc.](#applied-systems-inc) (2)
 - [AQR](#aqr) (1)
 - [Aquatic Capital](#aquatic-capital) (1)
@@ -201,7 +200,6 @@
 - [Cerebras](#cerebras) (7)
 - [CGS Federal (Contact Government Services)](#cgs-federal-contact-government-services) (1)
 - [Chamberlain Group](#chamberlain-group) (1)
-- [Charta Health](#charta-health) (1)
 - [ChenMed](#chenmed) (1)
 - [Chevron Corporation](#chevron-corporation) (2)
 - [Chicago Trading Company](#chicago-trading-company) (3)
@@ -327,7 +325,6 @@
 - [EnergyHub](#energyhub) (1)
 - [Enovation Controls LLC](#enovation-controls-llc) (1)
 - [Ensemble Health Partners](#ensemble-health-partners) (2)
-- [Entrust](#entrust) (1)
 - [Epos Now Group](#epos-now-group) (1)
 - [Eragon](#eragon) (1)
 - [Ernst & Young](#ernst-young) (1)
@@ -347,7 +344,6 @@
 - [Exelixis](#exelixis) (1)
 - [EXL](#exl) (3)
 - [fab2](#fab2) (1)
-- [Fab2](#fab2) (1)
 - [Faros AI](#faros-ai) (2)
 - [Feathery](#feathery) (1)
 - [Felix Magazine](#felix-magazine) (2)
@@ -385,7 +381,7 @@
 - [GE Healthcare](#ge-healthcare) (1)
 - [GE Vernova](#ge-vernova) (6)
 - [Gecko Robotics](#gecko-robotics) (1)
-- [Geico](#geico) (2)
+- [Geico](#geico) (1)
 - [Gemini](#gemini) (1)
 - [Generac](#generac) (3)
 - [General Dynamics](#general-dynamics) (1)
@@ -759,7 +755,6 @@
 - [Proximate Technologies](#proximate-technologies) (1)
 - [Publicis Groupe](#publicis-groupe) (1)
 - [Pylon](#pylon) (4)
-- [Pyrovio](#pyrovio) (1)
 - [qode.world](#qode-world) (2)
 - [Quadient](#quadient) (1)
 - [Quadric](#quadric) (1)
@@ -805,7 +800,7 @@
 - [Rippling](#rippling) (4)
 - [Ritchie Bros.](#ritchie-bros) (1)
 - [Riverside Research](#riverside-research) (1)
-- [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (13)
+- [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (10)
 - [Roam](#roam) (1)
 - [Robert Bosch LLC](#robert-bosch-llc) (1)
 - [Robert Bosch Venture Capital](#robert-bosch-venture-capital) (1)
@@ -1111,12 +1106,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Junior Web Developer](https://aarcorp.taleo.net/careersection/aar_mobile/jobdetail.ftl?job=18441) | 85 | Chicago, IL / Elk Grove Village, IL | Software | 2026-08-17 |
-
-## Abacus Insights
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Associate Data Engineer](https://boards.greenhouse.io/abacusinsights/jobs/8674746002) | 93 | Remote in USA | AI/ML/Data | 2026-08-20 |
 
 ## AbbVie
 
@@ -1616,7 +1605,6 @@
 | [AI Research Scientist - Generative Models for Scientific Discovery](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/AI-Research-Scientist--Generative-Models-for-Scientific-Discovery-_R2611980-1) | 93 | Santa Clara, CA | AI/ML/Data | 2026-08-17 |
 | [Computer Vision/Machine Learning/Deep Learning Algorithm Developer](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/CV-ML-DL-Algorithm-Developer_R2612906) | 93 | Santa Clara, CA | AI/ML/Data | 2026-08-17 |
 | [Data Scientist - Agentic AI / ML](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist---Agentic-AI---ML_R2621700) | 93 | Santa Clara, CA | AI/ML/Data | 2026-08-17 |
-| [Systems Engineer 3](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Systems-Engineer-III--E3-_R2621471) | 83 | Santa Clara, CA | Hardware | 2026-08-17 |
 | [Intern - Physics & AI modeling Engineering](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Intern---Physics---AI-modeling-Engineering_R2616095) | 93 | Santa Clara, CA | AI/ML/Data | 2026-07-21 |
 
 ## Applied Systems, Inc.
@@ -2689,12 +2677,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer 1 - AI](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Remote---California/Software-Engineer-I---AI_JR30290) | 93 | California | Software | 2026-08-17 |
 
-## Charta Health
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer New Grad](https://jobs.ashbyhq.com/chartahealth/9403a4cc-1bac-4798-9d82-be31ba8b42a0/application?embed=true) | 99 | SF / NYC | Software | 2026-08-18 |
-
 ## ChenMed
 
 | Title | Score | Location | Department | First seen |
@@ -3549,12 +3531,6 @@
 | [Data Scientist Intern](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Data-Scientist--AI_R048077) | 93 | Remote in USA | AI/ML/Data | 2026-08-01 |
 | [Engineering Excellence Intern](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Engineering-Excellence-Intern_R048023) | 93 | Remote in USA | AI/ML/Data | 2026-08-01 |
 
-## Entrust
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Applied Scientist 1](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-Kingdom---London-Onfido/Applied-Scientist-I_R003921) | 93 | London, UK | AI/ML/Data | 2026-08-17 |
-
 ## Epos Now Group
 
 | Title | Score | Location | Department | First seen |
@@ -3672,12 +3648,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](https://jobs.ashbyhq.com/fab2/947338ca-e135-4398-9aa3-79e131bc03d5?embed=true) | 93 | San Francisco, CA | — | 2026-08-17 |
-
-## Fab2
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Automation Software Engineer Intern](https://jobs.ashbyhq.com/fab2/615feebf-d9e3-4583-9c85-ba16af44e65c/application?embed=true) | 93 | SF / Austin, TX | Software | 2026-07-21 |
 
 ## Faros AI
 
@@ -3929,7 +3899,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Technology Development Program Intern - AI Engineer Development Track](https://geico.wd1.myworkdayjobs.com/en-US/External/job/Palo-Alto-CA/Technology-Development-Program---AI-Engineer-Development-Track_R0065372) | 93 | Palo Alto, CA / NYC | AI/ML/Data | 2026-08-20 |
 | [Technology Development Program Intern - Software Engineer Development Track](https://geico.wd1.myworkdayjobs.com/en-US/External/job/Bethesda-MD/Technology-Development-Program---Software-Engineer-Development-Track_R0065373) | 93 | Palo Alto, CA / Bethesda, MD | Software | 2026-08-20 |
 
 ## Gemini
@@ -6698,12 +6667,6 @@
 | [Software Engineer New Grad](https://jobs.ashbyhq.com/pylon-labs/38814ce7-217b-40f2-9ba5-8a7733a5691d/application) | 99 | SF | Software | 2026-08-17 |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application) | 93 | SF | Software | 2026-08-01 |
 
-## Pyrovio
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Copilot Developer/AI Engineer](https://pyrovio.breezy.hr/p/a0653fb2684d/apply) | 85 | Remote in USA | AI/ML/Data | 2026-08-19 |
-
 ## qode.world
 
 | Title | Score | Location | Department | First seen |
@@ -7025,11 +6988,8 @@
 | [Software Engineer Intern, 3D](https://careers.rivianvw.tech/rivian-vw-group-technology/jobs/27279/job) | 85 | Palo Alto, CA | — | 2026-08-17 |
 | [Software Engineering Intern, OTA Integration](https://careers.rivianvw.tech/rivian-vw-group-technology/jobs/27233/job) | 85 | Palo Alto, CA | — | 2026-08-17 |
 | [Engineering Intern, Embedded Hardware, Vehicle Networking & Audio](https://careers.rivianvw.tech/rivian-vw-group-technology/jobs/27276/job) | 75 | Palo Alto, CA | — | 2026-08-17 |
-| [Software Engineer Intern - Connected Systems](https://jobs.ashbyhq.com/rivianvw.tech/50e43cbe-01ea-4b8b-be4c-bb5f48a2be92/application) | 93 | Palo Alto, CA / Irvine, CA | Software | 2026-08-01 |
 | [Software Engineering Intern - Vehicle Controls](https://jobs.ashbyhq.com/rivianvw.tech/89feb2fe-c28c-4dad-846f-09594632ba55) | 93 | Irvine, CA / Palo Alto, CA | Software Engineering | 2026-06-24 |
 | [Android Developer Intern](https://jobs.ashbyhq.com/rivianvw.tech/5633bb03-cc16-47fc-af02-db9dc355eddd/application) | 93 | Palo Alto, CA | Software | 2026-06-11 |
-| [Data Engineering Intern - AI & Analytics](https://jobs.ashbyhq.com/rivianvw.tech/3864f83a-7b29-4c96-b00e-436d60c0508a/application) | 93 | Palo Alto, CA | AI/ML/Data | 2026-06-11 |
-| [Software Engineer Intern - Applications](https://jobs.ashbyhq.com/rivianvw.tech/3f314ca7-978e-4ad6-b527-0487a9a9598c/application) | 93 | Palo Alto, CA / Irvine, CA | Software | 2026-06-11 |
 | [Software Engineer Intern - Embedded Platforms](https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff/application) | 93 | Palo Alto, CA / Irvine, CA | Hardware | 2026-06-11 |
 | [Software Engineer Intern - Vehicle Controls](https://jobs.ashbyhq.com/rivianvw.tech/89feb2fe-c28c-4dad-846f-09594632ba55/application) | 93 | Palo Alto, CA / Irvine, CA | Hardware | 2026-06-11 |
 | [Software Engineer Intern Co-op - Applications](https://jobs.ashbyhq.com/rivianvw.tech/259f1a7c-3102-47a3-9919-c1174d9be89c/application) | 93 | Toronto, ON, Canada / Vancouver, BC, Canada | Software | 2026-06-11 |

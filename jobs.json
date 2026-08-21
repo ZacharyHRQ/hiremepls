@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-21T18:21:28.013Z",
+  "generatedAt": "2026-08-21T19:04:23.799Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2754,
+  "jobCount": 2744,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -85,8 +85,6 @@
     "canonical:464ecfeba366891e": "2026-06-05T10:40:30.398Z",
     "canonical:f4e22ee521bb8e41": "2026-06-05T16:17:30.887Z",
     "canonical:a9fec30c036e9862": "2026-06-09T10:23:15.549Z",
-    "canonical:481abe28ff8a5d8b": "2026-06-11T11:07:45.069Z",
-    "canonical:30d3864435f150b7": "2026-06-11T11:07:45.069Z",
     "canonical:17f48dbc6cffe995": "2026-06-11T11:07:45.069Z",
     "canonical:c8b6b3b53807f1b9": "2026-06-11T11:07:45.069Z",
     "canonical:f669100424c0bd48": "2026-06-11T11:07:45.069Z",
@@ -270,7 +268,6 @@
     "canonical:23148067a5bdaf8d": "2026-07-20T23:30:05.931Z",
     "canonical:40f4a990c528ee6c": "2026-07-20T23:30:05.931Z",
     "canonical:692e540aae052d72": "2026-07-20T23:30:05.931Z",
-    "canonical:b87404da5255e720": "2026-07-21T04:15:38.512Z",
     "canonical:74ad0f81645977ec": "2026-07-21T04:15:38.512Z",
     "canonical:cb4d3a946d4982dc": "2026-07-21T04:15:38.512Z",
     "canonical:3cf1a0cf4213b1da": "2026-07-21T04:15:38.512Z",
@@ -376,7 +373,6 @@
     "canonical:60b30a2541365f63": "2026-08-01T10:54:12.708Z",
     "canonical:39523ec1bced691c": "2026-08-01T10:54:12.708Z",
     "canonical:9a93c8600bc816f6": "2026-08-01T10:54:12.708Z",
-    "canonical:48afc5e5298e0d91": "2026-08-01T10:54:12.708Z",
     "canonical:55b7d658b8486ecc": "2026-08-01T10:54:12.708Z",
     "canonical:a271207f2510ab40": "2026-08-01T10:54:12.708Z",
     "canonical:6956004c2fe6d76f": "2026-08-01T11:57:30.860Z",
@@ -871,7 +867,6 @@
     "canonical:41b09e7b3497bfdf": "2026-08-17T16:14:31.608Z",
     "canonical:fec9663b9010c0eb": "2026-08-17T16:14:31.608Z",
     "canonical:529cf64fbc8258b0": "2026-08-17T16:14:31.608Z",
-    "canonical:a8cbedc4fa3b0284": "2026-08-17T16:14:31.608Z",
     "canonical:7952093ded67e720": "2026-08-17T16:14:31.608Z",
     "canonical:719e8385fa30f502": "2026-08-17T16:14:31.608Z",
     "canonical:7b820d10ec263d2b": "2026-08-17T16:14:31.608Z",
@@ -1107,7 +1102,6 @@
     "canonical:89751b71ecca2ecb": "2026-08-17T16:14:31.608Z",
     "canonical:438ddd0d9605b9e6": "2026-08-17T16:14:31.608Z",
     "canonical:cbf807787f267637": "2026-08-17T16:14:31.608Z",
-    "canonical:b6919574d3fbf9a7": "2026-08-17T16:14:31.608Z",
     "canonical:d5de49861916438a": "2026-08-17T16:14:31.608Z",
     "canonical:822ccb9c35d17df9": "2026-08-17T16:14:31.608Z",
     "canonical:8f944d480e4a07b2": "2026-08-17T16:14:31.608Z",
@@ -2402,7 +2396,6 @@
     "canonical:0cbdbf83c130ed28": "2026-08-18T07:12:07.808Z",
     "canonical:ec8eec6143922e01": "2026-08-18T07:12:07.808Z",
     "canonical:a09b5a1047bf1b8e": "2026-08-18T07:12:07.808Z",
-    "canonical:806102289a7b5915": "2026-08-18T07:12:07.808Z",
     "canonical:ef47fb1f704c40a1": "2026-08-18T07:12:07.808Z",
     "canonical:e8b343368106d72f": "2026-08-18T07:12:07.808Z",
     "canonical:409ff167ee7ac9b7": "2026-08-18T07:12:07.808Z",
@@ -2509,7 +2502,6 @@
     "canonical:a6c653cc2c6d352e": "2026-08-19T19:26:45.138Z",
     "canonical:6ab8da808e4e11ac": "2026-08-19T19:26:45.138Z",
     "canonical:91c5dfe1f8dea501": "2026-08-19T20:14:45.707Z",
-    "canonical:a4055cfbe24bfded": "2026-08-19T20:45:29.948Z",
     "canonical:ec7d399841748c55": "2026-08-19T20:45:29.948Z",
     "canonical:cc27892b2185aa28": "2026-08-19T21:15:42.444Z",
     "canonical:21eaed85feb211f6": "2026-08-19T21:15:42.444Z",
@@ -2607,7 +2599,6 @@
     "canonical:915a554df7bafb7f": "2026-08-20T22:54:52.406Z",
     "canonical:7d8500bb88df5dec": "2026-08-20T22:54:52.406Z",
     "canonical:0b5df2075fcfead1": "2026-08-20T22:54:52.406Z",
-    "canonical:759a81d8b013993b": "2026-08-20T22:54:52.406Z",
     "canonical:f103464308464497": "2026-08-20T22:54:52.406Z",
     "canonical:8ea56f75f67db291": "2026-08-20T22:54:52.406Z",
     "canonical:aece5767880597dd": "2026-08-20T22:54:52.406Z",
@@ -2632,7 +2623,6 @@
     "canonical:99b4e8774e610da6": "2026-08-20T23:15:31.497Z",
     "canonical:fc50700a32f0c0c3": "2026-08-20T23:15:31.497Z",
     "canonical:bf296544efd69ded": "2026-08-20T23:15:31.497Z",
-    "canonical:3c7fc99e6f595935": "2026-08-20T23:15:31.497Z",
     "canonical:a3538254574c4730": "2026-08-20T23:15:31.497Z",
     "canonical:ca0c53a3cd181230": "2026-08-20T23:15:31.497Z",
     "canonical:d497e0b63606abb0": "2026-08-20T23:46:17.472Z",
@@ -3357,24 +3347,10 @@
       ]
     },
     {
-      "id": "canonical:f9963438d881a851",
+      "id": "canonical:81000bcd395c1244",
       "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
-      "location": "Amsterdam",
-      "department": "",
-      "company": "DRW",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:bd72b8a6944f6777",
-      "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
-      "location": "London, UK",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
+      "location": "Montreal, QC, Canada",
       "department": "Software",
       "company": "DRW",
       "score": 93,
@@ -3399,11 +3375,25 @@
       ]
     },
     {
-      "id": "canonical:81000bcd395c1244",
+      "id": "canonical:bd72b8a6944f6777",
       "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
-      "location": "Montreal, QC, Canada",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
+      "location": "London, UK",
       "department": "Software",
+      "company": "DRW",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f9963438d881a851",
+      "title": "Software Developer Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
+      "location": "Amsterdam",
+      "department": "",
       "company": "DRW",
       "score": 93,
       "scoreReasons": [
@@ -5290,10 +5280,10 @@
       ]
     },
     {
-      "id": "canonical:62beda5aaf0fcc6c",
+      "id": "canonical:e8a5b9fc6e1a4de2",
       "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
-      "location": "Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
+      "location": "Bengaluru",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -5303,10 +5293,10 @@
       ]
     },
     {
-      "id": "canonical:e8a5b9fc6e1a4de2",
+      "id": "canonical:62beda5aaf0fcc6c",
       "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
-      "location": "Bengaluru",
+      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
+      "location": "Dublin",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -7348,48 +7338,6 @@
       ]
     },
     {
-      "id": "canonical:481abe28ff8a5d8b",
-      "title": "Software Engineer Intern - Applications",
-      "url": "https://jobs.ashbyhq.com/rivianvw.tech/3f314ca7-978e-4ad6-b527-0487a9a9598c/application",
-      "location": "Palo Alto, CA / Irvine, CA",
-      "department": "Software",
-      "company": "Rivian and Volkswagen Group Technologies",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:30d3864435f150b7",
-      "title": "Data Engineering Intern - AI & Analytics",
-      "url": "https://jobs.ashbyhq.com/rivianvw.tech/3864f83a-7b29-4c96-b00e-436d60c0508a/application",
-      "location": "Palo Alto, CA",
-      "department": "AI/ML/Data",
-      "company": "Rivian and Volkswagen Group Technologies",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:48afc5e5298e0d91",
-      "title": "Software Engineer Intern - Connected Systems",
-      "url": "https://jobs.ashbyhq.com/rivianvw.tech/50e43cbe-01ea-4b8b-be4c-bb5f48a2be92/application",
-      "location": "Palo Alto, CA / Irvine, CA",
-      "department": "Software",
-      "company": "Rivian and Volkswagen Group Technologies",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:17f48dbc6cffe995",
       "title": "Software Engineer Intern Co-op - Applications",
       "url": "https://jobs.ashbyhq.com/rivianvw.tech/259f1a7c-3102-47a3-9919-c1174d9be89c/application",
@@ -8887,20 +8835,6 @@
       "location": "NYC",
       "department": "Software",
       "company": "Junior AI",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:b87404da5255e720",
-      "title": "Automation Software Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/fab2/615feebf-d9e3-4583-9c85-ba16af44e65c/application?embed=true",
-      "location": "SF / Austin, TX",
-      "department": "Software",
-      "company": "Fab2",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -14029,20 +13963,6 @@
       ]
     },
     {
-      "id": "canonical:759a81d8b013993b",
-      "title": "Technology Development Program Intern - AI Engineer Development Track",
-      "url": "https://geico.wd1.myworkdayjobs.com/en-US/External/job/Palo-Alto-CA/Technology-Development-Program---AI-Engineer-Development-Track_R0065372",
-      "location": "Palo Alto, CA / NYC",
-      "department": "AI/ML/Data",
-      "company": "Geico",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:f103464308464497",
       "title": "Technology Development Program Intern - Software Engineer Development Track",
       "url": "https://geico.wd1.myworkdayjobs.com/en-US/External/job/Bethesda-MD/Technology-Development-Program---Software-Engineer-Development-Track_R0065373",
@@ -15948,20 +15868,6 @@
       "location": "California",
       "department": "AI/ML/Data",
       "company": "Brain Co.",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:a8cbedc4fa3b0284",
-      "title": "Applied Scientist 1",
-      "url": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-Kingdom---London-Onfido/Applied-Scientist-I_R003921",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "Entrust",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -19330,19 +19236,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:b6919574d3fbf9a7",
-      "title": "Systems Engineer 3",
-      "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Systems-Engineer-III--E3-_R2621471",
-      "location": "Santa Clara, CA",
-      "department": "Hardware",
-      "company": "Applied Materials",
-      "score": 83,
-      "scoreReasons": [
-        "SWE-aligned",
         "direct ATS"
       ]
     },
@@ -24877,19 +24770,6 @@
       ]
     },
     {
-      "id": "canonical:a4055cfbe24bfded",
-      "title": "Copilot Developer/AI Engineer",
-      "url": "https://pyrovio.breezy.hr/p/a0653fb2684d/apply",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "Pyrovio",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:c5df9c412fc2f911",
       "title": "Software Engineer - Calibration - Analysis/Tool",
       "url": "https://jobs.lever.co/woven-by-toyota/e5ebcad9-b648-4d04-8c15-0d8dffb36190/apply",
@@ -27897,20 +27777,6 @@
       "location": "Mountain View, CA",
       "department": "Software",
       "company": "Kognitos",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:3c7fc99e6f595935",
-      "title": "Associate Data Engineer",
-      "url": "https://boards.greenhouse.io/abacusinsights/jobs/8674746002",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "Abacus Insights",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -34038,21 +33904,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:806102289a7b5915",
-      "title": "Software Engineer New Grad",
-      "url": "https://jobs.ashbyhq.com/chartahealth/9403a4cc-1bac-4798-9d82-be31ba8b42a0/application?embed=true",
-      "location": "SF / NYC",
-      "department": "Software",
-      "company": "Charta Health",
-      "score": 99,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
         "direct ATS"
       ]
     },
