@@ -1,6 +1,6 @@
 # Open Internships
 
-**2743** internships across **188/188** companies — last updated 2026-08-21.
+**2746** internships across **188/188** companies — last updated 2026-08-21.
 
 ## Companies
 
@@ -361,7 +361,6 @@
 - [Flexport](#flexport) (1)
 - [Flock Safety](#flock-safety) (1)
 - [Flow Engineering](#flow-engineering) (1)
-- [Fluency](#fluency) (1)
 - [Fluxergy](#fluxergy) (1)
 - [Ford Motor Company](#ford-motor-company) (2)
 - [Fortinet](#fortinet) (2)
@@ -402,7 +401,7 @@
 - [GlobalFoundries](#globalfoundries) (3)
 - [Globus Medical](#globus-medical) (1)
 - [GM financial](#gm-financial) (2)
-- [Goldman Sachs](#goldman-sachs) (1)
+- [Goldman Sachs](#goldman-sachs) (4)
 - [Google](#google) (11)
 - [Gradient Robotics](#gradient-robotics) (1)
 - [Great American Insurance Company](#great-american-insurance-company) (1)
@@ -812,7 +811,7 @@
 - [Royal Bank of Canada](#royal-bank-of-canada) (2)
 - [Royal Caribbean Group](#royal-caribbean-group) (1)
 - [RRS Group](#rrs-group) (2)
-- [RTX](#rtx) (48)
+- [RTX](#rtx) (49)
 - [RunSybil](#runsybil) (1)
 - [Ryder System](#ryder-system) (1)
 - [SA Technologies](#sa-technologies) (2)
@@ -3758,12 +3757,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer - Early Career](https://jobs.ashbyhq.com/flowengineering/df49e713-ce33-40a8-8d6d-3759f61f4ea5/application?embed=true) | 93 | SF | Software | 2026-08-17 |
 
-## Fluency
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Engineer Intern](https://jobs.ashbyhq.com/fluency/2aced4e2-485b-4525-802c-763e62c91e88/application?embed=true) | 93 | SF | Software | 2026-08-01 |
-
 ## Fluxergy
 
 | Title | Score | Location | Department | First seen |
@@ -4048,6 +4041,9 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Engineering New Analyst](https://higher.gs.com/roles/171568?type=students) | 85 | Dallas, TX | Software | 2026-08-21 |
+| [Engineering New Analyst - Engineering](https://higher.gs.com/roles/171570?type=students) | 85 | Salt Lake City, UT | Software | 2026-08-21 |
+| [New Analyst - Engineering](https://higher.gs.com/roles/171569?type=students) | 85 | NYC | Software | 2026-08-21 |
 | [Software Engineer - Data](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292) | 85 | London, UK | Software | 2026-08-17 |
 
 ## Google
@@ -7067,6 +7063,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer 2 - Effectors](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Raytheon-Full-Time---Effectors-Software-Engineer-II---Tucson--AZ--Onsite-_01820536) | 93 | Tucson, AZ | Hardware | 2026-08-21 |
 | [Factory Analytics Data Scientist 1](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Analytics-Data-Scientist-I--Remote-_01867723) | 93 | Cedar Rapids, IA | AI/ML/Data | 2026-08-20 |
 | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-I--Onsite-_01867061) | 93 | Indianapolis, IN | Hardware | 2026-08-20 |
 | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-Intern--Summer-2027-_01867664) | 93 | Tucson, AZ | Software | 2026-08-20 |
@@ -7106,8 +7103,8 @@
 | [Software Engineer Intern, Fleet Health Instrumentation](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072) | 93 | McKinney, TX | — | 2026-08-17 |
 | [Software Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01867487) | 93 | US-IA-CEDAR RAPIDS-166 ~ 855 35Th St NE ~ BLDG 166 | Software / Summer 2027 | 2026-08-17 |
 | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Software-Engineering-Intern--Summer-2027-_01865808) | 93 | East Hartford, CT | Hardware | 2026-08-15 |
-| [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern--Summer-2027-_01866136) | 93 | Cedar Rapids, IA | Hardware | 2026-08-15 |
 | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineering-Intern--Summer-2027-_01867439) | 93 | Fullerton, CA | Software | 2026-08-15 |
+| [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Software-Engineering-Intern--Summer-2027-_01867324) | 93 | Cedar Rapids, IA | Hardware | 2026-08-15 |
 | [Software Engineering Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineering-Intern--Summer-2027-_01866777) | 93 | Tucson, AZ | Hardware | 2026-08-15 |
 | [Software Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01867129) | 93 | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 | Software / Summer 2027 | 2026-08-15 |
 | [Software Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern--Summer-2027-_01866136) | 93 | US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 | Software / Summer 2027 | 2026-08-14 |
