@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-20T23:46:17.472Z",
+  "generatedAt": "2026-08-21T00:40:21.071Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2750,
+  "jobCount": 2749,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -384,7 +384,6 @@
     "canonical:48afc5e5298e0d91": "2026-08-01T10:54:12.708Z",
     "canonical:55b7d658b8486ecc": "2026-08-01T10:54:12.708Z",
     "canonical:a271207f2510ab40": "2026-08-01T10:54:12.708Z",
-    "canonical:7d1780be2939f6cd": "2026-08-01T11:57:30.860Z",
     "canonical:6956004c2fe6d76f": "2026-08-01T11:57:30.860Z",
     "canonical:62388f9a8d7fd92c": "2026-08-01T11:57:30.860Z",
     "canonical:6fbcace9a38d133f": "2026-08-01T11:57:30.860Z",
@@ -2602,7 +2601,6 @@
     "canonical:5f0f99c809a37398": "2026-08-19T22:41:06.261Z",
     "canonical:2a2c606fe731982c": "2026-08-19T22:41:06.261Z",
     "canonical:dbac5b852a32f65f": "2026-08-19T22:41:06.261Z",
-    "canonical:22ba40514b754804": "2026-08-19T22:41:06.261Z",
     "canonical:77ebf8dda6b8927e": "2026-08-19T22:41:06.261Z",
     "canonical:e92e629b0ed4280a": "2026-08-19T22:41:06.261Z",
     "canonical:c90fa8a46092665d": "2026-08-19T22:41:06.261Z",
@@ -2753,7 +2751,8 @@
     "canonical:3c7fc99e6f595935": "2026-08-20T23:15:31.497Z",
     "canonical:a3538254574c4730": "2026-08-20T23:15:31.497Z",
     "canonical:ca0c53a3cd181230": "2026-08-20T23:15:31.497Z",
-    "canonical:d497e0b63606abb0": "2026-08-20T23:46:17.472Z"
+    "canonical:d497e0b63606abb0": "2026-08-20T23:46:17.472Z",
+    "canonical:7d65a65dacade57a": "2026-08-21T00:40:21.071Z"
   },
   "jobs": [
     {
@@ -5384,7 +5383,7 @@
     {
       "id": "canonical:1a056010d15d11c7",
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -5613,20 +5612,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:7d1780be2939f6cd",
-      "title": "Software Engineering Intern",
-      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/PITTSBURGH-03/Software-Engineering-Intern_R52334",
-      "location": "Pittsburgh, PA",
-      "department": "AI/ML/Data",
-      "company": "Cadence Design Systems",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -35243,19 +35228,6 @@
       ]
     },
     {
-      "id": "canonical:22ba40514b754804",
-      "title": "Data Science Analyst - Agentic AI Developer",
-      "url": "https://careers.nrgenergy.com/nrg/job/Houston-Data-Science-Analyst-Agentic-AI-Developer-TX-77010/1421186800/?ats=successfactors",
-      "location": "Houston, TX / Princeton, NJ",
-      "department": "AI/ML/Data",
-      "company": "NRG Energy",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:77ebf8dda6b8927e",
       "title": "Quantitative Strategy Developer New Grad",
       "url": "https://careers-sig.icims.com/jobs/11321/job?mobile=true&needsRedirect=false",
@@ -40271,6 +40243,20 @@
       "location": "Buffalo, NY",
       "department": "Software / Not stated",
       "company": "Moog",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:7d65a65dacade57a",
+      "title": "2027 US Software Engineering Internship",
+      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003",
+      "location": "Seattle, Washington, United States",
+      "department": "Software / Summer 2027",
+      "company": "Axon",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
