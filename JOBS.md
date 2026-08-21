@@ -1,6 +1,6 @@
 # Open Internships
 
-**2735** internships across **188/188** companies — last updated 2026-08-21.
+**2737** internships across **188/188** companies — last updated 2026-08-21.
 
 ## Companies
 
@@ -68,7 +68,7 @@
 - [Appian](#appian) (6)
 - [Apple](#apple) (31)
 - [Applied Intuition](#applied-intuition) (5)
-- [Applied Materials](#applied-materials) (6)
+- [Applied Materials](#applied-materials) (7)
 - [Applied Systems, Inc.](#applied-systems-inc) (2)
 - [AQR](#aqr) (1)
 - [Aquatic Capital](#aquatic-capital) (1)
@@ -382,6 +382,7 @@
 - [Geico](#geico) (2)
 - [Gemini](#gemini) (1)
 - [Generac](#generac) (3)
+- [General Dynamics](#general-dynamics) (1)
 - [General Dynamics Information Technology](#general-dynamics-information-technology) (6)
 - [General Dynamics Mission Systems](#general-dynamics-mission-systems) (8)
 - [General Matter](#general-matter) (2)
@@ -404,7 +405,6 @@
 - [Goldman Sachs](#goldman-sachs) (4)
 - [Google](#google) (11)
 - [Gradient Robotics](#gradient-robotics) (1)
-- [Great American Insurance Company](#great-american-insurance-company) (1)
 - [Gritt Robotics Inc](#gritt-robotics-inc) (1)
 - [GRITT ROBOTICS INC](#gritt-robotics-inc) (1)
 - [GSA Capital](#gsa-capital) (2)
@@ -496,6 +496,7 @@
 - [Jade Global](#jade-global) (1)
 - [Jain Global](#jain-global) (1)
 - [Jane Street](#jane-street) (12)
+- [JD.com](#jd-com) (1)
 - [Jobs for Humanity](#jobs-for-humanity) (2)
 - [John Deere](#john-deere) (1)
 - [Johns Hopkins Applied Physics Laboratory](#johns-hopkins-applied-physics-laboratory) (18)
@@ -664,7 +665,7 @@
 - [North Star Staffing Solutions](#north-star-staffing-solutions) (1)
 - [Northeastern](#northeastern) (1)
 - [Northeastern University](#northeastern-university) (1)
-- [Northrop Grumman](#northrop-grumman) (25)
+- [Northrop Grumman](#northrop-grumman) (27)
 - [Northwestern Mutual](#northwestern-mutual) (1)
 - [Northwood Space](#northwood-space) (1)
 - [Notion](#notion) (17)
@@ -736,6 +737,7 @@
 - [Postman](#postman) (1)
 - [Power Design, Inc](#power-design-inc) (1)
 - [PPL](#ppl) (1)
+- [PPLSI](#pplsi) (1)
 - [Praetorian](#praetorian) (1)
 - [Prelim](#prelim) (1)
 - [Presidency Solutions](#presidency-solutions) (1)
@@ -811,7 +813,7 @@
 - [Royal Bank of Canada](#royal-bank-of-canada) (2)
 - [Royal Caribbean Group](#royal-caribbean-group) (1)
 - [RRS Group](#rrs-group) (2)
-- [RTX](#rtx) (40)
+- [RTX](#rtx) (38)
 - [RunSybil](#runsybil) (1)
 - [Ryder System](#ryder-system) (1)
 - [SA Technologies](#sa-technologies) (2)
@@ -928,7 +930,7 @@
 - [Techtronic Industries (TTI)](#techtronic-industries-tti) (1)
 - [Teledyne](#teledyne) (4)
 - [Teleskope](#teleskope) (1)
-- [Tencent](#tencent) (4)
+- [Tencent](#tencent) (3)
 - [Tenstorrent](#tenstorrent) (1)
 - [Terranova](#terranova) (1)
 - [Teserac](#teserac) (1)
@@ -1601,6 +1603,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Systems Engineer](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Systems-Engineer_R2626795) | 83 | Santa Clara, CA | Hardware | 2026-08-21 |
 | [Software Support Engineer 1 - Global](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Global-Software-Support-Engineer-I_R2625245) | 93 | Austin, TX | Software | 2026-08-18 |
 | [AI Research Scientist - Generative Models for Scientific Discovery](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/AI-Research-Scientist--Generative-Models-for-Scientific-Discovery-_R2611980-1) | 93 | Santa Clara, CA | AI/ML/Data | 2026-08-17 |
 | [Computer Vision/Machine Learning/Deep Learning Algorithm Developer](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/CV-ML-DL-Algorithm-Developer_R2612906) | 93 | Santa Clara, CA | AI/ML/Data | 2026-08-17 |
@@ -2778,9 +2781,9 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern - Fall 2026](https://boards.greenhouse.io/cloudflare/jobs/8118855) | 93 | London, UK | Software | 2026-08-20 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
-| [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855) | 93 | In-Office | — | 2026-08-11 |
+| [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -3895,6 +3898,12 @@
 | [Firmware Engineering Intern](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR16149) | 83 | Reno, NV | Hardware | 2026-08-14 |
 | [Intern Firmware Engineering](https://generac.wd5.myworkdayjobs.com/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR16149) | 83 | Reno, NV - USA | Hardware / Not stated | 2026-08-14 |
 
+## General Dynamics
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [ERP Architect 1](https://careers-gd-ots.icims.com/jobs/36873/job?mobile=true&needsRedirect=false) | 85 | Crawfordville, FL / St. Petersburg, FL | AI/ML/Data | 2026-08-21 |
+
 ## General Dynamics Information Technology
 
 | Title | Score | Location | Department | First seen |
@@ -4062,12 +4071,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer](https://jobs.ashbyhq.com/gradientrobotics/7c995dbf-5434-46e8-81b4-d845734029b6/application?embed=true) | 93 | SF | Hardware | 2026-08-17 |
-
-## Great American Insurance Company
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Junior Data Scientist](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Remote-USA/Junior-Data-Scientist_R9395) | 93 | Remote in USA | AI/ML/Data | 2026-08-20 |
 
 ## Gritt Robotics Inc
 
@@ -4683,6 +4686,12 @@
 | [Data Engineering Intern](https://job-boards.greenhouse.io/janestreet/jobs/8631973002) | 93 | NYC | AI/ML/Data | 2026-07-20 |
 | [Quantitative Researcher Intern](https://job-boards.greenhouse.io/janestreet/jobs/8498547002) | 93 | NYC | Quant | 2026-07-20 |
 | [Software Engineering Intern](https://job-boards.greenhouse.io/janestreet/jobs/8419303002) | 93 | NYC | Software | 2026-07-20 |
+
+## JD.com
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Graduate Software Engineer](https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/GBR-London/Graduate-Software-Engineer_JR103326) | 99 | London, UK | Software | 2026-08-21 |
 
 ## Jobs for Humanity
 
@@ -5895,6 +5904,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [AI Software Engineer - Aht](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/Associate-AI-Software-Engineer--AI-Software-Engineer--AHT-_R10245469) | 93 | Beavercreek, OH | Software | 2026-08-21 |
+| [Embedded Software Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Calling-all-Secret-Cleared-Embedded-Software-Engineers---Chandler-_R10245585-1) | 93 | Chandler, AZ | Hardware | 2026-08-21 |
 | [Associate Embedded Software Engineer - Manufacturing](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2026-Associate-Embedded-Software-Engineer--Manufacturing----Rolling-Meadows-IL_R10244230) | 93 | Rolling Meadows, IL | Hardware | 2026-08-21 |
 | [Associate Software Engineer - Aht](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2026-Associate-Engineer-Software-Dulles-VA--AHT-_R10246933) | 93 | Dulles, VA | Hardware | 2026-08-21 |
 | [Associate Software Engineer/Software Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2026-Associate-Software-Engineer-Software-Engineer_R10246591) | 93 | Redondo Beach, CA / Palmdale, CA / Oklahoma City, OK / San Diego, CA / Emerado, ND / El Segundo, CA | Software | 2026-08-19 |
@@ -6539,6 +6550,12 @@
 | --- | --- | --- | --- | --- |
 | [Research & Development PhD Engineer Intern](https://careers.pplweb.com/jobs/14149?icims=1) | 85 | Lexington, KY / Providence, RI / Allentown, PA | AI/ML/Data | 2026-08-01 |
 
+## PPLSI
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer](https://legalshieldcorp.wd1.myworkdayjobs.com/en-US/lsc/job/Remote-Job-Posting/Software-Engineer_R0002820) | 93 | Remote in USA | Software | 2026-08-21 |
+
 ## Praetorian
 
 | Title | Score | Location | Department | First seen |
@@ -7069,14 +7086,12 @@
 | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-Intern--Summer-2027-_01867664) | 93 | Tucson, AZ | Software | 2026-08-20 |
 | [Software Modernization Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Modernization-Engineer-I--Onsite-_01868393) | 93 | Indianapolis, IN | Hardware | 2026-08-20 |
 | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-MELBOURNE-307--1100-W-Hibiscus-Blvd--BLDG-307/Software-Engineer-I--Onsite-_01866124) | 93 | Melbourne, FL | Software | 2026-08-20 |
-| [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392) | 93 | San Jose, CA | Software | 2026-08-20 |
 | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I---Onsite-_01868027) | 93 | Fort Wayne, IN | Software | 2026-08-19 |
 | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01864691) | 93 | Sterling, VA | Software | 2026-08-19 |
 | [Software Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineering-Intern--Summer-2027-_01868241) | 93 | US-IA-CEDAR RAPIDS-107 ~ 400 Collins Rd NE ~ BLDG 107 | Software / Summer 2027 | 2026-08-19 |
 | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01861525) | 93 | Marlborough, MA | Hardware | 2026-08-18 |
 | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineer-I--Onsite-_01866533) | 93 | West Valley City, UT | Software | 2026-08-18 |
 | [Software Engineer 1 - Advanced Products and Solutions - EO/IR Programs](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Software-Engineer-I--Onsite-_01867976) | 93 | McKinney, TX | Software | 2026-08-18 |
-| [Software Engineer 2](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Software-Engineer-II--Onsite-_01864138) | 93 | Melbourne, FL | Software | 2026-08-18 |
 | [Software Engineer Intern - Intelligent Software & Systems](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineer-Intern--Onsite-_01866914) | 93 | Cambridge, MA | Software | 2026-08-18 |
 | [Software Engineering Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineering-Intern--Onsite-_01864698) | 93 | Cambridge, MA | Software | 2026-08-18 |
 | [Systems Engineer 1](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Systems-Engineer-I--Onsite-_01867720) | 93 | Cedar Rapids, IA | Software | 2026-08-18 |
@@ -7905,7 +7920,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Multimodal Algorithm Researcher Intern - Omni-Modal](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650) | 93 | Palo Alto, CA | AI/ML/Data | 2026-08-19 |
-| [Hunyuan Multimodal Algorithm Researcher Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-Intern-Omni-Modal---_R107051) | 93 | Palo Alto, CA | AI/ML/Data | 2026-08-16 |
 | [Software Engineering Intern - PC Game Client Development](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Software-Engineering-Intern_R107162-1) | 93 | London, UK | Software | 2026-07-07 |
 | [Hunyuan Multimodal Algorithm Researcher Intern - Omni-Modal](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650-2) | 93 | Palo Alto, CA | AI/ML/Data | 2026-06-13 |
 
