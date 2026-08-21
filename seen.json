@@ -120,8 +120,8 @@
     "7e0dafe8-3eec-442e-aa76-a4d84d779fb1"
   ],
   "Stripe": [
-    "8097801",
-    "8031833"
+    "8031833",
+    "8097801"
   ],
   "Databricks": [
     "7011263002",
@@ -3414,7 +3414,6 @@
     "simplify:99de05ac-50e2-401f-a62d-db4d99b5221e",
     "simplify:c493c31e-172c-4f7b-865a-0bc3b9de0fbc",
     "simplify:7f07b83f-6b6f-4722-9fc9-391681b0c844",
-    "simplify:b0de04a6-86de-4f47-b55b-b49784fc6c07",
     "simplify:d34efe5f-8b16-4631-abb7-2997d0702bcd",
     "simplify:6a69e3ca-d5e5-48ac-ac3c-5c8b9ead3c92",
     "simplify:97a2ec87-bbed-4c9b-9026-c59186fd59b1",
@@ -4147,7 +4146,6 @@
     "simplify:8ec64e5f-4755-45a9-ae9e-abd13cd712b0",
     "simplify:e3cfe515-6df5-4847-9b31-0a9b950a8524",
     "simplify:59d36e2a-3413-468e-a72e-8c350b5dad94",
-    "simplify:c9a5b195-2b20-4bf0-9c3d-574667e66bd4",
     "simplify:c6f4e0f0-e734-4061-a5fc-9a5c209b86eb",
     "simplify:4f002917-8cdb-4ef9-a66c-02d05d0d220e",
     "simplify:d7bc6b7e-6c64-4de0-ba0c-fbcda2ebeb79",
@@ -4383,7 +4381,6 @@
     "simplify:1169bc21-fa23-40ca-a33d-bc5c23912da9",
     "simplify:ad93c397-dbd2-49a1-9506-3b3f67b410a7",
     "simplify:435e0215-a8e0-4e2c-957e-de0c0e4be7ec",
-    "simplify:ab71d070-1a5b-40d5-a65e-a1b8fbf30f38",
     "simplify:f555debe-b0d3-424f-b231-329a6d2df96a",
     "simplify:c3d0d3f7-cc27-4cc2-9950-e1a94f3abf4d",
     "simplify:65374907-a79c-4477-928a-78fd06e99828",
@@ -4910,7 +4907,8 @@
     "simplify:9b508279-1d3c-40a8-bf35-1658d570f4db",
     "simplify:739e3a06-487c-46cd-b8f8-4a816f5e2257",
     "simplify:d24e23aa-e04f-4545-9ca3-746741eee46b",
-    "simplify:2a701480-0cb2-4855-8732-d762f6105134"
+    "simplify:2a701480-0cb2-4855-8732-d762f6105134",
+    "simplify:ae100847-0b5b-46dc-8d75-58159b3d28da"
   ],
   "vanshb03 New Grad": [
     "vansh:5dac35b2-b148-49f8-b3f5-828ba68da99c",

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-21T17:25:19.249Z",
+  "generatedAt": "2026-08-21T17:52:52.838Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2745,
+  "jobCount": 2742,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -938,7 +938,6 @@
     "canonical:351d445ec898a44b": "2026-08-17T16:14:31.608Z",
     "canonical:d66c67e754dc8d03": "2026-08-17T16:14:31.608Z",
     "canonical:15ddf0e0e1c5c2e8": "2026-08-17T16:14:31.608Z",
-    "canonical:20433abb20c7c9dd": "2026-08-17T16:14:31.608Z",
     "canonical:f75d2558e7c84435": "2026-08-17T16:14:31.608Z",
     "canonical:c03c8bc657693227": "2026-08-17T16:14:31.608Z",
     "canonical:ced0085e8a31a0d1": "2026-08-17T16:14:31.608Z",
@@ -1546,7 +1545,6 @@
     "canonical:548b8c959d022be9": "2026-08-17T16:14:31.608Z",
     "canonical:e009234898d54303": "2026-08-17T16:14:31.608Z",
     "canonical:9b39fbe8b5b1327b": "2026-08-17T16:14:31.608Z",
-    "canonical:8eb7040ff5abb11d": "2026-08-17T16:14:31.608Z",
     "canonical:7894589778991973": "2026-08-17T16:14:31.608Z",
     "canonical:a6f9510898ad411b": "2026-08-17T16:14:31.608Z",
     "canonical:80079f6e62066930": "2026-08-17T16:14:31.608Z",
@@ -1749,7 +1747,6 @@
     "canonical:469b32781be8e265": "2026-08-17T16:14:31.608Z",
     "canonical:80ec309d75e4f3d2": "2026-08-17T16:14:31.608Z",
     "canonical:d17e42db6d8844e7": "2026-08-17T16:14:31.608Z",
-    "canonical:78ab60d3a944bc72": "2026-08-17T16:14:31.608Z",
     "canonical:fe0d256554f1b8df": "2026-08-17T16:14:31.608Z",
     "canonical:4af8ec35f742d4b7": "2026-08-17T16:14:31.608Z",
     "canonical:a3366c310513b222": "2026-08-17T16:14:31.608Z",
@@ -2630,7 +2627,6 @@
     "canonical:90e60de2ae57ccd1": "2026-08-20T22:54:52.406Z",
     "canonical:df13a83093b326fb": "2026-08-20T22:54:52.406Z",
     "canonical:3a00f9406036c569": "2026-08-20T22:54:52.406Z",
-    "canonical:e6058c0d653a2f7c": "2026-08-20T22:54:52.406Z",
     "canonical:2cce6fc637df884c": "2026-08-20T22:54:52.406Z",
     "canonical:388a079ff43c389f": "2026-08-20T22:54:52.406Z",
     "canonical:eed44b815923bb03": "2026-08-20T22:54:52.406Z",
@@ -2748,7 +2744,8 @@
     "canonical:f83d76dbf5399d95": "2026-08-21T16:19:54.438Z",
     "canonical:01f1277947cfc5b2": "2026-08-21T16:57:56.617Z",
     "canonical:e1cb819b5b9c30a1": "2026-08-21T16:57:56.617Z",
-    "canonical:1ae22981c8ef9f13": "2026-08-21T17:25:19.249Z"
+    "canonical:1ae22981c8ef9f13": "2026-08-21T17:25:19.249Z",
+    "canonical:d1a37efb926fdbc6": "2026-08-21T17:52:52.838Z"
   },
   "jobs": [
     {
@@ -5281,10 +5278,10 @@
       ]
     },
     {
-      "id": "canonical:62beda5aaf0fcc6c",
+      "id": "canonical:e8a5b9fc6e1a4de2",
       "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
-      "location": "Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
+      "location": "Bengaluru",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -5294,10 +5291,10 @@
       ]
     },
     {
-      "id": "canonical:e8a5b9fc6e1a4de2",
+      "id": "canonical:62beda5aaf0fcc6c",
       "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
-      "location": "Bengaluru",
+      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
+      "location": "Dublin",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -16877,21 +16874,6 @@
       ]
     },
     {
-      "id": "canonical:20433abb20c7c9dd",
-      "title": "New Grad Product Engineer",
-      "url": "https://jobs.ashbyhq.com/titan-msp/6ba1f660-6436-42f6-aaab-80ca931e8339/application",
-      "location": "SF",
-      "department": "Software",
-      "company": "Titan",
-      "score": 99,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:c03c8bc657693227",
       "title": "Associate Data Scientist",
       "url": "https://jobs.smartrecruiters.com/JobsForHumanity/744000113595857",
@@ -25924,19 +25906,6 @@
       ]
     },
     {
-      "id": "canonical:8eb7040ff5abb11d",
-      "title": "Software Engineer 1",
-      "url": "https://independentsoftware.applytojob.com/apply/1zxyOvNOGu/Software-Engineer-Level-1-FORECASTED",
-      "location": "Fort Meade, MD",
-      "department": "Software",
-      "company": "Independent Software",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:7894589778991973",
       "title": "Software Engineer",
       "url": "https://independentsoftware.applytojob.com/apply/fCGbXaNPRL/Software-Engineer-Level-0-FORECASTED",
@@ -28939,20 +28908,6 @@
       "location": "State College, PA / Reston, VA",
       "department": "AI/ML/Data",
       "company": "Pennsylvania State University",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:78ab60d3a944bc72",
-      "title": "Associate Software Engineer",
-      "url": "https://litera.wd12.myworkdayjobs.com/Litera_Careers/job/Denver-CO/Associate-Software-Engineer_R-501347",
-      "location": "Denver, CO",
-      "department": "Software",
-      "company": "Litera",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -35365,19 +35320,6 @@
       ]
     },
     {
-      "id": "canonical:e6058c0d653a2f7c",
-      "title": "Software Engineer 1 / Software Engineer 2 - Salesforce focused",
-      "url": "https://careers.principal.com/jobs/51898?icims=1",
-      "location": "Des Moines, IA",
-      "department": "Software",
-      "company": "Principal Financial Group",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:2cce6fc637df884c",
       "title": "Software Engineer - Automation",
       "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=8101988",
@@ -35756,6 +35698,19 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:d1a37efb926fdbc6",
+      "title": "Test Systems & Instrumentation Engineer",
+      "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Test-Systems---Instrumentation-Engineer_REQ-26556",
+      "location": "Louisville, KY",
+      "department": "Hardware",
+      "company": "GE Appliances",
+      "score": 83,
+      "scoreReasons": [
+        "SWE-aligned",
         "direct ATS"
       ]
     },

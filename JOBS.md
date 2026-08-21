@@ -1,6 +1,6 @@
 # Open Internships
 
-**2745** internships across **188/188** companies — last updated 2026-08-21.
+**2742** internships across **188/188** companies — last updated 2026-08-21.
 
 ## Companies
 
@@ -381,6 +381,7 @@
 - [Garda Capital Partners](#garda-capital-partners) (1)
 - [Garmin](#garmin) (6)
 - [Gartner](#gartner) (1)
+- [GE Appliances](#ge-appliances) (1)
 - [GE Healthcare](#ge-healthcare) (1)
 - [GE Vernova](#ge-vernova) (4)
 - [Gecko Robotics](#gecko-robotics) (1)
@@ -469,7 +470,7 @@
 - [impact.com](#impact-com) (1)
 - [Inbulks](#inbulks) (1)
 - [Incident IQ](#incident-iq) (1)
-- [Independent Software](#independent-software) (2)
+- [Independent Software](#independent-software) (1)
 - [InfiniteQuant](#infinitequant) (3)
 - [Infoblox](#infoblox) (1)
 - [Infojini](#infojini) (2)
@@ -554,7 +555,6 @@
 - [LinkSquares](#linksquares) (1)
 - [Liquid](#liquid) (1)
 - [LiteLLM](#litellm) (1)
-- [Litera](#litera) (1)
 - [LiveFlow](#liveflow) (1)
 - [LMI](#lmi) (1)
 - [LMI ](#lmi) (1)
@@ -748,7 +748,6 @@
 - [Prelim](#prelim) (1)
 - [Presidency Solutions](#presidency-solutions) (1)
 - [Primetals Technologies](#primetals-technologies) (1)
-- [Principal Financial Group](#principal-financial-group) (1)
 - [Prior Labs](#prior-labs) (1)
 - [Probook](#probook) (1)
 - [Procom](#procom) (1)
@@ -961,7 +960,6 @@
 - [TIFIN](#tifin) (1)
 - [TikTok](#tiktok) (286)
 - [Tilde Research](#tilde-research) (2)
-- [Titan](#titan) (1)
 - [TJX](#tjx) (1)
 - [TMEIC Corporation Americas](#tmeic-corporation-americas) (1)
 - [Torc Robotics](#torc-robotics) (1)
@@ -3894,6 +3892,12 @@
 | --- | --- | --- | --- | --- |
 | [Associate Data Scientist](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Associate-Data-Scientist---Spring-2027-Master-s-level-graduates_113311) | 93 | Stamford, CT / Irving, TX | AI/ML/Data | 2026-08-17 |
 
+## GE Appliances
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Test Systems & Instrumentation Engineer](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Test-Systems---Instrumentation-Engineer_REQ-26556) | 83 | Louisville, KY | Hardware | 2026-08-21 |
+
 ## GE Healthcare
 
 | Title | Score | Location | Department | First seen |
@@ -4505,7 +4509,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer](https://independentsoftware.applytojob.com/apply/fCGbXaNPRL/Software-Engineer-Level-0-FORECASTED) | 85 | Fort Meade, MD | Software | 2026-08-17 |
-| [Software Engineer 1](https://independentsoftware.applytojob.com/apply/1zxyOvNOGu/Software-Engineer-Level-1-FORECASTED) | 85 | Fort Meade, MD | Software | 2026-08-17 |
 
 ## InfiniteQuant
 
@@ -5153,12 +5156,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Forward Deployed Engineer New Grad](https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3/application?embed=true) | 99 | India / United States | Software | 2026-08-17 |
-
-## Litera
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Associate Software Engineer](https://litera.wd12.myworkdayjobs.com/Litera_Careers/job/Denver-CO/Associate-Software-Engineer_R-501347) | 93 | Denver, CO | Software | 2026-08-17 |
 
 ## LiveFlow
 
@@ -6623,12 +6620,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Engineer 1 - System Integration](https://mhicareers.com/job/Lake-Mary-Engineer-I,-System-Integration-FL-32746/1408924533/?ats=successfactors) | 85 | Lake Mary, FL | AI/ML/Data | 2026-08-17 |
-
-## Principal Financial Group
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer 1 / Software Engineer 2 - Salesforce focused](https://careers.principal.com/jobs/51898?icims=1) | 85 | Des Moines, IA | Software | 2026-08-20 |
 
 ## Prior Labs
 
@@ -8413,12 +8404,6 @@
 | --- | --- | --- | --- | --- |
 | [Kernel Engineer – Intern and Full-time](https://jobs.ashbyhq.com/tilderesearch/bc4e4071-cf64-4460-8265-b1e5a603d6b8/application) | 93 | SF | Software | 2026-08-01 |
 | [ML Researcher – Intern and Full-time](https://jobs.ashbyhq.com/tilderesearch/e850d5b0-a5d6-4b9c-9898-f7addb441508/application) | 93 | SF | AI/ML/Data | 2026-08-01 |
-
-## Titan
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [New Grad Product Engineer](https://jobs.ashbyhq.com/titan-msp/6ba1f660-6436-42f6-aaab-80ca931e8339/application) | 99 | SF | Software | 2026-08-17 |
 
 ## TJX
 
