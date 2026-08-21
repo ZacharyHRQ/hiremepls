@@ -1,6 +1,6 @@
 # Open Internships
 
-**2747** internships across **188/188** companies — last updated 2026-08-21.
+**2758** internships across **188/188** companies — last updated 2026-08-21.
 
 ## Companies
 
@@ -54,7 +54,7 @@
 - [Amgen](#amgen) (3)
 - [AmNet Services](#amnet-services) (1)
 - [Amplify](#amplify) (1)
-- [Analog Devices](#analog-devices) (2)
+- [Analog Devices](#analog-devices) (3)
 - [Andrew Morgan](#andrew-morgan) (1)
 - [Anduril](#anduril) (8)
 - [Anduril Industries](#anduril-industries) (2)
@@ -67,7 +67,7 @@
 - [Appian](#appian) (6)
 - [Apple](#apple) (31)
 - [Applied Intuition](#applied-intuition) (5)
-- [Applied Materials](#applied-materials) (6)
+- [Applied Materials](#applied-materials) (7)
 - [Applied Systems, Inc.](#applied-systems-inc) (2)
 - [AQR](#aqr) (1)
 - [Aquatic Capital](#aquatic-capital) (1)
@@ -204,6 +204,7 @@
 - [ChenMed](#chenmed) (1)
 - [Chevron Corporation](#chevron-corporation) (2)
 - [Chicago Trading Company](#chicago-trading-company) (3)
+- [Chickasaw Nation Industries](#chickasaw-nation-industries) (1)
 - [Ciena](#ciena) (3)
 - [Circleback](#circleback) (1)
 - [Cirrus Logic](#cirrus-logic) (1)
@@ -234,6 +235,7 @@
 - [Confido](#confido) (1)
 - [Constellation Energy](#constellation-energy) (1)
 - [Constellation Space](#constellation-space) (1)
+- [ConstructConnect](#constructconnect) (1)
 - [Content Guru](#content-guru) (1)
 - [Copart](#copart) (6)
 - [Core & Main](#core-main) (2)
@@ -258,6 +260,7 @@
 - [Cylake](#cylake) (1)
 - [D2L](#d2l) (1)
 - [D3 Global Inc](#d3-global-inc) (1)
+- [Da Vinci](#da-vinci) (1)
 - [Daikin Applied](#daikin-applied) (1)
 - [Dark Wolf Solutions](#dark-wolf-solutions) (2)
 - [Databricks](#databricks) (4)
@@ -304,6 +307,7 @@
 - [East Penn Manufacturing Company](#east-penn-manufacturing-company) (1)
 - [Eastern Shipbuilding Group](#eastern-shipbuilding-group) (1)
 - [Eaton Corporation](#eaton-corporation) (1)
+- [Echo Global Logistics](#echo-global-logistics) (1)
 - [Edgehog Trading](#edgehog-trading) (1)
 - [Edgewater IT](#edgewater-it) (1)
 - [Egra](#egra) (1)
@@ -341,12 +345,13 @@
 - [Excellus BCBS](#excellus-bcbs) (2)
 - [Exelixis](#exelixis) (1)
 - [EXL](#exl) (3)
+- [Expedia Group](#expedia-group) (1)
 - [fab2](#fab2) (1)
 - [Faros AI](#faros-ai) (2)
 - [Feathery](#feathery) (1)
 - [Felix Magazine](#felix-magazine) (2)
 - [Ferrovial](#ferrovial) (1)
-- [Fidelity Investments](#fidelity-investments) (3)
+- [Fidelity Investments](#fidelity-investments) (4)
 - [Field AI](#field-ai) (1)
 - [Figma](#figma) (4)
 - [Firetiger](#firetiger) (2)
@@ -362,7 +367,7 @@
 - [Fluxergy](#fluxergy) (1)
 - [Fooji](#fooji) (1)
 - [Ford Motor Company](#ford-motor-company) (2)
-- [Fortinet](#fortinet) (2)
+- [Fortinet](#fortinet) (3)
 - [Forus](#forus) (1)
 - [Foundation Finance](#foundation-finance) (1)
 - [Foxconn Industrial Internet](#foxconn-industrial-internet) (2)
@@ -374,10 +379,10 @@
 - [FSH Technologies](#fsh-technologies) (1)
 - [Fullbay](#fullbay) (1)
 - [Garda Capital Partners](#garda-capital-partners) (1)
-- [Garmin](#garmin) (6)
+- [Garmin](#garmin) (7)
 - [Gartner](#gartner) (1)
 - [GE Appliances](#ge-appliances) (1)
-- [GE Healthcare](#ge-healthcare) (1)
+- [GE Healthcare](#ge-healthcare) (2)
 - [GE Vernova](#ge-vernova) (6)
 - [Gecko Robotics](#gecko-robotics) (1)
 - [Geico](#geico) (1)
@@ -385,7 +390,7 @@
 - [Generac](#generac) (3)
 - [General Dynamics](#general-dynamics) (1)
 - [General Dynamics Information Technology](#general-dynamics-information-technology) (6)
-- [General Dynamics Mission Systems](#general-dynamics-mission-systems) (9)
+- [General Dynamics Mission Systems](#general-dynamics-mission-systems) (10)
 - [General Matter](#general-matter) (2)
 - [General Motors](#general-motors) (3)
 - [Genetec](#genetec) (4)
@@ -403,7 +408,7 @@
 - [GlobalFoundries](#globalfoundries) (3)
 - [Globus Medical](#globus-medical) (1)
 - [GM financial](#gm-financial) (2)
-- [Goldman Sachs](#goldman-sachs) (2)
+- [Goldman Sachs](#goldman-sachs) (1)
 - [Google](#google) (10)
 - [Gradient Robotics](#gradient-robotics) (1)
 - [Gritt Robotics Inc](#gritt-robotics-inc) (1)
@@ -412,6 +417,7 @@
 - [Guidehouse](#guidehouse) (1)
 - [Guidewire](#guidewire) (1)
 - [Gulfstream](#gulfstream) (1)
+- [H-E-B](#h-e-b) (1)
 - [Haize Labs](#haize-labs) (1)
 - [Handshake](#handshake) (1)
 - [HarmonyTech](#harmonytech) (1)
@@ -424,7 +430,6 @@
 - [Heliux](#heliux) (2)
 - [Hendrick Motorsports](#hendrick-motorsports) (1)
 - [Hermeus](#hermeus) (3)
-- [Hewlett Packard](#hewlett-packard) (1)
 - [Hewlett Packard (HP)](#hewlett-packard-hp) (4)
 - [Hewlett Packard Enterprise](#hewlett-packard-enterprise) (2)
 - [Hexagon AB ](#hexagon-ab) (1)
@@ -675,7 +680,7 @@
 - [Nucleus Biologics](#nucleus-biologics) (1)
 - [Nuro](#nuro) (4)
 - [Nutanix](#nutanix) (1)
-- [NVIDIA](#nvidia) (15)
+- [NVIDIA](#nvidia) (16)
 - [NXP Semiconductors](#nxp-semiconductors) (2)
 - [Observable Space](#observable-space) (1)
 - [Obsidian Solutions Group](#obsidian-solutions-group) (1)
@@ -785,6 +790,7 @@
 - [Rendezvous Robotics](#rendezvous-robotics) (1)
 - [Repligen](#repligen) (1)
 - [Replit](#replit) (3)
+- [Resideo](#resideo) (1)
 - [Resmed](#resmed) (1)
 - [RESPEC](#respec) (1)
 - [ResponsiveAds](#responsiveads) (1)
@@ -798,7 +804,7 @@
 - [Rippling](#rippling) (4)
 - [Ritchie Bros.](#ritchie-bros) (1)
 - [Riverside Research](#riverside-research) (1)
-- [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (9)
+- [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (7)
 - [Roam](#roam) (1)
 - [Robert Bosch LLC](#robert-bosch-llc) (1)
 - [Robert Bosch Venture Capital](#robert-bosch-venture-capital) (1)
@@ -1470,6 +1476,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Product Engineer - Product Development](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Product-Engineer--Product-Development-_R265304) | 93 | Wilmington, MA / Durham, NC | Software | 2026-08-21 |
 | [Product Engineer - Design Evaluation](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Engineer---RF-System_R263805) | 93 | Wilmington, MA | Software | 2026-08-17 |
 | [FPGA Systems Development Engineer](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/FPGA-Systems-Development-Engineer_R262943) | 83 | Durham, NC | Hardware | 2026-08-17 |
 
@@ -1600,6 +1607,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer 2 – New College Grad](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer-II--New-College-Grad---Santa-Clara--CA-_R2622398) | 93 | Santa Clara, CA | Software | 2026-08-21 |
 | [Systems Engineer](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Systems-Engineer_R2626795) | 83 | Santa Clara, CA | Hardware | 2026-08-21 |
 | [Software Support Engineer 1 - Global](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Global-Software-Support-Engineer-I_R2625245) | 93 | Austin, TX | Software | 2026-08-18 |
 | [AI Research Scientist - Generative Models for Scientific Discovery](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/AI-Research-Scientist--Generative-Models-for-Scientific-Discovery-_R2611980-1) | 93 | Santa Clara, CA | AI/ML/Data | 2026-08-17 |
@@ -2707,6 +2715,12 @@
 | [Software Engineering Intern](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005) | 93 | Chicago, IL | Software | 2026-08-07 |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005) | 93 | Chicago, IL | Software | 2026-08-04 |
 
+## Chickasaw Nation Industries
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Research Engineer](https://cni.wd503.myworkdayjobs.com/CNI/job/Dothan-AL/Research-Engineer_R9407) | 93 | Dothan, AL | AI/ML/Data | 2026-08-21 |
+
 ## Ciena
 
 | Title | Score | Location | Department | First seen |
@@ -2797,7 +2811,7 @@
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
 | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -2903,6 +2917,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Graduate Researcher Intern - Machine Learning](https://jobs.ashbyhq.com/constellationspace/b763d4ba-7b77-479b-89a0-f632d9d02f4a/application?embed=true) | 99 | Seattle, WA | AI/ML/Data | 2026-08-01 |
+
+## ConstructConnect
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Associate Software Engineer - Product Development](https://careers-constructconnect.icims.com/jobs/2191/job?mobile=true&needsRedirect=false) | 85 | Atlanta, GA | Software | 2026-08-21 |
 
 ## Content Guru
 
@@ -3070,6 +3090,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [New Grad: Backend Engineer](https://d3.com/careers#jobs-listing) | 91 | Los Angeles, CA | — | 2026-08-17 |
+
+## Da Vinci
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Graduate C++ Software Engineer](https://davincitrading.com/job/graduate-c-software-engineer-2/) | 91 | Miami, FL | — | 2026-08-21 |
 
 ## Daikin Applied
 
@@ -3404,6 +3430,12 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer - Research & Development Engineering](https://eaton.eightfold.ai/careers/job/687236827500) | 85 | Wimborne Minster, Wimborne, UK | Hardware | 2026-08-17 |
 
+## Echo Global Logistics
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Associate Software Support Engineer](https://echo.wd1.myworkdayjobs.com/en-US/Echo_Logistics/job/Chicago-IL/Associate-Software-Support-Engineer_R4615-1) | 93 | Chicago, IL / Reno, NV | Software | 2026-08-21 |
+
 ## Edgehog Trading
 
 | Title | Score | Location | Department | First seen |
@@ -3634,6 +3666,12 @@
 | [Data Scientist Associate](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/15323) | 85 | United States | AI/ML/Data | 2026-08-17 |
 | [Junior Software Developer](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/15785) | 85 | United States | Software | 2026-08-17 |
 
+## Expedia Group
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Development Engineer 1](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-108739) | 93 | Seattle, WA | Software | 2026-08-21 |
+
 ## fab2
 
 | Title | Score | Location | Department | First seen |
@@ -3670,6 +3708,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer - Leap](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/October-2027---Leap-Software-Engineer_2133884) | 93 | Westlake, TX / Durham, NC / Merrimack, NH | Software | 2026-08-21 |
 | [Leap Software Engineer](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/January-2027---Leap-Software-Engineer_2133859) | 93 | Westlake, TX / Durham, NC / Merrimack, NH | Software | 2026-08-17 |
 | [Software Engineer](https://fmr.wd1.myworkdayjobs.com/targeted/job/Jersey-City-NJ/XMLNAME-2026-Undergraduate---Leap--Software-Engineer--Jersey-City--NJ_2130181) | 93 | Jersey City, NJ | Software | 2026-08-17 |
 | [Software Engineer - Leap Program](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/April-2027---Leap-Software-Engineer_2133870) | 93 | Westlake, TX / Durham, NC / Merrimack, NH | Software | 2026-08-17 |
@@ -3775,6 +3814,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Applied AI Engineer New Grad - AI Agent](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23077) | 91 | Sunnyvale, CA | Software | 2026-08-21 |
 | [Software Developer New Grad](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22818) | 91 | Sunnyvale, CA | Hardware | 2026-08-17 |
 | [Full Stack Software Developer](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22399) | 85 | Burnaby, BC, Canada | Software | 2026-08-17 |
 
@@ -3850,6 +3890,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer 1](https://careers.garmin.com/jobs/19680?icims=1) | 85 | Yarmouth, ME | Software | 2026-08-21 |
 | [Embedded Software Engineer 1](https://careers.garmin.com/jobs/19134?icims=1) | 85 | Chandler, AZ | Hardware | 2026-08-17 |
 | [Sensor Algorithms Software Engineer 1 - Core Platform Technology - Sensor Algorithms Team](https://careers.garmin.com/jobs/18193?icims=1) | 85 | Olathe, KS | Hardware | 2026-08-17 |
 | [Software Engineer 1](https://careers.garmin.com/jobs/19098?icims=1) | 85 | Olathe, KS | Software | 2026-08-17 |
@@ -3873,6 +3914,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Firmware Engineer](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Firmware-Engineer_R4044994-1) | 83 | Waukesha, WI | Hardware | 2026-08-21 |
 | [Engineering Development Program](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program_R4043922-1) | 93 | Aurora, CO / Waukesha, WI | Software | 2026-08-17 |
 
 ## GE Vernova
@@ -3933,6 +3975,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer - Entry Level](https://careers-gdms.icims.com/jobs/74471/job?mobile=true&needsRedirect=false) | 85 | Manassas, VA | Software | 2026-08-21 |
 | [Systems Engineer](https://careers-gdms.icims.com/jobs/74470/job?mobile=true&needsRedirect=false) | 85 | Pittsfield, MA | AI/ML/Data | 2026-08-21 |
 | [Entry Level Software Engineer](https://careers-gdms.icims.com/jobs/74417/job?mobile=true&needsRedirect=false) | 85 | Scottsdale, AZ | Software | 2026-08-19 |
 | [Entry Level Infrastructure Hardware Systems Engineer](https://careers-gdms.icims.com/jobs/72936/job?mobile=true&needsRedirect=false) | 85 | Pittsfield, MA | Hardware | 2026-08-17 |
@@ -4061,7 +4104,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Engineering New Analyst - Engineering](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807) | 85 | Seattle, WA | Software | 2026-08-21 |
 | [Software Engineer - Data](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292) | 85 | London, UK | Software | 2026-08-17 |
 
 ## Google
@@ -4121,6 +4163,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [IT Applications Developer](https://careers.gulfstream.com/job/Savannah-IT-Apps-Developer-GA-31401/1418077600/?ats=successfactors) | 85 | Savannah, GA | Software | 2026-08-17 |
+
+## H-E-B
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer 1 - Multiple Teams](https://careers.heb.com/jobs/231773?icims=1) | 85 | San Antonio, TX | Software | 2026-08-21 |
 
 ## Haize Labs
 
@@ -4196,12 +4244,6 @@
 | [Software Engineering Intern (Command & Control) - Fall 2026](https://jobs.lever.co/hermeus/a3a1f0ea-6a4f-42e5-81c8-3b34dac22a67) | 93 | Atlanta, GA | Software / Fall 2026 | 2026-08-04 |
 | [Flight Software Engineering Intern](https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440) | 93 | Atlanta, GA | Hardware Engineering | 2026-05-09 |
 | [Human Machine Interface – Software Engineering Intern - Human Machine Interface](https://jobs.lever.co/hermeus/a3a1f0ea-6a4f-42e5-81c8-3b34dac22a67/apply) | 93 | Atlanta, GA | Software | 2026-05-09 |
-
-## Hewlett Packard
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Systems Engineer - Advanced Compute Solutions - Desktop Workstations](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Fort-Collins-Colorado-United-States-of-America/Software-Systems-Engineer_3166471-1) | 93 | Fort Collins, CO | Software | 2026-08-17 |
 
 ## Hewlett Packard (HP)
 
@@ -6017,6 +6059,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Research Engineer New Grad - Interactive World Models](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Engineer--Interactive-World-Models---New-College-Grad-2026_JR2023950) | 99 | Santa Clara, CA | AI/ML/Data | 2026-08-21 |
 | [Software Engineering Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | 93 | Canada / Santa Clara, CA | Software | 2026-08-19 |
 | [Systems Software Engineering Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492) | 93 | Santa Clara, CA | Software | 2026-08-19 |
 | [Backend Compiler Engineer New Grad](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer---New-College-Grad-2026_JR2021242) | 99 | Canada / Santa Clara, CA | Software | 2026-08-17 |
@@ -6508,8 +6551,8 @@
 | [Quantitative Developer](https://careers.point72.com/CSJobDetail?jobName=quantitative-developer&jobCode=CSS-0013369&location=New%20York&locale=English) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-08-17 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -6888,6 +6931,12 @@
 | [Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application?embed=true) | 93 | Foster City, CA | Software | 2026-08-15 |
 | [Software Engineering Intern (Summer 2027)](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1) | 93 | Foster City, CA | Engineering | 2026-08-15 |
 
+## Resideo
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Firmware Engineer 1](https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19224) | 75 | Aurora, IL | Hardware | 2026-08-21 |
+
 ## Resmed
 
 | Title | Score | Location | Department | First seen |
@@ -6983,8 +7032,6 @@
 | [Software Engineering Intern - Vehicle Controls](https://jobs.ashbyhq.com/rivianvw.tech/89feb2fe-c28c-4dad-846f-09594632ba55) | 93 | Irvine, CA / Palo Alto, CA | Software Engineering | 2026-06-24 |
 | [Android Developer Intern](https://jobs.ashbyhq.com/rivianvw.tech/5633bb03-cc16-47fc-af02-db9dc355eddd/application) | 93 | Palo Alto, CA | Software | 2026-06-11 |
 | [Software Engineer Intern - Vehicle Controls](https://jobs.ashbyhq.com/rivianvw.tech/89feb2fe-c28c-4dad-846f-09594632ba55/application) | 93 | Palo Alto, CA / Irvine, CA | Hardware | 2026-06-11 |
-| [Software Engineer Intern Co-op - Applications](https://jobs.ashbyhq.com/rivianvw.tech/259f1a7c-3102-47a3-9919-c1174d9be89c/application) | 93 | Toronto, ON, Canada / Vancouver, BC, Canada | Software | 2026-06-11 |
-| [Software Engineer Intern Co-op - Systems Engineering](https://jobs.ashbyhq.com/rivianvw.tech/28e87a5e-7aba-4f91-af44-74f739356a27/application) | 93 | Vancouver, BC, Canada | Hardware | 2026-06-11 |
 | [Software Engineer Intern, Embedded Platforms](https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff) | 93 | Palo Alto, CA / Irvine, CA | — | 2026-06-11 |
 
 ## Roam
