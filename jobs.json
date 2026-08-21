@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-21T21:45:13.463Z",
+  "generatedAt": "2026-08-21T22:12:20.994Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2746,
+  "jobCount": 2747,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2749,7 +2749,8 @@
     "canonical:241930c80b7ebd10": "2026-08-21T20:40:41.753Z",
     "canonical:d0bde42ce673ace4": "2026-08-21T20:40:41.753Z",
     "canonical:9a2b190bbd75844d": "2026-08-21T20:40:41.753Z",
-    "canonical:eb5c6c0ab2194708": "2026-08-21T20:40:41.753Z"
+    "canonical:eb5c6c0ab2194708": "2026-08-21T20:40:41.753Z",
+    "canonical:b119bbd0c760924d": "2026-08-21T22:12:20.994Z"
   },
   "jobs": [
     {
@@ -22376,6 +22377,20 @@
       "location": "Midland, TX / Houston, TX / Bakersfield, CA / Covington, LA / Denver, CO / Greeley, CO",
       "department": "Software",
       "company": "Chevron Corporation",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:b119bbd0c760924d",
+      "title": "Software Engineer Associate",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer_R10240764",
+      "location": "Melbourne, FL",
+      "department": "Software",
+      "company": "Northrop Grumman",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
