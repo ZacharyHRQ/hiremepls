@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-21T20:13:32.090Z",
+  "generatedAt": "2026-08-21T20:40:41.753Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2748,
+  "jobCount": 2752,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2751,7 +2751,11 @@
     "canonical:302496ad9fc477ab": "2026-08-21T20:13:32.090Z",
     "canonical:e96b70e8567c22ca": "2026-08-21T20:13:32.090Z",
     "canonical:34b92f6ac29c4fcd": "2026-08-21T20:13:32.090Z",
-    "canonical:a2494932cb75d54f": "2026-08-21T20:13:32.090Z"
+    "canonical:a2494932cb75d54f": "2026-08-21T20:13:32.090Z",
+    "canonical:241930c80b7ebd10": "2026-08-21T20:40:41.753Z",
+    "canonical:d0bde42ce673ace4": "2026-08-21T20:40:41.753Z",
+    "canonical:9a2b190bbd75844d": "2026-08-21T20:40:41.753Z",
+    "canonical:eb5c6c0ab2194708": "2026-08-21T20:40:41.753Z"
   },
   "jobs": [
     {
@@ -14393,6 +14397,19 @@
       ]
     },
     {
+      "id": "canonical:241930c80b7ebd10",
+      "title": "Software Engineer Intern",
+      "url": "https://fullbay.bamboohr.com/careers/131/",
+      "location": "Phoenix, AZ",
+      "department": "Software",
+      "company": "Fullbay",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:12cd06c0eec80152",
       "title": "Frontend Software Engineer Intern",
       "url": "https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c",
@@ -20849,6 +20866,20 @@
       "location": "Glendale, CA",
       "department": "Software",
       "company": "The Walt Disney Company",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:d0bde42ce673ace4",
+      "title": "Software Engineer 1",
+      "url": "https://jobs.lever.co/sophos/797834ca-58be-4a7c-a220-b2eefd449d97/apply",
+      "location": "Remote in UK",
+      "department": "Software",
+      "company": "Sophos",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -29779,6 +29810,20 @@
       ]
     },
     {
+      "id": "canonical:54aefa749fb34f4e",
+      "title": "Software Engineer 3 - ENG/CPO/WTG ETR",
+      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-III--Full-Time----United-States-ENG-CPO-WTG-ETR_2022055",
+      "location": "Milpitas, CA",
+      "department": "Hardware",
+      "company": "Cisco",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:13bf363c9852933b",
       "title": "Software Engineering New Grad",
       "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad-2027---Software-Engineering_R-052475",
@@ -29891,20 +29936,6 @@
         "SWE-aligned",
         "high-signal role",
         "new grad"
-      ]
-    },
-    {
-      "id": "canonical:54aefa749fb34f4e",
-      "title": "Software Engineer 3 - ENG/CPO/WTG ETR",
-      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-III--Full-Time----United-States-ENG-CPO-WTG-ETR_2022055",
-      "location": "Milpitas, CA",
-      "department": "Hardware",
-      "company": "Cisco",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -35829,6 +35860,33 @@
       "location": "Brea, CA",
       "department": "Software",
       "company": "Mercury Insurance",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:9a2b190bbd75844d",
+      "title": "AI/ML Engineer",
+      "url": "https://apply.workable.com/avalore/j/236521B2C0/apply",
+      "location": "Arlington County, Arlington, VA",
+      "department": "AI/ML/Data",
+      "company": "Avalore",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:eb5c6c0ab2194708",
+      "title": "Software Developer - Distributed Simulation Technology",
+      "url": "https://onearc.bamboohr.com/careers/402/",
+      "location": "Remote in UK",
+      "department": "Software",
+      "company": "BAE Systems OneArc USA, Inc",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",

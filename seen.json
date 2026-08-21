@@ -2383,7 +2383,8 @@
     "simplify:0d95ff8f-ccaa-4031-8bc2-ecf6014f6be0",
     "simplify:631bbbfe-8d2d-4b49-8e16-c60d7eebde34",
     "simplify:6b73883a-ab74-444e-93ce-5fd790148177",
-    "simplify:c4bfe952-8e9a-4599-966c-127295b128ad"
+    "simplify:c4bfe952-8e9a-4599-966c-127295b128ad",
+    "simplify:e4dd1ece-36bc-4785-88a7-beb7bdfb4414"
   ],
   "DoorDash": [],
   "Waymo": [
@@ -3291,7 +3292,8 @@
     "simplify:0d95ff8f-ccaa-4031-8bc2-ecf6014f6be0",
     "simplify:631bbbfe-8d2d-4b49-8e16-c60d7eebde34",
     "simplify:6b73883a-ab74-444e-93ce-5fd790148177",
-    "simplify:c4bfe952-8e9a-4599-966c-127295b128ad"
+    "simplify:c4bfe952-8e9a-4599-966c-127295b128ad",
+    "simplify:e4dd1ece-36bc-4785-88a7-beb7bdfb4414"
   ],
   "Wintermute": [],
   "QCP": [],
@@ -3732,6 +3734,7 @@
     "simplify:6a5a374d-834e-4bb6-992d-4cc74f3f8e8e",
     "simplify:35802268-4896-4571-bb5b-698214c472da",
     "simplify:12634088-9777-452c-9095-9f2de268d1e0",
+    "simplify:382edd59-362c-4067-97e0-f333684dab49",
     "simplify:b79b2e09-dc0f-40e5-8a4d-961fa83bc2fc",
     "simplify:9806b0c4-6f96-463b-b16f-410fc0a1ae51",
     "simplify:1e2b7529-adf7-49ab-8d4a-8979fab4e3e9",
@@ -4450,6 +4453,7 @@
     "simplify:28be03da-801e-4180-a761-ffb6ac098c30",
     "simplify:1d6917cc-c2ac-4a2b-8ffc-9e08ecc68f64",
     "simplify:6a24eac0-34c2-46a9-816e-f6a3e716a259",
+    "simplify:2248f171-9493-45ea-a49d-ad059b8be5c5",
     "simplify:8e8f7392-2530-41cd-b2fe-8ba9e55a6f68",
     "simplify:6e1de79a-7eda-4b86-ae66-4edba96f4c12",
     "simplify:ff3a075b-b45b-4c88-8471-f4a4f79e4257",
@@ -4924,7 +4928,10 @@
     "simplify:b30acf92-00fa-4d87-ac6e-44032cdc640b",
     "simplify:54eb5520-b9cf-4910-83b4-228b8b7a1a67",
     "simplify:53ce3bb2-f715-4b48-a55a-31dcb2506112",
-    "simplify:9e675a71-dd54-4b7e-9dad-72b84c93433e"
+    "simplify:9e675a71-dd54-4b7e-9dad-72b84c93433e",
+    "simplify:9e276b36-0027-450c-b77d-ba9d4664b668",
+    "simplify:90f9f1b5-758f-40b8-b6dd-9a555735a261",
+    "simplify:360847fa-a110-475d-aa7e-121fcba41e78"
   ],
   "vanshb03 New Grad": [
     "vansh:5dac35b2-b148-49f8-b3f5-828ba68da99c",

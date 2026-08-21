@@ -1,6 +1,6 @@
 # Open Internships
 
-**2748** internships across **188/188** companies — last updated 2026-08-21.
+**2752** internships across **188/188** companies — last updated 2026-08-21.
 
 ## Companies
 
@@ -110,7 +110,7 @@
 - [Aurora Innovation](#aurora-innovation) (2)
 - [Auto-Owners Insurance](#auto-owners-insurance) (1)
 - [Autodesk](#autodesk) (6)
-- [Avalore](#avalore) (1)
+- [Avalore](#avalore) (2)
 - [Avoca AI](#avoca-ai) (1)
 - [Axis Capital](#axis-capital) (1)
 - [Axon](#axon) (1)
@@ -118,6 +118,7 @@
 - [AXQ Capital](#axq-capital) (1)
 - [Babel Street](#babel-street) (1)
 - [Backbone Systems](#backbone-systems) (1)
+- [BAE Systems OneArc USA, Inc](#bae-systems-onearc-usa-inc) (1)
 - [Baker Hughes](#baker-hughes) (1)
 - [Balyasny Asset Management](#balyasny-asset-management) (1)
 - [Bank of Montreal](#bank-of-montreal) (1)
@@ -373,6 +374,7 @@
 - [Freeform](#freeform) (2)
 - [Frontier Health](#frontier-health) (1)
 - [FSH Technologies](#fsh-technologies) (1)
+- [Fullbay](#fullbay) (1)
 - [Garda Capital Partners](#garda-capital-partners) (1)
 - [Garmin](#garmin) (6)
 - [Gartner](#gartner) (1)
@@ -873,6 +875,7 @@
 - [Solerity](#solerity) (1)
 - [SoloPulse](#solopulse) (3)
 - [Sony](#sony) (1)
+- [Sophos](#sophos) (1)
 - [SOSi](#sosi) (1)
 - [SOTI](#soti) (1)
 - [SourceDirect Talent](#sourcedirect-talent) (1)
@@ -1895,6 +1898,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [AI/ML Engineer](https://apply.workable.com/avalore/j/236521B2C0/apply) | 93 | Arlington County, Arlington, VA | AI/ML/Data | 2026-08-21 |
 | [Software Engineer](https://apply.workable.com/avalore/j/F157AC3B65/apply) | 93 | Annapolis Junction, MD | Software | 2026-08-17 |
 
 ## Avoca AI
@@ -1939,6 +1943,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Founding Engineer - Applied Research](https://jobs.ashbyhq.com/backbone/cbfce5dc-e2c7-452e-bb23-2dac1198df7d/application?embed=true) | 93 | SF | AI/ML/Data | 2026-08-17 |
+
+## BAE Systems OneArc USA, Inc
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Developer - Distributed Simulation Technology](https://onearc.bamboohr.com/careers/402/) | 85 | Remote in UK | Software | 2026-08-21 |
 
 ## Baker Hughes
 
@@ -3839,6 +3849,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Engineer New Grad](https://jobs.ashbyhq.com/FSH/71b6506a-10c2-4498-9cff-1009e0582bda/application?embed=true) | 99 | Philadelphia, PA / NYC | Software | 2026-08-17 |
+
+## Fullbay
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://fullbay.bamboohr.com/careers/131/) | 85 | Phoenix, AZ | Software | 2026-08-21 |
 
 ## Garda Capital Partners
 
@@ -7511,6 +7527,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-119282) | 93 | San Diego, CA | Software | 2026-08-01 |
+
+## Sophos
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer 1](https://jobs.lever.co/sophos/797834ca-58be-4a7c-a220-b2eefd449d97/apply) | 93 | Remote in UK | Software | 2026-08-21 |
 
 ## SOSi
 
