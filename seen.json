@@ -1277,6 +1277,7 @@
   ],
   "Wayve": [],
   "zshah101 Summer 2027/Fall 2026": [
+    "github-json:zshah101-summer-2027-fall-2026:ashby:phoebe-work:1ffe3e63-2163-447e-a8b0-1fff8b87e0ca",
     "github-json:zshah101-summer-2027-fall-2026:workday:philips:/job/Plymouth-Minnesota-United-States/Graduate-Level-Co-op---Data-Scientist---Plymouth--MN---Summer-2027_590567",
     "github-json:zshah101-summer-2027-fall-2026:workday:microchiphr:/job/AZ---Chandler/Intern---Engineering--Device-Software-and-Test-_R3573-26",
     "github-json:zshah101-summer-2027-fall-2026:workday:intel:/job/US-Arizona-Phoenix/Software-Engineer-Graduate-Intern_JR0286489",
@@ -1286,6 +1287,7 @@
     "github-json:zshah101-summer-2027-fall-2026:smartrecruiters:AbbVie:3743990014697918",
     "github-json:zshah101-summer-2027-fall-2026:lever:espace:1e189295-a315-414d-8c0b-686f204e3cb3",
     "github-json:zshah101-summer-2027-fall-2026:workable:western-magnetics:E366930F3F",
+    "github-json:zshah101-summer-2027-fall-2026:workable:fooji:6563DA99B5",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:generalmatter:5377118008",
     "github-json:zshah101-summer-2027-fall-2026:workday:copart:/job/Dallas-TX---Headquarters/Site-Reliability-Engineer-Intern_JR110631",
     "github-json:zshah101-summer-2027-fall-2026:ashby:n1:afe7deb5-9cfd-4926-bcb4-058d418592a6",
@@ -1497,6 +1499,7 @@
     "5187605007"
   ],
   "Amazon": [
+    "10401402",
     "10503558",
     "3134271",
     "10502743",
@@ -1538,7 +1541,6 @@
     "simplify:19adb890-3588-42e8-ac86-3d099f703889",
     "simplify:275b40b6-35f1-4ef6-9c1b-741a35b72c1f",
     "simplify:aba3cf97-4ffd-4dce-876d-ab3305231512",
-    "simplify:128e7ee0-9110-45e1-992d-270f1fa2be3d",
     "simplify:97e6ece1-7a71-4d9d-a1b3-255d28e56d89",
     "simplify:9736b037-9a12-4587-8cf7-4a4cdde4054f",
     "simplify:03f837a0-bf51-4384-b5fe-ecc29b02eb9b",
@@ -2110,7 +2112,6 @@
     "simplify:7ededa5d-af4b-4f9d-80ae-9e03985190e9",
     "simplify:ab59c6f6-ec45-4285-aebc-93331fbe2b8f",
     "simplify:30e36d66-cf25-4851-9655-d22bb0c6d319",
-    "simplify:40dbbf5f-d4ad-493a-9644-4f4b0662556c",
     "simplify:fdd7e7ec-c300-4a26-931c-56c3adc48425",
     "simplify:d1768aee-f240-4353-b609-278b04785c95",
     "simplify:2851e500-7a2b-4e96-a2fa-681730e8d48e",
@@ -2195,7 +2196,6 @@
     "simplify:18a8a6d4-4cc6-4e2c-bcc6-db027db69988",
     "simplify:adeac3f1-1c24-456d-a09f-179101c39c2f",
     "simplify:ab4dacc0-3b0f-4a64-8351-f7ee4198e2ab",
-    "simplify:cf012f7c-ffe4-475e-ab48-18debac5047e",
     "simplify:d2981791-a95a-4770-939a-7234d38f079d",
     "simplify:c61b3999-cfc9-4184-8e3e-3a21a00ebcef",
     "simplify:14e51d14-067b-43b8-80cf-dcf3c6893565",
@@ -2297,7 +2297,6 @@
     "simplify:fe95284a-7253-48e2-b44d-65a7a77a7068",
     "simplify:1b75680e-460c-4f8d-99bd-d64c248c45ba",
     "simplify:d6ccc1b0-bad2-4c51-af45-22ed47ddb4b5",
-    "simplify:3dc31c45-2bae-4f11-b283-deb7c9854dde",
     "simplify:cab045bf-39b2-4c18-9001-24ab75450b0c",
     "simplify:73598b4d-3993-4121-856f-56624bff87b9",
     "simplify:fa9b8b4c-326b-46f7-8979-43e65256db21",
@@ -2347,7 +2346,9 @@
     "simplify:944978fc-7eeb-4346-82ad-857bec5239a5",
     "simplify:0446e9d0-fc91-4c78-970a-fe7b5809cd30",
     "simplify:2b9774d4-2b94-4dc3-9aca-7b5dc857eaa2",
-    "simplify:1a0df397-2083-456f-9ecb-137eec7603ef"
+    "simplify:1a0df397-2083-456f-9ecb-137eec7603ef",
+    "simplify:892947b6-4cac-464b-941a-7244615e4d0a",
+    "simplify:563165c9-79ea-427e-a9f7-ac43878f12f6"
   ],
   "DoorDash": [],
   "Waymo": [
@@ -2448,7 +2449,6 @@
     "simplify:19adb890-3588-42e8-ac86-3d099f703889",
     "simplify:275b40b6-35f1-4ef6-9c1b-741a35b72c1f",
     "simplify:aba3cf97-4ffd-4dce-876d-ab3305231512",
-    "simplify:128e7ee0-9110-45e1-992d-270f1fa2be3d",
     "simplify:97e6ece1-7a71-4d9d-a1b3-255d28e56d89",
     "simplify:9736b037-9a12-4587-8cf7-4a4cdde4054f",
     "simplify:03f837a0-bf51-4384-b5fe-ecc29b02eb9b",
@@ -3020,7 +3020,6 @@
     "simplify:7ededa5d-af4b-4f9d-80ae-9e03985190e9",
     "simplify:ab59c6f6-ec45-4285-aebc-93331fbe2b8f",
     "simplify:30e36d66-cf25-4851-9655-d22bb0c6d319",
-    "simplify:40dbbf5f-d4ad-493a-9644-4f4b0662556c",
     "simplify:fdd7e7ec-c300-4a26-931c-56c3adc48425",
     "simplify:d1768aee-f240-4353-b609-278b04785c95",
     "simplify:2851e500-7a2b-4e96-a2fa-681730e8d48e",
@@ -3105,7 +3104,6 @@
     "simplify:18a8a6d4-4cc6-4e2c-bcc6-db027db69988",
     "simplify:adeac3f1-1c24-456d-a09f-179101c39c2f",
     "simplify:ab4dacc0-3b0f-4a64-8351-f7ee4198e2ab",
-    "simplify:cf012f7c-ffe4-475e-ab48-18debac5047e",
     "simplify:d2981791-a95a-4770-939a-7234d38f079d",
     "simplify:c61b3999-cfc9-4184-8e3e-3a21a00ebcef",
     "simplify:14e51d14-067b-43b8-80cf-dcf3c6893565",
@@ -3207,7 +3205,6 @@
     "simplify:fe95284a-7253-48e2-b44d-65a7a77a7068",
     "simplify:1b75680e-460c-4f8d-99bd-d64c248c45ba",
     "simplify:d6ccc1b0-bad2-4c51-af45-22ed47ddb4b5",
-    "simplify:3dc31c45-2bae-4f11-b283-deb7c9854dde",
     "simplify:cab045bf-39b2-4c18-9001-24ab75450b0c",
     "simplify:73598b4d-3993-4121-856f-56624bff87b9",
     "simplify:fa9b8b4c-326b-46f7-8979-43e65256db21",
@@ -3257,7 +3254,9 @@
     "simplify:944978fc-7eeb-4346-82ad-857bec5239a5",
     "simplify:0446e9d0-fc91-4c78-970a-fe7b5809cd30",
     "simplify:2b9774d4-2b94-4dc3-9aca-7b5dc857eaa2",
-    "simplify:1a0df397-2083-456f-9ecb-137eec7603ef"
+    "simplify:1a0df397-2083-456f-9ecb-137eec7603ef",
+    "simplify:892947b6-4cac-464b-941a-7244615e4d0a",
+    "simplify:563165c9-79ea-427e-a9f7-ac43878f12f6"
   ],
   "Wintermute": [],
   "QCP": [],
@@ -4253,7 +4252,6 @@
     "simplify:83ab4fcc-d246-4d39-999f-5bb6fbee8953",
     "simplify:167762d6-af17-4e7f-bea6-cf7ca8facdde",
     "simplify:8d99b019-5c4f-4228-8e7f-9ce6934f3d7d",
-    "simplify:a2f05ec8-66ef-4ec0-9332-d50f477106a5",
     "simplify:026bd529-ffe1-45ee-8845-df907c700cdc",
     "simplify:d8aa0e3f-a998-48c7-b248-b6ea6a47e63c",
     "simplify:1bd6de3a-14ad-41a7-8735-bc978a982b66",
@@ -4826,6 +4824,7 @@
     "simplify:54c4c395-7b69-498c-9917-759b96d7b1c5",
     "simplify:74b2d4ff-f0ec-41d4-bc51-c06875faa9b7",
     "simplify:929cfe45-2ac9-4d39-80b3-b3fa750e2ceb",
+    "simplify:08532603-7472-48a9-a825-fef3a7108472",
     "simplify:67a073ee-aefd-4590-84d1-efe1a90a3bd2",
     "simplify:f01af695-62ad-4e53-aadb-563704195b18",
     "simplify:622563d2-e336-4a82-b917-11650b4cbd9d",
@@ -4892,7 +4891,8 @@
     "simplify:67f9183a-b3d2-41ab-a0e5-2b1c829e2a9c",
     "simplify:7244fb2c-e4f5-41ea-82cd-95263ef93961",
     "simplify:2ca0d217-e975-4083-899f-44860ed7f19a",
-    "simplify:29762137-0e7d-4af8-9ef1-9ff70f9eda4f"
+    "simplify:29762137-0e7d-4af8-9ef1-9ff70f9eda4f",
+    "simplify:953a45ef-400f-4757-9a4e-ac3c919383f8"
   ],
   "vanshb03 New Grad": [
     "vansh:5dac35b2-b148-49f8-b3f5-828ba68da99c",

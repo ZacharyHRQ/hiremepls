@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-21T09:57:40.969Z",
+  "generatedAt": "2026-08-21T10:25:43.461Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2741,
+  "jobCount": 2743,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -629,7 +629,6 @@
     "canonical:c153bd5ef8789cba": "2026-08-08T02:49:42.619Z",
     "canonical:523334f852948e02": "2026-08-08T10:56:46.452Z",
     "canonical:b1b6af2ff839b69b": "2026-08-08T14:03:37.449Z",
-    "canonical:6fdcd00eacc1ddb2": "2026-08-09T00:54:28.078Z",
     "canonical:2bfd044e05f72cfa": "2026-08-09T02:56:53.922Z",
     "canonical:1d87142e66472af4": "2026-08-10T00:56:36.224Z",
     "canonical:957953dd04839b8d": "2026-08-10T10:47:13.407Z",
@@ -668,7 +667,6 @@
     "canonical:2a6ed25ad9b13b4f": "2026-08-11T17:37:01.648Z",
     "canonical:d6c416e9054d8a83": "2026-08-11T17:37:01.648Z",
     "canonical:d873e9e921930979": "2026-08-11T17:37:01.648Z",
-    "canonical:03dde52273791c03": "2026-08-11T17:37:01.648Z",
     "canonical:187b1614fae8f345": "2026-08-11T17:37:01.648Z",
     "canonical:495980349607def4": "2026-08-11T17:37:01.648Z",
     "canonical:8136b771bdf847e6": "2026-08-11T17:37:01.648Z",
@@ -1680,7 +1678,6 @@
     "canonical:763a8d624491d52e": "2026-08-17T16:14:31.608Z",
     "canonical:be146a97fabf93f8": "2026-08-17T16:14:31.608Z",
     "canonical:d705e9895d92cb9a": "2026-08-17T16:14:31.608Z",
-    "canonical:b522d24a128fb762": "2026-08-17T16:14:31.608Z",
     "canonical:114122b90cf6be89": "2026-08-17T16:14:31.608Z",
     "canonical:ae6d6e8823674fdc": "2026-08-17T16:14:31.608Z",
     "canonical:e3e5fea5044c9d6f": "2026-08-17T16:14:31.608Z",
@@ -2401,7 +2398,6 @@
     "canonical:beeb844257133700": "2026-08-17T23:18:48.642Z",
     "canonical:7fe8e53be23e1a73": "2026-08-17T23:18:48.642Z",
     "canonical:ff766509aa4c3856": "2026-08-17T23:18:48.642Z",
-    "canonical:a356ac432d4a0c77": "2026-08-17T23:42:51.615Z",
     "canonical:6fda02ae59b09506": "2026-08-17T23:42:51.615Z",
     "canonical:a154011669934dc2": "2026-08-18T02:14:22.426Z",
     "canonical:f21ab7ebd622b4c3": "2026-08-18T02:14:22.426Z",
@@ -2542,7 +2538,6 @@
     "canonical:21eaed85feb211f6": "2026-08-19T21:15:42.444Z",
     "canonical:37ff670929781a31": "2026-08-19T21:15:42.444Z",
     "canonical:1a169d3f140e04b7": "2026-08-19T21:15:42.444Z",
-    "canonical:3a13e382a4c7a044": "2026-08-19T21:15:42.444Z",
     "canonical:2f4eda49645a79fa": "2026-08-19T21:15:42.444Z",
     "canonical:d9a1a07034e550c8": "2026-08-19T21:15:42.444Z",
     "canonical:8058b658ffc4683e": "2026-08-19T21:15:42.444Z",
@@ -2744,7 +2739,14 @@
     "canonical:d0c3c1f0372a6fed": "2026-08-21T09:57:40.969Z",
     "canonical:120cb17c2d4580d6": "2026-08-21T09:57:40.969Z",
     "canonical:8f6ae112364e0be6": "2026-08-21T09:57:40.969Z",
-    "canonical:45251b711c398151": "2026-08-21T09:57:40.969Z"
+    "canonical:45251b711c398151": "2026-08-21T09:57:40.969Z",
+    "canonical:08e9bf362f5945b7": "2026-08-21T10:25:43.461Z",
+    "canonical:34dc903adc0a1eed": "2026-08-21T10:25:43.461Z",
+    "canonical:b590d83cccd3c0e4": "2026-08-21T10:25:43.461Z",
+    "canonical:998c0604230cc1cc": "2026-08-21T10:25:43.461Z",
+    "canonical:1fe5a10089cebcfe": "2026-08-21T10:25:43.461Z",
+    "canonical:40007bce3129233b": "2026-08-21T10:25:43.461Z",
+    "canonical:7c204776b3c470b4": "2026-08-21T10:25:43.461Z"
   },
   "jobs": [
     {
@@ -4629,6 +4631,19 @@
       ]
     },
     {
+      "id": "canonical:08e9bf362f5945b7",
+      "title": "Software Dev Engineer Intern Machine Learning, Amazon Robotics",
+      "url": "https://amazon.jobs/en/jobs/10401402/software-dev-engineer-intern-machine-learning-amazon-robotics",
+      "location": "Berlin",
+      "department": "Software Development",
+      "company": "Amazon",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:29db48d1be8f8e14",
       "title": "【Class of 2028 & 2029／Internship】Software Development Engineers , Amazon International Stores",
       "url": "https://amazon.jobs/en/jobs/10503558/class-of-2028-2029-internship-software-development-engineers-amazon-international-stores",
@@ -5611,19 +5626,6 @@
       "id": "canonical:43c945396857ea6b",
       "title": "AI Engineer Intern - BCG X",
       "url": "https://careers.bcg.com/global/en/job/56635",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "Boston Consulting Group",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:a356ac432d4a0c77",
-      "title": "Data Scientist Intern",
-      "url": "https://careers.bcg.com/global/en/job/56634",
       "location": "London, UK",
       "department": "AI/ML/Data",
       "company": "Boston Consulting Group",
@@ -11711,20 +11713,6 @@
       ]
     },
     {
-      "id": "canonical:6fdcd00eacc1ddb2",
-      "title": "Software Engineer Intern",
-      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/PITTSBURGH-03/Software-Engineering-Intern_R52334-2",
-      "location": "Pittsburgh, PA",
-      "department": "Software",
-      "company": "Cadence Design Systems",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:24e766b24cff172b",
       "title": "Data Engineer Intern - Monetization Data",
       "url": "https://lifeattiktok.com/search/7671232204182276405",
@@ -12670,20 +12658,6 @@
       "location": "Schaumburg, IL / Plantation, FL",
       "department": "Software",
       "company": "Motorola",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:03dde52273791c03",
-      "title": "Software Engineer Intern - Summer 2027",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MN-BURNSVILLE-NORTH--2900-County-Rd-42-W--NORTH-BLDG/Software-Engineering-Intern--Summer-2027-_01866681",
-      "location": "Burnsville, MN",
-      "department": "Hardware",
-      "company": "RTX",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -13869,20 +13843,6 @@
       ]
     },
     {
-      "id": "canonical:3a13e382a4c7a044",
-      "title": "Software Engineer Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-DIEGO-SD1--8650-Balboa-Ave--SAN-ANTONIO-BLDG/Software-Engineering-Intern--Onsite-_01867845",
-      "location": "San Diego, CA",
-      "department": "Software",
-      "company": "RTX",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:812589f1f8cce074",
       "title": "AI Developer Intern",
       "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-1",
@@ -14423,6 +14383,33 @@
       "location": "SF / Bellevue, WA / Mountain View, CA",
       "department": "Software",
       "company": "Databricks",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:34dc903adc0a1eed",
+      "title": "Data Engineer Intern - E-commerce",
+      "url": "https://lifeattiktok.com/search/7676250516494436661",
+      "location": "San Jose, CA",
+      "department": "AI/ML/Data",
+      "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:b590d83cccd3c0e4",
+      "title": "Portfolio Engineer Intern - Capital Markets - CMIA",
+      "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Portfolio-Engineering--Capital-Markets--CMIA--January-2027---8-months-_7193",
+      "location": "Toronto, ON, Canada",
+      "department": "Software",
+      "company": "Ontario Teachers' Pension Plan",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -27538,20 +27525,6 @@
       ]
     },
     {
-      "id": "canonical:b522d24a128fb762",
-      "title": "Data Scientist Graduate - TikTok Live",
-      "url": "https://lifeattiktok.com/search/7669660107303684405",
-      "location": "San Jose, CA",
-      "department": "AI/ML/Data",
-      "company": "TikTok",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad"
-      ]
-    },
-    {
       "id": "canonical:114122b90cf6be89",
       "title": "Machine Learning Engineer New Grad - Performance Monetization",
       "url": "https://lifeattiktok.com/search/7669691374918011141",
@@ -34971,6 +34944,19 @@
       ]
     },
     {
+      "id": "canonical:998c0604230cc1cc",
+      "title": "Forward Deployed AI Scientist - Campus",
+      "url": "https://careers.bcg.com/global/en/job/59068",
+      "location": "Boston, MA / Seattle, WA / Washington, DC / SF / LA / Miami, FL / Dallas, TX / Chicago, IL / Pittsburgh, PA / NYC / Brooklyn, NY / Manhattan Beach, CA",
+      "department": "AI/ML/Data",
+      "company": "Boston Consulting Group",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:88f717e3806d30dc",
       "title": "Data Scientist - Research",
       "url": "https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/Data-Scientist_R19572",
@@ -35733,6 +35719,18 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:1fe5a10089cebcfe",
+      "title": "System Level Test Engineer - Hardware Engineering",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446720634561",
+      "location": "San Diego, CA",
+      "department": "Hardware",
+      "company": "Qualcomm",
+      "score": 75,
+      "scoreReasons": [
+        "SWE-aligned"
       ]
     },
     {
@@ -39569,6 +39567,20 @@
       ]
     },
     {
+      "id": "canonical:40007bce3129233b",
+      "title": "Software Engineering Intern",
+      "url": "https://jobs.ashbyhq.com/phoebe-work/1ffe3e63-2163-447e-a8b0-1fff8b87e0ca",
+      "location": "New York City",
+      "department": "Software / Fall 2026",
+      "company": "Phoebe",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:dec8d6496666566a",
       "title": "Graduate Level Co-op – Data Scientist – Plymouth, MN – Summer 2027",
       "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Graduate-Level-Co-op---Data-Scientist---Plymouth--MN---Summer-2027_590567",
@@ -39662,6 +39674,20 @@
       "location": "South San Francisco, California, United States",
       "department": "Software / Not stated",
       "company": "Western Magnetics",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:7c204776b3c470b4",
+      "title": "Software Engineering Intern",
+      "url": "https://apply.workable.com/fooji/j/6563DA99B5/",
+      "location": "Lexington, Kentucky, United States",
+      "department": "Software / Not stated",
+      "company": "Fooji",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",

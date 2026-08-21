@@ -1,6 +1,6 @@
 # Open Internships
 
-**2741** internships across **188/188** companies — last updated 2026-08-21.
+**2743** internships across **188/188** companies — last updated 2026-08-21.
 
 ## Companies
 
@@ -42,7 +42,7 @@
 - [Alta Ares](#alta-ares) (1)
 - [Altice USA](#altice-usa) (2)
 - [AMAX](#amax) (1)
-- [Amazon](#amazon) (43)
+- [Amazon](#amazon) (44)
 - [Ambarella](#ambarella) (1)
 - [Amcor](#amcor) (1)
 - [AMD](#amd) (9)
@@ -174,7 +174,7 @@
 - [ByteDance](#bytedance) (177)
 - [CACI](#caci) (9)
 - [Caddi Workflow Automation](#caddi-workflow-automation) (1)
-- [Cadence Design Systems](#cadence-design-systems) (9)
+- [Cadence Design Systems](#cadence-design-systems) (8)
 - [Calpion/Plutus Health](#calpion-plutus-health) (1)
 - [Candid Health](#candid-health) (2)
 - [Canonical](#canonical) (4)
@@ -362,6 +362,7 @@
 - [Flock Safety](#flock-safety) (1)
 - [Flow Engineering](#flow-engineering) (1)
 - [Fluxergy](#fluxergy) (1)
+- [Fooji](#fooji) (1)
 - [Ford Motor Company](#ford-motor-company) (2)
 - [Fortinet](#fortinet) (2)
 - [Forus](#forus) (1)
@@ -685,6 +686,7 @@
 - [Omnis](#omnis) (1)
 - [One Brief](#one-brief) (1)
 - [ONEOK](#oneok) (3)
+- [Ontario Teachers' Pension Plan](#ontario-teachers-pension-plan) (1)
 - [Onto Innovation](#onto-innovation) (5)
 - [Onware](#onware) (1)
 - [Options Technology](#options-technology) (1)
@@ -719,7 +721,7 @@
 - [Peterson Technologies](#peterson-technologies) (1)
 - [PHIHONG USA](#phihong-usa) (1)
 - [Philips](#philips) (1)
-- [Phoebe](#phoebe) (1)
+- [Phoebe](#phoebe) (2)
 - [Phonely](#phonely) (2)
 - [Photon](#photon) (1)
 - [PIMCO](#pimco) (1)
@@ -756,7 +758,7 @@
 - [Quadient](#quadient) (1)
 - [Quadric](#quadric) (1)
 - [Quadrillion](#quadrillion) (2)
-- [Qualcomm](#qualcomm) (19)
+- [Qualcomm](#qualcomm) (20)
 - [Qualcomm Canada ULC](#qualcomm-canada-ulc) (1)
 - [Qualcomm Innovation Center, Inc.](#qualcomm-innovation-center-inc) (1)
 - [Qualcomm Technologies, Inc.](#qualcomm-technologies-inc) (2)
@@ -810,7 +812,7 @@
 - [Royal Bank of Canada](#royal-bank-of-canada) (2)
 - [Royal Caribbean Group](#royal-caribbean-group) (1)
 - [RRS Group](#rrs-group) (2)
-- [RTX](#rtx) (46)
+- [RTX](#rtx) (44)
 - [RunSybil](#runsybil) (1)
 - [Ryder System](#ryder-system) (1)
 - [SA Technologies](#sa-technologies) (2)
@@ -1332,6 +1334,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Dev Engineer Intern Machine Learning, Amazon Robotics](https://amazon.jobs/en/jobs/10401402/software-dev-engineer-intern-machine-learning-amazon-robotics) | 85 | Berlin | Software Development | 2026-08-21 |
 | [【Class of 2028 & 2029／Internship】Software Development Engineers , Amazon International Stores](https://amazon.jobs/en/jobs/10503558/class-of-2028-2029-internship-software-development-engineers-amazon-international-stores) | 85 | Tokyo | Systems, Quality, & Security Engineering | 2026-08-18 |
 | [EFA Network Software Engineer 1 - Annapurna Labs](https://amazon.jobs/en/jobs/10481932/efa-network-software-engineer-i-annapurna-labs) | 85 | Seattle, WA | Software | 2026-08-17 |
 | [Programmer Analyst 1](https://amazon.jobs/en/jobs/10480255/programmer-analyst-i-ftc) | 85 | Indianapolis, IN / Hyderabad, Telangana, India | Software | 2026-08-17 |
@@ -2200,8 +2203,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Forward Deployed AI Scientist - Campus](https://careers.bcg.com/global/en/job/59068) | 85 | Boston, MA / Seattle, WA / Washington, DC / SF / LA / Miami, FL / Dallas, TX / Chicago, IL / Pittsburgh, PA / NYC / Brooklyn, NY / Manhattan Beach, CA | AI/ML/Data | 2026-08-21 |
 | [Forward Deployed AI Engineer - Campus](https://careers.bcg.com/global/en/job/59067) | 85 | Boston, MA / Seattle, WA / Washington, DC / SF / LA / Miami, FL / Dallas, TX / Chicago, IL / Pittsburgh, PA / NYC / Brooklyn, NY / Manhattan Beach, CA | Software | 2026-08-20 |
-| [Data Scientist Intern](https://careers.bcg.com/global/en/job/56634) | 85 | London, UK | AI/ML/Data | 2026-08-17 |
 | [AI Engineer Intern - BCG X](https://careers.bcg.com/global/en/job/56635) | 85 | London, UK | AI/ML/Data | 2026-08-15 |
 
 ## Boston Engineering
@@ -2486,7 +2489,6 @@
 | [Lead Software Engineer](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Lead-Software-Engineer_R54030) | 93 | San Jose, CA | Software | 2026-08-17 |
 | [Lead Software Engineer](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/NOTTINGHAM-01/Lead-Software-Engineer_R55693) | 93 | Nottingham, UK | Software | 2026-08-17 |
 | [Software Engineer 2 - Multiple Teams](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/CAMBRIDGE/Software-Engineer-II_R55345) | 93 | Cambridge, UK | Software | 2026-08-17 |
-| [Software Engineer Intern](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/PITTSBURGH-03/Software-Engineering-Intern_R52334-2) | 93 | Pittsburgh, PA | Software | 2026-08-09 |
 
 ## Calpion/Plutus Health
 
@@ -3761,6 +3763,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Firmware Engineer Intern](https://jobs.lever.co/fluxergy-2/c592763e-56ba-4d20-b751-3a4574470eec/apply) | 83 | Irvine, CA | Hardware | 2026-06-03 |
+
+## Fooji
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineering Intern](https://apply.workable.com/fooji/j/6563DA99B5/) | 93 | Lexington, Kentucky, United States | Software / Not stated | 2026-08-21 |
 
 ## Ford Motor Company
 
@@ -6083,6 +6091,12 @@
 | [Engineering Intern](https://oneok.wd1.myworkdayjobs.com/ONEOK_Early_Careers/job/Dallas-TX/Engineering-Intern---Dallas--TX_R8156) | 93 | Dallas, TX | AI/ML/Data | 2026-08-15 |
 | [Engineering Intern](https://oneok.wd1.myworkdayjobs.com/ONEOK_Early_Careers/job/Tulsa-OK/Engineering-Intern---Tulsa--OK_R8155) | 93 | Tulsa, OK | AI/ML/Data | 2026-08-15 |
 
+## Ontario Teachers' Pension Plan
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Portfolio Engineer Intern - Capital Markets - CMIA](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Portfolio-Engineering--Capital-Markets--CMIA--January-2027---8-months-_7193) | 93 | Toronto, ON, Canada | Software | 2026-08-21 |
+
 ## Onto Innovation
 
 | Title | Score | Location | Department | First seen |
@@ -6428,6 +6442,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineering Intern](https://jobs.ashbyhq.com/phoebe-work/1ffe3e63-2163-447e-a8b0-1fff8b87e0ca) | 93 | New York City | Software / Fall 2026 | 2026-08-21 |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/phoebe-work/1ffe3e63-2163-447e-a8b0-1fff8b87e0ca/application?embed=true) | 93 | NYC | Software | 2026-08-21 |
 
 ## Phonely
@@ -6671,6 +6686,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [System Level Test Engineer - Hardware Engineering](https://qualcomm.eightfold.ai/careers/job/446720634561) | 75 | San Diego, CA | Hardware | 2026-08-21 |
 | [Verification Software Engineer - Software Engineering](https://qualcomm.eightfold.ai/careers/job/446720426705) | 85 | San Diego, CA | Software | 2026-08-21 |
 | [Graduate Software Engineer - Virtual Platforms - Software Engineering](https://qualcomm.eightfold.ai/careers/job/446716260960) | 91 | Cambridge, UK | Software | 2026-08-17 |
 | [Data Networking Software Engineer - Modem Software Engineering](https://qualcomm.eightfold.ai/careers/job/446719871565) | 85 | San Diego, CA | Software | 2026-08-17 |
@@ -7066,7 +7082,6 @@
 | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392) | 93 | San Jose, CA | Software | 2026-08-20 |
 | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineer-I--Onsite-_01867905) | 93 | Aurora, CO | Software | 2026-08-20 |
 | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I---Onsite-_01868027) | 93 | Fort Wayne, IN | Software | 2026-08-19 |
-| [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-DIEGO-SD1--8650-Balboa-Ave--SAN-ANTONIO-BLDG/Software-Engineering-Intern--Onsite-_01867845) | 93 | San Diego, CA | Software | 2026-08-19 |
 | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01864691) | 93 | Sterling, VA | Software | 2026-08-19 |
 | [Software Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineering-Intern--Summer-2027-_01868241) | 93 | US-IA-CEDAR RAPIDS-107 ~ 400 Collins Rd NE ~ BLDG 107 | Software / Summer 2027 | 2026-08-19 |
 | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01861525) | 93 | Marlborough, MA | Hardware | 2026-08-18 |
@@ -7098,7 +7113,6 @@
 | [Software Engineering Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineering-Intern--Summer-2027-_01866777) | 93 | Tucson, AZ | Hardware | 2026-08-15 |
 | [Software Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01867129) | 93 | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 | Software / Summer 2027 | 2026-08-15 |
 | [Software Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern--Summer-2027-_01866136) | 93 | US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 | Software / Summer 2027 | 2026-08-14 |
-| [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MN-BURNSVILLE-NORTH--2900-County-Rd-42-W--NORTH-BLDG/Software-Engineering-Intern--Summer-2027-_01866681) | 93 | Burnsville, MN | Hardware | 2026-08-11 |
 | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineering-Intern--Summer-2027-_01867814) | 93 | Marlborough, MA | Software | 2026-08-10 |
 | [Systems Engineer 1 Intern - Intern Conversion](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion--Systems-Engineer-I--Onsite-_01863190) | 93 | Cedar Rapids, IA | Software | 2026-08-07 |
 | [Software Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875) | 93 | US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 | Software / Summer 2027 | 2026-08-07 |
@@ -8056,6 +8070,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data Engineer Intern - E-commerce](https://lifeattiktok.com/search/7676250516494436661) | 85 | San Jose, CA | AI/ML/Data | 2026-08-21 |
 | [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7675847556668295429) | 85 | Seattle, WA | AI/ML/Data | 2026-08-20 |
 | [Graduate Software Engineer - TikTok Search Data Infra](https://lifeattiktok.com/search/7675829388634392837) | 91 | San Jose, CA | Software | 2026-08-20 |
 | [Machine Learning Engineer Graduate - Multiple Teams](https://lifeattiktok.com/search/7675841339440941317) | 91 | San Jose, CA | AI/ML/Data | 2026-08-20 |
@@ -8091,7 +8106,6 @@
 | [Data Knowledge System Research Scientist Graduate - Data Platform-Global Live](https://lifeattiktok.com/search/7628363726332102965) | 91 | San Jose, CA | AI/ML/Data | 2026-08-17 |
 | [Data Scientist Graduate - E-Commerce Governance](https://lifeattiktok.com/search/7674027218993154357) | 91 | Seattle, WA | AI/ML/Data | 2026-08-17 |
 | [Data Scientist Graduate - Multimedia](https://lifeattiktok.com/search/7670288355678177589) | 91 | San Jose, CA | AI/ML/Data | 2026-08-17 |
-| [Data Scientist Graduate - TikTok Live](https://lifeattiktok.com/search/7669660107303684405) | 91 | San Jose, CA | AI/ML/Data | 2026-08-17 |
 | [Design Engineering Graduate](https://lifeattiktok.com/search/7667837906192877829) | 91 | San Jose, CA | Software | 2026-08-17 |
 | [Frontend Engineer Graduate, Trust and Safety](https://lifeattiktok.com/search/7534826542867106066?spread=5MWH5CQ) | 91 | San Jose, CA | — | 2026-08-17 |
 | [Frontend Engineer Graduate, Trust and Safety](https://lifeattiktok.com/search/7530759729113680135?spread=5MWH5CQ) | 91 | Seattle, WA | — | 2026-08-17 |
