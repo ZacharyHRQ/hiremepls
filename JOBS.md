@@ -1,6 +1,6 @@
 # Open Internships
 
-**2764** internships across **188/188** companies — last updated 2026-08-22.
+**2766** internships across **188/188** companies — last updated 2026-08-22.
 
 ## Companies
 
@@ -306,6 +306,7 @@
 - [East Penn Manufacturing Company](#east-penn-manufacturing-company) (1)
 - [Eastern Shipbuilding Group](#eastern-shipbuilding-group) (1)
 - [Eaton Corporation](#eaton-corporation) (1)
+- [eBay](#ebay) (1)
 - [Edgehog Trading](#edgehog-trading) (1)
 - [Edgewater IT](#edgewater-it) (1)
 - [Egra](#egra) (1)
@@ -812,7 +813,7 @@
 - [Royal Bank of Canada](#royal-bank-of-canada) (2)
 - [Royal Caribbean Group](#royal-caribbean-group) (1)
 - [RRS Group](#rrs-group) (2)
-- [RTX](#rtx) (38)
+- [RTX](#rtx) (39)
 - [RunSybil](#runsybil) (1)
 - [Ryder System](#ryder-system) (1)
 - [SA Technologies](#sa-technologies) (2)
@@ -3425,6 +3426,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer - Research & Development Engineering](https://eaton.eightfold.ai/careers/job/687236827500) | 85 | Wimborne Minster, Wimborne, UK | Hardware | 2026-08-17 |
+
+## eBay
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Senior Data Engineer Manager](https://ebay.wd5.myworkdayjobs.com/apply/job/Toronto/Sr-Data-Engineer-Manager_R0076353) | 93 | Toronto, ON, Canada | AI/ML/Data | 2026-08-22 |
 
 ## Edgehog Trading
 
@@ -7094,6 +7101,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineer-I--Onsite-_01868305) | 93 | Aurora, CO | Software | 2026-08-22 |
 | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01867892) | 93 | Aurora, CO | Software | 2026-08-21 |
 | [Software Engineer 2 - Effectors](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Raytheon-Full-Time---Effectors-Software-Engineer-II---Tucson--AZ--Onsite-_01820536) | 93 | Tucson, AZ | Hardware | 2026-08-21 |
 | [Factory Analytics Data Scientist 1](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Analytics-Data-Scientist-I--Remote-_01867723) | 93 | Cedar Rapids, IA | AI/ML/Data | 2026-08-20 |

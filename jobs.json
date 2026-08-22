@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-22T15:19:25.979Z",
+  "generatedAt": "2026-08-22T15:41:58.824Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2764,
+  "jobCount": 2766,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2767,7 +2767,9 @@
     "canonical:2a69f1d7848502aa": "2026-08-22T14:44:02.310Z",
     "canonical:09b662ce9598e615": "2026-08-22T14:44:02.310Z",
     "canonical:f4b2a9aa2d152c8e": "2026-08-22T14:58:42.941Z",
-    "canonical:2e256a1d7b96ae64": "2026-08-22T14:58:42.941Z"
+    "canonical:2e256a1d7b96ae64": "2026-08-22T14:58:42.941Z",
+    "canonical:2b767045c3b7b76f": "2026-08-22T15:41:58.824Z",
+    "canonical:f9adb4dfb8d1f5bf": "2026-08-22T15:41:58.824Z"
   },
   "jobs": [
     {
@@ -35086,6 +35088,20 @@
       ]
     },
     {
+      "id": "canonical:2b767045c3b7b76f",
+      "title": "Software Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineer-I--Onsite-_01868305",
+      "location": "Aurora, CO",
+      "department": "Software",
+      "company": "RTX",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:90e60de2ae57ccd1",
       "title": "Factory Analytics Data Scientist 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Analytics-Data-Scientist-I--Remote-_01867723",
@@ -36026,6 +36042,20 @@
       "location": "Moab, UT",
       "department": "AI/ML/Data",
       "company": "Mariana Minerals",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f9adb4dfb8d1f5bf",
+      "title": "Senior Data Engineer Manager",
+      "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Toronto/Sr-Data-Engineer-Manager_R0076353",
+      "location": "Toronto, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "eBay",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
