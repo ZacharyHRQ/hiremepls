@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-22T14:16:06.476Z",
+  "generatedAt": "2026-08-22T14:44:02.310Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2767,
+  "jobCount": 2764,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2468,7 +2468,6 @@
     "canonical:dbfb22c1cc92cb7d": "2026-08-19T11:46:33.588Z",
     "canonical:dd3fb020a490b7c1": "2026-08-19T13:22:56.877Z",
     "canonical:7a6dc874ea4f88b6": "2026-08-19T14:49:45.988Z",
-    "canonical:a858102d2c63ecc0": "2026-08-19T18:59:40.283Z",
     "canonical:6a36c703e1904fe8": "2026-08-19T18:59:40.283Z",
     "canonical:a6c653cc2c6d352e": "2026-08-19T19:26:45.138Z",
     "canonical:6ab8da808e4e11ac": "2026-08-19T19:26:45.138Z",
@@ -2751,7 +2750,6 @@
     "canonical:86730b4934f01139": "2026-08-22T04:45:53.381Z",
     "canonical:1abd096e64819513": "2026-08-22T04:45:53.381Z",
     "canonical:5ed9a9a79a8155ef": "2026-08-22T04:45:53.381Z",
-    "canonical:f4b2a9aa2d152c8e": "2026-08-22T08:32:14.508Z",
     "canonical:737d9abb4df39b2b": "2026-08-22T09:01:14.823Z",
     "canonical:69acd4c0fa388415": "2026-08-22T09:38:21.899Z",
     "canonical:69922f01d0937fb4": "2026-08-22T09:38:21.899Z",
@@ -2760,17 +2758,16 @@
     "canonical:a41a210a057f132d": "2026-08-22T09:38:21.899Z",
     "canonical:e85e939631c095c8": "2026-08-22T09:56:33.336Z",
     "canonical:471d94934dc2efa9": "2026-08-22T09:56:33.336Z",
-    "canonical:d1da7b2ac572df8f": "2026-08-22T10:15:47.184Z",
-    "canonical:ee2ac1afa3058d54": "2026-08-22T10:15:47.184Z",
     "canonical:51d01b1f089af891": "2026-08-22T10:45:54.605Z",
     "canonical:e7311dc0347c7ff2": "2026-08-22T10:45:54.605Z",
     "canonical:5e5c5ad8acd1eefa": "2026-08-22T10:45:54.605Z",
     "canonical:dda2416bf8ef3371": "2026-08-22T11:10:54.782Z",
-    "canonical:5ccbdd16c804408f": "2026-08-22T12:18:49.849Z",
-    "canonical:caa37dbb765c5132": "2026-08-22T12:18:49.849Z",
     "canonical:b444da377511f4fc": "2026-08-22T13:07:03.173Z",
     "canonical:f8cb9b477074fa6b": "2026-08-22T13:41:53.325Z",
-    "canonical:a522f49ad7e2b21e": "2026-08-22T13:41:53.325Z"
+    "canonical:a522f49ad7e2b21e": "2026-08-22T13:41:53.325Z",
+    "canonical:71f4c1680b019759": "2026-08-22T14:44:02.310Z",
+    "canonical:2a69f1d7848502aa": "2026-08-22T14:44:02.310Z",
+    "canonical:09b662ce9598e615": "2026-08-22T14:44:02.310Z"
   },
   "jobs": [
     {
@@ -6020,6 +6017,20 @@
       "location": "Milwaukee, WI",
       "department": "Software",
       "company": "Marmon Holdings",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:71f4c1680b019759",
+      "title": "Hunyuan Multimodal Algorithm Researcher Intern",
+      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-Intern-Omni-Modal---_R107051",
+      "location": "Palo Alto, CA",
+      "department": "AI/ML/Data",
+      "company": "Tencent",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -11132,20 +11143,6 @@
       ]
     },
     {
-      "id": "canonical:a858102d2c63ecc0",
-      "title": "PhD Research Scientist Intern - Generative AI",
-      "url": "https://jobs.smartrecruiters.com/Canva/6000000001289897",
-      "location": "SF",
-      "department": "AI/ML/Data",
-      "company": "Canva",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:0f259dc0186e372e",
       "title": "Software Engineer Intern - Winter 2027",
       "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002",
@@ -14448,6 +14445,32 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:2a69f1d7848502aa",
+      "title": "Application Engineering Intern - Summer 2027",
+      "url": "https://careers-springswindowfashions.icims.com/jobs/12893/job?mobile=true&needsRedirect=false",
+      "location": "Long Island City, Queens, NY",
+      "department": "Software",
+      "company": "Springs Window Fashions",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:09b662ce9598e615",
+      "title": "Textile Engineering Intern - Summer 2027",
+      "url": "https://careers-springswindowfashions.icims.com/jobs/12881/job?mobile=true&needsRedirect=false",
+      "location": "Middleton, WI",
+      "department": "AI/ML/Data",
+      "company": "Springs Window Fashions",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
@@ -33075,32 +33098,6 @@
       ]
     },
     {
-      "id": "canonical:d1da7b2ac572df8f",
-      "title": "Engineering New Analyst - Engineering",
-      "url": "https://higher.gs.com/roles/171570?type=students",
-      "location": "Salt Lake City, UT",
-      "department": "Software",
-      "company": "Goldman Sachs",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:5ccbdd16c804408f",
-      "title": "Engineering New Analyst",
-      "url": "https://higher.gs.com/roles/171568?type=students",
-      "location": "Dallas, TX",
-      "department": "Software",
-      "company": "Goldman Sachs",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:f25c76a0a1a97682",
       "title": "Forward Deployed Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3/application?embed=true",
@@ -33131,19 +33128,6 @@
       ]
     },
     {
-      "id": "canonical:caa37dbb765c5132",
-      "title": "Engineering New Analyst - Engineering",
-      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
-      "location": "Seattle, WA",
-      "department": "Software",
-      "company": "Goldman Sachs",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:f3ba0dab3d1890be",
       "title": "Senior Applied AI & ML Engineer",
       "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/UK---London/Senior-Applied-AI---ML-Engineer---Evinova_R-257950-1",
@@ -33169,19 +33153,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:ee2ac1afa3058d54",
-      "title": "New Analyst - Engineering",
-      "url": "https://higher.gs.com/roles/171569?type=students",
-      "location": "NYC",
-      "department": "Software",
-      "company": "Goldman Sachs",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -36637,19 +36608,6 @@
         "SWE-aligned",
         "high-signal role",
         "new grad"
-      ]
-    },
-    {
-      "id": "canonical:f4b2a9aa2d152c8e",
-      "title": "Software Engineer",
-      "url": "https://www.metacareers.com/jobs/1947521902323717",
-      "location": "Menlo Park, CA",
-      "department": "",
-      "company": "Meta",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
