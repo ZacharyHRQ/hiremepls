@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-22T08:32:14.508Z",
+  "generatedAt": "2026-08-22T09:01:14.823Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2759,
+  "jobCount": 2760,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2762,7 +2762,8 @@
     "canonical:4b0ab273bab26c2e": "2026-08-22T05:17:22.092Z",
     "canonical:3f44cd57fca349f6": "2026-08-22T05:49:45.857Z",
     "canonical:92eb1447910366d7": "2026-08-22T07:59:44.336Z",
-    "canonical:f4b2a9aa2d152c8e": "2026-08-22T08:32:14.508Z"
+    "canonical:f4b2a9aa2d152c8e": "2026-08-22T08:32:14.508Z",
+    "canonical:737d9abb4df39b2b": "2026-08-22T09:01:14.823Z"
   },
   "jobs": [
     {
@@ -37138,6 +37139,20 @@
       "location": "San Jose, CA",
       "department": "",
       "company": "TikTok",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
+      ]
+    },
+    {
+      "id": "canonical:737d9abb4df39b2b",
+      "title": "New Grad 2026: Product Security Engineer",
+      "url": "https://www.metacareers.com/jobs/609052015548260",
+      "location": "Bellevue, WA / Menlo Park, CA",
+      "department": "",
+      "company": "Meta",
       "score": 91,
       "scoreReasons": [
         "SWE-aligned",
