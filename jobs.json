@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T07:59:44.336Z",
+  "generatedAt": "2026-08-22T08:32:14.508Z",
   "companyCount": 188,
   "okCount": 188,
   "jobCount": 2759,
@@ -2496,7 +2496,6 @@
     "canonical:e556a9a736847508": "2026-08-19T21:46:36.890Z",
     "canonical:812589f1f8cce074": "2026-08-19T21:46:36.890Z",
     "canonical:b7faa5785a1882b5": "2026-08-19T22:13:42.289Z",
-    "canonical:da7f6080a3c351e4": "2026-08-19T22:41:06.261Z",
     "canonical:1660ec2049aa824e": "2026-08-19T22:41:06.261Z",
     "canonical:44b6aa84b46fb197": "2026-08-19T22:41:06.261Z",
     "canonical:5c8caa0bd3f38ae4": "2026-08-19T22:41:06.261Z",
@@ -2762,7 +2761,8 @@
     "canonical:32452ec542710d8f": "2026-08-22T05:17:22.092Z",
     "canonical:4b0ab273bab26c2e": "2026-08-22T05:17:22.092Z",
     "canonical:3f44cd57fca349f6": "2026-08-22T05:49:45.857Z",
-    "canonical:92eb1447910366d7": "2026-08-22T07:59:44.336Z"
+    "canonical:92eb1447910366d7": "2026-08-22T07:59:44.336Z",
+    "canonical:f4b2a9aa2d152c8e": "2026-08-22T08:32:14.508Z"
   },
   "jobs": [
     {
@@ -34546,20 +34546,6 @@
       ]
     },
     {
-      "id": "canonical:da7f6080a3c351e4",
-      "title": "Associate Software Engineer/Software Engineer",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2026-Associate-Software-Engineer-Software-Engineer_R10246591",
-      "location": "Redondo Beach, CA / Palmdale, CA / Oklahoma City, OK / San Diego, CA / Emerado, ND / El Segundo, CA",
-      "department": "Software",
-      "company": "Northrop Grumman",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:44b6aa84b46fb197",
       "title": "Associate Engineer - Software",
       "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Associate-Engineer--Software_REQ366936",
@@ -36558,6 +36544,19 @@
         "SWE-aligned",
         "high-signal role",
         "new grad"
+      ]
+    },
+    {
+      "id": "canonical:f4b2a9aa2d152c8e",
+      "title": "Software Engineer",
+      "url": "https://www.metacareers.com/jobs/1947521902323717",
+      "location": "Menlo Park, CA",
+      "department": "",
+      "company": "Meta",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
