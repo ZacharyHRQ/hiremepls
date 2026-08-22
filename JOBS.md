@@ -1,6 +1,6 @@
 # Open Internships
 
-**2775** internships across **188/188** companies — last updated 2026-08-22.
+**2777** internships across **188/188** companies — last updated 2026-08-22.
 
 ## Companies
 
@@ -180,7 +180,7 @@
 - [Candid Health](#candid-health) (2)
 - [Canonical](#canonical) (4)
 - [Cantor Fitzgerald](#cantor-fitzgerald) (1)
-- [Canva](#canva) (8)
+- [Canva](#canva) (7)
 - [Cape](#cape) (1)
 - [Capgemini](#capgemini) (4)
 - [Capital Health](#capital-health) (1)
@@ -404,10 +404,10 @@
 - [Glide](#glide) (2)
 - [Global Lending Services](#global-lending-services) (1)
 - [Global Relay](#global-relay) (1)
-- [GlobalFoundries](#globalfoundries) (3)
+- [GlobalFoundries](#globalfoundries) (4)
 - [Globus Medical](#globus-medical) (1)
 - [GM financial](#gm-financial) (2)
-- [Goldman Sachs](#goldman-sachs) (1)
+- [Goldman Sachs](#goldman-sachs) (3)
 - [Google](#google) (10)
 - [Gradient Robotics](#gradient-robotics) (1)
 - [Gritt Robotics Inc](#gritt-robotics-inc) (1)
@@ -2551,7 +2551,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [PhD Research Scientist Intern - Reinforcement Learning - Images](https://jobs.smartrecruiters.com/Canva/6000000001292768) | 93 | London, UK | AI/ML/Data | 2026-08-22 |
 | [PhD Research Scientist Intern](https://jobs.smartrecruiters.com/Canva/6000000001291655-phd-research-scientist-intern) | 83 | San Francisco, CA | — | 2026-08-17 |
 | [PhD Research Scientist Intern - Edge AI](https://jobs.smartrecruiters.com/Canva/6000000001295792) | 83 | Vienna, Vienna, Austria | Information Technology | 2026-08-07 |
 | [PhD Research Scientist Intern - Edge AI](https://jobs.smartrecruiters.com/Canva/6000000001295782) | 83 | London, , United Kingdom | Information Technology | 2026-08-07 |
@@ -4087,6 +4086,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Technology Architecture and Competitiveness Engineer New Grad - Structural Analysis](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Technology-Architecture-and-Competitiveness-Engineer--2027-New-College-Graduate-_JR-2604319) | 99 | Santa Clara, CA | AI/ML/Data | 2026-08-22 |
 | [AI/ML Software Engineer New Grad](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Richardson/AI-ML-Software-Engineer--2026-New-College-Graduate-_JR-2602832) | 99 | Austin, TX / Santa Clara, CA / Richardson, TX | Software | 2026-08-20 |
 | [Global Tapeout and Mask Operations New College Graduate - Biz App and Data Engineer](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Global-Tapeout-and-Mask-Operations--Biz-App-and-Data-Engineer--2026-New-College-Graduate-_JR-2502471-1) | 99 | Austin, TX | AI/ML/Data | 2026-08-17 |
 | [Tapeout Engineer New Grad](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Tapeout-Engineer--2026-New-College-Graduate_JR-2602561) | 99 | Austin, TX | AI/ML/Data | 2026-08-17 |
@@ -4108,6 +4108,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Engineering New Analyst](https://higher.gs.com/roles/171568?type=students) | 85 | Dallas, TX | Software | 2026-08-22 |
+| [Engineering New Analyst - Engineering](https://higher.gs.com/roles/171570?type=students) | 85 | Salt Lake City, UT | Software | 2026-08-22 |
 | [Software Engineer - Data](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292) | 85 | London, UK | Software | 2026-08-17 |
 
 ## Google

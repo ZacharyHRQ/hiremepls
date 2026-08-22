@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-22T22:15:04.076Z",
+  "generatedAt": "2026-08-22T22:39:09.264Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2775,
+  "jobCount": 2777,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2741,7 +2741,6 @@
     "canonical:86730b4934f01139": "2026-08-22T04:45:53.381Z",
     "canonical:1abd096e64819513": "2026-08-22T04:45:53.381Z",
     "canonical:5ed9a9a79a8155ef": "2026-08-22T04:45:53.381Z",
-    "canonical:69acd4c0fa388415": "2026-08-22T09:38:21.899Z",
     "canonical:69922f01d0937fb4": "2026-08-22T09:38:21.899Z",
     "canonical:4c621f2af8bde971": "2026-08-22T09:38:21.899Z",
     "canonical:4065a62fdc3d2aa9": "2026-08-22T09:38:21.899Z",
@@ -2778,7 +2777,10 @@
     "canonical:67f9b9d3a905fdc5": "2026-08-22T18:54:19.405Z",
     "canonical:07ab52e3a2dcbf37": "2026-08-22T20:57:28.021Z",
     "canonical:ef0953117b510fb9": "2026-08-22T21:42:31.270Z",
-    "canonical:f4b2a9aa2d152c8e": "2026-08-22T21:42:31.270Z"
+    "canonical:f4b2a9aa2d152c8e": "2026-08-22T21:42:31.270Z",
+    "canonical:d1da7b2ac572df8f": "2026-08-22T22:39:09.264Z",
+    "canonical:5ccbdd16c804408f": "2026-08-22T22:39:09.264Z",
+    "canonical:90cb183228531b75": "2026-08-22T22:39:09.264Z"
   },
   "jobs": [
     {
@@ -11160,20 +11162,6 @@
       "location": "Seattle, WA / SF / LA / NYC / Mountain View, CA",
       "department": "Software",
       "company": "Atoms",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:69acd4c0fa388415",
-      "title": "PhD Research Scientist Intern - Reinforcement Learning - Images",
-      "url": "https://jobs.smartrecruiters.com/Canva/6000000001292768",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "Canva",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -33095,6 +33083,32 @@
       ]
     },
     {
+      "id": "canonical:d1da7b2ac572df8f",
+      "title": "Engineering New Analyst - Engineering",
+      "url": "https://higher.gs.com/roles/171570?type=students",
+      "location": "Salt Lake City, UT",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:5ccbdd16c804408f",
+      "title": "Engineering New Analyst",
+      "url": "https://higher.gs.com/roles/171568?type=students",
+      "location": "Dallas, TX",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:f25c76a0a1a97682",
       "title": "Forward Deployed Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3/application?embed=true",
@@ -36055,6 +36069,21 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:90cb183228531b75",
+      "title": "Technology Architecture and Competitiveness Engineer New Grad - Structural Analysis",
+      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Technology-Architecture-and-Competitiveness-Engineer--2027-New-College-Graduate-_JR-2604319",
+      "location": "Santa Clara, CA",
+      "department": "AI/ML/Data",
+      "company": "GlobalFoundries",
+      "score": 99,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
         "direct ATS"
       ]
     },
