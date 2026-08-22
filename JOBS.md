@@ -1,6 +1,6 @@
 # Open Internships
 
-**2766** internships across **188/188** companies — last updated 2026-08-22.
+**2761** internships across **188/188** companies — last updated 2026-08-22.
 
 ## Companies
 
@@ -505,8 +505,6 @@
 - [Johns Hopkins Applied Physics Laboratory](#johns-hopkins-applied-physics-laboratory) (18)
 - [Johnson Controls](#johnson-controls) (2)
 - [Jones Lang LaSalle (JLL)](#jones-lang-lasalle-jll) (1)
-- [JP Morgan Chase](#jp-morgan-chase) (4)
-- [JPMorganChase](#jpmorganchase) (1)
 - [Julius AI](#julius-ai) (1)
 - [Jumio](#jumio) (1)
 - [Jump Trading](#jump-trading) (42)
@@ -4781,21 +4779,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [General Maintenance Operative - Mobile Engineering Services](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Norfolk-GBR/Specialist--Mobile-Engineering-Services_REQ524271) | 93 | Easton, Norwich, UK | Software | 2026-08-17 |
-
-## JP Morgan Chase
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Applied AI Engineer - Markets Operations - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210723353) | 85 | London, UK | Software | 2026-08-17 |
-| [Applied AI ML Associate - Agentic AI and Python](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773873) | 85 | Glasgow, UK | Software | 2026-08-17 |
-| [Software Engineer](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774102) | 85 | Palo Alto, CA / Houston, TX / Tampa, FL / Plano, TX / Chicago, IL / Jersey City, NJ / Columbus, OH / NYC / Wilmington, DE | Software | 2026-08-17 |
-| [Software Engineer Intern - Software Engineer Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773759) | 85 | Palo Alto, CA / Houston, TX / Tampa, FL / Plano, TX / Chicago, IL / Jersey City, NJ / Columbus, OH / NYC / Wilmington, DE | Software | 2026-08-03 |
-
-## JPMorganChase
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Code for Good Hackathon - Software Engineer Program - 2027 Summer Internship – United States](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773759) | 85 | Chicago, IL, United States; Columbus, OH, United States; Houston, TX, United States; Jersey City, NJ, United States; New York, NY, United States; Palo Alto, CA, United States; Plano, TX, United States; Wilmington, DE, United States; Tampa, FL, United States | Software / Summer 2027 | 2026-08-20 |
 
 ## Julius AI
 
