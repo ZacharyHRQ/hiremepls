@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-22T14:58:42.941Z",
+  "generatedAt": "2026-08-22T15:19:25.979Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2766,
+  "jobCount": 2764,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2688,7 +2688,6 @@
     "canonical:fc32f4951c97b021": "2026-08-21T16:19:54.438Z",
     "canonical:f83d76dbf5399d95": "2026-08-21T16:19:54.438Z",
     "canonical:01f1277947cfc5b2": "2026-08-21T16:57:56.617Z",
-    "canonical:d1a37efb926fdbc6": "2026-08-21T17:52:52.838Z",
     "canonical:f5b7bf8d0e9fe0b1": "2026-08-21T18:21:28.013Z",
     "canonical:f248bf7a3ab142ae": "2026-08-21T18:21:28.013Z",
     "canonical:b2ddc3abac090d7a": "2026-08-21T18:21:28.013Z",
@@ -2750,7 +2749,6 @@
     "canonical:86730b4934f01139": "2026-08-22T04:45:53.381Z",
     "canonical:1abd096e64819513": "2026-08-22T04:45:53.381Z",
     "canonical:5ed9a9a79a8155ef": "2026-08-22T04:45:53.381Z",
-    "canonical:737d9abb4df39b2b": "2026-08-22T09:01:14.823Z",
     "canonical:69acd4c0fa388415": "2026-08-22T09:38:21.899Z",
     "canonical:69922f01d0937fb4": "2026-08-22T09:38:21.899Z",
     "canonical:4c621f2af8bde971": "2026-08-22T09:38:21.899Z",
@@ -35511,19 +35509,6 @@
       ]
     },
     {
-      "id": "canonical:d1a37efb926fdbc6",
-      "title": "Test Systems & Instrumentation Engineer",
-      "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Test-Systems---Instrumentation-Engineer_REQ-26556",
-      "location": "Louisville, KY",
-      "department": "Hardware",
-      "company": "GE Appliances",
-      "score": 83,
-      "scoreReasons": [
-        "SWE-aligned",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:92af9d9af845d37b",
       "title": "Systems Engineer",
       "url": "https://careers-gdms.icims.com/jobs/74470/job?mobile=true&needsRedirect=false",
@@ -37204,20 +37189,6 @@
       "location": "San Jose, CA",
       "department": "",
       "company": "TikTok",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad"
-      ]
-    },
-    {
-      "id": "canonical:737d9abb4df39b2b",
-      "title": "New Grad 2026: Product Security Engineer",
-      "url": "https://www.metacareers.com/jobs/609052015548260",
-      "location": "Bellevue, WA / Menlo Park, CA",
-      "department": "",
-      "company": "Meta",
       "score": 91,
       "scoreReasons": [
         "SWE-aligned",
