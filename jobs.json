@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-22T05:49:45.857Z",
+  "generatedAt": "2026-08-22T06:21:06.043Z",
   "companyCount": 188,
-  "okCount": 188,
+  "okCount": 186,
   "jobCount": 2762,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
@@ -40624,5 +40624,14 @@
       ]
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "company": "Snap",
+      "message": "workday snap: expected JSON, got text/html; charset=UTF-8: <!DOCTYPE html>\n<html lang=\"en\" dir=\"ltr\">\n  <head>\n    <meta charset=\"utf-8\" />"
+    },
+    {
+      "company": "BlackRock",
+      "message": "workday blackrock: expected JSON, got text/html; charset=UTF-8: <!DOCTYPE html>\n<html lang=\"en\" dir=\"ltr\">\n  <head>\n    <meta charset=\"utf-8\" />"
+    }
+  ]
 }
