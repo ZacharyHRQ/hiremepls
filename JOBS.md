@@ -1,6 +1,6 @@
 # Open Internships
 
-**2770** internships across **188/188** companies — last updated 2026-08-22.
+**2768** internships across **188/188** companies — last updated 2026-08-22.
 
 ## Companies
 
@@ -218,7 +218,6 @@
 - [Clipboard Health](#clipboard-health) (1)
 - [Cloudflare](#cloudflare) (8)
 - [Cloudscaler](#cloudscaler) (1)
-- [Coalition](#coalition) (1)
 - [Codan Limited](#codan-limited) (1)
 - [Codeage](#codeage) (1)
 - [Cohere](#cohere) (3)
@@ -291,7 +290,7 @@
 - [Draper](#draper) (1)
 - [Droyd Robotics](#droyd-robotics) (1)
 - [DRS](#drs) (1)
-- [DRW](#drw) (14)
+- [DRW](#drw) (13)
 - [Dryft](#dryft) (1)
 - [Duke University](#duke-university) (1)
 - [Dune](#dune) (1)
@@ -2805,7 +2804,7 @@
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
 | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -2815,12 +2814,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Associate Engineer Graduate Entry Role](https://jobs.ashbyhq.com/cloudscaler/5785a84a-4984-4c87-9899-b9ae289bf575/application?embed=true) | 99 | London, UK | Software | 2026-08-17 |
-
-## Coalition
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer I](https://www.coalitioninc.com/job-posting/4560711005) | 85 | San Francisco, CA | — | 2026-08-22 |
 
 ## Codan Limited
 
@@ -3320,7 +3313,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Research Engineer](https://www.drw.com/work-at-drw/listings/research-engineer-2930985) | 75 | New York, NY | — | 2026-08-22 |
 | [Software Developer](https://job-boards.greenhouse.io/drweng/jobs/8007851) | 93 | London, UK | Software | 2026-08-19 |
 | [Quantitative Researcher](https://job-boards.greenhouse.io/drweng/jobs/8030406) | 93 | Chicago, IL / NYC | Quant | 2026-08-17 |
 | [Software Developer](https://job-boards.greenhouse.io/drweng/jobs/7980165) | 93 | Chicago, IL | Software | 2026-08-17 |
@@ -6548,8 +6540,8 @@
 | [Quantitative Developer](https://careers.point72.com/CSJobDetail?jobName=quantitative-developer&jobCode=CSS-0013369&location=New%20York&locale=English) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-08-17 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
