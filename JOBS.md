@@ -1,6 +1,6 @@
 # Open Internships
 
-**2751** internships across **188/188** companies — last updated 2026-08-22.
+**2758** internships across **188/188** companies — last updated 2026-08-22.
 
 ## Companies
 
@@ -66,12 +66,11 @@
 - [Appian](#appian) (6)
 - [Apple](#apple) (31)
 - [Applied Intuition](#applied-intuition) (5)
-- [Applied Materials](#applied-materials) (7)
+- [Applied Materials](#applied-materials) (8)
 - [Applied Systems, Inc.](#applied-systems-inc) (2)
 - [AQR](#aqr) (1)
 - [Aquatic Capital](#aquatic-capital) (1)
 - [Aquatic Capital Management](#aquatic-capital-management) (4)
-- [Archer](#archer) (1)
 - [Ardian](#ardian) (1)
 - [Arevon](#arevon) (1)
 - [Argmax](#argmax) (1)
@@ -254,6 +253,7 @@
 - [CTGT](#ctgt) (1)
 - [Cummins](#cummins) (9)
 - [Curtiss-Wright Corporation](#curtiss-wright-corporation) (1)
+- [CVS Health](#cvs-health) (1)
 - [CWILL](#cwill) (1)
 - [Cybernetic Labs](#cybernetic-labs) (6)
 - [Cylake](#cylake) (1)
@@ -405,7 +405,7 @@
 - [GlobalFoundries](#globalfoundries) (3)
 - [Globus Medical](#globus-medical) (1)
 - [GM financial](#gm-financial) (2)
-- [Goldman Sachs](#goldman-sachs) (1)
+- [Goldman Sachs](#goldman-sachs) (5)
 - [Google](#google) (10)
 - [Gradient Robotics](#gradient-robotics) (1)
 - [Gritt Robotics Inc](#gritt-robotics-inc) (1)
@@ -676,7 +676,7 @@
 - [Nucleus Biologics](#nucleus-biologics) (1)
 - [Nuro](#nuro) (4)
 - [Nutanix](#nutanix) (1)
-- [NVIDIA](#nvidia) (16)
+- [NVIDIA](#nvidia) (17)
 - [NXP Semiconductors](#nxp-semiconductors) (2)
 - [Observable Space](#observable-space) (1)
 - [Obsidian Solutions Group](#obsidian-solutions-group) (1)
@@ -979,7 +979,7 @@
 - [Tripadvisor](#tripadvisor) (1)
 - [TRM Labs](#trm-labs) (1)
 - [Trovy](#trovy) (1)
-- [True Anomaly](#true-anomaly) (1)
+- [True Anomaly](#true-anomaly) (2)
 - [Truist Bank](#truist-bank) (1)
 - [Truveta](#truveta) (5)
 - [TSC](#tsc) (1)
@@ -1601,6 +1601,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer 1](https://amat.wd1.myworkdayjobs.com/External/job/KalispellMT/Software-Engineer-I---New-College-Grad--Bachelors---Kalispell--MT-_R2626859) | 93 | Kalispell, MT | Software | 2026-08-22 |
 | [Software Engineer 2 – New College Grad](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer-II--New-College-Grad---Santa-Clara--CA-_R2622398) | 93 | Santa Clara, CA | Software | 2026-08-21 |
 | [Systems Engineer](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Systems-Engineer_R2626795) | 83 | Santa Clara, CA | Hardware | 2026-08-21 |
 | [Software Support Engineer 1 - Global](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Global-Software-Support-Engineer-I_R2625245) | 93 | Austin, TX | Software | 2026-08-18 |
@@ -1636,12 +1637,6 @@
 | [Software Engineer – Early Career](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489226002) | 93 | Chicago, IL / NYC | Software | 2026-08-17 |
 | [Quantitative Researcher – Intern](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) | 93 | London, UK / Chicago, IL | Quant | 2026-07-20 |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) | 93 | London, UK / Chicago, IL | Software | 2026-07-20 |
-
-## Archer
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Senior Software Engineer - Backend](https://job-boards.greenhouse.io/archer56/jobs/7499031003) | 93 | San Jose, CA | Software | 2026-08-21 |
 
 ## Ardian
 
@@ -3049,6 +3044,12 @@
 | --- | --- | --- | --- | --- |
 | [Graduate Engineer](https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-MD-Frederick-Nuclear/Graduate-Engineer_JR13134) | 99 | Frederick, MD | Software | 2026-08-17 |
 
+## CVS Health
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Associate Data Engineer - Conversion](https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/VA---Work-from-home/Associate-Data-Engineer--Conversion-_R1015903) | 93 | Virginia | AI/ML/Data | 2026-08-22 |
+
 ## CWILL
 
 | Title | Score | Location | Department | First seen |
@@ -4085,6 +4086,10 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Engineering New Analyst](https://higher.gs.com/roles/171568?type=students) | 85 | Dallas, TX | Software | 2026-08-22 |
+| [Engineering New Analyst - Engineering](https://higher.gs.com/roles/171570?type=students) | 85 | Salt Lake City, UT | Software | 2026-08-22 |
+| [Engineering New Analyst - Engineering](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807) | 85 | Seattle, WA | Software | 2026-08-22 |
+| [New Analyst - Engineering](https://higher.gs.com/roles/171569?type=students) | 85 | NYC | Software | 2026-08-22 |
 | [Software Engineer - Data](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292) | 85 | London, UK | Software | 2026-08-17 |
 
 ## Google
@@ -6033,6 +6038,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Architecture Energy Modeling Engineer - Power Modeling, Methodology and Analysis](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Architecture-Energy-Modeling-Engineer---New-College-Grad-2026_JR2023398) | 93 | Santa Clara, CA | AI/ML/Data | 2026-08-22 |
 | [Research Engineer New Grad - Interactive World Models](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Engineer--Interactive-World-Models---New-College-Grad-2026_JR2023950) | 99 | Santa Clara, CA | AI/ML/Data | 2026-08-21 |
 | [Software Engineering Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | 93 | Canada / Santa Clara, CA | Software | 2026-08-19 |
 | [Systems Software Engineering Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492) | 93 | Santa Clara, CA | Software | 2026-08-19 |
@@ -8542,6 +8548,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer 1 New Grad - QA](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5219057007) | 99 | Long Beach, CA / Denver, CO | Software | 2026-08-22 |
 | [Flight Software Engineer 1](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5090441007) | 93 | Long Beach, CA / Denver, CO | Hardware | 2026-08-17 |
 
 ## Truist Bank

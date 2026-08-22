@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-22T01:16:06.759Z",
+  "generatedAt": "2026-08-22T02:30:41.910Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2751,
+  "jobCount": 2758,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2635,7 +2635,6 @@
     "canonical:1659145d5a3bb946": "2026-08-21T03:14:14.277Z",
     "canonical:2cb879f2039b951e": "2026-08-21T03:14:14.277Z",
     "canonical:8c0edd94b8a7f5ae": "2026-08-21T03:14:14.277Z",
-    "canonical:5c248a7e08424be5": "2026-08-21T03:14:14.277Z",
     "canonical:9d2e7bb1d2ca7708": "2026-08-21T03:14:14.277Z",
     "canonical:6ef9337612891a09": "2026-08-21T03:14:14.277Z",
     "canonical:4b7374cbaf94d495": "2026-08-21T03:14:14.277Z",
@@ -2754,7 +2753,15 @@
     "canonical:e1db83166c89e373": "2026-08-21T23:44:21.462Z",
     "canonical:804b790ae1f950b7": "2026-08-21T23:44:21.462Z",
     "canonical:b5b12f097e7204b5": "2026-08-21T23:44:21.462Z",
-    "canonical:822c2dc1b04bb73d": "2026-08-21T23:44:21.462Z"
+    "canonical:822c2dc1b04bb73d": "2026-08-21T23:44:21.462Z",
+    "canonical:d1da7b2ac572df8f": "2026-08-22T02:30:41.910Z",
+    "canonical:5ccbdd16c804408f": "2026-08-22T02:30:41.910Z",
+    "canonical:caa37dbb765c5132": "2026-08-22T02:30:41.910Z",
+    "canonical:ee2ac1afa3058d54": "2026-08-22T02:30:41.910Z",
+    "canonical:a9a3f0d67be86785": "2026-08-22T02:30:41.910Z",
+    "canonical:342ffd2d7e8dd501": "2026-08-22T02:30:41.910Z",
+    "canonical:97e58fc3beb127d9": "2026-08-22T02:30:41.910Z",
+    "canonical:a278061ef9ac5145": "2026-08-22T02:30:41.910Z"
   },
   "jobs": [
     {
@@ -32991,6 +32998,32 @@
       ]
     },
     {
+      "id": "canonical:d1da7b2ac572df8f",
+      "title": "Engineering New Analyst - Engineering",
+      "url": "https://higher.gs.com/roles/171570?type=students",
+      "location": "Salt Lake City, UT",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:5ccbdd16c804408f",
+      "title": "Engineering New Analyst",
+      "url": "https://higher.gs.com/roles/171568?type=students",
+      "location": "Dallas, TX",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:f25c76a0a1a97682",
       "title": "Forward Deployed Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3/application?embed=true",
@@ -33021,6 +33054,19 @@
       ]
     },
     {
+      "id": "canonical:caa37dbb765c5132",
+      "title": "Engineering New Analyst - Engineering",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
+      "location": "Seattle, WA",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:f3ba0dab3d1890be",
       "title": "Senior Applied AI & ML Engineer",
       "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/UK---London/Senior-Applied-AI---ML-Engineer---Evinova_R-257950-1",
@@ -33046,6 +33092,19 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ee2ac1afa3058d54",
+      "title": "New Analyst - Engineering",
+      "url": "https://higher.gs.com/roles/171569?type=students",
+      "location": "NYC",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
@@ -33997,20 +34056,6 @@
         "SWE-aligned",
         "high-signal role",
         "new grad"
-      ]
-    },
-    {
-      "id": "canonical:5c248a7e08424be5",
-      "title": "Senior Software Engineer - Backend",
-      "url": "https://job-boards.greenhouse.io/archer56/jobs/7499031003",
-      "location": "San Jose, CA",
-      "department": "Software",
-      "company": "Archer",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -35889,6 +35934,63 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:a9a3f0d67be86785",
+      "title": "Software Engineer 1",
+      "url": "https://amat.wd1.myworkdayjobs.com/External/job/KalispellMT/Software-Engineer-I---New-College-Grad--Bachelors---Kalispell--MT-_R2626859",
+      "location": "Kalispell, MT",
+      "department": "Software",
+      "company": "Applied Materials",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:342ffd2d7e8dd501",
+      "title": "Associate Data Engineer - Conversion",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/VA---Work-from-home/Associate-Data-Engineer--Conversion-_R1015903",
+      "location": "Virginia",
+      "department": "AI/ML/Data",
+      "company": "CVS Health",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:97e58fc3beb127d9",
+      "title": "Architecture Energy Modeling Engineer - Power Modeling, Methodology and Analysis",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Architecture-Energy-Modeling-Engineer---New-College-Grad-2026_JR2023398",
+      "location": "Santa Clara, CA",
+      "department": "AI/ML/Data",
+      "company": "NVIDIA",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:a278061ef9ac5145",
+      "title": "Software Engineer 1 New Grad - QA",
+      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5219057007",
+      "location": "Long Beach, CA / Denver, CO",
+      "department": "Software",
+      "company": "True Anomaly",
+      "score": 99,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
         "direct ATS"
       ]
     },
