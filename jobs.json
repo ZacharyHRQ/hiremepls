@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-22T10:15:47.184Z",
+  "generatedAt": "2026-08-22T10:45:54.605Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2767,
+  "jobCount": 2770,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2770,7 +2770,10 @@
     "canonical:d1da7b2ac572df8f": "2026-08-22T10:15:47.184Z",
     "canonical:5ccbdd16c804408f": "2026-08-22T10:15:47.184Z",
     "canonical:caa37dbb765c5132": "2026-08-22T10:15:47.184Z",
-    "canonical:ee2ac1afa3058d54": "2026-08-22T10:15:47.184Z"
+    "canonical:ee2ac1afa3058d54": "2026-08-22T10:15:47.184Z",
+    "canonical:51d01b1f089af891": "2026-08-22T10:45:54.605Z",
+    "canonical:e7311dc0347c7ff2": "2026-08-22T10:45:54.605Z",
+    "canonical:5e5c5ad8acd1eefa": "2026-08-22T10:45:54.605Z"
   },
   "jobs": [
     {
@@ -14376,6 +14379,47 @@
       "location": "San Diego, CA",
       "department": "Software",
       "company": "Elevate Semiconductor",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:51d01b1f089af891",
+      "title": "Systems Integration Engineer Intern",
+      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/System-Integration-Engineer-Intern_R265305",
+      "location": "Wilmington, MA / Durham, NC",
+      "department": "Hardware",
+      "company": "Analog Devices",
+      "score": 83,
+      "scoreReasons": [
+        "SWE-aligned",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:e7311dc0347c7ff2",
+      "title": "Algorithm Development Engineer Intern",
+      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Algorithm-Development-Engineer-Intern_R265306-1",
+      "location": "Wilmington, MA",
+      "department": "AI/ML/Data",
+      "company": "Analog Devices",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:5e5c5ad8acd1eefa",
+      "title": "Engineering Intern",
+      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/XMLNAME-2027-Summer-Engineering-Intern---Raleigh_R0142571",
+      "location": "Raleigh, NC",
+      "department": "Software",
+      "company": "Hitachi",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
