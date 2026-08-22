@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-22T07:42:39.694Z",
+  "generatedAt": "2026-08-22T07:59:44.336Z",
   "companyCount": 188,
-  "okCount": 186,
-  "jobCount": 2758,
+  "okCount": 188,
+  "jobCount": 2759,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2761,7 +2761,8 @@
     "canonical:5ed9a9a79a8155ef": "2026-08-22T04:45:53.381Z",
     "canonical:32452ec542710d8f": "2026-08-22T05:17:22.092Z",
     "canonical:4b0ab273bab26c2e": "2026-08-22T05:17:22.092Z",
-    "canonical:3f44cd57fca349f6": "2026-08-22T05:49:45.857Z"
+    "canonical:3f44cd57fca349f6": "2026-08-22T05:49:45.857Z",
+    "canonical:92eb1447910366d7": "2026-08-22T07:59:44.336Z"
   },
   "jobs": [
     {
@@ -14491,6 +14492,19 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:92eb1447910366d7",
+      "title": "Software Development Engineer Intern",
+      "url": "https://www.amazon.jobs/en/jobs/3101249/software-development-engineer-internship-winter-2026-us",
+      "location": "Phoenix, AZ / Tempe, AZ / Berkeley, CA / Culver City, CA / Cupertino, CA / East Palo Alto, CA / Irvine, CA / Los Angeles, CA / Manhattan Beach, CA / Palo Alto, CA / San Diego, CA / San Francisco, CA / San Jose, CA / San Luis Obispo, CA / Santa Barbara, CA / Santa Clara, CA / Santa Cruz, CA / Santa Monica, CA / Sunnyvale, CA / Boulder, CO / Denver, CO / Atlanta, GA / Kennesaw, GA / Chicago, IL / Boston, MA / Cambridge, MA / Hudson, MA / North Reading, MA / Westborough, MA / Baltimore, MD / Detroit, MI / Minneapolis, MN / Jersey City, NJ / New York, NY / Portland, OR / Philadelphia, PA / Pittsburgh, PA / Nashville, TN / Austin, TX / Dallas, TX / Arlington, VA / Herndon, VA / Madison, WI / Bellevue, WA / Seattle, WA / Redmond, WA",
+      "department": "",
+      "company": "Amazon",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
@@ -40568,14 +40582,5 @@
       ]
     }
   ],
-  "errors": [
-    {
-      "company": "Snap",
-      "message": "workday snap: expected JSON, got text/html; charset=UTF-8: <!DOCTYPE html>\n<html lang=\"en\" dir=\"ltr\">\n  <head>\n    <meta charset=\"utf-8\" />"
-    },
-    {
-      "company": "BlackRock",
-      "message": "workday blackrock: expected JSON, got text/html; charset=UTF-8: <!DOCTYPE html>\n<html lang=\"en\" dir=\"ltr\">\n  <head>\n    <meta charset=\"utf-8\" />"
-    }
-  ]
+  "errors": []
 }

@@ -1,6 +1,6 @@
 # Open Internships
 
-**2758** internships across **186/188** companies — last updated 2026-08-22.
+**2759** internships across **188/188** companies — last updated 2026-08-22.
 
 ## Companies
 
@@ -40,7 +40,7 @@
 - [Alta Ares](#alta-ares) (1)
 - [Altice USA](#altice-usa) (2)
 - [AMAX](#amax) (1)
-- [Amazon](#amazon) (45)
+- [Amazon](#amazon) (46)
 - [Ambrook](#ambrook) (1)
 - [Amcor](#amcor) (1)
 - [AMD](#amd) (9)
@@ -1331,6 +1331,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Development Engineer Intern](https://www.amazon.jobs/en/jobs/3101249/software-development-engineer-internship-winter-2026-us) | 85 | Phoenix, AZ / Tempe, AZ / Berkeley, CA / Culver City, CA / Cupertino, CA / East Palo Alto, CA / Irvine, CA / Los Angeles, CA / Manhattan Beach, CA / Palo Alto, CA / San Diego, CA / San Francisco, CA / San Jose, CA / San Luis Obispo, CA / Santa Barbara, CA / Santa Clara, CA / Santa Cruz, CA / Santa Monica, CA / Sunnyvale, CA / Boulder, CO / Denver, CO / Atlanta, GA / Kennesaw, GA / Chicago, IL / Boston, MA / Cambridge, MA / Hudson, MA / North Reading, MA / Westborough, MA / Baltimore, MD / Detroit, MI / Minneapolis, MN / Jersey City, NJ / New York, NY / Portland, OR / Philadelphia, PA / Pittsburgh, PA / Nashville, TN / Austin, TX / Dallas, TX / Arlington, VA / Herndon, VA / Madison, WI / Bellevue, WA / Seattle, WA / Redmond, WA | — | 2026-08-22 |
 | [软件开发工程师, 上海, (New graduate or Entry-level Engineer, 0-2 Years)](https://amazon.jobs/en/jobs/10510140/new-graduate-or-entry-level-engineer-0-2-years) | 91 | Shanghai | Software Development | 2026-08-21 |
 | [Software Dev Engineer Intern Machine Learning, Amazon Robotics](https://amazon.jobs/en/jobs/10401402/software-dev-engineer-intern-machine-learning-amazon-robotics) | 85 | Berlin | Software Development | 2026-08-21 |
 | [【Class of 2028 & 2029／Internship】Software Development Engineers , Amazon International Stores](https://amazon.jobs/en/jobs/10503558/class-of-2028-2029-internship-software-development-engineers-amazon-international-stores) | 85 | Tokyo | Systems, Quality, & Security Engineering | 2026-08-18 |
@@ -9242,8 +9243,3 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Application Engineer](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Erie-PA/Application-Engineer_REQ-019741) | 93 | Erie, PA | Software | 2026-08-17 |
-
-## Errors this run
-
-- **Snap**: workday snap: expected JSON, got text/html; charset=UTF-8: <!DOCTYPE html> <html lang="en" dir="ltr">   <head>     <meta charset="utf-8" />
-- **BlackRock**: workday blackrock: expected JSON, got text/html; charset=UTF-8: <!DOCTYPE html> <html lang="en" dir="ltr">   <head>     <meta charset="utf-8" />
