@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-22T20:37:50.802Z",
+  "generatedAt": "2026-08-22T20:57:28.021Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2774,
+  "jobCount": 2775,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2777,7 +2777,8 @@
     "canonical:736b0a835a03d98d": "2026-08-22T18:54:19.405Z",
     "canonical:2ca9eab2169c2cc7": "2026-08-22T18:54:19.405Z",
     "canonical:87e084986d8f71fe": "2026-08-22T18:54:19.405Z",
-    "canonical:67f9b9d3a905fdc5": "2026-08-22T18:54:19.405Z"
+    "canonical:67f9b9d3a905fdc5": "2026-08-22T18:54:19.405Z",
+    "canonical:07ab52e3a2dcbf37": "2026-08-22T20:57:28.021Z"
   },
   "jobs": [
     {
@@ -38865,6 +38866,20 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:07ab52e3a2dcbf37",
+      "title": "New Grad: Software Developer, Sprc",
+      "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
+      "location": "Ardmore, PA",
+      "department": "",
+      "company": "Susquehanna International Group (SIG)",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
       ]
     },
     {

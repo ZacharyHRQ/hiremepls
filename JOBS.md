@@ -1,6 +1,6 @@
 # Open Internships
 
-**2774** internships across **188/188** companies — last updated 2026-08-22.
+**2775** internships across **188/188** companies — last updated 2026-08-22.
 
 ## Companies
 
@@ -918,7 +918,7 @@
 - [Supernova Technology](#supernova-technology) (1)
 - [Susquehanna](#susquehanna) (1)
 - [Susquehanna International Group](#susquehanna-international-group) (7)
-- [Susquehanna International Group (SIG)](#susquehanna-international-group-sig) (9)
+- [Susquehanna International Group (SIG)](#susquehanna-international-group-sig) (10)
 - [Susquehanna Investment Group](#susquehanna-investment-group) (1)
 - [Symbotic](#symbotic) (1)
 - [Symphony](#symphony) (1)
@@ -7865,6 +7865,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [New Grad: Software Developer, Sprc](https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false) | 91 | Ardmore, PA | — | 2026-08-22 |
 | [Associate Linux/Windows Engineer New Grad](https://careers-sig.icims.com/jobs/9408/job?mobile=true&needsRedirect=false) | 91 | Ardmore, PA | Software | 2026-08-17 |
 | [Quantitative Researcher](https://careers-sig.icims.com/jobs/11016/job?mobile=true&needsRedirect=false) | 85 | Ardmore, PA | Quant | 2026-08-17 |
 | [Quantitative Researcher](https://careers-sig.icims.com/jobs/11018/job?mobile=true&needsRedirect=false) | 85 | Philadelphia, PA / NYC | Quant | 2026-08-17 |
