@@ -1,6 +1,6 @@
 # Open Internships
 
-**2760** internships across **188/188** companies — last updated 2026-08-22.
+**2757** internships across **188/188** companies — last updated 2026-08-22.
 
 ## Companies
 
@@ -185,7 +185,6 @@
 - [Capital Health](#capital-health) (1)
 - [Capital One](#capital-one) (9)
 - [Captivation](#captivation) (1)
-- [CaptiveAire Systems](#captiveaire-systems) (3)
 - [CarbonChain](#carbonchain) (1)
 - [Carefeed](#carefeed) (1)
 - [Caris](#caris) (1)
@@ -2586,14 +2585,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer 0 - Multiple Teams](https://job-boards.greenhouse.io/captivation/jobs/5384983008) | 93 | Annapolis Junction, MD | Software | 2026-08-21 |
-
-## CaptiveAire Systems
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Application Engineer](https://www.captiveaire.com/Careers/Opening.asp?id=8560942002&gh_jid=8560942002) | 85 | Eagan, MN | Software | 2026-08-17 |
-| [Application Engineer](https://www.captiveaire.com/Careers/Opening.asp?id=8560958002&gh_jid=8560958002) | 85 | Lancaster, PA | Software | 2026-08-17 |
-| [Application Engineer](https://www.captiveaire.com/Careers/Opening.asp?id=8560951002&gh_jid=8560951002) | 85 | Raleigh, NC | Software | 2026-08-17 |
 
 ## CarbonChain
 

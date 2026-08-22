@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-22T03:23:30.981Z",
+  "generatedAt": "2026-08-22T04:01:24.771Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2760,
+  "jobCount": 2757,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1051,13 +1051,10 @@
     "canonical:c27f0184b870fe32": "2026-08-17T16:14:31.608Z",
     "canonical:c318cc5e6a2101aa": "2026-08-17T16:14:31.608Z",
     "canonical:82603c6c53d052b1": "2026-08-17T16:14:31.608Z",
-    "canonical:86730b4934f01139": "2026-08-17T16:14:31.608Z",
     "canonical:ef0d637723259f4e": "2026-08-17T16:14:31.608Z",
     "canonical:cb7e250145714529": "2026-08-17T16:14:31.608Z",
     "canonical:268d2d796bbe824f": "2026-08-17T16:14:31.608Z",
-    "canonical:1abd096e64819513": "2026-08-17T16:14:31.608Z",
     "canonical:b3882a42aa28668d": "2026-08-17T16:14:31.608Z",
-    "canonical:5ed9a9a79a8155ef": "2026-08-17T16:14:31.608Z",
     "canonical:a32b2bf34f93bbbb": "2026-08-17T16:14:31.608Z",
     "canonical:b98c6d708d5eeb32": "2026-08-17T16:14:31.608Z",
     "canonical:2989ed9a736338c3": "2026-08-17T16:14:31.608Z",
@@ -18654,32 +18651,6 @@
       ]
     },
     {
-      "id": "canonical:86730b4934f01139",
-      "title": "Application Engineer",
-      "url": "https://www.captiveaire.com/Careers/Opening.asp?id=8560942002&gh_jid=8560942002",
-      "location": "Eagan, MN",
-      "department": "Software",
-      "company": "CaptiveAire Systems",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:1abd096e64819513",
-      "title": "Application Engineer",
-      "url": "https://www.captiveaire.com/Careers/Opening.asp?id=8560958002&gh_jid=8560958002",
-      "location": "Lancaster, PA",
-      "department": "Software",
-      "company": "CaptiveAire Systems",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:b3882a42aa28668d",
       "title": "Graphical Software Developer",
       "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/Graphical-Software-Developer_JR101297-1",
@@ -18705,19 +18676,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:5ed9a9a79a8155ef",
-      "title": "Application Engineer",
-      "url": "https://www.captiveaire.com/Careers/Opening.asp?id=8560951002&gh_jid=8560951002",
-      "location": "Raleigh, NC",
-      "department": "Software",
-      "company": "CaptiveAire Systems",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
