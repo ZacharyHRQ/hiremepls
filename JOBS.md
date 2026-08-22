@@ -1,6 +1,6 @@
 # Open Internships
 
-**2758** internships across **188/188** companies — last updated 2026-08-21.
+**2751** internships across **188/188** companies — last updated 2026-08-22.
 
 ## Companies
 
@@ -36,13 +36,11 @@
 - [Allen Control Systems](#allen-control-systems) (1)
 - [AllianceBernstein](#alliancebernstein) (1)
 - [Allica Bank](#allica-bank) (1)
-- [Allstate Insurance Company](#allstate-insurance-company) (1)
 - [Alpha Nexus Group](#alpha-nexus-group) (1)
 - [Alta Ares](#alta-ares) (1)
 - [Altice USA](#altice-usa) (2)
 - [AMAX](#amax) (1)
 - [Amazon](#amazon) (45)
-- [Ambarella](#ambarella) (1)
 - [Ambrook](#ambrook) (1)
 - [Amcor](#amcor) (1)
 - [AMD](#amd) (9)
@@ -224,7 +222,7 @@
 - [Codan Limited](#codan-limited) (1)
 - [Codeage](#codeage) (1)
 - [Cohere](#cohere) (3)
-- [Coherent ](#coherent) (2)
+- [Coherent ](#coherent) (1)
 - [Cole Engineering Services](#cole-engineering-services) (1)
 - [Collective Hub, Inc](#collective-hub-inc) (1)
 - [Color](#color) (1)
@@ -645,7 +643,6 @@
 - [NCR Voyix](#ncr-voyix) (1)
 - [Nebo](#nebo) (2)
 - [Nelnet](#nelnet) (1)
-- [Nestle](#nestle) (1)
 - [Netflix](#netflix) (1)
 - [Netic](#netic) (3)
 - [Netsmart](#netsmart) (1)
@@ -669,7 +666,7 @@
 - [North Star Staffing Solutions](#north-star-staffing-solutions) (1)
 - [Northeastern](#northeastern) (1)
 - [Northeastern University](#northeastern-university) (1)
-- [Northrop Grumman](#northrop-grumman) (27)
+- [Northrop Grumman](#northrop-grumman) (26)
 - [Northwestern Mutual](#northwestern-mutual) (1)
 - [Northwood Space](#northwood-space) (1)
 - [Notion](#notion) (16)
@@ -745,7 +742,6 @@
 - [Praetorian](#praetorian) (1)
 - [Prelim](#prelim) (1)
 - [Presidency Solutions](#presidency-solutions) (1)
-- [Primetals Technologies](#primetals-technologies) (1)
 - [Prior Labs](#prior-labs) (1)
 - [Probook](#probook) (1)
 - [Procom](#procom) (1)
@@ -933,7 +929,7 @@
 - [T-Rex Solutions](#t-rex-solutions) (2)
 - [T2 Systems](#t2-systems) (1)
 - [Talroo](#talroo) (1)
-- [Tavern Research](#tavern-research) (4)
+- [Tavern Research](#tavern-research) (3)
 - [Tax Relief Advocates](#tax-relief-advocates) (1)
 - [Tech Tammina](#tech-tammina) (2)
 - [Techtronic Industries (TTI)](#techtronic-industries-tti) (1)
@@ -1303,12 +1299,6 @@
 | --- | --- | --- | --- | --- |
 | [Graduate Full Stack Engineer](https://jobs.ashbyhq.com/allica-bank/82a8c032-e67a-4bc9-bd71-ffb3ef694a3d/application?embed=true) | 99 | Milton Keynes, UK | Software | 2026-08-21 |
 
-## Allstate Insurance Company
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Applied Machine Learning Engineer](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/Applied-Machine-Learning-Engineer--All-Levels-_R27180-1) | 93 | Illinois | AI/ML/Data | 2026-08-17 |
-
 ## Alpha Nexus Group
 
 | Title | Score | Location | Department | First seen |
@@ -1383,12 +1373,6 @@
 | [Amazon Industrial Robotics - Applied Scientist II Intern / Co-op - 2026, Amazon Industrial Robotics](https://www.amazon.jobs/en/jobs/3132414/amazon-industrial-robotics-applied-scientist-ii-intern-co-op-2026-amazon-industrial-robotics) | 85 | North Reading, Massachusetts, USA | Data & ML/AI / Fall 2026 | 2026-07-13 |
 | [Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)](https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us) | 85 | Seattle, Washington, USA | Data & ML/AI / Fall 2026 | 2026-07-13 |
 | [Software Development Engineer Intern - Military Veteran](https://amazon.jobs/en/jobs/3179209/software-development-engineer-internship-military-veteran) | 85 | NYC / Culver City, CA / Santa Clara, CA / Boston, MA / Seattle, WA / Denver, CO / SF / Arlington, VA / Sunnyvale, CA / Brooklyn, NY / Williston Park, NY | Software | 2026-05-09 |
-
-## Ambarella
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Engineer-Intern_JR100107) | 93 | United States | Hardware | 2026-07-21 |
 
 ## Ambrook
 
@@ -2857,7 +2841,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Embedded Systems Software & FPGA Programmer](https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2010466) | 85 | Elmira, NY | Hardware | 2026-08-17 |
-| [Systems Software Engineer - Test & Automation Infrastructure](https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2012520) | 85 | Fremont, CA | Software | 2026-08-17 |
 
 ## Cole Engineering Services
 
@@ -5795,12 +5778,6 @@
 | --- | --- | --- | --- | --- |
 | [AI Engineer Intern](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---AI-Engineer_R22763) | 93 | Lincoln, NE | AI/ML/Data | 2026-08-01 |
 
-## Nestle
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Associate Product Ownership - Junior Data Engineer](https://jobdetails.nestle.com/job/North-York-Associate-Product-Ownership-Jr_-Data-Engineer-(12-months-contract)-ON/1418872933/?ats=successfactors) | 85 | North York, ON, Canada | AI/ML/Data | 2026-08-17 |
-
 ## Netflix
 
 | Title | Score | Location | Department | First seen |
@@ -5977,7 +5954,6 @@
 | [Software Engineer/Principal Software Engineer - Java](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Software-Engineer-Principal-Software-Engineer---JAVA_R10237701) | 93 | San Diego, CA | Software | 2026-08-17 |
 | [Software Engineer/Principal Software Engineer - Java](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Software-Engineer-Principal-Software-Engineer---Java_R10239296-1) | 93 | San Diego, CA / El Segundo, CA | Software | 2026-08-17 |
 | [Space Flight Operations – Engineer/Principal Engineer Systems](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Space-Flight-Operations---Engineer-Principal-Engineer-Systems_R10233658) | 93 | Halethorpe, MD | Software | 2026-08-17 |
-| [Structural Analysis Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Engineer-or-Principal-Engineer-Structural-Analysis--4-10-2nd-Shift-_R10231985) | 93 | Palmdale, CA | Software | 2026-08-17 |
 | [Systems Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/Engineer-Principal-Engineer-Systems_R10241911) | 93 | Morrisville, NC | Software | 2026-08-17 |
 | [Software Engineer Intern - Aeronautics Systems](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573) | 93 | Melbourne, FL | Software | 2026-08-06 |
 
@@ -6622,12 +6598,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Developer](https://jobs.smartrecruiters.com/PresidencySolutions1/82551703) | 93 | Farmington Hills, MI | Software | 2026-08-17 |
-
-## Primetals Technologies
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Engineer 1 - System Integration](https://mhicareers.com/job/Lake-Mary-Engineer-I,-System-Integration-FL-32746/1408924533/?ats=successfactors) | 85 | Lake Mary, FL | AI/ML/Data | 2026-08-17 |
 
 ## Prior Labs
 
@@ -7956,7 +7926,6 @@
 | --- | --- | --- | --- | --- |
 | [Data Scientist 1](https://ats.rippling.com/tavernresearch/jobs/1a3cfbeb-973a-4528-8fc6-43c04e179ea8) | 85 | Chicago, IL | AI/ML/Data | 2026-08-17 |
 | [Engineer 1 - Digital Engagement](https://ats.rippling.com/tavernresearch/jobs/328ac66c-4c82-4598-8101-3d9fa64bd436) | 85 | Chicago, IL | Software | 2026-08-17 |
-| [Engineer 1 - Paid Media](https://ats.rippling.com/tavernresearch/jobs/17952240-27e9-4c49-8869-e3e1ea2aadc3) | 85 | Chicago, IL | Software | 2026-08-17 |
 | [Engineer 1 - Surveys](https://ats.rippling.com/tavernresearch/jobs/7433de0b-caae-4c3d-8ad3-70fcbb2f3e6c) | 85 | Chicago, IL | Software | 2026-08-17 |
 
 ## Tax Relief Advocates

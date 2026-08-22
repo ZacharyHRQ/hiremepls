@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-21T23:59:19.919Z",
+  "generatedAt": "2026-08-22T01:16:06.759Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2758,
+  "jobCount": 2751,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -268,7 +268,6 @@
     "canonical:3cf1a0cf4213b1da": "2026-07-21T04:15:38.512Z",
     "canonical:270fbedb80adc1cf": "2026-07-21T04:15:38.512Z",
     "canonical:5147cd9949056765": "2026-07-21T07:03:27.767Z",
-    "canonical:1a7ad445267d293c": "2026-07-21T07:03:27.767Z",
     "canonical:1eada2043542f346": "2026-07-21T07:03:27.767Z",
     "canonical:219d5b6a1f795c65": "2026-07-21T07:03:27.767Z",
     "canonical:2773b0f30682bb43": "2026-07-21T07:03:27.767Z",
@@ -928,7 +927,6 @@
     "canonical:15ddf0e0e1c5c2e8": "2026-08-17T16:14:31.608Z",
     "canonical:f75d2558e7c84435": "2026-08-17T16:14:31.608Z",
     "canonical:c03c8bc657693227": "2026-08-17T16:14:31.608Z",
-    "canonical:ced0085e8a31a0d1": "2026-08-17T16:14:31.608Z",
     "canonical:a2cfd90223012643": "2026-08-17T16:14:31.608Z",
     "canonical:ff2a01b2bac3e23d": "2026-08-17T16:14:31.608Z",
     "canonical:5dfa86cdab4f2e01": "2026-08-17T16:14:31.608Z",
@@ -1052,7 +1050,6 @@
     "canonical:1448c41f43f778f8": "2026-08-17T16:14:31.608Z",
     "canonical:c27f0184b870fe32": "2026-08-17T16:14:31.608Z",
     "canonical:c318cc5e6a2101aa": "2026-08-17T16:14:31.608Z",
-    "canonical:cb1b33258a4b177a": "2026-08-17T16:14:31.608Z",
     "canonical:82603c6c53d052b1": "2026-08-17T16:14:31.608Z",
     "canonical:86730b4934f01139": "2026-08-17T16:14:31.608Z",
     "canonical:ef0d637723259f4e": "2026-08-17T16:14:31.608Z",
@@ -1199,7 +1196,6 @@
     "canonical:4fa0c03f558aa881": "2026-08-17T16:14:31.608Z",
     "canonical:d2a4fa7d335c2a94": "2026-08-17T16:14:31.608Z",
     "canonical:6b57617a52bfbde6": "2026-08-17T16:14:31.608Z",
-    "canonical:41afa9709596ccbb": "2026-08-17T16:14:31.608Z",
     "canonical:d15f173d1726f156": "2026-08-17T16:14:31.608Z",
     "canonical:2e90c0b407ef28e1": "2026-08-17T16:14:31.608Z",
     "canonical:647847790de6df67": "2026-08-17T16:14:31.608Z",
@@ -1361,7 +1357,6 @@
     "canonical:93860fa55e596787": "2026-08-17T16:14:31.608Z",
     "canonical:28e47163ff287f3c": "2026-08-17T16:14:31.608Z",
     "canonical:436326b90913f640": "2026-08-17T16:14:31.608Z",
-    "canonical:7a5711de9738f13a": "2026-08-17T16:14:31.608Z",
     "canonical:d01d352c9ee714b3": "2026-08-17T16:14:31.608Z",
     "canonical:fc32c846bfaa1d6e": "2026-08-17T16:14:31.608Z",
     "canonical:ee0bc0e4f2da3f78": "2026-08-17T16:14:31.608Z",
@@ -1408,7 +1403,6 @@
     "canonical:d476d72582e641fd": "2026-08-17T16:14:31.608Z",
     "canonical:9b54bfff3d671f3b": "2026-08-17T16:14:31.608Z",
     "canonical:6e99fd25c8fc385b": "2026-08-17T16:14:31.608Z",
-    "canonical:d3df0b257b79b6a0": "2026-08-17T16:14:31.608Z",
     "canonical:22fdf5c015300585": "2026-08-17T16:14:31.608Z",
     "canonical:a044d0745401a7e5": "2026-08-17T16:14:31.608Z",
     "canonical:6e9e509ea7d8642d": "2026-08-17T16:14:31.608Z",
@@ -1424,7 +1418,6 @@
     "canonical:1f785f8df72effe8": "2026-08-17T16:14:31.608Z",
     "canonical:2ca9eab2169c2cc7": "2026-08-17T16:14:31.608Z",
     "canonical:7bfbee37e3eb0233": "2026-08-17T16:14:31.608Z",
-    "canonical:58709e58ddb83024": "2026-08-17T16:14:31.608Z",
     "canonical:51bc2ed2fa119078": "2026-08-17T16:14:31.608Z",
     "canonical:638026801666c8e8": "2026-08-17T16:14:31.608Z",
     "canonical:3d1cd67690561718": "2026-08-17T16:14:31.608Z",
@@ -9284,20 +9277,6 @@
       ]
     },
     {
-      "id": "canonical:1a7ad445267d293c",
-      "title": "Software Engineer Intern",
-      "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Engineer-Intern_JR100107",
-      "location": "United States",
-      "department": "Hardware",
-      "company": "Ambarella",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:7513b79c2374e7a1",
       "title": "Intern Quant Researcher",
       "url": "https://boards.greenhouse.io/embed/job_app?token=243853",
@@ -16818,20 +16797,6 @@
       ]
     },
     {
-      "id": "canonical:ced0085e8a31a0d1",
-      "title": "Applied Machine Learning Engineer",
-      "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/Applied-Machine-Learning-Engineer--All-Levels-_R27180-1",
-      "location": "Illinois",
-      "department": "AI/ML/Data",
-      "company": "Allstate Insurance Company",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:a2cfd90223012643",
       "title": "Software Engineer – Early Career - Autonomous Vehicles Software Systems",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--Autonomous-Vehicles-Software-Systems---Early-Career_JR-202604759",
@@ -18551,19 +18516,6 @@
         "high-signal role",
         "new grad",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:cb1b33258a4b177a",
-      "title": "Systems Software Engineer - Test & Automation Infrastructure",
-      "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2012520",
-      "location": "Fremont, CA",
-      "department": "Software",
-      "company": "Coherent ",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -20655,19 +20607,6 @@
         "high-signal role",
         "new grad",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:41afa9709596ccbb",
-      "title": "Engineer 1 - System Integration",
-      "url": "https://mhicareers.com/job/Lake-Mary-Engineer-I,-System-Integration-FL-32746/1408924533/?ats=successfactors",
-      "location": "Lake Mary, FL",
-      "department": "AI/ML/Data",
-      "company": "Primetals Technologies",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -23305,20 +23244,6 @@
       ]
     },
     {
-      "id": "canonical:7a5711de9738f13a",
-      "title": "Structural Analysis Engineer",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Engineer-or-Principal-Engineer-Structural-Analysis--4-10-2nd-Shift-_R10231985",
-      "location": "Palmdale, CA",
-      "department": "Software",
-      "company": "Northrop Grumman",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:fc32c846bfaa1d6e",
       "title": "Assistant Scientist",
       "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Assistant-Scientist--RD2---Scientist--RD3----Coherent-X-ray-Scattering-of-Geochemical-Interfaces_423116",
@@ -23979,19 +23904,6 @@
       ]
     },
     {
-      "id": "canonical:d3df0b257b79b6a0",
-      "title": "Associate Product Ownership - Junior Data Engineer",
-      "url": "https://jobdetails.nestle.com/job/North-York-Associate-Product-Ownership-Jr_-Data-Engineer-(12-months-contract)-ON/1418872933/?ats=successfactors",
-      "location": "North York, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "Nestle",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:22fdf5c015300585",
       "title": "Principal Applied Scientist",
       "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340897",
@@ -24434,19 +24346,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:58709e58ddb83024",
-      "title": "Engineer 1 - Paid Media",
-      "url": "https://ats.rippling.com/tavernresearch/jobs/17952240-27e9-4c49-8869-e3e1ea2aadc3",
-      "location": "Chicago, IL",
-      "department": "Software",
-      "company": "Tavern Research",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
