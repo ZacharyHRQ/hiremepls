@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T10:45:54.605Z",
+  "generatedAt": "2026-08-22T11:10:54.782Z",
   "companyCount": 188,
   "okCount": 188,
   "jobCount": 2770,
@@ -2734,7 +2734,6 @@
     "canonical:aeb47eba372cfd2c": "2026-08-21T22:39:43.700Z",
     "canonical:693bd5a757aa4c52": "2026-08-21T22:39:43.700Z",
     "canonical:b325bdc2f24f19d7": "2026-08-21T22:39:43.700Z",
-    "canonical:4de9a073fa8bc3d1": "2026-08-21T22:39:43.700Z",
     "canonical:28d2711ed8012f29": "2026-08-21T22:39:43.700Z",
     "canonical:d9438b9fc5b03079": "2026-08-21T22:39:43.700Z",
     "canonical:4a77656807157e3b": "2026-08-21T22:39:43.700Z",
@@ -2773,7 +2772,8 @@
     "canonical:ee2ac1afa3058d54": "2026-08-22T10:15:47.184Z",
     "canonical:51d01b1f089af891": "2026-08-22T10:45:54.605Z",
     "canonical:e7311dc0347c7ff2": "2026-08-22T10:45:54.605Z",
-    "canonical:5e5c5ad8acd1eefa": "2026-08-22T10:45:54.605Z"
+    "canonical:5e5c5ad8acd1eefa": "2026-08-22T10:45:54.605Z",
+    "canonical:dda2416bf8ef3371": "2026-08-22T11:10:54.782Z"
   },
   "jobs": [
     {
@@ -14420,6 +14420,20 @@
       "location": "Raleigh, NC",
       "department": "Software",
       "company": "Hitachi",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:dda2416bf8ef3371",
+      "title": "Reservoir Engineer Intern - Summer Internship",
+      "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Summer-Intern---Reservoir-Engineer---Houston--TX_RQ114655-2",
+      "location": "Houston, TX",
+      "department": "AI/ML/Data",
+      "company": "BP",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -35932,20 +35946,6 @@
         "SWE-aligned",
         "high-signal role",
         "new grad",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:4de9a073fa8bc3d1",
-      "title": "Associate Software Support Engineer",
-      "url": "https://echo.wd1.myworkdayjobs.com/en-US/Echo_Logistics/job/Chicago-IL/Associate-Software-Support-Engineer_R4615-1",
-      "location": "Chicago, IL / Reno, NV",
-      "department": "Software",
-      "company": "Echo Global Logistics",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
         "direct ATS"
       ]
     },

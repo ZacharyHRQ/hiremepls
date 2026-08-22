@@ -162,6 +162,7 @@
 - [Boston Engineering](#boston-engineering) (1)
 - [Boston Scientific](#boston-scientific) (1)
 - [Bot Auto](#bot-auto) (3)
+- [BP](#bp) (1)
 - [Brain Co.](#brain-co) (1)
 - [Bree](#bree) (1)
 - [Bridger](#bridger) (1)
@@ -304,7 +305,6 @@
 - [East Penn Manufacturing Company](#east-penn-manufacturing-company) (1)
 - [Eastern Shipbuilding Group](#eastern-shipbuilding-group) (1)
 - [Eaton Corporation](#eaton-corporation) (1)
-- [Echo Global Logistics](#echo-global-logistics) (1)
 - [Edgehog Trading](#edgehog-trading) (1)
 - [Edgewater IT](#edgewater-it) (1)
 - [Egra](#egra) (1)
@@ -2238,6 +2238,12 @@
 | [Software Engineer - Generalist in Autonomous Driving System](https://job-boards.greenhouse.io/botauto/jobs/5370717008) | 93 | Houston, TX / SF | Software | 2026-08-17 |
 | [Deep Learning Engineer Intern](https://job-boards.greenhouse.io/botauto/jobs/5289440008) | 93 | Houston, TX | AI/ML/Data | 2026-07-02 |
 
+## BP
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Reservoir Engineer Intern - Summer Internship](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Summer-Intern---Reservoir-Engineer---Houston--TX_RQ114655-2) | 93 | Houston, TX | AI/ML/Data | 2026-08-22 |
+
 ## Brain Co.
 
 | Title | Score | Location | Department | First seen |
@@ -3417,12 +3423,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer - Research & Development Engineering](https://eaton.eightfold.ai/careers/job/687236827500) | 85 | Wimborne Minster, Wimborne, UK | Hardware | 2026-08-17 |
-
-## Echo Global Logistics
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Associate Software Support Engineer](https://echo.wd1.myworkdayjobs.com/en-US/Echo_Logistics/job/Chicago-IL/Associate-Software-Support-Engineer_R4615-1) | 93 | Chicago, IL / Reno, NV | Software | 2026-08-21 |
 
 ## Edgehog Trading
 
