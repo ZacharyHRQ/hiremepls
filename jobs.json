@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-22T09:56:33.336Z",
+  "generatedAt": "2026-08-22T10:15:47.184Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2765,
+  "jobCount": 2767,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2400,9 +2400,7 @@
     "canonical:e7112f72a0931be2": "2026-08-18T22:46:41.666Z",
     "canonical:bbe70c5f8e21ac9e": "2026-08-18T22:46:41.666Z",
     "canonical:0981ec73fe61e658": "2026-08-18T22:46:41.666Z",
-    "canonical:f8cb9b477074fa6b": "2026-08-18T22:46:41.666Z",
     "canonical:135da3434979dcc8": "2026-08-18T22:46:41.666Z",
-    "canonical:a522f49ad7e2b21e": "2026-08-18T22:46:41.666Z",
     "canonical:51ad17a02704d96a": "2026-08-18T22:46:41.666Z",
     "canonical:ed0787cc5a8f304f": "2026-08-18T22:46:41.666Z",
     "canonical:47fd5426103bfed9": "2026-08-18T22:46:41.666Z",
@@ -2768,7 +2766,11 @@
     "canonical:4065a62fdc3d2aa9": "2026-08-22T09:38:21.899Z",
     "canonical:a41a210a057f132d": "2026-08-22T09:38:21.899Z",
     "canonical:e85e939631c095c8": "2026-08-22T09:56:33.336Z",
-    "canonical:471d94934dc2efa9": "2026-08-22T09:56:33.336Z"
+    "canonical:471d94934dc2efa9": "2026-08-22T09:56:33.336Z",
+    "canonical:d1da7b2ac572df8f": "2026-08-22T10:15:47.184Z",
+    "canonical:5ccbdd16c804408f": "2026-08-22T10:15:47.184Z",
+    "canonical:caa37dbb765c5132": "2026-08-22T10:15:47.184Z",
+    "canonical:ee2ac1afa3058d54": "2026-08-22T10:15:47.184Z"
   },
   "jobs": [
     {
@@ -13371,19 +13373,6 @@
       ]
     },
     {
-      "id": "canonical:f8cb9b477074fa6b",
-      "title": "Software Design Engineer Intern",
-      "url": "https://jobs-bylight.icims.com/jobs/11204/job?mobile=true&needsRedirect=false",
-      "location": "Orlando, FL",
-      "department": "Software",
-      "company": "By Light Professional IT Services",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:135da3434979dcc8",
       "title": "Full Stack Developer Intern",
       "url": "https://careers.foundationfinance.com/jobs/2097?icims=1",
@@ -13408,19 +13397,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:a522f49ad7e2b21e",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs-cesi.icims.com/jobs/11204/job?mobile=true&needsRedirect=false",
-      "location": "Orlando, FL",
-      "department": "Software",
-      "company": "Cole Engineering Services",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -33059,6 +33035,32 @@
       ]
     },
     {
+      "id": "canonical:d1da7b2ac572df8f",
+      "title": "Engineering New Analyst - Engineering",
+      "url": "https://higher.gs.com/roles/171570?type=students",
+      "location": "Salt Lake City, UT",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:5ccbdd16c804408f",
+      "title": "Engineering New Analyst",
+      "url": "https://higher.gs.com/roles/171568?type=students",
+      "location": "Dallas, TX",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:f25c76a0a1a97682",
       "title": "Forward Deployed Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3/application?embed=true",
@@ -33089,6 +33091,19 @@
       ]
     },
     {
+      "id": "canonical:caa37dbb765c5132",
+      "title": "Engineering New Analyst - Engineering",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
+      "location": "Seattle, WA",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:f3ba0dab3d1890be",
       "title": "Senior Applied AI & ML Engineer",
       "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/UK---London/Senior-Applied-AI---ML-Engineer---Evinova_R-257950-1",
@@ -33114,6 +33129,19 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ee2ac1afa3058d54",
+      "title": "New Analyst - Engineering",
+      "url": "https://higher.gs.com/roles/171569?type=students",
+      "location": "NYC",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
