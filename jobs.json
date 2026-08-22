@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-22T09:01:14.823Z",
+  "generatedAt": "2026-08-22T09:38:21.899Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2760,
+  "jobCount": 2763,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2425,7 +2425,6 @@
     "canonical:5cab31cbf6934d69": "2026-08-18T23:34:23.701Z",
     "canonical:da64b333e4850a87": "2026-08-18T23:34:23.701Z",
     "canonical:5ece91158057f859": "2026-08-18T23:34:23.701Z",
-    "canonical:c6ce8ca1ee1750c9": "2026-08-18T23:34:23.701Z",
     "canonical:389d0b951ec297c4": "2026-08-18T23:34:23.701Z",
     "canonical:4120624ccc46ce62": "2026-08-18T23:34:23.701Z",
     "canonical:960bbec4d744f8a1": "2026-08-18T23:55:39.055Z",
@@ -2727,7 +2726,6 @@
     "canonical:9a2b190bbd75844d": "2026-08-21T20:40:41.753Z",
     "canonical:eb5c6c0ab2194708": "2026-08-21T20:40:41.753Z",
     "canonical:b119bbd0c760924d": "2026-08-21T22:12:20.994Z",
-    "canonical:fea6f07d5c3f8455": "2026-08-21T22:39:43.700Z",
     "canonical:83fa16584d5bc44c": "2026-08-21T22:39:43.700Z",
     "canonical:aa22ba43c09e60ee": "2026-08-21T22:39:43.700Z",
     "canonical:73b7cb97718ee837": "2026-08-21T22:39:43.700Z",
@@ -2763,7 +2761,12 @@
     "canonical:3f44cd57fca349f6": "2026-08-22T05:49:45.857Z",
     "canonical:92eb1447910366d7": "2026-08-22T07:59:44.336Z",
     "canonical:f4b2a9aa2d152c8e": "2026-08-22T08:32:14.508Z",
-    "canonical:737d9abb4df39b2b": "2026-08-22T09:01:14.823Z"
+    "canonical:737d9abb4df39b2b": "2026-08-22T09:01:14.823Z",
+    "canonical:69acd4c0fa388415": "2026-08-22T09:38:21.899Z",
+    "canonical:69922f01d0937fb4": "2026-08-22T09:38:21.899Z",
+    "canonical:4c621f2af8bde971": "2026-08-22T09:38:21.899Z",
+    "canonical:4065a62fdc3d2aa9": "2026-08-22T09:38:21.899Z",
+    "canonical:a41a210a057f132d": "2026-08-22T09:38:21.899Z"
   },
   "jobs": [
     {
@@ -11167,6 +11170,20 @@
       ]
     },
     {
+      "id": "canonical:69acd4c0fa388415",
+      "title": "PhD Research Scientist Intern - Reinforcement Learning - Images",
+      "url": "https://jobs.smartrecruiters.com/Canva/6000000001292768",
+      "location": "London, UK",
+      "department": "AI/ML/Data",
+      "company": "Canva",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:1b9ebef2b324c80c",
       "title": "Full-Stack Developer Intern - Python",
       "url": "https://alayacare.com/open-positions?gh_jid=8687981002",
@@ -18771,20 +18788,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:fea6f07d5c3f8455",
-      "title": "Applied AI Engineer New Grad - AI Agent",
-      "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23077",
-      "location": "Sunnyvale, CA",
-      "department": "Software",
-      "company": "Fortinet",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad"
       ]
     },
     {
@@ -34216,20 +34219,6 @@
       ]
     },
     {
-      "id": "canonical:c6ce8ca1ee1750c9",
-      "title": "Data Science Engineer 2",
-      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Data-Science-Engineer-II---Full-Time----United-States_2023062",
-      "location": "San Jose, CA",
-      "department": "AI/ML/Data",
-      "company": "Cisco",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:5ece91158057f859",
       "title": "AI Application Engineer",
       "url": "https://jobs.ashbyhq.com/ema/ab094389-25ec-417b-b646-06969d166d06/application?embed=true",
@@ -35218,20 +35207,6 @@
       ]
     },
     {
-      "id": "canonical:190eacc68ef6c31d",
-      "title": "Associate Software Engineer",
-      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Associate-Software-Engineer_REQ364465-1",
-      "location": "Frisco, TX / Bellevue, WA",
-      "department": "Software",
-      "company": "T-Mobile",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:0539fed2779081b3",
       "title": "Graduate Full Stack Engineer",
       "url": "https://jobs.ashbyhq.com/allica-bank/82a8c032-e67a-4bc9-bd71-ffb3ef694a3d/application?embed=true",
@@ -35243,6 +35218,20 @@
         "SWE-aligned",
         "high-signal role",
         "new grad",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:190eacc68ef6c31d",
+      "title": "Associate Software Engineer",
+      "url": "https://tmobile.wd1.myworkdayjobs.com/contractorconversion/job/Frisco-Texas/Associate-Software-Engineer_REQ364465",
+      "location": "Frisco, TX / Bellevue, WA",
+      "department": "Software",
+      "company": "T-Mobile",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
         "direct ATS"
       ]
     },
@@ -35968,6 +35957,63 @@
         "SWE-aligned",
         "high-signal role",
         "new grad",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:69922f01d0937fb4",
+      "title": "Graduate Developer",
+      "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048802",
+      "location": "Chicago, IL",
+      "department": "Software",
+      "company": "Maven Securities",
+      "score": 99,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:4c621f2af8bde971",
+      "title": "Software Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Resource-Control-Team-Software-Engineer--Level-1-or-2----AHT_R10247178",
+      "location": "Manhattan Beach, CA",
+      "department": "Hardware",
+      "company": "Northrop Grumman",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:4065a62fdc3d2aa9",
+      "title": "Software Engineer - COR",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Configurable-On-Board-Router--COR--Team---Software-Engineer--AHT-_R10247177",
+      "location": "Manhattan Beach, CA",
+      "department": "Hardware",
+      "company": "Northrop Grumman",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:a41a210a057f132d",
+      "title": "Software Systems Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Software-System-Engineer--Level-1-or-2----AHT_R10247180",
+      "location": "Manhattan Beach, CA",
+      "department": "Hardware",
+      "company": "Northrop Grumman",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
         "direct ATS"
       ]
     },
