@@ -19,8 +19,8 @@
     "4892687101",
     "4917773101",
     "4818790101",
-    "4564480101",
     "4635938101",
+    "4564480101",
     "4667814101",
     "4932192101",
     "4577504101",
@@ -45,9 +45,9 @@
     "7982648",
     "7975026",
     "8002989",
+    "8027952",
     "8000323",
     "8007788",
-    "8027952",
     "7565728",
     "8003019",
     "7974943"
@@ -55,10 +55,10 @@
   "DRW": [
     "7997729",
     "7981754",
-    "7992936",
-    "8020364",
     "7991196",
+    "7992936",
     "7942281",
+    "8020364",
     "8014910",
     "8127242"
   ],
@@ -78,8 +78,8 @@
     "8024128"
   ],
   "Point72": [
-    "7297598002",
     "7297611002",
+    "7297598002",
     "7302611002",
     "8721562002",
     "7586061002",
@@ -120,8 +120,8 @@
     "7e0dafe8-3eec-442e-aa76-a4d84d779fb1"
   ],
   "Stripe": [
-    "8097801",
-    "8031833"
+    "8031833",
+    "8097801"
   ],
   "Databricks": [
     "7011263002",
@@ -134,9 +134,9 @@
   ],
   "MongoDB": [],
   "Cloudflare": [
-    "8089407",
-    "8089379",
     "8089400",
+    "8089379",
+    "8089407",
     "8118855",
     "8118845",
     "8052785"
@@ -1311,6 +1311,7 @@
   ],
   "Wayve": [],
   "zshah101 Summer 2027/Fall 2026": [
+    "github-json:zshah101-summer-2027-fall-2026:workday:availity:/job/Remote---United-States/Software-Engineering-Intern_R0008436",
     "github-json:zshah101-summer-2027-fall-2026:workday:brunswick:/job/Tulsa-OK/Software-Engineering-Intern_JR-051321",
     "github-json:zshah101-summer-2027-fall-2026:ashby:phoebe-work:1ffe3e63-2163-447e-a8b0-1fff8b87e0ca",
     "github-json:zshah101-summer-2027-fall-2026:workday:philips:/job/Plymouth-Minnesota-United-States/Graduate-Level-Co-op---Data-Scientist---Plymouth--MN---Summer-2027_590567",
@@ -2382,7 +2383,9 @@
     "simplify:45b27f18-198a-4ef0-b8f3-abb8018e7c99",
     "simplify:b364c68b-8fda-447b-b50d-dfa7fcd4039f",
     "simplify:3a9d445d-6bcb-43b3-8183-0437d5b6c332",
-    "simplify:b9776d83-bf68-42d9-88e2-4ebdd4ffda09"
+    "simplify:b9776d83-bf68-42d9-88e2-4ebdd4ffda09",
+    "simplify:6245b5b1-9a7d-4d30-aabb-19a2cedbde40",
+    "simplify:9d5887c5-a484-493a-a9cd-38e0b51c1ef6"
   ],
   "DoorDash": [],
   "Waymo": [
@@ -3289,7 +3292,9 @@
     "simplify:45b27f18-198a-4ef0-b8f3-abb8018e7c99",
     "simplify:b364c68b-8fda-447b-b50d-dfa7fcd4039f",
     "simplify:3a9d445d-6bcb-43b3-8183-0437d5b6c332",
-    "simplify:b9776d83-bf68-42d9-88e2-4ebdd4ffda09"
+    "simplify:b9776d83-bf68-42d9-88e2-4ebdd4ffda09",
+    "simplify:6245b5b1-9a7d-4d30-aabb-19a2cedbde40",
+    "simplify:9d5887c5-a484-493a-a9cd-38e0b51c1ef6"
   ],
   "Wintermute": [],
   "QCP": [],
