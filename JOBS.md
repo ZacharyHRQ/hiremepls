@@ -1,6 +1,6 @@
 # Open Internships
 
-**2766** internships across **185/188** companies — last updated 2026-08-22.
+**2768** internships across **188/188** companies — last updated 2026-08-22.
 
 ## Companies
 
@@ -170,6 +170,7 @@
 - [Broadcom Limited](#broadcom-limited) (1)
 - [Brunswick](#brunswick) (3)
 - [Buyers Edge Platform](#buyers-edge-platform) (1)
+- [By Light Professional IT Services](#by-light-professional-it-services) (1)
 - [ByteDance](#bytedance) (177)
 - [CACI](#caci) (9)
 - [Caddi Workflow Automation](#caddi-workflow-automation) (1)
@@ -222,6 +223,7 @@
 - [Codeage](#codeage) (1)
 - [Cohere](#cohere) (3)
 - [Coherent ](#coherent) (1)
+- [Cole Engineering Services](#cole-engineering-services) (1)
 - [Collective Hub, Inc](#collective-hub-inc) (1)
 - [Color](#color) (1)
 - [Commure](#commure) (1)
@@ -2286,6 +2288,12 @@
 | --- | --- | --- | --- | --- |
 | [Junior Developer - Python & Go](https://job-boards.greenhouse.io/buyersedgeplatformrecruiting/jobs/4706922005) | 93 | Remote in USA | Software | 2026-08-17 |
 
+## By Light Professional IT Services
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Design Engineer Intern](https://jobs-bylight.icims.com/jobs/11204/job?mobile=true&needsRedirect=false) | 85 | Orlando, FL | Software | 2026-08-22 |
+
 ## ByteDance
 
 | Title | Score | Location | Department | First seen |
@@ -2802,7 +2810,7 @@
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
 | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -2838,6 +2846,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Embedded Systems Software & FPGA Programmer](https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2010466) | 85 | Elmira, NY | Hardware | 2026-08-17 |
+
+## Cole Engineering Services
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://jobs-cesi.icims.com/jobs/11204/job?mobile=true&needsRedirect=false) | 85 | Orlando, FL | Software | 2026-08-22 |
 
 ## Collective Hub, Inc
 
@@ -6533,8 +6547,8 @@
 | [Quantitative Developer](https://careers.point72.com/CSJobDetail?jobName=quantitative-developer&jobCode=CSS-0013369&location=New%20York&locale=English) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-08-17 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -9226,9 +9240,3 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Application Engineer](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Erie-PA/Application-Engineer_REQ-019741) | 93 | Erie, PA | Software | 2026-08-17 |
-
-## Errors this run
-
-- **Wintermute**: workable wintermute-trading: HTTP 429
-- **QCP**: workable qcp-group: HTTP 429
-- **Hugging Face**: workable huggingface: HTTP 429
