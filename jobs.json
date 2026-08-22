@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-22T05:17:22.092Z",
+  "generatedAt": "2026-08-22T05:49:45.857Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2761,
+  "jobCount": 2762,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2764,7 +2764,8 @@
     "canonical:1abd096e64819513": "2026-08-22T04:45:53.381Z",
     "canonical:5ed9a9a79a8155ef": "2026-08-22T04:45:53.381Z",
     "canonical:32452ec542710d8f": "2026-08-22T05:17:22.092Z",
-    "canonical:4b0ab273bab26c2e": "2026-08-22T05:17:22.092Z"
+    "canonical:4b0ab273bab26c2e": "2026-08-22T05:17:22.092Z",
+    "canonical:3f44cd57fca349f6": "2026-08-22T05:49:45.857Z"
   },
   "jobs": [
     {
@@ -5593,6 +5594,20 @@
       "location": "Germantown, MD",
       "department": "Software Engineering",
       "company": "AeroVironment",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:3f44cd57fca349f6",
+      "title": "Software Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/mcghealth/jobs/8350486002",
+      "location": "Seattle, WA",
+      "department": "Software Engineering",
+      "company": "MCG Health",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
