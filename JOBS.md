@@ -1,6 +1,6 @@
 # Open Internships
 
-**2766** internships across **188/188** companies — last updated 2026-08-23.
+**2764** internships across **188/188** companies — last updated 2026-08-23.
 
 ## Companies
 
@@ -64,7 +64,7 @@
 - [Apex Technology, Inc.](#apex-technology-inc) (1)
 - [Apollo Mission Critical Engineering](#apollo-mission-critical-engineering) (1)
 - [Appian](#appian) (6)
-- [Apple](#apple) (31)
+- [Apple](#apple) (30)
 - [Applied Intuition](#applied-intuition) (5)
 - [Applied Materials](#applied-materials) (8)
 - [Applied Systems, Inc.](#applied-systems-inc) (2)
@@ -180,7 +180,7 @@
 - [Candid Health](#candid-health) (2)
 - [Canonical](#canonical) (4)
 - [Cantor Fitzgerald](#cantor-fitzgerald) (1)
-- [Canva](#canva) (7)
+- [Canva](#canva) (8)
 - [Cape](#cape) (1)
 - [Capgemini](#capgemini) (4)
 - [Capital Health](#capital-health) (1)
@@ -405,7 +405,7 @@
 - [GlobalFoundries](#globalfoundries) (4)
 - [Globus Medical](#globus-medical) (1)
 - [GM financial](#gm-financial) (2)
-- [Goldman Sachs](#goldman-sachs) (3)
+- [Goldman Sachs](#goldman-sachs) (1)
 - [Google](#google) (10)
 - [Gradient Robotics](#gradient-robotics) (1)
 - [Gritt Robotics Inc](#gritt-robotics-inc) (1)
@@ -1560,7 +1560,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Darwin Runtime Engineer - Core OS](https://jobs.apple.com/en-us/details/200662330) | 85 | Cupertino, CA | Software | 2026-08-20 |
-| [Software Engineer - IS&T Early Career Opportunities](https://jobs.apple.com/en-us/details/200678510) | 85 | Cupertino, CA / Sunnyvale, CA | Software | 2026-08-18 |
 | [AI Software Engineer](https://jobs.apple.com/en-us/details/200666380) | 85 | Cupertino, CA | Software | 2026-08-17 |
 | [Applied Data Solutions Program - Software Engineering - Full-Time Opportunities](https://jobs.apple.com/en-us/details/200677717) | 85 | Austin, TX / Cupertino, CA | AI/ML/Data | 2026-08-17 |
 | [ASIC Design and Integration Engineer – Silicon Security](https://jobs.apple.com/en-us/details/200652710) | 85 | Cupertino, CA | Hardware | 2026-08-17 |
@@ -2546,6 +2545,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [PhD Research Scientist Intern - Generative AI](https://jobs.smartrecruiters.com/Canva/6000000001289897) | 93 | SF | AI/ML/Data | 2026-08-23 |
 | [PhD Research Scientist Intern](https://jobs.smartrecruiters.com/Canva/6000000001291655-phd-research-scientist-intern) | 83 | San Francisco, CA | — | 2026-08-17 |
 | [PhD Research Scientist Intern - Edge AI](https://jobs.smartrecruiters.com/Canva/6000000001295792) | 83 | Vienna, Vienna, Austria | Information Technology | 2026-08-07 |
 | [PhD Research Scientist Intern - Edge AI](https://jobs.smartrecruiters.com/Canva/6000000001295782) | 83 | London, , United Kingdom | Information Technology | 2026-08-07 |
@@ -2801,7 +2801,7 @@
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
 | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -4087,8 +4087,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Engineering New Analyst](https://higher.gs.com/roles/171568?type=students) | 85 | Dallas, TX | Software | 2026-08-22 |
-| [Engineering New Analyst - Engineering](https://higher.gs.com/roles/171570?type=students) | 85 | Salt Lake City, UT | Software | 2026-08-22 |
 | [Software Engineer - Data](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292) | 85 | London, UK | Software | 2026-08-17 |
 
 ## Google
@@ -6536,8 +6534,8 @@
 | [Quantitative Developer](https://careers.point72.com/CSJobDetail?jobName=quantitative-developer&jobCode=CSS-0013369&location=New%20York&locale=English) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-08-17 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
