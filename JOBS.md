@@ -1,6 +1,6 @@
 # Open Internships
 
-**2768** internships across **188/188** companies — last updated 2026-08-22.
+**2766** internships across **188/188** companies — last updated 2026-08-23.
 
 ## Companies
 
@@ -259,10 +259,9 @@
 - [Cylake](#cylake) (1)
 - [D2L](#d2l) (1)
 - [D3 Global Inc](#d3-global-inc) (1)
-- [Da Vinci](#da-vinci) (1)
 - [Daikin Applied](#daikin-applied) (1)
 - [Dark Wolf Solutions](#dark-wolf-solutions) (2)
-- [Databricks](#databricks) (5)
+- [Databricks](#databricks) (4)
 - [Datadog](#datadog) (1)
 - [Datalab USA](#datalab-usa) (1)
 - [DE Shaw](#de-shaw) (1)
@@ -2802,7 +2801,7 @@
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
 | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -3087,12 +3086,6 @@
 | --- | --- | --- | --- | --- |
 | [New Grad: Backend Engineer](https://d3.com/careers#jobs-listing) | 91 | Los Angeles, CA | — | 2026-08-17 |
 
-## Da Vinci
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Graduate C++ Software Engineer](https://davincitrading.com/job/graduate-c-software-engineer-2/) | 91 | Miami, FL | — | 2026-08-22 |
-
 ## Daikin Applied
 
 | Title | Score | Location | Department | First seen |
@@ -3110,7 +3103,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [New Grad 2026: Data Scientist](https://www.databricks.com/company/careers/university-recruiting/data-scientist---new-grad-2026-start-6866554002) | 91 | Mountain View, CA / San Francisco, CA | — | 2026-08-22 |
 | [Software Engineering Intern](https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2027-start---winter-8732364002?gh_jid=8732364002) | 85 | Bellevue, Washington / Mountain View, California / San Francisco, California | — | 2026-08-21 |
 | [Software Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=8732364002) | 93 | SF / Bellevue, WA / Mountain View, CA | Software | 2026-08-21 |
 | [Software Engineering Intern (2027 Start) - Winter](https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002) | 85 | Bellevue, Washington; Mountain View, California; San Francisco, California | — | 2026-08-20 |
@@ -4848,14 +4840,14 @@
 | [AI Research Engineer Intern - Research Automation](https://boards.greenhouse.io/embed/job_app?token=8052351) | 93 | Chicago, IL / NYC | AI/ML/Data | 2026-07-08 |
 | [Campus AI Research Engineer Intern - Deep Learning](https://boards.greenhouse.io/embed/job_app?token=8052338) | 93 | Chicago, IL / NYC | AI/ML/Data | 2026-07-08 |
 | [Campus Software Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=8002989) | 93 | Chicago, IL | Software | 2026-07-08 |
-| [Campus AI Research Engineer - Deep Learning (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8052338) | 85 | Chicago; New York | Data & ML/AI / Not stated | 2026-07-08 |
-| [Campus AI Research Engineer – Research Automation (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8052351) | 85 | Chicago; New York | Data & ML/AI / Not stated | 2026-07-08 |
-| [Campus AI Research Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8052281) | 85 | Chicago; New York | Data & ML/AI / Not stated | 2026-07-08 |
 | [Campus Data Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8002998) | 85 | Chicago | — | 2026-07-08 |
 | [Campus Quantitative Researcher, PhD (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8049938) | 85 | Chicago; New York | — | 2026-07-08 |
-| [Campus Quantitative Researcher, UG/MS (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7982648) | 85 | Chicago; New York | Quant / Not stated | 2026-07-08 |
+| [Campus Quantitative Researcher, UG/MS (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7982648) | 85 | Chicago; New York | — | 2026-07-08 |
 | [Campus Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8002989) | 85 | Chicago | — | 2026-07-08 |
 | [Campus UI Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8003019) | 85 | Chicago | — | 2026-07-08 |
+| [Campus AI Research Engineer - Deep Learning (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8052338) | 75 | Chicago; New York | — | 2026-07-08 |
+| [Campus AI Research Engineer – Research Automation (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8052351) | 75 | Chicago; New York | — | 2026-07-08 |
+| [Campus AI Research Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8052281) | 75 | Chicago; New York | — | 2026-07-08 |
 | [Campus Systems Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8007788) | 75 | Chicago | — | 2026-07-08 |
 | [Campus Trading Team Software Engineer  (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7565728) | 85 | Hong Kong | — | 2026-05-06 |
 
@@ -6544,8 +6536,8 @@
 | [Quantitative Developer](https://careers.point72.com/CSJobDetail?jobName=quantitative-developer&jobCode=CSS-0013369&location=New%20York&locale=English) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-08-17 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
