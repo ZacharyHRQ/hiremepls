@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-23T13:09:26.572Z",
+  "generatedAt": "2026-08-23T13:43:24.834Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2770,
+  "jobCount": 2771,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2773,7 +2773,8 @@
     "canonical:c7c2d9fe9a446fb5": "2026-08-23T10:12:29.577Z",
     "canonical:e1cb819b5b9c30a1": "2026-08-23T10:12:29.577Z",
     "canonical:caa37dbb765c5132": "2026-08-23T11:41:55.046Z",
-    "canonical:ee2ac1afa3058d54": "2026-08-23T12:27:12.676Z"
+    "canonical:ee2ac1afa3058d54": "2026-08-23T12:27:12.676Z",
+    "canonical:b7482e35a088edef": "2026-08-23T13:43:24.834Z"
   },
   "jobs": [
     {
@@ -13509,6 +13510,20 @@
       "title": "Systems Software Engineering Intern",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
       "location": "Santa Clara, CA",
+      "department": "Software",
+      "company": "NVIDIA",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:b7482e35a088edef",
+      "title": "Software Engineering Intern",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
+      "location": "Canada / Santa Clara, CA",
       "department": "Software",
       "company": "NVIDIA",
       "score": 93,
