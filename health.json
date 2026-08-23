@@ -1,1 +1,7 @@
-{}
+{
+  "SimplifyJobs 2026": {
+    "consecutiveFailures": 1,
+    "lastError": "fetch failed",
+    "alerted": false
+  }
+}
