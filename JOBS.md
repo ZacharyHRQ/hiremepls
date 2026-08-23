@@ -1,6 +1,6 @@
 # Open Internships
 
-**2766** internships across **188/188** companies — last updated 2026-08-23.
+**2764** internships across **188/188** companies — last updated 2026-08-23.
 
 ## Companies
 
@@ -608,7 +608,7 @@
 - [Mercury Insurance](#mercury-insurance) (2)
 - [Meshy](#meshy) (2)
 - [Mesotech International](#mesotech-international) (1)
-- [Meta](#meta) (10)
+- [Meta](#meta) (9)
 - [METECS](#metecs) (1)
 - [Meticulous](#meticulous) (1)
 - [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (1)
@@ -831,7 +831,6 @@
 - [Schweitzer Engineering Laboratories](#schweitzer-engineering-laboratories) (2)
 - [Sciemo](#sciemo) (1)
 - [Scott Logic](#scott-logic) (1)
-- [Scout AI](#scout-ai) (1)
 - [Seeq](#seeq) (1)
 - [Selector Software](#selector-software) (1)
 - [Semtech](#semtech) (1)
@@ -5534,7 +5533,6 @@
 | --- | --- | --- | --- | --- |
 | [New Grad 2026: Product Security Engineer](https://www.metacareers.com/jobs/609052015548260) | 91 | Bellevue, WA / Menlo Park, CA | — | 2026-08-23 |
 | [Data Engineer, Analytics](https://www.metacareers.com/jobs/2578176955882259) | 85 | New York, NY | — | 2026-08-23 |
-| [Software Engineer](https://www.metacareers.com/jobs/1947521902323717) | 85 | Menlo Park, CA | — | 2026-08-22 |
 | [Research Scientist Intern - Photorealistic Telepresence](https://www.metacareers.com/jobs/924149567345400) | 85 | London, UK | AI/ML/Data | 2026-08-01 |
 | [Research Scientist Intern - State Estimation for Dexterous Manipulation](https://www.metacareers.com/jobs/2774289902955470) | 85 | Redmond, WA | AI/ML/Data | 2026-08-01 |
 | [Research Scientist Intern - AI/ML - Core Ads Growth](https://www.metacareers.com/jobs/771948392580541) | 85 | London, UK | AI/ML/Data | 2026-08-01 |
@@ -7254,12 +7252,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Graduate Software Developer](https://jobs.lever.co/scottlogic/9184c6d5-3adc-4043-a1d4-44da49f14e60/apply) | 99 | Newcastle upon Tyne, UK | Software | 2026-08-17 |
-
-## Scout AI
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Junior Firmware Engineer](https://job-boards.greenhouse.io/scoutai/jobs/4643333008) | 93 | Sunnyvale, CA | Software Engineering | 2026-08-22 |
 
 ## Seeq
 
