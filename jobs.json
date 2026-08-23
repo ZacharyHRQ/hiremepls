@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-23T05:51:49.413Z",
+  "generatedAt": "2026-08-23T06:22:21.122Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2762,
+  "jobCount": 2763,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2765,7 +2765,8 @@
     "canonical:f69e156649953788": "2026-08-23T05:51:49.413Z",
     "canonical:279663f272fd7395": "2026-08-23T05:51:49.413Z",
     "canonical:a109656ea187d367": "2026-08-23T05:51:49.413Z",
-    "canonical:70591c801721b8a6": "2026-08-23T05:51:49.413Z"
+    "canonical:70591c801721b8a6": "2026-08-23T05:51:49.413Z",
+    "canonical:577263c8e7fc21c9": "2026-08-23T06:22:21.122Z"
   },
   "jobs": [
     {
@@ -5930,6 +5931,20 @@
       "location": "London, UK",
       "department": "AI/ML/Data",
       "company": "HCompany",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:577263c8e7fc21c9",
+      "title": "Software Engineering Intern",
+      "url": "https://jobs.lever.co/multiplylabs/8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b",
+      "location": "San Francisco, CA",
+      "department": "Software Engineering",
+      "company": "Multiply Labs",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
