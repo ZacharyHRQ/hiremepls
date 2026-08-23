@@ -38,6 +38,8 @@ const SWE_EXPLICIT_PATTERNS = [
   /\bforward[- ]deploy(ed)?\s+engineer\b/i,
   /\bapplied\s+ai\b/i,
   /\bquant(itative)?\s+dev(eloper)?\b/i,
+  /\bmember\s+of\s+technical\s+staff\b/i,
+  /\bmts\b/i,
 ];
 
 const NON_SWE_PATTERNS = [
