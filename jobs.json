@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-23T09:49:30.153Z",
+  "generatedAt": "2026-08-23T10:12:29.577Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2756,
+  "jobCount": 2775,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -370,7 +370,6 @@
     "canonical:6956004c2fe6d76f": "2026-08-01T11:57:30.860Z",
     "canonical:62388f9a8d7fd92c": "2026-08-01T11:57:30.860Z",
     "canonical:6fbcace9a38d133f": "2026-08-01T11:57:30.860Z",
-    "canonical:165736f3f7436d71": "2026-08-01T11:57:30.860Z",
     "canonical:103b32da1ae68399": "2026-08-01T11:57:30.860Z",
     "canonical:bdaa687430a7d06e": "2026-08-01T12:56:36.100Z",
     "canonical:8060fbb0da9f52f8": "2026-08-01T12:56:36.100Z",
@@ -2759,7 +2758,27 @@
     "canonical:35b31ae093d607fe": "2026-08-23T07:44:49.551Z",
     "canonical:69d073e3a77832c4": "2026-08-23T07:44:49.551Z",
     "canonical:d0c3c1f0372a6fed": "2026-08-23T09:49:30.153Z",
-    "canonical:69922f01d0937fb4": "2026-08-23T09:49:30.153Z"
+    "canonical:69922f01d0937fb4": "2026-08-23T09:49:30.153Z",
+    "canonical:a356ac432d4a0c77": "2026-08-23T10:12:29.577Z",
+    "canonical:ea516bcb2c3049bb": "2026-08-23T10:12:29.577Z",
+    "canonical:5e8b571b6f2715f1": "2026-08-23T10:12:29.577Z",
+    "canonical:ed0787cc5a8f304f": "2026-08-23T10:12:29.577Z",
+    "canonical:cc0309861d0dc5cf": "2026-08-23T10:12:29.577Z",
+    "canonical:26d347754eaf2770": "2026-08-23T10:12:29.577Z",
+    "canonical:460cae12873e15d4": "2026-08-23T10:12:29.577Z",
+    "canonical:ec652a22e3860440": "2026-08-23T10:12:29.577Z",
+    "canonical:76286bbee665a7c8": "2026-08-23T10:12:29.577Z",
+    "canonical:358af97b2cf7ca91": "2026-08-23T10:12:29.577Z",
+    "canonical:902a75574afe5b00": "2026-08-23T10:12:29.577Z",
+    "canonical:147e2b518545228f": "2026-08-23T10:12:29.577Z",
+    "canonical:b38fb371c343f96e": "2026-08-23T10:12:29.577Z",
+    "canonical:c9314b0805ee425c": "2026-08-23T10:12:29.577Z",
+    "canonical:260becacfb12ac4d": "2026-08-23T10:12:29.577Z",
+    "canonical:450a6b4fd821a892": "2026-08-23T10:12:29.577Z",
+    "canonical:d8b1f1197089ff93": "2026-08-23T10:12:29.577Z",
+    "canonical:bd07035e3d185cef": "2026-08-23T10:12:29.577Z",
+    "canonical:c7c2d9fe9a446fb5": "2026-08-23T10:12:29.577Z",
+    "canonical:e1cb819b5b9c30a1": "2026-08-23T10:12:29.577Z"
   },
   "jobs": [
     {
@@ -5660,6 +5679,19 @@
       ]
     },
     {
+      "id": "canonical:a356ac432d4a0c77",
+      "title": "Data Scientist Intern",
+      "url": "https://careers.bcg.com/global/en/job/56634",
+      "location": "London, UK",
+      "department": "AI/ML/Data",
+      "company": "Boston Consulting Group",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:029eb3cf2b108240",
       "title": "Software Engineer Project Intern - Security-Data - 2026 Start",
       "url": "https://jobs.bytedance.com/en/position/7600175469758040325/detail",
@@ -6774,20 +6806,6 @@
       "location": "Fremont, CA",
       "department": "AI/ML/Data",
       "company": "Neuralink",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:165736f3f7436d71",
-      "title": "Data Scientist Intern",
-      "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--September-2026-12-Months-_R10065",
-      "location": "Mississauga, ON, Canada",
-      "department": "AI/ML/Data",
-      "company": "SOTI",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -8755,6 +8773,19 @@
       ]
     },
     {
+      "id": "canonical:ea516bcb2c3049bb",
+      "title": "Member of Technical Staff Intern",
+      "url": "https://ats.rippling.com/neosigma/jobs/a2ee1d26-a551-45d2-9854-6dbf8ed2c866",
+      "location": "SF",
+      "department": "Software",
+      "company": "NeoSigma",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:1c888f1275ab0501",
       "title": "Applied Scientist / Research Engineer Intern",
       "url": "https://jobs.ashbyhq.com/mistral.ai/de46ba8b-00cb-4618-83df-66e15a78434e/application?embed=true",
@@ -8980,6 +9011,20 @@
       "location": "San Bruno, CA",
       "department": "AI/ML/Data",
       "company": "Gritt Robotics Inc",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:5e8b571b6f2715f1",
+      "title": "Member of Technical Staff Research Intern",
+      "url": "https://jobs.ashbyhq.com/architect/1999377b-b23b-461f-b79a-d4edce0d46b1/application?embed=true",
+      "location": "Palo Alto, CA",
+      "department": "Software",
+      "company": "Architect Labs",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -10495,6 +10540,19 @@
       "title": "Software Engineering Intern",
       "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
       "location": "SF",
+      "department": "Software",
+      "company": "Samsara",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:ed0787cc5a8f304f",
+      "title": "Software Engineering Intern",
+      "url": "https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093",
+      "location": "London, UK",
       "department": "Software",
       "company": "Samsara",
       "score": 85,
@@ -13712,6 +13770,20 @@
       ]
     },
     {
+      "id": "canonical:cc0309861d0dc5cf",
+      "title": "Member of Technical Staff Intern - Research",
+      "url": "https://jobs.ashbyhq.com/abundant/1ebf7fda-c322-404d-acc3-2757bbd79996/application?embed=true",
+      "location": "SF",
+      "department": "Software",
+      "company": "Abundant",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:38b95e9312401a1d",
       "title": "Embedded Software Engineer Intern",
       "url": "https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3/apply",
@@ -15048,6 +15120,18 @@
       ]
     },
     {
+      "id": "canonical:26d347754eaf2770",
+      "title": "Member of Technical Staff Intern",
+      "url": "https://ats.rippling.com/en-GB/neosigma/jobs/a2ee1d26-a551-45d2-9854-6dbf8ed2c866",
+      "location": "San Francisco, CA",
+      "department": "",
+      "company": "NeoSigma",
+      "score": 75,
+      "scoreReasons": [
+        "SWE-aligned"
+      ]
+    },
+    {
       "id": "canonical:4d3ecad04d206251",
       "title": "Software Engineer Intern",
       "url": "https://ats.rippling.com/en-GB/greengas/jobs/b2938290-cc66-4f54-9888-bbe286c1d9b6",
@@ -15355,6 +15439,18 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:460cae12873e15d4",
+      "title": "Member of Technical Staff Intern",
+      "url": "https://touchdown-labs.com/careers/mts-intern/?jr_id=6a68292c50dec41e3527e633",
+      "location": "San Francisco, CA",
+      "department": "",
+      "company": "Touchdown Labs",
+      "score": 75,
+      "scoreReasons": [
+        "SWE-aligned"
       ]
     },
     {
@@ -18226,6 +18322,20 @@
       ]
     },
     {
+      "id": "canonical:ec652a22e3860440",
+      "title": "AI Fellow - Member of Technical Staff",
+      "url": "https://jobs.ashbyhq.com/cogent-security/96b36c74-096a-4ec6-a71e-84a43385cc4f/application",
+      "location": "SF",
+      "department": "Software",
+      "company": "Cogent Security",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:b8de15a7e284ae07",
       "title": "Machine Learning Engineer - AI Inference Solutions",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/Machine-Learning-Engineer--AI-Inference-Solutions--University-Grad-_JR-202610103",
@@ -21082,6 +21192,21 @@
       ]
     },
     {
+      "id": "canonical:76286bbee665a7c8",
+      "title": "Member of Technical Staff New Grad - Machine Learning Capabilities",
+      "url": "https://jobs.ashbyhq.com/Preference-Model/44642065-e592-44ba-810d-a019703463b6/application",
+      "location": "Seattle, WA / Toronto, ON, Canada / SF",
+      "department": "AI/ML/Data",
+      "company": "Preference Model",
+      "score": 99,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:8a62fe33c6cf1f74",
       "title": "Research Developer New Grad",
       "url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009",
@@ -23355,6 +23480,19 @@
       ]
     },
     {
+      "id": "canonical:358af97b2cf7ca91",
+      "title": "Member of Technical Staff 2 - Service Provider",
+      "url": "https://jobs.jobvite.com/nutanix/job/oiHuAfwN?nl=1&nl=1&fr=false",
+      "location": "Vancouver, BC, Canada",
+      "department": "Software",
+      "company": "Nutanix",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:28270aef7cdb5bbd",
       "title": "Safety Software 1&C Engineer HMI Systems",
       "url": "https://careers.westinghousenuclear.com/job/Warrendale-Safety-SW-I&C-Engineer-HMI-Systems-OR/1410998600/?ats=successfactors",
@@ -25481,6 +25619,20 @@
       "location": "Redwood City, CA",
       "department": "Software",
       "company": "Dome Systems Inc",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:902a75574afe5b00",
+      "title": "Evaluations - Member of Technical Staff",
+      "url": "https://jobs.ashbyhq.com/simile/33d75074-c23b-4a1f-bfdb-129bcc5be662/application?embed=true",
+      "location": "SF / NYC",
+      "department": "Software",
+      "company": "Simile",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -31396,6 +31548,18 @@
       ]
     },
     {
+      "id": "canonical:147e2b518545228f",
+      "title": "Lead MTS Application Engineer - Memory Interface",
+      "url": "https://careers-rambus.icims.com/jobs/23024/job?mobile=true&needsRedirect=false",
+      "location": "San Jose, CA",
+      "department": "Hardware",
+      "company": "Rambus",
+      "score": 75,
+      "scoreReasons": [
+        "SWE-aligned"
+      ]
+    },
+    {
       "id": "canonical:3c9a6f918e96acfd",
       "title": "Heavy-Ion Physics and Scientific Machine Learning Postdoctoral Researcher",
       "url": "https://jobs.smartrecruiters.com/LLNL/3743990014571757",
@@ -33740,6 +33904,21 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:b38fb371c343f96e",
+      "title": "Member of Technical Staff New Grad",
+      "url": "https://jobs.ashbyhq.com/ambral/bfcfbd07-03b9-4e7c-82b1-b17d7c3a5e90/application?embed=true",
+      "location": "SF / NYC",
+      "department": "Software",
+      "company": "Ambral",
+      "score": 99,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
         "direct ATS"
       ]
     },
@@ -38696,6 +38875,19 @@
       ]
     },
     {
+      "id": "canonical:c9314b0805ee425c",
+      "title": "Member of Technical Staff",
+      "url": "https://jobs.ashbyhq.com/interaction/56b66af2-bce5-4ad7-baf9-ace14eb6a29a",
+      "location": "San Francisco, CA",
+      "department": "",
+      "company": "Interaction",
+      "score": 83,
+      "scoreReasons": [
+        "SWE-aligned",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:6dd9c55399dcd368",
       "title": "Software Engineer, Fullstack, Early Career",
       "url": "https://jobs.ashbyhq.com/notion/f7399542-9122-481a-bf64-43bf8093748b",
@@ -39441,6 +39633,34 @@
       ]
     },
     {
+      "id": "canonical:260becacfb12ac4d",
+      "title": "New Grad: Software Engineer I",
+      "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4749965101",
+      "location": "Santa Monica, CA",
+      "department": "",
+      "company": "StubHub",
+      "score": 99,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:450a6b4fd821a892",
+      "title": "Member of Technical Staff, MLE",
+      "url": "https://jobs.ashbyhq.com/cohere/110ba167-4efd-43b7-85d2-3ff719a28b0f",
+      "location": "San Francisco, CA / New York, NY / Toronto, Canada / Montreal, Canada / Remote",
+      "department": "",
+      "company": "Cohere",
+      "score": 83,
+      "scoreReasons": [
+        "SWE-aligned",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:6e399664106d4514",
       "title": "Software Engineer",
       "url": "https://unity.com/careers/positions/7435121",
@@ -39573,6 +39793,19 @@
       ]
     },
     {
+      "id": "canonical:d8b1f1197089ff93",
+      "title": "Software Engineer I, Masters",
+      "url": "https://www.uber.com/global/en/careers/list/157785/",
+      "location": "San Francisco, CA",
+      "department": "",
+      "company": "Uber Technologies, Inc.",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:18f09f1024f4183b",
       "title": "New Grad: Software Engineer",
       "url": "https://jobs.ashbyhq.com/notion/a6311f97-4850-4674-a5f3-d9fe5f6f2555",
@@ -39585,6 +39818,19 @@
         "high-signal role",
         "new grad",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:bd07035e3d185cef",
+      "title": "Software Engineer I",
+      "url": "https://jobs.uber.com/en/jobs/160017/?_csid=BOBcQVO6jwRuNsBKbjoAZA&effect=&sm_flow_id=92Yhskrz&state=xlA80FxvL-2272sFxrCsxXWLk7KQR60tJLE43FsTxHI%3D",
+      "location": "Seattle, Washington",
+      "department": "",
+      "company": "Uber Technologies, Inc.",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
@@ -39625,6 +39871,19 @@
       "score": 75,
       "scoreReasons": [
         "SWE-aligned"
+      ]
+    },
+    {
+      "id": "canonical:c7c2d9fe9a446fb5",
+      "title": "Software Engineer 1",
+      "url": "https://careers.cisco.com/global/en/job/1449197",
+      "location": "San Jose, CA",
+      "department": "",
+      "company": "Cisco",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
@@ -39691,6 +39950,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:e1cb819b5b9c30a1",
+      "title": "Software Engineer, Intern (Summer 2026)",
+      "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002?fbclid=PAQ0xDSwK38VtleHRuA2FlbQIxMQABpwFCtP3w0jUMJ2UyUfRb7jqEW6gF5Rr31twvg5geVxUyYXlmmQrGSEf9O3Pw_aem_MfePXp-UnrQgRcTvm_Lh4Q",
+      "location": "Chicago",
+      "department": "",
+      "company": "Citadel",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {

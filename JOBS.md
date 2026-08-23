@@ -1,6 +1,6 @@
 # Open Internships
 
-**2756** internships across **188/188** companies — last updated 2026-08-23.
+**2775** internships across **188/188** companies — last updated 2026-08-23.
 
 ## Companies
 
@@ -12,6 +12,7 @@
 - [Abound](#abound) (3)
 - [Abridge](#abridge) (1)
 - [Absolute Facility Solutions](#absolute-facility-solutions) (1)
+- [Abundant](#abundant) (1)
 - [Accenture](#accenture) (3)
 - [Adidev Technologies Inc](#adidev-technologies-inc) (3)
 - [Adobe](#adobe) (2)
@@ -41,6 +42,7 @@
 - [Altice USA](#altice-usa) (2)
 - [AMAX](#amax) (1)
 - [Amazon](#amazon) (45)
+- [Ambral](#ambral) (1)
 - [Ambrook](#ambrook) (2)
 - [Amcor](#amcor) (1)
 - [AMD](#amd) (9)
@@ -71,6 +73,7 @@
 - [AQR](#aqr) (1)
 - [Aquatic Capital](#aquatic-capital) (1)
 - [Aquatic Capital Management](#aquatic-capital-management) (4)
+- [Architect Labs](#architect-labs) (1)
 - [Ardian](#ardian) (1)
 - [Arevon](#arevon) (1)
 - [Argmax](#argmax) (1)
@@ -158,7 +161,7 @@
 - [Bosch](#bosch) (3)
 - [Bosch Home Comfort](#bosch-home-comfort) (1)
 - [Boson Ai](#boson-ai) (1)
-- [Boston Consulting Group](#boston-consulting-group) (2)
+- [Boston Consulting Group](#boston-consulting-group) (3)
 - [Boston Engineering](#boston-engineering) (1)
 - [Boston Scientific](#boston-scientific) (1)
 - [Bot Auto](#bot-auto) (3)
@@ -207,7 +210,8 @@
 - [Ciena](#ciena) (3)
 - [Circleback](#circleback) (1)
 - [Cirrus Logic](#cirrus-logic) (1)
-- [Cisco](#cisco) (1)
+- [Cisco](#cisco) (2)
+- [Citadel](#citadel) (1)
 - [Citi](#citi) (1)
 - [Citizen Health](#citizen-health) (1)
 - [City and County of San Francisco](#city-and-county-of-san-francisco) (1)
@@ -220,7 +224,8 @@
 - [Cloudscaler](#cloudscaler) (1)
 - [Codan Limited](#codan-limited) (1)
 - [Codeage](#codeage) (1)
-- [Cohere](#cohere) (3)
+- [Cogent Security](#cogent-security) (1)
+- [Cohere](#cohere) (4)
 - [Coherent ](#coherent) (1)
 - [Cole Engineering Services](#cole-engineering-services) (1)
 - [Collective Hub, Inc](#collective-hub-inc) (1)
@@ -480,6 +485,7 @@
 - [Integrity](#integrity) (1)
 - [Intel](#intel) (6)
 - [IntelliGenesis](#intelligenesis) (2)
+- [Interaction](#interaction) (1)
 - [Interdigital](#interdigital) (1)
 - [interface.ai](#interface-ai) (1)
 - [InterImage](#interimage) (3)
@@ -643,6 +649,7 @@
 - [NCR Voyix](#ncr-voyix) (1)
 - [Nebo](#nebo) (2)
 - [Nelnet](#nelnet) (1)
+- [NeoSigma](#neosigma) (2)
 - [Netflix](#netflix) (1)
 - [Netic](#netic) (3)
 - [Netsmart](#netsmart) (1)
@@ -675,7 +682,7 @@
 - [NTT DATA AIVista](#ntt-data-aivista) (1)
 - [Nucleus Biologics](#nucleus-biologics) (1)
 - [Nuro](#nuro) (4)
-- [Nutanix](#nutanix) (1)
+- [Nutanix](#nutanix) (2)
 - [NVIDIA](#nvidia) (17)
 - [NXP Semiconductors](#nxp-semiconductors) (2)
 - [Observable Space](#observable-space) (1)
@@ -740,6 +747,7 @@
 - [PPL](#ppl) (1)
 - [PPLSI](#pplsi) (1)
 - [Praetorian](#praetorian) (1)
+- [Preference Model](#preference-model) (1)
 - [Prelim](#prelim) (1)
 - [Presidency Solutions](#presidency-solutions) (1)
 - [Prior Labs](#prior-labs) (1)
@@ -771,6 +779,7 @@
 - [Radius Limited](#radius-limited) (1)
 - [Radix Trading](#radix-trading) (1)
 - [Rainmaker](#rainmaker) (1)
+- [Rambus](#rambus) (1)
 - [Ramp](#ramp) (4)
 - [Ranger](#ranger) (1)
 - [RBI](#rbi) (1)
@@ -819,7 +828,7 @@
 - [Saalex](#saalex) (1)
 - [Sajix](#sajix) (3)
 - [Salesforce](#salesforce) (1)
-- [Samsara](#samsara) (4)
+- [Samsara](#samsara) (5)
 - [Sandhills Global](#sandhills-global) (2)
 - [Sandisk](#sandisk) (2)
 - [Saronic](#saronic) (1)
@@ -850,6 +859,7 @@
 - [Sigla](#sigla) (1)
 - [Sigma](#sigma) (1)
 - [Sigma Computing](#sigma-computing) (1)
+- [Simile](#simile) (1)
 - [SimIS](#simis) (1)
 - [SimonComputing](#simoncomputing) (1)
 - [Simple AI](#simple-ai) (1)
@@ -876,7 +886,6 @@
 - [Sony](#sony) (1)
 - [Sophos](#sophos) (1)
 - [SOSi](#sosi) (1)
-- [SOTI](#soti) (1)
 - [SourceDirect Talent](#sourcedirect-talent) (1)
 - [Southern States, LLC](#southern-states-llc) (2)
 - [SpaceX](#spacex) (30)
@@ -904,6 +913,7 @@
 - [Strada](#strada) (1)
 - [Stripe](#stripe) (4)
 - [Stryker](#stryker) (1)
+- [StubHub](#stubhub) (1)
 - [Subaru](#subaru) (1)
 - [SugarCRM](#sugarcrm) (1)
 - [Sun Life](#sun-life) (1)
@@ -964,6 +974,7 @@
 - [TJX](#tjx) (1)
 - [TMEIC Corporation Americas](#tmeic-corporation-americas) (1)
 - [Torc Robotics](#torc-robotics) (1)
+- [Touchdown Labs](#touchdown-labs) (1)
 - [Tower Health](#tower-health) (1)
 - [Tower Research](#tower-research) (1)
 - [Tower Research Capital](#tower-research-capital) (4)
@@ -987,6 +998,7 @@
 - [Two Sigma](#two-sigma) (4)
 - [Uare.ai](#uare-ai) (1)
 - [UBDS Group](#ubds-group) (1)
+- [Uber Technologies, Inc.](#uber-technologies-inc) (2)
 - [UJET](#ujet) (1)
 - [UL Solutions](#ul-solutions) (1)
 - [Uline](#uline) (1)
@@ -1139,6 +1151,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Application Engineer](https://jobs.smartrecruiters.com/AbsoluteFacilitySolutionsLLC/744000093987850) | 93 | Lakeway, TX | Software | 2026-08-17 |
+
+## Abundant
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Member of Technical Staff Intern - Research](https://jobs.ashbyhq.com/abundant/1ebf7fda-c322-404d-acc3-2757bbd79996/application?embed=true) | 93 | SF | Software | 2026-08-23 |
 
 ## Accenture
 
@@ -1373,6 +1391,12 @@
 | [Amazon Industrial Robotics - Applied Scientist II Intern / Co-op - 2026, Amazon Industrial Robotics](https://www.amazon.jobs/en/jobs/3132414/amazon-industrial-robotics-applied-scientist-ii-intern-co-op-2026-amazon-industrial-robotics) | 85 | North Reading, Massachusetts, USA | Data & ML/AI / Fall 2026 | 2026-07-13 |
 | [Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)](https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us) | 85 | Seattle, Washington, USA | Data & ML/AI / Fall 2026 | 2026-07-13 |
 | [Software Development Engineer Intern - Military Veteran](https://amazon.jobs/en/jobs/3179209/software-development-engineer-internship-military-veteran) | 85 | NYC / Culver City, CA / Santa Clara, CA / Boston, MA / Seattle, WA / Denver, CO / SF / Arlington, VA / Sunnyvale, CA / Brooklyn, NY / Williston Park, NY | Software | 2026-05-09 |
+
+## Ambral
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Member of Technical Staff New Grad](https://jobs.ashbyhq.com/ambral/bfcfbd07-03b9-4e7c-82b1-b17d7c3a5e90/application?embed=true) | 99 | SF / NYC | Software | 2026-08-23 |
 
 ## Ambrook
 
@@ -1639,6 +1663,12 @@
 | [Software Engineer – Early Career](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489226002) | 93 | Chicago, IL / NYC | Software | 2026-08-17 |
 | [Quantitative Researcher – Intern](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) | 93 | London, UK / Chicago, IL | Quant | 2026-07-20 |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) | 93 | London, UK / Chicago, IL | Software | 2026-07-20 |
+
+## Architect Labs
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Member of Technical Staff Research Intern](https://jobs.ashbyhq.com/architect/1999377b-b23b-461f-b79a-d4edce0d46b1/application?embed=true) | 93 | Palo Alto, CA | Software | 2026-08-23 |
 
 ## Ardian
 
@@ -2211,6 +2241,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data Scientist Intern](https://careers.bcg.com/global/en/job/56634) | 85 | London, UK | AI/ML/Data | 2026-08-23 |
 | [Forward Deployed AI Scientist - Campus](https://careers.bcg.com/global/en/job/59068) | 85 | Boston, MA / Seattle, WA / Washington, DC / SF / LA / Miami, FL / Dallas, TX / Chicago, IL / Pittsburgh, PA / NYC / Brooklyn, NY / Manhattan Beach, CA | AI/ML/Data | 2026-08-21 |
 | [AI Engineer Intern - BCG X](https://careers.bcg.com/global/en/job/56635) | 85 | London, UK | AI/ML/Data | 2026-08-15 |
 
@@ -2741,7 +2772,14 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer 1](https://careers.cisco.com/global/en/job/1449197) | 85 | San Jose, CA | — | 2026-08-23 |
 | [Software Engineer 3 - ENG/CPO/WTG ETR](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-III--Full-Time----United-States-ENG-CPO-WTG-ETR_2022055) | 93 | Milpitas, CA | Hardware | 2026-08-21 |
+
+## Citadel
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer, Intern (Summer 2026)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002?fbclid=PAQ0xDSwK38VtleHRuA2FlbQIxMQABpwFCtP3w0jUMJ2UyUfRb7jqEW6gF5Rr31twvg5geVxUyYXlmmQrGSEf9O3Pw_aem_MfePXp-UnrQgRcTvm_Lh4Q) | 93 | Chicago | — | 2026-08-23 |
 
 ## Citi
 
@@ -2822,10 +2860,17 @@
 | --- | --- | --- | --- | --- |
 | [Web Developer Intern - Wordpress and Woocommerce](https://jobs.smartrecruiters.com/Codeage/743999669081604) | 93 | Culver City, CA | Software | 2026-05-09 |
 
+## Cogent Security
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI Fellow - Member of Technical Staff](https://jobs.ashbyhq.com/cogent-security/96b36c74-096a-4ec6-a71e-84a43385cc4f/application) | 93 | SF | Software | 2026-08-23 |
+
 ## Cohere
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Member of Technical Staff, MLE](https://jobs.ashbyhq.com/cohere/110ba167-4efd-43b7-85d2-3ff719a28b0f) | 83 | San Francisco, CA / New York, NY / Toronto, Canada / Montreal, Canada / Remote | — | 2026-08-23 |
 | [Full-Stack Senior Engineer (Front-End Leaning)](https://jobs.ashbyhq.com/cohere/b470a959-e111-4a65-a8eb-5665b24d48b5) | 83 | Toronto, Canada / Montreal / New York, NY / Vancouver, Canada | — | 2026-08-17 |
 | [Software Engineer Intern (Fall / Winter 2026)](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254) | 90 | — | Internships | 2026-07-02 |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254/application) | 93 | Toronto, ON, Canada / SF / NYC | Software | 2026-05-09 |
@@ -4592,6 +4637,12 @@
 | [Software Engineer 0](http://intelligenesis.applytojob.com/apply/JgkJsYNePv/Software-Engineer-Level-0) | 85 | Annapolis Junction, MD | Software | 2026-08-17 |
 | [Applied Data Scientist Intern](http://intelligenesis.applytojob.com/apply/synY3toJUH/Applied-Data-Scientist-Internship-DoW-SkillBridge) | 85 | Columbia, MD | AI/ML/Data | 2026-08-03 |
 
+## Interaction
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Member of Technical Staff](https://jobs.ashbyhq.com/interaction/56b66af2-bce5-4ad7-baf9-ace14eb6a29a) | 83 | San Francisco, CA | — | 2026-08-23 |
+
 ## Interdigital
 
 | Title | Score | Location | Department | First seen |
@@ -5778,6 +5829,13 @@
 | --- | --- | --- | --- | --- |
 | [AI Engineer Intern](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---AI-Engineer_R22763) | 93 | Lincoln, NE | AI/ML/Data | 2026-08-01 |
 
+## NeoSigma
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Member of Technical Staff Intern](https://ats.rippling.com/neosigma/jobs/a2ee1d26-a551-45d2-9854-6dbf8ed2c866) | 85 | SF | Software | 2026-08-23 |
+| [Member of Technical Staff Intern](https://ats.rippling.com/en-GB/neosigma/jobs/a2ee1d26-a551-45d2-9854-6dbf8ed2c866) | 75 | San Francisco, CA | — | 2026-08-23 |
+
 ## Netflix
 
 | Title | Score | Location | Department | First seen |
@@ -6029,6 +6087,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Member of Technical Staff 2 - Service Provider](https://jobs.jobvite.com/nutanix/job/oiHuAfwN?nl=1&nl=1&fr=false) | 85 | Vancouver, BC, Canada | Software | 2026-08-23 |
 | [Software Engineer 1 / Early Career - Backend C++/Linux/AWS-S3](https://jobs.jobvite.com/nutanix/job/oGXDxfwx?nl=1&nl=1&fr=false) | 85 | Durham, NC | — | 2026-08-17 |
 
 ## NVIDIA
@@ -6591,6 +6650,12 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer](https://www.praetorian.com/careers/?gh_jid=5386005003#job-opening) | 85 | Austin, TX | Software | 2026-08-17 |
 
+## Preference Model
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Member of Technical Staff New Grad - Machine Learning Capabilities](https://jobs.ashbyhq.com/Preference-Model/44642065-e592-44ba-810d-a019703463b6/application) | 99 | Seattle, WA / Toronto, ON, Canada / SF | AI/ML/Data | 2026-08-23 |
+
 ## Prelim
 
 | Title | Score | Location | Department | First seen |
@@ -6812,6 +6877,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern](https://jobs.lever.co/make-rain/b45f954e-19df-45b1-8748-c8ae442a2e8b) | 93 | El Segundo, CA | Software Engineering | 2026-05-09 |
+
+## Rambus
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Lead MTS Application Engineer - Memory Interface](https://careers-rambus.icims.com/jobs/23024/job?mobile=true&needsRedirect=false) | 75 | San Jose, CA | Hardware | 2026-08-23 |
 
 ## Ramp
 
@@ -7170,6 +7241,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineering Intern](https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093) | 85 | London, UK | Software | 2026-08-23 |
 | [Software Engineer 1 New Grad](https://www.samsara.com/company/careers/roles/8097345?gh_jid=8097345) | 91 | London, UK | Software | 2026-08-20 |
 | [New Grad: Software Engineering](https://www.samsara.com/company/careers/roles/7172579) | 91 | San Francisco, CA | — | 2026-08-17 |
 | [Software Engineer 1 New Grad](https://www.samsara.com/company/careers/roles/8097343?gh_jid=8097343) | 91 | SF | Software | 2026-08-17 |
@@ -7373,6 +7445,12 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer New Grad](https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003) | 99 | SF / NYC | Software | 2026-08-17 |
 
+## Simile
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Evaluations - Member of Technical Staff](https://jobs.ashbyhq.com/simile/33d75074-c23b-4a1f-bfdb-129bcc5be662/application?embed=true) | 93 | SF / NYC | Software | 2026-08-23 |
+
 ## SimIS
 
 | Title | Score | Location | Department | First seen |
@@ -7537,12 +7615,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [PeopleSoft Software Developer](https://jobs.smartrecruiters.com/SOSi1/3743990012453536) | 93 | Charleston, SC | Software | 2026-08-17 |
-
-## SOTI
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Scientist Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--September-2026-12-Months-_R10065) | 93 | Mississauga, ON, Canada | AI/ML/Data | 2026-08-01 |
 
 ## SourceDirect Talent
 
@@ -7754,6 +7826,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Development Engineer](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Indiana-Fort-Wayne-1950-West-Cook-Road/Software-Development-Engineer_R570340) | 93 | Fort Wayne, IN | Software | 2026-08-18 |
+
+## StubHub
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [New Grad: Software Engineer I](https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4749965101) | 99 | Santa Monica, CA | — | 2026-08-23 |
 
 ## Subaru
 
@@ -8445,6 +8523,12 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer 1 - Metrics for Release](https://job-boards.greenhouse.io/torcrobotics/jobs/8676173002) | 93 | Blacksburg, VA / Ann Arbor, MI / Fort Worth, TX | Software | 2026-08-20 |
 
+## Touchdown Labs
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Member of Technical Staff Intern](https://touchdown-labs.com/careers/mts-intern/?jr_id=6a68292c50dec41e3527e633) | 75 | San Francisco, CA | — | 2026-08-23 |
+
 ## Tower Health
 
 | Title | Score | Location | Department | First seen |
@@ -8600,6 +8684,13 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Data Engineer](https://apply.workable.com/ubds/j/3E4DD87355/apply) | 93 | London, UK | AI/ML/Data | 2026-08-17 |
+
+## Uber Technologies, Inc.
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer I](https://jobs.uber.com/en/jobs/160017/?_csid=BOBcQVO6jwRuNsBKbjoAZA&effect=&sm_flow_id=92Yhskrz&state=xlA80FxvL-2272sFxrCsxXWLk7KQR60tJLE43FsTxHI%3D) | 85 | Seattle, Washington | — | 2026-08-23 |
+| [Software Engineer I, Masters](https://www.uber.com/global/en/careers/list/157785/) | 85 | San Francisco, CA | — | 2026-08-23 |
 
 ## UJET
 
