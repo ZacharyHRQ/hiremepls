@@ -158,7 +158,7 @@
 - [Bosch](#bosch) (3)
 - [Bosch Home Comfort](#bosch-home-comfort) (1)
 - [Boson Ai](#boson-ai) (1)
-- [Boston Consulting Group](#boston-consulting-group) (3)
+- [Boston Consulting Group](#boston-consulting-group) (2)
 - [Boston Engineering](#boston-engineering) (1)
 - [Boston Scientific](#boston-scientific) (1)
 - [Bot Auto](#bot-auto) (3)
@@ -587,7 +587,7 @@
 - [Mass General Brigham](#mass-general-brigham) (1)
 - [Mastercard](#mastercard) (2)
 - [Mathtech](#mathtech) (2)
-- [Maven Securities](#maven-securities) (1)
+- [Maven Securities](#maven-securities) (2)
 - [Maxima](#maxima) (1)
 - [Maya HTT](#maya-htt) (2)
 - [McDonald's](#mcdonald-s) (1)
@@ -812,14 +812,14 @@
 - [Royal Bank of Canada](#royal-bank-of-canada) (2)
 - [Royal Caribbean Group](#royal-caribbean-group) (1)
 - [RRS Group](#rrs-group) (2)
-- [RTX](#rtx) (37)
+- [RTX](#rtx) (38)
 - [RunSybil](#runsybil) (1)
 - [Ryder System](#ryder-system) (1)
 - [SA Technologies](#sa-technologies) (2)
 - [Saalex](#saalex) (1)
 - [Sajix](#sajix) (3)
 - [Salesforce](#salesforce) (1)
-- [Samsara](#samsara) (5)
+- [Samsara](#samsara) (4)
 - [Sandhills Global](#sandhills-global) (2)
 - [Sandisk](#sandisk) (2)
 - [Saronic](#saronic) (1)
@@ -2211,7 +2211,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Data Scientist Intern](https://careers.bcg.com/global/en/job/56634) | 85 | London, UK | AI/ML/Data | 2026-08-21 |
 | [Forward Deployed AI Scientist - Campus](https://careers.bcg.com/global/en/job/59068) | 85 | Boston, MA / Seattle, WA / Washington, DC / SF / LA / Miami, FL / Dallas, TX / Chicago, IL / Pittsburgh, PA / NYC / Brooklyn, NY / Manhattan Beach, CA | AI/ML/Data | 2026-08-21 |
 | [AI Engineer Intern - BCG X](https://careers.bcg.com/global/en/job/56635) | 85 | London, UK | AI/ML/Data | 2026-08-15 |
 
@@ -5391,6 +5390,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Graduate Developer](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048802) | 99 | Chicago, IL | Software | 2026-08-23 |
 | [Quantitative Researcher New Grad](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048830) | 99 | Chicago, IL | Quant | 2026-08-20 |
 
 ## Maxima
@@ -7088,6 +7088,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01867892) | 93 | Aurora, CO | Software | 2026-08-23 |
 | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineer-I--Onsite-_01868305) | 93 | Aurora, CO | Software | 2026-08-22 |
 | [Software Engineer 2 - Effectors](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Raytheon-Full-Time---Effectors-Software-Engineer-II---Tucson--AZ--Onsite-_01820536) | 93 | Tucson, AZ | Hardware | 2026-08-21 |
 | [Factory Analytics Data Scientist 1](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Analytics-Data-Scientist-I--Remote-_01867723) | 93 | Cedar Rapids, IA | AI/ML/Data | 2026-08-20 |
@@ -7170,7 +7171,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer 1 New Grad](https://www.samsara.com/company/careers/roles/8097345?gh_jid=8097345) | 91 | London, UK | Software | 2026-08-20 |
-| [Software Engineering Intern](https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093) | 85 | London, UK | Software | 2026-08-18 |
 | [New Grad: Software Engineering](https://www.samsara.com/company/careers/roles/7172579) | 91 | San Francisco, CA | — | 2026-08-17 |
 | [Software Engineer 1 New Grad](https://www.samsara.com/company/careers/roles/8097343?gh_jid=8097343) | 91 | SF | Software | 2026-08-17 |
 | [Software Engineering Intern](https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091) | 85 | SF | Software | 2026-08-04 |
