@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-23T20:36:12.951Z",
+  "generatedAt": "2026-08-23T20:57:06.735Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2795,
+  "jobCount": 2759,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2757,43 +2757,7 @@
     "canonical:c9314b0805ee425c": "2026-08-23T10:12:29.577Z",
     "canonical:450a6b4fd821a892": "2026-08-23T10:12:29.577Z",
     "canonical:b7482e35a088edef": "2026-08-23T13:43:24.834Z",
-    "canonical:7456697d3cb7b42f": "2026-08-23T14:45:43.013Z",
-    "canonical:85e8bbf185683405": "2026-08-23T14:45:43.013Z",
-    "canonical:f84c81f16f79dae9": "2026-08-23T14:45:43.013Z",
-    "canonical:3ebd458a3c1241c1": "2026-08-23T14:45:43.013Z",
-    "canonical:2f400cac610eb44d": "2026-08-23T14:45:43.013Z",
-    "canonical:84665b5f62f305f4": "2026-08-23T14:45:43.013Z",
-    "canonical:018ef7f8b5354333": "2026-08-23T14:45:43.013Z",
-    "canonical:df6056312e05d997": "2026-08-23T14:45:43.013Z",
-    "canonical:7e77aa63006b14db": "2026-08-23T14:45:43.013Z",
-    "canonical:899b22def644ff06": "2026-08-23T14:45:43.013Z",
-    "canonical:09ae29fd77b17064": "2026-08-23T14:45:43.013Z",
-    "canonical:7fd0670d484537cc": "2026-08-23T14:45:43.013Z",
     "canonical:d1a37efb926fdbc6": "2026-08-23T14:45:43.013Z",
-    "canonical:6ee86ecda01f6e5b": "2026-08-23T14:45:43.013Z",
-    "canonical:51814d369cf2bf64": "2026-08-23T14:45:43.013Z",
-    "canonical:644581c64d1e4b78": "2026-08-23T14:45:43.013Z",
-    "canonical:4bdffe8be81037b9": "2026-08-23T14:45:43.013Z",
-    "canonical:60cfd2fb21a11877": "2026-08-23T14:45:43.013Z",
-    "canonical:86994145630d1f63": "2026-08-23T14:45:43.013Z",
-    "canonical:e75f53f33efb22f6": "2026-08-23T14:45:43.013Z",
-    "canonical:eba8e3ffcabf194c": "2026-08-23T14:45:43.013Z",
-    "canonical:54a6221a16bbdc63": "2026-08-23T14:45:43.013Z",
-    "canonical:fe572c71a5ab9c31": "2026-08-23T14:45:43.013Z",
-    "canonical:e381065935c247c1": "2026-08-23T14:45:43.013Z",
-    "canonical:0e108b96fa523a2f": "2026-08-23T14:45:43.013Z",
-    "canonical:76c549f184df2a5e": "2026-08-23T14:45:43.013Z",
-    "canonical:9651b98e5f8702b9": "2026-08-23T14:45:43.013Z",
-    "canonical:0367545bff95a377": "2026-08-23T14:45:43.013Z",
-    "canonical:f279999732296cf8": "2026-08-23T14:45:43.013Z",
-    "canonical:958e2c70945c5efd": "2026-08-23T14:45:43.013Z",
-    "canonical:33f25da39718dd5a": "2026-08-23T14:45:43.013Z",
-    "canonical:a0728c9333671c3c": "2026-08-23T14:45:43.013Z",
-    "canonical:efea6224aa6c8fae": "2026-08-23T14:45:43.013Z",
-    "canonical:c4aaa32313cd9c87": "2026-08-23T14:45:43.013Z",
-    "canonical:6700cf7ce51f7f67": "2026-08-23T14:45:43.013Z",
-    "canonical:0a4362a1a66398a5": "2026-08-23T14:45:43.013Z",
-    "canonical:422365aeff7c0754": "2026-08-23T14:45:43.013Z",
     "canonical:1869c3e8ff779ad9": "2026-08-23T14:45:43.013Z",
     "canonical:ec8eec6143922e01": "2026-08-23T15:12:01.506Z",
     "canonical:d1da7b2ac572df8f": "2026-08-23T15:12:01.506Z",
@@ -3292,18 +3256,6 @@
       ]
     },
     {
-      "id": "canonical:4d567555739a50bd",
-      "title": "Campus Systems Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
-      "location": "Singapore",
-      "department": "",
-      "company": "Jump Trading",
-      "score": 75,
-      "scoreReasons": [
-        "SWE-aligned"
-      ]
-    },
-    {
       "id": "canonical:eea417b083785298",
       "title": "Campus Systems Engineer (Intern)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
@@ -3320,6 +3272,18 @@
       "title": "Campus Systems Engineer (Intern)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
       "location": "Chicago",
+      "department": "",
+      "company": "Jump Trading",
+      "score": 75,
+      "scoreReasons": [
+        "SWE-aligned"
+      ]
+    },
+    {
+      "id": "canonical:4d567555739a50bd",
+      "title": "Campus Systems Engineer (Intern)",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
+      "location": "Singapore",
       "department": "",
       "company": "Jump Trading",
       "score": 75,
@@ -3395,38 +3359,10 @@
       ]
     },
     {
-      "id": "canonical:81000bcd395c1244",
-      "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
-      "location": "Montreal, QC, Canada",
-      "department": "Software",
-      "company": "DRW",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:1d41c103b87b651a",
       "title": "Software Developer Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
       "location": "Chicago, IL",
-      "department": "Software",
-      "company": "DRW",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:bd72b8a6944f6777",
-      "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
-      "location": "London, UK",
       "department": "Software",
       "company": "DRW",
       "score": 93,
@@ -3442,6 +3378,34 @@
       "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
       "location": "Amsterdam",
       "department": "",
+      "company": "DRW",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:81000bcd395c1244",
+      "title": "Software Developer Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
+      "location": "Montreal, QC, Canada",
+      "department": "Software",
+      "company": "DRW",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:bd72b8a6944f6777",
+      "title": "Software Developer Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
+      "location": "London, UK",
+      "department": "Software",
       "company": "DRW",
       "score": 93,
       "scoreReasons": [
@@ -3595,10 +3559,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -3609,10 +3573,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -5302,10 +5266,10 @@
       ]
     },
     {
-      "id": "canonical:62beda5aaf0fcc6c",
+      "id": "canonical:e8a5b9fc6e1a4de2",
       "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
-      "location": "Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
+      "location": "Bengaluru",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -5315,10 +5279,10 @@
       ]
     },
     {
-      "id": "canonical:e8a5b9fc6e1a4de2",
+      "id": "canonical:62beda5aaf0fcc6c",
       "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
-      "location": "Bengaluru",
+      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
+      "location": "Dublin",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -5413,7 +5377,7 @@
     {
       "id": "canonical:073e340d37608d22",
       "title": "Software Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -14541,19 +14505,6 @@
       ]
     },
     {
-      "id": "canonical:7456697d3cb7b42f",
-      "title": "Member Of Technical Staff Intern",
-      "url": "https://www.workatastartup.com/jobs/83224",
-      "location": "San Francisco, CA",
-      "department": "",
-      "company": "Herdora",
-      "score": 81,
-      "scoreReasons": [
-        "SWE-aligned",
-        "YC job"
-      ]
-    },
-    {
       "id": "canonical:8b6a7e2f0fd78ebe",
       "title": "Software Engineering Intern, OTA Integration",
       "url": "https://careers.rivianvw.tech/rivian-vw-group-technology/jobs/27233/job",
@@ -14589,33 +14540,6 @@
       "score": 75,
       "scoreReasons": [
         "SWE-aligned"
-      ]
-    },
-    {
-      "id": "canonical:85e8bbf185683405",
-      "title": "Full-Stack Software Engineering Intern",
-      "url": "https://www.workatastartup.com/jobs/85257",
-      "location": "San Francisco, CA",
-      "department": "",
-      "company": "Sixtyfour (X25)",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "YC job"
-      ]
-    },
-    {
-      "id": "canonical:f84c81f16f79dae9",
-      "title": "AI Full-Stack Engineering Intern",
-      "url": "https://www.workatastartup.com/jobs/86239",
-      "location": "San Mateo, CA",
-      "department": "",
-      "company": "EdgeTrace",
-      "score": 81,
-      "scoreReasons": [
-        "SWE-aligned",
-        "YC job"
       ]
     },
     {
@@ -14821,45 +14745,6 @@
       ]
     },
     {
-      "id": "canonical:3ebd458a3c1241c1",
-      "title": "Forward Deployed Engineer Intern",
-      "url": "https://www.workatastartup.com/jobs/94400",
-      "location": "San Francisco, CA",
-      "department": "",
-      "company": "Dedalus Labs",
-      "score": 81,
-      "scoreReasons": [
-        "SWE-aligned",
-        "YC job"
-      ]
-    },
-    {
-      "id": "canonical:2f400cac610eb44d",
-      "title": "Forward Deployed Engineering Intern",
-      "url": "https://www.workatastartup.com/jobs/94211",
-      "location": "New York, NY",
-      "department": "",
-      "company": "DimeHealth AI",
-      "score": 81,
-      "scoreReasons": [
-        "SWE-aligned",
-        "YC job"
-      ]
-    },
-    {
-      "id": "canonical:84665b5f62f305f4",
-      "title": "Forward Deployed Engineer (FDE) Intern",
-      "url": "https://www.workatastartup.com/jobs/93642",
-      "location": "San Francisco, CA",
-      "department": "",
-      "company": "Paragon",
-      "score": 81,
-      "scoreReasons": [
-        "SWE-aligned",
-        "YC job"
-      ]
-    },
-    {
       "id": "canonical:edb691ef74330e5c",
       "title": "Software Engineering Intern, Embedded Systems",
       "url": "https://jobs.ashbyhq.com/apex-technology-inc/5ec2dfa9-724d-4ce4-ab97-5067ec747f11",
@@ -14884,88 +14769,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:018ef7f8b5354333",
-      "title": "Research Scientist Intern",
-      "url": "https://www.workatastartup.com/jobs/94620",
-      "location": "San Francisco, CA / New York, NY",
-      "department": "",
-      "company": "Trata",
-      "score": 81,
-      "scoreReasons": [
-        "SWE-aligned",
-        "YC job"
-      ]
-    },
-    {
-      "id": "canonical:df6056312e05d997",
-      "title": "Summer Intern - AI/ML Engineering",
-      "url": "https://www.workatastartup.com/jobs/94631",
-      "location": "San Francisco, CA",
-      "department": "",
-      "company": "Terranox AI",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "YC job"
-      ]
-    },
-    {
-      "id": "canonical:7e77aa63006b14db",
-      "title": "Software Engineering Intern, Research Focused",
-      "url": "https://www.workatastartup.com/jobs/94634",
-      "location": "San Francisco, CA",
-      "department": "",
-      "company": "Abundant",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "YC job"
-      ]
-    },
-    {
-      "id": "canonical:899b22def644ff06",
-      "title": "Software Engineer Intern",
-      "url": "https://www.workatastartup.com/jobs/94647",
-      "location": "San Francisco, CA / Remote",
-      "department": "",
-      "company": "Naïve",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "YC job"
-      ]
-    },
-    {
-      "id": "canonical:09ae29fd77b17064",
-      "title": "Software Engineer Intern",
-      "url": "https://www.workatastartup.com/jobs/95003",
-      "location": "San Mateo, CA",
-      "department": "",
-      "company": "StarSling",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "YC job"
-      ]
-    },
-    {
-      "id": "canonical:7fd0670d484537cc",
-      "title": "Full Stack Engineering Intern",
-      "url": "https://www.workatastartup.com/jobs/94993",
-      "location": "San Francisco, CA",
-      "department": "",
-      "company": "Nash",
-      "score": 81,
-      "scoreReasons": [
-        "SWE-aligned",
-        "YC job"
       ]
     },
     {
@@ -36544,21 +36347,6 @@
       ]
     },
     {
-      "id": "canonical:6ee86ecda01f6e5b",
-      "title": "New Grad: Software Engineer",
-      "url": "https://www.workatastartup.com/jobs/75855",
-      "location": "New York, NY",
-      "department": "",
-      "company": "Greenboard (W24)",
-      "score": 97,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
-        "YC job"
-      ]
-    },
-    {
       "id": "canonical:84f81dcd34328024",
       "title": "Software Engineer I",
       "url": "https://elrj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/search/job/4261",
@@ -38698,34 +38486,6 @@
       ]
     },
     {
-      "id": "canonical:51814d369cf2bf64",
-      "title": "Founding Engineer (Full Stack)",
-      "url": "https://www.workatastartup.com/jobs/81292",
-      "location": "San Francisco, CA",
-      "department": "",
-      "company": "YouLearn",
-      "score": 81,
-      "scoreReasons": [
-        "SWE-aligned",
-        "YC job"
-      ]
-    },
-    {
-      "id": "canonical:644581c64d1e4b78",
-      "title": "New Grad 2025: Software Engineer",
-      "url": "https://www.workatastartup.com/jobs/81441",
-      "location": "San Francisco, CA",
-      "department": "",
-      "company": "Agave (W22)",
-      "score": 97,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
-        "YC job"
-      ]
-    },
-    {
       "id": "canonical:9c3b9d907735cbb0",
       "title": "Android Engineer",
       "url": "https://careers.tripadvisor.com/job?jobId=7234900",
@@ -38879,19 +38639,6 @@
       ]
     },
     {
-      "id": "canonical:4bdffe8be81037b9",
-      "title": "Founding AI Engineer",
-      "url": "https://www.workatastartup.com/jobs/81444",
-      "location": "San Francisco, CA",
-      "department": "",
-      "company": "Sonia",
-      "score": 81,
-      "scoreReasons": [
-        "SWE-aligned",
-        "YC job"
-      ]
-    },
-    {
       "id": "canonical:24633b40de1cc320",
       "title": "Software Engineer",
       "url": "https://jobs.ashbyhq.com/Anima/a6b86f92-0679-423b-b575-a23f8677dfd1",
@@ -38903,19 +38650,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:60cfd2fb21a11877",
-      "title": "Founding Engineer (Full-Stack)",
-      "url": "https://www.workatastartup.com/jobs/81629",
-      "location": "San Francisco, CA",
-      "department": "",
-      "company": "Planbase",
-      "score": 81,
-      "scoreReasons": [
-        "SWE-aligned",
-        "YC job"
       ]
     },
     {
@@ -39258,128 +38992,6 @@
       ]
     },
     {
-      "id": "canonical:86994145630d1f63",
-      "title": "Software Engineer (Full Stack)",
-      "url": "https://www.workatastartup.com/jobs/83503",
-      "location": "San Francisco, CA",
-      "department": "",
-      "company": "Apten",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "YC job"
-      ]
-    },
-    {
-      "id": "canonical:e75f53f33efb22f6",
-      "title": "New Grad: Full-Stack Software Engineer",
-      "url": "https://www.workatastartup.com/jobs/83356",
-      "location": "San Francisco, CA / San Mateo, CA / Palo Alto, CA / Menlo Park, CA / Redwood City, CA",
-      "department": "",
-      "company": "StarSling (X25)",
-      "score": 97,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
-        "YC job"
-      ]
-    },
-    {
-      "id": "canonical:eba8e3ffcabf194c",
-      "title": "Founding Software Engineer",
-      "url": "https://www.workatastartup.com/jobs/83287",
-      "location": "Palo Alto, CA",
-      "department": "",
-      "company": "Taro",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "YC job"
-      ]
-    },
-    {
-      "id": "canonical:54a6221a16bbdc63",
-      "title": "Member of Technical Staff",
-      "url": "https://www.workatastartup.com/jobs/83031",
-      "location": "San Francisco, CA",
-      "department": "",
-      "company": "Herdora",
-      "score": 81,
-      "scoreReasons": [
-        "SWE-aligned",
-        "YC job"
-      ]
-    },
-    {
-      "id": "canonical:fe572c71a5ab9c31",
-      "title": "Full Stack Engineer",
-      "url": "https://www.workatastartup.com/jobs/83025",
-      "location": "Atlanta, GA",
-      "department": "",
-      "company": "Corgi",
-      "score": 81,
-      "scoreReasons": [
-        "SWE-aligned",
-        "YC job"
-      ]
-    },
-    {
-      "id": "canonical:e381065935c247c1",
-      "title": "Full-Stack Engineer - Agent Marketplace (In-Person RWC Only)",
-      "url": "https://www.workatastartup.com/jobs/82935",
-      "location": "Redwood City, CA",
-      "department": "",
-      "company": "Maitai",
-      "score": 81,
-      "scoreReasons": [
-        "SWE-aligned",
-        "YC job"
-      ]
-    },
-    {
-      "id": "canonical:0e108b96fa523a2f",
-      "title": "Founding Machine Learning Engineer",
-      "url": "https://www.workatastartup.com/jobs/82877",
-      "location": "San Francisco, CA",
-      "department": "",
-      "company": "Stamp",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "YC job"
-      ]
-    },
-    {
-      "id": "canonical:76c549f184df2a5e",
-      "title": "Founding Mobile Engineer",
-      "url": "https://www.workatastartup.com/jobs/82875",
-      "location": "San Francisco, CA",
-      "department": "",
-      "company": "Stamp (W25)",
-      "score": 81,
-      "scoreReasons": [
-        "SWE-aligned",
-        "YC job"
-      ]
-    },
-    {
-      "id": "canonical:9651b98e5f8702b9",
-      "title": "Founding Full Stack Engineer",
-      "url": "https://www.workatastartup.com/jobs/82876",
-      "location": "San Francisco, CA",
-      "department": "",
-      "company": "Stamp",
-      "score": 81,
-      "scoreReasons": [
-        "SWE-aligned",
-        "YC job"
-      ]
-    },
-    {
       "id": "canonical:7d581871d925807a",
       "title": "Software Engineer, Xcode Intelligence Experience",
       "url": "https://jobs.apple.com/en-us/details/200626941-0836/software-engineer-xcode-intelligence-experience",
@@ -39404,62 +39016,6 @@
         "SWE-aligned",
         "high-signal role",
         "new grad"
-      ]
-    },
-    {
-      "id": "canonical:0367545bff95a377",
-      "title": "New Grad: Full-Stack Software Engineer",
-      "url": "https://www.workatastartup.com/jobs/83760",
-      "location": "San Francisco, CA / Remote",
-      "department": "",
-      "company": "Wanderlog (W19)",
-      "score": 97,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
-        "YC job"
-      ]
-    },
-    {
-      "id": "canonical:f279999732296cf8",
-      "title": "New Grad: Full-Stack Software Engineer",
-      "url": "https://www.workatastartup.com/jobs/83761",
-      "location": "Remote / Toronto, Canada",
-      "department": "",
-      "company": "Wanderlog (W19)",
-      "score": 97,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
-        "YC job"
-      ]
-    },
-    {
-      "id": "canonical:958e2c70945c5efd",
-      "title": "Founding Engineer, AI Research Agents (Full-Stack)",
-      "url": "https://www.workatastartup.com/jobs/80466",
-      "location": "San Francisco, CA",
-      "department": "",
-      "company": "Sixtyfour (X25)",
-      "score": 81,
-      "scoreReasons": [
-        "SWE-aligned",
-        "YC job"
-      ]
-    },
-    {
-      "id": "canonical:33f25da39718dd5a",
-      "title": "Member of Technical Staff",
-      "url": "https://www.workatastartup.com/jobs/83750",
-      "location": "San Francisco, CA",
-      "department": "",
-      "company": "Anthrogen",
-      "score": 81,
-      "scoreReasons": [
-        "SWE-aligned",
-        "YC job"
       ]
     },
     {
@@ -39568,20 +39124,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:a0728c9333671c3c",
-      "title": "Robotics Software Engineering - Real-Time Control & Embedded Systems",
-      "url": "https://www.workatastartup.com/jobs/76499",
-      "location": "Palo Alto, CA",
-      "department": "",
-      "company": "Proception Inc",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "YC job"
       ]
     },
     {
@@ -39721,34 +39263,6 @@
       ]
     },
     {
-      "id": "canonical:efea6224aa6c8fae",
-      "title": "Forward Deployed Engineer",
-      "url": "https://www.workatastartup.com/jobs/85445",
-      "location": "San Francisco, CA",
-      "department": "",
-      "company": "Phonely",
-      "score": 81,
-      "scoreReasons": [
-        "SWE-aligned",
-        "YC job"
-      ]
-    },
-    {
-      "id": "canonical:c4aaa32313cd9c87",
-      "title": "New Grad: Full-Stack Software Engineer",
-      "url": "https://www.workatastartup.com/jobs/85460",
-      "location": "Remote",
-      "department": "",
-      "company": "Wanderlog (W19)",
-      "score": 97,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
-        "YC job"
-      ]
-    },
-    {
       "id": "canonical:7e7a1e24f1e80172",
       "title": "Software Engineer, ML Tools",
       "url": "https://careers.withwaymo.com/jobs/software-engineer-ml-tools-mountain-view-california-united-states",
@@ -39800,46 +39314,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:6700cf7ce51f7f67",
-      "title": "Full-Stack Software Engineer",
-      "url": "https://www.workatastartup.com/jobs/86704",
-      "location": "Toronto, Canada / Remote",
-      "department": "",
-      "company": "Wanderlog",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "YC job"
-      ]
-    },
-    {
-      "id": "canonical:0a4362a1a66398a5",
-      "title": "Member of Technical Staff",
-      "url": "https://www.workatastartup.com/jobs/85607",
-      "location": "San Francisco, CA",
-      "department": "",
-      "company": "Trellis AI",
-      "score": 81,
-      "scoreReasons": [
-        "SWE-aligned",
-        "YC job"
-      ]
-    },
-    {
-      "id": "canonical:422365aeff7c0754",
-      "title": "Founding Engineer (Full-Stack)",
-      "url": "https://www.workatastartup.com/jobs/86588",
-      "location": "San Francisco, CA, US",
-      "department": "",
-      "company": "Planbase",
-      "score": 81,
-      "scoreReasons": [
-        "SWE-aligned",
-        "YC job"
       ]
     },
     {
