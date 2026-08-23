@@ -1,6 +1,6 @@
 # Open Internships
 
-**2793** internships across **188/188** companies — last updated 2026-08-23.
+**2795** internships across **188/188** companies — last updated 2026-08-23.
 
 ## Companies
 
@@ -618,7 +618,7 @@
 - [Mercury Insurance](#mercury-insurance) (2)
 - [Meshy](#meshy) (2)
 - [Mesotech International](#mesotech-international) (1)
-- [Meta](#meta) (7)
+- [Meta](#meta) (9)
 - [METECS](#metecs) (1)
 - [Meticulous](#meticulous) (1)
 - [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (1)
@@ -5615,6 +5615,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data Engineer, Analytics](https://www.metacareers.com/jobs/2578176955882259) | 85 | New York, NY | — | 2026-08-23 |
+| [Software Engineer](https://www.metacareers.com/jobs/1947521902323717) | 85 | Menlo Park, CA | — | 2026-08-23 |
 | [Research Scientist Intern - Photorealistic Telepresence](https://www.metacareers.com/jobs/924149567345400) | 85 | London, UK | AI/ML/Data | 2026-08-01 |
 | [Research Scientist Intern - State Estimation for Dexterous Manipulation](https://www.metacareers.com/jobs/2774289902955470) | 85 | Redmond, WA | AI/ML/Data | 2026-08-01 |
 | [Research Scientist Intern - AI/ML - Core Ads Growth](https://www.metacareers.com/jobs/771948392580541) | 85 | London, UK | AI/ML/Data | 2026-08-01 |
