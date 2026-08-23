@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-23T21:16:23.201Z",
+  "generatedAt": "2026-08-23T21:42:10.130Z",
   "companyCount": 188,
-  "okCount": 187,
+  "okCount": 188,
   "jobCount": 2760,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
@@ -40598,10 +40598,5 @@
       ]
     }
   ],
-  "errors": [
-    {
-      "company": "Wintermute",
-      "message": "workable wintermute-trading: HTTP 429"
-    }
-  ]
+  "errors": []
 }

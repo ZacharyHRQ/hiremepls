@@ -1,6 +1,6 @@
 # Open Internships
 
-**2760** internships across **187/188** companies — last updated 2026-08-23.
+**2760** internships across **188/188** companies — last updated 2026-08-23.
 
 ## Companies
 
@@ -9268,7 +9268,3 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Application Engineer](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Erie-PA/Application-Engineer_REQ-019741) | 93 | Erie, PA | Software | 2026-08-17 |
-
-## Errors this run
-
-- **Wintermute**: workable wintermute-trading: HTTP 429

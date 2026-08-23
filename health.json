@@ -1,7 +1,1 @@
-{
-  "Wintermute": {
-    "consecutiveFailures": 1,
-    "lastError": "workable wintermute-trading: HTTP 429",
-    "alerted": false
-  }
-}
+{}
