@@ -61,6 +61,55 @@ const ASSUME_EARLY_CAREER = new Set(["SimplifyJobs New Grad", "vanshb03 New Grad
 // and breaks again.
 const FAILURE_ALERT_THRESHOLD = 3;
 
+// Company fetches ran strictly sequentially, one `await` at a time, with no
+// per-request timeout — a single slow or unresponsive source (no fetcher
+// passes an AbortSignal) could stall the entire run well past the 15-minute
+// cron cadence. Fetch with bounded concurrency instead, and give each
+// company a hard wall-clock budget so a stuck source can't block the rest
+// of the run (it still fails open into `errors`/health tracking, same as
+// any other fetch failure).
+const FETCH_CONCURRENCY = 16;
+const FETCH_TIMEOUT_MS = 20_000;
+
+function withTimeout<T>(promise: Promise<T>, ms: number): Promise<T> {
+  return new Promise((resolve, reject) => {
+    const timer = setTimeout(() => reject(new Error(`timed out after ${ms}ms`)), ms);
+    promise.then(
+      (v) => {
+        clearTimeout(timer);
+        resolve(v);
+      },
+      (e) => {
+        clearTimeout(timer);
+        reject(e);
+      },
+    );
+  });
+}
+
+async function fetchAllCompanies(
+  companies: Company[],
+): Promise<{ company: Company; jobs: Job[]; error?: string }[]> {
+  const results: { company: Company; jobs: Job[]; error?: string }[] = new Array(companies.length);
+  const queue = companies.map((company, index) => ({ company, index }));
+
+  async function worker() {
+    for (;;) {
+      const item = queue.shift();
+      if (!item) return;
+      try {
+        const jobs = await withTimeout(fetchCompany(item.company), FETCH_TIMEOUT_MS);
+        results[item.index] = { company: item.company, jobs };
+      } catch (e) {
+        results[item.index] = { company: item.company, jobs: [], error: (e as Error).message };
+      }
+    }
+  }
+
+  await Promise.all(Array.from({ length: FETCH_CONCURRENCY }, worker));
+  return results;
+}
+
 async function loadJson<T>(path: string, fallback: T): Promise<T> {
   try {
     return JSON.parse(await readFile(path, "utf8")) as T;
@@ -155,14 +204,11 @@ async function main() {
     return true;
   };
 
-  for (const company of companies) {
-    let jobs: Job[];
-    try {
-      jobs = await fetchCompany(company);
-    } catch (e) {
-      const message = (e as Error).message;
-      console.warn(`✗ ${company.name}: ${message}`);
-      errors.push({ company: company.name, message });
+  const fetchResults = await fetchAllCompanies(companies);
+  for (const { company, jobs, error } of fetchResults) {
+    if (error) {
+      console.warn(`✗ ${company.name}: ${error}`);
+      errors.push({ company: company.name, message: error });
       continue;
     }
     okCount++;
