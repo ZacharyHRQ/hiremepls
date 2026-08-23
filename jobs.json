@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-23T10:56:49.251Z",
+  "generatedAt": "2026-08-23T11:15:34.061Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2775,
+  "jobCount": 2771,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2574,7 +2574,6 @@
     "canonical:83fa398ed0967f47": "2026-08-21T02:11:33.462Z",
     "canonical:5e911b9d0516ed45": "2026-08-21T02:11:33.462Z",
     "canonical:dd0ed1328dc77054": "2026-08-21T02:11:33.462Z",
-    "canonical:bbddf18d9a9db81e": "2026-08-21T02:11:33.462Z",
     "canonical:54aefa749fb34f4e": "2026-08-21T02:11:33.462Z",
     "canonical:9088c6a91ca53619": "2026-08-21T02:11:33.462Z",
     "canonical:98be26aa424aec3e": "2026-08-21T02:11:33.462Z",
@@ -2749,10 +2748,7 @@
     "canonical:a109656ea187d367": "2026-08-23T05:51:49.413Z",
     "canonical:70591c801721b8a6": "2026-08-23T05:51:49.413Z",
     "canonical:577263c8e7fc21c9": "2026-08-23T06:22:21.122Z",
-    "canonical:d1da7b2ac572df8f": "2026-08-23T07:08:26.373Z",
     "canonical:5ccbdd16c804408f": "2026-08-23T07:08:26.373Z",
-    "canonical:caa37dbb765c5132": "2026-08-23T07:08:26.373Z",
-    "canonical:ee2ac1afa3058d54": "2026-08-23T07:08:26.373Z",
     "canonical:8bdb59b88f306731": "2026-08-23T07:44:49.551Z",
     "canonical:a161cb3e6c42588c": "2026-08-23T07:44:49.551Z",
     "canonical:35b31ae093d607fe": "2026-08-23T07:44:49.551Z",
@@ -28862,20 +28858,6 @@
       ]
     },
     {
-      "id": "canonical:bbddf18d9a9db81e",
-      "title": "Associate Embedded Software Engineer - Manufacturing",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2026-Associate-Embedded-Software-Engineer--Manufacturing----Rolling-Meadows-IL_R10244230",
-      "location": "Rolling Meadows, IL",
-      "department": "Hardware",
-      "company": "Northrop Grumman",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:5618f4f48254c29c",
       "title": "Programmer 1 - Neurology",
       "url": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Programmer-I---Neurology_JR96482",
@@ -33170,19 +33152,6 @@
       ]
     },
     {
-      "id": "canonical:d1da7b2ac572df8f",
-      "title": "Engineering New Analyst - Engineering",
-      "url": "https://higher.gs.com/roles/171570?type=students",
-      "location": "Salt Lake City, UT",
-      "department": "Software",
-      "company": "Goldman Sachs",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:5ccbdd16c804408f",
       "title": "Engineering New Analyst",
       "url": "https://higher.gs.com/roles/171568?type=students",
@@ -33226,19 +33195,6 @@
       ]
     },
     {
-      "id": "canonical:caa37dbb765c5132",
-      "title": "Engineering New Analyst - Engineering",
-      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
-      "location": "Seattle, WA",
-      "department": "Software",
-      "company": "Goldman Sachs",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:f3ba0dab3d1890be",
       "title": "Senior Applied AI & ML Engineer",
       "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/UK---London/Senior-Applied-AI---ML-Engineer---Evinova_R-257950-1",
@@ -33264,19 +33220,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:ee2ac1afa3058d54",
-      "title": "New Analyst - Engineering",
-      "url": "https://higher.gs.com/roles/171569?type=students",
-      "location": "NYC",
-      "department": "Software",
-      "company": "Goldman Sachs",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
