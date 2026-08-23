@@ -1,6 +1,6 @@
 # Open Internships
 
-**2771** internships across **188/188** companies — last updated 2026-08-23.
+**2769** internships across **188/188** companies — last updated 2026-08-23.
 
 ## Companies
 
@@ -290,7 +290,6 @@
 - [DMC Engineering](#dmc-engineering) (1)
 - [Dmg Media](#dmg-media) (1)
 - [Docugami](#docugami) (1)
-- [Docusign](#docusign) (1)
 - [Dome Systems Inc](#dome-systems-inc) (1)
 - [Doppel](#doppel) (1)
 - [Draper](#draper) (1)
@@ -591,7 +590,7 @@
 - [Marriott International](#marriott-international) (3)
 - [Marvell](#marvell) (3)
 - [Mass General Brigham](#mass-general-brigham) (1)
-- [Mastercard](#mastercard) (2)
+- [Mastercard](#mastercard) (1)
 - [Mathtech](#mathtech) (2)
 - [Maven Securities](#maven-securities) (2)
 - [Maxima](#maxima) (1)
@@ -718,7 +717,7 @@
 - [PennState University](#pennstate-university) (2)
 - [Pennsylvania State University](#pennsylvania-state-university) (16)
 - [People Culture Talent](#people-culture-talent) (1)
-- [Peraton](#peraton) (10)
+- [Peraton](#peraton) (9)
 - [Perpay](#perpay) (1)
 - [Perplexity](#perplexity) (2)
 - [Perplexity AI](#perplexity-ai) (1)
@@ -838,6 +837,7 @@
 - [Schweitzer Engineering Laboratories](#schweitzer-engineering-laboratories) (2)
 - [Sciemo](#sciemo) (1)
 - [Scott Logic](#scott-logic) (1)
+- [Scout AI](#scout-ai) (1)
 - [Seeq](#seeq) (1)
 - [Selector Software](#selector-software) (1)
 - [Semtech](#semtech) (1)
@@ -2836,7 +2836,7 @@
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
 | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -3317,12 +3317,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/docugami/jobs/4014838003) | 93 | Kirkland, WA | Software | 2026-05-15 |
-
-## Docusign
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer](https://uscareers-docusign.icims.com/jobs/27628/software-engineering/job) | 85 | Seattle, WA | — | 2026-08-23 |
 
 ## Dome Systems Inc
 
@@ -5425,7 +5419,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer I](https://careers.mastercard.com/us/en/job/MASRUSR245943EXTERNALENUS/Software-Engineer-I-SDET-Java) | 85 | Vancouver, Canada | — | 2026-08-23 |
 | [Software Engineer 1 - AI and Decision Product Enablement](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-280783) | 93 | O'Fallon, MO | Software | 2026-08-17 |
 
 ## Mathtech
@@ -6450,7 +6443,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineering, Associate](https://careers-peraton.icims.com/jobs/158789/software-engineering%2c-associate/job) | 85 | Herndon, VA | — | 2026-08-23 |
 | [Web Architect](https://careers-peraton.icims.com/jobs/168482/job?mobile=true&needsRedirect=false) | 85 | Fort Huachuca, Sierra Vista, AZ | Software | 2026-08-21 |
 | [COBOL Software Developer](https://careers-peraton.icims.com/jobs/169891/job?mobile=true&needsRedirect=false) | 85 | United States | Software | 2026-08-21 |
 | [Cloud Software Engineer 1](https://careers-peraton.icims.com/jobs/164003/job?mobile=true&needsRedirect=false) | 85 | Odenton, MD | Software | 2026-08-17 |
@@ -6578,8 +6570,8 @@
 | [Quantitative Developer](https://careers.point72.com/CSJobDetail?jobName=quantitative-developer&jobCode=CSS-0013369&location=New%20York&locale=English) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-08-17 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -7301,6 +7293,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Graduate Software Developer](https://jobs.lever.co/scottlogic/9184c6d5-3adc-4043-a1d4-44da49f14e60/apply) | 99 | Newcastle upon Tyne, UK | Software | 2026-08-17 |
+
+## Scout AI
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Junior Firmware Engineer](https://job-boards.greenhouse.io/scoutai/jobs/4643333008) | 93 | Sunnyvale, CA | Software Engineering | 2026-08-23 |
 
 ## Seeq
 
