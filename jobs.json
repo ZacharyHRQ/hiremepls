@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T11:15:34.061Z",
+  "generatedAt": "2026-08-23T11:41:55.046Z",
   "companyCount": 188,
   "okCount": 188,
   "jobCount": 2771,
@@ -2302,7 +2302,6 @@
     "canonical:e5b96073876c4b8e": "2026-08-17T22:39:29.520Z",
     "canonical:e95e1f4511b78d10": "2026-08-17T22:39:29.520Z",
     "canonical:6a461237b6874bb6": "2026-08-17T22:39:29.520Z",
-    "canonical:08650c2a2fdaec7e": "2026-08-17T22:39:29.520Z",
     "canonical:f542996e9f0ac366": "2026-08-17T22:39:29.520Z",
     "canonical:8c4d8f63998ec90a": "2026-08-17T22:39:29.520Z",
     "canonical:27fa785a8c847430": "2026-08-17T22:39:29.520Z",
@@ -2774,7 +2773,8 @@
     "canonical:d8b1f1197089ff93": "2026-08-23T10:12:29.577Z",
     "canonical:bd07035e3d185cef": "2026-08-23T10:12:29.577Z",
     "canonical:c7c2d9fe9a446fb5": "2026-08-23T10:12:29.577Z",
-    "canonical:e1cb819b5b9c30a1": "2026-08-23T10:12:29.577Z"
+    "canonical:e1cb819b5b9c30a1": "2026-08-23T10:12:29.577Z",
+    "canonical:caa37dbb765c5132": "2026-08-23T11:41:55.046Z"
   },
   "jobs": [
     {
@@ -33195,6 +33195,19 @@
       ]
     },
     {
+      "id": "canonical:caa37dbb765c5132",
+      "title": "Engineering New Analyst - Engineering",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
+      "location": "Seattle, WA",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:f3ba0dab3d1890be",
       "title": "Senior Applied AI & ML Engineer",
       "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/UK---London/Senior-Applied-AI---ML-Engineer---Evinova_R-257950-1",
@@ -33401,20 +33414,6 @@
       ]
     },
     {
-      "id": "canonical:08650c2a2fdaec7e",
-      "title": "Embedded Software/Firmware Engineer 1",
-      "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Lafayette-Colorado-United-States-of-America/Embedded-Software--Firmware-R-D-Engineer-I_R73869",
-      "location": "Lafayette, CO",
-      "department": "Hardware",
-      "company": "Medtronic",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:f542996e9f0ac366",
       "title": "Machine Learning Engineer - Tapestry",
       "url": "https://x.company/careers/8722582002?gh_jid=8722582002",
@@ -33494,19 +33493,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:7d9fac443826ab1a",
-      "title": "Associate Software Engineer - Software Engineering",
-      "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1420290900/?ats=successfactors",
-      "location": "Rochester, NY",
-      "department": "Hardware",
-      "company": "L3Harris Technologies",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -34424,6 +34410,19 @@
       "location": "Northford, CT",
       "department": "Software",
       "company": "Honeywell",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:7d9fac443826ab1a",
+      "title": "Associate Software Engineer - Software Engineering",
+      "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1421017800/?ats=successfactors",
+      "location": "Rochester, NY",
+      "department": "Hardware",
+      "company": "L3Harris Technologies",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
