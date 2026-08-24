@@ -1,6 +1,6 @@
 # Open Internships
 
-**2748** internships across **188/188** companies — last updated 2026-08-24.
+**2746** internships across **188/188** companies — last updated 2026-08-24.
 
 ## Companies
 
@@ -197,7 +197,7 @@
 - [Catapult](#catapult) (1)
 - [Cayuse Holdings](#cayuse-holdings) (1)
 - [Cboe](#cboe) (1)
-- [Celonis](#celonis) (2)
+- [Celonis](#celonis) (1)
 - [Centerfield](#centerfield) (2)
 - [Centific](#centific) (1)
 - [Cerebras](#cerebras) (7)
@@ -264,7 +264,7 @@
 - [D3 Global Inc](#d3-global-inc) (1)
 - [Daikin Applied](#daikin-applied) (1)
 - [Dark Wolf Solutions](#dark-wolf-solutions) (2)
-- [Databricks](#databricks) (5)
+- [Databricks](#databricks) (4)
 - [Datadog](#datadog) (1)
 - [Datalab USA](#datalab-usa) (1)
 - [DE Shaw](#de-shaw) (1)
@@ -2671,7 +2671,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Associate Value Engineer - AI-Driven Data Science & Analytics - Orbit Program](https://job-boards.greenhouse.io/celonis/jobs/7781716003?gh_jid=7781716003) | 93 | Raleigh, NC | AI/ML/Data | 2026-08-24 |
-| [Associate Value Engineer - AI-Driven Data Science & Analytics - Orbit Program](https://job-boards.greenhouse.io/celonis/jobs/7725788003?gh_jid=7725788003) | 93 | NYC | AI/ML/Data | 2026-08-17 |
 
 ## Centerfield
 
@@ -3121,7 +3120,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [New Grad 2026: Data Scientist](https://www.databricks.com/company/careers/university-recruiting/data-scientist---new-grad-2026-start-6866554002) | 91 | Mountain View, CA / San Francisco, CA | — | 2026-08-24 |
 | [Software Engineering Intern](https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2027-start---winter-8732364002?gh_jid=8732364002) | 85 | Bellevue, Washington / Mountain View, California / San Francisco, California | — | 2026-08-21 |
 | [Software Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=8732364002) | 93 | SF / Bellevue, WA / Mountain View, CA | Software | 2026-08-21 |
 | [Software Engineering Intern (2027 Start) - Winter](https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002) | 85 | Bellevue, Washington; Mountain View, California; San Francisco, California | — | 2026-08-20 |

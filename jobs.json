@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-24T11:17:50.505Z",
+  "generatedAt": "2026-08-24T11:49:57.061Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2748,
+  "jobCount": 2746,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1207,7 +1207,6 @@
     "canonical:8a62fe33c6cf1f74": "2026-08-17T16:14:31.608Z",
     "canonical:c6cfaf714a385caa": "2026-08-17T16:14:31.608Z",
     "canonical:8c3af5decff7aecc": "2026-08-17T16:14:31.608Z",
-    "canonical:814369ae53598712": "2026-08-17T16:14:31.608Z",
     "canonical:fba675d8744a6d5c": "2026-08-17T16:14:31.608Z",
     "canonical:230e7a1ea33e02ef": "2026-08-17T16:14:31.608Z",
     "canonical:e8f8071e3810709a": "2026-08-17T16:14:31.608Z",
@@ -2745,7 +2744,6 @@
     "canonical:d1da7b2ac572df8f": "2026-08-23T15:12:01.506Z",
     "canonical:69acd4c0fa388415": "2026-08-23T22:39:05.028Z",
     "canonical:680bf5da349ce9e4": "2026-08-24T02:10:50.542Z",
-    "canonical:b472303f9f149fbd": "2026-08-24T05:36:48.242Z",
     "canonical:53129dadb36c1155": "2026-08-24T08:24:16.701Z",
     "canonical:6b608ce529d12c93": "2026-08-24T09:10:03.324Z",
     "canonical:e1cb819b5b9c30a1": "2026-08-24T09:10:03.324Z",
@@ -21126,20 +21124,6 @@
       ]
     },
     {
-      "id": "canonical:814369ae53598712",
-      "title": "Associate Value Engineer - AI-Driven Data Science & Analytics - Orbit Program",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7725788003?gh_jid=7725788003",
-      "location": "NYC",
-      "department": "AI/ML/Data",
-      "company": "Celonis",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:fba675d8744a6d5c",
       "title": "Associate Software Engineer",
       "url": "https://careers-appliedsystems.icims.com/jobs/7318/job?mobile=true&needsRedirect=false",
@@ -37411,20 +37395,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:b472303f9f149fbd",
-      "title": "New Grad 2026: Data Scientist",
-      "url": "https://www.databricks.com/company/careers/university-recruiting/data-scientist---new-grad-2026-start-6866554002",
-      "location": "Mountain View, CA / San Francisco, CA",
-      "department": "",
-      "company": "Databricks",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad"
       ]
     },
     {
