@@ -16,10 +16,10 @@
     "4907368101",
     "4912325101",
     "4892687101",
-    "4917773101",
     "4818790101",
-    "4635938101",
+    "4917773101",
     "4564480101",
+    "4635938101",
     "4667814101",
     "4932192101",
     "4577504101",
@@ -37,17 +37,17 @@
     "8002998",
     "7977145",
     "8027955",
+    "8027939",
     "8027900",
     "8010307",
-    "8027939",
     "8059384",
     "8049938",
     "7982648",
-    "7975026",
     "8002989",
+    "7975026",
     "8027952",
-    "8007788",
     "8000323",
+    "8007788",
     "7565728",
     "7974943",
     "8003019"
@@ -55,10 +55,10 @@
   "DRW": [
     "7997729",
     "7981754",
+    "7942281",
     "8020364",
     "7991196",
     "7992936",
-    "7942281",
     "8014910",
     "8127242"
   ],
@@ -78,8 +78,8 @@
     "8024128"
   ],
   "Point72": [
-    "7297598002",
     "7297611002",
+    "7297598002",
     "7302611002",
     "8721562002",
     "7586061002",
@@ -132,9 +132,9 @@
   ],
   "MongoDB": [],
   "Cloudflare": [
+    "8089379",
     "8089400",
     "8089407",
-    "8089379",
     "8118855",
     "8118845",
     "8052785"
@@ -1373,7 +1373,6 @@
     "github-json:zshah101-summer-2027-fall-2026:oracle:egug.fa.us2.oraclecloud.com:26011082",
     "github-json:zshah101-summer-2027-fall-2026:oracle:egug.fa.us2.oraclecloud.com:26011987",
     "github-json:zshah101-summer-2027-fall-2026:oracle:fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com:26738",
-    "github-json:zshah101-summer-2027-fall-2026:ashby:replit:7e0dafe8-3eec-442e-aa76-a4d84d779fb1",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:freeformfuturecorp:7872198003",
     "github-json:zshah101-summer-2027-fall-2026:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01867129",
     "github-json:zshah101-summer-2027-fall-2026:workday:firstam:/job/USA-California-Remote/Software-Engineering-Intern_R058260",
@@ -2338,6 +2337,7 @@
     "simplify:1c385c6d-d388-465d-9ccb-4051032c9a09",
     "simplify:a908b011-3049-4c5c-831e-b0a4e17ddebf",
     "simplify:8569a45d-e504-4cc5-897a-de907ab8e0f7",
+    "simplify:74d636b4-f64c-4e45-87b4-df75cb3d1fee",
     "simplify:7e502eb4-3d9c-4f91-8e83-a471504d8a4b",
     "simplify:a379a7a5-753b-4b9d-bc34-7fe34d527f1d",
     "simplify:99fcf5a1-1347-44be-9d63-7e03612f082b",
@@ -2435,7 +2435,9 @@
     "simplify:b1eb0fff-6852-49b0-a60f-334931313442",
     "simplify:d1ce5eca-7313-4eee-b01a-088c01f2a85a",
     "simplify:882ef4cb-37c9-458e-9950-f0db0c8490fa",
-    "simplify:73bad9f8-aa3c-4578-9551-8df84938f6a3"
+    "simplify:73bad9f8-aa3c-4578-9551-8df84938f6a3",
+    "simplify:7194b5a6-5ff2-4d30-8f27-55c669757b74",
+    "simplify:23283fde-40f1-42d9-bf10-9b7362a6c553"
   ],
   "DoorDash": [],
   "Waymo": [
