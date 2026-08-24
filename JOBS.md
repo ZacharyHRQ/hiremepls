@@ -1,6 +1,6 @@
 # Open Internships
 
-**2758** internships across **188/188** companies — last updated 2026-08-24.
+**2756** internships across **188/188** companies — last updated 2026-08-24.
 
 ## Companies
 
@@ -541,7 +541,7 @@
 - [Lambda](#lambda) (1)
 - [Laserfiche](#laserfiche) (1)
 - [Lawrence Livermore National Laboratory (LLNL)](#lawrence-livermore-national-laboratory-llnl) (5)
-- [Leidos](#leidos) (6)
+- [Leidos](#leidos) (5)
 - [Lennar](#lennar) (1)
 - [Lennar Corporation](#lennar-corporation) (1)
 - [Lentech Inc.](#lentech-inc) (1)
@@ -588,7 +588,7 @@
 - [Marriott International](#marriott-international) (3)
 - [Marvell](#marvell) (3)
 - [Mass General Brigham](#mass-general-brigham) (1)
-- [Mastercard](#mastercard) (3)
+- [Mastercard](#mastercard) (2)
 - [Mathtech](#mathtech) (2)
 - [Maven Securities](#maven-securities) (1)
 - [Maxima](#maxima) (1)
@@ -5087,7 +5087,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Entry-Level Computer Scientist](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Entry-Level-Computer-Scientist_R-00190248) | 93 | Huntsville, AL | AI/ML/Data | 2026-08-24 |
-| [Engineering Intern - Defense Systems - Threat Modeling & Simulation Portfolio](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Engineering-Intern_R-00189691) | 93 | Huntsville, AL | AI/ML/Data | 2026-08-20 |
 | [Junior Software Engineer](https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Columbia-MD/Junior-Software-Engineer_R-00180476) | 93 | Columbia, MD | Software Engineering | 2026-08-17 |
 | [Software Engineer](https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Engineer-TS-SCI-Polygraph_R-00186603) | 93 | Annapolis Junction, MD | Software | 2026-08-17 |
 | [Software Engineer TS/SCI Poly](https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Engineer-TS-SCI-Poly_R-00179080) | 93 | Aurora, CO / Annapolis Junction, MD / Alexandria, VA / San Diego, CA | Software | 2026-08-17 |
@@ -5403,7 +5402,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer - Launch Program](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer--Launch-Program-2027---United-States_R-288578-1) | 93 | Salt Lake City, UT / O'Fallon, MO / Harrison, NY / Arlington County, Arlington, VA / NYC / Atlanta, GA | Software | 2026-08-24 |
 | [Software Engineer Intern](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer-Intern--Summer-2027---United-States_R-287618-1) | 93 | O'Fallon, MO / Arlington County, Arlington, VA / NYC / Atlanta, GA | Software | 2026-08-24 |
-| [Software Engineer 1 - AI and Decision Product Enablement](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-280783) | 93 | O'Fallon, MO | Software | 2026-08-17 |
 
 ## Mathtech
 

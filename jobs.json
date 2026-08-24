@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-24T17:54:04.628Z",
+  "generatedAt": "2026-08-24T18:23:58.585Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2758,
+  "jobCount": 2756,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1758,7 +1758,6 @@
     "canonical:13bf363c9852933b": "2026-08-17T16:14:31.608Z",
     "canonical:2311f8c4c2a43e10": "2026-08-17T16:14:31.608Z",
     "canonical:02bf8d7d1c6e2ca1": "2026-08-17T16:14:31.608Z",
-    "canonical:5105f39692e66947": "2026-08-17T16:14:31.608Z",
     "canonical:f1a85bbad073327e": "2026-08-17T16:14:31.608Z",
     "canonical:264154ed19b27589": "2026-08-17T16:14:31.608Z",
     "canonical:7a576396e0e90118": "2026-08-17T16:14:31.608Z",
@@ -2512,7 +2511,6 @@
     "canonical:ac58ed7066ad25b3": "2026-08-20T20:01:35.132Z",
     "canonical:1481881b12c83348": "2026-08-20T20:01:35.132Z",
     "canonical:915a554df7bafb7f": "2026-08-20T22:54:52.406Z",
-    "canonical:7d8500bb88df5dec": "2026-08-20T22:54:52.406Z",
     "canonical:8ea56f75f67db291": "2026-08-20T22:54:52.406Z",
     "canonical:aece5767880597dd": "2026-08-20T22:54:52.406Z",
     "canonical:541913b9685a3f65": "2026-08-20T22:54:52.406Z",
@@ -13675,20 +13673,6 @@
       "location": "North Chicago, IL",
       "department": "Software",
       "company": "AbbVie",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:7d8500bb88df5dec",
-      "title": "Engineering Intern - Defense Systems - Threat Modeling & Simulation Portfolio",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Engineering-Intern_R-00189691",
-      "location": "Huntsville, AL",
-      "department": "AI/ML/Data",
-      "company": "Leidos",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -29884,20 +29868,6 @@
       ]
     },
     {
-      "id": "canonical:5105f39692e66947",
-      "title": "Software Engineer 1 - AI and Decision Product Enablement",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-280783",
-      "location": "O'Fallon, MO",
-      "department": "Software",
-      "company": "Mastercard",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:3ac2f00e75e702b5",
       "title": "Frontend Engineer",
       "url": "https://jobs.apple.com/en-us/details/200676168",
@@ -39733,12 +39703,12 @@
       ]
     },
     {
-      "id": "canonical:ac5441302adf008a",
-      "title": "Single-Family Software Developer Intern- Summer 2027",
-      "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544",
-      "location": "McLean, VA",
-      "department": "Software / Summer 2027",
-      "company": "Freddie Mac",
+      "id": "canonical:65963508efd2fa60",
+      "title": "Computer Vision Engineering Intern - Fall 2026",
+      "url": "https://jobs.smartrecruiters.com/Intuitive/744000145329669",
+      "location": "Sunnyvale, CA, United States (Hybrid)",
+      "department": "Data & ML/AI / Fall 2026",
+      "company": "Intuitive Surgical",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -39747,12 +39717,12 @@
       ]
     },
     {
-      "id": "canonical:65963508efd2fa60",
-      "title": "Computer Vision Engineering Intern - Fall 2026",
-      "url": "https://jobs.smartrecruiters.com/Intuitive/744000145329669",
-      "location": "Sunnyvale, CA, United States (Hybrid)",
-      "department": "Data & ML/AI / Fall 2026",
-      "company": "Intuitive Surgical",
+      "id": "canonical:ac5441302adf008a",
+      "title": "Single-Family Software Developer Intern- Summer 2027",
+      "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544",
+      "location": "McLean, VA",
+      "department": "Software / Summer 2027",
+      "company": "Freddie Mac",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
