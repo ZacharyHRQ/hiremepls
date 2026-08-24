@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-24T23:32:22.522Z",
+  "generatedAt": "2026-08-24T23:55:23.943Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2799,
+  "jobCount": 2803,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2802,7 +2802,11 @@
     "canonical:92a182ba9f96fdb5": "2026-08-24T23:32:22.522Z",
     "canonical:c786e7c7820562dd": "2026-08-24T23:32:22.522Z",
     "canonical:ca7b5bc4ac7f591a": "2026-08-24T23:32:22.522Z",
-    "canonical:06c29cc0164fdf02": "2026-08-24T23:32:22.522Z"
+    "canonical:06c29cc0164fdf02": "2026-08-24T23:32:22.522Z",
+    "canonical:d1da7b2ac572df8f": "2026-08-24T23:55:23.943Z",
+    "canonical:5ccbdd16c804408f": "2026-08-24T23:55:23.943Z",
+    "canonical:caa37dbb765c5132": "2026-08-24T23:55:23.943Z",
+    "canonical:ee2ac1afa3058d54": "2026-08-24T23:55:23.943Z"
   },
   "jobs": [
     {
@@ -33261,6 +33265,32 @@
       ]
     },
     {
+      "id": "canonical:d1da7b2ac572df8f",
+      "title": "Engineering New Analyst - Engineering",
+      "url": "https://higher.gs.com/roles/171570?type=students",
+      "location": "Salt Lake City, UT",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:5ccbdd16c804408f",
+      "title": "Engineering New Analyst",
+      "url": "https://higher.gs.com/roles/171568?type=students",
+      "location": "Dallas, TX",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:f25c76a0a1a97682",
       "title": "Forward Deployed Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3/application?embed=true",
@@ -33291,6 +33321,19 @@
       ]
     },
     {
+      "id": "canonical:caa37dbb765c5132",
+      "title": "Engineering New Analyst - Engineering",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
+      "location": "Seattle, WA",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:f3ba0dab3d1890be",
       "title": "Senior Applied AI & ML Engineer",
       "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/UK---London/Senior-Applied-AI---ML-Engineer---Evinova_R-257950-1",
@@ -33316,6 +33359,19 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ee2ac1afa3058d54",
+      "title": "New Analyst - Engineering",
+      "url": "https://higher.gs.com/roles/171569?type=students",
+      "location": "NYC",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
@@ -33699,20 +33755,6 @@
       ]
     },
     {
-      "id": "canonical:6fda02ae59b09506",
-      "title": "Machine Learning Engineer - Associate",
-      "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4356977009",
-      "location": "El Segundo, CA",
-      "department": "AI/ML/Data",
-      "company": "Voyager Technologies",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:85084b94748401ec",
       "title": "Entry Level Software Engineer",
       "url": "https://jobs.smartrecruiters.com/NextCenturyCorporation/106031601",
@@ -34090,6 +34132,20 @@
       "location": "Boston, MA",
       "department": "AI/ML/Data",
       "company": "Northeastern University",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:6fda02ae59b09506",
+      "title": "Machine Learning Engineer - Associate",
+      "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4356972009",
+      "location": "El Segundo, CA",
+      "department": "AI/ML/Data",
+      "company": "Voyager Technologies",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
