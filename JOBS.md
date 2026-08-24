@@ -1,6 +1,6 @@
 # Open Internships
 
-**2756** internships across **188/188** companies — last updated 2026-08-24.
+**2750** internships across **188/188** companies — last updated 2026-08-24.
 
 ## Companies
 
@@ -25,7 +25,6 @@
 - [AfterQuery](#afterquery) (1)
 - [Agate Software](#agate-software) (1)
 - [Agile Defense](#agile-defense) (1)
-- [AHEAD](#ahead) (1)
 - [AIR Control Concepts](#air-control-concepts) (1)
 - [Air Liquide](#air-liquide) (1)
 - [Airbus](#airbus) (1)
@@ -151,7 +150,6 @@
 - [Blue Origin](#blue-origin) (3)
 - [Blue Shield of California](#blue-shield-of-california) (1)
 - [Blue Sky Innovators](#blue-sky-innovators) (1)
-- [Bluehawk](#bluehawk) (1)
 - [Bluesight](#bluesight) (1)
 - [BNY](#bny) (11)
 - [Boerboel](#boerboel) (1)
@@ -261,7 +259,6 @@
 - [Cylake](#cylake) (1)
 - [D2L](#d2l) (1)
 - [D3 Global Inc](#d3-global-inc) (1)
-- [Da Vinci](#da-vinci) (1)
 - [Daikin Applied](#daikin-applied) (1)
 - [Dark Wolf Solutions](#dark-wolf-solutions) (2)
 - [Databricks](#databricks) (4)
@@ -283,7 +280,6 @@
 - [Dexmate](#dexmate) (1)
 - [DiDi Global](#didi-global) (1)
 - [Diesel Laptops](#diesel-laptops) (1)
-- [DigitalOcean](#digitalocean) (1)
 - [Diverge Health](#diverge-health) (1)
 - [DMC Engineering](#dmc-engineering) (1)
 - [Dmg Media](#dmg-media) (1)
@@ -504,7 +500,7 @@
 - [JD.com](#jd-com) (1)
 - [Jobs for Humanity](#jobs-for-humanity) (2)
 - [John Deere](#john-deere) (1)
-- [Johns Hopkins Applied Physics Laboratory](#johns-hopkins-applied-physics-laboratory) (17)
+- [Johns Hopkins Applied Physics Laboratory](#johns-hopkins-applied-physics-laboratory) (16)
 - [Johnson Controls](#johnson-controls) (2)
 - [Jones Lang LaSalle (JLL)](#jones-lang-lasalle-jll) (1)
 - [JP Morgan Chase](#jp-morgan-chase) (4)
@@ -602,7 +598,6 @@
 - [Medpace, Inc.](#medpace-inc) (3)
 - [Medtronic](#medtronic) (2)
 - [Melius](#melius) (2)
-- [Melotech](#melotech) (1)
 - [Menasha Corporation](#menasha-corporation) (1)
 - [Merative](#merative) (1)
 - [Mercor](#mercor) (1)
@@ -1228,12 +1223,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Developer 1](https://jobs.lever.co/agile-defense/4d5254dd-8366-4983-9156-a7f989fea964/apply) | 93 | Aberdeen, MD | Software | 2026-08-17 |
-
-## AHEAD
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer](https://jobs.lever.co/thinkahead/b044c4f0-4509-425f-8581-58070ded2379/apply) | 93 | Remote in USA | Software | 2026-08-17 |
 
 ## AIR Control Concepts
 
@@ -2161,12 +2150,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Anti-Tamper Entry-Level Engineer - Support](https://job-boards.greenhouse.io/blueskyinnovators/jobs/5210882008) | 93 | Washington, DC | AI/ML/Data | 2026-08-17 |
-
-## Bluehawk
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Exploitation Specialist - Data Scientist - Junior](https://careers-bluehawk.icims.com/jobs/2822/job?mobile=true&needsRedirect=false) | 85 | Springfield, VA | AI/ML/Data | 2026-08-17 |
 
 ## Bluesight
 
@@ -3103,12 +3086,6 @@
 | --- | --- | --- | --- | --- |
 | [New Grad: Backend Engineer](https://d3.com/careers#jobs-listing) | 91 | Los Angeles, CA | — | 2026-08-17 |
 
-## Da Vinci
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Graduate C++ Software Engineer](https://davincitrading.com/job/graduate-c-software-engineer-2/) | 91 | Miami, FL | — | 2026-08-24 |
-
 ## Daikin Applied
 
 | Title | Score | Location | Department | First seen |
@@ -3268,12 +3245,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer](https://jobs.smartrecruiters.com/DieselLaptops/743999719953833) | 93 | Dallas, TX | Software | 2026-08-18 |
-
-## DigitalOcean
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer - Automation](https://www.digitalocean.com/careers/position/apply/?gh_jid=8101988) | 85 | Seattle, WA | Software | 2026-08-20 |
 
 ## Diverge Health
 
@@ -4774,7 +4745,6 @@
 | [Applied Algorithms Engineer New Grad](https://careers.jhuapl.edu/jobs/59108?icims=1) | 91 | Huntsville, AL | AI/ML/Data | 2026-08-17 |
 | [Computer Engineer New Grad - Shipboard Systems Team](https://careers.jhuapl.edu/jobs/59098?icims=1) | 91 | Laurel, MD | Software | 2026-08-17 |
 | [Data Scientist / Computer Scientist PhD Graduate - Decision Systems](https://careers.jhuapl.edu/jobs/57706?icims=1) | 91 | Laurel, MD | AI/ML/Data | 2026-08-17 |
-| [Data Scientist New Grad - Data Science - System Performance Evaluation](https://careers.jhuapl.edu/jobs/57653?icims=1) | 91 | Laurel, MD | AI/ML/Data | 2026-08-17 |
 | [Engineer Graduate - Multi-Mission Planning Development](https://careers.jhuapl.edu/jobs/58163?icims=1) | 91 | Laurel, MD | Software | 2026-08-17 |
 | [Software Engineering/ML/Data Scientist Graduate - Intelligence Systems](https://careers.jhuapl.edu/jobs/57747?icims=1) | 91 | Laurel, MD | AI/ML/Data | 2026-08-17 |
 | [Systems Engineer/Analyst New Grad - Multi-Mission Planning Development](https://careers.jhuapl.edu/jobs/58164?icims=1) | 91 | Laurel, MD | AI/ML/Data | 2026-08-17 |
@@ -5486,12 +5456,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineering Intern [Spring/Summer 2027]](https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280) | 93 | New York City | Software / Summer 2027 | 2026-07-31 |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/melius/6a944911-dbbf-44c7-ba52-7866f7b433cf/application?embed=true) | 93 | NYC | Software | 2026-07-31 |
-
-## Melotech
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI/ML Engineer Intern](https://jobs.ashbyhq.com/melotech/e99207bd-8a2f-4641-a463-08a6633a7073/application) | 93 | London, UK / NYC / Berlin, Germany | AI/ML/Data | 2026-08-01 |
 
 ## Menasha Corporation
 
@@ -6920,7 +6884,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineering Intern](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4328555009?gh_src=kpek4mqz9us) | 93 | Golden, CO | — | 2026-07-28 |
+| [Software Engineering Intern, Spring 2027](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4329122009?gh_src=kpek4mqz9us) | 93 | Golden, CO | — | 2026-07-28 |
 
 ## Repligen
 
