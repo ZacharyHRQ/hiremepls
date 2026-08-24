@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T21:50:37.167Z",
+  "generatedAt": "2026-08-24T22:14:51.930Z",
   "companyCount": 188,
   "okCount": 188,
   "jobCount": 2785,
@@ -2262,7 +2262,6 @@
     "canonical:332a6deb8703792e": "2026-08-17T22:39:29.520Z",
     "canonical:09fa79999daa2019": "2026-08-17T22:39:29.520Z",
     "canonical:8f3ea95d7ed85689": "2026-08-17T22:39:29.520Z",
-    "canonical:1c8b6a456e04cc14": "2026-08-17T22:39:29.520Z",
     "canonical:2dec70c7a7e40586": "2026-08-17T22:39:29.520Z",
     "canonical:844dd6e4649727ed": "2026-08-17T22:39:29.520Z",
     "canonical:b35b51d7cd95dcfc": "2026-08-17T22:39:29.520Z",
@@ -2788,7 +2787,8 @@
     "canonical:1fb574a0218d1729": "2026-08-24T21:18:49.308Z",
     "canonical:1483ed0733c4b49d": "2026-08-24T21:18:49.308Z",
     "canonical:b537d841a790c8e0": "2026-08-24T21:18:49.308Z",
-    "canonical:737d9abb4df39b2b": "2026-08-24T21:50:37.167Z"
+    "canonical:737d9abb4df39b2b": "2026-08-24T21:50:37.167Z",
+    "canonical:b94384d3824ea448": "2026-08-24T22:14:51.930Z"
   },
   "jobs": [
     {
@@ -12840,19 +12840,6 @@
       "location": "NYC",
       "department": "Software",
       "company": "American Express",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:1c8b6a456e04cc14",
-      "title": "Corporate Summer Internship - Technology, Software Engineering and Cyber",
-      "url": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/218257",
-      "location": "Dallas, TX / McLean, VA / Memphis, TN",
-      "department": "Software",
-      "company": "Hilton Worldwide",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -40361,6 +40348,19 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:b94384d3824ea448",
+      "title": "2027 Corporate Summer Internship - Technology (Software Engineering and Cyber)",
+      "url": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/218257",
+      "location": "Memphis, TN, United States; McLean, VA, United States; Dallas, TX, United States",
+      "department": "Security / Summer 2027",
+      "company": "Hilton Worldwide",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {

@@ -4287,7 +4287,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Corporate Summer Internship - Technology, Software Engineering and Cyber](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/218257) | 85 | Dallas, TX / McLean, VA / Memphis, TN | Software | 2026-08-17 |
+| [2027 Corporate Summer Internship - Technology (Software Engineering and Cyber)](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/218257) | 85 | Memphis, TN, United States; McLean, VA, United States; Dallas, TX, United States | Security / Summer 2027 | 2026-08-24 |
 
 ## Hipp Health
 
