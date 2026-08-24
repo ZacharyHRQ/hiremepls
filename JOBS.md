@@ -1,6 +1,6 @@
 # Open Internships
 
-**2760** internships across **188/188** companies — last updated 2026-08-24.
+**2761** internships across **188/188** companies — last updated 2026-08-24.
 
 ## Companies
 
@@ -783,6 +783,7 @@
 - [Realm](#realm) (2)
 - [Redwood Materials](#redwood-materials) (1)
 - [RegDesk](#regdesk) (1)
+- [REI Systems](#rei-systems) (1)
 - [Relativity Space](#relativity-space) (1)
 - [ReliaQuest](#reliaquest) (1)
 - [RELX](#relx) (1)
@@ -6891,6 +6892,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Front End Developer Intern](https://jobs.smartrecruiters.com/RegDeskInc/92145731) | 93 | Philadelphia, PA | Software | 2026-08-18 |
+
+## REI Systems
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Associate Software Engineer - Salesforce](https://careers-reisystems.icims.com/jobs/3495/job?mobile=true&needsRedirect=false) | 85 | Sterling, VA | Software | 2026-08-24 |
 
 ## Relativity Space
 

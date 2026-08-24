@@ -120,8 +120,8 @@
     "7e0dafe8-3eec-442e-aa76-a4d84d779fb1"
   ],
   "Stripe": [
-    "8031833",
-    "8097801"
+    "8097801",
+    "8031833"
   ],
   "Databricks": [
     "7011263002",
@@ -3463,7 +3463,7 @@
     "simplify:ee3acc1d-ec01-40a7-b496-7855fc2ae28d",
     "simplify:a0daa12a-e588-4ca7-979d-f8e30a3b856e",
     "simplify:39ea452c-6625-480d-8bf6-48b4c3fcbc0e",
-    "simplify:4042a11a-8433-4d3c-b163-eb95de05c795",
+    "simplify:bca74012-9462-4061-95f7-b27d58666e24",
     "simplify:af6db19c-35b0-4bb8-aa1a-8078ce865d94",
     "simplify:ba18bed8-4c58-492b-9fe2-23a2145c4bd0",
     "simplify:64438dd5-251c-45b7-b2b4-568865cc9f1d",
@@ -4932,7 +4932,8 @@
     "simplify:fa498077-f142-46a6-a6fe-22fb26b81663",
     "simplify:6cbbd4e9-accd-4d04-9391-4a0c1327dc62",
     "simplify:ac52f5f1-d8be-4c9a-8578-a112098cc67b",
-    "simplify:51356e70-c399-48c1-8ed0-d892ed23c0e8"
+    "simplify:51356e70-c399-48c1-8ed0-d892ed23c0e8",
+    "simplify:9144eb86-7f92-4d1f-8b3a-4bb8389b35d9"
   ],
   "vanshb03 New Grad": [
     "vansh:5dac35b2-b148-49f8-b3f5-828ba68da99c",
