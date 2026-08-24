@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-24T11:49:57.061Z",
+  "generatedAt": "2026-08-24T12:25:37.255Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2746,
+  "jobCount": 2747,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2749,7 +2749,8 @@
     "canonical:e1cb819b5b9c30a1": "2026-08-24T09:10:03.324Z",
     "canonical:165736f3f7436d71": "2026-08-24T10:00:45.620Z",
     "canonical:cc27892b2185aa28": "2026-08-24T10:00:45.620Z",
-    "canonical:577263c8e7fc21c9": "2026-08-24T11:17:50.505Z"
+    "canonical:577263c8e7fc21c9": "2026-08-24T11:17:50.505Z",
+    "canonical:4a77656807157e3b": "2026-08-24T12:25:37.255Z"
   },
   "jobs": [
     {
@@ -36293,6 +36294,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:4a77656807157e3b",
+      "title": "Graduate C++ Software Engineer",
+      "url": "https://davincitrading.com/job/graduate-c-software-engineer-2/",
+      "location": "Miami, FL",
+      "department": "",
+      "company": "Da Vinci",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
       ]
     },
     {
