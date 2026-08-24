@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-24T08:24:16.701Z",
+  "generatedAt": "2026-08-24T09:10:03.324Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2756,
+  "jobCount": 2752,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -549,7 +549,6 @@
     "canonical:ffc2cc38852953d4": "2026-08-05T01:39:42.673Z",
     "canonical:960918f0c7889298": "2026-08-05T01:39:42.673Z",
     "canonical:eaeb61aaf6a23a04": "2026-08-05T07:31:57.239Z",
-    "canonical:3f149cc99cee7477": "2026-08-05T10:14:13.679Z",
     "canonical:7c526bf806a51d5a": "2026-08-05T10:14:13.679Z",
     "canonical:5229003ab8416048": "2026-08-05T10:14:13.679Z",
     "canonical:2c9a15d62874bca8": "2026-08-05T10:14:13.679Z",
@@ -588,7 +587,6 @@
     "canonical:ab769da5c943a9ae": "2026-08-07T07:56:51.250Z",
     "canonical:bdf92d3b568936a7": "2026-08-07T11:29:59.962Z",
     "canonical:6b58b647e5acfee3": "2026-08-07T12:09:44.568Z",
-    "canonical:b262fe5a924d1afe": "2026-08-07T14:37:49.870Z",
     "canonical:bcaec80a2a8aa537": "2026-08-07T16:31:28.951Z",
     "canonical:0752b58b3e9b6b90": "2026-08-07T18:27:46.582Z",
     "canonical:103536fb91331fcf": "2026-08-07T19:27:37.563Z",
@@ -1013,7 +1011,6 @@
     "canonical:fb6b10d3ec3bf4bd": "2026-08-17T16:14:31.608Z",
     "canonical:e825b093486910f5": "2026-08-17T16:14:31.608Z",
     "canonical:ca0e4a1760aedd4d": "2026-08-17T16:14:31.608Z",
-    "canonical:b8de15a7e284ae07": "2026-08-17T16:14:31.608Z",
     "canonical:7d63481f570ac7e2": "2026-08-17T16:14:31.608Z",
     "canonical:d2830d06702e3679": "2026-08-17T16:14:31.608Z",
     "canonical:e98c4592f1c7f8a7": "2026-08-17T16:14:31.608Z",
@@ -2442,14 +2439,12 @@
     "canonical:a6c653cc2c6d352e": "2026-08-19T19:26:45.138Z",
     "canonical:6ab8da808e4e11ac": "2026-08-19T19:26:45.138Z",
     "canonical:91c5dfe1f8dea501": "2026-08-19T20:14:45.707Z",
-    "canonical:cc27892b2185aa28": "2026-08-19T21:15:42.444Z",
     "canonical:21eaed85feb211f6": "2026-08-19T21:15:42.444Z",
     "canonical:37ff670929781a31": "2026-08-19T21:15:42.444Z",
     "canonical:1a169d3f140e04b7": "2026-08-19T21:15:42.444Z",
     "canonical:2f4eda49645a79fa": "2026-08-19T21:15:42.444Z",
     "canonical:d9a1a07034e550c8": "2026-08-19T21:15:42.444Z",
     "canonical:8058b658ffc4683e": "2026-08-19T21:15:42.444Z",
-    "canonical:d2aae3be355993a0": "2026-08-19T21:15:42.444Z",
     "canonical:6f65a1c6122410f1": "2026-08-19T21:15:42.444Z",
     "canonical:afec8841b5c6beb7": "2026-08-19T21:15:42.444Z",
     "canonical:2cd575bbe0fbff0b": "2026-08-19T21:15:42.444Z",
@@ -2734,7 +2729,6 @@
     "canonical:70591c801721b8a6": "2026-08-23T05:51:49.413Z",
     "canonical:8bdb59b88f306731": "2026-08-23T07:44:49.551Z",
     "canonical:d0c3c1f0372a6fed": "2026-08-23T09:49:30.153Z",
-    "canonical:69922f01d0937fb4": "2026-08-23T09:49:30.153Z",
     "canonical:a356ac432d4a0c77": "2026-08-23T10:12:29.577Z",
     "canonical:ea516bcb2c3049bb": "2026-08-23T10:12:29.577Z",
     "canonical:5e8b571b6f2715f1": "2026-08-23T10:12:29.577Z",
@@ -2759,7 +2753,9 @@
     "canonical:69acd4c0fa388415": "2026-08-23T22:39:05.028Z",
     "canonical:680bf5da349ce9e4": "2026-08-24T02:10:50.542Z",
     "canonical:b472303f9f149fbd": "2026-08-24T05:36:48.242Z",
-    "canonical:53129dadb36c1155": "2026-08-24T08:24:16.701Z"
+    "canonical:53129dadb36c1155": "2026-08-24T08:24:16.701Z",
+    "canonical:6b608ce529d12c93": "2026-08-24T09:10:03.324Z",
+    "canonical:e1cb819b5b9c30a1": "2026-08-24T09:10:03.324Z"
   },
   "jobs": [
     {
@@ -2863,21 +2859,6 @@
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4914883101",
       "location": "London, UK",
       "department": "AI/ML/Data",
-      "company": "IMC Trading",
-      "score": 99,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:3f149cc99cee7477",
-      "title": "Graduate Quantitative Researcher",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4939821101",
-      "location": "Amsterdam, Netherlands",
-      "department": "",
       "company": "IMC Trading",
       "score": 99,
       "scoreReasons": [
@@ -11320,20 +11301,6 @@
       ]
     },
     {
-      "id": "canonical:b262fe5a924d1afe",
-      "title": "Software Developer Intern - Fall 2026",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Fall-2026_R031492",
-      "location": "Ottawa, ON, Canada",
-      "department": "Hardware",
-      "company": "Ciena",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:2719c5db11d77be5",
       "title": "Systems Engineer 1 Intern - Intern Conversion",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion--Systems-Engineer-I--Onsite-_01863190",
@@ -13516,20 +13483,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:cc27892b2185aa28",
-      "title": "Data Engineer Intern",
-      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Engineering-Intern_JR110617",
-      "location": "Dallas, TX",
-      "department": "AI/ML/Data",
-      "company": "Copart",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -18263,20 +18216,6 @@
       ]
     },
     {
-      "id": "canonical:b8de15a7e284ae07",
-      "title": "Machine Learning Engineer - AI Inference Solutions",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/Machine-Learning-Engineer--AI-Inference-Solutions--University-Grad-_JR-202610103",
-      "location": "Sunnyvale, CA",
-      "department": "AI/ML/Data",
-      "company": "General Motors",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:fb6b10d3ec3bf4bd",
       "title": "Anti-Tamper Entry-Level Engineer - Support",
       "url": "https://job-boards.greenhouse.io/blueskyinnovators/jobs/5210882008",
@@ -20854,20 +20793,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:d2aae3be355993a0",
-      "title": "Product Software Engineer 1",
-      "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Product-Software-Engineer-I_10151599-2",
-      "location": "Glendale, CA",
-      "department": "Software",
-      "company": "The Walt Disney Company",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -35799,21 +35724,6 @@
       ]
     },
     {
-      "id": "canonical:69922f01d0937fb4",
-      "title": "Graduate Developer",
-      "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048802",
-      "location": "Chicago, IL",
-      "department": "Software",
-      "company": "Maven Securities",
-      "score": 99,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:4c621f2af8bde971",
       "title": "Software Engineer",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Resource-Control-Team-Software-Engineer--Level-1-or-2----AHT_R10247178",
@@ -35895,6 +35805,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:6b608ce529d12c93",
+      "title": "Associate Value Engineer - AI-Driven Data Science & Analytics - Orbit Program",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7781716003?gh_jid=7781716003",
+      "location": "Raleigh, NC",
+      "department": "AI/ML/Data",
+      "company": "Celonis",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -39675,6 +39599,20 @@
       ]
     },
     {
+      "id": "canonical:e1cb819b5b9c30a1",
+      "title": "Software Engineer, Intern (Summer 2026)",
+      "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002?fbclid=PAQ0xDSwK38VtleHRuA2FlbQIxMQABpwFCtP3w0jUMJ2UyUfRb7jqEW6gF5Rr31twvg5geVxUyYXlmmQrGSEf9O3Pw_aem_MfePXp-UnrQgRcTvm_Lh4Q",
+      "location": "Chicago",
+      "department": "",
+      "company": "Citadel",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:f4a859210ae8a7e7",
       "title": "NYC Early Career Open House Event - Software Engineering New Grads and Interns",
       "url": "https://jobright.ai/jobs/info/685c466bb6b7da281327301a?utm_source=1099&utm_campaign=Software%20Engineer",
@@ -39727,6 +39665,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:1869c3e8ff779ad9",
+      "title": "Quantitative Developer - Internship - Summer 2027",
+      "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000145205764",
+      "location": "New York, New York, United States (Remote)",
+      "department": "Quant / Summer 2027",
+      "company": "InfiniteQuant",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -39935,20 +39887,6 @@
       "location": "US-IA-CEDAR RAPIDS-107 ~ 400 Collins Rd NE ~ BLDG 107",
       "department": "Software / Summer 2027",
       "company": "RTX",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:1869c3e8ff779ad9",
-      "title": "Quantitative Developer - Internship - Summer 2027",
-      "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579",
-      "location": "New York, New York, United States (Remote)",
-      "department": "Quant / Summer 2027",
-      "company": "InfiniteQuant",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
