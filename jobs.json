@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T15:33:54.257Z",
+  "generatedAt": "2026-08-24T16:14:20.580Z",
   "companyCount": 188,
   "okCount": 188,
   "jobCount": 2762,
@@ -2308,7 +2308,6 @@
     "canonical:895b083a9509d775": "2026-08-17T23:18:48.642Z",
     "canonical:bcd45b344f031e5f": "2026-08-17T23:18:48.642Z",
     "canonical:62cfe3c393aa28e3": "2026-08-17T23:18:48.642Z",
-    "canonical:beeb844257133700": "2026-08-17T23:18:48.642Z",
     "canonical:7fe8e53be23e1a73": "2026-08-17T23:18:48.642Z",
     "canonical:ff766509aa4c3856": "2026-08-17T23:18:48.642Z",
     "canonical:6fda02ae59b09506": "2026-08-17T23:42:51.615Z",
@@ -2765,7 +2764,8 @@
     "canonical:62ea9d072f8eddd8": "2026-08-24T15:33:54.257Z",
     "canonical:96eafb7e00128f53": "2026-08-24T15:33:54.257Z",
     "canonical:1a021c8c7f8c551f": "2026-08-24T15:33:54.257Z",
-    "canonical:8d080a069b80e183": "2026-08-24T15:33:54.257Z"
+    "canonical:8d080a069b80e183": "2026-08-24T15:33:54.257Z",
+    "canonical:9a5935ee627b3b0f": "2026-08-24T16:14:20.580Z"
   },
   "jobs": [
     {
@@ -3153,19 +3153,6 @@
       ]
     },
     {
-      "id": "canonical:53129dadb36c1155",
-      "title": "Campus Quantitative Researcher (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027900",
-      "location": "Hong Kong, Shanghai",
-      "department": "",
-      "company": "Jump Trading",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:748b9a19eca0fd1b",
       "title": "Campus Quantitative Researcher (Intern)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=8010307",
@@ -3183,6 +3170,19 @@
       "title": "Campus Quantitative Researcher (Intern)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=8027939",
       "location": "Singapore",
+      "department": "",
+      "company": "Jump Trading",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:53129dadb36c1155",
+      "title": "Campus Quantitative Researcher (Intern)",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027900",
+      "location": "Hong Kong, Shanghai",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -3231,10 +3231,10 @@
       ]
     },
     {
-      "id": "canonical:4da2c943e4eb3f7c",
+      "id": "canonical:aa053f6ba830d433",
       "title": "Campus Software Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7975026",
-      "location": "London",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
+      "location": "Chicago",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -3244,10 +3244,10 @@
       ]
     },
     {
-      "id": "canonical:aa053f6ba830d433",
+      "id": "canonical:4da2c943e4eb3f7c",
       "title": "Campus Software Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
-      "location": "Chicago",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7975026",
+      "location": "London",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -3560,10 +3560,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -3574,10 +3574,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -3810,7 +3810,7 @@
     },
     {
       "id": "canonical:796deecc942fc471",
-      "title": "Software Engineer Intern (Fall / Winter 2026)",
+      "title": "Software Engineer Intern (Winter 2027)",
       "url": "https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254",
       "location": "",
       "department": "Internships",
@@ -5378,7 +5378,7 @@
     {
       "id": "canonical:073e340d37608d22",
       "title": "Software Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -14607,6 +14607,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:9a5935ee627b3b0f",
+      "title": "Android Application Developer Intern - Summer 2027",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740",
+      "location": "Chicago, IL",
+      "department": "Software",
+      "company": "Motorola",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -33481,19 +33495,6 @@
       "location": "Austin, TX",
       "department": "Software",
       "company": "Talroo",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:beeb844257133700",
-      "title": "AI Engineer",
-      "url": "https://careers.msasafety.com/jobs/9830?icims=1",
-      "location": "Cranberry Township, PA",
-      "department": "Software",
-      "company": "MSA Safety",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
