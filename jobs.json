@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-24T10:00:45.620Z",
+  "generatedAt": "2026-08-24T10:50:23.847Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2752,
+  "jobCount": 2749,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1256,7 +1256,6 @@
     "canonical:409acf7b69d472c5": "2026-08-17T16:14:31.608Z",
     "canonical:50ff09e58c7b91ee": "2026-08-17T16:14:31.608Z",
     "canonical:23264867b7631da1": "2026-08-17T16:14:31.608Z",
-    "canonical:72a00f02febfc5d3": "2026-08-17T16:14:31.608Z",
     "canonical:cf1cd88ee305e8d2": "2026-08-17T16:14:31.608Z",
     "canonical:7636f1def4b3be64": "2026-08-17T16:14:31.608Z",
     "canonical:c482b3f562eaf03c": "2026-08-17T16:14:31.608Z",
@@ -2644,7 +2643,6 @@
     "canonical:937b361bf74c88f3": "2026-08-21T20:13:32.090Z",
     "canonical:4b868f2dd0e45334": "2026-08-21T20:13:32.090Z",
     "canonical:302496ad9fc477ab": "2026-08-21T20:13:32.090Z",
-    "canonical:e96b70e8567c22ca": "2026-08-21T20:13:32.090Z",
     "canonical:34b92f6ac29c4fcd": "2026-08-21T20:13:32.090Z",
     "canonical:a2494932cb75d54f": "2026-08-21T20:13:32.090Z",
     "canonical:241930c80b7ebd10": "2026-08-21T20:40:41.753Z",
@@ -2747,7 +2745,6 @@
     "canonical:1869c3e8ff779ad9": "2026-08-23T14:45:43.013Z",
     "canonical:ec8eec6143922e01": "2026-08-23T15:12:01.506Z",
     "canonical:d1da7b2ac572df8f": "2026-08-23T15:12:01.506Z",
-    "canonical:4a77656807157e3b": "2026-08-23T21:16:23.201Z",
     "canonical:69acd4c0fa388415": "2026-08-23T22:39:05.028Z",
     "canonical:680bf5da349ce9e4": "2026-08-24T02:10:50.542Z",
     "canonical:b472303f9f149fbd": "2026-08-24T05:36:48.242Z",
@@ -5257,10 +5254,10 @@
       ]
     },
     {
-      "id": "canonical:e8a5b9fc6e1a4de2",
+      "id": "canonical:62beda5aaf0fcc6c",
       "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
-      "location": "Bengaluru",
+      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
+      "location": "Dublin",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -5270,10 +5267,10 @@
       ]
     },
     {
-      "id": "canonical:62beda5aaf0fcc6c",
+      "id": "canonical:e8a5b9fc6e1a4de2",
       "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
-      "location": "Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
+      "location": "Bengaluru",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -5368,7 +5365,7 @@
     {
       "id": "canonical:073e340d37608d22",
       "title": "Software Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -21822,21 +21819,6 @@
       ]
     },
     {
-      "id": "canonical:72a00f02febfc5d3",
-      "title": "Graduate Software Engineer - Open Source and Linux - Canonical Ubuntu",
-      "url": "https://job-boards.greenhouse.io/canonical/jobs/8055009",
-      "location": "Remote in UK",
-      "department": "Software",
-      "company": "Canonical",
-      "score": 99,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:815d19e16efa0c10",
       "title": "Graduate Developer",
       "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26934",
@@ -35480,19 +35462,6 @@
       ]
     },
     {
-      "id": "canonical:e96b70e8567c22ca",
-      "title": "Software Engineer 1 Test",
-      "url": "https://careers-mercuryinsurance.icims.com/jobs/6745/job?mobile=true&needsRedirect=false",
-      "location": "Brea, CA",
-      "department": "Software",
-      "company": "Mercury Insurance",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:34b92f6ac29c4fcd",
       "title": "Software Engineer - AV Data Collection",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Data-Collection_JR-202618529",
@@ -36355,20 +36324,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:4a77656807157e3b",
-      "title": "Graduate C++ Software Engineer",
-      "url": "https://davincitrading.com/job/graduate-c-software-engineer-2/",
-      "location": "Miami, FL",
-      "department": "",
-      "company": "Da Vinci",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad"
       ]
     },
     {
