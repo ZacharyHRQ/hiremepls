@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-24T05:36:48.242Z",
+  "generatedAt": "2026-08-24T06:22:46.559Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2757,
+  "jobCount": 2756,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1370,7 +1370,6 @@
     "canonical:981490bdd046c2e4": "2026-08-17T16:14:31.608Z",
     "canonical:a4b437bb36fa3319": "2026-08-17T16:14:31.608Z",
     "canonical:adcad9d56a343006": "2026-08-17T16:14:31.608Z",
-    "canonical:aeffa50200430af9": "2026-08-17T16:14:31.608Z",
     "canonical:f20bcd604071e3fb": "2026-08-17T16:14:31.608Z",
     "canonical:2c7d6d2450d97097": "2026-08-17T16:14:31.608Z",
     "canonical:c3266e6b55663137": "2026-08-17T16:14:31.608Z",
@@ -23665,20 +23664,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:aeffa50200430af9",
-      "title": "Junior Data Engineer - Faculty Specialist",
-      "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Junior-Data-Engineer--Faculty-Specialist-_JR104102",
-      "location": "Hyattsville, MD",
-      "department": "AI/ML/Data",
-      "company": "University of Maryland - College Park",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {

@@ -1,6 +1,6 @@
 # Open Internships
 
-**2757** internships across **188/188** companies — last updated 2026-08-24.
+**2756** internships across **188/188** companies — last updated 2026-08-24.
 
 ## Companies
 
@@ -1007,7 +1007,6 @@
 - [University Corporation for Atmospheric Research](#university-corporation-for-atmospheric-research) (1)
 - [University of Central Florida](#university-of-central-florida) (1)
 - [University of Chicago](#university-of-chicago) (1)
-- [University of Maryland - College Park](#university-of-maryland-college-park) (1)
 - [University of Texas at Austin](#university-of-texas-at-austin) (1)
 - [UntilLabs](#untillabs) (1)
 - [Upstart](#upstart) (1)
@@ -8721,12 +8720,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Web Designer and Developer](https://uchicago.wd5.myworkdayjobs.com/External/job/Illinois-Chicago/Web-Designer-and-Developer_JR33945-1) | 93 | Chicago, IL | Software | 2026-08-17 |
-
-## University of Maryland - College Park
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Junior Data Engineer - Faculty Specialist](https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Junior-Data-Engineer--Faculty-Specialist-_JR104102) | 93 | Hyattsville, MD | AI/ML/Data | 2026-08-17 |
 
 ## University of Texas at Austin
 
