@@ -1,6 +1,6 @@
 # Open Internships
 
-**2798** internships across **188/188** companies — last updated 2026-08-24.
+**2799** internships across **188/188** companies — last updated 2026-08-24.
 
 ## Companies
 
@@ -670,7 +670,7 @@
 - [North Star Staffing Solutions](#north-star-staffing-solutions) (1)
 - [Northeastern](#northeastern) (1)
 - [Northeastern University](#northeastern-university) (1)
-- [Northrop Grumman](#northrop-grumman) (27)
+- [Northrop Grumman](#northrop-grumman) (28)
 - [Northwestern Mutual](#northwestern-mutual) (1)
 - [Northwood Space](#northwood-space) (1)
 - [Notion](#notion) (16)
@@ -705,6 +705,7 @@
 - [PAM Health](#pam-health) (1)
 - [Panasonic Holdings](#panasonic-holdings) (1)
 - [Parafin](#parafin) (1)
+- [Parallel Systems](#parallel-systems) (1)
 - [Parallel Web Systems](#parallel-web-systems) (1)
 - [Pariveda Solutions](#pariveda-solutions) (1)
 - [Parsons](#parsons) (1)
@@ -817,7 +818,7 @@
 - [Royal Bank of Canada](#royal-bank-of-canada) (8)
 - [Royal Caribbean Group](#royal-caribbean-group) (1)
 - [RRS Group](#rrs-group) (2)
-- [RTX](#rtx) (37)
+- [RTX](#rtx) (38)
 - [RunSybil](#runsybil) (1)
 - [Ryder System](#ryder-system) (1)
 - [SA Technologies](#sa-technologies) (2)
@@ -909,7 +910,6 @@
 - [STR](#str) (2)
 - [Strada](#strada) (1)
 - [Stripe](#stripe) (4)
-- [Stryker](#stryker) (1)
 - [Subaru](#subaru) (1)
 - [SugarCRM](#sugarcrm) (1)
 - [Suncor](#suncor) (1)
@@ -922,7 +922,6 @@
 - [Susquehanna International Group](#susquehanna-international-group) (7)
 - [Susquehanna International Group (SIG)](#susquehanna-international-group-sig) (9)
 - [Susquehanna Investment Group](#susquehanna-investment-group) (1)
-- [Symbotic](#symbotic) (1)
 - [Symphony](#symphony) (1)
 - [Synchrony Financial](#synchrony-financial) (1)
 - [Synergy ECP](#synergy-ecp) (1)
@@ -987,7 +986,6 @@
 - [TRM Labs](#trm-labs) (1)
 - [Trovy](#trovy) (1)
 - [True Anomaly](#true-anomaly) (1)
-- [Truist Bank](#truist-bank) (1)
 - [Truveta](#truveta) (5)
 - [TSC](#tsc) (1)
 - [Twitch](#twitch) (4)
@@ -1043,6 +1041,7 @@
 - [Voyager Technologies](#voyager-technologies) (2)
 - [VWH Capital Management](#vwh-capital-management) (1)
 - [W.W. Grainger](#w-w-grainger) (1)
+- [Wabtec](#wabtec) (1)
 - [Walgreens](#walgreens) (1)
 - [Walleye Capital](#walleye-capital) (3)
 - [WallStreetQuants](#wallstreetquants) (4)
@@ -2827,7 +2826,7 @@
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
 | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -5980,6 +5979,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Associate Software Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer_R10247440) | 93 | Hollywood, MD | Software | 2026-08-24 |
 | [Java Software Engineer 1 or 2](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Java-Software-Engineer-Level-1-or-2_R10247380) | 93 | Aurora, CO / Morrisville, NC / Linthicum Heights, MD | Software | 2026-08-24 |
 | [Software Systems Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Software-System-Engineer--Level-1-or-2----AHT_R10247180) | 93 | Manhattan Beach, CA | Hardware | 2026-08-24 |
 | [Software Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Resource-Control-Team-Software-Engineer--Level-1-or-2----AHT_R10247178) | 93 | Manhattan Beach, CA | Hardware | 2026-08-22 |
@@ -6364,6 +6364,12 @@
 | --- | --- | --- | --- | --- |
 | [New Grad: Software Engineer](https://jobs.ashbyhq.com/parafin/ced48a0b-f5ed-491a-ae38-2301fb881bd9/application) | 99 | SF | — | 2026-08-17 |
 
+## Parallel Systems
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Embedded Software Engineer - Vehicle Software](https://boards.greenhouse.io/parallel/jobs/5220626007) | 93 | LA | Hardware | 2026-08-24 |
+
 ## Parallel Web Systems
 
 | Title | Score | Location | Department | First seen |
@@ -6568,8 +6574,8 @@
 | [Quantitative Developer](https://careers.point72.com/CSJobDetail?jobName=quantitative-developer&jobCode=CSS-0013369&location=New%20York&locale=English) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-08-17 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -7154,6 +7160,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-ANDOVER-AN0--366-Lowell-St--BLDG-AN0/Software-Engineer-I---Onsite-_01867989) | 93 | Andover, MA | Software | 2026-08-24 |
 | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01861525) | 93 | Marlborough, MA | Hardware | 2026-08-24 |
 | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern_01869058) | 93 | Annapolis Junction, MD | Hardware | 2026-08-24 |
 | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern--Summer-2027-_01866136) | 93 | Cedar Rapids, IA | Hardware | 2026-08-24 |
@@ -7824,12 +7831,6 @@
 | [Software Engineer - New Grad](https://stripe.com/jobs/search?gh_jid=7206505) | 91 | Toronto, ON, Canada | — | 2026-08-17 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8031833) | 85 | Bengaluru | — | 2026-07-10 |
 
-## Stryker
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Development Engineer](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Indiana-Fort-Wayne-1950-West-Cook-Road/Software-Development-Engineer_R570340) | 93 | Fort Wayne, IN | Software | 2026-08-18 |
-
 ## Subaru
 
 | Title | Score | Location | Department | First seen |
@@ -7915,12 +7916,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Quantitative Strategy Developer Intern](https://careers.sig.com/intern-co-op-technology/jobs/10838?lang=en-us) | 85 | Bala Cynwyd, PA | — | 2026-08-17 |
-
-## Symbotic
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer New Grad](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Software-Engineer_R6770) | 99 | Burlington, MA | Software | 2026-08-17 |
 
 ## Symphony
 
@@ -8632,12 +8627,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer 1 New Grad - QA](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5219057007) | 99 | Long Beach, CA / Denver, CO | Software | 2026-08-22 |
 
-## Truist Bank
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Scientist 1 - Card Fraud](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/Data-Scientist-I---Card-Fraud_R0116758) | 93 | Atlanta, GA | AI/ML/Data | 2026-08-17 |
-
 ## Truveta
 
 | Title | Score | Location | Department | First seen |
@@ -9001,6 +8990,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern - Grainger Technology Group](https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Software-Engineer-IL-60661-4555/1419930800/?ats=successfactors) | 85 | Chicago, IL | Software | 2026-08-17 |
+
+## Wabtec
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Engineer Rotational Program](https://jobs.smartrecruiters.com/Wabtec/3743990014806166) | 93 | Cedar Rapids, IA | Software | 2026-08-24 |
 
 ## Walgreens
 
