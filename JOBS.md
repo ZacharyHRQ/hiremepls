@@ -174,7 +174,7 @@
 - [Brunswick](#brunswick) (3)
 - [Buyers Edge Platform](#buyers-edge-platform) (1)
 - [By Light Professional IT Services](#by-light-professional-it-services) (1)
-- [ByteDance](#bytedance) (176)
+- [ByteDance](#bytedance) (177)
 - [CACI](#caci) (9)
 - [Caddi Workflow Automation](#caddi-workflow-automation) (1)
 - [Cadence Design Systems](#cadence-design-systems) (8)
@@ -249,7 +249,7 @@
 - [Creatify Lab ](#creatify-lab) (1)
 - [Credit Genie](#credit-genie) (1)
 - [Cresta](#cresta) (1)
-- [Crowdstrike](#crowdstrike) (1)
+- [Crowdstrike](#crowdstrike) (2)
 - [Crowe](#crowe) (4)
 - [Crown Innovations](#crown-innovations) (1)
 - [Crusoe](#crusoe) (2)
@@ -541,7 +541,7 @@
 - [Lambda](#lambda) (1)
 - [Laserfiche](#laserfiche) (1)
 - [Lawrence Livermore National Laboratory (LLNL)](#lawrence-livermore-national-laboratory-llnl) (5)
-- [Leidos](#leidos) (6)
+- [Leidos](#leidos) (5)
 - [Lennar](#lennar) (1)
 - [Lennar Corporation](#lennar-corporation) (1)
 - [Lentech Inc.](#lentech-inc) (1)
@@ -602,7 +602,7 @@
 - [Medpace, Inc.](#medpace-inc) (3)
 - [Medtronic](#medtronic) (2)
 - [Melius](#melius) (2)
-- [Melotech](#melotech) (2)
+- [Melotech](#melotech) (1)
 - [Menasha Corporation](#menasha-corporation) (1)
 - [Merative](#merative) (1)
 - [Mercor](#mercor) (1)
@@ -712,7 +712,7 @@
 - [PDF Solutions](#pdf-solutions) (2)
 - [PDT Partners](#pdt-partners) (2)
 - [Pegatron Technologies LLC](#pegatron-technologies-llc) (1)
-- [PennState University](#pennstate-university) (1)
+- [PennState University](#pennstate-university) (2)
 - [Pennsylvania State University](#pennsylvania-state-university) (16)
 - [People Culture Talent](#people-culture-talent) (1)
 - [Peraton](#peraton) (9)
@@ -822,7 +822,6 @@
 - [RunSybil](#runsybil) (1)
 - [Ryder System](#ryder-system) (1)
 - [SA Technologies](#sa-technologies) (2)
-- [Saalex](#saalex) (1)
 - [Sajix](#sajix) (3)
 - [Salesforce](#salesforce) (1)
 - [Samsara](#samsara) (5)
@@ -2326,6 +2325,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Network Software Engineer Intern - Network Switch](https://jobs.bytedance.com/en/position/7670778018960542005/detail) | 85 | San Jose, CA | Software | 2026-08-24 |
 | [Software Engineer Graduate - AML-Engine-Forge Platform](https://jobs.bytedance.com/en/position/7673306902554102069/detail) | 91 | San Jose, CA | Software | 2026-08-21 |
 | [Graduate Research Scientist - 3D/4D Generation](https://jobs.bytedance.com/en/position/7585034854077778181/detail) | 91 | San Jose, CA | AI/ML/Data | 2026-08-21 |
 | [Software Engineer Intern - CIS Knowledge Bank](https://jobs.bytedance.com/en/position/7675345626188335365/detail) | 85 | San Jose, CA | Software | 2026-08-21 |
@@ -2822,9 +2822,9 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern - Fall 2026](https://boards.greenhouse.io/cloudflare/jobs/8118855) | 93 | London, UK | Software | 2026-08-20 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
-| [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | 93 | In-Office | — | 2026-08-11 |
+| [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -3019,6 +3019,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer - Sensor - SAO](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer---Sensor--SaO--Hybrid-_R29874) | 93 | Redmond, WA / Sunnyvale, CA | Software | 2026-08-24 |
 | [Engineer 1 New Grad - Data Scientist](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1) | 99 | Sunnyvale, CA | AI/ML/Data | 2026-08-17 |
 
 ## Crowe
@@ -5083,7 +5084,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Developer](https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Entry-Level-Software-Developer_R-00188494) | 93 | St. Louis, MO | Software | 2026-08-21 |
 | [Engineering Intern - Defense Systems - Threat Modeling & Simulation Portfolio](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Engineering-Intern_R-00189691) | 93 | Huntsville, AL | AI/ML/Data | 2026-08-20 |
 | [Junior Software Engineer](https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Columbia-MD/Junior-Software-Engineer_R-00180476) | 93 | Columbia, MD | Software Engineering | 2026-08-17 |
 | [Software Engineer](https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Engineer-TS-SCI-Polygraph_R-00186603) | 93 | Annapolis Junction, MD | Software | 2026-08-17 |
@@ -5489,7 +5489,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [AI/ML Engineer Intern](https://jobs.ashbyhq.com/melotech/e99207bd-8a2f-4641-a463-08a6633a7073/application) | 93 | London, UK / NYC / Berlin, Germany | AI/ML/Data | 2026-08-01 |
-| [Full-Stack Developer Intern - Music & Audio](https://jobs.ashbyhq.com/melotech/15af19d9-a318-45a6-8a06-23053ea487a5/application) | 93 | London, UK / SF / LA / NYC / Berlin, Germany | Software | 2026-05-19 |
 
 ## Menasha Corporation
 
@@ -6386,6 +6385,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Research and Development Engineering Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineering-Intern_REQ_0000076214-1) | 93 | State College, PA | Software | 2026-08-24 |
 | [Data Extraction Programmer](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Data-Extraction-Programming_REQ_0000075672-1) | 93 | State College, PA | AI/ML/Data | 2026-08-17 |
 
 ## Pennsylvania State University
@@ -7178,12 +7178,6 @@
 | --- | --- | --- | --- | --- |
 | [.Net Developer](https://jobs.smartrecruiters.com/SATechnologiesInc4/95546593) | 93 | Coppell, TX | Software | 2026-08-17 |
 | [Support Engineer - Python](https://jobs.smartrecruiters.com/SATechnologiesInc4/85774799) | 93 | Wayzata, MN | Software | 2026-08-17 |
-
-## Saalex
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Automation Developer](https://apply.workable.com/saalex/j/B9CC90B5BA/apply) | 93 | Remote in USA / Lexington Park, MD | Software | 2026-08-17 |
 
 ## Sajix
 

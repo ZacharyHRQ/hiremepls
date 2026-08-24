@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T13:28:14.619Z",
+  "generatedAt": "2026-08-24T14:09:52.394Z",
   "companyCount": 188,
   "okCount": 188,
   "jobCount": 2752,
@@ -55,7 +55,6 @@
     "canonical:c031cb55c680003f": "2026-05-15T22:36:45.367Z",
     "canonical:47a58dc4b6e43e69": "2026-05-16T04:46:03.679Z",
     "canonical:b81abc03055b6506": "2026-05-18T01:33:21.344Z",
-    "canonical:59280037432dffa1": "2026-05-19T01:34:38.795Z",
     "canonical:d35985b2727191b1": "2026-05-21T05:52:27.471Z",
     "canonical:f012e13fdaf4adcb": "2026-05-21T05:52:27.471Z",
     "canonical:da1d1f81b47de301": "2026-05-27T02:52:54.000Z",
@@ -1666,7 +1665,6 @@
     "canonical:04fa6f1c124323be": "2026-08-17T16:14:31.608Z",
     "canonical:147bc0139a1f7211": "2026-08-17T16:14:31.608Z",
     "canonical:be5003c8f379e51a": "2026-08-17T16:14:31.608Z",
-    "canonical:9a923428232ff592": "2026-08-17T16:14:31.608Z",
     "canonical:03a3ea8862a6f805": "2026-08-17T16:14:31.608Z",
     "canonical:1b0b50081d1eff96": "2026-08-17T16:14:31.608Z",
     "canonical:afff2d17231dba5b": "2026-08-17T16:14:31.608Z",
@@ -2622,7 +2620,6 @@
     "canonical:df033a299e309af5": "2026-08-21T18:21:28.013Z",
     "canonical:0030dec77ae262ca": "2026-08-21T18:21:28.013Z",
     "canonical:f8ea8faa5943f9c1": "2026-08-21T18:21:28.013Z",
-    "canonical:11e3b21f4f80504d": "2026-08-21T18:21:28.013Z",
     "canonical:e9b11559aa9338dc": "2026-08-21T18:21:28.013Z",
     "canonical:92af9d9af845d37b": "2026-08-21T18:21:28.013Z",
     "canonical:30632ca3dd7c9fe4": "2026-08-21T18:21:28.013Z",
@@ -2755,7 +2752,10 @@
     "canonical:f0ef71642e4489cd": "2026-08-24T13:28:14.619Z",
     "canonical:85d78d7bc78c755b": "2026-08-24T13:28:14.619Z",
     "canonical:fa2a8c67486c0d38": "2026-08-24T13:28:14.619Z",
-    "canonical:9d345fae60013034": "2026-08-24T13:28:14.619Z"
+    "canonical:9d345fae60013034": "2026-08-24T13:28:14.619Z",
+    "canonical:6a54db97364bf00a": "2026-08-24T14:09:52.394Z",
+    "canonical:757930932e4c0985": "2026-08-24T14:09:52.394Z",
+    "canonical:5ec01df2a99caba1": "2026-08-24T14:09:52.394Z"
   },
   "jobs": [
     {
@@ -5355,7 +5355,7 @@
     {
       "id": "canonical:1a056010d15d11c7",
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -5368,7 +5368,7 @@
     {
       "id": "canonical:073e340d37608d22",
       "title": "Software Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -5937,6 +5937,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:6a54db97364bf00a",
+      "title": "Research and Development Engineering Intern",
+      "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineering-Intern_REQ_0000076214-1",
+      "location": "State College, PA",
+      "department": "Software",
+      "company": "PennState University",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -6850,20 +6864,6 @@
       "url": "https://jobs.ashbyhq.com/melotech/e99207bd-8a2f-4641-a463-08a6633a7073/application",
       "location": "London, UK / NYC / Berlin, Germany",
       "department": "AI/ML/Data",
-      "company": "Melotech",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:59280037432dffa1",
-      "title": "Full-Stack Developer Intern - Music & Audio",
-      "url": "https://jobs.ashbyhq.com/melotech/15af19d9-a318-45a6-8a06-23053ea487a5/application",
-      "location": "London, UK / SF / LA / NYC / Berlin, Germany",
-      "department": "Software",
       "company": "Melotech",
       "score": 93,
       "scoreReasons": [
@@ -11214,6 +11214,19 @@
       "location": "San Jose, CA",
       "department": "Software",
       "company": "TikTok",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:757930932e4c0985",
+      "title": "Network Software Engineer Intern - Network Switch",
+      "url": "https://jobs.bytedance.com/en/position/7670778018960542005/detail",
+      "location": "San Jose, CA",
+      "department": "Software",
+      "company": "ByteDance",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -24912,20 +24925,6 @@
       ]
     },
     {
-      "id": "canonical:11e3b21f4f80504d",
-      "title": "Software Developer",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Entry-Level-Software-Developer_R-00188494",
-      "location": "St. Louis, MO",
-      "department": "Software",
-      "company": "Leidos",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:9d86107a25465bf0",
       "title": "Application Software Developer New Grad",
       "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-3",
@@ -28251,20 +28250,6 @@
         "SWE-aligned",
         "high-signal role",
         "new grad"
-      ]
-    },
-    {
-      "id": "canonical:9a923428232ff592",
-      "title": "Automation Developer",
-      "url": "https://apply.workable.com/saalex/j/B9CC90B5BA/apply",
-      "location": "Remote in USA / Lexington Park, MD",
-      "department": "Software",
-      "company": "Saalex",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -35717,6 +35702,20 @@
       "location": "Raleigh, NC",
       "department": "AI/ML/Data",
       "company": "Celonis",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:5ec01df2a99caba1",
+      "title": "Software Engineer - Sensor - SAO",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer---Sensor--SaO--Hybrid-_R29874",
+      "location": "Redmond, WA / Sunnyvale, CA",
+      "department": "Software",
+      "company": "Crowdstrike",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
