@@ -1,6 +1,6 @@
 # Open Internships
 
-**2747** internships across **188/188** companies — last updated 2026-08-24.
+**2752** internships across **188/188** companies — last updated 2026-08-24.
 
 ## Companies
 
@@ -153,7 +153,7 @@
 - [Blue Sky Innovators](#blue-sky-innovators) (1)
 - [Bluehawk](#bluehawk) (1)
 - [Bluesight](#bluesight) (1)
-- [BNY](#bny) (1)
+- [BNY](#bny) (9)
 - [Boerboel](#boerboel) (1)
 - [Booker DiMaio, LLC](#booker-dimaio-llc) (1)
 - [Boom Supersonic](#boom-supersonic) (1)
@@ -174,7 +174,7 @@
 - [Brunswick](#brunswick) (3)
 - [Buyers Edge Platform](#buyers-edge-platform) (1)
 - [By Light Professional IT Services](#by-light-professional-it-services) (1)
-- [ByteDance](#bytedance) (177)
+- [ByteDance](#bytedance) (176)
 - [CACI](#caci) (9)
 - [Caddi Workflow Automation](#caddi-workflow-automation) (1)
 - [Cadence Design Systems](#cadence-design-systems) (8)
@@ -712,7 +712,7 @@
 - [PDF Solutions](#pdf-solutions) (2)
 - [PDT Partners](#pdt-partners) (2)
 - [Pegatron Technologies LLC](#pegatron-technologies-llc) (1)
-- [PennState University](#pennstate-university) (2)
+- [PennState University](#pennstate-university) (1)
 - [Pennsylvania State University](#pennsylvania-state-university) (16)
 - [People Culture Talent](#people-culture-talent) (1)
 - [Peraton](#peraton) (9)
@@ -913,7 +913,6 @@
 - [Stryker](#stryker) (1)
 - [Subaru](#subaru) (1)
 - [SugarCRM](#sugarcrm) (1)
-- [Sun Life](#sun-life) (1)
 - [Suncor](#suncor) (1)
 - [Sunday Robotics](#sunday-robotics) (1)
 - [Suno](#suno) (1)
@@ -2183,6 +2182,14 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [2027 BNY Summer Internship Program - Engineering (Data Science) - Jersey City, NJ](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81238) | 85 | Jersey City, NJ, United States | Data & ML/AI / Summer 2027 | 2026-08-24 |
+| [2027 BNY Summer Internship Program - Engineering (Data Science) - Lake Mary, FL](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81239) | 85 | Lake Mary, FL, United States | Data & ML/AI / Summer 2027 | 2026-08-24 |
+| [2027 BNY Summer Internship Program - Engineering (Data Science) - New York, NY](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81240) | 85 | New York, NY, United States | Data & ML/AI / Summer 2027 | 2026-08-24 |
+| [2027 BNY Summer Internship Program - Engineering (Data Science) - Pittsburgh, PA](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81241) | 85 | Pittsburgh, PA, United States | Data & ML/AI / Summer 2027 | 2026-08-24 |
+| [2027 BNY Summer Internship Program - Engineering (Developer) - Jersey City, NJ](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81251) | 85 | Jersey City, NJ, United States | Software / Summer 2027 | 2026-08-24 |
+| [2027 BNY Summer Internship Program - Engineering (Developer) - Lake Mary, FL](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81252) | 85 | Lake Mary, FL, United States | Software / Summer 2027 | 2026-08-24 |
+| [2027 BNY Summer Internship Program - Engineering (Developer) - New York, NY](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81253) | 85 | New York, NY, United States | Software / Summer 2027 | 2026-08-24 |
+| [2027 BNY Summer Internship Program - Engineering (Developer) - Pittsburgh, PA](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81254) | 85 | Pittsburgh, PA, United States | Software / Summer 2027 | 2026-08-24 |
 | [Full Stack Engineer - Specialist](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/79369) | 85 | Manchester, UK | Software | 2026-08-17 |
 
 ## Boerboel
@@ -2464,7 +2471,6 @@
 | [Software Development Engineer Intern - Network Automation - 2027 Summer](https://jobs.bytedance.com/en/position/7671147251943213317/detail) | 85 | San Jose, CA | Software | 2026-08-08 |
 | [Machine Learning Research Scientist Intern - Seed AI for Science - Atomistic AI](https://jobs.bytedance.com/en/position/7670855041951795509/detail) | 85 | Seattle, WA | AI/ML/Data | 2026-08-07 |
 | [Network Software Engineer Intern - Network Observation](https://jobs.bytedance.com/en/position/7670772641439041797/detail) | 85 | San Jose, CA | Software | 2026-08-07 |
-| [Network Software Engineer Intern - Network Switch](https://jobs.bytedance.com/en/position/7670778018960542005/detail) | 85 | San Jose, CA | Software | 2026-08-07 |
 | [AI Network Automation Engineer Intern - Global Physical Network Infrastructure](https://jobs.bytedance.com/en/position/7670690923748870405/detail) | 85 | San Jose, CA | Software | 2026-08-06 |
 | [Applied Machine Learning Production Engineer Intern - AML Production Engineer](https://jobs.bytedance.com/en/position/7670009669494704437/detail) | 85 | San Jose, CA | AI/ML/Data | 2026-08-06 |
 | [GPU/AI Application System Software Engineer Intern - System Technologies and Engineering](https://jobs.bytedance.com/en/position/7668464504736876853/detail) | 85 | San Jose, CA | Software | 2026-08-06 |
@@ -2818,7 +2824,7 @@
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
 | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -4513,8 +4519,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Quantitative Developer - Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000145205764) | 93 | New York, New York, United States (Remote) | Quant / Summer 2027 | 2026-08-23 |
-| [Quantitative Researcher - Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000144592181) | 93 | New York, NY, United States | Quant / Summer 2027 | 2026-08-20 |
+| [Quantitative Developer - Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000145263134) | 93 | New York, New York, United States (Remote) | Quant / Summer 2027 | 2026-08-23 |
+| [Quantitative Researcher - Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000145264634) | 93 | New York, NY, United States | Quant / Summer 2027 | 2026-08-20 |
 | [Quantitative Researcher Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421) | 93 | Dubai - United Arab Emirates / NYC | Quant | 2026-08-18 |
 | [Quantitative Developer Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594) | 93 | Dubai - United Arab Emirates / NYC | Quant | 2026-08-13 |
 
@@ -6381,7 +6387,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Data Extraction Programmer](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Data-Extraction-Programming_REQ_0000075672-1) | 93 | State College, PA | AI/ML/Data | 2026-08-17 |
-| [Research and Development Engineering Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineering-Intern_REQ_0000076214-1) | 93 | State College, PA | Software | 2026-08-03 |
 
 ## Pennsylvania State University
 
@@ -7801,12 +7806,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer - Future Hiring](https://jobs.lever.co/sugarcrm/e6235edf-346c-4d4b-a9e1-6556178402d3/apply) | 93 | Solihull, UK | Software | 2026-08-17 |
-
-## Sun Life
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Associate Software Engineer](https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/North-York-Ontario/Associate-Software-Engineer_JR00126945-1) | 93 | North York, ON, Canada / Waterloo, ON, Canada | Software | 2026-08-17 |
 
 ## Suncor
 
