@@ -511,7 +511,7 @@
 - [JPMorganChase](#jpmorganchase) (1)
 - [Julius AI](#julius-ai) (1)
 - [Jumio](#jumio) (1)
-- [Jump Trading](#jump-trading) (42)
+- [Jump Trading](#jump-trading) (43)
 - [Junior](#junior) (1)
 - [Junior AI](#junior-ai) (1)
 - [k-ID](#k-id) (1)
@@ -815,7 +815,7 @@
 - [Rollout](#rollout) (1)
 - [Roserocket](#roserocket) (1)
 - [Ross Stores](#ross-stores) (1)
-- [Royal Bank of Canada](#royal-bank-of-canada) (2)
+- [Royal Bank of Canada](#royal-bank-of-canada) (1)
 - [Royal Caribbean Group](#royal-caribbean-group) (1)
 - [RRS Group](#rrs-group) (2)
 - [RTX](#rtx) (37)
@@ -2763,7 +2763,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer 3 - ENG/CPO/WTG ETR](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-III--Full-Time----United-States-ENG-CPO-WTG-ETR_2022055) | 93 | Milpitas, CA | Hardware | 2026-08-21 |
+| [Software Engineer 3 - ENG/CPO/WTG ETR](https://careers.cisco.com/global/en/job/2022055) | 85 | Milpitas, CA | Hardware | 2026-08-21 |
 
 ## Citi
 
@@ -2819,7 +2819,7 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern - Fall 2026](https://boards.greenhouse.io/cloudflare/jobs/8118855) | 93 | London, UK | Software | 2026-08-20 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
-| [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855) | 93 | In-Office | — | 2026-08-11 |
+| [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
 | [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
@@ -4828,6 +4828,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Campus Quantitative Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027900) | 85 | Hong Kong, Shanghai | — | 2026-08-24 |
 | [AI Research Engineer](https://boards.greenhouse.io/embed/job_app?token=8052313) | 93 | Chicago, IL / NYC | AI/ML/Data | 2026-08-17 |
 | [AI Research Engineer - Research Automation](https://boards.greenhouse.io/embed/job_app?token=8052356) | 93 | Chicago, IL / NYC | AI/ML/Data | 2026-08-17 |
 | [Campus Software Engineer](https://boards.greenhouse.io/embed/job_app?token=8000835) | 93 | Chicago, IL | Software | 2026-08-17 |
@@ -7106,7 +7107,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Data Scientist Intern - Group Risk Management](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Scientist-Intern--8-Months-_R-0000184624) | 93 | Toronto, ON, Canada | AI/ML/Data | 2026-08-18 |
-| [Analytics Engineering Manager - Credit Risk Infrastructure](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Manager---Analytics-Engineering_R-0000183481) | 93 | Toronto, ON, Canada | AI/ML/Data | 2026-08-17 |
 
 ## Royal Caribbean Group
 
