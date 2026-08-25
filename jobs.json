@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-25T19:22:49.820Z",
+  "generatedAt": "2026-08-25T19:52:16.791Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2818,
+  "jobCount": 2814,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -363,7 +363,6 @@
     "canonical:a271207f2510ab40": "2026-08-01T10:54:12.708Z",
     "canonical:6956004c2fe6d76f": "2026-08-01T11:57:30.860Z",
     "canonical:62388f9a8d7fd92c": "2026-08-01T11:57:30.860Z",
-    "canonical:6fbcace9a38d133f": "2026-08-01T11:57:30.860Z",
     "canonical:103b32da1ae68399": "2026-08-01T11:57:30.860Z",
     "canonical:bdaa687430a7d06e": "2026-08-01T12:56:36.100Z",
     "canonical:8060fbb0da9f52f8": "2026-08-01T12:56:36.100Z",
@@ -1121,7 +1120,6 @@
     "canonical:f594c68c959587ea": "2026-08-17T16:14:31.608Z",
     "canonical:eafd5fee744caadb": "2026-08-17T16:14:31.608Z",
     "canonical:098280625dc9323d": "2026-08-17T16:14:31.608Z",
-    "canonical:c731201180ef01d2": "2026-08-17T16:14:31.608Z",
     "canonical:d478560b453ff30a": "2026-08-17T16:14:31.608Z",
     "canonical:7f21da11886d7b0c": "2026-08-17T16:14:31.608Z",
     "canonical:7fa6e4bd93239cb7": "2026-08-17T16:14:31.608Z",
@@ -2447,7 +2445,6 @@
     "canonical:388a079ff43c389f": "2026-08-20T22:54:52.406Z",
     "canonical:eed44b815923bb03": "2026-08-20T22:54:52.406Z",
     "canonical:24e73fe1cd1f39a4": "2026-08-20T22:54:52.406Z",
-    "canonical:99b4e8774e610da6": "2026-08-20T23:15:31.497Z",
     "canonical:fc50700a32f0c0c3": "2026-08-20T23:15:31.497Z",
     "canonical:bf296544efd69ded": "2026-08-20T23:15:31.497Z",
     "canonical:ca0c53a3cd181230": "2026-08-20T23:15:31.497Z",
@@ -2772,7 +2769,6 @@
     "canonical:f450e162b7e7098e": "2026-08-25T11:50:43.806Z",
     "canonical:faf9bb0db923a921": "2026-08-25T11:50:43.806Z",
     "canonical:4cfec13c35d7f70a": "2026-08-25T12:26:06.633Z",
-    "canonical:4a77656807157e3b": "2026-08-25T13:26:04.141Z",
     "canonical:8cd734f6f669de1d": "2026-08-25T14:11:08.566Z",
     "canonical:4b0ab273bab26c2e": "2026-08-25T14:11:08.566Z",
     "canonical:70d44d78e41147e3": "2026-08-25T15:01:59.329Z",
@@ -5432,7 +5428,7 @@
     {
       "id": "canonical:073e340d37608d22",
       "title": "Software Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -6559,20 +6555,6 @@
       "location": "NYC",
       "department": "Software",
       "company": "Haize Labs",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:6fbcace9a38d133f",
-      "title": "Rust Developer Intern",
-      "url": "https://jobs.ashbyhq.com/blockhouse/42a3066f-683c-4b32-b097-5047e89dd12c/application",
-      "location": "Detroit, MI / NYC",
-      "department": "Software",
-      "company": "Blockhouse",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -13796,19 +13778,6 @@
       ]
     },
     {
-      "id": "canonical:99b4e8774e610da6",
-      "title": "Data Full Stack Engineer Intern",
-      "url": "https://ecge.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/20261580",
-      "location": "Oakland, CA",
-      "department": "Software",
-      "company": "Blue Shield of California",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:fc50700a32f0c0c3",
       "title": "Software Engineer Intern - Spring 2027",
       "url": "https://www.zipline.com/open-roles?gh_jid=7907191003",
@@ -20882,19 +20851,6 @@
       "location": "Newark, NJ",
       "department": "Software",
       "company": "Internet Brands",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:c731201180ef01d2",
-      "title": "Application Developer Analyst Level 1 - Information Technology",
-      "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/otANzfw9?nl=1&nl=1&fr=false",
-      "location": "Queens, NY",
-      "department": "Software",
-      "company": "Metropolitan Transportation Authority",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -37224,20 +37180,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:4a77656807157e3b",
-      "title": "Graduate C++ Software Engineer",
-      "url": "https://davincitrading.com/job/graduate-c-software-engineer-2/",
-      "location": "Miami, FL",
-      "department": "",
-      "company": "Da Vinci",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad"
       ]
     },
     {

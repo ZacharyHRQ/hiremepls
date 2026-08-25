@@ -1,6 +1,6 @@
 # Open Internships
 
-**2818** internships across **188/188** companies — last updated 2026-08-25.
+**2814** internships across **188/188** companies — last updated 2026-08-25.
 
 ## Companies
 
@@ -146,10 +146,8 @@
 - [BlackRock](#blackrock) (1)
 - [Blackstone](#blackstone) (3)
 - [Blissway](#blissway) (1)
-- [Blockhouse](#blockhouse) (1)
 - [Bloxd](#bloxd) (1)
 - [Blue Origin](#blue-origin) (3)
-- [Blue Shield of California](#blue-shield-of-california) (1)
 - [Blue Sky Innovators](#blue-sky-innovators) (1)
 - [Bluesight](#bluesight) (1)
 - [BNY](#bny) (11)
@@ -261,7 +259,6 @@
 - [Cylake](#cylake) (1)
 - [D2L](#d2l) (1)
 - [D3 Global Inc](#d3-global-inc) (1)
-- [Da Vinci](#da-vinci) (1)
 - [Daikin Applied](#daikin-applied) (1)
 - [Dark Wolf Solutions](#dark-wolf-solutions) (2)
 - [Databricks](#databricks) (4)
@@ -611,7 +608,6 @@
 - [Meta](#meta) (7)
 - [METECS](#metecs) (1)
 - [Meticulous](#meticulous) (1)
-- [Metropolitan Transportation Authority](#metropolitan-transportation-authority) (1)
 - [MetroStar](#metrostar) (1)
 - [Meyer Distributing](#meyer-distributing) (1)
 - [Microchip Technology](#microchip-technology) (5)
@@ -2143,12 +2139,6 @@
 | --- | --- | --- | --- | --- |
 | [Embedded Systems Engineer New Grad](https://jobs.ashbyhq.com/blissway/51d6d839-9801-4436-bfc2-918bae428ed8/application?embed=true) | 89 | Denver, CO | Hardware | 2026-08-17 |
 
-## Blockhouse
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Rust Developer Intern](https://jobs.ashbyhq.com/blockhouse/42a3066f-683c-4b32-b097-5047e89dd12c/application) | 93 | Detroit, MI / NYC | Software | 2026-08-01 |
-
 ## Bloxd
 
 | Title | Score | Location | Department | First seen |
@@ -2162,12 +2152,6 @@
 | [Software Development Engineer 1 Intern - Corporate Functions](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Software-Development-Engineer-I_R70275) | 93 | Seattle, WA / LA / Florida / Longmont, CO / Arlington County, Arlington, VA / Reston, VA / Denver, CO / Huntsville, AL / Van Horn, TX | Software | 2026-08-20 |
 | [Avionics / Embedded Software Engineer 1 - Early Career](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2026-Starts-_R70055) | 93 | LA / Kent, WA | Hardware | 2026-08-17 |
 | [Software Development Engineer 1 - Early Career](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2026-Starts-_R70051) | 93 | Seattle, WA | Software | 2026-08-17 |
-
-## Blue Shield of California
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Full Stack Engineer Intern](https://ecge.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/20261580) | 85 | Oakland, CA | Software | 2026-08-20 |
 
 ## Blue Sky Innovators
 
@@ -2836,7 +2820,7 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern - Fall 2026](https://boards.greenhouse.io/cloudflare/jobs/8118855) | 93 | London, UK | Software | 2026-08-20 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
-| [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | 93 | In-Office | — | 2026-08-11 |
+| [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
 | [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
@@ -3130,12 +3114,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [New Grad: Backend Engineer](https://d3.com/careers#jobs-listing) | 91 | Los Angeles, CA | — | 2026-08-17 |
-
-## Da Vinci
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Graduate C++ Software Engineer](https://davincitrading.com/job/graduate-c-software-engineer-2/) | 91 | Miami, FL | — | 2026-08-25 |
 
 ## Daikin Applied
 
@@ -5594,12 +5572,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Forward Deployed Engineer New Grad](https://jobs.ashbyhq.com/meticulous/e6d1e0ab-8a28-49ee-94ed-d232886cd7d5/application) | 99 | London, UK | Software | 2026-08-17 |
-
-## Metropolitan Transportation Authority
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Application Developer Analyst Level 1 - Information Technology](https://jobs.jobvite.com/metropolitantransportationauthority/job/otANzfw9?nl=1&nl=1&fr=false) | 85 | Queens, NY | Software | 2026-08-17 |
 
 ## MetroStar
 
