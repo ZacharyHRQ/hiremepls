@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-25T23:16:05.109Z",
+  "generatedAt": "2026-08-25T23:45:09.946Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2837,
+  "jobCount": 2828,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -404,7 +404,6 @@
     "canonical:7ceaf62a71c3688e": "2026-08-01T19:51:12.786Z",
     "canonical:060b9bddf19d9b69": "2026-08-01T19:51:12.786Z",
     "canonical:70b2afd01cdeb431": "2026-08-01T19:51:12.786Z",
-    "canonical:45be727efdef9ad8": "2026-08-01T20:39:53.991Z",
     "canonical:20ee6a11bf7253b3": "2026-08-01T20:39:53.991Z",
     "canonical:dc88457b3359d992": "2026-08-01T20:39:53.991Z",
     "canonical:7c5d7d5814a19bff": "2026-08-01T20:39:53.991Z",
@@ -1599,7 +1598,6 @@
     "canonical:aedec8aedf429fa2": "2026-08-17T16:14:31.608Z",
     "canonical:d9cd77a85837d709": "2026-08-17T16:14:31.608Z",
     "canonical:8ce6b50282f231ba": "2026-08-17T16:14:31.608Z",
-    "canonical:4c02b5519feb8624": "2026-08-17T16:14:31.608Z",
     "canonical:a8139bd16aeef112": "2026-08-17T16:14:31.608Z",
     "canonical:42ff0a39855e2700": "2026-08-17T16:14:31.608Z",
     "canonical:266409f9990182ea": "2026-08-17T16:14:31.608Z",
@@ -2775,15 +2773,9 @@
     "canonical:992bca44358bae10": "2026-08-25T16:27:27.684Z",
     "canonical:f9d581048246f09c": "2026-08-25T17:04:02.376Z",
     "canonical:3f6971d75f50fd48": "2026-08-25T17:04:02.376Z",
-    "canonical:a5b6f5b3284c4585": "2026-08-25T17:43:10.197Z",
     "canonical:ef47fb1f704c40a1": "2026-08-25T17:43:10.197Z",
     "canonical:7674fd5610079088": "2026-08-25T17:43:10.197Z",
     "canonical:face0cfce146937c": "2026-08-25T17:43:10.197Z",
-    "canonical:7c1b7040e67ffc05": "2026-08-25T17:43:10.197Z",
-    "canonical:bc1a955e09f2c100": "2026-08-25T17:43:10.197Z",
-    "canonical:71901ce72116c78a": "2026-08-25T17:43:10.197Z",
-    "canonical:d9896de13daf1f10": "2026-08-25T17:43:10.197Z",
-    "canonical:86dfd39180bd9d1a": "2026-08-25T17:43:10.197Z",
     "canonical:1a169d3f140e04b7": "2026-08-25T18:54:49.249Z",
     "canonical:7e873f971d403d7c": "2026-08-25T18:54:49.249Z",
     "canonical:98f21f5fd7dd01b3": "2026-08-25T18:54:49.249Z",
@@ -2800,7 +2792,6 @@
     "canonical:b4cd5bc23b250cf7": "2026-08-25T18:54:49.249Z",
     "canonical:cf512e089ea13ba1": "2026-08-25T18:54:49.249Z",
     "canonical:ac24d43da5ba0b29": "2026-08-25T18:54:49.249Z",
-    "canonical:117f0e29535ad69e": "2026-08-25T18:54:49.249Z",
     "canonical:1ae22981c8ef9f13": "2026-08-25T19:22:49.820Z",
     "canonical:35b31ae093d607fe": "2026-08-25T19:22:49.820Z",
     "canonical:4a77656807157e3b": "2026-08-25T20:16:38.116Z",
@@ -8698,20 +8689,6 @@
       "location": "Houston, TX",
       "department": "Software",
       "company": "Chevron Corporation",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:45be727efdef9ad8",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1/application?embed=true",
-      "location": "Remote in USA",
-      "department": "Software",
-      "company": "Deepgram",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -16609,20 +16586,6 @@
       "location": "San Francisco, CA",
       "department": "",
       "company": "Kastle",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:a5b6f5b3284c4585",
-      "title": "Software Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
-      "location": "New York, NY / Seattle, WA / Los Angeles, CA / Mountain View, CA / San Francisco, CA",
-      "department": "",
-      "company": "Atoms",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -28376,20 +28339,6 @@
       ]
     },
     {
-      "id": "canonical:4c02b5519feb8624",
-      "title": "Embedded Software Engineer 1",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Embedded-Software-Engineer---P1_01864540",
-      "location": "East Hartford, CT",
-      "department": "Hardware",
-      "company": "RTX",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:735b79eb50fd372b",
       "title": "Data Engineer",
       "url": "https://mizuho.wd1.myworkdayjobs.com/mizuhoamericas/job/MetroPark/Data-Engineer_R7257-1",
@@ -36650,20 +36599,6 @@
       ]
     },
     {
-      "id": "canonical:117f0e29535ad69e",
-      "title": "Software Engineer 1 - Shark",
-      "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--ALDP-_JR103414-1",
-      "location": "Austin, TX / Dallas, TX / Chicago, IL / NYC",
-      "department": "Software",
-      "company": "Apex Fintech Solutions",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:cda01a01b6c278f4",
       "title": "Software Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/maximor/67d0c7d0-fddb-4b8d-aed8-0647337a988e/application?embed=true",
@@ -36955,20 +36890,6 @@
       ]
     },
     {
-      "id": "canonical:7c1b7040e67ffc05",
-      "title": "New Grad: Software Developer",
-      "url": "https://careers.sig.com/job/SUSQA004Y9261",
-      "location": "Bala Cynwyd, PA",
-      "department": "",
-      "company": "SIG",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad"
-      ]
-    },
-    {
       "id": "canonical:aeac1b87dc5c2b0e",
       "title": "New Grad: C++ Software Engineer, MTL",
       "url": "https://tower-research.com/open-positions/?gh_jid=6855851",
@@ -37082,19 +37003,6 @@
       "location": "Sunnyvale, CA",
       "department": "",
       "company": "Apple",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:bc1a955e09f2c100",
-      "title": "C#/.NET Software Engineer 1",
-      "url": "https://careers.garmin.com/careers-home/jobs/15924",
-      "location": "Cary, NC",
-      "department": "",
-      "company": "Garmin",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -37284,19 +37192,6 @@
       "location": "San Francisco, CA",
       "department": "",
       "company": "Lumafield",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:71901ce72116c78a",
-      "title": "Full Stack Software Engineer, Early Career",
-      "url": "https://careers.viasat.com/jobs/4457",
-      "location": "Carlsbad, CA / Remote",
-      "department": "",
-      "company": "Viasat",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -37700,19 +37595,6 @@
       "location": "Foster City, CA",
       "department": "",
       "company": "QuinStreet",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:d9896de13daf1f10",
-      "title": "Software Developer - GPU IO Libraries",
-      "url": "https://careers.amd.com/careers-home/jobs/67592",
-      "location": "Calgary, Canada / Remote",
-      "department": "",
-      "company": "AMD",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -38955,19 +38837,6 @@
       "location": "Vancouver, Canada / Remote",
       "department": "",
       "company": "Optum",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:86dfd39180bd9d1a",
-      "title": "Firmware Security Engineer",
-      "url": "https://careers.amd.com/careers-home/jobs/68783",
-      "location": "Vancouver, Canada",
-      "department": "",
-      "company": "AMD",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",

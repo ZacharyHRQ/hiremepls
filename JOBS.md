@@ -1,6 +1,6 @@
 # Open Internships
 
-**2837** internships across **188/188** companies — last updated 2026-08-25.
+**2828** internships across **188/188** companies — last updated 2026-08-25.
 
 ## Companies
 
@@ -46,7 +46,7 @@
 - [Ambral](#ambral) (1)
 - [Ambrook](#ambrook) (2)
 - [Amcor](#amcor) (1)
-- [AMD](#amd) (12)
+- [AMD](#amd) (10)
 - [Amentum](#amentum) (4)
 - [Ameren](#ameren) (1)
 - [American Electric Power](#american-electric-power) (1)
@@ -66,7 +66,6 @@
 - [Anthelion Capital](#anthelion-capital) (4)
 - [Anthropic](#anthropic) (1)
 - [Anyscale](#anyscale) (1)
-- [Apex Fintech Solutions](#apex-fintech-solutions) (1)
 - [Apex Technology, Inc.](#apex-technology-inc) (1)
 - [Apollo Mission Critical Engineering](#apollo-mission-critical-engineering) (1)
 - [Appian](#appian) (6)
@@ -105,7 +104,7 @@
 - [AtkinsRéalis](#atkinsr-alis) (1)
 - [Atlas Energy Solutions](#atlas-energy-solutions) (1)
 - [Atomic Semi](#atomic-semi) (4)
-- [Atoms](#atoms) (2)
+- [Atoms](#atoms) (1)
 - [Atos](#atos) (1)
 - [Atria Group](#atria-group) (6)
 - [Auctor](#auctor) (1)
@@ -269,7 +268,7 @@
 - [Decagon](#decagon) (1)
 - [DecisionPoint Corporation](#decisionpoint-corporation) (1)
 - [Dedalus Labs](#dedalus-labs) (1)
-- [Deepgram](#deepgram) (2)
+- [Deepgram](#deepgram) (1)
 - [Deeter Analytics](#deeter-analytics) (1)
 - [Deliveroo](#deliveroo) (1)
 - [DellFor Technologies](#dellfor-technologies) (22)
@@ -376,7 +375,7 @@
 - [FSH Technologies](#fsh-technologies) (1)
 - [Fullbay](#fullbay) (1)
 - [Garda Capital Partners](#garda-capital-partners) (1)
-- [Garmin](#garmin) (9)
+- [Garmin](#garmin) (8)
 - [Gartner](#gartner) (1)
 - [GE Appliances](#ge-appliances) (1)
 - [GE Healthcare](#ge-healthcare) (2)
@@ -814,7 +813,7 @@
 - [Royal Bank of Canada](#royal-bank-of-canada) (3)
 - [Royal Caribbean Group](#royal-caribbean-group) (1)
 - [RRS Group](#rrs-group) (2)
-- [RTX](#rtx) (37)
+- [RTX](#rtx) (36)
 - [RunSybil](#runsybil) (1)
 - [Ryder System](#ryder-system) (1)
 - [SA Technologies](#sa-technologies) (2)
@@ -847,7 +846,6 @@
 - [ShyftLabs](#shyftlabs) (3)
 - [Sierra](#sierra) (2)
 - [Sierra Nevada Corporation](#sierra-nevada-corporation) (1)
-- [SIG](#sig) (1)
 - [SightCall](#sightcall) (1)
 - [Sigla](#sigla) (1)
 - [Sigma](#sigma) (1)
@@ -1025,7 +1023,6 @@
 - [Verse Medical](#verse-medical) (1)
 - [Vertiv](#vertiv) (2)
 - [VetsEZ](#vetsez) (1)
-- [Viasat](#viasat) (1)
 - [ViaSat](#viasat) (2)
 - [Viridien](#viridien) (2)
 - [Virtu Financial](#virtu-financial) (5)
@@ -1417,8 +1414,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Firmware Security Engineer](https://careers.amd.com/careers-home/jobs/68783) | 85 | Vancouver, Canada | — | 2026-08-25 |
-| [Software Developer - GPU IO Libraries](https://careers.amd.com/careers-home/jobs/67592) | 85 | Calgary, Canada / Remote | — | 2026-08-25 |
 | [Research Engineering Intern/Co-op - AMD Research](https://careers.amd.com/jobs/90926?icims=1) | 85 | Secaucus, NJ / Austin, TX / Longmont, CO / Fishkill, NY / Fort Collins, CO / Boxborough, MA | AI/ML/Data | 2026-08-25 |
 | [Firmware Engineer Intern/Co-op](https://careers.amd.com/jobs/90801?icims=1) | 75 | Secaucus, NJ / Rochester, NY / Austin, TX / Longmont, CO / Fishkill, NY / Fort Collins, CO / Massachusetts | Hardware | 2026-08-25 |
 | [Firmware Engineer Intern/Co-op](https://careers.amd.com/jobs/90805?icims=1) | 75 | Secaucus, NJ / Rochester, NY / Austin, TX / Longmont, CO / Fishkill, NY / Fort Collins, CO / Boxborough, MA | Hardware | 2026-08-25 |
@@ -1570,12 +1565,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [New Grad 2026: Software Engineer](https://jobs.ashbyhq.com/anyscale/31d09081-f5e7-45e4-b561-1c53d0ca9200) | 99 | San Francisco, CA / Palo Alto, CA | — | 2026-08-17 |
-
-## Apex Fintech Solutions
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer 1 - Shark](https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--ALDP-_JR103414-1) | 93 | Austin, TX / Dallas, TX / Chicago, IL / NYC | Software | 2026-08-25 |
 
 ## Apex Technology, Inc.
 
@@ -1872,7 +1861,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8687896002) | 93 | New York, NY / Seattle, WA / Los Angeles, CA / Mountain View, CA / San Francisco, CA | — | 2026-08-25 |
 | [Machine Learning PhD Software Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8693034002) | 93 | Seattle, WA / LA / NYC / Mountain View, CA | Software | 2026-08-10 |
 
 ## Atos
@@ -3186,7 +3174,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1/application?embed=true) | 93 | Remote in USA | Software | 2026-08-01 |
 | [Software Engineering- Internship (Fall 2026/Summer 2027)](https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1) | 93 | USA \| Remote | Software / Summer 2027 | 2026-07-20 |
 
 ## Deeter Analytics
@@ -3906,7 +3893,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [C#/.NET Software Engineer 1](https://careers.garmin.com/careers-home/jobs/15924) | 85 | Cary, NC | — | 2026-08-25 |
 | [Software Engineer Intern](https://careers.garmin.com/jobs/19693?icims=1) | 85 | Olathe, KS | Hardware | 2026-08-24 |
 | [Software Engineer 1](https://careers.garmin.com/jobs/19680?icims=1) | 85 | Yarmouth, ME | Software | 2026-08-21 |
 | [Embedded Software Engineer 1](https://careers.garmin.com/jobs/19134?icims=1) | 85 | Chandler, AZ | Hardware | 2026-08-17 |
@@ -7195,7 +7181,6 @@
 | [Software Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Software-Engineering-Intern--Summer-2027-_01867324) | 93 | US-IA-CEDAR RAPIDS-192 ~ 1205 Continental Place NE ~ BLDG 192 | Software / Summer 2027 | 2026-08-17 |
 | [Conversion Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/XMLNAME-2027-Conversion-Software-Engineer-I--Onsite-_01858534) | 93 | Richardson, TX | Software | 2026-08-17 |
 | [Data Analytics and Methods Engineer - Mission Applied Science & Technology](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I_01866279) | 93 | Richardson, TX | Software | 2026-08-17 |
-| [Embedded Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Embedded-Software-Engineer---P1_01864540) | 93 | East Hartford, CT | Hardware | 2026-08-17 |
 | [Embedded Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Embedded-Software-Engineer-I--Onsite-_01866161-1) | 93 | Cedar Rapids, IA | Hardware | 2026-08-17 |
 | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Software-Engineer-1--ONSITE-_01846079) | 93 | Cedar Rapids, IA | Hardware | 2026-08-17 |
 | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I--Onsite-_01865026-1) | 93 | Tucson, AZ | Software | 2026-08-17 |
@@ -7425,12 +7410,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Fellow - Military Fellowship Program](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Military-Fellowship-Program--Software-Engineer_R0028640) | 93 | Southern Pines, NC | Software | 2026-08-17 |
-
-## SIG
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [New Grad: Software Developer](https://careers.sig.com/job/SUSQA004Y9261) | 91 | Bala Cynwyd, PA | — | 2026-08-25 |
 
 ## SightCall
 
@@ -8920,12 +8899,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Full Stack Developer Intern](https://vetsez.breezy.hr/p/a4010fdb3a7001-full-stack-developer-intern-remote-opportunity) | 85 | Remote in US | Software Engineering | 2026-06-24 |
-
-## Viasat
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Full Stack Software Engineer, Early Career](https://careers.viasat.com/jobs/4457) | 85 | Carlsbad, CA / Remote | — | 2026-08-25 |
 
 ## ViaSat
 
