@@ -1,6 +1,6 @@
 # Open Internships
 
-**2811** internships across **188/188** companies — last updated 2026-08-25.
+**2809** internships across **188/188** companies — last updated 2026-08-25.
 
 ## Companies
 
@@ -70,7 +70,7 @@
 - [Apex Technology, Inc.](#apex-technology-inc) (1)
 - [Apollo Mission Critical Engineering](#apollo-mission-critical-engineering) (1)
 - [Appian](#appian) (6)
-- [Apple](#apple) (30)
+- [Apple](#apple) (29)
 - [Applied Intuition](#applied-intuition) (5)
 - [Applied Materials](#applied-materials) (9)
 - [Applied Systems, Inc.](#applied-systems-inc) (2)
@@ -610,7 +610,7 @@
 - [MetroStar](#metrostar) (1)
 - [Meyer Distributing](#meyer-distributing) (1)
 - [Microchip Technology](#microchip-technology) (5)
-- [Micron Technology](#micron-technology) (6)
+- [Micron Technology](#micron-technology) (5)
 - [Microsoft](#microsoft) (11)
 - [Millennium](#millennium) (3)
 - [Mindsmith](#mindsmith) (1)
@@ -1625,7 +1625,6 @@
 | [Systems Engineer](https://jobs.apple.com/en-us/details/200636915) | 85 | Cupertino, CA | Software | 2026-08-17 |
 | [Systems Software Engineer](https://jobs.apple.com/en-us/details/200663092) | 85 | San Diego, CA | Hardware | 2026-08-17 |
 | [Wi-Fi Software Systems Performance Engineer](https://jobs.apple.com/en-us/details/200620177-3543/wi-fi-software-systems-performance-engineer) | 85 | San Diego, CA | — | 2026-08-17 |
-| [Hardware Systems Engineering - Multiple Teams](https://jobs.apple.com/en-us/details/200647863) | 75 | Austin, TX / Cupertino, CA / San Diego, CA | Hardware | 2026-08-17 |
 | [SoC Firmware Engineer](https://jobs.apple.com/en-us/details/200656978) | 75 | Cupertino, CA | Hardware | 2026-08-17 |
 | [Software Engineer Intern, Undergrad](https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships) | 85 | United States | — | 2026-08-17 |
 | [Software Engineering Intern, Masters](https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships) | 85 | United States | — | 2026-08-17 |
@@ -5594,7 +5593,6 @@
 | [EDA/CAD Engineering New Grad](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---EDA-CAD-Engineer_JR103200) | 99 | San Jose, CA / Boise, ID | AI/ML/Data | 2026-08-17 |
 | [IT Software Support Engineer New Grad](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/New-College-Grad---IT-Software-Support-Engineer_JR108465) | 99 | Boise, ID | Software | 2026-08-17 |
 | [Engineer – Metro Real-time Defect Analysis - Real-time Defect Analysis - Process & Equipment](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Engineer--Metro-Real-time-Defect-Analysis--RDA--Process---Equipment_JR94375) | 93 | Leander, TX | AI/ML/Data | 2026-08-17 |
-| [New College Grad - EDA/CAD Engineer](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---EDA-CAD-Engineer_JR103201) | 93 | San Jose, CA / Boise, ID | AI/ML/Data | 2026-08-17 |
 
 ## Microsoft
 
