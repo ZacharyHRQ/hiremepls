@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T15:56:19.861Z",
+  "generatedAt": "2026-08-25T16:27:27.684Z",
   "companyCount": 188,
   "okCount": 188,
   "jobCount": 2804,
@@ -1548,7 +1548,6 @@
     "canonical:4601c7f746e1356d": "2026-08-17T16:14:31.608Z",
     "canonical:bea696da3937727d": "2026-08-17T16:14:31.608Z",
     "canonical:298d5399da95f4c7": "2026-08-17T16:14:31.608Z",
-    "canonical:0017158e8483bd7a": "2026-08-17T16:14:31.608Z",
     "canonical:5d128eb60551776c": "2026-08-17T16:14:31.608Z",
     "canonical:7f881f5afcb22ed4": "2026-08-17T16:14:31.608Z",
     "canonical:42e2abcff76cfdbc": "2026-08-17T16:14:31.608Z",
@@ -2666,7 +2665,6 @@
     "canonical:aac6fca8bda07320": "2026-08-24T20:45:12.081Z",
     "canonical:d138827ae63de0d9": "2026-08-24T20:45:12.081Z",
     "canonical:aeaa766b84378202": "2026-08-24T21:18:49.308Z",
-    "canonical:a95709e71f94419a": "2026-08-24T21:18:49.308Z",
     "canonical:08367d3bcfaed026": "2026-08-24T21:18:49.308Z",
     "canonical:5bb645bf81144745": "2026-08-24T21:18:49.308Z",
     "canonical:c7e6c8a87ea4a7d9": "2026-08-24T21:18:49.308Z",
@@ -2807,7 +2805,9 @@
     "canonical:c14bec3bf47cd880": "2026-08-25T15:56:19.861Z",
     "canonical:5063447d35d81bf0": "2026-08-25T15:56:19.861Z",
     "canonical:663b890d4e5ac9f5": "2026-08-25T15:56:19.861Z",
-    "canonical:5b49281aba257bfc": "2026-08-25T15:56:19.861Z"
+    "canonical:5b49281aba257bfc": "2026-08-25T15:56:19.861Z",
+    "canonical:0f259dc0186e372e": "2026-08-25T16:27:27.684Z",
+    "canonical:992bca44358bae10": "2026-08-25T16:27:27.684Z"
   },
   "jobs": [
     {
@@ -11136,6 +11136,20 @@
       ]
     },
     {
+      "id": "canonical:0f259dc0186e372e",
+      "title": "Software Engineer Intern - Winter 2027",
+      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002",
+      "location": "Seattle, WA / SF / LA / NYC / Mountain View, CA",
+      "department": "Software",
+      "company": "Atoms",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:69acd4c0fa388415",
       "title": "PhD Research Scientist Intern - Reinforcement Learning - Images",
       "url": "https://jobs.smartrecruiters.com/Canva/6000000001292768",
@@ -14610,20 +14624,6 @@
       ]
     },
     {
-      "id": "canonical:a95709e71f94419a",
-      "title": "Robotics Software Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8695475002",
-      "location": "LA / Pittsburgh, PA",
-      "department": "Software",
-      "company": "Atoms",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:08367d3bcfaed026",
       "title": "AI Developer Intern",
       "url": "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose---California/AI-Developer-Intern_R-1756",
@@ -14958,6 +14958,20 @@
       "location": "Huntsville, AL",
       "department": "Software",
       "company": "Northrop Grumman",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:992bca44358bae10",
+      "title": "Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7974381003?gh_jid=7974381003",
+      "location": "Massachusetts",
+      "department": "Software",
+      "company": "Celonis",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -27335,20 +27349,6 @@
       "location": "Cincinnati, OH",
       "department": "AI/ML/Data",
       "company": "Procter & Gamble (P&G)",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:0017158e8483bd7a",
-      "title": "Software Developer 1",
-      "url": "https://jobs.lever.co/agatesoftware/60c278e1-9b47-4ba9-8961-0e0cf41e0739/apply",
-      "location": "Glendale, AZ",
-      "department": "Software",
-      "company": "Agate Software",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
