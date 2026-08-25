@@ -1,6 +1,6 @@
 # Open Internships
 
-**2813** internships across **188/188** companies — last updated 2026-08-25.
+**2812** internships across **188/188** companies — last updated 2026-08-25.
 
 ## Companies
 
@@ -77,7 +77,6 @@
 - [Aquatic Capital Management](#aquatic-capital-management) (4)
 - [Architect Labs](#architect-labs) (1)
 - [Ardian](#ardian) (1)
-- [Arevon](#arevon) (1)
 - [Argmax](#argmax) (1)
 - [Argonne National Laboratory](#argonne-national-laboratory) (3)
 - [Arista Networks](#arista-networks) (1)
@@ -606,7 +605,8 @@
 - [Mendix](#mendix) (1)
 - [Merative](#merative) (1)
 - [Mercor](#mercor) (1)
-- [Meshy](#meshy) (2)
+- [Meridian Partners](#meridian-partners) (3)
+- [Meshy](#meshy) (1)
 - [Mesotech International](#mesotech-international) (1)
 - [Meta](#meta) (9)
 - [METECS](#metecs) (1)
@@ -633,7 +633,6 @@
 - [Moon](#moon) (1)
 - [Motorola](#motorola) (13)
 - [MSA Safety](#msa-safety) (1)
-- [MUFG](#mufg) (1)
 - [Mulligan Funding](#mulligan-funding) (2)
 - [Muon Space](#muon-space) (1)
 - [N1](#n1) (4)
@@ -699,7 +698,7 @@
 - [Options Technology](#options-technology) (1)
 - [Optiver](#optiver) (11)
 - [Optum](#optum) (1)
-- [Oracle](#oracle) (13)
+- [Oracle](#oracle) (12)
 - [Oxford Quantum Circuits (OQC)](#oxford-quantum-circuits-oqc) (1)
 - [Packz](#packz) (1)
 - [Palantir](#palantir) (84)
@@ -1683,12 +1682,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Data Scientist Intern](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Data-Scientist-Intern_JR1001434) | 93 | NYC | AI/ML/Data | 2026-07-21 |
-
-## Arevon
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer - Business Systems & Analytics](https://job-boards.greenhouse.io/arevonenergyimpltest/jobs/5027450007) | 93 | Scottsdale, AZ | Software | 2026-08-20 |
 
 ## Argmax
 
@@ -5542,11 +5535,18 @@
 | --- | --- | --- | --- | --- |
 | [Data Scientist](https://jobs.ashbyhq.com/mercor/982a0751-e9eb-4b96-ac93-a1fd1d2f9152/application) | 93 | SF | AI/ML/Data | 2026-08-17 |
 
+## Meridian Partners
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Data Scientist Graduate Co-op](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967886003) | 99 | Cambridge, MA, Arlington, VA | Data & ML/AI / Not stated | 2026-08-25 |
+| [Front End Software Engineer Graduate Co-op](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968076003) | 99 | Cambridge, MA | Software / Not stated | 2026-08-25 |
+| [Full Stack Software Engineer Graduate Co-op](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968100003) | 99 | Cambridge, MA, Arlington, VA, Seattle, WA | Software / Not stated | 2026-08-25 |
+
 ## Meshy
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Fullstack Engineer Intern](https://jobs.ashbyhq.com/meshy/262d74c7-8aab-474e-9fc6-8c8c48ec6572/application) | 93 | California | Software | 2026-08-01 |
 | [Data Infra Engineer Intern](https://jobs.ashbyhq.com/meshy/2f33b2eb-b76d-4618-b299-497471f263b9) | 93 | San Francisco, CA | Software Engineering | 2026-05-27 |
 
 ## Mesotech International
@@ -5745,12 +5745,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern - Product Development - Summer 2027](https://careers.msasafety.com/jobs/9993?icims=1) | 85 | Cranberry Township, PA | Hardware | 2026-08-24 |
-
-## MUFG
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [ML Engineer - AVP](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Jersey-City-NJ/ML-Engineer_10076539-WD) | 93 | NYC | AI/ML/Data | 2026-08-24 |
 
 ## Mulligan Funding
 
@@ -6258,7 +6252,6 @@
 | [Principal Applied Scientist](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340897) | 85 | United States | AI/ML/Data | 2026-08-17 |
 | [Software Developer 3](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/337610) | 85 | Santa Clara, CA | Software | 2026-08-17 |
 | [Systems Software Engineer 1](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340728) | 85 | United States | Hardware | 2026-08-17 |
-| [Systems Software Engineer 1 - Cloud Infrastructure](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342326) | 85 | Nashville, TN | Hardware | 2026-08-17 |
 | [Platform Software Engineer 1 Intern - Full-time Intern Conversion](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342415) | 85 | United States | Software | 2026-08-12 |
 | [Software Engineer Intern](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334325) | 85 | Seattle, WA / Santa Clara, CA | Software | 2026-05-21 |
 | [Software Engineer Intern - Ovip](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334333) | 85 | Nashville, TN / Austin, TX / United States | Software | 2026-05-21 |

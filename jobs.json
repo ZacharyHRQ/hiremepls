@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-25T02:07:25.113Z",
+  "generatedAt": "2026-08-25T03:10:27.168Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2813,
+  "jobCount": 2812,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -382,7 +382,6 @@
     "canonical:d32ae9699e017f4c": "2026-08-01T14:23:11.511Z",
     "canonical:51c9b4da188261da": "2026-08-01T15:33:38.600Z",
     "canonical:1903ea6b0e57aeaa": "2026-08-01T15:33:38.600Z",
-    "canonical:93c1aa291cbc1779": "2026-08-01T15:33:38.600Z",
     "canonical:360f81d0ff355ed6": "2026-08-01T15:33:38.600Z",
     "canonical:8c76e328dc89930b": "2026-08-01T15:33:38.600Z",
     "canonical:671476feb017f2b4": "2026-08-01T15:33:38.600Z",
@@ -1782,7 +1781,6 @@
     "canonical:e62281eaa7cd6073": "2026-08-17T16:14:31.608Z",
     "canonical:feb28c0b9c44f32f": "2026-08-17T16:14:31.608Z",
     "canonical:d74da0daebbcad2d": "2026-08-17T16:14:31.608Z",
-    "canonical:63f6149d1a14b04d": "2026-08-17T16:14:31.608Z",
     "canonical:f2b68ee0380969b0": "2026-08-17T16:14:31.608Z",
     "canonical:711ecac8730e94ef": "2026-08-17T16:14:31.608Z",
     "canonical:7f029c3f77ebfedd": "2026-08-17T16:14:31.608Z",
@@ -2443,7 +2441,6 @@
     "canonical:1886fec3d5117f2e": "2026-08-20T02:21:31.211Z",
     "canonical:83d72ac9b640405a": "2026-08-20T02:21:31.211Z",
     "canonical:bd0c0f10cf4700d6": "2026-08-20T02:21:31.211Z",
-    "canonical:699c1fdb93549cf5": "2026-08-20T02:21:31.211Z",
     "canonical:c3c15393690ff04c": "2026-08-20T02:21:31.211Z",
     "canonical:808a940dfcbddaf1": "2026-08-20T02:21:31.211Z",
     "canonical:5f47b7ec7b871a75": "2026-08-20T02:21:31.211Z",
@@ -2729,7 +2726,6 @@
     "canonical:f9c22ab21dab3a42": "2026-08-24T20:45:12.081Z",
     "canonical:69c8acb3ed7f4c89": "2026-08-24T20:45:12.081Z",
     "canonical:5b37ebdbd370abcb": "2026-08-24T20:45:12.081Z",
-    "canonical:926d17c86501e459": "2026-08-24T20:45:12.081Z",
     "canonical:3e3c7acba54570ff": "2026-08-24T20:45:12.081Z",
     "canonical:ffe42b736806040f": "2026-08-24T20:45:12.081Z",
     "canonical:ef47fb1f704c40a1": "2026-08-24T20:45:12.081Z",
@@ -2816,7 +2812,10 @@
     "canonical:8db5b173389e6885": "2026-08-25T02:07:25.113Z",
     "canonical:2e5fcbe61f674322": "2026-08-25T02:07:25.113Z",
     "canonical:83df992fdaf43e9f": "2026-08-25T02:07:25.113Z",
-    "canonical:2e256a1d7b96ae64": "2026-08-25T02:07:25.113Z"
+    "canonical:2e256a1d7b96ae64": "2026-08-25T02:07:25.113Z",
+    "canonical:60067e42b1811328": "2026-08-25T03:10:27.168Z",
+    "canonical:fb9f02b491c80ae6": "2026-08-25T03:10:27.168Z",
+    "canonical:3131eec9a7d47787": "2026-08-25T03:10:27.168Z"
   },
   "jobs": [
     {
@@ -5317,10 +5316,10 @@
       ]
     },
     {
-      "id": "canonical:62beda5aaf0fcc6c",
+      "id": "canonical:e8a5b9fc6e1a4de2",
       "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
-      "location": "Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
+      "location": "Bengaluru",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -5330,10 +5329,10 @@
       ]
     },
     {
-      "id": "canonical:e8a5b9fc6e1a4de2",
+      "id": "canonical:62beda5aaf0fcc6c",
       "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
-      "location": "Bengaluru",
+      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
+      "location": "Dublin",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -7260,20 +7259,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:93c1aa291cbc1779",
-      "title": "Fullstack Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/meshy/262d74c7-8aab-474e-9fc6-8c8c48ec6572/application",
-      "location": "California",
-      "department": "Software",
-      "company": "Meshy",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -18956,20 +18941,6 @@
       ]
     },
     {
-      "id": "canonical:926d17c86501e459",
-      "title": "ML Engineer - AVP",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Jersey-City-NJ/ML-Engineer_10076539-WD",
-      "location": "NYC",
-      "department": "AI/ML/Data",
-      "company": "MUFG",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:1eab9d844a03d30b",
       "title": "Graduate Quant Developer",
       "url": "https://boards.greenhouse.io/embed/job_app?token=7918610",
@@ -25049,20 +25020,6 @@
       ]
     },
     {
-      "id": "canonical:699c1fdb93549cf5",
-      "title": "Software Engineer - Business Systems & Analytics",
-      "url": "https://job-boards.greenhouse.io/arevonenergyimpltest/jobs/5027450007",
-      "location": "Scottsdale, AZ",
-      "department": "Software",
-      "company": "Arevon",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:2d83a266a6699ef0",
       "title": "Software Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/nooks/311d6e70-5cfa-4e80-89f6-fe00ac1f9f53/application?embed=true",
@@ -30822,19 +30779,6 @@
       "location": "Bethesda, MD / United States",
       "department": "Software",
       "company": "Marriott International",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:63f6149d1a14b04d",
-      "title": "Systems Software Engineer 1 - Cloud Infrastructure",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342326",
-      "location": "Nashville, TN",
-      "department": "Hardware",
-      "company": "Oracle",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -40563,6 +40507,51 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:60067e42b1811328",
+      "title": "Data Scientist Graduate Co-op",
+      "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967886003",
+      "location": "Cambridge, MA, Arlington, VA",
+      "department": "Data & ML/AI / Not stated",
+      "company": "Meridian Partners",
+      "score": 99,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:fb9f02b491c80ae6",
+      "title": "Front End Software Engineer Graduate Co-op",
+      "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968076003",
+      "location": "Cambridge, MA",
+      "department": "Software / Not stated",
+      "company": "Meridian Partners",
+      "score": 99,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:3131eec9a7d47787",
+      "title": "Full Stack Software Engineer Graduate Co-op",
+      "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968100003",
+      "location": "Cambridge, MA, Arlington, VA, Seattle, WA",
+      "department": "Software / Not stated",
+      "company": "Meridian Partners",
+      "score": 99,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
+        "direct ATS"
       ]
     },
     {
