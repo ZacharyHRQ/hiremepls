@@ -260,6 +260,7 @@
 - [Cylake](#cylake) (1)
 - [D2L](#d2l) (1)
 - [D3 Global Inc](#d3-global-inc) (1)
+- [Da Vinci](#da-vinci) (1)
 - [Daikin Applied](#daikin-applied) (1)
 - [Dark Wolf Solutions](#dark-wolf-solutions) (2)
 - [Databricks](#databricks) (4)
@@ -645,7 +646,6 @@
 - [NBCUniversal](#nbcuniversal) (2)
 - [NCR Voyix](#ncr-voyix) (1)
 - [Nebo](#nebo) (2)
-- [Nelnet](#nelnet) (1)
 - [NeoSigma](#neosigma) (2)
 - [Netflix](#netflix) (1)
 - [Netic](#netic) (3)
@@ -3115,6 +3115,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [New Grad: Backend Engineer](https://d3.com/careers#jobs-listing) | 91 | Los Angeles, CA | — | 2026-08-17 |
+
+## Da Vinci
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Graduate C++ Software Engineer](https://davincitrading.com/job/graduate-c-software-engineer-2/) | 91 | Miami, FL | — | 2026-08-25 |
 
 ## Daikin Applied
 
@@ -5827,12 +5833,6 @@
 | --- | --- | --- | --- | --- |
 | [Back-End Engineer Intern](https://neboagency.applytojob.com/apply/VhgOaS6Nx3/BackEnd-Engineering-Intern) | 85 | Atlanta, GA | Software | 2026-08-03 |
 | [Front-End Engineer Intern](https://neboagency.applytojob.com/apply/TtGKnP4ODV/FrontEnd-Engineering-Intern) | 85 | Atlanta, GA | Software | 2026-08-03 |
-
-## Nelnet
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI Engineer Intern](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---AI-Engineer_R22763) | 93 | Lincoln, NE | AI/ML/Data | 2026-08-01 |
 
 ## NeoSigma
 

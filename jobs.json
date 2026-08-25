@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T03:56:35.527Z",
+  "generatedAt": "2026-08-25T04:32:29.511Z",
   "companyCount": 188,
   "okCount": 188,
   "jobCount": 2813,
@@ -387,7 +387,6 @@
     "canonical:671476feb017f2b4": "2026-08-01T15:33:38.600Z",
     "canonical:5b93475ac32ee191": "2026-08-01T15:33:38.600Z",
     "canonical:ec23121dc644d031": "2026-08-01T15:33:38.600Z",
-    "canonical:11b276e5677a2970": "2026-08-01T15:33:38.600Z",
     "canonical:2490d8bfc16fc718": "2026-08-01T15:33:38.600Z",
     "canonical:1fd516f098e80e1d": "2026-08-01T16:36:04.156Z",
     "canonical:3a586592cda0efdc": "2026-08-01T16:36:04.156Z",
@@ -2816,7 +2815,8 @@
     "canonical:189cb4c1cea62326": "2026-08-25T03:56:35.527Z",
     "canonical:0a44cdee2ae4cd7d": "2026-08-25T03:56:35.527Z",
     "canonical:8cee4813ea5e7ecc": "2026-08-25T03:56:35.527Z",
-    "canonical:cb51126b67bbc525": "2026-08-25T03:56:35.527Z"
+    "canonical:cb51126b67bbc525": "2026-08-25T03:56:35.527Z",
+    "canonical:4a77656807157e3b": "2026-08-25T04:32:29.511Z"
   },
   "jobs": [
     {
@@ -7433,20 +7433,6 @@
       "location": "San Diego, CA",
       "department": "Software",
       "company": "Sony",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:11b276e5677a2970",
-      "title": "AI Engineer Intern",
-      "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---AI-Engineer_R22763",
-      "location": "Lincoln, NE",
-      "department": "AI/ML/Data",
-      "company": "Nelnet",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -37227,6 +37213,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:4a77656807157e3b",
+      "title": "Graduate C++ Software Engineer",
+      "url": "https://davincitrading.com/job/graduate-c-software-engineer-2/",
+      "location": "Miami, FL",
+      "department": "",
+      "company": "Da Vinci",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
       ]
     },
     {
