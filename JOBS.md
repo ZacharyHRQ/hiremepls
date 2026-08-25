@@ -1,6 +1,6 @@
 # Open Internships
 
-**2804** internships across **188/188** companies — last updated 2026-08-25.
+**2803** internships across **188/188** companies — last updated 2026-08-25.
 
 ## Companies
 
@@ -111,11 +111,10 @@
 - [Aurora](#aurora) (1)
 - [Aurora Innovation](#aurora-innovation) (2)
 - [Auto-Owners Insurance](#auto-owners-insurance) (1)
-- [Autodesk](#autodesk) (6)
+- [Autodesk](#autodesk) (7)
 - [Avalore](#avalore) (2)
 - [Avoca AI](#avoca-ai) (1)
 - [Axis Capital](#axis-capital) (1)
-- [Axon](#axon) (1)
 - [Axos Bank](#axos-bank) (2)
 - [AXQ Capital](#axq-capital) (1)
 - [Babel Street](#babel-street) (1)
@@ -368,6 +367,7 @@
 - [Fortinet](#fortinet) (2)
 - [Forus](#forus) (1)
 - [Foundation Finance](#foundation-finance) (1)
+- [Foundation Health](#foundation-health) (1)
 - [Framatome](#framatome) (1)
 - [Freddie Mac](#freddie-mac) (2)
 - [Freedom Technology Solutions Group](#freedom-technology-solutions-group) (1)
@@ -801,7 +801,6 @@
 - [Rio Tinto](#rio-tinto) (1)
 - [Rippling](#rippling) (4)
 - [Ritchie Bros.](#ritchie-bros) (1)
-- [Riverside Research](#riverside-research) (1)
 - [Rivet Industries](#rivet-industries) (1)
 - [Rivian and Volkswagen Group Technologies](#rivian-and-volkswagen-group-technologies) (5)
 - [Roam](#roam) (1)
@@ -1027,7 +1026,7 @@
 - [ViaSat](#viasat) (2)
 - [Viridien](#viridien) (2)
 - [Virtu Financial](#virtu-financial) (5)
-- [Visa](#visa) (7)
+- [Visa](#visa) (6)
 - [Vital Lyfe](#vital-lyfe) (1)
 - [VITAL LYFE](#vital-lyfe) (1)
 - [VivSoft Technologies](#vivsoft-technologies) (1)
@@ -1911,6 +1910,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [PhD Intern - AI Researcher for CAD - B-Rep](https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/PhD-Intern---AI-Researcher-for-CAD--B-Rep--Generation_25WD92254) | 93 | Toronto, ON, Canada | AI/ML/Data | 2026-08-25 |
 | [AI Developer Intern - Creative Technology](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2) | 93 | Montreal, QC, Canada | AI/ML/Data | 2026-08-19 |
 | [AI Developer Intern](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-1) | 93 | Montreal, QC, Canada | AI/ML/Data | 2026-08-19 |
 | [Software Developer Intern](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-1) | 93 | Montreal, QC, Canada | Software | 2026-08-11 |
@@ -1936,12 +1936,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Renewable Energy Engineer Intern](https://axiscapital.wd1.myworkdayjobs.com/axiscareers/job/London---Scalpel/Renewable-Energy-Engineering-Intern_REQ06664-1) | 93 | London, UK | AI/ML/Data | 2026-08-01 |
-
-## Axon
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003) | 93 | Boston, MA / Seattle, WA | Software | 2026-08-25 |
 
 ## Axos Bank
 
@@ -3844,6 +3838,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Full Stack Developer Intern](https://careers.foundationfinance.com/jobs/2097?icims=1) | 85 | Rothschild, WI | Software | 2026-08-18 |
+
+## Foundation Health
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer](https://jobs.ashbyhq.com/foundationhealthcareers/e5a46260-f26d-4c62-a641-defcc04db137/application?embed=true) | 93 | Orlando, FL / Remote in USA | Software | 2026-08-25 |
 
 ## Framatome
 
@@ -7059,12 +7059,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer](https://fa-exew-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9146) | 85 | Brookfield, IL | Software | 2026-08-17 |
 
-## Riverside Research
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Embedded Hardware Security Research Engineer](https://careers-riversideresearch.icims.com/jobs/4351/job?mobile=true&needsRedirect=false) | 85 | Beavercreek, OH | Hardware | 2026-08-20 |
-
 ## Rivet Industries
 
 | Title | Score | Location | Department | First seen |
@@ -8916,7 +8910,6 @@
 | [New Grad 2026: Software Engineer](https://jobs.smartrecruiters.com/visa/744000080905065-software-engineer-new-college-grad-2026) | 99 | Foster City, CA | — | 2026-08-17 |
 | [New Grad 2026: Software Engineer](https://jobs.smartrecruiters.com/visa/744000080905285-software-engineer-new-college-grad-2026) | 99 | Highlands Ranch, CO | — | 2026-08-17 |
 | [New Grad 2026: Software Engineer](https://jobs.smartrecruiters.com/visa/744000080906904-software-engineer-new-college-grad-2026) | 99 | Austin, TX | — | 2026-08-17 |
-| [Software Engineer - Corporate GenAI](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/Software-Engineer---Corporate-GenAI_REF085070W) | 93 | Bellevue, WA | Software | 2026-08-17 |
 | [Systems Engineer - Linux - AI](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Systems-Engineer--Linux-and-AI_REF077273W) | 93 | Ashburn, VA | Software | 2026-08-17 |
 | [Systems Engineer, Virtualization/Linux Engineering](https://jobs.smartrecruiters.com/Visa/744000066662880-systems-engineer-virtualization-linux-engineering-junior-level-) | 83 | Highlands Ranch, CO | — | 2026-08-17 |
 

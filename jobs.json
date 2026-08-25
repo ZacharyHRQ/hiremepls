@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-25T16:27:27.684Z",
+  "generatedAt": "2026-08-25T17:04:02.376Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2804,
+  "jobCount": 2803,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1581,7 +1581,6 @@
     "canonical:114df915d77b4a66": "2026-08-17T16:14:31.608Z",
     "canonical:6b1d83ba5e06daf5": "2026-08-17T16:14:31.608Z",
     "canonical:791755e5a2abf027": "2026-08-17T16:14:31.608Z",
-    "canonical:4919d80d57539597": "2026-08-17T16:14:31.608Z",
     "canonical:b233e03a0dd76c6a": "2026-08-17T16:14:31.608Z",
     "canonical:e0f6e2cacc7c3069": "2026-08-17T16:14:31.608Z",
     "canonical:41972281389e1089": "2026-08-17T16:14:31.608Z",
@@ -2445,7 +2444,6 @@
     "canonical:dc895d2c22b26897": "2026-08-20T22:54:52.406Z",
     "canonical:5e6699fa8919ebce": "2026-08-20T22:54:52.406Z",
     "canonical:fc0211871fa33832": "2026-08-20T22:54:52.406Z",
-    "canonical:af728be96de82f8b": "2026-08-20T22:54:52.406Z",
     "canonical:a000b4aa9c3f4c77": "2026-08-20T22:54:52.406Z",
     "canonical:860afe338ca3eee4": "2026-08-20T22:54:52.406Z",
     "canonical:65486e387d175750": "2026-08-20T22:54:52.406Z",
@@ -2756,7 +2754,6 @@
     "canonical:befa6ba40722dfed": "2026-08-25T10:00:19.795Z",
     "canonical:703e77aeccdc575c": "2026-08-25T10:00:19.795Z",
     "canonical:ed0787cc5a8f304f": "2026-08-25T10:46:42.414Z",
-    "canonical:bcd306396df863e5": "2026-08-25T10:46:42.414Z",
     "canonical:d1da7b2ac572df8f": "2026-08-25T10:46:42.414Z",
     "canonical:69922f01d0937fb4": "2026-08-25T10:46:42.414Z",
     "canonical:6ccf23bf09c9d0ac": "2026-08-25T10:46:42.414Z",
@@ -2807,7 +2804,9 @@
     "canonical:663b890d4e5ac9f5": "2026-08-25T15:56:19.861Z",
     "canonical:5b49281aba257bfc": "2026-08-25T15:56:19.861Z",
     "canonical:0f259dc0186e372e": "2026-08-25T16:27:27.684Z",
-    "canonical:992bca44358bae10": "2026-08-25T16:27:27.684Z"
+    "canonical:992bca44358bae10": "2026-08-25T16:27:27.684Z",
+    "canonical:f9d581048246f09c": "2026-08-25T17:04:02.376Z",
+    "canonical:3f6971d75f50fd48": "2026-08-25T17:04:02.376Z"
   },
   "jobs": [
     {
@@ -5307,10 +5306,10 @@
       ]
     },
     {
-      "id": "canonical:e8a5b9fc6e1a4de2",
+      "id": "canonical:62beda5aaf0fcc6c",
       "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
-      "location": "Bengaluru",
+      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
+      "location": "Dublin",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -5320,10 +5319,10 @@
       ]
     },
     {
-      "id": "canonical:62beda5aaf0fcc6c",
+      "id": "canonical:e8a5b9fc6e1a4de2",
       "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
-      "location": "Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
+      "location": "Bengaluru",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -5643,6 +5642,20 @@
       "location": "Palo Alto, CA",
       "department": "AI/ML/Data",
       "company": "Tencent",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f9d581048246f09c",
+      "title": "PhD Intern - AI Researcher for CAD - B-Rep",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/PhD-Intern---AI-Researcher-for-CAD--B-Rep--Generation_25WD92254",
+      "location": "Toronto, ON, Canada",
+      "department": "AI/ML/Data",
+      "company": "Autodesk",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -11372,20 +11385,6 @@
       "location": "El Segundo, CA",
       "department": "AI/ML/Data",
       "company": "Varda Space",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:bcd306396df863e5",
-      "title": "Software Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003",
-      "location": "Boston, MA / Seattle, WA",
-      "department": "Software",
-      "company": "Axon",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -27803,20 +27802,6 @@
       ]
     },
     {
-      "id": "canonical:4919d80d57539597",
-      "title": "Software Engineer - Corporate GenAI",
-      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/Software-Engineer---Corporate-GenAI_REF085070W",
-      "location": "Bellevue, WA",
-      "department": "Software",
-      "company": "Visa",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:6b1d83ba5e06daf5",
       "title": "Secure Systems Research and Development Engineer",
       "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Reston-VA/Secure-Systems-Research-and-Development-Engineer_REQ_0000077943-2",
@@ -34711,19 +34696,6 @@
       ]
     },
     {
-      "id": "canonical:af728be96de82f8b",
-      "title": "Embedded Hardware Security Research Engineer",
-      "url": "https://careers-riversideresearch.icims.com/jobs/4351/job?mobile=true&needsRedirect=false",
-      "location": "Beavercreek, OH",
-      "department": "Hardware",
-      "company": "Riverside Research",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:a000b4aa9c3f4c77",
       "title": "Quality Analytics Engineer",
       "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68687",
@@ -36502,6 +36474,20 @@
         "SWE-aligned",
         "high-signal role",
         "new grad",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:3f6971d75f50fd48",
+      "title": "Software Engineer",
+      "url": "https://jobs.ashbyhq.com/foundationhealthcareers/e5a46260-f26d-4c62-a641-defcc04db137/application?embed=true",
+      "location": "Orlando, FL / Remote in USA",
+      "department": "Software",
+      "company": "Foundation Health",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
         "direct ATS"
       ]
     },
