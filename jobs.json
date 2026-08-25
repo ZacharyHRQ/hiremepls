@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-25T08:04:52.790Z",
+  "generatedAt": "2026-08-25T08:56:46.788Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2813,
+  "jobCount": 2804,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1022,7 +1022,6 @@
     "canonical:c318cc5e6a2101aa": "2026-08-17T16:14:31.608Z",
     "canonical:82603c6c53d052b1": "2026-08-17T16:14:31.608Z",
     "canonical:ef0d637723259f4e": "2026-08-17T16:14:31.608Z",
-    "canonical:cb7e250145714529": "2026-08-17T16:14:31.608Z",
     "canonical:268d2d796bbe824f": "2026-08-17T16:14:31.608Z",
     "canonical:b3882a42aa28668d": "2026-08-17T16:14:31.608Z",
     "canonical:a32b2bf34f93bbbb": "2026-08-17T16:14:31.608Z",
@@ -2228,10 +2227,6 @@
     "canonical:3677aa793e052ec5": "2026-08-17T16:45:31.582Z",
     "canonical:c3d7ee648c159a0c": "2026-08-17T16:45:31.582Z",
     "canonical:d07b4e9cd9ac5f5b": "2026-08-17T16:45:31.582Z",
-    "canonical:3c9c6a26fa86cd94": "2026-08-17T16:45:31.582Z",
-    "canonical:2d7ed73ce01ddf00": "2026-08-17T16:45:31.582Z",
-    "canonical:eae9e514a7146e2a": "2026-08-17T16:45:31.582Z",
-    "canonical:332563f08f136e28": "2026-08-17T16:45:31.582Z",
     "canonical:dc763765096afe5b": "2026-08-17T16:45:31.582Z",
     "canonical:e22881e22c747207": "2026-08-17T21:15:56.458Z",
     "canonical:de52bee35dfa071d": "2026-08-17T22:12:49.528Z",
@@ -2304,7 +2299,6 @@
     "canonical:0cbdbf83c130ed28": "2026-08-18T07:12:07.808Z",
     "canonical:a09b5a1047bf1b8e": "2026-08-18T07:12:07.808Z",
     "canonical:e8b343368106d72f": "2026-08-18T07:12:07.808Z",
-    "canonical:409ff167ee7ac9b7": "2026-08-18T07:12:07.808Z",
     "canonical:4f705bb50e66aceb": "2026-08-18T07:12:07.808Z",
     "canonical:58cfbf0f6691fad1": "2026-08-18T07:12:07.808Z",
     "canonical:07a7e758f3ec5324": "2026-08-18T07:12:07.808Z",
@@ -2475,8 +2469,6 @@
     "canonical:c303e9f41e5bf7a8": "2026-08-20T18:22:23.089Z",
     "canonical:d3e4c9ff2c085de6": "2026-08-20T18:22:23.089Z",
     "canonical:7349c9e50c7848f2": "2026-08-20T19:42:41.892Z",
-    "canonical:37dcb5dca29463c3": "2026-08-20T20:01:35.132Z",
-    "canonical:ac58ed7066ad25b3": "2026-08-20T20:01:35.132Z",
     "canonical:1481881b12c83348": "2026-08-20T20:01:35.132Z",
     "canonical:915a554df7bafb7f": "2026-08-20T22:54:52.406Z",
     "canonical:8ea56f75f67db291": "2026-08-20T22:54:52.406Z",
@@ -2700,7 +2692,6 @@
     "canonical:3ff455b2e470a85e": "2026-08-24T15:33:54.257Z",
     "canonical:80af9bc868409f10": "2026-08-24T15:33:54.257Z",
     "canonical:61bfcd1509a64a6c": "2026-08-24T15:33:54.257Z",
-    "canonical:1c7f590a1b0639e9": "2026-08-24T15:33:54.257Z",
     "canonical:62ea9d072f8eddd8": "2026-08-24T15:33:54.257Z",
     "canonical:96eafb7e00128f53": "2026-08-24T15:33:54.257Z",
     "canonical:1a021c8c7f8c551f": "2026-08-24T15:33:54.257Z",
@@ -2794,7 +2785,6 @@
     "canonical:8db5b173389e6885": "2026-08-25T02:07:25.113Z",
     "canonical:2e5fcbe61f674322": "2026-08-25T02:07:25.113Z",
     "canonical:83df992fdaf43e9f": "2026-08-25T02:07:25.113Z",
-    "canonical:2e256a1d7b96ae64": "2026-08-25T02:07:25.113Z",
     "canonical:60067e42b1811328": "2026-08-25T03:10:27.168Z",
     "canonical:fb9f02b491c80ae6": "2026-08-25T03:10:27.168Z",
     "canonical:3131eec9a7d47787": "2026-08-25T03:10:27.168Z",
@@ -2816,7 +2806,8 @@
     "canonical:d1da7b2ac572df8f": "2026-08-25T07:24:08.174Z",
     "canonical:5ccbdd16c804408f": "2026-08-25T07:24:08.174Z",
     "canonical:caa37dbb765c5132": "2026-08-25T07:24:08.174Z",
-    "canonical:ee2ac1afa3058d54": "2026-08-25T07:24:08.174Z"
+    "canonical:ee2ac1afa3058d54": "2026-08-25T07:24:08.174Z",
+    "canonical:11083bec5b9e1973": "2026-08-25T08:56:46.788Z"
   },
   "jobs": [
     {
@@ -5222,7 +5213,7 @@
       "title": "Software Engineer - New Grad 2026",
       "url": "https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac",
       "location": "",
-      "department": "Software",
+      "department": "University Departments",
       "company": "Cerebras",
       "score": 96,
       "scoreReasons": [
@@ -5238,12 +5229,11 @@
       "title": "DevOps Engineer - New Grad 2026",
       "url": "https://jobs.ashbyhq.com/cerebras/40e0d3ee-8f0a-4b19-9bf9-79410b1c7735",
       "location": "",
-      "department": "Software",
+      "department": "University Departments",
       "company": "Cerebras",
-      "score": 96,
+      "score": 86,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
         "new grad",
         "direct ATS",
         "unknown location"
@@ -5317,10 +5307,10 @@
       ]
     },
     {
-      "id": "canonical:e8a5b9fc6e1a4de2",
+      "id": "canonical:62beda5aaf0fcc6c",
       "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
-      "location": "Bengaluru",
+      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
+      "location": "Dublin",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -5330,10 +5320,10 @@
       ]
     },
     {
-      "id": "canonical:62beda5aaf0fcc6c",
+      "id": "canonical:e8a5b9fc6e1a4de2",
       "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
-      "location": "Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
+      "location": "Bengaluru",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -14510,19 +14500,6 @@
       ]
     },
     {
-      "id": "canonical:1c7f590a1b0639e9",
-      "title": "Software Developer Intern - Engineering",
-      "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81253",
-      "location": "NYC",
-      "department": "Software",
-      "company": "BNY",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:9a5935ee627b3b0f",
       "title": "Android Application Developer Intern - Summer 2027",
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740",
@@ -19162,20 +19139,6 @@
         "SWE-aligned",
         "high-signal role",
         "new grad",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:cb7e250145714529",
-      "title": "Software Engineer - Hardware Simulation & Engineering Infrastructure",
-      "url": "https://jobs.smartrecruiters.com/Sandisk/744000127665769",
-      "location": "Edinburgh, UK",
-      "department": "Hardware",
-      "company": "Sandisk",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
         "direct ATS"
       ]
     },
@@ -24574,69 +24537,12 @@
       ]
     },
     {
-      "id": "canonical:2d7ed73ce01ddf00",
-      "title": "Junior Machine Learning Engineer",
-      "url": "https://job-boards.greenhouse.io/taxreliefadvocates/jobs/4759563008",
-      "location": "Irvine, CA",
-      "department": "AI/ML/Data",
-      "company": "Tax Relief Advocates",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:3c9c6a26fa86cd94",
-      "title": "Software Engineer - Entry",
-      "url": "https://job-boards.greenhouse.io/patterndata/jobs/5196699007",
-      "location": "Richmond, VA",
-      "department": "Software",
-      "company": "Pattern Data",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:332563f08f136e28",
-      "title": "Algorithm Engineer New Grad - Deep Learning & Vision",
-      "url": "https://job-boards.greenhouse.io/botauto/jobs/5371947008",
-      "location": "Houston, TX / SF",
-      "department": "AI/ML/Data",
-      "company": "Bot Auto",
-      "score": 99,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:d3598a7f3dd8b6ee",
       "title": "Software Engineer 1",
       "url": "https://jobs.ashbyhq.com/runsybil-jobs/fd733ce7-7892-4019-9f6d-b6a75ba2aa59/application?embed=true",
       "location": "NYC",
       "department": "Software",
       "company": "RunSybil",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:37dcb5dca29463c3",
-      "title": "Software Engineer 1",
-      "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5196864007",
-      "location": "Bellevue, WA",
-      "department": "Software",
-      "company": "The Trade Desk",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -24655,21 +24561,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:eae9e514a7146e2a",
-      "title": "Applied AI Engineer New Grad - Advertising Agents",
-      "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4700278006",
-      "location": "Mountain View, CA",
-      "department": "AI/ML/Data",
-      "company": "NewsBreak",
-      "score": 99,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
-        "direct ATS"
       ]
     },
     {
@@ -24780,20 +24671,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:ac58ed7066ad25b3",
-      "title": "Data Engineer Associate",
-      "url": "https://job-boards.greenhouse.io/affirmedrxpbc/jobs/5372829008",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "AffirmedRx",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -33873,20 +33750,6 @@
       ]
     },
     {
-      "id": "canonical:409ff167ee7ac9b7",
-      "title": "Software Engineer 1 - Observability & Insights",
-      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Software-Engineer-I_10157423",
-      "location": "Glendale, CA / NYC",
-      "department": "Software",
-      "company": "The Walt Disney Company",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:07a7e758f3ec5324",
       "title": "Application Engineer - 2027 Start Date",
       "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/Entry-Level-Application-Engineer----2027-Start-Date_180412",
@@ -39871,19 +39734,6 @@
       ]
     },
     {
-      "id": "canonical:2e256a1d7b96ae64",
-      "title": "Data Engineer, Analytics",
-      "url": "https://www.metacareers.com/jobs/2578176955882259",
-      "location": "New York, NY",
-      "department": "",
-      "company": "Meta",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:9d8d7ee6071b0068",
       "title": "Software Engineer, Backend",
       "url": "https://jobs.ashbyhq.com/clipboard/b83ea62e-f143-4673-a741-3e98e7e083bd",
@@ -40590,6 +40440,19 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:11083bec5b9e1973",
+      "title": "2027 BNY Summer Internship Program - Engineering (Developer) - New York, NY",
+      "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81253",
+      "location": "New York, NY, United States",
+      "department": "Software / Summer 2027",
+      "company": "BNY",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
