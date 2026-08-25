@@ -1,6 +1,6 @@
 # Open Internships
 
-**2814** internships across **188/188** companies — last updated 2026-08-25.
+**2811** internships across **188/188** companies — last updated 2026-08-25.
 
 ## Companies
 
@@ -106,7 +106,7 @@
 - [AtkinsRéalis](#atkinsr-alis) (1)
 - [Atlas Energy Solutions](#atlas-energy-solutions) (1)
 - [Atomic Semi](#atomic-semi) (4)
-- [Atoms](#atoms) (3)
+- [Atoms](#atoms) (2)
 - [Atos](#atos) (1)
 - [Atria Group](#atria-group) (6)
 - [Auctor](#auctor) (1)
@@ -217,7 +217,6 @@
 - [Clipboard Health](#clipboard-health) (1)
 - [Cloudflare](#cloudflare) (8)
 - [Cloudscaler](#cloudscaler) (1)
-- [Coalition](#coalition) (1)
 - [Codan Limited](#codan-limited) (1)
 - [Codeage](#codeage) (1)
 - [Cogent Security](#cogent-security) (1)
@@ -259,6 +258,7 @@
 - [Cylake](#cylake) (1)
 - [D2L](#d2l) (1)
 - [D3 Global Inc](#d3-global-inc) (1)
+- [Da Vinci](#da-vinci) (1)
 - [Daikin Applied](#daikin-applied) (1)
 - [Dark Wolf Solutions](#dark-wolf-solutions) (2)
 - [Databricks](#databricks) (4)
@@ -384,7 +384,7 @@
 - [Generac](#generac) (3)
 - [General Dynamics](#general-dynamics) (1)
 - [General Dynamics Information Technology](#general-dynamics-information-technology) (6)
-- [General Dynamics Mission Systems](#general-dynamics-mission-systems) (12)
+- [General Dynamics Mission Systems](#general-dynamics-mission-systems) (11)
 - [General Matter](#general-matter) (2)
 - [General Motors](#general-motors) (2)
 - [Genetec](#genetec) (4)
@@ -400,7 +400,7 @@
 - [Glide](#glide) (2)
 - [Global Lending Services](#global-lending-services) (1)
 - [Global Relay](#global-relay) (1)
-- [GlobalFoundries](#globalfoundries) (4)
+- [GlobalFoundries](#globalfoundries) (3)
 - [Globus Medical](#globus-medical) (1)
 - [GM financial](#gm-financial) (2)
 - [Goldman Sachs](#goldman-sachs) (1)
@@ -584,7 +584,6 @@
 - [Marmon Holdings](#marmon-holdings) (3)
 - [Marriott International](#marriott-international) (3)
 - [Marvell](#marvell) (3)
-- [Mass General Brigham](#mass-general-brigham) (1)
 - [Mastercard](#mastercard) (2)
 - [Mathtech](#mathtech) (2)
 - [Maven Securities](#maven-securities) (2)
@@ -947,7 +946,7 @@
 - [The Anywhere](#the-anywhere) (1)
 - [The Boeing Company](#the-boeing-company) (4)
 - [The Brattle Group](#the-brattle-group) (1)
-- [The Hartford](#the-hartford) (3)
+- [The Hartford](#the-hartford) (4)
 - [The Home Depot](#the-home-depot) (3)
 - [The Nuclear Company](#the-nuclear-company) (6)
 - [The Trade Desk](#the-trade-desk) (2)
@@ -1878,7 +1877,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8687896002) | 93 | New York, NY / Seattle, WA / Los Angeles, CA / Mountain View, CA / San Francisco, CA | — | 2026-08-25 |
-| [Software Engineer Intern - Winter 2027](https://job-boards.greenhouse.io/cssmerge/jobs/8687915002) | 93 | Seattle, WA / SF / LA / NYC / Mountain View, CA | Software | 2026-08-25 |
 | [Machine Learning PhD Software Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8693034002) | 93 | Seattle, WA / LA / NYC / Mountain View, CA | Software | 2026-08-10 |
 
 ## Atos
@@ -2833,12 +2831,6 @@
 | --- | --- | --- | --- | --- |
 | [Associate Engineer Graduate Entry Role](https://jobs.ashbyhq.com/cloudscaler/5785a84a-4984-4c87-9899-b9ae289bf575/application?embed=true) | 99 | London, UK | Software | 2026-08-17 |
 
-## Coalition
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer I](https://www.coalitioninc.com/job-posting/4560711005) | 85 | San Francisco, CA | — | 2026-08-25 |
-
 ## Codan Limited
 
 | Title | Score | Location | Department | First seen |
@@ -3114,6 +3106,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [New Grad: Backend Engineer](https://d3.com/careers#jobs-listing) | 91 | Los Angeles, CA | — | 2026-08-17 |
+
+## Da Vinci
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Graduate C++ Software Engineer](https://davincitrading.com/job/graduate-c-software-engineer-2/) | 91 | Miami, FL | — | 2026-08-25 |
 
 ## Daikin Applied
 
@@ -3978,7 +3976,6 @@
 | [Entry Level Software Engineer](https://careers-gdms.icims.com/jobs/74417/job?mobile=true&needsRedirect=false) | 85 | Scottsdale, AZ | Software | 2026-08-19 |
 | [Entry Level Infrastructure Hardware Systems Engineer](https://careers-gdms.icims.com/jobs/72936/job?mobile=true&needsRedirect=false) | 85 | Pittsfield, MA | Hardware | 2026-08-17 |
 | [Entry Level Infrastructure Software Engineer](https://careers-gdms.icims.com/jobs/72580/job?mobile=true&needsRedirect=false) | 85 | Pittsfield, MA | Software | 2026-08-17 |
-| [Entry Level Software Engineer](https://careers-gdms.icims.com/jobs/72592/job?mobile=true&needsRedirect=false) | 85 | Brooklyn, OH | Software | 2026-08-17 |
 | [Infrastructure Hardware Systems Engineer Entry Level](https://careers-gdms.icims.com/jobs/73388/job?mobile=true&needsRedirect=false) | 85 | Chula Vista, CA | Hardware | 2026-08-17 |
 | [Junior Full Stack Engineer (Java/React)](https://careers-gdms.icims.com/jobs/71647/junior-full-stack-engineer-%28java-react%29/job) | 85 | Dedham, MA | Software Engineering | 2026-08-17 |
 | [Junior Software Engineer](https://careers-gdms.icims.com/jobs/68413) | 85 | Dedham, MA | — | 2026-08-17 |
@@ -4087,7 +4084,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Technology Architecture and Competitiveness Engineer New Grad - Structural Analysis](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Technology-Architecture-and-Competitiveness-Engineer--2027-New-College-Graduate-_JR-2604319) | 99 | Santa Clara, CA | AI/ML/Data | 2026-08-22 |
-| [AI/ML Software Engineer New Grad](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Richardson/AI-ML-Software-Engineer--2026-New-College-Graduate-_JR-2602832) | 99 | Austin, TX / Santa Clara, CA / Richardson, TX | Software | 2026-08-20 |
 | [Global Tapeout and Mask Operations New College Graduate - Biz App and Data Engineer](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Global-Tapeout-and-Mask-Operations--Biz-App-and-Data-Engineer--2026-New-College-Graduate-_JR-2502471-1) | 99 | Austin, TX | AI/ML/Data | 2026-08-17 |
 | [Tapeout Engineer New Grad](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Tapeout-Engineer--2026-New-College-Graduate_JR-2602561) | 99 | Austin, TX | AI/ML/Data | 2026-08-17 |
 
@@ -5412,12 +5408,6 @@
 | [Applied Machine Learning Scientist Intern - PhD](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Applied-Machine-Learning-Scientist-Intern---PhD_2502662) | 93 | Santa Clara, CA | AI/ML/Data | 2026-08-01 |
 | [Applied Machine Learning Scientist Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Applied-Machine-Learning-Scientist-Intern---PhD_2502662-1) | 93 | Santa Clara, CA | AI/ML/Data | 2026-07-21 |
 
-## Mass General Brigham
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Statistical Programmer/Data Analyst](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Statistical-Programmer--Data-Analyst_RQ4076375) | 93 | Somerville, MA | AI/ML/Data | 2026-08-17 |
-
 ## Mastercard
 
 | Title | Score | Location | Department | First seen |
@@ -6577,8 +6567,8 @@
 | [Quantitative Developer](https://careers.point72.com/CSJobDetail?jobName=quantitative-developer&jobCode=CSS-0013369&location=New%20York&locale=English) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-08-17 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -8107,6 +8097,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Tech & Data Program Summer 2027 - Software Engineer Intern (Columbus)](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Columbus-OH/Tech---Data-Summer-Program-2027---Software-Engineer-Intern--Columbus-_R2626609) | 93 | Columbus, OH | Data & ML/AI / Summer 2027 | 2026-08-25 |
 | [Data Engineer Intern - Tech & Data Program](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Columbus-OH/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Columbus-_R2626610) | 93 | Columbus, OH | AI/ML/Data | 2026-08-24 |
 | [Data Engineer Intern - Technology, Data, AI, and Operations](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1) | 93 | Hartford, CT | AI/ML/Data | 2026-08-24 |
 | [Software Engineer Intern - Tech & Data Program](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1) | 93 | Hartford, CT | Software | 2026-08-24 |

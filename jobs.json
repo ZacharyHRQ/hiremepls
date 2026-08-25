@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-25T19:52:16.791Z",
+  "generatedAt": "2026-08-25T20:16:38.116Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2814,
+  "jobCount": 2811,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1006,7 +1006,6 @@
     "canonical:cf2ce3d7cebbb868": "2026-08-17T16:14:31.608Z",
     "canonical:85a8d871318470a6": "2026-08-17T16:14:31.608Z",
     "canonical:cff42fbddc413a80": "2026-08-17T16:14:31.608Z",
-    "canonical:9eab6d7357202842": "2026-08-17T16:14:31.608Z",
     "canonical:fa96d7f92e557aef": "2026-08-17T16:14:31.608Z",
     "canonical:1448c41f43f778f8": "2026-08-17T16:14:31.608Z",
     "canonical:c27f0184b870fe32": "2026-08-17T16:14:31.608Z",
@@ -2233,7 +2232,6 @@
     "canonical:b46d0a7f601d1ffc": "2026-08-17T23:18:48.642Z",
     "canonical:73d3c3f853090f6a": "2026-08-17T23:18:48.642Z",
     "canonical:d94d433f6cb3c544": "2026-08-17T23:18:48.642Z",
-    "canonical:9bd863a70bbf4243": "2026-08-17T23:18:48.642Z",
     "canonical:895b083a9509d775": "2026-08-17T23:18:48.642Z",
     "canonical:bcd45b344f031e5f": "2026-08-17T23:18:48.642Z",
     "canonical:7fe8e53be23e1a73": "2026-08-17T23:18:48.642Z",
@@ -2384,7 +2382,6 @@
     "canonical:c7d5d063f2c52600": "2026-08-20T01:05:21.178Z",
     "canonical:cc9606ca0adb6dd8": "2026-08-20T01:05:21.178Z",
     "canonical:88f717e3806d30dc": "2026-08-20T01:05:21.178Z",
-    "canonical:a8e4100ce6963bf1": "2026-08-20T01:05:21.178Z",
     "canonical:419b62ef3d5e6bf3": "2026-08-20T01:05:21.178Z",
     "canonical:1a338f9e282882db": "2026-08-20T02:21:31.211Z",
     "canonical:124270e4fa88037d": "2026-08-20T02:21:31.211Z",
@@ -2770,7 +2767,6 @@
     "canonical:faf9bb0db923a921": "2026-08-25T11:50:43.806Z",
     "canonical:4cfec13c35d7f70a": "2026-08-25T12:26:06.633Z",
     "canonical:8cd734f6f669de1d": "2026-08-25T14:11:08.566Z",
-    "canonical:4b0ab273bab26c2e": "2026-08-25T14:11:08.566Z",
     "canonical:70d44d78e41147e3": "2026-08-25T15:01:59.329Z",
     "canonical:91ae6a7452a32ebf": "2026-08-25T15:01:59.329Z",
     "canonical:7a2ec7fe58aa67fb": "2026-08-25T15:56:19.861Z",
@@ -2785,7 +2781,6 @@
     "canonical:5063447d35d81bf0": "2026-08-25T15:56:19.861Z",
     "canonical:663b890d4e5ac9f5": "2026-08-25T15:56:19.861Z",
     "canonical:5b49281aba257bfc": "2026-08-25T15:56:19.861Z",
-    "canonical:0f259dc0186e372e": "2026-08-25T16:27:27.684Z",
     "canonical:992bca44358bae10": "2026-08-25T16:27:27.684Z",
     "canonical:f9d581048246f09c": "2026-08-25T17:04:02.376Z",
     "canonical:3f6971d75f50fd48": "2026-08-25T17:04:02.376Z",
@@ -2817,7 +2812,9 @@
     "canonical:ac24d43da5ba0b29": "2026-08-25T18:54:49.249Z",
     "canonical:117f0e29535ad69e": "2026-08-25T18:54:49.249Z",
     "canonical:1ae22981c8ef9f13": "2026-08-25T19:22:49.820Z",
-    "canonical:35b31ae093d607fe": "2026-08-25T19:22:49.820Z"
+    "canonical:35b31ae093d607fe": "2026-08-25T19:22:49.820Z",
+    "canonical:4a77656807157e3b": "2026-08-25T20:16:38.116Z",
+    "canonical:cb0cbd4d75eb7ce1": "2026-08-25T20:16:38.116Z"
   },
   "jobs": [
     {
@@ -3612,10 +3609,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -3626,10 +3623,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -11124,20 +11121,6 @@
       "location": "SF",
       "department": "AI/ML/Data",
       "company": "Canva",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:0f259dc0186e372e",
-      "title": "Software Engineer Intern - Winter 2027",
-      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002",
-      "location": "Seattle, WA / SF / LA / NYC / Mountain View, CA",
-      "department": "Software",
-      "company": "Atoms",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -19163,19 +19146,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:9eab6d7357202842",
-      "title": "Entry Level Software Engineer",
-      "url": "https://careers-gdms.icims.com/jobs/72592/job?mobile=true&needsRedirect=false",
-      "location": "Brooklyn, OH",
-      "department": "Software",
-      "company": "General Dynamics Mission Systems",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -33383,20 +33353,6 @@
       ]
     },
     {
-      "id": "canonical:9bd863a70bbf4243",
-      "title": "Statistical Programmer/Data Analyst",
-      "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Statistical-Programmer--Data-Analyst_RQ4076375",
-      "location": "Somerville, MA",
-      "department": "AI/ML/Data",
-      "company": "Mass General Brigham",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:d94d433f6cb3c544",
       "title": "Associate Software Engineer",
       "url": "https://www.talroo.com/careers/apply/?gh_jid=1003689",
@@ -34506,21 +34462,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:a8e4100ce6963bf1",
-      "title": "AI/ML Software Engineer New Grad",
-      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Richardson/AI-ML-Software-Engineer--2026-New-College-Graduate-_JR-2602832",
-      "location": "Austin, TX / Santa Clara, CA / Richardson, TX",
-      "department": "Software",
-      "company": "GlobalFoundries",
-      "score": 99,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
-        "direct ATS"
       ]
     },
     {
@@ -37183,6 +37124,20 @@
       ]
     },
     {
+      "id": "canonical:4a77656807157e3b",
+      "title": "Graduate C++ Software Engineer",
+      "url": "https://davincitrading.com/job/graduate-c-software-engineer-2/",
+      "location": "Miami, FL",
+      "department": "",
+      "company": "Da Vinci",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
+      ]
+    },
+    {
       "id": "canonical:a10cd2bdc9c86198",
       "title": "New Grad: Software Engineer",
       "url": "https://www.collective.com/careers/6614825003",
@@ -39394,19 +39349,6 @@
       ]
     },
     {
-      "id": "canonical:4b0ab273bab26c2e",
-      "title": "Software Engineer I",
-      "url": "https://www.coalitioninc.com/job-posting/4560711005",
-      "location": "San Francisco, CA",
-      "department": "",
-      "company": "Coalition",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:19330319b0c51386",
       "title": "New Grad: Data Scientist",
       "url": "https://careers.duolingo.com/jobs/8162849002",
@@ -40598,6 +40540,20 @@
       "location": "Westminster, CO",
       "department": "Software / Summer 2027",
       "company": "Advanced Space",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:cb0cbd4d75eb7ce1",
+      "title": "Tech & Data Program Summer 2027 - Software Engineer Intern (Columbus)",
+      "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Columbus-OH/Tech---Data-Summer-Program-2027---Software-Engineer-Intern--Columbus-_R2626609",
+      "location": "Columbus, OH",
+      "department": "Data & ML/AI / Summer 2027",
+      "company": "The Hartford",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
