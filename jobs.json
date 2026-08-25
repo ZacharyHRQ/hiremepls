@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-25T05:54:10.274Z",
+  "generatedAt": "2026-08-25T06:27:31.457Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2815,
+  "jobCount": 2811,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2338,7 +2338,6 @@
     "canonical:f120790d2f4ddbde": "2026-08-18T22:46:41.666Z",
     "canonical:90c79f2f194daeef": "2026-08-18T22:46:41.666Z",
     "canonical:7c6c7b2c9b9b8a81": "2026-08-18T22:46:41.666Z",
-    "canonical:6e4a84b34f3e70ed": "2026-08-18T22:46:41.666Z",
     "canonical:c80b6354ac3b3386": "2026-08-18T23:12:08.114Z",
     "canonical:b24b04348f81812d": "2026-08-18T23:12:08.114Z",
     "canonical:c2db38c0370a3828": "2026-08-18T23:12:08.114Z",
@@ -2494,7 +2493,6 @@
     "canonical:a000b4aa9c3f4c77": "2026-08-20T22:54:52.406Z",
     "canonical:860afe338ca3eee4": "2026-08-20T22:54:52.406Z",
     "canonical:65486e387d175750": "2026-08-20T22:54:52.406Z",
-    "canonical:90e60de2ae57ccd1": "2026-08-20T22:54:52.406Z",
     "canonical:df13a83093b326fb": "2026-08-20T22:54:52.406Z",
     "canonical:3a00f9406036c569": "2026-08-20T22:54:52.406Z",
     "canonical:388a079ff43c389f": "2026-08-20T22:54:52.406Z",
@@ -2713,7 +2711,6 @@
     "canonical:9a5935ee627b3b0f": "2026-08-24T16:14:20.580Z",
     "canonical:543c8f7f3ad00323": "2026-08-24T16:55:18.984Z",
     "canonical:a41a210a057f132d": "2026-08-24T17:54:04.628Z",
-    "canonical:72a7dba1e53fc139": "2026-08-24T20:00:51.373Z",
     "canonical:94508ec58fb367a8": "2026-08-24T20:45:12.081Z",
     "canonical:7b4825ae24611928": "2026-08-24T20:45:12.081Z",
     "canonical:0f2301c14784b55c": "2026-08-24T20:45:12.081Z",
@@ -2724,7 +2721,6 @@
     "canonical:5b37ebdbd370abcb": "2026-08-24T20:45:12.081Z",
     "canonical:3e3c7acba54570ff": "2026-08-24T20:45:12.081Z",
     "canonical:ffe42b736806040f": "2026-08-24T20:45:12.081Z",
-    "canonical:ef47fb1f704c40a1": "2026-08-24T20:45:12.081Z",
     "canonical:f8d2e7a0aff6a5cd": "2026-08-24T20:45:12.081Z",
     "canonical:fc73be68d893bc72": "2026-08-24T20:45:12.081Z",
     "canonical:ad7c20b942429171": "2026-08-24T20:45:12.081Z",
@@ -24534,20 +24530,6 @@
       ]
     },
     {
-      "id": "canonical:ef47fb1f704c40a1",
-      "title": "Entry Level Application Engineer",
-      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Charlotte-NC/Entry-Level-Application-Engineer----2026-Start-Date_171145-1",
-      "location": "Charlotte, NC",
-      "department": "Software",
-      "company": "Vanguard",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:d07b4e9cd9ac5f5b",
       "title": "Software Engineer - Generalist in Autonomous Driving System",
       "url": "https://job-boards.greenhouse.io/botauto/jobs/5370717008",
@@ -34042,20 +34024,6 @@
       ]
     },
     {
-      "id": "canonical:6e4a84b34f3e70ed",
-      "title": "Software Engineer 1 - Advanced Products and Solutions - EO/IR Programs",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Software-Engineer-I--Onsite-_01867976",
-      "location": "McKinney, TX",
-      "department": "Software",
-      "company": "RTX",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:1c00a59fa8863509",
       "title": "Graduate Software Developer - Assessment Day",
       "url": "https://contentguru.bamboohr.com/careers/319/",
@@ -34997,20 +34965,6 @@
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineer-I--Onsite-_01868305",
       "location": "Aurora, CO",
       "department": "Software",
-      "company": "RTX",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:90e60de2ae57ccd1",
-      "title": "Factory Analytics Data Scientist 1",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Analytics-Data-Scientist-I--Remote-_01867723",
-      "location": "Cedar Rapids, IA",
-      "department": "AI/ML/Data",
       "company": "RTX",
       "score": 93,
       "scoreReasons": [
@@ -40604,20 +40558,6 @@
       "location": "Westminster, CO",
       "department": "Software / Summer 2027",
       "company": "Advanced Space",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:72a7dba1e53fc139",
-      "title": "Tech & Data Summer Program 2027 - Software Engineer Intern (Columbus)",
-      "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Columbus-OH/Tech---Data-Summer-Program-2027---Software-Engineer-Intern--Columbus-_R2626609",
-      "location": "Columbus, OH",
-      "department": "Data & ML/AI / Summer 2027",
-      "company": "The Hartford",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
