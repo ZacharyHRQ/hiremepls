@@ -16,8 +16,8 @@
     "4907368101",
     "4912325101",
     "4892687101",
-    "4917773101",
     "4818790101",
+    "4917773101",
     "4564480101",
     "4635938101",
     "4667814101",
@@ -33,32 +33,32 @@
     "8052351",
     "7976964",
     "8027946",
-    "8002998",
     "7975008",
+    "8002998",
     "7977145",
     "8027955",
-    "8027939",
     "8027900",
     "8010307",
+    "8027939",
     "8059384",
     "8049938",
     "7982648",
     "8002989",
     "7975026",
-    "8000323",
-    "8027952",
     "8007788",
+    "8027952",
+    "8000323",
     "7565728",
-    "7974943",
-    "8003019"
+    "8003019",
+    "7974943"
   ],
   "DRW": [
     "7997729",
     "7981754",
-    "7942281",
     "8020364",
     "7991196",
     "7992936",
+    "7942281",
     "8014910",
     "8127242"
   ],
@@ -78,8 +78,8 @@
     "8024128"
   ],
   "Point72": [
-    "7297598002",
     "7297611002",
+    "7297598002",
     "7302611002",
     "8721562002",
     "7586061002",
@@ -118,8 +118,8 @@
   "Scale AI": [],
   "Replit": [],
   "Stripe": [
-    "8031833",
-    "8097801"
+    "8097801",
+    "8031833"
   ],
   "Databricks": [
     "7011263002",
@@ -132,11 +132,11 @@
   ],
   "MongoDB": [],
   "Cloudflare": [
-    "8089379",
-    "8089407",
     "8089400",
-    "8118855",
+    "8089407",
+    "8089379",
     "8118845",
+    "8118855",
     "8052785"
   ],
   "Datadog": [
@@ -1383,6 +1383,7 @@
     "github-json:zshah101-summer-2027-fall-2026:oracle:egug.fa.us2.oraclecloud.com:26011082",
     "github-json:zshah101-summer-2027-fall-2026:oracle:egug.fa.us2.oraclecloud.com:26011987",
     "github-json:zshah101-summer-2027-fall-2026:oracle:fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com:26738",
+    "github-json:zshah101-summer-2027-fall-2026:ashby:voleon:57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:freeformfuturecorp:7872198003",
     "github-json:zshah101-summer-2027-fall-2026:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01867129",
     "github-json:zshah101-summer-2027-fall-2026:workday:firstam:/job/USA-California-Remote/Software-Engineering-Intern_R058260",
@@ -1469,7 +1470,6 @@
     "github-json:zshah101-summer-2027-fall-2026:workday:copart:/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109441",
     "github-json:zshah101-summer-2027-fall-2026:lever:solopulseco:00fbde18-a387-4c9f-97d4-77059aec7b56",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:voloridgeinvestmentmanagement:4224862009",
-    "github-json:zshah101-summer-2027-fall-2026:greenhouse:andurilindustries:5148079007",
     "github-json:zshah101-summer-2027-fall-2026:ashby:beaconsoftware:2452d342-a069-4eda-adbe-9df296808ca1",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:walleyecapital-external-students:4679168006",
     "github-json:zshah101-summer-2027-fall-2026:amazon:amazon:10412530",
@@ -2149,7 +2149,6 @@
     "simplify:7ededa5d-af4b-4f9d-80ae-9e03985190e9",
     "simplify:ab59c6f6-ec45-4285-aebc-93331fbe2b8f",
     "simplify:30e36d66-cf25-4851-9655-d22bb0c6d319",
-    "simplify:9ac6ae38-9b5a-4373-934b-b04f5fbdc09c",
     "simplify:fdd7e7ec-c300-4a26-931c-56c3adc48425",
     "simplify:d1768aee-f240-4353-b609-278b04785c95",
     "simplify:2851e500-7a2b-4e96-a2fa-681730e8d48e",
@@ -2457,7 +2456,9 @@
     "simplify:aacc4ee3-09a8-40e8-99a0-5bc47790fe52",
     "simplify:2ced41cc-c8cf-41e5-ae1d-1ded73852520",
     "simplify:2601d254-0c81-443b-b1ca-3c2293da624a",
-    "simplify:d4a99db8-8105-449e-a0e7-eb1fe7c6eb35"
+    "simplify:d4a99db8-8105-449e-a0e7-eb1fe7c6eb35",
+    "simplify:925fd340-08ca-444f-ab27-237fdfe56b27",
+    "simplify:4ff921c1-6ccb-40f6-aff2-0f2ae665bc9d"
   ],
   "DoorDash": [],
   "Waymo": [
@@ -3109,7 +3110,6 @@
     "simplify:7ededa5d-af4b-4f9d-80ae-9e03985190e9",
     "simplify:ab59c6f6-ec45-4285-aebc-93331fbe2b8f",
     "simplify:30e36d66-cf25-4851-9655-d22bb0c6d319",
-    "simplify:9ac6ae38-9b5a-4373-934b-b04f5fbdc09c",
     "simplify:fdd7e7ec-c300-4a26-931c-56c3adc48425",
     "simplify:d1768aee-f240-4353-b609-278b04785c95",
     "simplify:2851e500-7a2b-4e96-a2fa-681730e8d48e",
@@ -3417,7 +3417,8 @@
     "simplify:aacc4ee3-09a8-40e8-99a0-5bc47790fe52",
     "simplify:2ced41cc-c8cf-41e5-ae1d-1ded73852520",
     "simplify:2601d254-0c81-443b-b1ca-3c2293da624a",
-    "simplify:d4a99db8-8105-449e-a0e7-eb1fe7c6eb35"
+    "simplify:d4a99db8-8105-449e-a0e7-eb1fe7c6eb35",
+    "simplify:925fd340-08ca-444f-ab27-237fdfe56b27"
   ],
   "Wintermute": [],
   "QCP": [],
@@ -4328,7 +4329,6 @@
     "simplify:fc4f2880-dfbe-4370-a129-24ea58c9a173",
     "simplify:803d8891-e860-4410-bf30-3ced99f32414",
     "simplify:9dd271a3-9548-43cb-aa06-75e9947c1623",
-    "simplify:dafc5961-bca1-4073-bd03-afa587173891",
     "simplify:0e8a5b2c-b74c-4698-9f5d-00348584454a",
     "simplify:c2d09bc0-e3e6-422d-a6a3-681f32d66bd9",
     "simplify:7f68f7a5-a5b3-40e6-bd0d-3fbf7b677c24",
@@ -5000,7 +5000,6 @@
     "simplify:ac470cdc-081d-4aad-9ca1-9c5a47e56a88",
     "simplify:aac80634-6c50-4bcb-b953-5fc083ea4ba7",
     "simplify:793d744b-9874-4713-9d84-69e6ae50519a",
-    "simplify:6666295b-3df7-4547-9027-208763a249fc",
     "simplify:005c5b2b-b40d-4aff-85fe-adf577024103",
     "simplify:56c4e48b-4f5b-4cae-886c-5d2e5f2c0821",
     "simplify:bc3404d7-8d9b-4760-8a4e-c6cd8497ce62",
