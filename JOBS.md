@@ -1,6 +1,6 @@
 # Open Internships
 
-**2811** internships across **188/188** companies — last updated 2026-08-25.
+**2815** internships across **188/188** companies — last updated 2026-08-25.
 
 ## Companies
 
@@ -182,7 +182,7 @@
 - [Candid Health](#candid-health) (2)
 - [Canonical](#canonical) (3)
 - [Cantor Fitzgerald](#cantor-fitzgerald) (1)
-- [Canva](#canva) (5)
+- [Canva](#canva) (7)
 - [Cape](#cape) (1)
 - [Capgemini](#capgemini) (4)
 - [Capital Health](#capital-health) (1)
@@ -373,7 +373,7 @@
 - [Framatome](#framatome) (1)
 - [Freddie Mac](#freddie-mac) (2)
 - [Freedom Technology Solutions Group](#freedom-technology-solutions-group) (1)
-- [Freeform](#freeform) (3)
+- [Freeform](#freeform) (2)
 - [Frontier Health](#frontier-health) (1)
 - [FSH Technologies](#fsh-technologies) (1)
 - [Fullbay](#fullbay) (1)
@@ -392,7 +392,6 @@
 - [General Matter](#general-matter) (2)
 - [General Motors](#general-motors) (2)
 - [Genetec](#genetec) (4)
-- [Geneva Trading](#geneva-trading) (1)
 - [GenMD](#genmd) (1)
 - [Gentex Corporation](#gentex-corporation) (1)
 - [Georgian Partners Growth](#georgian-partners-growth) (1)
@@ -407,7 +406,7 @@
 - [GlobalFoundries](#globalfoundries) (4)
 - [Globus Medical](#globus-medical) (1)
 - [GM financial](#gm-financial) (2)
-- [Goldman Sachs](#goldman-sachs) (1)
+- [Goldman Sachs](#goldman-sachs) (5)
 - [Google](#google) (14)
 - [Gradient Robotics](#gradient-robotics) (1)
 - [Gritt Robotics Inc](#gritt-robotics-inc) (1)
@@ -416,7 +415,6 @@
 - [Guidehouse](#guidehouse) (2)
 - [Guidewire](#guidewire) (1)
 - [Gulfstream](#gulfstream) (3)
-- [H-E-B](#h-e-b) (1)
 - [Haize Labs](#haize-labs) (1)
 - [Hardin Design](#hardin-design) (1)
 - [HarmonyTech](#harmonytech) (1)
@@ -1058,6 +1056,7 @@
 - [Western Digital](#western-digital) (5)
 - [Western Magnetics](#western-magnetics) (1)
 - [Westinghouse Electric Company](#westinghouse-electric-company) (6)
+- [Wex](#wex) (1)
 - [White Cap Supply Holdings](#white-cap-supply-holdings) (1)
 - [Willis Aviation](#willis-aviation) (1)
 - [Wolters Kluwer](#wolters-kluwer) (1)
@@ -2581,6 +2580,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [PhD Research Scientist Intern - Generative AI](https://jobs.smartrecruiters.com/Canva/6000000001289897) | 93 | SF | AI/ML/Data | 2026-08-25 |
+| [PhD Research Scientist Intern - Reinforcement Learning - Images](https://jobs.smartrecruiters.com/Canva/6000000001292768) | 93 | London, UK | AI/ML/Data | 2026-08-25 |
 | [PhD Research Scientist Intern](https://jobs.smartrecruiters.com/Canva/6000000001291655-phd-research-scientist-intern) | 83 | San Francisco, CA | — | 2026-08-17 |
 | [PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling](https://jobs.smartrecruiters.com/Canva/6000000001295787) | 83 | Vienna, Vienna, Austria | Information Technology | 2026-08-07 |
 | [PhD Research Scientist Intern - Reinforcement Learning for Diffusion Modelling](https://jobs.smartrecruiters.com/Canva/6000000001295209) | 83 | London, England, United Kingdom | Information Technology | 2026-08-07 |
@@ -3877,7 +3878,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Materials Engineer Intern](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7907965003) | 93 | LA | AI/ML/Data | 2026-08-24 |
 | [Software Engineer New Grad](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826634003) | 99 | LA | Hardware | 2026-08-17 |
 | [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003) | 93 | LA | Hardware | 2026-08-15 |
 
@@ -4025,12 +4025,6 @@
 | [Software Developer - Multiple Teams](https://apply.workable.com/genetec-inc/j/9DC9768E16/apply) | 93 | Montreal, QC, Canada / Sherbrooke, QC, Canada | Software | 2026-08-17 |
 | [Software Developer - Physical Access Control - SaaS](https://apply.workable.com/genetec-inc/j/46C9414CC4/apply) | 93 | Montreal, QC, Canada | Software | 2026-08-17 |
 
-## Geneva Trading
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Junior Software Engineer](https://job-boards.greenhouse.io/genevatrading/jobs/5085231007) | 93 | Chicago, IL | Software Engineering | 2026-08-25 |
-
 ## GenMD
 
 | Title | Score | Location | Department | First seen |
@@ -4126,6 +4120,10 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Engineering New Analyst](https://higher.gs.com/roles/171568?type=students) | 85 | Dallas, TX | Software | 2026-08-25 |
+| [Engineering New Analyst - Engineering](https://higher.gs.com/roles/171570?type=students) | 85 | Salt Lake City, UT | Software | 2026-08-25 |
+| [Engineering New Analyst - Engineering](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807) | 85 | Seattle, WA | Software | 2026-08-25 |
+| [New Analyst - Engineering](https://higher.gs.com/roles/171569?type=students) | 85 | NYC | Software | 2026-08-25 |
 | [Software Engineer - Data](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292) | 85 | London, UK | Software | 2026-08-17 |
 
 ## Google
@@ -4192,12 +4190,6 @@
 | [Software Engineer Intern - IEF](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Software-Engineer-Collegiate-Associate-Intern-GA-31401/1421863200/?ats=successfactors) | 85 | Savannah, GA | Software | 2026-08-24 |
 | [Software Engineer Intern - Innovation, Engineering and Flight](https://careers.gulfstream.com/job/Savannah-Spring-2027-IEF-Software-Engineer-Collegiate-Associate-Intern-GA-31401/1421676700/?ats=successfactors) | 85 | Savannah, GA | Software | 2026-08-24 |
 | [IT Applications Developer](https://careers.gulfstream.com/job/Savannah-IT-Apps-Developer-GA-31401/1418077600/?ats=successfactors) | 85 | Savannah, GA | Software | 2026-08-17 |
-
-## H-E-B
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer 1 - Multiple Teams](https://careers.heb.com/jobs/231773?icims=1) | 85 | San Antonio, TX | Software | 2026-08-21 |
 
 ## Haize Labs
 
@@ -9124,6 +9116,12 @@
 | [Platform Hardware Engineer](https://careers.westinghousenuclear.com/job/Warrendale-Platform-Hardware-Engineer-OR/1414239100/?ats=successfactors) | 85 | Cranberry Twp, PA | Hardware | 2026-08-17 |
 | [Safety Software 1&C Engineer HMI Systems](https://careers.westinghousenuclear.com/job/Warrendale-Safety-SW-I&C-Engineer-HMI-Systems-OR/1410998600/?ats=successfactors) | 85 | Cranberry Twp, PA | Hardware | 2026-08-17 |
 | [Safety Software Engineer 1&C HMI Systems](https://careers.westinghousenuclear.com/job/Warrendale-Safety-SW-I&C-Engineer-HMI-Systems-OR/1411189300/?ats=successfactors) | 85 | Cranberry Twp, PA | Software | 2026-08-17 |
+
+## Wex
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Artificial Intelligence Intern - AI/ML/NLP Engineer](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/PhD-Intern--AI-ML-NLP-Engineer_R22834) | 93 | Boston, MA / Seattle, WA / SF / Dallas, TX / Chicago, IL / Portland, ME | AI/ML/Data | 2026-08-25 |
 
 ## White Cap Supply Holdings
 

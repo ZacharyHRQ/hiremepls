@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-25T06:27:31.457Z",
+  "generatedAt": "2026-08-25T07:24:08.174Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2811,
+  "jobCount": 2815,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2593,7 +2593,6 @@
     "canonical:73b7cb97718ee837": "2026-08-21T22:39:43.700Z",
     "canonical:e6657a21f84f8ced": "2026-08-21T22:39:43.700Z",
     "canonical:69618a705d3e111e": "2026-08-21T22:39:43.700Z",
-    "canonical:3294e60569bd3dd2": "2026-08-21T22:39:43.700Z",
     "canonical:aeb47eba372cfd2c": "2026-08-21T22:39:43.700Z",
     "canonical:693bd5a757aa4c52": "2026-08-21T22:39:43.700Z",
     "canonical:b325bdc2f24f19d7": "2026-08-21T22:39:43.700Z",
@@ -2770,7 +2769,6 @@
     "canonical:9c4476ece7af4893": "2026-08-24T22:44:52.251Z",
     "canonical:6d98bd420569416a": "2026-08-24T22:44:52.251Z",
     "canonical:1f636cc6f6e4518c": "2026-08-24T22:44:52.251Z",
-    "canonical:7ce939faca46845f": "2026-08-24T23:01:53.696Z",
     "canonical:27925ea46b9e4cf6": "2026-08-24T23:01:53.696Z",
     "canonical:8b8b91ddff623c25": "2026-08-24T23:01:53.696Z",
     "canonical:92a182ba9f96fdb5": "2026-08-24T23:32:22.522Z",
@@ -2779,7 +2777,6 @@
     "canonical:06c29cc0164fdf02": "2026-08-24T23:32:22.522Z",
     "canonical:40f675b7d2c04fd2": "2026-08-25T00:41:17.940Z",
     "canonical:322bcea81959133c": "2026-08-25T00:41:17.940Z",
-    "canonical:00053ae33decdf2c": "2026-08-25T00:41:17.940Z",
     "canonical:93a000287f84e746": "2026-08-25T00:41:17.940Z",
     "canonical:1cdee279f055aca1": "2026-08-25T00:41:17.940Z",
     "canonical:addafa6f3029dd08": "2026-08-25T00:41:17.940Z",
@@ -2814,7 +2811,14 @@
     "canonical:f4b2a9aa2d152c8e": "2026-08-25T05:54:10.274Z",
     "canonical:1b4811174af59a91": "2026-08-25T05:54:10.274Z",
     "canonical:89ededefa40d4998": "2026-08-25T05:54:10.274Z",
-    "canonical:29c26ce07ef7176c": "2026-08-25T05:54:10.274Z"
+    "canonical:29c26ce07ef7176c": "2026-08-25T05:54:10.274Z",
+    "canonical:a858102d2c63ecc0": "2026-08-25T07:24:08.174Z",
+    "canonical:69acd4c0fa388415": "2026-08-25T07:24:08.174Z",
+    "canonical:da2122f461ec6d9d": "2026-08-25T07:24:08.174Z",
+    "canonical:d1da7b2ac572df8f": "2026-08-25T07:24:08.174Z",
+    "canonical:5ccbdd16c804408f": "2026-08-25T07:24:08.174Z",
+    "canonical:caa37dbb765c5132": "2026-08-25T07:24:08.174Z",
+    "canonical:ee2ac1afa3058d54": "2026-08-25T07:24:08.174Z"
   },
   "jobs": [
     {
@@ -11102,12 +11106,40 @@
       ]
     },
     {
+      "id": "canonical:a858102d2c63ecc0",
+      "title": "PhD Research Scientist Intern - Generative AI",
+      "url": "https://jobs.smartrecruiters.com/Canva/6000000001289897",
+      "location": "SF",
+      "department": "AI/ML/Data",
+      "company": "Canva",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:0f259dc0186e372e",
       "title": "Software Engineer Intern - Winter 2027",
       "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687915002",
       "location": "Seattle, WA / SF / LA / NYC / Mountain View, CA",
       "department": "Software",
       "company": "Atoms",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:69acd4c0fa388415",
+      "title": "PhD Research Scientist Intern - Reinforcement Learning - Images",
+      "url": "https://jobs.smartrecruiters.com/Canva/6000000001292768",
+      "location": "London, UK",
+      "department": "AI/ML/Data",
+      "company": "Canva",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -13653,20 +13685,6 @@
       ]
     },
     {
-      "id": "canonical:7ce939faca46845f",
-      "title": "Materials Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7907965003",
-      "location": "LA",
-      "department": "AI/ML/Data",
-      "company": "Freeform",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:8ea56f75f67db291",
       "title": "Data Engineer Intern",
       "url": "https://wd5.myworkdaysite.com/recruiting/sysco/syscocareers/job/Sysco-Corporate/Data-Engineer-Intern_R263666",
@@ -14911,6 +14929,20 @@
       "location": "Denver, CO",
       "department": "AI/ML/Data",
       "company": "BP",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:da2122f461ec6d9d",
+      "title": "Artificial Intelligence Intern - AI/ML/NLP Engineer",
+      "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/PhD-Intern--AI-ML-NLP-Engineer_R22834",
+      "location": "Boston, MA / Seattle, WA / SF / Dallas, TX / Chicago, IL / Portland, ME",
+      "department": "AI/ML/Data",
+      "company": "Wex",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -17522,20 +17554,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:00053ae33decdf2c",
-      "title": "Junior Software Engineer",
-      "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5085231007",
-      "location": "Chicago, IL",
-      "department": "Software Engineering",
-      "company": "Geneva Trading",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -33158,6 +33176,32 @@
       ]
     },
     {
+      "id": "canonical:d1da7b2ac572df8f",
+      "title": "Engineering New Analyst - Engineering",
+      "url": "https://higher.gs.com/roles/171570?type=students",
+      "location": "Salt Lake City, UT",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:5ccbdd16c804408f",
+      "title": "Engineering New Analyst",
+      "url": "https://higher.gs.com/roles/171568?type=students",
+      "location": "Dallas, TX",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:f25c76a0a1a97682",
       "title": "Forward Deployed Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3/application?embed=true",
@@ -33188,6 +33232,19 @@
       ]
     },
     {
+      "id": "canonical:caa37dbb765c5132",
+      "title": "Engineering New Analyst - Engineering",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
+      "location": "Seattle, WA",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:f3ba0dab3d1890be",
       "title": "Senior Applied AI & ML Engineer",
       "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/UK---London/Senior-Applied-AI---ML-Engineer---Evinova_R-257950-1",
@@ -33213,6 +33270,19 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ee2ac1afa3058d54",
+      "title": "New Analyst - Engineering",
+      "url": "https://higher.gs.com/roles/171569?type=students",
+      "location": "NYC",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
@@ -35544,19 +35614,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:3294e60569bd3dd2",
-      "title": "Software Engineer 1 - Multiple Teams",
-      "url": "https://careers.heb.com/jobs/231773?icims=1",
-      "location": "San Antonio, TX",
-      "department": "Software",
-      "company": "H-E-B",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
