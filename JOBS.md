@@ -1,6 +1,6 @@
 # Open Internships
 
-**2815** internships across **188/188** companies — last updated 2026-08-25.
+**2833** internships across **188/188** companies — last updated 2026-08-25.
 
 ## Companies
 
@@ -121,7 +121,7 @@
 - [Babel Street](#babel-street) (1)
 - [Backbone Systems](#backbone-systems) (1)
 - [Balyasny Asset Management](#balyasny-asset-management) (1)
-- [Bank of Montreal](#bank-of-montreal) (1)
+- [Bank of Montreal](#bank-of-montreal) (3)
 - [Barrios](#barrios) (1)
 - [Base Power](#base-power) (2)
 - [Base-2 Solutions](#base-2-solutions) (1)
@@ -226,6 +226,7 @@
 - [Color](#color) (1)
 - [Commure](#commure) (1)
 - [Compass](#compass) (1)
+- [Compeer Financial](#compeer-financial) (3)
 - [Composio](#composio) (3)
 - [Conduent](#conduent) (1)
 - [ConeTec Group](#conetec-group) (2)
@@ -319,6 +320,7 @@
 - [Emerson](#emerson) (1)
 - [eMoney Advisor, LLC](#emoney-advisor-llc) (1)
 - [Emory Healthcare](#emory-healthcare) (1)
+- [Empirical Foods](#empirical-foods) (1)
 - [Encephalo Investments](#encephalo-investments) (1)
 - [endeavorai.com](#endeavorai-com) (1)
 - [Enovation Controls LLC](#enovation-controls-llc) (1)
@@ -437,7 +439,7 @@
 - [Homebase](#homebase) (1)
 - [Homey](#homey) (1)
 - [Hone Health](#hone-health) (1)
-- [Honeywell](#honeywell) (7)
+- [Honeywell](#honeywell) (9)
 - [HoneyWell](#honeywell) (1)
 - [Horizon Technologies](#horizon-technologies) (1)
 - [Howmet Aerospace](#howmet-aerospace) (2)
@@ -500,7 +502,7 @@
 - [JD.com](#jd-com) (1)
 - [Jobs for Humanity](#jobs-for-humanity) (2)
 - [John Deere](#john-deere) (2)
-- [Johns Hopkins Applied Physics Laboratory](#johns-hopkins-applied-physics-laboratory) (19)
+- [Johns Hopkins Applied Physics Laboratory](#johns-hopkins-applied-physics-laboratory) (20)
 - [Johnson Controls](#johnson-controls) (2)
 - [Jones Lang LaSalle (JLL)](#jones-lang-lasalle-jll) (1)
 - [JP Morgan Chase](#jp-morgan-chase) (4)
@@ -588,6 +590,7 @@
 - [Mathtech](#mathtech) (2)
 - [Maven Securities](#maven-securities) (2)
 - [Maxima](#maxima) (1)
+- [Maximor AI](#maximor-ai) (1)
 - [Maya HTT](#maya-htt) (2)
 - [McDonald's](#mcdonald-s) (1)
 - [McDonald's Corporation](#mcdonald-s-corporation) (1)
@@ -630,6 +633,7 @@
 - [MSA Safety](#msa-safety) (1)
 - [Mulligan Funding](#mulligan-funding) (2)
 - [Muon Space](#muon-space) (1)
+- [Muru](#muru) (2)
 - [N1](#n1) (4)
 - [National Laboratory of the Rockies](#national-laboratory-of-the-rockies) (2)
 - [NationGraph](#nationgraph) (1)
@@ -940,6 +944,7 @@
 - [Testing Xperts](#testing-xperts) (2)
 - [TETRAMEM](#tetramem) (1)
 - [Tevora](#tevora) (1)
+- [Texas A&M University System](#texas-a-m-university-system) (1)
 - [Texas Instruments](#texas-instruments) (2)
 - [Texas Sports Academy](#texas-sports-academy) (2)
 - [The Anywhere](#the-anywhere) (1)
@@ -949,7 +954,7 @@
 - [The Home Depot](#the-home-depot) (3)
 - [The Nuclear Company](#the-nuclear-company) (6)
 - [The Trade Desk](#the-trade-desk) (2)
-- [The Voleon Group](#the-voleon-group) (1)
+- [The Voleon Group](#the-voleon-group) (3)
 - [The Walt Disney Company](#the-walt-disney-company) (3)
 - [Thermo Fisher Scientific](#thermo-fisher-scientific) (1)
 - [Thomson Reuters](#thomson-reuters) (1)
@@ -977,7 +982,7 @@
 - [Tripadvisor](#tripadvisor) (1)
 - [TRM Labs](#trm-labs) (1)
 - [Trovy](#trovy) (1)
-- [True Anomaly](#true-anomaly) (1)
+- [True Anomaly](#true-anomaly) (4)
 - [Truveta](#truveta) (5)
 - [TSC](#tsc) (1)
 - [Twitch](#twitch) (2)
@@ -1979,6 +1984,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Developer New Grad](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Developer--New-or-Recent-Graduate-_R260020222-3) | 99 | Toronto, ON, Canada | Software | 2026-08-25 |
+| [Analyst – Full Stack Engineer](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Analyst--Full-Stack-Engineer_R250030895) | 93 | Toronto, ON, Canada | Software | 2026-08-25 |
 | [Applied AI Scientist - Generative AI & Agentic Systems](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Applied-AI-Scientist---Generative-AI---Agentic-Systems_R260022110) | 93 | Toronto, ON, Canada | AI/ML/Data | 2026-08-17 |
 
 ## Barrios
@@ -2886,6 +2893,14 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer - Mobile - iOS](https://www.compass.com/careers?gh_jid=8081848) | 85 | Aventura, FL | Software | 2026-08-17 |
 
+## Compeer Financial
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Engineering Intern](https://job-boards.greenhouse.io/compeerfinancial/jobs/5404850008) | 93 | Sun Prairie, WI / Mankato, MN / Bloomington, IL | Software | 2026-08-25 |
+| [Engineering Intern](https://job-boards.greenhouse.io/compeerfinancial/jobs/5405015008) | 93 | Sun Prairie, WI | Software | 2026-08-25 |
+| [Engineering Intern](https://job-boards.greenhouse.io/compeerfinancial/jobs/5405050008) | 93 | Lakeville, MN / Mankato, MN | Software | 2026-08-25 |
+
 ## Composio
 
 | Title | Score | Location | Department | First seen |
@@ -3531,6 +3546,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Associate AI Engineer](https://non-clinical-emory.icims.com/jobs/170743/job?hub=14&mobile=true&needsRedirect=false) | 85 | Atlanta, GA | AI/ML/Data | 2026-08-25 |
+
+## Empirical Foods
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer Intern - Summer 2027](https://careers-empiricalfoods.icims.com/jobs/4161/job?mobile=true&needsRedirect=false) | 85 | Dakota Dunes, SD | Software | 2026-08-25 |
 
 ## Encephalo Investments
 
@@ -4331,6 +4352,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Information Systems Intern - IT - Cyber Engineer & Data Science](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155554) | 85 | United States | AI/ML/Data | 2026-08-25 |
+| [Embedded Engineer Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155562) | 75 | United States | Hardware | 2026-08-25 |
 | [Embedded Engineer - Summer 2027 Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155562) | 85 | United States | Software / Summer 2027 | 2026-08-25 |
 | [Embedded Engineer - Summer 2027 Intern (US Person Required)](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155561) | 85 | United States | Software / Summer 2027 | 2026-08-25 |
 | [Information Systems, IT, Cyber Engineer & Data Science - Summer 2027 Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155555) | 85 | United States | Data & ML/AI / Summer 2027 | 2026-08-25 |
@@ -4772,6 +4795,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineering/ML/Data Scientist New Grad - Intelligence Systems](https://careers.jhuapl.edu/jobs/59654?icims=1) | 91 | Laurel, MD | AI/ML/Data | 2026-08-25 |
 | [Systems Engineer Graduate - Systems Engineer - Analyst](https://careers.jhuapl.edu/jobs/59497?icims=1) | 91 | Laurel, MD | Software | 2026-08-25 |
 | [Data Scientist Intern - Data Science - System Performance Evaluation](https://careers.jhuapl.edu/jobs/59800?icims=1) | 85 | Laurel, MD | AI/ML/Data | 2026-08-25 |
 | [Computational Geospace Modeling Research Scientist New Grad](https://careers.jhuapl.edu/jobs/59791?icims=1) | 91 | Laurel, MD | AI/ML/Data | 2026-08-24 |
@@ -5438,6 +5462,12 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/maxima/c0204f04-af26-4a57-9658-64ee6d4beb74/application) | 93 | San Mateo, CA | Software | 2026-08-01 |
 
+## Maximor AI
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer New Grad](https://jobs.ashbyhq.com/maximor/67d0c7d0-fddb-4b8d-aed8-0647337a988e/application?embed=true) | 99 | NYC | Software | 2026-08-25 |
+
 ## Maya HTT
 
 | Title | Score | Location | Department | First seen |
@@ -5736,6 +5766,13 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer - Entry-Level](https://job-boards.greenhouse.io/muonspace/jobs/5204498007) | 93 | San Jose, CA | Hardware | 2026-08-20 |
+
+## Muru
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Full-Stack Software Engineer Intern](https://www.murumed.com/job-listings/web-software-engineer-intern) | 85 | New York, NY | Software Engineering | 2026-08-25 |
+| [Mobile Software Engineer Intern](https://www.murumed.com/job-listings/software-engineer-intern) | 85 | New York, NY | Software Engineering | 2026-08-25 |
 
 ## N1
 
@@ -7111,7 +7148,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [IAM Systems Engineer New Grad](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/16-YORK-STTORONTO/IAM-Systems-Engineer----New-Grad-_R-0000185530) | 99 | Toronto, ON, Canada | Software | 2026-08-24 |
+| [IAM Systems Engineer New Grad](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/16-YORK-STTORONTO/IAM-Systems-Engineer----New-Grad-_R-0000185423) | 99 | Toronto, ON, Canada | Software | 2026-08-24 |
 | [Junior Full Stack Developer New Grad](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Junior-Full-Stack-Developer--New-Grad-_R-0000185234) | 99 | Toronto, ON, Canada | Software | 2026-08-24 |
 | [Machine Learning Software Engineer New Grad](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Machine-Learning-Software-Engineer----New-Grad-_R-0000182134) | 99 | Toronto, ON, Canada / Vancouver, BC, Canada | AI/ML/Data | 2026-08-24 |
 | [Data Scientist Intern - Group Risk Management](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Scientist-Intern--8-Months-_R-0000184624) | 93 | Toronto, ON, Canada | AI/ML/Data | 2026-08-18 |
@@ -8054,6 +8091,12 @@
 | --- | --- | --- | --- | --- |
 | [Associate Developer 1](https://jobs.lever.co/tevora/e6dea5d8-d882-448f-80cd-e0f4a3b0589d/apply) | 93 | Irvine, CA | Software | 2026-08-17 |
 
+## Texas A&M University System
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Postdoctoral Researcher - CEES](https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Prairie-View-TX/Postdoctoral-Researcher---CEES-_R-096553) | 93 | Prairie View, TX | AI/ML/Data | 2026-08-25 |
+
 ## Texas Instruments
 
 | Title | Score | Location | Department | First seen |
@@ -8128,6 +8171,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer - University Hire 2027](https://jobs.ashbyhq.com/voleon/d732fd5a-ac98-4985-9e60-d1d59f02a66c/application?embed=true) | 93 | Berkeley, CA / NYC | Software | 2026-08-25 |
+| [Software Engineer Intern](https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6/application?embed=true) | 93 | Berkeley, CA / NYC | Software | 2026-08-25 |
 | [Software Engineer Intern - (Summer 2027)](https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6) | 93 | Berkeley, CA | Software / Summer 2027 | 2026-08-25 |
 
 ## The Walt Disney Company
@@ -8593,6 +8638,9 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data Science Software Engineer 1 New Grad - Data Science](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007) | 99 | Long Beach, CA / Denver, CO | AI/ML/Data | 2026-08-25 |
+| [Flight Software Engineer 1 New Grad](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007) | 99 | Long Beach, CA / Denver, CO | Hardware | 2026-08-25 |
+| [Software Engineer 1 New Grad - Spacecraft Simulation](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007) | 99 | Long Beach, CA / Denver, CO | Software | 2026-08-25 |
 | [Software Engineer 1 New Grad - QA](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5219057007) | 99 | Long Beach, CA / Denver, CO | Software | 2026-08-22 |
 
 ## Truveta

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-25T21:17:30.223Z",
+  "generatedAt": "2026-08-25T21:49:59.351Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2815,
+  "jobCount": 2833,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2818,7 +2818,25 @@
     "canonical:ebb3f24313b2d3e3": "2026-08-25T21:17:30.223Z",
     "canonical:e6919928973a3b20": "2026-08-25T21:17:30.223Z",
     "canonical:932f59e58313a33d": "2026-08-25T21:17:30.223Z",
-    "canonical:288d25a2c6bd2b68": "2026-08-25T21:17:30.223Z"
+    "canonical:288d25a2c6bd2b68": "2026-08-25T21:17:30.223Z",
+    "canonical:05a30cbc3123c379": "2026-08-25T21:49:59.351Z",
+    "canonical:ab20f77386bc364b": "2026-08-25T21:49:59.351Z",
+    "canonical:dc8f43ee57461f3f": "2026-08-25T21:49:59.351Z",
+    "canonical:5e4157deb085665c": "2026-08-25T21:49:59.351Z",
+    "canonical:663065b85b298733": "2026-08-25T21:49:59.351Z",
+    "canonical:e84f2c8107604e64": "2026-08-25T21:49:59.351Z",
+    "canonical:b051574c9d71f209": "2026-08-25T21:49:59.351Z",
+    "canonical:c49a3afc40ed053d": "2026-08-25T21:49:59.351Z",
+    "canonical:46142c4b481b46d2": "2026-08-25T21:49:59.351Z",
+    "canonical:9bf1e1990b7e9369": "2026-08-25T21:49:59.351Z",
+    "canonical:cda01a01b6c278f4": "2026-08-25T21:49:59.351Z",
+    "canonical:88424cf3c542715a": "2026-08-25T21:49:59.351Z",
+    "canonical:b853c3ae985bf7e9": "2026-08-25T21:49:59.351Z",
+    "canonical:339f7a2ee2bdaf04": "2026-08-25T21:49:59.351Z",
+    "canonical:2ee0399951323387": "2026-08-25T21:49:59.351Z",
+    "canonical:6cb6a4a92ef1d563": "2026-08-25T21:49:59.351Z",
+    "canonical:803753bdfe9907e6": "2026-08-25T21:49:59.351Z",
+    "canonical:ea041186fe7f173a": "2026-08-25T21:49:59.351Z"
   },
   "jobs": [
     {
@@ -5318,10 +5336,10 @@
       ]
     },
     {
-      "id": "canonical:62beda5aaf0fcc6c",
+      "id": "canonical:e8a5b9fc6e1a4de2",
       "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
-      "location": "Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
+      "location": "Bengaluru",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -5331,10 +5349,10 @@
       ]
     },
     {
-      "id": "canonical:e8a5b9fc6e1a4de2",
+      "id": "canonical:62beda5aaf0fcc6c",
       "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
-      "location": "Bengaluru",
+      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
+      "location": "Dublin",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -7453,6 +7471,32 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:05a30cbc3123c379",
+      "title": "Mobile Software Engineer Intern",
+      "url": "https://www.murumed.com/job-listings/software-engineer-intern",
+      "location": "New York, NY",
+      "department": "Software Engineering",
+      "company": "Muru",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:ab20f77386bc364b",
+      "title": "Full-Stack Software Engineer Intern",
+      "url": "https://www.murumed.com/job-listings/web-software-engineer-intern",
+      "location": "New York, NY",
+      "department": "Software Engineering",
+      "company": "Muru",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
@@ -15047,6 +15091,100 @@
       ]
     },
     {
+      "id": "canonical:dc8f43ee57461f3f",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6/application?embed=true",
+      "location": "Berkeley, CA / NYC",
+      "department": "Software",
+      "company": "The Voleon Group",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:5e4157deb085665c",
+      "title": "Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/compeerfinancial/jobs/5404850008",
+      "location": "Sun Prairie, WI / Mankato, MN / Bloomington, IL",
+      "department": "Software",
+      "company": "Compeer Financial",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:663065b85b298733",
+      "title": "Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/compeerfinancial/jobs/5405015008",
+      "location": "Sun Prairie, WI",
+      "department": "Software",
+      "company": "Compeer Financial",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:e84f2c8107604e64",
+      "title": "Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/compeerfinancial/jobs/5405050008",
+      "location": "Lakeville, MN / Mankato, MN",
+      "department": "Software",
+      "company": "Compeer Financial",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:b051574c9d71f209",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://careers-empiricalfoods.icims.com/jobs/4161/job?mobile=true&needsRedirect=false",
+      "location": "Dakota Dunes, SD",
+      "department": "Software",
+      "company": "Empirical Foods",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:c49a3afc40ed053d",
+      "title": "Information Systems Intern - IT - Cyber Engineer & Data Science",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155554",
+      "location": "United States",
+      "department": "AI/ML/Data",
+      "company": "Honeywell",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:46142c4b481b46d2",
+      "title": "Embedded Engineer Intern",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155562",
+      "location": "United States",
+      "department": "Hardware",
+      "company": "Honeywell",
+      "score": 75,
+      "scoreReasons": [
+        "SWE-aligned"
+      ]
+    },
+    {
       "id": "canonical:12cd06c0eec80152",
       "title": "Frontend Software Engineer Intern",
       "url": "https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c",
@@ -18564,6 +18702,20 @@
       "location": "Dallas, TX / Pittsburgh, PA / Strongsville, OH",
       "department": "Software",
       "company": "PNC Financial Services",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:9bf1e1990b7e9369",
+      "title": "Analyst – Full Stack Engineer",
+      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Analyst--Full-Stack-Engineer_R250030895",
+      "location": "Toronto, ON, Canada",
+      "department": "Software",
+      "company": "Bank of Montreal",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -35672,7 +35824,7 @@
     {
       "id": "canonical:597c9d3da6df748c",
       "title": "IAM Systems Engineer New Grad",
-      "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/16-YORK-STTORONTO/IAM-Systems-Engineer----New-Grad-_R-0000185530",
+      "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/16-YORK-STTORONTO/IAM-Systems-Engineer----New-Grad-_R-0000185423",
       "location": "Toronto, ON, Canada",
       "department": "Software",
       "company": "Royal Bank of Canada",
@@ -36509,6 +36661,123 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:cda01a01b6c278f4",
+      "title": "Software Engineer New Grad",
+      "url": "https://jobs.ashbyhq.com/maximor/67d0c7d0-fddb-4b8d-aed8-0647337a988e/application?embed=true",
+      "location": "NYC",
+      "department": "Software",
+      "company": "Maximor AI",
+      "score": 99,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:88424cf3c542715a",
+      "title": "Software Engineer - University Hire 2027",
+      "url": "https://jobs.ashbyhq.com/voleon/d732fd5a-ac98-4985-9e60-d1d59f02a66c/application?embed=true",
+      "location": "Berkeley, CA / NYC",
+      "department": "Software",
+      "company": "The Voleon Group",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:b853c3ae985bf7e9",
+      "title": "Postdoctoral Researcher - CEES",
+      "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Prairie-View-TX/Postdoctoral-Researcher---CEES-_R-096553",
+      "location": "Prairie View, TX",
+      "department": "AI/ML/Data",
+      "company": "Texas A&M University System",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:339f7a2ee2bdaf04",
+      "title": "Software Engineer 1 New Grad - Spacecraft Simulation",
+      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007",
+      "location": "Long Beach, CA / Denver, CO",
+      "department": "Software",
+      "company": "True Anomaly",
+      "score": 99,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:2ee0399951323387",
+      "title": "Flight Software Engineer 1 New Grad",
+      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007",
+      "location": "Long Beach, CA / Denver, CO",
+      "department": "Hardware",
+      "company": "True Anomaly",
+      "score": 99,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:6cb6a4a92ef1d563",
+      "title": "Data Science Software Engineer 1 New Grad - Data Science",
+      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007",
+      "location": "Long Beach, CA / Denver, CO",
+      "department": "AI/ML/Data",
+      "company": "True Anomaly",
+      "score": 99,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:803753bdfe9907e6",
+      "title": "Software Engineering/ML/Data Scientist New Grad - Intelligence Systems",
+      "url": "https://careers.jhuapl.edu/jobs/59654?icims=1",
+      "location": "Laurel, MD",
+      "department": "AI/ML/Data",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
+      ]
+    },
+    {
+      "id": "canonical:ea041186fe7f173a",
+      "title": "Software Developer New Grad",
+      "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Developer--New-or-Recent-Graduate-_R260020222-3",
+      "location": "Toronto, ON, Canada",
+      "department": "Software",
+      "company": "Bank of Montreal",
+      "score": 99,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
         "direct ATS"
       ]
     },
