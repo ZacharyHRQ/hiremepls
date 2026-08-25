@@ -411,7 +411,7 @@
 - [Gritt Robotics Inc](#gritt-robotics-inc) (1)
 - [GRITT ROBOTICS INC](#gritt-robotics-inc) (1)
 - [GSA Capital](#gsa-capital) (2)
-- [Guidehouse](#guidehouse) (2)
+- [Guidehouse](#guidehouse) (1)
 - [Gulfstream](#gulfstream) (3)
 - [Haize Labs](#haize-labs) (1)
 - [Hardin Design](#hardin-design) (1)
@@ -459,7 +459,7 @@
 - [Ignite Digital Services](#ignite-digital-services) (1)
 - [Illinois Tool Works](#illinois-tool-works) (2)
 - [IMA Financial Group](#ima-financial-group) (1)
-- [IMC](#imc) (1)
+- [IMC](#imc) (2)
 - [IMC Trading](#imc-trading) (13)
 - [impact.com](#impact-com) (1)
 - [Inbulks](#inbulks) (1)
@@ -4176,7 +4176,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Public Health Data Engineer](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Public-Health-Data-Engineer_43271-1) | 93 | Houston, TX / Remote in USA / San Antonio, TX / Atlanta, GA | AI/ML/Data | 2026-08-24 |
 | [Data Engineer 1](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Data-Engineer_42995) | 93 | Houston, TX / Charlotte, NC / San Antonio, TX / Beavercreek, OH / Atlanta, GA / Huntsville, AL | AI/ML/Data | 2026-08-17 |
 
 ## Gulfstream
@@ -4494,6 +4493,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [New Grad 2026: Software Engineer](https://www.imc.com/us/careers/jobs/4580755101) | 91 | Chicago, IL | — | 2026-08-25 |
 | [Software Engineer Intern](https://www.imc.com/us/careers/jobs/4823924101) | 85 | Chicago, IL | — | 2026-08-17 |
 
 ## IMC Trading
@@ -6610,8 +6610,8 @@
 | [Quantitative Developer](https://careers.point72.com/CSJobDetail?jobName=quantitative-developer&jobCode=CSS-0013369&location=New%20York&locale=English) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-08-17 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
