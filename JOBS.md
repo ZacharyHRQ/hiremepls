@@ -1,6 +1,6 @@
 # Open Internships
 
-**2809** internships across **188/188** companies — last updated 2026-08-25.
+**2815** internships across **188/188** companies — last updated 2026-08-25.
 
 ## Companies
 
@@ -89,7 +89,6 @@
 - [Arrowstreet Capital](#arrowstreet-capital) (2)
 - [Artefact](#artefact) (1)
 - [Artera](#artera) (1)
-- [Artera Technologies](#artera-technologies) (1)
 - [Artisan Partners](#artisan-partners) (1)
 - [Ashby](#ashby) (1)
 - [ASM International](#asm-international) (1)
@@ -293,6 +292,7 @@
 - [DRS](#drs) (1)
 - [DRW](#drw) (13)
 - [Dryft](#dryft) (1)
+- [DTCC](#dtcc) (2)
 - [DuCharme, McMillen & Associates](#ducharme-mcmillen-associates) (1)
 - [Duke University](#duke-university) (1)
 - [Dune](#dune) (1)
@@ -437,7 +437,7 @@
 - [Homebase](#homebase) (1)
 - [Homey](#homey) (1)
 - [Hone Health](#hone-health) (1)
-- [Honeywell](#honeywell) (3)
+- [Honeywell](#honeywell) (7)
 - [HoneyWell](#honeywell) (1)
 - [Horizon Technologies](#horizon-technologies) (1)
 - [Howmet Aerospace](#howmet-aerospace) (2)
@@ -771,7 +771,6 @@
 - [Rainmaker](#rainmaker) (1)
 - [Rambus](#rambus) (1)
 - [Ramp](#ramp) (4)
-- [Ranger](#ranger) (1)
 - [Raymond James Financial](#raymond-james-financial) (1)
 - [RBI](#rbi) (1)
 - [Realm](#realm) (2)
@@ -1044,7 +1043,7 @@
 - [Warp](#warp) (1)
 - [Wash U](#wash-u) (1)
 - [Wavestone](#wavestone) (1)
-- [Waymo](#waymo) (1)
+- [Waymo](#waymo) (3)
 - [Weave](#weave) (2)
 - [Wells Fargo](#wells-fargo) (2)
 - [WeRide](#weride) (2)
@@ -1760,12 +1759,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Developer Associate](https://jobs.lever.co/artera-2/eae88c70-fbf5-4525-890c-d3f9377418b0) | 93 | Seattle, WA | — | 2026-08-17 |
-
-## Artera Technologies
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer](https://arteratechnologies.applytojob.com/apply/CrjaEaiAxp/Software-Engineers) | 85 | Annapolis Junction, MD / Fort Meade, MD | Software | 2026-08-17 |
 
 ## Artisan Partners
 
@@ -3362,6 +3355,13 @@
 | --- | --- | --- | --- | --- |
 | [Full-Stack Engineer Intern](https://jobs.ashbyhq.com/dryft/3f1c261d-9b65-412b-9f17-34b8968bdd78/application) | 93 | SF | Software | 2026-05-09 |
 
+## DTCC
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Application Developer Intern [2027 Intern Program]](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214459) | 85 | Jersey City, NJ, United States; Tampa, FL, United States; Dallas, TX, United States | Software / Summer 2027 | 2026-08-25 |
+| [Infrastructure Engineer Intern [2027 Intern Program]](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214473) | 85 | Jersey City, NJ, United States; Tampa, FL, United States; Dallas, TX, United States | Software / Summer 2027 | 2026-08-25 |
+
 ## DuCharme, McMillen & Associates
 
 | Title | Score | Location | Department | First seen |
@@ -4331,6 +4331,10 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Embedded Engineer - Summer 2027 Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155562) | 85 | United States | Software / Summer 2027 | 2026-08-25 |
+| [Embedded Engineer - Summer 2027 Intern (US Person Required)](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155561) | 85 | United States | Software / Summer 2027 | 2026-08-25 |
+| [Information Systems, IT, Cyber Engineer & Data Science - Summer 2027 Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155555) | 85 | United States | Data & ML/AI / Summer 2027 | 2026-08-25 |
+| [Information Systems, IT, Cyber Engineer & Data Science - Summer 2027 Intern (US Person Required)](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155554) | 85 | United States | Data & ML/AI / Summer 2027 | 2026-08-25 |
 | [Application Engineer 1 - Training - Building Automation - CX Learning & Enablement](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/154237) | 85 | Northford, CT | Software | 2026-08-19 |
 | [Software Engineer I](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/116510) | 85 | Fort Mill, SC | — | 2026-08-19 |
 | [Embedded Engineer 1 New Grad](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/140055) | 81 | St. Charles, IL | Hardware | 2026-08-19 |
@@ -6868,12 +6872,6 @@
 | [Design Engineer, Design Systems](https://jobs.ashbyhq.com/ramp/6b9108d1-128d-4fd3-8465-fb514ea0e4c4) | 83 | New York, NY / San Francisco, CA / Remote | — | 2026-08-17 |
 | [Software Engineer Internship, Android](https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b) | 90 | — | Engineering | 2026-05-29 |
 
-## Ranger
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Forward-Deployed Test Engineer](https://jobs.lever.co/ranger/38ef5184-0c8a-4980-836f-95e23e83ae7d?utm_source=Simplify&ref=Simplify) | 83 | San Francisco, CA | — | 2026-08-17 |
-
 ## Raymond James Financial
 
 | Title | Score | Location | Department | First seen |
@@ -9031,6 +9029,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer, ML Tools](https://careers.withwaymo.com/jobs/software-engineer-ml-tools-mountain-view-california-united-states) | 85 | Mountain View, CA | — | 2026-08-25 |
+| [WebRAD & Rider Support Full Stack SWE](https://careers.withwaymo.com/jobs/webrad-rider-support-full-stack-swe-mountain-view-california-united-states) | 85 | Mountain View, CA | — | 2026-08-25 |
 | [Applied Research Scientist – New Grad - Perception Large Language Model/Vision-Language Model - PhD](https://careers.withwaymo.com/jobs?gh_jid=7488508) | 91 | SF / Mountain View, CA | AI/ML/Data | 2026-08-17 |
 
 ## Weave

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-25T20:52:14.901Z",
+  "generatedAt": "2026-08-25T21:17:30.223Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2809,
+  "jobCount": 2815,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1512,7 +1512,6 @@
     "canonical:fe8c478c21e9b42c": "2026-08-17T16:14:31.608Z",
     "canonical:b8d0a58fbb695542": "2026-08-17T16:14:31.608Z",
     "canonical:3b1750ded16ed7fe": "2026-08-17T16:14:31.608Z",
-    "canonical:415336754b24e19d": "2026-08-17T16:14:31.608Z",
     "canonical:2bfd9eb8b6d320f9": "2026-08-17T16:14:31.608Z",
     "canonical:c53304010edb223f": "2026-08-17T16:14:31.608Z",
     "canonical:53011aaf32904ba2": "2026-08-17T16:14:31.608Z",
@@ -1976,7 +1975,6 @@
     "canonical:9261029536c372e2": "2026-08-17T16:14:31.608Z",
     "canonical:74c2df6adfbdf397": "2026-08-17T16:14:31.608Z",
     "canonical:99b41ba5bc03ec98": "2026-08-17T16:14:31.608Z",
-    "canonical:c53d9e16509a4862": "2026-08-17T16:14:31.608Z",
     "canonical:c8f9003a85afd1ba": "2026-08-17T16:14:31.608Z",
     "canonical:a509ddc9e7a52cc0": "2026-08-17T16:14:31.608Z",
     "canonical:03a99d3d24acd468": "2026-08-17T16:14:31.608Z",
@@ -2812,7 +2810,15 @@
     "canonical:1ae22981c8ef9f13": "2026-08-25T19:22:49.820Z",
     "canonical:35b31ae093d607fe": "2026-08-25T19:22:49.820Z",
     "canonical:4a77656807157e3b": "2026-08-25T20:16:38.116Z",
-    "canonical:cb0cbd4d75eb7ce1": "2026-08-25T20:16:38.116Z"
+    "canonical:cb0cbd4d75eb7ce1": "2026-08-25T20:16:38.116Z",
+    "canonical:7e7a1e24f1e80172": "2026-08-25T21:17:30.223Z",
+    "canonical:aa865684198fffde": "2026-08-25T21:17:30.223Z",
+    "canonical:5c47d3b4ebc5663f": "2026-08-25T21:17:30.223Z",
+    "canonical:62fd25dd9d577448": "2026-08-25T21:17:30.223Z",
+    "canonical:ebb3f24313b2d3e3": "2026-08-25T21:17:30.223Z",
+    "canonical:e6919928973a3b20": "2026-08-25T21:17:30.223Z",
+    "canonical:932f59e58313a33d": "2026-08-25T21:17:30.223Z",
+    "canonical:288d25a2c6bd2b68": "2026-08-25T21:17:30.223Z"
   },
   "jobs": [
     {
@@ -26984,19 +26990,6 @@
       ]
     },
     {
-      "id": "canonical:415336754b24e19d",
-      "title": "Software Engineer",
-      "url": "https://arteratechnologies.applytojob.com/apply/CrjaEaiAxp/Software-Engineers",
-      "location": "Annapolis Junction, MD / Fort Meade, MD",
-      "department": "Software",
-      "company": "Artera Technologies",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:2bfd9eb8b6d320f9",
       "title": "Field Application Engineer",
       "url": "https://pegatrontechnologiesllc.applytojob.com/apply/a6BrFwMUss/Field-Application-Engineer",
@@ -37351,19 +37344,6 @@
       ]
     },
     {
-      "id": "canonical:c53d9e16509a4862",
-      "title": "Forward-Deployed Test Engineer",
-      "url": "https://jobs.lever.co/ranger/38ef5184-0c8a-4980-836f-95e23e83ae7d?utm_source=Simplify&ref=Simplify",
-      "location": "San Francisco, CA",
-      "department": "",
-      "company": "Ranger",
-      "score": 83,
-      "scoreReasons": [
-        "SWE-aligned",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:a509ddc9e7a52cc0",
       "title": "New Grad: Forward Deployed Software Engineer",
       "url": "https://jobs.ashbyhq.com/candidhealth/8d1922f8-e89d-433e-a21f-b724eabc003b?utm_source=Simplify&ref=Simplify",
@@ -39918,6 +39898,19 @@
       ]
     },
     {
+      "id": "canonical:7e7a1e24f1e80172",
+      "title": "Software Engineer, ML Tools",
+      "url": "https://careers.withwaymo.com/jobs/software-engineer-ml-tools-mountain-view-california-united-states",
+      "location": "Mountain View, CA",
+      "department": "",
+      "company": "Waymo",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:d251d550710753b6",
       "title": "Data Engineer",
       "url": "https://jobs.ashbyhq.com/dune/f3846675-ec16-49df-840d-a428cb421e8c",
@@ -39983,6 +39976,19 @@
       "score": 75,
       "scoreReasons": [
         "SWE-aligned"
+      ]
+    },
+    {
+      "id": "canonical:aa865684198fffde",
+      "title": "WebRAD & Rider Support Full Stack SWE",
+      "url": "https://careers.withwaymo.com/jobs/webrad-rider-support-full-stack-swe-mountain-view-california-united-states",
+      "location": "Mountain View, CA",
+      "department": "",
+      "company": "Waymo",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
@@ -40411,6 +40417,84 @@
       "location": "St. Louis, MO",
       "department": "",
       "company": "Wells Fargo",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:5c47d3b4ebc5663f",
+      "title": "Application Developer Intern [2027 Intern Program]",
+      "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214459",
+      "location": "Jersey City, NJ, United States; Tampa, FL, United States; Dallas, TX, United States",
+      "department": "Software / Summer 2027",
+      "company": "DTCC",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:62fd25dd9d577448",
+      "title": "Infrastructure Engineer Intern [2027 Intern Program]",
+      "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214473",
+      "location": "Jersey City, NJ, United States; Tampa, FL, United States; Dallas, TX, United States",
+      "department": "Software / Summer 2027",
+      "company": "DTCC",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:ebb3f24313b2d3e3",
+      "title": "Embedded Engineer - Summer 2027 Intern",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155562",
+      "location": "United States",
+      "department": "Software / Summer 2027",
+      "company": "Honeywell",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:e6919928973a3b20",
+      "title": "Embedded Engineer - Summer 2027 Intern (US Person Required)",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155561",
+      "location": "United States",
+      "department": "Software / Summer 2027",
+      "company": "Honeywell",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:932f59e58313a33d",
+      "title": "Information Systems, IT, Cyber Engineer & Data Science - Summer 2027 Intern",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155555",
+      "location": "United States",
+      "department": "Data & ML/AI / Summer 2027",
+      "company": "Honeywell",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:288d25a2c6bd2b68",
+      "title": "Information Systems, IT, Cyber Engineer & Data Science - Summer 2027 Intern (US Person Required)",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155554",
+      "location": "United States",
+      "department": "Data & ML/AI / Summer 2027",
+      "company": "Honeywell",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
