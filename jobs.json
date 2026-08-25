@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T12:26:06.633Z",
+  "generatedAt": "2026-08-25T13:26:04.141Z",
   "companyCount": 188,
   "okCount": 188,
   "jobCount": 2811,
@@ -2682,7 +2682,6 @@
     "canonical:fc73be68d893bc72": "2026-08-24T20:45:12.081Z",
     "canonical:ad7c20b942429171": "2026-08-24T20:45:12.081Z",
     "canonical:aac6fca8bda07320": "2026-08-24T20:45:12.081Z",
-    "canonical:b53351451cbea318": "2026-08-24T20:45:12.081Z",
     "canonical:d138827ae63de0d9": "2026-08-24T20:45:12.081Z",
     "canonical:aeaa766b84378202": "2026-08-24T21:18:49.308Z",
     "canonical:a95709e71f94419a": "2026-08-24T21:18:49.308Z",
@@ -2814,7 +2813,8 @@
     "canonical:1ae22981c8ef9f13": "2026-08-25T12:26:06.633Z",
     "canonical:1aa90b332d2672c7": "2026-08-25T12:26:06.633Z",
     "canonical:dbba859de1f439f6": "2026-08-25T12:26:06.633Z",
-    "canonical:4cfec13c35d7f70a": "2026-08-25T12:26:06.633Z"
+    "canonical:4cfec13c35d7f70a": "2026-08-25T12:26:06.633Z",
+    "canonical:4a77656807157e3b": "2026-08-25T13:26:04.141Z"
   },
   "jobs": [
     {
@@ -3609,10 +3609,10 @@
       ]
     },
     {
-      "id": "canonical:01712d03354e6437",
+      "id": "canonical:19a13c3b45c2096e",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "location": "Singapore",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+      "location": "Hong Kong",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -3623,10 +3623,10 @@
       ]
     },
     {
-      "id": "canonical:19a13c3b45c2096e",
+      "id": "canonical:01712d03354e6437",
       "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "location": "Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+      "location": "Singapore",
       "department": "",
       "company": "Point72",
       "score": 93,
@@ -5412,7 +5412,7 @@
     {
       "id": "canonical:1a056010d15d11c7",
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -5425,7 +5425,7 @@
     {
       "id": "canonical:073e340d37608d22",
       "title": "Software Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -35807,21 +35807,6 @@
       ]
     },
     {
-      "id": "canonical:b53351451cbea318",
-      "title": "Reservoir Engineer Graduate - Subsurface Technology",
-      "url": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Graduate---Subsurface-Technology-Reservoir-Engineer---Houston--TX_RQ115139",
-      "location": "Houston, TX",
-      "department": "AI/ML/Data",
-      "company": "BP",
-      "score": 99,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:d138827ae63de0d9",
       "title": "Associate Software Engineer - Ts/Sci",
       "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineer-TSSCI-FL-32904/1410637500/?ats=successfactors",
@@ -37148,6 +37133,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:4a77656807157e3b",
+      "title": "Graduate C++ Software Engineer",
+      "url": "https://davincitrading.com/job/graduate-c-software-engineer-2/",
+      "location": "Miami, FL",
+      "department": "",
+      "company": "Da Vinci",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
       ]
     },
     {
@@ -40463,7 +40462,7 @@
     {
       "id": "canonical:4cfec13c35d7f70a",
       "title": "2027 Software Test Engineering Intern- Huntsville AL",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247485",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247483",
       "location": "United States-Alabama-Huntsville",
       "department": "Software / Summer 2027",
       "company": "Northrop Grumman",

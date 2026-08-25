@@ -164,7 +164,7 @@
 - [Boston Engineering](#boston-engineering) (1)
 - [Boston Scientific](#boston-scientific) (1)
 - [Bot Auto](#bot-auto) (3)
-- [BP](#bp) (3)
+- [BP](#bp) (2)
 - [Brain Co.](#brain-co) (1)
 - [Bree](#bree) (1)
 - [Bridger](#bridger) (1)
@@ -260,6 +260,7 @@
 - [Cylake](#cylake) (1)
 - [D2L](#d2l) (1)
 - [D3 Global Inc](#d3-global-inc) (1)
+- [Da Vinci](#da-vinci) (1)
 - [Daikin Applied](#daikin-applied) (1)
 - [Dark Wolf Solutions](#dark-wolf-solutions) (2)
 - [Databricks](#databricks) (5)
@@ -2267,7 +2268,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Corporate Asset Development Engineer Intern](https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Colorado---Denver/Corporate-Asset-Development-Engineer-Intern_RQ115146) | 93 | Denver, CO | AI/ML/Data | 2026-08-25 |
-| [Reservoir Engineer Graduate - Subsurface Technology](https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Graduate---Subsurface-Technology-Reservoir-Engineer---Houston--TX_RQ115139) | 99 | Houston, TX | AI/ML/Data | 2026-08-24 |
 | [Reservoir Engineer Intern - Summer Internship](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Summer-Intern---Reservoir-Engineer---Houston--TX_RQ114655-2) | 93 | Houston, TX | AI/ML/Data | 2026-08-22 |
 
 ## Brain Co.
@@ -2827,9 +2827,9 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern - Fall 2026](https://boards.greenhouse.io/cloudflare/jobs/8118855) | 93 | London, UK | Software | 2026-08-20 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
-| [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | 93 | In-Office | — | 2026-08-11 |
+| [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -3115,6 +3115,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [New Grad: Backend Engineer](https://d3.com/careers#jobs-listing) | 91 | Los Angeles, CA | — | 2026-08-17 |
+
+## Da Vinci
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Graduate C++ Software Engineer](https://davincitrading.com/job/graduate-c-software-engineer-2/) | 91 | Miami, FL | — | 2026-08-25 |
 
 ## Daikin Applied
 
@@ -5987,7 +5993,7 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [2027 Software Engineering Intern- Huntsville AL](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486) | 93 | United States-Alabama-Huntsville | Software / Summer 2027 | 2026-08-25 |
-| [2027 Software Test Engineering Intern- Huntsville AL](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247485) | 93 | United States-Alabama-Huntsville | Software / Summer 2027 | 2026-08-25 |
+| [2027 Software Test Engineering Intern- Huntsville AL](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247483) | 93 | United States-Alabama-Huntsville | Software / Summer 2027 | 2026-08-25 |
 | [Associate Software Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer_R10247440) | 93 | Hollywood, MD | Software | 2026-08-24 |
 | [Java Software Engineer 1 or 2](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Java-Software-Engineer-Level-1-or-2_R10247380) | 93 | Aurora, CO / Morrisville, NC / Linthicum Heights, MD | Software | 2026-08-24 |
 | [Software Systems Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Software-System-Engineer--Level-1-or-2----AHT_R10247180) | 93 | Manhattan Beach, CA | Hardware | 2026-08-24 |
@@ -6587,8 +6593,8 @@
 | [Quantitative Developer](https://careers.point72.com/CSJobDetail?jobName=quantitative-developer&jobCode=CSS-0013369&location=New%20York&locale=English) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-08-17 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
