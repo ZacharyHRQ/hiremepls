@@ -1,6 +1,6 @@
 # Open Internships
 
-**2824** internships across **188/188** companies — last updated 2026-08-26.
+**2827** internships across **188/188** companies — last updated 2026-08-26.
 
 ## Companies
 
@@ -217,7 +217,6 @@
 - [Clipboard Health](#clipboard-health) (1)
 - [Cloudflare](#cloudflare) (8)
 - [Cloudscaler](#cloudscaler) (1)
-- [Coalition](#coalition) (1)
 - [Codan Limited](#codan-limited) (1)
 - [Codeage](#codeage) (1)
 - [Cogent Security](#cogent-security) (1)
@@ -263,6 +262,7 @@
 - [D-Wave Quantum](#d-wave-quantum) (1)
 - [D2L](#d2l) (1)
 - [D3 Global Inc](#d3-global-inc) (1)
+- [Da Vinci](#da-vinci) (1)
 - [Daikin Applied](#daikin-applied) (1)
 - [Dark Wolf Solutions](#dark-wolf-solutions) (2)
 - [Databricks](#databricks) (4)
@@ -319,6 +319,7 @@
 - [Ellipsis Labs](#ellipsis-labs) (3)
 - [Eluvio](#eluvio) (1)
 - [Ema](#ema) (1)
+- [Embedding VC](#embedding-vc) (1)
 - [Emerald AI](#emerald-ai) (1)
 - [Emerson](#emerson) (1)
 - [eMoney Advisor, LLC](#emoney-advisor-llc) (1)
@@ -522,7 +523,6 @@
 - [KAYAK](#kayak) (1)
 - [KBR](#kbr) (4)
 - [Kearney](#kearney) (1)
-- [Keenfinity](#keenfinity) (1)
 - [Kepler Communications](#kepler-communications) (1)
 - [Keysight Technologies](#keysight-technologies) (1)
 - [Kikoff](#kikoff) (1)
@@ -578,7 +578,7 @@
 - [Magna](#magna) (2)
 - [Makai Labs](#makai-labs) (1)
 - [Mandolin](#mandolin) (2)
-- [ManTech](#mantech) (3)
+- [ManTech](#mantech) (2)
 - [Mapjects](#mapjects) (6)
 - [MARGO](#margo) (1)
 - [Mariana Minerals](#mariana-minerals) (2)
@@ -656,7 +656,6 @@
 - [NewRocket](#newrocket) (2)
 - [NewsBreak](#newsbreak) (5)
 - [Nextdoor](#nextdoor) (1)
-- [NextEra Energy](#nextera-energy) (1)
 - [Nexthop.ai](#nexthop-ai) (1)
 - [Nextiva](#nextiva) (1)
 - [Nidec](#nidec) (2)
@@ -957,7 +956,7 @@
 - [The Anywhere](#the-anywhere) (1)
 - [The Boeing Company](#the-boeing-company) (4)
 - [The Brattle Group](#the-brattle-group) (1)
-- [The Hartford](#the-hartford) (4)
+- [The Hartford](#the-hartford) (7)
 - [The Home Depot](#the-home-depot) (3)
 - [The Nuclear Company](#the-nuclear-company) (6)
 - [The Trade Desk](#the-trade-desk) (2)
@@ -1014,7 +1013,7 @@
 - [Urban Science](#urban-science) (1)
 - [Ursa Major](#ursa-major) (1)
 - [US Conec](#us-conec) (1)
-- [V2X](#v2x) (1)
+- [V2X](#v2x) (2)
 - [Valeo](#valeo) (1)
 - [Valeo Foods](#valeo-foods) (2)
 - [Validity](#validity) (1)
@@ -1058,6 +1057,7 @@
 - [Waymo](#waymo) (3)
 - [Weave](#weave) (2)
 - [Wells Fargo](#wells-fargo) (2)
+- [WellSky](#wellsky) (1)
 - [WeRide](#weride) (2)
 - [Western Digital](#western-digital) (5)
 - [Western Magnetics](#western-magnetics) (1)
@@ -2819,7 +2819,7 @@
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
 | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -2829,12 +2829,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Associate Engineer Graduate Entry Role](https://jobs.ashbyhq.com/cloudscaler/5785a84a-4984-4c87-9899-b9ae289bf575/application?embed=true) | 99 | London, UK | Software | 2026-08-17 |
-
-## Coalition
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer I](https://www.coalitioninc.com/job-posting/4560711005) | 85 | San Francisco, CA | — | 2026-08-26 |
 
 ## Codan Limited
 
@@ -3139,6 +3133,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [New Grad: Backend Engineer](https://d3.com/careers#jobs-listing) | 91 | Los Angeles, CA | — | 2026-08-17 |
+
+## Da Vinci
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Graduate C++ Software Engineer](https://davincitrading.com/job/graduate-c-software-engineer-2/) | 91 | Miami, FL | — | 2026-08-26 |
 
 ## Daikin Applied
 
@@ -3536,6 +3536,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [AI Application Engineer](https://jobs.ashbyhq.com/ema/ab094389-25ec-417b-b646-06969d166d06/application?embed=true) | 93 | SF | Software | 2026-08-18 |
+
+## Embedding VC
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI Engineer - Early Career](https://jobs.ashbyhq.com/embedding-vc/5c8433ea-c7e6-4350-bbd5-2889e7fdb2b1/application?embed=true) | 93 | SF | AI/ML/Data | 2026-08-26 |
 
 ## Emerald AI
 
@@ -4977,12 +4983,6 @@
 | --- | --- | --- | --- | --- |
 | [Data Scientist - Data Scientist](https://kearney.taleo.net/careersection/01/jobdetail.ftl?job=006JW) | 85 | Boston, MA / Washington, DC / Arlington, VA | AI/ML/Data | 2026-08-17 |
 
-## Keenfinity
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Associate DevOps Software Engineer](https://jobs.smartrecruiters.com/Keenfinity/744000145726019) | 93 | Fairport, NY | Software | 2026-08-26 |
-
 ## Kepler Communications
 
 | Title | Score | Location | Department | First seen |
@@ -5370,7 +5370,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Associate CNO Developer](https://mantech.avature.net/en_US/careers/JobDetail/64788) | 85 | Fort Meade, MD | Software | 2026-08-17 |
-| [Associate Computer Network Operations Developer](https://mantech.avature.net/en_US/careers/JobDetail/64786) | 85 | Fort Meade, MD | Software | 2026-08-17 |
 | [Software Engineer 1](https://mantech.avature.net/en_US/careers/JobDetail/61501) | 85 | Crane, IN | Software | 2026-08-17 |
 
 ## Mapjects
@@ -5919,12 +5918,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [New Grad 2026: Machine Learning Engineer, Machine Learning](https://about.nextdoor.com/careers-list/?gh_jid=7264954) | 91 | Dallas, TX | — | 2026-08-17 |
-
-## NextEra Energy
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Applied Scientist 1](https://jobs.nexteraenergy.com/job/St_-Paul-Applied-Scientist-I-MN-55107/1393884800/?ats=successfactors) | 85 | St Paul, MN | AI/ML/Data | 2026-08-17 |
 
 ## Nexthop.ai
 
@@ -6625,8 +6618,8 @@
 | [Quantitative Developer](https://careers.point72.com/CSJobDetail?jobName=quantitative-developer&jobCode=CSS-0013369&location=New%20York&locale=English) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-08-17 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -8161,6 +8154,9 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Tech & Data Program Summer 2027 - Data Engineer Intern (Chicago)](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Chicago-IL/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Chicago-_R2626650) | 93 | Chicago, IL | Data & ML/AI / Summer 2027 | 2026-08-26 |
+| [Tech & Data Program Summer 2027 - Software Engineer Intern (Charlotte)](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Charlotte-_R2626649) | 93 | Charlotte, NC | Data & ML/AI / Summer 2027 | 2026-08-26 |
+| [Tech & Data Program Summer 2027 – Data Engineer Intern (Charlotte)](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Charlotte-_R2626648) | 93 | Charlotte, NC | Data & ML/AI / Summer 2027 | 2026-08-26 |
 | [Software Engineer Intern - Technology & Data](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Columbus-OH/Tech---Data-Summer-Program-2027---Software-Engineer-Intern--Columbus-_R2626609) | 93 | Columbus, OH | Software | 2026-08-26 |
 | [Data Engineer Intern - Tech & Data Program](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Columbus-OH/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Columbus-_R2626610) | 93 | Columbus, OH | AI/ML/Data | 2026-08-24 |
 | [Data Engineer Intern - Technology, Data, AI, and Operations](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1) | 93 | Hartford, CT | AI/ML/Data | 2026-08-24 |
@@ -8828,6 +8824,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer 1 - Multiple Teams](https://careers.gov2x.com/jobs/62655?icims=1) | 85 | Indianapolis, IN | Software | 2026-08-26 |
 | [Embedded Firmware Engineer 1](https://careers.gov2x.com/jobs/62490?icims=1) | 75 | Indianapolis, IN | Hardware | 2026-08-17 |
 
 ## Valeo
@@ -9123,6 +9120,12 @@
 | --- | --- | --- | --- | --- |
 | [2026 Technology Summer Internship - Early Careers (Software Engineer)](https://careers.techtitans.org/companies/wells-fargo/jobs/54862105-2026-technology-summer-internship-early-careers-software-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 85 | St. Louis, MO | — | 2026-08-17 |
 | [2026 Technology Summer Internship - Early Careers (Software Engineer)](https://www.linkedin.com/jobs/view/2026-technology-summer-internship-early-careers-software-engineer-at-wells-fargo-4271041288?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | 77 | Irving, TX | — | 2026-08-17 |
+
+## WellSky
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Associate Software Engineer - DevOps Engineer](https://wellsky.wd1.myworkdayjobs.com/WellSkyCareers/job/Overland-Park-KS/Associate-Software-Engineer---DevOps-Engineer_JR5080) | 93 | Overland Park, KS | Software | 2026-08-26 |
 
 ## WeRide
 
