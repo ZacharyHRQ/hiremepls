@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T11:54:42.928Z",
+  "generatedAt": "2026-08-26T12:28:41.509Z",
   "companyCount": 188,
   "okCount": 188,
   "jobCount": 2817,
@@ -2508,7 +2508,6 @@
     "canonical:51d01b1f089af891": "2026-08-22T10:45:54.605Z",
     "canonical:e7311dc0347c7ff2": "2026-08-22T10:45:54.605Z",
     "canonical:5e5c5ad8acd1eefa": "2026-08-22T10:45:54.605Z",
-    "canonical:dda2416bf8ef3371": "2026-08-22T11:10:54.782Z",
     "canonical:b444da377511f4fc": "2026-08-22T13:07:03.173Z",
     "canonical:f8cb9b477074fa6b": "2026-08-22T13:41:53.325Z",
     "canonical:a522f49ad7e2b21e": "2026-08-22T13:41:53.325Z",
@@ -2820,7 +2819,8 @@
     "canonical:4a77656807157e3b": "2026-08-26T05:47:37.467Z",
     "canonical:4cfec13c35d7f70a": "2026-08-26T07:25:05.685Z",
     "canonical:fb3c00ad45e6f444": "2026-08-26T10:16:48.201Z",
-    "canonical:e97a9fc0164fc19e": "2026-08-26T10:58:22.149Z"
+    "canonical:e97a9fc0164fc19e": "2026-08-26T10:58:22.149Z",
+    "canonical:4b0ab273bab26c2e": "2026-08-26T12:28:41.509Z"
   },
   "jobs": [
     {
@@ -13986,20 +13986,6 @@
       "location": "Raleigh, NC",
       "department": "Software",
       "company": "Hitachi",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:dda2416bf8ef3371",
-      "title": "Reservoir Engineer Intern - Summer Internship",
-      "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Summer-Intern---Reservoir-Engineer---Houston--TX_RQ114655-2",
-      "location": "Houston, TX",
-      "department": "AI/ML/Data",
-      "company": "BP",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -39277,6 +39263,19 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:4b0ab273bab26c2e",
+      "title": "Software Engineer I",
+      "url": "https://www.coalitioninc.com/job-posting/4560711005",
+      "location": "San Francisco, CA",
+      "department": "",
+      "company": "Coalition",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
