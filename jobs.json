@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-26T07:25:05.685Z",
+  "generatedAt": "2026-08-26T08:05:37.278Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2848,
+  "jobCount": 2847,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2529,7 +2529,6 @@
     "canonical:1abd096e64819513": "2026-08-22T04:45:53.381Z",
     "canonical:5ed9a9a79a8155ef": "2026-08-22T04:45:53.381Z",
     "canonical:4c621f2af8bde971": "2026-08-22T09:38:21.899Z",
-    "canonical:4065a62fdc3d2aa9": "2026-08-22T09:38:21.899Z",
     "canonical:e85e939631c095c8": "2026-08-22T09:56:33.336Z",
     "canonical:471d94934dc2efa9": "2026-08-22T09:56:33.336Z",
     "canonical:51d01b1f089af891": "2026-08-22T10:45:54.605Z",
@@ -16252,8 +16251,8 @@
     },
     {
       "id": "canonical:ee163e214703918f",
-      "title": "Software Engineering Intern, Spring 2027",
-      "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4329122009?gh_src=kpek4mqz9us",
+      "title": "Software Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4328555009?gh_src=kpek4mqz9us",
       "location": "Golden, CO",
       "department": "",
       "company": "Rendezvous Robotics",
@@ -35592,20 +35591,6 @@
       "id": "canonical:4c621f2af8bde971",
       "title": "Software Engineer",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Resource-Control-Team-Software-Engineer--Level-1-or-2----AHT_R10247178",
-      "location": "Manhattan Beach, CA",
-      "department": "Hardware",
-      "company": "Northrop Grumman",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:4065a62fdc3d2aa9",
-      "title": "Software Engineer - COR",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Configurable-On-Board-Router--COR--Team---Software-Engineer--AHT-_R10247177",
       "location": "Manhattan Beach, CA",
       "department": "Hardware",
       "company": "Northrop Grumman",
