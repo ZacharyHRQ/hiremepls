@@ -1,6 +1,6 @@
 # Open Internships
 
-**2816** internships across **188/188** companies — last updated 2026-08-26.
+**2813** internships across **188/188** companies — last updated 2026-08-26.
 
 ## Companies
 
@@ -72,7 +72,7 @@
 - [Appian](#appian) (6)
 - [Apple](#apple) (28)
 - [Applied Intuition](#applied-intuition) (5)
-- [Applied Materials](#applied-materials) (7)
+- [Applied Materials](#applied-materials) (6)
 - [Applied Systems, Inc.](#applied-systems-inc) (2)
 - [AQR](#aqr) (1)
 - [Aquatic Capital](#aquatic-capital) (1)
@@ -254,7 +254,7 @@
 - [Crusoe](#crusoe) (2)
 - [CTG](#ctg) (1)
 - [CTGT](#ctgt) (1)
-- [Cummins](#cummins) (9)
+- [Cummins](#cummins) (10)
 - [Curtiss-Wright Corporation](#curtiss-wright-corporation) (1)
 - [CWILL](#cwill) (1)
 - [Cybernetic Labs](#cybernetic-labs) (6)
@@ -387,9 +387,8 @@
 - [Gecko Robotics](#gecko-robotics) (1)
 - [Gemini](#gemini) (1)
 - [Generac](#generac) (3)
-- [General Dynamics](#general-dynamics) (1)
 - [General Dynamics Information Technology](#general-dynamics-information-technology) (6)
-- [General Dynamics Mission Systems](#general-dynamics-mission-systems) (11)
+- [General Dynamics Mission Systems](#general-dynamics-mission-systems) (12)
 - [General Dynamics UK](#general-dynamics-uk) (1)
 - [General Matter](#general-matter) (2)
 - [General Motors](#general-motors) (2)
@@ -409,7 +408,7 @@
 - [GlobalFoundries](#globalfoundries) (3)
 - [Globus Medical](#globus-medical) (1)
 - [GM financial](#gm-financial) (2)
-- [Goldman Sachs](#goldman-sachs) (6)
+- [Goldman Sachs](#goldman-sachs) (2)
 - [Google](#google) (13)
 - [Gradient Robotics](#gradient-robotics) (1)
 - [Gritt Robotics Inc](#gritt-robotics-inc) (1)
@@ -605,7 +604,6 @@
 - [Medtronic](#medtronic) (2)
 - [Melius](#melius) (2)
 - [Menasha Corporation](#menasha-corporation) (1)
-- [Mendix](#mendix) (1)
 - [Merative](#merative) (1)
 - [Mercor](#mercor) (1)
 - [Meridian Partners](#meridian-partners) (4)
@@ -672,7 +670,7 @@
 - [North Star Staffing Solutions](#north-star-staffing-solutions) (1)
 - [Northeastern](#northeastern) (1)
 - [Northeastern University](#northeastern-university) (1)
-- [Northrop Grumman](#northrop-grumman) (27)
+- [Northrop Grumman](#northrop-grumman) (25)
 - [Northwestern Mutual](#northwestern-mutual) (1)
 - [Northwood Space](#northwood-space) (1)
 - [Notion](#notion) (16)
@@ -793,6 +791,7 @@
 - [Rendezvous Robotics](#rendezvous-robotics) (1)
 - [Repligen](#repligen) (1)
 - [Replit](#replit) (2)
+- [Repsol](#repsol) (1)
 - [Resideo](#resideo) (1)
 - [Resmed](#resmed) (1)
 - [RESPEC](#respec) (1)
@@ -820,7 +819,7 @@
 - [Royal Bank of Canada](#royal-bank-of-canada) (2)
 - [Royal Caribbean Group](#royal-caribbean-group) (1)
 - [RRS Group](#rrs-group) (2)
-- [RTX](#rtx) (32)
+- [RTX](#rtx) (35)
 - [RunSybil](#runsybil) (1)
 - [Ryder System](#ryder-system) (1)
 - [SA Technologies](#sa-technologies) (2)
@@ -1644,7 +1643,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Physicist/Scientist - Advanced Degree](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/Physicist-Scientist--Adv-Degree--Gloucester--MA_R2611455) | 93 | Gloucester, MA | AI/ML/Data | 2026-08-25 |
 | [Systems Engineer](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Systems-Engineer_R2626795) | 83 | Santa Clara, CA | Hardware | 2026-08-21 |
 | [Software Support Engineer 1 - Global](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Global-Software-Support-Engineer-I_R2625245) | 93 | Austin, TX | Software | 2026-08-18 |
 | [AI Research Scientist - Generative Models for Scientific Discovery](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/AI-Research-Scientist--Generative-Models-for-Scientific-Discovery-_R2611980-1) | 93 | Santa Clara, CA | AI/ML/Data | 2026-08-17 |
@@ -3069,6 +3067,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Product Engineer - Product Engineering](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2435550) | 85 | Rocky Mount, NC | Software | 2026-08-26 |
 | [Electronic Systems Engineer - Software](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434473) | 85 | United States | Hardware | 2026-08-17 |
 | [Electronic Systems Engineer - Software](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2433277) | 85 | Columbus, IN | Software | 2026-08-17 |
 | [Product Engineer](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434797) | 85 | Columbus, IN | Software | 2026-08-17 |
@@ -3970,12 +3969,6 @@
 | [Firmware Engineering Intern](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR16149) | 83 | Reno, NV | Hardware | 2026-08-14 |
 | [Intern Firmware Engineering](https://generac.wd5.myworkdayjobs.com/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR16149) | 83 | Reno, NV - USA | Hardware / Not stated | 2026-08-14 |
 
-## General Dynamics
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [ERP Architect 1](https://careers-gd-ots.icims.com/jobs/36873/job?mobile=true&needsRedirect=false) | 85 | Crawfordville, FL / St. Petersburg, FL | AI/ML/Data | 2026-08-21 |
-
 ## General Dynamics Information Technology
 
 | Title | Score | Location | Department | First seen |
@@ -3991,6 +3984,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer - Crypto and Cross Domain Solutions](https://careers-gdms.icims.com/jobs/74514/job?mobile=true&needsRedirect=false) | 85 | Scottsdale, AZ | Hardware | 2026-08-26 |
 | [Entry Level Software Systems Engineer - Surface Ship Systems Programs](https://careers-gdms.icims.com/jobs/74521/job?mobile=true&needsRedirect=false) | 85 | Groton, CT | Software | 2026-08-25 |
 | [Software Systems Engineer - Surface Ship Systems Programs](https://careers-gdms.icims.com/jobs/74522/job?mobile=true&needsRedirect=false) | 85 | Manassas, VA | Software | 2026-08-24 |
 | [Software Engineer - Entry Level](https://careers-gdms.icims.com/jobs/74471/job?mobile=true&needsRedirect=false) | 85 | Manassas, VA | Software | 2026-08-21 |
@@ -4132,10 +4126,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Engineering New Analyst](https://higher.gs.com/roles/171568?type=students) | 85 | Dallas, TX | Software | 2026-08-26 |
-| [Engineering New Analyst - Engineering](https://higher.gs.com/roles/171570?type=students) | 85 | Salt Lake City, UT | Software | 2026-08-26 |
-| [Engineering New Analyst - Engineering](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807) | 85 | Seattle, WA | Software | 2026-08-26 |
-| [New Analyst - Engineering](https://higher.gs.com/roles/171569?type=students) | 85 | NYC | Software | 2026-08-26 |
 | [Corporate Planning & Management-Senior Analyst-Quantitative Engineering](https://higher.gs.com/roles/180216) | 85 | NYC | AI/ML/Data | 2026-08-26 |
 | [Software Engineer - Data](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292) | 85 | London, UK | Software | 2026-08-17 |
 
@@ -5544,12 +5534,6 @@
 | --- | --- | --- | --- | --- |
 | [Application Engineer Intern](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Troy-Michigan/Application-Engineer-Intern--Summer-2026-_R13999) | 93 | Troy, MI | Software | 2026-08-01 |
 
-## Mendix
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Application Support Engineer](https://jobs.lever.co/mendix/acd9f6de-8c4a-4226-b5fc-c164ebe39760/apply) | 93 | LA | Software | 2026-08-24 |
-
 ## Merative
 
 | Title | Score | Location | Department | First seen |
@@ -6023,7 +6007,6 @@
 | [Software Engineer Intern - Strategic Deterrent Systems Division - Sentinel](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486) | 93 | Huntsville, AL | Software | 2026-08-25 |
 | [Associate Software Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer_R10247440) | 93 | Hollywood, MD | Software | 2026-08-24 |
 | [Java Software Engineer 1 or 2](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Java-Software-Engineer-Level-1-or-2_R10247380) | 93 | Aurora, CO / Morrisville, NC / Linthicum Heights, MD | Software | 2026-08-24 |
-| [Software Systems Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Software-System-Engineer--Level-1-or-2----AHT_R10247180) | 93 | Manhattan Beach, CA | Hardware | 2026-08-24 |
 | [Software Engineer Associate](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer_R10240764) | 93 | Melbourne, FL | Software | 2026-08-21 |
 | [Embedded Software Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Calling-all-Secret-Cleared-Embedded-Software-Engineers---Chandler-_R10245585-1) | 93 | Chandler, AZ | Hardware | 2026-08-21 |
 | [Software Engineer / User Experience Applications](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Software-Engineer---User-Experience-Applications_R10236991-1) | 93 | Oklahoma City, OK / San Diego, CA | Software | 2026-08-19 |
@@ -6037,7 +6020,6 @@
 | [Engineer/Principal Engineer - Survivability](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Engineer-Principal-Engineer---Survivability--Melbourne-FL-_R10237946) | 93 | Melbourne, FL | Software | 2026-08-17 |
 | [Materials & Processes Engineer/Principal Engineer - Composites](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/Materials---Processes-Engineer-Principal-Engineer--Composites----2nd-Shift_R10236040-1) | 93 | Hackleburg, AL | Software | 2026-08-17 |
 | [Principal Structural Engineer - Structural Analysis](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Engineer-or-Principal-Engineer---Structural-Analysis_R10240064) | 93 | Hackleburg, AL | Software | 2026-08-17 |
-| [Software Development Engineer - Level 2 or 3](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/Software-Development-Engineers--Level-2-or-3-_R10239034) | 93 | McLean, VA | Software | 2026-08-17 |
 | [Software Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Software-Engineer_R10234799) | 93 | Oklahoma City, OK | Hardware | 2026-08-17 |
 | [Software Engineer / Principal Software Engineer - Simulation](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Software-Engineer---Principal-Software-Engineer---Simulation_R10231372) | 93 | Melbourne, FL / Oklahoma City, OK | Software | 2026-08-17 |
 | [Software Engineer/Principal Software Engineer - Java](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Software-Engineer-Principal-Software-Engineer---JAVA_R10237701) | 93 | San Diego, CA | Software | 2026-08-17 |
@@ -6987,7 +6969,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineering Intern](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4328555009?gh_src=kpek4mqz9us) | 93 | Golden, CO | — | 2026-07-28 |
+| [Software Engineering Intern, Spring 2027](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4329122009?gh_src=kpek4mqz9us) | 93 | Golden, CO | — | 2026-07-28 |
 
 ## Repligen
 
@@ -7001,6 +6983,12 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer - New Grad (Summer 2026)](https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc) | 99 | Foster City, CA | — | 2026-08-17 |
 | [Software Engineering Intern](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1) | 93 | Foster City, CA | — | 2026-08-15 |
+
+## Repsol
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Reservoir Engineer Intern](https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/Reservoir-Engineer-Intern_83636-1) | 93 | The Woodlands, TX | AI/ML/Data | 2026-08-26 |
 
 ## Resideo
 
@@ -7187,6 +7175,9 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01865952) | 93 | West Valley City, UT | Software | 2026-08-26 |
+| [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-Intern--Summer-2027-_01869890) | 93 | Woburn, MA | Software | 2026-08-26 |
+| [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01868869) | 93 | Richardson, TX | Software | 2026-08-26 |
 | [Software Engineer 1](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineer-I--Onsite-_01868829) | 93 | Huntsville, AL | Software | 2026-08-25 |
 | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Software-Engineering-Intern--Summer-2027-_01868485) | 93 | Jupiter, FL | Software | 2026-08-25 |
 | [Firmware Engineer 2](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-LARGO-382SS--7887-Bryan-Dairy-Rd--BLDG-100/Firmware-Engineer-2--Onsite-_01866672) | 83 | Largo, FL | Hardware | 2026-08-25 |
