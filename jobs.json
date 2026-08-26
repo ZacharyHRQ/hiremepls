@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-26T05:47:37.467Z",
+  "generatedAt": "2026-08-26T06:29:04.316Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2852,
+  "jobCount": 2848,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2405,7 +2405,6 @@
     "canonical:f7de23fe393634bb": "2026-08-20T15:55:35.841Z",
     "canonical:936c5f9bc9374d6c": "2026-08-20T15:55:35.841Z",
     "canonical:a4d67f64de6888e8": "2026-08-20T15:55:35.841Z",
-    "canonical:9884a6725ee76278": "2026-08-20T15:55:35.841Z",
     "canonical:4f674c0cb0befe62": "2026-08-20T15:55:35.841Z",
     "canonical:c303e9f41e5bf7a8": "2026-08-20T18:22:23.089Z",
     "canonical:d3e4c9ff2c085de6": "2026-08-20T18:22:23.089Z",
@@ -2502,7 +2501,6 @@
     "canonical:a8cbedc4fa3b0284": "2026-08-21T19:54:37.646Z",
     "canonical:0b6eaab294ae2e88": "2026-08-21T19:54:37.646Z",
     "canonical:160de77e26a3b197": "2026-08-21T20:13:32.090Z",
-    "canonical:4b868f2dd0e45334": "2026-08-21T20:13:32.090Z",
     "canonical:302496ad9fc477ab": "2026-08-21T20:13:32.090Z",
     "canonical:34b92f6ac29c4fcd": "2026-08-21T20:13:32.090Z",
     "canonical:241930c80b7ebd10": "2026-08-21T20:40:41.753Z",
@@ -2744,7 +2742,6 @@
     "canonical:348b3ed3b9a8a289": "2026-08-25T11:50:43.806Z",
     "canonical:f450e162b7e7098e": "2026-08-25T11:50:43.806Z",
     "canonical:faf9bb0db923a921": "2026-08-25T11:50:43.806Z",
-    "canonical:4cfec13c35d7f70a": "2026-08-25T12:26:06.633Z",
     "canonical:8cd734f6f669de1d": "2026-08-25T14:11:08.566Z",
     "canonical:70d44d78e41147e3": "2026-08-25T15:01:59.329Z",
     "canonical:91ae6a7452a32ebf": "2026-08-25T15:01:59.329Z",
@@ -2807,7 +2804,6 @@
     "canonical:fb0b0858d891691b": "2026-08-25T22:15:08.901Z",
     "canonical:587e536317ca39bc": "2026-08-25T22:15:08.901Z",
     "canonical:6ad4ac30677fa555": "2026-08-25T23:16:05.109Z",
-    "canonical:00053ae33decdf2c": "2026-08-26T00:00:03.891Z",
     "canonical:ca4a4be9e07778f9": "2026-08-26T01:27:54.276Z",
     "canonical:6db2cf39db5116fd": "2026-08-26T01:27:54.276Z",
     "canonical:e36d8e89a186d664": "2026-08-26T01:27:54.276Z",
@@ -17874,20 +17870,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:00053ae33decdf2c",
-      "title": "Junior Software Engineer",
-      "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5085231007",
-      "location": "Chicago, IL",
-      "department": "Software Engineering",
-      "company": "Geneva Trading",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -34868,19 +34850,6 @@
       ]
     },
     {
-      "id": "canonical:9884a6725ee76278",
-      "title": "Software Engineering Senior Associate",
-      "url": "https://jobs.l3harris.com/job/Tulsa-Senior-Associate,-Software-Engineering-OK-74115/1421451700/?ats=successfactors",
-      "location": "Tulsa, OK",
-      "department": "Hardware",
-      "company": "L3Harris Technologies",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:4f674c0cb0befe62",
       "title": "Associate Software Engineer",
       "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1421462300/?ats=successfactors",
@@ -35378,20 +35347,6 @@
       "location": "London, UK",
       "department": "AI/ML/Data",
       "company": "Entrust",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:4b868f2dd0e45334",
-      "title": "Associate Software Engineer",
-      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Associate-Software-Engineer_REQ369269",
-      "location": "Atlanta, GA",
-      "department": "Software",
-      "company": "T-Mobile",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -41058,20 +41013,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:4cfec13c35d7f70a",
-      "title": "2027 Software Test Engineering Intern- Huntsville AL",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247487",
-      "location": "United States-Alabama-Huntsville",
-      "department": "Software / Summer 2027",
-      "company": "Northrop Grumman",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
