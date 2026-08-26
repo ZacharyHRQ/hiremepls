@@ -1,6 +1,6 @@
 # Open Internships
 
-**2817** internships across **188/188** companies — last updated 2026-08-26.
+**2816** internships across **188/188** companies — last updated 2026-08-26.
 
 ## Companies
 
@@ -70,7 +70,7 @@
 - [Apex Technology, Inc.](#apex-technology-inc) (1)
 - [Apollo Mission Critical Engineering](#apollo-mission-critical-engineering) (1)
 - [Appian](#appian) (6)
-- [Apple](#apple) (28)
+- [Apple](#apple) (27)
 - [Applied Intuition](#applied-intuition) (5)
 - [Applied Materials](#applied-materials) (6)
 - [Applied Systems, Inc.](#applied-systems-inc) (2)
@@ -105,7 +105,7 @@
 - [AtkinsRéalis](#atkinsr-alis) (1)
 - [Atlas Energy Solutions](#atlas-energy-solutions) (1)
 - [Atomic Semi](#atomic-semi) (4)
-- [Atoms](#atoms) (2)
+- [Atoms](#atoms) (3)
 - [Atos](#atos) (1)
 - [Atria Group](#atria-group) (6)
 - [Auctor](#auctor) (1)
@@ -190,7 +190,7 @@
 - [CarbonChain](#carbonchain) (1)
 - [Carefeed](#carefeed) (1)
 - [Caris](#caris) (1)
-- [Castleton Commodities International](#castleton-commodities-international) (5)
+- [Castleton Commodities International](#castleton-commodities-international) (4)
 - [Catapult](#catapult) (1)
 - [Caterpillar Inc.](#caterpillar-inc) (1)
 - [Cayuse Holdings](#cayuse-holdings) (1)
@@ -725,7 +725,6 @@
 - [Peraton](#peraton) (8)
 - [Perplexity](#perplexity) (2)
 - [Perplexity AI](#perplexity-ai) (1)
-- [Persistent Systems](#persistent-systems) (1)
 - [Persona](#persona) (1)
 - [Persona AI](#persona-ai) (2)
 - [Peterson Technologies](#peterson-technologies) (1)
@@ -1033,6 +1032,7 @@
 - [Vertiv](#vertiv) (2)
 - [VetsEZ](#vetsez) (1)
 - [ViaSat](#viasat) (2)
+- [Viavi Solutions](#viavi-solutions) (2)
 - [Vigil Labs](#vigil-labs) (1)
 - [Viridien](#viridien) (2)
 - [Virtu Financial](#virtu-financial) (5)
@@ -1078,7 +1078,7 @@
 - [WTW](#wtw) (1)
 - [Wyetech](#wyetech) (3)
 - [X Development](#x-development) (1)
-- [xAI](#xai) (2)
+- [xAI](#xai) (1)
 - [Xantium](#xantium) (2)
 - [XPENG Motors](#xpeng-motors) (2)
 - [Xsolla](#xsolla) (3)
@@ -1606,7 +1606,6 @@
 | [ASIC Design and Integration Engineer – Silicon Security](https://jobs.apple.com/en-us/details/200652710) | 85 | Cupertino, CA | Hardware | 2026-08-17 |
 | [CAD Engineer - Signoff Infrastructure](https://jobs.apple.com/en-us/details/200660225) | 85 | Austin, TX / San Jose, CA | Software | 2026-08-17 |
 | [Cellular Platform Software Engineer, Embedded Analytics](https://jobs.apple.com/en-us/details/200605754/cellular-platform-software-engineer-embedded-analytics?team=SFTWR) | 85 | Sunnyvale, CA | — | 2026-08-17 |
-| [Cellular Power Optimization Software Engineer - Wireless Technologies & Ecosystems](https://jobs.apple.com/en-us/details/200657382) | 85 | San Diego, CA | Hardware | 2026-08-17 |
 | [Embedded System Software Engineer](https://jobs.apple.com/en-us/details/200604992/embedded-system-software-engineer?team=SFTWR) | 85 | San Diego, CA | — | 2026-08-17 |
 | [Frontend Engineer](https://jobs.apple.com/en-us/details/200676168) | 85 | Austin, TX | Software | 2026-08-17 |
 | [Graphics Software Content Engineer](https://jobs.apple.com/en-us/details/200669452) | 85 | Orlando, FL | Hardware | 2026-08-17 |
@@ -1865,7 +1864,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8687896002) | 93 | New York, NY / Seattle, WA / Los Angeles, CA / Mountain View, CA / San Francisco, CA | — | 2026-08-26 |
+| [Robotics Software Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8695475002) | 93 | LA / Pittsburgh, PA | Software | 2026-08-26 |
+| [Software Engineer Intern - Winter 2027](https://job-boards.greenhouse.io/cssmerge/jobs/8687915002) | 93 | Seattle, WA / SF / LA / NYC / Mountain View, CA | Software | 2026-08-26 |
 | [Machine Learning PhD Software Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8693034002) | 93 | Seattle, WA / LA / NYC / Mountain View, CA | Software | 2026-08-10 |
 
 ## Atos
@@ -2643,7 +2643,6 @@
 | --- | --- | --- | --- | --- |
 | [Front Office Software Engineer Associate](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Associate--Front-Office-Software-Engineer_R1316-1) | 93 | London, UK | Software | 2026-08-17 |
 | [Data Engineering Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London/Data-Engineering-Internship--Summer-2027-_R1348) | 93 | London, UK | AI/ML/Data | 2026-08-01 |
-| [Data Engineering Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2027-_R1346) | 93 | Houston, TX / Stamford, CT / NYC | AI/ML/Data | 2026-08-01 |
 | [Front Office Software Engineer Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Front-Office-Software-Engineer-Internship--Summer-2027-_R1347) | 93 | London, UK | Software | 2026-08-01 |
 | [Full-Stack Software Engineer Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Full-Stack-Software-Engineer-Internship--Summer-2027-_R1350) | 93 | Houston, TX / Stamford, CT | Software | 2026-08-01 |
 
@@ -2813,9 +2812,9 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern - Fall 2026](https://boards.greenhouse.io/cloudflare/jobs/8118855) | 93 | London, UK | Software | 2026-08-20 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
-| [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | 93 | In-Office | — | 2026-08-11 |
+| [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -6532,12 +6531,6 @@
 | --- | --- | --- | --- | --- |
 | [Intern - Search Machine Learning Engineer](https://jobs.ashbyhq.com/Perplexity/71168628-1998-47d3-87a9-be7bc56a430d/application) | 93 | London, UK | AI/ML/Data | 2026-08-01 |
 
-## Persistent Systems
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Embedded Software Engineer Intern](https://careers-persistentsystems.icims.com/jobs/2272/job?mobile=true&needsRedirect=false) | 85 | NYC | Hardware | 2026-08-01 |
-
 ## Persona
 
 | Title | Score | Location | Department | First seen |
@@ -6624,8 +6617,8 @@
 | [Quantitative Developer](https://careers.point72.com/CSJobDetail?jobName=quantitative-developer&jobCode=CSS-0013369&location=New%20York&locale=English) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) | 85 | New York, NY | — | 2026-08-17 |
 | [Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) | 85 | New York, NY | — | 2026-08-17 |
-| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) | 93 | Hong Kong | — | 2026-05-06 |
+| [Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) | 93 | Singapore | — | 2026-05-06 |
 | [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002) | 93 | New York | — | 2026-05-06 |
 | [Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) | 93 | London, Paris, Hong Kong, Tokyo | — | 2026-05-06 |
@@ -8946,6 +8939,13 @@
 | [Embedded Software Engineer](https://careers.viasat.com/jobs/6723?icims=1) | 85 | Marlborough, MA / Tampa, FL / Tempe, AZ / Carlsbad, CA / Linthicum Heights, MD | Hardware | 2026-08-19 |
 | [Embedded Software Engineer - Secure Network Systems](https://careers.viasat.com/jobs/6722?icims=1) | 85 | Marlborough, MA / Tampa, FL / Tempe, AZ / Carlsbad, CA / Linthicum Heights, MD | Hardware | 2026-08-19 |
 
+## Viavi Solutions
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Development Engineer - Software Engineering/AI Track](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Indianapolis-IN-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004983-1) | 93 | Indianapolis, IN | Software | 2026-08-26 |
+| [Development Engineer Intern - Software Engineering/AI Track](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Morrisville-NC-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004987-1) | 93 | Morrisville, NC | Software | 2026-08-26 |
+
 ## Vigil Labs
 
 | Title | Score | Location | Department | First seen |
@@ -9255,7 +9255,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer - Evals](https://job-boards.greenhouse.io/xai/jobs/5188230007) | 93 | Palo Alto, CA | Software | 2026-08-23 |
-| [Software Engineer - Ads Product](https://job-boards.greenhouse.io/xai/jobs/5152408007) | 93 | Palo Alto, CA | Software | 2026-08-17 |
 
 ## Xantium
 
