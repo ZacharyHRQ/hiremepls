@@ -1,6 +1,6 @@
 # Open Internships
 
-**2844** internships across **185/188** companies — last updated 2026-08-26.
+**2828** internships across **188/188** companies — last updated 2026-08-26.
 
 ## Companies
 
@@ -42,7 +42,7 @@
 - [Alta Ares](#alta-ares) (1)
 - [Altice USA](#altice-usa) (2)
 - [AMAX](#amax) (1)
-- [Amazon](#amazon) (46)
+- [Amazon](#amazon) (35)
 - [Ambral](#ambral) (1)
 - [Ambrook](#ambrook) (2)
 - [Amcor](#amcor) (1)
@@ -72,7 +72,7 @@
 - [Appian](#appian) (6)
 - [Apple](#apple) (28)
 - [Applied Intuition](#applied-intuition) (5)
-- [Applied Materials](#applied-materials) (9)
+- [Applied Materials](#applied-materials) (8)
 - [Applied Systems, Inc.](#applied-systems-inc) (2)
 - [AQR](#aqr) (1)
 - [Aquatic Capital](#aquatic-capital) (1)
@@ -383,7 +383,7 @@
 - [Gartner](#gartner) (1)
 - [GE Appliances](#ge-appliances) (1)
 - [GE Healthcare](#ge-healthcare) (2)
-- [GE Vernova](#ge-vernova) (6)
+- [GE Vernova](#ge-vernova) (5)
 - [Gecko Robotics](#gecko-robotics) (1)
 - [Gemini](#gemini) (1)
 - [Generac](#generac) (3)
@@ -538,7 +538,7 @@
 - [KOSTAL Group](#kostal-group) (1)
 - [KPMG](#kpmg) (1)
 - [Kyndryl](#kyndryl) (2)
-- [L3Harris Technologies](#l3harris-technologies) (29)
+- [L3Harris Technologies](#l3harris-technologies) (27)
 - [Lambda](#lambda) (1)
 - [Laserfiche](#laserfiche) (1)
 - [Lawrence Livermore National Laboratory (LLNL)](#lawrence-livermore-national-laboratory-llnl) (5)
@@ -592,7 +592,7 @@
 - [Marvell](#marvell) (3)
 - [Mastercard](#mastercard) (2)
 - [Mathtech](#mathtech) (2)
-- [Maven Securities](#maven-securities) (2)
+- [Maven Securities](#maven-securities) (1)
 - [Maxima](#maxima) (1)
 - [Maximor AI](#maximor-ai) (2)
 - [Maya HTT](#maya-htt) (2)
@@ -1384,17 +1384,6 @@
 | [软件开发工程师, (New graduate or Entry-level Engineer, 0-2 Years)](https://amazon.jobs/en/jobs/10399403/new-graduate-or-entry-level-engineer-0-2-years) | 91 | Beijing | Software Development | 2026-07-20 |
 | [2026 Software Dev Engineer Intern - Germany](https://amazon.jobs/en/jobs/3074226/2026-software-dev-engineer-intern-germany) | 85 | Berlin | Software Development | 2026-07-20 |
 | [2027 Software Dev Engineer Intern](https://amazon.jobs/en/jobs/10418355/2027-software-dev-engineer-intern) | 85 | Dublin | Software Development | 2026-07-20 |
-| [Quality Assurance Eng. Intern, 2026 Beijing](https://amazon.jobs/en/jobs/3149135/quality-assurance-eng-intern-2026-beijing) | 85 | Beijing | Systems, Quality, & Security Engineering | 2026-07-20 |
-| [SEED Engineer Program - Software Development Engineer Intern, 2026 Shenzhen](https://amazon.jobs/en/jobs/10377042/seed-engineer-program-software-development-engineer-intern-2026-shenzhen) | 85 | Shenzhen | Software Development | 2026-07-20 |
-| [Software Dev Engineer Intern, (Alexa) 2026 Shenzhen](https://amazon.jobs/en/jobs/10377010/software-dev-engineer-intern-alexa-2026-shenzhen) | 85 | Shenzhen | Software Development | 2026-07-20 |
-| [Software Dev Engineer Intern, (Devices) 2026 Beijing](https://amazon.jobs/en/jobs/10395459/software-dev-engineer-intern-devices-2026-beijing) | 85 | Beijing | Software Development | 2026-07-20 |
-| [Software Dev Engineer Intern, (Devices) 2026 Shanghai](https://amazon.jobs/en/jobs/10376731/software-dev-engineer-intern-devices-2026-shanghai) | 85 | Shanghai | Software Development | 2026-07-20 |
-| [Software Dev Engineer Intern, (Manufacturing &Ops) 2026 Shenzhen](https://amazon.jobs/en/jobs/10377845/software-dev-engineer-intern-manufacturing-ops-2026-shenzhen) | 85 | Shenzhen | Software Development | 2026-07-20 |
-| [Software Dev Engineer Intern, (Manufacturing&Ops) 2026 Shanghai](https://amazon.jobs/en/jobs/10376734/software-dev-engineer-intern-manufacturing-ops-2026-shanghai) | 85 | Shanghai | Software Development | 2026-07-20 |
-| [Software Dev Engineer Intern, (Sustaining Operations) 2026 Shanghai](https://amazon.jobs/en/jobs/10376736/software-dev-engineer-intern-sustaining-operations-2026-shanghai) | 85 | Shanghai | Software Development | 2026-07-20 |
-| [Software Dev Engineer Intern, 2026 Beijing](https://amazon.jobs/en/jobs/10375983/software-dev-engineer-intern-2026-beijing) | 85 | Beijing | Software Development | 2026-07-20 |
-| [Software Dev Engineer Intern, 2026 Shanghai](https://amazon.jobs/en/jobs/10376009/software-dev-engineer-intern-2026-shanghai) | 85 | Shanghai | Software Development | 2026-07-20 |
-| [Software Dev Engineer Intern, OpenSearch, 2026 Shanghai](https://amazon.jobs/en/jobs/10375998/software-dev-engineer-intern-opensearch-2026-shanghai) | 85 | Shanghai | Software Development | 2026-07-20 |
 | [Software Dev Engineer internship - Embedded Development](https://amazon.jobs/en/jobs/3134271/software-dev-engineer-internship-embedded-development) | 85 | Berlin | Software Development | 2026-07-20 |
 | [Software Dev Engineer Internship - Embedded Development (Linux)](https://amazon.jobs/en/jobs/3130528/software-dev-engineer-internship-embedded-development-linux) | 85 | Dresden | Software Development | 2026-07-20 |
 | [Software Development Engineer Fall Intern - Military Veteran](https://amazon.jobs/en/jobs/3179209/software-development-engineer-fall-intern-military-veteran) | 85 | Seattle | Software Development | 2026-07-20 |
@@ -1660,7 +1649,6 @@
 | --- | --- | --- | --- | --- |
 | [Physicist/Scientist - Advanced Degree](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/Physicist-Scientist--Adv-Degree--Gloucester--MA_R2611455) | 93 | Gloucester, MA | AI/ML/Data | 2026-08-25 |
 | [Software Engineer 1](https://amat.wd1.myworkdayjobs.com/External/job/KalispellMT/Software-Engineer-I---New-College-Grad--Bachelors---Kalispell--MT-_R2626859) | 93 | Kalispell, MT | Software | 2026-08-22 |
-| [Software Engineer 2 – New College Grad](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer-II--New-College-Grad---Santa-Clara--CA-_R2622398) | 93 | Santa Clara, CA | Software | 2026-08-21 |
 | [Systems Engineer](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Systems-Engineer_R2626795) | 83 | Santa Clara, CA | Hardware | 2026-08-21 |
 | [Software Support Engineer 1 - Global](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Global-Software-Support-Engineer-I_R2625245) | 93 | Austin, TX | Software | 2026-08-18 |
 | [AI Research Scientist - Generative Models for Scientific Discovery](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/AI-Research-Scientist--Generative-Models-for-Scientific-Discovery-_R2611980-1) | 93 | Santa Clara, CA | AI/ML/Data | 2026-08-17 |
@@ -2829,7 +2817,7 @@
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
 | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -3964,7 +3952,6 @@
 | --- | --- | --- | --- | --- |
 | [Energy Optimization Software Engineer Intern - Summer 2027](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-1) | 93 | Bellevue, WA | Software | 2026-08-21 |
 | [Project Engineer Intern - Summer 2027](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050023-1) | 93 | Bellevue, WA | Software | 2026-08-21 |
-| [Graduate Engineering Training Programme - Software](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rugby/GE-Power-Conversion---Storage-Graduate-Engineering-Training-Programme---SOFTWARE_R5020915-1) | 99 | Glasgow, UK / Rugby, UK | Software | 2026-08-20 |
 | [Software Engineer Graduate - Software](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rugby/GE-Power-Conversion---Storage-Graduate-Engineering-Training-Programme---SOFTWARE_R5020915-3) | 99 | Glasgow, UK / Rugby, UK | Software | 2026-08-20 |
 | [Application Engineer Co-op/Intern - PCS](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Findlay-Township/PCS-Application-Engineering-Co-Op-Intern---Summer-2027_R5050417-2) | 93 | Findlay Township, PA | Software | 2026-08-19 |
 | [Software Engineer - Transmission](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova-Software-Engineer--Transmission_R5048311-3) | 93 | Bellevue, WA | Software | 2026-08-17 |
@@ -5109,9 +5096,7 @@
 | [Software Engineer Intern](https://jobs.l3harris.com/job/Wilmington-Intern-D,-Software-Engineer-MA-01887/1422529400/?ats=successfactors) | 85 | Wilmington, MA | Hardware | 2026-08-24 |
 | [Associate Software Engineer](https://jobs.l3harris.com/job/Lynchburg-Associate,-Software-Engineer-VA-24501-6952/1421773100/?ats=successfactors) | 85 | Lynchburg, VA | Hardware | 2026-08-20 |
 | [Senior Associate Data Architect - Data Architect](https://jobs.l3harris.com/job/Huntsville-Senior-Associate,-Data-Architect-AL-35806/1404558300/?ats=successfactors) | 85 | Huntsville, AL | AI/ML/Data | 2026-08-20 |
-| [Software Engineer Associate](https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineer-UT-84116/1421457300/?ats=successfactors) | 85 | Salt Lake City, UT | Hardware | 2026-08-20 |
 | [Associate Software Engineer](https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineering-UT-84116/1421372400/?ats=successfactors) | 85 | Salt Lake City, UT | Hardware | 2026-08-20 |
-| [Associate – Software Engineer](https://jobs.l3harris.com/job/Yorba-Linda-Associate,-Software-Engineer-CA-92887/1410487500/?ats=successfactors) | 85 | Yorba Linda, CA | Hardware | 2026-08-19 |
 | [Associate Data Architect - Business Intelligence](https://jobs.l3harris.com/job/Melbourne-Associate,-Data-Architect-FL-32901/1420890100/?ats=successfactors) | 85 | Salt Lake City, UT / Rochester, NY / Nashville, TN / Londonderry, NH / Clifton, NJ / Melbourne, FL / Carlsbad, CA | AI/ML/Data | 2026-08-19 |
 | [Data Architect Senior Associate - Business Intelligence](https://jobs.l3harris.com/job/Melbourne-Senior-Associate,-Data-Architect-FL-32901/1420890800/?ats=successfactors) | 85 | Salt Lake City, UT / Rochester, NY / Nashville, TN / Londonderry, NH / Clifton, NJ / Melbourne, FL / Carlsbad, CA | AI/ML/Data | 2026-08-19 |
 | [Software Engineer Intern](https://jobs.l3harris.com/job/Melbourne-Intern,-Software-Engineer-FL-32919/1420708400/?ats=successfactors) | 85 | Melbourne, FL | Hardware | 2026-08-18 |
@@ -5486,7 +5471,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Graduate Developer](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048802) | 99 | Chicago, IL | Software | 2026-08-25 |
 | [Quantitative Researcher New Grad](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048830) | 99 | Chicago, IL | Quant | 2026-08-20 |
 
 ## Maxima
@@ -9400,9 +9384,3 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Application Engineer](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Erie-PA/Application-Engineer_REQ-019741) | 93 | Erie, PA | Software | 2026-08-17 |
-
-## Errors this run
-
-- **Wintermute**: workable wintermute-trading: HTTP 429
-- **QCP**: workable qcp-group: HTTP 429
-- **Hugging Face**: workable huggingface: HTTP 429

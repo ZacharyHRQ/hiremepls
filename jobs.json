@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-26T08:59:13.544Z",
+  "generatedAt": "2026-08-26T09:41:19.042Z",
   "companyCount": 188,
-  "okCount": 185,
-  "jobCount": 2844,
+  "okCount": 188,
+  "jobCount": 2828,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -217,17 +217,6 @@
     "canonical:ca8da888e42666cb": "2026-07-20T23:30:05.931Z",
     "canonical:e529b51d5a59d5ff": "2026-07-20T23:30:05.931Z",
     "canonical:860bcc481b25d07b": "2026-07-20T23:30:05.931Z",
-    "canonical:09a914a09cfa2273": "2026-07-20T23:30:05.931Z",
-    "canonical:b087f6c8bba19201": "2026-07-20T23:30:05.931Z",
-    "canonical:af2a08af8c9938a7": "2026-07-20T23:30:05.931Z",
-    "canonical:07c730020cc1775e": "2026-07-20T23:30:05.931Z",
-    "canonical:2eebb657e4672157": "2026-07-20T23:30:05.931Z",
-    "canonical:3af1c456dcd44b85": "2026-07-20T23:30:05.931Z",
-    "canonical:064293d5cdbb4720": "2026-07-20T23:30:05.931Z",
-    "canonical:0a84a2a18001f0fb": "2026-07-20T23:30:05.931Z",
-    "canonical:6e2765afc4ca119f": "2026-07-20T23:30:05.931Z",
-    "canonical:19ea6e8fa303f6db": "2026-07-20T23:30:05.931Z",
-    "canonical:79943e24040a386e": "2026-07-20T23:30:05.931Z",
     "canonical:26035e0e18b50360": "2026-07-20T23:30:05.931Z",
     "canonical:c8ed86e2d1d09b0b": "2026-07-20T23:30:05.931Z",
     "canonical:bd3448f6d200118b": "2026-07-20T23:30:05.931Z",
@@ -2333,7 +2322,6 @@
     "canonical:dd3fb020a490b7c1": "2026-08-19T13:22:56.877Z",
     "canonical:7a6dc874ea4f88b6": "2026-08-19T14:49:45.988Z",
     "canonical:6a36c703e1904fe8": "2026-08-19T18:59:40.283Z",
-    "canonical:a6c653cc2c6d352e": "2026-08-19T19:26:45.138Z",
     "canonical:91c5dfe1f8dea501": "2026-08-19T20:14:45.707Z",
     "canonical:21eaed85feb211f6": "2026-08-19T21:15:42.444Z",
     "canonical:37ff670929781a31": "2026-08-19T21:15:42.444Z",
@@ -2400,10 +2388,8 @@
     "canonical:69407ebd4e6d37de": "2026-08-20T15:23:38.471Z",
     "canonical:f1319d05ce27b81f": "2026-08-20T15:23:38.471Z",
     "canonical:8158f1888b420c3a": "2026-08-20T15:23:38.471Z",
-    "canonical:14883614861ef041": "2026-08-20T15:23:38.471Z",
     "canonical:f7de23fe393634bb": "2026-08-20T15:55:35.841Z",
     "canonical:936c5f9bc9374d6c": "2026-08-20T15:55:35.841Z",
-    "canonical:a4d67f64de6888e8": "2026-08-20T15:55:35.841Z",
     "canonical:c303e9f41e5bf7a8": "2026-08-20T18:22:23.089Z",
     "canonical:d3e4c9ff2c085de6": "2026-08-20T18:22:23.089Z",
     "canonical:7349c9e50c7848f2": "2026-08-20T19:42:41.892Z",
@@ -2504,7 +2490,6 @@
     "canonical:241930c80b7ebd10": "2026-08-21T20:40:41.753Z",
     "canonical:9a2b190bbd75844d": "2026-08-21T20:40:41.753Z",
     "canonical:b119bbd0c760924d": "2026-08-21T22:12:20.994Z",
-    "canonical:83fa16584d5bc44c": "2026-08-21T22:39:43.700Z",
     "canonical:aa22ba43c09e60ee": "2026-08-21T22:39:43.700Z",
     "canonical:73b7cb97718ee837": "2026-08-21T22:39:43.700Z",
     "canonical:e6657a21f84f8ced": "2026-08-21T22:39:43.700Z",
@@ -2713,7 +2698,6 @@
     "canonical:befa6ba40722dfed": "2026-08-25T10:00:19.795Z",
     "canonical:703e77aeccdc575c": "2026-08-25T10:00:19.795Z",
     "canonical:ed0787cc5a8f304f": "2026-08-25T10:46:42.414Z",
-    "canonical:69922f01d0937fb4": "2026-08-25T10:46:42.414Z",
     "canonical:6ccf23bf09c9d0ac": "2026-08-25T10:46:42.414Z",
     "canonical:090f48a3cab83e2f": "2026-08-25T11:16:51.730Z",
     "canonical:a858102d2c63ecc0": "2026-08-25T11:16:51.730Z",
@@ -4990,149 +4974,6 @@
       ]
     },
     {
-      "id": "canonical:09a914a09cfa2273",
-      "title": "Software Dev Engineer Intern, (Devices) 2026 Beijing",
-      "url": "https://amazon.jobs/en/jobs/10395459/software-dev-engineer-intern-devices-2026-beijing",
-      "location": "Beijing",
-      "department": "Software Development",
-      "company": "Amazon",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:b087f6c8bba19201",
-      "title": "Software Dev Engineer Intern, (Manufacturing &Ops) 2026 Shenzhen",
-      "url": "https://amazon.jobs/en/jobs/10377845/software-dev-engineer-intern-manufacturing-ops-2026-shenzhen",
-      "location": "Shenzhen",
-      "department": "Software Development",
-      "company": "Amazon",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:af2a08af8c9938a7",
-      "title": "SEED Engineer Program - Software Development Engineer Intern, 2026 Shenzhen",
-      "url": "https://amazon.jobs/en/jobs/10377042/seed-engineer-program-software-development-engineer-intern-2026-shenzhen",
-      "location": "Shenzhen",
-      "department": "Software Development",
-      "company": "Amazon",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:07c730020cc1775e",
-      "title": "Software Dev Engineer Intern, (Alexa) 2026 Shenzhen",
-      "url": "https://amazon.jobs/en/jobs/10377010/software-dev-engineer-intern-alexa-2026-shenzhen",
-      "location": "Shenzhen",
-      "department": "Software Development",
-      "company": "Amazon",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:2eebb657e4672157",
-      "title": "Software Dev Engineer Intern, (Sustaining Operations) 2026 Shanghai",
-      "url": "https://amazon.jobs/en/jobs/10376736/software-dev-engineer-intern-sustaining-operations-2026-shanghai",
-      "location": "Shanghai",
-      "department": "Software Development",
-      "company": "Amazon",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:3af1c456dcd44b85",
-      "title": "Software Dev Engineer Intern, (Manufacturing&Ops) 2026 Shanghai",
-      "url": "https://amazon.jobs/en/jobs/10376734/software-dev-engineer-intern-manufacturing-ops-2026-shanghai",
-      "location": "Shanghai",
-      "department": "Software Development",
-      "company": "Amazon",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:064293d5cdbb4720",
-      "title": "Software Dev Engineer Intern, (Devices) 2026 Shanghai",
-      "url": "https://amazon.jobs/en/jobs/10376731/software-dev-engineer-intern-devices-2026-shanghai",
-      "location": "Shanghai",
-      "department": "Software Development",
-      "company": "Amazon",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:0a84a2a18001f0fb",
-      "title": "Software Dev Engineer Intern, 2026 Shanghai",
-      "url": "https://amazon.jobs/en/jobs/10376009/software-dev-engineer-intern-2026-shanghai",
-      "location": "Shanghai",
-      "department": "Software Development",
-      "company": "Amazon",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:6e2765afc4ca119f",
-      "title": "Software Dev Engineer Intern, OpenSearch, 2026 Shanghai",
-      "url": "https://amazon.jobs/en/jobs/10375998/software-dev-engineer-intern-opensearch-2026-shanghai",
-      "location": "Shanghai",
-      "department": "Software Development",
-      "company": "Amazon",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:19ea6e8fa303f6db",
-      "title": "Software Dev Engineer Intern, 2026 Beijing",
-      "url": "https://amazon.jobs/en/jobs/10375983/software-dev-engineer-intern-2026-beijing",
-      "location": "Beijing",
-      "department": "Software Development",
-      "company": "Amazon",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:79943e24040a386e",
-      "title": "Quality Assurance Eng. Intern, 2026 Beijing",
-      "url": "https://amazon.jobs/en/jobs/3149135/quality-assurance-eng-intern-2026-beijing",
-      "location": "Beijing",
-      "department": "Systems, Quality, & Security Engineering",
-      "company": "Amazon",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:af9c1060a1a36d49",
       "title": "Applied Research Scientist – New Grad - Perception Large Language Model/Vision-Language Model - PhD",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=7488508",
@@ -5347,10 +5188,10 @@
       ]
     },
     {
-      "id": "canonical:62beda5aaf0fcc6c",
+      "id": "canonical:e8a5b9fc6e1a4de2",
       "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
-      "location": "Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
+      "location": "Bengaluru",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -5360,10 +5201,10 @@
       ]
     },
     {
-      "id": "canonical:e8a5b9fc6e1a4de2",
+      "id": "canonical:62beda5aaf0fcc6c",
       "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
-      "location": "Bengaluru",
+      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
+      "location": "Dublin",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -5445,7 +5286,7 @@
     {
       "id": "canonical:1a056010d15d11c7",
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -22184,20 +22025,6 @@
       ]
     },
     {
-      "id": "canonical:83fa16584d5bc44c",
-      "title": "Software Engineer 2 – New College Grad",
-      "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer-II--New-College-Grad---Santa-Clara--CA-_R2622398",
-      "location": "Santa Clara, CA",
-      "department": "Software",
-      "company": "Applied Materials",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:adcc9c08d0550a64",
       "title": "Data Engineer",
       "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/16842",
@@ -23348,19 +23175,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:a6c653cc2c6d352e",
-      "title": "Associate – Software Engineer",
-      "url": "https://jobs.l3harris.com/job/Yorba-Linda-Associate,-Software-Engineer-CA-92887/1410487500/?ats=successfactors",
-      "location": "Yorba Linda, CA",
-      "department": "Hardware",
-      "company": "L3Harris Technologies",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -34792,40 +34606,12 @@
       ]
     },
     {
-      "id": "canonical:14883614861ef041",
-      "title": "Graduate Engineering Training Programme - Software",
-      "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rugby/GE-Power-Conversion---Storage-Graduate-Engineering-Training-Programme---SOFTWARE_R5020915-1",
-      "location": "Glasgow, UK / Rugby, UK",
-      "department": "Software",
-      "company": "GE Vernova",
-      "score": 99,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:936c5f9bc9374d6c",
       "title": "Software Engineer",
       "url": "https://vivsofttechnologiesfa.applytojob.com/apply/QLa8RzmXAc/Software-Engineer-Entry-Level",
       "location": "Remote in USA",
       "department": "Software",
       "company": "VivSoft Technologies",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:a4d67f64de6888e8",
-      "title": "Software Engineer Associate",
-      "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineer-UT-84116/1421457300/?ats=successfactors",
-      "location": "Salt Lake City, UT",
-      "department": "Hardware",
-      "company": "L3Harris Technologies",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -35535,21 +35321,6 @@
       "location": "Long Beach, CA / Denver, CO",
       "department": "Software",
       "company": "True Anomaly",
-      "score": 99,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:69922f01d0937fb4",
-      "title": "Graduate Developer",
-      "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048802",
-      "location": "Chicago, IL",
-      "department": "Software",
-      "company": "Maven Securities",
       "score": 99,
       "scoreReasons": [
         "SWE-aligned",
@@ -41823,18 +41594,5 @@
       ]
     }
   ],
-  "errors": [
-    {
-      "company": "Wintermute",
-      "message": "workable wintermute-trading: HTTP 429"
-    },
-    {
-      "company": "QCP",
-      "message": "workable qcp-group: HTTP 429"
-    },
-    {
-      "company": "Hugging Face",
-      "message": "workable huggingface: HTTP 429"
-    }
-  ]
+  "errors": []
 }
