@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-26T05:01:59.656Z",
+  "generatedAt": "2026-08-26T05:47:37.467Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2855,
+  "jobCount": 2852,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -937,7 +937,6 @@
     "canonical:740ffb5f12ec5573": "2026-08-17T16:14:31.608Z",
     "canonical:83e4a3109a78547e": "2026-08-17T16:14:31.608Z",
     "canonical:c504c2158c69c0c0": "2026-08-17T16:14:31.608Z",
-    "canonical:f40f62f1cc43b27b": "2026-08-17T16:14:31.608Z",
     "canonical:f49cc8a0d77adc6b": "2026-08-17T16:14:31.608Z",
     "canonical:a00e54244f41cda8": "2026-08-17T16:14:31.608Z",
     "canonical:522eca12db4f10e6": "2026-08-17T16:14:31.608Z",
@@ -2286,7 +2285,6 @@
     "canonical:c2db38c0370a3828": "2026-08-18T23:12:08.114Z",
     "canonical:46812e708e8ac29b": "2026-08-18T23:12:08.114Z",
     "canonical:894cbf59f83655c2": "2026-08-18T23:12:08.114Z",
-    "canonical:9b3badc30f32f1b8": "2026-08-18T23:12:08.114Z",
     "canonical:1c00a59fa8863509": "2026-08-18T23:12:08.114Z",
     "canonical:5cab31cbf6934d69": "2026-08-18T23:34:23.701Z",
     "canonical:da64b333e4850a87": "2026-08-18T23:34:23.701Z",
@@ -2653,7 +2651,6 @@
     "canonical:1483ed0733c4b49d": "2026-08-24T21:18:49.308Z",
     "canonical:b537d841a790c8e0": "2026-08-24T21:18:49.308Z",
     "canonical:b94384d3824ea448": "2026-08-24T22:14:51.930Z",
-    "canonical:dd330df63152542e": "2026-08-24T22:44:52.251Z",
     "canonical:c0eb083bfbe7a4b1": "2026-08-24T22:44:52.251Z",
     "canonical:7e856fff55016c07": "2026-08-24T22:44:52.251Z",
     "canonical:611d9eb40d91d590": "2026-08-24T22:44:52.251Z",
@@ -2765,7 +2762,6 @@
     "canonical:992bca44358bae10": "2026-08-25T16:27:27.684Z",
     "canonical:f9d581048246f09c": "2026-08-25T17:04:02.376Z",
     "canonical:3f6971d75f50fd48": "2026-08-25T17:04:02.376Z",
-    "canonical:ef47fb1f704c40a1": "2026-08-25T17:43:10.197Z",
     "canonical:7674fd5610079088": "2026-08-25T17:43:10.197Z",
     "canonical:face0cfce146937c": "2026-08-25T17:43:10.197Z",
     "canonical:1a169d3f140e04b7": "2026-08-25T18:54:49.249Z",
@@ -2858,7 +2854,8 @@
     "canonical:70767c394c06e138": "2026-08-26T02:45:35.311Z",
     "canonical:3f7dcd890086b260": "2026-08-26T02:45:35.311Z",
     "canonical:1ae22981c8ef9f13": "2026-08-26T04:23:56.497Z",
-    "canonical:4c55c0a60711c538": "2026-08-26T05:01:59.656Z"
+    "canonical:4c55c0a60711c538": "2026-08-26T05:01:59.656Z",
+    "canonical:4a77656807157e3b": "2026-08-26T05:47:37.467Z"
   },
   "jobs": [
     {
@@ -12577,20 +12574,6 @@
       ]
     },
     {
-      "id": "canonical:dd330df63152542e",
-      "title": "Software Engineer Intern - Summer 2027",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern--Summer-2027-_01866136",
-      "location": "Cedar Rapids, IA",
-      "department": "Hardware",
-      "company": "RTX",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:e7f8cbac3cbaef2a",
       "title": "Software Engineer Intern - Summer 2027",
       "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003",
@@ -18404,20 +18387,6 @@
         "SWE-aligned",
         "high-signal role",
         "new grad",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:f40f62f1cc43b27b",
-      "title": "Deep Learning Software Engineer – New College Grad - TensorRT Performance",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2026_JR2015071",
-      "location": "Santa Clara, CA",
-      "department": "AI/ML/Data",
-      "company": "NVIDIA",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
         "direct ATS"
       ]
     },
@@ -24753,20 +24722,6 @@
       "location": "Mountain View, CA",
       "department": "Software",
       "company": "Uare.ai",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:ef47fb1f704c40a1",
-      "title": "Entry Level Application Engineer",
-      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Charlotte-NC/Entry-Level-Application-Engineer----2026-Start-Date_171145-1",
-      "location": "Charlotte, NC",
-      "department": "Software",
-      "company": "Vanguard",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -34141,20 +34096,6 @@
       ]
     },
     {
-      "id": "canonical:9b3badc30f32f1b8",
-      "title": "Associate Systems Modeling & Simulation Engineer/Systems Modeling & Simulation Engineer - Test & Evaluation",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Systems-Modeling---Simulation-Engineer-Systems-Modeling---Simulation-Engineer_R10246372",
-      "location": "Melbourne, FL",
-      "department": "Software",
-      "company": "Northrop Grumman",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:9d2e7bb1d2ca7708",
       "title": "AI Software Engineer - Terrestrial Software - AI, Data and Platform Engineering",
       "url": "https://boards.greenhouse.io/relativity/jobs/8726261002",
@@ -37687,6 +37628,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:4a77656807157e3b",
+      "title": "Graduate C++ Software Engineer",
+      "url": "https://davincitrading.com/job/graduate-c-software-engineer-2/",
+      "location": "Miami, FL",
+      "department": "",
+      "company": "Da Vinci",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
       ]
     },
     {
