@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-26T08:05:37.278Z",
+  "generatedAt": "2026-08-26T08:59:13.544Z",
   "companyCount": 188,
-  "okCount": 188,
-  "jobCount": 2847,
+  "okCount": 185,
+  "jobCount": 2844,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2334,7 +2334,6 @@
     "canonical:7a6dc874ea4f88b6": "2026-08-19T14:49:45.988Z",
     "canonical:6a36c703e1904fe8": "2026-08-19T18:59:40.283Z",
     "canonical:a6c653cc2c6d352e": "2026-08-19T19:26:45.138Z",
-    "canonical:6ab8da808e4e11ac": "2026-08-19T19:26:45.138Z",
     "canonical:91c5dfe1f8dea501": "2026-08-19T20:14:45.707Z",
     "canonical:21eaed85feb211f6": "2026-08-19T21:15:42.444Z",
     "canonical:37ff670929781a31": "2026-08-19T21:15:42.444Z",
@@ -2405,7 +2404,6 @@
     "canonical:f7de23fe393634bb": "2026-08-20T15:55:35.841Z",
     "canonical:936c5f9bc9374d6c": "2026-08-20T15:55:35.841Z",
     "canonical:a4d67f64de6888e8": "2026-08-20T15:55:35.841Z",
-    "canonical:4f674c0cb0befe62": "2026-08-20T15:55:35.841Z",
     "canonical:c303e9f41e5bf7a8": "2026-08-20T18:22:23.089Z",
     "canonical:d3e4c9ff2c085de6": "2026-08-20T18:22:23.089Z",
     "canonical:7349c9e50c7848f2": "2026-08-20T19:42:41.892Z",
@@ -2843,7 +2841,6 @@
     "canonical:caa37dbb765c5132": "2026-08-26T02:45:35.311Z",
     "canonical:ee2ac1afa3058d54": "2026-08-26T02:45:35.311Z",
     "canonical:542b0bd1a37becab": "2026-08-26T02:45:35.311Z",
-    "canonical:e1cb819b5b9c30a1": "2026-08-26T02:45:35.311Z",
     "canonical:2cad4b3ce49b0085": "2026-08-26T02:45:35.311Z",
     "canonical:70767c394c06e138": "2026-08-26T02:45:35.311Z",
     "canonical:3f7dcd890086b260": "2026-08-26T02:45:35.311Z",
@@ -5448,7 +5445,7 @@
     {
       "id": "canonical:1a056010d15d11c7",
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -5461,7 +5458,7 @@
     {
       "id": "canonical:073e340d37608d22",
       "title": "Software Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -34352,19 +34349,6 @@
       ]
     },
     {
-      "id": "canonical:6ab8da808e4e11ac",
-      "title": "Application Developer Associate - Enterprise Data and AI",
-      "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Application-Developer-FL-32919/1421158000/?ats=successfactors",
-      "location": "Melbourne, FL",
-      "department": "Software",
-      "company": "L3Harris Technologies",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:afec8841b5c6beb7",
       "title": "Entry Level Software Engineer",
       "url": "https://careers-gdms.icims.com/jobs/74417/job?mobile=true&needsRedirect=false",
@@ -34840,19 +34824,6 @@
       "title": "Software Engineer Associate",
       "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineer-UT-84116/1421457300/?ats=successfactors",
       "location": "Salt Lake City, UT",
-      "department": "Hardware",
-      "company": "L3Harris Technologies",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:4f674c0cb0befe62",
-      "title": "Associate Software Engineer",
-      "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1421462300/?ats=successfactors",
-      "location": "Rochester, NY",
       "department": "Hardware",
       "company": "L3Harris Technologies",
       "score": 85,
@@ -40784,20 +40755,6 @@
       ]
     },
     {
-      "id": "canonical:e1cb819b5b9c30a1",
-      "title": "Software Engineer, Intern (Summer 2026)",
-      "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002?fbclid=PAQ0xDSwK38VtleHRuA2FlbQIxMQABpwFCtP3w0jUMJ2UyUfRb7jqEW6gF5Rr31twvg5geVxUyYXlmmQrGSEf9O3Pw_aem_MfePXp-UnrQgRcTvm_Lh4Q",
-      "location": "Chicago",
-      "department": "",
-      "company": "Citadel",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:f4a859210ae8a7e7",
       "title": "NYC Early Career Open House Event - Software Engineering New Grads and Interns",
       "url": "https://jobright.ai/jobs/info/685c466bb6b7da281327301a?utm_source=1099&utm_campaign=Software%20Engineer",
@@ -41866,5 +41823,18 @@
       ]
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "company": "Wintermute",
+      "message": "workable wintermute-trading: HTTP 429"
+    },
+    {
+      "company": "QCP",
+      "message": "workable qcp-group: HTTP 429"
+    },
+    {
+      "company": "Hugging Face",
+      "message": "workable huggingface: HTTP 429"
+    }
+  ]
 }
