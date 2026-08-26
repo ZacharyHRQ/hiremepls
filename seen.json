@@ -132,9 +132,9 @@
   ],
   "MongoDB": [],
   "Cloudflare": [
-    "8089400",
     "8089407",
     "8089379",
+    "8089400",
     "8118845",
     "8118855",
     "8052785"
@@ -1497,7 +1497,6 @@
     "github-json:zshah101-summer-2027-fall-2026:workday:motorolasolutions:/job/Irvine-CA/Intern---Embedded-Software--System--and-Test-Engineer---2026_R62372",
     "github-json:zshah101-summer-2027-fall-2026:lever:hermeus:51378fa0-0327-45fd-9420-b6e7d8b56440",
     "github-json:zshah101-summer-2027-fall-2026:amazon:amazon:3136266",
-    "github-json:zshah101-summer-2027-fall-2026:amazon:amazon:3132414",
     "github-json:zshah101-summer-2027-fall-2026:amazon:amazon:3116030",
     "github-json:zshah101-summer-2027-fall-2026:amazon:amazon:3104589",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:virtu:8142539002"
@@ -1727,7 +1726,6 @@
     "simplify:30d1162f-2765-4044-9e44-203f4a85d5a1",
     "simplify:980b782f-08f5-4d65-8cde-74e2a0a76186",
     "simplify:0271dfee-afcf-4a95-ad39-156710edc8ce",
-    "simplify:8ee2c108-7c86-4c94-b7bb-5667b48e3d3a",
     "simplify:cf47c883-2639-4a34-8c85-22ca57d03eea",
     "simplify:4dcbe6c9-b5cb-4f75-9418-4f669ff1d180",
     "simplify:a4a728e5-80fa-4bbc-b061-af4dfb06fe10",
@@ -2184,6 +2182,7 @@
     "simplify:4f77c21f-b6c5-45b9-87c7-4087d47b9589",
     "simplify:d0e6095d-b7d9-4b98-9b30-5bc4f60fed04",
     "simplify:2ee02d7e-4063-4151-98e1-ea687a3902e6",
+    "simplify:7ffcd789-ef9d-4dfa-a950-34fda3485559",
     "simplify:ab415b2f-4b79-4996-a204-a63273564c89",
     "simplify:83d5ce20-ba22-49dc-a345-e4d8c85a7ef8",
     "simplify:2d12bca6-cc8c-4e3f-877e-0219f82a069b",
@@ -2497,7 +2496,10 @@
     "simplify:c874f359-c317-4bb9-8bf9-f4c699848017",
     "simplify:7d63ae5d-6722-40c4-a6b6-22560e143461",
     "simplify:386e2728-ef0f-4332-86d8-df3f6627f509",
-    "simplify:5eecec55-6e05-4898-acb6-2869c78bf30b"
+    "simplify:5eecec55-6e05-4898-acb6-2869c78bf30b",
+    "simplify:ffc80c46-0710-4acb-82cc-c1e1d640674c",
+    "simplify:97e495f1-2aae-4889-95a9-4b382506f276",
+    "simplify:d69b4378-d3d7-4270-8839-244fb787224d"
   ],
   "DoorDash": [],
   "Waymo": [
@@ -2719,7 +2721,6 @@
     "simplify:30d1162f-2765-4044-9e44-203f4a85d5a1",
     "simplify:980b782f-08f5-4d65-8cde-74e2a0a76186",
     "simplify:0271dfee-afcf-4a95-ad39-156710edc8ce",
-    "simplify:8ee2c108-7c86-4c94-b7bb-5667b48e3d3a",
     "simplify:cf47c883-2639-4a34-8c85-22ca57d03eea",
     "simplify:4dcbe6c9-b5cb-4f75-9418-4f669ff1d180",
     "simplify:a4a728e5-80fa-4bbc-b061-af4dfb06fe10",
@@ -3176,6 +3177,7 @@
     "simplify:4f77c21f-b6c5-45b9-87c7-4087d47b9589",
     "simplify:d0e6095d-b7d9-4b98-9b30-5bc4f60fed04",
     "simplify:2ee02d7e-4063-4151-98e1-ea687a3902e6",
+    "simplify:7ffcd789-ef9d-4dfa-a950-34fda3485559",
     "simplify:ab415b2f-4b79-4996-a204-a63273564c89",
     "simplify:83d5ce20-ba22-49dc-a345-e4d8c85a7ef8",
     "simplify:2d12bca6-cc8c-4e3f-877e-0219f82a069b",
@@ -3489,7 +3491,10 @@
     "simplify:c874f359-c317-4bb9-8bf9-f4c699848017",
     "simplify:7d63ae5d-6722-40c4-a6b6-22560e143461",
     "simplify:386e2728-ef0f-4332-86d8-df3f6627f509",
-    "simplify:5eecec55-6e05-4898-acb6-2869c78bf30b"
+    "simplify:5eecec55-6e05-4898-acb6-2869c78bf30b",
+    "simplify:ffc80c46-0710-4acb-82cc-c1e1d640674c",
+    "simplify:97e495f1-2aae-4889-95a9-4b382506f276",
+    "simplify:d69b4378-d3d7-4270-8839-244fb787224d"
   ],
   "Wintermute": [],
   "QCP": [],
@@ -5105,7 +5110,6 @@
     "simplify:1ab64208-6dc5-42b3-8f44-b12675e50c49",
     "simplify:dbef86f9-fcbd-4750-b16a-e8062c8541bf",
     "simplify:d11c38c7-6d39-4b6e-bd2e-872c3bd4f2c5",
-    "simplify:4ba0c07b-fb0d-42f1-9367-c4fb315d4364",
     "simplify:f5899221-db12-4026-a976-4ea6742899cc",
     "simplify:cc0832b1-281d-44f0-b769-b9c7a0c3bb0c",
     "simplify:f3037d73-79f8-4a62-8699-7aa72f598e50",
@@ -5114,7 +5118,11 @@
     "simplify:8cf72dd6-f0f9-40d1-85c5-813990262e3e",
     "simplify:0c6f879e-b3f8-47f4-85ed-ababb0e44d80",
     "simplify:708de150-b11f-4875-88c4-d73fd53f2cac",
-    "simplify:57715dab-c267-4352-aa7c-5aca9054a182"
+    "simplify:57715dab-c267-4352-aa7c-5aca9054a182",
+    "simplify:ac0fcf1b-7b15-45db-88c7-26e72ddf2047",
+    "simplify:36550989-6b9a-4283-9d04-64ff68ecf823",
+    "simplify:7eb1feaf-2674-4186-8e2b-9988a4887949",
+    "simplify:6a8aa902-c0c5-40aa-9ce5-de89012320d0"
   ],
   "vanshb03 New Grad": [
     "vansh:5dac35b2-b148-49f8-b3f5-828ba68da99c",

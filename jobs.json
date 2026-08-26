@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-26T14:23:24.595Z",
+  "generatedAt": "2026-08-26T15:56:45.248Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2813,
+  "jobCount": 2817,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -140,7 +140,6 @@
     "canonical:f9963438d881a851": "2026-07-13T09:28:03.797Z",
     "canonical:e0d9e6d1c80a362f": "2026-07-13T09:28:03.797Z",
     "canonical:2db16c4eefaac9f3": "2026-07-13T09:28:03.797Z",
-    "canonical:6bc029b682edad7b": "2026-07-13T09:28:03.797Z",
     "canonical:5e23cf54210c9ea5": "2026-07-14T00:56:03.544Z",
     "canonical:adc1bdd879675b5a": "2026-07-14T00:56:03.544Z",
     "canonical:5e841ae1e99725c5": "2026-07-14T00:56:03.544Z",
@@ -366,7 +365,6 @@
     "canonical:f567d520cbed355c": "2026-08-01T14:23:11.511Z",
     "canonical:d32ae9699e017f4c": "2026-08-01T14:23:11.511Z",
     "canonical:51c9b4da188261da": "2026-08-01T15:33:38.600Z",
-    "canonical:1903ea6b0e57aeaa": "2026-08-01T15:33:38.600Z",
     "canonical:360f81d0ff355ed6": "2026-08-01T15:33:38.600Z",
     "canonical:8c76e328dc89930b": "2026-08-01T15:33:38.600Z",
     "canonical:671476feb017f2b4": "2026-08-01T15:33:38.600Z",
@@ -2793,7 +2791,6 @@
     "canonical:79ba63072dc38bea": "2026-08-26T01:27:54.276Z",
     "canonical:a614bef90a917ed1": "2026-08-26T01:27:54.276Z",
     "canonical:10078aff5d68009f": "2026-08-26T01:27:54.276Z",
-    "canonical:700db3bba13921af": "2026-08-26T01:27:54.276Z",
     "canonical:15ca5f45b042646e": "2026-08-26T01:27:54.276Z",
     "canonical:b735d331ee2ac629": "2026-08-26T01:27:54.276Z",
     "canonical:42c4a0b62aa328ce": "2026-08-26T01:27:54.276Z",
@@ -2816,7 +2813,14 @@
     "canonical:38a15577b0c192f3": "2026-08-26T14:23:24.595Z",
     "canonical:eecc030aa3939ffc": "2026-08-26T14:23:24.595Z",
     "canonical:b94f3756875bcadb": "2026-08-26T14:23:24.595Z",
-    "canonical:c0e6878a5e0b5474": "2026-08-26T14:23:24.595Z"
+    "canonical:c0e6878a5e0b5474": "2026-08-26T14:23:24.595Z",
+    "canonical:9bf494d2d2c1b003": "2026-08-26T15:56:45.248Z",
+    "canonical:b9981344172e5d4d": "2026-08-26T15:56:45.248Z",
+    "canonical:a5b6f5b3284c4585": "2026-08-26T15:56:45.248Z",
+    "canonical:3b350c2ee1f758b6": "2026-08-26T15:56:45.248Z",
+    "canonical:b5d68e523f60c5dc": "2026-08-26T15:56:45.248Z",
+    "canonical:31115b86f7f47bc7": "2026-08-26T15:56:45.248Z",
+    "canonical:8992078d35f37bf7": "2026-08-26T15:56:45.248Z"
   },
   "jobs": [
     {
@@ -5271,7 +5275,7 @@
     {
       "id": "canonical:1a056010d15d11c7",
       "title": "Research Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -7062,19 +7066,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:1903ea6b0e57aeaa",
-      "title": "Generative AI Engineer Intern",
-      "url": "https://careers-peraton.icims.com/jobs/167460/job?mobile=true&needsRedirect=false",
-      "location": "Remote in USA",
-      "department": "AI/ML/Data",
-      "company": "Peraton",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -11716,6 +11707,20 @@
       ]
     },
     {
+      "id": "canonical:9bf494d2d2c1b003",
+      "title": "Full Stack Engineer Intern - Data Cognition Team",
+      "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto_R260021769",
+      "location": "Toronto, ON, Canada",
+      "department": "Software",
+      "company": "Bank of Montreal",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:8090dbcaf5c6355d",
       "title": "Software Engineering Analyst Intern - Government & Public Services",
       "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Software-Engineering/362448",
@@ -15129,6 +15134,20 @@
       ]
     },
     {
+      "id": "canonical:b9981344172e5d4d",
+      "title": "Full Stack Engineer Intern Co-op - Data Cognition Team",
+      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769",
+      "location": "Toronto, ON, Canada",
+      "department": "Software",
+      "company": "Bank of Montreal",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:12cd06c0eec80152",
       "title": "Frontend Software Engineer Intern",
       "url": "https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c",
@@ -16102,8 +16121,8 @@
     },
     {
       "id": "canonical:ee163e214703918f",
-      "title": "Software Engineering Intern, Spring 2027",
-      "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4329122009?gh_src=kpek4mqz9us",
+      "title": "Software Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4328555009?gh_src=kpek4mqz9us",
       "location": "Golden, CO",
       "department": "",
       "company": "Rendezvous Robotics",
@@ -16563,6 +16582,20 @@
       "location": "San Francisco, CA",
       "department": "",
       "company": "Kastle",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:a5b6f5b3284c4585",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
+      "location": "New York, NY / Seattle, WA / Los Angeles, CA / Mountain View, CA / San Francisco, CA",
+      "department": "",
+      "company": "Atoms",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -36391,19 +36424,6 @@
       ]
     },
     {
-      "id": "canonical:700db3bba13921af",
-      "title": "Associate Data Scientist",
-      "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4707269006",
-      "location": "Jersey City, NJ",
-      "department": "AI/ML/Data",
-      "company": "SageSure",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:15ca5f45b042646e",
       "title": "Software Engineer 1 New Grad - Perception",
       "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221970007",
@@ -36506,6 +36526,61 @@
       "location": "Rocky Mount, NC",
       "department": "Software",
       "company": "Cummins",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:3b350c2ee1f758b6",
+      "title": "Associate DevOps Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/Keenfinity/744000145726019",
+      "location": "Fairport, NY",
+      "department": "Software",
+      "company": "Keenfinity",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:b5d68e523f60c5dc",
+      "title": "Quant Developer - Quant Association Programme",
+      "url": "https://job-boards.greenhouse.io/mw-tech-grad/jobs/8646947002",
+      "location": "London, UK",
+      "department": "Quant",
+      "company": "Marshall Wace",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:31115b86f7f47bc7",
+      "title": "AI Engineer Graduate Level",
+      "url": "https://www.newrocket.com/careers/job?gh_jid=6163544004&gh_jid=6163544004",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "NewRocket",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
+      ]
+    },
+    {
+      "id": "canonical:8992078d35f37bf7",
+      "title": "AI Engineer - Anthropic",
+      "url": "https://www.newrocket.com/careers/job?gh_jid=6163518004&gh_jid=6163518004",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "NewRocket",
       "score": 85,
       "scoreReasons": [
         "SWE-aligned",
@@ -41311,19 +41386,6 @@
       "url": "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026",
       "location": "Westboro, Massachusetts, USA",
       "department": "Hardware / Fall 2026",
-      "company": "Amazon",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:6bc029b682edad7b",
-      "title": "Amazon Industrial Robotics - Applied Scientist II Intern / Co-op - 2026, Amazon Industrial Robotics",
-      "url": "https://www.amazon.jobs/en/jobs/3132414/amazon-industrial-robotics-applied-scientist-ii-intern-co-op-2026-amazon-industrial-robotics",
-      "location": "North Reading, Massachusetts, USA",
-      "department": "Data & ML/AI / Fall 2026",
       "company": "Amazon",
       "score": 85,
       "scoreReasons": [

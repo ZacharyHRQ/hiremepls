@@ -1,6 +1,6 @@
 # Open Internships
 
-**2813** internships across **188/188** companies — last updated 2026-08-26.
+**2817** internships across **188/188** companies — last updated 2026-08-26.
 
 ## Companies
 
@@ -42,7 +42,7 @@
 - [Alta Ares](#alta-ares) (1)
 - [Altice USA](#altice-usa) (2)
 - [AMAX](#amax) (1)
-- [Amazon](#amazon) (35)
+- [Amazon](#amazon) (34)
 - [Ambral](#ambral) (1)
 - [Ambrook](#ambrook) (2)
 - [Amcor](#amcor) (1)
@@ -105,7 +105,7 @@
 - [AtkinsRéalis](#atkinsr-alis) (1)
 - [Atlas Energy Solutions](#atlas-energy-solutions) (1)
 - [Atomic Semi](#atomic-semi) (4)
-- [Atoms](#atoms) (1)
+- [Atoms](#atoms) (2)
 - [Atos](#atos) (1)
 - [Atria Group](#atria-group) (6)
 - [Auctor](#auctor) (1)
@@ -121,7 +121,7 @@
 - [Babel Street](#babel-street) (1)
 - [Backbone Systems](#backbone-systems) (1)
 - [Balyasny Asset Management](#balyasny-asset-management) (1)
-- [Bank of Montreal](#bank-of-montreal) (3)
+- [Bank of Montreal](#bank-of-montreal) (5)
 - [Barrios](#barrios) (1)
 - [Base Power](#base-power) (2)
 - [Base-2 Solutions](#base-2-solutions) (1)
@@ -522,6 +522,7 @@
 - [KAYAK](#kayak) (1)
 - [KBR](#kbr) (4)
 - [Kearney](#kearney) (1)
+- [Keenfinity](#keenfinity) (1)
 - [Kepler Communications](#kepler-communications) (1)
 - [Keysight Technologies](#keysight-technologies) (1)
 - [Kikoff](#kikoff) (1)
@@ -588,6 +589,7 @@
 - [Marmon Holdings](#marmon-holdings) (3)
 - [Marriott International](#marriott-international) (3)
 - [Mars](#mars) (1)
+- [Marshall Wace](#marshall-wace) (1)
 - [Marvell](#marvell) (3)
 - [Mastercard](#mastercard) (2)
 - [Mathtech](#mathtech) (2)
@@ -651,6 +653,7 @@
 - [Neuralink](#neuralink) (3)
 - [Nevada National Security ](#nevada-national-security) (1)
 - [Newell Brands](#newell-brands) (1)
+- [NewRocket](#newrocket) (2)
 - [NewsBreak](#newsbreak) (5)
 - [Nextdoor](#nextdoor) (1)
 - [NextEra Energy](#nextera-energy) (1)
@@ -719,7 +722,7 @@
 - [PennState University](#pennstate-university) (2)
 - [Pennsylvania State University](#pennsylvania-state-university) (17)
 - [People Culture Talent](#people-culture-talent) (1)
-- [Peraton](#peraton) (9)
+- [Peraton](#peraton) (8)
 - [Perplexity](#perplexity) (2)
 - [Perplexity AI](#perplexity-ai) (1)
 - [Persistent Systems](#persistent-systems) (1)
@@ -824,7 +827,6 @@
 - [Ryder System](#ryder-system) (1)
 - [SA Technologies](#sa-technologies) (2)
 - [Sage](#sage) (2)
-- [SageSure](#sagesure) (1)
 - [Sajix](#sajix) (3)
 - [Salesforce](#salesforce) (1)
 - [Samsara](#samsara) (3)
@@ -1389,7 +1391,6 @@
 | [Software Development Engineer Internship - Vaga para mulheres, IES- LATECH](https://amazon.jobs/en/jobs/3139827/software-development-engineer-internship-vaga-para-mulheres-ies-latech) | 85 | Virtual | Administrative Support | 2026-07-20 |
 | [Software Development Engineer Internship, Guadalajara](https://amazon.jobs/en/jobs/3123243/software-development-engineer-internship-guadalajara) | 85 | Zapopan | Software Development | 2026-07-20 |
 | [Software Development Engineer Internship, Mexico City](https://amazon.jobs/en/jobs/3123246/software-development-engineer-internship-mexico-city) | 85 | Mexico City | Software Development | 2026-07-20 |
-| [Amazon Industrial Robotics - Applied Scientist II Intern / Co-op - 2026, Amazon Industrial Robotics](https://www.amazon.jobs/en/jobs/3132414/amazon-industrial-robotics-applied-scientist-ii-intern-co-op-2026-amazon-industrial-robotics) | 85 | North Reading, Massachusetts, USA | Data & ML/AI / Fall 2026 | 2026-07-13 |
 | [Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)](https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us) | 85 | Seattle, Washington, USA | Data & ML/AI / Fall 2026 | 2026-07-13 |
 | [Software Development Engineer Intern - Military Veteran](https://amazon.jobs/en/jobs/3179209/software-development-engineer-internship-military-veteran) | 85 | NYC / Culver City, CA / Santa Clara, CA / Boston, MA / Seattle, WA / Denver, CO / SF / Arlington, VA / Sunnyvale, CA / Brooklyn, NY / Williston Park, NY | Software | 2026-05-09 |
 
@@ -1864,6 +1865,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8687896002) | 93 | New York, NY / Seattle, WA / Los Angeles, CA / Mountain View, CA / San Francisco, CA | — | 2026-08-26 |
 | [Machine Learning PhD Software Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8693034002) | 93 | Seattle, WA / LA / NYC / Mountain View, CA | Software | 2026-08-10 |
 
 ## Atos
@@ -1974,6 +1976,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Full Stack Engineer Intern - Data Cognition Team](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto_R260021769) | 93 | Toronto, ON, Canada | Software | 2026-08-26 |
+| [Full Stack Engineer Intern Co-op - Data Cognition Team](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769) | 93 | Toronto, ON, Canada | Software | 2026-08-26 |
 | [Software Developer New Grad](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Developer--New-or-Recent-Graduate-_R260020222-3) | 99 | Toronto, ON, Canada | Software | 2026-08-25 |
 | [Analyst – Full Stack Engineer](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Analyst--Full-Stack-Engineer_R250030895) | 93 | Toronto, ON, Canada | Software | 2026-08-25 |
 | [Applied AI Scientist - Generative AI & Agentic Systems](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Applied-AI-Scientist---Generative-AI---Agentic-Systems_R260022110) | 93 | Toronto, ON, Canada | AI/ML/Data | 2026-08-17 |
@@ -2811,7 +2815,7 @@
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
 | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -4966,6 +4970,12 @@
 | --- | --- | --- | --- | --- |
 | [Data Scientist - Data Scientist](https://kearney.taleo.net/careersection/01/jobdetail.ftl?job=006JW) | 85 | Boston, MA / Washington, DC / Arlington, VA | AI/ML/Data | 2026-08-17 |
 
+## Keenfinity
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Associate DevOps Software Engineer](https://jobs.smartrecruiters.com/Keenfinity/744000145726019) | 93 | Fairport, NY | Software | 2026-08-26 |
+
 ## Kepler Communications
 
 | Title | Score | Location | Department | First seen |
@@ -5427,6 +5437,12 @@
 | --- | --- | --- | --- | --- |
 | [Industrial Data Engineer](https://mars.wd3.myworkdayjobs.com/external/job/USA-South-Dakota-North-Sioux-City/Site-Industrial-Data-Engineer_R158037) | 93 | Sioux City, IA | AI/ML/Data | 2026-08-26 |
 
+## Marshall Wace
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Quant Developer - Quant Association Programme](https://job-boards.greenhouse.io/mw-tech-grad/jobs/8646947002) | 93 | London, UK | Quant | 2026-08-26 |
+
 ## Marvell
 
 | Title | Score | Location | Department | First seen |
@@ -5873,6 +5889,13 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Associate Product Engineer - Home Fragrance](https://jobs.newellbrands.com/job/South-Deerfield-Associate-Product-Engineer,-Home-Fragrance-Mass/1400762300/?ats=successfactors) | 85 | Amherst, MA | Software | 2026-08-17 |
+
+## NewRocket
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI Engineer Graduate Level](https://www.newrocket.com/careers/job?gh_jid=6163544004&gh_jid=6163544004) | 91 | Remote in USA | AI/ML/Data | 2026-08-26 |
+| [AI Engineer - Anthropic](https://www.newrocket.com/careers/job?gh_jid=6163518004&gh_jid=6163518004) | 85 | Remote in USA | AI/ML/Data | 2026-08-26 |
 
 ## NewsBreak
 
@@ -6495,7 +6518,6 @@
 | [Junior Web Developer](https://careers-peraton.icims.com/jobs/169306/job?mobile=true&needsRedirect=false) | 85 | Fort Huachuca, Sierra Vista, AZ | Software | 2026-08-17 |
 | [Software Engineer](https://careers-peraton.icims.com/jobs/167887/job?mobile=true&needsRedirect=false) | 85 | Blacksburg, VA | Software | 2026-08-17 |
 | [Software Engineering - Ignite Innovator Program](https://careers-peraton.icims.com/jobs/167926/job?mobile=true&needsRedirect=false) | 85 | Blacksburg, VA | Software | 2026-08-17 |
-| [Generative AI Engineer Intern](https://careers-peraton.icims.com/jobs/167460/job?mobile=true&needsRedirect=false) | 85 | Remote in USA | AI/ML/Data | 2026-08-01 |
 
 ## Perplexity
 
@@ -6969,7 +6991,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineering Intern, Spring 2027](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4329122009?gh_src=kpek4mqz9us) | 93 | Golden, CO | — | 2026-07-28 |
+| [Software Engineering Intern](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4328555009?gh_src=kpek4mqz9us) | 93 | Golden, CO | — | 2026-07-28 |
 
 ## Repligen
 
@@ -7236,12 +7258,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern - Edge - Summer 2027](https://job-boards.greenhouse.io/sage49/jobs/6131191004) | 93 | NYC | Software | 2026-08-24 |
 | [Software Engineer Intern - Full Stack](https://job-boards.greenhouse.io/sage49/jobs/6131185004) | 93 | NYC | Software | 2026-08-24 |
-
-## SageSure
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Associate Data Scientist](https://www.sagesure.com/careers/current-job-openings/?gh_jid=4707269006) | 85 | Jersey City, NJ | AI/ML/Data | 2026-08-26 |
 
 ## Sajix
 
