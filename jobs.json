@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-26T10:16:48.201Z",
+  "generatedAt": "2026-08-26T10:58:22.149Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2822,
+  "jobCount": 2819,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1715,7 +1715,6 @@
     "canonical:eaa6a78991304e34": "2026-08-17T16:14:31.608Z",
     "canonical:67262944eb622996": "2026-08-17T16:14:31.608Z",
     "canonical:0cb4930be60bf321": "2026-08-17T16:14:31.608Z",
-    "canonical:622f877838f27e9b": "2026-08-17T16:14:31.608Z",
     "canonical:c9c96b9d4739f7ea": "2026-08-17T16:14:31.608Z",
     "canonical:57c599b83a6f0bff": "2026-08-17T16:14:31.608Z",
     "canonical:6c4716085cb67d38": "2026-08-17T16:14:31.608Z",
@@ -2409,7 +2408,6 @@
     "canonical:24e73fe1cd1f39a4": "2026-08-20T22:54:52.406Z",
     "canonical:fc50700a32f0c0c3": "2026-08-20T23:15:31.497Z",
     "canonical:bf296544efd69ded": "2026-08-20T23:15:31.497Z",
-    "canonical:ca0c53a3cd181230": "2026-08-20T23:15:31.497Z",
     "canonical:d497e0b63606abb0": "2026-08-20T23:46:17.472Z",
     "canonical:83fa398ed0967f47": "2026-08-21T02:11:33.462Z",
     "canonical:5e911b9d0516ed45": "2026-08-21T02:11:33.462Z",
@@ -2742,7 +2740,6 @@
     "canonical:22e810f532d08277": "2026-08-25T18:54:49.249Z",
     "canonical:d60097648028e857": "2026-08-25T18:54:49.249Z",
     "canonical:3c62655a68b9016a": "2026-08-25T18:54:49.249Z",
-    "canonical:2707a76498885129": "2026-08-25T18:54:49.249Z",
     "canonical:72176a481dc16b85": "2026-08-25T18:54:49.249Z",
     "canonical:f74f13b0ff065d41": "2026-08-25T18:54:49.249Z",
     "canonical:cf45ca37ff201586": "2026-08-25T18:54:49.249Z",
@@ -2821,11 +2818,11 @@
     "canonical:2cad4b3ce49b0085": "2026-08-26T02:45:35.311Z",
     "canonical:70767c394c06e138": "2026-08-26T02:45:35.311Z",
     "canonical:3f7dcd890086b260": "2026-08-26T02:45:35.311Z",
-    "canonical:1ae22981c8ef9f13": "2026-08-26T04:23:56.497Z",
     "canonical:4c55c0a60711c538": "2026-08-26T05:01:59.656Z",
     "canonical:4a77656807157e3b": "2026-08-26T05:47:37.467Z",
     "canonical:4cfec13c35d7f70a": "2026-08-26T07:25:05.685Z",
-    "canonical:fb3c00ad45e6f444": "2026-08-26T10:16:48.201Z"
+    "canonical:fb3c00ad45e6f444": "2026-08-26T10:16:48.201Z",
+    "canonical:e97a9fc0164fc19e": "2026-08-26T10:58:22.149Z"
   },
   "jobs": [
     {
@@ -6153,20 +6150,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:1ae22981c8ef9f13",
-      "title": "Software Engineering Intern - Test Automation",
-      "url": "https://job-boards.greenhouse.io/digs/jobs/4663939006",
-      "location": "Vancouver, WA",
-      "department": "Software Engineering",
-      "company": "Digs",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -21766,20 +21749,6 @@
       ]
     },
     {
-      "id": "canonical:2707a76498885129",
-      "title": "Entry Level Software Engineer",
-      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0165144",
-      "location": "Fredericksburg, VA / Dahlgren, VA",
-      "department": "Software",
-      "company": "Amentum",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:11fe6751293decec",
       "title": "Newsbreak Venture New Grad - AI Growth Intelligence Engineer",
       "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4694899006",
@@ -24063,6 +24032,20 @@
       "location": "Springfield, VA / St. Louis, MO / Denver, CO / Dulles, VA",
       "department": "Software",
       "company": "CACI",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:e97a9fc0164fc19e",
+      "title": "Research Scientist",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Research-Scientist_R166368",
+      "location": "Seattle, WA / SF / San Jose, CA",
+      "department": "AI/ML/Data",
+      "company": "Adobe",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -30287,19 +30270,6 @@
       ]
     },
     {
-      "id": "canonical:622f877838f27e9b",
-      "title": "IT Applications Developer",
-      "url": "https://careers.gulfstream.com/job/Savannah-IT-Apps-Developer-GA-31401/1418077600/?ats=successfactors",
-      "location": "Savannah, GA",
-      "department": "Software",
-      "company": "Gulfstream",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:67262944eb622996",
       "title": "Software Engineer - Apps",
       "url": "https://jobs.smartrecruiters.com/WesternDigital/744000142878952",
@@ -34665,19 +34635,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:ca0c53a3cd181230",
-      "title": "Associate Software Engineer",
-      "url": "https://jobs.l3harris.com/job/Lynchburg-Associate,-Software-Engineer-VA-24501-6952/1421773100/?ats=successfactors",
-      "location": "Lynchburg, VA",
-      "department": "Hardware",
-      "company": "L3Harris Technologies",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
