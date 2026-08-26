@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T02:45:35.311Z",
+  "generatedAt": "2026-08-26T03:43:21.419Z",
   "companyCount": 188,
   "okCount": 188,
   "jobCount": 2859,
@@ -4728,6 +4728,19 @@
       ]
     },
     {
+      "id": "canonical:29db48d1be8f8e14",
+      "title": "【Class of 2028 & 2029／Internship】Software Development Engineers , Amazon International Stores",
+      "url": "https://amazon.jobs/en/jobs/10503558/class-of-2028-2029-internship-software-development-engineers-amazon-international-stores",
+      "location": "Tokyo",
+      "department": "Systems, Quality, & Security Engineering",
+      "company": "Amazon",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:40f675b7d2c04fd2",
       "title": "Software Development Engineer, Amazon Leo, Early Career - 2026",
       "url": "https://amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026",
@@ -4760,19 +4773,6 @@
       "url": "https://amazon.jobs/en/jobs/10401402/software-dev-engineer-intern-machine-learning-amazon-robotics",
       "location": "Berlin",
       "department": "Software Development",
-      "company": "Amazon",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:29db48d1be8f8e14",
-      "title": "【Class of 2028 & 2029／Internship】Software Development Engineers , Amazon International Stores",
-      "url": "https://amazon.jobs/en/jobs/10503558/class-of-2028-2029-internship-software-development-engineers-amazon-international-stores",
-      "location": "Tokyo",
-      "department": "Systems, Quality, & Security Engineering",
       "company": "Amazon",
       "score": 85,
       "scoreReasons": [
@@ -5473,7 +5473,7 @@
     {
       "id": "canonical:073e340d37608d22",
       "title": "Software Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -41031,20 +41031,6 @@
       ]
     },
     {
-      "id": "canonical:2cad4b3ce49b0085",
-      "title": "2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate)",
-      "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014860456",
-      "location": "South San Francisco, CA, United States (Hybrid)",
-      "department": "Software / Summer 2027",
-      "company": "AbbVie",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:70767c394c06e138",
       "title": "2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate)",
       "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014860211",
@@ -41063,6 +41049,20 @@
       "title": "2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate)",
       "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014860386",
       "location": "North Chicago, IL, United States (Hybrid)",
+      "department": "Software / Summer 2027",
+      "company": "AbbVie",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:2cad4b3ce49b0085",
+      "title": "2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate)",
+      "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014860456",
+      "location": "South San Francisco, CA, United States (Hybrid)",
       "department": "Software / Summer 2027",
       "company": "AbbVie",
       "score": 93,

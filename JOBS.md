@@ -1133,9 +1133,9 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate)](https://jobs.smartrecruiters.com/AbbVie/3743990014860456) | 93 | South San Francisco, CA, United States (Hybrid) | Software / Summer 2027 | 2026-08-26 |
 | [2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate)](https://jobs.smartrecruiters.com/AbbVie/3743990014860211) | 93 | Irvine, CA, United States (Hybrid) | Software / Summer 2027 | 2026-08-26 |
 | [2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate)](https://jobs.smartrecruiters.com/AbbVie/3743990014860386) | 93 | North Chicago, IL, United States (Hybrid) | Software / Summer 2027 | 2026-08-26 |
+| [2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate)](https://jobs.smartrecruiters.com/AbbVie/3743990014860456) | 93 | South San Francisco, CA, United States (Hybrid) | Software / Summer 2027 | 2026-08-26 |
 | [Business Technology Solutions Intern - Data & Software Engineering](https://jobs.smartrecruiters.com/AbbVie/3743990014860306) | 93 | Irvine, CA | Software | 2026-08-26 |
 | [Business Technology Solutions Intern - Data & Software Engineering - Undergraduate](https://jobs.smartrecruiters.com/AbbVie/3743990014860391) | 93 | South SF | Software | 2026-08-26 |
 | [Business Technology Solutions Intern - Data & Software Engineering - Undergraduate](https://jobs.smartrecruiters.com/AbbVie/3743990014697918) | 93 | North Chicago, IL | Software | 2026-08-20 |
@@ -2836,7 +2836,7 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern - Fall 2026](https://boards.greenhouse.io/cloudflare/jobs/8118855) | 93 | London, UK | Software | 2026-08-20 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
-| [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | 93 | In-Office | — | 2026-08-11 |
+| [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
 | [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
