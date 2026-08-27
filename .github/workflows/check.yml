@@ -26,6 +26,10 @@ jobs:
           node-version: "24"
           cache: "npm"
 
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: "1.4.0"
+
       - run: npm install --no-audit --no-fund
 
       - name: Run scraper

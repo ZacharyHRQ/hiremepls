@@ -13,6 +13,7 @@ export type AtsKind =
   | "amazon"
   | "recruitee"
   | "personio"
+  | "webview"
   | "manual";
 
 export interface Company {

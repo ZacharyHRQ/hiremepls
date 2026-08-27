@@ -1,4 +1,6 @@
 [
+  { "name": "Google", "ats": "webview", "slug": "google" },
+  { "name": "Apple", "ats": "webview", "slug": "apple" },
   { "name": "Squarepoint Capital", "ats": "greenhouse", "slug": "squarepointcapital" },
   { "name": "Jane Street", "ats": "greenhouse", "slug": "janestreet" },
   { "name": "Hudson River Trading", "ats": "ashby", "slug": "hrt" },

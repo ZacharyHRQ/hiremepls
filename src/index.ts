@@ -13,6 +13,7 @@ import { fetchWorkable } from "./ats/workable.ts";
 import { fetchAmazon } from "./ats/amazon.ts";
 import { fetchRecruitee } from "./ats/recruitee.ts";
 import { fetchPersonio } from "./ats/personio.ts";
+import { fetchWebview } from "./ats/webview.ts";
 import {
   isEarlyCareer,
   isSoftwareEngineering,
@@ -49,12 +50,13 @@ const LIVENESS_PATH = "liveness.json";
 // itself.
 const AGGREGATOR_ATS = new Set(["vanshb03", "simplify", "githubMarkdown", "githubJson"]);
 
-// These sources are dedicated new-grad job boards — every listing in them is
-// already early-career by construction, even when the title itself is a
-// plain "Software Engineer" with no "new grad"/"intern" qualifier. Skip the
-// keyword-based early-career check for their listings so those don't get
-// dropped.
-const ASSUME_EARLY_CAREER = new Set(["SimplifyJobs New Grad", "vanshb03 New Grad"]);
+// These sources are dedicated new-grad job boards (or, for Google, a
+// listing pre-filtered to target_level=EARLY,INTERN via query params) —
+// every listing in them is already early-career by construction, even when
+// the title itself is a plain "Software Engineer" with no "new grad"/
+// "intern" qualifier. Skip the keyword-based early-career check for their
+// listings so those don't get dropped.
+const ASSUME_EARLY_CAREER = new Set(["SimplifyJobs New Grad", "vanshb03 New Grad", "Google"]);
 // A single run every 15 min can fail for transient reasons (rate limits, network
 // blips). Only alert once a source has been broken for this many consecutive
 // runs (~45 min), and only once per outage — re-alerting resumes if it heals
@@ -70,6 +72,9 @@ const FAILURE_ALERT_THRESHOLD = 3;
 // any other fetch failure).
 const FETCH_CONCURRENCY = 16;
 const FETCH_TIMEOUT_MS = 20_000;
+// Webview-based sources drive a real headless browser through several pages
+// of a client-rendered SPA, which is far slower than a plain fetch().
+const WEBVIEW_TIMEOUT_MS = 90_000;
 
 function withTimeout<T>(promise: Promise<T>, ms: number): Promise<T> {
   return new Promise((resolve, reject) => {
@@ -98,7 +103,8 @@ async function fetchAllCompanies(
       const item = queue.shift();
       if (!item) return;
       try {
-        const jobs = await withTimeout(fetchCompany(item.company), FETCH_TIMEOUT_MS);
+        const timeout = item.company.ats === "webview" ? WEBVIEW_TIMEOUT_MS : FETCH_TIMEOUT_MS;
+        const jobs = await withTimeout(fetchCompany(item.company), timeout);
         results[item.index] = { company: item.company, jobs };
       } catch (e) {
         results[item.index] = { company: item.company, jobs: [], error: (e as Error).message };
@@ -133,6 +139,7 @@ async function fetchCompany(c: Company): Promise<Job[]> {
   if (c.ats === "amazon") return fetchAmazon(c);
   if (c.ats === "recruitee") return fetchRecruitee(c);
   if (c.ats === "personio") return fetchPersonio(c);
+  if (c.ats === "webview") return fetchWebview(c);
   if (c.ats === "manual") return [];
   throw new Error(`unknown ats: ${c.ats}`);
 }

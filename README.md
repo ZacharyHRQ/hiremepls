@@ -58,7 +58,11 @@ src/
 scripts/
   discover-yc.ts   Helper to bulk-discover Y Combinator company career pages
   get-chat-id.ts   Helper to resolve a Telegram chat ID for setup
-companies.json     The tracked company list (~186 companies)
+  webview/         One Bun script per JS-rendered career site with no public
+                    API (e.g. google.ts), invoked as a subprocess by
+                    src/ats/webview.ts via Bun.WebView (requires Bun 1.4+
+                    on PATH; CI installs it via oven-sh/setup-bun)
+companies.json     The tracked company list (~190 companies)
 ```
 
 ## Running it
