@@ -1,6 +1,6 @@
 # Open Internships
 
-**2934** internships across **188/188** companies — last updated 2026-08-29.
+**2937** internships across **188/188** companies — last updated 2026-08-29.
 
 ## Companies
 
@@ -96,7 +96,7 @@
 - [ASM International](#asm-international) (2)
 - [ASSA ABLOY](#assa-abloy) (1)
 - [ASSYST](#assyst) (1)
-- [Astera](#astera) (1)
+- [Astera](#astera) (2)
 - [Astera Labs](#astera-labs) (2)
 - [AstraZeneca](#astrazeneca) (1)
 - [Astrion](#astrion) (1)
@@ -260,6 +260,7 @@
 - [Cylake](#cylake) (1)
 - [D2L](#d2l) (1)
 - [D3 Global Inc](#d3-global-inc) (1)
+- [Da Vinci](#da-vinci) (1)
 - [Daikin Applied](#daikin-applied) (1)
 - [Dark Wolf Solutions](#dark-wolf-solutions) (2)
 - [Databricks](#databricks) (4)
@@ -412,7 +413,7 @@
 - [Globus Medical](#globus-medical) (1)
 - [GlossGenius](#glossgenius) (2)
 - [GM financial](#gm-financial) (2)
-- [Goldman Sachs](#goldman-sachs) (4)
+- [Goldman Sachs](#goldman-sachs) (3)
 - [Google](#google) (13)
 - [Gradient Robotics](#gradient-robotics) (1)
 - [Greenheck Group](#greenheck-group) (1)
@@ -625,7 +626,7 @@
 - [Meridian Partners](#meridian-partners) (4)
 - [Meshy](#meshy) (1)
 - [Mesotech International](#mesotech-international) (1)
-- [Meta](#meta) (7)
+- [Meta](#meta) (8)
 - [METECS](#metecs) (1)
 - [Meticulous](#meticulous) (1)
 - [MetroStar](#metrostar) (1)
@@ -774,7 +775,7 @@
 - [Prospect Equities](#prospect-equities) (1)
 - [Proximate Technologies](#proximate-technologies) (1)
 - [Publicis Groupe](#publicis-groupe) (1)
-- [Pylon](#pylon) (3)
+- [Pylon](#pylon) (4)
 - [qode.world](#qode-world) (2)
 - [Quadient](#quadient) (1)
 - [Quadrillion](#quadrillion) (2)
@@ -1834,6 +1835,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern - Distributed Simulation Systems](https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066/application) | 93 | Oakland, CA | Software | 2026-08-29 |
 | [Software Engineering Intern, Neuro & AGI](https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066) | 93 | Emeryville, CA | — | 2026-08-17 |
 
 ## Astera Labs
@@ -3179,6 +3181,12 @@
 | --- | --- | --- | --- | --- |
 | [New Grad: Backend Engineer](https://d3.com/careers#jobs-listing) | 91 | Los Angeles, CA | — | 2026-08-17 |
 
+## Da Vinci
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Graduate C++ Software Engineer](https://davincitrading.com/job/graduate-c-software-engineer-2/) | 91 | Miami, FL | — | 2026-08-29 |
+
 ## Daikin Applied
 
 | Title | Score | Location | Department | First seen |
@@ -4225,8 +4233,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Engineering New Analyst - Engineering](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807) | 85 | Seattle, WA | Software | 2026-08-29 |
-| [New Analyst - Engineering](https://higher.gs.com/roles/171569?type=students) | 85 | NYC | Software | 2026-08-29 |
+| [Engineering New Analyst - Engineering](https://higher.gs.com/roles/171570?type=students) | 85 | Salt Lake City, UT | Software | 2026-08-29 |
 | [Corporate Planning & Management-Senior Analyst-Quantitative Engineering](https://higher.gs.com/roles/180216) | 85 | NYC | AI/ML/Data | 2026-08-26 |
 | [Software Engineer - Data](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292) | 85 | London, UK | Software | 2026-08-17 |
 
@@ -5767,6 +5774,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer](https://www.metacareers.com/jobs/1947521902323717) | 85 | Menlo Park, CA | — | 2026-08-29 |
 | [Research Scientist Intern - Photorealistic Telepresence](https://www.metacareers.com/jobs/924149567345400) | 85 | London, UK | AI/ML/Data | 2026-08-01 |
 | [Research Scientist Intern - State Estimation for Dexterous Manipulation](https://www.metacareers.com/jobs/2774289902955470) | 85 | Redmond, WA | AI/ML/Data | 2026-08-01 |
 | [Research Scientist Intern - AI/ML - Core Ads Growth](https://www.metacareers.com/jobs/771948392580541) | 85 | London, UK | AI/ML/Data | 2026-08-01 |
@@ -6947,6 +6955,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application) | 93 | SF | Software | 2026-08-29 |
 | [New Grad - Software Engineer](https://jobs.ashbyhq.com/pylon-labs/ecf0d509-cfb9-43c6-b628-1e685d6f5f42/application) | 99 | SF | — | 2026-08-17 |
 | [New Grad 2025: Software Engineer](https://jobs.ashbyhq.com/pylon/6f714dd0-e472-4e70-a749-80493cd29420) | 99 | Menlo Park, CA | — | 2026-08-17 |
 | [Software Engineer New Grad](https://jobs.ashbyhq.com/pylon-labs/38814ce7-217b-40f2-9ba5-8a7733a5691d/application) | 99 | SF | Software | 2026-08-17 |
