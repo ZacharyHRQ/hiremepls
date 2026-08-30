@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-30T06:55:03.746Z",
+  "generatedAt": "2026-08-30T12:26:27.315Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2931,
+  "jobCount": 2932,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2934,7 +2934,8 @@
     "canonical:c3c15393690ff04c": "2026-08-29T21:14:27.383Z",
     "canonical:b5afd52c0570a527": "2026-08-29T23:20:31.407Z",
     "canonical:ba545b91215fc20b": "2026-08-29T23:20:31.407Z",
-    "canonical:d1147415f07bedec": "2026-08-30T06:55:03.746Z"
+    "canonical:d1147415f07bedec": "2026-08-30T06:55:03.746Z",
+    "canonical:e20908a5c75a5d8d": "2026-08-30T12:26:27.315Z"
   },
   "jobs": [
     {
@@ -14528,19 +14529,6 @@
       ]
     },
     {
-      "id": "canonical:7d7d60e6af47bfcd",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.l3harris.com/job/Fort-Wayne-Intern-D,-Software-Engineer-IN-46818/1422797900/?ats=successfactors",
-      "location": "Fort Wayne, IN",
-      "department": "Hardware",
-      "company": "L3Harris Technologies",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:02a7f797136fb737",
       "title": "Corporate Asset Development Engineer Intern",
       "url": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Colorado---Denver/Corporate-Asset-Development-Engineer-Intern_RQ115146",
@@ -14566,6 +14554,19 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:7d7d60e6af47bfcd",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.l3harris.com/job/Fort-Wayne-Intern,-Software-Engineer-IN-46818/1422838400/?ats=successfactors",
+      "location": "Fort Wayne, IN",
+      "department": "Hardware",
+      "company": "L3Harris Technologies",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
@@ -21478,6 +21479,20 @@
       "location": "London, UK",
       "department": "Software",
       "company": "Castleton Commodities International",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:e20908a5c75a5d8d",
+      "title": "Salesforce Systems Engineer",
+      "url": "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Jacksonville-FL/Salesforce-Systems-Engineer_R42882",
+      "location": "Jacksonville, FL",
+      "department": "Software",
+      "company": "SS&C",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",

@@ -1,6 +1,6 @@
 # Open Internships
 
-**2931** internships across **188/188** companies — last updated 2026-08-30.
+**2932** internships across **188/188** companies — last updated 2026-08-30.
 
 ## Companies
 
@@ -919,7 +919,7 @@
 - [Squarepoint Capital](#squarepoint-capital) (10)
 - [SquareTrade](#squaretrade) (1)
 - [SRI International](#sri-international) (1)
-- [SS&C](#ss-c) (1)
+- [SS&C](#ss-c) (2)
 - [Stanley Black & Decker](#stanley-black-decker) (1)
 - [Starbucks](#starbucks) (2)
 - [State Farm](#state-farm) (1)
@@ -5245,7 +5245,7 @@
 | [Software Engineer 1](https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineer-1-FL-32934/1422829700/?ats=successfactors) | 85 | Melbourne, FL | Hardware | 2026-08-25 |
 | [Associate Software Engineer](https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineer-FL-32934/1422829800/?ats=successfactors) | 85 | Melbourne, FL | Hardware | 2026-08-25 |
 | [Security Research Engineer Intern](https://jobs.l3harris.com/job/Herndon-Intern,-Security-Research-Engineer-VA-20171/1422834800/?ats=successfactors) | 85 | Herndon, VA | Hardware | 2026-08-25 |
-| [Software Engineer Intern](https://jobs.l3harris.com/job/Fort-Wayne-Intern-D,-Software-Engineer-IN-46818/1422797900/?ats=successfactors) | 85 | Fort Wayne, IN | Hardware | 2026-08-25 |
+| [Software Engineer Intern](https://jobs.l3harris.com/job/Fort-Wayne-Intern,-Software-Engineer-IN-46818/1422838400/?ats=successfactors) | 85 | Fort Wayne, IN | Hardware | 2026-08-25 |
 | [Software Engineer Intern](https://jobs.l3harris.com/job/Wilmington-Intern-D,-Software-Engineer-MA-01887/1422529400/?ats=successfactors) | 85 | Wilmington, MA | Hardware | 2026-08-24 |
 | [Associate Software Engineer](https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineering-UT-84116/1421372400/?ats=successfactors) | 85 | Salt Lake City, UT | Hardware | 2026-08-20 |
 | [Associate Data Architect - Business Intelligence](https://jobs.l3harris.com/job/Melbourne-Associate,-Data-Architect-FL-32901/1420890100/?ats=successfactors) | 85 | Salt Lake City, UT / Rochester, NY / Nashville, TN / Londonderry, NH / Clifton, NJ / Melbourne, FL / Carlsbad, CA | AI/ML/Data | 2026-08-19 |
@@ -7983,6 +7983,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Salesforce Systems Engineer](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Jacksonville-FL/Salesforce-Systems-Engineer_R42882) | 93 | Jacksonville, FL | Software | 2026-08-30 |
 | [Intelligent Automation Developer](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Basildon-United-Kingdom/AI-Automation-Developer_R45057) | 93 | London, UK / Basildon, UK | Software | 2026-08-25 |
 
 ## Stanley Black & Decker
