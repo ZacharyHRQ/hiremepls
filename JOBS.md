@@ -1,6 +1,6 @@
 # Open Internships
 
-**2937** internships across **188/188** companies — last updated 2026-08-29.
+**2935** internships across **188/188** companies — last updated 2026-08-30.
 
 ## Companies
 
@@ -905,7 +905,7 @@
 - [SourceDirect Talent](#sourcedirect-talent) (1)
 - [Southern Company](#southern-company) (1)
 - [Southern States, LLC](#southern-states-llc) (2)
-- [SpaceX](#spacex) (29)
+- [SpaceX](#spacex) (28)
 - [Spacial AI](#spacial-ai) (1)
 - [SpAItial](#spaitial) (1)
 - [Specialisterne](#specialisterne) (1)
@@ -1071,7 +1071,7 @@
 - [Wabtec](#wabtec) (1)
 - [Walgreens](#walgreens) (1)
 - [Walleye Capital](#walleye-capital) (3)
-- [WallStreetQuants](#wallstreetquants) (4)
+- [WallStreetQuants](#wallstreetquants) (3)
 - [Walmart](#walmart) (1)
 - [Wanderlog](#wanderlog) (1)
 - [Warp](#warp) (1)
@@ -2866,9 +2866,9 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern - Fall 2026](https://boards.greenhouse.io/cloudflare/jobs/8118855) | 93 | London, UK | Software | 2026-08-20 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089407) | 93 | London, UK | AI/ML/Data | 2026-08-15 |
-| [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855) | 93 | In-Office | — | 2026-08-11 |
+| [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | 93 | In-Office | — | 2026-08-11 |
 | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8089379) | 93 | Austin, TX | AI/ML/Data | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | 83 | In-Office | — | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | 83 | In-Office | — | 2026-07-28 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -4233,7 +4233,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Engineering New Analyst - Engineering](https://higher.gs.com/roles/171570?type=students) | 85 | Salt Lake City, UT | Software | 2026-08-29 |
+| [New Analyst - Engineering](https://higher.gs.com/roles/171569?type=students) | 85 | NYC | Software | 2026-08-30 |
 | [Corporate Planning & Management-Senior Analyst-Quantitative Engineering](https://higher.gs.com/roles/180216) | 85 | NYC | AI/ML/Data | 2026-08-26 |
 | [Software Engineer - Data](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292) | 85 | London, UK | Software | 2026-08-17 |
 
@@ -7883,7 +7883,6 @@
 | [Full Stack Software Engineer - Application Software](https://boards.greenhouse.io/spacex/jobs/8495180002) | 93 | Bastrop, TX | Software | 2026-08-17 |
 | [Software Engineer - Flight Software - Starship](https://boards.greenhouse.io/spacex/jobs/8562284002) | 93 | Texas | Software | 2026-08-17 |
 | [Software Engineer - Hardware Test & Automation - Starlink](https://boards.greenhouse.io/spacex/jobs/8565155002) | 93 | Redmond, WA | Software | 2026-08-17 |
-| [Software Engineer - High Assurance Test - Starshield](https://boards.greenhouse.io/spacex/jobs/8550675002) | 93 | West Athens, CA | Software | 2026-08-17 |
 | [Software Engineer - Platform Team](https://boards.greenhouse.io/spacex/jobs/8558859002) | 93 | Palo Alto, CA | Software | 2026-08-17 |
 | [Software Engineer - Platform Team](https://boards.greenhouse.io/spacex/jobs/8560537002) | 93 | Brownsville, TX | Software | 2026-08-17 |
 | [Software Engineer - Platform Team](https://boards.greenhouse.io/spacex/jobs/8560546002) | 93 | Bastrop, TX | Software | 2026-08-17 |
@@ -9311,7 +9310,6 @@
 | --- | --- | --- | --- | --- |
 | [Quantitative Researcher New Grad](https://apply.workable.com/wallstreetquants/j/62537809CA/apply) | 99 | London, UK | Quant | 2026-08-17 |
 | [Quantitative Developer](https://apply.workable.com/wallstreetquants/j/AA3FB20456/apply) | 93 | Remote in USA | Quant | 2026-08-17 |
-| [Quantitative Researcher - Internship](https://apply.workable.com/wallstreetquants/j/494E392FD3/) | 93 | New York, New York, United States | Quant / Not stated | 2026-08-08 |
 | [Quantitative Researcher Intern](https://apply.workable.com/wallstreetquants/j/494E392FD3/apply) | 93 | NYC | Quant | 2026-08-08 |
 
 ## Walmart
