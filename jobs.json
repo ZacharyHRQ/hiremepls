@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-30T16:52:06.493Z",
+  "generatedAt": "2026-08-30T19:34:03.370Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2933,
+  "jobCount": 2932,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1481,7 +1481,6 @@
     "canonical:d9cd77a85837d709": "2026-08-17T16:14:31.608Z",
     "canonical:a8139bd16aeef112": "2026-08-17T16:14:31.608Z",
     "canonical:42ff0a39855e2700": "2026-08-17T16:14:31.608Z",
-    "canonical:266409f9990182ea": "2026-08-17T16:14:31.608Z",
     "canonical:735b79eb50fd372b": "2026-08-17T16:14:31.608Z",
     "canonical:d2ee3d047e82ca43": "2026-08-17T16:14:31.608Z",
     "canonical:213a15f89bc307de": "2026-08-17T16:14:31.608Z",
@@ -28862,19 +28861,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:266409f9990182ea",
-      "title": "Application Developer 1",
-      "url": "https://careers-edgewaterit.icims.com/jobs/4760/job?mobile=true&needsRedirect=false",
-      "location": "Loveland, CO / Lakewood, CO / Folsom, CA / Phoenix, AZ / Billings, MT",
-      "department": "Software",
-      "company": "Edgewater IT",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {

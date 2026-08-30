@@ -1,6 +1,6 @@
 # Open Internships
 
-**2933** internships across **188/188** companies — last updated 2026-08-30.
+**2932** internships across **188/188** companies — last updated 2026-08-30.
 
 ## Companies
 
@@ -309,7 +309,6 @@
 - [EAi Technologies](#eai-technologies) (3)
 - [Eaton Corporation](#eaton-corporation) (1)
 - [Edgehog Trading](#edgehog-trading) (1)
-- [Edgewater IT](#edgewater-it) (1)
 - [Electronic Arts](#electronic-arts) (2)
 - [ElevenLabs](#elevenlabs) (1)
 - [EliseAI](#eliseai) (1)
@@ -3535,12 +3534,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [C++ Software Developer – Trading Strategy Execution](https://ats.rippling.com/en-CA/edgehog-trading/jobs/a39cf004-d79c-4588-9a5f-6bdce04a85ee) | 85 | Chicago, IL | — | 2026-08-17 |
-
-## Edgewater IT
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Application Developer 1](https://careers-edgewaterit.icims.com/jobs/4760/job?mobile=true&needsRedirect=false) | 85 | Loveland, CO / Lakewood, CO / Folsom, CA / Phoenix, AZ / Billings, MT | Software | 2026-08-17 |
 
 ## Electronic Arts
 
