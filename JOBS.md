@@ -1,6 +1,6 @@
 # Open Internships
 
-**2932** internships across **188/188** companies — last updated 2026-08-30.
+**2931** internships across **188/188** companies — last updated 2026-08-30.
 
 ## Companies
 
@@ -408,7 +408,7 @@
 - [Glide](#glide) (2)
 - [Global Lending Services](#global-lending-services) (3)
 - [Global Relay](#global-relay) (1)
-- [GlobalFoundries](#globalfoundries) (3)
+- [GlobalFoundries](#globalfoundries) (2)
 - [Globus Medical](#globus-medical) (1)
 - [GlossGenius](#glossgenius) (2)
 - [GM financial](#gm-financial) (2)
@@ -4198,7 +4198,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Technology Architecture and Competitiveness Engineer New Grad - Structural Analysis](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Technology-Architecture-and-Competitiveness-Engineer--2027-New-College-Graduate-_JR-2604319) | 99 | Santa Clara, CA | AI/ML/Data | 2026-08-22 |
 | [Global Tapeout and Mask Operations New College Graduate - Biz App and Data Engineer](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Global-Tapeout-and-Mask-Operations--Biz-App-and-Data-Engineer--2026-New-College-Graduate-_JR-2502471-1) | 99 | Austin, TX | AI/ML/Data | 2026-08-17 |
 | [Tapeout Engineer New Grad](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Tapeout-Engineer--2026-New-College-Graduate_JR-2602561) | 99 | Austin, TX | AI/ML/Data | 2026-08-17 |
 

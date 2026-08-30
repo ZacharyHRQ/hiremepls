@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-30T19:34:03.370Z",
+  "generatedAt": "2026-08-30T22:03:57.349Z",
   "companyCount": 188,
   "okCount": 188,
-  "jobCount": 2932,
+  "jobCount": 2931,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2349,7 +2349,6 @@
     "canonical:2ca9eab2169c2cc7": "2026-08-22T18:54:19.405Z",
     "canonical:87e084986d8f71fe": "2026-08-22T18:54:19.405Z",
     "canonical:67f9b9d3a905fdc5": "2026-08-22T18:54:19.405Z",
-    "canonical:90cb183228531b75": "2026-08-22T22:39:09.264Z",
     "canonical:8bdb59b88f306731": "2026-08-23T07:44:49.551Z",
     "canonical:a356ac432d4a0c77": "2026-08-23T10:12:29.577Z",
     "canonical:ea516bcb2c3049bb": "2026-08-23T10:12:29.577Z",
@@ -35615,21 +35614,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:90cb183228531b75",
-      "title": "Technology Architecture and Competitiveness Engineer New Grad - Structural Analysis",
-      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Technology-Architecture-and-Competitiveness-Engineer--2027-New-College-Graduate-_JR-2604319",
-      "location": "Santa Clara, CA",
-      "department": "AI/ML/Data",
-      "company": "GlobalFoundries",
-      "score": 99,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
         "direct ATS"
       ]
     },
