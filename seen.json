@@ -45,10 +45,10 @@
     "8027898",
     "8049938",
     "7982648",
-    "7975026",
     "8002989",
-    "8000323",
+    "7975026",
     "8027952",
+    "8000323",
     "8007788",
     "7565728",
     "8003019",
@@ -57,10 +57,10 @@
   "DRW": [
     "7997729",
     "7981754",
-    "7991196",
+    "7942281",
     "8020364",
     "7992936",
-    "7942281",
+    "7991196",
     "8014910",
     "8127242"
   ],
@@ -75,8 +75,8 @@
     "7957728"
   ],
   "Tower Research Capital": [
-    "7011493",
     "8138524",
+    "7011493",
     "8044334",
     "8168750",
     "8168634",
@@ -85,8 +85,8 @@
     "8037860"
   ],
   "Point72": [
-    "7297611002",
     "7297598002",
+    "7297611002",
     "7302611002",
     "8721562002",
     "7586061002",
@@ -119,6 +119,7 @@
   "Mistral": [],
   "Perplexity": [
     "9246cf02-26fd-4ae8-90c5-639c6e85e9e2",
+    "b9e1ff15-d52a-46d5-abf0-26460f2a116c",
     "be94e89b-89d5-4f2a-a58b-7929c8d97f92",
     "71168628-1998-47d3-87a9-be7bc56a430d"
   ],
@@ -128,14 +129,14 @@
     "8031833",
     "8130867",
     "8130807",
-    "8130805",
     "8128745",
     "8097801",
-    "8130881",
-    "8157838",
-    "8128744",
+    "8130805",
     "8130930",
     "8130922",
+    "8128744",
+    "8157838",
+    "8130881",
     "8130927"
   ],
   "Databricks": [
@@ -149,9 +150,9 @@
   ],
   "MongoDB": [],
   "Cloudflare": [
+    "8089400",
     "8089379",
     "8089407",
-    "8089400",
     "8118855",
     "8118845",
     "8052785"
@@ -1366,8 +1367,8 @@
     "github-json:zshah101-summer-2027-fall-2026:oracle:hdjq.fa.us2.oraclecloud.com:26009488",
     "github-json:zshah101-summer-2027-fall-2026:oracle:hdjq.fa.us2.oraclecloud.com:26009500",
     "github-json:zshah101-summer-2027-fall-2026:oracle:hdjq.fa.us2.oraclecloud.com:26009673",
-    "github-json:zshah101-summer-2027-fall-2026:workable:talentpluto:CCC60EBB0C",
     "github-json:zshah101-summer-2027-fall-2026:workable:talentpluto:6F93C25627",
+    "github-json:zshah101-summer-2027-fall-2026:workable:talentpluto:CCC60EBB0C",
     "github-json:zshah101-summer-2027-fall-2026:workday:caci:/job/Sarasota-FL-US/Software-Engineering-Intern---Summer-2027_331359",
     "github-json:zshah101-summer-2027-fall-2026:ashby:pluralis-research:c8f78978-a693-4863-bcc0-66af5c3fd0be",
     "github-json:zshah101-summer-2027-fall-2026:workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Software-Controls-Engineering-Intern_JR-051436",
@@ -1560,7 +1561,6 @@
     "github-json:zshah101-summer-2027-fall-2026:lever:belvederetrading:10746b3d-1760-4573-9b63-b93f5a5e4fc0",
     "github-json:zshah101-summer-2027-fall-2026:workday:microchiphr:/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Firmware-Development-_R3372-26",
     "github-json:zshah101-summer-2027-fall-2026:smartrecruiters:BoschGroup:744000141302469",
-    "github-json:zshah101-summer-2027-fall-2026:workday:microchiphr:/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Software-Development-_R3371-26",
     "github-json:zshah101-summer-2027-fall-2026:oracle:jpmc.fa.oraclecloud.com:210773759",
     "github-json:zshah101-summer-2027-fall-2026:ashby:yotta:09821a51-fbe6-42a7-a566-0d2b5d40fae3",
     "github-json:zshah101-summer-2027-fall-2026:workday:copart:/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110353",
@@ -1970,6 +1970,7 @@
     "simplify:db2ae7c8-3d21-42b0-9cb4-b4fb4de5cc58",
     "simplify:ab954d87-227f-493a-937e-9b6bc2c9ce33",
     "simplify:8975659b-0873-4463-9888-45451e2e150b",
+    "simplify:d7042ff9-73e7-4c5a-bc41-551e7b2533b7",
     "simplify:7d28754d-98f1-4b89-a78e-ecb4f103ce8b",
     "simplify:75892e9b-bebc-4e60-9e4b-a763af8e0759",
     "simplify:7387a1fc-9d17-4ccb-9dac-9de2c1006f0a",
@@ -2264,7 +2265,6 @@
     "simplify:0d1a5d14-2cc4-4c85-a1a6-aa02ecc2b4f8",
     "simplify:eb7734a8-6013-401d-bd6f-679ef214a05e",
     "simplify:fa3d0acb-1673-42d8-a648-f36557989a20",
-    "simplify:2521a871-df84-4798-bdaf-7c07de0b8a64",
     "simplify:aa733ff3-312d-4f91-935f-9b74817edc2b",
     "simplify:31b6c7b2-864a-4492-8fdc-1e1d94a23ce1",
     "simplify:2528109f-019c-4732-ac00-12596861f771",
@@ -2513,8 +2513,6 @@
     "simplify:8172b446-22d1-4377-b335-6f5fd54371aa",
     "simplify:41047974-7321-45cf-b910-ac9710ae6e39",
     "simplify:c874f359-c317-4bb9-8bf9-f4c699848017",
-    "simplify:386e2728-ef0f-4332-86d8-df3f6627f509",
-    "simplify:5eecec55-6e05-4898-acb6-2869c78bf30b",
     "simplify:ffc80c46-0710-4acb-82cc-c1e1d640674c",
     "simplify:97e495f1-2aae-4889-95a9-4b382506f276",
     "simplify:d69b4378-d3d7-4270-8839-244fb787224d",
@@ -2551,7 +2549,6 @@
     "simplify:57123fb8-44cd-438c-bcd0-f1c97fcd5c9c",
     "simplify:e586d565-9a03-414c-881e-bb1e51ee22b7",
     "simplify:43183c23-0028-4797-b44b-f488c5f84b2b",
-    "simplify:992a2117-4cf1-47d8-bb15-9770955da023",
     "simplify:96a2bb42-3d8d-415b-ad67-993931ebeac4",
     "simplify:2c7fefd0-1599-4004-ae55-65fa4f77f935",
     "simplify:ca0cc910-e9e7-48a4-ac62-3536b3421ae2",
@@ -2838,7 +2835,10 @@
     "simplify:c273bc4d-7d9a-423b-8487-df0419f55399",
     "simplify:23d6cc2e-855b-4458-a689-002cda7f4705",
     "simplify:2a48e05f-f557-488e-876c-eafef0801099",
-    "simplify:4c33b0d7-ab72-41f6-a429-46ce9f78dc99"
+    "simplify:4c33b0d7-ab72-41f6-a429-46ce9f78dc99",
+    "simplify:a3985ea3-6b46-4283-ad5c-a7701cb38169",
+    "simplify:4d6c1aee-d6d2-466a-8c2b-c74c48746c43",
+    "simplify:b9a67e9c-0015-4a4a-9f99-25b266976b64"
   ],
   "DoorDash": [],
   "Waymo": [
@@ -3194,6 +3194,7 @@
     "simplify:db2ae7c8-3d21-42b0-9cb4-b4fb4de5cc58",
     "simplify:ab954d87-227f-493a-937e-9b6bc2c9ce33",
     "simplify:8975659b-0873-4463-9888-45451e2e150b",
+    "simplify:d7042ff9-73e7-4c5a-bc41-551e7b2533b7",
     "simplify:7d28754d-98f1-4b89-a78e-ecb4f103ce8b",
     "simplify:75892e9b-bebc-4e60-9e4b-a763af8e0759",
     "simplify:7387a1fc-9d17-4ccb-9dac-9de2c1006f0a",
@@ -3488,7 +3489,6 @@
     "simplify:0d1a5d14-2cc4-4c85-a1a6-aa02ecc2b4f8",
     "simplify:eb7734a8-6013-401d-bd6f-679ef214a05e",
     "simplify:fa3d0acb-1673-42d8-a648-f36557989a20",
-    "simplify:2521a871-df84-4798-bdaf-7c07de0b8a64",
     "simplify:aa733ff3-312d-4f91-935f-9b74817edc2b",
     "simplify:31b6c7b2-864a-4492-8fdc-1e1d94a23ce1",
     "simplify:2528109f-019c-4732-ac00-12596861f771",
@@ -3737,8 +3737,6 @@
     "simplify:8172b446-22d1-4377-b335-6f5fd54371aa",
     "simplify:41047974-7321-45cf-b910-ac9710ae6e39",
     "simplify:c874f359-c317-4bb9-8bf9-f4c699848017",
-    "simplify:386e2728-ef0f-4332-86d8-df3f6627f509",
-    "simplify:5eecec55-6e05-4898-acb6-2869c78bf30b",
     "simplify:ffc80c46-0710-4acb-82cc-c1e1d640674c",
     "simplify:97e495f1-2aae-4889-95a9-4b382506f276",
     "simplify:d69b4378-d3d7-4270-8839-244fb787224d",
@@ -3775,7 +3773,6 @@
     "simplify:57123fb8-44cd-438c-bcd0-f1c97fcd5c9c",
     "simplify:e586d565-9a03-414c-881e-bb1e51ee22b7",
     "simplify:43183c23-0028-4797-b44b-f488c5f84b2b",
-    "simplify:992a2117-4cf1-47d8-bb15-9770955da023",
     "simplify:96a2bb42-3d8d-415b-ad67-993931ebeac4",
     "simplify:2c7fefd0-1599-4004-ae55-65fa4f77f935",
     "simplify:ca0cc910-e9e7-48a4-ac62-3536b3421ae2",
@@ -4062,7 +4059,10 @@
     "simplify:c273bc4d-7d9a-423b-8487-df0419f55399",
     "simplify:23d6cc2e-855b-4458-a689-002cda7f4705",
     "simplify:2a48e05f-f557-488e-876c-eafef0801099",
-    "simplify:4c33b0d7-ab72-41f6-a429-46ce9f78dc99"
+    "simplify:4c33b0d7-ab72-41f6-a429-46ce9f78dc99",
+    "simplify:a3985ea3-6b46-4283-ad5c-a7701cb38169",
+    "simplify:4d6c1aee-d6d2-466a-8c2b-c74c48746c43",
+    "simplify:b9a67e9c-0015-4a4a-9f99-25b266976b64"
   ],
   "Wintermute": [],
   "QCP": [],
@@ -4087,7 +4087,8 @@
   "Anduril": [
     "4802146007",
     "5162263007",
-    "5148079007"
+    "5148079007",
+    "5211077007"
   ],
   "Sierra": [
     "149f368c-52d5-408f-ba26-ad888f318a00"
@@ -4281,7 +4282,6 @@
     "simplify:b02527df-5697-4fd8-9620-ce2525d50591",
     "simplify:25f5a2d7-43cb-4507-ade5-7b114bcb5b86",
     "simplify:59da20b4-89d9-4050-8d93-b79c0953d1c7",
-    "simplify:1de13b97-34aa-4238-8e96-9b36b4e9d623",
     "simplify:550c0f8a-8e58-4586-9968-9340d5265955",
     "simplify:566e37cf-7620-4e64-90ea-d25a99bb5f19",
     "simplify:ce48ddb5-e8b7-4b5f-a82f-62cc7945f2b7",
@@ -4339,7 +4339,6 @@
     "simplify:f3ff741f-77be-4b2a-b009-89ebdaa0cbec",
     "simplify:d9d98718-3266-4066-a180-d6d84556794c",
     "simplify:8673e698-fd13-4dcc-aef5-1ccc0e8dff9b",
-    "simplify:f586670c-43fc-4aa0-876f-128f612b446a",
     "simplify:8e4681bc-b6c9-4d01-beaa-cc1ded6e2b9c",
     "simplify:70940fcd-5a16-43f2-a8b6-6d04d6592298",
     "simplify:3daf8975-d7c2-4997-a768-836ce9335cc6",
@@ -4580,7 +4579,6 @@
     "simplify:0e014b55-7295-4b7b-817a-ee4f8de89e5f",
     "simplify:8e8910ff-d27c-4f3c-871e-d348e505c0c5",
     "simplify:840954cd-3ba5-456f-a6cf-c4788e41762e",
-    "simplify:cec7ea72-fd1c-4f5e-94e4-3d0650cf934b",
     "simplify:b13b8faa-739e-4b2b-85aa-0656c14a4b88",
     "simplify:67937ffc-14b5-4231-9e62-9a4f13dd11c2",
     "simplify:3ace8680-5997-4467-ad7e-82ecc656e241",
@@ -4664,7 +4662,6 @@
     "simplify:c36a8b5c-110b-4f94-a44c-d0f1fa8e4b22",
     "simplify:29d6ce20-819d-4197-9f2a-41e4016d84ef",
     "simplify:35fb6436-8a8c-489a-9f18-d82dd2386701",
-    "simplify:3154be10-173a-4b90-8b24-47c92d5b67ae",
     "simplify:e2d5e6c7-81fd-47e1-9fbb-e3e3a0cb9c27",
     "simplify:9119a940-c285-418f-8fad-397e77889ae6",
     "simplify:3c89d1ff-ea00-433b-bcd4-a9c99e335ecf",
@@ -5312,7 +5309,6 @@
     "simplify:13e63ccc-9879-4a3a-a29a-f10688ec7ba6",
     "simplify:880f2a36-5a43-4a08-ba33-5d4e5a77f266",
     "simplify:2ddddf54-3c3b-4af6-b8c2-5b755d594dc1",
-    "simplify:43a5374e-0e70-4dc9-82b0-687b54e8c5da",
     "simplify:00e9ac82-474b-46a0-bc46-aa9e240f3efd",
     "simplify:6dda02da-3ec3-49ed-a963-fa6db627f830",
     "simplify:e09149c6-13df-4156-b091-ebf0159330f8",
@@ -5543,7 +5539,6 @@
     "simplify:6a8aa902-c0c5-40aa-9ce5-de89012320d0",
     "simplify:ebce0ffb-1748-4999-b952-a7dbc9f36aae",
     "simplify:bf9c69e7-fff4-453c-ba04-3b0a7f1bc733",
-    "simplify:242a72e5-306f-4aee-83bf-394d30551f34",
     "simplify:2ed80b78-d184-4d1d-b9c2-7150eb9067c2",
     "simplify:ef53c5cc-cfb0-4320-96eb-9bf793d013f8",
     "simplify:b556adb1-8adc-4b0f-9230-3a2067a6428d",
@@ -5600,7 +5595,6 @@
     "simplify:bd50ff7c-e21f-427c-87ad-4a45b42e134c",
     "simplify:bea01365-4ada-471d-abb2-9e8cd6325b9e",
     "simplify:7667f37b-8304-4087-a89e-a79c1367b8c7",
-    "simplify:64997f89-8d5e-4379-8743-ed57dbe15db5",
     "simplify:fc4f4841-d5c6-4987-bf32-d4cb867a8b34",
     "simplify:e7798c65-abfa-46f3-ada4-bcd7733434a3",
     "simplify:a982372c-9240-4017-912e-f077c131bd45",
@@ -5791,7 +5785,8 @@
     "simplify:7bd2a3ab-9098-44df-82f9-7f6dd5533ac7",
     "simplify:6df9610e-f9a6-47ab-b5d5-a8389329834c",
     "simplify:7aaac49e-1f3e-4bf1-bc5d-ab96593a7294",
-    "simplify:1f9574c2-c85b-414e-b946-2d7845c6c19f"
+    "simplify:1f9574c2-c85b-414e-b946-2d7845c6c19f",
+    "simplify:ab1c5055-45ed-49f4-bd74-572e5cb702ff"
   ],
   "vanshb03 New Grad": [
     "vansh:5dac35b2-b148-49f8-b3f5-828ba68da99c",
