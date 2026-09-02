@@ -1,6 +1,6 @@
 {
   "ClickHouse": {
-    "consecutiveFailures": 9,
+    "consecutiveFailures": 10,
     "lastError": "greenhouse clickhouse: HTTP 404",
     "alerted": true
   }
