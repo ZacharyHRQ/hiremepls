@@ -208,6 +208,17 @@
   { "name": "Solarisbank", "ats": "personio", "slug": "solarisbank" },
   { "name": "Deepset", "ats": "personio", "slug": "deepset" },
 
+  { "name": "Character.AI", "ats": "ashby", "slug": "character" },
+  { "name": "Mercor", "ats": "ashby", "slug": "mercor" },
+  { "name": "Abridge", "ats": "ashby", "slug": "abridge" },
+  { "name": "OpenEvidence", "ats": "ashby", "slug": "openevidence" },
+  { "name": "Reflection AI", "ats": "ashby", "slug": "reflectionai" },
+  { "name": "Kalshi", "ats": "greenhouse", "slug": "kalshi" },
+  { "name": "Carta", "ats": "greenhouse", "slug": "carta" },
+  { "name": "SpaceX", "ats": "greenhouse", "slug": "spacex" },
+  { "name": "Epic Games", "ats": "greenhouse", "slug": "epicgames" },
+  { "name": "Calm", "ats": "greenhouse", "slug": "calm" },
+
   { "name": "SimplifyJobs 2026", "ats": "simplify", "slug": "" },
   {
     "name": "SimplifyJobs 2027",
