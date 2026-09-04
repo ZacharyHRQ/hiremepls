@@ -60,9 +60,9 @@
     "7997729",
     "7981754",
     "7942281",
-    "7992936",
-    "8020364",
     "7991196",
+    "8020364",
+    "7992936",
     "8014910",
     "8127242"
   ],
@@ -140,12 +140,12 @@
     "8130805",
     "8097801",
     "8128745",
-    "8130922",
-    "8128744",
-    "8160776",
-    "8130930",
     "8130881",
+    "8160776",
+    "8128744",
     "8157838",
+    "8130930",
+    "8130922",
     "8130927"
   ],
   "Databricks": [
@@ -159,8 +159,8 @@
   ],
   "MongoDB": [],
   "Cloudflare": [
-    "8118845",
     "8118855",
+    "8118845",
     "8052785"
   ],
   "Datadog": [
@@ -1334,12 +1334,14 @@
   ],
   "Wayve": [],
   "zshah101 Summer 2027/Fall 2026": [
-    "github-json:zshah101-summer-2027-fall-2026:workable:enfos-inc:CA15908E0A",
-    "github-json:zshah101-summer-2027-fall-2026:oracle:edbz.fa.us2.oraclecloud.com:25017705",
-    "github-json:zshah101-summer-2027-fall-2026:workday:directsupply:/job/Milwaukee-WI/AI-Engineer-Intern_REQ-2026-2553",
-    "github-json:zshah101-summer-2027-fall-2026:workday:jci:/job/Salem-Virginia-United-States-of-America/Software-Controls-Engineering-Grad-Intern_WD30278205-1",
+    "github-json:zshah101-summer-2027-fall-2026:workday:cibc:/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322-1",
+    "github-json:zshah101-summer-2027-fall-2026:workday:ingredion:/job/Westchester-IL/AI---Data-Scientist-Intern_Req-40220",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:scaleai:4730845005",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:schonfeld:8180089",
+    "github-json:zshah101-summer-2027-fall-2026:oracle:edbz.fa.us2.oraclecloud.com:25017705",
+    "github-json:zshah101-summer-2027-fall-2026:workable:enfos-inc:CA15908E0A",
+    "github-json:zshah101-summer-2027-fall-2026:workday:directsupply:/job/Milwaukee-WI/AI-Engineer-Intern_REQ-2026-2553",
+    "github-json:zshah101-summer-2027-fall-2026:workday:jci:/job/Salem-Virginia-United-States-of-America/Software-Controls-Engineering-Grad-Intern_WD30278205-1",
     "github-json:zshah101-summer-2027-fall-2026:amazon:amazon:10529525",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:idmeuniversityrecruiting:7980429003",
     "github-json:zshah101-summer-2027-fall-2026:ashby:skydio:ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9",
@@ -1731,6 +1733,7 @@
   "Spotify": [],
   "The Trade Desk": [],
   "Amazon": [
+    "10530353",
     "10529546",
     "10513110",
     "10503558",
@@ -1742,7 +1745,6 @@
     "10493864",
     "10491309",
     "3130528",
-    "3179209",
     "3074226",
     "10418355",
     "3123243",
@@ -2686,7 +2688,6 @@
     "simplify:53d8eb96-a4a4-4d3d-a59f-1308691c4a1a",
     "simplify:097e5358-9e45-41e0-86bc-5289976e1828",
     "simplify:0e9bb9cd-7dee-4ce0-a479-654d1552f1bc",
-    "simplify:b8511dba-1f6c-40d2-b3b7-e50e87163026",
     "simplify:1cd3e703-e004-4850-8dc5-440acec35de0",
     "simplify:c0d0a7a8-afbc-4283-886f-e4d7e36f52f0",
     "simplify:7637b476-395a-4c53-bc72-f6e375758876",
@@ -2713,7 +2714,6 @@
     "simplify:21c2dbb5-58dc-42ce-b2f5-f7a3eed6a47f",
     "simplify:183e5059-a65a-4031-89cb-16f14f42f6f0",
     "simplify:6cba10bd-bcb9-4b0c-834b-31c33c3e5125",
-    "simplify:a04221b8-f136-4a5d-beb9-2807f67970c2",
     "simplify:f5f6acb8-6462-4878-a7a4-60a67c219943",
     "simplify:ae8f1ba1-981a-4a92-8400-ce447d413343",
     "simplify:ffd397b2-8311-43d4-b913-acf01647f231",
@@ -3970,7 +3970,6 @@
     "simplify:53d8eb96-a4a4-4d3d-a59f-1308691c4a1a",
     "simplify:097e5358-9e45-41e0-86bc-5289976e1828",
     "simplify:0e9bb9cd-7dee-4ce0-a479-654d1552f1bc",
-    "simplify:b8511dba-1f6c-40d2-b3b7-e50e87163026",
     "simplify:1cd3e703-e004-4850-8dc5-440acec35de0",
     "simplify:c0d0a7a8-afbc-4283-886f-e4d7e36f52f0",
     "simplify:7637b476-395a-4c53-bc72-f6e375758876",
@@ -3997,7 +3996,6 @@
     "simplify:21c2dbb5-58dc-42ce-b2f5-f7a3eed6a47f",
     "simplify:183e5059-a65a-4031-89cb-16f14f42f6f0",
     "simplify:6cba10bd-bcb9-4b0c-834b-31c33c3e5125",
-    "simplify:a04221b8-f136-4a5d-beb9-2807f67970c2",
     "simplify:f5f6acb8-6462-4878-a7a4-60a67c219943",
     "simplify:ae8f1ba1-981a-4a92-8400-ce447d413343",
     "simplify:ffd397b2-8311-43d4-b913-acf01647f231",
@@ -5145,7 +5143,6 @@
     "simplify:60d005ff-fe23-4fdd-9573-6188bca2a95f",
     "simplify:5e775d03-2974-4788-a51e-41896502a1c2",
     "simplify:a793a502-be13-4c61-a978-d990f3122ad0",
-    "simplify:8212bd54-76b0-4aae-a50e-3f286c780262",
     "simplify:49a6eea9-f3b2-4c8a-bcb9-73f0f684a0af",
     "simplify:be884771-8768-4d4e-8fe8-545efc9a2cb0",
     "simplify:1cc58798-4a64-45ce-a9b1-f7225d6d1a68",
@@ -5727,7 +5724,6 @@
     "simplify:aaa3bc85-9d65-4c72-a3c0-656079d3aa4a",
     "simplify:81b77231-c694-4d9d-b413-ee4fa0499645",
     "simplify:cc7b9cd5-ba87-4685-b07f-c22f2a4a6a31",
-    "simplify:f10db4e6-c8e1-482d-9bda-5c12f1b3c67a",
     "simplify:894eb687-31ed-49f7-86c8-228331a4c092",
     "simplify:9775ba99-30e4-4a15-a03e-dcd63abcd16e",
     "simplify:fb111552-e548-480f-9cff-4c13c1f67d69",
@@ -6425,6 +6421,7 @@
     "112524389945090758",
     "89285191637312198",
     "95456724634215110",
+    "122221994455245510",
     "105855563622949574",
     "107150827512046278",
     "121343637135991494",
@@ -6436,7 +6433,6 @@
     "94927533123740358",
     "127525177406694086",
     "73177450879558342",
-    "102632687272895174",
     "127904573342786246"
   ],
   "Apple": [
@@ -6475,6 +6471,7 @@
     "J02044564"
   ],
   "Nvidia": [
+    "/job/China-Shanghai/Accelerated-Compute-Systems-Performance-Architect-Intern---2027_JR2024823",
     "/job/Switzerland-Zurich/Deep-Learning-Algorithm-Engineering-Intern---2026_JR2012814",
     "/job/China-Beijing/AI-Developer-Technology-Engineering-Intern---2027_JR2024818"
   ],
@@ -6491,20 +6488,20 @@
     "8696058002",
     "8696080002",
     "8730567002",
-    "8696156002",
+    "8724316002",
     "8696158002",
     "8696143002",
-    "8724316002",
+    "8696156002",
     "8729121002",
     "8621756002",
     "8621757002"
   ],
   "Epic Games": [
     "6173862004",
-    "6141180004",
     "6152263004",
-    "6163851004",
-    "6174265004"
+    "6141180004",
+    "6174265004",
+    "6163851004"
   ],
   "Calm": []
 }
