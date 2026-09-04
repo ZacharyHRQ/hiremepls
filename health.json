@@ -1,22 +1,12 @@
 {
   "Microsoft": {
-    "consecutiveFailures": 9,
+    "consecutiveFailures": 10,
     "lastError": "timed out after 90000ms",
     "alerted": true
-  },
-  "Sea Limited": {
-    "consecutiveFailures": 1,
-    "lastError": "timed out after 90000ms",
-    "alerted": false
   },
   "ClickHouse": {
-    "consecutiveFailures": 22,
-    "lastError": "timed out after 20000ms",
+    "consecutiveFailures": 23,
+    "lastError": "greenhouse clickhouse: HTTP 404",
     "alerted": true
-  },
-  "Anduril": {
-    "consecutiveFailures": 2,
-    "lastError": "timed out after 20000ms",
-    "alerted": false
   }
 }
