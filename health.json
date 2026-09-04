@@ -1,17 +1,12 @@
 {
   "Microsoft": {
-    "consecutiveFailures": 2,
+    "consecutiveFailures": 3,
     "lastError": "timed out after 90000ms",
-    "alerted": false
-  },
-  "ClickHouse": {
-    "consecutiveFailures": 15,
-    "lastError": "greenhouse clickhouse: HTTP 404",
     "alerted": true
   },
-  "Anduril": {
-    "consecutiveFailures": 1,
-    "lastError": "timed out after 20000ms",
-    "alerted": false
+  "ClickHouse": {
+    "consecutiveFailures": 16,
+    "lastError": "greenhouse clickhouse: HTTP 404",
+    "alerted": true
   }
 }
