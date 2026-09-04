@@ -16,10 +16,10 @@
     "4907368101",
     "4912325101",
     "4892687101",
-    "4818790101",
     "4917773101",
-    "4635938101",
+    "4818790101",
     "4564480101",
+    "4635938101",
     "4667814101",
     "4932192101",
     "4577504101",
@@ -33,35 +33,35 @@
     "8052281",
     "8052351",
     "7976964",
-    "8027946",
     "8027860",
+    "8027946",
     "8002998",
     "7975008",
     "7977145",
     "8027955",
     "8027923",
     "8027900",
-    "8027939",
     "8010307",
+    "8027939",
     "8059384",
     "8027898",
     "8049938",
     "7982648",
-    "8002989",
     "7975026",
-    "8027952",
+    "8002989",
     "8007788",
     "8000323",
+    "8027952",
     "7565728",
-    "7974943",
-    "8003019"
+    "8003019",
+    "7974943"
   ],
   "DRW": [
     "7997729",
     "7981754",
-    "8020364",
-    "7992936",
     "7942281",
+    "7992936",
+    "8020364",
     "7991196",
     "8014910",
     "8127242"
@@ -77,8 +77,8 @@
     "7957728"
   ],
   "Tower Research Capital": [
-    "7011493",
     "8138524",
+    "7011493",
     "8044334",
     "8168750",
     "8168634",
@@ -87,8 +87,8 @@
     "8037860"
   ],
   "Point72": [
-    "7297598002",
     "7297611002",
+    "7297598002",
     "7302611002",
     "8721562002",
     "7586061002",
@@ -96,6 +96,7 @@
     "7297666002"
   ],
   "Schonfeld": [
+    "8180089",
     "7185553"
   ],
   "Old Mission": [
@@ -104,7 +105,9 @@
     "7796180003"
   ],
   "Marshall Wace": [],
-  "Man Group": [],
+  "Man Group": [
+    "4969142101"
+  ],
   "PDT Partners": [
     "8077685",
     "8083292"
@@ -125,21 +128,24 @@
     "be94e89b-89d5-4f2a-a58b-7929c8d97f92",
     "71168628-1998-47d3-87a9-be7bc56a430d"
   ],
-  "Scale AI": [],
+  "Scale AI": [
+    "4730845005",
+    "4730836005"
+  ],
   "Replit": [],
   "Stripe": [
-    "8031833",
     "8130867",
+    "8031833",
     "8130807",
-    "8097801",
     "8130805",
+    "8097801",
     "8128745",
+    "8130922",
+    "8128744",
+    "8160776",
     "8130930",
     "8130881",
     "8157838",
-    "8128744",
-    "8160776",
-    "8130922",
     "8130927"
   ],
   "Databricks": [
@@ -153,11 +159,8 @@
   ],
   "MongoDB": [],
   "Cloudflare": [
-    "8089407",
-    "8089400",
-    "8089379",
-    "8118855",
     "8118845",
+    "8118855",
     "8052785"
   ],
   "Datadog": [
@@ -1331,7 +1334,14 @@
   ],
   "Wayve": [],
   "zshah101 Summer 2027/Fall 2026": [
+    "github-json:zshah101-summer-2027-fall-2026:workable:enfos-inc:CA15908E0A",
+    "github-json:zshah101-summer-2027-fall-2026:oracle:edbz.fa.us2.oraclecloud.com:25017705",
+    "github-json:zshah101-summer-2027-fall-2026:workday:directsupply:/job/Milwaukee-WI/AI-Engineer-Intern_REQ-2026-2553",
+    "github-json:zshah101-summer-2027-fall-2026:workday:jci:/job/Salem-Virginia-United-States-of-America/Software-Controls-Engineering-Grad-Intern_WD30278205-1",
+    "github-json:zshah101-summer-2027-fall-2026:greenhouse:scaleai:4730845005",
+    "github-json:zshah101-summer-2027-fall-2026:greenhouse:schonfeld:8180089",
     "github-json:zshah101-summer-2027-fall-2026:amazon:amazon:10529525",
+    "github-json:zshah101-summer-2027-fall-2026:greenhouse:idmeuniversityrecruiting:7980429003",
     "github-json:zshah101-summer-2027-fall-2026:ashby:skydio:ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9",
     "github-json:zshah101-summer-2027-fall-2026:workday:drivetime:/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Data-Engineer-Intern--Summer-2027-_R16300",
     "github-json:zshah101-summer-2027-fall-2026:workday:drivetime:/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineer-Intern--Summer-2027-_R16294",
@@ -1366,7 +1376,6 @@
     "github-json:zshah101-summer-2027-fall-2026:workday:caci:/job/Sterling-VA-US/DevOps-Software-Engineering-Intern---Summer-2027_331466",
     "github-json:zshah101-summer-2027-fall-2026:workday:magna:/job/Southfield-Michigan-US/Intern---Engineering-Software_R00258617",
     "github-json:zshah101-summer-2027-fall-2026:workday:mastercard:/job/OFallon-Missouri/Data-Scientist-Intern--Summer-2027---St-Louis--MO--US_R-284877",
-    "github-json:zshah101-summer-2027-fall-2026:workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910",
     "github-json:zshah101-summer-2027-fall-2026:workday:stryker:/job/Flower-Mound-Texas/Commercial-Operations-Software-Engineering-Intern---Flower-Mound--TX_R572941",
     "github-json:zshah101-summer-2027-fall-2026:workday:aoins:/job/Lansing-MI/Business-Intelligence-Developer-Internship---Summer-2027_R_14417",
     "github-json:zshah101-summer-2027-fall-2026:workday:genpt:/job/Birmingham-AL-USA/Software-Engineer---QA-Analyst-Intern_R26_0000029235",
@@ -1628,7 +1637,6 @@
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:axontalentcommunity:7800628003",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:ctccampusboard:4708230005",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:oldmissioncapital:7796180003",
-    "github-json:zshah101-summer-2027-fall-2026:greenhouse:thetradedesk:5187605007",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:fiveringsllc:5349707008",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:akunacapital:8018847",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:akunacapital:8018853",
@@ -1721,9 +1729,7 @@
     "655f9937-a4ce-4e7d-80e2-a6659af07329"
   ],
   "Spotify": [],
-  "The Trade Desk": [
-    "5187605007"
-  ],
+  "The Trade Desk": [],
   "Amazon": [
     "10529546",
     "10513110",
@@ -1821,8 +1827,6 @@
     "simplify:55c29391-7472-4e4d-a26f-2f38c7efc55e",
     "simplify:74c89fde-4677-4b10-b706-43f45065e8e4",
     "simplify:0774f31a-26bd-433d-bc51-3d4bbb820b0d",
-    "simplify:1c141650-b107-465f-a7ed-290459b5da2a",
-    "simplify:708843fa-cd23-4f58-8f6b-9d646ec6460d",
     "simplify:01b73789-a55c-4227-864d-4e1c9f06b059",
     "simplify:3ab26bfe-972a-4b2f-8014-7b6add4f83d3",
     "simplify:9424072c-485e-43c4-91e8-4f124356a286",
@@ -2018,7 +2022,6 @@
     "simplify:27bc7565-972b-4dff-a2b6-d86296a62c88",
     "simplify:7d13d689-657d-404d-9463-284ccb89bd44",
     "simplify:1a44500b-c841-4121-ad65-9ed0746573db",
-    "simplify:1cb48f29-b8a3-47e1-98f2-1a2b893d0027",
     "simplify:b31743bd-7fcf-42a4-aca1-0e6146dfb105",
     "simplify:d939c49f-1d93-4ba9-aa2f-32e4e7398633",
     "simplify:fe8fd0a0-0ded-47c1-8bba-8ac16fdd2926",
@@ -2062,9 +2065,7 @@
     "simplify:2c334a12-438c-49bb-8cf8-53a3ebc22b33",
     "simplify:0f92cafb-0f29-4673-a008-b02b0445f75c",
     "simplify:d71bed9a-99bb-4a02-ae62-3ee72d73fb36",
-    "simplify:02855d39-751b-42b4-909c-814d9d98b768",
     "simplify:6219c04b-bc5c-4d14-90ea-426f117b51c0",
-    "simplify:c97b1332-a2e5-4276-8d54-70df4b7c21e7",
     "simplify:d8419553-b116-44e9-8ec0-d1ae843c6512",
     "simplify:1fd1fcc8-fade-4579-a322-2bc276d73ca7",
     "simplify:0b70d1e1-a241-43ea-b553-844b484972d9",
@@ -2533,7 +2534,6 @@
     "simplify:a69da076-e18a-42b5-9a88-0838d7941959",
     "simplify:8a398659-4aa5-4cf4-a9d1-222302c48e50",
     "simplify:84aad02e-2ac4-4eaf-89fd-3674ae05f75e",
-    "simplify:841e2cd6-9fb6-4ffd-adb4-671a6b81ade2",
     "simplify:cd6f32c7-2c66-4423-8ff5-b998f48126e0",
     "simplify:ae6480dc-19f7-41c1-93ec-fd10763825b1",
     "simplify:caa5d432-7f4d-4c1f-92de-98d8fd87d850",
@@ -2566,7 +2566,6 @@
     "simplify:de4cd0c6-05b6-4e77-9479-486a018a8683",
     "simplify:c7d3b494-6183-4201-ae92-c7ddbae1ae27",
     "simplify:ab6cb65d-01c3-421d-bc8b-48584e8d4cba",
-    "simplify:1253e2b5-8a22-4c0e-bcd9-e44d32ecfc90",
     "simplify:0b789ff7-5e0b-41ba-98b2-35370afdd223",
     "simplify:2947ab18-7630-43b2-ac82-07b28508a561",
     "simplify:0cac198d-5b59-411b-8ddf-3138668da722",
@@ -2944,7 +2943,9 @@
     "simplify:12e13643-ecc8-42a5-b20c-2c17fd0c17a0",
     "simplify:6c196363-fae8-4e72-a67f-eb0699a0dfc5",
     "simplify:b20f7f1d-5dc9-4764-b2d0-e4782096ccb3",
-    "simplify:dc41208b-cfd9-4775-90bc-0df9e9ce96c2"
+    "simplify:dc41208b-cfd9-4775-90bc-0df9e9ce96c2",
+    "simplify:ecb50799-5432-4e4c-94bd-ab79e8a11ebd",
+    "simplify:7e8834d8-2571-478a-aaeb-8bb9c3fbb656"
   ],
   "DoorDash": [],
   "Waymo": [
@@ -3110,8 +3111,6 @@
     "simplify:55c29391-7472-4e4d-a26f-2f38c7efc55e",
     "simplify:74c89fde-4677-4b10-b706-43f45065e8e4",
     "simplify:0774f31a-26bd-433d-bc51-3d4bbb820b0d",
-    "simplify:1c141650-b107-465f-a7ed-290459b5da2a",
-    "simplify:708843fa-cd23-4f58-8f6b-9d646ec6460d",
     "simplify:01b73789-a55c-4227-864d-4e1c9f06b059",
     "simplify:3ab26bfe-972a-4b2f-8014-7b6add4f83d3",
     "simplify:9424072c-485e-43c4-91e8-4f124356a286",
@@ -3307,7 +3306,6 @@
     "simplify:27bc7565-972b-4dff-a2b6-d86296a62c88",
     "simplify:7d13d689-657d-404d-9463-284ccb89bd44",
     "simplify:1a44500b-c841-4121-ad65-9ed0746573db",
-    "simplify:1cb48f29-b8a3-47e1-98f2-1a2b893d0027",
     "simplify:b31743bd-7fcf-42a4-aca1-0e6146dfb105",
     "simplify:d939c49f-1d93-4ba9-aa2f-32e4e7398633",
     "simplify:fe8fd0a0-0ded-47c1-8bba-8ac16fdd2926",
@@ -3351,9 +3349,7 @@
     "simplify:2c334a12-438c-49bb-8cf8-53a3ebc22b33",
     "simplify:0f92cafb-0f29-4673-a008-b02b0445f75c",
     "simplify:d71bed9a-99bb-4a02-ae62-3ee72d73fb36",
-    "simplify:02855d39-751b-42b4-909c-814d9d98b768",
     "simplify:6219c04b-bc5c-4d14-90ea-426f117b51c0",
-    "simplify:c97b1332-a2e5-4276-8d54-70df4b7c21e7",
     "simplify:d8419553-b116-44e9-8ec0-d1ae843c6512",
     "simplify:1fd1fcc8-fade-4579-a322-2bc276d73ca7",
     "simplify:0b70d1e1-a241-43ea-b553-844b484972d9",
@@ -3822,7 +3818,6 @@
     "simplify:a69da076-e18a-42b5-9a88-0838d7941959",
     "simplify:8a398659-4aa5-4cf4-a9d1-222302c48e50",
     "simplify:84aad02e-2ac4-4eaf-89fd-3674ae05f75e",
-    "simplify:841e2cd6-9fb6-4ffd-adb4-671a6b81ade2",
     "simplify:cd6f32c7-2c66-4423-8ff5-b998f48126e0",
     "simplify:ae6480dc-19f7-41c1-93ec-fd10763825b1",
     "simplify:caa5d432-7f4d-4c1f-92de-98d8fd87d850",
@@ -3855,7 +3850,6 @@
     "simplify:de4cd0c6-05b6-4e77-9479-486a018a8683",
     "simplify:c7d3b494-6183-4201-ae92-c7ddbae1ae27",
     "simplify:ab6cb65d-01c3-421d-bc8b-48584e8d4cba",
-    "simplify:1253e2b5-8a22-4c0e-bcd9-e44d32ecfc90",
     "simplify:0b789ff7-5e0b-41ba-98b2-35370afdd223",
     "simplify:2947ab18-7630-43b2-ac82-07b28508a561",
     "simplify:0cac198d-5b59-411b-8ddf-3138668da722",
@@ -4233,7 +4227,9 @@
     "simplify:12e13643-ecc8-42a5-b20c-2c17fd0c17a0",
     "simplify:6c196363-fae8-4e72-a67f-eb0699a0dfc5",
     "simplify:b20f7f1d-5dc9-4764-b2d0-e4782096ccb3",
-    "simplify:dc41208b-cfd9-4775-90bc-0df9e9ce96c2"
+    "simplify:dc41208b-cfd9-4775-90bc-0df9e9ce96c2",
+    "simplify:ecb50799-5432-4e4c-94bd-ab79e8a11ebd",
+    "simplify:7e8834d8-2571-478a-aaeb-8bb9c3fbb656"
   ],
   "Wintermute": [],
   "QCP": [],
@@ -4353,7 +4349,6 @@
     "simplify:d34efe5f-8b16-4631-abb7-2997d0702bcd",
     "simplify:6a69e3ca-d5e5-48ac-ac3c-5c8b9ead3c92",
     "simplify:97a2ec87-bbed-4c9b-9026-c59186fd59b1",
-    "simplify:bbd4fb62-ea0c-4903-9ff3-2886bf802efe",
     "simplify:65d9dfbd-5d39-42b0-988c-dd59701000db",
     "simplify:e4839ecb-2777-4886-93d2-c56612b08784",
     "simplify:63fc30c3-4d13-40bc-8488-b39b2dc59b9e",
@@ -4500,7 +4495,6 @@
     "simplify:e97ab4c1-64b9-4afa-a02e-dfa8f2f73ad3",
     "simplify:09f00af3-f301-47dc-8feb-407479362a10",
     "simplify:1084cdf5-3b7b-46a6-bf6d-10fdfa752e77",
-    "simplify:de896427-2d73-4fa8-b8b8-65efaf044cfd",
     "simplify:9b3d2be7-1291-4e46-8d88-5212363141cd",
     "simplify:c6f4de84-8743-4587-a405-5f08117ba9ab",
     "simplify:d68084c5-ab49-4255-ae22-0c224fc51dfe",
@@ -5272,7 +5266,6 @@
     "simplify:0316d9b0-4ab8-4162-b4db-6f01a603a369",
     "simplify:2ff916d3-3671-4e8e-a5df-485dc5048bba",
     "simplify:a9b0880e-9c11-4194-8868-5df112df0da6",
-    "simplify:8427086c-fb04-4125-a38f-4e9c9fa28dc7",
     "simplify:87fed93d-1c31-4dc0-bdce-3f64cf083638",
     "simplify:588f0052-a7a7-484e-9118-a50d1e50c96a",
     "simplify:0e6c1db8-ce0d-4d6e-8962-3757c2b0a9e8",
@@ -5587,7 +5580,6 @@
     "simplify:44fa9786-ec03-4d81-83da-21105c39efd4",
     "simplify:1ca5e526-fbd6-44f5-bc8a-870e4dd5c496",
     "simplify:d94a4e98-6853-400c-825b-c066e3f9a58b",
-    "simplify:e1a0b36c-932d-483c-917a-758456af81b5",
     "simplify:349400a4-4185-470e-84eb-5b65b346c7e1",
     "simplify:a1207d00-acc5-4c19-81b1-f641537fd9fd",
     "simplify:6100dc29-3179-4821-8d3b-7b3ac0ae70e9",
@@ -5749,7 +5741,6 @@
     "simplify:41751409-2ff4-4e59-955c-e725779fb8fd",
     "simplify:f02fda38-eaf1-4195-8aa2-d7fffd8afe43",
     "simplify:c8bdf836-b69b-4d19-8641-a3cd7be1c5df",
-    "simplify:ac728208-57ab-4adf-9430-f25c44f3907e",
     "simplify:6ff39e7e-0685-4928-bee4-584b5a81518a",
     "simplify:49bf7f35-734c-4cde-959b-8d7ef0f547c5",
     "simplify:03958d44-514d-4126-a39e-4051b7c83749",
@@ -5776,7 +5767,6 @@
     "simplify:9a8dfe52-a8c8-4604-9197-455c8a8630c0",
     "simplify:a6bd1314-ac47-45a9-8a6e-40903768ae2a",
     "simplify:088f2658-1b13-4453-b678-b6c87fc55fd9",
-    "simplify:db68c678-051c-4194-9d2a-eef600ef1437",
     "simplify:553bfdaa-f2cf-4931-8d8e-e76aa76b8f6e",
     "simplify:42066372-28d7-48d6-8dfb-99d54f4a2f36",
     "simplify:0ffaa21c-d319-41eb-b21e-77a8c3a84f35",
@@ -6430,7 +6420,6 @@
     "vansh:0d58d2ff-e7a1-4536-aaa2-810a10644e89"
   ],
   "Google": [
-    "140309946964026054",
     "140466291826664134",
     "95823738179592902",
     "112524389945090758",
@@ -6475,8 +6464,8 @@
   "Susquehanna (SIG)": [],
   "Millennium Management": [],
   "Netflix": [
-    "790317917022",
-    "790317916733"
+    "790317916733",
+    "790317917022"
   ],
   "Grab": [
     "744000140389140",
@@ -6485,7 +6474,10 @@
   "Sea Limited": [
     "J02044564"
   ],
-  "Nvidia": [],
+  "Nvidia": [
+    "/job/Switzerland-Zurich/Deep-Learning-Algorithm-Engineering-Intern---2026_JR2012814",
+    "/job/China-Beijing/AI-Developer-Technology-Engineering-Intern---2027_JR2024818"
+  ],
   "Character.AI": [],
   "Mercor": [],
   "Abridge": [],
@@ -6496,21 +6488,21 @@
   "SpaceX": [
     "8493079002",
     "8696097002",
-    "8696080002",
     "8696058002",
+    "8696080002",
     "8730567002",
     "8696156002",
+    "8696158002",
     "8696143002",
     "8724316002",
-    "8696158002",
     "8729121002",
     "8621756002",
     "8621757002"
   ],
   "Epic Games": [
     "6173862004",
-    "6152263004",
     "6141180004",
+    "6152263004",
     "6163851004",
     "6174265004"
   ],
