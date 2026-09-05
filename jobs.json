@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-05T15:31:59.598Z",
+  "generatedAt": "2026-09-05T17:36:28.688Z",
   "companyCount": 212,
   "okCount": 210,
-  "jobCount": 3260,
+  "jobCount": 3262,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -3263,7 +3263,9 @@
     "canonical:33516ccb1ec2842f": "2026-09-05T15:31:59.598Z",
     "canonical:ae37713f2e83b31b": "2026-09-05T15:31:59.598Z",
     "canonical:d1da7b2ac572df8f": "2026-09-05T15:31:59.598Z",
-    "canonical:5ccbdd16c804408f": "2026-09-05T15:31:59.598Z"
+    "canonical:5ccbdd16c804408f": "2026-09-05T15:31:59.598Z",
+    "canonical:6e179f27cd7704eb": "2026-09-05T17:36:28.688Z",
+    "canonical:4a77656807157e3b": "2026-09-05T17:36:28.688Z"
   },
   "jobs": [
     {
@@ -4806,9 +4808,9 @@
       ]
     },
     {
-      "id": "canonical:21bb6c7793322c09",
-      "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
-      "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
+      "id": "canonical:a16063f44f44cf5d",
+      "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
       "location": "Los Gatos,California,United States of America",
       "department": "Engineering",
       "company": "Netflix",
@@ -4819,9 +4821,9 @@
       ]
     },
     {
-      "id": "canonical:a16063f44f44cf5d",
-      "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
-      "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
+      "id": "canonical:21bb6c7793322c09",
+      "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
       "location": "Los Gatos,California,United States of America",
       "department": "Engineering",
       "company": "Netflix",
@@ -34272,6 +34274,19 @@
       ]
     },
     {
+      "id": "canonical:6e179f27cd7704eb",
+      "title": "OneStream Developer",
+      "url": "https://andrew-morgan.com/current-openings/?gh_jid=5389586008",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "Andrew Morgan",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:ed793b6741ec070a",
       "title": "Software Developer",
       "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Developer_26WD100537",
@@ -42946,6 +42961,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:4a77656807157e3b",
+      "title": "Graduate C++ Software Engineer",
+      "url": "https://davincitrading.com/job/graduate-c-software-engineer-2/",
+      "location": "Miami, FL",
+      "department": "",
+      "company": "Da Vinci",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
       ]
     },
     {
