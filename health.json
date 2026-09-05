@@ -1,11 +1,11 @@
 {
   "Microsoft": {
-    "consecutiveFailures": 14,
+    "consecutiveFailures": 15,
     "lastError": "timed out after 90000ms",
     "alerted": true
   },
   "ClickHouse": {
-    "consecutiveFailures": 27,
+    "consecutiveFailures": 28,
     "lastError": "greenhouse clickhouse: HTTP 404",
     "alerted": true
   }

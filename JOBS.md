@@ -1,6 +1,6 @@
 # Open Internships
 
-**3257** internships across **210/212** companies — last updated 2026-09-05.
+**3260** internships across **210/212** companies — last updated 2026-09-05.
 
 ## Companies
 
@@ -73,7 +73,7 @@
 - [Apex Technology, Inc.](#apex-technology-inc) (1)
 - [Apogee Engineering](#apogee-engineering) (2)
 - [Apollo Mission Critical Engineering](#apollo-mission-critical-engineering) (1)
-- [Appian](#appian) (5)
+- [Appian](#appian) (4)
 - [Apple](#apple) (32)
 - [Applied Intuition](#applied-intuition) (5)
 - [Applied Materials](#applied-materials) (6)
@@ -430,7 +430,7 @@
 - [GlobalFoundries](#globalfoundries) (3)
 - [Globus Medical](#globus-medical) (1)
 - [GM financial](#gm-financial) (1)
-- [Goldman Sachs](#goldman-sachs) (1)
+- [Goldman Sachs](#goldman-sachs) (8)
 - [Google](#google) (35)
 - [Grab](#grab) (1)
 - [Gradient Robotics](#gradient-robotics) (1)
@@ -1123,7 +1123,6 @@
 - [Wolverine Trading](#wolverine-trading) (1)
 - [Wonder](#wonder) (2)
 - [Wonderschool](#wonderschool) (1)
-- [WOOD Consulting Services](#wood-consulting-services) (3)
 - [Workato](#workato) (1)
 - [Workiva](#workiva) (2)
 - [WorldQuant](#worldquant) (1)
@@ -1730,7 +1729,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Associate Application Engineer](https://job-boards.greenhouse.io/appian/jobs/8035372) | 93 | McLean, VA | Software | 2026-09-04 |
-| [New Grad 2027: Software Engineer](https://careers.appian.com/jobs/8041241-software-engineer--2027-graduates-) | 91 | McLean, VA | — | 2026-08-17 |
 | [Software Engineering Intern](https://careers.appian.com/jobs/8041237-software-engineering-intern) | 85 | McLean, VA | — | 2026-08-17 |
 | [Information Security Engineer Intern](https://job-boards.greenhouse.io/appian/jobs/8088496) | 93 | McLean, Virginia | Security / Summer 2027 | 2026-07-27 |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/appian/jobs/8041237) | 93 | McLean, VA | Software | 2026-07-23 |
@@ -3040,7 +3038,7 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern - Fall 2026](https://boards.greenhouse.io/cloudflare/jobs/8118855) | 93 | London, UK | Software | 2026-08-20 |
-| [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855) | 93 | In-Office | — | 2026-08-11 |
+| [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | 93 | In-Office | — | 2026-08-11 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -4492,7 +4490,14 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer - Data](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292) | 85 | London, UK | Software | 2026-09-05 |
+| [Engineering New Analyst](https://higher.gs.com/roles/171568?type=students) | 85 | Dallas, TX | Software | 2026-09-05 |
+| [Engineering New Analyst - Engineering](https://higher.gs.com/roles/171570?type=students) | 85 | Salt Lake City, UT | Software | 2026-09-05 |
+| [Summer Analyst Intern - Americas - Engineering](https://higher.gs.com/roles/171564?type=students) | 85 | NYC | Software | 2026-09-05 |
+| [Summer Analyst Intern - Americas - Engineering](https://higher.gs.com/roles/171567?type=students) | 85 | Toronto, ON, Canada | Software | 2026-09-05 |
+| [Summer Analyst Intern - Americas - Engineering](https://higher.gs.com/roles/171565?type=students) | 85 | Salt Lake City, UT | Software | 2026-09-05 |
+| [Summer Analyst Intern - Engineering](https://higher.gs.com/roles/170644?type=students) | 85 | London, UK | Software | 2026-09-05 |
+| [Summer Analyst Intern - Engineering](https://higher.gs.com/roles/170637?type=students) | 85 | Birmingham, UK | Software | 2026-09-05 |
+| [Summer Analyst Intern - Engineering](https://higher.gs.com/roles/171553?type=students) | 85 | Dallas, TX | Software | 2026-09-05 |
 
 ## Google
 
@@ -9952,14 +9957,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Early Career Software Engineer - Applied AI](https://job-boards.greenhouse.io/wonderschool/jobs/6359139003) | 93 | SF | Software | 2026-08-17 |
-
-## WOOD Consulting Services
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Systems Engineer 0](https://jobs-woodcons.icims.com/jobs/14783/job?mobile=true&needsRedirect=false) | 85 | Fort Meade, MD | Software | 2026-09-03 |
-| [Software Engineer](https://jobs-woodcons.icims.com/jobs/14910/job?mobile=true&needsRedirect=false) | 85 | Fort Meade, MD | Software | 2026-08-18 |
-| [Software Engineer 0 - Entry-Level Software Engineering](https://jobs-woodcons.icims.com/jobs/14759/job?mobile=true&needsRedirect=false) | 85 | Fort Meade, MD | Software | 2026-08-18 |
 
 ## Workato
 

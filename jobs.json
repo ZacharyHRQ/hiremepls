@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-05T12:38:47.988Z",
+  "generatedAt": "2026-09-05T15:31:59.598Z",
   "companyCount": 212,
   "okCount": 210,
-  "jobCount": 3257,
+  "jobCount": 3260,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -1674,7 +1674,6 @@
     "canonical:18f09f1024f4183b": "2026-08-17T16:14:31.608Z",
     "canonical:b62f154d859dbc1e": "2026-08-17T16:14:31.608Z",
     "canonical:01efe06a6ac3a644": "2026-08-17T16:14:31.608Z",
-    "canonical:e337f7d7e8fc8584": "2026-08-17T16:14:31.608Z",
     "canonical:a8b808e417269055": "2026-08-17T16:14:31.608Z",
     "canonical:98fecc20995803be": "2026-08-17T16:14:31.608Z",
     "canonical:c3b9b0c7b8f2b994": "2026-08-17T16:14:31.608Z",
@@ -1746,8 +1745,6 @@
     "canonical:4f4e921f8e27e2dc": "2026-08-18T08:22:37.110Z",
     "canonical:e8b5108055d8c541": "2026-08-18T09:00:08.385Z",
     "canonical:4576775faa318dce": "2026-08-18T09:00:08.385Z",
-    "canonical:591e4ff75a9d375b": "2026-08-18T09:00:08.385Z",
-    "canonical:2c65d5e27042b1b3": "2026-08-18T09:00:08.385Z",
     "canonical:70bd8031a4940b10": "2026-08-18T09:35:52.481Z",
     "canonical:42a7330880b6ac3d": "2026-08-18T09:35:52.481Z",
     "canonical:fe90dfa65c7919d1": "2026-08-18T11:36:44.628Z",
@@ -2769,7 +2766,6 @@
     "canonical:97e58fc3beb127d9": "2026-09-03T17:12:07.167Z",
     "canonical:82e501c0f84abd73": "2026-09-03T17:12:07.167Z",
     "canonical:aedc2ace4519c54d": "2026-09-03T17:12:07.167Z",
-    "canonical:39f11e0afa8c66e7": "2026-09-03T17:12:07.167Z",
     "canonical:198734e5208db27b": "2026-09-03T17:12:07.167Z",
     "canonical:184014272b251aec": "2026-09-03T17:12:07.167Z",
     "canonical:3886c1d1e6ed2c54": "2026-09-03T17:12:07.167Z",
@@ -3247,7 +3243,6 @@
     "canonical:5a22339ba09c78c7": "2026-09-05T05:02:35.358Z",
     "canonical:ed793b6741ec070a": "2026-09-05T05:02:35.358Z",
     "canonical:18bc2363ada4d345": "2026-09-05T05:02:35.358Z",
-    "canonical:734ff45905d8a7c8": "2026-09-05T09:00:40.399Z",
     "canonical:6f83cf1a71368cfc": "2026-09-05T09:00:40.399Z",
     "canonical:ab37578552659d1e": "2026-09-05T09:00:40.399Z",
     "canonical:21bb6c7793322c09": "2026-09-05T12:38:47.988Z",
@@ -3260,7 +3255,15 @@
     "canonical:6655595bea2a57d7": "2026-09-05T12:38:47.988Z",
     "canonical:4a78f93f349f0ebe": "2026-09-05T12:38:47.988Z",
     "canonical:a69ff1c67214c75d": "2026-09-05T12:38:47.988Z",
-    "canonical:acfaf554876e56cb": "2026-09-05T12:38:47.988Z"
+    "canonical:acfaf554876e56cb": "2026-09-05T12:38:47.988Z",
+    "canonical:c1b721072df5c0ba": "2026-09-05T15:31:59.598Z",
+    "canonical:778a61535c40cc7a": "2026-09-05T15:31:59.598Z",
+    "canonical:583e0ab3c91b3f9c": "2026-09-05T15:31:59.598Z",
+    "canonical:b92798e1f823a61d": "2026-09-05T15:31:59.598Z",
+    "canonical:33516ccb1ec2842f": "2026-09-05T15:31:59.598Z",
+    "canonical:ae37713f2e83b31b": "2026-09-05T15:31:59.598Z",
+    "canonical:d1da7b2ac572df8f": "2026-09-05T15:31:59.598Z",
+    "canonical:5ccbdd16c804408f": "2026-09-05T15:31:59.598Z"
   },
   "jobs": [
     {
@@ -6573,7 +6576,7 @@
     {
       "id": "canonical:073e340d37608d22",
       "title": "Software Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -19683,6 +19686,84 @@
       ]
     },
     {
+      "id": "canonical:c1b721072df5c0ba",
+      "title": "Summer Analyst Intern - Americas - Engineering",
+      "url": "https://higher.gs.com/roles/171564?type=students",
+      "location": "NYC",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:778a61535c40cc7a",
+      "title": "Summer Analyst Intern - Americas - Engineering",
+      "url": "https://higher.gs.com/roles/171567?type=students",
+      "location": "Toronto, ON, Canada",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:583e0ab3c91b3f9c",
+      "title": "Summer Analyst Intern - Americas - Engineering",
+      "url": "https://higher.gs.com/roles/171565?type=students",
+      "location": "Salt Lake City, UT",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:b92798e1f823a61d",
+      "title": "Summer Analyst Intern - Engineering",
+      "url": "https://higher.gs.com/roles/170644?type=students",
+      "location": "London, UK",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:33516ccb1ec2842f",
+      "title": "Summer Analyst Intern - Engineering",
+      "url": "https://higher.gs.com/roles/170637?type=students",
+      "location": "Birmingham, UK",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:ae37713f2e83b31b",
+      "title": "Summer Analyst Intern - Engineering",
+      "url": "https://higher.gs.com/roles/171553?type=students",
+      "location": "Dallas, TX",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:d3ce9a5e5ddb0169",
       "title": "Autonomy Engineer Intern - Computer Vision / Deep Learning - Summer 2027",
       "url": "https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9/application?embed=true",
@@ -24984,19 +25065,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:734ff45905d8a7c8",
-      "title": "Software Engineer - Data",
-      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292",
-      "location": "London, UK",
-      "department": "Software",
-      "company": "Goldman Sachs",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -34806,6 +34874,32 @@
       ]
     },
     {
+      "id": "canonical:d1da7b2ac572df8f",
+      "title": "Engineering New Analyst - Engineering",
+      "url": "https://higher.gs.com/roles/171570?type=students",
+      "location": "Salt Lake City, UT",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:5ccbdd16c804408f",
+      "title": "Engineering New Analyst",
+      "url": "https://higher.gs.com/roles/171568?type=students",
+      "location": "Dallas, TX",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:34f26ea49943bc76",
       "title": "Scenario Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/applied/f382de9d-d5e4-4dc8-85a0-0bae7125f8cf/application?embed=true",
@@ -35332,19 +35426,6 @@
       ]
     },
     {
-      "id": "canonical:591e4ff75a9d375b",
-      "title": "Software Engineer 0 - Entry-Level Software Engineering",
-      "url": "https://jobs-woodcons.icims.com/jobs/14759/job?mobile=true&needsRedirect=false",
-      "location": "Fort Meade, MD",
-      "department": "Software",
-      "company": "WOOD Consulting Services",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:fdf008b9ea8f687a",
       "title": "Software Development Engineer",
       "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Indiana-Fort-Wayne-1950-West-Cook-Road/Software-Development-Engineer_R570340",
@@ -35663,19 +35744,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:2c65d5e27042b1b3",
-      "title": "Software Engineer",
-      "url": "https://jobs-woodcons.icims.com/jobs/14910/job?mobile=true&needsRedirect=false",
-      "location": "Fort Meade, MD",
-      "department": "Software",
-      "company": "WOOD Consulting Services",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -40541,19 +40609,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:39f11e0afa8c66e7",
-      "title": "Systems Engineer 0",
-      "url": "https://jobs-woodcons.icims.com/jobs/14783/job?mobile=true&needsRedirect=false",
-      "location": "Fort Meade, MD",
-      "department": "Software",
-      "company": "WOOD Consulting Services",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -46052,20 +46107,6 @@
         "high-signal role",
         "new grad",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:e337f7d7e8fc8584",
-      "title": "New Grad 2027: Software Engineer",
-      "url": "https://careers.appian.com/jobs/8041241-software-engineer--2027-graduates-",
-      "location": "McLean, VA",
-      "department": "",
-      "company": "Appian",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad"
       ]
     },
     {
