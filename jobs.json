@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-05T17:36:28.688Z",
+  "generatedAt": "2026-09-05T19:27:48.168Z",
   "companyCount": 212,
   "okCount": 210,
-  "jobCount": 3262,
+  "jobCount": 3261,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -3250,7 +3250,6 @@
     "canonical:a356ac432d4a0c77": "2026-09-05T12:38:47.988Z",
     "canonical:83b4718a5f6f5a7d": "2026-09-05T12:38:47.988Z",
     "canonical:59d1715331e43f2b": "2026-09-05T12:38:47.988Z",
-    "canonical:00053ae33decdf2c": "2026-09-05T12:38:47.988Z",
     "canonical:1209d504f4c8dd8e": "2026-09-05T12:38:47.988Z",
     "canonical:6655595bea2a57d7": "2026-09-05T12:38:47.988Z",
     "canonical:4a78f93f349f0ebe": "2026-09-05T12:38:47.988Z",
@@ -23250,20 +23249,6 @@
       "location": "San Francisco, CA",
       "department": "Software Engineering",
       "company": "Ivo",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:00053ae33decdf2c",
-      "title": "Junior Software Engineer",
-      "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5085231007",
-      "location": "Chicago, IL",
-      "department": "Software Engineering",
-      "company": "Geneva Trading",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
