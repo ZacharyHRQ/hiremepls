@@ -1,11 +1,16 @@
 {
+  "Two Sigma": {
+    "consecutiveFailures": 1,
+    "lastError": "timed out after 90000ms",
+    "alerted": false
+  },
   "Microsoft": {
-    "consecutiveFailures": 18,
+    "consecutiveFailures": 19,
     "lastError": "timed out after 90000ms",
     "alerted": true
   },
   "ClickHouse": {
-    "consecutiveFailures": 31,
+    "consecutiveFailures": 32,
     "lastError": "greenhouse clickhouse: HTTP 404",
     "alerted": true
   }
