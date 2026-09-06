@@ -1,7 +1,7 @@
 import assert from "node:assert/strict";
 import test from "node:test";
 
-import { ageInDays, classifyDesk, classifyRegion, filterJobs, sortJobs } from "./model.js";
+import { ageInDays, classifyDesk, classifyRegion, classifyStage, filterJobs, sortJobs } from "./model.js";
 
 const snapshot = {
   firstSeen: {
@@ -30,11 +30,17 @@ test("maps common locations into regions", () => {
   assert.equal(classifyRegion("Singapore"), "asia");
 });
 
+test("separates internships, graduate roles, and uncategorized roles", () => {
+  assert.equal(classifyStage({ title: "Software Engineer Intern", department: "" }), "internship");
+  assert.equal(classifyStage({ title: "Graduate Quantitative Developer", department: "" }), "graduate");
+  assert.equal(classifyStage({ title: "Software Engineer", department: "" }), "other");
+});
+
 test("combines desk, region, signal, and freshness filters", () => {
   const result = filterJobs(
     jobs,
     snapshot,
-    { desk: "quant", region: "us", minSignal: 90, window: "7", query: "street" },
+    { desk: "quant", company: "Jane Street", stage: "internship", region: "us", minSignal: 90, window: "7", query: "street" },
     Date.parse("2026-09-06T12:00:00.000Z"),
   );
   assert.deepEqual(result.map((job) => job.id), ["q1"]);
@@ -45,7 +51,7 @@ test("excludes undated jobs from bounded freshness windows", () => {
   const result = filterJobs(
     jobs,
     snapshot,
-    { desk: "all", region: "all", minSignal: 0, window: "7", query: "" },
+    { desk: "all", company: "all", stage: "all", region: "all", minSignal: 0, window: "7", query: "" },
     Date.parse("2026-09-06T12:00:00.000Z"),
   );
   assert.deepEqual(result.map((job) => job.id), ["q1"]);

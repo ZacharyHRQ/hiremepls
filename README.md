@@ -73,18 +73,25 @@ cp .env.example .env   # add TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID, or omit for 
 npm run check           # one full run: fetch, filter, rank, notify, snapshot
 npm run list             # inspect the current jobs.json snapshot from the CLI
 npm run dashboard        # browse and filter the snapshot at localhost:4173
+npm run build:dashboard  # assemble the static GitHub Pages artifact in dist/
 ```
 
 ## Browse the snapshot
 
 The dependency-free dashboard in `dashboard/` turns the current `jobs.json`
 snapshot into a searchable job board. It opens on the quant desk and supports
-role, freshness, region, score, and text filters. Filter state is encoded in
-the URL, so a specific cut of the board can be bookmarked or shared.
+role, company, career-stage, freshness, region, score, and text filters. Filter
+state is encoded in the URL, so a specific cut can be bookmarked or shared.
+Applied jobs and hidden companies are kept in browser-local storage, with undo
+and restore controls. Applied jobs return to the board after 30 days.
 
 Run `npm run dashboard`, then open
-`http://127.0.0.1:4173/dashboard/`. The same static files can be published from
-the repository root with GitHub Pages.
+`http://127.0.0.1:4173/dashboard/`.
+
+The `Deploy dashboard` workflow publishes a fresh static artifact to GitHub
+Pages after every push to `main`. A repository owner may need to select
+**GitHub Actions** under **Settings > Pages > Build and deployment** once before
+the first deployment.
 
 Environment variables:
 

@@ -6,8 +6,8 @@
     <meta name="description" content="A fast filter for the internship and new-grad jobs collected by hiremepls." />
     <meta name="color-scheme" content="light dark" />
     <title>hiremepls board</title>
-    <link rel="stylesheet" href="./styles.css?v=1" />
-    <script type="module" src="./app.js?v=1"></script>
+    <link rel="stylesheet" href="./styles.css?v=2" />
+    <script type="module" src="./app.js?v=2"></script>
   </head>
   <body>
     <a class="skip-link" href="#job-list">Skip to openings</a>
@@ -59,6 +59,23 @@
             <span class="input-shell"><input id="search" type="search" placeholder="Company, title, place" autocomplete="off" /><kbd>/</kbd></span>
           </label>
 
+          <label class="field" for="company-filter">
+            <span>Company</span>
+            <select id="company-filter">
+              <option value="all">All visible companies</option>
+            </select>
+          </label>
+
+          <label class="field" for="stage-filter">
+            <span>Career stage</span>
+            <select id="stage-filter">
+              <option value="all">Internships + graduate</option>
+              <option value="internship">Internships</option>
+              <option value="graduate">Graduate + entry level</option>
+              <option value="other">Other early career</option>
+            </select>
+          </label>
+
           <label class="field" for="window-filter">
             <span>Freshness</span>
             <select id="window-filter">
@@ -85,6 +102,12 @@
             <span>Minimum signal <output id="signal-value">70</output></span>
             <input id="signal-filter" type="range" min="0" max="100" step="5" value="70" />
           </label>
+
+          <div class="activity-control">
+            <span>My activity</span>
+            <button id="review-activity" type="button">Review hidden <strong id="activity-count">0</strong></button>
+            <small>Saved only in this browser.</small>
+          </div>
         </aside>
 
         <div class="results-panel">
@@ -119,6 +142,20 @@
         </div>
       </section>
     </main>
+
+    <dialog id="activity-dialog" class="activity-dialog">
+      <header>
+        <div><h2>Hidden from your board</h2><p>Applied jobs return after 30 days. Hidden companies stay hidden until restored.</p></div>
+        <button id="close-activity" type="button" aria-label="Close activity">Close</button>
+      </header>
+      <div id="activity-list" class="activity-list"></div>
+      <button id="restore-all" class="restore-all" type="button">Restore everything</button>
+    </dialog>
+
+    <div id="activity-toast" class="activity-toast" role="status" aria-live="polite" hidden>
+      <span id="activity-toast-copy"></span>
+      <button id="undo-activity" type="button">Undo</button>
+    </div>
 
     <footer>
       <p>Built on Zac's source snapshot. Apply links go straight to the listing.</p>

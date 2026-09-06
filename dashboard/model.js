@@ -56,6 +56,13 @@ export function classifyRegion(location = "") {
   return "other";
 }
 
+export function classifyStage(job) {
+  const text = `${job.title || ""} ${job.department || ""}`;
+  if (/\b(intern|internship|co[- ]?op|summer analyst)\b/i.test(text)) return "internship";
+  if (/\b(new grad(?:uate)?|graduate|entry[- ]level|early career|university|campus|associate engineer|junior)\b/i.test(text)) return "graduate";
+  return "other";
+}
+
 export function firstSeenAt(job, snapshot) {
   const raw = snapshot.firstSeen?.[job.id];
   const timestamp = raw ? Date.parse(raw) : Number.NaN;
@@ -72,6 +79,8 @@ export function filterJobs(jobs, snapshot, filters, now = Date.now()) {
 
   return jobs.filter((job) => {
     if (filters.desk !== "all" && classifyDesk(job) !== filters.desk) return false;
+    if (filters.company !== "all" && job.company !== filters.company) return false;
+    if (filters.stage !== "all" && classifyStage(job) !== filters.stage) return false;
     if (filters.region !== "all" && classifyRegion(job.location) !== filters.region) return false;
     if (Number(job.score || 0) < filters.minSignal) return false;
 
