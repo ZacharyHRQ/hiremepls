@@ -1,6 +1,6 @@
 # Open Internships
 
-**3257** internships across **209/212** companies — last updated 2026-09-06.
+**3258** internships across **209/212** companies — last updated 2026-09-06.
 
 ## Companies
 
@@ -166,7 +166,7 @@
 - [Bosch Home Comfort](#bosch-home-comfort) (3)
 - [Boston Consulting Group](#boston-consulting-group) (3)
 - [Boston Engineering](#boston-engineering) (1)
-- [Boston Scientific](#boston-scientific) (2)
+- [Boston Scientific](#boston-scientific) (1)
 - [Bot Auto](#bot-auto) (2)
 - [Boyne Resorts](#boyne-resorts) (1)
 - [Brain Co.](#brain-co) (1)
@@ -432,7 +432,7 @@
 - [GlobalFoundries](#globalfoundries) (3)
 - [Globus Medical](#globus-medical) (1)
 - [GM financial](#gm-financial) (1)
-- [Goldman Sachs](#goldman-sachs) (3)
+- [Goldman Sachs](#goldman-sachs) (5)
 - [Google](#google) (35)
 - [Grab](#grab) (1)
 - [Gradient Robotics](#gradient-robotics) (1)
@@ -701,7 +701,7 @@
 - [North Star Staffing Solutions](#north-star-staffing-solutions) (2)
 - [Northeastern](#northeastern) (1)
 - [Northern Trust](#northern-trust) (1)
-- [Northrop Grumman](#northrop-grumman) (21)
+- [Northrop Grumman](#northrop-grumman) (20)
 - [Northwestern Mutual](#northwestern-mutual) (1)
 - [Northwood Space](#northwood-space) (5)
 - [Notability](#notability) (1)
@@ -796,7 +796,7 @@
 - [Prospect Equities](#prospect-equities) (1)
 - [Proximate Technologies](#proximate-technologies) (1)
 - [Publicis Groupe](#publicis-groupe) (1)
-- [Pylon](#pylon) (4)
+- [Pylon](#pylon) (3)
 - [Pyrovio](#pyrovio) (1)
 - [qode.world](#qode-world) (2)
 - [Qorvo](#qorvo) (15)
@@ -861,6 +861,7 @@
 - [Royal Bank of Canada](#royal-bank-of-canada) (5)
 - [Royal Caribbean Group](#royal-caribbean-group) (1)
 - [RTX](#rtx) (19)
+- [Rubrik](#rubrik) (2)
 - [RunSybil](#runsybil) (1)
 - [SA Technologies](#sa-technologies) (3)
 - [Saab](#saab) (1)
@@ -2445,7 +2446,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer 1 - Engineering](https://bostonscientific.eightfold.ai/careers/job/563602813508995) | 85 | Arden Hills, MN | Software | 2026-09-03 |
 | [Software Engineer I - Engineering - Development](https://bostonscientific.eightfold.ai/careers/job/563602803047194) | 85 | Roseville, MN | — | 2026-08-17 |
 
 ## Bot Auto
@@ -4505,9 +4505,11 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Engineering New Analyst](https://higher.gs.com/roles/171568?type=students) | 85 | Dallas, TX | Software | 2026-09-06 |
+| [Engineering New Analyst - Engineering](https://higher.gs.com/roles/171570?type=students) | 85 | Salt Lake City, UT | Software | 2026-09-06 |
+| [New Analyst - Engineering](https://higher.gs.com/roles/171569?type=students) | 85 | NYC | Software | 2026-09-06 |
 | [Engineering New Analyst - Engineering](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807) | 85 | Seattle, WA | Software | 2026-09-06 |
 | [Software Engineer - Data](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292) | 85 | London, UK | Software | 2026-09-06 |
-| [Summer Analyst Intern - Engineering](https://higher.gs.com/roles/177808?type=students) | 85 | Seattle, WA | Software | 2026-09-06 |
 
 ## Google
 
@@ -6514,7 +6516,6 @@
 | [Principal/Sr. Principal Systems Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/Principal-Sr-Principal-Systems-Engineer_R10239491) | 93 | Palatine, IL | Software | 2026-09-04 |
 | [Radar Modeling Simulation Analysis Associate Systems Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Radar-Modeling-Simulation-Analysis-Associate-Systems-Engineer_R10247334) | 93 | Linthicum Heights, MD | Software | 2026-09-03 |
 | [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910) | 93 | Linthicum Heights, MD | Software | 2026-09-03 |
-| [Java Software Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Northrop-Grumman--SkillBridge--Java-Software-Engineer-Level-1-or-2_R10248772) | 93 | Aurora, CO / Morrisville, NC / Remote in USA / Linthicum Heights, MD | Software | 2026-09-02 |
 | [Software Engineer Associate](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer_R10240764) | 93 | Melbourne, FL | Software | 2026-08-21 |
 | [Embedded Software Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Calling-all-Secret-Cleared-Embedded-Software-Engineers---Chandler-_R10245585-1) | 93 | Chandler, AZ | Hardware | 2026-08-21 |
 | [Software Engineer / User Experience Applications](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Software-Engineer---User-Experience-Applications_R10236991-1) | 93 | Oklahoma City, OK / San Diego, CA | Software | 2026-08-19 |
@@ -7299,7 +7300,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer Intern](https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application) | 93 | SF | Software | 2026-09-03 |
 | [New Grad - Software Engineer](https://jobs.ashbyhq.com/pylon-labs/ecf0d509-cfb9-43c6-b628-1e685d6f5f42/application) | 99 | SF | — | 2026-08-17 |
 | [New Grad 2025: Software Engineer](https://jobs.ashbyhq.com/pylon/6f714dd0-e472-4e70-a749-80493cd29420) | 99 | Menlo Park, CA | — | 2026-08-17 |
 | [Software Engineer New Grad](https://jobs.ashbyhq.com/pylon-labs/38814ce7-217b-40f2-9ba5-8a7733a5691d/application) | 99 | SF | Software | 2026-08-17 |
@@ -7775,6 +7775,13 @@
 | [Software Engineer Intern, Fleet Health Instrumentation](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012) | 93 | Fullerton, CA | — | 2026-08-17 |
 | [Software Engineer Intern, Fleet Health Instrumentation](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072) | 93 | McKinney, TX | — | 2026-08-17 |
 | [Software Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875) | 93 | US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 | Software / Summer 2027 | 2026-08-07 |
+
+## Rubrik
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer - Winter Intern](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) | 85 | Bangalore | — | 2026-09-06 |
+| [Software Engineer (CPD) - Winter Intern (Pune)](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) | 85 | Pune | — | 2026-09-06 |
 
 ## RunSybil
 

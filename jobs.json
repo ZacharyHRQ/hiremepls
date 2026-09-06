@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-06T09:32:20.327Z",
+  "generatedAt": "2026-09-06T13:06:23.078Z",
   "companyCount": 212,
   "okCount": 209,
-  "jobCount": 3257,
+  "jobCount": 3258,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -2502,7 +2502,6 @@
     "canonical:c6f996effd55a5e0": "2026-09-02T04:26:15.177Z",
     "canonical:b0cda367adc39068": "2026-09-02T04:26:15.177Z",
     "canonical:6b241560d2ecc6c1": "2026-09-02T04:26:15.177Z",
-    "canonical:2438ed97afad2000": "2026-09-02T04:26:15.177Z",
     "canonical:c3ade5d603ec177b": "2026-09-02T04:26:15.177Z",
     "canonical:f0279acdbb485507": "2026-09-02T04:26:15.177Z",
     "canonical:f3c55a2cf44f0bf3": "2026-09-02T04:26:15.177Z",
@@ -2643,7 +2642,6 @@
     "canonical:6174eaaa1f7c8c1a": "2026-09-03T09:02:19.192Z",
     "canonical:f2d02684ef65208e": "2026-09-03T09:02:19.192Z",
     "canonical:6ccc30070ea0e72d": "2026-09-03T09:02:19.192Z",
-    "canonical:fda10fb256f712f9": "2026-09-03T09:02:19.192Z",
     "canonical:520e30b22d0cac54": "2026-09-03T09:02:19.192Z",
     "canonical:aaeb5c3f0bd65e2b": "2026-09-03T09:02:19.192Z",
     "canonical:1359c8854d1b49b8": "2026-09-03T09:02:19.192Z",
@@ -2697,7 +2695,6 @@
     "canonical:9925dffed6df34f7": "2026-09-03T13:32:35.377Z",
     "canonical:4c8f8fd60da15c40": "2026-09-03T13:32:35.377Z",
     "canonical:7a93e07cc06c9e7e": "2026-09-03T13:32:35.377Z",
-    "canonical:ba545b91215fc20b": "2026-09-03T13:32:35.377Z",
     "canonical:afaf45a9c1f7a373": "2026-09-03T13:32:35.377Z",
     "canonical:3ae1cfaef9a2591f": "2026-09-03T13:32:35.377Z",
     "canonical:045e31874c6731e4": "2026-09-03T13:32:35.377Z",
@@ -3128,7 +3125,6 @@
     "canonical:d66d5106894dc0e8": "2026-09-06T05:17:31.696Z",
     "canonical:92d1a67c025ad2f8": "2026-09-06T09:32:20.327Z",
     "canonical:1ae22981c8ef9f13": "2026-09-06T09:32:20.327Z",
-    "canonical:b8a29a1ae0d517dc": "2026-09-06T09:32:20.327Z",
     "canonical:00053ae33decdf2c": "2026-09-06T09:32:20.327Z",
     "canonical:734ff45905d8a7c8": "2026-09-06T09:32:20.327Z",
     "canonical:d393b8a56da52436": "2026-09-06T09:32:20.327Z",
@@ -3260,7 +3256,12 @@
     "canonical:fb9f02b491c80ae6": "2026-09-06T09:32:20.327Z",
     "canonical:3131eec9a7d47787": "2026-09-06T09:32:20.327Z",
     "canonical:b537d841a790c8e0": "2026-09-06T09:32:20.327Z",
-    "canonical:27a09e08b462cce2": "2026-09-06T09:32:20.327Z"
+    "canonical:27a09e08b462cce2": "2026-09-06T09:32:20.327Z",
+    "canonical:3ad0bf2051cf1983": "2026-09-06T13:06:23.078Z",
+    "canonical:02991317159a1099": "2026-09-06T13:06:23.078Z",
+    "canonical:d1da7b2ac572df8f": "2026-09-06T13:06:23.078Z",
+    "canonical:5ccbdd16c804408f": "2026-09-06T13:06:23.078Z",
+    "canonical:ee2ac1afa3058d54": "2026-09-06T13:06:23.078Z"
   },
   "jobs": [
     {
@@ -4803,9 +4804,9 @@
       ]
     },
     {
-      "id": "canonical:21bb6c7793322c09",
-      "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
-      "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
+      "id": "canonical:a16063f44f44cf5d",
+      "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
       "location": "Los Gatos,California,United States of America",
       "department": "Engineering",
       "company": "Netflix",
@@ -4816,9 +4817,9 @@
       ]
     },
     {
-      "id": "canonical:a16063f44f44cf5d",
-      "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
-      "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
+      "id": "canonical:21bb6c7793322c09",
+      "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
       "location": "Los Gatos,California,United States of America",
       "department": "Engineering",
       "company": "Netflix",
@@ -6122,6 +6123,32 @@
         "SWE-aligned",
         "high-signal role",
         "new grad"
+      ]
+    },
+    {
+      "id": "canonical:3ad0bf2051cf1983",
+      "title": "Software Engineer (CPD) - Winter Intern (Pune)",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537",
+      "location": "Pune",
+      "department": "",
+      "company": "Rubrik",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:02991317159a1099",
+      "title": "Software Engineer - Winter Intern",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523",
+      "location": "Bangalore",
+      "department": "",
+      "company": "Rubrik",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
@@ -9369,20 +9396,6 @@
       "location": "Chicago, IL / NYC",
       "department": "AI/ML/Data",
       "company": "Jump Trading",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:ba545b91215fc20b",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application",
-      "location": "SF",
-      "department": "Software",
-      "company": "Pylon",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -19694,19 +19707,6 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:b8a29a1ae0d517dc",
-      "title": "Summer Analyst Intern - Engineering",
-      "url": "https://higher.gs.com/roles/177808?type=students",
-      "location": "Seattle, WA",
-      "department": "Software",
-      "company": "Goldman Sachs",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
@@ -34848,6 +34848,32 @@
       ]
     },
     {
+      "id": "canonical:d1da7b2ac572df8f",
+      "title": "Engineering New Analyst - Engineering",
+      "url": "https://higher.gs.com/roles/171570?type=students",
+      "location": "Salt Lake City, UT",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:5ccbdd16c804408f",
+      "title": "Engineering New Analyst",
+      "url": "https://higher.gs.com/roles/171568?type=students",
+      "location": "Dallas, TX",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:34f26ea49943bc76",
       "title": "Scenario Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/applied/f382de9d-d5e4-4dc8-85a0-0bae7125f8cf/application?embed=true",
@@ -34867,6 +34893,19 @@
       "title": "Engineering New Analyst - Engineering",
       "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
       "location": "Seattle, WA",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:ee2ac1afa3058d54",
+      "title": "New Analyst - Engineering",
+      "url": "https://higher.gs.com/roles/171569?type=students",
+      "location": "NYC",
       "department": "Software",
       "company": "Goldman Sachs",
       "score": 85,
@@ -39373,20 +39412,6 @@
       ]
     },
     {
-      "id": "canonical:2438ed97afad2000",
-      "title": "Java Software Engineer",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Northrop-Grumman--SkillBridge--Java-Software-Engineer-Level-1-or-2_R10248772",
-      "location": "Aurora, CO / Morrisville, NC / Remote in USA / Linthicum Heights, MD",
-      "department": "Software",
-      "company": "Northrop Grumman",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:c3ade5d603ec177b",
       "title": "AI and Data Engineering Analyst - Government & Public Services",
       "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-AI-Data-Engineering-Winter-2027/365230",
@@ -39940,19 +39965,6 @@
       "score": 75,
       "scoreReasons": [
         "SWE-aligned"
-      ]
-    },
-    {
-      "id": "canonical:fda10fb256f712f9",
-      "title": "Software Engineer 1 - Engineering",
-      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813508995",
-      "location": "Arden Hills, MN",
-      "department": "Software",
-      "company": "Boston Scientific",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
       ]
     },
     {
