@@ -88,6 +88,8 @@ and restore controls. Applied jobs return to the board after 30 days.
 Run `bun run dashboard`, then open
 `http://127.0.0.1:4173/dashboard/`.
 
+![Dashboard preview](docs/dashboard-preview.png)
+
 The `Deploy dashboard` workflow publishes a fresh static artifact to GitHub
 Pages after every push to `main`. A repository owner may need to select
 **GitHub Actions** under **Settings > Pages > Build and deployment** once before
