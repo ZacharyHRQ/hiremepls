@@ -1,16 +1,16 @@
 {
   "Microsoft": {
-    "consecutiveFailures": 24,
+    "consecutiveFailures": 25,
     "lastError": "timed out after 90000ms",
     "alerted": true
   },
   "DeepMind": {
-    "consecutiveFailures": 4,
+    "consecutiveFailures": 5,
     "lastError": "greenhouse deepmind: HTTP 404",
     "alerted": true
   },
   "ClickHouse": {
-    "consecutiveFailures": 37,
+    "consecutiveFailures": 38,
     "lastError": "greenhouse clickhouse: HTTP 404",
     "alerted": true
   }

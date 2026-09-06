@@ -1,6 +1,6 @@
 # Open Internships
 
-**3265** internships across **209/212** companies — last updated 2026-09-06.
+**3259** internships across **209/212** companies — last updated 2026-09-06.
 
 ## Companies
 
@@ -96,7 +96,6 @@
 - [Armadin](#armadin) (2)
 - [Arondite](#arondite) (2)
 - [Arrowstreet Capital](#arrowstreet-capital) (2)
-- [Artefact](#artefact) (1)
 - [Artera](#artera) (1)
 - [Artera Technologies](#artera-technologies) (1)
 - [ASM International](#asm-international) (3)
@@ -186,7 +185,7 @@
 - [Calpion/Plutus Health](#calpion-plutus-health) (1)
 - [Campbell Soup Company](#campbell-soup-company) (1)
 - [Candid Health](#candid-health) (2)
-- [Canonical](#canonical) (2)
+- [Canonical](#canonical) (1)
 - [Cantor Fitzgerald](#cantor-fitzgerald) (1)
 - [Canva](#canva) (7)
 - [Cape](#cape) (1)
@@ -885,7 +884,6 @@
 - [Seven Research](#seven-research) (4)
 - [Shawbrook](#shawbrook) (1)
 - [Sherwin-Williams](#sherwin-williams) (1)
-- [Shift](#shift) (1)
 - [Shirley Ryan AbilityLab](#shirley-ryan-abilitylab) (1)
 - [Shopify](#shopify) (1)
 - [Shure](#shure) (7)
@@ -929,7 +927,7 @@
 - [Southern Company](#southern-company) (1)
 - [Southwest Airlines](#southwest-airlines) (1)
 - [Space Kinetic](#space-kinetic) (1)
-- [SpaceX](#spacex) (33)
+- [SpaceX](#spacex) (31)
 - [Spacial AI](#spacial-ai) (1)
 - [SpAItial](#spaitial) (1)
 - [Specialisterne](#specialisterne) (1)
@@ -1049,7 +1047,6 @@
 - [Two Sigma](#two-sigma) (6)
 - [Uare.ai](#uare-ai) (1)
 - [UBDS Group](#ubds-group) (1)
-- [UJET](#ujet) (1)
 - [UL Solutions](#ul-solutions) (1)
 - [Uncountable](#uncountable) (1)
 - [Uneekor](#uneekor) (1)
@@ -1915,12 +1912,6 @@
 | [Quantitative Developer Intern](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506) | 93 | Boston, MA | Quant | 2026-08-01 |
 | [Quantitative Researcher Intern](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505) | 93 | Boston, MA | Quant | 2026-08-01 |
 
-## Artefact
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Junior Engineer – Graduate](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8611803002) | 99 | London, UK | AI/ML/Data | 2026-09-04 |
-
 ## Artera
 
 | Title | Score | Location | Department | First seen |
@@ -2773,7 +2764,6 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Web Frontend Engineer - Multiple Teams](https://job-boards.greenhouse.io/canonical/jobs/5150422) | 93 | Remote in UK | Software | 2026-09-04 |
 | [Software Engineer – Graduate Level - Python - Cloud](https://job-boards.greenhouse.io/canonical/jobs/3257589) | 99 | La Ronge, SK, Canada | Software | 2026-08-17 |
 
 ## Cantor Fitzgerald
@@ -7949,12 +7939,6 @@
 | --- | --- | --- | --- | --- |
 | [Associate Full Stack Application Developer - Industrial Automation](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2622642) | 85 | Cleveland, OH | Software | 2026-09-04 |
 
-## Shift
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Graduate Data Scientist](https://job-boards.greenhouse.io/shifttechnology/jobs/5910904003) | 99 | London, UK | AI/ML/Data | 2026-09-04 |
-
 ## Shirley Ryan AbilityLab
 
 | Title | Score | Location | Department | First seen |
@@ -8264,8 +8248,6 @@
 | [Software Engineer - Test Infrastructure - C/C++](https://boards.greenhouse.io/spacex/jobs/8637049002) | 93 | West Athens, CA | Software | 2026-09-06 |
 | [Wireless Software Engineer - Starlink](https://boards.greenhouse.io/spacex/jobs/8637814002) | 93 | Palo Alto, CA | Hardware | 2026-09-06 |
 | [Electrical Design Engineer - Starlink Mobile](https://boards.greenhouse.io/spacex/jobs/8563212002) | 83 | Redmond, WA | Hardware | 2026-09-06 |
-| [Application Software Engineer - Manufacturing Systems](https://boards.greenhouse.io/spacex/jobs/8600012002) | 93 | Bastrop, TX | Software | 2026-09-04 |
-| [Software Engineer - Starlink Mobile](https://boards.greenhouse.io/spacex/jobs/8567634002) | 93 | Sunnyvale, CA | Software | 2026-09-04 |
 | [Software Engineer - Test Infrastructure - Application Software](https://boards.greenhouse.io/spacex/jobs/8585072002) | 93 | West Athens, CA | Software | 2026-09-04 |
 | [Software Engineer - Platform Team](https://boards.greenhouse.io/spacex/jobs/8560546002) | 93 | Bastrop, TX | Software | 2026-09-04 |
 | [New Graduate Engineer, Software](https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002) | 99 | Hawthorne, CA | — | 2026-09-03 |
@@ -9444,12 +9426,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Data Engineer](https://apply.workable.com/ubds/j/3E4DD87355/apply) | 93 | London, UK | AI/ML/Data | 2026-09-03 |
-
-## UJET
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [AI Data Engineer](https://job-boards.greenhouse.io/ujet/jobs/4707365005) | 93 | Santa Monica, CA | AI/ML/Data | 2026-09-04 |
 
 ## UL Solutions
 

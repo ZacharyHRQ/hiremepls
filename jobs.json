@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-06T18:16:47.806Z",
+  "generatedAt": "2026-09-06T20:33:51.880Z",
   "companyCount": 212,
   "okCount": 209,
-  "jobCount": 3265,
+  "jobCount": 3259,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -3012,12 +3012,6 @@
     "canonical:822ccb9c35d17df9": "2026-09-04T21:01:40.476Z",
     "canonical:133da8782fe61520": "2026-09-04T21:01:40.476Z",
     "canonical:b1cc84be1fc93573": "2026-09-04T21:01:40.476Z",
-    "canonical:93bff75f2c6eb3c2": "2026-09-04T21:01:40.476Z",
-    "canonical:10a1743e77714195": "2026-09-04T21:01:40.476Z",
-    "canonical:89446af10d081d84": "2026-09-04T21:01:40.476Z",
-    "canonical:7591ca9a5e0227ae": "2026-09-04T21:01:40.476Z",
-    "canonical:f6c55f3ae0ab6133": "2026-09-04T21:01:40.476Z",
-    "canonical:3440703db448edcf": "2026-09-04T21:01:40.476Z",
     "canonical:edb56e3c3a8f80d2": "2026-09-04T23:01:37.225Z",
     "canonical:d48bd665ab1fb77a": "2026-09-04T23:01:37.225Z",
     "canonical:5f4fab728bf6fd06": "2026-09-04T23:01:37.225Z",
@@ -4811,9 +4805,9 @@
       ]
     },
     {
-      "id": "canonical:a16063f44f44cf5d",
-      "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
-      "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
+      "id": "canonical:21bb6c7793322c09",
+      "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
       "location": "Los Gatos,California,United States of America",
       "department": "Engineering",
       "company": "Netflix",
@@ -4824,9 +4818,9 @@
       ]
     },
     {
-      "id": "canonical:21bb6c7793322c09",
-      "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
-      "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
+      "id": "canonical:a16063f44f44cf5d",
+      "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
       "location": "Los Gatos,California,United States of America",
       "department": "Engineering",
       "company": "Netflix",
@@ -25470,20 +25464,6 @@
       ]
     },
     {
-      "id": "canonical:93bff75f2c6eb3c2",
-      "title": "Application Software Engineer - Manufacturing Systems",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8600012002",
-      "location": "Bastrop, TX",
-      "department": "Software",
-      "company": "SpaceX",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:b1c2a0dabb28c5bf",
       "title": "Software Engineer 1 - Trust Tech",
       "url": "https://corporate.trustpilot.com/careers/job/8015788?gh_jid=8015788",
@@ -25598,21 +25578,6 @@
       "location": "London, UK",
       "department": "Software",
       "company": "Abound",
-      "score": 99,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:10a1743e77714195",
-      "title": "Graduate Data Scientist",
-      "url": "https://job-boards.greenhouse.io/shifttechnology/jobs/5910904003",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "Shift",
       "score": 99,
       "scoreReasons": [
         "SWE-aligned",
@@ -25787,21 +25752,6 @@
       ]
     },
     {
-      "id": "canonical:89446af10d081d84",
-      "title": "Junior Engineer – Graduate",
-      "url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8611803002",
-      "location": "London, UK",
-      "department": "AI/ML/Data",
-      "company": "Artefact",
-      "score": 99,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:d478560b453ff30a",
       "title": "Contract Associate Engineer - Software Development",
       "url": "https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/16722",
@@ -25826,20 +25776,6 @@
         "SWE-aligned",
         "high-signal role",
         "new grad",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:7591ca9a5e0227ae",
-      "title": "Software Engineer - Starlink Mobile",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8567634002",
-      "location": "Sunnyvale, CA",
-      "department": "Software",
-      "company": "SpaceX",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
         "direct ATS"
       ]
     },
@@ -25979,20 +25915,6 @@
       ]
     },
     {
-      "id": "canonical:f6c55f3ae0ab6133",
-      "title": "AI Data Engineer",
-      "url": "https://job-boards.greenhouse.io/ujet/jobs/4707365005",
-      "location": "Santa Monica, CA",
-      "department": "AI/ML/Data",
-      "company": "UJET",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:f86fc529be1df907",
       "title": "Software Engineer 1 - Adobe Exp Platform",
       "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260400",
@@ -26003,20 +25925,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:3440703db448edcf",
-      "title": "Web Frontend Engineer - Multiple Teams",
-      "url": "https://job-boards.greenhouse.io/canonical/jobs/5150422",
-      "location": "Remote in UK",
-      "department": "Software",
-      "company": "Canonical",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
