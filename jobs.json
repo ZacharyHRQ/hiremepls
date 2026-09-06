@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T16:13:11.894Z",
+  "generatedAt": "2026-09-06T18:16:47.806Z",
   "companyCount": 212,
   "okCount": 209,
   "jobCount": 3265,
@@ -3911,19 +3911,6 @@
       ]
     },
     {
-      "id": "canonical:a1463d846fbcc734",
-      "title": "Campus C++ Software Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027946",
-      "location": "Singapore",
-      "department": "",
-      "company": "Jump Trading",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:67c28ff06d628597",
       "title": "Campus C++ Software Engineer (Intern)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=8027860",
@@ -3937,10 +3924,10 @@
       ]
     },
     {
-      "id": "canonical:adc1bdd879675b5a",
-      "title": "Campus Data Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7975008",
-      "location": "London",
+      "id": "canonical:a1463d846fbcc734",
+      "title": "Campus C++ Software Engineer (Intern)",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027946",
+      "location": "Singapore",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -3954,6 +3941,19 @@
       "title": "Campus Data Engineer (Intern)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
       "location": "Chicago",
+      "department": "",
+      "company": "Jump Trading",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:adc1bdd879675b5a",
+      "title": "Campus Data Engineer (Intern)",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7975008",
+      "location": "London",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -4002,10 +4002,10 @@
       ]
     },
     {
-      "id": "canonical:53129dadb36c1155",
+      "id": "canonical:748b9a19eca0fd1b",
       "title": "Campus Quantitative Researcher (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027900",
-      "location": "Hong Kong; Shanghai",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8010307",
+      "location": "London; Amsterdam",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -4028,10 +4028,10 @@
       ]
     },
     {
-      "id": "canonical:748b9a19eca0fd1b",
+      "id": "canonical:53129dadb36c1155",
       "title": "Campus Quantitative Researcher (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8010307",
-      "location": "London; Amsterdam",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027900",
+      "location": "Hong Kong; Shanghai",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -4119,6 +4119,18 @@
       ]
     },
     {
+      "id": "canonical:eea417b083785298",
+      "title": "Campus Systems Engineer (Intern)",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
+      "location": "London; Amsterdam",
+      "department": "",
+      "company": "Jump Trading",
+      "score": 75,
+      "scoreReasons": [
+        "SWE-aligned"
+      ]
+    },
+    {
       "id": "canonical:3b590c340646bfa7",
       "title": "Campus Systems Engineer (Intern)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
@@ -4143,18 +4155,6 @@
       ]
     },
     {
-      "id": "canonical:eea417b083785298",
-      "title": "Campus Systems Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
-      "location": "London; Amsterdam",
-      "department": "",
-      "company": "Jump Trading",
-      "score": 75,
-      "scoreReasons": [
-        "SWE-aligned"
-      ]
-    },
-    {
       "id": "canonical:e92aac66bea6b9e8",
       "title": "Campus Trading Team Software Engineer  (Intern)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=7565728",
@@ -4168,10 +4168,10 @@
       ]
     },
     {
-      "id": "canonical:7286f2830b7e7578",
+      "id": "canonical:46205b9335861e9c",
       "title": "Campus UI Software Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019",
-      "location": "Chicago",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7974943",
+      "location": "London",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -4181,10 +4181,10 @@
       ]
     },
     {
-      "id": "canonical:46205b9335861e9c",
+      "id": "canonical:7286f2830b7e7578",
       "title": "Campus UI Software Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7974943",
-      "location": "London",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019",
+      "location": "Chicago",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -4213,6 +4213,20 @@
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7981754",
       "location": "Singapore",
       "department": "",
+      "company": "DRW",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:bd72b8a6944f6777",
+      "title": "Software Developer Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
+      "location": "London, UK",
+      "department": "Software",
       "company": "DRW",
       "score": 93,
       "scoreReasons": [
@@ -4254,20 +4268,6 @@
       "title": "Software Developer Intern",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
       "location": "Chicago, IL",
-      "department": "Software",
-      "company": "DRW",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:bd72b8a6944f6777",
-      "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
-      "location": "London, UK",
       "department": "Software",
       "company": "DRW",
       "score": 93,
@@ -4384,10 +4384,10 @@
       ]
     },
     {
-      "id": "canonical:61aa82c97bde3810",
+      "id": "canonical:2b4e192524dcd4a5",
       "title": "Quantitative Developer Intern",
-      "url": "https://www.tower-research.com/open-positions/?gh_jid=7011493",
-      "location": "Paris",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=8138524",
+      "location": "Singapore",
       "department": "",
       "company": "Tower Research Capital",
       "score": 85,
@@ -4397,10 +4397,10 @@
       ]
     },
     {
-      "id": "canonical:2b4e192524dcd4a5",
+      "id": "canonical:61aa82c97bde3810",
       "title": "Quantitative Developer Intern",
-      "url": "https://www.tower-research.com/open-positions/?gh_jid=8138524",
-      "location": "Singapore",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=7011493",
+      "location": "Paris",
       "department": "",
       "company": "Tower Research Capital",
       "score": 85,
@@ -6359,19 +6359,6 @@
       ]
     },
     {
-      "id": "canonical:e8a5b9fc6e1a4de2",
-      "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
-      "location": "Bengaluru",
-      "department": "",
-      "company": "Stripe",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:8628737f8939c967",
       "title": "Software Engineer Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=8130867",
@@ -6385,10 +6372,10 @@
       ]
     },
     {
-      "id": "canonical:5c02db278d29ada5",
-      "title": "Software Engineer, Intern ",
-      "url": "https://stripe.com/jobs/search?gh_jid=8130807",
-      "location": "Bucharest",
+      "id": "canonical:e8a5b9fc6e1a4de2",
+      "title": "Software Engineer, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
+      "location": "Bengaluru",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -6398,10 +6385,10 @@
       ]
     },
     {
-      "id": "canonical:11201074643ce9db",
-      "title": "Software Engineer, Intern (Summer or Winter)",
-      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
-      "location": "Dublin",
+      "id": "canonical:5c02db278d29ada5",
+      "title": "Software Engineer, Intern ",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130807",
+      "location": "Bucharest",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -6437,31 +6424,16 @@
       ]
     },
     {
-      "id": "canonical:f1b7875beb4816bc",
-      "title": "Software Engineer New Grad",
-      "url": "https://stripe.com/jobs/search?gh_jid=8130930",
-      "location": "London, UK",
-      "department": "Software",
-      "company": "Stripe",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad"
-      ]
-    },
-    {
-      "id": "canonical:43b3c96fb5cd3ef7",
-      "title": "Software Engineer, New Grad",
-      "url": "https://stripe.com/jobs/search?gh_jid=8130922",
-      "location": "Bucharest",
+      "id": "canonical:11201074643ce9db",
+      "title": "Software Engineer, Intern (Summer or Winter)",
+      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
+      "location": "Dublin",
       "department": "",
       "company": "Stripe",
-      "score": 91,
+      "score": 85,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role",
-        "new grad"
+        "high-signal role"
       ]
     },
     {
@@ -6493,6 +6465,34 @@
       ]
     },
     {
+      "id": "canonical:8ec1c20902adca55",
+      "title": "Software Engineer New Grad",
+      "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+      "location": "Toronto, ON, Canada",
+      "department": "Software",
+      "company": "Stripe",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
+      ]
+    },
+    {
+      "id": "canonical:f1b7875beb4816bc",
+      "title": "Software Engineer New Grad",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130930",
+      "location": "London, UK",
+      "department": "Software",
+      "company": "Stripe",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
+      ]
+    },
+    {
       "id": "canonical:d2da0508b4983912",
       "title": "Software Engineer, New Grad",
       "url": "https://stripe.com/jobs/search?gh_jid=8160776",
@@ -6507,11 +6507,11 @@
       ]
     },
     {
-      "id": "canonical:8ec1c20902adca55",
-      "title": "Software Engineer New Grad",
-      "url": "https://stripe.com/jobs/search?gh_jid=8157838",
-      "location": "Toronto, ON, Canada",
-      "department": "Software",
+      "id": "canonical:43b3c96fb5cd3ef7",
+      "title": "Software Engineer, New Grad",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130922",
+      "location": "Bucharest",
+      "department": "",
       "company": "Stripe",
       "score": 91,
       "scoreReasons": [
@@ -6607,7 +6607,7 @@
     {
       "id": "canonical:073e340d37608d22",
       "title": "Software Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845",
       "location": "In-Office",
       "department": "",
       "company": "Cloudflare",
@@ -6845,10 +6845,10 @@
       ]
     },
     {
-      "id": "canonical:65b7744d39e701da",
+      "id": "canonical:ff94ce3e3a61871d",
       "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8696080002?gh_jid=8696080002",
-      "location": "Palo Alto, CA",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002",
+      "location": "Redmond, WA",
       "department": "",
       "company": "SpaceX",
       "score": 99,
@@ -6860,10 +6860,10 @@
       ]
     },
     {
-      "id": "canonical:ff94ce3e3a61871d",
+      "id": "canonical:65b7744d39e701da",
       "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002",
-      "location": "Redmond, WA",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8696080002?gh_jid=8696080002",
+      "location": "Palo Alto, CA",
       "department": "",
       "company": "SpaceX",
       "score": 99,
