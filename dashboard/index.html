@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="A fast filter for the internship and new-grad jobs collected by hiremepls." />
+    <meta name="color-scheme" content="light dark" />
+    <title>hiremepls board</title>
+    <link rel="stylesheet" href="./styles.css?v=1" />
+    <script type="module" src="./app.js?v=1"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#job-list">Skip to openings</a>
+    <header class="topbar">
+      <a class="wordmark" href="./" aria-label="hiremepls board home">
+        <span class="prompt" aria-hidden="true">$</span>
+        <span>hiremepls</span>
+        <small>board</small>
+      </a>
+      <div class="snapshot" aria-live="polite">
+        <span id="source-summary">Reading snapshot</span>
+        <time id="generated-at"></time>
+      </div>
+      <a class="repo-link" href="https://github.com/ZacharyHRQ/hiremepls" target="_blank" rel="noreferrer">Source ↗</a>
+    </header>
+
+    <main>
+      <section class="masthead" aria-labelledby="page-title">
+        <div>
+          <p class="kicker">Internship signal, cut your way</p>
+          <h1 id="page-title">Find the jobs that fit your desk.</h1>
+          <p>Start with quant, then narrow by freshness, signal, and geography.</p>
+        </div>
+        <dl class="tape" aria-label="Snapshot totals">
+          <div><dt>Openings</dt><dd id="total-jobs">...</dd></div>
+          <div><dt>Quant desk</dt><dd id="quant-jobs">...</dd></div>
+          <div><dt>Sources up</dt><dd id="healthy-sources">...</dd></div>
+        </dl>
+      </section>
+
+      <section class="workspace" aria-label="Job board">
+        <aside class="filter-panel">
+          <div class="filter-heading">
+            <h2>Cut the board</h2>
+            <button id="reset-filters" type="button">Reset</button>
+          </div>
+
+          <fieldset class="desk-switcher">
+            <legend>Desk</legend>
+            <label><input type="radio" name="desk" value="all" /><span>Everything</span><strong id="count-all"></strong></label>
+            <label><input type="radio" name="desk" value="quant" checked /><span>Quant</span><strong id="count-quant"></strong></label>
+            <label><input type="radio" name="desk" value="software" /><span>Software</span><strong id="count-software"></strong></label>
+            <label><input type="radio" name="desk" value="ml" /><span>ML + research</span><strong id="count-ml"></strong></label>
+            <label><input type="radio" name="desk" value="data" /><span>Data</span><strong id="count-data"></strong></label>
+          </fieldset>
+
+          <label class="field" for="search">
+            <span>Search</span>
+            <span class="input-shell"><input id="search" type="search" placeholder="Company, title, place" autocomplete="off" /><kbd>/</kbd></span>
+          </label>
+
+          <label class="field" for="window-filter">
+            <span>Freshness</span>
+            <select id="window-filter">
+              <option value="any">Any date</option>
+              <option value="1">Last 24 hours</option>
+              <option value="7">Last 7 days</option>
+              <option value="30">Last 30 days</option>
+            </select>
+          </label>
+
+          <label class="field" for="region-filter">
+            <span>Region</span>
+            <select id="region-filter">
+              <option value="all">Anywhere</option>
+              <option value="remote">Remote</option>
+              <option value="us">United States</option>
+              <option value="europe">Europe</option>
+              <option value="asia">Asia</option>
+              <option value="other">Other</option>
+            </select>
+          </label>
+
+          <label class="field signal-field" for="signal-filter">
+            <span>Minimum signal <output id="signal-value">70</output></span>
+            <input id="signal-filter" type="range" min="0" max="100" step="5" value="70" />
+          </label>
+        </aside>
+
+        <div class="results-panel">
+          <header class="results-heading">
+            <p><strong id="result-count">...</strong> matches</p>
+            <label for="sort-filter"><span>Order</span>
+              <select id="sort-filter">
+                <option value="recent">Fresh first</option>
+                <option value="signal">Signal first</option>
+                <option value="company">Company A-Z</option>
+              </select>
+            </label>
+          </header>
+
+          <div id="loading-state" class="state-panel" role="status" aria-live="polite">
+            <span></span><span></span><span></span><span></span><span></span>
+            <p>Loading the board...</p>
+          </div>
+          <div id="error-state" class="message-state" hidden>
+            <h2>Snapshot unavailable</h2>
+            <p id="error-copy">The job data could not be loaded.</p>
+            <button id="retry" type="button">Try again</button>
+          </div>
+          <div id="empty-state" class="message-state" hidden>
+            <h2>No jobs made this cut</h2>
+            <p>Loosen one filter or reset the board.</p>
+            <button id="empty-reset" type="button">Reset filters</button>
+          </div>
+
+          <ol id="job-list" class="job-list" aria-live="polite"></ol>
+          <button id="show-more" class="show-more" type="button" hidden>Show 50 more</button>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <p>Built on Zac's source snapshot. Apply links go straight to the listing.</p>
+      <p>Press <kbd>/</kbd> to search.</p>
+    </footer>
+  </body>
+</html>

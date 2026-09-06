@@ -72,7 +72,19 @@ npm install
 cp .env.example .env   # add TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID, or omit for dry-run
 npm run check           # one full run: fetch, filter, rank, notify, snapshot
 npm run list             # inspect the current jobs.json snapshot from the CLI
+npm run dashboard        # browse and filter the snapshot at localhost:4173
 ```
+
+## Browse the snapshot
+
+The dependency-free dashboard in `dashboard/` turns the current `jobs.json`
+snapshot into a searchable job board. It opens on the quant desk and supports
+role, freshness, region, score, and text filters. Filter state is encoded in
+the URL, so a specific cut of the board can be bookmarked or shared.
+
+Run `npm run dashboard`, then open
+`http://127.0.0.1:4173/dashboard/`. The same static files can be published from
+the repository root with GitHub Pages.
 
 Environment variables:
 
