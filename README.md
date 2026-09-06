@@ -72,8 +72,8 @@ npm install
 cp .env.example .env   # add TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID, or omit for dry-run
 npm run check           # one full run: fetch, filter, rank, notify, snapshot
 npm run list             # inspect the current jobs.json snapshot from the CLI
-npm run dashboard        # browse and filter the snapshot at localhost:4173
-npm run build:dashboard  # assemble the static GitHub Pages artifact in dist/
+bun run dashboard        # browse and filter the snapshot at localhost:4173
+bun run build:dashboard  # assemble the static GitHub Pages artifact in dist/
 ```
 
 ## Browse the snapshot
@@ -85,7 +85,7 @@ state is encoded in the URL, so a specific cut can be bookmarked or shared.
 Applied jobs and hidden companies are kept in browser-local storage, with undo
 and restore controls. Applied jobs return to the board after 30 days.
 
-Run `npm run dashboard`, then open
+Run `bun run dashboard`, then open
 `http://127.0.0.1:4173/dashboard/`.
 
 The `Deploy dashboard` workflow publishes a fresh static artifact to GitHub

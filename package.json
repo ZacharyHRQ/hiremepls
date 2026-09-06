@@ -6,9 +6,9 @@
   "scripts": {
     "check": "tsx src/index.ts",
     "list": "tsx src/list.ts",
-    "dashboard": "tsx src/dashboard.ts",
-    "build:dashboard": "node scripts/build-dashboard.mjs",
-    "test:dashboard": "node --test dashboard/model.test.js",
+    "dashboard": "bun scripts/serve-dashboard.ts",
+    "build:dashboard": "bun scripts/build-dashboard.ts",
+    "test:dashboard": "bun test dashboard/model.test.js",
     "chat-id": "tsx scripts/get-chat-id.ts",
     "discover:yc": "tsx scripts/discover-yc.ts"
   },

@@ -1,5 +1,4 @@
-import assert from "node:assert/strict";
-import test from "node:test";
+import { expect, test } from "bun:test";
 
 import { ageInDays, classifyDesk, classifyRegion, classifyStage, filterJobs, sortJobs } from "./model.js";
 
@@ -17,23 +16,23 @@ const jobs = [
 ];
 
 test("assigns roles using both employer and title semantics", () => {
-  assert.equal(classifyDesk(jobs[0]), "quant");
-  assert.equal(classifyDesk(jobs[1]), "software");
-  assert.equal(classifyDesk(jobs[2]), "ml");
-  assert.equal(classifyDesk({ company: "Cadence Design Systems", title: "Software Engineer", department: "" }), "software");
-  assert.equal(classifyDesk({ company: "Google", title: "UX Quantitative Researcher", department: "" }), "other");
+  expect(classifyDesk(jobs[0])).toBe("quant");
+  expect(classifyDesk(jobs[1])).toBe("software");
+  expect(classifyDesk(jobs[2])).toBe("ml");
+  expect(classifyDesk({ company: "Cadence Design Systems", title: "Software Engineer", department: "" })).toBe("software");
+  expect(classifyDesk({ company: "Google", title: "UX Quantitative Researcher", department: "" })).toBe("other");
 });
 
 test("maps common locations into regions", () => {
-  assert.equal(classifyRegion("Remote - US"), "remote");
-  assert.equal(classifyRegion("London, UK"), "europe");
-  assert.equal(classifyRegion("Singapore"), "asia");
+  expect(classifyRegion("Remote - US")).toBe("remote");
+  expect(classifyRegion("London, UK")).toBe("europe");
+  expect(classifyRegion("Singapore")).toBe("asia");
 });
 
 test("separates internships, graduate roles, and uncategorized roles", () => {
-  assert.equal(classifyStage({ title: "Software Engineer Intern", department: "" }), "internship");
-  assert.equal(classifyStage({ title: "Graduate Quantitative Developer", department: "" }), "graduate");
-  assert.equal(classifyStage({ title: "Software Engineer", department: "" }), "other");
+  expect(classifyStage({ title: "Software Engineer Intern", department: "" })).toBe("internship");
+  expect(classifyStage({ title: "Graduate Quantitative Developer", department: "" })).toBe("graduate");
+  expect(classifyStage({ title: "Software Engineer", department: "" })).toBe("other");
 });
 
 test("combines desk, region, signal, and freshness filters", () => {
@@ -43,22 +42,22 @@ test("combines desk, region, signal, and freshness filters", () => {
     { desk: "quant", company: "Jane Street", stage: "internship", region: "us", minSignal: 90, window: "7", query: "street" },
     Date.parse("2026-09-06T12:00:00.000Z"),
   );
-  assert.deepEqual(result.map((job) => job.id), ["q1"]);
+  expect(result.map((job) => job.id)).toEqual(["q1"]);
 });
 
 test("excludes undated jobs from bounded freshness windows", () => {
-  assert.equal(ageInDays(jobs[2], snapshot), null);
+  expect(ageInDays(jobs[2], snapshot)).toBeNull();
   const result = filterJobs(
     jobs,
     snapshot,
     { desk: "all", company: "all", stage: "all", region: "all", minSignal: 0, window: "7", query: "" },
     Date.parse("2026-09-06T12:00:00.000Z"),
   );
-  assert.deepEqual(result.map((job) => job.id), ["q1"]);
+  expect(result.map((job) => job.id)).toEqual(["q1"]);
 });
 
 test("sorts by score or company without mutating the input", () => {
-  assert.deepEqual(sortJobs(jobs, snapshot, "signal").map((job) => job.id), ["q1", "m1", "s1"]);
-  assert.deepEqual(sortJobs(jobs, snapshot, "company").map((job) => job.company), ["Figma", "Jane Street", "OpenAI"]);
-  assert.equal(jobs[0].id, "q1");
+  expect(sortJobs(jobs, snapshot, "signal").map((job) => job.id)).toEqual(["q1", "m1", "s1"]);
+  expect(sortJobs(jobs, snapshot, "company").map((job) => job.company)).toEqual(["Figma", "Jane Street", "OpenAI"]);
+  expect(jobs[0].id).toBe("q1");
 });
