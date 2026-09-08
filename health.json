@@ -1,22 +1,22 @@
 {
   "Microsoft": {
-    "consecutiveFailures": 36,
+    "consecutiveFailures": 37,
     "lastError": "timed out after 90000ms",
     "alerted": true
   },
   "DeepMind": {
-    "consecutiveFailures": 16,
+    "consecutiveFailures": 17,
     "lastError": "greenhouse deepmind: HTTP 404",
     "alerted": true
   },
+  "Intercom": {
+    "consecutiveFailures": 1,
+    "lastError": "greenhouse intercom: HTTP 404",
+    "alerted": false
+  },
   "ClickHouse": {
-    "consecutiveFailures": 49,
+    "consecutiveFailures": 50,
     "lastError": "greenhouse clickhouse: HTTP 404",
     "alerted": true
-  },
-  "Anduril": {
-    "consecutiveFailures": 1,
-    "lastError": "timed out after 20000ms",
-    "alerted": false
   }
 }
