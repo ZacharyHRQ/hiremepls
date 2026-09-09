@@ -1,17 +1,27 @@
 {
   "Microsoft": {
-    "consecutiveFailures": 43,
+    "consecutiveFailures": 44,
     "lastError": "timed out after 90000ms",
     "alerted": true
   },
   "DeepMind": {
-    "consecutiveFailures": 23,
+    "consecutiveFailures": 24,
     "lastError": "greenhouse deepmind: HTTP 404",
     "alerted": true
   },
+  "PagerDuty": {
+    "consecutiveFailures": 1,
+    "lastError": "timed out after 20000ms",
+    "alerted": false
+  },
   "ClickHouse": {
-    "consecutiveFailures": 56,
+    "consecutiveFailures": 57,
     "lastError": "greenhouse clickhouse: HTTP 404",
     "alerted": true
+  },
+  "Buildkite": {
+    "consecutiveFailures": 1,
+    "lastError": "timed out after 20000ms",
+    "alerted": false
   }
 }
