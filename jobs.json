@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-10T00:11:36.570Z",
+  "generatedAt": "2026-09-10T04:38:16.275Z",
   "companyCount": 212,
   "okCount": 209,
-  "jobCount": 3462,
+  "jobCount": 3488,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:03c9fa8995a8292a": "2026-05-06T06:42:07.596Z",
@@ -3169,7 +3169,6 @@
     "canonical:12f7a82d87baac33": "2026-09-08T17:18:10.791Z",
     "canonical:450b5071ef0bb63f": "2026-09-08T17:18:10.791Z",
     "canonical:c72ed5180d05d856": "2026-09-08T17:18:10.791Z",
-    "canonical:5d374e4091817e40": "2026-09-08T17:18:10.791Z",
     "canonical:d8ea88b3ca5692cb": "2026-09-08T17:18:10.791Z",
     "canonical:685fa0d3d455538c": "2026-09-08T17:18:10.791Z",
     "canonical:a5fee15f242190ad": "2026-09-08T17:18:10.791Z",
@@ -3329,7 +3328,6 @@
     "canonical:0e832cf115ebb6cf": "2026-09-09T13:47:39.073Z",
     "canonical:0fb742cd2e7e7607": "2026-09-09T13:47:39.073Z",
     "canonical:8a242d2893a5e927": "2026-09-09T13:47:39.073Z",
-    "canonical:8f56163b7d6285b8": "2026-09-09T17:24:47.204Z",
     "canonical:039aed6f2358d959": "2026-09-09T17:24:47.204Z",
     "canonical:c45777a86fa5d49d": "2026-09-09T17:24:47.204Z",
     "canonical:df35ae4c859171ab": "2026-09-09T17:24:47.204Z",
@@ -3368,11 +3366,8 @@
     "canonical:ccaa8f2b9e9ff703": "2026-09-09T17:24:47.204Z",
     "canonical:b94384d3824ea448": "2026-09-09T17:24:47.204Z",
     "canonical:15e05a53f559af2a": "2026-09-09T19:53:49.005Z",
-    "canonical:c53d9e16509a4862": "2026-09-09T19:53:49.005Z",
     "canonical:c663ac01d18bdb73": "2026-09-09T22:05:49.845Z",
-    "canonical:ef0953117b510fb9": "2026-09-09T22:05:49.845Z",
     "canonical:1eab9d844a03d30b": "2026-09-09T22:05:49.845Z",
-    "canonical:ae9336f6db754bf0": "2026-09-09T22:05:49.845Z",
     "canonical:9b94df438c2c3ff1": "2026-09-09T22:05:49.845Z",
     "canonical:4b8a37a15794fbdd": "2026-09-09T22:05:49.845Z",
     "canonical:ea1e16cd4a0246b0": "2026-09-09T22:05:49.845Z",
@@ -3465,7 +3460,38 @@
     "canonical:3aa6284146650797": "2026-09-10T00:11:36.570Z",
     "canonical:67dff8354f48371b": "2026-09-10T00:11:36.570Z",
     "canonical:0fde1a72b5ff814c": "2026-09-10T00:11:36.570Z",
-    "canonical:1869c3e8ff779ad9": "2026-09-10T00:11:36.570Z"
+    "canonical:1869c3e8ff779ad9": "2026-09-10T00:11:36.570Z",
+    "canonical:bd086b2573ed4df6": "2026-09-10T04:38:16.275Z",
+    "canonical:33516ccb1ec2842f": "2026-09-10T04:38:16.275Z",
+    "canonical:11f16c02a7ec05fb": "2026-09-10T04:38:16.275Z",
+    "canonical:4e5290bbfaf74ad9": "2026-09-10T04:38:16.275Z",
+    "canonical:19260cac81eb7ac6": "2026-09-10T04:38:16.275Z",
+    "canonical:89ace1f6a0505b54": "2026-09-10T04:38:16.275Z",
+    "canonical:733edaeb59c49d00": "2026-09-10T04:38:16.275Z",
+    "canonical:3dda3e5826b08965": "2026-09-10T04:38:16.275Z",
+    "canonical:bd32d4cee146e5b4": "2026-09-10T04:38:16.275Z",
+    "canonical:3d7f4d2f900f1401": "2026-09-10T04:38:16.275Z",
+    "canonical:ef5759c6f38bedc6": "2026-09-10T04:38:16.275Z",
+    "canonical:832fbf6a44d53d58": "2026-09-10T04:38:16.275Z",
+    "canonical:5b5789c4006721c9": "2026-09-10T04:38:16.275Z",
+    "canonical:96c51f4e439b1c54": "2026-09-10T04:38:16.275Z",
+    "canonical:5d6c08d4ac866f34": "2026-09-10T04:38:16.275Z",
+    "canonical:a362c32e4fa6c935": "2026-09-10T04:38:16.275Z",
+    "canonical:52d27afceb056cee": "2026-09-10T04:38:16.275Z",
+    "canonical:9a2000ca2889f447": "2026-09-10T04:38:16.275Z",
+    "canonical:1043b7f8f662d09f": "2026-09-10T04:38:16.275Z",
+    "canonical:734ff45905d8a7c8": "2026-09-10T04:38:16.275Z",
+    "canonical:a74de4bd65d39b7e": "2026-09-10T04:38:16.275Z",
+    "canonical:b81521efea482008": "2026-09-10T04:38:16.275Z",
+    "canonical:f9e41ee60c4212ab": "2026-09-10T04:38:16.275Z",
+    "canonical:cfb536df1bcdebec": "2026-09-10T04:38:16.275Z",
+    "canonical:a2707cbc027da0ec": "2026-09-10T04:38:16.275Z",
+    "canonical:e3c4ccdaf7a2597f": "2026-09-10T04:38:16.275Z",
+    "canonical:fa184042b07f42bf": "2026-09-10T04:38:16.275Z",
+    "canonical:b832ac05344b7ec3": "2026-09-10T04:38:16.275Z",
+    "canonical:fdb6b16fd4dd5332": "2026-09-10T04:38:16.275Z",
+    "canonical:b7721b373e95b71d": "2026-09-10T04:38:16.275Z",
+    "canonical:ac81291362622ecd": "2026-09-10T04:38:16.275Z"
   },
   "jobs": [
     {
@@ -4119,10 +4145,10 @@
       ]
     },
     {
-      "id": "canonical:a1463d846fbcc734",
+      "id": "canonical:67c28ff06d628597",
       "title": "Campus C++ Software Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027946",
-      "location": "Singapore",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027860",
+      "location": "Shanghai",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -4132,10 +4158,10 @@
       ]
     },
     {
-      "id": "canonical:67c28ff06d628597",
+      "id": "canonical:a1463d846fbcc734",
       "title": "Campus C++ Software Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027860",
-      "location": "Shanghai",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027946",
+      "location": "Singapore",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -4327,10 +4353,10 @@
       ]
     },
     {
-      "id": "canonical:3b590c340646bfa7",
+      "id": "canonical:4d567555739a50bd",
       "title": "Campus Systems Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
-      "location": "Chicago",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
+      "location": "Singapore",
       "department": "",
       "company": "Jump Trading",
       "score": 75,
@@ -4351,10 +4377,10 @@
       ]
     },
     {
-      "id": "canonical:4d567555739a50bd",
+      "id": "canonical:3b590c340646bfa7",
       "title": "Campus Systems Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
-      "location": "Singapore",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
+      "location": "Chicago",
       "department": "",
       "company": "Jump Trading",
       "score": 75,
@@ -4363,10 +4389,10 @@
       ]
     },
     {
-      "id": "canonical:7286f2830b7e7578",
+      "id": "canonical:46205b9335861e9c",
       "title": "Campus UI Software Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019",
-      "location": "Chicago",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7974943",
+      "location": "London",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -4376,10 +4402,10 @@
       ]
     },
     {
-      "id": "canonical:46205b9335861e9c",
+      "id": "canonical:7286f2830b7e7578",
       "title": "Campus UI Software Engineer (Intern)",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7974943",
-      "location": "London",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019",
+      "location": "Chicago",
       "department": "",
       "company": "Jump Trading",
       "score": 85,
@@ -4417,11 +4443,11 @@
       ]
     },
     {
-      "id": "canonical:81000bcd395c1244",
+      "id": "canonical:f9963438d881a851",
       "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
-      "location": "Montreal, QC, Canada",
-      "department": "Software",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
+      "location": "Amsterdam",
+      "department": "",
       "company": "DRW",
       "score": 93,
       "scoreReasons": [
@@ -4445,11 +4471,11 @@
       ]
     },
     {
-      "id": "canonical:f9963438d881a851",
+      "id": "canonical:81000bcd395c1244",
       "title": "Software Developer Intern",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364",
-      "location": "Amsterdam",
-      "department": "",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
+      "location": "Montreal, QC, Canada",
+      "department": "Software",
       "company": "DRW",
       "score": 93,
       "scoreReasons": [
@@ -6303,20 +6329,6 @@
       ]
     },
     {
-      "id": "canonical:8f56163b7d6285b8",
-      "title": "Software Engineering Intern — Replay Tooling & Test Automation, Autonomous Driving",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086",
-      "location": "Germany, Munich",
-      "department": "",
-      "company": "Nvidia",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:6b38075798f4c32a",
       "title": "2027 Summer Intern, BS, SysEng Software Engineer",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8174099",
@@ -6621,10 +6633,10 @@
       ]
     },
     {
-      "id": "canonical:e8a5b9fc6e1a4de2",
+      "id": "canonical:b225a0af94850a24",
       "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
-      "location": "Bengaluru",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130883",
+      "location": "Singapore",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -6634,10 +6646,10 @@
       ]
     },
     {
-      "id": "canonical:b225a0af94850a24",
+      "id": "canonical:e8a5b9fc6e1a4de2",
       "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8130883",
-      "location": "Singapore",
+      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
+      "location": "Bengaluru",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -6673,6 +6685,19 @@
       ]
     },
     {
+      "id": "canonical:ccf64affa96b01d6",
+      "title": "Software Engineer Intern - Summer or Winter",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130805",
+      "location": "Toronto, ON, Canada",
+      "department": "Software",
+      "company": "Stripe",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:11201074643ce9db",
       "title": "Software Engineer, Intern (Summer or Winter)",
       "url": "https://stripe.com/jobs/search?gh_jid=8097801",
@@ -6699,16 +6724,17 @@
       ]
     },
     {
-      "id": "canonical:ccf64affa96b01d6",
-      "title": "Software Engineer Intern - Summer or Winter",
-      "url": "https://stripe.com/jobs/search?gh_jid=8130805",
-      "location": "Toronto, ON, Canada",
+      "id": "canonical:f1b7875beb4816bc",
+      "title": "Software Engineer New Grad",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130930",
+      "location": "London, UK",
       "department": "Software",
       "company": "Stripe",
-      "score": 85,
+      "score": 91,
       "scoreReasons": [
         "SWE-aligned",
-        "high-signal role"
+        "high-signal role",
+        "new grad"
       ]
     },
     {
@@ -6717,6 +6743,20 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8160776",
       "location": "Singapore",
       "department": "",
+      "company": "Stripe",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
+      ]
+    },
+    {
+      "id": "canonical:8ec1c20902adca55",
+      "title": "Software Engineer New Grad",
+      "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+      "location": "Toronto, ON, Canada",
+      "department": "Software",
       "company": "Stripe",
       "score": 91,
       "scoreReasons": [
@@ -6759,34 +6799,6 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130922",
       "location": "Bucharest",
       "department": "",
-      "company": "Stripe",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad"
-      ]
-    },
-    {
-      "id": "canonical:8ec1c20902adca55",
-      "title": "Software Engineer New Grad",
-      "url": "https://stripe.com/jobs/search?gh_jid=8157838",
-      "location": "Toronto, ON, Canada",
-      "department": "Software",
-      "company": "Stripe",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad"
-      ]
-    },
-    {
-      "id": "canonical:f1b7875beb4816bc",
-      "title": "Software Engineer New Grad",
-      "url": "https://stripe.com/jobs/search?gh_jid=8130930",
-      "location": "London, UK",
-      "department": "Software",
       "company": "Stripe",
       "score": 91,
       "scoreReasons": [
@@ -6922,10 +6934,10 @@
       ]
     },
     {
-      "id": "canonical:b0124f32ded1c9a6",
+      "id": "canonical:9e77b692c483a95e",
       "title": "Software Engineering Intern",
-      "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
-      "location": "Madrid, Spain",
+      "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
+      "location": "Paris, France",
       "department": "",
       "company": "Datadog",
       "score": 85,
@@ -6935,10 +6947,10 @@
       ]
     },
     {
-      "id": "canonical:9e77b692c483a95e",
+      "id": "canonical:b0124f32ded1c9a6",
       "title": "Software Engineering Intern",
-      "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
-      "location": "Paris, France",
+      "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
+      "location": "Madrid, Spain",
       "department": "",
       "company": "Datadog",
       "score": 85,
@@ -7365,6 +7377,21 @@
       ]
     },
     {
+      "id": "canonical:5c783175efb2d21d",
+      "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
+      "location": "Bastrop, TX",
+      "department": "",
+      "company": "SpaceX",
+      "score": 99,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:84beb60eb4400bde",
       "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
       "url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
@@ -7410,10 +7437,10 @@
       ]
     },
     {
-      "id": "canonical:5c783175efb2d21d",
-      "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
-      "location": "Bastrop, TX",
+      "id": "canonical:59a779057245b873",
+      "title": "New Graduate Engineer, Software (Starship)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8743362002?gh_jid=8743362002",
+      "location": "Hawthorne, CA",
       "department": "",
       "company": "SpaceX",
       "score": 99,
@@ -7440,21 +7467,6 @@
       ]
     },
     {
-      "id": "canonical:59a779057245b873",
-      "title": "New Graduate Engineer, Software (Starship)",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8743362002?gh_jid=8743362002",
-      "location": "Hawthorne, CA",
-      "department": "",
-      "company": "SpaceX",
-      "score": 99,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:0c2f1d7fdd81d47c",
       "title": "Spring 2027 Software Engineering Internship/Co-op",
       "url": "https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002",
@@ -7466,6 +7478,19 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:bd086b2573ed4df6",
+      "title": "Backend Services Programmer Intern",
+      "url": "https://epicgames.com/careers/jobs/6183293004?gh_jid=6183293004",
+      "location": "Cary,North Carolina,United States",
+      "department": "",
+      "company": "Epic Games",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
@@ -7494,10 +7519,10 @@
       ]
     },
     {
-      "id": "canonical:7a93e07cc06c9e7e",
+      "id": "canonical:4c8f8fd60da15c40",
       "title": "Web Engineer Intern",
-      "url": "https://epicgames.com/careers/jobs/6174265004?gh_jid=6174265004",
-      "location": "Novi Sad,Vojvodina,Serbia",
+      "url": "https://epicgames.com/careers/jobs/6163851004?gh_jid=6163851004",
+      "location": "London,England,United Kingdom",
       "department": "",
       "company": "Epic Games",
       "score": 75,
@@ -7506,10 +7531,10 @@
       ]
     },
     {
-      "id": "canonical:4c8f8fd60da15c40",
+      "id": "canonical:7a93e07cc06c9e7e",
       "title": "Web Engineer Intern",
-      "url": "https://epicgames.com/careers/jobs/6163851004?gh_jid=6163851004",
-      "location": "London,England,United Kingdom",
+      "url": "https://epicgames.com/careers/jobs/6174265004?gh_jid=6174265004",
+      "location": "Novi Sad,Vojvodina,Serbia",
       "department": "",
       "company": "Epic Games",
       "score": 75,
@@ -12991,20 +13016,6 @@
       ]
     },
     {
-      "id": "canonical:1acb5d1a74182db7",
-      "title": "Quantitative Developer Intern - Summer 2027",
-      "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594",
-      "location": "Dubai - United Arab Emirates / NYC",
-      "department": "Quant",
-      "company": "InfiniteQuant",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:e5e162dd2e1bc6a8",
       "title": "AI Engineering Intern",
       "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Engineering-Intern_R-51782",
@@ -14676,6 +14687,20 @@
       ]
     },
     {
+      "id": "canonical:1acb5d1a74182db7",
+      "title": "Quantitative Developer Internship - Summer 2027",
+      "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000145263134",
+      "location": "Dubai - United Arab Emirates / NYC",
+      "department": "Quant",
+      "company": "InfiniteQuant",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:9a5935ee627b3b0f",
       "title": "Android Application Developer Intern - Summer 2027",
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740",
@@ -14971,6 +14996,20 @@
       "location": "Burlington, MA",
       "department": "Software",
       "company": "Cadence Design Systems",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:c6062debf2a20902",
+      "title": "Quantitative Researcher Intern - Summer 2027",
+      "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000145264634",
+      "location": "Dubai - United Arab Emirates / NYC",
+      "department": "Quant",
+      "company": "InfiniteQuant",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -19852,6 +19891,19 @@
       ]
     },
     {
+      "id": "canonical:33516ccb1ec2842f",
+      "title": "Summer Analyst Intern - Engineering",
+      "url": "https://higher.gs.com/roles/170637?type=students",
+      "location": "Birmingham, UK",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:ae37713f2e83b31b",
       "title": "Summer Analyst Intern - Engineering",
       "url": "https://higher.gs.com/roles/171553?type=students",
@@ -20025,6 +20077,19 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:11f16c02a7ec05fb",
+      "title": "R&D Software Engineer Intern",
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813483108",
+      "location": "Arden Hills, MN",
+      "department": "Hardware",
+      "company": "Boston Scientific",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
@@ -20976,20 +21041,6 @@
       ]
     },
     {
-      "id": "canonical:c6062debf2a20902",
-      "title": "Quantitative Researcher Intern - Summer 2027",
-      "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000147161390",
-      "location": "Dubai - United Arab Emirates / NYC",
-      "department": "Quant",
-      "company": "InfiniteQuant",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:c5fb0f3505e1121e",
       "title": "Software Engineer Summer Analyst - Technology and Innovations",
       "url": "https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Technology---Innovations---Software-Engineer-Summer-Analyst_45358",
@@ -21274,20 +21325,6 @@
       "location": "Toronto, ON, Canada",
       "department": "Software",
       "company": "Intact",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:5d374e4091817e40",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/conductorai/d6a1b110-10ad-4b5e-83a0-88c5fd7bc891/application?embed=true",
-      "location": "NYC",
-      "department": "Software",
-      "company": "ConductorAI",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -23185,6 +23222,219 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:4e5290bbfaf74ad9",
+      "title": "Software Solutions Engineer PhD Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019",
+      "location": "Hillsboro, OR",
+      "department": "Software",
+      "company": "Intel",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:19260cac81eb7ac6",
+      "title": "Software Developer Intern - STP",
+      "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301914",
+      "location": "Jersey City, NJ",
+      "department": "Software",
+      "company": "Tradeweb",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:89ace1f6a0505b54",
+      "title": "AI Software Engineer Intern",
+      "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301902",
+      "location": "Jersey City, NJ",
+      "department": "Software",
+      "company": "Tradeweb",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:733edaeb59c49d00",
+      "title": "Market Data Developer Intern",
+      "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301910",
+      "location": "Jersey City, NJ",
+      "department": "Software",
+      "company": "Tradeweb",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:3dda3e5826b08965",
+      "title": "Credit Software Engineer Intern",
+      "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301915",
+      "location": "Jersey City, NJ",
+      "department": "Software",
+      "company": "Tradeweb",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:bd32d4cee146e5b4",
+      "title": "Java Software Engineer Intern",
+      "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301907",
+      "location": "Jersey City, NJ",
+      "department": "Software",
+      "company": "Tradeweb",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:3d7f4d2f900f1401",
+      "title": "Node.js Developer Intern",
+      "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301912",
+      "location": "Jersey City, NJ",
+      "department": "Software",
+      "company": "Tradeweb",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:ef5759c6f38bedc6",
+      "title": "C++ Distributed Systems Developer Intern - C++ Core Services",
+      "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301903",
+      "location": "Jersey City, NJ",
+      "department": "Software",
+      "company": "Tradeweb",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:832fbf6a44d53d58",
+      "title": "Application Software Engineering Internship - IFI Application",
+      "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301906",
+      "location": "Jersey City, NJ",
+      "department": "Software",
+      "company": "Tradeweb",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:5b5789c4006721c9",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010/apply",
+      "location": "San Diego, CA",
+      "department": "Software",
+      "company": "Shield AI",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:96c51f4e439b1c54",
+      "title": "AI and Compiler Engineering Graduate Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/AI-and-Compiler-Engineering-Graduate-Intern_JR0286850",
+      "location": "Remote in Canada",
+      "department": "Software",
+      "company": "Intel",
+      "score": 99,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:5d6c08d4ac866f34",
+      "title": "Software Engineer Intern - Client Solutions Group Engineering",
+      "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298217",
+      "location": "Austin, TX",
+      "department": "Software",
+      "company": "Dell Technologies",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:a362c32e4fa6c935",
+      "title": "Machine Learning Engineering Intern",
+      "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineering-Graduate-Intern_R016432",
+      "location": "Colorado Springs, CO / El Segundo, CA",
+      "department": "AI/ML/Data",
+      "company": "The Aerospace Corporation",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:52d27afceb056cee",
+      "title": "Systems Engineering Intern",
+      "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Systems-Engineering_JR37479-1",
+      "location": "Indianapolis, IN",
+      "department": "Hardware",
+      "company": "Allegion",
+      "score": 83,
+      "scoreReasons": [
+        "SWE-aligned",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:9a2000ca2889f447",
+      "title": "Firmware Engineer Intern",
+      "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer_JR37333-1",
+      "location": "Indianapolis, IN",
+      "department": "Hardware",
+      "company": "Allegion",
+      "score": 83,
+      "scoreReasons": [
+        "SWE-aligned",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1043b7f8f662d09f",
+      "title": "Engineering Intern - Distributed Ledger Technology - Engineering",
+      "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301905",
+      "location": "Jersey City, NJ",
+      "department": "Software",
+      "company": "Tradeweb",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
@@ -25808,20 +26058,6 @@
       ]
     },
     {
-      "id": "canonical:ef0953117b510fb9",
-      "title": "Junior Firmware Engineer",
-      "url": "https://job-boards.greenhouse.io/scoutai/jobs/4643333008",
-      "location": "Sunnyvale, CA",
-      "department": "Software Engineering",
-      "company": "Scout AI",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:668f6803169f743b",
       "title": "Senior Full Stack Software Engineer",
       "url": "https://jobs.smartrecruiters.com/SourceDirectTalent/743999890004030",
@@ -27406,6 +27642,19 @@
         "SWE-aligned",
         "high-signal role",
         "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:734ff45905d8a7c8",
+      "title": "Software Engineer - Data",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292",
+      "location": "London, UK",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
@@ -29048,19 +29297,6 @@
       "url": "https://www.akunacapital.com/careers/job/8013230/?gh_jid=8013230",
       "location": "Chicago, IL",
       "department": "Software",
-      "company": "Akuna Capital University",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:ae9336f6db754bf0",
-      "title": "Junior Quantitative Researcher",
-      "url": "https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541",
-      "location": "Chicago, IL",
-      "department": "Quant",
       "company": "Akuna Capital University",
       "score": 85,
       "scoreReasons": [
@@ -45148,6 +45384,126 @@
       ]
     },
     {
+      "id": "canonical:a74de4bd65d39b7e",
+      "title": "Semiconductor Packaging Research Engineer",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Semiconductor-Packaging-Research-Engineer_JR0286871",
+      "location": "Hillsboro, OR / Phoenix, AZ",
+      "department": "Hardware",
+      "company": "Intel",
+      "score": 83,
+      "scoreReasons": [
+        "SWE-aligned",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:b81521efea482008",
+      "title": "Software Engineer - AV Frameworks",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Frameworks---Early-Career_JR-202619943",
+      "location": "Sunnyvale, CA",
+      "department": "Software",
+      "company": "General Motors",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:f9e41ee60c4212ab",
+      "title": "Embedded Firmware Development Engineer",
+      "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009554",
+      "location": "Eden Prairie, MN",
+      "department": "Hardware",
+      "company": "Emerson Electric",
+      "score": 75,
+      "scoreReasons": [
+        "SWE-aligned"
+      ]
+    },
+    {
+      "id": "canonical:cfb536df1bcdebec",
+      "title": "Software Engineer",
+      "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009560",
+      "location": "Shakopee, MN",
+      "department": "Software",
+      "company": "Emerson Electric",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:a2707cbc027da0ec",
+      "title": "Software Engineer 1 - IT",
+      "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298784",
+      "location": "Texas",
+      "department": "Software",
+      "company": "Dell Technologies",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:e3c4ccdaf7a2597f",
+      "title": "Systems Engineer - FCSWG Process Master",
+      "url": "https://careers-gdms.icims.com/jobs/74801/job?mobile=true&needsRedirect=false",
+      "location": "Pittsfield, MA",
+      "department": "Software",
+      "company": "General Dynamics Mission Systems",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:fa184042b07f42bf",
+      "title": "Developer",
+      "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA---Data-Analyst_JR4770",
+      "location": "San Diego, CA",
+      "department": "AI/ML/Data",
+      "company": "Axos Bank",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:b832ac05344b7ec3",
+      "title": "Software Engineer New Grad - 2027",
+      "url": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b/application?embed=true",
+      "location": "SF / NYC",
+      "department": "Software",
+      "company": "Anysphere",
+      "score": 99,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:fdb6b16fd4dd5332",
+      "title": "Autonomous Systems Computer Engineer - 2027 Graduate",
+      "url": "https://careers.jhuapl.edu/jobs/59762?icims=1",
+      "location": "Laurel, MD",
+      "department": "Hardware",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "score": 81,
+      "scoreReasons": [
+        "SWE-aligned",
+        "new grad"
+      ]
+    },
+    {
       "id": "canonical:4733e4d1047addcb",
       "title": "Embedded DSP Software Engineer",
       "url": "https://careers.qualcomm.com/careers/job/446704474013",
@@ -45911,19 +46267,6 @@
         "SWE-aligned",
         "high-signal role",
         "new grad"
-      ]
-    },
-    {
-      "id": "canonical:c53d9e16509a4862",
-      "title": "Forward-Deployed Test Engineer",
-      "url": "https://jobs.lever.co/ranger/38ef5184-0c8a-4980-836f-95e23e83ae7d?utm_source=Simplify&ref=Simplify",
-      "location": "San Francisco, CA",
-      "department": "",
-      "company": "Ranger",
-      "score": 83,
-      "scoreReasons": [
-        "SWE-aligned",
-        "direct ATS"
       ]
     },
     {
@@ -49075,6 +49418,20 @@
       ]
     },
     {
+      "id": "canonical:b7721b373e95b71d",
+      "title": "Summer 2027 - Software Engineer Intern",
+      "url": "https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010",
+      "location": "San Diego, California",
+      "department": "Software / Summer 2027",
+      "company": "Shield AI",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:07353f606eef5e76",
       "title": "Software Engineering Intern - Summer 2027 (Atlanta, GA)",
       "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineering-Intern---Summer-2027--Atlanta--GA-_R202682166",
@@ -49401,6 +49758,20 @@
       "location": "O'Fallon, Missouri",
       "department": "Software / Summer 2027",
       "company": "Mastercard",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:ac81291362622ecd",
+      "title": "Quantitative Researcher - Internship - Summer 2027",
+      "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000147161390",
+      "location": "New York, NY, United States",
+      "department": "Quant / Summer 2027",
+      "company": "InfiniteQuant",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
