@@ -1,22 +1,27 @@
 {
-  "Two Sigma": {
-    "consecutiveFailures": 1,
-    "lastError": "timed out after 90000ms",
-    "alerted": false
-  },
   "Microsoft": {
-    "consecutiveFailures": 56,
+    "consecutiveFailures": 57,
     "lastError": "timed out after 90000ms",
     "alerted": true
   },
   "DeepMind": {
-    "consecutiveFailures": 36,
+    "consecutiveFailures": 37,
     "lastError": "greenhouse deepmind: HTTP 404",
     "alerted": true
   },
   "ClickHouse": {
-    "consecutiveFailures": 69,
+    "consecutiveFailures": 70,
     "lastError": "greenhouse clickhouse: HTTP 404",
     "alerted": true
+  },
+  "Faire": {
+    "consecutiveFailures": 1,
+    "lastError": "timed out after 20000ms",
+    "alerted": false
+  },
+  "Anduril": {
+    "consecutiveFailures": 1,
+    "lastError": "timed out after 20000ms",
+    "alerted": false
   }
 }
