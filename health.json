@@ -1,21 +1,16 @@
 {
   "Microsoft": {
-    "consecutiveFailures": 53,
+    "consecutiveFailures": 54,
     "lastError": "timed out after 90000ms",
     "alerted": true
   },
   "DeepMind": {
-    "consecutiveFailures": 33,
+    "consecutiveFailures": 34,
     "lastError": "greenhouse deepmind: HTTP 404",
     "alerted": true
   },
-  "Instacart": {
-    "consecutiveFailures": 1,
-    "lastError": "timed out after 20000ms",
-    "alerted": false
-  },
   "ClickHouse": {
-    "consecutiveFailures": 66,
+    "consecutiveFailures": 67,
     "lastError": "greenhouse clickhouse: HTTP 404",
     "alerted": true
   }
