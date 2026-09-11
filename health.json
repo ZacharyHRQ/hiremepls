@@ -1,27 +1,22 @@
 {
   "Microsoft": {
-    "consecutiveFailures": 57,
+    "consecutiveFailures": 58,
     "lastError": "timed out after 90000ms",
     "alerted": true
   },
+  "Sea Limited": {
+    "consecutiveFailures": 1,
+    "lastError": "timed out after 90000ms",
+    "alerted": false
+  },
   "DeepMind": {
-    "consecutiveFailures": 37,
+    "consecutiveFailures": 38,
     "lastError": "greenhouse deepmind: HTTP 404",
     "alerted": true
   },
   "ClickHouse": {
-    "consecutiveFailures": 70,
+    "consecutiveFailures": 71,
     "lastError": "greenhouse clickhouse: HTTP 404",
     "alerted": true
-  },
-  "Faire": {
-    "consecutiveFailures": 1,
-    "lastError": "timed out after 20000ms",
-    "alerted": false
-  },
-  "Anduril": {
-    "consecutiveFailures": 1,
-    "lastError": "timed out after 20000ms",
-    "alerted": false
   }
 }

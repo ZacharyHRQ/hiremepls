@@ -1,6 +1,6 @@
 # Open Internships
 
-**3547** internships across **207/212** companies — last updated 2026-09-11.
+**3570** internships across **208/212** companies — last updated 2026-09-11.
 
 ## Companies
 
@@ -11,7 +11,8 @@
 - [AArete](#aarete) (1)
 - [ABB](#abb) (1)
 - [AbbVie](#abbvie) (6)
-- [Abound](#abound) (2)
+- [Abound](#abound) (1)
+- [Abridge](#abridge) (1)
 - [Abundant](#abundant) (1)
 - [Accenture](#accenture) (5)
 - [Accora](#accora) (1)
@@ -40,8 +41,8 @@
 - [Alkira](#alkira) (1)
 - [Allegion](#allegion) (4)
 - [Allegro MicroSystems](#allegro-microsystems) (1)
-- [Allen Control Systems](#allen-control-systems) (7)
-- [AllianceBernstein](#alliancebernstein) (1)
+- [Allen Control Systems](#allen-control-systems) (6)
+- [AllianceBernstein](#alliancebernstein) (2)
 - [Allica Bank](#allica-bank) (1)
 - [Allied Solutions](#allied-solutions) (1)
 - [Alpha Nexus Group](#alpha-nexus-group) (1)
@@ -69,7 +70,7 @@
 - [Analog Devices](#analog-devices) (7)
 - [Analytical Mechanics Associates](#analytical-mechanics-associates) (1)
 - [Andrew Morgan](#andrew-morgan) (1)
-- [Anduril](#anduril) (9)
+- [Anduril](#anduril) (15)
 - [Anduril Industries](#anduril-industries) (2)
 - [Anima](#anima) (2)
 - [Antares Nuclear](#antares-nuclear) (1)
@@ -210,7 +211,6 @@
 - [Capital One](#capital-one) (11)
 - [CapTech Consulting](#captech-consulting) (2)
 - [Captivation](#captivation) (1)
-- [Carefeed](#carefeed) (1)
 - [Caris](#caris) (1)
 - [Castleton Commodities International](#castleton-commodities-international) (2)
 - [Caterpillar](#caterpillar) (4)
@@ -232,8 +232,9 @@
 - [CircuitHub](#circuithub) (1)
 - [Cirrus Logic](#cirrus-logic) (1)
 - [Cisco](#cisco) (1)
+- [Citadel](#citadel) (1)
 - [Citizen Health](#citizen-health) (1)
-- [Citizens Financial Group](#citizens-financial-group) (4)
+- [Citizens Financial Group](#citizens-financial-group) (5)
 - [Clarios](#clarios) (1)
 - [Clarity Innovations](#clarity-innovations) (1)
 - [Clasp](#clasp) (1)
@@ -321,6 +322,7 @@
 - [Dick's Sporting Goods](#dick-s-sporting-goods) (1)
 - [DiDi Global](#didi-global) (2)
 - [Diesel Laptops](#diesel-laptops) (1)
+- [DiligenceVault](#diligencevault) (1)
 - [DimeHealth AI](#dimehealth-ai) (1)
 - [Dimensional Fund Advisors](#dimensional-fund-advisors) (3)
 - [Diverge Health](#diverge-health) (1)
@@ -344,7 +346,7 @@
 - [Dune](#dune) (1)
 - [Dunn Solutions Group](#dunn-solutions-group) (3)
 - [Duolingo](#duolingo) (3)
-- [DV Trading](#dv-trading) (4)
+- [DV Trading](#dv-trading) (5)
 - [Dynamic Catholic](#dynamic-catholic) (2)
 - [e-Careers](#e-careers) (2)
 - [EAi Technologies](#eai-technologies) (3)
@@ -353,7 +355,6 @@
 - [Echo Global Logistics](#echo-global-logistics) (1)
 - [Edgehog Trading](#edgehog-trading) (2)
 - [Edison International](#edison-international) (1)
-- [Eikon Therapeutics](#eikon-therapeutics) (1)
 - [Electronic Arts](#electronic-arts) (2)
 - [ElevenLabs](#elevenlabs) (1)
 - [EliseAI](#eliseai) (1)
@@ -384,7 +385,7 @@
 - [Eventual](#eventual) (1)
 - [EvenUp](#evenup) (3)
 - [Everlaw](#everlaw) (1)
-- [Evolver](#evolver) (2)
+- [Evolver](#evolver) (3)
 - [Exa](#exa) (1)
 - [Exa Labs](#exa-labs) (1)
 - [Excellus BCBS](#excellus-bcbs) (3)
@@ -407,7 +408,6 @@
 - [First American](#first-american) (1)
 - [First National Bank](#first-national-bank) (2)
 - [First Quality](#first-quality) (1)
-- [Five Rings](#five-rings) (1)
 - [Five Rings Capital](#five-rings-capital) (4)
 - [Flagship Pioneering](#flagship-pioneering) (1)
 - [FlexAI](#flexai) (1)
@@ -464,8 +464,8 @@
 - [GlobalFoundries](#globalfoundries) (2)
 - [Globus Medical](#globus-medical) (1)
 - [GM financial](#gm-financial) (1)
-- [Goldman Sachs](#goldman-sachs) (1)
-- [Google](#google) (34)
+- [Goldman Sachs](#goldman-sachs) (9)
+- [Google](#google) (33)
 - [Grab](#grab) (2)
 - [Graco](#graco) (2)
 - [Gradient Robotics](#gradient-robotics) (1)
@@ -513,7 +513,7 @@
 - [HoneyWell](#honeywell) (1)
 - [HP IQ](#hp-iq) (7)
 - [HPR (Hyannis Port Research)](#hpr-hyannis-port-research) (1)
-- [Hudl](#hudl) (1)
+- [Hudl](#hudl) (2)
 - [Hudson River Trading](#hudson-river-trading) (6)
 - [Human Computer Lab](#human-computer-lab) (2)
 - [Humana](#humana) (1)
@@ -522,6 +522,7 @@
 - [Hy-Vee](#hy-vee) (1)
 - [Hypercubic](#hypercubic) (1)
 - [HyperLight](#hyperlight) (1)
+- [Hypertherm](#hypertherm) (1)
 - [Iambic Therapeutics](#iambic-therapeutics) (2)
 - [IBM](#ibm) (1)
 - [iboss](#iboss) (1)
@@ -585,7 +586,7 @@
 - [Jobs for Humanity](#jobs-for-humanity) (1)
 - [Jobsbridge](#jobsbridge) (10)
 - [John Gore Organization](#john-gore-organization) (1)
-- [Johns Hopkins Applied Physics Laboratory](#johns-hopkins-applied-physics-laboratory) (40)
+- [Johns Hopkins Applied Physics Laboratory](#johns-hopkins-applied-physics-laboratory) (41)
 - [Johnson & Johnson](#johnson-johnson) (1)
 - [Johnson Controls](#johnson-controls) (1)
 - [JP Morgan Chase](#jp-morgan-chase) (7)
@@ -620,7 +621,7 @@
 - [KOSTAL Group](#kostal-group) (1)
 - [Kustomer](#kustomer) (1)
 - [Kyndryl](#kyndryl) (2)
-- [L3Harris Technologies](#l3harris-technologies) (36)
+- [L3Harris Technologies](#l3harris-technologies) (34)
 - [Lambda](#lambda) (1)
 - [Leggett & Platt](#leggett-platt) (1)
 - [Leidos](#leidos) (10)
@@ -648,7 +649,7 @@
 - [Lumenalta](#lumenalta) (1)
 - [Luminance](#luminance) (4)
 - [Lumotive](#lumotive) (1)
-- [Lyft](#lyft) (1)
+- [Lyft](#lyft) (10)
 - [Lyte AI](#lyte-ai) (1)
 - [M.C. Dean](#m-c-dean) (1)
 - [M3USA](#m3usa) (1)
@@ -663,7 +664,6 @@
 - [ManTech](#mantech) (1)
 - [Manulife Financial](#manulife-financial) (4)
 - [Mapjects](#mapjects) (1)
-- [MARGO](#margo) (1)
 - [Mariana Minerals](#mariana-minerals) (1)
 - [Markem-Imaje](#markem-imaje) (1)
 - [Markon](#markon) (1)
@@ -699,6 +699,7 @@
 - [Micron Technology](#micron-technology) (6)
 - [Microsoft](#microsoft) (13)
 - [Millennium](#millennium) (3)
+- [Millennium Management](#millennium-management) (1)
 - [Mindsmith](#mindsmith) (1)
 - [Mirego](#mirego) (1)
 - [Mistral AI](#mistral-ai) (1)
@@ -764,12 +765,13 @@
 - [Nucleus Biologics](#nucleus-biologics) (1)
 - [Nuro](#nuro) (4)
 - [Nutanix](#nutanix) (2)
-- [Nvidia](#nvidia) (2)
+- [Nvidia](#nvidia) (1)
 - [NVIDIA](#nvidia) (15)
 - [NXP Semiconductors](#nxp-semiconductors) (5)
 - [Obsidian Solutions Group](#obsidian-solutions-group) (1)
 - [Occidental Petroleum](#occidental-petroleum) (1)
 - [OceanComm](#oceancomm) (1)
+- [Okta](#okta) (1)
 - [Old Mission](#old-mission) (5)
 - [Oligo Space](#oligo-space) (1)
 - [Olsson](#olsson) (1)
@@ -834,7 +836,6 @@
 - [Polar Semiconductor](#polar-semiconductor) (3)
 - [Pomerleau](#pomerleau) (1)
 - [pony.ai](#pony-ai) (1)
-- [Pony.ai](#pony-ai) (1)
 - [Porter](#porter) (1)
 - [Poshmark](#poshmark) (1)
 - [Post Holdings](#post-holdings) (1)
@@ -888,6 +889,7 @@
 - [Reflect Orbital](#reflect-orbital) (4)
 - [RegDesk](#regdesk) (1)
 - [Relativity Space](#relativity-space) (1)
+- [Relay](#relay) (1)
 - [Relay Technologies](#relay-technologies) (1)
 - [ReliaQuest](#reliaquest) (1)
 - [RELX](#relx) (3)
@@ -898,7 +900,6 @@
 - [Replit](#replit) (2)
 - [Repsol](#repsol) (3)
 - [Resideo](#resideo) (1)
-- [Resmed](#resmed) (1)
 - [Resonetics](#resonetics) (1)
 - [RESPEC](#respec) (1)
 - [ResponsiveAds](#responsiveads) (1)
@@ -924,7 +925,6 @@
 - [Rover](#rover) (1)
 - [Royal Bank of Canada](#royal-bank-of-canada) (6)
 - [Royal Caribbean Group](#royal-caribbean-group) (1)
-- [RRS Group](#rrs-group) (1)
 - [RTX](#rtx) (30)
 - [Rubrik](#rubrik) (2)
 - [RunSybil](#runsybil) (1)
@@ -946,7 +946,6 @@
 - [Scientific Research Corporation](#scientific-research-corporation) (1)
 - [Scout AI](#scout-ai) (1)
 - [SDSU Research Foundation](#sdsu-research-foundation) (1)
-- [Sea Limited](#sea-limited) (1)
 - [SECURE](#secure) (1)
 - [Seeq](#seeq) (1)
 - [Selector Software](#selector-software) (1)
@@ -1001,7 +1000,7 @@
 - [SOSi](#sosi) (1)
 - [SourceDirect Talent](#sourcedirect-talent) (1)
 - [Southern Company](#southern-company) (1)
-- [SpaceX](#spacex) (34)
+- [SpaceX](#spacex) (35)
 - [Spacial AI](#spacial-ai) (1)
 - [SpAItial](#spaitial) (1)
 - [Specialisterne](#specialisterne) (1)
@@ -1115,7 +1114,6 @@
 - [Tripadvisor](#tripadvisor) (1)
 - [TRM Labs](#trm-labs) (1)
 - [True Anomaly](#true-anomaly) (7)
-- [Truist Bank](#truist-bank) (1)
 - [Trulioo](#trulioo) (1)
 - [Truveta](#truveta) (5)
 - [TSC](#tsc) (4)
@@ -1163,7 +1161,7 @@
 - [Viavi Solutions](#viavi-solutions) (5)
 - [Vigil Labs](#vigil-labs) (1)
 - [Viridien](#viridien) (2)
-- [Virtu Financial](#virtu-financial) (4)
+- [Virtu Financial](#virtu-financial) (5)
 - [Visa](#visa) (5)
 - [Visionist](#visionist) (1)
 - [Vital Lyfe](#vital-lyfe) (1)
@@ -1289,8 +1287,13 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Graduate AI Engineer](https://jobs.ashbyhq.com/Abound/066b6933-ea2d-4a1a-a1a4-2a80d5d3a57f/application) | 99 | London, UK | Software | 2026-08-17 |
 | [Graduate Software Engineer](https://jobs.ashbyhq.com/Abound/7ae69c2b-1dae-40c6-a5b2-8f5b42157263/application) | 99 | London, UK | Software | 2026-08-17 |
+
+## Abridge
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer, Intern](https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883) | 90 | — | Builder | 2026-09-11 |
 
 ## Abundant
 
@@ -1504,7 +1507,6 @@
 | --- | --- | --- | --- | --- |
 | [Systems Test Engineer](https://jobs.ashbyhq.com/allen-control-systems/23b70be8-9f8b-4774-a637-4f4150e48933/application?embed=true) | 83 | Austin, TX | Hardware | 2026-09-09 |
 | [Software Engineering Intern, 2027](https://jobs.ashbyhq.com/allen-control-systems/ed5c58a7-6a3c-474b-aa07-43ff2051cb5c) | 93 | Austin, TX | Software / Summer 2027 | 2026-09-09 |
-| [Systems Engineering Intern](https://jobs.ashbyhq.com/allen-control-systems/9945f76d-6d03-45f0-b431-fc69d31f5476/application?embed=true) | 93 | Austin, TX | AI/ML/Data | 2026-09-09 |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/allen-control-systems/ed5c58a7-6a3c-474b-aa07-43ff2051cb5c/application?embed=true) | 93 | Austin, TX | Hardware | 2026-09-09 |
 | [Software Engineer - All Levels](https://jobs.ashbyhq.com/allen-control-systems/ea9cfc80-583c-48a9-a719-a17f572c6486/application?embed=true) | 93 | Austin, TX / Mountain View, CA | Software | 2026-08-28 |
 | [Software Engineer - Robotics - Motion](https://jobs.ashbyhq.com/allen-control-systems/4495957d-f4af-493d-ba92-2c7e72e618db/application?embed=true) | 93 | Austin, TX / Mountain View, CA | Hardware | 2026-08-28 |
@@ -1514,6 +1516,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Infrastructure Engineering Summer Intern](https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Infrastructure-Engineering-Summer-Intern_R0019749) | 93 | Nashville, Tennessee | Software / Not stated | 2026-09-11 |
 | [Developer - Wealth Planning Tools - Wealth Forecasting System](https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Nashville-Tennessee/Developer_R0019142-2) | 93 | Nashville, TN | Software | 2026-08-17 |
 
 ## Allica Bank
@@ -1778,6 +1781,12 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [2026 Early Career Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007) | 93 | Atlanta, Georgia, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Seattle, Washington, United States | — | 2026-09-11 |
+| [2026 Software Engineering Intern](https://boards.greenhouse.io/andurilindustries/jobs/5211077007?gh_jid=5211077007) | 93 | Sydney, New South Wales, Australia | — | 2026-09-11 |
+| [2027 Early Career Flight Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007) | 93 | Costa Mesa, California, United States | — | 2026-09-11 |
+| [2027 Early Career Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007) | 93 | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | — | 2026-09-11 |
+| [2027 Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5231488007?gh_jid=5231488007) | 93 | Dublin, Dublin, Ireland | — | 2026-09-11 |
+| [2026 Robotics Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5211095007?gh_jid=5211095007) | 83 | Sydney, New South Wales, Australia | — | 2026-09-11 |
 | [Agentic AI Engineer - Automation](https://boards.greenhouse.io/andurilindustries/jobs/5219383007) | 93 | Costa Mesa, CA | Software | 2026-09-11 |
 | [Early Career Flight Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5228868007) | 93 | Costa Mesa, CA | Hardware | 2026-09-11 |
 | [Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5162263007) | 93 | Boston, MA / Seattle, WA / Newport Beach, CA / Irvine, CA / Atlanta, GA | Software | 2026-09-11 |
@@ -3043,12 +3052,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer 0 - Multiple Teams](https://job-boards.greenhouse.io/captivation/jobs/5384983008) | 93 | Annapolis Junction, MD | Software | 2026-09-11 |
 
-## Carefeed
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Support Engineer](https://job-boards.greenhouse.io/carefeed/jobs/4985407008) | 93 | Chicago, IL | Software | 2026-09-11 |
-
 ## Caris
 
 | Title | Score | Location | Department | First seen |
@@ -3196,6 +3199,12 @@
 | --- | --- | --- | --- | --- |
 | [Software Consulting Engineer I (Intern) United States](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/USA-RESEARCH-TRIANGLE-PARK/Software-Consulting-Engineer-I--Intern--United-States_2025180) | 93 | USA-RESEARCH TRIANGLE PARK | Software / Not stated | 2026-09-09 |
 
+## Citadel
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer, Intern (Summer 2026)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002?fbclid=PAQ0xDSwK38VtleHRuA2FlbQIxMQABpwFCtP3w0jUMJ2UyUfRb7jqEW6gF5Rr31twvg5geVxUyYXlmmQrGSEf9O3Pw_aem_MfePXp-UnrQgRcTvm_Lh4Q) | 93 | Chicago | — | 2026-09-11 |
+
 ## Citizen Health
 
 | Title | Score | Location | Department | First seen |
@@ -3206,6 +3215,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Cloud Engineer Summer 2027 Intern \| Enterprise Technology & Security Summer Internship Program](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49284) | 85 | United States | Security / Summer 2027 | 2026-09-11 |
 | [Data Engineer](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49290) | 85 | Plano, TX / Johnston, RI / Phoenix, AZ | AI/ML/Data | 2026-09-11 |
 | [Data Engineer Intern - Enterprise Technology & Security](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285) | 85 | Plano, TX / Johnston, RI / Phoenix, AZ | AI/ML/Data | 2026-09-11 |
 | [Software Engineer](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49291) | 85 | Plano, TX / Johnston, RI / Phoenix, AZ | Software | 2026-09-11 |
@@ -3252,7 +3262,7 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern - Fall 2026](https://boards.greenhouse.io/cloudflare/jobs/8118855) | 93 | London, UK | Software | 2026-08-20 |
-| [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855) | 93 | In-Office | — | 2026-08-11 |
+| [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | 93 | In-Office | — | 2026-08-11 |
 | [Software Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8052785) | 93 | Austin, TX | Software | 2026-07-20 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | 93 | In-Office | — | 2026-07-20 |
 | [Systems Engineer – Data Residency Intern - Global Resource Management](https://boards.greenhouse.io/cloudflare/jobs/8015230) | 93 | Austin, TX | Software | 2026-07-02 |
@@ -3829,6 +3839,12 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer](https://jobs.smartrecruiters.com/DieselLaptops/743999719953833) | 93 | Dallas, TX | Software | 2026-08-18 |
 
+## DiligenceVault
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [AI Engineer Intern](https://diligencevault.applytojob.com/apply/Yo3RhxiDyM/AI-Engineer-Intern) | 85 | NYC | Software | 2026-09-11 |
+
 ## DimeHealth AI
 
 | Title | Score | Location | Department | First seen |
@@ -3999,6 +4015,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Developer Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4733138005) | 93 | New York | Software / Summer 2027 | 2026-09-11 |
 | [Graduate Software Engineer - DV Commodities](https://job-boards.greenhouse.io/dvtrading/jobs/4719126005) | 99 | NYC | Software | 2026-09-11 |
 | [AI Engineer Intern](https://job-boards.greenhouse.io/dvtrading/jobs/4732429005) | 93 | Chicago, IL | Software | 2026-09-10 |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/dvtrading/jobs/4719119005) | 93 | NYC | Software | 2026-08-11 |
@@ -4056,12 +4073,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software/Data Engineering Intern](https://apply.edisoncareers.com/job/Chino-2027-Summer-Internship-SoftwareData-Engineering-(Chino)-CA-91710/1424663800/?ats=successfactors) | 85 | Chino, CA | AI/ML/Data | 2026-09-01 |
-
-## Eikon Therapeutics
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer 1](https://job-boards.greenhouse.io/eikontherapeutics/jobs/5234127007) | 93 | Millbrae, CA | AI/ML/Data | 2026-09-11 |
 
 ## Electronic Arts
 
@@ -4267,6 +4278,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Generative AI Engineer - Python](https://job-boards.greenhouse.io/evolver/jobs/4092111009) | 93 | Palo Alto, CA | Software | 2026-09-11 |
 | [Research Scientist - Autonomous Systems](https://job-boards.greenhouse.io/evolver/jobs/4402412009) | 93 | Palo Alto, CA | AI/ML/Data | 2026-09-11 |
 | [Research Scientist - Information Theory and Statistical Inference](https://job-boards.greenhouse.io/evolver/jobs/4402424009) | 93 | Palo Alto, CA | AI/ML/Data | 2026-09-11 |
 
@@ -4430,12 +4442,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Analytics Engineer Intern/Co-op - Analytics Engineer](https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-SC-Anderson/INTERN-OR-CO-OP---Analytics-Engineer_R9813) | 93 | Anderson, SC | AI/ML/Data | 2026-07-21 |
-
-## Five Rings
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Summer Intern 2026 - Software Developer](https://job-boards.greenhouse.io/fiveringsllc/jobs/4806713008) | 93 | New York | — | 2026-09-11 |
 
 ## Five Rings Capital
 
@@ -4867,6 +4873,14 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Engineering New Analyst - Engineering](https://higher.gs.com/roles/171570?type=students) | 85 | Salt Lake City, UT | Software | 2026-09-11 |
+| [Summer Analyst Intern - Americas - Engineering](https://higher.gs.com/roles/171564?type=students) | 85 | NYC | Software | 2026-09-11 |
+| [Summer Analyst Intern - Americas - Engineering](https://higher.gs.com/roles/171567?type=students) | 85 | Toronto, ON, Canada | Software | 2026-09-11 |
+| [Summer Analyst Intern - Americas - Engineering](https://higher.gs.com/roles/171565?type=students) | 85 | Salt Lake City, UT | Software | 2026-09-11 |
+| [Summer Analyst Intern - Engineering](https://higher.gs.com/roles/170644?type=students) | 85 | London, UK | Software | 2026-09-11 |
+| [Summer Analyst Intern - Engineering](https://higher.gs.com/roles/177808?type=students) | 85 | Seattle, WA | Software | 2026-09-11 |
+| [Summer Analyst Intern - Engineering](https://higher.gs.com/roles/170637?type=students) | 85 | Birmingham, UK | Software | 2026-09-11 |
+| [Summer Analyst Intern - Engineering](https://higher.gs.com/roles/171553?type=students) | 85 | Dallas, TX | Software | 2026-09-11 |
 | [Software Engineer - Data](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292) | 85 | London, UK | Software | 2026-09-11 |
 
 ## Google
@@ -4890,7 +4904,6 @@
 | [Software Engineer, Google Wallet, Physical Access](https://www.google.com/about/careers/applications/jobs/results/112524389945090758-software-engineer-google-wallet-physical-access?target_level=EARLY&target_level=INTERN) | 85 | Singapore | — | 2026-09-03 |
 | [UX Quantitative Researcher II](https://www.google.com/about/careers/applications/jobs/results/94927533123740358-ux-quantitative-researcher-ii?target_level=EARLY&target_level=INTERN&page=4) | 85 | Seattle, WA, USA | — | 2026-09-03 |
 | [Data Center Facilities Engineer, Controls (English)](https://www.google.com/about/careers/applications/jobs/results/94258995694314182-data-center-facilities-engineer-controls-english?target_level=EARLY&target_level=INTERN&page=4) | 75 | Inzai, Chiba, Japan | — | 2026-09-03 |
-| [Network Implementation Engineer, Network Delivery Implementation](https://www.google.com/about/careers/applications/jobs/results/87970615964639942-network-implementation-engineer-network-delivery-implementation?target_level=EARLY&target_level=INTERN&page=3) | 75 | Pryor Creek, OK, USA | — | 2026-09-03 |
 | [Network Implementation Engineer, Production Network Implementation](https://www.google.com/about/careers/applications/jobs/results/84341669247230662-network-implementation-engineer-production-network-implementation?target_level=EARLY&target_level=INTERN&page=4) | 75 | Council Bluffs, IA, USA | — | 2026-09-03 |
 | [Software Developer Intern](https://www.google.com/about/careers/applications/jobs/results/112518690523488966) | 85 | Montreal, QC, Canada / Toronto, ON, Canada / Waterloo, ON, Canada | Software | 2026-09-01 |
 | [Software Engineer Intern - Multiple Teams](https://www.google.com/about/careers/applications/jobs/results/94172495052972742) | 85 | Palo Alto, CA / Cambridge, MA / Madison, WI / Seattle, WA / Houston, TX / SF / Austin, TX / LA / San Jose, CA / Irvine, CA / South SF / Redwood City, CA / Raleigh, NC / San Bruno, CA / Redmond, WA / Durham, NC / Santa Cruz, CA / Chicago, IL / Goleta, CA / Pittsburgh, PA / Kirkland, WA / Reston, VA / NYC / Bellevue, WA / Sunnyvale, CA / Mountain View, CA / Portland, OR / Boulder, CO / Atlanta, GA / San Diego, CA | Software | 2026-08-31 |
@@ -5234,6 +5247,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Quality Assurance Engineering Intern](https://job-boards.greenhouse.io/hudl/jobs/8155102) | 93 | Lincoln, NE, United States | Software / Summer 2027 | 2026-09-11 |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/hudl/jobs/8114314) | 93 | Lincoln, NE | Software | 2026-09-10 |
 
 ## Hudson River Trading
@@ -5290,6 +5304,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://apply.workable.com/hyperlight/j/5581EA0668/) | 93 | Cambridge, MA | — | 2026-08-17 |
+
+## Hypertherm
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Summer Intern - Software Engineering](https://hypertherm.wd503.myworkdayjobs.com/hypertherm-careers/job/West-Lebanon-NH/Summer-Intern---Software-Engineering_R4005) | 93 | West Lebanon, NH | Software / Summer 2027 | 2026-09-11 |
 
 ## Iambic Therapeutics
 
@@ -5759,6 +5779,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Decision Science Intern - Software Engineer](https://careers.jhuapl.edu/jobs/60040?icims=1) | 85 | Laurel, MD | Software | 2026-09-11 |
 | [Software Engineer New Grad - Multiple Teams](https://careers.jhuapl.edu/jobs/59817?icims=1) | 91 | Laurel, MD | Software | 2026-09-10 |
 | [Engineering/Science Intern - Tailored Autonomous Systems](https://careers.jhuapl.edu/jobs/59968?icims=1) | 85 | Laurel, MD | AI/ML/Data | 2026-09-10 |
 | [Robotics & Autonomous Systems Engineer - Tailored Autonomous Systems](https://careers.jhuapl.edu/jobs/59984?icims=1) | 85 | Laurel, MD | AI/ML/Data | 2026-09-10 |
@@ -6100,14 +6121,12 @@
 | [Application Developer Intern](https://jobs.l3harris.com/job/Melbourne-Application-Developer-Intern-FL-32919/1425611200/?ats=successfactors) | 85 | Melbourne, FL | Software | 2026-09-02 |
 | [Application Developer Intern](https://jobs.l3harris.com/job/Rochester-Application-Developer-Intern-NY-14606/1425604500/?ats=successfactors) | 85 | Rochester, NY | Software | 2026-09-02 |
 | [Senior Associate - Software Engineering](https://jobs.l3harris.com/job/Nashville-Senior-Associate,-Software-Engineering-TN-37203/1425448900/?ats=successfactors) | 85 | Nashville, TN | Hardware | 2026-09-01 |
-| [Software Engineer Intern - Digital Signal Processing](https://jobs.l3harris.com/job/Wilmington-Intern,-Software-Engineer-MA-01887/1425515000/?ats=successfactors) | 85 | Wilmington, MA | Hardware | 2026-09-01 |
 | [Engineering Operations Intern](https://jobs.l3harris.com/job/Waco-Intern,-Engineering-Operations-TX-76705/1423786200/?ats=successfactors) | 85 | Waco, TX | AI/ML/Data | 2026-08-27 |
 | [Software Engineer Intern](https://jobs.l3harris.com/job/Northampton-Intern,-Software-Engineer-MA-01060/1423747400/?ats=successfactors) | 85 | Northampton, MA | Hardware | 2026-08-26 |
 | [Image Science Engineer Intern](https://jobs.l3harris.com/job/Rochester-Intern-C,-Image-Science-Engineer-NY-14624/1423112200/?ats=successfactors) | 85 | Rochester, NY | AI/ML/Data | 2026-08-26 |
 | [Associate Software Engineer](https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineer-CO-80916/1423789000/?ats=successfactors) | 85 | Colorado Springs, CO | Hardware | 2026-08-25 |
 | [Data Architect Senior Associate - Business Intelligence](https://jobs.l3harris.com/job/Melbourne-Senior-Associate,-Data-Architect-FL-32901/1420890800/?ats=successfactors) | 85 | Salt Lake City, UT / Rochester, NY / Nashville, TN / Londonderry, NH / Clifton, NJ / Melbourne, FL / Carlsbad, CA | AI/ML/Data | 2026-08-19 |
 | [Software Engineer Intern](https://jobs.l3harris.com/job/Colorado-Springs-Intern-C,-Software-Engineer-CO-80916/1423742600/?ats=successfactors) | 85 | Colorado Springs, CO | Hardware | 2026-08-18 |
-| [Software Engineer Intern](https://jobs.l3harris.com/job/Herndon-Software-Engineer-Intern-VA-20171/1413343400/?ats=successfactors) | 85 | Herndon, VA | Hardware | 2026-08-18 |
 | [Software Engineer Intern](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1420340500/?ats=successfactors) | 85 | Palm Bay, FL | Hardware | 2026-08-18 |
 | [Software Engineer Intern](https://jobs.l3harris.com/job/Greenville-Intern,-Software-Engineer-Spring-2027-TX-75402/1420331200/?ats=successfactors) | 85 | Greenville, TX | Hardware | 2026-08-18 |
 | [Software Engineering Associate](https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineering-VA-20171/1414531300/?ats=successfactors) | 85 | Reston, VA | — | 2026-08-17 |
@@ -6299,6 +6318,15 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Data Engineer Intern (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002) | 85 | Toronto, Canada | — | 2026-09-11 |
+| [Software Engineer Intern, Backend (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002) | 85 | San Francisco, CA | — | 2026-09-11 |
+| [Software Engineer Intern, Backend (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8767715002?gh_jid=8767715002) | 85 | Mexico City, Mexico | — | 2026-09-11 |
+| [Software Engineer Intern, Backend (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8796054002?gh_jid=8796054002) | 85 | Montreal, Canada | — | 2026-09-11 |
+| [Software Engineer Intern, Backend (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8767710002?gh_jid=8767710002) | 85 | Toronto, Canada | — | 2026-09-11 |
+| [Software Engineer Intern, Frontend (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8797819002?gh_jid=8797819002) | 85 | Mexico City, Mexico | — | 2026-09-11 |
+| [Software Engineer Intern, Fullstack (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002) | 85 | Toronto, Canada | — | 2026-09-11 |
+| [Software Engineer Intern, Fullstack (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8797837002?gh_jid=8797837002) | 85 | New York, NY | — | 2026-09-11 |
+| [Software Engineer Intern, Test Automation (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8767534002?gh_jid=8767534002) | 85 | Montreal, Canada | — | 2026-09-11 |
 | [Software Engineer, Rider](https://app.careerpuck.com/job-board/lyft/job/8022809002) | 85 | New York, NY | — | 2026-08-17 |
 
 ## Lyte AI
@@ -6390,12 +6418,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [MicroStrategy Developer](https://jobs.smartrecruiters.com/Mapjectscom/79514410) | 93 | Fairfax, VA | AI/ML/Data | 2026-08-17 |
-
-## MARGO
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Rapid Application Developer - Java](https://jobs.lever.co/margo-group/c23cae4d-bf0a-45ea-b1ba-8b201eac213c/apply) | 93 | London, UK | Software | 2026-08-17 |
 
 ## Mariana Minerals
 
@@ -6656,6 +6678,12 @@
 | [Quantitative Developer Intern](https://career.mlp.com/careers/job/755957819661) | 85 | New York, NY | — | 2026-08-21 |
 | [Applied AI Engineer Intern](https://career.mlp.com/careers/job/755957778848) | 75 | Miami, FL | — | 2026-08-21 |
 | [Applied AI Engineer Intern](https://career.mlp.com/careers/job/755957778821) | 75 | New York, NY | — | 2026-08-21 |
+
+## Millennium Management
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Off-Cycle Trading Intern - Quantitative Researcher, 2026, Hong Kong](https://mlp.eightfold.ai/careers/job/755956742250) | 85 | Hong Kong, Hong Kong | Trading | 2026-09-11 |
 
 ## Mindsmith
 
@@ -7145,7 +7173,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [System Application Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Application-Engineer--RDSS-Intern-_JR2025314) | 83 | Taiwan, Taipei | — | 2026-09-11 |
-| [System Software Engineering Intern, GPU - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334) | 93 | 2 Locations | — | 2026-09-10 |
 
 ## NVIDIA
 
@@ -7194,6 +7221,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Embedded Software Engineer - DSP](https://apply.workable.com/oceancomm/j/912979C2F0/apply) | 93 | Chicago, IL | Hardware | 2026-08-25 |
+
+## Okta
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer I](https://www.okta.com/company/careers/product/software-engineer-i-7169515/) | 85 | Toronto, Canada | — | 2026-09-11 |
 
 ## Old Mission
 
@@ -7738,12 +7771,6 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer Intern](https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/apply) | 93 | Fremont, CA | Software | 2026-08-01 |
 
-## Pony.ai
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer Intern - Generalist](https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/) | 93 | Fremont, California, United States | Software / Not stated | 2026-09-11 |
-
 ## Porter
 
 | Title | Score | Location | Department | First seen |
@@ -8123,6 +8150,12 @@
 | --- | --- | --- | --- | --- |
 | [AI Software Engineer - Terrestrial Software - AI, Data and Platform Engineering](https://boards.greenhouse.io/relativity/jobs/8726261002) | 93 | Long Beach, CA | Software | 2026-09-11 |
 
+## Relay
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineer Associate - Embedded Development](https://job-boards.greenhouse.io/relaypro/jobs/7968124) | 93 | Raleigh, NC | Hardware | 2026-09-11 |
+
 ## Relay Technologies
 
 | Title | Score | Location | Department | First seen |
@@ -8187,12 +8220,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Firmware Engineer 1](https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19224) | 75 | Aurora, IL | Hardware | 2026-08-21 |
-
-## Resmed
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Associate Software Engineer - Digital Product Engineering - Internet-of-Things](https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/San-Diego-CA-United-States/Associate-Software-Engineer_JR_053125) | 93 | San Diego, CA | Software | 2026-08-17 |
 
 ## Resonetics
 
@@ -8370,12 +8397,6 @@
 | --- | --- | --- | --- | --- |
 | [Associate Engineer, Software](https://jobs.royalcaribbeangroup.com/job/Miramar-Associate-Engineer%2C-Software-FL-33132/1314694500/) | 85 | Miramar, FL | — | 2026-08-17 |
 
-## RRS Group
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Engineering Intern](https://jobs.smartrecruiters.com/RRSGroup/744000148188340) | 93 | SF | AI/ML/Data | 2026-09-08 |
-
 ## RTX
 
 | Title | Score | Location | Department | First seen |
@@ -8548,12 +8569,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Graduate Student ISR Department Lead Systems Engineer - Task](https://careers-sdsurf.icims.com/jobs/20015/job?mobile=true&needsRedirect=false) | 81 | San Diego, CA | Hardware | 2026-09-04 |
-
-## Sea Limited
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Backend Engineer Intern](https://career.sea.com/position/J02044564) | 85 | Singapore | Engineering and Technology | 2026-09-11 |
 
 ## SECURE
 
@@ -8930,6 +8945,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer - Test Infrastructure - Application Software](https://boards.greenhouse.io/spacex/jobs/8585072002) | 93 | West Athens, CA | Software | 2026-09-11 |
 | [Software Engineer New Grad - Software](https://boards.greenhouse.io/spacex/jobs/8696058002) | 99 | Redmond, WA | Hardware | 2026-09-11 |
 | [Software Engineer New Grad - Software](https://boards.greenhouse.io/spacex/jobs/8729121002) | 99 | Brownsville, TX | Software | 2026-09-11 |
 | [Software Engineer New Grad - Software - Application Software](https://boards.greenhouse.io/spacex/jobs/8730567002) | 99 | Hawthorne, CA | Software | 2026-09-11 |
@@ -8949,15 +8965,15 @@
 | [Electrical Design Engineer - Starlink Mobile](https://boards.greenhouse.io/spacex/jobs/8563212002) | 83 | Redmond, WA | Hardware | 2026-09-11 |
 | [New Graduate Engineer, Software](https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002) | 99 | Hawthorne, CA | — | 2026-09-10 |
 | [New Graduate Engineer, Software  - '26/'27  (Starlink)](https://boards.greenhouse.io/spacex/jobs/8696097002?gh_jid=8696097002) | 99 | Bastrop, TX | — | 2026-09-10 |
-| [New Graduate Engineer, Software - '26/'27 (Starlink)](https://boards.greenhouse.io/spacex/jobs/8696080002?gh_jid=8696080002) | 99 | Palo Alto, CA | — | 2026-09-10 |
 | [New Graduate Engineer, Software - '26/'27 (Starlink)](https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002) | 99 | Redmond, WA | — | 2026-09-10 |
+| [New Graduate Engineer, Software - '26/'27 (Starlink)](https://boards.greenhouse.io/spacex/jobs/8696080002?gh_jid=8696080002) | 99 | Palo Alto, CA | — | 2026-09-10 |
 | [New Graduate Engineer, Software (Application Software)](https://boards.greenhouse.io/spacex/jobs/8730567002?gh_jid=8730567002) | 99 | Hawthorne, CA | — | 2026-09-10 |
-| [New Graduate Engineer, Software (Starship)](https://boards.greenhouse.io/spacex/jobs/8743362002?gh_jid=8743362002) | 99 | Hawthorne, CA | — | 2026-09-10 |
 | [New Graduate Engineer, Software (Starship)](https://boards.greenhouse.io/spacex/jobs/8729121002?gh_jid=8729121002) | 99 | Starbase, TX | — | 2026-09-10 |
-| [New Graduate Engineer, Software Security - '26/'27 (Starlink)](https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002) | 99 | Bastrop, TX | — | 2026-09-10 |
+| [New Graduate Engineer, Software (Starship)](https://boards.greenhouse.io/spacex/jobs/8743362002?gh_jid=8743362002) | 99 | Hawthorne, CA | — | 2026-09-10 |
 | [New Graduate Engineer, Software Security - '26/'27 (Starlink)](https://boards.greenhouse.io/spacex/jobs/8724316002?gh_jid=8724316002) | 99 | Hawthorne, CA | — | 2026-09-10 |
 | [New Graduate Engineer, Software Security - '26/'27 (Starlink)](https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002) | 99 | Palo Alto, CA | — | 2026-09-10 |
 | [New Graduate Engineer, Software Security - '26/'27 (Starlink)](https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002) | 99 | Redmond, WA | — | 2026-09-10 |
+| [New Graduate Engineer, Software Security - '26/'27 (Starlink)](https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002) | 99 | Bastrop, TX | — | 2026-09-10 |
 | [Spring 2027 Software Engineering Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002) | 93 | Flexible - Any SpaceX Site | — | 2026-09-10 |
 | [Software Engineer - Platform Team](https://boards.greenhouse.io/spacex/jobs/8560546002) | 93 | Bastrop, TX | Software | 2026-09-04 |
 | [New Graduate Engineer - Software](https://boards.greenhouse.io/spacex/jobs/8493079002) | 99 | West Athens, CA | Hardware | 2026-08-17 |
@@ -9113,14 +9129,14 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130883) | 85 | Singapore | — | 2026-09-07 |
 | [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8160776) | 91 | Singapore | — | 2026-09-03 |
-| [Software Engineer New Grad](https://stripe.com/jobs/search?gh_jid=8130930) | 91 | London, UK | Software | 2026-09-01 |
 | [Software Engineer New Grad](https://stripe.com/jobs/search?gh_jid=8128744) | 91 | Seattle, WA / SF / NYC | Software | 2026-09-01 |
+| [Software Engineer New Grad](https://stripe.com/jobs/search?gh_jid=8130930) | 91 | London, UK | Software | 2026-09-01 |
 | [Software Engineer Intern](https://stripe.com/jobs/search?gh_jid=8130867) | 85 | London, UK | Software | 2026-09-01 |
 | [Software Engineer Intern - Summer or Winter](https://stripe.com/jobs/search?gh_jid=8128745) | 85 | Seattle, WA / SF / NYC | Software | 2026-09-01 |
 | [Software Engineer Intern - Summer or Winter](https://stripe.com/jobs/search?gh_jid=8130805) | 85 | Toronto, ON, Canada | Software | 2026-09-01 |
 | [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801) | 85 | Dublin | — | 2026-09-01 |
-| [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8130881) | 91 | Dublin | — | 2026-08-31 |
 | [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8130922) | 91 | Bucharest | — | 2026-08-31 |
+| [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8130881) | 91 | Dublin | — | 2026-08-31 |
 | [Software Engineer, New Grad - Frontend](https://stripe.com/jobs/search?gh_jid=8130927) | 91 | Barcelona | — | 2026-08-31 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130807) | 85 | Bucharest | — | 2026-08-31 |
 | [Software Engineer - New Grad](https://stripe.com/jobs/search?gh_jid=7210112) | 91 | Seattle, WA / SF | — | 2026-08-17 |
@@ -10108,12 +10124,6 @@
 | [Data Engineer 1](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5223279007) | 93 | Long Beach, CA / Denver, CO | AI/ML/Data | 2026-09-11 |
 | [Software Engineer 1 - Full Stack](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5092069007) | 93 | Long Beach, CA / Denver, CO | Software | 2026-08-26 |
 
-## Truist Bank
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Data Scientist 1](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Raleigh-NC/Data-Scientist-I_R0118840) | 93 | Raleigh, NC / Charlotte, NC / Atlanta, GA | AI/ML/Data | 2026-09-10 |
-
 ## Trulioo
 
 | Title | Score | Location | Department | First seen |
@@ -10447,6 +10457,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Frontend & User Experience Intern](https://job-boards.greenhouse.io/virtu/jobs/8657500002) | 93 | New York, NY | — | 2026-09-11 |
 | [2027 Internship - Quantitative Researcher (Undergrad)](https://job-boards.greenhouse.io/virtu/jobs/8142539002) | 93 | New York | Quant / Summer 2027 | 2026-09-11 |
 | [Software Engineer - Desktop Frontend Developer - C#/Winforms](https://job-boards.greenhouse.io/virtu/jobs/8516902002) | 93 | NYC | Software | 2026-09-04 |
 | [Quantitative Researcher Internship](https://job-boards.greenhouse.io/virtu/jobs/8624424002) | 93 | NYC | Quant | 2026-07-23 |
@@ -10911,7 +10922,6 @@
 ## Errors this run
 
 - **Microsoft**: timed out after 90000ms
+- **Sea Limited**: timed out after 90000ms
 - **DeepMind**: greenhouse deepmind: HTTP 404
 - **ClickHouse**: greenhouse clickhouse: HTTP 404
-- **Faire**: timed out after 20000ms
-- **Anduril**: timed out after 20000ms
