@@ -76,8 +76,8 @@
     "7957728"
   ],
   "Tower Research Capital": [
-    "8138524",
     "7011493",
+    "8138524",
     "8044334",
     "8168750",
     "8168634",
@@ -86,8 +86,8 @@
     "8037860"
   ],
   "Point72": [
-    "7297598002",
     "7297611002",
+    "7297598002",
     "7302611002",
     "8721562002",
     "7586061002",
@@ -137,18 +137,18 @@
   ],
   "Stripe": [
     "8130867",
-    "8031833",
     "8130883",
+    "8031833",
     "8130807",
-    "8097801",
-    "8130805",
     "8128745",
+    "8130805",
+    "8097801",
     "8130922",
+    "8160776",
+    "8157838",
     "8130881",
     "8128744",
     "8130930",
-    "8160776",
-    "8157838",
     "8130927"
   ],
   "Databricks": [
@@ -168,8 +168,8 @@
     "8052785"
   ],
   "Datadog": [
-    "8114186",
     "8114161",
+    "8114186",
     "8052118",
     "8052095"
   ],
@@ -1346,6 +1346,7 @@
   ],
   "Wayve": [],
   "zshah101 Summer 2027/Fall 2026": [
+    "github-json:zshah101-summer-2027-fall-2026:smartrecruiters:WellmarkInc:744000148915793",
     "github-json:zshah101-summer-2027-fall-2026:workday:cigna:/job/CT-Bloomfield-900-Cottage-Grove-Rd-Wilde-Bldg/The-Cigna-Group-s-Technology-Development-Program-----Infrastructure---Cloud-Engineering-Track_26009529",
     "github-json:zshah101-summer-2027-fall-2026:ashby:bedrock-robotics:0331551e-c18e-428a-8e91-e6cb25c9c2e8",
     "github-json:zshah101-summer-2027-fall-2026:ashby:bedrock-robotics:c51d682e-58ee-44de-886f-4cfacb56d2e1",
@@ -1381,7 +1382,6 @@
     "github-json:zshah101-summer-2027-fall-2026:workday:myhrhome:/job/Evansville-IN/Software-Developer-Intern---Document-Shared-Services--Part-Time-_R2608-52284",
     "github-json:zshah101-summer-2027-fall-2026:workday:verizon:/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--AI-ML-Engineering-Summer-2027-Internship_R-1100605",
     "github-json:zshah101-summer-2027-fall-2026:workday:moog:/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19888-1",
-    "github-json:zshah101-summer-2027-fall-2026:workday:amat:/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265",
     "github-json:zshah101-summer-2027-fall-2026:lever:shieldai:8c850c75-081d-4d09-bebf-096379a93010",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:viamrobotics:6185046004",
     "github-json:zshah101-summer-2027-fall-2026:workday:buildertrend:/job/Omaha-NE/Software-Engineering-Inter_JR-000467",
@@ -1406,7 +1406,6 @@
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:rfsmart:5409034008",
     "github-json:zshah101-summer-2027-fall-2026:workday:allegion:/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer--Advanced-Development----Indianapolis--IN_JR37458-1",
     "github-json:zshah101-summer-2027-fall-2026:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-Intern---Summer-2027-_01870613",
-    "github-json:zshah101-summer-2027-fall-2026:workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842",
     "github-json:zshah101-summer-2027-fall-2026:ashby:talos-trading:2c833180-484f-4657-80e3-f822cf1a0285",
     "github-json:zshah101-summer-2027-fall-2026:ashby:talos-trading:91fd5274-3b6b-43cf-b366-9f6dc2ae5977",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:datadog:8052118",
@@ -1733,6 +1732,7 @@
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:pdtpartners:8077685",
     "github-json:zshah101-summer-2027-fall-2026:ashby:quadrillion-labs:a4acc44c-31ce-41a0-ab44-2500487b4d05",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:appian:8041237",
+    "github-json:zshah101-summer-2027-fall-2026:workable:pony-dot-ai:BA5FFDBC71",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:virtu:8624410002",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:axontalentcommunity:7800628003",
     "github-json:zshah101-summer-2027-fall-2026:greenhouse:ctccampusboard:4708230005",
@@ -2421,7 +2421,6 @@
     "simplify:d269fad7-d513-4c35-b790-f31017a09c8a",
     "simplify:838b7d8e-c2bf-4395-b660-6f3484019451",
     "simplify:a167d0aa-3bb9-4b88-84a5-ee03be6a494f",
-    "simplify:f5319b1a-b6a0-42cb-9d68-43dc3a0e2b14",
     "simplify:f9344b8e-43cf-4dac-aef6-05e00717fd78",
     "simplify:ac34479a-59f5-4dd7-afad-64f30851650e",
     "simplify:9aaf0eed-7ca3-41fc-8076-90c4a66fa270",
@@ -2534,7 +2533,6 @@
     "simplify:20879dcb-5369-4c8b-863e-5958207519d6",
     "simplify:1ab8cb0f-fa13-4edb-a06c-1fb333f93ad9",
     "simplify:d1ce5eca-7313-4eee-b01a-088c01f2a85a",
-    "simplify:7194b5a6-5ff2-4d30-8f27-55c669757b74",
     "simplify:39309c17-e806-4ea4-ba0d-0d69cfaca27f",
     "simplify:aacc4ee3-09a8-40e8-99a0-5bc47790fe52",
     "simplify:2ced41cc-c8cf-41e5-ae1d-1ded73852520",
@@ -3298,7 +3296,6 @@
     "simplify:fae66348-df21-4b6a-a2b0-d344bf7543ba",
     "simplify:1beafc6b-26c4-4dd9-9396-8b9792b26456",
     "simplify:dec76f30-791b-4318-8022-f195f9709b43",
-    "simplify:ccfd0e70-7190-455d-bcb2-c5d80518bad9",
     "simplify:58434625-8e53-4daa-82b0-f88457b0c764",
     "simplify:3b8054b4-b834-4716-8fec-1a92b82af807",
     "simplify:d5b824b3-f478-49bb-8b20-9c1b283518f4",
@@ -3316,7 +3313,12 @@
     "simplify:631d0528-a176-456e-8072-fb2bd76f4b02",
     "simplify:dd44e95b-73ef-4392-8b75-228853ac350e",
     "simplify:be27b5dd-685b-43e7-bac8-46a5a43d6f34",
-    "simplify:bc1ed94d-9619-4eb3-9a13-ed915627c72b"
+    "simplify:bc1ed94d-9619-4eb3-9a13-ed915627c72b",
+    "simplify:89ec8845-ea94-482e-9c4f-909bc1a1c017",
+    "simplify:48fe73cf-84c7-4a22-bfd9-952a666e8607",
+    "simplify:f00e8399-0777-4e56-b2cb-0fd0631a0655",
+    "simplify:e0a4c475-6f3c-4f3e-a7ad-2e4046a608dd",
+    "simplify:9cd21651-921e-42a7-a95f-01b1f4bea964"
   ],
   "DoorDash": [],
   "Waymo": [
@@ -3987,7 +3989,6 @@
     "simplify:d269fad7-d513-4c35-b790-f31017a09c8a",
     "simplify:838b7d8e-c2bf-4395-b660-6f3484019451",
     "simplify:a167d0aa-3bb9-4b88-84a5-ee03be6a494f",
-    "simplify:f5319b1a-b6a0-42cb-9d68-43dc3a0e2b14",
     "simplify:f9344b8e-43cf-4dac-aef6-05e00717fd78",
     "simplify:ac34479a-59f5-4dd7-afad-64f30851650e",
     "simplify:9aaf0eed-7ca3-41fc-8076-90c4a66fa270",
@@ -4100,7 +4101,6 @@
     "simplify:20879dcb-5369-4c8b-863e-5958207519d6",
     "simplify:1ab8cb0f-fa13-4edb-a06c-1fb333f93ad9",
     "simplify:d1ce5eca-7313-4eee-b01a-088c01f2a85a",
-    "simplify:7194b5a6-5ff2-4d30-8f27-55c669757b74",
     "simplify:39309c17-e806-4ea4-ba0d-0d69cfaca27f",
     "simplify:aacc4ee3-09a8-40e8-99a0-5bc47790fe52",
     "simplify:2ced41cc-c8cf-41e5-ae1d-1ded73852520",
@@ -4864,7 +4864,6 @@
     "simplify:fae66348-df21-4b6a-a2b0-d344bf7543ba",
     "simplify:1beafc6b-26c4-4dd9-9396-8b9792b26456",
     "simplify:dec76f30-791b-4318-8022-f195f9709b43",
-    "simplify:ccfd0e70-7190-455d-bcb2-c5d80518bad9",
     "simplify:58434625-8e53-4daa-82b0-f88457b0c764",
     "simplify:3b8054b4-b834-4716-8fec-1a92b82af807",
     "simplify:d5b824b3-f478-49bb-8b20-9c1b283518f4",
@@ -4882,7 +4881,12 @@
     "simplify:631d0528-a176-456e-8072-fb2bd76f4b02",
     "simplify:dd44e95b-73ef-4392-8b75-228853ac350e",
     "simplify:be27b5dd-685b-43e7-bac8-46a5a43d6f34",
-    "simplify:bc1ed94d-9619-4eb3-9a13-ed915627c72b"
+    "simplify:bc1ed94d-9619-4eb3-9a13-ed915627c72b",
+    "simplify:89ec8845-ea94-482e-9c4f-909bc1a1c017",
+    "simplify:48fe73cf-84c7-4a22-bfd9-952a666e8607",
+    "simplify:f00e8399-0777-4e56-b2cb-0fd0631a0655",
+    "simplify:e0a4c475-6f3c-4f3e-a7ad-2e4046a608dd",
+    "simplify:9cd21651-921e-42a7-a95f-01b1f4bea964"
   ],
   "Wintermute": [],
   "QCP": [],
@@ -5270,6 +5274,7 @@
     "simplify:495929ef-4f6f-4cdb-9c26-6156e4966b6b",
     "simplify:51ca28a3-5501-448a-a399-6a1d14a4fcda",
     "simplify:65650b49-1680-440d-8f63-1cc74d0ba188",
+    "simplify:037965da-859d-4532-a3b3-45dc8fd6220f",
     "simplify:c4af7370-f86a-400a-b34e-5235aa8c49d8",
     "simplify:d3e00d4e-daa5-4c01-aa27-5b0a91260ab5",
     "simplify:30565ad7-41c7-4ce1-b99d-5d981116678d",
@@ -5408,7 +5413,6 @@
     "simplify:da048e8f-6ba6-43fd-8dc9-7c5a1adf494a",
     "simplify:46282d1e-a7a8-486b-9fca-570d0e0cbd01",
     "simplify:077e08ad-dab8-4e0d-8ec1-e28191221246",
-    "simplify:ae948682-42af-46dc-919c-fbef1921d88f",
     "simplify:88cb97d9-9fe8-4c8f-b221-0c0805af5ca0",
     "simplify:3cc4da2b-b198-42e2-90af-900a56e76c8c",
     "simplify:e62a24f2-a26c-4cc3-ba1c-2dbc5a29e072",
@@ -5468,7 +5472,6 @@
     "simplify:2a9715ce-fc4b-4245-9f7d-dd33ae0f0bd1",
     "simplify:247fd114-6046-4c46-853c-a15c455a2486",
     "simplify:f1f77695-7602-440a-a772-5d02d3d6da68",
-    "simplify:59aaa50c-6f7f-427b-950f-8b772440e208",
     "simplify:0052ea09-d7ee-44ff-929d-418fc69ac588",
     "simplify:1dcc863f-1171-49ac-a22d-a2261e9a29fa",
     "simplify:42f27fb0-baca-4b45-91dc-60dd9dd9c5e6",
@@ -6396,7 +6399,6 @@
     "simplify:d2423d18-b85e-42bc-91ad-3e14d9570554",
     "simplify:ffeca018-6c17-4e6a-8535-e22d9b7ae551",
     "simplify:48bf49f5-eda3-401d-a7ae-961d66c48e77",
-    "simplify:7dbb5c10-5141-47a1-bf19-a1b0a452f334",
     "simplify:cca91aa9-bfb8-4738-8e08-5d0471286dd5",
     "simplify:d8b3f963-671d-49d6-9810-352e27638579",
     "simplify:6d6a3ee8-39c1-4c9d-b0bb-4bc6bb8953c5",
@@ -6505,7 +6507,6 @@
     "simplify:bed9d031-2f7f-4c71-9417-37308c8a19ee",
     "simplify:f79114e4-14f4-4b37-9f55-d001dab2d6af",
     "simplify:b8a3f182-ab76-4516-83dd-c0bc7e69c741",
-    "simplify:c6f917c4-26ee-4edd-a28b-608341aed2b4",
     "simplify:4cf87ab1-05e7-4025-8b98-5e7c93f08ad6",
     "simplify:7717e965-d3a4-4089-8c13-6fc0d63779c4",
     "simplify:2b12a7c8-2a88-48d5-90f7-d34a56473bc2",
@@ -6538,7 +6539,6 @@
     "simplify:6e6c40af-e772-40f7-bb8e-88e05976d3be",
     "simplify:cab7d392-b643-4122-8740-452bad253389",
     "simplify:5e2d9124-8197-4d17-9026-14c8fc221406",
-    "simplify:5a283cb6-d2dc-4b0b-b57a-c6d5fe463dc8",
     "simplify:d72b3ca7-a4c1-4306-93a2-07ccb419f813",
     "simplify:fcf451cc-c3d6-4cbf-ad77-d000a660390e",
     "simplify:e9d3117a-f9b0-41c0-b4c8-29dde17c9a7f",
@@ -7195,8 +7195,8 @@
   "Susquehanna (SIG)": [],
   "Millennium Management": [],
   "Netflix": [
-    "790317917022",
-    "790317916733"
+    "790317916733",
+    "790317917022"
   ],
   "Grab": [
     "744000148399141",
@@ -7207,6 +7207,7 @@
     "J02044564"
   ],
   "Nvidia": [
+    "/job/Taiwan-Taipei/System-Application-Engineer--RDSS-Intern-_JR2025314",
     "/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
   ],
   "Character.AI": [],
