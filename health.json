@@ -1,21 +1,31 @@
 {
+  "Two Sigma": {
+    "consecutiveFailures": 1,
+    "lastError": "timed out after 90000ms",
+    "alerted": false
+  },
   "Microsoft": {
-    "consecutiveFailures": 61,
+    "consecutiveFailures": 62,
     "lastError": "timed out after 90000ms",
     "alerted": true
   },
   "DeepMind": {
-    "consecutiveFailures": 41,
+    "consecutiveFailures": 42,
     "lastError": "greenhouse deepmind: HTTP 404",
     "alerted": true
   },
+  "Reddit": {
+    "consecutiveFailures": 1,
+    "lastError": "timed out after 20000ms",
+    "alerted": false
+  },
   "ClickHouse": {
-    "consecutiveFailures": 74,
+    "consecutiveFailures": 75,
     "lastError": "greenhouse clickhouse: HTTP 404",
     "alerted": true
   },
   "World Labs": {
-    "consecutiveFailures": 3,
+    "consecutiveFailures": 4,
     "lastError": "greenhouse worldlabs: HTTP 404",
     "alerted": true
   }
