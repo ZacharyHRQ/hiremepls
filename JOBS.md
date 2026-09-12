@@ -1,6 +1,6 @@
 # Open Internships
 
-**3622** internships across **208/212** companies — last updated 2026-09-12.
+**3621** internships across **206/212** companies — last updated 2026-09-12.
 
 ## Companies
 
@@ -41,7 +41,6 @@
 - [Alation](#alation) (1)
 - [Alcoa](#alcoa) (1)
 - [AlixPartners](#alixpartners) (1)
-- [Alkira](#alkira) (1)
 - [Allegion](#allegion) (4)
 - [Allegro MicroSystems](#allegro-microsystems) (1)
 - [Allen Control Systems](#allen-control-systems) (6)
@@ -73,7 +72,7 @@
 - [Analog Devices](#analog-devices) (7)
 - [Analytical Mechanics Associates](#analytical-mechanics-associates) (1)
 - [Andrew Morgan](#andrew-morgan) (1)
-- [Anduril](#anduril) (15)
+- [Anduril](#anduril) (9)
 - [Anduril Industries](#anduril-industries) (2)
 - [Anima](#anima) (2)
 - [Antares Nuclear](#antares-nuclear) (1)
@@ -127,7 +126,7 @@
 - [AtkinsRéalis](#atkinsr-alis) (1)
 - [Atlassian](#atlassian) (3)
 - [Atomic Semi](#atomic-semi) (4)
-- [Atoms](#atoms) (3)
+- [Atoms](#atoms) (4)
 - [Atria Group](#atria-group) (3)
 - [Auctor](#auctor) (1)
 - [Aurora](#aurora) (1)
@@ -273,6 +272,7 @@
 - [Consumer Direct Care Network](#consumer-direct-care-network) (1)
 - [Content Guru](#content-guru) (1)
 - [Contoro](#contoro) (1)
+- [Cooper University Health Care](#cooper-university-health-care) (1)
 - [Copart](#copart) (8)
 - [Core & Main](#core-main) (1)
 - [Corning](#corning) (1)
@@ -334,6 +334,7 @@
 - [Dick's Sporting Goods](#dick-s-sporting-goods) (1)
 - [DiDi Global](#didi-global) (2)
 - [Diesel Laptops](#diesel-laptops) (1)
+- [Digs](#digs) (1)
 - [DiligenceVault](#diligencevault) (1)
 - [DimeHealth AI](#dimehealth-ai) (1)
 - [Dimensional Fund Advisors](#dimensional-fund-advisors) (3)
@@ -423,6 +424,7 @@
 - [First American](#first-american) (1)
 - [First National Bank](#first-national-bank) (2)
 - [First Quality](#first-quality) (1)
+- [Five Rings](#five-rings) (1)
 - [Five Rings Capital](#five-rings-capital) (4)
 - [Flagship Pioneering](#flagship-pioneering) (1)
 - [FlexAI](#flexai) (1)
@@ -626,7 +628,7 @@
 - [KLA](#kla) (3)
 - [KLA Corporation](#kla-corporation) (3)
 - [Klarity](#klarity) (2)
-- [Klaviyo](#klaviyo) (1)
+- [Klaviyo](#klaviyo) (2)
 - [KnowBe4](#knowbe4) (1)
 - [Koah](#koah) (1)
 - [Kodiak Robotics](#kodiak-robotics) (1)
@@ -1081,6 +1083,7 @@
 - [Teledyne Technologies Incorporated](#teledyne-technologies-incorporated) (1)
 - [TELUS Digital](#telus-digital) (1)
 - [Tencent](#tencent) (2)
+- [Tenstorrent](#tenstorrent) (1)
 - [Terranova](#terranova) (1)
 - [Testing Xperts](#testing-xperts) (4)
 - [TETRAMEM](#tetramem) (1)
@@ -1516,12 +1519,6 @@
 | --- | --- | --- | --- | --- |
 | [Data Scientist Intern](https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003) | 85 | NYC | AI/ML/Data | 2026-07-20 |
 
-## Alkira
-
-| Title | Score | Location | Department | First seen |
-| --- | --- | --- | --- | --- |
-| [Software Engineer - Datapath](https://alkira.bamboohr.com/careers/232/) | 85 | San Jose, CA | Software | 2026-08-17 |
-
 ## Allegion
 
 | Title | Score | Location | Department | First seen |
@@ -1825,12 +1822,6 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Early Career Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4802146007) | 93 | Newport Beach, CA | Software | 2026-09-12 |
-| [2026 Early Career Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007) | 93 | Atlanta, Georgia, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Seattle, Washington, United States | — | 2026-09-12 |
-| [2026 Software Engineering Intern](https://boards.greenhouse.io/andurilindustries/jobs/5211077007?gh_jid=5211077007) | 93 | Sydney, New South Wales, Australia | — | 2026-09-12 |
-| [2027 Early Career Flight Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007) | 93 | Costa Mesa, California, United States | — | 2026-09-12 |
-| [2027 Early Career Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007) | 93 | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | — | 2026-09-12 |
-| [2027 Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5231488007?gh_jid=5231488007) | 93 | Dublin, Dublin, Ireland | — | 2026-09-12 |
-| [2026 Robotics Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5211095007?gh_jid=5211095007) | 83 | Sydney, New South Wales, Australia | — | 2026-09-12 |
 | [Agentic AI Engineer - Automation](https://boards.greenhouse.io/andurilindustries/jobs/5219383007) | 93 | Costa Mesa, CA | Software | 2026-09-11 |
 | [Early Career Flight Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5228868007) | 93 | Costa Mesa, CA | Hardware | 2026-09-11 |
 | [Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5162263007) | 93 | Boston, MA / Seattle, WA / Newport Beach, CA / Irvine, CA / Atlanta, GA | Software | 2026-09-11 |
@@ -2237,6 +2228,7 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
+| [Software Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8687896002) | 93 | New York, NY / Seattle, WA / Los Angeles, CA / Mountain View, CA / San Francisco, CA | — | 2026-09-12 |
 | [Software Engineer New Grad](https://job-boards.greenhouse.io/cssmerge/jobs/8687930002) | 99 | Seattle, WA / SF / LA / NYC / Mountain View, CA | Software | 2026-09-11 |
 | [Robotics Software Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8695475002) | 93 | LA / Pittsburgh, PA | Software | 2026-08-26 |
 | [Machine Learning PhD Software Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8693034002) | 93 | Seattle, WA / LA / NYC / Mountain View, CA | Software | 2026-08-10 |
@@ -3505,6 +3497,12 @@
 | --- | --- | --- | --- | --- |
 | [Robotics Engineer - Motion Planning](https://jobs.ashbyhq.com/contoro/0f41e38e-ee2b-4abb-b232-7ee72e37509f/application?embed=true) | 93 | Austin, TX | AI/ML/Data | 2026-09-03 |
 
+## Cooper University Health Care
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Reporting and Analytics Developer](https://careers-cooperhealth.icims.com/jobs/85602/job?mobile=true&needsRedirect=false) | 85 | Camden, NJ | AI/ML/Data | 2026-09-12 |
+
 ## Copart
 
 | Title | Score | Location | Department | First seen |
@@ -3944,6 +3942,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Software Engineer](https://jobs.smartrecruiters.com/DieselLaptops/743999719953833) | 93 | Dallas, TX | Software | 2026-08-18 |
+
+## Digs
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineering Intern - Test Automation](https://job-boards.greenhouse.io/digs/jobs/4663939006) | 93 | Vancouver, WA | Software Engineering | 2026-09-12 |
 
 ## DiligenceVault
 
@@ -4568,6 +4572,12 @@
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
 | [Analytics Engineer Intern/Co-op - Analytics Engineer](https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-SC-Anderson/INTERN-OR-CO-OP---Analytics-Engineer_R9813) | 93 | Anderson, SC | AI/ML/Data | 2026-07-21 |
+
+## Five Rings
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Summer Intern 2026 - Software Developer](https://job-boards.greenhouse.io/fiveringsllc/jobs/4806713008) | 93 | New York | — | 2026-09-12 |
 
 ## Five Rings Capital
 
@@ -6161,7 +6171,8 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Software Engineer Intern (Summer 2027)](https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003) | 93 | Boston, MA | Software / Summer 2027 | 2026-09-12 |
+| [Software Engineer 1](https://job-boards.greenhouse.io/klaviyocampus/jobs/7989324003) | 93 | Boston, MA | Software | 2026-09-12 |
+| [Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003) | 93 | Boston, MA | Software | 2026-09-12 |
 
 ## KnowBe4
 
@@ -9281,8 +9292,8 @@
 | --- | --- | --- | --- | --- |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130883) | 85 | Singapore | — | 2026-09-07 |
 | [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8160776) | 91 | Singapore | — | 2026-09-03 |
-| [Software Engineer New Grad](https://stripe.com/jobs/search?gh_jid=8128744) | 91 | Seattle, WA / SF / NYC | Software | 2026-09-01 |
 | [Software Engineer New Grad](https://stripe.com/jobs/search?gh_jid=8130930) | 91 | London, UK | Software | 2026-09-01 |
+| [Software Engineer New Grad](https://stripe.com/jobs/search?gh_jid=8128744) | 91 | Seattle, WA / SF / NYC | Software | 2026-09-01 |
 | [Software Engineer Intern](https://stripe.com/jobs/search?gh_jid=8130867) | 85 | London, UK | Software | 2026-09-01 |
 | [Software Engineer Intern - Summer or Winter](https://stripe.com/jobs/search?gh_jid=8130805) | 85 | Toronto, ON, Canada | Software | 2026-09-01 |
 | [Software Engineer Intern - Summer or Winter](https://stripe.com/jobs/search?gh_jid=8128745) | 85 | Seattle, WA / SF / NYC | Software | 2026-09-01 |
@@ -9590,6 +9601,12 @@
 | --- | --- | --- | --- | --- |
 | [Multimodal Algorithm Researcher Intern - Omni-Modal](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650) | 93 | Palo Alto, CA | AI/ML/Data | 2026-08-19 |
 | [Hunyuan Multimodal Algorithm Researcher Intern - Omni Modal](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-Intern-Omni-Modal---_R107051-1) | 93 | Palo Alto, CA | AI/ML/Data | 2026-06-13 |
+
+## Tenstorrent
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Software Engineering Intern, Power Modeling & AI Tools](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007) | 93 | Santa Clara, CA | — | 2026-09-12 |
 
 ## Terranova
 
@@ -11063,7 +11080,9 @@
 
 ## Errors this run
 
+- **ExodusPoint**: timed out after 20000ms
 - **Microsoft**: timed out after 90000ms
 - **DeepMind**: greenhouse deepmind: HTTP 404
 - **ClickHouse**: greenhouse clickhouse: HTTP 404
+- **Anduril**: timed out after 20000ms
 - **World Labs**: greenhouse worldlabs: HTTP 404
