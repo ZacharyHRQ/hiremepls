@@ -1,31 +1,21 @@
 {
-  "ExodusPoint": {
-    "consecutiveFailures": 1,
-    "lastError": "timed out after 20000ms",
-    "alerted": false
-  },
   "Microsoft": {
-    "consecutiveFailures": 66,
+    "consecutiveFailures": 67,
     "lastError": "timed out after 90000ms",
     "alerted": true
   },
   "DeepMind": {
-    "consecutiveFailures": 46,
+    "consecutiveFailures": 47,
     "lastError": "greenhouse deepmind: HTTP 404",
     "alerted": true
   },
   "ClickHouse": {
-    "consecutiveFailures": 79,
+    "consecutiveFailures": 80,
     "lastError": "greenhouse clickhouse: HTTP 404",
     "alerted": true
   },
-  "Anduril": {
-    "consecutiveFailures": 1,
-    "lastError": "timed out after 20000ms",
-    "alerted": false
-  },
   "World Labs": {
-    "consecutiveFailures": 8,
+    "consecutiveFailures": 9,
     "lastError": "greenhouse worldlabs: HTTP 404",
     "alerted": true
   }
