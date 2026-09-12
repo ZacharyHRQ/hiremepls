@@ -1,27 +1,22 @@
 {
   "Microsoft": {
-    "consecutiveFailures": 60,
+    "consecutiveFailures": 61,
     "lastError": "timed out after 90000ms",
     "alerted": true
   },
   "DeepMind": {
-    "consecutiveFailures": 40,
+    "consecutiveFailures": 41,
     "lastError": "greenhouse deepmind: HTTP 404",
     "alerted": true
   },
   "ClickHouse": {
-    "consecutiveFailures": 73,
+    "consecutiveFailures": 74,
     "lastError": "greenhouse clickhouse: HTTP 404",
     "alerted": true
   },
-  "Anduril": {
-    "consecutiveFailures": 2,
-    "lastError": "timed out after 20000ms",
-    "alerted": false
-  },
   "World Labs": {
-    "consecutiveFailures": 2,
+    "consecutiveFailures": 3,
     "lastError": "greenhouse worldlabs: HTTP 404",
-    "alerted": false
+    "alerted": true
   }
 }
