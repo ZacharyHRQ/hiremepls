@@ -1,6 +1,6 @@
 # Open Internships
 
-**3622** internships across **208/212** companies — last updated 2026-09-13.
+**3625** internships across **208/212** companies — last updated 2026-09-13.
 
 ## Companies
 
@@ -96,6 +96,7 @@
 - [AQR Capital Management](#aqr-capital-management) (2)
 - [Aquatic Capital](#aquatic-capital) (1)
 - [Aquatic Capital Management](#aquatic-capital-management) (4)
+- [Aramark](#aramark) (1)
 - [Aramco Americas](#aramco-americas) (1)
 - [Arcadis](#arcadis) (1)
 - [Arcfield](#arcfield) (3)
@@ -132,6 +133,7 @@
 - [Aurora Innovation](#aurora-innovation) (2)
 - [Auto-Owners Insurance](#auto-owners-insurance) (8)
 - [Autodesk](#autodesk) (6)
+- [Autostore](#autostore) (1)
 - [Avalore](#avalore) (4)
 - [Avis Budget Group](#avis-budget-group) (1)
 - [Avoca AI](#avoca-ai) (1)
@@ -477,7 +479,7 @@
 - [GlobalFoundries](#globalfoundries) (2)
 - [Globus Medical](#globus-medical) (1)
 - [GM financial](#gm-financial) (1)
-- [Goldman Sachs](#goldman-sachs) (4)
+- [Goldman Sachs](#goldman-sachs) (6)
 - [Google](#google) (33)
 - [Grab](#grab) (2)
 - [Graco](#graco) (2)
@@ -807,7 +809,7 @@
 - [Ozmo](#ozmo) (1)
 - [Paccar](#paccar) (1)
 - [Pacific Fusion](#pacific-fusion) (1)
-- [Palantir](#palantir) (86)
+- [Palantir](#palantir) (85)
 - [Palo Alto Networks](#palo-alto-networks) (2)
 - [PAM Health](#pam-health) (1)
 - [Panasonic Holdings](#panasonic-holdings) (1)
@@ -2030,6 +2032,12 @@
 | [Quantitative Researcher – Intern](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) | 93 | London, UK / Chicago, IL | Quant | 2026-07-20 |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) | 93 | London, UK / Chicago, IL | Software | 2026-07-20 |
 
+## Aramark
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Junior Data Engineer](https://aramarkcareers.com/UnitedStates/job/Rockville-Jr_-Data-Engineer-MD-20850/1426145000/?ats=successfactors) | 85 | Rockville, MD | AI/ML/Data | 2026-09-13 |
+
 ## Aramco Americas
 
 | Title | Score | Location | Department | First seen |
@@ -2279,6 +2287,12 @@
 | [Software Developer Intern - Interactive Graphics, Media & Entertainment](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2) | 93 | Montreal, QC, Canada | Software | 2026-08-11 |
 | [Cloud Developer Intern - Fcap](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-1) | 93 | Montreal, QC, Canada | Software | 2026-08-07 |
 | [Cloud Developer Intern - Interactive Graphics, Media & Entertainment](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400-3) | 93 | Montreal, QC, Canada | Software | 2026-08-07 |
+
+## Autostore
+
+| Title | Score | Location | Department | First seen |
+| --- | --- | --- | --- | --- |
+| [Entry Level Software Engineer](https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Entry-Level-Software-Engineer_JR102691) | 93 | Atlanta, GA | Software | 2026-09-13 |
 
 ## Avalore
 
@@ -4988,9 +5002,11 @@
 
 | Title | Score | Location | Department | First seen |
 | --- | --- | --- | --- | --- |
-| [Summer Analyst Intern - Americas - Engineering](https://higher.gs.com/roles/171567?type=students) | 85 | Toronto, ON, Canada | Software | 2026-09-13 |
-| [Summer Analyst Intern - Engineering](https://higher.gs.com/roles/170637?type=students) | 85 | Birmingham, UK | Software | 2026-09-13 |
-| [Summer Analyst Intern - Engineering](https://higher.gs.com/roles/171553?type=students) | 85 | Dallas, TX | Software | 2026-09-13 |
+| [Engineering New Analyst - Engineering](https://higher.gs.com/roles/171570?type=students) | 85 | Salt Lake City, UT | Software | 2026-09-13 |
+| [Summer Analyst Intern - Americas - Engineering](https://higher.gs.com/roles/171564?type=students) | 85 | NYC | Software | 2026-09-13 |
+| [Summer Analyst Intern - Americas - Engineering](https://higher.gs.com/roles/171565?type=students) | 85 | Salt Lake City, UT | Software | 2026-09-13 |
+| [Summer Analyst Intern - Engineering](https://higher.gs.com/roles/170644?type=students) | 85 | London, UK | Software | 2026-09-13 |
+| [Summer Analyst Intern - Engineering](https://higher.gs.com/roles/177808?type=students) | 85 | Seattle, WA | Software | 2026-09-13 |
 | [Software Engineer - Data](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292) | 85 | London, UK | Software | 2026-09-12 |
 
 ## Google
@@ -7518,7 +7534,6 @@
 | --- | --- | --- | --- | --- |
 | [Year at Palantir Intern - Forward Deployed Software Engineer](https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019/apply) | 93 | Washington, DC | Software | 2026-09-04 |
 | [Year at Palantir Intern - Forward Deployed Software Engineer](https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333/apply) | 93 | NYC | Software | 2026-09-04 |
-| [Palantir Intern - Software Engineer](https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329/apply) | 93 | NYC | Software | 2026-09-04 |
 | [Palantir Software Engineer Intern - Forward Deployed Software Engineer - Commercial](https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3/apply) | 93 | Chicago, IL | Software | 2026-09-04 |
 | [Software Engineer Intern](https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d/apply) | 93 | NYC | Software | 2026-09-04 |
 | [Forward Deployed Infrastructure Engineer, New Grad - US Government](https://jobs.lever.co/palantir/701a9307-0619-45d3-b077-cabe9897cd12) | 99 | Honolulu, HI | Delta | 2026-08-31 |
@@ -9286,8 +9301,8 @@
 | [Software Engineer Intern - Summer or Winter](https://stripe.com/jobs/search?gh_jid=8130805) | 85 | Toronto, ON, Canada | Software | 2026-09-01 |
 | [Software Engineer Intern - Summer or Winter](https://stripe.com/jobs/search?gh_jid=8128745) | 85 | Seattle, WA / SF / NYC | Software | 2026-09-01 |
 | [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801) | 85 | Dublin | — | 2026-09-01 |
-| [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8130881) | 91 | Dublin | — | 2026-08-31 |
 | [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8130922) | 91 | Bucharest | — | 2026-08-31 |
+| [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8130881) | 91 | Dublin | — | 2026-08-31 |
 | [Software Engineer, New Grad - Frontend](https://stripe.com/jobs/search?gh_jid=8130927) | 91 | Barcelona | — | 2026-08-31 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130807) | 85 | Bucharest | — | 2026-08-31 |
 | [Software Engineer - New Grad](https://stripe.com/jobs/search?gh_jid=7210112) | 91 | Seattle, WA / SF | — | 2026-08-17 |

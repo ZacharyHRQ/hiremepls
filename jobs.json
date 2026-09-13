@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-13T17:28:58.695Z",
+  "generatedAt": "2026-09-13T19:39:13.506Z",
   "companyCount": 212,
   "okCount": 208,
-  "jobCount": 3622,
+  "jobCount": 3625,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:19a13c3b45c2096e": "2026-05-06T06:42:07.596Z",
@@ -2582,7 +2582,6 @@
     "canonical:9fdb7e564c5a4353": "2026-09-04T01:49:31.643Z",
     "canonical:39a291f7fafae758": "2026-09-04T01:49:31.643Z",
     "canonical:0c9eac415a9f9529": "2026-09-04T01:49:31.643Z",
-    "canonical:4826350983495daa": "2026-09-04T01:49:31.643Z",
     "canonical:5dfa07b9c9755703": "2026-09-04T01:49:31.643Z",
     "canonical:5a965f80dc06a1f2": "2026-09-04T01:49:31.643Z",
     "canonical:f675f8273d9a1aff": "2026-09-04T01:49:31.643Z",
@@ -3616,16 +3615,20 @@
     "canonical:3131eec9a7d47787": "2026-09-13T10:13:06.734Z",
     "canonical:b537d841a790c8e0": "2026-09-13T10:13:06.734Z",
     "canonical:27a09e08b462cce2": "2026-09-13T10:13:06.734Z",
-    "canonical:778a61535c40cc7a": "2026-09-13T14:22:34.054Z",
-    "canonical:33516ccb1ec2842f": "2026-09-13T14:22:34.054Z",
-    "canonical:ae37713f2e83b31b": "2026-09-13T14:22:34.054Z",
     "canonical:29571d67d1884710": "2026-09-13T14:22:34.054Z",
     "canonical:2fc48e509b129096": "2026-09-13T17:28:58.695Z",
     "canonical:7b1f6a597660612d": "2026-09-13T17:28:58.695Z",
     "canonical:00053ae33decdf2c": "2026-09-13T17:28:58.695Z",
     "canonical:6e179f27cd7704eb": "2026-09-13T17:28:58.695Z",
     "canonical:a133af26c68087ae": "2026-09-13T17:28:58.695Z",
-    "canonical:4a77656807157e3b": "2026-09-13T17:28:58.695Z"
+    "canonical:4a77656807157e3b": "2026-09-13T17:28:58.695Z",
+    "canonical:c1b721072df5c0ba": "2026-09-13T19:39:13.506Z",
+    "canonical:583e0ab3c91b3f9c": "2026-09-13T19:39:13.506Z",
+    "canonical:b92798e1f823a61d": "2026-09-13T19:39:13.506Z",
+    "canonical:b8a29a1ae0d517dc": "2026-09-13T19:39:13.506Z",
+    "canonical:d1da7b2ac572df8f": "2026-09-13T19:39:13.506Z",
+    "canonical:4446bc7c8b46f4a9": "2026-09-13T19:39:13.506Z",
+    "canonical:5e1fed27fb5d9c2a": "2026-09-13T19:39:13.506Z"
   },
   "jobs": [
     {
@@ -6783,6 +6786,19 @@
       ]
     },
     {
+      "id": "canonical:e8a5b9fc6e1a4de2",
+      "title": "Software Engineer, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
+      "location": "Bengaluru",
+      "department": "",
+      "company": "Stripe",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:8628737f8939c967",
       "title": "Software Engineer Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=8130867",
@@ -6809,10 +6825,10 @@
       ]
     },
     {
-      "id": "canonical:e8a5b9fc6e1a4de2",
-      "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
-      "location": "Bengaluru",
+      "id": "canonical:5c02db278d29ada5",
+      "title": "Software Engineer, Intern ",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130807",
+      "location": "Bucharest",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -6822,10 +6838,10 @@
       ]
     },
     {
-      "id": "canonical:5c02db278d29ada5",
-      "title": "Software Engineer, Intern ",
-      "url": "https://stripe.com/jobs/search?gh_jid=8130807",
-      "location": "Bucharest",
+      "id": "canonical:11201074643ce9db",
+      "title": "Software Engineer, Intern (Summer or Winter)",
+      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
+      "location": "Dublin",
       "department": "",
       "company": "Stripe",
       "score": 85,
@@ -6848,19 +6864,6 @@
       ]
     },
     {
-      "id": "canonical:11201074643ce9db",
-      "title": "Software Engineer, Intern (Summer or Winter)",
-      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
-      "location": "Dublin",
-      "department": "",
-      "company": "Stripe",
-      "score": 85,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role"
-      ]
-    },
-    {
       "id": "canonical:803ddaf5c5b2c154",
       "title": "Software Engineer Intern - Summer or Winter",
       "url": "https://stripe.com/jobs/search?gh_jid=8128745",
@@ -6871,20 +6874,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:c243aa49973552e9",
-      "title": "Software Engineer New Grad",
-      "url": "https://stripe.com/jobs/search?gh_jid=8128744",
-      "location": "Seattle, WA / SF / NYC",
-      "department": "Software",
-      "company": "Stripe",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad"
       ]
     },
     {
@@ -6902,25 +6891,11 @@
       ]
     },
     {
-      "id": "canonical:8ec1c20902adca55",
+      "id": "canonical:c243aa49973552e9",
       "title": "Software Engineer New Grad",
-      "url": "https://stripe.com/jobs/search?gh_jid=8157838",
-      "location": "Toronto, ON, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+      "location": "Seattle, WA / SF / NYC",
       "department": "Software",
-      "company": "Stripe",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad"
-      ]
-    },
-    {
-      "id": "canonical:813e5792c4ee4443",
-      "title": "Software Engineer, New Grad",
-      "url": "https://stripe.com/jobs/search?gh_jid=8130881",
-      "location": "Dublin",
-      "department": "",
       "company": "Stripe",
       "score": 91,
       "scoreReasons": [
@@ -6948,6 +6923,34 @@
       "title": "Software Engineer New Grad",
       "url": "https://stripe.com/jobs/search?gh_jid=8130930",
       "location": "London, UK",
+      "department": "Software",
+      "company": "Stripe",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
+      ]
+    },
+    {
+      "id": "canonical:813e5792c4ee4443",
+      "title": "Software Engineer, New Grad",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130881",
+      "location": "Dublin",
+      "department": "",
+      "company": "Stripe",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
+      ]
+    },
+    {
+      "id": "canonical:8ec1c20902adca55",
+      "title": "Software Engineer New Grad",
+      "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+      "location": "Toronto, ON, Canada",
       "department": "Software",
       "company": "Stripe",
       "score": 91,
@@ -8894,20 +8897,6 @@
       "id": "canonical:89e2504c81c54e71",
       "title": "Year at Palantir Intern - Forward Deployed Software Engineer - Commercial",
       "url": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d/apply",
-      "location": "NYC",
-      "department": "Software",
-      "company": "Palantir",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:4826350983495daa",
-      "title": "Palantir Intern - Software Engineer",
-      "url": "https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329/apply",
       "location": "NYC",
       "department": "Software",
       "company": "Palantir",
@@ -19818,10 +19807,10 @@
       ]
     },
     {
-      "id": "canonical:778a61535c40cc7a",
+      "id": "canonical:c1b721072df5c0ba",
       "title": "Summer Analyst Intern - Americas - Engineering",
-      "url": "https://higher.gs.com/roles/171567?type=students",
-      "location": "Toronto, ON, Canada",
+      "url": "https://higher.gs.com/roles/171564?type=students",
+      "location": "NYC",
       "department": "Software",
       "company": "Goldman Sachs",
       "score": 85,
@@ -19831,10 +19820,10 @@
       ]
     },
     {
-      "id": "canonical:33516ccb1ec2842f",
-      "title": "Summer Analyst Intern - Engineering",
-      "url": "https://higher.gs.com/roles/170637?type=students",
-      "location": "Birmingham, UK",
+      "id": "canonical:583e0ab3c91b3f9c",
+      "title": "Summer Analyst Intern - Americas - Engineering",
+      "url": "https://higher.gs.com/roles/171565?type=students",
+      "location": "Salt Lake City, UT",
       "department": "Software",
       "company": "Goldman Sachs",
       "score": 85,
@@ -19844,10 +19833,23 @@
       ]
     },
     {
-      "id": "canonical:ae37713f2e83b31b",
+      "id": "canonical:b92798e1f823a61d",
       "title": "Summer Analyst Intern - Engineering",
-      "url": "https://higher.gs.com/roles/171553?type=students",
-      "location": "Dallas, TX",
+      "url": "https://higher.gs.com/roles/170644?type=students",
+      "location": "London, UK",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:b8a29a1ae0d517dc",
+      "title": "Summer Analyst Intern - Engineering",
+      "url": "https://higher.gs.com/roles/177808?type=students",
+      "location": "Seattle, WA",
       "department": "Software",
       "company": "Goldman Sachs",
       "score": 85,
@@ -38079,6 +38081,19 @@
       ]
     },
     {
+      "id": "canonical:d1da7b2ac572df8f",
+      "title": "Engineering New Analyst - Engineering",
+      "url": "https://higher.gs.com/roles/171570?type=students",
+      "location": "Salt Lake City, UT",
+      "department": "Software",
+      "company": "Goldman Sachs",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:34f26ea49943bc76",
       "title": "Scenario Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/applied/f382de9d-d5e4-4dc8-85a0-0bae7125f8cf/application?embed=true",
@@ -43018,6 +43033,19 @@
       ]
     },
     {
+      "id": "canonical:4446bc7c8b46f4a9",
+      "title": "Junior Data Engineer",
+      "url": "https://aramarkcareers.com/UnitedStates/job/Rockville-Jr_-Data-Engineer-MD-20850/1426145000/?ats=successfactors",
+      "location": "Rockville, MD",
+      "department": "AI/ML/Data",
+      "company": "Aramark",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:ab702b9dd81d9a27",
       "title": "Applied Scientist - Global Risk Intelligence and Prevention - Seller Abuse Prevention",
       "url": "https://amazon.jobs/en/jobs/10528088/applied-scientist-global-risk-intelligence-and-prevention-seller-abuse-prevention",
@@ -47240,6 +47268,20 @@
       "location": "Clifton Park, NY",
       "department": "Software",
       "company": "Kitware",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:5e1fed27fb5d9c2a",
+      "title": "Entry Level Software Engineer",
+      "url": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Entry-Level-Software-Engineer_JR102691",
+      "location": "Atlanta, GA",
+      "department": "Software",
+      "company": "Autostore",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
