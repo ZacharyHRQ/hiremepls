@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-13T14:22:34.054Z",
+  "generatedAt": "2026-09-13T17:28:58.695Z",
   "companyCount": 212,
   "okCount": 208,
-  "jobCount": 3616,
+  "jobCount": 3622,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:19a13c3b45c2096e": "2026-05-06T06:42:07.596Z",
@@ -3619,7 +3619,13 @@
     "canonical:778a61535c40cc7a": "2026-09-13T14:22:34.054Z",
     "canonical:33516ccb1ec2842f": "2026-09-13T14:22:34.054Z",
     "canonical:ae37713f2e83b31b": "2026-09-13T14:22:34.054Z",
-    "canonical:29571d67d1884710": "2026-09-13T14:22:34.054Z"
+    "canonical:29571d67d1884710": "2026-09-13T14:22:34.054Z",
+    "canonical:2fc48e509b129096": "2026-09-13T17:28:58.695Z",
+    "canonical:7b1f6a597660612d": "2026-09-13T17:28:58.695Z",
+    "canonical:00053ae33decdf2c": "2026-09-13T17:28:58.695Z",
+    "canonical:6e179f27cd7704eb": "2026-09-13T17:28:58.695Z",
+    "canonical:a133af26c68087ae": "2026-09-13T17:28:58.695Z",
+    "canonical:4a77656807157e3b": "2026-09-13T17:28:58.695Z"
   },
   "jobs": [
     {
@@ -6471,6 +6477,20 @@
         "SWE-aligned",
         "high-signal role",
         "new grad"
+      ]
+    },
+    {
+      "id": "canonical:2fc48e509b129096",
+      "title": "Linux for Edge System Software Engineer (RDSS intern)",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Linux-for-Edge-System-Software-Engineer--RDSS-intern-_JR2023971",
+      "location": "Taiwan, Taipei",
+      "department": "",
+      "company": "Nvidia",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
       ]
     },
     {
@@ -25692,6 +25712,20 @@
       ]
     },
     {
+      "id": "canonical:7b1f6a597660612d",
+      "title": "Frontend & User Experience Intern",
+      "url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002",
+      "location": "New York, NY",
+      "department": "",
+      "company": "Virtu Financial",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:d7ee8cb1bef701ce",
       "title": "Full-Stack Software Engineer Intern",
       "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Full-Stack-Software-Engineer-Internship--Summer-2027-_R1350",
@@ -27072,6 +27106,20 @@
       "location": "San Francisco, CA",
       "department": "Software Engineering",
       "company": "Ivo",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:00053ae33decdf2c",
+      "title": "Junior Software Engineer",
+      "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5085231007",
+      "location": "Chicago, IL",
+      "department": "Software Engineering",
+      "company": "Geneva Trading",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -37512,6 +37560,19 @@
       ]
     },
     {
+      "id": "canonical:6e179f27cd7704eb",
+      "title": "OneStream Developer",
+      "url": "https://andrew-morgan.com/current-openings/?gh_jid=5389586008",
+      "location": "Remote in USA",
+      "department": "AI/ML/Data",
+      "company": "Andrew Morgan",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
+      ]
+    },
+    {
       "id": "canonical:723b0af8aeef928a",
       "title": "Software Development Engineer - Amazon Leo",
       "url": "https://amazon.jobs/en/jobs/3144341/software-development-engineer-amazon-leo-us",
@@ -40346,6 +40407,20 @@
       "location": "Remote in USA",
       "department": "AI/ML/Data",
       "company": "Torc Robotics",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:a133af26c68087ae",
+      "title": "Agentic AI Engineer - Automation",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5219383007",
+      "location": "Costa Mesa, CA",
+      "department": "Software",
+      "company": "Anduril",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -47694,6 +47769,20 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
+      ]
+    },
+    {
+      "id": "canonical:4a77656807157e3b",
+      "title": "Graduate C++ Software Engineer",
+      "url": "https://davincitrading.com/job/graduate-c-software-engineer-2/",
+      "location": "Miami, FL",
+      "department": "",
+      "company": "Da Vinci",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
       ]
     },
     {
