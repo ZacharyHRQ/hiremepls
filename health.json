@@ -1,21 +1,26 @@
 {
   "Microsoft": {
-    "consecutiveFailures": 75,
+    "consecutiveFailures": 76,
     "lastError": "timed out after 90000ms",
     "alerted": true
   },
+  "Scale AI": {
+    "consecutiveFailures": 1,
+    "lastError": "timed out after 20000ms",
+    "alerted": false
+  },
   "DeepMind": {
-    "consecutiveFailures": 55,
+    "consecutiveFailures": 56,
     "lastError": "greenhouse deepmind: HTTP 404",
     "alerted": true
   },
   "ClickHouse": {
-    "consecutiveFailures": 88,
+    "consecutiveFailures": 89,
     "lastError": "greenhouse clickhouse: HTTP 404",
     "alerted": true
   },
   "World Labs": {
-    "consecutiveFailures": 17,
+    "consecutiveFailures": 18,
     "lastError": "greenhouse worldlabs: HTTP 404",
     "alerted": true
   }
