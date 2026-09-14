@@ -1,32 +1,42 @@
 {
-  "PDT Partners": {
+  "Microsoft": {
+    "consecutiveFailures": 81,
+    "lastError": "timed out after 90000ms",
+    "alerted": true
+  },
+  "Sea Limited": {
+    "consecutiveFailures": 1,
+    "lastError": "timed out after 90000ms",
+    "alerted": false
+  },
+  "DeepMind": {
+    "consecutiveFailures": 61,
+    "lastError": "greenhouse deepmind: HTTP 404",
+    "alerted": true
+  },
+  "Waymo": {
     "consecutiveFailures": 1,
     "lastError": "timed out after 20000ms",
     "alerted": false
   },
-  "Microsoft": {
-    "consecutiveFailures": 80,
-    "lastError": "timed out after 90000ms",
-    "alerted": true
-  },
-  "DeepMind": {
-    "consecutiveFailures": 60,
-    "lastError": "greenhouse deepmind: HTTP 404",
-    "alerted": true
-  },
   "ClickHouse": {
-    "consecutiveFailures": 93,
+    "consecutiveFailures": 94,
     "lastError": "greenhouse clickhouse: HTTP 404",
     "alerted": true
   },
   "Anduril": {
-    "consecutiveFailures": 1,
+    "consecutiveFailures": 2,
     "lastError": "timed out after 20000ms",
     "alerted": false
   },
   "World Labs": {
-    "consecutiveFailures": 22,
+    "consecutiveFailures": 23,
     "lastError": "greenhouse worldlabs: HTTP 404",
     "alerted": true
+  },
+  "SpaceX": {
+    "consecutiveFailures": 1,
+    "lastError": "timed out after 20000ms",
+    "alerted": false
   }
 }
