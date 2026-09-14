@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-13T23:29:43.964Z",
+  "generatedAt": "2026-09-14T01:25:17.244Z",
   "companyCount": 212,
-  "okCount": 207,
+  "okCount": 208,
   "jobCount": 3617,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
@@ -185,7 +185,6 @@
     "canonical:ca8da888e42666cb": "2026-07-20T23:30:05.931Z",
     "canonical:e529b51d5a59d5ff": "2026-07-20T23:30:05.931Z",
     "canonical:860bcc481b25d07b": "2026-07-20T23:30:05.931Z",
-    "canonical:26035e0e18b50360": "2026-07-20T23:30:05.931Z",
     "canonical:c8ed86e2d1d09b0b": "2026-07-20T23:30:05.931Z",
     "canonical:bd3448f6d200118b": "2026-07-20T23:30:05.931Z",
     "canonical:7efa0d6817276979": "2026-07-20T23:30:05.931Z",
@@ -494,7 +493,6 @@
     "canonical:0ca1264d660170f3": "2026-08-10T23:05:00.755Z",
     "canonical:0c857c4be4fbe1a9": "2026-08-10T23:05:00.755Z",
     "canonical:8f03253d81083c84": "2026-08-10T23:05:00.755Z",
-    "canonical:073e340d37608d22": "2026-08-11T02:59:51.670Z",
     "canonical:805829640832b2f7": "2026-08-11T02:59:51.670Z",
     "canonical:a420c19f0acffe3c": "2026-08-11T02:59:51.670Z",
     "canonical:4b3f11e8c942ee2b": "2026-08-11T02:59:51.670Z",
@@ -3620,7 +3618,9 @@
     "canonical:5931c3532f052f7e": "2026-09-13T23:29:43.964Z",
     "canonical:fb2151abd6249680": "2026-09-13T23:29:43.964Z",
     "canonical:cd18679e441f56b6": "2026-09-13T23:29:43.964Z",
-    "canonical:d0da5e5759a87774": "2026-09-13T23:29:43.964Z"
+    "canonical:d0da5e5759a87774": "2026-09-13T23:29:43.964Z",
+    "canonical:c58dc2883cbbff06": "2026-09-14T01:25:17.244Z",
+    "canonical:50f9a40490bcc1ec": "2026-09-14T01:25:17.244Z"
   },
   "jobs": [
     {
@@ -5164,9 +5164,9 @@
       ]
     },
     {
-      "id": "canonical:a16063f44f44cf5d",
-      "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
-      "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
+      "id": "canonical:21bb6c7793322c09",
+      "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
       "location": "Los Gatos,California,United States of America",
       "department": "Engineering",
       "company": "Netflix",
@@ -5177,9 +5177,9 @@
       ]
     },
     {
-      "id": "canonical:21bb6c7793322c09",
-      "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
-      "url": "https://explore.jobs.netflix.net/careers/job/790317916733",
+      "id": "canonical:a16063f44f44cf5d",
+      "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317917022",
       "location": "Los Gatos,California,United States of America",
       "department": "Engineering",
       "company": "Netflix",
@@ -5273,6 +5273,35 @@
         "high-signal role",
         "direct ATS",
         "unknown location"
+      ]
+    },
+    {
+      "id": "canonical:ace6ba1594e89183",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
+      "location": "SF",
+      "department": "Software",
+      "company": "Scale AI",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:92d1a67c025ad2f8",
+      "title": "Software Engineer New Grad",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+      "location": "SF",
+      "department": "Software",
+      "company": "Scale AI",
+      "score": 99,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
+        "direct ATS"
       ]
     },
     {
@@ -7022,34 +7051,6 @@
       ]
     },
     {
-      "id": "canonical:073e340d37608d22",
-      "title": "Software Engineer Intern (Fall 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855",
-      "location": "In-Office",
-      "department": "",
-      "company": "Cloudflare",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:26035e0e18b50360",
-      "title": "Software Engineer Intern (Fall 2026) - Austin, TX",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785",
-      "location": "In-Office",
-      "department": "",
-      "company": "Cloudflare",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:9e77b692c483a95e",
       "title": "Software Engineering Intern",
       "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
@@ -7610,10 +7611,10 @@
       ]
     },
     {
-      "id": "canonical:ff94ce3e3a61871d",
+      "id": "canonical:65b7744d39e701da",
       "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002",
-      "location": "Redmond, WA",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8696080002?gh_jid=8696080002",
+      "location": "Palo Alto, CA",
       "department": "",
       "company": "SpaceX",
       "score": 99,
@@ -7625,10 +7626,10 @@
       ]
     },
     {
-      "id": "canonical:65b7744d39e701da",
+      "id": "canonical:ff94ce3e3a61871d",
       "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8696080002?gh_jid=8696080002",
-      "location": "Palo Alto, CA",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002",
+      "location": "Redmond, WA",
       "department": "",
       "company": "SpaceX",
       "score": 99,
@@ -7655,10 +7656,10 @@
       ]
     },
     {
-      "id": "canonical:5c783175efb2d21d",
+      "id": "canonical:e5fc71d7f2747338",
       "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
-      "location": "Bastrop, TX",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
+      "location": "Redmond, WA",
       "department": "",
       "company": "SpaceX",
       "score": 99,
@@ -7670,10 +7671,10 @@
       ]
     },
     {
-      "id": "canonical:e5fc71d7f2747338",
+      "id": "canonical:9e3d2558ee1b8bbf",
       "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
-      "location": "Redmond, WA",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8724316002?gh_jid=8724316002",
+      "location": "Hawthorne, CA",
       "department": "",
       "company": "SpaceX",
       "score": 99,
@@ -7700,10 +7701,10 @@
       ]
     },
     {
-      "id": "canonical:9e3d2558ee1b8bbf",
+      "id": "canonical:5c783175efb2d21d",
       "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8724316002?gh_jid=8724316002",
-      "location": "Hawthorne, CA",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
+      "location": "Bastrop, TX",
       "department": "",
       "company": "SpaceX",
       "score": 99,
@@ -20527,20 +20528,6 @@
       "location": "Palo Alto, CA / Irvine, CA",
       "department": "Software",
       "company": "Rivian and Volkswagen Group Technologies",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:ace6ba1594e89183",
-      "title": "Software Engineer Intern - Summer 2027",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
-      "location": "SF",
-      "department": "Software",
-      "company": "Scale AI",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -44855,21 +44842,6 @@
       ]
     },
     {
-      "id": "canonical:92d1a67c025ad2f8",
-      "title": "Software Engineer New Grad",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
-      "location": "SF",
-      "department": "Software",
-      "company": "Scale AI",
-      "score": 99,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:c92bdf4e88a09271",
       "title": "Software Development Engineer New Grad",
       "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003",
@@ -51035,6 +51007,34 @@
       ]
     },
     {
+      "id": "canonical:c58dc2883cbbff06",
+      "title": "2027 Summer Internship Program - Global Technology & Solutions - Software Engineer (SWE)",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Software-Engineer--SWE-_R_1510796-1",
+      "location": "Mount Laurel, New Jersey",
+      "department": "Software / Summer 2027",
+      "company": "TD Bank",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:50f9a40490bcc1ec",
+      "title": "2027 Summer Internship Program - Global Technology & Solutions - Data Engineer",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Engineer_R_1510797",
+      "location": "Mount Laurel, New Jersey",
+      "department": "Data & ML/AI / Summer 2027",
+      "company": "TD Bank",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:493f66b04c860481",
       "title": "Summer 2027 Internship - Computational and Software Engineering",
       "url": "https://jobs.lever.co/xcimer/fee9965c-8040-4614-8fd1-10bddfe3b911",
@@ -53154,10 +53154,6 @@
     {
       "company": "Microsoft",
       "message": "timed out after 90000ms"
-    },
-    {
-      "company": "Scale AI",
-      "message": "timed out after 20000ms"
     },
     {
       "company": "DeepMind",
