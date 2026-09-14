@@ -1,21 +1,21 @@
 {
   "Microsoft": {
-    "consecutiveFailures": 78,
+    "consecutiveFailures": 79,
     "lastError": "timed out after 90000ms",
     "alerted": true
   },
   "DeepMind": {
-    "consecutiveFailures": 58,
+    "consecutiveFailures": 59,
     "lastError": "greenhouse deepmind: HTTP 404",
     "alerted": true
   },
   "ClickHouse": {
-    "consecutiveFailures": 91,
+    "consecutiveFailures": 92,
     "lastError": "greenhouse clickhouse: HTTP 404",
     "alerted": true
   },
   "World Labs": {
-    "consecutiveFailures": 20,
+    "consecutiveFailures": 21,
     "lastError": "greenhouse worldlabs: HTTP 404",
     "alerted": true
   }

@@ -60,8 +60,8 @@
     "7997729",
     "7992936",
     "7991196",
-    "7942281",
     "8020364",
+    "7942281",
     "8014910",
     "8127242"
   ],
@@ -130,24 +130,28 @@
   ],
   "Scale AI": [
     "4730845005",
-    "4730836005"
+    "4730846005",
+    "4730834005",
+    "4730836005",
+    "4730851005",
+    "4730862005"
   ],
   "Replit": [
     "b5e81eae-06f9-4798-8988-2d06ca936dbc"
   ],
   "Stripe": [
+    "8130883",
     "8130867",
     "8031833",
-    "8130883",
     "8130807",
-    "8128745",
     "8130805",
+    "8128745",
     "8097801",
-    "8130930",
+    "8157838",
     "8130922",
+    "8130930",
     "8160776",
     "8128744",
-    "8157838",
     "8130881",
     "8130927"
   ],
@@ -164,11 +168,20 @@
   "MongoDB": [],
   "Cloudflare": [],
   "Datadog": [
-    "8114161",
     "8114186",
+    "8114161",
     "8052118"
   ],
-  "Robinhood": [],
+  "Robinhood": [
+    "8142930",
+    "8194428",
+    "8199729",
+    "8199744",
+    "8142961",
+    "8123225",
+    "8142959",
+    "8142963"
+  ],
   "Ramp": [],
   "Brex": [],
   "Affirm": [],
@@ -1914,7 +1927,6 @@
     "simplify:e86150cf-386f-4eac-99a4-224ea7eacfc3",
     "simplify:ea8a7a43-d2ba-4e7f-b5e9-a8a86b8e1946",
     "simplify:2202e642-993c-409e-9a28-010a98bbeafc",
-    "simplify:f9bd3523-3160-485e-9a7a-8d91620b01d0",
     "simplify:69225149-308a-4cc5-84fa-f22b334b94b9",
     "simplify:f682356d-55da-4f90-987d-77f140cc652d",
     "simplify:f455fb7a-6e82-4af2-b378-c5deb178c84d",
@@ -2371,7 +2383,6 @@
     "simplify:e670d442-7188-4ebf-a019-6706835ae548",
     "simplify:4f77c21f-b6c5-45b9-87c7-4087d47b9589",
     "simplify:d0e6095d-b7d9-4b98-9b30-5bc4f60fed04",
-    "simplify:7ffcd789-ef9d-4dfa-a950-34fda3485559",
     "simplify:ab415b2f-4b79-4996-a204-a63273564c89",
     "simplify:83d5ce20-ba22-49dc-a345-e4d8c85a7ef8",
     "simplify:2d12bca6-cc8c-4e3f-877e-0219f82a069b",
@@ -2586,7 +2597,6 @@
     "simplify:8172b446-22d1-4377-b335-6f5fd54371aa",
     "simplify:41047974-7321-45cf-b910-ac9710ae6e39",
     "simplify:ffc80c46-0710-4acb-82cc-c1e1d640674c",
-    "simplify:d69b4378-d3d7-4270-8839-244fb787224d",
     "simplify:23f42855-d656-4288-b470-cbc2fb8f3bbd",
     "simplify:4be8c595-47e2-4dbd-b5fa-40c7dd524910",
     "simplify:de753ad7-a941-4751-85c8-ff3d1b697b54",
@@ -2660,8 +2670,6 @@
     "simplify:0cac198d-5b59-411b-8ddf-3138668da722",
     "simplify:a61f9f72-9c0c-4aae-b389-6c806edc606a",
     "simplify:f9f97fdb-31b2-402a-8522-918cec708267",
-    "simplify:09239b96-d26a-4691-b9ab-9b8b442caa9f",
-    "simplify:93f4951e-c280-428f-8f6f-a0611c97b96e",
     "simplify:c81468d7-5674-4da5-8022-1abb69535db7",
     "simplify:b887b47d-3ded-45eb-8d5a-268813a2e75d",
     "simplify:3e77a1a2-8628-4836-9e07-b43a12a8468e",
@@ -2818,7 +2826,6 @@
     "simplify:a650b477-b0c4-4942-aa54-376017f3b6ef",
     "simplify:941463b7-732f-40bc-8932-531a347a7611",
     "simplify:5cdccc6d-3f48-476f-a0e7-576b4158a76b",
-    "simplify:5f51df85-f362-425b-811e-958c07266b8e",
     "simplify:556a9f83-e9ef-4df2-af50-03818c084d87",
     "simplify:16853d18-2909-41d9-9162-4cc792f0ea17",
     "simplify:14f23b27-94a9-4a14-8b54-c8b22a88277e",
@@ -2966,13 +2973,6 @@
     "simplify:1ea4c927-ae9b-4c03-a0ae-cb2af5e5a8cb",
     "simplify:8301a1da-b9e0-469a-9cb1-ed1913e214ed",
     "simplify:27f622fc-a5e9-4b35-bfb1-ac371473556a",
-    "simplify:5a49d74c-fa9f-4dd4-a66b-24fc3d9c1def",
-    "simplify:8f346a45-4490-4243-933e-264e3916e701",
-    "simplify:5bdec003-2a02-42a4-a602-467541840552",
-    "simplify:06098497-6840-4802-8838-81e0dbdec164",
-    "simplify:1949c912-65b2-42ac-9836-c110baed0ef6",
-    "simplify:b2b3a7df-bea1-4290-b988-4c3e567814b8",
-    "simplify:792220f4-3ba1-4cf8-843e-e23208ba8d24",
     "simplify:d3f54d58-9f89-4689-b91d-f9e03013c3ca",
     "simplify:640267ea-75f8-4809-867d-5b98a529ed1e",
     "simplify:d0242b0d-eda0-4a81-b130-d0719520e546",
@@ -3216,7 +3216,6 @@
     "simplify:3eaaacce-8988-4a88-a792-9f62a91ffac5",
     "simplify:25c808c8-0a2f-4eaf-8ec7-e6ba82c075f6",
     "simplify:c7e11532-97f0-4038-b67b-28a55c9f602a",
-    "simplify:477443e5-44fe-40b9-a621-9daa78a67a6a",
     "simplify:1fad44eb-f0f2-4488-b5b5-d2cf14ce2106",
     "simplify:62c76451-b1ac-4a6f-9979-b9c587df02e8",
     "simplify:b035a98e-db1a-4187-b55e-8cac0076bc05",
@@ -3390,7 +3389,11 @@
     "simplify:2f581eb5-e5d9-4bc0-a9b6-54a4ea8ad53d",
     "simplify:dadef677-ca3e-4484-9f78-4a718f8c64f7",
     "simplify:580171f7-4613-4a78-b99a-3b85b469f5d0",
-    "simplify:a78f5a0d-953f-4465-8622-6c6b2ad17d27"
+    "simplify:a78f5a0d-953f-4465-8622-6c6b2ad17d27",
+    "simplify:3dbc310b-10e9-42fe-b065-dd74747582e0",
+    "simplify:fcc0a6c7-e090-4804-8107-677c58b416a9",
+    "simplify:f9b5578c-e66c-4b11-a0e1-50809d9627eb",
+    "simplify:c19ee2fa-0e58-4623-b3ce-9f2afa6f2b21"
   ],
   "DoorDash": [],
   "Waymo": [
@@ -3520,7 +3523,6 @@
     "simplify:e86150cf-386f-4eac-99a4-224ea7eacfc3",
     "simplify:ea8a7a43-d2ba-4e7f-b5e9-a8a86b8e1946",
     "simplify:2202e642-993c-409e-9a28-010a98bbeafc",
-    "simplify:f9bd3523-3160-485e-9a7a-8d91620b01d0",
     "simplify:69225149-308a-4cc5-84fa-f22b334b94b9",
     "simplify:f682356d-55da-4f90-987d-77f140cc652d",
     "simplify:f455fb7a-6e82-4af2-b378-c5deb178c84d",
@@ -4191,7 +4193,6 @@
     "simplify:8172b446-22d1-4377-b335-6f5fd54371aa",
     "simplify:41047974-7321-45cf-b910-ac9710ae6e39",
     "simplify:ffc80c46-0710-4acb-82cc-c1e1d640674c",
-    "simplify:d69b4378-d3d7-4270-8839-244fb787224d",
     "simplify:23f42855-d656-4288-b470-cbc2fb8f3bbd",
     "simplify:4be8c595-47e2-4dbd-b5fa-40c7dd524910",
     "simplify:de753ad7-a941-4751-85c8-ff3d1b697b54",
@@ -4265,8 +4266,6 @@
     "simplify:0cac198d-5b59-411b-8ddf-3138668da722",
     "simplify:a61f9f72-9c0c-4aae-b389-6c806edc606a",
     "simplify:f9f97fdb-31b2-402a-8522-918cec708267",
-    "simplify:09239b96-d26a-4691-b9ab-9b8b442caa9f",
-    "simplify:93f4951e-c280-428f-8f6f-a0611c97b96e",
     "simplify:c81468d7-5674-4da5-8022-1abb69535db7",
     "simplify:b887b47d-3ded-45eb-8d5a-268813a2e75d",
     "simplify:3e77a1a2-8628-4836-9e07-b43a12a8468e",
@@ -4423,7 +4422,6 @@
     "simplify:a650b477-b0c4-4942-aa54-376017f3b6ef",
     "simplify:941463b7-732f-40bc-8932-531a347a7611",
     "simplify:5cdccc6d-3f48-476f-a0e7-576b4158a76b",
-    "simplify:5f51df85-f362-425b-811e-958c07266b8e",
     "simplify:556a9f83-e9ef-4df2-af50-03818c084d87",
     "simplify:16853d18-2909-41d9-9162-4cc792f0ea17",
     "simplify:14f23b27-94a9-4a14-8b54-c8b22a88277e",
@@ -4814,7 +4812,6 @@
     "simplify:3eaaacce-8988-4a88-a792-9f62a91ffac5",
     "simplify:25c808c8-0a2f-4eaf-8ec7-e6ba82c075f6",
     "simplify:c7e11532-97f0-4038-b67b-28a55c9f602a",
-    "simplify:477443e5-44fe-40b9-a621-9daa78a67a6a",
     "simplify:1fad44eb-f0f2-4488-b5b5-d2cf14ce2106",
     "simplify:62c76451-b1ac-4a6f-9979-b9c587df02e8",
     "simplify:b035a98e-db1a-4187-b55e-8cac0076bc05",
@@ -5020,8 +5017,8 @@
     "5211077007",
     "5228868007",
     "5162263007",
-    "5148079007",
-    "5231488007"
+    "5231488007",
+    "5148079007"
   ],
   "Sierra": [
     "149f368c-52d5-408f-ba26-ad888f318a00",
@@ -5368,7 +5365,6 @@
     "simplify:14e0c9c2-b9ec-416d-8e8a-452d848306ca",
     "simplify:67261498-8687-4b27-9544-79877952e397",
     "simplify:20565db4-0f8e-456e-b6e3-4c484757c633",
-    "simplify:35602e46-cb53-48a2-844c-72ece3de9e96",
     "simplify:2fa20de2-8430-4153-a099-18ad1c1d0abe",
     "simplify:90b92c02-68ac-4402-b8f2-91494bc89e19",
     "simplify:7e134007-3fa8-4732-84ca-e7119c8f4116",
@@ -5582,7 +5578,6 @@
     "simplify:52f9eadc-60f4-4611-acc4-ff1bb10ee61c",
     "simplify:f869bd1d-ad1f-4787-b2e3-56ad4eb4d7fa",
     "simplify:58ef82e0-8648-4b2b-8976-fee15467601b",
-    "simplify:e4663e63-d325-4e06-891e-2accedd8bd01",
     "simplify:8d034128-2890-424c-8eaf-9da47edf8fd2",
     "simplify:5eac3b25-b6c5-4db1-a66d-f2745601de75",
     "simplify:cb1b4088-7336-49cb-9256-5f2f746a9ca9",
@@ -5636,7 +5631,6 @@
     "simplify:06426b56-1656-40d9-af47-7df0807a5b02",
     "simplify:7e9606aa-9929-4fef-ac09-5b2a857dca9c",
     "simplify:18aa6242-cd69-4aa2-999b-e8a7f5daa34f",
-    "simplify:dfb14959-39c2-4aaa-8ea0-a7f75c6dd02e",
     "simplify:db70cc78-6903-4f3e-98df-d5eef1dabd84",
     "simplify:cdbfa910-357e-4c17-bf09-f7bb3cd80d34",
     "simplify:b027e384-ef72-4db9-8ff3-c63ea36f4583",
@@ -6130,7 +6124,6 @@
     "simplify:1cfdcea8-0b71-4260-84d5-4bd4ca6ed4e7",
     "simplify:85d7cbe8-ca54-4877-83dd-d0a6cfcc4157",
     "simplify:20c02c35-0308-4e8c-b562-67ba4694b3b5",
-    "simplify:610f0d04-dcde-4471-b453-03c32a16f5a2",
     "simplify:dc6284c7-4bc7-41bd-b3a7-77ad38c4a1a9",
     "simplify:abb10756-7c15-4694-8cfc-00d3fb05f0ad",
     "simplify:056b26ef-e0ea-46b5-a9b5-ee49aeb48aff",
@@ -6148,7 +6141,6 @@
     "simplify:11435ff1-cc4d-469b-9935-224cfaeec6c6",
     "simplify:1f2bf4b5-3f79-48a6-a9df-947ef666ee29",
     "simplify:707f077b-d4f3-4d3b-a12c-a7dd9eb195ce",
-    "simplify:748876fb-0603-4b73-b26c-469bc138674c",
     "simplify:9ecb4578-6a8a-4f73-ac53-0651cbbd7167",
     "simplify:2db7fa24-ce61-44d2-ab75-88bedecf3d02",
     "simplify:2029943e-bdea-40e0-af4d-e7e07e36b06a",
@@ -6229,7 +6221,6 @@
     "simplify:deebe837-33bf-4674-9b5a-57ef02b237bc",
     "simplify:d90d96a5-7e3f-429a-a361-5bd441bfee20",
     "simplify:aaaf6712-7668-4213-8ab7-1a1775b04c53",
-    "simplify:b2d99288-c86e-4027-95fd-d19f07bca4f5",
     "simplify:ce76b0bf-36f0-4008-b0a0-193ee9e09639",
     "simplify:1ea3eee5-9e41-4423-bc32-566742b27aea",
     "simplify:772be052-ed58-441e-842c-c09ea91a96a2",
@@ -6583,7 +6574,6 @@
     "simplify:2bc0f412-6c26-4576-9437-c70b0e34157c",
     "simplify:a022f5c9-0487-4af6-b1a5-2923cb1bebae",
     "simplify:56d700ec-1b48-4eeb-af33-207bb295fe53",
-    "simplify:d97bdfde-b54b-45fb-a542-9a9a52d5db47",
     "simplify:51f06e64-b653-4363-a586-495a2ba7ea3f",
     "simplify:e5ed2149-8086-477f-98d5-c2374df6cdd3",
     "simplify:2be6f759-96be-4dc7-a468-cf02a80bdef5",
@@ -6701,7 +6691,6 @@
     "simplify:ed0a9aef-23a9-42d0-8f18-6c2724a49021",
     "simplify:ff8c6de4-ab67-493b-9403-785313a14f0b",
     "simplify:3cf2989b-3ddf-42e1-9cab-51ba4f0c682a",
-    "simplify:33b49b9d-1aed-41bb-ba49-d0567c7f2f94",
     "simplify:3f2de24b-8f96-4412-93d4-eedb22a6d3f5",
     "simplify:d35dd23b-846b-4263-be1b-ff94fdfab2e5",
     "simplify:1acd5a07-50ab-4e8a-8cb2-be9a1ae33d8b",
@@ -7280,8 +7269,6 @@
   "Google": [
     "78461517569106630",
     "119792881211712198",
-    "112524389945090758",
-    "89285191637312198",
     "95456724634215110",
     "122205785248670406",
     "105855563622949574",
@@ -7294,7 +7281,8 @@
     "104556982945358534",
     "73177450879558342",
     "80119160196997830",
-    "72704944984990406"
+    "72704944984990406",
+    "137844418303402694"
   ],
   "Apple": [
     "200682229-1731",
@@ -7323,8 +7311,8 @@
   "Susquehanna (SIG)": [],
   "Millennium Management": [],
   "Netflix": [
-    "790317916733",
-    "790317917022"
+    "790317917022",
+    "790317916733"
   ],
   "Grab": [
     "744000148399141",
@@ -7332,6 +7320,7 @@
     "744000134684719"
   ],
   "Sea Limited": [
+    "J02180598",
     "J02044564"
   ],
   "Nvidia": [
