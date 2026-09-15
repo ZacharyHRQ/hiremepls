@@ -1,21 +1,36 @@
 {
+  "Netflix": {
+    "consecutiveFailures": 1,
+    "lastError": "webview netflix: 31 | \n32 | async function fetchPage(start: number): Promise<EightfoldResponse> {\n33 |   const params = new URLSearchParams({ domain: DOMAIN, start: String(start), num: String(PAGE_SIZE), sort_by: \"relevance\" });\n34 |   for (const t of TEAMS) params.append(\"Teams\", t);\n35 |   const res = await fetch(`${HOST}/api/apply/v2/jobs?${params}`, { headers: { Accept: \"application/json\" } });\n36 |   if (!res.ok) throw new Error(`netflix: HTTP ${res.status} at start=${start}`);\n                              ^\nerror: netflix: HTTP 429 at start=0\n      at fetchPage (/home/runner/work/hiremepls/hiremepls/scripts/webview/netflix.ts:36:26)\n      at async main (/home/runner/work/hiremepls/hiremepls/scripts/webview/netflix.ts:47:24)",
+    "alerted": false
+  },
   "Microsoft": {
-    "consecutiveFailures": 84,
+    "consecutiveFailures": 85,
     "lastError": "timed out after 90000ms",
     "alerted": true
   },
+  "Sea Limited": {
+    "consecutiveFailures": 1,
+    "lastError": "timed out after 90000ms",
+    "alerted": false
+  },
   "DeepMind": {
-    "consecutiveFailures": 64,
+    "consecutiveFailures": 65,
     "lastError": "greenhouse deepmind: HTTP 404",
     "alerted": true
   },
+  "Duolingo": {
+    "consecutiveFailures": 1,
+    "lastError": "timed out after 20000ms",
+    "alerted": false
+  },
   "ClickHouse": {
-    "consecutiveFailures": 97,
+    "consecutiveFailures": 98,
     "lastError": "greenhouse clickhouse: HTTP 404",
     "alerted": true
   },
   "World Labs": {
-    "consecutiveFailures": 26,
+    "consecutiveFailures": 27,
     "lastError": "greenhouse worldlabs: HTTP 404",
     "alerted": true
   }
