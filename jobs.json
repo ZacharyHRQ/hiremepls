@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-18T17:21:36.962Z",
+  "generatedAt": "2026-09-18T19:47:50.754Z",
   "companyCount": 212,
-  "okCount": 206,
-  "jobCount": 3936,
+  "okCount": 207,
+  "jobCount": 3943,
   "firstSeen": {
     "canonical:13cbc9dfd9f78b7b": "2026-05-06T06:42:07.596Z",
     "canonical:19a13c3b45c2096e": "2026-05-06T06:42:07.596Z",
@@ -2942,7 +2942,6 @@
     "canonical:c863a87565e2e14f": "2026-09-10T00:11:36.570Z",
     "canonical:01a23273cce9023f": "2026-09-10T00:11:36.570Z",
     "canonical:a1a9aeb85e71a3bf": "2026-09-10T00:11:36.570Z",
-    "canonical:9b8ec89520d83732": "2026-09-10T00:11:36.570Z",
     "canonical:2bcf75ea86d465d6": "2026-09-10T00:11:36.570Z",
     "canonical:6523b2efa253391d": "2026-09-10T00:11:36.570Z",
     "canonical:0fde1a72b5ff814c": "2026-09-10T00:11:36.570Z",
@@ -3939,7 +3938,15 @@
     "canonical:516d92be0df0ea4a": "2026-09-18T17:21:36.962Z",
     "canonical:3144b977d12987b6": "2026-09-18T17:21:36.962Z",
     "canonical:e80fbf338d841a04": "2026-09-18T17:21:36.962Z",
-    "canonical:c37760602da77ea9": "2026-09-18T17:21:36.962Z"
+    "canonical:c37760602da77ea9": "2026-09-18T17:21:36.962Z",
+    "canonical:96a84e855739955e": "2026-09-18T19:47:50.754Z",
+    "canonical:e041e6960cc27b1a": "2026-09-18T19:47:50.754Z",
+    "canonical:1decc6cedb24c4ec": "2026-09-18T19:47:50.754Z",
+    "canonical:fde48c682ccfb6da": "2026-09-18T19:47:50.754Z",
+    "canonical:4adc66ead5a05872": "2026-09-18T19:47:50.754Z",
+    "canonical:e556a9a736847508": "2026-09-18T19:47:50.754Z",
+    "canonical:1ae22981c8ef9f13": "2026-09-18T19:47:50.754Z",
+    "canonical:d0d217f4ab1fae9e": "2026-09-18T19:47:50.754Z"
   },
   "jobs": [
     {
@@ -5596,6 +5603,20 @@
       ]
     },
     {
+      "id": "canonical:ace6ba1594e89183",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
+      "location": "SF",
+      "department": "Software",
+      "company": "Scale AI",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:1b33b491fc7263cf",
       "title": "Software Engineering Intern (Summer 2027) ",
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005",
@@ -5624,25 +5645,11 @@
       ]
     },
     {
-      "id": "canonical:ace6ba1594e89183",
-      "title": "Software Engineer Intern - Summer 2027",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
-      "location": "SF",
-      "department": "Software",
-      "company": "Scale AI",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:92d1a67c025ad2f8",
-      "title": "Software Engineer New Grad",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
-      "location": "SF",
-      "department": "Software",
+      "id": "canonical:8d7d69128e29dfb4",
+      "title": "Software Engineer - New Grad",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
+      "location": "Doha, Qatar ",
+      "department": "",
       "company": "Scale AI",
       "score": 99,
       "scoreReasons": [
@@ -5668,11 +5675,11 @@
       ]
     },
     {
-      "id": "canonical:8d7d69128e29dfb4",
-      "title": "Software Engineer - New Grad",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
-      "location": "Doha, Qatar ",
-      "department": "",
+      "id": "canonical:92d1a67c025ad2f8",
+      "title": "Software Engineer New Grad",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+      "location": "SF",
+      "department": "Software",
       "company": "Scale AI",
       "score": 99,
       "scoreReasons": [
@@ -5710,6 +5717,19 @@
         "high-signal role",
         "direct ATS",
         "unknown location"
+      ]
+    },
+    {
+      "id": "canonical:96a84e855739955e",
+      "title": "Early Career Software Engineer, Quality Engineering",
+      "url": "https://careers.airbnb.com/positions/8154749?gh_jid=8154749",
+      "location": "Brazil",
+      "department": "",
+      "company": "Airbnb",
+      "score": 85,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role"
       ]
     },
     {
@@ -7433,39 +7453,25 @@
       ]
     },
     {
-      "id": "canonical:8ec1c20902adca55",
-      "title": "Software Engineer New Grad",
-      "url": "https://stripe.com/jobs/search?gh_jid=8157838",
-      "location": "Toronto, ON, Canada",
-      "department": "Software",
-      "company": "Stripe",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad"
-      ]
-    },
-    {
-      "id": "canonical:813e5792c4ee4443",
-      "title": "Software Engineer, New Grad",
-      "url": "https://stripe.com/jobs/search?gh_jid=8130881",
-      "location": "Dublin",
-      "department": "",
-      "company": "Stripe",
-      "score": 91,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad"
-      ]
-    },
-    {
       "id": "canonical:c243aa49973552e9",
       "title": "Software Engineer New Grad",
       "url": "https://stripe.com/jobs/search?gh_jid=8128744",
       "location": "Seattle, WA / SF / NYC",
       "department": "Software",
+      "company": "Stripe",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
+      ]
+    },
+    {
+      "id": "canonical:d2da0508b4983912",
+      "title": "Software Engineer, New Grad",
+      "url": "https://stripe.com/jobs/search?gh_jid=8160776",
+      "location": "Singapore",
+      "department": "",
       "company": "Stripe",
       "score": 91,
       "scoreReasons": [
@@ -7489,10 +7495,24 @@
       ]
     },
     {
-      "id": "canonical:d2da0508b4983912",
+      "id": "canonical:8ec1c20902adca55",
+      "title": "Software Engineer New Grad",
+      "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+      "location": "Toronto, ON, Canada",
+      "department": "Software",
+      "company": "Stripe",
+      "score": 91,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad"
+      ]
+    },
+    {
+      "id": "canonical:813e5792c4ee4443",
       "title": "Software Engineer, New Grad",
-      "url": "https://stripe.com/jobs/search?gh_jid=8160776",
-      "location": "Singapore",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130881",
+      "location": "Dublin",
       "department": "",
       "company": "Stripe",
       "score": 91,
@@ -8113,6 +8133,103 @@
       ]
     },
     {
+      "id": "canonical:e041e6960cc27b1a",
+      "title": "2026 Early Career Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007",
+      "location": "Atlanta, Georgia, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Seattle, Washington, United States",
+      "department": "",
+      "company": "Anduril",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1decc6cedb24c4ec",
+      "title": "2026 Robotics Engineer Intern",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5211095007?gh_jid=5211095007",
+      "location": "Sydney, New South Wales, Australia",
+      "department": "",
+      "company": "Anduril",
+      "score": 83,
+      "scoreReasons": [
+        "SWE-aligned",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:fde48c682ccfb6da",
+      "title": "2026 Software Engineering Intern",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5211077007?gh_jid=5211077007",
+      "location": "Sydney, New South Wales, Australia",
+      "department": "",
+      "company": "Anduril",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:4adc66ead5a05872",
+      "title": "2027 Early Career Flight Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007",
+      "location": "Costa Mesa, California, United States",
+      "department": "",
+      "company": "Anduril",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:e556a9a736847508",
+      "title": "2027 Early Career Software Engineer ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007",
+      "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+      "department": "",
+      "company": "Anduril",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1dc210b262114dd8",
+      "title": "2027 Flight Software Engineer Intern",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007",
+      "location": "Costa Mesa, California, United States",
+      "department": "Software / Summer 2027",
+      "company": "Anduril",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:b7faa5785a1882b5",
+      "title": "2027 Software Engineer Intern",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
+      "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+      "department": "Software / Summer 2027",
+      "company": "Anduril",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:80ec15dece48f664",
       "title": "Software Engineer, Agent (New Grad 2027)",
       "url": "https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00",
@@ -8217,10 +8334,10 @@
       ]
     },
     {
-      "id": "canonical:b2b48070c0d91da2",
+      "id": "canonical:43d687b94e0ab208",
       "title": "New Graduate Engineer, Security Software (Starshield) ",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002",
-      "location": "Hawthorne, CA",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002",
+      "location": "Washington, DC",
       "department": "",
       "company": "SpaceX",
       "score": 99,
@@ -8232,10 +8349,10 @@
       ]
     },
     {
-      "id": "canonical:43d687b94e0ab208",
+      "id": "canonical:b2b48070c0d91da2",
       "title": "New Graduate Engineer, Security Software (Starshield) ",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002",
-      "location": "Washington, DC",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002",
+      "location": "Hawthorne, CA",
       "department": "",
       "company": "SpaceX",
       "score": 99,
@@ -8277,21 +8394,6 @@
       ]
     },
     {
-      "id": "canonical:ff94ce3e3a61871d",
-      "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002",
-      "location": "Redmond, WA",
-      "department": "",
-      "company": "SpaceX",
-      "score": 99,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "new grad",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:65b7744d39e701da",
       "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
       "url": "https://boards.greenhouse.io/spacex/jobs/8696080002?gh_jid=8696080002",
@@ -8307,10 +8409,10 @@
       ]
     },
     {
-      "id": "canonical:fb01bf97eeabc1a1",
-      "title": "New Graduate Engineer, Software (Application Software)",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8730567002?gh_jid=8730567002",
-      "location": "Hawthorne, CA",
+      "id": "canonical:ff94ce3e3a61871d",
+      "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002",
+      "location": "Redmond, WA",
       "department": "",
       "company": "SpaceX",
       "score": 99,
@@ -8322,10 +8424,10 @@
       ]
     },
     {
-      "id": "canonical:84beb60eb4400bde",
-      "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
-      "location": "Palo Alto, CA",
+      "id": "canonical:fb01bf97eeabc1a1",
+      "title": "New Graduate Engineer, Software (Application Software)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8730567002?gh_jid=8730567002",
+      "location": "Hawthorne, CA",
       "department": "",
       "company": "SpaceX",
       "score": 99,
@@ -8382,10 +8484,10 @@
       ]
     },
     {
-      "id": "canonical:59a779057245b873",
-      "title": "New Graduate Engineer, Software (Starship)",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8743362002?gh_jid=8743362002",
-      "location": "Hawthorne, CA",
+      "id": "canonical:84beb60eb4400bde",
+      "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
+      "location": "Palo Alto, CA",
       "department": "",
       "company": "SpaceX",
       "score": 99,
@@ -8401,6 +8503,21 @@
       "title": "New Graduate Engineer, Software (Starship)",
       "url": "https://boards.greenhouse.io/spacex/jobs/8729121002?gh_jid=8729121002",
       "location": "Starbase, TX",
+      "department": "",
+      "company": "SpaceX",
+      "score": 99,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "new grad",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:59a779057245b873",
+      "title": "New Graduate Engineer, Software (Starship)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8743362002?gh_jid=8743362002",
+      "location": "Hawthorne, CA",
       "department": "",
       "company": "SpaceX",
       "score": 99,
@@ -8949,6 +9066,20 @@
       "location": "Milpitas, CA",
       "department": "Software Engineering",
       "company": "Arlo",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
+      "id": "canonical:1ae22981c8ef9f13",
+      "title": "Software Engineering Intern - Test Automation",
+      "url": "https://job-boards.greenhouse.io/digs/jobs/4663939006",
+      "location": "Vancouver, WA",
+      "department": "Software Engineering",
+      "company": "Digs",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -28315,20 +28446,6 @@
       "scoreReasons": [
         "SWE-aligned",
         "high-signal role"
-      ]
-    },
-    {
-      "id": "canonical:b7faa5785a1882b5",
-      "title": "2027 Software Engineer Intern",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
-      "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
-      "department": "Software / Summer 2027",
-      "company": "Anduril",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
       ]
     },
     {
@@ -47789,20 +47906,6 @@
       ]
     },
     {
-      "id": "canonical:9b8ec89520d83732",
-      "title": "Technology Analyst - Software Engineering",
-      "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Analyst---Software-Engineering_R161465-1",
-      "location": "Chicago, IL",
-      "department": "Software",
-      "company": "Northern Trust",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
       "id": "canonical:2bcf75ea86d465d6",
       "title": "Junior Army Fires Modeling and Simulation Developer",
       "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Fort-Belvoir-Virginia/Entry-Level--Junior-Army-Fires-Modeling-and-Simulation-Developer_R2129634",
@@ -55007,6 +55110,20 @@
       ]
     },
     {
+      "id": "canonical:d0d217f4ab1fae9e",
+      "title": "Software Engineer Intern - St. Pete Site",
+      "url": "https://jobs.lever.co/acronaviation/19dbac7d-b4fb-4d21-9247-dc610bf55fed",
+      "location": "St Petersburg, FL",
+      "department": "Software / Not stated",
+      "company": "Acron Aviation",
+      "score": 93,
+      "scoreReasons": [
+        "SWE-aligned",
+        "high-signal role",
+        "direct ATS"
+      ]
+    },
+    {
       "id": "canonical:516d92be0df0ea4a",
       "title": "Transportation Engineering Intern - Infrastructure (Summer 2027)",
       "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007804",
@@ -55276,20 +55393,6 @@
       "location": "Plastipak GBTC - Plymouth, MI",
       "department": "Software / Summer 2027",
       "company": "Plastipak",
-      "score": 93,
-      "scoreReasons": [
-        "SWE-aligned",
-        "high-signal role",
-        "direct ATS"
-      ]
-    },
-    {
-      "id": "canonical:1dc210b262114dd8",
-      "title": "2027 Flight Software Engineer Intern",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007",
-      "location": "Costa Mesa, California, United States",
-      "department": "Software / Summer 2027",
-      "company": "Anduril",
       "score": 93,
       "scoreReasons": [
         "SWE-aligned",
@@ -57859,10 +57962,6 @@
     {
       "company": "ClickHouse",
       "message": "greenhouse clickhouse: HTTP 404"
-    },
-    {
-      "company": "Anduril",
-      "message": "timed out after 20000ms"
     },
     {
       "company": "World Labs",
