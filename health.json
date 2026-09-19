@@ -1,31 +1,26 @@
 {
   "Microsoft": {
-    "consecutiveFailures": 110,
+    "consecutiveFailures": 111,
     "lastError": "timed out after 90000ms",
     "alerted": true
   },
-  "Flow Traders": {
-    "consecutiveFailures": 1,
-    "lastError": "timed out after 20000ms",
-    "alerted": false
-  },
   "DeepMind": {
-    "consecutiveFailures": 90,
+    "consecutiveFailures": 91,
     "lastError": "greenhouse deepmind: HTTP 404",
     "alerted": true
   },
   "Postman": {
-    "consecutiveFailures": 18,
+    "consecutiveFailures": 19,
     "lastError": "greenhouse postman: HTTP 404",
     "alerted": true
   },
   "ClickHouse": {
-    "consecutiveFailures": 123,
+    "consecutiveFailures": 124,
     "lastError": "greenhouse clickhouse: HTTP 404",
     "alerted": true
   },
   "World Labs": {
-    "consecutiveFailures": 52,
+    "consecutiveFailures": 53,
     "lastError": "greenhouse worldlabs: HTTP 404",
     "alerted": true
   }
